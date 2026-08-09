@@ -88,6 +88,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [8.2 Soups](#82-soups) ○
 - [8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ✅
 - [8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ✅ ⭐ *(house favorite)*
+- [8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -117,6 +118,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)** — transcribed from a printed cookbook page, from the same source book as **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** (same missing "Basic Seafood Stock" reference). A seafood counterpart to **[§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo)**, cross-linked both ways, and added to **[§T1](#t1-how-to-make-a-roux)**'s "Used in" line and the **[§T7 glossary's Gumbo entry](#t7-louisiana-language--ingredients)**. **Flagged rather than guessed:** the source's instructions for the final step — adding the shrimp, oysters, and crabmeat — were hard to read cleanly off the page; reconstructed to the standard gumbo move (brief heat, don't overcook delicate seafood) and marked as the least certain part of the transcription in Open Questions. Also missing: the source's own "Basic Cooked Rice" recipe (page 224) — plain white rice substituted. |
 | 2026-08-09 | Added **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** — transcribed from a printed cookbook page, a second and more seafood-forward jambalaya alongside **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)** (cross-linked both ways, and from the **[§T7 glossary's Jambalaya entry](#t7-louisiana-language--ingredients)**). Three transcription ambiguities flagged in Open Questions rather than silently resolved: the source's "Basic Seafood Stock (page 32)" and "Creole Sauce (page 248)" aren't in this cookbook, and the instructions wrap across a page break in a way that left the exact wording around adding the chicken, and around a possible duplicate rice addition, uncertain — both reconstructed to the most sensible reading and flagged for confirmation against the original page. |
 | 2026-08-09 | Added **[§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)** — transcribed from a printed lifesambrosia.com recipe. Filed alongside §5.9 Goat Cheese Salad as the cookbook's second salad. Noted inline that the card's 5-minute pasta cook time runs short for rotini — go by the package. Open Question flagged on when the avocado goes in, since it's sliced into a salad that then chills 30 minutes, and sliced avocado browns fast. |
 | 2026-08-09 | Added **[§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth)** — a rotisserie-chicken carcass plus a quart of store-bought broth, simmered 30 minutes into 2 quarts. Wired to **[§T9's rotisserie-chicken tip](#f-tips-and-tricks)** both ways, since the same bird that gives you the shredded meat also gives you the bones for this broth. **Distinguished from [§T4](#t4-stocks--ingredient-conventions)** rather than left to overlap with it — §T4 is the from-scratch, hours-long stock; §T12 is the fast doctor-up built to match how quick the rest of Cody's soup formulas are meant to be. |
@@ -722,7 +724,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 
 <!-- TECHNIQUE-TAGS: roux, gumbo-base, gravy, etouffee, cajun -->
 **Tags:** `roux` · `gumbo-base` · `gravy` · `etouffee` · `cajun`
-**Used in:** [§8.3 Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · every future gumbo, gravy, and étouffée
+**Used in:** [§8.3 Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · every future gumbo, gravy, and étouffée
 
 The fast, high-heat Cajun method, taken down from the technique pages Cody photographed out of the same book §8.3 came from. This is the roux that [§8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) calls for, and it will be the roux for gumbos, gravies, and étouffées as those get written up.
 
@@ -1057,7 +1059,7 @@ A glossary for the Cajun and Creole recipes in this cookbook.
 | **Andouille** (ahn-*DOO*-i) | The most popular Cajun smoked pure-pork sausage. Called for in [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo) and [§7.16 Red Beans & Rice](#716-red-beans--rice). |
 | **Creole tomatoes** | Grown in the reclaimed Mississippi delta, where the soil runs saltier and richer in minerals than most places. Always vine-ripened, lower in acid, better texture, much more flavor. **Substitute:** whatever the best local vine-ripened tomato in your area is. |
 | **Étouffée** | Literally "smothered" — in Louisiana cooking, covered with a liquid. In practice it means a dish with a cooked roux in the sauce. *(In French Louisiana the accent stays off the first "e" — with it, you're smothering a person.)* |
-| **Gumbo** | A Cajun soup nearly always built on a cooked roux ([§T1](#t1-how-to-make-a-roux)), sometimes thickened further with okra or filé. Carries a mix of vegetables and meats or seafood, and is served over rice. Often topped with filé at the table. |
+| **Gumbo** | A Cajun soup nearly always built on a cooked roux ([§T1](#t1-how-to-make-a-roux)), sometimes thickened further with okra or filé. Carries a mix of vegetables and meats or seafood, and is served over rice. Often topped with filé at the table. See [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo) (chicken) and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) (seafood). |
 | **Ham, Cure 81** | The most consistent, best-tasting ham with national distribution. |
 | **Jambalaya** (djum-buh-*LIE*-ya) | A heavily seasoned, strongly flavored rice dish taking any combination of beef, pork, fowl, smoked sausage, ham or tasso, or seafood — often with tomatoes. The name is a collision of French *jambon* (ham), African *ya* (rice), and the Acadian habit of putting "à la" on everything. See [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) and [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya). |
 | **Lagniappe** | A little something extra, given as a gift or a show of appreciation. |
@@ -2545,7 +2547,7 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 
 ### 8.3 Chicken and Andouille Smoked Sausage Gumbo
 
-Transcribed from the cookbook page Cody photographed — a classic Louisiana chicken-and-andouille gumbo built on a **near-black roux made in the same oil the chicken was fried in**. The margin note on the page reads *"Awesome! 12/19/14"*, so this one already has a track record.
+Transcribed from the cookbook page Cody photographed — a classic Louisiana chicken-and-andouille gumbo built on a **near-black roux made in the same oil the chicken was fried in**. The margin note on the page reads *"Awesome! 12/19/14"*, so this one already has a track record. *A seafood counterpart — shrimp, oysters, and crabmeat in place of the chicken — lives at [§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage).*
 
 Makes **6 main-dish or 10 appetizer servings**.
 
@@ -2725,6 +2727,108 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 - ~~Do you actually put the tomatoes in?~~ **Settled 2026-08-09 — no tomatoes.** The source page never said to omit them for this soup, so they were written in at first; Cody confirmed he makes it without. The recipe above is corrected, and this now stands as a documented deviation from the source rather than an open question.
 - Thighs or breasts — which do you use?
 - Does the rice hold up as leftovers, or does it drink the broth overnight? *(If it does, cooking the rice separately and adding it per bowl is the usual fix.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage
+
+Transcribed from a printed cookbook page — a big-batch seafood gumbo (shrimp, oysters, and crabmeat) with andouille, built on a dark roux. From the same source book as [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) — it references the same "Basic Seafood Stock" and points at its own roux page the same way [§T1](#t1-how-to-make-a-roux) is written up here. A seafood counterpart to [§8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo).
+
+Makes **10 main-dish or 20 appetizer servings**.
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) · [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes)
+
+**Read [§T1](#t1-how-to-make-a-roux) before you start.** The roux here is smoking-hot oil taken to dark red-brown or black, same danger profile as §8.3's — the source page's own warning is "being careful not to let it scorch or splash on your skin." Long sleeves, long-handled metal whisk, everything measured and within reach.
+
+#### A. Ingredients
+
+**Vegetables**
+
+- 2 cups chopped onions
+- 1½ cups chopped green bell peppers
+- 1 cup chopped celery
+
+**Seasoning mix**
+
+- 2 whole bay leaves
+- 2 tsp salt
+- ½ tsp white pepper
+- ½ tsp ground red pepper, preferably cayenne
+- ½ tsp black pepper
+- ½ tsp dried thyme leaves
+- ¼ tsp dried oregano leaves
+
+**Roux and stock**
+
+- ¾ cup vegetable oil
+- ¾ cup all-purpose flour
+- 1 Tbsp minced garlic
+- 5½ cups seafood stock — *see Open Questions*
+
+**Meat and seafood**
+
+- 1 lb andouille smoked sausage (preferred), or any other good pure smoked pork sausage such as kielbasa, cut into ½-inch pieces
+- 1 lb peeled medium shrimp
+- 1 dozen medium to large oysters in their liquor — about 9 oz.
+- ¾ lb crabmeat, picked over
+
+**To serve**
+
+- 2½ cups hot cooked rice — *plain white rice works; the source points at its own rice recipe (page 224), not in this cookbook*
+
+#### B. Cooking Instructions
+
+**1. Prep the vegetables and the seasoning mix, separately.**
+Onions, bell peppers, and celery together in one bowl. The seven seasoning-mix ingredients combined in a second, small bowl. Per [T5](#t5-seasonings--peppers), premixing the seasoning means one bowl to grab mid-cook rather than seven jars.
+
+**2. Make the roux: oil smoking, then flour, whisked to dark red-brown or black. 2–4 minutes.**
+Heat the oil in a large heavy skillet over high heat until it just begins to smoke, about 5 minutes. Gradually whisk in the flour with a long-handled metal whisk, whisking constantly. Keep going until the roux is **dark red-brown to black** — 2 to 4 minutes — and **be careful not to let it scorch or splash on your skin**. Full technique and the burn-risk explanation: [§T1](#t1-how-to-make-a-roux).
+
+**3. Stop the roux with half the vegetables, then the rest.**
+The instant the roux hits color, add **half** the vegetables and stir well — switch to a spoon if the whisk can't keep up. Keep stirring about 1 minute. Add the **remaining** vegetables and cook about 2 minutes more, stirring frequently.
+
+**4. Add the seasoning mix, then the garlic. About 3 minutes total.**
+Stir in the seasoning mix and cook about 2 minutes, stirring well. Stir in the garlic and cook about 1 minute more. Pull the pan off the heat — this roux-and-vegetable mixture is what goes into the stock next.
+
+**5. Bring the seafood stock to a boil.**
+Meanwhile, in a 5½-quart saucepan or large Dutch oven, bring the stock to a boil.
+
+**6. Whisk the roux mixture into the boiling stock, by spoonfuls. Boil 15 minutes.**
+Add the roux mixture a spoonful at a time, stirring until each addition dissolves before the next goes in — same rule as [§T1](#t1-how-to-make-a-roux)'s step for dissolving roux into stock. Once it's all in, bring back to a boil and continue boiling 15 minutes.
+
+**7. Add the andouille. Return to a boil, then simmer 10 minutes more.**
+
+**8. Add the shrimp, oysters (with their liquor), and crabmeat. Cook briefly, just until the seafood is done.**
+Stir them in and cook a short time over the heat, stirring occasionally, until the shrimp are pink and the seafood is just cooked through — *see Open Questions; the source's exact wording for this step was hard to read cleanly*. Pull off the heat, skim any oil off the surface, and serve immediately. **Don't let the seafood sit in the hot pot** — shrimp, oysters, and crab all overcook fast.
+
+**9. Serve over rice.**
+Main course: mound ¼ cup hot rice in the middle of each bowl, then spoon 1 cup of gumbo over it, making sure everyone gets a fair share of the seafood and andouille. Appetizer: half that — 2 Tbsp rice, ½ cup gumbo.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Onions, green bell peppers, celery
+- 🛒 Bay leaves, salt, white pepper, ground red pepper (cayenne), black pepper, dried thyme, dried oregano
+- 🛒 Vegetable oil
+- 🛒 All-purpose flour
+- 🛒 Garlic
+- 🛒 Andouille sausage or kielbasa — 1 lb
+- 🛒 White rice — 2½ cups cooked
+
+**🏪 Specific store — fish market**
+
+- 🏪 Peeled medium shrimp — 1 lb
+- 🏪 Oysters in their liquor, medium-large — about 9 oz.
+- 🏪 Crabmeat, picked over — ¾ lb
+
+#### D. Open Questions
+
+- **Seafood stock:** same gap as [§7.20](#720-chicken-and-seafood-jambalaya) — the source's own "Basic Seafood Stock" recipe isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute until that page turns up.
+- **The final seafood step is the least certain part of this transcription.** The source's wording around adding the shrimp, oysters, and crabmeat was hard to read cleanly off the page — Step 8 above is a reasonable reconstruction (cook briefly, don't overcook delicate seafood, skim and serve) but the exact phrasing, including whether there's a specific time given, needs a check against the physical page.
+- **Basic Cooked Rice (page 224)** isn't in this cookbook either — plain white rice is written in above as the practical substitute.
 
 [↑ Table of Contents](#table-of-contents)
 

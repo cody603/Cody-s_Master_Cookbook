@@ -110,6 +110,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **Every technique section now carries a Grocery Shopping List.** §T2–§T8 previously had none, on the reasoning that techniques aren't recipes; per Cody, they get one anyway. Each is a pantry/staples list for that technique rather than a per-dish list — the oils §T2 assumes, the frying fats in §T3, stock bones plus the three hard no's in §T4, the standing pepper shelf in §T5, the fish-market list in §T6, Louisiana specialty items in §T7, and a buy-per-sauce menu for §T8's 20 combinations. §T1 already had one. The only sections still without a list are §3 and the §5–§11 stubs, which have no ingredients documented yet. |
 | 2026-08-09 | Added **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** — transcribed from a photographed cookbook page. A reusable technique, not a single dish, so it went in the Techniques section alongside §T1's roux rather than becoming its own numbered recipe: a master method (deglaze, reduce by half, whisk in an enrichment) plus a 20-sauce reference table of Liquid/Flavorings/Enrichment combinations to pair with whatever's coming out of the pan. |
 | 2026-08-09 | Added **[§4.5 Pickled Pink Onions](#45-pickled-pink-onions)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings, Sauces & Condiments* to cover it, since it's a fridge-staple condiment in the same standalone-component mold as the section's rubs and sauces. |
 | 2026-08-09 | Added **[§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce)** — transcribed from a photographed cookbook page, a separate olive-oil-based tomato sauce alongside (not replacing) **[§7.18 Spaghetti](#718-spaghetti)**'s meat sauce. Per Cody, only the canned-San-Marzano tomato option from the card was kept — the fresh-tomato alternative was dropped since that's not the route he's using. |
@@ -784,6 +785,17 @@ Heat the empty pan first, **then** add the oil. Oil poured into a cold pan sits 
 - **Deep frying.** You can't pour 1½ inches of oil into a screaming-hot skillet safely. For deep oil, the oil heats *in* the pan from the start and you test the temperature instead — see [§T3](#t3-butter-oil-pan-frying--frying).
 - **Nonstick pans.** Don't preheat nonstick empty; the coating degrades. This trick is for stainless, carbon steel, cast iron, and woks.
 
+#### Grocery Shopping List
+
+The technique itself is about *when* the oil goes in, so the list is short — but these are the two oils it assumes you keep on hand.
+
+**🛒 General grocery**
+
+- 🛒 Olive oil — *for the moderate-heat sauté in [§1](#1-codys-pho)*
+- 🛒 Vegetable or peanut oil — *for anything ripping hot; olive oil's smoke point is too low for wok work*
+
+*Not a grocery item, but what this technique needs:* a stainless, carbon steel, or cast iron pan, or a wok. **Don't buy nonstick for this** — preheating nonstick empty degrades the coating.
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -836,6 +848,23 @@ This is the elegant part of deep frying: at the right temperature, a piece of fo
 **4. Don't bread or batter anything until the second before it goes in the oil.**
 Breading and batter are a kind of glue. Leave homemade glue sitting and it turns gummy and then hard — same thing happens on the food. A piece that's been sitting breaded gives you a hard crust that oil penetrates, and the food inside overcooks waiting for that crust to brown. Bread it, fry it, immediately.
 
+#### Grocery Shopping List
+
+The fats this section argues for, plus what frying actually consumes.
+
+**🛒 General grocery**
+
+- 🛒 **Unsalted** butter — *salted carries an unpredictable amount of salt and takes control of the seasoning away from you*
+- 🛒 Margarine — *not a butter substitute; it's an oil substitute that tastes better than olive or vegetable oil when butter's already in the pan*
+- 🛒 Peanut oil — *the best deep-frying oil, especially under a batter*
+- 🛒 Vegetable oil — *the better choice for pan frying*
+- 🛒 All-purpose flour — *breading, and for testing shallow oil temperature*
+- 🛒 Paper towels — *for draining*
+
+*Buy oil in quantities you'll use up.* The four-keys rule is fresh, unused oil every time — oil saved for next time is oil that fries worse.
+
+*Not a grocery item, but worth owning:* a clip-on deep-fry thermometer, so it stays in the oil through the whole cook.
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -869,6 +898,30 @@ There's no fixed rule on quantities. Work off a basic 1-quart recipe and multipl
 - **Pecans** — dry roast them, and it makes a real difference to the flavor. Shelled halves or pieces in a **large ungreased roasting pan, 425°F for 10 minutes**, stirring occasionally. They can go into a recipe hot or cold, and keep in a covered container in the fridge. **If the recipe wants pieces, chop them before roasting, not after** — more cut surface touching the hot pan means more flavor. Pieces are cheaper than halves anyway.
 - **Rabbit** — fresh if you can get it, frozen cut-up is widely available otherwise. It's cheap, handles like chicken, and a young rabbit substitutes for chicken in most recipes. Have the butcher cut and bone it and watch how it's done. The parts break down into front legs, hind legs, the two loins along the backbone, and the breast/rib section — back legs boned and pounded flat pan-fry as a single serving each, front legs and breast smother, fry, or stew, and the small loins pan-fry into an appetizer.
 
+#### Grocery Shopping List
+
+Split in two, because this section covers two different things: what goes into a stock, and the staples the ingredient conventions assume.
+
+**🛒 For stock — general grocery / butcher**
+
+- 🛒 Chicken backs and necks
+- 🛒 Beef marrow or soup bones
+- 🛒 Pork neck bones
+- 🛒 Vegetable trimmings — *free; save them off whatever you're already cooking*
+
+**🏪 For stock — specific store**
+
+- 🏪 Fish carcasses (fish market) — *cheap to buy outright, and the base for any seafood stock*
+
+**Do NOT buy for stock:** bell peppers, spices, or livers. Those are the three hard no's — they don't belong in a stock pot no matter how good they are elsewhere.
+
+**🛒 Ingredient-convention staples**
+
+- 🛒 All-purpose flour — *unsifted unless a recipe says otherwise*
+- 🛒 Green onions — *what everywhere else calls scallions; buy for plenty of fresh, tender green tops*
+- 🛒 Pecans — *pieces are cheaper than halves and dry-roast better anyway*
+- 🛒 Rabbit — *fresh if you can get it, frozen cut-up otherwise; have the butcher cut and bone it*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -900,6 +953,30 @@ They're also meant to be **played off against sweetness.** Caramelizing vegetabl
 - **Gumbo filé (filé powder)** — ground young sassafras leaves. Used as a flavoring and/or a thickener in gumbo and other Cajun dishes; plenty of people also just shake it over the bowl at the table. Optional in [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), which thickens with roux alone.
 - **Sage** — comes rubbed or ground. Rubbed sage (the leaf scraped) is noticeably stronger than ground. Recipes should specify which; if one doesn't, know that swapping them changes the intensity.
 
+#### Grocery Shopping List
+
+The standing pepper and seasoning shelf this section assumes. Buy these once and most Cajun recipes in this cookbook stop needing a special trip.
+
+**🛒 Ground peppers — the four staples**
+
+- 🛒 Black pepper, ground
+- 🛒 White pepper, ground
+- 🛒 Red pepper, ground — *preferably cayenne*
+
+**🛒 Fresh peppers**
+
+- 🛒 Jalapeño · Tabasco · cayenne · finger · banana · bird's-eye — *buy by what's good, not by the list; the point is having different heats that land at different moments*
+
+**🛒 Seasonings**
+
+- 🛒 Creole mustard — *brown mustard with the seeds still in it; a real step up from prepared yellow*
+- 🛒 Garlic powder **and** fresh garlic — *both, on purpose*
+- 🛒 Onion powder **and** fresh onion — *same*
+- 🛒 Gumbo filé (filé powder) — *ground sassafras; flavoring, thickener, or shaken over the bowl at the table*
+- 🛒 Sage — *note whether you're buying rubbed or ground; rubbed is noticeably stronger*
+
+*Buy small and often.* This whole section is built on the premix system, which only works if what you're premixing still has its punch.
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -926,6 +1003,22 @@ Relevant to [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys), [§7.10 Cilantr
 
 **Oysters.** Freshness matters more than provenance — good native oysters where you live beat shipped-in ones. From a fish market you trust on freshness, buying them shucked and packed in their own liquor is perfectly fine. **If a recipe doesn't call for the liquor, don't pour it out** — save it and use it promptly in a seafood stock, a sauce, or a pasta dish.
 
+#### Grocery Shopping List
+
+Nearly all of this is a fish-market list rather than a grocery list — that's the section's whole point. Make friends with a fish market and create the demand.
+
+**🏪 Specific store — fish market**
+
+- 🏪 Crawfish (fish market) — *live, or fresh blanched-and-peeled tails in 1-lb bags on ice. **Avoid frozen** — crawfish freeze poorly and the fat goes rancid fast*
+- 🏪 Shrimp (fish market) — *heads on if you can get them, shells on at minimum. Fresh and uncooked; avoid frozen if there's any way around it*
+- 🏪 Lump crabmeat (fish market) — *sold by the pound, packed on ice; worth buying already blanched*
+- 🏪 Oysters (fish market) — *shucked and packed in their own liquor is fine from a market you trust. Buy native over shipped-in*
+
+**Two buying rules from this section:**
+
+- **Lump crabmeat and peeled crawfish tails are the only seafoods worth buying precooked.** Everything else, buy raw.
+- **Shrimp are not a crawfish substitute** unless the recipe explicitly allows either — don't swap them at the counter to save a trip.
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -951,6 +1044,23 @@ A glossary for the Cajun and Creole recipes in this cookbook.
 | **Pirogue** | A flat-bottomed dugout canoe from bayou country, just wide enough to kneel in. Also the name for hollowed-out vegetables — mirliton, zucchini, eggplant — filled with stuffing and sauce. *Worth remembering for [§5.5 Zucchini](#55-zucchini).* |
 | **Praline** | A Southern candy patty of brown sugar and nuts (usually pecans) or seeds, sometimes with butter and/or cream. |
 | **Tasso** | A very highly seasoned Cajun smoked ham. Called for in [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) and [§7.16 Red Beans & Rice](#716-red-beans--rice). |
+
+#### Grocery Shopping List
+
+A specialty-item list rather than a recipe list — these are the Louisiana ingredients the glossary defines, gathered so they're easy to shop for across every Cajun recipe here.
+
+**🛒 General grocery**
+
+- 🛒 Andouille — *Cajun smoked pure-pork sausage. Called for in [§8.3 Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) and [§7.16 Red Beans & Rice](#716-red-beans--rice); kielbasa is the backup*
+- 🛒 Tasso — *very highly seasoned Cajun smoked ham. [§7.15 Jambalaya](#715-pauls-jambalaya) and [§7.16 Red Beans & Rice](#716-red-beans--rice)*
+- 🛒 Gumbo filé (filé powder) — *also on the [§T5](#t5-seasonings--peppers) list*
+- 🛒 Ham, Cure 81 — *the most consistent, best-tasting ham with national distribution*
+- 🛒 Pecans and brown sugar — *praline components; see [§T4](#t4-stocks--ingredient-conventions) on dry-roasting the pecans*
+
+**🏪 Specific store**
+
+- 🏪 Creole tomatoes (Louisiana farm stand / in season) — ***substitute:** the best local vine-ripened tomato you can find*
+- 🏪 Mirliton (Latin grocery — sold as **chayote**) — *sometimes labeled vegetable pear or christophine*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -1047,6 +1157,55 @@ Each of these plugs straight into the Master Method above — the technique neve
 #### Chef's Notes
 
 This is a formula, not a fixed recipe — the master method (deglaze, reduce by half, enrich) never changes; only the three inputs do. Once two or three of these have been made, building a combination straight from the Liquids/Flavorings/Enrichments rules in Part A is the real payoff, the same way [§T1 How to Make a Roux](#t1-how-to-make-a-roux) is meant to be learned past the recipe.
+
+#### E. Grocery Shopping List
+
+**Buy per sauce, not all at once.** This is a formula covering 20 combinations, so treat the list below as a menu: pick your sauce from the table above, then buy that row's three or four items. What's worth keeping on hand permanently is marked ⭐ — those cover the largest number of combinations.
+
+**🛒 Liquids**
+
+- 🛒 ⭐ Low-sodium chicken broth — *in 14 of the 20; the single most-used item here*
+- 🛒 ⭐ Dry vermouth · sweet vermouth · cream sherry
+- 🛒 Full-bodied red wine · white wine
+- 🛒 Marsala · Madeira · port
+- 🛒 Apple cider or apple juice
+- 🛒 Orange juice · lemon juice
+- 🛒 ⭐ Balsamic vinegar — *the one vinegar that goes in at equal parts instead of 1:3, because it's sweeter*
+- 🛒 Cider vinegar · white wine vinegar · distilled white rice vinegar
+- 🛒 Soy sauce
+
+**☯️ Hong Kong Market / Chinese market**
+
+- ☯️ Rice vinegar
+- ☯️ Vietnamese fish sauce — *alternative to soy in the Asian-Style Sweet & Sour*
+
+**🏪 Specific store**
+
+- 🏪 Pernod (liquor store) — *for the Orange Pan Sauce with Pernod*
+- 🏪 Fortified wines — Marsala, Madeira, port, vermouth, sherry *(liquor store in states that don't sell them in grocery)*
+
+**🛒 Flavorings**
+
+- 🛒 ⭐ Dijon mustard — *in four of the 20, and the fix that balances any straight-wine sauce*
+- 🛒 Coarse-grained mustard
+- 🛒 Dried figs · prunes · raisins · dried cherries or cranberries
+- 🛒 Pistachios · walnuts · pine nuts
+- 🛒 Canned diced tomatoes *(or fresh Italian plum tomatoes)* · sun-dried tomatoes
+- 🛒 Kalamata olives · capers
+- 🛒 Fresh rosemary · dried tarragon · dried thyme · herbes de Provence
+- 🛒 Fresh garlic · scallions
+- 🛒 Prepared horseradish · prepared chutney · curry powder
+- 🛒 Molasses · brown sugar · cherry jam
+- 🛒 Black pepper · orange zest *(off the oranges you're already juicing)*
+- 🛒 Bacon — *optional, for the Black Pepper Molasses*
+
+**🛒 Enrichments — you need at least one of these three**
+
+- 🛒 ⭐ Butter — *the default; 1 Tbsp finishes most of these*
+- 🛒 ⭐ Extra-virgin olive oil — *1 Tbsp*
+- 🛒 ⭐ Heavy cream — *2 Tbsp; the enrichment for Quick Velouté and Mustard Cream*
+
+*The shortest possible starting kit:* low-sodium chicken broth, Dijon, butter, heavy cream, and one bottle each of red wine and balsamic vinegar gets you Red Wine, Balsamic, and Mustard Cream without another trip.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -89,6 +89,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ✅
 - [8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ✅ ⭐ *(house favorite)*
 - [8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ✅
+- [8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ✅
+- [8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -97,6 +99,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [9.3 Apples and Almond Butter](#93-apples-and-almond-butter) ○
 - [9.4 Yogurt, Seeds, and Peanut Butter](#94-yogurt-seeds-and-peanut-butter) ○
 - [9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) ✅
+- [9.6 Beef Jerky](#96-beef-jerky) ✅
+- [9.7 Chicken Salad](#97-chicken-salad) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -119,6 +123,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added four recipes transcribed from a photo of loose recipe cards: **[§8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup)** (printed page, a puréed soup), **[§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)** (handwritten card, no quantities given), **[§9.6 Beef Jerky](#96-beef-jerky)** (handwritten seasoning note with a corrected dehydrator time — two earlier timings crossed out on the card itself), and **[§9.7 Chicken Salad](#97-chicken-salad)** (handwritten, a to-taste build-your-own). Several Open Questions flagged rather than guessed past: §8.6's Skillet Cornbread cross-reference isn't in this cookbook; §8.7 lists whipping cream as an ingredient but never says when it's added, and has no quantities or oven info at all; §9.6's final dehydrator timing has no temperature written next to it, only the two rejected attempts that came before it. |
 | 2026-08-09 | **[§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) — final step corrected from a clearer retaken photo.** The earlier transcription flagged Step 8 as uncertain, having misread the source as "remove from heat and boil over high heat" (self-contradictory, so it was written up as a cautious reconstruction). The retake confirms the actual text: "Remove from heat and stir well, stirring occasionally" — the shrimp, oysters, and crabmeat finish on residual heat with no return to a boil. Step 8 rewritten to match, and the Open Question marked resolved rather than deleted. |
 | 2026-08-09 | Added **[§9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip)** — transcribed from a printed 2012 family email (Rachel Cassel to Joetta Roberts). Filed as a snack/appetizer rather than a side, since it's a hot dip served with crackers or vegetables. Rachel's own substitutions (cooked shredded chicken, Buffalo Wing Sauce, light ranch, cheddar) are written in as the main ingredient list, with the original printed card's canned-chicken/blue-cheese version kept as the noted alternate rather than dropped. |
 | 2026-08-09 | Filled in **[§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad)** — the first §11 placeholder to get written up, and renamed from *Southern Keto Potato Salad* to its actual name, **Southern Fauxtato Salad**, since nothing else linked the old placeholder anchor. Transcribed from a printed cookbook page, cauliflower standing in for potatoes. The §11 section intro now names the swap pattern this establishes (cauliflower for potatoes, liquid stevia for sugar) as the template for the rest of the section's placeholders. Nutrition info from the source page kept as its own table, since this is the cookbook's first recipe carrying per-serving macros. |
@@ -2838,6 +2843,113 @@ Main course: mound ¼ cup hot rice in the middle of each bowl, then spoon 1 cup 
 
 ---
 
+### 8.6 Sweet Potato and Andouille Soup
+
+Transcribed from a printed cookbook page (p. 91) — a puréed soup, not the chunky [§T9](#t9-hearty-main-course-soup-formula) style: whole sweet potatoes roasted for depth, andouille for smoke, molasses for a touch of sweetness, all blended smooth.
+
+**Yield:** Serves 20 as an appetizer, 12 as an entrée.
+
+**Techniques used:** [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) *(andouille)*
+
+#### A. Ingredients
+
+- 5 lbs sweet potatoes
+- 1 stick butter
+- 1 lb andouille sausage, sliced
+- 1 cup celery, finely chopped
+- 1 cup onion, finely chopped
+- 3 qts chicken stock or broth
+- ½ cup molasses
+- Kosher salt and white pepper, to taste
+
+#### B. Cooking Instructions
+
+**1. Roast the sweet potatoes whole. About 1 hour at 350°F.**
+Bake the whole, unpeeled sweet potatoes in a baking pan until a knife pierces them easily. Roasting them whole and unpeeled is what releases their sugars — this is doing real work, not just a convenient way to cook them. Cool, then peel and chop.
+
+**2. Brown the andouille in the butter.**
+Melt the butter in a large saucepot and add the sliced andouille. Cook until it's browned.
+
+**3. Sauté the celery and onion. 10–15 minutes, until tender.**
+
+**4. Add the sweet potatoes and stock, then simmer. 5–10 minutes.**
+Bring to a boil, then reduce the heat and simmer until the flavors come together.
+
+**5. Purée in batches, then finish with molasses, salt, and pepper.**
+Purée the soup in batches in a food processor, then return it to the saucepot. Stir in the molasses, kosher salt, and white pepper. Simmer 10 minutes more, or until heated through.
+
+**6. Serve with cornbread or hush puppies.**
+The source recipe points at its own Skillet Cornbread (page 48), which isn't part of this cookbook — plain cornbread or hush puppies stand in for it.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sweet potatoes — 5 lbs
+- 🛒 Butter — 1 stick
+- 🛒 Andouille sausage — 1 lb
+- 🛒 Celery — 1 cup chopped
+- 🛒 Onion — 1 cup chopped
+- 🛒 Chicken stock or broth — 3 qts *(see [§T12](#t12-fast-homemade-chicken-broth) for a fast homemade version)*
+- 🛒 Molasses — ½ cup
+- 🛒 Kosher salt and white pepper
+
+#### D. Open Questions
+
+- **Skillet Cornbread (page 48)** isn't in this cookbook — worth adding if that page ever gets photographed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.7 Italian Sausage & Kale Soup
+
+Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A simple, rustic soup — sausage, potatoes, onion, and kale in a bouillon broth, finished with a little cream.
+
+> **Close cousin to [§T9](#t9-hearty-main-course-soup-formula):** protein (sausage), starch (potatoes), vegetable (kale), and broth (bouillon) are the same four slots that formula runs on — this card just predates it and keeps its own simpler method rather than the formula's dredge of seasonings.
+
+#### A. Ingredients
+
+- Kale
+- Italian sausage
+- Potatoes, cubed
+- Onions, chopped
+- Chicken bouillon
+- Salt and pepper
+- Whipping cream
+
+#### B. Cooking Instructions
+
+**1. Cover the sausage with water and boil.**
+
+**2. Add the cubed potatoes and chopped onion. Cook until tender.**
+
+**3. Add the kale. Cook until tender.**
+
+**4. Add the bouillon, salt, and pepper to taste.**
+*See Open Questions — the card doesn't say when the whipping cream goes in, despite listing it as an ingredient.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Kale
+- 🛒 Italian sausage
+- 🛒 Potatoes
+- 🛒 Onions
+- 🛒 Chicken bouillon
+- 🛒 Salt and pepper
+- 🛒 Whipping cream
+
+#### D. Open Questions
+
+- **No quantities given** — the card lists ingredients without amounts and has blank fields for oven temperature, time, and servings. All of the above is written at "to taste" / "as much as you need" scale until Cody can pin down real amounts.
+- **Whipping cream is listed but never used in the method.** Likely stirred in at the end, off the heat, the way cream usually finishes a soup like this — but that's a guess, not what the card says. Confirm before finalizing.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 9. Snacks & Light Meals
 
 ### 9.1 Almond Flour Chips and Salsa
@@ -2903,6 +3015,108 @@ Give it a stir partway or at the end to even out the heat. Garnish as desired an
 #### Chef's Notes
 
 **Reduced-calorie version**, per the original card: swap in Neufchâtel cheese for the cream cheese, and low-fat versions of the dressing and blue cheese.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.6 Beef Jerky
+
+Transcribed from a handwritten seasoning note, checked off item by item — a dry-cure seasoning blend sized for 1 lb of meat, with a dehydrator timing note at the bottom that's been through a couple of revisions.
+
+> **The card shows its own trial and error.** Two earlier timings are crossed out — ~~160° for ½ hr, then~~ and ~~150° for 8–10 hr~~ — with **1.5 to 1.75 hrs, tray swap** written in as the answer that actually worked. Kept here for the record since it explains why the final number looks so different from a typical jerky recipe's "several hours at low temp." *No temperature is written next to the final timing — see Open Questions.*
+
+#### A. Ingredients
+
+*Per 1 lb of meat — thinly sliced beef, trimmed of fat*
+
+- 1 Tbsp chili powder
+- ¼ tsp allspice
+- ⅛ tsp black pepper
+- ¼ tsp cracked red pepper — **not cayenne**, per the card
+- ⅛ tsp garlic powder
+- ⅛ tsp onion powder
+- 1 tsp salt
+- 1 tsp Accent *(MSG-based seasoning — Ac'cent is the common brand)*
+- ¼ tsp sage
+- ⅛ tsp cumin
+- 1 cap liquid smoke
+- A splash of Worcestershire sauce
+
+#### B. Cooking Instructions
+
+**1. Mix the seasoning blend.**
+Combine the chili powder, allspice, black pepper, cracked red pepper, garlic powder, onion powder, salt, Accent, sage, and cumin.
+
+**2. Add the liquid smoke and Worcestershire, and coat the meat.**
+Work the seasoning blend, liquid smoke, and a splash of Worcestershire into the sliced meat so every piece is coated. *The card doesn't specify a marinating time — see Open Questions.*
+
+**3. Dehydrate. 1.5 to 1.75 hours, swapping trays partway through.**
+Swapping the trays partway — top to bottom, or however your dehydrator runs unevenly — is what keeps one batch from drying faster than another. *No temperature is written down for this final timing; see Open Questions.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Beef, thinly sliced, trimmed of fat — 1 lb per batch
+- 🛒 Chili powder, allspice, black pepper, cracked red pepper, garlic powder, onion powder, salt, sage, cumin
+- 🛒 Accent (Ac'cent) seasoning
+- 🛒 Liquid smoke
+- 🛒 Worcestershire sauce
+
+**Not a grocery item, but required:** a dehydrator (or an oven that runs low and even, with the trays swapped the same way).
+
+#### D. Open Questions
+
+- **No temperature given for the final 1.5–1.75 hr timing.** The two earlier attempts (160° and 150°) are both crossed out as not-it, but no number is written next to the setting that worked — confirm the actual dehydrator temp before this gets used again.
+- **No marinating time specified** — confirm whether the seasoned meat rests before it goes in the dehydrator, and for how long.
+- **Cut of beef and slice thickness** aren't noted on the card — worth pinning down once confirmed, since both affect the timing above.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.7 Chicken Salad
+
+Transcribed from a handwritten note — a build-your-own chicken salad: shredded chicken, a mix-and-match set of add-ins, and mayo added to taste rather than measured.
+
+#### A. Ingredients
+
+- 3–4 chicken breasts, boiled, cooled, and pulled into small pieces *(or several cans of white meat chicken)* — *see [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) for turning a rotisserie chicken into both this and a quart of broth at once*
+- Mayonnaise, to taste
+
+**Add any or all of:**
+
+- Apples, chopped
+- Red grapes, halved
+- Celery, in small pieces
+- Raisins
+- Pecans, chopped *(if pre-chopped pieces are too big, just pulse them down further)*
+
+#### B. Cooking Instructions
+
+**1. Cook and shred the chicken.**
+Boil the chicken breasts, let them cool, then pull them into small pieces by hand. Canned white meat chicken works too, if that's what's on hand.
+
+**2. Add whichever mix-ins sound good.**
+Apples, grapes, celery, raisins, pecans — any or all, no fixed ratio. This is a to-taste recipe, not a measured one.
+
+**3. Add mayo a spoonful at a time until it's as moist as you like.**
+Stop adding once it's the texture you want — there's no fixed amount, and it'll vary with how much fruit and celery went in.
+
+**4. Mix and serve.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chicken breasts — 3–4, or canned white meat chicken
+- 🛒 Mayonnaise
+- 🛒 Apples
+- 🛒 Red grapes
+- 🛒 Celery
+- 🛒 Raisins
+- 🛒 Pecans
 
 [↑ Table of Contents](#table-of-contents)
 

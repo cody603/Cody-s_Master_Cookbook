@@ -29,6 +29,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T8. Pan Sauce Formula](#t8-pan-sauce-formula) ✅
   - [T9. Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) ✅
   - [T10. Loaded Frittata Formula](#t10-loaded-frittata-formula) ✅
+  - [T11. How to Sauté (Master Technique for Sautéed Cuts)](#t11-how-to-sauté-master-technique-for-sautéed-cuts) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 
 **Complete Recipes**
@@ -113,6 +114,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — the master technique plus the three cuts it's written for (chicken breasts, boneless pork loin chops, white-fleshed fish fillets) with each one's timing and prep. **Conflict flagged and reconciled:** this technique starts butter and oil in a *medium-low* pan, which directly contradicts **[§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)**. Both are right for their case, so §T2 now lists butter-sautéing alongside deep frying as a named exception and carries an *Exceptions* line up top; §T11 explains why (the butter is the thermometer). Also wired: §T11 ↔ **[§T8 Pan Sauce](#t8-pan-sauce-formula)** as two halves of one skillet, and the **[§7.3 Flounder](#73-flounder)** and **[§7.4 Pork Chops](#74-pork-chops)** stubs now point at §T11 for method. *The source's All-Purpose Salsa and uncooked relishes (its pages 210–211) weren't photographed — noted inline as a gap.* |
 | 2026-08-09 | Added **[§T10 Loaded Frittata Formula](#t10-loaded-frittata-formula)** — the third slot formula, after §T8 pan sauces and §T9 soups, with all 8 named frittatas as a table and an *At a glance* summary. Filed in the Techniques section for the same reason as the other two: it's a template, not a dish. **[§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)** now cross-links to it. **Two things flagged inline:** the source's own vegetable/protein/cheese/herb category lists (its pages 75–77) weren't in the photographed pages, so Part B is reconstructed from the named suggestions and points at [§T9 Part C](#c-vegetables-1-pound) for prep cuts until those pages turn up; and the earlier note reserving §T10 for the creamy soup formula is corrected — T-numbers go in arrival order, so the creamy formula takes the next free one. |
 | 2026-08-09 | **[§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) — tomatoes removed, per Cody.** The open question from the previous entry is settled: no canned tomatoes in this soup. Propagated to the ingredients, Step 2, the grocery list, and the **[§T9 Part G](#g-suggestions--9-named-soups)** table row, which now reads *omit the tomatoes*. **Flagging the conflict:** this is a deliberate deviation from the source page, which listed no omit-tomatoes note for this soup (it does for two others) — Cody's version wins, and the source's default is noted inline so the difference is visible rather than silently overwritten. |
 | 2026-08-09 | Completed **[§T9](#t9-hearty-main-course-soup-formula)** with its Suggestions — **[Part G](#g-suggestions--9-named-soups)** now carries all nine named soups as a slot table (protein / vegetables / starch / flavorings, plus each one's exceptions), and an *At a glance* three-line summary was added up top. **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** ⭐ was promoted out of that table into a full write-up — Cody's stated favorite, so it gets real quantities and step-by-step rather than a table row. Its **Open Questions** flag one genuine ambiguity: the source never says to omit the tomatoes for this soup, so they're written in, but that's worth confirming against how Cody actually makes it. |
@@ -705,6 +707,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T8](#t8-pan-sauce-formula) | Pan Sauce Formula | `pan-sauce` `deglaze` `drizzle` `quick-sauce` |
 | [T9](#t9-hearty-main-course-soup-formula) | Hearty Main Course Soup Formula | `soup` `formula` `weeknight` `one-pot` `stew` |
 | [T10](#t10-loaded-frittata-formula) | Loaded Frittata Formula | `frittata` `eggs` `breakfast` `one-pan` `broiler` |
+| [T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | How to Sauté (Master Technique for Sautéed Cuts) | `saute` `dredge` `searing` `chicken-breast` `pork-chop` `fish-fillet` |
 
 ---
 
@@ -784,6 +787,7 @@ Roux keeps. Cool it, put it in an airtight jar, and hold it for several days eit
 <!-- TECHNIQUE-TAGS: pan-heating, sauteing, stir-fry, wok, oil -->
 **Tags:** `pan-heating` · `sauteing` · `stir-fry` · `wok` · `oil`
 **Used in:** [§1 Cody's Pho](#1-codys-pho) (broth aromatics) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) (wok)
+**Exceptions:** deep frying ([§T3](#t3-butter-oil-pan-frying--frying)) · butter sautéing ([§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts)) · nonstick — see the list below
 
 Heat the empty pan first, **then** add the oil. Oil poured into a cold pan sits there and soaks into whatever you add; oil hitting an already-hot pan shimmers immediately and you can start cooking on it right away. This is how the pho broth starts (a thin film of olive oil into a preheated pan) and how Geoff's wok cook starts (dry wok on full blast until a wisp of smoke comes off it, then the oil goes in and gets swirled).
 
@@ -792,6 +796,7 @@ Heat the empty pan first, **then** add the oil. Oil poured into a cold pan sits 
 **Where this rule does NOT apply:**
 
 - **Deep frying.** You can't pour 1½ inches of oil into a screaming-hot skillet safely. For deep oil, the oil heats *in* the pan from the start and you test the temperature instead — see [§T3](#t3-butter-oil-pan-frying--frying).
+- **Sautéing with butter.** The [§T11 master technique](#t11-how-to-sauté-master-technique-for-sautéed-cuts) starts butter and oil together in a **medium-low** pan and brings them up as one. That's deliberate: the butter is the temperature gauge — you're waiting for it to stop foaming, turn golden, and smell nutty. Butter dropped into an already-hot pan burns before you've finished dredging. *(Note the difference from §T3's pan-frying, where oil alone goes into a hot pan.)*
 - **Nonstick pans.** Don't preheat nonstick empty; the coating degrades. This trick is for stainless, carbon steel, cast iron, and woks.
 
 #### Grocery Shopping List
@@ -1080,6 +1085,7 @@ A specialty-item list rather than a recipe list — these are the Louisiana ingr
 <!-- TECHNIQUE-TAGS: pan-sauce, deglaze, drizzle, quick-sauce -->
 **Tags:** `pan-sauce` · `deglaze` · `drizzle` · `quick-sauce`
 **Used in:** any seared or sautéed chicken, pork, steak, fish, or shellfish — pick a combination from the Suggestions table to match what's in the pan
+**Pairs with:** [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) — that technique leaves the skillet this section starts from
 
 Transcribed from a photographed cookbook page — "Instant Gratification: Pan Sauces and Drizzles." The simplest way to flavor a cut and clean the skillet at the same time: pull the seared or sautéed meat, pour in ¾ cup liquid, reduce it by half in a couple of minutes, whisk in a small enrichment, and serve. That's the whole trick, and it turns an ordinary weeknight sear into something that tastes like real effort went into it.
 
@@ -1571,6 +1577,114 @@ Each plugs straight into the Master Recipe — the technique never changes, only
 
 ---
 
+### T11. How to Sauté (Master Technique for Sautéed Cuts)
+
+<!-- TECHNIQUE-TAGS: saute, dredge, searing, chicken-breast, pork-chop, fish-fillet, browning -->
+**Tags:** `saute` · `dredge` · `searing` · `chicken-breast` · `pork-chop` · `fish-fillet` · `browning`
+**Used in:** [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) — *this is the other half of that technique; §T8's ¾ cup of liquid goes into the skillet this leaves behind* · [§7.3 Flounder](#73-flounder) · [§7.4 Pork Chops](#74-pork-chops)
+
+Sautéing earns its place on delicate cuts like fish fillets and on thicker cuts that have to cook through — boneless skinless chicken breasts, pork chops. Cooking times shift by cut, but **the technique itself never changes**, which is what makes it worth learning once.
+
+#### A. Searing vs. Sautéing — the three differences
+
+These two get used interchangeably and shouldn't be. Everything else about them is similar; these three things are not:
+
+| | Searing | Sautéing |
+|---|---|---|
+| **Heat level** | High | **Medium-high** |
+| **How the cut is prepped** | Not dredged | **Dredged in flour or fine cornmeal** |
+| **Where the fat goes** | Rubbed *on the cut*; skillet goes in dry and hot | **Heated in the skillet** |
+
+> **This is a documented exception to [§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil).** That rule says heat the empty pan, then add the fat. Sautéing does the opposite on purpose: butter and oil go into a **medium-low** pan and heat together, because the butter itself is the thermometer — you're waiting for it to stop foaming and smell nutty. Drop butter into a screaming pan and it's brown-black before anything gets dredged. §T2 has been updated to list this alongside its other exceptions.
+
+**At a glance — the whole thing in five lines:**
+
+1. **Heat** butter and oil in a large skillet over medium-low heat.
+2. **Season** both sides of the cuts with salt and pepper, then **dredge** in flour or cornmeal.
+3. A few minutes before sautéing, **raise the heat to medium-high**. When the butter turns golden brown and smells nutty, add the cuts.
+4. **Cook, turning only once**, until golden brown on each side.
+5. **Make a pan sauce**, or serve with salsa or an uncooked relish.
+
+#### B. The Master Technique
+
+*Serves 4*
+
+> Butter helps the cuts brown better, but if you'd rather, just use 3 Tbsp olive oil and skip it.
+
+**Ingredients**
+
+- ¼ cup flour **or** fine cornmeal, measured into a shallow pan
+- 2 Tbsp butter
+- 1 Tbsp olive oil
+- 1½ lb **Cuts for Sautéing** — see [Part C](#c-cuts-for-sautéing)
+- Salt and ground black pepper
+- Lemon wedges, to serve
+- *Optional:* a [§T8 pan sauce](#t8-pan-sauce-formula), an all-purpose salsa, or an uncooked relish — *see the note in Part D*
+
+**Cooking Instructions**
+
+**1. Spread the flour or cornmeal in a shallow pan.**
+Set up the dredging station before anything goes near heat — once the butter is in the skillet you're on its clock.
+
+**2. Start the butter and oil over medium-low, and season and dredge while it heats.**
+Butter and oil into a large skillet over **medium-low**. While the pan comes up, sprinkle the cuts on both sides with salt and pepper, then dredge them in the flour or cornmeal. *See [§T3](#t3-butter-oil-pan-frying--frying) on why both fats are here:* the butter is for flavor and browning, the oil raises the smoke point so the butter doesn't scorch.
+
+**3. A couple of minutes before cooking, raise the heat to medium-high — then wait for the butter to tell you it's ready.**
+**The cue is the butter, not the clock.** When it **stops foaming and starts to smell nutty**, and has turned golden brown, the pan is at temperature. Foaming means water is still boiling out of the butter; until that stops, the pan isn't hot enough to brown anything.
+
+**4. Lay the cuts in presentation side down, and turn only once.**
+Presentation side down first — that's the side that gets the better crust, and it's the side facing up on the plate. Cook until **rich golden brown, 2 to 3 minutes per side** as a baseline; see Part C for what each cut actually wants. **Turning only once is the rule** — every flip interrupts the crust that's forming.
+
+**5. Serve, or build a sauce in the pan.**
+Out of the skillet and onto plates with lemon wedges. Or leave the skillet on the heat and make a **[§T8 pan sauce](#t8-pan-sauce-formula)** in it — that section's ¾ cup of liquid, reduced by half and finished with a spoon of butter, is exactly what this pan is set up for. Salsa or an uncooked relish also work.
+
+#### C. Cuts for Sautéing
+
+Times below assume the Master Technique in Part B. **All three are turned only once**, after the first side is properly golden brown.
+
+| Cut | Amount | Prep | Cook time |
+|---|---|---|---|
+| **Small boneless, skinless chicken breasts** | 4, at 6–8 oz. each | Pull the **tenderloin** off each breast half if it's still attached and sauté it separately — left on, it stops the breast cooking evenly. Otherwise just pound to a roughly **even thickness** *(your fist works fine)*. | **6–7 min total** — turn once at **3½–4 min**, when the first side is an impressive golden brown |
+| **Boneless pork loin chops** | 4, at 1–1¼ inches thick, about 6 oz. each | **Boneless, and thick.** See the buying note below. | **6–7 min total** for 1-inch chops — turn once at **3½–4 min** |
+| **White-fleshed fish fillets** — flounder, catfish, snapper, tilapia, grouper, cod | 2 to 4 fillets, **1½ lb total** | Cut large fillets into individual portions first. **If the skin is on, score it** so the fillet doesn't curl in the pan. Target **½ to 1¼ inches thick**. | **2–3 min** first side, then **1–3 min** more after turning, depending on thickness. **Cook in two batches** |
+
+**Buying pork chops — the part most cooks get wrong.** Bone-in chops tempt you into overcooking the whole chop just to get the meat nearest the bone done. **Stick with boneless, 1 to 1¼ inches thick.** If the chops in the case are thin, buy a small boneless loin roast from the **rib end** — more flavorful, rosier flesh — and cut your own 1-inch chops. *Better to split one thick chop between two people than to overcook two thin ones.*
+
+**Fish thickness, and why it matters both ways.** Under ½ inch and the fillet overcooks before it ever browns, and falls apart besides. Over 1¼ inches is fine to buy — just cut it crosswise into **1-inch medallions**. And because fish fillets run wider and thinner than a chicken breast or pork chop, they crowd the skillet: **arrange 2 at a time**, turn with a **thin metal spatula**, move the finished ones to a plate in a warm oven, add a little more oil if the pan needs it, and repeat. Two batches means less fat and less mess than trying to force them all in at once.
+
+#### D. Tips and Tricks
+
+- **The butter is the thermometer.** Foaming stopped + nutty smell + golden color = go. This is the single cue that makes the technique repeatable across all three cuts.
+- **Turn once.** Not twice, not "just to check." The crust needs uninterrupted contact.
+- **Even thickness beats exact timing** on chicken breasts — a pounded breast cooks through before the thin end dries out.
+- **Don't crowd the skillet.** Two fish fillets at a time; batch the rest into a warm oven.
+- **Flour or fine cornmeal**, your choice. Cornmeal gives a coarser, grittier crust; flour a finer one. Per [§T3](#t3-butter-oil-pan-frying--frying), dredge **immediately** before the cut goes in the pan — coating that sits turns gummy.
+- **Missing from this cookbook:** the source offers an *All-Purpose Salsa* and a set of *uncooked relishes* as alternatives to a pan sauce (its pages 210–211). Those pages weren't photographed — [§T8](#t8-pan-sauce-formula) covers the pan sauce option in full, and the salsa/relish route can be added later.
+
+#### E. Grocery Shopping List
+
+**🛒 The constants — every sauté needs these**
+
+- 🛒 ⭐ Butter — *2 Tbsp* *(or skip it and use 3 Tbsp olive oil total)*
+- 🛒 ⭐ Olive oil — *1 Tbsp*
+- 🛒 ⭐ All-purpose flour **or** fine cornmeal — *¼ cup, for dredging*
+- 🛒 ⭐ Salt and ground black pepper
+- 🛒 ⭐ Lemons — *for wedges at the table*
+
+**🛒 The cut — pick one, 1½ lb total**
+
+- 🛒 Boneless, skinless chicken breasts — *4 small, 6–8 oz. each*
+- 🛒 Boneless pork loin chops — *4, 1 to 1¼ inches thick* — **or** a small boneless loin roast from the **rib end** to cut your own
+- 🏪 White-fleshed fish fillets (fish market) — *flounder, catfish, snapper, tilapia, grouper, or cod; 1½ lb total, ½ to 1¼ inches thick*
+
+**Planning a pan sauce?** Add that row's items from [§T8's list](#e-grocery-shopping-list) — the skillet is already set up for it.
+
+**Not a grocery item, but worth having:** a **thin metal spatula** for turning fish without tearing it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -1644,9 +1758,13 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 
 ### 7.3 Flounder
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+>
+> **Method already on file:** flounder is one of the white-fleshed fillets in **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — 1½ lb total, two fillets at a time, 2–3 min then 1–3 min more. This stub just needs Cody's seasoning and serving preferences.
 
 ### 7.4 Pork Chops
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+>
+> **Method already on file:** **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** covers boneless loin chops — *buy them 1 to 1¼ inches thick and boneless*, 6–7 min, turned once. This stub just needs Cody's own take.
 
 ### 7.5 Chicken Thighs
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.

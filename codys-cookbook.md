@@ -16,6 +16,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ✅
   - [4.2 Salsa Alfredo (Alfredo Sauce)](#42-salsa-alfredo-alfredo-sauce) ✅
   - [4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](#43-pesto-basil-parmesan-and-pine-nut-sauce) ✅
+  - [4.4 Salsa Marinara (Marinara Sauce)](#44-salsa-marinara-marinara-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -107,6 +108,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce)** — transcribed from a photographed cookbook page, a separate olive-oil-based tomato sauce alongside (not replacing) **[§7.18 Spaghetti](#718-spaghetti)**'s meat sauce. Per Cody, only the canned-San-Marzano tomato option from the card was kept — the fresh-tomato alternative was dropped since that's not the route he's using. |
 | 2026-08-09 | Added **[§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce)** and **[§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings & Sauces* to cover them, since both are standalone components meant to be reused across dishes rather than one-off recipes. **[§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)** now cross-links to §4.3 for the pesto itself. |
 | 2026-08-08 | Added **[§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs)** — transcribed from Cody's spreadsheet, expanded from a marinade card into a full kabob recipe. The card only specified the chicken/onion/bell-pepper skewer and didn't give quantities for the pineapple, zucchini, squash, tomato, or kielbasa additions Cody listed — recommended quantities and cut sizes for those are flagged as Claude's estimate in the ingredients and in Open Questions, for Cody to confirm after cooking. Also added a marinate-time recommendation (the card didn't give one) since this is a low-acid, soy-based marinade. |
 | 2026-08-08 | Added six new recipes transcribed from Cody's photographed recipe cards: **[§7.13 Crawfish Elegante](#713-crawfish-elegante)**, **[§7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters)**, **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)**, **[§7.16 Red Beans & Rice](#716-red-beans--rice)**, **[§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans)**, and **[§7.18 Spaghetti](#718-spaghetti)**. Also filled in the long-standing **[§8.1 Chili](#81-chili)** placeholder. Crawfish Elegante is now off the §12 to-document list. Several recipes carry Open Questions where the original card was ambiguous (missing steps, an unidentified seasoning brand) — flagged inline for Cody to confirm. Groceries were **not** pushed to Reminders this round — the Reminders connector wasn't reachable in this session; push these manually or ask again once it's connected. |
@@ -583,6 +585,52 @@ Serve over pasta or a salad, use it as a dipping sauce, or stir a spoonful into 
 - 🛒 Parmesan, freshly grated (Parmigiano-Reggiano preferred) — ½ cup
 - 🛒 Extra-virgin olive oil — ⅔ cup
 - 🛒 Pine nuts — ¼ cup
+- 🛒 Salt & pepper
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.4 Salsa Marinara (Marinara Sauce)
+
+Transcribed from a photographed cookbook page. A separate tomato sauce from **[§7.18 Spaghetti](#718-spaghetti)** — that recipe stays as its own meat-and-vegetable sauce; this is a plain, olive-oil-based marinara alongside it, not a replacement. The original card gives the option of very ripe fresh tomatoes or two 28-oz cans of whole San Marzano tomatoes — **Cody's going with the canned San Marzanos**, so that's the only tomato option kept below.
+
+#### A. Ingredients
+
+- 1 onion, minced
+- 2 garlic cloves, minced
+- ½ cup olive oil
+- 2 (28 oz.) cans peeled, whole San Marzano tomatoes
+- Pinch of sugar
+- Salt & pepper
+
+#### B. Cooking Instructions
+
+**1. Cook the onion and garlic in the oil. 5 minutes.**
+In a medium-large saucepan over medium heat, cook the onion and garlic in the olive oil, stirring occasionally, until softened.
+
+**2. Crush the tomatoes in and simmer, covered. 25 minutes.**
+The San Marzanos come packed whole, so break them up by hand (or give the can a quick crush) before they go in — they need to be broken down before they can simmer into a sauce. Stir in the tomatoes with their juice, the pinch of sugar, and salt and pepper. Cover and simmer, stirring occasionally.
+
+**3. Purée through a food mill.**
+Pass the mixture through the fine disc of a food mill into a clean saucepan. This is what gives the sauce its smooth, seedless texture — a food mill strains out skins and seeds while pushing the pulp through, which a blender won't do the same way.
+
+**4. Simmer again. 15 minutes.**
+Simmer the puréed sauce, stirring occasionally, until it thickens slightly. Makes about 3 cups.
+
+#### Chef's Notes
+
+The card notes this sauce "can be used on any number of pastas or combined with meatballs as suggested on page 60" — that page isn't part of this cookbook, so the meatball pairing is a placeholder for whenever a meatball recipe gets written up here.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Onion — 1
+- 🛒 Garlic — 2 cloves
+- 🛒 Olive oil — ½ cup
+- 🛒 San Marzano tomatoes, peeled whole — 2 × 28 oz. cans
+- 🛒 Sugar
 - 🛒 Salt & pepper
 
 [↑ Table of Contents](#table-of-contents)

@@ -19,6 +19,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](#43-pesto-basil-parmesan-and-pine-nut-sauce) ✅
   - [4.4 Salsa Marinara (Marinara Sauce)](#44-salsa-marinara-marinara-sauce) ✅
   - [4.5 Pickled Pink Onions](#45-pickled-pink-onions) ✅
+  - [4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -118,7 +119,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) ○
 - [11.3 Southern Keto Cornbread](#113-southern-keto-cornbread) ○
 - [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅
-- [11.5 Southern Keto Mashed Potatoes](#115-southern-keto-mashed-potatoes) ○
+- [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅
 
 ---
 
@@ -126,6 +127,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **Every recipe now carries a Nutrition block — calories, fat, protein, carbs, and fiber, for the whole dish *and* per serving — plus a plain-language description of what a serving actually is.** Rule added to the [project instructions](CLAUDE.md) §3b. Three recipes use publisher figures and say so *(as printed on the source page)*; the other 32 are marked *(estimated)* and calculated from the ingredient lists. Estimates account for what's actually **eaten**, not bought — marinade left in the bag, frying oil left in the pot, oxtail pulled and discarded, brine poured off. **[§8.7 Kale Soup](#87-italian-sausage--kale-soup)** and **[§4.6 Sour Kraut](#46-no-heat-sour-kraut)** are flagged as *doubly* estimated, since those cards give no quantities at all. |
+| 2026-08-09 | Added **[§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut)** from a handwritten card, and filled the **[§11.5](#115-easy-caulimash-keto-mashed-potatoes)** placeholder with **Easy Caulimash** from the same keto book as §11.4 — cauliflower for potatoes again, so *Southern Keto Mashed Potatoes* became its real name. The kraut card is a family shorthand rather than a tested canning procedure — it gives no cure time, storage temperature, or whether jars are processed — so it carries a warning up top and four Open Questions rather than being presented as complete. |
 | 2026-08-09 | **Slow cook is now its own time category, per Cody — and the [project instructions](CLAUDE.md) were revised to make it a standing rule.** Times are cut three ways instead of two: **Prep · Cook · Slow cook**. The rule added to CLAUDE.md §3a: a multi-hour hands-off stretch never goes in the Cook field, because a brisket or a crock pot takes ten minutes to *make* and eight hours to *finish* — counting that as cook time makes the easiest recipes look like the most demanding. Slow cook covers smoking, low-oven roasts and turkey, crock pot, long braises and bean pots, stock and pho broth, sous vide, and dehydrating; roughly 2 hr+ hands-off, or any length for those methods. All 32 existing badges re-cut, the index gains a Slow cook column and re-sorts by prep + cook, and a note flags that **§6 Smoked Meats will all be Slow cook** when written up. |
 | 2026-08-09 | Added **[§7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded)** — transcribed from a printed keto cookbook page. Whey protein powder replaces flour as the breading, so it deep-fries crisp at ~2 g net carbs. Carries the source's own hard warning inline: **no air fryer** — the whey breading needs hot oil to set. Cross-linked to **[§T3](#t3-butter-oil-pan-frying--frying)** for the frying keys, and noted as a deep-fry exception to **[§T2](#t2-hot-pan-first-then-oil)**'s hot-pan rule. Source nutrition panel kept. |
 | 2026-08-09 | Added **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers)** as a placeholder — Cody calls it one of his all-time top snacks, recipe to come. |
@@ -191,9 +194,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
+| [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
+| [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
@@ -398,6 +403,17 @@ Dial these in as you cook and they get folded into the recipe.
 - Chuck at 24 vs. 36 hours — where's the sweet spot?
 - Did the chuck slice as thin as you wanted?
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~8,400 | 420 g | 660 g | 600 g | 36 g |
+| **Per serving** *(serves 12)* | ~700 | 35 g | 55 g | 50 g | 3 g |
+
+**What a serving is:** one large restaurant-size bowl — about 1½ cups cooked noodles, 5–6 oz of sliced beef, 2 cups of broth, plus whatever you pile on from the fresh station.
+
+*The oxtail is pulled and discarded, so only its rendered fat and flavor count here — not its meat. Garnish varies wildly by eater; herbs and sprouts add almost nothing.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -526,6 +542,17 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 - 🛒 Jasmine rice
 - 🛒 Squirt bottles for soy sauce and fish sauce
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,500 | 350 g | 190 g | 105 g | 10 g |
+| **Per serving** *(serves 6)* | ~750 | 58 g | 32 g | 18 g | 2 g |
+
+**What a serving is:** about 1 cup of stir-fry. Served over rice as written, add roughly 200 cal and 45 g carbs per cup of jasmine rice.
+
+*Rice is served separately and is **not** included above. Pork belly is what drives the fat number.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -616,6 +643,17 @@ Transcribed from a photographed cookbook page. A classic white sauce — just bu
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min** *(all of it is stirring — nothing to walk away from)*
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~250 | 5 g | 6 g | 50 g | 12 g |
+| **Per serving** *(makes about ¾ cup — roughly 36 tsp)* | ~7 | 0 g | 0 g | 1.4 g | 0.3 g |
+
+**What a serving is:** about 1 tsp per side of a steak. A batch seasons roughly 8–10 steaks.
+
+*Nearly all of it is salt and spice. The brown sugar accounts for most of the carbs.*
+
 #### A. Ingredients
 
 - 6 Tbsp butter
@@ -652,6 +690,17 @@ The card's own point stands: with only butter, cream, and real Parmesan in it, t
 - 🛒 Nutmeg
 - 🛒 Salt & pepper
 - 🛒 Fettuccine and crusty bread, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,640 | 171 g | 24 g | 9 g | 0 g |
+| **Per serving** *(makes 1½ cups — about 6 servings)* | ~275 | 28 g | 4 g | 1.5 g | 0 g |
+
+**What a serving is:** ¼ cup — enough to coat about 4 oz of cooked fettuccine, or one plate.
+
+*Butter, cream, and Parmesan and nothing else, so this is almost pure fat. Pasta is not included.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -696,6 +745,17 @@ Serve over pasta or a salad, use it as a dipping sauce, or stir a spoonful into 
 - 🛒 Extra-virgin olive oil — ⅔ cup
 - 🛒 Pine nuts — ¼ cup
 - 🛒 Salt & pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,730 | 181 g | 25 g | 9 g | 3 g |
+| **Per serving** *(makes 1½ cups — about 12 servings)* | ~145 | 15 g | 2 g | 1 g | 0.3 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one plate of pasta or a large salad.
+
+*Olive oil is roughly three-quarters of the calories.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -745,6 +805,17 @@ The card notes this sauce "can be used on any number of pastas or combined with 
 - 🛒 Sugar
 - 🛒 Salt & pepper
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,320 | 108 g | 18 g | 84 g | 18 g |
+| **Per serving** *(makes 3 cups — about 6 servings)* | ~220 | 18 g | 3 g | 14 g | 3 g |
+
+**What a serving is:** ½ cup — sauces one plate of pasta.
+
+*The ½ cup of olive oil is most of the calories; the tomatoes carry the carbs and all of the fiber.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -782,6 +853,81 @@ The onions are ready to eat as soon as they're pickled. The remainder keeps refr
 - 🛒 Red onions — 2 large
 - 🛒 Distilled white or rice vinegar — 1½ cups
 - 🛒 Kosher salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~300 | 0 g | 8 g | 70 g | 10 g |
+| **Per serving** *(makes 5–6 cups — about 20 servings)* | ~15 | 0 g | 0.4 g | 3.5 g | 0.5 g |
+
+**What a serving is:** about ¼ cup — a small forkful scattered over tacos, a salad, or a sandwich.
+
+*Most of the brine is left behind in the jar rather than eaten. **Sodium is high** — this is a salt-and-vinegar pickle.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.6 No-Heat Sour Kraut
+
+Transcribed from a handwritten recipe card titled *"No heat sour Kraut."* A raw-pack, brine-cured sauerkraut — no cooking, no boiling water bath for the cabbage itself, just shredded cabbage packed into jars under a salt-and-vinegar brine and sealed.
+
+**Yield:** roughly 1 gallon of brine, enough for about 4–5 quart jars
+
+**🟢 Easy** · **Prep ~45 min** · **Cook none** · **Slow cook weeks** *(cures in the jar)* · **Start to finish weeks** *(see Open Questions on cure time)*
+
+> ⚠️ **Read the Open Questions before making this.** The card is a family shorthand, not a tested canning procedure — it doesn't state a cure time, a storage temperature, or whether the jars get processed. Raw-pack fermenting and preserving have real safety margins, so treat the card as a starting point to confirm rather than a complete method.
+
+#### A. Ingredients
+
+- Cabbage, shredded — enough to pack your jars, plus whole outer leaves for capping
+- 1 gal. water
+- 1 cup vinegar
+- 1 scant cup canning salt
+
+#### B. Cooking Instructions
+
+**1. Pack the jars with shredded cabbage.**
+Shred the cabbage and pack it into clean jars.
+
+**2. Cap each jar with a whole cabbage leaf.**
+A whole leaf laid over the top of each jar — it holds the shredded cabbage down under the brine, which is what keeps it from floating up and spoiling at the surface.
+
+**3. Mix the brine.**
+1 gallon of water, 1 cup vinegar, and 1 scant cup canning salt, stirred until the salt dissolves. *"Scant" is the card's own word — a hair under a full cup.*
+
+**4. Pour the brine over the cabbage and seal with hot lids.**
+Cover the shredded cabbage completely with brine, then seal the jars with hot lids.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cabbage — several heads, depending on how many jars you're filling
+- 🛒 Distilled white vinegar — 1 cup
+- 🛒 **Canning salt** — 1 scant cup *(not table salt — the anti-caking agents cloud the brine)*
+- 🛒 Canning jars and lids
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,200 | 0 g | 60 g | 280 g | 120 g |
+| **Per serving** *(makes about 4–5 quarts — roughly 40 servings)* | ~30 | 0 g | 1.5 g | 7 g | 3 g |
+
+**What a serving is:** about ½ cup, drained — a normal helping alongside sausage, on a hot dog, or with pork.
+
+**Doubly estimated:** the card scales the brine but never says how much cabbage it covers, so this assumes roughly 5 lb of cabbage. The brine is drained off rather than eaten, but **sodium is very high** — a scant cup of canning salt per gallon.
+
+#### D. Open Questions
+
+The card is complete as written but leaves out several things a first-time maker would need:
+
+- **How long does it cure, and where?** No time or temperature is given. Traditional brined kraut runs a few weeks at cool room temperature — confirm what Cody's family actually does.
+- **Are the jars processed, or just sealed?** "Seal with hot lids" suggests hot lids on raw-packed jars, but doesn't say whether they go into a water bath afterward or simply sit.
+- **How much cabbage does a gallon of brine cover?** The card scales the brine but not the cabbage — worth noting once you've made a batch.
+- **Is the vinegar doing the preserving, or is this a true ferment?** A cup of vinegar in a gallon is fairly dilute, which suggests salt-brine fermentation with the vinegar as a helper rather than a straight vinegar pickle. Worth pinning down, since it changes how it's stored.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -880,6 +1026,17 @@ Roux keeps. Cool it, put it in an airtight jar, and hold it for several days eit
 - 🛒 Vegetable oil
 
 *Nothing new pushed to Reminders — both are already on the list from [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,770 | 162 g | 10 g | 71 g | 2.5 g |
+| **Per serving** *(not eaten on its own — thickens one pot)* | ~250 | 23 g | 1.4 g | 10 g | 0.4 g |
+
+**What a serving is:** not a dish. A full ¾ cup oil + ¾ cup flour batch thickens a gumbo serving 6–10, so the per-serving column is what one bowl inherits from the roux.
+
+*Scale directly with the batch — it's 50/50 oil and flour by volume, so halving the recipe halves everything here.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -1327,6 +1484,17 @@ This is a formula, not a fixed recipe — the master method (deglaze, reduce by 
 
 *The shortest possible starting kit:* low-sodium chicken broth, Dijon, butter, heavy cream, and one bottle each of red wine and balsamic vinegar gets you Red Wine, Balsamic, and Mustard Cream without another trip.
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~185 | 12 g | 2 g | 6 g | 0 g |
+| **Per serving** *(serves 4)* | ~45 | 3 g | 0.5 g | 1.5 g | 0 g |
+
+**What a serving is:** about 3 Tbsp spooned over one portion of meat.
+
+*Varies by combination — a broth-and-wine sauce lands near these numbers; a port or Marsala sauce with dried fruit and nuts runs roughly double.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -1535,6 +1703,17 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 - 🛒 Vegetable broth — *in place of chicken broth*
 - 🛒 A second starch — *grains, beans, or potatoes, to replace the meat*
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,600 | 63 g | 114 g | 146 g | 26 g |
+| **Per serving** *(serves 4 generously)* | ~400 | 16 g | 29 g | 37 g | 7 g |
+
+**What a serving is:** a generous 1½–2 cup bowl — the formula is built to make 4 of them.
+
+*Figures assume chicken thighs, potatoes as the starch, and a mixed pound of vegetables. Swapping the protein or starch moves these a lot — sausage roughly doubles the fat, beans push fiber well up.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -1682,6 +1861,17 @@ Each plugs straight into the Master Recipe — the technique never changes, only
 
 **Not a grocery item, but required:** a 12-inch heavy-bottomed **ovenproof nonstick** skillet, and a **plastic** spatula for cutting.
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,110 | 144 g | 105 g | 84 g | 12 g |
+| **Per serving** *(serves 5 (4 to 6))* | ~420 | 29 g | 21 g | 17 g | 2.4 g |
+
+**What a serving is:** one wedge — a quarter to a sixth of a 12-inch frittata.
+
+*Figures assume bulk Italian sausage and cheddar. A meatless version (the corn-tomato or chickpea builds) drops roughly 100 cal and 8 g fat per wedge.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -1792,6 +1982,17 @@ Times below assume the Master Technique in Part B. **All three are turned only o
 
 **Not a grocery item, but worth having:** a **thin metal spatula** for turning fish without tearing it.
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,160 | 69 g | 162 g | 24 g | 1 g |
+| **Per serving** *(serves 4)* | ~290 | 17 g | 41 g | 6 g | 0.3 g |
+
+**What a serving is:** one 6 oz cutlet, chop, or fish fillet.
+
+*Assumes chicken breast; only about half the dredge adheres, and only part of the butter and oil ends up on the plate. Pork chops run higher in fat, white fish lower.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -1849,6 +2050,17 @@ Pull out and discard the bones and skin. Refrigerate what's left if it's getting
 - 🛒 ⭐ Chicken broth, store-bought — 1 quart per chicken
 
 *That's the whole list. Water doesn't go on it, and neither does anything else — that's the point of this technique.*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~200 | 8 g | 24 g | 8 g | 0 g |
+| **Per serving** *(makes a generous 2 quarts — about 8 cups)* | ~25 | 1 g | 3 g | 1 g | 0 g |
+
+**What a serving is:** 1 cup as a base. This is an ingredient rather than a dish — the 2 qt yield builds two full pots of the [§T9](#t9-hearty-main-course-soup-formula) soup formula.
+
+*Skim the fat and the calories drop further. The shredded meat pulled off the bird before simmering is counted with whatever dish it goes into, not here.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -1944,6 +2156,17 @@ Stir the cooled pasta, cherry tomatoes, sliced avocado, and the reserved bacon i
 - 🛒 Dried dill
 - 🛒 Cherry tomatoes — 1 cup halved
 - 🛒 Avocado — 1
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,050 | 122 g | 49 g | 181 g | 20 g |
+| **Per serving** *(serves 4)* | ~515 | 30 g | 12 g | 45 g | 5 g |
+
+**What a serving is:** about 1½ cups — a full lunch portion, or a generous side at a cookout.
+
+*Mayonnaise and avocado together account for most of the fat.*
 
 #### D. Open Questions
 
@@ -2078,6 +2301,17 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 - 🛒 Asparagus — 1 bunch
 - 🛒 Crystal hot sauce — 1 jar
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,630 | 153 g | 155 g | 372 g | 26 g |
+| **Per serving** *(serves 4)* | ~910 | 38 g | 39 g | 93 g | 6 g |
+
+**What a serving is:** about 1½ cups of sauced pasta, with 4–5 asparagus spears alongside.
+
+*Includes the full box of pasta and the asparagus. The butter goes in twice — half at the start, more to taste at the end — so the fat number moves with how heavy a hand you use.*
+
 #### D. Open Questions
 
 - "Capt. Mike's" appears on the card as the seasoning brand (written both "Cpt. Mike's" and "capn' mike's" in different spots) — worth confirming exactly which product this is so it's easy to find at the store next time.
@@ -2142,6 +2376,17 @@ Sprinkle chopped parsley over the top and serve.
 - 🛒 Margarine — 3 oz.
 - 🛒 Flour
 - 🛒 Parsley
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,320 | 98 g | 82 g | 29 g | 3 g |
+| **Per serving** *(serves 2)* | ~660 | 49 g | 41 g | 15 g | 1.5 g |
+
+**What a serving is:** one 5 oz chicken breast topped with crabmeat and hollandaise, plus an asparagus spear.
+
+*Assumes most of the 3 oz of margarine ends up on the plate. Only part of the flour dredge adheres.*
 
 #### D. Open Questions
 
@@ -2224,6 +2469,17 @@ Serve with French bread.
 - 🛒 Rice — 1½ C
 - 🛒 French bread — 1 loaf
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,170 | 47 g | 156 g | 262 g | 13 g |
+| **Per serving** *(serves 6)* | ~360 | 8 g | 26 g | 44 g | 2 g |
+
+**What a serving is:** about 1 cup — one scoop from the 8×8 pan, roughly a sixth of it.
+
+*French bread for serving is not included.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -2302,6 +2558,17 @@ When Cody doesn't use pickle meat, he adds a little red wine vinegar for the fla
 - 🛒 Rice — 2 C
 - 🛒 French bread
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,160 | 58 g | 145 g | 267 g | 44 g |
+| **Per serving** *(serves 6)* | ~360 | 10 g | 24 g | 45 g | 7 g |
+
+**What a serving is:** the recipe's own portion: about ½ cup of rice per plate with a generous ladle of beans over it.
+
+*Includes the rice. Beans carry nearly all of the fiber.*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -2353,6 +2620,17 @@ The vinegary pepperoncini is the bright counterpoint the dish wants.
 - 🛒 White rice — 1 box
 - 🛒 Cornbread mix — 1 box
 - 🛒 Cajun sausage — 1 lb
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,360 | 160 g | 250 g | 412 g | 70 g |
+| **Per serving** *(serves 8)* | ~545 | 20 g | 31 g | 52 g | 9 g |
+
+**What a serving is:** about 1 cup of beans over ½ cup of rice, with a link or two of the fried sausage alongside.
+
+*Includes the rice and the Cajun sausage. Cornbread and pepperoncini are not included.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2414,6 +2692,17 @@ Boil the noodles or ravioli per the package, top with the sauce, and serve with 
 - 🛒 Salt & pepper
 - 🛒 Garlic
 - 🛒 Bread — 1 box/loaf
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,590 | 113 g | 173 g | 469 g | 47 g |
+| **Per serving** *(serves 6)* | ~600 | 19 g | 29 g | 78 g | 8 g |
+
+**What a serving is:** about 1 cup of sauce over 1½ cups of cooked noodles.
+
+*Includes the full box of noodles. Bread for serving is not included.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2491,6 +2780,17 @@ Turn every few minutes for even char on all sides. Chicken is done at 165°F int
 - 🛒 Kielbasa (kalbasa) — 1–1½ lb
 - 🛒 Cavender's seasoning
 - 🛒 Skewers
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,100 | 250 g | 440 g | 400 g | 40 g |
+| **Per serving** *(serves 8)* | ~640 | 31 g | 55 g | 50 g | 5 g |
+
+**What a serving is:** two loaded skewers — roughly 6 oz of chicken plus the vegetables, pineapple, and sausage threaded alongside.
+
+*Only about 60% of the marinade is counted — the rest stays in the bag. Pineapple and honey together drive most of the carbs.*
 
 #### D. Open Questions
 
@@ -2596,6 +2896,15 @@ Pack the rice into an 8 oz. cup and unmold it onto the plate: 2 cups per person 
 - 🏪 Peeled medium shrimp — about ½ lb.
 - 🏪 Oysters in their liquor, medium-size — about 10 oz. *(per [§T6](#t6-seafood-notes), buy from a market you trust and keep the liquor if you're not using all of it here)*
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,890 | 73 g | 155 g | 385 g | 20 g |
+| **Per serving** *(serves 4 as a main, 8 as an appetizer)* | ~725 | 18 g | 39 g | 96 g | 5 g |
+
+**What a serving is:** the source's own portion: 2 cups of molded rice for a main course, 1 cup as an appetizer. Per-serving figures above are for the main-course portion — halve them for the appetizer.
+
 #### D. Open Questions
 
 - **Seafood stock:** the source calls for a specific "Basic Seafood Stock" recipe from elsewhere in its book, not photographed here. Until that page is added, [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions) covers general seafood stock as a reasonable substitute, or a store-bought seafood/fish stock works in a pinch.
@@ -2681,11 +2990,16 @@ Don't skip it; it's built into the cook time above.
 
 **Not a grocery item, but required:** a candy thermometer, a meat thermometer, and a wire rack.
 
-#### Nutrition *(per serving — as printed on the source page)*
+#### Nutrition *(per serving, as printed on the source page)*
 
-| Net carbs | Calories | Fat | Protein | Carbs | Fiber |
+| | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| 2.1 g | 648 | 31 g | 87.1 g | 3 g | 0.9 g |
+| **Whole dish** | ~2,590 | 124 g | 348 g | 12 g | 3.6 g |
+| **Per serving** *(serves 4)* | 648 | 31 g | 87.1 g | 3 g | 0.9 g |
+
+**What a serving is:** one bone-in breast half or thigh, or two drumsticks.
+
+**Net carbs: 2.1 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 4 servings. Frying oil absorption is already accounted for in the source's figures.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2740,6 +3054,17 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 - 🛒 Noodles — 1 lb
 - 🛒 Crystal hot sauce — 1 container
 - 🛒 Shredded cheese — 1 bag
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,800 | 230 g | 320 g | 470 g | 60 g |
+| **Per serving** *(serves 8)* | ~725 | 29 g | 40 g | 59 g | 7.5 g |
+
+**What a serving is:** about 1 cup of chili over 1 cup of cooked noodles, topped with cheese.
+
+*Includes the noodles and the shredded cheese. The canned prepared chili varies a lot by brand — check the label if it matters.*
 
 #### D. Open Questions
 
@@ -2858,6 +3183,17 @@ Main course: mound about ⅓ cup cooked rice in the center of a soup bowl and la
 
 *All thirteen pushed to the Groceries reminders list.*
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,490 | 263 g | 236 g | 259 g | 15 g |
+| **Per serving** *(serves 6 as a main, 10 as an appetizer)* | ~750 | 44 g | 39 g | 43 g | 2.5 g |
+
+**What a serving is:** about 1½ cups of gumbo over ½ cup of rice.
+
+*Only about half the frying oil is counted — most stays in the pot, though the roux carries a good deal of it into the gumbo. Includes the rice.*
+
 #### D. Open Questions
 
 - The original calls for homemade stock — worth testing whether store-bought holds up, or whether this is one where it actually matters.
@@ -2933,6 +3269,17 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 - 🛒 Fresh dill — 1 bunch
 - 🛒 Olive oil
 - 🛒 Salt & black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,350 | 63 g | 112 g | 86 g | 13 g |
+| **Per serving** *(serves 4)* | ~340 | 16 g | 28 g | 21 g | 3 g |
+
+**What a serving is:** a generous 1½-cup bowl.
+
+*Assumes chicken thighs; boneless skinless breasts drop this to roughly 260 cal and 6 g fat per serving.*
 
 #### D. Open Questions
 
@@ -3038,6 +3385,17 @@ Main course: mound ¼ cup hot rice in the middle of each bowl, then spoon 1 cup 
 - 🏪 Oysters in their liquor, medium-large — about 9 oz.
 - 🏪 Crabmeat, picked over — ¾ lb
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,880 | 289 g | 268 g | 249 g | 15 g |
+| **Per serving** *(serves 10 as a main, 20 as an appetizer)* | ~490 | 29 g | 27 g | 25 g | 1.5 g |
+
+**What a serving is:** the source's own portion: ¼ cup of rice mounded in the bowl with 1 cup of gumbo over it. Half that as an appetizer.
+
+*Includes the rice. The ¾ cup of oil in the roux is most of the fat.*
+
 #### D. Open Questions
 
 - **Seafood stock:** same gap as [§7.20](#720-chicken-and-seafood-jambalaya) — the source's own "Basic Seafood Stock" recipe isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute until that page turns up.
@@ -3101,6 +3459,17 @@ The source recipe points at its own Skillet Cornbread (page 48), which isn't par
 - 🛒 Molasses — ½ cup
 - 🛒 Kosher salt and white pepper
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,840 | 202 g | 158 g | 602 g | 39 g |
+| **Per serving** *(serves 12 as an entrée, 20 as an appetizer)* | ~405 | 17 g | 13 g | 50 g | 3 g |
+
+**What a serving is:** about 1½ cups as an entrée; ¾ cup as an appetizer.
+
+*Sweet potatoes and the ½ cup of molasses together account for nearly all the carbs. Cornbread or hush puppies are not included.*
+
 #### D. Open Questions
 
 - **Skillet Cornbread (page 48)** isn't in this cookbook — worth adding if that page ever gets photographed.
@@ -3149,6 +3518,17 @@ Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A
 - 🛒 Chicken bouillon
 - 🛒 Salt and pepper
 - 🛒 Whipping cream
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,780 | 193 g | 101 g | 154 g | 25 g |
+| **Per serving** *(serves 6)* | ~465 | 32 g | 17 g | 26 g | 4 g |
+
+**What a serving is:** a 1½-cup bowl.
+
+**Doubly estimated — the card gives no quantities at all.** This assumes 1 lb Italian sausage, 1½ lb potatoes, one bunch of kale, one onion, and 1 cup of cream. Treat it as a rough shape, not a measurement, until the amounts are pinned down.
 
 #### D. Open Questions
 
@@ -3223,6 +3603,17 @@ Give it a stir partway or at the end to even out the heat. Garnish as desired an
 - 🛒 Chicken breast — enough for 2 cups cooked and shredded *(or rotisserie chicken — see [§T12](#t12-fast-homemade-chicken-broth) for getting broth out of the same bird)*
 - 🛒 Crackers or vegetables, for serving
 
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,970 | 166 g | 90 g | 23 g | 1 g |
+| **Per serving** *(serves about 10 as a dip)* | ~195 | 17 g | 9 g | 2 g | 0 g |
+
+**What a serving is:** about ¼ cup — a few good scoops with crackers or celery.
+
+*Crackers or vegetables for dipping are not included, and they'll dominate the carb number if you use crackers.*
+
 #### Chef's Notes
 
 **Reduced-calorie version**, per the original card: swap in Neufchâtel cheese for the cream cheese, and low-fat versions of the dressing and blue cheese.
@@ -3278,6 +3669,17 @@ Shape the seasoned ground beef into thin, even strips on the dehydrator trays �
 - 🛒 Worcestershire sauce
 
 **Not a grocery item, but useful:** a jerky gun or extruder, for forming even strips out of the ground beef. A dehydrator (or an oven that runs low and even, with the trays swapped the same way) either way.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~695 | 22 g | 109 g | 7 g | 1 g |
+| **Per serving** *(1 lb of meat makes about 6 oz of jerky — roughly 6 servings)* | ~115 | 4 g | 18 g | 1 g | 0 g |
+
+**What a serving is:** about 1 oz — three or four strips, a small handful.
+
+*Weight drops by roughly two-thirds during dehydrating, but the nutrition doesn't leave with the water — it just concentrates. 95% lean beef keeps the fat low for jerky.*
 
 #### D. Open Questions
 
@@ -3337,6 +3739,17 @@ Stop adding once it's the texture you want — there's no fixed amount, and it'l
 
 ### 9.8 Jalapeño Poppers
 > *Placeholder — details forthcoming.* Per Cody: **one of his all-time top snacks** — recipe not written down yet, but it's coming. Ingredients · Instructions · Grocery list all to be documented.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,520 | 168 g | 166 g | 100 g | 13 g |
+| **Per serving** *(serves 6)* | ~420 | 28 g | 28 g | 17 g | 2 g |
+
+**What a serving is:** about ¾ cup — enough for a sandwich, or a scoop on greens.
+
+*Assumes about ¾ cup of mayonnaise and all five optional add-ins. Mayo is the single biggest variable — it's added to taste, so the fat number moves with it.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3420,18 +3833,69 @@ This isn't optional — the salad needs the time in the fridge for the dressing 
 - 🛒 Liquid stevia
 - 🛒 Salt and ground black pepper
 
-#### Nutrition *(per serving, based on 6 servings — as printed on the source page)*
+#### Nutrition *(per serving, as printed on the source page)*
 
-| Net carbs | Calories | Fat | Protein | Carbs | Fiber |
+| | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| 3 g | 333 | 35.1 g | 5.2 g | 5.5 g | 2.5 g |
+| **Whole dish** | ~2,000 | 211 g | 31 g | 33 g | 15 g |
+| **Per serving** *(serves 6)* | 333 | 35.1 g | 5.2 g | 5.5 g | 2.5 g |
+
+**What a serving is:** about ¾ cup — a standard picnic-side portion, the same scoop you'd take of potato salad.
+
+**Net carbs: 3 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 6 servings.
 
 [↑ Table of Contents](#table-of-contents)
 
 ---
 
-### 11.5 Southern Keto Mashed Potatoes
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+### 11.5 Easy Caulimash (Keto "Mashed Potatoes")
+
+Transcribed from a printed keto cookbook page (p. 210) — the same book as [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad), and the same swap: **cauliflower standing in for potatoes**. This fills what was the *Southern Keto Mashed Potatoes* placeholder.
+
+**Yield:** 4 servings
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
+
+> **The one step not to skip: drain it properly.** Frozen cauliflower carries a lot of water, and the source is blunt about it — *"you don't want watery caulimash."* Drain the excess liquid before it goes in the processor or the texture never comes together.
+
+#### A. Ingredients
+
+- 1 (12 oz.) bag frozen cauliflower florets
+- 3 Tbsp salted butter, plus extra for garnish if desired
+- 2 Tbsp heavy whipping cream
+- Salt and ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Cook the cauliflower per the package, then drain well.**
+Drain off the excess liquid thoroughly — see the note above; this is the step that decides whether you get mash or soup.
+
+**2. Blend with the butter and cream until smooth and creamy.**
+Cauliflower into a food processor or high-powered blender, add the butter and cream, and pulse until smooth. Season to taste with salt and pepper. *A processor or high-powered blender isn't strictly required, but it makes a real difference to the texture — an immersion blender in the pot also works.*
+
+**3. Serve, garnished with more butter if you like.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Frozen cauliflower florets — 1 × 12 oz. bag
+- 🛒 Salted butter — 3 Tbsp, plus extra for garnish
+- 🛒 Heavy whipping cream — 2 Tbsp
+- 🛒 Salt and ground black pepper
+
+**Not a grocery item, but worth having:** a food processor, high-powered blender, or immersion blender.
+
+#### Nutrition *(per serving, as printed on the source page)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~605 | 48 g | 17 g | 38 g | 18 g |
+| **Per serving** *(serves 4)* | 151 | 12 g | 4.2 g | 9.5 g | 4.6 g |
+
+**What a serving is:** about ½ cup — the same scoop you'd take of mashed potatoes.
+
+**Net carbs: 4.9 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 4 servings. Extra butter for garnish is not included.
 
 [↑ Table of Contents](#table-of-contents)
 

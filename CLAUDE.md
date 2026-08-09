@@ -75,6 +75,35 @@ Format:
 
 Omit any field that doesn't apply. **Sort the index by prep + cook** — the time that actually costs you — not by start-to-finish.
 
+## 3b. Nutrition
+
+Every written-up recipe carries a **Nutrition** block after its Grocery Shopping List. Placeholders don't get one.
+
+**Report five numbers, two ways:** calories, fat, protein, carbs, and fiber — once for the **whole dish** and once **per serving**, with the serving count stated. Pure reference sections (§T2–§T7) are skipped; they aren't dishes.
+
+**Where the numbers come from:**
+
+- **If the source page prints them, use those and say so** — mark the block *(per serving, as printed on the source page)* and calculate the whole-dish figures from them. Never overwrite a publisher's numbers with an estimate.
+- **Otherwise estimate from the ingredient list** and mark the block *(estimated)*. Add up the actual ingredients and divide by a sensible serving count. These are working estimates for planning, not lab figures — say so rather than implying false precision.
+- **When the recipe has no quantities** (some handwritten cards don't), say that plainly in the block and flag it in Open Questions. An estimate built on assumed amounts must be labeled as such.
+
+**Always describe what a serving actually is, in plain language.** A number without a portion is useless — "420 calories per serving" means nothing until you know whether that's half a cup or a full plate. Describe it the way a person would: *"about 1½ cups — a normal dinner bowl,"* *"one 6 oz cutlet,"* *"¼ cup, a few scoops with crackers,"* *"½ cup rice with a ladle of beans over it."* Where the source states its own portion, use that.
+
+**Account for what's actually eaten.** Marinade left in the bag, oil that stays in the fry pot, a dredge that half falls off, oxtail pulled out and discarded, brine poured off — none of that lands on the plate. Estimate the eaten portion, not the shopping list.
+
+Format:
+
+> #### Nutrition *(estimated)*
+>
+> | | Calories | Fat | Protein | Carbs | Fiber |
+> |---|---|---|---|---|---|
+> | **Whole dish** | ~1,350 | 63 g | 112 g | 86 g | 13 g |
+> | **Per serving** *(serves 4)* | ~340 | 16 g | 28 g | 21 g | 3 g |
+>
+> **What a serving is:** a generous 1½-cup bowl.
+
+Low-carb recipes may also carry **net carbs** when the source gives them, since that's the number that matters for the §11 keto entries.
+
 ## 4. Handling Recipe Revisions
 
 Cody will frequently come back after cooking and ask for a tweak — e.g., "Add another teaspoon of hot sauce to Crawfish Elegante."

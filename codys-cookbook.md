@@ -27,6 +27,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T6. Seafood Notes](#t6-seafood-notes) ✅
   - [T7. Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) ✅
   - [T8. Pan Sauce Formula](#t8-pan-sauce-formula) ✅
+  - [T9. Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 
 **Complete Recipes**
@@ -110,6 +111,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula)** — filed as a technique alongside §T8's pan sauces, since it's a formula (protein / vegetables / starch / broth / flavoring) rather than one dish. Written from Cody's own rewrite of the source pages, reformatted into house two-layer style. **[§8.2 Soups](#82-soups)** now points at it: Cody has specific soups coming that build on this formula, and each will get its own §8.x entry referencing §T9 for the method rather than repeating it. *Note: the source chapter carries a second, smooth-and-creamy soup formula that isn't in this cookbook yet — it becomes §T10 when added.* |
 | 2026-08-09 | **Every technique section now carries a Grocery Shopping List.** §T2–§T8 previously had none, on the reasoning that techniques aren't recipes; per Cody, they get one anyway. Each is a pantry/staples list for that technique rather than a per-dish list — the oils §T2 assumes, the frying fats in §T3, stock bones plus the three hard no's in §T4, the standing pepper shelf in §T5, the fish-market list in §T6, Louisiana specialty items in §T7, and a buy-per-sauce menu for §T8's 20 combinations. §T1 already had one. The only sections still without a list are §3 and the §5–§11 stubs, which have no ingredients documented yet. |
 | 2026-08-09 | Added **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** — transcribed from a photographed cookbook page. A reusable technique, not a single dish, so it went in the Techniques section alongside §T1's roux rather than becoming its own numbered recipe: a master method (deglaze, reduce by half, whisk in an enrichment) plus a 20-sauce reference table of Liquid/Flavorings/Enrichment combinations to pair with whatever's coming out of the pan. |
 | 2026-08-09 | Added **[§4.5 Pickled Pink Onions](#45-pickled-pink-onions)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings, Sauces & Condiments* to cover it, since it's a fridge-staple condiment in the same standalone-component mold as the section's rubs and sauces. |
@@ -696,6 +698,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T6](#t6-seafood-notes) | Seafood Notes | `seafood` `crawfish` `shrimp` `oysters` |
 | [T7](#t7-louisiana-language--ingredients) | Louisiana Language & Ingredients | `glossary` |
 | [T8](#t8-pan-sauce-formula) | Pan Sauce Formula | `pan-sauce` `deglaze` `drizzle` `quick-sauce` |
+| [T9](#t9-hearty-main-course-soup-formula) | Hearty Main Course Soup Formula | `soup` `formula` `weeknight` `one-pot` `stew` |
 
 ---
 
@@ -1206,6 +1209,190 @@ This is a formula, not a fixed recipe — the master method (deglaze, reduce by 
 - 🛒 ⭐ Heavy cream — *2 Tbsp; the enrichment for Quick Velouté and Mustard Cream*
 
 *The shortest possible starting kit:* low-sodium chicken broth, Dijon, butter, heavy cream, and one bottle each of red wine and balsamic vinegar gets you Red Wine, Balsamic, and Mustard Cream without another trip.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T9. Hearty Main Course Soup Formula
+
+<!-- TECHNIQUE-TAGS: soup, formula, weeknight, one-pot, stew -->
+**Tags:** `soup` · `formula` · `weeknight` · `one-pot` · `stew`
+**Used in:** [§8.2 Soups](#82-soups) — the base formula for the specific soups Cody has coming
+
+The whole thing fits in your head: 1 pound protein, 1 pound vegetables, 1 quart broth, 1 onion, 1 can tomatoes, one starch (potatoes, rice, pasta, or beans), and something to flavor it. The method is just as short — soften an onion, dump in everything else, bring it up to a simmer, give it about 20 minutes, and eat. A handful of sensible exceptions apply, but it's far better to carry a formula plus its exceptions than to carry no formula at all.
+
+> **This is the chunky one.** The source chapter runs two soup formulas — this hearty, stew-like one, and a second smooth-and-creamy one. **The creamy formula isn't in this cookbook yet**; add it and it becomes §T10.
+
+#### A. The Master Recipe
+
+*Makes 4 generous servings*
+
+**Ingredients**
+
+- 2 Tbsp olive oil
+- 1 large onion, chopped
+- 1 lb **Protein**, prepped — see [Part B](#b-protein-1-pound)
+- 1 lb **Vegetables**, prepped — see [Part C](#c-vegetables-1-pound)
+- 1 lb **Starch** — see [Part D](#d-starch)
+- 1 can (14.5 oz.) tomatoes, diced or crushed — your call, and occasionally skippable
+- 1 quart chicken broth — *swap in fish or seafood broth when the protein is fish, shrimp, or scallops*
+- **Flavorings** — see [Part E](#e-flavorings)
+- Salt and ground black pepper
+
+**Cooking Instructions**
+
+**1. Soften the onion. 4–5 minutes.**
+Warm the oil in a large pot over medium-high heat, add the chopped onion, and cook just until it starts to soften. You're not caramelizing it — this is a quick head start, not a foundation.
+
+**2. Add nearly everything at once.**
+In go the Vegetables, the Protein, the Starch, the tomatoes, the broth, and any Flavorings that are **dried herbs, woody fresh herbs, or spices**. *Two things stay out:* shrimp and scallops, which go in during the final 5 minutes, and the soft fresh herbs and finishing flavorings, which go in at the end. Anything sturdy enough to take 20 minutes goes in now.
+
+**3. Simmer partially covered. 15–20 minutes.**
+Bring it up to a simmer, drop the heat to medium-low, and cook until the vegetables are tender and everything tastes like it belongs together rather than like separate ingredients sharing a pot. That blending is the actual doneness cue — the clock is a guide.
+
+**4. Stir in the remaining Flavorings and loosen if needed.**
+Soft fresh herbs, citrus juice, and zest go in now. Add more broth or water if it's tightened up. **You're after thick but still juicy** — if a spoon stands up in it, it's gone too far.
+
+**5. Taste, correct, and serve.**
+Adjust the seasoning, including salt and pepper, and serve it up.
+
+> **Note:** Flavorings can be dried or fresh herbs, spices, or other additions such as citrus juice or zest.
+
+#### B. Protein: 1 Pound
+
+For quick weeknight soups, stick to cuts that cook fast. How you handle them varies: some go straight into the pot, either at the start with everything else or right at the end; some go in early and get fished out to be shredded or cut up; and a few get browned in the pot before the onion ever hits it.
+
+**Just add as is**
+
+- **Ham:** Cube or shred it and add it along with the broth.
+- **Smoked and cured sausages, any type:** Slice and add with the broth.
+- **Fish fillets:** Add with the broth, then break them into flakes with a spatula as they cook.
+- **Peeled shrimp:** Cut large ones into bite-size pieces; drop in during the last few minutes.
+- **Bay scallops:** Drop in during the last few minutes.
+
+**Brown and slice**
+
+- **Fresh sausages, any type:** Brown them in the hot pot before you sauté the onion — no need to cook them through. Slice and add with the broth. *Alternatively:* squeeze the raw sausage out of its casing, sauté it, and add the onion right on top; it can stay in the pot.
+
+**Simmer and shred**
+
+- **Boneless, skinless chicken breasts:** Cut crosswise into thirds, add with the broth, pull them out near the end, shred with two forks, and return to the pot.
+- **Boneless, skinless chicken thighs:** Add with the broth, pull out near the end, shred with two forks, and return to the pot.
+- **Pork tenderloin:** Cut crosswise into 2- to 3-inch chunks, add with the broth, pull out near the end, shred with two forks, and return to the pot.
+
+#### C. Vegetables: 1 Pound
+
+Do particular vegetables belong with particular meats? A few pairings are obvious — sausage alongside cabbage and potatoes, chicken with carrots and peas — but you won't find a bad combination among the suggested soup vegetables and any of the meats, poultry, or fish.
+
+**Common soup vegetables**
+
+- **Asparagus:** Snap off the woody ends and cut into 1-inch pieces; split thick spears lengthwise.
+- **Broccoli or cauliflower:** Break into small florets. Peel the tough skin from broccoli stalks and slice them ¼ inch thick. Packaged florets work too.
+- **Brussels sprouts:** Trim the root end. Halve the small ones lengthwise; cut large ones into thick slices.
+- **Turnips, rutabagas, and any winter squash:** Peel and cut into bite-size chunks, seeding the squash.
+- **Cabbage:** Halve, core, and slice thin.
+- **Carrots or celery:** Medium dice; peel the carrots.
+- **Green beans:** Trim the ends and snap into bite-size lengths.
+- **Green peas, frozen:** Nothing to do.
+- **Beet, turnip, collard, and mustard greens, Swiss chard, kale, and large spinach:** Stem, wash, and chop coarsely — or buy them bagged and prepped.
+- **Bok choy:** Slice the crisp stem thin; chop the leaves coarsely.
+- **Broccoli rabe:** Peel the stems if they're tough, then coarsely chop stems and leaves.
+- **Curly endive and escarole:** Trim the root end, wash, and chop coarsely.
+- **Baby spinach:** Nothing to do beyond making sure it's clean.
+- **Bell peppers:** Stem, seed, and cut into small dice.
+- **Fennel:** Trim off the stalks and fronds, saving the fronds. Halve, core, and cut into small dice.
+- **Leeks:** Cut off and discard the tough dark green tops. Quarter lengthwise, then slice crosswise ½ inch thick. Wash well.
+- **Mushrooms, white or baby bella:** Trim the stem ends, rinse, and slice.
+- **Yellow squash and zucchini:** Trim and cut into small dice.
+
+#### D. Starch
+
+Potatoes are the easy one — a straight pound. Past that the numbers don't line up quite so cleanly, so use the list below.
+
+You can also **run two starches at once** if you want: half a pound of potatoes plus a can of beans, say, or a cup of corn plus a can of beans. And if you already have cooked pasta or rice on hand, use it in place of raw — count on a generous 1½ cups cooked pasta or ¾ cup cooked rice, stirred in during the last few minutes.
+
+- 1 lb potatoes, any variety, diced
+- 2 cans (15 to 16 oz. each) beans or hominy, drained
+- 2 cups corn, fresh or frozen
+- 1½ cups wide or extra-wide egg noodles, **or** ¾ cup bite-size pasta
+- ⅓ cup long-grain white rice
+
+#### E. Flavorings
+
+Herbs and spices are what give a soup its character. The list below isn't exhaustive, but it covers most of the usual suspects and is plenty to get you flavoring soup on your own.
+
+**The timing rule:** dried herbs, woody fresh herbs like rosemary and thyme, and spices go in **at the beginning with the broth**. Soft fresh herbs and everything else go in **during the last few minutes**.
+
+**Dried herbs, woody fresh herbs, and spices — in at the start**
+
+- 1 Tbsp curry powder or garam masala
+- 2 tsp minced fresh rosemary or thyme, or chopped fennel seeds
+- 1 tsp dried thyme, basil, or tarragon, or ground cumin or coriander
+- ½ tsp dried oregano or caraway seeds
+- ¼ tsp hot red pepper flakes
+
+**Fresh herbs and flavorings — in at the end**
+
+- ¼ cup chopped fresh basil
+- 2 Tbsp chopped fresh parsley, cilantro, or mint, **or** lemon or lime juice
+- 1 Tbsp chopped fresh dill or tarragon
+- 1 tsp finely grated lemon zest
+
+#### F. Tips and Tricks
+
+- **Want the green vegetables bright rather than fully cooked?** Hold them until the last 5 minutes instead of adding them with the rest.
+- **Want them cooked through but still want color on the plate?** Throw in a handful of chopped fresh parsley, basil, or cilantro at the very end.
+- **To go vegetarian:** use vegetable broth in place of chicken, leave out the meat, and add a second starch (grains, beans, or potatoes).
+- **To use meat as seasoning rather than substance:** bump the vegetables from 1 lb to 1½ lb and drop the meat from 1 lb to ½ lb.
+- **Vegetable weights don't have to be precise.** Buy a little over a pound so that once you've trimmed everything you land close to a pound.
+- **Deepen a shrimp soup** — time permitting — by simmering the shells in part of the broth for a few minutes. Strain them out before the broth goes into the pot. *(See [§T6](#t6-seafood-notes) on buying shrimp shell-on in the first place.)*
+- **For faster chicken soup**, use 2 to 3 cups of shredded rotisserie chicken in place of breasts or thighs.
+
+#### G. Grocery Shopping List
+
+**Buy per soup, not all at once.** Like [§T8](#t8-pan-sauce-formula), this is a formula rather than a single dish — pick one item from each slot below and that's your list. The five slots are always the same, which is the whole point of carrying the formula.
+
+**🛒 The constants — every version needs these**
+
+- 🛒 ⭐ Olive oil — *2 Tbsp*
+- 🛒 ⭐ Onion — *1 large, per batch*
+- 🛒 ⭐ Chicken broth — *1 quart per batch; buy the box*
+- 🛒 ⭐ Canned tomatoes, diced or crushed — *1 × 14.5 oz.*
+- 🛒 ⭐ Salt and ground black pepper
+
+**🛒 Slot 1 — Protein (1 lb): pick one**
+
+- 🛒 Ham · smoked or cured sausage · fresh sausage
+- 🛒 Boneless skinless chicken breasts or thighs — *or a rotisserie chicken for the fast version*
+- 🛒 Pork tenderloin
+- 🏪 Fish fillets · peeled shrimp · bay scallops (fish market) — *if you go this route, buy **fish or seafood broth** instead of chicken, and buy shrimp shell-on so you can simmer the shells*
+
+**🛒 Slot 2 — Vegetables (1 lb): pick one or mix**
+
+- 🛒 Asparagus · broccoli · cauliflower · Brussels sprouts · cabbage · carrots · celery · green beans · frozen green peas
+- 🛒 Turnips · rutabagas · winter squash · yellow squash · zucchini · potatoes · bell peppers · fennel · leeks · mushrooms
+- 🛒 Greens — beet, turnip, collard, mustard, Swiss chard, kale, spinach, bok choy, broccoli rabe, curly endive, escarole — *bagged and prepped is a legitimate shortcut*
+
+*Buy a little over a pound* so you land near a pound after trimming.
+
+**🛒 Slot 3 — Starch: pick one (or two)**
+
+- 🛒 Potatoes — *1 lb*
+- 🛒 Canned beans or hominy — *2 × 15–16 oz.*
+- 🛒 Corn, fresh or frozen — *2 cups*
+- 🛒 Wide or extra-wide egg noodles — *1½ cups* — **or** bite-size pasta — *¾ cup*
+- 🛒 Long-grain white rice — *⅓ cup*
+
+**🛒 Slot 4 — Flavorings: pick one or two**
+
+- 🛒 *Dried/woody (in at the start):* curry powder or garam masala · fresh rosemary · fresh or dried thyme · fennel seeds · dried basil · dried tarragon · ground cumin · ground coriander · dried oregano · caraway seeds · hot red pepper flakes
+- 🛒 *Fresh/finishing (in at the end):* fresh basil · parsley · cilantro · mint · dill · tarragon · lemons or limes *(for both juice and zest)*
+
+**🛒 For the vegetarian version**
+
+- 🛒 Vegetable broth — *in place of chicken broth*
+- 🛒 A second starch — *grains, beans, or potatoes, to replace the meat*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -1840,6 +2027,8 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 
 ### 8.2 Soups
 > *Placeholder — category stub.* Cody listed "soups" generally. Each specific soup gets promoted to its own numbered entry here as it's named. *(Note: [§1 Cody's Pho](#1-codys-pho) is complete and has its own top-level section — it stays there.)*
+>
+> **The base formula is already documented:** see **[§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula)** — 1 lb protein, 1 lb vegetables, 1 quart broth, 1 onion, 1 can tomatoes, a starch, and a flavoring. Cody has specific soups coming that build on it; each of those gets written up here as its own §8.x entry, pointing back at §T9 for the method instead of repeating it.
 
 ### 8.3 Chicken and Andouille Smoked Sausage Gumbo
 

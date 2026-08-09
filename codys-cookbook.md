@@ -12,11 +12,12 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 - [Changelog](#changelog)
 - [Store Icon Key](#store-icon-key)
-- [4. Rubs, Seasonings & Sauces](#4-rubs-seasonings--sauces)
+- [4. Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)
   - [4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ✅
   - [4.2 Salsa Alfredo (Alfredo Sauce)](#42-salsa-alfredo-alfredo-sauce) ✅
   - [4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](#43-pesto-basil-parmesan-and-pine-nut-sauce) ✅
   - [4.4 Salsa Marinara (Marinara Sauce)](#44-salsa-marinara-marinara-sauce) ✅
+  - [4.5 Pickled Pink Onions](#45-pickled-pink-onions) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -108,6 +109,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§4.5 Pickled Pink Onions](#45-pickled-pink-onions)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings, Sauces & Condiments* to cover it, since it's a fridge-staple condiment in the same standalone-component mold as the section's rubs and sauces. |
 | 2026-08-09 | Added **[§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce)** — transcribed from a photographed cookbook page, a separate olive-oil-based tomato sauce alongside (not replacing) **[§7.18 Spaghetti](#718-spaghetti)**'s meat sauce. Per Cody, only the canned-San-Marzano tomato option from the card was kept — the fresh-tomato alternative was dropped since that's not the route he's using. |
 | 2026-08-09 | Added **[§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce)** and **[§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings & Sauces* to cover them, since both are standalone components meant to be reused across dishes rather than one-off recipes. **[§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)** now cross-links to §4.3 for the pesto itself. |
 | 2026-08-08 | Added **[§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs)** — transcribed from Cody's spreadsheet, expanded from a marinade card into a full kabob recipe. The card only specified the chicken/onion/bell-pepper skewer and didn't give quantities for the pineapple, zucchini, squash, tomato, or kielbasa additions Cody listed — recommended quantities and cut sizes for those are flagged as Claude's estimate in the ingredients and in Open Questions, for Cody to confirm after cooking. Also added a marinate-time recommendation (the card didn't give one) since this is a low-acid, soy-based marinade. |
@@ -447,9 +449,9 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 
 ---
 
-## 4. Rubs, Seasonings & Sauces
+## 4. Rubs, Seasonings, Sauces & Condiments
 
-Standalone blends and sauces live here rather than inside any one recipe. Steak isn't a single dish — it's a category — so a rub that works across ribeye, strip, and tri-tip shouldn't be buried under one write-up, and the same goes for a sauce like pesto or Alfredo that can top pasta one night and a salad or a bowl of vegetable soup the next. Recipes reference these by section number, and a change made here propagates to every dish that points at it. *Shared cooking technique now lives in its own section: [Cooking Techniques & Tips](#t-cooking-techniques--tips).*
+Standalone blends, sauces, and condiments live here rather than inside any one recipe. Steak isn't a single dish — it's a category — so a rub that works across ribeye, strip, and tri-tip shouldn't be buried under one write-up, and the same goes for a sauce like pesto or Alfredo that can top pasta one night and a salad or a bowl of vegetable soup the next, or a fridge staple like pickled onions that dresses up tacos, salads, and sandwiches without any extra prep. Recipes reference these by section number, and a change made here propagates to every dish that points at it. *Shared cooking technique now lives in its own section: [Cooking Techniques & Tips](#t-cooking-techniques--tips).*
 
 ### 4.1 Darcy's Steak Rub
 
@@ -632,6 +634,42 @@ The card notes this sauce "can be used on any number of pastas or combined with 
 - 🛒 San Marzano tomatoes, peeled whole — 2 × 28 oz. cans
 - 🛒 Sugar
 - 🛒 Salt & pepper
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.5 Pickled Pink Onions
+
+Transcribed from a photographed cookbook page. A quick-pickle, ready in minutes with no real cook time — a fridge staple meant to replace raw onion across salads, tacos, and sandwiches so there's no scratch peeling and slicing at mealtime.
+
+> *From the headnote: written for a son-in-law who doesn't like raw onions — pickling them turned out to beautify and improve just about any dish they touched, on top of saving prep time. Worth keeping a tub of these on hand the same way you'd keep a tub of caramelized onions.*
+
+#### A. Ingredients
+
+- 2 large red onions, halved and thinly sliced
+- 6 cups boiling water
+- 1½ cups distilled white or rice vinegar
+- 2 tsp kosher salt
+
+#### B. Cooking Instructions
+
+**1. Blanch the onions. 15 seconds.**
+Place the sliced red onions in a heatproof medium bowl and pour the boiling water over them. Let stand just 15 seconds, then drain right away — this is a quick blanch to take the raw bite off, not a cook.
+
+**2. Pickle with vinegar and salt. No cook time.**
+Return the drained onions to the bowl. Pour the vinegar over them and season with the kosher salt, stirring until the salt dissolves. That's the whole pickle — no heat, no wait required.
+
+**3. Use right away, or store for later.**
+The onions are ready to eat as soon as they're pickled. The remainder keeps refrigerated in a lidded tub or jar for a month or more. Makes 5 to 6 cups — halve the recipe if that's more than you'll get through.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Red onions — 2 large
+- 🛒 Distilled white or rice vinegar — 1½ cups
+- 🛒 Kosher salt
 
 [↑ Table of Contents](#table-of-contents)
 

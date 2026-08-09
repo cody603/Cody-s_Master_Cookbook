@@ -96,6 +96,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [9.2 Nuts](#92-nuts) ○
 - [9.3 Apples and Almond Butter](#93-apples-and-almond-butter) ○
 - [9.4 Yogurt, Seeds, and Peanut Butter](#94-yogurt-seeds-and-peanut-butter) ○
+- [9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -118,6 +119,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip)** — transcribed from a printed 2012 family email (Rachel Cassel to Joetta Roberts). Filed as a snack/appetizer rather than a side, since it's a hot dip served with crackers or vegetables. Rachel's own substitutions (cooked shredded chicken, Buffalo Wing Sauce, light ranch, cheddar) are written in as the main ingredient list, with the original printed card's canned-chicken/blue-cheese version kept as the noted alternate rather than dropped. |
 | 2026-08-09 | Filled in **[§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad)** — the first §11 placeholder to get written up, and renamed from *Southern Keto Potato Salad* to its actual name, **Southern Fauxtato Salad**, since nothing else linked the old placeholder anchor. Transcribed from a printed cookbook page, cauliflower standing in for potatoes. The §11 section intro now names the swap pattern this establishes (cauliflower for potatoes, liquid stevia for sugar) as the template for the rest of the section's placeholders. Nutrition info from the source page kept as its own table, since this is the cookbook's first recipe carrying per-serving macros. |
 | 2026-08-09 | Added **[§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)** — transcribed from a printed cookbook page, from the same source book as **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** (same missing "Basic Seafood Stock" reference). A seafood counterpart to **[§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo)**, cross-linked both ways, and added to **[§T1](#t1-how-to-make-a-roux)**'s "Used in" line and the **[§T7 glossary's Gumbo entry](#t7-louisiana-language--ingredients)**. **Flagged rather than guessed:** the source's instructions for the final step — adding the shrimp, oysters, and crabmeat — were hard to read cleanly off the page; reconstructed to the standard gumbo move (brief heat, don't overcook delicate seafood) and marked as the least certain part of the transcription in Open Questions. Also missing: the source's own "Basic Cooked Rice" recipe (page 224) — plain white rice substituted. |
 | 2026-08-09 | Added **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** — transcribed from a printed cookbook page, a second and more seafood-forward jambalaya alongside **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)** (cross-linked both ways, and from the **[§T7 glossary's Jambalaya entry](#t7-louisiana-language--ingredients)**). Three transcription ambiguities flagged in Open Questions rather than silently resolved: the source's "Basic Seafood Stock (page 32)" and "Creole Sauce (page 248)" aren't in this cookbook, and the instructions wrap across a page break in a way that left the exact wording around adding the chicken, and around a possible duplicate rice addition, uncertain — both reconstructed to the most sensible reading and flagged for confirmation against the original page. |
@@ -2848,6 +2850,58 @@ Main course: mound ¼ cup hot rice in the middle of each bowl, then spoon 1 cup 
 
 ### 9.4 Yogurt, Seeds, and Peanut Butter
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+---
+
+### 9.5 Frank's RedHot Buffalo Chicken Dip
+
+Transcribed from a printed family email — Rachel Cassel forwarding the recipe to Joetta Roberts in 2012, itself passed down from the Frank's RedHot bottle. A hot, cheesy dip built on cream cheese, hot sauce, and shredded chicken, served with crackers or vegetables.
+
+> **Rachel's own note, kept for the record:** *"I always use cooked and shredded chicken breasts instead of canned chicken. Oh, and I use Frank's Redhot Buffalo Wing Sauce. I also use light ranch dressing instead of regular ranch dressing and shredded cheddar cheese instead of mozzarella. I'm sure it would taste great no matter what type of cheese or dressing was used. It's not very healthy but very delicious."* Her substitutions are written into the ingredients below as the main version, with the original canned-chicken/blue-cheese card version noted as the alternate.
+
+#### A. Ingredients
+
+- 8 oz. cream cheese, softened
+- ½ cup light ranch dressing *(or regular ranch, or blue cheese dressing — the printed recipe calls for either)*
+- ½ cup Frank's RedHot Buffalo Wing Sauce *(or the Original Cayenne Pepper Sauce)*
+- ½ cup shredded cheddar cheese *(or crumbled blue cheese, or shredded mozzarella — any of the three works)*
+- 2 cups cooked, shredded chicken breast *(or 2 × 12.5 oz. cans premium chunk chicken breast in water, drained — the original card's version)*
+
+#### B. Cooking Instructions
+
+**1. Heat the oven to 350°F.**
+
+**2. Smooth out the cream cheese.**
+Place the softened cream cheese in a deep baking dish and stir until smooth — do this before anything else goes in, or it never fully incorporates.
+
+**3. Mix in the dressing, hot sauce, and cheese, then the chicken.**
+Stir in the ranch dressing, Frank's RedHot, and the cheddar. Once that's combined, stir in the shredded chicken.
+
+**4. Bake 20 minutes, stirring once, until heated through.**
+Give it a stir partway or at the end to even out the heat. Garnish as desired and serve hot with crackers or vegetables.
+
+#### C. Alternate Methods
+
+**Microwave.** Combine everything as above in a microwave-safe dish. Microwave uncovered on high for 5 minutes until hot, stirring halfway through.
+
+**Slow cooker.** Combine as directed, then transfer to a small slow cooker. Heat on high for 1½ hours, or on low for 2½ to 3 hours, until hot and bubbly. Stir before serving.
+
+**Tailgating.** Prepare the dip ahead of time and hold it in a heavy disposable foil pan. Set the pan on the grill and heat until hot and bubbly.
+
+#### D. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cream cheese — 8 oz.
+- 🛒 Ranch dressing (light) — ½ cup
+- 🛒 Frank's RedHot Buffalo Wing Sauce — ½ cup
+- 🛒 Shredded cheddar cheese — ½ cup
+- 🛒 Chicken breast — enough for 2 cups cooked and shredded *(or rotisserie chicken — see [§T12](#t12-fast-homemade-chicken-broth) for getting broth out of the same bird)*
+- 🛒 Crackers or vegetables, for serving
+
+#### Chef's Notes
+
+**Reduced-calorie version**, per the original card: swap in Neufchâtel cheese for the cream cheese, and low-fat versions of the dressing and blue cheese.
 
 [↑ Table of Contents](#table-of-contents)
 

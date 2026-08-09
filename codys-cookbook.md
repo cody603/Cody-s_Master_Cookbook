@@ -102,6 +102,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) ✅
 - [9.6 Beef Jerky](#96-beef-jerky) ✅
 - [9.7 Chicken Salad](#97-chicken-salad) ✅
+- [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ○
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -124,6 +125,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers)** as a placeholder — Cody calls it one of his all-time top snacks, recipe to come. |
 | 2026-08-09 | **Times re-cut to separate hands-on work from unattended time, per Cody.** The first pass used prep/cook/total, which badly misrepresented anything that simmers, bakes, smokes, or sits in a crock pot — it made [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) (25 min of work, then 8 hr of walking away) look like the biggest commitment in the cookbook. Every badge now reads **Hands-on · Unattended *(what you're waiting on)* · Start to finish**, and the **[Difficulty & Time Index](#difficulty--time-index)** re-sorts by hands-on time and names what each unattended stretch actually is. The reverse case is called out too: [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have **zero** unattended time, so a 45-minute Crawfish Elegante costs more of an evening than a 4-hour chili. |
 | 2026-08-09 | **Every written-up recipe now carries a difficulty rating and timing.** A badge sits above the ingredients of all 32 completed entries, plus a new **[Difficulty & Time Index](#difficulty--time-index)**. **Difficulty means technique risk, not effort** — an 8-hour slow cooker is 🟢 Easy because none of those hours need you, while the 15-minute roux is 🔴 Hard. Only four recipes are 🔴 Hard, and three are the same underlying skill (roux). Placeholders are unrated; §11.4's existing prep/cook line was merged into its badge to avoid stating the same times twice. |
 | 2026-08-09 | **[§9.6 Beef Jerky](#96-beef-jerky) — corrected to ground beef, 95% lean.** The card just said "1 lb of meat," and it was written up guessing sliced whole-muscle beef; Cody confirmed it's ground. Ingredients, method (mixed in like a meatloaf rather than marinated as slices, then formed with a jerky gun or by hand), and grocery list all updated. Open Questions swapped accordingly — the old "cut and slice thickness" question is gone since that no longer applies; new ones cover forming method and whether the mix rests before shaping. |
@@ -3242,6 +3244,11 @@ Stop adding once it's the texture you want — there's no fixed amount, and it'l
 - 🛒 Celery
 - 🛒 Raisins
 - 🛒 Pecans
+
+---
+
+### 9.8 Jalapeño Poppers
+> *Placeholder — details forthcoming.* Per Cody: **one of his all-time top snacks** — recipe not written down yet, but it's coming. Ingredients · Instructions · Grocery list all to be documented.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -109,7 +109,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) ○
 - [11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) ○
 - [11.3 Southern Keto Cornbread](#113-southern-keto-cornbread) ○
-- [11.4 Southern Keto Potato Salad](#114-southern-keto-potato-salad) ○
+- [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅
 - [11.5 Southern Keto Mashed Potatoes](#115-southern-keto-mashed-potatoes) ○
 
 ---
@@ -118,6 +118,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Filled in **[§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad)** — the first §11 placeholder to get written up, and renamed from *Southern Keto Potato Salad* to its actual name, **Southern Fauxtato Salad**, since nothing else linked the old placeholder anchor. Transcribed from a printed cookbook page, cauliflower standing in for potatoes. The §11 section intro now names the swap pattern this establishes (cauliflower for potatoes, liquid stevia for sugar) as the template for the rest of the section's placeholders. Nutrition info from the source page kept as its own table, since this is the cookbook's first recipe carrying per-serving macros. |
 | 2026-08-09 | Added **[§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)** — transcribed from a printed cookbook page, from the same source book as **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** (same missing "Basic Seafood Stock" reference). A seafood counterpart to **[§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo)**, cross-linked both ways, and added to **[§T1](#t1-how-to-make-a-roux)**'s "Used in" line and the **[§T7 glossary's Gumbo entry](#t7-louisiana-language--ingredients)**. **Flagged rather than guessed:** the source's instructions for the final step — adding the shrimp, oysters, and crabmeat — were hard to read cleanly off the page; reconstructed to the standard gumbo move (brief heat, don't overcook delicate seafood) and marked as the least certain part of the transcription in Open Questions. Also missing: the source's own "Basic Cooked Rice" recipe (page 224) — plain white rice substituted. |
 | 2026-08-09 | Added **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** — transcribed from a printed cookbook page, a second and more seafood-forward jambalaya alongside **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)** (cross-linked both ways, and from the **[§T7 glossary's Jambalaya entry](#t7-louisiana-language--ingredients)**). Three transcription ambiguities flagged in Open Questions rather than silently resolved: the source's "Basic Seafood Stock (page 32)" and "Creole Sauce (page 248)" aren't in this cookbook, and the instructions wrap across a page break in a way that left the exact wording around adding the chicken, and around a possible duplicate rice addition, uncertain — both reconstructed to the most sensible reading and flagged for confirmation against the original page. |
 | 2026-08-09 | Added **[§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)** — transcribed from a printed lifesambrosia.com recipe. Filed alongside §5.9 Goat Cheese Salad as the cookbook's second salad. Noted inline that the card's 5-minute pasta cook time runs short for rotini — go by the package. Open Question flagged on when the avocado goes in, since it's sliced into a salad that then chills 30 minutes, and sliced avocado browns fast. |
@@ -2874,7 +2875,7 @@ Main course: mound ¼ cup hot rice in the middle of each bowl, then spoon 1 cup 
 
 ## 11. Southern Keto Baking & Sides
 
-The "Southern keto" entries are low-carb rebuilds of Southern staples — almond flour and the like standing in for wheat flour, potatoes, and cornmeal. Worth capturing the substitution logic once these get written up, since the same swaps repeat across the group.
+The "Southern keto" entries are low-carb rebuilds of Southern staples — almond flour and the like standing in for wheat flour, potatoes, and cornmeal. Worth capturing the substitution logic once these get written up, since the same swaps repeat across the group. **[§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad)** is the first one filled in, and its swap is the template for the rest: **frozen cauliflower florets for potatoes**, **liquid stevia for sugar** in the dressing — same texture and richness, a fraction of the carbs.
 
 ### 11.1 Almond Flour Banana Bread
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
@@ -2885,8 +2886,58 @@ The "Southern keto" entries are low-carb rebuilds of Southern staples — almond
 ### 11.3 Southern Keto Cornbread
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
-### 11.4 Southern Keto Potato Salad
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+### 11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)
+
+Transcribed from a printed cookbook page, filed under the category the source itself used — Soups & Salads. Cody's mother-in-law's potato salad, rebuilt with cauliflower standing in for the potatoes. *"We don't even miss the potatoes in this recipe!"*
+
+**Yield:** 6 to 8 servings · **Prep:** 20 minutes, plus 2 hours to chill · **Cook:** 10 minutes
+
+#### A. Ingredients
+
+- 2 (10 oz.) bags frozen cauliflower florets
+- 3 hard-boiled eggs, peeled and chopped
+- ¾ cup chopped onions
+- 1 rib celery, chopped
+- 1 cup mayonnaise
+- ½ cup dill relish
+- 1 Tbsp prepared yellow mustard
+- 1 drop liquid stevia
+- Salt and ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Cook the cauliflower per the package, then drain and cool.**
+Cook according to the package directions. Drain off the excess water thoroughly — watery cauliflower will thin out the dressing — and set aside to cool before it goes anywhere near the mayonnaise.
+
+**2. Mix the dressing, then fold in the cauliflower.**
+In a large bowl, mix together the chopped eggs, onions, celery, mayonnaise, relish, mustard, and stevia. Stir in the cooled cauliflower until it's well combined and evenly coated. Season to taste with salt and pepper.
+
+**3. Chill at least 2 hours before serving.**
+This isn't optional — the salad needs the time in the fridge for the dressing to set and the flavors to come together the way a potato salad's would. Leftovers keep in an airtight container for up to 5 days.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Frozen cauliflower florets — 2 × 10 oz. bags
+- 🛒 Eggs — 3, for hard-boiling
+- 🛒 Onions
+- 🛒 Celery — 1 rib
+- 🛒 Mayonnaise — 1 cup
+- 🛒 Dill relish — ½ cup
+- 🛒 Prepared yellow mustard
+- 🛒 Liquid stevia
+- 🛒 Salt and ground black pepper
+
+#### Nutrition *(per serving, based on 6 servings — as printed on the source page)*
+
+| Net carbs | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| 3 g | 333 | 35.1 g | 5.2 g | 5.5 g | 2.5 g |
+
+[↑ Table of Contents](#table-of-contents)
+
+---
 
 ### 11.5 Southern Keto Mashed Potatoes
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.

@@ -117,7 +117,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 - [11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) ○
 - [11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) ○
-- [11.3 Southern Keto Cornbread](#113-southern-keto-cornbread) ○
+- [11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) ✅ 🥑
 - [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅ 🥑
 - [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅ 🥑
 - [11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) ✅ 🥑
@@ -128,6 +128,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Filled the **[§11.3](#113-keto-skillet-cornbread)** placeholder with **Keto Skillet Cornbread** from the same keto book as §11.4–§11.6 and §7.21 — almond flour and golden flaxseed meal instead of cornmeal, 2.1 g net carbs, 🥑 tagged. **Worth knowing: there's no corn in it** — the cornbread flavor comes from an optional sweet corn extract, flagged in a callout since the recipe reads quite differently without it. Cross-linked to **[§8.6](#86-sweet-potato-and-andouille-soup)** (which wants cornbread alongside) and **[§7.17](#717-white-beans-slow-cooker-ham--white-beans)** (whose list calls for boxed cornbread mix). **§8.6's open question deliberately stays open** — its source meant a *different* Skillet Cornbread from a different book, so this is noted as a substitute rather than the answer. |
 | 2026-08-09 | **Keto recipes are now tagged 🥑 and findable as a group**, per Cody — and the rule is in the [project instructions](CLAUDE.md) §3c: **if a source prints net carbs, the recipe is keto.** That's the reliable signal, since no ordinary recipe bothers printing it. The tag goes on the badge line, in the Table of Contents, and in a new keto callout under the **[Difficulty & Time Index](#difficulty--time-index)**. Tagging is by content rather than section — **[§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded)** is keto but lives in §7 Mains, which is exactly why the tag is needed. Also noted: the same four substitutions repeat across all of them — cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading. |
 | 2026-08-09 | Added **[§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread)** — from the same keto cookbook as §11.4, §11.5, and §7.21. Almond flour and oat fiber replace wheat, erythritol replaces sugar; 2.7 g net carbs a slice. Oat fiber and granular erythritol are flagged as specific-store items, with a warning that **oat fiber is not oat flour or oat bran** — different products entirely. |
 | 2026-08-09 | **Every recipe now carries a Nutrition block — calories, fat, protein, carbs, and fiber, for the whole dish *and* per serving — plus a plain-language description of what a serving actually is.** Rule added to the [project instructions](CLAUDE.md) §3b. Three recipes use publisher figures and say so *(as printed on the source page)*; the other 32 are marked *(estimated)* and calculated from the ingredient lists. Estimates account for what's actually **eaten**, not bought — marinade left in the bag, frying oil left in the pot, oxtail pulled and discarded, brine poured off. **[§8.7 Kale Soup](#87-italian-sausage--kale-soup)** and **[§4.6 Sour Kraut](#46-no-heat-sour-kraut)** are flagged as *doubly* estimated, since those cards give no quantities at all. |
@@ -198,6 +199,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑 | 🟢 | 5 min | 10 min | — | 15 min |
+| [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
@@ -237,7 +239,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **30 minutes of work or less — 13 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
-**🥑 Keto / low-carb — 4 recipes.** All four come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
+**🥑 Keto / low-carb — 5 recipes.** All four come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
 **The four 🔴 Hard ones are really two problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — roux. [§1 Pho](#1-codys-pho) is hard for a different one: two days and many moving parts. Learn the roux once and three of the four stop being hard.
 
@@ -2624,7 +2626,7 @@ The vinegary pepperoncini is the bright counterpoint the dish wants.
 - 🛒 Tony's seasoning
 - 🛒 Pepperoncini — 1 jar
 - 🛒 White rice — 1 box
-- 🛒 Cornbread mix — 1 box
+- 🛒 Cornbread mix — 1 box *(or make **[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** from scratch)*
 - 🛒 Cajun sausage — 1 lb
 
 #### Nutrition *(estimated)*
@@ -3450,7 +3452,7 @@ Bring to a boil, then reduce the heat and simmer until the flavors come together
 Purée the soup in batches in a food processor, then return it to the saucepot. Stir in the molasses, kosher salt, and white pepper. Simmer 10 minutes more, or until heated through.
 
 **6. Serve with cornbread or hush puppies.**
-The source recipe points at its own Skillet Cornbread (page 48), which isn't part of this cookbook — plain cornbread or hush puppies stand in for it.
+The source recipe points at its own Skillet Cornbread (page 48), which isn't part of this cookbook — plain cornbread or hush puppies stand in for it, or **[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** if you want one that's already written up here.
 
 #### C. Grocery Shopping List
 
@@ -3478,7 +3480,7 @@ The source recipe points at its own Skillet Cornbread (page 48), which isn't par
 
 #### D. Open Questions
 
-- **Skillet Cornbread (page 48)** isn't in this cookbook — worth adding if that page ever gets photographed.
+- **Skillet Cornbread (page 48)** isn't in this cookbook — worth adding if that page ever gets photographed. *(**[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** is now available as a substitute, but it's a different recipe from a different book — not the one this soup's source intended.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3791,8 +3793,82 @@ The "Southern keto" entries are low-carb rebuilds of Southern staples — almond
 ### 11.2 Southern Keto Blueberry Muffins
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
-### 11.3 Southern Keto Cornbread
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+### 11.3 Keto Skillet Cornbread
+
+Transcribed from a printed keto cookbook page (p. 74, *Breakfast & Breads*) — the same book as [§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad), [§11.5](#115-easy-caulimash-keto-mashed-potatoes), [§11.6](#116-keto-zucchini-bread), and [§7.21](#721-fried-chicken-low-carb-whey-breaded). **Almond flour and golden flaxseed meal instead of cornmeal**, baked in a hot buttered cast-iron skillet. This fills what was the *Southern Keto Cornbread* placeholder.
+
+> **The author's framing:** cornbread was a staple at their Grandma Ida Mae's house — she made it about every day, and Papa ate the leftovers crumbled into a glass of cold buttermilk. Their words: hard to measure up to Grandma's, but a good substitute for the high-carb version.
+
+**Yield:** 10 servings (one 10-inch skillet)
+
+**🥑 Keto** · **🟢 Easy** · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~40 min**
+
+> **There's no corn in it** — the cornbread flavor comes from an optional **sweet corn extract**. The source says it isn't required but recommends it for a fuller cornbread taste. Without it this reads more like a savory almond-flour skillet bread than cornbread.
+
+#### A. Ingredients
+
+- 5 Tbsp salted butter, **divided** — 2 Tbsp for the skillet, 3 Tbsp into the batter
+- 3 large eggs
+- ¼ cup heavy whipping cream
+- 2 Tbsp water
+- 2 cups finely ground blanched almond flour
+- 2 Tbsp golden flaxseed meal
+- 2 tsp baking powder
+- ½ tsp salt
+- ½ tsp sweet corn extract *(optional — see the note above)*
+
+#### B. Cooking Instructions
+
+**1. Heat the oven to 375°F.**
+
+**2. Melt the butter in two places — 2 Tbsp in the skillet, 3 Tbsp separately.**
+Put 2 Tbsp of the butter in a **10-inch cast-iron skillet** (or other ovenproof skillet) and set it in the oven to melt while it preheats. Melt the remaining 3 Tbsp separately — microwave or a small saucepan — just until melted. *Preheating the buttered skillet is what gives the edges their crust; don't pour batter into a cold pan.*
+
+**3. Whisk the wet ingredients.**
+Eggs, cream, water, and the **3 Tbsp** of melted butter whisked together in a medium bowl. *(The skillet's 2 Tbsp stays in the skillet.)*
+
+**4. Whisk the dry ingredients, then combine.**
+Almond flour, flaxseed meal, baking powder, and salt whisked together in a small bowl. Stir the flour mixture into the egg mixture until well combined, then stir in the corn extract if you're using it.
+
+**5. Pour into the hot skillet and bake 25–30 minutes.**
+Bake until lightly browned on top and around the edges. Leftovers keep in a covered container in the refrigerator up to 5 days.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Blanched almond flour, finely ground — 2 cups
+- 🛒 Salted butter — 5 Tbsp
+- 🛒 Eggs — 3 large
+- 🛒 Heavy whipping cream — ¼ cup
+- 🛒 Baking powder, salt
+
+**🏪 Specific store**
+
+- 🏪 Golden flaxseed meal — 2 Tbsp *(health-food aisle; golden rather than brown, for color and milder flavor)*
+- 🏪 Sweet corn extract — ½ tsp, optional *(baking-extract aisle or online — this is the ingredient that makes it taste like cornbread)*
+
+**Not a grocery item, but wanted:** a 10-inch cast-iron or other ovenproof skillet.
+
+#### Nutrition *(per serving, as printed on the source page)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,330 | 206 g | 70 g | 46 g | 26 g |
+| **Per serving** *(serves 10)* | 233 | 20.6 g | 7 g | 4.6 g | 2.6 g |
+
+**What a serving is:** one wedge — a tenth of a 10-inch skillet.
+
+**Net carbs: 2.1 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 10 servings.
+
+#### Serve it with
+
+- **[§8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup)** — which calls for cornbread or hush puppies alongside. *Note this is a different recipe from that soup's own referenced Skillet Cornbread, which came from a different book and still isn't in this cookbook — but it's a working stand-in.*
+- **[§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans)** — its grocery list calls for a box of cornbread mix; this is the from-scratch, low-carb alternative.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
 
 ### 11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)
 

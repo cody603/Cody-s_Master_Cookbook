@@ -6,7 +6,7 @@ A living recipe reference. Every recipe has three sections, always in this order
 
 ## Table of Contents
 
-Click any recipe to jump straight to it. ✅ = written up in full · ○ = placeholder, details still to come.
+Click any recipe to jump straight to it. ✅ = written up in full · ○ = placeholder, details still to come · 🥑 = keto / low-carb.
 
 **Reference**
 
@@ -83,7 +83,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.18 Spaghetti](#718-spaghetti) ✅
 - [7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) ✅
 - [7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ✅
-- [7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded) ✅
+- [7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded) ✅ 🥑
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -118,8 +118,9 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) ○
 - [11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) ○
 - [11.3 Southern Keto Cornbread](#113-southern-keto-cornbread) ○
-- [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅
-- [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅
+- [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅ 🥑
+- [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅ 🥑
+- [11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) ✅ 🥑
 
 ---
 
@@ -127,6 +128,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **Keto recipes are now tagged 🥑 and findable as a group**, per Cody — and the rule is in the [project instructions](CLAUDE.md) §3c: **if a source prints net carbs, the recipe is keto.** That's the reliable signal, since no ordinary recipe bothers printing it. The tag goes on the badge line, in the Table of Contents, and in a new keto callout under the **[Difficulty & Time Index](#difficulty--time-index)**. Tagging is by content rather than section — **[§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded)** is keto but lives in §7 Mains, which is exactly why the tag is needed. Also noted: the same four substitutions repeat across all of them — cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading. |
+| 2026-08-09 | Added **[§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread)** — from the same keto cookbook as §11.4, §11.5, and §7.21. Almond flour and oat fiber replace wheat, erythritol replaces sugar; 2.7 g net carbs a slice. Oat fiber and granular erythritol are flagged as specific-store items, with a warning that **oat fiber is not oat flour or oat bran** — different products entirely. |
 | 2026-08-09 | **Every recipe now carries a Nutrition block — calories, fat, protein, carbs, and fiber, for the whole dish *and* per serving — plus a plain-language description of what a serving actually is.** Rule added to the [project instructions](CLAUDE.md) §3b. Three recipes use publisher figures and say so *(as printed on the source page)*; the other 32 are marked *(estimated)* and calculated from the ingredient lists. Estimates account for what's actually **eaten**, not bought — marinade left in the bag, frying oil left in the pot, oxtail pulled and discarded, brine poured off. **[§8.7 Kale Soup](#87-italian-sausage--kale-soup)** and **[§4.6 Sour Kraut](#46-no-heat-sour-kraut)** are flagged as *doubly* estimated, since those cards give no quantities at all. |
 | 2026-08-09 | Added **[§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut)** from a handwritten card, and filled the **[§11.5](#115-easy-caulimash-keto-mashed-potatoes)** placeholder with **Easy Caulimash** from the same keto book as §11.4 — cauliflower for potatoes again, so *Southern Keto Mashed Potatoes* became its real name. The kraut card is a family shorthand rather than a tested canning procedure — it gives no cure time, storage temperature, or whether jars are processed — so it carries a warning up top and four Open Questions rather than being presented as complete. |
 | 2026-08-09 | **Slow cook is now its own time category, per Cody — and the [project instructions](CLAUDE.md) were revised to make it a standing rule.** Times are cut three ways instead of two: **Prep · Cook · Slow cook**. The rule added to CLAUDE.md §3a: a multi-hour hands-off stretch never goes in the Cook field, because a brisket or a crock pot takes ten minutes to *make* and eight hours to *finish* — counting that as cook time makes the easiest recipes look like the most demanding. Slow cook covers smoking, low-oven roasts and turkey, crock pot, long braises and bean pots, stock and pho broth, sous vide, and dehydrating; roughly 2 hr+ hands-off, or any length for those methods. All 32 existing badges re-cut, the index gains a Slow cook column and re-sorts by prep + cook, and a note flags that **§6 Smoked Meats will all be Slow cook** when written up. |
@@ -194,7 +197,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
-| [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) | 🟢 | 5 min | 10 min | — | 15 min |
+| [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑 | 🟢 | 5 min | 10 min | — | 15 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
@@ -202,7 +205,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
-| [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
+| [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
@@ -216,7 +219,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
-| [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) | 🟡 | 25 min | 35 min | — | 1 hr |
+| [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
+| [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
@@ -232,6 +236,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
 **30 minutes of work or less — 13 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+
+**🥑 Keto / low-carb — 4 recipes.** All four come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
 **The four 🔴 Hard ones are really two problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — roux. [§1 Pho](#1-codys-pho) is hard for a different one: two days and many moving parts. Learn the roux once and three of the four stop being hard.
 
@@ -2924,7 +2930,7 @@ Transcribed from a printed keto cookbook page (p. 182). Southern fried chicken w
 
 **Yield:** 4 servings
 
-**🟡 Medium** · **Prep ~25 min** · **Cook ~35 min** · **Start to finish ~1 hr** *(includes a 10 min rest before serving)*
+**🥑 Keto** · **🟡 Medium** · **Prep ~25 min** · **Cook ~35 min** · **Start to finish ~1 hr** *(includes a 10 min rest before serving)*
 
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) — *the four keys to frying apply here directly*
 
@@ -3794,7 +3800,7 @@ Transcribed from a printed cookbook page, filed under the category the source it
 
 **Yield:** 6 to 8 servings
 
-**🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~2½ hr** *(plus 2 hr fridge chill — times per the source page)*
+**🥑 Keto** · **🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~2½ hr** *(plus 2 hr fridge chill — times per the source page)*
 
 #### A. Ingredients
 
@@ -3854,7 +3860,7 @@ Transcribed from a printed keto cookbook page (p. 210) — the same book as [§1
 
 **Yield:** 4 servings
 
-**🟢 Easy** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
+**🥑 Keto** · **🟢 Easy** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
 
 > **The one step not to skip: drain it properly.** Frozen cauliflower carries a lot of water, and the source is blunt about it — *"you don't want watery caulimash."* Drain the excess liquid before it goes in the processor or the texture never comes together.
 
@@ -3896,6 +3902,83 @@ Cauliflower into a food processor or high-powered blender, add the butter and cr
 **What a serving is:** about ½ cup — the same scoop you'd take of mashed potatoes.
 
 **Net carbs: 4.9 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 4 servings. Extra butter for garnish is not included.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 11.6 Keto Zucchini Bread
+
+Transcribed from a printed keto cookbook page (p. 82, *Breakfast & Breads*) — the same book as [§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad), [§11.5](#115-easy-caulimash-keto-mashed-potatoes), and [§7.21](#721-fried-chicken-low-carb-whey-breaded). A sweet quick bread built on **almond flour and oat fiber instead of wheat, and erythritol instead of sugar** — 2.7 g net carbs a slice.
+
+> **The author's framing:** zucchini is always plentiful in Southern backyard gardens and everyone's looking for ways to use it up — this is the sweet-treat answer.
+
+**Yield:** 8 servings (one 9×5 loaf)
+
+**🥑 Keto** · **🟢 Easy** · **Prep ~20 min** · **Cook ~45 min** · **Start to finish ~1 hr 15 min** *(plus cooling — it has to cool completely before it slices cleanly)*
+
+#### A. Ingredients
+
+**Dry**
+
+- 1½ cups finely ground blanched almond flour
+- ¼ cup oat fiber
+- ½ tsp baking powder
+- ½ tsp baking soda
+- 1 tsp ground cinnamon
+- ½ tsp ginger powder
+- ½ tsp ground nutmeg
+- ½ tsp salt
+
+**Wet**
+
+- 3 large eggs
+- ¼ cup (½ stick) salted butter, softened
+- ½ cup granular erythritol
+- 1 cup shredded zucchini
+
+#### B. Cooking Instructions
+
+**1. Heat the oven to 325°F and prepare the pan.**
+Line a **9 × 5-inch loaf pan** with parchment paper, or grease it with oil.
+
+**2. Stir the dry ingredients together.**
+Almond flour, oat fiber, baking powder, baking soda, cinnamon, ginger, nutmeg, and salt combined in a medium bowl.
+
+**3. Beat the wet ingredients, then blend the dry in and fold in the zucchini.**
+In a large bowl, beat the eggs, softened butter, and erythritol with a hand mixer **on low speed** until well blended. Keeping the mixer on low, slowly blend in the flour mixture. Then **switch to a spoon** and gently stir in the shredded zucchini until completely combined — the mixer would beat the water out of the zucchini and thin the batter.
+
+**4. Bake 45 minutes.**
+Pour the batter into the prepared pan and bake until the top is lightly browned and a toothpick or tester in the middle comes out clean.
+
+**5. Cool 10 minutes in the pan, then cool completely before slicing.**
+Let it sit 10 minutes, turn it out of the pan, and let it cool **all the way** — almond-flour breads are fragile while warm and will crumble under the knife. Leftovers keep in an airtight container in the refrigerator up to 5 days.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Blanched almond flour, finely ground — 1½ cups
+- 🛒 Zucchini — 1 medium, for 1 cup shredded
+- 🛒 Eggs — 3 large
+- 🛒 Salted butter — ¼ cup (½ stick)
+- 🛒 Baking powder, baking soda, ground cinnamon, ginger powder, ground nutmeg, salt
+
+**🏪 Specific store**
+
+- 🏪 Oat fiber — ¼ cup *(health-food aisle or online; **not** oat flour or oat bran — different products entirely)*
+- 🏪 Granular erythritol — ½ cup *(with the baking sweeteners)*
+
+#### Nutrition *(per serving, as printed on the source page)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,140 | 182 g | 69 g | 90 g | 68 g |
+| **Per serving** *(serves 8)* | 267 | 22.8 g | 8.6 g | 11.2 g | 8.5 g |
+
+**What a serving is:** one slice — an eighth of a 9×5 loaf, about a ¾-inch cut.
+
+**Net carbs: 2.7 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 8 servings. The fiber is unusually high because oat fiber is nearly all fiber — that's what keeps net carbs so low despite 11.2 g total carbs.
 
 [↑ Table of Contents](#table-of-contents)
 

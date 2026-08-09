@@ -102,7 +102,20 @@ Format:
 >
 > **What a serving is:** a generous 1½-cup bowl.
 
-Low-carb recipes may also carry **net carbs** when the source gives them, since that's the number that matters for the §11 keto entries.
+## 3c. Keto / Low-Carb Tagging
+
+**If a source prints net carbs, the recipe is keto — tag it.** That's the reliable signal: net carbs is a low-carb metric, and no ordinary recipe bothers to print it.
+
+Keto recipes carry:
+
+- **🥑 Keto** as the first item on the difficulty/time badge line
+- **🥑** after the ✅ in the Table of Contents
+- **Net carbs per serving**, stated in the Nutrition block
+- A row in the keto callout under the Difficulty & Time Index
+
+Tag by the recipe's own content, not by which section it sits in. Keto recipes turn up outside §11 — the fried chicken lives in §7 Mains — so the tag is what makes them findable as a group.
+
+**The recurring substitutions** across these are worth recognizing when a new one arrives: cauliflower for potatoes, almond flour and oat fiber for wheat flour, erythritol for sugar, whey protein powder for breading. When a new keto recipe uses one of these, cross-reference the others that already do.
 
 ## 4. Handling Recipe Revisions
 

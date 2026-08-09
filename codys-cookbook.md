@@ -26,6 +26,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T5. Seasonings & Peppers](#t5-seasonings--peppers) ✅
   - [T6. Seafood Notes](#t6-seafood-notes) ✅
   - [T7. Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) ✅
+  - [T8. Pan Sauce Formula](#t8-pan-sauce-formula) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 
 **Complete Recipes**
@@ -109,6 +110,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** — transcribed from a photographed cookbook page. A reusable technique, not a single dish, so it went in the Techniques section alongside §T1's roux rather than becoming its own numbered recipe: a master method (deglaze, reduce by half, whisk in an enrichment) plus a 20-sauce reference table of Liquid/Flavorings/Enrichment combinations to pair with whatever's coming out of the pan. |
 | 2026-08-09 | Added **[§4.5 Pickled Pink Onions](#45-pickled-pink-onions)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings, Sauces & Condiments* to cover it, since it's a fridge-staple condiment in the same standalone-component mold as the section's rubs and sauces. |
 | 2026-08-09 | Added **[§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce)** — transcribed from a photographed cookbook page, a separate olive-oil-based tomato sauce alongside (not replacing) **[§7.18 Spaghetti](#718-spaghetti)**'s meat sauce. Per Cody, only the canned-San-Marzano tomato option from the card was kept — the fresh-tomato alternative was dropped since that's not the route he's using. |
 | 2026-08-09 | Added **[§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce)** and **[§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings & Sauces* to cover them, since both are standalone components meant to be reused across dishes rather than one-off recipes. **[§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)** now cross-links to §4.3 for the pesto itself. |
@@ -692,6 +694,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T5](#t5-seasonings--peppers) | Seasonings & Peppers | `seasoning-mix` `peppers` `file` |
 | [T6](#t6-seafood-notes) | Seafood Notes | `seafood` `crawfish` `shrimp` `oysters` |
 | [T7](#t7-louisiana-language--ingredients) | Louisiana Language & Ingredients | `glossary` |
+| [T8](#t8-pan-sauce-formula) | Pan Sauce Formula | `pan-sauce` `deglaze` `drizzle` `quick-sauce` |
 
 ---
 
@@ -948,6 +951,102 @@ A glossary for the Cajun and Creole recipes in this cookbook.
 | **Pirogue** | A flat-bottomed dugout canoe from bayou country, just wide enough to kneel in. Also the name for hollowed-out vegetables — mirliton, zucchini, eggplant — filled with stuffing and sauce. *Worth remembering for [§5.5 Zucchini](#55-zucchini).* |
 | **Praline** | A Southern candy patty of brown sugar and nuts (usually pecans) or seeds, sometimes with butter and/or cream. |
 | **Tasso** | A very highly seasoned Cajun smoked ham. Called for in [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) and [§7.16 Red Beans & Rice](#716-red-beans--rice). |
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T8. Pan Sauce Formula
+
+<!-- TECHNIQUE-TAGS: pan-sauce, deglaze, drizzle, quick-sauce -->
+**Tags:** `pan-sauce` · `deglaze` · `drizzle` · `quick-sauce`
+**Used in:** any seared or sautéed chicken, pork, steak, fish, or shellfish — pick a combination from the Suggestions table to match what's in the pan
+
+Transcribed from a photographed cookbook page — "Instant Gratification: Pan Sauces and Drizzles." The simplest way to flavor a cut and clean the skillet at the same time: pull the seared or sautéed meat, pour in ¾ cup liquid, reduce it by half in a couple of minutes, whisk in a small enrichment, and serve. That's the whole trick, and it turns an ordinary weeknight sear into something that tastes like real effort went into it.
+
+#### A. The Formula
+
+**Liquids — ¾ cup total**
+
+- **Juices and sweet fortified wines** (Marsala, Madeira, vermouth, port) make a fine sauce reduced straight — ¾ cup on their own.
+- **Wine.** Straight red or white wine tastes weak, sour, and off-kilter as a pan sauce. Cut it with an equal amount of low-sodium chicken broth and whisk in a smidgen of Dijon mustard to balance it — 6 Tbsp each broth and wine.
+- **Acidic liquids** (lemon juice, vinegar) are too harsh straight. Use a 1:3 ratio of the acid to broth/wine/juice — for the full ¾ cup (12 Tbsp), that's 3 Tbsp lemon juice or vinegar to 9 Tbsp of the other liquid. **Exception:** balsamic vinegar is sweeter than other vinegars, so it goes in at equal parts with the broth instead (6 Tbsp each). The Asian-Style Sweet & Sour sauce below splits its acid further still — 6 Tbsp broth, 3 Tbsp soy sauce, 3 Tbsp vinegar — but the total liquid is still ¾ cup.
+
+**Flavorings — optional**
+
+Toss in one or more if there's time; it adds texture and flavor interest to an already good sauce.
+
+- A handful of chopped nuts
+- A handful of dried fruit
+- A scattering of olives, capers, or sun-dried tomatoes
+- A sprinkling of fresh herbs, dried herbs, or citrus zest
+
+**Enrichments**
+
+Once the sauce has reduced by half — eyeball it, don't measure — it's time to enrich it. A pan sauce without a little fat is brash and intense; the fat softens the flavor and thickens the sauce at the same time. It only takes a small amount to take a sauce from puckery to pleasant:
+
+- 1 Tbsp butter, **or**
+- 1 Tbsp olive oil, **or**
+- 2 Tbsp heavy cream
+
+#### B. Master Method
+
+*Makes enough for 4 seared or sautéed cuts*
+
+- ¾ cup Liquid (Part A)
+- Flavorings, optional (Part A)
+- Enrichment (Part A)
+
+**1. Mix the liquid and flavorings together first.**
+Combine the Liquid and Flavorings (if using) in a measuring cup before the meat even comes out of the pan, so it's ready to pour the second it's needed.
+
+**2. Deglaze the hot pan.**
+Once the seared or sautéed cut comes out of the skillet, pour the liquid in from the side of the pan — see the safety note in Part C before doing this.
+
+**3. Reduce by half.**
+Tilt the skillet so the liquid pools on one side, and boil until it's reduced by about half.
+
+**4. Whisk in the enrichment.**
+Whisk in the butter, oil, or cream until the sauce turns smooth and glossy.
+
+**5. Spoon over the meat and serve immediately.**
+Don't let it sit — spoon it over each portion right away while it's hot and glossy.
+
+#### C. Tips and Tricks
+
+- **Mind the splash.** Pour the liquid in from the side of the pan, not straight down the middle. If the pan is smoking hot, pull it off the burner before adding the liquid — same caution as [§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil).
+- **Make it ahead if needed.** The sauce can be made in advance and left to sit while a salad or first course gets served. To bring it back to serving temperature, reheat it, adding a splash of water if it's tightened up too much.
+
+#### D. Suggestions — 20 Named Combinations
+
+Each of these plugs straight into the Master Method above — the technique never changes, only what goes in the measuring cup. "Liquid" always totals ¾ cup (12 Tbsp) between the parts listed.
+
+| Sauce | Pairs with | Liquid | Flavorings | Enrichment |
+|---|---|---|---|---|
+| **Red Wine** | Chicken/turkey cutlets, boneless pork chops & tenderloin, steaks, burgers | 6 Tbsp each low-sodium chicken broth and full-bodied red wine | A generous tsp Dijon mustard | 1 Tbsp butter |
+| **Marsala, with Figs & Pistachios** | Poultry, pork | ¾ cup Marsala wine | ¼ cup coarsely chopped dried figs, 2 Tbsp coarsely chopped pistachios | 1 Tbsp butter |
+| **Sweet & Sour Vermouth, with Walnuts & Prunes** | Poultry, pork | 9 Tbsp sweet vermouth or cream sherry, 3 Tbsp cider vinegar | ¼ cup chopped prunes, 2 Tbsp chopped walnuts | 1 Tbsp butter |
+| **Port Wine, with Dried Cherries (or Cranberries)** | Poultry, pork | ¾ cup port wine | ¼ cup dried cherries or cranberries, 2 tsp cherry jam | 1 Tbsp butter |
+| **Balsamic Vinegar** | Any cut | 6 Tbsp each balsamic vinegar and low-sodium chicken broth | None necessary — dried fruit, nuts, or capers are nice | 1 Tbsp butter or extra-virgin olive oil |
+| **Balsamic, with Pine Nuts & Raisins** | Poultry, pork | 6 Tbsp each balsamic vinegar and low-sodium chicken broth | ¼ cup raisins, 2 Tbsp toasted pine nuts | 1 Tbsp butter or extra-virgin olive oil |
+| **Tomato-Tarragon (or Rosemary)** | Fish, shellfish, poultry, pork, steaks, burgers | 6 Tbsp each low-sodium chicken broth and dry vermouth or white wine | ¾ cup drained canned diced tomatoes (or equal fresh diced Italian plum tomatoes), ½ tsp dried tarragon or minced fresh rosemary | Extra-virgin olive oil or butter |
+| **Provençal Tomato, with Black Olives & Provençal Herbs** | Chicken/turkey cutlets, steaks, burgers, boneless pork chops & tenderloin, fish | 6 Tbsp each low-sodium chicken broth and white wine | ¾ cup drained canned diced tomatoes, 2 minced garlic cloves, ½ tsp herbes de Provence (dried thyme in a pinch), 2 Tbsp coarsely chopped Kalamata olives | 1 Tbsp extra-virgin olive oil |
+| **Apple Cider** | Chicken/turkey cutlets, boneless pork chops & tenderloin, duck breasts | 9 Tbsp apple cider or juice, 3 Tbsp balsamic or cider vinegar | None necessary | 1 Tbsp butter |
+| **Orange-Dijon, with Rosemary** | Fish, seafood, poultry, pork | ¾ cup orange juice | 1 tsp Dijon mustard, ½ tsp minced fresh rosemary *(add 1 Tbsp brown sugar for pork if you like)* | 1 Tbsp butter or extra-virgin olive oil |
+| **White Wine Vinegar** | Chicken/turkey cutlets, fish fillets & steaks, scallops | 9 Tbsp low-sodium chicken broth, 3 Tbsp white wine vinegar | 2 Tbsp Dijon mustard | 1 Tbsp butter |
+| **Orange, with Pernod** | Poultry, pork, fish, seafood | 6 Tbsp each low-sodium chicken broth and orange juice | 1 tsp finely grated orange zest, 1 Tbsp Pernod | 1 Tbsp butter |
+| **Orange-Balsamic** | Poultry, pork, fish, shellfish | 9 Tbsp orange juice, 3 Tbsp balsamic vinegar | None necessary | 1 Tbsp butter or extra-virgin olive oil |
+| **Lemon-Caper** | Chicken, pork, fish, shellfish | 9 Tbsp low-sodium chicken broth, 3 Tbsp lemon juice | 1 Tbsp drained capers | 1 Tbsp butter |
+| **Quick Velouté** | Poultry, fish, shellfish | 6 Tbsp each low-sodium chicken broth and dry vermouth | None necessary | 2 Tbsp heavy cream |
+| **Mustard Cream** | Any seared or sautéed cut | ¾ cup low-sodium chicken broth | 2 Tbsp Dijon or coarse-grained mustard | 2 Tbsp heavy cream |
+| **Horseradish** | Fish, steaks, burgers | 6 Tbsp each low-sodium chicken broth and dry vermouth or white wine | 2 Tbsp prepared horseradish | 1 Tbsp butter |
+| **Black Pepper Molasses** | Pork, steaks, burgers | 6 Tbsp each low-sodium chicken broth and full-bodied red wine | 2 Tbsp molasses, several grinds black pepper *(stir in a couple Tbsp minced cooked bacon if you've got it)* | 1 Tbsp butter |
+| **Curried Chutney** | Poultry, pork | 9 Tbsp low-sodium chicken broth, 3 Tbsp rice vinegar | 2 Tbsp prepared chutney, ¼ tsp curry powder | 1 Tbsp butter |
+| **Asian-Style Sweet & Sour** | Poultry, fish, pork | 6 Tbsp low-sodium chicken broth, 3 Tbsp distilled white rice vinegar, 3 Tbsp soy sauce or Vietnamese fish sauce | 2 Tbsp brown sugar, 2 minced garlic cloves | **None** — sprinkle with scallions instead, if there are any on hand |
+
+#### Chef's Notes
+
+This is a formula, not a fixed recipe — the master method (deglaze, reduce by half, enrich) never changes; only the three inputs do. Once two or three of these have been made, building a combination straight from the Liquids/Flavorings/Enrichments rules in Part A is the real payoff, the same way [§T1 How to Make a Roux](#t1-how-to-make-a-roux) is meant to be learned past the recipe.
 
 [↑ Table of Contents](#table-of-contents)
 

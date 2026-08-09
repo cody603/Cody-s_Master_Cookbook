@@ -12,8 +12,10 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 - [Changelog](#changelog)
 - [Store Icon Key](#store-icon-key)
-- [4. Rubs & Seasonings](#4-rubs--seasonings)
+- [4. Rubs, Seasonings & Sauces](#4-rubs-seasonings--sauces)
   - [4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ✅
+  - [4.2 Salsa Alfredo (Alfredo Sauce)](#42-salsa-alfredo-alfredo-sauce) ✅
+  - [4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](#43-pesto-basil-parmesan-and-pine-nut-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -105,6 +107,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce)** and **[§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings & Sauces* to cover them, since both are standalone components meant to be reused across dishes rather than one-off recipes. **[§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)** now cross-links to §4.3 for the pesto itself. |
 | 2026-08-08 | Added **[§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs)** — transcribed from Cody's spreadsheet, expanded from a marinade card into a full kabob recipe. The card only specified the chicken/onion/bell-pepper skewer and didn't give quantities for the pineapple, zucchini, squash, tomato, or kielbasa additions Cody listed — recommended quantities and cut sizes for those are flagged as Claude's estimate in the ingredients and in Open Questions, for Cody to confirm after cooking. Also added a marinate-time recommendation (the card didn't give one) since this is a low-acid, soy-based marinade. |
 | 2026-08-08 | Added six new recipes transcribed from Cody's photographed recipe cards: **[§7.13 Crawfish Elegante](#713-crawfish-elegante)**, **[§7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters)**, **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)**, **[§7.16 Red Beans & Rice](#716-red-beans--rice)**, **[§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans)**, and **[§7.18 Spaghetti](#718-spaghetti)**. Also filled in the long-standing **[§8.1 Chili](#81-chili)** placeholder. Crawfish Elegante is now off the §12 to-document list. Several recipes carry Open Questions where the original card was ambiguous (missing steps, an unidentified seasoning brand) — flagged inline for Cody to confirm. Groceries were **not** pushed to Reminders this round — the Reminders connector wasn't reachable in this session; push these manually or ask again once it's connected. |
 | 2026-08-08 | **Restructure: techniques get their own section.** §4.2–§4.7 moved out of §4 into a new top-level **[T. Cooking Techniques & Tips](#t-cooking-techniques--tips)** section (T1–T7), each entry tagged for conversation-mode lookup. Added **[T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)** from the pho and pork-belly write-ups. Recipes now carry a *Techniques used* line. §4 renamed back to *Rubs & Seasonings*. All cross-links updated. |
@@ -442,9 +445,9 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 
 ---
 
-## 4. Rubs & Seasonings
+## 4. Rubs, Seasonings & Sauces
 
-Standalone blends live here rather than inside any one recipe. Steak isn't a single dish — it's a category — so a rub that works across ribeye, strip, and tri-tip shouldn't be buried under one write-up. Recipes reference these by section number, and a change made here propagates to every dish that points at it. *Shared cooking technique now lives in its own section: [Cooking Techniques & Tips](#t-cooking-techniques--tips).*
+Standalone blends and sauces live here rather than inside any one recipe. Steak isn't a single dish — it's a category — so a rub that works across ribeye, strip, and tri-tip shouldn't be buried under one write-up, and the same goes for a sauce like pesto or Alfredo that can top pasta one night and a salad or a bowl of vegetable soup the next. Recipes reference these by section number, and a change made here propagates to every dish that points at it. *Shared cooking technique now lives in its own section: [Cooking Techniques & Tips](#t-cooking-techniques--tips).*
 
 ### 4.1 Darcy's Steak Rub
 
@@ -496,6 +499,93 @@ The paprika is there for a subtle smoky note, not for heat. The brown sugar help
 - 🛒 Coriander seed
 
 *All ten already pushed to the Groceries reminders list.*
+
+---
+
+### 4.2 Salsa Alfredo (Alfredo Sauce)
+
+Transcribed from a photographed cookbook page. A classic white sauce — just butter, cream, and Parmesan — built for fettuccine and a pile of crusty bread to mop up whatever's left on the plate.
+
+#### A. Ingredients
+
+- 6 Tbsp butter
+- 1 cup heavy cream
+- ½ cup freshly grated Parmesan, or to taste
+- Freshly grated nutmeg
+- Salt & pepper
+
+#### B. Cooking Instructions
+
+**1. Melt the butter over medium heat.**
+In a saucepan, melt the butter over medium heat.
+
+**2. Add the cream and bring it to a simmer.**
+Stir in the heavy cream and cook, stirring, until it just comes to a simmer.
+
+**3. Off the heat, whisk in the Parmesan a little at a time.**
+Remove the pan from the heat before adding the cheese. Add the Parmesan gradually, stirring until each addition is fully melted in before the next goes in — that's what keeps the sauce smooth instead of clumping or breaking.
+
+**4. Season and serve.**
+Finish with freshly grated nutmeg, salt, and pepper to taste. Serve immediately over fettuccine, with plenty of crusty bread on the side. Makes about 1½ cups.
+
+#### Chef's Notes
+
+The card's own point stands: with only butter, cream, and real Parmesan in it, this sauce is nearly impossible to get wrong — the quality of those three ingredients is what makes it, so don't skimp on the cheese.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 6 Tbsp
+- 🛒 Heavy cream — 1 cup
+- 🛒 Parmesan, freshly grated — ½ cup
+- 🛒 Nutmeg
+- 🛒 Salt & pepper
+- 🛒 Fettuccine and crusty bread, for serving
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)
+
+Transcribed from a photographed cookbook page. The classic Genoa sauce — the name itself comes from *pestare*, "to pound," from the traditional mortar-and-pestle method. A food processor gets there faster with the same result.
+
+**Techniques used:** none — this one predates §T; cross-referenced from [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)
+
+#### A. Ingredients
+
+- 2 cups fresh basil leaves
+- 2 garlic cloves, chopped
+- ½ cup freshly grated Parmesan, preferably Parmigiano-Reggiano
+- ⅔ cup extra-virgin olive oil
+- ¼ cup pine nuts
+- Salt & pepper
+
+#### B. Cooking Instructions
+
+**1. Combine everything in a food processor.**
+Add the basil leaves, chopped garlic, Parmesan, olive oil, and pine nuts to the bowl of a food processor. Use the most fragrant basil, the best olive oil, and the best Parmesan available — with a sauce this simple, the ingredient quality *is* the recipe.
+
+**2. Blend until thoroughly combined.**
+Process until smooth, or leave it slightly coarse if you like more texture. Season with salt and pepper to taste. Makes about 1½ cups.
+
+#### Chef's Notes
+
+Serve over pasta or a salad, use it as a dipping sauce, or stir a spoonful into vegetable soup to lift it. This is a reference sauce, not a one-dish recipe — [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) will point back here once it's written up.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh basil leaves — 2 cups
+- 🛒 Garlic — 2 cloves
+- 🛒 Parmesan, freshly grated (Parmigiano-Reggiano preferred) — ½ cup
+- 🛒 Extra-virgin olive oil — ⅔ cup
+- 🛒 Pine nuts — ¼ cup
+- 🛒 Salt & pepper
+
+[↑ Table of Contents](#table-of-contents)
 
 ---
 
@@ -876,7 +966,7 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
 ### 7.12 Pesto Chickpea Pasta
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+> *Placeholder — details forthcoming.* Pesto itself is documented at [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) — this entry just needs the chickpea pasta half of the dish. Ingredients · Instructions · Grocery list all to be documented.
 
 ---
 

@@ -123,6 +123,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **[§9.6 Beef Jerky](#96-beef-jerky) — corrected to ground beef, 95% lean.** The card just said "1 lb of meat," and it was written up guessing sliced whole-muscle beef; Cody confirmed it's ground. Ingredients, method (mixed in like a meatloaf rather than marinated as slices, then formed with a jerky gun or by hand), and grocery list all updated. Open Questions swapped accordingly — the old "cut and slice thickness" question is gone since that no longer applies; new ones cover forming method and whether the mix rests before shaping. |
 | 2026-08-09 | Added four recipes transcribed from a photo of loose recipe cards: **[§8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup)** (printed page, a puréed soup), **[§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)** (handwritten card, no quantities given), **[§9.6 Beef Jerky](#96-beef-jerky)** (handwritten seasoning note with a corrected dehydrator time — two earlier timings crossed out on the card itself), and **[§9.7 Chicken Salad](#97-chicken-salad)** (handwritten, a to-taste build-your-own). Several Open Questions flagged rather than guessed past: §8.6's Skillet Cornbread cross-reference isn't in this cookbook; §8.7 lists whipping cream as an ingredient but never says when it's added, and has no quantities or oven info at all; §9.6's final dehydrator timing has no temperature written next to it, only the two rejected attempts that came before it. |
 | 2026-08-09 | **[§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) — final step corrected from a clearer retaken photo.** The earlier transcription flagged Step 8 as uncertain, having misread the source as "remove from heat and boil over high heat" (self-contradictory, so it was written up as a cautious reconstruction). The retake confirms the actual text: "Remove from heat and stir well, stirring occasionally" — the shrimp, oysters, and crabmeat finish on residual heat with no return to a boil. Step 8 rewritten to match, and the Open Question marked resolved rather than deleted. |
 | 2026-08-09 | Added **[§9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip)** — transcribed from a printed 2012 family email (Rachel Cassel to Joetta Roberts). Filed as a snack/appetizer rather than a side, since it's a hot dip served with crackers or vegetables. Rachel's own substitutions (cooked shredded chicken, Buffalo Wing Sauce, light ranch, cheddar) are written in as the main ingredient list, with the original printed card's canned-chicken/blue-cheese version kept as the noted alternate rather than dropped. |
@@ -3028,7 +3029,7 @@ Transcribed from a handwritten seasoning note, checked off item by item — a dr
 
 #### A. Ingredients
 
-*Per 1 lb of meat — thinly sliced beef, trimmed of fat*
+*Per 1 lb of meat — ground beef, 95% lean*
 
 - 1 Tbsp chili powder
 - ¼ tsp allspice
@@ -3048,29 +3049,29 @@ Transcribed from a handwritten seasoning note, checked off item by item — a dr
 **1. Mix the seasoning blend.**
 Combine the chili powder, allspice, black pepper, cracked red pepper, garlic powder, onion powder, salt, Accent, sage, and cumin.
 
-**2. Add the liquid smoke and Worcestershire, and coat the meat.**
-Work the seasoning blend, liquid smoke, and a splash of Worcestershire into the sliced meat so every piece is coated. *The card doesn't specify a marinating time — see Open Questions.*
+**2. Add the liquid smoke and Worcestershire, and mix into the ground beef.**
+Work the seasoning blend, liquid smoke, and a splash of Worcestershire directly into the ground beef — mix it the way you would a meatloaf, until the seasoning is even all the way through, not just on the surface. Because this is ground rather than sliced meat, there's no separate marinating step: the flavor is already mixed in before it's formed. *Forming method (jerky gun/extruder vs. flattened by hand or rolled and cut) isn't specified on the card — see Open Questions.*
 
-**3. Dehydrate. 1.5 to 1.75 hours, swapping trays partway through.**
-Swapping the trays partway — top to bottom, or however your dehydrator runs unevenly — is what keeps one batch from drying faster than another. *No temperature is written down for this final timing; see Open Questions.*
+**3. Form into strips, then dehydrate. 1.5 to 1.75 hours, swapping trays partway through.**
+Shape the seasoned ground beef into thin, even strips on the dehydrator trays — a jerky gun makes this fast and consistent, but pressing it out by hand or rolling and cutting works too. Swap the trays partway through — top to bottom, or however your dehydrator runs unevenly — so one batch doesn't dry faster than another. *No temperature is written down for this final timing; see Open Questions.*
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Beef, thinly sliced, trimmed of fat — 1 lb per batch
+- 🛒 Ground beef, 95% lean — 1 lb per batch
 - 🛒 Chili powder, allspice, black pepper, cracked red pepper, garlic powder, onion powder, salt, sage, cumin
 - 🛒 Accent (Ac'cent) seasoning
 - 🛒 Liquid smoke
 - 🛒 Worcestershire sauce
 
-**Not a grocery item, but required:** a dehydrator (or an oven that runs low and even, with the trays swapped the same way).
+**Not a grocery item, but useful:** a jerky gun or extruder, for forming even strips out of the ground beef. A dehydrator (or an oven that runs low and even, with the trays swapped the same way) either way.
 
 #### D. Open Questions
 
 - **No temperature given for the final 1.5–1.75 hr timing.** The two earlier attempts (160° and 150°) are both crossed out as not-it, but no number is written next to the setting that worked — confirm the actual dehydrator temp before this gets used again.
-- **No marinating time specified** — confirm whether the seasoned meat rests before it goes in the dehydrator, and for how long.
-- **Cut of beef and slice thickness** aren't noted on the card — worth pinning down once confirmed, since both affect the timing above.
+- **Forming method isn't specified on the card** — jerky gun, hand-pressed, or rolled and cut. Worth pinning down since it affects how even the strips come out and possibly the dehydrate time.
+- **Whether the seasoned mixture rests before forming** — some ground jerky recipes sit mixed and covered in the fridge for a few hours before shaping, to let the cure and seasoning fully distribute. Not noted on the card; confirm if that's part of the actual process.
 
 [↑ Table of Contents](#table-of-contents)
 

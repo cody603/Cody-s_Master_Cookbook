@@ -6,7 +6,7 @@ A living recipe reference. Every recipe has three sections, always in this order
 
 ## Table of Contents
 
-Click any recipe to jump straight to it. ✅ = written up in full · ○ = placeholder, details still to come · 🥑 = keto / low-carb.
+Click any recipe to jump straight to it. ✅ = written up in full · ○ = placeholder, details still to come · 🥑 = keto / low-carb · 🦃 = Thanksgiving / holiday side.
 
 **Reference**
 
@@ -53,6 +53,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) ○
 - [5.9 Goat Cheese Salad](#59-goat-cheese-salad) ○
 - [5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ✅
+- [5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) ✅ 🦃
+- [5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) ✅ 🦃
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -128,6 +130,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added two Thanksgiving sides from a photocopied pair of handwritten family recipes: **[§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole)** (attributed on the card to *Mika in Alaska*) and **[§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing)** (marked *mom's recipe*). New 🦃 marker in the Table of Contents for holiday sides. **Two things added that the cards don't say:** §5.12 carries a food-safety note — stuffing cooked inside a bird has to reach **165°F at the center of the stuffing**, and it's the last thing to get there; and §5.11 flags that the bake instruction appears to read *covered*, which conflicts with a cornflake topping that normally bakes uncovered to crisp — left as an Open Question rather than silently corrected. §5.12's cornbread cross-links to **[§11.3](#113-keto-skillet-cornbread)** as one way to make the 4 cups it needs. |
 | 2026-08-09 | Filled the **[§11.3](#113-keto-skillet-cornbread)** placeholder with **Keto Skillet Cornbread** from the same keto book as §11.4–§11.6 and §7.21 — almond flour and golden flaxseed meal instead of cornmeal, 2.1 g net carbs, 🥑 tagged. **Worth knowing: there's no corn in it** — the cornbread flavor comes from an optional sweet corn extract, flagged in a callout since the recipe reads quite differently without it. Cross-linked to **[§8.6](#86-sweet-potato-and-andouille-soup)** (which wants cornbread alongside) and **[§7.17](#717-white-beans-slow-cooker-ham--white-beans)** (whose list calls for boxed cornbread mix). **§8.6's open question deliberately stays open** — its source meant a *different* Skillet Cornbread from a different book, so this is noted as a substitute rather than the answer. |
 | 2026-08-09 | **Keto recipes are now tagged 🥑 and findable as a group**, per Cody — and the rule is in the [project instructions](CLAUDE.md) §3c: **if a source prints net carbs, the recipe is keto.** That's the reliable signal, since no ordinary recipe bothers printing it. The tag goes on the badge line, in the Table of Contents, and in a new keto callout under the **[Difficulty & Time Index](#difficulty--time-index)**. Tagging is by content rather than section — **[§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded)** is keto but lives in §7 Mains, which is exactly why the tag is needed. Also noted: the same four substitutions repeat across all of them — cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading. |
 | 2026-08-09 | Added **[§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread)** — from the same keto cookbook as §11.4, §11.5, and §7.21. Almond flour and oat fiber replace wheat, erythritol replaces sugar; 2.7 g net carbs a slice. Oat fiber and granular erythritol are flagged as specific-store items, with a warning that **oat fiber is not oat flour or oat bran** — different products entirely. |
@@ -200,6 +203,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑 | 🟢 | 5 min | 10 min | — | 15 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
+| [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 | 🟢 | 15 min | — | *with the bird* | set by the bird |
+| [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
@@ -2179,6 +2184,145 @@ Stir the cooled pasta, cherry tomatoes, sliced avocado, and the reserved bacon i
 #### D. Open Questions
 
 - The avocado is sliced in per the card, which browns fast in a make-ahead salad chilled 30 minutes — worth noting whether Cody tosses it with a little extra lemon juice first, or adds it right before serving instead of before the chill.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.11 Sweet Potato Casserole
+
+🦃 **Thanksgiving side.** Transcribed from a handwritten family recipe, attributed on the card to **Mika in Alaska**. A big Thanksgiving-scale sweet potato casserole — canned yams mashed with butter, sugar, and evaporated milk, under a cornflake-brown-sugar-pecan topping.
+
+**Yield:** a large casserole dish — serves about 16 as a holiday side
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+
+> **This is a big one.** Three 29 oz. cans of yams is roughly 5½ pounds — sized for a holiday table, not a weeknight. Halve it for a smaller crowd.
+
+#### A. Ingredients
+
+**Potato base**
+
+- 3 (29 oz.) cans yams
+- ¾ stick oleo or butter, softened
+- 2 eggs
+- 1 cup sugar
+- 1 large can evaporated milk
+- Dash cinnamon *(the card says "dash plus" — a little more than a dash)*
+- Dash salt *(the card is specific: "dash only")*
+
+**Topping**
+
+- 1 cup corn flakes, crushed fine
+- ½ cup brown sugar, packed well
+- ¾ stick oleo or butter, softened
+- ½ cup chopped nuts
+
+#### B. Cooking Instructions
+
+**1. Mash the yams with the butter.**
+Drain the yams, add the softened butter, and mash the two together.
+
+**2. Mix the wet ingredients separately, then fold into the potatoes.**
+In a bowl, mix the eggs, sugar, evaporated milk, cinnamon, and salt together well — *the card is emphatic that these get combined in a bowl first rather than added straight to the potatoes*. Then add that mixture to the mashed yams and mix well.
+
+**3. Transfer to a large casserole dish.**
+
+**4. Mix the topping by hand and layer it over the potatoes.**
+Crushed corn flakes, packed brown sugar, softened butter, and chopped nuts mixed together **by hand** — you want it clumpy and crumbly, not creamed smooth. Spread it evenly over the top.
+
+**5. Bake 20–25 minutes at 400°F.**
+*See Open Questions — the card appears to say "covered," which is worth confirming given the topping.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Canned yams — 3 × 29 oz.
+- 🛒 Butter or oleo — 1½ sticks total *(¾ for the base, ¾ for the topping)*
+- 🛒 Eggs — 2
+- 🛒 Sugar — 1 cup
+- 🛒 Evaporated milk — 1 large can
+- 🛒 Cinnamon, salt
+- 🛒 Corn flakes — 1 cup, to crush
+- 🛒 Brown sugar — ½ cup
+- 🛒 Chopped nuts — ½ cup *(pecans are the Southern default; see [§T4](#t4-stocks--ingredient-conventions) on dry-roasting them first)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,700 | 214 g | 69 g | 895 g | 61 g |
+| **Per serving** *(serves 16)* | ~360 | 13 g | 4 g | 56 g | 4 g |
+
+**What a serving is:** about ½ cup — one spoonful on a holiday plate alongside everything else.
+
+*This is a dessert-sweet side: between the yams' packing syrup, 1 cup of sugar, and ½ cup of brown sugar, sugar accounts for most of the carbs. Draining the yams well pulls some of that back.*
+
+#### D. Open Questions
+
+- **Covered or uncovered?** The word after "Bake 20–25 min. at 400" reads as *covered*, but a cornflake-and-nut topping normally bakes **uncovered** so it crisps and browns — covered would steam it soft. Worth confirming how the family actually does it. *(If in doubt, uncovered at 400°F for 20–25 min is the conventional treatment.)*
+- **What kind of nuts?** The card just says "chopped nuts." Pecans are the standard for this dish in the South, but confirm.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.12 Southern Cornbread Stuffing
+
+🦃 **Thanksgiving side.** Transcribed from a handwritten family recipe, marked on the card as **"mom's recipe."** A plain, old-style Southern cornbread dressing — dry cornbread, celery, onion, and egg, blended and used to stuff the bird.
+
+**Yield:** about 8 servings
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none on its own** · **Slow cook with the bird** *(roasts inside or alongside the turkey)* · **Start to finish** *set by the bird, not by this*
+
+> ⚠️ **Food-safety note the card doesn't mention.** Stuffing cooked inside a bird has to reach **165°F** at the center of the stuffing — not just the meat — before it's safe, and it's the last thing in the bird to get there. Check it with a thermometer, or bake the dressing in a separate pan (which the card already allows for the overflow) and skip the question entirely.
+
+#### A. Ingredients
+
+- 4 cups dry cornbread
+- 1 cup chopped celery, crisp
+- ½ chopped onion *(see Open Questions — likely ½ cup)*
+- 2 tsp salt
+- ½ tsp pepper
+- 3 eggs, beaten lightly
+
+#### B. Cooking Instructions
+
+**1. Blend everything lightly with a fork.**
+All the ingredients together, mixed **lightly, with a fork** — the card is specific about the tool and the touch. Overworking dressing turns it pasty; you want it loose and crumbly.
+
+**2. Stuff the bird with what you need.**
+
+**3. Bake any extra in the roasting pan, basting frequently.**
+Whatever dressing doesn't fit as filling goes into the roasting pan alongside the bird, basted often as the bird cooks. That basting is what keeps it from drying out — it's picking up the drippings.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cornbread — enough for 4 cups dried and crumbled *(made ahead and left to dry out — boxed mix works, or **[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** for a low-carb version)*
+- 🛒 Celery — 1 cup chopped
+- 🛒 Onion
+- 🛒 Eggs — 3
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,660 | 60 g | 46 g | 220 g | 15 g |
+| **Per serving** *(serves 8)* | ~210 | 7.5 g | 6 g | 27 g | 2 g |
+
+**What a serving is:** about ½ cup — one spoonful of dressing on a holiday plate.
+
+*Estimated from a standard cornbread; the actual numbers move a lot with whose cornbread you start from. **Does not include** drippings absorbed from the bird, which will add meaningfully to the fat if it's roasted in the pan or as filling.*
+
+#### D. Open Questions
+
+- **"½ chopped onion" — half a cup, or half an onion?** The line directly above it reads "1 cup chopped celery," which suggests **½ cup** was meant. Half a medium onion lands close to that anyway, so either reading works in practice — but worth confirming.
+- **No baking time or temperature is given** for the dressing on its own, because the card assumes it goes in the bird. If you're making it as a standalone pan of dressing, that's a detail to add once you've settled on one.
+- **The cornbread has to be dry**, which means making it a day ahead — the card takes that as understood rather than saying so.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -51,6 +51,30 @@ Split by store, using these prefixes:
 - **GEN** — general grocery store (anywhere works)
 - For a specific store, GEN plus the store name in parentheses: `GEN Fig jam (Trader Joe's)`, `GEN Harissa paste (Whole Foods)`
 
+## 3a. Difficulty & Time Badge
+
+Every written-up recipe carries a one-line badge above its Ingredients, and a matching row in the **Difficulty & Time Index** near the top of the cookbook. Placeholders don't get one — there's no method to time yet.
+
+**Difficulty is technique risk, not effort.** 🟢 Easy · 🟡 Medium · 🔴 Hard. Hard is reserved for things that can genuinely fail on you — roux above all. An 8-hour crock pot is Easy, because none of those hours can go wrong. A 15-minute roux is Hard.
+
+**Time is split three ways, and the third one matters most:**
+
+- **Prep** — hands-on work before and between cooking. Chopping, mixing, dredging, skewering, breaking down a chicken.
+- **Cook** — actual cooking you're engaged with, plus short unattended stretches (a 20-minute bake, a 40-minute simmer). Annotate the unattended portion when it's a big share of the number.
+- **Slow cook** — its own separate category. **Long, mostly hands-off cooking where the waiting *is* the method**: smoking meats, a roast or turkey in the oven, a crock pot, a long braise or bean pot, stock and pho broth, sous vide, dehydrating.
+
+**Why slow cook is separate:** a 4-to-8-hour smoke or crock pot does *not* take long to make — it takes ten minutes to make and then it cooks itself. Rolling that into "cook time" makes the easiest recipes in the book look like the most demanding ones, which is backwards. Never put a multi-hour hands-off stretch in the Cook field.
+
+**Rule of thumb:** roughly 2 hours or more of hands-off cooking is Slow cook. So are smoker, crock pot, sous vide, and dehydrator work at *any* length, since those are slow-cook methods by nature. Everything shorter stays in Cook.
+
+Lead time that isn't cooking — marinating, chilling, an overnight bean soak — is noted too, since it changes when you start rather than how hard you work.
+
+Format:
+
+> **🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Slow cook 4 hr** *(crock pot)* · **Start to finish ~4 hr 25 min**
+
+Omit any field that doesn't apply. **Sort the index by prep + cook** — the time that actually costs you — not by start-to-finish.
+
 ## 4. Handling Recipe Revisions
 
 Cody will frequently come back after cooking and ask for a tweak — e.g., "Add another teaspoon of hot sauce to Crawfish Elegante."

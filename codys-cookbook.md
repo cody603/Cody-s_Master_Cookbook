@@ -69,6 +69,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.16 Red Beans & Rice](#716-red-beans--rice) ✅
 - [7.17 White Beans (Slow Cooker Ham & White Beans)](#717-white-beans-slow-cooker-ham--white-beans) ✅
 - [7.18 Spaghetti](#718-spaghetti) ✅
+- [7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -104,6 +105,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-08 | Added **[§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs)** — transcribed from Cody's spreadsheet, expanded from a marinade card into a full kabob recipe. The card only specified the chicken/onion/bell-pepper skewer and didn't give quantities for the pineapple, zucchini, squash, tomato, or kielbasa additions Cody listed — recommended quantities and cut sizes for those are flagged as Claude's estimate in the ingredients and in Open Questions, for Cody to confirm after cooking. Also added a marinate-time recommendation (the card didn't give one) since this is a low-acid, soy-based marinade. |
 | 2026-08-08 | Added six new recipes transcribed from Cody's photographed recipe cards: **[§7.13 Crawfish Elegante](#713-crawfish-elegante)**, **[§7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters)**, **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)**, **[§7.16 Red Beans & Rice](#716-red-beans--rice)**, **[§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans)**, and **[§7.18 Spaghetti](#718-spaghetti)**. Also filled in the long-standing **[§8.1 Chili](#81-chili)** placeholder. Crawfish Elegante is now off the §12 to-document list. Several recipes carry Open Questions where the original card was ambiguous (missing steps, an unidentified seasoning brand) — flagged inline for Cody to confirm. Groceries were **not** pushed to Reminders this round — the Reminders connector wasn't reachable in this session; push these manually or ask again once it's connected. |
 | 2026-08-08 | **Restructure: techniques get their own section.** §4.2–§4.7 moved out of §4 into a new top-level **[T. Cooking Techniques & Tips](#t-cooking-techniques--tips)** section (T1–T7), each entry tagged for conversation-mode lookup. Added **[T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)** from the pho and pork-belly write-ups. Recipes now carry a *Techniques used* line. §4 renamed back to *Rubs & Seasonings*. All cross-links updated. |
 | 2026-08-08 | Added **[§T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)**, **[§T5 Seasonings & Peppers](#t5-seasonings--peppers)**, **[§T6 Seafood Notes](#t6-seafood-notes)**, and **[§T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)** from Cody's photographed technique and glossary pages. §T1 picked up a note on what a roux actually is. §8.3 now cross-links to §T3 for the frying steps. |
@@ -1263,6 +1265,87 @@ Boil the noodles or ravioli per the package, top with the sauce, and serve with 
 - 🛒 Salt & pepper
 - 🛒 Garlic
 - 🛒 Bread — 1 box/loaf
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.19 Honey Chicken Marinade & Kabobs
+
+Transcribed from Cody's spreadsheet — a simple honey-soy marinade for grilled chicken, built out into a full kabob spread with the fruit, vegetables, and kielbasa he listed alongside it. Rated **"Yummie"** on the sheet itself.
+
+> **Quantities for the pineapple, zucchini, squash, tomatoes, and kielbasa weren't on the original sheet** — only the item names were listed, with amounts given for the marinade, chicken, garlic, onion, and bell pepper. The amounts and cut sizes below for those five items are Claude's recommendation, sized to pair with 8 chicken breasts' worth of skewers. Taste and adjust, and flag any changes so this can be tightened up. Note the sheet's ingredient list (column A–C) also includes a second, unquantified "onions" line beyond the 5 small onions already called for — treated here as the same onions rather than a separate addition, since no second amount was given.
+
+#### A. Ingredients
+
+**Marinade**
+
+- ¼ cup olive oil
+- ⅓ cup honey
+- ⅓ cup soy sauce
+- ¼ tsp ground black pepper
+- 2 cloves garlic, minced
+
+**Skewers**
+
+- 8 skinless, boneless chicken breast halves, cut into 1-inch cubes
+- 5 small onions, cut into 2-inch pieces
+- 2 red bell peppers, cut into 2-inch pieces
+- 1 whole pineapple, cored and cut into 1-inch chunks *(recommended amount — not on the sheet)*
+- 2 medium zucchini, cut into ¾-inch rounds *(recommended amount — not on the sheet)*
+- 2 medium yellow squash, cut into ¾-inch rounds *(recommended amount — not on the sheet)*
+- 2 large tomatoes, cut into large wedges *(recommended amount — not on the sheet; Cody specified bigger tomatoes, not cherry)*
+- 1–1½ lb kielbasa (kalbasa), sliced into 1-inch rounds *(recommended amount — not on the sheet)*
+- Cavender's seasoning, to taste — liberally
+- Skewers
+
+#### B. Cooking Instructions
+
+**1. Make the marinade.**
+Whisk the olive oil, honey, soy sauce, black pepper, and minced garlic together in a bowl until combined.
+
+**2. Marinate the chicken. 4–6 hours is the sweet spot; don't go past 24.**
+Cube the chicken and toss it with the marinade in a bag or dish, then refrigerate. Because this marinade has no acid — no citrus, no vinegar — it won't turn the chicken mushy the way a lemon or lime marinade would over time, so there's real flexibility here: 30 minutes will still pick up flavor if you're short on time, and overnight is fine if that's more convenient. Where it does have a ceiling is the soy sauce — soy is salty enough that past about 24 hours it starts curing the surface of the meat rather than just flavoring it, giving you a drier, hammier texture instead of a marinated one. Land somewhere in the 4–6 hour range for the best flavor penetration without any downside.
+
+**3. Cut the vegetables and fruit to matching sizes — except the tomato.**
+Onion, bell pepper, pineapple, zucchini, and squash all want to be roughly the same size, about 1 to 1½ inches, so they finish cooking at the same time on the skewer. The tomato is the exception: because Cody's using bigger tomatoes rather than cherry tomatoes, cut them into large wedges rather than matching the other pieces. A big tomato wedge cooks fast and goes to mush quickly, so it needs to be treated differently on the grill — see Step 5.
+
+**4. Slice the kielbasa.**
+Kielbasa is already fully cooked, so it's not marinating with the chicken — it just needs rounds thin enough (about 1 inch) to heat through and pick up char.
+
+**5. Thread the skewers, and keep the tomato separate.**
+Alternate chicken, onion, bell pepper, pineapple, zucchini, squash, and kielbasa across the main skewers. Put the tomato wedges on their own skewer, or plan to add them to the grill in the last few minutes only — they'll fall apart if they ride the full cook time with everything else.
+
+**6. Season liberally with Cavender's before the skewers hit the grill.**
+
+**7. Grill it. About 10–12 minutes total over direct medium-high heat.**
+Turn every few minutes for even char on all sides. Chicken is done at 165°F internal. Add the tomato skewer in for just the last 2–3 minutes so it warms and chars without collapsing.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Olive oil — ¼ cup
+- 🛒 Honey — ⅓ cup
+- 🛒 Soy sauce — ⅓ cup
+- 🛒 Ground black pepper
+- 🛒 Garlic — 2 cloves
+- 🛒 Skinless, boneless chicken breast — 8 halves
+- 🛒 Small onions — 5
+- 🛒 Red bell peppers — 2
+- 🛒 Pineapple — 1 whole
+- 🛒 Zucchini — 2 medium
+- 🛒 Yellow squash — 2 medium
+- 🛒 Tomatoes (large, not cherry) — 2
+- 🛒 Kielbasa (kalbasa) — 1–1½ lb
+- 🛒 Cavender's seasoning
+- 🛒 Skewers
+
+#### D. Open Questions
+
+- Confirm the recommended amounts and cut sizes for pineapple, zucchini, squash, tomato, and kielbasa once cooked — these weren't quantified on the original sheet.
+- Confirm the "onions" line lower on the sheet isn't meant to be a second, separate quantity beyond the 5 small onions already called for.
+- Confirm the 4–6 hour marinate window works, or whether it wants to go closer to overnight.
 
 [↑ Table of Contents](#table-of-contents)
 

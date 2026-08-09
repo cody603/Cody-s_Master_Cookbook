@@ -80,6 +80,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.17 White Beans (Slow Cooker Ham & White Beans)](#717-white-beans-slow-cooker-ham--white-beans) ✅
 - [7.18 Spaghetti](#718-spaghetti) ✅
 - [7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) ✅
+- [7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -116,6 +117,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** — transcribed from a printed cookbook page, a second and more seafood-forward jambalaya alongside **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)** (cross-linked both ways, and from the **[§T7 glossary's Jambalaya entry](#t7-louisiana-language--ingredients)**). Three transcription ambiguities flagged in Open Questions rather than silently resolved: the source's "Basic Seafood Stock (page 32)" and "Creole Sauce (page 248)" aren't in this cookbook, and the instructions wrap across a page break in a way that left the exact wording around adding the chicken, and around a possible duplicate rice addition, uncertain — both reconstructed to the most sensible reading and flagged for confirmation against the original page. |
 | 2026-08-09 | Added **[§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)** — transcribed from a printed lifesambrosia.com recipe. Filed alongside §5.9 Goat Cheese Salad as the cookbook's second salad. Noted inline that the card's 5-minute pasta cook time runs short for rotini — go by the package. Open Question flagged on when the avocado goes in, since it's sliced into a salad that then chills 30 minutes, and sliced avocado browns fast. |
 | 2026-08-09 | Added **[§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth)** — a rotisserie-chicken carcass plus a quart of store-bought broth, simmered 30 minutes into 2 quarts. Wired to **[§T9's rotisserie-chicken tip](#f-tips-and-tricks)** both ways, since the same bird that gives you the shredded meat also gives you the bones for this broth. **Distinguished from [§T4](#t4-stocks--ingredient-conventions)** rather than left to overlap with it — §T4 is the from-scratch, hours-long stock; §T12 is the fast doctor-up built to match how quick the rest of Cody's soup formulas are meant to be. |
 | 2026-08-09 | Added **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — the master technique plus the three cuts it's written for (chicken breasts, boneless pork loin chops, white-fleshed fish fillets) with each one's timing and prep. **Conflict flagged and reconciled:** this technique starts butter and oil in a *medium-low* pan, which directly contradicts **[§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)**. Both are right for their case, so §T2 now lists butter-sautéing alongside deep frying as a named exception and carries an *Exceptions* line up top; §T11 explains why (the butter is the thermometer). Also wired: §T11 ↔ **[§T8 Pan Sauce](#t8-pan-sauce-formula)** as two halves of one skillet, and the **[§7.3 Flounder](#73-flounder)** and **[§7.4 Pork Chops](#74-pork-chops)** stubs now point at §T11 for method. *The source's All-Purpose Salsa and uncooked relishes (its pages 210–211) weren't photographed — noted inline as a gap.* |
@@ -1057,7 +1059,7 @@ A glossary for the Cajun and Creole recipes in this cookbook.
 | **Étouffée** | Literally "smothered" — in Louisiana cooking, covered with a liquid. In practice it means a dish with a cooked roux in the sauce. *(In French Louisiana the accent stays off the first "e" — with it, you're smothering a person.)* |
 | **Gumbo** | A Cajun soup nearly always built on a cooked roux ([§T1](#t1-how-to-make-a-roux)), sometimes thickened further with okra or filé. Carries a mix of vegetables and meats or seafood, and is served over rice. Often topped with filé at the table. |
 | **Ham, Cure 81** | The most consistent, best-tasting ham with national distribution. |
-| **Jambalaya** (djum-buh-*LIE*-ya) | A heavily seasoned, strongly flavored rice dish taking any combination of beef, pork, fowl, smoked sausage, ham or tasso, or seafood — often with tomatoes. The name is a collision of French *jambon* (ham), African *ya* (rice), and the Acadian habit of putting "à la" on everything. See [§7.15 Pauls Jambalaya](#715-pauls-jambalaya). |
+| **Jambalaya** (djum-buh-*LIE*-ya) | A heavily seasoned, strongly flavored rice dish taking any combination of beef, pork, fowl, smoked sausage, ham or tasso, or seafood — often with tomatoes. The name is a collision of French *jambon* (ham), African *ya* (rice), and the Acadian habit of putting "à la" on everything. See [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) and [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya). |
 | **Lagniappe** | A little something extra, given as a gift or a show of appreciation. |
 | **Mirliton** | A green pear-shaped vegetable off a West Indian vine in the cucumber family. Sold as **chayote** in Latin groceries, sometimes as vegetable pear or christophine. The seed is edible and good in a salad. |
 | **Pirogue** | A flat-bottomed dugout canoe from bayou country, just wide enough to kneel in. Also the name for hollowed-out vegetables — mirliton, zucchini, eggplant — filled with stuffing and sauce. *Worth remembering for [§5.5 Zucchini](#55-zucchini).* |
@@ -2039,7 +2041,7 @@ Sprinkle chopped parsley over the top and serve.
 
 ### 7.15 Pauls Jambalaya
 
-Transcribed from Cody's photographed recipe card — a baked jambalaya built on tasso and chicken, using the premixed-seasoning approach.
+Transcribed from Cody's photographed recipe card — a baked jambalaya built on tasso and chicken, using the premixed-seasoning approach. *A second, seafood-forward jambalaya lives at [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya).*
 
 **Techniques used:** [T5 Seasonings & Peppers](#t5-seasonings--peppers) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
 
@@ -2373,6 +2375,109 @@ Turn every few minutes for even char on all sides. Chicken is done at 165°F int
 - Confirm the recommended amounts and cut sizes for pineapple, zucchini, squash, tomato, and kielbasa once cooked — these weren't quantified on the original sheet.
 - Confirm the "onions" line lower on the sheet isn't meant to be a second, separate quantity beyond the 5 small onions already called for.
 - Confirm the 4–6 hour marinate window works, or whether it wants to go closer to overnight.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.20 Chicken and Seafood Jambalaya
+
+Transcribed from a printed cookbook page — a baked jambalaya running chicken, tasso, and andouille alongside shrimp and oysters, finished in the oven rather than on the stovetop. A second, more involved jambalaya alongside [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) — that one's a family card; this one's from a proper Cajun cookbook and leans harder into the seafood side.
+
+> **Serve as is, or topped with Creole Sauce** — the source page references a Creole Sauce recipe elsewhere in its book that isn't part of this cookbook. Treat it as optional; the jambalaya stands on its own.
+
+**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
+
+#### A. Ingredients
+
+**Seasoning mix**
+
+- 2 whole bay leaves
+- 1½ tsp salt
+- 1½ tsp ground red pepper, preferably cayenne
+- 1½ tsp dried oregano leaves
+- 1½ tsp white pepper
+- 1 tsp black pepper
+- ¾ tsp dried thyme leaves
+
+**Everything else**
+
+- 2½ Tbsp chicken fat, pork lard, or beef fat
+- ⅔ cup chopped tasso (preferred) or other smoked ham, preferably [Cure 81](#t7-louisiana-language--ingredients) — about 3 oz.
+- ½ cup chopped andouille smoked sausage (preferred), or any other good pure smoked pork sausage such as kielbasa — about 3 oz.
+- 1½ cups chopped onions
+- 1 cup chopped celery
+- ¾ cup chopped green bell peppers
+- ½ cup chicken, cut into bite-size pieces — about 3 oz.
+- 1½ tsp minced garlic
+- 4 medium tomatoes, peeled and chopped — about 1 lb.
+- ¾ cup canned tomato sauce
+- 2 cups seafood stock — *see Open Questions*
+- ½ cup chopped green onions
+- 2 cups uncooked rice, preferably converted (parboiled) — *holds its texture through the bake better than regular long-grain*
+- 1½ dozen peeled medium shrimp — about ½ lb.
+- 1½ dozen oysters in their liquor, medium-size — about 10 oz.
+
+#### B. Cooking Instructions
+
+**1. Combine the seasoning mix and set it aside.**
+All seven seasoning-mix ingredients into a small bowl. Per [T5](#t5-seasonings--peppers), premixing means one bowl to grab mid-cook instead of seven jars.
+
+**2. Melt the fat, then render the tasso and andouille. 5–8 minutes.**
+In a 4-quart saucepan over medium heat, melt the chicken fat, lard, or beef fat. Add the tasso and andouille and sauté until crisp, stirring frequently.
+
+**3. Sauté the trinity. About 5 minutes.**
+Add the onions, celery, and bell peppers. Sauté until tender but still firm, stirring occasionally and scraping the pan bottom well.
+
+**4. Raise the heat and cook 1 minute, stirring constantly.**
+
+**5. Add the seasoning mix and garlic. About 3 minutes.**
+Stir in the seasoning mix and the minced garlic. Cook, stirring constantly and scraping the pan bottom as needed.
+
+**6. Add the chicken and tomatoes. Cook until the chicken is tender, 5–8 minutes.**
+Stirring frequently. *(See Open Questions — the source page's wording around exactly where the chicken goes in is slightly garbled by a page break; this is the most sensible reading of it.)*
+
+**7. Add the seafood stock and tomato sauce. Cook 7 minutes, stirring fairly often.**
+
+**8. Stir in the green onions. About 2 minutes.**
+
+**9. Stir in the rice, shrimp, and oysters. Mix well and pull off the heat.**
+Everything goes in raw — the rice hasn't been cooked yet, and the shrimp and oysters finish in the oven along with it.
+
+**10. Transfer to an 8×8 baking pan, cover tightly, and bake at 350°F. 20–30 minutes.**
+Ungreased pan, sealed snugly with aluminum foil. You want the rice tender but still a bit crunchy when it comes out — not fully soft. Remove the bay leaves before serving.
+
+**11. Mold and serve immediately.**
+Pack the rice into an 8 oz. cup and unmold it onto the plate: 2 cups per person for a main course, 1 cup for an appetizer portion.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bay leaves
+- 🛒 Salt, ground red pepper (cayenne), dried oregano, white pepper, black pepper, dried thyme
+- 🛒 Chicken fat, pork lard, or beef fat
+- 🛒 Tasso or smoked ham (Cure 81)
+- 🛒 Andouille sausage or kielbasa
+- 🛒 Onions, celery, green bell peppers
+- 🛒 Chicken — about 3 oz., bite-size pieces
+- 🛒 Garlic
+- 🛒 Tomatoes — 4 medium
+- 🛒 Canned tomato sauce
+- 🛒 Green onions
+- 🛒 Converted (parboiled) rice — 2 cups
+
+**🏪 Specific store — fish market**
+
+- 🏪 Peeled medium shrimp — about ½ lb.
+- 🏪 Oysters in their liquor, medium-size — about 10 oz. *(per [§T6](#t6-seafood-notes), buy from a market you trust and keep the liquor if you're not using all of it here)*
+
+#### D. Open Questions
+
+- **Seafood stock:** the source calls for a specific "Basic Seafood Stock" recipe from elsewhere in its book, not photographed here. Until that page is added, [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions) covers general seafood stock as a reasonable substitute, or a store-bought seafood/fish stock works in a pinch.
+- **Where the chicken goes in:** the source text wraps across a page break right at "Add the season-[ing mix]...", and the sentence that follows references "until chicken is tender" without an explicit "add the chicken" a moment earlier. Step 6 above reconstructs the likely intent — confirm against the actual page if there's any doubt.
+- **The rice/shrimp/oyster step reads as a near-duplicate in the source** ("stir in the rice... add the rice, shrimp and oysters"). Consolidated into one addition in Step 9 — worth double-checking there isn't a genuine two-stage rice addition being missed.
+- **Creole Sauce (page 248 of the source)** isn't in this cookbook. Add it if it ever gets photographed — the jambalaya is written to work with or without it.
 
 [↑ Table of Contents](#table-of-contents)
 

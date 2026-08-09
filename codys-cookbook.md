@@ -30,6 +30,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T9. Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) ✅
   - [T10. Loaded Frittata Formula](#t10-loaded-frittata-formula) ✅
   - [T11. How to Sauté (Master Technique for Sautéed Cuts)](#t11-how-to-sauté-master-technique-for-sautéed-cuts) ✅
+  - [T12. Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 
 **Complete Recipes**
@@ -114,6 +115,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth)** — a rotisserie-chicken carcass plus a quart of store-bought broth, simmered 30 minutes into 2 quarts. Wired to **[§T9's rotisserie-chicken tip](#f-tips-and-tricks)** both ways, since the same bird that gives you the shredded meat also gives you the bones for this broth. **Distinguished from [§T4](#t4-stocks--ingredient-conventions)** rather than left to overlap with it — §T4 is the from-scratch, hours-long stock; §T12 is the fast doctor-up built to match how quick the rest of Cody's soup formulas are meant to be. |
 | 2026-08-09 | Added **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — the master technique plus the three cuts it's written for (chicken breasts, boneless pork loin chops, white-fleshed fish fillets) with each one's timing and prep. **Conflict flagged and reconciled:** this technique starts butter and oil in a *medium-low* pan, which directly contradicts **[§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)**. Both are right for their case, so §T2 now lists butter-sautéing alongside deep frying as a named exception and carries an *Exceptions* line up top; §T11 explains why (the butter is the thermometer). Also wired: §T11 ↔ **[§T8 Pan Sauce](#t8-pan-sauce-formula)** as two halves of one skillet, and the **[§7.3 Flounder](#73-flounder)** and **[§7.4 Pork Chops](#74-pork-chops)** stubs now point at §T11 for method. *The source's All-Purpose Salsa and uncooked relishes (its pages 210–211) weren't photographed — noted inline as a gap.* |
 | 2026-08-09 | Added **[§T10 Loaded Frittata Formula](#t10-loaded-frittata-formula)** — the third slot formula, after §T8 pan sauces and §T9 soups, with all 8 named frittatas as a table and an *At a glance* summary. Filed in the Techniques section for the same reason as the other two: it's a template, not a dish. **[§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)** now cross-links to it. **Two things flagged inline:** the source's own vegetable/protein/cheese/herb category lists (its pages 75–77) weren't in the photographed pages, so Part B is reconstructed from the named suggestions and points at [§T9 Part C](#c-vegetables-1-pound) for prep cuts until those pages turn up; and the earlier note reserving §T10 for the creamy soup formula is corrected — T-numbers go in arrival order, so the creamy formula takes the next free one. |
 | 2026-08-09 | **[§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) — tomatoes removed, per Cody.** The open question from the previous entry is settled: no canned tomatoes in this soup. Propagated to the ingredients, Step 2, the grocery list, and the **[§T9 Part G](#g-suggestions--9-named-soups)** table row, which now reads *omit the tomatoes*. **Flagging the conflict:** this is a deliberate deviation from the source page, which listed no omit-tomatoes note for this soup (it does for two others) — Cody's version wins, and the source's default is noted inline so the difference is visible rather than silently overwritten. |
@@ -708,6 +710,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T9](#t9-hearty-main-course-soup-formula) | Hearty Main Course Soup Formula | `soup` `formula` `weeknight` `one-pot` `stew` |
 | [T10](#t10-loaded-frittata-formula) | Loaded Frittata Formula | `frittata` `eggs` `breakfast` `one-pan` `broiler` |
 | [T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | How to Sauté (Master Technique for Sautéed Cuts) | `saute` `dredge` `searing` `chicken-breast` `pork-chop` `fish-fillet` |
+| [T12](#t12-fast-homemade-chicken-broth) | Fast Homemade Chicken Broth | `broth` `stock` `rotisserie-chicken` `soup-base` `quick` |
 
 ---
 
@@ -1365,7 +1368,7 @@ Herbs and spices are what give a soup its character. The list below isn't exhaus
 - **To use meat as seasoning rather than substance:** bump the vegetables from 1 lb to 1½ lb and drop the meat from 1 lb to ½ lb.
 - **Vegetable weights don't have to be precise.** Buy a little over a pound so that once you've trimmed everything you land close to a pound.
 - **Deepen a shrimp soup** — time permitting — by simmering the shells in part of the broth for a few minutes. Strain them out before the broth goes into the pot. *(See [§T6](#t6-seafood-notes) on buying shrimp shell-on in the first place.)*
-- **For faster chicken soup**, use 2 to 3 cups of shredded rotisserie chicken in place of breasts or thighs.
+- **For faster chicken soup**, use 2 to 3 cups of shredded rotisserie chicken in place of breasts or thighs. *(That same rotisserie chicken's carcass makes the broth itself — see [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth).)*
 
 #### G. Suggestions — 9 Named Soups
 
@@ -1680,6 +1683,62 @@ Times below assume the Master Technique in Part B. **All three are turned only o
 **Planning a pan sauce?** Add that row's items from [§T8's list](#e-grocery-shopping-list) — the skillet is already set up for it.
 
 **Not a grocery item, but worth having:** a **thin metal spatula** for turning fish without tearing it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T12. Fast Homemade Chicken Broth
+
+<!-- TECHNIQUE-TAGS: broth, stock, rotisserie-chicken, soup-base, quick -->
+**Tags:** `broth` · `stock` · `rotisserie-chicken` · `soup-base` · `quick`
+**Used in:** [§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) — turns that formula's "1 quart chicken broth" into 2 quarts of something better · related to [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions) — see Part D for how the two differ
+
+Per Cody: all of the soups and frittatas in this cookbook are genuinely fast and easy, and so is this. **The trick is not starting from raw bones.** A rotisserie chicken is already roasted and already seasoned — its carcass and skin will fortify a quart of store-bought broth into two quarts of something noticeably better, in about 30 minutes instead of the hours a from-scratch stock takes.
+
+#### A. Ingredients
+
+- 1 rotisserie chicken *(2, if stocking the freezer — see Part C)*
+- 1 quart chicken broth, store-bought
+- 1½ quarts water
+
+#### B. Cooking Instructions
+
+**1. Break the chicken down and pull the meat.**
+Remove the legs and thighs, the breasts, and whatever other bits of meat come off the wings and carcass. Set the meat aside — it's going into soup or another meal, not into the pot.
+
+**2. Get the carcass into the pot.**
+Toss the remaining skin and bones — including the back, broken into a few manageable pieces so it fits — into a large pot.
+
+**3. Add the broth and water, and bring to a simmer.**
+1 quart chicken broth plus 1½ quarts water into the pot with the bones. Bring it up to a simmer over medium-high heat.
+
+**4. Drop to medium-low and simmer, partially covered. About 30 minutes.**
+You're pulling out whatever flavor the rotisserie bones and skin still have left to give. Thirty minutes is the baseline — let it go a little longer if there's time. *If the reserved legs and thighs are simmering in a soup that's still on the stove when this broth is done, toss those bones in too before straining — nothing goes to waste.*
+
+**5. Strain, then refrigerate or freeze.**
+Pull out and discard the bones and skin. Refrigerate what's left if it's getting used within a few days, freeze it if not.
+
+#### C. Yield and Economics
+
+**A generous 2 quarts** out of one rotisserie chicken carcass — enough for **two full pots** of the [§T9 soup formula](#t9-hearty-main-course-soup-formula), which only calls for 1 quart each. That's the whole case for calling a rotisserie chicken "a very good investment": the meat is dinner, and the bones are two batches of broth, for free.
+
+**On the meat side, same bird:** unless it's an unusually small chicken, there's **3 to 4 cups of extra shredded meat** — wing meat, back meat, breast scraps — left over even after setting aside a full 4 cups of shredded breast for a separate meal. That extra 3–4 cups is exactly what [§T9's rotisserie-chicken tip](#f-tips-and-tricks) is for: shredded rotisserie meat in place of raw thighs or breasts, for a soup that comes together even faster.
+
+#### D. Chef's Notes
+
+**Making a second batch of broth?** Build it with **ham or sausage instead of another chicken carcass**, so the freezer ends up with two different flavors of broth rather than two of the same. That's the move if a real stocking-up session is the goal.
+
+**This is not the [§T4](#t4-stocks--ingredient-conventions) stock.** §T4 is the from-scratch version — raw bones, hours on the stove, built to match the dish. This is the fast doctor-up: already-cooked bones, 30 minutes, built to turn a quart of store-bought broth into two quarts that taste like more effort went in than actually did. Reach for §T4 when the dish is the project; reach for this one when the soup itself is supposed to be the fast, easy part — which, per Cody, is most of the time with these formulas.
+
+#### E. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 ⭐ Rotisserie chicken — 1 *(2 if stocking up)*
+- 🛒 ⭐ Chicken broth, store-bought — 1 quart per chicken
+
+*That's the whole list. Water doesn't go on it, and neither does anything else — that's the point of this technique.*
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -12,6 +12,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 - [Changelog](#changelog)
 - [Store Icon Key](#store-icon-key)
+- [**Difficulty & Time Index**](#difficulty--time-index) — *every recipe sorted fastest first*
 - [4. Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)
   - [4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ✅
   - [4.2 Salsa Alfredo (Alfredo Sauce)](#42-salsa-alfredo-alfredo-sauce) ✅
@@ -123,6 +124,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **Every written-up recipe now carries a difficulty rating and prep/cook times.** A badge line (🟢 Easy · 🟡 Medium · 🔴 Hard, with prep, cook, and total) sits above the ingredients of all 32 completed entries, and a new **[Difficulty & Time Index](#difficulty--time-index)** lists them all sorted fastest first. Two deliberate choices: **difficulty means technique risk, not effort** — an 8-hour slow-cooker recipe is Easy because none of those hours need you, while the 15-minute roux is Hard — and **hands-off time is tracked in its own column** rather than folded into the totals, since soaking, marinating, and chilling change *when you start*, not how hard you work. Only four recipes are 🔴 Hard, and three of those are the same underlying skill (roux). Placeholders are unrated; §11.4's existing prep/cook line was merged into its badge to avoid stating the same times twice. |
 | 2026-08-09 | **[§9.6 Beef Jerky](#96-beef-jerky) — corrected to ground beef, 95% lean.** The card just said "1 lb of meat," and it was written up guessing sliced whole-muscle beef; Cody confirmed it's ground. Ingredients, method (mixed in like a meatloaf rather than marinated as slices, then formed with a jerky gun or by hand), and grocery list all updated. Open Questions swapped accordingly — the old "cut and slice thickness" question is gone since that no longer applies; new ones cover forming method and whether the mix rests before shaping. |
 | 2026-08-09 | Added four recipes transcribed from a photo of loose recipe cards: **[§8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup)** (printed page, a puréed soup), **[§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)** (handwritten card, no quantities given), **[§9.6 Beef Jerky](#96-beef-jerky)** (handwritten seasoning note with a corrected dehydrator time — two earlier timings crossed out on the card itself), and **[§9.7 Chicken Salad](#97-chicken-salad)** (handwritten, a to-taste build-your-own). Several Open Questions flagged rather than guessed past: §8.6's Skillet Cornbread cross-reference isn't in this cookbook; §8.7 lists whipping cream as an ingredient but never says when it's added, and has no quantities or oven info at all; §9.6's final dehydrator timing has no temperature written next to it, only the two rejected attempts that came before it. |
 | 2026-08-09 | **[§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) — final step corrected from a clearer retaken photo.** The earlier transcription flagged Step 8 as uncertain, having misread the source as "remove from heat and boil over high heat" (self-contradictory, so it was written up as a cautious reconstruction). The retake confirms the actual text: "Remove from heat and stir well, stirring occasionally" — the shrimp, oysters, and crabmeat finish on residual heat with no return to a boil. Step 8 rewritten to match, and the Open Question marked resolved rather than deleted. |
@@ -168,6 +170,61 @@ The shopping cart 🛒 means "grab it wherever you already are." A named store n
 
 ---
 
+## Difficulty & Time Index
+
+Every written-up recipe, sorted fastest first — for when the question is *"what can I actually make tonight?"* rather than *"what do I feel like eating?"*
+
+**Difficulty means technique risk, not effort.** 🔴 Hard is reserved for things that can genuinely fail on you — roux work above all. A slow-cooker recipe that runs 8 hours is 🟢 Easy, because none of those hours need you.
+
+**Times are active estimates** unless the note says otherwise. Hands-off time — soaking, marinating, slow-cooking, chilling, sous vide — is called out separately, since it changes when you start, not how hard you work.
+
+**On the sort order:** rows run ascending by total, with one deliberate exception at the bottom — [§1 Pho](#1-codys-pho) shows a smaller total than [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) but sits last, because its 6½ hours are *real work* and it needs 1–2 days of lead time, while the white beans' 8 hours are a crock pot you walk away from. Read the last four rows as "biggest commitment," not "biggest number."
+
+| Recipe | | Prep | Cook | Total | Hands-off time to plan around |
+|---|---|---|---|---|---|
+| [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | **~10 min** | — |
+| [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | **~10 min** | — |
+| [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | **~10 min** | — |
+| [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | **~15 min** | — |
+| [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | **~15 min** | — |
+| [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | **~15 min** | — |
+| [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | **~20 min** | — |
+| [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | **~30 min** | — |
+| [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) | 🟢 | 20 min | 10 min | **~30 min** | 2 hr chill |
+| [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | **~35 min** | 30 min chill |
+| [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | **~40 min** | — |
+| [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | **~40 min** | — |
+| [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | **~40 min** | — |
+| [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | **~45 min** | — |
+| [§T9 Hearty Soup Formula](#t9-hearty-main-course-soup-formula) | 🟢 | 20 min | 25 min | **~45 min** | — |
+| [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | **~45 min** | — |
+| [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | **~45 min** | — |
+| [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | **~50 min** | 4–6 hr marinate |
+| [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | **~55 min** | — |
+| [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | **~55 min** | — |
+| [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | **~55 min** | — |
+| [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | **~1 hr 15 min** | — |
+| [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 60 min | **~1 hr 25 min** | — |
+| [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | **~1 hr 25 min** | — |
+| [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | **~1 hr 35 min** | — |
+| [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | **~2 hr** | — |
+| [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | 1 hr 45 min | **~2 hr 5 min** | — |
+| [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | **~2 hr 15 min** | — |
+| [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 3 hr | **~3 hr 20 min** | Overnight bean soak |
+| [§8.1 Chili](#81-chili) | 🟢 | 15 min | 4 hr | **~4 hr 15 min** | Crock pot does the 4 hr |
+| [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 8 hr | **~8 hr** | Crock pot does the 8 hr |
+| [§1 Cody's Pho](#1-codys-pho) | 🔴 | 90 min | 5 hr | **~6½ hr** | 24–36 hr sous vide, 1–2 days ahead |
+
+**Under 30 minutes, start to finish:** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip)
+
+**The three 🔴 Hard ones are all the same skill.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard because of roux, and [§1 Pho](#1-codys-pho) is hard because it spans two days with many moving parts. Learn the roux once and two of the four stop being hard.
+
+*Recipes still in placeholder form (§3, §5.1–5.9, §6, §7.1–7.12, §9.1–9.4, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 1. Cody's Pho
 
 Cody's own method, taken down from his walkthrough. A salty, five-spice-forward broth built on chicken stock and oxtail — **not** a traditional Vietnamese beef-bone broth — with sous vide chuck roast sliced paper-thin and finished by the boiling broth right in the bowl.
@@ -177,6 +234,8 @@ Cody's own method, taken down from his walkthrough. A salty, five-spice-forward 
 **Two days of lead time.** The chuck goes in the water bath a day or two before you ever start the broth.
 
 **Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)
+
+**🔴 Hard** · **Prep:** ~90 min · **Cook:** ~5 hr · **Total:** ~6½ hr active *(plus 24–36 hr sous vide — the chuck goes in the bath 1–2 days ahead)*
 
 ### A. Ingredients
 
@@ -340,6 +399,8 @@ Geoff's version of a Thai basil stir-fry, taken down over the phone. Pork belly 
 
 **Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)
 
+**🟡 Medium** · **Prep:** ~25 min · **Cook:** ~60 min · **Total:** ~1 hr 25 min *(prep happens while the pork simmers; the wok stage is under 10 min and moves fast)*
+
 ### A. Ingredients
 
 **Meat**
@@ -487,6 +548,8 @@ Standalone blends, sauces, and condiments live here rather than inside any one r
 
 A coarse, herb-forward all-purpose steak blend. Ground fresh in a mortar and pestle so you control the texture, and layered *on top of* salt and pepper rather than replacing them.
 
+**🟢 Easy** · **Prep:** ~10 min · **Cook:** none · **Total:** ~10 min
+
 #### A. Ingredients
 
 - 3 Tbsp coarse sea salt
@@ -540,6 +603,8 @@ The paprika is there for a subtle smoky note, not for heat. The brown sugar help
 
 Transcribed from a photographed cookbook page. A classic white sauce — just butter, cream, and Parmesan — built for fettuccine and a pile of crusty bread to mop up whatever's left on the plate.
 
+**🟢 Easy** · **Prep:** ~5 min · **Cook:** ~10 min · **Total:** ~15 min
+
 #### A. Ingredients
 
 - 6 Tbsp butter
@@ -587,6 +652,8 @@ Transcribed from a photographed cookbook page. The classic Genoa sauce — the n
 
 **Techniques used:** none — this one predates §T; cross-referenced from [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)
 
+**🟢 Easy** · **Prep:** ~10 min · **Cook:** none · **Total:** ~10 min
+
 #### A. Ingredients
 
 - 2 cups fresh basil leaves
@@ -626,6 +693,8 @@ Serve over pasta or a salad, use it as a dipping sauce, or stir a spoonful into 
 ### 4.4 Salsa Marinara (Marinara Sauce)
 
 Transcribed from a photographed cookbook page. A separate tomato sauce from **[§7.18 Spaghetti](#718-spaghetti)** — that recipe stays as its own meat-and-vegetable sauce; this is a plain, olive-oil-based marinara alongside it, not a replacement. The original card gives the option of very ripe fresh tomatoes or two 28-oz cans of whole San Marzano tomatoes — **Cody's going with the canned San Marzanos**, so that's the only tomato option kept below.
+
+**🟢 Easy** · **Prep:** ~10 min · **Cook:** ~45 min · **Total:** ~55 min *(25 min simmer, food mill, then 15 min more)*
 
 #### A. Ingredients
 
@@ -674,6 +743,8 @@ The card notes this sauce "can be used on any number of pastas or combined with 
 Transcribed from a photographed cookbook page. A quick-pickle, ready in minutes with no real cook time — a fridge staple meant to replace raw onion across salads, tacos, and sandwiches so there's no scratch peeling and slicing at mealtime.
 
 > *From the headnote: written for a son-in-law who doesn't like raw onions — pickling them turned out to beautify and improve just about any dish they touched, on top of saving prep time. Worth keeping a tub of these on hand the same way you'd keep a tub of caramelized onions.*
+
+**🟢 Easy** · **Prep:** ~10 min · **Cook:** ~5 min · **Total:** ~15 min *(ready to eat immediately — no waiting period)*
 
 #### A. Ingredients
 
@@ -741,6 +812,8 @@ The fast, high-heat Cajun method, taken down from the technique pages Cody photo
 A roux is nothing more than flour and fat cooked together — a technique that goes back centuries in Louisiana, traditionally with animal fat and traditionally *slow*, a paste stirred over low heat for several hours. What follows is the modern fast version: same result, minutes instead of hours, at the cost of needing your full attention.
 
 **Understand what this is before you make it.** This is not the slow, low-heat, stir-it-for-an-hour roux. It's smoking-hot oil and constant whisking, and it's finished in minutes. Kitchen crews call the hot stuff *Cajun napalm* for a reason — it is far hotter than boiling water and it sticks to skin instead of running off. Treat a splash as a serious burn risk, not a minor one. Once you've done it a handful of times the fear goes away, but it's earned, not skipped.
+
+**🔴 Hard** · **Prep:** ~10 min · **Cook:** ~5 min · **Total:** ~15 min *(short, and the hardest thing in this cookbook — smoking oil, constant whisking, seconds between perfect and ruined)*
 
 #### A. Proportions & Color
 
@@ -1108,6 +1181,8 @@ A specialty-item list rather than a recipe list — these are the Louisiana ingr
 
 Transcribed from a photographed cookbook page — "Instant Gratification: Pan Sauces and Drizzles." The simplest way to flavor a cut and clean the skillet at the same time: pull the seared or sautéed meat, pour in ¾ cup liquid, reduce it by half in a couple of minutes, whisk in a small enrichment, and serve. That's the whole trick, and it turns an ordinary weeknight sear into something that tastes like real effort went into it.
 
+**🟢 Easy** · **Prep:** ~5 min · **Cook:** ~5 min · **Total:** ~10 min *(built in the skillet the meat just came out of)*
+
 #### A. The Formula
 
 **Liquids — ¾ cup total**
@@ -1260,6 +1335,8 @@ The whole thing fits in your head: 1 pound protein, 1 pound vegetables, 1 quart 
 1. **Internalize the formula:** 1 onion, 1 lb vegetables, 1 lb protein, 1 quart broth, 1 can tomatoes *(sometimes optional)*, a starch, a couple of tablespoons of oil, and flavorings.
 2. **Know the technique:** sauté the onion, then add the vegetables, protein, starch, tomatoes, broth, and any dried herbs and/or spices.
 3. **Simmer 15 minutes**, then stir in the fresh flavorings.
+
+**🟢 Easy** · **Prep:** ~20 min · **Cook:** ~25 min · **Total:** ~45 min
 
 #### A. The Master Recipe
 
@@ -1469,6 +1546,8 @@ The third of the slot formulas in this cookbook, after [§T8 Pan Sauce](#t8-pan-
 4. **Return the potato mixture** to the skillet and shake to distribute evenly.
 5. **Add the eggs and cheese**, top with the remaining cheese and herbs, and broil.
 
+**🟡 Medium** · **Prep:** ~20 min · **Cook:** ~25 min · **Total:** ~45 min *(several staged additions in one skillet, then a broiler finish)*
+
 #### A. The Master Recipe
 
 *Serves 4 to 6*
@@ -1604,6 +1683,8 @@ Each plugs straight into the Master Recipe — the technique never changes, only
 
 Sautéing earns its place on delicate cuts like fish fillets and on thicker cuts that have to cook through — boneless skinless chicken breasts, pork chops. Cooking times shift by cut, but **the technique itself never changes**, which is what makes it worth learning once.
 
+**🟡 Medium** · **Prep:** ~10 min · **Cook:** ~10 min · **Total:** ~20 min *(fast, but reading the butter correctly is a real skill)*
+
 #### A. Searing vs. Sautéing — the three differences
 
 These two get used interchangeably and shouldn't be. Everything else about them is similar; these three things are not:
@@ -1712,6 +1793,8 @@ Times below assume the Master Technique in Part B. **All three are turned only o
 
 Per Cody: all of the soups and frittatas in this cookbook are genuinely fast and easy, and so is this. **The trick is not starting from raw bones.** A rotisserie chicken is already roasted and already seasoned — its carcass and skin will fortify a quart of store-bought broth into two quarts of something noticeably better, in about 30 minutes instead of the hours a from-scratch stock takes.
 
+**🟢 Easy** · **Prep:** ~15 min · **Cook:** ~30 min · **Total:** ~45 min *(prep is breaking down the rotisserie chicken)*
+
 #### A. Ingredients
 
 - 1 rotisserie chicken *(2, if stocking the freezer — see Part C)*
@@ -1804,6 +1887,8 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 ### 5.10 Bacon Tomato Avocado Pasta Salad
 
 Printed from lifesambrosia.com. A cold, make-ahead pasta salad — crisp bacon, rotini, cherry tomatoes, and avocado in a lemon-dill mayo dressing, chilled 30 minutes before serving.
+
+**🟢 Easy** · **Prep:** ~20 min · **Cook:** ~15 min · **Total:** ~35 min *(plus 30 min chill before serving)*
 
 #### A. Ingredients
 
@@ -1927,6 +2012,8 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 
 **Techniques used:** [T6 Seafood Notes](#t6-seafood-notes)
 
+**🟡 Medium** · **Prep:** ~15 min · **Cook:** ~30 min · **Total:** ~45 min *(two skillets going at once)*
+
 #### A. Ingredients
 
 - 1 lb crawfish tails or shrimp
@@ -1995,6 +2082,8 @@ Transcribed from Cody's photographed recipe card — a pan-seared chicken breast
 
 **Techniques used:** [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
 
+**🟡 Medium** · **Prep:** ~15 min · **Cook:** ~25 min · **Total:** ~40 min
+
 #### A. Ingredients
 
 - 2 boneless, skinless chicken breasts, 5 oz. each
@@ -2056,6 +2145,8 @@ Sprinkle chopped parsley over the top and serve.
 Transcribed from Cody's photographed recipe card — a baked jambalaya built on tasso and chicken, using the premixed-seasoning approach. *A second, seafood-forward jambalaya lives at [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya).*
 
 **Techniques used:** [T5 Seasonings & Peppers](#t5-seasonings--peppers) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
+
+**🟡 Medium** · **Prep:** ~15 min · **Cook:** ~1 hr 20 min · **Total:** ~1 hr 35 min *(20 min stovetop, then 1 hr baking — mostly hands-off)*
 
 #### A. Ingredients
 
@@ -2132,6 +2223,8 @@ Transcribed from Cody's photographed recipe card, with a nod to Louis Armstrong'
 
 **Techniques used:** [T5 Seasonings & Peppers](#t5-seasonings--peppers) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
 
+**🟡 Medium** · **Prep:** ~20 min · **Cook:** ~3 hr · **Total:** ~3 hr 20 min *(plus overnight bean soak — start the day before)*
+
 #### A. Ingredients
 
 - 1 Tbsp unsalted butter
@@ -2206,6 +2299,8 @@ When Cody doesn't use pickle meat, he adds a little red wine vinegar for the fla
 
 Transcribed from Cody's photographed recipe card — a hands-off slow-cooker version of white beans and ham, with pan-fried Cajun sausage on the side.
 
+**🟢 Easy** · **Prep:** ~10 min · **Cook:** ~8 hr · **Total:** ~8 hr *(slow cooker — nearly all of it hands-off)*
+
 #### A. Ingredients
 
 - 1 lb dried great northern beans, rinsed and sorted for pebbles
@@ -2257,6 +2352,8 @@ The vinegary pepperoncini is the bright counterpoint the dish wants.
 Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the card itself.
 
 > **Directions weren't included on the original card** — only the ingredient list. The method below is a standard spaghetti-and-meat-sauce approach inferred from the ingredients; flag any corrections to Cody so this can be tightened up into his actual method.
+
+**🟢 Easy** · **Prep:** ~15 min · **Cook:** ~40 min · **Total:** ~55 min
 
 #### A. Ingredients
 
@@ -2316,6 +2413,8 @@ Boil the noodles or ravioli per the package, top with the sauce, and serve with 
 Transcribed from Cody's spreadsheet — a simple honey-soy marinade for grilled chicken, built out into a full kabob spread with the fruit, vegetables, and kielbasa he listed alongside it. Rated **"Yummie"** on the sheet itself.
 
 > **Quantities for the pineapple, zucchini, squash, tomatoes, and kielbasa weren't on the original sheet** — only the item names were listed, with amounts given for the marinade, chicken, garlic, onion, and bell pepper. The amounts and cut sizes below for those five items are Claude's recommendation, sized to pair with 8 chicken breasts' worth of skewers. Taste and adjust, and flag any changes so this can be tightened up. Note the sheet's ingredient list (column A–C) also includes a second, unquantified "onions" line beyond the 5 small onions already called for — treated here as the same onions rather than a separate addition, since no second amount was given.
+
+**🟡 Medium** · **Prep:** ~40 min · **Cook:** ~12 min · **Total:** ~50 min *(plus 4–6 hr marinate; the prep number is high because of all the cutting and skewering)*
 
 #### A. Ingredients
 
@@ -2399,6 +2498,8 @@ Transcribed from a printed cookbook page — a baked jambalaya running chicken, 
 > **Serve as is, or topped with Creole Sauce** — the source page references a Creole Sauce recipe elsewhere in its book that isn't part of this cookbook. Treat it as optional; the jambalaya stands on its own.
 
 **Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
+
+**🟡 Medium** · **Prep:** ~30 min · **Cook:** ~55 min · **Total:** ~1 hr 25 min *(long ingredient list and many staged additions, but forgiving)*
 
 #### A. Ingredients
 
@@ -2501,6 +2602,8 @@ Pack the rice into an 8 oz. cup and unmold it onto the plate: 2 cups per person 
 
 Transcribed from Cody's photographed recipe card — a crock-pot chili built on a beef-or-venison and pork sausage base, served over noodles. Rated **"Yummie"** on the card itself.
 
+**🟢 Easy** · **Prep:** ~15 min · **Cook:** ~4 hr · **Total:** ~4 hr 15 min *(crock pot — hands-off after browning)*
+
 #### A. Ingredients
 
 - 1 lb beef or venison (deer)
@@ -2564,6 +2667,8 @@ Makes **6 main-dish or 10 appetizer servings**.
 **Techniques used:** [T1 Roux](#t1-how-to-make-a-roux) · [T3 Frying](#t3-butter-oil-pan-frying--frying) · [T4 Stocks](#t4-stocks--ingredient-conventions) · [T5 Seasonings](#t5-seasonings--peppers)
 
 **Read [§T1 How to Make a Roux](#t1-how-to-make-a-roux) before you start.** The roux is the whole dish and it is the most dangerous thing in this cookbook — smoking-hot oil, high heat, and about four minutes from red-brown to black. Long sleeves, long-handled metal whisk, everything measured and within reach, and no kids at the stove for that step.
+
+**🔴 Hard** · **Prep:** ~30 min · **Cook:** ~1 hr 45 min · **Total:** ~2 hr 15 min *(the near-black roux is the hard part — see [§T1](#t1-how-to-make-a-roux) before starting)*
 
 #### A. Ingredients
 
@@ -2678,6 +2783,8 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 
 **Techniques used:** [T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) *(this is that formula with the Lemon Chicken slots filled in — the method below is the same one, written out in full so you don't have to flip back)*
 
+**🟢 Easy** · **Prep:** ~15 min · **Cook:** ~25 min · **Total:** ~40 min
+
 #### A. Ingredients
 
 *Makes 4 generous servings*
@@ -2751,6 +2858,8 @@ Makes **10 main-dish or 20 appetizer servings**.
 **Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) · [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes)
 
 **Read [§T1](#t1-how-to-make-a-roux) before you start.** The roux here is smoking-hot oil taken to dark red-brown or black, same danger profile as §8.3's — the source page's own warning is "being careful not to let it scorch or splash on your skin." Long sleeves, long-handled metal whisk, everything measured and within reach.
+
+**🔴 Hard** · **Prep:** ~30 min · **Cook:** ~45 min · **Total:** ~1 hr 15 min *(dark roux again — the technique, not the clock, is what makes this hard)*
 
 #### A. Ingredients
 
@@ -2852,6 +2961,8 @@ Transcribed from a printed cookbook page (p. 91) — a puréed soup, not the chu
 
 **Techniques used:** [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) *(andouille)*
 
+**🟡 Medium** · **Prep:** ~20 min · **Cook:** ~1 hr 40 min · **Total:** ~2 hr *(1 hr of that is unattended sweet-potato roasting; puréeing in batches is the fussy part)*
+
 #### A. Ingredients
 
 - 5 lbs sweet potatoes
@@ -2908,6 +3019,8 @@ The source recipe points at its own Skillet Cornbread (page 48), which isn't par
 Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A simple, rustic soup — sausage, potatoes, onion, and kale in a bouillon broth, finished with a little cream.
 
 > **Close cousin to [§T9](#t9-hearty-main-course-soup-formula):** protein (sausage), starch (potatoes), vegetable (kale), and broth (bouillon) are the same four slots that formula runs on — this card just predates it and keeps its own simpler method rather than the formula's dredge of seasonings.
+
+**🟢 Easy** · **Prep:** ~15 min · **Cook:** ~40 min · **Total:** ~55 min
 
 #### A. Ingredients
 
@@ -2973,6 +3086,8 @@ Transcribed from a printed family email — Rachel Cassel forwarding the recipe 
 
 > **Rachel's own note, kept for the record:** *"I always use cooked and shredded chicken breasts instead of canned chicken. Oh, and I use Frank's Redhot Buffalo Wing Sauce. I also use light ranch dressing instead of regular ranch dressing and shredded cheddar cheese instead of mozzarella. I'm sure it would taste great no matter what type of cheese or dressing was used. It's not very healthy but very delicious."* Her substitutions are written into the ingredients below as the main version, with the original canned-chicken/blue-cheese card version noted as the alternate.
 
+**🟢 Easy** · **Prep:** ~10 min · **Cook:** ~20 min · **Total:** ~30 min *(microwave version is 5 min; slow cooker 1½–3 hr)*
+
 #### A. Ingredients
 
 - 8 oz. cream cheese, softened
@@ -3027,6 +3142,8 @@ Transcribed from a handwritten seasoning note, checked off item by item — a dr
 
 > **The card shows its own trial and error.** Two earlier timings are crossed out — ~~160° for ½ hr, then~~ and ~~150° for 8–10 hr~~ — with **1.5 to 1.75 hrs, tray swap** written in as the answer that actually worked. Kept here for the record since it explains why the final number looks so different from a typical jerky recipe's "several hours at low temp." *No temperature is written next to the final timing — see Open Questions.*
 
+**🟡 Medium** · **Prep:** ~20 min · **Cook:** ~1 hr 45 min · **Total:** ~2 hr 5 min *(dehydrator time; forming even strips is the fiddly part)*
+
 #### A. Ingredients
 
 *Per 1 lb of meat — ground beef, 95% lean*
@@ -3080,6 +3197,8 @@ Shape the seasoned ground beef into thin, even strips on the dehydrator trays �
 ### 9.7 Chicken Salad
 
 Transcribed from a handwritten note — a build-your-own chicken salad: shredded chicken, a mix-and-match set of add-ins, and mayo added to taste rather than measured.
+
+**🟢 Easy** · **Prep:** ~20 min · **Cook:** ~20 min · **Total:** ~40 min *(cook time is boiling the chicken — skip it entirely with canned or rotisserie)*
 
 #### A. Ingredients
 
@@ -3160,7 +3279,9 @@ The "Southern keto" entries are low-carb rebuilds of Southern staples — almond
 
 Transcribed from a printed cookbook page, filed under the category the source itself used — Soups & Salads. Cody's mother-in-law's potato salad, rebuilt with cauliflower standing in for the potatoes. *"We don't even miss the potatoes in this recipe!"*
 
-**Yield:** 6 to 8 servings · **Prep:** 20 minutes, plus 2 hours to chill · **Cook:** 10 minutes
+**Yield:** 6 to 8 servings
+
+**🟢 Easy** · **Prep:** ~20 min · **Cook:** ~10 min · **Total:** ~30 min *(plus 2 hr chill — times per the source page)*
 
 #### A. Ingredients
 

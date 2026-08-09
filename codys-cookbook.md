@@ -112,6 +112,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **[§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) — tomatoes removed, per Cody.** The open question from the previous entry is settled: no canned tomatoes in this soup. Propagated to the ingredients, Step 2, the grocery list, and the **[§T9 Part G](#g-suggestions--9-named-soups)** table row, which now reads *omit the tomatoes*. **Flagging the conflict:** this is a deliberate deviation from the source page, which listed no omit-tomatoes note for this soup (it does for two others) — Cody's version wins, and the source's default is noted inline so the difference is visible rather than silently overwritten. |
 | 2026-08-09 | Completed **[§T9](#t9-hearty-main-course-soup-formula)** with its Suggestions — **[Part G](#g-suggestions--9-named-soups)** now carries all nine named soups as a slot table (protein / vegetables / starch / flavorings, plus each one's exceptions), and an *At a glance* three-line summary was added up top. **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** ⭐ was promoted out of that table into a full write-up — Cody's stated favorite, so it gets real quantities and step-by-step rather than a table row. Its **Open Questions** flag one genuine ambiguity: the source never says to omit the tomatoes for this soup, so they're written in, but that's worth confirming against how Cody actually makes it. |
 | 2026-08-09 | Added **[§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula)** — filed as a technique alongside §T8's pan sauces, since it's a formula (protein / vegetables / starch / broth / flavoring) rather than one dish. Written from Cody's own rewrite of the source pages, reformatted into house two-layer style. **[§8.2 Soups](#82-soups)** now points at it: Cody has specific soups coming that build on this formula, and each will get its own §8.x entry referencing §T9 for the method rather than repeating it. *Note: the source chapter carries a second, smooth-and-creamy soup formula that isn't in this cookbook yet — it becomes §T10 when added.* |
 | 2026-08-09 | **Every technique section now carries a Grocery Shopping List.** §T2–§T8 previously had none, on the reasoning that techniques aren't recipes; per Cody, they get one anyway. Each is a pantry/staples list for that technique rather than a per-dish list — the oils §T2 assumes, the frying fats in §T3, stock bones plus the three hard no's in §T4, the standing pepper shelf in §T5, the fish-market list in §T6, Louisiana specialty items in §T7, and a buy-per-sauce menu for §T8's 20 combinations. §T1 already had one. The only sections still without a list are §3 and the §5–§11 stubs, which have no ingredients documented yet. |
@@ -1369,7 +1370,7 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 | **Sausage, with Spinach, Cauliflower & Noodles** | Mild or hot Italian sausage links | ½ lb cauliflower florets, ½ lb spinach | Bite-size pasta — macaroni or bow ties | 1 tsp dried **or** ¼ cup chopped fresh basil | — |
 | **Pork, with Hominy & Peppers** | Pork tenderloin | 1 large bell pepper, 1 medium zucchini or yellow squash | Hominy | 2 Tbsp chopped fresh cilantro | Equally good with ham or chicken. Serve with a squeeze of lime, tortilla chips, and guacamole. |
 | **Chicken Vegetable, with Wide Noodles** | Boneless, skinless chicken thighs or breasts | 2 medium carrots, 2 medium celery stalks, ¾ cup frozen green peas | Wide egg noodles | 1 tsp dried thyme | **Omit the tomatoes.** Peas added at the start go drab — either freshen with a couple Tbsp chopped fresh parsley at the end, or add the peas in the last few minutes instead. Shredded rotisserie chicken works in place of thighs or breasts. |
-| ⭐ **Lemon Chicken, with Spinach & Rice** | Boneless, skinless chicken thighs or breasts | 10 oz. baby spinach, 1 medium zucchini | White rice | 2 Tbsp lemon juice, 1 Tbsp chopped fresh dill | **Cody's favorite — written up in full at [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice).** The lemon juice and dill go into the **finished** soup, not the pot. |
+| ⭐ **Lemon Chicken, with Spinach & Rice** | Boneless, skinless chicken thighs or breasts | 10 oz. baby spinach, 1 medium zucchini | White rice | 2 Tbsp lemon juice, 1 Tbsp chopped fresh dill | **Cody's favorite — written up in full at [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice).** **Omit the tomatoes** — Cody's call, and a deviation from the source page, which didn't mark this one as an exception. The lemon juice and dill go into the **finished** soup, not the pot. |
 | **Curried Chicken, with Sweet Potatoes, Cauliflower & Spinach** | Boneless, skinless chicken thighs | Cauliflower florets and baby spinach — you decide how much of each | 1 sweet potato (8 oz.) **and** 1 can chickpeas | 1 Tbsp curry powder, 2 Tbsp chopped fresh cilantro | **The two-starch example** — half chickpeas, half sweet potato, to show that two starches can share a pot. Only have one of them? Double it. Curry powder goes into the broth; cilantro tops the finished soup. |
 | **Fish, with Cabbage & Potatoes** | Firm-fleshed white fish — halibut, cod, scrod, or haddock | ¼ medium cabbage, 2 medium celery stalks **or** 1 small fennel bulb | Potatoes | 2 tsp finely chopped fennel seeds, ¼ tsp hot red pepper flakes, 1 tsp finely grated lemon zest, 2 Tbsp lemon juice | **Use fish or seafood broth**, not chicken. Prefer meat? Substitute kielbasa or ham for the fish and drop the lemon zest and juice entirely. A little chopped parsley before serving brightens it. |
 
@@ -2175,6 +2176,8 @@ Main course: mound about ⅓ cup cooked rice in the center of a soup bowl and la
 
 A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill broth, with a lot of spinach wilted in. The two things that define it — the lemon juice and the fresh dill — go in **after** the pot comes off the heat, not during the simmer. That's the whole trick. Cook lemon juice for 20 minutes and it goes dull and slightly bitter; stir it into the finished soup and it stays sharp and fresh.
 
+**No tomatoes in this one.** The [§T9](#t9-hearty-main-course-soup-formula) formula calls for a can of tomatoes by default, and the source page didn't mark this soup as an exception — but Cody makes it without, and that's right: tomato competes with the lemon and clouds a broth whose whole appeal is that it stays clean.
+
 **Techniques used:** [T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) *(this is that formula with the Lemon Chicken slots filled in — the method below is the same one, written out in full so you don't have to flip back)*
 
 #### A. Ingredients
@@ -2187,8 +2190,8 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 - 10 oz. baby spinach
 - 1 medium zucchini, trimmed and cut into small dice
 - ⅓ cup long-grain white rice
-- 1 can (14.5 oz.) tomatoes, diced or crushed — *see Open Questions*
 - 1 quart chicken broth
+- **No tomatoes** — this is one of the [§T9](#t9-hearty-main-course-soup-formula) soups that leaves the can out; see the note below
 - 2 Tbsp lemon juice — **added at the end**
 - 1 Tbsp chopped fresh dill — **added at the end**
 - Salt and ground black pepper
@@ -2198,8 +2201,8 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 **1. Soften the onion. 4–5 minutes.**
 Warm the oil in a large pot over medium-high heat, add the chopped onion, and cook just until it starts to soften. Not browned, not caramelized — this is a head start, not a foundation.
 
-**2. Add the chicken, zucchini, rice, tomatoes, and broth.**
-Everything but the spinach, lemon, and dill goes in now. If you're using **breasts**, cut them crosswise into thirds first so they cook evenly; **thighs** can go in whole. The rice goes in raw — it needs the full simmer to cook through.
+**2. Add the chicken, zucchini, rice, and broth. No tomatoes.**
+Everything but the spinach, lemon, and dill goes in now. If you're using **breasts**, cut them crosswise into thirds first so they cook evenly; **thighs** can go in whole. The rice goes in raw — it needs the full simmer to cook through. *The canned tomatoes from the [§T9](#t9-hearty-main-course-soup-formula) formula stay out of this one* — tomato fights the lemon and dill, and it muddies a broth that's supposed to stay clean and bright.
 
 **3. Simmer partially covered. 15–20 minutes.**
 Bring it up to a simmer, drop to medium-low, and cook until the rice is tender and the zucchini has softened. You're waiting on the rice here more than anything else.
@@ -2225,7 +2228,6 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 - 🛒 Zucchini — 1 medium
 - 🛒 Onion — 1 large
 - 🛒 Long-grain white rice — ⅓ cup
-- 🛒 Canned tomatoes, diced or crushed — 1 × 14.5 oz.
 - 🛒 Chicken broth — 1 quart
 - 🛒 Lemons — *for 2 Tbsp juice; 1 large lemon covers it*
 - 🛒 Fresh dill — 1 bunch
@@ -2234,7 +2236,7 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 
 #### D. Open Questions
 
-- **Do you actually put the tomatoes in?** The source lists this soup without a "omit the tomatoes" note — unlike the Ham & Potato and Chicken Vegetable suggestions, which say so explicitly — so by the formula they're in, and that's how it's written above. But a lemon-and-dill soup is one plenty of cooks would make without tomato. Worth pinning down which way you make it, since it changes the character of the bowl.
+- ~~Do you actually put the tomatoes in?~~ **Settled 2026-08-09 — no tomatoes.** The source page never said to omit them for this soup, so they were written in at first; Cody confirmed he makes it without. The recipe above is corrected, and this now stands as a documented deviation from the source rather than an open question.
 - Thighs or breasts — which do you use?
 - Does the rice hold up as leftovers, or does it drink the broth overnight? *(If it does, cooking the rice separately and adding it per bowl is the usual fix.)*
 

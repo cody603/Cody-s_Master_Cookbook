@@ -50,6 +50,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [5.7 Brussels Sprouts](#57-brussels-sprouts) ○
 - [5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) ○
 - [5.9 Goat Cheese Salad](#59-goat-cheese-salad) ○
+- [5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -115,6 +116,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)** — transcribed from a printed lifesambrosia.com recipe. Filed alongside §5.9 Goat Cheese Salad as the cookbook's second salad. Noted inline that the card's 5-minute pasta cook time runs short for rotini — go by the package. Open Question flagged on when the avocado goes in, since it's sliced into a salad that then chills 30 minutes, and sliced avocado browns fast. |
 | 2026-08-09 | Added **[§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth)** — a rotisserie-chicken carcass plus a quart of store-bought broth, simmered 30 minutes into 2 quarts. Wired to **[§T9's rotisserie-chicken tip](#f-tips-and-tricks)** both ways, since the same bird that gives you the shredded meat also gives you the bones for this broth. **Distinguished from [§T4](#t4-stocks--ingredient-conventions)** rather than left to overlap with it — §T4 is the from-scratch, hours-long stock; §T12 is the fast doctor-up built to match how quick the rest of Cody's soup formulas are meant to be. |
 | 2026-08-09 | Added **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — the master technique plus the three cuts it's written for (chicken breasts, boneless pork loin chops, white-fleshed fish fillets) with each one's timing and prep. **Conflict flagged and reconciled:** this technique starts butter and oil in a *medium-low* pan, which directly contradicts **[§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)**. Both are right for their case, so §T2 now lists butter-sautéing alongside deep frying as a named exception and carries an *Exceptions* line up top; §T11 explains why (the butter is the thermometer). Also wired: §T11 ↔ **[§T8 Pan Sauce](#t8-pan-sauce-formula)** as two halves of one skillet, and the **[§7.3 Flounder](#73-flounder)** and **[§7.4 Pork Chops](#74-pork-chops)** stubs now point at §T11 for method. *The source's All-Purpose Salsa and uncooked relishes (its pages 210–211) weren't photographed — noted inline as a gap.* |
 | 2026-08-09 | Added **[§T10 Loaded Frittata Formula](#t10-loaded-frittata-formula)** — the third slot formula, after §T8 pan sauces and §T9 soups, with all 8 named frittatas as a table and an *At a glance* summary. Filed in the Techniques section for the same reason as the other two: it's a template, not a dish. **[§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)** now cross-links to it. **Two things flagged inline:** the source's own vegetable/protein/cheese/herb category lists (its pages 75–77) weren't in the photographed pages, so Part B is reconstructed from the named suggestions and points at [§T9 Part C](#c-vegetables-1-pound) for prep cuts until those pages turn up; and the earlier note reserving §T10 for the creamy soup formula is corrected — T-numbers go in arrival order, so the creamy formula takes the next free one. |
@@ -1782,6 +1784,60 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 
 ### 5.9 Goat Cheese Salad
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+---
+
+### 5.10 Bacon Tomato Avocado Pasta Salad
+
+Printed from lifesambrosia.com. A cold, make-ahead pasta salad — crisp bacon, rotini, cherry tomatoes, and avocado in a lemon-dill mayo dressing, chilled 30 minutes before serving.
+
+#### A. Ingredients
+
+- 6 slices bacon, chopped into 1-inch pieces
+- ½ lb (8 oz.) dried rotini pasta
+- ½ cup mayonnaise
+- 1 Tbsp lemon juice
+- ½ tsp salt
+- ½ tsp garlic powder
+- ¼ tsp pepper
+- 1 tsp dried dill
+- 1 cup cherry tomatoes, halved
+- 1 avocado, pitted and sliced
+
+#### B. Cooking Instructions
+
+**1. Cook the bacon until crisp.**
+Chopped into 1-inch pieces, cooked crisp, then transferred to a paper-towel-lined plate to drain. Reserve it — it goes into the salad at the end, not the dressing.
+
+**2. Cook the pasta, then cool it fast.**
+Cook the rotini per the package directions, strain, and run cold water over it right away until it's fully cooled. *The recipe's listed 5-minute cook time runs short for rotini, which usually wants 8–11 minutes — go by the package, not the card.*
+
+**3. Whisk the dressing while the bacon and pasta cook.**
+Mayonnaise, lemon juice, salt, garlic powder, pepper, and dried dill, whisked together in a bowl. This can come together in the gaps while the other two steps are going.
+
+**4. Toss everything together and chill. 30 minutes.**
+Stir the cooled pasta, cherry tomatoes, sliced avocado, and the reserved bacon into the dressing. Toss to combine, then refrigerate for 30 minutes before serving — this isn't optional resting, it's what lets the dressing coat everything and the flavors settle.
+
+**5. Serve cold.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bacon — 6 slices
+- 🛒 Rotini pasta — ½ lb (8 oz.)
+- 🛒 Mayonnaise — ½ cup
+- 🛒 Lemon — for 1 Tbsp juice
+- 🛒 Salt
+- 🛒 Garlic powder
+- 🛒 Black pepper
+- 🛒 Dried dill
+- 🛒 Cherry tomatoes — 1 cup halved
+- 🛒 Avocado — 1
+
+#### D. Open Questions
+
+- The avocado is sliced in per the card, which browns fast in a make-ahead salad chilled 30 minutes — worth noting whether Cody tosses it with a little extra lemon juice first, or adds it right before serving instead of before the chill.
 
 [↑ Table of Contents](#table-of-contents)
 

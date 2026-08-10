@@ -81,6 +81,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T13. Basic Stock Formula (Fowl, Beef, Pork & Seafood)](#t13-basic-stock-formula-fowl-beef-pork--seafood) ✅
   - [T14. How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) ✅
   - [T15. How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage) ✅
+  - [T16. How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -195,6 +196,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§T16 How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** — a new source, a hand-illustrated technique page presumed to be **Samin Nosrat's *Salt, Fat, Acid, Heat*** (inferred from the illustration style and Cody's own naming, not yet confirmed against a title page — flagged as such rather than stated outright). A ratio formula (1 egg yolk : ¾ cup oil) rather than a fixed batch, filed as a technique alongside [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§T15](#t15-how-to-barbecue-cabbage) for the same reason. **Rated Medium, not Hard like [§4.9 Hollandaise](#49-hollandaise-sauce)** — the deciding difference: this technique comes with its own explicit broken-mayonnaise fix, so a break here is recoverable, which is exactly the condition [§4.9](#49-hollandaise-sauce) fails. |
 | 2026-08-10 | Added **[§13 Meathead Cookbook](#13-meathead-cookbook)** as a placeholder — Cody's next source, nothing photographed yet. Title given as an educated guess (*Meathead: The Science of Great Barbecue and Grilling*) rather than confirmed, per this cookbook's practice of only asserting a source once an actual page confirms it. Likely destination once content arrives: [§6 Smoked Meats](#6-smoked-meats), still mostly placeholders. |
 | 2026-08-10 | Added **[§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts)** from **Steven Raichlen's *How to Grill*** (p. 240–243) — chicken breasts pocketed and stuffed with sun-dried tomato, basil, and goat cheese, direct-grilled to a crosshatch sear. Transcribed clean across the full technique-plus-recipe spread, no gaps. |
 | 2026-08-10 | **Second big batch from Steven Raichlen's *How to Grill*: the rest of the stand-alone sauces chapter (p. 456–461), plus a first entry each in a new "Vegetables Plus" chapter (p. 357–363). 14 new entries: [§4.40](#440-herbed-horseradish-sauce)–[§4.51](#451-shallot-marmalade), [§5.14 Grilled Corn](#514-grilled-corn), and [§T15 How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage).** Big find: **four of [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)'s five named serving sauces are now transcribed** — [§4.38 Mustard Sauce](#438-mustard-sauce) (added last batch), plus this batch's [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), [§4.50 Cucumber Relish](#450-cucumber-relish), and [§4.51 Shallot Marmalade](#451-shallot-marmalade) — all three name that exact dish or an equivalent in their own source text. Only Béarnaise Mayonnaise (page 452) is still missing. **[§T15 How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage)** is filed as a technique formula rather than a fixed recipe, same reasoning as [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) — the source never gives quantities for the bacon-onion filling, barbecue sauce, or butter, just the method; it points at this cookbook's own [§4.34](#434-basic-barbecue-mop-sauce)–[§4.37](#437-white-barbecue-sauce) barbecue sauces as flexible options. The rest are stand-alone dipping sauces, salsas, and relishes (Herbed Horseradish, Asian Peanut, Asian Pear Dipping, Vietnamese Dipping, Pico de Gallo, Tomato-Pepper Salsa, Salsa Verde, Cilantro Chutney, Mango Salsa) plus [§5.14 Grilled Corn](#514-grilled-corn), the first real entry in what looks like a new §5 vegetables chapter from this source. **One transcription snag flagged rather than smoothed over:** [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce)'s ingredient list reads partially duplicated against its facing-page neighbor [§4.42](#442-asian-pear-dipping-sauce) — both halves written in as photographed, with a note on which one matches the actual instructions. |
@@ -329,6 +331,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.49 Mango Salsa](#449-mango-salsa) | 🟢 | 15 min | — | — | 15 min |
 | [§4.50 Cucumber Relish](#450-cucumber-relish) | 🟢 | 15 min | — | — | 15 min |
 | [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage) | 🟢 | 15 min | — | **1–1½ hr** *(indirect grill)* | 1 hr 15 min – 1 hr 45 min |
+| [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | 🟡 | 15 min | — | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
@@ -3795,6 +3798,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) | Basic Stock Formula (Fowl, Beef, Pork & Seafood) | `stock` `broth` `basic-stock` `seafood-stock` `chicken-stock` `formula` |
 | [T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | How to Grill Pork Tenderloin (Cuban Mojo) | `pork-tenderloin` `mojo` `cuban` `direct-grilling` `marinade` `formula` |
 | [T15](#t15-how-to-barbecue-cabbage) | How to Barbecue Cabbage | `cabbage` `indirect-grilling` `whole-vegetable` `formula` |
+| [T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | How to Make a Mayonnaise (and Fix a Broken One) | `mayonnaise` `emulsion` `egg-yolk` `formula` `ratio` |
 
 ---
 
@@ -5167,6 +5171,80 @@ Cook the cabbage for 1 to 1½ hours, using the indirect method. Add soaked wood 
 **What a serving is:** a wedge cut from the whole barbecued cabbage — a side dish portion.
 
 *A very rough estimate given no fixed quantities for the bacon, onion, sauce, or butter — figures above assume about 4 slices of bacon, a small onion, ½ cup barbecue sauce, and 2 Tbsp butter as a typical fill. Revisit once actual amounts are settled by trying it.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T16. How to Make a Mayonnaise (and Fix a Broken One)
+
+<!-- TECHNIQUE-TAGS: mayonnaise, emulsion, egg-yolk, formula, ratio -->
+**Tags:** `mayonnaise` · `emulsion` · `egg-yolk` · `formula` · `ratio`
+**Source:** presumably **Samin Nosrat's *Salt, Fat, Acid, Heat*** (illustrated by Wendy MacNaughton) — inferred from the hand-lettered illustration style and the name Cody gave it, not yet confirmed against an actual title page or ISBN
+**Used in:** no numbered recipe cites it yet, but [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) and several other sauces in this cookbook start from store-bought mayonnaise and could be built on this instead
+
+> **A ratio-based formula, not a fixed-batch recipe** — subtitled *"A Lesson in Fats & Emulsion"* on the source page. Scale the Golden Mayo Ratio up or down by the yolk.
+
+**🟡 Medium** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+> **Why this is Medium, not Hard like [§4.9 Hollandaise](#49-hollandaise-sauce):** Hollandaise is rated Hard specifically because a broken one *can't* be rescued. This mayonnaise technique comes with its own explicit fix-it method (Part C below), so a break here is a setback, not a do-over from scratch.
+
+#### A. The Golden Mayo Ratio
+
+- **1 egg yolk : ¾ cup oil**
+
+**Plus, not part of the ratio:**
+
+- Water or lemon juice — a few drops, only if the emulsion gets too thick to whisk
+- Salt — to taste, added at the end
+
+#### B. Cooking Instructions
+
+**1. Bring the egg and oil to the same temperature.**
+Measure out the right amount of oil and eggs, and make sure the egg and the oil are the same temperature before you start. Leave the egg out of the fridge for a bit, or run it under some warm water.
+
+**2. Whisk the yolk while adding oil one drop at a time.**
+Put the yolk in a bowl and start whisking, adding one drop of oil at a time. *(Tip: lightly dampen a kitchen towel, lay it in a ring, and set your bowl in the middle — it won't spin or slide while you whisk one-handed.)*
+
+**3. Once it's halfway there, speed up.**
+Once you've added about half the oil and the mixture is feeling pretty solid, you can add the rest a little faster. If it gets so thick it's hard to whisk, add a few drops of water or lemon juice to loosen it.
+
+**4. Taste, season, taste again.**
+After all the oil is added, taste. Need salt? Add some. Taste again.
+
+#### C. Fixing a Broken Mayonnaise
+
+**1. Stop. Take a deep breath.** It happens to everyone.
+
+**2. Start over in a new bowl.**
+Add ½ tsp of the hottest water your tap can muster to a clean bowl.
+
+**3. Whisk hard, then add the broken mayonnaise back in drop by drop.**
+Using the same whisk, start whisking like your life depends on it. Then, just like you did with the oil the first time, add the broken mayonnaise back in drop by drop — and keep whisking. Once you've whisked in about half of it, check in: **is this working?**
+- **Yes** → good, keep going the same way until it's all incorporated.
+- **No** → stop, get another fresh bowl, and start the fix again from Step 2.
+
+> **For next time:** the moment you notice the mayonnaise isn't coming together, **stop adding fat** and give it a good hard whisk before continuing. A few chips of ice or a tiny splash of cold tap water can help pull it back together too.
+
+#### D. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — for the yolks
+- 🛒 Neutral oil (vegetable, or similar)
+- 🛒 Lemon, for juice — optional, if the emulsion needs loosening
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 yolk : ¾ cup oil, about 1 cup)* | ~1,645 | 182 g | 2.7 g | 0.6 g | 0 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~103 | 11 g | 0.2 g | 0 g | 0 g |
+
+**What a serving is:** 1 Tbsp — a standard condiment portion, spread or dolloped.
+
+*Almost entirely fat, since the ratio is nearly all oil by volume — one egg yolk barely registers against ¾ cup of oil. Scale the whole table directly with the ratio: double the yolks and oil, double every number here.*
 
 [↑ Table of Contents](#table-of-contents)
 

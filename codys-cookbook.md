@@ -37,6 +37,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) ✅
   - [4.22 Mustard Sauce](#422-mustard-sauce) ✅
   - [4.23 Remoulade Sauce](#423-remoulade-sauce) ✅
+  - [4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -105,6 +106,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ✅
 - [7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded) ✅ 🥑
 - [7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) ✅
+- [7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) ✅
+- [7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -151,6 +154,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added three more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 54–55, 69–71): **[§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce)**, **[§7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce)** (which uses it, plated over the existing **[§4.20 Meunière Sauce](#420-meunière-sauce)**), and **[§7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce)** — the **eighth** recipe closed by **[§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**'s seafood variant, added to its "Used in" list. All three photos read cleanly with no garbled or ambiguous passages, confirmed against zoomed re-reads of the source pages rather than a single quick pass — no Open Questions needed on any of them. **Two items from the same photo batch intentionally not added**, same as Giblet Gravy's first incomplete photo earlier this session: "Fish with Hushpuppies" showed only its title, cut off before the ingredients; a final fragment showed the tail end of the zucchini recipe's serving instructions plus the first few lines of an unidentified shrimp recipe. Both wait on a follow-up photo. **Two pre-existing count bugs in the [Difficulty & Time Index](#difficulty--time-index)'s prose found and fixed while re-validating badge/index/nutrition counts for this batch:** the Hard-recipe summary said "five" and omitted [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), though it was correctly badged 🔴 and listed in the table all along — now "six," with §4.12 named alongside §T1/§8.3/§8.5 as the third roux-based Hard recipe; and the keto callout said "all four" beside its own correct "5 recipes" header — now "all five." Neither bug was introduced this round; both predate it. |
 | 2026-08-09 | **Added [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood), closing a gap open since early in this session.** Roughly ten recipes across this cookbook had been citing a missing "Basic Chicken Stock (p. 31)," "Basic Beef or Pork Stock (p. 31)," or "Basic Seafood Stock (p. 32)" as an unresolved Open Question. It turns out to be **one formula, not four separate recipes** — same aromatics and method, only the bones or shells change by type. All nine affected recipes ([§4.8](#48-shrimp-and-crab-butter-cream-sauce), [§4.12](#412-fish-brown-sauce), [§4.13](#413-andouille-smoked-sausage-sauce), [§4.17](#417-giblet-gravy), [§4.20](#420-meunière-sauce), [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§9.9](#99-shrimp-remoulade)) had their Open Questions marked settled rather than deleted, and their ingredient lines repointed to §T13 directly. **[§T4](#t4-stocks--ingredient-conventions)** — which had been gesturing at "work off a basic 1-quart recipe" without actually having one — now points to it too. **Also enriched [§T1](#t1-how-to-make-a-roux)'s roux color table** from a simplified two-tier version to the source's actual four tiers (light-brown, medium-brown, dark red-brown, black), confirmed against its color plates, plus a note that the tradition is deliberately broken by personal preference in the source's own examples. |
 | 2026-08-09 | **Checked a re-photographed "Notes from Our Test Kitchen" section against the cookbook and confirmed it's already captured — [§T1](#t1-how-to-make-a-roux), [§T3](#t3-butter-oil-pan-frying--frying), [§T5](#t5-seasonings--peppers), [§T6](#t6-seafood-notes), and [§T7](#t7-louisiana-language--ingredients) all trace to this same source material, checked line by line rather than assumed.** Nothing duplicated. Since the source book — **Chef Paul Prudhomme's *Louisiana Kitchen*** — has since been identified by name (via §4.8's running header, after these five sections were originally written), all five now credit it explicitly instead of the old "technique pages Cody photographed." Two genuinely new facts surfaced and were added: **§T1** gained the source's real number for its burn-risk warning — roux oil gets heated well past **500°F**; **§T5** gained the *why* behind the seasoning-mix system (built for restaurant consistency) and the real commercial product name behind it, **Louisiana Cajun Magic®**. |
 | 2026-08-09 | **Fixed a pre-existing formatting bug found while adding this batch: [§9.7 Chicken Salad](#97-chicken-salad)'s Nutrition block had landed after the §9.8 heading instead of inside §9.7.** Moved it back where it belongs. |
@@ -235,6 +239,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 |---|---|---|---|---|---|
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
+| [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
@@ -262,6 +267,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
+| [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -294,6 +300,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
+| [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
 
 ### Reading this table
 
@@ -301,11 +308,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 13 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 14 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
-**🥑 Keto / low-carb — 5 recipes.** All four come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
+**🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The five 🔴 Hard ones come down to three problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. Learn the roux once and three of the five stop being hard.
+**The six 🔴 Hard ones come down to three problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. Learn the roux once and four of the six stop being hard.
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the biggest numbers in this table — two days start to finish, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
@@ -1904,7 +1911,7 @@ Bring to a boil, shaking the pan, until the sauce is light brown and very foamy.
 
 ### 4.20 Meunière Sauce
 
-Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 243). A seafood-stock-based butter sauce thickened with a small separate butter-flour roux, finished with Worcestershire — built for holding warm rather than serving instantly.
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 243). A seafood-stock-based butter sauce thickened with a small separate butter-flour roux, finished with Worcestershire — built for holding warm rather than serving instantly. **Used in** [§7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce).
 
 **Yield:** about 2 cups
 
@@ -2168,6 +2175,52 @@ Add the remaining ingredients one at a time, including the lemon quarter whole �
 | **Per serving** *(2 Tbsp, of 12)* | ~65 | 6 g | 0.7 g | 2.5 g | 0.3 g |
 
 **What a serving is:** about 2 Tbsp, tossed with chilled shrimp per [§9.9](#99-shrimp-remoulade), or used as a dip.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.24 Pecan Butter Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 55) — the facing-page sauce for [§7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce). A blended butter-and-pecan sauce with no cooking at all — everything goes straight into a food processor.
+
+**Yield:** about ⅔ cup
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 4 Tbsp unsalted butter, softened
+- ½ cup coarsely chopped pecans, dry roasted
+- 2 Tbsp very finely chopped onion
+- 1 tsp lemon juice
+- ½ tsp Tabasco sauce
+- ¼ tsp minced garlic
+
+#### B. Cooking Instructions
+
+**1. Blend everything until creamy and smooth. 2 to 3 minutes.**
+Place all ingredients in a blender or food processor and process until creamy and smooth, about 2 to 3 minutes, pushing down the sides a few times with a rubber spatula.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 4 Tbsp
+- 🛒 Pecans, dry roasted — ½ cup coarsely chopped *(buy them dry-roasted, or toast raw pecans in a dry skillet a few minutes until fragrant)*
+- 🛒 Onion — 2 Tbsp very finely chopped
+- 🛒 Lemon — for 1 tsp juice
+- 🛒 Tabasco sauce
+- 🛒 Garlic
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(⅔ cup)* | ~775 | 84 g | 5 g | 8 g | 5 g |
+| **Per serving** *(a scant 2 Tbsp, of 6)* | ~130 | 14 g | 0.8 g | 1.3 g | 0.8 g |
+
+**What a serving is:** a scant 2 Tbsp — the amount [§7.23](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) spreads over one hot pan-fried fish fillet.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3408,6 +3461,7 @@ All of these cited a page-31 or page-32 "Basic [Something] Stock" as missing —
 - [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) — seafood stock
 - [§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) — seafood stock
 - [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) — seafood stock (or water, per that recipe's own note)
+- [§7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) — seafood stock
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -4777,6 +4831,210 @@ The card's own guidance, worth keeping in full because it's the part that decide
 Serve over a crisp bed of lettuce with avocado slices and tomato.
 
 **Leftovers make a good cold pasta salad** — the card's own suggestion, and a natural one given the marinade is already a vinaigrette.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.23 Fish with Pecan Butter Sauce and Meunière Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 54–55, Color picture 7). Pan-fried trout, redfish, or other firm-fleshed fish fillets, double-dredged in seasoned flour and egg, finished with a spoonful of hot [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) melting into the fillet and plated over [§4.20 Meunière Sauce](#420-meunière-sauce).
+
+> *"The fish are pan fried in this dish."* — per the source. See [T3](#t3-butter-oil-pan-frying--frying) for more on pan frying.
+
+**Yield:** 6 servings
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~35 min** *(assumes [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) and [§4.20 Meunière Sauce](#420-meunière-sauce) are already made — budget their own time on top if starting from scratch)*
+
+**Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
+
+#### A. Ingredients
+
+- [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce)
+- [§4.20 Meunière Sauce](#420-meunière-sauce)
+- ½ cup milk
+- 1 egg, beaten
+
+**Seasoning mix**
+
+- 1 Tbsp salt
+- 1 tsp onion powder
+- 1 tsp sweet paprika
+- ¾ tsp ground red pepper, preferably cayenne
+- ½ tsp white pepper
+- ½ tsp garlic powder
+- ½ tsp black pepper
+- ¼ tsp dry mustard
+- ¼ tsp dried oregano leaves
+- ¼ tsp dried thyme leaves
+
+- 1 cup all-purpose flour
+- 6 (4-ounce) trout, redfish, or other firm-fleshed fish fillets
+- Vegetable oil for pan frying
+- 6 Tbsp coarsely chopped pecans, dry roasted *(garnish — separate from the pecans inside the Pecan Butter Sauce)*
+
+#### B. Cooking Instructions
+
+**1. Make the Pecan Butter Sauce and the Meunière Sauce first, and set both aside.**
+
+**2. Combine the milk and egg; combine the seasoning mix separately; season the flour and the fish.**
+Combine the milk and egg in a pan (a loaf, cake, or pie pan works well) until well blended. In a small bowl, thoroughly combine the seasoning mix ingredients. In a separate pan, add 1 tablespoon of the seasoning mix to the flour and mix well. Sprinkle the rest of the seasoning mix lightly and evenly on both sides of the fish, patting it in by hand — save any leftover seasoning mix for another recipe.
+
+**3. Warm the serving plates in a 250° oven.**
+
+**4. Heat ¼ inch oil to about 350°, then double-dredge and fry each fillet. 2 to 3 minutes per side.**
+Dredge each fillet in the seasoned flour, shaking off the excess, then soak it in the egg mixture. Just before frying, drain off the excess egg mixture and dredge the fillet once more in the flour, shaking off the excess. Fry in the hot oil until golden brown, about 2 to 3 minutes per side, adjusting the heat as necessary to hold the oil's temperature. Drain on paper towels and, while the fillet is still very hot, spread a scant 2 tablespoons of the Pecan Butter Sauce over the top. Serve immediately.
+
+**5. Plate over Meunière Sauce and garnish with pecans.**
+Spoon a scant ⅓ cup Meunière Sauce onto each heated serving plate and place a fillet on top. Sprinkle each fillet with about 1 tablespoon of the chopped pecans.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Trout, redfish, or other firm-fleshed fish fillets — 6 (4 oz. each)
+
+**🛒 General grocery**
+
+- 🛒 Milk — ½ cup
+- 🛒 Egg — 1
+- 🛒 Salt, onion powder, sweet paprika, ground red pepper (cayenne), white pepper, garlic powder, black pepper, dry mustard, dried oregano, dried thyme — for the seasoning mix
+- 🛒 All-purpose flour — 1 cup
+- 🛒 Vegetable oil for pan frying
+- 🛒 Pecans, dry roasted — 6 Tbsp coarsely chopped, for garnish
+- Plus everything for [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) and [§4.20 Meunière Sauce](#420-meunière-sauce) — see their own grocery lists
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,600 | 415 g | 160 g | 60 g | 7 g |
+| **Per serving** *(serves 6)* | ~765 | 69 g | 27 g | 10 g | 1 g |
+
+**What a serving is:** one 4 oz. pan-fried fish fillet, plated over a scant ⅓ cup Meunière Sauce, topped with a scant 2 Tbsp Pecan Butter Sauce and a sprinkle of chopped pecans — a full plated entrée.
+
+*Includes a full batch each of [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) and [§4.20 Meunière Sauce](#420-meunière-sauce), since 6 servings uses essentially all of both — the numbers work out almost exactly against each sauce's own yield. Both sauces are heavy on butter, which is most of the fat total here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 69–71, Color picture 11). Zucchini shells stuffed with a slow-baked crabmeat-and-shrimp-or-crawfish filling, topped with fried zucchini "balls" scooped from the same zucchini, and finished with a seafood cream sauce. The **eighth** recipe in this cookbook to need Basic Seafood Stock — resolved via [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood).
+
+> *"The zucchini shells and pulp can be prepared ahead of time and refrigerated until ready to use."* — per the source.
+
+**Yield:** 6 servings
+
+**🟡 Medium** · **Prep ~35 min** · **Cook ~2 hr** *(most of it is a 450° oven bake, checked and built on every 10–15 minutes rather than fully hands-off)* · **Start to finish ~2 hr 35 min**
+
+**Techniques used:** [T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) — *for the Basic Seafood Stock*
+
+#### A. Ingredients
+
+- 10 (5- to 6-inch) zucchini, **in all**
+- 1¼ cups minced celery
+- 1 cup minced onions
+- 1 cup minced green bell peppers
+
+**Seasoning mix**
+
+- 1½ tsp salt
+- ¾ tsp sweet paprika
+- ½ tsp black pepper
+- ¼ tsp white pepper
+- ¼ tsp onion powder
+- ¼ tsp garlic powder
+- ¼ tsp dry mustard
+- ¼ tsp ground red pepper, preferably cayenne
+- ¼ tsp gumbo filé (filé powder), optional
+- Pinch of dried sweet basil leaves
+- Pinch of dried thyme leaves
+
+- ⅜ lb (1½ sticks) margarine, **in all**
+- 4 Tbsp unsalted butter
+- 1 Tbsp minced garlic
+- 3 bay leaves
+- 3 cups, **in all**, Basic Seafood Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+- 1 cup very fine dry bread crumbs, **in all**
+- ½ cup finely chopped green onions
+- ½ tsp white pepper
+- ½ tsp ground red pepper, preferably cayenne
+- ½ lb, **in all**, peeled shrimp or crawfish tails, coarsely chopped
+- 6 oz, **in all**, crabmeat (picked over) or fish, cut in small pieces
+- ½ cup chopped onions
+- 3½ Tbsp unsalted butter, softened
+- 2 Tbsp all-purpose flour
+- 1 cup heavy cream
+- Vegetable oil for frying
+
+#### B. Cooking Instructions
+
+**1. Cut and hollow the zucchini shells; grate the rest of the pulp. Can be done ahead and refrigerated.**
+Cut 6 of the zucchini in half lengthwise, leaving up to ¾ inch of the stem on. Cut a thin slice from the rounded side of each half so it sits level. Scoop out 36 small balls of the pulp with a melon baller and reserve — these become the fried garnish later. With the melon baller or a teaspoon, carefully remove the remaining pulp, leaving a ⅛-inch shell. Coarsely grate enough of the pulp to obtain 6 cups; you'll need the remaining 4 whole zucchini too, to have enough.
+
+**2. Combine the vegetable mix and the seasoning mix, each in its own bowl.**
+Thoroughly combine the celery, minced onions, and bell peppers in a medium-size bowl and set aside. In a small bowl, combine the seasoning mix ingredients; mix well and set aside.
+
+**3. Brown half the vegetables in margarine and butter, then add garlic, bay leaves, and the rest of the margarine. About 12 minutes.**
+In a large ovenproof skillet, melt 4 tablespoons of the margarine and the 4 tablespoons butter over high heat. Add about half the vegetable mixture and sauté about 2 minutes, stirring occasionally. Stir in the garlic, bay leaves, the remaining 1 stick margarine, and 1 tablespoon of the seasoning mix. Cook until the mixture browns, about 10 minutes, stirring occasionally.
+
+**4. Add the rest of the vegetables and 5 cups of the grated zucchini. About 2 minutes.**
+Stir well, scraping the pan bottom, and continue cooking about 2 minutes, stirring occasionally.
+
+**5. Bake the stuffing in a 450° oven, building it in three stages. About 1 hour 5 minutes total.**
+Place the skillet in a 450° oven and bake until the surface is somewhat oily and the edges are browned and crispy, about 20 minutes. Stir in 1 cup of the stock and continue baking until oil has reappeared on the surface, about 15 minutes. Sprinkle ½ cup of the bread crumbs onto the oil, then stir well into the mixture, and continue baking 15 minutes. Stir in the remaining bread crumbs and cook 15 minutes more, stirring once after 10 minutes.
+
+**6. Finish the filling and stuff the shells. Bake 15 minutes.**
+Remove from the oven and discard the bay leaves. Stir in the green onions, the white and red peppers, half the shrimp or crawfish, and half the crabmeat or fish. Fill the zucchini halves with 3 to 4 tablespoons of this stuffing and place in a single layer in an ungreased baking pan just big enough for the shells to fit snugly — about 13x9 inches. Bake at 450° for 15 minutes.
+
+**7. Start the sauce while the stuffing is in the oven: reduce stock, zucchini, and onions. About 15 minutes.**
+Begin this as soon as the stuffing skillet goes into the oven. In a 1-quart saucepan, combine the remaining 2 cups stock, the remaining 1 cup grated zucchini, and the chopped onions. Bring to a boil over high heat and continue boiling until the vegetables are soft and the liquid has reduced some, about 15 minutes, stirring occasionally. Set aside.
+
+**8. Thicken the sauce and finish it with cream and the rest of the seafood. About 2 minutes.**
+In a small bowl, combine the 3½ tablespoons softened butter and the flour with a fork until smooth. Return the stock mixture to high heat and whisk in the flour mixture by spoonfuls, whisking in each addition with a metal whisk until dissolved. Add the cream, the remaining seasoning mix, and the remaining shrimp or crawfish. Bring to a slow boil, whisking constantly, then reduce heat and simmer 1 minute, whisking almost constantly. Stir in the remaining crabmeat or fish and cook 1 minute more, whisking constantly. Remove from heat and set aside.
+
+**9. Fry the reserved zucchini balls. 1 to 2 minutes per side.**
+Five minutes before the zucchini are done, heat the serving plates in a 250° oven. Meanwhile, in a 2-quart saucepan, heat ¼ inch oil to about 350°. Fry the zucchini balls until brown, about 1 to 2 minutes per side. Drain on paper towels.
+
+**10. Plate and serve.**
+Place 2 zucchini halves on each heated serving plate. Arrange 3 fried zucchini balls on each half and top with about ½ cup seafood cream sauce, pouring most of the sauce onto the plate so the stuffed zucchini shows through it. Serve immediately.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Peeled shrimp or crawfish tails — ½ lb
+- 🏪 Crabmeat (picked over) or fish — 6 oz
+- 🏪 Basic Seafood Stock — 3 cups, *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+
+**🛒 General grocery**
+
+- 🛒 Zucchini — 10 (5- to 6-inch)
+- 🛒 Celery, onions, green bell peppers, green onions
+- 🛒 Margarine — ⅜ lb (1½ sticks)
+- 🛒 Unsalted butter — 4 Tbsp + 3½ Tbsp
+- 🛒 Garlic
+- 🛒 Bay leaves
+- 🛒 Very fine dry bread crumbs — 1 cup
+- 🛒 White pepper, ground red pepper (cayenne) — extra, beyond the seasoning mix
+- 🛒 All-purpose flour — 2 Tbsp
+- 🛒 Heavy cream — 1 cup
+- 🛒 Vegetable oil for frying
+- 🛒 Salt, sweet paprika, black pepper, white pepper, onion powder, garlic powder, dry mustard, ground red pepper (cayenne), dried sweet basil, dried thyme — for the seasoning mix
+- 🛒 Gumbo filé (filé powder) — optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,720 | 390 g | 125 g | 190 g | 30 g |
+| **Per serving** *(serves 6)* | ~785 | 65 g | 21 g | 32 g | 5 g |
+
+**What a serving is:** 2 stuffed zucchini halves plus 3 fried zucchini balls, topped with about ½ cup seafood cream sauce — a full plated entrée.
+
+*1½ sticks of margarine, two more butter additions, and a cup of heavy cream make this a genuinely rich dish despite the zucchini base — most of the fat total comes from those, not the seafood.*
 
 [↑ Table of Contents](#table-of-contents)
 

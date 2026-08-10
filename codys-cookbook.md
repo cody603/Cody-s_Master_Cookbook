@@ -167,11 +167,11 @@ Click any recipe to jump straight to it.
 - [7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ✅ ❤️
 - [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅ ❤️
 - [7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ✅ ❤️
-- [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅
+- [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅ 👍
 - [7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) ✅
 - [7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) ✅
 - [7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) ✅
-- [7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) ✅ 👍
+- [7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) ✅
 - [7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) ✅
 - [7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) ✅ 🔖
 
@@ -196,12 +196,13 @@ Click any recipe to jump straight to it.
 - [9.7 Chicken Salad](#97-chicken-salad) ✅ ❤️
 - [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ○ ❤️
 - [9.9 Shrimp Remoulade](#99-shrimp-remoulade) ✅ ❤️
-- [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅
+- [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅ 🔖
 - [9.11 Melba Toasts](#911-melba-toasts) ✅
 - [9.12 Potted Crab](#912-potted-crab) ✅
 - [9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) ✅
 - [9.14 Smoked Salmon Butter](#914-smoked-salmon-butter) ✅
-- [9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) ✅ 🔖
+- [9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) ✅
+- [9.16 Deviled Eggs](#916-deviled-eggs) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -225,6 +226,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§9.16 Deviled Eggs](#916-deviled-eggs)** from **Canal House Cooks Every Day**, p. 71 — classic sieved-yolk deviled eggs with mayonnaise, sour cream, and Dijon, plus the source's own quick alternative, **"Buttered" Eggs**, folded in as a callout rather than a separate entry since it has no ingredient list of its own. Notes the same open reference as [§9.15](#915-anchovy--lemon-butter): **Preserved Lemon (source page 294) still isn't transcribed**, now referenced by two recipes. **Also caught and fixed real TOC/body mismatches found while editing this section — not something this batch introduced, just finally noticed, and not limited to §9:** [§9.10 Crabmeat Avery](#910-crabmeat-avery) is rated 🔖 in its own body text but was missing that marker in the Table of Contents, while [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) had a 🔖 marker in the TOC despite carrying no rating at all in its body. Running the same check across the whole file turned up a second pair: [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) is rated 👍 in its body but was missing the TOC marker, while [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) had a stray 👍 in the TOC despite never actually being rated by Cody. All four fixed. **Worth flagging for future validation passes:** the aggregate-count check this cookbook has been using (body rating count = TOC marker count) can't catch a swap like this, where one recipe is missing a marker and a different one has an extra of the same type — the totals still balance either way. A per-recipe body-vs-TOC comparison is the real check, and it's now been run once across the whole file. |
 | 2026-08-10 | **Five more from Canal House Cooks Every Day — turns out the previous batch didn't close out the source after all.** [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) — a whole cut-up chicken browned then braised with garam masala, fennel seed, ginger, and cauliflower. Three asparagus recipes from the same source page and neighboring pages: [§5.15 Roasted Asparagus](#515-roasted-asparagus) (oven-roasted with shaved parmigiano and aged balsamic), [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) (a yolk-and-butter emulsion the source itself calls "a very light hollandaise," rated Medium rather than Hard alongside [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) since it comes with its own built-in save), and [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) — **all three explicitly kept separate from [§5.2 Asparagus](#52-asparagus)**, which is Cody's own still-undocumented go-to method, not this source. Also added [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream), added last per Cody's instruction to sequence it after the others. **Cody gave a blanket verdict covering this whole batch** — *"we haven't tried these yet but heard they were delicious"* — so all five are tagged 🔖 Want to try, alongside [§4.59 Tonnato Sauce](#459-tonnato-sauce); Family Ratings Index now shows 19 want-to-try entries. **Not retroactively applied to earlier Canal House entries** (§4.52–§4.58, §7.34–§7.38) since Cody's comment wasn't confirmed to cover those specifically — flagged as worth a direct check rather than assumed. **One flagged gap:** the Pickled Beets' horseradish-cream mixing step was hard to read from a steep-angle photo: reconstructed from the printed ingredient list (no sugar or vinegar in that component) rather than transcribed word-for-word, and logged as an Open Question. The asparagus-on-pasta intro paragraph was similarly hard to read and is paraphrased rather than quoted directly. |
 | 2026-08-10 | **Two more from Canal House Cooks Every Day, closing out this source for now.** [§4.59 Tonnato Sauce](#459-tonnato-sauce) — written up **as a standalone sauce rather than a tomato recipe**, per Cody's explicit instruction (*"make it so that you can add it to other things too... it looks more like a white sauce"*): a yolk-and-oil emulsion built the same way as [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one), then run through a tuna-anchovy-caper purée and sieved smooth. The source's own serving list — boiled potatoes, grilled chicken, steamed vegetables hot or cold, with tomatoes as just one option — is called out explicitly; T16's own "Used in" line now points back at it. **Rated 🔖 Want to try**, per *"it comes with high praise but we haven't tried it yet"* — added to the Family Ratings Index, now 14 want-to-try entries. Also added **[§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)** — dry-brined pork shoulder, rubbed with a chopped anchovy-herb paste, browned, then covered and braised at 300°F for about 3 hours until fork-tender, served with a garlic-oregano-parsley-lemon salmoriglio passed at the table. **A possible grill adaptation is flagged as Cody's own idea, clearly marked as untested and not from the source** — per *"we might be able to do this on the grill as well."* Left unrated since Cody didn't give this one a verdict the way he did the tonnato sauce. |
 | 2026-08-10 | Added three more from **Canal House Cooks Every Day**: [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) and [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four), which **close a loop from the previous batch** — [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) named these two exact recipes as its pairing before either was transcribed; both are now written up and cross-linked back. Also added [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) (p. 112) — brined 2 hours, double-dredged for extra crunch, and deep-fried in 2 inches of oil, with the source's own trick of draining on a wire rack rather than paper towels alone. All three transcribed clean, no gaps. |
@@ -365,6 +367,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
+| [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
 | [§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
@@ -463,7 +466,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 66 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 67 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -10566,6 +10569,76 @@ Put the butter into a bowl or the bowl of a food processor. Add the anchovy file
 | **Per serving** *(1 Tbsp, of 16)* | ~108 | 11.5 g | 1.3 g | 0.1 g | 0 g |
 
 **What a serving is:** 1 Tbsp on a cracker or a [melba toast](#911-melba-toasts) — a cocktail-hour bite, per the source.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.16 Deviled Eggs
+
+Transcribed from **Canal House Cooks Every Day**, p. 71 — a different page from the [§9.11](#911-melba-toasts)–[§9.15](#915-anchovy--lemon-butter) cocktail spread, but the same kind of make-ahead cocktail food. *"For us, summer is big-time egg season. We always keep a dozen hard-boiled eggs in the fridge so we can quickly whip up some of these beauties. Deviled eggs stand on their own but we often embellish the tops with a dab of something savory — like harissa (Tunisian chile-spice sauce), a fat cooked asparagus tip, shards of crisp bacon, chopped ham, prosciutto, a small spoonful of salmon roe, or a thin slice of cornichon."*
+
+> The source's margin note: *"June 3rd, 77°, southerly winds."*
+
+**References Preserved Lemon (source page 294), not yet transcribed here** — same open reference as [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter).
+
+**Yield:** makes 12 halves
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(assumes eggs are already hard-boiled — add lead time to boil and cool them if starting from raw)*
+
+#### A. Ingredients
+
+- 6 hard-boiled eggs, peeled
+- ½ cup mayonnaise
+- 1 Tbsp sour cream
+- 1 tsp Dijon mustard
+- Salt and pepper
+
+**Garnish, per the source's own list — pick one or mix and match:**
+
+- Harissa (Tunisian chile-spice sauce)
+- A fat cooked asparagus tip
+- Shards of crisp bacon
+- Chopped ham or prosciutto
+- A small spoonful of salmon roe
+- A thin slice of cornichon
+- Pimentón, a parsley leaf, or finely chopped fresh chives
+
+#### B. Cooking Instructions
+
+**1. Halve the eggs and separate yolks from whites.**
+Cut the hard-boiled eggs in half lengthwise. Set the whites aside. Pop the yolks out right into a fine sieve set over a bowl.
+
+**2. Press the yolks through the sieve.**
+Using a rubber spatula, press the yolks through into the bowl.
+
+**3. Fold in the mayonnaise, sour cream, and mustard.**
+Season with salt and pepper, and pulse everything together (in a food processor, or by hand) several times until the yolks are as smooth as you like.
+
+**4. Fill and garnish.**
+Use 2 tsp of filling to fill each egg white. Garnish as you like — even something as simple as a dash of pimentón, a parsley leaf, or a scattering of finely chopped fresh chives is enough.
+
+> **"Buttered" Eggs — the source's own quick alternative, folded in here rather than given its own entry, since it has no separate ingredient list.** *"Sometimes when we are too busy to make deviled eggs, we do something just as good. We simply 'butter' the cut sides of hard-boiled eggs with mayonnaise, arrange the eggs on a plate, and drizzle them with some good olive oil and a generous sprinkle of salt and pepper. We often garnish them with something: parsley, tarragon, or dill; or minced chives. Sometimes it's chopped Preserved Lemon rind (page 294), or bacon, thinly sliced ham, or chutney. These eggs are delicious and one of our favorite things to eat."* In short: skip the sieving and piping — just spread mayonnaise straight onto the cut sides of halved hard-boiled eggs, then oil, salt, pepper, and a garnish.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 6, for hard-boiling
+- 🛒 Mayonnaise — ½ cup
+- 🛒 Sour cream — 1 Tbsp
+- 🛒 Dijon mustard — 1 tsp
+- 🛒 Salt, pepper
+- 🛒 Garnish of choice — harissa, bacon, ham, prosciutto, salmon roe, cornichon, pimentón, parsley, or chives
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(12 halves, eggs + filling only)* | ~1,220 | 118 g | 37 g | 7 g | 0 g |
+| **Per serving** *(2 halves, of 6)* | ~205 | 20 g | 6 g | 1 g | 0 g |
+
+**What a serving is:** 2 egg halves — one whole egg's worth, a normal deviled-egg-plate portion. Figures above don't include garnish, which varies by what's on hand.
 
 [↑ Table of Contents](#table-of-contents)
 

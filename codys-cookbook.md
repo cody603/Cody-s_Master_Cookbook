@@ -77,6 +77,7 @@ Click any recipe to jump straight to it.
   - [4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter) ✅
   - [4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) ✅
   - [4.58 Pimentón Butter](#458-pimentón-butter) ✅
+  - [4.59 Tonnato Sauce](#459-tonnato-sauce) ✅ 🔖
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -167,6 +168,7 @@ Click any recipe to jump straight to it.
 - [7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) ✅
 - [7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) ✅
 - [7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) ✅ 👍
+- [7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -218,6 +220,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Two more from Canal House Cooks Every Day, closing out this source for now.** [§4.59 Tonnato Sauce](#459-tonnato-sauce) — written up **as a standalone sauce rather than a tomato recipe**, per Cody's explicit instruction (*"make it so that you can add it to other things too... it looks more like a white sauce"*): a yolk-and-oil emulsion built the same way as [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one), then run through a tuna-anchovy-caper purée and sieved smooth. The source's own serving list — boiled potatoes, grilled chicken, steamed vegetables hot or cold, with tomatoes as just one option — is called out explicitly; T16's own "Used in" line now points back at it. **Rated 🔖 Want to try**, per *"it comes with high praise but we haven't tried it yet"* — added to the Family Ratings Index, now 14 want-to-try entries. Also added **[§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)** — dry-brined pork shoulder, rubbed with a chopped anchovy-herb paste, browned, then covered and braised at 300°F for about 3 hours until fork-tender, served with a garlic-oregano-parsley-lemon salmoriglio passed at the table. **A possible grill adaptation is flagged as Cody's own idea, clearly marked as untested and not from the source** — per *"we might be able to do this on the grill as well."* Left unrated since Cody didn't give this one a verdict the way he did the tonnato sauce. |
 | 2026-08-10 | Added three more from **Canal House Cooks Every Day**: [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) and [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four), which **close a loop from the previous batch** — [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) named these two exact recipes as its pairing before either was transcribed; both are now written up and cross-linked back. Also added [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) (p. 112) — brined 2 hours, double-dredged for extra crunch, and deep-fried in 2 inches of oil, with the source's own trick of draining on a wire rack rather than paper towels alone. All three transcribed clean, no gaps. |
 | 2026-08-10 | **New source: Canal House Cooks Every Day (Christopher Hirsheimer and Melissa Hamilton) — 13 recipes across §4, §7, and §9.** [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto), a butterflied, rolled, and grilled flank steak with an olive-and-anchovy pesto; two Italian "building block" sauces, [§4.52 Balsamella](#452-balsamella) and [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce); a proper [§4.54 Ragù Bolognese](#454-ragù-bolognese) with two named pasta variations folded in; four compound butters built for steak, [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter); and a five-recipe cocktail spread — [§9.11 Melba Toasts](#911-melba-toasts) as the base, then [§9.12 Potted Crab](#912-potted-crab), [§9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper), [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter), and [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), all four cross-linked back to the toast that carries them. **A name collision handled deliberately, not silently:** [§4.56](#456-canal-house-lemon-butter) is called "Canal House Lemon Butter" rather than plain "Lemon Butter," since [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) already exists from *Louisiana Kitchen* — same name, genuinely different preparation (a boiled sauce vs. a cold compound butter), so both stay rather than one overwriting the other. **[§4.54 Ragù Bolognese is rated 🟢 Easy despite a 6–7 hour simmer** — same reasoning as [§1 Pho](#1-codys-pho): nothing in the method can fail, the meat is deliberately kept pale rather than seared, and the long simmer is unattended, so it's a distance run rather than a technical climb. A nice period detail carried over from the source: Canal House recipes are each dated with a weather note in the margin — this one reads *"June 16th, 79°, clear still day."* |
 | 2026-08-10 | **[§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) substantially corrected and rewritten — the previous version had the technique wrong.** Cody explained the method properly and it is **not** a velveting/texture technique, which is what Claude had inferred a round earlier. It's a **deodorizer**: raw whole eggs cracked over fish or shellfish that smells fishy out of the bag, mixed through in a colander in the sink, left **7–15 minutes**, then **rinsed off completely** — the rinse is the step that actually removes the off-flavor. Renamed from *"(for Shrimp)"* to *"(Deodorizing Fish & Shellfish)"* since it applies to **any** fish or shellfish — salmon, catfish, crawfish, shrimp — and all links repointed. **Every one of the four Open Questions is now answered by Cody directly:** whole eggs, not just whites; 7–15 minutes with **15 as a hard ceiling** *(past that it starts pulling out the flavor of the fish itself)*; rinse thoroughly, **unless** you're frying and the egg is doing double duty as batter; and it **does not work for ceviche**, which he ruled out explicitly — so [§7.22](#722-captain-mikes-ceviche) now carries that as a note. Added a new trigger section built on **the smell test** — no fish smell means skip it entirely. The mechanism is rewritten around **trimethylamine**, the compound behind fishy smell, and the well-established **milk-soak** parallel (proteins bind the volatile amines; the rinse carries them away), which also explains why over-soaking backfires. **The original wrong reasoning is left in place as a marked correction** rather than quietly swapped out — it's a clean example of a plausible-sounding inference pointing the wrong way. Wired into [§7.2](#72-boiled-shrimp-with-tonys) and [§7.10](#710-cilantro-lime-shrimp), the two recipes Cody names for it. |
@@ -376,6 +379,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
 | [§9.12 Potted Crab](#912-potted-crab) | 🟢 | 15 min | 5 min | — | 4 hr 20 min *(3+ hr chill, 1 hr temper)* |
+| [§4.59 Tonnato Sauce](#459-tonnato-sauce) 🔖 | 🟡 | 20 min | — | — | 20 min |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
@@ -399,6 +403,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
+| [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
@@ -447,7 +452,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 63 recipes**, including nearly all of §4's now-51 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 64 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -496,25 +501,26 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 [§5.3 Squash](#53-squash) *(if it's cooked right)* · [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 · [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 · [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) · [§5.14 Grilled Corn](#514-grilled-corn) · [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.7 Chicken Livers](#77-chicken-livers) *(split verdict)* · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) · [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *(split verdict)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑
 
-### 🔖 Want to try — 13
+### 🔖 Want to try — 14
 
 **Every one of these is written up and ready to cook.** This is the shortlist.
 
-[§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) · [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 · [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) · [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue) · [§7.27 Panéed Veal](#727-panéed-veal-with-czarina-sauce) · [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) · [§9.10 Crabmeat Avery](#910-crabmeat-avery) · [§11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) · [§11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) 🥑 · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑
+[§4.59 Tonnato Sauce](#459-tonnato-sauce) · [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) · [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 · [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) · [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue) · [§7.27 Panéed Veal](#727-panéed-veal-with-czarina-sauce) · [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) · [§9.10 Crabmeat Avery](#910-crabmeat-avery) · [§11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) · [§11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) 🥑 · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑
 
 ### Reading this index
 
-**Eight of the thirteen want-to-try recipes are Cajun or seafood — and all eight are from *Louisiana Kitchen*.** That's not a coincidence; it's the backlog from transcribing that book faster than anyone could cook out of it. The other five are the two keto quick breads, the keto muffins, the low-carb fried chicken, and the fried zucchini.
+**Eight of the fourteen want-to-try recipes are Cajun or seafood — and all eight are from *Louisiana Kitchen*.** That's not a coincidence; it's the backlog from transcribing that book faster than anyone could cook out of it. The other six are the two keto quick breads, the keto muffins, the low-carb fried chicken, the fried zucchini, and [§4.59 Tonnato Sauce](#459-tonnato-sauce) — the one Canal House entry with a verdict so far, and the verdict is just "we haven't tried it yet."
 
 **The two split verdicts are worth naming.** [§7.7 Chicken Livers](#77-chicken-livers) — *"I love it, but I don't think my family likes it."* [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) — *"My family likes it. I think it's okay."* Exact opposites, and both worth knowing before you plan a menu around either one.
 
 **Three favorites depend on shrimp quality, not on the recipe.** [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), and [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) all got a rating with the same caveat attached — it's great *when the shrimp is fresh*, which in Missouri it usually isn't. **[§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)** is Cody's standing fix for the first two — but **not for the ceviche**, which he rules it out for explicitly. See [§T6](#t6-seafood-notes) on sourcing.
 
-**Still unrated: 57 written-up entries, plus a few stubs.** That breaks down cleanly, and most of it is expected rather than an oversight:
+**Still unrated: 58 written-up entries, plus a few stubs.** That breaks down cleanly, and most of it is expected rather than an oversight:
 
 - **44 of §4's sauces, rubs, and seasonings** — components rather than dishes, and it's fair that a mop sauce doesn't get a family verdict on its own.
 - **11 of the 17 techniques** — same reasoning; nobody rates a roux.
 - **[§7.13 Crawfish Elegante](#713-crawfish-elegante) and [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) — these two are the real gaps.** Both are full dishes, both came from Cody's own recipe cards, and both got skipped between §7.12 and §7.15 in the rating pass. Worth a verdict next round.
+- **[§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) — new this batch, not yet cooked.** Unlike its Canal House neighbor §4.59, Cody didn't say anything about this one specifically, so it stays unrated rather than assumed 🔖 — no verdict to put words in his mouth about.
 - **Unrated stubs:** [§5.6 Cauliflower](#56-cauliflower), [§5.9 Goat Cheese Salad](#59-goat-cheese-salad), [§7.4 Pork Chops](#74-pork-chops), [§9.2](#92-nuts)–[§9.4](#94-yogurt-seeds-and-peanut-butter), and [§10.1](#101-huevos-rancheros)–[§10.3](#103-bacon-and-eggs). §5.6 was the one vegetable skipped in a run that rated every other one.
 
 [↑ Table of Contents](#table-of-contents)
@@ -4268,6 +4274,91 @@ Transcribed from **Canal House Cooks Every Day**, the same compound-butter page 
 
 ---
 
+### 4.59 Tonnato Sauce
+
+Transcribed from **Canal House Cooks Every Day**, the same source as [§4.52](#452-balsamella)–[§4.58 Pimentón Butter](#458-pimentón-butter) and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.37](#737-the-fry-queens-fried-chicken). *"We love this sauce so much we spoon it on everything — boiled potatoes, grilled chicken, steamed summer vegetables hot or cold — but our very favorite is this beautiful ode to tomato season."* **Written up here as the sauce itself, not tied to tomatoes** — per Cody, this reads more like a savory white sauce that belongs on more than one dish; tomatoes are just the source's own favorite way to use it.
+
+> The source's margin note: *"July 11th, 90°, gentle breeze."*
+
+**Built the same way as [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one):** egg yolk, whisked oil added in a slow stream until it thickens into a glossy emulsion. This is that same base, then run through a purée of tuna, anchovy, capers, and garlic.
+
+**Yield:** about 1¼ cups
+
+**🟡 Medium** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min**
+
+**🔖 Want to try** — *Cody: "It comes with high praise but we haven't tried it yet."*
+
+#### A. Ingredients
+
+- 2 large egg yolks
+- Salt
+- Juice of ½ lemon, divided
+- ½ cup canola oil
+- ½ cup good "smooth and buttery" extra-virgin olive oil, plus a little extra for the tuna purée
+- 1 small can tuna packed in olive oil (about 2 oz)
+- 3 anchovy fillets
+- 1 Tbsp capers
+- 1 clove garlic
+- Pepper
+
+**For serving (optional — the source's own pairing):**
+
+- 2 lbs tomatoes, various types and sizes, sliced or halved
+- Small handful arugula leaves
+- Salt and pepper
+- Really good extra-virgin olive oil, for drizzling
+
+#### B. Cooking Instructions
+
+**1. Whisk the egg yolks with salt and half the lemon juice.**
+Do this in a measuring cup with a spout — it makes the next step easier. Combine both oils together in a separate measuring cup.
+
+**2. Whisk in the oil, a teaspoon at a time at first.**
+Whisking constantly, add the combined oil to the yolks about a teaspoon at a time. The sauce will slowly thicken and emulsify.
+
+**3. Once about ¼ cup of oil is in, drizzle in the rest.**
+Once you've added about ¼ cup of the oil and it's holding together, start drizzling in the remaining oil in a thin stream as you keep whisking, until you have a thick, glossy mayonnaise. Transfer it to a medium bowl.
+
+**4. Purée the tuna, anchovies, capers, and garlic.**
+Purée until smooth in a food processor, adding a little olive oil to help it along.
+
+**5. Push the purée through a sieve into the mayonnaise.**
+Use a rubber spatula to press it through — this is what keeps the sauce silky instead of chunky. Season to taste with the remaining lemon juice, salt, and pepper.
+
+**6. Chill.**
+Transfer to a covered container and refrigerate until ready to use. Keeps up to 1 week.
+
+> **To serve it the source's way:** spoon some sauce onto plates or a platter, arrange sliced or halved tomatoes on top, spoon on more sauce, scatter arugula over it, and finish with salt, pepper, and a drizzle of olive oil. But it's just as much at home on boiled potatoes, grilled chicken, or steamed summer vegetables, hot or cold — that's the source's own list, and the reason it's written up here as a standalone sauce rather than a tomato recipe.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 2 (yolks only)
+- 🛒 Lemon — 1
+- 🛒 Canola oil — ½ cup
+- 🛒 Good extra-virgin olive oil — ½ cup, plus more for drizzling
+- 🛒 Canned tuna packed in olive oil — 1 small can (about 2 oz)
+- 🛒 Anchovy fillets — 3
+- 🛒 Capers — 1 Tbsp
+- 🛒 Garlic — 1 clove
+- 🛒 Salt, pepper
+- 🛒 Tomatoes, various — 2 lbs *(if serving the source's way)*
+- 🛒 Arugula — a small handful *(if serving the source's way)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(sauce only, ~1¼ cups)* | ~1,110 | 121 g | 19 g | 3 g | 0.5 g |
+| **Per serving** *(2 Tbsp, of about 10)* | ~110 | 12 g | 2 g | 0.3 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to sauce a plate of sliced tomatoes, a chicken breast, or a bowl of boiled potatoes. Figures above are for the sauce alone; add whatever you're serving it on or with.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -5677,7 +5768,7 @@ Cook the cabbage for 1 to 1½ hours, using the indirect method. Add soaked wood 
 <!-- TECHNIQUE-TAGS: mayonnaise, emulsion, egg-yolk, formula, ratio -->
 **Tags:** `mayonnaise` · `emulsion` · `egg-yolk` · `formula` · `ratio`
 **Source:** presumably **Samin Nosrat's *Salt, Fat, Acid, Heat*** (illustrated by Wendy MacNaughton) — inferred from the hand-lettered illustration style and the name Cody gave it, not yet confirmed against an actual title page or ISBN
-**Used in:** no numbered recipe cites it yet, but [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) and several other sauces in this cookbook start from store-bought mayonnaise and could be built on this instead
+**Used in:** [§4.59 Tonnato Sauce](#459-tonnato-sauce) is built on this same yolk-and-oil emulsion, then run through a tuna-anchovy purée. [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) and several other sauces in this cookbook start from store-bought mayonnaise and could be built on this instead.
 
 > **A ratio-based formula, not a fixed-batch recipe** — subtitled *"A Lesson in Fats & Emulsion"* on the source page. Scale the Golden Mayo Ratio up or down by the yolk.
 
@@ -8813,6 +8904,93 @@ Transfer the fried chicken to a wire rack set on top of paper towels to drain. S
 **What a serving is:** about 2½ pieces — a quarter of the whole bird, a generous fried-chicken dinner portion.
 
 *A genuinely rich number, and honestly so — this is deep-fried in 2 inches of oil with a double dredge, not lightly pan-fried. The brine is mostly discarded rather than eaten, so it isn't a caloric contributor, though it does mean this dish runs saltier than the ingredient list alone suggests.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.38 Roast Pork with Salmoriglio
+
+Transcribed from **Canal House Cooks Every Day**, the same book as [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.37](#737-the-fry-queens-fried-chicken). *"When we have the time, we like to 'dry brine' pork roasts, including crowns, loins, and bellies. It makes the meat more flavorful and juicy. Wet brines that soak the meat in a bath of salted water (and sometimes additionally seasoned with sugar and spices) do the same thing, of course, but we find them cumbersome — it's always a dilemma finding a large enough pot and then room in the fridge."*
+
+> The source's margin note: *"April 7th, 49°, overcast."*
+
+**Yield:** serves 6–8
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~15 min** *(browning)* · **Slow cook ~3 hr** *(covered braise, oven)* · **Start to finish ~3 hr 35 min** *(plus at least 1 hr dry-brine lead time — can go as long as overnight)*
+
+#### A. Ingredients
+
+**For the roast pork**
+
+- 1 boneless pork shoulder or butt, 3–4 lbs
+- ½ cup salt
+- ½ cup sugar
+- Small handful fresh oregano leaves
+- Small handful fresh thyme leaves
+- 6 anchovy fillets
+- Pepper
+- 2 Tbsp olive oil
+- ¼ cup water
+
+**For the salmoriglio**
+
+- 1–2 cloves garlic, minced
+- Small handful fresh oregano leaves, finely chopped
+- Small handful fresh parsley leaves, finely chopped
+- Juice of 2 lemons
+- 1 cup extra-virgin olive oil
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Dry-brine the pork. At least 1 hour, up to overnight.**
+Place the pork in a wide dish and coat it all over with the salt and sugar. Cover with plastic wrap and refrigerate.
+
+**2. Make the herb-anchovy paste, and rub it on.**
+Preheat the oven to 300°F. Uncover the pork and brush off any residual salt and sugar. Pile the oregano, thyme, anchovies, and a pinch of salt and pepper on a cutting board and finely chop it all together into a paste. Rub the paste all over the meat.
+
+**3. Brown the pork. About 10 minutes.**
+Heat the olive oil in an enameled cast-iron or other heavy wide pot with a lid, over medium heat. Add the pork and brown it on all sides.
+
+**4. Add water, cover, and braise in the oven. About 3 hours, until fork-tender.**
+Add the ¼ cup water to the pot, cover, and transfer to the oven. Roast until the pork is fork-tender.
+
+**5. Make the salmoriglio.**
+Put the garlic, oregano, parsley, and lemon juice in a medium bowl and stir in the olive oil. Season to taste with salt and pepper.
+
+**6. Slice and serve, with the pan juices and the salmoriglio passed at the table.**
+Slice the meat and arrange it on a warm platter with some of the juices from the pot spooned over. Pass the bowl of salmoriglio separately, for spooning over each serving.
+
+> **Cody's idea — untested, not from the source:** this might adapt well to the grill — dry-brine and rub the same way, then cook over indirect heat with a drip pan under the meat (the ¼ cup water could go in the drip pan instead of the pot) until it's fork-tender, the same target the oven method is chasing. This hasn't been tried yet, so treat it as a starting point rather than a proven method — the oven version above is the one that's actually been printed and tested.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Boneless pork shoulder or butt — 3–4 lbs
+
+**🛒 General grocery**
+
+- 🛒 Salt — ½ cup, plus more to season the salmoriglio
+- 🛒 Sugar — ½ cup
+- 🛒 Fresh oregano — enough for two small handfuls (rub + salmoriglio)
+- 🛒 Fresh thyme — a small handful
+- 🛒 Fresh parsley — a small handful
+- 🛒 Anchovy fillets — 6
+- 🛒 Garlic — 1–2 cloves
+- 🛒 Lemons — 2
+- 🛒 Olive oil — 2 Tbsp for browning, plus 1 cup for the salmoriglio
+- 🛒 Pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(pork + full batch of salmoriglio)* | ~4,700 | 413 g | 242 g | 8 g | 1 g |
+| **Per serving** *(serves 7)* | ~670 | 59 g | 35 g | 1 g | 0.1 g |
+
+**What a serving is:** about 5–6 oz of sliced pork with a generous 2–3 Tbsp of salmoriglio spooned over. The salmoriglio is mostly olive oil, so the per-serving fat number assumes the whole bowl gets used across the meal — use less and the number drops.
 
 [↑ Table of Contents](#table-of-contents)
 

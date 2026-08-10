@@ -190,6 +190,7 @@ Click any recipe to jump straight to it.
 - [8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ✅ ❤️
 - [8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ✅ ❤️
 - [8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ✅ ❤️
+- [8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -236,6 +237,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup)** from **Canal House Cooks Every Day**, p. 108 — a blended cold soup for a summer scorcher, the first chilled soup in §8 (everything else there is hot). Avocado, unpeeled cucumber, garlic, and chicken stock blended smooth, finished with lemon juice and salt, garnished with sour cream and hot sauce. The source's own advice to make it the same day it's served, so it keeps its pale green color, is called out rather than left buried in the method. |
 | 2026-08-10 | **First dessert in the cookbook, and a new top-level section for it: [§14 Desserts](#14-desserts), starting with [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler)** from **Canal House Cooks Every Day**, p. 92 — blackberries and raspberries under a chilled-cream biscuit topping, baked until bubbling. **Numbered 14, not 12** — inserting it earlier would have meant renumbering [§12 Recipes To Document](#12-recipes-to-document) and [§13 Meathead Cookbook](#13-meathead-cookbook) and breaking every existing link to them, so it's appended at the real next number instead, consistent with how every other section has been added this session. Noted that the source's own ingredient list uses only blackberries and raspberries, despite strawberries getting a mention in the intro as the season's first arrival — transcribed as printed rather than assumed to include a third berry. |
 | 2026-08-10 | Added **[§5.19 Brazilian Salad](#519-brazilian-salad)** — hearts of palm and tomato, dressed simply with good olive oil and red wine vinegar. **Not from a photographed cookbook page** — Cody dictated the recipe directly, so it's credited as his own rather than attributed to any source, per this cookbook's practice of never asserting a source that wasn't actually shown. |
 | 2026-08-10 | Added **[§T19 How to Boil an Egg (Canal House's Timing Guide)](#t19-how-to-boil-an-egg-canal-houses-timing-guide)** from **Canal House Cooks Every Day**, p. 70 — the technique page facing [§9.16 Deviled Eggs](#916-deviled-eggs), which references it. A doneness table by minutes (6 = soft-boiled, 9 = soft-yolk hard-boiled, 10 = the source's own default hard-boiled, 11 = firm-yolk hard-boiled), the boil-shock-peel method, and the source's own fix for why very fresh eggs peel badly (age them a week, or add ¼ cup kosher salt to the water in a pinch). **Both [§9.16 Deviled Eggs](#916-deviled-eggs) and [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) now cross-link here** for their "6 hard-boiled eggs" rather than leaving the method unstated. **One flag, not smoothed over:** the source's own text says to use unpeeled hard-boiled eggs "within 4 hours" if not peeling right away — noticeably shorter than the usual ~1-week refrigerated shelf life for hard-boiled eggs — transcribed as printed and called out as an Open Question rather than silently corrected. |
@@ -378,6 +380,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | 🟢 | 5 min | 6–11 min | — | 15–20 min *(by desired doneness)* |
+| [§8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) | 🟢 | 15 min | — | — | 1 hr 15 min *(chills at least 1 hr)* |
 | [§5.19 Brazilian Salad](#519-brazilian-salad) | 🟢 | 15 min | — | — | 25 min *(includes a 5–10 min rest)* |
 | [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑 | 🟢 | 5 min | 10 min | — | 15 min |
 | [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 | 🟢 | 15 min | — | *with the bird* | set by the bird |
@@ -487,7 +490,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 70 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 71 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -10309,6 +10312,67 @@ Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A
 
 - **No quantities given** — the card lists ingredients without amounts and has blank fields for oven temperature, time, and servings. All of the above is written at "to taste" / "as much as you need" scale until Cody can pin down real amounts.
 - **Whipping cream is listed but never used in the method.** Likely stirred in at the end, off the heat, the way cream usually finishes a soup like this — but that's a guess, not what the card says. Confirm before finalizing.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.8 Cold Avocado & Cucumber Soup
+
+Transcribed from **Canal House Cooks Every Day**, p. 108 — a summertime soup, cold rather than the smoked/braised style of the rest of §8. *"The recipe for this velvety cold soup is a hand-me-down, passed along from a West Coast friend to an East Coast friend, then on to us. And now it's our turn to pass this delicious, simple recipe — the impulse is to share a good thing."*
+
+> The source's margin note: *"July 8th, 98°, a scorcher."*
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~1 hr 15 min** *(includes chilling — the source says refrigerate until well chilled, no exact time given; plan on an hour or more)*
+
+#### A. Ingredients
+
+- 3 ripe, unblemished Hass avocados, pitted and peeled
+- 1 cucumber, unpeeled, cut up
+- 2 cloves garlic
+- 4 cups chicken stock
+- 3 Tbsp fresh lemon juice
+- Salt
+- Sour cream, for garnish
+- Hot pepper sauce, for garnish
+
+#### B. Cooking Instructions
+
+**1. Blend, in two batches so the blender isn't overcrowded.**
+Put the avocados, cucumber, garlic, chicken stock, and lemon juice into a blender and purée until smooth.
+
+**2. Season with salt.**
+
+**3. Refrigerate until well chilled.**
+
+**4. Serve garnished.**
+Serve in pretty glasses or chilled bowls, garnished with a dollop of sour cream and a dash of hot pepper sauce.
+
+> **Make it the same day you serve it, per the source** — the soup holds its pretty pale green color best that way.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Hass avocados — 3, ripe and unblemished
+- 🛒 Cucumber — 1
+- 🛒 Garlic — 2 cloves
+- 🛒 Chicken stock — 4 cups
+- 🛒 Lemon — for 3 Tbsp juice
+- 🛒 Salt
+- 🛒 Sour cream — for garnish
+- 🛒 Hot pepper sauce — for garnish
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~955 | 77 g | 16 g | 61 g | 32 g |
+| **Per serving** *(serves 4)* | ~240 | 19 g | 4 g | 15 g | 8 g |
+
+**What a serving is:** about 1 cup — a chilled soup cup or a pretty glass, per the source's own suggestion. The high fiber count is genuinely the avocado and unpeeled cucumber, not an estimating quirk.
 
 [↑ Table of Contents](#table-of-contents)
 

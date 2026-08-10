@@ -52,6 +52,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T11. How to Sauté (Master Technique for Sautéed Cuts)](#t11-how-to-sauté-master-technique-for-sautéed-cuts) ✅
   - [T12. Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) ✅
   - [T13. Basic Stock Formula (Fowl, Beef, Pork & Seafood)](#t13-basic-stock-formula-fowl-beef-pork--seafood) ✅
+  - [T14. How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 
 **Complete Recipes**
@@ -114,6 +115,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) ✅
 - [7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) ✅
 - [7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) ✅
+- [7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ✅
+- [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -160,6 +163,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Source confirmed: the new grilling cookbook is Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified from a clearly photographed ISBN. Retroactively credited on [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw), which had been citing it as unidentified. Added three more from the same book: **[§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo)** — filed as a technique formula rather than a numbered recipe, since the source itself never gives fixed mojo quantities, only a method (fry garlic, add citrus, reduce) and named citrus variations; **[§7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad)**, transcribed clean with no gaps; and **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze)**, which has a real hole — the photographed pages cut off mid-sentence in Step 2 and never showed Step 3 at all, so both are reconstructed from the source's paired "How to Grill Fish on the Skin" technique and flagged explicitly in Open Questions rather than presented as confirmed source text. |
 | 2026-08-10 | **§6 Smoked Meats gets its first real recipe.** Filled in the **[§6.2 Pulled Pork](#62-pulled-pork)** placeholder with **North Carolina Pulled Pork** — an indirect-grilled (or smoked) Boston butt, mopped hourly, from a newly photographed grilling/BBQ cookbook (Workman Publishing, title not yet confirmed). Added **[§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)** alongside it, and **[§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini)** from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 161–163) — a chicken counterpart to [§7.27](#727-panéed-veal-with-czarina-sauce) with its own mustard-catsup seasoning mix. **Two referenced pages from the new BBQ book aren't captured yet — Basic Barbecue Rub (page 441) and North Carolina Vinegar Sauce (page 448)** — both load-bearing (the rub seasons the pork, the vinegar sauce dresses both the pulled pork *and* the coleslaw), flagged prominently rather than guessed at in either recipe's Open Questions. §6.2 is this cookbook's first genuine grill/smoker Slow Cook entry, confirming the §3a prediction that the rest of §6 will land the same way. The Difficulty & Time Index's "slow-cook three" became "slow-cook four," and its 30-minutes-or-less list grew to 17. |
 | 2026-08-10 | Added four more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 77–80, 116–117, 139–140): **[§7.25 Sautéed Crawfish](#725-sautéed-crawfish)**, **[§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue)**, **[§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce)**, and **[§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant)**. All four read completely across their photographed pages — §7.26 in particular looked at first like another incomplete capture (its roux-and-vegetable step ends mid-recipe on p. 79), but a later photo in the same batch turned out to be its unlabeled continuation on p. 80, finishing the sauce and the fried mirliton shells. §7.26 is this cookbook's **seventh** recipe needing [§T1](#t1-how-to-make-a-roux)'s roux technique and rated 🔴 Hard for it — a genuine dark red-brown roux, not just a long recipe. §7.25 and §7.28 both cite **Basic Cooked Rice (page 224)**, not in this cookbook — the third and fourth recipes to hit that gap after [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); plain white rice noted as the substitute, same as there. **One real source gap flagged rather than papered over:** [§7.27](#727-panéed-veal-with-czarina-sauce)'s instructions call for "the 2 tablespoons oil and the salt" in the pasta water, but neither is in the source's own printed ingredient list — flagged in Open Questions instead of guessing an amount. Also worth noting: §7.27's sauce is called "Czarina Sauce" same as [§4.21](#421-czarina-sauce-with-shrimp-or-crawfish), but it's a different recipe (butter-cream-Parmesan here, no vegetables or shellfish) — not merged, just cross-noted. |
 | 2026-08-10 | Added three more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 54–55, 69–71): **[§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce)**, **[§7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce)** (which uses it, plated over the existing **[§4.20 Meunière Sauce](#420-meunière-sauce)**), and **[§7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce)** — the **eighth** recipe closed by **[§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**'s seafood variant, added to its "Used in" list. All three photos read cleanly with no garbled or ambiguous passages, confirmed against zoomed re-reads of the source pages rather than a single quick pass — no Open Questions needed on any of them. **Two items from the same photo batch intentionally not added**, same as Giblet Gravy's first incomplete photo earlier this session: "Fish with Hushpuppies" showed only its title, cut off before the ingredients; a final fragment showed the tail end of the zucchini recipe's serving instructions plus the first few lines of an unidentified shrimp recipe. Both wait on a follow-up photo. **Two pre-existing count bugs in the [Difficulty & Time Index](#difficulty--time-index)'s prose found and fixed while re-validating badge/index/nutrition counts for this batch:** the Hard-recipe summary said "five" and omitted [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), though it was correctly badged 🔴 and listed in the table all along — now "six," with §4.12 named alongside §T1/§8.3/§8.5 as the third roux-based Hard recipe; and the keto callout said "all four" beside its own correct "5 recipes" header — now "all five." Neither bug was introduced this round; both predate it. |
@@ -268,7 +272,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
+| [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
+| [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
+| [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) | 🟡 | 15 min | 15 min | — | 30 min *(+ 30 min–2 hr marinate)* |
 | [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
@@ -323,7 +330,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 17 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 20 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -2264,6 +2271,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | How to Sauté (Master Technique for Sautéed Cuts) | `saute` `dredge` `searing` `chicken-breast` `pork-chop` `fish-fillet` |
 | [T12](#t12-fast-homemade-chicken-broth) | Fast Homemade Chicken Broth | `broth` `stock` `rotisserie-chicken` `soup-base` `quick` |
 | [T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) | Basic Stock Formula (Fowl, Beef, Pork & Seafood) | `stock` `broth` `basic-stock` `seafood-stock` `chicken-stock` `formula` |
+| [T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | How to Grill Pork Tenderloin (Cuban Mojo) | `pork-tenderloin` `mojo` `cuban` `direct-grilling` `marinade` `formula` |
 
 ---
 
@@ -3484,6 +3492,94 @@ All of these cited a page-31 or page-32 "Basic [Something] Stock" as missing —
 
 ---
 
+### T14. How to Grill Pork Tenderloin (Cuban Mojo)
+
+<!-- TECHNIQUE-TAGS: pork-tenderloin, mojo, cuban, direct-grilling, marinade, formula -->
+**Tags:** `pork-tenderloin` · `mojo` · `cuban` · `direct-grilling` · `marinade` · `formula`
+**Source:** Steven Raichlen's *How to Grill* (Workman Publishing, 2001), p. 122–125 — the same book as [§6.2 Pulled Pork](#62-pulled-pork), [§7.30](#730-basil-grilled-tuna-with-arugula-salad), and [§7.31](#731-salmon-with-mustard-glaze)
+**Used in:** whatever pork tenderloin dish gets built on this — no numbered recipe cites it yet
+
+> **This is a technique article, not a boxed recipe — and that's true of the source too.** Unlike [§7.30](#730-basil-grilled-tuna-with-arugula-salad) and [§7.31](#731-salmon-with-mustard-glaze), which sit under a red "THE RECIPE" bar with an exact ingredient list, this spread never gets one. The source's own mojo instructions stay at the level of *"fry the garlic... add the orange juice and lime juice"* — no cup or tablespoon measurements anywhere across either photographed page. That's presented here as a **formula**, the same way [§T8 Pan Sauce](#t8-pan-sauce-formula) is a formula rather than a fixed recipe — season and adjust the citrus to taste rather than treating any specific ratio as authoritative.
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~15 min** · **Start to finish ~30 min** *(plus 3–12 hr marinating — lead time, not cooking)*
+
+> **Per the source:** *"One of the best-kept secrets of barbecue, pork tenderloin is as tender and tasty as beef tenderloin — at a fraction of the price. It looks great and readily absorbs the flavors of rubs and marinades. And its large ratio of surface area to meat guarantees a scrumptious crust."* Raichlen serves his Cuban-style version — mojo-marinated — with grilled plantains and black beans.
+
+#### A. The Mojo (Formula)
+
+- Garlic, fried until lightly browned
+- Fresh lime juice
+- Fresh orange juice
+- *(no fixed ratio given — see the callout above)*
+
+**Variations named in the source, same method, different citrus:**
+
+| Style | Swap in |
+|---|---|
+| Traditional | *Naranja agria* (sour orange) — hard to find fresh in most U.S. markets |
+| Raichlen's approximation | Fresh lime juice **and** fresh orange juice, mixed |
+| Grapefruit mojo | Fresh grapefruit juice and lime juice |
+| Tangerine mojo | Lime juice and tangerine juice |
+
+**1. Fry the garlic until lightly browned.**
+
+**2. Add the orange juice and lime juice and bring the mojo to a boil.**
+
+#### B. Prepare the Meat
+
+**1. Pull off the silverskin.**
+Pork tenderloin comes sheathed in a silvery skin of sinew. Ease a knife under it and trim it away from the meat.
+
+**2. Cut and fold the tail into a cylinder.**
+Make a ½-inch-deep cut in the tail of the tenderloin, working toward the head, about 3 inches from the end. Fold the tail over onto itself — this gives the tenderloin a neat, cylindrical shape that cooks evenly end to end, since a tenderloin naturally tapers to a long, thin tail that would otherwise overcook long before the thick end is done.
+
+**3. Tie the tail, then the head, with butcher's string.**
+
+#### C. Marinate and Grill
+
+**1. Marinate. 3 to 12 hours.**
+Spoon half of the mojo over the pork as a marinade. Reserve the remaining half to serve as a sauce at the table — **never reuse marinade that raw pork sat in as a serving sauce.**
+
+**2. Set up the grill for direct grilling.**
+Charcoal: light the coals in a chimney starter, then rake the burning coals into an even layer with a garden hoe or other long-handled tool. Preheat to high.
+
+**3. Grill, turning to cook all four sides. 12 to 16 minutes total.**
+Grill the tenderloin, turning it to sear each of its four sides, about 3 to 4 minutes per side for medium.
+
+**4. Test for doneness with the poke test.**
+Steady the pork with tongs and press it with a finger. Cooked to medium, it will be just slightly yielding to the touch — not soft, not hard.
+
+> **Onion garnish, per the source:** thread onion rings onto slender bamboo skewers to hold them together on the grate, and grill alongside the tenderloin.
+
+#### D. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Pork tenderloin
+
+**🛒 General grocery**
+
+- 🛒 Garlic
+- 🛒 Fresh limes and oranges *(or grapefruit, or tangerine — see the variation table above)*
+- 🛒 Butcher's string
+- 🛒 Bamboo skewers *(for the onion garnish)*
+- 🛒 Onions *(for the grilled onion garnish)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(1 typical 1–1½ lb tenderloin)* | ~750 | 22 g | 125 g | 8 g | 0.3 g |
+| **Per serving** *(serves 4, about 5–6 oz. cooked each)* | ~190 | 5.5 g | 31 g | 2 g | 0.1 g |
+
+**What a serving is:** about 5 to 6 oz. of sliced pork tenderloin with a spoonful of reserved mojo sauce.
+
+*Pork tenderloin is one of the leanest cuts available — most of this is protein. The mojo itself is negligible calorically since no fixed quantity is specified; figures above are for the meat only. Onion and plantain sides, if served per the source's own suggestion, aren't included.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -3735,7 +3831,7 @@ Whatever dressing doesn't fit as filling goes into the roasting pan alongside th
 
 ### 5.13 North Carolina Coleslaw
 
-Transcribed from the same photographed grilling/BBQ cookbook as [§6.2 Pulled Pork](#62-pulled-pork) — source not yet fully identified. A plain vinegar slaw, no mayonnaise, built to top a pulled pork sandwich.
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), the same source as [§6.2 Pulled Pork](#62-pulled-pork) — see that recipe's note on how the source was confirmed. A plain vinegar slaw, no mayonnaise, built to top a pulled pork sandwich.
 
 > ⚠️ **Depends on North Carolina Vinegar Sauce (page 448), which isn't in this cookbook yet** — same missing page as [§6.2](#62-pulled-pork). See that recipe's Open Questions.
 
@@ -3790,7 +3886,7 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 
 ### 6.2 Pulled Pork
 
-**North Carolina Pulled Pork.** Transcribed from a photographed grilling/BBQ cookbook — source not yet fully identified; the pages carry a Workman Publishing ISBN prefix (0-7611-8…) but no title page has been photographed yet. Feeds [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos). An indirect-grilled (or smoked) Boston butt, mopped hourly, pulled or chopped, and finished with a vinegar sauce.
+**North Carolina Pulled Pork.** Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified via a clearly photographed ISBN on a later page ([§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§7.30](#730-basil-grilled-tuna-with-arugula-salad)/[§7.31](#731-salmon-with-mustard-glaze)'s pages), matched back to this recipe by its identical "THE RECIPE / SERVES X / YOU'LL NEED" box format and continuous page numbering. *(An ISBN digit read earlier off this page looked different from the confirmed one — most likely a misread on a small, blurry barcode rather than a second book; treat this as the same source.)* Feeds [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos). An indirect-grilled (or smoked) Boston butt, mopped hourly, pulled or chopped, and finished with a vinegar sauce.
 
 > ⚠️ **Two referenced pages aren't in this cookbook yet: Basic Barbecue Rub (page 441) and North Carolina Vinegar Sauce (page 448).** Both are load-bearing — the rub seasons the meat and the vinegar sauce is what gets stirred back in and served alongside, and it's also what [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) is dressed with. Written in below exactly as referenced rather than guessed at; see Open Questions. *For general orientation only, not a substitute for the actual page: classic Eastern Carolina barbecue rubs run on paprika, brown sugar, salt, black pepper, garlic and onion powder, and cayenne; the vinegar sauce style is cider vinegar, red pepper flakes, salt, and a little sugar, thinned with water. That's background knowledge, not this book's recipe — don't treat the quantities here as if they came from the source.*
 
@@ -5679,6 +5775,179 @@ Place a piece of chicken on each heated serving plate. Roll a portion of fettucc
 **What a serving is:** one breaded pan-fried chicken thigh over a forkful of fettuccine tossed in cheese sauce, with extra sauce spooned on top.
 
 *Only 4 servings share 1½ sticks of butter, 2 cups of cream, and 5 eggs' worth of breading — this is a rich plate, similar in spirit to [§7.27](#727-panéed-veal-with-czarina-sauce) but with the same total richness spread across fewer servings.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.30 Basil-Grilled Tuna with Arugula Salad
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 301–303 — the same book as [§6.2 Pulled Pork](#62-pulled-pork) and [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo). Tuna steaks puréed-marinated in basil, garlic, and lemon, direct-grilled to a crosshatch sear, served over a bright lemon-dressed arugula and yellow tomato salad.
+
+> **Also good for:** any fish steak can take this marinade, per the source, and the basil purée works on fillets or small whole fish too.
+>
+> **Variations named in the source:** for Indian-style tuna, use the tandoori marinade from *Tandoori Lamb Chops* (Steps 1 and 3, page 185) instead. Or season the steaks with a dry rub like the one in Step 1 of the *Sichuan-Spiced Lamb Chops* (page 180).
+
+**Yield:** 4 servings
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~15 min** · **Start to finish ~30 min** *(plus 30 min–2 hr marinating — lead time, not cooking)*
+
+> **You'll need:** 1 cup wood chips (optional; preferably oak), unsoaked.
+
+#### A. Ingredients
+
+**For the tuna**
+
+- 4 tuna steaks (¾ to 1 inch thick; 6 to 8 oz. each)
+- 1 bunch fresh basil, washed and stemmed
+- 4 cloves garlic, peeled
+- 3 strips lemon zest
+- Juice of 1 lemon
+- 1 Tbsp white wine vinegar
+- 1 cup extra-virgin olive oil
+- 1 tsp coarse salt
+- 1 tsp black pepper
+
+**For the Arugula and Yellow Tomato Salad** *(makes 4 servings)*
+
+- 1 bunch arugula, washed and spun dry
+- 1 pint yellow cherry tomatoes, cut in half *(red is fine if you can't find yellow — see Note below)*
+- 3 Tbsp finely chopped red onion
+- 2 Tbsp lemon juice
+- 3 to 4 Tbsp extra-virgin olive oil
+- Coarse salt and black pepper
+
+> **Note:** Yellow cherry tomatoes are available at gourmet shops; if you can't find them, use red.
+
+#### B. Cooking Instructions
+
+**1. Trim and rinse the tuna.**
+Trim any skin or dark or bloody spots off the tuna. Rinse under cold running water and blot dry with paper towels. Arrange the steaks in a nonreactive baking dish.
+
+**2. Purée the marinade and marinate. 30 minutes to 2 hours.**
+Combine the basil, garlic, lemon zest, lemon juice, vinegar, oil, salt, and pepper in a food processor or blender and purée until smooth. Pour this mixture over the tuna and let marinate in the refrigerator, covered, turning the steaks several times.
+
+**3. Set up the grill for direct grilling and preheat to high.**
+If using a gas grill, place the wood chips (if using) in the smoker box or a smoker pouch and preheat until you see smoke. When ready to cook, brush and oil the grill grate. If using charcoal, toss the wood chips (if using) on the coals.
+
+**4. Grill the tuna, rotating for a crosshatch sear. 2 to 6 minutes per side.**
+Drain the tuna steaks and arrange on the grill. Grill until cooked to taste — 2 to 3 minutes per side for rare, 4 to 6 minutes per side for medium — rotating the steaks 45 degrees after 2 minutes to create an attractive crosshatch of grill marks. The steaks should be nicely browned on the outside.
+
+**5. Test for doneness with the poke method.**
+A rare steak will be quite soft, with just a little resistance at the surface; a medium-rare steak will be gently yielding; a medium steak will be quite firm.
+
+**6. Rest, then serve over the salad.**
+Transfer the steaks to plates or a platter and let rest 3 minutes. Serve with the arugula salad.
+
+**7. Make the salad — any time before serving.**
+Combine the arugula, tomatoes, onion, lemon juice, and oil in a nonreactive bowl and gently toss to mix. Add salt and pepper to taste.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Tuna steaks — 4 (¾ to 1 inch thick, 6 to 8 oz. each)
+
+**🛒 General grocery**
+
+- 🛒 Fresh basil — 1 bunch
+- 🛒 Garlic — 4 cloves
+- 🛒 Lemons — for zest and juice, plus more for the salad
+- 🛒 White wine vinegar
+- 🛒 Extra-virgin olive oil — 1 cup for the marinade, plus 3–4 Tbsp for the salad
+- 🛒 Coarse salt, black pepper
+- 🛒 Wood chips, preferably oak — 1 cup, optional
+- 🛒 Arugula — 1 bunch
+- 🛒 Yellow cherry tomatoes (or red) — 1 pint
+- 🛒 Red onion — 3 Tbsp finely chopped
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,180 | 129 g | 225 g | 15 g | 4 g |
+| **Per serving** *(serves 4)* | ~545 | 32 g | 56 g | 4 g | 1 g |
+
+**What a serving is:** one grilled tuna steak (6 to 8 oz.) over a generous serving of arugula and tomato salad.
+
+*Naturally low-carb and high-protein, though the source doesn't print net carbs — per [CLAUDE.md §3c](CLAUDE.md), the 🥑 tag is reserved for recipes whose source explicitly prints that figure, so this one isn't tagged despite fitting the pattern. Much of the marinade oil stays in the dish rather than the plate; figures above assume roughly a third of the cup of oil is actually consumed.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.31 Salmon with Mustard Glaze
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 292–293 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad). Skin-on salmon fillets grilled skin-side down and finished with a mustard-mayonnaise glaze.
+
+> ⚠️ **This transcription has a real gap — see Open Questions.** The ingredient list and Step 1 are captured in full, but Step 2 (finishing the glaze) cuts off mid-sentence in the photo, and the recipe's own Step 3 wasn't visible at all. What's below reconstructs the ending from the source's separate **"How to Grill Fish on the Skin"** technique spread on the same page — which almost certainly *is* what Step 3 refers to, since this book pairs a technique article with each boxed recipe — but the glaze-finishing details and the exact moment the glaze goes on are the transcriber's best reconstruction, not confirmed source text.
+
+**Yield:** 6 servings
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
+
+**Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) — *the hot-fat principle carries over to hot-grate grilling*
+
+#### A. Ingredients
+
+**For the salmon**
+
+- 6 pieces salmon fillets, skin on (6 to 8 oz. each — ask your fishmonger to cut them for you)
+- 1 Tbsp olive oil or melted butter
+- Coarse salt and black pepper
+
+**For the glaze**
+
+- 4 tsp toasted yellow mustard seeds
+- ¾ cup mayonnaise
+- ⅓ cup grainy mustard
+- 1 Tbsp chopped fresh dill
+- 1 tsp brown sugar, optional
+- Coarse salt and black pepper
+
+> **Tip, per the source:** *"Because there are so few ingredients in this recipe, you need to use good ones: real mayonnaise, like Hellmann's, and a sharp, grainy mustard, like a Meaux-style one from France. To punch up the flavor and texture, I like to add toasted whole mustard seeds and fresh dill."*
+
+#### B. Cooking Instructions
+
+**1. Check for bones, then oil and season the salmon.**
+Run your fingers over the meat side of the salmon pieces, feeling for bones. Pull out any you find with needle-nose pliers or tweezers. Rinse the salmon under cold running water and blot dry with paper towels. Brush the skin side of the fish with the oil and season both sides with salt and pepper.
+
+**2. Make the glaze.** *(reconstructed — see the callout above)*
+In a nonreactive mixing bowl, whisk together 2 teaspoons of the toasted mustard seeds with the mayonnaise, grainy mustard, dill, and brown sugar (if using). Season with salt and pepper. Reserve the remaining 2 teaspoons mustard seeds for garnish.
+
+**3. Grill skin-side down, glazing partway through. 12 to 15 minutes.** *(reconstructed from the "How to Grill Fish on the Skin" technique — see the callout above)*
+Set up the grill for indirect or direct grilling and preheat to medium. Place the salmon skin-side down on the grate. Check the fish periodically to be sure the skin is crisp but not burnt — lift a corner with a spatula to check. If the skin starts to burn before the fish and glaze are cooked through, slide a piece of folded aluminum foil under the salmon (a grill glove helps here, not bare hands). Spoon the glaze over the top of each piece partway through grilling. The fish will be done in 12 to 15 minutes.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Salmon fillets, skin on — 6 pieces (6 to 8 oz. each)
+
+**🛒 General grocery**
+
+- 🛒 Olive oil or butter
+- 🛒 Coarse salt, black pepper
+- 🛒 Toasted yellow mustard seeds — 4 tsp
+- 🛒 Real mayonnaise (Hellmann's or similar) — ¾ cup
+- 🛒 Grainy mustard, sharp/Meaux-style — ⅓ cup
+- 🛒 Fresh dill — 1 Tbsp chopped
+- 🛒 Brown sugar — optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,940 | 302 g | 244 g | 14 g | 2 g |
+| **Per serving** *(serves 6)* | ~655 | 50 g | 41 g | 2 g | 0.3 g |
+
+**What a serving is:** one 6 to 8 oz. skin-on salmon fillet with mustard glaze — a generous main course portion.
+
+*Rich mostly from the salmon's own fat and a ¾ cup of real mayonnaise — appropriately so, per the source's own note that this recipe rides entirely on a few good ingredients.*
+
+#### D. Open Questions
+
+- **Step 2 (finishing the glaze) and Step 3 (grilling and glazing) weren't fully legible in the photographed pages** — Step 2 cuts off mid-sentence and Step 3 wasn't visible at all. Reconstructed above from the matching "How to Grill Fish on the Skin" technique on the facing page, which this recipe's own Step 3 almost certainly restates, but **the exact glaze-mixing wording and the precise moment the glaze goes on the fish are not confirmed against the source** — worth a clean re-photo of the rest of page 293 to verify.
 
 [↑ Table of Contents](#table-of-contents)
 

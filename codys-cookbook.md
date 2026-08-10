@@ -25,6 +25,11 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.9 Hollandaise Sauce](#49-hollandaise-sauce) ✅
   - [4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) ✅
   - [4.11 Choron Sauce](#411-choron-sauce) ✅
+  - [4.12 Fish Brown Sauce](#412-fish-brown-sauce) ✅
+  - [4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) ✅
+  - [4.14 Creole Sauce](#414-creole-sauce) ✅
+  - [4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) ✅
+  - [4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -136,6 +141,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added five sauces and gravies from **Chef Paul Prudhomme's *Louisiana Kitchen***, transcribed from its *Sauces & Gravies* chapter: **[§4.12 Fish Brown Sauce](#412-fish-brown-sauce)** (a second dark roux — 🔴 Hard, the fifth in this cookbook to need [§T1](#t1-how-to-make-a-roux)'s technique), **[§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce)**, **[§4.14 Creole Sauce](#414-creole-sauce)**, **[§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce)**, and **[§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy)**. **§4.14 exactly closes [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)'s open question** — that recipe cited "Creole Sauce, page 248," and the transcribed page number matches exactly, confirmed rather than assumed. **New pattern spotted:** §4.13 and §4.16 both cite "Basic Chicken Stock" / "Basic Beef or Pork Stock" at page 31 — likely several basic stocks run together on one page, distinct from the Basic Seafood Stock at page 32 that five other recipes here already need. **Giblet Gravy intentionally not added yet** — Cody flagged its instructions are still to come in a follow-up photo. |
 | 2026-08-09 | **[§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder)'s sauce question is fully closed.** Added **[§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce)** — the third and last of its three missing finishing sauces — plus a bonus **[§4.11 Choron Sauce](#411-choron-sauce)** from the same source page, Béarnaise's tomato cousin. Both are built the same way: reduce something on the stove, stir it into warm **[§4.9 Hollandaise](#49-hollandaise-sauce)**. All cross-references updated — §4.9's, §7.3's, and the TOC's — from "two of three" to "all three, done." **One discrepancy flagged rather than papered over:** §7.3's original card cited Béarnaise as page 306, but this recipe's own page number wasn't legible and it sits immediately after Hollandaise (page 258) in the source — noted as an open question rather than assumed to be the same page. |
 | 2026-08-09 | **[§1 Cody's Pho](#1-codys-pho) re-rated 🔴 Hard → 🟢 Easy, per Cody: *"it's just a long distance run."*** He's right, and the original rating broke this cookbook's own rule — difficulty is **technique risk, not effort**, and nothing in the pho can catastrophically fail: no roux, no emulsion, no step that turns in ten seconds. It was rated Hard for being *long*, which is exactly what the rule forbids. Length and lead time live in the time fields instead. The **[project instructions](CLAUDE.md) §3a** now say so explicitly, with Pho named as the reference case so it doesn't get re-litigated. Hard count drops from six to five; the index gains a note that *long is not the same as hard*, using Pho as the proof — biggest numbers in the table, easiest technique. |
 | 2026-08-09 | Added **[§4.9 Hollandaise Sauce](#49-hollandaise-sauce)** from *Louisiana Kitchen* (p. 258–259) — **the second of [§7.3](#73-seafood-stuffed-flounder)'s three missing sauces. Only Béarnaise (p. 306) is left.** Rated **🔴 Hard**, the sixth, and it adds a *fourth* kind of hard to the book: **an emulsion that breaks and can't be rescued** — distinct from roux, from Pho's sprawl, and from §7.3's binder-and-heat problem. Prudhomme's own explanation of *why* the sauce works (air bubbles in the yolks; heat after the butter goes in bursts them; body temperature is the target) is kept as its own section up front, since every instruction follows from it. Also captured: his unusual step of **separating the melted butter into surface butterfat and bottom solids** and using each for a different job — solids for flavor and thinning, butterfat for thickening. |
@@ -211,8 +217,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | Recipe | | Prep | Cook | Slow cook | Start to finish |
 |---|---|---|---|---|---|
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
-| [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
+| [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
@@ -228,12 +234,17 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
+| [§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) | 🟢 | 2 min | 3 min | — | 5 min |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
+| [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
+| [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
+| [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
@@ -1321,6 +1332,353 @@ In a 1-quart saucepan over medium heat, cook the chopped tomatoes, stirring freq
 #### D. Serving Suggestions
 
 Both this and [§4.10 Béarnaise](#410-new-orleans-béarnaise-sauce) work anywhere a plain hollandaise does — **[§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder)**, **[§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters)**, eggs, or vegetables. Choron is the classic pairing with red meat and eggs; Béarnaise leans toward steak and fish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.12 Fish Brown Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 252–253, *Sauces & Gravies*). A dark roux-based brown sauce built specifically for fish and oysters, finished with butter and burgundy.
+
+**Yield:** 6 servings, about 1½ cups
+
+**🔴 Hard** · **Prep ~10 min** · **Cook ~20 min** · **Start to finish ~30 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) · [T5 Seasoning-Mix System](#t5-seasonings--peppers)
+
+> ⚠️ **This is a dark roux — the [§T1](#t1-how-to-make-a-roux) kind**, not the blond hollandaise style of §4.9. Smoking oil, whisked to dark red-brown or black in about 2 minutes. Same burn risk, same rule: pull it off heat the moment it's darkening faster than you can control.
+
+#### A. Ingredients
+
+**Seasoning mix**
+
+- 1 whole bay leaf
+- ½ tsp salt
+- ½ tsp garlic powder
+- ¼ tsp white pepper
+- ¼ tsp dried oregano leaves
+- ¼ tsp dried thyme leaves
+- ⅛ tsp ground red pepper, preferably cayenne
+
+**Sauce**
+
+- 2 Tbsp vegetable oil
+- 3 Tbsp all-purpose flour, **in all**
+- ¼ cup finely chopped onions
+- 4 tsp canned tomato sauce
+- 1 tsp Worcestershire sauce
+- 2 cups hot Basic Seafood Stock — *see Open Questions*
+- 2 Tbsp burgundy wine, **in all**
+- 2 Tbsp unsalted butter, softened
+
+#### B. Cooking Instructions
+
+**1. Mix the seasoning and set it aside.**
+Per [§T5](#t5-seasonings--peppers), one bowl instead of seven jars mid-cook.
+
+**2. Make the roux. About 2 minutes.**
+Heat the oil in a heavy 1-quart saucepan over high heat until it starts to smoke. Whisk in **2 Tbsp** of the flour, whisking constantly and scraping the pan bottom, until dark red-brown to black. Full technique and burn-risk detail: [§T1](#t1-how-to-make-a-roux).
+
+**3. Stop the roux with the onions, then the seasoning mix and tomato sauce.**
+Immediately whisk in the onions and cook about 1 minute. Stir in the tomato sauce and the seasoning mix; cook 2–3 minutes, stirring constantly.
+
+**4. Add the stock and Worcestershire. Boil, then simmer 6–8 minutes.**
+Bring to a boil, then reduce to a simmer, stirring often, until the sauce thickens and darkens.
+
+**5. Whisk in the butter-flour finish and the burgundy.**
+In a small bowl, blend the softened butter with the remaining **1 Tbsp flour**. Whisk it into the sauce off the boil, then return to a simmer briefly. Stir in the remaining **1 Tbsp burgundy**, remove from heat, and discard the bay leaf. Serve immediately.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bay leaf, salt, garlic powder, white pepper, dried oregano, dried thyme, ground red pepper (cayenne)
+- 🛒 Vegetable oil, all-purpose flour
+- 🛒 Onion
+- 🛒 Canned tomato sauce, Worcestershire sauce
+- 🛒 Burgundy wine — 2 Tbsp
+- 🛒 Unsalted butter — 2 Tbsp
+- 🛒 Seafood stock — 2 cups *(see Open Questions)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~610 | 50 g | 4 g | 20 g | 1 g |
+| **Per serving** *(serves 6)* | ~100 | 8 g | 1 g | 3 g | 0 g |
+
+**What a serving is:** about ¼ cup, spooned over one piece of fish or a portion of oysters.
+
+#### D. Open Questions
+
+- **Basic Seafood Stock (page 32)** — the same gap as [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and [§4.8](#48-shrimp-and-crab-butter-cream-sauce). This is the fifth recipe in this cookbook to need it.
+- The roux-and-onion sequence in step 3 was tight across a page break in the photo — reconstructed to the standard Prudhomme pattern (roux, stop with vegetables, then seasoning); worth a check against the physical page.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.13 Andouille Smoked Sausage Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 250–251). A thick, sausage-forward sauce built to top other dishes rather than stand alone.
+
+> **Per the source:** a component of *Eggs Basin Street* (p. 303); also good over *Red Beans and Rice* (p. 190), pasta, omelets, and other egg dishes, folded into rice, or folded into bread crumbs and used as a stuffing.
+
+**Yield:** about 3 cups
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~35 min**
+
+**Techniques used:** [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) *(andouille)*
+
+#### A. Ingredients
+
+- 6 oz. andouille smoked sausage (preferred), or any other good pure smoked pork sausage such as kielbasa, ground — about 1½ cups
+- 1 Tbsp vegetable oil
+- ¾ cup chopped onions
+- ¾ cup chopped celery
+- ¾ cup chopped green bell peppers
+- 1½ Tbsp all-purpose flour
+- 1 bay leaf
+- ¼ tsp dry mustard
+- ⅛ tsp white pepper
+- ⅛ tsp ground red pepper, preferably cayenne
+- 2 cups hot Basic Beef or Pork Stock — *see Open Questions*
+
+#### B. Cooking Instructions
+
+**1. Brown the andouille. About 2 minutes, then reduce heat.**
+Cook the andouille and oil in a large skillet over high heat, stirring frequently, then reduce to medium and continue until the sausage starts to brown.
+
+**2. Add the trinity. About 7 minutes.**
+Onions, celery, and bell peppers, sautéed until tender but still firm, stirring frequently.
+
+**3. Raise to high, add the flour and dry seasonings, and cook to the scorch point. About 2 minutes.**
+Turning the heat up moves the oil to the bottom of the mixture. Stir in the flour, bay leaf, dry mustard, white pepper, and red pepper, cooking until nearly scorching — stirring constantly and scraping the pan bottom well.
+
+**4. Add the stock and simmer. About 5 minutes.**
+Stir well, bring to a simmer, then drop to very low and continue 5 minutes. Remove the bay leaf and serve.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Andouille sausage or kielbasa, ground — 6 oz.
+- 🛒 Vegetable oil
+- 🛒 Onions, celery, green bell peppers
+- 🛒 All-purpose flour, bay leaf, dry mustard, white pepper, ground red pepper (cayenne)
+- 🛒 Beef or pork stock — 2 cups *(see Open Questions)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~950 | 78 g | 34 g | 22 g | 4 g |
+| **Per serving** *(about ½ cup, of 6)* | ~160 | 13 g | 6 g | 4 g | 1 g |
+
+**What a serving is:** about ½ cup — enough to top a plate of eggs, a poboy, or a bowl of red beans and rice.
+
+#### D. Open Questions
+
+- **Basic Beef or Pork Stock (page 31)** isn't in this cookbook. Interestingly, [§4.14 Creole Sauce](#414-creole-sauce) and [§4.16 Italian Red Gravy](#416-new-orleans-italian-red-gravy) below both cite **Basic Chicken Stock**, also page 31 — the source likely runs several basic stocks together on that one page. [§T4](#t4-stocks--ingredient-conventions) covers general substitutes for any of them.
+- **Eggs Basin Street (p. 303)** and its own referenced **Red Beans and Rice (p. 190)** — different from [§7.16](#716-red-beans--rice) in this cookbook — aren't transcribed here.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.14 Creole Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 248–249). A tomato-based Creole sauce, milder and more vegetable-forward than a marinara.
+
+> **This closes an open question from [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya).** That recipe named "Creole Sauce, page 248" as an optional topping not yet in this cookbook — the page number matches exactly, so this is confirmed as the same recipe, not a guess.
+
+> **Per the source:** terrific with chicken, rabbit, shrimp, oysters, or egg dishes such as omelets, or served over jambalayas.
+
+**Yield:** about 2½ cups
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
+
+**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers)
+
+#### A. Ingredients
+
+**Seasoning mix**
+
+- 2 whole bay leaves
+- ¾ tsp dried oregano leaves
+- ½ tsp salt
+- ½ tsp white pepper
+- ½ tsp ground red pepper, preferably cayenne
+- ½ tsp sweet paprika
+- ½ tsp black pepper
+- ½ tsp dried thyme leaves
+- ½ tsp dried sweet basil leaves
+
+**Sauce**
+
+- 4 Tbsp unsalted butter
+- 1 cup peeled, chopped tomatoes
+- ¾ cup chopped onions
+- ¾ cup chopped celery
+- ¾ cup chopped green bell peppers
+- 1½ tsp minced garlic
+- 1¼ cups Basic Chicken Stock — *see [§4.13](#413-andouille-smoked-sausage-sauce)'s Open Questions*
+- 1 cup canned tomato sauce
+- 1 tsp sugar
+- ½ tsp Tabasco sauce
+
+#### B. Cooking Instructions
+
+**1. Mix the seasoning and set it aside.**
+
+**2. Melt the butter, then add everything vegetable at once. About 5 minutes.**
+Melt the butter in a large skillet over medium heat. Stir in the tomatoes, onions, celery, and bell peppers, then the garlic and seasoning mix. Sauté until the onions are transparent, stirring occasionally.
+
+**3. Add the stock, tomato sauce, sugar, and Tabasco. Simmer about 20 minutes.**
+Bring to a boil, then reduce to a simmer. Cook, stirring occasionally, until the vegetables are tender and the flavors have married. Remove the bay leaves before serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bay leaves, dried oregano, salt, white pepper, ground red pepper (cayenne), sweet paprika, black pepper, dried thyme, dried sweet basil
+- 🛒 Unsalted butter — 4 Tbsp
+- 🛒 Tomatoes — 1 cup peeled and chopped
+- 🛒 Onions, celery, green bell peppers
+- 🛒 Garlic
+- 🛒 Canned tomato sauce
+- 🛒 Sugar, Tabasco sauce
+- 🛒 Chicken stock — 1¼ cups *(see [§4.13](#413-andouille-smoked-sausage-sauce))*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~750 | 46 g | 8 g | 60 g | 10 g |
+| **Per serving** *(about ½ cup, of 5)* | ~150 | 9 g | 2 g | 12 g | 2 g |
+
+**What a serving is:** about ½ cup, spooned over an omelet, a piece of chicken, or a bowl of jambalaya.
+
+#### D. Serving Suggestions
+
+Works over **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** and **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)**, both of which are jambalayas that can use a Creole sauce on top.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.15 New Orleans Bordelaise Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 244). About as simple as a sauce gets — garlic gently cooked in butter — and served as a dip rather than a topping.
+
+> **Per the source:** use as a dip for boiled shrimp, crabs, crawfish, or fried eggplant. The recipe can be doubled. Stir in 2 Tbsp chopped fresh parsley and drizzle it over fish, chicken, pork chops, lamb, or fried oysters.
+
+**Yield:** about ¼ cup
+
+**🟢 Easy** · **Prep ~2 min** · **Cook ~3 min** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 4 Tbsp unsalted butter
+- 1 Tbsp minced garlic
+- 2 Tbsp chopped fresh parsley, optional — *per the serving note*
+
+#### B. Cooking Instructions
+
+**1. Melt the butter, add the garlic near the end. 1–2 minutes.**
+In a 1-quart saucepan, melt the butter over low heat. When it's almost melted, add the garlic. Stir and simmer 1–2 minutes. **If the garlic starts to brown, pull it off the heat** — this sauce wants softened, fragrant garlic, not toasted.
+
+**2. Serve immediately.**
+Stir in the parsley if using. As a dip alongside boiled seafood, or drizzled over fish, chicken, pork chops, or lamb.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 4 Tbsp
+- 🛒 Garlic
+- 🛒 Fresh parsley, optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~410 | 44 g | 1 g | 2 g | 0 g |
+| **Per serving** *(1 Tbsp, of 4)* | ~105 | 11 g | 0 g | 0.5 g | 0 g |
+
+**What a serving is:** about 1 Tbsp — a small dip cup's worth alongside a few pieces of boiled shrimp or crawfish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.16 New Orleans Italian Red Gravy
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 244–245). A garlic-heavy tomato gravy — ten cloves browned whole in olive oil before the sauce even starts.
+
+> **Per the source:** serve this tomato gravy over pastas, chicken, or fish.
+
+**Yield:** about 6 cups
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min**
+
+**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers)
+
+#### A. Ingredients
+
+**Seasoning mix**
+
+- 2 tsp salt
+- 1 tsp ground red pepper, preferably cayenne
+- 1 tsp dried sweet basil leaves
+- 1 tsp dried thyme leaves
+- ½ tsp white pepper
+- ½ tsp black pepper
+
+**Gravy**
+
+- ½ cup olive oil
+- 10 cloves garlic, sliced in half lengthwise
+- 3 bay leaves
+- 1 cup finely chopped onions
+- 3 cups Basic Chicken Stock — *see [§4.13](#413-andouille-smoked-sausage-sauce)'s Open Questions*
+- 3 cups canned tomato sauce
+- 1 Tbsp minced garlic
+
+#### B. Cooking Instructions
+
+**1. Mix the seasoning and set it aside.**
+
+**2. Brown the sliced garlic in the oil with 2 bay leaves. 2–3 minutes.**
+Combine the olive oil, sliced garlic, and 2 of the bay leaves in a 2-quart saucepan over medium heat. Brown the garlic on both sides.
+
+**3. Add the onions and sauté until the edges brown.**
+Stir in the onions and cook, stirring frequently, until the onion edges start to brown.
+
+**4. Add the remaining bay leaf, seasoning mix, stock, tomato sauce, and minced garlic. Simmer about 20 minutes.**
+Bring to a simmer, adjusting the heat as needed to hold it, stirring occasionally. Remove the bay leaves before serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salt, ground red pepper (cayenne), dried sweet basil, dried thyme, white pepper, black pepper
+- 🛒 Olive oil — ½ cup
+- 🛒 Garlic — 10 cloves, plus 1 Tbsp minced
+- 🛒 Bay leaves — 3
+- 🛒 Onions
+- 🛒 Canned tomato sauce — 3 cups
+- 🛒 Chicken stock — 3 cups *(see [§4.13](#413-andouille-smoked-sausage-sauce))*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,300 | 110 g | 12 g | 60 g | 8 g |
+| **Per serving** *(about ½ cup, of 12)* | ~110 | 9 g | 1 g | 5 g | 1 g |
+
+**What a serving is:** about ½ cup, over a plate of pasta or a piece of fish or chicken.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3495,7 +3853,7 @@ Turn every few minutes for even char on all sides. Chicken is done at 165°F int
 
 Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — a baked jambalaya running chicken, tasso, and andouille alongside shrimp and oysters, finished in the oven rather than on the stovetop. A second, more involved jambalaya alongside [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) — that one's a family card; this one's from a proper Cajun cookbook and leans harder into the seafood side.
 
-> **Serve as is, or topped with Creole Sauce** — the source page references a Creole Sauce recipe elsewhere in its book that isn't part of this cookbook. Treat it as optional; the jambalaya stands on its own.
+> **Serve as is, or topped with [§4.14 Creole Sauce](#414-creole-sauce)** — now written up in this cookbook, page-number confirmed against the source's own reference. Still entirely optional; the jambalaya stands on its own.
 
 **Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
 
@@ -3599,7 +3957,7 @@ Pack the rice into an 8 oz. cup and unmold it onto the plate: 2 cups per person 
 - **Seafood stock:** the source calls for a specific "Basic Seafood Stock" recipe from elsewhere in its book, not photographed here. Until that page is added, [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions) covers general seafood stock as a reasonable substitute, or a store-bought seafood/fish stock works in a pinch.
 - **Where the chicken goes in:** the source text wraps across a page break right at "Add the season-[ing mix]...", and the sentence that follows references "until chicken is tender" without an explicit "add the chicken" a moment earlier. Step 6 above reconstructs the likely intent — confirm against the actual page if there's any doubt.
 - **The rice/shrimp/oyster step reads as a near-duplicate in the source** ("stir in the rice... add the rice, shrimp and oysters"). Consolidated into one addition in Step 9 — worth double-checking there isn't a genuine two-stage rice addition being missed.
-- **Creole Sauce (page 248 of the source)** isn't in this cookbook. Add it if it ever gets photographed — the jambalaya is written to work with or without it.
+- ~~Creole Sauce (page 248 of the source) isn't in this cookbook.~~ **Settled 2026-08-09 — now at [§4.14](#414-creole-sauce)**, with the page number confirmed as an exact match.
 
 [↑ Table of Contents](#table-of-contents)
 

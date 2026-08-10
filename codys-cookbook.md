@@ -53,6 +53,18 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.37 White Barbecue Sauce](#437-white-barbecue-sauce) ✅
   - [4.38 Mustard Sauce](#438-mustard-sauce) ✅
   - [4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) ✅
+  - [4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) ✅
+  - [4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) ✅
+  - [4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce) ✅
+  - [4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) ✅
+  - [4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) ✅
+  - [4.45 Pico de Gallo](#445-pico-de-gallo) ✅
+  - [4.46 Tomato-Pepper Salsa](#446-tomato-pepper-salsa) ✅
+  - [4.47 Salsa Verde](#447-salsa-verde) ✅
+  - [4.48 Cilantro Chutney](#448-cilantro-chutney) ✅
+  - [4.49 Mango Salsa](#449-mango-salsa) ✅
+  - [4.50 Cucumber Relish](#450-cucumber-relish) ✅
+  - [4.51 Shallot Marmalade](#451-shallot-marmalade) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -68,6 +80,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T12. Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) ✅
   - [T13. Basic Stock Formula (Fowl, Beef, Pork & Seafood)](#t13-basic-stock-formula-fowl-beef-pork--seafood) ✅
   - [T14. How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) ✅
+  - [T15. How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 
 **Complete Recipes**
@@ -91,6 +104,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) ✅ 🦃
 - [5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) ✅ 🦃
 - [5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) ✅
+- [5.14 Grilled Corn](#514-grilled-corn) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -179,6 +193,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Second big batch from Steven Raichlen's *How to Grill*: the rest of the stand-alone sauces chapter (p. 456–461), plus a first entry each in a new "Vegetables Plus" chapter (p. 357–363). 14 new entries: [§4.40](#440-herbed-horseradish-sauce)–[§4.51](#451-shallot-marmalade), [§5.14 Grilled Corn](#514-grilled-corn), and [§T15 How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage).** Big find: **four of [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)'s five named serving sauces are now transcribed** — [§4.38 Mustard Sauce](#438-mustard-sauce) (added last batch), plus this batch's [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), [§4.50 Cucumber Relish](#450-cucumber-relish), and [§4.51 Shallot Marmalade](#451-shallot-marmalade) — all three name that exact dish or an equivalent in their own source text. Only Béarnaise Mayonnaise (page 452) is still missing. **[§T15 How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage)** is filed as a technique formula rather than a fixed recipe, same reasoning as [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) — the source never gives quantities for the bacon-onion filling, barbecue sauce, or butter, just the method; it points at this cookbook's own [§4.34](#434-basic-barbecue-mop-sauce)–[§4.37](#437-white-barbecue-sauce) barbecue sauces as flexible options. The rest are stand-alone dipping sauces, salsas, and relishes (Herbed Horseradish, Asian Peanut, Asian Pear Dipping, Vietnamese Dipping, Pico de Gallo, Tomato-Pepper Salsa, Salsa Verde, Cilantro Chutney, Mango Salsa) plus [§5.14 Grilled Corn](#514-grilled-corn), the first real entry in what looks like a new §5 vegetables chapter from this source. **One transcription snag flagged rather than smoothed over:** [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce)'s ingredient list reads partially duplicated against its facing-page neighbor [§4.42](#442-asian-pear-dipping-sauce) — both halves written in as photographed, with a note on which one matches the actual instructions. |
 | 2026-08-10 | **Big batch from Steven Raichlen's *How to Grill*'s rubs, mops, and sauces chapter (p. 441–454): [§4.25](#425-basic-fish-cure) through [§4.39](#439-mustard-dill-sauce), 15 new entries.** Two of them close real, previously-flagged gaps: **[§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub)** and **[§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce)** were the two missing referenced pages blocking [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) since they were added — both recipes are updated to link directly to the real ingredients now, their Open Questions closed, and their Nutrition figures recalculated from the real vinegar sauce instead of a placeholder. **[§4.38 Mustard Sauce](#438-mustard-sauce)** is one of [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)'s five named serving sauces — the first of the five to actually get transcribed, and its own text names that exact dish. The rest ([§4.27](#427-cajun-rub) Cajun Rub, [§4.28](#428-chinese-five-spice-rub) Chinese Five-Spice, [§4.29](#429-java-rub) Java, [§4.30](#430-mucho-macho-pepper-rub) Mucho Macho Pepper, [§4.31](#431-mediterranean-herb-rub) Mediterranean Herb, [§4.32](#432-texas-chili-rub) Texas Chili, [§4.33](#433-sesame-seasoning) Sesame Seasoning, [§4.34](#434-basic-barbecue-mop-sauce) Basic Barbecue Mop Sauce, [§4.35](#435-mustard-barbecue-sauce) Mustard Barbecue Sauce, [§4.37](#437-white-barbecue-sauce) White Barbecue Sauce, [§4.25](#425-basic-fish-cure) Basic Fish Cure) are general-purpose reference entries, not yet tied to a specific dish here, added because Cody photographed the full chapter. A fun cross-reference surfaced in the Cajun Rub's own text: Raichlen credits it to *"Louisiana legend Paul Prudhomme"* — the same chef behind [§T1](#t1-how-to-make-a-roux) and every *Louisiana Kitchen* sauce this session. **Two small transcription snags flagged rather than smoothed over:** [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub)'s ingredient list was partially obscured in its photo, and [§4.32 Texas Chili Rub](#432-texas-chili-rub)'s and [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce)'s instructions read a little garbled from a busy, multi-recipe page layout — both reconstructed to the most sensible reading and marked as Open Questions. |
 | 2026-08-10 | **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) is now fully confirmed against the source.** A cleaner photo of page 294 supplied the rest of Step 2 and all of Step 3, which had been reconstructed from a related technique spread rather than transcribed directly — both are rewritten to the source's actual wording (glaze on top before covering the grill, a metal-skewer doneness test, 12–15 minutes covered). Its Open Question is resolved and removed. Also picked up the source's own substitute-fish note: striped bass, redfish, and snapper work the same way; monkfish, sole, and flounder don't. |
 | 2026-08-10 | Added **[§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)** from **Steven Raichlen's *How to Grill*** (p. 46–50) — a whole trimmed, tied, and herb-crusted tenderloin, direct-grilled to 145°F medium-rare, with a **Beef Kebabs** variation using the same trim and marinade. Transcribed clean with no gaps. The source names five serving sauces (Béarnaise Mayonnaise, Mustard Sauce, Three-Herb Chimichurri, Cucumber Relish, Shallot Marmalade) at pages not yet photographed — noted as optional rather than blocking, since the tenderloin itself is complete without them. |
@@ -289,6 +304,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
@@ -300,9 +317,19 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
+| [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) | 🟢 | 15 min | — | — | 15 min |
+| [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) | 🟢 | 15 min | — | — | 15 min |
+| [§4.45 Pico de Gallo](#445-pico-de-gallo) | 🟢 | 15 min | — | — | 15 min |
+| [§4.46 Tomato-Pepper Salsa](#446-tomato-pepper-salsa) | 🟢 | 15 min | — | — | 15 min |
+| [§4.48 Cilantro Chutney](#448-cilantro-chutney) | 🟢 | 15 min | — | — | 15 min |
+| [§4.49 Mango Salsa](#449-mango-salsa) | 🟢 | 15 min | — | — | 15 min |
+| [§4.50 Cucumber Relish](#450-cucumber-relish) | 🟢 | 15 min | — | — | 15 min |
+| [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage) | 🟢 | 15 min | — | **1–1½ hr** *(indirect grill)* | 1 hr 15 min – 1 hr 45 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
+| [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
@@ -318,6 +345,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
+| [§4.47 Salsa Verde](#447-salsa-verde) | 🟢 | 15 min | 15 min | — | 30 min |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
@@ -340,6 +368,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
+| [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -365,7 +394,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 50 recipes**, including all 15 of this session's new §4 rubs and sauces ([§4.25](#425-basic-fish-cure)–[§4.39](#439-mustard-dill-sauce)) plus most of §4's earlier entries — a handful of the longer-simmered sauces there (Hollandaise, Creole Sauce, Giblet Gravy, and a few others) run past 30 minutes and aren't in this count. Highlights: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 63 recipes**, including nearly all of §4's now-51 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -3062,6 +3091,680 @@ Serve the sauce in a bowl or in individual ramekins, garnished with dill sprigs.
 
 ---
 
+### 4.40 Herbed Horseradish Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Roast beef and horseradish sauce are as English as Big Ben. Fresh herbs add a Mediterranean touch."* Pairs with a Hickory-Smoked Prime Rib (page 35, not in this cookbook) — Raichlen also suggests it on steaks and grilled fish.
+
+**Yield:** about 2 cups; serves 8 to 12
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 piece (2 inches long, 1 to 1½ inches across; about 2 oz.) fresh horseradish root, peeled, or 2 to 3 Tbsp prepared white horseradish
+- ½ cup sour cream
+- 2 Tbsp chopped mixed fresh herbs — oregano, rosemary, basil, and/or flat-leaf parsley
+- 1 Tbsp lemon juice, or more to taste
+- ½ tsp grated lemon zest
+- ½ tsp coarse salt, or more to taste
+- ½ tsp freshly ground black pepper, or more to taste
+- 1 cup heavy cream, chilled
+
+#### B. Cooking Instructions
+
+**1. Grate the horseradish.**
+If using fresh horseradish, finely grate it or chop it in a food processor fitted with a metal blade — take care not to breathe the potent fumes.
+
+**2. Combine the base.**
+Combine the grated horseradish, sour cream, herbs, lemon juice, lemon zest, salt, and pepper in a nonreactive bowl and whisk to mix.
+
+**3. Whip the cream and fold it in.**
+Place the cream in a large chilled bowl and beat it with an electric mixer until soft peaks form. Gently fold the whipped cream into the sour cream mixture. Taste for seasoning, adding salt, pepper, and lemon juice as necessary. Refrigerate, covered, until serving.
+
+> **Best served fresh, per the source:** the sauce tastes best within a couple of hours of making, but will keep for a few days in the refrigerator.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — produce/gourmet**
+
+- 🏪 Fresh horseradish root — 1 piece (2 inches long), or prepared horseradish
+
+**🛒 General grocery**
+
+- 🛒 Sour cream — ½ cup
+- 🛒 Fresh herbs (oregano, rosemary, basil, and/or parsley) — 2 Tbsp chopped
+- 🛒 Lemon — for juice and zest
+- 🛒 Coarse salt, black pepper
+- 🛒 Heavy cream — 1 cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,090 | 111 g | 9 g | 13 g | 0 g |
+| **Per serving** *(2–3 Tbsp, of 10)* | ~110 | 11 g | 1 g | 1 g | 0 g |
+
+**What a serving is:** about 2 to 3 Tbsp, spooned alongside roast beef, steak, or grilled fish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.41 Asian Peanut Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"This sweet, nutty peanut sauce (or any one of a hundred variations) is the traditional accompaniment to the satés (tiny kebabs) of Southeast Asia."* Goes well with a Garlic Halibut (page 298, not in this cookbook) or any type of saté.
+
+**Yield:** about 2 cups; serves 8
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
+
+> **Substitution, per the source:** unsweetened coconut milk is available in cans from Asian markets, gourmet shops, and most supermarkets. If you can't find it, substitute equal parts heavy cream and chicken broth.
+
+#### A. Ingredients
+
+- 2 Tbsp vegetable oil
+- 3 cloves garlic, minced
+- 1 to 3 Thai chiles or jalapeño peppers, seeded and minced (for a hotter sauce, leave the seeds in)
+- 1 Tbsp peeled, minced fresh ginger
+- 1 large or 2 medium shallots, minced
+- ⅔ cup chunky peanut butter
+- 1½ cups unsweetened coconut milk
+- 3 Tbsp finely chopped fresh cilantro
+- 3 Tbsp Asian fish sauce or soy sauce, or more to taste
+- 1 Tbsp lime juice, or more to taste
+- 1 Tbsp brown sugar, or more to taste
+- 1 tsp ground coriander
+- ½ tsp black pepper
+
+#### B. Cooking Instructions
+
+**1. Caramelize the garlic and shallots. 3 to 5 minutes.**
+Heat the oil in a wok or saucepan over medium heat. Add the garlic, chiles, ginger, and shallots and cook to a rich golden brown, 3 to 5 minutes. Reduce the heat as needed to caramelize without burning.
+
+**2. Add the peanut butter, then everything else. 3 to 5 minutes.**
+Stir in the peanut butter and cook for 1 minute. Add the remaining ingredients and simmer until thick and richly flavored, 3 to 5 minutes, whisking to blend. If the sauce is too thick (it should be pourable), add a little water. Taste for seasoning, adding fish sauce, lime juice, and brown sugar as necessary.
+
+**3. Store.**
+Transfer to clean (or even sterile) jars and store in the refrigerator for at least 5 days.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Thai chiles, fresh ginger, unsweetened coconut milk, Asian fish sauce
+
+**🛒 General grocery**
+
+- 🛒 Vegetable oil — 2 Tbsp
+- 🛒 Garlic — 3 cloves
+- 🛒 Shallots — 1 large or 2 medium
+- 🛒 Chunky peanut butter — ⅔ cup
+- 🛒 Fresh cilantro — 3 Tbsp
+- 🛒 Lime — for 1 Tbsp juice
+- 🛒 Brown sugar, ground coriander, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~2,120 | 194 g | 48 g | 55 g | 15 g |
+| **Per serving** *(¼ cup, of 8)* | ~265 | 24 g | 6 g | 7 g | 2 g |
+
+**What a serving is:** about ¼ cup, the traditional dip for a serving of satés.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.42 Asian Pear Dipping Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"The delicate interplay of fruity and salty flavors makes this sauce the perfect accompaniment to almost any type of grilled meat, especially lamb... The Asian pear adds a moist, sweet crunch."* Pairs with a Sesame-Ginger Leg of Lamb (page 168, not in this cookbook) or seafood.
+
+**Yield:** about 1½ cups; serves 6 to 8
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 3 Tbsp sugar, or more to taste
+- 2 cloves garlic, minced
+- 1 Asian pear, peeled, halved, cored, and finely chopped
+- 3 scallions, trimmed and finely chopped
+- 2 Tbsp toasted sesame seeds
+- ⅓ tsp black pepper, or more to taste
+
+**For the base**
+
+- ⅔ cup soy sauce
+- ⅓ cup sake, Chinese rice wine, or dry sherry
+- ⅓ cup water
+
+#### B. Cooking Instructions
+
+**1. Dissolve the sugar into the soy base.**
+Place the soy sauce, sake, and sugar in a nonreactive mixing bowl and stir until the sugar dissolves.
+
+**2. Stir in the rest.**
+Stir in the pear, scallions, sesame seeds, and pepper. Divide the sauce among small bowls for dipping.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Asian pear
+- 🏪 Sake or Chinese rice wine
+- 🏪 Toasted sesame seeds
+
+**🛒 General grocery**
+
+- 🛒 Sugar — 3 Tbsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Scallions — 3
+- 🛒 Soy sauce — ⅔ cup
+- 🛒 Black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~380 | 9 g | 8 g | 72 g | 7 g |
+| **Per serving** *(of 7)* | ~54 | 1.3 g | 1 g | 10 g | 1 g |
+
+**What a serving is:** a small dipping bowl's worth, alongside grilled lamb or seafood.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.43 Vietnamese Dipping Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Wherever Vietnamese eat barbecue, this delicate dipping sauce turns up. The complex layering of flavors — sweet, sour, salty, and hot — goes well with the rich taste of grilled pork."* Pairs with Asian Flavor Baby Back Ribs (page 143, not in this cookbook).
+
+**Yield:** about 1 cup; serves 4
+
+> **Substitution, per the source:** fish sauce is a malodorous condiment made with pickled anchovies. If you can't find it, or don't care for it, substitute soy sauce.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 2⁄3 cup soy sauce
+- ⅓ cup sake, Chinese rice wine, or dry sherry
+- ⅓ cup sugar
+- 1 Asian pear, peeled, halved, cored, and finely chopped
+- 3 scallions, trimmed and finely chopped
+- 2 Tbsp toasted sesame seeds
+- ⅓ tsp black pepper, or more to taste
+- 1 thick piece carrot (3 inches long)
+- 3 Tbsp sugar, or more to taste
+- 2 cloves garlic, minced
+- ⅓ cup warm water
+- ¼ cup Asian fish sauce
+- ¼ cup lime juice, or more to taste
+- 1 Tbsp rice vinegar or more lime juice
+- 1 to 2 serrano peppers or Thai chiles, cut crosswise into paper-thin slivers
+- ¼ tsp black pepper
+
+#### B. Cooking Instructions
+
+**1. Julienne the carrot.**
+Using a vegetable peeler, slice the carrot lengthwise into paper-thin strips. Stack the strips 4 high and cut lengthwise into hair-thin slivers. Rinse these slivers in a strainer under cold water and blot dry with paper towels.
+
+**2. Build the sauce and finish with the carrot and chile.**
+Place the sugar and garlic in a nonreactive mixing bowl and mash to a paste with the back of a wooden spoon. Add the water, fish sauce, lime juice, and rice vinegar and stir until the sugar dissolves. Stir in the carrot, serrano pepper, and black pepper. Taste for seasoning, adding sugar or lime juice as necessary — the sauce should strike a delicate balance between sweet, sour, and salty. Pour into tiny bowls for dipping.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Asian fish sauce, serrano peppers or Thai chiles
+
+**🛒 General grocery**
+
+- 🛒 Carrot — 1 thick piece
+- 🛒 Sugar — 3 Tbsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Lime — for ¼ cup juice
+- 🛒 Rice vinegar
+- 🛒 Black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~475 | 2 g | 10 g | 87 g | 1 g |
+| **Per serving** *(of 4)* | ~120 | 0.5 g | 2.5 g | 22 g | 0.3 g |
+
+**What a serving is:** a small dipping bowl's worth, alongside grilled pork.
+
+#### D. Open Questions
+
+- **This ingredient list reads long and partially duplicated against [§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce)** — the two recipes sit on facing pages with a shared photo caption area, and the transcription may have pulled in a few lines that belong to the neighboring recipe rather than this one. Written in exactly as read rather than guessed at; the second ingredient block (carrot through black pepper) is the one that matches this recipe's own instructions.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.44 Three-Herb Chimichurri
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Ten years ago, few North Americans had ever heard of* chimichurri. *Today this piquant parsley and garlic sauce, served with grilled beef in Argentina, has found a strong following in the United States."* Raichlen's minted version is particularly good with lamb, and pairs with *churrasco* (page 51, not in this cookbook) or any grilled beef or chicken.
+
+**Yield:** about 3 cups; serves 4
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 packed cup washed, stemmed, fresh flat-leaf parsley leaves
+- 1 packed cup washed, stemmed, fresh cilantro leaves
+- ½ packed cup washed, stemmed, fresh mint leaves
+- 6 cloves garlic, coarsely chopped
+- 1 tsp coarse salt, or more to taste
+- ½ tsp black pepper
+- ½ tsp hot red pepper flakes
+- 1 cup extra-virgin olive oil
+- ½ cup distilled white vinegar, or more to taste
+- ⅓ cup cold water
+
+#### B. Cooking Instructions
+
+**1. Finely chop the herbs and garlic.**
+Place the parsley, cilantro, mint, and garlic in a food processor and finely chop them.
+
+**2. Stream in the oil, then finish.**
+With the machine running, add the olive oil in a thin stream, followed by the vinegar and water. Process until thick. Add the salt, black pepper, and hot pepper flakes and process to blend. Taste for seasoning, adding salt or vinegar as necessary — the *chimichurri* should be highly seasoned. Serve within a few hours.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh flat-leaf parsley, fresh cilantro, fresh mint
+- 🛒 Garlic — 6 cloves
+- 🛒 Coarse salt, black pepper, hot red pepper flakes
+- 🛒 Extra-virgin olive oil — 1 cup
+- 🛒 Distilled white vinegar — ½ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~2,030 | 218 g | 4 g | 8 g | 3 g |
+| **Per serving** *(of 4)* | ~510 | 55 g | 1 g | 2 g | 0.8 g |
+
+**What a serving is:** a generous condiment portion alongside a full grilled steak or half a grilled chicken — this is a basting-and-serving sauce, not a light drizzle.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.45 Pico de Gallo
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"The basic Tex-Mex relish,* pico de gallo *is easy to make, but you must use juicy ripe red tomatoes and crisp white onions to get the full effect."* Goes with Beef Fajitas (page 90, not in this cookbook), or any kind of grilled beef or quesadillas.
+
+**Yield:** about 2 cups; serves 6 to 8
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 clove garlic, minced
+- ½ tsp coarse salt, or more to taste
+- 2 ripe red tomatoes, seeded and finely diced
+- 2 to 6 serrano or jalapeño peppers, seeded and finely diced (for a hotter salsa, leave the seeds in)
+- ½ medium white onion, finely diced (about ½ cup)
+- ¼ cup finely chopped fresh cilantro
+- 3 Tbsp lime juice, or more to taste
+
+#### B. Cooking Instructions
+
+**1. Mash the garlic and salt to a paste.**
+Place the garlic and salt in a medium-size nonreactive mixing bowl and mash to a paste with the back of a wooden spoon.
+
+**2. Add everything else.**
+Add the remaining ingredients and gently toss to mix. Taste for seasoning, adding salt or lime juice as necessary. It will taste best served within a few hours of being made.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Garlic — 1 clove
+- 🛒 Coarse salt
+- 🛒 Tomatoes — 2 ripe red
+- 🛒 Serrano or jalapeño peppers — 2 to 6
+- 🛒 White onion — ½ medium
+- 🛒 Fresh cilantro — ¼ cup
+- 🛒 Lime — for 3 Tbsp juice
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~120 | 0.5 g | 3 g | 27 g | 6 g |
+| **Per serving** *(of 7)* | ~17 | 0.1 g | 0.4 g | 4 g | 0.9 g |
+
+**What a serving is:** a spoonful, alongside grilled beef or scooped with quesadillas.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.46 Tomato-Pepper Salsa
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Part salsa, part salad, this simple relish is 100 percent delicious. Argentineans call it* salsa criolla *(Creole sauce)."* Pairs with Argentinean Rib Steaks (page 93, not in this cookbook) — can be made while the meat is marinating.
+
+**Yield:** about 3 cups; serves 6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(better after resting — see below)*
+
+#### A. Ingredients
+
+- 2 ripe tomatoes (about 1 lb total), seeded and cut into ¼-inch dice
+- 1 medium (or ½ large) sweet onion, cut into ¼-inch dice (about 1 cup)
+- ½ green bell pepper, cut into ¼-inch dice
+- ½ yellow bell pepper, cut into ¼-inch dice
+- 2 Tbsp extra-virgin olive oil
+- 2 Tbsp red wine vinegar, or more to taste
+- 3 Tbsp chopped fresh flat-leaf parsley
+- 1 tsp dried oregano
+- Coarse salt and black pepper
+
+#### B. Cooking Instructions
+
+**1. Combine and season.**
+Combine the tomatoes, onion, bell peppers, oil, vinegar, parsley, and oregano in a nonreactive mixing bowl and toss to mix. Season the salsa with salt and pepper. Taste for seasoning, adding vinegar or salt as necessary — the salsa should be highly seasoned.
+
+**2. Rest before serving.**
+You can make the salsa up to 4 hours ahead; store it, covered, in the refrigerator. Let it return to room temperature before serving — you may need to reseason it before serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Tomatoes — 2 ripe (about 1 lb total)
+- 🛒 Sweet onion — 1 medium
+- 🛒 Green bell pepper, yellow bell pepper — ½ each
+- 🛒 Extra-virgin olive oil — 2 Tbsp
+- 🛒 Red wine vinegar — 2 Tbsp
+- 🛒 Fresh flat-leaf parsley — 3 Tbsp
+- 🛒 Dried oregano
+- 🛒 Coarse salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~390 | 27 g | 3 g | 35 g | 6 g |
+| **Per serving** *(of 6)* | ~65 | 4.5 g | 0.5 g | 6 g | 1 g |
+
+**What a serving is:** a generous spoonful, part relish and part salad, alongside grilled steak.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.47 Salsa Verde
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"One of the cornerstones of Mexican cuisine,* salsa verde, *a cooked tomatillo salsa, is an indispensable part of Beef Fajitas."* Also good with quesadillas (page 407) and Bluefish in Banana Leaves (page 307) — neither in this cookbook. The traditional method roasts the vegetables on a *comal* (a flat skillet); a grill works too.
+
+**Yield:** 2½ to 3 cups; serves 6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~15 min** · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+- 1 lb fresh tomatillos, husked
+- ½ medium white onion, cut into half again
+- 3 cloves garlic, peeled
+- 3 to 5 serrano chiles or jalapeño peppers, seeded (for a hotter salsa, leave the seeds in)
+- ¼ cup chopped fresh cilantro
+- ½ tsp sugar, or more to taste
+- ⅓ tsp coarse salt, or more to taste
+- ⅓ tsp black pepper
+- ⅓ to 1 cup chicken or vegetable stock or water
+
+#### B. Cooking Instructions
+
+**1. Roast the tomatillos, onion, garlic, and chiles. 10 to 16 minutes total.**
+Heat a *comal* or a medium-size skillet over medium-high heat. Place the tomatillos in the skillet and cook until lightly browned on all sides, turning with tongs, 6 to 8 minutes. Add the onion, garlic, and chiles to the pan and roast until lightly browned, 8 to 10 minutes for the onion, 4 to 6 minutes for the chiles and garlic. Alternatively, direct-grill the vegetables over a hot fire. Transfer to a plate to cool.
+
+**2. Purée and simmer. 5 minutes.**
+Place the roasted vegetables in a food processor with the cilantro, sugar, salt, and pepper and process to a coarse purée. Add stock or water as needed to obtain a pourable sauce. Transfer this mixture to a nonreactive saucepan and simmer over medium-high heat until thick and richly flavored, 5 minutes. Taste for seasoning, adding salt or sugar as necessary.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Mexican market**
+
+- 🏪 Fresh tomatillos — 1 lb
+
+**🛒 General grocery**
+
+- 🛒 White onion — ½ medium
+- 🛒 Garlic — 3 cloves
+- 🛒 Serrano chiles or jalapeño peppers — 3 to 5
+- 🛒 Fresh cilantro — ¼ cup
+- 🛒 Sugar, coarse salt, black pepper
+- 🛒 Chicken or vegetable stock
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~225 | 1 g | 5 g | 40 g | 5 g |
+| **Per serving** *(of 6)* | ~38 | 0.2 g | 0.8 g | 7 g | 0.8 g |
+
+**What a serving is:** a spoonful, alongside fajitas or quesadillas.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.48 Cilantro Chutney
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Indians and Afghans share a love for this pungent green sauce, made with fresh cilantro and jalapeño peppers."* Pairs with Ground Lamb Kebabs (page 193), Tandoori Lamb Chops (page 185), and Saffron-Grilled Chicken (page 234) — none in this cookbook.
+
+**Yield:** about 1 cup; serves 4
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 bunch fresh cilantro (about 1 cup packed)
+- 2 cloves garlic, chopped
+- 1 to 3 jalapeño peppers, seeded and chopped (for a hotter chutney, leave the seeds in)
+- 3 Tbsp chopped walnuts
+- 2 Tbsp chopped onion
+- 1 Tbsp lemon juice, or more to taste
+- ⅓ tsp coarse salt, or more to taste
+- ⅓ tsp sugar
+
+#### B. Cooking Instructions
+
+**1. Purée everything together.**
+Combine all the ingredients in a blender and purée to a paste, scraping down the sides of the blender a few times and adding 4 to 5 tablespoons water, as needed to obtain a pourable sauce. Taste for seasoning, adding salt or sugar as necessary. The chutney should be flavorful and piquant.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh cilantro — 1 bunch
+- 🛒 Garlic — 2 cloves
+- 🛒 Jalapeño peppers — 1 to 3
+- 🛒 Walnuts — 3 Tbsp chopped
+- 🛒 Onion — 2 Tbsp chopped
+- 🛒 Lemon — for 1 Tbsp juice
+- 🛒 Coarse salt, sugar
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~310 | 28 g | 4 g | 15 g | 2 g |
+| **Per serving** *(of 4)* | ~78 | 7 g | 1 g | 4 g | 0.5 g |
+
+**What a serving is:** a small dollop, alongside grilled lamb or chicken. Keeps several days refrigerated, though it tastes best within a few hours of being made.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.49 Mango Salsa
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Mango salsas began turning up on America's tables in the 1990s. Their kaleidoscopic colors and explosively hot, fruity flavors make them a hit at summer cookouts."* Pairs with Spiny Lobsters with Cilantro and Lime (page 337, not in this cookbook), or any grilled poultry or seafood.
+
+**Yield:** about 3 cups; serves 4
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+> ⚠️ **Mango sap warning, per the source:** some people are allergic to mango sap. If you have sensitive skin, wear rubber gloves when handling.
+
+#### A. Ingredients
+
+- 1 ripe mango, peeled, seeded, and diced
+- 1 cucumber, scrubbed, seeded, and diced
+- ½ medium red onion, diced
+- ¾ cup chopped fresh cilantro
+- ⅓ Scotch bonnet chile or other hot chile, seeded and minced (for a hotter salsa, leave the seeds in)
+- 3 Tbsp lime juice, or more to taste
+- 1 Tbsp brown sugar, or more to taste
+
+#### B. Cooking Instructions
+
+**1. Combine and rest.**
+Combine all the ingredients in a nonreactive mixing bowl and stir to mix. Taste for seasoning, adding lime juice or brown sugar as necessary. The salsa will taste best when served within a few hours of being made.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Mango — 1 ripe
+- 🛒 Cucumber — 1
+- 🛒 Red onion — ½ medium
+- 🛒 Fresh cilantro — ¾ cup
+- 🛒 Scotch bonnet chile or other hot chile
+- 🛒 Lime — for 3 Tbsp juice
+- 🛒 Brown sugar
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~250 | 0.5 g | 3 g | 62 g | 4 g |
+| **Per serving** *(of 4)* | ~63 | 0.1 g | 0.8 g | 15 g | 1 g |
+
+**What a serving is:** a generous spoonful, alongside grilled poultry or seafood.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.50 Cucumber Relish
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"This crisp, colorful relish exists in many incarnations throughout the world of barbecue. The cool, moist crunch of the cucumber and onion provides a welcome contrast to the flame-charred taste of grilled fare."* Thai in inspiration — perfect with Lemongrass Beef Satés (page 81) or Chicken Satés (page 257), neither in this cookbook.
+
+**Yield:** about 2 cups; serves 4 to 6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 cucumber
+- ¼ cup sugar, or more to taste
+- 1 clove garlic, minced
+- ⅓ tsp coarse salt, or more to taste
+- ⅓ tsp black pepper
+- ¼ cup distilled white vinegar
+- ⅓ cup diced red onion
+- 3 Tbsp chopped fresh cilantro
+- 2 Tbsp finely chopped dry-roasted peanuts, optional
+
+#### B. Cooking Instructions
+
+**1. Peel, seed, and dice the cucumber.**
+Peel the cucumber, removing the skin in lengthwise strips; leave a little skin in between each strip. Cut the cucumber in half lengthwise, remove the seeds with a spoon or melon baller, and cut the cucumber flesh into ½-inch dice.
+
+**2. Mash the aromatics, then combine.**
+Place the sugar, garlic, salt, and pepper in a nonreactive mixing bowl and mash with the back of a wooden spoon to a paste. Add the vinegar and ¼ cup water and stir until the sugar and salt dissolve. Stir in the diced cucumber and the onion and cilantro. Taste for seasoning, adding salt or sugar as necessary. Sprinkle with peanuts, if using, and serve at once.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cucumber — 1
+- 🛒 Sugar — ¼ cup
+- 🛒 Garlic — 1 clove
+- 🛒 Coarse salt, black pepper
+- 🛒 Distilled white vinegar — ¼ cup
+- 🛒 Red onion — ⅓ cup diced
+- 🛒 Fresh cilantro — 3 Tbsp
+- 🛒 Dry-roasted peanuts — 2 Tbsp, optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(with peanuts)* | ~360 | 8 g | 6 g | 68 g | 2 g |
+| **Per serving** *(of 5)* | ~72 | 1.6 g | 1.2 g | 14 g | 0.4 g |
+
+**What a serving is:** a small side relish, alongside grilled satés.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.51 Shallot Marmalade
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"While it may look like marmalade, this tangy relish sure doesn't taste like it! Not with the addition of shallots, wine, and balsamic vinegar."* Serve it with [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) — the second of that recipe's five named serving sauces to get transcribed — or Juniper-Flavored Filets Mignons (page 69, not in this cookbook), or any grilled steak.
+
+**Yield:** about 1 cup; serves 6
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~40 min** · **Start to finish ~50 min**
+
+> **Variations, per the source:** marmalades can be made with other members of the allium family, especially red and/or white onions (use 2 lb). You can also make a leek marmalade (2 lb whole leeks, 1 lb trimmed); substitute white balsamic vinegar or dry white wine for the red if you do.
+
+#### A. Ingredients
+
+- 1 lb shallots, thinly sliced (about 4 cups)
+- 2 cups dry red wine
+- ¼ cup balsamic vinegar, or more to taste
+- ¼ cup honey, or more to taste
+- 2 Tbsp sugar
+- 1 pinch cayenne pepper
+- 1 pinch ground cloves
+- About ½ tsp coarse salt
+- About ½ tsp black pepper
+
+#### B. Cooking Instructions
+
+**1. Combine and simmer, mostly uncovered, until the liquid absorbs. 30 to 40 minutes.**
+Place all the ingredients (use only a little of the salt and pepper to begin with) in a large nonreactive sauté pan with 2 cups water. The shallots should be completely covered. Bring the mixture to a boil, reduce the heat to medium, and gently simmer, uncovered, until the liquid is completely absorbed, 30 to 40 minutes. Stir from time to time, more frequently at the end. You may need to lower the heat to keep the shallots from burning.
+
+**2. Season and store.**
+Taste for seasoning, adding salt, pepper, vinegar, or honey to taste. The marmalade should be a little sweet, a little sour, and very highly seasoned. Transfer to clean (or even sterile) jars and store in the refrigerator for up to several weeks.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallots — 1 lb, thinly sliced
+- 🛒 Dry red wine — 2 cups
+- 🛒 Balsamic vinegar — ¼ cup
+- 🛒 Honey — ¼ cup
+- 🛒 Sugar — 2 Tbsp
+- 🛒 Cayenne pepper, ground cloves, coarse salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~955 | 0.5 g | 3 g | 152 g | 5 g |
+| **Per serving** *(of 6)* | ~160 | 0.1 g | 0.5 g | 25 g | 0.8 g |
+
+**What a serving is:** a generous spoonful, served alongside a portion of grilled beef.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -3086,6 +3789,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T12](#t12-fast-homemade-chicken-broth) | Fast Homemade Chicken Broth | `broth` `stock` `rotisserie-chicken` `soup-base` `quick` |
 | [T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) | Basic Stock Formula (Fowl, Beef, Pork & Seafood) | `stock` `broth` `basic-stock` `seafood-stock` `chicken-stock` `formula` |
 | [T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | How to Grill Pork Tenderloin (Cuban Mojo) | `pork-tenderloin` `mojo` `cuban` `direct-grilling` `marinade` `formula` |
+| [T15](#t15-how-to-barbecue-cabbage) | How to Barbecue Cabbage | `cabbage` `indirect-grilling` `whole-vegetable` `formula` |
 
 ---
 
@@ -4394,6 +5098,75 @@ Steady the pork with tongs and press it with a finger. Cooked to medium, it will
 
 ---
 
+### T15. How to Barbecue Cabbage
+
+<!-- TECHNIQUE-TAGS: cabbage, indirect-grilling, whole-vegetable, formula -->
+**Tags:** `cabbage` · `indirect-grilling` · `whole-vegetable` · `formula`
+**Source:** Steven Raichlen's *How to Grill*, p. 357–359 — the same book as [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and every §4.40+ sauce this session
+**Used in:** no numbered recipe cites it yet
+
+> **A technique article, not a boxed recipe — same situation as [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo).** The source describes what goes in the cabbage (a bacon-and-onion mixture, barbecue sauce, diced butter) without giving exact quantities anywhere in the photographed pages. Presented here as a formula — pair it with whatever barbecue sauce you like, including any of [§4.34](#434-basic-barbecue-mop-sauce)–[§4.37](#437-white-barbecue-sauce) in this cookbook.
+
+> **Per the source:** *"This eye-popping technique is a favorite on the American barbecue circuit. The sight of a whole barbecued cabbage never fails to grab attention and it tastes as great as it looks... Barbecued cabbage meets my three requirements for a truly great dish: it looks terrific, it tastes terrific, and it takes just a few minutes to prepare."*
+
+**Method:** Indirect grilling · **Cooking time:** 1 to 1½ hours
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Slow cook ~1 to 1½ hr** *(indirect grill — mostly hands-off once it's on)* · **Start to finish ~1 hr 15 min – 1 hr 45 min**
+
+#### A. The Formula
+
+- 1 head green or savoy cabbage *(source's note: green is traditional; savoy is milder and sweeter — a red cabbage is untested by the source but plausible)*
+- Cooked bacon and sautéed onion, chopped — enough to loosely fill the cored cavity
+- Your barbecue sauce of choice — enough to coat the inside generously *(see [§4.34](#434-basic-barbecue-mop-sauce)–[§4.37](#437-white-barbecue-sauce))*
+- Butter, diced — a few pats
+- Soaked wood chips, for smoke
+
+#### B. Cooking Instructions
+
+**1. Set up the grill for indirect grilling.**
+Light the charcoal in a chimney starter. Form two heat zones by raking the coals into two piles at opposite sides of the grill, using a long-handled implement like a garden hoe. If your grill has side baskets, divide the coals evenly between them, with the drip pan in the center of the grill.
+
+**2. Core the cabbage.**
+Set the cabbage on a cutting board on its crown. Cut out the core by angling your knife about 3 inches down toward the center of the cabbage and cutting in a circle about 3 inches in diameter — the piece removed should look like a cone. Pull out the core and discard it.
+
+**3. Stabilize the cabbage with a foil ring.**
+A 3-inch ring of crumpled aluminum foil will hold the cabbage upright while you work and as it cooks on the grill.
+
+**4. Fill the cavity.**
+Spoon the bacon and onion mixture into the cavity of the cabbage. Add the barbecue sauce and diced butter.
+
+**5. Grill indirect with smoke. 1 to 1½ hours.**
+Cook the cabbage for 1 to 1½ hours, using the indirect method. Add soaked wood chips to generate smoke.
+
+> **Softer vs. smokier, per the source:** wrapping the cabbage in foil before grilling gives a softer, juicier result but less smoke flavor. A compromise: cook it wrapped for 30 minutes, then unwrap, add the wood chips, and finish grilling unwrapped.
+>
+> **Presentation:** bring the whole barbecued cabbage to the table before cutting it up to serve — the reveal is the point.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Green or savoy cabbage — 1 head
+- 🛒 Bacon, onion — for the filling
+- 🛒 Butter — a few pats
+- 🛒 Barbecue sauce of choice — see [§4.34](#434-basic-barbecue-mop-sauce)–[§4.37](#437-white-barbecue-sauce)
+- 🛒 Wood chips, soaked
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(1 typical 2 lb cabbage + filling)* | ~900 | 55 g | 25 g | 75 g | 20 g |
+| **Per serving** *(serves 6)* | ~150 | 9 g | 4 g | 13 g | 3.3 g |
+
+**What a serving is:** a wedge cut from the whole barbecued cabbage — a side dish portion.
+
+*A very rough estimate given no fixed quantities for the bacon, onion, sauce, or butter — figures above assume about 4 slices of bacon, a small onion, ½ cup barbecue sauce, and 2 Tbsp butter as a typical fill. Revisit once actual amounts are settled by trying it.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -4680,6 +5453,65 @@ Transfer the cabbage to a nonreactive mixing bowl and toss with the vinegar sauc
 **What a serving is:** about ½ to ¾ cup — a sandwich-topping portion, per [§6.2 Pulled Pork](#62-pulled-pork).
 
 *Plain chopped cabbage is naturally very light; almost none of the fat or protein here comes from the cabbage itself. Recalculate once [§4.36](#436-north-carolina-vinegar-sauce)'s actual per-cup figures are folded in precisely — this estimate used a placeholder before that recipe was captured.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.14 Grilled Corn
+
+Transcribed from **Steven Raichlen's *How to Grill***, the same book as [§5.13](#513-north-carolina-coleslaw) and every §4.40+ sauce this session. Corn grilled in its husk with a garlic-parsley butter.
+
+**Yield:** 4 ears; serves 2 to 4
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
+
+> **You'll need:** butcher's string.
+>
+> **Variations, per the source:** dill, basil, or tarragon all make tasty alternatives to the parsley in the butter. Grilled corn kernels also make a delectable addition to salsas and salads — lay the ears on their side and cut the kernels off the cob with broad lengthwise strokes of a knife.
+
+#### A. Ingredients
+
+- 4 ears sweet corn in their husks
+- 6 Tbsp (¾ stick) butter, at room temperature
+- 2 Tbsp minced fresh flat-leaf parsley
+- 1 clove garlic, minced
+- Coarse salt and black pepper
+
+#### B. Cooking Instructions
+
+**1. Set up the grill for direct grilling and preheat to high.**
+
+**2. Prep the husk into a handle.**
+Strip back the husk of each ear of corn, starting at the top — the motion is rather like peeling a banana. Leave the husk attached at the stem end. Remove the corn silk and fold the husk back over the stalk. Tie the husk with string to form a handle.
+
+**3. Make the garlic-parsley butter.**
+Place the butter, parsley, and garlic in a mixing bowl and whisk or beat until smooth and creamy.
+
+**4. Grill, brushing with butter. 8 to 12 minutes.**
+When ready to cook, lightly brush each ear of corn with a little of the garlic-parsley butter and arrange on the hot grate, positioning the ears so the husks are away from the fire. Grill the corn until the kernels are handsomely browned all over, 8 to 12 minutes in all, turning as needed, brushing with the remaining butter, and seasoning generously with salt and pepper. Remove from the grill and serve at once.
+
+> **Keeping the husks from burning, per the source:** slide a sheet of aluminum foil under the husks where they extend past the grill grate.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sweet corn, in the husk — 4 ears
+- 🛒 Butter — 6 Tbsp (¾ stick)
+- 🛒 Fresh flat-leaf parsley — 2 Tbsp minced
+- 🛒 Garlic — 1 clove
+- 🛒 Coarse salt, black pepper
+- 🛒 Butcher's string
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~920 | 73 g | 7 g | 68 g | 8 g |
+| **Per serving** *(serves 3)* | ~307 | 24 g | 2 g | 23 g | 2.7 g |
+
+**What a serving is:** one to two ears of corn with butter — a side portion for a cookout plate.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -6755,7 +7587,7 @@ Set up the grill for direct grilling and preheat to medium. When ready to cook, 
 
 Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 46–50 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad) and [§7.31](#731-salmon-with-mustard-glaze). A whole beef tenderloin, trimmed and tied for even cooking, coated in garlic and a big mix of fresh herbs, direct-grilled to a dark, crusty medium-rare.
 
-> **Per the source:** *"This is the sort of technique I call millionaire grilling. You spend 15 minutes of preparation time and you wind up with a dish that looks and tastes like a million bucks... It's simple and regal, and anyone who has priced beef tenderloin recently will appreciate the veritable painter's palette of barbecue and steak sauces served with the beef."* Raichlen serves it fanned out with a spread of sauces: Béarnaise Mayonnaise, [§4.38 Mustard Sauce](#438-mustard-sauce), Three-Herb Chimichurri, Cucumber Relish, and Shallot Marmalade. One of the five — the mustard sauce — turned up in a later batch of photos and is now transcribed; the other four pages still aren't captured, but the tenderloin itself doesn't need any of them to work.
+> **Per the source:** *"This is the sort of technique I call millionaire grilling. You spend 15 minutes of preparation time and you wind up with a dish that looks and tastes like a million bucks... It's simple and regal, and anyone who has priced beef tenderloin recently will appreciate the veritable painter's palette of barbecue and steak sauces served with the beef."* Raichlen serves it fanned out with a spread of sauces: Béarnaise Mayonnaise, [§4.38 Mustard Sauce](#438-mustard-sauce), [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), [§4.50 Cucumber Relish](#450-cucumber-relish), and [§4.51 Shallot Marmalade](#451-shallot-marmalade). Four of the five turned up across later batches of photos and are now transcribed; only Béarnaise Mayonnaise is still missing, and the tenderloin itself doesn't need any of them to work.
 
 > **Also good for, per the source:** the same herb crust works well on whole pork loins and pork tenderloins.
 
@@ -6775,13 +7607,13 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 - 4 cloves garlic, minced
 - 2 cups chopped mixed fresh herbs — tarragon, basil, rosemary, oregano, and/or flat-leaf parsley
 
-**For serving** *(any or all)*
+**For serving** *(any or all — four of the five are now transcribed)*
 
-- Béarnaise Mayonnaise (page 452) — not in this cookbook yet
-- [§4.38 Mustard Sauce](#438-mustard-sauce) — **now transcribed**, and names this exact dish in its own source text
-- Three-Herb Chimichurri (page 457) — not in this cookbook yet
-- Cucumber Relish (page 460) — not in this cookbook yet
-- Shallot Marmalade (page 461) — not in this cookbook yet
+- Béarnaise Mayonnaise (page 452) — the only one of the five still not in this cookbook
+- [§4.38 Mustard Sauce](#438-mustard-sauce) — names this exact dish in its own source text
+- [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri)
+- [§4.50 Cucumber Relish](#450-cucumber-relish)
+- [§4.51 Shallot Marmalade](#451-shallot-marmalade) — also names this exact dish in its own source text
 
 #### B. Cooking Instructions
 

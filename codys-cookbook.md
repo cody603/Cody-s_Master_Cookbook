@@ -20,6 +20,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.4 Salsa Marinara (Marinara Sauce)](#44-salsa-marinara-marinara-sauce) ✅
   - [4.5 Pickled Pink Onions](#45-pickled-pink-onions) ✅
   - [4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) ✅
+  - [4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -86,6 +87,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) ✅
 - [7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ✅
 - [7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded) ✅ 🥑
+- [7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -130,6 +132,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **A long-standing open question is settled: "Capt. Mike's seasoning" is not a store brand.** [§7.13 Crawfish Elegante](#713-crawfish-elegante) has carried that question since it was transcribed — its card called for a seasoning nobody could identify. Cody identified it as a **blend**, now documented at **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)**: onion and garlic salt, white pepper, cayenne, black pepper, sweet basil, bay leaf, oregano, thyme — with **white pepper as the defining note**, per Cody. §7.13's ingredient line, grocery list, and Open Questions all updated; the question is marked settled rather than deleted. Proportions still aren't recorded, so that carries forward as a new open question on §4.7. |
+| 2026-08-09 | Added **[§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche)** — raw fish cured 36–48 hours in lime juice, no heat anywhere, from Captain Mike's card with his "Captain's Log" notes kept as a fish-selection table. **Carries a prominent freshness warning**, combining Cody's rule (*if you can't get genuinely fresh shrimp, don't make ceviche with shrimp*) with the card's own — since an acid cure isn't heat and doesn't make questionable seafood safe. The card's claim that fresh-frozen can beat "fresh" is confirmed and explained inline: commercial freezing kills parasites, which is why sushi-grade fish is frozen. Filed as **Slow cook 36–48 hr** — an edge case for the §3a rule, since the waiting *is* the cooking even with no heat involved. |
 | 2026-08-09 | Added two Thanksgiving sides from a photocopied pair of handwritten family recipes: **[§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole)** (attributed on the card to *Mika in Alaska*) and **[§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing)** (marked *mom's recipe*). New 🦃 marker in the Table of Contents for holiday sides. **Two things added that the cards don't say:** §5.12 carries a food-safety note — stuffing cooked inside a bird has to reach **165°F at the center of the stuffing**, and it's the last thing to get there; and §5.11 flags that the bake instruction appears to read *covered*, which conflicts with a cornflake topping that normally bakes uncovered to crisp — left as an Open Question rather than silently corrected. §5.12's cornbread cross-links to **[§11.3](#113-keto-skillet-cornbread)** as one way to make the 4 cups it needs. |
 | 2026-08-09 | Filled the **[§11.3](#113-keto-skillet-cornbread)** placeholder with **Keto Skillet Cornbread** from the same keto book as §11.4–§11.6 and §7.21 — almond flour and golden flaxseed meal instead of cornmeal, 2.1 g net carbs, 🥑 tagged. **Worth knowing: there's no corn in it** — the cornbread flavor comes from an optional sweet corn extract, flagged in a callout since the recipe reads quite differently without it. Cross-linked to **[§8.6](#86-sweet-potato-and-andouille-soup)** (which wants cornbread alongside) and **[§7.17](#717-white-beans-slow-cooker-ham--white-beans)** (whose list calls for boxed cornbread mix). **§8.6's open question deliberately stays open** — its source meant a *different* Skillet Cornbread from a different book, so this is noted as a substitute rather than the answer. |
 | 2026-08-09 | **Keto recipes are now tagged 🥑 and findable as a group**, per Cody — and the rule is in the [project instructions](CLAUDE.md) §3c: **if a source prints net carbs, the recipe is keto.** That's the reliable signal, since no ordinary recipe bothers printing it. The tag goes on the badge line, in the Table of Contents, and in a new keto callout under the **[Difficulty & Time Index](#difficulty--time-index)**. Tagging is by content rather than section — **[§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded)** is keto but lives in §7 Mains, which is exactly why the tag is needed. Also noted: the same four substitutions repeat across all of them — cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading. |
@@ -198,6 +202,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 |---|---|---|---|---|---|
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
@@ -215,6 +220,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
+| [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
 | [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | — | 40 min |
@@ -941,6 +947,72 @@ The card is complete as written but leaves out several things a first-time maker
 - **Are the jars processed, or just sealed?** "Seal with hot lids" suggests hot lids on raw-packed jars, but doesn't say whether they go into a water bath afterward or simply sit.
 - **How much cabbage does a gallon of brine cover?** The card scales the brine but not the cabbage — worth noting once you've made a batch.
 - **Is the vinegar doing the preserving, or is this a true ferment?** A cup of vinegar in a gallon is fairly dilute, which suggests salt-brine fermentation with the vinegar as a helper rather than a straight vinegar pickle. Worth pinning down, since it changes how it's stored.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.7 Captain Mike's Seasoning
+
+**This is the seasoning [§7.13 Crawfish Elegante](#713-crawfish-elegante) has been calling for all along.** That recipe's card wrote it as "Capt. Mike's" / "capn' mike's" and it sat as an open question — *which product is this?* — until Cody identified it: it isn't a store brand to hunt for, it's a **blend**. Also called for by name in [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche).
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+> **The white pepper is the thing.** Per Cody, that's what gives the blend its character — it's not a background note here the way it is in most mixes. If you're going to be careful about one ingredient, be careful about that one. See [§T5](#t5-seasonings--peppers) on why white pepper reads differently from black.
+
+#### A. Ingredients
+
+*Proportions aren't recorded — see Open Questions. Listed in the order Cody named them.*
+
+- Onion salt
+- Garlic salt
+- **White pepper** — the defining note
+- Cayenne pepper
+- Black pepper
+- Sweet basil
+- Bay leaf
+- Oregano
+- Thyme
+
+#### B. Cooking Instructions
+
+**1. Combine everything and store airtight.**
+Mix the blend and keep it in a sealed jar out of direct light. Per [§T5](#t5-seasonings--peppers), premixing is the whole point — it's how you handle one jar mid-cook instead of nine.
+
+**2. Grind the bay leaf, or leave it whole and pull it later.**
+Bay leaf doesn't break down. Either grind it fine so it disappears into the blend, or keep whole leaves separate and add them to the pot where you can fish them out. *Which of these the original does isn't recorded — see Open Questions.*
+
+**3. Make it in batches you'll use.**
+Ground spices fade. This is a nine-ingredient blend built on aromatics that lose their edge within a couple of months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Onion salt
+- 🛒 Garlic salt
+- 🛒 White pepper — *the one worth buying fresh*
+- 🛒 Cayenne pepper
+- 🛒 Black pepper
+- 🛒 Sweet basil, dried
+- 🛒 Bay leaf
+- 🛒 Oregano, dried
+- 🛒 Thyme, dried
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~90 | 2 g | 3 g | 18 g | 8 g |
+| **Per serving** *(about 1 tsp)* | ~2 | 0 g | 0 g | 0.4 g | 0.2 g |
+
+**What a serving is:** roughly 1 tsp — what you'd sprinkle over one portion. Nutritionally this is close to nothing; **the number that matters here is sodium**, since two of the nine ingredients are salts.
+
+#### D. Open Questions
+
+- **No proportions are recorded** — only the ingredient list, from memory. Worth writing down the ratios once a batch is mixed and tasted. Given Cody's note, white pepper should sit higher than it would in a generic Creole blend.
+- **Ground or whole bay leaf?** Affects whether it's a true shake-on blend or something you fish out of the pot.
+- **Is there a written original?** If a card or label for Captain Mike's blend turns up, it supersedes this reconstruction.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2410,7 +2482,7 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 - 3 Tbsp sherry
 - 1 pint half & half
 - Salt and cayenne pepper, to taste
-- Capt. Mike's seasoning, to taste *(name as written on the card — see Open Questions)*
+- [Captain Mike's Seasoning](#47-captain-mikes-seasoning), to taste *(the card writes it "Capt. Mike's" / "capn' mike's" — now documented at §4.7)*
 - 1 box pasta
 - 1 bunch asparagus
 - Crystal hot sauce (Cody's card spells it "Krystal's") — to taste
@@ -2448,7 +2520,7 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 - 🛒 Sherry
 - 🛒 Half & half — 1 pint
 - 🛒 Salt & cayenne pepper
-- 🛒 Capt. Mike's seasoning *(confirm brand — see Open Questions)*
+- 🛒 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) — *not a store brand; mix it yourself from §4.7*
 - 🛒 Pasta — 1 box
 - 🛒 Asparagus — 1 bunch
 - 🛒 Crystal hot sauce — 1 jar
@@ -2466,7 +2538,7 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 
 #### D. Open Questions
 
-- "Capt. Mike's" appears on the card as the seasoning brand (written both "Cpt. Mike's" and "capn' mike's" in different spots) — worth confirming exactly which product this is so it's easy to find at the store next time.
+- ~~"Capt. Mike's" appears on the card as the seasoning brand — worth confirming exactly which product this is.~~ **Settled 2026-08-09 — it isn't a store brand at all.** Cody identified it as a blend: onion and garlic salt, white pepper, cayenne, black pepper, sweet basil, bay leaf, oregano, and thyme, with the **white pepper** as its defining note. Now documented at **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)** — no store trip needed. *(Proportions still aren't recorded — that's an open question on §4.7 now.)*
 - No cook time given for the sauce itself once combined — confirm whether it needs a simmer to thicken further, or if it's ready as soon as the cream is added.
 
 [↑ Table of Contents](#table-of-contents)
@@ -3152,6 +3224,140 @@ Don't skip it; it's built into the cook time above.
 **What a serving is:** one bone-in breast half or thigh, or two drumsticks.
 
 **Net carbs: 2.1 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 4 servings. Frying oil absorption is already accounted for in the source's figures.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.22 Captain Mike's Ceviche
+
+Transcribed from Captain Mike's printed recipe card, complete with his "Captain's Log" notes. Raw fish "cooked" by lime juice over a day and a half — no heat anywhere in this recipe. Uses [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning).
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~30 min** · **Cook none** *(no heat at all)* · **Slow cook 36–48 hr** *(the lime juice does the cooking)* · **Start to finish 1½–2 days**
+
+> ### ⚠️ Freshness is the whole recipe
+>
+> **Cody's rule, and it is not negotiable: if you can't get genuinely fresh shrimp, don't make ceviche with shrimp.** Not "make it anyway and hope" — don't make it. The card says the same thing about fish: *"It is imperative that the seafood be absolutely fresh or fresh-frozen."*
+>
+> **The card's own test:** *"Remember, your 'nose knows'. If it smells good, it is good."*
+>
+> **Fresh-frozen genuinely can beat "fresh,"** and the card is right about this — commercially fresh-frozen seafood is frozen hard enough to kill parasites, which is exactly why sushi-grade fish is frozen. Fish sitting on ice at the counter for three days has had none of that protection. When in doubt, buy fresh-frozen.
+>
+> Because the acid cure isn't heat, it doesn't make questionable seafood safe. Everything rides on what you start with.
+
+**Techniques used:** [T6 Seafood Notes](#t6-seafood-notes)
+
+#### A. Ingredients
+
+**Vegetables — all chopped medium**
+
+- 1 large white onion (or 2 medium)
+- 1 medium bell pepper
+- 2 stalks celery, tender part
+- 1 bunch shallots (green onion)
+
+**Seafood**
+
+- 1–1½ lbs fish fillets — **not over ½ inch thick**, a non-oily firm-fleshed variety, absolutely fresh or fresh-frozen *(see Part D for which fish)*
+
+**Cure and seasoning**
+
+- 4 limes
+- 1 lemon
+- 2 Tbsp [Captain Mike's Seasoning](#47-captain-mikes-seasoning) — *plus more for the fish, not counted here*
+- 2 Tbsp ground cumin
+- 4 tsp cilantro
+- 3 Tbsp Pickapeppa sauce (or any Jamaica-style sauce)
+- 4 Tbsp Worcestershire sauce
+- 2 tsp habanero pepper sauce
+- 1 tsp Tabasco-style pepper sauce
+- 10–12 oz. extra-virgin olive oil, good grade
+
+**To serve**
+
+- 1 head lettuce
+- 1 ripe avocado *(optional)*
+- 2 cups seedless, skinless diced tomatoes *(optional)*
+
+#### B. Cooking Instructions
+
+**1. Cut the fish and season it — this seasoning is extra.**
+Cut the fish into bite-size pieces and sprinkle **liberally** with Captain Mike's Seasoning, then set aside. *The card is explicit that this amount is **not** the 2 Tbsp in the ingredient list — that goes in the marinade separately.*
+
+**2. Juice the citrus, strain it, and blend with the olive oil.**
+Squeeze the 4 limes and 1 lemon, remove the pulp and seeds, and mix the juice thoroughly with the olive oil.
+
+**Don't change these proportions** — the card says so outright, and explains why each one is there:
+
+- **The lime juice does the cooking.** It's the acid that turns the fish opaque.
+- **The lemon is for flavor**, not for curing.
+- **The olive oil is for smoothness** — enough of it to take the harsh edge off the lime juice.
+
+**3. Combine everything and fold the seafood in — piece by piece.**
+Mix all the ingredients well, then stir in the seafood **making sure no pieces stick together**. Any two pieces pressed against each other won't cure where they touch.
+
+**4. Refrigerate 36–48 hours in glass or plastic. No metal, no foil.**
+Cover and refrigerate. **The container matters** — the card specifies plastic or glass and rules out metal and foil, because this much acid reacts with metal. It's done when the fish has gone opaque all the way through. Good up to 72 hours, though per the card, *"ceviche remaining that long in this galley is a rare event."*
+
+**5. Serve over crisp lettuce with avocado and tomato.**
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Fish fillets — 1–1½ lbs, non-oily and firm-fleshed, **absolutely fresh or fresh-frozen** *(see Part D)*
+- 🏪 Louisiana Gulf shrimp — *if going the shrimp route; the card prefers these over imported pond-raised*
+
+**🛒 General grocery**
+
+- 🛒 White onion — 1 large or 2 medium
+- 🛒 Bell pepper — 1 medium
+- 🛒 Celery — 2 stalks
+- 🛒 Green onions — 1 bunch
+- 🛒 Limes — 4 · Lemon — 1
+- 🛒 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) — 2 Tbsp for the marinade, plus more for the fish
+- 🛒 Ground cumin, cilantro
+- 🛒 Worcestershire sauce
+- 🛒 Habanero pepper sauce, Tabasco-style pepper sauce
+- 🛒 Extra-virgin olive oil, good grade — 10–12 oz.
+- 🛒 Lettuce, avocado, tomatoes
+
+**🏪 Specific store**
+
+- 🏪 Pickapeppa sauce — *Caribbean/international aisle, or any Jamaica-style sauce*
+
+#### D. Choosing the Seafood — Captain's Log
+
+The card's own guidance, worth keeping in full because it's the part that decides the dish.
+
+| | |
+|---|---|
+| **Best fish** | Black drum, sheepshead, flounder, red drum, red snapper, pompano, grouper — most saltwater species work well |
+| **Avoid** | Mackerel and bluefish *(too oily)*; trout and weakfish *(too soft)* |
+| **Why** | Soft fish are better fried; oily fish are better grilled or smoked |
+| **Thickness** | No more than **½ inch** |
+| **Scallops** | Also very good |
+| **Shrimp** | *"Super excellent"* — but they're dense, so **butterfly them** (peel and split halfway through) and rinse in cold water. **Louisiana Gulf shrimp preferred**; imported pond-raised are inferior in quality, taste, and texture |
+| **Also seen** | Conch, and in some places even chicken |
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,450 | 165 g | 125 g | 90 g | 14 g |
+| **Per serving** *(serves 4)* | ~610 | 41 g | 31 g | 22 g | 4 g |
+
+**What a serving is:** about 1 cup of ceviche over a bed of crisp lettuce, with a few avocado slices and tomato alongside — a full main course.
+
+*Roughly half the olive-oil marinade is assumed to stay in the bowl rather than on the plate; serve it with a slotted spoon and less comes along. The 10–12 oz. of olive oil is far and away the biggest number here — it's what makes this a rich dish despite being lean fish and vegetables.*
+
+#### E. Serving & Leftovers
+
+Serve over a crisp bed of lettuce with avocado slices and tomato.
+
+**Leftovers make a good cold pasta salad** — the card's own suggestion, and a natural one given the marinade is already a vinaigrette.
 
 [↑ Table of Contents](#table-of-contents)
 

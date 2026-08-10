@@ -147,6 +147,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ✅
 - [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅
 - [7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ✅
+- [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -193,6 +194,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts)** from **Steven Raichlen's *How to Grill*** (p. 240–243) — chicken breasts pocketed and stuffed with sun-dried tomato, basil, and goat cheese, direct-grilled to a crosshatch sear. Transcribed clean across the full technique-plus-recipe spread, no gaps. |
 | 2026-08-10 | **Second big batch from Steven Raichlen's *How to Grill*: the rest of the stand-alone sauces chapter (p. 456–461), plus a first entry each in a new "Vegetables Plus" chapter (p. 357–363). 14 new entries: [§4.40](#440-herbed-horseradish-sauce)–[§4.51](#451-shallot-marmalade), [§5.14 Grilled Corn](#514-grilled-corn), and [§T15 How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage).** Big find: **four of [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)'s five named serving sauces are now transcribed** — [§4.38 Mustard Sauce](#438-mustard-sauce) (added last batch), plus this batch's [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), [§4.50 Cucumber Relish](#450-cucumber-relish), and [§4.51 Shallot Marmalade](#451-shallot-marmalade) — all three name that exact dish or an equivalent in their own source text. Only Béarnaise Mayonnaise (page 452) is still missing. **[§T15 How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage)** is filed as a technique formula rather than a fixed recipe, same reasoning as [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) — the source never gives quantities for the bacon-onion filling, barbecue sauce, or butter, just the method; it points at this cookbook's own [§4.34](#434-basic-barbecue-mop-sauce)–[§4.37](#437-white-barbecue-sauce) barbecue sauces as flexible options. The rest are stand-alone dipping sauces, salsas, and relishes (Herbed Horseradish, Asian Peanut, Asian Pear Dipping, Vietnamese Dipping, Pico de Gallo, Tomato-Pepper Salsa, Salsa Verde, Cilantro Chutney, Mango Salsa) plus [§5.14 Grilled Corn](#514-grilled-corn), the first real entry in what looks like a new §5 vegetables chapter from this source. **One transcription snag flagged rather than smoothed over:** [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce)'s ingredient list reads partially duplicated against its facing-page neighbor [§4.42](#442-asian-pear-dipping-sauce) — both halves written in as photographed, with a note on which one matches the actual instructions. |
 | 2026-08-10 | **Big batch from Steven Raichlen's *How to Grill*'s rubs, mops, and sauces chapter (p. 441–454): [§4.25](#425-basic-fish-cure) through [§4.39](#439-mustard-dill-sauce), 15 new entries.** Two of them close real, previously-flagged gaps: **[§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub)** and **[§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce)** were the two missing referenced pages blocking [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) since they were added — both recipes are updated to link directly to the real ingredients now, their Open Questions closed, and their Nutrition figures recalculated from the real vinegar sauce instead of a placeholder. **[§4.38 Mustard Sauce](#438-mustard-sauce)** is one of [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)'s five named serving sauces — the first of the five to actually get transcribed, and its own text names that exact dish. The rest ([§4.27](#427-cajun-rub) Cajun Rub, [§4.28](#428-chinese-five-spice-rub) Chinese Five-Spice, [§4.29](#429-java-rub) Java, [§4.30](#430-mucho-macho-pepper-rub) Mucho Macho Pepper, [§4.31](#431-mediterranean-herb-rub) Mediterranean Herb, [§4.32](#432-texas-chili-rub) Texas Chili, [§4.33](#433-sesame-seasoning) Sesame Seasoning, [§4.34](#434-basic-barbecue-mop-sauce) Basic Barbecue Mop Sauce, [§4.35](#435-mustard-barbecue-sauce) Mustard Barbecue Sauce, [§4.37](#437-white-barbecue-sauce) White Barbecue Sauce, [§4.25](#425-basic-fish-cure) Basic Fish Cure) are general-purpose reference entries, not yet tied to a specific dish here, added because Cody photographed the full chapter. A fun cross-reference surfaced in the Cajun Rub's own text: Raichlen credits it to *"Louisiana legend Paul Prudhomme"* — the same chef behind [§T1](#t1-how-to-make-a-roux) and every *Louisiana Kitchen* sauce this session. **Two small transcription snags flagged rather than smoothed over:** [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub)'s ingredient list was partially obscured in its photo, and [§4.32 Texas Chili Rub](#432-texas-chili-rub)'s and [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce)'s instructions read a little garbled from a busy, multi-recipe page layout — both reconstructed to the most sensible reading and marked as Open Questions. |
 | 2026-08-10 | **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) is now fully confirmed against the source.** A cleaner photo of page 294 supplied the rest of Step 2 and all of Step 3, which had been reconstructed from a related technique spread rather than transcribed directly — both are rewritten to the source's actual wording (glaze on top before covering the grill, a metal-skewer doneness test, 12–15 minutes covered). Its Open Question is resolved and removed. Also picked up the source's own substitute-fish note: striped bass, redfish, and snapper work the same way; monkfish, sole, and flounder don't. |
@@ -351,6 +353,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
+| [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
@@ -7663,6 +7666,88 @@ Transfer to a cutting board, cover loosely with foil, and let rest 5 minutes. Re
 **What a serving is:** a generous few slices — about ½ lb raw tenderloin per person before trimming loss, a normal steakhouse-size portion.
 
 *Beef tenderloin is naturally lean for a steak cut, so this leans heavily toward protein and fat with almost no carbs — accurate whether or not any of the five serving sauces get made, since none of them are counted here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.33 Grilled Stuffed Chicken Breasts
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 240–243 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad)–[§7.32](#732-herb-crusted-grilled-beef-tenderloin). Boneless chicken breasts pocketed and stuffed with sun-dried tomato, basil, and goat cheese, pinned shut, marinated briefly in oil and lemon, and direct-grilled to a crosshatch sear.
+
+> **Variations, per the source:** chicken breasts can be filled with myriad stuffings — prosciutto, mozzarella, and sage leaves, for example, or smoked cheese, sliced kielbasa, and sauerkraut. The possibilities are limited only by your imagination.
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~25 min** · **Cook ~10 min** · **Start to finish ~35 min**
+
+> **You'll need:** unflavored dental floss, for slicing the goat cheese cleanly; wooden toothpicks, soaked in oil.
+
+#### A. Ingredients
+
+- 2 large, whole, boneless, skinless chicken breasts (each 12 to 16 oz.), or 4 half breasts (each half 6 to 8 oz.)
+- 8 sun-dried tomatoes, soaked in hot water for 1 hour, then drained
+- 8 large fresh basil leaves
+- 4 oz. creamy goat cheese
+- Coarse salt and black pepper
+- 3 Tbsp extra-virgin olive oil
+- 2 Tbsp lemon juice
+
+#### B. Cooking Instructions
+
+**1. Slice the goat cheese with dental floss.**
+Hold a length of unflavored dental floss taut between your hands and slice straight down through the goat cheese — it cuts cleaner, thinner, and more evenly than a knife through soft cheese. Cut it into 8 slices.
+
+**2. Halve the breasts and remove the tenders.**
+Cut each whole breast in half. Remove the tenders — the long slender strip loosely attached to the underside — by lifting the loose end and gently pulling it off, using a knife to cut it free at the base. Set the tenders aside for another use (they freeze well — save them up for a saté recipe). Trim any sinews or excess fat off the breasts and discard. Rinse under cold running water and blot dry with paper towels.
+
+**3. Cut a deep pocket in each breast.**
+Place a breast at the edge of the cutting board, thicker side facing out. Holding it flat with the palm of your free hand and the knife parallel to the cutting board, cut a deep pocket into the breast — do not cut all the way through. It's fine to make several successive cuts to get there; the important thing is not to pierce the top or bottom of the breast, though it isn't the end of the world if you do.
+
+**4. Stuff and pin each breast shut.**
+Place 2 soaked sun-dried tomatoes in the pocket, then 2 basil leaves, then 2 slices of goat cheese. Pin the breast shut with oiled toothpicks — oiling them makes them easier to remove once the chicken is cooked.
+
+**5. Marinate briefly while the grill heats.**
+Place the stuffed breasts in a nonreactive baking dish and season generously with salt and pepper. Pour the olive oil and lemon juice over the breasts and let marinate, turning once or twice, while you preheat the grill.
+
+**6. Set up the grill for direct grilling and preheat to high.**
+When ready to cook, brush and oil the grill grate.
+
+**7. Grill for a crosshatch sear. 4 to 6 minutes per side.**
+Arrange the breasts on the hot grate, all facing the same direction, at a 45-degree angle to the bars of the grate. Grill 4 to 6 minutes per side, rotating each breast 90 degrees after 2 minutes on each side to create an attractive crosshatch of grill marks.
+
+**8. Test for doneness with the poke test.**
+Poke a breast in the thickest part with your finger — it should feel firm to the touch.
+
+**9. Rest, unpin, and serve.**
+Transfer the breasts to plates or a platter and remove the toothpicks before serving. For a prettier presentation, cut the breasts crosswise into thin slices with an electric knife or sharp carving knife.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Boneless, skinless chicken breasts — 2 large or 4 half breasts
+
+**🛒 General grocery**
+
+- 🛒 Sun-dried tomatoes — 8
+- 🛒 Fresh basil leaves — 8 large
+- 🛒 Creamy goat cheese — 4 oz.
+- 🛒 Coarse salt, black pepper
+- 🛒 Extra-virgin olive oil — 3 Tbsp
+- 🛒 Lemon — for 2 Tbsp juice
+- 🛒 Unflavored dental floss, wooden toothpicks
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,165 | 103 g | 274 g | 22 g | 4 g |
+| **Per serving** *(serves 4)* | ~540 | 26 g | 69 g | 5.5 g | 1 g |
+
+**What a serving is:** one stuffed chicken breast half (or half of a whole stuffed breast), sliced.
+
+*A very lean, high-protein plate — goat cheese and olive oil are most of the fat here, and there's almost no carb beyond the sun-dried tomatoes.*
 
 [↑ Table of Contents](#table-of-contents)
 

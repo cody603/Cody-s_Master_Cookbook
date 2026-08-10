@@ -108,6 +108,10 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) ✅
 - [7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) ✅
 - [7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) ✅
+- [7.25 Sautéed Crawfish](#725-sautéed-crawfish) ✅
+- [7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) ✅
+- [7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) ✅
+- [7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -154,6 +158,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added four more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 77–80, 116–117, 139–140): **[§7.25 Sautéed Crawfish](#725-sautéed-crawfish)**, **[§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue)**, **[§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce)**, and **[§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant)**. All four read completely across their photographed pages — §7.26 in particular looked at first like another incomplete capture (its roux-and-vegetable step ends mid-recipe on p. 79), but a later photo in the same batch turned out to be its unlabeled continuation on p. 80, finishing the sauce and the fried mirliton shells. §7.26 is this cookbook's **seventh** recipe needing [§T1](#t1-how-to-make-a-roux)'s roux technique and rated 🔴 Hard for it — a genuine dark red-brown roux, not just a long recipe. §7.25 and §7.28 both cite **Basic Cooked Rice (page 224)**, not in this cookbook — the third and fourth recipes to hit that gap after [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); plain white rice noted as the substitute, same as there. **One real source gap flagged rather than papered over:** [§7.27](#727-panéed-veal-with-czarina-sauce)'s instructions call for "the 2 tablespoons oil and the salt" in the pasta water, but neither is in the source's own printed ingredient list — flagged in Open Questions instead of guessing an amount. Also worth noting: §7.27's sauce is called "Czarina Sauce" same as [§4.21](#421-czarina-sauce-with-shrimp-or-crawfish), but it's a different recipe (butter-cream-Parmesan here, no vegetables or shellfish) — not merged, just cross-noted. |
 | 2026-08-10 | Added three more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 54–55, 69–71): **[§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce)**, **[§7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce)** (which uses it, plated over the existing **[§4.20 Meunière Sauce](#420-meunière-sauce)**), and **[§7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce)** — the **eighth** recipe closed by **[§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**'s seafood variant, added to its "Used in" list. All three photos read cleanly with no garbled or ambiguous passages, confirmed against zoomed re-reads of the source pages rather than a single quick pass — no Open Questions needed on any of them. **Two items from the same photo batch intentionally not added**, same as Giblet Gravy's first incomplete photo earlier this session: "Fish with Hushpuppies" showed only its title, cut off before the ingredients; a final fragment showed the tail end of the zucchini recipe's serving instructions plus the first few lines of an unidentified shrimp recipe. Both wait on a follow-up photo. **Two pre-existing count bugs in the [Difficulty & Time Index](#difficulty--time-index)'s prose found and fixed while re-validating badge/index/nutrition counts for this batch:** the Hard-recipe summary said "five" and omitted [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), though it was correctly badged 🔴 and listed in the table all along — now "six," with §4.12 named alongside §T1/§8.3/§8.5 as the third roux-based Hard recipe; and the keto callout said "all four" beside its own correct "5 recipes" header — now "all five." Neither bug was introduced this round; both predate it. |
 | 2026-08-09 | **Added [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood), closing a gap open since early in this session.** Roughly ten recipes across this cookbook had been citing a missing "Basic Chicken Stock (p. 31)," "Basic Beef or Pork Stock (p. 31)," or "Basic Seafood Stock (p. 32)" as an unresolved Open Question. It turns out to be **one formula, not four separate recipes** — same aromatics and method, only the bones or shells change by type. All nine affected recipes ([§4.8](#48-shrimp-and-crab-butter-cream-sauce), [§4.12](#412-fish-brown-sauce), [§4.13](#413-andouille-smoked-sausage-sauce), [§4.17](#417-giblet-gravy), [§4.20](#420-meunière-sauce), [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§9.9](#99-shrimp-remoulade)) had their Open Questions marked settled rather than deleted, and their ingredient lines repointed to §T13 directly. **[§T4](#t4-stocks--ingredient-conventions)** — which had been gesturing at "work off a basic 1-quart recipe" without actually having one — now points to it too. **Also enriched [§T1](#t1-how-to-make-a-roux)'s roux color table** from a simplified two-tier version to the source's actual four tiers (light-brown, medium-brown, dark red-brown, black), confirmed against its color plates, plus a note that the tradition is deliberately broken by personal preference in the source's own examples. |
 | 2026-08-09 | **Checked a re-photographed "Notes from Our Test Kitchen" section against the cookbook and confirmed it's already captured — [§T1](#t1-how-to-make-a-roux), [§T3](#t3-butter-oil-pan-frying--frying), [§T5](#t5-seasonings--peppers), [§T6](#t6-seafood-notes), and [§T7](#t7-louisiana-language--ingredients) all trace to this same source material, checked line by line rather than assumed.** Nothing duplicated. Since the source book — **Chef Paul Prudhomme's *Louisiana Kitchen*** — has since been identified by name (via §4.8's running header, after these five sections were originally written), all five now credit it explicitly instead of the old "technique pages Cody photographed." Two genuinely new facts surfaced and were added: **§T1** gained the source's real number for its burn-risk warning — roux oil gets heated well past **500°F**; **§T5** gained the *why* behind the seasoning-mix system (built for restaurant consistency) and the real commercial product name behind it, **Louisiana Cajun Magic®**. |
@@ -257,6 +262,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
@@ -290,9 +296,12 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
+| [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
+| [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
+| [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
@@ -308,11 +317,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 14 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 15 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The six 🔴 Hard ones come down to three problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. Learn the roux once and four of the six stop being hard.
+**The seven 🔴 Hard ones come down to three problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue) are hard for one reason — **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. Learn the roux once and five of the seven stop being hard.
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the biggest numbers in this table — two days start to finish, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
@@ -3462,6 +3471,8 @@ All of these cited a page-31 or page-32 "Basic [Something] Stock" as missing —
 - [§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) — seafood stock
 - [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) — seafood stock (or water, per that recipe's own note)
 - [§7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) — seafood stock
+- [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) — seafood stock
+- [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) — chicken stock
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -5035,6 +5046,387 @@ Place 2 zucchini halves on each heated serving plate. Arrange 3 fried zucchini b
 **What a serving is:** 2 stuffed zucchini halves plus 3 fried zucchini balls, topped with about ½ cup seafood cream sauce — a full plated entrée.
 
 *1½ sticks of margarine, two more butter additions, and a cup of heavy cream make this a genuinely rich dish despite the zucchini base — most of the fat total comes from those, not the seafood.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.25 Sautéed Crawfish
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 77–78). A quick butter-and-stock crawfish sauté spooned over rice — no roux, deliberately kept to a small batch.
+
+> *"The sauce for this dish is best if made only three servings at a time. If you want to make more than three servings, do so in separate batches but serve while piping hot."* — per the source.
+
+**Yield:** 3 servings
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
+
+#### A. Ingredients
+
+**Seasoning mix**
+
+- 1 tsp white pepper
+- ½ tsp salt
+- ½ tsp ground red pepper, preferably cayenne
+- ½ tsp black pepper
+- ½ tsp dried sweet basil leaves
+- ¼ tsp dry mustard
+
+- ½ lb (2 sticks) unsalted butter, **in all**
+- ½ cup finely chopped green onions (tops only)
+- 1 tsp minced garlic
+- 1 lb peeled crawfish tails
+- 1 tsp Tabasco sauce
+- ½ cup Basic Seafood Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+- 1½ cups hot Basic Cooked Rice (page 224) — *not in this cookbook; plain cooked white rice substitutes fine*
+
+#### B. Cooking Instructions
+
+**1. Combine the seasoning mix and warm the plates.**
+Combine the seasoning mix ingredients in a small bowl and set aside. Heat the serving plates in a 250° oven.
+
+**2. Sauté the onions and garlic in butter. 1 minute.**
+Place 1 stick of the butter, the onions, and the garlic in a large deep skillet. Sauté 1 minute over high heat, then turn off the heat.
+
+**3. Add the crawfish, Tabasco, and seasoning mix. About 3 minutes.**
+Add the crawfish, Tabasco, and seasoning mix; turn heat to high and sauté about 3 minutes, stirring occasionally.
+
+**4. Finish with the remaining butter and stock, shaking the pan constantly. 6 minutes.**
+Add the remaining stick of butter, breaking it into chunks in the pan. Slowly add the stock while moving the pan back and forth on the burner — shake it hard enough to toss the ingredients without spilling them (see the note below). Cook over high heat 6 minutes, shaking the pan constantly. Serve immediately.
+
+**5. Plate and serve.**
+Mound ½ cup rice in the middle of each heated serving plate. Encircle the rice with 1 cup sautéed crawfish and their sauce.
+
+> **Why shake instead of stir.** Melting butter releases a certain percentage of oil; shaking the pan in a back-and-forth motion while adding the stock keeps the sauce from separating and turning oily. Stirring doesn't produce the same effect — per the source, this is a real technique difference, not a stylistic preference.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Peeled crawfish tails — 1 lb
+- 🏪 Basic Seafood Stock — ½ cup, *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+
+**🛒 General grocery**
+
+- 🛒 White pepper, salt, ground red pepper (cayenne), black pepper, dried sweet basil, dry mustard — for the seasoning mix
+- 🛒 Unsalted butter — ½ lb (2 sticks)
+- 🛒 Green onions — ½ cup finely chopped, tops only
+- 🛒 Garlic
+- 🛒 Tabasco sauce
+- 🛒 Rice — 1½ cups cooked
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,340 | 184 g | 81 g | 67 g | 1 g |
+| **Per serving** *(serves 3)* | ~780 | 61 g | 27 g | 22 g | 0.3 g |
+
+**What a serving is:** ½ cup rice encircled by about 1 cup sautéed crawfish and sauce — the source's own per-plate portion.
+
+*Two sticks of butter across only 3 servings makes this rich per portion — a small-batch dish, not meant to be doubled casually per the source's own note above.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.26 Crawfish Magnifique in a Mirliton Pirogue
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 78–80). Mirlitons (chayotes) hollowed into shells ("pirogues" — small boats), then breaded and fried, and served under a crawfish cream sauce built on a real dark red-brown roux. The **seventh** recipe in this cookbook needing [§T1](#t1-how-to-make-a-roux)'s technique.
+
+> *"We've filled these pirogues with wonderful Louisiana crawfish. The pirogues can be hollowed out ahead of time; cover well and refrigerate until ready to use."* — per the source.
+
+**Yield:** 6 servings
+
+**🔴 Hard** · **Prep ~25 min** · **Cook ~40 min** · **Start to finish ~1 hr 5 min** *(the roux is the hard part — read [§T1](#t1-how-to-make-a-roux) first)*
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) · [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
+
+#### A. Ingredients
+
+- 3 medium-size mirlitons (chayotes)
+
+**Crawfish Magnifique**
+
+- ¼ cup vegetable oil
+- ¾ cup all-purpose flour, **in all**
+- ½ cup minced green bell peppers
+- ⅓ cup minced onions
+- ¼ cup minced celery
+- 1½ cups heavy cream
+
+**Seasoning mix**
+
+- 1 Tbsp salt
+- 2 tsp sweet paprika
+- ¾ tsp white pepper
+- ¾ tsp ground red pepper, preferably cayenne
+- ¾ tsp black pepper
+- ½ tsp onion powder
+- ½ tsp garlic powder
+- ½ tsp dry mustard
+- ½ tsp gumbo filé (filé powder), optional
+- ¼ tsp dried thyme leaves
+- ¼ tsp dried sweet basil leaves
+
+- ⅜ lb (1½ sticks) unsalted butter
+- ¾ cup finely chopped green onions
+- 1 tsp minced garlic
+- 1½ lb peeled crawfish tails
+- ¾ cup very fine dry bread crumbs
+- ½ cup milk
+- 1 egg
+- Vegetable oil for deep frying
+
+#### B. Cooking Instructions
+
+**1. Boil, peel, and hollow the mirlitons into shells.**
+Boil the mirlitons just until fork tender. Cool and peel. Cut each in half lengthwise and trim off the tough pulp at the end closest to the seed. Remove the seed — eat it or save it for a salad. Cut a thin slice from the rounded side of each mirliton half so it will sit level. Carefully spoon out the pulp from inside, leaving a ¼-inch-thick shell (use the pulp in another recipe). Set aside.
+
+**2. Make a small dark red-brown roux, then stop it with the vegetables. About 5 minutes.**
+In a heavy 1-quart saucepan, heat the vegetable oil until it begins to smoke, about 2 minutes. With a long-handled metal whisk or wooden spoon, gradually stir in ¼ cup of the flour and cook, whisking constantly or stirring briskly, until the roux is a dark red-brown, about 2 to 3 minutes — pull the pan off the heat momentarily if it's browning too fast for you to keep it from scorching, and be careful not to splash it on your skin. Remove from heat and immediately stir in the bell peppers, onions, and celery. Keep whisking until the mixture cools, about 3 minutes. Set aside.
+
+**3. Whisk the cream to a simmer, then whisk in the roux. Bring to a boil.**
+In a 2-quart saucepan, heat the cream to a quick simmer over high heat, whisking almost constantly. Gradually add the roux, stirring until it dissolves between each addition. Bring to a boil, whisking constantly so it doesn't scorch. Remove from heat and set aside.
+
+**4. Combine the seasoning mix.**
+Thoroughly combine the seasoning mix ingredients in a small bowl and set aside.
+
+**5. Sauté the crawfish in butter, then stir in the cream sauce. About 3 minutes.**
+In a large skillet, combine the butter with the green onions and garlic; cook over low heat until the butter melts, stirring occasionally. Add the crawfish and 1½ tablespoons of the seasoning mix; turn heat to high and sauté until the crawfish are hot, about 3 minutes, stirring almost constantly. Stir the cream mixture into the crawfish mixture.
+
+**6. Hold the sauce on very low heat while you fry the mirlitons.**
+Reduce heat to very low to keep the crawfish sauce hot while frying the mirlitons; stir occasionally. Heat the serving plates in a 250° oven.
+
+**7. Set up a three-station dredge and bread the mirlitons.**
+Place the remaining ½ cup flour in a pan (a loaf, cake, or pie pan works well). Place the bread crumbs in another. Mix 1¾ teaspoons of the seasoning mix into the flour and 2 teaspoons into the bread crumbs. Sprinkle a total of about ¼ teaspoon seasoning mix over both sides of the mirlitons. In a separate pan, combine the milk and egg until well blended.
+
+**8. Fry the mirlitons at 350°. 1 to 2 minutes per side.**
+Heat 1 inch of oil in a 2-quart saucepan or deep fryer to 350°. Dredge each mirliton in the seasoned flour, shaking off the excess, then coat well with the milk mixture and then with the bread crumbs. Fry in the hot oil until golden brown, about 1 to 2 minutes per side, adjusting the heat as necessary to hold the oil at about 350°. Do not crowd. Drain on paper towels. Serve immediately.
+
+**9. Plate and serve.**
+Place a pirogue on each heated serving plate and spoon in about ¾ cup crawfish sauce.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Peeled crawfish tails — 1½ lb
+
+**🛒 General grocery**
+
+- 🛒 Mirlitons (chayotes) — 3 medium
+- 🛒 Vegetable oil — ¼ cup for the roux, plus more for deep frying
+- 🛒 All-purpose flour — ¾ cup
+- 🛒 Green bell peppers, onions, celery, green onions
+- 🛒 Heavy cream — 1½ cups
+- 🛒 Salt, sweet paprika, white pepper, ground red pepper (cayenne), black pepper, onion powder, garlic powder, dry mustard, dried thyme, dried sweet basil — for the seasoning mix
+- 🛒 Gumbo filé (filé powder) — optional
+- 🛒 Unsalted butter — ⅜ lb (1½ sticks)
+- 🛒 Garlic
+- 🛒 Very fine dry bread crumbs — ¾ cup
+- 🛒 Milk — ½ cup
+- 🛒 Egg — 1
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,100 | 334 g | 137 g | 97 g | 12 g |
+| **Per serving** *(serves 6)* | ~685 | 56 g | 23 g | 16 g | 2 g |
+
+**What a serving is:** 1 stuffed mirliton pirogue half, topped with about ¾ cup crawfish cream sauce.
+
+*Heavy cream, a stick and a half of butter, and the roux oil are most of the fat here — a genuinely rich sauce over a naturally light vegetable.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.27 Panéed Veal with Czarina Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 116–117). Breaded, pan-fried veal cutlets over fettuccine tossed in a cream-and-Parmesan sauce.
+
+> *"The veal in this dish is pan fried."* — per the source. See [T3](#t3-butter-oil-pan-frying--frying) for more on pan frying.
+
+> **Same sauce name as [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) — a different recipe, not a duplicate.** §4.21 is a julienned-vegetable cream sauce built for shrimp or crawfish; this "Czarina Sauce" is a plainer butter-cream-Parmesan reduction built for veal and fettuccine. Kept as printed rather than merged.
+
+**Yield:** 6 servings
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~35 min** · **Start to finish ~55 min**
+
+**Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
+
+#### A. Ingredients
+
+- ¾ lb fresh fettuccine, or ½ lb dry
+- Water, salt, and 2 Tbsp oil, for cooking the fettuccine — *quantities not given in the source; see Open Questions*
+- ½ lb (2 sticks) unsalted butter
+- 2½ cups heavy cream
+- ½ tsp ground red pepper, preferably cayenne (or less, for the faint of heart)
+- ¾ cup plus 4 tsp, **in all**, finely grated Parmesan cheese, preferably imported
+- 1¾ cups very fine dry bread crumbs
+- 1½ Tbsp minced fresh parsley
+- 1½ Tbsp olive oil
+- ¾ tsp white pepper
+- ½ tsp onion powder
+- ½ tsp garlic powder
+- 3 eggs
+- 6 (3½- to 4-ounce) slices baby white veal, pounded thin
+- Vegetable oil for pan frying
+
+#### B. Cooking Instructions
+
+**1. Cook the fettuccine. 3 minutes fresh, 7 minutes dry.**
+Place the water, the 2 tablespoons oil, and the salt in a large pot over high heat; cover and bring to a boil. When the water reaches a rolling boil, add the fettuccine in small amounts at a time, breaking up any clumps as you drop it in. Return to boiling and cook uncovered to al dente, about 3 minutes if fresh, 7 minutes if dry — do not overcook. During this time, use a wooden or spaghetti spoon to lift the fettuccine out of the water by spoonfuls and shake the strands back in; it may be an old wives' tale, but this seems to improve the pasta's texture.
+
+**2. Drain, cool, and oil the fettuccine by hand.**
+Drain immediately in a colander and stop the cooking by running cold water over the strands (if using dry pasta, first rinse with hot water to wash off the starch). Once fully cooled, about 2 to 3 minutes, pour a liberal amount of vegetable oil into your hands and toss the fettuccine with it. Set aside, still in the colander.
+
+**3. Build the cheese sauce: reduce butter, cream, and red pepper, then melt in the Parmesan. About 8 minutes.**
+Melt the butter in a large skillet over medium-low heat; add the cream and red pepper. Turn heat to medium-high and whip the mixture constantly with a metal whisk as it comes to a boil. Reduce heat and simmer until the sauce has reduced some and thickened enough to coat a spoon well, about 7 to 8 minutes, whisking constantly. Remove from heat and gradually whisk in ¾ cup of the Parmesan until melted. Set aside.
+
+**4. Warm the serving plates in a 250° oven.**
+
+**5. Build the breading station and soak the veal.**
+In a shallow pan (a cake or pie pan works well), combine the bread crumbs, parsley, olive oil, white pepper, onion powder, and garlic powder; mix well. In a separate pan, beat the eggs well, then beat in the remaining 4 teaspoons Parmesan. Soak the veal in the egg mixture for at least 5 minutes, making sure it's well coated.
+
+**6. Fry the veal at about 400°. About 1 minute per side.**
+Heat ¼ inch oil to about 400° in a large skillet. Just before frying, dredge the veal in the bread crumbs, coating well and pressing the crumbs in with your hands, then shake off the excess. Fry in the hot oil until golden brown, about 1 minute per side. Do not crowd — and change the oil partway through if the crumbs in the bottom start to burn. Remove the veal to a large platter and set aside.
+
+**7. Reheat the sauce and toss with the fettuccine.**
+Reheat the cheese sauce over medium-high heat, whisking frequently. *If the butter starts separating from the sauce, whisk in about 1 tablespoon cream or water.* Add the fettuccine and toss until thoroughly coated and heated through, about 1 minute. Remove from heat and serve immediately.
+
+**8. Plate and serve.**
+Place a piece of veal on each heated serving plate. Roll a portion of fettuccine onto a large fork and lift it onto the plate; top the fettuccine with additional sauce from the skillet.
+
+> **Testing doneness:** cut a strand of fettuccine in half near the end of the cooking time. When it's done, there should be only a speck of white left in the center.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store**
+
+- 🏪 Baby white veal — 6 slices (3½ to 4 oz. each), pounded thin
+
+**🛒 General grocery**
+
+- 🛒 Fresh fettuccine — ¾ lb, or ½ lb dry
+- 🛒 Unsalted butter — ½ lb (2 sticks)
+- 🛒 Heavy cream — 2½ cups
+- 🛒 Ground red pepper (cayenne)
+- 🛒 Parmesan cheese, finely grated, preferably imported — ¾ cup plus 4 tsp
+- 🛒 Very fine dry bread crumbs — 1¾ cups
+- 🛒 Fresh parsley
+- 🛒 Olive oil — 1½ Tbsp
+- 🛒 White pepper, onion powder, garlic powder
+- 🛒 Eggs — 3
+- 🛒 Vegetable oil for pan frying, plus salt and about 2 Tbsp oil for the pasta water
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~7,200 | 545 g | 308 g | 268 g | 11 g |
+| **Per serving** *(serves 6)* | ~1,200 | 91 g | 51 g | 45 g | 2 g |
+
+**What a serving is:** one breaded pan-fried veal cutlet over a forkful of fettuccine tossed in cheese sauce, with extra sauce spooned on top.
+
+*Two sticks of butter, 2½ cups heavy cream, and a full pound-plus of breaded, pan-fried veal make this one of the richest per-serving dishes in this cookbook — a special-occasion plate, not a weeknight one.*
+
+#### D. Open Questions
+
+- The instructions call for "the 2 tablespoons oil and the salt" in the pasta water, but neither appears in the source's own printed ingredient list — a real gap in the source, not a transcription error. Written in above without a specific salt quantity; season the pasta water the way you normally would.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.28 Chicken Sauce Piquant
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 139–140). Fried chicken pieces simmered in a tomato-and-jalapeño sauce built from the frying-pan sediment — a classic Cajun "piquant" (sharp, hot) preparation.
+
+**Yield:** 8 servings
+
+**🟡 Medium** · **Prep ~30 min** · **Cook ~55 min** · **Start to finish ~1 hr 25 min**
+
+**Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) · [T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) — *for the Basic Chicken Stock*
+
+> **"Piquant" is a real word for a real sensation, per the source.** *"'Piquant' to a Cajun means 'it's hot and hurts like a sticker in your tongue.'"* Reduce the jalapeños by half for less heat. Louisiana takes this sauce seriously enough that the town of Raceland runs an annual Sauce Piquant Festival built entirely around it.
+
+#### A. Ingredients
+
+**Seasoning mix**
+
+- 1 Tbsp plus 1 tsp salt
+- 1 Tbsp black pepper
+- 2 tsp onion powder
+- 2 tsp garlic powder
+- 2 tsp ground red pepper, preferably cayenne
+- 1 tsp white pepper
+- 1 tsp dried thyme leaves
+
+- 1 cup all-purpose flour
+- 2 (2½- to 3-lb) fryers, each cut in 8 pieces
+- Vegetable oil for frying
+- 1¾ cups chopped onions
+- 1¾ cups chopped celery
+- 1¾ cups chopped green bell peppers
+- 1¾ cups peeled and chopped tomatoes
+- 3 Tbsp finely chopped jalapeño peppers *(fresh preferred; if using pickled, rinse off as much vinegar as possible)*
+- 2 Tbsp minced garlic
+- 1¾ cups canned tomato sauce
+- 1 Tbsp plus 2 tsp Tabasco sauce
+- 4 cups Basic Chicken Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+- Hot Basic Cooked Rice (page 224), or noodles — *not in this cookbook; plain cooked white rice substitutes fine*
+
+#### B. Cooking Instructions
+
+**1. Combine the seasoning mix; season and dredge the chicken.**
+Combine the seasoning mix ingredients in a small bowl, mixing well. In a paper or plastic bag, mix 1 tablespoon of the seasoning mix into the flour. Trim excess fat from the chicken pieces and sprinkle the remaining seasoning mix evenly over them. Dredge the chicken in the seasoned flour until well coated.
+
+**2. Fry the chicken. 5 to 8 minutes per side.**
+In a large skillet, heat ½ inch oil to 350°. Fry the chicken — large pieces and skin side down first — until browned and crispy on both sides and the meat is cooked, about 5 to 8 minutes per side. Do not crowd. Lower the heat if the drippings start getting dark red-brown; don't let them burn. Drain on paper towels.
+
+**3. Build the vegetable base in the fond.**
+Carefully pour the hot oil from the skillet into a glass measuring cup, leaving as much sediment in the pan as possible, then return ¼ cup of the hot oil to the skillet. Turn heat to high. Using a spoon, loosen any particles stuck to the pan bottom and add the onions, celery, and bell peppers; cook, stirring constantly and scraping the pan bottom well, until the sediment is well mixed into the vegetables.
+
+**4. Add the tomatoes, jalapeños, and garlic. About 2 minutes.**
+Stir well and cook about 2 minutes, stirring once or twice.
+
+**5. Add the tomato sauce, then the Tabasco. About 3 minutes.**
+Cook about 3 minutes, stirring occasionally, then stir in the Tabasco and remove from heat.
+
+**6. Warm the serving plates in a 250° oven.**
+
+**7. Simmer the chicken in stock, adding the tomato mixture in two stages. About 18 to 20 minutes.**
+Meanwhile, place the chicken pieces and stock in a 5½-quart saucepan or large Dutch oven and bring to a boil. Cover, reduce heat to medium, and cook 5 minutes. Stir half the tomato mixture into the stock, cover, and simmer over low heat 5 minutes. Stir in the remaining tomato mixture, cover, and simmer 8 to 10 minutes more, stirring occasionally. Remove from heat and serve immediately over rice or noodles.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salt, black pepper, onion powder, garlic powder, ground red pepper (cayenne), white pepper, dried thyme — for the seasoning mix
+- 🛒 All-purpose flour — 1 cup
+- 🛒 Whole fryer chickens, cut in 8 pieces — 2 (2½ to 3 lb each)
+- 🛒 Vegetable oil for frying
+- 🛒 Onions, celery, green bell peppers — 1¾ cups each, chopped
+- 🛒 Tomatoes — 1¾ cups peeled and chopped
+- 🛒 Jalapeño peppers — 3 Tbsp finely chopped, fresh preferred
+- 🛒 Garlic
+- 🛒 Canned tomato sauce — 1¾ cups
+- 🛒 Tabasco sauce
+- 🛒 Rice or noodles, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,740 | 252 g | 293 g | 311 g | 16 g |
+| **Per serving** *(serves 8)* | ~590 | 31 g | 37 g | 39 g | 2 g |
+
+**What a serving is:** two pieces of fried chicken in sauce over about ½ cup rice — a full plated dinner.
+
+*Assumes about ½ cup cooked rice per serving, since the source lists "Hot Basic Cooked Rice" without a quantity. Most of the frying oil is poured off after browning the chicken — only about ¼ cup goes back into the sauce base.*
 
 [↑ Table of Contents](#table-of-contents)
 

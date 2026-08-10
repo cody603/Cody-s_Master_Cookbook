@@ -163,7 +163,10 @@ Click any recipe to jump straight to it.
 - [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅ ❤️
 - [7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ✅ ❤️
 - [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅
-- [7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) ✅ 👍
+- [7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) ✅
+- [7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) ✅
+- [7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) ✅
+- [7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) ✅ 👍
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -215,6 +218,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added three more from **Canal House Cooks Every Day**: [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) and [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four), which **close a loop from the previous batch** — [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) named these two exact recipes as its pairing before either was transcribed; both are now written up and cross-linked back. Also added [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) (p. 112) — brined 2 hours, double-dredged for extra crunch, and deep-fried in 2 inches of oil, with the source's own trick of draining on a wire rack rather than paper towels alone. All three transcribed clean, no gaps. |
 | 2026-08-10 | **New source: Canal House Cooks Every Day (Christopher Hirsheimer and Melissa Hamilton) — 13 recipes across §4, §7, and §9.** [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto), a butterflied, rolled, and grilled flank steak with an olive-and-anchovy pesto; two Italian "building block" sauces, [§4.52 Balsamella](#452-balsamella) and [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce); a proper [§4.54 Ragù Bolognese](#454-ragù-bolognese) with two named pasta variations folded in; four compound butters built for steak, [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter); and a five-recipe cocktail spread — [§9.11 Melba Toasts](#911-melba-toasts) as the base, then [§9.12 Potted Crab](#912-potted-crab), [§9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper), [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter), and [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), all four cross-linked back to the toast that carries them. **A name collision handled deliberately, not silently:** [§4.56](#456-canal-house-lemon-butter) is called "Canal House Lemon Butter" rather than plain "Lemon Butter," since [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) already exists from *Louisiana Kitchen* — same name, genuinely different preparation (a boiled sauce vs. a cold compound butter), so both stay rather than one overwriting the other. **[§4.54 Ragù Bolognese is rated 🟢 Easy despite a 6–7 hour simmer** — same reasoning as [§1 Pho](#1-codys-pho): nothing in the method can fail, the meat is deliberately kept pale rather than seared, and the long simmer is unattended, so it's a distance run rather than a technical climb. A nice period detail carried over from the source: Canal House recipes are each dated with a weather note in the margin — this one reads *"June 16th, 79°, clear still day."* |
 | 2026-08-10 | **[§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) substantially corrected and rewritten — the previous version had the technique wrong.** Cody explained the method properly and it is **not** a velveting/texture technique, which is what Claude had inferred a round earlier. It's a **deodorizer**: raw whole eggs cracked over fish or shellfish that smells fishy out of the bag, mixed through in a colander in the sink, left **7–15 minutes**, then **rinsed off completely** — the rinse is the step that actually removes the off-flavor. Renamed from *"(for Shrimp)"* to *"(Deodorizing Fish & Shellfish)"* since it applies to **any** fish or shellfish — salmon, catfish, crawfish, shrimp — and all links repointed. **Every one of the four Open Questions is now answered by Cody directly:** whole eggs, not just whites; 7–15 minutes with **15 as a hard ceiling** *(past that it starts pulling out the flavor of the fish itself)*; rinse thoroughly, **unless** you're frying and the egg is doing double duty as batter; and it **does not work for ceviche**, which he ruled out explicitly — so [§7.22](#722-captain-mikes-ceviche) now carries that as a note. Added a new trigger section built on **the smell test** — no fish smell means skip it entirely. The mechanism is rewritten around **trimethylamine**, the compound behind fishy smell, and the well-established **milk-soak** parallel (proteins bind the volatile amines; the rinse carries them away), which also explains why over-soaking backfires. **The original wrong reasoning is left in place as a marked correction** rather than quietly swapped out — it's a clean example of a plausible-sounding inference pointing the wrong way. Wired into [§7.2](#72-boiled-shrimp-with-tonys) and [§7.10](#710-cilantro-lime-shrimp), the two recipes Cody names for it. |
 | 2026-08-10 | **Cody rated the cookbook, and the ratings are now part of it — new [Family Ratings Index](#family-ratings-index) plus a marker on all 76 rated entries.** Three tiers, in his framing: **❤️ family favorite** (51), **👍 tried and liked** (12), **🔖 want to try** (13). Every rated recipe carries the verdict **in Cody's own words** in its own section, so it travels with the recipe instead of living only in an index. **Resolved a marker collision while doing it:** ⭐ was doing two unrelated jobs — "pantry staple worth keeping on hand" in five T-section grocery lists, and "favorite" on [§7.3](#73-seafood-stuffed-flounder) and [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice). Those two are now ❤️, so ⭐ means one thing again. **Four things surfaced that aren't just ratings:** [§5.1 Green Beans](#51-green-beans) gained its first real content — it's **Vicky's lemon zest green beans**, and the method should come from her; [§6.2 Pulled Pork](#62-pulled-pork) notes a **second pulled pork recipe is coming** and will get its own entry rather than overwriting the North Carolina one; [§6.3](#63-smoked-whole-hen) flags a possible **hen/ham mix-up** (Cody said "smoked ham," the stub has always said hen) rather than silently picking one; and [§7.33](#733-grilled-stuffed-chicken-breasts) answers his chicken-thigh question — yes, but butterfly-and-fold rather than pocket, and expect ~175°F and a more forgiving cook. **Two split verdicts recorded as such** rather than averaged into a score: [§7.7 Chicken Livers](#77-chicken-livers) *("I love it, but I don't think my family likes it")* and [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *("My family likes it. I think it's okay")*. **[§7.13 Crawfish Elegante](#713-crawfish-elegante) and [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) got skipped** in the pass and are flagged in the index as the notable unrated gaps — both are from Cody's own cards. |
@@ -394,6 +398,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
+| [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
@@ -401,6 +406,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
 | [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | — | 40 min |
+| [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | 🟡 | 20 min | 20 min | — | 2 hr 50 min *(2 hr brine)* |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -419,6 +425,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
+| [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
@@ -4083,7 +4090,7 @@ Reduce the heat to low and gently simmer, stirring occasionally, until the ragù
 
 ### 4.55 Fresh Herb Butter
 
-Transcribed from **Canal House Cooks Every Day** — one of four compound butters from a page built around grilled steaks (the facing recipes are a whole grilled beef tenderloin and a two-steak preparation, neither in this cookbook yet). *"We use salted Irish butter because it makes everything taste better."*
+Transcribed from **Canal House Cooks Every Day** — one of four compound butters from a page built around grilled steaks. **Now paired with both recipes it was built for:** [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) and [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four). *"We use salted Irish butter because it makes everything taste better."*
 
 **Yield:** about 1 cup
 
@@ -8594,6 +8601,218 @@ Place the steak on a cutting board and let it rest for 10 minutes. Remove the st
 **What a serving is:** 2 to 3 slices — a normal dinner portion, or fewer as the cold cocktail-hour nibble the source describes.
 
 *Lean flank steak carries most of the protein; the pesto's olive oil, parmigiano, and olives are most of the fat. Serve cold with a big salad, per the source, and this doubles as a make-ahead entertaining dish rather than a straight-off-the-grill one.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.35 Whole Beef Tenderloin, Peppered & Grilled
+
+Transcribed from **Canal House Cooks Every Day**, p. 134 — the same book as [§7.34](#734-rolled-flank-steak-with-pesto). **This is one of the two steak recipes [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) was built to go with** — that entry's own page named a whole grilled tenderloin and a two-steak preparation as its pairing; both are now transcribed (see also [§7.36](#736-two-steaks-feed-four)).
+
+> **Per the source:** *"For those of us who enjoy a good piece of chewy, on-the-bone, grilled steak, a filet seems kind of wimpy — the meat is so lean and mild. But it's these very qualities and its supreme tenderness that make it the perfect choice for grilling whole and serving either warm or cold."*
+>
+> The source's margin note: *"August 15th, 87°, hot & sunny."*
+
+**Yield:** serves 12
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~35 min** *(includes a 15 min rest)* · **Start to finish ~55 min** *(or up to 3 days if serving cold — see Step 5)*
+
+#### A. Ingredients
+
+**For the beef**
+
+- 1 whole beef tenderloin, 6 to 7 lb
+- ¼ cup coarsely ground black pepper
+- Salt
+
+**For the salad**
+
+- 6 to 8 anchovy filets, finely chopped
+- Salt and pepper
+- Juice of 1 lemon
+- 4 to 6 Tbsp really good extra-virgin olive oil
+- 1 bunch arugula, torn in pieces
+- 1 small head Bibb lettuce, torn in pieces
+- A handful each fresh parsley, celery leaves, and fresh tarragon leaves, chopped
+
+#### B. Cooking Instructions
+
+**1. Trim and tie the tenderloin.**
+Using a sharp knife, trim off any fat from the tenderloin. Slide the blade under the long sinewy silver skin and trim it off. Fold under about 6 inches of the thin end of the filet so it's about as thick as the rest and will cook evenly. Tie into a neat package with kitchen string.
+
+**2. Season.**
+Rub with the pepper, pressing it into the meat, and season with salt.
+
+**3. Sear over the hottest part of the fire, then move to finish. About 20 minutes, checked from there.**
+Prepare a medium-hot hardwood charcoal fire or heat a gas grill. Grill the filet over the hottest part of the grill, turning it as a good brown crust develops. Once browned all over, move it to a cooler spot on the grill to finish cooking, turning occasionally, until the internal temperature reaches **120°F for rare** or **130°F for medium-rare**. Grilling time varies by grill and heat — start checking the internal temperature after 20 minutes.
+
+**4. Rest.**
+Take the meat off the grill and let it rest 15 minutes.
+
+**5. Serve warm, or chill for up to 3 days and serve cold.**
+Serve warm, or let it cool, then wrap and refrigerate for up to 3 days before serving it cold and sliced.
+
+**6. Build the salad.**
+Mash the anchovies with pinches of salt and pepper in the bottom of a salad bowl. Whisk in the lemon juice, then the olive oil. Pile the greens and herbs into the bowl and toss when ready to serve alongside the grilled filet.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Whole beef tenderloin — 6 to 7 lb
+
+**🛒 General grocery**
+
+- 🛒 Black pepper, salt
+- 🛒 Anchovy filets — 6 to 8
+- 🛒 Lemon — for juice
+- 🛒 Extra-virgin olive oil — 4 to 6 Tbsp
+- 🛒 Arugula — 1 bunch
+- 🛒 Bibb lettuce — 1 small head
+- 🛒 Fresh parsley, celery leaves, fresh tarragon
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,185 | 352 g | 498 g | 3 g | 1 g |
+| **Per serving** *(serves 12)* | ~430 | 29 g | 41 g | 0.3 g | 0.1 g |
+
+**What a serving is:** a few slices of tenderloin with a handful of the anchovy-dressed salad — a lean, high-protein plate suited to a crowd, warm or cold.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.36 Two Steaks Feed Four
+
+Transcribed from **Canal House Cooks Every Day**, p. 134 — the same page as [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled), and **the second of the two steak recipes [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) was built to pair with.**
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~25 min** *(includes a 10–15 min rest)* · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- 2 ribeye steaks on the bone, 2 to 3 inches thick
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Tie each steak into a neat package.**
+Tie each steak with kitchen string so the meat cooks evenly and doesn't pull away from the bone.
+
+**2. Season generously.**
+Salt and pepper both sides of the steaks.
+
+**3. Sear the first side. About 8 minutes.**
+Prepare a hot charcoal or gas grill. Grill the steaks over the hottest section of coals until a good browned crust has developed on the first side. **Resist the urge to move or fiddle with the steaks while they're cooking** — but if flare-ups threaten to burn the meat, move it to a cooler spot.
+
+**4. Flip and sear the second side. About 5 minutes.**
+
+**5. Move to finish over gentler heat, to your target doneness. 5 to 15 minutes.**
+Move the steaks to a cooler spot on the grill, turning occasionally, until the internal temperature reaches **120°F for rare, 130°F for medium-rare, or 140°F for medium** — the time depends on the thickness of the steaks and the doneness you want.
+
+**6. Rest, then carve off the bone.**
+Pull the steaks off the grill and let them rest 10 to 15 minutes. Cut the steak from the bone and slice the meat — you'll be fighting over the bones.
+
+> **Serve with a compound butter:** [§4.55 Fresh Herb Butter](#455-fresh-herb-butter), [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter), [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter), or [§4.58 Pimentón Butter](#458-pimentón-butter) — the source's own pairing for this exact recipe.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Bone-in ribeye steaks — 2, cut 2 to 3 inches thick
+
+**🛒 General grocery**
+
+- 🛒 Salt, pepper
+- 🛒 Kitchen string
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,965 | 286 g | 327 g | 0 g | 0 g |
+| **Per serving** *(serves 4)* | ~990 | 72 g | 82 g | 0 g | 0 g |
+
+**What a serving is:** roughly half of one bone-in ribeye, sliced — a serious steakhouse-scale portion, meant to be shared from the two whole steaks. Figures above don't include a compound butter; add [§4.55](#455-fresh-herb-butter)'s per-serving numbers on top if you're using one.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.37 The Fry Queen's Fried Chicken
+
+Transcribed from **Canal House Cooks Every Day**, p. 112 — the same book as [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.36](#736-two-steaks-feed-four). *"Our friend and reigning Fry Queen, Julia Lee, cuts her chicken up into pieces that are fairly uniform in size so they can cook evenly — without burning the outside crust before the chicken is done. She brines the chicken pieces first to keep the meat moist and tender, a step we always do when time permits. And the final trick to crispier fried chicken is to drain the pieces on a wire rack."*
+
+> The source's margin note: *"July 12th, 81°, perfect summer day."*
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~20 min** · **Start to finish ~2 hr 50 min** *(includes a 2 hr brine — lead time, not hands-on)*
+
+#### A. Ingredients
+
+- 1 whole chicken
+- 1 cup kosher salt, plus more for seasoning
+- ½ cup sugar
+- 1½ cups flour
+- 1 tsp baking powder
+- ½ tsp pepper
+- Canola oil
+
+#### B. Cooking Instructions
+
+**1. Cut the chicken into 10 pieces.**
+Separate the thighs, drumsticks, and wings, and cut each breast in half.
+
+**2. Brine. 2 hours.**
+Put the salt, sugar, and 4 cups cold water in a large bowl and stir until completely dissolved. Put the chicken pieces into the brine and refrigerate 2 hours.
+
+**3. Drain and dry.**
+Drain, rinse, and pat the chicken pieces dry with paper towels.
+
+**4. Dredge — twice, for extra crunch.**
+Whisk together the flour, baking powder, ½ tsp salt, and the pepper in a large bowl. Dredge the chicken in the seasoned flour one piece at a time, making sure each piece is well coated. For an extra crunchy coating, double-dip: dredge the pieces, then dredge them again 10 minutes or so later.
+
+**5. Heat 2 inches of oil to 350°F.**
+Pour enough oil into a large cast-iron skillet to reach a depth of 2 inches. Heat over medium heat until it registers 350° on a candy thermometer — or dip a wooden chopstick into the oil until the tip touches the bottom of the skillet; if lots of bubbles form right away around the tip, the oil is ready.
+
+**6. Fry, skin side down first. About 8 minutes per side.**
+Fry the chicken in the hot oil, larger pieces first, skin side down. Turn once, and fry until golden and crispy, about 8 minutes per side.
+
+**7. Drain on a rack, and salt while hot.**
+Transfer the fried chicken to a wire rack set on top of paper towels to drain. Season to taste with salt while still hot.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Whole chicken — 1
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — 1 cup, plus more for seasoning
+- 🛒 Sugar — ½ cup
+- 🛒 All-purpose flour — 1½ cups
+- 🛒 Baking powder — 1 tsp
+- 🛒 Black pepper
+- 🛒 Canola oil, for frying
+
+**Not a grocery item, but worth owning:** a candy thermometer, and a wire rack that fits over a sheet pan.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,530 | 382 g | 198 g | 60 g | 2 g |
+| **Per serving** *(serves 4)* | ~1,130 | 95 g | 50 g | 15 g | 0.5 g |
+
+**What a serving is:** about 2½ pieces — a quarter of the whole bird, a generous fried-chicken dinner portion.
+
+*A genuinely rich number, and honestly so — this is deep-fried in 2 inches of oil with a double dredge, not lightly pan-fried. The brine is mostly discarded rather than eaten, so it isn't a caloric contributor, though it does mean this dish runs saltier than the ingredient list alone suggests.*
 
 [↑ Table of Contents](#table-of-contents)
 

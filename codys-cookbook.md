@@ -35,6 +35,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) ✅
   - [4.20 Meunière Sauce](#420-meunière-sauce) ✅
   - [4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) ✅
+  - [4.22 Mustard Sauce](#422-mustard-sauce) ✅
+  - [4.23 Remoulade Sauce](#423-remoulade-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -123,6 +125,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [9.6 Beef Jerky](#96-beef-jerky) ✅
 - [9.7 Chicken Salad](#97-chicken-salad) ✅
 - [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ○
+- [9.9 Shrimp Remoulade](#99-shrimp-remoulade) ✅
+- [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -146,6 +150,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **Fixed a pre-existing formatting bug found while adding this batch: [§9.7 Chicken Salad](#97-chicken-salad)'s Nutrition block had landed after the §9.8 heading instead of inside §9.7.** Moved it back where it belongs. |
+| 2026-08-09 | Added four more items from **Chef Paul Prudhomme's *Louisiana Kitchen***'s *Appetizers* chapter — split by what they actually are: **[§4.22 Mustard Sauce](#422-mustard-sauce)** and **[§4.23 Remoulade Sauce](#423-remoulade-sauce)** are reusable condiments, so they went in §4 alongside this book's other sauces; **[§9.9 Shrimp Remoulade](#99-shrimp-remoulade)** and **[§9.10 Crabmeat Avery](#910-crabmeat-avery)** are composed, plated appetizers, so they went in §9 next to the Buffalo Chicken Dip instead. §9.9 uses §4.23 directly. **Two genuine problems in the Crabmeat Avery source flagged rather than papered over:** an egg listed in the ingredients that the printed instructions never call for adding, and a cream quantity (⅓ cup) that's short of what the per-ramekin instruction (1 Tbsp × 8) actually needs. Also worth noting: §9.9 is the first of the seven recipes needing Basic Seafood Stock to explicitly allow **water** as a substitute in its own ingredient line. |
 | 2026-08-09 | Added **[§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish)** from *Louisiana Kitchen*, p. 265–266 — a quick cream-and-Parmesan sauce with julienned squash, zucchini, and onion. **Notably self-contained**: no roux, no stock, none of the missing referenced pages that most of this book's other Prudhomme recipes carry. The source's julienne cut is specific (⅛-inch strips, skin-on peelings only) and kept as its own callout rather than folded into a step, since substituting a quick dice would change the dish. |
 | 2026-08-09 | Added three more sauces from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 242–243): **[§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce)** (deliberately boiled, unlike most butter sauces), **[§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce)** (a Cajun beurre noisette — salted butter specified because it browns more easily), and **[§4.20 Meunière Sauce](#420-meunière-sauce)** (the sixth recipe here needing Basic Seafood Stock, page 32 — now the single most-requested missing page after the page-31 stocks). Both butter sauces carry an explicit note on why their technique looks unusual against the rest of the book: §4.18 boils on purpose where a beurre blanc would break, and §4.19 is rated by color, not clock — light brown and foamy is the target, and it's a fast trip past that to bitter. |
 | 2026-08-09 | Added **[§4.17 Giblet Gravy](#417-giblet-gravy)** from *Louisiana Kitchen*, p. 245 — completed from two photos, the second supplying the ingredients and instructions the first left off mid-list. **Rated Medium, not Hard, and explained why:** the roux here cooks to medium brown over medium heat with the meat and vegetables already in the pan, distinct from the smoking-hot, seconds-to-burn dark roux in [§T1](#t1-how-to-make-a-roux) and [§4.12](#412-fish-brown-sauce) — genuinely a gentler technique, not an inconsistent rating. **Strengthens the page-31 stock pattern:** this is now the third recipe to cite Basic Chicken Stock at that exact page, alongside a fourth citing Basic Beef or Pork Stock there too — strong evidence it's worth photographing on its own. |
@@ -242,6 +248,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
@@ -252,12 +259,15 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
+| [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
+| [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
+| [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
@@ -2029,6 +2039,131 @@ About ½ cup of sauce per serving, including the seafood.
 **What a serving is:** about ½ cup of sauce, including its share of shrimp or crawfish — over a portion of pasta, fish, veal, or rice, per the source's own serving note.
 
 *Assumes about 1½ lb of shrimp — the mid-point of the source's portioning range for pasta or rice service. Whatever it's served over (pasta, rice) is not included above.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.22 Mustard Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers* chapter). A simple, thickened mustard-cream dip — no roux, no stock, all one pot.
+
+**Yield:** about 1 cup
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~20 min** · **Start to finish ~25 min** *(plus cooling to room temperature before serving)*
+
+#### A. Ingredients
+
+- ½ cup heavy cream
+- ½ cup dairy sour cream
+- 6 Tbsp Creole mustard (preferred) or brown mustard
+- 2 tsp Worcestershire sauce
+- 1½ tsp prepared mustard
+- ½ tsp salt
+- ¼ tsp black pepper
+- ⅛ tsp white pepper
+- ⅛ tsp ground red pepper, preferably cayenne
+- ⅛ tsp dried sweet basil leaves
+
+#### B. Cooking Instructions
+
+**1. Combine everything in a saucepan.**
+All ingredients into a 1-quart saucepan over medium-low heat.
+
+**2. Simmer until thickened, stirring constantly. 15–20 minutes.**
+
+**3. Cool to room temperature before serving.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Heavy cream — ½ cup
+- 🛒 Dairy sour cream — ½ cup
+- 🛒 Creole mustard (preferred) or brown mustard — 6 Tbsp
+- 🛒 Worcestershire sauce
+- 🛒 Prepared mustard
+- 🛒 Salt, black pepper, white pepper, ground red pepper (cayenne), dried sweet basil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~660 | 64 g | 6 g | 18 g | 1 g |
+| **Per serving** *(2 Tbsp, of 8)* | ~85 | 8 g | 1 g | 2 g | 0 g |
+
+**What a serving is:** about 2 Tbsp — a dip portion alongside boiled shrimp, crab, or fried appetizers.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.23 Remoulade Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers* chapter, p. 286). A cold, blended egg-yolk emulsion loaded with horseradish, mustard, and Creole seasoning — the base for [§9.9 Shrimp Remoulade](#99-shrimp-remoulade).
+
+**Yield:** about 1½ cups
+
+**🟡 Medium** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(plus chilling — see the note below)*
+
+> ⚠️ **This uses raw egg yolks.** They're never cooked — beaten, then emulsified with oil like a fresh mayonnaise. Use pasteurized eggs if that's a concern, and keep the finished sauce refrigerated. It's meant to be made ahead: [§9.9](#99-shrimp-remoulade) notes it keeps several days and actually **improves** with a couple of days in the fridge.
+
+#### A. Ingredients
+
+- 2 egg yolks
+- ¼ cup vegetable oil
+- ½ cup finely chopped celery
+- ½ cup finely chopped green onions
+- ¼ cup chopped fresh parsley
+- ¼ cup finely grated fresh horseradish, or prepared horseradish
+- ¼ lemon, seeded — *rind included, see Step 2*
+- ¼ bay leaf, crumbled
+- 2 Tbsp Creole mustard (preferred) or brown mustard
+- 2 Tbsp catsup
+- 2 Tbsp Worcestershire sauce
+- 1 Tbsp prepared mustard
+- 1 Tbsp white vinegar
+- 1 Tbsp Tabasco sauce
+- 1 Tbsp minced garlic
+- 2 tsp sweet paprika
+- 1 tsp salt
+
+#### B. Cooking Instructions
+
+**1. Beat the egg yolks. 2 minutes.**
+In a blender or food processor, beat the yolks until they lighten and thicken slightly.
+
+**2. Stream in the oil with the machine running.**
+Add the vegetable oil in a thin, steady stream while the machine runs — this is what builds the emulsion, same principle as a fresh mayonnaise.
+
+**3. Blend in everything else, one ingredient at a time.**
+Add the remaining ingredients one at a time, including the lemon quarter whole — **rind and all**. Keep blending until everything is well mixed and the lemon rind is finely chopped into the sauce.
+
+**4. Chill well before using.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 2, for the yolks *(pasteurized if you'd rather not use raw)*
+- 🛒 Vegetable oil — ¼ cup
+- 🛒 Celery, green onions, fresh parsley
+- 🛒 Fresh or prepared horseradish
+- 🛒 Lemon — ¼
+- 🛒 Bay leaf
+- 🛒 Creole mustard (preferred) or brown mustard, prepared mustard
+- 🛒 Catsup, Worcestershire sauce, white vinegar, Tabasco sauce
+- 🛒 Garlic
+- 🛒 Sweet paprika, salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~750 | 68 g | 8 g | 30 g | 3 g |
+| **Per serving** *(2 Tbsp, of 12)* | ~65 | 6 g | 0.7 g | 2.5 g | 0.3 g |
+
+**What a serving is:** about 2 Tbsp, tossed with chilled shrimp per [§9.9](#99-shrimp-remoulade), or used as a dip.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -5266,11 +5401,6 @@ Stop adding once it's the texture you want — there's no fixed amount, and it'l
 - 🛒 Raisins
 - 🛒 Pecans
 
----
-
-### 9.8 Jalapeño Poppers
-> *Placeholder — details forthcoming.* Per Cody: **one of his all-time top snacks** — recipe not written down yet, but it's coming. Ingredients · Instructions · Grocery list all to be documented.
-
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
@@ -5281,6 +5411,190 @@ Stop adding once it's the texture you want — there's no fixed amount, and it'l
 **What a serving is:** about ¾ cup — enough for a sandwich, or a scoop on greens.
 
 *Assumes about ¾ cup of mayonnaise and all five optional add-ins. Mayo is the single biggest variable — it's added to taste, so the fat number moves with it.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.8 Jalapeño Poppers
+> *Placeholder — details forthcoming.* Per Cody: **one of his all-time top snacks** — recipe not written down yet, but it's coming. Ingredients · Instructions · Grocery list all to be documented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.9 Shrimp Remoulade
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p. 285, *Color Picture 26*). Chilled boiled shrimp tossed with [§4.23 Remoulade Sauce](#423-remoulade-sauce), plated over shredded lettuce.
+
+> **Per the source:** make the Remoulade Sauce several hours ahead, or preferably 2–3 days before serving — it keeps several days refrigerated and actually **improves with time**.
+
+**Yield:** 6 appetizer servings
+
+**🟡 Medium** · **Prep ~30 min** · **Cook ~10 min** · **Start to finish ~40 min** *(plus chilling the shrimp, and ideally 2–3 days for the sauce)*
+
+**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes)
+
+#### A. Ingredients
+
+**Shrimp boil**
+
+- 3 cups Basic Seafood Stock, **or water** — *the source explicitly allows water here; see Open Questions*
+- 2 bay leaves
+- ½ tsp white pepper
+- ½ tsp onion powder
+- ½ tsp garlic powder
+- ½ tsp dry mustard
+- ½ tsp ground red pepper, preferably cayenne
+- ½ tsp black pepper
+- ¼ tsp dried thyme leaves
+- ¼ tsp dried sweet basil leaves
+- 1½ lbs unpeeled medium shrimp, without heads
+
+**To assemble**
+
+- 1½ cups [Remoulade Sauce](#423-remoulade-sauce) — the full §4.23 recipe
+- 6 large bowl-shaped lettuce leaves
+- 2 cups very thinly shredded lettuce
+- 1½ small tomatoes, cut into 12 wedges
+- 12 black olives
+- 6 large sprigs parsley
+
+#### B. Cooking Instructions
+
+**1. Simmer the stock (or water) with the seasonings. 3 minutes.**
+Combine in a large saucepan, bring to a boil, reduce heat, and simmer.
+
+**2. Add the unpeeled shrimp and boil hard. 3 minutes.**
+Turn the heat to high and cook uncovered.
+
+**3. Drain immediately and chill.**
+Refrigerate the shrimp right away. Once cool, peel them, then chill well.
+
+**4. Toss the chilled, peeled shrimp with the Remoulade Sauce.**
+
+**5. Plate: lettuce leaf, shredded lettuce, shrimp, garnish.**
+For each serving, place a lettuce leaf on a salad plate and mound about ⅓ cup of shredded lettuce in the center. Top with 6 to 10 shrimp. Garnish with 2 tomato wedges, 2 black olives, and a sprig of parsley.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Unpeeled medium shrimp, without heads — 1½ lbs
+
+**🛒 General grocery**
+
+- 🛒 Bay leaves, white pepper, onion powder, garlic powder, dry mustard, ground red pepper (cayenne), black pepper, dried thyme, dried sweet basil
+- 🛒 Bowl-shaped lettuce leaves — 6, plus shredded lettuce — 2 cups
+- 🛒 Tomatoes — 1½ small
+- 🛒 Black olives — 12
+- 🛒 Fresh parsley — 6 sprigs
+- 🛒 Everything on [§4.23's list](#423-remoulade-sauce) for the sauce
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,900 | 130 g | 130 g | 50 g | 8 g |
+| **Per serving** *(serves 6)* | ~315 | 22 g | 22 g | 8 g | 1.5 g |
+
+**What a serving is:** one plated salad — a lettuce leaf, shredded lettuce, 6–10 shrimp tossed with remoulade, and the garnish.
+
+#### D. Open Questions
+
+- **Basic Seafood Stock (page 32)** is the same recurring gap — but this is the **first** recipe of the seven that need it to explicitly offer **water as a substitute** in the source's own ingredient line. Worth using that as the practical default rather than waiting on the missing page.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.10 Crabmeat Avery
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p. 286–287). Lump crabmeat folded into a sautéed-vegetable mayonnaise base, baked in individual ramekins until brown and bubbly.
+
+**Yield:** 8 appetizer servings
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+
+> ⚠️ **Two things don't add up cleanly in the source, and neither is silently resolved here — see Open Questions.** The ingredient list includes **1 egg**, but the printed instructions never say where it goes in. And "1 tablespoon cream over the top of each" across 8 ramekins needs ½ cup, but the list gives ⅓ cup. Both are transcribed exactly as printed rather than corrected by guesswork.
+
+#### A. Ingredients
+
+- 2½ Tbsp unsalted butter
+- ⅓ cup finely chopped onions
+- ⅓ cup finely chopped celery
+- ⅓ cup finely chopped green bell peppers
+- ¼ cup finely chopped green onions
+- ½ tsp minced garlic
+- 6 Tbsp Homemade Mayonnaise, **in all** — *page 268 of the source; not in this cookbook, store-bought works*
+- 4 tsp Creole mustard (preferred) or brown mustard
+- 2 tsp finely chopped fresh parsley
+- 2 tsp Worcestershire sauce
+- 1 tsp salt
+- 1 tsp ground red pepper, preferably cayenne
+- 1 tsp Tabasco sauce
+- ½ tsp white pepper
+- ½ tsp black pepper
+- 1 egg — *see Open Questions; not referenced again in the printed instructions*
+- 1 lb lump crabmeat, picked over
+- ⅓ cup heavy cream — *see Open Questions on quantity*
+- Sweet paprika
+
+#### B. Cooking Instructions
+
+**1. Sauté the vegetables and garlic. About 5 minutes.**
+Combine the butter, onions, celery, bell peppers, green onions, and garlic in a 1-quart saucepan over high heat. Sauté until the vegetables are tender but still firm, stirring occasionally. Remove from heat.
+
+**2. Stir in 2½ Tbsp of the mayonnaise and the seasonings.**
+Add the mustard, parsley, Worcestershire, salt, red pepper, Tabasco, and the white and black peppers. Stir well.
+
+**3. Fold in the crabmeat gently.**
+Add the crabmeat to the vegetable mixture and toss gently — **leave the lumps intact as much as possible**. Don't stir hard enough to break them up.
+
+**4. Fill eight ramekins.**
+Spoon the mixture into eight ½-cup ovenproof ramekins.
+
+**5. Top with cream, then the remaining mayonnaise, then paprika.**
+Pour cream over the top of each — the source says 1 Tbsp per ramekin — then spread a thin, even layer of the remaining mayonnaise over each, and sprinkle with sweet paprika.
+
+**6. Bake at 350°F until brown and bubbly. 15–18 minutes.**
+Serve immediately.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Lump crabmeat, picked over — 1 lb
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 2½ Tbsp
+- 🛒 Onions, celery, green bell peppers, green onions
+- 🛒 Garlic
+- 🛒 Mayonnaise — 6 Tbsp *(store-bought stands in for the source's own Homemade Mayonnaise, page 268)*
+- 🛒 Creole mustard (preferred) or brown mustard
+- 🛒 Fresh parsley
+- 🛒 Worcestershire sauce, salt, ground red pepper (cayenne), Tabasco sauce, white pepper, black pepper
+- 🛒 Eggs — 1
+- 🛒 Heavy cream
+- 🛒 Sweet paprika
+
+**Not a grocery item, but required:** eight ½-cup ovenproof ramekins.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,450 | 105 g | 90 g | 25 g | 3 g |
+| **Per serving** *(serves 8)* | ~180 | 13 g | 11 g | 3 g | 0.4 g |
+
+**What a serving is:** one ½-cup ramekin — a single baked appetizer portion.
+
+#### D. Open Questions
+
+- **The egg is never used.** It's in the ingredient list but the printed instructions don't call for adding it anywhere. Possibilities: whisked into the mayonnaise before it's used, added to the crab mixture before baking (a binder, common in crab cake-style dishes), or a genuine card/print error. Transcribed as printed rather than guessed into a step.
+- **Cream quantity is short for the method.** "1 Tbsp per ramekin" across 8 ramekins needs ½ cup; the list gives ⅓ cup (about 5 Tbsp). Either the per-ramekin amount is closer to 2 tsp, or the total should be larger — worth confirming against the actual page.
+- **Homemade Mayonnaise (page 268)** isn't in this cookbook. Good store-bought mayonnaise is a reasonable stand-in until that page turns up.
 
 [↑ Table of Contents](#table-of-contents)
 

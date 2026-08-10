@@ -164,6 +164,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) is now fully confirmed against the source.** A cleaner photo of page 294 supplied the rest of Step 2 and all of Step 3, which had been reconstructed from a related technique spread rather than transcribed directly — both are rewritten to the source's actual wording (glaze on top before covering the grill, a metal-skewer doneness test, 12–15 minutes covered). Its Open Question is resolved and removed. Also picked up the source's own substitute-fish note: striped bass, redfish, and snapper work the same way; monkfish, sole, and flounder don't. |
 | 2026-08-10 | Added **[§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)** from **Steven Raichlen's *How to Grill*** (p. 46–50) — a whole trimmed, tied, and herb-crusted tenderloin, direct-grilled to 145°F medium-rare, with a **Beef Kebabs** variation using the same trim and marinade. Transcribed clean with no gaps. The source names five serving sauces (Béarnaise Mayonnaise, Mustard Sauce, Three-Herb Chimichurri, Cucumber Relish, Shallot Marmalade) at pages not yet photographed — noted as optional rather than blocking, since the tenderloin itself is complete without them. |
 | 2026-08-10 | **Source confirmed: the new grilling cookbook is Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified from a clearly photographed ISBN. Retroactively credited on [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw), which had been citing it as unidentified. Added three more from the same book: **[§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo)** — filed as a technique formula rather than a numbered recipe, since the source itself never gives fixed mojo quantities, only a method (fry garlic, add citrus, reduce) and named citrus variations; **[§7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad)**, transcribed clean with no gaps; and **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze)**, which has a real hole — the photographed pages cut off mid-sentence in Step 2 and never showed Step 3 at all, so both are reconstructed from the source's paired "How to Grill Fish on the Skin" technique and flagged explicitly in Open Questions rather than presented as confirmed source text. |
 | 2026-08-10 | **§6 Smoked Meats gets its first real recipe.** Filled in the **[§6.2 Pulled Pork](#62-pulled-pork)** placeholder with **North Carolina Pulled Pork** — an indirect-grilled (or smoked) Boston butt, mopped hourly, from a newly photographed grilling/BBQ cookbook (Workman Publishing, title not yet confirmed). Added **[§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)** alongside it, and **[§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini)** from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 161–163) — a chicken counterpart to [§7.27](#727-panéed-veal-with-czarina-sauce) with its own mustard-catsup seasoning mix. **Two referenced pages from the new BBQ book aren't captured yet — Basic Barbecue Rub (page 441) and North Carolina Vinegar Sauce (page 448)** — both load-bearing (the rub seasons the pork, the vinegar sauce dresses both the pulled pork *and* the coleslaw), flagged prominently rather than guessed at in either recipe's Open Questions. §6.2 is this cookbook's first genuine grill/smoker Slow Cook entry, confirming the §3a prediction that the rest of §6 will land the same way. The Difficulty & Time Index's "slow-cook three" became "slow-cook four," and its 30-minutes-or-less list grew to 17. |
@@ -5881,9 +5882,9 @@ Combine the arugula, tomatoes, onion, lemon juice, and oil in a nonreactive bowl
 
 ### 7.31 Salmon with Mustard Glaze
 
-Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 292–293 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad). Skin-on salmon fillets grilled skin-side down and finished with a mustard-mayonnaise glaze.
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 292–294 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad). Skin-on salmon fillets grilled skin-side down and finished with a mustard-mayonnaise glaze. **Now complete** — a cleaner photo of page 294 filled in Step 2's ending and all of Step 3, which had been reconstructed from a related technique spread rather than confirmed. Both are rewritten below to the source's actual wording.
 
-> ⚠️ **This transcription has a real gap — see Open Questions.** The ingredient list and Step 1 are captured in full, but Step 2 (finishing the glaze) cuts off mid-sentence in the photo, and the recipe's own Step 3 wasn't visible at all. What's below reconstructs the ending from the source's separate **"How to Grill Fish on the Skin"** technique spread on the same page — which almost certainly *is* what Step 3 refers to, since this book pairs a technique article with each boxed recipe — but the glaze-finishing details and the exact moment the glaze goes on are the transcriber's best reconstruction, not confirmed source text.
+> **Also good for, per the source:** any fish with edible skin can be cooked this way, including striped bass, redfish, and snapper. Avoid fish with tough skin or tiny scales, like monkfish, sole, or flounder.
 
 **Yield:** 6 servings
 
@@ -5915,11 +5916,11 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 **1. Check for bones, then oil and season the salmon.**
 Run your fingers over the meat side of the salmon pieces, feeling for bones. Pull out any you find with needle-nose pliers or tweezers. Rinse the salmon under cold running water and blot dry with paper towels. Brush the skin side of the fish with the oil and season both sides with salt and pepper.
 
-**2. Make the glaze.** *(reconstructed — see the callout above)*
-In a nonreactive mixing bowl, whisk together 2 teaspoons of the toasted mustard seeds with the mayonnaise, grainy mustard, dill, and brown sugar (if using). Season with salt and pepper. Reserve the remaining 2 teaspoons mustard seeds for garnish.
+**2. Make the glaze.**
+In a nonreactive mixing bowl, whisk together 2 teaspoons of the toasted mustard seeds and the mayonnaise, mustard, dill, and brown sugar, if using. Add salt and pepper to taste.
 
-**3. Grill skin-side down, glazing partway through. 12 to 15 minutes.** *(reconstructed from the "How to Grill Fish on the Skin" technique — see the callout above)*
-Set up the grill for indirect or direct grilling and preheat to medium. Place the salmon skin-side down on the grate. Check the fish periodically to be sure the skin is crisp but not burnt — lift a corner with a spatula to check. If the skin starts to burn before the fish and glaze are cooked through, slide a piece of folded aluminum foil under the salmon (a grill glove helps here, not bare hands). Spoon the glaze over the top of each piece partway through grilling. The fish will be done in 12 to 15 minutes.
+**3. Grill skin-side down, glazed and covered. 12 to 15 minutes.**
+Set up the grill for direct grilling and preheat to medium. When ready to cook, brush and oil the grill grate. Gently place the salmon pieces skin-side down on the hot grate. Spoon the glaze evenly over the tops of the fish pieces and sprinkle with the remaining mustard seeds. Cover the grill. Grill the salmon pieces until cooked through, 12 to 15 minutes — the skin will become dark and crisp. If it starts to burn, slide folded rectangles of aluminum foil beneath each piece to protect the skin. To test for doneness, insert a metal skewer through the side; it should come out very hot to the touch after 20 seconds, and the top of the fish should be lightly browned. Transfer the salmon to plates or a platter and serve at once.
 
 #### C. Grocery Shopping List
 
@@ -5947,10 +5948,6 @@ Set up the grill for indirect or direct grilling and preheat to medium. Place th
 **What a serving is:** one 6 to 8 oz. skin-on salmon fillet with mustard glaze — a generous main course portion.
 
 *Rich mostly from the salmon's own fat and a ¾ cup of real mayonnaise — appropriately so, per the source's own note that this recipe rides entirely on a few good ingredients.*
-
-#### D. Open Questions
-
-- **Step 2 (finishing the glaze) and Step 3 (grilling and glazing) weren't fully legible in the photographed pages** — Step 2 cuts off mid-sentence and Step 3 wasn't visible at all. Reconstructed above from the matching "How to Grill Fish on the Skin" technique on the facing page, which this recipe's own Step 3 almost certainly restates, but **the exact glaze-mixing wording and the precise moment the glaze goes on the fish are not confirmed against the source** — worth a clean re-photo of the rest of page 293 to verify. *(Cody: a cleaner photo is on the way.)*
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -50,6 +50,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T10. Loaded Frittata Formula](#t10-loaded-frittata-formula) ✅
   - [T11. How to Sauté (Master Technique for Sautéed Cuts)](#t11-how-to-sauté-master-technique-for-sautéed-cuts) ✅
   - [T12. Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) ✅
+  - [T13. Basic Stock Formula (Fowl, Beef, Pork & Seafood)](#t13-basic-stock-formula-fowl-beef-pork--seafood) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 
 **Complete Recipes**
@@ -150,6 +151,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **Added [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood), closing a gap open since early in this session.** Roughly ten recipes across this cookbook had been citing a missing "Basic Chicken Stock (p. 31)," "Basic Beef or Pork Stock (p. 31)," or "Basic Seafood Stock (p. 32)" as an unresolved Open Question. It turns out to be **one formula, not four separate recipes** — same aromatics and method, only the bones or shells change by type. All nine affected recipes ([§4.8](#48-shrimp-and-crab-butter-cream-sauce), [§4.12](#412-fish-brown-sauce), [§4.13](#413-andouille-smoked-sausage-sauce), [§4.17](#417-giblet-gravy), [§4.20](#420-meunière-sauce), [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§9.9](#99-shrimp-remoulade)) had their Open Questions marked settled rather than deleted, and their ingredient lines repointed to §T13 directly. **[§T4](#t4-stocks--ingredient-conventions)** — which had been gesturing at "work off a basic 1-quart recipe" without actually having one — now points to it too. **Also enriched [§T1](#t1-how-to-make-a-roux)'s roux color table** from a simplified two-tier version to the source's actual four tiers (light-brown, medium-brown, dark red-brown, black), confirmed against its color plates, plus a note that the tradition is deliberately broken by personal preference in the source's own examples. |
 | 2026-08-09 | **Checked a re-photographed "Notes from Our Test Kitchen" section against the cookbook and confirmed it's already captured — [§T1](#t1-how-to-make-a-roux), [§T3](#t3-butter-oil-pan-frying--frying), [§T5](#t5-seasonings--peppers), [§T6](#t6-seafood-notes), and [§T7](#t7-louisiana-language--ingredients) all trace to this same source material, checked line by line rather than assumed.** Nothing duplicated. Since the source book — **Chef Paul Prudhomme's *Louisiana Kitchen*** — has since been identified by name (via §4.8's running header, after these five sections were originally written), all five now credit it explicitly instead of the old "technique pages Cody photographed." Two genuinely new facts surfaced and were added: **§T1** gained the source's real number for its burn-risk warning — roux oil gets heated well past **500°F**; **§T5** gained the *why* behind the seasoning-mix system (built for restaurant consistency) and the real commercial product name behind it, **Louisiana Cajun Magic®**. |
 | 2026-08-09 | **Fixed a pre-existing formatting bug found while adding this batch: [§9.7 Chicken Salad](#97-chicken-salad)'s Nutrition block had landed after the §9.8 heading instead of inside §9.7.** Moved it back where it belongs. |
 | 2026-08-09 | Added four more items from **Chef Paul Prudhomme's *Louisiana Kitchen***'s *Appetizers* chapter — split by what they actually are: **[§4.22 Mustard Sauce](#422-mustard-sauce)** and **[§4.23 Remoulade Sauce](#423-remoulade-sauce)** are reusable condiments, so they went in §4 alongside this book's other sauces; **[§9.9 Shrimp Remoulade](#99-shrimp-remoulade)** and **[§9.10 Crabmeat Avery](#910-crabmeat-avery)** are composed, plated appetizers, so they went in §9 next to the Buffalo Chicken Dip instead. §9.9 uses §4.23 directly. **Two genuine problems in the Crabmeat Avery source flagged rather than papered over:** an egg listed in the ingredients that the printed instructions never call for adding, and a cream quantity (⅓ cup) that's short of what the per-ramekin instruction (1 Tbsp × 8) actually needs. Also worth noting: §9.9 is the first of the seven recipes needing Basic Seafood Stock to explicitly allow **water** as a substitute in its own ingredient line. |
@@ -242,6 +244,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 | 🟢 | 15 min | — | *with the bird* | set by the bird |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
+| [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
@@ -1091,7 +1094,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 254). A rich 
 - ½ lb (2 sticks) unsalted butter, **in all** *(1 stick for the roux, 1 stick into the sauce)*
 - ¼ cup finely chopped onions
 - 3 Tbsp all-purpose flour
-- 1½ cups Basic Seafood Stock — *see Open Questions*
+- 1½ cups Basic Seafood Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 - 1 cup heavy cream
 - ½ tsp salt
 - ½ tsp ground red pepper, preferably cayenne
@@ -1156,7 +1159,7 @@ The source serves it over **Stuffed Mirliton** (p. 72 — *[mirliton is chayote;
 
 #### E. Open Questions
 
-- **Basic Seafood Stock (page 32)** — still the outstanding gap, now shared by four recipes from this same book ([§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and this one). **Page 32 is the single most valuable page left to photograph.**
+- ~~Basic Seafood Stock (page 32) — still the outstanding gap.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
 - **Stuffed Mirliton (page 72)** isn't in this cookbook either — worth adding, since it's the dish this sauce was written for.
 
 [↑ Table of Contents](#table-of-contents)
@@ -1392,7 +1395,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 252–253, *S
 - ¼ cup finely chopped onions
 - 4 tsp canned tomato sauce
 - 1 tsp Worcestershire sauce
-- 2 cups hot Basic Seafood Stock — *see Open Questions*
+- 2 cups hot Basic Seafood Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 - 2 Tbsp burgundy wine, **in all**
 - 2 Tbsp unsalted butter, softened
 
@@ -1436,7 +1439,7 @@ In a small bowl, blend the softened butter with the remaining **1 Tbsp flour**. 
 
 #### D. Open Questions
 
-- **Basic Seafood Stock (page 32)** — the same gap as [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and [§4.8](#48-shrimp-and-crab-butter-cream-sauce). This is the fifth recipe in this cookbook to need it.
+- ~~Basic Seafood Stock (page 32) — the same recurring gap.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
 - The roux-and-onion sequence in step 3 was tight across a page break in the photo — reconstructed to the standard Prudhomme pattern (roux, stop with vegetables, then seasoning); worth a check against the physical page.
 
 [↑ Table of Contents](#table-of-contents)
@@ -1467,7 +1470,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 250–251). A
 - ¼ tsp dry mustard
 - ⅛ tsp white pepper
 - ⅛ tsp ground red pepper, preferably cayenne
-- 2 cups hot Basic Beef or Pork Stock — *see Open Questions*
+- 2 cups hot Basic Beef or Pork Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 
 #### B. Cooking Instructions
 
@@ -1504,7 +1507,7 @@ Stir well, bring to a simmer, then drop to very low and continue 5 minutes. Remo
 
 #### D. Open Questions
 
-- **Basic Beef or Pork Stock (page 31)** isn't in this cookbook. Interestingly, [§4.14 Creole Sauce](#414-creole-sauce) and [§4.16 Italian Red Gravy](#416-new-orleans-italian-red-gravy) below both cite **Basic Chicken Stock**, also page 31 — the source likely runs several basic stocks together on that one page. [§T4](#t4-stocks--ingredient-conventions) covers general substitutes for any of them.
+- ~~Basic Beef or Pork Stock (page 31) isn't in this cookbook.~~ **Settled 2026-08-09 — confirmed: it's one formula for all of them, now at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the beef/pork variant.
 - **Eggs Basin Street (p. 303)** and its own referenced **Red Beans and Rice (p. 190)** — different from [§7.16](#716-red-beans--rice) in this cookbook — aren't transcribed here.
 
 [↑ Table of Contents](#table-of-contents)
@@ -1547,7 +1550,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 248–249). A
 - ¾ cup chopped celery
 - ¾ cup chopped green bell peppers
 - 1½ tsp minced garlic
-- 1¼ cups Basic Chicken Stock — *see [§4.13](#413-andouille-smoked-sausage-sauce)'s Open Questions*
+- 1¼ cups Basic Chicken Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 - 1 cup canned tomato sauce
 - 1 tsp sugar
 - ½ tsp Tabasco sauce
@@ -1666,7 +1669,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 244–245). A
 - 10 cloves garlic, sliced in half lengthwise
 - 3 bay leaves
 - 1 cup finely chopped onions
-- 3 cups Basic Chicken Stock — *see [§4.13](#413-andouille-smoked-sausage-sauce)'s Open Questions*
+- 3 cups Basic Chicken Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 - 3 cups canned tomato sauce
 - 1 Tbsp minced garlic
 
@@ -1742,7 +1745,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 245), from tw
 - ½ cup chopped green bell peppers
 - 2 tsp minced garlic
 - ¼ cup all-purpose flour
-- 3⅓ cups Basic Chicken Stock — *see Open Questions*
+- 3⅓ cups Basic Chicken Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 - ½ lb chicken livers, ground
 
 #### B. Cooking Instructions
@@ -1786,7 +1789,7 @@ Continue simmering, stirring occasionally, until the gravy has reduced to its fi
 
 #### D. Open Questions
 
-- **Basic Chicken Stock (page 31)** — this is now the **third** recipe in this cookbook to cite chicken stock at that exact page ([§4.14 Creole Sauce](#414-creole-sauce) and [§4.16 Italian Red Gravy](#416-new-orleans-italian-red-gravy) both do too), while [§4.13](#413-andouille-smoked-sausage-sauce) cites "Basic Beef or Pork Stock," also page 31. Strong evidence the source runs several basic stocks on that one page — worth photographing, since it would close a gap shared by half a dozen recipes at once. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute in the meantime.
+- ~~Basic Chicken Stock (page 31) — third recipe citing it, worth photographing.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the fowl variant.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -1913,7 +1916,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 243). A seafo
 
 #### A. Ingredients
 
-- 1 cup Basic Seafood Stock — *see Open Questions*
+- 1 cup Basic Seafood Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 - ¾ tsp minced garlic
 - ¾ lb (3 sticks) unsalted butter, **in all**
 - 2 Tbsp all-purpose flour
@@ -1962,7 +1965,7 @@ Gradually whisk in the Worcestershire, add the salt, and continue cooking, whisk
 
 #### D. Open Questions
 
-- **Basic Seafood Stock (page 32)** — the same gap as [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§4.8](#48-shrimp-and-crab-butter-cream-sauce), and [§4.12](#412-fish-brown-sauce). **This is the sixth recipe in this cookbook that needs it** — second only to the page-31 chicken/beef stocks in how often it comes up.
+- ~~Basic Seafood Stock (page 32) — the sixth recipe needing it.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2192,6 +2195,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T10](#t10-loaded-frittata-formula) | Loaded Frittata Formula | `frittata` `eggs` `breakfast` `one-pan` `broiler` |
 | [T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | How to Sauté (Master Technique for Sautéed Cuts) | `saute` `dredge` `searing` `chicken-breast` `pork-chop` `fish-fillet` |
 | [T12](#t12-fast-homemade-chicken-broth) | Fast Homemade Chicken Broth | `broth` `stock` `rotisserie-chicken` `soup-base` `quick` |
+| [T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) | Basic Stock Formula (Fowl, Beef, Pork & Seafood) | `stock` `broth` `basic-stock` `seafood-stock` `chicken-stock` `formula` |
 
 ---
 
@@ -2216,16 +2220,18 @@ A roux is nothing more than flour and fat cooked together — a technique that g
 - **Oil to flour is 50/50 by volume.** That's the baseline for any amount you're making.
 - **Flour is unsifted** unless a recipe says otherwise.
 
-**The color scale, and what each one is for:**
+**The color scale, and what each one is for.** The source's own color plates (2a–2d) give four distinct tiers rather than the two loosely-blended ones this section used to describe — updated here to match exactly:
 
 | Roux | Pairs with | Why |
 |---|---|---|
-| Light / medium brown | Heavy, dark meats — beef, game, elk, venison, duck and other dark-meat fowl | Gives a toasted, nutty note that lifts a dark gravy without fighting it |
-| Dark red-brown to black | Light, sweet meats — pork, rabbit, veal, all fish and shellfish | The deeper roast stands up to delicate meat instead of being lost in it |
+| **Light-brown** (2a) | Heavy, dark meats at high heat — beef, venison, and other game such as wild duck and goose | The most common working color for sauces and gravies on dark meat |
+| **Medium-brown** (2b) | Same dark-meat pairing as light-brown | Used instead of light-brown when you want a somewhat stronger, deeper, nuttier roux flavor |
+| **Dark red-brown** (2c) | Light, sweet meats — domesticated fowl, rabbit, pork, veal, and seafood | Also usable for gumbo — the acceptable, forgiving starting point |
+| **Black** (2d) | Same light-meat pairing as dark red-brown, when you want it even stronger | Takes real practice to hit without burning — but it's the correct color for a gumbo when you can pull it off |
 
 **For gumbo specifically:** the darker the roux, the *thinner* and better-tasting the gumbo. Black is the target, but black takes practice and lives one second away from burnt — **dark red-brown is perfectly acceptable for any gumbo** and is where you should start. Nobody is going to be disappointed by a dark red-brown gumbo.
 
-The Cajun tradition behind this is simple: light roux with dark meats, dark roux with light meats. Once you've made a few, start breaking the rule on purpose and see what you like.
+The Cajun tradition behind this is simple: light roux with dark meats, dark roux with light meats. **The source is explicit that this is personal preference layered over that tradition, not a rigid rule** — its own example swaps in a medium-brown roux (rather than dark) for a veal dish and for a chicken dish, purely because that's the combination its author likes best. Once you've made a few, start breaking the rule on purpose and see what you like.
 
 #### B. Cooking Instructions
 
@@ -2404,7 +2410,7 @@ A rich stock is the difference between a good version of a dish and a great one,
 - **No spices**
 - **No livers**
 
-There's no fixed rule on quantities. Work off a basic 1-quart recipe and multiply it as far as you need.
+**The actual 1-quart master recipe is now written up in full at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)** — cold water, an aromatic base, and whichever bones or shells match the dish, simmered 4 hours. Multiply it as far as you need.
 
 #### Ingredient Conventions
 
@@ -3312,6 +3318,101 @@ Pull out and discard the bones and skin. Refrigerate what's left if it's getting
 
 ---
 
+### T13. Basic Stock Formula (Fowl, Beef, Pork & Seafood)
+
+<!-- TECHNIQUE-TAGS: stock, broth, basic-stock, seafood-stock, chicken-stock, beef-stock, pork-stock, formula -->
+**Tags:** `stock` · `broth` · `basic-stock` · `seafood-stock` · `chicken-stock` · `beef-stock` · `pork-stock` · `formula`
+**Source:** Chef Paul Prudhomme's *Louisiana Kitchen*, p. 31–32
+**Used in:** every recipe in this cookbook that's been waiting on "Basic Chicken Stock (page 31)," "Basic Beef or Pork Stock (page 31)," or "Basic Seafood Stock (page 32)" — see Part E for the full list
+
+> **This closes a gap that's been open across roughly ten recipes all session.** Every one of them named a "Basic [Something] Stock" from this same book and none of those pages had been photographed — until now. It turns out to be **one formula**, not four separate recipes: same method, same aromatics, and the only thing that changes is which bones or shells go in. Related to [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions), which already covers the general principles (match the stock to the dish, no bell peppers/spices/livers) — this is the actual **1-quart master recipe** T4 said to "work off of," now on the page.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Slow cook 4 hr** *(simmer — the waiting is the whole method)* · **Start to finish ~4 hr 15 min**
+
+#### A. The Formula
+
+*Makes about 1 quart*
+
+**Liquid**
+
+- About 2 quarts cold water — **always start cold**; it's what lets the stock build flavor as it comes up to temperature rather than sealing the bones the way a hot start would
+
+**Aromatics — pick one**
+
+- Vegetable trimmings from whatever recipe you're making the stock for, **or**
+- 1 medium onion, unpeeled and quartered + 1 large garlic clove, unpeeled and quartered + 1 rib celery
+
+**Bones or shells — pick the one that matches your dish**
+
+- **Fowl and game stocks:** 1½–2 lbs backs, necks, and/or bones from chicken, guinea hen, duck, goose, rabbit, etc.
+- **Beef or turtle stock:** 1½–2 lbs beef shank (preferred), or other beef or turtle bones
+- **Pork stock:** 1½–2 lbs pork neck bones (preferred), or other pork bones
+- **Seafood stock:** 1½–2 lbs rinsed shrimp heads and/or crawfish heads and/or crab shells (heads and gills removed), or rinsed fish carcasses (2½–3 quarts), or any combination — **oyster liquor can substitute for some or all of it**
+
+In every case: **bones and any excess meat, excluding livers** — matches [§T4](#t4-stocks--ingredient-conventions)'s "no livers" rule exactly.
+
+#### B. Master Method
+
+**1. Optional: roast the bones and vegetables first. 350°F until well browned.**
+Not required, but it deepens the color and flavor — browning caramelizes the natural sugars in the bones and vegetables, and that color dissolves into the stock water once they're simmered.
+
+**2. Combine everything with cold water in a stock pot, covering the solids.**
+
+**3. Bring to a boil, then drop to a gentle simmer. At least 4 hours.**
+Replenish water as needed to hold roughly 1 quart of liquid in the pot, unless a specific recipe says otherwise. Leave the pot uncovered, or set the lid on askew — you want some evaporation, not a sealed simmer.
+
+**4. Strain, cool, and refrigerate until ready to use.**
+
+**Short on time?** Even 20–30 minutes of simmering beats using plain water in a recipe that calls for stock.
+
+#### C. To Make a Rich Stock
+
+Strain the basic stock, then keep simmering it down until evaporation reduces the volume by **half or more**. If a recipe needs 2 cups of rich stock, start with at least a quart of the basic version. Rich stock is for when a sauce needs a lot of flavor packed into not much liquid — the source's own example is its Oyster Sauce for Beef — and it's excellent for general use beyond that too.
+
+#### D. Grocery Shopping List
+
+**🛒 Aromatics — general grocery**
+
+- 🛒 Onion, garlic, celery — *or use vegetable trimmings you already have on hand*
+
+**🛒 / 🏪 Bones or shells — pick the one you need**
+
+- 🛒 Chicken, guinea hen, duck, goose, or rabbit backs, necks, or bones — *fowl/game stock*
+- 🛒 Beef shank (preferred), or other beef or turtle bones — *beef/turtle stock*
+- 🛒 Pork neck bones (preferred), or other pork bones — *pork stock*
+- 🏪 Shrimp heads, crawfish heads, crab shells, fish carcasses, or oyster liquor (fish market) — *seafood stock*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 quart)* | ~120 | 4 g | 12 g | 8 g | 1 g |
+| **Per serving** *(1 cup, as a base ingredient)* | ~30 | 1 g | 3 g | 2 g | 0.3 g |
+
+**What a serving is:** 1 cup, used as an ingredient in whatever recipe calls for it — this isn't a dish on its own.
+
+*Nearly all the meat and most of the fat stay behind with the strained-out bones and shells; what's left in the liquid is mostly gelatin, minerals, and whatever aromatics dissolved in. Figures move a lot by protein type — a beef-shank stock runs richer than a light seafood-shell stock — so treat this as a rough middle estimate.*
+
+#### E. Every Recipe This Closes
+
+All of these cited a page-31 or page-32 "Basic [Something] Stock" as missing — cross-check against the type needed above, and all are now resolved:
+
+- [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) — beef or pork stock
+- [§4.14 Creole Sauce](#414-creole-sauce) — chicken stock
+- [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) — chicken stock
+- [§4.17 Giblet Gravy](#417-giblet-gravy) — chicken stock
+- [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) — seafood stock
+- [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) — seafood stock
+- [§4.20 Meunière Sauce](#420-meunière-sauce) — seafood stock
+- [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) — seafood stock
+- [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) — seafood stock
+- [§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) — seafood stock
+- [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) — seafood stock (or water, per that recipe's own note)
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -3626,7 +3727,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 62–63, *Fis
 - ¾ tsp white pepper
 - ¾ tsp ground red pepper, preferably cayenne
 - ½ lb peeled small shrimp
-- 1½ cups Basic Seafood Stock — *see Open Questions*
+- 1½ cups Basic Seafood Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 - 6 shucked oysters, medium-size — about 3 oz.
 - ¾ cup all-purpose flour, **in all** *(¼ cup for the binder, ½ cup for the dredge)*
 - ½ cup very finely chopped green onions
@@ -3732,7 +3833,7 @@ As is, or topped with a sauce — see Part E.
 
 #### D. Open Questions
 
-- **Basic Seafood Stock (page 32)** — the same gap as [§7.20](#720-chicken-and-seafood-jambalaya) and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); that page still isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute, or use a good store-bought seafood stock.
+- ~~Basic Seafood Stock (page 32) — the same gap as §7.20 and §8.5.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
 - **550°F is unusually hot** — hotter than many home ovens will go, and hotter than most will hold cleanly. Worth confirming what Cody's oven actually did on 12/5/14, and whether a lower temperature for longer worked.
 - ~~The three finishing sauces — two down, one to go.~~ **Settled 2026-08-09 — all three are done.** [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), [§4.9 Hollandaise](#49-hollandaise-sauce), and [§4.10 Béarnaise](#410-new-orleans-béarnaise-sauce) are all written up. *(Jarred hollandaise is used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you'd rather not make §4.9 from scratch.)*
 
@@ -4449,7 +4550,7 @@ Pack the rice into an 8 oz. cup and unmold it onto the plate: 2 cups per person 
 
 #### D. Open Questions
 
-- **Seafood stock:** the source calls for a specific "Basic Seafood Stock" recipe from elsewhere in its book, not photographed here. Until that page is added, [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions) covers general seafood stock as a reasonable substitute, or a store-bought seafood/fish stock works in a pinch.
+- ~~Seafood stock: the source calls for a Basic Seafood Stock recipe not photographed here.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
 - **Where the chicken goes in:** the source text wraps across a page break right at "Add the season-[ing mix]...", and the sentence that follows references "until chicken is tender" without an explicit "add the chicken" a moment earlier. Step 6 above reconstructs the likely intent — confirm against the actual page if there's any doubt.
 - **The rice/shrimp/oyster step reads as a near-duplicate in the source** ("stir in the rice... add the rice, shrimp and oysters"). Consolidated into one addition in Step 9 — worth double-checking there isn't a genuine two-stage rice addition being missed.
 - ~~Creole Sauce (page 248 of the source) isn't in this cookbook.~~ **Settled 2026-08-09 — now at [§4.14](#414-creole-sauce)**, with the page number confirmed as an exact match.
@@ -5074,7 +5175,7 @@ Main course: mound ¼ cup hot rice in the middle of each bowl, then spoon 1 cup 
 
 #### D. Open Questions
 
-- **Seafood stock:** same gap as [§7.20](#720-chicken-and-seafood-jambalaya) — the source's own "Basic Seafood Stock" recipe isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute until that page turns up.
+- ~~Seafood stock: same gap as §7.20 — the source's Basic Seafood Stock isn't in this cookbook.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
 - ~~The final seafood step is the least certain part of this transcription.~~ **Resolved 2026-08-09 from a clearer retaken photo.** The source reads "Remove from heat and stir well, stirring occasionally" — the seafood finishes on residual heat, no return to a boil. Step 8 above is corrected.
 - **Basic Cooked Rice (page 224)** isn't in this cookbook either — plain white rice is written in above as the practical substitute.
 
@@ -5512,7 +5613,7 @@ For each serving, place a lettuce leaf on a salad plate and mound about ⅓ cup 
 
 #### D. Open Questions
 
-- **Basic Seafood Stock (page 32)** is the same recurring gap — but this is the **first** recipe of the seven that need it to explicitly offer **water as a substitute** in the source's own ingredient line. Worth using that as the practical default rather than waiting on the missing page.
+- ~~Basic Seafood Stock (page 32) is the same recurring gap.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant. This recipe's own water substitute remains a fine shortcut when the full 4-hour stock isn't worth it.
 
 [↑ Table of Contents](#table-of-contents)
 

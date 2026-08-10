@@ -181,6 +181,7 @@ Click any recipe to jump straight to it.
 - [7.40 Shrimp Risotto](#740-shrimp-risotto) ✅
 - [7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) ✅
 - [7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) ✅
+- [7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -242,6 +243,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce)** from **Canal House Cooks Every Day**, p. 128 — Cody's own framing for this one: *"summer sauce with only fresh tomatoes."* The sauce itself is never cooked — tomatoes grated on a box grater, mixed with garlic, passato, and olive oil, then tossed with hot drained spaghetti so the residual heat is what warms the sauce through. |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 127 — a page of summer tomato dishes.** [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) and [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) are garlic-toast-and-tomato dishes, filed in §9 alongside this cookbook's other toast-based snacks. **[§4.60 Tomato "Rollmops"](#460-tomato-rollmops)** — anchovy-and-basil-stuffed plum tomato halves cured under olive oil, a make-ahead condiment kept a week — is filed in §4 instead, alongside [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) and the cookbook's other jarred/cured condiments, since the source itself treats it as something you keep on hand and spoon into other dishes rather than a plated dish on its own. **Its nutrition table only counts oil that actually clings to each piece**, not the full cup used to submerge the batch — the submerging oil is a curing medium reused over the week, the same "account for what's eaten" logic already used for marinades and fry oil elsewhere in this cookbook. |
 | 2026-08-10 | **Two more desserts from Canal House Cooks Every Day, p. 115–116.** [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) — a stirred custard sauce over macerated fresh berries, **rated 🔴 Hard** on the same reasoning as [§4.9 Hollandaise](#49-hollandaise-sauce): push the heat too far and the eggs scramble, and the source gives no fix. **[§14.3 Classic Tuiles](#143-classic-tuiles) is flagged as an incomplete transcription, not finished and not silently completed** — the photographed page cuts off mid-sentence with "continued on page 118," and page 118 hasn't been photographed. Written up as far as the source goes, with the missing bake time, doneness cue, and the actual rolling-pin shaping technique logged as Open Questions rather than guessed at. Its difficulty rating is marked provisional and its time badge shows an unknown cook time; the Difficulty & Time Index excludes it from every count and total until the rest arrives. |
 | 2026-08-10 | Added **[§8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup)** from **Canal House Cooks Every Day**, p. 108 — a blended cold soup for a summer scorcher, the first chilled soup in §8 (everything else there is hot). Avocado, unpeeled cucumber, garlic, and chicken stock blended smooth, finished with lemon juice and salt, garnished with sour cream and hot sauce. The source's own advice to make it the same day it's served, so it keeps its pale green color, is called out rather than left buried in the method. |
@@ -428,6 +430,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) | 🟢 | 15 min | 12 min | — | 30 min |
 | [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
 | [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) | 🟡 | 10 min | 15 min | — | 25 min |
@@ -502,7 +505,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 75 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 76 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -9832,6 +9835,67 @@ Just before serving, thinly slice the meat on a cutting board and arrange it on 
 | **Per serving** *(serves 5)* | ~665 | 45 g | 53 g | 12 g | 3.5 g |
 
 **What a serving is:** a generous 5–6 oz of sliced veal with sauce and olives spooned over — pairs naturally with a mashed-potato base per [§T18 "Pile It On"](#t18-pile-it-on--canal-houses-plating-formula).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.43 Hot Spaghetti Tossed with Raw Tomato Sauce
+
+Transcribed from **Canal House Cooks Every Day**, p. 128 — a summer sauce made with only fresh tomatoes, no cooking. *"Use the juiciest, sweetest summer tomatoes you can find for this light, fresh sauce. (Maybe you have a garden full of them? It's everyone's dream.)"*
+
+> The source's margin note: *"August 9th, 82°, afternoon storm."*
+
+**Yield:** serves 4–6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~12 min** *(just the pasta — the sauce itself is never cooked)* · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+- 1½–2 lbs ripe tomatoes, halved
+- 1–2 cloves garlic, finely minced
+- ½ cup passato di pomodoro, or strained tomatoes
+- 4–6 Tbsp really good extra-virgin olive oil, plus more for drizzling
+- Salt and pepper
+- 1 lb spaghetti
+- Freshly grated parmigiano-reggiano
+- Basil leaves, if you like
+
+#### B. Cooking Instructions
+
+**1. Grate the tomatoes.**
+Grate the fleshy sides of the tomatoes on the large holes of a box grater into a big bowl. Discard the skins.
+
+**2. Build the raw sauce.**
+Add the garlic, passato, and olive oil, and season with salt and pepper.
+
+**3. Cook the spaghetti. About 12 minutes.**
+Cook in a large pot of salted boiling water over high heat until just cooked through. Drain.
+
+**4. Toss and finish.**
+Toss the pasta with the sauce. Drizzle with olive oil and season with salt and pepper. Serve with lots of freshly grated parmigiano-reggiano, and basil leaves, if you like.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ripe tomatoes — 1½–2 lbs
+- 🛒 Garlic — 1–2 cloves
+- 🛒 Passato di pomodoro (strained tomatoes) — ½ cup
+- 🛒 Really good extra-virgin olive oil — 4–6 Tbsp, plus more for drizzling
+- 🛒 Salt, pepper
+- 🛒 Spaghetti — 1 lb
+- 🛒 Parmigiano-reggiano — for grating over
+- 🛒 Basil leaves — optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,455 | 82 g | 71 g | 355 g | 24 g |
+| **Per serving** *(serves 5)* | ~490 | 16 g | 14 g | 71 g | 5 g |
+
+**What a serving is:** about 1½ cups — a generous pasta bowl.
 
 [↑ Table of Contents](#table-of-contents)
 

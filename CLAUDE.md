@@ -57,6 +57,8 @@ Every written-up recipe carries a one-line badge above its Ingredients, and a ma
 
 **Difficulty is technique risk, not effort.** 🟢 Easy · 🟡 Medium · 🔴 Hard. Hard is reserved for things that can genuinely fail on you — roux above all. An 8-hour crock pot is Easy, because none of those hours can go wrong. A 15-minute roux is Hard.
 
+**Long is not hard. A big recipe is not automatically a 🔴.** The test is always the same: *can a step go from perfect to ruined?* If nothing can, it's Easy no matter how many hours or components it involves. **[§1 Cody's Pho](codys-cookbook.md#1-codys-pho) is the reference case** — two days, two hours of prep, more moving parts than anything else in the book, and rated 🟢 Easy, because not one of its steps can fail on you. In Cody's words, *it's a long distance run.* Length, component count, and lead time belong in the **time** fields; they must never inflate the difficulty rating.
+
 **Time is split three ways, and the third one matters most:**
 
 - **Prep** — hands-on work before and between cooking. Chopping, mixing, dredging, skewering, breaking down a chicken.

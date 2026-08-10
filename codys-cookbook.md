@@ -134,6 +134,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **[§1 Cody's Pho](#1-codys-pho) re-rated 🔴 Hard → 🟢 Easy, per Cody: *"it's just a long distance run."*** He's right, and the original rating broke this cookbook's own rule — difficulty is **technique risk, not effort**, and nothing in the pho can catastrophically fail: no roux, no emulsion, no step that turns in ten seconds. It was rated Hard for being *long*, which is exactly what the rule forbids. Length and lead time live in the time fields instead. The **[project instructions](CLAUDE.md) §3a** now say so explicitly, with Pho named as the reference case so it doesn't get re-litigated. Hard count drops from six to five; the index gains a note that *long is not the same as hard*, using Pho as the proof — biggest numbers in the table, easiest technique. |
 | 2026-08-09 | Added **[§4.9 Hollandaise Sauce](#49-hollandaise-sauce)** from *Louisiana Kitchen* (p. 258–259) — **the second of [§7.3](#73-seafood-stuffed-flounder)'s three missing sauces. Only Béarnaise (p. 306) is left.** Rated **🔴 Hard**, the sixth, and it adds a *fourth* kind of hard to the book: **an emulsion that breaks and can't be rescued** — distinct from roux, from Pho's sprawl, and from §7.3's binder-and-heat problem. Prudhomme's own explanation of *why* the sauce works (air bubbles in the yolks; heat after the butter goes in bursts them; body temperature is the target) is kept as its own section up front, since every instruction follows from it. Also captured: his unusual step of **separating the melted butter into surface butterfat and bottom solids** and using each for a different job — solids for flavor and thinning, butterfat for thickening. |
 | 2026-08-09 | Added **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — **which closes one third of [§7.3](#73-seafood-stuffed-flounder)'s open question**, since that recipe named this exact sauce as one of three finishing options not in the cookbook. Hollandaise (p. 258) and Béarnaise (p. 306) are still outstanding. **Flagged prominently: this is a *blond* roux — the opposite of [§T1](#t1-how-to-make-a-roux).** The source says outright *"if mixture starts to brown, remove from heat,"* which directly inverts the dark-roux instinct every other Cajun recipe here trains. |
 | 2026-08-09 | **Source book identified: Chef Paul Prudhomme's *Louisiana Kitchen*.** The running header on the §4.8 page named it, and its page references line up exactly with three recipes already transcribed — so **[§7.3](#73-seafood-stuffed-flounder)**, **[§7.20](#720-chicken-and-seafood-jambalaya)**, **[§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)**, and **[§4.8](#48-shrimp-and-crab-butter-cream-sauce)** all now credit it by name instead of "a printed Cajun cookbook." **Practical upshot: *Basic Seafood Stock*, page 32, is the single most valuable page left to photograph** — four separate recipes here call for it and none can be made as written without it. |
@@ -249,7 +250,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ⭐ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
-| [§1 Cody's Pho](#1-codys-pho) | 🔴 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
+| [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
 
 ### Reading this table
 
@@ -261,7 +262,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **🥑 Keto / low-carb — 5 recipes.** All four come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The six 🔴 Hard ones come down to four problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§1 Pho](#1-codys-pho) is hard for another: **two days and many moving parts**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a third: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a fourth: **an emulsion that breaks and can't be rescued**. Learn the roux once and three of the six stop being hard.
+**The five 🔴 Hard ones come down to three problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. Learn the roux once and three of the five stop being hard.
+
+**Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the biggest numbers in this table — two days start to finish, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
 *Recipes still in placeholder form (§3, §5.1–5.9, §6, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **§6 Smoked Meats will all be Slow cook** when written up.*
 
@@ -279,7 +282,9 @@ Cody's own method, taken down from his walkthrough. A salty, five-spice-forward 
 
 **Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)
 
-**🔴 Hard** · **Prep ~2 hr** · **Cook ~20 min** · **Slow cook ~5 hr + 24–36 hr** *(broth simmer, plus sous vide)* · **Start to finish 2 days** *(the chuck goes in the water bath 1–2 days ahead — plan backward from dinner)*
+**🟢 Easy** · **Prep ~2 hr** · **Cook ~20 min** · **Slow cook ~5 hr + 24–36 hr** *(broth simmer, plus sous vide)* · **Start to finish 2 days** *(the chuck goes in the water bath 1–2 days ahead — plan backward from dinner)*
+
+> **Easy, but long — it's a distance run, not a technical climb.** Nothing here can catastrophically fail on you: no roux, no emulsion, no step that goes from perfect to ruined in ten seconds. What it asks for is *stamina and planning* — two days of lead time and about two hours of knife work. Don't let the 🟢 fool you into starting it at 5pm, and don't let the length scare you off; every individual step is straightforward.
 
 ### A. Ingredients
 

@@ -191,6 +191,7 @@ Click any recipe to jump straight to it.
 - [7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) ✅
 - [7.47 Shrimp Roast](#747-shrimp-roast) ✅
 - [7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) ✅
+- [7.49 "Brunette" de Veau](#749-brunette-de-veau) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -266,6 +267,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§7.49 "Brunette" de Veau](#749-brunette-de-veau)** from **Canal House Cooks Every Day** — a browned, deliberately un-classical take on Blanquette de Veau (which stays pale on purpose); the source calls their version "brunette" precisely because they brown the veal shanks for extra flavor and caramelization instead of avoiding color the traditional way. Also: **a clearer re-photo of the [§9.11](#911-melba-toasts)–[§9.15](#915-anchovy--lemon-butter) melba toast spread confirmed every existing ingredient and quantity as already transcribed** — nothing needed correcting — and picked up a margin note that had been missing: *"February 28th, 31°, bright sunshiny day,"* now added to §9.11. |
 | 2026-08-10 | **A long-standing open reference finally resolved: [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular).** Four recipes have been citing an untranscribed "Preserved Lemon (page 294)" — [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), [§9.16 Deviled Eggs](#916-deviled-eggs), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) all now point here instead. (One correction while doing it: [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) had been listed as a fourth citer in earlier changelog notes — checked against its actual ingredient list, and it never actually calls for preserved lemon; that was a bookkeeping error, now fixed rather than left standing.) **Directly answers Cody's question**: yes, regular lemons work if Meyer lemons aren't available — the source's own text says this is literally the traditional Moroccan method, and Meyer lemons only entered the picture because of a friend's backyard windfall. Filed as a formula rather than a fixed recipe, since the source works from "a half-bushel" rather than a precise home-kitchen quantity. **Also added, all from the same source:** [§7.47 Shrimp Roast](#747-shrimp-roast) (a friend's Kerala-style shrimp curry, its own Curd Rice pairing flagged as an untranscribed reference) and [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) (a from-scratch dry-brined and cured brisket, kept deliberately separate from Cody's own [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) placeholder, same reasoning as every other "Cody's own vs. a new source's version" split this session; its Parsley Sauce pairing is likewise flagged as untranscribed). And **[§10.6 Irish Soda Bread](#106-irish-soda-bread)** — a quick bread with currants and caraway, filed in Breakfast per the source's own "toast slices for breakfast" line. |
 | 2026-08-10 | **Four more from Canal House Cooks Every Day.** Three "medicinal" broths from the winter chapter (p. 276–277): [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) (short ribs and prunes simmered 5 hours, strained — the meat is discarded, only the broth is kept), [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) (based on the source's own citation of Dr. Bieler's Broth from a 1966 book), and [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) (whole chicken, 8 oz of ginger, breasts pulled early to stay tender). **Also added [§5.21 Sautéed Kale](#521-sautéed-kale) — deliberately partial, per Cody's explicit request.** The source recipe is "Borlotti Beans with Sautéed Baby Kale" (p. 283); only the kale portion is transcribed, not the beans. **Answered Cody's baby kale substitution question directly in the entry**: yes, any regular kale works — baby kale is just young, tender leaves of the same plant, so mature kale needs stems stripped and runs toward the longer end of the cook time. |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day.** [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it), p. 236 — the hand-cranked-machine method plus a "Cutting Pasta" sidebar for pappardelle and tagliatelle. **This closes half of an open reference from [§7.41](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)**, which had named this exact page as an untranscribed pasta-cutting technique; §7.41's other reference, the Spinach Pasta dough itself (source p. 238), is still open. Also added **[§8.13 Lobster Stew](#813-lobster-stew)** and **[§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery)**, p. 254–255. **Both of these two carry more transcription uncertainty than usual** — the source photos were upside down and mirrored, a harder read than this cookbook's usual angled-photo problem. Ingredient lists are solid; some step ordering (whether the lobster shells get strained before the potatoes go in; the exact split between the shrimp's poaching liquid and the celery's pickling brine) is a sensible reconstruction rather than a confirmed transcription, flagged prominently rather than presented as settled, with a note that a straight re-photo would resolve it. |
@@ -538,6 +540,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
+| [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
@@ -10606,6 +10609,86 @@ Ladle some of the broth over the potatoes and garnish with chopped parsley. Serv
 
 ---
 
+### 7.49 "Brunette" de Veau
+
+Transcribed from **Canal House Cooks Every Day**. *"Blanquette de Veau, the basis for this recipe, is — as its name tells you — 'veal in a white sauce.' In the classic preparation, great care is taken to avoid browning the meat, which could color the delicate pale, creamy sauce. Even though we are usually traditionalists, we prefer the extra flavor that browned meat and the caramelization on the bottom of the pan gives to the sauce. So we call this 'brunette' instead. Using veal shank rather than veal stew meat ensures the tenderest, most succulent stew. We like to serve this dish with parsleyed and buttered wide egg noodles."*
+
+> The source's margin note: *"March 22nd, 53°, mild pretty day."*
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~50 min** · **Slow cook ~2½ hr** *(braise, unattended)* · **Start to finish ~3 hr 20 min**
+
+#### A. Ingredients
+
+- Four 1-lb veal shank pieces
+- Salt and pepper
+- ¼ cup flour
+- 3 Tbsp olive oil, divided
+- 2 medium onions, chopped
+- 2 cloves garlic, chopped
+- 3 cups beef stock
+- 5 sprigs fresh thyme
+- 3 bay leaves
+- ¼ cup heavy cream
+- Juice of ½ lemon
+
+#### B. Cooking Instructions
+
+**1. Season and dust the veal.**
+Season the veal shanks with salt and pepper, then dust with flour.
+
+**2. Brown well, in batches. About 5 minutes per side.**
+Heat 2 Tbsp of the olive oil in a heavy large pot over medium heat. Add the veal shanks and brown well, working in batches if necessary — crowding the pot will make the shanks steam instead of brown.
+
+**3. Sauté the onions and garlic. 5–10 minutes.**
+Remove the meat from the pot and reduce the heat to medium. Add the onions and garlic and cook, stirring and scraping up the browned bits from the bottom, until nice and soft. Add the remaining 1 Tbsp olive oil if the pot seems dry.
+
+**4. Braise. 2–3 hours.**
+Return the meat to the pot, then add the stock, thyme, and bay leaves. Bring to a simmer, cover, and cook over low heat until the meat is fork-tender. Check for doneness at the early end of the timing; transfer any shanks that are ready to a large plate and continue cooking the rest until all are tender.
+
+**5. Reduce the sauce. About 30 minutes.**
+Simmer the sauce, uncovered, stirring occasionally, until it has thickened and reduced. Remove and discard the thyme and bay leaves.
+
+**6. Strain and enrich.**
+Transfer the sauce to a large clean pot and strain it through a fine-mesh sieve until smooth. Stir in the cream, then add the lemon juice, and season with salt and pepper.
+
+**7. Reheat and serve. About 10 minutes.**
+Return the veal to the pot and heat through. Serve with parsleyed, buttered wide egg noodles, per the source.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Veal shank — four 1-lb pieces
+
+**🛒 General grocery**
+
+- 🛒 Salt, pepper
+- 🛒 All-purpose flour — ¼ cup
+- 🛒 Olive oil — 3 Tbsp
+- 🛒 Onions — 2 medium
+- 🛒 Garlic — 2 cloves
+- 🛒 Beef stock — 3 cups
+- 🛒 Fresh thyme — 5 sprigs
+- 🛒 Bay leaves — 3
+- 🛒 Heavy cream — ¼ cup
+- 🛒 Lemon — for ½ juice
+- 🛒 Wide egg noodles, parsley, butter — for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,665 | 135 g | 286 g | 58 g | 6 g |
+| **Per serving** *(serves 4)* | ~665 | 34 g | 72 g | 15 g | 1.5 g |
+
+**What a serving is:** a generous portion of veal shank with sauce, about 1 lb bone-in — figures above don't include the egg noodles on the side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.1 Chili
@@ -12226,6 +12309,8 @@ Serve immediately.
 ### 9.11 Melba Toasts
 
 Transcribed from **Canal House Cooks Every Day** (Christopher Hirsheimer and Melissa Hamilton), p. 316 — a new source this session. The base for [§9.12](#912-potted-crab)–[§9.15](#915-anchovy--lemon-butter), all four of which are "spread on melba toasts."
+
+> The source's margin note: *"February 28th, 31°, bright sunshiny day."*
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min**
 

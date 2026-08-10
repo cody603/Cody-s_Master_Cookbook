@@ -23,6 +23,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ✅
   - [4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ✅
   - [4.9 Hollandaise Sauce](#49-hollandaise-sauce) ✅
+  - [4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) ✅
+  - [4.11 Choron Sauce](#411-choron-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -134,6 +136,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **[§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder)'s sauce question is fully closed.** Added **[§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce)** — the third and last of its three missing finishing sauces — plus a bonus **[§4.11 Choron Sauce](#411-choron-sauce)** from the same source page, Béarnaise's tomato cousin. Both are built the same way: reduce something on the stove, stir it into warm **[§4.9 Hollandaise](#49-hollandaise-sauce)**. All cross-references updated — §4.9's, §7.3's, and the TOC's — from "two of three" to "all three, done." **One discrepancy flagged rather than papered over:** §7.3's original card cited Béarnaise as page 306, but this recipe's own page number wasn't legible and it sits immediately after Hollandaise (page 258) in the source — noted as an open question rather than assumed to be the same page. |
 | 2026-08-09 | **[§1 Cody's Pho](#1-codys-pho) re-rated 🔴 Hard → 🟢 Easy, per Cody: *"it's just a long distance run."*** He's right, and the original rating broke this cookbook's own rule — difficulty is **technique risk, not effort**, and nothing in the pho can catastrophically fail: no roux, no emulsion, no step that turns in ten seconds. It was rated Hard for being *long*, which is exactly what the rule forbids. Length and lead time live in the time fields instead. The **[project instructions](CLAUDE.md) §3a** now say so explicitly, with Pho named as the reference case so it doesn't get re-litigated. Hard count drops from six to five; the index gains a note that *long is not the same as hard*, using Pho as the proof — biggest numbers in the table, easiest technique. |
 | 2026-08-09 | Added **[§4.9 Hollandaise Sauce](#49-hollandaise-sauce)** from *Louisiana Kitchen* (p. 258–259) — **the second of [§7.3](#73-seafood-stuffed-flounder)'s three missing sauces. Only Béarnaise (p. 306) is left.** Rated **🔴 Hard**, the sixth, and it adds a *fourth* kind of hard to the book: **an emulsion that breaks and can't be rescued** — distinct from roux, from Pho's sprawl, and from §7.3's binder-and-heat problem. Prudhomme's own explanation of *why* the sauce works (air bubbles in the yolks; heat after the butter goes in bursts them; body temperature is the target) is kept as its own section up front, since every instruction follows from it. Also captured: his unusual step of **separating the melted butter into surface butterfat and bottom solids** and using each for a different job — solids for flavor and thinning, butterfat for thickening. |
 | 2026-08-09 | Added **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — **which closes one third of [§7.3](#73-seafood-stuffed-flounder)'s open question**, since that recipe named this exact sauce as one of three finishing options not in the cookbook. Hollandaise (p. 258) and Béarnaise (p. 306) are still outstanding. **Flagged prominently: this is a *blond* roux — the opposite of [§T1](#t1-how-to-make-a-roux).** The source says outright *"if mixture starts to brown, remove from heat,"* which directly inverts the dark-roux instinct every other Cajun recipe here trains. |
@@ -226,6 +229,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
+| [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
+| [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
@@ -1216,9 +1221,106 @@ Or as soon as possible, holding it somewhere warm — on top of the stove is Pru
 
 #### E. Open Questions
 
-- **Béarnaise Sauce (p. 306)** is the last of §7.3's three sauces still missing.
+- ~~Béarnaise Sauce (p. 306) is the last of §7.3's three sauces still missing.~~ **Settled 2026-08-09 — now written up at [§4.10](#410-new-orleans-béarnaise-sauce).** All three of §7.3's finishing sauces are in this cookbook.
 - **Roasted Goose with stuffing (p. 148)** — the source's other serving suggestion for this sauce, also not in this cookbook. *(The exact stuffing name was obscured in the photo.)*
 - **Margarine alongside butter** is unusual in a hollandaise. Per [§T3](#t3-butter-oil-pan-frying--frying), margarine stands in for *oil* rather than butter — worth noting it's likely there to help the emulsion hold, but the source doesn't say why.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.10 New Orleans Béarnaise Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Sauces & Gravies*, right after Hollandaise). A white-wine-and-tarragon reduction stirred into warm [§4.9 Hollandaise](#49-hollandaise-sauce) — the classic Béarnaise move, Prudhomme's own version of it.
+
+> **This is the third and last of the sauces [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) named as missing.** With this, all three — [§4.8 Shrimp and Crab Butter Cream](#48-shrimp-and-crab-butter-cream-sauce), [§4.9 Hollandaise](#49-hollandaise-sauce), and this one — are now in the cookbook.
+
+**Yield:** about 2⅔ cups
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min** *(on top of a batch of [§4.9 Hollandaise](#49-hollandaise-sauce), which isn't counted here — see that entry for its own time)*
+
+> **Inherits Hollandaise's fragility.** This is a reduction stirred into an already-finished emulsion, not a new emulsion of its own — but per [§4.9](#49-hollandaise-sauce), the base is still delicate. Have the hollandaise warm and ready before you start the reduction, and serve immediately once combined.
+
+#### A. Ingredients
+
+- 3 Tbsp white wine
+- 1 tsp dried tarragon leaves
+- ½ tsp very finely chopped fresh parsley, optional
+- Warm [Hollandaise Sauce](#49-hollandaise-sauce) — the full batch from §4.9
+
+#### B. Cooking Instructions
+
+**1. Reduce the wine and tarragon. About 2 minutes.**
+In a small saucepan, combine the white wine, tarragon, and parsley if using. Cook over high heat, stirring occasionally, until **most of the liquid has evaporated**.
+
+**2. Stir into the warm hollandaise and serve immediately.**
+Don't let either component sit and cool separately first — combine and serve right away.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 White wine — 3 Tbsp
+- 🛒 Dried tarragon leaves — 1 tsp
+- 🛒 Fresh parsley — ½ tsp finely chopped, optional
+- 🛒 Everything on [§4.9's list](#49-hollandaise-sauce) for the hollandaise itself
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(reduction only, on top of a batch of §4.9)* | ~25 | 0 g | 0 g | 2 g | 0 g |
+| **Per serving** *(about 3 Tbsp, of roughly 14 — same portion as §4.9)* | ~170 | 19 g | 1 g | 0 g | 0 g |
+
+**What a serving is:** about 3 Tbsp — the same portion as the hollandaise it's built on. **Per-serving figure includes a full share of §4.9's hollandaise**, since that's most of the sauce by volume; the reduction itself is nearly calorie-free.
+
+#### D. Open Questions
+
+- **Exact page number wasn't legible in the photo** — this recipe follows Hollandaise directly in the *Sauces & Gravies* chapter and references it as "page 258," but its own page number (likely 260 or so) wasn't visible. Worth confirming against [§7.3](#73-seafood-stuffed-flounder)'s card, which cited "page 306" for Béarnaise — that may be a different edition's pagination, or a different section of the same book.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.11 Choron Sauce
+
+Transcribed from the same page as [§4.10](#410-new-orleans-béarnaise-sauce) — **Choron is Béarnaise's tomato cousin**, both built the same way: reduce something on the stove, stir it into warm [§4.9 Hollandaise](#49-hollandaise-sauce).
+
+**Yield:** about 3 cups
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min** *(on top of a batch of [§4.9 Hollandaise](#49-hollandaise-sauce), not counted here)*
+
+#### A. Ingredients
+
+- ¾ cup tomatoes, peeled and finely chopped
+- Warm [Hollandaise Sauce](#49-hollandaise-sauce) — the full batch from §4.9
+
+#### B. Cooking Instructions
+
+**1. Cook the tomatoes down. 8–10 minutes.**
+In a 1-quart saucepan over medium heat, cook the chopped tomatoes, stirring frequently, until **very little liquid remains**.
+
+**2. Stir into the warm hollandaise and serve immediately.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Tomatoes — ¾ cup peeled and finely chopped, about 1 medium
+- 🛒 Everything on [§4.9's list](#49-hollandaise-sauce) for the hollandaise itself
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(tomato addition only, on top of a batch of §4.9)* | ~30 | 0 g | 1 g | 7 g | 2 g |
+| **Per serving** *(about 3 Tbsp, of roughly 16 — the larger yield spreads the same hollandaise a bit thinner)* | ~150 | 17 g | 1 g | 0.5 g | 0.1 g |
+
+**What a serving is:** about 3 Tbsp. **Per-serving figure includes a full share of §4.9's hollandaise** diluted slightly by the extra volume the tomatoes add.
+
+#### D. Serving Suggestions
+
+Both this and [§4.10 Béarnaise](#410-new-orleans-béarnaise-sauce) work anywhere a plain hollandaise does — **[§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder)**, **[§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters)**, eggs, or vegetables. Choron is the classic pairing with red meat and eggs; Béarnaise leans toward steak and fish.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2779,17 +2881,18 @@ As is, or topped with a sauce — see Part E.
 
 - **Basic Seafood Stock (page 32)** — the same gap as [§7.20](#720-chicken-and-seafood-jambalaya) and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); that page still isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute, or use a good store-bought seafood stock.
 - **550°F is unusually hot** — hotter than many home ovens will go, and hotter than most will hold cleanly. Worth confirming what Cody's oven actually did on 12/5/14, and whether a lower temperature for longer worked.
-- **The three finishing sauces** — two down, one to go. **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) (p. 254)** and **[§4.9 Hollandaise Sauce](#49-hollandaise-sauce) (p. 258)** are both written up here now. Only **Béarnaise (p. 306)** is still missing. *(Jarred hollandaise is used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you'd rather not make §4.9 from scratch.)*
+- ~~The three finishing sauces — two down, one to go.~~ **Settled 2026-08-09 — all three are done.** [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), [§4.9 Hollandaise](#49-hollandaise-sauce), and [§4.10 Béarnaise](#410-new-orleans-béarnaise-sauce) are all written up. *(Jarred hollandaise is used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you'd rather not make §4.9 from scratch.)*
 
 #### E. Serving Suggestions
 
 Serve immediately, either plain or topped with one of the source book's sauces:
 
 - **[Hollandaise](#49-hollandaise-sauce)** — ✅ **written up at §4.9**
+- **[Béarnaise](#410-new-orleans-béarnaise-sauce)** — ✅ **written up at §4.10**
 - **[Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — ✅ **written up at §4.8**
-- **Béarnaise** *(p. 306)*
 
-Two of the three are now in this cookbook; only Béarnaise is still missing — see Open Questions.
+
+**All three are now in this cookbook.**
 
 [↑ Table of Contents](#table-of-contents)
 

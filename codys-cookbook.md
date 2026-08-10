@@ -87,7 +87,7 @@ Click any recipe to jump straight to it.
   - [T14. How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) ✅
   - [T15. How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage) ✅
   - [T16. How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) ✅
-  - [T17. The Raw Egg Soak (for Shrimp)](#t17-the-raw-egg-soak-for-shrimp) ✅
+  - [T17. The Raw Egg Soak (Deodorizing Fish & Shellfish)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -202,8 +202,9 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **[§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) substantially corrected and rewritten — the previous version had the technique wrong.** Cody explained the method properly and it is **not** a velveting/texture technique, which is what Claude had inferred a round earlier. It's a **deodorizer**: raw whole eggs cracked over fish or shellfish that smells fishy out of the bag, mixed through in a colander in the sink, left **7–15 minutes**, then **rinsed off completely** — the rinse is the step that actually removes the off-flavor. Renamed from *"(for Shrimp)"* to *"(Deodorizing Fish & Shellfish)"* since it applies to **any** fish or shellfish — salmon, catfish, crawfish, shrimp — and all links repointed. **Every one of the four Open Questions is now answered by Cody directly:** whole eggs, not just whites; 7–15 minutes with **15 as a hard ceiling** *(past that it starts pulling out the flavor of the fish itself)*; rinse thoroughly, **unless** you're frying and the egg is doing double duty as batter; and it **does not work for ceviche**, which he ruled out explicitly — so [§7.22](#722-captain-mikes-ceviche) now carries that as a note. Added a new trigger section built on **the smell test** — no fish smell means skip it entirely. The mechanism is rewritten around **trimethylamine**, the compound behind fishy smell, and the well-established **milk-soak** parallel (proteins bind the volatile amines; the rinse carries them away), which also explains why over-soaking backfires. **The original wrong reasoning is left in place as a marked correction** rather than quietly swapped out — it's a clean example of a plausible-sounding inference pointing the wrong way. Wired into [§7.2](#72-boiled-shrimp-with-tonys) and [§7.10](#710-cilantro-lime-shrimp), the two recipes Cody names for it. |
 | 2026-08-10 | **Cody rated the cookbook, and the ratings are now part of it — new [Family Ratings Index](#family-ratings-index) plus a marker on all 76 rated entries.** Three tiers, in his framing: **❤️ family favorite** (51), **👍 tried and liked** (12), **🔖 want to try** (13). Every rated recipe carries the verdict **in Cody's own words** in its own section, so it travels with the recipe instead of living only in an index. **Resolved a marker collision while doing it:** ⭐ was doing two unrelated jobs — "pantry staple worth keeping on hand" in five T-section grocery lists, and "favorite" on [§7.3](#73-seafood-stuffed-flounder) and [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice). Those two are now ❤️, so ⭐ means one thing again. **Four things surfaced that aren't just ratings:** [§5.1 Green Beans](#51-green-beans) gained its first real content — it's **Vicky's lemon zest green beans**, and the method should come from her; [§6.2 Pulled Pork](#62-pulled-pork) notes a **second pulled pork recipe is coming** and will get its own entry rather than overwriting the North Carolina one; [§6.3](#63-smoked-whole-hen) flags a possible **hen/ham mix-up** (Cody said "smoked ham," the stub has always said hen) rather than silently picking one; and [§7.33](#733-grilled-stuffed-chicken-breasts) answers his chicken-thigh question — yes, but butterfly-and-fold rather than pocket, and expect ~175°F and a more forgiving cook. **Two split verdicts recorded as such** rather than averaged into a score: [§7.7 Chicken Livers](#77-chicken-livers) *("I love it, but I don't think my family likes it")* and [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *("My family likes it. I think it's okay")*. **[§7.13 Crawfish Elegante](#713-crawfish-elegante) and [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) got skipped** in the pass and are flagged in the index as the notable unrated gaps — both are from Cody's own cards. |
-| 2026-08-10 | Added **[§T17 The Raw Egg Soak (for Shrimp)](#t17-the-raw-egg-soak-for-shrimp)** — Cody's own standing technique, not from any cookbook here: shrimp that isn't genuinely fresh *("which you just don't get in Missouri")* gets soaked in raw egg first. Written up with the mechanism explained at the level it can actually be supported — it's the same principle as **velveting**, where an egg-protein coat holds moisture and takes the brunt of the heat — and **explicitly flagged where the reasoning outruns the evidence** rather than dressed up as settled science. Four Open Questions recorded: whole egg or just the white *(classic velveting uses the white)*, soak time, egg-per-pound, and whether it carries over to [§7.22 Ceviche](#722-captain-mikes-ceviche), which never heats the shrimp at all and so is a genuinely different proposition. Wired to the three shrimp recipes whose ratings all came with the same *"only if it's fresh"* caveat. |
+| 2026-08-10 | Added **[§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)** *(then titled "for Shrimp"; renamed and corrected the same day — see the entry above)* — Cody's own standing technique, not from any cookbook here: shrimp that isn't genuinely fresh *("which you just don't get in Missouri")* gets soaked in raw egg first. Written up with the mechanism explained at the level it can actually be supported — it's the same principle as **velveting**, where an egg-protein coat holds moisture and takes the brunt of the heat — and **explicitly flagged where the reasoning outruns the evidence** rather than dressed up as settled science. Four Open Questions recorded: whole egg or just the white *(classic velveting uses the white)*, soak time, egg-per-pound, and whether it carries over to [§7.22 Ceviche](#722-captain-mikes-ceviche), which never heats the shrimp at all and so is a genuinely different proposition. Wired to the three shrimp recipes whose ratings all came with the same *"only if it's fresh"* caveat. |
 | 2026-08-10 | **Logged a recipe Cody remembers loving that isn't in this cookbook** — a **New Orleans blended crab and shrimp sauce** from *Louisiana Kitchen*, *"maybe even oysters in it,"* blended smooth. Added to **[§12 Recipes To Document](#12-recipes-to-document)** rather than assumed to be one already here: **checked against [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — same book, same two shellfish, but that one keeps them **whole** and never touches a blender — and against [§4.21 Czarina Sauce](#421-czarina-sauce-with-shrimp-or-crawfish). Neither is it. Needs a photo of the page. |
 | 2026-08-10 | Added **[§T16 How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** — a new source, a hand-illustrated technique page presumed to be **Samin Nosrat's *Salt, Fat, Acid, Heat*** (inferred from the illustration style and Cody's own naming, not yet confirmed against a title page — flagged as such rather than stated outright). A ratio formula (1 egg yolk : ¾ cup oil) rather than a fixed batch, filed as a technique alongside [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§T15](#t15-how-to-barbecue-cabbage) for the same reason. **Rated Medium, not Hard like [§4.9 Hollandaise](#49-hollandaise-sauce)** — the deciding difference: this technique comes with its own explicit broken-mayonnaise fix, so a break here is recoverable, which is exactly the condition [§4.9](#49-hollandaise-sauce) fails. |
 | 2026-08-10 | Added **[§13 Meathead Cookbook](#13-meathead-cookbook)** as a placeholder — Cody's next source, nothing photographed yet. Title given as an educated guess (*Meathead: The Science of Great Barbecue and Grilling*) rather than confirmed, per this cookbook's practice of only asserting a source once an actual page confirms it. Likely destination once content arrives: [§6 Smoked Meats](#6-smoked-meats), still mostly placeholders. |
@@ -307,7 +308,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) | 🟢 | 5 min | — | — | 5 min |
-| [§T17 Raw Egg Soak (Shrimp)](#t17-the-raw-egg-soak-for-shrimp) | 🟢 | 5 min | — | — | 5 min |
+| [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
@@ -473,7 +474,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The two split verdicts are worth naming.** [§7.7 Chicken Livers](#77-chicken-livers) — *"I love it, but I don't think my family likes it."* [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) — *"My family likes it. I think it's okay."* Exact opposites, and both worth knowing before you plan a menu around either one.
 
-**Three favorites depend on shrimp quality, not on the recipe.** [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), and [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) all got a rating with the same caveat attached — it's great *when the shrimp is fresh*, which in Missouri it usually isn't. See **[§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-for-shrimp)** for Cody's standing fix, and [§T6](#t6-seafood-notes) on sourcing.
+**Three favorites depend on shrimp quality, not on the recipe.** [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), and [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) all got a rating with the same caveat attached — it's great *when the shrimp is fresh*, which in Missouri it usually isn't. **[§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)** is Cody's standing fix for the first two — but **not for the ceviche**, which he rules it out for explicitly. See [§T6](#t6-seafood-notes) on sourcing.
 
 **Still unrated: 57 written-up entries, plus a few stubs.** That breaks down cleanly, and most of it is expected rather than an oversight:
 
@@ -3889,7 +3890,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | How to Grill Pork Tenderloin (Cuban Mojo) | `pork-tenderloin` `mojo` `cuban` `direct-grilling` `marinade` `formula` |
 | [T15](#t15-how-to-barbecue-cabbage) | How to Barbecue Cabbage | `cabbage` `indirect-grilling` `whole-vegetable` `formula` |
 | [T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | How to Make a Mayonnaise (and Fix a Broken One) | `mayonnaise` `emulsion` `egg-yolk` `formula` `ratio` |
-| [T17](#t17-the-raw-egg-soak-for-shrimp) | The Raw Egg Soak (for Shrimp) | `shrimp` `egg-soak` `velveting` `texture` `seafood` |
+| [T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | The Raw Egg Soak (Deodorizing Fish & Shellfish) | `shrimp` `fish` `seafood` `egg-soak` `deodorizing` `fishy-smell` |
 
 ---
 
@@ -5341,62 +5342,89 @@ Using the same whisk, start whisking like your life depends on it. Then, just li
 
 ---
 
-### T17. The Raw Egg Soak (for Shrimp)
+### T17. The Raw Egg Soak (Deodorizing Fish & Shellfish)
 
-<!-- TECHNIQUE-TAGS: shrimp, egg-soak, velveting, texture, seafood, midwest -->
-**Tags:** `shrimp` · `egg-soak` · `velveting` · `texture` · `seafood`
+<!-- TECHNIQUE-TAGS: shrimp, fish, seafood, egg-soak, deodorizing, fishy-smell, trimethylamine, salmon, catfish, crawfish -->
+**Tags:** `shrimp` · `fish` · `seafood` · `egg-soak` · `deodorizing` · `fishy-smell` · `salmon` · `catfish` · `crawfish`
 **Source:** Cody's own standing practice — not from any cookbook here
-**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) — *the three recipes whose rating came with a "only if the shrimp is fresh" caveat*
+**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · any fish or shellfish that smells fishy out of the bag
+**Do NOT use for:** [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) — *see the warning below*
 
-**Cody's rule:** *"If it's not completely fresh shrimp — which you just don't get in Missouri — I make it a standard, and I'll soak the shrimp in raw egg. It makes a difference."*
+**Cody's rule:** *"If it smells fishy when you open it — shrimp, crawfish, shellfish, catfish, salmon, any kind of fish — you crack raw eggs over the top of it, mix it together, let it sit in a colander in the sink, then rinse it all off. It really, really works."*
 
-**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(plus soak time — see Open Questions)*
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~15–20 min** *(a 7–15 minute soak, then a rinse — the soak is unattended)*
 
-#### A. The Problem This Solves
+> ⚠️ **Two hard limits, both Cody's, both worth reading before you start.**
+>
+> **1. Fifteen minutes is the ceiling, not the target.** Past that, the soak stops pulling out the *off* flavor and starts pulling out the flavor of the fish itself. Cody has gone as short as **7 to 8½ minutes** on shrimp with a mild funk and had it work. Scale the time to how fishy it actually smells — and when in doubt, go short.
+>
+> **2. This does not work for ceviche.** [§7.22](#722-captain-mikes-ceviche) never applies heat — the lime juice does the curing — and Cody rules this technique out for it explicitly. Don't carry it over.
 
-Shrimp that has been frozen, thawed, and sat on ice loses water and texture on the way to a landlocked market. It goes soft and slightly mealy instead of snapping when you bite it, and no amount of good cooking puts that back. [§T6 Seafood Notes](#t6-seafood-notes) covers buying the best shrimp available; this covers what to do when the best available still isn't great.
+#### A. When to Use It — the Smell Test
 
-**This is a texture fix, not a safety fix.** It does nothing about freshness, smell, or age — see [§7.22](#722-captain-mikes-ceviche)'s warning, which stands: if it smells off, don't cook it.
+**Open the bag and smell it first.** That's the whole trigger.
+
+- **Smells fishy?** Do the soak. The fishier it smells, the closer to the 15-minute ceiling you go.
+- **Zero fish smell?** Skip it. Per Cody: *"if it has zero fish smell then it's not gonna taste fishy"* — there's nothing to pull out, and soaking anyway only risks stripping flavor you wanted to keep.
+
+**This is a flavor fix, not a safety fix.** It does nothing about seafood that has actually gone off. [§7.22](#722-captain-mikes-ceviche)'s rule stands and is not negotiable: *"your nose knows — if it smells good, it is good."* A strong, genuinely rotten smell means throw it out, not soak it. See [§T6 Seafood Notes](#t6-seafood-notes) on buying well in the first place.
 
 #### B. The Method
 
-**1. Beat the egg and coat the peeled shrimp.**
-Enough raw egg to coat the shrimp — beaten, then tossed through until every piece is covered.
+**1. Put the seafood in a colander, in the sink.**
+The colander is the whole setup — it's what lets you rinse without transferring anything, and the sink is where the smell goes.
 
-**2. Let it soak, then cook as the recipe says.**
-Drain off the excess before the shrimp goes in the pan or pot. *(Soak time, egg-per-pound ratio, and whether to rinse first aren't recorded yet — see Open Questions.)*
+**2. Crack whole raw eggs over the top and mix it through by hand.**
+Whole eggs, cracked straight over — not just whites. Enough to coat everything; toss until every piece is covered.
 
-#### C. Why It Works
+**3. Let it sit. 7 to 15 minutes, scaled to how fishy it smelled.**
+Unattended. Don't run past 15 — see the warning above.
 
-**Egg protein forms a thin coat that sets before the shrimp overcooks.** This is the same principle as *velveting*, the standard Chinese restaurant technique — egg white, usually with cornstarch, tossed through meat or seafood before a fast, hot cook. The coat does two things: it holds moisture that would otherwise be driven out, and it takes the brunt of the direct heat, so the shrimp's own proteins tighten more gently and stay tender rather than rubbery.
+**4. Rinse it all off thoroughly under cold running water.**
+Wash the egg away completely. **The rinse is not optional — it's the step that actually removes the off-flavor**, since whatever the egg pulled out goes down the drain with it.
 
-**Worth being straight about the limits of that explanation.** Velveting is well established and the protein-coat mechanism is the accepted account of it. Whether that's the *whole* story for a plain egg soak on previously-frozen shrimp — Cody's specific case — isn't something this cookbook can cite a source for. Treat the reasoning as sound but not laboratory-confirmed, and trust the result over the theory.
+**5. The one exception: if you're frying, you can skip the rinse.**
+When the seafood is headed into a batter or a dredge that uses egg anyway, the coat is already doing the next job — leave it on and go straight into the flour or breading. Per [§T3](#t3-butter-oil-pan-frying--frying), bread it and fry it immediately rather than letting it sit.
 
-> **A related technique, offered as background rather than as Cody's method:** a 15–30 minute soak in salt water with a little **baking soda** is the other common fix for limp shrimp, and it works by a different route — the alkaline conditions keep the proteins from binding as tightly, so the shrimp hold water and snap. It's mentioned here because the two are often confused. **This is not what Cody does**, and it isn't a substitute for the egg soak; it's a separate lever if the egg route ever needs backup.
+#### C. Where Cody Uses It
 
-#### D. Grocery Shopping List
+- **Before boiling shrimp** — see [§7.2](#72-boiled-shrimp-with-tonys)
+- **Before grilling shrimp** — *"absolutely"*
+- **Before frying** — the case where the egg stays on
+- **Any fish, not just shellfish** — salmon and catfish both named
+
+#### D. Why It Works
+
+**The fishy smell has a specific cause.** As fish sits after being caught, trimethylamine oxide in its flesh breaks down into **trimethylamine (TMA)** — a small, volatile, alkaline compound. TMA is what you're smelling when a bag of shrimp reads "fishy," and it builds with time and temperature, which is exactly why it's a landlocked-market problem.
+
+**Proteins bind it, and rinsing carries it away.** This is the same principle behind the long-standing trick of **soaking fish in milk** before cooking: the proteins bind the volatile amines, and pouring off the liquid takes them with it. Egg is likewise protein-rich, and Cody's method has the rinse built into it — which is consistent with the odor leaving *in the liquid*, not being neutralized in place.
+
+**Why over-soaking backfires, and why Cody's ceiling makes sense.** If the mechanism is extraction, then it isn't selective — given long enough, the same process that pulls out TMA starts pulling out the compounds that make the fish taste like something. That's precisely what Cody reports from experience, and it's a good reason to treat 15 minutes as a hard stop rather than a suggestion.
+
+> **On the confidence level here:** the TMA chemistry and the milk-soak technique are both well established. That **egg** works the same way is a reasonable inference from Cody's results plus the shared protein-binding mechanism — it isn't something this cookbook can point to a study for. Trust the result, which he's gotten repeatedly; treat the explanation as the best available account rather than settled fact.
+
+> **Correction, 2026-08-10:** this section was first written up as a *velveting*-style technique — an egg coat that protects texture during cooking. **That was wrong**, and it was Claude's inference rather than anything Cody said. Velveting leaves the egg on and is about tenderness; this is a soak-and-rinse and is about smell. The two are unrelated. Corrected here rather than quietly swapped, since the original reasoning is a good example of a plausible-sounding guess going the wrong direction.
+
+#### E. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Eggs — *the whole technique*
+- 🛒 Eggs — *the whole technique; whole eggs, not just whites*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(1 egg, per ~1 lb shrimp)* | ~72 | 5 g | 6 g | 0.4 g | 0 g |
-| **Per serving** *(what actually clings, ¼ of an egg)* | ~18 | 1.2 g | 1.5 g | 0.1 g | 0 g |
+| **Rinsed off** *(the standard case)* | ~0 | 0 g | 0 g | 0 g | 0 g |
+| **Left on for frying** *(per ~1 lb seafood)* | ~72 | 5 g | 6 g | 0.4 g | 0 g |
 
-**What a serving is:** not a dish — a coating. Most of the egg drains off before cooking, so what lands on the plate is a fraction of one egg spread across a pound of shrimp.
+**What a serving is:** not a dish, and in the normal case not even an ingredient — the egg is rinsed down the drain before cooking, so it contributes nothing to the finished plate. The second row applies only when the coat stays on as part of a fry batter.
 
-#### E. Open Questions
+#### F. Open Questions
 
-- **Whole egg, or just the white?** Cody says "raw egg." Classic velveting uses the **white** only, since the yolk's fat doesn't contribute to the protein coat and can muddy a clean sauce. Worth confirming which he actually uses — it changes the technique meaningfully.
-- **How long is the soak?** Not recorded. Velveting typically runs 15–30 minutes; a quick toss-and-go would be a different thing.
-- **How much egg per pound of shrimp**, and does he **rinse or drain** before cooking?
-- **Does it get used for the ceviche too?** [§7.22](#722-captain-mikes-ceviche) never heats the shrimp — the lime juice cures it — so a raw egg coat there is a genuinely different proposition from the cooked applications, both in how it behaves and in food safety. Worth asking before assuming it carries over.
-
-**Food safety, since raw egg is involved:** the egg goes on raw seafood and should be cooked through with it. Discard the soak rather than reusing it, and don't hold coated raw shrimp at room temperature.
+- **How many eggs per pound?** Cody's instruction is "crack raw eggs over the top" and coat everything, which is by feel rather than by measure. A working number would help scale it for a big shrimp boil.
+- **Does the timing shift by protein?** 7–15 minutes is established for shrimp. Whether a thick salmon fillet — far less surface area per pound — wants the same window, or longer, isn't settled.
+- **Cold water rinse only?** Assumed, since warm water would start setting the egg onto the seafood. Worth confirming.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -5908,6 +5936,8 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 
 **👍 Tried and liked** — *Cody: "Pretty good — but we love it if it's fresh shrimp."*
 
+> **When the shrimp isn't fresh, there's a fix:** [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish). Cody names boiled shrimp specifically as one of the two things he does this before. Smell the bag first — if there's no fish smell, skip it.
+
 ### 7.3 Seafood Stuffed Flounder
 
 Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 62–63, *Fish & Seafoods*) — the same book as [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya), [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), which is why they all call for the same Basic Seafood Stock. Whole flounder stuffed with a puréed shrimp-and-oyster dressing over cheddar, pan-fried on the bottom and finished in a 550°F oven.
@@ -6106,6 +6136,8 @@ Serve immediately, either plain or topped with one of the source book's sauces:
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
 **👍 Tried and liked** — *Cody: "Pretty good — but you've just got to have the right shrimp."*
+
+> **"The right shrimp" has a workaround:** [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) pulls the fishy edge off shrimp that isn't genuinely fresh. Smell the bag first — if there's no fish smell, skip it.
 
 ### 7.11 Corned Beef and Cabbage
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
@@ -6915,6 +6947,9 @@ Transcribed from Captain Mike's printed recipe card, complete with his "Captain'
 > **The card's own test:** *"Remember, your 'nose knows'. If it smells good, it is good."*
 >
 > **Fresh-frozen genuinely can beat "fresh,"** and the card is right about this — commercially fresh-frozen seafood is frozen hard enough to kill parasites, which is exactly why sushi-grade fish is frozen. Fish sitting on ice at the counter for three days has had none of that protection. When in doubt, buy fresh-frozen.
+>
+>
+> **The one fix that does not apply here:** [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) is Cody's standing method for pulling the fishy edge off shrimp that isn't fresh — and he rules it out for ceviche explicitly. This recipe never applies heat, so don't carry it over.
 >
 > Because the acid cure isn't heat, it doesn't make questionable seafood safe. Everything rides on what you start with.
 

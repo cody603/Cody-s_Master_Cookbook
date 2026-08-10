@@ -182,6 +182,8 @@ Click any recipe to jump straight to it.
 - [7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) ✅
 - [7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) ✅
 - [7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) ✅
+- [7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) ✅
+- [7.45 Sausage & Clam Stew](#745-sausage--clam-stew) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -195,6 +197,7 @@ Click any recipe to jump straight to it.
 - [8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) ✅
 - [8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) ✅
 - [8.10 Warm Beet Soup](#810-warm-beet-soup) ✅
+- [8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -246,6 +249,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 188–189.** [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) — the plainest possible tomato pasta, built to show off the passato itself; the onion simmers in the sauce for flavor, then gets discarded rather than eaten. [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) — a Portuguese-inspired cataplana dish the source rediscovered while cleaning a studio, sausage and clams steamed together with Aleppo pepper. **One flag:** the page-break wording between the sausage/onion step and the clam step was hard to fully verify from the photo's angle — written up following standard cataplana technique and logged as an Open Question. **[§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup)** — soup roasted and served straight from a hollowed pumpkin shell, bread crumbs and Gruyère layered inside with the stock so the flesh gets scraped directly into a cheesy broth at the table. **Rated Slow cook** for the roughly 2-hour unattended bake, the same convention used for every other multi-hour hands-off roast in this cookbook. **Also flagged for reconstruction rather than verified transcription** — several lines of the method were hard to read from the photo; the write-up follows the classic technique and accounts for every listed ingredient. |
 | 2026-08-10 | Added **[§8.10 Warm Beet Soup](#810-warm-beet-soup)** from **Canal House Cooks Every Day** — roasted beets puréed with onion, potato, carrot, and beef broth, brightened with horseradish and Meyer lemon. Genuinely low-fat as written (no added fat in the method itself), which the Nutrition block calls out explicitly rather than leaving as an unexplained outlier. The source's own garnish — sour cream and a handful of extra diced roasted beets — is noted but kept out of the nutrition count, same convention used for optional garnishes elsewhere in this cookbook. |
 | 2026-08-10 | **Two more from Canal House Cooks Every Day.** [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) — sautéed chanterelles (which freeze well, per the source's own tip) folded in with big, soft-curd scrambled eggs. **Deliberately kept separate from [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)**, same reasoning as the asparagus and beet entries earlier this session — §10.2 is Cody's own still-undocumented method, not this specific dish. Also added **[§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles)**, p. 173 — a whole-bird, use-the-carcass soup: a 4-hour duck broth (rated Slow cook, unattended), then simmered again with shiitake mushrooms and Sichuan peppercorns, served over rice noodles with Napa cabbage, ham, and cilantro. **The source references two other duck recipes it was built to follow** (Duck Breasts with Apples & Caraway, Confit of Duck Legs) — neither is transcribed here, and the soup doesn't need them; it just needs a raw duck carcass. **One flag, not smoothed over:** a couple of transition sentences in the broth-and-soup method were hard to make out from an angled photo — the write-up is a faithful reconstruction against the full ingredient list and standard technique, logged as an Open Question rather than presented as a guaranteed transcription. |
 | 2026-08-10 | Added **[§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce)** from **Canal House Cooks Every Day**, p. 128 — Cody's own framing for this one: *"summer sauce with only fresh tomatoes."* The sauce itself is never cooked — tomatoes grated on a box grater, mixed with garlic, passato, and olive oil, then tossed with hot drained spaghetti so the residual heat is what warms the sauce through. |
@@ -425,6 +429,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
+| [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) | 🟢 | 20 min | — | **~2 hr** *(unattended oven roast, size-dependent)* | 2 hr 20 min |
 | [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§9.12 Potted Crab](#912-potted-crab) | 🟢 | 15 min | 5 min | — | 4 hr 20 min *(3+ hr chill, 1 hr temper)* |
 | [§4.59 Tonnato Sauce](#459-tonnato-sauce) 🔖 | 🟡 | 20 min | — | — | 20 min |
@@ -460,6 +465,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
+| [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
@@ -470,6 +476,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
+| [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§T9 Hearty Soup Formula](#t9-hearty-main-course-soup-formula) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -513,7 +520,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 76 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 77 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -9909,6 +9916,136 @@ Toss the pasta with the sauce. Drizzle with olive oil and season with salt and p
 
 ---
 
+### 7.44 Rigatoni with Passato & Parmigiano-Reggiano
+
+Transcribed from **Canal House Cooks Every Day**, p. 188 — the plainest possible tomato pasta, built to show off the passato itself.
+
+> The source's margin note: *"October 10th, 68°, azure blue sky."*
+
+**Yield:** serves 4–6
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 3–4 cups passato di pomodoro (strained tomatoes)
+- 1 medium onion, halved
+- 4–6 Tbsp butter
+- 1–2 Tbsp extra-virgin olive oil
+- Salt and pepper
+- 1 lb rigatoni
+- Grated parmigiano-reggiano
+
+#### B. Cooking Instructions
+
+**1. Simmer the sauce. About 30 minutes.**
+Put the passato and a splash of water into a medium saucepan. Add the onion, butter, and olive oil, and season with salt and pepper. Simmer over medium-low heat, stirring occasionally, until the onion softens and the sauce thickens a bit.
+
+**2. Taste and adjust.**
+Depending on the acidity of the tomatoes, you may want to soften the sauce — more butter rounds out the flavor, and a pinch or two of sugar can balance acidity if needed.
+
+**3. Discard the onion.**
+Remove and discard the onion halves from the sauce before using. Keep the sauce warm over low heat.
+
+**4. Cook the pasta. 12–15 minutes.**
+Cook the rigatoni in a large pot of salted boiling water over high heat until just tender. Drain, reserving some of the pasta cooking water, and return the pasta to the pot.
+
+**5. Sauce and serve.**
+Pour the sauce over the pasta and gently stir to combine, adding some of the reserved pasta water to thin and loosen the sauce if needed. Serve sprinkled with plenty of grated cheese.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Passato di pomodoro (strained tomatoes) — 3–4 cups
+- 🛒 Onion — 1 medium
+- 🛒 Butter — 4–6 Tbsp
+- 🛒 Extra-virgin olive oil — 1–2 Tbsp
+- 🛒 Salt, pepper
+- 🛒 Rigatoni — 1 lb
+- 🛒 Parmigiano-reggiano — for grating over
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,525 | 91 g | 71 g | 355 g | 23 g |
+| **Per serving** *(serves 5)* | ~505 | 18 g | 14 g | 71 g | 5 g |
+
+**What a serving is:** about 1½ cups — a generous pasta bowl.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.45 Sausage & Clam Stew
+
+Transcribed from **Canal House Cooks Every Day**, p. 188–189. *"We were doing a little spring cleaning one fall day at the studio and came across our forgotten copper cataplana high up on a shelf. There was nothing else to do but cook a quick Portuguese-inspired stew of clams and sausages spiced up with Aleppo pepper. We rolled up our sleeves and sopped up the broth with good crusty bread. A wide pot with a lid will work for this stew too, but this beautiful vessel is an inspiration."*
+
+> The source's margin note: *"October 11th, 60°, crisp & cool."*
+
+**Yield:** serves 4–8
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
+
+#### A. Ingredients
+
+- 4 Tbsp extra-virgin olive oil, divided
+- 1½ lbs Italian sausage (any variety), sliced into thick rounds
+- 1 small onion, chopped
+- 2–3 cloves garlic, finely chopped
+- 4 lbs small clams, such as cockles or littlenecks, scrubbed
+- 2–3 pinches of Aleppo pepper or pimentón
+
+#### B. Cooking Instructions
+
+**1. Brown the sausage. About 10 minutes.**
+Heat 2 Tbsp of the olive oil in a large cataplana or heavy pot with a lid over medium-high heat. Add the sausage and cook, stirring occasionally, until browned all over.
+
+**2. Soften the onion and garlic. About 5 minutes.**
+Add the onion and garlic and cook until softened.
+
+**3. Add the clams, spice, and remaining oil.**
+Add the clams and Aleppo pepper, then drizzle with the remaining 2 Tbsp olive oil.
+
+**4. Steam the clams open. About 5 minutes.**
+Clamp the lid shut (or cover the pot) and cook, shaking the pan over the heat occasionally, until the clams open. Discard any that don't.
+
+**5. Serve.**
+Serve in wide soup bowls with warm, crusty bread for sopping up the flavorful broth.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fishmonger**
+
+- 🏪 Small clams, such as cockles or littlenecks — 4 lbs, scrubbed
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — 4 Tbsp
+- 🛒 Italian sausage — 1½ lbs
+- 🛒 Onion — 1 small
+- 🛒 Garlic — 2–3 cloves
+- 🛒 Aleppo pepper or pimentón
+- 🛒 Good crusty bread — for serving
+
+#### D. Open Questions
+
+- **The exact page-break wording between the sausage/onion step and the clam step was hard to fully verify** from the photo's angle. The method above follows standard cataplana technique and matches the full ingredient list, but isn't a guaranteed word-for-word transcription.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,775 | 227 g | 124 g | 32 g | 2 g |
+| **Per serving** *(serves 6)* | ~465 | 38 g | 21 g | 5 g | 0.5 g |
+
+**What a serving is:** a generous bowl of sausage and clams in broth — about 8–10 clams and a few sausage rounds, plus bread for sopping.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.1 Chili
@@ -10704,6 +10841,82 @@ Garnish with plenty of chives.
 | **Per serving** *(serves 5)* | ~170 | 0.4 g | 7 g | 35 g | 7 g |
 
 **What a serving is:** a generous 1½-cup bowl. The very low fat number is genuine — this is a broth-and-vegetable purée with no added fat in the method, before whatever sour cream goes on top.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.11 Roasted Pumpkin Soup
+
+Transcribed from **Canal House Cooks Every Day**, p. 189 — a soup roasted and served inside the pumpkin itself. *"Use a heavy, thick-fleshed pumpkin variety like the orange Cinderella (Rouge Vif d'Étampes), or the blue Jarrahdale for this soup. Their thick sturdy walls won't collapse as the pumpkin roasts in the oven."*
+
+> The source's margin note: *"October 12th, 62°, soup weather."*
+
+> ⚠️ **Some of the method's exact wording was hard to read from the photo** — the reconstruction below follows the classic "soup baked inside the pumpkin" technique and accounts for every ingredient on the list, but isn't a guaranteed word-for-word transcription. Worth confirming against a clearer photo, especially the order the bread crumbs and cheese go in.
+
+**Yield:** serves 6–8
+
+**🟢 Easy** · **Prep ~20 min** · **Slow cook ~2 hr** *(1 hr, then 30–90 min more depending on pumpkin size — unattended oven roasting)* · **Start to finish ~2 hr 20 min**
+
+#### A. Ingredients
+
+- 1 Cinderella, cheese, or blue Jarrahdale pumpkin, 5–8 lbs
+- 4–8 Tbsp butter, softened
+- 2 cloves garlic, thinly sliced
+- 1 tsp ground fennel seeds
+- 2 generous pinches piment d'Espelette (Basque red chile powder)
+- Salt and pepper
+- 1 cup fresh white bread crumbs
+- 2–3 cups grated Gruyère cheese
+- 2 bay leaves
+- 4–6 cups chicken stock
+
+#### B. Cooking Instructions
+
+**1. Cut and hollow the pumpkin.**
+Preheat the oven to 350°F. Cut a wide lid out of the top of the pumpkin and set it aside. Using a metal spoon, scoop out and discard the seeds and strings from the inside.
+
+**2. Season the inside.**
+Rub the flesh inside the pumpkin with the butter, then season with salt and pepper.
+
+**3. Layer in the garlic, bread, cheese, and seasonings.**
+Add the garlic, fennel, and piment d'Espelette. Add the bread crumbs and grated Gruyère, tucking in the bay leaves. Season with more salt and pepper.
+
+**4. Add stock and close it up.**
+Pour enough chicken stock into the pumpkin to come within 3 inches of the rim. Fit the lid back on.
+
+**5. Roast. 1 hour, then check.**
+Roast the pumpkin for 1 hour. Remove the lid and set it flesh-side up beside the pumpkin. Continue roasting, uncovered, until the pumpkin flesh is soft when pierced with a paring knife — another 30–90 minutes, depending on the size of the pumpkin.
+
+**6. Serve at the table.**
+Carefully transfer the pumpkin to a serving platter. Remove and discard the bay leaves, taking care — the pumpkin's skin is now soft and very hot. Serve at the table, scraping big spoonfuls of the flesh from the bottom and sides into the broth as you ladle it into bowls.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — gourmet**
+
+- 🏪 Piment d'Espelette (Basque red chile powder)
+- 🏪 Gruyère cheese — 2–3 cups grated
+
+**🛒 General grocery**
+
+- 🛒 Cinderella, cheese, or blue Jarrahdale pumpkin — 1, 5–8 lbs
+- 🛒 Butter — 4–8 Tbsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Ground fennel seeds — 1 tsp
+- 🛒 Salt, pepper
+- 🛒 Fresh white bread crumbs — 1 cup
+- 🛒 Bay leaves — 2
+- 🛒 Chicken stock — 4–6 cups
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,540 | 156 g | 110 g | 199 g | 13 g |
+| **Per serving** *(serves 7)* | ~365 | 22 g | 16 g | 28 g | 2 g |
+
+**What a serving is:** a big bowl — pumpkin flesh, cheesy bread, and broth scraped straight from the shell, about 1½–2 cups.
 
 [↑ Table of Contents](#table-of-contents)
 

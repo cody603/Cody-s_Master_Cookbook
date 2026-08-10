@@ -78,6 +78,7 @@ Click any recipe to jump straight to it.
   - [4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) ✅
   - [4.58 Pimentón Butter](#458-pimentón-butter) ✅
   - [4.59 Tonnato Sauce](#459-tonnato-sauce) ✅ 🔖
+  - [4.60 Tomato "Rollmops"](#460-tomato-rollmops) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -210,6 +211,8 @@ Click any recipe to jump straight to it.
 - [9.14 Smoked Salmon Butter](#914-smoked-salmon-butter) ✅
 - [9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) ✅
 - [9.16 Deviled Eggs](#916-deviled-eggs) ✅
+- [9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) ✅
+- [9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -239,6 +242,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 127 — a page of summer tomato dishes.** [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) and [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) are garlic-toast-and-tomato dishes, filed in §9 alongside this cookbook's other toast-based snacks. **[§4.60 Tomato "Rollmops"](#460-tomato-rollmops)** — anchovy-and-basil-stuffed plum tomato halves cured under olive oil, a make-ahead condiment kept a week — is filed in §4 instead, alongside [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) and the cookbook's other jarred/cured condiments, since the source itself treats it as something you keep on hand and spoon into other dishes rather than a plated dish on its own. **Its nutrition table only counts oil that actually clings to each piece**, not the full cup used to submerge the batch — the submerging oil is a curing medium reused over the week, the same "account for what's eaten" logic already used for marinades and fry oil elsewhere in this cookbook. |
 | 2026-08-10 | **Two more desserts from Canal House Cooks Every Day, p. 115–116.** [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) — a stirred custard sauce over macerated fresh berries, **rated 🔴 Hard** on the same reasoning as [§4.9 Hollandaise](#49-hollandaise-sauce): push the heat too far and the eggs scramble, and the source gives no fix. **[§14.3 Classic Tuiles](#143-classic-tuiles) is flagged as an incomplete transcription, not finished and not silently completed** — the photographed page cuts off mid-sentence with "continued on page 118," and page 118 hasn't been photographed. Written up as far as the source goes, with the missing bake time, doneness cue, and the actual rolling-pin shaping technique logged as Open Questions rather than guessed at. Its difficulty rating is marked provisional and its time badge shows an unknown cook time; the Difficulty & Time Index excludes it from every count and total until the rest arrives. |
 | 2026-08-10 | Added **[§8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup)** from **Canal House Cooks Every Day**, p. 108 — a blended cold soup for a summer scorcher, the first chilled soup in §8 (everything else there is hot). Avocado, unpeeled cucumber, garlic, and chicken stock blended smooth, finished with lemon juice and salt, garnished with sour cream and hot sauce. The source's own advice to make it the same day it's served, so it keeps its pale green color, is called out rather than left buried in the method. |
 | 2026-08-10 | **First dessert in the cookbook, and a new top-level section for it: [§14 Desserts](#14-desserts), starting with [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler)** from **Canal House Cooks Every Day**, p. 92 — blackberries and raspberries under a chilled-cream biscuit topping, baked until bubbling. **Numbered 14, not 12** — inserting it earlier would have meant renumbering [§12 Recipes To Document](#12-recipes-to-document) and [§13 Meathead Cookbook](#13-meathead-cookbook) and breaking every existing link to them, so it's appended at the real next number instead, consistent with how every other section has been added this session. Noted that the source's own ingredient list uses only blackberries and raspberries, despite strawberries getting a mention in the intro as the season's first arrival — transcribed as printed rather than assumed to include a third berry. |
@@ -362,6 +366,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
+| [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
@@ -392,6 +397,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
+| [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
+| [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
 | [§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
@@ -495,7 +502,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 72 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 75 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -4399,6 +4406,63 @@ Transfer to a covered container and refrigerate until ready to use. Keeps up to 
 | **Per serving** *(2 Tbsp, of about 10)* | ~110 | 12 g | 2 g | 0.3 g | 0 g |
 
 **What a serving is:** 2 Tbsp — enough to sauce a plate of sliced tomatoes, a chicken breast, or a bowl of boiled potatoes. Figures above are for the sauce alone; add whatever you're serving it on or with.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.60 Tomato "Rollmops"
+
+Transcribed from **Canal House Cooks Every Day**, p. 127 — same page as [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) and [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich). An oil-cured, anchovy-and-basil-stuffed plum tomato — named for its resemblance to the rolled, pinned herring dish, though the technique here is simpler. *"They will keep for a week. We prize the deliciously flavored oil and use it with everything."*
+
+> The source's margin note: *"August 4th, 81°, more rain."*
+
+**Yield:** the source says "makes as many as you like" — figures below assume 6 plum tomatoes (12 halves)
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(keeps up to a week in the fridge — this is a make-ahead condiment, not a same-day dish)*
+
+#### A. Ingredients
+
+*(per tomato — scale up or down to taste)*
+
+- Ripe plum tomatoes, halved lengthwise
+- Really good extra-virgin olive oil, enough to drizzle each shell plus enough more to fully submerge the finished batch
+- Pepper
+- ½ anchovy fillet, per tomato half
+- 1 basil leaf, per tomato half
+
+#### B. Cooking Instructions
+
+**1. Hollow the tomatoes.**
+Halve the plum tomatoes lengthwise, then scoop out the seeds, leaving just the meaty shells.
+
+**2. Season and fill.**
+Drizzle really good extra-virgin olive oil into the shells, give a few grinds of pepper, and place ½ anchovy fillet and 1 basil leaf into each one.
+
+**3. Stack, submerge, and refrigerate.**
+Stack the filled tomatoes in a container with a lid and add enough olive oil to cover them completely. Refrigerate.
+
+**4. Use within a week.**
+Use in salads, on toasts, or with pasta — the tomatoes and the flavored oil both.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ripe plum tomatoes — as many as you like
+- 🛒 Really good extra-virgin olive oil — enough to fill each shell plus enough to fully submerge the batch
+- 🛒 Pepper
+- 🛒 Anchovy fillets — ½ per tomato half
+- 🛒 Fresh basil — 1 leaf per tomato half
+
+#### Nutrition *(estimated, per piece — the submerging oil isn't fully eaten and isn't counted here, only what clings to each piece)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(12 halves, assuming ~1 tsp oil eaten per piece)* | ~575 | 54 g | 8 g | 15 g | 5 g |
+| **Per piece** *(1 tomato half)* | ~48 | 4.5 g | 0.65 g | 1.25 g | 0.4 g |
+
+**What a serving is:** 1 tomato half, however many you eat at a time — this is a pantry condiment more than a portioned dish. The oil used to submerge the batch is a curing medium reused over the week, not a per-piece ingredient, so it isn't fully counted here.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -11092,6 +11156,133 @@ Use 2 tsp of filling to fill each egg white. Garnish as you like — even someth
 | **Per serving** *(2 halves, of 6)* | ~205 | 20 g | 6 g | 1 g | 0 g |
 
 **What a serving is:** 2 egg halves — one whole egg's worth, a normal deviled-egg-plate portion. Figures above don't include garnish, which varies by what's on hand.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.17 Tomatoes All Dressed Up for Summer
+
+Transcribed from **Canal House Cooks Every Day**, p. 127. *"The private pleasure of eating a tomato sandwich over the sink with the juices dripping through our fingers and down our chins is one of our constant summer rituals. These tomatoes are so sensual that they should probably be eaten behind closed doors."*
+
+> The source's margin note: *"August 1st, 97°, hot gusty winds."*
+
+**Yield:** serves 4–6
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** *(toasting)* · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 8–12 slices crusty bread
+- 1 clove garlic, peeled
+- ½ cup really good extra-virgin olive oil
+- Salt
+- 4–6 tomatoes, cored and thickly sliced
+- ½ cup mayonnaise
+- Pepper
+- Small handful fresh chives, chopped
+- Small handful fresh parsley leaves, chopped
+
+#### B. Cooking Instructions
+
+**1. Toast the bread.**
+
+**2. Rub with garlic while still warm.**
+Rub each slice with the garlic clove, more or less firmly depending on how much flavor you're after.
+
+**3. Drizzle and season the toast.**
+Drizzle the toast with some of the olive oil and sprinkle with salt.
+
+**4. Dress the tomatoes.**
+Slather the tomato slices with mayonnaise, season well with salt and pepper, and arrange them on a serving platter. Drizzle the remaining oil over them, then scatter the fresh herbs on top.
+
+**5. Serve.**
+Make open-faced tomato sandwiches, or just serve the toasts on the side.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Crusty bread — 8–12 slices
+- 🛒 Garlic — 1 clove
+- 🛒 Really good extra-virgin olive oil — ½ cup
+- 🛒 Salt, pepper
+- 🛒 Tomatoes — 4–6
+- 🛒 Mayonnaise — ½ cup
+- 🛒 Fresh chives — a small handful
+- 🛒 Fresh parsley — a small handful
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,765 | 194 g | 40 g | 208 g | 18 g |
+| **Per serving** *(serves 5)* | ~555 | 39 g | 8 g | 42 g | 4 g |
+
+**What a serving is:** 2 slices of dressed toast with tomato, or one open-faced sandwich.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.18 The Splendid Summer Tomato Sandwich
+
+Transcribed from **Canal House Cooks Every Day**, the same page as [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer). *"Choose a dead-ripe meaty tomato (such as a big beefsteak), preferably just picked and still warm from a sunny garden. Using a very sharp thin-bladed knife, peel the skin from the flesh, then slice the tomato horizontally into thick rounds and arrange them on a large plate. Sprinkle with a good flaky salt, a tiny pinch of sugar, and coarsely ground black pepper. Toast 2 slices of good white bread. Spread butter on the warm toast, then slather with mayonnaise. Pile the tomatoes on one slice, then top with the other."* *"It is a very good idea to wear a bathing suit when eating this sandwich."*
+
+> The source's margin note: *"August 3rd, 85°, welcome rain."*
+
+**Yield:** makes 1
+
+**🟢 Easy** · **Prep ~8 min** · **Cook ~3 min** *(toasting)* · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1 dead-ripe meaty tomato, such as a big beefsteak
+- Good flaky salt
+- A tiny pinch of sugar
+- Coarsely ground black pepper
+- 2 slices good white bread
+- Butter
+- Mayonnaise
+
+#### B. Cooking Instructions
+
+**1. Peel the tomato.**
+Using a very sharp thin-bladed knife, peel the skin away from the flesh.
+
+**2. Slice into thick rounds.**
+Slice the tomato horizontally into thick rounds and arrange on a large plate. Sprinkle with flaky salt, a tiny pinch of sugar, and coarsely ground black pepper.
+
+**3. Toast the bread.**
+
+**4. Butter and mayo the warm toast.**
+Spread butter on the warm toast, then slather with mayonnaise.
+
+**5. Build the sandwich.**
+Pile the tomatoes on one slice, then top with the other.
+
+> **Wear a bathing suit,** per the source — this is a genuinely juicy sandwich.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 A dead-ripe meaty tomato — 1, such as a beefsteak
+- 🛒 Good flaky salt
+- 🛒 Sugar — a tiny pinch
+- 🛒 Black pepper, coarsely ground
+- 🛒 Good white bread — 2 slices
+- 🛒 Butter
+- 🛒 Mayonnaise
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole sandwich** *(makes 1)* | ~510 | 31 g | 8 g | 44 g | 4.5 g |
+| **Per serving** *(1 sandwich)* | ~510 | 31 g | 8 g | 44 g | 4.5 g |
+
+**What a serving is:** the whole sandwich — this recipe makes exactly one.
 
 [↑ Table of Contents](#table-of-contents)
 

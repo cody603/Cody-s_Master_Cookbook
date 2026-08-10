@@ -96,6 +96,7 @@ Click any recipe to jump straight to it.
   - [T15. How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage) ✅
   - [T16. How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) ✅
   - [T17. The Raw Egg Soak (Deodorizing Fish & Shellfish)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) ✅
+  - [T18. "Pile It On" — Canal House's Plating Formula](#t18-pile-it-on--canal-houses-plating-formula) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -176,6 +177,7 @@ Click any recipe to jump straight to it.
 - [7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) ✅ 🔖
 - [7.40 Shrimp Risotto](#740-shrimp-risotto) ✅
 - [7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) ✅
+- [7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -228,6 +230,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes)** from **Canal House Cooks Every Day**, p. 50 — a braise that pulls apart an intimidating-looking cut (bones, cartilage, fat) after 2 hours in the oven, finished with a strained olive-tomato-anchovy sauce. Rated 🟢 Easy despite the braise, same reasoning as every other slow braise in this book: nothing in the method can fail, the 2 hours is unattended, so it's Slow cook time, not Cook time. **Also added a new technique entry, [§T18 "Pile It On" — Canal House's Plating Formula](#t18-pile-it-on--canal-houses-plating-formula)** — the source's own sidebar essay on layering a plate (starch base, protein, sauce, vegetable piled on top rather than served separately), illustrated in the source by this exact veal dish over mashed potatoes with string beans. Filed as a pure reference technique like [§T6 Seafood Notes](#t6-seafood-notes) — no badge, no ingredients, no index row, since it's a plating order rather than a recipe. |
 | 2026-08-10 | Added two more from **Canal House Cooks Every Day**, p. 46: **[§7.40 Shrimp Risotto](#740-shrimp-risotto)** — a proper risotto with its own quick shrimp-shell broth, arborio/carnaroli/vialone nano rice, and a vermouth-and-tomato base. **One honesty flag:** the broth step's exact wording and the order the vermouth, tomatoes, and lemon peel go in was hard to pin down from an angled photo with mid-word line breaks — the write-up is a faithful reconstruction from the ingredient list and standard technique, not a verified transcription, and it's logged as an Open Question. Also added **[§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)** — a short, source's-own-wording recipe with no separate ingredients block, same style as [§5.15 Roasted Asparagus](#515-roasted-asparagus). **References two source recipes not yet transcribed** — Spinach Pasta (p. 238) and a pasta-cutting technique (p. 236) — but dried tagliatelle is an explicit source-given substitute, so it's fully cookable now; also notes this cookbook's own [§T12](#t12-fast-homemade-chicken-broth)/[§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) as stand-ins for the "rich chicken broth," which isn't itself tied to a named source recipe on this page. |
 | 2026-08-10 | Added **[§9.16 Deviled Eggs](#916-deviled-eggs)** from **Canal House Cooks Every Day**, p. 71 — classic sieved-yolk deviled eggs with mayonnaise, sour cream, and Dijon, plus the source's own quick alternative, **"Buttered" Eggs**, folded in as a callout rather than a separate entry since it has no ingredient list of its own. Notes the same open reference as [§9.15](#915-anchovy--lemon-butter): **Preserved Lemon (source page 294) still isn't transcribed**, now referenced by two recipes. **Also caught and fixed real TOC/body mismatches found while editing this section — not something this batch introduced, just finally noticed, and not limited to §9:** [§9.10 Crabmeat Avery](#910-crabmeat-avery) is rated 🔖 in its own body text but was missing that marker in the Table of Contents, while [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) had a 🔖 marker in the TOC despite carrying no rating at all in its body. Running the same check across the whole file turned up a second pair: [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) is rated 👍 in its body but was missing the TOC marker, while [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) had a stray 👍 in the TOC despite never actually being rated by Cody. All four fixed. **Worth flagging for future validation passes:** the aggregate-count check this cookbook has been using (body rating count = TOC marker count) can't catch a swap like this, where one recipe is missing a marker and a different one has an extra of the same type — the totals still balance either way. A per-recipe body-vs-TOC comparison is the real check, and it's now been run once across the whole file. |
 | 2026-08-10 | **Five more from Canal House Cooks Every Day — turns out the previous batch didn't close out the source after all.** [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) — a whole cut-up chicken browned then braised with garam masala, fennel seed, ginger, and cauliflower. Three asparagus recipes from the same source page and neighboring pages: [§5.15 Roasted Asparagus](#515-roasted-asparagus) (oven-roasted with shaved parmigiano and aged balsamic), [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) (a yolk-and-butter emulsion the source itself calls "a very light hollandaise," rated Medium rather than Hard alongside [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) since it comes with its own built-in save), and [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) — **all three explicitly kept separate from [§5.2 Asparagus](#52-asparagus)**, which is Cody's own still-undocumented go-to method, not this source. Also added [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream), added last per Cody's instruction to sequence it after the others. **Cody gave a blanket verdict covering this whole batch** — *"we haven't tried these yet but heard they were delicious"* — so all five are tagged 🔖 Want to try, alongside [§4.59 Tonnato Sauce](#459-tonnato-sauce); Family Ratings Index now shows 19 want-to-try entries. **Not retroactively applied to earlier Canal House entries** (§4.52–§4.58, §7.34–§7.38) since Cody's comment wasn't confirmed to cover those specifically — flagged as worth a direct check rather than assumed. **One flagged gap:** the Pickled Beets' horseradish-cream mixing step was hard to read from a steep-angle photo: reconstructed from the printed ingredient list (no sugar or vinegar in that component) rather than transcribed word-for-word, and logged as an Open Question. The asparagus-on-pasta intro paragraph was similarly hard to read and is paraphrased rather than quoted directly. |
@@ -436,6 +439,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
+| [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
@@ -5944,6 +5948,32 @@ When the seafood is headed into a batter or a dredge that uses egg anyway, the c
 
 ---
 
+### T18. "Pile It On" — Canal House's Plating Formula
+
+<!-- TECHNIQUE-TAGS: plating, serving-style, layering, formula -->
+**Tags:** `plating` · `serving-style` · `layering` · `formula`
+**Source:** Canal House Cooks Every Day, a sidebar essay (p. 51)
+**Used in:** no numbered recipe cites it directly, but it's the source's own plating instruction for [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes), and it applies to any braise or stew in this cookbook with a good sauce and a starchy side
+
+> *"Everyone knows a kid who has to keep each food separate on his or her plate. We often take the opposite approach. We like to pile it on. Here's how we do it: First we lay down a foundation of mashed potatoes, pasta, rice, or grits; next we arrange a couple of slices of meat or fish over it; and then generously spoon some pan juices or sauce over the meat. The veg goes on top, seasoned with a sprinkle of flaky salt and pepper. We aren't building a retro-style tower of food, but rather layers of flavors and texture. It's a great way to savor every last drop of sauce."*
+
+**Not a recipe with quantities — a plating order.** Filed as a technique, same reasoning as [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§T15](#t15-how-to-barbecue-cabbage).
+
+#### A. The Order
+
+1. **Base.** Mashed potatoes, pasta, rice, or grits.
+2. **Protein.** A couple of slices of meat or fish, laid over the base.
+3. **Sauce.** Pan juices or sauce, spooned generously over the protein — this is what soaks into the base and ties the plate together.
+4. **Vegetable.** Piled on top rather than served separately. Finished with flaky salt and pepper.
+
+#### B. Where This Applies in This Cookbook
+
+The source's own photo illustrating this technique is [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) — sliced veal over mashed potatoes, string beans piled on top, the olive-tomato braising sauce spooned over everything. The same order works for anything else in this cookbook with a braise, a good pan sauce, and a starchy side on hand — [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant), [§7.16 Red Beans & Rice](#716-red-beans--rice), or [§6.2 Pulled Pork](#62-pulled-pork) over grits.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -9517,6 +9547,84 @@ Ladle into bowls with a sprinkling of grated parmigiano-reggiano, if you like.
 | **Per serving** *(serves 6)* | ~245 | 4 g | 14 g | 35 g | 3.5 g |
 
 **What a serving is:** a generous bowl — about 1¼ cups of broth with pasta and peas, plus a sprinkle of parmesan. Using fresh spinach pasta instead of dried will shift these numbers somewhat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.42 Breast of Veal Braised with Green Olives & Tomatoes
+
+Transcribed from **Canal House Cooks Every Day**, p. 50 — the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce), [§5.15](#515-roasted-asparagus)–[§5.18](#518-pickled-beets-with-horseradish-cream), and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.41](#741-spinach-tagliatelle--peas-in-golden-chicken-broth). *"Breast of veal is an often overlooked cut of meat. It looks complicated, with layers of meat interspersed between layers of fat, rib bones, and cartilage. Today's busy cooks tend to grab packages of skinless, boneless chicken breasts — no muss, no fuss — and often steer away from anything that might take longer than 15 minutes to prepare, like breast of veal. We understand the feeling; we too want to get dinner on the table lickety-split! But we know there's a big payoff from slow-braising inexpensive cuts until they're flavorful, tender, and juicy. Sometimes a butcher shop (rather than the grocery store) will sell better and meatier cuts of veal. Don't be intimidated by this complicated-looking cut — after cooking, the fat can be removed, and it's easy to pull the bones and cartilage from the tender meat. We urge you to try it; it's actually pretty simple, and it's easy to see why."*
+
+> The source's margin note: *"May 16th, 65°, rain, rain, rain."*
+
+**Plated the source's own way — see [§T18 "Pile It On"](#t18-pile-it-on--canal-houses-plating-formula):** the overleaf photo shows this exact dish sliced over mashed potatoes with string beans piled on top and the braising sauce spooned over everything.
+
+**Yield:** serves 4–6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~30 min** · **Slow cook ~2 hr** *(covered braise, oven)* · **Start to finish ~2 hr 45 min**
+
+#### A. Ingredients
+
+- 1 breast of veal, 5–6 lbs
+- Salt and pepper
+- 3 Tbsp olive oil
+- 6 anchovy fillets
+- 3 cloves garlic, minced
+- 2 medium onions, coarsely chopped
+- One 28-oz can plum tomatoes
+- 1 cup green olives, pitted
+
+#### B. Cooking Instructions
+
+**1. Season the veal.**
+Preheat the oven to 325°F. Rub the veal breast all over with lots of salt and pepper.
+
+**2. Brown the veal. About 10 minutes.**
+Heat the olive oil in a heavy large ovenproof pot with a lid over medium-high heat (a heavy roasting pan works too). Put the veal in the pot and brown it well on both sides. Remove it from the pot and set aside.
+
+**3. Build the sauce base. About 6 minutes.**
+Reduce the heat to medium and add the anchovies and garlic to the pot, stirring until the anchovies melt in, about 1 minute. Add the onions, stirring and scraping up the browned bits from the bottom of the pot, and cook until softened, about 5 minutes.
+
+**4. Add the tomatoes and olives, then the veal.**
+Add the tomatoes and olives to the pot, crushing the tomatoes with your hand. Put the veal, bone side down, into the pot.
+
+**5. Cover and braise. About 2 hours, until very tender.**
+Cover and braise in the oven until the veal is very tender.
+
+**6. Pull the bones and cartilage.**
+Remove the pot from the oven and transfer the veal to a cutting board. When the meat is cool enough to handle, remove and discard the rib bones, connective tissue, gristle, and any large pieces of fat.
+
+**7. Reduce, strain, and finish the sauce.**
+Skim the fat from the top of the sauce. If it looks thin, return the pot to the stove and cook over medium-low heat to reduce and thicken slightly. Strain the sauce through a fine-mesh sieve, then return the olives to the sauce and keep it warm over very low heat.
+
+**8. Slice and serve.**
+Just before serving, thinly slice the meat on a cutting board and arrange it on a platter. Spoon the sauce over the meat.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Breast of veal — 5–6 lbs
+
+**🛒 General grocery**
+
+- 🛒 Salt, pepper
+- 🛒 Olive oil — 3 Tbsp
+- 🛒 Anchovy fillets — 6
+- 🛒 Garlic — 3 cloves
+- 🛒 Onions — 2 medium
+- 🛒 Plum tomatoes — one 28-oz can
+- 🛒 Green olives, pitted — 1 cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(after bones, cartilage, and excess fat are removed)* | ~3,330 | 225 g | 264 g | 62 g | 18 g |
+| **Per serving** *(serves 5)* | ~665 | 45 g | 53 g | 12 g | 3.5 g |
+
+**What a serving is:** a generous 5–6 oz of sliced veal with sauce and olives spooned over — pairs naturally with a mashed-potato base per [§T18 "Pile It On"](#t18-pile-it-on--canal-houses-plating-formula).
 
 [↑ Table of Contents](#table-of-contents)
 

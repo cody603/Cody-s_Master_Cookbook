@@ -226,12 +226,17 @@ Click any recipe to jump straight to it.
 - [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅ 🥑 ❤️
 - [11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) ✅ 🥑 🔖
 
+**[14. Desserts](#14-desserts)** *(numbered 14 to avoid renumbering §12–§13 — see the section intro)*
+
+- [14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) ✅
+
 ---
 
 ## Changelog
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **First dessert in the cookbook, and a new top-level section for it: [§14 Desserts](#14-desserts), starting with [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler)** from **Canal House Cooks Every Day**, p. 92 — blackberries and raspberries under a chilled-cream biscuit topping, baked until bubbling. **Numbered 14, not 12** — inserting it earlier would have meant renumbering [§12 Recipes To Document](#12-recipes-to-document) and [§13 Meathead Cookbook](#13-meathead-cookbook) and breaking every existing link to them, so it's appended at the real next number instead, consistent with how every other section has been added this session. Noted that the source's own ingredient list uses only blackberries and raspberries, despite strawberries getting a mention in the intro as the season's first arrival — transcribed as printed rather than assumed to include a third berry. |
 | 2026-08-10 | Added **[§5.19 Brazilian Salad](#519-brazilian-salad)** — hearts of palm and tomato, dressed simply with good olive oil and red wine vinegar. **Not from a photographed cookbook page** — Cody dictated the recipe directly, so it's credited as his own rather than attributed to any source, per this cookbook's practice of never asserting a source that wasn't actually shown. |
 | 2026-08-10 | Added **[§T19 How to Boil an Egg (Canal House's Timing Guide)](#t19-how-to-boil-an-egg-canal-houses-timing-guide)** from **Canal House Cooks Every Day**, p. 70 — the technique page facing [§9.16 Deviled Eggs](#916-deviled-eggs), which references it. A doneness table by minutes (6 = soft-boiled, 9 = soft-yolk hard-boiled, 10 = the source's own default hard-boiled, 11 = firm-yolk hard-boiled), the boil-shock-peel method, and the source's own fix for why very fresh eggs peel badly (age them a week, or add ¼ cup kosher salt to the water in a pinch). **Both [§9.16 Deviled Eggs](#916-deviled-eggs) and [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) now cross-link here** for their "6 hard-boiled eggs" rather than leaving the method unstated. **One flag, not smoothed over:** the source's own text says to use unpeeled hard-boiled eggs "within 4 hours" if not peeling right away — noticeably shorter than the usual ~1-week refrigerated shelf life for hard-boiled eggs — transcribed as printed and called out as an Open Question rather than silently corrected. |
 | 2026-08-10 | Added **[§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes)** from **Canal House Cooks Every Day**, p. 50 — a braise that pulls apart an intimidating-looking cut (bones, cartilage, fat) after 2 hours in the oven, finished with a strained olive-tomato-anchovy sauce. Rated 🟢 Easy despite the braise, same reasoning as every other slow braise in this book: nothing in the method can fail, the 2 hours is unattended, so it's Slow cook time, not Cook time. **Also added a new technique entry, [§T18 "Pile It On" — Canal House's Plating Formula](#t18-pile-it-on--canal-houses-plating-formula)** — the source's own sidebar essay on layering a plate (starch base, protein, sauce, vegetable piled on top rather than served separately), illustrated in the source by this exact veal dish over mashed potatoes with string beans. Filed as a pure reference technique like [§T6 Seafood Notes](#t6-seafood-notes) — no badge, no ingredients, no index row, since it's a plating order rather than a recipe. |
@@ -452,6 +457,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
+| [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -11355,6 +11361,83 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > *Placeholder — new source, nothing photographed yet.* Cody's next round of additions will come from what he's calling "the Meathead cookbook" — presumably **Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling*** (2016), though that's an educated guess, not a confirmed title. Per this cookbook's own practice (see [§6.2 Pulled Pork](#62-pulled-pork)'s note on how *How to Grill* got confirmed), the exact title, edition, and publisher will get pinned down from an actual photographed page — a cover, title page, or a clear ISBN — rather than assumed here.
 >
 > Recipes from this source will likely land in **[§6 Smoked Meats](#6-smoked-meats)** (still mostly placeholders — §6.1, §6.3, §6.4) and possibly alongside the grilling techniques and sauces already added from *How to Grill* in §4, §5, §7, and the T-section, given the overlap in subject matter. Numbering and placement get decided once real content arrives.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+## 14. Desserts
+
+**Numbered 14 rather than slotted in earlier** to avoid renumbering §12 Recipes To Document and §13 Meathead Cookbook and breaking every link that already points at them — sections don't have to arrive in a tidy final order, and this cookbook's practice throughout has been to append at the next real number rather than reshuffle for appearances.
+
+### 14.1 Mixed Berry Cobbler
+
+Transcribed from **Canal House Cooks Every Day**, p. 92 — the first dessert in this cookbook. *"Berry season begins in late spring with the arrival of sweet juicy strawberries; then raspberries and blackberries come on. It's these berries we wait for to make this biscuit cobbler. We don't toss the berries with any sort of starch to thicken the juices because we prefer a clean, pure berry flavor — and plenty of loose juice for the tender biscuits to sop up."* **The source's own ingredient list uses only blackberries and raspberries**, despite strawberries getting a mention in the intro as the season's first arrival — transcribed as printed rather than assumed to include a third berry.
+
+> The source's margin note: *"June 29th, 81°, perfect summer day."*
+
+**Yield:** serves 6–8
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~40–45 min** · **Start to finish ~1 hr 5 min**
+
+#### A. Ingredients
+
+**For the berries**
+
+- 3 cups blackberries
+- 3 cups raspberries
+- ¾ cup sugar, or more depending on the sweetness of the berries
+- 2 tsp vanilla extract
+
+**For the biscuit topping**
+
+- ½ cup all-purpose flour
+- ½ cup cake flour
+- 2 tsp baking powder
+- 1 tsp sugar, plus some for sprinkling on top
+- ½ tsp salt
+- ¾ cup chilled heavy cream
+- 2 Tbsp melted butter
+
+#### B. Cooking Instructions
+
+**1. Preheat the oven to 375°F.**
+
+**2. Make the biscuit dough.**
+Whisk together the flours, baking powder, sugar, and salt in a mixing bowl. Add the cream and gently mix with your hands until the dough holds together.
+
+**3. Knead lightly and shape. Don't overwork it.**
+Place the dough on a lightly floured surface and knead a few times — overworking it will make the biscuits tough. Gently flatten the dough with your hands and shape it into a ½-inch-thick rectangle slightly smaller than your baking dish. Cut the dough into 9 equal pieces. Brush the top and sides with the melted butter.
+
+**4. Toss the berries.**
+Combine the berries, sugar, and vanilla in a large bowl. Toss well, then spoon into an 8½ × 11-inch baking dish.
+
+**5. Top with the biscuits and bake. 40–45 minutes.**
+Arrange the biscuits over the berries. Sprinkle a little sugar over the top. Bake until the biscuit topping is golden brown and the berry juices are bubbling and syrupy.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Blackberries — 3 cups
+- 🛒 Raspberries — 3 cups
+- 🛒 Sugar — ¾ cup for the berries, plus a little more for the topping and sprinkling
+- 🛒 Vanilla extract — 2 tsp
+- 🛒 All-purpose flour — ½ cup
+- 🛒 Cake flour — ½ cup
+- 🛒 Baking powder — 2 tsp
+- 🛒 Salt
+- 🛒 Heavy cream — ¾ cup, chilled
+- 🛒 Butter — 2 Tbsp, melted
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,350 | 91 g | 25 g | 360 g | 50 g |
+| **Per serving** *(serves 7)* | ~335 | 13 g | 3.5 g | 51 g | 7 g |
+
+**What a serving is:** about 1 cup — a generous bowl of cobbler, berries and biscuit together. The high fiber count is genuinely from the berries, not an estimating quirk — 6 cups of blackberries and raspberries is a lot of fruit.
 
 [↑ Table of Contents](#table-of-contents)
 

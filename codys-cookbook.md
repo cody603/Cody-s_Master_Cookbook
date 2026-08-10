@@ -131,6 +131,7 @@ Click any recipe to jump straight to it.
 - [5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) ✅ 🔖
 - [5.19 Brazilian Salad](#519-brazilian-salad) ✅
 - [5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) ✅
+- [5.21 Sautéed Kale](#521-sautéed-kale) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -203,6 +204,9 @@ Click any recipe to jump straight to it.
 - [8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) ✅
 - [8.12 Turkey & Potato Soup](#812-turkey--potato-soup) ✅
 - [8.13 Lobster Stew](#813-lobster-stew) ✅
+- [8.14 Restorative Beef Broth](#814-restorative-beef-broth) ✅
+- [8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) ✅
+- [8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -258,6 +262,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Four more from Canal House Cooks Every Day.** Three "medicinal" broths from the winter chapter (p. 276–277): [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) (short ribs and prunes simmered 5 hours, strained — the meat is discarded, only the broth is kept), [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) (based on the source's own citation of Dr. Bieler's Broth from a 1966 book), and [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) (whole chicken, 8 oz of ginger, breasts pulled early to stay tender). **Also added [§5.21 Sautéed Kale](#521-sautéed-kale) — deliberately partial, per Cody's explicit request.** The source recipe is "Borlotti Beans with Sautéed Baby Kale" (p. 283); only the kale portion is transcribed, not the beans. **Answered Cody's baby kale substitution question directly in the entry**: yes, any regular kale works — baby kale is just young, tender leaves of the same plant, so mature kale needs stems stripped and runs toward the longer end of the cook time. |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day.** [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it), p. 236 — the hand-cranked-machine method plus a "Cutting Pasta" sidebar for pappardelle and tagliatelle. **This closes half of an open reference from [§7.41](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)**, which had named this exact page as an untranscribed pasta-cutting technique; §7.41's other reference, the Spinach Pasta dough itself (source p. 238), is still open. Also added **[§8.13 Lobster Stew](#813-lobster-stew)** and **[§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery)**, p. 254–255. **Both of these two carry more transcription uncertainty than usual** — the source photos were upside down and mirrored, a harder read than this cookbook's usual angled-photo problem. Ingredient lists are solid; some step ordering (whether the lobster shells get strained before the potatoes go in; the exact split between the shrimp's poaching liquid and the celery's pickling brine) is a sensible reconstruction rather than a confirmed transcription, flagged prominently rather than presented as settled, with a note that a straight re-photo would resolve it. |
 | 2026-08-10 | **Six more from Canal House Cooks Every Day, closing out this source's autumn and Thanksgiving pages for now.** [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) — double-fried frozen fries, silky buttered spinach, and a quick-seared skirt steak sliced against the grain. **[§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie)** and **[§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie)** — the source's own facing-page pair, a rustic roasted-squash custard pie next to a lighter gelatin-set chiffon version. The chiffon pie is rated 🔴 Hard: it stacks a curdle-risk stovetop custard with a meringue that has to be folded in without deflating, the same double-risk reasoning used for [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise). **Three from the Thanksgiving-leftovers page (p. 228), all cross-linked to each other:** [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich), [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano). **Two untranscribed source-page references surfaced here, both worth knowing about:** Cranberry-Port Gelée and Turkey Stock both cite the same source p. 221 (a Thanksgiving spread not yet photographed), and the Escarole Salad's Preserved Lemon reference (source p. 294) is now the fourth recipe pointing at that same still-missing page, alongside [§4.60](#460-tomato-rollmops), [§9.15](#915-anchovy--lemon-butter), and [§9.16](#916-deviled-eggs). |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 188–189.** [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) — the plainest possible tomato pasta, built to show off the passato itself; the onion simmers in the sauce for flavor, then gets discarded rather than eaten. [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) — a Portuguese-inspired cataplana dish the source rediscovered while cleaning a studio, sausage and clams steamed together with Aleppo pepper. **One flag:** the page-break wording between the sausage/onion step and the clam step was hard to fully verify from the photo's angle — written up following standard cataplana technique and logged as an Open Question. **[§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup)** — soup roasted and served straight from a hollowed pumpkin shell, bread crumbs and Gruyère layered inside with the stock so the flesh gets scraped directly into a cheesy broth at the table. **Rated Slow cook** for the roughly 2-hour unattended bake, the same convention used for every other multi-hour hands-off roast in this cookbook. **Also flagged for reconstruction rather than verified transcription** — several lines of the method were hard to read from the photo; the write-up follows the classic technique and accounts for every listed ingredient. |
@@ -416,6 +421,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.19 Brazilian Salad](#519-brazilian-salad) | 🟢 | 15 min | — | — | 25 min *(includes a 5–10 min rest)* |
 | [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑 | 🟢 | 5 min | 10 min | — | 15 min |
 | [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 | 🟢 | 15 min | — | *with the bird* | set by the bird |
+| [§5.21 Sautéed Kale](#521-sautéed-kale) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
@@ -441,6 +447,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
+| [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) | 🟢 | 10 min | 10 min | **5 hr** *(gentle simmer, unattended)* | 5 hr 20 min |
+| [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) | 🟢 | 15 min | 5 min | **2 hr** *(unattended simmer)* | 2 hr 20 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
 | [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) | 🟢 | 20 min | — | **~2 hr** *(unattended oven roast, size-dependent)* | 2 hr 20 min |
 | [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
@@ -477,6 +485,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
+| [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
@@ -540,7 +549,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 79 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 82 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -7010,6 +7019,56 @@ Toss the escarole with the vinaigrette. Serve garnished with plenty of parmigian
 
 ---
 
+### 5.21 Sautéed Kale
+
+**Only the sautéed-kale portion of a larger Canal House recipe, per Cody's request.** The full source page (p. 283) is "Borlotti Beans with Sautéed Baby Kale" — a brothy bean dish served with kale sautéed on the side and toast. Only the kale component is transcribed here; the beans portion is not written up.
+
+> **Baby kale substitution — yes, this works.** Baby kale is just young, tender kale leaves, usually sold pre-washed in a bag or clamshell like baby spinach — smaller and faster-cooking than mature kale, but the same plant. Regular curly kale, lacinato (dinosaur) kale, or red Russian kale all substitute fine. Strip any tough stems first, and expect the cook time to run toward the longer end of the range below since mature leaves take a bit more sautéing to wilt and tenderize than baby kale does.
+
+**Yield:** serves 4, as a side
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 3 Tbsp really good extra-virgin olive oil
+- 2 cloves garlic, thinly sliced
+- 1–1½ lbs baby kale, or regular kale with tough stems removed
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Warm the oil and garlic.**
+Put the olive oil and garlic in a heavy medium pot and warm together over medium heat.
+
+**2. Sauté the kale. 5–10 minutes.**
+Rinse the kale and add it to the pot with the water still clinging to the leaves. Sauté, stirring and turning the leaves in the oil, until wilted and tender — add a splash of water if the kale begins to dry out.
+
+**3. Season and serve.**
+Season with salt and pepper.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Really good extra-virgin olive oil — 3 Tbsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Baby kale, or regular kale — 1–1½ lbs
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~640 | 40 g | 24 g | 51 g | 20 g |
+| **Per serving** *(serves 4)* | ~160 | 10 g | 6 g | 13 g | 5 g |
+
+**What a serving is:** a generous side portion, about 1 cup wilted.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -11284,6 +11343,195 @@ Ladle into bowls and garnish with chopped chives.
 | **Per serving** *(serves 5)* | ~430 | 27 g | 18 g | 18 g | 2 g |
 
 **What a serving is:** a generous 1½-cup bowl with plenty of lobster meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.14 Restorative Beef Broth
+
+Transcribed from **Canal House Cooks Every Day**, p. 276 — the same page as [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic). *"Drink this faintly sweet, beefy broth as is, or simmer diced root vegetables and/or little pastas in it."*
+
+> The source's margin note: *"January 2nd, 28°, a clear sunny day."*
+
+**Yield:** makes about 9 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** *(bring to a boil, skim)* · **Slow cook ~5 hr** *(gentle simmer, unattended)* · **Start to finish ~5 hr 20 min**
+
+#### A. Ingredients
+
+- 3–4 lbs beef short ribs (about 9 pieces)
+- 1 onion, halved
+- 2–3 cloves garlic
+- 1 cup pitted prunes
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Combine and cover with water.**
+Put the short ribs, onion, garlic, and prunes into a large heavy pot. Add enough cold water — about 16 cups — to cover the meat by about 3 inches.
+
+**2. Bring to a boil, skimming.**
+Bring to a boil over medium-high heat, skimming off any foam that rises to the surface.
+
+**3. Simmer gently. About 5 hours.**
+Reduce the heat to low and simmer very gently, skimming any foam from time to time, until the meat is tender.
+
+**4. Strain.**
+Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids. Season with salt, if you like. Heat before serving.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef short ribs — 3–4 lbs (about 9 pieces)
+
+**🛒 General grocery**
+
+- 🛒 Onion — 1
+- 🛒 Garlic — 2–3 cloves
+- 🛒 Pitted prunes — 1 cup
+- 🛒 Salt
+
+#### Nutrition *(estimated, broth only — the meat and other solids are strained out and discarded)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(9 cups)* | ~720 | 27 g | 63 g | 18 g | 4.5 g |
+| **Per serving** *(1 cup)* | ~80 | 3 g | 7 g | 2 g | 0.5 g |
+
+**What a serving is:** 1 cup, drunk plain or used as a base for simmering root vegetables or small pasta shapes.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.15 Everyday Vegetable Tonic
+
+Transcribed from **Canal House Cooks Every Day**, p. 276 — the same page as [§8.14 Restorative Beef Broth](#814-restorative-beef-broth). *"This vegetable soup is based on the famous Doctor Bieler's Broth, which made its debut in Doctor Henry G. Bieler's Food Is Your Best Medicine (Random House, 1966). It was considered magic and was very popular with the In Crowd."*
+
+> The source's margin note: *"January 4th, 24°, gusty."*
+
+**Yield:** makes about 6 cups
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- 1 lb green beans, diced
+- 1 lb zucchini, diced
+- 1 medium onion, diced
+- 2 ribs celery, diced
+- 1 clove garlic, minced
+- 1 quart spring water
+- Salt and pepper
+- Really good extra-virgin olive oil
+
+#### B. Cooking Instructions
+
+**1. Combine and bring to a boil.**
+Put the green beans, zucchini, onion, celery, and garlic in a large pot and add the spring water. Cover and bring to a boil over medium-high heat.
+
+**2. Simmer. About 20 minutes.**
+Reduce the heat to medium-low and gently boil until the vegetables are very tender.
+
+**3. Season and serve.**
+Remove from the heat and season to taste with salt and pepper. Serve with a good drizzle of olive oil, or purée in a blender or food processor first.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Green beans — 1 lb
+- 🛒 Zucchini — 1 lb
+- 🛒 Onion — 1 medium
+- 🛒 Celery — 2 ribs
+- 🛒 Garlic — 1 clove
+- 🛒 Spring water — 1 quart
+- 🛒 Salt, pepper
+- 🛒 Really good extra-virgin olive oil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(6 cups)* | ~545 | 27 g | 16 g | 65 g | 24 g |
+| **Per serving** *(1 cup, of 6)* | ~90 | 4.5 g | 2.7 g | 11 g | 4 g |
+
+**What a serving is:** 1 cup, brothy or puréed, with a drizzle of good olive oil.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.16 Cleansing Ginger-Chicken Soup
+
+Transcribed from **Canal House Cooks Every Day**, p. 277. *"Ginger has long been known for its health benefits. Prized for its anti-inflammatory properties, it is also known to calm an upset stomach. We love the heat it adds to this rich, satisfying broth. We remove the chicken breast halfway through cooking to keep it tender and juicy. The purity of this broth needs little else, but if you want more substance, add rice or noodles."*
+
+> The source's margin note: *"January 6th, 23°, all clear."*
+
+**Yield:** serves 6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** *(bring to a boil)* · **Slow cook ~2 hr** *(30 min then 1½ hr simmer, unattended)* · **Start to finish ~2 hr 20 min**
+
+#### A. Ingredients
+
+- 1 onion, sliced
+- 2 ribs celery, chopped
+- 1 big hand fresh ginger (about 8 oz), unpeeled and sliced into big pieces
+- 1 clove garlic
+- 10 black peppercorns
+- 1 organic chicken, cut into 7 pieces (2 breasts, 2 thighs and legs, 2 wings, and the back)
+- Salt
+- Handful fresh cilantro leaves
+
+#### B. Cooking Instructions
+
+**1. Combine and bring just to a boil.**
+Put the onion, celery, ginger, garlic, and peppercorns in a heavy large pot, then add the chicken pieces, placing the breasts on top so they're easy to pull out later. Cover with 4 quarts cold water and bring just to a boil over medium-high heat.
+
+**2. Reduce and skim.**
+Reduce the heat to low. Skim off any foam that rises to the surface.
+
+**3. Pull the breasts early. After about 30 minutes.**
+Remove the chicken breasts and set them aside to cool — this keeps them tender and juicy rather than overcooked.
+
+**4. Keep simmering. 1½ hours more.**
+Continue to gently simmer the rest of the chicken and soup.
+
+**5. Pull all the chicken and strain.**
+Remove all the chicken from the broth and set aside until cool enough to handle. Pull off and discard the skin, bones, and gristle. Strain the broth through a fine-mesh sieve into a bowl, then return the broth to the pot.
+
+**6. Reduce. To about 8 cups.**
+Boil the broth over high heat until it has reduced. Season with salt to taste.
+
+**7. Serve.**
+Put a handful of the pulled chicken in each of 6 bowls, then ladle in the hot broth. Garnish with cilantro leaves.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Organic whole chicken — 1, cut into 7 pieces
+
+**🛒 General grocery**
+
+- 🛒 Onion — 1
+- 🛒 Celery — 2 ribs
+- 🛒 Fresh ginger — about 8 oz, 1 big hand
+- 🛒 Garlic — 1 clove
+- 🛒 Black peppercorns — 10
+- 🛒 Salt
+- 🛒 Fresh cilantro — a handful
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,310 | 44 g | 187 g | 18 g | 5 g |
+| **Per serving** *(serves 6)* | ~220 | 7 g | 31 g | 3 g | 1 g |
+
+**What a serving is:** a handful of pulled chicken in a deep bowl of hot broth, about 1½ cups.
 
 [↑ Table of Contents](#table-of-contents)
 

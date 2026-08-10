@@ -79,6 +79,7 @@ Click any recipe to jump straight to it.
   - [4.58 Pimentón Butter](#458-pimentón-butter) ✅
   - [4.59 Tonnato Sauce](#459-tonnato-sauce) ✅ 🔖
   - [4.60 Tomato "Rollmops"](#460-tomato-rollmops) ✅
+  - [4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -101,6 +102,7 @@ Click any recipe to jump straight to it.
   - [T19. How to Boil an Egg (Canal House's Timing Guide)](#t19-how-to-boil-an-egg-canal-houses-timing-guide) ✅
   - [T20. Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) ✅
   - [T21. Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) ✅
+  - [T22. Rib Marinade — Dry Brine or Wet Marinade (Cody's Method)](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -140,6 +142,7 @@ Click any recipe to jump straight to it.
 - [6.2 Pulled Pork](#62-pulled-pork) ✅ *(North Carolina style)* ❤️
 - [6.3 Smoked Whole Hen](#63-smoked-whole-hen) ○ ❤️
 - [6.4 Smoked Steak](#64-smoked-steak) ○ ❤️
+- [6.5 Smoked Ribs](#65-smoked-ribs) ○
 
 **[7. Mains & Proteins](#7-mains--proteins)**
 
@@ -267,6 +270,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Closed out §7.32's last open reference, and added Cody's own rib-marinade technique.** [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise), transcribed from **Steven Raichlen's *How to Grill*** (p. 452) — a shortcut Béarnaise built by stirring a shallot-tarragon-white-wine reduction into store-bought mayonnaise instead of a from-scratch emulsion. This was the last of the five serving sauces named by [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin); §7.32's own text is updated now that all five are transcribed. **Also added [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), Cody's own dictated technique, not from a photographed source.** Two methods: a dry brine (salt and fridge) or a wet marinade (apple cider vinegar and hand-squeezed lemon juice, 6 hours to overnight). Cody's own figure — 1 lemon per rack — is used as given; **the apple cider vinegar quantity (½ cup per rack) is my own judgment call**, since Cody explicitly asked for a modular starting point rather than dictating an exact ratio, with worked totals at his stated batch sizes of 4 and 6–7 racks. A minimal **[§6.5 Smoked Ribs](#65-smoked-ribs)** placeholder was added too, cross-linked to T22, with the rub/wood/temp/time still needed to complete it. |
 | 2026-08-10 | Added **[§7.49 "Brunette" de Veau](#749-brunette-de-veau)** from **Canal House Cooks Every Day** — a browned, deliberately un-classical take on Blanquette de Veau (which stays pale on purpose); the source calls their version "brunette" precisely because they brown the veal shanks for extra flavor and caramelization instead of avoiding color the traditional way. Also: **a clearer re-photo of the [§9.11](#911-melba-toasts)–[§9.15](#915-anchovy--lemon-butter) melba toast spread confirmed every existing ingredient and quantity as already transcribed** — nothing needed correcting — and picked up a margin note that had been missing: *"February 28th, 31°, bright sunshiny day,"* now added to §9.11. |
 | 2026-08-10 | **A long-standing open reference finally resolved: [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular).** Four recipes have been citing an untranscribed "Preserved Lemon (page 294)" — [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), [§9.16 Deviled Eggs](#916-deviled-eggs), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) all now point here instead. (One correction while doing it: [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) had been listed as a fourth citer in earlier changelog notes — checked against its actual ingredient list, and it never actually calls for preserved lemon; that was a bookkeeping error, now fixed rather than left standing.) **Directly answers Cody's question**: yes, regular lemons work if Meyer lemons aren't available — the source's own text says this is literally the traditional Moroccan method, and Meyer lemons only entered the picture because of a friend's backyard windfall. Filed as a formula rather than a fixed recipe, since the source works from "a half-bushel" rather than a precise home-kitchen quantity. **Also added, all from the same source:** [§7.47 Shrimp Roast](#747-shrimp-roast) (a friend's Kerala-style shrimp curry, its own Curd Rice pairing flagged as an untranscribed reference) and [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) (a from-scratch dry-brined and cured brisket, kept deliberately separate from Cody's own [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) placeholder, same reasoning as every other "Cody's own vs. a new source's version" split this session; its Parsley Sauce pairing is likewise flagged as untranscribed). And **[§10.6 Irish Soda Bread](#106-irish-soda-bread)** — a quick bread with currants and caraway, filed in Breakfast per the source's own "toast slices for breakfast" line. |
 | 2026-08-10 | **Four more from Canal House Cooks Every Day.** Three "medicinal" broths from the winter chapter (p. 276–277): [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) (short ribs and prunes simmered 5 hours, strained — the meat is discarded, only the broth is kept), [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) (based on the source's own citation of Dr. Bieler's Broth from a 1966 book), and [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) (whole chicken, 8 oz of ginger, breasts pulled early to stay tender). **Also added [§5.21 Sautéed Kale](#521-sautéed-kale) — deliberately partial, per Cody's explicit request.** The source recipe is "Borlotti Beans with Sautéed Baby Kale" (p. 283); only the kale portion is transcribed, not the beans. **Answered Cody's baby kale substitution question directly in the entry**: yes, any regular kale works — baby kale is just young, tender leaves of the same plant, so mature kale needs stems stripped and runs toward the longer end of the cook time. |
@@ -420,6 +424,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) | 🟢 | 10 min | — | — | 10 min |
 | [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter) | 🟢 | 10 min | — | — | 10 min |
 | [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) | 🟢 | 10 min | — | — | 10 min |
+| [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) | 🟢 | 10 min | — | — | 10 min *(+ 6 hr–overnight marinate or dry-brine fridge time)* |
 | [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
@@ -455,6 +460,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
+| [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) | 🟢 | 10 min | 10 min | **5 hr** *(gentle simmer, unattended)* | 5 hr 20 min |
 | [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) | 🟢 | 15 min | 5 min | **2 hr** *(unattended simmer)* | 2 hr 20 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
@@ -561,7 +567,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 83 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 85 recipes**, including nearly all of §4's now-61 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -569,7 +575,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the biggest numbers in this table — two days start to finish, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
-*Recipes still in placeholder form (§3, §5.1–5.9, §6.1, §6.3, §6.4, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
+*Recipes still in placeholder form (§3, §5.1–5.9, §6.1, §6.3, §6.4, §6.5, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
 *[§14.3 Classic Tuiles](#143-classic-tuiles) is a different case — not a placeholder, but genuinely incomplete: the source page cuts off mid-recipe with "continued on page 118" and that page hasn't been photographed yet. Its Cook and Start-to-finish times are unknown rather than absent, so it's excluded from every count and total in this section until the rest of the recipe arrives.*
 
@@ -4527,6 +4533,65 @@ Use in salads, on toasts, or with pasta — the tomatoes and the flavored oil bo
 
 ---
 
+### 4.61 Béarnaise Mayonnaise
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 452 — the *Stand-Alone Sauces* chapter. A shortcut Béarnaise: the classic shallot-and-tarragon reduction, stirred into store-bought mayonnaise instead of built as its own emulsion from egg yolks and butter. **This is the last of the five serving sauces [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) names** — the other four ([§4.38 Mustard Sauce](#438-mustard-sauce), [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), [§4.50 Cucumber Relish](#450-cucumber-relish), [§4.51 Shallot Marmalade](#451-shallot-marmalade)) turned up in earlier batches; this one closes the set.
+
+> Because it leans on jarred mayonnaise for the body of the sauce, this stays a simple stovetop reduction rather than a from-scratch emulsion — no whisking-in-oil failure point the way [§4.9 Hollandaise](#49-hollandaise-sauce) or a scratch-built mayonnaise ([§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) has.
+
+**Yield:** about 1½ cups — this cookbook's estimate is **8 servings** as a condiment alongside grilled meat; the source doesn't state a yield
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min** *(plus a few minutes to cool the reduction before it goes into the mayonnaise)*
+
+#### A. Ingredients
+
+- 1 to 2 shallots, minced
+- ½ tsp coarsely ground black peppercorns
+- ½ cup dry white wine
+- 3 Tbsp white wine vinegar or distilled white vinegar
+- Coarse salt
+- 3 to 4 sprigs fresh tarragon, stemmed and chopped
+- 1¼ cups mayonnaise
+
+#### B. Cooking Instructions
+
+**1. Reduce the shallots, pepper, wine, and vinegar to about ¼ cup.**
+Combine the minced shallots, black pepper, white wine, and vinegar in a small saucepan and simmer over medium heat until reduced to roughly ¼ cup, about 8 to 10 minutes. Let it cool — going in hot will thin the mayonnaise.
+
+**2. Blanch and chop the tarragon.**
+Dunk the tarragon sprigs in boiling water for a few seconds, then shock in cold water and pat dry. This tames the raw bite and sets the color. Strip the leaves and chop them.
+
+**3. Whisk it all into the mayonnaise.**
+Stir the cooled reduction and chopped tarragon into the mayonnaise. Season with salt to taste.
+
+**4. Refrigerate. Keeps 5 days or more.**
+Cover and chill until serving. Good alongside [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) or anywhere a classic Béarnaise would go — steak, fish, eggs.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallots — 1 to 2
+- 🛒 Black peppercorns, for coarse grinding
+- 🛒 Dry white wine — ½ cup
+- 🛒 White wine vinegar or distilled white vinegar — 3 Tbsp
+- 🛒 Coarse salt
+- 🛒 Fresh tarragon — 3 to 4 sprigs
+- 🛒 Mayonnaise — 1¼ cups
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,925 | 200 g | 4 g | 12 g | 1 g |
+| **Per serving** *(serves 8, about 3 Tbsp each)* | ~241 | 25 g | 0.5 g | 1.5 g | 0.1 g |
+
+**What a serving is:** about 3 Tbsp — a generous dollop alongside a portion of grilled meat or fish, not a standalone dish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -6308,6 +6373,68 @@ When new (up to about 4 months), rinse before using, and use both rind and flesh
 
 ---
 
+### T22. Rib Marinade — Dry Brine or Wet Marinade (Cody's Method)
+
+<!-- TECHNIQUE-TAGS: ribs, marinade, dry-brine, smoking, formula -->
+**Tags:** `ribs` · `marinade` · `dry-brine` · `formula` · `smoking`
+**Source:** Cody's own method, dictated directly — not from a photographed page. Feeds [§6.5 Smoked Ribs](#65-smoked-ribs).
+
+Cody runs one of two preps before ribs go in the smoker, and picks whichever fits the day: a **dry brine** (salt and fridge — easier, less to think about) or a **wet marinade** (apple cider vinegar and fresh lemon juice, 6 hours to overnight). Both are here as a formula rather than a fixed recipe, since the real variable is how many racks are going on the smoker that day — sometimes 4, sometimes 6 or 7.
+
+> **Cody's own figure: 1 lemon per rack, juiced by hand** — squeezed straight over the ribs, seeds and all, since a hand squeeze doesn't always catch every seed. If you'd rather strain them out, juice into a separate cup first.
+
+> **The apple cider vinegar ratio below is a judgment call, not a figure Cody gave.** He asked for a modular starting point rather than dictating an exact amount, so treat **½ cup (8 Tbsp) apple cider vinegar per rack** as a place to start, not gospel. That lands the total marinade around ⅔ cup of liquid per rack — enough to coat a rack turned occasionally in a gallon zip-top bag, without needing to fully submerge it. Pull back toward ⅓ cup if the marinade tastes too sharp; push toward ¾ cup if the ribs are thick and you want more penetration.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(plus a 6 hr to overnight marinate for the wet method, or a few hours to overnight fridge time for the dry brine — lead time, not cooking)*
+
+#### A. Method 1 — Dry Brine
+
+**1. Salt the ribs on all sides.**
+Kosher or coarse salt, rubbed evenly over both sides of the rack.
+
+**2. Refrigerate, uncovered or loosely covered.**
+A few hours minimum; overnight is better if the schedule allows. This is the easier of the two preps — salt and forget it until it's time to smoke.
+
+#### B. Method 2 — Wet Marinade (Apple Cider Vinegar & Lemon)
+
+**Per rack:**
+- Juice of 1 lemon, hand-squeezed
+- ½ cup apple cider vinegar *(Cody's own judgment-call starting point — see note above)*
+
+**1. Juice the lemons.**
+1 lemon per rack, squeezed by hand directly over the ribs or into a separate container first.
+
+**2. Combine with the apple cider vinegar and marinate.**
+Bag the ribs with the lemon juice and vinegar — a gallon zip-top bag per rack or two works well — and refrigerate. 6 hours minimum, overnight is fine too; don't push much past 24 hours, since the acid will start to soften the meat's texture rather than just flavor it.
+
+**3. Drain and pat dry before it goes on the smoker.**
+Shake off excess marinade so the surface isn't wet going onto the grate — a wet surface fights the bark instead of helping it form.
+
+#### C. Worked Totals — Scaling by Batch Size
+
+| Batch | Lemons | Apple cider vinegar |
+|---|---|---|
+| 4 racks *(Cody's smaller batch)* | 4 lemons | 2 cups |
+| 6 racks | 6 lemons | 3 cups |
+| 7 racks *(Cody's larger batch)* | 7 lemons | 3½ cups |
+
+#### D. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemons — 1 per rack
+- 🛒 Apple cider vinegar — ½ cup per rack
+- 🛒 Kosher or coarse salt — for the dry-brine method
+- 🛒 Gallon zip-top bags — 1 per rack or two, for the wet marinade
+
+#### Nutrition
+
+Not tracked — this is a marinade, and per this cookbook's practice, unabsorbed marinade discarded before smoking isn't counted as eaten. Whatever the ribs pick up in flavor doesn't move the numbers on the finished [§6.5 Smoked Ribs](#65-smoked-ribs) meaningfully once that recipe is written up in full.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -7256,6 +7383,9 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 > *Placeholder — details forthcoming.* Separate from [§3 Darcy's Steak](#3-darcys-steak), which is its own method. [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) may apply here too. Ingredients · Instructions · Grocery list all to be documented.
 
 **❤️ Family favorite** — *Cody: "Perfect."*
+
+### 6.5 Smoked Ribs
+> *Placeholder — details forthcoming.* The marinade step is documented at **[§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)** — dry brine or apple cider vinegar and lemon juice, scaled by rack count. **Still needed to complete this recipe:** the rub (if any, beyond or instead of the dry brine), wood choice, smoker temp, and time/doneness cues. Ingredients · Instructions · Grocery list all to be documented.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -9288,7 +9418,7 @@ Set up the grill for direct grilling and preheat to medium. When ready to cook, 
 
 Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 46–50 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad) and [§7.31](#731-salmon-with-mustard-glaze). A whole beef tenderloin, trimmed and tied for even cooking, coated in garlic and a big mix of fresh herbs, direct-grilled to a dark, crusty medium-rare.
 
-> **Per the source:** *"This is the sort of technique I call millionaire grilling. You spend 15 minutes of preparation time and you wind up with a dish that looks and tastes like a million bucks... It's simple and regal, and anyone who has priced beef tenderloin recently will appreciate the veritable painter's palette of barbecue and steak sauces served with the beef."* Raichlen serves it fanned out with a spread of sauces: Béarnaise Mayonnaise, [§4.38 Mustard Sauce](#438-mustard-sauce), [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), [§4.50 Cucumber Relish](#450-cucumber-relish), and [§4.51 Shallot Marmalade](#451-shallot-marmalade). Four of the five turned up across later batches of photos and are now transcribed; only Béarnaise Mayonnaise is still missing, and the tenderloin itself doesn't need any of them to work.
+> **Per the source:** *"This is the sort of technique I call millionaire grilling. You spend 15 minutes of preparation time and you wind up with a dish that looks and tastes like a million bucks... It's simple and regal, and anyone who has priced beef tenderloin recently will appreciate the veritable painter's palette of barbecue and steak sauces served with the beef."* Raichlen serves it fanned out with a spread of sauces: [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise), [§4.38 Mustard Sauce](#438-mustard-sauce), [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), [§4.50 Cucumber Relish](#450-cucumber-relish), and [§4.51 Shallot Marmalade](#451-shallot-marmalade). **All five are now transcribed**, though the tenderloin itself doesn't need any of them to work.
 
 > **Also good for, per the source:** the same herb crust works well on whole pork loins and pork tenderloins.
 
@@ -9310,9 +9440,9 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 - 4 cloves garlic, minced
 - 2 cups chopped mixed fresh herbs — tarragon, basil, rosemary, oregano, and/or flat-leaf parsley
 
-**For serving** *(any or all — four of the five are now transcribed)*
+**For serving** *(any or all — all five are now transcribed)*
 
-- Béarnaise Mayonnaise (page 452) — the only one of the five still not in this cookbook
+- [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise)
 - [§4.38 Mustard Sauce](#438-mustard-sauce) — names this exact dish in its own source text
 - [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri)
 - [§4.50 Cucumber Relish](#450-cucumber-relish)

@@ -193,6 +193,7 @@ Click any recipe to jump straight to it.
 - [8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ✅ ❤️
 - [8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ✅ ❤️
 - [8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) ✅
+- [8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -221,6 +222,7 @@ Click any recipe to jump straight to it.
 - [10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) ○
 - [10.3 Bacon and Eggs](#103-bacon-and-eggs) ○
 - [10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ○ ❤️
+- [10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) ✅
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
@@ -243,6 +245,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Two more from Canal House Cooks Every Day.** [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) — sautéed chanterelles (which freeze well, per the source's own tip) folded in with big, soft-curd scrambled eggs. **Deliberately kept separate from [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)**, same reasoning as the asparagus and beet entries earlier this session — §10.2 is Cody's own still-undocumented method, not this specific dish. Also added **[§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles)**, p. 173 — a whole-bird, use-the-carcass soup: a 4-hour duck broth (rated Slow cook, unattended), then simmered again with shiitake mushrooms and Sichuan peppercorns, served over rice noodles with Napa cabbage, ham, and cilantro. **The source references two other duck recipes it was built to follow** (Duck Breasts with Apples & Caraway, Confit of Duck Legs) — neither is transcribed here, and the soup doesn't need them; it just needs a raw duck carcass. **One flag, not smoothed over:** a couple of transition sentences in the broth-and-soup method were hard to make out from an angled photo — the write-up is a faithful reconstruction against the full ingredient list and standard technique, logged as an Open Question rather than presented as a guaranteed transcription. |
 | 2026-08-10 | Added **[§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce)** from **Canal House Cooks Every Day**, p. 128 — Cody's own framing for this one: *"summer sauce with only fresh tomatoes."* The sauce itself is never cooked — tomatoes grated on a box grater, mixed with garlic, passato, and olive oil, then tossed with hot drained spaghetti so the residual heat is what warms the sauce through. |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 127 — a page of summer tomato dishes.** [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) and [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) are garlic-toast-and-tomato dishes, filed in §9 alongside this cookbook's other toast-based snacks. **[§4.60 Tomato "Rollmops"](#460-tomato-rollmops)** — anchovy-and-basil-stuffed plum tomato halves cured under olive oil, a make-ahead condiment kept a week — is filed in §4 instead, alongside [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) and the cookbook's other jarred/cured condiments, since the source itself treats it as something you keep on hand and spoon into other dishes rather than a plated dish on its own. **Its nutrition table only counts oil that actually clings to each piece**, not the full cup used to submerge the batch — the submerging oil is a curing medium reused over the week, the same "account for what's eaten" logic already used for marinades and fry oil elsewhere in this cookbook. |
 | 2026-08-10 | **Two more desserts from Canal House Cooks Every Day, p. 115–116.** [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) — a stirred custard sauce over macerated fresh berries, **rated 🔴 Hard** on the same reasoning as [§4.9 Hollandaise](#49-hollandaise-sauce): push the heat too far and the eggs scramble, and the source gives no fix. **[§14.3 Classic Tuiles](#143-classic-tuiles) is flagged as an incomplete transcription, not finished and not silently completed** — the photographed page cuts off mid-sentence with "continued on page 118," and page 118 hasn't been photographed. Written up as far as the source goes, with the missing bake time, doneness cue, and the actual rolling-pin shaping technique logged as Open Questions rather than guessed at. Its difficulty rating is marked provisional and its time badge shows an unknown cook time; the Difficulty & Time Index excludes it from every count and total until the rest arrives. |
@@ -450,6 +453,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
+| [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
@@ -471,6 +475,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
+| [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) | 🟢 | 20 min | 35 min | **4 hr** *(broth simmer)* | 5 hr *(or spread across 2 days)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
 | [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
@@ -10513,6 +10518,113 @@ Serve in pretty glasses or chilled bowls, garnished with a dollop of sour cream 
 
 ---
 
+### 8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles
+
+Transcribed from **Canal House Cooks Every Day**, p. 173 — a whole-bird, nothing-wasted soup. *"We make this soup when we've taken a whole duck and carved out the breasts to make dishes like Duck Breasts with Apples & Caraway (source p. 168) and turned the legs into Confit of Duck Legs (source, opposite page) and are left with the raw carcass. Then the whole bird gets used, for goodness' sake."* **Neither of those two other duck recipes is transcribed here** — this soup stands on its own as long as you have a raw duck carcass with the back, wings, giblets, and extra skin.
+
+> The source's margin note: *"September 24th, 65°, chilly morning."*
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~35 min** · **Slow cook ~4 hr** *(broth simmer, unattended)* · **Start to finish ~5 hr** *(or spread across 2 days — the strained broth keeps up to 2 days in the fridge)*
+
+#### A. Ingredients
+
+**For the broth**
+
+- 1 raw duck carcass, including the back, wings, giblets, and any extra skin
+- 1 medium onion, quartered
+- 1 carrot, peeled and coarsely chopped
+- 1 rib celery, coarsely chopped
+- 1 large hand fresh ginger, halved lengthwise
+- 3 whole star anise
+- ½ cup Chinese rice wine
+- Salt
+- 12 cups cold water
+
+**For the soup**
+
+- Pinch of Sichuan peppercorns
+- 8 cups duck broth *(from above)*
+- 6 large dried shiitake mushrooms, rinsed
+- ¼ head Napa cabbage
+- 8 oz Chinese flat, wide rice noodles
+- ½ bunch scallions, thinly sliced
+- ½ cup thinly sliced cooked ham
+- Handful fresh cilantro leaves
+
+#### B. Cooking Instructions
+
+**1. Simmer the broth. 4 hours.**
+Put the duck carcass parts, onion, carrot, celery, ginger, star anise, rice wine, a pinch of salt, and the cold water into a heavy large pot. Bring to a boil over high heat, skimming off any foam that rises to the surface. Reduce the heat to medium-low and simmer, uncovered, for 4 hours.
+
+**2. Strain and chill.**
+Strain the broth into a large bowl, discarding the solids. Let it cool to room temperature, then cover and refrigerate until cold — it keeps up to 2 days.
+
+**3. Skim the fat.**
+Skim off and discard the layer of white fat that forms on the surface of the cold broth.
+
+**4. Toast the peppercorns.**
+Toast the Sichuan peppercorns in a small skillet over medium-low heat until fragrant, 1–2 minutes.
+
+**5. Simmer the broth with mushrooms. About 30 minutes.**
+Put the toasted peppercorns and the duck broth in a large pot and bring to a simmer over medium-high heat. Add the shiitake mushrooms. Reduce the heat to medium and simmer.
+
+**6. Fish out the solids and season.**
+Using a slotted spoon, remove and discard the mushrooms and peppercorns. Season the broth with salt.
+
+**7. Prep the cabbage.**
+Separate the sturdy ribs from the frilly leaves of the Napa cabbage. Thinly slice both, keeping them separate.
+
+**8. Add the ribs to the broth. 1–2 minutes.**
+Add the sliced ribs to the broth and simmer until tender.
+
+**9. Cook the noodles. About 4 minutes.**
+Meanwhile, cook the rice noodles in a large pot of boiling water over medium-high heat until just tender. Drain in a colander and rinse under cold running water until cool.
+
+**10. Assemble and serve.**
+Divide the noodles, sliced cabbage leaves, and scallions between 4 large, deep soup bowls. Ladle the hot broth — with its cabbage ribs and any remaining solids — into the bowls. Garnish with the ham and cilantro.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Chinese rice wine — ½ cup
+- 🏪 Star anise — 3 whole
+- 🏪 Sichuan peppercorns — a pinch
+- 🏪 Dried shiitake mushrooms — 6 large
+- 🏪 Napa cabbage — ¼ head
+- 🏪 Chinese flat, wide rice noodles — 8 oz
+
+**🛒 General grocery**
+
+- 🛒 Raw duck carcass, with back, wings, giblets, and extra skin — 1
+- 🛒 Onion — 1 medium
+- 🛒 Carrot — 1
+- 🛒 Celery — 1 rib
+- 🛒 Fresh ginger — 1 large hand
+- 🛒 Salt
+- 🛒 Scallions — ½ bunch
+- 🛒 Cooked ham — ½ cup thinly sliced
+- 🛒 Fresh cilantro — a handful
+
+#### D. Open Questions
+
+- **A couple of transition sentences in the source's method were hard to make out from the angled photo.** The steps above are a faithful, sensible reconstruction matching the full ingredient list and standard duck-broth technique, not a guaranteed word-for-word transcription. Worth confirming against a clearer photo.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,230 | 16 g | 47 g | 208 g | 6 g |
+| **Per serving** *(serves 4)* | ~310 | 4 g | 12 g | 52 g | 1.5 g |
+
+**What a serving is:** a big bowl — noodles, broth, cabbage, and ham together, about 2 cups.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 9. Snacks & Light Meals
 
 ### 9.1 Almond Flour Chips and Salsa
@@ -11369,6 +11481,68 @@ Pile the tomatoes on one slice, then top with the other.
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
 **❤️ Family favorite** — *Cody: "These rock."*
+
+### 10.5 Soft Scrambled Eggs & Chanterelles
+
+Transcribed from **Canal House Cooks Every Day**. **Distinct from [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)** — that entry is Cody's own general scramble/omelette method, still undocumented; this is a specific Canal House dish built around a mushroom that has its own season. *"Sautéed chanterelles freeze well. When we've had a moist summer and the chanterelles are plentiful in the nearby woods, we face picking a surplus of mushrooms. Poor us! When this happens, we sauté them as in the first step below, then store them in the freezer to use when chanterelle season is long over."*
+
+> The source's margin note is partly cut off in the photo — legible as *"[Septembe]r 12th, 69°, co[o]l & damp."*
+
+**Yield:** serves 4–6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- 8 Tbsp (1 stick) butter, divided
+- 1 Tbsp extra-virgin olive oil
+- 2 cloves garlic, very thinly sliced
+- 1 lb fresh chanterelles, cleaned and trimmed, halved or quartered
+- Salt and pepper
+- Large handful fresh parsley leaves, chopped
+- 6 eggs
+- 3 Tbsp heavy cream
+
+#### B. Cooking Instructions
+
+**1. Sauté the chanterelles. 10–15 minutes.**
+Melt 4 Tbsp of the butter with the olive oil together in a large skillet over medium-high heat. Add the garlic and mushrooms. Sauté, stirring occasionally, until they've released their juices and are tender. Season with salt and pepper. Add the parsley.
+
+> **They freeze well** — sauté a surplus this way and stash it for when chanterelle season is over, per the source's own tip.
+
+**2. Melt the remaining butter for the eggs.**
+Melt the remaining 4 Tbsp butter in a medium nonstick skillet over medium-high heat.
+
+**3. Beat the eggs and cream, season.**
+Lightly beat the eggs and cream together in a medium bowl. Season with salt and pepper.
+
+**4. Soft-scramble. About 2 minutes.**
+Pour the eggs into the bubbling butter. After a few seconds, pull the eggs into the center of the skillet with a spatula — the uncooked egg will rush out to the edges, making big soft curds. Keep doing this until all the eggs are softly set.
+
+**5. Serve together.**
+Serve the eggs and mushrooms together.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 8 Tbsp (1 stick)
+- 🛒 Extra-virgin olive oil — 1 Tbsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Fresh chanterelles — 1 lb
+- 🛒 Salt, pepper
+- 🛒 Fresh parsley — a large handful
+- 🛒 Eggs — 6
+- 🛒 Heavy cream — 3 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,665 | 151 g | 50 g | 18 g | 5 g |
+| **Per serving** *(serves 5)* | ~335 | 30 g | 10 g | 4 g | 1 g |
+
+**What a serving is:** about 1 cup — a generous brunch portion with mushrooms.
 
 [↑ Table of Contents](#table-of-contents)
 

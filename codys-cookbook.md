@@ -74,11 +74,12 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ✅
 - [5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) ✅ 🦃
 - [5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) ✅ 🦃
+- [5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
 - [6.1 Smoked Brisket](#61-smoked-brisket) ○
-- [6.2 Pulled Pork](#62-pulled-pork) ○
+- [6.2 Pulled Pork](#62-pulled-pork) ✅ *(North Carolina style)*
 - [6.3 Smoked Whole Hen](#63-smoked-whole-hen) ○
 - [6.4 Smoked Steak](#64-smoked-steak) ○
 
@@ -112,6 +113,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) ✅
 - [7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) ✅
 - [7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) ✅
+- [7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -158,6 +160,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **§6 Smoked Meats gets its first real recipe.** Filled in the **[§6.2 Pulled Pork](#62-pulled-pork)** placeholder with **North Carolina Pulled Pork** — an indirect-grilled (or smoked) Boston butt, mopped hourly, from a newly photographed grilling/BBQ cookbook (Workman Publishing, title not yet confirmed). Added **[§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)** alongside it, and **[§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini)** from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 161–163) — a chicken counterpart to [§7.27](#727-panéed-veal-with-czarina-sauce) with its own mustard-catsup seasoning mix. **Two referenced pages from the new BBQ book aren't captured yet — Basic Barbecue Rub (page 441) and North Carolina Vinegar Sauce (page 448)** — both load-bearing (the rub seasons the pork, the vinegar sauce dresses both the pulled pork *and* the coleslaw), flagged prominently rather than guessed at in either recipe's Open Questions. §6.2 is this cookbook's first genuine grill/smoker Slow Cook entry, confirming the §3a prediction that the rest of §6 will land the same way. The Difficulty & Time Index's "slow-cook three" became "slow-cook four," and its 30-minutes-or-less list grew to 17. |
 | 2026-08-10 | Added four more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 77–80, 116–117, 139–140): **[§7.25 Sautéed Crawfish](#725-sautéed-crawfish)**, **[§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue)**, **[§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce)**, and **[§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant)**. All four read completely across their photographed pages — §7.26 in particular looked at first like another incomplete capture (its roux-and-vegetable step ends mid-recipe on p. 79), but a later photo in the same batch turned out to be its unlabeled continuation on p. 80, finishing the sauce and the fried mirliton shells. §7.26 is this cookbook's **seventh** recipe needing [§T1](#t1-how-to-make-a-roux)'s roux technique and rated 🔴 Hard for it — a genuine dark red-brown roux, not just a long recipe. §7.25 and §7.28 both cite **Basic Cooked Rice (page 224)**, not in this cookbook — the third and fourth recipes to hit that gap after [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); plain white rice noted as the substitute, same as there. **One real source gap flagged rather than papered over:** [§7.27](#727-panéed-veal-with-czarina-sauce)'s instructions call for "the 2 tablespoons oil and the salt" in the pasta water, but neither is in the source's own printed ingredient list — flagged in Open Questions instead of guessing an amount. Also worth noting: §7.27's sauce is called "Czarina Sauce" same as [§4.21](#421-czarina-sauce-with-shrimp-or-crawfish), but it's a different recipe (butter-cream-Parmesan here, no vegetables or shellfish) — not merged, just cross-noted. |
 | 2026-08-10 | Added three more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 54–55, 69–71): **[§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce)**, **[§7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce)** (which uses it, plated over the existing **[§4.20 Meunière Sauce](#420-meunière-sauce)**), and **[§7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce)** — the **eighth** recipe closed by **[§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**'s seafood variant, added to its "Used in" list. All three photos read cleanly with no garbled or ambiguous passages, confirmed against zoomed re-reads of the source pages rather than a single quick pass — no Open Questions needed on any of them. **Two items from the same photo batch intentionally not added**, same as Giblet Gravy's first incomplete photo earlier this session: "Fish with Hushpuppies" showed only its title, cut off before the ingredients; a final fragment showed the tail end of the zucchini recipe's serving instructions plus the first few lines of an unidentified shrimp recipe. Both wait on a follow-up photo. **Two pre-existing count bugs in the [Difficulty & Time Index](#difficulty--time-index)'s prose found and fixed while re-validating badge/index/nutrition counts for this batch:** the Hard-recipe summary said "five" and omitted [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), though it was correctly badged 🔴 and listed in the table all along — now "six," with §4.12 named alongside §T1/§8.3/§8.5 as the third roux-based Hard recipe; and the keto callout said "all four" beside its own correct "5 recipes" header — now "all five." Neither bug was introduced this round; both predate it. |
 | 2026-08-09 | **Added [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood), closing a gap open since early in this session.** Roughly ten recipes across this cookbook had been citing a missing "Basic Chicken Stock (p. 31)," "Basic Beef or Pork Stock (p. 31)," or "Basic Seafood Stock (p. 32)" as an unresolved Open Question. It turns out to be **one formula, not four separate recipes** — same aromatics and method, only the bones or shells change by type. All nine affected recipes ([§4.8](#48-shrimp-and-crab-butter-cream-sauce), [§4.12](#412-fish-brown-sauce), [§4.13](#413-andouille-smoked-sausage-sauce), [§4.17](#417-giblet-gravy), [§4.20](#420-meunière-sauce), [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§9.9](#99-shrimp-remoulade)) had their Open Questions marked settled rather than deleted, and their ingredient lines repointed to §T13 directly. **[§T4](#t4-stocks--ingredient-conventions)** — which had been gesturing at "work off a basic 1-quart recipe" without actually having one — now points to it too. **Also enriched [§T1](#t1-how-to-make-a-roux)'s roux color table** from a simplified two-tier version to the source's actual four tiers (light-brown, medium-brown, dark red-brown, black), confirmed against its color plates, plus a note that the tradition is deliberately broken by personal preference in the source's own examples. |
@@ -245,6 +248,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
@@ -261,6 +265,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
+| [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
@@ -292,6 +297,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
+| [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -313,11 +319,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ### Reading this table
 
-**The slow-cook three are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. Load them early and get your evening back.
+**The slow-cook four are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. Load them early and get your evening back.
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 15 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 17 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -325,7 +331,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the biggest numbers in this table — two days start to finish, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
-*Recipes still in placeholder form (§3, §5.1–5.9, §6, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **§6 Smoked Meats will all be Slow cook** when written up.*
+*Recipes still in placeholder form (§3, §5.1–5.9, §6.1, §6.3, §6.4, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3727,6 +3733,54 @@ Whatever dressing doesn't fit as filling goes into the roasting pan alongside th
 
 ---
 
+### 5.13 North Carolina Coleslaw
+
+Transcribed from the same photographed grilling/BBQ cookbook as [§6.2 Pulled Pork](#62-pulled-pork) — source not yet fully identified. A plain vinegar slaw, no mayonnaise, built to top a pulled pork sandwich.
+
+> ⚠️ **Depends on North Carolina Vinegar Sauce (page 448), which isn't in this cookbook yet** — same missing page as [§6.2](#62-pulled-pork). See that recipe's Open Questions.
+
+**Yield:** 6 to 8 cups; serves 10 to 12
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1 small head green or savoy cabbage (about 2 lb)
+- 1 cup North Carolina Vinegar Sauce (page 448), or more to taste — *not in this cookbook; see the callout above*
+
+#### B. Cooking Instructions
+
+**1. Core and finely chop the cabbage.**
+Core the cabbage and remove the outside leaves. Cut it into chunks and finely chop it in a food processor.
+
+**2. Dress it with the vinegar sauce.**
+Transfer the cabbage to a nonreactive mixing bowl and toss with the vinegar sauce. Taste for seasoning, adding more vinegar sauce as necessary.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Green or savoy cabbage — 1 small head (about 2 lb)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~330 | 1 g | 12 g | 79 g | 23 g |
+| **Per serving** *(serves 11)* | ~30 | 0.1 g | 1 g | 7 g | 2 g |
+
+**What a serving is:** about ½ to ¾ cup — a sandwich-topping portion, per [§6.2 Pulled Pork](#62-pulled-pork).
+
+*The vinegar sauce is estimated as a thin, low-sugar dressing since its actual recipe isn't in this cookbook yet — revisit once that page is captured. Plain chopped cabbage is naturally very light; almost none of the fat or protein here comes from the cabbage itself.*
+
+#### D. Open Questions
+
+- **North Carolina Vinegar Sauce (page 448)** isn't in this cookbook — see [§6.2](#62-pulled-pork)'s Open Questions; the same page closes both recipes at once.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -3735,7 +3789,99 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
 ### 6.2 Pulled Pork
-> *Placeholder — details forthcoming.* Feeds [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos). Ingredients · Instructions · Grocery list all to be documented.
+
+**North Carolina Pulled Pork.** Transcribed from a photographed grilling/BBQ cookbook — source not yet fully identified; the pages carry a Workman Publishing ISBN prefix (0-7611-8…) but no title page has been photographed yet. Feeds [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos). An indirect-grilled (or smoked) Boston butt, mopped hourly, pulled or chopped, and finished with a vinegar sauce.
+
+> ⚠️ **Two referenced pages aren't in this cookbook yet: Basic Barbecue Rub (page 441) and North Carolina Vinegar Sauce (page 448).** Both are load-bearing — the rub seasons the meat and the vinegar sauce is what gets stirred back in and served alongside, and it's also what [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) is dressed with. Written in below exactly as referenced rather than guessed at; see Open Questions. *For general orientation only, not a substitute for the actual page: classic Eastern Carolina barbecue rubs run on paprika, brown sugar, salt, black pepper, garlic and onion powder, and cayenne; the vinegar sauce style is cider vinegar, red pepper flakes, salt, and a little sugar, thinned with water. That's background knowledge, not this book's recipe — don't treat the quantities here as if they came from the source.*
+
+**Yield:** serves 10 to 12
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~15 min** · **Slow cook 4–6 hr** *(indirect grill; 6–8 hr at 225°F if using a smoker instead)* · **Start to finish ~4 hr 30 min – 6 hr 30 min** *(plus an optional up-to-24-hr rub cure in the fridge before grilling)*
+
+> **You'll need:** 4 to 6 cups wood chips (preferably hickory), soaked 1 hour in cold water then drained; rubber gloves (for pulling the hot pork by hand).
+
+#### A. Ingredients
+
+- 1 Boston butt (bone-in pork shoulder roast; 5 to 7 lb)
+- 3 to 4 Tbsp Basic Barbecue Rub (page 441) — *not in this cookbook; see the callout above*
+
+**For the mop sauce**
+
+- 1 cup cider vinegar
+- 1 small onion, thinly sliced
+- 1 to 2 jalapeño peppers, thinly sliced
+- 1 Tbsp coarse salt
+- 1 Tbsp brown sugar
+- 1 tsp black pepper
+- 1 tsp hot red pepper flakes
+- ½ cup water *(added when mixing the mop, per Step 3)*
+
+**For serving**
+
+- 3 cups North Carolina Vinegar Sauce (page 448) — *not in this cookbook; see the callout above*
+- 10 to 12 hamburger buns
+- [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)
+
+#### B. Cooking Instructions
+
+**1. Rub the pork. Cure it up to 24 hours if you have time.**
+Sprinkle the pork shoulder on all sides with the rub, patting it onto the meat with your fingers. Grill right away, or let it stand in the refrigerator, covered, for up to 24 hours — the longer it cures, the richer the flavor.
+
+**2. Set up the grill for indirect heat.**
+Preheat to medium-low. If using charcoal, place a large drip pan in the center. If using a gas grill, place all the wood chips in the smoker box or a smoker pouch and preheat to high until you see smoke, then reduce the heat to medium-low.
+
+**3. Mix the mop sauce.**
+Combine all the mop sauce ingredients with ½ cup water in a nonreactive bowl and stir until the salt and brown sugar dissolve.
+
+**4. Grill the pork low and slow until it hits about 195°F. 4 to 6 hours.**
+If using charcoal, toss 1 cup of wood chips on the coals. Place the pork fat-side up in the center of the hot grate, away from the heat. Cover the grill and cook until very tender, 4 to 6 hours (about 195°F on an instant-read thermometer). If using charcoal, add 12 fresh coals and ½ cup wood chips per side every hour. After the first hour, baste the pork with the mop sauce, and repeat every hour after that.
+
+**5. Rest, then pull or chop.**
+Transfer the cooked pork to a cutting board, cover loosely with aluminum foil, and let it rest 15 minutes. Wearing rubber gloves, pull off the skin and fat. Finely chop the crisp skin with a cleaver to stir back into the pulled pork, or discard it. Discard the fat. Pull the pork into pieces by hand, or chop it with a knife or cleaver if pulling feels too slow.
+
+**6. Sauce the pulled pork and keep it warm.**
+Transfer the shredded pork to a roasting pan and stir in 1 to 1½ cups of the vinegar sauce — enough to keep it moist. Cover with foil and keep warm.
+
+**7. Build the sandwiches.**
+Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vinegar sauce on the side.
+
+> **Smoker variation:** the pork shoulder can also go in a horizontal barrel or vertical water smoker. The heat runs lower there — about 225°F — so the cook stretches somewhat longer, 6 to 8 hours.
+>
+> **Whole-hog note, for the ambitious:** North Carolina pig pickings are traditionally built around a whole hog rather than individual shoulders — a much bigger undertaking, not covered here.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Boston butt (bone-in pork shoulder) — 5 to 7 lb
+
+**🛒 General grocery**
+
+- 🛒 Cider vinegar — 1 cup, for the mop
+- 🛒 Onion — 1 small, thinly sliced
+- 🛒 Jalapeño peppers — 1 to 2, thinly sliced
+- 🛒 Coarse salt, black pepper, hot red pepper flakes, brown sugar — for the mop
+- 🛒 Hamburger buns — 10 to 12
+- 🛒 Hickory wood chips — 4 to 6 cups
+- 🛒 Rubber gloves
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,200 | 242 g | 373 g | 366 g | 18 g |
+| **Per serving** *(serves 12, 1 sandwich each)* | ~435 | 20 g | 31 g | 30 g | 1.5 g |
+
+**What a serving is:** one hamburger bun piled with pulled pork, topped with [coleslaw](#513-north-carolina-coleslaw) (tracked separately, in its own Nutrition block).
+
+*The vinegar sauce component is a rough placeholder — since its actual recipe isn't in this cookbook, its calories are estimated as a thin, low-sugar vinegar sauce. Once the real page is photographed, this figure should be revisited.*
+
+#### D. Open Questions
+
+- **Basic Barbecue Rub (page 441)** and **North Carolina Vinegar Sauce (page 448)** are both referenced but not photographed — this recipe can't be made exactly as written until at least the vinegar sauce is captured, since it's used in two places (stirred into the pork, and dressing the coleslaw). Written in above exactly as cited rather than guessed.
+- Source book title not yet confirmed — flagged inline above.
+
+[↑ Table of Contents](#table-of-contents)
 
 ### 6.3 Smoked Whole Hen
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
@@ -5427,6 +5573,112 @@ Meanwhile, place the chicken pieces and stock in a 5½-quart saucepan or large D
 **What a serving is:** two pieces of fried chicken in sauce over about ½ cup rice — a full plated dinner.
 
 *Assumes about ½ cup cooked rice per serving, since the source lists "Hot Basic Cooked Rice" without a quantity. Most of the frying oil is poured off after browning the chicken — only about ¼ cup goes back into the sauce base.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.29 Panéed Chicken and Fettucini
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 161–163). A chicken counterpart to [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) — breaded, pan-fried boneless chicken thighs over fettuccine tossed in a cream-Parmesan sauce, but with a mustard-and-catsup seasoning mix instead of the veal recipe's plain herb blend.
+
+> *"It is important that the oil for frying the chicken be hot enough (at least 300°) to seal the meat in the bread crumbs without the oil penetrating the crumbs."* — per the source. See [T3](#t3-butter-oil-pan-frying--frying) for more.
+
+**Yield:** 4 servings
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~50 min** *(includes a 15–30 min chicken soak in the egg mixture that overlaps with other prep)*
+
+**Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
+
+#### A. Ingredients
+
+- ⅜ lb (1½ sticks) unsalted butter
+- 2 cups heavy cream
+- ½ tsp ground red pepper, preferably cayenne
+- ½ cup plus ⅓ cup, **in all**, finely grated Parmesan cheese, preferably imported
+- 4 quarts hot water
+- 2 Tbsp vegetable oil
+- 1 Tbsp salt
+- ½ lb fresh fettuccine, or 6 oz. dry
+- 5 eggs
+
+**Seasoning mix**
+
+- ¼ cup catsup
+- 3 Tbsp Creole mustard (preferred) or brown mustard
+- 1 Tbsp white pepper
+- 1 Tbsp ground red pepper, preferably cayenne
+- 2 tsp garlic powder
+- 2 tsp sweet paprika
+- ½ tsp dried thyme leaves
+- ¼ tsp rubbed sage
+- ¼ tsp dried sweet basil leaves
+
+- 2 cups very fine dry bread crumbs, toasted
+- 4 chicken-leg thigh pieces, skinned, boned, and pounded just until each piece is flat and of uniform thickness
+- Vegetable oil for pan frying
+
+#### B. Cooking Instructions
+
+**1. Build the cheese sauce: reduce butter, cream, and red pepper, then melt in Parmesan. About 8 minutes.**
+Melt the butter in a large skillet over medium-low heat; add the cream and red pepper. Turn heat to medium-high. With a metal whisk, whip the cream mixture constantly as it comes to a boil. Reduce heat and simmer until the sauce thickens enough to coat a spoon well, about 7 to 8 minutes, whisking constantly. Remove from heat and gradually add ½ cup of the Parmesan, whipping until the cheese is melted. Set this sauce aside.
+
+**2. Cook the fettuccine. 3 minutes fresh, 7 minutes dry.**
+Place the hot water, 2 tablespoons oil, and the salt in a large pot over high heat; cover and bring to a boil. When the water reaches a rolling boil, add a handful of fettuccine at a time, breaking up oil patches as you drop it in. Return to boiling and cook to al dente, about 3 minutes if fresh, 7 minutes if dry — do not overcook. During this time, use a wooden or spaghetti spoon to lift the fettuccine out by spoonfuls and shake the strands back into the boiling water; it may be an old wives' tale, but this seems to improve the pasta's texture.
+
+**3. Drain, cool, and oil the fettuccine by hand.**
+Immediately drain into a colander and stop the cooking by running cold water over it (if using dry pasta, first rinse with hot water to wash off the starch). Once fully cooled, about 2 to 3 minutes, pour a liberal amount of vegetable oil into your hands and toss the fettuccine with it. Set aside, still in the colander.
+
+**4. Build three stations: seasoning mix, egg-Parmesan wash, seasoned bread crumbs.**
+Combine the seasoning mix ingredients in a small bowl and mix well. Combine the eggs and the remaining ⅓ cup Parmesan in a pan (a cake or pie pan works well) and beat well. In a separate pan, combine 2 tablespoons of the seasoning mix with the bread crumbs, mixing very well — a food processor or blender is easiest for this. Set aside.
+
+**5. Season the chicken, then soak it in the egg mixture. 15 to 30 minutes.**
+Spread a thin layer of the remaining seasoning mix evenly on both sides of the chicken (save any leftover seasoning mix for another recipe). Soak the chicken pieces in the egg mixture for 15 to 30 minutes.
+
+**6. Warm the serving plates in a 250° oven.**
+
+**7. Bread and fry the chicken at 300°+. 2 to 3 minutes per side.**
+In a large skillet, heat about ¼ inch oil to at least 300°. Drain the excess egg mixture well from the chicken, then dredge the pieces in the bread crumbs, pressing them in with your fingertips — there should be a thin, even layer of crumbs, with no clumps in the meat's creases. Shake off the excess and gently drop the chicken into the hot oil, skin side down first, flattening the meat as needed so it fries evenly. Fry until golden brown on both sides, about 2 to 3 minutes per side, adjusting the heat as necessary to hold the oil at least 300°. Drain on paper towels.
+
+**8. Reheat the sauce and toss with the fettuccine.**
+Reheat the cheese sauce over medium-high heat, whisking frequently. If the butter starts separating from the sauce, whisk in about 1 tablespoon additional cream. Add the fettuccine and toss until thoroughly coated. Serve immediately.
+
+**9. Plate and serve.**
+Place a piece of chicken on each heated serving plate. Roll a portion of fettuccine onto a large fork and lift it onto the plate; top the fettuccine with additional sauce remaining in the pan.
+
+> **Testing doneness:** cut a strand of fettuccine in half near the end of the cooking time. When it's done, there should be only a speck of white left in the center.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — ⅜ lb (1½ sticks)
+- 🛒 Heavy cream — 2 cups
+- 🛒 Ground red pepper (cayenne)
+- 🛒 Parmesan cheese, finely grated, preferably imported — ½ cup plus ⅓ cup
+- 🛒 Vegetable oil — 2 Tbsp for the pasta water, plus more for pan frying
+- 🛒 Salt
+- 🛒 Fresh fettuccine — ½ lb, or 6 oz. dry
+- 🛒 Eggs — 5
+- 🛒 Catsup
+- 🛒 Creole mustard (preferred) or brown mustard
+- 🛒 White pepper, garlic powder, sweet paprika, dried thyme, rubbed sage, dried sweet basil
+- 🛒 Very fine dry bread crumbs — 2 cups
+
+**🏪 Specific store — butcher**
+
+- 🏪 Chicken-leg thigh pieces, skinned and boned — 4
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,300 | 400 g | 210 g | 210 g | 8 g |
+| **Per serving** *(serves 4)* | ~1,325 | 100 g | 53 g | 53 g | 2 g |
+
+**What a serving is:** one breaded pan-fried chicken thigh over a forkful of fettuccine tossed in cheese sauce, with extra sauce spooned on top.
+
+*Only 4 servings share 1½ sticks of butter, 2 cups of cream, and 5 eggs' worth of breading — this is a rich plate, similar in spirit to [§7.27](#727-panéed-veal-with-czarina-sauce) but with the same total richness spread across fewer servings.*
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -117,6 +117,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 - [7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) ✅
 - [7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ✅
 - [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅
+- [7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -163,6 +164,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)** from **Steven Raichlen's *How to Grill*** (p. 46–50) — a whole trimmed, tied, and herb-crusted tenderloin, direct-grilled to 145°F medium-rare, with a **Beef Kebabs** variation using the same trim and marinade. Transcribed clean with no gaps. The source names five serving sauces (Béarnaise Mayonnaise, Mustard Sauce, Three-Herb Chimichurri, Cucumber Relish, Shallot Marmalade) at pages not yet photographed — noted as optional rather than blocking, since the tenderloin itself is complete without them. |
 | 2026-08-10 | **Source confirmed: the new grilling cookbook is Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified from a clearly photographed ISBN. Retroactively credited on [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw), which had been citing it as unidentified. Added three more from the same book: **[§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo)** — filed as a technique formula rather than a numbered recipe, since the source itself never gives fixed mojo quantities, only a method (fry garlic, add citrus, reduce) and named citrus variations; **[§7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad)**, transcribed clean with no gaps; and **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze)**, which has a real hole — the photographed pages cut off mid-sentence in Step 2 and never showed Step 3 at all, so both are reconstructed from the source's paired "How to Grill Fish on the Skin" technique and flagged explicitly in Open Questions rather than presented as confirmed source text. |
 | 2026-08-10 | **§6 Smoked Meats gets its first real recipe.** Filled in the **[§6.2 Pulled Pork](#62-pulled-pork)** placeholder with **North Carolina Pulled Pork** — an indirect-grilled (or smoked) Boston butt, mopped hourly, from a newly photographed grilling/BBQ cookbook (Workman Publishing, title not yet confirmed). Added **[§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)** alongside it, and **[§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini)** from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 161–163) — a chicken counterpart to [§7.27](#727-panéed-veal-with-czarina-sauce) with its own mustard-catsup seasoning mix. **Two referenced pages from the new BBQ book aren't captured yet — Basic Barbecue Rub (page 441) and North Carolina Vinegar Sauce (page 448)** — both load-bearing (the rub seasons the pork, the vinegar sauce dresses both the pulled pork *and* the coleslaw), flagged prominently rather than guessed at in either recipe's Open Questions. §6.2 is this cookbook's first genuine grill/smoker Slow Cook entry, confirming the §3a prediction that the rest of §6 will land the same way. The Difficulty & Time Index's "slow-cook three" became "slow-cook four," and its 30-minutes-or-less list grew to 17. |
 | 2026-08-10 | Added four more from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 77–80, 116–117, 139–140): **[§7.25 Sautéed Crawfish](#725-sautéed-crawfish)**, **[§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue)**, **[§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce)**, and **[§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant)**. All four read completely across their photographed pages — §7.26 in particular looked at first like another incomplete capture (its roux-and-vegetable step ends mid-recipe on p. 79), but a later photo in the same batch turned out to be its unlabeled continuation on p. 80, finishing the sauce and the fried mirliton shells. §7.26 is this cookbook's **seventh** recipe needing [§T1](#t1-how-to-make-a-roux)'s roux technique and rated 🔴 Hard for it — a genuine dark red-brown roux, not just a long recipe. §7.25 and §7.28 both cite **Basic Cooked Rice (page 224)**, not in this cookbook — the third and fourth recipes to hit that gap after [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); plain white rice noted as the substitute, same as there. **One real source gap flagged rather than papered over:** [§7.27](#727-panéed-veal-with-czarina-sauce)'s instructions call for "the 2 tablespoons oil and the salt" in the pasta water, but neither is in the source's own printed ingredient list — flagged in Open Questions instead of guessing an amount. Also worth noting: §7.27's sauce is called "Czarina Sauce" same as [§4.21](#421-czarina-sauce-with-shrimp-or-crawfish), but it's a different recipe (butter-cream-Parmesan here, no vegetables or shellfish) — not merged, just cross-noted. |
@@ -305,6 +307,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
+| [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -5947,7 +5950,92 @@ Set up the grill for indirect or direct grilling and preheat to medium. Place th
 
 #### D. Open Questions
 
-- **Step 2 (finishing the glaze) and Step 3 (grilling and glazing) weren't fully legible in the photographed pages** — Step 2 cuts off mid-sentence and Step 3 wasn't visible at all. Reconstructed above from the matching "How to Grill Fish on the Skin" technique on the facing page, which this recipe's own Step 3 almost certainly restates, but **the exact glaze-mixing wording and the precise moment the glaze goes on the fish are not confirmed against the source** — worth a clean re-photo of the rest of page 293 to verify.
+- **Step 2 (finishing the glaze) and Step 3 (grilling and glazing) weren't fully legible in the photographed pages** — Step 2 cuts off mid-sentence and Step 3 wasn't visible at all. Reconstructed above from the matching "How to Grill Fish on the Skin" technique on the facing page, which this recipe's own Step 3 almost certainly restates, but **the exact glaze-mixing wording and the precise moment the glaze goes on the fish are not confirmed against the source** — worth a clean re-photo of the rest of page 293 to verify. *(Cody: a cleaner photo is on the way.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.32 Herb-Crusted Grilled Beef Tenderloin
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 46–50 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad) and [§7.31](#731-salmon-with-mustard-glaze). A whole beef tenderloin, trimmed and tied for even cooking, coated in garlic and a big mix of fresh herbs, direct-grilled to a dark, crusty medium-rare.
+
+> **Per the source:** *"This is the sort of technique I call millionaire grilling. You spend 15 minutes of preparation time and you wind up with a dish that looks and tastes like a million bucks... It's simple and regal, and anyone who has priced beef tenderloin recently will appreciate the veritable painter's palette of barbecue and steak sauces served with the beef."* Raichlen serves it fanned out with a spread of sauces: Béarnaise Mayonnaise, Mustard Sauce, Three-Herb Chimichurri, Cucumber Relish, and Shallot Marmalade — none of those five sauce pages are in this cookbook yet, but the tenderloin itself doesn't need them to work.
+
+> **Also good for, per the source:** the same herb crust works well on whole pork loins and pork tenderloins.
+
+**Yield:** one 5 lb whole tenderloin — this cookbook's estimate is **8 to 10 servings** as a main course; the source doesn't state a serving count for this entry the way it does for [§7.30](#730-basil-grilled-tuna-with-arugula-salad) and [§7.31](#731-salmon-with-mustard-glaze)
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~50 min** *(plus an optional 1–2 hr marinate — lead time, not cooking — and a 5 min rest)*
+
+**Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) — *the hot-fat principle carries over to hot-grate grilling*
+
+#### A. Ingredients
+
+**For the tenderloin**
+
+- 1 whole beef tenderloin (about 5 lb)
+- 3 to 4 Tbsp extra-virgin olive oil
+- Coarse salt and black pepper
+- 4 cloves garlic, minced
+- 2 cups chopped mixed fresh herbs — tarragon, basil, rosemary, oregano, and/or flat-leaf parsley
+
+**For serving** *(any or all — none of these five sauce pages are in this cookbook yet)*
+
+- Béarnaise Mayonnaise (page 452)
+- Mustard Sauce (page 454)
+- Three-Herb Chimichurri (page 457)
+- Cucumber Relish (page 460)
+- Shallot Marmalade (page 461)
+
+#### B. Cooking Instructions
+
+**1. Trim the chain, fat, and silverskin.**
+A whole tenderloin has a ropelike strip of meat running its length called the chain — fattier than the tenderloin and not as tender; pull it off and save it for kebabs or burgers. Trim off all the remaining fat and pull off the silverskin (the sheath of sinew covering the tenderloin) with your fingers, sliding a knife under it toward the head to loosen it if it won't come off cleanly.
+
+**2. Trim the head, and cut partway through the tail.**
+Trim the head to a uniform diameter with the rest of the tenderloin — save this trim for kebabs too, along with the pocket of fat connecting the head to the center. Cut halfway through the tail, about 4 inches above the end of the tenderloin.
+
+**3. Tie it into a uniform cylinder.**
+Fold the tail under and tie it with butcher's string, then tie the head as well. This gives you a piece of meat of even thickness so it cooks evenly end to end.
+
+**4. Oil, season, and herb-crust it. Marinate 30 minutes to 2 hours.**
+Working on a baking sheet, drizzle the tenderloin generously with the olive oil, rubbing it onto the meat by hand — tenderloin is lean, so don't be shy with the oil. Sprinkle with salt, pepper, and the minced garlic, then coat thickly with the chopped herbs, patting everything onto the meat with your fingertips. It can be grilled right away, but it's more flavorful if you let it sit, covered, in the refrigerator for 1 to 2 hours.
+
+**5. Set up the grill for direct grilling and preheat to medium-high.**
+
+**6. Grill, rotating for an even crust, to 145°F internal. 6 to 8 minutes per side, about 30 minutes total.**
+Brush and oil the hot grate. Place the tenderloin on it and grill, turning with tongs, until crusty and darkly seared on the outside and cooked to medium-rare — about 6 to 8 minutes per side, 30 minutes total. Test doneness with an instant-read thermometer in the thickest part: about 145°F for medium-rare.
+
+**7. Rest, then carve and serve.**
+Transfer to a cutting board, cover loosely with foil, and let rest 5 minutes. Remove the string, carve into crosswise slices, and serve with whichever sauces you're using.
+
+> **Beef Kebabs, a variation using the same trim and marinade:** cut a piece of tenderloin (the trimmed chain and head work well here) into 1-inch cubes and marinate in the oil, garlic, and herbs from Step 4. Thread 6 cubes per skewer and grill directly over high heat, 2 to 3 minutes per side, 8 to 12 minutes total.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Whole beef tenderloin — about 5 lb
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — 3 to 4 Tbsp
+- 🛒 Coarse salt, black pepper
+- 🛒 Garlic — 4 cloves
+- 🛒 Fresh herbs — 2 cups chopped, mixed: tarragon, basil, rosemary, oregano, and/or flat-leaf parsley
+- 🛒 Butcher's string
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,970 | 269 g | 376 g | 5 g | 2 g |
+| **Per serving** *(serves 8)* | ~495 | 34 g | 47 g | 0.6 g | 0.3 g |
+
+**What a serving is:** a generous few slices — about ½ lb raw tenderloin per person before trimming loss, a normal steakhouse-size portion.
+
+*Beef tenderloin is naturally lean for a steak cut, so this leans heavily toward protein and fat with almost no carbs — accurate whether or not any of the five serving sauces get made, since none of them are counted here.*
 
 [↑ Table of Contents](#table-of-contents)
 

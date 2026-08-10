@@ -121,6 +121,10 @@ Click any recipe to jump straight to it.
 - [5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) ✅ 🦃 👍
 - [5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) ✅ 👍
 - [5.14 Grilled Corn](#514-grilled-corn) ✅ 👍
+- [5.15 Roasted Asparagus](#515-roasted-asparagus) ✅ 🔖
+- [5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) ✅ 🔖
+- [5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) ✅ 🔖
+- [5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) ✅ 🔖
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -169,6 +173,7 @@ Click any recipe to jump straight to it.
 - [7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) ✅
 - [7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) ✅ 👍
 - [7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) ✅
+- [7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) ✅ 🔖
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -220,6 +225,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Five more from Canal House Cooks Every Day — turns out the previous batch didn't close out the source after all.** [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) — a whole cut-up chicken browned then braised with garam masala, fennel seed, ginger, and cauliflower. Three asparagus recipes from the same source page and neighboring pages: [§5.15 Roasted Asparagus](#515-roasted-asparagus) (oven-roasted with shaved parmigiano and aged balsamic), [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) (a yolk-and-butter emulsion the source itself calls "a very light hollandaise," rated Medium rather than Hard alongside [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) since it comes with its own built-in save), and [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) — **all three explicitly kept separate from [§5.2 Asparagus](#52-asparagus)**, which is Cody's own still-undocumented go-to method, not this source. Also added [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream), added last per Cody's instruction to sequence it after the others. **Cody gave a blanket verdict covering this whole batch** — *"we haven't tried these yet but heard they were delicious"* — so all five are tagged 🔖 Want to try, alongside [§4.59 Tonnato Sauce](#459-tonnato-sauce); Family Ratings Index now shows 19 want-to-try entries. **Not retroactively applied to earlier Canal House entries** (§4.52–§4.58, §7.34–§7.38) since Cody's comment wasn't confirmed to cover those specifically — flagged as worth a direct check rather than assumed. **One flagged gap:** the Pickled Beets' horseradish-cream mixing step was hard to read from a steep-angle photo: reconstructed from the printed ingredient list (no sugar or vinegar in that component) rather than transcribed word-for-word, and logged as an Open Question. The asparagus-on-pasta intro paragraph was similarly hard to read and is paraphrased rather than quoted directly. |
 | 2026-08-10 | **Two more from Canal House Cooks Every Day, closing out this source for now.** [§4.59 Tonnato Sauce](#459-tonnato-sauce) — written up **as a standalone sauce rather than a tomato recipe**, per Cody's explicit instruction (*"make it so that you can add it to other things too... it looks more like a white sauce"*): a yolk-and-oil emulsion built the same way as [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one), then run through a tuna-anchovy-caper purée and sieved smooth. The source's own serving list — boiled potatoes, grilled chicken, steamed vegetables hot or cold, with tomatoes as just one option — is called out explicitly; T16's own "Used in" line now points back at it. **Rated 🔖 Want to try**, per *"it comes with high praise but we haven't tried it yet"* — added to the Family Ratings Index, now 14 want-to-try entries. Also added **[§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)** — dry-brined pork shoulder, rubbed with a chopped anchovy-herb paste, browned, then covered and braised at 300°F for about 3 hours until fork-tender, served with a garlic-oregano-parsley-lemon salmoriglio passed at the table. **A possible grill adaptation is flagged as Cody's own idea, clearly marked as untested and not from the source** — per *"we might be able to do this on the grill as well."* Left unrated since Cody didn't give this one a verdict the way he did the tonnato sauce. |
 | 2026-08-10 | Added three more from **Canal House Cooks Every Day**: [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) and [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four), which **close a loop from the previous batch** — [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) named these two exact recipes as its pairing before either was transcribed; both are now written up and cross-linked back. Also added [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) (p. 112) — brined 2 hours, double-dredged for extra crunch, and deep-fried in 2 inches of oil, with the source's own trick of draining on a wire rack rather than paper towels alone. All three transcribed clean, no gaps. |
 | 2026-08-10 | **New source: Canal House Cooks Every Day (Christopher Hirsheimer and Melissa Hamilton) — 13 recipes across §4, §7, and §9.** [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto), a butterflied, rolled, and grilled flank steak with an olive-and-anchovy pesto; two Italian "building block" sauces, [§4.52 Balsamella](#452-balsamella) and [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce); a proper [§4.54 Ragù Bolognese](#454-ragù-bolognese) with two named pasta variations folded in; four compound butters built for steak, [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter); and a five-recipe cocktail spread — [§9.11 Melba Toasts](#911-melba-toasts) as the base, then [§9.12 Potted Crab](#912-potted-crab), [§9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper), [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter), and [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), all four cross-linked back to the toast that carries them. **A name collision handled deliberately, not silently:** [§4.56](#456-canal-house-lemon-butter) is called "Canal House Lemon Butter" rather than plain "Lemon Butter," since [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) already exists from *Louisiana Kitchen* — same name, genuinely different preparation (a boiled sauce vs. a cold compound butter), so both stay rather than one overwriting the other. **[§4.54 Ragù Bolognese is rated 🟢 Easy despite a 6–7 hour simmer** — same reasoning as [§1 Pho](#1-codys-pho): nothing in the method can fail, the meat is deliberately kept pale rather than seared, and the long simmer is unattended, so it's a distance run rather than a technical climb. A nice period detail carried over from the source: Canal House recipes are each dated with a weather note in the margin — this one reads *"June 16th, 79°, clear still day."* |
@@ -388,6 +394,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
+| [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
@@ -404,6 +412,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
+| [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
@@ -423,6 +432,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
+| [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
@@ -436,6 +446,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
+| [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
@@ -452,7 +463,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 64 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 66 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -501,15 +512,15 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 [§5.3 Squash](#53-squash) *(if it's cooked right)* · [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 · [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 · [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) · [§5.14 Grilled Corn](#514-grilled-corn) · [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.7 Chicken Livers](#77-chicken-livers) *(split verdict)* · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) · [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *(split verdict)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑
 
-### 🔖 Want to try — 14
+### 🔖 Want to try — 19
 
 **Every one of these is written up and ready to cook.** This is the shortlist.
 
-[§4.59 Tonnato Sauce](#459-tonnato-sauce) · [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) · [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 · [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) · [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue) · [§7.27 Panéed Veal](#727-panéed-veal-with-czarina-sauce) · [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) · [§9.10 Crabmeat Avery](#910-crabmeat-avery) · [§11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) · [§11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) 🥑 · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑
+[§4.59 Tonnato Sauce](#459-tonnato-sauce) · [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) · [§5.15 Roasted Asparagus](#515-roasted-asparagus) · [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) · [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) · [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) · [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 · [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) · [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue) · [§7.27 Panéed Veal](#727-panéed-veal-with-czarina-sauce) · [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) · [§9.10 Crabmeat Avery](#910-crabmeat-avery) · [§11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) · [§11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) 🥑 · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑
 
 ### Reading this index
 
-**Eight of the fourteen want-to-try recipes are Cajun or seafood — and all eight are from *Louisiana Kitchen*.** That's not a coincidence; it's the backlog from transcribing that book faster than anyone could cook out of it. The other six are the two keto quick breads, the keto muffins, the low-carb fried chicken, the fried zucchini, and [§4.59 Tonnato Sauce](#459-tonnato-sauce) — the one Canal House entry with a verdict so far, and the verdict is just "we haven't tried it yet."
+**Eight of the nineteen want-to-try recipes are Cajun or seafood — and all eight are from *Louisiana Kitchen*.** That's not a coincidence; it's the backlog from transcribing that book faster than anyone could cook out of it. Five more are Canal House entries carrying the same verdict, in Cody's own words: *"We haven't tried these yet, but heard they were delicious."* That's [§4.59 Tonnato Sauce](#459-tonnato-sauce), [§5.15](#515-roasted-asparagus)–[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) (all three asparagus recipes), [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream), and [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower). **This general note likely applies to the rest of the Canal House entries too** ([§4.52](#452-balsamella)–[§4.58](#458-pimentón-butter), [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio)) — Cody hasn't confirmed that explicitly for each one, so those stay unrated rather than retroactively tagged, but it's worth a direct check next round instead of assuming. The remaining six are the two keto quick breads, the keto muffins, the low-carb fried chicken, and the fried zucchini.
 
 **The two split verdicts are worth naming.** [§7.7 Chicken Livers](#77-chicken-livers) — *"I love it, but I don't think my family likes it."* [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) — *"My family likes it. I think it's okay."* Exact opposites, and both worth knowing before you plan a menu around either one.
 
@@ -6301,6 +6312,290 @@ When ready to cook, lightly brush each ear of corn with a little of the garlic-p
 
 ---
 
+### 5.15 Roasted Asparagus
+
+Transcribed from **Canal House Cooks Every Day**, the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce) and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio). **Distinct from [§5.2 Asparagus](#52-asparagus)** — that entry is Cody's own go-to method, still undocumented; this and the two asparagus recipes that follow ([§5.16](#516-asparagus-with-lemon-butter-sauce), [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)) are new from this source, untried so far but highly rated. *"A good, aged balsamic vinegar — one that is composed of wine vinegar and reduced must and contains no artificial colorings or additives — makes these asparagus sing."*
+
+> The source's margin note: *"April 15th, 34°, clear & blustery."*
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min**
+
+**🔖 Want to try** — *Cody: "We haven't tried these yet, but heard they were delicious."*
+
+#### A. Ingredients
+
+- 16–25 fat asparagus spears, peeled and trimmed
+- 2 Tbsp extra-virgin olive oil
+- Salt and pepper
+- A hunk of parmigiano-reggiano, for shaving
+- 1 Tbsp good aged balsamic vinegar
+
+#### B. Cooking Instructions
+
+**1. Preheat the oven to 400°F.**
+
+**2. Arrange the asparagus in a single layer, all pointing the same direction.**
+Put the peeled, trimmed asparagus into a baking dish in a single layer, all pointing the same way — it makes serving cleaner. Rub all over with the olive oil. Season with salt and pepper.
+
+**3. Roast. 20–25 minutes, until tender.**
+
+**4. Shave parmesan over the top and finish with balsamic.**
+Use a vegetable peeler to shave thin shards of parmigiano-reggiano over the hot asparagus. Drizzle with the aged balsamic vinegar.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Asparagus — 16–25 fat spears
+- 🛒 Extra-virgin olive oil — 2 Tbsp
+- 🛒 Salt, pepper
+- 🛒 Parmigiano-reggiano — a hunk, for shaving
+- 🛒 Good aged balsamic vinegar — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~480 | 34 g | 22 g | 26 g | 12 g |
+| **Per serving** *(serves 4)* | ~120 | 8.5 g | 5.5 g | 6.5 g | 3 g |
+
+**What a serving is:** 4–6 spears with a few shards of parmesan and a light drizzle of balsamic.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.16 Asparagus with Lemon-Butter Sauce
+
+Transcribed from **Canal House Cooks Every Day**, the same page as [§5.15 Roasted Asparagus](#515-roasted-asparagus). *"We first tasted a version of this very light hollandaise sauce at Ballymaloe Cookery School in Ireland. The real trick is to use good salted Irish butter, now readily available at many local supermarkets. We find that this sauce isn't as finicky as most delicate butter sauces."*
+
+> The source's margin note: *"April 16th, 48°, light rain."*
+
+**Yield:** serves 2–4
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
+
+> **Why Medium, not Hard like [§4.9 Hollandaise](#49-hollandaise-sauce):** it's built the same way — yolks, then butter whisked in over gentle heat — but the source's own note that it "isn't as finicky" and its own built-in save (whisk in a piece of cold butter to cool it back down if it starts to separate) put it in the same tier as [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) rather than alongside Hollandaise.
+
+**🔖 Want to try** — *Cody: "We haven't tried these yet, but heard they were delicious."*
+
+#### A. Ingredients
+
+**For the lemon-butter sauce**
+
+- 2 large egg yolks
+- 1 Tbsp water
+- 8 Tbsp (1 stick) cold butter, cut into 8 pieces
+- Juice of ½ lemon, or to taste
+- Pinch of cayenne, or to taste
+- Salt
+
+**For the asparagus**
+
+- 1 lb (about 12 spears) fat asparagus, peeled and trimmed
+- Salt
+- 2 lemon wedges
+
+#### B. Cooking Instructions
+
+**1. Whisk the yolks and water over low heat.**
+Whisk together the egg yolks and water in a heavy medium saucepan. Heat over low heat, whisking constantly, to prevent the yolks from "scrambling."
+
+**2. Whisk in the butter, one piece at a time.**
+Add the butter one piece at a time, whisking until each piece has melted into the sauce before adding the next. **If the sauce starts to separate,** pull the pan off the heat and whisk in another piece of cold butter to cool it back down.
+
+**3. Season, and keep it warm without a skin.**
+Remove the pan from the heat and whisk in enough lemon juice to suit your taste. Season with cayenne and salt. Keep the sauce warm by setting the pan in a larger pan of hot water over low heat. Whisk it frequently, or lay a sheet of plastic wrap directly on the surface, to keep a skin from forming.
+
+**4. Steam or boil the asparagus. 4–5 minutes.**
+Steam or boil the asparagus in a wide pot of salted water until tender. Drain.
+
+**5. Plate and serve.**
+Spoon a pool of the lemon-butter sauce onto each plate, lay the asparagus on top, and season with a little salt and a squeeze of lemon juice.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 2 (yolks only)
+- 🛒 Salted Irish butter — 8 Tbsp (1 stick)
+- 🛒 Lemon — 1 (for the sauce and the wedges)
+- 🛒 Cayenne pepper
+- 🛒 Salt
+- 🛒 Asparagus — 1 lb (about 12 spears)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,010 | 102 g | 15 g | 17 g | 9 g |
+| **Per serving** *(serves 4)* | ~250 | 26 g | 4 g | 4 g | 2 g |
+
+**What a serving is:** 3–4 spears with a generous pool of sauce underneath — figure the smaller serving count if this is the main vegetable at dinner, the larger if it's one of several sides.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter
+
+Transcribed from **Canal House Cooks Every Day**, the same book as [§5.15](#515-roasted-asparagus)–[§5.16](#516-asparagus-with-lemon-butter-sauce). *"Although this dish looks elegant, there's really nothing fancy about it — it came together quickly one day for lunch, built around a package of fresh pasta sheets and an asparagus season going full tilt. The rest is just turning simple ingredients into something satisfying."* **Some of the source's own wording was hard to make out from the photo** — paraphrased here rather than quoted directly; see Open Questions.
+
+> The source's margin note: *"April 18th, 61°, scattered clouds."*
+
+**Yield:** serves 2
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
+
+**🔖 Want to try** — *Cody: "We haven't tried these yet, but heard they were delicious."*
+
+#### A. Ingredients
+
+- 4–6 Tbsp butter
+- Juice of ½ lemon
+- 1 lb (about 12 spears) fat asparagus, peeled and trimmed
+- 2 eggs
+- Splash of vinegar
+- 4 sheets fresh pasta, each about 4 inches long
+- 1 small hunk parmigiano-reggiano
+- Maldon sea salt or fleur de sel, optional
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Get two pots going.**
+Bring a large pot of salted water to a boil for the asparagus and pasta. Bring a medium saucepan of salted water to a simmer for poaching the eggs.
+
+**2. Make the lemon butter.**
+Melt the butter in a medium skillet over medium-low heat and swirl in enough lemon juice to suit your taste. Keep warm over low heat.
+
+**3. Cook the asparagus. 4–5 minutes.**
+Cook in the pot of boiling water until tender. Lift out with a slotted spatula and drain on a clean dishcloth.
+
+**4. Poach the eggs. About 3 minutes.**
+Crack the eggs into 2 small cups. Add the vinegar to the simmering water, give it a good circular stir, then tip in 1 egg at a time into the center of the swirl. Simmer over medium-low heat until the whites are set and the yolks are still soft, about 3 minutes. Transfer to the dishcloth to drain.
+
+**5. Cook the pasta. 2–3 minutes.**
+Cook the pasta sheets in the same pot of boiling water until tender. Divide between 2 warm plates with a slotted spatula or long-handled strainer, letting most of the water drip off first.
+
+**6. Assemble.**
+Warm the asparagus through in the lemon butter, then divide the spears between the plates. Put a poached egg on each plate. Spoon the lemon butter over the asparagus and pasta. Shave some parmigiano over each plate with a vegetable peeler. Season with the sea salt, if using — it adds a nice crunch — or whatever salt you have on hand, and with pepper.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 4–6 Tbsp
+- 🛒 Lemon — for juice
+- 🛒 Asparagus — 1 lb (about 12 spears)
+- 🛒 Eggs — 2
+- 🛒 Vinegar — a splash, for poaching
+- 🛒 Fresh pasta sheets — 4, each about 4 inches
+- 🛒 Parmigiano-reggiano — a small hunk
+- 🛒 Maldon sea salt or fleur de sel — optional
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,380 | 70 g | 48 g | 127 g | 13 g |
+| **Per serving** *(serves 2)* | ~690 | 35 g | 24 g | 64 g | 6.5 g |
+
+**What a serving is:** a full plate — half the pasta, half the asparagus, one poached egg, and a shower of parmesan. A substantial lunch on its own.
+
+#### D. Open Questions
+
+- The source's intro paragraph was photographed at a steep angle and partly hard to read — the transcription above is paraphrased, not a direct quote. Worth re-photographing straight-on if the exact wording matters.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.18 Pickled Beets with Horseradish Cream
+
+Transcribed from **Canal House Cooks Every Day**. *"Beets and eggs are old friends, often pickled together in a jar full of brine. As pretty as those pink-stained eggs are, we prefer to keep the egg flavor unpickled for this salad."* Photographed as part of an Easter spread — the source's own photo caption lists it alongside Sister Frances's Potatoes, a Green Sauce with Mint & Parsley, and Roast Leg of Lamb, none of which are transcribed here.
+
+**Yield:** serves 8
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr** *(beets roast unattended)* · **Start to finish ~1 hr 20 min**
+
+**🔖 Want to try** — *Cody: "We haven't tried these yet, but heard they were delicious."*
+
+#### A. Ingredients
+
+**For the beets**
+
+- 16 small beets (2–3 lbs), trimmed
+- 3 Tbsp sugar
+- 3 Tbsp cider vinegar
+- Pepper
+
+**For the horseradish cream**
+
+- 2 Tbsp Dijon mustard
+- ⅔ cup heavy cream
+- 2–3 Tbsp finely grated fresh horseradish
+- Salt
+
+**To finish**
+
+- 4 cups watercress or baby arugula
+- 6 hard-boiled eggs, halved
+- Small handful chopped fresh chives
+
+#### B. Cooking Instructions
+
+**1. Roast the beets, wrapped in foil. About 1 hour.**
+Preheat the oven to 400°F. Wrap each beet in foil, place on a baking sheet, and roast until tender when pierced with a knife.
+
+**2. Make the pickling liquid while the beets roast.**
+Whisk the sugar and vinegar together in a large bowl until the sugar dissolves. Season with a pinch of pepper.
+
+**3. Peel, halve, and pickle the beets.**
+When the beets are done, unwrap and let cool enough to handle. Peel them — the skins should slip right off — cut in half lengthwise, and add to the bowl with the pickling liquid. Toss and set aside.
+
+**4. Make the horseradish cream.**
+Whisk together the mustard and horseradish in a small bowl, then whisk in the cream. Season with salt and adjust to taste.
+
+**5. Build the platter.**
+Make a bed of watercress or arugula on a large platter. Pile the pickled beets in the center. Arrange the halved eggs around the beets. Spoon some of the horseradish cream over the top, and scatter with the chives. Serve the remaining horseradish cream in a bowl on the side.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Small beets — 16 (2–3 lbs)
+- 🛒 Sugar — 3 Tbsp
+- 🛒 Cider vinegar — 3 Tbsp
+- 🛒 Pepper
+- 🛒 Dijon mustard — 2 Tbsp
+- 🛒 Heavy cream — ⅔ cup
+- 🛒 Fresh horseradish — 2–3 Tbsp grated
+- 🛒 Salt
+- 🛒 Watercress or baby arugula — 4 cups
+- 🛒 Eggs — 6, for hard-boiling
+- 🛒 Fresh chives — a small handful
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,720 | 96 g | 59 g | 157 g | 24 g |
+| **Per serving** *(serves 8)* | ~215 | 12 g | 7 g | 20 g | 3 g |
+
+**What a serving is:** a generous mound of pickled beets and watercress with 1½ egg halves and a spoonful of horseradish cream. *A meaningful share of the carbs is the beets' own natural sugar plus the pickling sugar, not added starch.*
+
+#### D. Open Questions
+
+- **The horseradish cream mixing step was hard to read from the photo** (steep angle, partly obscured) — the method above is reconstructed to match the printed ingredient list (mustard, horseradish, cream, salt — no sugar or vinegar in this component) rather than transcribed word-for-word. Worth confirming against a clearer photo.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -8991,6 +9286,93 @@ Slice the meat and arrange it on a warm platter with some of the juices from the
 | **Per serving** *(serves 7)* | ~670 | 59 g | 35 g | 1 g | 0.1 g |
 
 **What a serving is:** about 5–6 oz of sliced pork with a generous 2–3 Tbsp of salmoriglio spooned over. The salmoriglio is mostly olive oil, so the per-serving fat number assumes the whole bowl gets used across the meal — use less and the number drops.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower
+
+Transcribed from **Canal House Cooks Every Day**, the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce), [§5.15](#515-roasted-asparagus)–[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter), and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio). *"We restock our pantry a couple times a year through mail order so we always have specialty spices on hand for dishes like this. Garam masala, or 'hot spices,' is always on the list. The mixture that makes up this Indian seasoning varies from region to region, but always includes ones thought to warm up the body — cloves, cinnamon, nutmeg, mace, and black pepper."*
+
+> The source's margin note: *"April 12th, 51°, heavy rain & wind."*
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~35 min** · **Start to finish ~50 min**
+
+**🔖 Want to try** — *Cody: "We haven't tried these yet, but heard they were delicious."*
+
+#### A. Ingredients
+
+- 1 whole chicken
+- 2 tsp garam masala
+- Salt and pepper
+- 2 Tbsp olive or vegetable oil
+- ½ tsp fennel seeds
+- 1 small onion, minced
+- 1 Tbsp grated, peeled fresh ginger
+- 2–3 cloves garlic, grated
+- 1 head cauliflower, cut into tiny florets
+- ¼ tsp cayenne, or to taste
+- ½ cup water
+- 1 lemon, halved
+- 1 bunch scallions, chopped
+
+#### B. Cooking Instructions
+
+**1. Cut and season the chicken.**
+Cut the chicken into pieces, separating the thighs, drumsticks, and wings; cut each breast in half. There will be 10 pieces. Season them all over with the garam masala and salt and pepper.
+
+**2. Brown the chicken, in batches. About 15 minutes.**
+Heat the oil in a heavy large skillet over medium-high heat. Working in batches so the pan isn't crowded, brown the chicken all over. Transfer to a large plate.
+
+**3. Toast the fennel seeds. About 1 minute.**
+Reduce the heat to medium and pour off any excess fat from the skillet. Add the fennel seeds and toast.
+
+**4. Cook the aromatics. About 5 minutes.**
+Add the onion, ginger, and garlic and cook, stirring and scraping the bottom of the skillet with a wooden spoon to keep it from sticking.
+
+**5. Add the cauliflower and the chicken back in.**
+Add the cauliflower, cayenne, and a big pinch of salt to the skillet and stir. Arrange the chicken over the cauliflower and pour in any juices that collected on the plate.
+
+**6. Cover and cook. About 15 minutes.**
+Drizzle the water into the skillet, then cover and cook until the chicken is cooked through and the cauliflower is tender — pull the breast pieces out early if they finish first.
+
+**7. Finish with lemon and scallions.**
+Add the juice of the lemon and the chopped scallions.
+
+> **Serve with:** yogurt and/or rice and/or a big floppy flatbread like chapatis, per the source.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — spices**
+
+- 🏪 Garam masala — 2 tsp
+
+**🛒 General grocery**
+
+- 🛒 Whole chicken — 1
+- 🛒 Olive or vegetable oil — 2 Tbsp
+- 🛒 Fennel seeds — ½ tsp
+- 🛒 Onion — 1 small
+- 🛒 Fresh ginger — for 1 Tbsp grated
+- 🛒 Garlic — 2–3 cloves
+- 🛒 Cauliflower — 1 head
+- 🛒 Cayenne pepper
+- 🛒 Lemon — 1
+- 🛒 Scallions — 1 bunch
+- 🛒 Salt, pepper
+- 🛒 Yogurt, rice, and/or flatbread — for serving, optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,200 | 220 g | 235 g | 35 g | 13 g |
+| **Per serving** *(serves 4)* | ~800 | 55 g | 59 g | 9 g | 3 g |
+
+**What a serving is:** 2–3 pieces of chicken with a generous cup of the spiced cauliflower and pan juices — figures above don't include rice, yogurt, or flatbread on the side.
 
 [↑ Table of Contents](#table-of-contents)
 

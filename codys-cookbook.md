@@ -174,6 +174,8 @@ Click any recipe to jump straight to it.
 - [7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) ✅
 - [7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) ✅
 - [7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) ✅ 🔖
+- [7.40 Shrimp Risotto](#740-shrimp-risotto) ✅
+- [7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -226,6 +228,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added two more from **Canal House Cooks Every Day**, p. 46: **[§7.40 Shrimp Risotto](#740-shrimp-risotto)** — a proper risotto with its own quick shrimp-shell broth, arborio/carnaroli/vialone nano rice, and a vermouth-and-tomato base. **One honesty flag:** the broth step's exact wording and the order the vermouth, tomatoes, and lemon peel go in was hard to pin down from an angled photo with mid-word line breaks — the write-up is a faithful reconstruction from the ingredient list and standard technique, not a verified transcription, and it's logged as an Open Question. Also added **[§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)** — a short, source's-own-wording recipe with no separate ingredients block, same style as [§5.15 Roasted Asparagus](#515-roasted-asparagus). **References two source recipes not yet transcribed** — Spinach Pasta (p. 238) and a pasta-cutting technique (p. 236) — but dried tagliatelle is an explicit source-given substitute, so it's fully cookable now; also notes this cookbook's own [§T12](#t12-fast-homemade-chicken-broth)/[§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) as stand-ins for the "rich chicken broth," which isn't itself tied to a named source recipe on this page. |
 | 2026-08-10 | Added **[§9.16 Deviled Eggs](#916-deviled-eggs)** from **Canal House Cooks Every Day**, p. 71 — classic sieved-yolk deviled eggs with mayonnaise, sour cream, and Dijon, plus the source's own quick alternative, **"Buttered" Eggs**, folded in as a callout rather than a separate entry since it has no ingredient list of its own. Notes the same open reference as [§9.15](#915-anchovy--lemon-butter): **Preserved Lemon (source page 294) still isn't transcribed**, now referenced by two recipes. **Also caught and fixed real TOC/body mismatches found while editing this section — not something this batch introduced, just finally noticed, and not limited to §9:** [§9.10 Crabmeat Avery](#910-crabmeat-avery) is rated 🔖 in its own body text but was missing that marker in the Table of Contents, while [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) had a 🔖 marker in the TOC despite carrying no rating at all in its body. Running the same check across the whole file turned up a second pair: [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) is rated 👍 in its body but was missing the TOC marker, while [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) had a stray 👍 in the TOC despite never actually being rated by Cody. All four fixed. **Worth flagging for future validation passes:** the aggregate-count check this cookbook has been using (body rating count = TOC marker count) can't catch a swap like this, where one recipe is missing a marker and a different one has an extra of the same type — the totals still balance either way. A per-recipe body-vs-TOC comparison is the real check, and it's now been run once across the whole file. |
 | 2026-08-10 | **Five more from Canal House Cooks Every Day — turns out the previous batch didn't close out the source after all.** [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) — a whole cut-up chicken browned then braised with garam masala, fennel seed, ginger, and cauliflower. Three asparagus recipes from the same source page and neighboring pages: [§5.15 Roasted Asparagus](#515-roasted-asparagus) (oven-roasted with shaved parmigiano and aged balsamic), [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) (a yolk-and-butter emulsion the source itself calls "a very light hollandaise," rated Medium rather than Hard alongside [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) since it comes with its own built-in save), and [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) — **all three explicitly kept separate from [§5.2 Asparagus](#52-asparagus)**, which is Cody's own still-undocumented go-to method, not this source. Also added [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream), added last per Cody's instruction to sequence it after the others. **Cody gave a blanket verdict covering this whole batch** — *"we haven't tried these yet but heard they were delicious"* — so all five are tagged 🔖 Want to try, alongside [§4.59 Tonnato Sauce](#459-tonnato-sauce); Family Ratings Index now shows 19 want-to-try entries. **Not retroactively applied to earlier Canal House entries** (§4.52–§4.58, §7.34–§7.38) since Cody's comment wasn't confirmed to cover those specifically — flagged as worth a direct check rather than assumed. **One flagged gap:** the Pickled Beets' horseradish-cream mixing step was hard to read from a steep-angle photo: reconstructed from the printed ingredient list (no sugar or vinegar in that component) rather than transcribed word-for-word, and logged as an Open Question. The asparagus-on-pasta intro paragraph was similarly hard to read and is paraphrased rather than quoted directly. |
 | 2026-08-10 | **Two more from Canal House Cooks Every Day, closing out this source for now.** [§4.59 Tonnato Sauce](#459-tonnato-sauce) — written up **as a standalone sauce rather than a tomato recipe**, per Cody's explicit instruction (*"make it so that you can add it to other things too... it looks more like a white sauce"*): a yolk-and-oil emulsion built the same way as [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one), then run through a tuna-anchovy-caper purée and sieved smooth. The source's own serving list — boiled potatoes, grilled chicken, steamed vegetables hot or cold, with tomatoes as just one option — is called out explicitly; T16's own "Used in" line now points back at it. **Rated 🔖 Want to try**, per *"it comes with high praise but we haven't tried it yet"* — added to the Family Ratings Index, now 14 want-to-try entries. Also added **[§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)** — dry-brined pork shoulder, rubbed with a chopped anchovy-herb paste, browned, then covered and braised at 300°F for about 3 hours until fork-tender, served with a garlic-oregano-parsley-lemon salmoriglio passed at the table. **A possible grill adaptation is flagged as Cody's own idea, clearly marked as untested and not from the source** — per *"we might be able to do this on the grill as well."* Left unrated since Cody didn't give this one a verdict the way he did the tonnato sauce. |
@@ -387,6 +390,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
+| [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§9.12 Potted Crab](#912-potted-crab) | 🟢 | 15 min | 5 min | — | 4 hr 20 min *(3+ hr chill, 1 hr temper)* |
 | [§4.59 Tonnato Sauce](#459-tonnato-sauce) 🔖 | 🟡 | 20 min | — | — | 20 min |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
@@ -437,6 +441,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
 | [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
+| [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -466,7 +471,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 67 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 68 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -9376,6 +9381,142 @@ Add the juice of the lemon and the chopped scallions.
 | **Per serving** *(serves 4)* | ~800 | 55 g | 59 g | 9 g | 3 g |
 
 **What a serving is:** 2–3 pieces of chicken with a generous cup of the spiced cauliflower and pan juices — figures above don't include rice, yogurt, or flatbread on the side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.40 Shrimp Risotto
+
+Transcribed from **Canal House Cooks Every Day**, p. 46 — the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce), [§5.15](#515-roasted-asparagus)–[§5.18](#518-pickled-beets-with-horseradish-cream), and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.39](#739-fennel--ginger-rubbed-chicken-with-cauliflower). *"Risotto is traditionally made with short-grain Italian rice grown in Piedmont's Po Valley. There are three main varieties of that rice: arborio, with large plump grains, produces a looser (wavy) risotto; carnaroli, smaller grains, produces a starchy risotto; and vialone nano, with firm grains, cooks up soft with a kernel of chewiness in the center, just the way Italians like it."*
+
+> The source's margin note: *"May 12th, 75°, puffy clouds."*
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~45 min** · **Start to finish ~1 hr**
+
+#### A. Ingredients
+
+- 1 lb shrimp
+- 4 Tbsp butter, divided
+- 1 Tbsp extra-virgin olive oil
+- 2 small onions, finely chopped, divided
+- 1 rib celery, finely chopped
+- 1 carrot, finely chopped
+- 1 clove garlic, sliced
+- Handful of parsley stems, chopped
+- Salt and pepper
+- One 14-oz can crushed tomatoes
+- ⅔ cup dry vermouth, divided
+- Peel of 1 lemon
+- 1 cup arborio, carnaroli, or vialone nano rice
+
+#### B. Cooking Instructions
+
+**1. Peel and devein the shrimp, keeping the shells.**
+Set the shrimp aside; the shells go into the broth.
+
+**2. Build a quick shellfish broth. About 25 minutes.**
+Melt 1 Tbsp of the butter with the olive oil in a large pot over medium-high heat. Add the shrimp shells, half of the onions, the celery, carrot, garlic, and parsley stems. Season with salt and pepper and sauté until golden, about 10 minutes. Add the tomatoes and half the vermouth, and cook for a few minutes more. Add 4 cups water and the lemon peel, and simmer for 15 minutes. Strain the broth, then return it to the pot; set it on the stove off the heat, ready to ladle from.
+
+**3. Cook the remaining onions in butter. About 3 minutes.**
+Melt 2 Tbsp of the butter in a heavy deep sauté pan over medium-high heat. Add the remaining onions and cook, stirring constantly with a wooden spoon, until soft and translucent.
+
+**4. Toast the rice and add the rest of the vermouth.**
+Add the rice, stirring until it is coated with butter. Add the remaining vermouth and let it cook off, stirring.
+
+**5. Add the broth gradually, stirring, until the rice is tender. About 20 minutes.**
+Add ½ cup of the hot broth, stirring constantly to keep the rice from sticking to the bottom of the pan and pushing any rice that climbs the sides back down into the liquid. When the rice has absorbed all the broth, add another ½ cup. Keep adding broth and stirring until the rice is tender with a firm center — taste it to check.
+
+**6. Finish with the shrimp and the last of the butter.**
+Add the shrimp and the remaining 1 Tbsp of butter and stir until the butter has melted in and the shrimp is cooked through.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shrimp — 1 lb
+- 🛒 Butter — 4 Tbsp
+- 🛒 Extra-virgin olive oil — 1 Tbsp
+- 🛒 Onions — 2 small
+- 🛒 Celery — 1 rib
+- 🛒 Carrot — 1
+- 🛒 Garlic — 1 clove
+- 🛒 Parsley — a handful of stems
+- 🛒 Salt, pepper
+- 🛒 Crushed tomatoes — one 14-oz can
+- 🛒 Dry vermouth — ⅔ cup
+- 🛒 Lemon — 1, for the peel
+- 🛒 Arborio, carnaroli, or vialone nano rice — 1 cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,950 | 64 g | 108 g | 190 g | 11 g |
+| **Per serving** *(serves 4)* | ~490 | 16 g | 27 g | 48 g | 3 g |
+
+**What a serving is:** about 1½ cups — a generous dinner bowl.
+
+#### D. Open Questions
+
+- **The broth step's exact wording and the order the vermouth, tomatoes, and lemon peel go in was hard to pin down from the photo** (the page is photographed at an angle with some line-wrap hyphenation). The version above is a faithful, sensible reconstruction from the ingredient list and standard shellfish-broth technique, not a verified word-for-word transcription. Worth double-checking against a clearer photo.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth
+
+Transcribed from **Canal House Cooks Every Day**, the same page as [§7.40 Shrimp Risotto](#740-shrimp-risotto). A short, source's-own-wording recipe — no separate ingredients block on the page, just this paragraph with quantities built in, the same short-form style as [§5.15 Roasted Asparagus](#515-roasted-asparagus).
+
+**References two source recipes not yet transcribed here:** Spinach Pasta (source p. 238) and a pasta-cutting technique (source p. 236) for turning it into tagliatelle. The recipe itself allows dried tagliatelle as a substitute, so it's fully cookable without either. **"Rich chicken broth" isn't tied to a specific named source recipe on this page** — this cookbook's own [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) or [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) are reasonable stand-ins, or use good store-bought broth.
+
+**Yield:** serves 6
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- 8 cups rich chicken broth
+- Salt
+- ½ recipe Spinach Pasta (source p. 238), cut into tagliatelle (source p. 236), or ½ lb dried tagliatelle
+- 2 cups fresh or frozen peas
+- Grated parmigiano-reggiano, for serving, if you like
+
+#### B. Cooking Instructions
+
+**1. Bring the broth to a boil and season.**
+Heat the chicken broth in a heavy large pot over medium-high heat. When it comes to a boil, taste and season with salt.
+
+**2. Cook the pasta in the broth. About 1 minute.**
+Add the spinach tagliatelle (or dried tagliatelle) and cook.
+
+**3. Add the peas and finish. About 1 minute more.**
+Add the peas and cook until the pasta is done.
+
+**4. Serve with parmesan.**
+Ladle into bowls with a sprinkling of grated parmigiano-reggiano, if you like.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Rich chicken broth — 8 cups, homemade or good store-bought
+- 🛒 Salt
+- 🛒 Fresh or dried tagliatelle — ½ recipe fresh spinach pasta, or ½ lb dried
+- 🛒 Peas, fresh or frozen — 2 cups
+- 🛒 Parmigiano-reggiano — for grating over, optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(using dried tagliatelle and a light parmesan sprinkle)* | ~1,470 | 25 g | 82 g | 209 g | 21 g |
+| **Per serving** *(serves 6)* | ~245 | 4 g | 14 g | 35 g | 3.5 g |
+
+**What a serving is:** a generous bowl — about 1¼ cups of broth with pasta and peas, plus a sprinkle of parmesan. Using fresh spinach pasta instead of dried will shift these numbers somewhat.
 
 [↑ Table of Contents](#table-of-contents)
 

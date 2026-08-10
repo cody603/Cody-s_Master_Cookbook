@@ -34,6 +34,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) ✅
   - [4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) ✅
   - [4.20 Meunière Sauce](#420-meunière-sauce) ✅
+  - [4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -145,6 +146,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish)** from *Louisiana Kitchen*, p. 265–266 — a quick cream-and-Parmesan sauce with julienned squash, zucchini, and onion. **Notably self-contained**: no roux, no stock, none of the missing referenced pages that most of this book's other Prudhomme recipes carry. The source's julienne cut is specific (⅛-inch strips, skin-on peelings only) and kept as its own callout rather than folded into a step, since substituting a quick dice would change the dish. |
 | 2026-08-09 | Added three more sauces from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 242–243): **[§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce)** (deliberately boiled, unlike most butter sauces), **[§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce)** (a Cajun beurre noisette — salted butter specified because it browns more easily), and **[§4.20 Meunière Sauce](#420-meunière-sauce)** (the sixth recipe here needing Basic Seafood Stock, page 32 — now the single most-requested missing page after the page-31 stocks). Both butter sauces carry an explicit note on why their technique looks unusual against the rest of the book: §4.18 boils on purpose where a beurre blanc would break, and §4.19 is rated by color, not clock — light brown and foamy is the target, and it's a fast trip past that to bitter. |
 | 2026-08-09 | Added **[§4.17 Giblet Gravy](#417-giblet-gravy)** from *Louisiana Kitchen*, p. 245 — completed from two photos, the second supplying the ingredients and instructions the first left off mid-list. **Rated Medium, not Hard, and explained why:** the roux here cooks to medium brown over medium heat with the meat and vegetables already in the pan, distinct from the smoking-hot, seconds-to-burn dark roux in [§T1](#t1-how-to-make-a-roux) and [§4.12](#412-fish-brown-sauce) — genuinely a gentler technique, not an inconsistent rating. **Strengthens the page-31 stock pattern:** this is now the third recipe to cite Basic Chicken Stock at that exact page, alongside a fourth citing Basic Beef or Pork Stock there too — strong evidence it's worth photographing on its own. |
 | 2026-08-09 | Added five sauces and gravies from **Chef Paul Prudhomme's *Louisiana Kitchen***, transcribed from its *Sauces & Gravies* chapter: **[§4.12 Fish Brown Sauce](#412-fish-brown-sauce)** (a second dark roux — 🔴 Hard, the fifth in this cookbook to need [§T1](#t1-how-to-make-a-roux)'s technique), **[§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce)**, **[§4.14 Creole Sauce](#414-creole-sauce)**, **[§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce)**, and **[§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy)**. **§4.14 exactly closes [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)'s open question** — that recipe cited "Creole Sauce, page 248," and the transcribed page number matches exactly, confirmed rather than assumed. **New pattern spotted:** §4.13 and §4.16 both cite "Basic Chicken Stock" / "Basic Beef or Pork Stock" at page 31 — likely several basic stocks run together on one page, distinct from the Basic Seafood Stock at page 32 that five other recipes here already need. **Giblet Gravy intentionally not added yet** — Cody flagged its instructions are still to come in a follow-up photo. |
@@ -255,6 +257,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
@@ -1949,6 +1952,83 @@ Gradually whisk in the Worcestershire, add the salt, and continue cooking, whisk
 #### D. Open Questions
 
 - **Basic Seafood Stock (page 32)** — the same gap as [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§4.8](#48-shrimp-and-crab-butter-cream-sauce), and [§4.12](#412-fish-brown-sauce). **This is the sixth recipe in this cookbook that needs it** — second only to the page-31 chicken/beef stocks in how often it comes up.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.21 Czarina Sauce with Shrimp (or Crawfish)
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 265–266). A quick cream-and-Parmesan sauce with julienned squash and zucchini, built around shrimp or crawfish — no roux, no stock, no long list of missing referenced pages.
+
+> **Per the source:** serve over pasta, fish, veal, or rice. Portion by what it's going over — about 3 medium-to-large shrimp (or a scant ¼ cup crawfish tails) per person over veal or fish; about 10–12 shrimp (or a scant 1 cup crawfish tails) per person over pasta or rice.
+
+**Yield:** 6 to 8 servings
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~25 min**
+
+**Techniques used:** [T6 Seafood Notes](#t6-seafood-notes) — *on the shrimp/crawfish swap, and on not overcooking either*
+
+> **The vegetable cuts are specific — julienne, not diced.** The source's own note: cut peelings from the squash and zucchini ⅛ inch thick, then cut those peelings into strips ⅛ inch wide and 2 inches long, **using only strips that still have skin on one surface**. Cut the onions into matching strips. That's what makes this a julienne sauce rather than a chunky one — worth doing properly rather than substituting a quick dice.
+
+#### A. Ingredients
+
+- 5 Tbsp unsalted butter, **in all**
+- 1 cup julienned onions — *see the note above*
+- 1 cup julienned yellow squash — *see the note above*
+- 1 cup julienned zucchini — *see the note above*
+- 1 tsp ground red pepper, preferably cayenne
+- ½ tsp white pepper
+- 1 Tbsp lemon juice
+- Peeled shrimp or crawfish tails — *portioned per the yield note above*
+- 2 cups heavy cream
+- ½ cup finely grated Parmesan cheese, preferably imported
+- ½ tsp salt
+
+#### B. Cooking Instructions
+
+**1. Sauté the onions, squash, and zucchini. About 2 minutes.**
+Melt **4 Tbsp** of the butter in a 2-quart saucepan, preferably nonstick, over high heat. Add the vegetables and sauté, stirring occasionally, until they start to get tender.
+
+**2. Add the peppers. About 1 minute.**
+Stir in the ground red pepper and white pepper, cooking briefly.
+
+**3. Add the lemon juice and seafood. About 1 minute, until just pink.**
+Stir in the lemon juice and the shrimp or crawfish. Cook only until the seafood turns pink — per [§T6](#t6-seafood-notes), this is a fast step and it's easy to overshoot.
+
+**4. Stir in the cream, remaining butter, and Parmesan. Heat through.**
+Add the cream, the remaining **1 Tbsp** butter, and the Parmesan. Cook, stirring constantly, until heated through.
+
+**5. Off heat, stir in the salt and serve immediately.**
+About ½ cup of sauce per serving, including the seafood.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 5 Tbsp
+- 🛒 Onion — 1 cup julienned
+- 🛒 Yellow squash — 1 cup julienned
+- 🛒 Zucchini — 1 cup julienned
+- 🛒 Ground red pepper (cayenne), white pepper, salt
+- 🛒 Lemon — for 1 Tbsp juice
+- 🛒 Heavy cream — 2 cups
+- 🛒 Parmesan cheese, finely grated, imported preferred — ½ cup
+
+**🏪 Specific store — fish market**
+
+- 🏪 Peeled shrimp or crawfish tails — *per [§T6](#t6-seafood-notes), don't substitute one for the other unless a recipe explicitly allows it, which this one does*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,100 | 250 g | 140 g | 30 g | 3 g |
+| **Per serving** *(serves 7)* | ~440 | 36 g | 20 g | 4 g | 0.4 g |
+
+**What a serving is:** about ½ cup of sauce, including its share of shrimp or crawfish — over a portion of pasta, fish, veal, or rice, per the source's own serving note.
+
+*Assumes about 1½ lb of shrimp — the mid-point of the source's portioning range for pasta or rice service. Whatever it's served over (pasta, rice) is not included above.*
 
 [↑ Table of Contents](#table-of-contents)
 

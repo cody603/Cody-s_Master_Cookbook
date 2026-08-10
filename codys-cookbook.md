@@ -22,6 +22,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) ✅
   - [4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ✅
   - [4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ✅
+  - [4.9 Hollandaise Sauce](#49-hollandaise-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -133,6 +134,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§4.9 Hollandaise Sauce](#49-hollandaise-sauce)** from *Louisiana Kitchen* (p. 258–259) — **the second of [§7.3](#73-seafood-stuffed-flounder)'s three missing sauces. Only Béarnaise (p. 306) is left.** Rated **🔴 Hard**, the sixth, and it adds a *fourth* kind of hard to the book: **an emulsion that breaks and can't be rescued** — distinct from roux, from Pho's sprawl, and from §7.3's binder-and-heat problem. Prudhomme's own explanation of *why* the sauce works (air bubbles in the yolks; heat after the butter goes in bursts them; body temperature is the target) is kept as its own section up front, since every instruction follows from it. Also captured: his unusual step of **separating the melted butter into surface butterfat and bottom solids** and using each for a different job — solids for flavor and thinning, butterfat for thickening. |
 | 2026-08-09 | Added **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — **which closes one third of [§7.3](#73-seafood-stuffed-flounder)'s open question**, since that recipe named this exact sauce as one of three finishing options not in the cookbook. Hollandaise (p. 258) and Béarnaise (p. 306) are still outstanding. **Flagged prominently: this is a *blond* roux — the opposite of [§T1](#t1-how-to-make-a-roux).** The source says outright *"if mixture starts to brown, remove from heat,"* which directly inverts the dark-roux instinct every other Cajun recipe here trains. |
 | 2026-08-09 | **Source book identified: Chef Paul Prudhomme's *Louisiana Kitchen*.** The running header on the §4.8 page named it, and its page references line up exactly with three recipes already transcribed — so **[§7.3](#73-seafood-stuffed-flounder)**, **[§7.20](#720-chicken-and-seafood-jambalaya)**, **[§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)**, and **[§4.8](#48-shrimp-and-crab-butter-cream-sauce)** all now credit it by name instead of "a printed Cajun cookbook." **Practical upshot: *Basic Seafood Stock*, page 32, is the single most valuable page left to photograph** — four separate recipes here call for it and none can be made as written without it. |
 | 2026-08-09 | Filled the **[§7.3](#73-seafood-stuffed-flounder)** placeholder with **Seafood Stuffed Flounder**, from the same Cajun cookbook as §7.20 and §8.5 (same *Basic Seafood Stock* reference, still missing). Carries Cody's margin note — **"12/5/14 ★ Delish!"** — so it has a track record. Rated **🔴 Hard**, the fifth: not for its ingredient list but for three real failure points, called out up top — a butter-flour binder that can break and weep oil *(the recipe anticipates it and gives the fix)*, stuffing that must be fully chilled or it won't hold, and a **550°F** finish where the tails burn without foil. **Noted rather than assumed:** the old §7.3 stub was generic "Flounder," so if Cody meant a simpler everyday preparation that's still open — **[§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** covers the easy pan-fried route. Also flagged: 550°F is hotter than many home ovens will hold. |
@@ -222,6 +224,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
@@ -258,7 +261,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **🥑 Keto / low-carb — 5 recipes.** All four come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The five 🔴 Hard ones come down to three problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§1 Pho](#1-codys-pho) is hard for another: **two days and many moving parts**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) is hard for a third: **a binder that can break, stuffing that must chill, and a 550°F finish**. Learn the roux once and three of the five stop being hard.
+**The six 🔴 Hard ones come down to four problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§1 Pho](#1-codys-pho) is hard for another: **two days and many moving parts**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a third: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a fourth: **an emulsion that breaks and can't be rescued**. Learn the roux once and three of the six stop being hard.
 
 *Recipes still in placeholder form (§3, §5.1–5.9, §6, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **§6 Smoked Meats will all be Slow cook** when written up.*
 
@@ -1110,6 +1113,107 @@ The source serves it over **Stuffed Mirliton** (p. 72 — *[mirliton is chayote;
 
 - **Basic Seafood Stock (page 32)** — still the outstanding gap, now shared by four recipes from this same book ([§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and this one). **Page 32 is the single most valuable page left to photograph.**
 - **Stuffed Mirliton (page 72)** isn't in this cookbook either — worth adding, since it's the dish this sauce was written for.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.9 Hollandaise Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 258–259, *Sauces & Gravies*). The classic egg-yolk-and-butter emulsion, with Prudhomme's own distinctive handling: the melted butter gets **separated into surface butterfat and bottom solids**, and the two go in at different stages for different jobs.
+
+> **This is the second of the three sauces [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) calls for.** With [§4.8](#48-shrimp-and-crab-butter-cream-sauce) already written up, only **Béarnaise (p. 306)** is still missing. The source also serves this over its Roasted Goose with stuffing (p. 148), which isn't in this cookbook.
+
+**Yield:** about 2⅔ cups
+
+**🔴 Hard** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min** *(serve immediately — this sauce does not wait well)*
+
+**Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) *(on why unsalted butter)*
+
+> ⚠️ **Rated Hard because a hollandaise breaks, and once broken it does not come back.** Three rules carry the whole recipe: **the bowl must never touch the water**, **no heat once the butter starts going in**, and **never reheat it**. Read Part B before starting.
+
+#### A. Why It Works — Prudhomme's Own Explanation
+
+Worth reading first; it makes every instruction below make sense. In his words, from experience rather than chemistry:
+
+- **You beat the yolks over heat to fill them with air bubbles** — but control the heat so the yolks don't harden. The yolks have to stay **liquid** for the butter to enter, fill, and expand those bubbles.
+- **Once the butter starts going in, no more heat.** More heat expands the oil too much, bursts the air bubbles, and you get a separated sauce.
+- **Don't reheat a finished hollandaise**, for the same reason.
+- **But don't let it get cold either** — the oil congeals, contracts, and bursts the bubbles from the other direction.
+- **The target is body temperature.** That's the whole balance.
+
+*He also specifically recommends **unsalted** butter for this sauce and all its variations — simply because it's the better product. That matches [§T3](#t3-butter-oil-pan-frying--frying)'s standing rule.*
+
+#### B. Ingredients
+
+- 1 lb unsalted butter
+- 4 Tbsp margarine
+- 4 egg yolks
+- 2 tsp white wine
+- 2 tsp lemon juice
+- ½ tsp Tabasco sauce
+- ½ tsp Worcestershire sauce
+
+**Equipment:** a medium stainless steel mixing bowl or double-boiler top, a metal whisk, a large glass measuring cup, and a ladle.
+
+#### C. Cooking Instructions
+
+**1. Melt the butter and margarine, boil, then cool 5 minutes.**
+Melt together in a 1-quart saucepan over low heat, then raise the heat and bring to a **rapid boil**. Remove from heat and cool 5 minutes.
+
+**2. Skim the foam, then pour into a glass measuring cup and let it settle.**
+Discard the foam. Pouring into a **glass** cup is the point — you need to see the two layers, because **surface butterfat and bottom solids get used separately** in steps 5–7.
+
+**3. Meanwhile, whisk the yolks and seasonings together.**
+In a stainless steel bowl or double-boiler top, combine the egg yolks, white wine, lemon juice, Tabasco, and Worcestershire. Whisk with a metal whisk until blended.
+
+**4. Whip over simmering water. 6–8 minutes, until light, creamy, and glossy.**
+Set the bowl over **slowly simmering — not boiling — water. The bowl must never touch the water.** Whisk vigorously, **lifting the bowl frequently to let steam escape**, until the mixture is very light and creamy and **has a sheen**.
+
+*Don't cut this short. Prudhomme is explicit that this amount of beating is what lets the cooked eggs hold the butter later — it's the whole foundation of the emulsion.*
+
+**5. Off the heat, work in about 1 cup of the surface butterfat — a ladle at a time.**
+Take the bowl off the water. **No more heat from here on.** Ladle in about ¼ cup of the **top butterfat** (not the solids) while whipping vigorously. **Make sure each addition is fully mixed in before adding more.** Keep going until you've added about 1 cup.
+
+**6. Reserve ½ cup butterfat, then work in the bottom solids.**
+Ladle about ½ cup of surface butterfat into a separate container and set it aside. Now ladle **all but ⅓ cup of the bottom solids** into the sauce, whisking well. *The solids add flavor and thin the sauce.* Any solids left over can go into another dish.
+
+**7. Whisk the reserved butterfat back in to thicken — as much as it needs.**
+Gradually whisk in enough of the reserved top butterfat to produce a **fairly thick** sauce. **The butterfat is what thickens it, so you may not need all of it** — stop when the texture is right.
+
+**8. Serve immediately.**
+Or as soon as possible, holding it somewhere warm — on top of the stove is Prudhomme's suggestion. Warm, never hot, never cold.
+
+#### D. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 1 lb
+- 🛒 Margarine — 4 Tbsp
+- 🛒 Eggs — 4, for the yolks
+- 🛒 White wine — 2 tsp
+- 🛒 Lemon — for 2 tsp juice
+- 🛒 Tabasco sauce
+- 🛒 Worcestershire sauce
+
+**Not a grocery item, but wanted:** a stainless steel bowl or double boiler, a metal whisk, a large **glass** measuring cup *(so you can see the butterfat and solids separate)*, and a ladle.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~3,300 | 366 g | 13 g | 3 g | 0 g |
+| **Per serving** *(about 3 Tbsp, of roughly 14)* | ~235 | 26 g | 1 g | 0 g | 0 g |
+
+**What a serving is:** about 3 Tbsp — a generous spoonful over one piece of fish, one portion of goose, or a couple of poached eggs. **It's a sauce, so this sits on top of whatever it's served over.**
+
+*This is essentially pure butter and egg yolk, so it's almost entirely fat. Skimmed foam and leftover butter solids are excluded — roughly 85% of what's melted ends up in the finished sauce.*
+
+#### E. Open Questions
+
+- **Béarnaise Sauce (p. 306)** is the last of §7.3's three sauces still missing.
+- **Roasted Goose with stuffing (p. 148)** — the source's other serving suggestion for this sauce, also not in this cookbook. *(The exact stuffing name was obscured in the photo.)*
+- **Margarine alongside butter** is unusual in a hollandaise. Per [§T3](#t3-butter-oil-pan-frying--frying), margarine stands in for *oil* rather than butter — worth noting it's likely there to help the emulsion hold, but the source doesn't say why.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2670,17 +2774,17 @@ As is, or topped with a sauce — see Part E.
 
 - **Basic Seafood Stock (page 32)** — the same gap as [§7.20](#720-chicken-and-seafood-jambalaya) and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); that page still isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute, or use a good store-bought seafood stock.
 - **550°F is unusually hot** — hotter than many home ovens will go, and hotter than most will hold cleanly. Worth confirming what Cody's oven actually did on 12/5/14, and whether a lower temperature for longer worked.
-- **The three finishing sauces** — one down, two to go. **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) (p. 254) is now written up here.** Hollandaise (p. 258) and Béarnaise (p. 306) still aren't. *(Jarred hollandaise is already used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you want that route.)*
+- **The three finishing sauces** — two down, one to go. **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) (p. 254)** and **[§4.9 Hollandaise Sauce](#49-hollandaise-sauce) (p. 258)** are both written up here now. Only **Béarnaise (p. 306)** is still missing. *(Jarred hollandaise is used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you'd rather not make §4.9 from scratch.)*
 
 #### E. Serving Suggestions
 
 Serve immediately, either plain or topped with one of the source book's sauces:
 
-- **Hollandaise** *(p. 258 of the source)*
+- **[Hollandaise](#49-hollandaise-sauce)** — ✅ **written up at §4.9**
 - **[Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — ✅ **written up at §4.8**
 - **Béarnaise** *(p. 306)*
 
-One of the three is now in this cookbook; the other two aren't yet — see Open Questions.
+Two of the three are now in this cookbook; only Béarnaise is still missing — see Open Questions.
 
 [↑ Table of Contents](#table-of-contents)
 

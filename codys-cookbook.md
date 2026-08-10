@@ -68,7 +68,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 - [7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) ○
 - [7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) ○
-- [7.3 Flounder](#73-flounder) ○
+- [7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ✅ ⭐ *("Delish!" 12/5/14)*
 - [7.4 Pork Chops](#74-pork-chops) ○
 - [7.5 Chicken Thighs](#75-chicken-thighs) ○
 - [7.6 Chicken Hearts](#76-chicken-hearts) ○
@@ -132,6 +132,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Filled the **[§7.3](#73-seafood-stuffed-flounder)** placeholder with **Seafood Stuffed Flounder**, from the same Cajun cookbook as §7.20 and §8.5 (same *Basic Seafood Stock* reference, still missing). Carries Cody's margin note — **"12/5/14 ★ Delish!"** — so it has a track record. Rated **🔴 Hard**, the fifth: not for its ingredient list but for three real failure points, called out up top — a butter-flour binder that can break and weep oil *(the recipe anticipates it and gives the fix)*, stuffing that must be fully chilled or it won't hold, and a **550°F** finish where the tails burn without foil. **Noted rather than assumed:** the old §7.3 stub was generic "Flounder," so if Cody meant a simpler everyday preparation that's still open — **[§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** covers the easy pan-fried route. Also flagged: 550°F is hotter than many home ovens will hold. |
 | 2026-08-09 | **A long-standing open question is settled: "Capt. Mike's seasoning" is not a store brand.** [§7.13 Crawfish Elegante](#713-crawfish-elegante) has carried that question since it was transcribed — its card called for a seasoning nobody could identify. Cody identified it as a **blend**, now documented at **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)**: onion and garlic salt, white pepper, cayenne, black pepper, sweet basil, bay leaf, oregano, thyme — with **white pepper as the defining note**, per Cody. §7.13's ingredient line, grocery list, and Open Questions all updated; the question is marked settled rather than deleted. Proportions still aren't recorded, so that carries forward as a new open question on §4.7. |
 | 2026-08-09 | Added **[§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche)** — raw fish cured 36–48 hours in lime juice, no heat anywhere, from Captain Mike's card with his "Captain's Log" notes kept as a fish-selection table. **Carries a prominent freshness warning**, combining Cody's rule (*if you can't get genuinely fresh shrimp, don't make ceviche with shrimp*) with the card's own — since an acid cure isn't heat and doesn't make questionable seafood safe. The card's claim that fresh-frozen can beat "fresh" is confirmed and explained inline: commercial freezing kills parasites, which is why sushi-grade fish is frozen. Filed as **Slow cook 36–48 hr** — an edge case for the §3a rule, since the waiting *is* the cooking even with no heat involved. |
 | 2026-08-09 | Added two Thanksgiving sides from a photocopied pair of handwritten family recipes: **[§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole)** (attributed on the card to *Mika in Alaska*) and **[§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing)** (marked *mom's recipe*). New 🦃 marker in the Table of Contents for holiday sides. **Two things added that the cards don't say:** §5.12 carries a food-safety note — stuffing cooked inside a bird has to reach **165°F at the center of the stuffing**, and it's the last thing to get there; and §5.11 flags that the bake instruction appears to read *covered*, which conflicts with a cornflake topping that normally bakes uncovered to crisp — left as an Open Question rather than silently corrected. §5.12's cornbread cross-links to **[§11.3](#113-keto-skillet-cornbread)** as one way to make the 4 cups it needs. |
@@ -154,7 +155,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 | 2026-08-09 | Added **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** — transcribed from a printed cookbook page, a second and more seafood-forward jambalaya alongside **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)** (cross-linked both ways, and from the **[§T7 glossary's Jambalaya entry](#t7-louisiana-language--ingredients)**). Three transcription ambiguities flagged in Open Questions rather than silently resolved: the source's "Basic Seafood Stock (page 32)" and "Creole Sauce (page 248)" aren't in this cookbook, and the instructions wrap across a page break in a way that left the exact wording around adding the chicken, and around a possible duplicate rice addition, uncertain — both reconstructed to the most sensible reading and flagged for confirmation against the original page. |
 | 2026-08-09 | Added **[§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)** — transcribed from a printed lifesambrosia.com recipe. Filed alongside §5.9 Goat Cheese Salad as the cookbook's second salad. Noted inline that the card's 5-minute pasta cook time runs short for rotini — go by the package. Open Question flagged on when the avocado goes in, since it's sliced into a salad that then chills 30 minutes, and sliced avocado browns fast. |
 | 2026-08-09 | Added **[§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth)** — a rotisserie-chicken carcass plus a quart of store-bought broth, simmered 30 minutes into 2 quarts. Wired to **[§T9's rotisserie-chicken tip](#f-tips-and-tricks)** both ways, since the same bird that gives you the shredded meat also gives you the bones for this broth. **Distinguished from [§T4](#t4-stocks--ingredient-conventions)** rather than left to overlap with it — §T4 is the from-scratch, hours-long stock; §T12 is the fast doctor-up built to match how quick the rest of Cody's soup formulas are meant to be. |
-| 2026-08-09 | Added **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — the master technique plus the three cuts it's written for (chicken breasts, boneless pork loin chops, white-fleshed fish fillets) with each one's timing and prep. **Conflict flagged and reconciled:** this technique starts butter and oil in a *medium-low* pan, which directly contradicts **[§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)**. Both are right for their case, so §T2 now lists butter-sautéing alongside deep frying as a named exception and carries an *Exceptions* line up top; §T11 explains why (the butter is the thermometer). Also wired: §T11 ↔ **[§T8 Pan Sauce](#t8-pan-sauce-formula)** as two halves of one skillet, and the **[§7.3 Flounder](#73-flounder)** and **[§7.4 Pork Chops](#74-pork-chops)** stubs now point at §T11 for method. *The source's All-Purpose Salsa and uncooked relishes (its pages 210–211) weren't photographed — noted inline as a gap.* |
+| 2026-08-09 | Added **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — the master technique plus the three cuts it's written for (chicken breasts, boneless pork loin chops, white-fleshed fish fillets) with each one's timing and prep. **Conflict flagged and reconciled:** this technique starts butter and oil in a *medium-low* pan, which directly contradicts **[§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)**. Both are right for their case, so §T2 now lists butter-sautéing alongside deep frying as a named exception and carries an *Exceptions* line up top; §T11 explains why (the butter is the thermometer). Also wired: §T11 ↔ **[§T8 Pan Sauce](#t8-pan-sauce-formula)** as two halves of one skillet, and the **[§7.3 Flounder](#73-seafood-stuffed-flounder)** and **[§7.4 Pork Chops](#74-pork-chops)** stubs now point at §T11 for method. *The source's All-Purpose Salsa and uncooked relishes (its pages 210–211) weren't photographed — noted inline as a gap.* |
 | 2026-08-09 | Added **[§T10 Loaded Frittata Formula](#t10-loaded-frittata-formula)** — the third slot formula, after §T8 pan sauces and §T9 soups, with all 8 named frittatas as a table and an *At a glance* summary. Filed in the Techniques section for the same reason as the other two: it's a template, not a dish. **[§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)** now cross-links to it. **Two things flagged inline:** the source's own vegetable/protein/cheese/herb category lists (its pages 75–77) weren't in the photographed pages, so Part B is reconstructed from the named suggestions and points at [§T9 Part C](#c-vegetables-1-pound) for prep cuts until those pages turn up; and the earlier note reserving §T10 for the creamy soup formula is corrected — T-numbers go in arrival order, so the creamy formula takes the next free one. |
 | 2026-08-09 | **[§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) — tomatoes removed, per Cody.** The open question from the previous entry is settled: no canned tomatoes in this soup. Propagated to the ingredients, Step 2, the grocery list, and the **[§T9 Part G](#g-suggestions--9-named-soups)** table row, which now reads *omit the tomatoes*. **Flagging the conflict:** this is a deliberate deviation from the source page, which listed no omit-tomatoes note for this soup (it does for two others) — Cody's version wins, and the source's default is noted inline so the difference is visible rather than silently overwritten. |
 | 2026-08-09 | Completed **[§T9](#t9-hearty-main-course-soup-formula)** with its Suggestions — **[Part G](#g-suggestions--9-named-soups)** now carries all nine named soups as a slot table (protein / vegetables / starch / flavorings, plus each one's exceptions), and an *At a glance* three-line summary was added up top. **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** ⭐ was promoted out of that table into a full write-up — Cody's stated favorite, so it gets real quantities and step-by-step rather than a table row. Its **Open Questions** flag one genuine ambiguity: the source never says to omit the tomatoes for this soup, so they're written in, but that's worth confirming against how Cody actually makes it. |
@@ -238,6 +239,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ⭐ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🔴 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
@@ -252,7 +254,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **🥑 Keto / low-carb — 5 recipes.** All four come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The four 🔴 Hard ones are really two problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — roux. [§1 Pho](#1-codys-pho) is hard for a different one: two days and many moving parts. Learn the roux once and three of the four stop being hard.
+**The five 🔴 Hard ones come down to three problems.** [§T1](#t1-how-to-make-a-roux), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) are hard for one reason — **roux**. [§1 Pho](#1-codys-pho) is hard for another: **two days and many moving parts**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) is hard for a third: **a binder that can break, stuffing that must chill, and a 550°F finish**. Learn the roux once and three of the five stop being hard.
 
 *Recipes still in placeholder form (§3, §5.1–5.9, §6, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **§6 Smoked Meats will all be Slow cook** when written up.*
 
@@ -1965,7 +1967,7 @@ Each plugs straight into the Master Recipe — the technique never changes, only
 
 <!-- TECHNIQUE-TAGS: saute, dredge, searing, chicken-breast, pork-chop, fish-fillet, browning -->
 **Tags:** `saute` · `dredge` · `searing` · `chicken-breast` · `pork-chop` · `fish-fillet` · `browning`
-**Used in:** [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) — *this is the other half of that technique; §T8's ¾ cup of liquid goes into the skillet this leaves behind* · [§7.3 Flounder](#73-flounder) · [§7.4 Pork Chops](#74-pork-chops)
+**Used in:** [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) — *this is the other half of that technique; §T8's ¾ cup of liquid goes into the skillet this leaves behind* · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) *(the simple pan-fried alternative to that recipe)* · [§7.4 Pork Chops](#74-pork-chops)
 
 Sautéing earns its place on delicate cuts like fish fillets and on thicker cuts that have to cook through — boneless skinless chicken breasts, pork chops. Cooking times shift by cut, but **the technique itself never changes**, which is what makes it worth learning once.
 
@@ -2428,10 +2430,166 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 ### 7.2 Boiled Shrimp with Tony's
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
-### 7.3 Flounder
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
->
-> **Method already on file:** flounder is one of the white-fleshed fillets in **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — 1½ lb total, two fillets at a time, 2–3 min then 1–3 min more. This stub just needs Cody's seasoning and serving preferences.
+### 7.3 Seafood Stuffed Flounder
+
+Transcribed from a printed Cajun cookbook page (p. 62–63, *Fish & Seafoods*) — the same book as [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) and [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), which is why it calls for the same Basic Seafood Stock. Whole flounder stuffed with a puréed shrimp-and-oyster dressing over cheddar, pan-fried on the bottom and finished in a 550°F oven.
+
+**The margin note in Cody's hand reads: "12/5/14 ★ Delish!"** — so this one already has a track record.
+
+> **This filled the old §7.3 *Flounder* placeholder.** That stub was generic. If Cody had a simpler everyday flounder in mind, it can still be added alongside — and **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** already covers the plain pan-fried route, which is a *far* easier weeknight option than this.
+
+**Yield:** 6 servings
+
+**🔴 Hard** · **Prep ~1 hr** · **Cook ~45 min** · **Start to finish ~4 hr** *(includes a 30 min stuffing chill and a 1–2 hr chill after stuffing)*
+
+**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) *(two separate mixes)* · [T6 Seafood Notes](#t6-seafood-notes) · [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
+
+> ⚠️ **Why this is rated Hard, and it's not the ingredient list.** Three things can genuinely go wrong: the butter-flour binder can **break and weep oil** (the recipe anticipates this and gives the fix), the stuffing must be **properly chilled** or it won't hold inside the fish, and the finish is a **550°F oven** — extreme heat where the tails will burn if you don't shield them. Read all the way through before starting.
+
+#### A. Ingredients
+
+**Seasoning mix #1 — for the stuffing**
+
+- 1 tsp salt
+- ½ tsp sweet paprika
+- ½ tsp black pepper
+- ½ tsp dried thyme leaves
+- ½ tsp dried sweet basil leaves
+- ½ tsp gumbo filé (filé powder), optional — *see [§T5](#t5-seasonings--peppers)*
+
+**Stuffing**
+
+- 3 slices bacon, diced
+- 1½ cups very finely chopped onions
+- 1 cup very finely chopped celery
+- 1 cup very finely chopped green bell peppers
+- ¼ lb (1 stick) **plus** 1 Tbsp unsalted butter, **in all** *(3 Tbsp with the vegetables, 6 Tbsp for the binder)*
+- ¾ tsp white pepper
+- ¾ tsp ground red pepper, preferably cayenne
+- ½ lb peeled small shrimp
+- 1½ cups Basic Seafood Stock — *see Open Questions*
+- 6 shucked oysters, medium-size — about 3 oz.
+- ¾ cup all-purpose flour, **in all** *(¼ cup for the binder, ½ cup for the dredge)*
+- ½ cup very finely chopped green onions
+- ¼ cup finely grated Parmesan cheese, preferably imported
+
+**Flounder seasoning mix #2 — for the fish**
+
+- 2 tsp salt
+- 1 tsp sweet paprika
+- ½ tsp white pepper
+- ½ tsp onion powder
+- ½ tsp garlic powder
+- ½ tsp dry mustard
+- ¼ tsp ground red pepper, preferably cayenne
+- ¼ tsp dried thyme leaves
+- ¼ tsp dried sweet basil leaves
+
+**Fish and finish**
+
+- 6 flounders, 1 to 1¼ lb each — **boned, heads removed, brown side split down the center**
+- 1½ cups grated cheddar cheese
+- Vegetable oil for pan frying
+
+#### B. Cooking Instructions
+
+**1. Mix seasoning mix #1 and set it aside.**
+Combine the first six ingredients in a small bowl. Per [§T5](#t5-seasonings--peppers), premixing is what keeps this manageable — there are two separate mixes in this recipe and they are **not** interchangeable.
+
+**2. Fry the bacon crisp, then sauté the trinity. About 5 minutes.**
+Bacon diced into a large skillet over high heat, fried until crisp. Add the onions, celery, and bell peppers, stir well, and sauté until the vegetables start to get tender, stirring occasionally.
+
+**3. Add 3 Tbsp butter and the peppers, then the shrimp and seasoning mix #1. 3–5 minutes.**
+Stir in **3 Tbsp** of the butter along with the white and red peppers until the butter melts. Then stir in the shrimp and seasoning mix #1, cooking and stirring occasionally, scraping the pan bottom well.
+
+**4. Add the stock and oysters. 6–8 minutes.**
+Cook and stir, then remove from heat.
+
+**5. Purée the solids — leave the liquid in the skillet.**
+Use a **slotted spoon** to move the seafood-vegetable mixture into a food processor or blender, **leaving the liquid behind in the skillet**. Process until smooth, 15–30 seconds.
+
+**6. Return the purée to the skillet and cook it down. About 5 minutes.**
+Stir it back into the reserved liquid, turn the heat to high, and cook until the mixture **starts sticking excessively**, stirring occasionally and scraping the pan bottom well. Remove from heat.
+
+**7. Meanwhile, make the butter-flour binder.**
+In a 1-quart saucepan, melt the remaining **6 Tbsp** butter over high heat. When it's *almost* melted, take it off the heat and stir in **¼ cup** of the flour until smooth. Return to high heat for 1 minute, stirring constantly.
+
+**8. Blend the binder into the stuffing. 1–2 minutes, stirring constantly.**
+Heat back to high under the stuffing, then gradually add the butter-flour mixture, stirring constantly until well blended. **If it starts "weeping" oil, stir in about 2 Tbsp more stock or water** — that's the fix, and the recipe expects you may need it. Keep cooking until **very thick**.
+
+**9. Finish with green onions and Parmesan, then chill. About 30 minutes.**
+Add the green onions and cook 1 minute more, stirring constantly. Off the heat, stir in the Parmesan. Cool slightly, then refrigerate until chilled. **The stuffing has to be cold before it goes in the fish.**
+
+**10. Mix seasoning mix #2, then stuff the flounders.**
+Combine the nine flounder-seasoning ingredients thoroughly. Open each flounder and sprinkle **¼ tsp** of the mix inside. Mound **¼ cup cheddar** in the center of each, then spoon **a scant ½ cup** of chilled stuffing on top of the cheese. **Close the fish so the stuffing doesn't show.**
+
+**11. Chill the stuffed fish. 1–2 hours.**
+Cover and refrigerate. Don't shortcut this — it's what holds the whole thing together through frying.
+
+**12. Season the outside and set up the dredge.**
+Sprinkle **¼ tsp** of the seasoning mix on each side of each chilled flounder, patting it in with your hands. In a cake or pie pan, combine whatever seasoning mix remains with the remaining **½ cup flour**.
+
+**13. Fry the bottom only. 3–4 minutes, at 350°F.**
+Heat **¼ inch** of oil in a large heavy skillet over high heat to about 350°F. Place each flounder **split side up** into the seasoned flour to coat **only the bottom surface**. Slide it carefully into the hot oil and fry the bottom until it's *"crispy, crunchy and brown-brown!"* — the card's own words.
+
+**14. Bake at 550°F. About 10 minutes — shield the tails at 4 minutes.**
+**Without draining**, move each flounder — still split side up — to an ungreased cookie sheet. Bake until the fish are cooked through and well browned on top. **After about 4 minutes, drape a piece of aluminum foil over the tails so they don't burn.** At 550°F this happens fast; set a timer.
+
+**15. Serve immediately.**
+As is, or topped with a sauce — see Part E.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Flounder — 6 whole fish, 1 to 1¼ lb each, **boned, heads removed, brown side split down the center** *(ask the fishmonger — this is not a trivial home butchery job)*
+- 🏪 Small shrimp, peeled — ½ lb
+- 🏪 Shucked oysters — 6 medium, about 3 oz.
+
+**🛒 General grocery**
+
+- 🛒 Bacon — 3 slices
+- 🛒 Onions, celery, green bell peppers *(all very finely chopped — about 3½ cups total)*
+- 🛒 Unsalted butter — 1 stick plus 1 Tbsp
+- 🛒 All-purpose flour — ¾ cup
+- 🛒 Green onions — ½ cup chopped
+- 🛒 Parmesan cheese, imported preferred — ¼ cup
+- 🛒 Cheddar cheese, grated — 1½ cups
+- 🛒 Vegetable oil, for pan frying
+- 🛒 Salt, sweet paprika, black pepper, white pepper, cayenne, dried thyme, dried sweet basil, onion powder, garlic powder, dry mustard
+- 🛒 Gumbo filé *(optional — also on the [§T5](#t5-seasonings--peppers) and [§T7](#t7-louisiana-language--ingredients) lists)*
+- 🛒 Seafood stock — 1½ cups *(see Open Questions)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,620 | 270 g | 403 g | 117 g | 12 g |
+| **Per serving** *(serves 6)* | ~770 | 45 g | 67 g | 20 g | 2 g |
+
+**What a serving is:** one whole stuffed flounder — a 1 to 1¼ lb fish carrying ¼ cup of cheddar and a scant ½ cup of stuffing.
+
+*A stick of butter, 1½ cups of cheddar, and the fry oil together drive the fat. Only the bottom of each fish is floured and fried, so oil absorption is lower than a fully breaded fish would be. Any sauce served on top is **not** included.*
+
+#### D. Open Questions
+
+- **Basic Seafood Stock (page 32)** — the same gap as [§7.20](#720-chicken-and-seafood-jambalaya) and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); that page still isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute, or use a good store-bought seafood stock.
+- **550°F is unusually hot** — hotter than many home ovens will go, and hotter than most will hold cleanly. Worth confirming what Cody's oven actually did on 12/5/14, and whether a lower temperature for longer worked.
+- **The three finishing sauces** — Hollandaise (p. 258), Shrimp and Crab Butter Cream Sauce (p. 254), and Béarnaise (p. 306) — are all from the source book and none are in this cookbook. *(Jarred hollandaise is already used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you want that route.)*
+
+#### E. Serving Suggestions
+
+Serve immediately, either plain or topped with one of the source book's sauces:
+
+- **Hollandaise** *(p. 258 of the source)*
+- **Shrimp and Crab Butter Cream Sauce** *(p. 254)*
+- **Béarnaise** *(p. 306)*
+
+None of the three are in this cookbook yet — see Open Questions.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
 
 ### 7.4 Pork Chops
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.

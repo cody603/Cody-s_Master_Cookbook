@@ -30,6 +30,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.14 Creole Sauce](#414-creole-sauce) ✅
   - [4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) ✅
   - [4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) ✅
+  - [4.17 Giblet Gravy](#417-giblet-gravy) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -141,6 +142,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§4.17 Giblet Gravy](#417-giblet-gravy)** from *Louisiana Kitchen*, p. 245 — completed from two photos, the second supplying the ingredients and instructions the first left off mid-list. **Rated Medium, not Hard, and explained why:** the roux here cooks to medium brown over medium heat with the meat and vegetables already in the pan, distinct from the smoking-hot, seconds-to-burn dark roux in [§T1](#t1-how-to-make-a-roux) and [§4.12](#412-fish-brown-sauce) — genuinely a gentler technique, not an inconsistent rating. **Strengthens the page-31 stock pattern:** this is now the third recipe to cite Basic Chicken Stock at that exact page, alongside a fourth citing Basic Beef or Pork Stock there too — strong evidence it's worth photographing on its own. |
 | 2026-08-09 | Added five sauces and gravies from **Chef Paul Prudhomme's *Louisiana Kitchen***, transcribed from its *Sauces & Gravies* chapter: **[§4.12 Fish Brown Sauce](#412-fish-brown-sauce)** (a second dark roux — 🔴 Hard, the fifth in this cookbook to need [§T1](#t1-how-to-make-a-roux)'s technique), **[§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce)**, **[§4.14 Creole Sauce](#414-creole-sauce)**, **[§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce)**, and **[§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy)**. **§4.14 exactly closes [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)'s open question** — that recipe cited "Creole Sauce, page 248," and the transcribed page number matches exactly, confirmed rather than assumed. **New pattern spotted:** §4.13 and §4.16 both cite "Basic Chicken Stock" / "Basic Beef or Pork Stock" at page 31 — likely several basic stocks run together on one page, distinct from the Basic Seafood Stock at page 32 that five other recipes here already need. **Giblet Gravy intentionally not added yet** — Cody flagged its instructions are still to come in a follow-up photo. |
 | 2026-08-09 | **[§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder)'s sauce question is fully closed.** Added **[§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce)** — the third and last of its three missing finishing sauces — plus a bonus **[§4.11 Choron Sauce](#411-choron-sauce)** from the same source page, Béarnaise's tomato cousin. Both are built the same way: reduce something on the stove, stir it into warm **[§4.9 Hollandaise](#49-hollandaise-sauce)**. All cross-references updated — §4.9's, §7.3's, and the TOC's — from "two of three" to "all three, done." **One discrepancy flagged rather than papered over:** §7.3's original card cited Béarnaise as page 306, but this recipe's own page number wasn't legible and it sits immediately after Hollandaise (page 258) in the source — noted as an open question rather than assumed to be the same page. |
 | 2026-08-09 | **[§1 Cody's Pho](#1-codys-pho) re-rated 🔴 Hard → 🟢 Easy, per Cody: *"it's just a long distance run."*** He's right, and the original rating broke this cookbook's own rule — difficulty is **technique risk, not effort**, and nothing in the pho can catastrophically fail: no roux, no emulsion, no step that turns in ten seconds. It was rated Hard for being *long*, which is exactly what the rule forbids. Length and lead time live in the time fields instead. The **[project instructions](CLAUDE.md) §3a** now say so explicitly, with Pho named as the reference case so it doesn't get re-litigated. Hard count drops from six to five; the index gains a note that *long is not the same as hard*, using Pho as the proof — biggest numbers in the table, easiest technique. |
@@ -245,6 +247,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
+| [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
@@ -1679,6 +1682,90 @@ Bring to a simmer, adjusting the heat as needed to hold it, stirring occasionall
 | **Per serving** *(about ½ cup, of 12)* | ~110 | 9 g | 1 g | 5 g | 1 g |
 
 **What a serving is:** about ½ cup, over a plate of pasta or a piece of fish or chicken.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.17 Giblet Gravy
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 245), from two separate photos — the title, yield, and seasoning mix came first, and this completes the ingredients and instructions. A classic giblet gravy: gizzards and livers, a roux built right in with the vegetables, thickened and simmered down.
+
+> **Per the source:** serve this over mashed potatoes, roasted chicken or turkey, or mixed with rice.
+
+**Yield:** about 3 cups
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
+
+**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) — *but a gentler version; see the note below*
+
+> **This roux is medium brown, not the dark red-brown-to-black of [§T1](#t1-how-to-make-a-roux) or [§4.12 Fish Brown Sauce](#412-fish-brown-sauce).** It cooks over medium heat for about 3 minutes rather than smoking-hot oil for seconds, and the flour goes in with the meat and vegetables already in the pan rather than into bare hot oil first. Per [§T1's own color table](#t1-how-to-make-a-roux), light-to-medium brown is the more forgiving end of the roux spectrum — real risk is lower here than in the Hard-rated dark rouxs elsewhere in this cookbook, which is why this is rated Medium, not Hard.
+
+#### A. Ingredients
+
+**Seasoning mix**
+
+- 1½ tsp salt
+- 1 tsp ground red pepper, preferably cayenne
+- 1 tsp dried thyme leaves
+- ½ tsp white pepper
+- ¼ tsp dried oregano leaves
+- ¼ tsp black pepper
+
+**Gravy**
+
+- 3 Tbsp unsalted butter
+- ¼ lb chicken gizzards, ground
+- ½ cup chopped onions
+- ½ cup chopped celery
+- ½ cup chopped green bell peppers
+- 2 tsp minced garlic
+- ¼ cup all-purpose flour
+- 3⅓ cups Basic Chicken Stock — *see Open Questions*
+- ½ lb chicken livers, ground
+
+#### B. Cooking Instructions
+
+**1. Mix the seasoning and set it aside.**
+Per [§T5](#t5-seasonings--peppers), one bowl instead of six jars mid-cook.
+
+**2. Brown the gizzards with the vegetables. About 5 minutes.**
+Melt the butter in a large skillet over high heat. Add the gizzards, onions, celery, and bell peppers; sauté, stirring occasionally, until the gizzards are browned.
+
+**3. Reduce to medium; add garlic, seasoning mix, and flour. About 3 minutes, until rich brown.**
+Stir in the garlic, the seasoning mix, and the flour. Cook, stirring frequently and scraping the pan bottom well, until the flour turns a rich brown color — this is the gentler, medium-brown roux described above, not a dark Cajun one.
+
+**4. Add the stock. Boil, then simmer 5 minutes.**
+Bring to a boil over high heat, then drop to a simmer, stirring occasionally.
+
+**5. Stir in the livers and simmer down to about 3 cups. About 10 minutes.**
+Continue simmering, stirring occasionally, until the gravy has reduced to its final volume.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salt, ground red pepper (cayenne), dried thyme, white pepper, dried oregano, black pepper
+- 🛒 Unsalted butter — 3 Tbsp
+- 🛒 Chicken gizzards, ground — ¼ lb
+- 🛒 Onions, celery, green bell peppers
+- 🛒 Garlic
+- 🛒 All-purpose flour — ¼ cup
+- 🛒 Chicken stock — 3⅓ cups *(see Open Questions)*
+- 🛒 Chicken livers, ground — ½ lb
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~940 | 51 g | 71 g | 35 g | 3 g |
+| **Per serving** *(about ½ cup, of 6)* | ~155 | 8 g | 12 g | 6 g | 0.5 g |
+
+**What a serving is:** about ½ cup, ladled over mashed potatoes or roasted turkey — this is a Thanksgiving-table gravy. *Pairs naturally with [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) and [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) if you're building a full holiday plate.*
+
+#### D. Open Questions
+
+- **Basic Chicken Stock (page 31)** — this is now the **third** recipe in this cookbook to cite chicken stock at that exact page ([§4.14 Creole Sauce](#414-creole-sauce) and [§4.16 Italian Red Gravy](#416-new-orleans-italian-red-gravy) both do too), while [§4.13](#413-andouille-smoked-sausage-sauce) cites "Basic Beef or Pork Stock," also page 31. Strong evidence the source runs several basic stocks on that one page — worth photographing, since it would close a gap shared by half a dozen recipes at once. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute in the meantime.
 
 [↑ Table of Contents](#table-of-contents)
 

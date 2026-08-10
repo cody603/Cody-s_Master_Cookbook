@@ -70,6 +70,13 @@ Click any recipe to jump straight to it.
   - [4.49 Mango Salsa](#449-mango-salsa) ✅
   - [4.50 Cucumber Relish](#450-cucumber-relish) ✅
   - [4.51 Shallot Marmalade](#451-shallot-marmalade) ✅
+  - [4.52 Balsamella](#452-balsamella) ✅
+  - [4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) ✅
+  - [4.54 Ragù Bolognese](#454-ragù-bolognese) ✅
+  - [4.55 Fresh Herb Butter](#455-fresh-herb-butter) ✅
+  - [4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter) ✅
+  - [4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) ✅
+  - [4.58 Pimentón Butter](#458-pimentón-butter) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -155,7 +162,8 @@ Click any recipe to jump straight to it.
 - [7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ✅ ❤️
 - [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅ ❤️
 - [7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ✅ ❤️
-- [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅ 👍
+- [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅
+- [7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) ✅ 👍
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -178,7 +186,12 @@ Click any recipe to jump straight to it.
 - [9.7 Chicken Salad](#97-chicken-salad) ✅ ❤️
 - [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ○ ❤️
 - [9.9 Shrimp Remoulade](#99-shrimp-remoulade) ✅ ❤️
-- [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅ 🔖
+- [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅
+- [9.11 Melba Toasts](#911-melba-toasts) ✅
+- [9.12 Potted Crab](#912-potted-crab) ✅
+- [9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) ✅
+- [9.14 Smoked Salmon Butter](#914-smoked-salmon-butter) ✅
+- [9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) ✅ 🔖
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -202,6 +215,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **New source: Canal House Cooks Every Day (Christopher Hirsheimer and Melissa Hamilton) — 13 recipes across §4, §7, and §9.** [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto), a butterflied, rolled, and grilled flank steak with an olive-and-anchovy pesto; two Italian "building block" sauces, [§4.52 Balsamella](#452-balsamella) and [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce); a proper [§4.54 Ragù Bolognese](#454-ragù-bolognese) with two named pasta variations folded in; four compound butters built for steak, [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter); and a five-recipe cocktail spread — [§9.11 Melba Toasts](#911-melba-toasts) as the base, then [§9.12 Potted Crab](#912-potted-crab), [§9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper), [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter), and [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), all four cross-linked back to the toast that carries them. **A name collision handled deliberately, not silently:** [§4.56](#456-canal-house-lemon-butter) is called "Canal House Lemon Butter" rather than plain "Lemon Butter," since [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) already exists from *Louisiana Kitchen* — same name, genuinely different preparation (a boiled sauce vs. a cold compound butter), so both stay rather than one overwriting the other. **[§4.54 Ragù Bolognese is rated 🟢 Easy despite a 6–7 hour simmer** — same reasoning as [§1 Pho](#1-codys-pho): nothing in the method can fail, the meat is deliberately kept pale rather than seared, and the long simmer is unattended, so it's a distance run rather than a technical climb. A nice period detail carried over from the source: Canal House recipes are each dated with a weather note in the margin — this one reads *"June 16th, 79°, clear still day."* |
 | 2026-08-10 | **[§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) substantially corrected and rewritten — the previous version had the technique wrong.** Cody explained the method properly and it is **not** a velveting/texture technique, which is what Claude had inferred a round earlier. It's a **deodorizer**: raw whole eggs cracked over fish or shellfish that smells fishy out of the bag, mixed through in a colander in the sink, left **7–15 minutes**, then **rinsed off completely** — the rinse is the step that actually removes the off-flavor. Renamed from *"(for Shrimp)"* to *"(Deodorizing Fish & Shellfish)"* since it applies to **any** fish or shellfish — salmon, catfish, crawfish, shrimp — and all links repointed. **Every one of the four Open Questions is now answered by Cody directly:** whole eggs, not just whites; 7–15 minutes with **15 as a hard ceiling** *(past that it starts pulling out the flavor of the fish itself)*; rinse thoroughly, **unless** you're frying and the egg is doing double duty as batter; and it **does not work for ceviche**, which he ruled out explicitly — so [§7.22](#722-captain-mikes-ceviche) now carries that as a note. Added a new trigger section built on **the smell test** — no fish smell means skip it entirely. The mechanism is rewritten around **trimethylamine**, the compound behind fishy smell, and the well-established **milk-soak** parallel (proteins bind the volatile amines; the rinse carries them away), which also explains why over-soaking backfires. **The original wrong reasoning is left in place as a marked correction** rather than quietly swapped out — it's a clean example of a plausible-sounding inference pointing the wrong way. Wired into [§7.2](#72-boiled-shrimp-with-tonys) and [§7.10](#710-cilantro-lime-shrimp), the two recipes Cody names for it. |
 | 2026-08-10 | **Cody rated the cookbook, and the ratings are now part of it — new [Family Ratings Index](#family-ratings-index) plus a marker on all 76 rated entries.** Three tiers, in his framing: **❤️ family favorite** (51), **👍 tried and liked** (12), **🔖 want to try** (13). Every rated recipe carries the verdict **in Cody's own words** in its own section, so it travels with the recipe instead of living only in an index. **Resolved a marker collision while doing it:** ⭐ was doing two unrelated jobs — "pantry staple worth keeping on hand" in five T-section grocery lists, and "favorite" on [§7.3](#73-seafood-stuffed-flounder) and [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice). Those two are now ❤️, so ⭐ means one thing again. **Four things surfaced that aren't just ratings:** [§5.1 Green Beans](#51-green-beans) gained its first real content — it's **Vicky's lemon zest green beans**, and the method should come from her; [§6.2 Pulled Pork](#62-pulled-pork) notes a **second pulled pork recipe is coming** and will get its own entry rather than overwriting the North Carolina one; [§6.3](#63-smoked-whole-hen) flags a possible **hen/ham mix-up** (Cody said "smoked ham," the stub has always said hen) rather than silently picking one; and [§7.33](#733-grilled-stuffed-chicken-breasts) answers his chicken-thigh question — yes, but butterfly-and-fold rather than pocket, and expect ~175°F and a more forgiving cook. **Two split verdicts recorded as such** rather than averaged into a score: [§7.7 Chicken Livers](#77-chicken-livers) *("I love it, but I don't think my family likes it")* and [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *("My family likes it. I think it's okay")*. **[§7.13 Crawfish Elegante](#713-crawfish-elegante) and [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) got skipped** in the pass and are flagged in the index as the notable unrated gaps — both are from Cody's own cards. |
 | 2026-08-10 | Added **[§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)** *(then titled "for Shrimp"; renamed and corrected the same day — see the entry above)* — Cody's own standing technique, not from any cookbook here: shrimp that isn't genuinely fresh *("which you just don't get in Missouri")* gets soaked in raw egg first. Written up with the mechanism explained at the level it can actually be supported — it's the same principle as **velveting**, where an egg-protein coat holds moisture and takes the brunt of the heat — and **explicitly flagged where the reasoning outruns the evidence** rather than dressed up as settled science. Four Open Questions recorded: whole egg or just the white *(classic velveting uses the white)*, soak time, egg-per-pound, and whether it carries over to [§7.22 Ceviche](#722-captain-mikes-ceviche), which never heats the shrimp at all and so is a genuinely different proposition. Wired to the three shrimp recipes whose ratings all came with the same *"only if it's fresh"* caveat. |
@@ -309,6 +323,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) | 🟢 | 5 min | — | — | 5 min |
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
+| [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
@@ -323,6 +338,12 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) | 🟢 | 10 min | — | — | 10 min |
+| [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter) | 🟢 | 10 min | — | — | 10 min |
+| [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) | 🟢 | 10 min | — | — | 10 min |
+| [§9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) | 🟢 | 10 min | — | — | 10 min |
+| [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter) | 🟢 | 10 min | — | — | 10 min |
+| [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) | 🟢 | 10 min | — | — | 10 min |
 | [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
@@ -348,6 +369,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
+| [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
+| [§9.12 Potted Crab](#912-potted-crab) | 🟢 | 15 min | 5 min | — | 4 hr 20 min *(3+ hr chill, 1 hr temper)* |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
@@ -388,14 +412,17 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
+| [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
+| [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
+| [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
@@ -3859,6 +3886,376 @@ Taste for seasoning, adding salt, pepper, vinegar, or honey to taste. The marmal
 | **Per serving** *(of 6)* | ~160 | 0.1 g | 0.5 g | 25 g | 0.8 g |
 
 **What a serving is:** a generous spoonful, served alongside a portion of grilled beef.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.52 Balsamella
+
+Transcribed from **Canal House Cooks Every Day** (Christopher Hirsheimer and Melissa Hamilton), p. 240 — a new source this session, not yet used elsewhere in this cookbook. *"One of the building blocks of Northern Italian cooking is balsamella, the elegant white sauce used in making classic dishes like lasagne and cannelloni. It's a simple white sauce (béchamel in France) that needs a certain amount of finesse to keep the butter from browning and the roux from taking on any color whatsoever."*
+
+**Yield:** about 4 cups
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min**
+
+> **This is the opposite of [§T1](#t1-how-to-make-a-roux)'s Cajun roux** — the whole technique here is keeping the butter-flour paste from taking on *any* color, where §T1 is built around pushing it as dark as you can control.
+
+#### A. Ingredients
+
+- 8 Tbsp (1 stick) butter
+- ½ cup all-purpose flour
+- 4 cups hot whole milk
+- ½ cup grated parmigiano-reggiano, optional
+- ¼ whole nutmeg, finely grated
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Cook the roux without letting it color. 1½–2 minutes.**
+Melt the butter in a heavy medium saucepan over medium-low heat. Add the flour and cook, stirring constantly with a wooden spoon, to prevent it from taking on any color.
+
+**2. Whisk in the hot milk gradually.**
+Add the hot milk in a slow, steady stream, stirring constantly with a whisk to prevent lumps.
+
+**3. Cook to a thick-cream consistency. 10–15 minutes.**
+Increase the heat to medium and cook the sauce, stirring constantly with a wooden spoon, until it has the consistency of thick cream.
+
+**4. Finish and hold.**
+Remove from heat. Stir in the cheese, if using, and season with nutmeg and salt to taste. Strain the sauce if it's lumpy. Lay a sheet of plastic wrap directly on the surface to keep it warm and prevent a skin from forming until ready to use.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 8 Tbsp (1 stick)
+- 🛒 All-purpose flour — ½ cup
+- 🛒 Whole milk — 4 cups
+- 🛒 Parmigiano-reggiano — ½ cup grated, optional
+- 🛒 Whole nutmeg
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,650 | 115 g | 40 g | 105 g | 2 g |
+| **Per serving** *(¼ cup, of 16)* | ~105 | 7 g | 2.5 g | 6.5 g | 0.1 g |
+
+**What a serving is:** ¼ cup — this isn't a dish on its own, it's the white-sauce layer in a lasagne or the base for another sauce.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.53 Simple Tomato Sauce
+
+Transcribed from **Canal House Cooks Every Day**, p. 240 — the same book as [§4.52](#452-balsamella). *"We use the thicker version of this sauce for our Green Lasagne with Tomato Sauce & Fresh Ricotta, and the thinner version for saucing delicate fresh pasta, ravioli, and gnocchi. Or ladle it into soup bowls, float a fried egg on top, and sop up the goodness with warm crusty bread."*
+
+**Yield:** about 8 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~1–3 hr** *(mostly unattended — 1 hr for a thin, loose sauce; 2–3 hr for a richer, thicker one)* · **Start to finish ~1 hr 10 min – 3 hr 10 min**
+
+#### A. Ingredients
+
+- 6 cups *passato di pomodoro* (strained tomatoes) or tomato purée
+- 1 medium onion, halved
+- 2 to 3 cloves garlic
+- 4 to 6 Tbsp really good extra-virgin olive oil
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Combine and simmer. 1 to 3 hours, depending on how thick you want it.**
+Put the tomatoes into a heavy medium pot, rinsing out the containers with 4 cups water and adding it to the pot. Add the onion halves, garlic, olive oil, and salt and pepper to taste. Gently simmer over medium-low heat — about 1 hour for a thin, loose sauce, or 2 to 3 hours for a richer, thicker consistency.
+
+**2. Season, discard the aromatics.**
+Adjust the seasonings and add a little more olive oil to round out the flavors, if you like. Discard the onion and garlic before using.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Strained tomatoes (*passato di pomodoro*) or tomato purée — 6 cups
+- 🛒 Onion — 1 medium
+- 🛒 Garlic — 2 to 3 cloves
+- 🛒 Extra-virgin olive oil — 4 to 6 Tbsp
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,150 | 75 g | 12 g | 105 g | 20 g |
+| **Per serving** *(½ cup, of 16)* | ~70 | 4.5 g | 0.7 g | 6.5 g | 1.2 g |
+
+**What a serving is:** about ½ cup as a pasta sauce portion, or a full ladle in a bowl with a fried egg on top and bread, per the source's own suggestion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.54 Ragù Bolognese
+
+Transcribed from **Canal House Cooks Every Day**, p. 241 — the same book as [§4.52](#452-balsamella)/[§4.53](#453-simple-tomato-sauce). *"Like many long-simmered sauces, this one, perhaps the most delicious of all the Italian meat sauces, is more flavorful and balanced the following day."*
+
+**Yield:** about 6 cups
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~35 min** · **Slow cook 6–7 hr** *(simmer — long, but nothing in it can fail; it's a distance run like [§1 Pho](#1-codys-pho), not a technical climb)* · **Start to finish ~7 hr**
+
+> **Variations named in the source:**
+> - **Spinach Tagliatelle Bolognese** — heat 4 to 6 cups ragù in a wide pan over medium heat until hot. Add 1 lb cooked fresh spinach tagliatelle and a little of the pasta water. Serve with grated parmigiano. *Serves 4 to 8.*
+> - **Pappardelle Bolognese** — substitute fresh pappardelle for the spinach tagliatelle.
+
+#### A. Ingredients
+
+- 2 Tbsp butter
+- 2 Tbsp extra-virgin olive oil
+- 1 onion, finely chopped
+- 1 rib celery, finely diced
+- 1 carrot, peeled and finely diced
+- 2 to 3 thin slices prosciutto, finely chopped
+- 2 chicken livers, finely chopped
+- ¾ lb ground chuck
+- ¾ lb ground pork
+- ¼ to ½ whole nutmeg, finely grated
+- Salt and pepper
+- ½ cup dry white wine
+- 1 cup hot whole milk
+- One 28 oz. can tomato purée
+- 1 cup chicken, veal, or beef stock
+
+#### B. Cooking Instructions
+
+**1. Sweat the onion, then the celery and carrot. About 8 minutes total.**
+Heat the butter and oil together in a heavy large pot over medium heat. Add the onion and cook, stirring frequently with a wooden spoon, just until soft and translucent, 3 to 5 minutes. Add the celery and carrot and cook until they begin to soften, about 3 minutes.
+
+**2. Add the prosciutto and chicken livers. About 1 minute.**
+Cook until the livers are pale pink.
+
+**3. Add the ground meat and season. About 5 minutes — do not let it brown.**
+Add the ground chuck and pork, and cook, breaking up the meat with the back of the spoon and seasoning with nutmeg and salt and pepper, until there is still a little pink left. Avoid frying or browning the meat — this stays pale, not seared.
+
+**4. Add the wine and cook it out. 10 to 12 minutes.**
+Cook until evaporated.
+
+**5. Add the milk and let it absorb. About 20 minutes.**
+Cook over medium-low heat, stirring occasionally, until absorbed.
+
+**6. Heat the tomato purée and stock separately, then add to the meat.**
+Meanwhile, heat the tomato purée and stock in a medium saucepan until hot, then add it to the meat.
+
+**7. Simmer low and slow. 6 to 7 hours.**
+Reduce the heat to low and gently simmer, stirring occasionally, until the ragù is tender. Add water if needed to keep it loose and saucy. Season with salt and pepper.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher/deli**
+
+- 🏪 Ground chuck, ground pork — ¾ lb each
+- 🏪 Prosciutto — 2 to 3 thin slices
+- 🏪 Chicken livers — 2
+
+**🛒 General grocery**
+
+- 🛒 Butter — 2 Tbsp
+- 🛒 Extra-virgin olive oil — 2 Tbsp
+- 🛒 Onion, celery, carrot
+- 🛒 Whole nutmeg
+- 🛒 Salt, pepper
+- 🛒 Dry white wine — ½ cup
+- 🛒 Whole milk — 1 cup
+- 🛒 Canned tomato purée — 28 oz.
+- 🛒 Chicken, veal, or beef stock — 1 cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~3,400 | 235 g | 195 g | 90 g | 10 g |
+| **Per serving** *(½ cup, of 12)* | ~285 | 20 g | 16 g | 7.5 g | 0.8 g |
+
+**What a serving is:** about ½ cup of sauce over pasta — enough for 4 to 8 servings once tossed with a pound of pasta, per the variation notes above.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.55 Fresh Herb Butter
+
+Transcribed from **Canal House Cooks Every Day** — one of four compound butters from a page built around grilled steaks (the facing recipes are a whole grilled beef tenderloin and a two-steak preparation, neither in this cookbook yet). *"We use salted Irish butter because it makes everything taste better."*
+
+**Yield:** about 1 cup
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+> **Make-ahead, per the source:** cover and refrigerate 3 to 4 days, or freeze up to a month.
+
+#### A. Ingredients
+
+- ½ lb (2 sticks) salted butter, softened
+- ½ cup chopped fresh herbs — one or a combination of your favorites
+- 1 small shallot or scallion, finely chopped
+- 1 small garlic clove, minced, if you like
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Beat until smooth and creamy.**
+Beat the softened butter in a medium bowl with a wooden spoon until smooth and creamy.
+
+**2. Mix in everything else.**
+Add the herbs, shallot or scallion, and garlic, if using. Season with salt and pepper.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salted butter, preferably Irish — ½ lb (2 sticks)
+- 🛒 Fresh herbs — ½ cup chopped, your choice
+- 🛒 Shallot or scallion — 1 small
+- 🛒 Garlic — 1 clove, optional
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,630 | 184 g | 2 g | 3 g | 0.5 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~100 | 11.5 g | 0.1 g | 0.2 g | 0 g |
+
+**What a serving is:** 1 Tbsp melting over a hot steak, chop, or roast chicken straight off the fire.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.56 Canal House Lemon Butter
+
+Transcribed from **Canal House Cooks Every Day**, the same compound-butter page as [§4.55](#455-fresh-herb-butter). **Named to distinguish it from [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce)** (Chef Paul Prudhomme's *Louisiana Kitchen*) — that one is a boiled sauce; this is a cold compound butter, a genuinely different preparation despite the shared name.
+
+**Yield:** about 1 cup
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- ½ lb (2 sticks) salted butter, softened
+- 2 lemons
+- Juice of ½ lemon
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Beat until smooth and creamy.**
+
+**2. Zest and juice in.**
+Wash and dry the 2 lemons, then finely grate the zest over the butter. Squeeze in the juice of ½ lemon and season with salt and pepper. Stir well to incorporate.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salted butter, preferably Irish — ½ lb (2 sticks)
+- 🛒 Lemons — 2, plus ½ for juice
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,630 | 184 g | 2 g | 4 g | 0.5 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~100 | 11.5 g | 0.1 g | 0.3 g | 0 g |
+
+**What a serving is:** 1 Tbsp melting over grilled fish, chicken, or steak.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.57 Fresh Horseradish Butter
+
+Transcribed from **Canal House Cooks Every Day**, the same compound-butter page as [§4.55](#455-fresh-herb-butter)/[§4.56](#456-canal-house-lemon-butter).
+
+**Yield:** about 1 cup
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- ½ lb (2 sticks) salted butter, softened
+- 2 to 3 Tbsp finely grated peeled fresh horseradish root, or 2 Tbsp drained prepared horseradish
+- Cracked black pepper and salt
+
+#### B. Cooking Instructions
+
+**1. Beat until smooth and creamy.**
+
+**2. Mix in the horseradish and season generously.**
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — produce**
+
+- 🏪 Fresh horseradish root — 2 to 3 Tbsp finely grated, or prepared horseradish
+
+**🛒 General grocery**
+
+- 🛒 Salted butter, preferably Irish — ½ lb (2 sticks)
+- 🛒 Cracked black pepper, salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,635 | 184 g | 2 g | 5 g | 0.5 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~100 | 11.5 g | 0.1 g | 0.3 g | 0 g |
+
+**What a serving is:** 1 Tbsp melting over a hot steak or roast beef — the source's own pairing.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.58 Pimentón Butter
+
+Transcribed from **Canal House Cooks Every Day**, the same compound-butter page as [§4.55](#455-fresh-herb-butter)–[§4.57](#457-fresh-horseradish-butter). The simplest of the four.
+
+**Yield:** about 1 cup
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- ½ lb (2 sticks) salted butter, softened
+- 1 Tbsp pimentón (smoked Spanish paprika)
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Beat until smooth and creamy.**
+
+**2. Mix in the pimentón and season.**
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Spanish/gourmet**
+
+- 🏪 Pimentón (smoked Spanish paprika) — 1 Tbsp
+
+**🛒 General grocery**
+
+- 🛒 Salted butter, preferably Irish — ½ lb (2 sticks)
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,630 | 184 g | 2 g | 3 g | 0.5 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~100 | 11.5 g | 0.1 g | 0.2 g | 0 g |
+
+**What a serving is:** 1 Tbsp melting over a hot steak — smoky rather than herbal or bright.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -8120,6 +8517,88 @@ Transfer the breasts to plates or a platter and remove the toothpicks before ser
 
 ---
 
+### 7.34 Rolled Flank Steak with Pesto
+
+Transcribed from **Canal House Cooks Every Day** (Christopher Hirsheimer and Melissa Hamilton), p. 78 — a new source this session. A flank steak butterflied, spread with an olive-and-anchovy pesto, rolled and tied, then grilled.
+
+> **Per the source:** *"We first had these delicacies at the bar at Le Caprice in London, during a layover on our way to Rome, and now we always keep them on hand — they're a great salty nibble with a drink. You can grill the steak ahead of time and serve it cold with a big salad for simple summer-style entertaining. That way you can take a swim or run through the sprinkler before dinner."*
+>
+> The source's own margin note on this page: *"June 16th, 79°, clear still day."* Canal House's recipes carry a date and weather note throughout the book — a small, distinctive touch of this source worth knowing about if more of it gets photographed.
+
+**Yield:** serves 6
+
+**🟡 Medium** · **Prep ~30 min** · **Cook ~20 min** · **Start to finish ~1 hr** *(includes a 10 min flame-side rest and a 10 min final rest before slicing)*
+
+#### A. Ingredients
+
+**For the pesto**
+
+- ¼ cup really good extra-virgin olive oil
+- ½ cup grated parmigiano-reggiano
+- 2 loosely packed cups basil leaves
+- 2 loosely packed cups fresh parsley leaves
+- 1 clove garlic, sliced
+- ¼ to ½ cup pitted green olives
+- 3 anchovy filets
+
+**For the steak**
+
+- One 2 lb flank steak
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Purée the pesto.**
+Purée the basil, parsley, garlic, green olives, and anchovies with the olive oil in a food processor and pulse a couple of times. Add the parmigiano and pulse a couple more times, until well combined. Transfer to a small bowl and place a piece of plastic wrap directly on the surface of the pesto to keep it from turning dark.
+
+**2. Butterfly the steak.**
+Place the flank steak flat on a work surface with the grain of the meat running perpendicular to you. Using a long, thin, very sharp knife, butterfly the meat by slicing through the long side of the steak, opening it up as you go, stopping ½ inch short of cutting the steak in two.
+
+**3. Flatten, spread the pesto, and roll.**
+Press the meat flat, leaving a 1-inch space all around the edge. Spread the pesto all over the meat, with the grain running the length of the roll — this is the way it "wants" to roll. Roll up the steak, tying it with kitchen string every 2 inches.
+
+**4. Chill until ready to grill.**
+Wrap with plastic wrap and refrigerate until ready to grill.
+
+**5. Grill over a two-zone fire, then move off heat to finish. About 20 minutes total.**
+Grill over a medium-hot fire built on one side of the grill, turning the steak until it has browned on all sides, about 10 minutes. Move the steak over to the side of the grill off the fire, allowing it to cook as it rests, about 10 minutes.
+
+**6. Rest again, then slice.**
+Place the steak on a cutting board and let it rest for 10 minutes. Remove the strings and slice across the grain into 1- to 2-inch slices.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Flank steak — one 2 lb
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — ¼ cup
+- 🛒 Parmigiano-reggiano — ½ cup grated
+- 🛒 Fresh basil — 2 loosely packed cups
+- 🛒 Fresh parsley — 2 loosely packed cups
+- 🛒 Garlic — 1 clove
+- 🛒 Pitted green olives — ¼ to ½ cup
+- 🛒 Anchovy filets — 3
+- 🛒 Salt, pepper
+- 🛒 Kitchen string
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,950 | 195 g | 245 g | 10 g | 3 g |
+| **Per serving** *(serves 6)* | ~490 | 32 g | 41 g | 1.7 g | 0.5 g |
+
+**What a serving is:** 2 to 3 slices — a normal dinner portion, or fewer as the cold cocktail-hour nibble the source describes.
+
+*Lean flank steak carries most of the protein; the pesto's olive oil, parmigiano, and olives are most of the fat. Serve cold with a big salad, per the source, and this doubles as a make-ahead entertaining dish rather than a straight-off-the-grill one.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.1 Chili
@@ -9075,6 +9554,239 @@ Serve immediately.
 - **The egg is never used.** It's in the ingredient list but the printed instructions don't call for adding it anywhere. Possibilities: whisked into the mayonnaise before it's used, added to the crab mixture before baking (a binder, common in crab cake-style dishes), or a genuine card/print error. Transcribed as printed rather than guessed into a step.
 - **Cream quantity is short for the method.** "1 Tbsp per ramekin" across 8 ramekins needs ½ cup; the list gives ⅓ cup (about 5 Tbsp). Either the per-ramekin amount is closer to 2 tsp, or the total should be larger — worth confirming against the actual page.
 - **Homemade Mayonnaise (page 268)** isn't in this cookbook. Good store-bought mayonnaise is a reasonable stand-in until that page turns up.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.11 Melba Toasts
+
+Transcribed from **Canal House Cooks Every Day** (Christopher Hirsheimer and Melissa Hamilton), p. 316 — a new source this session. The base for [§9.12](#912-potted-crab)–[§9.15](#915-anchovy--lemon-butter), all four of which are "spread on melba toasts."
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- Sliced white sandwich bread, or tender-crumbed sweet brioche
+- Melted butter
+
+#### B. Cooking Instructions
+
+**1. Brush both sides with melted butter.**
+Use sliced white bread or brioche.
+
+**2. Bake between two sheets. About 10 minutes per side.**
+Lay the slices out on a cookie sheet and set another cookie sheet directly on top. Bake in a preheated 400° oven until golden brown on the bottom, about 10 minutes. Turn the toasts over, cover, and bake until the other side is golden, a few minutes more.
+
+> **Why the second sheet on top:** it keeps the bread flat and presses it as it toasts, which is what gives melba toast its dense, cracker-like snap instead of a soft, curled crouton.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sliced white sandwich bread, or brioche
+- 🛒 Butter, melted
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(8 slices)* | ~880 | 40 g | 16 g | 112 g | 4 g |
+| **Per serving** *(2 toasts, of 4)* | ~220 | 10 g | 4 g | 28 g | 1 g |
+
+**What a serving is:** 2 toasts — a cracker base for one of the spreads at [§9.12](#912-potted-crab)–[§9.15](#915-anchovy--lemon-butter).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.12 Potted Crab
+
+Transcribed from **Canal House Cooks Every Day**, p. 316 — the same book and page as [§9.11 Melba Toasts](#911-melba-toasts). *"Harissa, a spicy Tunisian red chile paste, is available at specialty food stores and Middle Eastern markets."*
+
+**Yield:** about 1¾ cups
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** · **Start to finish ~4 hr 20 min** *(includes a 3+ hr chill to develop flavor, then 1 hr at room temperature to soften before serving)*
+
+#### A. Ingredients
+
+- 3 Tbsp fresh lemon juice
+- 2 Tbsp sherry
+- 8 Tbsp softened salted Irish butter
+- 2 tsp finely grated lemon zest
+- 1 tsp harissa paste
+- 8 oz. lump crabmeat, picked over
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Reduce the lemon juice and sherry. About 3 minutes.**
+Heat the lemon juice and sherry in a small saucepan over medium-high heat until reduced to 1 Tbsp.
+
+**2. Purée with the butter, zest, and harissa.**
+Remove from heat, pour into a food processor, and let cool. Add the butter, lemon zest, and harissa paste. Purée until smooth. Transfer to a small bowl.
+
+**3. Fold in the crab and season.**
+Fold in the crabmeat (remove any bits of shell). Season with salt and pepper to taste.
+
+**4. Pack, chill, and temper before serving.**
+Pack the crab into a crock or bowl, smoothing the top with a butter knife. Cover and chill at least 3 hours to allow the flavors to develop. Let stand at room temperature for 1 hour to soften before serving. Spread on [melba toasts](#911-melba-toasts).
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Lump crabmeat, picked over — 8 oz.
+
+**🛒 General grocery**
+
+- 🛒 Lemon — for 3 Tbsp juice and 2 tsp zest
+- 🛒 Sherry — 2 Tbsp
+- 🛒 Salted Irish butter — 8 Tbsp
+- 🛒 Salt, pepper
+
+**🏪 Specific store — Middle Eastern/specialty**
+
+- 🏪 Harissa paste — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,650 | 165 g | 45 g | 5 g | 0.2 g |
+| **Per serving** *(2 Tbsp, of 14)* | ~120 | 12 g | 3 g | 0.4 g | 0 g |
+
+**What a serving is:** about 2 Tbsp spread on a couple of [melba toasts](#911-melba-toasts).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.13 Blue Cheese with Black Pepper
+
+Transcribed from **Canal House Cooks Every Day**, p. 316 — the same book and page as [§9.11](#911-melba-toasts)/[§9.12](#912-potted-crab). *"This savory butter is great on grilled steaks, lamb chops, roast chicken, and baked potatoes too."*
+
+**Yield:** about 1½ cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 8 oz. softened butter, preferably Irish
+- 4 oz. good blue cheese
+- Lots of freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Blend to a coarse mash, or pulse smoother.**
+Put the butter into a bowl or a food processor. Add the blue cheese and black pepper. Use a fork to blend it together into a coarse mash, or pulse it a few times in the food processor for a smoother butter.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter, preferably Irish — 8 oz.
+- 🛒 Good blue cheese — 4 oz.
+- 🛒 Black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,900 | 195 g | 22 g | 4 g | 0 g |
+| **Per serving** *(1 Tbsp, of 24)* | ~80 | 8 g | 1 g | 0.2 g | 0 g |
+
+**What a serving is:** 1 Tbsp, melted over a hot grilled steak, lamb chop, or baked potato, or spread on [melba toasts](#911-melba-toasts).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.14 Smoked Salmon Butter
+
+Transcribed from **Canal House Cooks Every Day**, p. 316 — the same book and page as [§9.11](#911-melba-toasts)–[§9.13](#913-blue-cheese-with-black-pepper).
+
+**Yield:** about 1½ cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 8 oz. softened unsalted butter, preferably Irish
+- 4 oz. smoked salmon
+- 2 pinches cayenne pepper
+- Grated zest of 1 lemon
+
+#### B. Cooking Instructions
+
+**1. Blend to a coarse mash.**
+Put the butter into a bowl. Add the smoked salmon, cayenne, and lemon zest. Use a fork to blend it together into a coarse mash.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Smoked salmon — 4 oz.
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter, preferably Irish — 8 oz.
+- 🛒 Cayenne pepper
+- 🛒 Lemon — for zest
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,830 | 190 g | 24 g | 1 g | 0 g |
+| **Per serving** *(1 Tbsp, of 24)* | ~76 | 8 g | 1 g | 0 g | 0 g |
+
+**What a serving is:** 1 Tbsp spread on [melba toasts](#911-melba-toasts) or crackers.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.15 Anchovy & Lemon Butter
+
+Transcribed from **Canal House Cooks Every Day**, p. 316 — the same book and page as [§9.11](#911-melba-toasts)–[§9.14](#914-smoked-salmon-butter). *"On crackers or melba toasts, this is the perfect cocktail crunch as you sip an aperitif."*
+
+**Yield:** about 1 cup
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 8 oz. softened unsalted butter, preferably Irish
+- 12 oil-packed anchovy filets
+- ⅛ tsp ground cayenne
+- Chopped rind of 1 preserved lemon
+
+#### B. Cooking Instructions
+
+**1. Blend to a coarse mash, or pulse smoother.**
+Put the butter into a bowl or the bowl of a food processor. Add the anchovy filets, cayenne, and preserved lemon rind. Use a fork to blend it together by hand for a coarse mash, or blend it in the food processor for a smoother butter.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — gourmet/Mediterranean**
+
+- 🏪 Oil-packed anchovy filets — 12
+- 🏪 Preserved lemon — 1
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter, preferably Irish — 8 oz.
+- 🛒 Ground cayenne
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,720 | 185 g | 20 g | 2 g | 0 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~108 | 11.5 g | 1.3 g | 0.1 g | 0 g |
+
+**What a serving is:** 1 Tbsp on a cracker or a [melba toast](#911-melba-toasts) — a cocktail-hour bite, per the source.
 
 [↑ Table of Contents](#table-of-contents)
 

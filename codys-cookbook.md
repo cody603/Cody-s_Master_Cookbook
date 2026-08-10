@@ -21,6 +21,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.5 Pickled Pink Onions](#45-pickled-pink-onions) ✅
   - [4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) ✅
   - [4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ✅
+  - [4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -132,6 +133,8 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — **which closes one third of [§7.3](#73-seafood-stuffed-flounder)'s open question**, since that recipe named this exact sauce as one of three finishing options not in the cookbook. Hollandaise (p. 258) and Béarnaise (p. 306) are still outstanding. **Flagged prominently: this is a *blond* roux — the opposite of [§T1](#t1-how-to-make-a-roux).** The source says outright *"if mixture starts to brown, remove from heat,"* which directly inverts the dark-roux instinct every other Cajun recipe here trains. |
+| 2026-08-09 | **Source book identified: Chef Paul Prudhomme's *Louisiana Kitchen*.** The running header on the §4.8 page named it, and its page references line up exactly with three recipes already transcribed — so **[§7.3](#73-seafood-stuffed-flounder)**, **[§7.20](#720-chicken-and-seafood-jambalaya)**, **[§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)**, and **[§4.8](#48-shrimp-and-crab-butter-cream-sauce)** all now credit it by name instead of "a printed Cajun cookbook." **Practical upshot: *Basic Seafood Stock*, page 32, is the single most valuable page left to photograph** — four separate recipes here call for it and none can be made as written without it. |
 | 2026-08-09 | Filled the **[§7.3](#73-seafood-stuffed-flounder)** placeholder with **Seafood Stuffed Flounder**, from the same Cajun cookbook as §7.20 and §8.5 (same *Basic Seafood Stock* reference, still missing). Carries Cody's margin note — **"12/5/14 ★ Delish!"** — so it has a track record. Rated **🔴 Hard**, the fifth: not for its ingredient list but for three real failure points, called out up top — a butter-flour binder that can break and weep oil *(the recipe anticipates it and gives the fix)*, stuffing that must be fully chilled or it won't hold, and a **550°F** finish where the tails burn without foil. **Noted rather than assumed:** the old §7.3 stub was generic "Flounder," so if Cody meant a simpler everyday preparation that's still open — **[§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** covers the easy pan-fried route. Also flagged: 550°F is hotter than many home ovens will hold. |
 | 2026-08-09 | **A long-standing open question is settled: "Capt. Mike's seasoning" is not a store brand.** [§7.13 Crawfish Elegante](#713-crawfish-elegante) has carried that question since it was transcribed — its card called for a seasoning nobody could identify. Cody identified it as a **blend**, now documented at **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)**: onion and garlic salt, white pepper, cayenne, black pepper, sweet basil, bay leaf, oregano, thyme — with **white pepper as the defining note**, per Cody. §7.13's ingredient line, grocery list, and Open Questions all updated; the question is marked settled rather than deleted. Proportions still aren't recorded, so that carries forward as a new open question on §4.7. |
 | 2026-08-09 | Added **[§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche)** — raw fish cured 36–48 hours in lime juice, no heat anywhere, from Captain Mike's card with his "Captain's Log" notes kept as a fish-selection table. **Carries a prominent freshness warning**, combining Cody's rule (*if you can't get genuinely fresh shrimp, don't make ceviche with shrimp*) with the card's own — since an acid cure isn't heat and doesn't make questionable seafood safe. The card's claim that fresh-frozen can beat "fresh" is confirmed and explained inline: commercial freezing kills parasites, which is why sushi-grade fish is frozen. Filed as **Slow cook 36–48 hr** — an edge case for the §3a rule, since the waiting *is* the cooking even with no heat involved. |
@@ -213,6 +216,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
+| [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
@@ -1015,6 +1019,97 @@ Ground spices fade. This is a nine-ingredient blend built on aromatics that lose
 - **No proportions are recorded** — only the ingredient list, from memory. Worth writing down the ratios once a batch is mixed and tasted. Given Cody's note, white pepper should sit higher than it would in a generic Creole blend.
 - **Ground or whole bay leaf?** Affects whether it's a true shake-on blend or something you fish out of the pot.
 - **Is there a written original?** If a card or label for Captain Mike's blend turns up, it supersedes this reconstruction.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.8 Shrimp and Crab Butter Cream Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 254). A rich butter-and-cream sauce loaded with shrimp and lump crabmeat — closer to a seafood dish in its own right than a drizzle.
+
+> **This is one of the three sauces [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) calls for**, and it was listed there as missing. Now it isn't — §7.3's open question is one-third closed.
+
+**Yield:** about 5 cups — roughly 10 servings
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~25 min**
+
+**Techniques used:** [T6 Seafood Notes](#t6-seafood-notes) · related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) — *but see the warning below; this is the opposite of a Cajun roux*
+
+> ⚠️ **This is a blond roux — do not let it brown.** [§T1](#t1-how-to-make-a-roux) is about taking a roux to dark red-brown or black. Here you want the exact opposite: butter and flour cooked just one minute, kept pale. The recipe's own instruction is blunt — **"If mixture starts to brown, remove from heat."** Browning it would give this sauce a toasted flavor and a dull color it isn't supposed to have.
+
+#### A. Ingredients
+
+- ½ lb (2 sticks) unsalted butter, **in all** *(1 stick for the roux, 1 stick into the sauce)*
+- ¼ cup finely chopped onions
+- 3 Tbsp all-purpose flour
+- 1½ cups Basic Seafood Stock — *see Open Questions*
+- 1 cup heavy cream
+- ½ tsp salt
+- ½ tsp ground red pepper, preferably cayenne
+- 2 dozen peeled medium shrimp — about ¾ lb
+- 1 cup packed lump crabmeat, picked over — about ½ lb
+
+#### B. Cooking Instructions
+
+**1. Sauté the onions in 1 stick of butter. About 1 minute.**
+In a heavy **1-quart** saucepan, melt **1 stick** of the butter with the onions over medium heat and sauté briefly.
+
+**2. Whisk in the flour and cook 1 minute — keeping it pale.**
+Add the flour and blend with a **metal whisk** until smooth. Reduce the heat to **low** and keep cooking and whisking constantly for 1 minute. **If it starts to brown, pull it off the heat** — see the warning above.
+
+**3. Meanwhile, bring the stock to a boil in a separate 2-quart pan.**
+Two pans going at once; start this while the roux cooks.
+
+**4. Whisk the roux and the second stick of butter into the boiling stock.**
+Add the butter-flour mixture and the **remaining 1 stick** of butter to the boiling stock. Cook over **high heat**, whisking constantly, until the butter melts.
+
+**5. Add the cream gradually, whisking constantly.**
+Gradually is the operative word — pouring it in at once is how a butter-heavy sauce like this breaks.
+
+**6. Lower to medium, season, and add the seafood. 1–2 minutes.**
+Stir in the salt and red pepper, then mix in the shrimp and crabmeat. Cook **just until the shrimp are pink and plump**, stirring occasionally — no longer. Per [§T6](#t6-seafood-notes), a minute past that and they go rubbery. Remove from heat.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Medium shrimp, peeled — 2 dozen, about ¾ lb
+- 🏪 Lump crabmeat, picked over — 1 cup packed, about ½ lb *(per [§T6](#t6-seafood-notes), lump crabmeat is one of the two seafoods worth buying precooked)*
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — ½ lb (2 sticks)
+- 🛒 Onion
+- 🛒 All-purpose flour — 3 Tbsp
+- 🛒 Heavy cream — 1 cup
+- 🛒 Salt, ground red pepper (cayenne)
+- 🛒 Seafood stock — 1½ cups *(see Open Questions)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~3,110 | 279 g | 118 g | 30 g | 1 g |
+| **Per serving** *(½ cup, of about 10)* | ~310 | 28 g | 12 g | 3 g | 0 g |
+
+**What a serving is:** about ½ cup ladled over a piece of stuffed fish, a stuffed mirliton, or a plate of pasta. **This is a sauce, so it's on top of whatever it's served over** — the numbers below don't include the dish underneath.
+
+*Two sticks of butter and a cup of heavy cream are essentially the entire fat figure. The shrimp and crab make it unusually high in protein for a sauce.*
+
+#### D. Serving Suggestions
+
+The source serves it over **Stuffed Mirliton** (p. 72 — *[mirliton is chayote; see §T7](#t7-louisiana-language--ingredients)*), and notes it's also great over:
+
+- **Stuffed fish** — including [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder), which names this sauce directly
+- Vegetables
+- Pasta
+- Omelets — *worth remembering for [§10.2](#102-egg-omelette-scrambles) and [§T10 Loaded Frittata](#t10-loaded-frittata-formula)*
+
+#### E. Open Questions
+
+- **Basic Seafood Stock (page 32)** — still the outstanding gap, now shared by four recipes from this same book ([§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and this one). **Page 32 is the single most valuable page left to photograph.**
+- **Stuffed Mirliton (page 72)** isn't in this cookbook either — worth adding, since it's the dish this sauce was written for.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2432,7 +2527,7 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 
 ### 7.3 Seafood Stuffed Flounder
 
-Transcribed from a printed Cajun cookbook page (p. 62–63, *Fish & Seafoods*) — the same book as [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) and [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), which is why it calls for the same Basic Seafood Stock. Whole flounder stuffed with a puréed shrimp-and-oyster dressing over cheddar, pan-fried on the bottom and finished in a 550°F oven.
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 62–63, *Fish & Seafoods*) — the same book as [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya), [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), and [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), which is why they all call for the same Basic Seafood Stock. Whole flounder stuffed with a puréed shrimp-and-oyster dressing over cheddar, pan-fried on the bottom and finished in a 550°F oven.
 
 **The margin note in Cody's hand reads: "12/5/14 ★ Delish!"** — so this one already has a track record.
 
@@ -2575,17 +2670,17 @@ As is, or topped with a sauce — see Part E.
 
 - **Basic Seafood Stock (page 32)** — the same gap as [§7.20](#720-chicken-and-seafood-jambalaya) and [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage); that page still isn't in this cookbook. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute, or use a good store-bought seafood stock.
 - **550°F is unusually hot** — hotter than many home ovens will go, and hotter than most will hold cleanly. Worth confirming what Cody's oven actually did on 12/5/14, and whether a lower temperature for longer worked.
-- **The three finishing sauces** — Hollandaise (p. 258), Shrimp and Crab Butter Cream Sauce (p. 254), and Béarnaise (p. 306) — are all from the source book and none are in this cookbook. *(Jarred hollandaise is already used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you want that route.)*
+- **The three finishing sauces** — one down, two to go. **[§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) (p. 254) is now written up here.** Hollandaise (p. 258) and Béarnaise (p. 306) still aren't. *(Jarred hollandaise is already used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you want that route.)*
 
 #### E. Serving Suggestions
 
 Serve immediately, either plain or topped with one of the source book's sauces:
 
 - **Hollandaise** *(p. 258 of the source)*
-- **Shrimp and Crab Butter Cream Sauce** *(p. 254)*
+- **[Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — ✅ **written up at §4.8**
 - **Béarnaise** *(p. 306)*
 
-None of the three are in this cookbook yet — see Open Questions.
+One of the three is now in this cookbook; the other two aren't yet — see Open Questions.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3186,7 +3281,7 @@ Turn every few minutes for even char on all sides. Chicken is done at 165°F int
 
 ### 7.20 Chicken and Seafood Jambalaya
 
-Transcribed from a printed cookbook page — a baked jambalaya running chicken, tasso, and andouille alongside shrimp and oysters, finished in the oven rather than on the stovetop. A second, more involved jambalaya alongside [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) — that one's a family card; this one's from a proper Cajun cookbook and leans harder into the seafood side.
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — a baked jambalaya running chicken, tasso, and andouille alongside shrimp and oysters, finished in the oven rather than on the stovetop. A second, more involved jambalaya alongside [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) — that one's a family card; this one's from a proper Cajun cookbook and leans harder into the seafood side.
 
 > **Serve as is, or topped with Creole Sauce** — the source page references a Creole Sauce recipe elsewhere in its book that isn't part of this cookbook. Treat it as optional; the jambalaya stands on its own.
 
@@ -3809,7 +3904,7 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 
 ### 8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage
 
-Transcribed from a printed cookbook page — a big-batch seafood gumbo (shrimp, oysters, and crabmeat) with andouille, built on a dark roux. From the same source book as [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) — it references the same "Basic Seafood Stock" and points at its own roux page the same way [§T1](#t1-how-to-make-a-roux) is written up here. A seafood counterpart to [§8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo).
+Transcribed from a printed cookbook page — a big-batch seafood gumbo (shrimp, oysters, and crabmeat) with andouille, built on a dark roux. From **Chef Paul Prudhomme's *Louisiana Kitchen***, the same book as [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya), [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder), and [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) — it references the same "Basic Seafood Stock" and points at its own roux page the same way [§T1](#t1-how-to-make-a-roux) is written up here. A seafood counterpart to [§8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo).
 
 Makes **10 main-dish or 20 appetizer servings**.
 

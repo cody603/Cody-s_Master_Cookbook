@@ -99,6 +99,7 @@ Click any recipe to jump straight to it.
   - [T17. The Raw Egg Soak (Deodorizing Fish & Shellfish)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) ✅
   - [T18. "Pile It On" — Canal House's Plating Formula](#t18-pile-it-on--canal-houses-plating-formula) ✅
   - [T19. How to Boil an Egg (Canal House's Timing Guide)](#t19-how-to-boil-an-egg-canal-houses-timing-guide) ✅
+  - [T20. Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -201,6 +202,7 @@ Click any recipe to jump straight to it.
 - [8.10 Warm Beet Soup](#810-warm-beet-soup) ✅
 - [8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) ✅
 - [8.12 Turkey & Potato Soup](#812-turkey--potato-soup) ✅
+- [8.13 Lobster Stew](#813-lobster-stew) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -223,6 +225,7 @@ Click any recipe to jump straight to it.
 - [9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) ✅
 - [9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) ✅
 - [9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) ✅
+- [9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -255,6 +258,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Three more from Canal House Cooks Every Day.** [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it), p. 236 — the hand-cranked-machine method plus a "Cutting Pasta" sidebar for pappardelle and tagliatelle. **This closes half of an open reference from [§7.41](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)**, which had named this exact page as an untranscribed pasta-cutting technique; §7.41's other reference, the Spinach Pasta dough itself (source p. 238), is still open. Also added **[§8.13 Lobster Stew](#813-lobster-stew)** and **[§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery)**, p. 254–255. **Both of these two carry more transcription uncertainty than usual** — the source photos were upside down and mirrored, a harder read than this cookbook's usual angled-photo problem. Ingredient lists are solid; some step ordering (whether the lobster shells get strained before the potatoes go in; the exact split between the shrimp's poaching liquid and the celery's pickling brine) is a sensible reconstruction rather than a confirmed transcription, flagged prominently rather than presented as settled, with a note that a straight re-photo would resolve it. |
 | 2026-08-10 | **Six more from Canal House Cooks Every Day, closing out this source's autumn and Thanksgiving pages for now.** [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) — double-fried frozen fries, silky buttered spinach, and a quick-seared skirt steak sliced against the grain. **[§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie)** and **[§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie)** — the source's own facing-page pair, a rustic roasted-squash custard pie next to a lighter gelatin-set chiffon version. The chiffon pie is rated 🔴 Hard: it stacks a curdle-risk stovetop custard with a meringue that has to be folded in without deflating, the same double-risk reasoning used for [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise). **Three from the Thanksgiving-leftovers page (p. 228), all cross-linked to each other:** [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich), [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano). **Two untranscribed source-page references surfaced here, both worth knowing about:** Cranberry-Port Gelée and Turkey Stock both cite the same source p. 221 (a Thanksgiving spread not yet photographed), and the Escarole Salad's Preserved Lemon reference (source p. 294) is now the fourth recipe pointing at that same still-missing page, alongside [§4.60](#460-tomato-rollmops), [§9.15](#915-anchovy--lemon-butter), and [§9.16](#916-deviled-eggs). |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 188–189.** [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) — the plainest possible tomato pasta, built to show off the passato itself; the onion simmers in the sauce for flavor, then gets discarded rather than eaten. [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) — a Portuguese-inspired cataplana dish the source rediscovered while cleaning a studio, sausage and clams steamed together with Aleppo pepper. **One flag:** the page-break wording between the sausage/onion step and the clam step was hard to fully verify from the photo's angle — written up following standard cataplana technique and logged as an Open Question. **[§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup)** — soup roasted and served straight from a hollowed pumpkin shell, bread crumbs and Gruyère layered inside with the stock so the flesh gets scraped directly into a cheesy broth at the table. **Rated Slow cook** for the roughly 2-hour unattended bake, the same convention used for every other multi-hour hands-off roast in this cookbook. **Also flagged for reconstruction rather than verified transcription** — several lines of the method were hard to read from the photo; the write-up follows the classic technique and accounts for every listed ingredient. |
 | 2026-08-10 | Added **[§8.10 Warm Beet Soup](#810-warm-beet-soup)** from **Canal House Cooks Every Day** — roasted beets puréed with onion, potato, carrot, and beef broth, brightened with horseradish and Meyer lemon. Genuinely low-fat as written (no added fat in the method itself), which the Nutrition block calls out explicitly rather than leaving as an unexplained outlier. The source's own garnish — sour cream and a handful of extra diced roasted beets — is noted but kept out of the nutrition count, same convention used for optional garnishes elsewhere in this cookbook. |
@@ -466,6 +470,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
+| [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
@@ -477,6 +482,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
+| [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
 | [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) | 🔴 | 25 min | 15 min | — | 2 hr 40 min *(+ 2 hr chill to set)* |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
@@ -507,6 +513,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
+| [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
@@ -6148,6 +6155,76 @@ Very fresh eggs don't peel well no matter how gently — or how long — you've 
 
 ---
 
+### T20. Fresh Pasta (and How to Cut It)
+
+<!-- TECHNIQUE-TAGS: pasta, fresh-pasta, dough, tagliatelle, pappardelle, formula -->
+**Tags:** `pasta` · `fresh-pasta` · `dough` · `tagliatelle` · `pappardelle` · `formula`
+**Source:** Canal House Cooks Every Day, p. 236
+**Used in:** **This closes half of an open reference from [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)**, which named "a pasta-cutting technique (source p. 236)" as not yet transcribed — it's this page. §7.41's other reference, the Spinach Pasta dough itself (source p. 238), is still untranscribed.
+
+*"Fresh homemade pasta, rolled out with a hand-cranked pasta machine, couldn't be easier. Follow our step-by-step pictures to help you through the process."*
+
+> The source's margin note: *"December 3rd, 39°, pasta pasta pasta!"*
+
+**Yield:** makes 1 lb; enough to serve 4
+
+**🟡 Medium** · **Prep ~40 min** · **Cook none** · **Start to finish ~1 hr 10 min** *(includes a 30 min dough rest, minimum — can rest up to several hours)*
+
+#### A. Ingredients
+
+- 2 cups '00' or unbleached all-purpose flour, plus more for dusting
+- 4 large eggs
+- Large pinch of salt
+
+#### B. Cooking Instructions
+
+**1. Make a well and add the eggs.**
+Put the flour into a medium mixing bowl and make a well in the center of the mound. Add the eggs and salt to the well.
+
+**2. Beat the eggs into the flour, gradually.**
+Beat the eggs with a fork, continuing to beat gently while gradually stirring in the flour, little by little, from the inside rim of the well.
+
+**3. Knead by hand and form a ball.**
+When the dough is too lumpy to work with the fork, use your hand and knead in the remaining flour to form a rough ball.
+
+**4. Knead until smooth. Test with a thumb press.**
+Transfer the dough to a lightly floured surface. With clean, dry hands, knead the dough — dusting with flour as you work — until it's a smooth, supple ball and no longer tacky. Press your thumb into the center; if it still feels tacky, knead in a little more flour.
+
+**5. Rest. At least 30 minutes, up to several hours.**
+Cover the dough with an inverted bowl or wrap it in plastic and let it rest at room temperature.
+
+**6. Cut into eighths and roll each piece.**
+Cut the dough into eighths, keeping the pieces covered until ready to use. Working with one piece at a time, flatten it a bit into a rectangle, then feed the narrow end through the smooth cylinders of a hand-crank pasta machine set on the widest setting. Run it through two or three times to make the dough uniform.
+
+**7. Thin the sheets, one notch at a time.**
+Decrease the machine's setting by one notch and feed the dough through again. Repeat, decreasing the setting each time, until the pasta is as thin as you like. **The second-to-last notch is the most versatile thickness**, per the source.
+
+**8. Rest the sheets before cutting.**
+Lay the rolled sheets out on a lightly floured surface and cover with clean, damp kitchen towels to keep them from drying out until you're ready to cut them.
+
+> **CUTTING PASTA, per the source's own sidebar:** Just-rolled sheets are satiny smooth and soft — perfect for a good seal when making stuffed pasta like ravioli. To cut long strands for pappardelle or tagliatelle, let the sheets dry first, but only until they're slightly stiff and still completely pliable. For pappardelle, use a fluted pastry wheel to cut ¾-to-1-inch ribbons. For tagliatelle, run the sheet through your pasta machine's ¼-inch-wide cutting attachment — or loosely roll a sheet up crosswise and cut it into ¼-inch-wide strands by hand, then unfurl.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 '00' or unbleached all-purpose flour — 2 cups, plus more for dusting
+- 🛒 Eggs — 4 large
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 lb dough)* | ~1,185 | 24 g | 52 g | 185 g | 7 g |
+| **Per serving** *(serves 4)* | ~295 | 6 g | 13 g | 46 g | 2 g |
+
+**What a serving is:** ¼ lb fresh pasta — a standard dinner portion, before whatever sauce goes on it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -9800,7 +9877,7 @@ Add the shrimp and the remaining 1 Tbsp of butter and stir until the butter has 
 
 Transcribed from **Canal House Cooks Every Day**, the same page as [§7.40 Shrimp Risotto](#740-shrimp-risotto). A short, source's-own-wording recipe — no separate ingredients block on the page, just this paragraph with quantities built in, the same short-form style as [§5.15 Roasted Asparagus](#515-roasted-asparagus).
 
-**References two source recipes not yet transcribed here:** Spinach Pasta (source p. 238) and a pasta-cutting technique (source p. 236) for turning it into tagliatelle. The recipe itself allows dried tagliatelle as a substitute, so it's fully cookable without either. **"Rich chicken broth" isn't tied to a specific named source recipe on this page** — this cookbook's own [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) or [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) are reasonable stand-ins, or use good store-bought broth.
+**One of its two open references is now resolved: [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it)** is the pasta-cutting technique (source p. 236) this recipe pointed at. **Spinach Pasta itself (source p. 238) is still untranscribed** — the recipe allows dried tagliatelle as a substitute, so it's fully cookable without it. **"Rich chicken broth" isn't tied to a specific named source recipe on this page** — this cookbook's own [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) or [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) are reasonable stand-ins, or use good store-bought broth.
 
 **Yield:** serves 6
 
@@ -11128,6 +11205,90 @@ Serve the soup hot with a sprinkling of chopped chives.
 
 ---
 
+### 8.13 Lobster Stew
+
+Transcribed from **Canal House Cooks Every Day**, p. 254. *"Ask at your fish market to have them steam and crack the lobsters just before you pick them up. If they have good fish stock, pick that up, too."*
+
+> ⚠️ **This transcription carries more uncertainty than usual** — the source photo was upside down and mirrored, which is a harder read than the angled photos this cookbook usually flags. The ingredients below are solid; the exact step order, and specifically whether the lobster shells get strained out before the potatoes and cream go in, is a reasonable reconstruction rather than a confirmed transcription. Worth a straight-on re-photo if it matters.
+
+**Yield:** serves 4–6
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~35 min** · **Start to finish ~55 min**
+
+#### A. Ingredients
+
+- Two 1½-lb lobsters
+- 2–3 russet potatoes, peeled and diced
+- Salt and pepper
+- 1 cup white wine
+- 1 cup good fish stock
+- 4 Tbsp butter
+- 1 onion, finely chopped
+- 2 ribs celery, diced
+- 2 sprigs fresh tarragon
+- 1 cup heavy cream
+- Chopped fresh chives, for garnish
+
+#### B. Cooking Instructions
+
+**1. Kill and parboil the lobsters. About 8 minutes.**
+Plunge the tip of a large sharp knife into the heads of the lobsters, just behind the eyes. *(The source calls this "the hardest part of the whole recipe.")* Drop the lobsters into a large pot of salted boiling water over high heat and cook. Remove and set aside to cool enough to handle.
+
+**2. Remove the meat, reserve the shells.**
+Cut the lobster meat into large bite-size pieces, keeping the claw meat whole. Reserve the shells and any juices.
+
+**3. Sauté the aromatics.**
+Melt the butter in a heavy large pot over medium-low heat. Add the onion, celery, and tarragon. Season with salt and pepper.
+
+**4. Simmer the shells for flavor. About 10 minutes.**
+Add the reserved lobster shells along with the wine and fish stock. Cover and simmer gently, stirring occasionally. Remove and discard the tarragon **and the shells** *(see the flag above — fishing the shells out here is the sensible read, but isn't confirmed word-for-word)*.
+
+**5. Add the potatoes and cream. About 15 minutes.**
+Add the potatoes and cream, cover, and cook until the potatoes are just soft.
+
+**6. Finish with the lobster meat. About 5 minutes.**
+Add the lobster meat and its reserved juices. Adjust the seasoning and heat through gently — don't let it boil hard, or the lobster will toughen.
+
+**7. Serve.**
+Ladle into bowls and garnish with chopped chives.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fishmonger**
+
+- 🏪 Live lobsters — two, 1½ lbs each, steamed and cracked if your fish market will do it
+- 🏪 Good fish stock — 1 cup, from the fish market if they have it
+
+**🛒 General grocery**
+
+- 🛒 Russet potatoes — 2–3
+- 🛒 Salt, pepper
+- 🛒 White wine — 1 cup
+- 🛒 Butter — 4 Tbsp
+- 🛒 Onion — 1
+- 🛒 Celery — 2 ribs
+- 🛒 Fresh tarragon — 2 sprigs
+- 🛒 Heavy cream — 1 cup
+- 🛒 Fresh chives — for garnish
+
+#### D. Open Questions
+
+- **Whether the lobster shells are strained out before the potatoes go in isn't explicit** in what could be read from the photo — flagged above rather than guessed at silently.
+- **Worth a straight, right-side-up re-photo** given how much harder this particular page was to read than usual.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,150 | 136 g | 90 g | 91 g | 10 g |
+| **Per serving** *(serves 5)* | ~430 | 27 g | 18 g | 18 g | 2 g |
+
+**What a serving is:** a generous 1½-cup bowl with plenty of lobster meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 9. Snacks & Light Meals
 
 ### 9.1 Almond Flour Chips and Salsa
@@ -12022,6 +12183,101 @@ Top with the second slice and serve.
 | **Per serving** *(1 sandwich)* | ~630 | 28 g | 32 g | 54 g | 2 g |
 
 **What a serving is:** the whole sandwich — this recipe makes exactly one.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.20 Pickled Shrimp & Celery
+
+Transcribed from **Canal House Cooks Every Day**, p. 255. *"We prefer first to poach the shrimp, then to peel and devein them. That way they maintain their shape rather than curling and flaring into a 'butterfly.'"*
+
+> ⚠️ **This transcription carries more uncertainty than usual, same as [§8.13 Lobster Stew](#813-lobster-stew) from the same batch of photos** — the source page was upside down and mirrored, a harder read than this cookbook's usual angled-photo issue. The ingredient quantities below are a confident read; the exact split between the celery-pickling brine and the shrimp-poaching liquid, and the precise step order, is a sensible reconstruction rather than a confirmed word-for-word transcription. Worth a straight-on re-photo before trusting this one completely.
+
+**Yield:** serves 4–6
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~15 min** · **Start to finish ~35 min** *(plus optional advance time — the brine can be made up to 1 week ahead, per the source)*
+
+#### A. Ingredients
+
+**For the celery pickling brine**
+
+- ½ cup rice wine vinegar
+- ½ cup white wine
+- 2 Tbsp sugar
+- 8 black peppercorns
+- 2 bay leaves
+- 1 onion, finely chopped
+
+**For the shrimp**
+
+- 24–32 medium unpeeled shrimp
+- Salt
+- 5 black peppercorns
+- 5 juniper berries
+- 2 thick slices fresh ginger
+- 1 cinnamon stick
+- 2 Tbsp sugar
+
+**To finish**
+
+- 2 whole celery hearts, some leaves reserved
+- Really good extra-virgin olive oil
+- Chopped fresh chives, for garnish
+
+#### B. Cooking Instructions
+
+**1. Make the pickling brine.**
+Put the rice wine vinegar, white wine, sugar, peppercorns, bay leaves, and onion, along with 1 cup water, into a pot and simmer over medium heat, stirring occasionally, until the sugar dissolves. *(The source notes this brine can be made up to 1 week ahead — keep it refrigerated.)*
+
+**2. Pickle the celery hearts.**
+Trim any large outer ribs from the celery hearts, keeping the hearts whole, and put them into a container. Pour the brine over them, cover, and refrigerate.
+
+**3. Poach the shrimp.**
+Bring a pot of salted water to a boil with the peppercorns, juniper berries, ginger, cinnamon stick, and sugar. Add the unpeeled shrimp and poach until just pink and cooked through.
+
+**4. Peel and devein.**
+Peel and devein the shrimp once they're cool enough to handle — poaching them shell-on first is what keeps them from curling into a "butterfly" shape.
+
+**5. Assemble.**
+Slice the pickled celery hearts. Toss the shrimp and celery with really good extra-virgin olive oil.
+
+**6. Serve.**
+Garnish with chopped chives and the reserved celery leaves.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fishmonger**
+
+- 🏪 Medium unpeeled shrimp — 24–32
+
+**🛒 General grocery**
+
+- 🛒 Rice wine vinegar — ½ cup
+- 🛒 White wine — ½ cup
+- 🛒 Sugar — 2 Tbsp for the brine, 2 Tbsp for poaching
+- 🛒 Black peppercorns
+- 🛒 Bay leaves — 2
+- 🛒 Onion — 1
+- 🛒 Juniper berries — 5
+- 🛒 Fresh ginger — 2 thick slices
+- 🛒 Cinnamon stick — 1
+- 🛒 Celery hearts — 2 whole
+- 🛒 Really good extra-virgin olive oil
+- 🛒 Fresh chives — for garnish
+
+#### D. Open Questions
+
+- **The split between the celery brine and the shrimp poaching liquid is a reconstruction**, not a confirmed transcription — see the flag above. A straight re-photo would settle it.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,140 | 57 g | 54 g | 79 g | 8 g |
+| **Per serving** *(serves 5)* | ~228 | 11 g | 11 g | 16 g | 1.6 g |
+
+**What a serving is:** a generous plated portion — 5–6 shrimp with sliced pickled celery, like the source's own photo shows.
 
 [↑ Table of Contents](#table-of-contents)
 

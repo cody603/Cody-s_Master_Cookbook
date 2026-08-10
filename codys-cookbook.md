@@ -194,6 +194,7 @@ Click any recipe to jump straight to it.
 - [8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ✅ ❤️
 - [8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) ✅
 - [8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) ✅
+- [8.10 Warm Beet Soup](#810-warm-beet-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -245,6 +246,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§8.10 Warm Beet Soup](#810-warm-beet-soup)** from **Canal House Cooks Every Day** — roasted beets puréed with onion, potato, carrot, and beef broth, brightened with horseradish and Meyer lemon. Genuinely low-fat as written (no added fat in the method itself), which the Nutrition block calls out explicitly rather than leaving as an unexplained outlier. The source's own garnish — sour cream and a handful of extra diced roasted beets — is noted but kept out of the nutrition count, same convention used for optional garnishes elsewhere in this cookbook. |
 | 2026-08-10 | **Two more from Canal House Cooks Every Day.** [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) — sautéed chanterelles (which freeze well, per the source's own tip) folded in with big, soft-curd scrambled eggs. **Deliberately kept separate from [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)**, same reasoning as the asparagus and beet entries earlier this session — §10.2 is Cody's own still-undocumented method, not this specific dish. Also added **[§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles)**, p. 173 — a whole-bird, use-the-carcass soup: a 4-hour duck broth (rated Slow cook, unattended), then simmered again with shiitake mushrooms and Sichuan peppercorns, served over rice noodles with Napa cabbage, ham, and cilantro. **The source references two other duck recipes it was built to follow** (Duck Breasts with Apples & Caraway, Confit of Duck Legs) — neither is transcribed here, and the soup doesn't need them; it just needs a raw duck carcass. **One flag, not smoothed over:** a couple of transition sentences in the broth-and-soup method were hard to make out from an angled photo — the write-up is a faithful reconstruction against the full ingredient list and standard technique, logged as an Open Question rather than presented as a guaranteed transcription. |
 | 2026-08-10 | Added **[§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce)** from **Canal House Cooks Every Day**, p. 128 — Cody's own framing for this one: *"summer sauce with only fresh tomatoes."* The sauce itself is never cooked — tomatoes grated on a box grater, mixed with garlic, passato, and olive oil, then tossed with hot drained spaghetti so the residual heat is what warms the sauce through. |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 127 — a page of summer tomato dishes.** [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) and [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) are garlic-toast-and-tomato dishes, filed in §9 alongside this cookbook's other toast-based snacks. **[§4.60 Tomato "Rollmops"](#460-tomato-rollmops)** — anchovy-and-basil-stuffed plum tomato halves cured under olive oil, a make-ahead condiment kept a week — is filed in §4 instead, alongside [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) and the cookbook's other jarred/cured condiments, since the source itself treats it as something you keep on hand and spoon into other dishes rather than a plated dish on its own. **Its nutrition table only counts oil that actually clings to each piece**, not the full cup used to submerge the batch — the submerging oil is a curing medium reused over the week, the same "account for what's eaten" logic already used for marinades and fry oil elsewhere in this cookbook. |
@@ -499,6 +501,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
+| [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
@@ -10620,6 +10623,87 @@ Divide the noodles, sliced cabbage leaves, and scallions between 4 large, deep s
 | **Per serving** *(serves 4)* | ~310 | 4 g | 12 g | 52 g | 1.5 g |
 
 **What a serving is:** a big bowl — noodles, broth, cabbage, and ham together, about 2 cups.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.10 Warm Beet Soup
+
+Transcribed from **Canal House Cooks Every Day**. *"Beets are one of the first root vegetables we plant in our gardens each year and one of the last we pull from the cold dirt in the fall, usually after a frost. We steam or sauté their stems and greens, then season them with a good olive oil and lots of salt and pepper. Or we bathe them simply in melted salted butter with a splash of fresh lemon juice. The beets themselves, roasted or boiled, can be served just like the tops. But beets are also one of our favorites for making soup, cold or hot — in this case a warm velvety soup of outrageous color, and sweet, earthy flavor. We hope it puts the roses back in your cheeks (it always does in ours)."*
+
+> **Garnish, per the source:** a lot of snipped fresh chives and a dollop of sour cream. A small handful of finely diced roasted beets on top is a tasty finishing touch too.
+
+> The source's margin note: *"October 3rd, 57°, cloudy & cool."*
+
+**Yield:** serves 4–6
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr 30 min** *(1 hr roasting the beets, unattended, plus a 30 min simmer)* · **Start to finish ~1 hr 50 min**
+
+#### A. Ingredients
+
+- 2 lbs beets (4–6 medium beets)
+- 1 large onion, chopped
+- 1 large russet potato, peeled and diced
+- 1 carrot, peeled and chopped
+- 6 cups beef broth
+- 2 Tbsp freshly grated or store-bought prepared horseradish
+- Juice of ½ lemon, preferably Meyer
+- Salt and pepper
+- Small bunch fresh chives, chopped
+
+**For garnish (per the source, not in the count above):**
+
+- Sour cream
+- A small handful of finely diced roasted beets
+
+#### B. Cooking Instructions
+
+**1. Roast the beets. About 1 hour.**
+Preheat the oven to 400°F. Wrap each beet in foil and bake until tender when pierced.
+
+**2. Peel and chop.**
+Unwrap the beets, and when they're cool enough to handle, peel off and discard the skin. Coarsely chop and set aside.
+
+**3. Simmer the other vegetables. About 30 minutes.**
+Put the onions, potatoes, carrots, and broth into a heavy large pot and bring to a boil over medium-high heat. Reduce the heat to medium-low and cook until the vegetables are very tender.
+
+**4. Add the beets and horseradish.**
+Add the chopped beets and horseradish to the pot. Set the soup aside to cool slightly.
+
+**5. Purée in batches.**
+Working in small batches, purée the soup in a blender or food processor until very smooth. Thin with a little more broth or water if it's too thick.
+
+**6. Season and reheat.**
+Stir in the lemon juice and season with salt and pepper. Before serving, return the soup to the pot and warm it up over medium-low heat.
+
+**7. Garnish and serve.**
+Garnish with plenty of chives.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Beets — 2 lbs (4–6 medium)
+- 🛒 Onion — 1 large
+- 🛒 Russet potato — 1 large
+- 🛒 Carrot — 1
+- 🛒 Beef broth — 6 cups
+- 🛒 Horseradish, fresh or prepared — 2 Tbsp
+- 🛒 Lemon, preferably Meyer — for ½ juice
+- 🛒 Salt, pepper
+- 🛒 Fresh chives — a small bunch
+- 🛒 Sour cream — for garnish
+- 🛒 A few extra roasted beets — for garnish, optional
+
+#### Nutrition *(estimated, soup only — garnish not counted)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~845 | 0.4 g | 35 g | 174 g | 33 g |
+| **Per serving** *(serves 5)* | ~170 | 0.4 g | 7 g | 35 g | 7 g |
+
+**What a serving is:** a generous 1½-cup bowl. The very low fat number is genuine — this is a broth-and-vegetable purée with no added fat in the method, before whatever sour cream goes on top.
 
 [↑ Table of Contents](#table-of-contents)
 

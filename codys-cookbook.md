@@ -150,6 +150,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | **Checked a re-photographed "Notes from Our Test Kitchen" section against the cookbook and confirmed it's already captured — [§T1](#t1-how-to-make-a-roux), [§T3](#t3-butter-oil-pan-frying--frying), [§T5](#t5-seasonings--peppers), [§T6](#t6-seafood-notes), and [§T7](#t7-louisiana-language--ingredients) all trace to this same source material, checked line by line rather than assumed.** Nothing duplicated. Since the source book — **Chef Paul Prudhomme's *Louisiana Kitchen*** — has since been identified by name (via §4.8's running header, after these five sections were originally written), all five now credit it explicitly instead of the old "technique pages Cody photographed." Two genuinely new facts surfaced and were added: **§T1** gained the source's real number for its burn-risk warning — roux oil gets heated well past **500°F**; **§T5** gained the *why* behind the seasoning-mix system (built for restaurant consistency) and the real commercial product name behind it, **Louisiana Cajun Magic®**. |
 | 2026-08-09 | **Fixed a pre-existing formatting bug found while adding this batch: [§9.7 Chicken Salad](#97-chicken-salad)'s Nutrition block had landed after the §9.8 heading instead of inside §9.7.** Moved it back where it belongs. |
 | 2026-08-09 | Added four more items from **Chef Paul Prudhomme's *Louisiana Kitchen***'s *Appetizers* chapter — split by what they actually are: **[§4.22 Mustard Sauce](#422-mustard-sauce)** and **[§4.23 Remoulade Sauce](#423-remoulade-sauce)** are reusable condiments, so they went in §4 alongside this book's other sauces; **[§9.9 Shrimp Remoulade](#99-shrimp-remoulade)** and **[§9.10 Crabmeat Avery](#910-crabmeat-avery)** are composed, plated appetizers, so they went in §9 next to the Buffalo Chicken Dip instead. §9.9 uses §4.23 directly. **Two genuine problems in the Crabmeat Avery source flagged rather than papered over:** an egg listed in the ingredients that the printed instructions never call for adding, and a cream quantity (⅓ cup) that's short of what the per-ramekin instruction (1 Tbsp × 8) actually needs. Also worth noting: §9.9 is the first of the seven recipes needing Basic Seafood Stock to explicitly allow **water** as a substitute in its own ingredient line. |
 | 2026-08-09 | Added **[§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish)** from *Louisiana Kitchen*, p. 265–266 — a quick cream-and-Parmesan sauce with julienned squash, zucchini, and onion. **Notably self-contained**: no roux, no stock, none of the missing referenced pages that most of this book's other Prudhomme recipes carry. The source's julienne cut is specific (⅛-inch strips, skin-on peelings only) and kept as its own callout rather than folded into a step, since substituting a quick dice would change the dish. |
@@ -2200,7 +2201,9 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 **Tags:** `roux` · `gumbo-base` · `gravy` · `etouffee` · `cajun`
 **Used in:** [§8.3 Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · every future gumbo, gravy, and étouffée
 
-The fast, high-heat Cajun method, taken down from the technique pages Cody photographed out of the same book §8.3 came from. This is the roux that [§8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) calls for, and it will be the roux for gumbos, gravies, and étouffées as those get written up.
+The fast, high-heat Cajun method, taken down from **Chef Paul Prudhomme's *Louisiana Kitchen*** — the same book behind §8.3 and every §4.x sauce and gravy from that source. This is the roux that [§8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) calls for, and it will be the roux for gumbos, gravies, and étouffées as those get written up.
+
+> **Retaken photos of this same source material confirmed the content already here rather than adding anything new** — with one exception: the source gives a real number for how hot "smoking" actually is. **Oil for a roux gets heated well past 500°F.** That's the concrete figure behind the *Cajun napalm* warning above — worth knowing exactly how far past boiling water this is before the first attempt.
 
 A roux is nothing more than flour and fat cooked together — a technique that goes back centuries in Louisiana, traditionally with animal fat and traditionally *slow*, a paste stirred over low heat for several hours. What follows is the modern fast version: same result, minutes instead of hours, at the cost of needing your full attention.
 
@@ -2316,7 +2319,9 @@ The technique itself is about *when* the oil goes in, so the list is short — b
 **Tags:** `frying` · `deep-frying` · `pan-frying` · `paneed` · `oil` · `butter` · `oil-temperature`
 **Used in:** [§8.3 Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) (fried chicken) · [§5.8 Fried Zucchini](#58-fried-zucchini-in-almond-flour) · [§7.8 Fried Catfish](#78-fried-catfish) when written up
 
-Fat selection and frying technique, from the same technique pages. [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo) fries chicken and then builds a roux in the leftover oil, so this section and [§T1](#t1-how-to-make-a-roux) are the two halves of that recipe.
+Fat selection and frying technique, from **Chef Paul Prudhomme's *Louisiana Kitchen*** — same source as [§T1](#t1-how-to-make-a-roux) above. [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo) fries chicken and then builds a roux in the leftover oil, so this section and T1 are the two halves of that recipe.
+
+*Retaken photos of this material were checked against what's already here — content matched, nothing new to add.*
 
 #### Butter, Margarine & Oil
 
@@ -2441,12 +2446,15 @@ Split in two, because this section covers two different things: what goes into a
 <!-- TECHNIQUE-TAGS: seasoning-mix, peppers, cayenne, file, mustard, sage -->
 **Tags:** `seasoning-mix` · `peppers` · `cayenne` · `file` · `mustard` · `sage`
 **Used in:** any Cajun recipe with a long spice list — premix per the system here
+**Source:** Chef Paul Prudhomme's *Louisiana Kitchen*, *Notes from Our Test Kitchen*
 
 #### The Seasoning-Mix System
 
 Mix all of a recipe's herbs and spices together in a small bowl **before you start cooking**, then measure level portions out of that mix at each step. It sounds like a formality and isn't. A Cajun recipe routinely carries eight or more seasonings in quantities small enough to be fiddly, and they usually get added at more than one point in the cook. Premixing means you handle one bowl instead of eight jars mid-cook, the seasoning distributes evenly through the dish, and the total amount of each one actually ends up where the recipe intended.
 
 This is worth borrowing for anything in this cookbook with a long spice list.
+
+**Where this habit actually comes from, per Chef Paul Prudhomme's *Louisiana Kitchen*:** the system was built for restaurant kitchens, where the amounts of a seasoning mix vary a lot from one cook to another unless it's premixed and measured out of a single bowl. That's the whole point — a seasoning mix specially calibrated for a dish, made once, so the results stay *consistent* whether it's you cooking or someone else. The book's own restaurant runs this at scale with a national commercial spice blend called **Louisiana Cajun Magic®** — worth knowing the name exists as a real, buyable Cajun/Creole seasoning blend, alongside the make-your-own approach this cookbook otherwise favors.
 
 #### Peppers
 
@@ -2496,8 +2504,9 @@ The standing pepper and seasoning shelf this section assumes. Buy these once and
 <!-- TECHNIQUE-TAGS: seafood, crawfish, shrimp, crabmeat, oysters -->
 **Tags:** `seafood` · `crawfish` · `shrimp` · `crabmeat` · `oysters`
 **Used in:** [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.13 Crawfish Elegante](#713-crawfish-elegante)
+**Source:** Chef Paul Prudhomme's *Louisiana Kitchen*, *Notes from Our Test Kitchen*
 
-Relevant to [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), and [§7.13 Crawfish Elegante](#713-crawfish-elegante).
+Relevant to [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), and [§7.13 Crawfish Elegante](#713-crawfish-elegante). *Retaken photos of this same material were checked against the notes below — content matched throughout.*
 
 **Crawfish.** Sold three ways: live; fresh blanched and peeled tails in 1-lb bags packed on ice; and frozen peeled tails in 1-lb bags. Where there's no demand there are no crawfish — make friends with a fish market and create the demand.
 
@@ -2538,8 +2547,9 @@ Nearly all of this is a fish-market list rather than a grocery list — that's t
 <!-- TECHNIQUE-TAGS: glossary, andouille, etouffee, jambalaya, tasso, mirliton -->
 **Tags:** `glossary` · `andouille` · `etouffee` · `jambalaya` · `tasso` · `mirliton`
 **Used in:** reference for all Cajun/Creole recipes
+**Source:** Chef Paul Prudhomme's *Louisiana Kitchen*, *Notes from Our Test Kitchen*
 
-A glossary for the Cajun and Creole recipes in this cookbook.
+A glossary for the Cajun and Creole recipes in this cookbook. *Retaken photos of this same glossary page were checked term by term against the table below — every entry already matched.*
 
 | Term | What it means |
 |---|---|

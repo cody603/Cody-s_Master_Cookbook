@@ -230,6 +230,8 @@ Click any recipe to jump straight to it.
 **[14. Desserts](#14-desserts)** *(numbered 14 to avoid renumbering §12–§13 — see the section intro)*
 
 - [14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) ✅
+- [14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) ✅
+- [14.3 Classic Tuiles](#143-classic-tuiles) ○ *(incomplete — continued on source page 118, not yet photographed)*
 
 ---
 
@@ -237,6 +239,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Two more desserts from Canal House Cooks Every Day, p. 115–116.** [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) — a stirred custard sauce over macerated fresh berries, **rated 🔴 Hard** on the same reasoning as [§4.9 Hollandaise](#49-hollandaise-sauce): push the heat too far and the eggs scramble, and the source gives no fix. **[§14.3 Classic Tuiles](#143-classic-tuiles) is flagged as an incomplete transcription, not finished and not silently completed** — the photographed page cuts off mid-sentence with "continued on page 118," and page 118 hasn't been photographed. Written up as far as the source goes, with the missing bake time, doneness cue, and the actual rolling-pin shaping technique logged as Open Questions rather than guessed at. Its difficulty rating is marked provisional and its time badge shows an unknown cook time; the Difficulty & Time Index excludes it from every count and total until the rest arrives. |
 | 2026-08-10 | Added **[§8.8 Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup)** from **Canal House Cooks Every Day**, p. 108 — a blended cold soup for a summer scorcher, the first chilled soup in §8 (everything else there is hot). Avocado, unpeeled cucumber, garlic, and chicken stock blended smooth, finished with lemon juice and salt, garnished with sour cream and hot sauce. The source's own advice to make it the same day it's served, so it keeps its pale green color, is called out rather than left buried in the method. |
 | 2026-08-10 | **First dessert in the cookbook, and a new top-level section for it: [§14 Desserts](#14-desserts), starting with [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler)** from **Canal House Cooks Every Day**, p. 92 — blackberries and raspberries under a chilled-cream biscuit topping, baked until bubbling. **Numbered 14, not 12** — inserting it earlier would have meant renumbering [§12 Recipes To Document](#12-recipes-to-document) and [§13 Meathead Cookbook](#13-meathead-cookbook) and breaking every existing link to them, so it's appended at the real next number instead, consistent with how every other section has been added this session. Noted that the source's own ingredient list uses only blackberries and raspberries, despite strawberries getting a mention in the intro as the season's first arrival — transcribed as printed rather than assumed to include a third berry. |
 | 2026-08-10 | Added **[§5.19 Brazilian Salad](#519-brazilian-salad)** — hearts of palm and tomato, dressed simply with good olive oil and red wine vinegar. **Not from a photographed cookbook page** — Cody dictated the recipe directly, so it's credited as his own rather than attributed to any source, per this cookbook's practice of never asserting a source that wasn't actually shown. |
@@ -387,6 +390,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
+| [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
 | [§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
@@ -425,6 +429,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
 | [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) | 🟡 | 15 min | 15 min | — | 30 min *(+ 30 min–2 hr marinate)* |
 | [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
+| [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) | 🔴 | 10 min | 20 min | — | 45 min *(includes cooling over ice)* |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§4.47 Salsa Verde](#447-salsa-verde) | 🟢 | 15 min | 15 min | — | 30 min |
@@ -490,7 +495,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 71 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 72 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -499,6 +504,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the biggest numbers in this table — two days start to finish, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
 *Recipes still in placeholder form (§3, §5.1–5.9, §6.1, §6.3, §6.4, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
+
+*[§14.3 Classic Tuiles](#143-classic-tuiles) is a different case — not a placeholder, but genuinely incomplete: the source page cuts off mid-recipe with "continued on page 118" and that page hasn't been photographed yet. Its Cook and Start-to-finish times are unknown rather than absent, so it's excluded from every count and total in this section until the rest of the recipe arrives.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -11502,6 +11509,148 @@ Arrange the biscuits over the berries. Sprinkle a little sugar over the top. Bak
 | **Per serving** *(serves 7)* | ~335 | 13 g | 3.5 g | 51 g | 7 g |
 
 **What a serving is:** about 1 cup — a generous bowl of cobbler, berries and biscuit together. The high fiber count is genuinely from the berries, not an estimating quirk — 6 cups of blackberries and raspberries is a lot of fruit.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.2 Sugared Berries with Crème Anglaise
+
+Transcribed from **Canal House Cooks Every Day**, p. 115 — a stirred custard sauce paired with macerated fresh berries. *"We serve this sweetened custard sauce warm in the winter spooned over compotes of dried fruit. In the summer, when berries are sweet and juicy, we serve it chilled like this."*
+
+> The source's margin note: *"July 21st, 99°, in the shade."*
+
+**Yield:** makes 2 cups sauce — about 4 servings, ½ cup each, plus berries
+
+**🔴 Hard** · **Prep ~10 min** · **Cook ~20 min** · **Start to finish ~45 min** *(includes cooling the custard over ice)*
+
+> **Why Hard, not Medium like [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one):** a stirred custard has the same one-shot risk as [§4.9 Hollandaise](#49-hollandaise-sauce) — push the heat too far and the eggs scramble into the milk instead of thickening it, and the source gives no fix if that happens. Watch the pot, not the clock.
+
+#### A. Ingredients
+
+- 2 cups whole milk
+- 3 Tbsp sugar
+- 1 vanilla bean, split lengthwise *(or 1 tsp vanilla bean paste)*
+- 4 large egg yolks
+- Fresh berries, for serving *(quantity not given by the source)*
+- Sugar, for tossing with the berries
+- A splash of kirsch or vanilla extract, for the berries
+
+#### B. Cooking Instructions
+
+**1. Warm the milk with sugar and the vanilla bean.**
+Put the milk, sugar, and split vanilla bean in a heavy medium saucepan. Heat over medium-low, stirring often, until warm and the sugar dissolves.
+
+**2. Whisk the yolks until thick and pale.**
+In a medium bowl, whisk the egg yolks until they're thick and pale yellow.
+
+**3. Temper the yolks with half the warm milk.**
+Gradually whisk half the warm milk into the yolks, whisking constantly so they don't scramble.
+
+**4. Cook the custard. About 15 minutes.**
+Stir the tempered yolk mixture back into the saucepan of milk and cook over medium-low heat, whisking constantly, until it thickens to the consistency of heavy cream.
+
+**5. Strain and chill over ice.**
+Strain the custard through a fine-mesh sieve into a bowl set inside a larger bowl of ice. Stir frequently until it's cooled off. Discard the vanilla bean. Cover and refrigerate until ready to use.
+
+**6. Macerate the berries.**
+Toss fresh berries with a little sugar and a splash of kirsch or vanilla extract in a bowl; let sit briefly.
+
+**7. Serve.**
+Spoon the crème anglaise into dessert dishes with the berries.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole milk — 2 cups
+- 🛒 Sugar — 3 Tbsp for the custard, plus a little more for the berries
+- 🛒 Vanilla bean — 1, or 1 tsp vanilla bean paste
+- 🛒 Eggs — 4, for the yolks
+- 🛒 Fresh berries — your choice, quantity to taste
+- 🛒 Kirsch or vanilla extract — a splash, for the berries
+
+#### Nutrition *(estimated, sauce only — berries not quantified by the source)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups sauce)* | ~670 | 27 g | 26 g | 61 g | 0 g |
+| **Per serving** *(½ cup, of 4)* | ~170 | 7 g | 6.5 g | 15 g | 0 g |
+
+**What a serving is:** ½ cup of sauce spooned over a small bowl of berries. Add the berries' own calories and fiber on top — they aren't in this table since the source doesn't give a quantity.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.3 Classic Tuiles
+
+Transcribed from **Canal House Cooks Every Day**, p. 116 — thin, delicate curved almond cookies, named for the curved terra-cotta roof tiles of southern France. *"These delicate curved cookies are named for the terra-cotta roof tiles seen throughout the south of France. It takes a little practice to master lifting them off the parchment paper once they are baked, but don't be discouraged. They are such elegant cookies and fun to make. However, we avoid making them on a humid day. They will not stay crisp."*
+
+> ⚠️ **This transcription is incomplete.** The source page itself says *"continued on page 118,"* and the photographed text cuts off mid-sentence and mid-technique — the actual tuile-shaping step (draping the warm cookies over a rolling pin to curve them, which Step 1 explicitly sets up but never executes) isn't shown, and neither is a finished bake time or doneness cue. Written up as far as the photo goes; see Open Questions for exactly what's missing.
+
+> The source's margin note: *"July 25th, 81°, no humidity."*
+
+**Yield:** makes 2–3 dozen
+
+**🔴 Hard** *(provisional — see Open Questions)* · **Prep ~15 min** · **Cook — not yet known**
+
+#### A. Ingredients
+
+- 2 egg whites, at room temperature
+- Pinch of salt
+- 6 Tbsp sugar
+- ¼ tsp vanilla extract
+- ¼ tsp almond extract
+- ½ cup sifted cake flour
+- 5 Tbsp unsalted butter, very soft but not melted
+- ½ cup sliced blanched almonds
+
+#### B. Cooking Instructions *(as far as the photographed page goes)*
+
+**1. Preheat and prep.**
+Preheat the oven to 350°F. Line several cookie sheets with parchment paper and set aside. Set out a rolling pin — the warm cookies get draped over it after baking to curve them (see Open Questions).
+
+**2. Whisk the egg whites frothy.**
+Whisk together the egg whites, salt, sugar, and vanilla and almond extracts in a medium mixing bowl until very frothy.
+
+**3. Whisk in the flour, then the butter.**
+Whisk in the flour in thirds. Whisk in the butter a few tablespoons at a time, until the batter is smooth and opaque.
+
+**4. Spread the batter into rounds.**
+Drop the batter by the tablespoonful onto the prepared cookie sheets, spaced at least 3 inches apart. Use the back of the spoon in a circular motion to spread each into about a 4-inch round. The batter will look very thin and not necessarily even — that's expected, not a sign something's gone wrong.
+
+**5. Scatter almonds over the rounds.**
+
+*(The recipe continues on source page 118 — bake time, doneness cue, and the rolling-pin shaping step aren't transcribed yet.)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 2, for the whites
+- 🛒 Salt
+- 🛒 Sugar — 6 Tbsp
+- 🛒 Vanilla extract — ¼ tsp
+- 🛒 Almond extract — ¼ tsp
+- 🛒 Cake flour — ½ cup, sifted
+- 🛒 Unsalted butter — 5 Tbsp
+- 🛒 Sliced blanched almonds — ½ cup
+
+#### D. Open Questions
+
+- **Bake time and doneness cue are missing** — the photographed text cuts off mid-word ("the cook—") right where the source would say what to look for. 350°F is confirmed; how long is not.
+- **The signature shaping step isn't shown.** Step 1 sets out a rolling pin specifically to drape the warm cookies over — that's what gives tuiles their curve — but the technique itself (when, how long to hold the shape, how warm the cookie needs to be to bend without cracking) is on the untranscribed page 118.
+- **Difficulty is provisional.** Rated 🔴 Hard on the assumption that shaping warm, fragile cookies fast enough that they don't set flat first is a real technique risk — worth revisiting once page 118 fills in the actual method.
+
+#### E. Nutrition *(estimated, batter as mixed — bake loss not accounted, minimal for a thin cookie)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2–3 dozen, using 30)* | ~1,310 | 81 g | 21 g | 133 g | 6 g |
+| **Per cookie** | ~44 | 2.7 g | 0.7 g | 4.4 g | 0.2 g |
+
+**What a serving is:** a few cookies — these are small, thin, and delicate, not a single-cookie portion.
 
 [↑ Table of Contents](#table-of-contents)
 

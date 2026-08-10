@@ -80,6 +80,7 @@ Click any recipe to jump straight to it.
   - [4.59 Tonnato Sauce](#459-tonnato-sauce) ✅ 🔖
   - [4.60 Tomato "Rollmops"](#460-tomato-rollmops) ✅
   - [4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) ✅
+  - [4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -270,6 +271,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 228), from the recipe "Spatchcocked Chicken with Walnut-Dill Pesto." **Only the pesto is transcribed, per Cody's explicit request** — dill, basil, garlic, walnuts, and Romano cheese, loosened with olive oil, lemon juice, and water into a thick, spoonable dressing. The source's own spatchcocking-and-grilling method and its use of the pesto as a chicken rub-and-baste are not included; Cody has his own way of doing barbecue chicken and just wanted the pesto itself. |
 | 2026-08-10 | **Closed out §7.32's last open reference, and added Cody's own rib-marinade technique.** [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise), transcribed from **Steven Raichlen's *How to Grill*** (p. 452) — a shortcut Béarnaise built by stirring a shallot-tarragon-white-wine reduction into store-bought mayonnaise instead of a from-scratch emulsion. This was the last of the five serving sauces named by [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin); §7.32's own text is updated now that all five are transcribed. **Also added [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), Cody's own dictated technique, not from a photographed source.** Two methods: a dry brine (salt and fridge) or a wet marinade (apple cider vinegar and hand-squeezed lemon juice, 6 hours to overnight). Cody's own figure — 1 lemon per rack — is used as given; **the apple cider vinegar quantity (½ cup per rack) is my own judgment call**, since Cody explicitly asked for a modular starting point rather than dictating an exact ratio, with worked totals at his stated batch sizes of 4 and 6–7 racks. A minimal **[§6.5 Smoked Ribs](#65-smoked-ribs)** placeholder was added too, cross-linked to T22, with the rub/wood/temp/time still needed to complete it. |
 | 2026-08-10 | Added **[§7.49 "Brunette" de Veau](#749-brunette-de-veau)** from **Canal House Cooks Every Day** — a browned, deliberately un-classical take on Blanquette de Veau (which stays pale on purpose); the source calls their version "brunette" precisely because they brown the veal shanks for extra flavor and caramelization instead of avoiding color the traditional way. Also: **a clearer re-photo of the [§9.11](#911-melba-toasts)–[§9.15](#915-anchovy--lemon-butter) melba toast spread confirmed every existing ingredient and quantity as already transcribed** — nothing needed correcting — and picked up a margin note that had been missing: *"February 28th, 31°, bright sunshiny day,"* now added to §9.11. |
 | 2026-08-10 | **A long-standing open reference finally resolved: [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular).** Four recipes have been citing an untranscribed "Preserved Lemon (page 294)" — [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), [§9.16 Deviled Eggs](#916-deviled-eggs), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) all now point here instead. (One correction while doing it: [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) had been listed as a fourth citer in earlier changelog notes — checked against its actual ingredient list, and it never actually calls for preserved lemon; that was a bookkeeping error, now fixed rather than left standing.) **Directly answers Cody's question**: yes, regular lemons work if Meyer lemons aren't available — the source's own text says this is literally the traditional Moroccan method, and Meyer lemons only entered the picture because of a friend's backyard windfall. Filed as a formula rather than a fixed recipe, since the source works from "a half-bushel" rather than a precise home-kitchen quantity. **Also added, all from the same source:** [§7.47 Shrimp Roast](#747-shrimp-roast) (a friend's Kerala-style shrimp curry, its own Curd Rice pairing flagged as an untranscribed reference) and [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) (a from-scratch dry-brined and cured brisket, kept deliberately separate from Cody's own [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) placeholder, same reasoning as every other "Cody's own vs. a new source's version" split this session; its Parsley Sauce pairing is likewise flagged as untranscribed). And **[§10.6 Irish Soda Bread](#106-irish-soda-bread)** — a quick bread with currants and caraway, filed in Breakfast per the source's own "toast slices for breakfast" line. |
@@ -442,6 +444,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
+| [§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) | 🟢 | 15 min | — | — | 15 min |
 | [§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
@@ -567,7 +570,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 85 recipes**, including nearly all of §4's now-61 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 86 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -4587,6 +4590,66 @@ Cover and chill until serving. Good alongside [§7.32 Herb-Crusted Grilled Beef 
 | **Per serving** *(serves 8, about 3 Tbsp each)* | ~241 | 25 g | 0.5 g | 1.5 g | 0.1 g |
 
 **What a serving is:** about 3 Tbsp — a generous dollop alongside a portion of grilled meat or fish, not a standalone dish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.62 Walnut-Dill Pesto
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 228 — the *Chicken and More* chapter, from the recipe **"Spatchcocked Chicken with Walnut-Dill Pesto."** **Only the pesto itself is transcribed here, by Cody's request** — he has his own way of doing barbecue chicken and isn't using the source's spatchcocking-and-grilling method, just this pesto. A food-processor blend of dill, basil, garlic, walnuts, and Romano, loosened with olive oil, lemon juice, and water into something closer to a thick, spoonable dressing than a classic thick pesto.
+
+> **Source context, for reference only:** the full recipe uses this pesto as both a rub under the skin of two spatchcocked chickens and a reserved baste brushed on partway through grilling. That application isn't transcribed here — just the pesto itself, to use however fits your own chicken.
+
+**Yield:** about 3 cups
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ⅓ cup freshly grated Romano cheese
+- 2 strips lemon zest (½ by 2 inches)
+- 1 cup extra-virgin olive oil
+- ¾ cup lemon juice
+- 1 tsp coarse salt, or more to taste
+- 1 tsp black pepper, or more to taste
+- 1 bunch fresh dill, washed, stemmed, and chopped *(save a few sprigs for garnish)*
+- 1 bunch fresh basil, washed, stemmed, and chopped
+- 5 cloves garlic
+- ⅓ cup walnut pieces
+- ¾ cup water
+
+#### B. Cooking Instructions
+
+**1. Finely chop the solids.**
+Place the dill, basil, garlic, walnuts, cheese, and lemon zest in a food processor and process until very finely chopped.
+
+**2. Loosen it into a pesto with the machine running.**
+With the machine still running, add the oil, lemon juice, salt, pepper, and ¾ cup water. Taste for seasoning, adding more salt and pepper as necessary — the pesto should be highly seasoned.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Romano cheese, freshly grated — ⅓ cup
+- 🛒 Lemon — for zest (2 strips) and juice (¾ cup)
+- 🛒 Extra-virgin olive oil — 1 cup
+- 🛒 Coarse salt and black pepper
+- 🛒 Fresh dill — 1 bunch
+- 🛒 Fresh basil — 1 bunch
+- 🛒 Garlic — 5 cloves
+- 🛒 Walnut pieces — ⅓ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 3 cups)* | ~2,390 | 252 g | 20 g | 28 g | 5 g |
+| **Per serving** *(makes about 24 servings, 2 Tbsp each)* | ~100 | 10.5 g | 0.8 g | 1.2 g | 0.2 g |
+
+**What a serving is:** 2 Tbsp — a dressing-sized portion, the same convention used for [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce).
+
+*Olive oil is most of the fat and calories here; the ¾ cup of water and ¾ cup of lemon juice keep this looser and lighter per tablespoon than a classic thick basil pesto.*
 
 [↑ Table of Contents](#table-of-contents)
 

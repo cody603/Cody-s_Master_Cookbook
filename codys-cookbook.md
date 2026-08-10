@@ -129,6 +129,7 @@ Click any recipe to jump straight to it.
 - [5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) ✅ 🔖
 - [5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) ✅ 🔖
 - [5.19 Brazilian Salad](#519-brazilian-salad) ✅
+- [5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -184,6 +185,7 @@ Click any recipe to jump straight to it.
 - [7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) ✅
 - [7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) ✅
 - [7.45 Sausage & Clam Stew](#745-sausage--clam-stew) ✅
+- [7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -198,6 +200,7 @@ Click any recipe to jump straight to it.
 - [8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) ✅
 - [8.10 Warm Beet Soup](#810-warm-beet-soup) ✅
 - [8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) ✅
+- [8.12 Turkey & Potato Soup](#812-turkey--potato-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -219,6 +222,7 @@ Click any recipe to jump straight to it.
 - [9.16 Deviled Eggs](#916-deviled-eggs) ✅
 - [9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) ✅
 - [9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) ✅
+- [9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -242,6 +246,8 @@ Click any recipe to jump straight to it.
 - [14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) ✅
 - [14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) ✅
 - [14.3 Classic Tuiles](#143-classic-tuiles) ○ *(incomplete — continued on source page 118, not yet photographed)*
+- [14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) ✅
+- [14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) ✅
 
 ---
 
@@ -249,6 +255,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Six more from Canal House Cooks Every Day, closing out this source's autumn and Thanksgiving pages for now.** [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) — double-fried frozen fries, silky buttered spinach, and a quick-seared skirt steak sliced against the grain. **[§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie)** and **[§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie)** — the source's own facing-page pair, a rustic roasted-squash custard pie next to a lighter gelatin-set chiffon version. The chiffon pie is rated 🔴 Hard: it stacks a curdle-risk stovetop custard with a meringue that has to be folded in without deflating, the same double-risk reasoning used for [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise). **Three from the Thanksgiving-leftovers page (p. 228), all cross-linked to each other:** [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich), [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano). **Two untranscribed source-page references surfaced here, both worth knowing about:** Cranberry-Port Gelée and Turkey Stock both cite the same source p. 221 (a Thanksgiving spread not yet photographed), and the Escarole Salad's Preserved Lemon reference (source p. 294) is now the fourth recipe pointing at that same still-missing page, alongside [§4.60](#460-tomato-rollmops), [§9.15](#915-anchovy--lemon-butter), and [§9.16](#916-deviled-eggs). |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day, p. 188–189.** [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) — the plainest possible tomato pasta, built to show off the passato itself; the onion simmers in the sauce for flavor, then gets discarded rather than eaten. [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) — a Portuguese-inspired cataplana dish the source rediscovered while cleaning a studio, sausage and clams steamed together with Aleppo pepper. **One flag:** the page-break wording between the sausage/onion step and the clam step was hard to fully verify from the photo's angle — written up following standard cataplana technique and logged as an Open Question. **[§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup)** — soup roasted and served straight from a hollowed pumpkin shell, bread crumbs and Gruyère layered inside with the stock so the flesh gets scraped directly into a cheesy broth at the table. **Rated Slow cook** for the roughly 2-hour unattended bake, the same convention used for every other multi-hour hands-off roast in this cookbook. **Also flagged for reconstruction rather than verified transcription** — several lines of the method were hard to read from the photo; the write-up follows the classic technique and accounts for every listed ingredient. |
 | 2026-08-10 | Added **[§8.10 Warm Beet Soup](#810-warm-beet-soup)** from **Canal House Cooks Every Day** — roasted beets puréed with onion, potato, carrot, and beef broth, brightened with horseradish and Meyer lemon. Genuinely low-fat as written (no added fat in the method itself), which the Nutrition block calls out explicitly rather than leaving as an unexplained outlier. The source's own garnish — sour cream and a handful of extra diced roasted beets — is noted but kept out of the nutrition count, same convention used for optional garnishes elsewhere in this cookbook. |
 | 2026-08-10 | **Two more from Canal House Cooks Every Day.** [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) — sautéed chanterelles (which freeze well, per the source's own tip) folded in with big, soft-curd scrambled eggs. **Deliberately kept separate from [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)**, same reasoning as the asparagus and beet entries earlier this session — §10.2 is Cody's own still-undocumented method, not this specific dish. Also added **[§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles)**, p. 173 — a whole-bird, use-the-carcass soup: a 4-hour duck broth (rated Slow cook, unattended), then simmered again with shiitake mushrooms and Sichuan peppercorns, served over rice noodles with Napa cabbage, ham, and cilantro. **The source references two other duck recipes it was built to follow** (Duck Breasts with Apples & Caraway, Confit of Duck Legs) — neither is transcribed here, and the soup doesn't need them; it just needs a raw duck carcass. **One flag, not smoothed over:** a couple of transition sentences in the broth-and-soup method were hard to make out from an angled photo — the write-up is a faithful reconstruction against the full ingredient list and standard technique, logged as an Open Question rather than presented as a guaranteed transcription. |
@@ -375,8 +382,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
+| [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
+| [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -467,6 +476,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
+| [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
+| [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) | 🔴 | 25 min | 15 min | — | 2 hr 40 min *(+ 2 hr chill to set)* |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
@@ -477,6 +488,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) | 🟢 | 10 min | 35 min | — | 45 min |
+| [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) | 🟡 | 10 min | 35 min | — | 45 min |
+| [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§T9 Hearty Soup Formula](#t9-hearty-main-course-soup-formula) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -520,7 +533,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 77 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 79 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -6859,6 +6872,67 @@ Let it sit so the flavors mingle. Serve at room temperature.
 
 ---
 
+### 5.20 Escarole Salad with Lemon & Parmigiano
+
+Transcribed from **Canal House Cooks Every Day**, p. 228 — the same page as [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) and [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup). *"Use the best olive oil you can find to make this salad."*
+
+**References Preserved Lemon (source p. 294), not yet transcribed here** — same open reference as [§4.60 Tomato "Rollmops"](#460-tomato-rollmops), [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), and [§9.16 Deviled Eggs](#916-deviled-eggs).
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- ½ clove garlic
+- A pinch of salt
+- Diced rind of ¼ preserved lemon
+- Juice of ½ lemon
+- 4–6 Tbsp really good extra-virgin olive oil
+- 4–6 cups dry, trimmed escarole leaves
+- Plenty of thin shavings of parmigiano-reggiano
+- Cracked black pepper
+
+#### B. Cooking Instructions
+
+**1. Mash the garlic and salt.**
+Mash together the garlic and a pinch of salt with the back of a wooden spoon in a salad bowl.
+
+**2. Build the vinaigrette.**
+Stir in the diced preserved lemon rind and the lemon juice. Whisk in the olive oil, adding more to taste.
+
+**3. Toss and garnish.**
+Toss the escarole with the vinaigrette. Serve garnished with plenty of parmigiano shavings and some cracked black pepper.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — gourmet/Mediterranean**
+
+- 🏪 Preserved lemon — ¼, for the diced rind
+
+**🛒 General grocery**
+
+- 🛒 Garlic — ½ clove
+- 🛒 Salt
+- 🛒 Lemon — for ½ juice
+- 🛒 Really good extra-virgin olive oil — 4–6 Tbsp
+- 🛒 Escarole — 4–6 cups, trimmed
+- 🛒 Parmigiano-reggiano — for shaving over
+- 🛒 Black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~760 | 75 g | 12 g | 14 g | 4 g |
+| **Per serving** *(serves 4)* | ~190 | 19 g | 3 g | 4 g | 1 g |
+
+**What a serving is:** a generous side salad, about 1–1½ cups of dressed escarole with cheese.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -10046,6 +10120,79 @@ Serve in wide soup bowls with warm, crusty bread for sopping up the flavorful br
 
 ---
 
+### 7.46 Skirt Steak with Buttered Spinach & French Fries
+
+Transcribed from **Canal House Cooks Every Day**. *"When we are in a pinch we pull out the frozen French fries. When they are double fried (as all classic French fries are), they taste mighty close to homemade fries. The trick to skirt steak — a flavorful but not so tender cut — is to slice it across the grain. Then it is one of the most delectable pieces of beef around."*
+
+> The source's margin note: *"November 15th, 48°, dark overcast day."*
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~35 min** · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+**For the French fries**
+
+- Canola oil
+- 2-lb bag frozen French fries
+- Salt and pepper
+
+**For the spinach**
+
+- 8 Tbsp butter
+- 1 lb fresh spinach
+- Salt and pepper
+
+**For the steak**
+
+- 1¼ lbs skirt steak, cut in half crosswise
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. First-fry the potatoes. About 2 minutes.**
+Add enough canola oil to a heavy medium pot to reach a depth of 3 inches. Heat over medium-high heat until the oil reaches 350°F on a candy thermometer — or, if a wooden chopstick dipped into the oil sends bubbles up right away, it's ready. Working in batches, carefully slip in the frozen fries and fry until pale golden. *(The second frying is what makes them crisp — don't worry that they're pale now.)* Transfer with a slotted spatula to a wire rack set over paper towels to drain.
+
+**2. Cook the spinach. 10–12 minutes.**
+Melt the butter in a large pot over medium heat. Add the spinach by handfuls, turning with tongs to coat with butter, adding more handfuls as it wilts and tossing with each addition. Once all the spinach is in, cover, reduce the heat to medium-low, and cook, tossing occasionally, until the spinach is very silky. Remove from the heat, season with salt and pepper, and cover to keep warm.
+
+**3. Sear the steak. 2–3 minutes per side.**
+Heat a large grill pan over medium-high heat. Season the steaks well on both sides with salt and pepper. When the pan is hot, cook the steaks until well browned on both sides. Remove from the heat and let them rest on a cutting board.
+
+**4. Second-fry the potatoes. 2–3 minutes.**
+As the steaks rest, reheat the oil to 350°F and fry the potatoes again, working in batches, until deep golden. Transfer to the wire rack to drain and season with salt.
+
+**5. Slice and serve.**
+Thinly slice the steaks across the grain, and serve with the buttered spinach and hot French fries.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Skirt steak — 1¼ lbs
+
+**🛒 General grocery**
+
+- 🛒 Canola oil — for frying
+- 🛒 Frozen French fries — one 2-lb bag
+- 🛒 Butter — 8 Tbsp
+- 🛒 Fresh spinach — 1 lb
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,490 | 224 g | 133 g | 245 g | 29 g |
+| **Per serving** *(serves 4)* | ~875 | 56 g | 33 g | 61 g | 7 g |
+
+**What a serving is:** sliced steak with a generous pile of buttered spinach and hot fries — a full dinner plate.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.1 Chili
@@ -10922,6 +11069,65 @@ Carefully transfer the pumpkin to a serving platter. Remove and discard the bay 
 
 ---
 
+### 8.12 Turkey & Potato Soup
+
+Transcribed from **Canal House Cooks Every Day**, p. 228 — a Thanksgiving-leftovers dish, built from two things a Thanksgiving kitchen always has extra of. *"We came up with this soup years ago simply by using two things we always have plenty of at Thanksgiving: turkey stock and leftover mashed potatoes. Now we even make this when we don't have leftover potatoes. This soup is quite delicate and soothing after all the Thanksgiving gluttony."*
+
+**References Turkey Stock (source p. 221), not yet transcribed here** — same source page as [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich)'s Cranberry-Port Gelée reference; both point at the same untranscribed Thanksgiving spread.
+
+> The source's margin note: *"November 26th, 31°, hoarfrost."*
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 2 large russet potatoes, peeled and sliced
+- ¼ cup whole milk
+- 3 Tbsp unsalted butter
+- 3–4 cups hot turkey stock
+- Salt and pepper
+- 2 Tbsp chopped fresh chives
+
+#### B. Cooking Instructions
+
+**1. Boil the potatoes. 20–30 minutes.**
+Put the potatoes in a pot of salted cold water. Bring to a boil over medium-high heat and cook until very soft.
+
+**2. Mash with milk and butter.**
+Drain off almost all the water, adding the milk and butter as you go, then mash the potatoes with a potato masher until very smooth.
+
+**3. Loosen with turkey stock.**
+Stir in enough of the hot turkey stock to make a smooth, velvety soup. Season with salt and pepper.
+
+**4. Serve.**
+Serve the soup hot with a sprinkling of chopped chives.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Russet potatoes — 2 large
+- 🛒 Whole milk — ¼ cup
+- 🛒 Unsalted butter — 3 Tbsp
+- 🛒 Turkey stock — 3–4 cups, hot
+- 🛒 Salt, pepper
+- 🛒 Fresh chives — 2 Tbsp chopped
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~870 | 36 g | 23 g | 111 g | 8 g |
+| **Per serving** *(serves 4)* | ~218 | 9 g | 6 g | 28 g | 2 g |
+
+**What a serving is:** a smooth, velvety 1-cup bowl — the day-after-Thanksgiving version of leftover mashed potatoes.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 9. Snacks & Light Meals
 
 ### 9.1 Almond Flour Chips and Salsa
@@ -11761,6 +11967,66 @@ Pile the tomatoes on one slice, then top with the other.
 
 ---
 
+### 9.19 Day-After-Thanksgiving Turkey Sandwich
+
+Transcribed from **Canal House Cooks Every Day**, p. 228 — the day-after-Thanksgiving leftovers sandwich, same page as [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano). *"The very best part of Thanksgiving is the day-after leftover turkey sandwich. We like ours on good white bread slathered with mayonnaise, a spoonful of turkey drippings or gravy, and Cranberry-Port Gelée (page 221); with a leaf or two of crisp lettuce and a pile of thinly sliced turkey breast meat seasoned with lots of salt and pepper, although there may be a splash of last night's Champagne milk is our beverage of choice (with a small silver spoon hanging in the neck of the bottle to preserve precious bubbles). Better stick with milk."*
+
+**References Cranberry-Port Gelée (source p. 221), not yet transcribed here** — same untranscribed source page as [§8.12](#812-turkey--potato-soup)'s Turkey Stock.
+
+> The source's margin note: *"November 25th, 37°, clear as a bell."*
+
+**Yield:** makes 1
+
+**🟢 Easy** · **Prep ~8 min** · **Cook none** · **Start to finish ~8 min**
+
+#### A. Ingredients
+
+- 2 slices good white bread
+- Mayonnaise
+- A spoonful of turkey drippings or gravy
+- A spoonful of Cranberry-Port Gelée *(source p. 221, or substitute cranberry sauce)*
+- A leaf or two of crisp lettuce
+- Thinly sliced turkey breast meat
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Dress both slices of bread.**
+Slather one slice with mayonnaise. Spread the turkey drippings or gravy and the Cranberry-Port Gelée on the other.
+
+**2. Build the sandwich.**
+Layer the lettuce and a generous pile of sliced turkey breast on the bread. Season the turkey well with salt and pepper.
+
+**3. Close and serve.**
+Top with the second slice and serve.
+
+> **Drink pairing, per the source:** milk, not last night's Champagne — *"better stick with milk."*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Good white bread — 2 slices
+- 🛒 Mayonnaise
+- 🛒 Leftover turkey drippings or gravy
+- 🛒 Cranberry-Port Gelée, or substitute cranberry sauce
+- 🛒 Crisp lettuce
+- 🛒 Leftover sliced turkey breast
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole sandwich** *(makes 1)* | ~630 | 28 g | 32 g | 54 g | 2 g |
+| **Per serving** *(1 sandwich)* | ~630 | 28 g | 32 g | 54 g | 2 g |
+
+**What a serving is:** the whole sandwich — this recipe makes exactly one.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 10. Breakfast
 
 ### 10.1 Huevos Rancheros
@@ -12377,6 +12643,173 @@ Drop the batter by the tablespoonful onto the prepared cookie sheets, spaced at 
 | **Per cookie** | ~44 | 2.7 g | 0.7 g | 4.4 g | 0.2 g |
 
 **What a serving is:** a few cookies — these are small, thin, and delicate, not a single-cookie portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.4 Kabocha Squash Pie
+
+Transcribed from **Canal House Cooks Every Day**, p. 226 — an autumn pie built on roasted kabocha rather than canned pumpkin. *"We prefer the sweet flavorful flesh of the kabocha squash over any other pie pumpkin. The chestnutlike texture of this pie makes it especially toothsome."*
+
+**Yield:** makes one 9-inch pie
+
+**🟡 Medium** · **Prep ~30 min** · **Cook ~10 min** *(assembly between bakes)* · **Slow cook ~2 hr** *(1 hr roasting the squash, 1 hr baking the pie — both unattended oven time)* · **Start to finish ~3 hr 40 min** *(includes a 1 hr dough chill)*
+
+#### A. Ingredients
+
+**For the pie crust**
+
+- 1 cup all-purpose flour, plus some for rolling
+- 1 Tbsp sugar
+- Small pinch salt
+- 6 Tbsp cold unsalted butter, cut into small pieces
+- 1 Tbsp cold vegetable shortening
+- 3 Tbsp ice water
+
+**For the filling**
+
+- 3 lbs kabocha squash, to measure about 2½ cups when baked
+- ¾ cup packed light brown sugar
+- 2 Tbsp molasses or sorghum
+- 3 egg yolks
+- ½ cup heavy cream
+- 1 tsp ground ginger
+- 1 tsp ground cinnamon
+- 1 tsp ground mace
+- Pinch of salt
+- 1 Tbsp granulated sugar
+- 1 tsp ground cinnamon
+- Freshly whipped cream, for serving
+
+#### B. Cooking Instructions
+
+**1. Make the dough.**
+Whisk together the flour, sugar, and salt in a mixing bowl. Work the butter and shortening into the flour with a pastry blender or two knives, until it resembles coarse cornmeal. Sprinkle in the ice water and toss lightly until the dough comes together. Shape into a flat disk — don't overhandle it. Wrap in plastic and chill at least 1 hour.
+
+**2. Roast the squash. About 1 hour.**
+Preheat the oven to 400°F. Cut the squash in half horizontally and scoop out and discard the seeds. Place cut side down on a baking pan with a splash of water. Bake until tender when pierced with a knife. Set aside to cool. Reduce the oven to 375°F.
+
+**3. Scoop and mix the filling.**
+When the squash is cool enough to handle, scoop out 2½ cups of flesh and discard the skins. Put the flesh in a large bowl with the brown sugar, molasses, egg yolks, cream, ginger, cinnamon, mace, and salt. Mix until smooth.
+
+**4. Roll and fit the crust.**
+Roll the dough into a 12-inch round on a lightly floured surface. Roll it loosely around the rolling pin, then unfurl into a 9-inch pie pan. Press in lightly, leaving 1 inch of overhang. Trim the excess, tuck the dough under itself, and crimp the edge with your thumb and forefinger.
+
+**5. Fill and bake. 1 hour.**
+Pour the filling into the unbaked crust and smooth the top with a rubber spatula. Bake for 1 hour.
+
+**6. Finish and serve.**
+Mix the granulated sugar and cinnamon in a small bowl and sprinkle over the top of the pie. Serve with dollops of whipped cream.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 1 cup, plus more for rolling
+- 🛒 Sugar — 1 Tbsp for the crust, 1 Tbsp for the topping
+- 🛒 Salt
+- 🛒 Unsalted butter — 6 Tbsp, cold
+- 🛒 Vegetable shortening — 1 Tbsp, cold
+- 🛒 Kabocha squash — 3 lbs
+- 🛒 Light brown sugar — ¾ cup
+- 🛒 Molasses or sorghum — 2 Tbsp
+- 🛒 Eggs — 3, for the yolks
+- 🛒 Heavy cream — ½ cup
+- 🛒 Ground ginger — 1 tsp
+- 🛒 Ground cinnamon — 2 tsp total
+- 🛒 Ground mace — 1 tsp
+- 🛒 Whipped cream — for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~2,770 | 134 g | 31 g | 356 g | 17 g |
+| **Per serving** *(1 slice, of 8)* | ~345 | 17 g | 4 g | 44 g | 2 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8 — figures above don't include the whipped cream on top.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.5 Pumpkin Chiffon Pie
+
+Transcribed from **Canal House Cooks Every Day**, p. 227 — the same book as [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie), and its lighter counterpart. *"Even people who aren't big pumpkin pie fans will like this genteel version. Light, delicate, and sweet, it is a recipe from a kinder, gentler time. Its very name — chiffon — evokes a sheer and floaty fabric, a long way from today's sturdy Spandex. Even after a hearty holiday meal, we find there's always room for a small slice of this lovely pie."*
+
+**Yield:** makes one 9-inch pie
+
+**🔴 Hard** · **Prep ~25 min** · **Cook ~15 min** *(crust bake plus stovetop custard)* · **Start to finish ~2 hr 40 min** *(includes a 2 hr chill to set)*
+
+> **Why Hard:** this stacks two real technique risks — a stovetop egg custard that can curdle if pushed too hot (same reasoning as [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise)), plus a whipped meringue that has to be folded in without deflating it. Either one going wrong changes the texture of the finished pie.
+
+#### A. Ingredients
+
+**For the crust**
+
+- 2 cups crumbled ginger snaps
+- ¼ cup sugar
+- 1 tsp ground cinnamon
+- 6 Tbsp butter, melted
+
+**For the filling**
+
+- 1 Tbsp powdered gelatin
+- ¼ cup cold water
+- 3 eggs, separated
+- ¾ cup sugar, divided
+- 1¼ cups fresh cooked or canned pumpkin
+- ½ cup whole milk
+- ½ tsp ground cinnamon
+- ¼ whole nutmeg, grated, or ½ tsp ground nutmeg
+- ¼ tsp salt
+- Freshly whipped cream, for serving
+
+#### B. Cooking Instructions
+
+**1. Make the crust. Bake 5 minutes.**
+Preheat the oven to 350°F. Grind the ginger snaps into fine crumbs (in a resealable bag with a rolling pin, or in a food processor). Stir in the sugar and cinnamon, drizzle in the melted butter, and stir to combine. Pat evenly into a 9-inch pie pan and bake. Remove and set aside to cool.
+
+**2. Soak the gelatin.**
+Soak the gelatin in the cold water.
+
+**3. Cook the custard base. About 10 minutes.**
+Put the egg yolks, ¼ cup of the sugar, the pumpkin, milk, cinnamon, nutmeg, and salt in a saucepan and cook over medium heat, stirring, until thickened. Stir in the softened gelatin, then transfer to a large mixing bowl and let cool.
+
+**4. Whip the meringue.**
+Beat the reserved egg whites on medium speed until foamy. Continue beating, gradually adding the remaining ½ cup sugar, until the whites are thick, glossy, and hold soft peaks.
+
+**5. Fold and fill.**
+Fold the whites into the pumpkin filling, taking care not to deflate them. Pour into the baked, cooled crust and smooth with a spatula.
+
+**6. Chill. About 2 hours.**
+Chill until set. Serve with dollops of whipped cream.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ginger snap cookies — 2 cups crumbled
+- 🛒 Sugar — ¼ cup for the crust, ¾ cup for the filling
+- 🛒 Ground cinnamon — 1½ tsp total
+- 🛒 Butter — 6 Tbsp
+- 🛒 Powdered gelatin — 1 Tbsp
+- 🛒 Eggs — 3
+- 🛒 Pumpkin, fresh cooked or canned — 1¼ cups
+- 🛒 Whole milk — ½ cup
+- 🛒 Nutmeg — ¼ whole, or ½ tsp ground
+- 🛒 Salt
+- 🛒 Whipped cream — for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~2,660 | 119 g | 36 g | 362 g | 7 g |
+| **Per serving** *(1 slice, of 8)* | ~330 | 15 g | 4.5 g | 45 g | 1 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8 — figures above don't include the whipped cream on top.
 
 [↑ Table of Contents](#table-of-contents)
 

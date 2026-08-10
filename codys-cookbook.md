@@ -31,6 +31,9 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) ✅
   - [4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) ✅
   - [4.17 Giblet Gravy](#417-giblet-gravy) ✅
+  - [4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) ✅
+  - [4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) ✅
+  - [4.20 Meunière Sauce](#420-meunière-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -142,6 +145,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-09 | Added three more sauces from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 242–243): **[§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce)** (deliberately boiled, unlike most butter sauces), **[§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce)** (a Cajun beurre noisette — salted butter specified because it browns more easily), and **[§4.20 Meunière Sauce](#420-meunière-sauce)** (the sixth recipe here needing Basic Seafood Stock, page 32 — now the single most-requested missing page after the page-31 stocks). Both butter sauces carry an explicit note on why their technique looks unusual against the rest of the book: §4.18 boils on purpose where a beurre blanc would break, and §4.19 is rated by color, not clock — light brown and foamy is the target, and it's a fast trip past that to bitter. |
 | 2026-08-09 | Added **[§4.17 Giblet Gravy](#417-giblet-gravy)** from *Louisiana Kitchen*, p. 245 — completed from two photos, the second supplying the ingredients and instructions the first left off mid-list. **Rated Medium, not Hard, and explained why:** the roux here cooks to medium brown over medium heat with the meat and vegetables already in the pan, distinct from the smoking-hot, seconds-to-burn dark roux in [§T1](#t1-how-to-make-a-roux) and [§4.12](#412-fish-brown-sauce) — genuinely a gentler technique, not an inconsistent rating. **Strengthens the page-31 stock pattern:** this is now the third recipe to cite Basic Chicken Stock at that exact page, alongside a fourth citing Basic Beef or Pork Stock there too — strong evidence it's worth photographing on its own. |
 | 2026-08-09 | Added five sauces and gravies from **Chef Paul Prudhomme's *Louisiana Kitchen***, transcribed from its *Sauces & Gravies* chapter: **[§4.12 Fish Brown Sauce](#412-fish-brown-sauce)** (a second dark roux — 🔴 Hard, the fifth in this cookbook to need [§T1](#t1-how-to-make-a-roux)'s technique), **[§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce)**, **[§4.14 Creole Sauce](#414-creole-sauce)**, **[§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce)**, and **[§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy)**. **§4.14 exactly closes [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)'s open question** — that recipe cited "Creole Sauce, page 248," and the transcribed page number matches exactly, confirmed rather than assumed. **New pattern spotted:** §4.13 and §4.16 both cite "Basic Chicken Stock" / "Basic Beef or Pork Stock" at page 31 — likely several basic stocks run together on one page, distinct from the Basic Seafood Stock at page 32 that five other recipes here already need. **Giblet Gravy intentionally not added yet** — Cody flagged its instructions are still to come in a follow-up photo. |
 | 2026-08-09 | **[§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder)'s sauce question is fully closed.** Added **[§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce)** — the third and last of its three missing finishing sauces — plus a bonus **[§4.11 Choron Sauce](#411-choron-sauce)** from the same source page, Béarnaise's tomato cousin. Both are built the same way: reduce something on the stove, stir it into warm **[§4.9 Hollandaise](#49-hollandaise-sauce)**. All cross-references updated — §4.9's, §7.3's, and the TOC's — from "two of three" to "all three, done." **One discrepancy flagged rather than papered over:** §7.3's original card cited Béarnaise as page 306, but this recipe's own page number wasn't legible and it sits immediately after Hollandaise (page 258) in the source — noted as an open question rather than assumed to be the same page. |
@@ -248,6 +252,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
+| [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
+| [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
+| [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
@@ -1766,6 +1773,182 @@ Continue simmering, stirring occasionally, until the gravy has reduced to its fi
 #### D. Open Questions
 
 - **Basic Chicken Stock (page 31)** — this is now the **third** recipe in this cookbook to cite chicken stock at that exact page ([§4.14 Creole Sauce](#414-creole-sauce) and [§4.16 Italian Red Gravy](#416-new-orleans-italian-red-gravy) both do too), while [§4.13](#413-andouille-smoked-sausage-sauce) cites "Basic Beef or Pork Stock," also page 31. Strong evidence the source runs several basic stocks on that one page — worth photographing, since it would close a gap shared by half a dozen recipes at once. [§T4](#t4-stocks--ingredient-conventions) covers a general substitute in the meantime.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.18 Lemon Butter Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 242). A whisked butter sauce with thin lemon slices cooked right into it, brought to a full boil at the end rather than kept gently warm the way a beurre blanc usually is.
+
+> **Per the source:** serve this over fish, veal, beef steaks, or lamb chops.
+
+**Yield:** 6 servings, about 1 cup
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min** *(serve immediately — this doesn't hold or reheat well)*
+
+> **This one boils on purpose — most butter sauces don't.** A beurre blanc breaks if it gets too hot; this recipe deliberately brings the butter-and-lemon mixture to a full boil at the end, whisking vigorously and constantly the whole time. That's what the recipe calls for, not an error to correct.
+
+#### A. Ingredients
+
+- ½ lb (2 sticks) unsalted butter, **very soft**, **in all**
+- ½ lemon, peeled, seeded, and very thinly sliced
+- ⅜ tsp salt, or to taste
+
+#### B. Cooking Instructions
+
+**1. Melt half the butter with the lemon slices. Medium-low heat, whisking constantly.**
+In a 1-quart saucepan, combine half the butter and the lemon slices over medium-low heat, whisking constantly with a metal whisk.
+
+**2. Whisk in the rest of the butter and the salt until fully melted.**
+
+**3. Raise to high and boil, whisking vigorously. About 1 minute.**
+Cook until the mixture reaches a full boil, whisking constantly and vigorously the entire time.
+
+**4. Off heat, keep whisking 30 seconds, then strain and serve immediately.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — ½ lb (2 sticks)
+- 🛒 Lemon — ½, for thin slices
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,630 | 176 g | 2 g | 3 g | 0 g |
+| **Per serving** *(about 3 Tbsp, of 6)* | ~270 | 29 g | 0.3 g | 0.5 g | 0 g |
+
+**What a serving is:** about 3 Tbsp spooned over one piece of fish, veal, a steak, or a lamb chop.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.19 Browned Garlic Butter Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 242–243). Butter browned with garlic until light brown and foamy, drizzled straight over the food — a Cajun cousin of beurre noisette.
+
+> **Per the source:** also served over its *Oysters en Brochette* (p. 82) — not in this cookbook. Also terrific over steak, lobster, and grilled or blackened fish, or with the garlic omitted, over vegetables. **Use salted butter** — the source is specific that it browns more easily than unsalted.
+
+**Yield:** about ⅔ cup
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min** *(serve immediately, straight from the pan)*
+
+> ⚠️ **Watch the butter, not the clock.** This is a browned-butter sauce — the whole point is catching it at *light* brown and foamy, a matter of a minute or so past melted. Go past that point and it turns dark and bitter instead. Shaking the pan constantly is what lets you see the color changing.
+
+#### A. Ingredients
+
+- ⅜ lb (1½ sticks) **salted** butter — see the note above
+- 2 tsp minced garlic
+- 1 Tbsp plus 1 tsp minced fresh parsley
+
+#### B. Cooking Instructions
+
+**1. Melt the butter, shaking the pan almost constantly.**
+In a 1-quart saucepan over high heat, melt the butter until about half melted, shaking the pan the whole time rather than stirring.
+
+**2. Add the garlic and cook until the foam is barely browned. 2–3 minutes.**
+Keep shaking the pan occasionally as the butter finishes melting and the foam on the surface just starts to brown.
+
+**3. Stir in the parsley and boil until light brown and foamy. 1–2 minutes.**
+Bring to a boil, shaking the pan, until the sauce is light brown and very foamy.
+
+**4. Remove from heat and drizzle immediately over the food.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salted butter — ⅜ lb (1½ sticks)
+- 🛒 Garlic
+- 🛒 Fresh parsley
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,210 | 132 g | 1 g | 2 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 5)* | ~240 | 26 g | 0.3 g | 0.4 g | 0 g |
+
+**What a serving is:** about 2 Tbsp, drizzled over one steak, a portion of lobster or oysters, or a plate of grilled vegetables.
+
+#### D. Open Questions
+
+- **Oysters en Brochette (page 82)** — the source's other serving suggestion for this sauce, not in this cookbook.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.20 Meunière Sauce
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 243). A seafood-stock-based butter sauce thickened with a small separate butter-flour roux, finished with Worcestershire — built for holding warm rather than serving instantly.
+
+**Yield:** about 2 cups
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
+
+**Techniques used:** [T6 Seafood Notes](#t6-seafood-notes)
+
+> **This one *can* be held or reheated** — unusual among this cookbook's butter sauces. The source says to set the pan over another pan of **hot, not boiling, water** to keep it warm, or to reheat it the same way.
+
+#### A. Ingredients
+
+- 1 cup Basic Seafood Stock — *see Open Questions*
+- ¾ tsp minced garlic
+- ¾ lb (3 sticks) unsalted butter, **in all**
+- 2 Tbsp all-purpose flour
+- ¼ cup Worcestershire sauce
+- ¼ tsp salt
+
+#### B. Cooking Instructions
+
+**1. Simmer the stock and garlic. 2 minutes.**
+In a 2-quart saucepan, combine the stock and garlic, bring to a boil over high heat, and simmer 2 minutes. Remove from heat.
+
+**2. Make a small separate roux: melt 4 Tbsp butter, whisk in the flour. About 10 seconds.**
+In a 1-quart saucepan, melt 4 tablespoons of the butter over high heat. Whisk in the flour with a metal whisk until smooth. Remove from heat.
+
+**3. Whisk the butter-flour mixture into the warm stock.**
+Return the stock mixture to medium heat and gradually whisk in the butter-flour mixture, whisking constantly.
+
+**4. Drop to very low and whisk in the remaining butter, a third at a time.**
+Add the rest of the butter in three additions, whisking constantly until each portion melts before adding the next.
+
+**5. Add the Worcestershire and salt, then thicken slightly. About 5 minutes.**
+Gradually whisk in the Worcestershire, add the salt, and continue cooking, whisking often, until the sauce thickens slightly.
+
+**6. Hold warm over hot water if needed, or serve immediately.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — ¾ lb (3 sticks)
+- 🛒 All-purpose flour — 2 Tbsp
+- 🛒 Worcestershire sauce — ¼ cup
+- 🛒 Salt
+- 🛒 Garlic
+
+**🛒 Seafood stock — 1 cup** *(see Open Questions)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~2,470 | 265 g | 3 g | 6 g | 0 g |
+| **Per serving** *(¼ cup, of 8)* | ~310 | 33 g | 0.4 g | 0.8 g | 0 g |
+
+**What a serving is:** about ¼ cup over a piece of fish or shellfish — this is a rich, meunière-style finishing sauce, not a light drizzle.
+
+#### D. Open Questions
+
+- **Basic Seafood Stock (page 32)** — the same gap as [§7.3](#73-seafood-stuffed-flounder), [§7.20](#720-chicken-and-seafood-jambalaya), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§4.8](#48-shrimp-and-crab-butter-cream-sauce), and [§4.12](#412-fish-brown-sauce). **This is the sixth recipe in this cookbook that needs it** — second only to the page-31 chicken/beef stocks in how often it comes up.
 
 [↑ Table of Contents](#table-of-contents)
 

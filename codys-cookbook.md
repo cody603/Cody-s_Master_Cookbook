@@ -100,6 +100,7 @@ Click any recipe to jump straight to it.
   - [T18. "Pile It On" — Canal House's Plating Formula](#t18-pile-it-on--canal-houses-plating-formula) ✅
   - [T19. How to Boil an Egg (Canal House's Timing Guide)](#t19-how-to-boil-an-egg-canal-houses-timing-guide) ✅
   - [T20. Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) ✅
+  - [T21. Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -188,6 +189,8 @@ Click any recipe to jump straight to it.
 - [7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) ✅
 - [7.45 Sausage & Clam Stew](#745-sausage--clam-stew) ✅
 - [7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) ✅
+- [7.47 Shrimp Roast](#747-shrimp-roast) ✅
+- [7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -238,6 +241,7 @@ Click any recipe to jump straight to it.
 - [10.3 Bacon and Eggs](#103-bacon-and-eggs) ○
 - [10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ○ ❤️
 - [10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) ✅
+- [10.6 Irish Soda Bread](#106-irish-soda-bread) ✅
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
@@ -262,6 +266,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **A long-standing open reference finally resolved: [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular).** Four recipes have been citing an untranscribed "Preserved Lemon (page 294)" — [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), [§9.16 Deviled Eggs](#916-deviled-eggs), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) all now point here instead. (One correction while doing it: [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) had been listed as a fourth citer in earlier changelog notes — checked against its actual ingredient list, and it never actually calls for preserved lemon; that was a bookkeeping error, now fixed rather than left standing.) **Directly answers Cody's question**: yes, regular lemons work if Meyer lemons aren't available — the source's own text says this is literally the traditional Moroccan method, and Meyer lemons only entered the picture because of a friend's backyard windfall. Filed as a formula rather than a fixed recipe, since the source works from "a half-bushel" rather than a precise home-kitchen quantity. **Also added, all from the same source:** [§7.47 Shrimp Roast](#747-shrimp-roast) (a friend's Kerala-style shrimp curry, its own Curd Rice pairing flagged as an untranscribed reference) and [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) (a from-scratch dry-brined and cured brisket, kept deliberately separate from Cody's own [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) placeholder, same reasoning as every other "Cody's own vs. a new source's version" split this session; its Parsley Sauce pairing is likewise flagged as untranscribed). And **[§10.6 Irish Soda Bread](#106-irish-soda-bread)** — a quick bread with currants and caraway, filed in Breakfast per the source's own "toast slices for breakfast" line. |
 | 2026-08-10 | **Four more from Canal House Cooks Every Day.** Three "medicinal" broths from the winter chapter (p. 276–277): [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) (short ribs and prunes simmered 5 hours, strained — the meat is discarded, only the broth is kept), [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) (based on the source's own citation of Dr. Bieler's Broth from a 1966 book), and [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) (whole chicken, 8 oz of ginger, breasts pulled early to stay tender). **Also added [§5.21 Sautéed Kale](#521-sautéed-kale) — deliberately partial, per Cody's explicit request.** The source recipe is "Borlotti Beans with Sautéed Baby Kale" (p. 283); only the kale portion is transcribed, not the beans. **Answered Cody's baby kale substitution question directly in the entry**: yes, any regular kale works — baby kale is just young, tender leaves of the same plant, so mature kale needs stems stripped and runs toward the longer end of the cook time. |
 | 2026-08-10 | **Three more from Canal House Cooks Every Day.** [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it), p. 236 — the hand-cranked-machine method plus a "Cutting Pasta" sidebar for pappardelle and tagliatelle. **This closes half of an open reference from [§7.41](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)**, which had named this exact page as an untranscribed pasta-cutting technique; §7.41's other reference, the Spinach Pasta dough itself (source p. 238), is still open. Also added **[§8.13 Lobster Stew](#813-lobster-stew)** and **[§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery)**, p. 254–255. **Both of these two carry more transcription uncertainty than usual** — the source photos were upside down and mirrored, a harder read than this cookbook's usual angled-photo problem. Ingredient lists are solid; some step ordering (whether the lobster shells get strained before the potatoes go in; the exact split between the shrimp's poaching liquid and the celery's pickling brine) is a sensible reconstruction rather than a confirmed transcription, flagged prominently rather than presented as settled, with a note that a straight re-photo would resolve it. |
 | 2026-08-10 | **Six more from Canal House Cooks Every Day, closing out this source's autumn and Thanksgiving pages for now.** [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) — double-fried frozen fries, silky buttered spinach, and a quick-seared skirt steak sliced against the grain. **[§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie)** and **[§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie)** — the source's own facing-page pair, a rustic roasted-squash custard pie next to a lighter gelatin-set chiffon version. The chiffon pie is rated 🔴 Hard: it stacks a curdle-risk stovetop custard with a meringue that has to be folded in without deflating, the same double-risk reasoning used for [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise). **Three from the Thanksgiving-leftovers page (p. 228), all cross-linked to each other:** [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich), [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup), and [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano). **Two untranscribed source-page references surfaced here, both worth knowing about:** Cranberry-Port Gelée and Turkey Stock both cite the same source p. 221 (a Thanksgiving spread not yet photographed), and the Escarole Salad's Preserved Lemon reference (source p. 294) is now the fourth recipe pointing at that same still-missing page, alongside [§4.60](#460-tomato-rollmops), [§9.15](#915-anchovy--lemon-butter), and [§9.16](#916-deviled-eggs). |
@@ -425,6 +430,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
+| [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) | 🟢 | 15 min | — | **~1 month** *(cures in the jar, unattended)* | ~1 month |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
@@ -490,6 +496,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
+| [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
 | [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) | 🔴 | 25 min | 15 min | — | 2 hr 40 min *(+ 2 hr chill to set)* |
@@ -523,6 +530,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 20 min | 35 min | — | 55 min |
+| [§10.6 Irish Soda Bread](#106-irish-soda-bread) | 🟢 | 15 min | 40 min | — | 55 min |
+| [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) | 🟡 | 25 min | 30 min | **~3½ hr** *(brisket simmer, unattended)* | 4 hr 25 min *(+ 5–7 day dry-brine cure)* |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
@@ -549,7 +558,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 82 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 83 recipes**, including nearly all of §4's now-60 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -6234,6 +6243,68 @@ Lay the rolled sheets out on a lightly floured surface and cover with clean, dam
 
 ---
 
+### T21. Preserved Lemons (Meyer or Regular)
+
+<!-- TECHNIQUE-TAGS: preserved-lemon, curing, fermentation-adjacent, formula, moroccan -->
+**Tags:** `preserved-lemon` · `curing` · `formula` · `moroccan`
+**Source:** Canal House Cooks Every Day — presumably p. 294, matching the page number every other recipe below has been citing, though no page number was actually visible in this particular photo. Flagged as presumed rather than confirmed.
+**Used in:** **This finally resolves the "Preserved Lemon (page 294)" reference that other recipes in this cookbook have been pointing at without it being written up:** [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) uses chopped preserved lemon rind directly; [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) and [§9.16 Deviled Eggs](#916-deviled-eggs) both flagged the page as an open reference.
+
+*"It started with a gift. A cardboard box arrived in the mail from a friend of ours in California who had picked a half-bushel of Meyer lemons from the trees in his backyard and sent them to us... So we decided to preserve them the way the Moroccans do with regular lemons."*
+
+**🥑 Cody's own question, answered directly: yes, use regular lemons if you don't have Meyer lemons.** The source's own text says as much — this technique is literally the traditional Moroccan method, normally done with ordinary lemons throughout. Canal House only reached for Meyer lemons because a friend mailed them a windfall; the classic version, and the one to use if Meyer lemons aren't available, uses regular lemons both for what gets preserved *and* for the covering juice.
+
+> **No fixed quantities given — the source works from "a half-bushel."** The ratio below is the standard proportion for this technique, not lifted from an exact printed measurement; treat it as a formula to scale by how many lemons you have, the same way [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§T15](#t15-how-to-barbecue-cabbage) are formulas rather than fixed recipes.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Slow cook ~1 month** *(cures in the jar, unattended — ready at 1 month, still "new" up to about 4 months, saltier and more intense beyond that)* · **Start to finish ~1 month**
+
+#### A. The Ratio (per lemon)
+
+- 1 lemon (Meyer or regular), quartered lengthwise but left attached at the stem end
+- About 2–3 Tbsp kosher salt, packed into the cuts and layered between lemons in the jar
+- Enough fresh-squeezed lemon juice (regular lemons) to submerge the packed lemons completely
+
+#### B. Method
+
+**1. Quarter the lemons, keeping them attached.**
+Cut each lemon into quarters lengthwise, stopping short of the stem end so the quarters stay joined at the base.
+
+**2. Pack with salt.**
+Tamp kosher salt into the cut flesh of each lemon.
+
+**3. Layer into a jar.**
+Pack the salted lemons into a wide-mouthed glass jar, layering with more salt as you go.
+
+**4. Cover with juice.**
+Pour freshly squeezed regular lemon juice over the packed lemons until they're fully submerged. *(If you're preserving Meyer lemons specifically, use regular lemons for the juice rather than sacrificing more of the Meyers.)*
+
+**5. Refrigerate and wait. About 1 month.**
+Seal and refrigerate. Within about a month, the lemons will have collapsed into the salty brine — plump, supple rinds and soft flesh. That's how you know they're ready.
+
+**6. Use.**
+When new (up to about 4 months), rinse before using, and use both rind and flesh. As they cure longer and get saltier, taste first — you may want to use rind only and discard the flesh, and adjust how much you add to a dish accordingly. Add to stews, tagines, soups, and couscous dishes, or into salads, compound butters, even a gin martini in place of the olive.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemons, Meyer or regular — as many as you're preserving
+- 🛒 Kosher salt — about 2–3 Tbsp per lemon
+- 🛒 Additional regular lemons — for the covering juice, roughly matching the volume needed to submerge the batch
+
+#### Nutrition *(estimated, per lemon — a seasoning ingredient, not a portioned dish)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole lemon, preserved** | ~10 | 0 g | 0.2 g | 3 g | 1 g |
+| **Per serving** *(1 preserved lemon)* | ~10 | 0 g | 0.2 g | 3 g | 1 g |
+
+**What a serving is:** not really a serving at all — a preserved lemon is used a rind-strip or a spoonful at a time, folded into other dishes. Sodium isn't tracked in this cookbook's nutrition columns, but it's worth knowing this is an intensely salty ingredient by design.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -6962,7 +7033,7 @@ Let it sit so the flavors mingle. Serve at room temperature.
 
 Transcribed from **Canal House Cooks Every Day**, p. 228 — the same page as [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) and [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup). *"Use the best olive oil you can find to make this salad."*
 
-**References Preserved Lemon (source p. 294), not yet transcribed here** — same open reference as [§4.60 Tomato "Rollmops"](#460-tomato-rollmops), [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), and [§9.16 Deviled Eggs](#916-deviled-eggs).
+**For the diced Preserved Lemon rind, see [§T21 Preserved Lemons](#t21-preserved-lemons-meyer-or-regular)** — now transcribed, resolving what used to be an open reference here, in [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter), and in [§9.16 Deviled Eggs](#916-deviled-eggs).
 
 **Yield:** serves 4
 
@@ -10329,6 +10400,212 @@ Thinly slice the steaks across the grain, and serve with the buttered spinach an
 
 ---
 
+### 7.47 Shrimp Roast
+
+Transcribed from **Canal House Cooks Every Day**. *"Our dear friend Maya Kaimal sent us this recipe for her curry. It gets its heat from ground Kashmiri chile and its wonderful complex flavor from a masterful blend of spices. Her delicious, ready-to-heat curry sauces of the same name are always in our fridges."*
+
+> The source's margin note: *"February 1st, 28°, light freezing rain."*
+
+**The source's own pairing is Curd Rice, which isn't transcribed here** — only its name is visible on the photographed page, with the instructions themselves on a page not photographed. Logged as an open reference.
+
+**Yield:** serves 4–6
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~20 min** · **Start to finish ~40 min**
+
+#### A. Ingredients
+
+**For the spice blend**
+
+- ¼ tsp ground turmeric
+- ¾–1 tsp salt
+- 2 tsp ground coriander
+- ½ tsp Kerala-style garam masala
+- ¼ cup coconut oil
+- ¼ tsp lightly crushed fennel seeds
+
+**For the shrimp**
+
+- 5 small dried red chiles, preferably bright red in color
+- 1½ lbs medium shrimp, peeled and cleaned
+- 1 tsp Kashmiri chile powder
+- ¼ tsp coarsely ground black pepper
+- 1 medium onion, diced
+- 4 cloves garlic, minced
+- 1 tsp peeled and finely minced fresh ginger
+- 1 Tbsp tomato paste
+
+**For the tarka**
+
+- 2 Tbsp coconut oil
+- 20 fresh curry leaves
+
+#### B. Cooking Instructions
+
+**1. Mix the spice blend.**
+Stir together the coriander, garam masala, fennel seeds, turmeric, and salt in a bowl. Set aside.
+
+**2. Rehydrate and mince the dried chiles.**
+Put the chiles in a small saucepan with 1 cup water. Boil for 1 minute, remove from the heat, and let sit for 5 minutes. Drain and mince — you should have about 2 teaspoons. Set aside.
+
+**3. Season the shrimp.**
+Pat the shrimp dry and toss with the Kashmiri chile powder and black pepper.
+
+**4. Build the base. About 9 minutes.**
+Heat the ¼ cup coconut oil in a large wide skillet or wok over medium-high heat. Add the onion and sauté until it begins to brown around the edges, about 8 minutes. Add the garlic, ginger, and minced chiles, and fry for 1 minute.
+
+**5. Bloom the spice blend.**
+Add the spice blend and tomato paste, stirring until fragrant.
+
+**6. Cook the shrimp. About 5 minutes.**
+Add the seasoned shrimp and cook, stirring, until just cooked through. Transfer to a serving dish.
+
+**7. Make the tarka.**
+Heat the 2 Tbsp coconut oil in a small skillet over medium-high heat. Add the curry leaves and fry briefly until they crackle.
+
+**8. Finish and serve.**
+Pour the tarka over the shrimp. Serve with Curd Rice.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Indian market**
+
+- 🏪 Kerala-style garam masala — ½ tsp
+- 🏪 Kashmiri chile powder — 1 tsp
+- 🏪 Small dried red chiles — 5
+- 🏪 Fresh curry leaves — 20
+- 🏪 Coconut oil — ¼ cup plus 2 Tbsp
+
+**🛒 General grocery**
+
+- 🛒 Ground coriander — 2 tsp
+- 🛒 Fennel seeds — ¼ tsp
+- 🛒 Ground turmeric — ¼ tsp
+- 🛒 Salt
+- 🛒 Medium shrimp, peeled and cleaned — 1½ lbs
+- 🛒 Black pepper
+- 🛒 Onion — 1 medium
+- 🛒 Garlic — 4 cloves
+- 🛒 Fresh ginger — 1 tsp minced
+- 🛒 Tomato paste — 1 Tbsp
+
+#### D. Open Questions
+
+- **Curd Rice, the source's own pairing, isn't transcribed** — only its title was visible on the photographed page. Worth photographing if it comes up again.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,425 | 88 g | 124 g | 17 g | 3 g |
+| **Per serving** *(serves 5)* | ~285 | 18 g | 25 g | 3 g | 0.5 g |
+
+**What a serving is:** a generous scoop of shrimp with the tarka spooned over — figures above don't include Curd Rice on the side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.48 Corned Beef & Cabbage
+
+Transcribed from **Canal House Cooks Every Day** — a from-scratch corned beef, dry-brined and cured before it's simmered. **Distinct from [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage)** — that entry is Cody's own family-favorite method, still undocumented; this is a specific Canal House technique, untested so far. *"We are a bit balmy, so naturally we like to brine our own corned beef. It's our Saint Paddy's Day tradition. It is actually quite easy and well worth it if you just have the first step of this recipe to think ahead. But if you're short on time, by all means skip the first step of this recipe and buy a ready-to-go corned beef from your market. We serve our corned-beef dinner with a creamy Parsley Sauce (opposite page) as they do back in the Old Country."*
+
+**References Parsley Sauce (opposite source page), not yet transcribed here** — only its title was visible on the photographed page, its ingredients and instructions were not. Serve without it, or substitute this cookbook's own [§4.20 Meunière Sauce](#420-meunière-sauce) family of butter sauces if a sauce is wanted.
+
+> The source's margin note: *"March 17th, 43°, a soft Irish misty day."*
+
+**Yield:** serves 6
+
+**🟡 Medium** · **Prep ~25 min** · **Cook ~30 min** *(vegetable stages)* · **Slow cook ~3½ hr** *(brisket simmer, unattended)* · **Start to finish ~4 hr 25 min** *(plus a 5–7 day dry-brine cure — lead time, plan well ahead; store-bought corned beef skips this entirely, per the source's own suggestion)*
+
+#### A. Ingredients
+
+**For the corned beef**
+
+- ¾ cup kosher salt
+- 2 Tbsp brown sugar
+- 1 Tbsp pink curing salt
+- 1 beef brisket, about 5 lbs
+- 2 Tbsp black peppercorns
+- 2 Tbsp mustard seeds
+- 2 Tbsp coriander seeds
+- 6 bay leaves, roughly torn
+- 6 whole cloves
+
+**For the vegetables**
+
+- 1 lb small white potatoes, peeled
+- 1 lb carrots, peeled
+- 12 small spring onions, long green stems attached
+- 1 small Savoy cabbage, cut into 6 wedges
+- 2–4 Tbsp salted butter, melted
+- Handful of fresh parsley leaves, chopped
+
+#### B. Cooking Instructions
+
+**1. Cure the brisket. 5–7 days.**
+Stir together the kosher salt, brown sugar, and pink curing salt, and rub it all over the brisket. Lightly crush the peppercorns, mustard seeds, coriander seeds, bay leaves, and cloves with a mortar and pestle, then press the mixture all over the meat. Put the brisket, along with any loose spices, into a large resealable plastic bag. Squeeze out the air, seal, and refrigerate, flipping the bag every day.
+
+**2. Rinse and simmer. 3–4 hours.**
+The day of the meal, remove the brisket from the bag and rinse all the spices off under running water. Put it in a heavy large pot with a lid and cover with water by several inches. Bring to a simmer over medium-high heat, skimming off the foam. Reduce the heat to low, cover, and cook until fork-tender.
+
+**3. Rest the meat.**
+Transfer the meat to a platter and cover with foil.
+
+**4. Cook the potatoes. First into the broth.**
+Strain the broth and return it to the pot. Add the potatoes and return to a boil.
+
+**5. Add the carrots and onions. 15–20 minutes.**
+Add the carrots and spring onions and cook until all the vegetables are tender. Transfer the vegetables to a serving platter as they finish.
+
+**6. Cook the cabbage. 10–15 minutes.**
+Add the cabbage wedges to the pot, loosely cover with foil, and cook until tender.
+
+**7. Reheat the meat and slice.**
+Reheat the corned beef in the simmering broth until warmed through. Transfer to a cutting board and thinly slice across the grain, then arrange on a serving platter.
+
+**8. Finish and serve.**
+Ladle some of the broth over the potatoes and garnish with chopped parsley. Serve with Parsley Sauce, if you have it.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef brisket — about 5 lbs
+- 🏪 Pink curing salt — 1 Tbsp
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — ¾ cup
+- 🛒 Brown sugar — 2 Tbsp
+- 🛒 Black peppercorns — 2 Tbsp
+- 🛒 Mustard seeds — 2 Tbsp
+- 🛒 Coriander seeds — 2 Tbsp
+- 🛒 Bay leaves — 6
+- 🛒 Whole cloves — 6
+- 🛒 Small white potatoes — 1 lb
+- 🛒 Carrots — 1 lb
+- 🛒 Small spring onions — 12
+- 🛒 Small Savoy cabbage — 1
+- 🛒 Salted butter — 2–4 Tbsp
+- 🛒 Fresh parsley — a handful
+
+#### D. Open Questions
+
+- **Parsley Sauce, the source's own pairing, isn't transcribed** — only its title was visible on the photographed page.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,500 | 265 g | 342 g | 182 g | 45 g |
+| **Per serving** *(serves 6)* | ~750 | 44 g | 57 g | 30 g | 7.5 g |
+
+**What a serving is:** a generous plate of sliced brisket with potatoes, carrots, spring onion, and a cabbage wedge — about 8–10 oz of meat with vegetables.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.1 Chili
@@ -12138,6 +12415,8 @@ Put the butter into a bowl. Add the smoked salmon, cayenne, and lemon zest. Use 
 
 Transcribed from **Canal House Cooks Every Day**, p. 316 — the same book and page as [§9.11](#911-melba-toasts)–[§9.14](#914-smoked-salmon-butter). *"On crackers or melba toasts, this is the perfect cocktail crunch as you sip an aperitif."*
 
+**For the preserved lemon, see [§T21 Preserved Lemons](#t21-preserved-lemons-meyer-or-regular)** — now transcribed; use regular lemons throughout if Meyer lemons aren't on hand.
+
 **Yield:** about 1 cup
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
@@ -12185,7 +12464,7 @@ Transcribed from **Canal House Cooks Every Day**, p. 71 — a different page fro
 
 > The source's margin note: *"June 3rd, 77°, southerly winds."*
 
-**References Preserved Lemon (source page 294), not yet transcribed here** — same open reference as [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter). **For the 6 hard-boiled eggs, see [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide)** — the facing page in the same source, now transcribed; 10 minutes is the default for a standard hard-boiled egg.
+**For the chopped Preserved Lemon rind, see [§T21 Preserved Lemons](#t21-preserved-lemons-meyer-or-regular)** — now transcribed, resolving what used to be an open reference here. **For the 6 hard-boiled eggs, see [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide)** — the facing page in the same source; 10 minutes is the default for a standard hard-boiled egg.
 
 **Yield:** makes 12 halves
 
@@ -12610,6 +12889,77 @@ Serve the eggs and mushrooms together.
 | **Per serving** *(serves 5)* | ~335 | 30 g | 10 g | 4 g | 1 g |
 
 **What a serving is:** about 1 cup — a generous brunch portion with mushrooms.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 10.6 Irish Soda Bread
+
+Transcribed from **Canal House Cooks Every Day**. *"This lovely quick bread was handed down to us long ago by Mrs. Cahill, an Irish neighbor. We now come home from the market and eat it warm from the oven; then, on the next day, we toast slices for breakfast."*
+
+**Yield:** makes 1 large loaf
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min**
+
+#### A. Ingredients
+
+- 4 cups all-purpose flour
+- 2 Tbsp sugar
+- 1 tsp baking soda
+- 1 tsp salt
+- 4 Tbsp butter
+- 2 cups buttermilk
+- 1 large egg, lightly beaten
+- 1 cup dried currants
+- 1 tsp caraway seeds
+
+#### B. Cooking Instructions
+
+**1. Preheat and butter the skillet.**
+Preheat the oven to 425°F. Butter a large cast-iron skillet.
+
+**2. Whisk the dry ingredients.**
+Whisk together the flour, sugar, baking soda, and salt in a large mixing bowl.
+
+**3. Cut in the butter.**
+Blend in the butter with a pastry blender or two knives until the mixture resembles coarse cornmeal.
+
+**4. Add the currants and caraway.**
+
+**5. Stir in the buttermilk and egg.**
+
+**6. Knead lightly and shape.**
+Dust your hands with a little flour, then gently knead the dough in the bowl just long enough to form a rough ball, adding a little extra flour if it's very sticky. Transfer to a floured surface and shape into a round loaf.
+
+**7. Score and bake. About 40 minutes.**
+Put the dough in the buttered skillet and use a serrated knife to cut a ½-inch-deep X on top. Bake until the bread is golden and the bottom sounds hollow when tapped.
+
+**8. Cool and serve.**
+Allow to cool briefly on a wire rack. Serve warm — or, the next day, toasted for breakfast, per the source.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 4 cups
+- 🛒 Sugar — 2 Tbsp
+- 🛒 Baking soda — 1 tsp
+- 🛒 Salt — 1 tsp
+- 🛒 Butter — 4 Tbsp
+- 🛒 Buttermilk — 2 cups
+- 🛒 Eggs — 1
+- 🛒 Dried currants — 1 cup
+- 🛒 Caraway seeds — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole loaf** | ~2,960 | 54 g | 78 g | 525 g | 23 g |
+| **Per serving** *(1 slice, of 10)* | ~295 | 5.4 g | 8 g | 52 g | 2.3 g |
+
+**What a serving is:** one thick slice — plain warm from the oven, or toasted the next day.
 
 [↑ Table of Contents](#table-of-contents)
 

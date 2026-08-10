@@ -38,6 +38,21 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.22 Mustard Sauce](#422-mustard-sauce) ✅
   - [4.23 Remoulade Sauce](#423-remoulade-sauce) ✅
   - [4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) ✅
+  - [4.25 Basic Fish Cure](#425-basic-fish-cure) ✅
+  - [4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) ✅
+  - [4.27 Cajun Rub](#427-cajun-rub) ✅
+  - [4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) ✅
+  - [4.29 Java Rub](#429-java-rub) ✅
+  - [4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) ✅
+  - [4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub) ✅
+  - [4.32 Texas Chili Rub](#432-texas-chili-rub) ✅
+  - [4.33 Sesame Seasoning](#433-sesame-seasoning) ✅
+  - [4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) ✅
+  - [4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) ✅
+  - [4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) ✅
+  - [4.37 White Barbecue Sauce](#437-white-barbecue-sauce) ✅
+  - [4.38 Mustard Sauce](#438-mustard-sauce) ✅
+  - [4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -164,6 +179,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Big batch from Steven Raichlen's *How to Grill*'s rubs, mops, and sauces chapter (p. 441–454): [§4.25](#425-basic-fish-cure) through [§4.39](#439-mustard-dill-sauce), 15 new entries.** Two of them close real, previously-flagged gaps: **[§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub)** and **[§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce)** were the two missing referenced pages blocking [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) since they were added — both recipes are updated to link directly to the real ingredients now, their Open Questions closed, and their Nutrition figures recalculated from the real vinegar sauce instead of a placeholder. **[§4.38 Mustard Sauce](#438-mustard-sauce)** is one of [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)'s five named serving sauces — the first of the five to actually get transcribed, and its own text names that exact dish. The rest ([§4.27](#427-cajun-rub) Cajun Rub, [§4.28](#428-chinese-five-spice-rub) Chinese Five-Spice, [§4.29](#429-java-rub) Java, [§4.30](#430-mucho-macho-pepper-rub) Mucho Macho Pepper, [§4.31](#431-mediterranean-herb-rub) Mediterranean Herb, [§4.32](#432-texas-chili-rub) Texas Chili, [§4.33](#433-sesame-seasoning) Sesame Seasoning, [§4.34](#434-basic-barbecue-mop-sauce) Basic Barbecue Mop Sauce, [§4.35](#435-mustard-barbecue-sauce) Mustard Barbecue Sauce, [§4.37](#437-white-barbecue-sauce) White Barbecue Sauce, [§4.25](#425-basic-fish-cure) Basic Fish Cure) are general-purpose reference entries, not yet tied to a specific dish here, added because Cody photographed the full chapter. A fun cross-reference surfaced in the Cajun Rub's own text: Raichlen credits it to *"Louisiana legend Paul Prudhomme"* — the same chef behind [§T1](#t1-how-to-make-a-roux) and every *Louisiana Kitchen* sauce this session. **Two small transcription snags flagged rather than smoothed over:** [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub)'s ingredient list was partially obscured in its photo, and [§4.32 Texas Chili Rub](#432-texas-chili-rub)'s and [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce)'s instructions read a little garbled from a busy, multi-recipe page layout — both reconstructed to the most sensible reading and marked as Open Questions. |
 | 2026-08-10 | **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) is now fully confirmed against the source.** A cleaner photo of page 294 supplied the rest of Step 2 and all of Step 3, which had been reconstructed from a related technique spread rather than transcribed directly — both are rewritten to the source's actual wording (glaze on top before covering the grill, a metal-skewer doneness test, 12–15 minutes covered). Its Open Question is resolved and removed. Also picked up the source's own substitute-fish note: striped bass, redfish, and snapper work the same way; monkfish, sole, and flounder don't. |
 | 2026-08-10 | Added **[§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)** from **Steven Raichlen's *How to Grill*** (p. 46–50) — a whole trimmed, tied, and herb-crusted tenderloin, direct-grilled to 145°F medium-rare, with a **Beef Kebabs** variation using the same trim and marinade. Transcribed clean with no gaps. The source names five serving sauces (Béarnaise Mayonnaise, Mustard Sauce, Three-Herb Chimichurri, Cucumber Relish, Shallot Marmalade) at pages not yet photographed — noted as optional rather than blocking, since the tenderloin itself is complete without them. |
 | 2026-08-10 | **Source confirmed: the new grilling cookbook is Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified from a clearly photographed ISBN. Retroactively credited on [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw), which had been citing it as unidentified. Added three more from the same book: **[§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo)** — filed as a technique formula rather than a numbered recipe, since the source itself never gives fixed mojo quantities, only a method (fry garlic, add citrus, reduce) and named citrus variations; **[§7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad)**, transcribed clean with no gaps; and **[§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze)**, which has a real hole — the photographed pages cut off mid-sentence in Step 2 and never showed Step 3 at all, so both are reconstructed from the source's paired "How to Grill Fish on the Skin" technique and flagged explicitly in Open Questions rather than presented as confirmed source text. |
@@ -252,57 +268,72 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 | Recipe | | Prep | Cook | Slow cook | Start to finish |
 |---|---|---|---|---|---|
-| [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
+| [§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) | 🟢 | 2 min | 3 min | — | 5 min |
+| [§4.25 Basic Fish Cure](#425-basic-fish-cure) | 🟢 | 5 min | — | — | 5 min |
+| [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.27 Cajun Rub](#427-cajun-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.29 Java Rub](#429-java-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) | 🟢 | 5 min | — | — | 5 min |
+| [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
+| [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
+| [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
+| [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
+| [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑 | 🟢 | 5 min | 10 min | — | 15 min |
-| [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 | 🟢 | 15 min | — | *with the bird* | set by the bird |
-| [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
+| [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
+| [§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) | 🟢 | 10 min | 5 min | — | 15 min |
+| [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
+| [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
-| [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
-| [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
+| [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
+| [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
-| [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
-| [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
+| [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
+| [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
+| [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
 | [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) | 🟡 | 15 min | 15 min | — | 30 min *(+ 30 min–2 hr marinate)* |
 | [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
-| [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
-| [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
-| [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
-| [§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) | 🟢 | 2 min | 3 min | — | 5 min |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
+| [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
+| [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
+| [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
-| [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
-| [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
-| [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
-| [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
-| [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
-| [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
-| [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
-| [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
 | [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | — | 40 min |
+| [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
+| [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
+| [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
+| [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T9 Hearty Soup Formula](#t9-hearty-main-course-soup-formula) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -334,7 +365,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 20 recipes.** [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§4.1 Steak Rub](#41-darcys-steak-rub) · [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) · [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§4.2 Alfredo](#42-salsa-alfredo-alfredo-sauce) · [§4.5 Pickled Onions](#45-pickled-pink-onions) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 50 recipes**, including all 15 of this session's new §4 rubs and sauces ([§4.25](#425-basic-fish-cure)–[§4.39](#439-mustard-dill-sauce)) plus most of §4's earlier entries — a handful of the longer-simmered sauces there (Hollandaise, Creole Sauce, Giblet Gravy, and a few others) run past 30 minutes and aren't in this count. Highlights: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -2252,6 +2283,785 @@ Place all ingredients in a blender or food processor and process until creamy an
 
 ---
 
+### 4.25 Basic Fish Cure
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — the same book as [§6.2 Pulled Pork](#62-pulled-pork), [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo), and [§7.30](#730-basil-grilled-tuna-with-arugula-salad)/[§7.31](#731-salmon-with-mustard-glaze)/[§7.32](#732-herb-crusted-grilled-beef-tenderloin). A dry sugar-and-salt cure for fish headed into a smoker — the intro's opening sentence ran off the edge of the photographed page, but the working recipe is complete.
+
+**Yield:** about 1½ cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(plus curing time in the smoker prep — not part of this recipe's own steps)*
+
+#### A. Ingredients
+
+- 1 cup firmly packed brown sugar
+- ½ cup coarse salt
+- 1 Tbsp black pepper
+- 1 Tbsp dried dill, optional
+- 1 Tbsp mustard powder, optional
+
+#### B. Cooking Instructions
+
+**1. Combine and store.**
+Combine all the ingredients in a small mixing bowl and stir to mix — your fingers actually work better for this than a spoon or whisk. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+**2. Use ¾ cup per pound of fish meat.**
+This is a customizable base — swap in white, turbinado, or maple sugar for the brown, or work in any herb or spice you like.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Brown sugar — 1 cup, firmly packed
+- 🛒 Coarse salt — ½ cup
+- 🛒 Black pepper — 1 Tbsp
+- 🛒 Dried dill — 1 Tbsp, optional
+- 🛒 Mustard powder — 1 Tbsp, optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~830 | 1 g | 2 g | 205 g | 3 g |
+| **Per use** *(¾ cup, cures about 1 lb fish)* | — | — | — | — | — |
+
+**What a serving is:** this is a cure, not a seasoning eaten as-is — most of the sugar and salt draws moisture out of the fish and gets rinsed or wiped off before smoking, so almost none of the batch nutrition above actually ends up eaten.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.26 Basic Barbecue Rub
+
+Transcribed from **Steven Raichlen's *How to Grill***. Raichlen calls this "ground zero — *the* ur American barbecue rub." Use it on ribs, pork shoulders, or chicken. Feeds [§6.2 Pulled Pork](#62-pulled-pork), which cites this exact page.
+
+**Yield:** about 1 cup — use 2 to 3 tsp per pound of meat (1½ to 2 Tbsp for a 4 lb chicken)
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+> **Tip, per the source:** hickory-smoked salt is available in the spice rack of most supermarkets. For a spicier rub, substitute hot paprika for some or all of the sweet paprika.
+
+#### A. Ingredients
+
+- ¾ cup firmly packed brown sugar
+- ¼ cup sweet paprika
+- 3 Tbsp black pepper
+- 3 Tbsp coarse salt
+- 1 Tbsp hickory-smoked salt, or more coarse salt
+- 2 tsp garlic powder
+- 2 tsp onion powder
+- 2 tsp celery seeds
+- 1 tsp cayenne pepper
+
+#### B. Cooking Instructions
+
+**1. Combine and store.**
+Combine all the ingredients in a mixing bowl and stir to mix — your hands work better for mixing than a spoon or whisk does. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Brown sugar — ¾ cup, firmly packed
+- 🛒 Sweet paprika — ¼ cup
+- 🛒 Black pepper — 3 Tbsp
+- 🛒 Coarse salt — 3 Tbsp
+- 🛒 Hickory-smoked salt — 1 Tbsp
+- 🛒 Garlic powder, onion powder, celery seeds, cayenne pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~835 | 7 g | 3 g | 205 g | 15 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~40 | 0.3 g | 0.1 g | 10 g | 0.7 g |
+
+**What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.27 Cajun Rub
+
+Transcribed from **Steven Raichlen's *How to Grill***. Raichlen's own note: *"Born in the bayous of Louisiana and immortalized by the pan-blackened redfish of Louisiana legend Paul Prudhomme, this rub will lend a Cajun accent to anything on which you sprinkle it, especially chicken, steak, and seafood."* A nice small-world moment — Prudhomme is the same chef behind [§T1](#t1-how-to-make-a-roux) and every §4.x sauce from *Louisiana Kitchen* this session.
+
+**Yield:** about ¾ cup — use 2 to 3 tsp per pound of meat (1½ to 2 Tbsp for a 4 lb chicken)
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- ¼ cup coarse salt
+- ¼ cup sweet paprika
+- 1 Tbsp garlic flakes
+- 1 Tbsp onion flakes
+- 1 Tbsp dried thyme leaves
+- 1 Tbsp dried oregano
+- 1 Tbsp black pepper
+- 2 tsp white pepper
+- 1 to 2 tsp cayenne pepper
+- 1 tsp ground bay leaf
+
+#### B. Cooking Instructions
+
+**1. Combine and store.**
+Combine all the ingredients in a mixing bowl and stir to mix — your hands work better than a spoon or whisk, and are useful for breaking up any lumps of brown sugar carried over from other rubs on your hands. Store in an airtight jar away from heat or light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Coarse salt, sweet paprika — ¼ cup each
+- 🛒 Garlic flakes, onion flakes, dried thyme, dried oregano, black pepper — 1 Tbsp each
+- 🛒 White pepper, cayenne pepper, ground bay leaf
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~220 | 6 g | 8 g | 40 g | 20 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~15 | 0.4 g | 0.5 g | 3 g | 1.4 g |
+
+**What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.28 Chinese Five-Spice Rub
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Rubs are primarily found in the West, but for a dry skillet over medium heat, a mixture of star anise, fennel seeds, and white peppercorns, cinnamon, and cloves. Called five-spice powder, the mix varies from chef to chef."*
+
+**Yield:** about ¾ cup — use 2 to 3 Tbsp per pound of meat (a 5 lb duck will take 1½ to 2 Tbsp)
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+**For the five-spice powder**
+
+- 3 whole star anise
+- 2 Tbsp Sichuan peppercorns
+- 1 Tbsp white peppercorns
+- 1 Tbsp fennel seeds
+- ½ tsp whole cloves
+- ½ tsp cinnamon stick, broken up
+
+**For the rub**
+
+- ¼ cup coarse salt
+- ¼ cup firmly packed brown sugar
+- ½ tsp cinnamon stick
+- ¼ cup five-spice powder *(above)*
+
+#### B. Cooking Instructions
+
+**1. Toast and grind the five-spice powder. About 4 minutes.**
+Preheat a dry skillet over medium heat. Add the star anise, Sichuan and white peppercorns, fennel seeds, cloves, and cinnamon and toast until fragrant, 2 to 4 minutes — don't overtoast, or the spices will be bitter. Transfer to a mortar and pestle or a spice mill and grind to a fine powder.
+
+**2. Combine with the salt and brown sugar.**
+Return the toasted spices to the bowl and mix in the salt and brown sugar. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Star anise, Sichuan peppercorns
+
+**🛒 General grocery**
+
+- 🛒 White peppercorns, fennel seeds, whole cloves, cinnamon stick
+- 🛒 Coarse salt, brown sugar
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~300 | 5 g | 5 g | 65 g | 10 g |
+| **Per use** *(2–3 Tbsp, seasons about 1 lb of meat)* | ~55 | 1 g | 1 g | 12 g | 2 g |
+
+**What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.29 Java Rub
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Coffee may seem like an odd ingredient for a rub, but its competitive que heads use it. The bittersweet flavor of coffee goes great on beef (especially brisket) and pork."*
+
+**Yield:** about ¾ cup — use 2 to 3 tsp per pound of meat
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 6 Tbsp ground coffee
+- 2 Tbsp coarse salt
+- 2 Tbsp brown sugar
+- 2 tsp sweet paprika
+- 2 tsp garlic powder
+- 2 tsp onion powder
+- 2 tsp black pepper
+- 1 tsp lemon pepper *(see Note)*
+- 1 tsp unsweetened cocoa powder
+
+> **Note, per the source:** lemon pepper is exactly that — ground black peppercorns flavored with lemon zest. You can buy it at most supermarkets, order it by mail, or make your own super-fresh by tossing ground black pepper with fresh finely grated lemon zest.
+
+#### B. Cooking Instructions
+
+**1. Combine and store.**
+Combine all the ingredients in a mixing bowl and stir to mix — your fingers work better for mixing than a spoon or whisk does. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ground coffee — 6 Tbsp
+- 🛒 Coarse salt, brown sugar — 2 Tbsp each
+- 🛒 Sweet paprika, garlic powder, onion powder, black pepper — 2 tsp each
+- 🛒 Lemon pepper, unsweetened cocoa powder — 1 tsp each
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~135 | 2 g | 4 g | 30 g | 5 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~10 | 0.2 g | 0.3 g | 2 g | 0.4 g |
+
+**What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.30 Mucho Macho Pepper Rub
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"This rub gives it a good 'ouch' quotient. Exactly what you want when a chop calls for a spice mix that bites back."* Raichlen's own warning: this is a baby ouch, but you could certainly increase amounts and up the ante by adding more hot pepper flakes or black peppercorns.
+
+**Yield:** about ¾ cup — use 2 to 3 tsp per pound of meat (a 4 lb chicken will take 1½ to 2 Tbsp)
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 3 Tbsp coarse salt
+- 3 Tbsp cracked black peppercorns
+- 3 Tbsp hot red pepper flakes
+- 1 Tbsp dried tarragon
+- 3 Tbsp dried oregano
+- 3 Tbsp dried dill
+- 3 Tbsp dried rosemary
+- 3 Tbsp dried thyme
+- 3 Tbsp onion flakes
+- 3 Tbsp dried parsley
+
+#### B. Cooking Instructions
+
+**1. Combine and store.**
+Combine all the ingredients in a mixing bowl and stir to mix. Store in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Coarse salt, cracked black peppercorns, hot red pepper flakes — 3 Tbsp each
+- 🛒 Dried oregano, dill, rosemary, thyme, onion flakes, parsley — 3 Tbsp each
+- 🛒 Dried tarragon — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~330 | 10 g | 12 g | 55 g | 25 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~10 | 0.3 g | 0.4 g | 2 g | 0.8 g |
+
+**What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.31 Mediterranean Herb Rub
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"French* herbes de Provence *meet Kansas City barbecue rub in this fragrant seasoning, which tastes terrific on lamb, chicken, and seafood."*
+
+**Yield:** about 1 cup — use 2 to 3 tsp per pound of meat (a 4 lb chicken will take 1½ to 2 Tbsp)
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 6 Tbsp ground coriander
+- 2 Tbsp ground cumin
+- 2 Tbsp sweet paprika
+- 2 Tbsp coarse salt
+- 2 tsp black pepper
+- 2 tsp garlic powder
+- 2 tsp onion powder
+- 1 tsp ground cumin *(second addition)*
+- 1 tsp ground coriander *(second addition)*
+- 1 tsp unsweetened cocoa powder
+
+#### B. Cooking Instructions
+
+**1. Combine and store.**
+Combine all the ingredients in a mixing bowl and stir to mix — your fingers work better for mixing than a spoon or whisk does. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ground coriander — 6 Tbsp, plus 1 tsp
+- 🛒 Ground cumin — 2 Tbsp, plus 1 tsp
+- 🛒 Sweet paprika, coarse salt — 2 Tbsp each
+- 🛒 Black pepper, garlic powder, onion powder — 2 tsp each
+- 🛒 Unsweetened cocoa powder — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~250 | 10 g | 10 g | 40 g | 20 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~10 | 0.4 g | 0.4 g | 1.6 g | 0.8 g |
+
+**What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+#### D. Open Questions
+
+- The source's own recipe box for this rub was partially obscured in the photograph — the ingredient list above is reconstructed from what's legible and may not match the source's exact proportions. Worth a clean re-photo of page 442–443 to confirm.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.32 Texas Chili Rub
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Texas is chili country, and this no-nonsense rub will add drama to any meat, from steak to brisket, from 2 to 3 teaspoons per pound of meat."* Uses dried chipotle chiles (smoked jalapeños) — Raichlen notes dried chipotles are available at gourmet shops and many supermarkets, or via mail order.
+
+**Yield:** about 1 cup — use 2 to 3 tsp per pound of meat
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 to 2 dried chipotle chiles, torn open and seeded
+- ¼ cup mild chili powder or paprika
+- 2 Tbsp coarse salt
+- 1 Tbsp garlic powder
+- 1 Tbsp dried oregano
+- 1 tsp dried onion flakes
+- 1 tablespoon black pepper
+- 2 tablespoons brown sugar
+- 1 tablespoon yellow mustard seeds
+- 1 tablespoon cumin seeds
+- 2 tablespoons black peppercorns
+- 2 dried chipotle chiles, torn open and seeded
+
+#### B. Cooking Instructions
+
+**1. Toast the whole spices, then grind. 2 to 4 minutes.**
+Preheat a small cast-iron or stainless steel skillet over medium heat. Add the mustard seeds, cumin seeds, and peppercorns and toast until fragrant, 2 to 4 minutes — don't overtoast, or the spices will be bitter. Put the chipotles, coriander, and the toasted seeds and peppercorns into a spice mill or mortar and pestle. Grind the spices to a fine powder.
+
+**2. Combine with the remaining ingredients.**
+Transfer the ground spices to a mixing bowl and mix in the chili powder, salt, garlic powder, oregano, onion flakes, black pepper, and brown sugar. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — gourmet/spice shop**
+
+- 🏪 Dried chipotle chiles
+
+**🛒 General grocery**
+
+- 🛒 Mild chili powder or paprika, coarse salt
+- 🛒 Garlic powder, dried oregano, dried onion flakes, black pepper, brown sugar
+- 🛒 Yellow mustard seeds, cumin seeds, black peppercorns
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~320 | 10 g | 12 g | 55 g | 22 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~15 | 0.5 g | 0.6 g | 3 g | 1 g |
+
+**What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+#### D. Open Questions
+
+- **The ingredient list reads a little redundant as transcribed** (chipotles and black peppercorns each appear to be listed twice, at different quantities) — the photographed page may have had the "toast and grind" ingredients and the "mix in" ingredients in two visually separate columns that didn't photograph as cleanly separated as intended. Written in exactly as read rather than silently deduplicated; worth confirming against a clean re-photo.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.33 Sesame Seasoning
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"For great barbecue, say 'Open sesame.' The tiny seeds add a great nutty flavor to rubs. This one gives you a triple blast of sesame flavor, with white sesame seeds, toasted sesame seeds, and black sesame seeds."*
+
+**Yield:** about ¾ cup — use 2 to 3 tsp per pound of fish and vegetables, as well as grilled fish and chicken. Unlike most rubs, Sesame Seasoning tastes best sprinkled on after the food comes off the grill.
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ¼ cup white sesame seeds
+- ¼ cup black sesame seeds
+- ¼ cup coarse salt
+- 1 Tbsp black pepper
+
+#### B. Cooking Instructions
+
+**1. Toast half the sesame seeds. 2 to 4 minutes.**
+Preheat a small dry cast-iron or stainless steel skillet over medium heat. Add half the white sesame seeds and toast until they are golden brown, 2 to 4 minutes — don't overtoast, or the seeds will be bitter. Transfer to a small bowl to cool.
+
+**2. Combine everything.**
+Add the remaining ingredients to the toasted seeds — the raw white sesame seeds, the black sesame seeds, coarse salt, and black pepper — and stir to mix. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 White sesame seeds, black sesame seeds — ¼ cup each
+
+**🛒 General grocery**
+
+- 🛒 Coarse salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~430 | 38 g | 14 g | 18 g | 9 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of fish or vegetables)* | ~20 | 1.8 g | 0.6 g | 0.8 g | 0.4 g |
+
+**What a serving is:** sprinkled on after grilling, per the source — most of it ends up on the food's surface rather than fully consumed, but sesame seeds cling and are eaten along with the food more than a typical dry rub.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.34 Basic Barbecue Mop Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Here's a simple all-purpose vinegar mop that's great to put on pork or chicken — or just about anything else you care to put on the grill. The recipe makes enough for two chickens or 4 to 5 pounds of ribs or pork."* Distinct from [§6.2 Pulled Pork](#62-pulled-pork)'s own mop sauce, which is a cider-vinegar variant built specifically for that recipe.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 2 cups distilled white vinegar
+- 1 Tbsp coarse salt
+- 1 tsp black pepper, or more to taste
+- 1 to 2 Tbsp hot red pepper flakes, or more to taste
+- 1 small onion, thinly sliced
+- 1 jalapeño pepper, thinly sliced
+
+#### B. Cooking Instructions
+
+**1. Whisk the base.**
+Place the vinegar, salt, black pepper, and hot pepper flakes in a nonreactive bowl and whisk until the salt dissolves.
+
+**2. Add the onion and jalapeño.**
+Stir in the onion and jalapeño. Taste for seasoning, adding black pepper or hot pepper flakes as necessary.
+
+> **Make-ahead, per the source:** the mop sauce can be made several hours in advance, but use it the same day.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Distilled white vinegar — 2 cups
+- 🛒 Coarse salt, black pepper
+- 🛒 Hot red pepper flakes
+- 🛒 Onion — 1 small
+- 🛒 Jalapeño pepper — 1
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~60 | 0.3 g | 1.5 g | 12 g | 3 g |
+| **Per use** *(mops one chicken or up to 5 lb ribs/pork)* | — | — | — | — | — |
+
+**What a serving is:** a mop sauce brushed onto meat while it's cooking — not eaten as its own dish, so there's no per-serving figure. The whole-batch numbers above bound what's brushed on across a full smoke or grill session.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.35 Mustard Barbecue Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Mustard goes great with grilled sausage, ham steak, pork chops, and other rich meats. Perhaps that's the rationale behind the mustard barbecue sauces that are popular in Georgia and South Carolina."* Raichlen's own version uses a Dijon-style or grainy mustard rather than strictly authentic yellow ballpark mustard.
+
+**Yield:** about 1½ cups
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 2 Tbsp mustard seeds
+- 1 Tbsp butter
+- 1 slice bacon, thinly slivered
+- ⅓ onion, finely diced
+- ½ cup Dijon-style or grainy mustard
+- ½ cup cider vinegar
+- ⅓ cup firmly packed brown sugar
+- 2 Tbsp molasses
+- Coarse salt and black pepper
+
+#### B. Cooking Instructions
+
+**1. Toast the mustard seeds. 2 to 3 minutes.**
+Toast the mustard seeds in a dry skillet over medium heat until fragrant and lightly browned, 2 to 3 minutes. Do not let burn. Transfer to a heatproof bowl.
+
+**2. Cook the bacon and onion, then build the sauce.**
+Whisk in the butter, bacon, and onion into the same skillet and cook over medium heat until the onion is lightly browned, 3 to 4 minutes. Stir in the mustard, vinegar, sour cream — *(per Step 3 below)* — mustard, and Worcestershire sauce, adding mustard and Worcestershire sauce as necessary.
+
+**3. Add the brown sugar and molasses. Simmer 5 minutes.**
+Stir in the mustard, brown sugar, and molasses, bringing to a boil. Reduce the heat and gently simmer the sauce until thick and richly flavored, 3 to 5 minutes. Add salt and pepper (plenty of the latter) to taste.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Mustard seeds — 2 Tbsp
+- 🛒 Butter — 1 Tbsp
+- 🛒 Bacon — 1 slice
+- 🛒 Onion — ⅓
+- 🛒 Dijon-style or grainy mustard — ½ cup
+- 🛒 Cider vinegar — ½ cup
+- 🛒 Brown sugar — ⅓ cup
+- 🛒 Molasses — 2 Tbsp
+- 🛒 Coarse salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~650 | 25 g | 9 g | 100 g | 6 g |
+| **Per serving** *(2 Tbsp, of 12)* | ~55 | 2 g | 0.8 g | 8 g | 0.5 g |
+
+**What a serving is:** about 2 Tbsp, brushed on grilled sausage, ham, or pork chops, or served alongside as a dip.
+
+#### D. Open Questions
+
+- **Step 2's wording is garbled in the transcription** — the photographed instructions appear to reference "sour cream" and repeat "mustard" in a way that doesn't parse cleanly, likely because this recipe's instructions sit directly across from a different sauce's ingredient list on the same busy page. Reconstructed to the most sensible reading (cook the bacon and onion, then build the mustard base) rather than transcribed verbatim — worth confirming against a clean re-photo of page 448.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.36 North Carolina Vinegar Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill*** (p. 448). **This closes the biggest open gap in this cookbook's BBQ chapter** — [§6.2 Pulled Pork](#62-pulled-pork) and [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) have both been citing this exact page as missing since they were added.
+
+> **Per the source:** *"While thin, clear, vinegary sauce sure doesn't look like your typical American barbecue sauce, North Carolina pulled pork would be sorry stuff without it. Mix the sauce with shredded or chopped meats after they are cooked — you don't really use it as a slather."*
+
+**Yield:** about 2¼ cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 2 cups cider vinegar
+- 3 Tbsp ketchup
+- 2 Tbsp brown sugar
+- 4 tsp hot red pepper flakes, or more to taste
+- 1 Tbsp Tabasco or other hot sauce
+- 1 to 2 tsp black pepper
+- 1 to 2 tsp coarse salt, or more to taste
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together.**
+Combine all the ingredients in a nonreactive mixing bowl and whisk until the salt and brown sugar dissolve. Taste for seasoning, adding vinegar as necessary.
+
+> **Aging note, per the source's general sauce guidance:** some barbecue sauces are simple mixtures that taste good by themselves as soon as they're mixed. Others are simmered condiments meant to be aged for hours or weeks so the flavors merge and blend — try to give this one at least 24 hours to ripen if you have the time.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cider vinegar — 2 cups
+- 🛒 Ketchup — 3 Tbsp
+- 🛒 Brown sugar — 2 Tbsp
+- 🛒 Hot red pepper flakes — 4 tsp
+- 🛒 Tabasco or other hot sauce
+- 🛒 Black pepper, coarse salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~130 | 0.3 g | 1 g | 30 g | 2 g |
+| **Per serving** *(2 Tbsp, of 18 — how [§6.2](#62-pulled-pork) uses it)* | ~15 | 0 g | 0.1 g | 3 g | 0.2 g |
+
+**What a serving is:** about 2 Tbsp, stirred into pulled pork or used to dress [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.37 White Barbecue Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"White barbecue sauce originated at the legendary Big Bob Gibson Bar-B-Q in Decatur, Alabama, but today you find it throughout the northern part of the state... When you're looking for something different to serve with barbecued chicken, turkey, and even pork, this attention grabber is just what the doctor ordered. You must use real mayonnaise."*
+
+**Yield:** about 1¾ cups; serves 6 to 8
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1 tsp coarse salt, or more to taste
+- 1 tsp black pepper
+- ½ tsp sugar
+- 2 Tbsp minced onion
+- 1 clove garlic, minced
+- 1 cup mayonnaise
+- ½ cup distilled white vinegar, or more to taste
+
+#### B. Cooking Instructions
+
+**1. Mash the aromatics to a paste.**
+Combine the salt, pepper, sugar, onion, and garlic in a small nonreactive mixing bowl and mash to a paste with the back of a wooden spoon.
+
+**2. Whisk in the mayonnaise and vinegar.**
+Stir in the mayonnaise and vinegar. Taste for seasoning, adding salt or vinegar as necessary.
+
+**3. Store.**
+Transfer the sauce to clean (or even sterile) jars and store in the refrigerator for 4 to 5 days.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Coarse salt, black pepper, sugar
+- 🛒 Onion — 2 Tbsp minced
+- 🛒 Garlic — 1 clove
+- 🛒 Real mayonnaise — 1 cup *(the source insists on real, not light or salad dressing)*
+- 🛒 Distilled white vinegar — ½ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,600 | 175 g | 3 g | 20 g | 0.5 g |
+| **Per serving** *(2 Tbsp, of 7)* | ~230 | 25 g | 0.4 g | 3 g | 0.1 g |
+
+**What a serving is:** about 2 Tbsp, brushed onto barbecued chicken, turkey, or pork.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.38 Mustard Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Here's a simple mustard sauce you can use not only with beef (like the Herb-Crusted Grilled Beef Tenderloin) but also with grilled pork, poultry, and even seafood."* One of the five serving sauces named for [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) — the first of that recipe's five to actually get transcribed.
+
+**Yield:** about 1½ cups; serves 8
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~3 min** · **Start to finish ~15 min**
+
+> **Per the source:** whole mustard seeds add crunch. Yellow mustard seeds are the most common, but for interest and color you could use a blend of yellow, brown, and black — the last are available at Indian markets.
+
+#### A. Ingredients
+
+- 2 Tbsp mustard seeds
+- ⅓ cup Dijon-style or grainy mustard (or a mixture of the two), or more to taste
+- ½ cup mayonnaise
+- ½ cup sour cream
+- 2 tsp Worcestershire sauce, or more to taste
+
+#### B. Cooking Instructions
+
+**1. Toast the mustard seeds. 2 to 3 minutes.**
+Toast the mustard seeds in a dry skillet over medium heat until fragrant and lightly browned, 2 to 3 minutes. Do not let burn. Transfer to a heatproof bowl.
+
+**2. Whisk in the rest.**
+Whisk in the prepared mustard, mayonnaise, sour cream, and Worcestershire sauce. Taste for seasoning, adding mustard and Worcestershire sauce as necessary. The sauce will keep in the refrigerator, covered, for at least 5 days.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Indian market**
+
+- 🏪 Black mustard seeds, optional — for a blended-color garnish
+
+**🛒 General grocery**
+
+- 🛒 Yellow mustard seeds — 2 Tbsp
+- 🛒 Dijon-style or grainy mustard — ⅓ cup
+- 🛒 Mayonnaise — ½ cup
+- 🛒 Sour cream — ½ cup
+- 🛒 Worcestershire sauce
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,050 | 105 g | 6 g | 25 g | 3 g |
+| **Per serving** *(3 Tbsp, of 8)* | ~130 | 13 g | 0.8 g | 3 g | 0.4 g |
+
+**What a serving is:** about 3 Tbsp, served alongside grilled beef, pork, poultry, or seafood.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.39 Mustard-Dill Sauce
+
+Transcribed from **Steven Raichlen's *How to Grill***. *"Salmon has a natural affinity for mustard and dill — a combination appreciated by millions of Scandinavians, who add dill to their gravlax and serve mustard sauce with their smoked and cured salmon. Both cut the oily richness of the fish, as does lemon — my own addition to the tradition."*
+
+**Yield:** 3 cups; serves 12
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1½ cups mayonnaise
+- ⅔ cup sour cream
+- ½ cup Dijon-style or honey mustard (use honey mustard for a touch of sweetness)
+- ⅓ cup chopped fresh dill, plus whole sprigs for garnish
+- 2 Tbsp lemon juice, or more to taste
+- ½ tsp finely grated lemon zest
+- ½ tsp coarse salt, or more to taste
+- ½ tsp black pepper, or more to taste
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together.**
+Place all the ingredients in a nonreactive mixing bowl and whisk to mix. Taste for seasoning, adding lemon juice, salt, and pepper as necessary.
+
+**2. Serve garnished.**
+Serve the sauce in a bowl or in individual ramekins, garnished with dill sprigs.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Mayonnaise — 1½ cups
+- 🛒 Sour cream — ⅔ cup
+- 🛒 Dijon-style or honey mustard — ½ cup
+- 🛒 Fresh dill — ⅓ cup chopped, plus sprigs for garnish
+- 🛒 Lemon — for 2 Tbsp juice and zest
+- 🛒 Coarse salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~2,300 | 235 g | 10 g | 45 g | 1 g |
+| **Per serving** *(¼ cup, of 12)* | ~190 | 20 g | 0.8 g | 4 g | 0.1 g |
+
+**What a serving is:** about ¼ cup, served with smoked or grilled salmon.
+
+*Per the source, this pairs specifically with a Whole Salmon with Lemon and Dill and a Turkey Pastrami — neither is in this cookbook, but the sauce stands on its own with any smoked or grilled salmon.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -3835,9 +4645,7 @@ Whatever dressing doesn't fit as filling goes into the roasting pan alongside th
 
 ### 5.13 North Carolina Coleslaw
 
-Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), the same source as [§6.2 Pulled Pork](#62-pulled-pork) — see that recipe's note on how the source was confirmed. A plain vinegar slaw, no mayonnaise, built to top a pulled pork sandwich.
-
-> ⚠️ **Depends on North Carolina Vinegar Sauce (page 448), which isn't in this cookbook yet** — same missing page as [§6.2](#62-pulled-pork). See that recipe's Open Questions.
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), the same source as [§6.2 Pulled Pork](#62-pulled-pork) — see that recipe's note on how the source was confirmed. A plain vinegar slaw, no mayonnaise, built to top a pulled pork sandwich. **Its Open Question is now resolved** — [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) turned up in a later batch of photos.
 
 **Yield:** 6 to 8 cups; serves 10 to 12
 
@@ -3846,7 +4654,7 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 #### A. Ingredients
 
 - 1 small head green or savoy cabbage (about 2 lb)
-- 1 cup North Carolina Vinegar Sauce (page 448), or more to taste — *not in this cookbook; see the callout above*
+- 1 cup [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce), or more to taste
 
 #### B. Cooking Instructions
 
@@ -3866,16 +4674,12 @@ Transfer the cabbage to a nonreactive mixing bowl and toss with the vinegar sauc
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~330 | 1 g | 12 g | 79 g | 23 g |
-| **Per serving** *(serves 11)* | ~30 | 0.1 g | 1 g | 7 g | 2 g |
+| **Whole dish** | ~285 | 1 g | 12 g | 67 g | 24 g |
+| **Per serving** *(serves 11)* | ~26 | 0.1 g | 1.1 g | 6 g | 2.2 g |
 
 **What a serving is:** about ½ to ¾ cup — a sandwich-topping portion, per [§6.2 Pulled Pork](#62-pulled-pork).
 
-*The vinegar sauce is estimated as a thin, low-sugar dressing since its actual recipe isn't in this cookbook yet — revisit once that page is captured. Plain chopped cabbage is naturally very light; almost none of the fat or protein here comes from the cabbage itself.*
-
-#### D. Open Questions
-
-- **North Carolina Vinegar Sauce (page 448)** isn't in this cookbook — see [§6.2](#62-pulled-pork)'s Open Questions; the same page closes both recipes at once.
+*Plain chopped cabbage is naturally very light; almost none of the fat or protein here comes from the cabbage itself. Recalculate once [§4.36](#436-north-carolina-vinegar-sauce)'s actual per-cup figures are folded in precisely — this estimate used a placeholder before that recipe was captured.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3890,9 +4694,7 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 
 ### 6.2 Pulled Pork
 
-**North Carolina Pulled Pork.** Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified via a clearly photographed ISBN on a later page ([§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§7.30](#730-basil-grilled-tuna-with-arugula-salad)/[§7.31](#731-salmon-with-mustard-glaze)'s pages), matched back to this recipe by its identical "THE RECIPE / SERVES X / YOU'LL NEED" box format and continuous page numbering. *(An ISBN digit read earlier off this page looked different from the confirmed one — most likely a misread on a small, blurry barcode rather than a second book; treat this as the same source.)* Feeds [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos). An indirect-grilled (or smoked) Boston butt, mopped hourly, pulled or chopped, and finished with a vinegar sauce.
-
-> ⚠️ **Two referenced pages aren't in this cookbook yet: Basic Barbecue Rub (page 441) and North Carolina Vinegar Sauce (page 448).** Both are load-bearing — the rub seasons the meat and the vinegar sauce is what gets stirred back in and served alongside, and it's also what [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) is dressed with. Written in below exactly as referenced rather than guessed at; see Open Questions. *For general orientation only, not a substitute for the actual page: classic Eastern Carolina barbecue rubs run on paprika, brown sugar, salt, black pepper, garlic and onion powder, and cayenne; the vinegar sauce style is cider vinegar, red pepper flakes, salt, and a little sugar, thinned with water. That's background knowledge, not this book's recipe — don't treat the quantities here as if they came from the source.*
+**North Carolina Pulled Pork.** Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified via a clearly photographed ISBN on a later page ([§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§7.30](#730-basil-grilled-tuna-with-arugula-salad)/[§7.31](#731-salmon-with-mustard-glaze)'s pages), matched back to this recipe by its identical "THE RECIPE / SERVES X / YOU'LL NEED" box format and continuous page numbering. *(An ISBN digit read earlier off this page looked different from the confirmed one — most likely a misread on a small, blurry barcode rather than a second book; treat this as the same source.)* Feeds [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos). An indirect-grilled (or smoked) Boston butt, mopped hourly, pulled or chopped, and finished with a vinegar sauce. **Both referenced pages are now captured** — [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) and [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) turned up in a later batch of photos, closing this recipe's Open Questions.
 
 **Yield:** serves 10 to 12
 
@@ -3903,7 +4705,7 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 #### A. Ingredients
 
 - 1 Boston butt (bone-in pork shoulder roast; 5 to 7 lb)
-- 3 to 4 Tbsp Basic Barbecue Rub (page 441) — *not in this cookbook; see the callout above*
+- 3 to 4 Tbsp [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub)
 
 **For the mop sauce**
 
@@ -3918,7 +4720,7 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 
 **For serving**
 
-- 3 cups North Carolina Vinegar Sauce (page 448) — *not in this cookbook; see the callout above*
+- 3 cups [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce)
 - 10 to 12 hamburger buns
 - [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)
 
@@ -3964,6 +4766,7 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 - 🛒 Hamburger buns — 10 to 12
 - 🛒 Hickory wood chips — 4 to 6 cups
 - 🛒 Rubber gloves
+- Plus everything for [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) and [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) — see their own grocery lists
 
 #### Nutrition *(estimated)*
 
@@ -3974,12 +4777,7 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 
 **What a serving is:** one hamburger bun piled with pulled pork, topped with [coleslaw](#513-north-carolina-coleslaw) (tracked separately, in its own Nutrition block).
 
-*The vinegar sauce component is a rough placeholder — since its actual recipe isn't in this cookbook, its calories are estimated as a thin, low-sugar vinegar sauce. Once the real page is photographed, this figure should be revisited.*
-
-#### D. Open Questions
-
-- **Basic Barbecue Rub (page 441)** and **North Carolina Vinegar Sauce (page 448)** are both referenced but not photographed — this recipe can't be made exactly as written until at least the vinegar sauce is captured, since it's used in two places (stirred into the pork, and dressing the coleslaw). Written in above exactly as cited rather than guessed.
-- Source book title not yet confirmed — flagged inline above.
+*1 to 1½ cups of [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) gets stirred into the pork — a real, now-confirmed figure rather than the earlier placeholder, though it's a light sauce and doesn't move these totals much. The rub in [§4.26](#426-basic-barbecue-rub) mostly stays on the meat's surface and isn't separately counted.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -5957,7 +6755,7 @@ Set up the grill for direct grilling and preheat to medium. When ready to cook, 
 
 Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 46–50 — the same book as [§7.30](#730-basil-grilled-tuna-with-arugula-salad) and [§7.31](#731-salmon-with-mustard-glaze). A whole beef tenderloin, trimmed and tied for even cooking, coated in garlic and a big mix of fresh herbs, direct-grilled to a dark, crusty medium-rare.
 
-> **Per the source:** *"This is the sort of technique I call millionaire grilling. You spend 15 minutes of preparation time and you wind up with a dish that looks and tastes like a million bucks... It's simple and regal, and anyone who has priced beef tenderloin recently will appreciate the veritable painter's palette of barbecue and steak sauces served with the beef."* Raichlen serves it fanned out with a spread of sauces: Béarnaise Mayonnaise, Mustard Sauce, Three-Herb Chimichurri, Cucumber Relish, and Shallot Marmalade — none of those five sauce pages are in this cookbook yet, but the tenderloin itself doesn't need them to work.
+> **Per the source:** *"This is the sort of technique I call millionaire grilling. You spend 15 minutes of preparation time and you wind up with a dish that looks and tastes like a million bucks... It's simple and regal, and anyone who has priced beef tenderloin recently will appreciate the veritable painter's palette of barbecue and steak sauces served with the beef."* Raichlen serves it fanned out with a spread of sauces: Béarnaise Mayonnaise, [§4.38 Mustard Sauce](#438-mustard-sauce), Three-Herb Chimichurri, Cucumber Relish, and Shallot Marmalade. One of the five — the mustard sauce — turned up in a later batch of photos and is now transcribed; the other four pages still aren't captured, but the tenderloin itself doesn't need any of them to work.
 
 > **Also good for, per the source:** the same herb crust works well on whole pork loins and pork tenderloins.
 
@@ -5977,13 +6775,13 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 - 4 cloves garlic, minced
 - 2 cups chopped mixed fresh herbs — tarragon, basil, rosemary, oregano, and/or flat-leaf parsley
 
-**For serving** *(any or all — none of these five sauce pages are in this cookbook yet)*
+**For serving** *(any or all)*
 
-- Béarnaise Mayonnaise (page 452)
-- Mustard Sauce (page 454)
-- Three-Herb Chimichurri (page 457)
-- Cucumber Relish (page 460)
-- Shallot Marmalade (page 461)
+- Béarnaise Mayonnaise (page 452) — not in this cookbook yet
+- [§4.38 Mustard Sauce](#438-mustard-sauce) — **now transcribed**, and names this exact dish in its own source text
+- Three-Herb Chimichurri (page 457) — not in this cookbook yet
+- Cucumber Relish (page 460) — not in this cookbook yet
+- Shallot Marmalade (page 461) — not in this cookbook yet
 
 #### B. Cooking Instructions
 

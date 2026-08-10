@@ -6,23 +6,28 @@ A living recipe reference. Every recipe has three sections, always in this order
 
 ## Table of Contents
 
-Click any recipe to jump straight to it. ✅ = written up in full · ○ = placeholder, details still to come · 🥑 = keto / low-carb · 🦃 = Thanksgiving / holiday side.
+Click any recipe to jump straight to it.
+
+**Status:** ✅ = written up in full · ○ = placeholder, details still to come
+**Category:** 🥑 = keto / low-carb · 🦃 = Thanksgiving / holiday side
+**Cody's family rating:** ❤️ = family favorite, we cook it · 👍 = tried and liked · 🔖 = want to try, not made yet · *(no mark = not rated yet)* — see the **[Family Ratings Index](#family-ratings-index)**
 
 **Reference**
 
 - [Changelog](#changelog)
 - [Store Icon Key](#store-icon-key)
 - [**Difficulty & Time Index**](#difficulty--time-index) — *every recipe, sorted by prep + cook*
+- [**Family Ratings Index**](#family-ratings-index) — *what the family actually loves, in Cody's words*
 - [4. Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)
-  - [4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ✅
+  - [4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ✅ ❤️
   - [4.2 Salsa Alfredo (Alfredo Sauce)](#42-salsa-alfredo-alfredo-sauce) ✅
   - [4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](#43-pesto-basil-parmesan-and-pine-nut-sauce) ✅
   - [4.4 Salsa Marinara (Marinara Sauce)](#44-salsa-marinara-marinara-sauce) ✅
-  - [4.5 Pickled Pink Onions](#45-pickled-pink-onions) ✅
-  - [4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) ✅
-  - [4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ✅
+  - [4.5 Pickled Pink Onions](#45-pickled-pink-onions) ✅ ❤️
+  - [4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) ✅ ❤️
+  - [4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ✅ ❤️
   - [4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ✅
-  - [4.9 Hollandaise Sauce](#49-hollandaise-sauce) ✅
+  - [4.9 Hollandaise Sauce](#49-hollandaise-sauce) ✅ ❤️
   - [4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) ✅
   - [4.11 Choron Sauce](#411-choron-sauce) ✅
   - [4.12 Fish Brown Sauce](#412-fish-brown-sauce) ✅
@@ -36,7 +41,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.20 Meunière Sauce](#420-meunière-sauce) ✅
   - [4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) ✅
   - [4.22 Mustard Sauce](#422-mustard-sauce) ✅
-  - [4.23 Remoulade Sauce](#423-remoulade-sauce) ✅
+  - [4.23 Remoulade Sauce](#423-remoulade-sauce) ✅ ❤️
   - [4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) ✅
   - [4.25 Basic Fish Cure](#425-basic-fish-cure) ✅
   - [4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) ✅
@@ -52,7 +57,7 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) ✅
   - [4.37 White Barbecue Sauce](#437-white-barbecue-sauce) ✅
   - [4.38 Mustard Sauce](#438-mustard-sauce) ✅
-  - [4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) ✅
+  - [4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) ✅ ❤️
   - [4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) ✅
   - [4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) ✅
   - [4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce) ✅
@@ -82,113 +87,114 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
   - [T14. How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) ✅
   - [T15. How to Barbecue Cabbage](#t15-how-to-barbecue-cabbage) ✅
   - [T16. How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) ✅
+  - [T17. The Raw Egg Soak (for Shrimp)](#t17-the-raw-egg-soak-for-shrimp) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
 **Complete Recipes**
 
-- [1. Cody's Pho](#1-codys-pho) ✅
-- [2. Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ✅
-- [3. Darcy's Steak](#3-darcys-steak) ○ *(rub is done — method still open)*
+- [1. Cody's Pho](#1-codys-pho) ✅ ❤️
+- [2. Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ✅ ❤️
+- [3. Darcy's Steak](#3-darcys-steak) ○ *(rub is done — method still open)* ❤️
 
 **[5. Vegetables & Sides](#5-vegetables--sides)**
 
-- [5.1 Green Beans](#51-green-beans) ○
-- [5.2 Asparagus](#52-asparagus) ○
-- [5.3 Squash](#53-squash) ○
-- [5.4 Okra](#54-okra) ○
-- [5.5 Zucchini](#55-zucchini) ○
+- [5.1 Green Beans](#51-green-beans) ○ ❤️
+- [5.2 Asparagus](#52-asparagus) ○ ❤️
+- [5.3 Squash](#53-squash) ○ 👍
+- [5.4 Okra](#54-okra) ○ ❤️
+- [5.5 Zucchini](#55-zucchini) ○ ❤️
 - [5.6 Cauliflower](#56-cauliflower) ○
-- [5.7 Brussels Sprouts](#57-brussels-sprouts) ○
-- [5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) ○
+- [5.7 Brussels Sprouts](#57-brussels-sprouts) ○ ❤️
+- [5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) ○ 🔖
 - [5.9 Goat Cheese Salad](#59-goat-cheese-salad) ○
-- [5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ✅
-- [5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) ✅ 🦃
-- [5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) ✅ 🦃
-- [5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) ✅
-- [5.14 Grilled Corn](#514-grilled-corn) ✅
+- [5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ✅ ❤️
+- [5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) ✅ 🦃 👍
+- [5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) ✅ 🦃 👍
+- [5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) ✅ 👍
+- [5.14 Grilled Corn](#514-grilled-corn) ✅ 👍
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
-- [6.1 Smoked Brisket](#61-smoked-brisket) ○
-- [6.2 Pulled Pork](#62-pulled-pork) ✅ *(North Carolina style)*
-- [6.3 Smoked Whole Hen](#63-smoked-whole-hen) ○
-- [6.4 Smoked Steak](#64-smoked-steak) ○
+- [6.1 Smoked Brisket](#61-smoked-brisket) ○ ❤️
+- [6.2 Pulled Pork](#62-pulled-pork) ✅ *(North Carolina style)* ❤️
+- [6.3 Smoked Whole Hen](#63-smoked-whole-hen) ○ ❤️
+- [6.4 Smoked Steak](#64-smoked-steak) ○ ❤️
 
 **[7. Mains & Proteins](#7-mains--proteins)**
 
-- [7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) ○
-- [7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) ○
-- [7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ✅ ⭐ *("Delish!" 12/5/14)*
+- [7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) ○ ❤️
+- [7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) ○ 👍
+- [7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ✅ *("Delish!" 12/5/14)* ❤️
 - [7.4 Pork Chops](#74-pork-chops) ○
-- [7.5 Chicken Thighs](#75-chicken-thighs) ○
-- [7.6 Chicken Hearts](#76-chicken-hearts) ○
-- [7.7 Chicken Livers](#77-chicken-livers) ○
-- [7.8 Fried Catfish](#78-fried-catfish) ○
-- [7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) ○
-- [7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) ○
-- [7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ○
-- [7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) ○
+- [7.5 Chicken Thighs](#75-chicken-thighs) ○ ❤️
+- [7.6 Chicken Hearts](#76-chicken-hearts) ○ ❤️
+- [7.7 Chicken Livers](#77-chicken-livers) ○ 👍
+- [7.8 Fried Catfish](#78-fried-catfish) ○ ❤️
+- [7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) ○ ❤️
+- [7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) ○ 👍
+- [7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ○ ❤️
+- [7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) ○ 👍
 - [7.13 Crawfish Elegante](#713-crawfish-elegante) ✅
 - [7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters) ✅
-- [7.15 Pauls Jambalaya](#715-pauls-jambalaya) ✅
-- [7.16 Red Beans & Rice](#716-red-beans--rice) ✅
-- [7.17 White Beans (Slow Cooker Ham & White Beans)](#717-white-beans-slow-cooker-ham--white-beans) ✅
-- [7.18 Spaghetti](#718-spaghetti) ✅
-- [7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) ✅
-- [7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ✅
-- [7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded) ✅ 🥑
-- [7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) ✅
-- [7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) ✅
-- [7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) ✅
-- [7.25 Sautéed Crawfish](#725-sautéed-crawfish) ✅
-- [7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) ✅
-- [7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) ✅
-- [7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) ✅
-- [7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) ✅
-- [7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ✅
-- [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅
-- [7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ✅
-- [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅
+- [7.15 Pauls Jambalaya](#715-pauls-jambalaya) ✅ ❤️
+- [7.16 Red Beans & Rice](#716-red-beans--rice) ✅ ❤️
+- [7.17 White Beans (Slow Cooker Ham & White Beans)](#717-white-beans-slow-cooker-ham--white-beans) ✅ ❤️
+- [7.18 Spaghetti](#718-spaghetti) ✅ ❤️
+- [7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) ✅ ❤️
+- [7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ✅ ❤️
+- [7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded) ✅ 🥑 🔖
+- [7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) ✅ ❤️
+- [7.23 Fish with Pecan Butter Sauce and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) ✅ 🔖
+- [7.24 Seafood Stuffed Zucchini with Seafood Cream Sauce](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) ✅ 🔖
+- [7.25 Sautéed Crawfish](#725-sautéed-crawfish) ✅ 🔖
+- [7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) ✅ 🔖
+- [7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) ✅ 🔖
+- [7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) ✅ 🔖
+- [7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) ✅ 🔖
+- [7.30 Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ✅ ❤️
+- [7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ✅ ❤️
+- [7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ✅ ❤️
+- [7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) ✅ 👍
 
 **[8. Soups & Chili](#8-soups--chili)**
 
-- [8.1 Chili](#81-chili) ✅
-- [8.2 Soups](#82-soups) ○
-- [8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ✅
-- [8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ✅ ⭐ *(house favorite)*
-- [8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ✅
-- [8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ✅
-- [8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ✅
+- [8.1 Chili](#81-chili) ✅ ❤️
+- [8.2 Soups](#82-soups) ○ ❤️
+- [8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ✅ ❤️
+- [8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ✅ *(house favorite)* ❤️
+- [8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ✅ ❤️
+- [8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ✅ ❤️
+- [8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ✅ ❤️
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
-- [9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) ○
+- [9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) ○ 👍
 - [9.2 Nuts](#92-nuts) ○
 - [9.3 Apples and Almond Butter](#93-apples-and-almond-butter) ○
 - [9.4 Yogurt, Seeds, and Peanut Butter](#94-yogurt-seeds-and-peanut-butter) ○
-- [9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) ✅
-- [9.6 Beef Jerky](#96-beef-jerky) ✅
-- [9.7 Chicken Salad](#97-chicken-salad) ✅
-- [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ○
-- [9.9 Shrimp Remoulade](#99-shrimp-remoulade) ✅
-- [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅
+- [9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) ✅ 👍
+- [9.6 Beef Jerky](#96-beef-jerky) ✅ ❤️
+- [9.7 Chicken Salad](#97-chicken-salad) ✅ ❤️
+- [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ○ ❤️
+- [9.9 Shrimp Remoulade](#99-shrimp-remoulade) ✅ ❤️
+- [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅ 🔖
 
 **[10. Breakfast](#10-breakfast)**
 
 - [10.1 Huevos Rancheros](#101-huevos-rancheros) ○
 - [10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) ○
 - [10.3 Bacon and Eggs](#103-bacon-and-eggs) ○
-- [10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ○
+- [10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ○ ❤️
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
-- [11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) ○
-- [11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) ○
-- [11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) ✅ 🥑
-- [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅ 🥑
-- [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅ 🥑
-- [11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) ✅ 🥑
+- [11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) ○ 🔖
+- [11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) ○ 🔖
+- [11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) ✅ 🥑 👍
+- [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅ 🥑 ❤️
+- [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅ 🥑 ❤️
+- [11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) ✅ 🥑 🔖
 
 ---
 
@@ -196,6 +202,9 @@ Click any recipe to jump straight to it. ✅ = written up in full · ○ = place
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Cody rated the cookbook, and the ratings are now part of it — new [Family Ratings Index](#family-ratings-index) plus a marker on all 76 rated entries.** Three tiers, in his framing: **❤️ family favorite** (51), **👍 tried and liked** (12), **🔖 want to try** (13). Every rated recipe carries the verdict **in Cody's own words** in its own section, so it travels with the recipe instead of living only in an index. **Resolved a marker collision while doing it:** ⭐ was doing two unrelated jobs — "pantry staple worth keeping on hand" in five T-section grocery lists, and "favorite" on [§7.3](#73-seafood-stuffed-flounder) and [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice). Those two are now ❤️, so ⭐ means one thing again. **Four things surfaced that aren't just ratings:** [§5.1 Green Beans](#51-green-beans) gained its first real content — it's **Vicky's lemon zest green beans**, and the method should come from her; [§6.2 Pulled Pork](#62-pulled-pork) notes a **second pulled pork recipe is coming** and will get its own entry rather than overwriting the North Carolina one; [§6.3](#63-smoked-whole-hen) flags a possible **hen/ham mix-up** (Cody said "smoked ham," the stub has always said hen) rather than silently picking one; and [§7.33](#733-grilled-stuffed-chicken-breasts) answers his chicken-thigh question — yes, but butterfly-and-fold rather than pocket, and expect ~175°F and a more forgiving cook. **Two split verdicts recorded as such** rather than averaged into a score: [§7.7 Chicken Livers](#77-chicken-livers) *("I love it, but I don't think my family likes it")* and [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *("My family likes it. I think it's okay")*. **[§7.13 Crawfish Elegante](#713-crawfish-elegante) and [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) got skipped** in the pass and are flagged in the index as the notable unrated gaps — both are from Cody's own cards. |
+| 2026-08-10 | Added **[§T17 The Raw Egg Soak (for Shrimp)](#t17-the-raw-egg-soak-for-shrimp)** — Cody's own standing technique, not from any cookbook here: shrimp that isn't genuinely fresh *("which you just don't get in Missouri")* gets soaked in raw egg first. Written up with the mechanism explained at the level it can actually be supported — it's the same principle as **velveting**, where an egg-protein coat holds moisture and takes the brunt of the heat — and **explicitly flagged where the reasoning outruns the evidence** rather than dressed up as settled science. Four Open Questions recorded: whole egg or just the white *(classic velveting uses the white)*, soak time, egg-per-pound, and whether it carries over to [§7.22 Ceviche](#722-captain-mikes-ceviche), which never heats the shrimp at all and so is a genuinely different proposition. Wired to the three shrimp recipes whose ratings all came with the same *"only if it's fresh"* caveat. |
+| 2026-08-10 | **Logged a recipe Cody remembers loving that isn't in this cookbook** — a **New Orleans blended crab and shrimp sauce** from *Louisiana Kitchen*, *"maybe even oysters in it,"* blended smooth. Added to **[§12 Recipes To Document](#12-recipes-to-document)** rather than assumed to be one already here: **checked against [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce)** — same book, same two shellfish, but that one keeps them **whole** and never touches a blender — and against [§4.21 Czarina Sauce](#421-czarina-sauce-with-shrimp-or-crawfish). Neither is it. Needs a photo of the page. |
 | 2026-08-10 | Added **[§T16 How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** — a new source, a hand-illustrated technique page presumed to be **Samin Nosrat's *Salt, Fat, Acid, Heat*** (inferred from the illustration style and Cody's own naming, not yet confirmed against a title page — flagged as such rather than stated outright). A ratio formula (1 egg yolk : ¾ cup oil) rather than a fixed batch, filed as a technique alongside [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§T15](#t15-how-to-barbecue-cabbage) for the same reason. **Rated Medium, not Hard like [§4.9 Hollandaise](#49-hollandaise-sauce)** — the deciding difference: this technique comes with its own explicit broken-mayonnaise fix, so a break here is recoverable, which is exactly the condition [§4.9](#49-hollandaise-sauce) fails. |
 | 2026-08-10 | Added **[§13 Meathead Cookbook](#13-meathead-cookbook)** as a placeholder — Cody's next source, nothing photographed yet. Title given as an educated guess (*Meathead: The Science of Great Barbecue and Grilling*) rather than confirmed, per this cookbook's practice of only asserting a source once an actual page confirms it. Likely destination once content arrives: [§6 Smoked Meats](#6-smoked-meats), still mostly placeholders. |
 | 2026-08-10 | Added **[§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts)** from **Steven Raichlen's *How to Grill*** (p. 240–243) — chicken breasts pocketed and stuffed with sun-dried tomato, basil, and goat cheese, direct-grilled to a crosshatch sear. Transcribed clean across the full technique-plus-recipe spread, no gaps. |
@@ -298,6 +307,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) | 🟢 | 5 min | — | — | 5 min |
+| [§T17 Raw Egg Soak (Shrimp)](#t17-the-raw-egg-soak-for-shrimp) | 🟢 | 5 min | — | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
@@ -363,7 +373,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
-| [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ | 🟢 | 15 min | 25 min | — | 40 min |
+| [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
 | [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
@@ -390,7 +400,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
-| [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ⭐ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
+| [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
@@ -416,6 +426,66 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ---
 
+## Family Ratings Index
+
+**This index answers a different question than the [Difficulty & Time Index](#difficulty--time-index) does.** That one tells you what a recipe *costs* you. This one tells you whether the family actually wants it. The two are independent — some of the easiest things here are unrated, and some of the most involved are the ones they cook most.
+
+**The ratings are Cody's, in his own words**, captured as given rather than paraphrased into a score. Every rated recipe carries the same line in its own section, so the verdict travels with the recipe.
+
+| | Meaning |
+|---|---|
+| ❤️ | **Family favorite** — proven, cooked regularly, loved |
+| 👍 | **Tried and liked** — solid, in the rotation, not a headliner |
+| 🔖 | **Want to try** — written up but never cooked yet |
+| *(unmarked)* | **Not rated yet** — see the gap list at the bottom |
+
+**⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§T9](#t9-hearty-main-course-soup-formula), [§T10](#t10-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
+
+### ❤️ Family favorites — 51
+
+**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)
+
+**Smoked meats — the whole section:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak)
+
+**Soups & chili — the whole section, the only clean sweep in the cookbook:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili](#81-chili) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)
+
+**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+
+**Snacks:** [§9.6 Beef Jerky](#96-beef-jerky) · [§9.7 Chicken Salad](#97-chicken-salad) · [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) · [§9.9 Shrimp Remoulade](#99-shrimp-remoulade)
+
+**Sauces & seasonings:** [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) · [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) · [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) · [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) · [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) · [§4.23 Remoulade Sauce](#423-remoulade-sauce) · [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce)
+
+**Breakfast & keto:** [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑
+
+### 👍 Tried and liked — 13
+
+[§5.3 Squash](#53-squash) *(if it's cooked right)* · [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 · [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 · [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) · [§5.14 Grilled Corn](#514-grilled-corn) · [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.7 Chicken Livers](#77-chicken-livers) *(split verdict)* · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) · [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *(split verdict)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑
+
+### 🔖 Want to try — 13
+
+**Every one of these is written up and ready to cook.** This is the shortlist.
+
+[§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) · [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 · [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) · [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue) · [§7.27 Panéed Veal](#727-panéed-veal-with-czarina-sauce) · [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) · [§9.10 Crabmeat Avery](#910-crabmeat-avery) · [§11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) · [§11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) 🥑 · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑
+
+### Reading this index
+
+**Eight of the thirteen want-to-try recipes are Cajun or seafood — and all eight are from *Louisiana Kitchen*.** That's not a coincidence; it's the backlog from transcribing that book faster than anyone could cook out of it. The other five are the two keto quick breads, the keto muffins, the low-carb fried chicken, and the fried zucchini.
+
+**The two split verdicts are worth naming.** [§7.7 Chicken Livers](#77-chicken-livers) — *"I love it, but I don't think my family likes it."* [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) — *"My family likes it. I think it's okay."* Exact opposites, and both worth knowing before you plan a menu around either one.
+
+**Three favorites depend on shrimp quality, not on the recipe.** [§7.2 Boiled Shrimp](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), and [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) all got a rating with the same caveat attached — it's great *when the shrimp is fresh*, which in Missouri it usually isn't. See **[§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-for-shrimp)** for Cody's standing fix, and [§T6](#t6-seafood-notes) on sourcing.
+
+**Still unrated: 57 written-up entries, plus a few stubs.** That breaks down cleanly, and most of it is expected rather than an oversight:
+
+- **44 of §4's sauces, rubs, and seasonings** — components rather than dishes, and it's fair that a mop sauce doesn't get a family verdict on its own.
+- **11 of the 17 techniques** — same reasoning; nobody rates a roux.
+- **[§7.13 Crawfish Elegante](#713-crawfish-elegante) and [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) — these two are the real gaps.** Both are full dishes, both came from Cody's own recipe cards, and both got skipped between §7.12 and §7.15 in the rating pass. Worth a verdict next round.
+- **Unrated stubs:** [§5.6 Cauliflower](#56-cauliflower), [§5.9 Goat Cheese Salad](#59-goat-cheese-salad), [§7.4 Pork Chops](#74-pork-chops), [§9.2](#92-nuts)–[§9.4](#94-yogurt-seeds-and-peanut-butter), and [§10.1](#101-huevos-rancheros)–[§10.3](#103-bacon-and-eggs). §5.6 was the one vegetable skipped in a run that rated every other one.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 1. Cody's Pho
 
 Cody's own method, taken down from his walkthrough. A salty, five-spice-forward broth built on chicken stock and oxtail — **not** a traditional Vietnamese beef-bone broth — with sous vide chuck roast sliced paper-thin and finished by the boiling broth right in the bowl.
@@ -427,6 +497,8 @@ Cody's own method, taken down from his walkthrough. A salty, five-spice-forward 
 **Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)
 
 **🟢 Easy** · **Prep ~2 hr** · **Cook ~20 min** · **Slow cook ~5 hr + 24–36 hr** *(broth simmer, plus sous vide)* · **Start to finish 2 days** *(the chuck goes in the water bath 1–2 days ahead — plan backward from dinner)*
+
+**❤️ Family favorite** — *Cody: "Love it."*
 
 > **Easy, but long — it's a distance run, not a technical climb.** Nothing here can catastrophically fail on you: no roux, no emulsion, no step that goes from perfect to ruined in ten seconds. What it asks for is *stamina and planning* — two days of lead time and about two hours of knife work. Don't let the 🟢 fool you into starting it at 5pm, and don't let the length scare you off; every individual step is straightforward.
 
@@ -605,6 +677,8 @@ Geoff's version of a Thai basil stir-fry, taken down over the phone. Pork belly 
 
 **🟡 Medium** · **Prep ~25 min** · **Cook ~1 hr 10 min** · **Start to finish ~1 hr 20 min** *(45–60 min of the cook is an unattended pork simmer — do all the chopping then)*
 
+**❤️ Family favorite** — *Cody: "Love it."*
+
 ### A. Ingredients
 
 **Meat**
@@ -737,6 +811,8 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 ## 3. Darcy's Steak
 
 > **Placeholder — not yet written up.**
+
+**❤️ Family favorite** — *Cody: "Love it."*
 >
 > **Seasoning is already documented:** see [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub). Salt and pepper the steak first, adjusted for the thickness of the cut, then layer the rub on top.
 >
@@ -764,6 +840,8 @@ Standalone blends, sauces, and condiments live here rather than inside any one r
 A coarse, herb-forward all-purpose steak blend. Ground fresh in a mortar and pestle so you control the texture, and layered *on top of* salt and pepper rather than replacing them.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+**❤️ Family favorite** — *Cody: "Love it."*
 
 #### A. Ingredients
 
@@ -1005,6 +1083,8 @@ Transcribed from a photographed cookbook page. A quick-pickle, ready in minutes 
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min** *(ready to eat immediately — no waiting period)*
 
+**❤️ Family favorite** — *Cody: "We love it."*
+
 #### A. Ingredients
 
 - 2 large red onions, halved and thinly sliced
@@ -1053,6 +1133,8 @@ Transcribed from a handwritten recipe card titled *"No heat sour Kraut."* A raw-
 **Yield:** roughly 1 gallon of brine, enough for about 4–5 quart jars
 
 **🟢 Easy** · **Prep ~45 min** · **Cook none** · **Slow cook weeks** *(cures in the jar)* · **Start to finish weeks** *(see Open Questions on cure time)*
+
+**❤️ Family favorite** — *Cody: "Love it."*
 
 > ⚠️ **Read the Open Questions before making this.** The card is a family shorthand, not a tested canning procedure — it doesn't state a cure time, a storage temperature, or whether the jars get processed. Raw-pack fermenting and preserving have real safety margins, so treat the card as a starting point to confirm rather than a complete method.
 
@@ -1115,6 +1197,8 @@ The card is complete as written but leaves out several things a first-time maker
 **This is the seasoning [§7.13 Crawfish Elegante](#713-crawfish-elegante) has been calling for all along.** That recipe's card wrote it as "Capt. Mike's" / "capn' mike's" and it sat as an open question — *which product is this?* — until Cody identified it: it isn't a store brand to hunt for, it's a **blend**. Also called for by name in [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche).
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+**❤️ Family favorite** — *Cody: "Just a great seasoning, with white pepper. It goes great in cream sauces."*
 
 > **The white pepper is the thing.** Per Cody, that's what gives the blend its character — it's not a background note here the way it is in most mixes. If you're going to be careful about one ingredient, be careful about that one. See [§T5](#t5-seasonings--peppers) on why white pepper reads differently from black.
 
@@ -1276,6 +1360,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 258–259, *S
 **Yield:** about 2⅔ cups
 
 **🔴 Hard** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min** *(serve immediately — this sauce does not wait well)*
+
+**❤️ Family favorite** — *Cody: "Love it."*
 
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) *(on why unsalted butter)*
 
@@ -2211,6 +2297,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers* cha
 
 **🟡 Medium** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(plus chilling — see the note below)*
 
+**❤️ Family favorite** — *Cody: "We love it."*
+
 > ⚠️ **This uses raw egg yolks.** They're never cooked — beaten, then emulsified with oil like a fresh mayonnaise. Use pasteurized eggs if that's a concern, and keep the finished sauce refrigerated. It's meant to be made ahead: [§9.9](#99-shrimp-remoulade) notes it keeps several days and actually **improves** with a couple of days in the fridge.
 
 #### A. Ingredients
@@ -3054,6 +3142,8 @@ Transcribed from **Steven Raichlen's *How to Grill***. *"Salmon has a natural af
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
+**❤️ Family favorite** — *Cody: "Mustard dill sauce rocks."*
+
 #### A. Ingredients
 
 - 1½ cups mayonnaise
@@ -3799,6 +3889,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | How to Grill Pork Tenderloin (Cuban Mojo) | `pork-tenderloin` `mojo` `cuban` `direct-grilling` `marinade` `formula` |
 | [T15](#t15-how-to-barbecue-cabbage) | How to Barbecue Cabbage | `cabbage` `indirect-grilling` `whole-vegetable` `formula` |
 | [T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | How to Make a Mayonnaise (and Fix a Broken One) | `mayonnaise` `emulsion` `egg-yolk` `formula` `ratio` |
+| [T17](#t17-the-raw-egg-soak-for-shrimp) | The Raw Egg Soak (for Shrimp) | `shrimp` `egg-soak` `velveting` `texture` `seafood` |
 
 ---
 
@@ -5250,6 +5341,67 @@ Using the same whisk, start whisking like your life depends on it. Then, just li
 
 ---
 
+### T17. The Raw Egg Soak (for Shrimp)
+
+<!-- TECHNIQUE-TAGS: shrimp, egg-soak, velveting, texture, seafood, midwest -->
+**Tags:** `shrimp` · `egg-soak` · `velveting` · `texture` · `seafood`
+**Source:** Cody's own standing practice — not from any cookbook here
+**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) — *the three recipes whose rating came with a "only if the shrimp is fresh" caveat*
+
+**Cody's rule:** *"If it's not completely fresh shrimp — which you just don't get in Missouri — I make it a standard, and I'll soak the shrimp in raw egg. It makes a difference."*
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(plus soak time — see Open Questions)*
+
+#### A. The Problem This Solves
+
+Shrimp that has been frozen, thawed, and sat on ice loses water and texture on the way to a landlocked market. It goes soft and slightly mealy instead of snapping when you bite it, and no amount of good cooking puts that back. [§T6 Seafood Notes](#t6-seafood-notes) covers buying the best shrimp available; this covers what to do when the best available still isn't great.
+
+**This is a texture fix, not a safety fix.** It does nothing about freshness, smell, or age — see [§7.22](#722-captain-mikes-ceviche)'s warning, which stands: if it smells off, don't cook it.
+
+#### B. The Method
+
+**1. Beat the egg and coat the peeled shrimp.**
+Enough raw egg to coat the shrimp — beaten, then tossed through until every piece is covered.
+
+**2. Let it soak, then cook as the recipe says.**
+Drain off the excess before the shrimp goes in the pan or pot. *(Soak time, egg-per-pound ratio, and whether to rinse first aren't recorded yet — see Open Questions.)*
+
+#### C. Why It Works
+
+**Egg protein forms a thin coat that sets before the shrimp overcooks.** This is the same principle as *velveting*, the standard Chinese restaurant technique — egg white, usually with cornstarch, tossed through meat or seafood before a fast, hot cook. The coat does two things: it holds moisture that would otherwise be driven out, and it takes the brunt of the direct heat, so the shrimp's own proteins tighten more gently and stay tender rather than rubbery.
+
+**Worth being straight about the limits of that explanation.** Velveting is well established and the protein-coat mechanism is the accepted account of it. Whether that's the *whole* story for a plain egg soak on previously-frozen shrimp — Cody's specific case — isn't something this cookbook can cite a source for. Treat the reasoning as sound but not laboratory-confirmed, and trust the result over the theory.
+
+> **A related technique, offered as background rather than as Cody's method:** a 15–30 minute soak in salt water with a little **baking soda** is the other common fix for limp shrimp, and it works by a different route — the alkaline conditions keep the proteins from binding as tightly, so the shrimp hold water and snap. It's mentioned here because the two are often confused. **This is not what Cody does**, and it isn't a substitute for the egg soak; it's a separate lever if the egg route ever needs backup.
+
+#### D. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — *the whole technique*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 egg, per ~1 lb shrimp)* | ~72 | 5 g | 6 g | 0.4 g | 0 g |
+| **Per serving** *(what actually clings, ¼ of an egg)* | ~18 | 1.2 g | 1.5 g | 0.1 g | 0 g |
+
+**What a serving is:** not a dish — a coating. Most of the egg drains off before cooking, so what lands on the plate is a fraction of one egg spread across a pound of shrimp.
+
+#### E. Open Questions
+
+- **Whole egg, or just the white?** Cody says "raw egg." Classic velveting uses the **white** only, since the yolk's fat doesn't contribute to the protein coat and can muddy a clean sauce. Worth confirming which he actually uses — it changes the technique meaningfully.
+- **How long is the soak?** Not recorded. Velveting typically runs 15–30 minutes; a quick toss-and-go would be a different thing.
+- **How much egg per pound of shrimp**, and does he **rinse or drain** before cooking?
+- **Does it get used for the ceviche too?** [§7.22](#722-captain-mikes-ceviche) never heats the shrimp — the lime juice cures it — so a raw egg coat there is a genuinely different proposition from the cooked applications, both in how it behaves and in food safety. Worth asking before assuming it carries over.
+
+**Food safety, since raw egg is involved:** the egg goes on raw seafood and should be cooked through with it. Discard the soak rather than reusing it, and don't hold coated raw shrimp at room temperature.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -5264,18 +5416,30 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 
 ### 5.1 Green Beans
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+>
+> **The version to write up is Vicky's lemon zest green beans**, per Cody — *"amazing."* That's the first real detail this stub has: it's a **lemon-zest** preparation, and it's hers, so the method should come from her rather than being reconstructed from a generic recipe. **Still needed:** the beans' prep (trimmed whole? cut?), the cooking method (blanched, sautéed, roasted?), when the zest goes in, whether there's garlic/butter/almonds alongside, and quantities.
+
+**❤️ Family favorite** — *Cody: "Vicky has some lemon zest green beans that are amazing."*
 
 ### 5.2 Asparagus
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "A go-to."*
+
 ### 5.3 Squash
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**👍 Tried and liked** — *Cody: "Squash, if it's cooked right, is delicious."*
 
 ### 5.4 Okra
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "Delicious."*
+
 ### 5.5 Zucchini
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**❤️ Family favorite** — *Cody: "Delicious."*
 
 ### 5.6 Cauliflower
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
@@ -5283,8 +5447,12 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 ### 5.7 Brussels Sprouts
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "Delicious."*
+
 ### 5.8 Fried Zucchini in Almond Flour
 > *Placeholder — details forthcoming.* Distinct from §5.5 — this is the breaded/fried preparation. Ingredients · Instructions · Grocery list all to be documented.
+
+**🔖 Want to try** — *Cody: "Haven't tried that just yet, but it sounds rocking."*
 
 ### 5.9 Goat Cheese Salad
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
@@ -5296,6 +5464,8 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 Printed from lifesambrosia.com. A cold, make-ahead pasta salad — crisp bacon, rotini, cherry tomatoes, and avocado in a lemon-dill mayo dressing, chilled 30 minutes before serving.
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~15 min** · **Start to finish ~1 hr** *(plus 30 min fridge chill before serving)*
+
+**❤️ Family favorite** — *Cody: "Awesome."*
 
 #### A. Ingredients
 
@@ -5367,6 +5537,8 @@ Stir the cooled pasta, cherry tomatoes, sliced avocado, and the reserved bacon i
 **Yield:** a large casserole dish — serves about 16 as a holiday side
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+
+**👍 Tried and liked** — *Cody: "Good for Thanksgiving."*
 
 > **This is a big one.** Three 29 oz. cans of yams is roughly 5½ pounds — sized for a holiday table, not a weeknight. Halve it for a smaller crowd.
 
@@ -5447,6 +5619,8 @@ Crushed corn flakes, packed brown sugar, softened butter, and chopped nuts mixed
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none on its own** · **Slow cook with the bird** *(roasts inside or alongside the turkey)* · **Start to finish** *set by the bird, not by this*
 
+**👍 Tried and liked** — *Cody: "Good for Thanksgiving."*
+
 > ⚠️ **Food-safety note the card doesn't mention.** Stuffing cooked inside a bird has to reach **165°F** at the center of the stuffing — not just the meat — before it's safe, and it's the last thing in the bird to get there. Check it with a thermometer, or bake the dressing in a separate pan (which the card already allows for the overflow) and skip the question entirely.
 
 #### A. Ingredients
@@ -5507,6 +5681,8 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
+**👍 Tried and liked** — *Cody: "I think I've had it and it's good."*
+
 #### A. Ingredients
 
 - 1 small head green or savoy cabbage (about 2 lb)
@@ -5548,6 +5724,8 @@ Transcribed from **Steven Raichlen's *How to Grill***, the same book as [§5.13]
 **Yield:** 4 ears; serves 2 to 4
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
+
+**👍 Tried and liked** — *Cody: "Good."*
 
 > **You'll need:** butcher's string.
 >
@@ -5607,6 +5785,8 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 ### 6.1 Smoked Brisket
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 ### 6.2 Pulled Pork
 
 **North Carolina Pulled Pork.** Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001) — identified via a clearly photographed ISBN on a later page ([§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) and [§7.30](#730-basil-grilled-tuna-with-arugula-salad)/[§7.31](#731-salmon-with-mustard-glaze)'s pages), matched back to this recipe by its identical "THE RECIPE / SERVES X / YOU'LL NEED" box format and continuous page numbering. *(An ISBN digit read earlier off this page looked different from the confirmed one — most likely a misread on a small, blurry barcode rather than a second book; treat this as the same source.)* Feeds [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos). An indirect-grilled (or smoked) Boston butt, mopped hourly, pulled or chopped, and finished with a vinegar sauce. **Both referenced pages are now captured** — [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) and [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) turned up in a later batch of photos, closing this recipe's Open Questions.
@@ -5614,6 +5794,10 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 **Yield:** serves 10 to 12
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~15 min** · **Slow cook 4–6 hr** *(indirect grill; 6–8 hr at 225°F if using a smoker instead)* · **Start to finish ~4 hr 30 min – 6 hr 30 min** *(plus an optional up-to-24-hr rub cure in the fridge before grilling)*
+
+**❤️ Family favorite** — *Cody: "Awesome. North Carolina style, that's a good one — but I've got another recipe I'm going to add."*
+
+> **A second pulled pork recipe is coming.** Cody has his own version to add alongside this one. When it arrives it gets its own entry rather than overwriting this — the North Carolina method here is transcribed from a published source and rated on its own merits, so both should stand. Likely landing spot: a new §6.x, cross-linked both ways.
 
 > **You'll need:** 4 to 6 cups wood chips (preferably hickory), soaked 1 hour in cold water then drained; rubber gloves (for pulling the hot pork by hand).
 
@@ -5698,9 +5882,15 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 
 ### 6.3 Smoked Whole Hen
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+>
+> ⚠️ **Possible naming mix-up, flagged rather than silently corrected.** When rating this section Cody said *"smoked ham, smoked steak, perfect"* — but this stub has always read **hen**. Those are different animals, and it's worth settling which one he meant: is §6.3 a smoked whole chicken/hen, a smoked ham, or are both worth their own entry? The ❤️ below is recorded against whichever he was actually rating.
+
+**❤️ Family favorite** — *Cody: "Perfect."*
 
 ### 6.4 Smoked Steak
 > *Placeholder — details forthcoming.* Separate from [§3 Darcy's Steak](#3-darcys-steak), which is its own method. [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) may apply here too. Ingredients · Instructions · Grocery list all to be documented.
+
+**❤️ Family favorite** — *Cody: "Perfect."*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -5711,8 +5901,12 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 ### 7.1 Pulled Pork Tacos
 > *Placeholder — details forthcoming.* Builds on [§6.2 Pulled Pork](#62-pulled-pork). Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "A family favorite."*
+
 ### 7.2 Boiled Shrimp with Tony's
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**👍 Tried and liked** — *Cody: "Pretty good — but we love it if it's fresh shrimp."*
 
 ### 7.3 Seafood Stuffed Flounder
 
@@ -5725,6 +5919,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 62–63, *Fis
 **Yield:** 6 servings
 
 **🔴 Hard** · **Prep ~1 hr** · **Cook ~45 min** · **Start to finish ~4 hr** *(includes a 30 min stuffing chill and a 1–2 hr chill after stuffing)*
+
+**❤️ Family favorite** — *Cody: "Had it in 2014. I loved it at the time, thought it was awesome."*
 
 **Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) *(two separate mixes)* · [T6 Seafood Notes](#t6-seafood-notes) · [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
 
@@ -5884,26 +6080,42 @@ Serve immediately, either plain or topped with one of the source book's sauces:
 ### 7.5 Chicken Thighs
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 ### 7.6 Chicken Hearts
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**❤️ Family favorite** — *Cody: "Awesome."*
 
 ### 7.7 Chicken Livers
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**👍 Split verdict** — *Cody: "I love it, but I don't think my family likes it."*
+
 ### 7.8 Fried Catfish
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**❤️ Family favorite** — *Cody: "Awesome."*
 
 ### 7.9 Caveman Chicken Wings
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 ### 7.10 Cilantro Lime Shrimp
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**👍 Tried and liked** — *Cody: "Pretty good — but you've just got to have the right shrimp."*
 
 ### 7.11 Corned Beef and Cabbage
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 ### 7.12 Pesto Chickpea Pasta
 > *Placeholder — details forthcoming.* Pesto itself is documented at [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) — this entry just needs the chickpea pasta half of the dish. Ingredients · Instructions · Grocery list all to be documented.
+
+**👍 Tried and liked** — *Cody: "Healthy."*
 
 ---
 
@@ -6071,6 +6283,8 @@ Transcribed from Cody's photographed recipe card — a baked jambalaya built on 
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~1 hr 20 min** · **Start to finish ~1 hr 35 min** *(1 hr of the cook is an unattended oven bake)*
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 #### A. Ingredients
 
 - 2 bay leaves
@@ -6159,6 +6373,8 @@ Transcribed from Cody's photographed recipe card, with a nod to Louis Armstrong'
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~15 min** · **Slow cook ~3 hr** *(simmer)* · **Start to finish ~3 hr 35 min** *(plus an overnight bean soak — start the day before)*
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 #### A. Ingredients
 
 - 1 Tbsp unsalted butter
@@ -6246,6 +6462,8 @@ Transcribed from Cody's photographed recipe card — a hands-off slow-cooker ver
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** · **Slow cook 8 hr** *(crock pot)* · **Start to finish ~8½ hr** *(load it in the morning, forget it until dinner — 25 min of actual work)*
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 #### A. Ingredients
 
 - 1 lb dried great northern beans, rinsed and sorted for pebbles
@@ -6310,6 +6528,8 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 > **Directions weren't included on the original card** — only the ingredient list. The method below is a standard spaghetti-and-meat-sauce approach inferred from the ingredients; flag any corrections to Cody so this can be tightened up into his actual method.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min** *(20–30 min of the cook is an unattended sauce simmer)*
+
+**❤️ Family favorite** — *Cody: "A staple in our family."*
 
 #### A. Ingredients
 
@@ -6382,6 +6602,8 @@ Transcribed from Cody's spreadsheet — a simple honey-soy marinade for grilled 
 > **Quantities for the pineapple, zucchini, squash, tomatoes, and kielbasa weren't on the original sheet** — only the item names were listed, with amounts given for the marinade, chicken, garlic, onion, and bell pepper. The amounts and cut sizes below for those five items are Claude's recommendation, sized to pair with 8 chicken breasts' worth of skewers. Taste and adjust, and flag any changes so this can be tightened up. Note the sheet's ingredient list (column A–C) also includes a second, unquantified "onions" line beyond the 5 small onions already called for — treated here as the same onions rather than a separate addition, since no second amount was given.
 
 **🟡 Medium** · **Prep ~40 min** · **Cook ~12 min** · **Start to finish ~5–7 hr** *(plus 4–6 hr marinate. Prep is high because of all the cutting and skewering)*
+
+**❤️ Family favorite** — *Cody: "Freaking awesome."*
 
 #### A. Ingredients
 
@@ -6478,6 +6700,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — a baked jamba
 **Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
 
 **🟡 Medium** · **Prep ~30 min** · **Cook ~55 min** · **Start to finish ~1 hr 25 min** *(20–30 min of the cook is an unattended oven bake)*
+
+**❤️ Family favorite** — *Cody: "Awesome."*
 
 #### A. Ingredients
 
@@ -6593,6 +6817,8 @@ Transcribed from a printed keto cookbook page (p. 182). Southern fried chicken w
 
 **🥑 Keto** · **🟡 Medium** · **Prep ~25 min** · **Cook ~35 min** · **Start to finish ~1 hr** *(includes a 10 min rest before serving)*
 
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
+
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) — *the four keys to frying apply here directly*
 
 **Special equipment:** a **candy thermometer**, and a meat thermometer for doneness.
@@ -6679,6 +6905,8 @@ Transcribed from Captain Mike's printed recipe card, complete with his "Captain'
 **Yield:** serves 4
 
 **🟡 Medium** · **Prep ~30 min** · **Cook none** *(no heat at all)* · **Slow cook 36–48 hr** *(the lime juice does the cooking)* · **Start to finish 1½–2 days**
+
+**❤️ Family favorite** — *Cody: "Awesome — but it's rare that we get that freshest shrimp."*
 
 > ### ⚠️ Freshness is the whole recipe
 >
@@ -6816,6 +7044,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 54–55, Colo
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~35 min** *(assumes [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) and [§4.20 Meunière Sauce](#420-meunière-sauce) are already made — budget their own time on top if starting from scratch)*
 
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
+
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
 
 #### A. Ingredients
@@ -6898,6 +7128,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 69–71, Colo
 **Yield:** 6 servings
 
 **🟡 Medium** · **Prep ~35 min** · **Cook ~2 hr** *(most of it is a 450° oven bake, checked and built on every 10–15 minutes rather than fully hands-off)* · **Start to finish ~2 hr 35 min**
+
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
 
 **Techniques used:** [T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) — *for the Basic Seafood Stock*
 
@@ -7020,6 +7252,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 77–78). A q
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
 
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
+
 #### A. Ingredients
 
 **Seasoning mix**
@@ -7098,6 +7332,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 78–80). Mir
 **Yield:** 6 servings
 
 **🔴 Hard** · **Prep ~25 min** · **Cook ~40 min** · **Start to finish ~1 hr 5 min** *(the roux is the hard part — read [§T1](#t1-how-to-make-a-roux) first)*
+
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
 
 **Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) · [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
 
@@ -7214,6 +7450,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 116–117). B
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~35 min** · **Start to finish ~55 min**
 
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
+
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
 
 #### A. Ingredients
@@ -7308,6 +7546,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 139–140). F
 
 **🟡 Medium** · **Prep ~30 min** · **Cook ~55 min** · **Start to finish ~1 hr 25 min**
 
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
+
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) · [T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) — *for the Basic Chicken Stock*
 
 > **"Piquant" is a real word for a real sensation, per the source.** *"'Piquant' to a Cajun means 'it's hot and hurts like a sticker in your tongue.'"* Reduce the jalapeños by half for less heat. Louisiana takes this sauce seriously enough that the town of Raceland runs an annual Sauce Piquant Festival built entirely around it.
@@ -7400,6 +7640,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 161–163). A
 **Yield:** 4 servings
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~50 min** *(includes a 15–30 min chicken soak in the egg mixture that overlaps with other prep)*
+
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
 
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)
 
@@ -7509,6 +7751,8 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~15 min** · **Start to finish ~30 min** *(plus 30 min–2 hr marinating — lead time, not cooking)*
 
+**❤️ Family favorite** — *Cody: "Fantastic."*
+
 > **You'll need:** 1 cup wood chips (optional; preferably oak), unsoaked.
 
 #### A. Ingredients
@@ -7603,6 +7847,8 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 
 **🟡 Medium** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
 
+**❤️ Family favorite** — *Cody: "Fantastic."*
+
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) — *the hot-fat principle carries over to hot-grate grilling*
 
 #### A. Ingredients
@@ -7677,6 +7923,8 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 **Yield:** one 5 lb whole tenderloin — this cookbook's estimate is **8 to 10 servings** as a main course; the source doesn't state a serving count for this entry the way it does for [§7.30](#730-basil-grilled-tuna-with-arugula-salad) and [§7.31](#731-salmon-with-mustard-glaze)
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~50 min** *(plus an optional 1–2 hr marinate — lead time, not cooking — and a 5 min rest)*
+
+**❤️ Family favorite** — *Cody: "I think I've tried it, and I think it's awesome."*
 
 **Techniques used:** [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) — *the hot-fat principle carries over to hot-grate grilling*
 
@@ -7761,6 +8009,10 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 
 **🟡 Medium** · **Prep ~25 min** · **Cook ~10 min** · **Start to finish ~35 min**
 
+**👍 Tried and liked** — *Cody: "Really good. But I wonder if we can substitute with chicken thighs."*
+
+> **On Cody's thigh question — yes, with one real adjustment.** This is Claude's read, not the source's; the source never mentions thighs. Boneless skinless thighs are thinner and less uniform than a breast half, so there's usually no lobe thick enough to cut a proper pocket into. The move is to **butterfly the thigh flat, lay the filling on one half, and fold it over**, then pin the seam with the same oiled toothpicks — a turnover rather than a stuffed pocket. Everything else holds: same filling, same marinade, same crosshatch sear. Expect **slightly longer on the grill** (thighs want to reach about 175°F, versus a breast's 165°F), and they're **far more forgiving** — the extra fat means the overcooking risk that makes stuffed breasts fussy largely goes away. Worth trying next time and recording the result here.
+
 > **You'll need:** unflavored dental floss, for slicing the goat cheese cleanly; wooden toothpicks, soaked in oil.
 
 #### A. Ingredients
@@ -7841,6 +8093,8 @@ Transcribed from Cody's photographed recipe card — a crock-pot chili built on 
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Slow cook 4 hr** *(crock pot)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands)*
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 #### A. Ingredients
 
 - 1 lb beef or venison (deer)
@@ -7900,6 +8154,11 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 - Beef or venison — worth noting which one Cody used the "Yummie" time, if he remembers.
 
 ### 8.2 Soups
+
+**❤️ Family favorite** — *Cody: "We love the soups."*
+
+**This is the only clean sweep in the cookbook.** Every written-up entry in §8 came back ❤️ — [§8.1](#81-chili), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.6](#86-sweet-potato-and-andouille-soup), and [§8.7](#87-italian-sausage--kale-soup) — making this the only section in the cookbook that's a clean sweep.
+
 > *Placeholder — category stub.* Cody listed "soups" generally. Each specific soup gets promoted to its own numbered entry here as it's named. *(Note: [§1 Cody's Pho](#1-codys-pho) is complete and has its own top-level section — it stays there.)*
 >
 > **The base formula is already documented:** see **[§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula)** — 1 lb protein, 1 lb vegetables, 1 quart broth, 1 onion, 1 can tomatoes, a starch, and a flavoring. **Nine named soups built on it live in [§T9 Part G](#g-suggestions--9-named-soups)** as a slot table (ham & potato, three sausage versions, pork & hominy, two chicken, curried chicken, and fish).
@@ -7917,6 +8176,8 @@ Makes **6 main-dish or 10 appetizer servings**.
 **Read [§T1 How to Make a Roux](#t1-how-to-make-a-roux) before you start.** The roux is the whole dish and it is the most dangerous thing in this cookbook — smoking-hot oil, high heat, and about four minutes from red-brown to black. Long sleeves, long-handled metal whisk, everything measured and within reach, and no kids at the stove for that step.
 
 **🔴 Hard** · **Prep ~30 min** · **Cook ~1 hr 45 min** · **Start to finish ~2 hr 15 min** *(45 min of the cook is a simmer you stir now and then. The near-black roux is the hard part — read [§T1](#t1-how-to-make-a-roux) first)*
+
+**❤️ Family favorite** — *Cody: "We love the soups — specifically the chicken and andouille smoked sausage gumbo."*
 
 #### A. Ingredients
 
@@ -8044,6 +8305,8 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
 
+**❤️ Family favorite** — *Cody: "A house favorite."*
+
 #### A. Ingredients
 
 *Makes 4 generous servings*
@@ -8130,6 +8393,8 @@ Makes **10 main-dish or 20 appetizer servings**.
 **Read [§T1](#t1-how-to-make-a-roux) before you start.** The roux here is smoking-hot oil taken to dark red-brown or black, same danger profile as §8.3's — the source page's own warning is "being careful not to let it scorch or splash on your skin." Long sleeves, long-handled metal whisk, everything measured and within reach.
 
 **🔴 Hard** · **Prep ~30 min** · **Cook ~45 min** · **Start to finish ~1 hr 15 min** *(dark roux again — technique, not the clock, is what makes this hard)*
+
+**❤️ Family favorite** — *Cody: "Awesome."*
 
 #### A. Ingredients
 
@@ -8244,6 +8509,8 @@ Transcribed from a printed cookbook page (p. 91) — a puréed soup, not the chu
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~1 hr 40 min** · **Start to finish ~2 hr** *(1 hr of the cook is an unattended sweet-potato roast — do it any time ahead)*
 
+**❤️ Family favorite** — *Cody: "One of our favorites."*
+
 #### A. Ingredients
 
 - 5 lbs sweet potatoes
@@ -8314,6 +8581,8 @@ Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min**
 
+**❤️ Family favorite** — *Cody: "One of our favorites."*
+
 #### A. Ingredients
 
 - Kale
@@ -8372,6 +8641,8 @@ Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A
 ### 9.1 Almond Flour Chips and Salsa
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**👍 Tried and liked** — *Cody: "We like it."*
+
 ### 9.2 Nuts
 > *Placeholder — details forthcoming.* Presumably a seasoned or roasted preparation rather than straight out of the bag — confirm. Ingredients · Instructions · Grocery list all to be documented.
 
@@ -8390,6 +8661,8 @@ Transcribed from a printed family email — Rachel Cassel forwarding the recipe 
 > **Rachel's own note, kept for the record:** *"I always use cooked and shredded chicken breasts instead of canned chicken. Oh, and I use Frank's Redhot Buffalo Wing Sauce. I also use light ranch dressing instead of regular ranch dressing and shredded cheddar cheese instead of mozzarella. I'm sure it would taste great no matter what type of cheese or dressing was used. It's not very healthy but very delicious."* Her substitutions are written into the ingredients below as the main version, with the original canned-chicken/blue-cheese card version noted as the alternate.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** · **Start to finish ~30 min** *(microwave route: 5 min. Slow-cooker route: 1½–3 hr, unattended)*
+
+**👍 Split verdict** — *Cody: "My family likes it. I think it's okay."*
 
 #### A. Ingredients
 
@@ -8458,6 +8731,8 @@ Transcribed from a handwritten seasoning note, checked off item by item — a dr
 
 **🟡 Medium** · **Prep ~20 min** · **Cook none** · **Slow cook ~1 hr 45 min** *(dehydrator, one tray swap)* · **Start to finish ~2 hr 5 min**
 
+**❤️ Family favorite** — *Cody: "The best on the planet."*
+
 #### A. Ingredients
 
 *Per 1 lb of meat — ground beef, 95% lean*
@@ -8525,6 +8800,8 @@ Transcribed from a handwritten note — a build-your-own chicken salad: shredded
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~20 min** · **Start to finish ~40 min** *(cook time is boiling the chicken — canned or rotisserie drops it to zero)*
 
+**❤️ Family favorite** — *Cody: "Awesome."*
+
 #### A. Ingredients
 
 - 3–4 chicken breasts, boiled, cooled, and pulled into small pieces *(or several cans of white meat chicken)* — *see [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) for turning a rotisserie chicken into both this and a quart of broth at once*
@@ -8581,6 +8858,8 @@ Stop adding once it's the texture you want — there's no fixed amount, and it'l
 ### 9.8 Jalapeño Poppers
 > *Placeholder — details forthcoming.* Per Cody: **one of his all-time top snacks** — recipe not written down yet, but it's coming. Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "Everybody's favorite."*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -8594,6 +8873,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p.
 **Yield:** 6 appetizer servings
 
 **🟡 Medium** · **Prep ~30 min** · **Cook ~10 min** · **Start to finish ~40 min** *(plus chilling the shrimp, and ideally 2–3 days for the sauce)*
+
+**❤️ Family favorite** — *Cody: "A New Orleans classic."*
 
 **Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes)
 
@@ -8677,6 +8958,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p.
 **Yield:** 8 appetizer servings
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+
+**🔖 Want to try** — *Cody: "Haven't tried yet."*
 
 > ⚠️ **Two things don't add up cleanly in the source, and neither is silently resolved here — see Open Questions.** The ingredient list includes **1 egg**, but the printed instructions never say where it goes in. And "1 tablespoon cream over the top of each" across 8 ramekins needs ½ cup, but the list gives ⅓ cup. Both are transcribed exactly as printed rather than corrected by guesswork.
 
@@ -8778,6 +9061,8 @@ Serve immediately.
 ### 10.4 Southern Keto Egg and Sausage Muffins
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**❤️ Family favorite** — *Cody: "These rock."*
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -8789,8 +9074,12 @@ The "Southern keto" entries are low-carb rebuilds of Southern staples — almond
 ### 11.1 Almond Flour Banana Bread
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
+**🔖 Want to try** — *Cody: "I don't think we've tried it yet."*
+
 ### 11.2 Southern Keto Blueberry Muffins
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**🔖 Want to try** — *Cody: "Haven't tried."*
 
 ### 11.3 Keto Skillet Cornbread
 
@@ -8801,6 +9090,8 @@ Transcribed from a printed keto cookbook page (p. 74, *Breakfast & Breads*) — 
 **Yield:** 10 servings (one 10-inch skillet)
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~40 min**
+
+**👍 Tried and liked** — *Cody: "Good."*
 
 > **There's no corn in it** — the cornbread flavor comes from an optional **sweet corn extract**. The source says it isn't required but recommends it for a fuller cornbread taste. Without it this reads more like a savory almond-flour skillet bread than cornbread.
 
@@ -8877,6 +9168,8 @@ Transcribed from a printed cookbook page, filed under the category the source it
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~2½ hr** *(plus 2 hr fridge chill — times per the source page)*
 
+**❤️ Family favorite** — *Cody: "Fantastic with cauliflower. It's amazing — I like it better than regular potato salad."*
+
 #### A. Ingredients
 
 - 2 (10 oz.) bags frozen cauliflower florets
@@ -8937,6 +9230,8 @@ Transcribed from a printed keto cookbook page (p. 210) — the same book as [§1
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
 
+**❤️ Family favorite** — *Cody: "Wonderful."*
+
 > **The one step not to skip: drain it properly.** Frozen cauliflower carries a lot of water, and the source is blunt about it — *"you don't want watery caulimash."* Drain the excess liquid before it goes in the processor or the texture never comes together.
 
 #### A. Ingredients
@@ -8991,6 +9286,8 @@ Transcribed from a printed keto cookbook page (p. 82, *Breakfast & Breads*) — 
 **Yield:** 8 servings (one 9×5 loaf)
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~20 min** · **Cook ~45 min** · **Start to finish ~1 hr 15 min** *(plus cooling — it has to cool completely before it slices cleanly)*
+
+**🔖 Want to try** — *Cody: "Want to try."*
 
 #### A. Ingredients
 
@@ -9069,6 +9366,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | [Darcy's Steak](#3-darcys-steak) | Rub documented in §4.1; method still open | Placeholder — §3 |
 | [Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | Transcribed from Cody's photographed cookbook page; margin note "Awesome! 12/19/14" | ✅ Complete — §8.3 |
 | [Crawfish Elegante](#713-crawfish-elegante) | Transcribed from Cody's photographed recipe card | ✅ Complete — §7.13 |
+| **New Orleans blended crab & shrimp sauce** *(name unknown)* | **Cody has made this and loves it** — *"it is fantastic, it's a great sauce."* From **Chef Paul Prudhomme's *Louisiana Kitchen***. His description: crab and shrimp, *"I think even oysters in it,"* blended together in a blender. **Checked against what's already here and it is not a duplicate** — [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) is the closest match from the same book but leaves the shrimp and crabmeat **whole**, and nothing goes in a blender. [§4.21 Czarina Sauce](#421-czarina-sauce-with-shrimp-or-crawfish) is also not it. **Needs a photo of the page** to identify. | Not yet transcribed |
 | *(add here)* | | |
 
 **Cody — say the word on any of the remaining stubs in §5–§11 and we'll write it up properly.** Even partial details help: a key ingredient, a technique, a "don't do X" rule. Those go straight into the placeholder the way the pho facts did, so nothing gets lost before the full write-up.

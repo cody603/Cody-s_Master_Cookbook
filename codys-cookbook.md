@@ -97,6 +97,7 @@ Click any recipe to jump straight to it.
   - [T16. How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) ✅
   - [T17. The Raw Egg Soak (Deodorizing Fish & Shellfish)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) ✅
   - [T18. "Pile It On" — Canal House's Plating Formula](#t18-pile-it-on--canal-houses-plating-formula) ✅
+  - [T19. How to Boil an Egg (Canal House's Timing Guide)](#t19-how-to-boil-an-egg-canal-houses-timing-guide) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -230,6 +231,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | Added **[§T19 How to Boil an Egg (Canal House's Timing Guide)](#t19-how-to-boil-an-egg-canal-houses-timing-guide)** from **Canal House Cooks Every Day**, p. 70 — the technique page facing [§9.16 Deviled Eggs](#916-deviled-eggs), which references it. A doneness table by minutes (6 = soft-boiled, 9 = soft-yolk hard-boiled, 10 = the source's own default hard-boiled, 11 = firm-yolk hard-boiled), the boil-shock-peel method, and the source's own fix for why very fresh eggs peel badly (age them a week, or add ¼ cup kosher salt to the water in a pinch). **Both [§9.16 Deviled Eggs](#916-deviled-eggs) and [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) now cross-link here** for their "6 hard-boiled eggs" rather than leaving the method unstated. **One flag, not smoothed over:** the source's own text says to use unpeeled hard-boiled eggs "within 4 hours" if not peeling right away — noticeably shorter than the usual ~1-week refrigerated shelf life for hard-boiled eggs — transcribed as printed and called out as an Open Question rather than silently corrected. |
 | 2026-08-10 | Added **[§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes)** from **Canal House Cooks Every Day**, p. 50 — a braise that pulls apart an intimidating-looking cut (bones, cartilage, fat) after 2 hours in the oven, finished with a strained olive-tomato-anchovy sauce. Rated 🟢 Easy despite the braise, same reasoning as every other slow braise in this book: nothing in the method can fail, the 2 hours is unattended, so it's Slow cook time, not Cook time. **Also added a new technique entry, [§T18 "Pile It On" — Canal House's Plating Formula](#t18-pile-it-on--canal-houses-plating-formula)** — the source's own sidebar essay on layering a plate (starch base, protein, sauce, vegetable piled on top rather than served separately), illustrated in the source by this exact veal dish over mashed potatoes with string beans. Filed as a pure reference technique like [§T6 Seafood Notes](#t6-seafood-notes) — no badge, no ingredients, no index row, since it's a plating order rather than a recipe. |
 | 2026-08-10 | Added two more from **Canal House Cooks Every Day**, p. 46: **[§7.40 Shrimp Risotto](#740-shrimp-risotto)** — a proper risotto with its own quick shrimp-shell broth, arborio/carnaroli/vialone nano rice, and a vermouth-and-tomato base. **One honesty flag:** the broth step's exact wording and the order the vermouth, tomatoes, and lemon peel go in was hard to pin down from an angled photo with mid-word line breaks — the write-up is a faithful reconstruction from the ingredient list and standard technique, not a verified transcription, and it's logged as an Open Question. Also added **[§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth)** — a short, source's-own-wording recipe with no separate ingredients block, same style as [§5.15 Roasted Asparagus](#515-roasted-asparagus). **References two source recipes not yet transcribed** — Spinach Pasta (p. 238) and a pasta-cutting technique (p. 236) — but dried tagliatelle is an explicit source-given substitute, so it's fully cookable now; also notes this cookbook's own [§T12](#t12-fast-homemade-chicken-broth)/[§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) as stand-ins for the "rich chicken broth," which isn't itself tied to a named source recipe on this page. |
 | 2026-08-10 | Added **[§9.16 Deviled Eggs](#916-deviled-eggs)** from **Canal House Cooks Every Day**, p. 71 — classic sieved-yolk deviled eggs with mayonnaise, sour cream, and Dijon, plus the source's own quick alternative, **"Buttered" Eggs**, folded in as a callout rather than a separate entry since it has no ingredient list of its own. Notes the same open reference as [§9.15](#915-anchovy--lemon-butter): **Preserved Lemon (source page 294) still isn't transcribed**, now referenced by two recipes. **Also caught and fixed real TOC/body mismatches found while editing this section — not something this batch introduced, just finally noticed, and not limited to §9:** [§9.10 Crabmeat Avery](#910-crabmeat-avery) is rated 🔖 in its own body text but was missing that marker in the Table of Contents, while [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) had a 🔖 marker in the TOC despite carrying no rating at all in its body. Running the same check across the whole file turned up a second pair: [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) is rated 👍 in its body but was missing the TOC marker, while [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) had a stray 👍 in the TOC despite never actually being rated by Cody. All four fixed. **Worth flagging for future validation passes:** the aggregate-count check this cookbook has been using (body rating count = TOC marker count) can't catch a swap like this, where one recipe is missing a marker and a different one has an extra of the same type — the totals still balance either way. A per-recipe body-vs-TOC comparison is the real check, and it's now been run once across the whole file. |
@@ -368,6 +370,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
+| [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | 🟢 | 5 min | 6–11 min | — | 15–20 min *(by desired doneness)* |
 | [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑 | 🟢 | 5 min | 10 min | — | 15 min |
 | [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 | 🟢 | 15 min | — | *with the bird* | set by the bird |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
@@ -475,7 +478,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 68 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 69 recipes**, including nearly all of §4's now-59 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -5974,6 +5977,63 @@ The source's own photo illustrating this technique is [§7.42 Breast of Veal Bra
 
 ---
 
+### T19. How to Boil an Egg (Canal House's Timing Guide)
+
+<!-- TECHNIQUE-TAGS: eggs, hard-boiled, soft-boiled, timing, formula -->
+**Tags:** `eggs` · `hard-boiled` · `soft-boiled` · `timing` · `formula`
+**Source:** Canal House Cooks Every Day, p. 70 — facing the [§9.16 Deviled Eggs](#916-deviled-eggs) page
+**Used in:** [§9.16 Deviled Eggs](#916-deviled-eggs) and [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) both call for hard-boiled eggs without giving their own method — this is that method
+
+**🟢 Easy** · **Prep ~5 min** · **Cook 6–11 min** *(by desired doneness)* · **Start to finish ~15–20 min**
+
+#### A. What You Need
+
+- Large eggs, as many as you want to cook, straight from the fridge
+- Water, enough to cover the eggs by about 1 inch
+- Kosher salt — about ¼ cup per pot, optional, only needed for very fresh eggs (see Part D)
+
+#### B. Doneness Times
+
+| Minutes | Result |
+|---|---|
+| 6 | The perfect soft-boiled egg |
+| 9 | Hard-boiled, soft yolk |
+| 10 | Hard-boiled, perfect — the source's own default |
+| 11 | Hard-boiled, firm yolk |
+
+#### C. Method
+
+**1. Submerge and cook.**
+Submerge the eggs, straight from the fridge, into a pot of gently boiling water in a single layer, with water covering them by about 1 inch. Cook for the time that matches the doneness you want, per the table above.
+
+**2. Shock in cold water.**
+Drain the eggs in the sink and immediately run cold water into the pot to cool them.
+
+**3. Peel once cool.**
+When the eggs are cool enough to handle, drain them. Tap the shell all over on the counter, then peel, starting at the fatter end — where the air sac is.
+
+**4. Store unpeeled if not using right away.**
+Keep any uncracked, unpeeled hard-boiled eggs in the refrigerator.
+
+> ⚠️ **As printed, the source says to use them within 4 hours if not peeling right away** — noticeably shorter than the roughly one-week refrigerated shelf life usually given for hard-boiled eggs elsewhere. Transcribed exactly as printed rather than corrected by guesswork; flagged rather than smoothed over. Worth confirming against a clean photo — "4 hours" may mean something narrower than the general refrigerated shelf life, like a room-temperature window.
+
+#### D. Why Very Fresh Eggs Don't Peel Well
+
+Very fresh eggs don't peel well no matter how gently — or how long — you've boiled them. The shell clings to the white like a second skin and won't let go without leaving pockmarks. The fix is to hang on to very fresh eggs for about a week in the refrigerator before hard-boiling them; the shell will peel off like a glove. If you're desperate and only have fresh eggs on hand, add about ¼ cup kosher salt to the cooking water — the eggs will be easier to peel.
+
+#### E. Nutrition *(estimated, standard large egg)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a dozen)* | ~940 | 60 g | 72 g | 7 g | 0 g |
+| **Per egg** | ~78 | 5 g | 6 g | 0.6 g | 0 g |
+
+**What a serving is:** 1 egg — figures are for the egg alone, plain, before any deviling or garnish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -6555,6 +6615,8 @@ Warm the asparagus through in the lemon butter, then divide the spears between t
 ### 5.18 Pickled Beets with Horseradish Cream
 
 Transcribed from **Canal House Cooks Every Day**. *"Beets and eggs are old friends, often pickled together in a jar full of brine. As pretty as those pink-stained eggs are, we prefer to keep the egg flavor unpickled for this salad."* Photographed as part of an Easter spread — the source's own photo caption lists it alongside Sister Frances's Potatoes, a Green Sauce with Mint & Parsley, and Roast Leg of Lamb, none of which are transcribed here.
+
+**For the 6 hard-boiled eggs:** see [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) — 10 minutes is the source's own default for a standard hard-boiled egg.
 
 **Yield:** serves 8
 
@@ -10829,11 +10891,11 @@ Transcribed from **Canal House Cooks Every Day**, p. 71 — a different page fro
 
 > The source's margin note: *"June 3rd, 77°, southerly winds."*
 
-**References Preserved Lemon (source page 294), not yet transcribed here** — same open reference as [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter).
+**References Preserved Lemon (source page 294), not yet transcribed here** — same open reference as [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter). **For the 6 hard-boiled eggs, see [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide)** — the facing page in the same source, now transcribed; 10 minutes is the default for a standard hard-boiled egg.
 
 **Yield:** makes 12 halves
 
-**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(assumes eggs are already hard-boiled — add lead time to boil and cool them if starting from raw)*
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(assumes eggs are already hard-boiled — see [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and add ~20 min lead time if starting from raw)*
 
 #### A. Ingredients
 

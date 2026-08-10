@@ -196,6 +196,7 @@ Click any recipe to jump straight to it.
 - [7.47 Shrimp Roast](#747-shrimp-roast) ✅
 - [7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) ✅
 - [7.49 "Brunette" de Veau](#749-brunette-de-veau) ✅
+- [7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -271,6 +272,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Another long-standing open reference resolved: [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 140–143) — [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) has been citing this exact dish by page number since it was added ("page 143, not in this cookbook"); §4.43's own text now links to it instead. Baby back ribs, membrane removed, marinated 6–12 hours in lemongrass, ginger, garlic, shallot, fish sauce, and lemon juice, then indirect-grilled 1¼–1½ hours with no wood chips at all — the source's own note points out that smoking is a North American habit, not an Asian barbecue one. **Rated Slow cook for the grill time**, same convention as [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage)'s identical indirect setup. This is a separate dish from Cody's own planned [§6.5 Smoked Ribs](#65-smoked-ribs) — different marinade, different method (grilled, not smoked) — so it's filed on its own in §7 rather than touching that placeholder. |
 | 2026-08-10 | Added **[§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 228), from the recipe "Spatchcocked Chicken with Walnut-Dill Pesto." **Only the pesto is transcribed, per Cody's explicit request** — dill, basil, garlic, walnuts, and Romano cheese, loosened with olive oil, lemon juice, and water into a thick, spoonable dressing. The source's own spatchcocking-and-grilling method and its use of the pesto as a chicken rub-and-baste are not included; Cody has his own way of doing barbecue chicken and just wanted the pesto itself. |
 | 2026-08-10 | **Closed out §7.32's last open reference, and added Cody's own rib-marinade technique.** [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise), transcribed from **Steven Raichlen's *How to Grill*** (p. 452) — a shortcut Béarnaise built by stirring a shallot-tarragon-white-wine reduction into store-bought mayonnaise instead of a from-scratch emulsion. This was the last of the five serving sauces named by [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin); §7.32's own text is updated now that all five are transcribed. **Also added [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), Cody's own dictated technique, not from a photographed source.** Two methods: a dry brine (salt and fridge) or a wet marinade (apple cider vinegar and hand-squeezed lemon juice, 6 hours to overnight). Cody's own figure — 1 lemon per rack — is used as given; **the apple cider vinegar quantity (½ cup per rack) is my own judgment call**, since Cody explicitly asked for a modular starting point rather than dictating an exact ratio, with worked totals at his stated batch sizes of 4 and 6–7 racks. A minimal **[§6.5 Smoked Ribs](#65-smoked-ribs)** placeholder was added too, cross-linked to T22, with the rub/wood/temp/time still needed to complete it. |
 | 2026-08-10 | Added **[§7.49 "Brunette" de Veau](#749-brunette-de-veau)** from **Canal House Cooks Every Day** — a browned, deliberately un-classical take on Blanquette de Veau (which stays pale on purpose); the source calls their version "brunette" precisely because they brown the veal shanks for extra flavor and caramelization instead of avoiding color the traditional way. Also: **a clearer re-photo of the [§9.11](#911-melba-toasts)–[§9.15](#915-anchovy--lemon-butter) melba toast spread confirmed every existing ingredient and quantity as already transcribed** — nothing needed correcting — and picked up a margin note that had been missing: *"February 28th, 31°, bright sunshiny day,"* now added to §9.11. |
@@ -474,6 +476,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
+| [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
@@ -570,7 +573,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 86 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 87 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -3537,7 +3540,7 @@ Stir in the pear, scallions, sesame seeds, and pepper. Divide the sauce among sm
 
 ### 4.43 Vietnamese Dipping Sauce
 
-Transcribed from **Steven Raichlen's *How to Grill***. *"Wherever Vietnamese eat barbecue, this delicate dipping sauce turns up. The complex layering of flavors — sweet, sour, salty, and hot — goes well with the rich taste of grilled pork."* Pairs with Asian Flavor Baby Back Ribs (page 143, not in this cookbook).
+Transcribed from **Steven Raichlen's *How to Grill***. *"Wherever Vietnamese eat barbecue, this delicate dipping sauce turns up. The complex layering of flavors — sweet, sour, salty, and hot — goes well with the rich taste of grilled pork."* Pairs with [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs), now transcribed too.
 
 **Yield:** about 1 cup; serves 4
 
@@ -10877,6 +10880,113 @@ Return the veal to the pot and heat through. Serve with parsleyed, buttered wide
 | **Per serving** *(serves 4)* | ~665 | 34 g | 72 g | 15 g | 1.5 g |
 
 **What a serving is:** a generous portion of veal shank with sauce, about 1 lb bone-in — figures above don't include the egg noodles on the side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.50 Asian Flavor Baby Back Ribs
+
+Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), p. 140–143 — the *Pork and Sausages* chapter, following its own "How to Indirect Grill Baby Back Ribs" technique spread. A lemongrass, ginger, and fish sauce marinade rubbed onto trimmed racks, then grilled low and slow over indirect heat with no wood at all. **This resolves the open reference in [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce)**, which has been citing this exact dish ("page 143, not in this cookbook") as its pairing since it was added; §4.43's own text is updated now that it's here.
+
+> **Per the source:** *"You may be surprised that no wood chips are used in this recipe. Smoking is a North American phenomenon. When Asians cook ribs, they use fire, not smoke."*
+
+**Also good for, per the source:** pork chops prepared the same way; chicken, cut into pieces for marinating, and steak would work too.
+
+**Yield:** 4 racks (about 4 lb total) — **serves 8 as an appetizer, 4 as a main course**
+
+> **You'll need:** a rib rack (optional) — lets you stand all four racks upright so they fit on a conventional-size grill at once.
+
+**🟢 Easy** · **Prep ~25 min** · **Slow cook ~1¼–1½ hr** *(indirect grill, covered — add fresh coals per side after 1 hr if using charcoal)* · **Start to finish ~2 hr** *(plus a 6–12 hr marinate — lead time, not cooking)*
+
+**Techniques used:** indirect grilling — the same setup as [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage)
+
+#### A. Ingredients
+
+**For the ribs and marinade**
+
+- 4 racks baby back pork ribs (about 4 lb total)
+- 4 stalks lemongrass, trimmed and finely chopped
+- 4 cloves garlic, finely chopped
+- 2 shallots, finely chopped
+- 1 piece (2 inches) fresh ginger, peeled and finely chopped
+- 2 to 6 jalapeño peppers or Thai chiles, thinly sliced
+- 1 cup chopped fresh cilantro
+- 3 Tbsp sugar
+- 2 tsp ground coriander
+- 1 tsp black pepper
+- ¼ cup soy sauce
+- 3 Tbsp Asian fish sauce, or an equal amount soy sauce
+- 3 Tbsp lemon juice
+- ⅓ cup vegetable oil
+
+**For serving**
+
+- ¾ cup chopped fresh cilantro
+- ¾ cup chopped dry-roasted peanuts
+- [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce)
+
+#### B. Cooking Instructions
+
+**1. Remove the membrane from the back of each rack.**
+Worm a sharp implement — the tip of a meat thermometer works well — under the thin membrane covering the ribs, starting right next to a rib, which is the easiest spot to get under it. Using a dishcloth or paper towel to get a good grip, pull the membrane off in one piece. Have your butcher do this for you instead if you'd rather skip it. Arrange the trimmed ribs in a large nonreactive roasting pan.
+
+**2. Make the marinade and rub it on.**
+Combine the lemongrass, garlic, shallots, ginger, jalapeños, and cilantro in a nonreactive mixing bowl. Stir in the sugar, coriander, black pepper, soy sauce, fish sauce, lemon juice, and oil. Pour the mixture over the ribs and rub it onto the meat on both sides.
+
+**3. Marinate, refrigerated. At least 6 hours, up to 12.**
+Cover and refrigerate, turning the ribs two or three times while they marinate.
+
+**4. Set up the grill for indirect heat.**
+Preheat to medium. For charcoal: light the coals in a chimney starter, then rake them into two piles at opposite sides of the grill — or divide between side baskets if your grill has them — with a drip pan in the center. For gas, follow your grill's indirect setup.
+
+**5. Grill, covered, away from the heat. 1¼ to 1½ hours.**
+Place the ribs — preferably standing upright in a rib rack — in the center of the hot grate, away from direct heat, and cover the grill. If using charcoal, add 12 fresh coals per side after the first hour. The ribs are done when the meat has shrunk back from the bone ends by about ¼ inch and is tender enough to tear apart with your fingers. Don't overcook past that point — the ribs should still have some chew to them.
+
+**6. Rest, carve, and serve.**
+Transfer the ribs to a cutting board and let rest a few minutes. Cut the racks into individual ribs with a chef's knife and arrange on plates or a platter. Sprinkle with the cilantro and peanuts and serve at once, with Vietnamese Dipping Sauce alongside.
+
+> **Substitution notes, per the source:** fish sauce is a malodorous but tasty condiment made from pickled anchovies — if you can't find it or don't care for it, use an equal amount of soy sauce instead. Lemongrass has a haunting herbal lemon flavor with none of the acidity of actual lemons; if it's unavailable, substitute the zest of 1 lemon.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Baby back pork ribs — 4 racks, about 4 lb total
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Lemongrass — 4 stalks
+- 🏪 Asian fish sauce — 3 Tbsp *(or substitute soy sauce)*
+- 🏪 Thai chiles — if using instead of jalapeños
+
+**🛒 General grocery**
+
+- 🛒 Garlic — 4 cloves
+- 🛒 Shallots — 2
+- 🛒 Fresh ginger — 1 piece (2 inches)
+- 🛒 Jalapeño peppers — 2 to 6, or Thai chiles
+- 🛒 Fresh cilantro — 1 cup for the marinade, plus ¾ cup for serving
+- 🛒 Sugar — 3 Tbsp
+- 🛒 Ground coriander — 2 tsp
+- 🛒 Black pepper — 1 tsp
+- 🛒 Soy sauce — ¼ cup
+- 🛒 Lemon — for 3 Tbsp juice
+- 🛒 Vegetable oil — ⅓ cup
+- 🛒 Dry-roasted peanuts — ¾ cup, chopped
+- Plus everything for [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) — see its own grocery list
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,230 | 343 g | 254 g | 45 g | 10 g |
+| **Per serving** *(appetizer, serves 8)* | ~530 | 43 g | 32 g | 6 g | 1.3 g |
+| **Per serving** *(main course, serves 4)* | ~1,060 | 86 g | 64 g | 11 g | 2.5 g |
+
+**What a serving is:** as an appetizer, a few ribs (about half a rack) with a sprinkle of cilantro and peanuts and a small bowl of dipping sauce; as a main course, about one full rack.
+
+*Ribs are a fatty cut, and this figure counts the meat and its rendered fat as grilled — not the drippings left in the drip pan. The dipping sauce is tracked separately in [§4.43](#443-vietnamese-dipping-sauce)'s own Nutrition block, not folded in here.*
 
 [↑ Table of Contents](#table-of-contents)
 

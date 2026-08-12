@@ -104,6 +104,7 @@ Click any recipe to jump straight to it.
   - [T20. Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) ✅
   - [T21. Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) ✅
   - [T22. Rib Marinade — Dry Brine or Wet Marinade (Cody's Method)](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) ✅
+  - [T23. How to Prepare and Fill Sausage Casings (Lagniappe)](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -273,6 +274,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **[§7.51 Boudin Blanc](#751-boudin-blanc-boudin)'s open "Lagniappe" reference resolved: [§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe)**, from the same source's general casing-prep sidebar (p. 240–241) — soaking and rinsing casings, checking for holes, loading the stuffing tube, working out air bubbles, and recovering from a burst casing without starting over. Filed as a formula, not tied to one recipe, since it applies to any boudin in this cookbook. §7.51's own text and its casing-stuffing step now link here instead of flagging the page as unread. **Fried Crawfish Patties, from the same photo batch, is being held back** to add alongside Crawfish Boudin itself once its remaining pages arrive, rather than standing alone without the recipe it's a leftover-use variation of. |
 | 2026-08-10 | **First recipe from a new source: [§7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin)**, Darilee and Saul's recipe from **The Prudhomme Family Cookbook**, p. 242–245 — **a different book from the *Louisiana Kitchen* already in this cookbook**, despite the shared Prudhomme name; flagged explicitly to avoid confusion. Pork shoulder and liver simmered in stock, ground, mixed with rice and aromatics, stuffed into hog casings, and poached — classic Cajun boudin blanc. **Two source references noted rather than guessed at:** Basic Pork Stock (p. 252) and Basic Cooked Rice, neither transcribed yet (a general stock and plain rice substitute fine), plus a "Lagniappe" on p. 241. **The poaching/storage step and the fried-patties variation are flagged as reconstructions** — the source photo covering them was worn and low-contrast in spots, so the write-up follows the most sensible reading rather than a guaranteed word-for-word transcription. Per Cody's explicit instruction, this batch's companion **Red Boudin** recipe is being skipped entirely, and **Crawfish Boudin** (Allie and Etell's recipe, p. 238–239) is held pending its remaining pages, which are still to come. |
 | 2026-08-10 | **Another long-standing open reference resolved: [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 140–143) — [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) has been citing this exact dish by page number since it was added ("page 143, not in this cookbook"); §4.43's own text now links to it instead. Baby back ribs, membrane removed, marinated 6–12 hours in lemongrass, ginger, garlic, shallot, fish sauce, and lemon juice, then indirect-grilled 1¼–1½ hours with no wood chips at all — the source's own note points out that smoking is a North American habit, not an Asian barbecue one. **Rated Slow cook for the grill time**, same convention as [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage)'s identical indirect setup. This is a separate dish from Cody's own planned [§6.5 Smoked Ribs](#65-smoked-ribs) — different marinade, different method (grilled, not smoked) — so it's filed on its own in §7 rather than touching that placeholder. |
 | 2026-08-10 | Added **[§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 228), from the recipe "Spatchcocked Chicken with Walnut-Dill Pesto." **Only the pesto is transcribed, per Cody's explicit request** — dill, basil, garlic, walnuts, and Romano cheese, loosened with olive oil, lemon juice, and water into a thick, spoonable dressing. The source's own spatchcocking-and-grilling method and its use of the pesto as a chicken rub-and-baste are not included; Cody has his own way of doing barbecue chicken and just wanted the pesto itself. |
@@ -479,6 +481,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill)* | 2 hr *(+ 6–12 hr marinate)* |
+| [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
@@ -576,7 +579,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 87 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 88 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -6504,6 +6507,65 @@ Not tracked — this is a marinade, and per this cookbook's practice, unabsorbed
 
 ---
 
+### T23. How to Prepare and Fill Sausage Casings (Lagniappe)
+
+<!-- TECHNIQUE-TAGS: casings, sausage, boudin, stuffing, formula -->
+**Tags:** `casings` · `sausage` · `boudin` · `stuffing` · `formula`
+**Source:** The Prudhomme Family Cookbook, from a **"Lagniappe"** sidebar box, p. 240–241 — general instructions, not tied to one specific boudin recipe. *(**Lagniappe** — "a little something extra," per [§T7](#t7-louisiana-language--ingredients)'s own glossary entry, which is exactly what this sidebar is: a bonus how-to tucked between recipes.)* **This resolves the open reference in [§7.51 Boudin Blanc](#751-boudin-blanc-boudin)**, which pointed here without the page being photographed yet; §7.51's own text is updated to link here instead.
+
+Natural hog casings need a little prep before they're usable, and filling them cleanly is its own small skill — this covers both, and applies to any boudin or homemade sausage recipe in this cookbook, not just Boudin Blanc.
+
+**🟢 Easy** · **Prep ~25 min** *(casing prep and filling — no heat involved)* · **Start to finish ~25 min**
+
+#### A. To Prepare Casings
+
+**1. Soak. About 5 minutes.**
+Choose long pieces of casing — that gives you more control over the size of the links you end up making. Soak in cool water for about 5 minutes. Don't over-soak: too long in the water tenderizes the casings too much and makes them more likely to break while being filled.
+
+**2. Rinse and check for holes.**
+Rinse under cool running water. To flush salt out of the inside, hold one end of a casing in place on a faucet nozzle and turn on cold tap water to fill the casing with water. Look for water leaking out anywhere along its length — if you spot a hole, discard that piece or cut the casing at that point. Remove from the faucet and gently squeeze out the water; you only need to rinse the inside once.
+
+**3. Refrigerate or freeze until ready to use.**
+Cover the rinsed, drained casings and refrigerate until you're ready to stuff them. If you don't use all of them, drain well, coat thoroughly with several tablespoons of salt, then refrigerate or freeze — salted casings keep several months.
+
+#### B. To Fill Casings
+
+**1. Set up with a helper, if you can.**
+Place a large pan under the stuffing tube to catch the filled casings and any overflow.
+
+**2. Load the casing onto the tube.**
+Slip the entire length of one casing onto the stuffing tube, then ease about 1 inch of it back off the end of the tube.
+
+**3. Start the fill and tie off the first end.**
+Fill the casing with about 2 inches of stuffing, then tie a knot in the filled end, making sure no air bubbles are trapped inside.
+
+**4. Fill until firm, not popping full.**
+Keep filling until the casing is quite firm but not packed to bursting — the filling swells as it poaches, so leave room. Knot the other end when you're done.
+
+**5. Work it as a two-person job.**
+One person holds the casing level with the stuffing tube, working the stuffing into place by hand and keeping large air bubbles from forming as it fills. The other person feeds the stuffing into the machine with constant, slow pressure.
+
+**6. Fix bubbles and bursts as you go — they're not a failure.**
+Prick any large air bubbles with a pin or the tip of a pointed knife. If a casing bursts, just tie it off at that point and start filling a fresh length — nothing is ruined.
+
+**7. Leave it long, or twist into links.**
+Once a casing is filled, leave the boudin as one long coil, or twist it into links as the specific recipe describes — about a 4-inch link is a good size for most boudin.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Natural hog casings
+- 🛒 Kosher or coarse salt — for storing unused casings
+
+#### Nutrition
+
+Not tracked — this is casing prep and stuffing technique, not an ingredient in itself. Whatever gets stuffed into the casing is tracked in that specific boudin recipe's own Nutrition block.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -11003,7 +11065,7 @@ Transcribed from **The Prudhomme Family Cookbook** — Darilee and Saul's recipe
 
 **Yield:** about 5 lb, or about 15 snack or lunch servings — the source notes the recipe yields about 2½ quarts of filling
 
-> **Two untranscribed source references, noted rather than guessed at:** the ingredient list calls for **Basic Pork Stock (page 252)** and **Basic Cooked Rice**, neither photographed yet — a general pork or chicken stock and plain cooked rice work fine in their place. The method also points to a **"Lagniappe," page 241**, not photographed either; likely a garnish or serving note.
+> **Two source references still untranscribed, noted rather than guessed at:** the ingredient list calls for **Basic Pork Stock (page 252)** and **Basic Cooked Rice**, neither photographed yet — a general pork or chicken stock and plain cooked rice work fine in their place. The method's third reference, the **"Lagniappe," page 241**, is now resolved — see [§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe).
 
 **🟡 Medium** · **Prep ~45 min** *(deboning, grinding, mixing, stuffing casings)* · **Cook ~20 min** *(poaching)* · **Slow cook ~2 hr** *(simmering the meat and liver in stock, unattended)* · **Start to finish ~3 hr 5 min**
 
@@ -11043,7 +11105,7 @@ Stir in 6 cups of the rice, the onions, green onions, parsley, garlic, red peppe
 The mixture should be very moist but not runny. If it's runny, stir in more rice, up to 3 cups more, a cup at a time. If it's too dry, work in a little more stock.
 
 **6. Stuff the casings while the mixture is still hot.**
-Fill the casings using a sausage-stuffing attachment, a food processor fitted with a sausage horn, or a sausage funnel. Twist into links if you like, turning the sausage two or three turns at each point you want a link to end — a 4-inch link is a good size.
+Fill the casings using a sausage-stuffing attachment, a food processor fitted with a sausage horn, or a sausage funnel. See **[§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe)** for the source's own casing-prep and filling technique — soaking and rinsing the casings, loading the stuffing tube, working air bubbles out, and fixing a burst casing without starting over. Twist into links if you like, turning the sausage two or three turns at each point you want a link to end — a 4-inch link is a good size.
 
 **7. Poach. 15 to 20 minutes.**
 Coil the boudin loosely, in a single layer, into an 8-quart or larger pot and cover with water. Heat until the water reaches 175° to 185°F, then hold it there — just below a simmer — for 15 to 20 minutes, until the casings are taut and the flavors have married. Don't let the water go above 185°F, or the casings can burst.

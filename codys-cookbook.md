@@ -313,6 +313,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **The actual omelette illustrations are now embedded in [§T25](#t25-the-french-omelette-two-methods), not just described.** Cody pushed back on the earlier claim that this cookbook couldn't include the source's hand-drawn illustrations -- on inspection, the photographed pages are readable files on disk, so four of them (source pages 128-135, the ones that actually carry illustrations) were cropped and embedded directly at the steps they teach: the pan-to-plate transfer, heating the butter and stirring, jerking and rolling the pan, and loosening the omelette with sharp blows. Pages 126-127 carry no illustrations and weren't embedded. **A real transcription error surfaced and was fixed while doing this**: the "give 4 or 5 short, sharp blows on the handle to loosen the omelette" step had been placed in Method II (rolled omelette) as its own Step 6, but it's actually the end of Method I (scrambled omelette) in the source -- Method II has no such step, just "push it into shape with the back of your fork" if needed. Method I now includes the sharp-blows step it was missing; Method II no longer has the one that didn't belong to it. |
 | 2026-08-10 | **Two technique entries and a partial recipe, all from Mastering the Art of French Cooking, closing real gaps.** **[§T25 The French Omelette](#t25-the-french-omelette-two-methods)** (Chapter Three: Eggs, p. 126-135) covers both of the source's methods -- the scrambled *omelette brouillee* and the harder rolled *omelette roulee* -- plus omelette pan care, beating the eggs, transferring the finished omelette to the plate, and the fines herbes / fromage / truffes fillings. **Note on illustrations**: several of the source's steps are taught through hand-drawn sequences (jerking the pan, tilting it onto the plate) that can't be embedded in this text-only cookbook -- each is described in enough detail to follow without them instead. **[§T26 Pate Brisee & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)** (Chapter Four, p. 139-146) is the master pie dough -- both hand and food-processor methods, the fraisage, rolling, molding into a shell, and partial-vs-full baking -- and **resolves [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche)'s open pastry-shell reference**, now linked instead of flagged. **[§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche)** is added deliberately minimal and flagged incomplete -- only a title, serving count, and the first two ingredients and step are in the photographed page. **Also folded into [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche)**: the fuller Quiches chapter intro (the foolproof claim, the knife-doneness test, 8-inch-shell sizing), and **Quiche au Fromage de Gruyere** as a variation note rather than a separate entry, now that its full text is visible. A fragmentary tomato-and-olive quiche glimpsed on a later page is noted but not transcribed -- not enough of it is visible to work with. |
 | 2026-08-10 | **[§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche)**, Mastering the Art of French Cooking, p. 147 -- the classic version: heavy cream, eggs, and bacon, deliberately no cheese, per the source's own opening line. Bacon blanched to mellow its smoke and salt before browning, pressed into a partially baked shell, then the custard poured over and baked until puffed. **One reference not yet transcribed**: the 8-inch pastry shell itself (source p. 146) -- any standard single crust, blind-baked partway, substitutes in the meantime. The source's general quiche note on cooling, reheating, and keeping (it sinks as it cools, won't puff a second time, travels well cold) is carried over since it applies here directly. **Quiche au Fromage de Gruyère, which starts right below this recipe on the same page, is left out** per Cody's "Quiche Lorraine only." |
 | 2026-08-10 | **[§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)**, Mastering the Art of French Cooking, Chapter Six: Poultry, p. 245-246 -- a complete recipe, unlike [§7.56](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon). Mushrooms poached and folded into cream, the pan drippings deglazed with port and reduced, the carved chicken flambeed with cognac in its serving casserole, then steeped in the mushroom-cream sauce without letting it boil. **One real dependency flagged rather than filled in:** the roasting step itself just says "as described in the master recipe on page 240," which isn't photographed -- and turns out to be the same page [§T24](#t24-the-french-sauce-families--roux-ratios) already cites for this source's brown deglazing sauce. A standard roasting time is offered as a practical stand-in rather than left blank. |
@@ -8353,7 +8354,7 @@ Keeping the gaps visible so the chapter reads as one piece rather than a pile of
 **Tags:** `omelette` · `eggs` · `formula` · `french` · `pan-technique`
 **Source:** Mastering the Art of French Cooking, Chapter Three: Eggs, p. 126–135 — the same chapter and source as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche).
 
-> ⚠️ **A note on this entry's illustrations.** Several of these steps are taught in the source through hand-drawn sequential illustrations, not just text — turning the pan, jerking it toward you, tilting the omelette out onto the plate. This cookbook is plain text and there's no way to embed the actual drawings here; each illustrated step is instead described in enough detail below to teach the same motion. If you want the pictures themselves, they're on the photographed pages.
+> **This entry's illustrations are embedded below**, at the steps they teach — not just described in prose. They're straight crops of the photographed pages.
 
 *"A good French omelette is a smooth, gently swelling, golden oval that is tender and creamy inside. And as it takes less than half a minute to make, it is ideal for a quick meal. There is a trick to omelettes, and certainly the easiest way to learn is to ask an expert to give you a lesson. Nevertheless we hope one of the two techniques we describe will enable you, if you have never made an omelette before, to produce a good one."*
 
@@ -8392,11 +8393,20 @@ Place the butter in the pan and set over very high heat. If you have an electric
 **3. Stir continuously, sliding the pan over the heat.**
 Hold the panhandle with your left hand, thumb on top, and immediately start sliding the pan back and forth rapidly over the heat. At the same time, with the fork in your right hand, its flat side against the bottom of the pan, stir the eggs quickly to spread them continuously all over the bottom of the pan as they thicken. **In 3 or 4 seconds they'll become a light, broken custard.** *(A filling would go in at this point, if you're using one.)*
 
+![Placing butter in the pan over very high heat, and sliding the pan back and forth while stirring with a fork](images/omelette/omelette-p130-131.jpg)
+*Source pages 130–131: heating the butter to the point of coloring, then sliding the pan while stirring — Steps 2–4 above.*
+
 **4. Tilt and gather the eggs at the far lip.**
 Lift the handle of the pan to tilt it at a 45-degree angle over the heat, and rapidly gather the eggs at the far lip of the pan with the back of your fork. Still holding the pan tilted over the heat, run your fork around the lip of the pan under the far edge of the omelette to be sure it hasn't stuck.
 
-**5. Brown lightly, then turn out onto the plate.**
+**5. Loosen it with sharp blows.**
+Give 4 or 5 short, sharp blows on the handle of the pan with your right fist to loosen the omelette and make the far edge curl over onto itself.
+
+**6. Brown lightly, then turn out onto the plate.**
 Hold the pan tilted over the heat for 1 or 2 seconds to brown the bottom of the omelette very lightly — not too long, or the eggs will overcook. **The center of the omelette should remain soft and creamy.** Turn the omelette onto the plate as described in Section E below, rub the top with a bit of softened butter, and serve as soon as possible.
+
+![Giving the pan handle sharp blows with a fist to loosen the omelette and curl its edge over](images/omelette/omelette-p132-133.jpg)
+*Source pages 132–133: the end of Method I (loosening the omelette with sharp blows) sits just above where Method II begins on the facing page — its own eggs-settling moment is Method II's Step 3 below.*
 
 #### D. Method II — L'Omelette Roulée (Rolled Omelette)
 
@@ -8425,10 +8435,10 @@ Grasp the handle of the pan with both hands, thumbs on top, and immediately begi
 **5. Increase the tilt to roll the omelette over on itself.**
 Then increase the angle of the pan slightly, which will force the egg mass to roll over on itself with each jerk at the far lip of the pan.
 
-**6. Loosen and shape it.**
-Give 4 or 5 short, sharp blows on the handle of the pan with your right fist to loosen the omelette and make the far edge curl over onto itself.
+![Jerking the pan toward you at a 20-degree angle, then increasing the tilt so the eggs roll over on themselves](images/omelette/omelette-p134-135.jpg)
+*Source pages 134–135: jerking and rolling (Steps 4–5), then browning the shaped omelette and turning it out (Step 6) at the top of the facing page.*
 
-**7. Brown lightly, then turn out.**
+**6. Brown lightly, then turn out.**
 Hold the pan tilted over the heat for 1 or 2 seconds to brown the bottom of the omelette very lightly, but not too long or the eggs will overcook — **the center should remain soft and creamy.** If the omelette hasn't formed neatly, push it into shape with the back of your fork. Turn it onto the plate as described in Section E, rub the top with a bit of softened butter, and serve as soon as possible — **omelettes toughen if kept warm.**
 
 #### E. Transferring the Omelette from Pan to Plate
@@ -8436,6 +8446,9 @@ Hold the pan tilted over the heat for 1 or 2 seconds to brown the bottom of the 
 *In each of the methods described, the finished omelette ends up at the far lip of the pan. This is how to move it from the pan to the plate, in either method.*
 
 Hold the plate in your left hand. Turn the omelette pan so its handle is to your right. Grasp the handle with your right hand, thumb on top. Rest the lip of the pan slightly off-center of the plate, so the omelette will land in the middle of the plate. Then tilt the plate and pan against each other at a 45-degree angle, and quickly turn the pan upside down over the plate — the omelette will drop into position. If it hasn't formed neatly, push it into shape with the back of a fork.
+
+![The pan tilted against the plate at a 45-degree angle, then turned upside down so the omelette drops into place](images/omelette/omelette-p128-129.jpg)
+*Source pages 128–129: the pan-to-plate transfer, plus the start of Method I on the facing page.*
 
 #### F. Garnishings and Fillings for Omelettes
 

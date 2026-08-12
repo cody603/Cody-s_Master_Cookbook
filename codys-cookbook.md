@@ -130,6 +130,8 @@ Click any recipe to jump straight to it.
   - [T22. Rib Marinade — Dry Brine or Wet Marinade (Cody's Method)](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) ✅
   - [T23. How to Prepare and Fill Sausage Casings (Lagniappe)](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) ✅
   - [T24. The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) ✅
+  - [T25. The French Omelette (Two Methods)](#t25-the-french-omelette-two-methods) ✅
+  - [T26. Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -286,6 +288,7 @@ Click any recipe to jump straight to it.
 - [10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) ✅
 - [10.6 Irish Soda Bread](#106-irish-soda-bread) ✅
 - [10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) ✅
+- [10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) ○ *(incomplete — most of the page not photographed)*
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
@@ -310,6 +313,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Two technique entries and a partial recipe, all from Mastering the Art of French Cooking, closing real gaps.** **[§T25 The French Omelette](#t25-the-french-omelette-two-methods)** (Chapter Three: Eggs, p. 126-135) covers both of the source's methods -- the scrambled *omelette brouillee* and the harder rolled *omelette roulee* -- plus omelette pan care, beating the eggs, transferring the finished omelette to the plate, and the fines herbes / fromage / truffes fillings. **Note on illustrations**: several of the source's steps are taught through hand-drawn sequences (jerking the pan, tilting it onto the plate) that can't be embedded in this text-only cookbook -- each is described in enough detail to follow without them instead. **[§T26 Pate Brisee & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)** (Chapter Four, p. 139-146) is the master pie dough -- both hand and food-processor methods, the fraisage, rolling, molding into a shell, and partial-vs-full baking -- and **resolves [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche)'s open pastry-shell reference**, now linked instead of flagged. **[§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche)** is added deliberately minimal and flagged incomplete -- only a title, serving count, and the first two ingredients and step are in the photographed page. **Also folded into [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche)**: the fuller Quiches chapter intro (the foolproof claim, the knife-doneness test, 8-inch-shell sizing), and **Quiche au Fromage de Gruyere** as a variation note rather than a separate entry, now that its full text is visible. A fragmentary tomato-and-olive quiche glimpsed on a later page is noted but not transcribed -- not enough of it is visible to work with. |
 | 2026-08-10 | **[§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche)**, Mastering the Art of French Cooking, p. 147 -- the classic version: heavy cream, eggs, and bacon, deliberately no cheese, per the source's own opening line. Bacon blanched to mellow its smoke and salt before browning, pressed into a partially baked shell, then the custard poured over and baked until puffed. **One reference not yet transcribed**: the 8-inch pastry shell itself (source p. 146) -- any standard single crust, blind-baked partway, substitutes in the meantime. The source's general quiche note on cooling, reheating, and keeping (it sinks as it cools, won't puff a second time, travels well cold) is carried over since it applies here directly. **Quiche au Fromage de Gruyère, which starts right below this recipe on the same page, is left out** per Cody's "Quiche Lorraine only." |
 | 2026-08-10 | **[§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)**, Mastering the Art of French Cooking, Chapter Six: Poultry, p. 245-246 -- a complete recipe, unlike [§7.56](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon). Mushrooms poached and folded into cream, the pan drippings deglazed with port and reduced, the carved chicken flambeed with cognac in its serving casserole, then steeped in the mushroom-cream sauce without letting it boil. **One real dependency flagged rather than filled in:** the roasting step itself just says "as described in the master recipe on page 240," which isn't photographed -- and turns out to be the same page [§T24](#t24-the-french-sauce-families--roux-ratios) already cites for this source's brown deglazing sauce. A standard roasting time is offered as a practical stand-in rather than left blank. |
 | 2026-08-10 | **A third wine-braise from the same book, flagged incomplete rather than guessed at: [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon)**, Mastering the Art of French Cooking, Chapter Six: Poultry, p. 263-264. Confirmed through browning the chicken and bacon, flambeing with cognac, and a 25-30 minute wine simmer -- but the recipe's own finishing steps (straining, thickening, reassembling with the onion and mushroom garnish) aren't in the photographed pages, since the next page photographed turned out to belong to a different recipe (*Chicken Fricassee*), not this one. **Followed the [§14.3 Classic Tuiles](#143-classic-tuiles) precedent exactly**: written up as far as the source goes, difficulty marked provisional, excluded from the Difficulty & Time Index's counts and totals, and a clear ⚠️ flag rather than a filled-in ending. **This also confirms the family**: [§T24](#t24-the-french-sauce-families--roux-ratios)'s own Sauce Bourguignonne note names *"boeuf bourguignon and coq au vin"* as its two examples, citing this exact page (263) -- now cross-linked to [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and this entry directly. Shares its onion (p. 483) and mushroom (p. 513) garnish references with §7.54/§7.55. |
@@ -461,6 +465,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) | 🟢 | 5 min | — | — | 5 min |
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
+| [§T25 French Omelette](#t25-the-french-omelette-two-methods) | 🟡 | 5 min | <1 min | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
@@ -504,6 +509,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) | 🟢 | 15 min | — | **~1 month** *(cures in the jar, unattended)* | ~1 month |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
+| [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
@@ -568,6 +574,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§4.47 Salsa Verde](#447-salsa-verde) | 🟢 | 15 min | 15 min | — | 30 min |
+| [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
@@ -665,7 +672,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 105 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 106 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -675,7 +682,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 *Recipes still in placeholder form (§3, §5.1–5.9, §6.1, §6.3, §6.4, §6.5, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
-*[§14.3 Classic Tuiles](#143-classic-tuiles) and [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so both are excluded from every count and total in this section until the rest of each recipe arrives.*
+*[§14.3 Classic Tuiles](#143-classic-tuiles), [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon), and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so all three are excluded from every count and total in this section until the rest of each recipe arrives.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -8335,6 +8342,242 @@ Keeping the gaps visible so the chapter reads as one piece rather than a pile of
 - **The five sauces in section I above**, plus Sauce Chasseur — all real recipes, just printed in other chapters.
 
 *No Nutrition block or difficulty badge on this one — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T7](#t7-louisiana-language--ingredients), it's pure reference rather than something you cook, so it stays out of the [Difficulty & Time Index](#difficulty--time-index) counts. The sauces built from it carry their own.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T25. The French Omelette (Two Methods)
+
+<!-- TECHNIQUE-TAGS: omelette, eggs, formula, french, pan-technique -->
+**Tags:** `omelette` · `eggs` · `formula` · `french` · `pan-technique`
+**Source:** Mastering the Art of French Cooking, Chapter Three: Eggs, p. 126–135 — the same chapter and source as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche).
+
+> ⚠️ **A note on this entry's illustrations.** Several of these steps are taught in the source through hand-drawn sequential illustrations, not just text — turning the pan, jerking it toward you, tilting the omelette out onto the plate. This cookbook is plain text and there's no way to embed the actual drawings here; each illustrated step is instead described in enough detail below to teach the same motion. If you want the pictures themselves, they're on the photographed pages.
+
+*"A good French omelette is a smooth, gently swelling, golden oval that is tender and creamy inside. And as it takes less than half a minute to make, it is ideal for a quick meal. There is a trick to omelettes, and certainly the easiest way to learn is to ask an expert to give you a lesson. Nevertheless we hope one of the two techniques we describe will enable you, if you have never made an omelette before, to produce a good one."*
+
+> **Per the source, on learning it at all:** *"The difficulty with all written recipes for omelettes is that before you even start to make one you must read, remember, and visualize the directions from beginning to end, and practice the movements. For everything must go so fast once the eggs are in the pan that there is no time at all to stop in the middle and pore over your book in order to see what comes next. Learning to make a good omelette is entirely a matter of practice. Do one after another for groups of people every chance you get for several days, and even be willing to throw some away. You should soon develop the art, as well as your own personal omelette style."* The two methods below are rapid, professional techniques — **the first is the simplest; the second takes more manual skill.**
+
+**🟡 Medium** *(Method I, the scrambled omelette, is closer to 🟢 Easy on its own; Method II, the rolled omelette, is the harder of the two — see each method's own notes)* · **Prep ~5 min** *(beating the eggs)* · **Cook <1 min** *(the whole cook is under 30 seconds once the eggs hit the pan)* · **Start to finish ~5 min**
+
+#### A. Omelette Pans
+
+*"An omelette cannot be made in a sticky pan; the eggs must be able to slide around freely, and if they cannot, you simply cannot make an omelette at all."* Since the source's first edition, no-stick heavy aluminum pans, professionally shaped for omelettes, have become widely available, and the source uses one gratefully. Whatever pan you use, it should have a **long handle**, **straight-sloping sides about 2 inches deep**, and a **bottom diameter of about 7 inches** — the right size for a 2- to 3-egg omelette, the tenderest and best size to practice on. **The depth of the egg mass in the pan should never be over ¼ inch**, so the eggs cook quickly; a 10- to 11-inch pan is what an 8-egg omelette needs.
+
+> **Seasoning a plain iron pan, if that's what you use:** scrub it with steel wool and scouring powder, rinse and dry it, then heat it a minute or two until the bottom is too hot for your hand. Rub it with paper towels and cooking oil and let it stand overnight. Before your first omelette, sprinkle a teaspoon of table salt in the pan, heat it again, and rub vigorously with paper towels; rub the pan clean and it's ready. If it's used only for omelettes — *"a wise decision"* — it needs no washing afterward, just a wipe with paper towels; wash, dry, warm, and lightly oil it if it does get washed. **Never let any pan, especially an iron one, sit empty over heat** — it does something to the internal structure so foods stick to it forevermore.
+
+#### B. Eggs and How to Beat Them
+
+An omelette can hold up to 8 eggs, but the individual 2- to 3-egg omelette is usually the tenderest, and by far the best size to practice with — under 30 seconds an omelette, so a number of people can be served quickly.
+
+Just before heating the butter in the pan, break the eggs into a mixing bowl and add salt and pepper. With a large table fork, beat the eggs only enough to blend the whites and yolks thoroughly — **30 to 40 vigorous strokes should be enough.**
+
+> **For serving a crowd:** beat the necessary number of eggs and seasonings together in one large bowl, and measure out with a ladle. Two U.S. large eggs measure about 6 Tbsp; 3 eggs, about 9 Tbsp. Measure the quantity for each omelette as you're ready to make it, giving the eggs 4 or 5 more vigorous beats right before dipping them out.
+
+#### C. Method I — L'Omelette Brouillée (Scrambled Omelette)
+
+*Best in a French omelette pan, but a skillet can be used.* **For 1 omelette, 1 to 2 servings. Time: less than 30 seconds of cooking.**
+
+**Ingredients:** 2 or 3 eggs; a big pinch of salt; a pinch of pepper; 1 Tbsp butter; a warm plate; softened butter, to finish.
+
+**You'll need:** a mixing bowl, a table fork, an omelette pan 7 inches in diameter at the bottom.
+
+**1. Beat the eggs. 20 to 30 seconds.**
+Beat the eggs and seasonings in the mixing bowl until the whites and yolks are just blended.
+
+**2. Heat the butter until it's on the point of coloring.**
+Place the butter in the pan and set over very high heat. If you have an electric heat element, it should be red hot. As the butter melts, tilt the pan in all directions to film the sides. **When the foam has almost subsided and the butter is on the point of coloring, that's your signal it's hot enough** — pour in the eggs.
+
+**3. Stir continuously, sliding the pan over the heat.**
+Hold the panhandle with your left hand, thumb on top, and immediately start sliding the pan back and forth rapidly over the heat. At the same time, with the fork in your right hand, its flat side against the bottom of the pan, stir the eggs quickly to spread them continuously all over the bottom of the pan as they thicken. **In 3 or 4 seconds they'll become a light, broken custard.** *(A filling would go in at this point, if you're using one.)*
+
+**4. Tilt and gather the eggs at the far lip.**
+Lift the handle of the pan to tilt it at a 45-degree angle over the heat, and rapidly gather the eggs at the far lip of the pan with the back of your fork. Still holding the pan tilted over the heat, run your fork around the lip of the pan under the far edge of the omelette to be sure it hasn't stuck.
+
+**5. Brown lightly, then turn out onto the plate.**
+Hold the pan tilted over the heat for 1 or 2 seconds to brown the bottom of the omelette very lightly — not too long, or the eggs will overcook. **The center of the omelette should remain soft and creamy.** Turn the omelette onto the plate as described in Section E below, rub the top with a bit of softened butter, and serve as soon as possible.
+
+#### D. Method II — L'Omelette Roulée (Rolled Omelette)
+
+*This omelette should be made in a French omelette pan; a high gas flame is usually more successful than an electric heat element.* **The most fun of any method, but it requires more practice** — here the pan is jerked over high heat at an angle so the egg mass is continually hurled against the far lip of the pan until the eggs thicken; finally, as the pan tilts further while being jerked, the eggs roll over on themselves to form an omelette shape.
+
+*"A simple-minded but perfect way to master the movement is to practice outdoors with half a cupful of dried beans. As soon as you're able to make them flip over themselves in a group, you have the right feeling; but the actual omelette-making gesture is sharper and rougher."*
+
+**For 1 omelette, 1 to 2 servings. Time: less than 30 seconds of cooking.**
+
+**Ingredients:** 2 or 3 eggs; a big pinch of salt; a pinch of pepper; 1 Tbsp butter; a warm plate; softened butter, to finish.
+
+**You'll need:** a mixing bowl, a table fork, an omelette pan 7 inches in diameter at the bottom.
+
+**1. Beat the eggs. 20 to 30 seconds.**
+Beat the eggs and seasonings in the mixing bowl until the whites and yolks are just blended.
+
+**2. Heat the butter until it's on the point of coloring.**
+Place the butter in the pan and set over very high heat. As the butter melts, tilt the pan in all directions to film the sides. When the foam has almost subsided and the butter is on the point of coloring — indicating it's hot enough — pour in the eggs. **It's of the utmost importance in this method that the butter be at the correct temperature.**
+
+**3. Let the eggs settle. 2 to 3 seconds.**
+Let the eggs settle in the pan for 2 or 3 seconds to form a film of coagulated egg on the bottom of the pan. *(A filling would go in at this point.)*
+
+**4. Jerk the pan toward you. About one jerk per second.**
+Grasp the handle of the pan with both hands, thumbs on top, and immediately begin jerking the pan vigorously and roughly toward you at an even, 20-degree angle over the heat, one jerk per second. It's the sharp pull of the pan toward you that throws the eggs against the far lip of the pan, then back over its bottom surface. **You must have the courage to be rough, or the eggs won't loosen themselves from the bottom of the pan.** After several jerks, the eggs will begin to thicken.
+
+**5. Increase the tilt to roll the omelette over on itself.**
+Then increase the angle of the pan slightly, which will force the egg mass to roll over on itself with each jerk at the far lip of the pan.
+
+**6. Loosen and shape it.**
+Give 4 or 5 short, sharp blows on the handle of the pan with your right fist to loosen the omelette and make the far edge curl over onto itself.
+
+**7. Brown lightly, then turn out.**
+Hold the pan tilted over the heat for 1 or 2 seconds to brown the bottom of the omelette very lightly, but not too long or the eggs will overcook — **the center should remain soft and creamy.** If the omelette hasn't formed neatly, push it into shape with the back of your fork. Turn it onto the plate as described in Section E, rub the top with a bit of softened butter, and serve as soon as possible — **omelettes toughen if kept warm.**
+
+#### E. Transferring the Omelette from Pan to Plate
+
+*In each of the methods described, the finished omelette ends up at the far lip of the pan. This is how to move it from the pan to the plate, in either method.*
+
+Hold the plate in your left hand. Turn the omelette pan so its handle is to your right. Grasp the handle with your right hand, thumb on top. Rest the lip of the pan slightly off-center of the plate, so the omelette will land in the middle of the plate. Then tilt the plate and pan against each other at a 45-degree angle, and quickly turn the pan upside down over the plate — the omelette will drop into position. If it hasn't formed neatly, push it into shape with the back of a fork.
+
+#### F. Garnishings and Fillings for Omelettes
+
+*After the eggs have set for 2 or 3 seconds in the pan, at the point indicated in either recipe above, add the filling.*
+
+**Aux Fines Herbes (With Herbs).** Beat 1 Tbsp of minced fresh herbs — chervil, parsley, chives, and tarragon — into the eggs at the start. Sprinkle more of the same over the finished omelette.
+
+**Au Fromage (With Cheese).** After the eggs have set for 2 or 3 seconds in the pan, sprinkle in 1 or 2 Tbsp of grated Swiss cheese; **or**, stir 4 to 6 spoonfuls of grated Swiss cheese into the eggs along with the enrichment butter at the end.
+
+**Aux Truffes (With Truffles).** Stir 1 or 2 diced truffles into the eggs before scrambling them. Sprinkle a bit of chopped truffle over the eggs before serving.
+
+**Other garnishings, per the source:** aside from ham, bacon, or sausages, the platter may be garnished with broiled or sautéed mushrooms, kidneys, or chicken livers; sautéed eggplant or zucchini; broiled tomatoes, tomato sauce, or the *pipérade* mixture (source p. 137 — not yet transcribed); diced sautéed potatoes; or buttered peas, asparagus tips, or artichoke hearts.
+
+#### Nutrition *(estimated, per plain 3-egg omelette, unfilled)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole omelette** *(3 eggs, 1 Tbsp cooking butter, plus a pat to finish)* | ~370 | 30 g | 19 g | 1.5 g | 0 g |
+| **Per serving** *(1 to 2 servings)* | ~250–370 | 20–30 g | 13–19 g | 1 g | 0 g |
+
+**What a serving is:** one omelette serves 1 as a light meal, or 2 as part of a bigger spread — the source gives both counts. Fillings and garnishes (cheese, herbs, ham) aren't counted here; add them from their own ingredients.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T26. Pâte Brisée & Pastry Shells (Pie Dough, Shaping, and Baking)
+
+<!-- TECHNIQUE-TAGS: pastry, pie-dough, pate-brisee, quiche, tart, formula, french -->
+**Tags:** `pastry` · `pie-dough` · `pâte-brisée` · `quiche` · `tart` · `formula` · `french`
+**Source:** Mastering the Art of French Cooking, Chapter Four: Entrées and Luncheon Dishes, p. 139–146.
+**Used in:** [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche), which cites this exact page (146) for its pastry shell — now resolved and cross-linked. Also feeds the open-faced tarts and quiches this chapter builds.
+
+> *"A good French pastry crust is tender, crunchy, and buttery. The best one, pâte brisée fine, is made in the proportions, according to weight, of 5 parts flour to 4 parts butter. American all-purpose flour produces a slightly brittle crust if only butter is used. However, a mixture of 3 parts butter and 1 part vegetable shortening will give a tender crust with a good buttery flavor. Unlike standard American methods, the French system calls for a fraisage at the end of the operation, which is a short pushing out of the dough with the heel of the hand to insure an even blending of fat and flour."*
+
+⚠️ **A note on this entry's illustrations**, same as [§T25](#t25-the-french-omelette-two-methods): the fraisage, rolling, and shell-molding steps below are taught in the source with hand-drawn illustrations this cookbook can't embed. Each step is described in enough detail to follow without them.
+
+**🟡 Medium** · **Prep ~20 min** *(mixing, the fraisage, rolling, and molding into the shell)* · **Cook ~15 min** *(8 to 19 min baking, partially or fully cooked)* · **Start to finish ~35 min** *(plus 1 to 2 hr chilling the dough — lead time, not active work)*
+
+#### A. Proportions per Cup of Flour (for measuring by other quantities)
+
+| For | Amount |
+|---|---|
+| Flour | 1 cup |
+| Butter and chilled shortening | 3 to 4½ Tbsp |
+| Iced water | as needed, by droplets |
+| Salt | ½ tsp |
+| Sugar (optional, for color) | ⅛ tsp |
+
+#### B. Ingredients (for one 8- to 9-inch shell)
+
+- 2 cups all-purpose flour (scooped and leveled)
+- 1 tsp salt
+- ¼ tsp sugar
+- 6 oz (1½ sticks) chilled butter, cut into ½-inch bits
+- 4 Tbsp chilled vegetable shortening
+- A scant ½ cup iced water, plus droplets more as needed
+
+**You'll need:** a big mixing bowl, or a food processor with a 2-quart capacity (steel blade); a lightly floured pastry board; a rolling pin; waxed paper.
+
+#### C. Method 1 — Hand Mixing
+
+**1. Rub the fat into the flour.**
+Place the flour, salt, sugar, butter, and shortening in a big mixing bowl. Rub the flour and fat together rapidly between the tips of your fingers until the fat is broken into pieces the size of oatmeal flakes. Don't overdo this step — the fat gets blended more thoroughly later, in the fraisage.
+
+**2. Add the water and mass the dough.**
+Add the water and blend quickly with one hand, fingers held together and slightly cupped, rapidly gathering the dough into a mass. Sprinkle up to 1 Tbsp more water by droplets over any unmassed remains and work it in. Press the dough firmly into a roughly shaped ball — it should just hold together and be pliable, but not sticky.
+
+> **Per the source, on working fast:** *"You must train yourself to work rapidly, particularly if your kitchen is warm, so that the butter will soften as little as possible. Use very quick, light finger movements, and do not linger on the dough at all with the warm palms of your hands. A pastry blender may be used if you wish, but a necessary part of learning how to cook is to get the feel of the dough in your fingers. Il faut mettre la main à la pâte!"* — you have to put your hand to the dough.
+
+#### D. Method 2 — Food Processor
+
+The proportions above suit a machine with a 2-quart capacity; a larger container would take double the amount.
+
+**1. Cut in the fat.**
+Measure the dry ingredients into the bowl fitted with the steel blade. Quarter the chilled sticks of butter lengthwise and cut crosswise into ⅜-inch pieces; add to the flour along with the chilled shortening. Flick the machine on and off 4 or 5 times.
+
+**2. Add the water and mass.**
+Measure out a scant ½ cup of iced water. Turn the machine on and pour it all in at once; immediately flick the machine on and off several times, and the dough should begin to mass on the blade. If it doesn't, dribble in a little more water and repeat, adding more if needed. **The dough is done as soon as it begins to mass — don't overmix it.** Scrape it out onto your work surface.
+
+#### E. The Fraisage — Final Blending (for hand-made or machine dough)
+
+Place the dough on a lightly floured pastry board. With the heel of one hand, not the palm which is too warm, rapidly press the pastry down in two-spoonful bits, in a firm, quick smear about 6 inches long, pushing it away from you across the board. This is the final blending of fat and flour — the *fraisage* — and it's what makes the French method distinct from just cutting fat into flour.
+
+With a scraper or spatula, gather the dough back into a mass; knead it briefly into a fairly smooth round ball. Sprinkle it lightly with flour and wrap it in waxed paper. Either place it in the freezer for about 1 hour until firm but not congealed, or refrigerate for 2 hours or overnight.
+
+> **Storage, per the source:** uncooked pastry dough keeps 2 to 3 days refrigerated, or freezes for several weeks. Always wrap it airtight in waxed paper and a plastic bag.
+
+#### F. Rolling Out the Dough
+
+Because of its high butter content, roll the dough out as quickly as possible, so it doesn't soften and become hard to handle. Place it on a lightly floured board or marble surface. If the dough is hard straight from the fridge, beat it with the rolling pin to soften it, then knead it briefly into a fairly flat circle — just malleable enough to roll out without cracking.
+
+#### G. Molding the Shell
+
+**1. Transfer the dough to the mold.**
+*Either* reverse the dough onto the rolling pin and unroll it over the mold, *or* fold the dough in half, then in half again, lay it in the mold, and unfold it.
+
+**2. Press it into the mold and trim.**
+Press the dough lightly into the bottom of the pan (or onto the baking sheet, if using a flan ring). Lift the edges of the dough and work it gently down the inside edges of the mold with your fingers, taking in about ⅜ inch of dough all around the circumference — this makes the sides of the shell a little thicker and sturdier. Trim off excess dough by rolling the pin over the top of the mold.
+
+**3. Build the rim.**
+With your thumbs, push the dough ⅛ inch above the edge of the mold, to make an even, rounded rim of dough all around the inside circumference.
+
+**4. Decorate the edge, and dock the bottom.**
+Press a decorative edge around the rim with the dull edge of a knife. Prick the bottom of the pastry with a fork at ½-inch intervals — this keeps it from puffing up unevenly.
+
+**5. Weight it so it holds its shape.**
+To keep the sides from collapsing and the bottom from puffing up during baking, *either* butter the bottom of another mold, weight it with a handful of dry beans, and set it inside the pastry, *or* line the pastry with buttered lightweight foil or buttered brown paper, press it against the sides, and fill it with dried beans — the weight of the beans holds the pastry against the mold as it bakes.
+
+Refrigerate if not baking immediately.
+
+#### H. Baking the Shell
+
+**Partially cooked shell** *(for quiches, and for tarts whose filling cooks in the shell)*: bake at the middle level of a preheated 400°F oven for 8 to 9 minutes, until the pastry is set. Remove the weighting mold or foil and beans. Prick the bottom of the pastry with a fork to keep it from rising further. Return to the oven 2 to 3 minutes more. When the shell is starting to color and just beginning to shrink from the sides of the mold, remove it from the oven. **If the sides seem fragile, or liable to crack or leak under the weight of the filling to come, don't unmold it until your tart or quiche is filled and finally baked.**
+
+**Fully cooked shell** *(for tarts filled with cooked ingredients that need only a brief reheating, or for fresh fruit tarts served cold)*: bake 7 to 10 minutes more, or until the shell is very lightly browned.
+
+**Unmolding:** when the shell is done, unmold it and slip it onto a rack. Air circulating around it while it cools keeps it from getting soggy.
+
+#### I. On Quiche Sizing, Per the Source
+
+*"The following recipes are all designed for pastry shells 8 inches in diameter. The quiche ingredients should fill the shell by no more than three-fourths, to allow room for puffing. An 8-inch shell will hold about 2½ cups of filling and serves 4 to 6 people. A 10-inch shell, serving 6 to 8, will hold one and a half times this amount or slightly more."*
+
+#### J. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 2 cups
+- 🛒 Salt — 1 tsp
+- 🛒 Sugar — ¼ tsp, optional (for color)
+- 🛒 Butter — 6 oz (1½ sticks), chilled
+- 🛒 Vegetable shortening — 4 Tbsp, chilled
+- 🛒 Dried beans — for weighting the shell during baking (reusable, not eaten)
+
+#### Nutrition *(estimated, whole shell)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole shell** *(8- to 9-inch)* | ~1,850 | 128 g | 18 g | 155 g | 5 g |
+| **Per slice** *(⅙ of the shell alone, if tracked separately from a filled quiche)* | ~310 | 21 g | 3 g | 26 g | 0.8 g |
+
+**What a serving is:** the shell isn't eaten on its own — these figures exist so a filled quiche or tart's own nutrition can add the shell in, rather than double-counting a separately-listed crust.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16278,11 +16521,15 @@ Allow to cool briefly on a wire rack. Serve warm — or, the next day, toasted f
 
 Transcribed from **Mastering the Art of French Cooking**, p. 147 — the *Quiches* chapter. *"The classic quiche Lorraine contains heavy cream, eggs, and bacon, no cheese. The bacon is usually blanched in simmering water to remove its smoky, salty taste, but this step is optional. Diced, cooked ham, sautéed briefly in butter, may replace the bacon."*
 
-> **On serving and keeping, per the source's general note on quiches:** set the oven door ajar as it cools and it will sink down — that's normal, not a failure. It may be reheated, but won't puff again the second time. A cold quiche makes a good snack and travels well on a picnic.
+> **On quiches generally, per the source's own chapter intro:** *"Quiche Lorraine, although it seems to be the most well known, is only one of a series of generally simple-to-make and appetizing entrées. A quiche is a mixture of cream and bacon, such as the quiche Lorraine, or cheese and milk, or tomatoes and onions, or crab, or anything else which is combined with eggs, poured into a pastry shell, and baked in the oven until it puffs and browns. It is practically foolproof, and you can invent your own combinations."* Serve with a salad, hot French bread, and a cold white wine for a full lunch or supper, or let it open a dinner. Tiny quiches also work as hot hors d'oeuvres.
 
-> **One reference not yet transcribed:** the *8-inch partially cooked pastry shell* the filling goes into (source p. 146). Any standard single pie crust, blind-baked partway, works in the meantime — see this cookbook's own pastry entries if you have one written up already.
+> **Doneness and make-ahead, per the source:** the quiche is done when a knife plunged into the center comes out clean; it stays puffed about 10 minutes in the turned-off hot oven with the door ajar. As it cools, it sinks down — that's normal, not a failure. It may be reheated, but won't puff again the second time. A cold quiche makes a good snack and travels well on a picnic. **The shell may be partially baked hours ahead and the filling mixed and refrigerated separately** — the filling goes in and the quiche goes into a 375°F oven about half an hour before serving.
 
-> **Not the only quiche on this page.** *Quiche au Fromage de Gruyère* (Swiss Cheese Quiche) starts directly below this recipe, sharing the "Quiches" intro above — left out here per Cody's "Quiche Lorraine only."
+> **The pastry shell this recipe calls for is now fully transcribed: [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)**, source p. 139–146. An 8-inch shell holds about 2½ cups of filling and serves 4 to 6, matching this recipe exactly; a 10-inch shell (serves 6 to 8) holds about 1½ times as much.
+
+> **Variation, per the source — Quiche au Fromage de Gruyère (Swiss Cheese Quiche).** Follow this same recipe, but stir 2 to 4 oz (½ to 1 cup) grated Swiss cheese into the egg and cream mixture. The bacon is usually left out, and you may use all milk instead of cream.
+
+> **A further, fragmentary quiche glimpsed on a later page, not transcribed:** ingredients and a partial method for what looks like a tomato-and-black-olive quiche with Parmesan or Swiss cheese (*"Spread tomato mixture in pastry shell. Place olives over the top in a decorative design. Sprinkle on the cheese and dribble the oil over it..."*), plus a mention of Camembert, Brie, or a mixture of cheese leftovers from whatever recipe precedes it. Neither the title nor the full ingredient list is visible — not enough to work with yet.
 
 **Yield:** 4 to 6 servings
 
@@ -16292,7 +16539,7 @@ Transcribed from **Mastering the Art of French Cooking**, p. 147 — the *Quiche
 
 - 3 to 4 oz lean bacon (6 to 8 slices, medium thickness)
 - 1 quart water
-- An 8-inch partially cooked pastry shell, placed on a baking sheet *(source p. 146 — not yet transcribed)*
+- An 8-inch partially cooked pastry shell, placed on a baking sheet — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)
 - 3 eggs, or 2 eggs and 2 yolks
 - 1½ to 2 cups whipping cream, or half cream and half milk
 - ½ tsp salt
@@ -16325,7 +16572,7 @@ Set in the upper third of the preheated oven and bake until the quiche has puffe
 - 🛒 Whipping cream, or half cream and half milk — 1½ to 2 cups
 - 🛒 Salt, pepper, nutmeg
 - 🛒 Butter — 1 to 2 Tbsp
-- 🛒 Pie pastry — for an 8-inch partially cooked shell
+- Everything for an 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) — see its own grocery list
 
 #### Nutrition *(estimated)*
 
@@ -16337,6 +16584,64 @@ Set in the upper third of the preheated oven and bake until the quiche has puffe
 **What a serving is:** one generous wedge, about ⅙ of an 8-inch quiche.
 
 *Heavy cream and the pastry shell's butter carry most of the fat here; the shell itself carries most of the carbs.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 10.8 Quiche aux Fruits de Mer (Shrimp, Crab, or Lobster Quiche)
+
+Transcribed from **Mastering the Art of French Cooking**, the same *Quiches* chapter as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche), which this recipe follows a few pages later.
+
+> ⚠️ **This transcription is minimal, not just incomplete.** Only the title, serving count, oven temperature, and the first two ingredients and step are visible in the photographed page — the rest of the ingredient list (eggs, cream, the shellfish quantity itself) and the remaining method (assembling and baking) aren't captured. Written up as far as the source goes; see Open Questions.
+
+> **Builds on the same pastry shell as [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche):** an 8-inch partially cooked shell, [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) — consistent with every other quiche in this chapter.
+
+**Yield:** 4 to 6 servings
+
+**🟢 Easy** *(provisional — see Open Questions)* · **Prep — not yet known** · **Cook — not yet known**
+
+#### A. Ingredients *(as far as photographed)*
+
+- An 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)
+- 2 Tbsp minced shallots or green onions
+- 3 Tbsp butter
+- Shellfish meat — shrimp, crab, or lobster, quantity not yet known
+
+#### B. Cooking Instructions *(as far as the photographed page goes)*
+
+**1. Preheat the oven to 375°F.**
+
+**2. Sweat the shallots. 1 to 2 minutes.**
+Cook the shallots or onions in the butter over moderate heat for 1 to 2 minutes, until tender but not browned.
+
+**3. Add the shellfish and stir gently.**
+Add the shellfish meat and stir gently for 2 minutes — *(the method cuts off here; the rest isn't captured)*.
+
+*(Presumably continues with an egg-and-cream mixture, an assembly step, and a bake, following the same shape as every other quiche in this chapter — see [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche) for what that looks like. Not confirmed from this page.)*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — seafood market**
+
+- 🏪 Shrimp, crab, or lobster meat — quantity not yet known
+
+**🛒 General grocery**
+
+- 🛒 Shallots or green onions — 2 Tbsp minced
+- 🛒 Butter — 3 Tbsp
+- Everything for an 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)
+
+#### D. Open Questions
+
+- **The shellfish quantity is unknown** — the ingredient list is cut off right after butter, before the shellfish line.
+- **The egg-and-cream custard portion of the ingredient list is entirely missing**, though every other quiche in this chapter uses one; not assumed here.
+- **The method past "stir gently for 2 minutes" isn't captured** — assembly into the shell and the bake time aren't shown, though they're almost certainly the same 375°F, 25-to-30-minute bake every other quiche on these pages uses.
+- **Difficulty and time are provisional**, rated Easy to match [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche) and excluded from the [Difficulty & Time Index](#difficulty--time-index)'s counts until the rest of the page arrives.
+
+#### Nutrition
+
+Not yet calculable — the shellfish quantity and the egg-and-cream custard, which would carry most of the calories, aren't in the photographed ingredient list.
 
 [↑ Table of Contents](#table-of-contents)
 

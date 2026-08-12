@@ -100,6 +100,8 @@ Click any recipe to jump straight to it.
   - [4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce) ✅
   - [4.80 Sauce Madère / Sauce au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) ✅
   - [4.81 Sauce Périgueux (Brown Madeira Sauce with Truffles)](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) ✅
+  - [4.82 Sauce Tomate (Tomato Sauce)](#482-sauce-tomate-tomato-sauce) ✅
+  - [4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -300,6 +302,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Chapter Two closed out, and its seams checked end to end — per Cody's ask that the French sauces "all come together in one cohesive unit."** Two new entries finish the source's six mother groups: **[§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce)** (p. 76–77 — the meaty version, built on a ham-and-vegetable base with stock and a butter roux, simmered the full 1½–2 hr the source insists on) and **[§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)** (p. 78 — the Mediterranean one: olive oil, garlic, saffron, fennel, and dried orange peel, no stock at all). **Three real holes found and closed while checking cohesion:** [§T24](#t24-the-french-sauce-families--roux-ratios)'s mother-group table still said the brown sauces were *"not yet transcribed"* — stale since the last batch, now pointing at all eleven of [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)–[§4.81](#481-sauce-périgueux-brown-madeira-sauce-with-truffles); its tomato row was empty and now points at both new entries; and **[§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)'s open "tomato purée, page 78" reference turned out to be [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) itself** — now linked rather than flagged. **[§T24](#t24-the-french-sauce-families--roux-ratios) gained two new sections:** *Other Brown Sauces*, cataloguing the five brown sauces this book scatters into other chapters (deglazing sauce, à l'Italienne, Bordelaise, à l'Orange, Bourguignonne) so the family is complete on paper — **noting that the brown deglazing sauce is already in this cookbook as [§T8 Pan Sauce Formula](#t8-pan-sauce-formula)**, the identical technique under a different name — and *What's Still Open*, listing every remaining gap in one place: the oil-and-vinegar group (the only mother group with nothing transcribed), *beurre blanc*, cream sauce p. 59, and the supporting technique pages. |
 | 2026-08-10 | **The brown sauce half of the same chapter — eleven more entries from *Mastering the Art of French Cooking*, p. 66–75, completing Chapter Two.** Three interchangeable brown sauce bases, which every derived sauce can be built on: **[§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)** (brown roux, 2 hr+ simmer — the source calls it *"the best of the group and the one most nearly approaching the traditional demi-glace"*), **[§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2)** (same, with giblets and bones from whatever it'll be served with; its *Poivrade* and *Venaison* variations folded in), and **[§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)** (cornstarch, 5 minutes — **the lightest sauce in this cookbook at ~16 cal per ¼ cup**, and the source is candid that it's only as good as the stock). Then eight composed sauces off those: **[§4.74 Diable](#474-sauce-diable-peppery-brown-sauce)**, **[§4.75 Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers)**, **[§4.76 Robert](#476-sauce-robert-brown-mustard-sauce)**, **[§4.77 Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce)**, **[§4.78 Brune au Cari](#478-sauce-brune-au-cari-brown-curry-sauce)**, **[§4.79 Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)**, **[§4.80 Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)**, and **[§4.81 Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles)**. **[§T24](#t24-the-french-sauce-families--roux-ratios) extended** with the brown sauce essay (including why the source skips *espagnole* and *demi-glace* entirely), the brown roux note, and the meat-stock note with its canned-beef-bouillon upgrade. **Two decisions worth stating:** [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) are rated 🔴 **Hard** on this cookbook's standing roux rule — the source explicitly warns that burnt flour *"will not thicken the sauce as it should, and it will also impart an unpleasant taste,"* the same perfect-to-ruined failure as [§T1](#t1-how-to-make-a-roux), just at gentler heat; the Hard count moves from ten to twelve. And the source's *Sauce à la Moutarde* and *Sauce aux Anchois* were **folded into [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) as variations** rather than given their own numbers, matching how *Sauce aux Câpres* was handled and avoiding a third top-level "Mustard Sauce" alongside [§4.22](#422-mustard-sauce) and [§4.38](#438-mustard-sauce). One source cross-reference stays open: **Sauce Chasseur**, which lives in the book's Veal section (p. 368) rather than this chapter. |
 | 2026-08-10 | **Biggest single batch yet, and a major new source: nine entries from *Mastering the Art of French Cooking* (Julia Child, Louisette Bertholle, Simone Beck)**, Chapter Two: Sauces, p. 55–65. The white-sauce family, essentially complete: **[§4.63 Sauce Béchamel / Sauce Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce)** is the master recipe (the source prints béchamel and velouté as one recipe — same method, milk versus stock), and seven derived sauces hang off it: **[§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)** (egg yolk and cream enrichment, formerly sauce allemande), **[§4.65 Mornay](#465-sauce-mornay-cheese-sauce)**, **[§4.66 Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)**, **[§4.67 Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)**, **[§4.68 au Cari](#468-sauce-au-cari-light-curry-sauce)**, **[§4.69 Soubise](#469-sauce-soubise-onion-sauce)**, and **[§4.70 Bâtarde / au Beurre](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)** (mock hollandaise, with the Sauce aux Câpres variation folded in). Plus **[§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios)** — the source's six mother-sauce groups, its flour-per-cup thickness table (1 Tbsp thin / 1½ medium / 2 thick / 3 soufflé base), the saucepan warning (no aluminum with wine or egg yolks), and its canned-chicken-broth upgrade treatment. Filed as pure reference like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T7](#t7-louisiana-language--ingredients), so it carries no badge or Nutrition block and stays out of the index counts. **Two things worth flagging:** [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) is rated 🟡 Medium rather than 🔴 like [§4.9 Hollandaise](#49-hollandaise-sauce), because its flour base supports the egg yolk — the source is explicit that a flour-based sauce *can* be boiled without curdling, which is the whole point of a "mock" hollandaise; and [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) is kept distinct from [§4.52 Balsamella](#452-balsamella), Canal House's thicker Italian version of the same sauce, rather than merged. **Also fixed a stale table:** the T-section's own quick index had stopped at T17 and was missing T18–T23; all of them plus T24 are now listed. |
 | 2026-08-10 | **Fifth recipe from The Silver Palate Cookbook: [§7.53 Pasta Puttanesca](#753-pasta-puttanesca)**, p. 88–89 — the source's friend Bobbie's recipe: squeezed-dry canned plum tomatoes boiled hard with garlic, capers, niçoise olives, anchovies, and parsley, ready in about 20 minutes. The sauce is designed to cook in the time the pasta boils. **A correction to my own earlier read, recorded rather than quietly fixed:** I first told Cody this recipe's ingredient list wasn't in the photo and that the adjacent Creamy Pasta Sauce with Fresh Herbs was a separate recipe — he was right that the page continued, and a closer photo confirmed it. The layout runs title and intro at the bottom of p. 88, ingredients and method at the top of p. 89; the Creamy Pasta Sauce genuinely is a separate recipe below it, and per Cody's "Puttanesca only," neither it nor the sausage-tomato sauce above the intro is transcribed. A **"Capers" sidebar essay** shares the page, noted as available for [§T5 Seasonings & Peppers](#t5-seasonings--peppers) if it's ever wanted. |
@@ -627,7 +630,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
+| [§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) | 🟢 | 25 min | 55 min | — | 1 hr 20 min |
 | [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
+| [§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce) | 🟢 | 15 min | 20 min | **1½–2 hr** *(simmer, skimming)* | 2 hr 20 min |
 | [§4.71 Sauce Brune (Brown Sauce 1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) | 🔴 | 15 min | 20 min | **~2 hr** *(simmer, skimming)* | 2 hr 45 min |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🔴 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
@@ -638,7 +643,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 102 recipes**, including nearly all of §4's now-81 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 102 recipes**, including nearly all of §4's now-83 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -4919,7 +4924,7 @@ Transcribed from **Mastering the Art of French Cooking**, p. 62. **For:** eggs, 
 #### A. Ingredients
 
 - 2 cups béchamel or velouté, [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce), or the source's cream sauce (p. 59 — not yet transcribed)
-- 2 to 6 Tbsp cooked fresh tomato purée *(source p. 78 — not yet transcribed)* or tomato paste
+- 2 to 6 Tbsp cooked fresh tomato purée — **[§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)**, which is the source's own p. 78 — or tomato paste
 - 1 to 2 Tbsp softened butter
 - Optional: 1 to 2 Tbsp minced fresh parsley, chervil, basil, or tarragon
 
@@ -5899,6 +5904,173 @@ After flavoring the sauce, stir in the truffles and simmer for a minute.
 **What a serving is:** ¼ cup — spooned over filet of beef or foie gras.
 
 *Essentially [§4.80](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)'s numbers plus three diced truffles; truffles are low-calorie for what they cost.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.82 Sauce Tomate (Tomato Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 76–77 — **the tomato sauce group, the fourth of the source's six mother-sauce families** ([§T24](#t24-the-french-sauce-families--roux-ratios)). *"This good basic tomato sauce is served just as it is, or may be flavored with herbs or combined with other sauces whenever you wish a tomato flavoring. It is at its best with fresh tomatoes, but canned tomatoes or canned tomato purée will also produce a good sauce. You will notice, during its simmering, that it really should cook for about an hour and a half to develop its full flavor."*
+
+> **This is the meaty one; [§4.83 Coulis de Tomates](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) is the Mediterranean one.** The source prints them back to back and they're genuinely different sauces: this one is built on a ham-and-vegetable base with stock and a butter roux; the coulis is olive oil, garlic, saffron, fennel, and orange peel with no stock at all. Pick by which direction you want the dish to go.
+
+> **Three tomato options, per the source** — 2 lb fresh (which *need not be peeled* here, unlike the coulis), 3 cups canned, or 1½ cups canned purée plus 1½ cups water. Fresh is best, but the source is explicit that canned works.
+
+> **Distinct from this cookbook's other tomato sauces:** [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) and [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) are from other sources entirely, and [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) is a *white* sauce tinted with tomato rather than a tomato sauce proper.
+
+**Yield:** about 2½ cups
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~20 min** *(10 min on the vegetables and ham, 3 min on the flour, then building the sauce)* · **Slow cook ~1½–2 hr** *(simmer, skimming occasionally — the source insists on the full time for flavor)* · **Start to finish ~2 hr 20 min**
+
+**You'll need:** a heavy-bottomed 2½-quart saucepan.
+
+#### A. Ingredients
+
+- ¼ cup each: finely diced carrots, onions, and celery
+- 2 Tbsp minced boiled ham — **or** 2 Tbsp minced lean bacon, simmered 10 minutes in water, rinsed, and drained
+- 3 Tbsp butter
+- 1 Tbsp oil
+- 1½ Tbsp flour
+- 1½ cups boiling stock or canned beef bouillon
+- 2 lb (4 cups) chopped ripe red tomatoes, **which need not be peeled** — **or** 3 cups canned tomatoes — **or** 1½ cups canned tomato purée plus 1½ cups water
+- ¼ tsp salt
+- ⅛ tsp sugar
+- 2 unpeeled cloves garlic
+- 4 parsley sprigs
+- ½ bay leaf
+- ¼ tsp thyme
+- 1 to 2 Tbsp tomato paste, if necessary
+
+#### B. Cooking Instructions
+
+**1. Sweat the vegetables and ham without browning. 10 minutes.**
+Cook the carrots, onions, celery, and ham or bacon slowly in the butter and oil for 10 minutes, without letting them brown.
+
+**2. Cook the flour in. 3 minutes.**
+Blend the flour into the ham and vegetables and cook slowly for 3 minutes, stirring.
+
+**3. Off heat, beat in the stock.**
+Off heat, beat in the boiling stock or bouillon.
+
+**4. Add the tomatoes and aromatics, then simmer. 1½ to 2 hours.**
+Stir in the tomatoes, salt, and sugar. Add the garlic and herbs. Simmer for 1½ to 2 hours, skimming occasionally, and adding water if the sauce reduces and thickens too much. You should end up with about 2½ cups of rich, fairly thick sauce.
+
+**5. Strain, correct, and adjust the color.**
+Strain, pressing the juice out of the ingredients. Correct seasoning. Stir in 1 to 2 Tbsp of tomato paste if you feel the sauce lacks color, and simmer again for 5 minutes.
+
+> **Holding it, per the source:** if not used immediately, film the surface with stock or a few drops of oil. May be refrigerated or frozen.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Carrots, onions, celery — ¼ cup each, finely diced
+- 🛒 Boiled ham or lean bacon — 2 Tbsp minced
+- 🛒 Butter — 3 Tbsp
+- 🛒 Oil — 1 Tbsp
+- 🛒 All-purpose flour — 1½ Tbsp
+- 🛒 Stock or canned beef bouillon — 1½ cups
+- 🛒 Ripe red tomatoes — 2 lb *(or 3 cups canned, or 1½ cups purée + 1½ cups water)*
+- 🛒 Garlic — 2 cloves
+- 🛒 Fresh parsley, bay leaf, thyme
+- 🛒 Sugar, salt
+- 🛒 Tomato paste — 1 to 2 Tbsp, if needed
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2½ cups)* | ~640 | 44 g | 13 g | 42 g | 4 g |
+| **Per serving** *(10 servings, ¼ cup each)* | ~64 | 4.4 g | 1.3 g | 4.2 g | 0.4 g |
+
+**What a serving is:** ¼ cup — spooned over pasta, eggs, or meat, or stirred into another sauce for tomato flavoring.
+
+*The sauce is strained and the solids pressed and discarded, so most of the tomato and vegetable fiber doesn't land on the plate — that's accounted for here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.83 Coulis de Tomates à la Provençale (Fresh Tomato Purée with Garlic and Herbs)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 78. *"Here is a thick, concentrated tomato sauce with real Mediterranean flavor."* **For:** broiled or boiled chicken, boiled beef, meat patties, hot meat leftovers, eggs, *pastas*, and pizzas.
+
+> **This closes an open reference.** [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) calls for *"cooked fresh tomato purée, page 78"* — this is that page. §4.66's own text now links here.
+
+> **What makes it Provençal rather than just tomato:** saffron, fennel, coriander, and a piece of dried orange peel, all in small pinches, plus olive oil instead of butter and no stock at all. Those four are doing the work — leave them out and it's a different sauce.
+
+> **Peeling matters here, unlike [§4.82](#482-sauce-tomate-tomato-sauce).** The tomatoes are peeled, seeded, juiced, and chopped before they go in, because this purée is meant to be smooth and concentrated rather than strained at the end. That's most of the prep time.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~25 min** *(peeling, seeding, juicing, and chopping 3 lb of tomatoes is the bulk of it)* · **Cook ~55 min** *(10 min onions, 3 min flour, 10 min covered, then about 30 min uncovered)* · **Start to finish ~1 hr 20 min**
+
+**You'll need:** a heavy-bottomed 3-quart saucepan; cheesecloth for the herb bouquet.
+
+#### A. Ingredients
+
+- ⅓ cup finely minced yellow onions
+- 2 Tbsp olive oil
+- 2 tsp flour
+- 3 lb ripe red tomatoes, peeled, seeded, juiced, and chopped — about 4½ cups *(source p. 505 for the technique — not yet transcribed)*
+- ⅛ tsp sugar
+- 2 cloves mashed garlic
+- A medium herb bouquet: 4 parsley sprigs, ½ bay leaf, and ¼ tsp thyme tied in cheesecloth
+- ⅛ tsp fennel
+- ⅛ tsp basil
+- Small pinch of saffron
+- Small pinch of coriander
+- A 1-inch piece (¼ tsp) dried orange peel
+- ½ tsp salt
+- 1 to 2 Tbsp tomato paste, if necessary
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Sweat the onions in olive oil. About 10 minutes.**
+Cook the onions and olive oil slowly together for about 10 minutes, until the onions are tender but not browned.
+
+**2. Cook the flour in. 3 minutes.**
+Stir in the flour and cook slowly for 3 minutes without browning.
+
+**3. Add everything else and cook covered. 10 minutes.**
+Stir in the tomatoes, sugar, garlic, herbs, and seasonings. Cover the pan and cook slowly for 10 minutes, so the tomatoes render more of their juice.
+
+**4. Uncover and simmer down. About 30 minutes.**
+Uncover and simmer for about half an hour, adding spoonfuls of tomato juice or water if the sauce becomes so thick it risks scorching. **The purée is done when it tastes thoroughly cooked and is thick enough to form a mass in the spoon** — that's the doneness cue, not the clock.
+
+**5. Finish and correct.**
+Remove the herb bouquet. If necessary, stir in 1 or 2 Tbsp of tomato paste for color, and simmer 2 minutes. Correct seasoning. Strain the sauce if you wish.
+
+> **Holding it, per the source:** may be refrigerated or frozen.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ripe red tomatoes — 3 lb
+- 🛒 Yellow onions — ⅓ cup finely minced
+- 🛒 Olive oil — 2 Tbsp
+- 🛒 All-purpose flour — 2 tsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Fresh parsley, bay leaf, thyme — for the herb bouquet
+- 🛒 Fennel, basil, saffron, coriander — small quantities each
+- 🛒 Dried orange peel — a 1-inch piece
+- 🛒 Sugar, salt, pepper
+- 🛒 Tomato paste — 1 to 2 Tbsp, if needed
+- 🛒 Cheesecloth
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~510 | 27.5 g | 11.5 g | 59.5 g | 14 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~64 | 3.4 g | 1.4 g | 7.4 g | 1.75 g |
+
+**What a serving is:** ¼ cup — spooned over chicken, eggs, or pasta, or spread on a pizza base.
+
+*Unlike [§4.82](#482-sauce-tomate-tomato-sauce), straining is optional here, so the tomato fiber mostly stays in — which is why this has four times the fiber per serving on similar calories. The seeds and juice removed during prep are accounted for.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -7829,10 +8001,10 @@ The source's whole argument is that once you can make the few master sauces, you
 | Group | What it is | Examples of what it becomes |
 |---|---|---|
 | **White sauces** | Béchamel and velouté — both use a flour-and-butter roux; béchamel is milk-based, velouté has a fish, meat, or poultry base | Béchamel + grated cheese = *mornay* ([§4.65](#465-sauce-mornay-cheese-sauce)); + minced herbs = *chivry* ([§4.67](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)); white-wine fish velouté + cream, egg yolk, and butter = *sauce parisienne* ([§4.64](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)) |
-| **Brown sauces** | Long-simmered *daubes*, pot roasts, stews, ragouts, sautés, brown fricassees, and roasts all need these. More complicated than the white sauces | *(The source's discussion is on its p. 66–67 — not yet transcribed)* |
-| **Tomato sauce** | Its own group | — |
+| **Brown sauces** | Long-simmered *daubes*, pot roasts, stews, ragouts, sautés, brown fricassees, and roasts all need these. More complicated than the white sauces | Three interchangeable bases — [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) — then eight composed sauces off them, [§4.74](#474-sauce-diable-peppery-brown-sauce)–[§4.81](#481-sauce-périgueux-brown-madeira-sauce-with-truffles). Full discussion in **section F** below |
+| **Tomato sauce** | Its own group. Served as is, flavored with herbs, or combined with other sauces whenever you want a tomato flavoring | [§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce) — the meaty, stock-and-ham version; [§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) — the olive-oil-and-saffron Mediterranean version |
 | **Egg yolk and butter sauces** | The hollandaise family | Flavored with tarragon, pepper, and vinegar = *béarnaise*; with lemon = *hollandaise*; hollandaise with whipped cream folded in = *mousseline*. See [§4.9](#49-hollandaise-sauce), [§4.10](#410-new-orleans-béarnaise-sauce), [§4.11](#411-choron-sauce) |
-| **Oil and vinegar** | The French dressing group | — |
+| **Oil and vinegar** | The French dressing group | **Not transcribed from this source yet** — the only group of the six still open. This cookbook's [§5.19 Brazilian Salad](#519-brazilian-salad) and [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) are oil-and-vinegar in spirit but come from elsewhere |
 | **Flavored butters** | Butters creamed with various herbs, seasonings, or purées | See [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter) |
 
 > **The most important one that isn't in the six, per the source:** the hot butter sauce ***beurre blanc***, *"a signature of the nouvelle cuisine which emerged in the early 1970s. Originally it was a specialty sauce reserved usually for boiled fish and vegetables, but, easy to make (once you know how!), it has become the ubiquitous restaurant sauce for all manner of fish, meat, and fowl."* Not transcribed here yet.
@@ -7914,6 +8086,33 @@ The source's brown stock recipes are on its p. 107–110 — not yet transcribed
 - Optional: 1 Tbsp tomato paste
 
 Simmer the canned bouillon with the rest of the ingredients for 20 to 30 minutes. Strain through a fine sieve, and the bouillon is ready to be turned into a sauce.
+
+#### I. Other Brown Sauces — Where the Rest of the Family Lives
+
+Five more brown sauces exist in this source but aren't in the sauce chapter — they're folded into recipes elsewhere in the book. **Listed here so the family is complete on paper even though these pages aren't transcribed yet**, with what each one is and where to find it.
+
+| Sauce | What it is | Also good with | Source page |
+|---|---|---|---|
+| **Brown deglazing sauce** | Cooking juices dissolved in the roasting or sautéing pan with wine or stock after the meat comes out, boiled down to syrupy, then a lump of butter swirled in off heat for a slight liaison. *"One of the most delicious, useful, and simple of all the brown sauces"* | — | Illustrated under roast chicken, p. 240 |
+| **Sauce à l'Italienne** | Brown sauce with ham, mushrooms, and herbs | Brains, sautéed liver, egg dishes, pastas | Under braised sweetbreads, p. 411 |
+| **Sauce Bordelaise** | Red wine sauce with beef marrow | Steaks, hamburgers, egg dishes | Under *rognons de veau à la bordelaise*, p. 419 |
+| **Sauce à l'Orange** | Brown sauce with orange flavoring and orange peel | Baked ham, roast pork | Under *canard à l'orange*, p. 276 |
+| **Sauce Bourguignonne** | Red wine sauce, always with a garniture of bacon, mushrooms, and braised onions | Sweetbreads or brains, sautéed beef, chicken | Under poached eggs *à la bourguignonne*, p. 121 — *boeuf bourguignon* p. 315 and *coq au vin* p. 263 are examples |
+
+> **The brown deglazing sauce is already in this cookbook under another name.** It's the same technique as **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** — deglaze the pan, reduce hard, swirl in cold butter off heat. If you want this one, you already have it; §T8 is the version to cook from.
+
+> **Also cross-referenced out of the chapter: Sauce Chasseur** *(Brown Mushroom Sauce with Fresh Tomatoes, Garlic, and Herbs)* — *"almost the same as sauce duxelles, but a bit more hearty in flavor."* Lives under *escalopes de veau chasseur*, p. 368. See [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce).
+
+#### J. What's Still Open in This Chapter
+
+Keeping the gaps visible so the chapter reads as one piece rather than a pile of entries:
+
+- **The oil-and-vinegar group** — the only one of the six mother groups with nothing transcribed.
+- ***Beurre blanc*** — named by the source as the most important sauce outside the six, but its recipe isn't on the transcribed pages.
+- **Cream sauce (source p. 59)** — offered as an alternative base in [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) and [§4.67 Sauce Chivry](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce). Both work fine on plain [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) in the meantime.
+- **A second Sauce Soubise (source p. 355)** — the book prints an alternate version in its Veal section. [§4.69](#469-sauce-soubise-onion-sauce) is the sauce-chapter one.
+- **Clarified butter (p. 15)**, **meat glaze (p. 110)**, **brown stock (p. 107–110)**, **white stocks (p. 109, 114, 115, 237)**, and **peeling/seeding tomatoes (p. 505)** — supporting techniques the recipes cite. [§T12](#t12-fast-homemade-chicken-broth) and [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) cover the stock ground already.
+- **The five sauces in section I above**, plus Sauce Chasseur — all real recipes, just printed in other chapters.
 
 *No Nutrition block or difficulty badge on this one — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T7](#t7-louisiana-language--ingredients), it's pure reference rather than something you cook, so it stays out of the [Difficulty & Time Index](#difficulty--time-index) counts. The sauces built from it carry their own.*
 

@@ -222,6 +222,7 @@ Click any recipe to jump straight to it.
 - [8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) ✅
 - [8.18 Gazpacho](#818-gazpacho) ✅
 - [8.19 Crawfish Bisque (Bisque d'Écrevisses)](#819-crawfish-bisque-bisque-décrevisses) ✅
+- [8.20 Six-Onion Soup](#820-six-onion-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -278,6 +279,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Fourth recipe from The Silver Palate Cookbook: [§8.20 Six-Onion Soup](#820-six-onion-soup)**, p. 229 — a puréed soup running through onions, leeks, shallots, and garlic, finished with heavy cream and simmered scallions. Its own "Shallots" sidebar confirms the source ("When we opened The Silver Palate years ago..."), matching [§7.52](#752-chicken-marbella), [§8.17](#817-minted-sweet-pea-and-spinach-soup), and [§8.18](#818-gazpacho). Two references not yet transcribed: Chicken Stock (page 416, the same one [§8.17](#817-minted-sweet-pea-and-spinach-soup) cites) and a crouton technique (page 76). The tail end of a preceding fish-and-raspberry-butter-sauce recipe shares the top of the page — not enough visible to transcribe. |
 | 2026-08-10 | **Third recipe from The Silver Palate Cookbook: [§7.52 Chicken Marbella](#752-chicken-marbella)**, p. 105 — **the most famous recipe in the book, per Cody**, and the source's own text backs that up: it was the first main-course dish The Silver Palate shop ever sold. Chicken quartered and marinated overnight in olive oil, vinegar, prunes, olives, capers, and garlic, then baked with brown sugar and white wine until the juices run clear. A suggested "Country Weekend Lunch" menu box shares the page (Cheese Straws, Crudités and Dips, Semolina Bread, Boucheron Cheese, Lime Mousse, Chocolate Chip Cookies) — none of those are transcribed, just noted in case they turn up later. Filed at [§7.52](#752-chicken-marbella), keeping it with the other chicken mains rather than in §8 alongside this source's two soups. |
 | 2026-08-10 | **[§8.19 Crawfish Bisque (Bisque d'Écrevisses)](#819-crawfish-bisque-bisque-décrevisses)** — Paul and K's recipe from **The Prudhomme Family Cookbook**, the single most complex recipe in this cookbook by the source's own admission. Crawfish boil and purge, stock strained through cheesecloth, tails peeled and heads cleaned by hand, a cornbread stuffing packed into the heads and baked, a proper dark roux, and the whole thing assembled the next day — genuinely a two-day, all-hands project, the same scale as [§1 Cody's Pho](#1-codys-pho) but rated 🔴 **Hard** rather than Easy, since this one ends in a roux that can burn. **One real inconsistency flagged rather than quietly fixed:** the printed celery total (¾ cup) doesn't reconcile with what the method actually calls for (2¼ cups in the stuffing sauté alone) — the write-up uses an inferred ~3 cups, matching the pattern of the other aromatics, with the discrepancy noted in place of a silent correction. Two source references (Bobby's Cornbread, p. 278, and the source's own roux page) and two unrelated page-fragment titles are noted but not transcribed. Updated the Difficulty & Time Index's Hard-recipe count (seven → ten, catching two 🔴 entries — [§14.2](#142-sugared-berries-with-crème-anglaise) and [§14.5](#145-pumpkin-chiffon-pie) — that had been rated Hard but never folded into that paragraph's count) and added this recipe as a direct counterpoint to Cody's Pho in the "long isn't hard" discussion. |
 | 2026-08-10 | **Second recipe from The Silver Palate Cookbook: [§8.18 Gazpacho](#818-gazpacho)**, p. 68 — a chunky, chilled tomato-vegetable soup, blended in batches and kept a little coarse rather than fully smooth. **Flagged rather than smoothed over: the source calls for 3 raw eggs, and the soup is never heated at any point** — transcribed as printed, with a note that pasteurized eggs substitute cleanly if that's a concern. Also includes the source's own **Gazpacho Cooler** — leftover gazpacho topped with Perrier over ice — folded in as a serving variation rather than a separate numbered entry, the same treatment as [§7.51](#751-boudin-blanc-boudin)'s Fried Boudin Patties. A "Greek Lemon" title peeks in at the bottom of the same page, not yet photographed. |
@@ -572,6 +574,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
+| [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
@@ -12758,6 +12761,84 @@ As a main course, allow about 2 cups of bisque with a portion of stuffed heads p
 **What a serving is:** as a main course, about 2 cups of bisque with a portion of stuffed heads, per the source's own guidance; as an appetizer, about half that.
 
 *The crawfish-boil aromatics — lemons, garlic, bay leaves, purging salt — are all discarded or strained out and aren't counted. Butter, roux oil, and the cornbread stuffing carry most of the fat and carbs; the crawfish itself is lean.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.20 Six-Onion Soup
+
+Transcribed from **The Silver Palate Cookbook**, p. 229 — the *Scallions, Leeks, Garlic, Shallots, and Onions* chapter, confirmed as the same source as [§7.52 Chicken Marbella](#752-chicken-marbella), [§8.17](#817-minted-sweet-pea-and-spinach-soup), and [§8.18](#818-gazpacho) by its own "Shallots" sidebar, which opens *"When we opened The Silver Palate years ago..."* *"The whole array of onions is present in this rich and creamy soup. Float croutons of toasted French bread on the soup and add a sprinkling of chives."*
+
+> **Two source references not yet transcribed:** Chicken Stock (page 416) — the same one cited by [§8.17](#817-minted-sweet-pea-and-spinach-soup); a general chicken stock substitutes fine — and a toasted-French-bread-crouton technique (page 76).
+
+> **The tail end of a preceding fish recipe shares the top of this page**, cut off before its title, ingredients, or most of its method — a fillet finished with a raspberry butter sauce and crème fraîche, served over spinach, serves 2. Not enough to transcribe on its own.
+
+**Yield:** 4 to 6 portions
+
+**🟢 Easy** · **Prep ~20 min** *(cleaning and chopping four onion-family vegetables — the leeks especially need a thorough rinse)* · **Cook ~1 hr** *(25 min sweating the vegetables, 20 min simmer, plus straining, puréeing, and a final 5 min with the scallions)* · **Start to finish ~1 hr 20 min**
+
+#### A. Ingredients
+
+- 4 Tbsp (½ stick) unsalted butter
+- 2 cups finely chopped yellow onions
+- 4 large leeks, white parts only, well rinsed and thinly sliced
+- ½ cup chopped shallots
+- 4 to 6 garlic cloves, peeled and minced
+- 4 cups Chicken Stock *(page 416 — not yet transcribed; a general chicken stock substitutes)*
+- 1 tsp dried thyme
+- 1 bay leaf
+- Salt and freshly ground black pepper, to taste
+- 1 cup heavy cream
+- 3 scallions (green onions), trimmed, well rinsed, and cut into ½-inch pieces
+- Toasted French bread croutons, for garnish *(technique on page 76 — not yet transcribed)*
+- Snipped fresh chives and scallion greens, for garnish
+
+#### B. Cooking Instructions
+
+**1. Sweat the onions, leeks, shallots, and garlic. About 25 minutes.**
+Melt the butter in a large heavy pot over low heat. Add the onions, leeks, shallots, and garlic and cook, covered, over low heat until the vegetables are tender and lightly colored.
+
+**2. Add the stock and simmer. 20 minutes.**
+Add the stock, thyme, and bay leaf, and season with salt and pepper. Bring to a boil, reduce the heat, and cook, partially covered, for 20 minutes.
+
+**3. Strain and purée.**
+Pour the soup through a strainer set over a bowl. Transfer the solids and 1 cup of the strained liquid to a food processor — or use a food mill fitted with a medium disc — and purée.
+
+**4. Recombine, add the cream, and finish with the scallions. 5 more minutes.**
+Return the purée and the remaining 3 cups of liquid to the pot. Whisk in the heavy cream, set over medium heat, and bring to a simmer. Add the scallions and simmer until tender, about 5 minutes more.
+
+**5. Garnish and serve.**
+Ladle into heated bowls and garnish with toasted French bread croutons, snipped fresh chives, and scallion greens.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 4 Tbsp (½ stick)
+- 🛒 Yellow onions — 2 cups finely chopped
+- 🛒 Leeks — 4 large, white parts only
+- 🛒 Shallots — ½ cup chopped
+- 🛒 Garlic — 4 to 6 cloves
+- 🛒 Chicken stock — 4 cups
+- 🛒 Dried thyme — 1 tsp
+- 🛒 Bay leaf — 1
+- 🛒 Salt and black pepper
+- 🛒 Heavy cream — 1 cup
+- 🛒 Scallions — 3
+- 🛒 French bread — for croutons
+- 🛒 Fresh chives — for garnish
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,850 | 135 g | 28 g | 132 g | 14 g |
+| **Per serving** *(serves 5, midpoint of 4–6)* | ~370 | 27 g | 6 g | 26 g | 3 g |
+
+**What a serving is:** about 1 to 1½ cups, with croutons and a sprinkle of chives.
+
+*Butter and heavy cream carry most of the fat; the four alliums — onions, leeks, shallots, and garlic — carry most of the carbs and fiber.*
 
 [↑ Table of Contents](#table-of-contents)
 

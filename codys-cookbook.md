@@ -114,8 +114,6 @@ Click any recipe to jump straight to it.
   - [T6. Seafood Notes](#t6-seafood-notes) ✅
   - [T7. Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) ✅
   - [T8. Pan Sauce Formula](#t8-pan-sauce-formula) ✅
-  - [T9. Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) ✅
-  - [T10. Loaded Frittata Formula](#t10-loaded-frittata-formula) ✅
   - [T11. How to Sauté (Master Technique for Sautéed Cuts)](#t11-how-to-sauté-master-technique-for-sautéed-cuts) ✅
   - [T12. Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) ✅
   - [T13. Basic Stock Formula (Fowl, Beef, Pork & Seafood)](#t13-basic-stock-formula-fowl-beef-pork--seafood) ✅
@@ -239,6 +237,7 @@ Click any recipe to jump straight to it.
 
 **[8. Soups & Chili](#8-soups--chili)**
 
+- [**8.0 The Hearty Main Course Soup Formula**](#80-the-hearty-main-course-soup-formula) ✅ — *the foundation the soups below vary on*
 - [8.1 Chili](#81-chili) ✅ ❤️
 - [8.2 Soups](#82-soups) ○ ❤️
 - [8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ✅ ❤️
@@ -285,6 +284,7 @@ Click any recipe to jump straight to it.
 
 **[10. Breakfast](#10-breakfast)**
 
+- [**10.0 The Loaded Frittata Formula**](#100-the-loaded-frittata-formula) ✅ — *the foundation the egg dishes below vary on*
 - [10.1 Huevos Rancheros](#101-huevos-rancheros) ○
 - [10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) ○
 - [10.3 Bacon and Eggs](#103-bacon-and-eggs) ○
@@ -321,6 +321,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-12 | **Structural fix, per Cody: the two foundational recipe formulas are no longer filed as cooking methods.** He's right that they were — they sat in the Techniques section as §T9 and §T10, alongside genuine methods like roux and sautéing, and that conflated two different kinds of thing. **A formula that dishes are variations on belongs with those dishes, ahead of them.** So: **§T9 Hearty Main Course Soup Formula → [§8.0 The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula)**, now opening §8 ahead of all twenty soups; and **§T10 Loaded Frittata Formula → [§10.0 The Loaded Frittata Formula](#100-the-loaded-frittata-formula)**, now opening §10 ahead of the egg dishes. The **.0** numbering is deliberate — it puts each formula first in its section rather than appended at the end, which is the whole point of the move. **The frittata's home is §10 Breakfast because that's where the egg dishes are** — there are no separate numbered frittata recipes to sit beside, since its eight named variations live inside the entry itself as a slot table, and [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) was already cross-linking to it. **§T8 Pan Sauce Formula deliberately stays in Techniques** — it's a component you build in a pan you've already got going, not a dish anyone sets out to make. **The vacated T9 and T10 numbers are left empty rather than renumbering T11–T28** and every reference to them; the Techniques quick index keeps a pointer row for each, so a mid-cook lookup still lands in the right place. Bookkeeping: TOC entries relocated into their sections, both Difficulty & Time Index rows relabeled, and every cross-reference in the cookbook repointed. **Two historical changelog rows were touched rather than silently rewritten** — the entries that originally announced these as §T9 and §T10 said they were "filed as a technique," which is no longer true, so each now carries its original number, a pointer to where it went, and an "at the time" marker. **One pre-existing fragility fixed while in the area:** §T11's link to *"§T8's list"* pointed at a bare `#e-grocery-shopping-list` anchor, which resolves to whichever "E. Grocery Shopping List" heading comes first in the document — it happened to be §T8's, but any reordering could have silently repointed it. Now links to §T8 directly. |
 | 2026-08-12 | **[§T28 Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) added, and both sous vide entries now carry full rub and sauce cross-reference tables** — per Cody's request to "give the reference back to the different rubs for both the steak and the chicken" and to map out what sauces can go on sous vide chicken. The chicken method is [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s twin with a different dial setting: 148°F for 1½ to 4 hours *(Cody's own note: the range is driven by thickness and how tender you want it)*, same dry-pat, avocado-oil spray, and 30–45 second cast iron sear. **No temperature caveat needed here** — unlike §T27's 129°F, which had to be reconciled against [§1 Cody's Pho](#1-codys-pho)'s sous vide rule, 148°F sits far above that range and pasteurizes chicken in minutes. **Answering Cody's question straight: there is no dedicated chicken rub in this cookbook** — nothing is titled for chicken the way [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) is titled for steak — **but five existing rubs name chicken in their own source text**, four of them printing a dose for a 4 lb chicken ([§4.27 Cajun](#427-cajun-rub), [§4.31 Mediterranean Herb](#431-mediterranean-herb-rub), [§4.26 Basic Barbecue](#426-basic-barbecue-rub), [§4.30 Mucho Macho](#430-mucho-macho-pepper-rub), [§4.33 Sesame](#433-sesame-seasoning)), so it's a naming gap rather than a real one. **The sauce tables are built from the sources' own "For:" lines rather than assembled by guesswork** — which is what makes chicken the better-served of the two: the entire French white-sauce family ([§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)–[§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)) exists for poultry, and six brown sauces name chicken outright. **Two honest flags in those tables:** [§4.33 Sesame Seasoning](#433-sesame-seasoning) is a *finishing* seasoning per its own source ("sprinkled on after the food comes off the grill"), so it goes on after the sear rather than into the bag; and [§4.80 Sauce Madère](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)'s source line names chicken *livers* rather than chicken generally — noted as such, with [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) cited as this cookbook's own proof the pairing works. The suggestion to save the bag juices for a [§T8 pan sauce](#t8-pan-sauce-formula) in the sear pan is marked as mine, not Cody's. |
 | 2026-08-12 | **A new technique, dictated directly by Cody: [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** Season, bag, sous vide at 129°F for 6 to 8 hours, pat bone-dry, spray with avocado oil, and sear 30–45 seconds a side in a screaming-hot cast iron pan. **One thing flagged rather than silently applied:** [§1 Cody's Pho](#1-codys-pho) already has an established rule against running sous vide at 129°F, specifically because that's *not high enough for a multi-day cook* — this entry explains why that rule doesn't apply here (a 6–8 hour single-cut cook pasteurizes well within the first few hours; the pho warning is about *C. perfringens* having room to grow across 24–36 hours at that temperature, not about 129°F itself being unsafe). Also carried over from the same established facts: no fresh garlic in the bag, dry rub only. Rated 🟡 Medium — the sous vide stage is foolproof, but the final sear is a genuine seconds-scale fail window against meat that's already perfectly cooked. **Also fixed in passing:** the T-section quick-index table at the top of §T was missing rows for T25 and T26 (added alongside T27's own row) — a bookkeeping gap that predates this entry. |
 | 2026-08-12 | **Double-check pass over [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole), four fixes.** (1) The garbled-fragment note had reasoned that the cheese-and-breadcrumbs fragment above the recipe might belong to Moussaka — wrong on re-inspection: Moussaka is printed on page 349 in the Lamb chapter, and the p. 505 mention is only a cross-reference pointer, so the fragment is the tail end of the *preceding* (unphotographed) recipe in the chapter's eggplant section; entry and changelog both corrected. (2) Removed a "season lightly as you go" sentence from the layering step that wasn't in the source — the source seasons each component as it cooks and then corrects seasoning once during the final simmer. (3) The skillet ingredient trimmed back to the source's own wording ("A 10- to 12-inch enameled skillet"). (4) The seed-and-juice technique's cold-stuffing note (salt the interiors, invert in a colander) added as a marked not-needed-here aside, so the folded-in p. 505–506 technique is complete rather than partial. Also added the source's own bracket subtitle to the intro. Validation re-run: 0 missing anchors, badge/nutrition/index parity 215/215/215. |
@@ -411,7 +412,7 @@ Click any recipe to jump straight to it.
 | 2026-08-09 | **Slow cook is now its own time category, per Cody — and the [project instructions](CLAUDE.md) were revised to make it a standing rule.** Times are cut three ways instead of two: **Prep · Cook · Slow cook**. The rule added to CLAUDE.md §3a: a multi-hour hands-off stretch never goes in the Cook field, because a brisket or a crock pot takes ten minutes to *make* and eight hours to *finish* — counting that as cook time makes the easiest recipes look like the most demanding. Slow cook covers smoking, low-oven roasts and turkey, crock pot, long braises and bean pots, stock and pho broth, sous vide, and dehydrating; roughly 2 hr+ hands-off, or any length for those methods. All 32 existing badges re-cut, the index gains a Slow cook column and re-sorts by prep + cook, and a note flags that **§6 Smoked Meats will all be Slow cook** when written up. |
 | 2026-08-09 | Added **[§7.21 Fried Chicken (Low-Carb, Whey-Breaded)](#721-fried-chicken-low-carb-whey-breaded)** — transcribed from a printed keto cookbook page. Whey protein powder replaces flour as the breading, so it deep-fries crisp at ~2 g net carbs. Carries the source's own hard warning inline: **no air fryer** — the whey breading needs hot oil to set. Cross-linked to **[§T3](#t3-butter-oil-pan-frying--frying)** for the frying keys, and noted as a deep-fry exception to **[§T2](#t2-hot-pan-first-then-oil)**'s hot-pan rule. Source nutrition panel kept. |
 | 2026-08-09 | Added **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers)** as a placeholder — Cody calls it one of his all-time top snacks, recipe to come. |
-| 2026-08-09 | **Times re-cut to separate hands-on work from unattended time, per Cody.** The first pass used prep/cook/total, which badly misrepresented anything that simmers, bakes, smokes, or sits in a crock pot — it made [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) (25 min of work, then 8 hr of walking away) look like the biggest commitment in the cookbook. Every badge now reads **Hands-on · Unattended *(what you're waiting on)* · Start to finish**, and the **[Difficulty & Time Index](#difficulty--time-index)** re-sorts by hands-on time and names what each unattended stretch actually is. The reverse case is called out too: [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have **zero** unattended time, so a 45-minute Crawfish Elegante costs more of an evening than a 4-hour chili. |
+| 2026-08-09 | **Times re-cut to separate hands-on work from unattended time, per Cody.** The first pass used prep/cook/total, which badly misrepresented anything that simmers, bakes, smokes, or sits in a crock pot — it made [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) (25 min of work, then 8 hr of walking away) look like the biggest commitment in the cookbook. Every badge now reads **Hands-on · Unattended *(what you're waiting on)* · Start to finish**, and the **[Difficulty & Time Index](#difficulty--time-index)** re-sorts by hands-on time and names what each unattended stretch actually is. The reverse case is called out too: [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§10.0 Frittata](#100-the-loaded-frittata-formula) have **zero** unattended time, so a 45-minute Crawfish Elegante costs more of an evening than a 4-hour chili. |
 | 2026-08-09 | **Every written-up recipe now carries a difficulty rating and timing.** A badge sits above the ingredients of all 32 completed entries, plus a new **[Difficulty & Time Index](#difficulty--time-index)**. **Difficulty means technique risk, not effort** — an 8-hour slow cooker is 🟢 Easy because none of those hours need you, while the 15-minute roux is 🔴 Hard. Only four recipes are 🔴 Hard, and three are the same underlying skill (roux). Placeholders are unrated; §11.4's existing prep/cook line was merged into its badge to avoid stating the same times twice. |
 | 2026-08-09 | **[§9.6 Beef Jerky](#96-beef-jerky) — corrected to ground beef, 95% lean.** The card just said "1 lb of meat," and it was written up guessing sliced whole-muscle beef; Cody confirmed it's ground. Ingredients, method (mixed in like a meatloaf rather than marinated as slices, then formed with a jerky gun or by hand), and grocery list all updated. Open Questions swapped accordingly — the old "cut and slice thickness" question is gone since that no longer applies; new ones cover forming method and whether the mix rests before shaping. |
 | 2026-08-09 | Added four recipes transcribed from a photo of loose recipe cards: **[§8.6 Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup)** (printed page, a puréed soup), **[§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)** (handwritten card, no quantities given), **[§9.6 Beef Jerky](#96-beef-jerky)** (handwritten seasoning note with a corrected dehydrator time — two earlier timings crossed out on the card itself), and **[§9.7 Chicken Salad](#97-chicken-salad)** (handwritten, a to-taste build-your-own). Several Open Questions flagged rather than guessed past: §8.6's Skillet Cornbread cross-reference isn't in this cookbook; §8.7 lists whipping cream as an ingredient but never says when it's added, and has no quantities or oven info at all; §9.6's final dehydrator timing has no temperature written next to it, only the two rejected attempts that came before it. |
@@ -421,12 +422,12 @@ Click any recipe to jump straight to it.
 | 2026-08-09 | Added **[§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)** — transcribed from a printed cookbook page, from the same source book as **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** (same missing "Basic Seafood Stock" reference). A seafood counterpart to **[§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo)**, cross-linked both ways, and added to **[§T1](#t1-how-to-make-a-roux)**'s "Used in" line and the **[§T7 glossary's Gumbo entry](#t7-louisiana-language--ingredients)**. **Flagged rather than guessed:** the source's instructions for the final step — adding the shrimp, oysters, and crabmeat — were hard to read cleanly off the page; reconstructed to the standard gumbo move (brief heat, don't overcook delicate seafood) and marked as the least certain part of the transcription in Open Questions. Also missing: the source's own "Basic Cooked Rice" recipe (page 224) — plain white rice substituted. |
 | 2026-08-09 | Added **[§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya)** — transcribed from a printed cookbook page, a second and more seafood-forward jambalaya alongside **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)** (cross-linked both ways, and from the **[§T7 glossary's Jambalaya entry](#t7-louisiana-language--ingredients)**). Three transcription ambiguities flagged in Open Questions rather than silently resolved: the source's "Basic Seafood Stock (page 32)" and "Creole Sauce (page 248)" aren't in this cookbook, and the instructions wrap across a page break in a way that left the exact wording around adding the chicken, and around a possible duplicate rice addition, uncertain — both reconstructed to the most sensible reading and flagged for confirmation against the original page. |
 | 2026-08-09 | Added **[§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)** — transcribed from a printed lifesambrosia.com recipe. Filed alongside §5.9 Goat Cheese Salad as the cookbook's second salad. Noted inline that the card's 5-minute pasta cook time runs short for rotini — go by the package. Open Question flagged on when the avocado goes in, since it's sliced into a salad that then chills 30 minutes, and sliced avocado browns fast. |
-| 2026-08-09 | Added **[§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth)** — a rotisserie-chicken carcass plus a quart of store-bought broth, simmered 30 minutes into 2 quarts. Wired to **[§T9's rotisserie-chicken tip](#f-tips-and-tricks)** both ways, since the same bird that gives you the shredded meat also gives you the bones for this broth. **Distinguished from [§T4](#t4-stocks--ingredient-conventions)** rather than left to overlap with it — §T4 is the from-scratch, hours-long stock; §T12 is the fast doctor-up built to match how quick the rest of Cody's soup formulas are meant to be. |
+| 2026-08-09 | Added **[§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth)** — a rotisserie-chicken carcass plus a quart of store-bought broth, simmered 30 minutes into 2 quarts. Wired to **[§8.0's rotisserie-chicken tip](#f-tips-and-tricks)** both ways, since the same bird that gives you the shredded meat also gives you the bones for this broth. **Distinguished from [§T4](#t4-stocks--ingredient-conventions)** rather than left to overlap with it — §T4 is the from-scratch, hours-long stock; §T12 is the fast doctor-up built to match how quick the rest of Cody's soup formulas are meant to be. |
 | 2026-08-09 | Added **[§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)** — the master technique plus the three cuts it's written for (chicken breasts, boneless pork loin chops, white-fleshed fish fillets) with each one's timing and prep. **Conflict flagged and reconciled:** this technique starts butter and oil in a *medium-low* pan, which directly contradicts **[§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)**. Both are right for their case, so §T2 now lists butter-sautéing alongside deep frying as a named exception and carries an *Exceptions* line up top; §T11 explains why (the butter is the thermometer). Also wired: §T11 ↔ **[§T8 Pan Sauce](#t8-pan-sauce-formula)** as two halves of one skillet, and the **[§7.3 Flounder](#73-seafood-stuffed-flounder)** and **[§7.4 Pork Chops](#74-pork-chops)** stubs now point at §T11 for method. *The source's All-Purpose Salsa and uncooked relishes (its pages 210–211) weren't photographed — noted inline as a gap.* |
-| 2026-08-09 | Added **[§T10 Loaded Frittata Formula](#t10-loaded-frittata-formula)** — the third slot formula, after §T8 pan sauces and §T9 soups, with all 8 named frittatas as a table and an *At a glance* summary. Filed in the Techniques section for the same reason as the other two: it's a template, not a dish. **[§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)** now cross-links to it. **Two things flagged inline:** the source's own vegetable/protein/cheese/herb category lists (its pages 75–77) weren't in the photographed pages, so Part B is reconstructed from the named suggestions and points at [§T9 Part C](#c-vegetables-1-pound) for prep cuts until those pages turn up; and the earlier note reserving §T10 for the creamy soup formula is corrected — T-numbers go in arrival order, so the creamy formula takes the next free one. |
-| 2026-08-09 | **[§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) — tomatoes removed, per Cody.** The open question from the previous entry is settled: no canned tomatoes in this soup. Propagated to the ingredients, Step 2, the grocery list, and the **[§T9 Part G](#g-suggestions--9-named-soups)** table row, which now reads *omit the tomatoes*. **Flagging the conflict:** this is a deliberate deviation from the source page, which listed no omit-tomatoes note for this soup (it does for two others) — Cody's version wins, and the source's default is noted inline so the difference is visible rather than silently overwritten. |
-| 2026-08-09 | Completed **[§T9](#t9-hearty-main-course-soup-formula)** with its Suggestions — **[Part G](#g-suggestions--9-named-soups)** now carries all nine named soups as a slot table (protein / vegetables / starch / flavorings, plus each one's exceptions), and an *At a glance* three-line summary was added up top. **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** ⭐ was promoted out of that table into a full write-up — Cody's stated favorite, so it gets real quantities and step-by-step rather than a table row. Its **Open Questions** flag one genuine ambiguity: the source never says to omit the tomatoes for this soup, so they're written in, but that's worth confirming against how Cody actually makes it. |
-| 2026-08-09 | Added **[§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula)** — filed as a technique alongside §T8's pan sauces, since it's a formula (protein / vegetables / starch / broth / flavoring) rather than one dish. Written from Cody's own rewrite of the source pages, reformatted into house two-layer style. **[§8.2 Soups](#82-soups)** now points at it: Cody has specific soups coming that build on this formula, and each will get its own §8.x entry referencing §T9 for the method rather than repeating it. *Note: the source chapter carries a second, smooth-and-creamy soup formula that isn't in this cookbook yet — it becomes §T10 when added.* |
+| 2026-08-09 | Added **[§10.0 Loaded Frittata Formula](#100-the-loaded-frittata-formula)** *(added as §T10 — [moved to §10.0 on 2026-08-12](#100-the-loaded-frittata-formula), see the top entry)* — the third slot formula, after §T8 pan sauces and the soup formula, with all 8 named frittatas as a table and an *At a glance* summary. Filed in the Techniques section **at the time**, for the same reason as the other two: it's a template, not a dish. **[§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles)** now cross-links to it. **Two things flagged inline:** the source's own vegetable/protein/cheese/herb category lists (its pages 75–77) weren't in the photographed pages, so Part B is reconstructed from the named suggestions and points at [§8.0 Part C](#c-vegetables-1-pound) for prep cuts until those pages turn up; and the earlier note reserving that T-number for the creamy soup formula is corrected — T-numbers went in arrival order, so the creamy formula takes the next free one. |
+| 2026-08-09 | **[§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) — tomatoes removed, per Cody.** The open question from the previous entry is settled: no canned tomatoes in this soup. Propagated to the ingredients, Step 2, the grocery list, and the **[§8.0 Part G](#g-suggestions--9-named-soups)** table row, which now reads *omit the tomatoes*. **Flagging the conflict:** this is a deliberate deviation from the source page, which listed no omit-tomatoes note for this soup (it does for two others) — Cody's version wins, and the source's default is noted inline so the difference is visible rather than silently overwritten. |
+| 2026-08-09 | Completed **[§8.0](#80-the-hearty-main-course-soup-formula)** with its Suggestions — **[Part G](#g-suggestions--9-named-soups)** now carries all nine named soups as a slot table (protein / vegetables / starch / flavorings, plus each one's exceptions), and an *At a glance* three-line summary was added up top. **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** ⭐ was promoted out of that table into a full write-up — Cody's stated favorite, so it gets real quantities and step-by-step rather than a table row. Its **Open Questions** flag one genuine ambiguity: the source never says to omit the tomatoes for this soup, so they're written in, but that's worth confirming against how Cody actually makes it. |
+| 2026-08-09 | Added **[§8.0 Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula)** *(added as §T9 — [moved to §8.0 on 2026-08-12](#80-the-hearty-main-course-soup-formula), see the top entry)* — filed as a technique **at the time**, alongside §T8's pan sauces, since it's a formula (protein / vegetables / starch / broth / flavoring) rather than one dish. Written from Cody's own rewrite of the source pages, reformatted into house two-layer style. **[§8.2 Soups](#82-soups)** now points at it: Cody has specific soups coming that build on this formula, and each will get its own §8.x entry referencing §8.0 for the method rather than repeating it. *Note: the source chapter carries a second, smooth-and-creamy soup formula that isn't in this cookbook yet — when it arrives it lands in §8 alongside this one.* |
 | 2026-08-09 | **Every technique section now carries a Grocery Shopping List.** §T2–§T8 previously had none, on the reasoning that techniques aren't recipes; per Cody, they get one anyway. Each is a pantry/staples list for that technique rather than a per-dish list — the oils §T2 assumes, the frying fats in §T3, stock bones plus the three hard no's in §T4, the standing pepper shelf in §T5, the fish-market list in §T6, Louisiana specialty items in §T7, and a buy-per-sauce menu for §T8's 20 combinations. §T1 already had one. The only sections still without a list are §3 and the §5–§11 stubs, which have no ingredients documented yet. |
 | 2026-08-09 | Added **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** — transcribed from a photographed cookbook page. A reusable technique, not a single dish, so it went in the Techniques section alongside §T1's roux rather than becoming its own numbered recipe: a master method (deglaze, reduce by half, whisk in an enrichment) plus a 20-sauce reference table of Liquid/Flavorings/Enrichment combinations to pair with whatever's coming out of the pan. |
 | 2026-08-09 | Added **[§4.5 Pickled Pink Onions](#45-pickled-pink-onions)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings, Sauces & Condiments* to cover it, since it's a fridge-staple condiment in the same standalone-component mold as the section's rubs and sauces. |
@@ -629,8 +630,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) | 🟡 | 10 min | 35 min | — | 45 min |
 | [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) | 🟢 | 10 min | 35 min | — | 45 min |
-| [§T9 Hearty Soup Formula](#t9-hearty-main-course-soup-formula) | 🟢 | 20 min | 25 min | — | 45 min |
-| [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
+| [§8.0 Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) | 🟢 | 20 min | 25 min | — | 45 min |
+| [§10.0 Loaded Frittata Formula](#100-the-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
@@ -690,7 +691,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
 
-**The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
+**The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§10.0 Frittata](#100-the-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
 **30 minutes of work or less — 108 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
@@ -721,7 +722,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🔖 | **Want to try** — written up but never cooked yet |
 | *(unmarked)* | **Not rated yet** — see the gap list at the bottom |
 
-**⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§T9](#t9-hearty-main-course-soup-formula), [§T10](#t10-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
+**⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
 ### ❤️ Family favorites — 51
 
@@ -1623,7 +1624,7 @@ The source serves it over **Stuffed Mirliton** (p. 72 — *[mirliton is chayote;
 - **Stuffed fish** — including [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder), which names this sauce directly
 - Vegetables
 - Pasta
-- Omelets — *worth remembering for [§10.2](#102-egg-omelette-scrambles) and [§T10 Loaded Frittata](#t10-loaded-frittata-formula)*
+- Omelets — *worth remembering for [§10.2](#102-egg-omelette-scrambles) and [§10.0 Loaded Frittata](#100-the-loaded-frittata-formula)*
 
 #### E. Open Questions
 
@@ -6329,6 +6330,8 @@ For shirred eggs or poached calf's brains, make it separately so you can pour th
 
 Every technique that spans more than one dish lives here, once, and recipes point at it. Each entry is tagged so it's easy to jump straight to the right one mid-cook — if a recipe says *pan fry* or *make a roux*, the how-to is here, not re-explained in the recipe.
 
+> **T9 and T10 are deliberately absent — they moved, per Cody.** The **Hearty Main Course Soup Formula** and the **Loaded Frittata Formula** aren't cooking methods; they're the foundational recipes their sections' dishes are variations on. They now open those sections instead: **[§8.0](#80-the-hearty-main-course-soup-formula)** ahead of the soups, **[§10.0](#100-the-loaded-frittata-formula)** ahead of the egg dishes. Their old T-numbers are left vacant rather than renumbering T11–T28 and every reference to them; the quick index below still points to both.
+
 **Quick index:**
 
 | # | Technique | Tags |
@@ -6341,8 +6344,8 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T6](#t6-seafood-notes) | Seafood Notes | `seafood` `crawfish` `shrimp` `oysters` |
 | [T7](#t7-louisiana-language--ingredients) | Louisiana Language & Ingredients | `glossary` |
 | [T8](#t8-pan-sauce-formula) | Pan Sauce Formula | `pan-sauce` `deglaze` `drizzle` `quick-sauce` |
-| [T9](#t9-hearty-main-course-soup-formula) | Hearty Main Course Soup Formula | `soup` `formula` `weeknight` `one-pot` `stew` |
-| [T10](#t10-loaded-frittata-formula) | Loaded Frittata Formula | `frittata` `eggs` `breakfast` `one-pan` `broiler` |
+| ~~T9~~ | **Moved → [§8.0 The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula)** — a recipe foundation, not a cooking method | `soup` `formula` `weeknight` `one-pot` `stew` |
+| ~~T10~~ | **Moved → [§10.0 The Loaded Frittata Formula](#100-the-loaded-frittata-formula)** — a recipe foundation, not a cooking method | `frittata` `eggs` `breakfast` `one-pan` `broiler` |
 | [T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | How to Sauté (Master Technique for Sautéed Cuts) | `saute` `dredge` `searing` `chicken-breast` `pork-chop` `fish-fillet` |
 | [T12](#t12-fast-homemade-chicken-broth) | Fast Homemade Chicken Broth | `broth` `stock` `rotisserie-chicken` `soup-base` `quick` |
 | [T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) | Basic Stock Formula (Fowl, Beef, Pork & Seafood) | `stock` `broth` `basic-stock` `seafood-stock` `chicken-stock` `formula` |
@@ -6916,383 +6919,6 @@ This is a formula, not a fixed recipe — the master method (deglaze, reduce by 
 
 ---
 
-### T9. Hearty Main Course Soup Formula
-
-<!-- TECHNIQUE-TAGS: soup, formula, weeknight, one-pot, stew -->
-**Tags:** `soup` · `formula` · `weeknight` · `one-pot` · `stew`
-**Used in:** [§8.2 Soups](#82-soups) — the base formula for the specific soups Cody has coming
-
-The whole thing fits in your head: 1 pound protein, 1 pound vegetables, 1 quart broth, 1 onion, 1 can tomatoes, one starch (potatoes, rice, pasta, or beans), and something to flavor it. The method is just as short — soften an onion, dump in everything else, bring it up to a simmer, give it about 20 minutes, and eat. A handful of sensible exceptions apply, but it's far better to carry a formula plus its exceptions than to carry no formula at all.
-
-> **This is the chunky one.** The source chapter runs two soup formulas — this hearty, stew-like one, and a second smooth-and-creamy one. **The creamy formula still isn't in this cookbook**; it gets the next free T-number when it arrives. *(§T10 went to the [Loaded Frittata Formula](#t10-loaded-frittata-formula) — formulas are numbered in the order they land here, not by source chapter.)*
-
-**At a glance — the whole thing in three lines:**
-
-1. **Internalize the formula:** 1 onion, 1 lb vegetables, 1 lb protein, 1 quart broth, 1 can tomatoes *(sometimes optional)*, a starch, a couple of tablespoons of oil, and flavorings.
-2. **Know the technique:** sauté the onion, then add the vegetables, protein, starch, tomatoes, broth, and any dried herbs and/or spices.
-3. **Simmer 15 minutes**, then stir in the fresh flavorings.
-
-**🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
-
-#### A. The Master Recipe
-
-*Makes 4 generous servings*
-
-**Ingredients**
-
-- 2 Tbsp olive oil
-- 1 large onion, chopped
-- 1 lb **Protein**, prepped — see [Part B](#b-protein-1-pound)
-- 1 lb **Vegetables**, prepped — see [Part C](#c-vegetables-1-pound)
-- 1 lb **Starch** — see [Part D](#d-starch)
-- 1 can (14.5 oz.) tomatoes, diced or crushed — your call, and occasionally skippable
-- 1 quart chicken broth — *swap in fish or seafood broth when the protein is fish, shrimp, or scallops*
-- **Flavorings** — see [Part E](#e-flavorings)
-- Salt and ground black pepper
-
-**Cooking Instructions**
-
-**1. Soften the onion. 4–5 minutes.**
-Warm the oil in a large pot over medium-high heat, add the chopped onion, and cook just until it starts to soften. You're not caramelizing it — this is a quick head start, not a foundation.
-
-**2. Add nearly everything at once.**
-In go the Vegetables, the Protein, the Starch, the tomatoes, the broth, and any Flavorings that are **dried herbs, woody fresh herbs, or spices**. *Two things stay out:* shrimp and scallops, which go in during the final 5 minutes, and the soft fresh herbs and finishing flavorings, which go in at the end. Anything sturdy enough to take 20 minutes goes in now.
-
-**3. Simmer partially covered. 15–20 minutes.**
-Bring it up to a simmer, drop the heat to medium-low, and cook until the vegetables are tender and everything tastes like it belongs together rather than like separate ingredients sharing a pot. That blending is the actual doneness cue — the clock is a guide.
-
-**4. Stir in the remaining Flavorings and loosen if needed.**
-Soft fresh herbs, citrus juice, and zest go in now. Add more broth or water if it's tightened up. **You're after thick but still juicy** — if a spoon stands up in it, it's gone too far.
-
-**5. Taste, correct, and serve.**
-Adjust the seasoning, including salt and pepper, and serve it up.
-
-> **Note:** Flavorings can be dried or fresh herbs, spices, or other additions such as citrus juice or zest.
-
-#### B. Protein: 1 Pound
-
-For quick weeknight soups, stick to cuts that cook fast. How you handle them varies: some go straight into the pot, either at the start with everything else or right at the end; some go in early and get fished out to be shredded or cut up; and a few get browned in the pot before the onion ever hits it.
-
-**Just add as is**
-
-- **Ham:** Cube or shred it and add it along with the broth.
-- **Smoked and cured sausages, any type:** Slice and add with the broth.
-- **Fish fillets:** Add with the broth, then break them into flakes with a spatula as they cook.
-- **Peeled shrimp:** Cut large ones into bite-size pieces; drop in during the last few minutes.
-- **Bay scallops:** Drop in during the last few minutes.
-
-**Brown and slice**
-
-- **Fresh sausages, any type:** Brown them in the hot pot before you sauté the onion — no need to cook them through. Slice and add with the broth. *Alternatively:* squeeze the raw sausage out of its casing, sauté it, and add the onion right on top; it can stay in the pot.
-
-**Simmer and shred**
-
-- **Boneless, skinless chicken breasts:** Cut crosswise into thirds, add with the broth, pull them out near the end, shred with two forks, and return to the pot.
-- **Boneless, skinless chicken thighs:** Add with the broth, pull out near the end, shred with two forks, and return to the pot.
-- **Pork tenderloin:** Cut crosswise into 2- to 3-inch chunks, add with the broth, pull out near the end, shred with two forks, and return to the pot.
-
-#### C. Vegetables: 1 Pound
-
-Do particular vegetables belong with particular meats? A few pairings are obvious — sausage alongside cabbage and potatoes, chicken with carrots and peas — but you won't find a bad combination among the suggested soup vegetables and any of the meats, poultry, or fish.
-
-**Common soup vegetables**
-
-- **Asparagus:** Snap off the woody ends and cut into 1-inch pieces; split thick spears lengthwise.
-- **Broccoli or cauliflower:** Break into small florets. Peel the tough skin from broccoli stalks and slice them ¼ inch thick. Packaged florets work too.
-- **Brussels sprouts:** Trim the root end. Halve the small ones lengthwise; cut large ones into thick slices.
-- **Turnips, rutabagas, and any winter squash:** Peel and cut into bite-size chunks, seeding the squash.
-- **Cabbage:** Halve, core, and slice thin.
-- **Carrots or celery:** Medium dice; peel the carrots.
-- **Green beans:** Trim the ends and snap into bite-size lengths.
-- **Green peas, frozen:** Nothing to do.
-- **Beet, turnip, collard, and mustard greens, Swiss chard, kale, and large spinach:** Stem, wash, and chop coarsely — or buy them bagged and prepped.
-- **Bok choy:** Slice the crisp stem thin; chop the leaves coarsely.
-- **Broccoli rabe:** Peel the stems if they're tough, then coarsely chop stems and leaves.
-- **Curly endive and escarole:** Trim the root end, wash, and chop coarsely.
-- **Baby spinach:** Nothing to do beyond making sure it's clean.
-- **Bell peppers:** Stem, seed, and cut into small dice.
-- **Fennel:** Trim off the stalks and fronds, saving the fronds. Halve, core, and cut into small dice.
-- **Leeks:** Cut off and discard the tough dark green tops. Quarter lengthwise, then slice crosswise ½ inch thick. Wash well.
-- **Mushrooms, white or baby bella:** Trim the stem ends, rinse, and slice.
-- **Yellow squash and zucchini:** Trim and cut into small dice.
-
-#### D. Starch
-
-Potatoes are the easy one — a straight pound. Past that the numbers don't line up quite so cleanly, so use the list below.
-
-You can also **run two starches at once** if you want: half a pound of potatoes plus a can of beans, say, or a cup of corn plus a can of beans. And if you already have cooked pasta or rice on hand, use it in place of raw — count on a generous 1½ cups cooked pasta or ¾ cup cooked rice, stirred in during the last few minutes.
-
-- 1 lb potatoes, any variety, diced
-- 2 cans (15 to 16 oz. each) beans or hominy, drained
-- 2 cups corn, fresh or frozen
-- 1½ cups wide or extra-wide egg noodles, **or** ¾ cup bite-size pasta
-- ⅓ cup long-grain white rice
-
-#### E. Flavorings
-
-Herbs and spices are what give a soup its character. The list below isn't exhaustive, but it covers most of the usual suspects and is plenty to get you flavoring soup on your own.
-
-**The timing rule:** dried herbs, woody fresh herbs like rosemary and thyme, and spices go in **at the beginning with the broth**. Soft fresh herbs and everything else go in **during the last few minutes**.
-
-**Dried herbs, woody fresh herbs, and spices — in at the start**
-
-- 1 Tbsp curry powder or garam masala
-- 2 tsp minced fresh rosemary or thyme, or chopped fennel seeds
-- 1 tsp dried thyme, basil, or tarragon, or ground cumin or coriander
-- ½ tsp dried oregano or caraway seeds
-- ¼ tsp hot red pepper flakes
-
-**Fresh herbs and flavorings — in at the end**
-
-- ¼ cup chopped fresh basil
-- 2 Tbsp chopped fresh parsley, cilantro, or mint, **or** lemon or lime juice
-- 1 Tbsp chopped fresh dill or tarragon
-- 1 tsp finely grated lemon zest
-
-#### F. Tips and Tricks
-
-- **Want the green vegetables bright rather than fully cooked?** Hold them until the last 5 minutes instead of adding them with the rest.
-- **Want them cooked through but still want color on the plate?** Throw in a handful of chopped fresh parsley, basil, or cilantro at the very end.
-- **To go vegetarian:** use vegetable broth in place of chicken, leave out the meat, and add a second starch (grains, beans, or potatoes).
-- **To use meat as seasoning rather than substance:** bump the vegetables from 1 lb to 1½ lb and drop the meat from 1 lb to ½ lb.
-- **Vegetable weights don't have to be precise.** Buy a little over a pound so that once you've trimmed everything you land close to a pound.
-- **Deepen a shrimp soup** — time permitting — by simmering the shells in part of the broth for a few minutes. Strain them out before the broth goes into the pot. *(See [§T6](#t6-seafood-notes) on buying shrimp shell-on in the first place.)*
-- **For faster chicken soup**, use 2 to 3 cups of shredded rotisserie chicken in place of breasts or thighs. *(That same rotisserie chicken's carcass makes the broth itself — see [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth).)*
-
-#### G. Suggestions — 9 Named Soups
-
-Each of these plugs straight into the Master Recipe above — the technique never changes, only what fills the four slots. Unless a row says otherwise, the tomatoes stay in and the method is exactly Part A.
-
-| Soup | Protein | Vegetables | Starch | Flavorings | Notes |
-|---|---|---|---|---|---|
-| **Ham & Potato, with Leeks and Peas** | Ham chunk, shredded or diced | 2 small leeks, 2 small carrots, ¾ cup frozen green peas | Red potatoes | 1 tsp dried thyme | **Omit the tomatoes.** |
-| **Sausage, White Bean & Escarole** | Mild or hot Italian sausage links | ½ medium head escarole, 2 medium carrots | Cannellini beans | 2 tsp minced fresh rosemary | Ham is equally good here. *Rosemary is woody* — it goes in at the **beginning** with the broth, not at the end with the soft herbs. |
-| **Sausage, with Mushrooms, Zucchini & Chickpeas** | Mild or hot Italian sausage links | ½ lb white mushrooms, 1 medium zucchini | Chickpeas | 1 tsp ground cumin | Toss the mushrooms in with the sautéing onion if there's time. |
-| **Sausage, with Spinach, Cauliflower & Noodles** | Mild or hot Italian sausage links | ½ lb cauliflower florets, ½ lb spinach | Bite-size pasta — macaroni or bow ties | 1 tsp dried **or** ¼ cup chopped fresh basil | — |
-| **Pork, with Hominy & Peppers** | Pork tenderloin | 1 large bell pepper, 1 medium zucchini or yellow squash | Hominy | 2 Tbsp chopped fresh cilantro | Equally good with ham or chicken. Serve with a squeeze of lime, tortilla chips, and guacamole. |
-| **Chicken Vegetable, with Wide Noodles** | Boneless, skinless chicken thighs or breasts | 2 medium carrots, 2 medium celery stalks, ¾ cup frozen green peas | Wide egg noodles | 1 tsp dried thyme | **Omit the tomatoes.** Peas added at the start go drab — either freshen with a couple Tbsp chopped fresh parsley at the end, or add the peas in the last few minutes instead. Shredded rotisserie chicken works in place of thighs or breasts. |
-| ⭐ **Lemon Chicken, with Spinach & Rice** | Boneless, skinless chicken thighs or breasts | 10 oz. baby spinach, 1 medium zucchini | White rice | 2 Tbsp lemon juice, 1 Tbsp chopped fresh dill | **Cody's favorite — written up in full at [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice).** **Omit the tomatoes** — Cody's call, and a deviation from the source page, which didn't mark this one as an exception. The lemon juice and dill go into the **finished** soup, not the pot. |
-| **Curried Chicken, with Sweet Potatoes, Cauliflower & Spinach** | Boneless, skinless chicken thighs | Cauliflower florets and baby spinach — you decide how much of each | 1 sweet potato (8 oz.) **and** 1 can chickpeas | 1 Tbsp curry powder, 2 Tbsp chopped fresh cilantro | **The two-starch example** — half chickpeas, half sweet potato, to show that two starches can share a pot. Only have one of them? Double it. Curry powder goes into the broth; cilantro tops the finished soup. |
-| **Fish, with Cabbage & Potatoes** | Firm-fleshed white fish — halibut, cod, scrod, or haddock | ¼ medium cabbage, 2 medium celery stalks **or** 1 small fennel bulb | Potatoes | 2 tsp finely chopped fennel seeds, ¼ tsp hot red pepper flakes, 1 tsp finely grated lemon zest, 2 Tbsp lemon juice | **Use fish or seafood broth**, not chicken. Prefer meat? Substitute kielbasa or ham for the fish and drop the lemon zest and juice entirely. A little chopped parsley before serving brightens it. |
-
-#### H. Grocery Shopping List
-
-**Buy per soup, not all at once.** Like [§T8](#t8-pan-sauce-formula), this is a formula rather than a single dish — pick one item from each slot below and that's your list. The five slots are always the same, which is the whole point of carrying the formula.
-
-**🛒 The constants — every version needs these**
-
-- 🛒 ⭐ Olive oil — *2 Tbsp*
-- 🛒 ⭐ Onion — *1 large, per batch*
-- 🛒 ⭐ Chicken broth — *1 quart per batch; buy the box*
-- 🛒 ⭐ Canned tomatoes, diced or crushed — *1 × 14.5 oz.*
-- 🛒 ⭐ Salt and ground black pepper
-
-**🛒 Slot 1 — Protein (1 lb): pick one**
-
-- 🛒 Ham · smoked or cured sausage · fresh sausage
-- 🛒 Boneless skinless chicken breasts or thighs — *or a rotisserie chicken for the fast version*
-- 🛒 Pork tenderloin
-- 🏪 Fish fillets · peeled shrimp · bay scallops (fish market) — *if you go this route, buy **fish or seafood broth** instead of chicken, and buy shrimp shell-on so you can simmer the shells*
-
-**🛒 Slot 2 — Vegetables (1 lb): pick one or mix**
-
-- 🛒 Asparagus · broccoli · cauliflower · Brussels sprouts · cabbage · carrots · celery · green beans · frozen green peas
-- 🛒 Turnips · rutabagas · winter squash · yellow squash · zucchini · potatoes · bell peppers · fennel · leeks · mushrooms
-- 🛒 Greens — beet, turnip, collard, mustard, Swiss chard, kale, spinach, bok choy, broccoli rabe, curly endive, escarole — *bagged and prepped is a legitimate shortcut*
-
-*Buy a little over a pound* so you land near a pound after trimming.
-
-**🛒 Slot 3 — Starch: pick one (or two)**
-
-- 🛒 Potatoes — *1 lb*
-- 🛒 Canned beans or hominy — *2 × 15–16 oz.*
-- 🛒 Corn, fresh or frozen — *2 cups*
-- 🛒 Wide or extra-wide egg noodles — *1½ cups* — **or** bite-size pasta — *¾ cup*
-- 🛒 Long-grain white rice — *⅓ cup*
-
-**🛒 Slot 4 — Flavorings: pick one or two**
-
-- 🛒 *Dried/woody (in at the start):* curry powder or garam masala · fresh rosemary · fresh or dried thyme · fennel seeds · dried basil · dried tarragon · ground cumin · ground coriander · dried oregano · caraway seeds · hot red pepper flakes
-- 🛒 *Fresh/finishing (in at the end):* fresh basil · parsley · cilantro · mint · dill · tarragon · lemons or limes *(for both juice and zest)*
-
-**🛒 For the vegetarian version**
-
-- 🛒 Vegetable broth — *in place of chicken broth*
-- 🛒 A second starch — *grains, beans, or potatoes, to replace the meat*
-
-#### Nutrition *(estimated)*
-
-| | Calories | Fat | Protein | Carbs | Fiber |
-|---|---|---|---|---|---|
-| **Whole dish** | ~1,600 | 63 g | 114 g | 146 g | 26 g |
-| **Per serving** *(serves 4 generously)* | ~400 | 16 g | 29 g | 37 g | 7 g |
-
-**What a serving is:** a generous 1½–2 cup bowl — the formula is built to make 4 of them.
-
-*Figures assume chicken thighs, potatoes as the starch, and a mixed pound of vegetables. Swapping the protein or starch moves these a lot — sausage roughly doubles the fat, beans push fiber well up.*
-
-[↑ Table of Contents](#table-of-contents)
-
----
-
-### T10. Loaded Frittata Formula
-
-<!-- TECHNIQUE-TAGS: frittata, eggs, breakfast, formula, one-pan, broiler, skillet -->
-**Tags:** `frittata` · `eggs` · `breakfast` · `formula` · `one-pan` · `broiler` · `skillet`
-**Used in:** [§10 Breakfast](#10-breakfast) — and any night eggs are dinner
-
-The third of the slot formulas in this cookbook, after [§T8 Pan Sauce](#t8-pan-sauce-formula) and [§T9 Soup](#t9-hearty-main-course-soup-formula). One 12-inch skillet, about half an hour, and it feeds 4 to 6 as a main course. The proportions are almost aggressively easy to remember: **½ pound each of potatoes, vegetables, protein, and onion**, then eggs, cheese, and an herb over the top.
-
-**The one thing to actually understand:** the vegetable slot splits in two by *when* it goes in the pan. **Firm vegetables and hardy greens** steam alongside the potatoes at the start, because they need the time. **Tender vegetables and tender greens** go in later with the onion, because they'd turn to mush if they'd started with the potatoes. Get that split right and the rest is assembly.
-
-**At a glance — the whole thing in five lines:**
-
-1. **Internalize the formula:** ½ lb each potatoes, vegetables, protein, and onion; 1½ cups eggs; 3–4 oz. cheese; a little oil, and herbs.
-2. **Steam** the potatoes — along with the firm vegetables/hardy greens, if using — in a large skillet, then turn them out onto a plate.
-3. **Cook the protein.** Then sauté the onion, along with the tender vegetables/tender greens, if using.
-4. **Return the potato mixture** to the skillet and shake to distribute evenly.
-5. **Add the eggs and cheese**, top with the remaining cheese and herbs, and broil.
-
-**🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min** *(staged skillet work start to finish, then a broiler step you watch)*
-
-#### A. The Master Recipe
-
-*Serves 4 to 6*
-
-**Ingredients**
-
-- ½ lb potatoes, any kind including sweet — peeled if you like, cut into small dice
-- 2 Tbsp olive oil
-- Salt and ground black pepper
-- ½ lb prepared **Firm Vegetables / Hardy Greens** and/or **Tender Vegetables / Tender Greens** — see [Part B](#b-the-five-slots)
-- ½ lb **Protein** — see [Part B](#b-the-five-slots)
-- ½ lb onion (1 medium-large), cut into small dice
-- 6 to 7 large eggs, beaten — **or** 1½ cups egg substitute or egg whites
-- 3 to 4 oz. **Cheese**, grated or crumbled — see [Part B](#b-the-five-slots)
-- **Herb**, dried and/or fresh — optional; see [Part B](#b-the-five-slots)
-
-**Equipment that isn't optional:** a **12-inch heavy-bottomed ovenproof nonstick skillet**. It has to be ovenproof because the frittata finishes under the broiler, and nonstick because you're getting a set egg round out of it in one piece.
-
-**Cooking Instructions**
-
-**1. Set the broiler to high, rack in the upper position.**
-Do this first — the pan goes in at the end and you don't want to be waiting on a cold broiler with set eggs in the skillet.
-
-**2. Set the skillet over low heat.**
-Start it warming while you get the potatoes in.
-
-**3. Steam the potatoes — plus any firm vegetable or hardy green. About 5 minutes.**
-Potatoes into the skillet with ½ cup water, 2 tsp of the oil, and a sprinkling of salt. **If you're using a Firm Vegetable or Hardy Green, it goes in now.** Turn the heat to high, cover, and heat until the water starts to steam; keep cooking until the vegetables are just tender. Transfer everything to a plate, **scraping as much potato starch off the skillet bottom as you can** — leave it behind and it'll grab the eggs later, nonstick or not.
-
-**4. Brown the protein. 4–5 minutes.**
-Skillet back over medium-high heat, another 2 tsp oil, and the protein in. Cook until browned. *Bacon is the exception:* no oil needed — fry it until the fat renders, then spoon off all but about 2 Tbsp of the drippings and cook everything else in that.
-
-**5. Sauté the onion — plus any tender vegetable or tender green. 4–5 minutes.**
-Another 2 tsp oil and the diced onion. **If you're using a Tender Vegetable or Tender Green, add it now**, giving the onion a short head start first. Cook until the vegetables are tender.
-
-**6. Season the eggs and whisk in half the cheese and the herb.**
-Beaten eggs, seasoned lightly with salt and pepper, then whisk in **half** the cheese and the herb if you're using one. The other half of the cheese is for the top.
-
-**7. Return the potatoes, add the eggs, and broil. 3–5 minutes.**
-Potatoes (and any firm vegetables) back into the skillet, then shake the pan to distribute everything evenly. Set it over **low** heat, drizzle the egg mixture in, and sprinkle the remaining cheese over the top. Transfer to the oven and broil until the eggs are puffed and the cheese has melted. **Let it rest a few minutes** out of the oven before cutting — it firms up as it settles. Cut into 4 to 6 wedges with a **plastic** spatula, so you don't gouge the nonstick, and serve.
-
-#### B. The Five Slots
-
-> **Heads up — the source's own category lists aren't here.** The original recipe points to its pages 75–77 for the full Firm/Tender Vegetable, Protein, Cheese, and Herb lists, and those pages weren't among the ones photographed. What's below is drawn from the named suggestions in [Part C](#c-suggestions--8-named-frittatas) plus the categories the method itself defines. **For vegetable prep cuts, [§T9 Part C](#c-vegetables-1-pound) covers most of the same vegetables** — the cutting guidance carries over even though the quantities don't. Photograph pages 75–77 and this section can be filled in properly.
-
-**Slot 1 — Firm Vegetables / Hardy Greens** *(in early, steamed with the potatoes)*
-
-Anything that needs real cooking time: asparagus, broccoli rabe, kale, broccoli, cauliflower, green beans, winter squash, Brussels sprouts, and the sturdy greens — collard, mustard, Swiss chard.
-
-**Slot 1b — Tender Vegetables / Tender Greens** *(in late, with the onion)*
-
-Anything that cooks in minutes or would fall apart on a long steam: tomatoes, corn, spinach, red bell pepper, fennel, zucchini and yellow squash, mushrooms.
-
-*You can use one, the other, or both — ½ lb total across the slot. The Corn-Tomato suggestion runs two tender vegetables at ½ lb **each** and drops the meat entirely, which is the pattern to copy for a vegetarian version.*
-
-**Slot 2 — Protein** *(½ lb, browned in step 4)*
-
-Bulk or link Italian sausage, ham, bacon, corned beef, chickpeas. *Chickpeas are the vegetarian entry here — they need no browning time to speak of, so they're really just warmed through.*
-
-**Slot 3 — Cheese** *(3–4 oz., grated or crumbled — half into the eggs, half on top)*
-
-Sharp Cheddar, Gruyère, pepper Jack, feta, Swiss, Fontina.
-
-**Slot 4 — Herb** *(optional, dried and/or fresh)*
-
-Fresh basil, parsley, cilantro, dill; dried oregano, thyme, tarragon *(tarragon works either way)*.
-
-#### C. Suggestions — 8 Named Frittatas
-
-Each plugs straight into the Master Recipe — the technique never changes, only what fills the slots. **Watch the vegetable column:** whether an item is listed as *Firm/Hardy* or *Tender* is what tells you when it goes in the pan.
-
-| Frittata | Protein | Vegetable slot | Cheese | Herb | Notes |
-|---|---|---|---|---|---|
-| **Tomato-Basil, with Italian Sausage** | Bulk Italian sausage | **Tender:** tomatoes | Sharp Cheddar | Fresh basil | — |
-| **Ham & Asparagus, with Tarragon and Gruyère** | Ham | **Firm/Hardy:** asparagus | Gruyère | Dried or fresh tarragon | — |
-| **Bacon-Kale, with Sharp Cheddar** | Bacon | **Firm/Hardy:** kale | Sharp Cheddar | Dried oregano | Bacon takes no oil — render it, then pour off all but 2 Tbsp of the fat and build on that. |
-| **Corn-Tomato, with Pepper Jack** | *(none)* | **Tender:** ½ lb **each** corn and tomatoes | Pepper Jack | Cilantro | **The vegetarian pattern** — the meat is omitted and two vegetables fill the gap. |
-| **Greek, with Spinach, Feta & Dill** | Ham | **Tender:** spinach | Feta | Dill | — |
-| **Corned Beef** | Corned beef | **Tender:** red bell pepper | Swiss | Dried thyme | The leftover-corned-beef move; see also [§7.11](#711-corned-beef-and-cabbage) when that gets written up. |
-| **Sausage, Fennel & Fontina** | Italian sausage | **Tender:** fennel | Fontina | Parsley | — |
-| **Chickpeas & Rabe** | Chickpeas | **Firm/Hardy:** broccoli rabe | Pepper Jack | Parsley | The other meatless one — chickpeas carry the protein slot. |
-
-#### D. Tips and Tricks
-
-- **Scrape the starch.** Step 3 says it and it's the difference between a frittata that releases and one that welds itself down. Potato starch left on the skillet bottom defeats nonstick.
-- **Plastic spatula only.** You've just broiled in a nonstick pan; a metal edge will take the coating off.
-- **Let it rest.** A few minutes out of the oven and it firms up enough to cut cleanly into wedges.
-- **Going meatless:** either drop the protein and run ½ lb each of two vegetables (Corn-Tomato), or use chickpeas in the protein slot (Chickpeas & Rabe). Both are already on the suggestions list.
-- **Egg substitute or whites** swap in at 1½ cups for the 6–7 whole eggs, if that's the direction you want.
-
-#### E. Grocery Shopping List
-
-**Buy per frittata, not all at once.** Same as [§T8](#t8-pan-sauce-formula) and [§T9](#t9-hearty-main-course-soup-formula) — pick a row from Part C and buy that row's four items plus the constants.
-
-**🛒 The constants — every version needs these**
-
-- 🛒 ⭐ Potatoes — *½ lb, any kind including sweet*
-- 🛒 ⭐ Onion — *½ lb, about 1 medium-large*
-- 🛒 ⭐ Eggs — *6 to 7 large* — **or** egg substitute / egg whites, *1½ cups*
-- 🛒 ⭐ Olive oil — *2 Tbsp total, added 2 tsp at a time across three steps*
-- 🛒 ⭐ Salt and ground black pepper
-
-**🛒 Slot 1 — Vegetables (½ lb): pick one or two**
-
-- 🛒 *Firm / hardy (steamed early):* asparagus · broccoli rabe · kale · broccoli · cauliflower · green beans · Brussels sprouts · winter squash · collard, mustard, or Swiss chard
-- 🛒 *Tender (sautéed late):* tomatoes · corn · spinach · red bell pepper · fennel · zucchini · yellow squash · mushrooms
-
-**🛒 Slot 2 — Protein (½ lb): pick one**
-
-- 🛒 Bulk or link Italian sausage · ham · bacon · corned beef
-- 🛒 Canned chickpeas — *the meatless option*
-
-**🛒 Slot 3 — Cheese (3–4 oz.): pick one**
-
-- 🛒 Sharp Cheddar · Gruyère · pepper Jack · feta · Swiss · Fontina
-
-**🛒 Slot 4 — Herb (optional): pick one**
-
-- 🛒 *Fresh:* basil · parsley · cilantro · dill · tarragon
-- 🛒 *Dried:* oregano · thyme · tarragon
-
-**Not a grocery item, but required:** a 12-inch heavy-bottomed **ovenproof nonstick** skillet, and a **plastic** spatula for cutting.
-
-#### Nutrition *(estimated)*
-
-| | Calories | Fat | Protein | Carbs | Fiber |
-|---|---|---|---|---|---|
-| **Whole dish** | ~2,110 | 144 g | 105 g | 84 g | 12 g |
-| **Per serving** *(serves 5 (4 to 6))* | ~420 | 29 g | 21 g | 17 g | 2.4 g |
-
-**What a serving is:** one wedge — a quarter to a sixth of a 12-inch frittata.
-
-*Figures assume bulk Italian sausage and cheddar. A meatless version (the corn-tomato or chickpea builds) drops roughly 100 cal and 8 g fat per wedge.*
-
-[↑ Table of Contents](#table-of-contents)
-
----
-
 ### T11. How to Sauté (Master Technique for Sautéed Cuts)
 
 <!-- TECHNIQUE-TAGS: saute, dredge, searing, chicken-breast, pork-chop, fish-fillet, browning -->
@@ -7395,7 +7021,7 @@ Times below assume the Master Technique in Part B. **All three are turned only o
 - 🛒 Boneless pork loin chops — *4, 1 to 1¼ inches thick* — **or** a small boneless loin roast from the **rib end** to cut your own
 - 🏪 White-fleshed fish fillets (fish market) — *flounder, catfish, snapper, tilapia, grouper, or cod; 1½ lb total, ½ to 1¼ inches thick*
 
-**Planning a pan sauce?** Add that row's items from [§T8's list](#e-grocery-shopping-list) — the skillet is already set up for it.
+**Planning a pan sauce?** Add that row's items from [§T8's list](#t8-pan-sauce-formula) — the skillet is already set up for it.
 
 **Not a grocery item, but worth having:** a **thin metal spatula** for turning fish without tearing it.
 
@@ -7418,7 +7044,7 @@ Times below assume the Master Technique in Part B. **All three are turned only o
 
 <!-- TECHNIQUE-TAGS: broth, stock, rotisserie-chicken, soup-base, quick -->
 **Tags:** `broth` · `stock` · `rotisserie-chicken` · `soup-base` · `quick`
-**Used in:** [§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) — turns that formula's "1 quart chicken broth" into 2 quarts of something better · related to [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions) — see Part D for how the two differ
+**Used in:** [§8.0 Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) — turns that formula's "1 quart chicken broth" into 2 quarts of something better · related to [§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions) — see Part D for how the two differ
 
 Per Cody: all of the soups and frittatas in this cookbook are genuinely fast and easy, and so is this. **The trick is not starting from raw bones.** A rotisserie chicken is already roasted and already seasoned — its carcass and skin will fortify a quart of store-bought broth into two quarts of something noticeably better, in about 30 minutes instead of the hours a from-scratch stock takes.
 
@@ -7449,9 +7075,9 @@ Pull out and discard the bones and skin. Refrigerate what's left if it's getting
 
 #### C. Yield and Economics
 
-**A generous 2 quarts** out of one rotisserie chicken carcass — enough for **two full pots** of the [§T9 soup formula](#t9-hearty-main-course-soup-formula), which only calls for 1 quart each. That's the whole case for calling a rotisserie chicken "a very good investment": the meat is dinner, and the bones are two batches of broth, for free.
+**A generous 2 quarts** out of one rotisserie chicken carcass — enough for **two full pots** of the [§8.0 soup formula](#80-the-hearty-main-course-soup-formula), which only calls for 1 quart each. That's the whole case for calling a rotisserie chicken "a very good investment": the meat is dinner, and the bones are two batches of broth, for free.
 
-**On the meat side, same bird:** unless it's an unusually small chicken, there's **3 to 4 cups of extra shredded meat** — wing meat, back meat, breast scraps — left over even after setting aside a full 4 cups of shredded breast for a separate meal. That extra 3–4 cups is exactly what [§T9's rotisserie-chicken tip](#f-tips-and-tricks) is for: shredded rotisserie meat in place of raw thighs or breasts, for a soup that comes together even faster.
+**On the meat side, same bird:** unless it's an unusually small chicken, there's **3 to 4 cups of extra shredded meat** — wing meat, back meat, breast scraps — left over even after setting aside a full 4 cups of shredded breast for a separate meal. That extra 3–4 cups is exactly what [§8.0's rotisserie-chicken tip](#f-tips-and-tricks) is for: shredded rotisserie meat in place of raw thighs or breasts, for a soup that comes together even faster.
 
 #### D. Chef's Notes
 
@@ -7475,7 +7101,7 @@ Pull out and discard the bones and skin. Refrigerate what's left if it's getting
 | **Whole dish** | ~200 | 8 g | 24 g | 8 g | 0 g |
 | **Per serving** *(makes a generous 2 quarts — about 8 cups)* | ~25 | 1 g | 3 g | 1 g | 0 g |
 
-**What a serving is:** 1 cup as a base. This is an ingredient rather than a dish — the 2 qt yield builds two full pots of the [§T9](#t9-hearty-main-course-soup-formula) soup formula.
+**What a serving is:** 1 cup as a base. This is an ingredient rather than a dish — the 2 qt yield builds two full pots of the [§8.0](#80-the-hearty-main-course-soup-formula) soup formula.
 
 *Skim the fat and the calories drop further. The shredded meat pulled off the bird before simmering is counted with whatever dish it goes into, not here.*
 
@@ -14304,6 +13930,225 @@ Pour the sauce over the chicken.
 
 ## 8. Soups & Chili
 
+### 8.0 The Hearty Main Course Soup Formula
+
+<!-- TECHNIQUE-TAGS: soup, formula, weeknight, one-pot, stew -->
+**Tags:** `soup` · `formula` · `weeknight` · `one-pot` · `stew`
+**The foundation for this whole section.** Every numbered soup below is a specific dish; this is the formula they're all variations on. Directly feeds [§8.2 Soups](#82-soups), the placeholder for the specific soups Cody has coming.
+
+The whole thing fits in your head: 1 pound protein, 1 pound vegetables, 1 quart broth, 1 onion, 1 can tomatoes, one starch (potatoes, rice, pasta, or beans), and something to flavor it. The method is just as short — soften an onion, dump in everything else, bring it up to a simmer, give it about 20 minutes, and eat. A handful of sensible exceptions apply, but it's far better to carry a formula plus its exceptions than to carry no formula at all.
+
+> **This is the chunky one.** The source chapter runs two soup formulas — this hearty, stew-like one, and a second smooth-and-creamy one. **The creamy formula still isn't in this cookbook**; when it arrives it lands here in §8 alongside this one, as its own numbered entry.
+
+**At a glance — the whole thing in three lines:**
+
+1. **Internalize the formula:** 1 onion, 1 lb vegetables, 1 lb protein, 1 quart broth, 1 can tomatoes *(sometimes optional)*, a starch, a couple of tablespoons of oil, and flavorings.
+2. **Know the technique:** sauté the onion, then add the vegetables, protein, starch, tomatoes, broth, and any dried herbs and/or spices.
+3. **Simmer 15 minutes**, then stir in the fresh flavorings.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+
+#### A. The Master Recipe
+
+*Makes 4 generous servings*
+
+**Ingredients**
+
+- 2 Tbsp olive oil
+- 1 large onion, chopped
+- 1 lb **Protein**, prepped — see [Part B](#b-protein-1-pound)
+- 1 lb **Vegetables**, prepped — see [Part C](#c-vegetables-1-pound)
+- 1 lb **Starch** — see [Part D](#d-starch)
+- 1 can (14.5 oz.) tomatoes, diced or crushed — your call, and occasionally skippable
+- 1 quart chicken broth — *swap in fish or seafood broth when the protein is fish, shrimp, or scallops*
+- **Flavorings** — see [Part E](#e-flavorings)
+- Salt and ground black pepper
+
+**Cooking Instructions**
+
+**1. Soften the onion. 4–5 minutes.**
+Warm the oil in a large pot over medium-high heat, add the chopped onion, and cook just until it starts to soften. You're not caramelizing it — this is a quick head start, not a foundation.
+
+**2. Add nearly everything at once.**
+In go the Vegetables, the Protein, the Starch, the tomatoes, the broth, and any Flavorings that are **dried herbs, woody fresh herbs, or spices**. *Two things stay out:* shrimp and scallops, which go in during the final 5 minutes, and the soft fresh herbs and finishing flavorings, which go in at the end. Anything sturdy enough to take 20 minutes goes in now.
+
+**3. Simmer partially covered. 15–20 minutes.**
+Bring it up to a simmer, drop the heat to medium-low, and cook until the vegetables are tender and everything tastes like it belongs together rather than like separate ingredients sharing a pot. That blending is the actual doneness cue — the clock is a guide.
+
+**4. Stir in the remaining Flavorings and loosen if needed.**
+Soft fresh herbs, citrus juice, and zest go in now. Add more broth or water if it's tightened up. **You're after thick but still juicy** — if a spoon stands up in it, it's gone too far.
+
+**5. Taste, correct, and serve.**
+Adjust the seasoning, including salt and pepper, and serve it up.
+
+> **Note:** Flavorings can be dried or fresh herbs, spices, or other additions such as citrus juice or zest.
+
+#### B. Protein: 1 Pound
+
+For quick weeknight soups, stick to cuts that cook fast. How you handle them varies: some go straight into the pot, either at the start with everything else or right at the end; some go in early and get fished out to be shredded or cut up; and a few get browned in the pot before the onion ever hits it.
+
+**Just add as is**
+
+- **Ham:** Cube or shred it and add it along with the broth.
+- **Smoked and cured sausages, any type:** Slice and add with the broth.
+- **Fish fillets:** Add with the broth, then break them into flakes with a spatula as they cook.
+- **Peeled shrimp:** Cut large ones into bite-size pieces; drop in during the last few minutes.
+- **Bay scallops:** Drop in during the last few minutes.
+
+**Brown and slice**
+
+- **Fresh sausages, any type:** Brown them in the hot pot before you sauté the onion — no need to cook them through. Slice and add with the broth. *Alternatively:* squeeze the raw sausage out of its casing, sauté it, and add the onion right on top; it can stay in the pot.
+
+**Simmer and shred**
+
+- **Boneless, skinless chicken breasts:** Cut crosswise into thirds, add with the broth, pull them out near the end, shred with two forks, and return to the pot.
+- **Boneless, skinless chicken thighs:** Add with the broth, pull out near the end, shred with two forks, and return to the pot.
+- **Pork tenderloin:** Cut crosswise into 2- to 3-inch chunks, add with the broth, pull out near the end, shred with two forks, and return to the pot.
+
+#### C. Vegetables: 1 Pound
+
+Do particular vegetables belong with particular meats? A few pairings are obvious — sausage alongside cabbage and potatoes, chicken with carrots and peas — but you won't find a bad combination among the suggested soup vegetables and any of the meats, poultry, or fish.
+
+**Common soup vegetables**
+
+- **Asparagus:** Snap off the woody ends and cut into 1-inch pieces; split thick spears lengthwise.
+- **Broccoli or cauliflower:** Break into small florets. Peel the tough skin from broccoli stalks and slice them ¼ inch thick. Packaged florets work too.
+- **Brussels sprouts:** Trim the root end. Halve the small ones lengthwise; cut large ones into thick slices.
+- **Turnips, rutabagas, and any winter squash:** Peel and cut into bite-size chunks, seeding the squash.
+- **Cabbage:** Halve, core, and slice thin.
+- **Carrots or celery:** Medium dice; peel the carrots.
+- **Green beans:** Trim the ends and snap into bite-size lengths.
+- **Green peas, frozen:** Nothing to do.
+- **Beet, turnip, collard, and mustard greens, Swiss chard, kale, and large spinach:** Stem, wash, and chop coarsely — or buy them bagged and prepped.
+- **Bok choy:** Slice the crisp stem thin; chop the leaves coarsely.
+- **Broccoli rabe:** Peel the stems if they're tough, then coarsely chop stems and leaves.
+- **Curly endive and escarole:** Trim the root end, wash, and chop coarsely.
+- **Baby spinach:** Nothing to do beyond making sure it's clean.
+- **Bell peppers:** Stem, seed, and cut into small dice.
+- **Fennel:** Trim off the stalks and fronds, saving the fronds. Halve, core, and cut into small dice.
+- **Leeks:** Cut off and discard the tough dark green tops. Quarter lengthwise, then slice crosswise ½ inch thick. Wash well.
+- **Mushrooms, white or baby bella:** Trim the stem ends, rinse, and slice.
+- **Yellow squash and zucchini:** Trim and cut into small dice.
+
+#### D. Starch
+
+Potatoes are the easy one — a straight pound. Past that the numbers don't line up quite so cleanly, so use the list below.
+
+You can also **run two starches at once** if you want: half a pound of potatoes plus a can of beans, say, or a cup of corn plus a can of beans. And if you already have cooked pasta or rice on hand, use it in place of raw — count on a generous 1½ cups cooked pasta or ¾ cup cooked rice, stirred in during the last few minutes.
+
+- 1 lb potatoes, any variety, diced
+- 2 cans (15 to 16 oz. each) beans or hominy, drained
+- 2 cups corn, fresh or frozen
+- 1½ cups wide or extra-wide egg noodles, **or** ¾ cup bite-size pasta
+- ⅓ cup long-grain white rice
+
+#### E. Flavorings
+
+Herbs and spices are what give a soup its character. The list below isn't exhaustive, but it covers most of the usual suspects and is plenty to get you flavoring soup on your own.
+
+**The timing rule:** dried herbs, woody fresh herbs like rosemary and thyme, and spices go in **at the beginning with the broth**. Soft fresh herbs and everything else go in **during the last few minutes**.
+
+**Dried herbs, woody fresh herbs, and spices — in at the start**
+
+- 1 Tbsp curry powder or garam masala
+- 2 tsp minced fresh rosemary or thyme, or chopped fennel seeds
+- 1 tsp dried thyme, basil, or tarragon, or ground cumin or coriander
+- ½ tsp dried oregano or caraway seeds
+- ¼ tsp hot red pepper flakes
+
+**Fresh herbs and flavorings — in at the end**
+
+- ¼ cup chopped fresh basil
+- 2 Tbsp chopped fresh parsley, cilantro, or mint, **or** lemon or lime juice
+- 1 Tbsp chopped fresh dill or tarragon
+- 1 tsp finely grated lemon zest
+
+#### F. Tips and Tricks
+
+- **Want the green vegetables bright rather than fully cooked?** Hold them until the last 5 minutes instead of adding them with the rest.
+- **Want them cooked through but still want color on the plate?** Throw in a handful of chopped fresh parsley, basil, or cilantro at the very end.
+- **To go vegetarian:** use vegetable broth in place of chicken, leave out the meat, and add a second starch (grains, beans, or potatoes).
+- **To use meat as seasoning rather than substance:** bump the vegetables from 1 lb to 1½ lb and drop the meat from 1 lb to ½ lb.
+- **Vegetable weights don't have to be precise.** Buy a little over a pound so that once you've trimmed everything you land close to a pound.
+- **Deepen a shrimp soup** — time permitting — by simmering the shells in part of the broth for a few minutes. Strain them out before the broth goes into the pot. *(See [§T6](#t6-seafood-notes) on buying shrimp shell-on in the first place.)*
+- **For faster chicken soup**, use 2 to 3 cups of shredded rotisserie chicken in place of breasts or thighs. *(That same rotisserie chicken's carcass makes the broth itself — see [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth).)*
+
+#### G. Suggestions — 9 Named Soups
+
+Each of these plugs straight into the Master Recipe above — the technique never changes, only what fills the four slots. Unless a row says otherwise, the tomatoes stay in and the method is exactly Part A.
+
+| Soup | Protein | Vegetables | Starch | Flavorings | Notes |
+|---|---|---|---|---|---|
+| **Ham & Potato, with Leeks and Peas** | Ham chunk, shredded or diced | 2 small leeks, 2 small carrots, ¾ cup frozen green peas | Red potatoes | 1 tsp dried thyme | **Omit the tomatoes.** |
+| **Sausage, White Bean & Escarole** | Mild or hot Italian sausage links | ½ medium head escarole, 2 medium carrots | Cannellini beans | 2 tsp minced fresh rosemary | Ham is equally good here. *Rosemary is woody* — it goes in at the **beginning** with the broth, not at the end with the soft herbs. |
+| **Sausage, with Mushrooms, Zucchini & Chickpeas** | Mild or hot Italian sausage links | ½ lb white mushrooms, 1 medium zucchini | Chickpeas | 1 tsp ground cumin | Toss the mushrooms in with the sautéing onion if there's time. |
+| **Sausage, with Spinach, Cauliflower & Noodles** | Mild or hot Italian sausage links | ½ lb cauliflower florets, ½ lb spinach | Bite-size pasta — macaroni or bow ties | 1 tsp dried **or** ¼ cup chopped fresh basil | — |
+| **Pork, with Hominy & Peppers** | Pork tenderloin | 1 large bell pepper, 1 medium zucchini or yellow squash | Hominy | 2 Tbsp chopped fresh cilantro | Equally good with ham or chicken. Serve with a squeeze of lime, tortilla chips, and guacamole. |
+| **Chicken Vegetable, with Wide Noodles** | Boneless, skinless chicken thighs or breasts | 2 medium carrots, 2 medium celery stalks, ¾ cup frozen green peas | Wide egg noodles | 1 tsp dried thyme | **Omit the tomatoes.** Peas added at the start go drab — either freshen with a couple Tbsp chopped fresh parsley at the end, or add the peas in the last few minutes instead. Shredded rotisserie chicken works in place of thighs or breasts. |
+| ⭐ **Lemon Chicken, with Spinach & Rice** | Boneless, skinless chicken thighs or breasts | 10 oz. baby spinach, 1 medium zucchini | White rice | 2 Tbsp lemon juice, 1 Tbsp chopped fresh dill | **Cody's favorite — written up in full at [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice).** **Omit the tomatoes** — Cody's call, and a deviation from the source page, which didn't mark this one as an exception. The lemon juice and dill go into the **finished** soup, not the pot. |
+| **Curried Chicken, with Sweet Potatoes, Cauliflower & Spinach** | Boneless, skinless chicken thighs | Cauliflower florets and baby spinach — you decide how much of each | 1 sweet potato (8 oz.) **and** 1 can chickpeas | 1 Tbsp curry powder, 2 Tbsp chopped fresh cilantro | **The two-starch example** — half chickpeas, half sweet potato, to show that two starches can share a pot. Only have one of them? Double it. Curry powder goes into the broth; cilantro tops the finished soup. |
+| **Fish, with Cabbage & Potatoes** | Firm-fleshed white fish — halibut, cod, scrod, or haddock | ¼ medium cabbage, 2 medium celery stalks **or** 1 small fennel bulb | Potatoes | 2 tsp finely chopped fennel seeds, ¼ tsp hot red pepper flakes, 1 tsp finely grated lemon zest, 2 Tbsp lemon juice | **Use fish or seafood broth**, not chicken. Prefer meat? Substitute kielbasa or ham for the fish and drop the lemon zest and juice entirely. A little chopped parsley before serving brightens it. |
+
+#### H. Grocery Shopping List
+
+**Buy per soup, not all at once.** Like [§T8](#t8-pan-sauce-formula), this is a formula rather than a single dish — pick one item from each slot below and that's your list. The five slots are always the same, which is the whole point of carrying the formula.
+
+**🛒 The constants — every version needs these**
+
+- 🛒 ⭐ Olive oil — *2 Tbsp*
+- 🛒 ⭐ Onion — *1 large, per batch*
+- 🛒 ⭐ Chicken broth — *1 quart per batch; buy the box*
+- 🛒 ⭐ Canned tomatoes, diced or crushed — *1 × 14.5 oz.*
+- 🛒 ⭐ Salt and ground black pepper
+
+**🛒 Slot 1 — Protein (1 lb): pick one**
+
+- 🛒 Ham · smoked or cured sausage · fresh sausage
+- 🛒 Boneless skinless chicken breasts or thighs — *or a rotisserie chicken for the fast version*
+- 🛒 Pork tenderloin
+- 🏪 Fish fillets · peeled shrimp · bay scallops (fish market) — *if you go this route, buy **fish or seafood broth** instead of chicken, and buy shrimp shell-on so you can simmer the shells*
+
+**🛒 Slot 2 — Vegetables (1 lb): pick one or mix**
+
+- 🛒 Asparagus · broccoli · cauliflower · Brussels sprouts · cabbage · carrots · celery · green beans · frozen green peas
+- 🛒 Turnips · rutabagas · winter squash · yellow squash · zucchini · potatoes · bell peppers · fennel · leeks · mushrooms
+- 🛒 Greens — beet, turnip, collard, mustard, Swiss chard, kale, spinach, bok choy, broccoli rabe, curly endive, escarole — *bagged and prepped is a legitimate shortcut*
+
+*Buy a little over a pound* so you land near a pound after trimming.
+
+**🛒 Slot 3 — Starch: pick one (or two)**
+
+- 🛒 Potatoes — *1 lb*
+- 🛒 Canned beans or hominy — *2 × 15–16 oz.*
+- 🛒 Corn, fresh or frozen — *2 cups*
+- 🛒 Wide or extra-wide egg noodles — *1½ cups* — **or** bite-size pasta — *¾ cup*
+- 🛒 Long-grain white rice — *⅓ cup*
+
+**🛒 Slot 4 — Flavorings: pick one or two**
+
+- 🛒 *Dried/woody (in at the start):* curry powder or garam masala · fresh rosemary · fresh or dried thyme · fennel seeds · dried basil · dried tarragon · ground cumin · ground coriander · dried oregano · caraway seeds · hot red pepper flakes
+- 🛒 *Fresh/finishing (in at the end):* fresh basil · parsley · cilantro · mint · dill · tarragon · lemons or limes *(for both juice and zest)*
+
+**🛒 For the vegetarian version**
+
+- 🛒 Vegetable broth — *in place of chicken broth*
+- 🛒 A second starch — *grains, beans, or potatoes, to replace the meat*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,600 | 63 g | 114 g | 146 g | 26 g |
+| **Per serving** *(serves 4 generously)* | ~400 | 16 g | 29 g | 37 g | 7 g |
+
+**What a serving is:** a generous 1½–2 cup bowl — the formula is built to make 4 of them.
+
+*Figures assume chicken thighs, potatoes as the starch, and a mixed pound of vegetables. Swapping the protein or starch moves these a lot — sausage roughly doubles the fat, beans push fiber well up.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ### 8.1 Chili
 
 Transcribed from Cody's photographed recipe card — a crock-pot chili built on a beef-or-venison and pork sausage base, served over noodles. Rated **"Yummie"** on the card itself.
@@ -14378,9 +14223,9 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 
 > *Placeholder — category stub.* Cody listed "soups" generally. Each specific soup gets promoted to its own numbered entry here as it's named. *(Note: [§1 Cody's Pho](#1-codys-pho) is complete and has its own top-level section — it stays there.)*
 >
-> **The base formula is already documented:** see **[§T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula)** — 1 lb protein, 1 lb vegetables, 1 quart broth, 1 onion, 1 can tomatoes, a starch, and a flavoring. **Nine named soups built on it live in [§T9 Part G](#g-suggestions--9-named-soups)** as a slot table (ham & potato, three sausage versions, pork & hominy, two chicken, curried chicken, and fish).
+> **The base formula is already documented:** see **[§8.0 Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula)** — 1 lb protein, 1 lb vegetables, 1 quart broth, 1 onion, 1 can tomatoes, a starch, and a flavoring. **Nine named soups built on it live in [§8.0 Part G](#g-suggestions--9-named-soups)** as a slot table (ham & potato, three sausage versions, pork & hominy, two chicken, curried chicken, and fish).
 >
-> **Promoted from that table so far:** [§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ — a house favorite. Any other suggestion Cody starts making regularly gets the same treatment: its own §8.x write-up, pointing back at §T9 rather than repeating the method.
+> **Promoted from that table so far:** [§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ⭐ — a house favorite. Any other suggestion Cody starts making regularly gets the same treatment: its own §8.x write-up, pointing back at §8.0 rather than repeating the method.
 
 ### 8.3 Chicken and Andouille Smoked Sausage Gumbo
 
@@ -14512,13 +14357,13 @@ Main course: mound about ⅓ cup cooked rice in the center of a soup bowl and la
 
 ### 8.4 Lemon Chicken Soup with Spinach and Rice
 
-⭐ **A house favorite** — Cody's pick out of the [§T9](#t9-hearty-main-course-soup-formula) suggestions, promoted to its own write-up because it's one they actually make and really like.
+⭐ **A house favorite** — Cody's pick out of the [§8.0](#80-the-hearty-main-course-soup-formula) suggestions, promoted to its own write-up because it's one they actually make and really like.
 
 A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill broth, with a lot of spinach wilted in. The two things that define it — the lemon juice and the fresh dill — go in **after** the pot comes off the heat, not during the simmer. That's the whole trick. Cook lemon juice for 20 minutes and it goes dull and slightly bitter; stir it into the finished soup and it stays sharp and fresh.
 
-**No tomatoes in this one.** The [§T9](#t9-hearty-main-course-soup-formula) formula calls for a can of tomatoes by default, and the source page didn't mark this soup as an exception — but Cody makes it without, and that's right: tomato competes with the lemon and clouds a broth whose whole appeal is that it stays clean.
+**No tomatoes in this one.** The [§8.0](#80-the-hearty-main-course-soup-formula) formula calls for a can of tomatoes by default, and the source page didn't mark this soup as an exception — but Cody makes it without, and that's right: tomato competes with the lemon and clouds a broth whose whole appeal is that it stays clean.
 
-**Techniques used:** [T9 Hearty Main Course Soup Formula](#t9-hearty-main-course-soup-formula) *(this is that formula with the Lemon Chicken slots filled in — the method below is the same one, written out in full so you don't have to flip back)*
+**Techniques used:** [T9 Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) *(this is that formula with the Lemon Chicken slots filled in — the method below is the same one, written out in full so you don't have to flip back)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
 
@@ -14535,7 +14380,7 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 - 1 medium zucchini, trimmed and cut into small dice
 - ⅓ cup long-grain white rice
 - 1 quart chicken broth
-- **No tomatoes** — this is one of the [§T9](#t9-hearty-main-course-soup-formula) soups that leaves the can out; see the note below
+- **No tomatoes** — this is one of the [§8.0](#80-the-hearty-main-course-soup-formula) soups that leaves the can out; see the note below
 - 2 Tbsp lemon juice — **added at the end**
 - 1 Tbsp chopped fresh dill — **added at the end**
 - Salt and ground black pepper
@@ -14546,7 +14391,7 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 Warm the oil in a large pot over medium-high heat, add the chopped onion, and cook just until it starts to soften. Not browned, not caramelized — this is a head start, not a foundation.
 
 **2. Add the chicken, zucchini, rice, and broth. No tomatoes.**
-Everything but the spinach, lemon, and dill goes in now. If you're using **breasts**, cut them crosswise into thirds first so they cook evenly; **thighs** can go in whole. The rice goes in raw — it needs the full simmer to cook through. *The canned tomatoes from the [§T9](#t9-hearty-main-course-soup-formula) formula stay out of this one* — tomato fights the lemon and dill, and it muddies a broth that's supposed to stay clean and bright.
+Everything but the spinach, lemon, and dill goes in now. If you're using **breasts**, cut them crosswise into thirds first so they cook evenly; **thighs** can go in whole. The rice goes in raw — it needs the full simmer to cook through. *The canned tomatoes from the [§8.0](#80-the-hearty-main-course-soup-formula) formula stay out of this one* — tomato fights the lemon and dill, and it muddies a broth that's supposed to stay clean and bright.
 
 **3. Simmer partially covered. 15–20 minutes.**
 Bring it up to a simmer, drop to medium-low, and cook until the rice is tender and the zucchini has softened. You're waiting on the rice here more than anything else.
@@ -14718,7 +14563,7 @@ Main course: mound ¼ cup hot rice in the middle of each bowl, then spoon 1 cup 
 
 ### 8.6 Sweet Potato and Andouille Soup
 
-Transcribed from a printed cookbook page (p. 91) — a puréed soup, not the chunky [§T9](#t9-hearty-main-course-soup-formula) style: whole sweet potatoes roasted for depth, andouille for smoke, molasses for a touch of sweetness, all blended smooth.
+Transcribed from a printed cookbook page (p. 91) — a puréed soup, not the chunky [§8.0](#80-the-hearty-main-course-soup-formula) style: whole sweet potatoes roasted for depth, andouille for smoke, molasses for a touch of sweetness, all blended smooth.
 
 **Yield:** Serves 20 as an appetizer, 12 as an entrée.
 
@@ -14794,7 +14639,7 @@ The source recipe points at its own Skillet Cornbread (page 48), which isn't par
 
 Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A simple, rustic soup — sausage, potatoes, onion, and kale in a bouillon broth, finished with a little cream.
 
-> **Close cousin to [§T9](#t9-hearty-main-course-soup-formula):** protein (sausage), starch (potatoes), vegetable (kale), and broth (bouillon) are the same four slots that formula runs on — this card just predates it and keeps its own simpler method rather than the formula's dredge of seasonings.
+> **Close cousin to [§8.0](#80-the-hearty-main-course-soup-formula):** protein (sausage), starch (potatoes), vegetable (kale), and broth (bouillon) are the same four slots that formula runs on — this card just predates it and keeps its own simpler method rather than the formula's dredge of seasonings.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min**
 
@@ -16895,13 +16740,171 @@ Garnish with chopped chives and the reserved celery leaves.
 
 ## 10. Breakfast
 
+### 10.0 The Loaded Frittata Formula
+
+<!-- TECHNIQUE-TAGS: frittata, eggs, breakfast, formula, one-pan, broiler, skillet -->
+**Tags:** `frittata` · `eggs` · `breakfast` · `formula` · `one-pan` · `broiler` · `skillet`
+**Used in:** [§10 Breakfast](#10-breakfast) — and any night eggs are dinner
+
+The third of the slot formulas in this cookbook, after [§T8 Pan Sauce](#t8-pan-sauce-formula) and [§8.0 Soup](#80-the-hearty-main-course-soup-formula). One 12-inch skillet, about half an hour, and it feeds 4 to 6 as a main course. The proportions are almost aggressively easy to remember: **½ pound each of potatoes, vegetables, protein, and onion**, then eggs, cheese, and an herb over the top.
+
+**The one thing to actually understand:** the vegetable slot splits in two by *when* it goes in the pan. **Firm vegetables and hardy greens** steam alongside the potatoes at the start, because they need the time. **Tender vegetables and tender greens** go in later with the onion, because they'd turn to mush if they'd started with the potatoes. Get that split right and the rest is assembly.
+
+**At a glance — the whole thing in five lines:**
+
+1. **Internalize the formula:** ½ lb each potatoes, vegetables, protein, and onion; 1½ cups eggs; 3–4 oz. cheese; a little oil, and herbs.
+2. **Steam** the potatoes — along with the firm vegetables/hardy greens, if using — in a large skillet, then turn them out onto a plate.
+3. **Cook the protein.** Then sauté the onion, along with the tender vegetables/tender greens, if using.
+4. **Return the potato mixture** to the skillet and shake to distribute evenly.
+5. **Add the eggs and cheese**, top with the remaining cheese and herbs, and broil.
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min** *(staged skillet work start to finish, then a broiler step you watch)*
+
+#### A. The Master Recipe
+
+*Serves 4 to 6*
+
+**Ingredients**
+
+- ½ lb potatoes, any kind including sweet — peeled if you like, cut into small dice
+- 2 Tbsp olive oil
+- Salt and ground black pepper
+- ½ lb prepared **Firm Vegetables / Hardy Greens** and/or **Tender Vegetables / Tender Greens** — see [Part B](#b-the-five-slots)
+- ½ lb **Protein** — see [Part B](#b-the-five-slots)
+- ½ lb onion (1 medium-large), cut into small dice
+- 6 to 7 large eggs, beaten — **or** 1½ cups egg substitute or egg whites
+- 3 to 4 oz. **Cheese**, grated or crumbled — see [Part B](#b-the-five-slots)
+- **Herb**, dried and/or fresh — optional; see [Part B](#b-the-five-slots)
+
+**Equipment that isn't optional:** a **12-inch heavy-bottomed ovenproof nonstick skillet**. It has to be ovenproof because the frittata finishes under the broiler, and nonstick because you're getting a set egg round out of it in one piece.
+
+**Cooking Instructions**
+
+**1. Set the broiler to high, rack in the upper position.**
+Do this first — the pan goes in at the end and you don't want to be waiting on a cold broiler with set eggs in the skillet.
+
+**2. Set the skillet over low heat.**
+Start it warming while you get the potatoes in.
+
+**3. Steam the potatoes — plus any firm vegetable or hardy green. About 5 minutes.**
+Potatoes into the skillet with ½ cup water, 2 tsp of the oil, and a sprinkling of salt. **If you're using a Firm Vegetable or Hardy Green, it goes in now.** Turn the heat to high, cover, and heat until the water starts to steam; keep cooking until the vegetables are just tender. Transfer everything to a plate, **scraping as much potato starch off the skillet bottom as you can** — leave it behind and it'll grab the eggs later, nonstick or not.
+
+**4. Brown the protein. 4–5 minutes.**
+Skillet back over medium-high heat, another 2 tsp oil, and the protein in. Cook until browned. *Bacon is the exception:* no oil needed — fry it until the fat renders, then spoon off all but about 2 Tbsp of the drippings and cook everything else in that.
+
+**5. Sauté the onion — plus any tender vegetable or tender green. 4–5 minutes.**
+Another 2 tsp oil and the diced onion. **If you're using a Tender Vegetable or Tender Green, add it now**, giving the onion a short head start first. Cook until the vegetables are tender.
+
+**6. Season the eggs and whisk in half the cheese and the herb.**
+Beaten eggs, seasoned lightly with salt and pepper, then whisk in **half** the cheese and the herb if you're using one. The other half of the cheese is for the top.
+
+**7. Return the potatoes, add the eggs, and broil. 3–5 minutes.**
+Potatoes (and any firm vegetables) back into the skillet, then shake the pan to distribute everything evenly. Set it over **low** heat, drizzle the egg mixture in, and sprinkle the remaining cheese over the top. Transfer to the oven and broil until the eggs are puffed and the cheese has melted. **Let it rest a few minutes** out of the oven before cutting — it firms up as it settles. Cut into 4 to 6 wedges with a **plastic** spatula, so you don't gouge the nonstick, and serve.
+
+#### B. The Five Slots
+
+> **Heads up — the source's own category lists aren't here.** The original recipe points to its pages 75–77 for the full Firm/Tender Vegetable, Protein, Cheese, and Herb lists, and those pages weren't among the ones photographed. What's below is drawn from the named suggestions in [Part C](#c-suggestions--8-named-frittatas) plus the categories the method itself defines. **For vegetable prep cuts, [§8.0 Part C](#c-vegetables-1-pound) covers most of the same vegetables** — the cutting guidance carries over even though the quantities don't. Photograph pages 75–77 and this section can be filled in properly.
+
+**Slot 1 — Firm Vegetables / Hardy Greens** *(in early, steamed with the potatoes)*
+
+Anything that needs real cooking time: asparagus, broccoli rabe, kale, broccoli, cauliflower, green beans, winter squash, Brussels sprouts, and the sturdy greens — collard, mustard, Swiss chard.
+
+**Slot 1b — Tender Vegetables / Tender Greens** *(in late, with the onion)*
+
+Anything that cooks in minutes or would fall apart on a long steam: tomatoes, corn, spinach, red bell pepper, fennel, zucchini and yellow squash, mushrooms.
+
+*You can use one, the other, or both — ½ lb total across the slot. The Corn-Tomato suggestion runs two tender vegetables at ½ lb **each** and drops the meat entirely, which is the pattern to copy for a vegetarian version.*
+
+**Slot 2 — Protein** *(½ lb, browned in step 4)*
+
+Bulk or link Italian sausage, ham, bacon, corned beef, chickpeas. *Chickpeas are the vegetarian entry here — they need no browning time to speak of, so they're really just warmed through.*
+
+**Slot 3 — Cheese** *(3–4 oz., grated or crumbled — half into the eggs, half on top)*
+
+Sharp Cheddar, Gruyère, pepper Jack, feta, Swiss, Fontina.
+
+**Slot 4 — Herb** *(optional, dried and/or fresh)*
+
+Fresh basil, parsley, cilantro, dill; dried oregano, thyme, tarragon *(tarragon works either way)*.
+
+#### C. Suggestions — 8 Named Frittatas
+
+Each plugs straight into the Master Recipe — the technique never changes, only what fills the slots. **Watch the vegetable column:** whether an item is listed as *Firm/Hardy* or *Tender* is what tells you when it goes in the pan.
+
+| Frittata | Protein | Vegetable slot | Cheese | Herb | Notes |
+|---|---|---|---|---|---|
+| **Tomato-Basil, with Italian Sausage** | Bulk Italian sausage | **Tender:** tomatoes | Sharp Cheddar | Fresh basil | — |
+| **Ham & Asparagus, with Tarragon and Gruyère** | Ham | **Firm/Hardy:** asparagus | Gruyère | Dried or fresh tarragon | — |
+| **Bacon-Kale, with Sharp Cheddar** | Bacon | **Firm/Hardy:** kale | Sharp Cheddar | Dried oregano | Bacon takes no oil — render it, then pour off all but 2 Tbsp of the fat and build on that. |
+| **Corn-Tomato, with Pepper Jack** | *(none)* | **Tender:** ½ lb **each** corn and tomatoes | Pepper Jack | Cilantro | **The vegetarian pattern** — the meat is omitted and two vegetables fill the gap. |
+| **Greek, with Spinach, Feta & Dill** | Ham | **Tender:** spinach | Feta | Dill | — |
+| **Corned Beef** | Corned beef | **Tender:** red bell pepper | Swiss | Dried thyme | The leftover-corned-beef move; see also [§7.11](#711-corned-beef-and-cabbage) when that gets written up. |
+| **Sausage, Fennel & Fontina** | Italian sausage | **Tender:** fennel | Fontina | Parsley | — |
+| **Chickpeas & Rabe** | Chickpeas | **Firm/Hardy:** broccoli rabe | Pepper Jack | Parsley | The other meatless one — chickpeas carry the protein slot. |
+
+#### D. Tips and Tricks
+
+- **Scrape the starch.** Step 3 says it and it's the difference between a frittata that releases and one that welds itself down. Potato starch left on the skillet bottom defeats nonstick.
+- **Plastic spatula only.** You've just broiled in a nonstick pan; a metal edge will take the coating off.
+- **Let it rest.** A few minutes out of the oven and it firms up enough to cut cleanly into wedges.
+- **Going meatless:** either drop the protein and run ½ lb each of two vegetables (Corn-Tomato), or use chickpeas in the protein slot (Chickpeas & Rabe). Both are already on the suggestions list.
+- **Egg substitute or whites** swap in at 1½ cups for the 6–7 whole eggs, if that's the direction you want.
+
+#### E. Grocery Shopping List
+
+**Buy per frittata, not all at once.** Same as [§T8](#t8-pan-sauce-formula) and [§8.0](#80-the-hearty-main-course-soup-formula) — pick a row from Part C and buy that row's four items plus the constants.
+
+**🛒 The constants — every version needs these**
+
+- 🛒 ⭐ Potatoes — *½ lb, any kind including sweet*
+- 🛒 ⭐ Onion — *½ lb, about 1 medium-large*
+- 🛒 ⭐ Eggs — *6 to 7 large* — **or** egg substitute / egg whites, *1½ cups*
+- 🛒 ⭐ Olive oil — *2 Tbsp total, added 2 tsp at a time across three steps*
+- 🛒 ⭐ Salt and ground black pepper
+
+**🛒 Slot 1 — Vegetables (½ lb): pick one or two**
+
+- 🛒 *Firm / hardy (steamed early):* asparagus · broccoli rabe · kale · broccoli · cauliflower · green beans · Brussels sprouts · winter squash · collard, mustard, or Swiss chard
+- 🛒 *Tender (sautéed late):* tomatoes · corn · spinach · red bell pepper · fennel · zucchini · yellow squash · mushrooms
+
+**🛒 Slot 2 — Protein (½ lb): pick one**
+
+- 🛒 Bulk or link Italian sausage · ham · bacon · corned beef
+- 🛒 Canned chickpeas — *the meatless option*
+
+**🛒 Slot 3 — Cheese (3–4 oz.): pick one**
+
+- 🛒 Sharp Cheddar · Gruyère · pepper Jack · feta · Swiss · Fontina
+
+**🛒 Slot 4 — Herb (optional): pick one**
+
+- 🛒 *Fresh:* basil · parsley · cilantro · dill · tarragon
+- 🛒 *Dried:* oregano · thyme · tarragon
+
+**Not a grocery item, but required:** a 12-inch heavy-bottomed **ovenproof nonstick** skillet, and a **plastic** spatula for cutting.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,110 | 144 g | 105 g | 84 g | 12 g |
+| **Per serving** *(serves 5 (4 to 6))* | ~420 | 29 g | 21 g | 17 g | 2.4 g |
+
+**What a serving is:** one wedge — a quarter to a sixth of a 12-inch frittata.
+
+*Figures assume bulk Italian sausage and cheddar. A meatless version (the corn-tomato or chickpea builds) drops roughly 100 cal and 8 g fat per wedge.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ### 10.1 Huevos Rancheros
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
 ### 10.2 Egg Omelette Scrambles
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 >
-> **Related and already documented:** **[§T10 Loaded Frittata Formula](#t10-loaded-frittata-formula)** — a slot formula for a skillet-and-broiler egg dish that feeds 4 to 6, with 8 named combinations. Different technique from a scramble or a folded omelette, but it's the egg formula on file if you want one tonight.
+> **Related and already documented:** **[§10.0 Loaded Frittata Formula](#100-the-loaded-frittata-formula)** — a slot formula for a skillet-and-broiler egg dish that feeds 4 to 6, with 8 named combinations. Different technique from a scramble or a folded omelette, but it's the egg formula on file if you want one tonight.
 
 ### 10.3 Bacon and Eggs
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.

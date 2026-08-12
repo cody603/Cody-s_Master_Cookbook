@@ -219,6 +219,7 @@ Click any recipe to jump straight to it.
 - [8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) ✅
 - [8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) ✅
 - [8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) ✅
+- [8.18 Gazpacho](#818-gazpacho) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -275,6 +276,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Second recipe from The Silver Palate Cookbook: [§8.18 Gazpacho](#818-gazpacho)**, p. 68 — a chunky, chilled tomato-vegetable soup, blended in batches and kept a little coarse rather than fully smooth. **Flagged rather than smoothed over: the source calls for 3 raw eggs, and the soup is never heated at any point** — transcribed as printed, with a note that pasteurized eggs substitute cleanly if that's a concern. Also includes the source's own **Gazpacho Cooler** — leftover gazpacho topped with Perrier over ice — folded in as a serving variation rather than a separate numbered entry, the same treatment as [§7.51](#751-boudin-blanc-boudin)'s Fried Boudin Patties. A "Greek Lemon" title peeks in at the bottom of the same page, not yet photographed. |
 | 2026-08-10 | **First recipe from a new source: [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup)**, from **The Silver Palate Cookbook**, p. 57 — a puréed pea and spinach soup finished with fresh mint and heavy cream, using frozen peas and spinach but fresh mint (per the source's own insistence). One source reference not yet transcribed: its own Chicken Stock (page 416); a general chicken stock substitutes fine for now. **The tail end of a second, unrelated soup shares the same page** (three steps mentioning orange juice and zest, no title or ingredients visible) — not enough to transcribe, noted rather than guessed at. |
 | 2026-08-10 | **[§7.51 Boudin Blanc](#751-boudin-blanc-boudin)'s open "Lagniappe" reference resolved: [§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe)**, from the same source's general casing-prep sidebar (p. 240–241) — soaking and rinsing casings, checking for holes, loading the stuffing tube, working out air bubbles, and recovering from a burst casing without starting over. Filed as a formula, not tied to one recipe, since it applies to any boudin in this cookbook. §7.51's own text and its casing-stuffing step now link here instead of flagging the page as unread. **Fried Crawfish Patties, from the same photo batch, is being held back** to add alongside Crawfish Boudin itself once its remaining pages arrive, rather than standing alone without the recipe it's a leftover-use variation of. |
 | 2026-08-10 | **First recipe from a new source: [§7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin)**, Darilee and Saul's recipe from **The Prudhomme Family Cookbook**, p. 242–245 — **a different book from the *Louisiana Kitchen* already in this cookbook**, despite the shared Prudhomme name; flagged explicitly to avoid confusion. Pork shoulder and liver simmered in stock, ground, mixed with rice and aromatics, stuffed into hog casings, and poached — classic Cajun boudin blanc. **Two source references noted rather than guessed at:** Basic Pork Stock (p. 252) and Basic Cooked Rice, neither transcribed yet (a general stock and plain rice substitute fine), plus a "Lagniappe" on p. 241. **The poaching/storage step and the fried-patties variation are flagged as reconstructions** — the source photo covering them was worn and low-contrast in spots, so the write-up follows the most sensible reading rather than a guaranteed word-for-word transcription. Per Cody's explicit instruction, this batch's companion **Red Boudin** recipe is being skipped entirely, and **Crawfish Boudin** (Allie and Etell's recipe, p. 238–239) is held pending its remaining pages, which are still to come. |
@@ -518,6 +520,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
+| [§8.18 Gazpacho](#818-gazpacho) | 🟢 | 40 min | — | — | 40 min *(+ at least a 4 hr chill)* |
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
@@ -12432,6 +12435,87 @@ Season with salt and pepper, simmer briefly to heat through, and serve immediate
 **What a serving is:** a generous first-course bowl, about 1 to 1½ cups.
 
 *The heavy cream and butter account for most of the fat here; peas and spinach carry most of the fiber.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.18 Gazpacho
+
+Transcribed from **The Silver Palate Cookbook**, p. 68 — the *Soup's On* chapter. *"We like to ladle gazpacho into chilled heavy mugs as a sippable summer first course while the steaks are grilling. Garnish each portion with a crisp fresh scallion."*
+
+> ⚠️ **Raw egg, as printed.** The three eggs go in lightly beaten and raw — this soup is never heated at any point, only chilled. Transcribed faithfully since that's what the source calls for, but it's worth knowing if that's a concern: pasteurized eggs are a straightforward substitute here with no change to the method.
+
+**Yield:** 8 to 10 portions
+
+**🟢 Easy** · **Prep ~40 min** *(chopping, whisking, blending in batches)* · **Cook none** · **Start to finish ~40 min** *(plus at least a 4 hr chill — lead time, not cooking)*
+
+#### A. Ingredients
+
+- 6 large ripe tomatoes
+- 2 red bell peppers
+- 2 medium-size yellow onions
+- 2 large shallots
+- 2 large cucumbers
+- ½ cup red wine vinegar
+- ½ cup olive oil
+- 1½ cups canned tomato juice
+- 3 eggs, lightly beaten *(see note above)*
+- ½ cup chopped fresh dill
+- Pinch of cayenne pepper
+- Salt and freshly ground black pepper, to taste
+- Fresh scallions, for garnish
+
+#### B. Cooking Instructions
+
+**1. Prep the vegetables.**
+Wash the tomatoes and peppers. Core and coarsely chop the tomatoes, saving the juices. Stem, seed, and coarsely chop the peppers. Peel and coarsely chop the onions and shallots. Peel, seed, and coarsely chop the cucumbers.
+
+**2. Whisk the liquid base.**
+In a bowl, whisk together the vinegar, olive oil, the reserved tomato juices, the canned tomato juice, and the eggs.
+
+**3. Purée the vegetables in batches, leaving some texture.**
+In a blender or food processor, purée the vegetables in small batches, adding the tomato juice mixture as necessary to keep the blades from clogging. Don't purée completely — the gazpacho should still have some crunch to it.
+
+**4. Season and chill. At least 4 hours.**
+Stir in the dill, cayenne, salt, and pepper. Cover and chill for at least 4 hours.
+
+**5. Correct the seasoning and serve.**
+Stir, taste, and correct the seasoning. Ladle into chilled soup bowls or mugs, and garnish each portion with a fresh scallion.
+
+> **Gazpacho Cooler, per the source — a way to use leftovers:** pour 4 oz (½ cup) of leftover gazpacho and 6 oz of Perrier or other sparkling water into a chilled glass and stir. Add ice cubes and garnish with a slice of cucumber. A sippable, spritzed-up way to serve the last of a batch.
+
+> **A next recipe, glimpsed but not captured:** the bottom of this page shows the start of a "Greek Lemon [Soup]" title, cut off before any content — not photographed yet.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ripe tomatoes — 6 large
+- 🛒 Red bell peppers — 2
+- 🛒 Yellow onions — 2 medium
+- 🛒 Shallots — 2 large
+- 🛒 Cucumbers — 2 large
+- 🛒 Red wine vinegar — ½ cup
+- 🛒 Olive oil — ½ cup
+- 🛒 Canned tomato juice — 1½ cups
+- 🛒 Eggs — 3
+- 🛒 Fresh dill — ½ cup chopped
+- 🛒 Cayenne pepper
+- 🛒 Salt and black pepper
+- 🛒 Scallions — for garnish
+- 🛒 Perrier or other sparkling water — if making the Gazpacho Cooler
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,760 | 123 g | 43 g | 128 g | 28 g |
+| **Per serving** *(serves 9, midpoint of 8–10)* | ~195 | 14 g | 5 g | 14 g | 3 g |
+
+**What a serving is:** about 1 to 1¼ cups — a chilled soup mug or bowl portion.
+
+*Olive oil accounts for most of the fat; the vegetables carry the fiber. Figures don't include the Gazpacho Cooler variation, which is tracked separately if made.*
 
 [↑ Table of Contents](#table-of-contents)
 

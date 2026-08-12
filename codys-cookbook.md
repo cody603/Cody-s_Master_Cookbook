@@ -285,6 +285,7 @@ Click any recipe to jump straight to it.
 - [10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ○ ❤️
 - [10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) ✅
 - [10.6 Irish Soda Bread](#106-irish-soda-bread) ✅
+- [10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) ✅
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
@@ -309,6 +310,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **[§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche)**, Mastering the Art of French Cooking, p. 147 -- the classic version: heavy cream, eggs, and bacon, deliberately no cheese, per the source's own opening line. Bacon blanched to mellow its smoke and salt before browning, pressed into a partially baked shell, then the custard poured over and baked until puffed. **One reference not yet transcribed**: the 8-inch pastry shell itself (source p. 146) -- any standard single crust, blind-baked partway, substitutes in the meantime. The source's general quiche note on cooling, reheating, and keeping (it sinks as it cools, won't puff a second time, travels well cold) is carried over since it applies here directly. **Quiche au Fromage de Gruyère, which starts right below this recipe on the same page, is left out** per Cody's "Quiche Lorraine only." |
 | 2026-08-10 | **[§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)**, Mastering the Art of French Cooking, Chapter Six: Poultry, p. 245-246 -- a complete recipe, unlike [§7.56](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon). Mushrooms poached and folded into cream, the pan drippings deglazed with port and reduced, the carved chicken flambeed with cognac in its serving casserole, then steeped in the mushroom-cream sauce without letting it boil. **One real dependency flagged rather than filled in:** the roasting step itself just says "as described in the master recipe on page 240," which isn't photographed -- and turns out to be the same page [§T24](#t24-the-french-sauce-families--roux-ratios) already cites for this source's brown deglazing sauce. A standard roasting time is offered as a practical stand-in rather than left blank. |
 | 2026-08-10 | **A third wine-braise from the same book, flagged incomplete rather than guessed at: [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon)**, Mastering the Art of French Cooking, Chapter Six: Poultry, p. 263-264. Confirmed through browning the chicken and bacon, flambeing with cognac, and a 25-30 minute wine simmer -- but the recipe's own finishing steps (straining, thickening, reassembling with the onion and mushroom garnish) aren't in the photographed pages, since the next page photographed turned out to belong to a different recipe (*Chicken Fricassee*), not this one. **Followed the [§14.3 Classic Tuiles](#143-classic-tuiles) precedent exactly**: written up as far as the source goes, difficulty marked provisional, excluded from the Difficulty & Time Index's counts and totals, and a clear ⚠️ flag rather than a filled-in ending. **This also confirms the family**: [§T24](#t24-the-french-sauce-families--roux-ratios)'s own Sauce Bourguignonne note names *"boeuf bourguignon and coq au vin"* as its two examples, citing this exact page (263) -- now cross-linked to [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and this entry directly. Shares its onion (p. 483) and mushroom (p. 513) garnish references with §7.54/§7.55. |
 | 2026-08-10 | **A second beef braise from the same chapter: [§7.55 Braised Beef-Pot Roast — Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine)**, p. 310–312 — a whole 5-lb roast marinated 6 to 24 hours in red wine, brandy, and vegetables, then browned, braised 2½–3 hours, and finished with a reduced, lightly thickened sauce and a carrot-and-onion garnish. **Kept explicitly distinct from [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)** despite the shared chapter and wine-braise family — one whole roast versus cubed stewing beef, marinated versus not, reduction-thickened versus flour-crusted. **Closes a small loop:** the chapter's own braised-beef intro names Sauce Tomate or Coulis de Tomates as a serving sauce, which are already in this cookbook as [§4.82](#482-sauce-tomate-tomato-sauce) and [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) — now cross-linked. A third named sauce, **Sauce Suprême** (p. 59), stays open, flagged as distinct from the plain [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)/[§4.64](#464-sauce-parisienne-egg-yolk-and-cream-enrichment). The carrot- and onion-braising garnish techniques (p. 477, p. 483) also aren't transcribed yet — p. 483 is the same page [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) already pointed to, so the gap is now confirmed rather than assumed. A **Cold Braised Beef** variation is glimpsed but cut off mid-sentence before its method. |
@@ -607,6 +609,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T10 Loaded Frittata](#t10-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
+| [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
@@ -16266,6 +16269,74 @@ Allow to cool briefly on a wire rack. Serve warm — or, the next day, toasted f
 | **Per serving** *(1 slice, of 10)* | ~295 | 5.4 g | 8 g | 52 g | 2.3 g |
 
 **What a serving is:** one thick slice — plain warm from the oven, or toasted the next day.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 10.7 Quiche Lorraine (Cream and Bacon Quiche)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 147 — the *Quiches* chapter. *"The classic quiche Lorraine contains heavy cream, eggs, and bacon, no cheese. The bacon is usually blanched in simmering water to remove its smoky, salty taste, but this step is optional. Diced, cooked ham, sautéed briefly in butter, may replace the bacon."*
+
+> **On serving and keeping, per the source's general note on quiches:** set the oven door ajar as it cools and it will sink down — that's normal, not a failure. It may be reheated, but won't puff again the second time. A cold quiche makes a good snack and travels well on a picnic.
+
+> **One reference not yet transcribed:** the *8-inch partially cooked pastry shell* the filling goes into (source p. 146). Any standard single pie crust, blind-baked partway, works in the meantime — see this cookbook's own pastry entries if you have one written up already.
+
+> **Not the only quiche on this page.** *Quiche au Fromage de Gruyère* (Swiss Cheese Quiche) starts directly below this recipe, sharing the "Quiches" intro above — left out here per Cody's "Quiche Lorraine only."
+
+**Yield:** 4 to 6 servings
+
+**🟡 Medium** · **Prep ~20 min** *(blanching and browning the bacon, whisking the egg mixture — not counting the pastry shell itself)* · **Cook ~28 min** *(25 to 30 min bake)* · **Start to finish ~48 min** *(plus making and partially baking the pastry shell — see note above)*
+
+#### A. Ingredients
+
+- 3 to 4 oz lean bacon (6 to 8 slices, medium thickness)
+- 1 quart water
+- An 8-inch partially cooked pastry shell, placed on a baking sheet *(source p. 146 — not yet transcribed)*
+- 3 eggs, or 2 eggs and 2 yolks
+- 1½ to 2 cups whipping cream, or half cream and half milk
+- ½ tsp salt
+- Pinch of pepper
+- Pinch of nutmeg
+- 1 to 2 Tbsp butter, cut into pea-sized dots
+
+#### B. Cooking Instructions
+
+**1. Preheat the oven to 375°F.**
+
+**2. Blanch, brown, and layer the bacon.**
+Cut the bacon into pieces about an inch long and ¼ inch wide. Simmer 5 minutes in the water, then rinse in cold water and dry on paper towels. Brown lightly in a skillet. Press the bacon pieces into the bottom of the pastry shell.
+
+**3. Beat the filling and assemble.**
+Beat the eggs, cream and milk, and seasonings in a mixing bowl until blended. Pour into the pastry shell over the bacon, and distribute the butter dots on top.
+
+**4. Bake. 25 to 30 minutes.**
+Set in the upper third of the preheated oven and bake until the quiche has puffed and browned. Slide onto a hot platter and serve.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Lean bacon — 3 to 4 oz (6 to 8 slices), **or** diced cooked ham, sautéed briefly in butter, as a substitute
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 3, or 2 eggs plus 2 yolks
+- 🛒 Whipping cream, or half cream and half milk — 1½ to 2 cups
+- 🛒 Salt, pepper, nutmeg
+- 🛒 Butter — 1 to 2 Tbsp
+- 🛒 Pie pastry — for an 8-inch partially cooked shell
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,200 | 279 g | 73 g | 83 g | 2 g |
+| **Per serving** *(serves 5, midpoint of 4–6)* | ~640 | 56 g | 15 g | 17 g | 0.4 g |
+
+**What a serving is:** one generous wedge, about ⅙ of an 8-inch quiche.
+
+*Heavy cream and the pastry shell's butter carry most of the fat here; the shell itself carries most of the carbs.*
 
 [↑ Table of Contents](#table-of-contents)
 

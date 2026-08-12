@@ -197,6 +197,7 @@ Click any recipe to jump straight to it.
 - [7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) ✅
 - [7.49 "Brunette" de Veau](#749-brunette-de-veau) ✅
 - [7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) ✅
+- [7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -272,6 +273,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **First recipe from a new source: [§7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin)**, Darilee and Saul's recipe from **The Prudhomme Family Cookbook**, p. 242–245 — **a different book from the *Louisiana Kitchen* already in this cookbook**, despite the shared Prudhomme name; flagged explicitly to avoid confusion. Pork shoulder and liver simmered in stock, ground, mixed with rice and aromatics, stuffed into hog casings, and poached — classic Cajun boudin blanc. **Two source references noted rather than guessed at:** Basic Pork Stock (p. 252) and Basic Cooked Rice, neither transcribed yet (a general stock and plain rice substitute fine), plus a "Lagniappe" on p. 241. **The poaching/storage step and the fried-patties variation are flagged as reconstructions** — the source photo covering them was worn and low-contrast in spots, so the write-up follows the most sensible reading rather than a guaranteed word-for-word transcription. Per Cody's explicit instruction, this batch's companion **Red Boudin** recipe is being skipped entirely, and **Crawfish Boudin** (Allie and Etell's recipe, p. 238–239) is held pending its remaining pages, which are still to come. |
 | 2026-08-10 | **Another long-standing open reference resolved: [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 140–143) — [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) has been citing this exact dish by page number since it was added ("page 143, not in this cookbook"); §4.43's own text now links to it instead. Baby back ribs, membrane removed, marinated 6–12 hours in lemongrass, ginger, garlic, shallot, fish sauce, and lemon juice, then indirect-grilled 1¼–1½ hours with no wood chips at all — the source's own note points out that smoking is a North American habit, not an Asian barbecue one. **Rated Slow cook for the grill time**, same convention as [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage)'s identical indirect setup. This is a separate dish from Cody's own planned [§6.5 Smoked Ribs](#65-smoked-ribs) — different marinade, different method (grilled, not smoked) — so it's filed on its own in §7 rather than touching that placeholder. |
 | 2026-08-10 | Added **[§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 228), from the recipe "Spatchcocked Chicken with Walnut-Dill Pesto." **Only the pesto is transcribed, per Cody's explicit request** — dill, basil, garlic, walnuts, and Romano cheese, loosened with olive oil, lemon juice, and water into a thick, spoonable dressing. The source's own spatchcocking-and-grilling method and its use of the pesto as a chicken rub-and-baste are not included; Cody has his own way of doing barbecue chicken and just wanted the pesto itself. |
 | 2026-08-10 | **Closed out §7.32's last open reference, and added Cody's own rib-marinade technique.** [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise), transcribed from **Steven Raichlen's *How to Grill*** (p. 452) — a shortcut Béarnaise built by stirring a shallot-tarragon-white-wine reduction into store-bought mayonnaise instead of a from-scratch emulsion. This was the last of the five serving sauces named by [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin); §7.32's own text is updated now that all five are transcribed. **Also added [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), Cody's own dictated technique, not from a photographed source.** Two methods: a dry brine (salt and fridge) or a wet marinade (apple cider vinegar and hand-squeezed lemon juice, 6 hours to overnight). Cody's own figure — 1 lemon per rack — is used as given; **the apple cider vinegar quantity (½ cup per rack) is my own judgment call**, since Cody explicitly asked for a modular starting point rather than dictating an exact ratio, with worked totals at his stated batch sizes of 4 and 6–7 racks. A minimal **[§6.5 Smoked Ribs](#65-smoked-ribs)** placeholder was added too, cross-linked to T22, with the rub/wood/temp/time still needed to complete it. |
@@ -539,6 +541,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
+| [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -10987,6 +10990,102 @@ Transfer the ribs to a cutting board and let rest a few minutes. Cut the racks i
 **What a serving is:** as an appetizer, a few ribs (about half a rack) with a sprinkle of cilantro and peanuts and a small bowl of dipping sauce; as a main course, about one full rack.
 
 *Ribs are a fatty cut, and this figure counts the meat and its rendered fat as grilled — not the drippings left in the drip pan. The dipping sauce is tracked separately in [§4.43](#443-vietnamese-dipping-sauce)'s own Nutrition block, not folded in here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.51 Boudin Blanc (Boudin)
+
+Transcribed from **The Prudhomme Family Cookbook** — Darilee and Saul's recipe, p. 242–245. **A different book from [T1](#t1-how-to-make-a-roux) and this cookbook's *Louisiana Kitchen* sauces**, despite sharing the Prudhomme name — this is a community/family cookbook of contributed recipes, credited by name to individual family members rather than to Chef Paul Prudhomme alone. *"Cajun boudin blanc is a white pork sausage with rice mixed into the stuffing. Boudin rouge, red boudin, contains fresh pork blood; otherwise, the recipe is essentially the same as for boudin blanc, which Cajuns always call simply 'boudin.' Up until Saul was forty years old, his family and the Prudhommes cooked the meat for boudin outdoors in big pots over a wood fire."*
+
+> *"Darilee and Saul say boudin alone is great, but it's also 'très bon' with saltines and cold beer. It makes a wonderful snack or breakfast food, and it's ideal to serve at parties. You can also use the cooked boudin as a side dish or to stuff meat and fowl."*
+
+**Yield:** about 5 lb, or about 15 snack or lunch servings — the source notes the recipe yields about 2½ quarts of filling
+
+> **Two untranscribed source references, noted rather than guessed at:** the ingredient list calls for **Basic Pork Stock (page 252)** and **Basic Cooked Rice**, neither photographed yet — a general pork or chicken stock and plain cooked rice work fine in their place. The method also points to a **"Lagniappe," page 241**, not photographed either; likely a garnish or serving note.
+
+**🟡 Medium** · **Prep ~45 min** *(deboning, grinding, mixing, stuffing casings)* · **Cook ~20 min** *(poaching)* · **Slow cook ~2 hr** *(simmering the meat and liver in stock, unattended)* · **Start to finish ~3 hr 5 min**
+
+#### A. Ingredients
+
+- 1½ lb bone-in pork shoulder steak, about 1 inch thick, cut into about 4 pieces (one or more pieces will contain bone)
+- ¼ lb pork liver, coarsely chopped *(see Note)*
+- 1 small package 37-millimeter natural hog casings
+- About 2½ quarts, in all, pork stock *(Basic Pork Stock, source p. 252 — not yet transcribed; a general pork or chicken stock substitutes fine)*
+- 6 to 9 cups hot cooked rice, freshly made *(see Note)*
+- 1 cup minced onions
+- 1 cup finely chopped green onions (tops only)
+- ¾ cup coarsely chopped fresh parsley
+- 1 Tbsp minced garlic
+- About 1 Tbsp, in all, ground red pepper (preferably cayenne)
+- 2 tsp salt
+- 1½ tsp black pepper
+- Water, for poaching
+
+> **Note, per the source:** if you can't obtain very fresh (and never frozen) liver, it's best to omit it — an off liver taste will dominate all the other flavors if it isn't fresh. For best results, use freshly made rice rather than leftovers.
+
+#### B. Cooking Instructions
+
+**1. Simmer the meat and liver in stock. About 2 hours.**
+Place the pork shoulder, liver, and 7 cups of the stock in a 4-quart saucepan. Cover and bring to a boil over high heat, stirring once or twice. Uncover and boil about 15 minutes, stirring occasionally and skimming off any foam. Reduce the heat to a strong simmer, cover with the lid ajar, and cook until the meat falls away from the bones, about 2 hours, stirring occasionally. Add more stock or water toward the end if the meat isn't nearly covered by liquid. Remove from heat.
+
+**2. Strain and reserve the stock.**
+Lift the meat and any pieces of fat into a large bowl with a slotted spoon. Strain the cooking stock and reserve 2 cups of it, topping up with more stock or water if you come up short.
+
+**3. Debone and grind the meat.**
+Pick out any bones, including small ones, not just the obvious large ones. Grind the meat and fat through a meat grinder fitted with a coarse disc (about ⅜-inch holes) into a large bowl.
+
+**4. Mix in the rice and seasonings.**
+Stir in 6 cups of the rice, the onions, green onions, parsley, garlic, red pepper, salt, and black pepper, mixing well. Taste and add more red pepper if you want more heat. Stir in the reserved 2 cups of stock.
+
+**5. Adjust the texture.**
+The mixture should be very moist but not runny. If it's runny, stir in more rice, up to 3 cups more, a cup at a time. If it's too dry, work in a little more stock.
+
+**6. Stuff the casings while the mixture is still hot.**
+Fill the casings using a sausage-stuffing attachment, a food processor fitted with a sausage horn, or a sausage funnel. Twist into links if you like, turning the sausage two or three turns at each point you want a link to end — a 4-inch link is a good size.
+
+**7. Poach. 15 to 20 minutes.**
+Coil the boudin loosely, in a single layer, into an 8-quart or larger pot and cover with water. Heat until the water reaches 175° to 185°F, then hold it there — just below a simmer — for 15 to 20 minutes, until the casings are taut and the flavors have married. Don't let the water go above 185°F, or the casings can burst.
+
+**8. Serve, or cool and store.**
+Serve right away, or if it's not going out immediately, give it an ice-water bath to stop the cooking, then refrigerate or freeze. Reheat the same way — 175° to 185°F, hot but not simmering.
+
+> ⚠️ **Step 8 is a reconstruction, not a confirmed transcription** — the source photo covering the poaching, cooling, and storage instructions was worn and low-contrast in places, and some of the exact wording (particularly around ice-water-bath timing and freezing) couldn't be read with full confidence. The technique above follows what could be made out and standard boudin practice; a straighter re-photo of source p. 245 would settle it.
+
+> **Leftover filling, per the source:** the bit that won't go through the sausage funnel is great spread on crackers or French bread. Leftover cooked boudin can spice up a winter soup, or be pan-fried into patties — shape chilled leftover filling (about ½ cup per patty) into a patty roughly 3½ inches across and ¾ inch thick, and pan-fry in a little vegetable oil over high heat, turning once, about 1 minute per side, until browned. **This variation is also a reconstruction** — the source photo of its exact method was hard to fully make out, so the technique above is the sensible reading of what's legible, not a guaranteed word-for-word transcription. The source notes that filling that isn't well chilled will break apart when patted into a patty.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Bone-in pork shoulder steak — 1½ lb, about 1 inch thick
+- 🏪 Pork liver — ¼ lb, as fresh as possible, never frozen
+- 🏪 Natural hog casings — 1 small package, 37 mm
+
+**🛒 General grocery**
+
+- 🛒 Pork stock (or a general pork or chicken stock) — about 2½ quarts total
+- 🛒 Cooked rice, freshly made — 6 to 9 cups
+- 🛒 Onions — 1 cup minced
+- 🛒 Green onions — 1 cup finely chopped (tops only)
+- 🛒 Fresh parsley — ¾ cup, coarsely chopped
+- 🛒 Garlic — 1 Tbsp minced
+- 🛒 Ground red pepper, preferably cayenne — about 1 Tbsp
+- 🛒 Salt — 2 tsp
+- 🛒 Black pepper — 1½ tsp
+- 🛒 Vegetable oil — for frying leftover patties, if making them
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 5 lb, 15 servings)* | ~3,400 | 106 g | 182 g | 368 g | 9 g |
+| **Per serving** *(serves 15, about 5 oz each)* | ~225 | 7 g | 12 g | 25 g | 0.6 g |
+
+**What a serving is:** about 5 oz — one large link, or a hearty snack or breakfast portion, per the source's own "15 snack or lunch servings" count.
+
+*This is a rice-forward sausage rather than a fatty one — 6 to 9 cups of rice against 1¾ lb of meat and liver keeps the carb count high and the fat count comparatively low for a pork sausage.*
 
 [↑ Table of Contents](#table-of-contents)
 

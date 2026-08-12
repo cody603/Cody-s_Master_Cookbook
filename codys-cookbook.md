@@ -227,6 +227,7 @@ Click any recipe to jump straight to it.
 - [7.52 Chicken Marbella](#752-chicken-marbella) ✅
 - [7.53 Pasta Puttanesca](#753-pasta-puttanesca) ✅
 - [7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) ✅
+- [7.55 Braised Beef-Pot Roast — Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -306,6 +307,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **A second beef braise from the same chapter: [§7.55 Braised Beef-Pot Roast — Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine)**, p. 310–312 — a whole 5-lb roast marinated 6 to 24 hours in red wine, brandy, and vegetables, then browned, braised 2½–3 hours, and finished with a reduced, lightly thickened sauce and a carrot-and-onion garnish. **Kept explicitly distinct from [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)** despite the shared chapter and wine-braise family — one whole roast versus cubed stewing beef, marinated versus not, reduction-thickened versus flour-crusted. **Closes a small loop:** the chapter's own braised-beef intro names Sauce Tomate or Coulis de Tomates as a serving sauce, which are already in this cookbook as [§4.82](#482-sauce-tomate-tomato-sauce) and [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) — now cross-linked. A third named sauce, **Sauce Suprême** (p. 59), stays open, flagged as distinct from the plain [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)/[§4.64](#464-sauce-parisienne-egg-yolk-and-cream-enrichment). The carrot- and onion-braising garnish techniques (p. 477, p. 483) also aren't transcribed yet — p. 483 is the same page [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) already pointed to, so the gap is now confirmed rather than assumed. A **Cold Braised Beef** variation is glimpsed but cut off mid-sentence before its method. |
 | 2026-08-10 | **First recipe from *Mastering the Art of French Cooking* outside its Sauces chapter: [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)**, Chapter Seven: Meat, the Beef Stews section. Bacon, beef, and vegetables browned in stages, the meat crusted with flour in a hot oven (a technique, not a roux — no burn risk, which is part of why this rates 🟡 Medium rather than 🔴 like this same source's roux-built sauces), then braised 2½–3 hours in red wine and stock, finished with brown-braised onions and sautéed mushrooms. The source's own note that it can be made a full day ahead and only improves is carried through as the recipe's two serving paths. **Two garnish techniques not yet transcribed** (brown-braised onions p. 483, sautéed mushrooms p. 513) get a reasonable stand-in method rather than being left blank. Per Cody's "bourguignon only," the facing-page **Carbonnades à la Flamande** (a Belgian beer-braised beef stew) is left out for now. |
 | 2026-08-10 | **The last two mother-group gaps closed — Chapter Two of *Mastering the Art of French Cooking* is now complete in this cookbook.** **[§4.84 Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing)** (p. 94–96) fills the **oil-and-vinegar group**, which had been the only one of the source's six families with nothing transcribed; its *Ravigote*, *à la Crème*, and cold *Moutarde* variations are folded in, matching the source's own "VARIATIONS" typography. **[§4.85 Beurre Blanc / Beurre Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce)** (p. 96–98) is the sauce [§T24](#t24-the-french-sauce-families--roux-ratios) had specifically flagged as *"the most important one that isn't in the six"* — both the classic and fast-boil butter methods, plus the *Beurre au Citron* variation. And **[§4.86 Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce)** (p. 99), in both the in-the-pan and made-separately methods. **Three rating decisions:** [§4.85](#485-beurre-blanc--beurre-nantais-white-butter-sauce) is 🔴 **Hard** — it's a butter emulsion that turns oily the instant it's reheated or held too warm, so it joins [§4.9 Hollandaise](#49-hollandaise-sauce) as the third failure category, though unlike Hollandaise the source gives it a documented rescue; the Hard count moves twelve → thirteen. [§4.86](#486-beurre-noir--beurre-noisette-brown-butter-sauce) is 🟡 **Medium** despite a genuine seconds-wide window between nutty and burnt, because the failure costs six ounces of butter rather than the dish — that's the line this cookbook draws. And **two disambiguation notes were added rather than merging anything**: there are now **five distinct mustard sauces** here ([§4.84](#484-sauce-vinaigrette-french-dressing)'s cold *Moutarde*, [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)'s hot *à la Moutarde*, [§4.76 Sauce Robert](#476-sauce-robert-brown-mustard-sauce), [§4.22](#422-mustard-sauce), and [§4.38](#438-mustard-sauce)) and **two lemon butter sauces** ([§4.85](#485-beurre-blanc--beurre-nantais-white-butter-sauce)'s *Beurre au Citron* and [§4.18](#418-lemon-butter-sauce)). Per Cody's "hot butter and oil vinegar only," the *beurres composés* intro on the same page is left out and noted in [§T24](#t24-the-french-sauce-families--roux-ratios)'s gap list. |
 | 2026-08-10 | **Chapter Two closed out, and its seams checked end to end — per Cody's ask that the French sauces "all come together in one cohesive unit."** Two new entries finish the source's six mother groups: **[§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce)** (p. 76–77 — the meaty version, built on a ham-and-vegetable base with stock and a butter roux, simmered the full 1½–2 hr the source insists on) and **[§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)** (p. 78 — the Mediterranean one: olive oil, garlic, saffron, fennel, and dried orange peel, no stock at all). **Three real holes found and closed while checking cohesion:** [§T24](#t24-the-french-sauce-families--roux-ratios)'s mother-group table still said the brown sauces were *"not yet transcribed"* — stale since the last batch, now pointing at all eleven of [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)–[§4.81](#481-sauce-périgueux-brown-madeira-sauce-with-truffles); its tomato row was empty and now points at both new entries; and **[§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)'s open "tomato purée, page 78" reference turned out to be [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) itself** — now linked rather than flagged. **[§T24](#t24-the-french-sauce-families--roux-ratios) gained two new sections:** *Other Brown Sauces*, cataloguing the five brown sauces this book scatters into other chapters (deglazing sauce, à l'Italienne, Bordelaise, à l'Orange, Bourguignonne) so the family is complete on paper — **noting that the brown deglazing sauce is already in this cookbook as [§T8 Pan Sauce Formula](#t8-pan-sauce-formula)**, the identical technique under a different name — and *What's Still Open*, listing every remaining gap in one place: the oil-and-vinegar group (the only mother group with nothing transcribed), *beurre blanc*, cream sauce p. 59, and the supporting technique pages. |
@@ -636,6 +638,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
+| [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
@@ -13173,6 +13176,128 @@ When cold, cover and refrigerate. About 15 to 20 minutes before serving, bring t
 **What a serving is:** a hearty bowl, about 1½ cups of stew with onions and mushrooms — figures don't include the potatoes, noodles, or rice served alongside.
 
 *Bacon and beef carry most of the fat and protein; the sautéed-mushroom and braised-onion garnishes add butter on top. Most of the wine's alcohol cooks off over the long braise, but its residual sugar and body stay in the reduced sauce.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.55 Braised Beef-Pot Roast — Boeuf à la Mode (Beef Braised in Red Wine)
+
+Transcribed from **Mastering the Art of French Cooking**, Chapter Seven: Meat, p. 310–312 — the same *Braised Beef* section as [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms). *"Braised beef is a wonderful party dish; it is not only delicious to smell, look at, and eat, but you have no worries about overdone meat, and you can cook it ahead of time if you need to. The following recipe calls for a 6- to 24-hour marination of the beef in red wine and aromatic vegetables before cooking."*
+
+> **Three serving sauces named just before this recipe, in the chapter's general braised-beef intro:** flavored with mustard and tomato (source p. 387 — not yet transcribed); **Sauce Tomate or Coulis de Tomates**, already in this cookbook as [§4.82](#482-sauce-tomate-tomato-sauce) and [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs); and **Sauce Suprême**, a velouté enriched with cream and the beef's own cooking stock (source p. 59 — not yet transcribed, and distinct from the plain [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) and [§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)).
+
+> **On the cut, per the source:** braising beef is traditionally larded — strips of fresh pork fat threaded through the grain to baste it from the inside as it cooks — though the source calls this optional and notes most butchers will do it for you. Choose a piece **at least 3 lb, at least 4 inches wide** (it shrinks considerably), figuring 1 lb boneless beef per 2 to 3 people. **First choice: Rump Pot Roast** (*Pointe de Culotte* or *Aiguillette de Rumsteck*). Other choices: Sirloin Tip/Knuckle, Chuck Pot Roast, Top Round, Bottom Round (*Gîte à la Noix*), Eye of Round.
+
+> **Serving suggestions, per the source:** traditionally garnished with braised carrots and onions, and served with buttered noodles, parsley potatoes, or steamed rice. Braised lettuce, celery, or leeks, or buttered green peas, are other vegetable options. Pour a good, characterful red wine — Burgundy, Hermitage, Côte Rôtie, or Châteauneuf-du-Pape.
+
+> **Two garnish techniques not yet transcribed, one of them shared with [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms):** carrots braised in butter (source p. 477) and small white onions brown-braised in stock (source p. 483 — the same page §7.54 also points to). In the meantime: quarter and braise the carrots slowly in butter with a splash of stock until tender and glazed; braise the peeled onions the same way §7.54 suggests.
+
+> **Distinct from [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms), despite the shared chapter and wine-braise family:** this is one large roast, marinated whole for 6 to 24 hours before it's ever browned, rather than cubed stewing beef browned and floured in batches. No bacon, no mushrooms, and the sauce is thickened by reduction (with an optional starch assist) rather than a flour crust.
+
+**Yield:** for 10 to 12 people
+
+**🟢 Easy** · **Prep ~20 min** *(chopping the marinade vegetables)* · **Cook ~50 min** *(browning the meat, reducing the marinade, straining and finishing the sauce)* · **Slow cook ~2¾ hr** *(braise, mostly unattended — turn the meat occasionally)* · **Start to finish ~4 hr** *(plus a 6–24 hr marinate — lead time, not cooking)*
+
+#### A. Ingredients
+
+**For the red wine marinade**
+
+- 1 cup each: thinly sliced carrots, onions, and celery stalks
+- 2 cloves garlic, halved
+- 1 Tbsp thyme
+- 2 bay leaves
+- ¼ cup minced parsley
+- 3 whole cloves, or 4 allspice berries
+- A 5-lb piece of braising beef, trimmed and tied for cooking
+- 1 Tbsp salt
+- ½ tsp pepper
+- 3 cups young red wine — Burgundy, Côtes du Rhône, Mâcon, or Chianti
+- ½ cup brandy
+- ½ cup olive oil
+
+**For browning and braising**
+
+- 4 to 6 Tbsp rendered pork fat or cooking oil
+- One or all of these, to give body to the sauce: 1 or 2 split calf's feet; 1 or 2 cracked veal knuckles; 4 to 8 oz fresh pork rind or bacon rind, simmered 10 minutes in a quart of water, rinsed and drained *(specialty butcher items — gelatin for body; see note below)*
+- 4 to 6 cups beef stock, or canned beef bouillon
+
+**For the garnish and finishing**
+
+- 2 lb carrots, quartered, braised in butter *(source p. 477 — not yet transcribed)*
+- 24 to 36 small white onions, brown-braised in stock *(source p. 483 — not yet transcribed; shared with [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms))*
+- 1 Tbsp arrowroot or cornstarch mixed with 2 Tbsp Madeira or port, if the sauce needs thickening
+- Parsley sprigs, for decoration
+
+> **Note on the calf's feet, veal knuckles, and pork rind:** these are optional but recommended — they add natural gelatin that gives the braising liquid body once it's reduced into a sauce. If you can't source them, the dish still works; the sauce will just be a touch lighter-bodied.
+
+#### B. Cooking Instructions
+
+**1. Marinate. 6 to 24 hours.**
+Place half the vegetables, herbs, and spices in the bottom of an enameled, Pyrex, or porcelain bowl just large enough to hold everything. Rub the meat with the salt and pepper. Spread the rest of the vegetables and herbs over the meat and set it on top of the vegetables in the bowl. Pour the wine, brandy, and olive oil over all. Cover and marinate at least 6 hours — 12 to 24 hours if refrigerated. Turn and baste the meat every hour or so. *(If you'd rather skip the marinating step, pour the marinade ingredients into the casserole after browning the meat instead.)*
+
+**2. Dry the meat. 30 minutes before cooking.**
+Drain the meat from its marinade — reserve the marinade — and dry it thoroughly with paper towels. It won't brown if it's damp.
+
+**3. Preheat the oven to 350°F.**
+
+**4. Brown the meat. About 15 minutes.**
+Add the fat to a fireproof casserole or heavy roaster just large enough to hold the meat and braising ingredients, and set over moderately high heat. When the fat is on the point of smoking, brown the meat on all sides — about 15 minutes. Pour out the browning fat.
+
+> **This is where the recipe may be prepared in advance,** per the source.
+
+**5. Reduce the marinade, then build and start the braise.**
+Pour in the reserved wine marinade and boil it down rapidly until it's reduced by half. Add the calf's feet, veal knuckles, and pork rind, whichever you're using, and pour in enough stock or bouillon to come two-thirds of the way up the beef. Bring to a simmer on top of the stove, skim, cover tightly, and set in the lower third of the preheated oven.
+
+**6. Braise. 2½ to 3 hours.**
+Regulate the heat so the liquid holds a gentle simmer throughout, and turn the meat several times as it cooks. The beef is done when a sharp-pronged fork pierces it easily.
+
+**7. Meanwhile, prepare the carrot and onion garnish.**
+While the beef braises, cook the carrots and onions separately. Set them aside until needed.
+
+**8. Strain, degrease, and reduce the sauce.**
+When the meat is tender, remove it to a platter. Strain the braising liquid through a sieve into a saucepan, pressing the liquid out of the vegetables, and skim the fat. Simmer a minute or two, skimming, then boil rapidly until reduced to about 3½ cups and full of flavor. Taste carefully for seasoning — the sauce should be lightly thickened. If it's too thin, beat in the arrowroot or cornstarch mixture and simmer 3 minutes. Add the cooked carrots and onions and simmer 2 minutes more to blend the flavors.
+
+**9. Plate and serve.**
+Remove the vegetables with a slotted spoon and arrange them around the meat. Decorate with parsley. Pour a little sauce over the meat and send the rest to the table in a warmed sauceboat — or carve the meat first and arrange it on the platter with the vegetables and parsley, spooning some sauce over the top.
+
+> **Ahead-of-time notes, per the source:** for a wait of up to an hour, return the meat, vegetables, and sauce to the casserole, cover loosely, and hold over barely simmering water. For a longer wait, slice the meat and arrange it with the vegetables on a fireproof platter, baste with the sauce, and reheat covered in a 350°F oven about half an hour before serving. **Leftovers reheat the same way and are just as good the next day.**
+
+> **Variation glimpsed, not captured — Cold Braised Beef.** The source notes this same braise can also be served cold, seasoned differently, by following directions for a related recipe (possibly *boeuf à la parisienne* or a minced version) on the following page — the text is cut off before the method, and that page isn't photographed.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Braising beef — a 5-lb piece, trimmed and tied (rump pot roast preferred; see cut notes above)
+- 🏪 Calf's feet, veal knuckles, or pork/bacon rind — for the sauce's body, optional but recommended
+
+**🛒 General grocery**
+
+- 🛒 Carrots — 1 cup thinly sliced for the marinade, plus 2 lb quartered for the garnish
+- 🛒 Onions — 1 cup thinly sliced for the marinade, plus 24 to 36 small white onions for the garnish
+- 🛒 Celery — 1 cup thinly sliced
+- 🛒 Garlic — 2 cloves
+- 🛒 Thyme, bay leaves, whole cloves or allspice berries
+- 🛒 Fresh parsley — ¼ cup minced, plus sprigs for garnish
+- 🛒 Young red wine — 3 cups (Burgundy, Côtes du Rhône, Mâcon, or Chianti)
+- 🛒 Brandy — ½ cup
+- 🛒 Olive oil — ½ cup
+- 🛒 Beef stock or canned beef bouillon — 4 to 6 cups
+- 🛒 Butter — for braising the carrot and onion garnish
+- 🛒 Arrowroot or cornstarch, and Madeira or port — if the sauce needs thickening
+- 🛒 Boiled potatoes, buttered noodles, or steamed rice — for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~7,750 | 417 g | 485 g | 184 g | 21 g |
+| **Per serving** *(serves 11, midpoint of 10–12)* | ~705 | 38 g | 44 g | 17 g | 2 g |
+
+**What a serving is:** a generous 6- to 7-oz slice of beef with braised carrots and onions and a ladle of sauce — figures don't include the noodles, potatoes, or rice served alongside.
+
+*The marinade vegetables are strained and pressed rather than eaten, so most of their bulk doesn't land on the plate. Beef and olive oil carry most of the fat and protein; the carrot and onion garnish carries most of the fiber.*
 
 [↑ Table of Contents](#table-of-contents)
 

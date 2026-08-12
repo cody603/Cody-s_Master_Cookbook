@@ -102,6 +102,9 @@ Click any recipe to jump straight to it.
   - [4.81 Sauce Périgueux (Brown Madeira Sauce with Truffles)](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) ✅
   - [4.82 Sauce Tomate (Tomato Sauce)](#482-sauce-tomate-tomato-sauce) ✅
   - [4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) ✅
+  - [4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) ✅
+  - [4.85 Beurre Blanc / Beurre Nantais (White Butter Sauce)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) ✅
+  - [4.86 Beurre Noir / Beurre Noisette (Brown Butter Sauce)](#486-beurre-noir--beurre-noisette-brown-butter-sauce) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -302,6 +305,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **The last two mother-group gaps closed — Chapter Two of *Mastering the Art of French Cooking* is now complete in this cookbook.** **[§4.84 Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing)** (p. 94–96) fills the **oil-and-vinegar group**, which had been the only one of the source's six families with nothing transcribed; its *Ravigote*, *à la Crème*, and cold *Moutarde* variations are folded in, matching the source's own "VARIATIONS" typography. **[§4.85 Beurre Blanc / Beurre Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce)** (p. 96–98) is the sauce [§T24](#t24-the-french-sauce-families--roux-ratios) had specifically flagged as *"the most important one that isn't in the six"* — both the classic and fast-boil butter methods, plus the *Beurre au Citron* variation. And **[§4.86 Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce)** (p. 99), in both the in-the-pan and made-separately methods. **Three rating decisions:** [§4.85](#485-beurre-blanc--beurre-nantais-white-butter-sauce) is 🔴 **Hard** — it's a butter emulsion that turns oily the instant it's reheated or held too warm, so it joins [§4.9 Hollandaise](#49-hollandaise-sauce) as the third failure category, though unlike Hollandaise the source gives it a documented rescue; the Hard count moves twelve → thirteen. [§4.86](#486-beurre-noir--beurre-noisette-brown-butter-sauce) is 🟡 **Medium** despite a genuine seconds-wide window between nutty and burnt, because the failure costs six ounces of butter rather than the dish — that's the line this cookbook draws. And **two disambiguation notes were added rather than merging anything**: there are now **five distinct mustard sauces** here ([§4.84](#484-sauce-vinaigrette-french-dressing)'s cold *Moutarde*, [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)'s hot *à la Moutarde*, [§4.76 Sauce Robert](#476-sauce-robert-brown-mustard-sauce), [§4.22](#422-mustard-sauce), and [§4.38](#438-mustard-sauce)) and **two lemon butter sauces** ([§4.85](#485-beurre-blanc--beurre-nantais-white-butter-sauce)'s *Beurre au Citron* and [§4.18](#418-lemon-butter-sauce)). Per Cody's "hot butter and oil vinegar only," the *beurres composés* intro on the same page is left out and noted in [§T24](#t24-the-french-sauce-families--roux-ratios)'s gap list. |
 | 2026-08-10 | **Chapter Two closed out, and its seams checked end to end — per Cody's ask that the French sauces "all come together in one cohesive unit."** Two new entries finish the source's six mother groups: **[§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce)** (p. 76–77 — the meaty version, built on a ham-and-vegetable base with stock and a butter roux, simmered the full 1½–2 hr the source insists on) and **[§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)** (p. 78 — the Mediterranean one: olive oil, garlic, saffron, fennel, and dried orange peel, no stock at all). **Three real holes found and closed while checking cohesion:** [§T24](#t24-the-french-sauce-families--roux-ratios)'s mother-group table still said the brown sauces were *"not yet transcribed"* — stale since the last batch, now pointing at all eleven of [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)–[§4.81](#481-sauce-périgueux-brown-madeira-sauce-with-truffles); its tomato row was empty and now points at both new entries; and **[§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)'s open "tomato purée, page 78" reference turned out to be [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) itself** — now linked rather than flagged. **[§T24](#t24-the-french-sauce-families--roux-ratios) gained two new sections:** *Other Brown Sauces*, cataloguing the five brown sauces this book scatters into other chapters (deglazing sauce, à l'Italienne, Bordelaise, à l'Orange, Bourguignonne) so the family is complete on paper — **noting that the brown deglazing sauce is already in this cookbook as [§T8 Pan Sauce Formula](#t8-pan-sauce-formula)**, the identical technique under a different name — and *What's Still Open*, listing every remaining gap in one place: the oil-and-vinegar group (the only mother group with nothing transcribed), *beurre blanc*, cream sauce p. 59, and the supporting technique pages. |
 | 2026-08-10 | **The brown sauce half of the same chapter — eleven more entries from *Mastering the Art of French Cooking*, p. 66–75, completing Chapter Two.** Three interchangeable brown sauce bases, which every derived sauce can be built on: **[§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)** (brown roux, 2 hr+ simmer — the source calls it *"the best of the group and the one most nearly approaching the traditional demi-glace"*), **[§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2)** (same, with giblets and bones from whatever it'll be served with; its *Poivrade* and *Venaison* variations folded in), and **[§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)** (cornstarch, 5 minutes — **the lightest sauce in this cookbook at ~16 cal per ¼ cup**, and the source is candid that it's only as good as the stock). Then eight composed sauces off those: **[§4.74 Diable](#474-sauce-diable-peppery-brown-sauce)**, **[§4.75 Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers)**, **[§4.76 Robert](#476-sauce-robert-brown-mustard-sauce)**, **[§4.77 Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce)**, **[§4.78 Brune au Cari](#478-sauce-brune-au-cari-brown-curry-sauce)**, **[§4.79 Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)**, **[§4.80 Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)**, and **[§4.81 Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles)**. **[§T24](#t24-the-french-sauce-families--roux-ratios) extended** with the brown sauce essay (including why the source skips *espagnole* and *demi-glace* entirely), the brown roux note, and the meat-stock note with its canned-beef-bouillon upgrade. **Two decisions worth stating:** [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) are rated 🔴 **Hard** on this cookbook's standing roux rule — the source explicitly warns that burnt flour *"will not thicken the sauce as it should, and it will also impart an unpleasant taste,"* the same perfect-to-ruined failure as [§T1](#t1-how-to-make-a-roux), just at gentler heat; the Hard count moves from ten to twelve. And the source's *Sauce à la Moutarde* and *Sauce aux Anchois* were **folded into [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) as variations** rather than given their own numbers, matching how *Sauce aux Câpres* was handled and avoiding a third top-level "Mustard Sauce" alongside [§4.22](#422-mustard-sauce) and [§4.38](#438-mustard-sauce). One source cross-reference stays open: **Sauce Chasseur**, which lives in the book's Veal section (p. 368) rather than this chapter. |
 | 2026-08-10 | **Biggest single batch yet, and a major new source: nine entries from *Mastering the Art of French Cooking* (Julia Child, Louisette Bertholle, Simone Beck)**, Chapter Two: Sauces, p. 55–65. The white-sauce family, essentially complete: **[§4.63 Sauce Béchamel / Sauce Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce)** is the master recipe (the source prints béchamel and velouté as one recipe — same method, milk versus stock), and seven derived sauces hang off it: **[§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)** (egg yolk and cream enrichment, formerly sauce allemande), **[§4.65 Mornay](#465-sauce-mornay-cheese-sauce)**, **[§4.66 Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)**, **[§4.67 Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)**, **[§4.68 au Cari](#468-sauce-au-cari-light-curry-sauce)**, **[§4.69 Soubise](#469-sauce-soubise-onion-sauce)**, and **[§4.70 Bâtarde / au Beurre](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)** (mock hollandaise, with the Sauce aux Câpres variation folded in). Plus **[§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios)** — the source's six mother-sauce groups, its flour-per-cup thickness table (1 Tbsp thin / 1½ medium / 2 thick / 3 soufflé base), the saucepan warning (no aluminum with wine or egg yolks), and its canned-chicken-broth upgrade treatment. Filed as pure reference like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T7](#t7-louisiana-language--ingredients), so it carries no badge or Nutrition block and stays out of the index counts. **Two things worth flagging:** [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) is rated 🟡 Medium rather than 🔴 like [§4.9 Hollandaise](#49-hollandaise-sauce), because its flour base supports the egg yolk — the source is explicit that a flour-based sauce *can* be boiled without curdling, which is the whole point of a "mock" hollandaise; and [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) is kept distinct from [§4.52 Balsamella](#452-balsamella), Canal House's thicker Italian version of the same sauce, rather than merged. **Also fixed a stale table:** the T-section's own quick index had stopped at T17 and was missing T18–T23; all of them plus T24 are now listed. |
@@ -436,6 +440,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | Recipe | | Prep | Cook | Slow cook | Start to finish |
 |---|---|---|---|---|---|
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
+| [§4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) | 🟢 | 5 min | — | — | 5 min |
 | [§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) | 🟢 | 2 min | 3 min | — | 5 min |
 | [§4.25 Basic Fish Cure](#425-basic-fish-cure) | 🟢 | 5 min | — | — | 5 min |
 | [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) | 🟢 | 5 min | — | — | 5 min |
@@ -510,6 +515,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
+| [§4.85 Beurre Blanc / Nantais (White Butter)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) | 🔴 | 5 min | 15 min | — | 20 min |
 | [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
 | [§4.81 Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
 | [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) | 🟢 | 10 min | 10 min | — | 20 min |
@@ -518,6 +524,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) | 🟡 | 5 min | 10 min | — | 15 min *(+ §4.63)* |
 | [§4.70 Sauce Bâtarde (Mock Hollandaise)](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.80 Sauce Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) | 🟢 | 5 min | 10 min | — | 15 min *(+ brown sauce)* |
+| [§4.86 Beurre Noir / Noisette (Brown Butter)](#486-beurre-noir--beurre-noisette-brown-butter-sauce) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
 | [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) | 🟢 | 20 min | — | **~2 hr** *(unattended oven roast, size-dependent)* | 2 hr 20 min |
 | [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
@@ -643,11 +650,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 102 recipes**, including nearly all of §4's now-83 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 105 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The twelve 🔴 Hard ones come down to four problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), and now the two French brown sauce bases — [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) — are hard for one reason: **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. **Learn the roux once and eight of the twelve stop being hard** — and the French brown roux is the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
+**The thirteen 🔴 Hard ones come down to four problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), and now the two French brown sauce bases — [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) — are hard for one reason: **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) for a third: **a butter emulsion that breaks** — Hollandaise can't be rescued at all, and beurre blanc turns oily the moment it's reheated or held too warm, though the source at least gives it a documented fix. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. **Learn the roux once and eight of the thirteen stop being hard** — and the French brown roux is the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
@@ -6076,6 +6083,204 @@ Remove the herb bouquet. If necessary, stir in 1 or 2 Tbsp of tomato paste for c
 
 ---
 
+### 4.84 Sauce Vinaigrette (French Dressing)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 94–96 — **the oil-and-vinegar group, the fifth of the source's six mother-sauce families** ([§T24](#t24-the-french-sauce-families--roux-ratios)) and, until now, the only one with nothing transcribed. **For:** salads and simple marinades.
+
+> **The source is opinionated about what does and doesn't belong.** *"The basic French dressing of France is a mixture of good oil, salt, pepper, fresh green herbs in season, and mustard if you like it. Garlic is employed usually only in southern France. Worcestershire, curry, cheese, and tomato flavorings are not French additions, and **sugar is heresy**."*
+
+> **On the ratio, per the source:** *"The usual proportion of vinegar to oil is one to three, but you should establish your own relationship."* The printed quantities below run leaner than that at the low end — ½ Tbsp vinegar to 6 Tbsp oil is closer to 1:12 — so treat the range as the invitation to find your own that the source intends.
+
+> **Two practical rules the source insists on:** make the dressing **in the empty salad bowl or a jar**, so everything is blended and flavored *before* the greens go in; and **dry the greens completely**, or the dressing won't cling to the leaves. Also: *"Salad dressings are always best when freshly made; if they stand around for several days they tend to acquire a rancid taste."*
+
+**Yield:** about ½ cup
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- ½ to 2 Tbsp good wine vinegar, or a mixture of vinegar and lemon juice
+- ⅛ tsp salt
+- Optional: ¼ tsp dry mustard
+- 6 Tbsp salad oil or olive oil
+- Big pinch of pepper
+- Optional: 1 to 2 Tbsp minced green herbs — parsley, chives, tarragon, basil — or a pinch of dried herbs
+
+#### B. Cooking Instructions
+
+**1. Build it one of two ways — bowl or jar.**
+**Either** beat the vinegar or lemon juice in a bowl with the salt and optional mustard until the salt is dissolved, then beat in the oil by droplets and season with pepper — **or** place all the ingredients in a screw-top jar and shake vigorously for 30 seconds to blend thoroughly.
+
+**2. Add herbs and correct at the last moment.**
+Stir in the optional herbs and correct the seasoning **just before** dressing the salad.
+
+> **Variation — Sauce Ravigote (Vinaigrette with Herbs, Capers, and Onion).** For cold or hot boiled beef, boiled chicken, boiled fish, pig's feet, calf's head, and vegetables. To **1 cup** of vinaigrette, stir in 1 Tbsp chopped capers, 1 tsp very finely minced shallot or green onions, and 2 Tbsp minced fresh green herbs (chives, parsley, tarragon, chervil — or parsley only). Taste for seasoning.
+
+> **Variation — Vinaigrette à la Crème (Sour Cream Dressing / Dill Sauce).** For cold eggs, vegetables, and cold or hot fish. Beat 1 egg yolk and 4 Tbsp whipping cream or sour cream in a bowl until thoroughly blended. Then beat in **½ cup** of vinaigrette in a stream of droplets, **as though making a mayonnaise** — see [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one). Season to taste with lemon juice and stir in 2 Tbsp minced fresh green herbs — parsley, chives, tarragon, chervil, burnet, or just dill.
+
+> **Variation — Sauce Moutarde (Cold Mustard Sauce with Herbs).** For cold beef, pork, and vegetables. **Note that despite being printed as a variation, this one contains no vinaigrette at all** — it's its own emulsion, built the same way. Rinse a small mixing bowl in hot water. Add 2 Tbsp prepared mustard (preferably strong Dijon) and beat with a wire whip, adding 3 Tbsp boiling water by droplets. Again by droplets, beat in ⅓ to ½ cup olive oil or salad oil to make a thick, creamy sauce. Beat in salt, pepper, and lemon juice to taste, then 1 to 2 Tbsp parsley or minced fresh green herbs.
+
+> **⚠️ Five different mustard sauces now live in this cookbook. They are all distinct recipes.** This variation (*Sauce Moutarde*, cold, oil-emulsified) · [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)'s *Sauce à la Moutarde* variation (hot, bâtarde-based) · [§4.76 Sauce Robert](#476-sauce-robert-brown-mustard-sauce) (hot, brown-sauce-based) · [§4.22 Mustard Sauce](#422-mustard-sauce) and [§4.38 Mustard Sauce](#438-mustard-sauce) (both from other sources entirely). Kept separate rather than merged.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Good wine vinegar — ½ to 2 Tbsp *(or a mixture with lemon juice)*
+- 🛒 Salad oil or olive oil — 6 Tbsp
+- 🛒 Dry mustard — ¼ tsp, optional
+- 🛒 Fresh parsley, chives, tarragon, basil — 1 to 2 Tbsp minced, optional
+- 🛒 Salt and pepper
+- 🛒 Capers, shallots — if making Sauce Ravigote
+- 🛒 Egg, whipping or sour cream, dill — if making Vinaigrette à la Crème
+- 🛒 Dijon mustard — if making Sauce Moutarde
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup)* | ~730 | 81 g | 0 g | 1 g | 0 g |
+| **Per serving** *(8 servings, 1 Tbsp each)* | ~91 | 10 g | 0 g | 0.1 g | 0 g |
+
+**What a serving is:** 1 Tbsp — enough to dress one salad plate.
+
+*This is oil, essentially in full. The vinegar, salt, and herbs contribute flavor and almost nothing else.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.85 Beurre Blanc / Beurre Nantais (White Butter Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 96–98. **This is the sauce [§T24](#t24-the-french-sauce-families--roux-ratios) named as the most important one outside the six mother groups** — *"a signature of the nouvelle cuisine which emerged in the early 1970s"* — now transcribed. **For:** boiled fish and shellfish, and all kinds of fish and shellfish generally; vegetables like asparagus, broccoli, and cauliflower; and sautés of veal, chicken, kidneys, and livers.
+
+> **Where it comes from, per the source:** the sauce originated in Nantes on the Loire, traditionally served with pike — *brochet au beurre blanc*. *"Warm, thick, creamy, butter-colored, the original sauce is only butter creamed with shallots, wine vinegar, lemon, and seasonings."* Nouvelle cuisine chefs took it up in the early seventies *"because it is a far easier sauce system than the long-simmered classics."*
+
+> **It's a deglazing sauce with the butter dialed way up.** Per the source: rather than a lemon-and-vinegar base you can use a strong reduction of fish or meat juices deglazed with wine and shallots. *"It is, in fact, the usual buttered deglazing sauce, but rather than beating in 2 or 3 tablespoons of butter for 4 to 6 servings, you might add as much as half a pound."* Compare [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) — same move, restrained.
+
+> **🔴 Why this is Hard: the emulsion breaks, and easily.** *"The trick in making a beurre blanc is to prevent the butter from turning oily like melted butter; it must retain its warm, thick, creamy consistency."* And it will thin out and turn oily **almost at once** if reheated or held too warm. A chemical process keeps the milk solids in suspension only while the acids stay concentrated — push it and the sauce separates. **Unlike [§4.9 Hollandaise](#49-hollandaise-sauce), though, this one has a documented rescue** (see the holding note below), which is worth knowing before you attempt it.
+
+> **The source's own note on the calories:** butter runs about 100 calories per tablespoon, so *"an otherwise simple sauté can be marvelously yet astronomically (even lethally) fattening; but, as we imply in most of our recipes, 'the amount of butter is up to you.'"*
+
+**Yield:** about 1 cup
+
+**🔴 Hard** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min**
+
+**You'll need:** a 6-cup medium-weight stainless steel saucepan; a wire whip.
+
+#### A. Ingredients
+
+**The flavor base**
+
+- 2½ Tbsp white-wine vinegar
+- 2½ Tbsp dry white wine, vermouth, or lemon juice
+- 1 Tbsp very finely minced shallots or green onions
+- ½ tsp salt
+- ⅛ tsp white pepper
+
+**The butter**
+
+- 8 oz (2 sticks) best-quality unsalted butter, well chilled and cut into 16 pieces
+- Salt, pepper, and lemon juice as needed
+
+#### B. Cooking Instructions
+
+**1. Reduce the flavor base hard. To about 1½ tablespoons.**
+Boil the liquid, shallots, and seasonings way down — about 1½ tablespoons should remain. This concentration is what holds the emulsion together later.
+
+**2a. Add the butter — the classic way.**
+Remove the saucepan from heat and immediately beat in 2 pieces of chilled butter. As the butter softens and creams into the liquid, beat in another piece. Then set the saucepan over **very, very low heat** and, beating constantly, continue adding successive pieces of butter as the sauce creams — each previous piece almost creamed in before adding more. **Remove from heat immediately as soon as all the butter has been used.** Beat in additional seasonings to taste. The sauce will be thick and ivory-colored, the consistency of a light hollandaise.
+
+**2b. Or add the butter — the fast-boil way.**
+Make the same flavor base; here the butter need **not** be chilled. Bring the reduced base to a fast boil and start beating in butter piece by piece — it will at once produce thick creamy bubbles. When all the butter has been added, **boil for 2 seconds only**, then pour the sauce into a bowl or another saucepan to stop the cooking. *(If you keep boiling you'll reduce the base liquid to nothing and the butter will clarify itself — no more creamy sauce.)*
+
+**3. Hold it barely warm — this is where it usually dies.**
+It will thin out and turn oily almost at once if you reheat it or keep it too warm. Hold it over **barely tepid** water, near the faint heat of a gas pilot light, or on a slightly warm shelf over a cooktop.
+
+> **If it does thin out — the rescue, per the source:** cream it by beating a spoonful of the sauce into a cold mixing bowl, then gradually beat in the rest by very small spoonfuls. If it needs thinning, beat in dribbles (2 to 3 tablespoons in all) of hot liquid such as wine, concentrated meat juices, or heavy cream.
+
+> **Variation — Beurre au Citron (Lemon Butter Sauce).** For broiled or boiled fish, asparagus, broccoli, cauliflower. *"A minor variation of beurre blanc, and very nice with fish or vegetables."* **Makes about ½ cup.** Boil down ¼ cup lemon juice with ⅛ tsp salt and a pinch of white pepper until reduced to **1 tablespoon**. Remove from heat and immediately beat in 2 pieces of chilled butter (from 4 oz / 1 stick, cut into 8 pieces). Set over very low heat and beat in the rest of the butter a piece at a time, to make a thick creamy sauce. Remove from heat immediately. Just before serving, beat in 2 to 3 Tbsp hot fish or vegetable stock or hot water by dribbles, and serve in a barely warmed sauceboat. *(**Not the same as [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce)**, which is from another source, or the sauce in [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce).)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Best-quality unsalted butter — 8 oz (2 sticks)
+- 🛒 White-wine vinegar — 2½ Tbsp
+- 🛒 Dry white wine or vermouth — 2½ Tbsp *(or lemon juice)*
+- 🛒 Shallots or green onions — 1 Tbsp very finely minced
+- 🛒 Salt and white pepper
+- 🛒 Lemon — for juice
+- 🛒 Additional butter and lemon — if making Beurre au Citron
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~1,675 | 184 g | 2 g | 2.6 g | 0 g |
+| **Per serving** *(8 servings, 2 Tbsp each)* | ~209 | 23 g | 0.25 g | 0.3 g | 0 g |
+
+**What a serving is:** 2 Tbsp — spooned over a fillet of fish or a portion of asparagus.
+
+*Two sticks of butter is the entire nutritional story, exactly as the source warns. **Beurre au Citron** runs about 835 calories for its ½-cup batch — roughly the same 209 per 2-Tbsp serving, since it's the same butter-to-yield ratio.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.86 Beurre Noir / Beurre Noisette (Brown Butter Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 99. **For:** shirred eggs, calf's brains, boiled or sautéed fish, chicken breasts, vegetables.
+
+> **The name is poetry, not instruction, and the source says so.** *"A properly made brown butter sauce has a deliciously nutty smell and taste, but is never black despite the poesy of the title. When you heat butter to the boil, its milk solids begin to darken from golden nutty, noisette, to golden brown, noir, but you never let it darken to black, burned, and bitter."*
+
+> **🟡 Why Medium and not Hard:** the butter goes from nutty to burnt *"in a matter of seconds,"* which is a genuine fail window — but unlike a roux or a broken emulsion, the failure costs you six ounces of butter and two minutes, not the dish. Melt more and start over. That's the line this cookbook draws between 🟡 and 🔴.
+
+> **Distinct from [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce)**, which is from another source and takes the same technique in a garlic direction.
+
+**Yield:** about ¾ cup, serving 6 to 8
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 6 oz (1½ sticks) butter
+- Salt and pepper
+- 3 to 4 Tbsp fresh minced parsley
+- 3 to 4 Tbsp wine vinegar or lemon juice, **or** 1 to 2 Tbsp capers
+
+#### B. Cooking Instructions
+
+**1a. In the sauté pan, just before serving — for browned foods.**
+Cut the butter into pieces and add it to the pan after the food has been sautéed and removed. Holding the sauté pan by its handle, swirl over moderate heat as the butter foams up; **it will begin to color in a matter of seconds.** Salt and pepper the food if necessary, and sprinkle it with the parsley. At the moment the butter is a nutty brown, pour it over the food. Then add the vinegar, lemon juice, or capers to the pan, and as the foam subsides boil it down rapidly to reduce excess acidity. Pour it over the food and serve.
+
+**1b. Or separately, in advance — for pale foods.**
+For shirred eggs or poached calf's brains, make it separately so you can pour the browned butter off the dark sediment. Cut the butter into pieces and add to a small saucepan. Swirl the pan by its handle for a few seconds over moderate heat as the butter melts and foams up. Continue cooking until it is a nutty brown. As soon as it is, remove from heat and let the sediment settle for a moment. Either pour the clear brown butter over hot food you've seasoned and sprinkled with parsley, or pour the butter off its sediment into a bowl or another pan and set aside. Rinse out the butter pan, add the vinegar, lemon juice, or capers, and boil down rapidly to reduce excess acidity. Beat the browned butter back in, and either pour it over the food and serve, or set aside and reheat before serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 6 oz (1½ sticks)
+- 🛒 Fresh parsley — 3 to 4 Tbsp minced
+- 🛒 Wine vinegar or lemon — 3 to 4 Tbsp *(or capers, 1 to 2 Tbsp)*
+- 🛒 Salt and pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ¾ cup)* | ~1,235 | 138 g | 1.5 g | 2 g | 0.3 g |
+| **Per serving** *(7 servings, about 1½ Tbsp each)* | ~176 | 20 g | 0.2 g | 0.3 g | 0 g |
+
+**What a serving is:** about 1½ Tbsp — poured over a portion of fish, eggs, or vegetables.
+
+*Butter, again, is essentially all of it. The dark sediment poured off in the separate method isn't eaten and isn't counted.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -8004,10 +8209,10 @@ The source's whole argument is that once you can make the few master sauces, you
 | **Brown sauces** | Long-simmered *daubes*, pot roasts, stews, ragouts, sautés, brown fricassees, and roasts all need these. More complicated than the white sauces | Three interchangeable bases — [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) — then eight composed sauces off them, [§4.74](#474-sauce-diable-peppery-brown-sauce)–[§4.81](#481-sauce-périgueux-brown-madeira-sauce-with-truffles). Full discussion in **section F** below |
 | **Tomato sauce** | Its own group. Served as is, flavored with herbs, or combined with other sauces whenever you want a tomato flavoring | [§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce) — the meaty, stock-and-ham version; [§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) — the olive-oil-and-saffron Mediterranean version |
 | **Egg yolk and butter sauces** | The hollandaise family | Flavored with tarragon, pepper, and vinegar = *béarnaise*; with lemon = *hollandaise*; hollandaise with whipped cream folded in = *mousseline*. See [§4.9](#49-hollandaise-sauce), [§4.10](#410-new-orleans-béarnaise-sauce), [§4.11](#411-choron-sauce) |
-| **Oil and vinegar** | The French dressing group | **Not transcribed from this source yet** — the only group of the six still open. This cookbook's [§5.19 Brazilian Salad](#519-brazilian-salad) and [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) are oil-and-vinegar in spirit but come from elsewhere |
+| **Oil and vinegar** | The French dressing group — *"good oil, salt, pepper, fresh green herbs in season, and mustard if you like it"*; sugar is heresy | [§4.84 Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing), with its *Ravigote*, *à la Crème*, and cold *Moutarde* variations |
 | **Flavored butters** | Butters creamed with various herbs, seasonings, or purées | See [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter) |
 
-> **The most important one that isn't in the six, per the source:** the hot butter sauce ***beurre blanc***, *"a signature of the nouvelle cuisine which emerged in the early 1970s. Originally it was a specialty sauce reserved usually for boiled fish and vegetables, but, easy to make (once you know how!), it has become the ubiquitous restaurant sauce for all manner of fish, meat, and fowl."* Not transcribed here yet.
+> **The most important one that isn't in the six, per the source — now transcribed at [§4.85](#485-beurre-blanc--beurre-nantais-white-butter-sauce):** the hot butter sauce ***beurre blanc***, *"a signature of the nouvelle cuisine which emerged in the early 1970s. Originally it was a specialty sauce reserved usually for boiled fish and vegetables, but, easy to make (once you know how!), it has become the ubiquitous restaurant sauce for all manner of fish, meat, and fowl."* Not transcribed here yet.
 
 > **On restraint, per the source:** *"Rich sauces, especially the butter sauces and white sauces with cream and butter, should be used sparingly, never more than one to a meal. A sauce should not be considered a disguise or a mask; its role is to point up, to prolong, or to complement the taste of the food it accompanies, or to contrast with it, or to give variety to its mode of presentation."*
 
@@ -8107,8 +8312,8 @@ Five more brown sauces exist in this source but aren't in the sauce chapter — 
 
 Keeping the gaps visible so the chapter reads as one piece rather than a pile of entries:
 
-- **The oil-and-vinegar group** — the only one of the six mother groups with nothing transcribed.
-- ***Beurre blanc*** — named by the source as the most important sauce outside the six, but its recipe isn't on the transcribed pages.
+- **All six mother groups are now transcribed**, as is *beurre blanc*. What remains are supporting pages and sauces printed in other chapters.
+- **Cold flavored butters (*beurres composés*, p. 99)** — the source's short intro on using them on hot dishes and for basting. This cookbook's [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter) already cover the group itself.
 - **Cream sauce (source p. 59)** — offered as an alternative base in [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) and [§4.67 Sauce Chivry](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce). Both work fine on plain [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) in the meantime.
 - **A second Sauce Soubise (source p. 355)** — the book prints an alternate version in its Veal section. [§4.69](#469-sauce-soubise-onion-sauce) is the sauce-chapter one.
 - **Clarified butter (p. 15)**, **meat glaze (p. 110)**, **brown stock (p. 107–110)**, **white stocks (p. 109, 114, 115, 237)**, and **peeling/seeding tomatoes (p. 505)** — supporting techniques the recipes cite. [§T12](#t12-fast-homemade-chicken-broth) and [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) cover the stock ground already.

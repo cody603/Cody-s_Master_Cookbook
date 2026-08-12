@@ -132,6 +132,7 @@ Click any recipe to jump straight to it.
   - [T24. The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) ✅
   - [T25. The French Omelette (Two Methods)](#t25-the-french-omelette-two-methods) ✅
   - [T26. Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) ✅
+  - [T27. Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method)](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -319,6 +320,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-12 | **A new technique, dictated directly by Cody: [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** Season, bag, sous vide at 129°F for 6 to 8 hours, pat bone-dry, spray with avocado oil, and sear 30–45 seconds a side in a screaming-hot cast iron pan. **One thing flagged rather than silently applied:** [§1 Cody's Pho](#1-codys-pho) already has an established rule against running sous vide at 129°F, specifically because that's *not high enough for a multi-day cook* — this entry explains why that rule doesn't apply here (a 6–8 hour single-cut cook pasteurizes well within the first few hours; the pho warning is about *C. perfringens* having room to grow across 24–36 hours at that temperature, not about 129°F itself being unsafe). Also carried over from the same established facts: no fresh garlic in the bag, dry rub only. Rated 🟡 Medium — the sous vide stage is foolproof, but the final sear is a genuine seconds-scale fail window against meat that's already perfectly cooked. **Also fixed in passing:** the T-section quick-index table at the top of §T was missing rows for T25 and T26 (added alongside T27's own row) — a bookkeeping gap that predates this entry. |
 | 2026-08-12 | **Double-check pass over [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole), four fixes.** (1) The garbled-fragment note had reasoned that the cheese-and-breadcrumbs fragment above the recipe might belong to Moussaka — wrong on re-inspection: Moussaka is printed on page 349 in the Lamb chapter, and the p. 505 mention is only a cross-reference pointer, so the fragment is the tail end of the *preceding* (unphotographed) recipe in the chapter's eggplant section; entry and changelog both corrected. (2) Removed a "season lightly as you go" sentence from the layering step that wasn't in the source — the source seasons each component as it cooks and then corrects seasoning once during the final simmer. (3) The skillet ingredient trimmed back to the source's own wording ("A 10- to 12-inch enameled skillet"). (4) The seed-and-juice technique's cold-stuffing note (salt the interiors, invert in a colander) added as a marked not-needed-here aside, so the folded-in p. 505–506 technique is complete rather than partial. Also added the source's own bracket subtitle to the intro. Validation re-run: 0 missing anchors, badge/nutrition/index parity 215/215/215. |
 | 2026-08-12 | **[§5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole)**, Mastering the Art of French Cooking, Volume One, Chapter Eight: Vegetables, p. 504 — filed as a **side dish in §5**, not a main, per Cody's explicit "ratatouille only as a side dish." The source's own method: eggplant and zucchini salted and drained, then each sautéed separately; onions and peppers cooked down with garlic; tomato pulp reduced on its own; everything layered in a casserole in thirds with parsley, then simmered covered and finished uncovered until the juices reduce to a spoonful of flavored oil. Rated 🟢 Easy, not 🟡, on the [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) precedent — long and multi-component, but nothing here is roux- or emulsion-fragile; the source's own "watch your heat so it doesn't scorch" caution during the final reduction is recoverable by turning the burner down, not a one-minute failure window. **The recipe's own "peeled, seeded, and juiced, page 505" ingredient citation is folded directly into the instructions as its own step** — Mastering's TOMATOES chapter intro (p. 505–506, TO PEEL TOMATOES and TO SEED AND JUICE TOMATOES), including both hand-drawn illustrations, embedded at that step rather than spun into a separate technique entry, keeping scope to "ratatouille only." **One garbled fragment flagged rather than guessed at:** a paragraph at the very top of the first photographed page ("arrange in roasting pan... bake... brown the cheese and bread crumbs") sits *above* the horizontal rule that opens the Ratatouille entry and is the tail end of the *preceding*, unphotographed recipe in the chapter's eggplant section — ratatouille has no cheese or breadcrumbs and is never oven-baked in this source. Which specific eggplant dish it belongs to can't be confirmed without the missing page, so it's excluded from this entry rather than reconstructed. (The section's Moussaka pointer on p. 505 is just a cross-reference to page 349 in the Lamb chapter, not a candidate for the fragment.) |
 | 2026-08-10 | **[§7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken)**, Mastering the Art of French Cooking, Volume One, Chapter Six: Poultry, p. 254-257 — same volume and chapter as [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms), flagged distinct from the Volume Two behind [§15.1 Plain French Bread](#151-plain-french-bread-pain-français). The master technique — brown, season the dark meat first and slow-cook it, add the white meat, finish with a quick pan-deglaze sauce — plus two full variations folded in: **à la Crème** (the same deglaze, finished with cream instead of stock) and **aux Herbes de Provence** (browned in a full stick of butter with thyme, fennel, and garlic, finished with an egg-yolk-and-butter liaison built like a small hollandaise). **A third named variation, Poulet Sauté Chasseur, stays an open cross-reference** — the source's own instruction just points to the veal scallops on an untranscribed page (368), so it's noted rather than guessed at. **Two passages flagged as reconstructions** from a hard-to-read photo: the disjointing note and the two make-ahead notes; the master recipe and both transcribed variations read clean throughout. |
@@ -518,6 +520,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
 | [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) | 🟢 | 15 min | — | **~1 month** *(cures in the jar, unattended)* | ~1 month |
+| [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | 🟡 | 5 min | 10 min | **6–8 hr** *(sous vide, unattended)* | 6 hr 15 min – 8 hr 15 min |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
@@ -682,11 +685,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ### Reading this table
 
-**The slow-cook four are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. Load them early and get your evening back.
+**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) is the least work of all — 15 minutes total between seasoning and the final sear, with 6 to 8 hours of sous vide doing the actual tenderizing. Load them early and get your evening back.
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 106 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 107 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -6351,6 +6354,9 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T22](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) | Rib Marinade — Dry Brine or Wet Marinade (Cody's Method) | `ribs` `marinade` `dry-brine` `smoking` `formula` |
 | [T23](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | How to Prepare and Fill Sausage Casings (Lagniappe) | `casings` `sausage` `boudin` `stuffing` `formula` |
 | [T24](#t24-the-french-sauce-families--roux-ratios) | The French Sauce Families & Roux Ratios | `sauce` `roux` `bechamel` `veloute` `mother-sauce` `ratio` `formula` `french` |
+| [T25](#t25-the-french-omelette-two-methods) | The French Omelette (Two Methods) | `omelette` `eggs` `french` `formula` |
+| [T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | Pâte Brisée & Pastry Shells (Pie Dough, Shaping, and Baking) | `pastry` `pie-dough` `fraisage` `blind-baking` `french` `formula` |
+| [T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method) | `sous-vide` `steak` `tenderizing` `sear` `cast-iron` `formula` |
 
 ---
 
@@ -8604,6 +8610,70 @@ Refrigerate if not baking immediately.
 | **Per slice** *(⅙ of the shell alone, if tracked separately from a filled quiche)* | ~310 | 21 g | 3 g | 26 g | 0.8 g |
 
 **What a serving is:** the shell isn't eaten on its own — these figures exist so a filled quiche or tart's own nutrition can add the shell in, rather than double-counting a separately-listed crust.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T27. Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method)
+
+<!-- TECHNIQUE-TAGS: sous-vide, steak, tenderizing, sear, cast-iron, formula -->
+**Tags:** `sous-vide` · `steak` · `tenderizing` · `sear` · `cast-iron` · `formula`
+**Source:** Cody's own method, dictated directly — not from a photographed page.
+**Used in:** no numbered recipe cites it yet.
+
+Cody's go-to for **tougher, less expensive steak cuts** — the ones that don't get tender enough on a quick sear alone. Long, low-temperature sous vide does the tenderizing that a premium cut like ribeye or filet doesn't need, then a short, screaming-hot cast iron sear builds the crust at the end. *Typical candidates: chuck steak, top round, sirloin, flank, skirt, flat iron — anything with more connective tissue and a lower price tag than the steakhouse cuts. Cody didn't name a specific cut, so treat this as a technique that applies broadly, not a recipe for one.*
+
+> **This is a formula, not a fixed recipe** — same spirit as [§T8 Pan Sauce](#t8-pan-sauce-formula) and [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo): the steps are exact, but the rub and the cut are up to you.
+
+> **On 129°F, and why this doesn't conflict with the rule in [§1 Cody's Pho](#1-codys-pho).** That recipe's own established note says *do not run sous vide at 129°F* — but that warning is specifically about a **multi-day** cook (24–36 hours), where *C. perfringens* has enough time at a sub-131°F temperature to actually grow. A single steak-sized cut at 129°F for 6 to 8 hours is a different situation entirely: pasteurization at that temperature is reached well within the first few hours for a cut this size, and the hold time here never approaches the multi-day window the pho warning is guarding against. 129°F is in fact a completely standard sous vide target for medium-rare steak — this technique just runs it long enough to tenderize a tougher cut, not because tenderizing needs a special temperature.
+
+> **The same anaerobic-bag rule from Cody's Pho still applies here: no fresh garlic, no liquid, in the bag.** "Whatever rub you like" is fine as long as it's a dry rub — kosher salt, pepper, garlic powder, any of §4's dry rubs ([§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) is a natural fit). Skip fresh garlic or fresh herbs sealed in the bag; garlic powder gets the flavor without the risk.
+
+**🟡 Medium** · **Prep ~5 min** *(seasoning and bagging)* · **Cook ~10 min** *(getting the cast iron screaming hot, then the sear itself)* · **Slow cook 6–8 hr** *(sous vide, unattended)* · **Start to finish ~6 hr 15 min – 8 hr 15 min**
+
+#### A. Ingredients
+
+- Steak — a tougher, not-so-premium cut (chuck, top round, sirloin, flank, skirt, flat iron, etc.)
+- Dry rub of your choice — a dry rub only, no fresh garlic or liquid (see caution above)
+- Avocado oil, in a spray bottle or mister
+- A vacuum sealer or zip-top bag (with the water-displacement method if not vacuum sealing)
+
+#### B. Cooking Instructions
+
+**1. Season the steak.**
+Rub both sides with your seasoning of choice.
+
+**2. Bag and seal.**
+Vacuum seal, or use a zip-top bag and the water-displacement method to press out the air before sealing.
+
+**3. Sous vide at 129°F for 6 to 8 hours.**
+This is the tenderizing stage — the long, low-and-slow hold breaks down connective tissue in a cut that would otherwise stay chewy, while holding the meat at a steady medium-rare the whole time. Fully hands-off once the bag is in the water.
+
+**4. Pat the steak completely dry.**
+Out of the bag and dried thoroughly with paper towels — every bit of surface moisture. This is the step that determines whether the sear actually browns or just steams; a wet surface won't take a crust no matter how hot the pan is.
+
+**5. Spray avocado oil on both sides.**
+Avocado oil's high smoke point (above 500°F) is what makes it work here — an oil that smokes at a lower temperature would burn and turn acrid the instant it hits a blazing-hot pan.
+
+**6. Sear in a blazing hot cast iron skillet. 30 to 45 seconds per side.**
+The pan needs to be genuinely screaming hot before the steak goes in — this isn't a "medium-high" sear. Since the meat is already fully cooked from the sous vide, this step is purely about building a crust; there's no doneness cushion left to lean on, so don't walk away or guess. Thirty to forty-five seconds a side is enough to brown deeply without pushing the interior past the temperature it already sous vide'd to.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Steak — a tougher, not-so-premium cut (see Part A for candidates)
+
+**🛒 General grocery**
+
+- 🛒 Avocado oil — spray bottle or mister
+- 🛒 Dry rub or seasoning of choice — no fresh garlic
+- 🛒 Zip-top freezer bags, if not vacuum sealing
+
+#### Nutrition
+
+Not tracked here — this is a cut- and weight-agnostic technique (Cody didn't specify a cut or a portion size), and nutrition for beef steak varies enormously by which cut is used. Once this technique gets used in a numbered recipe with a specific cut and weight, that recipe carries its own Nutrition block.
 
 [↑ Table of Contents](#table-of-contents)
 

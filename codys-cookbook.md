@@ -133,6 +133,7 @@ Click any recipe to jump straight to it.
   - [T25. The French Omelette (Two Methods)](#t25-the-french-omelette-two-methods) ✅
   - [T26. Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) ✅
   - [T27. Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method)](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) ✅
+  - [T28. Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -320,6 +321,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-12 | **[§T28 Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) added, and both sous vide entries now carry full rub and sauce cross-reference tables** — per Cody's request to "give the reference back to the different rubs for both the steak and the chicken" and to map out what sauces can go on sous vide chicken. The chicken method is [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s twin with a different dial setting: 148°F for 1½ to 4 hours *(Cody's own note: the range is driven by thickness and how tender you want it)*, same dry-pat, avocado-oil spray, and 30–45 second cast iron sear. **No temperature caveat needed here** — unlike §T27's 129°F, which had to be reconciled against [§1 Cody's Pho](#1-codys-pho)'s sous vide rule, 148°F sits far above that range and pasteurizes chicken in minutes. **Answering Cody's question straight: there is no dedicated chicken rub in this cookbook** — nothing is titled for chicken the way [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) is titled for steak — **but five existing rubs name chicken in their own source text**, four of them printing a dose for a 4 lb chicken ([§4.27 Cajun](#427-cajun-rub), [§4.31 Mediterranean Herb](#431-mediterranean-herb-rub), [§4.26 Basic Barbecue](#426-basic-barbecue-rub), [§4.30 Mucho Macho](#430-mucho-macho-pepper-rub), [§4.33 Sesame](#433-sesame-seasoning)), so it's a naming gap rather than a real one. **The sauce tables are built from the sources' own "For:" lines rather than assembled by guesswork** — which is what makes chicken the better-served of the two: the entire French white-sauce family ([§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)–[§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)) exists for poultry, and six brown sauces name chicken outright. **Two honest flags in those tables:** [§4.33 Sesame Seasoning](#433-sesame-seasoning) is a *finishing* seasoning per its own source ("sprinkled on after the food comes off the grill"), so it goes on after the sear rather than into the bag; and [§4.80 Sauce Madère](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)'s source line names chicken *livers* rather than chicken generally — noted as such, with [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) cited as this cookbook's own proof the pairing works. The suggestion to save the bag juices for a [§T8 pan sauce](#t8-pan-sauce-formula) in the sear pan is marked as mine, not Cody's. |
 | 2026-08-12 | **A new technique, dictated directly by Cody: [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** Season, bag, sous vide at 129°F for 6 to 8 hours, pat bone-dry, spray with avocado oil, and sear 30–45 seconds a side in a screaming-hot cast iron pan. **One thing flagged rather than silently applied:** [§1 Cody's Pho](#1-codys-pho) already has an established rule against running sous vide at 129°F, specifically because that's *not high enough for a multi-day cook* — this entry explains why that rule doesn't apply here (a 6–8 hour single-cut cook pasteurizes well within the first few hours; the pho warning is about *C. perfringens* having room to grow across 24–36 hours at that temperature, not about 129°F itself being unsafe). Also carried over from the same established facts: no fresh garlic in the bag, dry rub only. Rated 🟡 Medium — the sous vide stage is foolproof, but the final sear is a genuine seconds-scale fail window against meat that's already perfectly cooked. **Also fixed in passing:** the T-section quick-index table at the top of §T was missing rows for T25 and T26 (added alongside T27's own row) — a bookkeeping gap that predates this entry. |
 | 2026-08-12 | **Double-check pass over [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole), four fixes.** (1) The garbled-fragment note had reasoned that the cheese-and-breadcrumbs fragment above the recipe might belong to Moussaka — wrong on re-inspection: Moussaka is printed on page 349 in the Lamb chapter, and the p. 505 mention is only a cross-reference pointer, so the fragment is the tail end of the *preceding* (unphotographed) recipe in the chapter's eggplant section; entry and changelog both corrected. (2) Removed a "season lightly as you go" sentence from the layering step that wasn't in the source — the source seasons each component as it cooks and then corrects seasoning once during the final simmer. (3) The skillet ingredient trimmed back to the source's own wording ("A 10- to 12-inch enameled skillet"). (4) The seed-and-juice technique's cold-stuffing note (salt the interiors, invert in a colander) added as a marked not-needed-here aside, so the folded-in p. 505–506 technique is complete rather than partial. Also added the source's own bracket subtitle to the intro. Validation re-run: 0 missing anchors, badge/nutrition/index parity 215/215/215. |
 | 2026-08-12 | **[§5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole)**, Mastering the Art of French Cooking, Volume One, Chapter Eight: Vegetables, p. 504 — filed as a **side dish in §5**, not a main, per Cody's explicit "ratatouille only as a side dish." The source's own method: eggplant and zucchini salted and drained, then each sautéed separately; onions and peppers cooked down with garlic; tomato pulp reduced on its own; everything layered in a casserole in thirds with parsley, then simmered covered and finished uncovered until the juices reduce to a spoonful of flavored oil. Rated 🟢 Easy, not 🟡, on the [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) precedent — long and multi-component, but nothing here is roux- or emulsion-fragile; the source's own "watch your heat so it doesn't scorch" caution during the final reduction is recoverable by turning the burner down, not a one-minute failure window. **The recipe's own "peeled, seeded, and juiced, page 505" ingredient citation is folded directly into the instructions as its own step** — Mastering's TOMATOES chapter intro (p. 505–506, TO PEEL TOMATOES and TO SEED AND JUICE TOMATOES), including both hand-drawn illustrations, embedded at that step rather than spun into a separate technique entry, keeping scope to "ratatouille only." **One garbled fragment flagged rather than guessed at:** a paragraph at the very top of the first photographed page ("arrange in roasting pan... bake... brown the cheese and bread crumbs") sits *above* the horizontal rule that opens the Ratatouille entry and is the tail end of the *preceding*, unphotographed recipe in the chapter's eggplant section — ratatouille has no cheese or breadcrumbs and is never oven-baked in this source. Which specific eggplant dish it belongs to can't be confirmed without the missing page, so it's excluded from this entry rather than reconstructed. (The section's Moussaka pointer on p. 505 is just a cross-reference to page 349 in the Lamb chapter, not a candidate for the fragment.) |
@@ -521,6 +523,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
 | [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) | 🟢 | 15 min | — | **~1 month** *(cures in the jar, unattended)* | ~1 month |
 | [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | 🟡 | 5 min | 10 min | **6–8 hr** *(sous vide, unattended)* | 6 hr 15 min – 8 hr 15 min |
+| [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) | 🟡 | 5 min | 10 min | **1½–4 hr** *(sous vide, unattended)* | 1 hr 45 min – 4 hr 15 min |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
@@ -685,11 +688,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ### Reading this table
 
-**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) is the least work of all — 15 minutes total between seasoning and the final sear, with 6 to 8 hours of sous vide doing the actual tenderizing. Load them early and get your evening back.
+**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 107 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 108 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -6357,6 +6360,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T25](#t25-the-french-omelette-two-methods) | The French Omelette (Two Methods) | `omelette` `eggs` `french` `formula` |
 | [T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | Pâte Brisée & Pastry Shells (Pie Dough, Shaping, and Baking) | `pastry` `pie-dough` `fraisage` `blind-baking` `french` `formula` |
 | [T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method) | `sous-vide` `steak` `tenderizing` `sear` `cast-iron` `formula` |
+| [T28](#t28-sous-vide-chicken-codys-method) | Sous Vide Chicken (Cody's Method) | `sous-vide` `chicken` `poultry` `sear` `cast-iron` `formula` |
 
 ---
 
@@ -8659,7 +8663,62 @@ Avocado oil's high smoke point (above 500°F) is what makes it work here — an 
 **6. Sear in a blazing hot cast iron skillet. 30 to 45 seconds per side.**
 The pan needs to be genuinely screaming hot before the steak goes in — this isn't a "medium-high" sear. Since the meat is already fully cooked from the sous vide, this step is purely about building a crust; there's no doneness cushion left to lean on, so don't walk away or guess. Thirty to forty-five seconds a side is enough to brown deeply without pushing the interior past the temperature it already sous vide'd to.
 
-#### C. Grocery Shopping List
+#### C. Rubs for This — What's Already in the Cookbook
+
+"Whatever rub you like" means these. **All are dry, so all are bag-safe** *(see the no-fresh-garlic caution above)*. Notes in quotes are the source's own recommendations, not guesses.
+
+| Rub | Why it fits steak |
+|---|---|
+| **[§4.1 Darcy's Steak Rub](#41-darcys-steak-rub)** ❤️ | **The dedicated steak rub in this cookbook**, and a family favorite — *Cody: "Love it."* Coarse and herb-forward, layered on top of salt and pepper rather than replacing them |
+| **[§4.32 Texas Chili Rub](#432-texas-chili-rub)** | *"This no-nonsense rub will add drama to any meat, from steak to brisket"* — chipotle-based |
+| **[§4.29 Java Rub](#429-java-rub)** | *"The bittersweet flavor of coffee goes great on beef (especially brisket) and pork"* |
+| **[§4.27 Cajun Rub](#427-cajun-rub)** | *"...especially chicken, steak, and seafood"* — the one rub that spans this entry and [§T28](#t28-sous-vide-chicken-codys-method) equally |
+| **[§4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub)** | Built for cuts that *"call for a spice mix that bites back"* — worth knowing it's a heat rub going in |
+| **[§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub)** | Raichlen's *"ground zero — the ur American barbecue rub."* Sweet-and-smoky rather than steakhouse, but it works |
+| **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)** ❤️ | Cody's own white-pepper blend — *"a great seasoning... it goes great in cream sauces,"* which makes it a natural if a cream or butter sauce is going on top |
+
+> **Two rubs to think twice about here.** **[§4.33 Sesame Seasoning](#433-sesame-seasoning)** is explicitly a *finishing* seasoning — the source says it *"tastes best sprinkled on after the food comes off the grill"* — so sprinkle it after the sear rather than sealing it in the bag. And **[§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub)** carries [§1 Cody's Pho](#1-codys-pho)'s warning that star anise and clove *"turn harsh and medicinal over 24+ hours in a bag"* — at 6 to 8 hours you're well short of that window, so it's fine here, just don't stretch the cook overnight with it.
+
+> **Dosing, per the rub pages themselves:** most of the Raichlen rubs call for **2 to 3 teaspoons per pound of meat.**
+
+#### D. Sauces for This — What's Already in the Cookbook
+
+Because the sear leaves you with a fully cooked steak and a hot pan, **anything in §4 can go on top** — nothing has to cook the meat further. These are the ones this cookbook actually pairs with beef:
+
+**The classic steakhouse emulsions**
+
+| Sauce | Note |
+|---|---|
+| **[§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce)** | The classic steak sauce — tarragon and white wine folded into warm Hollandaise. 🔴 built on [§4.9 Hollandaise](#49-hollandaise-sauce), so it can break |
+| **[§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise)** | **The no-break shortcut** — the same shallot-and-tarragon reduction stirred into real mayonnaise. 🟢 Easy, and the sensible choice on a weeknight |
+| **[§4.11 Choron Sauce](#411-choron-sauce)** | Béarnaise's tomato cousin, same build |
+| **[§4.9 Hollandaise Sauce](#49-hollandaise-sauce)** ❤️ | The parent emulsion, if you want it plain |
+
+**French brown sauces** *(all from [§T24](#t24-the-french-sauce-families--roux-ratios)'s brown family — each needs a brown-sauce base first)*
+
+| Sauce | The source's own "For:" line |
+|---|---|
+| **[§4.80 Sauce Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)** | *"filet of beef,"* ham, veal, chicken livers, egg dishes |
+| **[§4.81 Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles)** | *"filet of beef,"* fresh foie gras, ham, veal — Madère plus truffles, the most luxurious sauce in the chapter |
+| **[§4.75 Sauce Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers)** | *"boiled beef,"* pork, tongue, hot meat leftovers |
+| **[§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)** | The source files it under chicken and veal, but a brown mushroom sauce on steak needs no defense |
+
+**Butters, relishes, and cold sauces**
+
+| Sauce | Note |
+|---|---|
+| **[§4.55 Fresh Herb Butter](#455-fresh-herb-butter)** · **[§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter)** · **[§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter)** · **[§4.58 Pimentón Butter](#458-pimentón-butter)** | **All four come from a single source page built around grilled steaks** — the most directly on-point group in the cookbook. A slice melting over the steak as it rests |
+| **[§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri)** | *"Served with grilled beef in Argentina"* |
+| **[§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce)** | *"Roast beef and horseradish sauce are as English as Big Ben"* |
+| **[§4.51 Shallot Marmalade](#451-shallot-marmalade)** | The source serves it with [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) |
+| **[§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce)** | Garlic gently cooked in butter, served as a dip rather than a topping |
+| **[§4.86 Beurre Noir / Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce)** | Brown butter — 🟡 because it goes from nutty to burnt in seconds |
+
+> **Don't waste the sear pan.** You've just pulled a steak out of a screaming-hot skillet with fond in the bottom — that's exactly the setup **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** starts from. Deglaze with ¾ cup of wine or stock, reduce by half, swirl in cold butter off the heat. **The juices left in the sous vide bag are worth saving for it** — they're concentrated beef juice and they go straight into the deglaze. *(That last part is a suggestion, not something Cody specified.)*
+
+> **One steak sauce named in this cookbook but not transcribed:** **Sauce Bordelaise** — red wine with beef marrow, which [§T24](#t24-the-french-sauce-families--roux-ratios) lists as *"Steaks, hamburgers, egg dishes."* It's printed in another chapter of its source and hasn't been photographed. Not to be confused with [§4.15 New Orleans Bordelaise](#415-new-orleans-bordelaise-sauce) above, which is an entirely different (and much simpler) sauce that shares the name.
+
+#### E. Grocery Shopping List
 
 **🏪 Specific store — butcher**
 
@@ -8674,6 +8733,134 @@ The pan needs to be genuinely screaming hot before the steak goes in — this is
 #### Nutrition
 
 Not tracked here — this is a cut- and weight-agnostic technique (Cody didn't specify a cut or a portion size), and nutrition for beef steak varies enormously by which cut is used. Once this technique gets used in a numbered recipe with a specific cut and weight, that recipe carries its own Nutrition block.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T28. Sous Vide Chicken (Cody's Method)
+
+<!-- TECHNIQUE-TAGS: sous-vide, chicken, poultry, sear, cast-iron, formula -->
+**Tags:** `sous-vide` · `chicken` · `poultry` · `sear` · `cast-iron` · `formula`
+**Source:** Cody's own method, dictated directly — not from a photographed page.
+**Used in:** no numbered recipe cites it yet.
+
+**The chicken counterpart to [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** Identical shape — season, bag, sous vide, dry, oil, hard sear — with a **higher temperature and a much shorter hold**: 148°F for 1½ to 4 hours instead of 129°F for 6 to 8. The sear at the end is exactly the same.
+
+> **This is a formula, not a fixed recipe** — same spirit as [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T8 Pan Sauce](#t8-pan-sauce-formula): the steps and temperature are exact, the rub and the cut are up to you.
+
+> **Cody's own note on the time range: it's driven by two things — thickness, and how tender you want it.** A thin cutlet is done at the short end; a thick bone-in piece wants longer. Beyond simply coming up to temperature, extra time in the bath keeps working on texture, so the range is a dial rather than a deadline.
+
+> **No temperature caveat here, unlike [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** That entry had to reconcile 129°F against [§1 Cody's Pho](#1-codys-pho)'s "don't run sous vide at 129°F" rule. **148°F raises no such question** — it's comfortably above the sub-131°F range that warning is about, and chicken pasteurizes at 148°F in a matter of minutes, so even the 1½-hour short end has an enormous safety margin. Nothing to reconcile.
+
+> **The same anaerobic-bag rule still applies: dry rub only — no fresh garlic, no liquid, in the bag.** See [§1 Cody's Pho](#1-codys-pho)'s established note; garlic powder gets the flavor without the botulism risk.
+
+**🟡 Medium** · **Prep ~5 min** *(seasoning and bagging)* · **Cook ~10 min** *(heating the cast iron, then the sear)* · **Slow cook 1½–4 hr** *(sous vide, unattended)* · **Start to finish ~1 hr 45 min – 4 hr 15 min**
+
+#### A. Ingredients
+
+- Chicken — breasts, thighs, or whatever cut you're cooking
+- Dry rub or seasoning of your choice — dry only, no fresh garlic or liquid (see caution above)
+- Avocado oil, in a spray bottle or mister
+- A vacuum sealer or zip-top bag (with the water-displacement method if not vacuum sealing)
+
+#### B. Cooking Instructions
+
+**1. Season the chicken.**
+Rub it with whatever rub or seasoning you like — see Part C for what's already in this cookbook.
+
+**2. Bag and seal.**
+Vacuum seal, or use a zip-top bag and the water-displacement method to press the air out before sealing.
+
+**3. Sous vide at 148°F for 1½ to 4 hours.**
+Time depends on **thickness and how tender you want it** — thin cutlets at the short end, thicker or bone-in pieces longer. Fully hands-off once the bag is in the water. At this temperature the chicken holds a juicy, fully-cooked texture the entire time rather than drying out the way it would past a certain point in an oven or a pan.
+
+**4. Remove from the bag and pat completely dry.**
+Paper towels, and be thorough — every bit of surface moisture. This is the step that decides whether the sear browns or just steams. Chicken comes out of the bag wetter than steak does, so this matters even more here.
+
+**5. Spray both sides with avocado oil.**
+Avocado oil's high smoke point (above 500°F) is the point — a lower-smoke-point oil scorches and turns acrid the instant it hits the pan.
+
+**6. Sear in a blazing hot cast iron skillet. 30 to 45 seconds per side.**
+Genuinely screaming hot, not medium-high. The chicken is already fully cooked, so this is purely crust-building — there's no doneness cushion left, and it's easy to overshoot into dry meat if you linger. Thirty to forty-five seconds a side is enough for real browning. **If the skin is on, give the skin side the bulk of the attention** — that's where the crust that's worth having lives.
+
+#### C. Rubs for This — What's Already in the Cookbook
+
+> **Answering Cody's own question directly: no, there isn't a dedicated chicken rub in this cookbook** — nothing here is titled "chicken rub" the way [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) is titled for steak. **But five rubs already here name chicken explicitly in their own source text**, and four of them print a dosing figure specifically for a 4-pound chicken. So the gap is a naming gap, not a real one.
+
+| Rub | The source's own words on chicken | Dosing |
+|---|---|---|
+| **[§4.27 Cajun Rub](#427-cajun-rub)** | *"...will lend a Cajun accent to anything on which you sprinkle it, **especially chicken**, steak, and seafood"* | 2–3 tsp per lb — **1½ to 2 Tbsp for a 4 lb chicken** |
+| **[§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub)** | *"Tastes terrific on lamb, **chicken**, and seafood"* — herbes de Provence meets Kansas City | 2–3 tsp per lb — **1½ to 2 Tbsp for a 4 lb chicken** |
+| **[§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub)** | *"Ground zero — the ur American barbecue rub. Use it on ribs, pork shoulders, or **chicken**"* | 2–3 tsp per lb — **1½ to 2 Tbsp for a 4 lb chicken** |
+| **[§4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub)** | A heat rub — the source prints a 4 lb chicken dose, so it's meant for poultry as much as chops | 2–3 tsp per lb — **1½ to 2 Tbsp for a 4 lb chicken** |
+| **[§4.33 Sesame Seasoning](#433-sesame-seasoning)** | *"...as well as grilled fish and **chicken**"* | **Not a bag rub — see below** |
+| **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)** ❤️ | Cody's own white-pepper blend. Doesn't name chicken, but *"it goes great in cream sauces"* — which is most of Part D below | To taste |
+
+> **[§4.33 Sesame Seasoning](#433-sesame-seasoning) is a finishing seasoning, not a bag rub.** Its own source says it *"tastes best sprinkled on after the food comes off the grill"* — so sprinkle it on after the sear, not into the bag.
+
+> **[§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) is fine at these times.** [§1 Cody's Pho](#1-codys-pho) warns that star anise and clove turn harsh over **24+ hours** in a bag; a 1½-to-4-hour cook is nowhere near that.
+
+#### D. Sauces for This — What's Already in the Cookbook
+
+**This is where chicken has the real advantage over steak in this cookbook.** The entire French white-sauce family exists to go on poultry, and this cookbook now has all of it. Every "For:" line below is the source's own recommendation, quoted — not a guess.
+
+**The white sauce family** *(all built on [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) — and note that **velouté made with chicken stock is literally the chicken version of the master sauce**)*
+
+| Sauce | The source's own "For:" line |
+|---|---|
+| **[§4.63 Sauce Béchamel / Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce)** | The master white sauce. *"Béchamel uses milk; velouté uses **chicken**, veal, or fish stock"* — start here |
+| **[§4.67 Sauce Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)** | *"eggs, fish, vegetables, or **poached chicken**"* — **the tarragon sauce, and the most classically chicken of the group** |
+| **[§4.69 Sauce Soubise](#469-sauce-soubise-onion-sauce)** | *"eggs, veal, **chicken, turkey**, lamb, vegetables"* — onion sauce |
+| **[§4.68 Sauce au Cari](#468-sauce-au-cari-light-curry-sauce)** | *"fish, veal, lamb, **chicken, turkey**, eggs, and vegetables"* — light curry |
+| **[§4.65 Sauce Mornay](#465-sauce-mornay-cheese-sauce)** | *"eggs, fish, **poultry**, veal, vegetables, pastas"* — cheese sauce |
+| **[§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)** | *"eggs, fish, **chicken**, vegetables"* — with tomato |
+| **[§4.70 Sauce Bâtarde](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)** | *"boiled fish, **boiled chicken**, boiled lamb..."* — mock hollandaise, no emulsion risk |
+| **[§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)** | Not a sauce on its own — the egg-yolk-and-cream enrichment that makes any of the above *"among the richest and most velvety in all the French repertoire"* |
+
+**The brown sauce family** *(each needs a brown-sauce base — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or the 5-minute [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3))*
+
+| Sauce | The source's own "For:" line |
+|---|---|
+| **[§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)** | *"**broiled or sautéed chicken**, veal, rabbit..."* — brown mushroom sauce |
+| **[§4.77 Sauce Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce)** | *"**sautéed chicken**, veal, rabbit, braised vegetables..."* — the brown-sauce answer to §4.67 |
+| **[§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce)** | *"**broiled chicken**, roast or braised pork, pork chops..."* — peppery |
+| **[§4.76 Sauce Robert](#476-sauce-robert-brown-mustard-sauce)** | *"roast or braised pork, boiled beef, **broiled chicken or turkey**..."* — mustard |
+| **[§4.78 Sauce Brune au Cari](#478-sauce-brune-au-cari-brown-curry-sauce)** | *"lamb, **chicken**, beef, rice, and egg dishes"* — brown curry |
+| **[§4.80 Sauce Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)** | The source's line names *"chicken **livers**"* rather than chicken generally — but port and chicken is a proven pairing in this very cookbook: see **[§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)**, an entire roast chicken built on it |
+
+**Butter sauces, cold sauces, and American barbecue**
+
+| Sauce | Note |
+|---|---|
+| **[§4.86 Beurre Noir / Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce)** | Source's own "For:" names **"chicken breasts"** outright. 🟡 — nutty to burnt in seconds |
+| **[§4.85 Beurre Blanc / Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce)** | *"...and sautés of veal, **chicken**, kidneys, and livers."* 🔴 — the emulsion breaks easily |
+| **[§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)** | *"**broiled or boiled chicken**, boiled beef, meat patties..."* |
+| **[§4.84 Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing)** | *"For cold or hot boiled beef, **boiled chicken**, boiled fish..."* — the move if you're serving it cold |
+| **[§4.37 White Barbecue Sauce](#437-white-barbecue-sauce)** | Alabama's own: *"When you're looking for something different to serve with barbecued **chicken, turkey**, and even pork..."* **You must use real mayonnaise** |
+| **[§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto)** | **Came into this cookbook from a chicken recipe** — the source page is "Spatchcocked Chicken with Walnut-Dill Pesto." Purpose-built for this |
+| **[§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce)** | *"The traditional accompaniment to the satés of Southeast Asia"* — pair with [§4.33 Sesame Seasoning](#433-sesame-seasoning) sprinkled after the sear |
+| **[§4.9 Hollandaise](#49-hollandaise-sauce)** ❤️ · **[§4.10 Béarnaise](#410-new-orleans-béarnaise-sauce)** · **[§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise)** | Not chicken-specific, but they go on anything seared. The **[§4.61](#461-béarnaise-mayonnaise) shortcut can't break** — worth knowing |
+
+> **Don't waste the sear pan.** Same as [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method): you're left with a hot skillet and fond, which is exactly what **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** is built for — deglaze with ¾ cup wine or stock, reduce by half, swirl in cold butter off the heat. **The juices in the bag go straight into the deglaze.** *(A suggestion, not something Cody specified.)*
+
+> **If you want the shortest path to a real French sauce:** [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) is a 5-minute brown-sauce base — the source calls it *"a most useful alternative to the preceding long-simmered brown sauces"* — and it unlocks every brown sauce in the table above without a 2-hour simmer. See **[§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios)** for how the whole system fits together.
+
+#### E. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Chicken — breasts, thighs, or your cut of choice
+
+**🛒 General grocery**
+
+- 🛒 Avocado oil — spray bottle or mister
+- 🛒 Dry rub or seasoning of choice — no fresh garlic
+- 🛒 Zip-top freezer bags, if not vacuum sealing
+
+#### Nutrition
+
+Not tracked here — like [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method), this is a cut- and weight-agnostic technique (Cody didn't specify a cut or a portion size), and chicken varies widely between a skinless breast and a bone-in thigh. Any numbered recipe built on this technique carries its own Nutrition block.
 
 [↑ Table of Contents](#table-of-contents)
 

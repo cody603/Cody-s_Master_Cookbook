@@ -164,6 +164,7 @@ Click any recipe to jump straight to it.
 - [5.19 Brazilian Salad](#519-brazilian-salad) ✅
 - [5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) ✅
 - [5.21 Sautéed Kale](#521-sautéed-kale) ✅
+- [5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -318,6 +319,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-12 | **[§5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole)**, Mastering the Art of French Cooking, Volume One, Chapter Eight: Vegetables, p. 504 — filed as a **side dish in §5**, not a main, per Cody's explicit "ratatouille only as a side dish." The source's own method: eggplant and zucchini salted and drained, then each sautéed separately; onions and peppers cooked down with garlic; tomato pulp reduced on its own; everything layered in a casserole in thirds with parsley, then simmered covered and finished uncovered until the juices reduce to a spoonful of flavored oil. Rated 🟢 Easy, not 🟡, on the [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) precedent — long and multi-component, but nothing here is roux- or emulsion-fragile; the source's own "watch your heat so it doesn't scorch" caution during the final reduction is recoverable by turning the burner down, not a one-minute failure window. **The recipe's own "peeled, seeded, and juiced, page 505" ingredient citation is folded directly into the instructions as its own step** — Mastering's TOMATOES chapter intro (p. 505–506, TO PEEL TOMATOES and TO SEED AND JUICE TOMATOES), including both hand-drawn illustrations, embedded at that step rather than spun into a separate technique entry, keeping scope to "ratatouille only." **One garbled fragment flagged rather than guessed at:** a paragraph at the very top of the first photographed page ("arrange in roasting pan... bake... brown the cheese and bread crumbs") sits *above* the horizontal rule that opens the Ratatouille entry and reads as the tail end of a different, unphotographed recipe — ratatouille has no cheese or breadcrumbs and is never oven-baked in this source, and page 505 cross-references Moussaka (an eggplant-and-lamb mold, page 349, not yet transcribed) immediately above the Tomatoes chapter heading, which is the likelier home for that fragment. Excluded from this entry on that basis. |
 | 2026-08-10 | **[§7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken)**, Mastering the Art of French Cooking, Volume One, Chapter Six: Poultry, p. 254-257 — same volume and chapter as [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms), flagged distinct from the Volume Two behind [§15.1 Plain French Bread](#151-plain-french-bread-pain-français). The master technique — brown, season the dark meat first and slow-cook it, add the white meat, finish with a quick pan-deglaze sauce — plus two full variations folded in: **à la Crème** (the same deglaze, finished with cream instead of stock) and **aux Herbes de Provence** (browned in a full stick of butter with thyme, fennel, and garlic, finished with an egg-yolk-and-butter liaison built like a small hollandaise). **A third named variation, Poulet Sauté Chasseur, stays an open cross-reference** — the source's own instruction just points to the veal scallops on an untranscribed page (368), so it's noted rather than guessed at. **Two passages flagged as reconstructions** from a hard-to-read photo: the disjointing note and the two make-ahead notes; the master recipe and both transcribed variations read clean throughout. |
 | 2026-08-10 | **A new top-level section, and the most famous bread recipe in American publishing: [§15 Breads](#15-breads), opening with [§15.1 Plain French Bread (Pain Français)](#151-plain-french-bread-pain-français)** — the complete Master Recipe from **Mastering the Art of French Cooking, Volume Two** (Julia Child and Simone Beck), p. 55–74, all twenty pages photographed and transcribed whole. **This is a different book from the Volume One behind the [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)–[§4.86](#486-beurre-noir--beurre-noisette-brown-butter-sauce) sauces**, flagged so the two volumes stay distinct. Flour, water, salt, and yeast — *"because that is the law in France"* — through all 13 numbered steps: fraisage, pétrissage, three rises at 70°F, forming bâtards on a canvas couche, the upside-down unmolding, la coupe, the water-spray bake, and cooling/storing/canvas-housekeeping. **Kept with it rather than split off:** the delayed-action chart for bending the schedule, all four shape variations (ficelles, oval rolls, boules with la clé, round rolls), the full **simulated baker's oven** setup (quarry tiles, sliding board, fleurage, the sizzling-brick steam contraption, and the magician's-jerk slide), the source's own **self-criticism troubleshooting table**, and the machine-kneading note (dough hook yes, food processor no). **Eight illustration spreads embedded at the steps they teach**, per the [§T25](#t25-the-french-omelette-two-methods) precedent — this is the most heavily illustrated entry in the cookbook. Rated 🟡 Medium, not Hard: slashing and the oven slide take practice, but nothing here goes from perfect to ruined — the source itself says *"you are in complete control,"* and even a muffed slide "will all bake into bread." The 6–9 hours of rising sit in the Slow cook column where they belong: the waiting is the method, and [§1 Cody's Pho](#1-codys-pho)'s rule applies. Section numbered 15 and appended at the end, same reasoning as [§14 Desserts](#14-desserts). |
 | 2026-08-10 | **The actual omelette illustrations are now embedded in [§T25](#t25-the-french-omelette-two-methods), not just described.** Cody pushed back on the earlier claim that this cookbook couldn't include the source's hand-drawn illustrations -- on inspection, the photographed pages are readable files on disk, so four of them (source pages 128-135, the ones that actually carry illustrations) were cropped and embedded directly at the steps they teach: the pan-to-plate transfer, heating the butter and stirring, jerking and rolling the pan, and loosening the omelette with sharp blows. Pages 126-127 carry no illustrations and weren't embedded. **A real transcription error surfaced and was fixed while doing this**: the "give 4 or 5 short, sharp blows on the handle to loosen the omelette" step had been placed in Method II (rolled omelette) as its own Step 6, but it's actually the end of Method I (scrambled omelette) in the source -- Method II has no such step, just "push it into shape with the back of your fork" if needed. Method I now includes the sharp-blows step it was missing; Method II no longer has the one that didn't belong to it. |
@@ -660,6 +662,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
+| [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
@@ -9435,6 +9438,99 @@ Season with salt and pepper.
 | **Per serving** *(serves 4)* | ~160 | 10 g | 6 g | 13 g | 5 g |
 
 **What a serving is:** a generous side portion, about 1 cup wilted.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.22 Ratatouille (Eggplant Casserole)
+
+Transcribed from **Mastering the Art of French Cooking, Volume One** (Julia Child, Louisette Bertholle, Simone Beck), Chapter Eight: Vegetables, p. 504 — *not* the Volume Two behind [§15.1 Plain French Bread](#151-plain-french-bread-pain-français); flagged so the two volumes stay straight. **Filed here in §5 as a side dish, per Cody's explicit instruction** ("ratatouille only as a side dish"), even though the source's own headnote treats it as flexible enough to also serve as a cold hors d'oeuvre.
+
+*"Ratatouille perfumes the kitchen with the essence of Provence and is certainly one of the great Mediterranean dishes. As it is strongly flavored it is best when it accompanies plain roast or broiled beef or lamb, pot-au-feu (boiled beef), or plain roast, broiled, or sautéed chicken. Equally good hot or cold, it also makes a fine accompaniment to cold meats, or may be served as a cold hors d'oeuvre. A really good ratatouille is not one of the quicker dishes to make, as each element is cooked separately before it is arranged in the casserole to partake of a brief communal simmer. This recipe is the only one we know of which produces a ratatouille in which each vegetable retains its own shape and character. Happily a ratatouille may be cooked completely the day before it is to be served, and it seems to gain in flavor when reheated."*
+
+> **A garbled fragment at the top of the source page is NOT part of this recipe.** Just above the horizontal rule that opens "RATATOUILLE," a leftover paragraph reads: *"About 40 minutes before serving, arrange in roasting pan and surround with ⅛ inch of water. Bake in upper third of preheated oven for 25 to 30 minutes to heat thoroughly and brown the cheese and bread crumbs."* That's the tail end of a different, unphotographed recipe — ratatouille has no cheese or breadcrumbs anywhere in its own ingredient list, and it's never oven-baked, only sautéed and simmered on the stovetop. Page 505 cross-references *"MOUSSAKA, a mold of eggplant and lamb... page 349"* immediately above the Tomatoes chapter heading that follows Ratatouille, which is the more likely home for that fragment. Left out here rather than guessed into the method.
+
+**Yield:** for 6 to 8 people, as a side
+
+**🟢 Easy** · **Prep ~35 min** · **Cook ~1 hr** *(batch-sautéing, two separate reductions, then a basted simmer — watch your heat during the final uncovered stretch so nothing scorches)* · **Start to finish ~2 hr 5 min** *(includes a 30 min salt-and-drain rest for the eggplant and zucchini)*
+
+#### A. Ingredients
+
+- 1 lb. eggplant
+- 1 lb. zucchini
+- A 3-quart porcelain or stainless steel mixing bowl
+- 1 tsp salt
+- A 10- to 12-inch enameled (or other heavy, non-reactive) skillet
+- 4 Tb olive oil, more if needed
+- ½ lb. (about 1½ cups) thinly sliced yellow onions
+- 2 (about 1 cup) sliced green bell peppers
+- 2 to 3 Tb olive oil, if necessary
+- 2 cloves mashed garlic
+- Salt and pepper to taste
+- 1 lb. firm, ripe, red tomatoes, peeled, seeded, and juiced (see Step 2 below; makes about 1½ cups pulp)
+- Salt and pepper
+- A 2½-quart fireproof casserole, about 2½ inches deep
+- 3 Tb minced parsley
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Salt and drain the eggplant and zucchini. 30 minutes.**
+Peel the eggplant and cut into lengthwise slices ⅜ inch thick, about 3 inches long and 1 inch wide. Scrub the zucchini, slice off the two ends, and cut it into slices about the same size as the eggplant. Toss both in the mixing bowl with the 1 tsp salt. Let stand for 30 minutes, then drain and dry each slice in a towel — this pulls out excess water so the vegetables brown instead of steam in the next step.
+
+**2. Peel, seed, and juice the tomatoes.**
+Drop the tomatoes one or two at a time into boiling water and boil for exactly 10 seconds, then lift out and cut out the stem — the skin loosens from the blanching and peels off easily starting at the stem hole.
+
+![A hand peeling the loosened skin off a tomato after a 10-second blanch, starting from the stem hole](images/ratatouille/p505-to-peel-tomatoes.jpg)
+*Source page 505, "To Peel Tomatoes" — after a 10-second blanch, the skin is loosened and peels off easily.*
+
+Cut the peeled tomatoes in half crosswise, not through the stem. Squeeze each half gently to extract the seeds and juices from the center, working over a bowl or strainer to catch the juice.
+
+![Hand pressing tomato seeds and juice through a small strainer into a measuring cup](images/ratatouille/p506-to-seed-and-juice-tomatoes.jpg)
+*Source page 506, "To Seed and Juice Tomatoes" — gently press the juice and seeds out of the tomato half.*
+
+Slice the peeled, seeded, and juiced tomato halves into ⅜-inch strips — this is the pulp the recipe calls for. (Roughly chopped instead of sliced, the same peeled-seeded-juiced pulp is *tomates concassées*.)
+
+**3. Sauté the eggplant and zucchini.**
+One layer at a time, sauté the eggplant, then the zucchini, in hot olive oil for about a minute on each side, just to brown very lightly. Remove each batch to a side dish as it finishes. Add more oil between batches if the pan runs dry.
+
+**4. Cook the onions and peppers. 10 minutes.**
+In the same skillet, cook the onions and peppers slowly in olive oil for about 10 minutes, or until tender but not browned. Stir in the garlic and season to taste.
+
+**5. Cook the tomato pulp.**
+Lay the sliced tomato pulp over the onions and peppers. Season with salt and pepper. Cover the skillet and cook over low heat for 5 minutes, or until the tomatoes have begun to render their juice. Uncover, baste the tomatoes with their own juices, raise the heat, and boil for several minutes until the juice has almost entirely evaporated.
+
+**6. Layer everything into the casserole.**
+Place a third of the tomato mixture in the bottom of the fireproof casserole and sprinkle over it 1 tablespoon of parsley. Arrange half of the eggplant and zucchini on top, then half of the remaining tomatoes and parsley. Put in the rest of the eggplant and zucchini, finishing with the remaining tomatoes and parsley. Season lightly with salt and pepper as you go.
+
+**7. Simmer, then finish uncovered. About 25 minutes.**
+Cover the casserole and simmer over low heat for 10 minutes. Uncover, tip the casserole, and baste with the rendered juices. Correct the seasoning if necessary. Raise the heat slightly and cook uncovered for about 15 minutes more, basting several times, until the juices have evaporated and left behind just a spoonful or two of flavored olive oil. Watch your heat here — this is the one point in the recipe that can scorch if the pan runs dry and is left unattended, so keep basting and don't walk away.
+
+*(*) May be set aside uncovered and reheated slowly at serving time, or served cold — the source notes it actually gains flavor overnight.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggplant — 1 lb
+- 🛒 Zucchini — 1 lb
+- 🛒 Olive oil — about ½ cup (6–7 Tbsp) total
+- 🛒 Yellow onions — ½ lb
+- 🛒 Green bell peppers — 2
+- 🛒 Garlic — 2 cloves
+- 🛒 Firm, ripe, red tomatoes — 1 lb (4–5 medium)
+- 🛒 Parsley — 3 Tbsp minced, fresh
+- 🛒 Salt and pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,200 | 93 g | 18 g | 94 g | 27 g |
+| **Per serving** *(serves 6, the low end of the source's 6-to-8 range)* | ~200 | 15 g | 3 g | 16 g | 4.5 g |
+
+**What a serving is:** a generous 1-cup side portion. Most of the fat and calories come from the olive oil, which stays in the dish as the "spoonful or two of flavored olive oil" the recipe finishes with — it's eaten, not drained off.
 
 [↑ Table of Contents](#table-of-contents)
 

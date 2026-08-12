@@ -200,6 +200,7 @@ Click any recipe to jump straight to it.
 - [7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) ✅
 - [7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin) ✅
 - [7.52 Chicken Marbella](#752-chicken-marbella) ✅
+- [7.53 Pasta Puttanesca](#753-pasta-puttanesca) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -279,6 +280,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Fifth recipe from The Silver Palate Cookbook: [§7.53 Pasta Puttanesca](#753-pasta-puttanesca)**, p. 88–89 — the source's friend Bobbie's recipe: squeezed-dry canned plum tomatoes boiled hard with garlic, capers, niçoise olives, anchovies, and parsley, ready in about 20 minutes. The sauce is designed to cook in the time the pasta boils. **A correction to my own earlier read, recorded rather than quietly fixed:** I first told Cody this recipe's ingredient list wasn't in the photo and that the adjacent Creamy Pasta Sauce with Fresh Herbs was a separate recipe — he was right that the page continued, and a closer photo confirmed it. The layout runs title and intro at the bottom of p. 88, ingredients and method at the top of p. 89; the Creamy Pasta Sauce genuinely is a separate recipe below it, and per Cody's "Puttanesca only," neither it nor the sausage-tomato sauce above the intro is transcribed. A **"Capers" sidebar essay** shares the page, noted as available for [§T5 Seasonings & Peppers](#t5-seasonings--peppers) if it's ever wanted. |
 | 2026-08-10 | **Fourth recipe from The Silver Palate Cookbook: [§8.20 Six-Onion Soup](#820-six-onion-soup)**, p. 229 — a puréed soup running through onions, leeks, shallots, and garlic, finished with heavy cream and simmered scallions. Its own "Shallots" sidebar confirms the source ("When we opened The Silver Palate years ago..."), matching [§7.52](#752-chicken-marbella), [§8.17](#817-minted-sweet-pea-and-spinach-soup), and [§8.18](#818-gazpacho). Two references not yet transcribed: Chicken Stock (page 416, the same one [§8.17](#817-minted-sweet-pea-and-spinach-soup) cites) and a crouton technique (page 76). The tail end of a preceding fish-and-raspberry-butter-sauce recipe shares the top of the page — not enough visible to transcribe. |
 | 2026-08-10 | **Third recipe from The Silver Palate Cookbook: [§7.52 Chicken Marbella](#752-chicken-marbella)**, p. 105 — **the most famous recipe in the book, per Cody**, and the source's own text backs that up: it was the first main-course dish The Silver Palate shop ever sold. Chicken quartered and marinated overnight in olive oil, vinegar, prunes, olives, capers, and garlic, then baked with brown sugar and white wine until the juices run clear. A suggested "Country Weekend Lunch" menu box shares the page (Cheese Straws, Crudités and Dips, Semolina Bread, Boucheron Cheese, Lime Mousse, Chocolate Chip Cookies) — none of those are transcribed, just noted in case they turn up later. Filed at [§7.52](#752-chicken-marbella), keeping it with the other chicken mains rather than in §8 alongside this source's two soups. |
 | 2026-08-10 | **[§8.19 Crawfish Bisque (Bisque d'Écrevisses)](#819-crawfish-bisque-bisque-décrevisses)** — Paul and K's recipe from **The Prudhomme Family Cookbook**, the single most complex recipe in this cookbook by the source's own admission. Crawfish boil and purge, stock strained through cheesecloth, tails peeled and heads cleaned by hand, a cornbread stuffing packed into the heads and baked, a proper dark roux, and the whole thing assembled the next day — genuinely a two-day, all-hands project, the same scale as [§1 Cody's Pho](#1-codys-pho) but rated 🔴 **Hard** rather than Easy, since this one ends in a roux that can burn. **One real inconsistency flagged rather than quietly fixed:** the printed celery total (¾ cup) doesn't reconcile with what the method actually calls for (2¼ cups in the stuffing sauté alone) — the write-up uses an inferred ~3 cups, matching the pattern of the other aromatics, with the discrepancy noted in place of a silent correction. Two source references (Bobby's Cornbread, p. 278, and the source's own roux page) and two unrelated page-fragment titles are noted but not transcribed. Updated the Difficulty & Time Index's Hard-recipe count (seven → ten, catching two 🔴 entries — [§14.2](#142-sugared-berries-with-crème-anglaise) and [§14.5](#145-pumpkin-chiffon-pie) — that had been rated Hard but never folded into that paragraph's count) and added this recipe as a direct counterpoint to Cody's Pho in the "long isn't hard" discussion. |
@@ -493,6 +495,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
+| [§7.53 Pasta Puttanesca](#753-pasta-puttanesca) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
@@ -594,7 +597,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 88 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 89 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -11246,6 +11249,79 @@ With a slotted spoon, transfer the chicken, prunes, olives, and capers to a serv
 **What a serving is:** flexible by design, per the source — a single piece (leg, thigh, breast, or wing) as a lighter serving or appetizer, or closer to two pieces for a main-course portion.
 
 *Bay leaves are aromatic only and aren't counted as eaten. Olive oil, brown sugar, and the chicken itself (skin-on, bone-in) carry most of the calories.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.53 Pasta Puttanesca
+
+Transcribed from **The Silver Palate Cookbook**, p. 88–89 — the *Pasta Perfect / Piping Hot Pasta* spread, the same source as [§7.52 Chicken Marbella](#752-chicken-marbella) and this cookbook's [§8.17](#817-minted-sweet-pea-and-spinach-soup), [§8.18](#818-gazpacho), and [§8.20](#820-six-onion-soup). *"This racy pasta sauce is named for Italian ladies of the night (the puttane). It's quick and cheap and we hope it offends no one to say so. Puttanesca with its zesty nuggets of garlic, capers, olives, and anchovies is not for the faint-hearted. Serve it to food-loving friends and pour an earthy red wine. With practice you can have this sauce ready to eat in 20 minutes. This is our friend Bobbie's recipe. She can make it blindfolded."*
+
+> **The sauce cooks in the time the pasta boils** — that's the whole design of this recipe. Start the water first, and the sauce comes together while the spaghetti cooks; the source's 20-minute claim is realistic once you've made it once.
+
+> **A "Capers" sidebar essay shares this page** — on how capers are the unopened flower buds of a wild Mediterranean bush, hand-harvested and graded by size from nonpareils up, and either brined in vinegar or salt-packed. Not transcribed here, since this batch was Puttanesca only, but it's available if it's ever worth folding into [§T5 Seasonings & Peppers](#t5-seasonings--peppers).
+
+> **Not this page's other recipes.** A sausage-and-tomato pasta sauce sits above the Puttanesca intro on p. 88, and **Creamy Pasta Sauce with Fresh Herbs** sits below the method on p. 89 — both complete on the page but deliberately left out, per Cody's "Puttanesca only."
+
+**Yield:** 4 main-course portions
+
+**🟢 Easy** · **Prep ~10 min** *(draining and squeezing the tomatoes, chopping the garlic, anchovies, olives, and parsley)* · **Cook ~15 min** *(pasta boil, with the sauce cooking alongside in 3–5 min)* · **Start to finish ~25 min** *(the source says 20 min once you've got the rhythm)*
+
+#### A. Ingredients
+
+- 1 lb spaghetti, linguine, or other thin dried pasta
+- 2 cans (2 lb 3 oz each) Italian plum tomatoes
+- ¼ cup best-quality olive oil
+- 1 tsp dried oregano
+- ⅛ tsp crushed red pepper flakes, or to taste
+- ½ cup tiny black niçoise olives
+- ¼ cup drained capers
+- 4 garlic cloves, peeled and chopped
+- 8 anchovy fillets, coarsely chopped
+- ½ cup chopped fresh Italian (flat-leaf) parsley, plus extra for garnish
+- Salt, to taste
+
+#### B. Cooking Instructions
+
+**1. Boil the pasta.**
+Bring 4 quarts of salted water to a boil in a large pot. Stir in the spaghetti and cook until tender but still firm. Drain immediately and transfer to 4 heated plates.
+
+**2. Drain and squeeze the tomatoes — while the pasta cooks.**
+Drain the canned tomatoes, cut them crosswise into halves, and squeeze out as much liquid as possible. This is what keeps the sauce from going watery; don't skip the squeeze.
+
+**3. Bring the sauce to a full boil and add everything at once.**
+Combine the tomatoes and olive oil in a skillet and bring to a boil. Keeping the sauce at a full boil, add the oregano, red pepper flakes, olives, capers, garlic, anchovies, and ½ cup parsley, stirring frequently.
+
+**4. Thicken and serve. 3 to 5 minutes.**
+Reduce the heat slightly and continue to cook until the sauce has thickened to your liking, 3 to 5 minutes. Taste and add salt if desired — the anchovies and capers are already salty, so taste before reaching for it. Serve immediately over the hot pasta, garnished with the additional chopped parsley.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Spaghetti, linguine, or other thin dried pasta — 1 lb
+- 🛒 Canned Italian plum tomatoes — 2 cans, 2 lb 3 oz each
+- 🛒 Best-quality olive oil — ¼ cup
+- 🛒 Dried oregano — 1 tsp
+- 🛒 Crushed red pepper flakes
+- 🛒 Tiny black niçoise olives — ½ cup
+- 🛒 Capers — ¼ cup drained
+- 🛒 Garlic — 4 cloves
+- 🛒 Anchovy fillets — 8
+- 🛒 Fresh Italian (flat-leaf) parsley — ½ cup chopped, plus extra to garnish
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,580 | 77 g | 72 g | 396 g | 32 g |
+| **Per serving** *(serves 4)* | ~645 | 19 g | 18 g | 99 g | 8 g |
+
+**What a serving is:** a full main-course plate — a quarter pound of pasta with a generous ladle of sauce over it.
+
+*The tomato liquid squeezed out in Step 2 isn't counted, since it's discarded rather than eaten. Pasta carries nearly all the carbs; the olive oil and olives carry most of the fat.*
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -218,6 +218,7 @@ Click any recipe to jump straight to it.
 - [8.14 Restorative Beef Broth](#814-restorative-beef-broth) ✅
 - [8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) ✅
 - [8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) ✅
+- [8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -274,6 +275,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **First recipe from a new source: [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup)**, from **The Silver Palate Cookbook**, p. 57 — a puréed pea and spinach soup finished with fresh mint and heavy cream, using frozen peas and spinach but fresh mint (per the source's own insistence). One source reference not yet transcribed: its own Chicken Stock (page 416); a general chicken stock substitutes fine for now. **The tail end of a second, unrelated soup shares the same page** (three steps mentioning orange juice and zest, no title or ingredients visible) — not enough to transcribe, noted rather than guessed at. |
 | 2026-08-10 | **[§7.51 Boudin Blanc](#751-boudin-blanc-boudin)'s open "Lagniappe" reference resolved: [§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe)**, from the same source's general casing-prep sidebar (p. 240–241) — soaking and rinsing casings, checking for holes, loading the stuffing tube, working out air bubbles, and recovering from a burst casing without starting over. Filed as a formula, not tied to one recipe, since it applies to any boudin in this cookbook. §7.51's own text and its casing-stuffing step now link here instead of flagging the page as unread. **Fried Crawfish Patties, from the same photo batch, is being held back** to add alongside Crawfish Boudin itself once its remaining pages arrive, rather than standing alone without the recipe it's a leftover-use variation of. |
 | 2026-08-10 | **First recipe from a new source: [§7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin)**, Darilee and Saul's recipe from **The Prudhomme Family Cookbook**, p. 242–245 — **a different book from the *Louisiana Kitchen* already in this cookbook**, despite the shared Prudhomme name; flagged explicitly to avoid confusion. Pork shoulder and liver simmered in stock, ground, mixed with rice and aromatics, stuffed into hog casings, and poached — classic Cajun boudin blanc. **Two source references noted rather than guessed at:** Basic Pork Stock (p. 252) and Basic Cooked Rice, neither transcribed yet (a general stock and plain rice substitute fine), plus a "Lagniappe" on p. 241. **The poaching/storage step and the fried-patties variation are flagged as reconstructions** — the source photo covering them was worn and low-contrast in spots, so the write-up follows the most sensible reading rather than a guaranteed word-for-word transcription. Per Cody's explicit instruction, this batch's companion **Red Boudin** recipe is being skipped entirely, and **Crawfish Boudin** (Allie and Etell's recipe, p. 238–239) is held pending its remaining pages, which are still to come. |
 | 2026-08-10 | **Another long-standing open reference resolved: [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs)**, transcribed from **Steven Raichlen's *How to Grill*** (p. 140–143) — [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) has been citing this exact dish by page number since it was added ("page 143, not in this cookbook"); §4.43's own text now links to it instead. Baby back ribs, membrane removed, marinated 6–12 hours in lemongrass, ginger, garlic, shallot, fish sauce, and lemon juice, then indirect-grilled 1¼–1½ hours with no wood chips at all — the source's own note points out that smoking is a North American habit, not an Asian barbecue one. **Rated Slow cook for the grill time**, same convention as [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage)'s identical indirect setup. This is a separate dish from Cody's own planned [§6.5 Smoked Ribs](#65-smoked-ribs) — different marinade, different method (grilled, not smoked) — so it's filed on its own in §7 rather than touching that placeholder. |
@@ -518,6 +520,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
+| [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
 | [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) | 🔴 | 25 min | 15 min | — | 2 hr 40 min *(+ 2 hr chill to set)* |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
@@ -12356,6 +12359,79 @@ Put a handful of the pulled chicken in each of 6 bowls, then ladle in the hot br
 | **Per serving** *(serves 6)* | ~220 | 7 g | 31 g | 3 g | 1 g |
 
 **What a serving is:** a handful of pulled chicken in a deep bowl of hot broth, about 1½ cups.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.17 Minted Sweet Pea and Spinach Soup
+
+Transcribed from **The Silver Palate Cookbook**, p. 57 — the *Soups to Start* chapter. **First recipe from this source.** *"This rich, elegant soup is a perfect beginning for an important dinner. Although we use frozen peas and spinach with excellent results, the mint really must be fresh."*
+
+> *"It is the destiny of mint to be crushed."* — Waverley Root
+
+> **A second, unnamed soup's tail end shares this page**, cut off at the top of the photo — three steps mentioning orange juice and orange zest, with no title, ingredients, or first two steps visible. Not enough to transcribe or even identify; a straight photo of the preceding page (56) would resolve it.
+
+> **One source reference not yet transcribed:** Chicken Stock (page 416). Any decent chicken stock substitutes fine in the meantime.
+
+**Yield:** 4 to 6 portions
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~55 min** *(25 min sweating the onions, 20 min simmer, 5 min with the mint, plus a quick purée and finish)* · **Start to finish ~1 hr 10 min**
+
+#### A. Ingredients
+
+- 4 Tbsp (½ stick) unsalted butter
+- 2 cups finely chopped yellow onions
+- 10 oz frozen chopped spinach, defrosted
+- 3 cups Chicken Stock *(page 416 — not yet transcribed; any good chicken stock substitutes)*
+- 10 oz frozen peas, defrosted
+- ½ bunch fresh mint
+- 1 cup heavy cream
+- Salt and freshly ground black pepper, to taste
+
+#### B. Cooking Instructions
+
+**1. Sweat the onions. About 25 minutes.**
+Melt the butter in a large heavy pot over low heat. Add the chopped onions, cover, and cook until tender and lightly colored, about 25 minutes.
+
+**2. Drain the spinach, then simmer it with the peas. About 20 minutes.**
+Meanwhile, drain the spinach and squeeze out the excess liquid. Pour the stock into the pot, stir in the peas and spinach, and bring to a boil. Reduce the heat and simmer, partially covered, until the peas are really tender, about 20 minutes.
+
+**3. Strip the mint and stir it in. 5 more minutes.**
+Remove the mint leaves from their stems — there should be about 2 cups loosely packed. Rinse thoroughly and pat dry. Once the peas are tender, add the mint to the pot, cover, and simmer 5 minutes more.
+
+**4. Strain, then purée the solids.**
+Pour the soup through a strainer, reserving the liquid, and transfer the solids to a food processor — or use a food mill fitted with the medium disc. Process until smooth.
+
+**5. Recombine and thin to consistency.**
+Return the puréed soup to the pot. Add the heavy cream and about 1 cup of the reserved liquid (or more stock), until the soup reaches the consistency you want.
+
+**6. Season, heat through, and serve.**
+Season with salt and pepper, simmer briefly to heat through, and serve immediately.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 4 Tbsp (½ stick)
+- 🛒 Yellow onions — 2 cups, finely chopped
+- 🛒 Frozen chopped spinach — 10 oz
+- 🛒 Chicken stock — 3 cups
+- 🛒 Frozen peas — 10 oz
+- 🛒 Fresh mint — ½ bunch
+- 🛒 Heavy cream — 1 cup
+- 🛒 Salt and black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,720 | 134 g | 41 g | 88 g | 24 g |
+| **Per serving** *(serves 5, midpoint of 4–6)* | ~345 | 27 g | 8 g | 18 g | 5 g |
+
+**What a serving is:** a generous first-course bowl, about 1 to 1½ cups.
+
+*The heavy cream and butter account for most of the fat here; peas and spinach carry most of the fiber.*
 
 [↑ Table of Contents](#table-of-contents)
 

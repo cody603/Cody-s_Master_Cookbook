@@ -81,6 +81,14 @@ Click any recipe to jump straight to it.
   - [4.60 Tomato "Rollmops"](#460-tomato-rollmops) ✅
   - [4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) ✅
   - [4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) ✅
+  - [4.63 Sauce Béchamel / Sauce Velouté (Master White Sauce)](#463-sauce-béchamel--sauce-velouté-master-white-sauce) ✅
+  - [4.64 Sauce Parisienne (Egg Yolk and Cream Enrichment)](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) ✅
+  - [4.65 Sauce Mornay (Cheese Sauce)](#465-sauce-mornay-cheese-sauce) ✅
+  - [4.66 Sauce Aurore (Béchamel or Velouté with Tomato Flavoring)](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) ✅
+  - [4.67 Sauce Chivry / Sauce à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce) ✅
+  - [4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) ✅
+  - [4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) ✅
+  - [4.70 Sauce Bâtarde / Sauce au Beurre (Mock Hollandaise)](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -105,6 +113,7 @@ Click any recipe to jump straight to it.
   - [T21. Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) ✅
   - [T22. Rib Marinade — Dry Brine or Wet Marinade (Cody's Method)](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) ✅
   - [T23. How to Prepare and Fill Sausage Casings (Lagniappe)](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) ✅
+  - [T24. The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -280,6 +289,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **Biggest single batch yet, and a major new source: nine entries from *Mastering the Art of French Cooking* (Julia Child, Louisette Bertholle, Simone Beck)**, Chapter Two: Sauces, p. 55–65. The white-sauce family, essentially complete: **[§4.63 Sauce Béchamel / Sauce Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce)** is the master recipe (the source prints béchamel and velouté as one recipe — same method, milk versus stock), and seven derived sauces hang off it: **[§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)** (egg yolk and cream enrichment, formerly sauce allemande), **[§4.65 Mornay](#465-sauce-mornay-cheese-sauce)**, **[§4.66 Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)**, **[§4.67 Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)**, **[§4.68 au Cari](#468-sauce-au-cari-light-curry-sauce)**, **[§4.69 Soubise](#469-sauce-soubise-onion-sauce)**, and **[§4.70 Bâtarde / au Beurre](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)** (mock hollandaise, with the Sauce aux Câpres variation folded in). Plus **[§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios)** — the source's six mother-sauce groups, its flour-per-cup thickness table (1 Tbsp thin / 1½ medium / 2 thick / 3 soufflé base), the saucepan warning (no aluminum with wine or egg yolks), and its canned-chicken-broth upgrade treatment. Filed as pure reference like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T7](#t7-louisiana-language--ingredients), so it carries no badge or Nutrition block and stays out of the index counts. **Two things worth flagging:** [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) is rated 🟡 Medium rather than 🔴 like [§4.9 Hollandaise](#49-hollandaise-sauce), because its flour base supports the egg yolk — the source is explicit that a flour-based sauce *can* be boiled without curdling, which is the whole point of a "mock" hollandaise; and [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) is kept distinct from [§4.52 Balsamella](#452-balsamella), Canal House's thicker Italian version of the same sauce, rather than merged. **Also fixed a stale table:** the T-section's own quick index had stopped at T17 and was missing T18–T23; all of them plus T24 are now listed. |
 | 2026-08-10 | **Fifth recipe from The Silver Palate Cookbook: [§7.53 Pasta Puttanesca](#753-pasta-puttanesca)**, p. 88–89 — the source's friend Bobbie's recipe: squeezed-dry canned plum tomatoes boiled hard with garlic, capers, niçoise olives, anchovies, and parsley, ready in about 20 minutes. The sauce is designed to cook in the time the pasta boils. **A correction to my own earlier read, recorded rather than quietly fixed:** I first told Cody this recipe's ingredient list wasn't in the photo and that the adjacent Creamy Pasta Sauce with Fresh Herbs was a separate recipe — he was right that the page continued, and a closer photo confirmed it. The layout runs title and intro at the bottom of p. 88, ingredients and method at the top of p. 89; the Creamy Pasta Sauce genuinely is a separate recipe below it, and per Cody's "Puttanesca only," neither it nor the sausage-tomato sauce above the intro is transcribed. A **"Capers" sidebar essay** shares the page, noted as available for [§T5 Seasonings & Peppers](#t5-seasonings--peppers) if it's ever wanted. |
 | 2026-08-10 | **Fourth recipe from The Silver Palate Cookbook: [§8.20 Six-Onion Soup](#820-six-onion-soup)**, p. 229 — a puréed soup running through onions, leeks, shallots, and garlic, finished with heavy cream and simmered scallions. Its own "Shallots" sidebar confirms the source ("When we opened The Silver Palate years ago..."), matching [§7.52](#752-chicken-marbella), [§8.17](#817-minted-sweet-pea-and-spinach-soup), and [§8.18](#818-gazpacho). Two references not yet transcribed: Chicken Stock (page 416, the same one [§8.17](#817-minted-sweet-pea-and-spinach-soup) cites) and a crouton technique (page 76). The tail end of a preceding fish-and-raspberry-butter-sauce recipe shares the top of the page — not enough visible to transcribe. |
 | 2026-08-10 | **Third recipe from The Silver Palate Cookbook: [§7.52 Chicken Marbella](#752-chicken-marbella)**, p. 105 — **the most famous recipe in the book, per Cody**, and the source's own text backs that up: it was the first main-course dish The Silver Palate shop ever sold. Chicken quartered and marinated overnight in olive oil, vinegar, prunes, olives, capers, and garlic, then baked with brown sugar and white wine until the juices run clear. A suggested "Country Weekend Lunch" menu box shares the page (Cheese Straws, Crudités and Dips, Semolina Bread, Boucheron Cheese, Lime Mousse, Chocolate Chip Cookies) — none of those are transcribed, just noted in case they turn up later. Filed at [§7.52](#752-chicken-marbella), keeping it with the other chicken mains rather than in §8 alongside this source's two soups. |
@@ -429,7 +439,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.65 Sauce Mornay](#465-sauce-mornay-cheese-sauce) | 🟢 | 5 min | 5 min | — | 10 min *(+ §4.63)* |
+| [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) | 🟢 | 5 min | 5 min | — | 10 min *(+ §4.63)* |
 | [§4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) | 🟡 | 5 min | 5 min | — | 10 min *(+ §4.9)* |
+| [§4.63 Sauce Béchamel / Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -484,6 +497,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) | 🟢 | 10 min | 10 min | **5 hr** *(gentle simmer, unattended)* | 5 hr 20 min |
 | [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) | 🟢 | 15 min | 5 min | **2 hr** *(unattended simmer)* | 2 hr 20 min |
+| [§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) | 🟡 | 5 min | 10 min | — | 15 min *(+ §4.63)* |
+| [§4.70 Sauce Bâtarde (Mock Hollandaise)](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
 | [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) | 🟢 | 20 min | — | **~2 hr** *(unattended oven roast, size-dependent)* | 2 hr 20 min |
 | [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
@@ -496,6 +511,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.53 Pasta Puttanesca](#753-pasta-puttanesca) | 🟢 | 10 min | 15 min | — | 25 min |
+| [§4.67 Sauce Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ §4.63)* |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
@@ -525,6 +541,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
+| [§4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) | 🟡 | 10 min | 30 min | — | 40 min |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
@@ -558,6 +575,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
+| [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
@@ -597,7 +615,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 89 recipes**, including nearly all of §4's now-62 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 95 recipes**, including nearly all of §4's now-70 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -4682,6 +4700,502 @@ With the machine still running, add the oil, lemon juice, salt, pepper, and ¾ c
 
 ---
 
+### 4.63 Sauce Béchamel / Sauce Velouté (Master White Sauce)
+
+Transcribed from **Mastering the Art of French Cooking** (Julia Child, Louisette Bertholle, and Simone Beck) — Chapter Two: Sauces, p. 57. **First recipe from this source, and the parent of the seven sauces that follow it** ([§4.64](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) through [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)). *"This basic sauce takes about 5 minutes to make, and is then ready for the addition of flavors or enrichments."*
+
+> **Béchamel and velouté are the same recipe with a different liquid.** Béchamel uses milk; velouté uses chicken, veal, or fish stock, often with a wine flavoring. Everything else — the roux, the method, the timing — is identical. That's why the source prints them as one recipe rather than two.
+
+> **The background on roux ratios, pan choice, and stocks lives at [§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios)** — including the source's flour-per-cup table for thin, medium, thick, and soufflé-base consistencies.
+
+> **Distinct from [§4.52 Balsamella](#452-balsamella) and [§T1 How to Make a Roux](#t1-how-to-make-a-roux).** §4.52 is Canal House's Italian version of the same sauce, thicker and made with a full stick of butter to ½ cup flour; §T1 is the Cajun dark roux, which is the opposite technique — this one must not color at all.
+
+**Yield:** 2 cups (medium thickness)
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min**
+
+**Techniques used:** [T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) · [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(as a contrast — this roux stays white)*
+
+#### A. Ingredients
+
+- 2 Tbsp butter
+- 3 Tbsp flour
+- 2 cups milk plus ¼ tsp salt, heated to the boil in a small saucepan — **OR** 2 cups boiling white stock *(chicken, veal, or fish — see [§T24](#t24-the-french-sauce-families--roux-ratios))*
+
+**You'll need:** a heavy-bottomed 6-cup enameled, stainless steel, tin-lined copper, porcelain, or Pyrex saucepan; a wooden spatula or spoon; a wire whip.
+
+#### B. Cooking Instructions
+
+**1. Make the white roux. 2 minutes.**
+Melt the butter in the saucepan over low heat. Blend in the flour and cook slowly, stirring, until the butter and flour froth together for 2 minutes **without coloring**. This is now a white roux.
+
+**2. Off heat, pour in all the hot liquid at once.**
+Remove the roux from the heat. As soon as it has stopped bubbling, pour in all the hot liquid at once and immediately beat vigorously with a wire whip to blend liquid and roux, gathering in all bits of roux from the inside edges of the pan.
+
+**3. Bring to the boil and boil 1 minute.**
+Set the saucepan over moderately high heat and stir with the wire whip until the sauce comes to the boil. Boil 1 minute, stirring.
+
+**4. Season and use, or hold.**
+Season to taste. If the sauce isn't being used immediately, clean off the sides of the pan and float a film of cream, stock, or melted butter over the surface so a skin doesn't form.
+
+> **Per the source, on long simmering:** many old cookbooks call for simmering a velouté for several hours to cook out the floury taste and concentrate flavor. If the roux is properly cooked to begin with and the stock is concentrated and well-flavored, both problems are already solved — a long simmer adds finesse if you have the time, but this book seldom considers it necessary.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 2 Tbsp
+- 🛒 All-purpose flour — 3 Tbsp
+- 🛒 Milk — 2 cups *(for béchamel)*, **or** white stock — 2 cups *(for velouté)*
+- 🛒 Salt
+
+#### Nutrition *(estimated, béchamel version)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~585 | 39 g | 18 g | 42 g | 0.6 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~73 | 5 g | 2.3 g | 5 g | 0.1 g |
+
+**What a serving is:** ¼ cup — enough to nap one portion of fish, eggs, or vegetables.
+
+*Made as a velouté with stock instead of milk, this runs considerably lighter — roughly 300 calories for the batch, with the fat and protein dropping to whatever the stock carries.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.64 Sauce Parisienne (Egg Yolk and Cream Enrichment)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 60–61 — *"formerly Sauce Allemande."* *"Sauces enriched with egg yolks and cream are among the richest and most velvety in all the French repertoire."*
+
+> **This is the doorway to a whole family of sauces.** Per the source: *sauce poulette* is a velouté flavored with meat or fish, onions, and mushrooms; *sauce normande* is a velouté based on white-wine fish stock and the cooking liquors of mussels, oysters, shrimps, écrevisses, and mushrooms; the shellfish sauces — *cardinal*, *Nantua*, *Joinville* — are shellfish veloutés with special trimmings and a shellfish butter beaten in at the end. All of them are a basic velouté with a final enrichment of egg yolks, cream, and usually butter. **"If you can make one, you can make all."**
+
+> **Why this doesn't curdle, per the source:** egg yolks turn granular unless they're beaten with a bit of cold liquid first, before hot liquid is gradually worked into them. Once that's done, the sauce can be brought to a boil — **because the egg yolks are supported by a flour-based sauce, they may boil without danger of curdling.** That's what separates this from a hollandaise, and it's why this is rated Medium rather than Hard.
+
+**Yield:** about 2 cups
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min** *(plus making the béchamel or velouté base)*
+
+#### A. Ingredients
+
+- 1½ cups **thick** béchamel or velouté, [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) — made with 3 Tbsp flour, 2½ Tbsp butter, and 1½ cups liquid
+- 2 egg yolks
+- ½ cup whipping cream
+- Salt and white pepper
+- Lemon juice
+- More cream, if necessary
+- Optional: 1 to 2 Tbsp softened butter *(occasionally more is called for; use no butter if the sauce is for a gratinéed dish)*
+
+**You'll need:** a heavy-bottomed 8-cup enameled saucepan; an 8-cup mixing bowl; a wire whip; a wooden spatula or spoon.
+
+#### B. Cooking Instructions
+
+**1. Bring the base sauce to a simmer.**
+Bring the thick béchamel or velouté to the simmer in its saucepan.
+
+**2. Build the liaison — cold first, then hot, slowly.**
+Blend the egg yolks and cream in the mixing bowl with a wire whip. A few drops at a time, beat in ½ cup of the hot sauce. Then slowly beat in the rest of the sauce in a thin stream. Pour the mixture back into the saucepan.
+
+**3. Boil 1 minute.**
+Set over moderately high heat and stir constantly with a wooden spoon, reaching all over the bottom of the pan, until the sauce comes to the boil. Boil and stir for 1 minute.
+
+**4. Strain, then correct.**
+Strain the sauce through a fine sieve to remove coagulated bits of egg white, which always cling to the yolk. Rinse out the saucepan and return the sauce to it. Simmer over low heat to check seasoning, adding salt, pepper, and drops of lemon juice to taste. If the sauce is too thick, beat in more cream by spoonfuls.
+
+**5. Off heat, finish with butter just before serving.**
+Off heat and just before serving, stir in the optional softened butter by bits.
+
+> **Holding it, per the source:** if not used immediately, clean off the sides of the pan and float a film of cream or stock over the surface as it cools. The sauce will thicken and look custardy as it cools — that's normal, and it smooths out when reheated. It may also be frozen.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 2, for yolks
+- 🛒 Whipping cream — ½ cup, plus more to thin
+- 🛒 Butter — 1 to 2 Tbsp, optional
+- 🛒 Lemon — for juice
+- 🛒 Salt and white pepper
+- Plus everything for [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) at thick consistency
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~1,230 | 110 g | 22 g | 40 g | 0.6 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~154 | 14 g | 2.8 g | 5 g | 0.1 g |
+
+**What a serving is:** ¼ cup — a rich sauce, meant to nap a portion rather than pool around it.
+
+*Figures assume the béchamel version and 1½ Tbsp of the optional finishing butter.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.65 Sauce Mornay (Cheese Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 61–62 — the first of the sauces derived from [§4.63 béchamel and velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce). **For:** eggs, fish, poultry, veal, vegetables, pastas, and hot hors d'oeuvres.
+
+> **Note, per the source:** if the sauce covers foods that are going to be baked or gratinéed, use the *minimum* amount of cheese suggested, and omit the butter enrichment at the end. Too much cheese can make the sauce stringy, and a butter enrichment will exude from the top of the sauce.
+
+**Yield:** 2 cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min** *(plus making the béchamel or velouté base)*
+
+#### A. Ingredients
+
+- 2 cups **medium** béchamel or velouté, [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)
+- ¼ to ½ cup coarsely grated Swiss cheese, or a combination of coarsely grated Swiss and finely grated Parmesan
+- Salt and pepper
+- Pinch of nutmeg
+- Optional: pinch of cayenne pepper and 1 to 2 Tbsp softened butter
+
+#### B. Cooking Instructions
+
+**1. Boil, then melt the cheese in off heat.**
+Bring the sauce to the boil. Remove from heat and beat in the cheese until it has melted and blended with the sauce.
+
+**2. Season, and finish with butter just before serving.**
+Season to taste with salt, pepper, nutmeg, and the optional cayenne. Off heat and just before serving, stir in the optional butter a bit at a time.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Swiss cheese — ¼ to ½ cup coarsely grated *(Parmesan optional, in combination)*
+- 🛒 Nutmeg
+- 🛒 Cayenne pepper — optional
+- 🛒 Butter — 1 to 2 Tbsp, optional
+- 🛒 Salt and pepper
+- Plus everything for [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~885 | 67 g | 29 g | 43 g | 0.6 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~111 | 8 g | 3.6 g | 5.4 g | 0.1 g |
+
+**What a serving is:** ¼ cup — enough to coat one portion of pasta, vegetables, or eggs.
+
+*Figures assume the béchamel version, ⅜ cup of cheese (the midpoint), and 1½ Tbsp of the optional butter.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.66 Sauce Aurore (Béchamel or Velouté with Tomato Flavoring)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 62. **For:** eggs, fish, chicken, vegetables.
+
+**Yield:** 2 cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min** *(plus making the béchamel or velouté base)*
+
+#### A. Ingredients
+
+- 2 cups béchamel or velouté, [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce), or the source's cream sauce (p. 59 — not yet transcribed)
+- 2 to 6 Tbsp cooked fresh tomato purée *(source p. 78 — not yet transcribed)* or tomato paste
+- 1 to 2 Tbsp softened butter
+- Optional: 1 to 2 Tbsp minced fresh parsley, chervil, basil, or tarragon
+
+#### B. Cooking Instructions
+
+**1. Add the tomato a spoonful at a time, to taste.**
+Bring the sauce to the simmer. Stir in the tomato, a spoonful at a time, until you have achieved the color and flavor you want. Correct seasoning.
+
+**2. Off heat, finish with butter and herbs.**
+Off heat and just before serving, stir in the butter and the optional herbs.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Tomato purée or tomato paste — 2 to 6 Tbsp
+- 🛒 Butter — 1 to 2 Tbsp
+- 🛒 Fresh parsley, chervil, basil, or tarragon — optional
+- Plus everything for [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~760 | 56 g | 19 g | 47 g | 1.6 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~95 | 7 g | 2.4 g | 5.9 g | 0.2 g |
+
+**What a serving is:** ¼ cup — enough to nap one portion of eggs, fish, or chicken.
+
+*Figures assume the béchamel version, 4 Tbsp tomato purée, and 1½ Tbsp butter.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.67 Sauce Chivry / Sauce à l'Estragon (Herbal White Wine Sauce and Tarragon Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 62–63. **For:** eggs, fish, vegetables, or poached chicken. The two names are the same recipe — use the full herb mix for a *chivry*, tarragon alone for a *sauce à l'estragon*.
+
+**Yield:** 2 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** *(10 min wine reduction, then a 2–3 min simmer)* · **Start to finish ~25 min** *(plus making the béchamel or velouté base)*
+
+#### A. Ingredients
+
+**For the herb essence**
+
+- 1 cup dry white wine, or ⅔ cup dry white vermouth
+- 4 Tbsp minced fresh chervil, tarragon, and parsley — **or** tarragon only — **or** 2 Tbsp dried herbs
+- 2 Tbsp minced shallots or green onions
+
+**For the sauce**
+
+- 2 cups béchamel or velouté, [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce), or the source's cream sauce (p. 59 — not yet transcribed)
+- 3 to 4 Tbsp minced fresh green herbs, or parsley, or tarragon
+- 1 to 2 Tbsp softened butter
+
+**You'll need:** a small enameled saucepan.
+
+#### B. Cooking Instructions
+
+**1. Make the herb essence. 10 minutes.**
+Place the wine, minced herbs, and shallots in the saucepan and boil slowly for 10 minutes, allowing the wine to reduce to about 3 Tbsp. This is now an herb essence.
+
+**2. Strain it into the sauce and simmer. 2 to 3 minutes.**
+Strain the essence into the sauce, pressing the juice out of the herbs. Simmer for 2 to 3 minutes.
+
+**3. Off heat, finish with fresh herbs and butter.**
+Off heat and just before serving, stir in the fresh herbs and the enrichment butter.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dry white wine — 1 cup, or dry white vermouth — ⅔ cup
+- 🛒 Fresh chervil, tarragon, and parsley — 4 Tbsp minced for the essence, plus 3 to 4 Tbsp for finishing *(or 2 Tbsp dried herbs for the essence)*
+- 🛒 Shallots or green onions — 2 Tbsp minced
+- 🛒 Butter — 1 to 2 Tbsp
+- Plus everything for [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~810 | 56 g | 19 g | 49 g | 1.4 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~101 | 7 g | 2.4 g | 6.1 g | 0.2 g |
+
+**What a serving is:** ¼ cup — enough to nap one portion of poached chicken, fish, or eggs.
+
+*Figures assume the béchamel version and 1½ Tbsp butter. Most of the wine's alcohol and volume cook off in the reduction; only the concentrated 3 Tbsp of essence is counted.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.68 Sauce au Cari (Light Curry Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 63. **For:** fish, veal, lamb, chicken, turkey, eggs, and vegetables. **Unlike the other derived sauces here, this one isn't built on a finished béchamel** — the white sauce is made *simultaneously* with the curry flavorings, so it's a standalone recipe rather than an addition.
+
+**Yield:** 2½ cups
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~40 min**
+
+**You'll need:** an 8-cup enameled saucepan.
+
+#### A. Ingredients
+
+- ½ cup finely minced white or yellow onions
+- 4 Tbsp butter
+- 2 to 3 Tbsp curry powder
+- 4 Tbsp flour
+- 2 cups boiling milk, white stock, or fish stock
+- 4 to 6 Tbsp whipping cream
+- Salt and pepper
+- Lemon juice
+
+#### B. Cooking Instructions
+
+**1. Sweat the onions without coloring. 10 minutes.**
+Cook the onions and butter over low heat for 10 minutes without allowing the onions to color.
+
+**2. Bloom the curry powder. 2 minutes.**
+Stir in the curry powder and cook slowly for 2 minutes.
+
+**3. Add the flour. 3 minutes more.**
+Add the flour and stir over low heat for 3 minutes more.
+
+**4. Off heat, blend in the boiling liquid, then simmer. 10 to 15 minutes.**
+Off heat, blend in the boiling liquid. Return the sauce to heat and simmer slowly for 10 to 15 minutes, stirring occasionally.
+
+**5. Thin with cream and correct. To taste.**
+Stir in the cream by tablespoons, until the sauce has thinned to the consistency you want. Check the seasoning, and add lemon juice to taste.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 White or yellow onions — ½ cup finely minced
+- 🛒 Butter — 4 Tbsp
+- 🛒 Curry powder — 2 to 3 Tbsp
+- 🛒 All-purpose flour — 4 Tbsp
+- 🛒 Milk, white stock, or fish stock — 2 cups
+- 🛒 Whipping cream — 4 to 6 Tbsp
+- 🛒 Lemon — for juice
+- 🛒 Salt and pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2½ cups)* | ~1,152 | 90 g | 23 g | 66 g | 6.8 g |
+| **Per serving** *(10 servings, ¼ cup each)* | ~115 | 9 g | 2.3 g | 6.6 g | 0.7 g |
+
+**What a serving is:** ¼ cup — enough to nap one portion of fish, chicken, or vegetables.
+
+*Figures assume the milk version and 5 Tbsp cream. Curry powder carries most of the fiber.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.69 Sauce Soubise (Onion Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 64. **For:** eggs, veal, chicken, turkey, lamb, vegetables, and foods that are to be gratinéed. *(The source notes another version of this sauce lives in its Veal section, p. 355 — not yet transcribed.)* Like [§4.68](#468-sauce-au-cari-light-curry-sauce), this is built from scratch rather than added to a finished béchamel.
+
+**Yield:** about 2½ cups
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~50 min** *(20–30 min sweating the onions, then a 15 min simmer plus puréeing)* · **Start to finish ~1 hr**
+
+**You'll need:** a 2½-quart heavy-bottomed enameled saucepan; a sieve, food mill, or blender.
+
+#### A. Ingredients
+
+- 1 lb (about 4 cups) sliced yellow onions
+- ¼ tsp salt
+- 6 Tbsp butter
+- 4 Tbsp flour
+- 2 cups boiling milk, white stock, or fish stock
+- 6 to 8 Tbsp whipping cream
+- Salt and pepper
+- Pinch of nutmeg
+- 1 to 2 Tbsp softened butter *(no butter if the sauce is to be used for a gratinéed dish)*
+
+#### B. Cooking Instructions
+
+**1. Sweat the onions, covered, until very tender but not browned. 20 to 30 minutes.**
+Cook the onions slowly with the salt and butter in a covered saucepan until they're very tender but have taken on no color.
+
+**2. Add the flour. 3 minutes.**
+Add the flour and stir over low heat for 3 minutes.
+
+**3. Off heat, blend in the boiling liquid, then simmer. 15 minutes.**
+Off heat, blend in the boiling liquid. Then simmer the sauce slowly for 15 minutes, stirring occasionally.
+
+**4. Purée it smooth.**
+Force the sauce through a sieve or food mill, or purée it in an electric blender.
+
+**5. Thin with cream and season.**
+Bring again to the simmer and thin out to the desired consistency with spoonfuls of cream. Add salt, pepper, and nutmeg to taste.
+
+**6. Off heat, finish with butter just before serving.**
+Off heat and just before serving, stir in the enrichment butter — unless the sauce is going into a gratinéed dish, in which case leave it out.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Yellow onions — 1 lb (about 4 cups sliced)
+- 🛒 Butter — 6 Tbsp, plus 1 to 2 Tbsp for finishing
+- 🛒 All-purpose flour — 4 Tbsp
+- 🛒 Milk, white stock, or fish stock — 2 cups
+- 🛒 Whipping cream — 6 to 8 Tbsp
+- 🛒 Nutmeg
+- 🛒 Salt and pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2½ cups)* | ~1,700 | 139 g | 26 g | 93 g | 8.4 g |
+| **Per serving** *(10 servings, ¼ cup each)* | ~170 | 14 g | 2.6 g | 9.3 g | 0.8 g |
+
+**What a serving is:** ¼ cup — enough to nap one portion of veal, chicken, or vegetables.
+
+*Figures assume the milk version, 7 Tbsp cream, and 1½ Tbsp finishing butter. A full pound of onions is what drives the carb and fiber numbers here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.70 Sauce Bâtarde / Sauce au Beurre (Mock Hollandaise)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 64–65. **For:** boiled fish, boiled chicken, boiled lamb, boiled potatoes, asparagus, cauliflower, celery, broccoli. *"This quickly made and useful sauce does not belong to the béchamel and velouté family because it is made with an uncooked roux, or beurre manié. A golden color is given it by the addition of an egg yolk, and when flavored with enough butter it suggests a hollandaise."*
+
+> **Why "mock" hollandaise is easier than the real thing.** A true [§4.9 Hollandaise](#49-hollandaise-sauce) is an emulsion that breaks and can't be rescued — this cookbook rates it 🔴 Hard for exactly that reason. This one gets its body from flour instead, so the egg yolk is supported and the sauce can actually be boiled. Same effect on the plate, far less that can go wrong.
+
+**Yield:** 2 cups (medium thickness)
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
+
+**You'll need:** an 8-cup heavy-bottomed enameled saucepan; a rubber scraper; a wire whip; an 8-cup mixing bowl.
+
+#### A. Ingredients
+
+- 2 Tbsp melted or softened butter
+- 3 Tbsp flour
+- 2 cups boiling white stock, or vegetable cooking water, or water plus ¼ tsp salt
+- 1 egg yolk
+- 2 Tbsp whipping cream
+- Salt and white pepper
+- 1 to 2 Tbsp lemon juice
+- 4 to 8 Tbsp softened butter
+
+#### B. Cooking Instructions
+
+**1. Make the uncooked roux (beurre manié).**
+Place the butter and flour in the saucepan and blend them into a smooth paste with a rubber scraper. This roux is never cooked — that's what puts this sauce outside the béchamel family.
+
+**2. Pour on all the boiling liquid at once.**
+Pour on all the boiling liquid at once and blend vigorously with a wire whip.
+
+**3. Build the egg yolk liaison, then boil 5 seconds.**
+Blend the egg yolk and cream with a wire whip, then beat in ½ cup of the sauce a few drops at a time. Beat the rest in in a thin stream. Pour the mixture back into the saucepan. Bring to the boil over moderately high heat, beating, and boil 5 seconds. Remove from heat and season to taste with salt, pepper, and lemon juice.
+
+**4. Off heat, beat in the butter a tablespoon at a time.**
+Off heat and just before serving, beat in the softened butter, a tablespoon at a time. This is where the sauce takes on its hollandaise character — the more butter, the closer it gets.
+
+> **Holding it, per the source:** if not used immediately, film the surface with a half-tablespoon of melted butter.
+
+> **Variation — Sauce aux Câpres (Caper Sauce).** For boiled fish or boiled leg of lamb: to 2 cups of sauce bâtarde, beat in 2 to 3 Tbsp capers just *before* stirring in the enrichment butter. Then, off heat, beat in the enrichment butter as usual.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 2 Tbsp for the roux, plus 4 to 8 Tbsp for the enrichment
+- 🛒 All-purpose flour — 3 Tbsp
+- 🛒 White stock — 2 cups *(or vegetable cooking water, or water)*
+- 🛒 Eggs — 1, for the yolk
+- 🛒 Whipping cream — 2 Tbsp
+- 🛒 Lemon — for 1 to 2 Tbsp juice
+- 🛒 Salt and white pepper
+- 🛒 Capers — 2 to 3 Tbsp, if making the caper variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~1,065 | 107 g | 7 g | 19 g | 0.6 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~133 | 13 g | 0.9 g | 2.4 g | 0.1 g |
+
+**What a serving is:** ¼ cup — a butter sauce, spooned over boiled fish or vegetables rather than poured.
+
+*Figures assume 6 Tbsp of enrichment butter (the midpoint of the 4-to-8 range) and a white-stock base. Butter is essentially the whole nutritional story here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -4709,6 +5223,13 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T15](#t15-how-to-barbecue-cabbage) | How to Barbecue Cabbage | `cabbage` `indirect-grilling` `whole-vegetable` `formula` |
 | [T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | How to Make a Mayonnaise (and Fix a Broken One) | `mayonnaise` `emulsion` `egg-yolk` `formula` `ratio` |
 | [T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | The Raw Egg Soak (Deodorizing Fish & Shellfish) | `shrimp` `fish` `seafood` `egg-soak` `deodorizing` `fishy-smell` |
+| [T18](#t18-pile-it-on--canal-houses-plating-formula) | "Pile It On" — Canal House's Plating Formula | `plating` `serving-style` `layering` `formula` |
+| [T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | How to Boil an Egg (Canal House's Timing Guide) | `eggs` `hard-boiled` `soft-boiled` `timing` `formula` |
+| [T20](#t20-fresh-pasta-and-how-to-cut-it) | Fresh Pasta (and How to Cut It) | `pasta` `fresh-pasta` `dough` `tagliatelle` `pappardelle` `formula` |
+| [T21](#t21-preserved-lemons-meyer-or-regular) | Preserved Lemons (Meyer or Regular) | `preserved-lemon` `curing` `fermentation-adjacent` `formula` `moroccan` |
+| [T22](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) | Rib Marinade — Dry Brine or Wet Marinade (Cody's Method) | `ribs` `marinade` `dry-brine` `smoking` `formula` |
+| [T23](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | How to Prepare and Fill Sausage Casings (Lagniappe) | `casings` `sausage` `boudin` `stuffing` `formula` |
+| [T24](#t24-the-french-sauce-families--roux-ratios) | The French Sauce Families & Roux Ratios | `sauce` `roux` `bechamel` `veloute` `mother-sauce` `ratio` `formula` `french` |
 
 ---
 
@@ -6579,6 +7100,74 @@ Once a casing is filled, leave the boudin as one long coil, or twist it into lin
 #### Nutrition
 
 Not tracked — this is casing prep and stuffing technique, not an ingredient in itself. Whatever gets stuffed into the casing is tracked in that specific boudin recipe's own Nutrition block.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T24. The French Sauce Families & Roux Ratios
+
+<!-- TECHNIQUE-TAGS: sauce, roux, bechamel, veloute, mother-sauce, ratio, formula, french -->
+**Tags:** `sauce` · `roux` · `bechamel` · `veloute` · `mother-sauce` · `ratio` · `formula` · `french`
+**Source:** Mastering the Art of French Cooking (Julia Child, Louisette Bertholle, Simone Beck) — Chapter Two: Sauces, p. 55–57.
+**Used in:** [§4.63 Sauce Béchamel / Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce) and everything derived from it — [§4.64](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) through [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise). Also worth reading alongside [§T1 How to Make a Roux](#t1-how-to-make-a-roux), which is the Cajun opposite of everything here.
+
+*"Sauces are the splendor and glory of French cooking, yet there is nothing secret or mysterious about making them. While their roster is stupendous to look at, it is not mind-boggling when you begin to realize that their multitude divides itself into a half-dozen very definite groups, and that each sauce in a particular group is made in the same general way."*
+
+#### A. The Six Mother Groups
+
+The source's whole argument is that once you can make the few master sauces, you command the entire repertoire — because the derived sauces are just the master plus a trimming, renamed.
+
+| Group | What it is | Examples of what it becomes |
+|---|---|---|
+| **White sauces** | Béchamel and velouté — both use a flour-and-butter roux; béchamel is milk-based, velouté has a fish, meat, or poultry base | Béchamel + grated cheese = *mornay* ([§4.65](#465-sauce-mornay-cheese-sauce)); + minced herbs = *chivry* ([§4.67](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)); white-wine fish velouté + cream, egg yolk, and butter = *sauce parisienne* ([§4.64](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)) |
+| **Brown sauces** | Long-simmered *daubes*, pot roasts, stews, ragouts, sautés, brown fricassees, and roasts all need these. More complicated than the white sauces | *(The source's discussion is on its p. 66–67 — not yet transcribed)* |
+| **Tomato sauce** | Its own group | — |
+| **Egg yolk and butter sauces** | The hollandaise family | Flavored with tarragon, pepper, and vinegar = *béarnaise*; with lemon = *hollandaise*; hollandaise with whipped cream folded in = *mousseline*. See [§4.9](#49-hollandaise-sauce), [§4.10](#410-new-orleans-béarnaise-sauce), [§4.11](#411-choron-sauce) |
+| **Oil and vinegar** | The French dressing group | — |
+| **Flavored butters** | Butters creamed with various herbs, seasonings, or purées | See [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter) |
+
+> **The most important one that isn't in the six, per the source:** the hot butter sauce ***beurre blanc***, *"a signature of the nouvelle cuisine which emerged in the early 1970s. Originally it was a specialty sauce reserved usually for boiled fish and vegetables, but, easy to make (once you know how!), it has become the ubiquitous restaurant sauce for all manner of fish, meat, and fowl."* Not transcribed here yet.
+
+> **On restraint, per the source:** *"Rich sauces, especially the butter sauces and white sauces with cream and butter, should be used sparingly, never more than one to a meal. A sauce should not be considered a disguise or a mask; its role is to point up, to prolong, or to complement the taste of the food it accompanies, or to contrast with it, or to give variety to its mode of presentation."*
+
+#### B. The Roux Ratio Table
+
+**Thickness is a direct function of flour per cup of liquid** — this is the single most useful number in the chapter. Based on American all-purpose hard-wheat flour; all measurements are level.
+
+| For | Flour per cup of liquid |
+|---|---|
+| **Thin sauce or soup** | 1 Tbsp |
+| **Medium, general-purpose sauce** | 1½ Tbsp |
+| **Thick sauce** | 2 Tbsp |
+| **Soufflé base** | 3 Tbsp |
+
+*(A 2-cup medium sauce is therefore 3 Tbsp flour — which is exactly what [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) calls for.)*
+
+#### C. Why the Roux Gets Cooked First
+
+In French cooking the flour and butter are always cooked slowly together for several minutes before any liquid goes in. This does two things: it eliminates the raw, pasty taste uncooked flour gives a sauce, and it prepares the flour particles to absorb the liquid.
+
+> **This is the opposite of [§T1](#t1-how-to-make-a-roux).** A French white roux is cooked 2 minutes and must take on *no color at all*. A Cajun roux is pushed as dark as you dare and is the single hardest technique in this cookbook. Same two ingredients, opposite goals — don't let the shared word confuse them.
+
+#### D. Saucepan Note
+
+White sauces should always be made in a **heavy-bottomed enameled, stainless steel, Pyrex, porcelain, or tin-lined copper** saucepan. A thin-bottomed pan is a poor heat conductor and the sauce may scorch on the bottom. **Aluminum discolors a white sauce**, particularly one containing wine or egg yolks.
+
+#### E. Stocks for Velouté Sauces
+
+The source's own stock recipes, none yet transcribed here: white stock (p. 109), white chicken stock (p. 237), fish stock (p. 114), clam-juice fish stock (p. 115). This cookbook's own [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) and [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) cover the same ground.
+
+**Canned chicken broth, per the source — a preliminary treatment that makes it usable as a substitute for homemade white stock:**
+
+- 2 cups canned chicken broth or strained clear chicken and vegetable soup
+- 3 Tbsp each: sliced onions, carrots, and celery
+- ½ cup dry white wine or ⅓ cup dry white vermouth
+- 2 parsley sprigs, ⅓ bay leaf, and a pinch of thyme
+
+Simmer the broth with the vegetables, wine, and herbs for 30 minutes. Season to taste, strain, and it's ready to use.
+
+*No Nutrition block or difficulty badge on this one — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T7](#t7-louisiana-language--ingredients), it's pure reference rather than something you cook, so it stays out of the [Difficulty & Time Index](#difficulty--time-index) counts. The sauces built from it carry their own.*
 
 [↑ Table of Contents](#table-of-contents)
 

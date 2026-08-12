@@ -226,6 +226,7 @@ Click any recipe to jump straight to it.
 - [7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin) ✅
 - [7.52 Chicken Marbella](#752-chicken-marbella) ✅
 - [7.53 Pasta Puttanesca](#753-pasta-puttanesca) ✅
+- [7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -305,6 +306,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **First recipe from *Mastering the Art of French Cooking* outside its Sauces chapter: [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)**, Chapter Seven: Meat, the Beef Stews section. Bacon, beef, and vegetables browned in stages, the meat crusted with flour in a hot oven (a technique, not a roux — no burn risk, which is part of why this rates 🟡 Medium rather than 🔴 like this same source's roux-built sauces), then braised 2½–3 hours in red wine and stock, finished with brown-braised onions and sautéed mushrooms. The source's own note that it can be made a full day ahead and only improves is carried through as the recipe's two serving paths. **Two garnish techniques not yet transcribed** (brown-braised onions p. 483, sautéed mushrooms p. 513) get a reasonable stand-in method rather than being left blank. Per Cody's "bourguignon only," the facing-page **Carbonnades à la Flamande** (a Belgian beer-braised beef stew) is left out for now. |
 | 2026-08-10 | **The last two mother-group gaps closed — Chapter Two of *Mastering the Art of French Cooking* is now complete in this cookbook.** **[§4.84 Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing)** (p. 94–96) fills the **oil-and-vinegar group**, which had been the only one of the source's six families with nothing transcribed; its *Ravigote*, *à la Crème*, and cold *Moutarde* variations are folded in, matching the source's own "VARIATIONS" typography. **[§4.85 Beurre Blanc / Beurre Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce)** (p. 96–98) is the sauce [§T24](#t24-the-french-sauce-families--roux-ratios) had specifically flagged as *"the most important one that isn't in the six"* — both the classic and fast-boil butter methods, plus the *Beurre au Citron* variation. And **[§4.86 Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce)** (p. 99), in both the in-the-pan and made-separately methods. **Three rating decisions:** [§4.85](#485-beurre-blanc--beurre-nantais-white-butter-sauce) is 🔴 **Hard** — it's a butter emulsion that turns oily the instant it's reheated or held too warm, so it joins [§4.9 Hollandaise](#49-hollandaise-sauce) as the third failure category, though unlike Hollandaise the source gives it a documented rescue; the Hard count moves twelve → thirteen. [§4.86](#486-beurre-noir--beurre-noisette-brown-butter-sauce) is 🟡 **Medium** despite a genuine seconds-wide window between nutty and burnt, because the failure costs six ounces of butter rather than the dish — that's the line this cookbook draws. And **two disambiguation notes were added rather than merging anything**: there are now **five distinct mustard sauces** here ([§4.84](#484-sauce-vinaigrette-french-dressing)'s cold *Moutarde*, [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)'s hot *à la Moutarde*, [§4.76 Sauce Robert](#476-sauce-robert-brown-mustard-sauce), [§4.22](#422-mustard-sauce), and [§4.38](#438-mustard-sauce)) and **two lemon butter sauces** ([§4.85](#485-beurre-blanc--beurre-nantais-white-butter-sauce)'s *Beurre au Citron* and [§4.18](#418-lemon-butter-sauce)). Per Cody's "hot butter and oil vinegar only," the *beurres composés* intro on the same page is left out and noted in [§T24](#t24-the-french-sauce-families--roux-ratios)'s gap list. |
 | 2026-08-10 | **Chapter Two closed out, and its seams checked end to end — per Cody's ask that the French sauces "all come together in one cohesive unit."** Two new entries finish the source's six mother groups: **[§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce)** (p. 76–77 — the meaty version, built on a ham-and-vegetable base with stock and a butter roux, simmered the full 1½–2 hr the source insists on) and **[§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)** (p. 78 — the Mediterranean one: olive oil, garlic, saffron, fennel, and dried orange peel, no stock at all). **Three real holes found and closed while checking cohesion:** [§T24](#t24-the-french-sauce-families--roux-ratios)'s mother-group table still said the brown sauces were *"not yet transcribed"* — stale since the last batch, now pointing at all eleven of [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)–[§4.81](#481-sauce-périgueux-brown-madeira-sauce-with-truffles); its tomato row was empty and now points at both new entries; and **[§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)'s open "tomato purée, page 78" reference turned out to be [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) itself** — now linked rather than flagged. **[§T24](#t24-the-french-sauce-families--roux-ratios) gained two new sections:** *Other Brown Sauces*, cataloguing the five brown sauces this book scatters into other chapters (deglazing sauce, à l'Italienne, Bordelaise, à l'Orange, Bourguignonne) so the family is complete on paper — **noting that the brown deglazing sauce is already in this cookbook as [§T8 Pan Sauce Formula](#t8-pan-sauce-formula)**, the identical technique under a different name — and *What's Still Open*, listing every remaining gap in one place: the oil-and-vinegar group (the only mother group with nothing transcribed), *beurre blanc*, cream sauce p. 59, and the supporting technique pages. |
 | 2026-08-10 | **The brown sauce half of the same chapter — eleven more entries from *Mastering the Art of French Cooking*, p. 66–75, completing Chapter Two.** Three interchangeable brown sauce bases, which every derived sauce can be built on: **[§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)** (brown roux, 2 hr+ simmer — the source calls it *"the best of the group and the one most nearly approaching the traditional demi-glace"*), **[§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2)** (same, with giblets and bones from whatever it'll be served with; its *Poivrade* and *Venaison* variations folded in), and **[§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)** (cornstarch, 5 minutes — **the lightest sauce in this cookbook at ~16 cal per ¼ cup**, and the source is candid that it's only as good as the stock). Then eight composed sauces off those: **[§4.74 Diable](#474-sauce-diable-peppery-brown-sauce)**, **[§4.75 Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers)**, **[§4.76 Robert](#476-sauce-robert-brown-mustard-sauce)**, **[§4.77 Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce)**, **[§4.78 Brune au Cari](#478-sauce-brune-au-cari-brown-curry-sauce)**, **[§4.79 Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)**, **[§4.80 Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)**, and **[§4.81 Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles)**. **[§T24](#t24-the-french-sauce-families--roux-ratios) extended** with the brown sauce essay (including why the source skips *espagnole* and *demi-glace* entirely), the brown roux note, and the meat-stock note with its canned-beef-bouillon upgrade. **Two decisions worth stating:** [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) are rated 🔴 **Hard** on this cookbook's standing roux rule — the source explicitly warns that burnt flour *"will not thicken the sauce as it should, and it will also impart an unpleasant taste,"* the same perfect-to-ruined failure as [§T1](#t1-how-to-make-a-roux), just at gentler heat; the Hard count moves from ten to twelve. And the source's *Sauce à la Moutarde* and *Sauce aux Anchois* were **folded into [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) as variations** rather than given their own numbers, matching how *Sauce aux Câpres* was handled and avoiding a third top-level "Mustard Sauce" alongside [§4.22](#422-mustard-sauce) and [§4.38](#438-mustard-sauce). One source cross-reference stays open: **Sauce Chasseur**, which lives in the book's Veal section (p. 368) rather than this chapter. |
@@ -605,6 +607,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
 | [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
+| [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | 🟡 | 45 min | 15 min | **2¾ hr** *(braise, mostly unattended)* | 3 hr 45 min |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
 | [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
@@ -13063,6 +13066,113 @@ Reduce the heat slightly and continue to cook until the sauce has thickened to y
 **What a serving is:** a full main-course plate — a quarter pound of pasta with a generous ladle of sauce over it.
 
 *The tomato liquid squeezed out in Step 2 isn't counted, since it's discarded rather than eaten. Pasta carries nearly all the carbs; the olive oil and olives carry most of the fat.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.54 Boeuf Bourguignon (Beef Stew in Red Wine, with Bacon, Onions, and Mushrooms)
+
+Transcribed from **Mastering the Art of French Cooking** — Chapter Seven: Meat, the *Beef Stews* section. **First recipe from this source outside the Sauces chapter.** *"As is the case with most famous dishes, there are more ways than one to arrive at a good boeuf bourguignon. Carefully done, and perfectly flavored, it is certainly one of the most delicious of beef dishes concocted by man, and can well be the main course for a buffet dinner. Fortunately you can prepare it completely ahead, even a day in advance, and it only gains in flavor when reheated."*
+
+> **On the beef, per the source:** the chapter's own preceding list of cuts suitable for stewing — including Top Round and Bottom Round (*Gîte à la Noix*) — wasn't fully photographed. Lean stewing beef cut into 2-inch cubes (a well-marbled chuck roast is the standard choice) is what's called for here; **beef stews take 2 to 3 hours of simmering depending on the quality and tenderness of the meat, less if it's been marinated first**, and the oven is preferable to the stovetop because its heat is more uniform.
+
+> **Serving suggestions, per the source:** boiled potatoes are traditional; buttered noodles or steamed rice work too. Add buttered peas if you want a green vegetable alongside. Pour a fairly full-bodied, young red wine — Beaujolais, Côtes du Rhône, Bordeaux-St. Émilion, or Burgundy.
+
+> **Two garnish techniques not yet transcribed:** the source's own **brown-braised onions (p. 483)** and **sautéed mushrooms (p. 513)** are what finish this dish. In the meantime, a reasonable stand-in: braise 18–24 peeled pearl onions in a little stock and butter until tender and glazed, and sauté 1 lb quartered mushrooms in butter over high heat until browned.
+
+> **This is a flour-crust technique, not a roux** — the beef gets tossed in flour and browned dry in a hot oven rather than cooked into a butter-and-flour paste first. It thickens the braising liquid the same way a roux would, without that failure point. That's part of why this rates Medium rather than Hard, unlike this cookbook's roux-built sauces from the same source.
+
+**Yield:** for 6 people
+
+**🟡 Medium** · **Prep ~45 min** *(bacon, cubing and browning the beef in batches, browning the vegetables, tossing with flour)* · **Cook ~15 min** *(8 min browning the flour crust in a hot oven, plus reducing the sauce and reheating at the end)* · **Slow cook ~2¾ hr** *(2½–3 hr braise, mostly unattended once it's in the oven)* · **Start to finish ~3 hr 45 min** *(can be made a day ahead — the source says it only improves)*
+
+#### A. Ingredients
+
+- A 6-oz chunk of bacon
+- 1 Tbsp olive oil or cooking oil
+- 3 lb lean stewing beef, cut into 2-inch cubes
+- 1 carrot, sliced
+- 1 onion, sliced
+- 1 tsp salt
+- ¼ tsp pepper
+- 2 Tbsp flour
+- 3 cups full-bodied young red wine, such as one of those suggested for serving, or a Chianti
+- 2 to 3 cups brown beef stock or canned beef bouillon
+- 1 Tbsp tomato paste
+- 2 cloves mashed garlic
+- ½ tsp thyme
+- A crumbled bay leaf
+- The blanched bacon rind
+- 18 to 24 small white onions, brown-braised in stock *(source p. 483 — not yet transcribed)*
+- 1 lb quartered fresh mushrooms, sautéed in butter *(source p. 513 — not yet transcribed)*
+
+**You'll need:** a 9- to 10-inch fireproof casserole, 3 inches deep; a slotted spoon.
+
+#### B. Cooking Instructions
+
+**1. Blanch the bacon. 10 minutes.**
+Remove the rind and cut the bacon into lardons — sticks ¼ inch thick and 1½ inches long. Simmer the rind and bacon for 10 minutes in 1½ quarts of water. Drain and dry.
+
+**2. Preheat the oven to 450°F.**
+
+**3. Brown the bacon, then the beef, then the vegetables.**
+Sauté the bacon in the oil over moderate heat for 2 to 3 minutes to brown it lightly. Remove it to a side dish with a slotted spoon; set the casserole aside. Reheat the fat until almost smoking. Dry the beef thoroughly with paper towels — it won't brown if it's damp — and sauté it a few pieces at a time in the hot oil and bacon fat until nicely browned on all sides. Add it to the bacon. In the same fat, brown the sliced carrot and onion. Pour out the sautéing fat.
+
+**4. Toss with flour and crust it in the oven. 8 minutes.**
+Return the beef and bacon to the casserole and toss with the salt and pepper. Sprinkle on the flour and toss again to coat the beef lightly. Set the casserole uncovered in the middle of the preheated oven for 4 minutes. Toss the meat and return it for 4 minutes more — this browns the flour and covers the meat with a light crust. Remove the casserole and turn the oven down to 325°F.
+
+**5. Build the braising liquid and set it to simmer. 2½ to 3 hours.**
+Stir in the wine and enough stock or bouillon so the meat is barely covered. Add the tomato paste, garlic, thyme, bay leaf, and the blanched bacon rind. Bring to a simmer on top of the stove, then cover and set in the lower third of the oven. Regulate the heat so the liquid simmers very slowly for 2½ to 3 hours. The meat is done when a fork pierces it easily.
+
+**6. Meanwhile, prepare the onions and mushrooms.**
+While the beef cooks, prepare the brown-braised onions and sautéed mushrooms. Set them aside until needed.
+
+**7. Strain, reassemble, and reduce the sauce.**
+When the meat is tender, pour the contents of the casserole into a sieve set over a saucepan. Wash out the casserole and return the beef and bacon to it. Distribute the cooked onions and mushrooms over the meat. Skim the fat off the strained sauce, then simmer it for a minute or two, skimming off more fat as it rises. You should end up with about 2½ cups of sauce, thick enough to coat a spoon lightly — boil it down rapidly if it's too thin, or thin it with a few tablespoons of stock if it's too thick. Taste carefully for seasoning. Pour the sauce over the meat and vegetables.
+
+> **This is where the recipe may be completed in advance,** per the source.
+
+**8a. For immediate serving.**
+Cover the casserole and simmer 2 to 3 minutes, basting the meat and vegetables several times. Serve in its casserole, or arrange on a platter surrounded with potatoes, noodles, or rice, and decorated with parsley.
+
+**8b. For later serving.**
+When cold, cover and refrigerate. About 15 to 20 minutes before serving, bring to a simmer, cover, and simmer very slowly for 10 minutes, basting the meat and vegetables with the sauce occasionally.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Bacon, in a chunk — 6 oz
+- 🏪 Lean stewing beef (chuck) — 3 lb, cut into 2-inch cubes
+
+**🛒 General grocery**
+
+- 🛒 Olive oil or cooking oil — 1 Tbsp
+- 🛒 Carrot — 1, sliced
+- 🛒 Onion — 1, sliced, plus 18 to 24 small white onions for the garnish
+- 🛒 All-purpose flour — 2 Tbsp
+- 🛒 Full-bodied young red wine — 3 cups *(Beaujolais, Côtes du Rhône, Bordeaux-St. Émilion, Burgundy, or a Chianti)*
+- 🛒 Brown beef stock or canned beef bouillon — 2 to 3 cups
+- 🛒 Tomato paste — 1 Tbsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Thyme and bay leaf
+- 🛒 Fresh mushrooms — 1 lb, quartered
+- 🛒 Butter — for the onion and mushroom garnishes
+- 🛒 Boiled potatoes, buttered noodles, or steamed rice — for serving
+- 🛒 Buttered peas — optional, for a green vegetable
+- 🛒 Parsley — for garnish
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,550 | 363 g | 301 g | 105 g | 14 g |
+| **Per serving** *(serves 6)* | ~925 | 60 g | 50 g | 17.5 g | 2.3 g |
+
+**What a serving is:** a hearty bowl, about 1½ cups of stew with onions and mushrooms — figures don't include the potatoes, noodles, or rice served alongside.
+
+*Bacon and beef carry most of the fat and protein; the sautéed-mushroom and braised-onion garnishes add butter on top. Most of the wine's alcohol cooks off over the long braise, but its residual sugar and body stay in the reduced sauce.*
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -89,6 +89,17 @@ Click any recipe to jump straight to it.
   - [4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) ✅
   - [4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) ✅
   - [4.70 Sauce Bâtarde / Sauce au Beurre (Mock Hollandaise)](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) ✅
+  - [4.71 Sauce Brune (Flour-Based Brown Sauce) — Brown Sauce (1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) ✅
+  - [4.72 Sauce Ragoût (with Giblets) — Brown Sauce (2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) ✅
+  - [4.73 Jus Lié (Starch-Thickened Brown Sauce) — Brown Sauce (3)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) ✅
+  - [4.74 Sauce Diable (Peppery Brown Sauce)](#474-sauce-diable-peppery-brown-sauce) ✅
+  - [4.75 Sauce Piquante (Brown Sauce with Pickles and Capers)](#475-sauce-piquante-brown-sauce-with-pickles-and-capers) ✅
+  - [4.76 Sauce Robert (Brown Mustard Sauce)](#476-sauce-robert-brown-mustard-sauce) ✅
+  - [4.77 Sauce Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce) ✅
+  - [4.78 Sauce Brune au Cari (Brown Curry Sauce)](#478-sauce-brune-au-cari-brown-curry-sauce) ✅
+  - [4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce) ✅
+  - [4.80 Sauce Madère / Sauce au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) ✅
+  - [4.81 Sauce Périgueux (Brown Madeira Sauce with Truffles)](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -289,6 +300,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-10 | **The brown sauce half of the same chapter — eleven more entries from *Mastering the Art of French Cooking*, p. 66–75, completing Chapter Two.** Three interchangeable brown sauce bases, which every derived sauce can be built on: **[§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)** (brown roux, 2 hr+ simmer — the source calls it *"the best of the group and the one most nearly approaching the traditional demi-glace"*), **[§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2)** (same, with giblets and bones from whatever it'll be served with; its *Poivrade* and *Venaison* variations folded in), and **[§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)** (cornstarch, 5 minutes — **the lightest sauce in this cookbook at ~16 cal per ¼ cup**, and the source is candid that it's only as good as the stock). Then eight composed sauces off those: **[§4.74 Diable](#474-sauce-diable-peppery-brown-sauce)**, **[§4.75 Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers)**, **[§4.76 Robert](#476-sauce-robert-brown-mustard-sauce)**, **[§4.77 Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce)**, **[§4.78 Brune au Cari](#478-sauce-brune-au-cari-brown-curry-sauce)**, **[§4.79 Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)**, **[§4.80 Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)**, and **[§4.81 Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles)**. **[§T24](#t24-the-french-sauce-families--roux-ratios) extended** with the brown sauce essay (including why the source skips *espagnole* and *demi-glace* entirely), the brown roux note, and the meat-stock note with its canned-beef-bouillon upgrade. **Two decisions worth stating:** [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) are rated 🔴 **Hard** on this cookbook's standing roux rule — the source explicitly warns that burnt flour *"will not thicken the sauce as it should, and it will also impart an unpleasant taste,"* the same perfect-to-ruined failure as [§T1](#t1-how-to-make-a-roux), just at gentler heat; the Hard count moves from ten to twelve. And the source's *Sauce à la Moutarde* and *Sauce aux Anchois* were **folded into [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) as variations** rather than given their own numbers, matching how *Sauce aux Câpres* was handled and avoiding a third top-level "Mustard Sauce" alongside [§4.22](#422-mustard-sauce) and [§4.38](#438-mustard-sauce). One source cross-reference stays open: **Sauce Chasseur**, which lives in the book's Veal section (p. 368) rather than this chapter. |
 | 2026-08-10 | **Biggest single batch yet, and a major new source: nine entries from *Mastering the Art of French Cooking* (Julia Child, Louisette Bertholle, Simone Beck)**, Chapter Two: Sauces, p. 55–65. The white-sauce family, essentially complete: **[§4.63 Sauce Béchamel / Sauce Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce)** is the master recipe (the source prints béchamel and velouté as one recipe — same method, milk versus stock), and seven derived sauces hang off it: **[§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment)** (egg yolk and cream enrichment, formerly sauce allemande), **[§4.65 Mornay](#465-sauce-mornay-cheese-sauce)**, **[§4.66 Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring)**, **[§4.67 Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)**, **[§4.68 au Cari](#468-sauce-au-cari-light-curry-sauce)**, **[§4.69 Soubise](#469-sauce-soubise-onion-sauce)**, and **[§4.70 Bâtarde / au Beurre](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)** (mock hollandaise, with the Sauce aux Câpres variation folded in). Plus **[§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios)** — the source's six mother-sauce groups, its flour-per-cup thickness table (1 Tbsp thin / 1½ medium / 2 thick / 3 soufflé base), the saucepan warning (no aluminum with wine or egg yolks), and its canned-chicken-broth upgrade treatment. Filed as pure reference like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T7](#t7-louisiana-language--ingredients), so it carries no badge or Nutrition block and stays out of the index counts. **Two things worth flagging:** [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) is rated 🟡 Medium rather than 🔴 like [§4.9 Hollandaise](#49-hollandaise-sauce), because its flour base supports the egg yolk — the source is explicit that a flour-based sauce *can* be boiled without curdling, which is the whole point of a "mock" hollandaise; and [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) is kept distinct from [§4.52 Balsamella](#452-balsamella), Canal House's thicker Italian version of the same sauce, rather than merged. **Also fixed a stale table:** the T-section's own quick index had stopped at T17 and was missing T18–T23; all of them plus T24 are now listed. |
 | 2026-08-10 | **Fifth recipe from The Silver Palate Cookbook: [§7.53 Pasta Puttanesca](#753-pasta-puttanesca)**, p. 88–89 — the source's friend Bobbie's recipe: squeezed-dry canned plum tomatoes boiled hard with garlic, capers, niçoise olives, anchovies, and parsley, ready in about 20 minutes. The sauce is designed to cook in the time the pasta boils. **A correction to my own earlier read, recorded rather than quietly fixed:** I first told Cody this recipe's ingredient list wasn't in the photo and that the adjacent Creamy Pasta Sauce with Fresh Herbs was a separate recipe — he was right that the page continued, and a closer photo confirmed it. The layout runs title and intro at the bottom of p. 88, ingredients and method at the top of p. 89; the Creamy Pasta Sauce genuinely is a separate recipe below it, and per Cody's "Puttanesca only," neither it nor the sausage-tomato sauce above the intro is transcribed. A **"Capers" sidebar essay** shares the page, noted as available for [§T5 Seasonings & Peppers](#t5-seasonings--peppers) if it's ever wanted. |
 | 2026-08-10 | **Fourth recipe from The Silver Palate Cookbook: [§8.20 Six-Onion Soup](#820-six-onion-soup)**, p. 229 — a puréed soup running through onions, leeks, shallots, and garlic, finished with heavy cream and simmered scallions. Its own "Shallots" sidebar confirms the source ("When we opened The Silver Palate years ago..."), matching [§7.52](#752-chicken-marbella), [§8.17](#817-minted-sweet-pea-and-spinach-soup), and [§8.18](#818-gazpacho). Two references not yet transcribed: Chicken Stock (page 416, the same one [§8.17](#817-minted-sweet-pea-and-spinach-soup) cites) and a crouton technique (page 76). The tail end of a preceding fish-and-raspberry-butter-sauce recipe shares the top of the page — not enough visible to transcribe. |
@@ -432,6 +444,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
+| [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
@@ -494,11 +507,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
+| [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
+| [§4.81 Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
 | [§4.61 Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) | 🟢 | 10 min | 10 min | **5 hr** *(gentle simmer, unattended)* | 5 hr 20 min |
 | [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) | 🟢 | 15 min | 5 min | **2 hr** *(unattended simmer)* | 2 hr 20 min |
 | [§4.64 Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) | 🟡 | 5 min | 10 min | — | 15 min *(+ §4.63)* |
 | [§4.70 Sauce Bâtarde (Mock Hollandaise)](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) | 🟡 | 5 min | 10 min | — | 15 min |
+| [§4.80 Sauce Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) | 🟢 | 5 min | 10 min | — | 15 min *(+ brown sauce)* |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
 | [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) | 🟢 | 20 min | — | **~2 hr** *(unattended oven roast, size-dependent)* | 2 hr 20 min |
 | [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
@@ -512,6 +528,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.53 Pasta Puttanesca](#753-pasta-puttanesca) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§4.67 Sauce Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ §4.63)* |
+| [§4.75 Sauce Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
+| [§4.77 Sauce Brune aux Fines Herbes](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
+| [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
@@ -542,6 +561,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) | 🟡 | 10 min | 30 min | — | 40 min |
+| [§4.76 Sauce Robert (Brown Mustard Sauce)](#476-sauce-robert-brown-mustard-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
+| [§4.78 Sauce Brune au Cari (Brown Curry)](#478-sauce-brune-au-cari-brown-curry-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
@@ -607,6 +628,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
 | [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
+| [§4.71 Sauce Brune (Brown Sauce 1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) | 🔴 | 15 min | 20 min | **~2 hr** *(simmer, skimming)* | 2 hr 45 min |
+| [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🔴 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 
 ### Reading this table
@@ -615,11 +638,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§T10 Frittata](#t10-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 95 recipes**, including nearly all of §4's now-70 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 102 recipes**, including nearly all of §4's now-81 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The ten 🔴 Hard ones come down to four problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), and [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) are hard for one reason — **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. Learn the roux once and six of the ten stop being hard.
+**The twelve 🔴 Hard ones come down to four problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), and now the two French brown sauce bases — [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) — are hard for one reason: **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) for a third: **an emulsion that breaks and can't be rescued**. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. **Learn the roux once and eight of the twelve stop being hard** — and the French brown roux is the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
@@ -5168,6 +5191,10 @@ Off heat and just before serving, beat in the softened butter, a tablespoon at a
 
 > **Variation — Sauce aux Câpres (Caper Sauce).** For boiled fish or boiled leg of lamb: to 2 cups of sauce bâtarde, beat in 2 to 3 Tbsp capers just *before* stirring in the enrichment butter. Then, off heat, beat in the enrichment butter as usual.
 
+> **Variation — Sauce à la Moutarde (Mustard Sauce).** For broiled mackerel, herring, tuna, or swordfish: make 2 cups of sauce bâtarde **omitting the final butter enrichment**. Blend 2 Tbsp strong Dijon-type prepared mustard with 4 to 8 Tbsp softened butter using a rubber scraper. Off heat and just before serving, beat the mustard/butter into the hot sauce by tablespoons. *(Not to be confused with [§4.22](#422-mustard-sauce) or [§4.38 Mustard Sauce](#438-mustard-sauce) — both are different recipes from other sources — or with [§4.76 Sauce Robert](#476-sauce-robert-brown-mustard-sauce), which is the brown-sauce version.)*
+
+> **Variation — Sauce aux Anchois (Anchovy Sauce).** For boiled fish or boiled potatoes: to 2 cups of sauce bâtarde, beat in 2 Tbsp canned anchovies mashed to a purée, or 1 Tbsp anchovy paste, to taste — just before buttering the sauce. Then, off heat and before serving, beat in the enrichment butter.
+
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
@@ -5191,6 +5218,687 @@ Off heat and just before serving, beat in the softened butter, a tablespoon at a
 **What a serving is:** ¼ cup — a butter sauce, spooned over boiled fish or vegetables rather than poured.
 
 *Figures assume 6 Tbsp of enrichment butter (the midpoint of the 4-to-8 range) and a white-stock base. Butter is essentially the whole nutritional story here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.71 Sauce Brune (Flour-Based Brown Sauce) — Brown Sauce (1)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 67–69. **The first of the source's three interchangeable brown sauce bases** — [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) and [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) are the other two, and **any of the three can be used wherever a derived sauce calls for "brown sauce."** *"This is the best of the group and the one most nearly approaching the traditional demi-glace. Its preliminaires are somewhat exacting, and it requires at least two hours of simmering; the longer it cooks the better it will be. It may be refrigerated for several days and freezes perfectly for several weeks."*
+
+> **The classical version is deliberately skipped by the source.** A true French brown sauce starts with a long-simmered brown meat stock, becomes an *espagnole*, and is simmered and skimmed for hours more until it develops into *demi-glace* — *"This may take several days to accomplish, and the result is splendid. But as we are concerned with less formal cooking, we shall discuss it no further."* These three are the practical home-kitchen substitutes, and the source says that properly made they're *"very good indeed"* and far more useful.
+
+> **🔴 Why this is Hard: the brown roux.** Per the source's own note — *"It is important that the roux be cooked slowly and evenly. If the flour is burned, it will not thicken the sauce as it should, and it will also impart an unpleasant taste."* That's the same perfect-to-ruined failure mode that makes [§T1](#t1-how-to-make-a-roux) the hardest technique in this cookbook, just at a gentler temperature. See [§T24](#t24-the-french-sauce-families--roux-ratios) for the full brown roux note, including which fat to use for delicate dishes.
+
+**Yield:** about 1 quart
+
+**🔴 Hard** · **Prep ~15 min** · **Cook ~20 min** *(10 min sweating the vegetables, then 8–10 min on the roux)* · **Slow cook ~2 hr** *(partially covered simmer, skimming as needed — longer is better)* · **Start to finish ~2 hr 45 min**
+
+**Techniques used:** [T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) · [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+**You'll need:** a heavy-bottomed 2-quart saucepan; a wooden spatula or spoon; a wire whip; cheesecloth for the herb bouquet.
+
+#### A. Ingredients
+
+- ⅓ cup each: finely diced carrots, onions, and celery
+- 3 Tbsp diced boiled ham *(or diced lean bacon simmered 10 minutes in water, rinsed, and drained)*
+- 6 Tbsp clarified butter *(source p. 15 — not yet transcribed)*, rendered fresh pork fat, or cooking oil
+- 4 Tbsp flour
+- 6 cups boiling brown stock or canned beef bouillon *(see [§T24](#t24-the-french-sauce-families--roux-ratios) for the source's canned-bouillon upgrade treatment)*
+- 2 Tbsp tomato paste
+- A medium herb bouquet: 3 parsley sprigs, ½ bay leaf, and ¼ tsp thyme tied in cheesecloth
+- Salt and pepper
+
+#### B. Cooking Instructions
+
+**1. Sweat the vegetables and ham. 10 minutes.**
+Cook the carrots, onions, celery, and ham or bacon slowly in the butter, fat, or oil for 10 minutes.
+
+**2. Brown the flour to a golden nut brown. 8 to 10 minutes.**
+Blend the flour into the vegetables and stir continually over moderately low heat for 8 to 10 minutes, until the flour slowly turns a golden, nut brown. **Slowly and evenly is the whole game here** — burnt flour won't thicken and will taste bitter.
+
+**3. Off heat, blend in all the boiling liquid at once.**
+Remove from heat. With a wire whip, immediately blend in all the boiling liquid at once. Beat in the tomato paste. Add the herb bouquet.
+
+**4. Simmer and skim. 2 hours or more.**
+Simmer slowly, partially covered, for 2 hours or more, skimming off fat and scum as necessary. Add more liquid if the sauce thickens too much. You should end up with about 4 cups of sauce, thick enough to coat a spoon lightly.
+
+**5. Strain, degrease, and correct.**
+Correct seasoning. Strain, pressing the juice out of the vegetables. Degrease thoroughly, and the sauce is ready to use.
+
+> **Holding it, per the source:** if not used immediately, clean off the sides of the pan and float a film of stock over the top to prevent a skin from forming. When cold, cover and refrigerate or freeze.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Carrots, onions, celery — ⅓ cup each, finely diced
+- 🛒 Boiled ham or lean bacon — 3 Tbsp diced
+- 🛒 Butter *(to clarify)*, fresh pork fat, or cooking oil — 6 Tbsp
+- 🛒 All-purpose flour — 4 Tbsp
+- 🛒 Brown stock or canned beef bouillon — 6 cups
+- 🛒 Tomato paste — 2 Tbsp
+- 🛒 Fresh parsley, bay leaf, thyme — for the herb bouquet
+- 🛒 Cheesecloth
+- 🛒 Salt and pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 4 cups)* | ~685 | 43 g | 20 g | 35 g | 2 g |
+| **Per serving** *(16 servings, ¼ cup each)* | ~43 | 2.7 g | 1.3 g | 2.2 g | 0.1 g |
+
+**What a serving is:** ¼ cup — a base sauce, usually turned into one of the derived sauces below rather than served straight.
+
+*The vegetables and ham are strained out and pressed rather than eaten, and the sauce is thoroughly degreased at the end — both are accounted for here, which is why the numbers are far lower than the ingredient list suggests.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.72 Sauce Ragoût (Flour-Based Brown Sauce with Giblets) — Brown Sauce (2)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 69–70. *"Sauce ragoût is essentially like the preceding brown sauce, but has more character, as it includes bones, trimmings, or giblets gathered from the game, beef, lamb, veal, goose, duck, or turkey the sauce is to be served with."* The second of the three interchangeable brown sauce bases, alongside [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3).
+
+> **🔴 Same brown roux, same reason.** See [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§T24](#t24-the-french-sauce-families--roux-ratios).
+
+**Yield:** 4 cups
+
+**🔴 Hard** · **Prep ~20 min** · **Cook ~20 min** *(browning the giblets and vegetables, then the roux)* · **Slow cook 2–4 hr** *(simmer, skimming as needed)* · **Start to finish ~3 to 5 hr**
+
+**Techniques used:** [T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) · [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+**You'll need:** a heavy-bottomed 3- to 4-quart saucepan.
+
+#### A. Ingredients
+
+- 1 to 4 cups giblets, bones, and meat trimmings, raw or cooked
+- ½ cup chopped carrots
+- ½ cup chopped onions
+- 6 Tbsp clarified butter *(source p. 15)*, rendered fresh pork fat, or cooking oil — more if needed
+- 4 Tbsp flour
+- 5 to 6 cups boiling brown stock or canned beef bouillon
+- Optional: 1 cup dry white wine, red wine, or ⅔ cup dry white vermouth
+- Optional: 3 Tbsp tomato paste
+- A medium herb bouquet: 3 parsley sprigs, ½ bay leaf, ¼ tsp thyme tied in cheesecloth
+
+#### B. Cooking Instructions
+
+**1. Brown the giblets, bones, trimmings, and vegetables.**
+Brown them all in hot clarified butter, fat, or oil. Remove them to a side dish.
+
+**2. Brown the flour in the fat left behind.**
+Slowly brown the flour in the fat remaining in the saucepan, adding more fat if necessary.
+
+**3. Off heat, build the sauce and return the browned solids.**
+Off heat, beat in the boiling liquid, the optional wine, and the optional tomato paste. Add the herb bouquet and return the browned ingredients.
+
+**4. Simmer and skim. 2 to 4 hours.**
+Simmer, skimming as necessary, for 2 to 4 hours.
+
+**5. Strain, degrease, correct.**
+Strain, degrease, correct seasoning, and the sauce is ready to use.
+
+> **Variation — Sauce Poivrade (Brown Game Sauce).** This is the same as sauce ragoût. If the game has been marinated, a cup or two of the marinade is used instead of the optional wine. The final sauce is highly seasoned with pepper.
+
+> **Variation — Sauce Venaison (Brown Sauce for Venison).** This is sauce poivrade with ½ cup red currant jelly and ½ cup whipping cream beaten into it just before serving.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Giblets, bones, and meat trimmings — 1 to 4 cups, from whatever the sauce will be served with
+
+**🛒 General grocery**
+
+- 🛒 Carrots — ½ cup chopped
+- 🛒 Onions — ½ cup chopped
+- 🛒 Butter *(to clarify)*, fresh pork fat, or cooking oil — 6 Tbsp or more
+- 🛒 All-purpose flour — 4 Tbsp
+- 🛒 Brown stock or canned beef bouillon — 5 to 6 cups
+- 🛒 Dry white wine, red wine, or dry white vermouth — optional
+- 🛒 Tomato paste — 3 Tbsp, optional
+- 🛒 Fresh parsley, bay leaf, thyme, cheesecloth
+- 🛒 Red currant jelly and whipping cream — ½ cup each, if making Sauce Venaison
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(4 cups)* | ~830 | 46 g | 28 g | 38 g | 2 g |
+| **Per serving** *(16 servings, ¼ cup each)* | ~52 | 2.9 g | 1.8 g | 2.4 g | 0.1 g |
+
+**What a serving is:** ¼ cup — like [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), a base rather than a finished sauce.
+
+*Giblets, bones, vegetables, and the herb bouquet are all strained out, and the sauce is degreased — figures reflect what stays in the liquid, not the ingredient list. Sauce Venaison's jelly and cream would add roughly 850 calories and 45 g fat to the batch.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.73 Jus Lié (Starch-Thickened Brown Sauce) — Brown Sauce (3)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 70–71. *"Jus lié is a most useful alternative to the preceding long-simmered brown sauces, and takes about 5 minutes to prepare. But it has no culinary interest whatsoever if it is not made with an excellent base, as it is only stock thickened with cornstarch or arrowroot."* The third of the three interchangeable brown sauce bases.
+
+> **This is the shortcut, and the source is blunt about the trade-off.** Five minutes instead of two-plus hours — but everything depends on the stock. It's usually made with the liquids from simmering or stewing meats, which give it a good strong flavor. **If made from canned bouillon, the bouillon must first be simmered with wine and seasonings** — see [§T24](#t24-the-french-sauce-families--roux-ratios).
+
+> **Cornstarch or arrowroot, per the source:** cornstarch is the thickening for ordinary brown sauces of this type. **Arrowroot** is used when the sauce needs to be very clear and limpid. (Potato starch and rice starch are the French equivalents of cornstarch.)
+
+**Yield:** 2 cups
+
+**🟢 Easy** · **Prep ~2 min** · **Cook ~8 min** · **Start to finish ~10 min**
+
+**You'll need:** a 4-cup saucepan; a wire whip.
+
+#### A. Ingredients
+
+- 2 Tbsp cornstarch or arrowroot
+- 2 cups excellent brown stock, or canned beef bouillon simmered with wine and seasonings *(see [§T24](#t24-the-french-sauce-families--roux-ratios))*
+- Optional: ¼ cup Madeira, port, or cognac
+
+#### B. Cooking Instructions
+
+**1. Slurry the starch with cold stock, then simmer. 5 minutes.**
+Blend the cornstarch or arrowroot with 2 Tbsp of **cold** stock, then beat in the rest of the stock. Simmer for 5 minutes, or until the sauce has cleared and is lightly thickened. Correct seasoning.
+
+**2. Add the optional wine and cook off the alcohol. 2 to 3 minutes.**
+Add the optional wine or cognac and simmer for 2 to 3 minutes, tasting, until the alcohol has evaporated.
+
+> **Holding it, per the source:** the sauce may be set aside and reheated when needed.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cornstarch or arrowroot — 2 Tbsp
+- 🛒 Brown stock or canned beef bouillon — 2 cups
+- 🛒 Madeira, port, or cognac — ¼ cup, optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~125 | 0 g | 4 g | 20 g | 0 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~16 | 0 g | 0.5 g | 2.5 g | 0 g |
+
+**What a serving is:** ¼ cup — spooned over meat rather than napped.
+
+*By a wide margin the lightest sauce in this cookbook — no butter, no roux, no cream. It's stock plus starch, and the numbers show it.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.74 Sauce Diable (Peppery Brown Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 71–72 — the first of the sauces derived from brown sauce. **For:** broiled chicken, roast or braised pork, pork chops, hot meat leftovers.
+
+> **Per the source, on this whole derived group:** these composed sauces are made with any of the three preceding brown sauces, and *"they are almost always combined with the cooking juices of the dishes they accompany, and thereby pick up additional flavor."* That's why the ingredient list starts with a meat-cooking pan and its degreased juices as an alternative to a plain saucepan.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min** *(plus making the brown sauce base)*
+
+**You'll need:** a 4-cup saucepan, or your meat-cooking pan with its degreased juices.
+
+#### A. Ingredients
+
+- 1 to 2 Tbsp minced shallots or green onions
+- 1 Tbsp butter or cooking fat
+- 1 cup dry white wine, or ⅔ cup dry white vermouth
+- 2 cups brown sauce — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)
+- Black pepper
+- Cayenne pepper
+- 1 to 3 Tbsp softened butter
+- 2 to 3 Tbsp fresh minced parsley or mixed green herbs
+
+#### B. Cooking Instructions
+
+**1. Sweat the shallots without browning. 2 minutes.**
+Cook the shallots or green onions slowly with the butter or cooking fat for 2 minutes, without browning them.
+
+**2. Reduce the wine hard. To 3 or 4 tablespoons.**
+Add the wine and boil it down rapidly until it has reduced to 3 or 4 tablespoons.
+
+**3. Add the brown sauce and simmer. 2 minutes.**
+Pour in the sauce and simmer for 2 minutes. Season with enough pepper to give it a spicy taste — this is where the *diable* comes from.
+
+**4. Off heat, swirl in butter and herbs.**
+Off heat and just before serving, swirl the butter into the sauce a bit at a time. Stir in the parsley or herbs.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallots or green onions — 1 to 2 Tbsp minced
+- 🛒 Butter — 1 Tbsp, plus 1 to 3 Tbsp for finishing
+- 🛒 Dry white wine — 1 cup, or dry white vermouth — ⅔ cup
+- 🛒 Black pepper and cayenne pepper
+- 🛒 Fresh parsley or mixed green herbs — 2 to 3 Tbsp minced
+- Plus a brown sauce base — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~725 | 55 g | 10.5 g | 23 g | 1.2 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~91 | 7 g | 1.3 g | 2.9 g | 0.15 g |
+
+**What a serving is:** ¼ cup — spooned over broiled chicken or pork.
+
+*Figures assume a [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) base and 2 Tbsp finishing butter. Most of the wine cooks off in the reduction; only the concentrated few tablespoons are counted. Built on [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) instead, the batch drops to roughly 500 calories.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.75 Sauce Piquante (Brown Sauce with Pickles and Capers)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 72. **For:** roast or braised pork, pork chops, boiled or braised tongue, boiled beef, hot meat leftovers. This is [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce) **plus** pickles and capers — the source prints it as an add-on rather than a standalone recipe.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min** *(plus making the brown sauce base)*
+
+#### A. Ingredients
+
+- The full [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce) recipe, **plus:**
+- 2 Tbsp finely chopped pickles
+- 2 Tbsp capers
+
+#### B. Cooking Instructions
+
+**1. Make Sauce Diable through its simmer.**
+Follow [§4.74](#474-sauce-diable-peppery-brown-sauce) Steps 1 through 3.
+
+**2. Stir in the pickles and capers just before coming off heat.**
+Just before removing the sauce from heat, stir in the pickles and capers. Simmer a moment.
+
+**3. Off heat, beat in the butter and herbs.**
+Then, off heat, beat in the butter and herbs as in [§4.74](#474-sauce-diable-peppery-brown-sauce) Step 4.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pickles — 2 Tbsp finely chopped
+- 🛒 Capers — 2 Tbsp
+- Plus everything for [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~735 | 55 g | 11 g | 25 g | 1.7 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~92 | 7 g | 1.4 g | 3.1 g | 0.2 g |
+
+**What a serving is:** ¼ cup — spooned over pork, tongue, or boiled beef.
+
+*Essentially [§4.74](#474-sauce-diable-peppery-brown-sauce)'s numbers; pickles and capers add flavor and a little fiber, not calories.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.76 Sauce Robert (Brown Mustard Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 72. **For:** roast or braised pork, pork chops, boiled beef, broiled chicken or turkey, hot meat leftovers, hamburgers.
+
+> **Three different "mustard sauces" now live in this cookbook, all distinct.** This one is brown-sauce-based and French; [§4.22](#422-mustard-sauce) and [§4.38 Mustard Sauce](#438-mustard-sauce) come from other sources entirely; and [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)'s Sauce à la Moutarde variation is the white, bâtarde-based version from this same book. Kept separate rather than merged.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~40 min** *(plus making the brown sauce base)*
+
+**You'll need:** a heavy-bottomed 6-cup saucepan, or your meat-cooking pan with its degreased juices.
+
+#### A. Ingredients
+
+- ¼ cup finely minced yellow onions
+- 1 Tbsp butter
+- 1 tsp oil or cooking fat
+- 1 cup dry white wine, or ⅔ cup dry vermouth
+- 2 cups brown sauce — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)
+- 3 to 4 Tbsp Dijon-type prepared mustard, creamed with 2 or 3 Tbsp softened butter and ⅛ tsp sugar
+- 2 to 3 Tbsp fresh minced parsley
+
+#### B. Cooking Instructions
+
+**1. Cook the onions to tender and lightly browned. 10 to 15 minutes.**
+Cook the onions slowly with the butter and oil or fat until they're tender and lightly browned.
+
+**2. Reduce the wine hard. To 3 or 4 tablespoons.**
+Add the wine and boil it down rapidly until it has reduced to 3 or 4 tablespoons.
+
+**3. Add the brown sauce and simmer. 10 minutes.**
+Add the brown sauce and simmer 10 minutes. Correct seasoning.
+
+**4. Off heat, beat in the mustard butter and parsley.**
+Off heat and just before serving, beat the mustard mixture into the sauce, tasting as you go. Beat in the parsley, and serve. **The mustard never boils** — that's what keeps it sharp instead of dull.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Yellow onions — ¼ cup finely minced
+- 🛒 Butter — 1 Tbsp, plus 2 to 3 Tbsp for the mustard mixture
+- 🛒 Oil or cooking fat — 1 tsp
+- 🛒 Dry white wine — 1 cup, or dry vermouth — ⅔ cup
+- 🛒 Dijon-type prepared mustard — 3 to 4 Tbsp
+- 🛒 Sugar — ⅛ tsp
+- 🛒 Fresh parsley — 2 to 3 Tbsp minced
+- Plus a brown sauce base
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~855 | 67 g | 12.5 g | 27 g | 2.7 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~107 | 8.4 g | 1.6 g | 3.4 g | 0.3 g |
+
+**What a serving is:** ¼ cup — spooned over pork, beef, or a hamburger.
+
+*Figures assume a [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) base and the midpoints of the mustard and butter ranges.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.77 Sauce Brune aux Fines Herbes / Sauce Brune à l'Estragon (Brown Herb or Tarragon Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 73. **For:** sautéed chicken, veal, rabbit, braised vegetables, hot meat leftovers, and poached or baked eggs. The two names are one recipe — the full herb mix makes a *fines herbes*, tarragon alone makes an *à l'estragon*.
+
+> **The brown-sauce counterpart to [§4.67 Sauce Chivry](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce)** — identical herb-essence technique, built on brown sauce instead of béchamel.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** *(10 min herb essence, then a 1 min simmer)* · **Start to finish ~25 min** *(plus making the brown sauce base)*
+
+**You'll need:** a 2- to 3-cup enameled saucepan for the essence; a 6- to 8-cup saucepan for the sauce.
+
+#### A. Ingredients
+
+**For the herb essence**
+
+- 1 cup dry white wine, or ⅔ cup dry white vermouth
+- 2 Tbsp minced shallots or green onions
+- 4 Tbsp fresh herbs, or 2 Tbsp dried, as follows: parsley, basil, chervil, rosemary, oregano, and tarragon only
+
+**For the sauce**
+
+- 2 cups brown sauce — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)
+- 1 to 3 Tbsp softened butter
+- 2 to 3 Tbsp fresh minced parsley, mixed green herbs, or tarragon
+
+#### B. Cooking Instructions
+
+**1. Make the herb essence. 10 minutes.**
+Place the wine, shallots, and herbs in the small saucepan and boil slowly for 10 minutes, reducing the wine to 2 or 3 tablespoons. This is now an herb essence.
+
+**2. Strain into the brown sauce and simmer. 1 minute.**
+Strain the herb essence into the brown sauce, pressing the juices out of the herbs. Simmer for 1 minute.
+
+**3. Off heat, beat in butter and fresh herbs.**
+Off heat and just before serving, beat the butter into the sauce by bits, then beat in the herbs.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dry white wine — 1 cup, or dry white vermouth — ⅔ cup
+- 🛒 Shallots or green onions — 2 Tbsp minced
+- 🛒 Fresh parsley, basil, chervil, rosemary, oregano, tarragon — 4 Tbsp for the essence, plus 2 to 3 Tbsp for finishing *(or 2 Tbsp dried for the essence)*
+- 🛒 Butter — 1 to 3 Tbsp
+- Plus a brown sauce base
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~625 | 44.5 g | 10.5 g | 24 g | 2.2 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~78 | 5.6 g | 1.3 g | 3 g | 0.3 g |
+
+**What a serving is:** ¼ cup — spooned over sautéed chicken, veal, or eggs.
+
+*Figures assume a [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) base and 2 Tbsp finishing butter. The herbs from the essence are strained out and discarded.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.78 Sauce Brune au Cari (Brown Curry Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 73–74. **For:** lamb, chicken, beef, rice, and egg dishes. **The brown-sauce counterpart to [§4.68 Sauce au Cari](#468-sauce-au-cari-light-curry-sauce)** — that one is built on a white sauce made simultaneously with the curry; this one leans on a finished brown sauce and uses three times as much onion.
+
+**Yield:** about 2½ cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~30 min** *(15 min on the onions, then a 10 min simmer)* · **Start to finish ~40 min** *(plus making the brown sauce base)*
+
+**You'll need:** a heavy-bottomed 8-cup saucepan.
+
+#### A. Ingredients
+
+- 1½ cups finely minced yellow onions
+- 2 Tbsp butter
+- 1 tsp oil
+- 3 to 4 Tbsp curry powder
+- Optional: 2 cloves mashed garlic
+- 2 cups brown sauce — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)
+- 2 to 3 tsp lemon juice
+- 1 to 3 Tbsp softened butter
+- 2 to 3 Tbsp fresh minced parsley
+
+#### B. Cooking Instructions
+
+**1. Cook the onions to tender and lightly browned. About 15 minutes.**
+Cook the onions slowly in the butter and oil until they're tender and lightly browned.
+
+**2. Bloom the curry powder. 1 minute.**
+Blend in the curry powder and cook slowly for 1 minute.
+
+**3. Add the optional garlic. 30 seconds.**
+Stir in the optional garlic and cook slowly for half a minute.
+
+**4. Add the brown sauce and simmer. 10 minutes.**
+Add the brown sauce and simmer for 10 minutes.
+
+**5. Correct with lemon juice, then finish with butter and parsley.**
+Correct seasoning and add lemon juice to taste. Off heat and just before serving, beat in the butter by bits. Stir in the parsley.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Yellow onions — 1½ cups finely minced
+- 🛒 Butter — 2 Tbsp, plus 1 to 3 Tbsp for finishing
+- 🛒 Oil — 1 tsp
+- 🛒 Curry powder — 3 to 4 Tbsp
+- 🛒 Garlic — 2 cloves, optional
+- 🛒 Lemon — for 2 to 3 tsp juice
+- 🛒 Fresh parsley — 2 to 3 Tbsp minced
+- Plus a brown sauce base
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2½ cups)* | ~965 | 75 g | 13 g | 55 g | 11 g |
+| **Per serving** *(10 servings, ¼ cup each)* | ~96 | 7.5 g | 1.3 g | 5.5 g | 1.1 g |
+
+**What a serving is:** ¼ cup — spooned over lamb, chicken, or rice.
+
+*Figures assume a [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) base and 2 Tbsp finishing butter. The onions and curry powder together carry nearly all the fiber.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.79 Sauce Duxelles (Brown Mushroom Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 74. **For:** broiled or sautéed chicken, veal, rabbit, or for egg dishes, hot meat leftovers, or pastas.
+
+> **Mushroom stems are explicitly fine here** — the source calls for *"finely minced fresh mushrooms or mushroom stems only,"* which makes this a good use for stems left over from a recipe that wanted caps.
+
+> **A related sauce the source points elsewhere for: Sauce Chasseur** *(Brown Mushroom Sauce with Fresh Tomatoes, Garlic, and Herbs)* — *"almost the same as sauce duxelles, but a bit more hearty in flavor."* Its recipe lives in the source's Veal section under *escalopes de veau chasseur*, p. 368 — **not yet transcribed here.**
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min** *(plus making the brown sauce base)*
+
+**You'll need:** a heavy-bottomed 8-cup saucepan.
+
+#### A. Ingredients
+
+- ¼ lb (1 cup) finely minced fresh mushrooms, or mushroom stems only
+- 2 Tbsp shallots or green onions
+- 1 Tbsp butter
+- ½ Tbsp oil
+- ½ cup dry white wine, or ⅓ cup dry white vermouth
+- 1½ cups brown sauce — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)
+- 1½ Tbsp tomato paste
+- 1 to 3 Tbsp softened butter
+- 3 to 4 Tbsp mixed green herbs or parsley
+
+#### B. Cooking Instructions
+
+**1. Sauté the mushrooms and shallots. 4 to 5 minutes.**
+Sauté the mushrooms with the shallots or onions in hot butter and oil for 4 to 5 minutes.
+
+**2. Reduce the wine almost completely.**
+Add the wine and boil it down rapidly until it has reduced almost completely — this is a harder reduction than the other derived sauces call for.
+
+**3. Add the brown sauce and tomato paste, then simmer. 5 minutes.**
+Stir in the brown sauce and tomato paste and simmer for 5 minutes. Correct seasoning.
+
+**4. Off heat, stir in butter and herbs.**
+Off heat and just before serving, stir in the butter by bits, then the herbs or parsley.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh mushrooms — ¼ lb (1 cup finely minced), stems alone are fine
+- 🛒 Shallots or green onions — 2 Tbsp
+- 🛒 Butter — 1 Tbsp, plus 1 to 3 Tbsp for finishing
+- 🛒 Oil — ½ Tbsp
+- 🛒 Dry white wine — ½ cup, or dry white vermouth — ⅓ cup
+- 🛒 Tomato paste — 1½ Tbsp
+- 🛒 Mixed green herbs or parsley — 3 to 4 Tbsp
+- Plus a brown sauce base
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~705 | 57 g | 11.5 g | 24 g | 2.75 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~88 | 7.1 g | 1.4 g | 3 g | 0.3 g |
+
+**What a serving is:** ¼ cup — spooned over chicken, veal, or tossed with pasta.
+
+*Figures assume a [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) base and 2 Tbsp finishing butter. The wine reduces almost to nothing and contributes little beyond flavor.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.80 Sauce Madère / Sauce au Porto (Brown Madeira or Port-Wine Sauce)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 75. **For:** filet of beef, or for ham, veal, chicken livers, and egg dishes, or to sauce a garniture for *vol-au-vents*. One recipe, two names — Madeira makes a *sauce Madère*, port makes a *sauce au Porto*.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min** *(plus making the brown sauce base)*
+
+**You'll need:** a 6-cup saucepan.
+
+#### A. Ingredients
+
+- ½ cup Madeira or port
+- 2 cups **excellent** brown sauce — [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), or [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)
+- Optional: 1 to 2 tsp meat glaze *(source p. 110 — not yet transcribed)*
+- 3 to 4 Tbsp more Madeira or port, if necessary
+- 2 to 3 Tbsp softened butter
+
+#### B. Cooking Instructions
+
+**1. Reduce the wine hard. To about 3 tablespoons.**
+Boil the Madeira or port in the saucepan until it has reduced to about 3 tablespoons.
+
+**2. Add the brown sauce and simmer. 1 to 2 minutes.**
+Add the brown sauce and simmer for a minute or two. Taste carefully for seasoning and strength, adding meat glaze if you have it and feel it's necessary. If more wine is needed, add it by tablespoons, simmering briefly to evaporate the alcohol.
+
+**3. Off heat, beat in the butter.**
+Off heat and just before serving, beat in the butter by bits.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Madeira or port — ½ cup, plus 3 to 4 Tbsp if needed
+- 🛒 Butter — 2 to 3 Tbsp
+- 🛒 Meat glaze — 1 to 2 tsp, optional
+- Plus a brown sauce base
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~725 | 49.5 g | 12 g | 25 g | 1 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~90 | 6.2 g | 1.5 g | 3.1 g | 0.1 g |
+
+**What a serving is:** ¼ cup — spooned over filet of beef, ham, or chicken livers.
+
+*Figures assume a [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) base and 2½ Tbsp finishing butter. Most of the wine's volume cooks off in the reduction.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.81 Sauce Périgueux (Brown Madeira Sauce with Truffles)
+
+Transcribed from **Mastering the Art of French Cooking**, p. 75. **For:** filet of beef, fresh *foie gras*, ham, veal, egg dishes, and timbales. This is [§4.80 Sauce Madère](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) with truffles — the most luxurious sauce in this chapter, and the source prints it as a short add-on rather than a full recipe.
+
+**Yield:** about 2 cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min** *(plus making the brown sauce base)*
+
+#### A. Ingredients
+
+- The full [§4.80 Sauce Madère](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) recipe
+- 2 to 4 diced canned truffles **and their juice**
+
+#### B. Cooking Instructions
+
+**1. Reduce the truffle juice along with the Madeira.**
+Prepare the Madeira sauce as in [§4.80](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce), but add the truffle juice to reduce with the Madeira at the beginning. **Don't discard the juice** — it's doing as much work as the truffles themselves.
+
+**2. Add the truffles after flavoring, and simmer. 1 minute.**
+After flavoring the sauce, stir in the truffles and simmer for a minute.
+
+**3. Off heat, beat in the butter just before serving.**
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — specialty/gourmet grocer**
+
+- 🏪 Canned truffles — 2 to 4, with their juice
+
+**🛒 General grocery**
+
+- Everything for [§4.80 Sauce Madère](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~755 | 50.5 g | 14 g | 30 g | 4 g |
+| **Per serving** *(8 servings, ¼ cup each)* | ~94 | 6.3 g | 1.75 g | 3.75 g | 0.5 g |
+
+**What a serving is:** ¼ cup — spooned over filet of beef or foie gras.
+
+*Essentially [§4.80](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)'s numbers plus three diced truffles; truffles are low-calorie for what they cost.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -7166,6 +7874,46 @@ The source's own stock recipes, none yet transcribed here: white stock (p. 109),
 - 2 parsley sprigs, ⅓ bay leaf, and a pinch of thyme
 
 Simmer the broth with the vegetables, wine, and herbs for 30 minutes. Season to taste, strain, and it's ready to use.
+
+#### F. The Brown Sauces — and Why This Book Skips the Classical Version
+
+The classical French brown sauce starts with a long-simmered brown meat stock, which goes into an equally long-simmered, lightly thickened base called an ***espagnole***. The espagnole is simmered and skimmed for several hours more with additional stock and flavorings until it becomes ***demi-glace***, the traditional mother of the brown sauces. Per the source: *"This may take several days to accomplish, and the result is splendid. But as we are concerned with less formal cooking, we shall discuss it no further."*
+
+What replaces it are **three interchangeable brown sauce bases**, any of which can be turned into any of the composed sauces:
+
+| # | Sauce | Thickener | Time | Entry |
+|---|---|---|---|---|
+| **1** | *Sauce Brune* | Brown roux | 2 hr+ simmer | [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) |
+| **2** | *Sauce Ragoût* | Brown roux, plus giblets and bones | 2–4 hr simmer | [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) |
+| **3** | *Jus Lié* | Cornstarch or arrowroot | ~5 min | [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) |
+
+**A flour-thickened brown sauce must be simmered and skimmed for two hours at least** if it's to develop its full flavor. Starch and arrowroot thickenings take only a few minutes — and when properly made they're *"very good indeed. Because they are far more useful in home cooking than the long simmered and more conventional sauce, we have used them in most of the main-course recipes throughout this book."*
+
+#### G. A Note on Brown Roux
+
+Brown roux is flour and fat cooked together until the flour has turned an **even, nut-brown color**.
+
+- **For an ordinary sauce**, cook the flour in rendered fresh pork fat or in cooking oil.
+- **For a delicate dish** — foie gras, eggs, or *vol-au-vent* — cook the flour in **clarified butter**: butter melted and decanted, leaving its milky particles behind, since those burn and taste bitter.
+
+> **The failure mode, in the source's own words:** *"It is important that the roux be cooked slowly and evenly. If the flour is burned, it will not thicken the sauce as it should, and it will also impart an unpleasant taste."* Both halves matter — a burnt brown roux doesn't just taste bad, it stops doing its job. **This is why [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) are rated 🔴 Hard in this cookbook**, alongside [§T1](#t1-how-to-make-a-roux) and the gumbos. It's a gentler heat than the Cajun method, but the same thing goes wrong.
+
+#### H. Meat Stocks for Brown Sauces
+
+The source's brown stock recipes are on its p. 107–110 — not yet transcribed here. **Canned beef bouillon may be substituted as is** for [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2). For [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3), where the stock is the entire sauce, **its canned flavor should first be disguised and enriched** as follows. *(Canned consommé tends to be sweet and is not recommended.)*
+
+**Canned beef bouillon**
+
+- 2 cups canned beef bouillon
+- 3 Tbsp each: finely minced onions and carrots
+- 1 Tbsp finely minced celery
+- ½ cup red wine, dry white wine, or dry white vermouth
+- 2 parsley sprigs
+- ⅓ bay leaf
+- ⅛ tsp thyme
+- Optional: 1 Tbsp tomato paste
+
+Simmer the canned bouillon with the rest of the ingredients for 20 to 30 minutes. Strain through a fine sieve, and the bouillon is ready to be turned into a sauce.
 
 *No Nutrition block or difficulty badge on this one — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T7](#t7-louisiana-language--ingredients), it's pure reference rather than something you cook, so it stays out of the [Difficulty & Time Index](#difficulty--time-index) counts. The sauces built from it carry their own.*
 

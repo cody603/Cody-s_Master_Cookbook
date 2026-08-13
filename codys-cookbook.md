@@ -105,6 +105,9 @@ Click any recipe to jump straight to it.
   - [4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) ✅
   - [4.85 Beurre Blanc / Beurre Nantais (White Butter Sauce)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) ✅
   - [4.86 Beurre Noir / Beurre Noisette (Brown Butter Sauce)](#486-beurre-noir--beurre-noisette-brown-butter-sauce) ✅
+  - [4.87 Cavender's All Purpose Greek Seasoning (Store-Bought)](#487-cavenders-all-purpose-greek-seasoning-store-bought) ✅ 👍 — *reference*
+  - [4.88 Vegeta (Store-Bought Croatian All-Purpose Seasoning)](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ✅ ❤️ — *reference*
+  - [4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)](#489-codys-greek-vinaigrette-lime--olive-oil) ✅ ❤️ ⚠️ *(one ingredient still unnamed)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -165,6 +168,7 @@ Click any recipe to jump straight to it.
 - [5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) ✅
 - [5.21 Sautéed Kale](#521-sautéed-kale) ✅
 - [5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) ✅
+- [5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ✅ ❤️
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -234,6 +238,7 @@ Click any recipe to jump straight to it.
 - [7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) ○ *(incomplete — finishing steps not photographed)*
 - [7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) ✅
 - [7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken) ✅
+- [7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -281,6 +286,7 @@ Click any recipe to jump straight to it.
 - [9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) ✅
 - [9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) ✅
 - [9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) ✅
+- [9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -321,6 +327,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-12 | **A whole Greek/Mediterranean meal, dictated by Cody — six new entries, all his own, none from a photographed page.** The centerpiece is **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)** ❤️ — Vegeta-rubbed pork loin sous vide'd in olive oil and butter, cut into medallions, hard-seared, then cubed and piled onto a bed of goat cheese spread across the platter, so the residual heat half-melts the cheese into a sauce. Grilled zucchini, squash, onions, and tomatoes around it; hummus and garlic naan alongside. **Its chicken version is folded in as a comparison table** rather than split off, per Cody's *"the chicken is out of this world."* Supporting entries: **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)** ❤️, **[§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan)**, and **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)** ❤️. **Two of the six are a new kind of entry for this cookbook: store-bought products rather than recipes** — **[§4.87 Cavender's All Purpose Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought)** 👍 and **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** ❤️. There's nothing to mix and nothing to time, so they carry no badge and no Nutrition block and stay out of the Difficulty & Time Index counts, the same treatment [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) already get; a carve-out sentence was added to *Reading this table* saying so. Cavender's turned out to already be in the cookbook — it's the finishing seasoning on [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) — so that's now cross-linked both ways. **Worth recording plainly: Vegeta is Croatian, not Greek**, despite carrying the Mediterranean flavor here; noted in the entry rather than quietly presented as Greek. **Five things flagged rather than invented, because Cody didn't say:** (1) **the pork loin's sous vide temperature and time are mine, not his** — 140°F for 2–4 hours, reasoned between [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s 129°F beef and [§T28](#t28-sous-vide-chicken-codys-method)'s 148°F chicken, and marked ⚠️ throughout plus an Open Question; (2) **[§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) is missing an ingredient** — Cody named lime juice and olive oil and said there's "something else," so the entry carries the two confirmed items in a ratio marked as mine, with candidates listed as unconfirmed and the ingredient list left honest; (3) **the garlic-in-the-bag exception** — Cody asked for real cloves in the sous vide bag, which collides with [§1 Cody's Pho](#1-codys-pho)'s standing no-fresh-garlic rule, so it's written his way with the reasons it's materially safer here (2–4 hr not 24–36, and 140°F) plus a stated safer alternative; (4) **no quantities were given for the salad**, so its amounts are labeled working proportions; (5) **a passage about mixing Vegeta with something — feta and naan both nearby — trails off mid-sentence**, so it's left out of both §7.59 and §9.21 and raised in each one's Open Questions instead of reconstructed. **Two deliberate departures from the standard recorded as stated, not corrected:** the salad uses **crumbled goat cheese, not feta** (Cody self-corrected from blue cheese and then repeated it emphatically — *"don't use feta unless you absolutely have to"*) and **green olives, not kalamata**; and both the vinaigrette and the hummus use **lime, where every published version uses lemon** — noted as worth confirming, since it could be a slip. Family Ratings Index updated: ❤️ 51 → 55, 👍 13 → 14. |
 | 2026-08-12 | **Structural fix, per Cody: the two foundational recipe formulas are no longer filed as cooking methods.** He's right that they were — they sat in the Techniques section as §T9 and §T10, alongside genuine methods like roux and sautéing, and that conflated two different kinds of thing. **A formula that dishes are variations on belongs with those dishes, ahead of them.** So: **§T9 Hearty Main Course Soup Formula → [§8.0 The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula)**, now opening §8 ahead of all twenty soups; and **§T10 Loaded Frittata Formula → [§10.0 The Loaded Frittata Formula](#100-the-loaded-frittata-formula)**, now opening §10 ahead of the egg dishes. The **.0** numbering is deliberate — it puts each formula first in its section rather than appended at the end, which is the whole point of the move. **The frittata's home is §10 Breakfast because that's where the egg dishes are** — there are no separate numbered frittata recipes to sit beside, since its eight named variations live inside the entry itself as a slot table, and [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) was already cross-linking to it. **§T8 Pan Sauce Formula deliberately stays in Techniques** — it's a component you build in a pan you've already got going, not a dish anyone sets out to make. **The vacated T9 and T10 numbers are left empty rather than renumbering T11–T28** and every reference to them; the Techniques quick index keeps a pointer row for each, so a mid-cook lookup still lands in the right place. Bookkeeping: TOC entries relocated into their sections, both Difficulty & Time Index rows relabeled, and every cross-reference in the cookbook repointed. **Two historical changelog rows were touched rather than silently rewritten** — the entries that originally announced these as §T9 and §T10 said they were "filed as a technique," which is no longer true, so each now carries its original number, a pointer to where it went, and an "at the time" marker. **One pre-existing fragility fixed while in the area:** §T11's link to *"§T8's list"* pointed at a bare `#e-grocery-shopping-list` anchor, which resolves to whichever "E. Grocery Shopping List" heading comes first in the document — it happened to be §T8's, but any reordering could have silently repointed it. Now links to §T8 directly. |
 | 2026-08-12 | **[§T28 Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) added, and both sous vide entries now carry full rub and sauce cross-reference tables** — per Cody's request to "give the reference back to the different rubs for both the steak and the chicken" and to map out what sauces can go on sous vide chicken. The chicken method is [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s twin with a different dial setting: 148°F for 1½ to 4 hours *(Cody's own note: the range is driven by thickness and how tender you want it)*, same dry-pat, avocado-oil spray, and 30–45 second cast iron sear. **No temperature caveat needed here** — unlike §T27's 129°F, which had to be reconciled against [§1 Cody's Pho](#1-codys-pho)'s sous vide rule, 148°F sits far above that range and pasteurizes chicken in minutes. **Answering Cody's question straight: there is no dedicated chicken rub in this cookbook** — nothing is titled for chicken the way [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) is titled for steak — **but five existing rubs name chicken in their own source text**, four of them printing a dose for a 4 lb chicken ([§4.27 Cajun](#427-cajun-rub), [§4.31 Mediterranean Herb](#431-mediterranean-herb-rub), [§4.26 Basic Barbecue](#426-basic-barbecue-rub), [§4.30 Mucho Macho](#430-mucho-macho-pepper-rub), [§4.33 Sesame](#433-sesame-seasoning)), so it's a naming gap rather than a real one. **The sauce tables are built from the sources' own "For:" lines rather than assembled by guesswork** — which is what makes chicken the better-served of the two: the entire French white-sauce family ([§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)–[§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)) exists for poultry, and six brown sauces name chicken outright. **Two honest flags in those tables:** [§4.33 Sesame Seasoning](#433-sesame-seasoning) is a *finishing* seasoning per its own source ("sprinkled on after the food comes off the grill"), so it goes on after the sear rather than into the bag; and [§4.80 Sauce Madère](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)'s source line names chicken *livers* rather than chicken generally — noted as such, with [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) cited as this cookbook's own proof the pairing works. The suggestion to save the bag juices for a [§T8 pan sauce](#t8-pan-sauce-formula) in the sear pan is marked as mine, not Cody's. **Follow-up, same day:** Cody read the entry as putting chicken in the bath for 6 to 8 hours and pushed back. It never did — the chicken time has been 1½ to 4 hours from the start, and the only "6 to 8" on the page was in a one-line contrast against the steak entry, sitting close enough to the chicken's own number to be misread. **No time was changed**; the opening was rewritten so the chicken's own range leads, with the steak contrast pulled out into its own callout that says plainly why chicken doesn't get those hours. |
 | 2026-08-12 | **A new technique, dictated directly by Cody: [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** Season, bag, sous vide at 129°F for 6 to 8 hours, pat bone-dry, spray with avocado oil, and sear 30–45 seconds a side in a screaming-hot cast iron pan. **One thing flagged rather than silently applied:** [§1 Cody's Pho](#1-codys-pho) already has an established rule against running sous vide at 129°F, specifically because that's *not high enough for a multi-day cook* — this entry explains why that rule doesn't apply here (a 6–8 hour single-cut cook pasteurizes well within the first few hours; the pho warning is about *C. perfringens* having room to grow across 24–36 hours at that temperature, not about 129°F itself being unsafe). Also carried over from the same established facts: no fresh garlic in the bag, dry rub only. Rated 🟡 Medium — the sous vide stage is foolproof, but the final sear is a genuine seconds-scale fail window against meat that's already perfectly cooked. **Also fixed in passing:** the T-section quick-index table at the top of §T was missing rows for T25 and T26 (added alongside T27's own row) — a bookkeeping gap that predates this entry. |
@@ -471,6 +478,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 |---|---|---|---|---|---|
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
 | [§4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) | 🟢 | 5 min | — | — | 5 min |
+| [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) | 🟢 | 5 min | — | — | 5 min |
 | [§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) | 🟢 | 2 min | 3 min | — | 5 min |
 | [§4.25 Basic Fish Cure](#425-basic-fish-cure) | 🟢 | 5 min | — | — | 5 min |
 | [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) | 🟢 | 5 min | — | — | 5 min |
@@ -489,6 +497,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
 | [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
+| [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.65 Sauce Mornay](#465-sauce-mornay-cheese-sauce) | 🟢 | 5 min | 5 min | — | 10 min *(+ §4.63)* |
@@ -529,6 +538,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
+| [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) | 🟢 | 15 min | — | — | 15 min |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
 | [§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -673,6 +683,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **2–4 hr** *(sous vide, unattended)* | 3½–5½ hr |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
@@ -703,6 +714,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 *Recipes still in placeholder form (§3, §5.1–5.9, §6.1, §6.3, §6.4, §6.5, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
+*Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
+
 *[§14.3 Classic Tuiles](#143-classic-tuiles), [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon), and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so all three are excluded from every count and total in this section until the rest of each recipe arrives.*
 
 [↑ Table of Contents](#table-of-contents)
@@ -724,25 +737,25 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
-### ❤️ Family favorites — 51
+### ❤️ Family favorites — 55
 
-**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin)
+**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)
 
 **Smoked meats — the whole section:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak)
 
 **Soups & chili — the whole section, the only clean sweep in the cookbook:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili](#81-chili) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)
 
-**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)
 
 **Snacks:** [§9.6 Beef Jerky](#96-beef-jerky) · [§9.7 Chicken Salad](#97-chicken-salad) · [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) · [§9.9 Shrimp Remoulade](#99-shrimp-remoulade)
 
-**Sauces & seasonings:** [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) · [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) · [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) · [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) · [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) · [§4.23 Remoulade Sauce](#423-remoulade-sauce) · [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce)
+**Sauces & seasonings:** [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) · [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) · [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) · [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) · [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) · [§4.23 Remoulade Sauce](#423-remoulade-sauce) · [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) · [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) · [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)
 
 **Breakfast & keto:** [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑
 
-### 👍 Tried and liked — 13
+### 👍 Tried and liked — 14
 
-[§5.3 Squash](#53-squash) *(if it's cooked right)* · [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 · [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 · [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) · [§5.14 Grilled Corn](#514-grilled-corn) · [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.7 Chicken Livers](#77-chicken-livers) *(split verdict)* · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) · [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *(split verdict)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑
+[§5.3 Squash](#53-squash) *(if it's cooked right)* · [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 · [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 · [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) · [§5.14 Grilled Corn](#514-grilled-corn) · [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.7 Chicken Livers](#77-chicken-livers) *(split verdict)* · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) · [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *(split verdict)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 · [§4.87 Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought)
 
 ### 🔖 Want to try — 19
 
@@ -6324,6 +6337,100 @@ For shirred eggs or poached calf's brains, make it separately so you can pour th
 
 ---
 
+### 4.87 Cavender's All Purpose Greek Seasoning (Store-Bought)
+
+**A product, not a blend — this is a reference entry.** Cavender's is a commercial Greek seasoning sold in a yellow-and-black shaker in most spice aisles. Nothing here gets mixed from scratch, so there's no ingredient list, no badge, and no Nutrition block — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T24](#t24-the-french-sauce-families--roux-ratios), it's pure reference and stays out of the [Difficulty & Time Index](#difficulty--time-index) counts.
+
+**👍 Tried and liked** — *Cody: "It's really good."*
+
+**What Cody uses it for: shish kebabs, above all.** It's already the finishing seasoning in **[§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs)** — sprinkled liberally right before the skewers hit the grill. He also reaches for it on the chicken version of **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)**, though **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** is his first choice there.
+
+**What it tastes like:** salt-forward, with oregano, garlic, and black pepper the loudest notes over that salt base. **Season with it as though it were salt**, because to a large extent it is — taste before adding any separate salt to a dish. A salt-free version is also sold, if you want the herb profile without the sodium.
+
+**Where to buy:** 🛒 general grocery, spice aisle — widely stocked.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.88 Vegeta (Store-Bought Croatian All-Purpose Seasoning)
+
+**A product, not a blend — reference entry, same as [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought).** No badge, no Nutrition block, excluded from the [Difficulty & Time Index](#difficulty--time-index) counts.
+
+**❤️ Family favorite** — *Cody: "It's awesome... when I season my meats with that Vegeta, that's a whole Lebanese Mediterranean dish. That Vegeta just really, really rocks."*
+
+**This is the seasoning the Mediterranean cooking in this cookbook is built on.** Per Cody, it *"really captures the Greek, Lebanese, Mediterranean taste"* — which is the interesting part, because **Vegeta isn't Mediterranean at all.** It's Croatian, made by Podravka, and it's a Balkan and Eastern European pantry staple rather than a Greek one. It lands in the right place anyway, and Cody's ear for it is the reason it's here.
+
+**What it is:** an all-purpose savory seasoning built on **salt plus dried vegetables** — carrot, parsnip, onion, and celery are the backbone — with spices. Traditional Vegeta also contains MSG; MSG-free versions are sold. It reads somewhere between a seasoning salt and a powdered bouillon, which is why it flavors meat so thoroughly rather than just sitting on the surface.
+
+> **It's salty — salt is the first ingredient.** Treat it as your salt for the dish and taste before adding more, the same caution as [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought). This matters most on a long sous vide, where [§1 Cody's Pho](#1-codys-pho)'s established note applies: **nothing leaves a sealed bag** — salt equilibrates through the meat rather than cooking off, so it tastes less sharp but it's all still in there. Don't over-apply expecting a loss that isn't happening.
+
+**What Cody uses it on:** pork loin (**[§7.59](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)**), chicken thighs, and whole hen. His own summary: season the meat with Vegeta and *"that's a whole Lebanese Mediterranean dish."*
+
+**Where to buy:** 🛒 international / Eastern European aisle, Eastern European and Mediterranean markets, or online. Not always in the regular spice section.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)
+
+**❤️ Family favorite** — *Cody: "really, really killer."*
+
+The dressing for **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)**.
+
+> ⚠️ **Partly documented — one ingredient is missing, and it isn't guessed at here.** Cody named two things for certain, **fresh lime juice and olive oil**, and then said there's *"something else"* in it that he didn't name. What's below is those two confirmed ingredients in a working ratio, with the gap flagged. **The 3:1 ratio is mine, not his** — same treatment as [§T22](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s vinegar figure: a sensible place to start, not gospel.
+
+> **Lime, not lemon — and that appears to be deliberate.** Essentially every published Greek vinaigrette uses **lemon** juice, usually with red wine vinegar. Cody said **lime** twice, for this dressing and again for the hummus in [§9.21](#921-dressed-up-hummus-with-garlic-naan). Written the way he says it rather than corrected toward the standard — but worth confirming, since it's the kind of thing that could be a slip of the tongue.
+
+**Yield:** about ½ cup — enough for one large salad
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 6 Tbsp extra-virgin olive oil *(ratio is a starting point — see note above)*
+- 2 Tbsp fresh lime juice
+- Salt and pepper, to taste
+- ⚠️ **At least one further ingredient Cody hasn't named yet** — see Open Questions
+
+#### B. Cooking Instructions
+
+**1. Combine everything in a jar.**
+Olive oil, lime juice, a good pinch of salt, and a few grinds of pepper into a jar with a tight lid.
+
+**2. Shake hard until it emulsifies. About 20 seconds.**
+Shaking beats whisking here because the lid keeps everything in — you want it to go from two separate layers to one cloudy, slightly thickened dressing. It will separate again as it sits; shake it once more right before it goes on the salad.
+
+**3. Taste it on a leaf, not off a spoon.**
+Dressing tastes far sharper on its own than it does on lettuce. Dip an actual romaine leaf in before deciding it needs more oil or more salt.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — 6 Tbsp
+- 🛒 Limes — 1 to 2, for 2 Tbsp juice
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(~½ cup)* | ~730 | 81 g | 0 g | 2 g | 0 g |
+| **Per serving** *(serves 4, about 2 Tbsp each)* | ~180 | 20 g | 0 g | 0.5 g | 0 g |
+
+**What a serving is:** about 2 tablespoons — enough to dress one dinner-sized salad plate. *These figures cover only the two confirmed ingredients; the unnamed one isn't included.*
+
+#### D. Open Questions
+
+- **What is the missing ingredient?** Cody said *"lime juice and olive oil, and maybe something else."* Given the style, plausible candidates are **dried oregano**, **garlic**, **Dijon**, a little **honey**, or **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** itself — but **none of these is confirmed**, and none is written into the ingredient list above.
+- **Lime or lemon?** See the note above. Recorded as lime, per Cody, twice.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -9417,6 +9524,67 @@ Cover the casserole and simmer over low heat for 10 minutes. Uncover, tip the ca
 | **Per serving** *(serves 6, the low end of the source's 6-to-8 range)* | ~200 | 15 g | 3 g | 16 g | 4.5 g |
 
 **What a serving is:** a generous 1-cup side portion. Most of the fat and calories come from the olive oil, which stays in the dish as the "spoonful or two of flavored olive oil" the recipe finishes with — it's eaten, not drained off.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.23 Greek Salad with Crumbled Goat Cheese
+
+**❤️ Family favorite** — *Cody: "That is a great, great Mediterranean salad."*
+
+Cody's own salad, dictated directly — not from a photographed page. Built to go alongside **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)**, and dressed with **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)**.
+
+> **Goat cheese, not feta — and Cody was emphatic about it.** He talked himself through it out loud and landed hard: *"crumbled goat cheese, not feta... don't use feta unless you absolutely have to."* Feta is the default in essentially every Greek salad ever published, so this is a deliberate departure, recorded as stated. **He also self-corrected from blue cheese to goat cheese mid-sentence** — blue cheese is not in this salad.
+
+> **Green olives, not kalamata** — also as stated. Another quiet departure from the standard Greek salad, which almost always uses kalamatas.
+
+> **No quantities were given.** Cody named the components without amounts, so the figures below are reasonable working proportions for four people rather than his numbers. Adjust freely — this is a salad, not a bake.
+
+**Yield:** serves 4 as a side
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 large head romaine lettuce, chopped
+- ½ cup green olives *(not kalamata — see note above)*
+- ½ red (purple) onion, sliced thin, raw
+- 4 oz crumbled goat cheese *(not feta, not blue — see note above)*
+- **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)** — about ¼ cup
+
+#### B. Cooking Instructions
+
+**1. Chop and dry the romaine.**
+Wash and chop the romaine, then get it genuinely dry — a salad spinner or a towel. Wet leaves refuse to hold dressing; it slides off and pools in the bottom of the bowl.
+
+**2. Slice the onion thin and raw.**
+Thin is the point. Raw red onion sliced thick dominates every bite it's in; sliced thin it reads as a sharp accent instead. *If it's still too aggressive, soak the slices in cold water for 10 minutes and pat dry — that pulls the harsh edge without cooking it.*
+
+**3. Assemble with the olives and goat cheese.**
+Romaine, green olives, and onion in the bowl, then crumble the goat cheese over the top rather than tossing it through — it's soft enough that tossing turns it into a paste that coats everything.
+
+**4. Dress it right before it goes to the table.**
+Shake the vinaigrette again and add it just before serving. Romaine holds up better than most greens, but dressed early it still goes limp.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Romaine lettuce — 1 large head
+- 🛒 Green olives — ½ cup
+- 🛒 Red (purple) onion — 1
+- 🛒 Crumbled goat cheese — 4 oz
+- 🛒 *Plus the [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) vinaigrette items — olive oil and limes*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,020 | 68 g | 28 g | 30 g | 8 g |
+| **Per serving** *(serves 4)* | ~255 | 17 g | 7 g | 7.5 g | 2 g |
+
+**What a serving is:** a full dinner-plate side salad — about 2 cups of dressed greens. *Built on the assumed quantities above rather than stated ones, and includes its share of the vinaigrette.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -13930,6 +14098,138 @@ Pour the sauce over the chicken.
 
 ---
 
+### 7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)
+
+**❤️ Family favorite** — *Cody: "That's a Mediterranean dish that rocks."* On the chicken version: *"the chicken is out of this world."*
+
+Cody's own dish, dictated directly — not from a photographed page. **A big shared platter**: goat cheese spread across the bottom, hot seared pork cubes piled on top of it, grilled vegetables around, hummus and warm garlic naan alongside. *(This build — a spread base, grilled things, dips, and bread on one large communal platter — is what Mediterranean cooking calls a **mezze** platter. That's my word for it, not Cody's.)*
+
+**The seasoning is the whole point.** This is **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)**'s headline dish — per Cody, season the meat with it and *"that's a whole Lebanese Mediterranean dish."* **[§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought)** also works, especially on the chicken version.
+
+> **Pork LOIN, not pork tenderloin — Cody said so explicitly.** They're different cuts and not interchangeable here: a loin is a big, wide roast that slices into broad medallions; a tenderloin is a slim muscle a fraction of the size. The platter wants the loin's larger cross-section. *(For the tenderloin, this cookbook has [§T14 How to Grill Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) instead.)*
+
+> **Pork loin is lean, and Cody was insistent that it needs help.** In his words: *"it needs fat. It needs help."* That's why fat goes into the bag with it — olive oil and butter — rather than relying on the cut to carry itself. A loin has almost no intramuscular fat, so left alone it sous vides into something correct and dull.
+
+> ⚠️ **The sous vide temperature and time are NOT Cody's — he didn't give them.** He described the method (season, bag with fat, sous vide, medallion, sear, cube) but never named a temperature or a duration. **140°F for 2 to 4 hours below is my recommendation**, reasoned from this cookbook's own two sous vide entries — [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) runs beef at 129°F and [§T28](#t28-sous-vide-chicken-codys-method) runs chicken at 148°F; a lean pork loin sits between them, wanting enough heat to be properly cooked but not so much that it dries. **Treat it as a starting point and confirm with Cody**, the same way [§T22](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s vinegar ratio is flagged. See Open Questions.
+
+**Yield:** serves 6 generously, as a shared platter
+
+**🟡 Medium** · **Prep ~40 min** *(trimming and stuffing the loin, cutting all the vegetables)* · **Cook ~40 min** *(grilling the vegetables, searing the medallions, warming the naan)* · **Slow cook 2–4 hr** *(sous vide, unattended)* · **Start to finish ~3½–5½ hr**
+
+#### A. Ingredients
+
+**The pork**
+
+- 1 pork loin, about 3 lb *(**loin**, not tenderloin)*
+- **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** — seasoned liberally all over *(or [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought))*
+- 4–6 garlic cloves, peeled *(optional — slivered and inserted into the roast)*
+- 2–3 oz goat cheese *(optional — stuffed into the roast; see Step 2)*
+- 3 Tbsp olive oil, for the bag
+- 2 Tbsp butter, for the bag
+- Avocado oil, in a spray bottle, for the sear
+
+**The platter**
+
+- 8 oz goat cheese, softened — for the bed at the bottom of the platter
+- 2 zucchini, cut into planks
+- 2 yellow squash, cut into planks
+- 2 onions, cut into thick rounds
+- 3–4 tomatoes, halved
+- Olive oil, salt, and pepper for the vegetables
+- **[§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan)** — served alongside
+
+#### B. Cooking Instructions
+
+**1. Season the loin hard, all over.**
+Vegeta on every surface, liberally. Remember it's mostly salt — this *is* the salting step, so don't add more on top. Per [§1 Cody's Pho](#1-codys-pho)'s established note, nothing escapes a sealed bag: the salt equilibrates through the meat over the cook rather than cooking off, so it'll taste less sharp at the end than it does going in without actually being any less salty.
+
+**2. Optional — sliver garlic into it, and stuff it with goat cheese.**
+Cody's own suggestions, both worth doing. Cut small slits across the roast and push a sliver of garlic into each. For the goat cheese, butterfly the loin or cut a deep pocket lengthwise, spread the 2–3 oz inside, and tie it closed with butcher's string. **Use whole peeled cloves or slivers, not crushed or chopped garlic** — and see the warning below on fresh garlic in a bag.
+
+> ⚠️ **This is a documented exception to the no-fresh-garlic-in-the-bag rule, and it needs care.** [§1 Cody's Pho](#1-codys-pho) established that raw garlic sealed in an anaerobic bag at sub-boiling temperature is a botulism setup, and [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method) both carry that rule forward. Cody specifically asked for real garlic cloves here. **Two things make that materially safer than the pho case:** this cook is 2 to 4 hours rather than 24 to 36, and 140°F is above the growth range that matters. **Do it Cody's way, but keep the cook short, keep it refrigerated until it goes in the bath, and don't hold the bagged raw roast in the fridge overnight first.** If you'd rather not think about it at all, **garlic powder in the rub gets most of the flavor with none of the question.**
+
+**3. Bag it with the fat.**
+Olive oil and butter into the bag with the loin. This is the "it needs help" step — the fat bastes the lean meat through the whole cook. Vacuum seal, or use a zip-top bag and the water-displacement method. *(Note that fat in the bag makes a vacuum sealer messier; a zip-top bag is easier here.)*
+
+**4. Sous vide at 140°F for 2 to 4 hours.** ⚠️ *(my numbers, not Cody's — see the flag above)*
+Hands-off once it's in. The loin comes out cooked through, still juicy, and — importantly — nowhere near done as far as the final dish is concerned. All the color comes later.
+
+**5. While it cooks, grill the vegetables.**
+Zucchini and squash planks, thick onion rounds, halved tomatoes. Toss with olive oil, salt, and pepper, and grill over medium-high until they've taken real char and gone tender. **Give the tomatoes the least time** — they collapse fastest, same lesson as [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs), where they get their own skewer for exactly this reason.
+
+**6. Out of the bag, pat completely dry, then cut into medallions.**
+Dry it thoroughly with paper towels — with oil and butter in the bag it comes out especially wet, and a wet surface will not sear. Then slice the loin crosswise into medallions, roughly ¾ to 1 inch thick. **Cutting before the sear is deliberate**: it multiplies the surface area that gets crust, which is the whole reason this dish tastes the way it does.
+
+**7. Spray with avocado oil and sear the medallions hard. 30 to 45 seconds per side.**
+Blazing-hot cast iron, exactly as in [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method). Avocado oil for its high smoke point. The pork is already fully cooked, so this is purely crust — there's no doneness cushion left, and lean loin dries fast if you linger.
+
+**8. Cut the seared medallions into cubes.**
+Roughly bite-sized. Now every cube has seared faces and a juicy middle, and the pieces are small enough to eat off a shared platter by hand or with a fork.
+
+**9. Spread the goat cheese across the bottom of the platter.**
+Softened goat cheese, spread like a dip across the whole serving platter — not dolloped. This is the base the entire dish is assembled on.
+
+**10. Pile the hot cubes straight onto the goat cheese.**
+This is the move that makes the dish. **The residual heat from the meat warms the cheese from above** — it goes soft and lukewarm and half-melted, and starts behaving like a sauce rather than a garnish. Cody's own description: it *"kind of almost melts."* Don't let the meat cool first; the heat is doing real work here.
+
+**11. Arrange the grilled vegetables around the meat, add hummus and naan, and serve.**
+Grilled zucchini, squash, onions, and tomatoes around the edges, with **[§9.21 hummus and warm garlic naan](#921-dressed-up-hummus-with-garlic-naan)** alongside, and a **[§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese)** if you're making the full meal. Serve it as one big communal platter — that's the format the dish is designed around.
+
+#### C. The Chicken Version
+
+**Per Cody, this may be the better one:** *"we've done it with chicken, and the chicken is out of this world."*
+
+Everything above holds, with these changes:
+
+| | Pork loin | Chicken |
+|---|---|---|
+| **Cut** | Pork loin, ~3 lb | **Chicken thighs**, or a whole hen |
+| **Seasoning** | [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) | Vegeta, or **[§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought)** — Cody recalls using Cavender's on chicken at least once |
+| **Sous vide** | 140°F, 2–4 hr *(my figures)* | **148°F, 1½–4 hr** — [§T28](#t28-sous-vide-chicken-codys-method)'s numbers, which are Cody's own |
+| **Fat in the bag** | Needed — the loin is lean | **Less critical.** Thighs carry their own fat; a whole hen more so |
+
+**A whole hen doesn't sous vide well** — it's an awkward shape for a bag and cooks unevenly. Roast or smoke it with the Vegeta on instead; this cookbook already has **[§6.3 Smoked Whole Hen](#63-smoked-whole-hen)** ❤️ as a landing spot for that.
+
+#### D. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Pork loin — about 3 lb *(**loin**, not tenderloin)* — **or** chicken thighs for the chicken version
+
+**🛒 General grocery**
+
+- 🛒 **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** — international aisle or Eastern European market
+- 🛒 Goat cheese — **10–11 oz total** *(8 oz for the platter bed, 2–3 oz if stuffing the roast)*
+- 🛒 Garlic — 4–6 cloves
+- 🛒 Zucchini — 2
+- 🛒 Yellow squash — 2
+- 🛒 Onions — 2
+- 🛒 Tomatoes — 3–4
+- 🛒 Olive oil, butter, avocado oil spray
+- 🛒 Butcher's string *(if stuffing the roast)*
+- 🛒 *Plus the [§9.21](#921-dressed-up-hummus-with-garlic-naan) hummus and naan, and the [§5.23](#523-greek-salad-with-crumbled-goat-cheese) salad items*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,250 | 200 g | 295 g | 60 g | 14 g |
+| **Per serving** *(serves 6)* | ~540 | 33 g | 49 g | 10 g | 2 g |
+
+**What a serving is:** a loaded plate off the platter — roughly 5 oz of seared pork, a good smear of the goat cheese underneath, and a share of the grilled vegetables.
+
+*Covers the pork, the platter's goat cheese, and the grilled vegetables only. **The hummus and naan are counted in [§9.21](#921-dressed-up-hummus-with-garlic-naan)** and the salad in [§5.23](#523-greek-salad-with-crumbled-goat-cheese), so they aren't double-counted here. Most of the olive oil and butter in the sous vide bag stays in the bag and is not counted as eaten.*
+
+#### E. Open Questions
+
+- **Sous vide temperature and time for the pork loin.** Not given by Cody. 140°F for 2–4 hours is my reasoned recommendation, not his practice — worth confirming.
+- **Goat cheese inside the roast — how much, and does it survive?** Cody floated it as a "maybe." Stuffed cheese can leak out during a long bath even in a sealed bag; 2–3 oz tied in is the conservative version written above.
+- **Does the Vegeta go anywhere besides the meat?** In the original dictation there's a passage about mixing Vegeta with something — feta and naan are both mentioned nearby, but the sentence breaks off. It may mean seasoning the naan, or seasoning feta as a second spread. **Not resolved, so not written in.** See also [§9.21](#921-dressed-up-hummus-with-garlic-naan)'s Open Questions.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -16735,6 +17035,72 @@ Garnish with chopped chives and the reserved celery leaves.
 | **Per serving** *(serves 5)* | ~228 | 11 g | 11 g | 16 g | 1.6 g |
 
 **What a serving is:** a generous plated portion — 5–6 shrimp with sliced pickled celery, like the source's own photo shows.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.21 Dressed-Up Hummus with Garlic Naan
+
+Cody's own, dictated directly — not from a photographed page. Part of the **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)** spread, and good on its own.
+
+> **Store-bought hummus, on purpose.** Cody doesn't make it from scratch and doesn't feel the loss — *"you got the store-bought. I don't miss it, which is awesome."* This entry is about **what you do to it after you open the container**, which takes about two minutes and makes a tub of grocery-store hummus taste like it was meant to be there.
+
+> **Lime juice, not lemon.** Same call as [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) — the conventional choice would be lemon, and Cody said lime for both. Recorded as stated.
+
+**Yield:** serves 6 as part of a platter
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** *(the naan in the oven)* · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 container store-bought hummus, about 10 oz
+- Juice of ½ lime, or to taste
+- Paprika, for dusting
+- 1–2 Tbsp extra-virgin olive oil
+- 2–4 pieces naan bread
+- 2–3 garlic cloves, or garlic butter, for the naan
+
+#### B. Cooking Instructions
+
+**1. Turn the hummus out and build a well in the middle.**
+Empty the container into a shallow bowl or spread it across a small plate, then press the back of a spoon into the center and swirl outward to make a shallow well with a raised rim. **The well isn't decorative** — it's what holds the olive oil instead of letting it run off the sides.
+
+**2. Stir in lime juice, to taste.**
+Start with half a lime, stir it through, and taste. It should read brighter and looser, not sour — store-bought hummus is usually a little flat and a little stiff, and the acid fixes both.
+
+**3. Pour olive oil into the well and dust with paprika.**
+A tablespoon or two of good olive oil pooled in the center, then paprika across the top. Dust it over the oil and the rim both, so you get color across the whole surface.
+
+**4. Warm the naan in the oven with garlic. About 6–8 minutes at 375°F.**
+Rub the naan with garlic — smashed cloves, or garlic butter — and put it in the oven until it's hot and just starting to crisp at the edges. **Warm naan is not optional here.** Straight from the bag it's dense and cool and fights the dip; hot it goes pliable and puffed and tears properly.
+
+**5. Serve immediately, with the naan cut into strips.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Hummus — 1 container, ~10 oz *(store-bought — see note)*
+- 🛒 Naan bread — 2–4 pieces
+- 🛒 Limes — 1
+- 🛒 Garlic — 2–3 cloves *(or garlic butter)*
+- 🛒 Paprika
+- 🛒 Extra-virgin olive oil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(hummus + oil + 3 naan)* | ~1,320 | 68 g | 37 g | 140 g | 19 g |
+| **Per serving** *(serves 6)* | ~220 | 11 g | 6 g | 23 g | 3 g |
+
+**What a serving is:** a few generous scoops of hummus with half a piece of naan. *Brands vary a lot — check your own container, since hummus runs anywhere from 50 to 80 calories per 2 Tbsp.*
+
+#### D. Open Questions
+
+- **Does Vegeta belong in this?** The original dictation has a passage about mixing **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** with something, with feta and naan both mentioned in the same breath, but the sentence trails off. It might mean seasoning the naan with it, stirring it into the hummus, or seasoning feta as a separate spread on the platter. **Not written in, because it isn't clear.**
+- **Fresh feta on the platter.** Cody mentions wishing for fresh feta and says it can be found — it may belong on the [§7.59](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) platter as an additional spread alongside the goat cheese. Noted rather than assumed. *(Distinct from [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was explicit that feta is **not** wanted.)*
 
 [↑ Table of Contents](#table-of-contents)
 

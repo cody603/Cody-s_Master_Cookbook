@@ -316,6 +316,7 @@ Click any recipe to jump straight to it.
 - [14.3 Classic Tuiles](#143-classic-tuiles) ○ *(incomplete — continued on source page 118, not yet photographed)*
 - [14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) ✅
 - [14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) ✅
+- [14.6 Key Lime Pie](#146-key-lime-pie) ✅
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -327,6 +328,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Added **[§14.6 Key Lime Pie](#146-key-lime-pie)** — transcribed from a printed recipe card (Tastes Better From Scratch, Lauren Allen). Graham cracker crust, a beaten cream cheese/condensed milk/lime filling, and a whipped cream topping. **Per Cody: his wife always buys a premade graham cracker crust rather than making one from scratch** — added as a called-out shortcut in the Ingredients (ahead of the homemade crust steps) and as its own line in the Grocery Shopping List, with the homemade crust ingredients kept as the documented alternative rather than removed. Rated 🟢 Easy — no roux, no emulsion, no stovetop custard; the filling is beaten and baked, not tempered. Nutrition uses the source's printed calories (444/serving) with fat/protein/carbs/fiber estimated from the ingredient list, flagged as such. |
 | 2026-08-13 | **[§9.7 Chicken Salad](#97-chicken-salad) — grapes called out as the recommended add-in, per Cody, and no added seasonings needed confirmed.** Red grapes (halved) split out from the "any or all" mix-in list into their own recommended line, ahead of the still-optional apples, celery, raisins, and pecans; grocery list reordered to match. Ingredients and instructions both updated. |
 | 2026-08-12 | **A whole Greek/Mediterranean meal, dictated by Cody — six new entries, all his own, none from a photographed page.** The centerpiece is **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)** ❤️ — Vegeta-rubbed pork loin sous vide'd in olive oil and butter, cut into medallions, hard-seared, then cubed and piled onto a bed of goat cheese spread across the platter, so the residual heat half-melts the cheese into a sauce. Grilled zucchini, squash, onions, and tomatoes around it; hummus and garlic naan alongside. **Its chicken version is folded in as a comparison table** rather than split off, per Cody's *"the chicken is out of this world."* Supporting entries: **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)** ❤️, **[§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan)**, and **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)** ❤️. **Two of the six are a new kind of entry for this cookbook: store-bought products rather than recipes** — **[§4.87 Cavender's All Purpose Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought)** 👍 and **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** ❤️. There's nothing to mix and nothing to time, so they carry no badge and no Nutrition block and stay out of the Difficulty & Time Index counts, the same treatment [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) already get; a carve-out sentence was added to *Reading this table* saying so. Cavender's turned out to already be in the cookbook — it's the finishing seasoning on [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) — so that's now cross-linked both ways. **Worth recording plainly: Vegeta is Croatian, not Greek**, despite carrying the Mediterranean flavor here; noted in the entry rather than quietly presented as Greek. **Five things flagged rather than invented, because Cody didn't say:** (1) **the pork loin's sous vide temperature and time are mine, not his** — 140°F for 2–4 hours, reasoned between [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s 129°F beef and [§T28](#t28-sous-vide-chicken-codys-method)'s 148°F chicken, and marked ⚠️ throughout plus an Open Question; (2) **[§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) is missing an ingredient** — Cody named lime juice and olive oil and said there's "something else," so the entry carries the two confirmed items in a ratio marked as mine, with candidates listed as unconfirmed and the ingredient list left honest; (3) **the garlic-in-the-bag exception** — Cody asked for real cloves in the sous vide bag, which collides with [§1 Cody's Pho](#1-codys-pho)'s standing no-fresh-garlic rule, so it's written his way with the reasons it's materially safer here (2–4 hr not 24–36, and 140°F) plus a stated safer alternative; (4) **no quantities were given for the salad**, so its amounts are labeled working proportions; (5) **a passage about mixing Vegeta with something — feta and naan both nearby — trails off mid-sentence**, so it's left out of both §7.59 and §9.21 and raised in each one's Open Questions instead of reconstructed. **Two deliberate departures from the standard recorded as stated, not corrected:** the salad uses **crumbled goat cheese, not feta** (Cody self-corrected from blue cheese and then repeated it emphatically — *"don't use feta unless you absolutely have to"*) and **green olives, not kalamata**; and both the vinaigrette and the hummus use **lime, where every published version uses lemon** — noted as worth confirming, since it could be a slip. Family Ratings Index updated: ❤️ 51 → 55, 👍 13 → 14. |
 | 2026-08-12 | **Structural fix, per Cody: the two foundational recipe formulas are no longer filed as cooking methods.** He's right that they were — they sat in the Techniques section as §T9 and §T10, alongside genuine methods like roux and sautéing, and that conflated two different kinds of thing. **A formula that dishes are variations on belongs with those dishes, ahead of them.** So: **§T9 Hearty Main Course Soup Formula → [§8.0 The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula)**, now opening §8 ahead of all twenty soups; and **§T10 Loaded Frittata Formula → [§10.0 The Loaded Frittata Formula](#100-the-loaded-frittata-formula)**, now opening §10 ahead of the egg dishes. The **.0** numbering is deliberate — it puts each formula first in its section rather than appended at the end, which is the whole point of the move. **The frittata's home is §10 Breakfast because that's where the egg dishes are** — there are no separate numbered frittata recipes to sit beside, since its eight named variations live inside the entry itself as a slot table, and [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) was already cross-linking to it. **§T8 Pan Sauce Formula deliberately stays in Techniques** — it's a component you build in a pan you've already got going, not a dish anyone sets out to make. **The vacated T9 and T10 numbers are left empty rather than renumbering T11–T28** and every reference to them; the Techniques quick index keeps a pointer row for each, so a mid-cook lookup still lands in the right place. Bookkeeping: TOC entries relocated into their sections, both Difficulty & Time Index rows relabeled, and every cross-reference in the cookbook repointed. **Two historical changelog rows were touched rather than silently rewritten** — the entries that originally announced these as §T9 and §T10 said they were "filed as a technique," which is no longer true, so each now carries its original number, a pointer to where it went, and an "at the time" marker. **One pre-existing fragility fixed while in the area:** §T11's link to *"§T8's list"* pointed at a bare `#e-grocery-shopping-list` anchor, which resolves to whichever "E. Grocery Shopping List" heading comes first in the document — it happened to be §T8's, but any reordering could have silently repointed it. Now links to §T8 directly. |
@@ -616,6 +618,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
+| [§14.6 Key Lime Pie](#146-key-lime-pie) | 🟢 | 15 min | 20 min | — | 35 min *(+ 30 min cool, 3 hr chill)* |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) | 🟡 | 10 min | 30 min | — | 40 min |
 | [§4.76 Sauce Robert (Brown Mustard Sauce)](#476-sauce-robert-brown-mustard-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
@@ -18254,6 +18257,106 @@ Chill until set. Serve with dollops of whipped cream.
 | **Per serving** *(1 slice, of 8)* | ~330 | 15 g | 4.5 g | 45 g | 1 g |
 
 **What a serving is:** one slice of a 9-inch pie, cut into 8 — figures above don't include the whipped cream on top.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.6 Key Lime Pie
+
+Transcribed from a printed recipe card — **Key Lime Pie**, from **Tastes Better From Scratch** (Lauren Allen), printed 3/11/2019. *"The easiest and BEST Key Lime Pie! Creamy, luscious and perfectly tart Key Lime Pie with either an easy homemade graham cracker crust or a gingersnap cookie crust."*
+
+**Yield:** makes one 9-inch pie, serves 12
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~35 min** *(plus ~30 min cooling and at least 3 hr refrigeration before serving)*
+
+#### A. Ingredients
+
+**Graham cracker crust** *(see note below for a gingersnap cookie crust)*
+
+- 1½ cups ground graham crackers (about 12 full sheets, crushed)
+- ⅓ cup granulated sugar
+- 6 Tbsp butter, melted
+
+> **Cody's household shortcut:** his wife always buys a premade graham cracker crust instead of making one from scratch — grab a 9-inch premade crust and skip crust Steps 1–4 below, going straight to the filling.
+
+**Key Lime Filling**
+
+- 2 (14 oz) cans sweetened condensed milk
+- 4 oz cream cheese, softened
+- ¾ cup Nellie & Joe's Key Lime Juice, or fresh lime juice
+- Zest from 2 regular limes, or 4 key limes
+
+**Whipped Cream Topping**
+
+- 1 cup heavy whipping cream
+- ¼ cup powdered sugar
+- ½ tsp vanilla extract
+
+#### B. Cooking Instructions
+
+**For the crust:**
+
+**1. Preheat oven to 350°F.**
+
+**2. Mix the crumbs, sugar, and melted butter.**
+Combine the graham cracker crumbs, sugar, and melted butter in a small bowl.
+
+**3. Press into the pan.**
+Pour the crumb mixture into an 8″–9.5″ pie pan and press it firmly into the bottom and a little way up the sides.
+
+**4. Bake 10 minutes, then cool.**
+Remove from the oven and allow to cool.
+
+**For the filling:**
+
+**1. Beat the cream cheese smooth.**
+Add the cream cheese to a mixing bowl and beat well with electric beaters until smooth.
+
+**2. Add the condensed milk, lime juice, and zest. Mix until smooth.**
+Add both cans of sweetened condensed milk, the lime juice, and the lime zest, and mix again until smooth.
+
+**3. Fill and bake. 10 minutes.**
+Pour into the prepared graham cracker crust and bake in the preheated oven.
+
+**4. Cool, then chill. At least 3 hours.**
+Allow the pie to cool for about 30 minutes, then refrigerate for at least 3 hours before serving.
+
+**For the whipped cream topping:**
+
+**1. Whip the cream. 1 minute.**
+Add the heavy cream to a mixing bowl and beat with electric mixers for 1 minute.
+
+**2. Add sugar and vanilla, and whip to stiff peaks.**
+Slowly add the powdered sugar and vanilla and continue beating until stiff peaks form. Spread or pipe the whipped cream on top of the cooled pie.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Premade graham cracker crust (9-inch) — what Cody's wife actually buys; use in place of the homemade crust ingredients below
+- 🛒 Graham crackers — about 12 full sheets, if making the crust from scratch instead
+- 🛒 Granulated sugar — ⅓ cup, for the crust
+- 🛒 Butter — 6 Tbsp, melted, for the crust
+- 🛒 Sweetened condensed milk — 2 (14 oz) cans
+- 🛒 Cream cheese — 4 oz
+- 🛒 Nellie & Joe's Key Lime Juice, or fresh limes — ¾ cup juice, plus zest from 2 regular limes or 4 key limes
+- 🛒 Heavy whipping cream — 1 cup
+- 🛒 Powdered sugar — ¼ cup
+- 🛒 Vanilla extract — ½ tsp
+
+#### Nutrition *(calories as printed on the source page; fat, protein, carbs, and fiber estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~5,330 | 250 g | 84 g | 695 g | 5 g |
+| **Per serving** *(serves 12, as printed)* | ~444 | 21 g | 7 g | 58 g | <1 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 12.
+
+**Open Questions:**
+- Whether Cody's household uses the homemade crust as written or the store-bought shortcut noted above by default — currently documented as an equal option.
+- Fat/protein/carbs/fiber are estimated from the ingredient list; only calories were printed on the source page.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -273,7 +273,7 @@ Click any recipe to jump straight to it.
 - [9.5 Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) ✅ 👍
 - [9.6 Beef Jerky](#96-beef-jerky) ✅ ❤️
 - [9.7 Chicken Salad](#97-chicken-salad) ✅ ❤️
-- [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ○ ❤️
+- [9.8 Jalapeño Poppers](#98-jalapeño-poppers) ✅ ❤️
 - [9.9 Shrimp Remoulade](#99-shrimp-remoulade) ✅ ❤️
 - [9.10 Crabmeat Avery](#910-crabmeat-avery) ✅ 🔖
 - [9.11 Melba Toasts](#911-melba-toasts) ✅
@@ -328,6 +328,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers) filled in** — Cody's all-time top snack finally has its recipe, transcribed from a family note signed *"Love, Mom"* and addressed to Vickie, kept as written. Sausage, cream cheese, and Parmesan stuffed into 22 halved jalapeños and baked at 425°F. **Mom's own serving caveat kept as a callout**: these don't travel well once cooked, so bake at the serving location if possible, or warm 5 minutes before serving if not. Also carries her freeze-ahead tip — the stuffed, unbaked peppers can be frozen for later. Rated 🟢 Easy — browning sausage and baking to a visual doneness cue, nothing that can break. Added to the Difficulty & Time Index; the Table of Contents status flips from ○ to ✅. |
 | 2026-08-13 | Added **[§14.6 Key Lime Pie](#146-key-lime-pie)** — transcribed from a printed recipe card (Tastes Better From Scratch, Lauren Allen). Graham cracker crust, a beaten cream cheese/condensed milk/lime filling, and a whipped cream topping. **Per Cody: his wife always buys a premade graham cracker crust rather than making one from scratch** — added as a called-out shortcut in the Ingredients (ahead of the homemade crust steps) and as its own line in the Grocery Shopping List, with the homemade crust ingredients kept as the documented alternative rather than removed. Rated 🟢 Easy — no roux, no emulsion, no stovetop custard; the filling is beaten and baked, not tempered. Nutrition uses the source's printed calories (444/serving) with fat/protein/carbs/fiber estimated from the ingredient list, flagged as such. |
 | 2026-08-13 | **[§9.7 Chicken Salad](#97-chicken-salad) — grapes called out as the recommended add-in, per Cody, and no added seasonings needed confirmed.** Red grapes (halved) split out from the "any or all" mix-in list into their own recommended line, ahead of the still-optional apples, celery, raisins, and pecans; grocery list reordered to match. Ingredients and instructions both updated. |
 | 2026-08-12 | **A whole Greek/Mediterranean meal, dictated by Cody — six new entries, all his own, none from a photographed page.** The centerpiece is **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)** ❤️ — Vegeta-rubbed pork loin sous vide'd in olive oil and butter, cut into medallions, hard-seared, then cubed and piled onto a bed of goat cheese spread across the platter, so the residual heat half-melts the cheese into a sauce. Grilled zucchini, squash, onions, and tomatoes around it; hummus and garlic naan alongside. **Its chicken version is folded in as a comparison table** rather than split off, per Cody's *"the chicken is out of this world."* Supporting entries: **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)** ❤️, **[§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan)**, and **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)** ❤️. **Two of the six are a new kind of entry for this cookbook: store-bought products rather than recipes** — **[§4.87 Cavender's All Purpose Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought)** 👍 and **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** ❤️. There's nothing to mix and nothing to time, so they carry no badge and no Nutrition block and stay out of the Difficulty & Time Index counts, the same treatment [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) already get; a carve-out sentence was added to *Reading this table* saying so. Cavender's turned out to already be in the cookbook — it's the finishing seasoning on [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) — so that's now cross-linked both ways. **Worth recording plainly: Vegeta is Croatian, not Greek**, despite carrying the Mediterranean flavor here; noted in the entry rather than quietly presented as Greek. **Five things flagged rather than invented, because Cody didn't say:** (1) **the pork loin's sous vide temperature and time are mine, not his** — 140°F for 2–4 hours, reasoned between [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s 129°F beef and [§T28](#t28-sous-vide-chicken-codys-method)'s 148°F chicken, and marked ⚠️ throughout plus an Open Question; (2) **[§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) is missing an ingredient** — Cody named lime juice and olive oil and said there's "something else," so the entry carries the two confirmed items in a ratio marked as mine, with candidates listed as unconfirmed and the ingredient list left honest; (3) **the garlic-in-the-bag exception** — Cody asked for real cloves in the sous vide bag, which collides with [§1 Cody's Pho](#1-codys-pho)'s standing no-fresh-garlic rule, so it's written his way with the reasons it's materially safer here (2–4 hr not 24–36, and 140°F) plus a stated safer alternative; (4) **no quantities were given for the salad**, so its amounts are labeled working proportions; (5) **a passage about mixing Vegeta with something — feta and naan both nearby — trails off mid-sentence**, so it's left out of both §7.59 and §9.21 and raised in each one's Open Questions instead of reconstructed. **Two deliberate departures from the standard recorded as stated, not corrected:** the salad uses **crumbled goat cheese, not feta** (Cody self-corrected from blue cheese and then repeated it emphatically — *"don't use feta unless you absolutely have to"*) and **green olives, not kalamata**; and both the vinaigrette and the hummus use **lime, where every published version uses lemon** — noted as worth confirming, since it could be a slip. Family Ratings Index updated: ❤️ 51 → 55, 👍 13 → 14. |
@@ -651,6 +652,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
+| [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) ❤️ | 🟢 | 20 min | 30 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) | 🟢 | 20 min | 35 min | **4 hr** *(broth simmer)* | 5 hr *(or spread across 2 days)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
@@ -16271,9 +16273,56 @@ Stop adding once it's the texture you want — there's no fixed amount, and it'l
 ---
 
 ### 9.8 Jalapeño Poppers
-> *Placeholder — details forthcoming.* Per Cody: **one of his all-time top snacks** — recipe not written down yet, but it's coming. Ingredients · Instructions · Grocery list all to be documented.
+
+Transcribed from a family recipe note — sausage, cream cheese, and Parmesan stuffed jalapeño halves, signed off *"Love, Mom"* and addressed to Vickie, kept as written.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~30 min** *(10 min browning the sausage, 15–20 min baking)* · **Start to finish ~50 min**
 
 **❤️ Family favorite** — *Cody: "Everybody's favorite."*
+
+#### A. Ingredients
+
+- 1 lb pork sausage
+- 1 package (8 oz) cream cheese, softened
+- 1 cup (4 oz) shredded Parmesan cheese
+- 22 large jalapeño peppers, halved lengthwise *(seed and devein depending on how hot you want them)*
+
+#### B. Cooking Instructions
+
+**1. Brown the sausage and drain well.**
+Cook the sausage in a skillet until browned through, then drain thoroughly — blot with paper towels to soak up the extra grease. A greasy filling won't hold together in the pepper halves.
+
+**2. Halve and seed the peppers.**
+Slice the jalapeños in half lengthwise. Seed and devein to taste — leave more in for heat, strip it out for a milder popper.
+
+**3. Mix the filling.**
+In a small mixing bowl, combine the cream cheese and Parmesan, then fold in the browned sausage.
+
+**4. Fill the peppers. About 1 tablespoon each.**
+Spoon roughly a tablespoon of filling into each pepper half. *This is a good stopping point to freeze them for later — freeze the stuffed peppers now, before baking.*
+
+**5. Bake. 15–20 minutes at 425°F.**
+Place on an ungreased baking sheet and bake uncovered until the filling is lightly browned and bubbly.
+
+> **Mom's note on serving:** these don't necessarily travel well once cooked — if you can bake them at the place you're serving them, that's better. If you have to bring them already cooked, warm them for about 5 minutes before serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pork sausage (bulk) — 1 lb
+- 🛒 Cream cheese — 1 (8 oz) package, softened
+- 🛒 Parmesan cheese, shredded — 1 cup (4 oz)
+- 🛒 Jalapeño peppers — 22 large
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(44 popper halves)* | ~2,930 | 251 g | 136 g | 30 g | 8 g |
+| **Per serving** *(serves 11, 4 halves each)* | ~265 | 23 g | 12 g | 3 g | <1 g |
+
+**What a serving is:** 4 popper halves — a normal appetizer-plate portion.
 
 [↑ Table of Contents](#table-of-contents)
 

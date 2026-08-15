@@ -322,12 +322,17 @@ Click any recipe to jump straight to it.
 
 - [15.1 Plain French Bread (Pain Français)](#151-plain-french-bread-pain-français) ✅
 
+**[16. Beverages](#16-beverages)** *(numbered 16, appended at the end — same reasoning as §14–§15)*
+
+- [16.1 Hot Apple Cider](#161-hot-apple-cider) ✅
+
 ---
 
 ## Changelog
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **New top-level section: [§16 Beverages](#16-beverages), numbered 16 and appended at the end (same reasoning as §14–§15) — this cookbook's first drink.** Added **[§16.1 Hot Apple Cider](#161-hot-apple-cider)**, transcribed from a handwritten card: a hot mulled cranberry-pineapple punch with whole cloves, allspice, and cinnamon sticks. **The card's own workaround for not having a percolator is kept as the method** — a big pot on the stove, brought to a boil then simmered 30–45 minutes — along with its explicit warning to strain the spices out right after cooking or the cider turns bitter. Rated 🟢 Easy. **A stray line of unrelated trivia-card text on the photographed page** ("In what year was the name 'University of Arkansas' adopted?") **was not part of the recipe and was left out of the transcription.** |
 | 2026-08-13 | **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers) filled in** — Cody's all-time top snack finally has its recipe, transcribed from a family note signed *"Love, Mom"* and addressed to Vickie, kept as written. Sausage, cream cheese, and Parmesan stuffed into 22 halved jalapeños and baked at 425°F. **Mom's own serving caveat kept as a callout**: these don't travel well once cooked, so bake at the serving location if possible, or warm 5 minutes before serving if not. Also carries her freeze-ahead tip — the stuffed, unbaked peppers can be frozen for later. Rated 🟢 Easy — browning sausage and baking to a visual doneness cue, nothing that can break. Added to the Difficulty & Time Index; the Table of Contents status flips from ○ to ✅. |
 | 2026-08-13 | Added **[§14.6 Key Lime Pie](#146-key-lime-pie)** — transcribed from a printed recipe card (Tastes Better From Scratch, Lauren Allen). Graham cracker crust, a beaten cream cheese/condensed milk/lime filling, and a whipped cream topping. **Per Cody: his wife always buys a premade graham cracker crust rather than making one from scratch** — added as a called-out shortcut in the Ingredients (ahead of the homemade crust steps) and as its own line in the Grocery Shopping List, with the homemade crust ingredients kept as the documented alternative rather than removed. Rated 🟢 Easy — no roux, no emulsion, no stovetop custard; the filling is beaten and baked, not tempered. Nutrition uses the source's printed calories (444/serving) with fat/protein/carbs/fiber estimated from the ingredient list, flagged as such. |
 | 2026-08-13 | **[§9.7 Chicken Salad](#97-chicken-salad) — grapes called out as the recommended add-in, per Cody, and no added seasonings needed confirmed.** Red grapes (halved) split out from the "any or all" mix-in list into their own recommended line, ahead of the still-optional apples, celery, raisins, and pecans; grocery list reordered to match. Ingredients and instructions both updated. |
@@ -653,6 +658,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) ❤️ | 🟢 | 20 min | 30 min | — | 50 min |
+| [§16.1 Hot Apple Cider](#161-hot-apple-cider) | 🟢 | 10 min | 40 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) | 🟢 | 20 min | 35 min | **4 hr** *(broth simmer)* | 5 hr *(or spread across 2 days)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
@@ -18586,6 +18592,67 @@ The source's own troubleshooting guide, kept whole because every line of it earn
 | **Per serving** *(12 servings, ¼ loaf)* | ~140 | 0.4 g | 4 g | 29 g | 1 g |
 
 **What a serving is:** about a quarter of a bâtard — a generous hand-torn chunk alongside dinner. Flour, water, salt, and yeast is the entire ingredient list, which is why the fat column is nearly empty; whatever butter lands on it at the table is its own decision.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+## 16. Beverages
+
+A new top-level section — numbered 16 and appended at the end, the same reasoning as [§14 Desserts](#14-desserts) and [§15 Breads](#15-breads): inserting it earlier would renumber existing sections and break their links. This cookbook's first drink.
+
+### 16.1 Hot Apple Cider
+
+Transcribed from a handwritten recipe card — a hot spiced cranberry-pineapple punch, mulled with whole cloves, allspice, and cinnamon sticks. **The card's own fix for not owning a percolator is kept as the method**: a big pot on the stove instead, brought to a boil and then simmered.
+
+> *"This is supposed to be made in a percolator, but I don't have one; so I put in a big pot and get it up to boiling point & then turn down & simmer 30–45 minutes. Strain. (Do not leave spices in after it is through cooking or it will become bitter.)"*
+
+**Yield:** about 3 quarts (12 cups)
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~40 min** *(bring to a boil, then simmer 30–45 min, mostly unattended)* · **Start to finish ~50 min**
+
+#### A. Ingredients
+
+- 32 oz cranberry juice
+- 46 oz pineapple juice
+- 3 cups water
+- 2 Tbsp whole cloves
+- 1 Tbsp whole allspice
+- 4–6 cinnamon sticks
+- ½ tsp salt
+- 1 cup firmly packed brown sugar
+
+#### B. Cooking Instructions
+
+**1. Combine everything in a big pot.**
+The card calls for a percolator, but a big pot on the stove works the same way — combine the cranberry juice, pineapple juice, water, cloves, allspice, cinnamon sticks, salt, and brown sugar.
+
+**2. Bring to a boil, then turn down and simmer. 30–45 minutes.**
+Get it up to a boil, then reduce the heat and let it simmer, mostly unattended.
+
+**3. Strain right away.**
+Strain out the spices as soon as it's done cooking. **Don't leave the spices sitting in the finished cider** — left in, they turn it bitter.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cranberry juice — 32 oz
+- 🛒 Pineapple juice — 46 oz
+- 🛒 Whole cloves — 2 Tbsp
+- 🛒 Whole allspice — 1 Tbsp
+- 🛒 Cinnamon sticks — 4–6
+- 🛒 Salt
+- 🛒 Brown sugar, firmly packed — 1 cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 12 cups)* | ~2,080 | 0 g | 2 g | 524 g | 1 g |
+| **Per serving** *(12 servings, 1 cup each)* | ~175 | 0 g | <1 g | 44 g | <1 g |
+
+**What a serving is:** 1 cup (8 oz) — a normal warm mug. This is a sweet punch, not a light drink — the brown sugar and both juices are concentrated sources of sugar, so the carb count is real.
 
 [↑ Table of Contents](#table-of-contents)
 

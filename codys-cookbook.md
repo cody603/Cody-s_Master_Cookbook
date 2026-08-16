@@ -169,6 +169,8 @@ Click any recipe to jump straight to it.
 - [5.21 Sautéed Kale](#521-sautéed-kale) ✅
 - [5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) ✅
 - [5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ✅ ❤️
+- [5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃 ○
+- [5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ○
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -239,6 +241,7 @@ Click any recipe to jump straight to it.
 - [7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) ✅
 - [7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken) ✅
 - [7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
+- [7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃 ○
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -263,6 +266,7 @@ Click any recipe to jump straight to it.
 - [8.18 Gazpacho](#818-gazpacho) ✅
 - [8.19 Crawfish Bisque (Bisque d'Écrevisses)](#819-crawfish-bisque-bisque-décrevisses) ✅
 - [8.20 Six-Onion Soup](#820-six-onion-soup) ✅
+- [8.21 Five-Way Chili](#821-five-way-chili) ○
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -299,6 +303,7 @@ Click any recipe to jump straight to it.
 - [10.6 Irish Soda Bread](#106-irish-soda-bread) ✅
 - [10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) ✅
 - [10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) ○ *(incomplete — most of the page not photographed)*
+- [10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) ○
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
@@ -317,6 +322,8 @@ Click any recipe to jump straight to it.
 - [14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) ✅
 - [14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) ✅
 - [14.6 Key Lime Pie](#146-key-lime-pie) ✅
+- [14.7 Apple Nut Ring](#147-apple-nut-ring) ○
+- [14.8 Blueberry Cobbler](#148-blueberry-cobbler) ○
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -332,6 +339,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Seven new placeholders added from a dictated list, recipes and details still to come:** [§5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃, [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes), [§7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃, [§8.21 Five-Way Chili](#821-five-way-chili), [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits), [§14.7 Apple Nut Ring](#147-apple-nut-ring), and [§14.8 Blueberry Cobbler](#148-blueberry-cobbler) — the last kept separate from the existing [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) rather than merged in. **Three things resolved from a messy dictation rather than guessed:** a garbled "Half potatoes" immediately followed by "Heather's mashed potatoes" is read as a self-correction and written up as one entry, not two; "I forgot about stuffing" is read as circling back to Nana's Chicken and Dressing (already captured) rather than a distinct new item, since [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) already exists separately; and **a standalone "homemade biscuits" placeholder was explicitly retracted mid-dictation** ("Actually forget homemade biscuits") and was not added — [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) stays, since that's a paired dish named earlier and never retracted. **Cranberry Sauce's own description is self-contradictory and flagged rather than resolved**: called "homemade" but also *"I think they just follow the package, which is good"* — read as a package-back method, noted in the entry itself for Cody to confirm when the recipe comes in. |
 | 2026-08-13 | **New top-level section: [§16 Beverages](#16-beverages), numbered 16 and appended at the end (same reasoning as §14–§15) — this cookbook's first drink.** Added **[§16.1 Hot Apple Cider](#161-hot-apple-cider)**, transcribed from a handwritten card: a hot mulled cranberry-pineapple punch with whole cloves, allspice, and cinnamon sticks. **The card's own workaround for not having a percolator is kept as the method** — a big pot on the stove, brought to a boil then simmered 30–45 minutes — along with its explicit warning to strain the spices out right after cooking or the cider turns bitter. Rated 🟢 Easy. **A stray line of unrelated trivia-card text on the photographed page** ("In what year was the name 'University of Arkansas' adopted?") **was not part of the recipe and was left out of the transcription.** |
 | 2026-08-13 | **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers) filled in** — Cody's all-time top snack finally has its recipe, transcribed from a family note signed *"Love, Mom"* and addressed to Vickie, kept as written. Sausage, cream cheese, and Parmesan stuffed into 22 halved jalapeños and baked at 425°F. **Mom's own serving caveat kept as a callout**: these don't travel well once cooked, so bake at the serving location if possible, or warm 5 minutes before serving if not. Also carries her freeze-ahead tip — the stuffed, unbaked peppers can be frozen for later. Rated 🟢 Easy — browning sausage and baking to a visual doneness cue, nothing that can break. Added to the Difficulty & Time Index; the Table of Contents status flips from ○ to ✅. |
 | 2026-08-13 | Added **[§14.6 Key Lime Pie](#146-key-lime-pie)** — transcribed from a printed recipe card (Tastes Better From Scratch, Lauren Allen). Graham cracker crust, a beaten cream cheese/condensed milk/lime filling, and a whipped cream topping. **Per Cody: his wife always buys a premade graham cracker crust rather than making one from scratch** — added as a called-out shortcut in the Ingredients (ahead of the homemade crust steps) and as its own line in the Grocery Shopping List, with the homemade crust ingredients kept as the documented alternative rather than removed. Rated 🟢 Easy — no roux, no emulsion, no stovetop custard; the filling is beaten and baked, not tempered. Nutrition uses the source's printed calories (444/serving) with fat/protein/carbs/fiber estimated from the ingredient list, flagged as such. |
@@ -9602,6 +9610,22 @@ Shake the vinaigrette again and add it just before serving. Romaine holds up bet
 
 ---
 
+### 5.24 Cranberry Sauce
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**🦃 Holiday side.** Per Cody: homemade, and easy — *"I think they just follow the package, which is good."* That reads as a package-back recipe (like the one on a bag of fresh/frozen cranberries) rather than one built from scratch measurements — flagged in Open Questions rather than assumed either way until the actual method is captured.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.25 Heather's Mashed Potatoes
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -14242,6 +14266,15 @@ Everything above holds, with these changes:
 
 ---
 
+### 7.60 Nana's Chicken and Dressing
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+**🦃 Holiday main.** Nana's recipe, per Cody.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -16054,6 +16087,13 @@ Ladle into heated bowls and garnish with toasted French bread croutons, snipped 
 
 ---
 
+### 8.21 Five-Way Chili
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. Distinct from **[§8.1 Chili](#81-chili)** — worth confirming whether this is the layered spaghetti/chili/cheese/onions/beans style once it's written up.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 9. Snacks & Light Meals
 
 ### 9.1 Almond Flour Chips and Salsa
@@ -17613,6 +17653,13 @@ Not yet calculable — the shellfish quantity and the egg-and-cream custard, whi
 
 ---
 
+### 10.9 Chocolate Gravy and Biscuits
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 11. Southern Keto Baking & Sides
 
 The "Southern keto" entries are low-carb rebuilds of Southern staples — almond flour and the like standing in for wheat flour, potatoes, and cornmeal. Worth capturing the substitution logic once these get written up, since the same swaps repeat across the group. **[§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad)** is the first one filled in, and its swap is the template for the rest: **frozen cauliflower florets for potatoes**, **liquid stevia for sugar** in the dressing — same texture and richness, a fraction of the carbs.
@@ -18412,6 +18459,20 @@ Slowly add the powdered sugar and vanilla and continue beating until stiff peaks
 **Open Questions:**
 - Whether Cody's household uses the homemade crust as written or the store-bought shortcut noted above by default — currently documented as an equal option.
 - Fat/protein/carbs/fiber are estimated from the ingredient list; only calories were printed on the source page.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.7 Apple Nut Ring
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.8 Blueberry Cobbler
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. Distinct from **[§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler)** — kept as its own entry rather than merged in.
 
 [↑ Table of Contents](#table-of-contents)
 

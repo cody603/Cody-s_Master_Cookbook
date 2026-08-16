@@ -385,6 +385,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **[§T29 How to Salt](#t29-how-to-salt) rewritten in plain language, per Cody — same content, aimed at a 12-year-old reader.** Nothing was cut; the cookbook-jargon words came out (*diagnostic, palate, salinity, assertively, conservatively, in ascending order of surrender*) and everything is now said in ordinary words a kid could follow. All the cross-links, the timing ladder, and the 1%/2% starting numbers survive unchanged — the point was to make the entry usable by anyone in the house, not to simplify the cooking. **Also added its companion, [§T30 How to Use Fat](#t30-how-to-use-fat)**, from the same source: what job the fat is doing (main ingredient, cooking medium, or seasoning), why fat carries flavor further than water does, how to pick and *smell-test* olive oil, and the five textures fat makes — crisp, creamy, flaky, tender, light — each with the rule that governs it. **Wired into what this cookbook already has** rather than left standalone: [§T2 Hot Pan First](#t2-hot-pan-first-then-oil) is the preheat rule, [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) the emulsion math, [§T8](#t8-pan-sauce-formula) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) the butter-sauce trick, [§4.86](#486-beurre-noir--beurre-noisette-brown-butter-sauce) brown butter, [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) the flaky-dough section as a real recipe, and [§T3](#t3-butter-oil-pan-frying--frying) the same ground from the Cajun side. **One genuine tension flagged rather than smoothed over:** §T30's smoke-point section tops out at 400°F, but [§T1 How to Make a Roux](#t1-how-to-make-a-roux) deliberately runs oil past 500°F — noted in-place as the exception that proves the rule, and part of why §T1 is the most dangerous technique in this cookbook. |
 | 2026-08-13 | **Added [§T29 How to Salt](#t29-how-to-salt) — a full technique entry on salting, credited to Samin Nosrat, per Cody.** Covers why salt works (it's not "add saltiness," it's what makes other flavors read as themselves), how to choose between kosher, fine sea, and flaky finishing salts, the timing ladder from days-ahead dry brines down to right-before-serving flaky finishes, why salting cooking water seasons food from the inside rather than "wasting" salt, the three hand motions for actually applying it (pinch, palmful, wrist wag), rough salt-by-weight percentages as a starting point rather than a rule, how to layer salt from ingredients (anchovies, cheese, fish sauce) rather than the box alone, salt's relationship to pepper and to dessert, the three moves for a dish that's gone too salty, and the closing habit — stir, taste, adjust, always. **Cross-linked into the existing cookbook rather than left standalone**: [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28 Sous Vide](#t28-sous-vide-chicken-codys-method), and [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure are all named as the timing ladder's "days ahead" and "a day ahead" cases already living in this cookbook; [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) is named as the unsalted base for the Caesar-dressing layering example. **[§T16's own source note is updated to point at this entry** — both are credited to Nosrat now, which corroborates the earlier inferred attribution without formally confirming it against a title page. Added to the Techniques quick index as T29, the next open number after T28. |
 | 2026-08-13 | Added **[§7.67 Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad)** — from **Steven Raichlen's *How to Grill*** (p. 276–279), following its own "How to Grill Quail" technique spread, the same treatment already given [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) and its ribs spread from the same book. A spice-rubbed, buttermilk-marinated quail skewered flat on three bamboo skewers, grilled hot and fast, served over mesclun, Roquefort, and grilled pears with a hazelnut oil dressing. Rated 🟡 Medium — quail is small, lean, and quick to overcook, and getting three skewers through a boned bird flat and even takes some care. Kept the source's own substitution notes (goat cheese or Cheddar for the Roquefort; dried cranberries or cherries for the currants) and its "also good for" line naming other proteins the rub and marinade suit. |
 | 2026-08-13 | **[§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) updated, not duplicated — Cody sent the same source pages again, but this recipe was already fully transcribed.** Added his own cut preference instead: **St. Louis-cut or spare ribs in place of baby backs.** The marinade, trim, and grill setup all carry over unchanged; cook time doesn't — St. Louis and spare racks are bigger and have more connective tissue to render, so **Claude's own estimate** (not the source's) is roughly 1¾–2½ hr for St. Louis cut or 2–3 hr for full spares at the same medium heat, against the source's 1¼–1½ hr for baby backs. Flagged clearly as an estimate rather than folded into the source's own timing, and the badge, grocery list, and ingredients all note the substitution. |
@@ -6601,6 +6602,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method) | `sous-vide` `steak` `tenderizing` `sear` `cast-iron` `formula` |
 | [T28](#t28-sous-vide-chicken-codys-method) | Sous Vide Chicken (Cody's Method) | `sous-vide` `chicken` `poultry` `sear` `cast-iron` `formula` |
 | [T29](#t29-how-to-salt) | How to Salt | `salt` `seasoning` `timing` `tasting` `brine` `salting-water` `layering` |
+| [T30](#t30-how-to-use-fat) | How to Use Fat | `fat` `oil` `butter` `olive-oil` `crisp` `emulsion` `flaky` `tender` `smoke-point` `rendering` |
 
 ---
 
@@ -8767,116 +8769,116 @@ Not tracked here — like [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys
 <!-- TECHNIQUE-TAGS: salt, seasoning, timing, tasting, brine, salting-water, layering -->
 **Tags:** `salt` · `seasoning` · `timing` · `tasting` · `brine` · `salting-water` · `layering`
 **Source:** Samin Nosrat, per Cody — almost certainly her *Salt, Fat, Acid, Heat*, going by the framing and content, though this entry is Cody's own distillation rather than a photographed page, so it's transcribed as a paraphrase and taught here in his words rather than quoted as the book's exact text. **The same book is the presumed source behind [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** — that one was inferred from illustration style and never confirmed against a title page either; the two entries now corroborate each other without either being a hard confirmation.
-**Used in:** every recipe in this cookbook touches salt somewhere, but especially the ones already built around *when* to salt — [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s dry brine, [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method)'s sous vide salting, [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure, and the salted-boiling-water steps in [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and [§T20 Fresh Pasta](#t20-fresh-pasta-and-how-to-cut-it).
+**Used in:** every recipe in this cookbook touches salt somewhere, but especially the ones already built around *when* to salt — [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s dry brine, [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method)'s sous vide salting, [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure, and the salted-boiling-water steps in [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and [§T20 Fresh Pasta](#t20-fresh-pasta-and-how-to-cut-it). **Read alongside [§T30 How to Use Fat](#t30-how-to-use-fat)** — same source, and the two techniques interact directly.
 
 #### The big idea
 
-Salt isn't a flavor you add on top — it's the thing that makes everything else taste like itself. Used well, it pulls sweetness forward, tamps down bitterness, and makes aromas land harder. Used badly (which almost always means *too little*, added *too late*), food tastes flat and you can't quite say why. The goal isn't more salt, it's salt in the right amount, at the right moment, in the right form.
+Salt isn't a flavor you add on top. It's the thing that makes everything else taste more like itself. Used right, it brings out sweetness, hides bitterness, and makes smells hit harder. Used wrong — which almost always means *too little*, added *too late* — food tastes flat and you can't say why. The goal isn't more salt. It's the right amount, at the right time, in the right form.
 
-The tell that you've gotten it right isn't saltiness. It's a kind of brightening — the dish suddenly seems more vivid, more like a finished thing. If you taste something and think "salty," you've overshot. If you taste something and think "good, but…", it's almost certainly undersalted.
+Here's how you know you got it right: the food doesn't taste salty. It just tastes *better*. Brighter. More finished. If you taste it and think "salty," you went too far. If you taste it and think "good, but something's missing" — it almost always needs salt.
 
-**The diagnostic trick:** when a dish tastes dull, don't dump salt into the whole pot. Pull out a spoonful, salt just that, taste it against the unsalted version. If the small sample snaps into focus, you have your answer and can season the batch with confidence.
+**A trick for when you're not sure:** if a dish tastes boring, don't dump salt in the whole pot. Scoop out one spoonful, salt just that spoonful, and taste it next to the unsalted version. If the little sample suddenly tastes great, now you know, and you can salt the whole batch without guessing.
 
-#### Choosing your salt
+#### Picking your salt
 
-Different salts are wildly different in strength *by volume*, because the crystals are different shapes and pack differently. A tablespoon of fine, dense salt can be two or three times as salty as a tablespoon of big flaky salt. This is why swapping brands one-for-one wrecks a recipe.
+Different salts are way stronger than each other **when you measure by the spoonful**, because the grains are different shapes and pack together differently. A tablespoon of fine, heavy salt can be two or three times saltier than a tablespoon of big flaky salt. That's why swapping brands without thinking wrecks a recipe.
 
-- **Kosher salt** is the everyday workhorse — cheap, clean-tasting, forgiving. The two common brands are not interchangeable: one is light and hollow-flaked, the other is dense and roughly twice as salty by volume. Coarse, light flakes dissolve faster, cling to food better, and give you a wider margin before you overshoot.
-- **Fine sea salt** is the practical choice for seasoning from within — salting water, doughs, batters, brines.
-- **Flaky finishing salts** (Maldon, fleur de sel, sel gris) are texture purchases. Their whole point is the crunch and the way they hit the tongue. Wasting them in pasta water is like using good olive oil to grease a pan.
-- **Iodized table salt** is worth abandoning. It carries a faint metallic edge, and the anticaking additives do nothing for you.
+- **Kosher salt** is your everyday salt — cheap, clean-tasting, hard to mess up. Watch out: the two big brands are *not* the same. One is light and flaky; the other is heavy and about twice as salty per spoonful. Big light flakes melt faster, stick to food better, and give you more room to catch yourself before you overdo it.
+- **Fine sea salt** is best when you want salt to disappear into something — salting water, dough, batter, brine.
+- **Flaky finishing salts** (Maldon, fleur de sel, sel gris) are for crunch. That's the whole point of them. Dumping them in pasta water is like using expensive olive oil to grease a pan — a waste.
+- **Iodized table salt** — just stop buying it. It has a faint metal taste, and the stuff they add to keep it from clumping does nothing good for you.
 
-The practical move: keep two salts. A cheap one you cook with constantly, and a nice flaky one you scatter at the last second.
+The simple move: keep two salts. A cheap one you cook with all the time, and a nice flaky one you sprinkle on at the very end.
 
-Then *learn* the one you cook with. How coarse is it? How fast does it melt in boiling water? How much of it does a chicken need? Familiarity is worth more than owning six varieties.
+Then *get to know* the one you cook with. How big are the grains? How fast does it melt in boiling water? How much does a chicken need? Knowing your one salt well beats owning six kinds.
 
-#### Timing: the single biggest lever
+#### Timing matters more than amount
 
-Salt is slow. It takes time to move from the surface into the middle of a piece of food. So **when** you salt matters more than **how much** — a modest amount applied early beats a heavy hand applied at the table.
+Salt is slow. It takes time to travel from the outside of the food into the middle. So **when** you salt matters more than **how much** — a little salt added early beats a lot added at the table.
 
-Roughly, working outward from the plate:
+Working backward from dinner:
 
-- **Days ahead** — big, dense, sinewy cuts: whole turkeys, roasts, short ribs, shanks, oxtails. The bigger and colder it is, the more lead time it needs. *(This is the same reasoning behind [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s 5–7 day dry-brine cure.)*
-- **A day ahead** — a whole chicken, thick steaks, duck, quail. Also: a pot of dried beans, salted the moment you set them to soak.
-- **Hours ahead, or whenever you remember** — anything you meant to salt earlier. Some head start always beats none. If you're short on time, leave the meat on the counter rather than returning it to the fridge; warmth speeds things along, and so does breaking the food into smaller pieces.
-- **15–20 minutes ahead** — watery vegetables headed for the grill or oven (eggplant, zucchini, tomatoes, cabbage for slaw), thick tuna or swordfish steaks. Pat them dry before cooking, since salt will have pulled moisture to the surface.
-- **Just before cooking** — delicate fish and shellfish, vegetables going in to roast, scrambled eggs, and the water in your pot.
-- **While cooking** — mushrooms (wait until they've started browning, or they'll weep), sautéed vegetables, simmering sauces.
-- **Right before serving** — salad, and anything getting a flaky-salt finish.
+- **Days ahead** — big, tough, thick cuts: whole turkeys, roasts, short ribs, shanks, oxtails. The bigger and colder it is, the more time it needs. *(Same idea behind [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s 5–7 day cure.)*
+- **A day ahead** — a whole chicken, thick steaks, duck, quail. Also dried beans, salted right when you set them to soak.
+- **A few hours ahead, or whenever you remember** — anything you *meant* to salt earlier. A little head start always beats none. Short on time? Leave the meat on the counter instead of putting it back in the fridge — warm food takes salt faster. Cutting it into smaller pieces helps too.
+- **15–20 minutes ahead** — watery vegetables headed for the grill or oven (eggplant, zucchini, tomatoes, cabbage for slaw), and thick tuna or swordfish steaks. Pat them dry before cooking, because the salt will have pulled water up to the surface.
+- **Right before cooking** — delicate fish and shellfish, vegetables going in to roast, scrambled eggs, and the water in your pot.
+- **While it's cooking** — mushrooms (wait until they've started to brown, or they'll go watery), sautéed vegetables, simmering sauces.
+- **Right before serving** — salad, and anything getting a flaky-salt sprinkle.
 
-Two caveats. Fish and shellfish are the exception to "earlier is better" — more than about fifteen minutes and delicate fish turns tough and dry; meatier steaks of tuna or swordfish can take maybe thirty. And meat can be salted *too* early: past a day or two it starts drifting toward cured rather than fresh. If your plans change, freeze it salted and pick up where you left off.
+Two exceptions. **Fish and shellfish break the "earlier is better" rule** — more than about fifteen minutes and delicate fish gets tough and dry. Thicker tuna or swordfish can handle maybe thirty. And meat can be salted *too* early: after a day or two it starts turning into cured meat instead of fresh meat. If your plans change, throw it in the freezer salted and pick up where you left off.
 
-A useful framing for meat: instead of asking "how much salt?", ask "how much time until I eat?" A day gets you a bird you can season whole and let sit — see [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) and [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s own dry-brine option for exactly this trade-off, spelled out for a specific cut. Eight hours gets you a spatchcocked bird seasoned on both sides. Twenty minutes means break it down small and use a wet cooking method — a broth, a braise, a splash of wine — so the liquid can carry seasoning inward for you.
+A good way to think about meat: instead of asking "how much salt?", ask **"how long until we eat?"** A full day means you can salt a whole bird and let it sit — see [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) and [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) for exactly this trade-off on a real cut. Eight hours means split the bird open and salt both sides. Twenty minutes means cut it into small pieces and cook it in liquid — a broth, a braise, a splash of wine — so the liquid carries the salt inward for you.
 
-#### Salting water is seasoning, not waste
+#### Salting the water isn't wasting salt
 
-Cooking in properly salted water seasons food from the inside out. Roast a potato with salt on the outside and you taste salt on the outside; simmer one in seasoned water and the seasoning is all the way through. Vegetables boiled in well-salted water also stay greener, cook faster, and hold on to more of their own flavor instead of leaching it into the pot.
+Food cooked in salty water gets seasoned all the way through. Roast a potato with salt on the outside and you taste salt on the outside. Boil one in salty water and it's seasoned to the middle. Vegetables boiled in well-salted water also stay greener, cook faster, and keep more of their own flavor instead of losing it to the pot.
 
-Season the water generously and taste it before anything goes in. It should be assertively seasoned — noticeably salty, though not seawater-salty. It doesn't matter whether you salt before or after the pot goes on the heat, only that the salt fully dissolves before the food arrives. Watch a pot that's been boiling a long time, though: as water evaporates the seasoning concentrates, so taste and correct with more water or more salt.
+Salt the water generously and **taste it before the food goes in**. It should taste clearly salty — but not like ocean water. It doesn't matter if you salt before or after the pot goes on the stove, as long as the salt fully melts before the food arrives. One thing to watch: if a pot's been boiling a long time, water evaporates and the salt gets stronger. Taste it, then fix it with more water or more salt.
 
-Two adjustments: grains like rice, farro, and quinoa cook long enough for salt to distribute well, so they need less aggressive salting than blanching water. And whenever *all* the cooking liquid gets absorbed, be careful — all the salt stays in the food, so underseason rather than over.
+Two adjustments. Rice, farro, and quinoa cook long enough for salt to spread out well, so they need less salt in the water than blanching vegetables do. And any time *all* the liquid gets soaked up, be careful — all the salt stays in the food too, so go light rather than heavy.
 
-For braises, stews, and poached meats, salt the meat properly in advance but season the liquid conservatively, since you'll be eating that liquid. Taste and adjust both at the end.
+For braises, stews, and poached meats, salt the meat well ahead of time but go easy on the liquid, since you'll be eating that liquid. Taste and fix both at the end.
 
 #### How to actually put salt on food
 
-Get rid of the shaker. Pour salt into an open bowl wide enough to fit your whole hand — you can't season well through a hole the size of a pinhead. Professional kitchens improvise salt bowls out of whatever's around because working from a bowl is that much better.
+Ditch the shaker. Pour salt into an open bowl wide enough for your whole hand. You can't season well through a hole the size of a pinhead. Real kitchens make salt bowls out of whatever's lying around, because working from a bowl is that much better.
 
-Three hand motions, each for a different job:
+Three hand moves, each for a different job:
 
-- **The pinch** — precision work. A few grains on avocado toast, halved boiled eggs, individual caramels. Perfect for making sure one bite is exactly right; useless for a whole tray of squash, where your wrist will quit before you finish.
-- **The palmful** — bulk seasoning. Grab a handful and let it go.
-- **The wrist wag** — the technique worth practicing. Hold a palmful loosely and let it shower down as you sweep your wrist across the surface. This is how you get even coverage over a tray of vegetables, a big cut of meat, a sheet of dough.
+- **The pinch** — for precision. A few grains on avocado toast, on halved boiled eggs, on one caramel. Great for getting a single bite exactly right. Useless for a whole tray of squash — your hand will get tired way before you finish.
+- **The palmful** — for covering a lot. Grab a handful and let it go.
+- **The wrist wag** — the one worth practicing. Hold a palmful loosely and let it rain down while you sweep your wrist across the food. This is how you get even coverage on a tray of vegetables, a big cut of meat, or a sheet of dough.
 
-Dry your hands first or the salt sticks to your skin. Then practice over parchment or a sheet pan and *look* at where it lands. Uneven scatter means unevenly seasoned food. Loose, flowing motions distribute evenly; stiff or jerky ones don't. Pour it back and try again — it costs nothing.
+Dry your hands first or the salt sticks to your fingers. Then practice over parchment paper or a sheet pan and *look* at where it lands. Blotchy scatter means blotchy seasoning. Loose, flowing motions spread it evenly; stiff, jerky ones don't. Pour it back in the bowl and try again — it costs you nothing.
 
-Build visual landmarks while you're at it. A properly seasoned chicken going onto the spit should look like a light snow has fallen on it. Notice what your seasoning looks like, then notice how the food tastes at the table, and connect the two. That feedback loop is how you stop measuring.
+While you're at it, build a picture in your head of what "seasoned" looks like. A properly salted chicken should look like a light snow fell on it. Notice how it looked going in, then notice how it tasted at the table, and connect the two. That's how you stop needing to measure.
 
-#### Measuring by tongue, not spoon
+#### Measuring with your tongue, not a spoon
 
-Your palate is the real instrument. Kitchens are never identical twice — different pot, different volume of water, different size chicken — so a fixed number can only ever be a starting point.
+Your mouth is the real tool here. No two times in the kitchen are the same — different pot, different amount of water, different size chicken — so a number in a recipe is only ever a starting point.
 
-If you want numbers to start from, the general ratios are roughly 1% salt by weight for meats, vegetables and grains, and about 2% salinity for blanching and pasta water. Doughs and batters run a bit higher, meat on the bone a bit higher than boneless.
+If you want numbers to start from: about **1% salt by weight** for meat, vegetables, and grains, and about **2% salt** for blanching and pasta water. Dough and batter want a little more. Meat on the bone wants a little more than boneless.
 
-If those amounts alarm you, run the experiment: set up two pots of water, season one the way you always have and one to about 2% salinity. Cook half your green beans (or pasta) in each and taste them side by side. The comparison is more persuasive than any argument.
+If those numbers sound like a lot, test it yourself: set up two pots of water, salt one the way you always do and one to about 2%. Cook half your green beans (or pasta) in each and taste them side by side. Trying it beats arguing about it.
 
-#### Layering: salt comes from more places than the box
+#### Salt comes from more places than the salt box
 
-Plenty of ingredients are already salt delivery vehicles — anchovies, capers, olives, cured meats, cheese, soy sauce, fish sauce, miso, pickles and krauts, seaweed, most condiments, salted butter. Working several of these into one dish is how you build depth rather than just salinity.
+Lots of ingredients are already salty — anchovies, capers, olives, bacon and cured meats, cheese, soy sauce, fish sauce, miso, pickles, sauerkraut, seaweed, most condiments, salted butter. Using several of these in one dish is how you build real depth instead of just making it salty.
 
-The discipline is to plan for them *before* you start. If you salt as you go without accounting for the anchovies and Parmesan arriving later, you'll blow past the target.
+The trick is to **plan for them before you start**. If you salt as you go and forget about the anchovies and Parmesan coming later, you'll blow right past where you wanted to be.
 
-Caesar dressing is the standard exercise. Anchovies, Parmesan, Worcestershire, garlic pounded with salt, plus salt itself — five sources. Build an unsalted mayonnaise base first, then work each salty ingredient in gradually, tasting between additions. Add acid to balance as you go. Hold the salt crystals back until every other flavor is where you want it, then adjust with actual salt only for the gap that's left. And because dressing tastes different on a leaf than off a spoon, dip a piece of lettuce in for the final check. *(The unsalted mayonnaise base itself is [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s Golden Mayo Ratio.)*
+Caesar dressing is the classic practice run. Anchovies, Parmesan, Worcestershire, garlic mashed with salt, plus salt itself — five sources of salt in one dressing. Start with an unsalted mayonnaise base, then add each salty ingredient a little at a time, tasting between each one. Add something acidic to balance as you go. Save the actual salt for last, and only use it to fill whatever gap is left. And since dressing tastes different on a leaf than off a spoon, dip a piece of lettuce in for the final check. *(That unsalted mayo base is [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s Golden Mayo Ratio.)*
 
-The general habit: when a dish needs more salt, pause and ask *where that salt should come from*. More anchovy? More cheese? A splash of fish sauce? Sometimes plain salt is right. Often something else is better, because it brings flavor along with the salinity.
+The habit to build: when a dish needs more salt, stop and ask *where should that salt come from?* More anchovy? More cheese? A splash of fish sauce? Sometimes plain salt is the right answer. Often something else is better, because it brings flavor along with the salt.
 
-#### Salt with pepper, and salt with sugar
+#### Salt with pepper, and salt in desserts
 
-Pepper isn't salt's automatic partner. Salt belongs nearly everywhere; pepper is a spice, and whether it belongs depends on the dish and the tradition it comes from. Plenty of cuisines reach for cumin, chili, or za'atar where others reach for black pepper. Decide deliberately rather than by reflex.
+Pepper is not salt's automatic sidekick. Salt belongs in almost everything; pepper is a spice, and whether it fits depends on the dish. Plenty of cuisines reach for cumin, chili, or za'atar where others reach for black pepper. Decide on purpose instead of out of habit.
 
-When you do use pepper, buy whole peppercorns and grind at the last moment — the aromatic oils are released by grinding and again by heat, and preground spice has been quietly leaking flavor for months. Whole peppercorns dropped into a brine, braise, or pot of beans at the start do something a sprinkle at the end never can.
+When you do use pepper, buy whole peppercorns and grind them right before you use them. Grinding releases the flavor oils, and heat releases more — pre-ground pepper has been leaking its flavor away for months on the shelf. Whole peppercorns dropped into a brine, a braise, or a pot of beans at the start do something a sprinkle at the end never can.
 
-And don't drop your salt instincts when you make dessert. The base ingredients of sweets — flour, butter, eggs, cream — are among the blandest things in the kitchen, and you'd never leave them unseasoned in a savory dish. A pinch or two whisked into a dough, batter, or custard lifts everything. To convince yourself, split a batch of cookie dough and leave salt out of half; the salted batch will taste noticeably nuttier and more buttery.
+And don't forget salt when you make dessert. The main ingredients in sweets — flour, butter, eggs, cream — are some of the blandest things in the kitchen, and you'd never leave them unsalted in a savory dish. A pinch or two whisked into a dough, batter, or custard lifts everything. Want proof? Split a batch of cookie dough and leave the salt out of half. The salted half will taste noticeably nuttier and more buttery.
 
-Match the salt to how it'll be eaten: fine salt where you want it to disappear into the dough, flaky salt on top where you want the crunch.
+Match the salt to how it gets eaten: fine salt when you want it to vanish into the dough, flaky salt on top when you want the crunch.
 
-#### When you oversalt
+#### When you put in too much salt
 
-You have three moves, in ascending order of surrender.
+Three options, from best to worst.
 
-**Dilute** — add more of the unsalted components, or more liquid, and stretch the salt across a bigger volume.
+**Water it down** — add more of the unsalted stuff, or more liquid, so the salt gets spread across more food.
 
-**Transform** — stop trying to save the dish and make it a different dish, where the oversalted thing is one component among many. Shred that too-salty meat into a stew, a chili, a hash, a ravioli filling. Overshot on flaky white fish? Lean in and take it toward salt cod.
+**Turn it into something else** — stop trying to rescue the dish and make it a different dish, where the too-salty thing is just one piece of it. Shred that over-salted meat into a stew, a chili, a hash, or a ravioli filling. Went too far on flaky white fish? Lean into it and head toward salt cod.
 
-**Admit defeat** — occasionally the right call is to start over or order a pizza. It's dinner. There's another one tomorrow.
+**Give up** — sometimes the right call is to start over or order a pizza. It's one dinner. There's another one tomorrow.
 
-More usefully: treat both under- and overseasoning as data. The reason mistakes happen is almost always that you weren't tasting along the way.
+More useful than any of that: treat both under-salting and over-salting as information. Mistakes almost always happen because you weren't tasting along the way.
 
-#### The habit that ties it together
+#### The habit that ties it all together
 
-**Stir, taste, adjust.** Taste everything, at every stage — the onions, the raw components, the mixture before it goes in the oven, the water before the pasta. Not once at the end. Make salt the first thing you check when you taste and the last thing you correct before serving.
+**Stir, taste, fix.** Taste everything, at every stage — the onions, the raw ingredients, the mix before it goes in the oven, the water before the pasta. Not just once at the end. Make salt the first thing you check when you taste and the last thing you fix before serving.
 
-This is the actual skill. Recipes and ratios are training wheels; constant tasting is what replaces them. Once tasting is reflexive, you stop needing to be told when to salt, because you can feel when a dish is nearly there and what it's missing — and at that point you can start cooking without a recipe at all.
+That's the real skill. Recipes and ratios are training wheels; tasting constantly is what replaces them. Once tasting becomes automatic, nobody has to tell you when to salt — you can feel when a dish is close and what it's missing. And that's the point where you can cook without a recipe at all.
 
 #### Grocery Shopping List
 
@@ -8888,6 +8890,189 @@ The two-salt standing shelf this entire entry assumes.
 - 🛒 Flaky finishing salt (Maldon, fleur de sel, or sel gris) — for scattering just before serving, not for cooking
 - 🛒 Fine sea salt — for salting water, doughs, batters, and brines
 - 🛒 Whole black peppercorns, for a pepper mill — skip pre-ground
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T30. How to Use Fat
+
+<!-- TECHNIQUE-TAGS: fat, oil, butter, olive-oil, crisp, emulsion, flaky, tender, smoke-point, rendering -->
+**Tags:** `fat` · `oil` · `butter` · `olive-oil` · `crisp` · `emulsion` · `flaky` · `tender` · `smoke-point` · `rendering`
+**Source:** Samin Nosrat, per Cody — the companion piece to [§T29 How to Salt](#t29-how-to-salt), from the same book (*Salt, Fat, Acid, Heat*). Same caveat as §T29: this is Cody's own distillation rather than a photographed page, so it's a paraphrase rather than the book's exact wording.
+**Used in:** [§T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) covers the same ground from the Cajun side and is worth reading alongside this · [§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) is the "preheat the pan, then the fat" rule as its own entry · [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) is the emulsion section spelled out with real numbers · [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) are the butter-sauce trick · [§4.86 Beurre Noir / Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) is brown butter · [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) is the flaky-dough section as an actual recipe
+
+#### The big idea
+
+Food can only taste as good as the fat you cook it in. That's the whole lesson. Cook an onion in butter and it tastes one way. Cook it in good olive oil and it tastes another. Cook it in bad, old olive oil and the whole dish tastes a little off — even if everything else you did was perfect.
+
+Fat does two big jobs. It **carries flavor**, and it **makes texture**. Salt makes food taste more like itself; fat decides whether that food comes out crispy, creamy, flaky, tender, or light.
+
+#### Fat plays three roles
+
+Before you pick a fat, figure out what job it's doing. Ask yourself:
+
+- **Is it a main ingredient?** Butter in a pie crust. Olive oil in pesto. Cream and egg yolks in ice cream. Here the fat *is* the dish.
+- **Is it a cooking medium?** The oil you fry chicken in. The butter you sauté vegetables in. Here the fat is the thing that gets hot and does the work.
+- **Is it a seasoning?** A few drops of sesame oil on soup right before serving. A spoonful of sour cream on a baked potato. Here the fat is a finishing touch at the end.
+
+Same fat, different job, depending on when and how you use it.
+
+#### Why fat carries flavor
+
+Here's a test you can run at home. Slice two cloves of garlic. Cook one in a little water and one in a little olive oil. Taste both liquids. The oil one will taste *way* more like garlic.
+
+That's because fat coats your tongue and keeps flavors hanging around longer. So if you want a flavor to spread through a dish, put it into the fat — cook your garlic and herbs in the oil, or stir vanilla into the butter when you're baking.
+
+Fat also gets much hotter than water can. That's how you get golden-brown crusts, and browning creates brand-new flavors that weren't there before — nutty, sweet, meaty, savory. Think about a plain boiled chicken breast versus one browned in olive oil. Same chicken. Completely different experience.
+
+#### Picking your fat
+
+Different fats taste different, and different cuisines are built on different fats. Use the wrong one and your food will never taste quite right, no matter how well you season it. Don't reach for olive oil when you're making Vietnamese food, or bacon fat when you're making Indian food.
+
+**Olive oil** is your default for Italian, Spanish, Greek, Turkish, North African, and Middle Eastern food. Buy it by taste, not by price — an expensive bottle you don't like is still a bottle you don't like, and a cheap one you love is a win.
+
+> ⚠️ **A lot of olive oil in stores is rancid** — meaning old and spoiled. Color tells you nothing. **Smell it instead.** If it smells like a box of crayons, candle wax, or the oil sitting on top of an old jar of peanut butter, it's rancid. Toss it. Look for a production date on the label, store your oil somewhere cool and dark away from the stove, and don't save it for a special occasion — it goes bad about a year after pressing.
+
+**Butter** isn't pure fat — it's fat plus water plus milk solids, and those milk solids are where a lot of the flavor lives. Use unsalted butter for cooking so you control the salt yourself *(see [§T29 How to Salt](#t29-how-to-salt))*. Heat it gently until the solids turn brown and you get **brown butter** — nutty, sweet, and great with hazelnuts, squash, and sage. *(That's [§4.86 Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce), written up as its own sauce.)*
+
+**Clarified butter** is butter with the milk solids taken out. Melt butter slowly, skim the foam, pour off the clear yellow fat, and leave the white stuff behind. Now it won't burn, so you can cook hotter with it. Ghee is the same thing cooked further so the solids brown first.
+
+**Neutral oils** — grapeseed, canola, peanut — are useful *because* they taste like nothing. They also handle high heat well, so they're your frying oils.
+
+**Animal fats** taste strongly of their animal. Beef fat tastes beefier than steak. Chicken fat tastes more chickeny than chicken. Save the duck fat when you roast a duck and fry potatoes in it later — few things are better. Bacon fat makes hash browns taste smoky with no meat on the plate at all.
+
+#### Texture #1: CRISP
+
+Crispy is the most popular texture on earth. To get it, the water on the surface of the food has to boil away and the surface has to get hotter than boiling. Fat is what makes that possible — it fills all the tiny gaps between the food and the pan so the heat touches everything evenly.
+
+Rules for crispy:
+
+- **Preheat the pan, then preheat the fat.** A cold pan means soggy, greasy food that soaks up oil instead of browning. *(This is [§T2](#t2-hot-pan-first-then-oil)'s whole rule.)*
+- **Test it.** Flick a drop of water in. If it crackles a bit before disappearing, you're ready. When the food goes in, you should hear a gentle sizzle. No sizzle? Take the food out, let the pan heat more, try again.
+- **Don't crowd the pan.** More than one layer of food drops the temperature and traps steam, and steam makes everything soggy.
+- **Don't just crank the heat, either.** Too hot and the outside burns before the inside cooks. That's how you get onion rings where the onion slides out raw, or chicken with burnt skin and a raw middle.
+- **For thick things,** start hot to build a crust, then turn the heat down so the center can cook through.
+- **Keep the crisp.** Never cover crispy food or pile it up — it keeps releasing steam and will sog itself. Spread it in a single layer. To keep fried chicken warm, leave it uncovered somewhere warm, or reheat it in a hot oven right before serving.
+
+**Rendering** is the trick for fatty things. It means melting solid fat out slowly with gentle heat. Cook bacon too fast and it burns outside while staying floppy. Cook it slowly — in the oven at 350°F is easiest — and the fat melts at the same speed the bacon browns. That's crisp bacon. For duck, prick the skin all over with a skewer so the melting fat can escape and coat the skin. For a pork chop or ribeye with a fat cap, stand it on its edge in the pan and let that strip render instead of leaving it flabby.
+
+#### Texture #2: CREAMY
+
+Creamy usually means an **emulsion** — fat and water forced to mix even though they normally refuse. Mayonnaise, butter, ice cream, chocolate, vinaigrette, peanut butter, the foam on an espresso. All emulsions.
+
+Whisk oil and vinegar together and they combine — briefly. Left alone they separate again, or **break**. A broken dressing coats lettuce unevenly: one bite too sour, the next too oily. A properly emulsified one tastes balanced in every bite.
+
+An **emulsifier** is a peacemaker that holds the two sides together. Mustard does this in a vinaigrette. Egg yolk does it in mayonnaise.
+
+**Making mayonnaise by hand** *(full ratio version at [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one))*:
+
+- Start with the egg at room temperature, not straight from the fridge. In a hurry? Sit it in warm water a few minutes.
+- Set your bowl on a damp towel in a saucepan so it doesn't skid around.
+- Add the oil **one drop at a time** at first, whisking hard. Once you're about halfway and it's holding together, you can pour faster.
+- If it gets too thick to whisk, add a few drops of water or lemon juice to loosen it.
+- One egg yolk holds about ¾ cup of oil. Make small batches — it's best fresh.
+
+**If your mayonnaise breaks, you can save it.** Scrape the broken mess into a cup. Clean the bowl but keep the same oily whisk. Put about half a teaspoon of the hottest tap water in the clean bowl and whisk like crazy until it foams. Then add the broken mayo back **drop by drop**, whisking hard. It'll come back together.
+
+Warning signs: if the whisk isn't leaving visible tracks and it isn't thickening, **stop adding oil immediately**. Sometimes just whisking harder fixes it. A chip of ice or a splash of cold water also helps cool things down and keep the peace.
+
+**Butter** is the most forgiving emulsion there is. Most emulsions only survive within a few degrees; butter holds together from freezing all the way up to about 90°F. But melt it and it's broken forever — it never goes back. That's why butter sweats on a hot counter, and why recipes are so picky about butter temperature.
+
+**Butter sauce** is a great trick. After you cook a steak or a fish fillet, pour off the extra fat, put the pan back on medium-high, and add a splash of water, stock, or wine — just enough to coat the bottom. Scrape up the tasty brown bits. Now add *cold* butter and swirl. Hot pan, cold butter, constant swirling. When it thickens, turn off the heat and let the rest melt from the leftover warmth, still swirling. Salt it, maybe squeeze in some lemon, and spoon it over. *(That's [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce).)* The same trick in a pasta pan with pecorino and black pepper gets you Cacio e Pepe.
+
+#### Texture #3: FLAKY
+
+Flaky means layers — like a pie crust that shatters into shards. You get layers by keeping **butter in visible chunks** inside the dough, not blended in.
+
+The enemy is warm butter. Warm butter melts into the flour, glues the layers together, and you end up with something chewy instead of flaky.
+
+So: **keep everything cold.** Chill the diced butter, the flour, even your tools in the freezer. Work fast. Don't overmix. Chill the dough again between mixing, rolling, assembling, and baking. Pastry chefs are famously obsessive about cold, and they're right. *(See [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) for this as an actual dough recipe.)*
+
+Then slide the cold pie straight into a **hot** oven. The water inside the butter turns to steam, and the steam physically pushes the layers apart. That's what makes the flakes. If the oven isn't hot enough: no steam, no layers, and the filling soaks in before the crust sets — soggy bottom.
+
+You can make pie dough ahead and freeze it wrapped up for two months. That's the slow part done, so a pie is always within reach.
+
+**Flaky and tender at the same time?** Use big chunks of cold butter and minimal mixing for the flaky layers, then use a liquid fat like cream or crème fraîche to bind — it coats the leftover flour and keeps it tender.
+
+*(You could use shortening instead of butter — it's more forgiving in a warm kitchen. But it doesn't melt on your tongue, so it leaves a weird plasticky feeling in your mouth. Butter melts away and leaves only its flavor behind. Worth the extra trouble.)*
+
+#### Texture #4: TENDER
+
+Tender is the opposite approach: instead of keeping fat in chunks, you blend it in completely so it coats every particle of flour.
+
+**Oil** is the champion here. It coats flour better than anything, which is why oil cakes come out so moist — carrot cake, olive oil cake, chocolate cake made with oil. Even boxed cake mixes have you add oil. Once you know this, you can read a recipe and predict how the cake will turn out before you bake it.
+
+**Short** doughs like shortbread are the most tender of all — flour and fat mixed together completely and smoothly, often with very soft or melted butter, so the dough is soft enough to press into the pan.
+
+#### Texture #5: LIGHT
+
+Fat can trap air. That's what makes cakes rise and turns liquid cream into fluffy clouds. Some classic cakes have no baking powder or baking soda at all — the whipped fat is doing all the lifting.
+
+**Creaming butter and sugar** is how you trap that air. Beat cool room-temperature butter with sugar for 4 to 7 minutes until it's light and fluffy. The butter becomes a net full of millions of tiny air bubbles.
+
+Two things to get right:
+
+- **Go slow.** Cranking the mixer to high creates friction, friction creates heat, and heat melts your butter. Fast mixing leads to flat, dense, fallen cakes.
+- **Watch the temperature.** Too warm and the butter melts and releases all the air. Too cold and air can't get in evenly, so the cake rises crooked.
+
+Melting butter instead of creaming it seems easier — it stirs in so nicely! — but you've just destroyed any chance of getting air in. Flat, dense results every time.
+
+**Folding** protects the air you worked for. Once you've whipped air in, dumping the dry ingredients in and stirring hard knocks it all back out. Instead use a rubber spatula in one hand and spin the bowl with the other, moving gently.
+
+**Whipped cream** works the same way — fat surrounding air bubbles. Start with very cold cream. Whip too far and the fat clumps up and goes grainy. Keep going and it breaks completely into butter and buttermilk.
+
+#### Too much or too little fat
+
+**Too little** and food sticks and burns. Some ingredients — eggplant, mushrooms — soak up fat like sponges, then cook dry against the metal and develop bitter black blisters. Add more fat when they've drunk it all.
+
+**Too much** and you get a greasy puddle on the plate, which can ruin a meal after the fact. Drain fried food on a towel. Lift sautéed food out with a slotted spoon instead of tipping the whole pan onto a plate. If you notice too much fat mid-cook, carefully tip some out — or take the food out first if the pan is heavy or hot. Not worth a burn to save washing a dish.
+
+Judge by looking, not by the recipe. Two tablespoons of oil might coat a small pan perfectly and barely reach halfway across a big one. Recipes are a starting point; your eyes and ears know your kitchen better.
+
+#### Smoke point
+
+Every fat has a temperature where it starts breaking down into nasty-smelling smoke. Once it smokes, it's ruined — bad flavor, and you have to start over.
+
+- **Neutral refined oils** (grapeseed, canola, peanut) smoke around **400°F**. These are your deep-frying and stir-frying oils.
+- **Unfiltered olive oil and butter** start burning around **350°F**, because the sediment and milk solids burn before the fat does. Use them where you don't need screaming heat — gentle sautés, pan-frying, oil-poaching — or in things you never heat at all, like mayonnaise and vinaigrette.
+
+Small exception to "preheat the pan": **butter and garlic burn easily**, so heat those gently instead of blasting them.
+
+> **Worth knowing against [§T1 How to Make a Roux](#t1-how-to-make-a-roux):** the fast Cajun roux deliberately runs oil *well past* 500°F — hotter than every number in this section. That's not a contradiction, it's the exception that proves the rule, and it's exactly why §T1 is the most dangerous technique in this cookbook.
+
+#### Layering and balancing fat
+
+Just like salt, you can use more than one fat in a dish. Fry fish in grapeseed oil (high heat) and serve it with a garlicky olive-oil mayo. Make a moist oil cake and frost it with buttercream. Melt butter into waffle batter but brush the hot iron with bacon fat.
+
+Just make sure they get along, and that they fit the food. Blood orange and avocado in a salad? Finish it with citrusy olive oil to amplify what's already there.
+
+**If a dish is too greasy,** fix it the same way you'd fix too much salt: add more of everything else, add acid to cut through it, water it down, or add something starchy. If you can chill it, the fat rises and hardens on top and you can just skim it off. Or lift the food out of the greasy pan and blot it on a towel.
+
+**If a dish is too dry or just kind of flat,** a little fat is almost always the fix — a drizzle of olive oil, a spoonful of sour cream, crème fraîche, an egg yolk, some goat cheese, mayo, or avocado. A sandwich piled with lean stuff on thick crusty bread desperately needs something creamy.
+
+#### Putting salt and fat together
+
+Now you have two tools instead of one, and they interact.
+
+If you're going to shower a salad with salty cheese at the end, **hold back some salt** until you've tasted a bite *with* the cheese. If you're cooking pancetta into a pasta sauce, wait to season the sauce until it's soaked up the salt from the pork. Otherwise you'll overshoot. *(This is [§T29](#t29-how-to-salt)'s layering section, seen from the fat side.)*
+
+And once you understand this stuff, you can start noticing when a recipe is wrong. If a pizza dough recipe tells you to add the salt *after* kneading in the oil — think twice. You know salt strengthens gluten and oil coats it. Trust what you know.
+
+That's how you stop following recipes and start cooking.
+
+#### Grocery Shopping List
+
+The standing fat shelf this entry assumes.
+
+**🛒 General grocery**
+
+- 🛒 Olive oil — buy by taste, check the production date, store cool and dark, replace it yearly
+- 🛒 Unsalted butter — so you control the salt yourself
+- 🛒 Neutral oil (grapeseed, canola, or peanut) — for high heat and frying
+- 🛒 Heavy cream — for whipping, and for binding tender doughs
+- 🛒 Sour cream or crème fraîche — a finishing fat for anything that tastes flat
+- 🛒 *Free if you're already cooking:* save your bacon fat and duck fat in a jar in the fridge
 
 [↑ Table of Contents](#table-of-contents)
 

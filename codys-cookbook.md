@@ -243,6 +243,9 @@ Click any recipe to jump straight to it.
 - [7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
 - [7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃 ○
 - [7.61 Broiled Fish](#761-broiled-fish) ✅
+- [7.62 Catfish Étouffée](#762-catfish-étouffée) ✅
+- [7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) ✅
+- [7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -303,6 +306,9 @@ Click any recipe to jump straight to it.
 - [9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) ✅
 - [9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) ✅
 - [9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) ✅
+- [9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) ✅
+- [9.24 Crab Marie](#924-crab-marie) ✅
+- [9.25 Crabmeat Imperial](#925-crabmeat-imperial) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -351,6 +357,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Six more from *Talk About Good!*, from a page of crab and eggplant dishes — three per Cody's own split.** Kept: **[§7.62 Catfish Étouffée](#762-catfish-étouffée)** (Mrs. E. A. Veillon, Eunice, La.) — an unstirred étouffée, rated 🟡 Medium on the technique itself rather than a roux, since the source is blunt that stirring (instead of shaking the pot) breaks the fish; **[§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing)** (Wanda Frey); **[§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant)** (Mrs. James P. Williams, serves 6 as printed); **[§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs)** (Felecia Daigle Broussard); **[§9.24 Crab Marie](#924-crab-marie)** (Mrs. Emmons Sebenius, a whole stuffed artichoke in cream sauce, 🟡 Medium on the same cream-sauce reasoning as [§4.63 Béchamel](#463-sauce-béchamel--sauce-velouté-master-white-sauce)); and **[§9.25 Crabmeat Imperial](#925-crabmeat-imperial)** (Elsie LeBlanc, serves 8 as printed, no cooking beyond a short bake). **Per Cody, explicitly left out of the cookbook from the same page:** Bell Peppers Stuffed with Crab-Eggplant Dressing, Stuffed Bell Peppers, and Crabmeat Sycamore. §7.63's entry notes the skipped stuffed-pepper variation exists on the same source page, in case Cody wants it later. Split three to §7 Mains (substantial enough to be a main course) and three to §9 Snacks & Light Meals (composed shellfish appetizers, same shelf as [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) and [§9.10 Crabmeat Avery](#910-crabmeat-avery)). Two source gaps flagged rather than smoothed over: Fresh Stuffed Crabs' "a little butter" and Crab and Eggplant Dressing's "or ham" substitute both appear in the instructions but not either source's own ingredient list. |
 | 2026-08-13 | **Three more from *Talk About Good!*:** **[§8.30 Turtle Soup I](#830-turtle-soup-i)** (Dr. J. J. Burdin) and **[§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone)** (Mrs. Helen M. Hayes), plus **[§7.61 Broiled Fish](#761-broiled-fish)** (Sarah Beacham, p. 171). The two turtle soups are genuinely different techniques kept side by side rather than merged: §8.30 thickens with mashed hard-boiled egg yolks and no roux at all (🟢 Easy — nothing here can curdle or burn), while §8.31 uses a light roux built right in the sautéed onions and celery (🟡 Medium, same reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy)) and is named for the Hotel Monteleone's well-known version. **§7.61 Broiled Fish rated 🟡 Medium on the strength of the source's own warning** — *"fish burns quickly"* under a broiler — a real, fast failure mode rather than a forgiving one; its four optional finishing variations (onion, tomato, browned almonds, or a garlic-butter sauce) are transcribed but not counted in Nutrition, since they're interchangeable extras. **One attribution flagged rather than assumed:** "Martha Paggi" appears above §8.30's title on the photographed page, read as a running header carried over from the previous recipe rather than this one's author, since the recipe itself is clearly signed by Dr. J. J. Burdin. |
 | 2026-08-13 | **New source: *Talk About Good!*, the Junior League of Lafayette's community cookbook — confirmed by Cody, not inferred.** Added a roux-technique addendum to **[§T1 How to Make a Roux](#t1-how-to-make-a-roux)** (new §D, renumbering the old Grocery Shopping List to §E) covering two alternate methods: an oil roux from Mrs. Ronald Andrus, and a Margarine Roux from Carmen B. Montegut of St. Martinville. **The genuinely new rule this source adds:** always cool a roux with hot water, never cold — cold water can curdle it or split the oil from the flour, which §T1's fast Cajun method never needed to mention since it stops the roux with vegetables instead. **One term left unresolved rather than guessed at:** the Margarine Roux calls for "3 cups water and 'taree'" — quoted in the original, and not a word this cookbook or Cody could place; flagged as an Open Question instead of assumed to mean filé. Then added seven gumbos from the same source, each kept as its own entry: **[§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo)** (Bob Durkee, 8 whole ducks), **[§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo)** (Mrs. Haskell Walker), **[§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters)** (Mrs. Robert E. Billeaud), **[§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)** (Mrs. Charles Hightower, Jr.), **[§8.27 Green Gumbo](#827-green-gumbo)** (Charles Begneaud, blended raw greens), **[§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé)** (Mrs. F. H. Davis, Sr.), and **[§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo)** (Mrs. F. M. McGinn) — kept distinct from the existing [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) since it's a lard roux with no sausage. **Difficulty split on how each source describes its roux, not just on "it's a gumbo":** fast dark-brown roux with no low-heat qualifier rated 🔴 Hard (Duck & Sausage, Duck and Guinea); a slow or low-heat roux, or one described as merely "brown" rather than dark, rated 🟡 Medium (Wild Goose, Felecia's Goose, Green Gumbo, Chicken Gumbo Filé, Mrs. McGinn's Seafood Gumbo) — same reasoning already established at [§4.17 Giblet Gravy](#417-giblet-gravy). **Several genuine source gaps flagged rather than smoothed over:** Wild Goose Gumbo's 3 qt of water and Felecia's Goose Gumbo's garlic powder, green onion tops, and parsley all appear in the instructions but not the source's own ingredient lists; Green Gumbo never gives a roux quantity or a greens quantity at all; Mrs. McGinn's Seafood Gumbo's shrimp/oyster/parsley timing reads garbled on the photographed page and is written up as the most sensible reading rather than a confirmed transcription; none of the seven give a serving count, so all seven carry a flagged, estimated one. |
 | 2026-08-13 | Added **[§8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 64), credited to Marcelle Bienvenu. Lump crabmeat (or shrimp) and corn in a cream bisque built on a **blond roux** — rated 🟡 Medium and carries the same don't-let-it-brown warning as [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), since browning it would dull the color and add a flavor it isn't supposed to have. **Kept distinct from [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses)** rather than merged — different shellfish, and a blond roux here against §8.19's dark roux and crawfish-head stock. Nutrition flags the 3½ cups of heavy cream as the dominant calorie source. |
@@ -647,6 +654,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
 | [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) | 🟢 | 15 min | 20 min | — | 35 min |
+| [§9.25 Crabmeat Imperial](#925-crabmeat-imperial) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
@@ -713,6 +721,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
+| [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
@@ -720,6 +729,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
+| [§7.62 Catfish Étouffée](#762-catfish-étouffée) | 🟡 | 25 min | 1 hr 5 min | — | 1 hr 30 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
@@ -728,7 +738,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) | 🟡 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
+| [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) | 🔴 | 35 min | 1 hr 30 min | — | 2 hr 5 min |
+| [§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) | 🟢 | 20 min | 1 hr 45 min | — | 2 hr 5 min |
 | [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **2–4 hr** *(sous vide, unattended)* | 3½–5½ hr |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
@@ -738,6 +750,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) | 🟡 | 20 min | 1 hr 50 min | — | 2 hr 10 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
+| [§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) | 🟢 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
 | [§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) | 🟢 | 25 min | 55 min | — | 1 hr 20 min |
 | [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
@@ -14399,6 +14412,231 @@ Onion or tomato slices go on after the fish is turned, basted the same way. The 
 
 ---
 
+### 7.62 Catfish Étouffée
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. E. A. Veillon, Eunice, La.** A layered, unstirred étouffée — the fish is never stirred, only shaken in the pot, so it stays in large pieces instead of breaking apart.
+
+**Yield:** not stated; estimated to serve 7, flagged below.
+
+**🟡 Medium** *(the technique itself is the risk here, not a roux — stir out of habit and you break the fish; the source's own instruction is blunt: "never stir")* · **Prep ~25 min** *(estimated — cutting and seasoning the fish, chopping the vegetables)* · **Cook ~1 hr 5 min** *(layering, then a 1 hr simmer)* · **Start to finish ~1 hr 30 min**
+
+#### A. Ingredients
+
+- 5 lb catfish, cut in large pieces
+- 1 tsp salt
+- 1 tsp black pepper
+- ¼ tsp red pepper
+- 3 Tbsp salad oil
+- 2 pods garlic, minced
+- 1 bunch parsley, chopped
+- 1 large bell pepper, chopped
+- 3 stalks celery, chopped
+- 1 large bunch green onions, chopped (both white and green parts)
+- 2 Tbsp flour
+- 1½ cans tomato sauce
+- ¼ tsp thyme
+- 1 large bay leaf
+- 2 slices lemon
+- ¼ cup water
+
+#### B. Cooking Instructions
+
+**1. Choose a black iron pot you can shake, not stir.**
+You never stir the fish while it cooks — the pot gets shaken instead.
+
+**2. Rub the fish with the seasoning.**
+Rub the fish pieces well with a mixture of the salt, black pepper, and red pepper.
+
+**3. Layer the pot, unheated, starting with oil.**
+Put the oil in the unheated pot. Arrange half the fish on the bottom. Mix the chopped garlic, parsley, bell pepper, celery, and green onions, and sprinkle half over the fish. Sprinkle 1 Tbsp of the flour over the vegetables, then half the tomato sauce. Repeat the layers with the rest of the fish, vegetables, flour, and tomato sauce.
+
+**4. Add the aromatics and water.**
+Add the thyme, bay leaf, lemon slices, and ¼ cup water.
+
+**5. Cook low and slow. About 1 hour.**
+Place the pot over a low flame and cook slowly until the fish is tender. Shake the pot often to keep it from sticking — **never stir, or you'll break the fish.**
+
+**6. Taste and adjust seasoning before serving.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Catfish — 5 lb, cut in large pieces
+- 🛒 Salad oil — 3 Tbsp
+- 🛒 Garlic — 2 pods
+- 🛒 Fresh parsley — 1 bunch
+- 🛒 Bell pepper — 1 large
+- 🛒 Celery — 3 stalks
+- 🛒 Green onions — 1 large bunch
+- 🛒 All-purpose flour — 2 Tbsp
+- 🛒 Tomato sauce — 1½ cans
+- 🛒 Dried thyme — ¼ tsp
+- 🛒 Bay leaf — 1 large
+- 🛒 Lemon — 2 slices
+- 🛒 Salt, black pepper, red pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~3,070 | 157 g | 368 g | 69 g | 6 g |
+| **Per serving** *(estimated 7 servings)* | ~440 | 22 g | 53 g | 10 g | 1 g |
+
+**What a serving is:** a generous portion of fish and sauce, about ¾ lb of catfish per person before cooking loss.
+
+#### D. Open Questions
+
+- **No serving count given** — 7 is Claude's estimate, based on the 5 lb of fish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.63 Crab and Eggplant Dressing
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Wanda Frey**. A crab-and-eggplant casserole dressing, mashed down with a potato masher as it cooks. **The source's own stuffed-bell-pepper variation on this dressing exists on the same page but was left out of this cookbook at Cody's request** — this entry is the dressing itself only.
+
+**Yield:** not stated; estimated to serve 8, flagged below.
+
+**🟢 Easy** · **Prep ~20 min** *(estimated — peeling, cubing, and salt-soaking the eggplant, chopping vegetables)* · **Cook ~1 hr 45 min** *(about 1 hr cooking the eggplant down, then finishing and a 30 min bake)* · **Start to finish ~2 hr 5 min**
+
+#### A. Ingredients
+
+- 4 large eggplants
+- 2 Tbsp bacon fat
+- Salt and red pepper, to taste
+- 2 large onions
+- 1 large bell pepper
+- 2 stalks celery, chopped
+- 2 lb lump crabmeat *(or fresh shrimp)*
+- Seasoned bread crumbs, to absorb liquid, plus more for topping
+- ½ cup freshly grated Romano cheese, plus more for topping
+
+#### B. Cooking Instructions
+
+**1. Peel, cube, and soak the eggplant.**
+Peel and cube the eggplants and soak in cold salted water. Drain.
+
+**2. Cook the eggplant down in bacon fat. About 1 hour.**
+Cook in a large Dutch oven in the bacon fat over medium heat. A potato masher works well to break up the eggplant as it cooks.
+
+**3. Add the seasoning and vegetables. Cook until done.**
+Add the salt, red pepper, onions, bell pepper, and celery. Continue cooking until thoroughly done. If using fresh shrimp, cook 10 minutes longer once added.
+
+**4. Fold in the crabmeat.**
+If using lump crabmeat (or ham), stir it in without further cooking.
+
+**5. Thicken with bread crumbs and stir in the cheese.**
+Add enough seasoned bread crumbs to absorb the liquid, then stir in the ½ cup of Romano.
+
+**6. Bake. 30 minutes at 350°F.**
+Place in a 2-quart casserole, top lightly with more crumbs and cheese, and bake.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggplants — 4 large
+- 🛒 Bacon fat — 2 Tbsp
+- 🛒 Onions — 2 large
+- 🛒 Bell pepper — 1 large
+- 🛒 Celery — 2 stalks
+- 🛒 Lump crabmeat — 2 lb, or fresh shrimp
+- 🛒 Seasoned bread crumbs
+- 🛒 Romano cheese, freshly grated — ½ cup, plus more for topping
+- 🛒 Salt, red pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole casserole** | ~2,320 | 57 g | 193 g | 238 g | 55 g |
+| **Per serving** *(estimated 8 servings)* | ~290 | 7 g | 24 g | 30 g | 7 g |
+
+**What a serving is:** a generous scoop, about 1 cup. *The fiber count is genuinely this high — four whole eggplants is a lot of vegetable.*
+
+#### D. Open Questions
+
+- **No serving count given** — 8 is Claude's estimate.
+- **"Ham" is named as a crabmeat substitute in the instructions but not in the source's own ingredient list** — noted here rather than left out.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.64 Seafood Stuffed Eggplant
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. James P. Williams**. Whole eggplant shells stuffed with a shrimp, crabmeat, and rice filling.
+
+**Yield:** serves 6 *(as printed)*
+
+**🟢 Easy** · **Prep ~25 min** *(estimated — scooping and dicing the eggplant, prepping the shrimp and rice)* · **Cook ~40 min** *(parboiling the shells, sautéing the filling, and a 30 min bake)* · **Start to finish ~1 hr 5 min**
+
+#### A. Ingredients
+
+- 3 medium eggplants
+- 2 cups water
+- 1 tsp salt
+- 4 Tbsp butter
+- ½ cup diced celery
+- ½ cup chopped green onion
+- ¼ cup diced bell pepper
+- ½ cup chopped parsley
+- 2 cups cooked rice
+- 1 lb small shrimp, peeled
+- 2 cups crabmeat
+- ½ tsp salt
+- Pepper, to taste
+- ½ tsp thyme
+- 1 tsp Worcestershire sauce
+- Buttered bread crumbs, optional, for the last 5 minutes of baking
+
+#### B. Cooking Instructions
+
+**1. Scoop the eggplants and parboil the shells. 4–5 minutes.**
+Pour the water and salt into a pan. Scoop out the eggplant shells, saving the meat — dice it and set aside. Let the shells come to a boil, then boil only 4 to 5 minutes. Drain.
+
+**2. Sauté the vegetables in butter.**
+Melt the butter in a frying pan. Add the celery, green onions, bell pepper, and parsley, and sauté until tender.
+
+**3. Add the eggplant, rice, shrimp, crabmeat, and seasonings. Cook 5 minutes.**
+Stir in the diced raw eggplant, rice, shrimp, crabmeat, and seasonings, and cook, stirring constantly.
+
+**4. Fill the shells and bake. About 30 minutes at 375°F.**
+Fill the eggplant halves and bake. Buttered bread crumbs may be added for the last 5 minutes, if using.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggplants — 3 medium
+- 🛒 Butter — 4 Tbsp, plus more for the optional bread crumb topping
+- 🛒 Celery — ½ cup diced
+- 🛒 Green onion — ½ cup chopped
+- 🛒 Bell pepper — ¼ cup diced
+- 🛒 Fresh parsley — ½ cup chopped
+- 🛒 Cooked rice — 2 cups
+- 🛒 Small shrimp, peeled — 1 lb
+- 🛒 Crabmeat — 2 cups
+- 🛒 Worcestershire sauce — 1 tsp
+- 🛒 Dried thyme — ½ tsp
+- 🛒 Salt, pepper
+- 🛒 Bread crumbs — optional topping
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,760 | 58 g | 150 g | 157 g | 30 g |
+| **Per serving** *(serves 6, as printed)* | ~295 | 10 g | 25 g | 26 g | 5 g |
+
+**What a serving is:** one stuffed eggplant half.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -18167,6 +18405,217 @@ Wrap the sandwich tightly in plastic wrap and refrigerate for at least an hour �
 | **Per serving** *(serves 5, midpoint of the printed 4–6)* | ~1,260 | 91 g | 47 g | 61 g | 5 g |
 
 **What a serving is:** one generous wedge — about a fifth of the loaf. *The ⅔ cup of olive oil in the Olive Salad is the single biggest calorie driver, ahead of even the meat and cheese — this is a rich, oil-heavy sandwich built to feed a tailgate table, not a light lunch.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.23 Fresh Stuffed Crabs
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Felecia Daigle Broussard**. Crab boiled and picked, sautéed back into a seasoned filling with Pepperidge Farm dressing, and baked in the cleaned shells.
+
+**Yield:** makes 12 stuffed shells; estimated to serve 6 (2 shells each), flagged below.
+
+**🟢 Easy** · **Prep ~30 min** *(estimated — picking meat from a dozen boiled crabs is real hands-on work, plus scrubbing the shells)* · **Cook ~1 hr 45 min** *(boiling the crabs and the shells, simmering the filling, then baking)* · **Start to finish ~2 hr 15 min**
+
+#### A. Ingredients
+
+- 1 doz fresh crabs
+- Wesson oil
+- 1 onion
+- ½ bell pepper
+- 4 cloves garlic
+- 4 stalks celery
+- Pepperidge Farm Dressing (dry stuffing mix)
+- Parsley
+- Red pepper and salt, to taste
+- 1 tsp Kitchen Bouquet
+- Butter, a little, to moisten *(named in the instructions, not the source's own ingredient list)*
+- Bread crumbs, for topping
+
+#### B. Cooking Instructions
+
+**1. Boil the crabs. About 30 minutes.**
+Boil the crabs in black pepper and water. Cool.
+
+**2. Pick the meat.**
+Pry the crabs open with a knife. Remove all the white meat and a little crab fat. Set aside.
+
+**3. Clean the shells. About 20 minutes.**
+Scrub the shells in clean water. Drop into boiling water with a pinch of soda for about 20 minutes. Cool the shells before adding stuffing.
+
+**4. Sauté the vegetables, then add the crabmeat and brown it.**
+Sauté the chopped onion, bell pepper, garlic, and celery in Wesson oil about 5 minutes. Add the crabmeat and brown.
+
+**5. Moisten and season. Simmer 30 minutes.**
+Add a little butter, crab fat, and water to moisten. Add red pepper, salt, and Kitchen Bouquet — this will turn the mixture slightly brown. Cover and simmer until the water is absorbed.
+
+**6. Mix with the dry dressing and stuff the shells.**
+
+**7. Top with bread crumbs and bake. 20–25 minutes at 350°F.**
+
+> **Make-ahead:** can be frozen, but omit the crumb topping if freezing. Can also be refrigerated overnight, unbaked, and baked the next day.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh crabs — 1 dozen
+- 🛒 Wesson oil (vegetable oil)
+- 🛒 Onion — 1
+- 🛒 Bell pepper — ½
+- 🛒 Garlic — 4 cloves
+- 🛒 Celery — 4 stalks
+- 🛒 Pepperidge Farm Dressing (stuffing mix)
+- 🛒 Fresh parsley
+- 🛒 Kitchen Bouquet — 1 tsp
+- 🛒 Butter
+- 🛒 Bread crumbs, for topping
+- 🛒 Red pepper, salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(12 shells)* | ~2,440 | 85 g | 238 g | 154 g | 9 g |
+| **Per serving** *(estimated 6 servings, 2 shells each)* | ~405 | 14 g | 40 g | 26 g | 2 g |
+
+**What a serving is:** 2 stuffed crab shells, a standard appetizer-course portion.
+
+#### D. Open Questions
+
+- **No serving count given** — 6 (2 shells per person) is Claude's estimate from the dozen crabs.
+- **The butter used "to moisten" appears in the instructions but not the source's own ingredient list** — added into Ingredients above.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.24 Crab Marie
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Emmons Sebenius**. A whole cooked artichoke heart filled with a crab-and-artichoke cream sauce, baked in a ramekin.
+
+**Yield:** makes 3 servings, one artichoke each
+
+**🟡 Medium** *(a butter-and-flour cream sauce — same gentler reasoning as [§4.63 Sauce Béchamel / Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce))* · **Prep ~15 min** *(trimming the artichokes)* · **Cook ~1 hr 20 min** *(45–60 min cooking the artichokes, then the sauce and a 20 min bake)* · **Start to finish ~1 hr 35 min**
+
+**Techniques used:** related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(a cream sauce base, not a Cajun roux)*
+
+#### A. Ingredients
+
+- 3 large fresh artichokes
+- 1 tsp vinegar
+- 1 clove garlic
+
+**Sauce**
+
+- 2 Tbsp butter
+- 2 Tbsp flour
+- Salt, pepper, MSG, to taste
+- 1 cup cream
+- ½ cup white wine
+- ½ lb crabmeat
+- ¼ cup grated Parmesan cheese
+
+#### B. Cooking Instructions
+
+**1. Cook the artichokes. 45–60 minutes.**
+Cook the artichokes in water to cover with the vinegar and garlic, until tender and the outer leaves pull out easily.
+
+**2. Scrape the leaves and save the pulp.**
+Scrape the leaves, saving the pulp, and set aside with the artichoke hearts.
+
+**3. Make the cream sauce.**
+Make a cream sauce of the butter, flour, salt, pepper, MSG, cream, and white wine.
+
+**4. Add the artichoke pulp and beat smooth, then add the crabmeat.**
+
+**5. Assemble and bake. 20 minutes at 375°F, or until bubbly.**
+Place an artichoke heart in each ramekin. Put the sauce in the cavity and sprinkle with the grated Parmesan.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh artichokes — 3 large
+- 🛒 Vinegar — 1 tsp
+- 🛒 Garlic — 1 clove
+- 🛒 Butter — 2 Tbsp
+- 🛒 All-purpose flour — 2 Tbsp
+- 🛒 Heavy cream — 1 cup
+- 🛒 White wine — ½ cup
+- 🛒 Crabmeat — ½ lb
+- 🛒 Parmesan cheese, grated — ¼ cup
+- 🛒 Salt, pepper, MSG *(optional)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(3 servings)* | ~1,620 | 120 g | 67 g | 54 g | 15 g |
+| **Per serving** *(1 artichoke each)* | ~540 | 40 g | 22 g | 18 g | 5 g |
+
+**What a serving is:** one whole stuffed artichoke — a rich, knife-and-fork appetizer.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.25 Crabmeat Imperial
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Elsie LeBlanc**. No cooking except a short bake — mayonnaise, mustard, and egg bind the crabmeat, baked just to set and brown lightly.
+
+**Yield:** serves 8 *(as printed)*
+
+**🟢 Easy** · **Prep ~20 min** *(estimated — dicing the pepper and pimentos, picking through the crabmeat, mixing)* · **Cook ~15 min** *(bake)* · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- 1 green pepper, finely diced
+- 2 pimentos, finely diced
+- 1 Tbsp English mustard
+- 1 tsp salt
+- ½ tsp white pepper
+- 2 eggs, beaten
+- 1 cup mayonnaise
+- 3 lb lump crabmeat
+- Paprika, for topping
+
+#### B. Cooking Instructions
+
+**1. Mix the pepper, pimentos, mustard, salt, pepper, eggs, and mayonnaise.**
+Mix well.
+
+**2. Fold in the crabmeat.**
+Add the crabmeat and mix with your fingers so the lumps aren't broken.
+
+**3. Fill the shells or ramekins.**
+Divide into 8 crab shells or ramekins, heaping it lightly.
+
+**4. Top and bake. 15 minutes at 350°F.**
+Top with a little more mayonnaise and a sprinkle of paprika. Serve hot or cold.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Green pepper — 1
+- 🛒 Pimentos — 2
+- 🛒 English mustard — 1 Tbsp
+- 🛒 Eggs — 2
+- 🛒 Mayonnaise — 1 cup, plus more for topping
+- 🛒 Lump crabmeat — 3 lb
+- 🛒 Paprika
+- 🛒 Salt, white pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,980 | 210 g | 273 g | 14 g | 2 g |
+| **Per serving** *(serves 8, as printed)* | ~370 | 26 g | 34 g | 2 g | <1 g |
+
+**What a serving is:** one filled crab shell or ramekin. *Mayonnaise and crabmeat carry almost all of this — very low carb, very rich.*
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -111,6 +111,9 @@ Click any recipe to jump straight to it.
   - [4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) ✅
   - [4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style) ✅ *(distinct from [§4.36](#436-north-carolina-vinegar-sauce) — see the comparison table)*
   - [4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) ✅ *(distinct from [§4.35](#435-mustard-barbecue-sauce))*
+  - [4.93 North Carolina Vinegar Sauce (Sauces Chapter — No Tomato)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) ✅ *(the third NC vinegar sauce — see the three-way table)*
+  - [4.94 Red Chimichurri](#494-red-chimichurri) ✅
+  - [4.95 "Dry" Chimichurri](#495-dry-chimichurri) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -394,6 +397,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **An open question closed, and two more chimichurris.** **[§4.93 North Carolina Vinegar Sauce (Sauces Chapter — No Tomato)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato)** turns out to be the exact recipe flagged as unresolved at [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) — its "Barbecue Sauce, the Texas Way" sidebar cited a vinegar sauce at **page 466**, and the open question was whether that was the same recipe as [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) reprinted or a third version. **It's a third version.** §4.93 has **no tomato at all**, is barely sweetened, carries **fresh sliced onion and jalapeño**, and — the one hard practical difference — **does not keep past the day it's made**, exactly because of those fresh aromatics. §6.7's Open Question is closed and its sauce formula now points at §4.93 specifically. The entry carries a three-way comparison table so the vinegar sauces stay straight. Also added **[§4.94 Red Chimichurri](#494-red-chimichurri)** and **[§4.95 "Dry" Chimichurri](#495-dry-chimichurri)** (both p. 478, Argentina) — which, with the existing [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), gives this cookbook three sauces sharing a name and almost nothing else: §4.44 raw and green, **§4.94 cooked, tomato-based, and carrying tuna and anchovy** (the source's own note connects it to A.1., Worcestershire, and Italian tonnato — which lands on [§4.59 Tonnato Sauce](#459-tonnato-sauce), already here), and §4.95 with nothing fresh in it at all. §4.94 is the only 🟡 Medium of the three — three stages and a thick tomato sauce that scorches if you stop stirring; §4.95 is noted as the weeknight option, since everything but the oil and vinegar is already in the spice cabinet. |
 | 2026-08-13 | **Two more from the same Raichlen book, plus a standing preference recorded — and one technique deliberately left out.** Added **[§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce)** (p. 464), kept separate from the existing [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) — both are the same author's mustard sauces, but §4.35 is a savory cooked sauce with mustard seeds, butter, bacon, and onion in it, while §4.92 is a bare four-ingredient simmer (mustard, honey, brown sugar, white vinegar). **This also completes the Carolina sauce map** the source lays out: vinegar in eastern NC, tomato in western NC, mustard in southern NC and parts of SC and Florida — all three regions now represented here. Added **[§10.12 Grilled Grits](#1012-grilled-grits)** (p. 434) — grits cooked soft, chilled into a firm ½-inch slab for 4 hours to 2 days, cut, and grilled like polenta. **Filed in §10 with the other two grits recipes rather than with the barbecue sides**, so all three are findable together; rated 🟡 Medium because the slab genuinely has to be firm and the grate genuinely oiled or the pieces tear when turned. Its three printed variations (cheese, corn, jalapeño) are kept. **[§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) now carries a standing preference from Cody**: shown the source's *How to Grill the Perfect Steak* page, his answer was *"Actually I prefer sous vide — to me, the perfect steak is sous vide."* **That grilling technique was not added, on his call** — recorded on §T27 as the house alternative whenever a recipe calls for grilling or pan-searing a steak, and noted on the open [§6.4 Smoked Steak](#64-smoked-steak) placeholder so that entry gets written up as his smoker method specifically rather than as a general best-way-to-cook-a-steak. |
 | 2026-08-13 | **§6 Smoked Meats gets its second and third real recipes** — both from the same Raichlen book as [§5.33](#533-quick-and-smoky-baked-beans), both kept separate from what was already there rather than merged. **[§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version)** (p. 175–176, credited to Elizabeth Karmel of Greensboro) is **not** a duplicate of [§6.2 Pulled Pork](#62-pulled-pork), and the entry carries a comparison table saying exactly how: §6.2 mops hourly with a vinegar/onion/jalapeño mop and §6.6 uses **no mop at all**; §6.6's rub is its own 9-spice blend and is **optional**, with a salt-and-pepper-only path that starts cooking immediately; and §6.6 pins the charcoal fire at **300°F** where §6.2 just says medium-low. Same 195°F target and 4–6 hours in both. **[§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** carries two hard warnings from the source, both worth having: buy the brisket **untrimmed with a ¼–½ inch fat cap** or it comes out too dry, and use **charcoal or a smoker, not gas** — a stricter line than the same book draws for its pulled pork. **Cody's read on the brisket is recorded as a split, not a blanket endorsement:** he signs off on the seasoning and the 4–8 hour dry brine — *"it's all real good"* — but says he has his own smoking technique coming later, so the entry marks Steps 1–2 as endorsed and Steps 3–5 as the book's method. **[§6.1 Smoked Brisket](#61-smoked-brisket) stays open** for his version, and its placeholder now says the rub and cure are already unblocked by §6.7 while only the fire is still missing. **Three loose ends flagged in §6.7's Open Questions:** no serving count is printed; the Basic Barbecue Sauce (source p. 463) that forms half the "Texas Way" sauce formula isn't in this cookbook; and the sidebar cites a North Carolina Vinegar Sauce at p. 466, a different page from the one transcribed at [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) — possibly the same recipe reprinted, possibly a third version, not assumed either way. |
 | 2026-08-13 | **Two more from the same Raichlen book — and a duplicate caught before it got made.** Added **[§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido)** (Central America, p. 443) — a no-cook refrigerator pickle, everything raw into vinegar for at least a day, with the source's own tip to lay plastic wrap between jar and lid so the vinegar doesn't corrode the metal. Cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid) as macerating scaled up, and to [§4.5 Pickled Pink Onions](#45-pickled-pink-onions). Also added **[§4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style)**. **§4.91 is deliberately kept separate from the existing [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) rather than merged** — same author, same region, genuinely different formula, so the entry carries a side-by-side comparison table: §4.91 makes ~4 cups against §4.36's ~2¼, is cut with 1⅓ cups water where §4.36 uses none, runs far heavier on ketchup (½ cup + 2 Tbsp vs. 3 Tbsp), adds white pepper, and drops the Tabasco. Sharper and concentrated versus milder and more tomatoey — both worth having. **The North Carolina coleslaw on the same page was *not* added as a new entry, because it's the same recipe already at [§5.13](#513-north-carolina-coleslaw)** — cabbage plus 1 cup vinegar sauce, both printings. That entry was updated instead, folding in what the newer version actually adds: optional salt, a **10-minute stand before the final seasoning check** (taste it immediately and you'll overdress it), a mandoline as an alternative to the food processor, and the source's own framing — *"No onions. No carrots. No peppers. No mayonnaise."* Its ingredient line now offers both vinegar sauces as a real choice, since §4.91 makes a gentler slaw and §4.36 a punchier one. |
@@ -595,6 +599,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.65 Sauce Mornay](#465-sauce-mornay-cheese-sauce) | 🟢 | 5 min | 5 min | — | 10 min *(+ §4.63)* |
 | [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) | 🟢 | 5 min | 5 min | — | 10 min *(+ §4.63)* |
@@ -645,6 +650,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) | 🟢 | 15 min | — | — | 15 min |
 | [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) | 🟢 | 15 min | — | — | 15 min |
+| [§4.95 "Dry" Chimichurri](#495-dry-chimichurri) | 🟢 | 5 min | — | — | 5 min |
 | [§4.45 Pico de Gallo](#445-pico-de-gallo) | 🟢 | 15 min | — | — | 15 min |
 | [§4.46 Tomato-Pepper Salsa](#446-tomato-pepper-salsa) | 🟢 | 15 min | — | — | 15 min |
 | [§4.48 Cilantro Chutney](#448-cilantro-chutney) | 🟢 | 15 min | — | — | 15 min |
@@ -732,6 +738,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.76 Sauce Robert (Brown Mustard Sauce)](#476-sauce-robert-brown-mustard-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
 | [§4.78 Sauce Brune au Cari (Brown Curry)](#478-sauce-brune-au-cari-brown-curry-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
+| [§4.94 Red Chimichurri](#494-red-chimichurri) | 🟡 | 20 min | 20 min | — | 40 min |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
@@ -6788,6 +6795,213 @@ Remove from the heat and taste, adding salt, pepper, and more vinegar as necessa
 
 ---
 
+### 4.93 North Carolina Vinegar Sauce (Sauces Chapter — No Tomato)
+
+Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans), from its *Sauces* chapter (p. 466), tagged **U.S.A.**
+
+> ✅ **This resolves an Open Question raised at [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket).** That recipe's "Barbecue Sauce, the Texas Way" sidebar cited a *North Carolina Vinegar Sauce* at **page 466** — a different page from the vinegar sauce transcribed at [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style), which comes from the *High on Hog* chapter. The question was whether p. 466 was the same recipe reprinted or a third version. **It's a third version, and a genuinely different one.** §6.7's Open Question is now closed, and its sauce formula points here.
+
+> ⚠️ **This cookbook now holds three North Carolina vinegar sauces. Here's the whole picture:**
+>
+> | | [§4.36](#436-north-carolina-vinegar-sauce) *(How to Grill)* | [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) *(High on Hog)* | §4.93 *(Sauces ch.)* |
+> |---|---|---|---|
+> | **Yield** | ~2¼ cups | ~4 cups | ~2½ cups |
+> | **Ketchup / tomato** | 3 Tbsp | ½ cup + 2 Tbsp | **none at all** |
+> | **Water** | none | 1⅓ cups | none |
+> | **Sweetener** | 2 Tbsp brown sugar | ¼ cup brown sugar | **1 Tbsp plain sugar** |
+> | **Fresh aromatics** | none | none | **onion + jalapeño, sliced** |
+> | **Keeps?** | yes, improves over 24 hr | yes | **no — same-day only** |
+>
+> **The short version:** §4.93 is the purest and sharpest of the three — no tomato at all, barely sweetened, and carrying fresh sliced onion and jalapeño. Those fresh aromatics are exactly why **it doesn't keep**, which is the one hard practical difference between it and the other two.
+
+> **Per the source:** *"North Carolina occupies a unique position in the realm of American barbecue. Unlike the rest of the country, which enjoys tomato-based sauces, the preferred condiment here is a piquant mixture of vinegar and hot pepper flakes, with just a little sugar to take off the sharp edge. The meat it is served with is always pork, and the pork is shredded or finely chopped, not sliced. When you put the pork and vinegar sauce together, you have some of the most delectable barbecue ever to grace a bun. The jalapeño peppers aren't strictly traditional, but I like their added bite."*
+
+**Yield:** makes about 2½ cups
+
+**🟢 Easy** · **Prep ~10 min** *(mostly slicing the onion and jalapeño)* · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1½ cups cider vinegar
+- 1 Tbsp sugar, or more to taste
+- 1 Tbsp hot red pepper flakes
+- 1 small onion, thinly sliced
+- 1 jalapeño pepper, seeded and thinly sliced *(for a hotter sauce, leave the seeds in)*
+- 2 tsp salt, or more to taste
+- ½ tsp freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Combine everything and stir until the sugar and salt dissolve.**
+Put the cider vinegar, sugar, hot pepper flakes, onion, jalapeño, salt, and black pepper in a medium-size nonreactive bowl.
+
+**2. Taste and adjust.**
+Add more salt and/or sugar as necessary.
+
+> ⚠️ **Use it the day you make it.** Per the source, this sauce *"does not store well"* — the fresh onion and jalapeño are the reason. If you want a vinegar sauce to keep in the fridge, make [§4.36](#436-north-carolina-vinegar-sauce) or [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) instead.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cider vinegar — 1½ cups
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Hot red pepper flakes — 1 Tbsp
+- 🛒 Onion — 1 small
+- 🛒 Jalapeño — 1
+- 🛒 Salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(~2½ cups)* | ~120 | 1 g | 2 g | 27 g | 3 g |
+| **Per serving** *(2 Tbsp, of 20)* | ~6 | 0 g | 0 g | 1.4 g | <1 g |
+
+**What a serving is:** about 2 tablespoons, tossed into shredded pork or spooned over a sandwich. *The leanest of the three vinegar sauces — no tomato and almost no sugar.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.94 Red Chimichurri
+
+Transcribed from the same **Steven Raichlen** book as [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) (p. 478), tagged **Argentina**, *On the Side*. **Not a green chimichurri at all** — this one is cooked, tomato-based, and carries tuna and anchovy.
+
+> **Distinct from [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri)**, which is the familiar raw green version (parsley, cilantro, mint, garlic, oil, vinegar). These two share a name and almost nothing else. This cookbook now has three chimichurris — §4.44 green and raw, §4.94 red and cooked, and [§4.95 "Dry"](#495-dry-chimichurri) with no fresh anything.
+
+> **Per the source:** *"Traditional chimichurri is a garlicky green sauce made with olive oil and fresh parsley. But many variations exist in Argentina and Uruguay, including red chimichurri — a specialty of the venerable Buenos Aires steak house La Cabaña. This chimichurri differs from most in two significant ways: It's cooked (most are raw) and it's flavored with anchovies and tuna. The anchovies suggest parentage with two of the world's great steak sauces, A.1. and Worcestershire, while the tuna recalls Italy's tonnato sauce."*
+>
+> *(That tonnato comparison lands squarely on [§4.59 Tonnato Sauce](#459-tonnato-sauce), already in this cookbook — worth tasting side by side.)*
+
+**Yield:** makes about 3¼ cups
+
+**🟡 Medium** *(three stages — sauté, simmer, purée and re-cook — and a thick tomato sauce that will scorch if you stop stirring; more to go wrong than the other two chimichurris)* · **Prep ~20 min** *(a lot of small dicing)* · **Cook ~20 min** · **Start to finish ~40 min**
+
+#### A. Ingredients
+
+- ½ cup extra-virgin olive oil
+- ½ medium red bell pepper, cored, seeded, and diced
+- ½ medium carrot, peeled and diced
+- 2 scallions, both white and green parts, trimmed and diced
+- ¼ medium onion, diced
+- 1 medium rib celery, diced
+- 1 clove garlic, finely chopped
+- 3 Tbsp drained canned water-pack tuna
+- 1 anchovy fillet, drained and chopped
+- 2 Tbsp chopped fresh flat-leaf parsley
+- 2 tsp drained capers
+- 1 cup tomato sauce
+- ½ cup homemade chicken stock, canned low-sodium chicken broth, or water — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+- ¼ cup tomato paste
+- 1 Tbsp red wine vinegar, or more to taste
+- 1 tsp dried oregano
+- Salt and lots of freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Soften the vegetables. About 5 minutes.**
+Heat the olive oil in a medium nonreactive saucepan over medium heat. Add the bell pepper, carrot, scallions, onion, celery, and garlic and cook until softened **but not browned**.
+
+**2. Add everything else and simmer. About 10 minutes.**
+Stir in the tuna, anchovy, parsley, capers, tomato sauce, chicken stock, tomato paste, wine vinegar, and oregano. Season with salt and pepper, and cook uncovered until thick and fragrant.
+
+**3. Purée, then cook 5 minutes more.**
+Transfer to a food processor or blender and process to a purée, then return it to the pan and cook over medium-low heat.
+
+**4. Season hard and serve.**
+Off the heat, taste and add more wine vinegar and/or salt as necessary — **the source wants this "highly seasoned,"** so don't be timid. Serve hot or at room temperature.
+
+> **Keeps at least 3 days**, tightly covered in the refrigerator.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — ½ cup
+- 🛒 Red bell pepper — ½ medium · 🛒 Carrot — ½ medium · 🛒 Scallions — 2 · 🛒 Onion — ¼ medium · 🛒 Celery — 1 rib
+- 🛒 Garlic — 1 clove
+- 🛒 Canned water-pack tuna — 3 Tbsp drained
+- 🛒 Anchovy fillets — 1
+- 🛒 Fresh flat-leaf parsley — 2 Tbsp chopped
+- 🛒 Capers — 2 tsp
+- 🛒 Tomato sauce — 1 cup · 🛒 Tomato paste — ¼ cup
+- 🛒 Chicken stock or broth — ½ cup
+- 🛒 Red wine vinegar — 1 Tbsp
+- 🛒 Dried oregano — 1 tsp
+- 🛒 Salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(~3¼ cups)* | ~1,290 | 114 g | 18 g | 55 g | 12 g |
+| **Per serving** *(¼ cup, of 13)* | ~99 | 8.8 g | 1.4 g | 4 g | <1 g |
+
+**What a serving is:** about ¼ cup, spooned over grilled beef.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.95 "Dry" Chimichurri
+
+Transcribed from the same page as [§4.94 Red Chimichurri](#494-red-chimichurri) (p. 478), tagged **Argentina**, *On the Side*. **The simplest chimichurri there is** — olive oil, vinegar, and dried herbs, with nothing fresh in it at all. Whisk and done.
+
+> **Per the source:** *"This is the simplest of chimichurris: olive oil flavored with dried herbs and hot red pepper flakes. I first tasted it at the Estancia Cinacina, a horse ranch in Argentina that also stages barbecues and equestrian events for tourists. Argentinean food markets sell packages of premixed chimichurri herbs for people who don't have time to buy and chop fresh herbs. Spoon the chimichurri over grilled beef."*
+
+> **The one to make on a weeknight.** Of this cookbook's three chimichurris, this is the only one with no chopping, no cooking, and no perishable ingredient — everything but the oil and vinegar is already in the spice cabinet. Good to know when [§6.7 Brisket](#67-texas-style-smoked-brisket) or a steak is already taking all your attention.
+
+**Yield:** makes about ¾ cup
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- ¾ cup extra-virgin olive oil
+- 3 Tbsp red wine vinegar
+- 1 Tbsp dried oregano
+- 1 Tbsp dried basil
+- 2 tsp sweet paprika
+- 1 tsp dried thyme
+- 1 tsp hot red pepper flakes
+- ½ tsp coarse salt (kosher or sea), or more to taste
+- ½ tsp freshly ground black pepper, or more to taste
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together.**
+Place the olive oil, wine vinegar, oregano, basil, paprika, thyme, hot pepper flakes, salt, and black pepper in a bowl and whisk to mix.
+
+**2. Taste and adjust.**
+Add more salt and/or black pepper as necessary.
+
+> **Keeps at least 3 days**, tightly covered in the refrigerator. *(It'll likely go longer — there's nothing fresh in it — but 3 days is what the source commits to.)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — ¾ cup
+- 🛒 Red wine vinegar — 3 Tbsp
+- 🛒 Dried oregano — 1 Tbsp · 🛒 Dried basil — 1 Tbsp · 🛒 Dried thyme — 1 tsp
+- 🛒 Sweet paprika — 2 tsp
+- 🛒 Hot red pepper flakes — 1 tsp
+- 🛒 Coarse salt (kosher or sea), black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(~¾ cup)* | ~1,470 | 164 g | 1 g | 6 g | 3 g |
+| **Per serving** *(1 Tbsp, of 12)* | ~123 | 13.7 g | <1 g | 0.5 g | <1 g |
+
+**What a serving is:** about a tablespoon, spooned over grilled beef. *Essentially all olive oil — a little goes a long way, and [§T30 How to Use Fat](#t30-how-to-use-fat)'s point about oil carrying flavor is the whole mechanism here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -11458,7 +11672,7 @@ Cook until tender enough to shred with your fingers — 6 hours will likely do i
 **6. Rest 15 minutes, then slice across the grain.**
 Take the pan off the grill and let the brisket rest in it. Transfer to a cutting board and slice thinly **across the grain** with a sharp knife, electric knife, or cleaver. Move to a platter, pour the pan juices over the top, and serve at once.
 
-> **Barbecue Sauce, the Texas Way — the source's own sidebar formula:** *"The best Texas-style barbecue sauce combines the sweetness of Kansas City–style tomato sauces with the mouth-puckering tartness of a North Carolina vinegar sauce."* His version is **equal parts Basic Barbecue Sauce and North Carolina Vinegar Sauce**. For a really good sauce, add some meat drippings or a little chopped brisket. *(The vinegar half is [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) or [§4.36](#436-north-carolina-vinegar-sauce); the Basic Barbecue Sauce half isn't in this cookbook yet — see Open Questions.)*
+> **Barbecue Sauce, the Texas Way — the source's own sidebar formula:** *"The best Texas-style barbecue sauce combines the sweetness of Kansas City–style tomato sauces with the mouth-puckering tartness of a North Carolina vinegar sauce."* His version is **equal parts Basic Barbecue Sauce and North Carolina Vinegar Sauce**. For a really good sauce, add some meat drippings or a little chopped brisket. *(The vinegar half is **[§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato)** — the sidebar's page reference points there specifically, now confirmed; the Basic Barbecue Sauce half still isn't in this cookbook — see Open Questions.)*
 
 #### C. Grocery Shopping List
 
@@ -11489,7 +11703,7 @@ Take the pan off the grill and let the brisket rest in it. Transfer to a cutting
 
 - **No serving count given** — 8 is Claude's estimate from a 5–6 lb brisket.
 - **The Basic Barbecue Sauce (source p. 463) referenced in the Texas Way sidebar isn't in this cookbook.** Half the sauce formula is therefore unmakeable as written; worth photographing if Cody wants that sauce.
-- **The sidebar cites "North Carolina Vinegar Sauce (page 466)," which is a different page from the Vinegar Sauce transcribed at [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style)** (that one sits in the *High on Hog* chapter, around p. 177). It may be the same recipe reprinted in the sauces chapter, or a third version. **Not assumed either way** — same caution as the §4.36/§4.91 split.
+- ✅ **Settled: the "page 466" North Carolina Vinegar Sauce is a *third* version, now transcribed at [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato).** It was flagged here as possibly the same recipe reprinted; it isn't. §4.93 has **no tomato at all**, carries fresh sliced onion and jalapeño, and **doesn't keep past the day it's made** — all three points distinguish it from [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style). **For the Texas Way sauce formula above, §4.93 is the half the sidebar actually means.**
 - **Cody's own brisket smoking method is still to come** — see the note at the top of this entry and the open [§6.1 Smoked Brisket](#61-smoked-brisket) placeholder.
 
 [↑ Table of Contents](#table-of-contents)

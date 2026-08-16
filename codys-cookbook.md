@@ -345,6 +345,13 @@ Click any recipe to jump straight to it.
 - [14.6 Key Lime Pie](#146-key-lime-pie) ✅
 - [14.7 Apple Nut Ring](#147-apple-nut-ring) ○
 - [14.8 Blueberry Cobbler](#148-blueberry-cobbler) ○
+- [14.9 Pecan Pie I](#149-pecan-pie-i) ✅
+- [14.10 Pecan Pie II](#1410-pecan-pie-ii) ✅
+- [14.11 Pecan Pie III](#1411-pecan-pie-iii) ✅
+- [14.12 Pecan Pie IV](#1412-pecan-pie-iv) ✅
+- [14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) ✅
+- [14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii) ✅
+- [14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) ✅
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -360,6 +367,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Seven pies added from a *Talk About Good!* Thanksgiving-baking spread (p. 436–437): four pecan pies and three pumpkin chiffon pies, all kept as separate entries rather than merged.** **[§14.9](#149-pecan-pie-i)–[§14.12 Pecan Pie IV](#1412-pecan-pie-iv)** (Mrs. C. R. Pope, Mrs. H. M. Bernard, Mrs. Warren Rush, Marion Berry) are all rated 🟢 Easy — a baked custard in a shell is forgiving in a way a stirred one isn't. **§14.12's own measurements are folksy** — flour by "4 level soup spoons" — kept as printed with a practical ¼-cup conversion alongside, and its bake time is doneness-by-appearance only ("until it starts getting brown"), flagged and estimated rather than invented as a precise number. **[§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i)** (Mrs. Arthur E. Smith), **[§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii)** (Mrs. Leo Case), and **[§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie)** (Mrs. Warren Butcher) are all rated 🔴 Hard, same reasoning as the existing [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) — a cooked custard base that can curdle, plus a whipped meringue that has to be folded in without deflating it. **§14.14's ingredient list is genuinely incomplete** — eggs, milk, butter, cold water, and even the pie crust itself are called for in the instructions but never printed in the ingredient list, all added in rather than left out. **§14.15 carries an honesty flag rather than false confidence:** part of the photographed page was hard to read around exactly how its sugar splits between the custard and the meringue, so the instructions are written to the most sensible chiffon-pie logic and marked as a reconstruction, not a certain transcription. |
 | 2026-08-13 | Added **[§5.26 Pickled Okra](#526-pickled-okra)** — transcribed from a printed page, ***Talk About Good!*** (p. 57), credited to **Mrs. Pauline L. Sibille, Lake Providence, La.** The seasoning is given **per pint jar** rather than as one fixed batch, kept that way rather than forced into a single scaled recipe. Filed as **Slow cook 2–3 weeks**, the source's own stated pickling time. **Carries the same kind of canning-safety caution as [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut):** the source says "seal" but never mentions a boiling water bath for the filled jars, so it's written up as safest treated as a refrigerator pickle rather than assumed shelf-stable, flagged for Cody to confirm against the source's actual canning practice. |
 | 2026-08-13 | **Two Crawfish Pies added, and [§T1](#t1-how-to-make-a-roux)'s "taree" mystery is solved.** **[§7.65 Crawfish Pie I](#765-crawfish-pie-i)** (Mrs. Carmen Montegut — the same contributor behind [§T1](#t1-how-to-make-a-roux)'s Margarine Roux) turned out to use the exact same word again, this time with the source's own gloss right next to it: *"Add 3 cups water—'Taree' (simmer)."* **"Taree" is Montegut's own term for a long simmer** — not a mistranscription, not filé, just her word for it. [§T1](#t1-how-to-make-a-roux)'s Open Question is updated to say so rather than left hanging. §7.65 is rated 🟡 Medium and carries a genuine **Slow cook ~2½ hr** — the "taree" itself, mostly unattended — the first time this cookbook has used the word as a real duration rather than an unresolved flag. Also added **[§7.66 Crawfish Pie II](#766-crawfish-pie-ii)** (Lee Broussard), a fast canned-soup version with no roux at all, kept as its own entry rather than merged into §7.65 — genuinely different technique, same dish. Its garlic powder measurement is transcribed as printed and rare for this cookbook: *"⅛ bottle garlic powder (1¼ oz. size)"* — a fraction of a spice bottle rather than a spoon measure, with roughly 1 tsp added in parentheses as a practical read. |
 | 2026-08-13 | **Six more from *Talk About Good!*, from a page of crab and eggplant dishes — three per Cody's own split.** Kept: **[§7.62 Catfish Étouffée](#762-catfish-étouffée)** (Mrs. E. A. Veillon, Eunice, La.) — an unstirred étouffée, rated 🟡 Medium on the technique itself rather than a roux, since the source is blunt that stirring (instead of shaking the pot) breaks the fish; **[§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing)** (Wanda Frey); **[§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant)** (Mrs. James P. Williams, serves 6 as printed); **[§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs)** (Felecia Daigle Broussard); **[§9.24 Crab Marie](#924-crab-marie)** (Mrs. Emmons Sebenius, a whole stuffed artichoke in cream sauce, 🟡 Medium on the same cream-sauce reasoning as [§4.63 Béchamel](#463-sauce-béchamel--sauce-velouté-master-white-sauce)); and **[§9.25 Crabmeat Imperial](#925-crabmeat-imperial)** (Elsie LeBlanc, serves 8 as printed, no cooking beyond a short bake). **Per Cody, explicitly left out of the cookbook from the same page:** Bell Peppers Stuffed with Crab-Eggplant Dressing, Stuffed Bell Peppers, and Crabmeat Sycamore. §7.63's entry notes the skipped stuffed-pepper variation exists on the same source page, in case Cody wants it later. Split three to §7 Mains (substantial enough to be a main course) and three to §9 Snacks & Light Meals (composed shellfish appetizers, same shelf as [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) and [§9.10 Crabmeat Avery](#910-crabmeat-avery)). Two source gaps flagged rather than smoothed over: Fresh Stuffed Crabs' "a little butter" and Crab and Eggplant Dressing's "or ham" substitute both appear in the instructions but not either source's own ingredient list. |
@@ -639,6 +647,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
 | [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) | 🔴 | 20 min | 5 min | — | 2 hr 25 min *(includes an assumed ~2 hr chill)* |
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
@@ -648,6 +657,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§4.47 Salsa Verde](#447-salsa-verde) | 🟢 | 15 min | 15 min | — | 30 min |
+| [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) | 🔴 | 20 min | 10 min | — | 2 hr 30 min *(includes an estimated ~2 hr combined chill)* |
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
@@ -659,6 +669,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
 | [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) | 🟢 | 15 min | 20 min | — | 35 min |
+| [§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii) | 🔴 | 20 min | 15 min | — | 3 hr 35 min *(includes the printed 3 hr chill)* |
 | [§9.25 Crabmeat Imperial](#925-crabmeat-imperial) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
@@ -677,6 +688,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
+| [§14.9 Pecan Pie I](#149-pecan-pie-i) | 🟢 | 15 min | 52 min | — | 1 hr 10 min |
 | [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) | 🔴 | 25 min | 15 min | — | 2 hr 40 min *(+ 2 hr chill to set)* |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
@@ -696,6 +708,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
 | [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
+| [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
@@ -718,6 +731,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.58 Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | 🟡 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 20 min | 35 min | — | 55 min |
+| [§14.10 Pecan Pie II](#1410-pecan-pie-ii) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§10.6 Irish Soda Bread](#106-irish-soda-bread) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) | 🟡 | 25 min | 30 min | **~3½ hr** *(brisket simmer, unattended)* | 4 hr 25 min *(+ 5–7 day dry-brine cure)* |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
@@ -728,6 +742,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
+| [§14.11 Pecan Pie III](#1411-pecan-pie-iii) | 🟢 | 15 min | 50 min | — | 1 hr 5 min |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
@@ -20115,6 +20130,463 @@ Slowly add the powdered sugar and vanilla and continue beating until stiff peaks
 
 ### 14.8 Blueberry Cobbler
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. Distinct from **[§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler)** — kept as its own entry rather than merged in.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.9 Pecan Pie I
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 437), credited to **Mrs. C. R. Pope**. The first of four pecan pies on the same page, kept as separate entries rather than merged — different ratios, different techniques, genuinely different pies.
+
+**Yield:** makes one 9-inch pie, about 8 slices
+
+**🟢 Easy** · **Prep ~15 min** *(creaming butter and sugar, beating in eggs one at a time)* · **Cook ~52 min** *(45 min to 1 hr bake, per the source)* · **Start to finish ~1 hr 10 min**
+
+#### A. Ingredients
+
+- ½ cup sugar
+- ½ stick butter
+- 3 eggs
+- 1½ cups pecans
+- Pinch salt
+- 1 tsp vanilla
+- 1 cup white Karo (corn) syrup
+- 1 unbaked pie shell
+
+#### B. Cooking Instructions
+
+**1. Cream the sugar and butter.**
+
+**2. Beat in the eggs, one at a time.**
+Beat thoroughly after each addition.
+
+**3. Mix in the pecans, salt, vanilla, and syrup.**
+
+**4. Bake. 45 minutes to 1 hour at 350°F.**
+Pour into the unbaked pie shell and bake.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sugar — ½ cup
+- 🛒 Butter — ½ stick
+- 🛒 Eggs — 3
+- 🛒 Pecans — 1½ cups
+- 🛒 Vanilla extract — 1 tsp
+- 🛒 White Karo (light corn) syrup — 1 cup
+- 🛒 Salt
+- 🛒 Unbaked 9-inch pie shell
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~3,920 | 229 g | 41 g | 465 g | 17 g |
+| **Per serving** *(8 slices)* | ~490 | 29 g | 5 g | 58 g | 2 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.10 Pecan Pie II
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 437), credited to **Mrs. H. M. Bernard**. Simpler than [§14.9 Pecan Pie I](#149-pecan-pie-i) — everything beaten together at once rather than creamed first.
+
+**Yield:** makes one 9-inch pie, about 8 slices
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~45 min** *(at 425°F, per the source)* · **Start to finish ~55 min**
+
+#### A. Ingredients
+
+- 1 cup ground or chopped pecans
+- 1 cup corn syrup (red)
+- ½ cup sugar
+- 3 eggs
+- ½ tsp salt
+- 1 tsp vanilla
+- 3 Tbsp oleo (margarine)
+- 1 unbaked pastry shell
+
+#### B. Cooking Instructions
+
+**1. Beat everything together.**
+Beat the eggs, syrup, sugar, oleo, vanilla, salt, and pecans together.
+
+**2. Bake. 45 minutes at 425°F.**
+Pour into the unbaked pastry shell and bake.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pecans — 1 cup, ground or chopped
+- 🛒 Corn syrup (red/dark) — 1 cup
+- 🛒 Sugar — ½ cup
+- 🛒 Eggs — 3
+- 🛒 Vanilla extract — 1 tsp
+- 🛒 Oleo (margarine) — 3 Tbsp
+- 🛒 Salt
+- 🛒 Unbaked pastry shell
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~3,470 | 181 g | 36 g | 458 g | 12 g |
+| **Per serving** *(8 slices)* | ~435 | 23 g | 5 g | 57 g | 2 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.11 Pecan Pie III
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 437), credited to **Mrs. Warren Rush**. Built on evaporated milk rather than a plain custard base.
+
+**Yield:** makes one 9-inch pie, about 8 slices
+
+**🟢 Easy** · **Prep ~15 min** *(mixing dry ingredients, beating in eggs one at a time, stirring in the rest)* · **Cook ~50 min** *(at 375°F, per the source)* · **Start to finish ~1 hr 5 min**
+
+#### A. Ingredients
+
+- ¾ cup sugar
+- 2 Tbsp flour
+- 1 tsp salt
+- 1 cup dark corn syrup
+- 2 eggs
+- ½ cup evaporated milk
+- 1 cup pecans
+- 1 tsp vanilla
+- 2 Tbsp butter
+- 1 unbaked 9-inch pie crust
+
+#### B. Cooking Instructions
+
+**1. Mix the sugar, flour, and salt.**
+In a 1½-quart bowl.
+
+**2. Beat in the eggs, one at a time.**
+
+**3. Mix in the corn syrup, milk, pecans, vanilla, and butter.**
+
+**4. Bake. 50 minutes at 375°F.**
+Pour into the unbaked 9-inch pie crust and bake.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sugar — ¾ cup
+- 🛒 All-purpose flour — 2 Tbsp
+- 🛒 Dark corn syrup — 1 cup
+- 🛒 Eggs — 2
+- 🛒 Evaporated milk — ½ cup
+- 🛒 Pecans — 1 cup
+- 🛒 Vanilla extract — 1 tsp
+- 🛒 Butter — 2 Tbsp
+- 🛒 Salt
+- 🛒 Unbaked 9-inch pie crust
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~3,720 | 175 g | 38 g | 533 g | 12 g |
+| **Per serving** *(8 slices)* | ~465 | 22 g | 5 g | 67 g | 2 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.12 Pecan Pie IV
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 437), credited to **Marion Berry**. The source's own measurements are folksy rather than standardized — flour by "level soup spoons" — kept as printed with a practical conversion alongside.
+
+**Yield:** makes one 9-inch pie, about 8 slices
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** *(no total bake time given by the source, just "until it starts getting brown" on the bottom shelf, then a few minutes on top — estimated)* · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 1 cup white sugar
+- 4 level soup spoons flour *(roughly ¼ cup)*
+- 2 eggs
+- ½ cup dark Karo syrup
+- 1 tsp vanilla
+- 2 Tbsp melted butter
+- 2 cups chopped pecans
+- 1 unbaked pie crust
+
+#### B. Cooking Instructions
+
+**1. Mix the sugar and flour.**
+
+**2. Break the eggs over the mixture and beat well.**
+
+**3. Add the syrup, vanilla, butter, and pecans. Mix well.**
+
+**4. Bake, moving shelves partway through.**
+Pour into the crust and bake at 350°F. Start on the bottom shelf of the oven until it begins browning, then move to the top shelf for a few minutes to finish.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 White sugar — 1 cup
+- 🛒 All-purpose flour — about ¼ cup (4 level soup spoons)
+- 🛒 Eggs — 2
+- 🛒 Dark Karo syrup — ½ cup
+- 🛒 Vanilla extract — 1 tsp
+- 🛒 Butter — 2 Tbsp, melted
+- 🛒 Pecans — 2 cups, chopped
+- 🛒 Unbaked pie crust
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~4,000 | 237 g | 39 g | 463 g | 21 g |
+| **Per serving** *(8 slices)* | ~500 | 30 g | 5 g | 58 g | 3 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8. *The most pecan-heavy of the four pies here — 2 full cups — which shows up in the fiber count.*
+
+#### D. Open Questions
+
+- **No total bake time given** — the source describes doneness by appearance (browning on the bottom shelf, then a few minutes on top) rather than a stated number of minutes. ~35 min is Claude's estimate.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.13 Pumpkin Chiffon Pie I
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to **Mrs. Arthur E. Smith**. A brandy-spiked chiffon filling set with gelatin, folded with stiffly beaten egg whites rather than baked through.
+
+**Yield:** makes one 9-inch pie, about 8 slices
+
+**🔴 Hard** *(same stacked risk as [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) — a boiled custard base plus a whipped meringue that has to be folded in without deflating it)* · **Prep ~20 min** · **Cook ~5 min** *(a 1-minute boil for the custard base)* · **Start to finish ~2 hr 25 min** *(includes an assumed ~2 hr chill to set — the source doesn't state one, but a gelatin filling needs it)*
+
+> **Uses raw, uncooked egg whites**, folded in after being stiffly beaten with sugar — standard technique for a classic chiffon pie, but worth knowing if that's a concern in your kitchen.
+
+#### A. Ingredients
+
+- 3 large egg yolks
+- 1 can pumpkin (No. 303 can, about 16 oz)
+- ½ cup milk
+- ¾ cup brown sugar
+- ¼ tsp salt
+- 2 tsp cinnamon
+- 1 tsp nutmeg
+- 1 Tbsp brandy
+- 1 envelope gelatin
+- ¼ cup cold water
+- 3 egg whites
+- 6 Tbsp white sugar
+- 1 baked pie shell
+- 1 pt heavy cream, whipped
+
+#### B. Cooking Instructions
+
+**1. Combine and boil the custard base. 1 minute.**
+Combine the egg yolks, pumpkin, milk, brown sugar, salt, cinnamon, and nutmeg, and boil for 1 minute.
+
+**2. Add the gelatin.**
+Remove from the fire and add the gelatin, which has been softened in the ¼ cup cold water. Beat until smooth.
+
+**3. Add the brandy.**
+Stir in the brandy until dissolved.
+
+**4. Fold in the meringue.**
+Fold in the egg whites, stiffly beaten with the 6 Tbsp white sugar — gently, so you don't deflate them.
+
+**5. Fill and top.**
+Pour into the baked pie shell and top with the whipped cream.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 3, separated
+- 🛒 Canned pumpkin — 1 can (No. 303, about 16 oz)
+- 🛒 Milk — ½ cup
+- 🛒 Brown sugar — ¾ cup
+- 🛒 Ground cinnamon — 2 tsp
+- 🛒 Nutmeg — 1 tsp
+- 🛒 Brandy — 1 Tbsp
+- 🛒 Unflavored gelatin — 1 envelope
+- 🛒 White sugar — 6 Tbsp
+- 🛒 Heavy cream — 1 pt
+- 🛒 Salt
+- 🛒 Baked 9-inch pie shell
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~3,980 | 251 g | 51 g | 381 g | 16 g |
+| **Per serving** *(8 slices)* | ~500 | 31 g | 6 g | 48 g | 2 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.14 Pumpkin Chiffon Pie II
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to **Mrs. Leo Case**. A double-boiler custard set with gelatin, chilled 3 hours before serving.
+
+**Yield:** makes one 9-inch pie, about 8 slices
+
+**🔴 Hard** *(same reasoning as [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) and [§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) — a double-boiler custard that can curdle, plus a meringue fold)* · **Prep ~20 min** · **Cook ~15 min** *(the double-boiler custard)* · **Start to finish ~3 hr 35 min** *(includes the printed 3 hr chill)*
+
+#### A. Ingredients
+
+- 1 cup canned pumpkin
+- 1 cup sugar, divided
+- ½ tsp salt
+- ¼ tsp nutmeg
+- ½ tsp ginger
+- 1 tsp cinnamon
+- 1 envelope Knox gelatin
+- 3 eggs, separated *(named in the instructions, not the source's own ingredient list)*
+- 1 cup milk *(named in the instructions, not the source's own ingredient list)*
+- Butter, a small amount *(named in the instructions, not the source's own ingredient list — quantity not given)*
+- Cold water, for softening the gelatin *(named in the instructions, not the source's own ingredient list)*
+- 1 baked pie crust *(named in the instructions, not the source's own ingredient list)*
+- Whipped cream, for serving
+
+#### B. Cooking Instructions
+
+**1. Heat the pumpkin. 10 minutes.**
+In a double boiler.
+
+**2. Make the custard.**
+Mix the egg yolks, milk, and half the sugar (½ cup). Add to the pumpkin along with the salt, spices, and butter. Stir and cook to custard consistency.
+
+**3. Add the gelatin.**
+Remove from heat, add the gelatin (softened in cold water), and chill until it dissolves.
+
+**4. Fold in the meringue.**
+When the mixture begins to stiffen, fold in the egg whites, stiffly beaten with the remaining ½ cup sugar.
+
+**5. Fill and chill. 3 hours.**
+Turn into the baked crust and chill.
+
+**6. Serve with whipped cream.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Canned pumpkin — 1 cup
+- 🛒 Sugar — 1 cup, divided
+- 🛒 Ground nutmeg, ginger, cinnamon
+- 🛒 Knox gelatin — 1 envelope
+- 🛒 Eggs — 3, separated
+- 🛒 Milk — 1 cup
+- 🛒 Butter — a small amount
+- 🛒 Whipped cream, for serving
+- 🛒 Salt
+- 🛒 Baked pie crust
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~2,640 | 136 g | 46 g | 316 g | 10 g |
+| **Per serving** *(8 slices)* | ~330 | 17 g | 6 g | 40 g | 1 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8.
+
+#### D. Open Questions
+
+- **The source's own ingredient list is genuinely incomplete** — eggs, milk, butter, cold water, and the baked crust itself are all called for in the instructions but never appear in the printed ingredient list. Added into Ingredients above (with quantities inferred from context, or left unspecified where the source gives no clue) rather than left out.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.15 Heavenly Pumpkin Pie
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to **Mrs. Warren Butcher**. A gelatin-set pumpkin chiffon finished with prepared Dream Whip.
+
+**Yield:** makes one 9-inch pie, about 8 slices
+
+**🔴 Hard** *(same meringue-fold reasoning as [§14.5](#145-pumpkin-chiffon-pie), [§14.13](#1413-pumpkin-chiffon-pie-i), and [§14.14](#1414-pumpkin-chiffon-pie-ii))* · **Prep ~20 min** · **Cook ~10 min** *(cooking the custard over boiling water)* · **Start to finish ~2 hr 30 min** *(includes an estimated ~2 hr combined chill — the source calls for chilling twice but doesn't give exact times)*
+
+> **This entry's exact instruction sequence is a best-effort reconstruction, not a certain transcription** — part of the photographed page is hard to read cleanly around how the sugar is split between the custard and the meringue. Written up to the most sensible chiffon-pie logic (half the sugar cooked into the custard, half beaten into the egg whites); flagged in Open Questions.
+
+#### A. Ingredients
+
+- 1 Tbsp gelatin
+- ¼ cup cold water
+- 1 cup sugar, divided
+- 1¼ cups mashed cooked pumpkin
+- ¾ cup milk
+- 2 eggs, separated
+- ½ tsp salt
+- 1 tsp pumpkin pie spice
+- ½ tsp vanilla
+- 1 envelope Dream Whip, prepared as directed on the package
+- 1 baked 9-inch pie shell
+
+#### B. Cooking Instructions
+
+**1. Soften the gelatin in the cold water.**
+
+**2. Cook the custard. About 10 minutes.**
+Cook the pumpkin, milk, egg yolks, half the sugar (½ cup), salt, and spice together over boiling water, stirring constantly.
+
+**3. Add the gelatin and chill until thick.**
+
+**4. Beat the egg whites with the remaining sugar.**
+Beat until stiff, adding the remaining ½ cup sugar gradually.
+
+**5. Fold the whites into the pumpkin mixture, then fold in the Dream Whip.**
+Add the vanilla along the way.
+
+**6. Fill the shell and chill.**
+Pour into the pie shell and chill until set.
+
+**7. Top with more Dream Whip or whipped cream to serve.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unflavored gelatin — 1 Tbsp
+- 🛒 Sugar — 1 cup, divided
+- 🛒 Mashed cooked pumpkin — 1¼ cups
+- 🛒 Milk — ¾ cup
+- 🛒 Eggs — 2, separated
+- 🛒 Pumpkin pie spice — 1 tsp
+- 🛒 Vanilla extract — ½ tsp
+- 🛒 Dream Whip — 1 envelope
+- 🛒 Salt
+- 🛒 Baked 9-inch pie shell
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~2,360 | 95 g | 40 g | 343 g | 12 g |
+| **Per serving** *(8 slices)* | ~295 | 12 g | 5 g | 43 g | 2 g |
+
+**What a serving is:** one slice of a 9-inch pie, cut into 8. *The lightest of this batch's pumpkin pies — Dream Whip instead of straight heavy cream keeps it well under [§14.13](#1413-pumpkin-chiffon-pie-i)'s calorie count.*
+
+#### D. Open Questions
+
+- **The instruction sequence around splitting the sugar is reconstructed, not certainly transcribed** — see the note above.
+- **Both chill steps are timeless in the source** ("chill until thick," "pour into pie shell; chill") — ~2 hr combined is Claude's estimate.
 
 [↑ Table of Contents](#table-of-contents)
 

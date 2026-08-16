@@ -246,6 +246,8 @@ Click any recipe to jump straight to it.
 - [7.62 Catfish Étouffée](#762-catfish-étouffée) ✅
 - [7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) ✅
 - [7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) ✅
+- [7.65 Crawfish Pie I](#765-crawfish-pie-i) ✅
+- [7.66 Crawfish Pie II](#766-crawfish-pie-ii) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -357,6 +359,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Two Crawfish Pies added, and [§T1](#t1-how-to-make-a-roux)'s "taree" mystery is solved.** **[§7.65 Crawfish Pie I](#765-crawfish-pie-i)** (Mrs. Carmen Montegut — the same contributor behind [§T1](#t1-how-to-make-a-roux)'s Margarine Roux) turned out to use the exact same word again, this time with the source's own gloss right next to it: *"Add 3 cups water—'Taree' (simmer)."* **"Taree" is Montegut's own term for a long simmer** — not a mistranscription, not filé, just her word for it. [§T1](#t1-how-to-make-a-roux)'s Open Question is updated to say so rather than left hanging. §7.65 is rated 🟡 Medium and carries a genuine **Slow cook ~2½ hr** — the "taree" itself, mostly unattended — the first time this cookbook has used the word as a real duration rather than an unresolved flag. Also added **[§7.66 Crawfish Pie II](#766-crawfish-pie-ii)** (Lee Broussard), a fast canned-soup version with no roux at all, kept as its own entry rather than merged into §7.65 — genuinely different technique, same dish. Its garlic powder measurement is transcribed as printed and rare for this cookbook: *"⅛ bottle garlic powder (1¼ oz. size)"* — a fraction of a spice bottle rather than a spoon measure, with roughly 1 tsp added in parentheses as a practical read. |
 | 2026-08-13 | **Six more from *Talk About Good!*, from a page of crab and eggplant dishes — three per Cody's own split.** Kept: **[§7.62 Catfish Étouffée](#762-catfish-étouffée)** (Mrs. E. A. Veillon, Eunice, La.) — an unstirred étouffée, rated 🟡 Medium on the technique itself rather than a roux, since the source is blunt that stirring (instead of shaking the pot) breaks the fish; **[§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing)** (Wanda Frey); **[§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant)** (Mrs. James P. Williams, serves 6 as printed); **[§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs)** (Felecia Daigle Broussard); **[§9.24 Crab Marie](#924-crab-marie)** (Mrs. Emmons Sebenius, a whole stuffed artichoke in cream sauce, 🟡 Medium on the same cream-sauce reasoning as [§4.63 Béchamel](#463-sauce-béchamel--sauce-velouté-master-white-sauce)); and **[§9.25 Crabmeat Imperial](#925-crabmeat-imperial)** (Elsie LeBlanc, serves 8 as printed, no cooking beyond a short bake). **Per Cody, explicitly left out of the cookbook from the same page:** Bell Peppers Stuffed with Crab-Eggplant Dressing, Stuffed Bell Peppers, and Crabmeat Sycamore. §7.63's entry notes the skipped stuffed-pepper variation exists on the same source page, in case Cody wants it later. Split three to §7 Mains (substantial enough to be a main course) and three to §9 Snacks & Light Meals (composed shellfish appetizers, same shelf as [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) and [§9.10 Crabmeat Avery](#910-crabmeat-avery)). Two source gaps flagged rather than smoothed over: Fresh Stuffed Crabs' "a little butter" and Crab and Eggplant Dressing's "or ham" substitute both appear in the instructions but not either source's own ingredient list. |
 | 2026-08-13 | **Three more from *Talk About Good!*:** **[§8.30 Turtle Soup I](#830-turtle-soup-i)** (Dr. J. J. Burdin) and **[§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone)** (Mrs. Helen M. Hayes), plus **[§7.61 Broiled Fish](#761-broiled-fish)** (Sarah Beacham, p. 171). The two turtle soups are genuinely different techniques kept side by side rather than merged: §8.30 thickens with mashed hard-boiled egg yolks and no roux at all (🟢 Easy — nothing here can curdle or burn), while §8.31 uses a light roux built right in the sautéed onions and celery (🟡 Medium, same reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy)) and is named for the Hotel Monteleone's well-known version. **§7.61 Broiled Fish rated 🟡 Medium on the strength of the source's own warning** — *"fish burns quickly"* under a broiler — a real, fast failure mode rather than a forgiving one; its four optional finishing variations (onion, tomato, browned almonds, or a garlic-butter sauce) are transcribed but not counted in Nutrition, since they're interchangeable extras. **One attribution flagged rather than assumed:** "Martha Paggi" appears above §8.30's title on the photographed page, read as a running header carried over from the previous recipe rather than this one's author, since the recipe itself is clearly signed by Dr. J. J. Burdin. |
 | 2026-08-13 | **New source: *Talk About Good!*, the Junior League of Lafayette's community cookbook — confirmed by Cody, not inferred.** Added a roux-technique addendum to **[§T1 How to Make a Roux](#t1-how-to-make-a-roux)** (new §D, renumbering the old Grocery Shopping List to §E) covering two alternate methods: an oil roux from Mrs. Ronald Andrus, and a Margarine Roux from Carmen B. Montegut of St. Martinville. **The genuinely new rule this source adds:** always cool a roux with hot water, never cold — cold water can curdle it or split the oil from the flour, which §T1's fast Cajun method never needed to mention since it stops the roux with vegetables instead. **One term left unresolved rather than guessed at:** the Margarine Roux calls for "3 cups water and 'taree'" — quoted in the original, and not a word this cookbook or Cody could place; flagged as an Open Question instead of assumed to mean filé. Then added seven gumbos from the same source, each kept as its own entry: **[§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo)** (Bob Durkee, 8 whole ducks), **[§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo)** (Mrs. Haskell Walker), **[§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters)** (Mrs. Robert E. Billeaud), **[§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)** (Mrs. Charles Hightower, Jr.), **[§8.27 Green Gumbo](#827-green-gumbo)** (Charles Begneaud, blended raw greens), **[§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé)** (Mrs. F. H. Davis, Sr.), and **[§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo)** (Mrs. F. M. McGinn) — kept distinct from the existing [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) since it's a lard roux with no sausage. **Difficulty split on how each source describes its roux, not just on "it's a gumbo":** fast dark-brown roux with no low-heat qualifier rated 🔴 Hard (Duck & Sausage, Duck and Guinea); a slow or low-heat roux, or one described as merely "brown" rather than dark, rated 🟡 Medium (Wild Goose, Felecia's Goose, Green Gumbo, Chicken Gumbo Filé, Mrs. McGinn's Seafood Gumbo) — same reasoning already established at [§4.17 Giblet Gravy](#417-giblet-gravy). **Several genuine source gaps flagged rather than smoothed over:** Wild Goose Gumbo's 3 qt of water and Felecia's Goose Gumbo's garlic powder, green onion tops, and parsley all appear in the instructions but not the source's own ingredient lists; Green Gumbo never gives a roux quantity or a greens quantity at all; Mrs. McGinn's Seafood Gumbo's shrimp/oyster/parsley timing reads garbled on the photographed page and is written up as the most sensible reading rather than a confirmed transcription; none of the seven give a serving count, so all seven carry a flagged, estimated one. |
@@ -689,6 +692,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.0 Loaded Frittata Formula](#100-the-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
+| [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
@@ -748,6 +752,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | 🟡 | 15 min | 1 hr 35 min | — | 1 hr 50 min |
 | [§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) | 🟡 | 20 min | 1 hr 50 min | — | 2 hr 10 min |
+| [§7.65 Crawfish Pie I](#765-crawfish-pie-i) | 🟡 | 25 min | 1 hr 45 min | **2½ hr** *("taree" — a long simmer, mostly unattended)* | 4 hr 40 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) | 🟢 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
@@ -6626,7 +6631,7 @@ Melt the margarine in a heavy pot, add the flour, and brown lightly, stirring fr
 
 > **Per the source, a chicken variant:** equal parts cooking oil and flour, with the chicken itself browned lightly in the roux before the water goes in — for chicken gumbo or chicken stew.
 
-**Open Question:** the source adds *"3 cups water and 'taree'"* to the Margarine Roux, with "taree" in quotes on the original card — not a word Cody or this cookbook can otherwise place. Transcribed exactly as printed rather than guessed at (it isn't obviously filé, which the recipe never separately mentions). Flag for Cody to confirm if he recognizes the term.
+**"Taree" resolved:** the same phrase turns up again in [§7.65 Crawfish Pie I](#765-crawfish-pie-i), from the same contributor (Carmen Montegut) — *"Add 3 cups water—'Taree' (simmer)"* — with the source's own parenthetical gloss right next to it this time. **"Taree" is Montegut's own term for a long simmer**, not a mistranscription or a missing ingredient. The Margarine Roux instructions above should be read the same way: add the water, then let it "taree" (simmer) for several hours.
 
 #### E. Grocery Shopping List
 
@@ -14632,6 +14637,158 @@ Fill the eggplant halves and bake. Buttered bread crumbs may be added for the la
 | **Per serving** *(serves 6, as printed)* | ~295 | 10 g | 25 g | 26 g | 5 g |
 
 **What a serving is:** one stuffed eggplant half.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.65 Crawfish Pie I
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Carmen Montegut**, the same contributor behind the Margarine Roux in [§T1](#t1-how-to-make-a-roux). A real roux-and-vegetable filling, baked in a double crust of flaky French pastry. **This is also the recipe that resolves [§T1](#t1-how-to-make-a-roux)'s "taree" mystery** — the source glosses its own term right in the instructions: *"'Taree' (simmer)."*
+
+**Yield:** serves 6 *(as printed)*
+
+**🟡 Medium** *(a light margarine roux, browned gently rather than fast and dark — same reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy))* · **Prep ~25 min** *(estimated — chopping onion, garlic, green pepper, shallots, parsley, and celery; making the pastry)* · **Cook ~1 hr 45 min** *(1 hr frying the roux and vegetables, stirring frequently; 15 min cooking the crawfish tails; about 30 min baking, at two oven temperatures)* · **Slow cook ~2½ hr** *("taree" — the source's own term for a long simmer, several hours, mostly unattended)* · **Start to finish ~4 hr 40 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(the Margarine Roux variant, §D)*
+
+#### A. Ingredients
+
+- 3 lb crawfish tails
+- 2 sticks margarine
+- ½ cup flour
+- 1 onion, chopped
+- 2 cloves garlic
+- 1 green pepper, chopped
+- 2 bunches shallots, chopped *(keep the tops separate)*
+- 1 bunch parsley, chopped
+- 1 cup celery
+- 3 Tbsp tomato sauce
+- Salt, cayenne, black pepper, to taste
+- 3 cups water
+- 2 Tbsp cornstarch, mixed with water to a cream consistency *(if the filling thins out)*
+- 1 recipe flaky French pastry, for a double-crust pie
+
+#### B. Cooking Instructions
+
+**1. Make a light roux.**
+Melt the margarine. Add the flour and brown lightly.
+
+**2. Add the vegetables and fry. About 1 hour.**
+Add the garlic, onion, celery, and tomato sauce. Cover and fry, stirring frequently to keep from sticking.
+
+**3. Add water and let it "taree." Several hours.**
+Add the 3 cups of water and let it simmer ("taree," per the source) for several hours, adding more water if it thickens too much. The mixture should be creamy and thick by the time you add the tails.
+
+**4. Add the crawfish tails and fat. About 15 minutes.**
+Cook until the tails are tender.
+
+**5. Thicken if needed.**
+If the mixture thins out after the tails go in, thicken it with the cornstarch slurry.
+
+**6. Finish with onion tops and parsley.**
+The filling is now ready for the pie shell, or to serve over steaming rice as an étouffée.
+
+**7. Fill and top the pie.**
+Prepare the pie shell with the flaky French pastry. Pour the filling over the bottom crust, cover with another layer of dough, and cut slits in the top.
+
+**8. Bake in two stages. About 30 minutes total.**
+Bake at 350°F for about 15 minutes, then reduce the heat to 300°F and bake another 12 to 15 minutes, or until golden brown.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Crawfish tails — 3 lb
+- 🛒 Margarine — 2 sticks
+- 🛒 All-purpose flour — ½ cup, plus 2 Tbsp cornstarch on hand
+- 🛒 Onion — 1
+- 🛒 Garlic — 2 cloves
+- 🛒 Green pepper — 1
+- 🛒 Shallots — 2 bunches
+- 🛒 Fresh parsley — 1 bunch
+- 🛒 Celery — 1 cup
+- 🛒 Tomato sauce — 3 Tbsp
+- 🛒 Salt, cayenne, black pepper
+- 🛒 Flaky French pastry — 1 recipe (double crust)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~5,020 | 312 g | 216 g | 257 g | 7 g |
+| **Per serving** *(serves 6, as printed)* | ~835 | 52 g | 36 g | 43 g | 1 g |
+
+**What a serving is:** one generous slice, about ⅙ of the pie.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.66 Crawfish Pie II
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Lee Broussard**. A quick, canned-soup crawfish pie filling — no roux at all, kept distinct from [§7.65 Crawfish Pie I](#765-crawfish-pie-i)'s slow-cooked roux version rather than merged in.
+
+**Yield:** not stated; estimated to serve 6, flagged below.
+
+**🟢 Easy** · **Prep ~15 min** *(estimated — chopping onion and celery, prepping the crust)* · **Cook ~30 min** *(sautéing, a 10–15 min simmer, then baking until the crust browns)* · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 2 lb peeled crawfish tails and fat
+- 1 stick oleo (margarine, *not* butter)
+- 1 can cream of mushroom soup
+- 1 large can Carnation (evaporated) milk
+- 1 tsp cornstarch
+- ⅛ bottle garlic powder *(1¼ oz size bottle — roughly 1 tsp)*
+- 1 cup chopped onion
+- 1 cup chopped celery
+- 1 unbaked pie crust and top
+
+#### B. Cooking Instructions
+
+**1. Sauté the onion and celery until wilted.**
+Sauté in the oleo until thoroughly wilted.
+
+**2. Add the soup, milk, crawfish fat, cornstarch, and garlic powder.**
+Dilute the cornstarch and garlic powder in a little water first.
+
+**3. Cook. 10–15 minutes.**
+
+**4. Add the crawfish tails and mix thoroughly.**
+
+**5. Fill the crust and bake until browned.**
+Use as filling with your favorite pie crust recipe. Bake in a 350°F oven until the crust is browned.
+
+> **Per the source:** shrimp may be substituted for crawfish.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Crawfish tails and fat — 2 lb, peeled
+- 🛒 Oleo (margarine) — 1 stick
+- 🛒 Cream of mushroom soup — 1 can
+- 🛒 Carnation (evaporated) milk — 1 large can
+- 🛒 Cornstarch — 1 tsp
+- 🛒 Garlic powder
+- 🛒 Onion — 1 cup chopped
+- 🛒 Celery — 1 cup chopped
+- 🛒 Pie crust, top and bottom — 1, your own recipe
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** | ~4,190 | 252 g | 172 g | 246 g | 5 g |
+| **Per serving** *(estimated 6 servings)* | ~700 | 42 g | 29 g | 41 g | 1 g |
+
+**What a serving is:** one generous slice, about ⅙ of the pie.
+
+#### D. Open Questions
+
+- **No serving count given** — 6 is Claude's estimate, matching [§7.65](#765-crawfish-pie-i).
+- **Pie crust nutrition is a generic double-crust estimate** — the source names no specific recipe ("your favorite pie crust").
 
 [↑ Table of Contents](#table-of-contents)
 

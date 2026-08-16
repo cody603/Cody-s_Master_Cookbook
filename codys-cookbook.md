@@ -325,6 +325,8 @@ Click any recipe to jump straight to it.
 - [10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) ✅
 - [10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) ○ *(incomplete — most of the page not photographed)*
 - [10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) ○
+- [10.10 Cheese Grits](#1010-cheese-grits) ✅
+- [10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) ✅
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
@@ -352,6 +354,9 @@ Click any recipe to jump straight to it.
 - [14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) ✅
 - [14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii) ✅
 - [14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) ✅
+- [14.16 Pie Crust](#1416-pie-crust) ✅
+- [14.17 Flaky French Pastry](#1417-flaky-french-pastry) ✅
+- [14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) ✅
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -367,6 +372,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Five more from *Talk About Good!*: two grits casseroles and three pastry/crust recipes — one of which closes a reference gap from [§7.65 Crawfish Pie I](#765-crawfish-pie-i).** **[§10.10 Cheese Grits](#1010-cheese-grits)** (Mrs. Charles Hightower, Jr., who also gave [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)) and **[§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits)** (jointly credited to three contributors — Martha Paggi, Mrs. James C. Nixon, and Mrs. Nelwyn Williams, kept as printed rather than picking one name) — both filed in §10 Breakfast. §10.11 carries a variation note from a fourth contributor, Betty Jean Tompkins, on folding in stiffly beaten egg whites for a lighter texture. **A third recipe on the same page, Fried Grits, was cut off at the bottom of the photo and wasn't transcribed** — flagged rather than guessed at, needs a follow-up photo. **[§14.17 Flaky French Pastry](#1417-flaky-french-pastry) is Mrs. Carmen Montegut's own pastry — the exact "1 recipe flaky French pastry" [§7.65 Crawfish Pie I](#765-crawfish-pie-i) called for by name**, now transcribed in full and cross-linked back; a real 18-step laminated dough (three separate roll-grease-fold-rest cycles), rated 🟡 Medium. Also added **[§14.16 Pie Crust](#1416-pie-crust)** (Mrs. T. M. Biggs, a simple freezer-friendly cut-in dough) and **[§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust)** (Mrs. Mona Guidry) — despite its name, the latter is actually a folded, fig-preserve-filled bar cookie rather than a crust for a round pie, noted as such rather than filed as if it were one. |
 | 2026-08-13 | **Seven pies added from a *Talk About Good!* Thanksgiving-baking spread (p. 436–437): four pecan pies and three pumpkin chiffon pies, all kept as separate entries rather than merged.** **[§14.9](#149-pecan-pie-i)–[§14.12 Pecan Pie IV](#1412-pecan-pie-iv)** (Mrs. C. R. Pope, Mrs. H. M. Bernard, Mrs. Warren Rush, Marion Berry) are all rated 🟢 Easy — a baked custard in a shell is forgiving in a way a stirred one isn't. **§14.12's own measurements are folksy** — flour by "4 level soup spoons" — kept as printed with a practical ¼-cup conversion alongside, and its bake time is doneness-by-appearance only ("until it starts getting brown"), flagged and estimated rather than invented as a precise number. **[§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i)** (Mrs. Arthur E. Smith), **[§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii)** (Mrs. Leo Case), and **[§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie)** (Mrs. Warren Butcher) are all rated 🔴 Hard, same reasoning as the existing [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) — a cooked custard base that can curdle, plus a whipped meringue that has to be folded in without deflating it. **§14.14's ingredient list is genuinely incomplete** — eggs, milk, butter, cold water, and even the pie crust itself are called for in the instructions but never printed in the ingredient list, all added in rather than left out. **§14.15 carries an honesty flag rather than false confidence:** part of the photographed page was hard to read around exactly how its sugar splits between the custard and the meringue, so the instructions are written to the most sensible chiffon-pie logic and marked as a reconstruction, not a certain transcription. |
 | 2026-08-13 | Added **[§5.26 Pickled Okra](#526-pickled-okra)** — transcribed from a printed page, ***Talk About Good!*** (p. 57), credited to **Mrs. Pauline L. Sibille, Lake Providence, La.** The seasoning is given **per pint jar** rather than as one fixed batch, kept that way rather than forced into a single scaled recipe. Filed as **Slow cook 2–3 weeks**, the source's own stated pickling time. **Carries the same kind of canning-safety caution as [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut):** the source says "seal" but never mentions a boiling water bath for the filled jars, so it's written up as safest treated as a refrigerator pickle rather than assumed shelf-stable, flagged for Cody to confirm against the source's actual canning practice. |
 | 2026-08-13 | **Two Crawfish Pies added, and [§T1](#t1-how-to-make-a-roux)'s "taree" mystery is solved.** **[§7.65 Crawfish Pie I](#765-crawfish-pie-i)** (Mrs. Carmen Montegut — the same contributor behind [§T1](#t1-how-to-make-a-roux)'s Margarine Roux) turned out to use the exact same word again, this time with the source's own gloss right next to it: *"Add 3 cups water—'Taree' (simmer)."* **"Taree" is Montegut's own term for a long simmer** — not a mistranscription, not filé, just her word for it. [§T1](#t1-how-to-make-a-roux)'s Open Question is updated to say so rather than left hanging. §7.65 is rated 🟡 Medium and carries a genuine **Slow cook ~2½ hr** — the "taree" itself, mostly unattended — the first time this cookbook has used the word as a real duration rather than an unresolved flag. Also added **[§7.66 Crawfish Pie II](#766-crawfish-pie-ii)** (Lee Broussard), a fast canned-soup version with no roux at all, kept as its own entry rather than merged into §7.65 — genuinely different technique, same dish. Its garlic powder measurement is transcribed as printed and rare for this cookbook: *"⅛ bottle garlic powder (1¼ oz. size)"* — a fraction of a spice bottle rather than a spoon measure, with roughly 1 tsp added in parentheses as a practical read. |
@@ -607,6 +613,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.50 Cucumber Relish](#450-cucumber-relish) | 🟢 | 15 min | — | — | 15 min |
 | [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage) | 🟢 | 15 min | — | **1–1½ hr** *(indirect grill)* | 1 hr 15 min – 1 hr 45 min |
 | [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | 🟡 | 15 min | — | — | 15 min |
+| [§14.16 Pie Crust](#1416-pie-crust) | 🟢 | 15 min | — | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
@@ -735,6 +742,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.6 Irish Soda Bread](#106-irish-soda-bread) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) | 🟡 | 25 min | 30 min | **~3½ hr** *(brisket simmer, unattended)* | 4 hr 25 min *(+ 5–7 day dry-brine cure)* |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
+| [§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) | 🟢 | 20 min | 35 min | — | 55 min |
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
 | [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters) | 🟡 | 30 min | 15 min | **4 hr** *(covered simmer, unattended)* | 4 hr 45 min |
@@ -743,11 +751,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
 | [§14.11 Pecan Pie III](#1411-pecan-pie-iii) | 🟢 | 15 min | 50 min | — | 1 hr 5 min |
+| [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) | 🟢 | 10 min | 55 min | — | 1 hr 5 min |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
+| [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
@@ -763,6 +773,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) | 🔴 | 35 min | 1 hr 30 min | — | 2 hr 5 min |
 | [§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) | 🟢 | 20 min | 1 hr 45 min | — | 2 hr 5 min |
+| [§14.17 Flaky French Pastry](#1417-flaky-french-pastry) | 🟡 | 35 min | — | — | 2 hr 5 min *(includes three 30-min rests between folds)* |
 | [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **2–4 hr** *(sous vide, unattended)* | 3½–5½ hr |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
@@ -14733,7 +14744,7 @@ Fill the eggplant halves and bake. Buttered bread crumbs may be added for the la
 
 ### 7.65 Crawfish Pie I
 
-Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Carmen Montegut**, the same contributor behind the Margarine Roux in [§T1](#t1-how-to-make-a-roux). A real roux-and-vegetable filling, baked in a double crust of flaky French pastry. **This is also the recipe that resolves [§T1](#t1-how-to-make-a-roux)'s "taree" mystery** — the source glosses its own term right in the instructions: *"'Taree' (simmer)."*
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Carmen Montegut**, the same contributor behind the Margarine Roux in [§T1](#t1-how-to-make-a-roux). A real roux-and-vegetable filling, baked in a double crust of [§14.17 Flaky French Pastry](#1417-flaky-french-pastry) — also Montegut's own recipe, now transcribed in full. **This is also the recipe that resolves [§T1](#t1-how-to-make-a-roux)'s "taree" mystery** — the source glosses its own term right in the instructions: *"'Taree' (simmer)."*
 
 **Yield:** serves 6 *(as printed)*
 
@@ -14756,7 +14767,7 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. C
 - Salt, cayenne, black pepper, to taste
 - 3 cups water
 - 2 Tbsp cornstarch, mixed with water to a cream consistency *(if the filling thins out)*
-- 1 recipe flaky French pastry, for a double-crust pie
+- 1 recipe [§14.17 Flaky French Pastry](#1417-flaky-french-pastry), for a double-crust pie
 
 #### B. Cooking Instructions
 
@@ -14779,7 +14790,7 @@ If the mixture thins out after the tails go in, thicken it with the cornstarch s
 The filling is now ready for the pie shell, or to serve over steaming rice as an étouffée.
 
 **7. Fill and top the pie.**
-Prepare the pie shell with the flaky French pastry. Pour the filling over the bottom crust, cover with another layer of dough, and cut slits in the top.
+Prepare the pie shell with the [§14.17 Flaky French Pastry](#1417-flaky-french-pastry). Pour the filling over the bottom crust, cover with another layer of dough, and cut slits in the top.
 
 **8. Bake in two stages. About 30 minutes total.**
 Bake at 350°F for about 15 minutes, then reduce the heat to 300°F and bake another 12 to 15 minutes, or until golden brown.
@@ -19317,6 +19328,121 @@ Not yet calculable — the shellfish quantity and the egg-and-cream custard, whi
 
 ---
 
+### 10.10 Cheese Grits
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Charles Hightower, Jr.** — the same contributor behind [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo). A baked sharp-cheddar grits casserole.
+
+**Yield:** not stated; estimated to serve 8, flagged below.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr** *(cooking the grits, then a 45 min bake)* · **Start to finish ~1 hr 15 min**
+
+#### A. Ingredients
+
+- 1½ cups grits
+- 7 cups water
+- 1 tsp salt
+- 1 lb sharp cheese, grated
+- 2 eggs
+- 1 Tbsp Worcestershire sauce
+- 1 garlic bud, pressed
+- 1 stick margarine
+- Tabasco sauce, to taste
+
+#### B. Cooking Instructions
+
+**1. Cook the grits.**
+Cook the grits in the salted water until thick.
+
+**2. Add everything else and bake. 45 minutes at about 350°F.**
+Add the cheese, eggs, Worcestershire, garlic, margarine, and Tabasco to the cooked grits, mix, and bake in a casserole dish.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Grits — 1½ cups
+- 🛒 Sharp cheese, grated — 1 lb
+- 🛒 Eggs — 2
+- 🛒 Worcestershire sauce — 1 Tbsp
+- 🛒 Garlic — 1 bud
+- 🛒 Margarine — 1 stick
+- 🛒 Tabasco sauce
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole casserole** | ~3,525 | 247 g | 140 g | 173 g | 9 g |
+| **Per serving** *(estimated 8 servings)* | ~440 | 31 g | 18 g | 22 g | 1 g |
+
+**What a serving is:** a generous scoop, about 1 cup — hearty enough for a breakfast or brunch side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 10.11 Garlic Cheese Grits
+
+Transcribed from a printed page — ***Talk About Good!***, credited jointly to **Martha Paggi, Mrs. James C. Nixon, and Mrs. Nelwyn Williams** — three contributors listed together on the same recipe, kept as printed rather than picking one name. Built on a roll of Kraft garlic cheese rather than grated sharp cheddar, distinct from [§10.10 Cheese Grits](#1010-cheese-grits).
+
+**Yield:** not stated; estimated to serve 7, flagged below.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~55 min** *(cooking the grits, then 40 min–1 hr baking)* · **Start to finish ~1 hr 5 min**
+
+#### A. Ingredients
+
+- 1 cup grits
+- 4 cups water
+- 1 tsp salt
+- 1 roll garlic cheese *(Kraft)*
+- 1 stick butter
+- 2 eggs, well beaten
+- ¼ cup milk
+- Salt and pepper, to taste
+
+#### B. Cooking Instructions
+
+**1. Cook the grits.**
+Cook the grits in the salted water.
+
+**2. Add the garlic cheese, broken into pieces.**
+
+**3. Add the butter, eggs, milk, salt, and pepper.**
+
+**4. Bake. 40 minutes to 1 hour at 300–350°F.**
+Put in a 1½-quart casserole and bake.
+
+> **Variation, per Betty Jean Tompkins:** separate the eggs, and fold in the 2 stiffly beaten egg whites right before putting the casserole in to bake, for a lighter texture.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Grits — 1 cup
+- 🛒 Garlic cheese roll (Kraft) — 1
+- 🛒 Butter — 1 stick
+- 🛒 Eggs — 2
+- 🛒 Milk — ¼ cup
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole casserole** | ~2,110 | 154 g | 52 g | 123 g | 6 g |
+| **Per serving** *(estimated 7 servings)* | ~300 | 22 g | 7 g | 18 g | 1 g |
+
+**What a serving is:** a generous scoop, about ¾ cup.
+
+#### D. Open Questions
+
+- **[FRIED GRITS], the next recipe on the same page, was cut off at the bottom of the photo** — not transcribed, since there's nothing legible to work from. Flagged here rather than guessed at; needs a follow-up photo.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 11. Southern Keto Baking & Sides
 
 The "Southern keto" entries are low-carb rebuilds of Southern staples — almond flour and the like standing in for wheat flour, potatoes, and cornmeal. Worth capturing the substitution logic once these get written up, since the same swaps repeat across the group. **[§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad)** is the first one filled in, and its swap is the template for the rest: **frozen cauliflower florets for potatoes**, **liquid stevia for sugar** in the dressing — same texture and richness, a fraction of the carbs.
@@ -20587,6 +20713,199 @@ Pour into the pie shell and chill until set.
 
 - **The instruction sequence around splitting the sugar is reconstructed, not certainly transcribed** — see the note above.
 - **Both chill steps are timeless in the source** ("chill until thick," "pour into pie shell; chill") — ~2 hr combined is Claude's estimate.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.16 Pie Crust
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 448), credited to **Mrs. T. M. Biggs, Houston, Texas**. A basic cut-in-shortening dough, sized to make several crusts at once for the freezer.
+
+**Yield:** makes 2 large double-crust pastries, or 3–4 single crusts *(as printed)* — may be frozen until needed
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min** *(plus a chill before rolling, if you like a flakier crust — not required by the card)*
+
+#### A. Ingredients
+
+- 3 cups flour
+- 1 cup shortening
+- 1 tsp baking powder
+- ½ tsp salt
+- 1 egg, plus enough milk added to it to make ½ cup
+
+#### B. Cooking Instructions
+
+**1. Mix the dry ingredients.**
+
+**2. Cut in the shortening.**
+
+**3. Add the egg-and-milk liquid and mix.**
+
+**4. Divide and freeze what you don't need now.**
+This makes 2 large double-crust pastries, or 3–4 single ones — freeze the extras until needed.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 3 cups
+- 🛒 Shortening — 1 cup
+- 🛒 Baking powder — 1 tsp
+- 🛒 Salt — ½ tsp
+- 🛒 Egg — 1
+- 🛒 Milk
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(4 single crusts' worth)* | ~3,240 | 212 g | 45 g | 279 g | 10 g |
+| **Per single crust** *(¼ of the batch)* | ~810 | 53 g | 11 g | 70 g | 3 g |
+
+**What a serving is:** not a dish on its own — one single crust's worth of the batch, enough for one pie shell.
+
+#### D. Open Questions
+
+- **No serving count given** — 4 single crusts is the source's own printed range (3–4); Nutrition splits it 4 ways.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.17 Flaky French Pastry
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 448), credited to **Mrs. Carmen Montegut** — the same contributor behind [§T1](#t1-how-to-make-a-roux)'s Margarine Roux and [§7.65 Crawfish Pie I](#765-crawfish-pie-i). **This is the exact pastry [§7.65](#765-crawfish-pie-i) calls for** — a laminated dough, folded and rested three times, closer to a rough puff pastry than a simple pie crust.
+
+**Yield:** makes enough dough for about 4 pies — ¼ section of dough makes 1 pie, per the source. May be divided and frozen.
+
+**🟡 Medium** *(a real lamination technique — rolling, greasing, and folding three separate times — more involved than [§14.16 Pie Crust](#1416-pie-crust), though nothing here fails as fast as a roux)* · **Prep ~35 min** *(hands-on, spread across three folding cycles)* · **Cook none** · **Start to finish ~2 hr 5 min** *(includes three 30-minute rests between folds)*
+
+#### A. Ingredients
+
+- 4 cups flour
+- 2 tsp salt
+- 4 heaping Tbsp shortening *(Snowdrift, per the source)*
+- 2 cups cold water
+
+#### B. Cooking Instructions
+
+**1. Sift the flour, then add the salt.**
+
+**2. Cut in the shortening.**
+With a pastry blender.
+
+**3. Gradually add the cold water.**
+
+**4. Flour a sheet of brown paper well, and roll the dough out on it.**
+Roll dough in flour first, then roll the dough out and away from you — always roll away from you, never back and forth.
+
+**5. Grease the dough well with a spatula.**
+
+**6. Sift flour lightly over the greased dough.**
+
+**7. Fold the ends to the center, then grease the ends well.**
+
+**8. Flour lightly again, then fold to the center once more.**
+
+**9. Let stand. 30 minutes at room temperature.**
+
+**10. Repeat the roll-grease-flour-fold sequence (Steps 4–9) two more times.**
+Three folding cycles in all.
+
+**11. Divide and freeze what you don't need now.**
+A ¼ section of dough makes 1 pie.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 4 cups
+- 🛒 Salt — 2 tsp
+- 🛒 Shortening (Snowdrift, or any solid shortening) — 4 heaping Tbsp
+- 🛒 Cold water — 2 cups
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(4 pies' worth)* | ~2,370 | 70 g | 50 g | 366 g | 13 g |
+| **Per ¼ batch** *(1 pie's worth)* | ~590 | 18 g | 13 g | 92 g | 3 g |
+
+**What a serving is:** not a dish on its own — a quarter of the batch is what one pie's crust costs.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.18 Old Fashioned Sweet Dough Pie Crust
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 448), credited to **Mrs. Mona Guidry**. Despite the name, this bakes as a filled, folded-over pastry sheet sliced into bars — a fig kolache-style treat, not a crust for a round pie.
+
+**Yield:** not stated; a large batch, estimated to make about 24 bars, flagged below.
+
+**🟢 Easy** · **Prep ~20 min** *(creaming, combining, rolling, spreading, and folding)* · **Cook ~35 min** *(bake until brown — estimated, exact time not given)* · **Start to finish ~55 min**
+
+#### A. Ingredients
+
+- 4 cups flour
+- ½ tsp salt
+- 4 tsp baking powder
+- 1 cup sugar
+- ½ cup shortening
+- 2 eggs
+- ½ cup milk mixed with 1 tsp vanilla
+- Fig preserves, or other preserves *(quantity not given by the source)*
+
+#### B. Cooking Instructions
+
+**1. Sift the dry ingredients.**
+Sift together the flour, salt, and baking powder.
+
+**2. Cream the sugar and shortening, then add the eggs.**
+
+**3. Combine, alternating with the milk and vanilla.**
+Combine the creamed shortening mixture alternately with the flour mixture and the milk-and-vanilla, mixing until smooth.
+
+**4. Roll out. About ½ to 1 inch thick.**
+
+**5. Spread preserves on half the dough.**
+Fig or other preserves, on half of the rolled dough.
+
+**6. Fold over.**
+Fold the plain half over the filled half.
+
+**7. Bake until brown. At 350°F.**
+
+**8. Slice into bars.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 4 cups
+- 🛒 Baking powder — 4 tsp
+- 🛒 Sugar — 1 cup
+- 🛒 Shortening — ½ cup
+- 🛒 Eggs — 2
+- 🛒 Milk — ½ cup
+- 🛒 Vanilla extract — 1 tsp
+- 🛒 Fig preserves, or other preserves
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~4,410 | 113 g | 66 g | 782 g | 13 g |
+| **Per bar** *(estimated 24 bars)* | ~185 | 5 g | 3 g | 33 g | 1 g |
+
+**What a serving is:** one bar, cut from the sheet.
+
+#### D. Open Questions
+
+- **No preserves quantity given** — about 1 cup is assumed for the Nutrition estimate.
+- **No bar count or bake time given** — 24 bars and a 35-min bake are Claude's estimates.
 
 [↑ Table of Contents](#table-of-contents)
 

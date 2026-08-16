@@ -108,6 +108,8 @@ Click any recipe to jump straight to it.
   - [4.87 Cavender's All Purpose Greek Seasoning (Store-Bought)](#487-cavenders-all-purpose-greek-seasoning-store-bought) ✅ 👍 — *reference*
   - [4.88 Vegeta (Store-Bought Croatian All-Purpose Seasoning)](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ✅ ❤️ — *reference*
   - [4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)](#489-codys-greek-vinaigrette-lime--olive-oil) ✅ ❤️ ⚠️ *(one ingredient still unnamed)*
+  - [4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) ✅
+  - [4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style) ✅ *(distinct from [§4.36](#436-north-carolina-vinegar-sauce) — see the comparison table)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -388,6 +390,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Two more from the same Raichlen book — and a duplicate caught before it got made.** Added **[§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido)** (Central America, p. 443) — a no-cook refrigerator pickle, everything raw into vinegar for at least a day, with the source's own tip to lay plastic wrap between jar and lid so the vinegar doesn't corrode the metal. Cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid) as macerating scaled up, and to [§4.5 Pickled Pink Onions](#45-pickled-pink-onions). Also added **[§4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style)**. **§4.91 is deliberately kept separate from the existing [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) rather than merged** — same author, same region, genuinely different formula, so the entry carries a side-by-side comparison table: §4.91 makes ~4 cups against §4.36's ~2¼, is cut with 1⅓ cups water where §4.36 uses none, runs far heavier on ketchup (½ cup + 2 Tbsp vs. 3 Tbsp), adds white pepper, and drops the Tabasco. Sharper and concentrated versus milder and more tomatoey — both worth having. **The North Carolina coleslaw on the same page was *not* added as a new entry, because it's the same recipe already at [§5.13](#513-north-carolina-coleslaw)** — cabbage plus 1 cup vinegar sauce, both printings. That entry was updated instead, folding in what the newer version actually adds: optional salt, a **10-minute stand before the final seasoning check** (taste it immediately and you'll overdress it), a mandoline as an alternative to the food processor, and the source's own framing — *"No onions. No carrots. No peppers. No mayonnaise."* Its ingredient line now offers both vinegar sauces as a real choice, since §4.91 makes a gentler slaw and §4.36 a punchier one. |
 | 2026-08-13 | **Three from a *Rice, Beans, and Beyond* chapter — and a new Steven Raichlen book, distinct from the *How to Grill* already in this cookbook.** This one tags recipes by country of origin and uses *Special Equipment* / *Advance Preparation* headers that *How to Grill* doesn't, so it's a different title: **most likely *The Barbecue! Bible* or *Planet Barbecue*, given as an educated guess rather than asserted**, same practice as [§13 Meathead Cookbook](#13-meathead-cookbook) — the name gets stated when a title page confirms it, not before. Added **[§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)** (U.S.A. — canned beans smoke-roasted 30 minutes on the grill, filed Slow cook like [§T15](#t15-how-to-barbecue-cabbage) and [§7.50](#750-asian-flavor-baby-back-ribs)), **[§5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](#534-brazilian-black-beans-with-bacon-tutu-mineira)** (Brazil — half the beans mashed in the skillet, thickened with manioc flour, no grill involved), and **[§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill)** (England). **§15.7 is filed in Breads rather than with the sides** — it's a flour-egg-milk batter baked into a bread, so it belongs beside [§15.2 Butter Dips](#152-butter-dips) and the biscuits even though it's served with a roast; rated 🟡 Medium because the puff genuinely fails if the batter isn't ice-cold, the pan isn't smoking, or you open the lid to peek. **§5.33 got a callout worth having:** its ketchup, vinegar, and molasses go straight onto the beans, which looks like it violates [§T31 How to Use Acid](#t31-how-to-use-acid)'s firm-keeping rule — it doesn't, because canned beans are *already cooked soft* before any acid touches them. That's the loophole the rule allows, and it's the fast path to the same place [§7.16 Red Beans & Rice](#716-red-beans--rice) reaches the long way. |
 | 2026-08-13 | **Added [§T31 How to Use Acid](#t31-how-to-use-acid) — the trio is complete.** [§T29 Salt](#t29-how-to-salt), [§T30 Fat](#t30-how-to-use-fat), and now §T31 Acid, all from the same source, all cross-linked to each other, with the one-line summary that ties them together now sitting on all three: **salt to enhance, fat to carry, acid to balance.** Covers what acid actually does (it doesn't make food sour, it makes food *clearer*), the lemonade lesson on balancing versus removing, where acid hides in ordinary ingredients, matching the acid to the cuisine, cooking acids versus garnishing acids, macerating raw onion, how acid changes color and texture, the tenderize-then-toughen curve on meat and fish, homemade crème fraîche, browning and fermentation as ways to *make* acid, and umami as the fourth tool. **Two things this entry explains about recipes already in the cookbook, rather than just stating in the abstract:** [§7.16 Red Beans & Rice](#716-red-beans--rice) holds its tomato sauce and vinegar until Step 5, after 2½ hours of simmering — and acid's firm-keeping effect on beans is exactly *why* that ordering isn't optional, flagged in-place as a callout; and [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche)'s 36–48 hour lime cure is the acid-toughens-fish rule taken to its endpoint deliberately, which is why that timing is so specific and can't be shortened. Also wired to [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) (macerating as a recipe), [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese) (the four-acids-at-once example), [§5.13 Coleslaw](#513-north-carolina-coleslaw)/[§4.36 NC Vinegar Sauce](#436-north-carolina-vinegar-sauce) (acid steering a dish regional), and [§4.6 Sour Kraut](#46-no-heat-sour-kraut)/[§5.26 Pickled Okra](#526-pickled-okra)/[§T21 Preserved Lemons](#t21-preserved-lemons-meyer-or-regular) (the fermented corner). Note that the Caesar dressing example now does double duty — [§T29](#t29-how-to-salt) uses it to teach salt layering, §T31 uses the same dressing to teach acid layering. |
 | 2026-08-13 | **[§T29 How to Salt](#t29-how-to-salt) rewritten in plain language, per Cody — same content, aimed at a 12-year-old reader.** Nothing was cut; the cookbook-jargon words came out (*diagnostic, palate, salinity, assertively, conservatively, in ascending order of surrender*) and everything is now said in ordinary words a kid could follow. All the cross-links, the timing ladder, and the 1%/2% starting numbers survive unchanged — the point was to make the entry usable by anyone in the house, not to simplify the cooking. **Also added its companion, [§T30 How to Use Fat](#t30-how-to-use-fat)**, from the same source: what job the fat is doing (main ingredient, cooking medium, or seasoning), why fat carries flavor further than water does, how to pick and *smell-test* olive oil, and the five textures fat makes — crisp, creamy, flaky, tender, light — each with the rule that governs it. **Wired into what this cookbook already has** rather than left standalone: [§T2 Hot Pan First](#t2-hot-pan-first-then-oil) is the preheat rule, [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) the emulsion math, [§T8](#t8-pan-sauce-formula) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) the butter-sauce trick, [§4.86](#486-beurre-noir--beurre-noisette-brown-butter-sauce) brown butter, [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) the flaky-dough section as a real recipe, and [§T3](#t3-butter-oil-pan-frying--frying) the same ground from the Cajun side. **One genuine tension flagged rather than smoothed over:** §T30's smoke-point section tops out at 400°F, but [§T1 How to Make a Roux](#t1-how-to-make-a-roux) deliberately runs oil past 500°F — noted in-place as the exception that proves the rule, and part of why §T1 is the most dangerous technique in this cookbook. |
@@ -565,6 +568,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
 | [§4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) | 🟢 | 5 min | — | — | 5 min |
 | [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) | 🟢 | 5 min | — | — | 5 min |
+| [§4.91 Vinegar Sauce (Eastern NC, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style) | 🟢 | 5 min | — | — | 5 min |
 | [§4.15 New Orleans Bordelaise Sauce](#415-new-orleans-bordelaise-sauce) | 🟢 | 2 min | 3 min | — | 5 min |
 | [§4.25 Basic Fish Cure](#425-basic-fish-cure) | 🟢 | 5 min | — | — | 5 min |
 | [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) | 🟢 | 5 min | — | — | 5 min |
@@ -580,7 +584,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
-| [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 10 min |
+| [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 20 min *(includes a 10 min stand)* |
 | [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
@@ -739,6 +743,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
+| [§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) | 🟢 | 20 min | — | **1 day minimum** *(pickles in the jar; improves for weeks)* | ~1 day |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) | 🟢 | 10 min | 35 min | — | 45 min |
@@ -6569,6 +6574,151 @@ Dressing tastes far sharper on its own than it does on lettuce. Dip an actual ro
 
 ---
 
+### 4.90 Pickled Vegetables (Encurtido)
+
+Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) (p. 443), from its *Sidekicks: Pickles, Relishes, Sauces* chapter, tagged **Central America** and filed by the source under *On the Side*. A no-cook refrigerator pickle — everything goes in raw and the vinegar does all the work.
+
+> **Per the source:** *"The tangy condiment encurtido turns up throughout Central America, where it's used as an all-purpose accompaniment for grilled steaks and sausages, rice and bean dishes — and just about everything else. The chile of choice is the habañero pepper, a Mexican and Central American cousin of the Caribbean Scotch bonnet chile. The two are interchangeable."*
+
+**Yield:** makes about 2 pints; serves 8 to 10 *(as printed)*
+
+**Advance preparation:** at least 1 day for pickling the vegetables.
+
+> **You'll need:** two 1-pint jars, well washed.
+
+**🟢 Easy** · **Prep ~20 min** *(all knife work — dicing and slicing)* · **Cook none** · **Slow cook 1 day minimum** *(pickles at room temperature; the flavor keeps improving for weeks in the fridge)* · **Start to finish ~1 day**
+
+**Techniques used:** [§T31 How to Use Acid](#t31-how-to-use-acid) — *this is that entry's macerating principle scaled up into a keep-around condiment, the same idea as [§4.5 Pickled Pink Onions](#45-pickled-pink-onions)*
+
+#### A. Ingredients
+
+- 2 cups distilled white vinegar
+- 1 Tbsp salt, or more to taste
+- 2 large white onions, finely diced
+- 1 cup finely diced carrots
+- ½ medium green bell pepper, cored, seeded, and finely diced
+- ½ medium red bell pepper, cored, seeded, and finely diced
+- 1 to 3 fresh habañero peppers, thinly sliced
+- 3 Tbsp chopped fresh cilantro
+- 1 Tbsp chopped fresh oregano, or 2 tsp dried oregano
+- 8 black peppercorns
+- 2 allspice berries
+
+#### B. Cooking Instructions
+
+**1. Dissolve the salt in the vinegar.**
+Combine the vinegar and salt in a nonreactive bowl and whisk until the salt dissolves.
+
+**2. Stir in everything else.**
+Add the onions, carrots, green and red bell peppers, habañeros, cilantro, oregano, peppercorns, and allspice berries. Taste for seasoning, adding more salt as necessary.
+
+**3. Transfer to jars.**
+Divide between two 1-pint jars.
+
+**4. Cover the jars — with a layer of plastic wrap first.**
+Place a piece of plastic wrap between the mouth of each jar and the lid. **This keeps the vinegar from corroding the metal lid.**
+
+**5. Let it pickle. At least 1 day, at room temperature.**
+
+> **Per the source:** *encurtido* keeps for several weeks in the refrigerator, and **the flavor improves as the mixture sits** — so making it well ahead is a feature, not a compromise.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Distilled white vinegar — 2 cups
+- 🛒 White onions — 2 large
+- 🛒 Carrots — 1 cup finely diced
+- 🛒 Green bell pepper — ½ medium
+- 🛒 Red bell pepper — ½ medium
+- 🛒 Habañero peppers — 1 to 3 *(Scotch bonnets are interchangeable, per the source)*
+- 🛒 Fresh cilantro — 3 Tbsp chopped
+- 🛒 Fresh oregano — 1 Tbsp chopped, or 2 tsp dried
+- 🛒 Black peppercorns — 8
+- 🛒 Allspice berries — 2
+- 🛒 Salt
+- 🛒 Two 1-pint jars
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 pints)* | ~270 | 1 g | 6 g | 60 g | 13 g |
+| **Per serving** *(serves 9, midpoint of the printed 8–10)* | ~30 | 0 g | <1 g | 7 g | 1.5 g |
+
+**What a serving is:** a few forkfuls alongside grilled meat or over rice and beans, about ¼ cup. *Almost nothing here but vegetables and vinegar — this is one of the lightest things in the cookbook.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)
+
+Transcribed from the same **Steven Raichlen** book as [§5.33](#533-quick-and-smoky-baked-beans) and [§4.90](#490-pickled-vegetables-encurtido), from its *High on Hog* chapter.
+
+> ⚠️ **This is NOT a duplicate of [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) — same author, same region, genuinely different formula.** Both are kept, the same way this cookbook keeps [§7.65](#765-crawfish-pie-i)/[§7.66 Crawfish Pie](#766-crawfish-pie-ii) and [§8.30](#830-turtle-soup-i)/[§8.31 Turtle Soup](#831-turtle-soup-ii-monteleone) separate. What actually differs:
+>
+> | | [§4.36](#436-north-carolina-vinegar-sauce) *(How to Grill)* | §4.91 *(this one)* |
+> |---|---|---|
+> | **Yield** | ~2¼ cups | ~4 cups |
+> | **Water** | none | **1⅓ cups** — this one is deliberately diluted |
+> | **Ketchup** | 3 Tbsp | **½ cup + 2 Tbsp** — far more tomato |
+> | **Brown sugar** | 2 Tbsp | ¼ cup |
+> | **Salt** | 1–2 tsp | 5 tsp |
+> | **Hot sauce** | 1 Tbsp Tabasco | none |
+> | **White pepper** | none | 1 tsp |
+>
+> **In short:** §4.36 is sharper and more concentrated; §4.91 is milder, sweeter, more tomatoey, and stretched with water into nearly double the volume. §4.91 is also the one built to dress a slaw — see the note on [§5.13](#513-north-carolina-coleslaw).
+
+> **Per the source:** *"Peppery and piquant, this vinegar sauce is the preferred condiment of eastern North Carolina. In the western part of the state, the sauce becomes more tomatoey, while in southern parts of the Carolinas, mustard sauce reigns supreme."*
+
+**Yield:** makes about 4 cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 2 cups cider vinegar
+- ½ cup plus 2 Tbsp ketchup
+- ¼ cup firmly packed brown sugar, or more to taste
+- 5 tsp salt, or more to taste
+- 4 tsp hot red pepper flakes
+- 1 tsp freshly ground black pepper
+- 1 tsp freshly ground white pepper
+- 1⅓ cups water
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together until the sugar and salt dissolve.**
+Combine the vinegar, ketchup, brown sugar, salt, red pepper flakes, black pepper, white pepper, and water in a nonreactive medium-size bowl.
+
+**2. Taste and adjust.**
+Add more brown sugar and/or salt as necessary. **The sauce should be piquant but not quite sour** — that's the source's own target, and it's a useful one: if it reads as flat-out sour, it needs more sugar or salt, not more vinegar.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cider vinegar — 2 cups
+- 🛒 Ketchup — ½ cup plus 2 Tbsp
+- 🛒 Brown sugar — ¼ cup
+- 🛒 Hot red pepper flakes — 4 tsp
+- 🛒 White pepper — 1 tsp *(the ingredient that most distinguishes this from [§4.36](#436-north-carolina-vinegar-sauce))*
+- 🛒 Black pepper, salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(~4 cups)* | ~330 | 0.5 g | 2 g | 80 g | 2 g |
+| **Per serving** *(2 Tbsp, of 32)* | ~10 | 0 g | 0 g | 2.5 g | 0 g |
+
+**What a serving is:** about 2 tablespoons — a condiment portion, tossed into pulled pork or over a sandwich. *A full cup of it dresses one batch of [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw).*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -9609,24 +9759,32 @@ Whatever dressing doesn't fit as filling goes into the roasting pan alongside th
 
 Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001), the same source as [§6.2 Pulled Pork](#62-pulled-pork) — see that recipe's note on how the source was confirmed. A plain vinegar slaw, no mayonnaise, built to top a pulled pork sandwich. **Its Open Question is now resolved** — [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) turned up in a later batch of photos.
 
-**Yield:** 6 to 8 cups; serves 10 to 12
+> **A second version of this same recipe turned up in a different Raichlen book (the one behind [§4.90](#490-pickled-vegetables-encurtido)/[§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style)) — and it's the same dish, so this entry was updated rather than duplicated.** Cabbage plus 1 cup of vinegar sauce, both times. What the newer printing adds is folded in below: **optional salt**, a **10-minute stand** before the final taste, and a **mandoline** as an alternative to the food processor. Its own framing is worth keeping — *"This is coleslaw at its simplest and best. No onions. No carrots. No peppers. No mayonnaise. Just cabbage and peppery barbecue sauce."*
+>
+> **Which vinegar sauce to use is a real choice, though.** The newer book pairs this slaw with its own [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) — milder, sweeter, more tomatoey, and cut with water. The original pairs it with [§4.36](#436-north-carolina-vinegar-sauce), which is sharper and more concentrated. Both work; §4.91 makes a gentler slaw, §4.36 a punchier one.
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+**Yield:** about 6 cups *(the newer printing's figure)*; 6 to 8 cups per the original — serves 10 to 12
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~20 min** *(includes the 10 min stand before the final seasoning check)*
 
 **👍 Tried and liked** — *Cody: "I think I've had it and it's good."*
 
 #### A. Ingredients
 
-- 1 small head green or savoy cabbage (about 2 lb)
-- 1 cup [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce), or more to taste
+- 1 small or ½ large head green (or savoy) cabbage, about 2 lb, cored
+- 1 cup vinegar sauce, or more to taste — either [§4.36](#436-north-carolina-vinegar-sauce) *(sharper)* or [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) *(milder, the newer book's own pairing)*
+- Salt, optional
 
 #### B. Cooking Instructions
 
 **1. Core and finely chop the cabbage.**
-Core the cabbage and remove the outside leaves. Cut it into chunks and finely chop it in a food processor.
+Core the cabbage and remove the outside leaves. Chop it finely by hand, shred it on a mandoline, or cut it into chunks and run it through the shredding disk of a food processor.
 
 **2. Dress it with the vinegar sauce.**
-Transfer the cabbage to a nonreactive mixing bowl and toss with the vinegar sauce. Taste for seasoning, adding more vinegar sauce as necessary.
+Transfer the cabbage to a large nonreactive bowl and stir in the vinegar sauce.
+
+**3. Let it stand 10 minutes, then taste.**
+Adjust with salt and/or more vinegar sauce as needed. The rest lets the cabbage take on the sauce before you judge the seasoning — taste it straight away and you'll almost always overdress it.
 
 #### C. Grocery Shopping List
 

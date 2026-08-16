@@ -172,6 +172,8 @@ Click any recipe to jump straight to it.
 - [5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃 ○
 - [5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ○
 - [5.26 Pickled Okra](#526-pickled-okra) ✅
+- [5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) ✅ *(source title not photographed)*
+- [5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -372,6 +374,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Added two more eggplant sides from *Talk About Good!*, both rated 🟢 Easy — Cody's own read on sight (*"Seems easy"*) matched. **[§5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant)** (p. 151, credited to **Wandy Frey** — spelled slightly differently than "Wanda Frey" on [§7.63](#763-crab-and-eggplant-dressing) and related entries, transcribed exactly as each page prints it rather than silently normalized) is scored and topped rather than hollowed and stuffed, and carries the source's own line, *"This makes a fancier dish than reads the recipe."* Its printed yield is a genuinely odd one, kept as stated: *"Serves 2 or 20."* **[§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper)** (Mrs. P. J. Blanchet, Jr.) is a working title, not the source's own — the photo cuts off right above this recipe's heading, so the name is built from its ingredients and flagged as such. **Its Nutrition is marked not calculable rather than estimated** — a first for this batch of transcriptions — since the source gives zero quantities for any ingredient, only "add eggplant, onion, bell pepper" with nothing to scale from. |
 | 2026-08-13 | **Five more from *Talk About Good!*: two grits casseroles and three pastry/crust recipes — one of which closes a reference gap from [§7.65 Crawfish Pie I](#765-crawfish-pie-i).** **[§10.10 Cheese Grits](#1010-cheese-grits)** (Mrs. Charles Hightower, Jr., who also gave [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)) and **[§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits)** (jointly credited to three contributors — Martha Paggi, Mrs. James C. Nixon, and Mrs. Nelwyn Williams, kept as printed rather than picking one name) — both filed in §10 Breakfast. §10.11 carries a variation note from a fourth contributor, Betty Jean Tompkins, on folding in stiffly beaten egg whites for a lighter texture. **A third recipe on the same page, Fried Grits, was cut off at the bottom of the photo and wasn't transcribed** — flagged rather than guessed at, needs a follow-up photo. **[§14.17 Flaky French Pastry](#1417-flaky-french-pastry) is Mrs. Carmen Montegut's own pastry — the exact "1 recipe flaky French pastry" [§7.65 Crawfish Pie I](#765-crawfish-pie-i) called for by name**, now transcribed in full and cross-linked back; a real 18-step laminated dough (three separate roll-grease-fold-rest cycles), rated 🟡 Medium. Also added **[§14.16 Pie Crust](#1416-pie-crust)** (Mrs. T. M. Biggs, a simple freezer-friendly cut-in dough) and **[§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust)** (Mrs. Mona Guidry) — despite its name, the latter is actually a folded, fig-preserve-filled bar cookie rather than a crust for a round pie, noted as such rather than filed as if it were one. |
 | 2026-08-13 | **Seven pies added from a *Talk About Good!* Thanksgiving-baking spread (p. 436–437): four pecan pies and three pumpkin chiffon pies, all kept as separate entries rather than merged.** **[§14.9](#149-pecan-pie-i)–[§14.12 Pecan Pie IV](#1412-pecan-pie-iv)** (Mrs. C. R. Pope, Mrs. H. M. Bernard, Mrs. Warren Rush, Marion Berry) are all rated 🟢 Easy — a baked custard in a shell is forgiving in a way a stirred one isn't. **§14.12's own measurements are folksy** — flour by "4 level soup spoons" — kept as printed with a practical ¼-cup conversion alongside, and its bake time is doneness-by-appearance only ("until it starts getting brown"), flagged and estimated rather than invented as a precise number. **[§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i)** (Mrs. Arthur E. Smith), **[§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii)** (Mrs. Leo Case), and **[§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie)** (Mrs. Warren Butcher) are all rated 🔴 Hard, same reasoning as the existing [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) — a cooked custard base that can curdle, plus a whipped meringue that has to be folded in without deflating it. **§14.14's ingredient list is genuinely incomplete** — eggs, milk, butter, cold water, and even the pie crust itself are called for in the instructions but never printed in the ingredient list, all added in rather than left out. **§14.15 carries an honesty flag rather than false confidence:** part of the photographed page was hard to read around exactly how its sugar splits between the custard and the meringue, so the instructions are written to the most sensible chiffon-pie logic and marked as a reconstruction, not a certain transcription. |
 | 2026-08-13 | Added **[§5.26 Pickled Okra](#526-pickled-okra)** — transcribed from a printed page, ***Talk About Good!*** (p. 57), credited to **Mrs. Pauline L. Sibille, Lake Providence, La.** The seasoning is given **per pint jar** rather than as one fixed batch, kept that way rather than forced into a single scaled recipe. Filed as **Slow cook 2–3 weeks**, the source's own stated pickling time. **Carries the same kind of canning-safety caution as [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut):** the source says "seal" but never mentions a boiling water bath for the filled jars, so it's written up as safest treated as a refrigerator pickle rather than assumed shelf-stable, flagged for Cody to confirm against the source's actual canning practice. |
@@ -721,6 +724,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) ❤️ | 🟢 | 20 min | 30 min | — | 50 min |
 | [§16.1 Hot Apple Cider](#161-hot-apple-cider) | 🟢 | 10 min | 40 min | — | 50 min |
+| [§5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) | 🟢 | 20 min | 35 min | **4 hr** *(broth simmer)* | 5 hr *(or spread across 2 days)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
@@ -729,6 +733,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | 🟡 | 45 min | 15 min | **2¾ hr** *(braise, mostly unattended)* | 3 hr 45 min |
 | [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) | 🟡 | 45 min | 25 min | **6–9 hr** *(three rises — the waiting is the method)* | ~7 hr *(+ 2–3 hr cool)* |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
+| [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
 | [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
@@ -9798,6 +9803,113 @@ This is how long it takes to pickle properly — don't rush into the jar early.
 | **Per serving** *(¼ cup, about 6 servings per pint)* | ~27 | 0 g | 1 g | 3 g | 1 g |
 
 **What a serving is:** a small handful of pickled spears, about ¼ cup.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.27 Smothered Eggplant, Onion & Bell Pepper
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. P. J. Blanchet, Jr.** **This entry's own title wasn't captured in the photo** — the crop cuts off right above this recipe's heading, so the name above is a working description built from the ingredients rather than the source's actual title. Flagged rather than invented outright.
+
+**Yield:** serves 6 to 8 *(as printed)*
+
+**🟢 Easy** *(a covered, slow-fire braise — the source's own doneness cue is that the eggplant breaks apart when ready)* · **Prep ~25 min** *(estimated — peeling and soaking the eggplant 20 min, chopping onion and bell pepper)* · **Cook ~35 min** *(estimated — "cook, covered, on slow fire until tender," no time given)* · **Start to finish ~1 hr**
+
+#### A. Ingredients
+
+- Eggplant *(quantity not given by the source)*
+- Onion *(quantity not given)*
+- Bell pepper *(quantity not given)*
+- Salt and pepper, to taste
+- Hot grease, for cooking *(quantity not given)*
+
+#### B. Cooking Instructions
+
+**1. Peel and soak the eggplant. 20 minutes.**
+Peel the eggplant and soak in salted water. Drain.
+
+**2. Add everything to hot grease.**
+Add the eggplant, onion, bell pepper, salt, and pepper to the hot grease.
+
+**3. Cook covered on a slow fire until tender.**
+The eggplant will break apart as it finishes — that's the doneness cue, not a problem.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggplant
+- 🛒 Onion
+- 🛒 Bell pepper
+- 🛒 Cooking fat/grease
+- 🛒 Salt, pepper
+
+#### Nutrition
+
+Not calculable — the source gives no quantities at all for the eggplant, onion, bell pepper, or grease, only "add" with no amounts.
+
+#### D. Open Questions
+
+- **The recipe's own title is missing** — the photo starts mid-page. If Cody has the top of this page, it would confirm the actual name and any ingredient amounts that were printed above the crop.
+- **No quantities given for any ingredient** — Nutrition can't be estimated responsibly without at least a rough amount.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.28 "Fake" Stuffed Eggplant
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 151), credited to **Wandy Frey** *(spelled slightly differently from "Wanda Frey," credited on [§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) and its related entries — possibly the same contributor, transcribed exactly as each page prints it rather than normalized to match)*. Halved and scored rather than hollowed and filled — a quicker take on a stuffed eggplant, per the source's own line: *"This makes a fancier dish than reads the recipe."*
+
+**Yield:** serves 2 or 20 *(as printed — scales by how many eggplant halves you make)*
+
+**🟢 Easy** · **Prep ~15 min** *(cutting, scoring, buttering, and topping)* · **Cook ~35 min** *(30–45 min bake, per the source, depending on eggplant size)* · **Start to finish ~50 min**
+
+#### A. Ingredients
+
+- Small eggplants, halved *(quantity scales to however many you're serving)*
+- Softened butter
+- Salt and pepper
+- Crushed oregano
+- Freshly grated Romano cheese
+- Seasoned bread crumbs
+
+#### B. Cooking Instructions
+
+**1. Halve the eggplant — don't peel.**
+Cut small eggplants in half. Run a knife around the inside edges and score the pulp deeply in bite-size sections.
+
+**2. Butter each half generously.**
+With the cut side up, rub a generous amount of softened butter on each half.
+
+**3. Season.**
+Sprinkle lightly with salt, pepper, and crushed oregano.
+
+**4. Top with cheese, then bread crumbs.**
+Add the freshly grated Romano on top of the seasoning, then the seasoned bread crumbs.
+
+**5. Bake. 30–45 minutes at 375°F.**
+Time depends on the size of the eggplant.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Small eggplants
+- 🛒 Butter, softened
+- 🛒 Dried oregano
+- 🛒 Romano cheese, freshly grated
+- 🛒 Seasoned bread crumbs
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated, per eggplant half)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Per half** *(1 small eggplant half)* | ~190 | 12 g | 6 g | 17 g | 5 g |
+
+**What a serving is:** one eggplant half — the recipe scales directly with however many you make, per the source's own "serves 2 or 20."
 
 [↑ Table of Contents](#table-of-contents)
 

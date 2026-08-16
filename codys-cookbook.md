@@ -178,6 +178,8 @@ Click any recipe to jump straight to it.
 - [5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) ✅
 - [5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) 🦃 ✅
 - [5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) 🦃 ✅
+- [5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) ✅
+- [5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](#534-brazilian-black-beans-with-bacon-tutu-mineira) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -374,6 +376,7 @@ Click any recipe to jump straight to it.
 - [15.4 Angel Biscuits](#154-angel-biscuits) ✅
 - [15.5 Fancy Biscuits](#155-fancy-biscuits) ✅
 - [15.6 Pastry Biscuits](#156-pastry-biscuits) ✅
+- [15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) ✅
 
 **[16. Beverages](#16-beverages)** *(numbered 16, appended at the end — same reasoning as §14–§15)*
 
@@ -385,6 +388,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Three from a *Rice, Beans, and Beyond* chapter — and a new Steven Raichlen book, distinct from the *How to Grill* already in this cookbook.** This one tags recipes by country of origin and uses *Special Equipment* / *Advance Preparation* headers that *How to Grill* doesn't, so it's a different title: **most likely *The Barbecue! Bible* or *Planet Barbecue*, given as an educated guess rather than asserted**, same practice as [§13 Meathead Cookbook](#13-meathead-cookbook) — the name gets stated when a title page confirms it, not before. Added **[§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)** (U.S.A. — canned beans smoke-roasted 30 minutes on the grill, filed Slow cook like [§T15](#t15-how-to-barbecue-cabbage) and [§7.50](#750-asian-flavor-baby-back-ribs)), **[§5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](#534-brazilian-black-beans-with-bacon-tutu-mineira)** (Brazil — half the beans mashed in the skillet, thickened with manioc flour, no grill involved), and **[§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill)** (England). **§15.7 is filed in Breads rather than with the sides** — it's a flour-egg-milk batter baked into a bread, so it belongs beside [§15.2 Butter Dips](#152-butter-dips) and the biscuits even though it's served with a roast; rated 🟡 Medium because the puff genuinely fails if the batter isn't ice-cold, the pan isn't smoking, or you open the lid to peek. **§5.33 got a callout worth having:** its ketchup, vinegar, and molasses go straight onto the beans, which looks like it violates [§T31 How to Use Acid](#t31-how-to-use-acid)'s firm-keeping rule — it doesn't, because canned beans are *already cooked soft* before any acid touches them. That's the loophole the rule allows, and it's the fast path to the same place [§7.16 Red Beans & Rice](#716-red-beans--rice) reaches the long way. |
 | 2026-08-13 | **Added [§T31 How to Use Acid](#t31-how-to-use-acid) — the trio is complete.** [§T29 Salt](#t29-how-to-salt), [§T30 Fat](#t30-how-to-use-fat), and now §T31 Acid, all from the same source, all cross-linked to each other, with the one-line summary that ties them together now sitting on all three: **salt to enhance, fat to carry, acid to balance.** Covers what acid actually does (it doesn't make food sour, it makes food *clearer*), the lemonade lesson on balancing versus removing, where acid hides in ordinary ingredients, matching the acid to the cuisine, cooking acids versus garnishing acids, macerating raw onion, how acid changes color and texture, the tenderize-then-toughen curve on meat and fish, homemade crème fraîche, browning and fermentation as ways to *make* acid, and umami as the fourth tool. **Two things this entry explains about recipes already in the cookbook, rather than just stating in the abstract:** [§7.16 Red Beans & Rice](#716-red-beans--rice) holds its tomato sauce and vinegar until Step 5, after 2½ hours of simmering — and acid's firm-keeping effect on beans is exactly *why* that ordering isn't optional, flagged in-place as a callout; and [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche)'s 36–48 hour lime cure is the acid-toughens-fish rule taken to its endpoint deliberately, which is why that timing is so specific and can't be shortened. Also wired to [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) (macerating as a recipe), [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese) (the four-acids-at-once example), [§5.13 Coleslaw](#513-north-carolina-coleslaw)/[§4.36 NC Vinegar Sauce](#436-north-carolina-vinegar-sauce) (acid steering a dish regional), and [§4.6 Sour Kraut](#46-no-heat-sour-kraut)/[§5.26 Pickled Okra](#526-pickled-okra)/[§T21 Preserved Lemons](#t21-preserved-lemons-meyer-or-regular) (the fermented corner). Note that the Caesar dressing example now does double duty — [§T29](#t29-how-to-salt) uses it to teach salt layering, §T31 uses the same dressing to teach acid layering. |
 | 2026-08-13 | **[§T29 How to Salt](#t29-how-to-salt) rewritten in plain language, per Cody — same content, aimed at a 12-year-old reader.** Nothing was cut; the cookbook-jargon words came out (*diagnostic, palate, salinity, assertively, conservatively, in ascending order of surrender*) and everything is now said in ordinary words a kid could follow. All the cross-links, the timing ladder, and the 1%/2% starting numbers survive unchanged — the point was to make the entry usable by anyone in the house, not to simplify the cooking. **Also added its companion, [§T30 How to Use Fat](#t30-how-to-use-fat)**, from the same source: what job the fat is doing (main ingredient, cooking medium, or seasoning), why fat carries flavor further than water does, how to pick and *smell-test* olive oil, and the five textures fat makes — crisp, creamy, flaky, tender, light — each with the rule that governs it. **Wired into what this cookbook already has** rather than left standalone: [§T2 Hot Pan First](#t2-hot-pan-first-then-oil) is the preheat rule, [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) the emulsion math, [§T8](#t8-pan-sauce-formula) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) the butter-sauce trick, [§4.86](#486-beurre-noir--beurre-noisette-brown-butter-sauce) brown butter, [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) the flaky-dough section as a real recipe, and [§T3](#t3-butter-oil-pan-frying--frying) the same ground from the Cajun side. **One genuine tension flagged rather than smoothed over:** §T30's smoke-point section tops out at 400°F, but [§T1 How to Make a Roux](#t1-how-to-make-a-roux) deliberately runs oil past 500°F — noted in-place as the exception that proves the rule, and part of why §T1 is the most dangerous technique in this cookbook. |
 | 2026-08-13 | **Added [§T29 How to Salt](#t29-how-to-salt) — a full technique entry on salting, credited to Samin Nosrat, per Cody.** Covers why salt works (it's not "add saltiness," it's what makes other flavors read as themselves), how to choose between kosher, fine sea, and flaky finishing salts, the timing ladder from days-ahead dry brines down to right-before-serving flaky finishes, why salting cooking water seasons food from the inside rather than "wasting" salt, the three hand motions for actually applying it (pinch, palmful, wrist wag), rough salt-by-weight percentages as a starting point rather than a rule, how to layer salt from ingredients (anchovies, cheese, fish sauce) rather than the box alone, salt's relationship to pepper and to dessert, the three moves for a dish that's gone too salty, and the closing habit — stir, taste, adjust, always. **Cross-linked into the existing cookbook rather than left standalone**: [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28 Sous Vide](#t28-sous-vide-chicken-codys-method), and [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure are all named as the timing ladder's "days ahead" and "a day ahead" cases already living in this cookbook; [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) is named as the unsalted base for the Caesar-dressing layering example. **[§T16's own source note is updated to point at this entry** — both are credited to Nosrat now, which corroborates the earlier inferred attribution without formally confirming it against a title page. Added to the Techniques quick index as T29, the next open number after T28. |
@@ -636,6 +640,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.49 Mango Salsa](#449-mango-salsa) | 🟢 | 15 min | — | — | 15 min |
 | [§4.50 Cucumber Relish](#450-cucumber-relish) | 🟢 | 15 min | — | — | 15 min |
 | [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage) | 🟢 | 15 min | — | **1–1½ hr** *(indirect grill)* | 1 hr 15 min – 1 hr 45 min |
+| [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) | 🟢 | 15 min | 10 min | **30 min** *(smoke-roast, indirect grill)* | 55 min *(+ 1 hr wood chip soak, in parallel)* |
 | [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | 🟡 | 15 min | — | — | 15 min |
 | [§14.16 Pie Crust](#1416-pie-crust) | 🟢 | 15 min | — | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
@@ -690,6 +695,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§4.47 Salsa Verde](#447-salsa-verde) | 🟢 | 15 min | 15 min | — | 30 min |
+| [§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) | 🟢 | 15 min | 15 min | — | 30 min |
 | [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) | 🔴 | 20 min | 10 min | — | 2 hr 30 min *(includes an estimated ~2 hr combined chill)* |
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
@@ -764,6 +770,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
 | [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
+| [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 30 min | — | 1 hr 10 min *(includes a 30 min batter chill)* |
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
@@ -10766,6 +10773,176 @@ Stuff into the fowl, or bake covered in 2 large casseroles at 350°F for 30 minu
 | **Per serving** *(estimated 10 servings)* | ~270 | 8 g | 15 g | 31 g | 1 g |
 
 **What a serving is:** a generous scoop, about 1 cup, whether stuffed in the bird or baked separately.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.33 Quick and Smoky Baked Beans
+
+Transcribed from **Steven Raichlen** (p. 437), from the *Rice, Beans, and Beyond* chapter — **a different Raichlen book from the [§7.50](#750-asian-flavor-baby-back-ribs)/[§7.67](#767-grilled-quail-with-pear-and-pine-nut-salad) *How to Grill***. This one tags each recipe by country of origin (this one's **U.S.A.**) and carries *Special Equipment* and *Advance Preparation* headers that *How to Grill* doesn't use. **Most likely *The Barbecue! Bible* or *Planet Barbecue* — given as an educated guess rather than asserted**, same practice this cookbook used for [§13 Meathead Cookbook](#13-meathead-cookbook): the title gets stated once an actual title page confirms it, not before.
+
+> **Per the source:** *"Not everyone has the time to make baked beans from scratch. This recipe starts with canned beans, but a quick smoke on the grill produces such rich flavor, you'd swear the beans had been cooked for hours. For the best results, add a couple of cups of diced barbecued pork, ham, or brisket and/or meat drippings left over from a previous cookout."*
+
+**Yield:** serves 6 to 8 *(as printed)*
+
+> **You'll need:** 2 cups wood chips or chunks, soaked 1 hour in cold water to cover, then drained.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** *(bacon and aromatics on the stove)* · **Slow cook 30 min** *(smoke-roasting on the grill, covered — same treatment as [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage) and [§7.50](#750-asian-flavor-baby-back-ribs))* · **Start to finish ~55 min** *(plus the 1 hr wood chip soak, which can run while you prep)*
+
+**Techniques used:** indirect grilling · [§T30 How to Use Fat](#t30-how-to-use-fat) *(rendering bacon, and saving the fat)*
+
+> **Why the acid here doesn't ruin the beans — worth knowing.** This recipe dumps ketchup, cider vinegar, molasses, and mustard straight onto the beans, which looks like it breaks [§T31 How to Use Acid](#t31-how-to-use-acid)'s firm-keeping rule. It doesn't, because **the beans are canned — already cooked completely soft before any acid touches them.** That's exactly the loophole the rule allows. Try this same ingredient list with dried beans that haven't been fully cooked first and they'd stay firm no matter how long you smoked them. *(Compare [§7.16 Red Beans & Rice](#716-red-beans--rice), which gets to the same place the long way — 2½ hours of simmering before the tomato goes in.)*
+
+#### A. Ingredients
+
+- 4 thick-cut slices bacon (about 4 oz), cut into ¼-inch slivers
+- 1 large onion, finely chopped
+- 3 cloves garlic, minced
+- 1 Tbsp grated peeled fresh ginger
+- 2 cans (15 oz each) Great Northern or kidney beans, rinsed and drained
+- ¼ cup firmly packed dark brown sugar
+- ¼ cup molasses
+- ¼ cup barbecue sauce *(any of [§4.34](#434-basic-barbecue-mop-sauce)–[§4.37](#437-white-barbecue-sauce) work)*
+- ¼ cup ketchup
+- 2 Tbsp Worcestershire sauce
+- 1 Tbsp dry mustard
+- 1 Tbsp prepared mustard
+- 1 Tbsp cider vinegar
+- 1 to 2 cups diced smoked or barbecued pork, ham, or brisket *(optional — the source strongly recommends it)*
+- 1 Tbsp barbecued meat drippings *(optional)*
+- Salt and freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Render the bacon. About 5 minutes.**
+Place the bacon in a large, heavy pot and cook over medium heat until lightly browned. Discard all but 2 Tbsp of the bacon fat.
+
+**2. Cook the onion, garlic, and ginger. About 5 minutes.**
+Add them to the pot and cook until the onion is golden brown. Remove the pot from the heat.
+
+**3. Stir in everything else.**
+Add the beans, brown sugar, molasses, barbecue sauce, ketchup, Worcestershire, both mustards, cider vinegar, and the meat and drippings if using. Transfer to a baking dish — an aluminum-foil turkey pan works well.
+
+**4. Set up the grill for indirect grilling.**
+No drip pan needed for this one. *For gas:* put all the wood chips in the smoker box and preheat to high; when smoke appears, drop to medium. *For charcoal:* preheat to medium.
+
+**5. Smoke-roast. About 30 minutes.**
+If using charcoal, toss all the wood chips on the coals now. Set the pan in the center of the hot grate, away from the heat, and cover the grill. Cook until thick and richly flavored.
+
+**6. Season and serve at once.**
+Salt and pepper to taste.
+
+> **Per the source:** these can also be made in the oven — bake 30 minutes at 350°F. *(You lose the smoke, which is the entire point of the recipe, so treat this as the fallback rather than the plan.)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Thick-cut bacon — 4 slices (about 4 oz)
+- 🛒 Onion — 1 large
+- 🛒 Garlic — 3 cloves
+- 🛒 Fresh ginger — for 1 Tbsp grated
+- 🛒 Canned Great Northern or kidney beans — 2 (15 oz) cans
+- 🛒 Dark brown sugar — ¼ cup
+- 🛒 Molasses — ¼ cup
+- 🛒 Barbecue sauce — ¼ cup
+- 🛒 Ketchup — ¼ cup
+- 🛒 Worcestershire sauce — 2 Tbsp
+- 🛒 Dry mustard — 1 Tbsp
+- 🛒 Prepared mustard — 1 Tbsp
+- 🛒 Cider vinegar — 1 Tbsp
+- 🛒 *Optional but recommended:* leftover barbecued pork, ham, or brisket — 1 to 2 cups diced, plus any saved drippings
+- 🛒 Wood chips or chunks — 2 cups
+
+#### Nutrition *(estimated, without the optional meat)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,110 | 42 g | 66 g | 380 g | 42 g |
+| **Per serving** *(serves 7, midpoint of the printed 6–8)* | ~300 | 6 g | 9 g | 54 g | 6 g |
+
+**What a serving is:** a generous scoop alongside barbecue, about ¾ cup. *Sugar and molasses carry most of the calories here — this is a sweet barbecue side, not a lean one. Adding the optional 2 cups of diced barbecued pork roughly doubles the protein and adds ~700 calories to the pot.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.34 Brazilian Black Beans with Bacon (Tutu Mineira)
+
+Transcribed from the same **Steven Raichlen** book as [§5.33](#533-quick-and-smoky-baked-beans) (p. 438), tagged **Brazil** and filed by the source under *On the Side*. Half the beans get mashed right in the skillet and thickened with manioc flour — no grill involved at all, despite the book it comes from.
+
+> **Per the source:** *"Here's the Brazilian version of baked beans. Actually, it's only one of the versions. Brazilians love beans so much they have dozens of dishes to choose from. Tutu comes from Minas Gerais (a mining state in northwest Brazil), where it's made with black beans and bacon. I've lightened up the recipe a little — the original is the sort of fare you want to eat before engaging in strenuous physical labor."*
+
+**Yield:** serves 8 *(as printed)*
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~15 min** · **Start to finish ~30 min**
+
+**Techniques used:** [§T30 How to Use Fat](#t30-how-to-use-fat) *(rendering bacon)* · [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) *(for the hard-cooked eggs on top)*
+
+#### A. Ingredients
+
+- 4 slices bacon (about 4 oz)
+- 1 medium onion, finely chopped
+- 4 cloves garlic, minced
+- ¼ cup chopped fresh flat-leaf parsley, divided
+- 1 bay leaf
+- 4 cups cooked black beans *(if using canned, you'll need two 15 oz cans)*
+- ½ to 1 cup homemade chicken stock, canned low-sodium chicken broth, or liquid reserved from cooking the beans — *see [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+- ¼ tsp Portuguese hot sauce, or your favorite hot sauce, or more to taste
+- 3 to 4 Tbsp manioc flour *(see the note below)*
+- Salt and freshly ground black pepper
+- 2 hard-cooked eggs, coarsely chopped
+
+#### B. Cooking Instructions
+
+**1. Render the bacon. About 5 minutes.**
+Cook in a large skillet over medium heat until lightly browned. Pour off all but 2 Tbsp of the fat.
+
+**2. Cook the aromatics. About 4 minutes.**
+Add the onion, garlic, 2 Tbsp of the parsley, and the bay leaf, and cook until the onion is golden brown.
+
+**3. Add the beans, stock, and hot sauce. Simmer 5 minutes.**
+Then discard the bay leaf.
+
+**4. Mash half the beans right in the skillet.**
+Use a pestle, a potato masher, or the back of a wooden spoon. This is what gives the dish its body.
+
+**5. Stir in the manioc flour and simmer uncovered. About 3 minutes.**
+Start with 3 Tbsp. Simmer until nice and thick. If it's too thick, add a little more bean cooking liquid; if too thin, add the last tablespoon of manioc flour.
+
+**6. Season, top, and serve at once.**
+Taste and adjust salt, pepper, and hot sauce. Sprinkle with the chopped eggs and the remaining 2 Tbsp of parsley.
+
+> **Substitution, per the source:** if manioc flour isn't available, use toasted bread crumbs instead.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Latin/Brazilian market**
+
+- 🏪 Manioc flour (cassava flour / *farinha de mandioca*) — 3 to 4 Tbsp *(or substitute toasted bread crumbs)*
+- 🏪 Portuguese hot sauce — *or use any hot sauce you like*
+
+**🛒 General grocery**
+
+- 🛒 Bacon — 4 slices (about 4 oz)
+- 🛒 Onion — 1 medium
+- 🛒 Garlic — 4 cloves
+- 🛒 Fresh flat-leaf parsley — ¼ cup chopped
+- 🛒 Bay leaf — 1
+- 🛒 Cooked or canned black beans — 4 cups, or two 15 oz cans
+- 🛒 Chicken stock or broth — ½ to 1 cup
+- 🛒 Eggs — 2, hard-cooked
+- 🛒 Salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,610 | 52 g | 89 g | 200 g | 48 g |
+| **Per serving** *(serves 8, as printed)* | ~200 | 6.5 g | 11 g | 25 g | 6 g |
+
+**What a serving is:** a scoop alongside a Brazilian barbecue main, about ½ to ¾ cup. *A genuinely high-fiber, high-protein side — the beans do all the work and only 2 Tbsp of bacon fat stays in the pan.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -22547,6 +22724,71 @@ On an ungreased griddle, in a hot oven.
 #### D. Open Questions
 
 - **No biscuit count or chill time given** — 24 biscuits and a ~30 min chill are Claude's estimates.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 15.7 Yorkshire Pudding on the Grill
+
+Transcribed from the same **Steven Raichlen** book as [§5.33](#533-quick-and-smoky-baked-beans) and [§5.34](#534-brazilian-black-beans-with-bacon-tutu-mineira) (p. 439), tagged **England**. **Filed here in §15 Breads rather than with the sides** — it's a flour-egg-milk batter baked into a bread, and it sits naturally beside [§15.2 Butter Dips](#152-butter-dips) and the biscuits, even though it's served alongside a roast.
+
+> **Per the source:** *"Grilled Prime Ribs of Beef with Garlic and Rosemary just isn't complete without Yorkshire pudding. And you can cook the pudding on the grill while the meat rests before you carve it. The trick to achieving a dramatic puff is to start with ice-cold batter and add it to a smoking hot pan. For the most authentic flavor, use melted meat drippings — however nutritionally incorrect they may be."*
+
+**Yield:** serves 8 *(as printed)*
+
+**Advance preparation:** 30 minutes to chill the batter.
+
+**🟡 Medium** *(the puff is the whole dish, and it has two real failure points — batter that isn't cold enough, or a pan that isn't smoking hot when the batter hits it. Opening the grill to check will also collapse it. Nothing burns or breaks, but you can absolutely end up with a flat pudding)* · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~1 hr 10 min** *(includes the 30 min batter chill)*
+
+**Techniques used:** indirect grilling · [§T30 How to Use Fat](#t30-how-to-use-fat) — *this recipe is that entry's cold-into-screaming-hot principle in its purest form; the steam from the cold batter hitting hot fat is what does the lifting*
+
+#### A. Ingredients
+
+- 6 large eggs
+- 2¼ cups milk
+- 1 tsp salt
+- ¼ tsp freshly ground black pepper
+- 2 cups all-purpose unbleached flour
+- ¼ cup prime rib drippings, melted unsalted butter, or extra-virgin olive oil, divided
+
+#### B. Cooking Instructions
+
+**1. Make the batter and chill it. 30 minutes.**
+Whisk the eggs, milk, salt, and pepper together in a large bowl. Whisk in the flour and 2 Tbsp of the drippings. Cover and refrigerate. **The batter needs to go into the pan ice-cold** — that temperature difference is what makes it puff.
+
+**2. Set up the grill for indirect grilling.**
+No drip pan needed. *If you've just cooked a roast, the grill is already set up — for charcoal, just add 10 to 12 fresh coals per side.*
+
+**3. Heat the pan and the fat until smoking. About 3 minutes.**
+Add the remaining 2 Tbsp of drippings to a clean 13 × 5-inch roasting pan and set it in the center of the hot grate.
+
+**4. Pour in the cold batter and cover. 25–30 minutes.**
+Pour the chilled batter into the smoking-hot pan and cover the grill lightly. Cook until puffed and nicely browned. **Don't peek** — opening the lid drops the temperature and the pudding falls.
+
+**5. Cut into squares and serve at once.**
+
+> **On the drippings, per the source:** collect them from a roast while it cooks by pulling them out of the drip pan with a turkey baster, or save drippings from a previous grill session. Melted unsalted butter or olive oil both work if you don't have any.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 6 large
+- 🛒 Milk — 2¼ cups
+- 🛒 All-purpose unbleached flour — 2 cups
+- 🛒 Unsalted butter or extra-virgin olive oil — ¼ cup, *if you don't have beef drippings saved*
+- 🛒 Salt, black pepper
+- 🛒 *Free if you're roasting beef:* save the drippings — that's the authentic version
+
+#### Nutrition *(estimated, made with beef drippings)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pan** | ~2,000 | 89 g | 76 g | 220 g | 7 g |
+| **Per serving** *(serves 8, as printed)* | ~250 | 11 g | 9.5 g | 27 g | <1 g |
+
+**What a serving is:** one square cut from the pan, about ⅛ of it.
 
 [↑ Table of Contents](#table-of-contents)
 

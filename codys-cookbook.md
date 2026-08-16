@@ -268,6 +268,13 @@ Click any recipe to jump straight to it.
 - [8.20 Six-Onion Soup](#820-six-onion-soup) ✅
 - [8.21 Five-Way Chili](#821-five-way-chili) ○
 - [8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) ✅
+- [8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo) ✅
+- [8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) ✅
+- [8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters) ✅
+- [8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) ✅
+- [8.27 Green Gumbo](#827-green-gumbo) ✅
+- [8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) ✅
+- [8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -341,6 +348,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **New source: *Talk About Good!*, the Junior League of Lafayette's community cookbook — confirmed by Cody, not inferred.** Added a roux-technique addendum to **[§T1 How to Make a Roux](#t1-how-to-make-a-roux)** (new §D, renumbering the old Grocery Shopping List to §E) covering two alternate methods: an oil roux from Mrs. Ronald Andrus, and a Margarine Roux from Carmen B. Montegut of St. Martinville. **The genuinely new rule this source adds:** always cool a roux with hot water, never cold — cold water can curdle it or split the oil from the flour, which §T1's fast Cajun method never needed to mention since it stops the roux with vegetables instead. **One term left unresolved rather than guessed at:** the Margarine Roux calls for "3 cups water and 'taree'" — quoted in the original, and not a word this cookbook or Cody could place; flagged as an Open Question instead of assumed to mean filé. Then added seven gumbos from the same source, each kept as its own entry: **[§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo)** (Bob Durkee, 8 whole ducks), **[§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo)** (Mrs. Haskell Walker), **[§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters)** (Mrs. Robert E. Billeaud), **[§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)** (Mrs. Charles Hightower, Jr.), **[§8.27 Green Gumbo](#827-green-gumbo)** (Charles Begneaud, blended raw greens), **[§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé)** (Mrs. F. H. Davis, Sr.), and **[§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo)** (Mrs. F. M. McGinn) — kept distinct from the existing [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) since it's a lard roux with no sausage. **Difficulty split on how each source describes its roux, not just on "it's a gumbo":** fast dark-brown roux with no low-heat qualifier rated 🔴 Hard (Duck & Sausage, Duck and Guinea); a slow or low-heat roux, or one described as merely "brown" rather than dark, rated 🟡 Medium (Wild Goose, Felecia's Goose, Green Gumbo, Chicken Gumbo Filé, Mrs. McGinn's Seafood Gumbo) — same reasoning already established at [§4.17 Giblet Gravy](#417-giblet-gravy). **Several genuine source gaps flagged rather than smoothed over:** Wild Goose Gumbo's 3 qt of water and Felecia's Goose Gumbo's garlic powder, green onion tops, and parsley all appear in the instructions but not the source's own ingredient lists; Green Gumbo never gives a roux quantity or a greens quantity at all; Mrs. McGinn's Seafood Gumbo's shrimp/oyster/parsley timing reads garbled on the photographed page and is written up as the most sensible reading rather than a confirmed transcription; none of the seven give a serving count, so all seven carry a flagged, estimated one. |
 | 2026-08-13 | Added **[§8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 64), credited to Marcelle Bienvenu. Lump crabmeat (or shrimp) and corn in a cream bisque built on a **blond roux** — rated 🟡 Medium and carries the same don't-let-it-brown warning as [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), since browning it would dull the color and add a flavor it isn't supposed to have. **Kept distinct from [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses)** rather than merged — different shellfish, and a blond roux here against §8.19's dark roux and crawfish-head stock. Nutrition flags the 3½ cups of heavy cream as the dominant calorie source. |
 | 2026-08-13 | Added **[§9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 344). A round Italian loaf hollowed and stuffed with mortadella, provolone, and salami, layered around a chilled Olive Salad (pimiento-stuffed olives, ripe olives, capers, anchovies, olive oil, lemon, parsley, garlic, oregano). **No heat anywhere — filed with Slow cook ~3–4 hr rather than Cook**, the same treatment as [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche): the 2–4 hr Olive Salad marinate and the 1+ hr post-assembly chill are both the method, not downtime around it. **Two servings figures kept as printed rather than reconciled** — the source's own header says "4 to 6 servings," its intro text says "four generous servings"; Nutrition uses 5 as the midpoint, same convention as [§8.20 Six-Onion Soup](#820-six-onion-soup). Flagged in the Nutrition note: the ⅔ cup of olive oil in the Olive Salad outweighs even the meat and cheese as the single biggest calorie driver. |
 | 2026-08-13 | **Seven new placeholders added from a dictated list, recipes and details still to come:** [§5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃, [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes), [§7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃, [§8.21 Five-Way Chili](#821-five-way-chili), [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits), [§14.7 Apple Nut Ring](#147-apple-nut-ring), and [§14.8 Blueberry Cobbler](#148-blueberry-cobbler) — the last kept separate from the existing [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) rather than merged in. **Three things resolved from a messy dictation rather than guessed:** a garbled "Half potatoes" immediately followed by "Heather's mashed potatoes" is read as a self-correction and written up as one entry, not two; "I forgot about stuffing" is read as circling back to Nana's Chicken and Dressing (already captured) rather than a distinct new item, since [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) already exists separately; and **a standalone "homemade biscuits" placeholder was explicitly retracted mid-dictation** ("Actually forget homemade biscuits") and was not added — [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) stays, since that's a paired dish named earlier and never retracted. **Cranberry Sauce's own description is self-contradictory and flagged rather than resolved**: called "homemade" but also *"I think they just follow the package, which is good"* — read as a package-back method, noted in the entry itself for Cody to confirm when the recipe comes in. |
@@ -695,11 +703,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
+| [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters) | 🟡 | 30 min | 15 min | **4 hr** *(covered simmer, unattended)* | 4 hr 45 min |
+| [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo) | 🔴 | 45 min | 15 min | **3 hr** *(simmer, mostly unattended)* | 4 hr |
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
+| [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
@@ -707,9 +718,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
+| [§8.27 Green Gumbo](#827-green-gumbo) | 🟡 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
+| [§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) | 🟡 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) | 🔴 | 35 min | 1 hr 30 min | — | 2 hr 5 min |
 | [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **2–4 hr** *(sous vide, unattended)* | 3½–5½ hr |
+| [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
@@ -6564,14 +6579,45 @@ The vegetables are what stop the browning, and they add flavor while they're at 
 
 Roux keeps. Cool it, put it in an airtight jar, and hold it for several days either in the fridge or at room temperature. Before using, pour the excess oil off the surface and **reheat it** — that's the better option — or at minimum let it come back to room temperature first.
 
-#### D. Grocery Shopping List
+#### D. A Slower Alternate Method — from *Talk About Good!*
+
+Two more roux methods, transcribed from a different source than Prudhomme's fast Cajun method above — a genuinely different technique, not a contradiction of it. From ***Talk About Good!***, the Junior League of Lafayette's community cookbook, credited on the page to **Mrs. Ronald Andrus** (the oil roux) and **Carmen B. Montegut of St. Martinville, La.** (the margarine roux).
+
+> *"A heavy pot is a must to make a pretty roux. The heavier the pot, the easier your job will be. Before you start your roux, start heating water in a kettle, the amount depending on whether you are making a gumbo or a stew. You must always add hot water to a roux. It is very important not to change the temperature of the roux by adding cold water to it. It could curdle the roux, or separate the flour and water from the oil. ... We feel it to be important to use more oil than flour."*
+
+> ⚠️ **The one rule this method adds that isn't above: always cool a roux with hot water, never cold.** Cold water shocks the fat and can curdle the roux or split the oil from the flour. Keep a kettle of hot water going before you start, whichever roux method you're using.
+
+**Ratio:** ⅔ cup flour to ¾ cup salad oil — more oil than flour, deliberately. Sized for a stew with 1 hen or a gumbo with 2 lbs of shrimp; scale up in the same proportion for a bigger batch.
+
+**Method, as printed — note the order is reversed from the method above:** mix the flour and oil together **cold**, in a heavy iron pot, before any heat goes on. Turn the fire to medium-low once mixed, and stir constantly, all over the bottom of the pot, so nothing sticks. It browns slowly — don't rush it, since it goes from fine to burnt fast as it nears the finish. At a rich dark brown, cut the heat immediately, keep stirring, and add hot water (or, per the source, a cup of chopped onions) to stop the browning by lowering the temperature. Once the temperature's down, the fire can go back on and the rest of the stew or gumbo ingredients go in slowly.
+
+**Margarine Roux — a different, longer method for crawfish, egg, shrimp, or oyster stew:**
+
+- 2 sticks margarine
+- ½ cup flour
+- 1 cup onions
+- 1 cup shallots
+- ½ cup celery
+- ½ cup bell pepper
+- 4 cloves garlic
+- 3 cups water
+
+Melt the margarine in a heavy pot, add the flour, and brown lightly, stirring frequently. Add the onions, shallots, celery, bell pepper, and garlic, and fry with the cover on for about an hour, stirring frequently — this melts the vegetables down rather than browning the roux hard. Add the 3 cups of water, and cook several hours, thinning with more water if it thickens too much, until it's about the consistency of cream, before adding whatever you're stewing.
+
+> **Per the source, a chicken variant:** equal parts cooking oil and flour, with the chicken itself browned lightly in the roux before the water goes in — for chicken gumbo or chicken stew.
+
+**Open Question:** the source adds *"3 cups water and 'taree'"* to the Margarine Roux, with "taree" in quotes on the original card — not a word Cody or this cookbook can otherwise place. Transcribed exactly as printed rather than guessed at (it isn't obviously filé, which the recipe never separately mentions). Flag for Cody to confirm if he recognizes the term.
+
+#### E. Grocery Shopping List
 
 **🛒 General grocery**
 
 - 🛒 All-purpose flour
-- 🛒 Vegetable oil
+- 🛒 Vegetable oil or salad oil
+- 🛒 Margarine — 2 sticks, for the Margarine Roux
+- 🛒 Onions · shallots · celery · bell pepper · garlic — for the Margarine Roux
 
-*Nothing new pushed to Reminders — both are already on the list from [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo).*
+*Nothing new pushed to Reminders — flour and oil are already on the list from [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo).*
 
 #### Nutrition *(estimated)*
 
@@ -6582,7 +6628,7 @@ Roux keeps. Cool it, put it in an airtight jar, and hold it for several days eit
 
 **What a serving is:** not a dish. A full ¾ cup oil + ¾ cup flour batch thickens a gumbo serving 6–10, so the per-serving column is what one bowl inherits from the roux.
 
-*Scale directly with the batch — it's 50/50 oil and flour by volume, so halving the recipe halves everything here.*
+*Scale directly with the batch — it's 50/50 oil and flour by volume, so halving the recipe halves everything here. Figures above are for the fast Cajun method; the Talk About Good! methods use the same flour-and-fat math and scale the same way.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16180,6 +16226,525 @@ Cook until the soup is heated through, then serve immediately.
 | **Per serving** *(serves 5, midpoint of the printed 4–6)* | ~900 | 78 g | 22 g | 21 g | 2 g |
 
 **What a serving is:** a generous 1-cup bowl. *The 3½ cups of heavy cream is by far the biggest calorie and fat driver here — this is a genuinely rich bisque, not a light soup.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.23 Duck & Sausage Gumbo
+
+Transcribed from a printed page — ***Talk About Good!***, the Junior League of Lafayette's community cookbook, credited to **Bob Durkee**. A hunting-camp-scale dark-roux gumbo built on 8 whole ducks.
+
+**Yield:** not stated by the source — this is a large batch built on 8 whole ducks; estimated to serve about 16, flagged below.
+
+**🔴 Hard** · **Prep ~45 min** *(cutting up and browning 8 ducks, chopping 6 cups of onion/pepper/celery — estimated, not given by the source)* · **Cook ~15 min** *(the dark roux)* · **Slow cook 3 hr** *(the simmer, mostly unattended — stir now and then)* · **Start to finish ~4 hr**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+#### A. Ingredients
+
+- 3 cups flour
+- 3½ cups cooking oil
+- 6 cups mixture of chopped onion, green pepper, and celery
+- 2 gal water
+- 8 large ducks, cut into serving pieces and browned
+- 5 Tbsp salt
+- 2 tsp black pepper
+- 1 tsp red pepper
+- Tabasco sauce, to taste
+- 2 lb smoked sausage
+- 3 Tbsp filé
+- ½ cup chopped green onion tops
+
+#### B. Cooking Instructions
+
+**1. Make the roux. Cook until dark brown.**
+Mix the flour and oil and cook, stirring constantly, until dark brown — see [§T1](#t1-how-to-make-a-roux) for the technique.
+
+**2. Stop the roux with the vegetables.**
+Remove from the fire and add the 6 cups of onion, green pepper, and celery mixture.
+
+**3. Add the water gradually, then return to the fire.**
+Add the water a small amount at a time. Once all the water is in, return the pot to the fire.
+
+**4. Add the browned duck and seasoning. Simmer 3 hours.**
+Add the browned duck, salt, pepper, and Tabasco. Simmer, stirring occasionally.
+
+**5. Add the sausage for the last hour.**
+
+**6. Finish with onion tops and filé just before serving.**
+Season to taste again.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 3 cups
+- 🛒 Cooking oil — 3½ cups
+- 🛒 Onion, green bell pepper, celery — 6 cups chopped, combined
+- 🛒 Whole ducks — 8 large
+- 🛒 Salt — 5 Tbsp
+- 🛒 Black pepper — 2 tsp
+- 🛒 Red pepper — 1 tsp
+- 🛒 Tabasco sauce
+- 🛒 Smoked sausage — 2 lb
+- 🛒 Gumbo filé (filé powder) — 3 Tbsp
+- 🛒 Green onion tops — ½ cup chopped
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~15,340 | 1,283 g | 604 g | 410 g | 15 g |
+| **Per serving** *(estimated 16 servings)* | ~960 | 80 g | 38 g | 26 g | 1 g |
+
+**What a serving is:** a large gumbo bowl, roughly 1½–2 cups. *Wild duck size varies a lot by species — this assumes lean wild ducks rather than farm-raised, so treat this as a rougher estimate than most entries here.*
+
+#### D. Open Questions
+
+- **No serving count given** — 16 is Claude's estimate based on the batch size (8 whole ducks, 2 gallons of water), not stated by the source.
+- **No prep time given** — the source states only the 3-hour simmer; prep is Claude's estimate.
+- **Duck size/species not specified** ("8 large ducks") — nutrition assumes lean wild duck; a farm-raised duck would run considerably richer.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.24 Duck and Guinea Gumbo
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Haskell Walker**.
+
+**Yield:** serves 8 to 10 *(as printed)*. *"Any left is delicious after freezing."*
+
+**🔴 Hard** · **Prep ~35 min** *(estimated — cutting and browning the ducks and guinea, chopping onions)* · **Cook ~1 hr 30 min** *(the roux, then simmering until tender plus 20–30 min more — exact simmer time not given, estimated)* · **Start to finish ~2 hr 5 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+#### A. Ingredients
+
+- ¾ cup oil
+- ¾ cup flour
+- 1½ cups chopped onion
+- ½ cup chopped green onions and tops
+- 3 to 4 qt boiling water
+- Salt and red pepper, to taste
+- 4 teal or 2 large ducks, cut into serving pieces and seasoned
+- 1 guinea, cut into pieces
+- ½ cup chopped parsley
+- ½ cup chopped onion tops
+- 1 lb smoked farm-brand sausage, cut into 2-inch pieces *(optional)*
+
+#### B. Cooking Instructions
+
+**1. Make the roux. Cook until dark brown.**
+In a large pot, make a roux with the oil and flour, cooking until dark brown — see [§T1](#t1-how-to-make-a-roux).
+
+**2. Wilt the onions in the roux.**
+Add the chopped onion and onion tops and cook until wilted.
+
+**3. Add the boiling water and season.**
+Add the boiling water and season well with salt and red pepper.
+
+**4. Brown the duck and guinea separately, then add to the pot.**
+Brown the seasoned duck and guinea in a separate pot, then add to the gumbo. Simmer, uncovered, on a low fire until the meat is quite tender. Add more seasoning if needed.
+
+**5. Add onion tops, parsley, and sausage. Cook 20–30 minutes more.**
+Add the sausage if using.
+
+**6. Serve over rice.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cooking oil — ¾ cup
+- 🛒 All-purpose flour — ¾ cup
+- 🛒 Onion — 1½ cups chopped, plus green onions and tops
+- 🛒 Ducks — 4 teal or 2 large
+- 🛒 Guinea fowl — 1
+- 🛒 Fresh parsley — ½ cup chopped
+- 🛒 Smoked farm-brand sausage — 1 lb *(optional)*
+- 🛒 Salt, red pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** *(with sausage)* | ~5,000 | 403 g | 229 g | 103 g | 5 g |
+| **Per serving** *(serves 9, midpoint of the printed 8–10)* | ~555 | 45 g | 25 g | 11 g | 1 g |
+
+**What a serving is:** a gumbo bowl, about 1½ cups, over rice (rice not counted above).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.25 Wild Goose Gumbo with Oysters
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Robert E. Billeaud**.
+
+**Yield:** not stated by the source; estimated to serve 7, flagged below.
+
+**🟡 Medium** · **Prep ~30 min** *(estimated — cleaning and cutting the goose, chopping vegetables)* · **Cook ~15 min** *(the roux and wilting the vegetables)* · **Slow cook 4 hr** *(covered simmer until the goose is tender)* · **Start to finish ~4 hr 45 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(this one's cooked low and slow rather than fast — see the note there)*
+
+#### A. Ingredients
+
+- 1 goose, cut into pieces
+- ½ cup cooking oil
+- ½ cup flour
+- 2 onions, chopped
+- 1 bell pepper, chopped
+- 2 ribs celery, chopped
+- 1 cup onion tops and parsley
+- Salt, pepper, Tabasco sauce, to taste
+- 3 qt hot water *(named in the instructions, not in the source's own ingredient list — added here so the recipe is actually makeable)*
+- 1 pt oysters
+
+#### B. Cooking Instructions
+
+**1. Make the roux. Cook slowly over low heat until dark brown.**
+Heat the oil in a black iron pot, add the flour, and cook slowly over low heat until dark brown — see [§T1](#t1-how-to-make-a-roux).
+
+**2. Wilt the vegetables.**
+Add the onions, bell pepper, and celery, and let wilt.
+
+**3. Add seasoning and hot water.**
+Add the seasoning and 3 quarts of hot water.
+
+**4. Add the goose and simmer. About 4 hours.**
+Add the seasoned goose and cook over low heat in a covered pot until the goose is extremely tender.
+
+**5. Finish with oysters, onion tops, and parsley. Serve.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole goose — 1
+- 🛒 Cooking oil — ½ cup
+- 🛒 All-purpose flour — ½ cup
+- 🛒 Onions — 2
+- 🛒 Bell pepper — 1
+- 🛒 Celery — 2 ribs
+- 🛒 Onion tops and parsley — 1 cup
+- 🛒 Oysters — 1 pt
+- 🛒 Salt, pepper, Tabasco sauce
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~4,730 | 369 g | 320 g | 105 g | 6 g |
+| **Per serving** *(estimated 7 servings)* | ~675 | 53 g | 46 g | 15 g | 1 g |
+
+**What a serving is:** a gumbo bowl, about 1½ cups.
+
+#### D. Open Questions
+
+- **No serving count given** — 7 is Claude's estimate.
+- **The 3 qt of hot water is in the instructions but missing from the source's own ingredient list** — added into the Ingredients above rather than left out, same treatment this cookbook gives other Prudhomme-style source gaps.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.26 Felecia's Goose Gumbo
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Charles Hightower, Jr.**
+
+**Yield:** serves 4 *(as printed)*
+
+**🟡 Medium** · **Prep ~25 min** *(estimated — rubbing and stuffing the goose, chopping vegetables)* · **Cook ~2 hr** *(1 hr baking the goose, then about 1 hr simmering it in the roux)* · **Start to finish ~2 hr 25 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+#### A. Ingredients
+
+- 1 wild goose
+- Garlic powder, black pepper, red pepper — for rubbing the goose, inside and out *(named in the instructions, not the source's own ingredient list)*
+- Celery — for stuffing, plus 3 stalks (including leaves) for the roux mixture
+- Onion — 1 for stuffing, plus 1 more for the roux
+- Shallots — the bottoms of a few, for the roux mixture
+- Green pepper — 1, for the roux mixture
+- ½ cup oil
+- 1 cup flour
+- 1 gal water
+- Salt, black pepper, red pepper, to taste
+- Green onion tops and parsley — to finish *(named in the instructions, not the source's own ingredient list)*
+
+#### B. Cooking Instructions
+
+**1. Rub and stuff the goose. Bake about 1 hour at 350°F.**
+Rub the goose with garlic powder, black pepper, and red pepper, inside the cavity too. Stuff with celery and 1 onion. Bake at 350°F until tender.
+
+**2. Make a roux. Cook to a dark golden brown.**
+Heat ½ cup oil, then add 1 cup flour to make a thick paste. Stir constantly until a dark golden brown — see [§T1](#t1-how-to-make-a-roux).
+
+**3. Brown an onion in the roux.**
+Add one onion and sauté until browned in the roux.
+
+**4. Build the pot.**
+In another pot, place 1 gallon of water and add the roux. Chop the 3 celery stalks (with leaves), the bell pepper, and the bottoms of the shallots, and add to the water and roux mixture. Season with salt, black pepper, and red pepper to taste.
+
+**5. Add the goose and simmer. About 1 hour.**
+Cut up the baked goose and add it, bones and all. Simmer.
+
+**6. Finish with green onion tops and parsley. Serve on rice.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole goose — 1
+- 🛒 Garlic powder, black pepper, red pepper — for the rub
+- 🛒 Celery — for stuffing, plus 3 stalks
+- 🛒 Onions — 2
+- 🛒 Shallots
+- 🛒 Green bell pepper — 1
+- 🛒 Cooking oil — ½ cup
+- 🛒 All-purpose flour — 1 cup
+- 🛒 Green onion tops and parsley
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~4,640 | 361 g | 285 g | 137 g | 6 g |
+| **Per serving** *(serves 4, as printed)* | ~1,160 | 90 g | 71 g | 34 g | 2 g |
+
+**What a serving is:** a hearty gumbo bowl over rice, with a generous share of goose meat — only 4 servings from a whole goose plus roux, so portions run rich.
+
+#### D. Open Questions
+
+- **The source's own ingredient list omits the garlic powder rub, the green onion tops, and the parsley**, even though the instructions call for all three — added into Ingredients above rather than left out.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.27 Green Gumbo
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Charles Begneaud**. A roux-based gumbo built on blended raw greens rather than the usual trinity of stewed vegetables.
+
+**Yield:** not stated; estimated to serve 6, flagged below.
+
+**🟡 Medium** *(the source never gives a roux quantity or color target — flagged below rather than assumed to be a fast dark roux)* · **Prep ~20 min** *(estimated — chopping onion and potato, blending the greens and parsley)* · **Cook ~1 hr 30 min** *(mostly a simmer, stir occasionally)* · **Start to finish ~1 hr 50 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+#### A. Ingredients
+
+- Roux *(quantity not given by the source — see Open Questions; a standard ¼ cup oil to ¼ cup flour is assumed here)*
+- 2 large onions, chopped coarsely
+- 2 small or 1 large red potato, diced
+- 3–4 links smoked sausage, sliced ¼ inch thick
+- Raw greens (mustard, Chinese cabbage, spinach, etc.) — quantity not given by the source; about 4 cups assumed
+- A handful of fresh parsley
+
+#### B. Cooking Instructions
+
+**1. Make a roux in a 6- to 8-quart pot.**
+See [§T1](#t1-how-to-make-a-roux) for the technique — the source doesn't specify a color target here.
+
+**2. Add the onions, potato, and sausage.**
+
+**3. Blend the greens and parsley, then add to the pot.**
+Run the raw greens through a blender before adding to the mixture. Run a handful of parsley through the blender too, then add.
+
+**4. Simmer. 1½ hours.**
+Cook slowly.
+
+**5. Serve with rice and baked sweet potato.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour and cooking oil — for the roux
+- 🛒 Onions — 2 large
+- 🛒 Red potato — 2 small or 1 large
+- 🛒 Smoked sausage links — 3–4
+- 🛒 Mustard greens, Chinese cabbage, spinach, or similar — for blending
+- 🛒 Fresh parsley
+
+#### Nutrition *(estimated — doubly so; the source gives no roux quantity or greens quantity, both assumed here)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~1,890 | 148 g | 51 g | 87 g | 9 g |
+| **Per serving** *(estimated 6 servings)* | ~315 | 25 g | 9 g | 15 g | 2 g |
+
+**What a serving is:** a gumbo bowl, about 1½ cups, with rice and baked sweet potato on the side (not counted above).
+
+#### D. Open Questions
+
+- **No roux quantity given** — "make a roux" with no oil/flour amounts or color target. A standard ¼ cup oil to ¼ cup flour is assumed for the write-up and the Nutrition estimate.
+- **No greens quantity given** — about 4 cups raw, before blending, is assumed.
+- **No serving count given** — 6 is Claude's estimate.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.28 Chicken Gumbo Filé
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. F. H. Davis, Sr.**
+
+**Yield:** not stated; estimated to serve 6, flagged below.
+
+**🟡 Medium** *(the source calls for a "brown roux," not a dark one — same reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy))* · **Prep ~20 min** *(estimated — cutting up the chicken, chopping onion and celery)* · **Cook ~1 hr 15 min** *(browning, roux, then simmering until the chicken is done — estimated)* · **Start to finish ~1 hr 35 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(a gentler, brown roux here, not the dark Cajun target)*
+
+#### A. Ingredients
+
+- 1 large chicken, cut up
+- 1 cup cooking oil
+- 2 tsp chopped parsley
+- 1 cup chopped celery
+- 2 cups chopped onions
+- 1 cup flour
+- 2 tsp chopped onion tops
+- Salt and pepper, to taste
+- 1 gal water
+- Gumbo filé (filé powder) — ½ tsp per plate served
+- *Variation, per the source: up to 50 oysters and their liquid, added after the chicken is done*
+
+#### B. Cooking Instructions
+
+**1. Brown the chicken in the oil, then remove it.**
+Fry the chicken in the oil until brown, then remove from the pot.
+
+**2. Make a brown roux in the same oil.**
+Add the flour slowly to the oil, making a brown roux.
+
+**3. Add the onions and celery. Cook until soft.**
+
+**4. Return the chicken, add water, and simmer until done.**
+Put the chicken back into the pot. Add 1 gallon of water and let cook slowly until the chicken is done. Season to taste.
+
+**5. Finish with parsley and onion tops.**
+
+**6. Serve over rice, with filé at the table.**
+Serve in soup plates over rice. Add ½ teaspoon filé to each plate served.
+
+> **Variation, per the source:** might add 50 oysters and their liquid after the chicken is done.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole chicken — 1 large, cut up
+- 🛒 Cooking oil — 1 cup
+- 🛒 All-purpose flour — 1 cup
+- 🛒 Celery — 1 cup chopped
+- 🛒 Onions — 2 cups chopped
+- 🛒 Fresh parsley — 2 tsp chopped
+- 🛒 Green onion tops — 2 tsp chopped
+- 🛒 Gumbo filé (filé powder) — ½ tsp per serving
+- 🛒 Salt, pepper
+- 🛒 Oysters — optional variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~3,910 | 271 g | 213 g | 137 g | 5 g |
+| **Per serving** *(estimated 6 servings)* | ~650 | 45 g | 36 g | 23 g | 1 g |
+
+**What a serving is:** a soup plate over rice, about 1½ cups of gumbo (rice not counted above). *Figures above assume most of the frying oil drains off rather than being eaten; the oyster variation isn't included.*
+
+#### D. Open Questions
+
+- **No serving count given** — 6 is Claude's estimate.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.29 Mrs. McGinn's Seafood Gumbo
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. F. M. McGinn**. Kept distinct from [§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) — a lard roux rather than an oil roux, and no sausage.
+
+**Yield:** not stated; estimated to serve 7, flagged below.
+
+**🟡 Medium** *(cooked slowly, per the source — same gentler-roux reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy))* · **Prep ~25 min** *(estimated — peeling shrimp, cleaning crabs, chopping onion, garlic, and pepper)* · **Cook ~45 min** *(the roux, then building the pot in stages)* · **Start to finish ~1 hr 10 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+#### A. Ingredients
+
+- 3 Tbsp lard
+- 3 Tbsp flour
+- 1 large onion, chopped
+- 2–3 cloves garlic, chopped
+- ½ bell pepper, chopped
+- 3 qt water
+- Salt, red pepper, black pepper, to taste
+- 1 can fresh claw crabmeat
+- Several whole crabs, cleaned
+- 1 lb peeled shrimp
+- Oysters and their liquid
+- ½ cup chopped parsley
+- 3–4 chopped green onions
+- Gumbo filé (filé powder), for the table
+
+#### B. Cooking Instructions
+
+**1. Make a roux with the lard and flour. Cook slowly, stirring often, until brown.**
+See [§T1](#t1-how-to-make-a-roux) for the technique.
+
+**2. Add the onion, garlic, and bell pepper to the roux.**
+
+**3. Add the water gradually, stirring as you pour. Season well.**
+
+**4. Add the crabmeat and whole crabs. Simmer about an hour.**
+Add the canned crabmeat and the cleaned whole crabs and cook.
+
+**5. Add the shrimp and cook until done.**
+*(The source's own timing note here is a little garbled on the page — read as roughly 15 minutes for the shrimp and roughly 30 minutes for the oysters before serving; see Open Questions.)*
+
+**6. Add the oysters and their liquid.**
+
+**7. Finish with parsley and green onions, then serve over rice.**
+Be sure to have a bottle of fresh filé on hand so each person can add their own.
+
+> **Per the source, on freezing:** this freezes well — but don't freeze the gumbo with oysters already in it. Add fresh oysters when reheating to serve.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lard — 3 Tbsp
+- 🛒 All-purpose flour — 3 Tbsp
+- 🛒 Onion — 1 large
+- 🛒 Garlic — 2–3 cloves
+- 🛒 Bell pepper — ½
+- 🛒 Canned fresh claw crabmeat — 1 can
+- 🛒 Whole crabs, cleaned — several
+- 🛒 Shrimp, peeled — 1 lb
+- 🛒 Oysters and their liquid
+- 🛒 Fresh parsley — ½ cup
+- 🛒 Green onions — 3–4, chopped
+- 🛒 Gumbo filé (filé powder) — for the table
+- 🛒 Salt, red pepper, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~1,790 | 60 g | 229 g | 53 g | 3 g |
+| **Per serving** *(estimated 7 servings)* | ~255 | 9 g | 33 g | 8 g | <1 g |
+
+**What a serving is:** a gumbo bowl, about 1½ cups, over rice (not counted above). *This is a genuinely lean gumbo by this cookbook's standards — a small amount of lard for the roux and no cream or sausage, so the seafood itself carries most of the calories.*
+
+#### D. Open Questions
+
+- **No serving count given** — 7 is Claude's estimate.
+- **The exact order and timing of the shrimp, oysters, parsley, and green onions going in is unclear from the photographed page** — the instructions read as somewhat repetitive/garbled in that section. Written up as the most sensible reading rather than presented as a confirmed transcription; worth Cody confirming against the actual card if he still has it.
 
 [↑ Table of Contents](#table-of-contents)
 

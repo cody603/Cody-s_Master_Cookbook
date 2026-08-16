@@ -267,6 +267,7 @@ Click any recipe to jump straight to it.
 - [8.19 Crawfish Bisque (Bisque d'Écrevisses)](#819-crawfish-bisque-bisque-décrevisses) ✅
 - [8.20 Six-Onion Soup](#820-six-onion-soup) ✅
 - [8.21 Five-Way Chili](#821-five-way-chili) ○
+- [8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -340,6 +341,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Added **[§8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 64), credited to Marcelle Bienvenu. Lump crabmeat (or shrimp) and corn in a cream bisque built on a **blond roux** — rated 🟡 Medium and carries the same don't-let-it-brown warning as [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), since browning it would dull the color and add a flavor it isn't supposed to have. **Kept distinct from [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses)** rather than merged — different shellfish, and a blond roux here against §8.19's dark roux and crawfish-head stock. Nutrition flags the 3½ cups of heavy cream as the dominant calorie source. |
 | 2026-08-13 | Added **[§9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 344). A round Italian loaf hollowed and stuffed with mortadella, provolone, and salami, layered around a chilled Olive Salad (pimiento-stuffed olives, ripe olives, capers, anchovies, olive oil, lemon, parsley, garlic, oregano). **No heat anywhere — filed with Slow cook ~3–4 hr rather than Cook**, the same treatment as [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche): the 2–4 hr Olive Salad marinate and the 1+ hr post-assembly chill are both the method, not downtime around it. **Two servings figures kept as printed rather than reconciled** — the source's own header says "4 to 6 servings," its intro text says "four generous servings"; Nutrition uses 5 as the midpoint, same convention as [§8.20 Six-Onion Soup](#820-six-onion-soup). Flagged in the Nutrition note: the ⅔ cup of olive oil in the Olive Salad outweighs even the meat and cheese as the single biggest calorie driver. |
 | 2026-08-13 | **Seven new placeholders added from a dictated list, recipes and details still to come:** [§5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃, [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes), [§7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃, [§8.21 Five-Way Chili](#821-five-way-chili), [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits), [§14.7 Apple Nut Ring](#147-apple-nut-ring), and [§14.8 Blueberry Cobbler](#148-blueberry-cobbler) — the last kept separate from the existing [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) rather than merged in. **Three things resolved from a messy dictation rather than guessed:** a garbled "Half potatoes" immediately followed by "Heather's mashed potatoes" is read as a self-correction and written up as one entry, not two; "I forgot about stuffing" is read as circling back to Nana's Chicken and Dressing (already captured) rather than a distinct new item, since [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) already exists separately; and **a standalone "homemade biscuits" placeholder was explicitly retracted mid-dictation** ("Actually forget homemade biscuits") and was not added — [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) stays, since that's a paired dish named earlier and never retracted. **Cranberry Sauce's own description is self-contradictory and flagged rather than resolved**: called "homemade" but also *"I think they just follow the package, which is good"* — read as a package-back method, noted in the entry itself for Cody to confirm when the recipe comes in. |
 | 2026-08-13 | **New top-level section: [§16 Beverages](#16-beverages), numbered 16 and appended at the end (same reasoning as §14–§15) — this cookbook's first drink.** Added **[§16.1 Hot Apple Cider](#161-hot-apple-cider)**, transcribed from a handwritten card: a hot mulled cranberry-pineapple punch with whole cloves, allspice, and cinnamon sticks. **The card's own workaround for not having a percolator is kept as the method** — a big pot on the stove, brought to a boil then simmered 30–45 minutes — along with its explicit warning to strain the spices out right after cooking or the cider turns bitter. Rated 🟢 Easy. **A stray line of unrelated trivia-card text on the photographed page** ("In what year was the name 'University of Arkansas' adopted?") **was not part of the recipe and was left out of the transcription.** |
@@ -644,6 +646,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
+| [§8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) | 🟡 | 20 min | 20 min | — | 40 min |
 | [§8.18 Gazpacho](#818-gazpacho) | 🟢 | 40 min | — | — | 40 min *(+ at least a 4 hr chill)* |
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
@@ -16092,6 +16095,91 @@ Ladle into heated bowls and garnish with toasted French bread croutons, snipped 
 
 ### 8.21 Five-Way Chili
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. Distinct from **[§8.1 Chili](#81-chili)** — worth confirming whether this is the layered spaghetti/chili/cheese/onions/beans style once it's written up.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.22 Louisiana Crab and Corn Bisque
+
+Transcribed from a printed cookbook page — ***Cooking Up a Storm***, No. 64, credited to **Marcelle Bienvenu**. *"This rich soup is an ideal dish to serve during the summer because it combines fresh corn from the garden and delicate lump crabmeat from the Gulf of Mexico. Our recipe files contain many versions of this favorite, but we decided this particular recipe, from Marcelle Bienvenu, is one you'll love. If you prefer, you can substitute shrimp for the crabmeat."*
+
+**Distinct from [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses)** — same course, different shellfish and a different method (this one's a blond roux, not the dark roux and crawfish-head stock of §8.19) — kept as its own entry rather than merged in.
+
+**Yield:** makes 4 to 6 servings
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~20 min** · **Start to finish ~40 min**
+
+**Techniques used:** related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) — *but see the warning below; this is a blond roux, not a Cajun dark roux*
+
+> ⚠️ **This is a blond roux — don't let it brown.** Cooked in oil and flour just 2 to 3 minutes, kept pale, the opposite of [§T1](#t1-how-to-make-a-roux)'s dark red-brown target — same caution as [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce). Watch it; browning here would dull the bisque's color and give it a toasted flavor it isn't supposed to have.
+
+#### A. Ingredients
+
+- 2 Tbsp butter
+- 1 cup chopped yellow onion
+- ¼ cup chopped red bell pepper
+- ½ cup chopped green bell pepper
+- ½ cup chopped celery
+- 1 Tbsp minced garlic
+- 2 cups shrimp or chicken stock
+- ½ cup dry white wine
+- ½ tsp dried thyme leaves
+- ¼ cup vegetable oil
+- ¼ cup all-purpose flour
+- 3½ cups heavy cream
+- 1 tsp salt
+- 1 tsp hot sauce
+- 1 cup fresh or frozen corn kernels
+- 1 lb lump crabmeat, picked over for shells and cartilage, or 1 lb medium shrimp, peeled and deveined
+- 1 Tbsp chopped fresh parsley
+- 1 Tbsp chopped green onions (green part only)
+
+#### B. Cooking Instructions
+
+**1. Sauté the vegetables, then add the liquid and bring to a boil.**
+Heat the butter in a large saucepan over medium heat. Add the onion, bell peppers, celery, and garlic, and sauté for 1 minute. Add the stock, wine, and thyme, and bring to a boil.
+
+**2. Make a blond roux. 2–3 minutes.**
+In a skillet, combine the oil and flour over medium heat. Cook, stirring constantly, until you have a blond roux — pale, not browned. Add the roux to the saucepan and mix well to combine thoroughly.
+
+**3. Whisk in the cream, then add the corn. Simmer 5 minutes.**
+Reduce the heat to medium and add the cream in a steady stream, whisking constantly to combine. Add the salt, hot sauce, and corn, and simmer.
+
+**4. Add the crabmeat, parsley, and green onions. About 5 minutes.**
+Cook until the soup is heated through, then serve immediately.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 2 Tbsp
+- 🛒 Yellow onion — 1 cup chopped
+- 🛒 Red bell pepper — ¼ cup chopped
+- 🛒 Green bell pepper — ½ cup chopped
+- 🛒 Celery — ½ cup chopped
+- 🛒 Garlic — 1 Tbsp minced
+- 🛒 Shrimp or chicken stock — 2 cups
+- 🛒 Dry white wine — ½ cup
+- 🛒 Dried thyme leaves — ½ tsp
+- 🛒 Vegetable oil — ¼ cup
+- 🛒 All-purpose flour — ¼ cup
+- 🛒 Heavy cream — 3½ cups
+- 🛒 Salt
+- 🛒 Hot sauce — 1 tsp
+- 🛒 Corn kernels, fresh or frozen — 1 cup
+- 🛒 Lump crabmeat — 1 lb, or 1 lb medium shrimp, peeled and deveined
+- 🛒 Fresh parsley — 1 Tbsp chopped
+- 🛒 Green onions — 1 Tbsp chopped (green part only)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~4,510 | 391 g | 112 g | 104 g | 8 g |
+| **Per serving** *(serves 5, midpoint of the printed 4–6)* | ~900 | 78 g | 22 g | 21 g | 2 g |
+
+**What a serving is:** a generous 1-cup bowl. *The 3½ cups of heavy cream is by far the biggest calorie and fat driver here — this is a genuinely rich bisque, not a light soup.*
 
 [↑ Table of Contents](#table-of-contents)
 

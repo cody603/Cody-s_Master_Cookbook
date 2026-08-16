@@ -369,6 +369,10 @@ Click any recipe to jump straight to it.
 
 - [15.1 Plain French Bread (Pain Français)](#151-plain-french-bread-pain-français) ✅
 - [15.2 Butter Dips](#152-butter-dips) ✅ *(featured, per Cody)*
+- [15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) ○ *(incomplete — title and most ingredients not photographed)*
+- [15.4 Angel Biscuits](#154-angel-biscuits) ✅
+- [15.5 Fancy Biscuits](#155-fancy-biscuits) ✅
+- [15.6 Pastry Biscuits](#156-pastry-biscuits) ✅
 
 **[16. Beverages](#16-beverages)** *(numbered 16, appended at the end — same reasoning as §14–§15)*
 
@@ -380,6 +384,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **The rest of the biscuit page added, per Cody's follow-up ask.** **[§15.4 Angel Biscuits](#154-angel-biscuits)** (Mrs. Richard P. Sevier) and **[§15.5 Fancy Biscuits](#155-fancy-biscuits)** (Mrs. Philip R. Allin) are both yeast-leavened refrigerator/freezer doughs — mixed once and baked in batches as needed, never left to rise loose on the counter. **[§15.6 Pastry Biscuits](#156-pastry-biscuits)** (Deborah Crawford) has no leavening at all, closer to a shortbread, and doubles as a strawberry shortcake base per the source's own note. **[§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation)** (Mrs. Jack McCord) is filed incomplete, same treatment as [§14.3 Classic Tuiles](#143-classic-tuiles) — the photo starts mid-instruction, so the title and nearly the whole ingredient list are missing; only the tail end of the method and two variations (cheese, bacon) survive. None of the four give a biscuit count, so all three complete entries carry a flagged, estimated one (24 biscuits each). |
 | 2026-08-13 | Added **[§15.2 Butter Dips](#152-butter-dips)** — transcribed from a printed page, ***Talk About Good!*** (p. 28), credited to **Mrs. Jess W. Griffith**. Buttery bread sticks: dough strips dipped in the same melted butter the baking pan was greased with, then baked close together. **Called out by Cody as a featured recipe**, flagged as such in both the Table of Contents and the entry itself — worth making, not just archiving. Cody sent two other pages from the same bread section (Angel Biscuits, Fancy Biscuits, Pastry Biscuits, plus an untitled cheese/bacon biscuit fragment) but asked for only this one; the rest weren't added and remain available if he wants them later. All four printed variations (cheese, garlic, seed/paprika toppings, chives or parsley) are kept in the entry. |
 | 2026-08-13 | **Two oyster dressings added from *Talk About Good!*, both 🦃, per Cody's request to add the oyster dressings only** — a Corn Bread Dressing and an untitled dressing fragment on the same pages were left out. **[§5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing)** (Mrs. Frank C. Rogers) is a layered cracker-and-oyster casserole; the source gives a quantity for the oysters only, so crackers, celery, parsley, milk, and cream are all assumed, and Nutrition is flagged as more heavily estimated than usual as a result. **[§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey)** (Mrs. B. H. DeHart) is a stale-French-bread dressing with a specific doneness cue — oysters cooked in a skillet just until the edges curl — and **carries the same stuffed-in-the-bird food-safety note as [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing)**, since the source allows either stuffing the fowl or baking separately in casseroles. |
 | 2026-08-13 | Three more from *Talk About Good!*: **[§9.26 Mushroom Florentine](#926-mushroom-florentine)** (Mrs. A. J. Shepard, 16 stuffed caps, 🟢 Easy), **[§5.29 Smothered Mustard Greens](#529-smothered-mustard-greens)** (Mrs. Paul J. Blanchet, Jr., serves 4–6 as printed), and **[§5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips)** (Mrs. Felix Bernard). **§5.29 is rated 🟡 Medium for a real roux** — quick (3–4 minutes, flour and grease with onion) but still a genuine roux technique, unlike §5.30's no-roux, boil-and-combine method, which stays 🟢 Easy. Both mustard greens recipes are kept separate rather than merged — different techniques, different finishing ingredients (bacon and bell pepper vs. turnips and sugar). |
@@ -606,6 +611,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | 🟡 | 5 min | 10 min | **6–8 hr** *(sous vide, unattended)* | 6 hr 15 min – 8 hr 15 min |
 | [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) | 🟡 | 5 min | 10 min | **1½–4 hr** *(sous vide, unattended)* | 1 hr 45 min – 4 hr 15 min |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
+| [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
@@ -660,6 +666,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.77 Sauce Brune aux Fines Herbes](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
 | [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§15.5 Fancy Biscuits](#155-fancy-biscuits) | 🟢 | 15 min | 10 min | — | 25 min *(per batch baked; dough keeps refrigerated)* |
+| [§15.6 Pastry Biscuits](#156-pastry-biscuits) | 🟢 | 15 min | 12 min | — | 1 hr *(includes an assumed ~30 min chill)* |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
 | [§4.20 Meunière Sauce](#420-meunière-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) | 🟢 | 15 min | 12 min | — | 30 min |
@@ -712,6 +720,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
+| [§15.4 Angel Biscuits](#154-angel-biscuits) | 🟢 | 20 min | 20 min | — | 40 min *(or +2–3 hr if freezing cut biscuits for later)* |
 | [§15.2 Butter Dips](#152-butter-dips) | 🟢 | 20 min | 18 min | — | 40 min |
 | [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | 🟡 | 20 min | 20 min | — | 2 hr 50 min *(2 hr brine)* |
@@ -21618,6 +21627,239 @@ Serve hot.
 | **Per stick** | ~53 | 2 g | 1 g | 7 g | <1 g |
 
 **What a serving is:** one stick — most people eat several.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 15.3 Basic Biscuits (Cheese or Bacon Variation)
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Jack McCord**. **This entry's title and most of its ingredient list weren't captured in the photo** — the crop cuts in mid-instruction, only showing the tail end of the method plus two variations. Named here from what's visible rather than invented; flagged for a follow-up photo.
+
+**Yield:** makes about 16 biscuits *(as printed)*
+
+**🟢 Easy** *(standard cut-in-shortening biscuit technique, based on what's visible)* · **Prep and cook not calculable** — see Open Questions
+
+#### A. Ingredients
+
+**Not fully visible in the photo.** What's confirmed from the instructions: flour, shortening (cut in "until it is in fine particles"), and presumably a leavening agent and liquid, none of which are legible in this crop.
+
+**Variations, per the source:**
+
+- Add ½ cup grated cheese to the flour-and-shortening mixture, for cheese biscuits
+- Add ¼ cup diced, cooked bacon to the flour-and-shortening mixture, for bacon biscuits
+
+#### B. Cooking Instructions
+
+**1. Cut the shortening into the dry ingredients until it's in fine particles.**
+*(The step before this — measuring and combining the dry ingredients — is above the photographed crop.)*
+
+**2. Shape the dough.**
+Roll the dough into a ball, knead lightly, then shape and cut with a floured cutter.
+
+**3. Bake. At 400°F, in a very hot oven.**
+Place on an ungreased baking sheet and bake until browned.
+
+#### C. Grocery Shopping List
+
+Not calculable until the rest of the ingredient list is photographed. Presumed: flour, shortening, a leavening agent, and a liquid, plus optional grated cheese or diced cooked bacon.
+
+#### D. Nutrition
+
+Not calculable — most of the ingredient list, including all quantities, is missing from the photographed crop.
+
+#### E. Open Questions
+
+- **The recipe's title and most of its ingredients are missing** — the photo starts mid-instruction. A photo of the top of this page would resolve it, the same gap flagged on [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) from an earlier page in this same source.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 15.4 Angel Biscuits
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 27), credited to **Mrs. Richard P. Sevier**. A yeast-leavened biscuit dough that also freezes cut and unbaked, so it's ready whenever needed.
+
+**Yield:** not stated; estimated to make about 24 biscuits, flagged below.
+
+**🟢 Easy** · **Prep ~20 min** *(dissolving the yeast, sifting, cutting in shortening, mixing, rolling, cutting)* · **Cook ~20 min** *(bake at 400°F, per the source)* · **Start to finish ~40 min** *(or, if freezing cut biscuits for later: add 2–3 hr to thaw and rise before baking, per the source)*
+
+#### A. Ingredients
+
+- 1 pkg yeast
+- 2 Tbsp lukewarm water
+- 1 cup shortening
+- 5 cups unsifted flour
+- 3 tsp baking powder
+- ¼ cup sugar
+- 2 tsp salt
+- 1 tsp soda
+- 1½–2 cups buttermilk, room temperature
+
+#### B. Cooking Instructions
+
+**1. Dissolve the yeast in the water.**
+
+**2. Sift the dry ingredients together.**
+
+**3. Cut in the shortening.**
+Into half of the dry ingredients.
+
+**4. Combine with the buttermilk and yeast.**
+Pour the dissolved yeast into the buttermilk, then add to the dry-and-shortening mixture. Add the remaining dry ingredients.
+
+**5. Roll and cut.**
+Roll on a floured board and cut biscuits with a cutter — not too thin. The dough handles better if it's been chilled first.
+
+**6. Bake, now or later.**
+Bake in a 400°F oven for 20 minutes. Or, if you like, freeze the cut biscuits and bake later — allow 2 to 3 hours for them to thaw and rise in a warm place before baking.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Active dry yeast — 1 package
+- 🛒 Shortening — 1 cup
+- 🛒 All-purpose flour — 5 cups, unsifted
+- 🛒 Baking powder — 3 tsp
+- 🛒 Sugar — ¼ cup
+- 🛒 Salt — 2 tsp
+- 🛒 Baking soda — 1 tsp
+- 🛒 Buttermilk — 1½–2 cups
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~4,360 | 209 g | 76 g | 529 g | 17 g |
+| **Per biscuit** *(estimated 24 biscuits)* | ~182 | 9 g | 3 g | 22 g | 1 g |
+
+**What a serving is:** one biscuit.
+
+#### D. Open Questions
+
+- **No biscuit count given** — 24 is Claude's estimate from the batch size.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 15.5 Fancy Biscuits
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 27), credited to **Mrs. Philip R. Allin**. A make-ahead, refrigerator biscuit dough — mixed once, then baked in batches as needed, never left to rise on the counter.
+
+**Yield:** not stated; estimated to make about 24 biscuits, flagged below.
+
+**🟢 Easy** · **Prep ~15 min** *(dissolving the yeast and combining the dough — the dough itself keeps in the fridge, portions baked as needed)* · **Cook ~10 min** *(bake at 450°F, per the source)* · **Start to finish ~25 min** *(per batch baked; the dough can be stored and used over several days)*
+
+#### A. Ingredients
+
+- 1 yeast cake
+- 2 Tbsp warm water
+- 2 cups buttermilk
+- 5 cups flour
+- 1 tsp salt
+- 1 tsp soda
+- 3 Tbsp baking powder
+- 1 cup shortening
+- 3 Tbsp sugar
+
+#### B. Cooking Instructions
+
+**1. Dissolve the yeast in the warm water.**
+
+**2. Combine everything as you would for regular biscuits.**
+Mix the flour, salt, soda, baking powder, shortening, sugar, buttermilk, and the dissolved yeast together.
+
+**3. Store the dough in the refrigerator.**
+Keep it in a tightly closed plastic bag or a covered bowl. **Do not let it rise at any point** — this dough is meant to stay cold until it's rolled out. Use it as needed.
+
+**4. Roll out and bake. 10 minutes at 450°F.**
+Bake on a greased pan.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Yeast cake (or equivalent active dry yeast)
+- 🛒 Buttermilk — 2 cups
+- 🛒 All-purpose flour — 5 cups
+- 🛒 Salt — 1 tsp
+- 🛒 Baking soda — 1 tsp
+- 🛒 Baking powder — 3 Tbsp
+- 🛒 Shortening — 1 cup
+- 🛒 Sugar — 3 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~4,350 | 210 g | 78 g | 520 g | 17 g |
+| **Per biscuit** *(estimated 24 biscuits)* | ~181 | 9 g | 3 g | 22 g | 1 g |
+
+**What a serving is:** one biscuit.
+
+#### D. Open Questions
+
+- **No biscuit count given** — 24 is Claude's estimate from the batch size.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 15.6 Pastry Biscuits
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 27), credited to **Deborah Crawford**. A rich, butter-heavy dough with no leavening at all — worked by hand to a cornmeal texture, closer to a shortbread than a risen biscuit. Doubles as a strawberry shortcake base.
+
+**Yield:** not stated; estimated to make about 24 small biscuits, flagged below
+
+**🟢 Easy** · **Prep ~15 min** *(working the butter into the flour by hand, adding ice water, shaping)* · **Cook ~12 min** *(bake at 450°F, per the source)* · **Start to finish ~1 hr** *(includes an assumed ~30 min chill — the source says to chill the dough but doesn't give a time)*
+
+#### A. Ingredients
+
+- 2 sticks butter
+- 2⅓ cups flour
+- Ice water
+
+#### B. Cooking Instructions
+
+**1. Work the butter into the flour by hand.**
+Slice the butter into a bowl and work in the flour with your hands until it reaches the consistency of cornmeal.
+
+**2. Add ice water to moisten.**
+As little as possible, working it in with a fork.
+
+**3. Shape, wrap, and chill.**
+Shape the dough into a ball, wrap in waxed paper, and chill.
+
+**4. Roll thin and cut.**
+Roll the dough thin and cut into small biscuits.
+
+**5. Bake. About 12 minutes at 450°F.**
+On an ungreased griddle, in a hot oven.
+
+> **Per the source:** this dough may be prepared ahead and keeps in the refrigerator for a week. It's delicious served with coffee or sherry, and also makes a good strawberry shortcake base with plenty of berries and sweetened whipped cream.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 2 sticks
+- 🛒 All-purpose flour — 2⅓ cups
+- 🛒 Ice water
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~2,650 | 183 g | 31 g | 214 g | 8 g |
+| **Per biscuit** *(estimated 24 small biscuits)* | ~110 | 8 g | 1 g | 9 g | <1 g |
+
+**What a serving is:** one small biscuit.
+
+#### D. Open Questions
+
+- **No biscuit count or chill time given** — 24 biscuits and a ~30 min chill are Claude's estimates.
 
 [↑ Table of Contents](#table-of-contents)
 

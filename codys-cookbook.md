@@ -242,6 +242,7 @@ Click any recipe to jump straight to it.
 - [7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken) ✅
 - [7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
 - [7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃 ○
+- [7.61 Broiled Fish](#761-broiled-fish) ✅
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -275,6 +276,8 @@ Click any recipe to jump straight to it.
 - [8.27 Green Gumbo](#827-green-gumbo) ✅
 - [8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) ✅
 - [8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) ✅
+- [8.30 Turtle Soup I](#830-turtle-soup-i) ✅
+- [8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) ✅
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -348,6 +351,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Three more from *Talk About Good!*:** **[§8.30 Turtle Soup I](#830-turtle-soup-i)** (Dr. J. J. Burdin) and **[§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone)** (Mrs. Helen M. Hayes), plus **[§7.61 Broiled Fish](#761-broiled-fish)** (Sarah Beacham, p. 171). The two turtle soups are genuinely different techniques kept side by side rather than merged: §8.30 thickens with mashed hard-boiled egg yolks and no roux at all (🟢 Easy — nothing here can curdle or burn), while §8.31 uses a light roux built right in the sautéed onions and celery (🟡 Medium, same reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy)) and is named for the Hotel Monteleone's well-known version. **§7.61 Broiled Fish rated 🟡 Medium on the strength of the source's own warning** — *"fish burns quickly"* under a broiler — a real, fast failure mode rather than a forgiving one; its four optional finishing variations (onion, tomato, browned almonds, or a garlic-butter sauce) are transcribed but not counted in Nutrition, since they're interchangeable extras. **One attribution flagged rather than assumed:** "Martha Paggi" appears above §8.30's title on the photographed page, read as a running header carried over from the previous recipe rather than this one's author, since the recipe itself is clearly signed by Dr. J. J. Burdin. |
 | 2026-08-13 | **New source: *Talk About Good!*, the Junior League of Lafayette's community cookbook — confirmed by Cody, not inferred.** Added a roux-technique addendum to **[§T1 How to Make a Roux](#t1-how-to-make-a-roux)** (new §D, renumbering the old Grocery Shopping List to §E) covering two alternate methods: an oil roux from Mrs. Ronald Andrus, and a Margarine Roux from Carmen B. Montegut of St. Martinville. **The genuinely new rule this source adds:** always cool a roux with hot water, never cold — cold water can curdle it or split the oil from the flour, which §T1's fast Cajun method never needed to mention since it stops the roux with vegetables instead. **One term left unresolved rather than guessed at:** the Margarine Roux calls for "3 cups water and 'taree'" — quoted in the original, and not a word this cookbook or Cody could place; flagged as an Open Question instead of assumed to mean filé. Then added seven gumbos from the same source, each kept as its own entry: **[§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo)** (Bob Durkee, 8 whole ducks), **[§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo)** (Mrs. Haskell Walker), **[§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters)** (Mrs. Robert E. Billeaud), **[§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)** (Mrs. Charles Hightower, Jr.), **[§8.27 Green Gumbo](#827-green-gumbo)** (Charles Begneaud, blended raw greens), **[§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé)** (Mrs. F. H. Davis, Sr.), and **[§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo)** (Mrs. F. M. McGinn) — kept distinct from the existing [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) since it's a lard roux with no sausage. **Difficulty split on how each source describes its roux, not just on "it's a gumbo":** fast dark-brown roux with no low-heat qualifier rated 🔴 Hard (Duck & Sausage, Duck and Guinea); a slow or low-heat roux, or one described as merely "brown" rather than dark, rated 🟡 Medium (Wild Goose, Felecia's Goose, Green Gumbo, Chicken Gumbo Filé, Mrs. McGinn's Seafood Gumbo) — same reasoning already established at [§4.17 Giblet Gravy](#417-giblet-gravy). **Several genuine source gaps flagged rather than smoothed over:** Wild Goose Gumbo's 3 qt of water and Felecia's Goose Gumbo's garlic powder, green onion tops, and parsley all appear in the instructions but not the source's own ingredient lists; Green Gumbo never gives a roux quantity or a greens quantity at all; Mrs. McGinn's Seafood Gumbo's shrimp/oyster/parsley timing reads garbled on the photographed page and is written up as the most sensible reading rather than a confirmed transcription; none of the seven give a serving count, so all seven carry a flagged, estimated one. |
 | 2026-08-13 | Added **[§8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 64), credited to Marcelle Bienvenu. Lump crabmeat (or shrimp) and corn in a cream bisque built on a **blond roux** — rated 🟡 Medium and carries the same don't-let-it-brown warning as [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), since browning it would dull the color and add a flavor it isn't supposed to have. **Kept distinct from [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses)** rather than merged — different shellfish, and a blond roux here against §8.19's dark roux and crawfish-head stock. Nutrition flags the 3½ cups of heavy cream as the dominant calorie source. |
 | 2026-08-13 | Added **[§9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 344). A round Italian loaf hollowed and stuffed with mortadella, provolone, and salami, layered around a chilled Olive Salad (pimiento-stuffed olives, ripe olives, capers, anchovies, olive oil, lemon, parsley, garlic, oregano). **No heat anywhere — filed with Slow cook ~3–4 hr rather than Cook**, the same treatment as [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche): the 2–4 hr Olive Salad marinate and the 1+ hr post-assembly chill are both the method, not downtime around it. **Two servings figures kept as printed rather than reconciled** — the source's own header says "4 to 6 servings," its intro text says "four generous servings"; Nutrition uses 5 as the midpoint, same convention as [§8.20 Six-Onion Soup](#820-six-onion-soup). Flagged in the Nutrition note: the ⅔ cup of olive oil in the Olive Salad outweighs even the meat and cheese as the single biggest calorie driver. |
@@ -632,6 +636,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§4.47 Salsa Verde](#447-salsa-verde) | 🟢 | 15 min | 15 min | — | 30 min |
+| [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
@@ -722,6 +727,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) | 🟡 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) | 🔴 | 35 min | 1 hr 30 min | — | 2 hr 5 min |
 | [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **2–4 hr** *(sous vide, unattended)* | 3½–5½ hr |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
@@ -729,6 +735,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | 🟡 | 15 min | 1 hr 35 min | — | 1 hr 50 min |
+| [§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) | 🟡 | 20 min | 1 hr 50 min | — | 2 hr 10 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
@@ -14327,6 +14334,71 @@ Everything above holds, with these changes:
 
 ---
 
+### 7.61 Broiled Fish
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 171), credited to **Sarah Beacham**. A simple broiler technique for whole salt-water fish, with four optional finishing variations. *"Salt water fish and large bass and Sac-a-lait are very good broiled,"* per the source — **Sac-a-lait** is the Louisiana name for white crappie, a popular freshwater panfish.
+
+**Yield:** scales per fish — quantities below are stated per fish; the optional garlic-butter sauce (Variation 4) makes enough for 2–3 fish.
+
+**🟡 Medium** *(the source's own warning: "fish burns quickly" under a broiler — a real, fast failure mode, not a forgiving one)* · **Prep ~10 min** *(scoring and seasoning — estimated)* · **Cook ~20 min** *(about 15 min per pound, turned once — estimated for a 1½ lb fish; scales with fish size)* · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+- Fish (salt water fish, large bass, or Sac-a-lait)
+- Salt
+- Pepper
+- 1 tsp (plus) lemon juice, per fish
+- 1 Tbsp butter, per fish
+
+**For variety, pick one:**
+
+1. Thin onion slices, added after turning, basted with lemon butter
+2. Fresh tomato slices, added after turning, basted while broiling
+3. Almonds, browned in butter and poured over the broiled fish
+4. A garlic butter sauce: 1 onion, minced · 2 tsp parsley · 1 clove garlic, minced · 1 tsp Worcestershire sauce · ½ stick butter *(enough for 2–3 fish)*
+
+#### B. Cooking Instructions
+
+**1. Score the fish.**
+Score both sides at 2-inch intervals.
+
+**2. Season and dot with butter and lemon juice.**
+Sprinkle with salt and pepper, and dot with the butter and lemon juice.
+
+**3. Broil. About 15 minutes per pound, basting often.**
+Turn the fish once, with a spatula, at the end of 5 minutes, and continue basting.
+
+**4. Watch closely — fish burns quickly under a broiler.**
+Test doneness by pricking with a fork; the fish falls apart when done.
+
+**5. For variety, finish with one of the four options above.**
+Onion or tomato slices go on after the fish is turned, basted the same way. The browned almonds or the garlic butter sauce (Variation 4, enough for 2–3 fish) go on after the fish is fully broiled.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fish — salt water fish, large bass, or Sac-a-lait
+- 🛒 Butter — 1 Tbsp per fish, plus more for whichever variation you pick
+- 🛒 Lemon juice — 1 tsp (plus) per fish
+- 🛒 Salt, pepper
+- 🛒 *Variation 1:* onion
+- 🛒 *Variation 2:* fresh tomato
+- 🛒 *Variation 3:* almonds
+- 🛒 *Variation 4:* onion, fresh parsley, garlic, Worcestershire sauce, butter
+
+#### Nutrition *(estimated, per fish — base recipe only, no variation)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Per 1 lb fish** | ~620 | 35 g | 72 g | 1 g | 0 g |
+
+**What a serving is:** one whole broiled fish, about 1 lb — scale up or down with fish size. *Figures are for the base recipe (fish, butter, lemon juice, salt, pepper) only; none of the four variations are included, since they're optional and interchangeable.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -16745,6 +16817,161 @@ Be sure to have a bottle of fresh filé on hand so each person can add their own
 
 - **No serving count given** — 7 is Claude's estimate.
 - **The exact order and timing of the shrimp, oysters, parsley, and green onions going in is unclear from the photographed page** — the instructions read as somewhat repetitive/garbled in that section. Written up as the most sensible reading rather than presented as a confirmed transcription; worth Cody confirming against the actual card if he still has it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.30 Turtle Soup I
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Dr. J. J. Burdin**. *"Use only fresh water turtle,"* per the source. Thickened with mashed hard-boiled egg yolks rather than a roux.
+
+**Yield:** not stated; estimated to serve 8, flagged below.
+
+**🟢 Easy** *(no roux — thickened with mashed cooked egg yolk, nothing that can curdle or burn)* · **Prep ~20 min** *(estimated — chopping a large amount of onion, bell pepper, parsley, and onion tops, hard-boiling the eggs)* · **Cook ~1 hr 15 min** *(includes about an hour of simmering)* · **Start to finish ~1 hr 35 min**
+
+#### A. Ingredients
+
+- 1 stick butter, melted
+- 1 heaping soup-plate-full finely chopped onion
+- 1 heaping cup finely chopped bell pepper
+- 1–2 tsp mustard
+- Dash Tabasco sauce
+- Dash of Lea & Perrins (Worcestershire) sauce
+- Salt, to taste
+- Lemon peel
+- ½ cup onion tops, chopped fine
+- ½ cup parsley, chopped fine
+- 3–6 hard-boiled eggs
+- 3–5 lb fresh water turtle meat
+- Sherry, to taste
+
+#### B. Cooking Instructions
+
+**1. Wilt the onions in melted butter, then salt.**
+Wilt the onions in the melted butter. Add salt.
+
+**2. Add the bell pepper as the onions soften.**
+Add the bell pepper when the onions start to soften. Cook until the onions are clear.
+
+**3. Add the turtle meat and fry until no longer raw.**
+
+**4. Cover with water and simmer. About an hour.**
+Add enough water to cover, and simmer, stirring occasionally and adding water if necessary.
+
+**5. Season the broth.**
+Add mustard, Lea & Perrins sauce, and Tabasco sauce. The soup will be thin at this point, but will thicken as the rest of the ingredients go in.
+
+**6. Mash the egg yolks into the soup to thicken it.**
+Separate the hard-boiled eggs. When the turtle meat has cooked down, mash the yolks and add to the soup — this is what thickens it. Add a few of the onion tops and season again.
+
+**7. Finish with egg whites, parsley, and the rest of the onion tops.**
+Chop the egg whites finely and add them shortly before serving, along with the parsley and remaining onion tops.
+
+**8. Add sherry to taste and serve.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — 1 stick
+- 🛒 Onion — 1 heaping soup-plate-full, chopped
+- 🛒 Bell pepper — 1 heaping cup, chopped
+- 🛒 Mustard — 1–2 tsp
+- 🛒 Tabasco sauce
+- 🛒 Lea & Perrins (Worcestershire) sauce
+- 🛒 Lemon peel
+- 🛒 Onion tops and parsley — ½ cup each, chopped
+- 🛒 Eggs — 3–6, hard-boiled
+- 🛒 Sherry
+- 🏪 Fresh water turtle meat — 3–5 lb *(a specialty item — a Cajun/Creole meat market or specialty butcher is the likeliest source outside Louisiana)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~3,400 | 210 g | 330 g | 45 g | 5 g |
+| **Per serving** *(estimated 8 servings)* | ~425 | 26 g | 41 g | 6 g | <1 g |
+
+**What a serving is:** a soup bowl, about 1½ cups. *Turtle meat is lean and very high in protein, similar to a dense dark-meat poultry — it's the biggest protein driver here, not the butter.*
+
+#### D. Open Questions
+
+- **No serving count given** — 8 is Claude's estimate.
+- **"Martha Paggi" appears at the top of the photographed page, above the recipe title** — read as a running header carried over from the previous page rather than this recipe's author, since the recipe itself is clearly signed **Dr. J. J. Burdin** at the end. Attributed to Burdin here; flagged in case that reading is wrong.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.31 Turtle Soup II (Monteleone)
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Helen M. Hayes**. Named for the Hotel Monteleone in New Orleans, whose turtle soup is a well-known version of the dish — a chicken-stock-and-tomato soup with a light flour thickener, distinct from [§8.30 Turtle Soup I](#830-turtle-soup-i)'s egg-yolk-thickened version.
+
+**Yield:** serves 10–12 *(as printed)*
+
+**🟡 Medium** *(a light roux built right in the sautéed onion and celery, not a dark Cajun roux — same gentler reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy))* · **Prep ~20 min** *(estimated — chopping onions, celery, and lemon; sieving the hard-boiled eggs; cubing the turtle meat)* · **Cook ~1 hr 50 min** *(includes a 1½–2 hr simmer, per the source)* · **Start to finish ~2 hr 10 min**
+
+**Techniques used:** related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(a gentle, in-the-vegetables version, not the dark Cajun target)*
+
+#### A. Ingredients
+
+- ¾ gal chicken stock *(bouillon cubes may be used)*
+- 4 Tbsp butter
+- 1 cup green onions, chopped fine
+- ⅓ cup celery, chopped fine
+- ¼ cup lemon, chopped fine
+- 3 hard-boiled eggs, sieved
+- 1 cup flour
+- 1 cup tomato sauce
+- 1 lb boneless turtle meat, cut into very small cubes
+- Salt, red pepper, black pepper, to taste
+- Sherry — not more than 1 Tbsp per large bowl
+
+#### B. Cooking Instructions
+
+**1. Prepare the chicken stock.**
+
+**2. Sauté the onion and celery in butter.**
+In a heavy iron skillet, sauté the green onions and celery in the 4 tablespoons of butter over medium heat, stirring constantly.
+
+**3. Add flour to the vegetables, then mix into the stock.**
+This is the thickener — a light roux built right in the sautéed vegetables rather than made separately.
+
+**4. Add the tomato sauce and season.**
+Mix the tomato sauce into the stock. Season with salt, red pepper, and black pepper to taste.
+
+**5. Brown the turtle meat and add to the stock.**
+
+**6. Simmer over low heat. 1½ to 2 hours.**
+
+**7. Serve over sherry.**
+Pour sherry into the serving bowl — not more than 1 tablespoon per large bowl — and ladle the hot soup over it.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chicken stock — ¾ gal, or bouillon cubes
+- 🛒 Butter — 4 Tbsp
+- 🛒 Green onions — 1 cup chopped
+- 🛒 Celery — ⅓ cup chopped
+- 🛒 Lemon — ¼ cup chopped
+- 🛒 Eggs — 3, hard-boiled and sieved
+- 🛒 All-purpose flour — 1 cup
+- 🛒 Tomato sauce — 1 cup
+- 🛒 Sherry
+- 🛒 Salt, red pepper, black pepper
+- 🏪 Boneless turtle meat — 1 lb *(a specialty item — see [§8.30](#830-turtle-soup-i)'s note)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~2,850 | 105 g | 195 g | 210 g | 8 g |
+| **Per serving** *(serves 11, midpoint of the printed 10–12)* | ~260 | 10 g | 18 g | 19 g | <1 g |
+
+**What a serving is:** a large bowl, roughly 1½–2 cups, with the sherry ladled in at the table.
 
 [↑ Table of Contents](#table-of-contents)
 

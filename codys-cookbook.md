@@ -110,6 +110,7 @@ Click any recipe to jump straight to it.
   - [4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)](#489-codys-greek-vinaigrette-lime--olive-oil) ✅ ❤️ ⚠️ *(one ingredient still unnamed)*
   - [4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) ✅
   - [4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style) ✅ *(distinct from [§4.36](#436-north-carolina-vinegar-sauce) — see the comparison table)*
+  - [4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) ✅ *(distinct from [§4.35](#435-mustard-barbecue-sauce))*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -341,6 +342,7 @@ Click any recipe to jump straight to it.
 - [10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) ○
 - [10.10 Cheese Grits](#1010-cheese-grits) ✅
 - [10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) ✅
+- [10.12 Grilled Grits](#1012-grilled-grits) ✅ *(a barbecue side, filed here to keep the grits together)*
 
 **[11. Southern Keto Baking & Sides](#11-southern-keto-baking--sides)**
 
@@ -392,6 +394,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Two more from the same Raichlen book, plus a standing preference recorded — and one technique deliberately left out.** Added **[§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce)** (p. 464), kept separate from the existing [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) — both are the same author's mustard sauces, but §4.35 is a savory cooked sauce with mustard seeds, butter, bacon, and onion in it, while §4.92 is a bare four-ingredient simmer (mustard, honey, brown sugar, white vinegar). **This also completes the Carolina sauce map** the source lays out: vinegar in eastern NC, tomato in western NC, mustard in southern NC and parts of SC and Florida — all three regions now represented here. Added **[§10.12 Grilled Grits](#1012-grilled-grits)** (p. 434) — grits cooked soft, chilled into a firm ½-inch slab for 4 hours to 2 days, cut, and grilled like polenta. **Filed in §10 with the other two grits recipes rather than with the barbecue sides**, so all three are findable together; rated 🟡 Medium because the slab genuinely has to be firm and the grate genuinely oiled or the pieces tear when turned. Its three printed variations (cheese, corn, jalapeño) are kept. **[§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) now carries a standing preference from Cody**: shown the source's *How to Grill the Perfect Steak* page, his answer was *"Actually I prefer sous vide — to me, the perfect steak is sous vide."* **That grilling technique was not added, on his call** — recorded on §T27 as the house alternative whenever a recipe calls for grilling or pan-searing a steak, and noted on the open [§6.4 Smoked Steak](#64-smoked-steak) placeholder so that entry gets written up as his smoker method specifically rather than as a general best-way-to-cook-a-steak. |
 | 2026-08-13 | **§6 Smoked Meats gets its second and third real recipes** — both from the same Raichlen book as [§5.33](#533-quick-and-smoky-baked-beans), both kept separate from what was already there rather than merged. **[§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version)** (p. 175–176, credited to Elizabeth Karmel of Greensboro) is **not** a duplicate of [§6.2 Pulled Pork](#62-pulled-pork), and the entry carries a comparison table saying exactly how: §6.2 mops hourly with a vinegar/onion/jalapeño mop and §6.6 uses **no mop at all**; §6.6's rub is its own 9-spice blend and is **optional**, with a salt-and-pepper-only path that starts cooking immediately; and §6.6 pins the charcoal fire at **300°F** where §6.2 just says medium-low. Same 195°F target and 4–6 hours in both. **[§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** carries two hard warnings from the source, both worth having: buy the brisket **untrimmed with a ¼–½ inch fat cap** or it comes out too dry, and use **charcoal or a smoker, not gas** — a stricter line than the same book draws for its pulled pork. **Cody's read on the brisket is recorded as a split, not a blanket endorsement:** he signs off on the seasoning and the 4–8 hour dry brine — *"it's all real good"* — but says he has his own smoking technique coming later, so the entry marks Steps 1–2 as endorsed and Steps 3–5 as the book's method. **[§6.1 Smoked Brisket](#61-smoked-brisket) stays open** for his version, and its placeholder now says the rub and cure are already unblocked by §6.7 while only the fire is still missing. **Three loose ends flagged in §6.7's Open Questions:** no serving count is printed; the Basic Barbecue Sauce (source p. 463) that forms half the "Texas Way" sauce formula isn't in this cookbook; and the sidebar cites a North Carolina Vinegar Sauce at p. 466, a different page from the one transcribed at [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) — possibly the same recipe reprinted, possibly a third version, not assumed either way. |
 | 2026-08-13 | **Two more from the same Raichlen book — and a duplicate caught before it got made.** Added **[§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido)** (Central America, p. 443) — a no-cook refrigerator pickle, everything raw into vinegar for at least a day, with the source's own tip to lay plastic wrap between jar and lid so the vinegar doesn't corrode the metal. Cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid) as macerating scaled up, and to [§4.5 Pickled Pink Onions](#45-pickled-pink-onions). Also added **[§4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style)**. **§4.91 is deliberately kept separate from the existing [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) rather than merged** — same author, same region, genuinely different formula, so the entry carries a side-by-side comparison table: §4.91 makes ~4 cups against §4.36's ~2¼, is cut with 1⅓ cups water where §4.36 uses none, runs far heavier on ketchup (½ cup + 2 Tbsp vs. 3 Tbsp), adds white pepper, and drops the Tabasco. Sharper and concentrated versus milder and more tomatoey — both worth having. **The North Carolina coleslaw on the same page was *not* added as a new entry, because it's the same recipe already at [§5.13](#513-north-carolina-coleslaw)** — cabbage plus 1 cup vinegar sauce, both printings. That entry was updated instead, folding in what the newer version actually adds: optional salt, a **10-minute stand before the final seasoning check** (taste it immediately and you'll overdress it), a mandoline as an alternative to the food processor, and the source's own framing — *"No onions. No carrots. No peppers. No mayonnaise."* Its ingredient line now offers both vinegar sauces as a real choice, since §4.91 makes a gentler slaw and §4.36 a punchier one. |
 | 2026-08-13 | **Three from a *Rice, Beans, and Beyond* chapter — and a new Steven Raichlen book, distinct from the *How to Grill* already in this cookbook.** This one tags recipes by country of origin and uses *Special Equipment* / *Advance Preparation* headers that *How to Grill* doesn't, so it's a different title: **most likely *The Barbecue! Bible* or *Planet Barbecue*, given as an educated guess rather than asserted**, same practice as [§13 Meathead Cookbook](#13-meathead-cookbook) — the name gets stated when a title page confirms it, not before. Added **[§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)** (U.S.A. — canned beans smoke-roasted 30 minutes on the grill, filed Slow cook like [§T15](#t15-how-to-barbecue-cabbage) and [§7.50](#750-asian-flavor-baby-back-ribs)), **[§5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](#534-brazilian-black-beans-with-bacon-tutu-mineira)** (Brazil — half the beans mashed in the skillet, thickened with manioc flour, no grill involved), and **[§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill)** (England). **§15.7 is filed in Breads rather than with the sides** — it's a flour-egg-milk batter baked into a bread, so it belongs beside [§15.2 Butter Dips](#152-butter-dips) and the biscuits even though it's served with a roast; rated 🟡 Medium because the puff genuinely fails if the batter isn't ice-cold, the pan isn't smoking, or you open the lid to peek. **§5.33 got a callout worth having:** its ketchup, vinegar, and molasses go straight onto the beans, which looks like it violates [§T31 How to Use Acid](#t31-how-to-use-acid)'s firm-keeping rule — it doesn't, because canned beans are *already cooked soft* before any acid touches them. That's the loophole the rule allows, and it's the fast path to the same place [§7.16 Red Beans & Rice](#716-red-beans--rice) reaches the long way. |
@@ -601,6 +604,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
+| [§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -802,6 +806,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
 | [§14.11 Pecan Pie III](#1411-pecan-pie-iii) | 🟢 | 15 min | 50 min | — | 1 hr 5 min |
 | [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) | 🟢 | 10 min | 55 min | — | 1 hr 5 min |
+| [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
@@ -6724,6 +6729,65 @@ Add more brown sugar and/or salt as necessary. **The sauce should be piquant but
 
 ---
 
+### 4.92 Carolina Mustard Barbecue Sauce
+
+Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) (p. 464), tagged **U.S.A.** and filed by the source under *On the Side*. Four ingredients, five minutes on the stove.
+
+> ⚠️ **Distinct from [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce)** — same author, both mustard-based, genuinely different builds. §4.35 is a cooked sauce with **mustard seeds, butter, bacon, and onion** in it, thinned with cider vinegar and molasses; §4.92 is a bare four-ingredient simmer — mustard, honey, brown sugar, white vinegar. §4.35 is richer and savory; §4.92 is sharper and sweeter. Both kept, same as [§4.36](#436-north-carolina-vinegar-sauce)/[§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style).
+>
+> **This also completes the Carolina sauce trio in this cookbook** — the source's own map is vinegar in eastern NC, tomato in western NC, and **mustard in southern NC, parts of South Carolina, and Florida**. All three regions are now represented: [§4.36](#436-north-carolina-vinegar-sauce)/[§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) vinegar, [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) and the tomato-based ones, and §4.92 mustard.
+
+> **Per the source:** *"In the southern part of North Carolina (and in a few parts of South Carolina and Florida), barbecue simply isn't barbecue unless it's served with a bright yellow sauce made from mustard, honey, and vinegar. If you haven't grown up with such a sauce, the very notion might seem off-putting. But even if you come from tomato sauce country, mustard barbecue sauce quickly becomes addictive."*
+
+> **On which mustard to use, per the source:** tradition calls for inexpensive ballpark-style yellow mustard, and you're in good company using it. But he prefers the sharper, more refined flavor of **Dijon — particularly an "old-fashioned style" French one; look for *à l'ancienne* on the label.**
+
+**Yield:** makes about 1¼ cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- ½ cup prepared mustard of your choice *(ballpark yellow for tradition, Dijon *à l'ancienne* for the source's own preference)*
+- ½ cup honey
+- ¼ cup firmly packed light brown sugar
+- ¼ cup distilled white vinegar, or more to taste
+- Salt and freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Whisk together and simmer gently. About 5 minutes.**
+Combine the mustard, honey, brown sugar, and vinegar in a nonreactive saucepan and whisk to mix. Bring to a simmer over low heat and cook gently, uncovered, until richly flavored, whisking from time to time.
+
+**2. Season off the heat.**
+Remove from the heat and taste, adding salt, pepper, and more vinegar as necessary.
+
+**3. Serve warm or at room temperature.**
+
+> **Keeps several weeks** tightly covered in the refrigerator.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Prepared mustard — ½ cup *(yellow or Dijon à l'ancienne)*
+- 🛒 Honey — ½ cup
+- 🛒 Light brown sugar — ¼ cup
+- 🛒 Distilled white vinegar — ¼ cup
+- 🛒 Salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(~1¼ cups)* | ~810 | 4 g | 5 g | 200 g | 3 g |
+| **Per serving** *(2 Tbsp, of 10)* | ~80 | 0.4 g | 0.5 g | 20 g | <1 g |
+
+**What a serving is:** about 2 tablespoons, spooned over barbecue or served alongside. *Honey and brown sugar carry nearly all of this — it's a sweet sauce, sharper than it is rich.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -8685,6 +8749,8 @@ Refrigerate if not baking immediately.
 **Tags:** `sous-vide` · `steak` · `tenderizing` · `sear` · `cast-iron` · `formula`
 **Source:** Cody's own method, dictated directly — not from a photographed page.
 **Used in:** no numbered recipe cites it yet.
+
+> **📌 This is Cody's answer to "the perfect steak," full stop — not just a fix for cheap cuts.** Shown Steven Raichlen's *How to Grill the Perfect Steak* technique page (the grill-and-crosshatch method), his response was direct: ***"Actually I prefer sous vide — to me, the perfect steak is sous vide."*** That grilling technique was **not added to this cookbook**, on his call. Worth recording as a standing preference: when a recipe here says to grill or pan-sear a steak, sous-vide-then-sear is the house alternative, and this entry plus [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the methods to reach for.
 
 Cody's go-to for **tougher, less expensive steak cuts** — the ones that don't get tender enough on a quick sear alone. Long, low-temperature sous vide does the tenderizing that a premium cut like ribeye or filet doesn't need, then a short, screaming-hot cast iron sear builds the crust at the end. *Typical candidates: chuck steak, top round, sirloin, flank, skirt, flat iron — anything with more connective tissue and a lower price tag than the steakhouse cuts. Cody didn't name a specific cut, so treat this as a technique that applies broadly, not a recipe for one.*
 
@@ -11224,6 +11290,8 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 
 ### 6.4 Smoked Steak
 > *Placeholder — details forthcoming.* Separate from [§3 Darcy's Steak](#3-darcys-steak), which is its own method. [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) may apply here too. Ingredients · Instructions · Grocery list all to be documented.
+>
+> **Worth knowing when this gets written up:** Cody's stated ideal for steak is **sous vide, not grilled** — *"to me, the perfect steak is sous vide"* — documented at [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method). That doesn't rule out a smoked steak, but it does mean this entry should be his smoker method specifically, rather than a general "best way to cook a steak."
 
 **❤️ Family favorite** — *Cody: "Perfect."*
 
@@ -21131,6 +21199,77 @@ Put in a 1½-quart casserole and bake.
 #### D. Open Questions
 
 - **[FRIED GRITS], the next recipe on the same page, was cut off at the bottom of the photo** — not transcribed, since there's nothing legible to work from. Flagged here rather than guessed at; needs a follow-up photo.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 10.12 Grilled Grits
+
+Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) (p. 434), tagged **U.S.A.**, *Direct Grilling*. Grits cooked soft, chilled into a firm slab, cut into pieces, and grilled like polenta.
+
+> **Filed here with [§10.10 Cheese Grits](#1010-cheese-grits) and [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) so all three grits recipes sit together**, even though this one is a barbecue side rather than a breakfast dish. Findability wins over strict category here.
+
+> **Per the source:** *"Grilling polenta is a long-standing Italian tradition. This gave me the idea to grill the American equivalent, grits. Grilled grits go really well with southern or Texas-style barbecue."* — so this is built to go alongside [§6.6 Pulled Pork](#66-north-carolina-pulled-pork-karmel-version) or [§6.7 Brisket](#67-texas-style-smoked-brisket).
+
+**Yield:** serves 6 *(as printed)*
+
+**Advance preparation:** 4 hours to 2 days for chilling the grits. **This is not optional** — soft grits won't hold together on a grate.
+
+**🟡 Medium** *(the grilling itself is easy, but the slab has to be genuinely firm and the grate genuinely clean and oiled, or the pieces stick and tear when you turn them — a real, if recoverable, failure)* · **Prep ~15 min** · **Cook ~18 min** *(8 min cooking the grits, 8 min on the grill)* · **Slow cook 4 hr minimum** *(chilling the slab firm — up to 2 days)* · **Start to finish ~4½ hr minimum**
+
+#### A. Ingredients
+
+- 3 cups homemade chicken stock, canned low-sodium chicken broth, or water — *see [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
+- 1 clove garlic, minced
+- 1 tsp of your favorite hot sauce
+- 1 tsp salt, or more to taste
+- ½ tsp freshly ground black pepper, or more to taste
+- 3 cups quick-cook grits
+- 4 Tbsp (½ stick) unsalted butter, melted, or olive oil, divided
+
+#### B. Cooking Instructions
+
+**1. Cook the grits. 5 to 8 minutes.**
+Combine the chicken stock, garlic, hot sauce, salt, and pepper in a large, deep pot and bring to a boil over high heat. Stir in the grits and 2 Tbsp of the melted butter and let return to a boil. Reduce to a gentle simmer and cook uncovered until thick, stirring often — or for the time given on the package. **The heat should be high enough that bubbles break the surface but low enough that the grits don't spatter.** Taste and adjust the salt and pepper.
+
+**2. Spread into a ½-inch slab and chill. At least 4 hours, up to 2 days.**
+Pour the cooked grits onto a nonstick baking sheet or pie pan and even out the top with a spatula, about ½ inch thick. Cool to room temperature, then cover loosely with plastic wrap and refrigerate until firm.
+
+**3. Cut into rectangles or wedges.**
+Use a spatula to move them from the sheet to a large plate.
+
+**4. Set up the grill for direct grilling and preheat to high.**
+
+**5. Grill. 3 to 4 minutes per side.**
+Brush and oil the grate well. Brush both sides of the grits with some of the remaining melted butter. Grill, turning with a spatula, until sizzling hot and nicely browned on both sides, brushing with any remaining butter as they go. Serve at once.
+
+> **Grilled Grits Plus — the source's own variations.** Add any of these in Step 1, when you stir in the grits:
+>
+> - **Cheese grits** — ½ cup finely grated sharp Cheddar, Gouda, or Manchego
+> - **Corn grits** — 1 cup grilled corn kernels *(see [§5.14 Grilled Corn](#514-grilled-corn))*
+> - **Jalapeño grits** — 2 to 6 chopped pickled jalapeños and ½ cup grated Jack or Cheddar
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Quick-cook grits — 3 cups
+- 🛒 Chicken stock or low-sodium broth — 3 cups *(or water)*
+- 🛒 Garlic — 1 clove
+- 🛒 Hot sauce — 1 tsp
+- 🛒 Unsalted butter — 4 Tbsp, or olive oil
+- 🛒 Salt, black pepper
+- 🛒 *For the variations:* sharp Cheddar, Gouda, or Manchego · fresh corn · pickled jalapeños · Jack cheese
+
+#### Nutrition *(estimated, base recipe without variations)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~2,140 | 55 g | 44 g | 355 g | 18 g |
+| **Per serving** *(serves 6, as printed)* | ~355 | 9 g | 7 g | 59 g | 3 g |
+
+**What a serving is:** two or three grilled pieces cut from the slab. *The variations add on top of this — the cheese versions roughly 35 calories per serving, the corn about 25.*
 
 [↑ Table of Contents](#table-of-contents)
 

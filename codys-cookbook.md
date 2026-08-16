@@ -114,6 +114,7 @@ Click any recipe to jump straight to it.
   - [4.93 North Carolina Vinegar Sauce (Sauces Chapter — No Tomato)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) ✅ *(the third NC vinegar sauce — see the three-way table)*
   - [4.94 Red Chimichurri](#494-red-chimichurri) ✅
   - [4.95 "Dry" Chimichurri](#495-dry-chimichurri) ✅
+  - [4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) ✅ *(the big-batch cider mop — see the three-mop table)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -397,6 +398,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Added **[§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce)** (p. 509) — a big-batch cider-vinegar mop, over a quart of it, for basting through a long smoke. **The genuinely useful thing this entry brings is the source's definition of what a mop even is**, which nothing else in this cookbook states: a mop is a *cooking* liquid, not a condiment — *"thinner and much more potent than barbecue sauces… you wouldn't want to eat most mop sauces off a spoon."* Now recorded up front, so none of the three mops here gets tasted and judged as if it were a sauce. (Also kept the literal origin of the name: a clean cotton **floor mop** was the traditional basting tool.) **Kept separate from [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) and [§6.2 Pulled Pork](#62-pulled-pork)'s own built-in mop**, with a three-way table showing why: §4.34 is **distilled white** vinegar at 2 cups, §6.2's is cider with brown sugar at ~1½ cups, and §4.96 is **cider at a full quart plus 2 cups water**, no sugar, yielding ~6 cups. The practical split is scale and vinegar type — §4.96 is what you make when you're mopping a whole shoulder or several racks for hours and don't want to run out. |
 | 2026-08-13 | **An open question closed, and two more chimichurris.** **[§4.93 North Carolina Vinegar Sauce (Sauces Chapter — No Tomato)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato)** turns out to be the exact recipe flagged as unresolved at [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) — its "Barbecue Sauce, the Texas Way" sidebar cited a vinegar sauce at **page 466**, and the open question was whether that was the same recipe as [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) reprinted or a third version. **It's a third version.** §4.93 has **no tomato at all**, is barely sweetened, carries **fresh sliced onion and jalapeño**, and — the one hard practical difference — **does not keep past the day it's made**, exactly because of those fresh aromatics. §6.7's Open Question is closed and its sauce formula now points at §4.93 specifically. The entry carries a three-way comparison table so the vinegar sauces stay straight. Also added **[§4.94 Red Chimichurri](#494-red-chimichurri)** and **[§4.95 "Dry" Chimichurri](#495-dry-chimichurri)** (both p. 478, Argentina) — which, with the existing [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), gives this cookbook three sauces sharing a name and almost nothing else: §4.44 raw and green, **§4.94 cooked, tomato-based, and carrying tuna and anchovy** (the source's own note connects it to A.1., Worcestershire, and Italian tonnato — which lands on [§4.59 Tonnato Sauce](#459-tonnato-sauce), already here), and §4.95 with nothing fresh in it at all. §4.94 is the only 🟡 Medium of the three — three stages and a thick tomato sauce that scorches if you stop stirring; §4.95 is noted as the weeknight option, since everything but the oil and vinegar is already in the spice cabinet. |
 | 2026-08-13 | **Two more from the same Raichlen book, plus a standing preference recorded — and one technique deliberately left out.** Added **[§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce)** (p. 464), kept separate from the existing [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) — both are the same author's mustard sauces, but §4.35 is a savory cooked sauce with mustard seeds, butter, bacon, and onion in it, while §4.92 is a bare four-ingredient simmer (mustard, honey, brown sugar, white vinegar). **This also completes the Carolina sauce map** the source lays out: vinegar in eastern NC, tomato in western NC, mustard in southern NC and parts of SC and Florida — all three regions now represented here. Added **[§10.12 Grilled Grits](#1012-grilled-grits)** (p. 434) — grits cooked soft, chilled into a firm ½-inch slab for 4 hours to 2 days, cut, and grilled like polenta. **Filed in §10 with the other two grits recipes rather than with the barbecue sides**, so all three are findable together; rated 🟡 Medium because the slab genuinely has to be firm and the grate genuinely oiled or the pieces tear when turned. Its three printed variations (cheese, corn, jalapeño) are kept. **[§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) now carries a standing preference from Cody**: shown the source's *How to Grill the Perfect Steak* page, his answer was *"Actually I prefer sous vide — to me, the perfect steak is sous vide."* **That grilling technique was not added, on his call** — recorded on §T27 as the house alternative whenever a recipe calls for grilling or pan-searing a steak, and noted on the open [§6.4 Smoked Steak](#64-smoked-steak) placeholder so that entry gets written up as his smoker method specifically rather than as a general best-way-to-cook-a-steak. |
 | 2026-08-13 | **§6 Smoked Meats gets its second and third real recipes** — both from the same Raichlen book as [§5.33](#533-quick-and-smoky-baked-beans), both kept separate from what was already there rather than merged. **[§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version)** (p. 175–176, credited to Elizabeth Karmel of Greensboro) is **not** a duplicate of [§6.2 Pulled Pork](#62-pulled-pork), and the entry carries a comparison table saying exactly how: §6.2 mops hourly with a vinegar/onion/jalapeño mop and §6.6 uses **no mop at all**; §6.6's rub is its own 9-spice blend and is **optional**, with a salt-and-pepper-only path that starts cooking immediately; and §6.6 pins the charcoal fire at **300°F** where §6.2 just says medium-low. Same 195°F target and 4–6 hours in both. **[§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** carries two hard warnings from the source, both worth having: buy the brisket **untrimmed with a ¼–½ inch fat cap** or it comes out too dry, and use **charcoal or a smoker, not gas** — a stricter line than the same book draws for its pulled pork. **Cody's read on the brisket is recorded as a split, not a blanket endorsement:** he signs off on the seasoning and the 4–8 hour dry brine — *"it's all real good"* — but says he has his own smoking technique coming later, so the entry marks Steps 1–2 as endorsed and Steps 3–5 as the book's method. **[§6.1 Smoked Brisket](#61-smoked-brisket) stays open** for his version, and its placeholder now says the rub and cure are already unblocked by §6.7 while only the fire is still missing. **Three loose ends flagged in §6.7's Open Questions:** no serving count is printed; the Basic Barbecue Sauce (source p. 463) that forms half the "Texas Way" sauce formula isn't in this cookbook; and the sidebar cites a North Carolina Vinegar Sauce at p. 466, a different page from the one transcribed at [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) — possibly the same recipe reprinted, possibly a third version, not assumed either way. |
@@ -600,6 +602,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
+| [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.65 Sauce Mornay](#465-sauce-mornay-cheese-sauce) | 🟢 | 5 min | 5 min | — | 10 min *(+ §4.63)* |
 | [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) | 🟢 | 5 min | 5 min | — | 10 min *(+ §4.63)* |
@@ -6997,6 +7000,74 @@ Add more salt and/or black pepper as necessary.
 | **Per serving** *(1 Tbsp, of 12)* | ~123 | 13.7 g | <1 g | 0.5 g | <1 g |
 
 **What a serving is:** about a tablespoon, spooned over grilled beef. *Essentially all olive oil — a little goes a long way, and [§T30 How to Use Fat](#t30-how-to-use-fat)'s point about oil carrying flavor is the whole mechanism here.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.96 Vinegar-Based Mop Sauce
+
+Transcribed from the same **Steven Raichlen** book as [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) (p. 509), from its *Rub It In* chapter, tagged **U.S.A.** A big-batch cider-vinegar mop — over a quart of it — built for basting a pork shoulder or ribs through a long smoke.
+
+> **📌 What a mop sauce actually is, per the source — worth knowing before you use any of the three in this cookbook.** *"Mop sauces differ from barbecue sauces in that they're designed to be used for cooking, not serving (they tend to be thinner and much more potent than barbecue sauces). Unlike barbecue sauces, you wouldn't want to eat most mop sauces off a spoon."* So a mop is a **basting liquid**, not a condiment — thin so it doesn't burn on, and aggressive because it's being applied in thin coats over hours, not spooned onto a plate. Don't taste one and judge it as a sauce.
+>
+> **And the name is literal:** *"The traditional instrument used for basting is a cotton floor mop (a clean, brand-new one, of course) — hence the name mop sauce. Grill shops sell miniature barbecue mops for using on your grill or smoker at home."*
+
+> ⚠️ **This cookbook now has three mops. They're close cousins, and the differences are real:**
+>
+> | | [§4.34](#434-basic-barbecue-mop-sauce) *(How to Grill)* | [§6.2](#62-pulled-pork)'s built-in mop | §4.96 *(this one)* |
+> |---|---|---|---|
+> | **Vinegar** | **distilled white**, 2 cups | cider, 1 cup | **cider, 1 quart** |
+> | **Water** | none | ½ cup | 2 cups |
+> | **Yield** | ~2 cups | ~1½ cups | **~6 cups** |
+> | **Sugar** | none | 1 Tbsp brown | **none** |
+> | **Jalapeños** | 1 | 1–2 | **3** |
+>
+> **Pick by the job:** §4.96 is the one to make when you're mopping something big for hours — a whole pork shoulder or several racks — and don't want to run out. §4.34 is a smaller white-vinegar mop for a couple of chickens. §6.2's is sweetened and purpose-built for that recipe.
+
+**Yield:** makes more than 1 quart *(about 6 cups with the water)*
+
+**🟢 Easy** · **Prep ~10 min** *(slicing the onion and jalapeños)* · **Cook none** · **Start to finish ~10 min**
+
+**Used with:** [§6.2 Pulled Pork](#62-pulled-pork) *(which mops hourly)* · [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) · [§6.5 Smoked Ribs](#65-smoked-ribs) when that gets written up · anything on a long indirect cook
+
+#### A. Ingredients
+
+- 1 quart cider vinegar
+- 1 medium onion, thinly sliced
+- 3 jalapeño peppers, thinly sliced
+- 4 tsp coarse salt (kosher or sea)
+- 2 tsp hot red pepper flakes
+- 2 tsp freshly ground black pepper
+- 2 cups water
+
+#### B. Cooking Instructions
+
+**1. Combine everything and stir until the salt dissolves.**
+Put the cider vinegar, onion, jalapeños, salt, hot pepper flakes, black pepper, and 2 cups of water in a **large plastic container** — the source specifies plastic, and it's the right call for something this acidic that's going to sit for days.
+
+> **Keeps at least 3 days**, covered, in the refrigerator. *(Longer than [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato), which carries similar fresh aromatics but is meant to be eaten rather than cooked with — the mop's much higher acid-to-solids ratio is doing the preserving.)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cider vinegar — 1 quart
+- 🛒 Onion — 1 medium
+- 🛒 Jalapeño peppers — 3
+- 🛒 Coarse salt (kosher or sea) — 4 tsp
+- 🛒 Hot red pepper flakes — 2 tsp
+- 🛒 Black pepper — 2 tsp
+- 🛒 *Worth having:* a barbecue mop or a dedicated basting brush
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(~6 cups)* | ~180 | 1 g | 3 g | 40 g | 5 g |
+| **Per serving** *(2 Tbsp, of 48)* | ~4 | 0 g | 0 g | <1 g | <1 g |
+
+**What a serving is:** not really a serving — this is a basting liquid, and most of what you brush on drips off into the fire or the drip pan rather than landing on the plate. *Figures above are for the batch as mixed; treat the amount actually eaten as a small fraction of it.*
 
 [↑ Table of Contents](#table-of-contents)
 

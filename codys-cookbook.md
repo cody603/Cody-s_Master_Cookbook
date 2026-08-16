@@ -385,6 +385,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Added [§T29 How to Salt](#t29-how-to-salt) — a full technique entry on salting, credited to Samin Nosrat, per Cody.** Covers why salt works (it's not "add saltiness," it's what makes other flavors read as themselves), how to choose between kosher, fine sea, and flaky finishing salts, the timing ladder from days-ahead dry brines down to right-before-serving flaky finishes, why salting cooking water seasons food from the inside rather than "wasting" salt, the three hand motions for actually applying it (pinch, palmful, wrist wag), rough salt-by-weight percentages as a starting point rather than a rule, how to layer salt from ingredients (anchovies, cheese, fish sauce) rather than the box alone, salt's relationship to pepper and to dessert, the three moves for a dish that's gone too salty, and the closing habit — stir, taste, adjust, always. **Cross-linked into the existing cookbook rather than left standalone**: [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28 Sous Vide](#t28-sous-vide-chicken-codys-method), and [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure are all named as the timing ladder's "days ahead" and "a day ahead" cases already living in this cookbook; [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) is named as the unsalted base for the Caesar-dressing layering example. **[§T16's own source note is updated to point at this entry** — both are credited to Nosrat now, which corroborates the earlier inferred attribution without formally confirming it against a title page. Added to the Techniques quick index as T29, the next open number after T28. |
 | 2026-08-13 | Added **[§7.67 Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad)** — from **Steven Raichlen's *How to Grill*** (p. 276–279), following its own "How to Grill Quail" technique spread, the same treatment already given [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) and its ribs spread from the same book. A spice-rubbed, buttermilk-marinated quail skewered flat on three bamboo skewers, grilled hot and fast, served over mesclun, Roquefort, and grilled pears with a hazelnut oil dressing. Rated 🟡 Medium — quail is small, lean, and quick to overcook, and getting three skewers through a boned bird flat and even takes some care. Kept the source's own substitution notes (goat cheese or Cheddar for the Roquefort; dried cranberries or cherries for the currants) and its "also good for" line naming other proteins the rub and marinade suit. |
 | 2026-08-13 | **[§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) updated, not duplicated — Cody sent the same source pages again, but this recipe was already fully transcribed.** Added his own cut preference instead: **St. Louis-cut or spare ribs in place of baby backs.** The marinade, trim, and grill setup all carry over unchanged; cook time doesn't — St. Louis and spare racks are bigger and have more connective tissue to render, so **Claude's own estimate** (not the source's) is roughly 1¾–2½ hr for St. Louis cut or 2–3 hr for full spares at the same medium heat, against the source's 1¼–1½ hr for baby backs. Flagged clearly as an estimate rather than folded into the source's own timing, and the badge, grocery list, and ingredients all note the substitution. |
 | 2026-08-13 | **The rest of the biscuit page added, per Cody's follow-up ask.** **[§15.4 Angel Biscuits](#154-angel-biscuits)** (Mrs. Richard P. Sevier) and **[§15.5 Fancy Biscuits](#155-fancy-biscuits)** (Mrs. Philip R. Allin) are both yeast-leavened refrigerator/freezer doughs — mixed once and baked in batches as needed, never left to rise loose on the counter. **[§15.6 Pastry Biscuits](#156-pastry-biscuits)** (Deborah Crawford) has no leavening at all, closer to a shortbread, and doubles as a strawberry shortcake base per the source's own note. **[§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation)** (Mrs. Jack McCord) is filed incomplete, same treatment as [§14.3 Classic Tuiles](#143-classic-tuiles) — the photo starts mid-instruction, so the title and nearly the whole ingredient list are missing; only the tail end of the method and two variations (cheese, bacon) survive. None of the four give a biscuit count, so all three complete entries carry a flagged, estimated one (24 biscuits each). |
@@ -6599,6 +6600,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | Pâte Brisée & Pastry Shells (Pie Dough, Shaping, and Baking) | `pastry` `pie-dough` `fraisage` `blind-baking` `french` `formula` |
 | [T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method) | `sous-vide` `steak` `tenderizing` `sear` `cast-iron` `formula` |
 | [T28](#t28-sous-vide-chicken-codys-method) | Sous Vide Chicken (Cody's Method) | `sous-vide` `chicken` `poultry` `sear` `cast-iron` `formula` |
+| [T29](#t29-how-to-salt) | How to Salt | `salt` `seasoning` `timing` `tasting` `brine` `salting-water` `layering` |
 
 ---
 
@@ -7634,7 +7636,7 @@ Cook the cabbage for 1 to 1½ hours, using the indirect method. Add soaked wood 
 
 <!-- TECHNIQUE-TAGS: mayonnaise, emulsion, egg-yolk, formula, ratio -->
 **Tags:** `mayonnaise` · `emulsion` · `egg-yolk` · `formula` · `ratio`
-**Source:** presumably **Samin Nosrat's *Salt, Fat, Acid, Heat*** (illustrated by Wendy MacNaughton) — inferred from the hand-lettered illustration style and the name Cody gave it, not yet confirmed against an actual title page or ISBN
+**Source:** presumably **Samin Nosrat's *Salt, Fat, Acid, Heat*** (illustrated by Wendy MacNaughton) — inferred from the hand-lettered illustration style and the name Cody gave it, not yet confirmed against an actual title page or ISBN. **[§T29 How to Salt](#t29-how-to-salt)**, added later and also credited to Nosrat, corroborates this without confirming it outright — still worth an actual title page someday.
 **Used in:** [§4.59 Tonnato Sauce](#459-tonnato-sauce) is built on this same yolk-and-oil emulsion, then run through a tuna-anchovy purée. [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) and several other sauces in this cookbook start from store-bought mayonnaise and could be built on this instead.
 
 > **A ratio-based formula, not a fixed-batch recipe** — subtitled *"A Lesson in Fats & Emulsion"* on the source page. Scale the Golden Mayo Ratio up or down by the yolk.
@@ -8755,6 +8757,137 @@ Genuinely screaming hot, not medium-high. The chicken is already fully cooked, s
 #### Nutrition
 
 Not tracked here — like [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method), this is a cut- and weight-agnostic technique (Cody didn't specify a cut or a portion size), and chicken varies widely between a skinless breast and a bone-in thigh. Any numbered recipe built on this technique carries its own Nutrition block.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T29. How to Salt
+
+<!-- TECHNIQUE-TAGS: salt, seasoning, timing, tasting, brine, salting-water, layering -->
+**Tags:** `salt` · `seasoning` · `timing` · `tasting` · `brine` · `salting-water` · `layering`
+**Source:** Samin Nosrat, per Cody — almost certainly her *Salt, Fat, Acid, Heat*, going by the framing and content, though this entry is Cody's own distillation rather than a photographed page, so it's transcribed as a paraphrase and taught here in his words rather than quoted as the book's exact text. **The same book is the presumed source behind [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** — that one was inferred from illustration style and never confirmed against a title page either; the two entries now corroborate each other without either being a hard confirmation.
+**Used in:** every recipe in this cookbook touches salt somewhere, but especially the ones already built around *when* to salt — [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s dry brine, [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method)'s sous vide salting, [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure, and the salted-boiling-water steps in [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and [§T20 Fresh Pasta](#t20-fresh-pasta-and-how-to-cut-it).
+
+#### The big idea
+
+Salt isn't a flavor you add on top — it's the thing that makes everything else taste like itself. Used well, it pulls sweetness forward, tamps down bitterness, and makes aromas land harder. Used badly (which almost always means *too little*, added *too late*), food tastes flat and you can't quite say why. The goal isn't more salt, it's salt in the right amount, at the right moment, in the right form.
+
+The tell that you've gotten it right isn't saltiness. It's a kind of brightening — the dish suddenly seems more vivid, more like a finished thing. If you taste something and think "salty," you've overshot. If you taste something and think "good, but…", it's almost certainly undersalted.
+
+**The diagnostic trick:** when a dish tastes dull, don't dump salt into the whole pot. Pull out a spoonful, salt just that, taste it against the unsalted version. If the small sample snaps into focus, you have your answer and can season the batch with confidence.
+
+#### Choosing your salt
+
+Different salts are wildly different in strength *by volume*, because the crystals are different shapes and pack differently. A tablespoon of fine, dense salt can be two or three times as salty as a tablespoon of big flaky salt. This is why swapping brands one-for-one wrecks a recipe.
+
+- **Kosher salt** is the everyday workhorse — cheap, clean-tasting, forgiving. The two common brands are not interchangeable: one is light and hollow-flaked, the other is dense and roughly twice as salty by volume. Coarse, light flakes dissolve faster, cling to food better, and give you a wider margin before you overshoot.
+- **Fine sea salt** is the practical choice for seasoning from within — salting water, doughs, batters, brines.
+- **Flaky finishing salts** (Maldon, fleur de sel, sel gris) are texture purchases. Their whole point is the crunch and the way they hit the tongue. Wasting them in pasta water is like using good olive oil to grease a pan.
+- **Iodized table salt** is worth abandoning. It carries a faint metallic edge, and the anticaking additives do nothing for you.
+
+The practical move: keep two salts. A cheap one you cook with constantly, and a nice flaky one you scatter at the last second.
+
+Then *learn* the one you cook with. How coarse is it? How fast does it melt in boiling water? How much of it does a chicken need? Familiarity is worth more than owning six varieties.
+
+#### Timing: the single biggest lever
+
+Salt is slow. It takes time to move from the surface into the middle of a piece of food. So **when** you salt matters more than **how much** — a modest amount applied early beats a heavy hand applied at the table.
+
+Roughly, working outward from the plate:
+
+- **Days ahead** — big, dense, sinewy cuts: whole turkeys, roasts, short ribs, shanks, oxtails. The bigger and colder it is, the more lead time it needs. *(This is the same reasoning behind [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s 5–7 day dry-brine cure.)*
+- **A day ahead** — a whole chicken, thick steaks, duck, quail. Also: a pot of dried beans, salted the moment you set them to soak.
+- **Hours ahead, or whenever you remember** — anything you meant to salt earlier. Some head start always beats none. If you're short on time, leave the meat on the counter rather than returning it to the fridge; warmth speeds things along, and so does breaking the food into smaller pieces.
+- **15–20 minutes ahead** — watery vegetables headed for the grill or oven (eggplant, zucchini, tomatoes, cabbage for slaw), thick tuna or swordfish steaks. Pat them dry before cooking, since salt will have pulled moisture to the surface.
+- **Just before cooking** — delicate fish and shellfish, vegetables going in to roast, scrambled eggs, and the water in your pot.
+- **While cooking** — mushrooms (wait until they've started browning, or they'll weep), sautéed vegetables, simmering sauces.
+- **Right before serving** — salad, and anything getting a flaky-salt finish.
+
+Two caveats. Fish and shellfish are the exception to "earlier is better" — more than about fifteen minutes and delicate fish turns tough and dry; meatier steaks of tuna or swordfish can take maybe thirty. And meat can be salted *too* early: past a day or two it starts drifting toward cured rather than fresh. If your plans change, freeze it salted and pick up where you left off.
+
+A useful framing for meat: instead of asking "how much salt?", ask "how much time until I eat?" A day gets you a bird you can season whole and let sit — see [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) and [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s own dry-brine option for exactly this trade-off, spelled out for a specific cut. Eight hours gets you a spatchcocked bird seasoned on both sides. Twenty minutes means break it down small and use a wet cooking method — a broth, a braise, a splash of wine — so the liquid can carry seasoning inward for you.
+
+#### Salting water is seasoning, not waste
+
+Cooking in properly salted water seasons food from the inside out. Roast a potato with salt on the outside and you taste salt on the outside; simmer one in seasoned water and the seasoning is all the way through. Vegetables boiled in well-salted water also stay greener, cook faster, and hold on to more of their own flavor instead of leaching it into the pot.
+
+Season the water generously and taste it before anything goes in. It should be assertively seasoned — noticeably salty, though not seawater-salty. It doesn't matter whether you salt before or after the pot goes on the heat, only that the salt fully dissolves before the food arrives. Watch a pot that's been boiling a long time, though: as water evaporates the seasoning concentrates, so taste and correct with more water or more salt.
+
+Two adjustments: grains like rice, farro, and quinoa cook long enough for salt to distribute well, so they need less aggressive salting than blanching water. And whenever *all* the cooking liquid gets absorbed, be careful — all the salt stays in the food, so underseason rather than over.
+
+For braises, stews, and poached meats, salt the meat properly in advance but season the liquid conservatively, since you'll be eating that liquid. Taste and adjust both at the end.
+
+#### How to actually put salt on food
+
+Get rid of the shaker. Pour salt into an open bowl wide enough to fit your whole hand — you can't season well through a hole the size of a pinhead. Professional kitchens improvise salt bowls out of whatever's around because working from a bowl is that much better.
+
+Three hand motions, each for a different job:
+
+- **The pinch** — precision work. A few grains on avocado toast, halved boiled eggs, individual caramels. Perfect for making sure one bite is exactly right; useless for a whole tray of squash, where your wrist will quit before you finish.
+- **The palmful** — bulk seasoning. Grab a handful and let it go.
+- **The wrist wag** — the technique worth practicing. Hold a palmful loosely and let it shower down as you sweep your wrist across the surface. This is how you get even coverage over a tray of vegetables, a big cut of meat, a sheet of dough.
+
+Dry your hands first or the salt sticks to your skin. Then practice over parchment or a sheet pan and *look* at where it lands. Uneven scatter means unevenly seasoned food. Loose, flowing motions distribute evenly; stiff or jerky ones don't. Pour it back and try again — it costs nothing.
+
+Build visual landmarks while you're at it. A properly seasoned chicken going onto the spit should look like a light snow has fallen on it. Notice what your seasoning looks like, then notice how the food tastes at the table, and connect the two. That feedback loop is how you stop measuring.
+
+#### Measuring by tongue, not spoon
+
+Your palate is the real instrument. Kitchens are never identical twice — different pot, different volume of water, different size chicken — so a fixed number can only ever be a starting point.
+
+If you want numbers to start from, the general ratios are roughly 1% salt by weight for meats, vegetables and grains, and about 2% salinity for blanching and pasta water. Doughs and batters run a bit higher, meat on the bone a bit higher than boneless.
+
+If those amounts alarm you, run the experiment: set up two pots of water, season one the way you always have and one to about 2% salinity. Cook half your green beans (or pasta) in each and taste them side by side. The comparison is more persuasive than any argument.
+
+#### Layering: salt comes from more places than the box
+
+Plenty of ingredients are already salt delivery vehicles — anchovies, capers, olives, cured meats, cheese, soy sauce, fish sauce, miso, pickles and krauts, seaweed, most condiments, salted butter. Working several of these into one dish is how you build depth rather than just salinity.
+
+The discipline is to plan for them *before* you start. If you salt as you go without accounting for the anchovies and Parmesan arriving later, you'll blow past the target.
+
+Caesar dressing is the standard exercise. Anchovies, Parmesan, Worcestershire, garlic pounded with salt, plus salt itself — five sources. Build an unsalted mayonnaise base first, then work each salty ingredient in gradually, tasting between additions. Add acid to balance as you go. Hold the salt crystals back until every other flavor is where you want it, then adjust with actual salt only for the gap that's left. And because dressing tastes different on a leaf than off a spoon, dip a piece of lettuce in for the final check. *(The unsalted mayonnaise base itself is [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s Golden Mayo Ratio.)*
+
+The general habit: when a dish needs more salt, pause and ask *where that salt should come from*. More anchovy? More cheese? A splash of fish sauce? Sometimes plain salt is right. Often something else is better, because it brings flavor along with the salinity.
+
+#### Salt with pepper, and salt with sugar
+
+Pepper isn't salt's automatic partner. Salt belongs nearly everywhere; pepper is a spice, and whether it belongs depends on the dish and the tradition it comes from. Plenty of cuisines reach for cumin, chili, or za'atar where others reach for black pepper. Decide deliberately rather than by reflex.
+
+When you do use pepper, buy whole peppercorns and grind at the last moment — the aromatic oils are released by grinding and again by heat, and preground spice has been quietly leaking flavor for months. Whole peppercorns dropped into a brine, braise, or pot of beans at the start do something a sprinkle at the end never can.
+
+And don't drop your salt instincts when you make dessert. The base ingredients of sweets — flour, butter, eggs, cream — are among the blandest things in the kitchen, and you'd never leave them unseasoned in a savory dish. A pinch or two whisked into a dough, batter, or custard lifts everything. To convince yourself, split a batch of cookie dough and leave salt out of half; the salted batch will taste noticeably nuttier and more buttery.
+
+Match the salt to how it'll be eaten: fine salt where you want it to disappear into the dough, flaky salt on top where you want the crunch.
+
+#### When you oversalt
+
+You have three moves, in ascending order of surrender.
+
+**Dilute** — add more of the unsalted components, or more liquid, and stretch the salt across a bigger volume.
+
+**Transform** — stop trying to save the dish and make it a different dish, where the oversalted thing is one component among many. Shred that too-salty meat into a stew, a chili, a hash, a ravioli filling. Overshot on flaky white fish? Lean in and take it toward salt cod.
+
+**Admit defeat** — occasionally the right call is to start over or order a pizza. It's dinner. There's another one tomorrow.
+
+More usefully: treat both under- and overseasoning as data. The reason mistakes happen is almost always that you weren't tasting along the way.
+
+#### The habit that ties it together
+
+**Stir, taste, adjust.** Taste everything, at every stage — the onions, the raw components, the mixture before it goes in the oven, the water before the pasta. Not once at the end. Make salt the first thing you check when you taste and the last thing you correct before serving.
+
+This is the actual skill. Recipes and ratios are training wheels; constant tasting is what replaces them. Once tasting is reflexive, you stop needing to be told when to salt, because you can feel when a dish is nearly there and what it's missing — and at that point you can start cooking without a recipe at all.
+
+#### Grocery Shopping List
+
+The two-salt standing shelf this entire entry assumes.
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — the everyday cooking salt; know your brand's density before you measure by volume
+- 🛒 Flaky finishing salt (Maldon, fleur de sel, or sel gris) — for scattering just before serving, not for cooking
+- 🛒 Fine sea salt — for salting water, doughs, batters, and brines
+- 🛒 Whole black peppercorns, for a pepper mill — skip pre-ground
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -115,6 +115,7 @@ Click any recipe to jump straight to it.
   - [4.94 Red Chimichurri](#494-red-chimichurri) ✅
   - [4.95 "Dry" Chimichurri](#495-dry-chimichurri) ✅
   - [4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) ✅ *(the big-batch cider mop — see the three-mop table)*
+  - [4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade) ✅ *(feeds [§7.75](#775-lettuce-bundles-with-grilled-beef))*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -197,6 +198,7 @@ Click any recipe to jump straight to it.
 - [6.5 Smoked Ribs](#65-smoked-ribs) ○
 - [6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) ✅ *(distinct from [§6.2](#62-pulled-pork) — see the comparison table)*
 - [6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) ✅ *(rub & dry brine endorsed by Cody; his own smoking method still to come at [§6.1](#61-smoked-brisket))*
+- [6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) ✅ *(dry rub, indirect smoke; cross-links §4.36, §4.26, §7.50)*
 
 **[7. Mains & Proteins](#7-mains--proteins)**
 
@@ -267,6 +269,15 @@ Click any recipe to jump straight to it.
 - [7.65 Crawfish Pie I](#765-crawfish-pie-i) ✅
 - [7.66 Crawfish Pie II](#766-crawfish-pie-ii) ✅
 - [7.67 Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) ✅
+- [7.68 Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) ✅ *(carries the "On Trimming Fat from Meat" callout for the whole kebab batch)*
+- [7.69 Bengali Shish Kebabs](#769-bengali-shish-kebabs) ✅
+- [7.70 Russian Shashlik](#770-russian-shashlik) ✅
+- [7.71 Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) ✅
+- [7.72 Quick Persian Beef Kebabs](#772-quick-persian-beef-kebabs) ✅
+- [7.73 Bani Marine Street Beef Kebabs](#773-bani-marine-street-beef-kebabs) ✅
+- [7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) ✅
+- [7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) ✅ *(uses [§4.97](#497-aromatic-lemongrass-marinade))*
+- [7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) ✅ *(⚠️ 160°F food-safety note)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -398,6 +409,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-16 | **Eleven new entries from two photo batches, both added in one pass: eight beef kebabs plus a marinade from an unnamed second Raichlen book's *What's Your Beef?* chapter, and two "How to Grill" technique-and-recipe pairs.** **[§7.68](#768-peruvian-beef-kebabs-anticuchos) through [§7.75](#775-lettuce-bundles-with-grilled-beef)** run Peru, Bangladesh, Russia, Nigeria, Iran, Morocco, Portugal, and Vietnam — Anticuchos, Bengali Shish Kebabs, Russian Shashlik, Fiery Stick Meat (Suyas), Quick Persian Beef Kebabs, Bani Marine Street Beef Kebabs, Madeira Beef and Bay Leaf Kebabs (Espetadas), and Lettuce Bundles with Grilled Beef, plus **[§4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade)** that the last one calls for by name. **Lemongrass Beef with Peanuts, photographed in the same batch, was deliberately left out per Cody's own instruction** ("no need for the lemongrass beef with peanuts"). The book itself is still unconfirmed by title — same **Steven Raichlen**, same *What's Your Beef?* chapter as [§6.6](#66-north-carolina-pulled-pork-karmel-version)/[§6.7](#67-texas-style-smoked-brisket), cited by page number rather than asserted, per this cookbook's standing practice. **The "On Trimming Fat from Meat" sidebar is folded into [§7.68](#768-peruvian-beef-kebabs-anticuchos) once and cross-linked from the other seven** rather than repeated eight times. From **Steven Raichlen's *How to Grill*** (confirmed book), added **[§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs)** (p. 94–97) and **[§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)** (p. 98–101), each following its own technique-spread-plus-recipe pattern already used for [§7.50](#750-asian-flavor-baby-back-ribs)/[§6.2](#62-pulled-pork). **Three cross-links confirmed by matching page number rather than left as gaps:** §6.8's optional serving sauce is [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) (p. 448), its rub substitute is [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) (p. 441), and its Variations sidebar's "Asian-style ribs" is [§7.50](#750-asian-flavor-baby-back-ribs) (p. 143); §6.8 also cross-references the still-open [§6.5 Smoked Ribs](#65-smoked-ribs) placeholder as the source's own pork-rib suggestion. **§7.76 carries an explicit ⚠️ food-safety callout** on the source's own 160°F ground-beef requirement — grinding redistributes surface bacteria through the meat, so the doneness cue here is a thermometer reading, not a visual one. **Six referenced items flagged in Open Questions rather than invented:** Tandoori-Baked Flat Breads (p. 131) and Bengali Mango-Tamarind Barbecue Sauce (p. 470) for §7.69; Moroccan Shallot Relish (p. 445) and A Simple Harissa (p. 481) for §7.73; Thai Peanut Sauce (p. 476) for §7.75; Garlic-Herb Butter (p. 450) and sweet onion prep (p. 380) for §7.76; and Kansas City Sweet-and-Smoky Ribs (p. 139) for §6.8. All eleven are rated 🟢 Easy — every doneness cue across the batch is visual, tactile, or a thermometer reading, nothing that fails the way a roux does. Table of Contents and Difficulty & Time Index updated for all eleven. |
 | 2026-08-13 | Added **[§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce)** (p. 509) — a big-batch cider-vinegar mop, over a quart of it, for basting through a long smoke. **The genuinely useful thing this entry brings is the source's definition of what a mop even is**, which nothing else in this cookbook states: a mop is a *cooking* liquid, not a condiment — *"thinner and much more potent than barbecue sauces… you wouldn't want to eat most mop sauces off a spoon."* Now recorded up front, so none of the three mops here gets tasted and judged as if it were a sauce. (Also kept the literal origin of the name: a clean cotton **floor mop** was the traditional basting tool.) **Kept separate from [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) and [§6.2 Pulled Pork](#62-pulled-pork)'s own built-in mop**, with a three-way table showing why: §4.34 is **distilled white** vinegar at 2 cups, §6.2's is cider with brown sugar at ~1½ cups, and §4.96 is **cider at a full quart plus 2 cups water**, no sugar, yielding ~6 cups. The practical split is scale and vinegar type — §4.96 is what you make when you're mopping a whole shoulder or several racks for hours and don't want to run out. |
 | 2026-08-13 | **An open question closed, and two more chimichurris.** **[§4.93 North Carolina Vinegar Sauce (Sauces Chapter — No Tomato)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato)** turns out to be the exact recipe flagged as unresolved at [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) — its "Barbecue Sauce, the Texas Way" sidebar cited a vinegar sauce at **page 466**, and the open question was whether that was the same recipe as [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) reprinted or a third version. **It's a third version.** §4.93 has **no tomato at all**, is barely sweetened, carries **fresh sliced onion and jalapeño**, and — the one hard practical difference — **does not keep past the day it's made**, exactly because of those fresh aromatics. §6.7's Open Question is closed and its sauce formula now points at §4.93 specifically. The entry carries a three-way comparison table so the vinegar sauces stay straight. Also added **[§4.94 Red Chimichurri](#494-red-chimichurri)** and **[§4.95 "Dry" Chimichurri](#495-dry-chimichurri)** (both p. 478, Argentina) — which, with the existing [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri), gives this cookbook three sauces sharing a name and almost nothing else: §4.44 raw and green, **§4.94 cooked, tomato-based, and carrying tuna and anchovy** (the source's own note connects it to A.1., Worcestershire, and Italian tonnato — which lands on [§4.59 Tonnato Sauce](#459-tonnato-sauce), already here), and §4.95 with nothing fresh in it at all. §4.94 is the only 🟡 Medium of the three — three stages and a thick tomato sauce that scorches if you stop stirring; §4.95 is noted as the weeknight option, since everything but the oil and vinegar is already in the spice cabinet. |
 | 2026-08-13 | **Two more from the same Raichlen book, plus a standing preference recorded — and one technique deliberately left out.** Added **[§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce)** (p. 464), kept separate from the existing [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) — both are the same author's mustard sauces, but §4.35 is a savory cooked sauce with mustard seeds, butter, bacon, and onion in it, while §4.92 is a bare four-ingredient simmer (mustard, honey, brown sugar, white vinegar). **This also completes the Carolina sauce map** the source lays out: vinegar in eastern NC, tomato in western NC, mustard in southern NC and parts of SC and Florida — all three regions now represented here. Added **[§10.12 Grilled Grits](#1012-grilled-grits)** (p. 434) — grits cooked soft, chilled into a firm ½-inch slab for 4 hours to 2 days, cut, and grilled like polenta. **Filed in §10 with the other two grits recipes rather than with the barbecue sides**, so all three are findable together; rated 🟡 Medium because the slab genuinely has to be firm and the grate genuinely oiled or the pieces tear when turned. Its three printed variations (cheese, corn, jalapeño) are kept. **[§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) now carries a standing preference from Cody**: shown the source's *How to Grill the Perfect Steak* page, his answer was *"Actually I prefer sous vide — to me, the perfect steak is sous vide."* **That grilling technique was not added, on his call** — recorded on §T27 as the house alternative whenever a recipe calls for grilling or pan-searing a steak, and noted on the open [§6.4 Smoked Steak](#64-smoked-steak) placeholder so that entry gets written up as his smoker method specifically rather than as a general best-way-to-cook-a-steak. |
@@ -617,6 +629,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade) | 🟢 | 10 min | — | — | 10 min |
 | [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) | 🟢 | 10 min | — | — | 10 min |
 | [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter) | 🟢 | 10 min | — | — | 10 min |
 | [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) | 🟢 | 10 min | — | — | 10 min |
@@ -690,6 +703,15 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill; ~2–3 hr for Cody's preferred St. Louis/spare ribs)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
+| [§7.73 Bani Marine Street Beef Kebabs](#773-bani-marine-street-beef-kebabs) | 🟢 | 15 min | 8 min | — | 2 hr 25 min *(+ 2–8 hr marinate)* |
+| [§7.69 Bengali Shish Kebabs](#769-bengali-shish-kebabs) | 🟢 | 15 min | 10 min | — | 2 hr 25 min *(+ 2 hr marinate)* |
+| [§7.71 Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) | 🟢 | 15 min | 10 min | — | 1 hr 45 min *(+ 1–2 hr marinate)* |
+| [§7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) | 🟢 | 15 min | 10 min | — | 5 hr 25 min *(+ 4–6 hr marinate)* |
+| [§7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) | 🟢 | 20 min | 5 min | — | 55 min *(+ 30 min marinate/noodle-soak, parallel)* |
+| [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) | 🟢 | 15 min | 10–14 min | — | 30 min |
+| [§7.68 Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) | 🟢 | 20 min | 10 min | — | 2 hr 30 min *(+ 2 hr marinate)* |
+| [§7.70 Russian Shashlik](#770-russian-shashlik) | 🟢 | 20 min | 10 min | — | 8 hr 30 min *(+ 4–8 hr marinate)* |
+| [§7.72 Quick Persian Beef Kebabs](#772-quick-persian-beef-kebabs) | 🟢 | 20 min | 10 min | — | 30 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.53 Pasta Puttanesca](#753-pasta-puttanesca) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§4.67 Sauce Chivry / à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ §4.63)* |
@@ -709,6 +731,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) | 🟢 | 20 min | — | **4–6 hr** *(indirect grill at 300°F)* | 4¾–6¾ hr *(+ optional 3–8 hr rub cure)* |
 | [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) | 🟢 | 15 min | — | **6–8 hr** *(indirect charcoal, low)* | 6½–8½ hr *(+ optional 4–8 hr cure)* |
+| [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) | 🟢 | 20 min | — | **1½–2 hr** *(indirect grill)* | 2 hr 20 min |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
 | [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) | 🟡 | 15 min | 15 min | — | 30 min *(+ 30 min–2 hr marinate)* |
@@ -7073,6 +7096,59 @@ Put the cider vinegar, onion, jalapeños, salt, hot pepper flakes, black pepper,
 
 ---
 
+### 4.97 Aromatic Lemongrass Marinade
+
+Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans), from its *What's Your Beef?* chapter, tagged **Thailand**. Feeds [§7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef), which cites this recipe by name rather than reprinting it.
+
+> **Per the source:** *"This marinade demonstrates the universal appeal of one of the oddest and most ancient food pairings: anchovies with beef. The Romans did it when they seasoned their meats with liquamen (pickled anchovy sauce). Italians carry on the tradition with their steak pizzaiola (garnished with anchovies and tomatoes). The Vietnamese version features a highly aromatic marinade based on nuoc mam (fish sauce), a malodorous but highly tasty condiment made with pickled anchovies."*
+
+**Yield:** about 1 cup — enough for 1½ lb beef, chicken, or fish
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 3 stalks fresh lemongrass, trimmed and coarsely chopped, or 3 strips lemon zest (each 2 by ½ inches), removed with a vegetable peeler
+- 2 large shallots, coarsely chopped
+- 5 cloves garlic, coarsely chopped
+- 3 Tbsp sugar
+- 5 Tbsp Asian fish sauce
+- 3 Tbsp fresh lime juice
+- 1 tsp freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Pound or blend to a smooth paste.**
+Combine the lemongrass, shallots, garlic, and sugar in a mortar and pound to a coarse paste with a pestle, then work in the fish sauce, lime juice, and pepper. If you don't have a mortar and pestle, combine all the ingredients in a blender and process to a smooth puree.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Fresh lemongrass — 3 stalks, or substitute lemon zest
+- 🏪 Asian fish sauce — 5 Tbsp
+
+**🛒 General grocery**
+
+- 🛒 Shallots — 2 large
+- 🛒 Garlic — 5 cloves
+- 🛒 Sugar — 3 Tbsp
+- 🛒 Lime — for 3 Tbsp juice
+- 🛒 Black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~210 | 1 g | 5 g | 45 g | 1 g |
+| **Per serving** *(if used entirely on a 1½ lb batch of meat, serves 4)* | ~55 | <1 g | 1 g | 11 g | <1 g |
+
+**What a serving is:** about 4 tsp of marinade — most of it clings to and flavors the meat it's tossed with rather than being eaten on its own, so treat this figure as a rough upper bound.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -11776,6 +11852,96 @@ Take the pan off the grill and let the brisket rest in it. Transfer to a cutting
 - **The Basic Barbecue Sauce (source p. 463) referenced in the Texas Way sidebar isn't in this cookbook.** Half the sauce formula is therefore unmakeable as written; worth photographing if Cody wants that sauce.
 - ✅ **Settled: the "page 466" North Carolina Vinegar Sauce is a *third* version, now transcribed at [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato).** It was flagged here as possibly the same recipe reprinted; it isn't. §4.93 has **no tomato at all**, carries fresh sliced onion and jalapeño, and **doesn't keep past the day it's made** — all three points distinguish it from [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style). **For the Texas Way sauce formula above, §4.93 is the half the sidebar actually means.**
 - **Cody's own brisket smoking method is still to come** — see the note at the top of this entry and the open [§6.1 Smoked Brisket](#61-smoked-brisket) placeholder.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 6.8 Memphis-Style Beef Ribs
+
+Transcribed from **Steven Raichlen's *How to Grill*** (p. 94–97), following its own "How to Smoke Beef Ribs" technique spread — same source and the same technique-plus-recipe pattern as [§7.50](#750-asian-flavor-baby-back-ribs)/[§6.2](#62-pulled-pork)/[§7.76](#776-hamburgers-with-herb-butter). *Wet* barbecue means sweet, sticky, sauce-slathered ribs (Kansas City style); *dry* means the spice-crusted ribs of Memphis, Tennessee. This is the dry kind, and the rib itself is a by-product cut of prime rib.
+
+> **Per the source:** *"The rib in question here comes from the steer, specifically from one of the most prized cuts of beef — the prime rib. When the butcher cuts a rib roast, the by-product is a rack of ribs. It's not only the formidable size of these meaty staves that makes them so good. No, it's their generous marbling that turns the meat crusty and moist, without the greasiness associated with pork ribs."*
+
+**Three cross-links confirmed by matching page number, not guessed at:** the optional **North Carolina Vinegar Sauce is [§4.36](#436-north-carolina-vinegar-sauce)** (same book, same page — 448); the rub the Tips box allows as a substitute is **[§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub)** (page 441); and the "Asian-style ribs" named in the Variations sidebar is **[§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs)** (page 143).
+
+> **You'll need:** 2 cups wood chips or chunks, preferably hickory, soaked 1 hour in cold water to cover, then drained.
+
+**Yield:** 2 racks of beef ribs (2½ to 3 lb each) — **serves 4**. A full rack has 7 ribs and comfortably feeds two.
+
+**🟢 Easy** · **Prep ~20 min** *(rub mixed and applied, ribs rest 30 min, mop sauce mixed)* · **Slow cook ~1½–2 hr** *(indirect grill — add fresh coals and the remaining wood chips per side after 1 hr if using charcoal)* · **Start to finish ~2 hr 20 min**
+
+#### A. Ingredients
+
+- 2 racks of beef ribs (2½ to 3 lb each)
+- 3 Tbsp sweet paprika
+- 2 tsp hot red pepper flakes
+- 2 tsp mustard seeds
+- 3 tsp coarse salt, divided (2 tsp for the rub, 1 tsp for the mop)
+- 2 tsp black pepper
+- 2 tsp brown sugar
+- 1 tsp celery salt
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1 tsp dried oregano
+- 1 tsp cumin
+- 1 cup distilled white vinegar
+- North Carolina Vinegar Sauce, for serving (optional; [§4.36](#436-north-carolina-vinegar-sauce))
+
+#### B. Cooking Instructions
+
+**1. Season the ribs and let them sit.**
+Rinse the ribs under cold running water and blot dry with paper towels. Combine the paprika, hot pepper flakes, mustard seeds, 2 teaspoons of the coarse salt, black pepper, brown sugar, celery salt, garlic powder, onion powder, dried oregano, and cumin in a small bowl or spice shaker. Set aside 2 tablespoons of this rub for the mop sauce. Sprinkle about 1 tablespoon of the remaining rub on the meat side and ½ tablespoon on the bone side of each rack, rubbing the spices on with your fingers. Set the rest of the rub aside for serving. Let the ribs sit for 30 minutes while you make the mop sauce and preheat the grill.
+
+**2. Make the mop sauce.**
+Combine the vinegar and the remaining 1 teaspoon salt with the 2 tablespoons reserved rub in a small bowl and stir until the salt is dissolved.
+
+**3. Set up the grill for indirect grilling. Preheat to medium.**
+If using charcoal, place a large drip pan in the center. If using a gas grill, place all the wood chips or chunks in the smoker box or a smoker pouch and preheat the grill on high until you see smoke, then reduce the heat to medium.
+
+**4. Smoke the ribs, covered, away from the heat. 1½ to 2 hours.**
+If using charcoal, toss half the wood chips or chunks onto the coals. Place the ribs in the center of the hot grate, away from the coals, and cover the grill. Cook for 1½ to 2 hours; if using charcoal, add 12 fresh coals per side and toss on the remaining wood chips after the first hour. The ribs are done when they're mahogany brown and tender enough to pull apart with your fingers — the meat will have shrunk back from the ends of the bones.
+
+**5. Mop, rest, and serve.**
+Transfer the ribs to a clean cutting board. Mop on both sides with the mop sauce and sprinkle with the remaining rub. Cut the rack into individual ribs and serve at once with any remaining mop sauce or the North Carolina Vinegar Sauce, if desired.
+
+> **Tip, per the source:** use any rub you fancy for the ribs — Raichlen names [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) itself as a substitute. The rub goes on twice, once before cooking and once just before serving, for a double blast of flavor. **For maximum showmanship, apply the mop sauce in front of your guests with an actual barbecue mop** — the same literal-floor-mop origin already recorded at [§4.96](#496-vinegar-based-mop-sauce).
+
+> **Variations, per the source:** beef ribs can also be prepared wet, like the Kansas City Sweet-and-Smoky Ribs (page 139), or even in the Asian style — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) here.
+
+**Also good for, per the source:** spare ribs or baby rack pork ribs, done the same Memphis dry-rub way — see [§6.5 Smoked Ribs](#65-smoked-ribs), still an open placeholder for Cody's own pork rib method.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef ribs — 2 racks, 2½ to 3 lb each
+
+**🛒 General grocery**
+
+- 🛒 Sweet paprika — 3 Tbsp
+- 🛒 Hot red pepper flakes — 2 tsp
+- 🛒 Mustard seeds — 2 tsp
+- 🛒 Coarse salt — 3 tsp
+- 🛒 Black pepper — 2 tsp
+- 🛒 Brown sugar — 2 tsp
+- 🛒 Celery salt, garlic powder, onion powder, dried oregano, cumin — 1 tsp each
+- 🛒 Distilled white vinegar — 1 cup
+- 🛒 Wood chips or chunks — 2 cups, preferably hickory
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,600 | 190 g | 190 g | 40 g | 3 g |
+| **Per serving** *(serves 4)* | ~650 | 48 g | 48 g | 10 g | 1 g |
+
+**What a serving is:** about half a rack — roughly 3 to 4 ribs.
+
+#### Open Questions
+
+- **Kansas City Sweet-and-Smoky Ribs (page 139)**, named in the Variations sidebar as the "wet" alternative to this dry style — not transcribed, not in this cookbook.
+- The TIP and YOU'LL NEED sidebars on the technique spread (p. 95) were partly hidden behind other dog-eared pages in the photo. The wood chip quantity and soak time were legible and are captured above, but a line or two more of tip text may be missing.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16862,6 +17028,703 @@ Toss the greens with the dressing, pine nuts, cheese, and currants. Mound on pla
 | **Per serving** *(serves 4)* | ~720 | 46 g | 37 g | 40 g | 6 g |
 
 **What a serving is:** 1 quail and 2 grilled pear halves over a mounded plate of dressed salad greens with Roquefort and pine nuts — a full dinner salad, not a side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.68 Peruvian Beef Kebabs (Anticuchos)
+
+Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans), from its *What's Your Beef?* chapter, tagged **Peru**. The first of eight new beef kebab entries from this chapter, added in one batch — see [§7.69](#769-bengali-shish-kebabs) through [§7.76](#776-hamburgers-with-herb-butter) for the rest, plus [§4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade).
+
+> **Per the source:** *"Peru's national snack, anticuchos are spicy kebabs of beef heart grilled to order by street vendors. Because beef hearts aren't part of most North American diets, I've redesigned the dish for sirloin. The traditional recipe calls for aji amarillo and achiote. Aji amarillo is a fiery yellow chile powder made from a potent Peruvian chile. Achiote are the orange seeds of the Caribbean annatto plant... rest assured that you can make perfectly delectable anticuchos using the substitutions suggested below."*
+
+> **📌 On Trimming Fat from Meat, per the source — a general principle worth keeping in mind for every kebab in this batch, not repeated in each entry.** What you want to trim is sinew, gristle, and silverskin, and *excess* fat — not *all* fat. Excess means large pieces (an inch or more) of fat, or a layer more than ½ inch thick. Grilling is a dry-cooking method: the blast of dry heat renders fat as a well-marbled piece of meat cooks, basting the meat fibers and keeping them moist and succulent, and there's nothing more delicious than the flame-charred fat at the edge of a steak or rib. So resist the urge to trim off all the fat — the barbecue will be better for it. **[§7.69](#769-bengali-shish-kebabs) through [§7.76](#776-hamburgers-with-herb-butter) all trim by this same rule.**
+
+**Special equipment:** 4 long metal skewers
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** *(5 min glaze + 6–8 min grill)* · **Start to finish ~2 hr 30 min** *(includes a 2 hr marinate — lead time, not cooking)*
+
+#### A. Ingredients
+
+**For the beef and marinade:**
+- 1½ lb boneless beef sirloin or tenderloin
+- 2 cloves garlic, minced
+- 2 to 4 tsp aji amarillo (chile powder or paste), or hot paprika
+- ½ tsp ground annatto seeds, or ½ tsp ground turmeric
+- 1 tsp ground cumin
+- 1 tsp salt
+- 1 tsp freshly ground black pepper
+- ½ cup extra-virgin olive oil
+- ⅓ cup red wine vinegar
+
+**For the glaze:**
+- 3 Tbsp vegetable oil
+- 1 to 3 tsp aji amarillo (chile powder or paste), or hot paprika
+- 1 tsp salt
+- ½ tsp freshly ground black pepper
+- 3 Tbsp finely chopped fresh flat-leaf parsley
+
+**For the kebabs:**
+- 1 medium green bell pepper, cored, seeded, cut into ½-inch pieces
+- 1 medium red or yellow bell pepper, cored, seeded, cut into ½-inch pieces
+
+#### B. Cooking Instructions
+
+**1. Prepare the beef and marinade.**
+Trim any sinews and excess fat off the beef (see the callout above), then cut the meat into ½-inch cubes. Toss the beef with the garlic, 2 to 4 teaspoons aji amarillo, annatto, cumin, 1 teaspoon salt, and 1 teaspoon black pepper in a large nonreactive baking dish. Cover and refrigerate the beef for 30 minutes.
+
+**2. Add the oil and vinegar, and keep marinating.**
+Stir in the olive oil and wine vinegar, re-cover the beef, and let it marinate in the refrigerator for 1½ hours more (2 hours total).
+
+**3. Make the glaze.**
+Heat the vegetable oil in a small skillet or saucepan. Add the 1 to 3 teaspoons aji amarillo, 1 teaspoon salt, and ½ teaspoon black pepper. Cook, stirring, over low heat until orange and fragrant, about 5 minutes. Stir in the parsley and cook for 1 minute. Remove the glaze from the heat and set aside to cool.
+
+**4. Assemble the kebabs.**
+Thread the pieces of beef onto the skewers, alternating with pieces of bell pepper. Brush the kebabs with half of the glaze.
+
+**5. Set up the grill for direct grilling and preheat to high.**
+
+**6. Grill, turning once, 3 to 4 minutes per side.**
+Brush and oil the grill grate. Arrange the skewers on the hot grate. Grill the kebabs, turning once with tongs, until the meat is cooked to taste, 3 to 4 minutes per side (6 to 8 minutes in all) for medium-rare. Brush the kebabs as they cook with the remaining glaze — but not during the last 2 minutes of grilling. Serve at once.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef sirloin or tenderloin — 1½ lb
+
+**🛒 General grocery**
+
+- 🛒 Garlic — 2 cloves
+- 🛒 Aji amarillo (chile powder or paste), or hot paprika as a substitute
+- 🛒 Ground annatto seeds, or ground turmeric as a substitute
+- 🛒 Ground cumin
+- 🛒 Extra-virgin olive oil — ½ cup
+- 🛒 Red wine vinegar — ⅓ cup
+- 🛒 Vegetable oil — 3 Tbsp
+- 🛒 Fresh flat-leaf parsley
+- 🛒 Green bell pepper — 1 medium
+- 🛒 Red or yellow bell pepper — 1 medium
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,550 | 100 g | 130 g | 15 g | 3 g |
+| **Per serving** *(serves 4)* | ~390 | 25 g | 33 g | 4 g | 1 g |
+
+**What a serving is:** one skewer, about 6 oz of beef with peppers.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.69 Bengali Shish Kebabs
+
+Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Kebabs](#768-peruvian-beef-kebabs-anticuchos), from its *What's Your Beef?* chapter, tagged **Bangladesh**. Trimming follows the general rule at [§7.68](#768-peruvian-beef-kebabs-anticuchos).
+
+> **Per the source:** *"Shish kebab is the world's most popular barbecue dish. The meat and the kind of skewers may vary but the principle — meat grilled on a stick — remains constant. Here's a Bengali version that's as popular an after-school snack in Bangladesh as burgers are in the U.S. The spicing is more restrained than Indian tandoori kebabs, and the spice mix is rubbed onto the meat before the oil is added for marinating; it gets into the meat better this way. I call for beef tenderloin here, but you can also use tenderloin tips or sirloin."*
+
+**Special equipment:** 4 long metal skewers
+
+**Yield:** serves 8 as an appetizer, 4 as a main course
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~2 hr 25 min** *(includes a 2 hr marinate — lead time, not cooking)*
+
+#### A. Ingredients
+
+- 1½ lb beef tenderloin (or tenderloin tips or sirloin)
+- 3 cloves garlic, minced
+- 1 Tbsp minced peeled fresh ginger
+- 1½ tsp salt
+- 1 Tbsp ground coriander (see Note)
+- 1 tsp ground cumin (see Note)
+- 1 tsp freshly ground black pepper
+- ¼ to 1 tsp cayenne pepper
+- 3 Tbsp vegetable oil
+
+**For serving:**
+- Tandoori-Baked Flat Breads (page 131), or pita bread
+- 1 cucumber, seeded and cut into ½-inch dice
+- 1 tomato, seeded and cut into ½-inch dice
+- 1 small onion, cut into ½-inch dice
+- 1 lemon, cut into wedges
+- Bengali Mango-Tamarind Barbecue Sauce (optional; page 470)
+
+> **Note, per the source, for extra flavor:** start with whole cumin and coriander seeds. Toast them in a dry skillet over medium heat, shaking the pan frequently (don't use a nonstick skillet for this), until lightly colored and fragrant, 3 to 5 minutes. Let the seeds cool, then grind them in a food processor.
+
+#### B. Cooking Instructions
+
+**1. Prepare the beef.**
+Trim any sinews and excess fat off the beef, then cut the meat into 1-inch cubes.
+
+**2. Season, then marinate.**
+Combine the beef, garlic, ginger, salt, coriander, cumin, black pepper, and cayenne in a bowl and toss thoroughly to mix. Add the oil and toss again. Let the beef marinate in the refrigerator, covered, for 2 hours. Then thread the beef cubes onto the skewers.
+
+**3. Set up the grill for direct grilling and preheat to high.**
+
+**4. Grill, turning with tongs, 2 to 3 minutes per side.**
+Brush and oil the grill grate. Arrange the kebabs on the hot grate (place an aluminum foil shield under the ends if using bamboo skewers). Grill until the beef is cooked to taste, 2 to 3 minutes per side (8 to 12 minutes in all) for medium-rare. Transfer the kebabs to a platter.
+
+**5. Serve.**
+Arrange the breads of your choice in one layer on the grate and grill until pliable, about 20 seconds per side (if serving the kebabs as an appetizer). Unskewer the beef onto the breads — or fold a bread in half around the meat on each skewer and remove the skewer. Sprinkle the diced cucumber, tomato, and onion over the meat and squeeze a little lemon juice on top. Spoon the Bengali Mango-Tamarind Barbecue Sauce on top, or use it as a dipping sauce. Serve at once.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Beef tenderloin (or tenderloin tips or sirloin) — 1½ lb
+- 🛒 Garlic — 3 cloves
+- 🛒 Fresh ginger — 1 Tbsp minced
+- 🛒 Ground coriander and cumin, or whole seeds to toast and grind
+- 🛒 Cayenne pepper
+- 🛒 Vegetable oil — 3 Tbsp
+- 🛒 Pita bread *(or Tandoori-Baked Flat Breads, page 131 — not yet in this cookbook)*
+- 🛒 Cucumber, tomato, onion — 1 each, for the topping
+- 🛒 Lemon — 1, cut into wedges
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,500 | 95 g | 145 g | 15 g | 3 g |
+| **Per serving** *(appetizer, serves 8, with bread and toppings)* | ~280 | 14 g | 20 g | 14 g | 1.5 g |
+| **Per serving** *(main course, serves 4, with bread and toppings)* | ~560 | 28 g | 40 g | 28 g | 3 g |
+
+**What a serving is:** as an appetizer, one flatbread wrap with a skewer's worth of beef and toppings; as a main course, about two skewers with bread and toppings.
+
+#### Open Questions
+
+- **Tandoori-Baked Flat Breads (page 131)** and **Bengali Mango-Tamarind Barbecue Sauce (page 470)** — both cited by name as the intended bread and sauce, not yet transcribed or in this cookbook. Pita bread is given as a workable substitute for the bread, per the source's own alternative.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.70 Russian Shashlik
+
+Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Kebabs](#768-peruvian-beef-kebabs-anticuchos), from its *What's Your Beef?* chapter, tagged **Russia**. Trimming follows the general rule at [§7.68](#768-peruvian-beef-kebabs-anticuchos).
+
+> **Per the source:** *"Muscovites love to take to the country on the weekends, and when they do, chances are they'll cook these robust beef kebabs. Grating the onion is a traditional Slavic technique that produces a fuller, richer onion flavor than dicing."*
+
+**Special equipment:** 4 to 6 long metal skewers
+
+**Yield:** serves 4 to 6
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~8 hr 30 min** *(plus a 4–8 hr marinate — lead time, not cooking; the source prefers the longer end)*
+
+#### A. Ingredients
+
+**For the beef and marinade:**
+- 1½ to 2 lb boneless beef sirloin or tenderloin tips
+- 1 large onion, coarsely grated
+- 6 cloves garlic, minced
+- ½ cup dry red wine
+- ¼ cup red wine vinegar
+- 3 Tbsp extra-virgin olive oil
+- 2 bay leaves
+- 1½ tsp salt
+- 1 tsp freshly ground pepper
+
+**For the kebabs:**
+- 1 large onion, cut into 1-inch pieces
+- 1 large green bell pepper, cored, seeded, and cut into 1-inch pieces
+
+#### B. Cooking Instructions
+
+**1. Prepare the beef.**
+Trim any sinew and excess fat off the beef, then cut the meat into 1½-inch cubes.
+
+**2. Marinate — at least 4 hours, preferably 8.**
+Combine the grated onion, garlic, wine, wine vinegar, olive oil, bay leaves, salt, and black pepper in a large nonreactive baking dish. Add the beef and toss thoroughly to coat. Let the beef marinate in the refrigerator, covered, for at least 4 hours, preferably 8, stirring once or twice.
+
+**3. Assemble the kebabs.**
+Remove the beef from the marinade, setting the marinade aside. Thread the beef onto the skewers, alternating it with pieces of onion and bell pepper.
+
+**4. Set up the grill for direct grilling and preheat to high.**
+
+**5. Grill, basting, 2 to 3 minutes per side.**
+Brush and oil the grill grate. Arrange the kebabs on the hot grate and grill, turning with tongs, until the meat is cooked to taste, 2 to 3 minutes per side (8 to 12 minutes in all) for medium-rare. Baste the beef with the marinade as it cooks, but not during the last 3 minutes of grilling. Serve the kebabs at once.
+
+> **Per the source, for serving:** serve the beef kebabs with plenty of ice-cold beer.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef sirloin or tenderloin tips — 1½ to 2 lb
+
+**🛒 General grocery**
+
+- 🛒 Onion — 2 large (1 grated for the marinade, 1 cut into pieces for skewering)
+- 🛒 Garlic — 6 cloves
+- 🛒 Dry red wine — ½ cup
+- 🛒 Red wine vinegar — ¼ cup
+- 🛒 Extra-virgin olive oil — 3 Tbsp
+- 🛒 Bay leaves — 2
+- 🛒 Green bell pepper — 1 large
+- 🛒 Beer, ice-cold, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,650 | 105 g | 155 g | 20 g | 3 g |
+| **Per serving** *(serves 5, splitting the 4–6 range)* | ~330 | 21 g | 31 g | 4 g | 1 g |
+
+**What a serving is:** one skewer, roughly 5 to 6 oz of beef with onion and pepper.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.71 Fiery Stick Meat (Suyas)
+
+Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Kebabs](#768-peruvian-beef-kebabs-anticuchos), from its *What's Your Beef?* chapter, tagged **Nigeria**. Trimming follows the general rule at [§7.68](#768-peruvian-beef-kebabs-anticuchos).
+
+> **Per the source:** *"I first encountered 'stick meat' (fiery beef kebabs) at a Nigerian restaurant in Washington, D.C. But it was Dozie Nnamah, a cab driver in Chicago, who set the scene for properly enjoying this West African snack... The last stop is the nearest stick meat vendor, where you buy a few dozen suyas, fiery beef kebabs. You eat the stick meat with raw onion and as much cayenne pepper as you can stand, and that's how it goes — for an evening, at least, it's hard to imagine that life gets better than this. Note that the meat shouldn't be too lean for stick meat; you need a few pieces of fat to baste and tenderize the beef as it cooks. As usual, I offer a range of heat from the cayenne. At my house, I would use a tablespoon of cayenne for the marinade."*
+
+> **Note, per the source, on doneness:** these times give well-done meat — all the stick meat the source has had was served that way, made with cheap cuts requiring prolonged cooking to tenderize. To serve medium-rare stick meat instead, use a more tender cut and cook the kebabs 1½ to 2 minutes per side.
+
+**Special equipment:** 20 short bamboo skewers and an aluminum foil shield
+
+**Yield:** serves 8 as an appetizer, 4 as a main course
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~1 hr 45 min** *(plus a 1–2 hr marinate — lead time, not cooking)*
+
+#### A. Ingredients
+
+- 1½ lb boneless beef sirloin (try to choose a piece with some fat on it, or ask your butcher for a piece of beef fat)
+- 3 beef bouillon cubes
+- 1 to 3 tsp cayenne pepper, plus 1 Tbsp for serving
+- 1 tsp freshly ground black pepper
+- ½ tsp salt
+- 2 Tbsp vegetable oil
+- 1 medium onion, cut into ½-inch pieces, for serving
+
+#### B. Cooking Instructions
+
+**1. Prepare the beef and marinade.**
+Trim any sinews and excess fat off the beef, then cut the meat into ½-inch cubes. Crumble the bouillon cubes in a large bowl and mix with 1 tablespoon of water to make a thick paste. Stir in the 1 to 3 teaspoons cayenne, black pepper, and salt. Add the meat and toss thoroughly to coat. Let the beef marinate in the refrigerator, covered, for 1 to 2 hours.
+
+**2. Assemble the kebabs.**
+Remove the beef from the marinade and thread it onto the skewers, 6 to 8 cubes to a skewer, leaving the point (the last ¼ inch of the skewer) exposed. Pour the oil onto a plate and roll the skewers around in it to coat the meat.
+
+**3. Set up the grill for direct grilling and preheat to high.**
+
+**4. Grill, 2 to 3 minutes per side.**
+Brush and oil the grill grate. Arrange the skewers on the hot grate with the aluminum foil shield under the ends of the skewers. Grill, turning with tongs, until the meat is cooked to taste, 2 to 3 minutes per side (8 to 12 minutes in all; see the doneness Note above).
+
+**5. Serve with raw onion and cayenne.**
+Place the onion in a small bowl and the remaining 1 tablespoon cayenne pepper in another. To eat, spear a piece of onion on the end of the skewer, then sprinkle the meat with as much additional cayenne as you can bear.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef sirloin — 1½ lb, with some fat on it, or a separate piece of beef fat
+
+**🛒 General grocery**
+
+- 🛒 Beef bouillon cubes — 3
+- 🛒 Cayenne pepper — for the marinade, plus 1 Tbsp extra for serving
+- 🛒 Black pepper, salt
+- 🛒 Vegetable oil — 2 Tbsp
+- 🛒 Onion — 1 medium, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,500 | 95 g | 150 g | 8 g | 2 g |
+| **Per serving** *(appetizer, serves 8)* | ~190 | 12 g | 19 g | 1 g | <1 g |
+| **Per serving** *(main course, serves 4)* | ~375 | 24 g | 38 g | 2 g | 1 g |
+
+**What a serving is:** as an appetizer, 2 to 3 skewers; as a main course, 5 to 6 skewers, with raw onion and cayenne on the side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.72 Quick Persian Beef Kebabs
+
+Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Kebabs](#768-peruvian-beef-kebabs-anticuchos), from its *What's Your Beef?* chapter, tagged **Iran**. Trimming follows the general rule at [§7.68](#768-peruvian-beef-kebabs-anticuchos).
+
+> **Per the source:** *"As a rule, Iranian kebabs are easy to make, but they do require a day or two of marinating. Here, however, is a beef kebab from that country that you can make and serve in the time it takes you to preheat the grill. The secret is to use thinly sliced beef tenderloin, which is so tender it needs no advance marinating."*
+
+**Special equipment:** 4 flat metal skewers
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+- 1½ lb beef tenderloin, all fat and sinew trimmed off
+- 1 large onion, cut into 1-inch chunks
+- 3 Tbsp fresh lime juice
+- 3 Tbsp extra-virgin olive oil
+- 1 Tbsp cracked black peppercorns
+- Salt
+- 2 Tbsp (¼ stick) unsalted butter, in one piece
+- Lavash (flat bread), for serving
+
+#### B. Cooking Instructions
+
+**1. Slice and skewer the beef.**
+Cut the tenderloin crosswise into 1-inch-thick slices. Place the slices flat on the cutting board and cut them into 1-inch-wide strips. Cut each strip crosswise into ½-inch-thick pieces. Thread the beef onto the skewers and place them on a large nonreactive platter.
+
+**2. Puree the onion.**
+Puree the onion in a food processor. Strain the onion puree over the kebabs, turning to coat all sides.
+
+**3. Make and add the marinade.**
+Place the lime juice, olive oil, and peppercorns in a small bowl and beat them with a fork. Season with salt to taste, then pour the marinade over the kebabs, turning to coat all sides. Let the kebabs marinate for 15 minutes.
+
+**4. Set up the grill for direct grilling and preheat to high.**
+
+**5. Grill, 1½ to 2 minutes per side.**
+Brush and oil the grill grate. Drain the kebabs, arrange them on the hot grate, and grill until cooked to taste — 1½ to 2 minutes per side (6 to 8 minutes in all); Iranians like their beef on the medium side of medium-rare.
+
+**6. Finish with butter and serve.**
+Transfer the kebabs to a platter. Skewer the butter on the end of a fork for easy handling and rub some of it over each kebab. Serve the kebabs immediately, with the lavash, using a piece of the bread to protect your hand as you slide the beef off the skewer.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef tenderloin — 1½ lb
+
+**🛒 General grocery**
+
+- 🛒 Onion — 1 large
+- 🛒 Lime — for 3 Tbsp juice
+- 🛒 Extra-virgin olive oil — 3 Tbsp
+- 🛒 Black peppercorns — 1 Tbsp, cracked
+- 🛒 Unsalted butter — 2 Tbsp
+- 🛒 Lavash flat bread
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,850 | 130 g | 120 g | 8 g | 1 g |
+| **Per serving** *(serves 4, not counting the lavash)* | ~460 | 32 g | 30 g | 2 g | <1 g |
+
+**What a serving is:** one skewer, about 6 oz of beef, buttered, with a piece of lavash for handling.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.73 Bani Marine Street Beef Kebabs
+
+Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Kebabs](#768-peruvian-beef-kebabs-anticuchos), from its *What's Your Beef?* chapter, tagged **Morocco**. Trimming follows the general rule at [§7.68](#768-peruvian-beef-kebabs-anticuchos).
+
+> **Per the source:** *"Bani Marine Street is one of the barbecue lanes in Marrakech, a crowded street off the Jema al-Fna marketplace lined with simple storefront grill restaurants. You don't really need a menu, since the bill of fare is displayed in the windows: lamb chops, liver, merguez sausages reddened with paprika and cayenne, and decoratively sculpted mounds of kefta (ground spiced lamb). A meal at one of these restaurants is a simple but soul-satisfying experience: a dish of olives and a plate of kebabs, served with fiery harissa, fire-toasted bread, and shallot relish (a rather ingenious condiment since the parsley neutralizes the pungency of the shallots). As in Indonesia, the meat for the kebabs is diced very small to keep it tender. And it doesn't hurt to put a little fatty beef or beef fat on the kebabs as well as the lean sirloin to keep the meat moist."*
+
+**Special equipment:** 20 short bamboo skewers and an aluminum foil shield
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~8 min** · **Start to finish ~2 hr 25 min** *(plus 2 to 8 hr marinate — lead time, not cooking)*
+
+#### A. Ingredients
+
+- 1½ lb boneless beef sirloin
+- 1 medium onion, finely chopped or grated
+- ¼ cup finely chopped fresh flat-leaf parsley
+- 1 tsp sweet paprika
+- 1 tsp salt, plus 1 Tbsp for serving
+- ½ tsp ground cumin, plus 1 Tbsp for serving
+- ½ tsp freshly ground white pepper
+- 2 Tbsp vegetable oil
+- Moroccan Shallot Relish (page 445)
+- A Simple Harissa (page 481)
+- Moroccan bread, French bread, or pita bread
+
+#### B. Cooking Instructions
+
+**1. Prepare the beef and marinade.**
+Trim any sinews and excess fat off the beef, then cut it into ½-inch cubes. Combine the onion, parsley, paprika, 1 teaspoon salt, ½ teaspoon cumin, white pepper, and oil in a large baking dish. Add the beef and toss thoroughly to coat. Let marinate in the refrigerator, covered, for at least 2 hours, preferably 8. Then thread the beef onto the skewers.
+
+**2. Set up the grill for direct grilling and preheat to high.**
+
+**3. Grill, 3 to 4 minutes per side.**
+Brush and oil the grill grate. Arrange the kebabs on the hot grate with the aluminum shield under the ends of the skewers. Grill, turning once with tongs, until the meat is cooked to taste, 3 to 4 minutes per side (6 to 8 minutes in all) for medium — Moroccans tend to eat their beef well-done.
+
+**4. Serve with salt, cumin, relish, and harissa on the side.**
+Place 1 tablespoon each of salt and cumin in separate tiny bowls and put them on the table side by side, along with bowls of the shallot relish and harissa. Slide the meat off the skewers onto plates. Let each person season his or her portion to taste with the salt and cumin, then spoon the relish and harissa on top. Serve the bread, in chunks, to soak up the juices.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef sirloin — 1½ lb, with a little extra fat if possible
+
+**🛒 General grocery**
+
+- 🛒 Onion — 1 medium
+- 🛒 Fresh flat-leaf parsley — ¼ cup chopped
+- 🛒 Sweet paprika, cumin, white pepper
+- 🛒 Vegetable oil — 2 Tbsp
+- 🛒 Moroccan, French, or pita bread
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,400 | 90 g | 135 g | 8 g | 2 g |
+| **Per serving** *(serves 4, not counting bread, relish, or harissa)* | ~350 | 23 g | 34 g | 2 g | <1 g |
+
+**What a serving is:** one skewer's worth of beef, about 6 oz, seasoned to taste at the table.
+
+#### Open Questions
+
+- **Moroccan Shallot Relish (page 445)** and **A Simple Harissa (page 481)** — both integral to how this dish is actually eaten, cited by name but not yet transcribed or in this cookbook.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)
+
+Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Kebabs](#768-peruvian-beef-kebabs-anticuchos), from its *What's Your Beef?* chapter, tagged **Portugal**. Trimming follows the general rule at [§7.68](#768-peruvian-beef-kebabs-anticuchos).
+
+> **Per the source:** *"Grilled beef is beloved throughout Portugal, but nowhere as much as on the island of Madeira. Restaurants on this hilly island have a unique accoutrement: an inverted L-shaped metal pole attached to one end of each table. The beef is grilled on special metal skewers with eyelets at the end, which are then brought to the table and hung with great ceremony from the L-shaped pole, over a bowl piled with Portuguese bread. As the kebabs hang, the meat juices drip onto the bread, which becomes as much a delicacy as the beef... It's interesting to note that in the old days (and now, deep in the countryside), the beef was skewered and grilled on branches of a bay leaf tree."*
+
+> **You can approximate the effect, per the source:** serve the kebabs on a platter lined with sliced Portuguese bread.
+
+**Special equipment:** 4 to 6 long metal skewers
+
+**Yield:** serves 4 to 6
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~5 hr 25 min** *(plus a 4–6 hr marinate — lead time, not cooking)*
+
+#### A. Ingredients
+
+- 1½ lb beef tenderloin or boneless sirloin
+- ¼ cup extra-virgin olive oil
+- ¼ cup red wine vinegar
+- 1 onion, finely chopped
+- ½ cup chopped fresh flat-leaf parsley
+- 4 cloves garlic, finely chopped
+- 1 tsp salt
+- 1 tsp freshly ground black pepper
+- 14 bay leaves
+- Portuguese or other crusty country-style bread, for serving
+
+#### B. Cooking Instructions
+
+**1. Prepare the beef and marinade.**
+Trim any sinews and excess fat off the beef, then cut the meat into 1½-inch cubes. Combine the olive oil, wine vinegar, onion, parsley, garlic, salt, pepper, and 2 of the bay leaves in a large nonreactive baking dish. Add the beef and toss thoroughly to coat. Let marinate in the refrigerator, covered, for 4 to 6 hours.
+
+**2. Skewer the beef with bay leaves.**
+Remove the beef and bay leaves from the marinade, discarding the 2 bay leaves that marinated. Set the marinade aside. Thread the meat and the remaining 12 bay leaves onto the skewers, dividing the bay leaves among the kebabs.
+
+**3. Set up the grill for direct grilling and preheat to high.**
+
+**4. Grill, basting, 2 to 3 minutes per side.**
+Brush and oil the grill grate. Arrange the kebabs on the hot grate and grill, turning with tongs, until the meat is cooked to taste, 2 to 3 minutes per side (8 to 12 minutes in all) for medium-rare. Baste the espetadas with the marinade, but not during the last 3 minutes of grilling.
+
+**5. Serve on or off the skewers.**
+Serve the espetadas on or off the skewers, on slices or chunks of Portuguese bread to soak up the juices.
+
+> ⚠️ **The bay leaves on the skewers are for aroma and presentation, not for eating** — they stay woody and sharp-edged even after grilling. Set them aside on the plate rather than treating them as an ingredient to chew.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef tenderloin or boneless sirloin — 1½ lb
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — ¼ cup
+- 🛒 Red wine vinegar — ¼ cup
+- 🛒 Onion — 1
+- 🛒 Fresh flat-leaf parsley — ½ cup chopped
+- 🛒 Garlic — 4 cloves
+- 🛒 Bay leaves — 14, fresh if you can find them
+- 🛒 Crusty Portuguese or other country-style bread
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,500 | 110 g | 120 g | 6 g | 1 g |
+| **Per serving** *(serves 5, splitting the 4–6 range, not counting bread)* | ~300 | 22 g | 24 g | 1 g | <1 g |
+
+**What a serving is:** one skewer, about 5 to 6 oz of beef, with bread on the side to soak up the juices.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.75 Lettuce Bundles with Grilled Beef
+
+Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Kebabs](#768-peruvian-beef-kebabs-anticuchos), from its *What's Your Beef?* chapter, tagged **Vietnam**. Uses **[§4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade)**, transcribed alongside this entry since the recipe calls for it by name rather than reprinting it.
+
+> **Per the source:** *"This dish could be thought of as a Vietnamese taco. Although it doesn't really exist there, I was inspired to create it by a classic Vietnamese dish called bo bun (beef with rice paper). It's a fun combination of salad, pasta, and meat courses mixed into a single, satisfying mouthful. It's also a versatile dish that you can prepare with any type of meat (or seafood) and a variety of noodles — I've used Thai rice vermicelli, Japanese soba, and Western-style spaghetti. The recipe calls for sirloin, but you could also use shell steak or New York strip steak."*
+
+**Special equipment:** 24 short bamboo skewers and an aluminum foil shield
+
+**Yield:** serves 4 as an appetizer, 2 to 3 as a main course
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~5 min** · **Start to finish ~55 min** *(includes a 30 min marinate/noodle-soak, done in parallel)*
+
+#### A. Ingredients
+
+- 1 boneless sirloin beefsteak (about 1 lb), cut about 1 inch thick
+- [§4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade)
+- 4 oz rice vermicelli, soba noodles, angel hair pasta, or spaghetti
+- 1 bunch fresh basil, preferably Thai basil, stemmed
+- 1 bunch fresh mint (optional), stemmed
+- 2 jalapeño peppers, seeded and thinly sliced (optional — for hotter lettuce bundles, leave the seeds in)
+- 1 head Boston or Bibb lettuce, separated into leaves, rinsed and spun dry
+- Thai Peanut Sauce (page 476)
+
+#### B. Cooking Instructions
+
+**1. Slice the beef and marinate.**
+Place the steak flat on a cutting board. Using a sharp knife, cut it lengthwise into ⅛-inch-wide strips, then transfer these to a nonreactive baking dish. Add the Aromatic Lemongrass Marinade and toss the beef to coat thoroughly. Let marinate in the refrigerator, covered, for 30 minutes.
+
+**2. Soak or cook the noodles, and set up the rest.**
+If using rice vermicelli, place it in a bowl, add cold water to cover, and let it soak until soft and pliable, about 30 minutes — no soaking needed if using soba, angel hair, or spaghetti. If using rice vermicelli, drain and cook in 3 quarts rapidly boiling water until tender, 1 to 3 minutes (6 to 8 minutes for the other noodles). Drain again and rinse with cold water, then transfer to a bowl. Arrange the basil, mint (if using), and jalapeños (if using) in small bowls or on plates. Arrange the lettuce leaves on plates and divide the peanut sauce among 4 small bowls. Weave the beef strips lengthwise onto the skewers.
+
+**3. Set up the grill for direct grilling and preheat to high.**
+
+**4. Grill, 1 to 2 minutes per side.**
+Brush and oil the grill grate. Arrange the skewers on the hot grate with the aluminum foil shield under the ends of the skewers. Grill, turning with tongs, until the meat is cooked to taste, 1 to 2 minutes per side (2 to 4 minutes in all) for well-done. Transfer to a platter.
+
+**5. Assemble and eat.**
+To eat, wrap a strip of beef off its skewer, a forkful of noodles, some basil, and some mint leaves and jalapeño slices (if using) in a lettuce leaf. Slide the skewer out — the lettuce leaf doubles as a pot holder for sliding the beef off. Dip the resulting bundle in the Thai Peanut Sauce, and then pop it into your mouth — the contrast of textures, temperatures, and flavors is dazzling.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Rice vermicelli, or substitute soba, angel hair pasta, or spaghetti
+- 🏪 Thai basil, if available
+
+**🛒 General grocery**
+
+- 🛒 Boneless sirloin beefsteak — 1 lb, or shell steak or New York strip
+- 🛒 Fresh basil — 1 bunch
+- 🛒 Fresh mint — 1 bunch, optional
+- 🛒 Jalapeño peppers — 2, optional
+- 🛒 Boston or Bibb lettuce — 1 head
+- Plus everything for [§4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade) — see its own grocery list
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,650 | 65 g | 105 g | 155 g | 6 g |
+| **Per serving** *(appetizer, serves 4)* | ~410 | 16 g | 26 g | 39 g | 1.5 g |
+| **Per serving** *(main course, serves 2–3)* | ~550–825 | 22–33 g | 35–52 g | 52–78 g | 2–3 g |
+
+**What a serving is:** as an appetizer, about 6 lettuce bundles with noodles and beef; as a main course, closer to half the batch. Thai Peanut Sauce is tracked separately once transcribed, not folded in here.
+
+#### Open Questions
+
+- **Thai Peanut Sauce (page 476)**, the dipping sauce this dish is built around — not yet transcribed or in this cookbook.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.76 Hamburgers with Herb Butter
+
+Transcribed from **Steven Raichlen's *How to Grill*** (p. 98–101), following its own "How to Grill the Perfect Hamburger" technique spread — same source and the same technique-plus-recipe pattern as [§6.8](#68-memphis-style-beef-ribs)/[§7.50](#750-asian-flavor-baby-back-ribs)/[§6.2](#62-pulled-pork).
+
+> **Per the source:** *"Chances are, if you're like most Americans, you dream of serving up smoky briskets and competition-quality ribs. But most of the time, when you fire up your grill, it's to cook a humble hamburger. Cooking a great burger has gotten harder in recent years, even though grills have become more sophisticated. The problem lies with the beef. When I was growing up, salmonella poisoning was a freak occurrence. Now, science and prudence dictate that you cook a hamburger to an internal temperature that is at least 160°F — in other words, until it's medium to medium-well done. Desperate times require desperate measures. Here's a burger quite unlike any you've probably ever tasted. In order to keep succulence in a fully cooked burger, I place a disk of herb butter in the center. The melting butter moistens the meat from the inside, so you can cook it through without drying it out."*
+
+> ⚠️ **Food safety, stated plainly by the source itself: ground beef must reach 160°F internally.** Unlike a whole steak, grinding redistributes any surface bacteria all the way through the meat, so a pink or rare burger center carries real salmonella risk. Use an instant-read thermometer inserted through the side of the patty into the center — that's what makes this recipe's whole premise work, since the melting herb butter is doing the moisture job that an undercooked center would otherwise be relied on for.
+
+> **Tips, per the source:**
+> - **The first secret to a great burger is a flavorful cut of meat.** Ground chuck is perfect. So is ground round — or for a classy touch, ground sirloin.
+> - **The second secret is fat.** Forget calorie counting when you make burgers; a succulent burger needs a fat content of 15 to 20 percent.
+> - **Handle the burger as little as possible.** A few pats to form it and envelop the butter — that's it. Excess handling bruises the meat.
+> - Round slices of pancetta (Italian bacon) are the perfect shape for putting on a burger.
+
+**Special equipment:** an instant-read meat thermometer
+
+**Yield:** serves 4
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10–14 min** · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+**For the hamburgers:**
+- 1½ lb ground sirloin, round, or chuck (15–20% fat)
+- 4 Tbsp Garlic-Herb Butter (page 450), cut into 4 half-inch-thick slices
+- Coarse salt and black pepper
+- 4 slices (2 to 3 oz) pancetta (Italian bacon; optional)
+- 4 slices white Cheddar cheese (optional)
+- 4 hamburger buns or kaiser rolls
+- 2 Tbsp melted butter
+
+**For the toppings (any or all):**
+- Bibb or red leaf lettuce leaves
+- Thin slices of raw or grilled sweet onion (page 380)
+- Sliced ripe red tomato
+- Mustard, ketchup, mayonnaise, relish, or whatever other condiment you may fancy
+
+#### B. Cooking Instructions
+
+**1. Form the patties around the butter.**
+Wet your hands with cold water and divide the ground beef into 4 portions. Pat each portion into a thick patty filled with a slice of herb butter — mold the beef around the butter to fully encase it, handling it as little as possible. Season with salt and pepper and refrigerate the burgers, covered, on a plate lined with plastic wrap while you preheat the grill.
+
+**2. Set up the grill for direct grilling and preheat to high.**
+Brush and oil the grill grate.
+
+**3. Grill the pancetta, if using.**
+Grill until golden brown, 2 to 3 minutes per side. Transfer to a plate lined with paper towels to drain.
+
+**4. Grill the burgers. 5 to 7 minutes per side for medium.**
+Place the burgers on the hot grate and season again with salt and pepper. Grill until cooked through, 5 to 7 minutes per side for medium. (If you like, rotate the burgers 90 degrees halfway through each side to create an attractive crosshatch of grill marks.) If using cheese and/or pancetta, place a slice of each on the burger after you've turned it — pancetta first. **To test for doneness, insert an instant-read meat thermometer through the side of the burger into the center — it must read at least 160°F.**
+
+**5. Toast the buns.**
+Brush the buns with the melted butter and toast them on the grill, 30 seconds to 1 minute.
+
+**6. Assemble.**
+On the bottom half of each bun, place a lettuce leaf, followed by a slice of onion and tomato. Top with the burger, the condiments of your choice, and the top half of the bun.
+
+> **Variations, per the source:** in the Balkans, burgers are made with a mixture of ground beef, veal, pork, and sometimes lamb, with a more extravagant spicing — diced onion, chopped parsley, cumin, paprika, and fresh dill. To make lamb burgers, use ground lamb in place of the beef; for lamb cheeseburgers, substitute goat cheese for the Cheddar.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Ground sirloin, round, or chuck — 1½ lb, 15–20% fat
+- 🏪 Pancetta — 4 slices (2 to 3 oz), optional
+
+**🛒 General grocery**
+
+- 🛒 White Cheddar cheese — 4 slices, optional
+- 🛒 Hamburger buns or kaiser rolls — 4
+- 🛒 Butter — 2 Tbsp melted, plus what's needed for the Garlic-Herb Butter
+- 🛒 Bibb or red leaf lettuce
+- 🛒 Sweet onion
+- 🛒 Ripe red tomato
+- 🛒 Mustard, ketchup, mayonnaise, relish, or other condiments to taste
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,400 | 220 g | 190 g | 160 g | 8 g |
+| **Per serving** *(serves 4, one burger fully dressed with bun, cheese, and pancetta)* | ~850 | 55 g | 48 g | 40 g | 2 g |
+
+**What a serving is:** one fully dressed burger on a bun, with cheese and pancetta if using.
+
+#### Open Questions
+
+- **Garlic-Herb Butter (page 450)** — the herb butter this recipe is built around, cited by name but not yet transcribed or in this cookbook. Once it arrives, it's also a candidate for [§T30 How to Use Fat](#t30-how-to-use-fat)'s existing "Used in" list.
+- **Sweet onion prep (page 380)** — referenced for the optional grilled-onion topping, not yet transcribed.
 
 [↑ Table of Contents](#table-of-contents)
 

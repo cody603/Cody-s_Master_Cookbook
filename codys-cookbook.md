@@ -291,6 +291,7 @@ Click any recipe to jump straight to it.
 - [9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) ✅
 - [9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) ✅
 - [9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) ✅
+- [9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -339,6 +340,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Added **[§9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich)** — transcribed from a printed cookbook page, ***Cooking Up a Storm*** (No. 344). A round Italian loaf hollowed and stuffed with mortadella, provolone, and salami, layered around a chilled Olive Salad (pimiento-stuffed olives, ripe olives, capers, anchovies, olive oil, lemon, parsley, garlic, oregano). **No heat anywhere — filed with Slow cook ~3–4 hr rather than Cook**, the same treatment as [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche): the 2–4 hr Olive Salad marinate and the 1+ hr post-assembly chill are both the method, not downtime around it. **Two servings figures kept as printed rather than reconciled** — the source's own header says "4 to 6 servings," its intro text says "four generous servings"; Nutrition uses 5 as the midpoint, same convention as [§8.20 Six-Onion Soup](#820-six-onion-soup). Flagged in the Nutrition note: the ⅔ cup of olive oil in the Olive Salad outweighs even the meat and cheese as the single biggest calorie driver. |
 | 2026-08-13 | **Seven new placeholders added from a dictated list, recipes and details still to come:** [§5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃, [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes), [§7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃, [§8.21 Five-Way Chili](#821-five-way-chili), [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits), [§14.7 Apple Nut Ring](#147-apple-nut-ring), and [§14.8 Blueberry Cobbler](#148-blueberry-cobbler) — the last kept separate from the existing [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) rather than merged in. **Three things resolved from a messy dictation rather than guessed:** a garbled "Half potatoes" immediately followed by "Heather's mashed potatoes" is read as a self-correction and written up as one entry, not two; "I forgot about stuffing" is read as circling back to Nana's Chicken and Dressing (already captured) rather than a distinct new item, since [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) already exists separately; and **a standalone "homemade biscuits" placeholder was explicitly retracted mid-dictation** ("Actually forget homemade biscuits") and was not added — [§10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) stays, since that's a paired dish named earlier and never retracted. **Cranberry Sauce's own description is self-contradictory and flagged rather than resolved**: called "homemade" but also *"I think they just follow the package, which is good"* — read as a package-back method, noted in the entry itself for Cody to confirm when the recipe comes in. |
 | 2026-08-13 | **New top-level section: [§16 Beverages](#16-beverages), numbered 16 and appended at the end (same reasoning as §14–§15) — this cookbook's first drink.** Added **[§16.1 Hot Apple Cider](#161-hot-apple-cider)**, transcribed from a handwritten card: a hot mulled cranberry-pineapple punch with whole cloves, allspice, and cinnamon sticks. **The card's own workaround for not having a percolator is kept as the method** — a big pot on the stove, brought to a boil then simmered 30–45 minutes — along with its explicit warning to strain the spices out right after cooking or the cider turns bitter. Rated 🟢 Easy. **A stray line of unrelated trivia-card text on the photographed page** ("In what year was the name 'University of Arkansas' adopted?") **was not part of the recipe and was left out of the transcription.** |
 | 2026-08-13 | **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers) filled in** — Cody's all-time top snack finally has its recipe, transcribed from a family note signed *"Love, Mom"* and addressed to Vickie, kept as written. Sausage, cream cheese, and Parmesan stuffed into 22 halved jalapeños and baked at 425°F. **Mom's own serving caveat kept as a callout**: these don't travel well once cooked, so bake at the serving location if possible, or warm 5 minutes before serving if not. Also carries her freeze-ahead tip — the stuffed, unbaked peppers can be frozen for later. Rated 🟢 Easy — browning sausage and baking to a visual doneness cue, nothing that can break. Added to the Difficulty & Time Index; the Table of Contents status flips from ○ to ✅. |
@@ -589,6 +591,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.86 Beurre Noir / Noisette (Brown Butter)](#486-beurre-noir--beurre-noisette-brown-butter-sauce) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
 | [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) | 🟢 | 20 min | — | **~2 hr** *(unattended oven roast, size-dependent)* | 2 hr 20 min |
+| [§9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) | 🟢 | 20 min | — | **~3–4 hr** *(Olive Salad marinate + sandwich chill, no heat)* | 3 hr 20 min – 5 hr 20 min |
 | [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§9.12 Potted Crab](#912-potted-crab) | 🟢 | 15 min | 5 min | — | 4 hr 20 min *(3+ hr chill, 1 hr temper)* |
 | [§4.59 Tonnato Sauce](#459-tonnato-sauce) 🔖 | 🟡 | 20 min | — | — | 20 min |
@@ -17205,6 +17208,85 @@ Rub the naan with garlic — smashed cloves, or garlic butter — and put it in 
 
 - **Does Vegeta belong in this?** The original dictation has a passage about mixing **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** with something, with feta and naan both mentioned in the same breath, but the sentence trails off. It might mean seasoning the naan with it, stirring it into the hummus, or seasoning feta as a separate spread on the platter. **Not written in, because it isn't clear.**
 - **Fresh feta on the platter.** Cody mentions wishing for fresh feta and says it can be found — it may belong on the [§7.59](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) platter as an additional spread alongside the goat cheese. Noted rather than assumed. *(Distinct from [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was explicit that feta is **not** wanted.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.22 Tailgate Muffuletta Sandwich
+
+Transcribed from a printed cookbook page — ***Cooking Up a Storm***, No. 344. *"The muffuletta has been a favorite New Orleans sandwich since the early 1900s. It was created by Sicilians and named after the round loaf on which it is made. One muffuletta makes four generous servings, and is ideal for tailgating."*
+
+**Yield:** makes 4 to 6 servings *(the source's own header says 4–6; its intro text says "four generous servings" — both given as printed rather than reconciled)*
+
+**🟢 Easy** · **Prep ~20 min** · **Cook none** *(no heat at all)* · **Slow cook ~3–5 hr** *(2–4 hr marinating the Olive Salad, then at least 1 hr chilling the built sandwich — the waiting melds the flavors and lets it compress)* · **Start to finish ~3 hr 20 min – 5 hr 20 min**
+
+#### A. Ingredients
+
+**Olive Salad**
+
+- 1½ cups chopped pimiento-stuffed olives
+- 1 cup chopped ripe olives
+- 2 Tbsp capers, drained
+- 3 anchovies, drained and chopped
+- ⅔ cup olive oil
+- 1½ Tbsp fresh lemon juice
+- ½ cup chopped parsley
+- 2 garlic cloves, minced
+- 1 tsp dried oregano leaves
+
+**Sandwich**
+
+- 1 round loaf Italian bread (8 to 10 inches in diameter)
+- ⅔ lb mortadella, thinly sliced
+- ⅔ lb provolone cheese, thinly sliced
+- ⅔ lb Italian salami, thinly sliced
+
+#### B. Cooking Instructions
+
+**1. Make the Olive Salad. Chill 2–4 hours.**
+Combine the pimiento-stuffed olives, ripe olives, capers, anchovies, olive oil, lemon juice, parsley, garlic, and oregano in a bowl. Cover and refrigerate for 2 to 4 hours — the salad needs the time for the flavors to come together, and it throws off an oily marinade you'll use on the bread.
+
+**2. Hollow out the bread.**
+Cut the loaf in half horizontally. Remove some of the soft inside from both the top and bottom, leaving a ¾-inch-thick shell on each half.
+
+**3. Brush both shells with the marinade.**
+Brush the inside of the top and bottom shells with the marinade that's collected at the bottom of the Olive Salad bowl.
+
+**4. Layer the sandwich.**
+Stir the Olive Salad to blend it back together, then spoon half onto the bottom bread shell. Arrange the mortadella slices over the Olive Salad, then layer in the provolone and salami. Mound the remaining Olive Salad on top and cover with the top shell.
+
+**5. Wrap and chill. At least 1 hour.**
+Wrap the sandwich tightly in plastic wrap and refrigerate for at least an hour — this lets it compress and the layers set.
+
+**6. Cut into wedges and serve.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pimiento-stuffed olives — 1½ cups, chopped
+- 🛒 Ripe (black) olives — 1 cup, chopped
+- 🛒 Capers — 2 Tbsp
+- 🛒 Anchovies — 3
+- 🛒 Olive oil — ⅔ cup
+- 🛒 Fresh lemon juice — 1½ Tbsp
+- 🛒 Fresh parsley — ½ cup, chopped
+- 🛒 Garlic — 2 cloves
+- 🛒 Dried oregano leaves — 1 tsp
+- 🛒 Round Italian bread loaf (8–10 in diameter) — 1
+- 🛒 Mortadella, thinly sliced — ⅔ lb
+- 🛒 Provolone cheese, thinly sliced — ⅔ lb
+- 🛒 Italian salami, thinly sliced — ⅔ lb
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole sandwich** | ~6,290 | 454 g | 237 g | 305 g | 23 g |
+| **Per serving** *(serves 5, midpoint of the printed 4–6)* | ~1,260 | 91 g | 47 g | 61 g | 5 g |
+
+**What a serving is:** one generous wedge — about a fifth of the loaf. *The ⅔ cup of olive oil in the Olive Salad is the single biggest calorie driver, ahead of even the meat and cheese — this is a rich, oil-heavy sandwich built to feed a tailgate table, not a light lunch.*
 
 [↑ Table of Contents](#table-of-contents)
 

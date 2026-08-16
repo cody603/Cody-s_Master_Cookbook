@@ -190,6 +190,8 @@ Click any recipe to jump straight to it.
 - [6.3 Smoked Whole Hen](#63-smoked-whole-hen) ○ ❤️
 - [6.4 Smoked Steak](#64-smoked-steak) ○ ❤️
 - [6.5 Smoked Ribs](#65-smoked-ribs) ○
+- [6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) ✅ *(distinct from [§6.2](#62-pulled-pork) — see the comparison table)*
+- [6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) ✅ *(rub & dry brine endorsed by Cody; his own smoking method still to come at [§6.1](#61-smoked-brisket))*
 
 **[7. Mains & Proteins](#7-mains--proteins)**
 
@@ -390,6 +392,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **§6 Smoked Meats gets its second and third real recipes** — both from the same Raichlen book as [§5.33](#533-quick-and-smoky-baked-beans), both kept separate from what was already there rather than merged. **[§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version)** (p. 175–176, credited to Elizabeth Karmel of Greensboro) is **not** a duplicate of [§6.2 Pulled Pork](#62-pulled-pork), and the entry carries a comparison table saying exactly how: §6.2 mops hourly with a vinegar/onion/jalapeño mop and §6.6 uses **no mop at all**; §6.6's rub is its own 9-spice blend and is **optional**, with a salt-and-pepper-only path that starts cooking immediately; and §6.6 pins the charcoal fire at **300°F** where §6.2 just says medium-low. Same 195°F target and 4–6 hours in both. **[§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** carries two hard warnings from the source, both worth having: buy the brisket **untrimmed with a ¼–½ inch fat cap** or it comes out too dry, and use **charcoal or a smoker, not gas** — a stricter line than the same book draws for its pulled pork. **Cody's read on the brisket is recorded as a split, not a blanket endorsement:** he signs off on the seasoning and the 4–8 hour dry brine — *"it's all real good"* — but says he has his own smoking technique coming later, so the entry marks Steps 1–2 as endorsed and Steps 3–5 as the book's method. **[§6.1 Smoked Brisket](#61-smoked-brisket) stays open** for his version, and its placeholder now says the rub and cure are already unblocked by §6.7 while only the fire is still missing. **Three loose ends flagged in §6.7's Open Questions:** no serving count is printed; the Basic Barbecue Sauce (source p. 463) that forms half the "Texas Way" sauce formula isn't in this cookbook; and the sidebar cites a North Carolina Vinegar Sauce at p. 466, a different page from the one transcribed at [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) — possibly the same recipe reprinted, possibly a third version, not assumed either way. |
 | 2026-08-13 | **Two more from the same Raichlen book — and a duplicate caught before it got made.** Added **[§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido)** (Central America, p. 443) — a no-cook refrigerator pickle, everything raw into vinegar for at least a day, with the source's own tip to lay plastic wrap between jar and lid so the vinegar doesn't corrode the metal. Cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid) as macerating scaled up, and to [§4.5 Pickled Pink Onions](#45-pickled-pink-onions). Also added **[§4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style)**. **§4.91 is deliberately kept separate from the existing [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) rather than merged** — same author, same region, genuinely different formula, so the entry carries a side-by-side comparison table: §4.91 makes ~4 cups against §4.36's ~2¼, is cut with 1⅓ cups water where §4.36 uses none, runs far heavier on ketchup (½ cup + 2 Tbsp vs. 3 Tbsp), adds white pepper, and drops the Tabasco. Sharper and concentrated versus milder and more tomatoey — both worth having. **The North Carolina coleslaw on the same page was *not* added as a new entry, because it's the same recipe already at [§5.13](#513-north-carolina-coleslaw)** — cabbage plus 1 cup vinegar sauce, both printings. That entry was updated instead, folding in what the newer version actually adds: optional salt, a **10-minute stand before the final seasoning check** (taste it immediately and you'll overdress it), a mandoline as an alternative to the food processor, and the source's own framing — *"No onions. No carrots. No peppers. No mayonnaise."* Its ingredient line now offers both vinegar sauces as a real choice, since §4.91 makes a gentler slaw and §4.36 a punchier one. |
 | 2026-08-13 | **Three from a *Rice, Beans, and Beyond* chapter — and a new Steven Raichlen book, distinct from the *How to Grill* already in this cookbook.** This one tags recipes by country of origin and uses *Special Equipment* / *Advance Preparation* headers that *How to Grill* doesn't, so it's a different title: **most likely *The Barbecue! Bible* or *Planet Barbecue*, given as an educated guess rather than asserted**, same practice as [§13 Meathead Cookbook](#13-meathead-cookbook) — the name gets stated when a title page confirms it, not before. Added **[§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)** (U.S.A. — canned beans smoke-roasted 30 minutes on the grill, filed Slow cook like [§T15](#t15-how-to-barbecue-cabbage) and [§7.50](#750-asian-flavor-baby-back-ribs)), **[§5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](#534-brazilian-black-beans-with-bacon-tutu-mineira)** (Brazil — half the beans mashed in the skillet, thickened with manioc flour, no grill involved), and **[§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill)** (England). **§15.7 is filed in Breads rather than with the sides** — it's a flour-egg-milk batter baked into a bread, so it belongs beside [§15.2 Butter Dips](#152-butter-dips) and the biscuits even though it's served with a roast; rated 🟡 Medium because the puff genuinely fails if the batter isn't ice-cold, the pan isn't smoking, or you open the lid to peek. **§5.33 got a callout worth having:** its ketchup, vinegar, and molasses go straight onto the beans, which looks like it violates [§T31 How to Use Acid](#t31-how-to-use-acid)'s firm-keeping rule — it doesn't, because canned beans are *already cooked soft* before any acid touches them. That's the loophole the rule allows, and it's the fast path to the same place [§7.16 Red Beans & Rice](#716-red-beans--rice) reaches the long way. |
 | 2026-08-13 | **Added [§T31 How to Use Acid](#t31-how-to-use-acid) — the trio is complete.** [§T29 Salt](#t29-how-to-salt), [§T30 Fat](#t30-how-to-use-fat), and now §T31 Acid, all from the same source, all cross-linked to each other, with the one-line summary that ties them together now sitting on all three: **salt to enhance, fat to carry, acid to balance.** Covers what acid actually does (it doesn't make food sour, it makes food *clearer*), the lemonade lesson on balancing versus removing, where acid hides in ordinary ingredients, matching the acid to the cuisine, cooking acids versus garnishing acids, macerating raw onion, how acid changes color and texture, the tenderize-then-toughen curve on meat and fish, homemade crème fraîche, browning and fermentation as ways to *make* acid, and umami as the fourth tool. **Two things this entry explains about recipes already in the cookbook, rather than just stating in the abstract:** [§7.16 Red Beans & Rice](#716-red-beans--rice) holds its tomato sauce and vinegar until Step 5, after 2½ hours of simmering — and acid's firm-keeping effect on beans is exactly *why* that ordering isn't optional, flagged in-place as a callout; and [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche)'s 36–48 hour lime cure is the acid-toughens-fish rule taken to its endpoint deliberately, which is why that timing is so specific and can't be shortened. Also wired to [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) (macerating as a recipe), [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese) (the four-acids-at-once example), [§5.13 Coleslaw](#513-north-carolina-coleslaw)/[§4.36 NC Vinegar Sauce](#436-north-carolina-vinegar-sauce) (acid steering a dish regional), and [§4.6 Sour Kraut](#46-no-heat-sour-kraut)/[§5.26 Pickled Okra](#526-pickled-okra)/[§T21 Preserved Lemons](#t21-preserved-lemons-meyer-or-regular) (the fermented corner). Note that the Caesar dressing example now does double duty — [§T29](#t29-how-to-salt) uses it to teach salt layering, §T31 uses the same dressing to teach acid layering. |
@@ -691,6 +694,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) | 🔴 | 20 min | 5 min | — | 2 hr 25 min *(includes an assumed ~2 hr chill)* |
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
+| [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) | 🟢 | 20 min | — | **4–6 hr** *(indirect grill at 300°F)* | 4¾–6¾ hr *(+ optional 3–8 hr rub cure)* |
+| [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) | 🟢 | 15 min | — | **6–8 hr** *(indirect charcoal, low)* | 6½–8½ hr *(+ optional 4–8 hr cure)* |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
 | [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) | 🟡 | 15 min | 15 min | — | 30 min *(+ 30 min–2 hr marinate)* |
@@ -11111,7 +11116,9 @@ Taste and adjust salt, pepper, and hot sauce. Sprinkle with the chopped eggs and
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
 
 ### 6.1 Smoked Brisket
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **What's still needed is Cody's own smoking method** — wood, temp, wrap or no wrap, time and doneness cues. He's said there are several ways he does it and he'll walk through them later.
+>
+> **Partly unblocked, though: the rub and the dry brine can come from [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket).** Cody read that recipe's seasoning and 4–8 hour cure and signed off on both — *"the seasoning and letting it dry brine is OK, it's all real good"* — while noting his smoking technique differs. So §6.7's Steps 1–2 are usable here today; only the fire is still open.
 
 **❤️ Family favorite** — *Cody: "Awesome."*
 
@@ -11222,6 +11229,200 @@ Mound the pork on hamburger buns and top with coleslaw. Serve any remaining vine
 
 ### 6.5 Smoked Ribs
 > *Placeholder — details forthcoming.* The marinade step is documented at **[§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)** — dry brine or apple cider vinegar and lemon juice, scaled by rack count. **Still needed to complete this recipe:** the rub (if any, beyond or instead of the dry brine), wood choice, smoker temp, and time/doneness cues. Ingredients · Instructions · Grocery list all to be documented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 6.6 North Carolina Pulled Pork (Karmel Version)
+
+Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) (p. 175–176), from its *High on Hog* chapter, tagged **U.S.A.** and credited by the author to **Elizabeth Karmel of Greensboro, North Carolina** — *"my friend and barbecue buddy… makes some of the best pork shoulder I've ever tasted."*
+
+> ⚠️ **This is NOT a duplicate of [§6.2 Pulled Pork](#62-pulled-pork) — same author, same dish, different book, meaningfully different method.** Both are kept, same as [§4.36](#436-north-carolina-vinegar-sauce)/[§4.91 Vinegar Sauce](#491-vinegar-sauce-eastern-north-carolina-diluted-style). What actually differs:
+>
+> | | [§6.2](#62-pulled-pork) *(How to Grill)* | §6.6 *(this one)* |
+> |---|---|---|
+> | **Mop sauce** | **yes** — basted hourly with a vinegar/onion/jalapeño mop | **none at all** |
+> | **Rub** | [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub), always | its own 9-spice rub, and **optional** |
+> | **No-rub option** | — | **yes** — just coarse salt and pepper, start cooking immediately |
+> | **Rub cure** | up to 24 hr | 3 to 8 hr |
+> | **Charcoal temp** | medium-low *(unstated °F)* | **300°F**, vents adjusted |
+> | **Shred size** | not specified | 2 in long, ⅛–¼ in wide |
+>
+> **In short:** §6.2 is the mopped version; §6.6 is the hands-off version with a better-specified fire. Same 195°F target, same 4–6 hours, same yield.
+
+> **Per the source, on why 195°F:** *"Her secret is to cook the pork to an internal temperature of 195°F — higher than is recommended by most books. But this is the temperature needed for the pork to separate easily into the fine, moist, tender shreds characteristic of true Carolina barbecue."*
+
+**Yield:** serves 10 to 12 *(as printed)*
+
+**Advance preparation:** 3 to 8 hours for the optional rub cure, plus 4 to 6 hours of cooking time.
+
+> **You'll need:** 6 cups hickory chips or chunks, soaked 1 hour in cold water and drained. Rubber or plastic gloves for applying the rub and pulling the hot pork.
+
+**🟢 Easy** *(long, but nothing here can fail on you — same reasoning as [§6.2](#62-pulled-pork) and [§1 Cody's Pho](#1-codys-pho))* · **Prep ~20 min** · **Slow cook 4–6 hr** *(indirect grill at 300°F)* · **Start to finish ~4 hr 45 min – 6 hr 45 min** *(plus the optional 3–8 hr rub cure)*
+
+**Techniques used:** indirect grilling · [§T29 How to Salt](#t29-how-to-salt) — *the optional 3–8 hr rub cure is that entry's "a day ahead / hours ahead" timing rule applied to a big cut*
+
+#### A. Ingredients
+
+**For the rub (optional)**
+
+- 1 Tbsp mild paprika
+- 2 tsp light brown sugar
+- 1½ tsp hot paprika
+- ½ tsp celery salt
+- ½ tsp garlic salt
+- ½ tsp dry mustard
+- ½ tsp freshly ground black pepper
+- ½ tsp onion powder
+- ¼ tsp salt
+
+**For the barbecue**
+
+- 1 Boston butt (bone-in pork shoulder roast; 5 to 6 lb), covered with a thick (¼ inch) layer of fat
+- [§4.91 Vinegar Sauce](#491-vinegar-sauce-eastern-north-carolina-diluted-style) — *the source's own pairing; [§4.36](#436-north-carolina-vinegar-sauce) also works and runs sharper*
+- 10 to 12 hamburger buns
+- [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)
+
+> **Per the source, on the cut:** *"A true pork shoulder includes both the Boston butt (the upper part of the shoulder blade) and the picnic ham (the actual foreleg), a cut of meat that weighs fourteen to eighteen pounds and is used chiefly at professional barbecue competitions. The recipe here calls for Boston butt alone (five to six pounds), which gives you superb barbecue, thanks to its generous marbling."*
+
+#### B. Cooking Instructions
+
+**1. Rub and cure — or skip it and go straight to the fire.**
+*If using the rub:* combine the mild paprika, brown sugar, hot paprika, celery salt, garlic salt, dry mustard, black pepper, onion powder, and salt, and toss with your fingers to mix. Wearing gloves if you like, rub the mixture over the pork on all sides, cover with plastic wrap, and refrigerate **at least 3 hours, preferably 8**.
+*If not using the rub:* season the pork generously all over with coarse (kosher or sea) salt and freshly ground black pepper — you can start cooking immediately.
+
+**2. Set up the grill for indirect grilling and place a drip pan in the center.**
+
+**3. Get the fire and smoke going.**
+*For gas:* put all the wood chips in the smoker box and preheat to high; when smoke appears, reduce to medium. *For charcoal:* preheat to medium and **adjust the vents to hold 300°F**.
+
+**4. Smoke-cook to 195°F. 4 to 6 hours.**
+If using charcoal, toss 1 cup of wood chips on the coals. Place the pork **fat side up** on the hot grate over the drip pan, cover the grill, and cook until fall-off-the-bone tender and the internal temperature reaches **195°F**. Time depends on the size of the roast and the heat of the grill. With charcoal, add 10 to 12 fresh coals per side every hour and about ½ cup more wood chips per side each time you replenish. With gas, just start with a full tank. **If the pork begins to brown too much, drape foil loosely over it or lower the heat.**
+
+**5. Rest. 15 minutes.**
+Transfer to a cutting board and tent loosely with foil.
+
+**6. Pull the pork.**
+Wearing heavy-duty gloves, pull off and discard the skin, then pull the meat into pieces, discarding bones and fat. Using your fingertips or a fork, pull each piece into shreds about **2 inches long and ⅛ to ¼ inch wide**. *Per the source: "This requires time and patience, but a human touch is needed to achieve perfect texture. If patience isn't one of your virtues (many respected North Carolina barbecue joints serve chopped 'cue), you can finely chop the pork with a cleaver."*
+
+**7. Sauce and hold warm. Up to 30 minutes.**
+Transfer the shredded pork to a nonreactive roasting pan and stir in **1 to 1½ cups of the vinegar sauce** — enough to keep it moist. Cover with foil and set it back on the grill to keep warm.
+
+**8. Build the sandwiches.**
+Mound the pork on buns and top with coleslaw. Let each person add more vinegar sauce to taste.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Boston butt (bone-in pork shoulder roast) — 5 to 6 lb, **with a thick ¼-inch fat cap**
+
+**🛒 General grocery**
+
+- 🛒 Mild paprika — 1 Tbsp · 🛒 Hot paprika — 1½ tsp
+- 🛒 Light brown sugar — 2 tsp
+- 🛒 Celery salt · 🛒 Garlic salt · 🛒 Onion powder · 🛒 Dry mustard
+- 🛒 Coarse salt (kosher or sea), black pepper
+- 🛒 Hamburger buns — 10 to 12
+- 🛒 Hickory chips or chunks — 6 cups
+- 🛒 *Plus everything for [§4.91 Vinegar Sauce](#491-vinegar-sauce-eastern-north-carolina-diluted-style) and [§5.13 Coleslaw](#513-north-carolina-coleslaw)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(pork and buns, sauced)* | ~7,900 | 430 g | 545 g | 420 g | 18 g |
+| **Per serving** *(serves 11, midpoint of the printed 10–12)* | ~720 | 39 g | 50 g | 38 g | 1.6 g |
+
+**What a serving is:** one sandwich — a generous mound of pulled pork on a bun with coleslaw. *Counts the meat as eaten after rendering and after skin and fat are discarded, not the raw weight; the coleslaw is tracked separately at [§5.13](#513-north-carolina-coleslaw).*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 6.7 Texas-Style Smoked Brisket
+
+Transcribed from the same **Steven Raichlen** book as [§6.6](#66-north-carolina-pulled-pork-karmel-version), from its *What's Your Beef?* chapter. A salt-chili-cumin rubbed brisket, smoked fat-side-up in a foil pan so it bastes in its own juices.
+
+> **📌 Per Cody, on what to take from this recipe and what not to.** He endorses **the seasoning and the dry brine** — *"the seasoning and letting it dry brine is OK, it's all real good."* But **he has his own smoking technique that differs from this one, and it's coming later**: *"there are different ways to cook this brisket, and I'll provide those different ways at a later time… got a different technique on smoking meats."* So treat Steps 1–2 below as endorsed, and Steps 3–5 as this book's method rather than the house method. **[§6.1 Smoked Brisket](#61-smoked-brisket) stays open** as the placeholder for Cody's own version.
+
+> ⚠️ **Buy the right brisket or don't bother — the source is blunt about this.** *"Do not attempt to make this with a trimmed, fatless brisket; it will turn out much too dry."* You want it **untrimmed, with a thick sheath of fat** — at least ¼ inch, preferably ½ inch. A whole packer brisket runs 18 to 20 lb; this recipe uses a 5-to-6-lb piece.
+
+> ⚠️ **Charcoal or a smoker only — not gas.** Per the source: *"To achieve the requisite smoke flavor, you need to smoke the brisket in a charcoal grill — or in a smoker. A gas grill will not produce enough smoke."* This is a harder line than the same book draws for [§6.6](#66-north-carolina-pulled-pork-karmel-version), where gas is explicitly allowed.
+
+**Yield:** not stated; a 5–6 lb brisket, estimated to serve 8, flagged below.
+
+**Advance preparation:** 4 to 8 hours for curing the meat (optional), plus about 6 hours of cooking time.
+
+> **You'll need:** 6 cups hickory or mesquite chips or chunks, soaked 1 hour in cold water and drained. An aluminum foil pan, or a pan made from a double sheet of heavy-duty foil.
+
+**🟢 Easy** *(long and demanding of attention every hour, but no step turns from perfect to ruined — the [§1 Cody's Pho](#1-codys-pho) reasoning again. The real risk here is a shopping mistake, not a technique failure: see the trimmed-brisket warning above)* · **Prep ~15 min** · **Slow cook 6–8 hr** *(indirect charcoal, low)* · **Start to finish ~6 hr 30 min – 8 hr 30 min** *(plus the optional 4–8 hr cure)*
+
+**Techniques used:** indirect grilling · [§T29 How to Salt](#t29-how-to-salt) — *the 4-to-8-hour cure is that entry's dry-brine timing on a big, dense cut, and it's the part Cody signs off on*
+
+#### A. Ingredients
+
+- 1 beef brisket (5 to 6 lb), with a layer of fat at least ¼ inch thick, preferably ½ inch
+- 1 Tbsp coarse salt (kosher or sea)
+- 1 Tbsp chili powder
+- 2 tsp sugar
+- 1 tsp freshly ground black pepper
+- 1 tsp ground cumin
+
+#### B. Cooking Instructions
+
+**1. Rinse and dry the brisket.**
+Under cold running water, then blot dry with paper towels.
+
+**2. Mix the rub and apply it. Cure 4–8 hours if you have time.**
+Combine the salt, chili powder, sugar, black pepper, and cumin in a bowl and toss with your fingers to mix. Rub over the brisket on all sides. Wrap in plastic and refrigerate **4 to 8 hours, or even overnight**. *Per the source: don't worry if you don't have time — it'll be plenty flavorful cooked right away.* **This step and Step 1 are the parts Cody endorses.**
+
+**3. Set up a charcoal grill for indirect grilling and preheat to low.**
+No drip pan needed — the foil pan does that job.
+
+**4. Get the brisket in the pan and the smoke going.**
+Toss 1½ cups of wood chips on the coals (¾ cup per side). Place the brisket **fat side up** in an aluminum foil pan. Set the pan in the center of the hot grate, away from the heat, and cover the grill.
+
+**5. Smoke-cook 6 to 8 hours, basting and refueling hourly.**
+Cook until tender enough to shred with your fingers — 6 hours will likely do it, but it may take as long as 8, depending on brisket size and grill heat. **Baste from time to time with the fat and juices collecting in the pan** — that's what the pan is for. Add 10 to 12 fresh coals per side every hour, and toss about ¾ cup more wood chips per side each time you replenish, **for the first 3 hours only**.
+
+**6. Rest 15 minutes, then slice across the grain.**
+Take the pan off the grill and let the brisket rest in it. Transfer to a cutting board and slice thinly **across the grain** with a sharp knife, electric knife, or cleaver. Move to a platter, pour the pan juices over the top, and serve at once.
+
+> **Barbecue Sauce, the Texas Way — the source's own sidebar formula:** *"The best Texas-style barbecue sauce combines the sweetness of Kansas City–style tomato sauces with the mouth-puckering tartness of a North Carolina vinegar sauce."* His version is **equal parts Basic Barbecue Sauce and North Carolina Vinegar Sauce**. For a really good sauce, add some meat drippings or a little chopped brisket. *(The vinegar half is [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) or [§4.36](#436-north-carolina-vinegar-sauce); the Basic Barbecue Sauce half isn't in this cookbook yet — see Open Questions.)*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef brisket — 5 to 6 lb, **untrimmed, fat cap at least ¼ inch and preferably ½ inch thick**
+
+**🛒 General grocery**
+
+- 🛒 Coarse salt (kosher or sea) — 1 Tbsp
+- 🛒 Chili powder — 1 Tbsp
+- 🛒 Sugar — 2 tsp
+- 🛒 Black pepper — 1 tsp
+- 🛒 Ground cumin — 1 tsp
+- 🛒 Hickory or mesquite chips or chunks — 6 cups
+- 🛒 Aluminum foil pan, or heavy-duty foil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole brisket** | ~5,300 | 380 g | 450 g | 12 g | 3 g |
+| **Per serving** *(estimated 8 servings)* | ~660 | 47 g | 56 g | 1.5 g | <1 g |
+
+**What a serving is:** several thin slices across the grain, about 8 oz of cooked meat, with pan juices spooned over. *Counts the meat as eaten after rendering — a good deal of that thick fat cap renders off into the pan and doesn't land on the plate, though the basting puts some of it back.*
+
+#### D. Open Questions
+
+- **No serving count given** — 8 is Claude's estimate from a 5–6 lb brisket.
+- **The Basic Barbecue Sauce (source p. 463) referenced in the Texas Way sidebar isn't in this cookbook.** Half the sauce formula is therefore unmakeable as written; worth photographing if Cody wants that sauce.
+- **The sidebar cites "North Carolina Vinegar Sauce (page 466)," which is a different page from the Vinegar Sauce transcribed at [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style)** (that one sits in the *High on Hog* chapter, around p. 177). It may be the same recipe reprinted in the sauces chapter, or a third version. **Not assumed either way** — same caution as the §4.36/§4.91 split.
+- **Cody's own brisket smoking method is still to come** — see the note at the top of this entry and the open [§6.1 Smoked Brisket](#61-smoked-brisket) placeholder.
 
 [↑ Table of Contents](#table-of-contents)
 

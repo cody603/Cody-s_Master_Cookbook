@@ -171,6 +171,7 @@ Click any recipe to jump straight to it.
 - [5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ✅ ❤️
 - [5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃 ○
 - [5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ○
+- [5.26 Pickled Okra](#526-pickled-okra) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -359,6 +360,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Added **[§5.26 Pickled Okra](#526-pickled-okra)** — transcribed from a printed page, ***Talk About Good!*** (p. 57), credited to **Mrs. Pauline L. Sibille, Lake Providence, La.** The seasoning is given **per pint jar** rather than as one fixed batch, kept that way rather than forced into a single scaled recipe. Filed as **Slow cook 2–3 weeks**, the source's own stated pickling time. **Carries the same kind of canning-safety caution as [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut):** the source says "seal" but never mentions a boiling water bath for the filled jars, so it's written up as safest treated as a refrigerator pickle rather than assumed shelf-stable, flagged for Cody to confirm against the source's actual canning practice. |
 | 2026-08-13 | **Two Crawfish Pies added, and [§T1](#t1-how-to-make-a-roux)'s "taree" mystery is solved.** **[§7.65 Crawfish Pie I](#765-crawfish-pie-i)** (Mrs. Carmen Montegut — the same contributor behind [§T1](#t1-how-to-make-a-roux)'s Margarine Roux) turned out to use the exact same word again, this time with the source's own gloss right next to it: *"Add 3 cups water—'Taree' (simmer)."* **"Taree" is Montegut's own term for a long simmer** — not a mistranscription, not filé, just her word for it. [§T1](#t1-how-to-make-a-roux)'s Open Question is updated to say so rather than left hanging. §7.65 is rated 🟡 Medium and carries a genuine **Slow cook ~2½ hr** — the "taree" itself, mostly unattended — the first time this cookbook has used the word as a real duration rather than an unresolved flag. Also added **[§7.66 Crawfish Pie II](#766-crawfish-pie-ii)** (Lee Broussard), a fast canned-soup version with no roux at all, kept as its own entry rather than merged into §7.65 — genuinely different technique, same dish. Its garlic powder measurement is transcribed as printed and rare for this cookbook: *"⅛ bottle garlic powder (1¼ oz. size)"* — a fraction of a spice bottle rather than a spoon measure, with roughly 1 tsp added in parentheses as a practical read. |
 | 2026-08-13 | **Six more from *Talk About Good!*, from a page of crab and eggplant dishes — three per Cody's own split.** Kept: **[§7.62 Catfish Étouffée](#762-catfish-étouffée)** (Mrs. E. A. Veillon, Eunice, La.) — an unstirred étouffée, rated 🟡 Medium on the technique itself rather than a roux, since the source is blunt that stirring (instead of shaking the pot) breaks the fish; **[§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing)** (Wanda Frey); **[§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant)** (Mrs. James P. Williams, serves 6 as printed); **[§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs)** (Felecia Daigle Broussard); **[§9.24 Crab Marie](#924-crab-marie)** (Mrs. Emmons Sebenius, a whole stuffed artichoke in cream sauce, 🟡 Medium on the same cream-sauce reasoning as [§4.63 Béchamel](#463-sauce-béchamel--sauce-velouté-master-white-sauce)); and **[§9.25 Crabmeat Imperial](#925-crabmeat-imperial)** (Elsie LeBlanc, serves 8 as printed, no cooking beyond a short bake). **Per Cody, explicitly left out of the cookbook from the same page:** Bell Peppers Stuffed with Crab-Eggplant Dressing, Stuffed Bell Peppers, and Crabmeat Sycamore. §7.63's entry notes the skipped stuffed-pepper variation exists on the same source page, in case Cody wants it later. Split three to §7 Mains (substantial enough to be a main course) and three to §9 Snacks & Light Meals (composed shellfish appetizers, same shelf as [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) and [§9.10 Crabmeat Avery](#910-crabmeat-avery)). Two source gaps flagged rather than smoothed over: Fresh Stuffed Crabs' "a little butter" and Crab and Eggplant Dressing's "or ham" substitute both appear in the instructions but not either source's own ingredient list. |
 | 2026-08-13 | **Three more from *Talk About Good!*:** **[§8.30 Turtle Soup I](#830-turtle-soup-i)** (Dr. J. J. Burdin) and **[§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone)** (Mrs. Helen M. Hayes), plus **[§7.61 Broiled Fish](#761-broiled-fish)** (Sarah Beacham, p. 171). The two turtle soups are genuinely different techniques kept side by side rather than merged: §8.30 thickens with mashed hard-boiled egg yolks and no roux at all (🟢 Easy — nothing here can curdle or burn), while §8.31 uses a light roux built right in the sautéed onions and celery (🟡 Medium, same reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy)) and is named for the Hotel Monteleone's well-known version. **§7.61 Broiled Fish rated 🟡 Medium on the strength of the source's own warning** — *"fish burns quickly"* under a broiler — a real, fast failure mode rather than a forgiving one; its four optional finishing variations (onion, tomato, browned almonds, or a garlic-butter sauce) are transcribed but not counted in Nutrition, since they're interchangeable extras. **One attribution flagged rather than assumed:** "Martha Paggi" appears above §8.30's title on the photographed page, read as a running header carried over from the previous recipe rather than this one's author, since the recipe itself is clearly signed by Dr. J. J. Burdin. |
@@ -683,6 +685,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | 🟡 | 20 min | 20 min | — | 2 hr 50 min *(2 hr brine)* |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
+| [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) | 🟢 | 10 min | 35 min | — | 45 min |
@@ -9698,6 +9701,77 @@ Shake the vinaigrette again and add it just before serving. Romaine holds up bet
 
 ### 5.25 Heather's Mashed Potatoes
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.26 Pickled Okra
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 57), credited to **Mrs. Pauline L. Sibille, Lake Providence, La.** A hot-brine pickle, seasoned per pint rather than as one fixed batch.
+
+**Yield:** the seasoning list is **per pint jar** — scale up by the number of jars you're packing.
+
+**🟢 Easy** · **Prep ~20 min** *(washing the okra, sterilizing jars, measuring seasoning — separate from the 1 hr ice-water soak below)* · **Cook ~10 min** *(bringing the vinegar and water to a boil)* · **Slow cook 2–3 weeks** *(pickling in the sealed jar — the source's own stated time to pickle properly)* · **Start to finish 2–3 weeks** *(plus a 1 hr ice-water soak before packing)*
+
+> ⚠️ **Read before canning shelf-stable.** The source says "seal" but never mentions processing the filled jars in a boiling water bath afterward, which is the standard extra step for shelf-stable home-canned pickles. As written, this is safest treated as a **refrigerator pickle** — sealed and kept cold — rather than assumed pantry-stable, unless Cody confirms the source's canning practice included a water-bath step it just didn't print.
+
+#### A. Ingredients
+
+- Small okra, enough to fill your jars
+- Ice water, for soaking
+
+**Per pint:**
+
+- 1 tsp red pepper
+- 1 tsp celery salt
+- 1 tsp mustard seed
+- 1 tsp dill seed
+- 2 tsp salt (not iodized)
+- 1 cup white vinegar
+- ¼ cup water
+- 3 cloves garlic
+
+#### B. Cooking Instructions
+
+**1. Wash the okra and soak. 1 hour.**
+Use small okra. Wash it, then soak in ice water for one hour.
+
+**2. Pack the jars.**
+Pack the okra into sterilized pint jars.
+
+**3. Boil the vinegar and water.**
+Heat the water and vinegar together and bring to a boil.
+
+**4. Season, then fill the jars.**
+Put the seasoning (red pepper, celery salt, mustard seed, dill seed, salt, and garlic) over the okra in each jar. Pour the hot vinegar-and-water mixture into the jars.
+
+**5. Seal.**
+
+**6. Let it pickle. 2 to 3 weeks.**
+This is how long it takes to pickle properly — don't rush into the jar early.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Small okra
+- 🛒 Red pepper — 1 tsp per pint
+- 🛒 Celery salt — 1 tsp per pint
+- 🛒 Mustard seed — 1 tsp per pint
+- 🛒 Dill seed — 1 tsp per pint
+- 🛒 Salt, not iodized — 2 tsp per pint
+- 🛒 White vinegar — 1 cup per pint
+- 🛒 Garlic — 3 cloves per pint
+
+#### Nutrition *(estimated, per pint jar)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pint** | ~160 | 0 g | 5 g | 18 g | 7 g |
+| **Per serving** *(¼ cup, about 6 servings per pint)* | ~27 | 0 g | 1 g | 3 g | 1 g |
+
+**What a serving is:** a small handful of pickled spears, about ¼ cup.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -384,6 +384,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **[§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) updated, not duplicated — Cody sent the same source pages again, but this recipe was already fully transcribed.** Added his own cut preference instead: **St. Louis-cut or spare ribs in place of baby backs.** The marinade, trim, and grill setup all carry over unchanged; cook time doesn't — St. Louis and spare racks are bigger and have more connective tissue to render, so **Claude's own estimate** (not the source's) is roughly 1¾–2½ hr for St. Louis cut or 2–3 hr for full spares at the same medium heat, against the source's 1¼–1½ hr for baby backs. Flagged clearly as an estimate rather than folded into the source's own timing, and the badge, grocery list, and ingredients all note the substitution. |
 | 2026-08-13 | **The rest of the biscuit page added, per Cody's follow-up ask.** **[§15.4 Angel Biscuits](#154-angel-biscuits)** (Mrs. Richard P. Sevier) and **[§15.5 Fancy Biscuits](#155-fancy-biscuits)** (Mrs. Philip R. Allin) are both yeast-leavened refrigerator/freezer doughs — mixed once and baked in batches as needed, never left to rise loose on the counter. **[§15.6 Pastry Biscuits](#156-pastry-biscuits)** (Deborah Crawford) has no leavening at all, closer to a shortbread, and doubles as a strawberry shortcake base per the source's own note. **[§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation)** (Mrs. Jack McCord) is filed incomplete, same treatment as [§14.3 Classic Tuiles](#143-classic-tuiles) — the photo starts mid-instruction, so the title and nearly the whole ingredient list are missing; only the tail end of the method and two variations (cheese, bacon) survive. None of the four give a biscuit count, so all three complete entries carry a flagged, estimated one (24 biscuits each). |
 | 2026-08-13 | Added **[§15.2 Butter Dips](#152-butter-dips)** — transcribed from a printed page, ***Talk About Good!*** (p. 28), credited to **Mrs. Jess W. Griffith**. Buttery bread sticks: dough strips dipped in the same melted butter the baking pan was greased with, then baked close together. **Called out by Cody as a featured recipe**, flagged as such in both the Table of Contents and the entry itself — worth making, not just archiving. Cody sent two other pages from the same bread section (Angel Biscuits, Fancy Biscuits, Pastry Biscuits, plus an untitled cheese/bacon biscuit fragment) but asked for only this one; the rest weren't added and remain available if he wants them later. All four printed variations (cheese, garlic, seed/paprika toppings, chives or parsley) are kept in the entry. |
 | 2026-08-13 | **Two oyster dressings added from *Talk About Good!*, both 🦃, per Cody's request to add the oyster dressings only** — a Corn Bread Dressing and an untitled dressing fragment on the same pages were left out. **[§5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing)** (Mrs. Frank C. Rogers) is a layered cracker-and-oyster casserole; the source gives a quantity for the oysters only, so crackers, celery, parsley, milk, and cream are all assumed, and Nutrition is flagged as more heavily estimated than usual as a result. **[§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey)** (Mrs. B. H. DeHart) is a stale-French-bread dressing with a specific doneness cue — oysters cooked in a skillet just until the edges curl — and **carries the same stuffed-in-the-bird food-safety note as [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing)**, since the source allows either stuffing the fowl or baking separately in casseroles. |
@@ -657,7 +658,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
-| [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill)* | 2 hr *(+ 6–12 hr marinate)* |
+| [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill; ~2–3 hr for Cody's preferred St. Louis/spare ribs)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.53 Pasta Puttanesca](#753-pasta-puttanesca) | 🟢 | 10 min | 15 min | — | 25 min |
@@ -13757,11 +13758,13 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 
 **Also good for, per the source:** pork chops prepared the same way; chicken, cut into pieces for marinating, and steak would work too.
 
-**Yield:** 4 racks (about 4 lb total) — **serves 8 as an appetizer, 4 as a main course**
+> **Cody's own preference: St. Louis-cut or spare ribs instead of baby backs.** Everything else about the recipe — the marinade, the trim, the indirect setup — carries over unchanged. **Cook time needs adjusting, though.** St. Louis and spare ribs are bigger, meatier racks with more connective tissue than a baby back, so they take longer to render tender at the same medium heat: figure roughly **1¾ to 2½ hours for St. Louis cut, 2 to 3 hours for full spare ribs**, versus the source's 1¼–1½ hours for baby backs. This range is Claude's own estimate, not the source's — go by the same doneness cues either way (meat pulled back ¼ inch from the bone ends, tears apart with a little chew left) rather than the clock. A rack of spares also won't fit as many to a grill upright in a rib rack, so plan on fewer racks at once or a bigger grill.
+
+**Yield:** 4 racks (about 4 lb total, if using baby backs as printed) — **serves 8 as an appetizer, 4 as a main course**
 
 > **You'll need:** a rib rack (optional) — lets you stand all four racks upright so they fit on a conventional-size grill at once.
 
-**🟢 Easy** · **Prep ~25 min** · **Slow cook ~1¼–1½ hr** *(indirect grill, covered — add fresh coals per side after 1 hr if using charcoal)* · **Start to finish ~2 hr** *(plus a 6–12 hr marinate — lead time, not cooking)*
+**🟢 Easy** · **Prep ~25 min** · **Slow cook ~1¼–1½ hr** *(indirect grill, covered — add fresh coals per side after 1 hr if using charcoal; ~1¾–2½ hr for St. Louis cut or ~2–3 hr for spare ribs, Cody's preferred cuts — see note above)* · **Start to finish ~2 hr** *(plus a 6–12 hr marinate — lead time, not cooking; longer end-to-end with St. Louis or spare ribs)*
 
 **Techniques used:** indirect grilling — the same setup as [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage)
 
@@ -13769,7 +13772,7 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 
 **For the ribs and marinade**
 
-- 4 racks baby back pork ribs (about 4 lb total)
+- 4 racks baby back pork ribs (about 4 lb total), or St. Louis-cut or spare ribs — Cody's preferred substitution, see note above
 - 4 stalks lemongrass, trimmed and finely chopped
 - 4 cloves garlic, finely chopped
 - 2 shallots, finely chopped
@@ -13816,7 +13819,7 @@ Transfer the ribs to a cutting board and let rest a few minutes. Cut the racks i
 
 **🏪 Specific store — butcher**
 
-- 🏪 Baby back pork ribs — 4 racks, about 4 lb total
+- 🏪 Baby back pork ribs — 4 racks, about 4 lb total; or St. Louis-cut or spare ribs, Cody's preference
 
 **🏪 Specific store — Asian market**
 

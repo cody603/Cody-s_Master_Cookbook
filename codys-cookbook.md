@@ -176,6 +176,8 @@ Click any recipe to jump straight to it.
 - [5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) ✅
 - [5.29 Smothered Mustard Greens](#529-smothered-mustard-greens) ✅
 - [5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) ✅
+- [5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) 🦃 ✅
+- [5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) 🦃 ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -377,6 +379,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | **Two oyster dressings added from *Talk About Good!*, both 🦃, per Cody's request to add the oyster dressings only** — a Corn Bread Dressing and an untitled dressing fragment on the same pages were left out. **[§5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing)** (Mrs. Frank C. Rogers) is a layered cracker-and-oyster casserole; the source gives a quantity for the oysters only, so crackers, celery, parsley, milk, and cream are all assumed, and Nutrition is flagged as more heavily estimated than usual as a result. **[§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey)** (Mrs. B. H. DeHart) is a stale-French-bread dressing with a specific doneness cue — oysters cooked in a skillet just until the edges curl — and **carries the same stuffed-in-the-bird food-safety note as [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing)**, since the source allows either stuffing the fowl or baking separately in casseroles. |
 | 2026-08-13 | Three more from *Talk About Good!*: **[§9.26 Mushroom Florentine](#926-mushroom-florentine)** (Mrs. A. J. Shepard, 16 stuffed caps, 🟢 Easy), **[§5.29 Smothered Mustard Greens](#529-smothered-mustard-greens)** (Mrs. Paul J. Blanchet, Jr., serves 4–6 as printed), and **[§5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips)** (Mrs. Felix Bernard). **§5.29 is rated 🟡 Medium for a real roux** — quick (3–4 minutes, flour and grease with onion) but still a genuine roux technique, unlike §5.30's no-roux, boil-and-combine method, which stays 🟢 Easy. Both mustard greens recipes are kept separate rather than merged — different techniques, different finishing ingredients (bacon and bell pepper vs. turnips and sugar). |
 | 2026-08-13 | Added two more eggplant sides from *Talk About Good!*, both rated 🟢 Easy — Cody's own read on sight (*"Seems easy"*) matched. **[§5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant)** (p. 151, credited to **Wandy Frey** — spelled slightly differently than "Wanda Frey" on [§7.63](#763-crab-and-eggplant-dressing) and related entries, transcribed exactly as each page prints it rather than silently normalized) is scored and topped rather than hollowed and stuffed, and carries the source's own line, *"This makes a fancier dish than reads the recipe."* Its printed yield is a genuinely odd one, kept as stated: *"Serves 2 or 20."* **[§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper)** (Mrs. P. J. Blanchet, Jr.) is a working title, not the source's own — the photo cuts off right above this recipe's heading, so the name is built from its ingredients and flagged as such. **Its Nutrition is marked not calculable rather than estimated** — a first for this batch of transcriptions — since the source gives zero quantities for any ingredient, only "add eggplant, onion, bell pepper" with nothing to scale from. |
 | 2026-08-13 | **Five more from *Talk About Good!*: two grits casseroles and three pastry/crust recipes — one of which closes a reference gap from [§7.65 Crawfish Pie I](#765-crawfish-pie-i).** **[§10.10 Cheese Grits](#1010-cheese-grits)** (Mrs. Charles Hightower, Jr., who also gave [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)) and **[§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits)** (jointly credited to three contributors — Martha Paggi, Mrs. James C. Nixon, and Mrs. Nelwyn Williams, kept as printed rather than picking one name) — both filed in §10 Breakfast. §10.11 carries a variation note from a fourth contributor, Betty Jean Tompkins, on folding in stiffly beaten egg whites for a lighter texture. **A third recipe on the same page, Fried Grits, was cut off at the bottom of the photo and wasn't transcribed** — flagged rather than guessed at, needs a follow-up photo. **[§14.17 Flaky French Pastry](#1417-flaky-french-pastry) is Mrs. Carmen Montegut's own pastry — the exact "1 recipe flaky French pastry" [§7.65 Crawfish Pie I](#765-crawfish-pie-i) called for by name**, now transcribed in full and cross-linked back; a real 18-step laminated dough (three separate roll-grease-fold-rest cycles), rated 🟡 Medium. Also added **[§14.16 Pie Crust](#1416-pie-crust)** (Mrs. T. M. Biggs, a simple freezer-friendly cut-in dough) and **[§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust)** (Mrs. Mona Guidry) — despite its name, the latter is actually a folded, fig-preserve-filled bar cookie rather than a crust for a round pie, noted as such rather than filed as if it were one. |
@@ -772,12 +775,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
+| [§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) | 🟢 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.62 Catfish Étouffée](#762-catfish-étouffée) | 🟡 | 25 min | 1 hr 5 min | — | 1 hr 30 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
 | [§8.27 Green Gumbo](#827-green-gumbo) | 🟡 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
+| [§5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) | 🟡 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
@@ -10028,6 +10033,156 @@ Put the cooking oil, mustard greens, turnips, pepper, onion, and salt into a pot
 | **Per serving** *(estimated 6 servings)* | ~105 | 5 g | 4 g | 13 g | 5 g |
 
 **What a serving is:** a generous side portion, about ¾ to 1 cup. *A genuinely light, high-fiber side — no roux and only 2 Tbsp of oil in the whole pot.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.31 Scalloped Oyster Dressing
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Frank C. Rogers**, who notes she's made this "our favorite with turkey, goose and duck when dressing is not served" since first arriving in Lafayette 20 years before writing it down. A layered cracker-and-oyster casserole, distinct from a bread- or cornbread-based dressing.
+
+**Yield:** not stated; estimated to serve 8, flagged below.
+
+**🦃 Holiday side.** **🟢 Easy** · **Prep ~20 min** *(layering)* · **Cook ~1 hr** *(bake at 325°F, until it reaches serving consistency)* · **Start to finish ~1 hr 20 min**
+
+> **Per the source, in her own words:** *"Remember, it must have plenty of black pepper and butter."*
+
+#### A. Ingredients
+
+- Crackers, broken *(quantity not given by the source)*
+- 2 pt oysters, drained
+- Celery hearts, chopped *(quantity not given)*
+- Parsley, chopped *(quantity not given)*
+- Salt, red and black pepper
+- A few drops Worcestershire sauce
+- Oyster juice
+- Milk
+- Cream
+- Butter, for dotting liberally
+- Paprika, for the top *(named in the instructions, not the source's own ingredient list)*
+
+#### B. Cooking Instructions
+
+**1. Layer the bottom of the dish.**
+In a large greased oblong baking dish, place a thick layer of broken crackers. Arrange the drained raw oysters close together on top.
+
+**2. Cover the oysters.**
+Cover each oyster with chopped celery hearts and chopped parsley. Salt and pepper all over.
+
+**3. Add a second cracker layer, then season again.**
+Add another layer of broken crackers, a few drops of Worcestershire sauce, black pepper, and some oyster juice.
+
+**4. Pour the milk, cream, and remaining oyster juice over — but don't cover the top layer of crackers.**
+Mix the milk, cream, and oyster juice together first, then pour it in.
+
+**5. Dot with butter and sprinkle with paprika.**
+
+**6. Bake, uncovered. About 1 hour at 325°F, or until it's at serving consistency.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Crackers (saltines or similar)
+- 🛒 Oysters — 2 pt
+- 🛒 Celery
+- 🛒 Fresh parsley
+- 🛒 Worcestershire sauce
+- 🛒 Milk
+- 🛒 Cream
+- 🛒 Butter
+- 🛒 Paprika
+- 🛒 Salt, red and black pepper
+
+#### Nutrition *(heavily estimated — the source gives a quantity only for the oysters; crackers, milk, cream, celery, and parsley are all assumed)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,860 | 187 g | 92 g | 199 g | 5 g |
+| **Per serving** *(estimated 8 servings)* | ~360 | 23 g | 12 g | 25 g | 1 g |
+
+**What a serving is:** a generous scoop, about 1 cup.
+
+#### D. Open Questions
+
+- **No quantities given for crackers, celery, parsley, milk, or cream, or a serving count** — all assumed for the write-up and Nutrition estimate. Confirm against the actual card if Cody has more detail than the photographed page shows.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.32 Oyster Dressing (For 10 to 12 lb. Turkey)
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 266), credited to **Mrs. B. H. DeHart**. A stale-French-bread dressing built around oysters cooked just until the edges curl, sized to stuff or accompany a 10–12 lb turkey.
+
+**Yield:** enough to stuff or accompany a 10–12 lb turkey; if baked separately, makes 2 large casseroles
+
+**🦃 Holiday side.** **🟢 Easy** · **Prep ~30 min** *(draining the oysters, soaking and squeezing the bread, chopping the aromatics)* · **Cook ~55 min** *(curling the oysters, sautéing the aromatics, 10 min stovetop, then a 30 min bake)* · **Start to finish ~1 hr 25 min**
+
+> ⚠️ **Food-safety note, same as [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing).** If this goes inside the bird rather than into casseroles, the stuffing itself has to reach 165°F at its center — not just the meat around it — before it's safe. The source's own preference is to bake it separately in casseroles, which sidesteps the question entirely.
+
+#### A. Ingredients
+
+- 3 pt raw oysters
+- 1 loaf stale French bread
+- 1 bunch shallots, chopped
+- 1 medium onion, chopped
+- 3 or 4 toes garlic
+- 2 Tbsp chopped parsley
+- 1 sprig thyme
+- 2 eggs
+- 3 Tbsp butter or margarine, divided
+- Salt and pepper, to taste
+
+#### B. Cooking Instructions
+
+**1. Drain the oysters, saving the liquid.**
+Drain in a colander, letting the oyster liquid fall into a bowl.
+
+**2. Curl the oysters. A few minutes, low heat.**
+Place the drained oysters in a heavy iron skillet on low fire until the ends of the oysters start to curl. Drain again, letting the warm liquid mix with the liquid already in the bowl. Move the oysters to a large wooden (or salad) bowl.
+
+**3. Soak the bread in the oyster liquid.**
+Break the stale French bread into large hunks and let it soak in the oyster liquid until soft. Remove the bread, squeeze out the liquid, and add it to the bowl with the oysters. Chop both into very small pieces.
+
+**4. Sauté the shallots, onion, and garlic. Just until soft.**
+In 1 tablespoon of the butter.
+
+**5. Combine everything.**
+Add the sautéed aromatics to the oysters and bread. Add the parsley, thyme, eggs, salt, and pepper, and mix well.
+
+**6. Cook in the skillet. About 10 minutes.**
+Put the mixed dressing in the iron skillet with the remaining 2 tablespoons of butter and heat on low fire, stirring constantly.
+
+**7. Stuff or bake.**
+Stuff into the fowl, or bake covered in 2 large casseroles at 350°F for 30 minutes.
+
+> **Make-ahead, per the source:** this dressing is best prepared the night before and refrigerated — **not stuffed into the bird ahead of time** — to let the flavor develop.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Raw oysters — 3 pt
+- 🛒 Stale French bread — 1 loaf
+- 🛒 Shallots — 1 bunch
+- 🛒 Onion — 1 medium
+- 🛒 Garlic — 3 or 4 cloves
+- 🛒 Fresh parsley — 2 Tbsp
+- 🛒 Fresh thyme — 1 sprig
+- 🛒 Eggs — 2
+- 🛒 Butter or margarine — 3 Tbsp
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~2,680 | 78 g | 153 g | 306 g | 12 g |
+| **Per serving** *(estimated 10 servings)* | ~270 | 8 g | 15 g | 31 g | 1 g |
+
+**What a serving is:** a generous scoop, about 1 cup, whether stuffed in the bird or baked separately.
 
 [↑ Table of Contents](#table-of-contents)
 

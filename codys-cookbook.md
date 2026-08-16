@@ -368,6 +368,7 @@ Click any recipe to jump straight to it.
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
 - [15.1 Plain French Bread (Pain Français)](#151-plain-french-bread-pain-français) ✅
+- [15.2 Butter Dips](#152-butter-dips) ✅ *(featured, per Cody)*
 
 **[16. Beverages](#16-beverages)** *(numbered 16, appended at the end — same reasoning as §14–§15)*
 
@@ -379,6 +380,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Added **[§15.2 Butter Dips](#152-butter-dips)** — transcribed from a printed page, ***Talk About Good!*** (p. 28), credited to **Mrs. Jess W. Griffith**. Buttery bread sticks: dough strips dipped in the same melted butter the baking pan was greased with, then baked close together. **Called out by Cody as a featured recipe**, flagged as such in both the Table of Contents and the entry itself — worth making, not just archiving. Cody sent two other pages from the same bread section (Angel Biscuits, Fancy Biscuits, Pastry Biscuits, plus an untitled cheese/bacon biscuit fragment) but asked for only this one; the rest weren't added and remain available if he wants them later. All four printed variations (cheese, garlic, seed/paprika toppings, chives or parsley) are kept in the entry. |
 | 2026-08-13 | **Two oyster dressings added from *Talk About Good!*, both 🦃, per Cody's request to add the oyster dressings only** — a Corn Bread Dressing and an untitled dressing fragment on the same pages were left out. **[§5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing)** (Mrs. Frank C. Rogers) is a layered cracker-and-oyster casserole; the source gives a quantity for the oysters only, so crackers, celery, parsley, milk, and cream are all assumed, and Nutrition is flagged as more heavily estimated than usual as a result. **[§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey)** (Mrs. B. H. DeHart) is a stale-French-bread dressing with a specific doneness cue — oysters cooked in a skillet just until the edges curl — and **carries the same stuffed-in-the-bird food-safety note as [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing)**, since the source allows either stuffing the fowl or baking separately in casseroles. |
 | 2026-08-13 | Three more from *Talk About Good!*: **[§9.26 Mushroom Florentine](#926-mushroom-florentine)** (Mrs. A. J. Shepard, 16 stuffed caps, 🟢 Easy), **[§5.29 Smothered Mustard Greens](#529-smothered-mustard-greens)** (Mrs. Paul J. Blanchet, Jr., serves 4–6 as printed), and **[§5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips)** (Mrs. Felix Bernard). **§5.29 is rated 🟡 Medium for a real roux** — quick (3–4 minutes, flour and grease with onion) but still a genuine roux technique, unlike §5.30's no-roux, boil-and-combine method, which stays 🟢 Easy. Both mustard greens recipes are kept separate rather than merged — different techniques, different finishing ingredients (bacon and bell pepper vs. turnips and sugar). |
 | 2026-08-13 | Added two more eggplant sides from *Talk About Good!*, both rated 🟢 Easy — Cody's own read on sight (*"Seems easy"*) matched. **[§5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant)** (p. 151, credited to **Wandy Frey** — spelled slightly differently than "Wanda Frey" on [§7.63](#763-crab-and-eggplant-dressing) and related entries, transcribed exactly as each page prints it rather than silently normalized) is scored and topped rather than hollowed and stuffed, and carries the source's own line, *"This makes a fancier dish than reads the recipe."* Its printed yield is a genuinely odd one, kept as stated: *"Serves 2 or 20."* **[§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper)** (Mrs. P. J. Blanchet, Jr.) is a working title, not the source's own — the photo cuts off right above this recipe's heading, so the name is built from its ingredients and flagged as such. **Its Nutrition is marked not calculable rather than estimated** — a first for this batch of transcriptions — since the source gives zero quantities for any ingredient, only "add eggplant, onion, bell pepper" with nothing to scale from. |
@@ -710,6 +712,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.7 Chicken Salad](#97-chicken-salad) | 🟢 | 20 min | 20 min | — | 40 min |
+| [§15.2 Butter Dips](#152-butter-dips) | 🟢 | 20 min | 18 min | — | 40 min |
 | [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | 🟡 | 20 min | 20 min | — | 2 hr 50 min *(2 hr brine)* |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
@@ -21544,6 +21547,77 @@ The source's own troubleshooting guide, kept whole because every line of it earn
 | **Per serving** *(12 servings, ¼ loaf)* | ~140 | 0.4 g | 4 g | 29 g | 1 g |
 
 **What a serving is:** about a quarter of a bâtard — a generous hand-torn chunk alongside dinner. Flour, water, salt, and yeast is the entire ingredient list, which is why the fat column is nearly empty; whatever butter lands on it at the table is its own decision.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 15.2 Butter Dips
+
+Transcribed from a printed page — ***Talk About Good!*** (p. 28), credited to **Mrs. Jess W. Griffith**. **Called out by Cody as a featured recipe** — worth making, not just archiving. Buttery bread sticks: the dough strips are dipped in the same melted butter the pan was greased with, then baked close together so they pull apart golden and rich.
+
+**Yield:** makes 32 sticks
+
+**🟢 Easy** · **Prep ~20 min** *(melting the butter, mixing the dough, rolling, cutting, dipping)* · **Cook ~18 min** *(15–20 min bake, per the source)* · **Start to finish ~40 min**
+
+#### A. Ingredients
+
+- ⅓ cup butter
+- 2¼ cups sifted flour
+- 1 Tbsp sugar
+- 3½ tsp baking powder
+- 1½ tsp salt
+- 1 cup milk
+
+**Variations, per the source — pick one:**
+
+1. Add ½ cup grated sharp American cheese to the dry ingredients
+2. Add ½ clove finely minced garlic to the butter before melting
+3. Sprinkle paprika, celery seed, or garlic salt over the dips before baking
+4. Add ½ cup minced chives or parsley to the flour mixture
+
+#### B. Cooking Instructions
+
+**1. Melt the butter in the pan, in the oven.**
+Heat the oven to 400°F. Melt the butter directly in an oblong 13 × 9½ × 2-inch pan while the oven heats.
+
+**2. Sift the dry ingredients.**
+Sift together the flour, sugar, baking powder, and salt.
+
+**3. Remove the pan and mix the dough.**
+Once the butter's melted, take the pan out. Stir the milk into the dry ingredients slowly with a fork, just until the dough clings together.
+
+**4. Roll out on a floured board.**
+Turn the dough onto a well-floured board and roll lightly to coat. Roll out ½ inch thick into a 12 × 8-inch rectangle.
+
+**5. Cut into 32 strips.**
+With a floured knife, cut the dough in half lengthwise, then crosswise into 16 strips — 32 sticks total.
+
+**6. Dip each strip in the melted butter, then arrange in the pan.**
+Pick up each cut strip and dip it in the butter still in the pan, then lay the strips close together in the same pan.
+
+**7. Bake. 15–20 minutes, until golden brown.**
+Serve hot.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Butter — ⅓ cup
+- 🛒 All-purpose flour — 2¼ cups, sifted
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Baking powder — 3½ tsp
+- 🛒 Salt — 1½ tsp
+- 🛒 Milk — 1 cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(32 sticks)* | ~1,695 | 69 g | 36 g | 230 g | 8 g |
+| **Per stick** | ~53 | 2 g | 1 g | 7 g | <1 g |
+
+**What a serving is:** one stick — most people eat several.
 
 [↑ Table of Contents](#table-of-contents)
 

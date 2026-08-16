@@ -174,6 +174,8 @@ Click any recipe to jump straight to it.
 - [5.26 Pickled Okra](#526-pickled-okra) ✅
 - [5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) ✅ *(source title not photographed)*
 - [5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) ✅
+- [5.29 Smothered Mustard Greens](#529-smothered-mustard-greens) ✅
+- [5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) ✅
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -314,6 +316,7 @@ Click any recipe to jump straight to it.
 - [9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) ✅
 - [9.24 Crab Marie](#924-crab-marie) ✅
 - [9.25 Crabmeat Imperial](#925-crabmeat-imperial) ✅
+- [9.26 Mushroom Florentine](#926-mushroom-florentine) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -374,6 +377,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-13 | Three more from *Talk About Good!*: **[§9.26 Mushroom Florentine](#926-mushroom-florentine)** (Mrs. A. J. Shepard, 16 stuffed caps, 🟢 Easy), **[§5.29 Smothered Mustard Greens](#529-smothered-mustard-greens)** (Mrs. Paul J. Blanchet, Jr., serves 4–6 as printed), and **[§5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips)** (Mrs. Felix Bernard). **§5.29 is rated 🟡 Medium for a real roux** — quick (3–4 minutes, flour and grease with onion) but still a genuine roux technique, unlike §5.30's no-roux, boil-and-combine method, which stays 🟢 Easy. Both mustard greens recipes are kept separate rather than merged — different techniques, different finishing ingredients (bacon and bell pepper vs. turnips and sugar). |
 | 2026-08-13 | Added two more eggplant sides from *Talk About Good!*, both rated 🟢 Easy — Cody's own read on sight (*"Seems easy"*) matched. **[§5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant)** (p. 151, credited to **Wandy Frey** — spelled slightly differently than "Wanda Frey" on [§7.63](#763-crab-and-eggplant-dressing) and related entries, transcribed exactly as each page prints it rather than silently normalized) is scored and topped rather than hollowed and stuffed, and carries the source's own line, *"This makes a fancier dish than reads the recipe."* Its printed yield is a genuinely odd one, kept as stated: *"Serves 2 or 20."* **[§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper)** (Mrs. P. J. Blanchet, Jr.) is a working title, not the source's own — the photo cuts off right above this recipe's heading, so the name is built from its ingredients and flagged as such. **Its Nutrition is marked not calculable rather than estimated** — a first for this batch of transcriptions — since the source gives zero quantities for any ingredient, only "add eggplant, onion, bell pepper" with nothing to scale from. |
 | 2026-08-13 | **Five more from *Talk About Good!*: two grits casseroles and three pastry/crust recipes — one of which closes a reference gap from [§7.65 Crawfish Pie I](#765-crawfish-pie-i).** **[§10.10 Cheese Grits](#1010-cheese-grits)** (Mrs. Charles Hightower, Jr., who also gave [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo)) and **[§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits)** (jointly credited to three contributors — Martha Paggi, Mrs. James C. Nixon, and Mrs. Nelwyn Williams, kept as printed rather than picking one name) — both filed in §10 Breakfast. §10.11 carries a variation note from a fourth contributor, Betty Jean Tompkins, on folding in stiffly beaten egg whites for a lighter texture. **A third recipe on the same page, Fried Grits, was cut off at the bottom of the photo and wasn't transcribed** — flagged rather than guessed at, needs a follow-up photo. **[§14.17 Flaky French Pastry](#1417-flaky-french-pastry) is Mrs. Carmen Montegut's own pastry — the exact "1 recipe flaky French pastry" [§7.65 Crawfish Pie I](#765-crawfish-pie-i) called for by name**, now transcribed in full and cross-linked back; a real 18-step laminated dough (three separate roll-grease-fold-rest cycles), rated 🟡 Medium. Also added **[§14.16 Pie Crust](#1416-pie-crust)** (Mrs. T. M. Biggs, a simple freezer-friendly cut-in dough) and **[§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust)** (Mrs. Mona Guidry) — despite its name, the latter is actually a folded, fig-preserve-filled bar cookie rather than a crust for a round pie, noted as such rather than filed as if it were one. |
 | 2026-08-13 | **Seven pies added from a *Talk About Good!* Thanksgiving-baking spread (p. 436–437): four pecan pies and three pumpkin chiffon pies, all kept as separate entries rather than merged.** **[§14.9](#149-pecan-pie-i)–[§14.12 Pecan Pie IV](#1412-pecan-pie-iv)** (Mrs. C. R. Pope, Mrs. H. M. Bernard, Mrs. Warren Rush, Marion Berry) are all rated 🟢 Easy — a baked custard in a shell is forgiving in a way a stirred one isn't. **§14.12's own measurements are folksy** — flour by "4 level soup spoons" — kept as printed with a practical ¼-cup conversion alongside, and its bake time is doneness-by-appearance only ("until it starts getting brown"), flagged and estimated rather than invented as a precise number. **[§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i)** (Mrs. Arthur E. Smith), **[§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii)** (Mrs. Leo Case), and **[§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie)** (Mrs. Warren Butcher) are all rated 🔴 Hard, same reasoning as the existing [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) — a cooked custard base that can curdle, plus a whipped meringue that has to be folded in without deflating it. **§14.14's ingredient list is genuinely incomplete** — eggs, milk, butter, cold water, and even the pie crust itself are called for in the instructions but never printed in the ingredient list, all added in rather than left out. **§14.15 carries an honesty flag rather than false confidence:** part of the photographed page was hard to read around exactly how its sugar splits between the custard and the meringue, so the instructions are written to the most sensible chiffon-pie logic and marked as a reconstruction, not a certain transcription. |
@@ -717,6 +721,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.0 Loaded Frittata Formula](#100-the-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
+| [§9.26 Mushroom Florentine](#926-mushroom-florentine) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
@@ -725,6 +730,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) ❤️ | 🟢 | 20 min | 30 min | — | 50 min |
 | [§16.1 Hot Apple Cider](#161-hot-apple-cider) | 🟢 | 10 min | 40 min | — | 50 min |
 | [§5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) | 🟢 | 15 min | 35 min | — | 50 min |
+| [§5.30 Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
 | [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) | 🟢 | 20 min | 35 min | **4 hr** *(broth simmer)* | 5 hr *(or spread across 2 days)* |
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
@@ -785,6 +791,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | 🟡 | 15 min | 1 hr 35 min | — | 1 hr 50 min |
+| [§5.29 Smothered Mustard Greens](#529-smothered-mustard-greens) | 🟡 | 30 min | 1 hr 20 min | — | 1 hr 50 min |
 | [§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) | 🟡 | 20 min | 1 hr 50 min | — | 2 hr 10 min |
 | [§7.65 Crawfish Pie I](#765-crawfish-pie-i) | 🟡 | 25 min | 1 hr 45 min | **2½ hr** *("taree" — a long simmer, mostly unattended)* | 4 hr 40 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
@@ -9915,6 +9922,117 @@ Time depends on the size of the eggplant.
 
 ---
 
+### 5.29 Smothered Mustard Greens
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Paul J. Blanchet, Jr.** Boiled greens finished in a quick roux with bacon and bell pepper.
+
+**Yield:** serves 4 to 6 *(as printed)*
+
+**🟡 Medium** *(a real, if quick, roux — flour and grease sautéed with onion for 3–4 minutes before the greens go in)* · **Prep ~30 min** *(cleaning and soaking the greens 15 min, chopping onion and bell pepper, prepping the bacon)* · **Cook ~1 hr 20 min** *(15 min boiling the greens, a few minutes on the roux, then a 1 hr covered simmer)* · **Start to finish ~1 hr 50 min**
+
+**Techniques used:** related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(a quick, light version — a few minutes, not the dark Cajun target)*
+
+#### A. Ingredients
+
+- 1 gal water
+- 2 bunches mustard greens
+- Salt and pepper, to taste
+- 4 slices bacon
+- 1 small bell pepper
+- 1 medium onion, chopped
+- ½ cup grease
+- ¼ cup flour
+
+#### B. Cooking Instructions
+
+**1. Clean the greens. 15 minutes.**
+Fill a large container with warm salted water and soak the leaves for 15 minutes, then clean each leaf individually. Remove any heavy stems now, if desired.
+
+**2. Boil the greens. 15 minutes.**
+While the greens soak, get the gallon of water heating to a boil. Submerge the greens and boil for 15 minutes, then drain in a colander.
+
+**3. Make a quick roux. 3–4 minutes.**
+With the ¼ cup flour, ½ cup grease, and the chopped onion. Bacon may be added along with it. Sauté.
+
+**4. Add the drained greens, bell pepper, salt, and pepper.**
+
+**5. Cook covered, slowly. About 1 hour.**
+Add a little water if it needs it along the way.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Mustard greens — 2 bunches
+- 🛒 Bacon — 4 slices
+- 🛒 Bell pepper — 1 small
+- 🛒 Onion — 1 medium
+- 🛒 Cooking grease/fat — ½ cup
+- 🛒 All-purpose flour — ¼ cup
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,385 | 111 g | 27 g | 65 g | 22 g |
+| **Per serving** *(serves 5, midpoint of the printed 4–6)* | ~277 | 22 g | 5 g | 13 g | 4 g |
+
+**What a serving is:** a generous side portion, about ¾ to 1 cup.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.30 Grandma's Mustard Greens & Turnips
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Felix Bernard**. No roux — greens and turnips boiled separately, then finished together in oil.
+
+**Yield:** not stated; estimated to serve 6, flagged below.
+
+**🟢 Easy** · **Prep ~15 min** *(cubing the turnips into fairly large pieces, chopping the onion)* · **Cook ~35 min** *(boiling the greens and turnips, then finishing together)* · **Start to finish ~50 min**
+
+#### A. Ingredients
+
+- 2 bunches mustard greens
+- 4 medium turnips, cubed into fairly large pieces
+- 1 medium onion, chopped
+- 2 Tbsp cooking oil
+- Salt, pepper, and sugar, to taste
+
+#### B. Cooking Instructions
+
+**1. Boil the mustard greens until tender, then drain.**
+
+**2. Boil the turnips separately, with sugar and salt, until tender.**
+Cube the turnips into fairly large pieces first — they'll mash down as they cook, so starting big keeps them from disappearing entirely.
+
+**3. Combine and finish.**
+Put the cooking oil, mustard greens, turnips, pepper, onion, and salt into a pot and cook until done, stirring frequently.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Mustard greens — 2 bunches
+- 🛒 Turnips — 4 medium
+- 🛒 Onion — 1 medium
+- 🛒 Cooking oil — 2 Tbsp
+- 🛒 Sugar, salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~620 | 28 g | 21 g | 75 g | 27 g |
+| **Per serving** *(estimated 6 servings)* | ~105 | 5 g | 4 g | 13 g | 5 g |
+
+**What a serving is:** a generous side portion, about ¾ to 1 cup. *A genuinely light, high-fiber side — no roux and only 2 Tbsp of oil in the whole pot.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -18985,6 +19103,79 @@ Top with a little more mayonnaise and a sprinkle of paprika. Serve hot or cold.
 | **Per serving** *(serves 8, as printed)* | ~370 | 26 g | 34 g | 2 g | <1 g |
 
 **What a serving is:** one filled crab shell or ramekin. *Mayonnaise and crabmeat carry almost all of this — very low carb, very rich.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.26 Mushroom Florentine
+
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. A. J. Shepard**. Large mushroom caps stuffed with a sautéed spinach, chicken (or ham), and Parmesan filling.
+
+**Yield:** makes 16 stuffed caps; estimated to serve 8 (2 caps each), flagged below.
+
+**🟢 Easy** · **Prep ~20 min** *(washing the mushrooms, chopping the stems, onion, and garlic, mixing the filling)* · **Cook ~25 min** *(10 min sautéing the stems, 15 min baking)* · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 16 large mushrooms
+- 1 stick butter, melted
+- ½ cup minced chicken or ham
+- 1½ Tbsp finely minced onion
+- 1 clove garlic, mashed
+- ¾ cup pureed cooked spinach
+- ¼ tsp nutmeg
+- ½ tsp salt
+- ⅛ tsp black pepper
+- 2 Tbsp grated Parmesan cheese
+
+#### B. Cooking Instructions
+
+**1. Preheat the oven to 375°F.**
+
+**2. Wash the mushrooms and remove the stems.**
+Set the stems aside.
+
+**3. Dip the caps in butter and arrange them.**
+Dip the caps in 6 tablespoons of the melted butter. Place upside down in a buttered baking dish.
+
+**4. Sauté the stems with onion and garlic. 10 minutes.**
+Chop the mushroom stems. Sauté with the onion and garlic in the rest of the butter.
+
+**5. Add the spinach, meat, and seasoning.**
+Stir the pureed spinach, chicken or ham, nutmeg, salt, and pepper into the sautéed stems.
+
+**6. Fill the caps and top with cheese.**
+Fill the caps with this mixture, then sprinkle with the Parmesan.
+
+**7. Bake. 15 minutes.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Large mushrooms — 16
+- 🛒 Butter — 1 stick
+- 🛒 Chicken or ham, minced — ½ cup
+- 🛒 Onion — 1½ Tbsp, finely minced
+- 🛒 Garlic — 1 clove
+- 🛒 Cooked spinach, pureed — ¾ cup
+- 🛒 Nutmeg
+- 🛒 Parmesan cheese, grated — 2 Tbsp
+- 🛒 Salt, pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(16 caps)* | ~1,160 | 100 g | 41 g | 26 g | 11 g |
+| **Per serving** *(estimated 8 servings, 2 caps each)* | ~145 | 13 g | 5 g | 3 g | 1 g |
+
+**What a serving is:** 2 stuffed mushroom caps, a standard appetizer-course portion.
+
+#### D. Open Questions
+
+- **No serving count given** — 8 (2 caps each) is Claude's estimate from the 16 mushrooms.
 
 [↑ Table of Contents](#table-of-contents)
 

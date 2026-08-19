@@ -410,6 +410,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | **[§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) resized, per Cody: "I am a grown man and I can eat 5 street tacos."** The batch just added sized adult portions at 2 to 3 tacos — too small. Rebuilt around **20 tacos** feeding a real family: 2 adults at up to 5 tacos each plus 2 to 3 kids at 2 to 3 each, scaled up proportionally from 12 tacos to 20 (pulled pork 1½ → 2½ lb, tortillas 24 → 40, onion, cilantro, jalapeño, Herdez sauce, and limes all scaled the same way). The per-taco ratios themselves didn't change — small tortillas, a light ~2 oz fill — since a proper street taco being small is exactly why 5 of them is a normal adult meal. Nutrition block now breaks out **adult (5 tacos)** and **kid (2½ tacos)** servings alongside the whole-batch and per-taco figures, rather than one flattened "serves 5" average. |
 | 2026-08-19 | **[§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) given real quantities, per Cody: "just use typical street taco proportions."** The ingredient list had been left to-taste with no fixed amounts; now built on a 12-taco batch (serves 4–6) at standard street-taco scale — small tortillas doubled up, a light ~2 oz fill of pulled pork per taco, and a generous hand with the fresh toppings (1 Tbsp diced onion, 2 tsp cilantro, 2–3 jalapeño slices, 2 tsp Herdez sauce per taco). The grocery list and Nutrition block now carry real figures — whole-batch and per-serving, plus the existing per-taco figure — replacing the earlier to-taste/no-fixed-batch version. |
 | 2026-08-19 | **[§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) filled in** — a long-standing ❤️ placeholder, dictated by Cody rather than from a photographed page. Street-taco style: [§6.2 Pulled Pork](#62-pulled-pork)'s smoked pork butt, fresh sliced jalapeños, diced onion, fresh cilantro, corn or flour tortillas (his instruction: buy the good ones, and heat them properly before serving — not optional), a squeeze of lime, and **[§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought)**, added alongside as a new store-bought reference entry in the style of [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought)/[§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning) — no badge, no Nutrition block, since there's nothing to make. **One judgment call flagged rather than silently assumed:** the pork goes into these tacos plain, before §6.2's own step of stirring in North Carolina Vinegar Sauce, since a vinegar-forward Carolina barbecue sauce would compete with the Herdez street-taco sauce and fresh toppings rather than complement them — noted in the entry so it's easy to switch back to the sauced version if that's not what Cody meant. No fixed quantities were given, so the ingredient list is proportioned to taste and the Nutrition block is given **per taco** rather than the usual whole-dish/per-serving pair, flagged as a deliberate format change since this recipe scales with however much pulled pork is on hand. Table of Contents and Difficulty & Time Index updated; §7.1's TOC marker flips from ○ to ✅. |
 | 2026-08-16 | **[§6.2 Pulled Pork](#62-pulled-pork) enriched, not duplicated** — Cody sent clearer photos of the same "How to Make Pulled Pork" technique spread and North Carolina Pulled Pork recipe already transcribed here, confirming the existing write-up is accurate and surfacing a few details that weren't captured the first time. **Cody flagged this as his favorite pulled pork**, so it got a close second pass rather than a skim. Added: the **Boston butt naming/anatomy note** (blade-shaped bone, 5–8 lb typical, this recipe uses the 5–7 lb end); a **second doneness check** — wiggling the blade bone, alongside the existing 195°F reading; that the **crusty exterior develops by about the 4-hour mark**; that the pork **pulls easiest while still hot**; and that the sandwich traditionally goes on **a slice of white bread as well as a bun**. **The most interesting find: the source's own TIP box gives a three-way Carolina sauce-color tradition** — clear sauce in eastern North Carolina, red/ketchup-touched in western North Carolina, mustard-based in South Carolina (the mustard style is [§4.92](#492-carolina-mustard-barbecue-sauce)) — **which doesn't quite line up with [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style)'s own source quote**, a different Raichlen book that calls itself eastern despite carrying more ketchup than [§4.36](#436-north-carolina-vinegar-sauce) (used in this recipe). Flagged as a genuine tension between the two sources rather than silently resolved either way. [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)'s yield (6 to 8 cups, serves 10–12) was independently reconfirmed by the new photo and needed no changes. |
@@ -616,7 +617,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
-| [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 15 min | 5 min | — | 20 min *(using pork already cooked via §6.2)* |
+| [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
 | [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -11982,21 +11983,23 @@ Transfer the ribs to a clean cutting board. Mop on both sides with the mop sauce
 
 > **📌 One judgment call, flagged rather than silently assumed: the pork goes in plain here, not sauced.** §6.2's own recipe finishes by stirring 1 to 1½ cups of [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) into the shredded pork before serving. For these tacos, that step is skipped — the pork goes in straight off the smoker, since the dish already carries its own sauce ([§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought)) plus fresh jalapeño, onion, cilantro, and lime, and a vinegar-forward Carolina barbecue sauce would compete with those flavors rather than complement them. If Cody prefers the NC-sauced version in the tacos instead, just use §6.2's pork as finished — everything else below is unchanged.
 
-**Yield:** 12 tacos — **serves 4 to 6**
+**Yield:** 20 tacos — **feeds a family**, sized so the adults can eat like adults: figure 2 adults at up to 5 tacos each (10) plus 2 to 3 kids at 2 to 3 tacos each (6 to 9), with a couple spare. **Scale the whole batch up or down from there by headcount** — the 2 oz-per-taco pork figure and topping ratios below hold at any size.
 
-**🟢 Easy** · **Prep ~15 min** *(chopping toppings, warming tortillas)* · **Cook ~5 min** *(warming the tortillas and rewarming the pork)* · **Start to finish ~20 min** *(using pork already cooked via [§6.2](#62-pulled-pork))*
+> **📌 Portion correction, per Cody: "I am a grown man and I can eat 5 street tacos."** The first pass on this recipe sized a family batch around 2 to 3 tacos a person, which undersells how these actually get eaten. Street tacos are small and light by design — 2 corn tortillas, 2 oz of meat — which is exactly why 5 of them is a normal adult meal, not an overindulgence. Sized accordingly now.
+
+**🟢 Easy** · **Prep ~20 min** *(chopping toppings, warming tortillas)* · **Cook ~5 min** *(warming the tortillas and rewarming the pork)* · **Start to finish ~25 min** *(using pork already cooked via [§6.2](#62-pulled-pork))*
 
 #### A. Ingredients
 
-*No exact quantities were dictated, so this batch is built on typical street-taco proportions — small tortillas, a light fill, and a generous hand with the fresh toppings. Scale up or down by the same ratios for a bigger or smaller batch.*
+*No exact quantities were dictated, so this batch is built on typical street-taco proportions — small tortillas, a light fill, and a generous hand with the fresh toppings — scaled to a real family portion rather than an appetizer-size one. Scale up or down by the same ratios for a bigger or smaller crowd.*
 
-- 1½ lb [§6.2 Pulled Pork](#62-pulled-pork), plain and warm (see the note above) — about 2 oz per taco
-- 24 small (4 to 5 inch) corn tortillas, doubled per taco, or 12 six-inch flour tortillas
-- 1 medium onion (white or yellow), finely diced (about ¾ cup) — about 1 Tbsp per taco
-- ½ cup fresh cilantro, chopped — about 2 tsp per taco
-- 2 jalapeños, thinly sliced — 2 to 3 slices per taco
-- ½ cup [§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought), any flavor, for drizzling — about 2 tsp per taco
-- 3 limes, cut into wedges
+- 2½ lb [§6.2 Pulled Pork](#62-pulled-pork), plain and warm (see the note above) — about 2 oz per taco
+- 40 small (4 to 5 inch) corn tortillas, doubled per taco, or 20 six-inch flour tortillas
+- 1½ medium onions (white or yellow), finely diced (about 1¼ cups) — about 1 Tbsp per taco
+- ¾ cup fresh cilantro, chopped — about 2 tsp per taco
+- 3 to 4 jalapeños, thinly sliced — 2 to 3 slices per taco
+- 1 cup [§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought), any flavor, for drizzling *(roughly one bottle)* — about 2 tsp per taco
+- 5 limes, cut into wedges
 
 #### B. Cooking Instructions
 
@@ -12016,23 +12019,24 @@ Drizzle each taco with about 2 tsp Herdez Street Taco Sauce and a squeeze of fre
 
 **🛒 General grocery**
 
-- 🛒 Onion — 1 medium, white or yellow
-- 🛒 Fresh cilantro — ½ cup chopped
-- 🛒 Jalapeños — 2
-- 🛒 Corn tortillas — 24 small, or 12 six-inch flour tortillas — the good ones, not the cheapest on the shelf
-- 🛒 Herdez Street Taco Sauce, any flavor — ½ cup ([§4.98](#498-herdez-street-taco-sauce-store-bought))
-- 🛒 Limes — 3
-- Plus [§6.2 Pulled Pork](#62-pulled-pork) — 1½ lb needed here; see its own grocery list
+- 🛒 Onion — 1½ medium, white or yellow
+- 🛒 Fresh cilantro — ¾ cup chopped
+- 🛒 Jalapeños — 3 to 4
+- 🛒 Corn tortillas — 40 small, or 20 six-inch flour tortillas — the good ones, not the cheapest on the shelf
+- 🛒 Herdez Street Taco Sauce, any flavor — 1 cup, roughly one bottle ([§4.98](#498-herdez-street-taco-sauce-store-bought))
+- 🛒 Limes — 5
+- Plus [§6.2 Pulled Pork](#62-pulled-pork) — 2½ lb needed here; see its own grocery list
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~3,950 | 150 g | 230 g | 355 g | 30 g |
-| **Per serving** *(serves 5, 2 to 3 tacos each)* | ~790 | 30 g | 46 g | 71 g | 6 g |
+| **Whole dish** *(20 tacos)* | ~6,600 | 260 g | 380 g | 600 g | 50 g |
+| **Adult serving** *(5 tacos)* | ~1,650 | 65 g | 95 g | 150 g | 12.5 g |
+| **Kid serving** *(2½ tacos)* | ~825 | 33 g | 47 g | 75 g | 6 g |
 | **Per taco** | ~330 | 13 g | 19 g | 30 g | 2.5 g |
 
-**What a serving is:** one taco is two small corn tortillas (or one flour tortilla), about 2 oz of pulled pork, with onion, cilantro, jalapeño, sauce, and a lime squeeze. Figure 2 tacos as an appetizer portion, 3 to 4 for a full meal.
+**What a serving is:** one taco is two small corn tortillas (or one flour tortilla), about 2 oz of pulled pork, with onion, cilantro, jalapeño, sauce, and a lime squeeze. **A normal adult portion here is 5 tacos, not 2 or 3** — they're small and light by design, that's the whole point of the format. Kids typically run 2 to 3.
 
 [↑ Table of Contents](#table-of-contents)
 

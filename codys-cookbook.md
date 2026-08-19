@@ -410,6 +410,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | **[§T32 How to Use Heat](#t32-how-to-use-heat) added** — the fourth and last of **Samin Nosrat**'s *Salt, Fat, Acid, Heat* set, joining [§T29 How to Salt](#t29-how-to-salt), [§T30 How to Use Fat](#t30-how-to-use-fat), and [§T31 How to Use Acid](#t31-how-to-use-acid). Cody dictated the full chapter, then explicitly asked for it condensed — heat is mostly a numbers problem, and the numbers are what actually get used at the stove — so this entry is structured very differently from the other three: three compact reference tables (internal temperatures for meat/eggs, what temperature produces crisping/browning/caramelization including the Maillard reaction's ~230°F start, and a full cooking-method-to-temperature list from poaching through broiling) rather than the long narrative style of T29–T31. Carryover figures, the ground-beef food-safety floor, and the fat-smoke-point fire-safety ceiling are all folded in as numbers rather than prose. Added to the Techniques quick-index table. |
 | 2026-08-19 | **[§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) resized, per Cody: "I am a grown man and I can eat 5 street tacos."** The batch just added sized adult portions at 2 to 3 tacos — too small. Rebuilt around **20 tacos** feeding a real family: 2 adults at up to 5 tacos each plus 2 to 3 kids at 2 to 3 each, scaled up proportionally from 12 tacos to 20 (pulled pork 1½ → 2½ lb, tortillas 24 → 40, onion, cilantro, jalapeño, Herdez sauce, and limes all scaled the same way). The per-taco ratios themselves didn't change — small tortillas, a light ~2 oz fill — since a proper street taco being small is exactly why 5 of them is a normal adult meal. Nutrition block now breaks out **adult (5 tacos)** and **kid (2½ tacos)** servings alongside the whole-batch and per-taco figures, rather than one flattened "serves 5" average. |
 | 2026-08-19 | **[§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) given real quantities, per Cody: "just use typical street taco proportions."** The ingredient list had been left to-taste with no fixed amounts; now built on a 12-taco batch (serves 4–6) at standard street-taco scale — small tortillas doubled up, a light ~2 oz fill of pulled pork per taco, and a generous hand with the fresh toppings (1 Tbsp diced onion, 2 tsp cilantro, 2–3 jalapeño slices, 2 tsp Herdez sauce per taco). The grocery list and Nutrition block now carry real figures — whole-batch and per-serving, plus the existing per-taco figure — replacing the earlier to-taste/no-fixed-batch version. |
 | 2026-08-19 | **[§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) filled in** — a long-standing ❤️ placeholder, dictated by Cody rather than from a photographed page. Street-taco style: [§6.2 Pulled Pork](#62-pulled-pork)'s smoked pork butt, fresh sliced jalapeños, diced onion, fresh cilantro, corn or flour tortillas (his instruction: buy the good ones, and heat them properly before serving — not optional), a squeeze of lime, and **[§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought)**, added alongside as a new store-bought reference entry in the style of [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought)/[§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning) — no badge, no Nutrition block, since there's nothing to make. **One judgment call flagged rather than silently assumed:** the pork goes into these tacos plain, before §6.2's own step of stirring in North Carolina Vinegar Sauce, since a vinegar-forward Carolina barbecue sauce would compete with the Herdez street-taco sauce and fresh toppings rather than complement them — noted in the entry so it's easy to switch back to the sauced version if that's not what Cody meant. No fixed quantities were given, so the ingredient list is proportioned to taste and the Nutrition block is given **per taco** rather than the usual whole-dish/per-serving pair, flagged as a deliberate format change since this recipe scales with however much pulled pork is on hand. Table of Contents and Difficulty & Time Index updated; §7.1's TOC marker flips from ○ to ✅. |
@@ -7214,6 +7215,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T29](#t29-how-to-salt) | How to Salt | `salt` `seasoning` `timing` `tasting` `brine` `salting-water` `layering` |
 | [T30](#t30-how-to-use-fat) | How to Use Fat | `fat` `oil` `butter` `olive-oil` `crisp` `emulsion` `flaky` `tender` `smoke-point` `rendering` |
 | [T31](#t31-how-to-use-acid) | How to Use Acid | `acid` `vinegar` `citrus` `lemon` `lime` `balance` `macerating` `pickles` `fermentation` `umami` |
+| [T32](#t32-how-to-use-heat) | How to Use Heat | `heat` `temperature` `doneness` `maillard` `browning` `crispy` `searing` `simmering` `frying` `roasting` `internal-temp` `carryover` |
 
 ---
 
@@ -9933,6 +9935,83 @@ The standing acid shelf this entry assumes.
 - 🛒 Sour cream, crème fraîche, or plain yogurt — the easiest finishing acid there is
 - 🛒 Canned tomatoes — the workhorse cooking acid
 - 🛒 Parmesan — salt, acid, and umami in one block
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T32. How to Use Heat
+
+<!-- TECHNIQUE-TAGS: heat, temperature, doneness, maillard, browning, crispy, searing, simmering, frying, roasting, internal-temp, carryover -->
+**Tags:** `heat` · `temperature` · `doneness` · `maillard` · `browning` · `crispy` · `searing` · `simmering` · `frying` · `roasting` · `internal-temp` · `carryover`
+**Source:** **Samin Nosrat**, per Cody — the fourth and last of the set with [§T29 How to Salt](#t29-how-to-salt), [§T30 How to Use Fat](#t30-how-to-use-fat), and [§T31 How to Use Acid](#t31-how-to-use-acid), all from her book ***Salt, Fat, Acid, Heat***. Same caveat as the other three: Cody's own distillation, paraphrased rather than the book's exact wording — and **condensed hard at Cody's own request**, down from a much longer dictation, since heat is mostly a numbers problem and the numbers are what matter most standing at the stove.
+**Used in:** cross-references most doneness temps already scattered through this cookbook — [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) anchor the low end, [§6.2 Pulled Pork](#62-pulled-pork)'s 195°F pull temp and [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs)'s bone-wiggle test anchor the high end, [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)'s 160°F is the food-safety floor, and [§T1 How to Make a Roux](#t1-how-to-make-a-roux) is browning gone right up until it goes very wrong.
+
+#### The big idea, in one line
+
+Heat has no flavor of its own — it's what turns raw into cooked, crisp, or browned. **Stop watching the dial, start watching the food**: ovens genuinely swing ±20°F around their set point, but your eyes, ears, nose, and fingers almost never lie to you.
+
+#### Internal temperatures — meat, poultry, eggs
+
+| Target | Temp | Note |
+|---|---|---|
+| Tender red meat (steak, lamb chop) starts drying out | past **140°F** | pull it before this for juicy |
+| Chicken/turkey breast starts drying out | past **160°F** | more forgiving than red meat |
+| Ground beef — food-safety floor | **160°F** | grinding spreads surface bacteria through the meat; see [§7.76](#776-hamburgers-with-herb-butter) |
+| Pulled pork, fall-apart tender | **~195°F** | collagen has fully melted to gelatin by here; wiggle the bone as a second check |
+| Custard, done | jiggles at center, set at edge | judged by wobble, never by a number |
+| Carryover after pulling — large roasts | **+15°F** | pull well before target |
+| Carryover after pulling — steaks/chops | **+5°F** | pull just short of target |
+| Once internal hits 100°F, a roast climbs about | **1°F per minute** | your rough countdown to target |
+
+#### What temperature gets you crispy, browned, or caramelized
+
+| Effect | Temp | Why |
+|---|---|---|
+| Water boils (sea level) | **212°F** | the ceiling for anything water-based — water alone can't brown food |
+| Maillard browning starts | **~230°F** | surface has to fully dry first; any surface moisture stalls at 212°F until it's gone |
+| Sugar syrup sets as nougat | **~290°F** | |
+| Same syrup becomes toffee | **~300°F** | just 10°F more |
+| Sugar caramelizes | **~340°F** | molecules break apart and reorganize — the source of bitter/nutty/buttery caramel flavor |
+| Deep- or shallow-frying, the sweet spot | **365°F** | lower turns soggy; higher burns the outside before the inside cooks |
+| Rendering animal fat — safety ceiling | **375°F** | this is the smoke point of most animal fats; go hotter and rendering fat can ignite |
+
+#### Cooking-method temperature reference
+
+| Method | Temp | Best for |
+|---|---|---|
+| Poaching | gentler than a simmer, barely moving | eggs, fish, shellfish, tender meats |
+| Simmering | **180–205°F**, small steady bubbles | almost everything cooked in liquid — beans, braises, stock, sauces, risotto |
+| Boiling | **212°F**, full rolling | vegetables, pasta, blanching, reducing |
+| Bain-marie / water bath | never exceeds **212°F** | custards, soufflés, melting chocolate — the widest margin for error |
+| Sweating | low heat, covered, steam trapped | onions and mirepoix, no browning wanted |
+| Sautéing | high heat, thin film of fat | small, fast-cooking pieces |
+| Pan-frying | medium-high, about ¼" fat | fish fillets, chops — a bit cooler than sautéing so the inside catches up |
+| Shallow- or deep-frying | **365°F** | battered/breaded food, starchy vegetables |
+| Braising (oven) | start 425°F+, drop to **275–350°F** | tough, collagen-rich cuts |
+| Confit | fat barely bubbling — a bubble every few seconds | duck legs and other slow fat-poaching |
+| Dehydrating | **under 200°F** | jerky, dried fruit and tomatoes — water out, no color |
+| Oven, low | **175–275°F** | meringues — dries without browning |
+| Oven, medium-low | **275–350°F** | most baking — cakes, cookies, pie crust |
+| Oven, medium-high | **350–425°F** | gratins, casseroles — browning the top |
+| Oven, high | **425°F+** | flaky pastry, cream puffs — fast steam-driven oven spring |
+| Slow-roasting | **200–300°F** | fatty fish or meat basting itself as its own fat renders |
+| Roasting | **350–450°F**, start hot then step down in 25°F increments | most roasts, once browning has started |
+| Toasting | **350–450°F** | thin and delicate at the low end, thick at the high end |
+| Grilling, indirect zone | **200–300°F** | bone-in cuts, whole birds — this is barbecue and smoking |
+| Broiling | very high, close to the element | 20 seconds from perfect to burnt — never walk away |
+
+#### The two categories everything above sorts into
+
+- **Gentle heat → tenderness.** Poaching, simmering, steaming, braising, confit, sweating, bain-marie, slow-roasting, low-heat baking, smoking.
+- **Intense heat → browning.** Sautéing, frying, searing, grilling direct, broiling, high-heat baking, roasting, toasting.
+- **Tough or starchy food usually needs both, in order** — brown first, then cook low and slow (a braise); or simmer tender, then fry crisp (a potato hash).
+
+#### Three rules worth keeping
+
+- **The grilled-cheese test.** The outside should finish browning at the exact moment the inside finishes cooking — too hot burns the surface before the center catches up, too low dries the surface before it ever browns. Ask this of everything: a roast chicken's skin against its meat, a seared steak's crust against its center.
+- **Don't trust the oven dial.** Set to 350°F, an oven actually cycles roughly 330–370°F the whole time it's running, and opening the door drops it further. Set the timer a little short and finish by watching the food.
+- **Salt meat ahead when there's time.** It restructures the protein so the meat holds more water through cooking — real insurance against overcooking a tender cut, covered in full at [§T29 How to Salt](#t29-how-to-salt).
 
 [↑ Table of Contents](#table-of-contents)
 

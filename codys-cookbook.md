@@ -410,6 +410,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | **Meathead's "Software" chapter added as three more technique entries — condensed at Cody's own invitation, unlike T33–T35.** [§T36 What Meat Actually Is](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) covers muscle composition, why collagen (melts to gelatin) and elastin (never breaks down) behave so differently, marbling's 130–140°F melt point, myowater vs. the blood myth, slow-twitch/fast-twitch as the reason dark meat is dark, buying-meat tips (know your butcher, avoid "purge" and "enhanced" labels), real tenderizing methods, and the room-temperature-meat myth-bust (a 1½" steak needs 2+ hours to actually reach room temp at the center — straight from the fridge is fine and pulls more smoke besides). **[§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) is the one Cody flagged as most important** — cross-linked with [§T29 How to Salt](#t29-how-to-salt) rather than replacing it, since the two agree where they overlap and this one adds Meathead's actual numbers: brined chicken lost only 7% weight cooking vs. 18% untreated; salt barely travels ⅔" into meat after a full 24-hour soak, but heat pushes it in far faster than soaking time ever does; and a dry-vs-wet brine comparison table. **Records "the Roberts Way" as Cody's own standing practice** — dry brine, heavy, every time — with three notes on going heavier than Meathead's own ½ tsp/lb baseline: big cuts hide a lot of salt (only ⅔" penetration after a day means most of a brisket's interior stays unsalted), the real ceiling is toughening the proteins rather than oversalting, and a thick fat cap blocks salt almost completely. Also carries the **double-salt jeopardy** warning — leave salt out of the rub when brining heavy, or the two stack. [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) is the shortest of the three: salt is the one thing small enough to actually penetrate meat, so rubs, injections, and marinades are all exterior treatments by comparison, capped at about ⅛ inch — with myth-busts for rub-massaging, plastic-wrap "rest for penetration," and marinades in general (proven with green food coloring and a steak with a hole carved in it and filled with oil that never soaked in). All three added to the Techniques quick index as T36–T38. |
 | 2026-08-19 | **Meathead's material has arrived — three new technique entries, and the [§T32](#t32-how-to-use-heat) override is now actually applied, not just flagged.** [§T33 How Meat Actually Cooks](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) covers conduction (the outside cooks the inside, and it's slow because water absorbs heat well), why meat is never one uniform temperature, and two genuine myth-busts: **carryover has no fixed +15°F/+5°F rule** — it scales with thickness and fire temperature, which directly overrides the flat figures §T32 had borrowed from Nosrat (that row is now struck through and points here) — and **resting doesn't meaningfully reduce juice loss**, per meat scientist Antonio Mata and Prof. Greg Blonder's own side-by-side tests, plus it costs a soggy crust and carryover risk; also covers the stall (evaporative cooling parking a low-and-slow cook at 150–165°F) and why 325°F pushes through it. [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) names the direct/indirect setup this cookbook's grilling recipes have been assuming without ever spelling out, plus the ¾-inch lid-on/lid-off rule. [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) covers what smoke actually is (unburned flammable gases, mostly flavor in the invisible ones), why it clings to cold wet surfaces, the smoke ring's real chemistry (nitric oxide/CO locking in pink myoglobin — not caused by billowing smoke), four more myth-busts (smoke absorption doesn't stop after an hour, creosote isn't the bad kind, more smoke isn't better, don't soak your wood — Meathead's own 12-hour weigh-in and a 15-team survey back that last one), and a practical wood-buying and blue-smoke checklist. All three added to the Techniques quick index as T33–T35. |
 | 2026-08-19 | **Standing override recorded, cross-linked both directions: [§13 Meathead Cookbook](#13-meathead-cookbook) beats [§T32 How to Use Heat](#t32-how-to-use-heat) on meat doneness temperatures.** Per Cody — Meathead Goldwyn is a BBQ Hall of Famer and dedicated meat-science writer, so once his source material actually arrives, his numbers take precedence over Samin Nosrat's more general figures in §T32's "Internal temperatures" table wherever the two disagree. **Meathead's own temps are forthcoming, not yet documented anywhere in this cookbook** — this is a flag for future reconciliation, not new data. |
 | 2026-08-19 | **[§T32 How to Use Heat](#t32-how-to-use-heat) added** — the fourth and last of **Samin Nosrat**'s *Salt, Fat, Acid, Heat* set, joining [§T29 How to Salt](#t29-how-to-salt), [§T30 How to Use Fat](#t30-how-to-use-fat), and [§T31 How to Use Acid](#t31-how-to-use-acid). Cody dictated the full chapter, then explicitly asked for it condensed — heat is mostly a numbers problem, and the numbers are what actually get used at the stove — so this entry is structured very differently from the other three: three compact reference tables (internal temperatures for meat/eggs, what temperature produces crisping/browning/caramelization including the Maillard reaction's ~230°F start, and a full cooking-method-to-temperature list from poaching through broiling) rather than the long narrative style of T29–T31. Carryover figures, the ground-beef food-safety floor, and the fat-smoke-point fire-safety ceiling are all folded in as numbers rather than prose. Added to the Techniques quick-index table. |
@@ -7221,6 +7222,9 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) | How Meat Actually Cooks — Conduction, Carryover, and Why Resting Is a Myth | `meathead` `conduction` `carryover` `resting` `stall` `myth` `internal-temp` `meat-science` |
 | [T34](#t34-two-zone-fire-setup) | Two-Zone Fire Setup | `meathead` `two-zone` `direct-heat` `indirect-heat` `grilling` `searing` `lid` |
 | [T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) | Smoke Science — Combustion, the Smoke Ring, and Getting Blue Smoke | `meathead` `smoke` `smoke-ring` `wood` `creosote` `blue-smoke` `combustion` `myth` |
+| [T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) | What Meat Actually Is — Composition, Connective Tissue, and Buying It Right | `meathead` `meat-science` `connective-tissue` `collagen` `myoglobin` `marbling` `buying-meat` `tenderizing` |
+| [T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) | Salt, Brining, and the Dry Brine — Cody's Standing Practice: Heavy, Every Time | `meathead` `salt` `dry-brine` `wet-brine` `juiciness` `myth` `roberts-way` |
+| [T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) | Rubs, Injecting, and Marinades — How Deep Each One Actually Goes | `meathead` `rub` `injection` `marinade` `myth` |
 
 ---
 
@@ -9389,7 +9393,7 @@ Not tracked here — like [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys
 <!-- TECHNIQUE-TAGS: salt, seasoning, timing, tasting, brine, salting-water, layering -->
 **Tags:** `salt` · `seasoning` · `timing` · `tasting` · `brine` · `salting-water` · `layering`
 **Source:** Samin Nosrat, per Cody — almost certainly her *Salt, Fat, Acid, Heat*, going by the framing and content, though this entry is Cody's own distillation rather than a photographed page, so it's transcribed as a paraphrase and taught here in his words rather than quoted as the book's exact text. **The same book is the presumed source behind [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** — that one was inferred from illustration style and never confirmed against a title page either; the two entries now corroborate each other without either being a hard confirmation.
-**Used in:** every recipe in this cookbook touches salt somewhere, but especially the ones already built around *when* to salt — [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s dry brine, [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method)'s sous vide salting, [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure, and the salted-boiling-water steps in [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and [§T20 Fresh Pasta](#t20-fresh-pasta-and-how-to-cut-it). **Read alongside [§T30 How to Use Fat](#t30-how-to-use-fat) and [§T31 How to Use Acid](#t31-how-to-use-acid)** — same source, and the three interact directly. The one-line summary of all three: **salt to enhance, fat to carry, acid to balance.**
+**Used in:** every recipe in this cookbook touches salt somewhere, but especially the ones already built around *when* to salt — [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s dry brine, [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method)'s sous vide salting, [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage)'s multi-day cure, and the salted-boiling-water steps in [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and [§T20 Fresh Pasta](#t20-fresh-pasta-and-how-to-cut-it). **Read alongside [§T30 How to Use Fat](#t30-how-to-use-fat) and [§T31 How to Use Acid](#t31-how-to-use-acid)** — same source, and the three interact directly. The one-line summary of all three: **salt to enhance, fat to carry, acid to balance.** **Also read alongside [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)** — a different source (Meathead Goldwyn) covering the same ground with actual measured numbers and the wet-vs-dry brine science this entry doesn't get into.
 
 #### The big idea
 
@@ -10169,6 +10173,150 @@ Use **hardwoods, fruitwoods, and nutwoods** — their dense cell structure burns
 **Chips flaming up is actually fine, not a problem to panic over** — flames mean clean combustion and blue smoke; you'll just burn through wood faster and risk a temperature spike. To control it, wrap chips in heavy foil poked with holes, use a small perforated pan, or a cast iron skillet.
 
 **The "smoke bomb" trick for long cooks you can't easily reach under the grate:** set out two foil pans of dry wood chips, and cover just one of them with water. The dry pan starts smoking immediately; about 15 minutes after it burns out, the second, previously-wet pan has dried out from the ambient heat and takes over — giving you a second wave of smoke without having to open the cooker.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T36. What Meat Actually Is — Composition, Connective Tissue, and Buying It Right
+
+<!-- TECHNIQUE-TAGS: meathead, meat-science, connective-tissue, collagen, myoglobin, marbling, buying-meat, tenderizing -->
+**Tags:** `meathead` · `meat-science` · `connective-tissue` · `collagen` · `myoglobin` · `marbling` · `buying-meat` · `tenderizing`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Software" chapter (p. 26–41), dictated by Cody. Companion to [§T33–T35](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) from the same book's heat/smoke chapters. **Condensed at Cody's own invitation** ("don't be afraid to condense this") rather than kept at full length like T33–T35.
+**Used in:** the science behind why [§6.2 Pulled Pork](#62-pulled-pork), [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket), and [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) are all low-and-slow, collagen-rich cuts, while lean cuts in this cookbook never get that treatment.
+
+#### Muscle, in one line
+
+Water, protein, fat, and trace stuff — every cut is built the same way, just in different proportions. *(Roughly, water/protein/fat: beef 72/21/6, pork 69/20/10, chicken 73/21/5, lamb 73/20/5, cod 81/17/1, salmon 64/21/14.)*
+
+#### Connective tissue — the one that matters most
+
+- **Collagen**, scattered through the muscle, melts into gelatin under low, slow heat — silky and juicy. Tough cuts (ribs, shoulder, brisket) are loaded with it; lean cuts (tenderloin, chicken breast) have almost none, so a long cook does nothing for them.
+- **Elastin** (tendons, ligaments, silverskin) never breaks down, no matter how long it cooks — trim it rather than try to cook through it.
+
+#### Fat
+
+Subcutaneous (under the skin), intermuscular (between muscles), and intramuscular — **marbling**. Marbling starts melting at 130–140°F, exactly when muscle fibers are turning tough from heat, so it self-bastes from the inside. Fat also banks the animal's diet as flavor over time: older animal = more flavor, tougher; younger = milder, more tender.
+
+#### Myowater, not blood
+
+The pink liquid on a plate or in the package is **myowater** — water carrying myoglobin, the muscle's oxygen-storage protein. Real blood is dark and coagulates; myowater stays thin and pink.
+
+> ⚠️ **Myth busted: that's blood.** It isn't. Meathead thinks this mislabeling is a real reason people over-order "well done" or give up on meat entirely.
+
+#### Slow-twitch vs. fast-twitch — why dark meat is dark
+
+Muscles that work steadily (legs, thighs) need more oxygen, so they carry more myoglobin — darker, richer, more forgiving to cook. Muscles built for short bursts (chicken breast) carry less myoglobin, less fat, less collagen — exactly why breast dries out and thighs don't. Same logic: duck/goose breast runs nearly beef-dark (they fly and swim); fish is never tough but does dry out (almost no collagen to convert); heritage pastured pork runs redder and juicier than lean confinement-raised pork.
+
+#### Buying meat
+
+- **Know your butcher** — introduce yourself, get their direct line. They'll special-order a whole brisket, custom-grind, cut to your thickness.
+- Look for **even thickness** (a tapered end overcooks before the thick end is done) and **good marbling**.
+- **Avoid "purge"** — pooled liquid in the package usually means it was frozen and thawed; that flavor is gone for good.
+- **Skip "enhanced"/"self-basting"/"injected"/"marinated" labels** — that's salty fluid you're paying meat prices for. Salt it yourself.
+
+#### Tenderizing — what actually works
+
+- **Enzyme tenderizers** (papain, bromelain) only work fresh, in a 120–160°F window — a mushy surface with no real interior effect on a steak cooked rare-to-medium. Skip them, and never stab meat with a fork hoping to help absorption — that drives surface bacteria inward.
+- **Jaccard/needle tenderizers** genuinely work, but push surface pathogens deep — only safe on meat headed to 165°F+.
+- **Pound chicken breast flat** (bag it, whack with the bottom of a heavy pan, not a mallet) so the thick end and thin end finish cooking together.
+- **Slice against the grain** — find which way the fibers run, cut across them. You're doing the chewing for your teeth.
+
+> ⚠️ **Myth busted: let meat come to room temperature first.** The math looks right (less climb to target = less overcooked meat under the surface), but the real numbers don't cooperate — a 1½" steak needs over 2 hours to actually reach room temp at the center, a 4½ lb pork roast needs 10. **Straight from the fridge is fine** — it heats faster once it's actually in the cooker than it ever does sitting on the counter, and cold meat pulls in more smoke besides.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T37. Salt, Brining, and the Dry Brine — Cody's Standing Practice: Heavy, Every Time
+
+<!-- TECHNIQUE-TAGS: meathead, salt, dry-brine, wet-brine, juiciness, myth, roberts-way -->
+**Tags:** `meathead` · `salt` · `dry-brine` · `wet-brine` · `juiciness` · `myth` · `roberts-way`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right). Reads alongside **[§T29 How to Salt](#t29-how-to-salt)** (Nosrat) rather than replacing it — where the two overlap they agree; this entry adds Meathead's actual measured numbers and the dry-vs-wet brine science §T29 doesn't cover as specifically.
+**Used in:** [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) is Cody's own dry-brine-or-wet-marinade method for ribs, already doing exactly what this entry explains; the rub-cure steps in [§6.2](#62-pulled-pork), [§6.6](#66-north-carolina-pulled-pork-karmel-version), and [§6.8](#68-memphis-style-beef-ribs) are all dry brines by another name.
+
+> **📌 "On the Roberts Way," per Cody: dry brine, heavy, every time.** Not a guess — it's what the numbers below actually favor, and it's why this entry exists rather than staying folded into §T29.
+
+#### Salt types — in practice, you can't taste the difference
+
+Table salt is fine, uniform, usually iodized. Kosher salt (Meathead uses Morton's) has bigger flake grains, no iodine, dissolves slowly — good for pinching and for finishing. Pickling salt has nothing added and dissolves fast in cold water — good for brines. Sea salt is ~99.5% NaCl once refined — fine as a tableside garnish, nothing more. **Curing salts** (Prague Powder #1/#2) are dyed pink and contain nitrite — they fight botulism specifically and are never a table seasoning. **Himalayan pink salt is NOT a curing salt.**
+
+> **Measure salt by weight, not volume.** Grain size changes how much air sits in a spoonful — 1 tsp Morton's Kosher ≈ ½ tsp table salt. A pound of any of them has the same total NaCl.
+
+> ⚠️ **Myth busted: searing seals in the juices.** The crust isn't waterproof — that sizzle is moisture still escaping right through it. Sear anyway, for the browning flavor, not to seal anything.
+
+#### Why brining works — the actual numbers
+
+Salt restructures meat proteins so they **grip water more tightly** under heat. *Cook's Illustrated*: untreated chicken lost 18% of its weight cooking, plain-water-soaked lost 12%, **brined lost only 7%** — and the retained water sits mostly near the surface, exactly where meat dries out first.
+
+**How far salt travels with a wet brine and no heat:** 30 min → ⅒", 1 hr → ¼", 8 hr → ½", 24 hr → ⅔" — **not even a full inch after a full day.**
+
+**Heat moves salt far faster than soaking time does.** Cooked at 230°F: salt reached ⅓" at 100°F internal, ½" at 125°F, ¾" at 145°F, 1" at 160°F. **The real lesson: cooking does most of the distributing, not the wait.**
+
+> ⚠️ **Myth busted: it's osmosis.** Salt is a tiny molecule — it mostly just diffuses through the wide-open cuts, cracks, and capillaries already in the meat. Osmosis only matters once it's already inside the cell.
+
+**The one hard ceiling:** too much salt re-toughens the muscle proteins during cooking — that's the actual thing to watch for, not just "too salty."
+
+#### Dry brine vs. wet brine
+
+| | Dry brine | Wet brine |
+|---|---|---|
+| Method | salt straight onto the surface, into the fridge | submerge in 5–10% salt water |
+| Best for | almost everything — Meathead's own default now | fish, chicken/turkey breasts, pork chops — fast-cooking cuts that would dry out before absorbed water can escape |
+| Skip it on | — | fatty cuts (thighs, ribs, shoulder) that don't need the help |
+| Poultry skin | **crisps it** | softens and sogs it |
+| Amount | ~½ tsp kosher salt (¼ tsp table) per lb — **salt tolerance is personal; treat this as a floor, not a ceiling** | 5–10% salt by weight (1 cup table salt per gallon water ≈ 7.7%) |
+| Timing | steaks/chops ~1 hr ahead; roasts overnight to a full day; chicken/turkey at least 2–4 hr, right on the skin | long enough to hit the numbers above — usually overnight |
+
+**Sugar in the brine** (roughly equal to the salt): it can't penetrate more than a fraction of an inch, but it's worth adding anyway — it clings to the surface and pores and helps browning, especially at lower cooking temps.
+
+**Pickling and curing are the same idea, escalated:** pickling brine is stronger and slower (days, since bigger flavor/preservative molecules move in gradually); curing brine adds nitrite/nitrate specifically against botulism (corned beef, bacon, ham, hot dogs) and runs salty enough to actually dehydrate the meat.
+
+> ⚠️ **DOUBLE-SALT JEOPARDY — the one that matters most for going heavy on dry brine.** Commercial rubs are usually already salt-heavy. Brine heavy, then add a salty rub on top, and the two stack into inedible. **Fix: leave salt out of the rub blend and season it separately from the brine**, so it's only ever counted once. Never brine anything already labeled "enhanced"/"basted," and taste before salting any gravy made from brined drippings — salt can be added, never subtracted.
+
+#### On going heavier than Meathead's own ½ tsp/lb — three things worth knowing
+
+1. **Big cuts hide a lot of salt.** Even after 24 hours, salt has moved maybe ⅔" into a brisket or pork butt — most of the interior mass stays unsalted. A heavy surface dose on a 15 lb butt reads far milder on the plate than the same dose on a steak, so going heavier specifically on big smoked cuts is exactly where that instinct pays off.
+2. **The ceiling is toughening, not saltiness** — that's the thing to actually watch for.
+3. **A thick fat cap blocks salt almost completely** — on a brisket, the salt is only doing real work where the meat itself is exposed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T38. Rubs, Injecting, and Marinades — How Deep Each One Actually Goes
+
+<!-- TECHNIQUE-TAGS: meathead, rub, injection, marinade, myth -->
+**Tags:** `meathead` · `rub` · `injection` · `marinade` · `myth`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)/[§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+**Used in:** [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) and every rub in [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments) — [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) and the rest — are all working within the ⅛-inch limit this entry describes.
+
+**The one idea that organizes all three:** salt is small enough to actually get inside meat (see [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)); spice, herb, and marinade molecules are huge by comparison and rarely get past ⅛ inch. **Salt is an interior treatment. Everything below is an exterior one — a flavorful crust, not a deep cure.**
+
+#### Rubs
+
+Strong-tasting meat (a great steak, fresh swordfish) needs little beyond salt and pepper; mild meat (pork, chicken breast, turkey) is a blank canvas. **Taste it cooked, not from the jar** — meat juices and fire heat drive reactions among the spices that don't exist in the dry mix. Batch a rub and keep it in a shaker; a few grains of oven-dried rice absorb moisture if it clumps.
+
+> ⚠️ **Myth busted: massaging the rub in squeezes out juice.** No — the surface is already cut open in countless places, so rubbing loses no more juice than sprinkling, and it helps the rub actually make contact.
+> ⚠️ **Myth busted: rub it, wrap in plastic, rest overnight for deeper penetration.** Plastic wrap isn't a pressure system, and it pulls the rub right back off when you unwrap it. **Rub doesn't need a head start the way salt does — apply it just before cooking.** A little water, mustard, or ketchup helps it stick; the binder itself makes no real flavor difference.
+
+#### Injecting
+
+The only way to get big flavor molecules **deep** into the muscle, since rubs, mops, marinades, and brines all stop at the surface.
+
+- Keep it simple: **1–2% of the meat's weight in salt**, saltwater or stock as the base — skip garlic/pepper/herbs, which mask the meat rather than flavoring it from within.
+- The liquid moves between fiber bundles, not inside individual fibers; excess squirts back out.
+- **Safety: only inject meat headed to 160°F or higher** (chicken, turkey, pork butt, brisket) — injecting drives surface contaminants deep.
+- Use a real meat injector (stainless, side-holed needle) — a plain tip-hole needle clogs with meat instantly.
+
+#### Marinades
+
+> ⚠️ **Myth busted: marinades penetrate deep.** Rarely past ⅛ inch even overnight. Meathead proved it with green food coloring (a molecule comparable in size to real flavor compounds): surface color only on most meats, none in a core sample from the center; oil poured into a carved-out crater in a steak still hadn't soaked in hours later (meat is ~70% water, and oil and water don't mix).
+
+- What a marinade actually does well: **bake onto the surface as a flavorful crust** — basically a wet rub — not tenderize or flavor the interior.
+- Best on **thin cuts**; **gashing/scoring the surface** helps it reach more cracks and adds browning surface area too.
+- A wet surface fights browning — this is the real cost of marinating, not a myth.
+- Building one: **salt first** (the one ingredient that really does penetrate — soy sauce is a good vehicle), go wild on dry flavorings, keep **acid to ⅛ of the blend or less** (more turns the surface mushy rather than just flavoring it), keep the whole thing **thin** (never marinate in barbecue sauce — too thick to penetrate, and it'll burn), and skip alcohol.
 
 [↑ Table of Contents](#table-of-contents)
 

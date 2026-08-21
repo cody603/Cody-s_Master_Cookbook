@@ -410,6 +410,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | **Meathead's material has arrived — three new technique entries, and the [§T32](#t32-how-to-use-heat) override is now actually applied, not just flagged.** [§T33 How Meat Actually Cooks](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) covers conduction (the outside cooks the inside, and it's slow because water absorbs heat well), why meat is never one uniform temperature, and two genuine myth-busts: **carryover has no fixed +15°F/+5°F rule** — it scales with thickness and fire temperature, which directly overrides the flat figures §T32 had borrowed from Nosrat (that row is now struck through and points here) — and **resting doesn't meaningfully reduce juice loss**, per meat scientist Antonio Mata and Prof. Greg Blonder's own side-by-side tests, plus it costs a soggy crust and carryover risk; also covers the stall (evaporative cooling parking a low-and-slow cook at 150–165°F) and why 325°F pushes through it. [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) names the direct/indirect setup this cookbook's grilling recipes have been assuming without ever spelling out, plus the ¾-inch lid-on/lid-off rule. [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) covers what smoke actually is (unburned flammable gases, mostly flavor in the invisible ones), why it clings to cold wet surfaces, the smoke ring's real chemistry (nitric oxide/CO locking in pink myoglobin — not caused by billowing smoke), four more myth-busts (smoke absorption doesn't stop after an hour, creosote isn't the bad kind, more smoke isn't better, don't soak your wood — Meathead's own 12-hour weigh-in and a 15-team survey back that last one), and a practical wood-buying and blue-smoke checklist. All three added to the Techniques quick index as T33–T35. |
 | 2026-08-19 | **Standing override recorded, cross-linked both directions: [§13 Meathead Cookbook](#13-meathead-cookbook) beats [§T32 How to Use Heat](#t32-how-to-use-heat) on meat doneness temperatures.** Per Cody — Meathead Goldwyn is a BBQ Hall of Famer and dedicated meat-science writer, so once his source material actually arrives, his numbers take precedence over Samin Nosrat's more general figures in §T32's "Internal temperatures" table wherever the two disagree. **Meathead's own temps are forthcoming, not yet documented anywhere in this cookbook** — this is a flag for future reconciliation, not new data. |
 | 2026-08-19 | **[§T32 How to Use Heat](#t32-how-to-use-heat) added** — the fourth and last of **Samin Nosrat**'s *Salt, Fat, Acid, Heat* set, joining [§T29 How to Salt](#t29-how-to-salt), [§T30 How to Use Fat](#t30-how-to-use-fat), and [§T31 How to Use Acid](#t31-how-to-use-acid). Cody dictated the full chapter, then explicitly asked for it condensed — heat is mostly a numbers problem, and the numbers are what actually get used at the stove — so this entry is structured very differently from the other three: three compact reference tables (internal temperatures for meat/eggs, what temperature produces crisping/browning/caramelization including the Maillard reaction's ~230°F start, and a full cooking-method-to-temperature list from poaching through broiling) rather than the long narrative style of T29–T31. Carryover figures, the ground-beef food-safety floor, and the fat-smoke-point fire-safety ceiling are all folded in as numbers rather than prose. Added to the Techniques quick-index table. |
 | 2026-08-19 | **[§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) resized, per Cody: "I am a grown man and I can eat 5 street tacos."** The batch just added sized adult portions at 2 to 3 tacos — too small. Rebuilt around **20 tacos** feeding a real family: 2 adults at up to 5 tacos each plus 2 to 3 kids at 2 to 3 each, scaled up proportionally from 12 tacos to 20 (pulled pork 1½ → 2½ lb, tortillas 24 → 40, onion, cilantro, jalapeño, Herdez sauce, and limes all scaled the same way). The per-taco ratios themselves didn't change — small tortillas, a light ~2 oz fill — since a proper street taco being small is exactly why 5 of them is a normal adult meal. Nutrition block now breaks out **adult (5 tacos)** and **kid (2½ tacos)** servings alongside the whole-batch and per-taco figures, rather than one flattened "serves 5" average. |
@@ -7217,6 +7218,9 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T30](#t30-how-to-use-fat) | How to Use Fat | `fat` `oil` `butter` `olive-oil` `crisp` `emulsion` `flaky` `tender` `smoke-point` `rendering` |
 | [T31](#t31-how-to-use-acid) | How to Use Acid | `acid` `vinegar` `citrus` `lemon` `lime` `balance` `macerating` `pickles` `fermentation` `umami` |
 | [T32](#t32-how-to-use-heat) | How to Use Heat | `heat` `temperature` `doneness` `maillard` `browning` `crispy` `searing` `simmering` `frying` `roasting` `internal-temp` `carryover` |
+| [T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) | How Meat Actually Cooks — Conduction, Carryover, and Why Resting Is a Myth | `meathead` `conduction` `carryover` `resting` `stall` `myth` `internal-temp` `meat-science` |
+| [T34](#t34-two-zone-fire-setup) | Two-Zone Fire Setup | `meathead` `two-zone` `direct-heat` `indirect-heat` `grilling` `searing` `lid` |
+| [T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) | Smoke Science — Combustion, the Smoke Ring, and Getting Blue Smoke | `meathead` `smoke` `smoke-ring` `wood` `creosote` `blue-smoke` `combustion` `myth` |
 
 ---
 
@@ -9963,9 +9967,8 @@ Heat has no flavor of its own — it's what turns raw into cooked, crisp, or bro
 | Ground beef — food-safety floor | **160°F** | grinding spreads surface bacteria through the meat; see [§7.76](#776-hamburgers-with-herb-butter) |
 | Pulled pork, fall-apart tender | **~195°F** | collagen has fully melted to gelatin by here; wiggle the bone as a second check |
 | Custard, done | jiggles at center, set at edge | judged by wobble, never by a number |
-| Carryover after pulling — large roasts | **+15°F** | pull well before target |
-| Carryover after pulling — steaks/chops | **+5°F** | pull just short of target |
-| Once internal hits 100°F, a roast climbs about | **1°F per minute** | your rough countdown to target |
+| Carryover after pulling — Nosrat's rule of thumb, superseded ⚠️ | ~~+15°F large roasts, +5°F steaks/chops~~ | **[§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) busts this as a myth** — carryover has no fixed number, it depends on cut thickness and how hot the fire was |
+| Once internal hits 100°F, a roast climbs about | **1°F per minute** | Nosrat's figure — Meathead's material doesn't address this one directly, so it stands unless/until contradicted |
 
 #### What temperature gets you crispy, browned, or caramelized
 
@@ -10015,6 +10018,157 @@ Heat has no flavor of its own — it's what turns raw into cooked, crisp, or bro
 - **The grilled-cheese test.** The outside should finish browning at the exact moment the inside finishes cooking — too hot burns the surface before the center catches up, too low dries the surface before it ever browns. Ask this of everything: a roast chicken's skin against its meat, a seared steak's crust against its center.
 - **Don't trust the oven dial.** Set to 350°F, an oven actually cycles roughly 330–370°F the whole time it's running, and opening the door drops it further. Set the timer a little short and finish by watching the food.
 - **Salt meat ahead when there's time.** It restructures the protein so the meat holds more water through cooking — real insurance against overcooking a tender cut, covered in full at [§T29 How to Salt](#t29-how-to-salt).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T33. How Meat Actually Cooks — Conduction, Carryover, and Why Resting Is a Myth
+
+<!-- TECHNIQUE-TAGS: meathead, conduction, carryover, resting, stall, myth, internal-temp, meat-science -->
+**Tags:** `meathead` · `conduction` · `carryover` · `resting` · `stall` · `myth` · `internal-temp` · `meat-science`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — dictated by Cody. Meathead is a BBQ Hall of Famer and world champion, and per the [§T32](#t32-how-to-use-heat) override Cody recorded, **his meat-doneness material beats [§T32 How to Use Heat](#t32-how-to-use-heat)'s Nosrat-sourced figures wherever the two disagree** — see the flagged carryover row in that entry's Internal Temperatures table, corrected against this one below.
+**Used in:** applies to every roasted or smoked cut in this cookbook — [§6.2 Pulled Pork](#62-pulled-pork), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), and every future [§13 Meathead Cookbook](#13-meathead-cookbook) recipe should be read with the resting myth-bust in mind rather than a generic "let it rest" instruction.
+
+#### The big idea, in one line
+
+**The outside of the meat cooks the inside** — the fire only ever touches the surface, and that heat has to crawl inward molecule by molecule (conduction). Meat is ~70% water, and water trapped in muscle fiber is a great heat *absorber*, which is exactly why that crawl is slow — fat insulates even more.
+
+#### Meat is never one temperature
+
+Surface can hit 212°F while the center is still 125°F. **212°F is the practical ceiling on the surface itself**, not just the cooking liquid — evaporating surface moisture carries heat away as fast as it arrives, so the wet surface can't climb much past boiling until it actually dries out. That's the same mechanism [§T32](#t32-how-to-use-heat) uses to explain why Maillard browning needs a dry surface first.
+
+- **Corners and thin points overcook first** — heat attacks them from two or three sides at once.
+- **Bones heat slower than meat** — they're full of air and fat, not water, so they lag behind and can throw off a probe reading taken too close to one.
+
+#### Carryover cooking — the real rule
+
+After the meat comes off the heat, stored heat in the outer layers keeps marching toward the center for 20 minutes or more. That part's real. What's not real:
+
+> ⚠️ **Myth busted: "plan on 5–10°F of carryover."** There's no fixed rule of thumb, and the flat **+15°F large roasts / +5°F steaks** figure some sources give (including [§T32](#t32-how-to-use-heat)'s Nosrat-sourced version) doesn't hold up. **Carryover depends on thickness and cooking temperature:** thin cuts have more surface relative to their interior, so proportionally more stored heat pushes inward. And a 500°F fire crams far more energy into the outer layer than a 225°F fire does — so **hot-and-fast cooking always means more carryover**, not a fixed number regardless of method.
+
+**Meathead's own roast example, worth keeping as a cautionary case:** pulled at 130°F center → after 10 minutes the center has already passed medium-rare → after 20 minutes the whole roast has equalized at medium-well, and moisture that migrated out from the interior has gone and softened what was a good crust. Pulled "in time" by the numbers, ruined by carryover anyway. **The fix isn't a bigger safety margin — it's understanding that the margin itself moves** with thickness and fire temperature.
+
+#### Myth busted: meat needs to rest
+
+> **The claim, as usually stated:** muscle fibers are like water balloons squeezed tight by heat; resting lets them relax so the juices stay in when you cut.
+>
+> **Why it's wrong, per meat scientist Antonio Mata:** fibers aren't balloons. Water isn't trapped under pressure inside them the way the analogy implies, so pressure equalizes almost instantly rather than needing minutes to "relax" — and water doesn't expand meaningfully at meat-cooking temperatures in the first place.
+>
+> **The tests, run by Prof. Greg Blonder:**
+> - Two ribeyes cooked to 125°F — the unrested steak gave up about 6 tsp of juice on the cutting board; the rested one gave up about 5 tsp. Barely a difference.
+> - Two 33-oz pork loins cooked to 140°F — unrested lost 3 oz of juice, rested lost 2 oz. Then he poured that 3 oz back over the sliced *unrested* meat, and it reabsorbed about 1 oz — which is roughly the entire "savings" resting was supposed to buy.
+>
+> **Resting has real costs, not just a non-benefit:** a soggy crust (moisture migrating back into it instead of staying crisp), waxy congealing fat, and — tying back to the carryover section above — genuine overcooking risk while the meat sits covered on the counter.
+>
+> **Meathead's verdict: serve it hot. It rests on the plate**, in the time it takes to plate the rest of the meal and for people to sit down — not covered in foil on the counter beforehand.
+
+#### The stall
+
+Boiling water can't exceed 212°F no matter how big the flame — the extra energy just goes into turning more of it to steam instead of raising its temperature. (Slightly lower at altitude, since there's less air pressure pushing down; slightly higher with salt dissolved in it.)
+
+**Low-and-slow cooking runs into the same physics from the meat's own surface moisture.** At a low pit temperature like 225°F, evaporative cooling off the meat's surface can match the heat coming in from the fire — so the internal temperature parks at **150–165°F for hours** and appears to stop rising. This is **the stall**, and it's not a sign anything's wrong.
+
+**Why the stall goes away at 325°F:** you're adding heat faster than evaporation can steal it, so the internal temperature keeps climbing instead of holding. This is the actual mechanism behind "wrap it in foil to push through the stall" — foil (or butcher paper) traps the evaporating moisture at the meat's surface instead of letting it carry heat away.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T34. Two-Zone Fire Setup
+
+<!-- TECHNIQUE-TAGS: meathead, two-zone, direct-heat, indirect-heat, grilling, searing, lid -->
+**Tags:** `meathead` · `two-zone` · `direct-heat` · `indirect-heat` · `grilling` · `searing` · `lid`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — dictated by Cody.
+**Used in:** this is the setup already assumed, unnamed, by every "set up the grill for indirect grilling" step in this cookbook — [§6.2 Pulled Pork](#62-pulled-pork), [§6.6](#66-north-carolina-pulled-pork-karmel-version), [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), and [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) all use it without spelling out why it works.
+
+#### The setup
+
+Fire on one side (direct radiant heat), nothing under the other side (indirect convection heat, using the grill more like an oven). Two temperatures available on the same grate at the same time.
+
+**Why it's the single most useful trick in grilling:** without it, you're stuck flipping frantically over one giant hot zone, trying to hit a safe internal temperature before the outside burns — which is exactly how you end up serving something charred outside and raw inside. With two zones, cook gently on the indirect side to bring the interior up to temperature, then finish with a hard sear over the direct side right at the end.
+
+#### The lid rule
+
+- **Thicker than ¾ inch → lid on.** Heat surrounds the food from all sides, which is what a thick cut needs to actually cook through in the center.
+- **Thinner than ¾ inch → lid off, high heat, flip often.** With the lid on, a thin cut's center finishes cooking before either surface has had time to brown — you'd be steaming it, not grilling it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T35. Smoke Science — Combustion, the Smoke Ring, and Getting Blue Smoke
+
+<!-- TECHNIQUE-TAGS: meathead, smoke, smoke-ring, wood, creosote, blue-smoke, combustion, myth -->
+**Tags:** `meathead` · `smoke` · `smoke-ring` · `wood` · `creosote` · `blue-smoke` · `combustion` · `myth`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — dictated by Cody.
+**Used in:** every smoked entry in this cookbook — [§6.2 Pulled Pork](#62-pulled-pork) *(wood chips)*, [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) *(hickory)*, and every future entry under the still-mostly-placeholder [§6 Smoked Meats](#6-smoked-meats) or [§13 Meathead Cookbook](#13-meathead-cookbook).
+
+#### What smoke actually is
+
+Three sources feed a fire: **drippings, fuel, and wood.** Combustion itself needs **fuel + oxygen + ignition**, and gives back **fire/light, heat, and smoke.** Wood ignites around 500–600°F (call it 575°F).
+
+**Why smoke exists at all:** heat drives flammable gases out of the wood. If there's enough oxygen present, those gases burn completely — a clean blue flame, no smoke. If there isn't, they escape unburned, cool in the air, and condense into visible smoke. **Most of the flavor lives in the invisible gases, not the visible particles you can see.**
+
+#### Smoke sticks to cold, wet surfaces
+
+Cool surfaces attract smoke particles (a real physical effect called thermophoresis), and surface moisture gives those particles something to cling to. **Meathead's beer-can test:** three cans painted white — one filled with ice water, one empty, one left off the cooker entirely — showed the ice-water can collecting far more visible smoke residue than the empty one. **This is why smoke flavor builds early in a cook and tapers off as the meat's surface dries out.**
+
+> ⚠️ **Myth busted: meat stops taking smoke after an hour or two.** Meat has no windows that shut. It just dries out — spritz it or baste it and it starts absorbing smoke again. **Don't over-spritz, though** — a heavy blast of liquid can rinse off hours of smoke that already built up on the surface.
+
+**Flavor is only skin-deep.** Smoke molecules are too large to penetrate more than about ⅛ inch into the meat, no matter how long the cook runs.
+
+#### The smoke ring
+
+That pink layer just under the crust. **Why it forms:** myoglobin normally turns gray as it heats, but nitric oxide and carbon monoxide from combustion dissolve into the meat's wet surface and lock the pink color in before it can gray out. It only reaches about ⅛ to ¼ inch deep because those gases can't diffuse any further before the interior heats past the point where it would gray on its own anyway.
+
+> ⚠️ **Myth busted: the ring is caused by billowing smoke.** You can get a full smoke ring with *no smoke at all* — curing salts produce it chemically (this is exactly how some barbecue-competition cheaters have faked a ring without ever smoking the meat). A water pan genuinely helps form a ring, but only because a wetter surface absorbs more of the gas — **it's a badge of a certain chemistry, not a flavor indicator.**
+
+#### Two more smoke myths
+
+> ⚠️ **"Creosote must be avoided at all costs."** Busted. Wood-tar creosote (what you get off a smoker) is chemically different from the coal-tar creosote that coats old telephone poles. Its components — guaiacol, syringol, various phenols — **are** what smoke flavor actually is; cook without any of it and you might as well have boiled the meat. **It only turns bitter and sooty when you choke the fire for oxygen**, which pushes combustion below the clean-burning zone.
+
+> ⚠️ **"More smoke is better."** Backwards. The goal is thin, barely-visible **blue** smoke. **It comes down to particle size:** pale blue smoke means the tiniest particles and the cleanest combustion. White smoke means bigger particles. Gray or black smoke means an oxygen-starved fire, and food that ends up tasting like an ashtray.
+
+#### Buying and using wood
+
+Use **hardwoods, fruitwoods, and nutwoods** — their dense cell structure burns slow and even. **Avoid softwoods** (pine, fir, cedar, spruce) entirely: their sap and trapped air make them burn fast and spark, they taste bad, and they can actually make people sick.
+
+**Wood should be dry, not green.** Fresh-cut wood can be up to 50% water by weight; 5–20% moisture left is fine for smoking. By mass, dry wood breaks down to roughly 38% cellulose, 38% hemicellulose, **18% lignin — which is where the flavor and aroma actually come from** — and about 1% minerals, which still affect smell and taste.
+
+**Forms, and how to use each:**
+
+| Form | Behavior | Notes |
+|---|---|---|
+| Logs | slow, sustained | for dedicated offset smokers |
+| Chunks | slow and steady | golf-ball to fist size; one or two is usually plenty for a whole cook |
+| Chips | fast-burning | need replenishing through a long cook |
+| Pellets | hot and fast | compressed sawdust, no binders; burns through in ~20 min at 225°F — **get the meat on the grate first**, before lighting |
+| Blocks, bisquettes, sawdust | device-specific | made for particular smoker models |
+
+> ⚠️ **Never use heating pellets in place of cooking pellets.** They may contain pine, and the machines that make them are often lubricated with petroleum — neither belongs anywhere near food.
+
+> ⚠️ **Myth busted: match the wood species to the meat.** Meathead calls this humbug outright. There are too many uncontrolled variables — species, subspecies, bark content, age, soil the tree grew in, how much wood you used, how hot the fire ran — and the meat itself, the rub, the sauce, and the cooking temperature all dominate the final flavor far more than wood species does. **Pick one wood, stick with it, and get everything else dialed in first.** (Mesquite is strong enough that its character actually comes through; delicate fish shows wood differences more than a heavily-rubbed brisket ever will.)
+
+**A rough guide anyway, since people ask:** **mild** — alder, cherry, grape, maple, mulberry, oak, orange, pecan, peach. **Strong** — apple, walnut, hickory, mesquite, whiskey barrel.
+
+> ⚠️ **Myth busted: soak your wood chips and chunks before use.** Meathead weighed wood before and after a 12-hour soak: chunks gained only about 3%, chips about 6% (more surface area picks up more water). A 24-hour soak in blue dye colored only the surface and existing cracks — the interior stayed bone dry the whole time. **Why soaking actively hurts:** wet wood can't exceed 212°F until its surface water steams off, so it stalls instead of smoking cleanly — and wood dripping water onto coals cools the fire down. That satisfying white cloud people associate with a good smoke? That's just steam. Meathead emailed 15 top competition barbecue teams; **none of them soak their wood.**
+
+#### Getting blue smoke
+
+- Keep the cooker clean — built-up carbon and grease produce greasy, dirty-tasting smoke on their own
+- Use aged, properly dry wood, and keep it out of the rain
+- **Run a small, hot fire with visible flame** — a smoldering fire makes dirty smoke; actual flame burns off impurities as it goes
+- Warm the pit for about an hour before food goes on — cold cooker walls fight your fire and collect grease that later turns rancid and smokes badly
+- Burn fuel off to the side and add glowing embers as needed; prefer briquets over lump charcoal (lump is often incompletely carbonized, which means more smoke, not less)
+- Cook indirect so drippings don't hit the fire directly and create pungent, acrid smoke
+- **Rough amounts by weight:** 4 to 6 oz for turkey or chicken, 8 oz for ribs, up to 16 oz max for pulled pork or brisket. Double these amounts on a gas grill. Start with 2 to 4 oz, and add another 2 oz once you stop seeing smoke.
+- Use your nose as the real gauge — good smoke smells sweet and faint, with the meat and spices still leading, not overpowered by wood
+- Weigh the wood you use and write down what worked, so a good cook is repeatable
+
+**Chips flaming up is actually fine, not a problem to panic over** — flames mean clean combustion and blue smoke; you'll just burn through wood faster and risk a temperature spike. To control it, wrap chips in heavy foil poked with holes, use a small perforated pan, or a cast iron skillet.
+
+**The "smoke bomb" trick for long cooks you can't easily reach under the grate:** set out two foil pans of dry wood chips, and cover just one of them with water. The dry pan starts smoking immediately; about 15 minutes after it burns out, the second, previously-wet pan has dried out from the ambient heat and takes over — giving you a second wave of smoke without having to open the cooker.
 
 [↑ Table of Contents](#table-of-contents)
 

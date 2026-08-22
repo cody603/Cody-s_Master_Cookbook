@@ -410,6 +410,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | **Meathead, pages 42–57: seven more technique entries (T39–T45), and the standing T32 override is finally applied with real numbers instead of a placeholder.** [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd) separates the two GBD reactions properly and explains why a 12-hour 225°F brisket bark and a 15-minute hot-grill sear taste different despite both being fully browned, plus the practical browning checklist (dry surface, right temperature, frequent turning, room to breathe). [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) gives the actual trim target (¼–⅛" on one side) and busts the idea that fat bastes the meat from outside in — it doesn't cross the muscle/fat connective-tissue barrier at all. [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) is the fix for [§T39](#t39-maillard-vs-caramelization--gbd)'s own tradeoff, built on [§T34's two-zone setup](#t34-two-zone-fire-setup), plus its chicken-breast and prime-rib applications. [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time) names thickness (not weight) as the real driver. [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) is the cooler-as-holding-oven trick, with the note that holding brisket hot keeps tenderizing it. **[§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) is the big one** — the 7D pasteurization standard, why whole-muscle meat is safer rare than ground meat ever can be, three myths (pink pork, clear chicken juices, "no longer pink" as a safety test), and the full target-temperature table. **This is also where the T32 override stopped being a placeholder**: §T32's Internal Temperatures table is now reconciled against it — 130–140°F red meat and 160°F chicken/ground-beef floors are *confirmed*, but **pulled pork/ribs/brisket is corrected from ~195°F to 203°F**, with the old figure struck through rather than deleted. [§6.2 Pulled Pork](#62-pulled-pork) gets a matching callout: its printed 195°F stays as transcribed, flagged as conservative against Meathead's 203°F rather than silently changed. [§T45 Bones](#t45-bones--do-they-actually-add-flavor) closes the set — bones add real flavor in wet cooking (braising) but essentially none in dry cooking (grilling/smoking), and grill marks are busted as "superficial branding" covering only about a third of a steak's surface. §13's own note is updated to reflect that the override is now live, not just recorded. All seven added to the Techniques quick index as T39–T45. |
 | 2026-08-19 | **Meathead's "Software" chapter added as three more technique entries — condensed at Cody's own invitation, unlike T33–T35.** [§T36 What Meat Actually Is](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) covers muscle composition, why collagen (melts to gelatin) and elastin (never breaks down) behave so differently, marbling's 130–140°F melt point, myowater vs. the blood myth, slow-twitch/fast-twitch as the reason dark meat is dark, buying-meat tips (know your butcher, avoid "purge" and "enhanced" labels), real tenderizing methods, and the room-temperature-meat myth-bust (a 1½" steak needs 2+ hours to actually reach room temp at the center — straight from the fridge is fine and pulls more smoke besides). **[§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) is the one Cody flagged as most important** — cross-linked with [§T29 How to Salt](#t29-how-to-salt) rather than replacing it, since the two agree where they overlap and this one adds Meathead's actual numbers: brined chicken lost only 7% weight cooking vs. 18% untreated; salt barely travels ⅔" into meat after a full 24-hour soak, but heat pushes it in far faster than soaking time ever does; and a dry-vs-wet brine comparison table. **Records "the Roberts Way" as Cody's own standing practice** — dry brine, heavy, every time — with three notes on going heavier than Meathead's own ½ tsp/lb baseline: big cuts hide a lot of salt (only ⅔" penetration after a day means most of a brisket's interior stays unsalted), the real ceiling is toughening the proteins rather than oversalting, and a thick fat cap blocks salt almost completely. Also carries the **double-salt jeopardy** warning — leave salt out of the rub when brining heavy, or the two stack. [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) is the shortest of the three: salt is the one thing small enough to actually penetrate meat, so rubs, injections, and marinades are all exterior treatments by comparison, capped at about ⅛ inch — with myth-busts for rub-massaging, plastic-wrap "rest for penetration," and marinades in general (proven with green food coloring and a steak with a hole carved in it and filled with oil that never soaked in). All three added to the Techniques quick index as T36–T38. |
 | 2026-08-19 | **Meathead's material has arrived — three new technique entries, and the [§T32](#t32-how-to-use-heat) override is now actually applied, not just flagged.** [§T33 How Meat Actually Cooks](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) covers conduction (the outside cooks the inside, and it's slow because water absorbs heat well), why meat is never one uniform temperature, and two genuine myth-busts: **carryover has no fixed +15°F/+5°F rule** — it scales with thickness and fire temperature, which directly overrides the flat figures §T32 had borrowed from Nosrat (that row is now struck through and points here) — and **resting doesn't meaningfully reduce juice loss**, per meat scientist Antonio Mata and Prof. Greg Blonder's own side-by-side tests, plus it costs a soggy crust and carryover risk; also covers the stall (evaporative cooling parking a low-and-slow cook at 150–165°F) and why 325°F pushes through it. [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) names the direct/indirect setup this cookbook's grilling recipes have been assuming without ever spelling out, plus the ¾-inch lid-on/lid-off rule. [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) covers what smoke actually is (unburned flammable gases, mostly flavor in the invisible ones), why it clings to cold wet surfaces, the smoke ring's real chemistry (nitric oxide/CO locking in pink myoglobin — not caused by billowing smoke), four more myth-busts (smoke absorption doesn't stop after an hour, creosote isn't the bad kind, more smoke isn't better, don't soak your wood — Meathead's own 12-hour weigh-in and a 15-team survey back that last one), and a practical wood-buying and blue-smoke checklist. All three added to the Techniques quick index as T33–T35. |
 | 2026-08-19 | **Standing override recorded, cross-linked both directions: [§13 Meathead Cookbook](#13-meathead-cookbook) beats [§T32 How to Use Heat](#t32-how-to-use-heat) on meat doneness temperatures.** Per Cody — Meathead Goldwyn is a BBQ Hall of Famer and dedicated meat-science writer, so once his source material actually arrives, his numbers take precedence over Samin Nosrat's more general figures in §T32's "Internal temperatures" table wherever the two disagree. **Meathead's own temps are forthcoming, not yet documented anywhere in this cookbook** — this is a flag for future reconciliation, not new data. |
@@ -7225,6 +7226,13 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) | What Meat Actually Is — Composition, Connective Tissue, and Buying It Right | `meathead` `meat-science` `connective-tissue` `collagen` `myoglobin` `marbling` `buying-meat` `tenderizing` |
 | [T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) | Salt, Brining, and the Dry Brine — Cody's Standing Practice: Heavy, Every Time | `meathead` `salt` `dry-brine` `wet-brine` `juiciness` `myth` `roberts-way` |
 | [T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) | Rubs, Injecting, and Marinades — How Deep Each One Actually Goes | `meathead` `rub` `injection` `marinade` `myth` |
+| [T39](#t39-maillard-vs-caramelization--gbd) | Maillard vs. Caramelization — GBD | `meathead` `maillard` `caramelization` `browning` `gbd` `sugar` `myth` |
+| [T40](#t40-the-fat-cap--trim-or-not) | The Fat Cap — Trim or Not | `meathead` `fat-cap` `trimming` `brisket` `myth` `flare-up` |
+| [T41](#t41-reverse-sear--two-stage-cooking) | Reverse Sear — Two-Stage Cooking | `meathead` `reverse-sear` `two-zone` `steak` `chicken-breast` `prime-rib` |
+| [T42](#t42-what-controls-cooking-time) | What Controls Cooking Time | `meathead` `cooking-time` `thickness` `weather` `humidity` `thermometer` |
+| [T43](#t43-faux-cambro--holding-meat-hot-for-hours) | Faux Cambro — Holding Meat Hot for Hours | `meathead` `cambro` `holding` `cooler` `brisket` `tenderizing` |
+| [T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) | Food Safety — The Real Logic (and the Target Temperature Table) | `meathead` `food-safety` `pasteurization` `7d` `internal-temp` `myth` `ground-meat` |
+| [T45](#t45-bones--do-they-actually-add-flavor) | Bones — Do They Actually Add Flavor? | `meathead` `bones` `marrow` `wet-vs-dry` `grill-marks` `myth` |
 
 ---
 
@@ -9956,7 +9964,11 @@ The standing acid shelf this entry assumes.
 **Source:** **Samin Nosrat**, per Cody — the fourth and last of the set with [§T29 How to Salt](#t29-how-to-salt), [§T30 How to Use Fat](#t30-how-to-use-fat), and [§T31 How to Use Acid](#t31-how-to-use-acid), all from her book ***Salt, Fat, Acid, Heat***. Same caveat as the other three: Cody's own distillation, paraphrased rather than the book's exact wording — and **condensed hard at Cody's own request**, down from a much longer dictation, since heat is mostly a numbers problem and the numbers are what matter most standing at the stove.
 **Used in:** cross-references most doneness temps already scattered through this cookbook — [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) anchor the low end, [§6.2 Pulled Pork](#62-pulled-pork)'s 195°F pull temp and [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs)'s bone-wiggle test anchor the high end, [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)'s 160°F is the food-safety floor, and [§T1 How to Make a Roux](#t1-how-to-make-a-roux) is browning gone right up until it goes very wrong.
 
-> ⚠️ **Standing override, per Cody: [§13 Meathead Cookbook](#13-meathead-cookbook) beats this entry on meat temps, not the other way around.** Meathead Goldwyn is a BBQ Hall of Famer and a dedicated meat-science writer — Nosrat's *Salt, Fat, Acid, Heat* is a general cooking text, not a barbecue specialty source. **Wherever Meathead's own numbers conflict with the "Internal temperatures" table just below, Meathead wins**, once his figures are actually transcribed into §13. **Meathead's specific temps are forthcoming — not yet documented anywhere in this cookbook.** Until they arrive, the table below is what's here; treat it as provisional on anything meat-doneness-related rather than final, and update both entries — this override note and §13 itself — the day his numbers land.
+> ⚠️ **Standing override, now applied: [§T44 Food Safety — The Real Logic](#t44-food-safety--the-real-logic-and-the-target-temperature-table) beats this table on meat doneness temps.** Meathead Goldwyn is a BBQ Hall of Famer and a dedicated meat-science writer — Nosrat's *Salt, Fat, Acid, Heat* is a general cooking text, not a barbecue specialty source, and per Cody's own standing rule, Meathead wins wherever the two disagree. **His figures have now arrived** (T33–T45) and are reconciled into the table below rather than left to quietly conflict — see the struck-through rows.
+
+#### One reconciled table, not two competing ones
+
+Where §T44's numbers landed differently from Nosrat's original figures below, the row is struck through and the correction sits beside it — this keeps the original text visible rather than silently editing history, matching how this cookbook handles every other superseded figure.
 
 #### The big idea, in one line
 
@@ -9966,13 +9978,15 @@ Heat has no flavor of its own — it's what turns raw into cooked, crisp, or bro
 
 | Target | Temp | Note |
 |---|---|---|
-| Tender red meat (steak, lamb chop) starts drying out | past **140°F** | pull it before this for juicy |
-| Chicken/turkey breast starts drying out | past **160°F** | more forgiving than red meat |
-| Ground beef — food-safety floor | **160°F** | grinding spreads surface bacteria through the meat; see [§7.76](#776-hamburgers-with-herb-butter) |
-| Pulled pork, fall-apart tender | **~195°F** | collagen has fully melted to gelatin by here; wiggle the bone as a second check |
-| Custard, done | jiggles at center, set at edge | judged by wobble, never by a number |
+| Tender red meat (steak, lamb chop) starts drying out | past **140°F** | **confirmed by [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)** — his own chef-temp target (130–135°F medium-rare) sits safely below this line |
+| Chicken/turkey breast starts drying out | past **160°F** | **confirmed by §T44** — his chefs pull at 160°F for the same reason, letting carryover finish the climb to USDA's 165°F |
+| Ground beef — food-safety floor | **160°F** | **confirmed exactly by §T44** — "no exceptions," since grinding spreads surface bacteria all the way through the meat; see [§7.76](#776-hamburgers-with-herb-butter) |
+| Pulled pork / ribs / brisket, fall-apart tender — corrected ⚠️ | ~~~195°F~~ → **203°F** | **[§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)'s actual number, and it wins** — past this point you're melting connective tissue and rendering fat, not just checking doneness; [§6.2 Pulled Pork](#62-pulled-pork)'s printed 195°F is now flagged as slightly conservative against this figure, not wrong |
+| Custard, done | jiggles at center, set at edge | judged by wobble, never by a number — untouched by Meathead's material, which doesn't cover eggs |
 | Carryover after pulling — Nosrat's rule of thumb, superseded ⚠️ | ~~+15°F large roasts, +5°F steaks/chops~~ | **[§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) busts this as a myth** — carryover has no fixed number, it depends on cut thickness and how hot the fire was |
 | Once internal hits 100°F, a roast climbs about | **1°F per minute** | Nosrat's figure — Meathead's material doesn't address this one directly, so it stands unless/until contradicted |
+
+**Full detail, myths, and the rest of the target-temperature table (fish, pork chops, precooked ham) now live at [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)** — this table keeps only the rows that overlap what Nosrat originally covered here.
 
 #### What temperature gets you crispy, browned, or caramelized
 
@@ -10317,6 +10331,235 @@ The only way to get big flavor molecules **deep** into the muscle, since rubs, m
 - Best on **thin cuts**; **gashing/scoring the surface** helps it reach more cracks and adds browning surface area too.
 - A wet surface fights browning — this is the real cost of marinating, not a myth.
 - Building one: **salt first** (the one ingredient that really does penetrate — soy sauce is a good vehicle), go wild on dry flavorings, keep **acid to ⅛ of the blend or less** (more turns the surface mushy rather than just flavoring it), keep the whole thing **thin** (never marinate in barbecue sauce — too thick to penetrate, and it'll burn), and skip alcohol.
+
+#### Marinade practicalities, continued
+
+- **Cook off alcohol first.** Per Thomas Keller (*The French Laundry Cookbook*), raw alcohol in a marinade effectively *cooks the exterior* of the meat on contact, blocking flavor absorption. Simmer the wine or spirit, cool it, then pour it on — reduced wine tastes better besides.
+- **Nonreactive container only** — acid and salt react with aluminum, copper, and cast iron and pick up off flavors. Zip-top bags are best: less marinade needed, squeeze the air out for full contact, no cleanup.
+- **Go naked.** Chicken/turkey skin is a fat barrier that blocks marinade and turns soggy under one. If the skin isn't going to crisp anyway, pull it off — skinless meat soaks up more.
+- **Cut it small.** Thin, small pieces marinate faster, for the same ⅛-inch-limit reasons as above.
+- **Time it short:** 30–60 minutes max for fish and vegetables; an hour or two for most meats. Flip every hour or two, always in the fridge, and **throw the used marinade out** — it's been sitting with raw juices in it.
+
+> ⚠️ **Skip vacuum marinators.** The vacuum can pull surface microbes into the food along with the marinade — a real risk unless you're cooking all the way to 165°F anyway.
+
+> ⚠️ **Skip store-bought premarinated meat too** — it may not be the freshest, it comes with additives and preservatives, and you're paying meat prices for water.
+
+**Meathead's own ranking:** a spice rub delivers more flavor per square inch than a marinade ever will, and a simple board sauce (herbs, oil, vinegar or citrus, aromatics, chopped right into the resting meat's juices) beats both.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T39. Maillard vs. Caramelization — GBD
+
+<!-- TECHNIQUE-TAGS: meathead, maillard, caramelization, browning, gbd, sugar, myth -->
+**Tags:** `meathead` · `maillard` · `caramelization` · `browning` · `gbd` · `sugar` · `myth`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** (p. 42–57), dictated by Cody. Same chapter as the [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)–[§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) set. **Read alongside [§T32 How to Use Heat](#t32-how-to-use-heat)** — Nosrat's entry gives Maillard's ~230°F starting point; this one adds the time-vs-temperature tradeoff and the practical "how to get more browning" checklist Nosrat's entry doesn't cover.
+**Used in:** [§T1 How to Make a Roux](#t1-how-to-make-a-roux) is Maillard pushed to its most dangerous extreme; [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) and [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) both build bark this way over many hours at low heat rather than briefly at high heat.
+
+#### Two different reactions, one nickname
+
+**GBD = golden brown and delicious.** Chefs call all of it "caramelization," but that's sloppy — they're two separate reactions that just happen to look similar and often overlap:
+
+- **Maillard reaction** — amino acids and proteins reacting with each other on the surface, named for Louis-Camille Maillard, who studied it in the early 1900s. It produces **scores of entirely new flavor compounds** that don't exist in the raw food.
+- **Caramelization** — sugars and carbohydrates breaking down, the same chemistry that makes actual caramel. It's why grilled corn and onion taste sweeter, and why a sweet barbecue sauce develops whole new flavors once it's on a hot rack of ribs.
+
+#### Time trades against temperature
+
+Maillard starts low but really accelerates past **300°F**. **That's why a brisket held at 225°F for 12 hours still develops deep bark** — nearly as deep as 15 minutes on a hot grill produces — even though the two never see the same peak temperature. The exact flavor compounds that form actually differ between the two paths, which is a good thing: otherwise everything cooked to GBD would taste identical.
+
+**Brown is good, black is bad.** The target is golden amber through whiskey brown — black is just coarse carbon, not flavor, no matter how it got there.
+
+#### How to get more browning
+
+- **A pinch of sugar in the rub helps — for low-and-slow only.** Skip it for hot-and-fast cooking, where it'll burn before the meat is done. Sugar substitutes don't caramelize and do nothing for browning.
+- **Keep the surface dry.** Water caps out at 212°F, but fructose won't caramelize until 230°F and glucose not until 320°F — a wet surface simply can't get hot enough to brown. Pat the surface dry with paper towels before it hits the heat. **This is exactly why Meathead is lukewarm on marinades and bastes** — both add surface moisture right when you don't want it.
+- **The right temperature, and nothing in between.** You need either intense direct radiant heat from below, or a long, low cook — nothing in the middle range does the job well.
+- **Turn frequently, not once.** Frequent flipping is basically rotisserie cooking in miniature: each side browns a little, then cools before it can burn. Turning only once lets heat build unevenly and scorch the side facing the fire.
+- **Give food room to breathe.** Crowded food traps its own steam and the surface temperature drops — no steam escape, no GBD.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T40. The Fat Cap — Trim or Not
+
+<!-- TECHNIQUE-TAGS: meathead, fat-cap, trimming, brisket, myth, flare-up -->
+**Tags:** `meathead` · `fat-cap` · `trimming` · `brisket` · `myth` · `flare-up`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T39](#t39-maillard-vs-caramelization--gbd).
+**Used in:** [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) already tells Cody to buy an untrimmed brisket with a thick fat cap and doesn't say how much to remove — this entry is the missing "how much" answer.
+
+#### The best strategy
+
+**Trim to a thin ¼- to ⅛-inch layer, on one side only** — this applies to brisket, pulled pork, ham, and leg of lamb alike. Leaving a sliver rather than trimming to bare meat means most of it still melts away during the cook, but there's enough left that people get a real taste of the fat's flavor, and a thin layer slows surface evaporation for juicier meat.
+
+**Don't leave it thick.** A thick cap blocks a hard, crispy bark from forming at all, and it physically covers up the rub that was carefully applied underneath it.
+
+**If the meat sits directly over the heat source, orient the fat cap side down** — it acts as a heat shield, protecting the meat's surface from drying out directly over the fire.
+
+> ⚠️ **Myth busted: the fat cap melts and bastes the meat, making it juicier.** Per Dr. Antonio Mata: fat does not migrate into muscle during cooking. Fat is mostly oil and meat is mostly water, and the two don't mix — on top of that, there's usually a layer of connective tissue physically separating the muscle from the fat cap in the first place. **What actually happens:** some melted fat drips onto the fire, vaporizes, and resettles on the meat's surface as smoke flavor — a real effect, just not "basting." Worse, **a thick cap on steaks and chops drips enough to cause flare-ups and soot.** And most people trim the fat off at the table before eating anyway, taking the carefully applied rub with it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T41. Reverse Sear — Two-Stage Cooking
+
+<!-- TECHNIQUE-TAGS: meathead, reverse-sear, two-zone, steak, chicken-breast, prime-rib -->
+**Tags:** `meathead` · `reverse-sear` · `two-zone` · `steak` · `chicken-breast` · `prime-rib`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T39](#t39-maillard-vs-caramelization--gbd)/[§T40](#t40-the-fat-cap--trim-or-not). Builds directly on **[§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)**.
+**Used in:** the fix for the exact tradeoff [§T39](#t39-maillard-vs-caramelization--gbd) describes — a thick cut cooked at one single temperature either gets even color with no crust, or a great crust with a gray overcooked band underneath.
+
+#### The problem this solves
+
+A 2-inch steak held at 225°F the whole way through gets beautifully even interior color but never develops a real dark crust. The same steak seared hot from the start gets a great crust, but leaves a gray, overcooked band of meat directly beneath it. **The fix is to stop trying to do both jobs with one temperature — do them separately, in sequence.**
+
+#### The method
+
+1. Set up [§T34's two-zone fire](#t34-two-zone-fire-setup), indirect side as close to 225°F as you can hold it with the lid on. Toss on a little hardwood.
+2. Put the meat on the **indirect** side, lid closed, letting it cook in smoky convection air. Flip once or twice.
+3. **Pull it about 15°F below your final target** — steak around 115°F, pork chops/roasts around 130°F, chicken/turkey around 150°F — using a real instant-read thermometer (Meathead's own recommendation: a Thermapen).
+4. Crank the **direct** side as hot as it goes — coals right under the grate, gas burners on high or a dedicated sear burner, or a griddle on a pellet smoker.
+5. **Pat one side dry** first, so evaporating surface water doesn't cool and steam that surface instead of browning it. Dry side down, **lid open** this time — an open lid keeps heat from reflecting back down and roasting the interior further; you want to pound just the one surface with direct energy.
+6. Keep flipping, never letting the surface cool, until the crust is a deep bourbon brown (not black) and the interior has come up to around 130°F for a medium-rare steak.
+
+**A bonus effect:** the slower first stage also gives salt more time to migrate inward, seasoning the meat more evenly throughout, not just at the surface.
+
+#### Reverse sear on chicken breasts
+
+A chicken breast has fatty skin on one side and lean meat on the other — cook it hot-and-fast and the skin blackens before the inside is done; skin-side up the whole time leaves the bottom dry and the skin rubbery. **The fix:** cook indirect to just under target, then finish skin-side down over direct heat to crisp it. Meathead's own comparison: hot-and-fast breast reads 165°F and juicy at the top but **200°F and dry at the bottom**; reverse-seared breast reads 165°F and juicy at the top *and* **170°F and still moist at the bottom.**
+
+**The same principle works on prime rib** (low and slow, lid down; finish hot and fast, lid up — no more 1-inch gray band under the crust) and even on baked potatoes.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T42. What Controls Cooking Time
+
+<!-- TECHNIQUE-TAGS: meathead, cooking-time, thickness, weather, humidity, thermometer -->
+**Tags:** `meathead` · `cooking-time` · `thickness` · `weather` · `humidity` · `thermometer`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T39](#t39-maillard-vs-caramelization--gbd)–[§T41](#t41-reverse-sear--two-stage-cooking).
+**Used in:** every "cook X to Y hours" figure in this cookbook is really a stand-in for "cook until the center hits temperature" — this entry explains why the clock is never the real measurement.
+
+Six things actually control how long a cook takes, and only one of them is the big one:
+
+- **Cooking temperature** — a hotter cooker finishes sooner, unsurprisingly. Run two good digital thermometers: one dedicated to the cooker's own air temp, one to the food.
+- **Cooking method** — direct heat beats indirect; a foil-wrapped pork butt cooks noticeably faster than one left unwrapped; thick cast-iron grates speed things slightly, because metal absorbs and conducts heat better than the surrounding air does.
+- **Type of meat** — tough, collagen-rich cuts (ribs, brisket, shoulder, rump) actually get *tougher* at high heat and *more tender* at low heat — the opposite of what intuition suggests.
+- **Thickness, not weight — this is the one that actually matters most.** Meat is done when its geographic center hits temperature, and heat only ever travels inward from the outside. **Distance to the center is what determines cook time**, not how much the piece weighs: a 10-inch, 8-inch, and 5-inch log of the same 4-inch diameter all take about the same time to cook through, while a shorter *but narrower* piece finishes faster.
+- **Weather** — cold air cools both the intake air and the coals themselves; wind and rain chill the cooker's body. Expect to burn more fuel and serve dinner later on a bad-weather day.
+- **Humidity** — as air warms, moisture evaporates off the meat's surface and cools it right back down. At a low 225°F, that evaporative cooling can stall the cook for hours (see [§T33's stall](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)). Cold air also holds less moisture than warm air, so a cold day is doubly bad for stalling. **A water pan raises humidity inside the cooker and reduces this evaporative cooling.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T43. Faux Cambro — Holding Meat Hot for Hours
+
+<!-- TECHNIQUE-TAGS: meathead, cambro, holding, cooler, brisket, tenderizing -->
+**Tags:** `meathead` · `cambro` · `holding` · `cooler` · `brisket` · `tenderizing`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T39](#t39-maillard-vs-caramelization--gbd)–[§T42](#t42-what-controls-cooking-time).
+**Used in:** genuinely useful for [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) and [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) on a day when the smoker finishes early, or the meal needs to travel.
+
+A Cambro is the insulated box caterers use to hold hot food. **The homemade version is a big, well-insulated, tight-sealing beer cooler**, with an aluminum pan set inside it for easy cleanup.
+
+**How to build one:** if the meat should take 3 hours, start 4 hours ahead of when it's needed. Line the cooler bottom with a towel, set an aluminum pan on the towel, wrap the finished meat in foil (leaving the probe thermometer in place if it's still tracking), set the wrapped meat in the pan, lay a second towel on top, and close the lid with the probe cable hanging out. Meathead has held meat above 150°F for 3 hours this way.
+
+**Why it's more than just a holding trick:** holding brisket at a sustained high temperature actually **continues to tenderize it** — he calls a faux Cambro close to a necessity for beef brisket specifically, not just a convenience. It's also how you get ribs to a tailgate, or a turkey to grandma's house, still properly hot.
+
+**Two catches:**
+- **Carryover can still push the internal temperature up another 10°F** while it sits — account for that when deciding your pull temperature.
+- **Skin and bark both soften** during the hold. Fix it with a few minutes back on a hot grill right before serving.
+
+Clean the cooler after every use — bleach cleaner, or 1 gallon water plus 1 Tbsp bleach.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T44. Food Safety — The Real Logic (and the Target Temperature Table)
+
+<!-- TECHNIQUE-TAGS: meathead, food-safety, pasteurization, 7d, internal-temp, myth, ground-meat -->
+**Tags:** `meathead` · `food-safety` · `pasteurization` · `7d` · `internal-temp` · `myth` · `ground-meat`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** (p. 42–57), dictated by Cody.
+**Standing override, now applied:** per [§13 Meathead Cookbook](#13-meathead-cookbook)'s recorded rule, **this entry's target temperature table now supersedes [§T32 How to Use Heat](#t32-how-to-use-heat)'s Nosrat-sourced meat-doneness figures wherever the two touch the same ground.** §T32's own table has been annotated to point here rather than silently left to disagree.
+**Used in:** the doneness temperature behind every meat and poultry entry in this cookbook — [§6.2 Pulled Pork](#62-pulled-pork)'s 195°F is actually on the low side of the 203°F this entry recommends, [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)'s 160°F ground-beef floor is confirmed exactly, and [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method)'s sous vide temperatures sit inside the "chef temp" band below.
+
+#### The actual standard: pasteurization, not sterilization
+
+You can't sterilize meat and have it still be food — so the real standard is **pasteurization**: reducing pathogens until getting sick is extremely unlikely, not reducing them to zero. The USDA's benchmark is the **7D kill rate** — one cell surviving out of 10,000,000. Concretely: take 10,000 steaks with 1,000 bacteria each, and a true 7D reduction leaves a single surviving cell on just one of those 10,000 steaks.
+
+**Pathogens don't die at one magic number — it's temperature *and* time together:**
+
+| Temp | Time to 7D kill |
+|---|---|
+| 130°F | ~2 hours |
+| 140°F | ~12 minutes |
+| 160°F | ~8 seconds |
+| 165°F | essentially instant |
+
+**Carryover keeps killing microbes even after the meat is off the heat** — pull a turkey breast at 155°F and it keeps working toward safe the whole time it rests.
+
+#### Whole muscle vs. ground meat — the distinction that actually matters
+
+Microbes on a steak live **only on the surface**, and that surface hits well past 165°F almost instantly once it touches heat — so a 145°F *center* reading is genuinely fine on a whole cut. **Grinding changes everything:** it mixes surface contamination all the way through the meat, which is exactly why burgers need a full 160°F at the center, with no exceptions. Cattle and pigs are penned closely, fecal matter gets onto hides, knives cut through it during processing, and intestines occasionally get nicked — E. coli sitting harmlessly on a steak's surface becomes dangerous the instant it's ground into the center of a patty.
+
+**The steakhouse math, as an illustration, not a recommendation:** chefs know beef tastes best at 130°F and would go out of business cooking every steak to the USDA's 145°F recommendation — and go out of business faster if a customer got sick. Accepting a 6D reduction (10 surviving cells among 10,000 steaks) or even 5D (100 cells) is how a rare steak stays on a menu at all — a real, if small, elevated risk, and this cookbook's own [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) already operates in exactly this band. **Ground beef and poultry are a different case: contamination rates there run high enough that this cookbook sticks close to the USDA figures**, per [§7.76](#776-hamburgers-with-herb-butter)'s existing 160°F callout, unless the meat is irradiated.
+
+#### Myths this section busts
+
+> ⚠️ **"Pink pork means trichinosis."** True historically, when hogs ate garbage — today the parasite is essentially eradicated in developed countries, with fewer than a dozen U.S. cases a year, mostly from wild game like bear rather than farmed pork. The parasite itself dies at 138°F, and the USDA's own pork minimum is now 145°F, well above that. (Cooking bear specifically: at least 138°F.)
+
+> ⚠️ **"Cook chicken until the juices run clear."** Indisputably false, and following it will over- or under-cook the bird. The pink color is myoglobin, and cooking does change its structure so it absorbs light differently — but **there's no single fixed temperature where that change happens.** pH is a major factor: high-pH, low-acid muscle can need 170–180°F before the juices run fully clear, and thighs/drumsticks (more myoglobin than breast) need even more. **165°F is safe regardless of what color the juices are.**
+
+> ⚠️ **"Meat is safe once it's no longer pink."** Color is never a reliable guide in either direction. Red or purple-tinted bones are just marrow, where blood is made — modern chickens are slaughtered at only 6–8 weeks, before their bones fully calcify, so that color shows through the shell and can tint nearby meat even at 180°F, fully safe. Pink meat can also come from nitric oxide or carbon monoxide in the cooker locking in myoglobin's color (the same chemistry behind [§T35's smoke ring](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)). And ground beef can turn brown from plain oxidation long before it's actually safe at 160°F. **Use a thermometer — never color.**
+
+#### Target temperatures
+
+| Food | Target |
+|---|---|
+| Beef, lamb, venison, duck breast | 130–135°F medium-rare (chef temp); USDA minimum 145°F |
+| Pork chops/roasts | 130–135°F (chef temp); USDA minimum 145°F |
+| Ribs, pork shoulder, brisket | **203°F** — deliberately well past well-done, for the connective tissue, not the doneness |
+| Chicken & turkey | 165°F USDA; most chefs pull at 160°F to let carryover finish the job |
+| Ground meat, burgers, sausage | **160°F, no exceptions** |
+| Fish | 145°F (parasite safety) |
+| Precooked ham & hot dogs | 140°F — already cured and cooked, this is just reheating |
+
+*Why 203°F for the big smoked cuts specifically:* past that point you're no longer cooking for doneness at all — you're melting connective tissue and rendering fat, which is a completely different goal than "safely cooked."
+
+#### Other useful benchmarks, in one place
+
+34–39°F ideal fridge temp · 41–130°F the food-safety danger zone · 95–130°F animal fats begin to soften and melt · 130°F+ the kill zone begins · 135°F connective tissue starts contracting and squeezing out juice · 150–165°F the stall zone (see [§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)) · 160–205°F collagen actively melts into gelatin · 160–165°F the instant-kill zone for pathogens · 212°F boiling point at sea level, dropping ~2°F per 1,000 ft of elevation · 225°F the recommended low-and-slow air temperature · 310°F Maillard really accelerates · 325°F the recommended poultry temperature, hot enough to render fat and crisp skin · 425°F where Teflon-coated thermometer cables start to melt · 500–700°F hardwood smokes · 700–1,000°F hardwood actively flames.
+
+**To temp a whole bird:** push the probe through the thickest part of the breast all the way to the ribs, then slowly withdraw it, reading continuously as it comes back out — the lowest reading along that path is the one that matters.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T45. Bones — Do They Actually Add Flavor?
+
+<!-- TECHNIQUE-TAGS: meathead, bones, marrow, wet-vs-dry, grill-marks, myth -->
+**Tags:** `meathead` · `bones` · `marrow` · `wet-vs-dry` · `grill-marks` · `myth`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T39](#t39-maillard-vs-caramelization--gbd)–[§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table).
+**Used in:** every bone-in cut in this cookbook — [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), any bone-in roast — is dry-cooked, which is exactly the case where this entry says bones don't actually contribute flavor.
+
+**The common belief is that bones make grilled meat taste better. The truth depends entirely on the bone and the cooking method.**
+
+- **Bone exterior** is compact bone — calcium and minerals, thicker in bigger animals. It doesn't dissolve or melt under heat. Tiny channels do carry blood to the marrow inside, but the calcium itself isn't porous, so **no measurable marrow or flavor leaks out during ordinary roasting or grilling.**
+- **Red marrow** is the hard, honeycomb-textured material visible in a bandsawed ribeye, T-bone, or porterhouse. It's where blood-making stem cells live, along with some trapped blood.
+- **Yellow marrow**, found in the center of femurs and leg bones, is mostly delicious pure fat — cowboys call it prairie butter, Meathead calls it poor man's foie gras.
+- **Connective tissue** wraps the outer bone wall and anchors muscle to it. It stays tough no matter how long it's cooked.
+
+**The verdict:** in **wet** cooking — braising, or simmering for hours fully submerged — marrow genuinely can dissolve out and flavor the surrounding liquid and meat. In **dry** cooking — grilling and smoking — **bones contribute no significant flavor.** A little marrow might escape from a bandsawed-open T-bone or ribeye, but there's simply too little liquid in red marrow for it to travel any distance onto or into the meat.
+
+> ⚠️ **Myth busted: grill marks are the sign of a great steak.** They're superficial branding, nothing more. On a typical grill-marked ribeye, only about one-third of the surface is actually fully browned — the diamonds of unmarked meat in between stay tan and well-done without ever reaching real Maillard/caramelization color. That's a real loss: dark brown means hundreds of the flavor compounds [§T39](#t39-maillard-vs-caramelization--gbd) describes, and the actual goal is golden-to-dark brown across as much surface as possible — not stripes.
+
+**Grill marks do genuinely help on thin foods** — shrimp, skinny chops, skirt steak, asparagus, bell peppers — anywhere you need to brown fast without cooking the interior all the way through. Just don't let the stripes turn into burnt, bitter scars.
+
+**For maximum crust on a thick steak (over 1 inch):** use cheap, thin wire grates rather than heavy cast-iron ones, so browning comes from the fire's direct radiant heat itself rather than from hot metal — and **keep moving the meat** rather than letting it sit. Thin grates won't leave visible marks the way thick ones do, but constant repositioning gives maximum radiant exposure and an even mahogany color across the whole surface instead of a few dark stripes.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -11964,6 +12207,8 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 **🟢 Easy** · **Prep ~15 min** · **Cook ~15 min** · **Slow cook 4–6 hr** *(indirect grill; 6–8 hr at 225°F if using a smoker instead)* · **Start to finish ~4 hr 30 min – 6 hr 30 min** *(plus an optional up-to-24-hr rub cure in the fridge before grilling)*
 
 **❤️ Family favorite** — *Cody: "Awesome. North Carolina style, that's a good one — but I've got another recipe I'm going to add."*
+
+> **📌 195°F vs. 203°F, per [§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table):** the source's own printed pull temperature below (195°F) is kept exactly as written, since it's a direct transcription — but Meathead's target for this category of cut (pork shoulder, ribs, brisket) runs to 203°F, past the point of doneness and into fully melted connective tissue and rendered fat. Not a correction to the recipe, just worth knowing if the pork isn't quite falling-apart tender at 195°F: a higher pull temperature, not more time at the same temperature, is the fix.
 
 > **A second pulled pork recipe is coming.** Cody has his own version to add alongside this one. When it arrives it gets its own entry rather than overwriting this — the North Carolina method here is transcribed from a published source and rated on its own merits, so both should stand. Likely landing spot: a new §6.x, cross-linked both ways.
 
@@ -23209,7 +23454,9 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 >
 > Recipes from this source will likely land in **[§6 Smoked Meats](#6-smoked-meats)** (still mostly placeholders — §6.1, §6.3, §6.4) and possibly alongside the grilling techniques and sauces already added from *How to Grill* in §4, §5, §7, and the T-section, given the overlap in subject matter. Numbering and placement get decided once real content arrives.
 >
-> **📌 Standing rule, per Cody: this source overrides [§T32 How to Use Heat](#t32-how-to-use-heat) on meat doneness temperatures.** Meathead Goldwyn is a BBQ Hall of Famer and meat-science specialist; Samin Nosrat's temps in §T32 are a generalist's figures by comparison. Once real content arrives here, reconcile §T32's "Internal temperatures" table against it and update that table wherever the two disagree.
+> **📌 Standing rule, per Cody: this source overrides [§T32 How to Use Heat](#t32-how-to-use-heat) on meat doneness temperatures.** Meathead Goldwyn is a BBQ Hall of Famer and meat-science specialist; Samin Nosrat's temps in §T32 are a generalist's figures by comparison. **This override is now applied, not just recorded** — see §T32's reconciled table.
+>
+> **The science has arrived in force, even though a recipe hasn't yet.** Cody has dictated two full chapters of *Meathead* so far, both filed in the T-section as technique entries rather than here, since they're science and method rather than individual recipes with their own ingredient lists: **[§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)–[§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)** (heat, carryover, resting, smoke) and **[§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)–[§T45](#t45-bones--do-they-actually-add-flavor)** (meat composition, salt and brining, rubs/injecting/marinades, Maillard, fat cap, reverse sear, cooking-time physics, faux Cambro, food safety, and bones). **§13 itself stays a placeholder** — it's reserved specifically for an actual named recipe from this book, which hasn't arrived yet.
 
 [↑ Table of Contents](#table-of-contents)
 

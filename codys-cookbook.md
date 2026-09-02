@@ -405,6 +405,7 @@ Click any recipe to jump straight to it.
 - [14.16 Pie Crust](#1416-pie-crust) ✅
 - [14.17 Flaky French Pastry](#1417-flaky-french-pastry) ✅
 - [14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) ✅
+- [14.19 Vodka Pie Crust](#1419-vodka-pie-crust) ✅ *(Judy Kim; Cody's own coarse-salt modification)*
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -426,6 +427,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | **Added [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust)**, sourced from Judy Kim (judykim.nyc) — a food-processor dough built on both butter and shortening, with vodka standing in for some of the ice water since it doesn't develop gluten the way water does. **Distinct from [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)**, the classic hand-laminated method already in this cookbook. **Cody's own modification recorded in place:** thick, coarse sea salt instead of any flaky finishing salt, with room to add a bit more for a saltier crust — the source itself doesn't call for a flaky-salt finish at all, so this is flagged as Cody's preference for whenever this crust gets salted, not a literal swap from the recipe as printed. The source's decorative-pie notes (pie cutters, frozen cutout shapes, skipping blind-baking on a baking steel) are kept as a callout rather than dropped. **Also clarified [§8.1 Chili Mac](#81-chili-mac)'s naming, per Cody:** *"chili can stand alone, but chili mac is its own thing that includes chili"* — the entry's intro now states that distinction directly rather than just asserting the rename. |
 | 2026-08-19 | **A large batch from Cody's recipe/grocery spreadsheet — corrections, discrepancy checks, and new entries, all in one pass.** **Corrections to existing entries:** [§16.1 Hot Apple Cider](#161-hot-apple-cider) was missing its own apple cider — a full gallon (**Musselman's Fresh Pressed** specifically, per Cody, to balance the sweetness) added and the yield/nutrition recalculated from 3 to about 7 quarts; [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) corrected from generic "pork sausage" to **sage sausage**; [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) rescaled 1.5× (8 oz pasta → 12 oz) with bacon bits substituted for sliced bacon, both straight from Cody's own card notes; [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) finally got real quantities and resolved both of its long-standing Open Questions (no amounts given; when the whipping cream goes in) — it also turned out to use **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)**, now cross-linked. **[§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) filled in** from a card whose own title field was left as the template default — content matched this placeholder unmistakably; carries its own warning that cabbage is deliberately never boiled with the beef. **Three cards checked against existing entries and found to already match exactly, so nothing changed:** [§7.15 Pauls Jambalaya](#715-pauls-jambalaya), [§7.16 Red Beans & Rice](#716-red-beans--rice), and [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) — good confirmation that this cookbook's earlier transcriptions of Cody's cards were accurate the first time. **[§8.1 Chili renamed to §8.1 Chili Mac](#81-chili-mac)**, per Cody — noodles are baked into the ingredient list, so it's not a plain chili; all 8 cross-references to the old anchor updated, and [§8.21 Five-Way Chili](#821-five-way-chili)'s standing speculation about whether it was the same dish as §8.1 is now resolved (no — genuinely separate, still undocumented). **Nine brand-new entries:** [§5.35 Cole Slaw](#535-cole-slaw) (mayo-based, distinct from [§5.13](#513-north-carolina-coleslaw)), [§5.36 Lemon Green Beans](#536-lemon-green-beans), [§5.37 Mamma's Spinach](#537-mammas-spinach), [§5.38 Roasted Veggies](#538-roasted-veggies) (a deliberately loose "wing it" formula), [§8.32 Potato Soup](#832-potato-soup), [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew), [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder), [§8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot), [§9.29 Deer Jerky](#929-deer-jerky) (the same seasoning system as [§9.6](#96-beef-jerky), which also resolved §9.6's forming-method Open Question — "squeeze on dehydrator" confirms a jerky gun), [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) (Cody's own French-bread spin, distinct from the round-loaf [§9.22](#922-tailgate-muffuletta-sandwich)), [§9.31 Quesadillas](#931-quesadillas) (kid-friendly, per Cody), and [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) (❤️ — *"flat out rocks with steak"*). **Two placeholders added deliberately incomplete, per Cody's explicit instruction:** [§7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) records only the cut of meat — the marinade-and-broil method on the same card was intentionally left out so Cody's own method can go in later instead — and [§8.36 Chili Dogs](#836-chili-dogs), the other named use for Chili Mac. **Two cards had no cooking directions at all** ([§8.32 Potato Soup](#832-potato-soup), [§9.31 Quesadillas](#931-quesadillas)) and are flagged with the same ⚠️ standard-method treatment established for [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters). TOC, Difficulty & Time Index, and cross-links updated throughout. |
 | 2026-08-19 | Added **[§9.28 Char-Grilled Oysters](#928-char-grilled-oysters)** — from the same Cody spreadsheet format as [§9.27 Reuben](#927-reuben), but **this card had ingredients and quantities only, no cooking directions at all.** Rather than leave it a bare grocery list or silently invent a method and present it as Cody's own, the entry is written up using the standard, well-known char-grilled oyster technique (garlic-cheese butter, breadcrumbs, grilled hot until bubbling and charred) that this exact ingredient list points to — Drago's-style, a Gulf Coast classic — with a prominent ⚠️ flag at the top of the entry and in Open Questions saying so plainly, distinct from every other recipe in this cookbook where the method is either transcribed or dictated. Rated 🟡 Medium rather than Easy, since butter dripping onto open flame can flare up and the oysters overcook fast if you step away. Also flagged: "half a sack" is noted as roughly 50 oysters (a sack typically holds about 100), and the card's "4 box" of butter (4 lb) is transcribed as literally listed rather than second-guessed, though it's called out as a strikingly large quantity worth confirming. |
 | 2026-08-19 | Added **[§9.27 Reuben](#927-reuben)** — transcribed from a photo of Cody's own recipe/grocery-planning spreadsheet, no cookbook or author credited on the card. A griddled deli-style Reuben: rye, Thousand Island, Swiss or Gruyère, sauerkraut, and a full pound of pastrami or corned beef, pressed and pan-crisped until golden and melted. **Written up as one large sandwich, exactly as the directions describe** ("one piece of bread... remaining piece of bread" — only two slices, one sandwich), rather than assumed to serve more; a note suggests splitting it or halving the meat across two sandwiches for a more typical portion. **One Open Question flagged rather than guessed past:** the cheese amount is listed only as "a package," so the ingredient list carries a working 4–6 slice estimate. |
@@ -782,6 +784,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) | 🔴 | 20 min | 10 min | — | 2 hr 30 min *(includes an estimated ~2 hr combined chill)* |
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
+| [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
@@ -19014,7 +19017,7 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 
 ### 8.1 Chili Mac
 
-Transcribed from Cody's photographed recipe card — a crock-pot chili built on a beef-or-venison and pork sausage base, served over noodles. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody** — with noodles built right into the ingredient list, this is really a chili mac, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
+Transcribed from Cody's photographed recipe card — a crock-pot chili built on a beef-or-venison and pork sausage base, served over noodles. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody's own distinction: "chili can stand alone, but chili mac is its own thing that includes chili."** Plain chili is its own dish; this recipe builds noodles right in, which makes it chili mac specifically, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Slow cook 4 hr** *(crock pot)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands)*
 
@@ -25608,6 +25611,74 @@ Fold the plain half over the filled half.
 
 - **No preserves quantity given** — about 1 cup is assumed for the Nutrition estimate.
 - **No bar count or bake time given** — 24 bars and a 35-min bake are Claude's estimates.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.19 Vodka Pie Crust
+
+Sourced from **Judy Kim** (judykim.nyc). A food-processor pie dough built on both butter and shortening for a silky texture, with vodka in place of some of the ice water — vodka doesn't develop gluten the way water does, so the dough stays pliable and forgiving, which the source calls out as especially good for decorative pies or a first-time pie maker. **Distinct from [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)** — that one is the classic French hand-laminated method; this is a food-processor dough built around vodka's gluten-blocking trick instead.
+
+> **Per the source, on what actually matters:** *"Vodka may seem to be the star, which does help reduce the formation of gluten, but I think technique reigns supreme for success. The key is evenly distributed butter and flour... Big butter chunks may seem ideal, but they create an unevenly textured pie."*
+
+> **📌 Cody's own modification: thick, coarse sea salt in place of any flaky finishing salt, and a little extra salt for a saltier crust.** The source's own ingredient list only calls for 1 teaspoon kosher salt worked into the dough — it doesn't call for a flaky-salt finish at all. Cody's preference is recorded here for whenever this crust gets a salted finish: use thick, coarse sea salt rather than a delicate flaky one, and don't be shy about bumping the total salt up for a saltier crust.
+
+**Yield:** two 8- to 10-inch single crusts, or one double crust
+
+**🟡 Medium** · **Prep ~30 min** · **Cook none** · **Start to finish ~2 hr 30 min** *(plus a minimum 2 hr chill, preferably overnight — the chill is part of the method, not downtime around it)*
+
+> ⚠️ **Why Medium, not Easy:** the food processor step can go from "chickpea-sized" to overmixed gluten in seconds if you run it continuously instead of pulsing, and warm butter ruins the flaky texture the whole method is built around. Freeze the butter and shortening in advance, and work fast.
+
+#### A. Ingredients
+
+- 12 Tbsp (1½ sticks) unsalted butter, cut into ½-inch cubes and frozen *(the source's own preference: Vermont Creamery European-style butter)*
+- ½ cup vodka
+- 2½ cups all-purpose flour
+- 1 tsp kosher salt, or a little more per Cody's own preference (see note above)
+- 2 Tbsp shortening, frozen
+
+#### B. Cooking Instructions
+
+**1. Chill the vodka with ice. Bring it to ¾ cup total.**
+Pour the vodka into a liquid measuring cup and add several ice cubes. Once it's chilled (a few minutes), remove the ice — the vodka-water mixture should measure ¾ cup. *(For less vodka: use ⅓ cup vodka plus ¼ cup ice water instead.)*
+
+**2. Toss the dry ingredients with the frozen fats, then pulse in the food processor.**
+Combine the flour and salt in a large bowl. Add the frozen butter and shortening and toss quickly by hand to coat every piece in flour — this helps the dough come together evenly. Transfer to a food processor fitted with the steel blade and pulse 2 to 3 times, until the fat is about the size of chickpeas.
+
+**3. Stream in the vodka mixture while pulsing. Don't run it continuously.**
+Pour the vodka mixture through the feed tube in a steady stream while pulsing continuously, until the dough just begins to pull together and the butter and shortening are about the size of dried lentils. **Pulse, don't run the machine on** — a continuous run overmixes it.
+
+**4. Turn out, knead lightly, and divide.**
+Turn the dough out onto a lightly floured surface and remove the blade. It's a wet dough, so use bench flour as needed — working on a marble or granite countertop helps keep it cool. Knead 5 to 6 turns, just until smooth. Divide in half.
+
+**5. Shape, wrap, and chill. At least 2 hours, preferably overnight.**
+Wrap each half in plastic wrap and shape into a flattened disk (or a rectangle if it's headed for a galette or lattice strips, to cut down on scraps) — shaping it after wrapping keeps the dough cooler and needs less bench flour. Refrigerate at least 2 hours, preferably overnight.
+
+**6. Freeze for later, if you want.**
+The dough freezes well-wrapped for up to 3 months. Save scraps by cutting them into manageable pieces, layering with parchment so they don't stick, wrapping tightly, and freezing for cutouts on a future pie — or cut decorative shapes now and freeze them flat in a single layer before transferring to an airtight container.
+
+> **Notes for decorative pies, per the source:** pie-specific cutters (sold at specialty stores or online) give a cleaner, more detailed impression than cookie cutters, thanks to their plunger design. Keep cutout scraps in the freezer and bake them off as a topping for ice cream or berries and whipped cream — or even alongside skillet eggs and arugula. For a layered look like scattered fallen leaves, roll the dough a bit thinner before cutting so the pieces overlap without getting too thick. For a custard pie that needs a blind-baked shell, freeze the cutout shapes solid a few hours ahead (or the day before) so they hold their shape in the oven; attach them to the crust by brushing the backside with heavy cream, then freeze the assembled shell 5 to 10 minutes before baking. **The source's own time-saver: skip blind baking altogether** — bake the pie directly on a preheated baking steel or pizza stone (set the pie dish on a rimmed sheet pan on top of the steel), and the bottom crust comes out crisp without the extra step.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 12 Tbsp (1½ sticks)
+- 🛒 Vodka — ½ cup
+- 🛒 All-purpose flour — 2½ cups
+- 🛒 Kosher salt
+- 🛒 Shortening — 2 Tbsp
+- 🛒 Thick, coarse sea salt, for finishing *(Cody's preference — see note above)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(both crusts)* | ~2,650 | 175 g | 30 g | 235 g | 8 g |
+| **Per crust** *(1 of 2 single crusts)* | ~1,325 | 88 g | 15 g | 118 g | 4 g |
+
+**What a serving is:** one 8- to 10-inch single crust — figure roughly ⅛ of that per slice once it's filled and baked into a pie.
 
 [↑ Table of Contents](#table-of-contents)
 

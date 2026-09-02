@@ -343,6 +343,7 @@ Click any recipe to jump straight to it.
 - [9.24 Crab Marie](#924-crab-marie) ✅
 - [9.25 Crabmeat Imperial](#925-crabmeat-imperial) ✅
 - [9.26 Mushroom Florentine](#926-mushroom-florentine) ✅
+- [9.27 Reuben](#927-reuben) ✅
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -410,6 +411,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | Added **[§9.27 Reuben](#927-reuben)** — transcribed from a photo of Cody's own recipe/grocery-planning spreadsheet, no cookbook or author credited on the card. A griddled deli-style Reuben: rye, Thousand Island, Swiss or Gruyère, sauerkraut, and a full pound of pastrami or corned beef, pressed and pan-crisped until golden and melted. **Written up as one large sandwich, exactly as the directions describe** ("one piece of bread... remaining piece of bread" — only two slices, one sandwich), rather than assumed to serve more; a note suggests splitting it or halving the meat across two sandwiches for a more typical portion. **One Open Question flagged rather than guessed past:** the cheese amount is listed only as "a package," so the ingredient list carries a working 4–6 slice estimate. |
 | 2026-08-19 | **Meathead, pages 42–57: seven more technique entries (T39–T45), and the standing T32 override is finally applied with real numbers instead of a placeholder.** [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd) separates the two GBD reactions properly and explains why a 12-hour 225°F brisket bark and a 15-minute hot-grill sear taste different despite both being fully browned, plus the practical browning checklist (dry surface, right temperature, frequent turning, room to breathe). [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) gives the actual trim target (¼–⅛" on one side) and busts the idea that fat bastes the meat from outside in — it doesn't cross the muscle/fat connective-tissue barrier at all. [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) is the fix for [§T39](#t39-maillard-vs-caramelization--gbd)'s own tradeoff, built on [§T34's two-zone setup](#t34-two-zone-fire-setup), plus its chicken-breast and prime-rib applications. [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time) names thickness (not weight) as the real driver. [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) is the cooler-as-holding-oven trick, with the note that holding brisket hot keeps tenderizing it. **[§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) is the big one** — the 7D pasteurization standard, why whole-muscle meat is safer rare than ground meat ever can be, three myths (pink pork, clear chicken juices, "no longer pink" as a safety test), and the full target-temperature table. **This is also where the T32 override stopped being a placeholder**: §T32's Internal Temperatures table is now reconciled against it — 130–140°F red meat and 160°F chicken/ground-beef floors are *confirmed*, but **pulled pork/ribs/brisket is corrected from ~195°F to 203°F**, with the old figure struck through rather than deleted. [§6.2 Pulled Pork](#62-pulled-pork) gets a matching callout: its printed 195°F stays as transcribed, flagged as conservative against Meathead's 203°F rather than silently changed. [§T45 Bones](#t45-bones--do-they-actually-add-flavor) closes the set — bones add real flavor in wet cooking (braising) but essentially none in dry cooking (grilling/smoking), and grill marks are busted as "superficial branding" covering only about a third of a steak's surface. §13's own note is updated to reflect that the override is now live, not just recorded. All seven added to the Techniques quick index as T39–T45. |
 | 2026-08-19 | **Meathead's "Software" chapter added as three more technique entries — condensed at Cody's own invitation, unlike T33–T35.** [§T36 What Meat Actually Is](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) covers muscle composition, why collagen (melts to gelatin) and elastin (never breaks down) behave so differently, marbling's 130–140°F melt point, myowater vs. the blood myth, slow-twitch/fast-twitch as the reason dark meat is dark, buying-meat tips (know your butcher, avoid "purge" and "enhanced" labels), real tenderizing methods, and the room-temperature-meat myth-bust (a 1½" steak needs 2+ hours to actually reach room temp at the center — straight from the fridge is fine and pulls more smoke besides). **[§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) is the one Cody flagged as most important** — cross-linked with [§T29 How to Salt](#t29-how-to-salt) rather than replacing it, since the two agree where they overlap and this one adds Meathead's actual numbers: brined chicken lost only 7% weight cooking vs. 18% untreated; salt barely travels ⅔" into meat after a full 24-hour soak, but heat pushes it in far faster than soaking time ever does; and a dry-vs-wet brine comparison table. **Records "the Roberts Way" as Cody's own standing practice** — dry brine, heavy, every time — with three notes on going heavier than Meathead's own ½ tsp/lb baseline: big cuts hide a lot of salt (only ⅔" penetration after a day means most of a brisket's interior stays unsalted), the real ceiling is toughening the proteins rather than oversalting, and a thick fat cap blocks salt almost completely. Also carries the **double-salt jeopardy** warning — leave salt out of the rub when brining heavy, or the two stack. [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) is the shortest of the three: salt is the one thing small enough to actually penetrate meat, so rubs, injections, and marinades are all exterior treatments by comparison, capped at about ⅛ inch — with myth-busts for rub-massaging, plastic-wrap "rest for penetration," and marinades in general (proven with green food coloring and a steak with a hole carved in it and filled with oil that never soaked in). All three added to the Techniques quick index as T36–T38. |
 | 2026-08-19 | **Meathead's material has arrived — three new technique entries, and the [§T32](#t32-how-to-use-heat) override is now actually applied, not just flagged.** [§T33 How Meat Actually Cooks](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) covers conduction (the outside cooks the inside, and it's slow because water absorbs heat well), why meat is never one uniform temperature, and two genuine myth-busts: **carryover has no fixed +15°F/+5°F rule** — it scales with thickness and fire temperature, which directly overrides the flat figures §T32 had borrowed from Nosrat (that row is now struck through and points here) — and **resting doesn't meaningfully reduce juice loss**, per meat scientist Antonio Mata and Prof. Greg Blonder's own side-by-side tests, plus it costs a soggy crust and carryover risk; also covers the stall (evaporative cooling parking a low-and-slow cook at 150–165°F) and why 325°F pushes through it. [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) names the direct/indirect setup this cookbook's grilling recipes have been assuming without ever spelling out, plus the ¾-inch lid-on/lid-off rule. [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) covers what smoke actually is (unburned flammable gases, mostly flavor in the invisible ones), why it clings to cold wet surfaces, the smoke ring's real chemistry (nitric oxide/CO locking in pink myoglobin — not caused by billowing smoke), four more myth-busts (smoke absorption doesn't stop after an hour, creosote isn't the bad kind, more smoke isn't better, don't soak your wood — Meathead's own 12-hour weigh-in and a 15-team survey back that last one), and a practical wood-buying and blue-smoke checklist. All three added to the Techniques quick index as T33–T35. |
@@ -688,6 +690,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | 🟡 | 15 min | — | — | 15 min |
 | [§14.16 Pie Crust](#1416-pie-crust) | 🟢 | 15 min | — | — | 15 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
+| [§9.27 Reuben](#927-reuben) | 🟢 | 10 min | 8 min | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
@@ -22499,6 +22502,67 @@ Fill the caps with this mixture, then sprinkle with the Parmesan.
 #### D. Open Questions
 
 - **No serving count given** — 8 (2 caps each) is Claude's estimate from the 16 mushrooms.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.27 Reuben
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — no cookbook or author credited on the card itself. A griddled, deli-style Reuben: rye bread, Thousand Island, Swiss or Gruyère, sauerkraut, and a full pound of pastrami or corned beef, pressed and pan-crisped until the cheese melts.
+
+**Yield:** 1 large sandwich, as written — the directions describe exactly two slices of bread built into one sandwich, so this is a hefty single portion rather than a household batch. Easy to double the bread and cheese and split the pound of meat across two more modest sandwiches instead, if that fits the day better.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~8 min** *(4 min per side)* · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- 2 slices rye bread
+- 4 to 6 slices Gruyère or Swiss cheese *(a package — exact count not given, see Open Questions)*
+- 1 can sauerkraut, drained and squeezed of excess moisture
+- 1 lb pastrami or corned beef, sliced
+- 3 Tbsp Thousand Island dressing, divided *(from a bottle)*
+- 1 Tbsp unsalted butter, softened
+
+#### B. Cooking Instructions
+
+**1. Build the first layer.**
+Spread 1 tablespoon of the dressing on one slice of bread. Top with half of the cheese, half of the sauerkraut, and all of the meat.
+
+**2. Add the second layer and close the sandwich.**
+Spread another tablespoon of the dressing over the meat, then top with the remaining sauerkraut and the remaining cheese, in that order. Spread the last tablespoon of dressing on the second slice of bread and place it on top, dressing side down. Press firmly to close.
+
+**3. Butter the outside.**
+Spread the softened butter evenly over both outer sides of the closed sandwich.
+
+**4. Griddle. About 4 minutes per side.**
+Heat a heavy-bottomed frying pan over medium heat. Place the sandwich in the pan and press down on it with a spatula (or use a sandwich press). Cook until the first side is crisp and golden brown, about 4 minutes. Flip and cook until the second side is golden brown, the cheese is melted, and the sandwich is warmed through, about 4 minutes more.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — deli**
+
+- 🏪 Pastrami or corned beef, sliced — 1 lb
+
+**🛒 General grocery**
+
+- 🛒 Rye bread — 2 slices, from a loaf
+- 🛒 Gruyère or Swiss cheese, sliced — a package
+- 🛒 Sauerkraut — 1 can
+- 🛒 Thousand Island dressing — a bottle *(3 Tbsp used)*
+- 🛒 Unsalted butter — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole sandwich** | ~1,820 | 135 g | 120 g | 70 g | 6 g |
+
+**What a serving is:** the whole sandwich, as written — one very generously piled deli-style Reuben. Split it in half, or divide the pound of meat across two sandwiches instead, for a more typical single portion (roughly half these figures).
+
+#### D. Open Questions
+
+- **Cheese count isn't given** — the source lists "a package," not a slice count. 4 to 6 slices is a working estimate for a sandwich built from two full layers; adjust to what the package actually holds.
 
 [↑ Table of Contents](#table-of-contents)
 

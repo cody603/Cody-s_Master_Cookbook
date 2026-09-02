@@ -117,6 +117,7 @@ Click any recipe to jump straight to it.
   - [4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) ✅ *(the big-batch cider mop — see the three-mop table)*
   - [4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade) ✅ *(feeds [§7.75](#775-lettuce-bundles-with-grilled-beef))*
   - [4.98 Herdez Street Taco Sauce (Store-Bought)](#498-herdez-street-taco-sauce-store-bought) ✅ 👍 — *reference*
+  - [4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ✅ ❤️
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -189,6 +190,10 @@ Click any recipe to jump straight to it.
 - [5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) 🦃 ✅
 - [5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) ✅
 - [5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](#534-brazilian-black-beans-with-bacon-tutu-mineira) ✅
+- [5.35 Cole Slaw](#535-cole-slaw) ✅ *(mayo-based, distinct from [§5.13](#513-north-carolina-coleslaw))*
+- [5.36 Lemon Green Beans](#536-lemon-green-beans) ✅ 👍
+- [5.37 Mamma's Spinach](#537-mammas-spinach) ✅ ❤️
+- [5.38 Roasted Veggies](#538-roasted-veggies) ✅ *(a loose "wing it" formula, not a fixed recipe)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -213,7 +218,7 @@ Click any recipe to jump straight to it.
 - [7.8 Fried Catfish](#78-fried-catfish) ○ ❤️
 - [7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) ○ ❤️
 - [7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) ○ 👍
-- [7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ○ ❤️
+- [7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ✅ ❤️ *(no cabbage in the pot — see the entry's own warning)*
 - [7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) ○ 👍
 - [7.13 Crawfish Elegante](#713-crawfish-elegante) ✅
 - [7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters) ✅
@@ -279,11 +284,12 @@ Click any recipe to jump straight to it.
 - [7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) ✅
 - [7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) ✅ *(uses [§4.97](#497-aromatic-lemongrass-marinade))*
 - [7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) ✅ *(⚠️ 160°F food-safety note)*
+- [7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) ○ *(cut only — method deliberately withheld, see entry)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
 - [**8.0 The Hearty Main Course Soup Formula**](#80-the-hearty-main-course-soup-formula) ✅ — *the foundation the soups below vary on*
-- [8.1 Chili](#81-chili) ✅ ❤️
+- [8.1 Chili Mac](#81-chili-mac) ✅ ❤️
 - [8.2 Soups](#82-soups) ○ ❤️
 - [8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ✅ ❤️
 - [8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ✅ *(house favorite)* ❤️
@@ -314,6 +320,11 @@ Click any recipe to jump straight to it.
 - [8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) ✅
 - [8.30 Turtle Soup I](#830-turtle-soup-i) ✅
 - [8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) ✅
+- [8.32 Potato Soup](#832-potato-soup) ✅ *(⚠️ no directions on the source card — standard method used, see Open Questions)*
+- [8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) ✅ 👍
+- [8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) ✅ ❤️
+- [8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot) ✅ ❤️
+- [8.36 Chili Dogs](#836-chili-dogs) ○ *(uses [§8.1 Chili Mac](#81-chili-mac))*
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -345,6 +356,9 @@ Click any recipe to jump straight to it.
 - [9.26 Mushroom Florentine](#926-mushroom-florentine) ✅
 - [9.27 Reuben](#927-reuben) ✅
 - [9.28 Char-Grilled Oysters](#928-char-grilled-oysters) ✅ *(⚠️ no directions on the source card — standard method used, see Open Questions)*
+- [9.29 Deer Jerky](#929-deer-jerky) ✅ *(same seasoning system as [§9.6](#96-beef-jerky), on venison)*
+- [9.30 Muffelatta Poboy](#930-muffelatta-poboy) ✅ *(Cody's own spin, distinct from [§9.22](#922-tailgate-muffuletta-sandwich))*
+- [9.31 Quesadillas](#931-quesadillas) ✅ *(⚠️ no directions on the source card — standard method used; kid-friendly, per Cody)*
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -412,6 +426,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | **A large batch from Cody's recipe/grocery spreadsheet — corrections, discrepancy checks, and new entries, all in one pass.** **Corrections to existing entries:** [§16.1 Hot Apple Cider](#161-hot-apple-cider) was missing its own apple cider — a full gallon (**Musselman's Fresh Pressed** specifically, per Cody, to balance the sweetness) added and the yield/nutrition recalculated from 3 to about 7 quarts; [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) corrected from generic "pork sausage" to **sage sausage**; [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) rescaled 1.5× (8 oz pasta → 12 oz) with bacon bits substituted for sliced bacon, both straight from Cody's own card notes; [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) finally got real quantities and resolved both of its long-standing Open Questions (no amounts given; when the whipping cream goes in) — it also turned out to use **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)**, now cross-linked. **[§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) filled in** from a card whose own title field was left as the template default — content matched this placeholder unmistakably; carries its own warning that cabbage is deliberately never boiled with the beef. **Three cards checked against existing entries and found to already match exactly, so nothing changed:** [§7.15 Pauls Jambalaya](#715-pauls-jambalaya), [§7.16 Red Beans & Rice](#716-red-beans--rice), and [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) — good confirmation that this cookbook's earlier transcriptions of Cody's cards were accurate the first time. **[§8.1 Chili renamed to §8.1 Chili Mac](#81-chili-mac)**, per Cody — noodles are baked into the ingredient list, so it's not a plain chili; all 8 cross-references to the old anchor updated, and [§8.21 Five-Way Chili](#821-five-way-chili)'s standing speculation about whether it was the same dish as §8.1 is now resolved (no — genuinely separate, still undocumented). **Nine brand-new entries:** [§5.35 Cole Slaw](#535-cole-slaw) (mayo-based, distinct from [§5.13](#513-north-carolina-coleslaw)), [§5.36 Lemon Green Beans](#536-lemon-green-beans), [§5.37 Mamma's Spinach](#537-mammas-spinach), [§5.38 Roasted Veggies](#538-roasted-veggies) (a deliberately loose "wing it" formula), [§8.32 Potato Soup](#832-potato-soup), [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew), [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder), [§8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot), [§9.29 Deer Jerky](#929-deer-jerky) (the same seasoning system as [§9.6](#96-beef-jerky), which also resolved §9.6's forming-method Open Question — "squeeze on dehydrator" confirms a jerky gun), [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) (Cody's own French-bread spin, distinct from the round-loaf [§9.22](#922-tailgate-muffuletta-sandwich)), [§9.31 Quesadillas](#931-quesadillas) (kid-friendly, per Cody), and [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) (❤️ — *"flat out rocks with steak"*). **Two placeholders added deliberately incomplete, per Cody's explicit instruction:** [§7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) records only the cut of meat — the marinade-and-broil method on the same card was intentionally left out so Cody's own method can go in later instead — and [§8.36 Chili Dogs](#836-chili-dogs), the other named use for Chili Mac. **Two cards had no cooking directions at all** ([§8.32 Potato Soup](#832-potato-soup), [§9.31 Quesadillas](#931-quesadillas)) and are flagged with the same ⚠️ standard-method treatment established for [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters). TOC, Difficulty & Time Index, and cross-links updated throughout. |
 | 2026-08-19 | Added **[§9.28 Char-Grilled Oysters](#928-char-grilled-oysters)** — from the same Cody spreadsheet format as [§9.27 Reuben](#927-reuben), but **this card had ingredients and quantities only, no cooking directions at all.** Rather than leave it a bare grocery list or silently invent a method and present it as Cody's own, the entry is written up using the standard, well-known char-grilled oyster technique (garlic-cheese butter, breadcrumbs, grilled hot until bubbling and charred) that this exact ingredient list points to — Drago's-style, a Gulf Coast classic — with a prominent ⚠️ flag at the top of the entry and in Open Questions saying so plainly, distinct from every other recipe in this cookbook where the method is either transcribed or dictated. Rated 🟡 Medium rather than Easy, since butter dripping onto open flame can flare up and the oysters overcook fast if you step away. Also flagged: "half a sack" is noted as roughly 50 oysters (a sack typically holds about 100), and the card's "4 box" of butter (4 lb) is transcribed as literally listed rather than second-guessed, though it's called out as a strikingly large quantity worth confirming. |
 | 2026-08-19 | Added **[§9.27 Reuben](#927-reuben)** — transcribed from a photo of Cody's own recipe/grocery-planning spreadsheet, no cookbook or author credited on the card. A griddled deli-style Reuben: rye, Thousand Island, Swiss or Gruyère, sauerkraut, and a full pound of pastrami or corned beef, pressed and pan-crisped until golden and melted. **Written up as one large sandwich, exactly as the directions describe** ("one piece of bread... remaining piece of bread" — only two slices, one sandwich), rather than assumed to serve more; a note suggests splitting it or halving the meat across two sandwiches for a more typical portion. **One Open Question flagged rather than guessed past:** the cheese amount is listed only as "a package," so the ingredient list carries a working 4–6 slice estimate. |
 | 2026-08-19 | **Meathead, pages 42–57: seven more technique entries (T39–T45), and the standing T32 override is finally applied with real numbers instead of a placeholder.** [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd) separates the two GBD reactions properly and explains why a 12-hour 225°F brisket bark and a 15-minute hot-grill sear taste different despite both being fully browned, plus the practical browning checklist (dry surface, right temperature, frequent turning, room to breathe). [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) gives the actual trim target (¼–⅛" on one side) and busts the idea that fat bastes the meat from outside in — it doesn't cross the muscle/fat connective-tissue barrier at all. [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) is the fix for [§T39](#t39-maillard-vs-caramelization--gbd)'s own tradeoff, built on [§T34's two-zone setup](#t34-two-zone-fire-setup), plus its chicken-breast and prime-rib applications. [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time) names thickness (not weight) as the real driver. [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) is the cooler-as-holding-oven trick, with the note that holding brisket hot keeps tenderizing it. **[§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) is the big one** — the 7D pasteurization standard, why whole-muscle meat is safer rare than ground meat ever can be, three myths (pink pork, clear chicken juices, "no longer pink" as a safety test), and the full target-temperature table. **This is also where the T32 override stopped being a placeholder**: §T32's Internal Temperatures table is now reconciled against it — 130–140°F red meat and 160°F chicken/ground-beef floors are *confirmed*, but **pulled pork/ribs/brisket is corrected from ~195°F to 203°F**, with the old figure struck through rather than deleted. [§6.2 Pulled Pork](#62-pulled-pork) gets a matching callout: its printed 195°F stays as transcribed, flagged as conservative against Meathead's 203°F rather than silently changed. [§T45 Bones](#t45-bones--do-they-actually-add-flavor) closes the set — bones add real flavor in wet cooking (braising) but essentially none in dry cooking (grilling/smoking), and grill marks are busted as "superficial branding" covering only about a third of a steak's surface. §13's own note is updated to reflect that the override is now live, not just recorded. All seven added to the Techniques quick index as T39–T45. |
@@ -568,7 +583,7 @@ Click any recipe to jump straight to it.
 | 2026-08-09 | Added **[§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce)** — transcribed from a photographed cookbook page, a separate olive-oil-based tomato sauce alongside (not replacing) **[§7.18 Spaghetti](#718-spaghetti)**'s meat sauce. Per Cody, only the canned-San-Marzano tomato option from the card was kept — the fresh-tomato alternative was dropped since that's not the route he's using. |
 | 2026-08-09 | Added **[§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce)** and **[§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)** — transcribed from a photographed cookbook page. §4 renamed *Rubs, Seasonings & Sauces* to cover them, since both are standalone components meant to be reused across dishes rather than one-off recipes. **[§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)** now cross-links to §4.3 for the pesto itself. |
 | 2026-08-08 | Added **[§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs)** — transcribed from Cody's spreadsheet, expanded from a marinade card into a full kabob recipe. The card only specified the chicken/onion/bell-pepper skewer and didn't give quantities for the pineapple, zucchini, squash, tomato, or kielbasa additions Cody listed — recommended quantities and cut sizes for those are flagged as Claude's estimate in the ingredients and in Open Questions, for Cody to confirm after cooking. Also added a marinate-time recommendation (the card didn't give one) since this is a low-acid, soy-based marinade. |
-| 2026-08-08 | Added six new recipes transcribed from Cody's photographed recipe cards: **[§7.13 Crawfish Elegante](#713-crawfish-elegante)**, **[§7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters)**, **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)**, **[§7.16 Red Beans & Rice](#716-red-beans--rice)**, **[§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans)**, and **[§7.18 Spaghetti](#718-spaghetti)**. Also filled in the long-standing **[§8.1 Chili](#81-chili)** placeholder. Crawfish Elegante is now off the §12 to-document list. Several recipes carry Open Questions where the original card was ambiguous (missing steps, an unidentified seasoning brand) — flagged inline for Cody to confirm. Groceries were **not** pushed to Reminders this round — the Reminders connector wasn't reachable in this session; push these manually or ask again once it's connected. |
+| 2026-08-08 | Added six new recipes transcribed from Cody's photographed recipe cards: **[§7.13 Crawfish Elegante](#713-crawfish-elegante)**, **[§7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters)**, **[§7.15 Pauls Jambalaya](#715-pauls-jambalaya)**, **[§7.16 Red Beans & Rice](#716-red-beans--rice)**, **[§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans)**, and **[§7.18 Spaghetti](#718-spaghetti)**. Also filled in the long-standing **[§8.1 Chili Mac](#81-chili-mac)** placeholder. Crawfish Elegante is now off the §12 to-document list. Several recipes carry Open Questions where the original card was ambiguous (missing steps, an unidentified seasoning brand) — flagged inline for Cody to confirm. Groceries were **not** pushed to Reminders this round — the Reminders connector wasn't reachable in this session; push these manually or ask again once it's connected. |
 | 2026-08-08 | **Restructure: techniques get their own section.** §4.2–§4.7 moved out of §4 into a new top-level **[T. Cooking Techniques & Tips](#t-cooking-techniques--tips)** section (T1–T7), each entry tagged for conversation-mode lookup. Added **[T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)** from the pho and pork-belly write-ups. Recipes now carry a *Techniques used* line. §4 renamed back to *Rubs & Seasonings*. All cross-links updated. |
 | 2026-08-08 | Added **[§T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying)**, **[§T5 Seasonings & Peppers](#t5-seasonings--peppers)**, **[§T6 Seafood Notes](#t6-seafood-notes)**, and **[§T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)** from Cody's photographed technique and glossary pages. §T1 picked up a note on what a roux actually is. §8.3 now cross-links to §T3 for the frying steps. |
 | 2026-08-08 | Added **[§T1 How to Make a Roux](#t1-how-to-make-a-roux)** and **[§T4 Stocks & Ingredient Conventions](#t4-stocks--ingredient-conventions)** from Cody's photographed technique pages. §4 renamed to *Rubs, Seasonings & Base Techniques* to cover them. §8.3 now points at §T1 for the roux. |
@@ -628,6 +643,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 10 min *(+ refrigerate, time not given)* |
 | [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
 | [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -672,6 +688,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
+| [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) | 🟢 | 10 min | — | — | 10 min |
+| [§9.31 Quesadillas](#931-quesadillas) | 🟢 | 10 min | 5 min | — | 15 min |
+| [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) | 🟢 | 15 min | — | — | 15 min |
+| [§5.37 Mamma's Spinach](#537-mammas-spinach) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) | 🟢 | 15 min | — | — | 15 min |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
@@ -698,6 +718,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
+| [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§9.29 Deer Jerky](#929-deer-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.85 Beurre Blanc / Nantais (White Butter)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) | 🔴 | 5 min | 15 min | — | 20 min |
 | [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
 | [§4.81 Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
@@ -715,7 +737,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.12 Potted Crab](#912-potted-crab) | 🟢 | 15 min | 5 min | — | 4 hr 20 min *(3+ hr chill, 1 hr temper)* |
 | [§4.59 Tonnato Sauce](#459-tonnato-sauce) 🔖 | 🟡 | 20 min | — | — | 20 min |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
-| [§8.1 Chili](#81-chili) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
+| [§8.1 Chili Mac](#81-chili-mac) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill; ~2–3 hr for Cody's preferred St. Louis/spare ribs)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
@@ -771,6 +793,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii) | 🔴 | 20 min | 15 min | — | 3 hr 35 min *(includes the printed 3 hr chill)* |
 | [§9.25 Crabmeat Imperial](#925-crabmeat-imperial) | 🟢 | 20 min | 15 min | — | 35 min |
+| [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
@@ -804,6 +827,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) | 🟢 | 20 min | — | **1 day minimum** *(pickles in the jar; improves for weeks)* | ~1 day |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
+| [§8.32 Potato Soup](#832-potato-soup) | 🟢 | 20 min | 30 min | — | 50 min |
 | [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) | 🟡 | 10 min | 35 min | — | 45 min |
 | [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) | 🟢 | 10 min | 35 min | — | 45 min |
@@ -836,6 +860,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 30 min | — | 1 hr 10 min *(includes a 30 min batter chill)* |
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
 | [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) | 🟡 | 45 min | 25 min | — | 1 hr 10 min |
+| [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) | 🟢 | 40 min | 35 min | — | 1 hr 15 min |
+| [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
+| [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) | 🟢 | 15 min | — | **~3 hr** *(simmer, mostly unattended)* | 3 hr 15 min |
+| [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) | 🟢 | 10 min | — | **3–7 hr** *(slow cooker)* | 3 hr 10 min – 7 hr 10 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -903,11 +931,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ### Reading this table
 
-**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili](#81-chili) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
+**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili Mac](#81-chili-mac) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§10.0 Frittata](#100-the-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 108 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili](#81-chili) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 108 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -946,7 +974,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Smoked meats — the whole section:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak)
 
-**Soups & chili — the whole section, the only clean sweep in the cookbook:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili](#81-chili) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)
+**Soups & chili — the whole section, the only clean sweep in the cookbook:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili Mac](#81-chili-mac) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup)
 
 **Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)
 
@@ -7182,6 +7210,61 @@ Combine the lemongrass, shallots, garlic, and sugar in a mortar and pound to a c
 
 ---
 
+### 4.99 Tomatillo Avocado Salsa
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet, from the same card as a flank steak carne asada — see [§7.77](#777-carne-asada-flank-steak) for the meat this pairs with. A quick blender salsa, no cooking at all.
+
+**❤️ Family favorite** — *Cody: "This tomatillo sauce just flat out rocks with steak!!!! We love it."*
+
+**Yield:** about 2 to 3 cups — keeps 2 weeks in the refrigerator, per the card
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 5 tomatillos
+- 1 jalapeño
+- ½ bunch cilantro
+- 1 onion
+- 2 cloves garlic
+- 1 avocado
+- 1 lime
+- 1 tsp salt
+
+#### B. Cooking Instructions
+
+**1. Blend.**
+Put everything in a high-powered blender and blend for a few minutes until pureed, or to your desired consistency. If you don't have a high-powered blender, at least quarter the tomatillos, onion, avocado, and jalapeño before adding them, so the blender has less work to do.
+
+**2. Store.**
+Keeps 2 weeks in the refrigerator.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Tomatillos — 5
+- 🛒 Jalapeño — 1
+- 🛒 Cilantro — ½ bunch
+- 🛒 Onion — 1
+- 🛒 Garlic — 2 cloves
+- 🛒 Avocado — 1
+- 🛒 Lime — 1
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2½ cups)* | ~450 | 30 g | 6 g | 45 g | 18 g |
+| **Per serving** *(2 Tbsp)* | ~30 | 2 g | <1 g | 3 g | 1 g |
+
+**What a serving is:** about 2 Tbsp, spooned over sliced steak — most of this batch's fat comes from the avocado.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -10632,64 +10715,63 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 
 Printed from lifesambrosia.com. A cold, make-ahead pasta salad — crisp bacon, rotini, cherry tomatoes, and avocado in a lemon-dill mayo dressing, chilled 30 minutes before serving.
 
+> **📌 Scaled up and one substitution made, per Cody's own recipe spreadsheet.** He bumped the pasta from 8 oz to 12 oz and scaled every other ingredient by the same 1.5×, and swapped bacon bits in for the 6 slices of bacon. His own notes on the card: *"Substitute bacon bits for bacon."* and *"Substituted 12 oz of pasta for 8oz & changed amounts of ingredients accordingly."* Both changes carried through below — this is the current version of the recipe, not a second one.
+
 **🟢 Easy** · **Prep ~20 min** · **Cook ~15 min** · **Start to finish ~1 hr** *(plus 30 min fridge chill before serving)*
 
 **❤️ Family favorite** — *Cody: "Awesome."*
 
 #### A. Ingredients
 
-- 6 slices bacon, chopped into 1-inch pieces
-- ½ lb (8 oz.) dried rotini pasta
-- ½ cup mayonnaise
-- 1 Tbsp lemon juice
-- ½ tsp salt
-- ½ tsp garlic powder
-- ¼ tsp pepper
-- 1 tsp dried dill
-- 1 cup cherry tomatoes, halved
-- 1 avocado, pitted and sliced
+- ½ jar real bacon bits *(Cody's substitution for sliced bacon)*
+- 12 oz (1 box) dried rotini pasta
+- ¾ cup mayonnaise
+- 1½ Tbsp lemon juice
+- ¾ tsp salt
+- ¾ tsp garlic powder
+- ½ tsp pepper
+- 1½ tsp dried dill
+- 1 container cherry tomatoes, halved
+- 1 to 2 avocados, pitted and sliced
 
 #### B. Cooking Instructions
 
-**1. Cook the bacon until crisp.**
-Chopped into 1-inch pieces, cooked crisp, then transferred to a paper-towel-lined plate to drain. Reserve it — it goes into the salad at the end, not the dressing.
+**1. Cook the pasta, then cool it fast.**
+Cook the rotini per the package directions, strain, and run cold water over it right away until it's fully cooled. *The original recipe's listed 5-minute cook time runs short for rotini, which usually wants 8–11 minutes — go by the package, not the card.*
 
-**2. Cook the pasta, then cool it fast.**
-Cook the rotini per the package directions, strain, and run cold water over it right away until it's fully cooled. *The recipe's listed 5-minute cook time runs short for rotini, which usually wants 8–11 minutes — go by the package, not the card.*
+**2. Whisk the dressing while the pasta cooks.**
+Mayonnaise, lemon juice, salt, garlic powder, pepper, and dried dill, whisked together in a bowl.
 
-**3. Whisk the dressing while the bacon and pasta cook.**
-Mayonnaise, lemon juice, salt, garlic powder, pepper, and dried dill, whisked together in a bowl. This can come together in the gaps while the other two steps are going.
+**3. Toss everything together and chill. 30 minutes.**
+Stir the cooled pasta, cherry tomatoes, sliced avocado, and the bacon bits into the dressing. Toss to combine, then refrigerate for 30 minutes before serving — this isn't optional resting, it's what lets the dressing coat everything and the flavors settle.
 
-**4. Toss everything together and chill. 30 minutes.**
-Stir the cooled pasta, cherry tomatoes, sliced avocado, and the reserved bacon into the dressing. Toss to combine, then refrigerate for 30 minutes before serving — this isn't optional resting, it's what lets the dressing coat everything and the flavors settle.
-
-**5. Serve cold.**
+**4. Serve cold.**
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Bacon — 6 slices
-- 🛒 Rotini pasta — ½ lb (8 oz.)
-- 🛒 Mayonnaise — ½ cup
-- 🛒 Lemon — for 1 Tbsp juice
+- 🛒 Real bacon bits — ½ jar
+- 🛒 Rotini pasta — 12 oz (1 box)
+- 🛒 Mayonnaise — ¾ cup
+- 🛒 Lemon — for 1½ Tbsp juice
 - 🛒 Salt
 - 🛒 Garlic powder
 - 🛒 Black pepper
 - 🛒 Dried dill
-- 🛒 Cherry tomatoes — 1 cup halved
-- 🛒 Avocado — 1
+- 🛒 Cherry tomatoes — 1 container
+- 🛒 Avocado — 1 to 2
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~2,050 | 122 g | 49 g | 181 g | 20 g |
-| **Per serving** *(serves 4)* | ~515 | 30 g | 12 g | 45 g | 5 g |
+| **Whole dish** | ~2,870 | 165 g | 62 g | 273 g | 30 g |
+| **Per serving** *(serves 6)* | ~480 | 28 g | 10 g | 46 g | 5 g |
 
 **What a serving is:** about 1½ cups — a full lunch portion, or a generous side at a cookout.
 
-*Mayonnaise and avocado together account for most of the fat.*
+*Mayonnaise and avocado together still account for most of the fat; bacon bits run a little leaner than fried bacon slices, but not enough to change that.*
 
 #### D. Open Questions
 
@@ -12193,6 +12275,195 @@ Taste and adjust salt, pepper, and hot sauce. Sprinkle with the chopped eggs and
 
 ---
 
+### 5.35 Cole Slaw
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet. A quick mayo-based slaw finished with Tony's — **a different dish from [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)**, which is vinegar-based with no mayonnaise at all. Both are kept; this is the everyday weeknight version, §5.13 is the Carolina barbecue-specific one.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(plus refrigerating before serving — the card doesn't give a duration)*
+
+#### A. Ingredients
+
+- 1 bag cabbage slaw mix
+- Mayonnaise, to taste
+- About 1 Tbsp fresh lemon juice
+- Tony's (Cajun seasoning), to taste
+
+#### B. Cooking Instructions
+
+**1. Mix and refrigerate.**
+Toss the slaw mix with mayonnaise, lemon juice, and Tony's to taste. Refrigerate until serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cabbage slaw mix — 1 bag
+- 🛒 Mayonnaise
+- 🛒 Lemon — for about 1 Tbsp juice
+- 🛒 Tony's Cajun seasoning
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~500 | 40 g | 3 g | 32 g | 10 g |
+| **Per serving** *(serves 4)* | ~125 | 10 g | 1 g | 8 g | 2.5 g |
+
+**What a serving is:** about ¾ to 1 cup — a normal side portion.
+
+#### D. Open Questions
+
+- **Mayonnaise and Tony's are both "to taste"** — no measured amount on the card. ¼ cup mayo is the working assumption behind the Nutrition figures above.
+- **No refrigeration time given** — "mix and refrigerate" doesn't say how long; 30 minutes to an hour is typical for a slaw mix to soften slightly and take on the dressing.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.36 Lemon Green Beans
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet. Green beans blanched until tender and tossed with olive oil, salt, and lemon juice, finished with lemon zest.
+
+**👍 Tried and liked** — *Cody: "Yummie."*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- 1 lemon
+- 1 lb green beans, trimmed
+- 1½ Tbsp olive oil
+- 1¼ tsp salt
+
+#### B. Cooking Instructions
+
+**1. Zest and juice the lemon.**
+Grate the zest of the lemon into one bowl, then squeeze the whole lemon for its juice into a separate bowl.
+
+**2. Boil the beans until tender. About 10 minutes.**
+Cook the beans in a saucepan of boiling salted water until tender, about 10 minutes. Drain and return them to the pan, off the heat.
+
+**3. Toss and serve.**
+Toss the beans with the olive oil, 1¼ teaspoons salt, and the lemon juice. Serve sprinkled with the lemon zest.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemon — 1
+- 🛒 Green beans — 1 lb, trimmed
+- 🛒 Olive oil — 1½ Tbsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~320 | 20 g | 4 g | 25 g | 10 g |
+| **Per serving** *(serves 4)* | ~80 | 5 g | 1 g | 6 g | 2.5 g |
+
+**What a serving is:** about ¾ cup — a normal side portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.37 Mamma's Spinach
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet. Fresh spinach wilted quickly in olive oil and butter with browned garlic, brightened with lemon and salt.
+
+**❤️ Family favorite** — *Cody: "Favorite."* Cody's own note on the card: **"easy."**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 large bag fresh spinach
+- 3 cloves garlic, chopped
+- ½ lemon
+- 1 tsp butter
+- 1 tsp olive oil
+
+#### B. Cooking Instructions
+
+**1. Heat the oil and butter.**
+Put a very small amount of olive oil and butter in a pan over medium heat.
+
+**2. Brown the garlic.**
+Add the chopped garlic and brown it.
+
+**3. Wilt the spinach. Don't overcook it.**
+Add the entire bag of spinach to the pan. Cook just until wilted — pull it before it overcooks and turns to mush.
+
+**4. Finish with lemon and salt.**
+Squeeze the half lemon over the spinach. **Salt it** — per Cody's own note, the combination of lemon juice and salt is the key to this dish.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh spinach — 1 large bag
+- 🛒 Garlic — 3 cloves
+- 🛒 Lemon — ½
+- 🛒 Butter — 1 tsp
+- 🛒 Olive oil — 1 tsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~150 | 9 g | 6 g | 12 g | 6 g |
+| **Per serving** *(serves 2 to 3)* | ~60 | 3.5 g | 2.5 g | 5 g | 2.5 g |
+
+**What a serving is:** about 1 cup — a spinach bag cooks down substantially, so this is a modest side for 2 to 3.
+
+#### D. Open Questions
+
+- **"Mamma"** isn't identified further on the card — worth confirming whose recipe this is, for the record.
+- **No salt quantity given** — "SALT IT!" is emphatic but not measured; season to taste.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.38 Roasted Veggies
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — a loose formula rather than a fixed recipe. **The card itself calls the amount "wing it,"** and the method is exactly as short as this: whatever vegetables are on hand, olive oil, Tony's, a cookie sheet, and the oven. **A second card ("Asparagus") repeats the same "Veggies for Roasting / wing it" header with no further detail visible in the photo** — read as asparagus being one vegetable this formula works well on, not a separate recipe; see Open Questions.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~20–25 min** · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- Vegetables for roasting — wing it. Asparagus is called out by name on a second card as one that works well this way.
+- Olive oil
+- Tony's Cajun seasoning
+
+#### B. Cooking Instructions
+
+**1. Toss and spread on a cookie sheet.**
+Put the vegetables, a drizzle of olive oil, and Tony's seasoning onto a cookie sheet.
+
+**2. Roast.**
+Put in the oven and roast until tender and lightly browned. *No oven temperature or time is given on the card — 400–425°F for 20–25 minutes is a reasonable default for most roasting vegetables (see [§T39](#t39-maillard-vs-caramelization--gbd) on giving vegetables room on the pan so they brown rather than steam); thinner vegetables like asparagus will finish faster, closer to 12–15 minutes.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Vegetables of choice, for roasting
+- 🛒 Olive oil
+- 🛒 Tony's Cajun seasoning
+
+#### D. Open Questions
+
+- **No specific vegetables, amounts, oven temperature, or time are given** — this is a deliberately loose formula per the card's own "wing it." Times above are a reasonable default, not what the card says.
+- **The "Asparagus" card appears cut off in the photo** — it repeats the same header and "wing it" amount with no visible ingredient or direction detail beyond that. Treated here as a note on this same formula rather than invented into a separate entry; re-photograph if there's more to it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -12886,9 +13157,68 @@ Serve immediately, either plain or topped with one of the source book's sauces:
 > **"The right shrimp" has a workaround:** [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) pulls the fishy edge off shrimp that isn't genuinely fresh. Smell the bag first — if there's no fish smell, skip it.
 
 ### 7.11 Corned Beef and Cabbage
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet. **The card's own title field was never filled in** — it still reads the template default, "TITLE OF DISH" — but the content is unmistakably this cookbook's long-standing Corned Beef and Cabbage placeholder, so it's filled in here rather than left as an unidentified stub. A simple boiled corned beef with root vegetables added in stages so nothing overcooks.
+
+> ⚠️ **There's no cabbage in this method at all — deliberately.** The card's own closing note: *"Corned beef is also served with cabbage, but never boil the cabbage in the beef, as both will become indigestible."* If cabbage is wanted alongside, cook it separately (steamed or boiled on its own) rather than in the corned beef pot.
 
 **❤️ Family favorite** — *Cody: "Awesome."*
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook ~3 hr** *(simmer, mostly unattended)* · **Start to finish ~3 hr 15 min**
+
+#### A. Ingredients
+
+- 3 lb corned beef
+- 4 carrots, whole
+- 2 turnips, quartered
+- 4 small parsnips, quartered
+- 4 small onions
+- 1 clove garlic, chopped fine
+
+#### B. Cooking Instructions
+
+**1. Put the corned beef on to boil, covered, in cold water.**
+Start it in cold water in a large pot, and cover the pot.
+
+**2. Once it's boiling well, drop it to a gentle simmer. About 3 hours, until tender.**
+Cover and let it cook gently — **the meat should be as tender as a spring chicken when done.**
+
+**3. Add the carrots, turnips, and parsnips. 2 hours before serving.**
+Add the whole carrots and the quartered turnips and parsnips to the pot with the beef, and let them boil along with it.
+
+**4. Add the onions and garlic. About 30 minutes before serving.**
+Stir in the small onions and the chopped garlic. Let everything finish cooking together.
+
+**5. Serve.**
+Arrange the vegetables around the rim of a platter with the sliced corned beef. If cabbage is wanted, cook it separately — see the warning above.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher or deli**
+
+- 🏪 Corned beef — 3 lb
+
+**🛒 General grocery**
+
+- 🛒 Carrots — 4
+- 🛒 Turnips — 2
+- 🛒 Parsnips — 4 small
+- 🛒 Onions — 4 small
+- 🛒 Garlic — 1 clove
+- 🛒 Cabbage, if serving it alongside (cooked separately)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,900 | 190 g | 190 g | 90 g | 18 g |
+| **Per serving** *(serves 6)* | ~485 | 32 g | 32 g | 15 g | 3 g |
+
+**What a serving is:** a few slices of corned beef with a portion of the root vegetables, plated together.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
 
 ### 7.12 Pesto Chickpea Pasta
 > *Placeholder — details forthcoming.* Pesto itself is documented at [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) — this entry just needs the chickpea pasta half of the dish. Ingredients · Instructions · Grocery list all to be documented.
@@ -18453,6 +18783,14 @@ On the bottom half of each bun, place a lettuce leaf, followed by a slice of oni
 
 ---
 
+### 7.77 Carne Asada (Flank Steak)
+
+> *Placeholder — cut of meat only, method deliberately not included.* A marinade-and-broil method for flank steak was on the same card as [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) — that salsa is transcribed in full, but **per Cody, the way to cook the meat on that card is not what goes here.** Only the cut — **flank steak** — is recorded as a placeholder, so his own method can be dictated later without an unwanted default already sitting in the entry. Ingredients · Instructions · Grocery list all still to come, from Cody.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -18674,9 +19012,9 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 
 ---
 
-### 8.1 Chili
+### 8.1 Chili Mac
 
-Transcribed from Cody's photographed recipe card — a crock-pot chili built on a beef-or-venison and pork sausage base, served over noodles. Rated **"Yummie"** on the card itself.
+Transcribed from Cody's photographed recipe card — a crock-pot chili built on a beef-or-venison and pork sausage base, served over noodles. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody** — with noodles built right into the ingredient list, this is really a chili mac, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Slow cook 4 hr** *(crock pot)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands)*
 
@@ -18744,7 +19082,7 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 
 **❤️ Family favorite** — *Cody: "We love the soups."*
 
-**This is the only clean sweep in the cookbook.** Every written-up entry in §8 came back ❤️ — [§8.1](#81-chili), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.6](#86-sweet-potato-and-andouille-soup), and [§8.7](#87-italian-sausage--kale-soup) — making this the only section in the cookbook that's a clean sweep.
+**This is the only clean sweep in the cookbook.** Every written-up entry in §8 came back ❤️ — [§8.1 Chili Mac](#81-chili-mac), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.6](#86-sweet-potato-and-andouille-soup), and [§8.7](#87-italian-sausage--kale-soup) — making this the only section in the cookbook that's a clean sweep.
 
 > *Placeholder — category stub.* Cody listed "soups" generally. Each specific soup gets promoted to its own numbered entry here as it's named. *(Note: [§1 Cody's Pho](#1-codys-pho) is complete and has its own top-level section — it stays there.)*
 >
@@ -19162,62 +19500,66 @@ The source recipe points at its own Skillet Cornbread (page 48), which isn't par
 
 ### 8.7 Italian Sausage & Kale Soup
 
-Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A simple, rustic soup — sausage, potatoes, onion, and kale in a bouillon broth, finished with a little cream.
+Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A simple, rustic soup — sausage, potatoes, onion, and kale in a bouillon broth, finished with a generous pour of whipping cream. **Both of this entry's original Open Questions are now resolved** — Cody's own recipe spreadsheet supplied real quantities (the handwritten card had none) and confirmed exactly when the whipping cream goes in.
 
 > **Close cousin to [§8.0](#80-the-hearty-main-course-soup-formula):** protein (sausage), starch (potatoes), vegetable (kale), and broth (bouillon) are the same four slots that formula runs on — this card just predates it and keeps its own simpler method rather than the formula's dredge of seasonings.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min**
 
-**❤️ Family favorite** — *Cody: "One of our favorites."*
+**❤️ Family favorite** — *Cody: "One of our favorites."* / *"Yummie."*
 
 #### A. Ingredients
 
-- Kale
-- Italian sausage
-- Potatoes, cubed
-- Onions, chopped
-- Chicken bouillon
-- Salt and pepper
-- Whipping cream
+- 1 bunch kale
+- 1 pack Italian sausage
+- 8 potatoes, cubed
+- 1 onion, chopped
+- 3 chicken bouillon cubes
+- [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) — *"don't forget the captain mikes," per the card*
+- 1 large box whipping cream, a generous portion
+- 1 loaf French bread, for serving
 
 #### B. Cooking Instructions
 
-**1. Cover the sausage with water and boil.**
+**1. Cook the Italian sausage in the pot.**
 
-**2. Add the cubed potatoes and chopped onion. Cook until tender.**
+**2. Add water and the bouillon, and bring to a boil.**
 
-**3. Add the kale. Cook until tender.**
+**3. Add everything except the kale and whipping cream.**
+The cubed potatoes and chopped onion, plus [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) — **don't forget the Captain Mike's.** Cook until the potatoes and onion are tender.
 
-**4. Add the bouillon, salt, and pepper to taste.**
-*See Open Questions — the card doesn't say when the whipping cream goes in, despite listing it as an ingredient.*
+**4. Add the kale and a generous portion of whipping cream.**
+Stir in the kale and the whipping cream, and cook until the kale is tender.
+
+**5. Serve with French bread.**
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Kale
-- 🛒 Italian sausage
-- 🛒 Potatoes
-- 🛒 Onions
-- 🛒 Chicken bouillon
-- 🛒 Salt and pepper
-- 🛒 Whipping cream
+- 🛒 Kale — 1 bunch
+- 🛒 Italian sausage — 1 pack
+- 🛒 Potatoes — 8
+- 🛒 Onion — 1
+- 🛒 Chicken bouillon — 3 cubes
+- 🛒 Whipping cream — 1 large box
+- 🛒 French bread — 1 loaf
+- Plus [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) — see its own grocery list
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~2,780 | 193 g | 101 g | 154 g | 25 g |
-| **Per serving** *(serves 6)* | ~465 | 32 g | 17 g | 26 g | 4 g |
+| **Whole dish** *(not counting the bread)* | ~3,400 | 220 g | 110 g | 220 g | 22 g |
+| **Per serving** *(serves 6, not counting the bread)* | ~565 | 37 g | 18 g | 37 g | 4 g |
 
-**What a serving is:** a 1½-cup bowl.
-
-**Doubly estimated — the card gives no quantities at all.** This assumes 1 lb Italian sausage, 1½ lb potatoes, one bunch of kale, one onion, and 1 cup of cream. Treat it as a rough shape, not a measurement, until the amounts are pinned down.
+**What a serving is:** a 1½-cup bowl, with French bread on the side.
 
 #### D. Open Questions
 
-- **No quantities given** — the card lists ingredients without amounts and has blank fields for oven temperature, time, and servings. All of the above is written at "to taste" / "as much as you need" scale until Cody can pin down real amounts.
-- **Whipping cream is listed but never used in the method.** Likely stirred in at the end, off the heat, the way cream usually finishes a soup like this — but that's a guess, not what the card says. Confirm before finalizing.
+- ~~No quantities given~~ — **resolved**, per Cody's own recipe spreadsheet.
+- ~~Whipping cream is listed but never used in the method~~ — **resolved**: it goes in with the kale, at the end.
+- **"8 potatoes" isn't sized** — russets, red, or otherwise unspecified; a medium potato is assumed for the Nutrition estimate above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -20266,7 +20608,7 @@ Ladle into heated bowls and garnish with toasted French bread croutons, snipped 
 ---
 
 ### 8.21 Five-Way Chili
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. Distinct from **[§8.1 Chili](#81-chili)** — worth confirming whether this is the layered spaghetti/chili/cheese/onions/beans style once it's written up.
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **This speculation is now resolved, and the answer is no:** when [§8.1 Chili Mac](#81-chili-mac) was transcribed and turned out to be exactly that layered spaghetti/chili/cheese/beans style, Cody had it renamed from a plain "Chili" rather than folded in here — so this Five-Way Chili placeholder is a genuinely separate, still-undocumented dish.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -21031,6 +21373,325 @@ Pour sherry into the serving bowl — not more than 1 tablespoon per large bowl 
 
 ---
 
+### 8.32 Potato Soup
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — **ingredients and quantities only, no cooking directions at all**, the same gap as [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters). ⚠️ **The method below is not Cody's own words** — it's the standard loaded-potato-soup technique (simmer the vegetables in broth, then melt in the cheeses and cream) that this exact ingredient list points to. Flagged plainly rather than presented as dictated.
+
+**Yield:** a big pot — serves about 8
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~30 min** · **Start to finish ~50 min**
+
+#### A. Ingredients
+
+- 1 head cauliflower, cut into small pieces
+- 3 stalks celery, chopped
+- 5 or 6 potatoes, peeled and cubed
+- 1 small onion, chopped
+- Chicken broth, enough to cover *(amount not given — see Open Questions)*
+- Shredded cheddar cheese *(amount not given)*
+- 8 oz sour cream
+- 8 oz Velveeta, cubed
+- 4 oz cream cheese, softened
+- A splash of whipping cream
+- Bacon bits, to taste
+- Tabasco, to taste
+
+#### B. Cooking Instructions
+
+**1. Simmer the vegetables.**
+Combine the cauliflower, celery, potatoes, and onion in a large pot with enough chicken broth to cover. Bring to a boil, then reduce to a simmer and cook until the potatoes and cauliflower are fork-tender, about 20 minutes.
+
+**2. Mash lightly.**
+Mash some of the vegetables right in the pot for body, leaving the rest in pieces — this isn't meant to be fully smooth.
+
+**3. Melt in the cheeses.**
+Stir in the Velveeta, cream cheese, and shredded cheddar over low heat until fully melted and smooth.
+
+**4. Finish with the cream and seasoning.**
+Stir in the sour cream and a splash of whipping cream. Season with Tabasco to taste.
+
+**5. Serve topped with bacon bits.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cauliflower — 1 head
+- 🛒 Celery — 3 stalks
+- 🛒 Potatoes — 5 or 6
+- 🛒 Onion — 1 small
+- 🛒 Chicken broth
+- 🛒 Shredded cheddar cheese
+
+**🏪 Specific store — deli**
+
+- 🏪 Sour cream — 8 oz
+- 🏪 Velveeta — 8 oz
+- 🏪 Cream cheese — 4 oz
+- 🏪 Whipping cream
+- 🏪 Bacon bits
+
+**🛒 General grocery**
+
+- 🛒 Tabasco
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~3,200 | 220 g | 105 g | 195 g | 20 g |
+| **Per serving** *(serves 8)* | ~400 | 28 g | 13 g | 24 g | 2.5 g |
+
+**What a serving is:** about 1½ cups — a hearty bowl.
+
+#### D. Open Questions
+
+- **No cooking directions were on the card at all** — see the flag above.
+- **Broth, cheddar, bacon bits, and Tabasco amounts aren't given** — all estimated to a reasonable working quantity for this size batch.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.33 Mamma's Deer/Beef Stew
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet, kept in Mamma's own words. A stew built for either deer or beef stew meat, thickened the slow way — by letting the potatoes cook down rather than adding a separate thickener.
+
+**👍 Tried and liked** — *Cody: "Yummie."*
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr 30 min** · **Start to finish ~1 hr 50 min**
+
+#### A. Ingredients
+
+- Stew meat — deer or beef
+- Carrots, chopped
+- Onion, chopped
+- Celery, chopped *(named in the directions but not listed as its own line on the card — see Open Questions)*
+- Potatoes, chopped
+- Cabbage, chopped
+- Bouillon, to taste — *"I add a lot, just however strong in flavor you want it"*
+- Diced tomatoes (stewed or canned)
+- Apple cider vinegar *(listed on the card — see Open Questions on when it's added)*
+- Favorite bread, for serving
+- Shredded potato, optional, to thicken
+- Liquid smoke, optional — *"not necessary"*
+
+#### B. Cooking Instructions
+
+**1. Sear the stew meat in a pot.**
+
+**2. Add water, carrots, onion, and celery, all chopped, to the pot with the seared meat.**
+
+**3. Add the potatoes once the carrots, onion, and celery have softened a little.**
+Potatoes cook faster than the others, so they go in after, not with them.
+
+**4. Add the bouillon.**
+Per Mamma's own note: *"I add a lot — just however strong in flavor you want it."*
+
+**5. Add the cabbage when the potatoes are nearly done.**
+
+**6. Add the stewed or canned diced tomatoes.**
+
+**7. Thicken to taste, if you want it thicker.**
+*"Depending on how thick you want it, you can add shredded potato to the stew to thicken it if you want. I usually don't do this — I just let the potatoes cook down some to thicken."*
+
+**8. Liquid smoke is optional.**
+*"You can also add liquid smoke if you want, but not necessary."*
+
+**9. Serve with your favorite bread.**
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Stew meat — deer or beef
+
+**🛒 General grocery**
+
+- 🛒 Carrots
+- 🛒 Onion
+- 🛒 Celery
+- 🛒 Potatoes
+- 🛒 Cabbage
+- 🛒 Bouillon
+- 🛒 Diced tomatoes (canned or stewed)
+- 🛒 Apple cider vinegar
+- 🛒 Liquid smoke, optional
+
+**🏪 Specific store — bakery**
+
+- 🏪 Favorite bread, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** *(using 2 lb stew meat, serves 6)* | ~2,600 | 130 g | 175 g | 165 g | 22 g |
+| **Per serving** *(serves 6)* | ~435 | 22 g | 29 g | 28 g | 3.5 g |
+
+**What a serving is:** a large bowl, about 1½–2 cups, with bread on the side.
+
+#### D. Open Questions
+
+- **No quantities given at all** — everything above is written at the "add to taste" scale the card itself uses. The Nutrition figures assume roughly 2 lb of stew meat and a normal vegetable ratio for a family-size pot.
+- **Celery is named in the directions but not listed as its own ingredient row** on the card — kept in the ingredient list here since the method calls for it.
+- **Apple cider vinegar is listed as an ingredient but never mentioned in the directions** — when and how much to add isn't specified; confirm with Mamma before this is locked in.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.34 Shrimp and Corn Chowder
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet. A slow-cooker shrimp and corn chowder, thickened right in the pot with a flour-dusted toss of potatoes and corn.
+
+**❤️ Family favorite** — *Cody: "Favorite."*
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook 3 to 7 hr** *(2–3 hr on high or 4–6 hr on low, plus 30–60 min more once the shrimp goes in)* · **Start to finish ~3 hr 10 min – 7 hr 10 min**
+
+#### A. Ingredients
+
+- 1 bag frozen corn
+- ½ lb baby potatoes, diced
+- ¼ cup flour
+- 2½ tsp Tony's Cajun seasoning
+- 4 cups broth
+- ½ cup heavy cream
+- 12 oz shrimp
+- Salt and pepper, to taste
+- 1 loaf French bread, for serving
+
+#### B. Cooking Instructions
+
+**1. Dice the potatoes.**
+Wash and dice the baby potatoes into bite-size chunks.
+
+**2. Toss the potatoes and corn with the flour.**
+Add the potatoes and corn to the slow cooker and toss to coat with the flour.
+
+**3. Add the Cajun seasoning and broth.**
+Stir in the 2½ teaspoons Tony's and the broth.
+
+**4. Cover and cook. 2 to 3 hours on high, or 4 to 6 hours on low.**
+
+**5. Switch the slow cooker to high.**
+
+**6. Add the cream and shrimp.**
+
+**7. Cook until the shrimp is done. 30 to 60 minutes.**
+Cook until the shrimp is cooked through and pink.
+
+**8. Season and serve.**
+Add salt and pepper to taste, and serve with French bread.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — seafood counter**
+
+- 🏪 Shrimp — 12 oz
+
+**🛒 General grocery**
+
+- 🛒 Frozen corn — 1 bag
+- 🛒 Baby potatoes — ½ lb
+- 🛒 Flour — ¼ cup
+- 🛒 Tony's Cajun seasoning — 2½ tsp
+- 🛒 Broth — 4 cups
+- 🛒 Heavy cream — ½ cup
+- 🛒 Salt and pepper
+- 🛒 French bread — 1 loaf
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** *(not counting the bread)* | ~1,650 | 60 g | 105 g | 165 g | 12 g |
+| **Per serving** *(serves 4, not counting the bread)* | ~410 | 15 g | 26 g | 41 g | 3 g |
+
+**What a serving is:** a hearty 1½-cup bowl, with French bread on the side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — a big-batch tomato basil soup, sized to make enough to eat now and freeze more for later. The card's own title says it all: **"1 Huge 12 QT Pot!"**
+
+**❤️ Family favorite** — *Cody: "Favorite."*
+
+> **Built to split and freeze.** The base (tomatoes, stock, and basil, pureed) gets divided before the cream and butter go in — one portion frozen plain, the other finished and eaten now. **Freeze the base without dairy in it**; add the cream and butter fresh when you thaw and reheat a portion later.
+
+**Yield:** about 24 to 28 cups total, before splitting between what's eaten now and what's frozen — the full 12-quart batch
+
+**🟢 Easy** · **Prep ~40 min** *(mostly pureeing in batches)* · **Cook ~35 min** *(30 min simmer, plus reheating the portion you're eating)* · **Start to finish ~1 hr 15 min**
+
+> ⚠️ **Puree hot liquid in small batches, with the lid vented.** A full blender jar of hot soup can force the lid off from steam pressure — work in small batches and hold the lid down with a towel, per standard blender safety.
+
+#### A. Ingredients
+
+- 36 medium fresh tomatoes
+- 56 fresh basil leaves, plus extra for garnish
+- 20 cups (five 1-quart containers) good chicken stock, salted
+- 5 cups heavy cream
+- 5 sticks unsalted butter
+- Salt and pepper, to taste
+- 1 loaf Italian bread, or your favorite, for serving
+
+#### B. Cooking Instructions
+
+**1. Simmer the tomatoes and stock. 30 minutes.**
+Combine the tomatoes and chicken stock in a large pot (or the 12-quart pot). Simmer for 30 minutes.
+
+**2. Puree with the basil, in small batches.**
+Puree the tomatoes and stock along with the basil leaves, working in small batches in a blender or food processor.
+
+**3. Set aside what you're freezing — before the dairy goes in.**
+Put the portion you want to freeze into a separate pot **before** adding cream and butter. Freeze that batch plain, without dairy.
+
+**4. Finish the portion you're eating now.**
+Return the remaining soup to the saucepan and add the cream and butter, stirring over low heat until the butter melts in.
+
+**5. Garnish and serve.**
+Garnish with extra basil leaves and serve with your favorite bread.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh tomatoes — 36 medium
+- 🛒 Fresh basil — 56 leaves, plus extra for garnish
+- 🛒 Good chicken stock — 20 cups (five 1-qt containers), salted
+- 🛒 Heavy cream — 5 cups
+- 🛒 Unsalted butter — 5 sticks
+- 🛒 Salt and pepper
+- 🛒 Italian bread — 1 loaf, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole 12 qt batch** *(not counting the bread)* | ~8,600 | 700 g | 90 g | 480 g | 40 g |
+| **Per serving** *(about 24 servings, 1½ cups each)* | ~360 | 29 g | 4 g | 20 g | 1.5 g |
+
+**What a serving is:** about 1½ cups — count on roughly half the batch for eating fresh and half for the freezer, so a single sitting is closer to 10–12 servings' worth.
+
+#### D. Open Questions
+
+- **The directions say "milk and butter," but the ingredient list only has heavy cream, not milk** — read here as the same thing, since no separate milk is listed; confirm if a real splash of milk belongs alongside the cream.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.36 Chili Dogs
+
+> *Placeholder — details forthcoming.* Per Cody, [§8.1 Chili Mac](#81-chili-mac) *"goes great for chili mac and chili dogs"* — this entry is for the chili-dog use specifically: hot dogs, buns, and §8.1's chili spooned over the top, plus whatever toppings (onion, cheese, mustard) round it out. Ingredients · Instructions · Grocery list all still to come.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 9. Snacks & Light Meals
 
 ### 9.1 Almond Flour Chips and Salsa
@@ -21181,8 +21842,8 @@ Shape the seasoned ground beef into thin, even strips on the dehydrator trays �
 
 #### D. Open Questions
 
-- **No temperature given for the final 1.5–1.75 hr timing.** The two earlier attempts (160° and 150°) are both crossed out as not-it, but no number is written next to the setting that worked — confirm the actual dehydrator temp before this gets used again.
-- **Forming method isn't specified on the card** — jerky gun, hand-pressed, or rolled and cut. Worth pinning down since it affects how even the strips come out and possibly the dehydrate time.
+- **No temperature given for the final 1.5–1.75 hr timing.** The two earlier attempts (160° and 150°) are both crossed out as not-it, but no number is written next to the setting that worked — confirm the actual dehydrator temp before this gets used again. [§9.29 Deer Jerky](#929-deer-jerky), the same seasoning system on venison, has the identical gap.
+- ~~Forming method isn't specified on the card~~ — **resolved via [§9.29 Deer Jerky](#929-deer-jerky)**, the same seasoning system on ground deer, whose card reads "squeeze on dehydrator" — a jerky gun or extruder.
 - **Whether the seasoned mixture rests before forming** — some ground jerky recipes sit mixed and covered in the fridge for a few hours before shaping, to let the cure and seasoning fully distribute. Not noted on the card; confirm if that's part of the actual process.
 
 [↑ Table of Contents](#table-of-contents)
@@ -21257,7 +21918,7 @@ Stop adding once it's the texture you want — there's no fixed amount, and it'l
 
 ### 9.8 Jalapeño Poppers
 
-Transcribed from a family recipe note — sausage, cream cheese, and Parmesan stuffed jalapeño halves, signed off *"Love, Mom"* and addressed to Vickie, kept as written.
+Transcribed from a family recipe note — sausage, cream cheese, and Parmesan stuffed jalapeño halves, signed off *"Love, Mom"* and addressed to Vickie, kept as written. **Cody's own recipe spreadsheet confirms every quantity and adds one real detail the family note left generic: it's specifically sage sausage**, not just any bulk pork sausage — updated below.
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~30 min** *(10 min browning the sausage, 15–20 min baking)* · **Start to finish ~50 min**
 
@@ -21265,15 +21926,15 @@ Transcribed from a family recipe note — sausage, cream cheese, and Parmesan st
 
 #### A. Ingredients
 
-- 1 lb pork sausage
+- 1 lb sage sausage (bulk)
 - 1 package (8 oz) cream cheese, softened
 - 1 cup (4 oz) shredded Parmesan cheese
-- 22 large jalapeño peppers, halved lengthwise *(seed and devein depending on how hot you want them)*
+- 22 large jalapeño peppers, halved lengthwise *(about 20–22, per Cody's spreadsheet — seed and devein depending on how hot you want them)*
 
 #### B. Cooking Instructions
 
 **1. Brown the sausage and drain well.**
-Cook the sausage in a skillet until browned through, then drain thoroughly — blot with paper towels to soak up the extra grease. A greasy filling won't hold together in the pepper halves.
+Cook the sage sausage in a skillet until browned through, then drain thoroughly — blot with paper towels to soak up the extra grease. A greasy filling won't hold together in the pepper halves.
 
 **2. Halve and seed the peppers.**
 Slice the jalapeños in half lengthwise. Seed and devein to taste — leave more in for heat, strip it out for a milder popper.
@@ -21293,7 +21954,7 @@ Place on an ungreased baking sheet and bake uncovered until the filling is light
 
 **🛒 General grocery**
 
-- 🛒 Pork sausage (bulk) — 1 lb
+- 🛒 Sage sausage (bulk) — 1 lb
 - 🛒 Cream cheese — 1 (8 oz) package, softened
 - 🛒 Parmesan cheese, shredded — 1 cup (4 oz)
 - 🛒 Jalapeño peppers — 22 large
@@ -22640,6 +23301,205 @@ Serve the oysters hot off the grill, with the toasted bread alongside to soak up
 - **No cooking directions were on the card at all** — see the flag above. The method here is the standard char-grilled oyster technique, not Cody's own words; confirm or correct it against how he actually makes these.
 - **"4 box" of butter is a striking quantity** (4 lb, for 50 oysters) — transcribed as literally listed rather than second-guessed, but worth confirming it isn't a shorthand for "4 sticks" (1 box) instead.
 - **Garlic and cheese amounts beyond "1 pack"/"1 block"** aren't broken down further — proportions in Step 2 are a reasonable default, not a dictated ratio.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.29 Deer Jerky
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as [§9.27](#927-reuben)/[§9.28](#928-char-grilled-oysters). **The same seasoning system as [§9.6 Beef Jerky](#96-beef-jerky), applied to ground deer instead of ground beef** — nearly every quantity matches exactly, confirming §9.6's blend is a real formula rather than a one-off. Two differences, both kept as written rather than smoothed to match: **more black pepper here** (1⅛ tsp vs. §9.6's ⅛ tsp), and this card calls the chile ingredient "red pepper flakes" where §9.6's card specifies "cracked red pepper, not cayenne" — likely the same thing worded differently, not a real substitution.
+
+> **This card also answers one of §9.6's own Open Questions.** Its directions read *"Combine ingrediants. Squeeze on dehydrator."* — "squeeze" confirms a jerky gun or extruder is the forming method, which §9.6 had flagged as unspecified. Cross-linked back into that entry.
+
+**🟡 Medium** · **Prep ~20 min** · **Cook none** · **Slow cook ~1 hr 45 min** *(dehydrator, one tray swap)* · **Start to finish ~2 hr 5 min**
+
+#### A. Ingredients
+
+*Per 1 lb ground deer*
+
+- 1 lb ground deer
+- 1 Tbsp chili powder
+- ¼ tsp allspice
+- 1⅛ tsp black pepper *(notably more than §9.6's ⅛ tsp — kept as the card gives it)*
+- ¼ tsp red pepper flakes
+- ⅛ tsp garlic powder
+- ⅛ tsp onion powder
+- 1 tsp salt
+- 1 tsp Accent
+- ¼ tsp sage
+- ⅛ tsp cumin
+- 1 cap liquid smoke
+- A splash of Worcestershire sauce
+
+#### B. Cooking Instructions
+
+**1. Combine the ingredients.**
+Mix the chili powder, allspice, black pepper, red pepper flakes, garlic powder, onion powder, salt, Accent, sage, and cumin, then work the blend, liquid smoke, and Worcestershire directly into the ground deer — mixed in like a meatloaf, the same as [§9.6 Beef Jerky](#96-beef-jerky).
+
+**2. Squeeze onto the dehydrator trays.**
+Extrude the seasoned deer into thin, even strips with a jerky gun. Swap the trays partway through so one batch doesn't dry faster than another.
+
+**3. Dehydrate. 1.5 to 1.75 hours.**
+*No temperature is written on this card either — see [§9.6's](#96-beef-jerky) own Open Question on the same gap.*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher, or your own processed deer**
+
+- 🏪 Ground deer — 1 lb per batch
+
+**🛒 General grocery**
+
+- 🛒 Chili powder, allspice, black pepper, red pepper flakes, garlic powder, onion powder, salt, sage, cumin
+- 🛒 Accent seasoning
+- 🛒 Liquid smoke
+- 🛒 Worcestershire sauce
+
+**Not a grocery item, but useful:** a jerky gun, per this card's own "squeeze on dehydrator" instruction. A dehydrator with swappable trays.
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~640 | 15 g | 112 g | 7 g | 1 g |
+| **Per serving** *(1 lb of meat makes about 6 oz of jerky — roughly 6 servings)* | ~105 | 2.5 g | 19 g | 1 g | 0 g |
+
+**What a serving is:** about 1 oz — three or four strips, a small handful. **Venison runs leaner than even 95% lean ground beef**, so this comes in a little lower in fat and calories than [§9.6](#96-beef-jerky) for the same seasoning.
+
+#### D. Open Questions
+
+- **No temperature given**, the same gap as [§9.6 Beef Jerky](#96-beef-jerky) — confirm before this gets used again.
+- **The black pepper quantity jump (1⅛ tsp vs. §9.6's ⅛ tsp)** is transcribed as written rather than assumed to be a typo, but worth double-checking against the actual card.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.30 Muffelatta Poboy
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet, kept in his own words. **A different build from [§9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich)** — that one is the printed-cookbook version on a round Italian loaf with a homemade Olive Salad; this is Cody's own po'boy-style spin on French bread, using store-bought Boscoli olive salad and his own choice of deli meats.
+
+**❤️** *(no rating dropdown selected, but Cody's own closing line speaks for itself: "You've just created pure heaven.")*
+
+> **Per Cody:** *"1/2 lb Genoa Salami — Oldani is the best. 1/2 lb Capicola (this is my spin, you can use regular ham.) 1/2 lb Mortadella — I use San Danielle. If in doubt, use hard salami from the deli..."*
+
+**🟢 Easy** · **Prep ~15 min** *(plus using an olive salad already at least a week old)* · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ½ loaf Reising's French bread
+- ½ lb Genoa salami, Oldani brand preferred
+- ½ lb capicola *(Cody's own spin on the classic — regular ham or hard salami from the deli both work as substitutes)*
+- ½ lb mortadella, San Daniele preferred
+- ¼ lb provolone or mozzarella, sliced
+- ½ jar Boscoli olive salad, at least a week old
+
+#### B. Cooking Instructions
+
+**1. Cut the bread.**
+Split the French bread.
+
+**2. Brush both sides with olive salad oil.**
+Use the oil from your week-old Boscoli olive salad — go a little heavier on the bottom half.
+
+**3. Layer the meats and cheese.**
+On the bottom half of the bread: half of the Oldani salami, then the mortadella, then the mozzarella, then the capicola, the provolone, and the remaining Oldani.
+
+**4. Top with the olive salad.**
+Spoon the olive salad over the top layer.
+
+**5. Close, press, and quarter.**
+Put the top half of the bread on, press it down without smashing the loaf, and quarter it. *"You've just created pure heaven."*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — deli**
+
+- 🏪 Genoa salami — ½ lb, Oldani preferred
+- 🏪 Capicola — ½ lb (or regular ham, or hard salami as a substitute)
+- 🏪 Mortadella — ½ lb, San Daniele preferred
+- 🏪 Provolone or mozzarella, sliced — ¼ lb
+
+**🛒 General grocery**
+
+- 🛒 Reising's French bread — ½ loaf
+- 🛒 Boscoli olive salad — ½ jar, at least a week old
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,900 | 200 g | 165 g | 110 g | 8 g |
+| **Per serving** *(serves 2 to 4, per Cody's own note)* | ~725–1,450 | 50–100 g | 41–83 g | 28–55 g | 2–4 g |
+
+**What a serving is, per Cody's own card:** *"Serves: 4 light eaters, 2 hungry hangovers, or one bad-to-the-bone eating machine."*
+
+#### D. Open Questions
+
+- **No exact meat/cheese quantities beyond the shopping-list amounts** — the layering order is Cody's own, but exact proportions per quarter aren't broken out further.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.31 Quesadillas
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — **ingredients only, no cooking directions at all**, the same gap as [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters)/[§8.32 Potato Soup](#832-potato-soup). ⚠️ **The method below is not Cody's own words** — it's the standard quesadilla technique this ingredient list points to. **Per Cody, this one's specifically for the kids to make on their own in a pinch** — simple enough for a microwave or a dry skillet with light supervision.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 1 bag tortillas
+- 1 bag shredded mozzarella cheese
+- 2 cans black beans, drained and rinsed
+- Sour cream, for serving
+- 1 jar salsa
+- 1 bag tortilla chips, on the side
+- 2 avocados
+
+#### B. Cooking Instructions
+
+**1. Fill and fold.**
+Sprinkle shredded mozzarella and a spoonful of black beans over half of a tortilla, then fold it in half.
+
+**2. Cook until the cheese melts.**
+In a dry skillet over medium heat, cook a couple of minutes per side until golden and the cheese has melted — or microwave on a plate about 30–45 seconds if that's easier for a kid to manage alone.
+
+**3. Serve with the sides.**
+Cut into wedges and serve with sour cream, salsa, sliced avocado, and tortilla chips.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Tortillas — 1 bag
+- 🛒 Black beans — 2 cans
+- 🛒 Salsa — 1 jar
+- 🛒 Tortilla chips — 1 bag
+
+**🏪 Specific store — deli**
+
+- 🏪 Shredded mozzarella cheese — 1 bag
+- 🏪 Sour cream
+
+**🛒 General grocery**
+
+- 🛒 Avocados — 2
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Per quesadilla** *(1 folded tortilla, cheese and beans, not counting sides)* | ~350 | 16 g | 15 g | 38 g | 6 g |
+
+**What a serving is:** one folded quesadilla, plus whatever sides get piled on.
+
+#### D. Open Questions
+
+- **No cooking directions were on the card at all** — see the flag above.
+- **No amounts given for cheese or beans per quesadilla** — a normal handful of each is assumed.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -25308,16 +26168,19 @@ A new top-level section — numbered 16 and appended at the end, the same reason
 
 ### 16.1 Hot Apple Cider
 
-Transcribed from a handwritten recipe card — a hot spiced cranberry-pineapple punch, mulled with whole cloves, allspice, and cinnamon sticks. **The card's own fix for not owning a percolator is kept as the method**: a big pot on the stove instead, brought to a boil and then simmered.
+Transcribed from a handwritten recipe card — a hot spiced cranberry-pineapple-apple cider punch, mulled with whole cloves, allspice, and cinnamon sticks. **The card's own fix for not owning a percolator is kept as the method**: a big pot on the stove instead, brought to a boil and then simmered.
 
 > *"This is supposed to be made in a percolator, but I don't have one; so I put in a big pot and get it up to boiling point & then turn down & simmer 30–45 minutes. Strain. (Do not leave spices in after it is through cooking or it will become bitter.)"*
 
-**Yield:** about 3 quarts (12 cups)
+> **📌 Corrected — the apple cider itself was missing from this entry.** A later, cleaner copy of this same card (Cody's own recipe spreadsheet) confirmed every other ingredient matched exactly, but also listed **1 gallon of apple cider**, which the original handwritten-card transcription had missed entirely — a real gap for a recipe named "Hot Apple Cider." Added below, along with a brand call Cody gave specifically: **Musselman's Fresh Pressed** — *"it should be that one because it will balance with the sweetness"* of the cranberry, pineapple, and brown sugar. Yield and Nutrition are both recalculated for the added gallon.
+
+**Yield:** about 7 quarts (28 cups)
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~40 min** *(bring to a boil, then simmer 30–45 min, mostly unattended)* · **Start to finish ~50 min**
 
 #### A. Ingredients
 
+- 1 gallon apple cider, **Musselman's Fresh Pressed** specifically
 - 32 oz cranberry juice
 - 46 oz pineapple juice
 - 3 cups water
@@ -25330,7 +26193,7 @@ Transcribed from a handwritten recipe card — a hot spiced cranberry-pineapple 
 #### B. Cooking Instructions
 
 **1. Combine everything in a big pot.**
-The card calls for a percolator, but a big pot on the stove works the same way — combine the cranberry juice, pineapple juice, water, cloves, allspice, cinnamon sticks, salt, and brown sugar.
+The card calls for a percolator, but a big pot on the stove works the same way — combine the apple cider, cranberry juice, pineapple juice, water, cloves, allspice, cinnamon sticks, salt, and brown sugar.
 
 **2. Bring to a boil, then turn down and simmer. 30–45 minutes.**
 Get it up to a boil, then reduce the heat and let it simmer, mostly unattended.
@@ -25342,6 +26205,7 @@ Strain out the spices as soon as it's done cooking. **Don't leave the spices sit
 
 **🛒 General grocery**
 
+- 🛒 Apple cider — 1 gallon, Musselman's Fresh Pressed
 - 🛒 Cranberry juice — 32 oz
 - 🛒 Pineapple juice — 46 oz
 - 🛒 Whole cloves — 2 Tbsp
@@ -25354,10 +26218,10 @@ Strain out the spices as soon as it's done cooking. **Don't leave the spices sit
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about 12 cups)* | ~2,080 | 0 g | 2 g | 524 g | 1 g |
-| **Per serving** *(12 servings, 1 cup each)* | ~175 | 0 g | <1 g | 44 g | <1 g |
+| **Whole batch** *(about 28 cups)* | ~4,000 | 0 g | 5 g | 990 g | 9 g |
+| **Per serving** *(28 servings, 1 cup each)* | ~140 | 0 g | <1 g | 35 g | <1 g |
 
-**What a serving is:** 1 cup (8 oz) — a normal warm mug. This is a sweet punch, not a light drink — the brown sugar and both juices are concentrated sources of sugar, so the carb count is real.
+**What a serving is:** 1 cup (8 oz) — a normal warm mug. This is a sweet punch, not a light drink — the brown sugar and all three juices are concentrated sources of sugar, so the carb count is real, even though it reads a bit lower per cup than before now that the gallon of cider spreads the same sweetness across a much bigger batch.
 
 [↑ Table of Contents](#table-of-contents)
 

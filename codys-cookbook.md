@@ -344,6 +344,7 @@ Click any recipe to jump straight to it.
 - [9.25 Crabmeat Imperial](#925-crabmeat-imperial) ✅
 - [9.26 Mushroom Florentine](#926-mushroom-florentine) ✅
 - [9.27 Reuben](#927-reuben) ✅
+- [9.28 Char-Grilled Oysters](#928-char-grilled-oysters) ✅ *(⚠️ no directions on the source card — standard method used, see Open Questions)*
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -411,6 +412,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-08-19 | Added **[§9.28 Char-Grilled Oysters](#928-char-grilled-oysters)** — from the same Cody spreadsheet format as [§9.27 Reuben](#927-reuben), but **this card had ingredients and quantities only, no cooking directions at all.** Rather than leave it a bare grocery list or silently invent a method and present it as Cody's own, the entry is written up using the standard, well-known char-grilled oyster technique (garlic-cheese butter, breadcrumbs, grilled hot until bubbling and charred) that this exact ingredient list points to — Drago's-style, a Gulf Coast classic — with a prominent ⚠️ flag at the top of the entry and in Open Questions saying so plainly, distinct from every other recipe in this cookbook where the method is either transcribed or dictated. Rated 🟡 Medium rather than Easy, since butter dripping onto open flame can flare up and the oysters overcook fast if you step away. Also flagged: "half a sack" is noted as roughly 50 oysters (a sack typically holds about 100), and the card's "4 box" of butter (4 lb) is transcribed as literally listed rather than second-guessed, though it's called out as a strikingly large quantity worth confirming. |
 | 2026-08-19 | Added **[§9.27 Reuben](#927-reuben)** — transcribed from a photo of Cody's own recipe/grocery-planning spreadsheet, no cookbook or author credited on the card. A griddled deli-style Reuben: rye, Thousand Island, Swiss or Gruyère, sauerkraut, and a full pound of pastrami or corned beef, pressed and pan-crisped until golden and melted. **Written up as one large sandwich, exactly as the directions describe** ("one piece of bread... remaining piece of bread" — only two slices, one sandwich), rather than assumed to serve more; a note suggests splitting it or halving the meat across two sandwiches for a more typical portion. **One Open Question flagged rather than guessed past:** the cheese amount is listed only as "a package," so the ingredient list carries a working 4–6 slice estimate. |
 | 2026-08-19 | **Meathead, pages 42–57: seven more technique entries (T39–T45), and the standing T32 override is finally applied with real numbers instead of a placeholder.** [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd) separates the two GBD reactions properly and explains why a 12-hour 225°F brisket bark and a 15-minute hot-grill sear taste different despite both being fully browned, plus the practical browning checklist (dry surface, right temperature, frequent turning, room to breathe). [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) gives the actual trim target (¼–⅛" on one side) and busts the idea that fat bastes the meat from outside in — it doesn't cross the muscle/fat connective-tissue barrier at all. [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) is the fix for [§T39](#t39-maillard-vs-caramelization--gbd)'s own tradeoff, built on [§T34's two-zone setup](#t34-two-zone-fire-setup), plus its chicken-breast and prime-rib applications. [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time) names thickness (not weight) as the real driver. [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) is the cooler-as-holding-oven trick, with the note that holding brisket hot keeps tenderizing it. **[§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) is the big one** — the 7D pasteurization standard, why whole-muscle meat is safer rare than ground meat ever can be, three myths (pink pork, clear chicken juices, "no longer pink" as a safety test), and the full target-temperature table. **This is also where the T32 override stopped being a placeholder**: §T32's Internal Temperatures table is now reconciled against it — 130–140°F red meat and 160°F chicken/ground-beef floors are *confirmed*, but **pulled pork/ribs/brisket is corrected from ~195°F to 203°F**, with the old figure struck through rather than deleted. [§6.2 Pulled Pork](#62-pulled-pork) gets a matching callout: its printed 195°F stays as transcribed, flagged as conservative against Meathead's 203°F rather than silently changed. [§T45 Bones](#t45-bones--do-they-actually-add-flavor) closes the set — bones add real flavor in wet cooking (braising) but essentially none in dry cooking (grilling/smoking), and grill marks are busted as "superficial branding" covering only about a third of a steak's surface. §13's own note is updated to reflect that the override is now live, not just recorded. All seven added to the Techniques quick index as T39–T45. |
 | 2026-08-19 | **Meathead's "Software" chapter added as three more technique entries — condensed at Cody's own invitation, unlike T33–T35.** [§T36 What Meat Actually Is](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) covers muscle composition, why collagen (melts to gelatin) and elastin (never breaks down) behave so differently, marbling's 130–140°F melt point, myowater vs. the blood myth, slow-twitch/fast-twitch as the reason dark meat is dark, buying-meat tips (know your butcher, avoid "purge" and "enhanced" labels), real tenderizing methods, and the room-temperature-meat myth-bust (a 1½" steak needs 2+ hours to actually reach room temp at the center — straight from the fridge is fine and pulls more smoke besides). **[§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) is the one Cody flagged as most important** — cross-linked with [§T29 How to Salt](#t29-how-to-salt) rather than replacing it, since the two agree where they overlap and this one adds Meathead's actual numbers: brined chicken lost only 7% weight cooking vs. 18% untreated; salt barely travels ⅔" into meat after a full 24-hour soak, but heat pushes it in far faster than soaking time ever does; and a dry-vs-wet brine comparison table. **Records "the Roberts Way" as Cody's own standing practice** — dry brine, heavy, every time — with three notes on going heavier than Meathead's own ½ tsp/lb baseline: big cuts hide a lot of salt (only ⅔" penetration after a day means most of a brisket's interior stays unsalted), the real ceiling is toughening the proteins rather than oversalting, and a thick fat cap blocks salt almost completely. Also carries the **double-salt jeopardy** warning — leave salt out of the rub when brining heavy, or the two stack. [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) is the shortest of the three: salt is the one thing small enough to actually penetrate meat, so rubs, injections, and marinades are all exterior treatments by comparison, capped at about ⅛ inch — with myth-busts for rub-massaging, plastic-wrap "rest for penetration," and marinades in general (proven with green food coloring and a steak with a hole carved in it and filled with oil that never soaked in). All three added to the Techniques quick index as T36–T38. |
@@ -833,6 +835,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 30 min | — | 1 hr 10 min *(includes a 30 min batter chill)* |
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
+| [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) | 🟡 | 45 min | 25 min | — | 1 hr 10 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -22563,6 +22566,80 @@ Heat a heavy-bottomed frying pan over medium heat. Place the sandwich in the pan
 #### D. Open Questions
 
 - **Cheese count isn't given** — the source lists "a package," not a slice count. 4 to 6 slices is a working estimate for a sandwich built from two full layers; adjust to what the package actually holds.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.28 Char-Grilled Oysters
+
+Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as [§9.27 Reuben](#927-reuben) — **but this card is ingredients and quantities only; no cooking directions were written on it at all.** ⚠️ **The method below is not Cody's own dictated steps** — it's the standard, well-known char-grilled oyster preparation (a Gulf Coast classic popularized by Drago's in New Orleans) that this exact ingredient list points to: oysters topped with a garlic-cheese butter and breadcrumbs, grilled hot until bubbling and charred at the edges, served with bread to mop up the butter. Flagged plainly rather than presented as if it came from Cody.
+
+**Yield:** about 50 oysters *(half a sack — a sack typically holds about 100)* — serves 4 to 6 as a hearty appetizer
+
+**🟡 Medium** · **Prep ~45 min** *(mostly shucking)* · **Cook ~25 min** *(in batches on the grill)* · **Start to finish ~1 hr 10 min**
+
+> ⚠️ **Why Medium, not Easy:** two real failure points. Butter dripping through the grate onto open flame can flare up fast, and oysters this small go from perfectly bubbling to dried-out and rubbery in the time it takes to grill the next batch — stay at the grill rather than stepping away.
+
+#### A. Ingredients
+
+- Oysters, in the shell — half a sack (about 50)
+- 1 block fresh Romano cheese, grated *(not the off-brand pre-grated kind — Cody's own note)*
+- 1 pack minced garlic
+- 4 boxes butter *(1 lb each — 4 lb total)*
+- 1 box bread crumbs
+- (Optional) 1 loaf fresh French bread, for serving
+
+#### B. Cooking Instructions
+
+**1. Shuck the oysters.**
+Shuck each oyster, discarding the top shell and loosening the meat from the bottom shell without spilling the liquor. Arrange the shucked oysters on their half shells on a sheet pan or directly on the grill grate.
+
+**2. Make the garlic-cheese butter.**
+Melt the butter and stir in the minced garlic. Season to taste.
+
+**3. Set up the grill and preheat to high.**
+
+**4. Top and grill the oysters, in batches. About 4 to 5 minutes each.**
+Spoon a generous amount of the garlic butter over each oyster, then top with grated Romano and a sprinkle of bread crumbs. Grill until the butter is bubbling, the cheese has melted, and the edges of the oysters are lightly charred, 4 to 5 minutes. Watch closely — don't walk away, and pull them the moment they're bubbling and charred, not later.
+
+**5. Toast the bread, if using.**
+Split and grill or toast the French bread while the oysters cook.
+
+**6. Serve at once.**
+Serve the oysters hot off the grill, with the toasted bread alongside to soak up any extra garlic butter.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market or seafood counter**
+
+- 🏪 Oysters, in the shell — half a sack (about 50)
+
+**🏪 Specific store — deli**
+
+- 🏪 Fresh Romano cheese — 1 block, not the pre-grated off-brand kind
+
+**🛒 General grocery**
+
+- 🛒 Minced garlic — 1 pack
+- 🛒 Butter — 4 lb
+- 🛒 Bread crumbs — 1 box
+- 🛒 Fresh French bread — 1 loaf, optional, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(50 oysters, butter as topped rather than fully consumed)* | ~3,400 | 300 g | 90 g | 50 g | 2 g |
+| **Per serving** *(serves 5, about 10 oysters each)* | ~680 | 60 g | 18 g | 10 g | <1 g |
+
+**What a serving is:** about 10 char-grilled oysters, a hearty appetizer portion. Not all of the garlic butter poured over the oysters ends up eaten — a share stays in the shells or drips through the grate — so the real total is likely somewhat lower than the full 4 lb of butter implies.
+
+#### D. Open Questions
+
+- **No cooking directions were on the card at all** — see the flag above. The method here is the standard char-grilled oyster technique, not Cody's own words; confirm or correct it against how he actually makes these.
+- **"4 box" of butter is a striking quantity** (4 lb, for 50 oysters) — transcribed as literally listed rather than second-guessed, but worth confirming it isn't a shorthand for "4 sticks" (1 box) instead.
+- **Garlic and cheese amounts beyond "1 pack"/"1 block"** aren't broken down further — proportions in Step 2 are a reasonable default, not a dictated ratio.
 
 [↑ Table of Contents](#table-of-contents)
 

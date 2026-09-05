@@ -328,6 +328,14 @@ Click any recipe to jump straight to it.
 - [7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) ✅ *(Champions of Sous Vide)*
 - [7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) ✅ *(Champions of Sous Vide)*
 - [7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) ✅ *(Champions of Sous Vide; ⚠️ uses transglutaminase — see entry)*
+- [7.87 Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) ✅ *(Meathead)*
+- [7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) ✅ *(Meathead)*
+- [7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) ✅ *(Meathead)*
+- [7.90 Smoked Salmon Quiche](#790-smoked-salmon-quiche) ✅ *(Meathead)*
+- [7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) ✅ *(Meathead)*
+- [7.92 Butter-Poached Fillets](#792-butter-poached-fillets) ✅ *(Meathead)*
+- [7.93 Baja Fish Tacos](#793-baja-fish-tacos) ✅ *(Meathead)*
+- [7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster) ✅ *(Meathead)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -473,6 +481,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Seafood chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — eight full recipes and four condensed technique entries, plus two recipes and part of one technique entry flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Eight full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the sous-vide batch's [§7.86](#786-carpaccio-of-sous-vide-octopus): [§7.87](#787-smoked-salmon-mousse-canapés) Smoked Salmon Mousse Canapés, [§7.88](#788-smoked-trout-florida-mullet-style) Smoked Trout (Florida Mullet Style), [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) Chef Bonner's Fish Fillets with Brioni Broth (credited to Chef Mychael Bonner, The Reel Club, Oak Brook, IL), [§7.90](#790-smoked-salmon-quiche) Smoked Salmon Quiche, [§7.91](#791-smoked-halibut-salad) Smoked Halibut Salad, [§7.92](#792-butter-poached-fillets) Butter-Poached Fillets, [§7.93](#793-baja-fish-tacos) Baja Fish Tacos, and [§7.94](#794-gregs-grilled-lobster) Greg's Grilled Lobster (Professor Blonder's method). **Rated mostly 🟢 Easy** — smoking and butter-poaching are forgiving methods, and the Baja Tacos recipe explicitly says not to worry if the fish breaks apart — **except [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) and [§7.94](#794-gregs-grilled-lobster), both 🟡 Medium** for a genuinely narrow doneness window with no gentle margin: a precise 120°F skin-down sear that can't be flipped without breaking the fillet apart, and a 6–10 minute max-heat window past which lobster meat toughens fast. **Four new condensed technique entries, [§T54](#t54-buying-and-cooking-fish)–[§T57](#t57-storing-a-live-lobster)**, added to the Techniques quick index: buying and cooking fish (freshness signals, ice contact, why fish takes salt and marinade faster than meat), how to fillet a whole fish (plus a fish-oils-in-the-smoker maintenance note), shrimp sizing/deveining/brining, and storing a live lobster before cooking. **No extra salt added anywhere in this batch** — per Cody's own clarification on the prior Meathead rub/sauce correction two entries below (the heavier-salt preference is scoped to actual brining, not to rubs, seasonings, or marinades), and none of this batch's eight recipes is itself a standalone brine, so every quantity is transcribed exactly as printed. **Three items skipped rather than added as placeholders or guessed past a cut-off page:** **Joe's Fireproof Grilled Shrimp** (title, headnote, and MAKES/TAKES line legible on book p. 343, but the ingredient list and numbered steps would have continued onto book p. 344, which wasn't in the photographed set); **Championship Bacon-Wrapped Stuffed Shrimp** (referenced by name mid-page but its own title, ingredients, and steps would fall on book pp. 344–345, entirely absent from the scan); and **an unidentified recipe glimpsed at the edge of one photo** (a red title box reading only "S…S…" and a drop-capped opening paragraph, likely book p. 327 — not on the expected list for this batch and too fragmentary to name). Because of that same gap, **[§T57](#t57-storing-a-live-lobster) is a partial condensation** — only the live-lobster storage tip (book p. 346) survived; the fuller "Lobster: Choosing and Preparing" section (cold-water vs. warm-water lobster, live vs. previously frozen, lobster anatomy) sat on the same missing book pp. 344–345. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's full dishes landed in §7, on the same "organize by what the dish is, not which book it's from" reasoning as the rubs/sauces batch landing in §4. None of the eight recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Follow-up on the same-day salt correction below — refined the salt-free-rub warning and confirmed it's complete.** Per Cody: *"No salt rubs means no salt, it also means to remind them to make sure that you have salted it the night before and a dry brine or some other way."* The warning's wording on all eight salt-free rubs is now **"⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland,"** replacing the earlier "brine the meat first" phrasing that didn't call out the timing Cody actually wants emphasized. **Full audit of every rub recipe in §4** (not just this batch — §4.1 through §4.99 checked individually) to confirm no *other* salt-free rub was missing the warning: every rub predating this session's Meathead batch (Darcy's Steak Rub, Basic Barbecue Rub, Cajun Rub, Chinese Five-Spice Rub, Java Rub, Mucho Macho Pepper Rub, Mediterranean Herb Rub, Texas Chili Rub, Sesame Seasoning, Basic Fish Cure) already carries salt directly in its ingredient list, so none needed the callout. [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) also carries salt, via onion salt and garlic salt. [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought)/[§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning) are store-bought reference entries with no ingredient list, both explicitly salt-forward products, so out of scope. [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) is a single-ingredient aromatic spice component rather than a rub applied as the meat's primary seasoning, so it's treated the same way as buying plain garlic powder and left without the callout. **The eight rubs carrying the warning remain exactly [§4.106](#4106-big-bad-beef-rub), [§4.107](#4107-mrs-olearys-cow-crust), [§4.108](#4108-meatheads-memphis-dust), [§4.109](#4109-simon--garfunkel-rub), [§4.110](#4110-dollys-lamb-rub), [§4.111](#4111-mariettas-fish-rub), [§4.112](#4112-cajun-seasoning), and [§4.114](#4114-cowboy-java-rub)** — no new ones found. |
 | 2026-09-05 | **Correction to the same-day Meathead batch below — the salt increase landed on the wrong recipes.** Cody's actual instruction was that *brining* needs heavier salt than the book recommends; the earlier pass this morning misread that as a blanket instruction and bumped salt (or added it where the book had none) across all 27 of the batch's rubs and sauces, [§4.105](#4105-dalmatian-rub)–[§4.116](#4116-butcher-block-seasoning) and [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), each carrying a "Cody's Note" claiming the increase was a standing house preference. **Per Cody's explicit correction — *"I'm not asking you to salt the meathead rubs, I'm just saying the brining process needs heavier salt... this is in regards to meathead rubs only"*** — all 27 are reverted to the book's printed salt amounts: back to the original quantity where the book printed some salt ([§4.105](#4105-dalmatian-rub), [§4.113](#4113-citrus-salt-and-pepper), [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce), [§4.125](#4125-chocolate-chile-barbecue-sauce)–[§4.128](#4128-burger-glop), [§4.130](#4130-chimichurri-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)); the added salt line removed entirely where the book printed none ([§4.106](#4106-big-bad-beef-rub)–[§4.112](#4112-cajun-seasoning), [§4.114](#4114-cowboy-java-rub), [§4.121](#4121-texas-mop-sauce)–[§4.123](#4123-dc-mumbo-sauce)); and restored to the book's own "to taste"/"optional" phrasing rather than a forced quantity for [§4.124 Tartar Sauce](#4124-tartar-sauce) and [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce). [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning)'s salt note updated to match [§4.113](#4113-citrus-salt-and-pepper)'s reverted amount. **[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s "No Salt in Rubs" entry corrected to match** — it no longer claims this cookbook overrides the book's no-salt-in-rubs argument; that argument stands as printed, and Cody's heavier-salt preference is now correctly scoped to brining only. **The actual heavier-salt request went where it belonged instead: [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity)**, which the same earlier pass had left at the book's printed 6.3% on the theory that a calibrated salinity shouldn't be touched — salinity increased to about 9.5% (roughly 1.5×, still inside [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range), with the salt-per-gallon figure recalculated from ½ lb to ¾ lb and a new Cody's Note explaining the change. **[§4.101 Basic Brinerade](#4101-basic-brinerade) and [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the brine injections were already correct** — their earlier ~1.5× bumps are genuinely what Cody asked for and are left as-is. **Nutrition blocks are unaffected** — this cookbook's Nutrition tables track calories/fat/protein/carbs/fiber only, no sodium line, so none needed recalculating for a salt-only change. **A new bolded callout added to all eight now-salt-free rubs in this batch** — [§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub), [§4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust), [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub), [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub), [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub), [§4.112 Cajun Seasoning](#4112-cajun-seasoning), and [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) — warning that the meat needs a brine, preferably a dry brine, before the rub goes on or the dish will taste bland; per Cody's request. |
 | 2026-09-05 | **Second batch today: Meathead Goldwyn's "Brines, Rubs, and Sauces" chapter, plus more of "Software" and "Hardware" — condensed techniques and 33 full rub/brine/sauce recipes, all with salt increased per Cody's standing preference.** **Eight new condensed technique entries, [§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)**, continuing the T33–T45 style: freezing/reheating leftovers (sous vide reheat is the best method, per [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method)'s own equipment); cooking vegetables and fruits, including reverse-searing dense ones the same way [§T41](#t41-reverse-sear--two-stage-cooking) reverse-sears meat; basting and spritzing, plus the real explanation for salmon's white ooze (albumin, not myowater — a genuinely different phenomenon from [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)'s myowater-not-blood myth-bust); the "lookin' ain't cookin'" lid myth, busted as wildly overstated for a quick peek but real for extended lid-open time; saucing strategy (when to add a sweet sauce so it doesn't scorch, plus sauce food-safety and storage); cooking more than one large cut at once (thickness still governs per [§T42](#t42-what-controls-cooking-time), crowding and airflow are the real risk); water pans and drip pans from the "Hardware" chapter; and the science of a good rub — the Three S's (sugar, savory, spicy), plus the book's own **"No Salt in Rubs"** argument, which turns out to be the same idea as this cookbook's existing [§T37 double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) — already this cookbook's standing practice, just now with the book's own four stated reasons attached. **33 new full recipes, [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)**, landing in §4 rather than the still-placeholder [§13 Meathead Cookbook](#13-meathead-cookbook) per Cody's explicit instruction: **three wet-brine/injection recipes** ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) Simple Blonder Wet Brine, [§4.101](#4101-basic-brinerade) Basic Brinerade, [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the chicken/turkey, pork, and beef/venison injection brines); **twelve rubs and dry seasonings** ([§4.105](#4105-dalmatian-rub) Dalmatian Rub through [§4.116](#4116-butcher-block-seasoning) Butcher Block Seasoning, including [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder) Smoked Garlic/Onion Powder — genuinely Slow Cook, smoker plus dehydrator); and **eighteen sauces, mops, and condiments** ([§4.117](#4117-kansas-city-classic-barbecue-sauce) Kansas City Classic Barbecue Sauce through [§4.132](#4132-roasted-red-pepper-and-garlic-coulis) Roasted Red Pepper and Garlic Coulis), including [§4.127](#4127-cascabel-mole-inspired-by-chef-rick-bayless) Cascabel Mole — rated 🟡 Medium, the only non-Easy entry in the batch, for its real chile/nut/seed scorch risk. **Every rub, brine, and sauce in the batch got Cody's standing salt increase** — roughly 1.5–2× wherever the book already printed some salt, or a new 1 tsp–1 Tbsp addition (scaled to batch size) wherever the book printed none at all, per its own "No Salt in Rubs" philosophy — with each recipe individually flagging its specific printed-vs-changed amount and a note that these are adjustable starting points, not fixed numbers. **Two deliberate exceptions, both flagged in place:** [§4.100 the Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) keeps its calibrated 6.3% salinity as printed rather than getting stronger (that percentage *is* the method), and the three brine-injection recipes ([§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection)) got a lighter 1.5× bump rather than 2×, since injected salt reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit. **Two gaps in the source scan, flagged rather than guessed past:** the book's printed pages 174–175 (the title and first ingredients of [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce)) and pages 182–183 (all of Alabama White Sauce's actual ingredient list, and the very end of the Japanese Happy Mouth Yakitori Sauce headnote, whose own ingredient box falls on the still-uncaptured page 192) weren't in the photographed set — both recipes' titles and context are noted, but neither was added with invented quantities. A teriyaki/huli-huli marinade on the book's page 184 was also left out as out of scope — it's built to accompany a specific chicken recipe this cookbook hasn't documented yet, not a standalone condiment. **Cross-references added throughout** to this cookbook's existing similar-themed entries — the three other Carolina-style vinegar sauces, the existing Carolina Mustard Barbecue Sauce, two existing barbecue mop sauces, the existing Cajun Rub, three existing chimichurris, and the existing simpler Pesto — following the same "(distinct from §X — see comparison)" convention this cookbook already uses for its other multi-source duplicates. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record where the actual recipes landed. TOC and Difficulty & Time Index updated throughout — **32 of the 33 new recipes are 🟢 Easy**, mostly 2–20 minutes of prep with little or no real cooking, so most sort near the top of the Difficulty & Time Index. **⚠️ Flag for a future pass:** the "Reading this table" and "Reading this index" narrative sections below (§4's rub/sauce count, the "30 minutes or less" tally, hard-recipe counts) predate this batch and haven't been recomputed against the new totals — the counts there are now stale by roughly 33 recipes and should get a fresh pass next time anyone's doing index maintenance. |
@@ -688,6 +697,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
 | [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) *(Meathead)* | 🟢 | 5 min | — | **30–45 min** *(smoker, unattended)* | 1 hr 15 min *(+ 30 min fridge rest after seasoning)* |
 | [§4.128 Burger Glop](#4128-burger-glop) | 🟢 | 5 min | — | — | 5 min |
 | [§T25 French Omelette](#t25-the-french-omelette-two-methods) | 🟡 | 5 min | <1 min | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
@@ -704,6 +714,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) | 🟢 | 10 min | — | — | 10 min |
+| [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **30–45 min** *(smoker, unattended)* | 45–55 min |
+| [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets) *(Meathead)* | 🟢 | 10 min | — | **15–20 min** *(indirect zone/smoker, unattended)* | 1 hr 30 min *(+ 1 hr fridge dry-brine)* |
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
 | [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -800,6 +812,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) *(Meathead)* | 🟡 | 5 min | 15 min | — | 1 hr 20 min *(+ 1 hr fridge dry-brine)* |
 | [§9.29 Deer Jerky](#929-deer-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.85 Beurre Blanc / Nantais (White Butter)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) | 🔴 | 5 min | 15 min | — | 20 min |
 | [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
@@ -817,6 +830,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§9.12 Potted Crab](#912-potted-crab) | 🟢 | 15 min | 5 min | — | 4 hr 20 min *(3+ hr chill, 1 hr temper)* |
 | [§4.59 Tonnato Sauce](#459-tonnato-sauce) 🔖 | 🟡 | 20 min | — | — | 20 min |
+| [§7.87 Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) *(Meathead)* | 🟢 | 20 min | 3 min | — | ~2 hr *(includes chilling the mousse until firm)* |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili Mac](#81-chili-mac) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
@@ -849,6 +863,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
 | [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster) *(Meathead)* | 🟡 | 15 min | 10 min | — | 30 min |
 | [§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) | 🔴 | 20 min | 5 min | — | 2 hr 25 min *(includes an assumed ~2 hr chill)* |
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) | 🟢 | 20 min | — | **4–6 hr** *(indirect grill at 300°F)* | 4¾–6¾ hr *(+ optional 3–8 hr rub cure)* |
@@ -868,6 +883,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§4.121 Texas Mop Sauce](#4121-texas-mop-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) *(Meathead)* | 🟢 | 20 min | 10 min | — | 45 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
@@ -955,6 +971,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
 | [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) | 🟡 | 45 min | 25 min | — | 1 hr 10 min |
 | [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) | 🟢 | 40 min | 35 min | — | 1 hr 15 min |
+| [§7.90 Smoked Salmon Quiche](#790-smoked-salmon-quiche) *(Meathead)* | 🟢 | 30 min | 45 min | — | 1 hr 30 min *(includes a 15 min cooling rest)* |
 | [§4.127 Cascabel Mole (inspired by Chef Rick Bayless)](#4127-cascabel-mole-inspired-by-chef-rick-bayless) | 🟡 | 30 min | 1 hr | — | 1 hr 30 min |
 | [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) | 🟢 | 15 min | — | **~3 hr** *(simmer, mostly unattended)* | 3 hr 15 min |
@@ -9304,6 +9321,10 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T51](#t51-cooking-more-than-one-large-piece-of-meat-at-once) | Cooking More Than One Large Piece of Meat at Once | `meathead` `multiple-cuts` `batch-cooking` `smoker-capacity` `cooking-time` |
 | [T52](#t52-water-pans-and-drip-pans) | Water Pans and Drip Pans | `meathead` `water-pan` `drip-pan` `hardware` `humidity` `stall` `flare-up` |
 | [T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) | The Science of a Good Rub — Three S's, No Salt in Rubs, and Storage | `meathead` `rub-blending` `sugar-savory-spicy` `no-salt-in-rubs` `storage` `fresh-vs-dried-herbs` |
+| [T54](#t54-buying-and-cooking-fish) | Buying and Cooking Fish | `meathead` `seafood` `buying-fish` `freshness` `fish-science` |
+| [T55](#t55-how-to-fillet-a-whole-fish) | How to Fillet a Whole Fish | `meathead` `seafood` `filleting` `whole-fish` `butchery` |
+| [T56](#t56-shrimp-sizing-deveining-and-brining) | Shrimp: Sizing, Deveining, and Brining | `meathead` `seafood` `shrimp` `deveining` `brining` `shrimp-sizing` |
+| [T57](#t57-storing-a-live-lobster) | Storing a Live Lobster | `meathead` `seafood` `lobster` `live-storage` |
 
 ---
 
@@ -12809,6 +12830,82 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 - **If a rub clumps from humidity**, chop it up or spread it on a baking sheet in a 225°F oven (no hotter, or it scorches) for about 15 minutes to drive off moisture. A few grains of dry rice in the jar afterward helps keep it that way.
 - **Dried spices and herbs go in at the start of a cook** (rubs, low-and-slow simmers) since they need time to rehydrate and release flavor; **fresh herbs go in a minute or two before serving**, to preserve their brightness — chopping fresh herbs (rather than leaving leaves whole) helps them release flavor faster.
 - **Grind black pepper fresh** for anything cooked hot and fast — for something like a rub headed onto a screaming-hot grill, grind coarse and sift the fine powder out through a mesh strainer (save the powder for a sauce), keeping only the big chunks on the meat itself, pressed in by hand.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T54. Buying and Cooking Fish
+
+<!-- TECHNIQUE-TAGS: meathead, seafood, buying-fish, freshness, fish-science -->
+**Tags:** `meathead` · `seafood` · `buying-fish` · `freshness` · `fish-science`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter.
+**Used in:** every seafood entry sourced from this chapter, [§7.87](#787-smoked-salmon-mousse-canapés) through [§7.94](#794-gregs-grilled-lobster).
+
+**Buy fresh, not previously-frozen-and-thawed — freshness beats species almost every time.** Fish quality drops faster after death than any other meat; Meathead would rather cook fresh farm-raised salmon than week-old wild grouper. Buy from a store that moves a lot of fish — a dedicated fish market or a busy seafood counter — and ask the fishmonger by name what's actually fresh today, rather than picking blind.
+
+**Ice contact matters as much as the fish itself.** The flesh should sit directly on ice, not on a tray or plastic set on top of it — fish resting on top of ice rather than in it is a sign a store is trying to save money on ice, not keep the fish cold. Freezing itself isn't the enemy; a flash-frozen fish (frozen fast, on the boat, before large ice crystals can form and rupture cells) beats a "fresh" fish that was actually frozen once already, thawed, and sold as fresh after a slower trip through a ship's hold and a warehouse.
+
+**Freshness signals for when there's no catch date posted:** it should smell like the ocean or seaweed, not "fishy"; eyes should be clear, not cloudy (bruised eyes from rough handling are a separate issue from age); gills should be bright red — brown gills mean the fish has been dead a while. FishChoice.com's seafood guide covers what's in season by region and which species to avoid.
+
+**Cold-water fish runs fatter, and that fat carries flavor and moisture** — swordfish (best late summer) and line-caught Alaskan salmon (best in spring) are both examples. Whole, filleted, or cut into steaks, each cooks differently, so match the cut to the method.
+
+**Fish absorbs marinades and salt faster than meat does — use it.** It's white-fleshed, lower in myoglobin, higher in water, and lower in fat than most other meat, so even 30 to 60 minutes of dry or wet brining measurably improves flavor and moisture. The tradeoff is real too: fish cooks fast, is delicate, and can fall apart if handled roughly — see [§T55](#t55-how-to-fillet-a-whole-fish) for handling a whole fish, and each recipe in this batch for its own doneness targets.
+
+**Fish oils get into a smoker's walls more than most meat does.** If you smoke a lot of fish, give the smoker a thorough wash afterward — and if you smoke fish often, a dedicated smoker just for fish is worth considering, so the oils don't carry over and flavor the next thing you cook in it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T55. How to Fillet a Whole Fish
+
+<!-- TECHNIQUE-TAGS: meathead, seafood, filleting, whole-fish, butchery -->
+**Tags:** `meathead` · `seafood` · `filleting` · `whole-fish` · `butchery`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter.
+**Used in:** [§7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) *(gutting only — the fish stays whole)* and [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets), which starts from a whole fish.
+
+**Trim, scale, and gut before anything else.** Snip off the fins with kitchen shears — carefully, they can stab you and cause a nasty infection. Leave the tail on or remove it (it tends to burn on the grill). If needed, scrape off the scales in the sink, since they fly everywhere — a dedicated fish scaler makes it easy, but a serrated knife or another small knife works too.
+
+**Gut it if it hasn't been already** — most store-bought fish already has. Get a sharp, pointed knife (scissors work too), insert it just in front of the anal fin, and cut forward to the collar. Reach in and pull out all the entrails, then rinse the fish, especially the cavity. Any leftover vein or blood along the spine isn't worth chasing — it's right against the bone, in a spot you likely won't be eating anyway.
+
+**The head has a bonus: the cheeks.** If you don't want a fish "watching" you from the plate, remove it — lift the gill cover and cut through it, then through the collar bone just behind the gill slot, which also carries good meat. *(Tip: freeze fish heads in a zipper-top bag as you go, and once you've collected half a dozen, simmer them into a stock for soup base, couscous, or rice.)*
+
+**To fillet it, run the knife along the spine.** Make a shallow cut, then keep working the tip farther down, scraping along the top of the bones as you go. Once the fillet is off the skeleton, run your hands along it to feel for pin bones — there are often rib bones left behind around the belly cavity — and pull them straight out with clean needle-nose pliers.
+
+**From there, cook it whole, cut it into steaks (perpendicular to the spine), or fillet the other side the same way.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T56. Shrimp: Sizing, Deveining, and Brining
+
+<!-- TECHNIQUE-TAGS: meathead, seafood, shrimp, deveining, brining, shrimp-sizing -->
+**Tags:** `meathead` · `seafood` · `shrimp` · `deveining` · `brining` · `shrimp-sizing`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter.
+**Used in:** any shrimp recipe in this cookbook — [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), [§7.40 Shrimp Risotto](#740-shrimp-risotto), [§7.47 Shrimp Roast](#747-shrimp-roast) — and pairs with [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) for deodorizing.
+
+**Shrimp are sold by count per pound, and the size labels vary by merchant.** "31/35" means 31 to 35 shrimp per pound (called medium, though sometimes marketed as large); "16/20" are jumbos; "U-12" or "U-10" (under 12 or under 10 per pound) are colossal or super colossal. **16/20 or larger is the sweet spot for grilling** — small shrimp are tedious to clean, fall through the grates, and often cook through before they've browned; large shrimp are easier to prep, cook properly, and take grill marks well.
+
+**Cook shrimp with the shell on when you can.** The shell (chitin, rich in sugars) contributes real flavor and protects the delicate meat from overcooking — but it also blocks marinade from reaching the meat, and shrimp absorb marinade better than almost any other protein. Seasoning on the outside of the shell still matters, though: it gets on your fingers as you peel and eat, and your fingers act as part of the seasoning.
+
+**Removing the vein without losing the shell:** the vein (the digestive tract, sometimes gritty, often black) runs along the convex/back side of the abdomen. Cut the shell with scissors along the center of the back all the way to the tail, then use a sharp paring knife to cut through the flesh just until you see the vein — don't cut all the way through, or you'll end up with shrimp halves. Slip the tip of the knife or a fingernail under the vein and gently lift; it should come out in one piece, or repeat if it breaks. For butterflied shrimp, extend the same cut a little deeper (still not all the way through) and spread the two halves open. Rinse off any sand or shell afterward, pat the shrimp dry, and wash your hands.
+
+**Brining plumps shrimp before grilling, offsetting the grill's drying effect:** per pound of shrimp, dissolve ¼ cup kosher salt in 1 cup warm water, then stir in 2 cups cold water and add the shrimp. Soak 15 to 20 minutes — no longer — then drain and pat dry before grilling.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T57. Storing a Live Lobster
+
+<!-- TECHNIQUE-TAGS: meathead, seafood, lobster, live-storage -->
+**Tags:** `meathead` · `seafood` · `lobster` · `live-storage`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. **This is a partial condensation** — only the live-storage tip (book p. 346) was legible in the photographed pages; the fuller "Lobster: Choosing and Preparing" section (cold-water vs. warm-water lobster, live vs. previously frozen, lobster anatomy) fell on book pp. 344–345, which weren't in the scanned set.
+**Used in:** [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster), or any time live lobster is bought ahead of when it'll be cooked.
+
+**A live lobster keeps 2 to 3 days refrigerated, handled correctly.** Never submerge a saltwater lobster in fresh water — it kills it. If you need to hold one a day or two, put it in a pot so it can't crawl around the fridge, add about ¼ inch of water in the bottom to keep it moist, and cover it with a damp cloth or newspaper. Lobsters breathe air, so they'll be fine without being submerged. **Never cover a live lobster with ice** — that will kill it too.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -21836,6 +21933,548 @@ Whisk together olive oil, chopped parsley, lemon juice, and salt, with minced ga
 
 ---
 
+### 7.87 Smoked Salmon Mousse Canapés
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. A cold hors d'oeuvre built on hot-smoked salmon puréed into a horseradish-and-dill mousse, piped onto toasted rye or pumpernickel with a ribbon of cucumber.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~3 min** *(toasting the bread rounds)* · **Start to finish ~2 hr** *(includes chilling the piped mousse until firm — the book doesn't give an exact chill time)*
+
+#### A. Ingredients
+
+**Mousse**
+
+- 8 oz hot-smoked salmon *(the source's own Schmancy Hot-Smoked Salmon, or any good hot-smoked salmon)*
+- Grated zest and juice of ¾ lemon
+- 2 oz cream cheese
+- ¼ cup sour cream
+- ½ tablespoon prepared white horseradish
+- 1 teaspoon minced fresh dill or chives
+- ¼ teaspoon freshly ground white pepper
+- ½ teaspoon kosher salt
+
+**Canapés**
+
+- 1 seedless cucumber
+- 1 loaf cocktail rye or pumpernickel bread *(crackers or toast points also work, per the source)*
+- 4 or 5 long, thin chives
+
+#### B. Cooking Instructions
+
+**1. Make the mousse.**
+Make sure all the bones are removed from the salmon, then put it in a food processor or blender with the lemon zest, lemon juice, cream cheese, sour cream, horseradish, dill, white pepper, and salt. Purée. Taste and adjust the flavor with a little more of any ingredient.
+
+**2. Pipe and chill.**
+Spoon the mousse into a piping bag fitted with a small star tip and stash it in the fridge until well chilled. No piping bag? Spoon it into a plastic bag and snip off one corner when you're ready to pipe — or just use a spoon.
+
+**3. Cut the cucumber and bread.**
+Use a vegetable peeler to cut long ribbons of skin from tip to tip of the cucumber, making stripes — leaving some skin on gives more crunch and color. Cut the ends off and slice the cucumber into ⅛-inch-thick rounds (a mandoline helps). Cut the bread into small rounds just a little larger than the cucumber slices, using a small round cookie cutter or the rim of a glass with a sharp knife.
+
+**4. Toast the bread.**
+Toast the bread rounds on the grill or under the broiler until golden brown on one side. Watch closely — they can burn in a hurry.
+
+**5. Snip the chives.**
+Use kitchen scissors to snip the chives into 1-inch lengths.
+
+**6. Assemble and serve.**
+Pipe a dab of mousse on each bread round to act as glue, and stick a cucumber slice to it. Pipe a nice mound of mousse on top of the cucumber, garnish with a piece or two of chive, and serve.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — smoked-fish counter or specialty market**
+
+- 🏪 Hot-smoked salmon — 8 oz
+
+**🛒 General grocery**
+
+- 🛒 Lemon
+- 🛒 Cream cheese
+- 🛒 Sour cream
+- 🛒 Prepared white horseradish
+- 🛒 Fresh dill or chives
+- 🛒 White pepper, kosher salt
+- 🛒 Seedless cucumber
+- 🛒 Cocktail rye or pumpernickel bread (or crackers/toast points)
+- 🛒 Fresh chives (for garnish)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,450 | 59 g | 73 g | 150 g | 9 g |
+| **Per canapé** *(makes about 50)* | ~29 | 1 g | 1.5 g | 3 g | <0.5 g |
+
+**What a serving is:** one bite-size canapé — a dab of mousse and a cucumber slice on a small toasted bread round. As an appetizer, most people eat 4 to 5 in a sitting (roughly 115–145 calories' worth).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.88 Smoked Trout, Florida Mullet Style
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. Meathead's stand-in for the mullet smoked along Florida's Gulf Coast since long before European-style barbecue arrived — Native Americans in the Caribbean and Florida were slow-smoking fish on open-air wooden *barbacoa* grates before conquistadors ever showed up with hogs and cattle. Real mullet is hard to find outside the Gulf Coast, so this version uses farmed trout, smoked the same oily-fish way.
+
+> **Where this points:** the source calls out Ted Peters Famous Smoked Fish in South St. Petersburg, Florida (smoking mullet since 1945) as the mecca for the real thing. Flaked off the skin, the smoked flesh doubles as a fish salad base — see [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) for the same idea with a different fish — or mixed with eggs, pasta, or potatoes.
+
+**🟢 Easy** · **Prep ~5 min** · **Slow cook 30–45 min** *(smoker, unattended)* · **Start to finish ~1 hr 15 min** *(plus a 30 min fridge rest after seasoning — lead time, not cooking)*
+
+#### A. Ingredients
+
+- 1 (1-lb) trout, boned
+- ¼ teaspoon kosher salt
+- 1 tablespoon Meathead's Memphis Dust *(see [§4.108](#4108-meatheads-memphis-dust))*
+- Lemon wedges or tartar sauce, for serving *(see [§4.124 Tartar Sauce](#4124-tartar-sauce))*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Scale and gut the fish (see [§T55](#t55-how-to-fillet-a-whole-fish)). Remove the head and tail, open the fish so it lies flat, and sprinkle it with the salt and Memphis Dust. Refrigerate for about 30 minutes.
+
+**2. Fire up.**
+Get your smoker up to 225°F, or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side. Get some dense smoke rolling.
+
+**3. Cook.**
+Put the fish in the smoke, splayed open, skin side down. The target internal temperature is 130°F, and it won't take long to get there — 30 to 45 minutes, depending on the thickness of the fish.
+
+**4. Serve.**
+Serve it right out of the smoker, or cold, with a wedge of lemon or tartar sauce. If you flake the flesh off the skin with a fork, use it for a fish salad, or mix it with eggs, pasta, or potatoes.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Whole trout, boned — 1 lb *(or mullet, if you can source it)*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Lemon or tartar sauce ingredients
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~595 | 24 g | 85 g | 3 g | 0 g |
+| **Per serving** *(makes 1 serving, as printed)* | ~595 | 24 g | 85 g | 3 g | 0 g |
+
+**What a serving is:** the flesh off a whole 1-lb boned trout — a hearty single-portion whole smoked fish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.89 Chef Bonner's Fish Fillets with Brioni Broth
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter, credited there to **Chef Mychael Bonner**, co-owner of The Reel Club in Oak Brook, Illinois. Meathead's take on one of Bonner's dishes — mayo-coated, skin-side-down grilled fillets served over a light, buttery white-wine-and-thyme broth Bonner calls "Brioni Broth," named for a chef friend.
+
+> **Three tricks from Chef Bonner, folded into this recipe:** he grills fillets skin side down only ("unilateral cooking") for potato-chip-crisp skin — though he warns catfish and other scaleless fish don't crisp well this way; he coats the skin with mayonnaise (about 60% oil, so it resists sticking and evaporation) rather than light mayo or a substitute; and he sometimes floats the dish on a raft of carrot sticks on the grill to keep the skin from scorching.
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~1 hr 20 min** *(plus a 1 hr fridge dry-brine before cooking — lead time, not cooking)*
+
+> ⚠️ **Why Medium.** The fish cooks skin side down the whole time, off a precise 120°F internal target, without flipping — the instructions are explicit not to risk breaking it apart by flipping even if it's browning too fast near the grates. Overshoot the temperature and the fillet dries out; a fillet that won't release from the grates has to be judged by feel, not by the clock.
+
+#### A. Ingredients
+
+**Fish**
+
+- ¼ teaspoon kosher salt
+- 4 fresh branzino fillets (or sea bass, snapper, salmon, grouper, or trout), about 6 oz each
+- 1 teaspoon Marietta's Fish Rub *(see [§4.111](#4111-mariettas-fish-rub))*
+- Mayonnaise, for the skin
+
+**Brioni Broth**
+
+- 3 tablespoons unsalted butter, divided
+- ¼ cup diced white onion
+- 1 teaspoon fresh thyme leaves
+- ½ cup dry white wine
+- 2 cups low-sodium chicken broth
+- ⅛ teaspoon white pepper
+- Salt, to taste
+- Carrot sticks (optional, for a raft under the fish)
+
+#### B. Cooking Instructions
+
+**1. Prep the fish and make the broth.**
+Salt the fillets on both sides and dry brine for about 1 hour. Just before cooking, pat the fish totally dry with paper towels, sprinkle both sides with Marietta's Fish Rub, and lightly coat the skin side with mayonnaise to help keep it from sticking to the grill. To make the broth, melt 1 tablespoon of the butter in a saucepan over medium heat and add the onion and thyme. Sauté until the onion is limp and a very light color (not golden). Add the wine, turn up the heat, and boil until it's almost gone. Add the chicken broth and bring to a boil, then turn the heat back down and simmer for 5 minutes. Strain out the onion and thyme, then whisk in the remaining 2 tablespoons butter over low heat until melted and blended in. Keep warm until the fish is done.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking and shoot for about 450°F on the direct-heat side.
+
+**3. Cook.**
+Put the fillets on the grates over direct heat, skin side down, close the lid, and leave them alone until they get dark grill marks. As the fish cooks, rotate it 45 degrees to make a crosshatch and to help prevent burning — but don't flip it. If the fish won't let go of the grates, just leave it alone for now. When it hits 120°F in the center, remove it from the grill. If it's close to burning but not warmed through, move it to the indirect zone and close the lid until it hits the mark — don't risk breaking it up by flipping it.
+
+**4. Serve.**
+Divide the broth among the plates and place the fish in the center, skin side facing up. If the skin has charred or torn, plate it skin side down instead.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Branzino fillets — 4, about 6 oz each *(or sea bass, snapper, salmon, grouper, or trout)*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Mayonnaise
+- 🛒 Unsalted butter
+- 🛒 White onion
+- 🛒 Fresh thyme
+- 🛒 Dry white wine
+- 🛒 Low-sodium chicken broth
+- 🛒 White pepper
+- 🛒 Carrot sticks (optional)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,380 | 83 g | 127 g | 4 g | 0 g |
+| **Per serving** *(serves 4)* | ~345 | 21 g | 32 g | 1 g | 0 g |
+
+**What a serving is:** one 6 oz fillet with about 2 to 3 tablespoons of Brioni Broth spooned over.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.90 Smoked Salmon Quiche
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. A make-ahead Sunday brunch dish built to use up leftover smoked fish — trout, mullet, or swordfish all work in place of the salmon.
+
+**🟢 Easy** · **Prep ~30 min** *(includes a 20 min blind bake of the crust)* · **Cook ~45 min** *(oven bake, unattended)* · **Start to finish ~1 hr 30 min** *(includes a 15 min cooling rest before slicing)*
+
+#### A. Ingredients
+
+- 1 (9-inch) piecrust, store-bought or homemade
+- 1 cup fresh spinach leaves
+- ¼ red onion, thinly sliced
+- 6 oz hot-smoked salmon *(the source's own Schmancy Hot-Smoked Salmon, or any good hot-smoked salmon — or the smoked trout from [§7.88](#788-smoked-trout-florida-mullet-style))*
+- 5 large eggs
+- ½ cup whole or 2% milk
+- ¼ teaspoon kosher salt
+- ⅛ teaspoon freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Prep and blind-bake the crust.**
+Preheat the oven to 325°F. Fit the crust into a pie pan and prick the bottom with a fork about 6 times. Add pie weights or dried beans and bake for about 20 minutes, until the dough starts to turn light brown. Remove from the oven (leave the oven on), remove the weights, and let the crust cool on a rack for 10 minutes.
+
+**2. Fill the crust.**
+Spread the spinach over the crust and top with the sliced onion. Make sure there are no bones in the salmon, then flake it and spread it over the onion.
+
+**3. Add the egg mixture.**
+In a bowl, whisk together the eggs, milk, salt, and pepper until well blended. Pour the egg mixture over the ingredients in the piecrust, giving the pan a little shake so everything settles and any air gaps fill with egg.
+
+**4. Cook.**
+Bake for 40 to 50 minutes, until the internal temperature reaches 180 to 185°F, the egg is set throughout, and the crust is a nice golden brown.
+
+**5. Serve.**
+Let the quiche cool on a rack for at least 15 minutes, then slice and serve hot or at room temperature — it's pretty good cold, too.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — smoked-fish counter**
+
+- 🏪 Hot-smoked salmon — 6 oz
+
+**🛒 General grocery**
+
+- 🛒 9-inch piecrust, store-bought or homemade
+- 🛒 Fresh spinach — 1 cup
+- 🛒 Red onion
+- 🛒 Eggs — 5 large
+- 🛒 Whole or 2% milk
+- 🛒 Kosher salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,720 | 108 g | 80 g | 100 g | 4 g |
+| **Per serving** *(serves 6)* | ~285 | 18 g | 13 g | 17 g | 0.7 g |
+
+**What a serving is:** one standard wedge — ⅙ of a 9-inch quiche.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.91 Smoked Halibut Salad
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. A smoked-fish riff on classic tuna salad, built around smoked halibut instead of canned tuna.
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook ~30–45 min** *(smoker, unattended)* · **Start to finish ~45–55 min**
+
+#### A. Ingredients
+
+- 8 oz fresh halibut fillets
+- ⅛ teaspoon kosher salt
+- ⅛ teaspoon freshly ground black pepper
+- ½ cup mayonnaise
+- Juice of 1 lemon
+- 1 celery stalk, minced
+- 1½ tablespoons minced onion
+- 1 tablespoon minced sweet pickle or pickle relish
+- 2 pinches curry powder
+- 2 hard-boiled large eggs
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Season the fish with the salt and pepper.
+
+**2. Fire up.**
+Get your smoker up to 225°F, or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side. Add a mild wood for smoke.
+
+**3. Cook.**
+Put the fish in the smoke. If you'll eat it within 1 day, smoke it until the internal temperature hits 140–145°F. If it'll sit in the fridge for a few days first, take it to 160°F. Remove from the smoker and refrigerate until cold.
+
+**4. Serve.**
+In a bowl, whisk together the mayonnaise, lemon juice, celery, onion, pickle, and curry powder. Flake the chilled fish into bite-size chunks, making sure there are no bones. Chop the eggs into small pieces (an egg slicer works well) and gently fold the fish and eggs into the mayonnaise dressing. Taste, adjust seasoning if needed, and serve.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Fresh halibut fillets — 8 oz
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt, black pepper
+- 🛒 Mayonnaise
+- 🛒 Lemon
+- 🛒 Celery
+- 🛒 Onion
+- 🛒 Sweet pickle or pickle relish
+- 🛒 Curry powder
+- 🛒 Eggs — 2, for hard-boiling
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,210 | 98 g | 64 g | 11 g | 0.5 g |
+| **Per serving** *(serves 2, as printed)* | ~605 | 49 g | 32 g | 5 g | 0.3 g |
+
+**What a serving is:** about ¾ cup — enough for a hearty sandwich or a scoop on crackers. Stretches to 4 lighter servings as an appetizer spread.
+
+*Mayo-heavy by design, the same way classic tuna salad is — this isn't a light dish.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.92 Butter-Poached Fillets
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. Meathead's own improvised method from a cold autumn canoe trip in Ithaca, New York, built around a five-pound largemouth bass — works on any delicate white-fleshed fillet, bass or tilapia especially. Serve with crusty bread to mop up the garlicky brown butter.
+
+**🟢 Easy** · **Prep ~10 min** *(melting and flavoring the butter)* · **Slow cook ~15–20 min** *(indirect zone/smoker, butter-poached, unattended)* · **Start to finish ~1 hr 30 min** *(plus a 1 hr fridge dry-brine before cooking — lead time, not cooking)*
+
+#### A. Ingredients
+
+- 4 lb fresh white-fleshed fish, such as bass or tilapia, filleted *(see [§T55](#t55-how-to-fillet-a-whole-fish))*
+- 2 teaspoons kosher salt
+- 8 tablespoons (1 stick) unsalted butter
+- 3 tablespoons olive oil
+- 3 tablespoons chopped fresh tarragon *(or 2 tablespoons dried)*
+- 3 garlic cloves, crushed
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Sprinkle the fish with salt and dry brine for an hour. Find a baking pan or oven-safe frying pan not much bigger than the fish, but large enough that the fillets lie flat without overlapping. Melt the butter in the pan over medium-low heat, then add the oil — there should be enough fat to cover the bottom of the pan about ⅛ inch deep; increase the quantities if needed. Stir the tarragon and garlic into the butter and cook gently for about 5 minutes to let them flavor it.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking and shoot for about 225°F on the indirect side, or get your smoker up to 225°F. Put a lot of smoke in the air — a pan of sawdust, wood chips, dried herbs, or even tea right over the flames works.
+
+**3. Cook.**
+Put the fish in the pan and spoon some of the butter over it. Place it in the indirect-heat zone and close the lid. The butter will probably brown — that's fine; brown butter's nutty flavor loves fish. Just don't let it blacken. When the flesh in the center of the fish hits 120°F, transfer it to a serving platter and spoon some of the brown butter over the top.
+
+*Note: fresh tarragon is best, but 2 tablespoons dried works if you can't find it.*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 White-fleshed fish fillets (bass or tilapia) — 4 lb
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Unsalted butter — 1 stick
+- 🛒 Olive oil
+- 🛒 Fresh tarragon
+- 🛒 Garlic
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,230 | 89 g | 363 g | 3 g | 0 g |
+| **Per serving** *(serves 4)* | ~555 | 22 g | 91 g | 1 g | 0 g |
+
+**What a serving is:** one hefty 1-lb fillet portion with a spoonful of brown butter — the recipe is printed at a generous 1 lb of raw fish per person.
+
+*Most of the butter and oil stays in the pan; the figures above assume roughly 40% of it ends up spooned over the fish rather than left behind.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.93 Baja Fish Tacos
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. The fish taco is to Baja, California what the cheesesteak is to Philly — Meathead's grilled take on the classic deep-fried Baja original.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 1 lb skinless mild white-fleshed fish fillets, such as snapper, mahi-mahi, grouper, or tilapia
+- Kosher salt
+- 1 tablespoon ancho chile powder
+- 1 tablespoon freshly ground black pepper
+- ¼ cup sour cream
+- 1 tablespoon mayonnaise, plus more for coating the fish
+- 2½ teaspoons finely chopped chipotle in adobo sauce
+- 4 fresh corn tortillas *(or good-quality supermarket corn tortillas, doubled up if thin)*
+- 1 ripe avocado
+- 2 limes, quartered
+- ¼ small head cabbage, shredded
+- Pico de gallo or red salsa
+
+#### B. Cooking Instructions
+
+**1. Prep the fish.**
+Put the fish fillets on a plate. Sprinkle them with about ½ teaspoon salt and dust liberally with the ancho chile powder and black pepper.
+
+**2. Make the crema.**
+In a small bowl, mix the sour cream, mayonnaise, and chipotle in adobo. Season with a pinch of salt. Refrigerate.
+
+**3. Fire up.**
+Set up the grill in a two-zone configuration (the indirect zone is the safe zone). Preheat the grill and a metal grill topper, if you have one, to medium-high heat in the direct zone.
+
+**4. Cook the fish.**
+Coat the fish with a thin layer of mayonnaise and place it on the hot grill topper (or directly on well-oiled grates). Cook with the lid up until you get some nice golden color on one side. Turn the fish over and cook until the internal temperature is about 125°F — it shouldn't need more than 5 minutes per side. Don't worry if the fish starts to break apart. Transfer to a warm bowl and break it into large chunks.
+
+**5. Toast the tortillas.**
+Meanwhile, warm an empty skillet just larger than the tortillas over medium heat. Lightly toast the tortillas by tossing them on the hot grill for about 30 seconds per side, until they get a few dark spots. Be careful not to dry them out — they need to stay flexible. Put them in the skillet and cover to keep warm. If they're a little stiff, moisten two paper towels, squeeze out most of the water, sandwich the tortillas between them, and heat in the microwave for a few seconds, or in the oven, until pliable.
+
+**6. Prep the avocado and toppings.**
+While the fish and tortillas are cooking, halve the avocado, remove the pit, and scoop out the flesh. Lay it curved side up on a cutting board and cut it into ¼-inch-thick slices. Put them in a bowl and drizzle with some lime juice to keep them from browning. Put the cabbage and pico de gallo in separate bowls with spoons so people can assemble their own tacos at the table.
+
+**7. Serve.**
+Divide the fish among the tortillas. Top with the sour cream mixture and any toppings you like. Serve with the lime wedges.
+
+*Note: the classic fish taco is made with corn tortillas, but flour tortillas work just fine. Fresh tortillas from a Mexican market are best; thin supermarket tortillas work if doubled up.*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 White-fleshed fish fillets (snapper, mahi-mahi, grouper, or tilapia) — 1 lb, skinless
+
+**☯️ Hong Kong Market / Chinese market**
+
+- ☯️ Fresh corn tortillas — a Mexican market is the classic source, but a well-stocked Asian grocery is often the closer option
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt, black pepper
+- 🛒 Ancho chile powder
+- 🛒 Sour cream
+- 🛒 Mayonnaise
+- 🛒 Chipotle in adobo sauce
+- 🛒 Avocado
+- 🛒 Limes
+- 🛒 Cabbage
+- 🛒 Pico de gallo or red salsa
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,420 | 73 g | 100 g | 65 g | 22 g |
+| **Per serving** *(serves 2, as printed)* | ~710 | 37 g | 50 g | 33 g | 11 g |
+
+**What a serving is:** 2 tacos — 2 corn tortillas each, topped with seasoned grilled fish, cabbage, pico de gallo, avocado, and chipotle crema.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.94 Greg's Grilled Lobster
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter, from Professor Blonder's method. Lobster grilled hard and fast over max direct heat rather than boiled — a bit chewier than boiled lobster, but never mushy, with more concentrated flavor.
+
+> **Buying ahead of time?** See [§T57 Storing a Live Lobster](#t57-storing-a-live-lobster) for how to keep it alive in the fridge for a day or two rather than cooking it immediately.
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~30 min**
+
+> ⚠️ **Why Medium.** The grill runs at its absolute highest setting, and the tail only needs 6 to 10 minutes to go from translucent to done — past that window the meat toughens fast, with none of the gentle margin a sous vide or smoker cook gives you.
+
+#### A. Ingredients
+
+- 3 tablespoons unsalted butter *(see Note)*
+- ½ tablespoon olive oil
+- 1 tablespoon minced fresh flat-leaf parsley
+- 1 teaspoon chopped fresh tarragon *(or ½ teaspoon dried)*
+- 1 teaspoon chopped fresh chives
+- ¼ teaspoon kosher salt *(see Note)*
+- Freshly cracked black pepper
+- 2 live Maine lobsters, each about 1½ lb
+- 2 lemon wedges (optional)
+
+#### B. Cooking Instructions
+
+**1. Prep the butter sauce.**
+In a small saucepan, melt the butter over medium heat. Stir in the olive oil, parsley, tarragon, chives, salt, and pepper to taste. Let the flavors blend for a bit over low heat, being careful not to let the butter brown. Remove from the heat and cover to keep warm.
+
+**2. Kill the lobsters quickly and painlessly.**
+Put a lobster in a baking pan or sheet pan, facing you. Place the tip of a sharp, heavy chef's knife between the lobster's eyes, about ½ inch behind them, sharp edge facing you. Plunge the knife all the way through the lobster's head and slice down, cutting the head right between the eyes and severing all major nerves. The lobster may twitch afterward, but it's dead, and because the nerves are cut, it feels no pain. Flip it over, legs in the air, and cut it in half along the midsection, holding it firmly so it doesn't slip — save any juices that emerge and mix them into the basting butter. Repeat with the second lobster.
+
+**3. Clean the halves.**
+Remove the rubber bands from the claws. Scoop any roe and tomalley out of the head area. Roe (coral) is a sac of eggs in female lobsters — dark green or black when fresh, turning reddish or orange when cooked; you may even find some in the tail if the female was laying. It can go into the butter. The pale green tomalley is part of the digestive system; the USDA warned in 2008 that it can filter pollutants, including bacteria, from the water the lobster lived in, so discard it until the waters it comes from are cleaner.
+
+**4. Fire up.**
+Preheat the grill for two-zone cooking with the direct-heat side on warp 10 (maximum). You'll cook with direct heat; the indirect zone is your safe zone.
+
+**5. Cook.**
+Place the lobster halves shell side down over direct heat, positioning the shells between two rungs of the cooking grate to keep them from rolling — you may need to manipulate the large claw, or place two halves side by side. Some cooks start them meat side down for a few minutes for more smoke flavor and grill marks, but that tends to dry them out. Baste the meat with the butter sauce, close the lid, and baste again after 3 to 4 minutes. When the meat has changed from translucent to pearly white and the thickest part of the tail hits a minimum of 145°F — perhaps 6 to 10 minutes — the lobsters are done. Baste one last time and remove them.
+
+**6. Serve.**
+Crack the claws with a wooden mallet, rolling pin, meat tenderizer, hammer, or kitchen shears. Serve with any leftover butter for dunking, and squeeze the lemon wedges over the meat if you like. The feathery gills and small legs are edible too, or freeze them for lobster stock.
+
+*Note: if you use salted butter, cut the amount of salt in half. You can always add salt, but you can't take it away.*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market or seafood counter**
+
+- 🏪 Live Maine lobsters — 2, about 1½ lb each
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter
+- 🛒 Olive oil
+- 🛒 Fresh flat-leaf parsley
+- 🛒 Fresh tarragon
+- 🛒 Fresh chives
+- 🛒 Kosher salt, black pepper
+- 🛒 Lemon (optional)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~555 | 28 g | 70 g | 1 g | 0 g |
+| **Per serving** *(serves 2)* | ~278 | 14 g | 35 g | 0.5 g | 0 g |
+
+**What a serving is:** one whole 1½-lb lobster, split, with garlic-herb butter for dunking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -27505,6 +28144,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **The science has arrived in force, even though a recipe hasn't yet.** Cody has dictated two full chapters of *Meathead* so far, both filed in the T-section as technique entries rather than here, since they're science and method rather than individual recipes with their own ingredient lists: **[§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)–[§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)** (heat, carryover, resting, smoke) and **[§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)–[§T45](#t45-bones--do-they-actually-add-flavor)** (meat composition, salt and brining, rubs/injecting/marinades, Maillard, fat cap, reverse sear, cooking-time physics, faux Cambro, food safety, and bones).
 >
 > **Update, 2026-09-05 — the actual named recipes have now arrived too, and they landed in §4, not here.** A full batch of brines, rubs, and sauces from the same book's "Brines, Rubs, and Sauces" chapter — **[§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) through [§4.132](#4132-roasted-red-pepper-and-garlic-coulis)**, 33 recipes in all — plus eight more condensed technique entries, **[§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)**, covering leftovers, vegetables, basting, lid myths, saucing strategy, cooking multiple large cuts at once, water/drip pans, and rub science. They went to §4 per Cody's explicit instruction — standalone condiments belong with this cookbook's other rubs and sauces, the same place *How to Grill*'s rubs and sauces already live, rather than in a book-specific section. **§13 stays a placeholder anyway** — it's reserved for an actual multi-component *dish* from this book (a whole smoked brisket or rib recipe, say), which still hasn't arrived; standalone condiments go to §4 regardless of source, matching how every other cookbook's rubs and sauces are already organized here.
+>
+> **Update, 2026-09-05 — the first actual multi-component dishes from this book have now arrived, and they landed in §7, not here.** Eight full recipes from the same book's "Seafood" chapter — **[§7.87](#787-smoked-salmon-mousse-canapés) through [§7.94](#794-gregs-grilled-lobster)** — plus four more condensed technique entries, **[§T54](#t54-buying-and-cooking-fish)–[§T57](#t57-storing-a-live-lobster)**, covering buying/cooking fish, filleting a whole fish, shrimp prep, and lobster storage. They went to [§7 Mains & Proteins](#7-mains--proteins) rather than here, on the same reasoning as the rubs/sauces: this cookbook organizes finished dishes by what they *are* (seafood mains sit with this cookbook's other seafood mains) rather than by which book they came from — the same place the *Champions of Sous Vide* seafood dishes ([§7.81](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction), [§7.84](#784-rockfish-burger-with-key-lime-aioli), [§7.86](#786-carpaccio-of-sous-vide-octopus)) already live. **§13 remains a placeholder** — still reserved for whatever eventually justifies a book-specific section of its own, which hasn't come up yet; every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's existing structure. **Two recipes and part of one technique entry were skipped this round rather than guessed at** — see the 2026-09-05 changelog entry for exactly what was cut off in the source photos and why.
 
 [↑ Table of Contents](#table-of-contents)
 

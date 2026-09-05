@@ -194,6 +194,7 @@ Click any recipe to jump straight to it.
 - [5.36 Lemon Green Beans](#536-lemon-green-beans) ✅ 👍
 - [5.37 Mamma's Spinach](#537-mammas-spinach) ✅ ❤️
 - [5.38 Roasted Veggies](#538-roasted-veggies) ✅ *(a loose "wing it" formula, not a fixed recipe)*
+- [5.39 Fennel Fondant](#539-fennel-fondant) ✅ *(Champions of Sous Vide; ⚠️ ingredient list partly obscured in the source photo — see entry)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -285,6 +286,15 @@ Click any recipe to jump straight to it.
 - [7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) ✅ *(uses [§4.97](#497-aromatic-lemongrass-marinade))*
 - [7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) ✅ *(⚠️ 160°F food-safety note)*
 - [7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) ○ *(cut only — method deliberately withheld, see entry)*
+- [7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) ✅ *(Champions of Sous Vide)*
+- [7.79 Short Rib Ragù](#779-short-rib-ragù) ✅ *(Champions of Sous Vide; ⚠️ instructions reconstructed from a rotated photo — see entry)*
+- [7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) ✅ *(Champions of Sous Vide)*
+- [7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) ✅ *(Champions of Sous Vide; ⚠️ some quantities/plating approximate — see entry)*
+- [7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) ✅ *(Champions of Sous Vide; ⚠️ heavy transcription uncertainty — see entry; distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese))*
+- [7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) ✅ *(Champions of Sous Vide)*
+- [7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) ✅ *(Champions of Sous Vide)*
+- [7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) ✅ *(Champions of Sous Vide)*
+- [7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) ✅ *(Champions of Sous Vide; ⚠️ uses transglutaminase — see entry)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -406,6 +416,7 @@ Click any recipe to jump straight to it.
 - [14.17 Flaky French Pastry](#1417-flaky-french-pastry) ✅
 - [14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) ✅
 - [14.19 Vodka Pie Crust](#1419-vodka-pie-crust) ✅ *(Judy Kim; Cody's own coarse-salt modification)*
+- [14.20 Cream Caramel](#1420-cream-caramel) ✅ *(Champions of Sous Vide; ⚠️ small print — custard sugar quantity approximate, see entry)*
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -429,6 +440,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **11 new recipes from a photographed book, *Champions of Sous Vide* — every one built around a sous vide step, added per the house rule that sous vide time (at any length) is its own Slow cook column, never Cook.** Nine land in **[§7 Mains & Proteins](#7-mains--proteins)** as [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) (Jason Logsdon), [§7.79 Short Rib Ragù](#779-short-rib-ragù) (Erika Turk — ⚠️ instructions reconstructed from a rotated photo, and the ingredient list is missing a celery quantity the instructions call for), [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) (Mike La Charite), [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) (Steve Baytal — ⚠️ small print, some quantities and the plating description are approximate), [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) (Stefan Boer — ⚠️ heavy uncertainty, photographed sideways with small print; **distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the existing Canal House stovetop version), [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) (Jason Logsdon), [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) (Mike La Charite), [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) (Cole Wagoner, Anova Culinary), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) (Stefan Boer — ⚠️ small print, uses transglutaminase to bind the sliced tentacles into a "sausage"). **[§5.39 Fennel Fondant](#539-fennel-fondant)** (Stefan Boer) joins Vegetables & Sides — ⚠️ the source photo was partly obscured by hand/page angle, so the ingredient list may be incomplete. **[§14.20 Cream Caramel](#1420-cream-caramel)** (Dale Prentice, Sous Vide Australia) joins Desserts — ⚠️ small dense print, the custard's sugar quantity is a best-guess transcription. **Contributors credited individually per the source**, same pattern as this cookbook's *Talk About Good!* attributions. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new boar, short rib, hanger steak, and chicken cuts. None of the 11 print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-08-19 | **New top-level section: [§17 Meats & Cuts (Reference Index)](#17-meats--cuts-reference-index)**, per Cody: *"the cookbook should have a meats section with different cuts and methods of cooking being organized in that way."* Not a recipe — a cross-reference index, organized by protein (Beef, Pork, Poultry, Venison/Game, Veal, Lamb), listing every cut already used anywhere in this cookbook alongside the recipe (or placeholder) that covers it and its cooking method. Built from a full audit of the cookbook rather than guessed at: **13 beef cuts**, from chuck roast and oxtail through flank steak and ground beef; **7 pork cuts**, shoulder through chops; **8 poultry categories**, whole birds through hearts and livers; venison stew meat and ground venison; a veal cross-link; and **lamb flagged honestly as empty** — every "lamb" mention elsewhere in the book turned out to be a pairing suggestion from a source's own text, not an actual lamb recipe here, so that row is left ready rather than padded. Cross-links [§T36 What Meat Actually Is](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) (why the cut determines the method) and [§T44's target temperature table](#t44-food-safety--the-real-logic-and-the-target-temperature-table) (doneness by cut) at the top, and carries its own standing instruction to add a line here whenever a new meat recipe or placeholder is added anywhere else in the cookbook. |
 | 2026-08-19 | **Added [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust)**, sourced from Judy Kim (judykim.nyc) — a food-processor dough built on both butter and shortening, with vodka standing in for some of the ice water since it doesn't develop gluten the way water does. **Distinct from [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)**, the classic hand-laminated method already in this cookbook. **Cody's own modification recorded in place:** thick, coarse sea salt instead of any flaky finishing salt, with room to add a bit more for a saltier crust — the source itself doesn't call for a flaky-salt finish at all, so this is flagged as Cody's preference for whenever this crust gets salted, not a literal swap from the recipe as printed. The source's decorative-pie notes (pie cutters, frozen cutout shapes, skipping blind-baking on a baking steel) are kept as a callout rather than dropped. **Also clarified [§8.1 Chili Mac](#81-chili-mac)'s naming, per Cody:** *"chili can stand alone, but chili mac is its own thing that includes chili"* — the entry's intro now states that distinction directly rather than just asserting the rename. |
 | 2026-08-19 | **A large batch from Cody's recipe/grocery spreadsheet — corrections, discrepancy checks, and new entries, all in one pass.** **Corrections to existing entries:** [§16.1 Hot Apple Cider](#161-hot-apple-cider) was missing its own apple cider — a full gallon (**Musselman's Fresh Pressed** specifically, per Cody, to balance the sweetness) added and the yield/nutrition recalculated from 3 to about 7 quarts; [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) corrected from generic "pork sausage" to **sage sausage**; [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) rescaled 1.5× (8 oz pasta → 12 oz) with bacon bits substituted for sliced bacon, both straight from Cody's own card notes; [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) finally got real quantities and resolved both of its long-standing Open Questions (no amounts given; when the whipping cream goes in) — it also turned out to use **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)**, now cross-linked. **[§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) filled in** from a card whose own title field was left as the template default — content matched this placeholder unmistakably; carries its own warning that cabbage is deliberately never boiled with the beef. **Three cards checked against existing entries and found to already match exactly, so nothing changed:** [§7.15 Pauls Jambalaya](#715-pauls-jambalaya), [§7.16 Red Beans & Rice](#716-red-beans--rice), and [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) — good confirmation that this cookbook's earlier transcriptions of Cody's cards were accurate the first time. **[§8.1 Chili renamed to §8.1 Chili Mac](#81-chili-mac)**, per Cody — noodles are baked into the ingredient list, so it's not a plain chili; all 8 cross-references to the old anchor updated, and [§8.21 Five-Way Chili](#821-five-way-chili)'s standing speculation about whether it was the same dish as §8.1 is now resolved (no — genuinely separate, still undocumented). **Nine brand-new entries:** [§5.35 Cole Slaw](#535-cole-slaw) (mayo-based, distinct from [§5.13](#513-north-carolina-coleslaw)), [§5.36 Lemon Green Beans](#536-lemon-green-beans), [§5.37 Mamma's Spinach](#537-mammas-spinach), [§5.38 Roasted Veggies](#538-roasted-veggies) (a deliberately loose "wing it" formula), [§8.32 Potato Soup](#832-potato-soup), [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew), [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder), [§8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot), [§9.29 Deer Jerky](#929-deer-jerky) (the same seasoning system as [§9.6](#96-beef-jerky), which also resolved §9.6's forming-method Open Question — "squeeze on dehydrator" confirms a jerky gun), [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) (Cody's own French-bread spin, distinct from the round-loaf [§9.22](#922-tailgate-muffuletta-sandwich)), [§9.31 Quesadillas](#931-quesadillas) (kid-friendly, per Cody), and [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) (❤️ — *"flat out rocks with steak"*). **Two placeholders added deliberately incomplete, per Cody's explicit instruction:** [§7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) records only the cut of meat — the marinade-and-broil method on the same card was intentionally left out so Cody's own method can go in later instead — and [§8.36 Chili Dogs](#836-chili-dogs), the other named use for Chili Mac. **Two cards had no cooking directions at all** ([§8.32 Potato Soup](#832-potato-soup), [§9.31 Quesadillas](#931-quesadillas)) and are flagged with the same ⚠️ standard-method treatment established for [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters). TOC, Difficulty & Time Index, and cross-links updated throughout. |
@@ -685,6 +697,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
+| [§7.85 Hanger Steak with Duck Fat Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) | 🟢 | 5 min | 10 min | **4 hr** *(sous vide, unattended)* | 4 hr 15 min |
 | [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) | 🟢 | 15 min | — | **~1 month** *(cures in the jar, unattended)* | ~1 month |
 | [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | 🟡 | 5 min | 10 min | **6–8 hr** *(sous vide, unattended)* | 6 hr 15 min – 8 hr 15 min |
 | [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) | 🟡 | 5 min | 10 min | **1½–4 hr** *(sous vide, unattended)* | 1 hr 45 min – 4 hr 15 min |
@@ -721,6 +734,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | 🟢 | 10 min | 10 min | **48–72 hr** *(sous vide, unattended)* | 48 hr 20 min – 72 hr 20 min |
+| [§14.20 Cream Caramel](#1420-cream-caramel) | 🔴 | 10 min | 10 min | **40 min** *(sous vide)* | ~1 hr active *(plus overnight caramel-dissolve + 4–6 hr chill before serving — not active work)* |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
@@ -762,6 +777,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.77 Sauce Brune aux Fines Herbes](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
 | [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§5.39 Fennel Fondant](#539-fennel-fondant) | 🟢 | 10 min | 15 min | **45 min** *(sous vide, unattended)* | 1 hr 10 min |
+| [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) | 🟡 | 15 min | 10 min | **30 min** *(sous vide, unattended)* | 1 hr 25 min *(includes a 30 min freeze to firm the patties)* |
 | [§15.5 Fancy Biscuits](#155-fancy-biscuits) | 🟢 | 15 min | 10 min | — | 25 min *(per batch baked; dough keeps refrigerated)* |
 | [§15.6 Pastry Biscuits](#156-pastry-biscuits) | 🟢 | 15 min | 12 min | — | 1 hr *(includes an assumed ~30 min chill)* |
 | [§4.22 Mustard Sauce](#422-mustard-sauce) | 🟢 | 5 min | 20 min | — | 25 min |
@@ -778,6 +795,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
 | [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) | 🟡 | 15 min | 15 min | — | 30 min *(+ 30 min–2 hr marinate)* |
+| [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) | 🟢 | 15 min | 15 min | **30 min** *(sous vide, unattended)* | 1 hr |
 | [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
 | [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) | 🔴 | 10 min | 20 min | — | 45 min *(includes cooling over ice)* |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
@@ -795,6 +813,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
+| [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) | 🟢 | 15 min | 20 min | **2–3 hr** *(sous vide, unattended)* | 2 hr 35 min – 3 hr 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
 | [§10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii) | 🔴 | 20 min | 15 min | — | 3 hr 35 min *(includes the printed 3 hr chill)* |
@@ -810,6 +829,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.78 Sauce Brune au Cari (Brown Curry)](#478-sauce-brune-au-cari-brown-curry-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§4.94 Red Chimichurri](#494-red-chimichurri) | 🟡 | 20 min | 20 min | — | 40 min |
+| [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) | 🟡 | 20 min | 20 min | **3 hr** *(sous vide, unattended)* | ~5¾–6¾ hr *(includes an ice bath + 2–3 hr fridge rest before frying — not active work)* |
+| [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 40 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
@@ -895,6 +916,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
+| [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
@@ -933,6 +955,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce) | 🟢 | 15 min | 20 min | **1½–2 hr** *(simmer, skimming)* | 2 hr 20 min |
 | [§4.71 Sauce Brune (Brown Sauce 1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) | 🔴 | 15 min | 20 min | **~2 hr** *(simmer, skimming)* | 2 hr 45 min |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
+| [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) | 🟡 | 30 min | 2 hr 45 min | **24 hr** *(sous vide, unattended)* | ~27 hr |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🔴 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 
 ### Reading this table
@@ -941,11 +964,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§10.0 Frittata](#100-the-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 108 recipes**, including nearly all of §4's now-86 rubs and sauces — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 114 recipes**, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
-**The thirteen 🔴 Hard ones come down to four problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), and now the two French brown sauce bases — [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) — are hard for one reason: **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) for a third: **a butter emulsion that breaks** — Hollandaise can't be rescued at all, and beurre blanc turns oily the moment it's reheated or held too warm, though the source at least gives it a documented fix. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. **Learn the roux once and eight of the thirteen stop being hard** — and the French brown roux is the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
+**The fifteen 🔴 Hard ones come down to five problems.** [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), and now the two French brown sauce bases — [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72 Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) — are hard for one reason: **roux**. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) for a third: **a butter emulsion that breaks** — Hollandaise can't be rescued at all, and beurre blanc turns oily the moment it's reheated or held too warm, though the source at least gives it a documented fix. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. [§14.20 Cream Caramel](#1420-cream-caramel) and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) for a fifth: **a genuinely fail-prone specialty technique** — caramelizing sugar to a rich brown in seconds for the caramel, and binding raw octopus with transglutaminase into a roll that has to set correctly or fall apart on slicing for the carpaccio. **Learn the roux once and eight of the fifteen stop being hard** — and the French brown roux is the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
@@ -12470,6 +12493,75 @@ Put in the oven and roast until tender and lightly browned. *No oven temperature
 
 ---
 
+### 5.39 Fennel Fondant
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (page number not visible in the photo), recipe by **Stefan Boer**, *StefanGourmet.com*.
+
+> **Per the source:** *"After the success of parsnip sous vide fondant, I decided to prepare more vegetables this way. My next experiment was with fennel, and it turned out great. The nice thing about parcooking the fennel sous vide is that the fennel becomes tender but stays firm at the same time, which gives a pleasant bite. You can make a vegetarian version by using vegetable stock instead of chicken stock."*
+
+> ⚠️ **The ingredient list may be incomplete.** The source photo was partly obscured — a finger or the page angle blocked part of the ingredient column — so only three ingredient lines could be confirmed with confidence. If Cody has the physical book, it's worth checking whether anything else belongs on this list.
+
+*Cooks: 185°F (85°C) for 45 minutes • Serves: 4*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** *(browning the fennel and reducing the sauce)* · **Slow cook 45 min** *(sous vide, unattended)* · **Start to finish ~1 hr 10 min**
+
+#### A. Ingredients
+
+- 1 fennel bulb
+- Chicken stock or vegetable stock, simmered down to ¼ of its original volume — about 2 Tbsp per fennel bulb
+- Clarified butter or olive oil, for browning
+
+*⚠️ As transcribed — see the note above on a possibly-incomplete list.*
+
+#### B. Cooking Instructions
+
+**1. Cut the fennel into quarters.**
+Trim the bottom and top off the bulb, then cut it into quarters.
+
+**2. Reduce the stock, then bag it frozen with the fennel.**
+Simmer the stock down to about ¼ of its original volume — roughly 2 Tbsp per bulb — and add a little salt if the stock was unsalted. Vacuum seal the fennel quarters with the stock frozen solid: freezing it first keeps a FoodSaver-type sealer from pulling the liquid out during sealing. *(Skip the freezing step with a chamber vacuum sealer instead — it doesn't have the same problem with liquids.)*
+
+**3. Sous vide at 185°F (85°C) for 45 minutes.**
+Hands-off once it's in the bath. This step gives the fennel its particular texture — tender all the way through, but with a bite still left in it, rather than the soft collapse you'd get from simmering it directly in the stock.
+
+**4. Drain the bag, then pat the fennel dry.**
+Pour the liquid from the bag into a bowl and set it aside — it's the base for the pan sauce in the next step. Pat the fennel thoroughly dry with paper towels; a wet surface won't brown.
+
+**5. Brown the fennel hard in a hot pan.**
+Heat clarified butter or olive oil in a frying pan over high heat and brown the fennel quickly on the cut sides.
+
+**6. Add the reduced stock back in and cook down to a syrup.** ⚠️ *(reasonable reconstruction — the source photo was obscured by a hand at exactly this point in the instructions)*
+Pour the reserved liquid from the bag back into the pan and cook, turning and basting the fennel in it, until the juices reduce to a syrup that coats the pieces.
+
+**7. Serve with the sauce spooned over.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fennel — 1 bulb
+- 🛒 Chicken stock or vegetable stock
+- 🛒 Clarified butter or olive oil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~290 | 24 g | 2 g | 15 g | 6 g |
+| **Per serving** *(serves 4)* | ~70 | 6 g | 0.5 g | 4 g | 1.5 g |
+
+**What a serving is:** one fennel quarter with sauce spooned over — a light vegetable side.
+
+#### D. Open Questions
+
+- **The ingredient list may be incomplete.** The source photo was partly obscured (a finger or the page angle blocked part of the column), so only fennel, stock, and clarified butter/olive oil could be confirmed. Worth checking against the physical book.
+- **The step where the reduced stock goes back into the pan is a reasonable reconstruction, not a certain transcription** — the source photo was obscured by a hand at exactly that point.
+- **Source page number not visible in the photo.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -18792,6 +18884,822 @@ On the bottom half of each bun, place a lettuce leaf, followed by a slice of oni
 ### 7.77 Carne Asada (Flank Steak)
 
 > *Placeholder — cut of meat only, method deliberately not included.* A marinade-and-broil method for flank steak was on the same card as [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) — that salsa is transcribed in full, but **per Cody, the way to cook the meat on that card is not what goes here.** Only the cut — **flank steak** — is recorded as a placeholder, so his own method can be dictated later without an unwanted default already sitting in the entry. Ingredients · Instructions · Grocery list all still to come, from Cody.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.78 Boar Tenderloin with Cherry Chutney
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 86), recipe by **Jason Logsdon**, *Amazing Food Made Easy*, ISVA President.
+
+> **Per the source:** *"Boar behaves very similarly to pork but has a richer, sometimes nutty flavor. I like to prepare it just like pork, cooking it at 140°F (60°C) long enough to cook it through and pasteurize it. Here I serve it with a sweet and spicy cherry chutney that compliments the flavor of the meat really well. It also goes great with any sides you normally like to serve with pork, such as roasted vegetables, casserole, or a salad. This recipe also works very nicely with pork tenderloin."*
+
+*Cooks: 140°F (60°C) for 2 to 3 hours • Serves: 4*
+
+**🟢 Easy** · **Prep ~15 min** *(mixing the spice rub and bagging the boar; dicing the chutney vegetables)* · **Cook ~20 min** *(simmering the chutney, then a quick sear)* · **Slow cook 2–3 hr** *(sous vide, unattended)* · **Start to finish ~2 hr 35 min – 3 hr 35 min**
+
+#### A. Ingredients
+
+**For the Boar Tenderloin**
+
+- 2 lb boar tenderloin (900 g)
+- 1 tsp garlic powder
+- ½ tsp coriander
+- ½ tsp cumin
+- 4 sprigs rosemary
+- Salt and pepper
+
+**For the Cherry Chutney**
+
+- Olive oil
+- ¼ onion, diced
+- 1 cup coarsely diced, pitted cherries (about 15)
+- 2 tsp minced ginger
+- 1 Tbsp balsamic vinegar
+- 2 Tbsp spiced rum
+- ⅛ tsp chili powder, preferably chipotle
+- ¼ tsp allspice
+- ¼ tsp cinnamon
+
+**To Assemble**
+
+- Fresh rosemary, minced
+
+#### B. Cooking Instructions
+
+**1. Season the boar and bag it with rosemary.**
+Preheat a water bath to 140°F (60°C). Mix the garlic powder, coriander, and cumin together in a bowl. Lightly salt and pepper the boar tenderloin, then sprinkle it with the spice mix. Place it in a sous vide pouch with the rosemary sprigs, seal, and set aside for the bath.
+
+**2. Sous vide at 140°F (60°C) for 2 to 3 hours.**
+Fully hands-off — this cooks the boar through and pasteurizes it, the same target as pork.
+
+**3. While it cooks, make the cherry chutney.**
+Heat some olive oil in a pan over medium heat. Add the onion and cook until just starting to brown. Add the cherries and ginger and cook for 5 minutes. Stir in the balsamic vinegar, spiced rum, chili powder, allspice, and cinnamon, and cook until it's thickened to the consistency you want, adding a splash of water if it thickens too fast. Taste and adjust the seasoning. *(The chutney holds in the fridge for several days, so it can be made well ahead.)*
+
+**4. Sear the boar hard, just until it colors.**
+Remove the boar from the bag and dry it off well. Sear it quickly in a hot pan just until color develops — it's already fully cooked, so this is purely for the crust.
+
+**5. Plate and finish.**
+Put the boar tenderloin on a plate, top with the cherry chutney, and sprinkle with minced fresh rosemary before serving.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher / game meat purveyor**
+
+- 🏪 Boar tenderloin — 2 lb *(specialty butcher or an online game-meat purveyor; pork tenderloin substitutes directly, per the source)*
+
+**🛒 General grocery**
+
+- 🛒 Garlic powder, coriander, cumin
+- 🛒 Fresh rosemary — enough for 4 sprigs plus a minced garnish
+- 🛒 Salt and pepper
+- 🛒 Olive oil
+- 🛒 Onion
+- 🛒 Cherries — 1 cup diced, pitted (about 15)
+- 🛒 Fresh ginger
+- 🛒 Balsamic vinegar
+- 🛒 Spiced rum
+- 🛒 Chili powder, preferably chipotle
+- 🛒 Allspice, cinnamon
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,120 | 26 g | 160 g | 52 g | 4 g |
+| **Per serving** *(serves 4)* | ~280 | 6.5 g | 40 g | 13 g | 1 g |
+
+**What a serving is:** a 4–5 oz portion of sliced boar tenderloin with a generous spoonful of cherry chutney.
+
+*Boar tenderloin is lean like pork tenderloin — the estimate above treats it the same way nutritionally, per the source's own note that the two cuts are interchangeable.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.79 Short Rib Ragù
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 47, Beef and Veal section), recipe by **Erika Turk**, *Culinary Pieces* and *The Spice Guild LLC*.
+
+> ⚠️ **This page was photographed sideways.** The instruction order below is reconstructed from a rotated image — a reasonable reading, not a certain transcription. Verify against the physical book if the exact step order matters.
+
+*Cooks: 170°F (76.7°C) for 24 to 30 hours • Serves: 2 to 4*
+
+**🟡 Medium** · **Prep ~15 min** *(seasoning the ribs, trimming and mincing the vegetables)* · **Cook ~55 min** *(searing the ribs in batches, then building and reducing the sauce — stirring frequently throughout)* · **Slow cook 24–30 hr** *(sous vide, unattended)* · **Start to finish ~25–31 hr**
+
+> ⚠️ **Why Medium.** This is a long stovetop sauce that needs real attention — the vegetable mixture, the flour-and-tomato-paste reduction, and the final thickening all call for frequent stirring to avoid scorching or sticking, the same reasoning as [§7.82 Ragù alla Bolognese](#782-ragù-alla-bolognese-sous-vide) below.
+
+#### A. Ingredients
+
+**For the Sous Vide Short Ribs**
+
+- 1 Tbsp beef tallow or bacon oil
+- 4 lb bone-in short ribs (1.8 kg)
+- Salt & pepper, to taste
+- ½ cup dry red wine or beef stock (125 g)
+
+**For the Sauce**
+
+- 4 carrots
+- 1 onion, medium
+- 2 shallots
+- ⚠️ celery *(quantity not printed — see Open Questions)*
+- 2 cloves garlic, finely minced
+- 1 Tbsp all-purpose flour
+- ½ cup tomato paste
+- 2½ cups dry red wine
+- 1 dried bay leaf
+- 5 sprigs fresh thyme
+- 3½ cups beef stock or broth
+- Salt & pepper
+
+**To Finish**
+
+- 1 lb cooked pasta or gnocchi
+- Pecorino romano cheese
+- Fresh basil
+
+#### B. Cooking Instructions
+
+**1. Sear the short ribs in batches, then bag with the reduced wine.**
+Preheat the sous vide bath to 170°F (76.7°C). Heat the tallow or bacon oil in a Dutch oven over medium-high heat. Season the short ribs liberally with salt and pepper. Sear them in stages — don't crowd the pan — just until deeply browned on one side. Set the ribs aside, then add the red wine to the same pot and scrape up the browned bits with a wooden spoon. Bag the ribs with the reduced wine and pan drippings, seal, and set aside for the bath.
+
+**2. Sous vide at 170°F (76.7°C) for 24 to 30 hours.**
+Hands-off once it's in the water.
+
+**3. Shred the cooked ribs.**
+Remove the ribs from the bag, pull the meat off the bones, and shred it. Set the shredded meat aside for the sauce.
+
+**4. Mince the vegetables in a food processor.**
+Combine the carrots, celery, onion, and shallots in a food processor and process until very finely minced.
+
+**5. Cook the vegetable mixture down. 10 to 15 minutes.**
+In a Dutch oven over medium heat, add oil, the processed vegetables, and the garlic. Cook, **stirring frequently**, until the vegetables have softened and reduced.
+
+**6. Add the flour and tomato paste, and reduce by half. 10 to 15 minutes.**
+Stir the flour and tomato paste in until fully combined, then let it cook, stirring frequently, until reduced by half.
+
+**7. Build and thicken the sauce.**
+Add the bay leaf, thyme, red wine, and beef stock, and cook over medium-high heat, stirring frequently, until the sauce thickens and the shredded ribs are fully stirred through. Season to taste with salt and pepper.
+
+**8. Serve over pasta or gnocchi.**
+Top with grated pecorino romano and fresh basil.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Bone-in short ribs — 4 lb
+
+**🛒 General grocery**
+
+- 🛒 Beef tallow or bacon oil
+- 🛒 Carrots — 4
+- 🛒 Onion — 1 medium
+- 🛒 Shallots — 2
+- 🛒 Celery — amount not printed; buy a bunch to be safe (see Open Questions)
+- 🛒 Garlic — 2 cloves
+- 🛒 All-purpose flour
+- 🛒 Tomato paste
+- 🛒 Dry red wine — 3 cups total *(½ cup for the bag, 2½ cups for the sauce)*
+- 🛒 Bay leaf, fresh thyme
+- 🛒 Beef stock or broth — 3½ cups
+- 🛒 Pasta or gnocchi — 1 lb
+- 🛒 Pecorino romano cheese
+- 🛒 Fresh basil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,600 | 190 g | 230 g | 390 g | 20 g |
+| **Per serving** *(serves 4)* | ~1,150 | 48 g | 58 g | 98 g | 5 g |
+
+**What a serving is:** a hearty bowl — about 1 cup of pasta with a generous ladle of shredded short rib ragù and grated pecorino.
+
+*A rich, restaurant-portion number, and honestly so — 4 lb of bone-in short ribs plus a full pound of pasta split 4 ways is a substantial dinner. If splitting between only 2 people (the low end of the source's own "serves 2 to 4"), roughly double the per-serving figures above.*
+
+#### D. Open Questions
+
+- **Celery is missing a quantity.** The instructions call for combining "carrots, celery, onion, and shallots" in the food processor, but celery never appears in the printed Sauce ingredient list. Rather than invent an amount, the grocery list above just flags it — a couple of ribs is the reasonable amount to match the other aromatics.
+- **The instructions were reconstructed from a sideways photo.** The step order above is a reasonable reading, not a certain transcription — verify against the physical book if precision matters.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.80 BBQ Fried Chicken
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 106), recipe by **Mike La Charite**, CEO, International Sous Vide Association.
+
+> **Per the source:** *"You haven't lived until you've eaten sous vide fried chicken! You get perfectly-cooked, juicy chicken paired with a crispy and flavorful crust. The breading recipe is based on ChefSteps' Can't-F***-It-Up Fried Chicken, but I replaced their seasonings with one of my favorite BBQ rubs. This could work with so many different flavors!"*
+
+> **Note, per the source:** *"If you attended the Sous Vide Summit, you enjoyed a Gochujang Glazed Fried Chicken at the Friday reception courtesy of Chef David Pietranczyk. You can use this same recipe for the chicken (except season the flour simply with salt, pepper and garlic), and check out Serious Eats for a great Gochujang glaze recipe."*
+
+*Cooks: 150°F (65.5°C) for 3 hours • Serves: 4*
+
+**🟡 Medium** · **Prep ~20 min** *(seasoning/bagging before the bath; dredging after the chill)* · **Cook ~20 min** *(heating the frying oil, then frying in batches)* · **Slow cook 3 hr** *(sous vide, unattended)* · **Start to finish ~5¾–6¾ hr** *(includes an ice bath + 2–3 hr fridge rest after the sous vide — not active work, see note below)*
+
+> ⚠️ **Why Medium, not Easy.** Deep-frying at a controlled oil temperature is a real failure point — 2 to 4 inches of 400°F oil can splatter, scorch, or overcook the crust fast if you step away, unlike the hands-off sous vide stage before it.
+
+> **The ice bath and fridge rest are lead time, not cook time.** The chicken needs to fully chill before it's dry enough to bread and fry well — that's 2 to 3 hours of doing nothing, not part of the active Prep or Cook numbers above.
+
+#### A. Ingredients
+
+**For the Chicken**
+
+- 3–4 lb chicken pieces, dark meat preferred *(e.g. Frenched chicken drumsticks)*
+- 2 Tbsp kosher salt
+
+**For the Oil**
+
+- 2 quarts canola oil
+
+**For the Breading**
+
+- 6 cups pastry flour *(all-purpose or bread flour work too)*
+- ¾ cup Meat Church Honey Hog BBQ rub
+- 2 cups buttermilk
+
+#### B. Cooking Instructions
+
+**1. Salt the chicken and bag it.**
+Preheat a sous vide bath to 150°F (65.5°C) — or 140°F (60°C) if using white meat. Salt the chicken pieces and seal them in a sous vide bag.
+
+**2. Sous vide until pasteurized, about 3 hours.**
+Submerge and cook. Fully hands-off.
+
+**3. Ice bath, then chill in the fridge at least 2 to 3 hours.**
+Cool the chicken immediately in an ice bath, then transfer it to the refrigerator and let it sit until fully chilled — this is lead time, not active work, but it matters: the chicken needs to be cold and dry-surfaced to bread and fry well.
+
+**4. Heat the frying oil to 400°F.**
+While you build the breading, heat 3 to 4 inches of canola oil (or another neutral frying oil) in a Dutch oven or large pot.
+
+**5. Mix the breading and set up the dredge.**
+Combine the pastry flour and BBQ rub in a bowl and mix well. Pour the buttermilk into a separate bowl or shallow dish.
+
+**6. Double-dredge the chicken.**
+Remove the chicken from the fridge, unbag it, and pat it dry. Dredge each piece in the flour, then the buttermilk, then back in the flour again. *(For a crispier, less crunchy crust, skip the first flour dredge.)*
+
+**7. Fry in batches, 2 to 3 minutes per batch.**
+Once the oil is at temperature, fry the chicken until golden brown — remember, the inside is already fully cooked, so this is purely about the crust. Work in batches; don't crowd the pot.
+
+**8. Drain and serve hot.**
+Move the fried chicken to a wire rack to drain, then serve.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chicken pieces, dark meat preferred — 3–4 lb *(drumsticks work well)*
+- 🛒 Kosher salt
+- 🛒 Canola oil — 2 quarts
+- 🛒 Pastry flour (or all-purpose/bread flour) — 6 cups
+- 🛒 Buttermilk — 2 cups
+
+**🏪 Specific store**
+
+- 🏪 Meat Church Honey Hog BBQ rub — ¾ cup *(specialty spice shop, BBQ supply store, or online)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,040 | 239 g | 302 g | 90 g | 3 g |
+| **Per serving** *(serves 4)* | ~1,010 | 60 g | 75 g | 22 g | 1 g |
+
+**What a serving is:** about 2 to 3 pieces of fried chicken — a quarter of the batch, a hearty fried-chicken dinner.
+
+*Most of the 6 cups of dredging flour and the buttermilk never gets eaten — it's a dredge, not an ingredient that's all consumed — so the estimate above counts only what actually clings to and fries onto the chicken, plus a reasonable amount of oil absorbed during frying.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (page number not clearly legible in the photo — the footer showed only a partial "…08" or similar; see Open Questions), recipe by **Steve Baytal**, *Bayhat Pepper Club*.
+
+> **Per the source:** *"This is not a main course dish but a relatively easy appetizer to make that really steals the show. Because you sous vide the scallops without worrying about precise cook time and 'quick pickle' the veggies, you can focus on achieving the right consistency for your reduction sauce while everything else just hangs out. I purposely designed this dish to look and taste great with minimal effort so you can pull off whatever your main course is. Enjoy!"*
+
+> ⚠️ **Small print, some uncertainty.** The pickling-liquid quantities and the final plating paragraph are transcribed in good faith but aren't fully certain — see Open Questions.
+
+*Cooks: 122°F (52°C) for 30 minutes • Serves: 4, as an appetizer*
+
+**🟢 Easy** · **Prep ~15 min** *(slicing vegetables, mixing the pickle liquid, vacuum sealing the scallops)* · **Cook ~15 min** *(reducing the pomegranate sauce, then a quick sear)* · **Slow cook 30 min** *(sous vide, unattended)* · **Start to finish ~1 hr**
+
+> **Why Easy despite the moving parts:** the source's own text says the timing is forgiving — the scallops can sit past the 30-minute mark with no real quality loss while the reduction finishes, so nothing here has to happen on a tight clock.
+
+#### A. Ingredients
+
+- 12 large dry sea scallops ⚠️ *(quantity as printed — see Open Questions on "per serving" wording)*
+
+**For the Pickled Vegetables**
+
+- ½ cup mirin *(substitute 1 Tbsp sugar if you don't have mirin)*
+- ¼ cup water
+- 2 Tbsp salt
+- ¼ cup rice vinegar
+- 1 cucumber
+- 1 watermelon radish
+
+**For the Pomegranate Reduction**
+
+- 2 cups pomegranate juice
+- ¼ cup red wine, such as Cabernet Sauvignon
+- 1 Tbsp honey
+
+**To Finish**
+
+- 2 Tbsp avocado oil, for searing
+- 1 Tbsp butter
+- Pomegranate seeds and micro greens or radish, for garnish
+
+#### B. Cooking Instructions
+
+**1. Bag and sous vide the scallops at 122°F (52°C) for at least 30 minutes.**
+Vacuum seal the scallops, or bag them in a zip-top bag and use the water-displacement method. Submerge in the bath. *(The source's own point: this doesn't have to be exact — the scallops hold well past 30 minutes if the sauce below needs more time.)*
+
+**2. Quick-pickle the vegetables. No refrigeration needed.**
+Combine the mirin, water, salt, and rice vinegar in a bowl and microwave for 1 minute, until the salt fully dissolves. Slice the cucumber and watermelon radish very thin on a mandolin — slice a few extra pieces so you have your pick for plating. Add them to the pickling liquid and cover the bowl; leave it at room temperature.
+
+**3. Reduce the pomegranate sauce to a syrup.**
+Combine the pomegranate juice, red wine, and honey in a wide pan (more surface area reduces faster) over the highest heat. Let it reduce until it thickens to a syrup. *(This tends to finish around the same time as the scallops — if it runs long, that's fine; see the note above.)* Once it's at the right consistency, drop the heat to low.
+
+**4. Sear the scallops hard, basting in butter.**
+Remove the scallops from the bath and pat them very dry. Heat the avocado oil in a searing pan over the highest heat and sear the scallops about 30 seconds per side, adding the butter partway through and basting. Remove and salt to taste.
+
+**5. Plate with a sauce streak, pickles, and garnish.** ⚠️ *(plating description approximate — see Open Questions)*
+Drag a brush or spoon of the pomegranate reduction across the plate. Arrange the seared scallops along the streak, tuck in folded slices of pickled watermelon radish and curled cucumber, and finish with pomegranate seeds and micro greens.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — seafood counter**
+
+- 🏪 Large dry sea scallops — 12
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Mirin — ½ cup *(or substitute 1 Tbsp sugar)*
+- 🏪 Rice vinegar — ¼ cup
+
+**🛒 General grocery**
+
+- 🛒 Cucumber — 1
+- 🛒 Watermelon radish — 1
+- 🛒 Pomegranate juice — 2 cups
+- 🛒 Red wine (Cabernet Sauvignon or similar) — ¼ cup
+- 🛒 Honey
+- 🛒 Avocado oil
+- 🛒 Butter
+- 🛒 Pomegranate seeds, micro greens or radish, for garnish
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~875 | 23 g | 66 g | 86 g | 3 g |
+| **Per serving** *(serves 4, as an appetizer)* | ~220 | 6 g | 16 g | 21 g | 1 g |
+
+**What a serving is:** 3 seared scallops with pickled vegetables and a pomegranate drizzle — a composed appetizer plate.
+
+*Assumes most of the searing fat and roughly a third of the reduced sauce end up on the plate; the rest stays in the pan.*
+
+#### D. Open Questions
+
+- **Source page number not confirmed.** The footer showed only a partial number ("…08" or similar) — the page couldn't be pinned down with confidence.
+- **"12 large dry sea scallops (per serving)" is transcribed exactly as it appeared, but that reading is odd** given the recipe already states "Serves: 4, as an appetizer." Written up here as 12 scallops total (3 per person) — the standard appetizer portion — rather than 12 per person (48 total), which would be an unusually large amount for an appetizer course. Worth confirming against the physical book.
+- **The pickling-liquid quantities and the final plating paragraph are approximate transcriptions from small print**, not certain ones.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.82 Ragù alla Bolognese (Sous Vide)
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 57, Beef and Veal section), recipe by **Stefan Boer**, *StefanGourmet.com*. **Distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the Canal House stovetop sauce already in this cookbook — that one browns ground chuck and pork directly and simmers 6 to 7 hours on the stove; this one browns whole steaks, cools and grinds the meat, builds the sauce around the drippings, and finishes the whole thing in a 24-hour sous vide bath.
+
+> ⚠️ **HEAVY UNCERTAINTY — read this before relying on the exact steps.** This page was photographed sideways, in small print, and the reconstruction below carries a real risk of transposed or garbled sentences, especially in the wine-reduction and milk-reduction steps. Treat the step order and exact wording as a best-effort reconstruction, and verify against the physical book before relying on it for anything precise.
+
+> **Per the source, approximate:** *"The most famous Italian sauce for pasta is ragù alla bolognese... For this recipe I use traditional ingredients for the ragù, but what I changed is the cooking method, using a large batch and then cooking it sous vide. The ragù freezes very well, so it's a great idea to make a large batch... Defrosting and reheating should of course be done sous vide."*
+
+*Cooks: 165°F (74°C) for 24 hours • Serves: 20 — a large batch, freezes well*
+
+**🟡 Medium** · **Prep ~30 min** *(mincing the pancetta and vegetables; grinding the cooled meat after browning)* · **Cook ~2 hr 45 min** *(10 min browning the meat, 15 min browning the vegetables, 10 min wine reduction, then about an hour each reducing the tomatoes and the milk — stirring regularly throughout)* · **Slow cook 24 hr** *(sous vide, unattended)* · **Start to finish ~27 hr**
+
+> ⚠️ **Why Medium.** The wine and milk reductions each run about an hour on the stove and need real attention — stirred regularly so nothing scorches or sticks — the same reasoning as [§7.79 Short Rib Ragù](#779-short-rib-ragù) above. The 24-hour sous vide stage that follows is completely hands-off.
+
+#### A. Ingredients
+
+⚠️ *Quantities below are transcribed as best legible from a rotated, small-print photo — see Open Questions.*
+
+- Olive oil
+- 1.3 kg (2.9 lb) veal or beef, in steaks
+- 250 g (9 oz) pancetta, minced
+- 250 g (9 oz) carrots, minced
+- 250 g (9 oz) onions, minced
+- 250 g (9 oz) celery, minced
+- 1.5 kg (3.3 lb) canned tomatoes, or tomato purée if not using ripe tomatoes
+- 300 ml (1¼ cups) red or white wine
+- 600 ml (2½ cups) whole milk
+- Freshly grated nutmeg
+- Salt and freshly ground black pepper
+
+**To Finish**
+
+- Cooked pasta, tagliatelle traditionally
+- Fresh parmigiano reggiano cheese
+
+#### B. Cooking Instructions
+
+⚠️ *Reconstructed from a rotated, small-print photo — verify against the physical book if precision matters, especially in the reduction steps.*
+
+**1. Brown the meat, leaving it raw inside, then chill it.**
+Heat a generous amount of olive oil in a large flat pan or Dutch oven. Brown the meat on the outside only, leaving it raw in the middle. Once it's cooled to room temperature, cover it with plastic wrap and refrigerate. Keep whatever drippings are left in the pan — they're flavor for the sauce.
+
+**2. Brown the pancetta and minced vegetables. Until it starts to sizzle.**
+Add the minced celery, carrot, onion, and pancetta to the same pan (more olive oil if needed) and brown over medium-high heat, stirring regularly, until it starts to sizzle — that means most of the moisture has cooked off.
+
+**3. Add the wine and cook it out. About 10 minutes.**
+Add the wine, bring to a boil, and cook, stirring regularly, until most of it has evaporated.
+
+**4. Add the tomatoes and simmer down. About 1 hour.**
+Add the tomatoes, stir, and bring to a boil, then drop to a gentle simmer. Pour in any juices that have leaked from the reserved meat while it chilled. Simmer, stirring occasionally, until it's reduced to the right thickness — this could easily take an hour.
+
+**5. Add the milk and simmer down again. About 1 hour.**
+Stir in the milk, bring back to a simmer over low heat, and cook, stirring regularly, until it's again reduced to the right thickness. Season with salt, pepper, and the grated nutmeg.
+
+**6. Cool the sauce, then grind the reserved meat.**
+Cool the sauce — a sink of ice water speeds this up. While it cools, cut the reserved meat into chunks that fit your grinder's feed tube and grind it all. Once the sauce is at room temperature, stir the ground meat in.
+
+**7. Vacuum seal in portions and sous vide at 165°F (74°C) for 24 hours.**
+Portion into vacuum bags — about 300 g (10.5 oz) of ragù makes 2 servings. *(No chamber sealer? Freeze the portions flat in a zip-top bag first, then vacuum seal once frozen, or use the water-displacement method.)* Cook the whole batch sous vide at once, even if you're only eating part of it now — freeze the rest. Frozen flat portions can go straight from the freezer into a 165°F (74°C) bath and be ready to eat in about an hour.
+
+**8. Finish with pasta and serve.**
+Preheat a pan over low heat and add the contents of one bag of ragù. Taste and adjust the seasoning. Add cooked, drained pasta along with freshly grated parmigiano reggiano (about 25 g / 1 oz per 2 servings) and toss to combine. Serve at once on warm plates, with more parmigiano on top.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher/deli**
+
+- 🏪 Veal or beef steaks — 1.3 kg (2.9 lb)
+- 🏪 Pancetta — 250 g (9 oz)
+
+**🛒 General grocery**
+
+- 🛒 Olive oil
+- 🛒 Carrots, onions, celery — 250 g (9 oz) each
+- 🛒 Canned tomatoes or tomato purée — 1.5 kg (3.3 lb)
+- 🛒 Red or white wine — 300 ml (1¼ cups)
+- 🛒 Whole milk — 600 ml (2½ cups)
+- 🛒 Whole nutmeg
+- 🛒 Salt and pepper
+- 🛒 Pasta, tagliatelle traditionally
+- 🛒 Fresh parmigiano reggiano
+
+#### Nutrition *(estimated, whole batch as a large-batch sauce — figures include the pasta it's tossed with per serving)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(sauce + pasta, 20 servings)* | ~12,000 | 520 g | 645 g | 945 g | 61 g |
+| **Per serving** *(serves 20)* | ~600 | 26 g | 32 g | 47 g | 3 g |
+
+**What a serving is:** about 1 cup of pasta tossed with roughly ½ cup of ragù and grated parmigiano — a standard pasta dinner serving.
+
+#### D. Open Questions
+
+- **This entire entry carries heavy transcription uncertainty.** The source page was photographed sideways with small print, and both reduction steps (wine, then milk) are the parts most at risk of a transposed or garbled reading. Verify against the physical book before treating the exact wording or step order as certain.
+- **Ingredient quantities are transcribed as best legible** and should be treated the same way — a good-faith reading, not a certain one.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.83 Short Rib Korean-Style Lettuce Wraps
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 34), recipe by **Jason Logsdon**, *Amazing Food Made Easy*, ISVA President.
+
+> **Per the source:** *"I love to serve sous vide short ribs in the Korean BBQ style with lettuce wraps, kimchi, and pickled vegetables. It's a light meal that fills you up but doesn't leave you feeling sluggish afterwards... Sous vide short ribs are a classic 'must make' sous vide dish. Due to the high fat content they can be cooked anywhere from 131°F to 185°F (55°C to 85°C) for 12 hours to 3 days, and the final dish will greatly depend on the time and temperature you use... For this recipe we want a tender, medium-rare steak-like texture, so the short ribs are cooked at 131°F (55°C) for 48 to 72 hours."*
+
+*Cooks: 131°F (55°C) for 48 to 72 hours • Serves: 4*
+
+**🟢 Easy** · **Prep ~10 min** *(mixing the spice rub and coating the ribs)* · **Cook ~10 min** *(searing the meat and slicing it into strips)* · **Slow cook 48–72 hr** *(sous vide, unattended)* · **Start to finish ~48 hr 20 min – 72 hr 20 min**
+
+#### A. Ingredients
+
+**For the Short Ribs**
+
+- 1 tsp salt
+- 1 tsp garlic powder
+- ½ tsp ginger powder
+- ½ tsp ancho chili powder
+- ¼ tsp chipotle chili powder
+- ¼ tsp black pepper
+- 2 lb short ribs (900 g)
+
+**To Assemble**
+
+- Leafy lettuce, such as bibb or romaine
+- Kimchi
+- Pickled cucumbers
+- Assorted vegetables
+- Gochujang or other hot sauce
+
+#### B. Cooking Instructions
+
+**1. Mix the spice rub and coat the ribs.**
+Preheat a water bath to 131°F (55°C). Combine all the spices in a bowl. Lightly coat the short ribs all over with the mix, then place them in a sous vide bag, seal, and set aside for the bath.
+
+**2. Sous vide at 131°F (55°C) for 48 to 72 hours.**
+Fully hands-off — this long, low hold at 131°F is what gives the ribs a tender, steak-like, medium-rare texture rather than a fall-apart braise.
+
+**3. Sear, slice, and serve family style.**
+Remove the ribs from the bag and dry the meat well. Sear quickly to build color, then slice into strips. Put everything out family style — lettuce, kimchi, pickled cucumbers, assorted vegetables, and gochujang or other hot sauce — and let everyone build their own wraps.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Short ribs — 2 lb (900 g)
+
+**🛒 General grocery**
+
+- 🛒 Salt, garlic powder, ginger powder, ancho and chipotle chili powder, black pepper
+- 🛒 Leafy lettuce (bibb or romaine)
+- 🛒 Assorted vegetables, for the wraps
+
+**🏪 Specific store — Asian market**
+
+- 🏪 Kimchi
+- 🏪 Pickled cucumbers
+- 🏪 Gochujang or other hot sauce
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,900 | 145 g | 135 g | 30 g | 3 g |
+| **Per serving** *(serves 4)* | ~475 | 36 g | 34 g | 7 g | 1 g |
+
+**What a serving is:** a handful of lettuce wraps — about 4 oz of sliced short rib with kimchi, pickles, and sauce, filling 4 to 5 lettuce cups.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.84 Rockfish Burger with Key Lime Aioli
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 124), recipe by **Mike La Charite**, CEO, International Sous Vide Association.
+
+*Cooks: 130°F (55°C) for 30 minutes • Serves: 2*
+
+**🟡 Medium** · **Prep ~15 min** *(chopping and processing the fish, forming the patties)* · **Cook ~10 min** *(blending the aioli, searing the patties)* · **Slow cook 30 min** *(sous vide, unattended)* · **Start to finish ~1 hr 25 min** *(includes a 30 min freeze to firm the patties before bagging)*
+
+> ⚠️ **Why Medium, not Easy.** The aioli is an immersion-blender emulsion, and the source's own instructions warn to "be careful not to shoot aioli out of the cup" — it's a build that can go wrong (or make a mess) if the oil goes in the wrong way or the blender is worked too aggressively.
+
+#### A. Ingredients
+
+**For the Rockfish Burger**
+
+- 1 lb rockfish (striped bass) fillets, skin removed (450 g)
+- 1½ tsp Dijon mustard
+- 2 Tbsp fresh dill
+- 1 Tbsp key lime zest (about 5 key limes)
+- Salt, white pepper, and garlic powder, to taste
+
+**For the Key Lime Aioli**
+
+- 1 large egg
+- 1 tsp Dijon mustard
+- 2 medium cloves garlic, minced
+- 2 Tbsp key lime juice
+- 2 tsp key lime zest
+- 1 cup vegetable or canola oil
+- Kosher salt and ground white pepper, to taste
+
+**To Finish**
+
+- Brioche rolls, toasted if desired
+- Key Lime Aioli
+- Baby arugula
+- Heirloom tomato slices (optional)
+
+#### B. Cooking Instructions
+
+**1. Process the fish into a paste, then fold in the rest.**
+Preheat your water bath to 130°F (55°C). Rough-chop the fish into 1-inch cubes (25 mm). Process about ¼ of the fish with the Dijon mustard into a paste — this is what holds the burger together. Add the remaining ingredients and pulse just until combined; you want the fish to stay chunky, not turn to purée.
+
+**2. Form patties and freeze 30 minutes to firm.**
+Divide the mixture in two and shape into patties about 1 to 1¼ inches thick. Wrap in plastic wrap and freeze for 30 minutes, or until firm enough to hold their shape under vacuum.
+
+**3. Bag and sous vide at 130°F (55°C) for 30 minutes.**
+Unwrap the patties, place in a sous vide bag, and vacuum seal. Submerge fully and cook.
+
+**4. Make the aioli while the burgers cook.**
+Combine all the aioli ingredients in a measuring cup just wide enough to fit an immersion blender — make sure the oil goes in last. Insert the blender, rest it on the bottom of the cup, and blend until a thick emulsion forms, moving the blender up and down as needed to bring in all the oil. **Be careful not to shoot aioli out of the cup.** *(Keeps refrigerated 2 to 3 days in an airtight container.)*
+
+**5. Sear the patties hard, 30 to 45 seconds per side.**
+Preheat a grill or cast iron pan as hot as it will go. Remove the patty from the bag and dry it well — wipe off any white albumin foam on the surface first. Sear on each side until golden brown.
+
+**6. Build the burger and serve.**
+Spread a thin layer of aioli on both cut sides of the bun. Arugula on the bottom, then the patty, an optional slice of heirloom tomato, and the top bun.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — seafood counter**
+
+- 🏪 Rockfish (striped bass) fillets, skin removed — 1 lb
+
+**🛒 General grocery**
+
+- 🛒 Dijon mustard
+- 🛒 Fresh dill
+- 🛒 Key limes — about 7 total, for zest and juice
+- 🛒 Salt, white pepper, garlic powder
+- 🛒 Egg — 1 large
+- 🛒 Garlic — 2 cloves
+- 🛒 Vegetable or canola oil — 1 cup
+- 🛒 Brioche rolls — 2
+- 🛒 Baby arugula
+- 🛒 Heirloom tomato (optional)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,160 | 54 g | 97 g | 65 g | 3 g |
+| **Per serving** *(serves 2)* | ~580 | 27 g | 49 g | 33 g | 1.5 g |
+
+**What a serving is:** one full burger — a 6 to 8 oz fish patty on a brioche bun with aioli, arugula, and tomato.
+
+*The aioli recipe makes far more than one burger needs — figures above count only a thin spread's worth per bun, not the full batch, since the rest keeps in the fridge for other uses.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.85 Hanger Steak with Duck Fat Wild Mushrooms
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (page number not given in the transcription), recipe by **Cole Wagoner**, *Anova Culinary*.
+
+> **Per the source:** *"A hanger steak, also known as butcher's steak, is a cut of beef that packs wicked flavor and is super tender. If your butcher can track this down, you're in for a top-notch sous vide treat. We take some tasty duck fat and sous vide the steak in it, then sear in duck fat for a rich finish. Paired with wild mushrooms, it makes for a wickedly delicious dish."*
+
+*Cooks: 129°F (53.8°C) for 4 hours • Serves: 2*
+
+**🟢 Easy** · **Prep ~5 min** *(seasoning the steak)* · **Cook ~10 min** *(searing the steak, then sautéing the mushrooms)* · **Slow cook 4 hr** *(sous vide, unattended)* · **Start to finish ~4 hr 15 min**
+
+#### A. Ingredients
+
+**For the Steak**
+
+- 1 hanger steak, 14–16 oz (397–454 g)
+- 3 Tbsp duck fat
+
+**To Finish**
+
+- 1 lb wild mushrooms of your choice (450 g)
+- 2 Tbsp duck fat
+- ¼ cup chopped fresh basil, to finish
+- Kosher salt
+
+#### B. Cooking Instructions
+
+**1. Bag the steak with duck fat and sous vide at 129°F (53.8°C) for 4 hours.**
+Set your sous vide precision cooker to 129°F (53.8°C). Season the steak with salt. Place it in a resealable bag or vacuum bag with the 3 Tbsp of duck fat. Submerge and cook. Fully hands-off.
+
+**2. Sear the steak hard in smoking duck fat.**
+Heat a heavy skillet (cast iron is ideal) over high heat and add 2 Tbsp duck fat. Remove the steak from the bath and bag, and pat it dry. Add it to the smoking-hot fat and sear 1 minute per side, basting with the fat as you go.
+
+**3. Sauté the mushrooms in the same pan.**
+Remove the steak, add the mushrooms to the same pan, and sauté 4 to 5 minutes, until golden and cooked through.
+
+**4. Plate and finish with basil.**
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Hanger steak — 14–16 oz *("if your butcher can track this down," per the source)*
+
+**🏪 Specific store — gourmet/specialty grocery**
+
+- 🏪 Duck fat — 5 Tbsp total *(3 Tbsp for the bag, 2 Tbsp for searing)*
+
+**🛒 General grocery**
+
+- 🛒 Wild mushrooms of choice — 1 lb
+- 🛒 Fresh basil
+- 🛒 Kosher salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,275 | 99 g | 75 g | 15 g | 6 g |
+| **Per serving** *(serves 2)* | ~640 | 50 g | 38 g | 7.5 g | 3 g |
+
+**What a serving is:** half the steak (about 7 oz) with a generous pile of sautéed wild mushrooms.
+
+*Most of the duck fat used for searing stays in the pan rather than on the plate — the estimate counts only what the steak and mushrooms actually absorb.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.86 Carpaccio of Sous Vide Octopus
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 127, Fish and Seafood section), recipe by **Stefan Boer**, *StefanGourmet.com*.
+
+> ⚠️ **Small, dense print — some of the middle instructions (the transglutaminase and forming steps) are approximate.** Read this entry with that in mind, and verify against the physical book if you're relying on it for the compression-forming technique specifically.
+
+*Cooks: 175°F (79°C) for 5 to 7 hours • Serves: 4, as an appetizer*
+
+**🔴 Hard** · **Prep ~35 min** *(chopping aromatics and vacuum sealing before the bath; draining, coating with transglutaminase, packing, and compressing after)* · **Cook none** · **Slow cook 5–7 hr** *(sous vide, unattended)* · **Start to finish ~10–12 hr** *(includes at least 4 hr fridge firming before slicing)*
+
+> ⚠️ **Why Hard.** This uses transglutaminase ("meat glue") to bind the sliced octopus tentacles into a solid roll — a genuinely fail-prone specialty technique, not a normal kitchen step. The compression-forming stage has to set correctly, or the roll falls apart when you try to slice it.
+
+#### A. Ingredients
+
+**For the Octopus**
+
+- 2 kg (4.4 lb) octopus
+- 1 onion
+- 2 celery stalks
+- 1 bay leaf
+- 4 juniper berries
+- 6 black peppercorns
+- Salt
+- Transglutaminase (optional, but needed for the sliceable "sausage" form)
+
+**For the Dressing**
+
+- 1 lemon
+- Extra virgin olive oil
+- Fresh flat-leaf parsley
+- Salt
+- Garlic, minced (optional)
+
+**For Serving**
+
+- Tomatoes (optional)
+
+#### B. Cooking Instructions
+
+**1. Bag the octopus with aromatics and sous vide at 175°F (79°C) for 5 to 7 hours.**
+Roughly chop the onion, celery, and bay leaf. Cut the tentacles off the octopus, keeping them whole. Vacuum seal the tentacles with the onion, celery, bay leaf, juniper berries, peppercorns, and salt. ⚠️ *The octopus releases a lot of liquid during cooking, which can make it hard to seal with a FoodSaver-type sealer — a chamber vacuum sealer handles this better.* Submerge and cook. The octopus will release a lot more liquid in the bag as it cooks — that's normal, not a leak.
+
+**2. Drain, then coat the octopus with transglutaminase.**
+Drain the octopus and discard the aromatics. Weigh the octopus and calculate 2% of its weight in transglutaminase. Toss the octopus in the powder until every surface is evenly coated. *(Clean anything the transglutaminase touched promptly — it's a food-safety-sensitive ingredient.)*
+
+**3. Pack and compress the octopus into a "sausage."** ⚠️ *(approximate — small, dense print)*
+Cut the top off a plastic water bottle (at least 1 liter / 1 quart). Pack the coated tentacles in vertically, as tightly as possible, to form a short, dense cylinder. Press down firmly with something heavy that fits inside the bottle (the source used a bottle of olive oil) to compress it. Make cuts in the plastic around the octopus, about ½ inch (1 cm) apart, then fold the resulting strips toward the center to close the bottle tightly. Wrap the whole thing in plastic wrap.
+
+**4. Refrigerate at least 4 hours to firm.**
+This isn't optional — the transglutaminase needs time and cold to actually bind the pieces into a sliceable form.
+
+**5. Cut away the bottle and slice thin.**
+Cut away most of the bottle, leaving just the bottom as a handy base to hold while slicing. Slice the octopus "sausage" thin — a slicing machine makes this much easier if you have one.
+
+**6. Make the dressing and serve.**
+Whisk together olive oil, chopped parsley, lemon juice, and salt, with minced garlic if you want it. Serve the sliced octopus with the dressing and a lemon slice. *(The source notes having a similar dish in Liguria, Italy, served with chopped raw tomatoes — a nice optional addition.)*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — seafood counter (or an Asian/Hong Kong market, which often carries whole octopus affordably)**
+
+- 🏪 Octopus — 2 kg (4.4 lb)
+
+**🏪 Specific store — specialty/online**
+
+- 🏪 Transglutaminase — enough for 2% of the cooked octopus's weight *(specialty ingredient supplier, e.g. Modernist Pantry — online is often the easiest source)*
+
+**🛒 General grocery**
+
+- 🛒 Onion, celery, bay leaf
+- 🛒 Juniper berries, black peppercorns
+- 🛒 Salt
+- 🛒 Lemon
+- 🛒 Extra virgin olive oil
+- 🛒 Fresh flat-leaf parsley
+- 🛒 Garlic (optional)
+- 🛒 Tomatoes (optional, for serving)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,560 | 53 g | 216 g | 3 g | 0.5 g |
+| **Per serving** *(serves 4, as an appetizer)* | ~390 | 13 g | 54 g | 1 g | 0 g |
+
+**What a serving is:** about 6 to 7 thin slices of octopus carpaccio with dressing and a lemon slice — a substantial seafood appetizer.
+
+*A 2 kg whole octopus loses a lot of its raw weight to cooking, discarded aromatics, and using only the tentacles — the estimate assumes roughly 800 g of cooked, compressed octopus makes it into the finished "sausage" and onto the four plates.*
+
+#### D. Open Questions
+
+- **The transglutaminase-coating and compression-forming steps are transcribed from small, dense print and are approximate**, not certain. If the compression step doesn't hold together correctly, the octopus won't slice cleanly — worth reviewing the physical book before attempting this for the first time.
+- **Source page confirmed as p. 127, in the Fish and Seafood section.**
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -25687,6 +26595,94 @@ The dough freezes well-wrapped for up to 3 months. Save scraps by cutting them i
 
 ---
 
+### 14.20 Cream Caramel
+
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 123, Desserts section), recipe by **Dale Prentice**, *Sous Vide Australia*.
+
+> **Per the source:** *"Cream caramels are one of the great classic desserts, lightly set custard infused with golden caramel sauce. By cooking them in the sous vide your custard will set perfectly every time."* **Note, per the source:** *"I make this 1 day in advance to allow the caramel to dissolve into sauce."*
+
+> ⚠️ **Small, dense print — this transcription is a good-faith best reading, not a certain one.** The custard's sugar quantity in particular (given below as ~87 grams) looked like it might be a metric-conversion artifact in the photo. Verify against the physical book if precision matters here.
+
+*Cooks: 176°F (80°C) for 40 minutes • Serves: 4*
+
+**🔴 Hard** · **Prep ~10 min** · **Cook ~10 min** *(caramelizing the sugar — the step that earns the Hard rating)* · **Slow cook 40 min** *(sous vide)* · **Start to finish ~1 hr active** *(plus an overnight caramel-dissolve and a 4–6 hr chill before serving — not active work, see lead time note)*
+
+> ⚠️ **Why Hard, not Easy.** This is the same "perfect to burnt in under a minute" risk [CLAUDE.md](CLAUDE.md) calls out for a roux: caramelizing sugar goes from a rich amber to acrid black fast, and once it's dark you can't walk it back. Watch it, don't multitask through this step.
+
+> **Lead time, not cook time:** the source deliberately makes this a day ahead so the caramel has time to dissolve into sauce, plus a 4–6 hr chill after the sous vide before it's firm enough to unmold. Neither is active work, so neither is counted in Prep, Cook, or Slow cook above — but plan for it.
+
+#### A. Ingredients
+
+**For the Caramel Sauce**
+
+- ¾ cup caster sugar
+- 1 Tbsp water
+- 1 Tbsp brandy or rum
+
+**For the Custard**
+
+- ¾ cup milk (150 ml)
+- ¾ cup cream (150 ml)
+- 3 eggs
+- ~87 g sugar ⚠️ *(as best read from small, dense print — verify against the physical book)*
+
+#### B. Cooking Instructions
+
+**1. Caramelize the sugar. Watch it the whole time.**
+In a small pot (copper if you have one), heat the sugar and water over medium heat, stirring gently until the sugar dissolves. Once it's dissolved, stop stirring and let it cook to a rich brown caramel — don't walk away here; this is the step that can go from perfect to burnt in moments.
+
+**2. Off the heat, add the brandy carefully — it will splutter.**
+Remove the pot from the heat the moment you have a good color and carefully add the brandy or rum. If the caramel is still darkening after that, dip the bottom of the pot in cold water for a second to stop the cooking.
+
+**3. Pour the caramel into the moulds.**
+Divide it evenly among 4 stainless steel or ¾-cup (120 ml) dessert moulds, tilting each one to coat the bottom completely.
+
+**4. Warm the milk and cream, then whisk the custard together.**
+Microwave the milk and cream together for one minute to take the chill off. In a separate bowl, whisk the sugar and eggs together, then whisk in the warmed milk and cream.
+
+**5. Strain, then divide the custard into the caramel-lined moulds.**
+Pass the mixture through a fine sieve for a smooth set, then pour it evenly over the caramel in each mould.
+
+**6. Cover each mould and sous vide at 176°F (80°C) for 40 minutes.**
+Cover each mould with a piece of cling film, held in place with a rubber band. Set them on a rack in the preheated water bath so the water comes ¾ of the way up the sides. Fully hands-off for the 40 minutes.
+
+**7. Discard the cling film, then chill for at least 4 to 6 hours.**
+Remove the moulds from the bath and take off the cling film. Refrigerate for at least 4 to 6 hours, until the caramel has turned back to liquid — that's what gives you the extra sauce at serving time.
+
+**8. Unmold and serve.**
+Slide a small knife between the caramel and the mould to loosen it. Invert onto a serving plate and let the custard slide out slowly, lifting the mould off gently so the caramel sauce runs out over the top.
+
+> **Variation, per the source:** add vanilla seeds to the milk before whisking it into the eggs, or warm the milk and cream with a cinnamon stick on the stove and let it infuse for a few minutes first.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Caster sugar — ¾ cup, for the caramel
+- 🛒 Brandy or rum — 1 Tbsp
+- 🛒 Milk — ¾ cup
+- 🛒 Cream — ¾ cup
+- 🛒 Eggs — 3
+- 🛒 Sugar — ~87 g, for the custard ⚠️ *(quantity approximate — see note above)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,825 | 76 g | 27 g | 244 g | 0 g |
+| **Per serving** *(serves 4)* | ~455 | 19 g | 7 g | 61 g | 0 g |
+
+**What a serving is:** one full mould — about ¾ cup of custard with its caramel sauce, a standard individual crème caramel.
+
+#### D. Open Questions
+
+- **The custard's sugar quantity (~87 g) is a best-guess reading of small, dense print** — it looked like it might be a metric-conversion artifact. Verify against the physical book before treating it as exact.
+- **Several other instruction details came from the same dense print** and are transcribed in good faith rather than with full certainty — see the ⚠️ note at the top of the entry.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 15. Breads
 
 A new top-level section — numbered 15 and appended at the end, the same reasoning as [§14 Desserts](#14-desserts): inserting it earlier would renumber existing sections and break their links.
@@ -26319,8 +27315,10 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Ribeye, bone-in** — [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) *(grilled)*
 - **Sirloin** — [§7.68](#768-peruvian-beef-kebabs-anticuchos)/[§7.70](#770-russian-shashlik)/[§7.71](#771-fiery-stick-meat-suyas)/[§7.73](#773-bani-marine-street-beef-kebabs)/[§7.75](#775-lettuce-bundles-with-grilled-beef) kebabs *(all grilled)*
 - **Ground beef** — [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) *(grilled)* · [§9.6 Beef Jerky](#96-beef-jerky) *(dehydrated)* · [§8.1 Chili Mac](#81-chili-mac) *(browned, then slow-cooked)*
-- **Short ribs** — [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) *(simmered)*
+- **Short ribs** — [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) *(simmered)* · [§7.79 Short Rib Ragù](#779-short-rib-ragù) *(bone-in, sous vide 24–30 hr then shredded into a stovetop sauce)* · [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) *(sous vide 48–72 hr to a medium-rare, steak-like texture, then seared)*
+- **Hanger steak** — [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) *(sous vide in duck fat, then seared)*
 - **Stew meat (beef or venison)** — [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) *(braised/simmered)*
+- **Veal or beef steaks, ground after cooking** — [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) *(browned whole, cooled, ground, built into a sauce, then finished sous vide 24 hr)*
 - **Prime rib** — drippings only, in [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill); no prime rib recipe of its own yet
 
 ### Pork
@@ -26333,10 +27331,14 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Baby back / spare ribs** — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) *(indirect-grilled)*
 - **Ribs, cut unspecified** — [§6.5 Smoked Ribs](#65-smoked-ribs) *(placeholder, smoked)*
 
+### Boar
+
+- **Boar tenderloin** — [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) *(sous vide 140°F, then seared — the source treats boar as behaving just like pork)*
+
 ### Poultry
 
 - **Whole chicken/hen** — [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) *(placeholder, smoked)* · [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) *(fried)* · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) *(roasted)* · [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(roasted/braised)* · [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) *(simmered)*
-- **Chicken thighs** — [§7.5 Chicken Thighs](#75-chicken-thighs) *(placeholder)* · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) *(pan-fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(thigh variant noted)* · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) *(simmered)*
+- **Chicken thighs / drumsticks** — [§7.5 Chicken Thighs](#75-chicken-thighs) *(placeholder)* · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) *(pan-fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(thigh variant noted)* · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) *(simmered)* · [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) *(dark meat/drumsticks preferred — sous vide 150°F, then double-dredged and fried)*
 - **Chicken breasts** — [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), [§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) *(grilled)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(grilled)* · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip), [§9.7 Chicken Salad](#97-chicken-salad)
 - **Chicken wings** — [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) *(placeholder)*
 - **Chicken hearts / livers** — [§7.6 Chicken Hearts](#76-chicken-hearts), [§7.7 Chicken Livers](#77-chicken-livers) *(both placeholders)*

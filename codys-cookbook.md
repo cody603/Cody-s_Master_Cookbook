@@ -473,6 +473,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Correction to the same-day Meathead batch below — the salt increase landed on the wrong recipes.** Cody's actual instruction was that *brining* needs heavier salt than the book recommends; the earlier pass this morning misread that as a blanket instruction and bumped salt (or added it where the book had none) across all 27 of the batch's rubs and sauces, [§4.105](#4105-dalmatian-rub)–[§4.116](#4116-butcher-block-seasoning) and [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), each carrying a "Cody's Note" claiming the increase was a standing house preference. **Per Cody's explicit correction — *"I'm not asking you to salt the meathead rubs, I'm just saying the brining process needs heavier salt... this is in regards to meathead rubs only"*** — all 27 are reverted to the book's printed salt amounts: back to the original quantity where the book printed some salt ([§4.105](#4105-dalmatian-rub), [§4.113](#4113-citrus-salt-and-pepper), [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce), [§4.125](#4125-chocolate-chile-barbecue-sauce)–[§4.128](#4128-burger-glop), [§4.130](#4130-chimichurri-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)); the added salt line removed entirely where the book printed none ([§4.106](#4106-big-bad-beef-rub)–[§4.112](#4112-cajun-seasoning), [§4.114](#4114-cowboy-java-rub), [§4.121](#4121-texas-mop-sauce)–[§4.123](#4123-dc-mumbo-sauce)); and restored to the book's own "to taste"/"optional" phrasing rather than a forced quantity for [§4.124 Tartar Sauce](#4124-tartar-sauce) and [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce). [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning)'s salt note updated to match [§4.113](#4113-citrus-salt-and-pepper)'s reverted amount. **[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s "No Salt in Rubs" entry corrected to match** — it no longer claims this cookbook overrides the book's no-salt-in-rubs argument; that argument stands as printed, and Cody's heavier-salt preference is now correctly scoped to brining only. **The actual heavier-salt request went where it belonged instead: [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity)**, which the same earlier pass had left at the book's printed 6.3% on the theory that a calibrated salinity shouldn't be touched — salinity increased to about 9.5% (roughly 1.5×, still inside [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range), with the salt-per-gallon figure recalculated from ½ lb to ¾ lb and a new Cody's Note explaining the change. **[§4.101 Basic Brinerade](#4101-basic-brinerade) and [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the brine injections were already correct** — their earlier ~1.5× bumps are genuinely what Cody asked for and are left as-is. **Nutrition blocks are unaffected** — this cookbook's Nutrition tables track calories/fat/protein/carbs/fiber only, no sodium line, so none needed recalculating for a salt-only change. **A new bolded callout added to all eight now-salt-free rubs in this batch** — [§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub), [§4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust), [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub), [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub), [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub), [§4.112 Cajun Seasoning](#4112-cajun-seasoning), and [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) — warning that the meat needs a brine, preferably a dry brine, before the rub goes on or the dish will taste bland; per Cody's request. |
 | 2026-09-05 | **Second batch today: Meathead Goldwyn's "Brines, Rubs, and Sauces" chapter, plus more of "Software" and "Hardware" — condensed techniques and 33 full rub/brine/sauce recipes, all with salt increased per Cody's standing preference.** **Eight new condensed technique entries, [§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)**, continuing the T33–T45 style: freezing/reheating leftovers (sous vide reheat is the best method, per [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method)'s own equipment); cooking vegetables and fruits, including reverse-searing dense ones the same way [§T41](#t41-reverse-sear--two-stage-cooking) reverse-sears meat; basting and spritzing, plus the real explanation for salmon's white ooze (albumin, not myowater — a genuinely different phenomenon from [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)'s myowater-not-blood myth-bust); the "lookin' ain't cookin'" lid myth, busted as wildly overstated for a quick peek but real for extended lid-open time; saucing strategy (when to add a sweet sauce so it doesn't scorch, plus sauce food-safety and storage); cooking more than one large cut at once (thickness still governs per [§T42](#t42-what-controls-cooking-time), crowding and airflow are the real risk); water pans and drip pans from the "Hardware" chapter; and the science of a good rub — the Three S's (sugar, savory, spicy), plus the book's own **"No Salt in Rubs"** argument, which turns out to be the same idea as this cookbook's existing [§T37 double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) — already this cookbook's standing practice, just now with the book's own four stated reasons attached. **33 new full recipes, [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)**, landing in §4 rather than the still-placeholder [§13 Meathead Cookbook](#13-meathead-cookbook) per Cody's explicit instruction: **three wet-brine/injection recipes** ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) Simple Blonder Wet Brine, [§4.101](#4101-basic-brinerade) Basic Brinerade, [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the chicken/turkey, pork, and beef/venison injection brines); **twelve rubs and dry seasonings** ([§4.105](#4105-dalmatian-rub) Dalmatian Rub through [§4.116](#4116-butcher-block-seasoning) Butcher Block Seasoning, including [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder) Smoked Garlic/Onion Powder — genuinely Slow Cook, smoker plus dehydrator); and **eighteen sauces, mops, and condiments** ([§4.117](#4117-kansas-city-classic-barbecue-sauce) Kansas City Classic Barbecue Sauce through [§4.132](#4132-roasted-red-pepper-and-garlic-coulis) Roasted Red Pepper and Garlic Coulis), including [§4.127](#4127-cascabel-mole-inspired-by-chef-rick-bayless) Cascabel Mole — rated 🟡 Medium, the only non-Easy entry in the batch, for its real chile/nut/seed scorch risk. **Every rub, brine, and sauce in the batch got Cody's standing salt increase** — roughly 1.5–2× wherever the book already printed some salt, or a new 1 tsp–1 Tbsp addition (scaled to batch size) wherever the book printed none at all, per its own "No Salt in Rubs" philosophy — with each recipe individually flagging its specific printed-vs-changed amount and a note that these are adjustable starting points, not fixed numbers. **Two deliberate exceptions, both flagged in place:** [§4.100 the Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) keeps its calibrated 6.3% salinity as printed rather than getting stronger (that percentage *is* the method), and the three brine-injection recipes ([§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection)) got a lighter 1.5× bump rather than 2×, since injected salt reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit. **Two gaps in the source scan, flagged rather than guessed past:** the book's printed pages 174–175 (the title and first ingredients of [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce)) and pages 182–183 (all of Alabama White Sauce's actual ingredient list, and the very end of the Japanese Happy Mouth Yakitori Sauce headnote, whose own ingredient box falls on the still-uncaptured page 192) weren't in the photographed set — both recipes' titles and context are noted, but neither was added with invented quantities. A teriyaki/huli-huli marinade on the book's page 184 was also left out as out of scope — it's built to accompany a specific chicken recipe this cookbook hasn't documented yet, not a standalone condiment. **Cross-references added throughout** to this cookbook's existing similar-themed entries — the three other Carolina-style vinegar sauces, the existing Carolina Mustard Barbecue Sauce, two existing barbecue mop sauces, the existing Cajun Rub, three existing chimichurris, and the existing simpler Pesto — following the same "(distinct from §X — see comparison)" convention this cookbook already uses for its other multi-source duplicates. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record where the actual recipes landed. TOC and Difficulty & Time Index updated throughout — **32 of the 33 new recipes are 🟢 Easy**, mostly 2–20 minutes of prep with little or no real cooking, so most sort near the top of the Difficulty & Time Index. **⚠️ Flag for a future pass:** the "Reading this table" and "Reading this index" narrative sections below (§4's rub/sauce count, the "30 minutes or less" tally, hard-recipe counts) predate this batch and haven't been recomputed against the new totals — the counts there are now stale by roughly 33 recipes and should get a fresh pass next time anyone's doing index maintenance. |
 | 2026-09-05 | **11 new recipes from a photographed book, *Champions of Sous Vide* — every one built around a sous vide step, added per the house rule that sous vide time (at any length) is its own Slow cook column, never Cook.** Nine land in **[§7 Mains & Proteins](#7-mains--proteins)** as [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) (Jason Logsdon), [§7.79 Short Rib Ragù](#779-short-rib-ragù) (Erika Turk — ⚠️ instructions reconstructed from a rotated photo, and the ingredient list is missing a celery quantity the instructions call for), [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) (Mike La Charite), [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) (Steve Baytal — ⚠️ small print, some quantities and the plating description are approximate), [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) (Stefan Boer — ⚠️ heavy uncertainty, photographed sideways with small print; **distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the existing Canal House stovetop version), [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) (Jason Logsdon), [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) (Mike La Charite), [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) (Cole Wagoner, Anova Culinary), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) (Stefan Boer — ⚠️ small print, uses transglutaminase to bind the sliced tentacles into a "sausage"). **[§5.39 Fennel Fondant](#539-fennel-fondant)** (Stefan Boer) joins Vegetables & Sides — ⚠️ the source photo was partly obscured by hand/page angle, so the ingredient list may be incomplete. **[§14.20 Cream Caramel](#1420-cream-caramel)** (Dale Prentice, Sous Vide Australia) joins Desserts — ⚠️ small dense print, the custard's sugar quantity is a best-guess transcription. **Contributors credited individually per the source**, same pattern as this cookbook's *Talk About Good!* attributions. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new boar, short rib, hanger steak, and chicken cuts. None of the 11 print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-08-19 | **New top-level section: [§17 Meats & Cuts (Reference Index)](#17-meats--cuts-reference-index)**, per Cody: *"the cookbook should have a meats section with different cuts and methods of cooking being organized in that way."* Not a recipe — a cross-reference index, organized by protein (Beef, Pork, Poultry, Venison/Game, Veal, Lamb), listing every cut already used anywhere in this cookbook alongside the recipe (or placeholder) that covers it and its cooking method. Built from a full audit of the cookbook rather than guessed at: **13 beef cuts**, from chuck roast and oxtail through flank steak and ground beef; **7 pork cuts**, shoulder through chops; **8 poultry categories**, whole birds through hearts and livers; venison stew meat and ground venison; a veal cross-link; and **lamb flagged honestly as empty** — every "lamb" mention elsewhere in the book turned out to be a pairing suggestion from a source's own text, not an actual lamb recipe here, so that row is left ready rather than padded. Cross-links [§T36 What Meat Actually Is](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) (why the cut determines the method) and [§T44's target temperature table](#t44-food-safety--the-real-logic-and-the-target-temperature-table) (doneness by cut) at the top, and carries its own standing instruction to add a line here whenever a new meat recipe or placeholder is added anywhere else in the cookbook. |
@@ -7367,22 +7368,22 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) · [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
-> **📌 Cody's Note — salt NOT increased here, on purpose.** Every other rub/brine/sauce in this batch got its salt bumped per Cody's standing preference for more salt than the book recommends. **This one is the deliberate exception.** 6.3% is a calibrated salinity, not a seasoning-to-taste amount — it already sits at the strong end of [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range, and pushing it materially higher risks crossing from brining into curing/dehydrating territory, which changes the meat's texture rather than just its seasoning. Use it as printed; if Cody wants more punch after tasting a batch of brined meat, the better lever is a saltier finishing touch after cooking (per [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s point about reserving room for a finishing salt), not a stronger brine.
+> **📌 Cody's Note — salinity increased, per house preference for heavier brining.** An earlier pass at this batch left this brine at the book's printed 6.3%, on the theory that a calibrated salinity shouldn't be touched. **Cody has since clarified that his "more salt than the book recommends" preference is specifically about brining** — this recipe is where it actually belongs, not the rubs and sauces elsewhere in this batch (those were mistakenly bumped instead and have been reverted to the book's printed amounts — see the 2026-09-05 correction in the changelog). **Salinity increased from 6.3% to about 9.5%** — roughly 1.5×, and still comfortably inside [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range, so this stays a genuine brine rather than crossing into curing/dehydrating territory. The salt goes from ½ lb to ¾ lb per gallon of water — treat this as Cody's starting point, adjustable further to taste.
 
 **🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min active** *(plus however long the meat itself brines — see [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s timing table)*
 
 #### A. Ingredients
 
 - 1 cup, plus 1 gallon, cold water — divided
-- ½ lb kosher salt (or any salt — see Method)
+- **¾ lb kosher salt** (or any salt — see Method) *(printed: ½ lb — increased to ~9.5% salinity per Cody's standing brining preference; see note above)*
 
 #### B. Cooking Instructions
 
 **1. Measure the salt by displacement, not weight.**
-Pour 1 cup of the water into a 2-cup measuring cup. Add salt, stirring as you go, until the water level rises to the 1½-cup line. That displacement is your ½ lb of salt, measured without a scale — Archimedes' trick standing in for a kitchen scale.
+Pour 1 cup of the water into a 2-cup measuring cup. Add salt, stirring as you go, until the water level rises to the 1¾-cup line. That displacement is your ¾ lb of salt, measured without a scale — Archimedes' trick standing in for a kitchen scale. *(The book's own version stops at the 1½-cup line for a lighter ½ lb / 6.3% brine — see the note above for why this one goes further.)*
 
 **2. Dissolve, then dilute to a gallon.**
-Stir until the salt is fully dissolved into a concentrated slurry. Pour the slurry into a large container and add the remaining water to bring the total to 1 gallon. You now have a 6.3% brine.
+Stir until the salt is fully dissolved into a concentrated slurry. Pour the slurry into a large container and add the remaining water to bring the total to 1 gallon. You now have a brine at roughly 9.5% salinity — heavier than the book's printed 6.3%, per Cody's standing brining preference.
 
 **3. Submerge, chill, and cook.**
 Submerge the meat fully in the brine. For a whole bird, move it around a few times to force air bubbles out of the cavity so it brines evenly. Keep the brine below 38°F the entire time — in the refrigerator, not on the counter — for the length of time called for in [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s timing table. When it's time to cook, remove the meat, pat it dry, season or rub as the recipe calls for, and cook.
@@ -7391,7 +7392,7 @@ Submerge the meat fully in the brine. For a whole bird, move it around a few tim
 
 **🛒 General grocery**
 
-- 🛒 Kosher salt — ½ lb *(any type of salt works — see Method)*
+- 🛒 Kosher salt — ¾ lb *(any type of salt works — see Method; printed: ½ lb)*
 
 #### Nutrition *(estimated)*
 
@@ -7477,7 +7478,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
-> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — 1.5×, a smaller bump than most of this batch's rubs get. **Reason for going lighter here specifically:** this brine is *injected*, not applied to the surface — it reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit, so oversalting an injection has a bigger, faster effect than oversalting a rub does. Treat 3 Tbsp as Cody's starting point and taste a small cooked test piece before scaling further.
+> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — 1.5×, per Cody's standing preference for heavier brining. **Reason for keeping the bump modest here specifically:** this brine is *injected*, not applied to the surface — it reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit, so oversalting an injection has a bigger, faster effect than oversalting a surface treatment does. Treat 3 Tbsp as Cody's starting point and taste a small cooked test piece before scaling further.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min** *(10 min to mix, 5 min to inject)*
 
@@ -7530,7 +7531,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
-> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — same 1.5× bump and same reasoning as [§4.102](#4102-chicken-or-turkey-brine-injection): an injection reaches the interior directly, so it gets a lighter increase than a surface rub. Treat as a starting point.
+> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — same 1.5× bump and same reasoning as [§4.102](#4102-chicken-or-turkey-brine-injection): an injection reaches the interior directly, so it gets a modest, deliberately controlled increase rather than a heavier one. Treat as a starting point.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min**
 
@@ -7636,13 +7637,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed as a 1:1 ratio (½ cup kosher salt : ½ cup black pepper), increased here to **¾ cup kosher salt : ½ cup pepper** — about 1.5× the salt, per Cody's standing preference. Total yield grows from 1 cup to about 1¼ cups.
-
 **🟢 Easy** · **Prep ~2 min** · **Cook none** · **Start to finish ~2 min**
 
 #### A. Ingredients
 
-- **¾ cup kosher salt** *(printed: ½ cup — increased 1.5× per Cody's standing preference; see note above)*
+- ½ cup kosher salt
 - ½ cup freshly ground black pepper
 
 #### B. Cooking Instructions
@@ -7654,14 +7653,14 @@ That's the whole recipe — stir or shake them together in a jar until evenly mi
 
 **🛒 General grocery**
 
-- 🛒 Kosher salt — ¾ cup
+- 🛒 Kosher salt — ½ cup
 - 🛒 Black pepper — ½ cup
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about 1¼ cups)* | ~140 | 2 g | 6 g | 36 g | 14 g |
+| **Whole batch** *(about 1 cup)* | ~140 | 2 g | 6 g | 36 g | 14 g |
 | **Per serving** *(1 tsp, generously applied per pound of meat)* | ~3 | 0 g | 0.1 g | 0.7 g | 0.3 g |
 
 **What a serving is:** 1 tsp per pound of meat, pressed on by hand — almost all the batch's calories and fiber come from the pepper, not the salt.
@@ -7676,7 +7675,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all** — per the book's own "No Salt in Rubs" argument ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)), the idea being to salt separately via a brine or dry brine and season the rub on top of that. **1 Tbsp kosher salt added here** per Cody's standing preference for salting the rub directly. Treat this as a starting point — if the meat's already been dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time), cut this rub's salt back out to avoid double-salting.
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt separately, via a brine or dry brine, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
@@ -7689,7 +7690,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 2 tsp garlic powder
 - 2 tsp chili powder or ground ancho chile
 - 1 tsp ground chipotle chile or cayenne
-- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -7707,13 +7707,12 @@ Stir all the ingredients together until evenly blended. Store in a tightly seale
 - 🛒 Garlic powder — 2 tsp
 - 🛒 Chili powder or ground ancho chile — 2 tsp
 - 🛒 Ground chipotle chile or cayenne — 1 tsp
-- 🛒 Kosher salt — 1 Tbsp
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about ½ cup + salt)* | ~145 | 2 g | 5 g | 32 g | 8 g |
+| **Whole batch** *(about ½ cup)* | ~145 | 2 g | 5 g | 32 g | 8 g |
 | **Per serving** *(1 tsp, per pound of meat)* | ~7 | 0.1 g | 0.2 g | 1.5 g | 0.4 g |
 
 **What a serving is:** about 1 tsp of rub per pound of meat, pressed on before cooking.
@@ -7728,7 +7727,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument (see [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)). **1 Tbsp kosher salt added here**, scaled up a bit from this cookbook's usual 1–2 tsp addition since this rub coats 10–12 lb of beef — per Cody's standing preference. Cut it back if the roast is already dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt the roast separately, via a brine or dry brine, and season this crust on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
@@ -7741,7 +7742,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 tsp onion powder
 - 1 tsp paprika
 - ½ tsp chipotle powder
-- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -7762,13 +7762,12 @@ This makes about 4 Tbsp of rub — enough for a 10–12 lb trimmed beef roast. P
 - 🛒 Onion powder — 1 tsp
 - 🛒 Paprika — 1 tsp
 - 🛒 Chipotle powder — ½ tsp
-- 🛒 Kosher salt — 1 Tbsp
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about 5 Tbsp, for a 10–12 lb roast)* | ~50 | 1 g | 2 g | 10 g | 3 g |
+| **Whole batch** *(about 4 Tbsp, for a 10–12 lb roast)* | ~50 | 1 g | 2 g | 10 g | 3 g |
 | **Per serving** *(¼ tsp, roughly per pound of roast)* | ~1 | 0 g | 0.1 g | 0.2 g | 0.1 g |
 
 **What a serving is:** the whole batch coats a full roast; a "serving" here is the roughly ¼ tsp share that ends up on each pound of meat.
@@ -7783,7 +7782,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument (see [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)). **3 Tbsp kosher salt added here**, scaled to this rub's large 3-cup yield, per Cody's standing preference. Cut it back if the meat's already dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt the meat separately, via a brine or dry brine, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
 
@@ -7797,7 +7798,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 2 Tbsp ground ginger
 - 2 Tbsp onion powder
 - 2 tsp crushed dried rosemary
-- **3 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -7819,7 +7819,6 @@ Keep in a tightly sealed jar, away from light — see [§T53](#t53-the-science-o
 - 🛒 Ground ginger — 2 Tbsp
 - 🛒 Onion powder — 2 Tbsp
 - 🛒 Dried rosemary, crushed — 2 tsp
-- 🛒 Kosher salt — 3 Tbsp
 
 #### Nutrition *(estimated)*
 
@@ -7840,7 +7839,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument (see [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)). **1 Tbsp kosher salt added here**, per Cody's standing preference. Cut it back if the meat's already dry-brined.
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt the meat separately, via a brine or dry brine, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
@@ -7855,7 +7856,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp crushed bay leaf
 - 1 Tbsp freshly ground black pepper
 - 1 Tbsp sugar
-- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -7875,7 +7875,6 @@ Add all the ingredients and pulse a few seconds at a time until you have a coars
 - 🛒 Bay leaf, crushed — 1 Tbsp
 - 🛒 Black pepper — 1 Tbsp
 - 🛒 Sugar — 1 Tbsp
-- 🛒 Kosher salt — 1 Tbsp
 
 #### Nutrition *(estimated)*
 
@@ -7896,8 +7895,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 Tbsp kosher salt added here**, per Cody's standing preference, scaled to a 6 lb roast. Cut it back if the lamb's already dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
->
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt the lamb separately, via a brine or dry brine, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
+
 > **⚠️ Fresh garlic note, per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s standing food-safety rule:** this rub is fine as a *surface* rub applied at cooking time — fresh garlic is only a botulism concern sealed in an **airless bag** for a long soak, like a sous vide dry rub. This is a rub, not a sous vide bag seasoning, so the fresh garlic stays as printed.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
@@ -7910,7 +7911,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp paprika
 - 1 tsp ground bay leaves
 - 10 garlic cloves, minced or pressed
-- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -7930,7 +7930,6 @@ Because it contains fresh garlic rather than powder, store this rub in the refri
 - 🛒 Paprika — 1 Tbsp
 - 🛒 Ground bay leaves — 1 tsp
 - 🛒 Garlic — 10 cloves
-- 🛒 Kosher salt — 1 Tbsp
 
 #### Nutrition *(estimated)*
 
@@ -7951,7 +7950,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 tsp kosher salt added here**, per Cody's standing preference — a lighter add than the meat rubs above, since this small-batch rub is meant for delicate fish fillets, not a big cut that can carry a heavier hand.
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt the fish separately, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
 
@@ -7964,7 +7965,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp freshly ground green peppercorns *(black pepper substitutes fine, if that's all you have)*
 - 1 Tbsp dried lemon zest
 - 1 tsp garlic powder
-- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -7985,7 +7985,6 @@ Press onto fish fillets right before grilling or searing, per [§T38](#t38-rubs-
 - 🛒 Green peppercorns (or black pepper) — 1 Tbsp
 - 🛒 Dried lemon zest — 1 Tbsp
 - 🛒 Garlic powder — 1 tsp
-- 🛒 Kosher salt — 1 tsp
 
 #### Nutrition *(estimated)*
 
@@ -8006,7 +8005,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 Tbsp kosher salt added here**, per Cody's standing preference.
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt separately, and season this blend on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
 
@@ -8026,7 +8027,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ½ tsp dry mustard
 - ⅛ tsp ground mace
 - ⅛ tsp ground allspice
-- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -8054,7 +8054,6 @@ Transfer to a bowl, add the remaining ingredients, and mix thoroughly.
 - 🛒 Dry mustard — ½ tsp
 - 🛒 Ground mace — ⅛ tsp
 - 🛒 Ground allspice — ⅛ tsp
-- 🛒 Kosher salt — 1 Tbsp
 
 #### Nutrition *(estimated)*
 
@@ -8075,8 +8074,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **2 Tbsp kosher salt**, increased here to **3 Tbsp** — about 1.5×, per Cody's standing preference. Total yield grows slightly, to a bit more than ¼ cup.
-
 **🟢 Easy** · **Prep ~15 min** · **Slow cook ~1–3 hr** *(citrus dehydrates on the grill or in the oven at its lowest setting, entirely unattended — dehydrator-style work per house rule, regardless of length)* · **Start to finish ~1¼–3¼ hr**
 
 #### A. Ingredients
@@ -8084,7 +8081,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 medium lemon, thinly sliced and seeded
 - 1 medium lime, thinly sliced and seeded
 - 3 Tbsp whole black peppercorns
-- **3 Tbsp kosher salt** *(printed: 2 Tbsp — increased 1.5× per Cody's standing preference; see note above)*
+- 2 Tbsp kosher salt
 
 #### B. Cooking Instructions
 
@@ -8104,13 +8101,13 @@ Add the salt and stir it in by hand rather than pulsing further, so the grain st
 - 🛒 Lemon — 1 medium
 - 🛒 Lime — 1 medium
 - 🛒 Whole black peppercorns — 3 Tbsp
-- 🛒 Kosher salt — 3 Tbsp
+- 🛒 Kosher salt — 2 Tbsp
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(a bit more than ¼ cup)* | ~65 | 1 g | 2 g | 15 g | 5 g |
+| **Whole batch** *(about ¼ cup)* | ~65 | 1 g | 2 g | 15 g | 5 g |
 | **Per serving** *(½ tsp, a finishing sprinkle)* | ~2 | 0 g | 0.1 g | 0.5 g | 0.2 g |
 
 **What a serving is:** ½ tsp sprinkled over a finished piece of grilled fish, chicken, or vegetables — this is as much a finishing salt as a rub.
@@ -8125,7 +8122,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 tsp kosher salt added here**, per Cody's standing preference — scaled down to match this rub's very small batch size (enough for about 6 steaks).
+**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt the steaks separately, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Brine the meat first — a dry brine is preferable in most cases — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~2 min** · **Cook none** · **Start to finish ~2 min**
 
@@ -8135,7 +8134,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp ground coffee
 - ¼ tsp ground cinnamon
 - 1 tsp crushed black peppercorns
-- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -8153,13 +8151,12 @@ Press onto steaks just before they hit the grill.
 - 🛒 Ground coffee — 1 Tbsp
 - 🛒 Ground cinnamon — ¼ tsp
 - 🛒 Black peppercorns, crushed — 1 tsp
-- 🛒 Kosher salt — 1 tsp
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about 3½ Tbsp, for ~6 steaks)* | ~55 | 0.5 g | 0.5 g | 14 g | 1 g |
+| **Whole batch** *(about 3 Tbsp, for ~6 steaks)* | ~55 | 0.5 g | 0.5 g | 14 g | 1 g |
 | **Per serving** *(about 1¾ tsp, per steak)* | ~9 | 0.1 g | 0.1 g | 2.3 g | 0.2 g |
 
 **What a serving is:** roughly ⅙ of the batch — enough to coat one steak, of six.
@@ -8224,7 +8221,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
-> **📌 Salt note:** this recipe carries no separate salt of its own — its salt comes entirely from [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper), which already got its own 1.5× salt increase per Cody's standing preference. No further adjustment needed here; it inherits the change automatically.
+**Salt note:** this recipe carries no separate salt of its own — its salt comes entirely from [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper), at that recipe's printed 2 Tbsp. No adjustment needed here.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(using already-made [§4.113](#4113-citrus-salt-and-pepper) and [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder))*
 
@@ -8267,14 +8264,12 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed as **1½ tsp kosher salt**, increased here to **1 Tbsp** — 2×, per Cody's standing preference, for a 6-cup batch.
-
 **🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** *(sauté + 15 min simmer)* · **Start to finish ~40 min** *(better after resting overnight, per the source)*
 
 #### A. Ingredients
 
 - 2 Tbsp chili powder
-- **1 Tbsp kosher salt** *(printed: 1½ tsp — increased 2× per Cody's standing preference; see note above)*
+- 1½ tsp kosher salt
 - 1 tsp freshly ground black pepper
 - 2 cups ketchup
 - 1 cup packed dark brown sugar
@@ -8311,7 +8306,7 @@ Taste and adjust the seasoning. The sauce may taste sugary at first, but that me
 **🛒 General grocery**
 
 - 🛒 Chili powder — 2 Tbsp
-- 🛒 Kosher salt — 1 Tbsp
+- 🛒 Kosher salt — 1½ tsp
 - 🛒 Black pepper — 1 tsp
 - 🛒 Ketchup — 2 cups
 - 🛒 Dark brown sugar — 1 cup
@@ -8346,8 +8341,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed as **1½ tsp kosher salt**, increased here to **1 Tbsp** — about 2×, per Cody's standing preference.
-
 **🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** *(simmer)* · **Start to finish ~20 min** *(better after resting overnight)*
 
 #### A. Ingredients
@@ -8359,7 +8352,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp dry mustard
 - 2 tsp onion powder
 - 2 tsp garlic powder
-- **1 Tbsp kosher salt** *(printed: 1½ tsp — increased ~2× per Cody's standing preference; see note above)*
+- 1½ tsp kosher salt
 - 1 tsp freshly ground black pepper
 - 2 cups yellow ballpark-style mustard
 - ⅔ cup apple cider vinegar
@@ -8388,7 +8381,7 @@ Storing it overnight in the fridge helps meld the flavors, though it can be used
 - 🛒 Dry mustard — 1 Tbsp
 - 🛒 Onion powder — 2 tsp
 - 🛒 Garlic powder — 2 tsp
-- 🛒 Kosher salt — 1 Tbsp
+- 🛒 Kosher salt — 1½ tsp
 - 🛒 Black pepper — 1 tsp
 - 🛒 Yellow ballpark-style mustard — 2 cups
 - 🛒 Apple cider vinegar — ⅔ cup
@@ -8414,15 +8407,13 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — 1.5×, per Cody's standing preference, for a 1½-cup batch. This is already a fairly salty mop by design (it's meant to season plain, un-rubbed meat as it cooks), so the increase is kept moderate rather than a full 2×.
-
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min active** *(plus at least 12 hours resting in the fridge — a week is better)*
 
 #### A. Ingredients
 
 - 1½ cups distilled white vinegar
 - 2 Tbsp sugar *(granulated white, light brown, or dark brown)*
-- **3 Tbsp kosher salt** *(printed: 2 Tbsp — increased 1.5× per Cody's standing preference; see note above)*
+- 2 Tbsp kosher salt
 - 2 tsp crushed red pepper flakes
 - 2 tsp finely ground black pepper
 - 1 tsp hot sauce *(see Note)*
@@ -8443,7 +8434,7 @@ Refrigerate for at least 12 hours — a week is better — to let the flavors me
 
 - 🛒 Distilled white vinegar — 1½ cups
 - 🛒 Sugar — 2 Tbsp
-- 🛒 Kosher salt — 3 Tbsp
+- 🛒 Kosher salt — 2 Tbsp
 - 🛒 Crushed red pepper flakes — 2 tsp
 - 🛒 Black pepper — 2 tsp
 - 🛒 Hot sauce — 1 tsp
@@ -8467,8 +8458,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed as **1 Tbsp kosher salt**, increased here to **2 Tbsp** — 2×, per Cody's standing preference, for a 1½-cup batch.
-
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min active** *(plus at least 3 hours resting — overnight is better)*
 
 #### A. Ingredients
@@ -8477,7 +8466,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ¼ cup ketchup
 - ¼ cup apple juice
 - 3 Tbsp light brown sugar
-- **2 Tbsp kosher salt** *(printed: 1 Tbsp — increased 2× per Cody's standing preference; see note above)*
+- 1 Tbsp kosher salt
 - 1 tsp hot sauce
 - 1 tsp crushed red pepper flakes
 - 1 tsp freshly ground black pepper
@@ -8500,7 +8489,7 @@ Refrigerate for at least 3 hours to let the flavors meld — overnight is better
 - 🛒 Ketchup — ¼ cup
 - 🛒 Apple juice — ¼ cup
 - 🛒 Light brown sugar — 3 Tbsp
-- 🛒 Kosher salt — 2 Tbsp
+- 🛒 Kosher salt — 1 Tbsp
 - 🛒 Hot sauce — 1 tsp
 - 🛒 Crushed red pepper flakes — 1 tsp
 - 🛒 Black pepper — 1 tsp
@@ -8524,7 +8513,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all** — this sauce leans on stock, Worcestershire, and steak sauce for savoriness rather than added salt. **1 Tbsp kosher salt added here** for a 5-cup batch, per Cody's standing preference.
+**No added salt — as printed.** This sauce leans on stock, Worcestershire, and steak sauce for savoriness instead.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(sauté + 15 min simmer)* · **Start to finish ~30 min**
 
@@ -8546,7 +8535,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 3 Tbsp steak sauce
 - 2 Tbsp brown sugar
 - 2 tsp hot sauce
-- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -8560,7 +8548,7 @@ In a 2-quart saucepan, melt the butter over medium heat. Add the onion and cook 
 Add the garlic, bell pepper, and the spice mixture. Stir and cook for 2 minutes to extract the flavors.
 
 **4. Add everything else and simmer.**
-Add the remaining ingredients (including the salt) and stir until well blended. Simmer over medium heat for 15 minutes — drink whatever's left in the beer can while you wait. Taste and adjust the seasoning. Divide the sauce in half: use half to mop the meat during cooking, and reserve the other half to splash on at serving.
+Add the remaining ingredients and stir until well blended. Simmer over medium heat for 15 minutes — drink whatever's left in the beer can while you wait. Taste and adjust the seasoning. Divide the sauce in half: use half to mop the meat during cooking, and reserve the other half to splash on at serving.
 
 #### C. Grocery Shopping List
 
@@ -8582,7 +8570,6 @@ Add the remaining ingredients (including the salt) and stir until well blended. 
 - 🛒 Steak sauce — 3 Tbsp
 - 🛒 Brown sugar — 2 Tbsp
 - 🛒 Hot sauce — 2 tsp
-- 🛒 Kosher salt — 1 Tbsp
 
 #### Nutrition *(estimated)*
 
@@ -8603,7 +8590,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T30 How to Use Fat](#t30-how-to-use-fat)
 
-> **📌 Cody's Note on salt:** printed with **no salt at all** — the bacon itself already carries real salt. **1 tsp kosher salt added here anyway**, per Cody's standing preference, kept deliberately modest since the bacon is doing most of the salting already; taste before adding more.
+**No added salt — as printed.** The bacon itself already carries real salt.
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr 30 min** *(mostly unattended simmer, reducing to a jam)* · **Start to finish ~1 hr 50 min**
 
@@ -8618,7 +8605,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ½ tsp dried thyme or rosemary
 - ¼ tsp freshly ground black pepper
 - Splash of hot sauce, optional
-- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference, kept light since the bacon is already salty; see note above)*
 
 #### B. Cooking Instructions
 
@@ -8626,7 +8612,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 Cut the bacon into ¼- to ½-inch slices and cook in a frying pan over medium heat until curled and golden but not fully crisp. Brown bits will stick to the pan — scrape them loose with a spatula as you go. Remove the bacon with a slotted spoon and drain on paper towels.
 
 **2. Build the jam.**
-Pour off all but 2 Tbsp of the bacon fat (save the rest for another use, but let it cool before transferring to plastic). Add the onion to the pan and cook until translucent. Add the garlic and cook 1 to 2 minutes, without browning. Add 1 cup water, the vinegar, maple syrup, brown sugar, and salt.
+Pour off all but 2 Tbsp of the bacon fat (save the rest for another use, but let it cool before transferring to plastic). Add the onion to the pan and cook until translucent. Add the garlic and cook 1 to 2 minutes, without browning. Add 1 cup water, the vinegar, maple syrup, and brown sugar.
 
 **3. Reduce.**
 Reduce the heat to low and simmer until the mixture turns into a thick, jammy, luscious goo — 1 to 2 hours, stirring occasionally. Stir the bacon back in near the end. Turn off the heat and let it cool.
@@ -8647,7 +8633,6 @@ Taste and add more sugar or a splash of hot sauce if you like. Spoon into a jar,
 - 🛒 Dried thyme or rosemary — ½ tsp
 - 🛒 Black pepper — ¼ tsp
 - 🛒 Hot sauce, optional
-- 🛒 Kosher salt — 1 tsp
 
 #### Nutrition *(estimated)*
 
@@ -8668,7 +8653,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed with **no added salt** — the soy sauce provides some sodium but there's no salt in the ingredient list. **1 tsp kosher salt added here**, per Cody's standing preference, kept modest since soy sauce already contributes sodium.
+**No added salt — as printed.** The soy sauce provides some sodium, but the book's own ingredient list has no separate salt.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(simmer)* · **Start to finish ~30 min**
 
@@ -8681,7 +8666,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 4 tsp soy sauce
 - 1 tsp ground ginger
 - ¼ tsp hot sauce, or more if you wish
-- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
 
 #### B. Cooking Instructions
 
@@ -8707,7 +8691,6 @@ Taste and adjust the seasoning. Drizzle it on the food, serve it in a bowl for d
 - 🛒 Soy sauce — 4 tsp
 - 🛒 Ground ginger — 1 tsp
 - 🛒 Hot sauce — ¼ tsp
-- 🛒 Kosher salt — 1 tsp
 
 #### Nutrition *(estimated)*
 
@@ -8728,8 +8711,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) *(if making the mayo from scratch rather than starting from store-bought)*
 
-> **📌 Cody's Note on salt:** printed as **"kosher salt and freshly ground black pepper," to taste — no fixed quantity given.** Cody's standing preference calls for going heavier than the book, so this entry sets a working starting point of **½ tsp kosher salt**, roughly double a typical light seasoning-to-taste amount for this size batch — adjust further at the table.
-
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min active** *(plus at least 2 hours chilling)*
 
 #### A. Ingredients
@@ -8743,8 +8724,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 tsp dried tarragon, or 1½ tsp fresh, chopped
 - ½ tsp whole-grain or coarse-ground mustard
 - A few drops of hot sauce, optional
-- **½ tsp kosher salt, plus more to taste** *(printed: "salt and pepper to taste," no quantity — a working amount set per Cody's standing preference; see note above)*
-- Freshly ground black pepper, to taste
+- Kosher salt and freshly ground black pepper, to taste
 
 #### B. Cooking Instructions
 
@@ -8789,8 +8769,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed as **½ tsp kosher salt**, increased here to **1 tsp** — 2×, per Cody's standing preference.
-
 **🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** *(dissolve sugar, then 30 min simmer)* · **Start to finish ~45 min**
 
 #### A. Ingredients
@@ -8803,7 +8781,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 2 Tbsp unsweetened cocoa powder *(Hershey's Natural Unsweetened, per the source)*
 - 1 Tbsp Worcestershire sauce
 - ½ tsp pure vanilla extract
-- **1 tsp kosher salt** *(printed: ½ tsp — increased 2× per Cody's standing preference; see note above)*
+- ½ tsp kosher salt
 - ⅛ tsp chipotle chile powder
 
 #### B. Cooking Instructions
@@ -8827,7 +8805,7 @@ Add the remaining ingredients, stir well, and simmer for 30 minutes more.
 - 🛒 Unsweetened cocoa powder — 2 Tbsp
 - 🛒 Worcestershire sauce — 1 Tbsp
 - 🛒 Pure vanilla extract — ½ tsp
-- 🛒 Kosher salt — 1 tsp
+- 🛒 Kosher salt — ½ tsp
 - 🛒 Chipotle chile powder — ⅛ tsp
 
 #### Nutrition *(estimated)*
@@ -8849,8 +8827,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-> **📌 Cody's Note on salt:** printed as **½ tsp kosher salt**, increased here to **1 tsp** — 2×, per Cody's standing preference.
-
 **🟢 Easy** · **Prep ~5 min** · **Cook ~40 min** *(simmer, then reduce by about a third)* · **Start to finish ~45 min**
 
 #### A. Ingredients
@@ -8862,7 +8838,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ¼ cup orange marmalade
 - 1 Tbsp Dijon mustard
 - ½ tsp fresh thyme leaves
-- **1 tsp kosher salt** *(printed: ½ tsp — increased 2× per Cody's standing preference; see note above)*
+- ½ tsp kosher salt
 - ¼ tsp freshly ground black pepper
 
 #### B. Cooking Instructions
@@ -8887,7 +8863,7 @@ Paint it onto ham or other cured meats at the very end of cooking.
 - 🛒 Orange marmalade — ¼ cup
 - 🛒 Dijon mustard — 1 Tbsp
 - 🛒 Fresh thyme leaves — ½ tsp
-- 🛒 Kosher salt — 1 tsp
+- 🛒 Kosher salt — ½ tsp
 - 🛒 Black pepper — ¼ tsp
 
 #### Nutrition *(estimated)*
@@ -8908,8 +8884,6 @@ Paint it onto ham or other cured meats at the very end of cooking.
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, credited there to Chef Rick Bayless. Meathead saw Bayless's play *Cascabel*, produced by Chicago's Lookingglass Theatre in a collaboration between Bayless, Heidi Stillman, and Tony Hernandez, and adapted the mole recipe and ingredients Bayless created for the production and applied to it his own well-honed sensibilities. A genuine mole — dried chiles, toasted nuts and seeds, chocolate, a whole cooking process rather than a quick sauce.
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd)
-
-> **📌 Cody's Note on salt:** printed as **1½ tsp kosher salt**, increased here to **1 Tbsp** — 2×, per Cody's standing preference, for an 8-serving batch.
 
 **🟡 Medium** · **Prep ~30 min** · **Cook ~1 hr** *(active — toasting chiles, nuts, and seeds all carry real scorch risk if left unattended)* · **Start to finish ~1 hr 30 min**
 
@@ -8932,7 +8906,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ¼ cup honey
 - 1 Tbsp sugar
 - Juice of 1 lime
-- **1 Tbsp kosher salt** *(printed: 1½ tsp — increased 2× per Cody's standing preference; see note above)*
+- 1½ tsp kosher salt
 - 8 pieces of chicken, pork chops, or steaks
 - 8 servings of rice, to accompany
 
@@ -8982,7 +8956,7 @@ While the sauce simmers, salt and pepper the meat, lightly oil it, and grill. Sp
 - 🛒 Honey — ¼ cup
 - 🛒 Sugar — 1 Tbsp
 - 🛒 Lime — 1
-- 🛒 Kosher salt — 1 Tbsp
+- 🛒 Kosher salt — 1½ tsp
 - 🛒 Chicken, pork chops, or steaks — 8 pieces
 - 🛒 Rice, for 8 servings
 
@@ -9005,8 +8979,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** none — this is a stir-together condiment.
 
-> **📌 Cody's Note on salt:** printed as **¼ tsp kosher salt**, increased here to **½ tsp** — 2×, per Cody's standing preference.
-
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(a nap during the process is entirely optional, per the source)*
 
 #### A. Ingredients
@@ -9015,7 +8987,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ½ cup [Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) or ketchup
 - 3 Tbsp yellow mustard
 - 1 Tbsp Tabasco Chipotle Sauce
-- **½ tsp kosher salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ¼ tsp kosher salt
 - ¼ tsp garlic powder
 
 #### B. Cooking Instructions
@@ -9034,7 +9006,7 @@ Refrigerate in a tightly lidded container for 1 to 2 months.
 - 🛒 Kansas City-style barbecue sauce or ketchup — ½ cup
 - 🛒 Yellow mustard — 3 Tbsp
 - 🛒 Tabasco Chipotle Sauce — 1 Tbsp
-- 🛒 Kosher salt — ½ tsp
+- 🛒 Kosher salt — ¼ tsp
 - 🛒 Garlic powder — ¼ tsp
 
 #### Nutrition *(estimated)*
@@ -9056,8 +9028,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
-> **📌 Cody's Note on salt:** printed as **"Salt, optional"** — no fixed quantity. **¼ tsp kosher salt set as a working amount here**, per Cody's standing preference for salting rather than leaving it out — kept light since this coats meat that's likely already been dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
-
 **🟢 Easy** · **Prep ~10 min** *(timed to happen while the meat is still on the fire)* · **Cook none** · **Start to finish ~10 min active**, *enough for 2 lb of meat*
 
 #### A. Ingredients
@@ -9068,7 +9038,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ½ fresh red jalapeño, stemmed and seeded
 - ¼ tsp coarsely ground black pepper
 - 6 Tbsp high-quality extra-virgin olive oil
-- **¼ tsp kosher salt** *(printed: "salt, optional," no quantity — a working amount set per Cody's standing preference; see note above)*
+- Salt, optional
 
 #### B. Cooking Instructions
 
@@ -9114,8 +9084,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** none — this is a no-cook blended sauce.
 
-> **📌 Cody's Note on salt:** printed as **¼ tsp kosher salt**, increased here to **½ tsp** — 2×, per Cody's standing preference, for a batch that seasons 8 to 12 servings of steak.
-
 **🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min**, *enough for 8 to 12 servings of steak*
 
 #### A. Ingredients
@@ -9124,7 +9092,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ⅓ cup distilled white vinegar
 - 1 cup finely chopped fresh flat-leaf parsley leaves
 - 1 cup finely chopped fresh cilantro leaves
-- **½ tsp kosher salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ¼ tsp kosher salt
 - ¼ tsp freshly ground black pepper
 - 3 garlic cloves, minced or pressed
 - 2 dried chiles de árbol
@@ -9145,7 +9113,7 @@ Use right away, or refrigerate for a day or two. The bright green color fades a 
 - 🛒 Distilled white vinegar — ⅓ cup
 - 🛒 Fresh flat-leaf parsley — 1 cup chopped
 - 🛒 Fresh cilantro — 1 cup chopped
-- 🛒 Kosher salt — ½ tsp
+- 🛒 Kosher salt — ¼ tsp
 - 🛒 Black pepper — ¼ tsp
 - 🛒 Garlic — 3 cloves
 - 🛒 Dried chiles de árbol — 2
@@ -9169,8 +9137,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** none — this is a no-cook blended sauce.
 
-> **📌 Cody's Note on salt:** printed as **¼ tsp table salt**, increased here to **½ tsp** — 2×, per Cody's standing preference.
-
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**, *makes a bit more than 1 cup*
 
 #### A. Ingredients
@@ -9181,7 +9147,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 6 kalamata olives, pitted
 - 3 large garlic cloves, coarsely chopped
 - ½ tsp ground black pepper
-- **½ tsp kosher or table salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ¼ tsp table salt
 - ⅔ cup extra-virgin olive oil
 
 #### B. Cooking Instructions
@@ -9207,7 +9173,7 @@ Keep in an airtight jar in the fridge for up to a week — top with a thin layer
 - 🛒 Kalamata olives — 6, pitted
 - 🛒 Garlic — 3 large cloves
 - 🛒 Black pepper — ½ tsp
-- 🛒 Kosher salt — ½ tsp
+- 🛒 Table salt — ¼ tsp
 - 🛒 Extra-virgin olive oil — ⅔ cup
 
 #### Nutrition *(estimated)*
@@ -9229,8 +9195,6 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** none — this is a no-cook blended sauce, built from already-roasted vegetables.
 
-> **📌 Cody's Note on salt:** printed as **¼ tsp kosher salt**, increased here to **½ tsp** — 2×, per Cody's standing preference.
-
 **🟢 Easy** · **Prep ~25 min** *(mostly if roasting the peppers and garlic fresh — quicker with jarred roasted peppers and pre-roasted garlic)* · **Cook none** · **Start to finish ~25 min**
 
 #### A. Ingredients
@@ -9239,7 +9203,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 7 roasted garlic cloves, peeled
 - 6 Tbsp extra-virgin olive oil
 - 2 Tbsp lemon juice
-- **½ tsp kosher salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ¼ tsp kosher salt
 - ⅛ tsp freshly ground black pepper
 
 #### B. Cooking Instructions
@@ -9258,7 +9222,7 @@ Use right away, or cover and refrigerate for up to 1 week.
 - 🛒 Roasted garlic cloves — 7
 - 🛒 Extra-virgin olive oil — 6 Tbsp
 - 🛒 Lemon juice — 2 Tbsp
-- 🛒 Kosher salt — ½ tsp
+- 🛒 Kosher salt — ¼ tsp
 - 🛒 Black pepper — ⅛ tsp
 
 #### Nutrition *(estimated)*
@@ -12820,7 +12784,7 @@ Microbes on a steak live **only on the surface**, and that surface hits well pas
 <!-- TECHNIQUE-TAGS: meathead, rub-blending, sugar-savory-spicy, no-salt-in-rubs, storage, fresh-vs-dried-herbs -->
 **Tags:** `meathead` · `rub-blending` · `sugar-savory-spicy` · `no-salt-in-rubs` · `storage` · `fresh-vs-dried-herbs`
 **Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, dictated by Cody. Reads alongside [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) (the ⅛-inch penetration limit) and [§T37's double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) — this entry is where the book's *own* version of that same warning comes from.
-**Used in:** every rub in [§4](#4-rubs-seasonings-sauces--condiments), including all the new Meathead rubs, [§4.105](#4105-dalmatian-rub) through [§4.116](#4116-butcher-block-seasoning).
+**Used in:** every rub in [§4](#4-rubs-seasonings-sauces--condiments), including all the new Meathead rubs, [§4.105](#4105-dalmatian-rub) through [§4.116](#4116-butcher-block-seasoning), all printed exactly as the book gives them.
 
 #### The Three S's of a good rub
 
@@ -12830,13 +12794,13 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 - **Savory.** Comes from glutamates (amino acids), green herbs, garlic, and other umami-adjacent flavorings — richness, depth, complexity.
 - **Spicy.** Hot chile sensations and black pepper add excitement. Ginger, horseradish, and mustard powder are spicy in the same sense. Go easy — it's the one S that overwhelms the other two fastest.
 
-#### 📌 "No Salt in Rubs" — the book's own argument, and why this cookbook overrides it
+#### 📌 "No Salt in Rubs" — the book's own argument, and this cookbook's actual practice
 
 **Meathead's stated position: salt and rub, applied separately, do different jobs — like a car's gas pedal and brake, worked in harmony but never at once.** His four reasons for leaving salt out of the rub blend itself: (1) cured meats (ham, bacon, corned beef) don't need any more salt at all; (2) most grocery-store turkey and much other meat is already injected with a salt solution at the plant, so a salted rub double-salts it; (3) some people are on salt-restricted diets, and a salt-free rub leaves that choice to them; (4) leaving salt out of the mix leaves room for a coarse **finishing salt** at serving time — real pop, without having to reduce the herbs and spices to make room for it.
 
 **This is the same principle as [§T37's double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)**, already this cookbook's standing practice — brine heavy, then leave salt out of whatever rub goes on top, so it's only ever counted once.
 
-**Per Cody's explicit standing preference, this batch of rubs breaks from the book's printed approach anyway: every rub gets salt added directly, at roughly 1.5–2× wherever the book already included some, or a reasonable new amount (about 1–2 Tbsp kosher salt, scaled to batch size) wherever the book printed none at all.** Each affected recipe below flags its specific change and notes the book's own no-salt argument in place, rather than silently overwriting it — this cookbook's standing honesty practice for exactly this kind of source conflict. **Treat every one of those additions as a starting point Cody can adjust further to taste, not a fixed number.**
+**Cody's own "more salt than the book recommends" standing preference is specifically about the brining step, not the rub itself** — see [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)'s heavier-than-printed salinity and [§4.101](#4101-basic-brinerade)–[§4.104](#4104-beef-or-venison-brine-injection)'s bumped brine/injection amounts. **Every rub in this batch, [§4.105](#4105-dalmatian-rub) through [§4.116](#4116-butcher-block-seasoning), keeps the book's own printed salt amount (including zero, where the book prints zero)**, in line with the "No Salt in Rubs" reasoning above — an earlier pass at this batch mistakenly bumped rub and sauce salt too, and that's been corrected (see the 2026-09-05 changelog entry).
 
 #### Storage, freshness, and grinding
 

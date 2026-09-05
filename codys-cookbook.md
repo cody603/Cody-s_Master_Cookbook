@@ -118,6 +118,39 @@ Click any recipe to jump straight to it.
   - [4.97 Aromatic Lemongrass Marinade](#497-aromatic-lemongrass-marinade) ✅ *(feeds [§7.75](#775-lettuce-bundles-with-grilled-beef))*
   - [4.98 Herdez Street Taco Sauce (Store-Bought)](#498-herdez-street-taco-sauce-store-bought) ✅ 👍 — *reference*
   - [4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ✅ ❤️
+  - [4.100 The Simple Blonder Wet Brine (6.3% Salinity)](#4100-the-simple-blonder-wet-brine-63-salinity) ✅
+  - [4.101 Basic Brinerade](#4101-basic-brinerade) ✅
+  - [4.102 Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) ✅
+  - [4.103 Pork Brine Injection](#4103-pork-brine-injection) ✅
+  - [4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) ✅
+  - [4.105 Dalmatian Rub](#4105-dalmatian-rub) ✅
+  - [4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub) ✅
+  - [4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) ✅
+  - [4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ✅
+  - [4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) ✅
+  - [4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) ✅
+  - [4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) ✅
+  - [4.112 Cajun Seasoning](#4112-cajun-seasoning) ✅ *(distinct from [§4.27](#427-cajun-rub))*
+  - [4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) ✅
+  - [4.114 Cowboy Java Rub](#4114-cowboy-java-rub) ✅
+  - [4.115 Smoked Garlic Powder or Smoked Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) ✅
+  - [4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) ✅
+  - [4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) ✅ ⚠️ *(title inferred — see entry)*
+  - [4.118 Columbia Gold (South Carolina Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) ✅ *(distinct from [§4.92](#492-carolina-mustard-barbecue-sauce))*
+  - [4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) ✅ *(distinct from [§4.36](#436-north-carolina-vinegar-sauce)/[§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style)/[§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato))*
+  - [4.120 Lexington Dip (West Carolina Barbecue Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) ✅
+  - [4.121 Texas Mop Sauce](#4121-texas-mop-sauce) ✅ *(distinct from [§4.34](#434-basic-barbecue-mop-sauce)/[§4.96](#496-vinegar-based-mop-sauce))*
+  - [4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) ✅
+  - [4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) ✅
+  - [4.124 Tartar Sauce](#4124-tartar-sauce) ✅
+  - [4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) ✅
+  - [4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) ✅
+  - [4.127 Cascabel Mole, Inspired by Chef Rick Bayless](#4127-cascabel-mole-inspired-by-chef-rick-bayless) ✅
+  - [4.128 Burger Glop](#4128-burger-glop) ✅
+  - [4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) ✅
+  - [4.130 Chimichurri Sauce](#4130-chimichurri-sauce) ✅ *(distinct from [§4.44](#444-three-herb-chimichurri)/[§4.94](#494-red-chimichurri)/[§4.95](#495-dry-chimichurri))*
+  - [4.131 Pesto](#4131-pesto) ✅ *(distinct from [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce))*
+  - [4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis) ✅
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -440,6 +473,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Second batch today: Meathead Goldwyn's "Brines, Rubs, and Sauces" chapter, plus more of "Software" and "Hardware" — condensed techniques and 33 full rub/brine/sauce recipes, all with salt increased per Cody's standing preference.** **Eight new condensed technique entries, [§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)**, continuing the T33–T45 style: freezing/reheating leftovers (sous vide reheat is the best method, per [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method)'s own equipment); cooking vegetables and fruits, including reverse-searing dense ones the same way [§T41](#t41-reverse-sear--two-stage-cooking) reverse-sears meat; basting and spritzing, plus the real explanation for salmon's white ooze (albumin, not myowater — a genuinely different phenomenon from [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)'s myowater-not-blood myth-bust); the "lookin' ain't cookin'" lid myth, busted as wildly overstated for a quick peek but real for extended lid-open time; saucing strategy (when to add a sweet sauce so it doesn't scorch, plus sauce food-safety and storage); cooking more than one large cut at once (thickness still governs per [§T42](#t42-what-controls-cooking-time), crowding and airflow are the real risk); water pans and drip pans from the "Hardware" chapter; and the science of a good rub — the Three S's (sugar, savory, spicy), plus the book's own **"No Salt in Rubs"** argument, which turns out to be the same idea as this cookbook's existing [§T37 double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) — already this cookbook's standing practice, just now with the book's own four stated reasons attached. **33 new full recipes, [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)**, landing in §4 rather than the still-placeholder [§13 Meathead Cookbook](#13-meathead-cookbook) per Cody's explicit instruction: **three wet-brine/injection recipes** ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) Simple Blonder Wet Brine, [§4.101](#4101-basic-brinerade) Basic Brinerade, [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the chicken/turkey, pork, and beef/venison injection brines); **twelve rubs and dry seasonings** ([§4.105](#4105-dalmatian-rub) Dalmatian Rub through [§4.116](#4116-butcher-block-seasoning) Butcher Block Seasoning, including [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder) Smoked Garlic/Onion Powder — genuinely Slow Cook, smoker plus dehydrator); and **eighteen sauces, mops, and condiments** ([§4.117](#4117-kansas-city-classic-barbecue-sauce) Kansas City Classic Barbecue Sauce through [§4.132](#4132-roasted-red-pepper-and-garlic-coulis) Roasted Red Pepper and Garlic Coulis), including [§4.127](#4127-cascabel-mole-inspired-by-chef-rick-bayless) Cascabel Mole — rated 🟡 Medium, the only non-Easy entry in the batch, for its real chile/nut/seed scorch risk. **Every rub, brine, and sauce in the batch got Cody's standing salt increase** — roughly 1.5–2× wherever the book already printed some salt, or a new 1 tsp–1 Tbsp addition (scaled to batch size) wherever the book printed none at all, per its own "No Salt in Rubs" philosophy — with each recipe individually flagging its specific printed-vs-changed amount and a note that these are adjustable starting points, not fixed numbers. **Two deliberate exceptions, both flagged in place:** [§4.100 the Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) keeps its calibrated 6.3% salinity as printed rather than getting stronger (that percentage *is* the method), and the three brine-injection recipes ([§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection)) got a lighter 1.5× bump rather than 2×, since injected salt reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit. **Two gaps in the source scan, flagged rather than guessed past:** the book's printed pages 174–175 (the title and first ingredients of [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce)) and pages 182–183 (all of Alabama White Sauce's actual ingredient list, and the very end of the Japanese Happy Mouth Yakitori Sauce headnote, whose own ingredient box falls on the still-uncaptured page 192) weren't in the photographed set — both recipes' titles and context are noted, but neither was added with invented quantities. A teriyaki/huli-huli marinade on the book's page 184 was also left out as out of scope — it's built to accompany a specific chicken recipe this cookbook hasn't documented yet, not a standalone condiment. **Cross-references added throughout** to this cookbook's existing similar-themed entries — the three other Carolina-style vinegar sauces, the existing Carolina Mustard Barbecue Sauce, two existing barbecue mop sauces, the existing Cajun Rub, three existing chimichurris, and the existing simpler Pesto — following the same "(distinct from §X — see comparison)" convention this cookbook already uses for its other multi-source duplicates. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record where the actual recipes landed. TOC and Difficulty & Time Index updated throughout — **32 of the 33 new recipes are 🟢 Easy**, mostly 2–20 minutes of prep with little or no real cooking, so most sort near the top of the Difficulty & Time Index. **⚠️ Flag for a future pass:** the "Reading this table" and "Reading this index" narrative sections below (§4's rub/sauce count, the "30 minutes or less" tally, hard-recipe counts) predate this batch and haven't been recomputed against the new totals — the counts there are now stale by roughly 33 recipes and should get a fresh pass next time anyone's doing index maintenance. |
 | 2026-09-05 | **11 new recipes from a photographed book, *Champions of Sous Vide* — every one built around a sous vide step, added per the house rule that sous vide time (at any length) is its own Slow cook column, never Cook.** Nine land in **[§7 Mains & Proteins](#7-mains--proteins)** as [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) (Jason Logsdon), [§7.79 Short Rib Ragù](#779-short-rib-ragù) (Erika Turk — ⚠️ instructions reconstructed from a rotated photo, and the ingredient list is missing a celery quantity the instructions call for), [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) (Mike La Charite), [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) (Steve Baytal — ⚠️ small print, some quantities and the plating description are approximate), [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) (Stefan Boer — ⚠️ heavy uncertainty, photographed sideways with small print; **distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the existing Canal House stovetop version), [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) (Jason Logsdon), [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) (Mike La Charite), [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) (Cole Wagoner, Anova Culinary), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) (Stefan Boer — ⚠️ small print, uses transglutaminase to bind the sliced tentacles into a "sausage"). **[§5.39 Fennel Fondant](#539-fennel-fondant)** (Stefan Boer) joins Vegetables & Sides — ⚠️ the source photo was partly obscured by hand/page angle, so the ingredient list may be incomplete. **[§14.20 Cream Caramel](#1420-cream-caramel)** (Dale Prentice, Sous Vide Australia) joins Desserts — ⚠️ small dense print, the custard's sugar quantity is a best-guess transcription. **Contributors credited individually per the source**, same pattern as this cookbook's *Talk About Good!* attributions. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new boar, short rib, hanger steak, and chicken cuts. None of the 11 print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-08-19 | **New top-level section: [§17 Meats & Cuts (Reference Index)](#17-meats--cuts-reference-index)**, per Cody: *"the cookbook should have a meats section with different cuts and methods of cooking being organized in that way."* Not a recipe — a cross-reference index, organized by protein (Beef, Pork, Poultry, Venison/Game, Veal, Lamb), listing every cut already used anywhere in this cookbook alongside the recipe (or placeholder) that covers it and its cooking method. Built from a full audit of the cookbook rather than guessed at: **13 beef cuts**, from chuck roast and oxtail through flank steak and ground beef; **7 pork cuts**, shoulder through chops; **8 poultry categories**, whole birds through hearts and livers; venison stew meat and ground venison; a veal cross-link; and **lamb flagged honestly as empty** — every "lamb" mention elsewhere in the book turned out to be a pairing suggestion from a source's own text, not an actual lamb recipe here, so that row is left ready rather than padded. Cross-links [§T36 What Meat Actually Is](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) (why the cut determines the method) and [§T44's target temperature table](#t44-food-safety--the-real-logic-and-the-target-temperature-table) (doneness by cut) at the top, and carries its own standing instruction to add a line here whenever a new meat recipe or placeholder is added anywhere else in the cookbook. |
 | 2026-08-19 | **Added [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust)**, sourced from Judy Kim (judykim.nyc) — a food-processor dough built on both butter and shortening, with vodka standing in for some of the ice water since it doesn't develop gluten the way water does. **Distinct from [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)**, the classic hand-laminated method already in this cookbook. **Cody's own modification recorded in place:** thick, coarse sea salt instead of any flaky finishing salt, with room to add a bit more for a saltier crust — the source itself doesn't call for a flaky-salt finish at all, so this is flagged as Cody's preference for whenever this crust gets salted, not a literal swap from the recipe as printed. The source's decorative-pie notes (pie cutters, frozen cutout shapes, skipping blind-baking on a baking steel) are kept as a callout rather than dropped. **Also clarified [§8.1 Chili Mac](#81-chili-mac)'s naming, per Cody:** *"chili can stand alone, but chili mac is its own thing that includes chili"* — the entry's intro now states that distinction directly rather than just asserting the rename. |
@@ -635,6 +669,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 | Recipe | | Prep | Cook | Slow cook | Start to finish |
 |---|---|---|---|---|---|
+| [§4.105 Dalmatian Rub](#4105-dalmatian-rub) | 🟢 | 2 min | — | — | 2 min |
+| [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) | 🟢 | 2 min | — | — | 2 min |
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
 | [§4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) | 🟢 | 5 min | — | — | 5 min |
 | [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) | 🟢 | 5 min | — | — | 5 min |
@@ -649,6 +685,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) | 🟢 | 5 min | — | — | 5 min |
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
+| [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.128 Burger Glop](#4128-burger-glop) | 🟢 | 5 min | — | — | 5 min |
 | [§T25 French Omelette](#t25-the-french-omelette-two-methods) | 🟡 | 5 min | <1 min | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
@@ -656,8 +694,29 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 20 min *(includes a 10 min stand)* |
 | [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
+| [§4.102 Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) | 🟢 | 10 min | — | — | 15 min |
+| [§4.103 Pork Brine Injection](#4103-pork-brine-injection) | 🟢 | 10 min | — | — | 15 min |
+| [§4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) | 🟢 | 10 min | — | — | 15 min |
+| [§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) | 🟢 | 10 min | — | — | 10 min |
+| [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) | 🟢 | 10 min | — | — | 10 min |
+| [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
+| [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
+| [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
+| [§4.101 Basic Brinerade](#4101-basic-brinerade) | 🟢 | 15 min | — | — | 15 min active *(+ brining time per §T37)* |
+| [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) | 🟢 | 15 min | — | — | 15 min |
+| [§4.112 Cajun Seasoning](#4112-cajun-seasoning) | 🟢 | 15 min | — | — | 15 min |
+| [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) | 🟢 | 15 min | — | **1–3 hr** *(citrus dehydrates, unattended)* | 1¼–3¼ hr |
+| [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **3–6 hr** *(smoker + dehydrate, unattended)* | 3¼–6¼ hr |
+| [§4.124 Tartar Sauce](#4124-tartar-sauce) | 🟢 | 15 min | — | — | 15 min active *(+ 2 hr chill)* |
+| [§4.131 Pesto](#4131-pesto) | 🟢 | 15 min | — | — | 15 min |
+| [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 20 min |
+| [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) | 🟢 | 20 min | — | — | 20 min active *(+ brining time per §T37)* |
+| [§4.130 Chimichurri Sauce](#4130-chimichurri-sauce) | 🟢 | 20 min | — | — | 20 min |
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 10 min *(+ refrigerate, time not given)* |
@@ -766,6 +825,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.71 Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) | 🟢 | 15 min | 10 min | — | 1 hr 45 min *(+ 1–2 hr marinate)* |
 | [§7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) | 🟢 | 15 min | 10 min | — | 5 hr 25 min *(+ 4–6 hr marinate)* |
 | [§7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) | 🟢 | 20 min | 5 min | — | 55 min *(+ 30 min marinate/noodle-soak, parallel)* |
+| [§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis) | 🟢 | 25 min | — | — | 25 min |
 | [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) | 🟢 | 15 min | 10–14 min | — | 30 min |
 | [§7.68 Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) | 🟢 | 20 min | 10 min | — | 2 hr 30 min *(+ 2 hr marinate)* |
 | [§7.70 Russian Shashlik](#770-russian-shashlik) | 🟢 | 20 min | 10 min | — | 8 hr 30 min *(+ 4–8 hr marinate)* |
@@ -804,6 +864,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) | 🟢 | 15 min | 15 min | — | 30 min |
 | [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) | 🔴 | 20 min | 10 min | — | 2 hr 30 min *(includes an estimated ~2 hr combined chill)* |
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
+| [§4.121 Texas Mop Sauce](#4121-texas-mop-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
@@ -838,6 +900,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.18 Gazpacho](#818-gazpacho) | 🟢 | 40 min | — | — | 40 min *(+ at least a 4 hr chill)* |
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
+| [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
+| [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
+| [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min | — | 45 min |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
 | [§14.9 Pecan Pie I](#149-pecan-pie-i) | 🟢 | 15 min | 52 min | — | 1 hr 10 min |
 | [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) | 🔴 | 25 min | 15 min | — | 2 hr 40 min *(+ 2 hr chill to set)* |
@@ -888,6 +953,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
 | [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) | 🟡 | 45 min | 25 min | — | 1 hr 10 min |
 | [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) | 🟢 | 40 min | 35 min | — | 1 hr 15 min |
+| [§4.127 Cascabel Mole (inspired by Chef Rick Bayless)](#4127-cascabel-mole-inspired-by-chef-rick-bayless) | 🟡 | 30 min | 1 hr | — | 1 hr 30 min |
 | [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) | 🟢 | 15 min | — | **~3 hr** *(simmer, mostly unattended)* | 3 hr 15 min |
 | [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) | 🟢 | 10 min | — | **3–7 hr** *(slow cooker)* | 3 hr 10 min – 7 hr 10 min |
@@ -934,6 +1000,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 1 hr 30 min *(mostly unattended reduction)* | — | 1 hr 50 min |
 | [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) | 🔴 | 35 min | 1 hr 30 min | — | 2 hr 5 min |
 | [§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) | 🟢 | 20 min | 1 hr 45 min | — | 2 hr 5 min |
 | [§14.17 Flaky French Pastry](#1417-flaky-french-pastry) | 🟡 | 35 min | — | — | 2 hr 5 min *(includes three 30-min rests between folds)* |
@@ -964,7 +1031,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§10.0 Frittata](#100-the-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 114 recipes**, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 114 recipes** *(pre-2026-09-05 Meathead batch — see that changelog entry's flag; this count and the "now-86" figure below both predate [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), 32 of which are themselves 30 minutes or less, and haven't been recounted yet)*, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
 
@@ -7294,6 +7361,1919 @@ Keeps 2 weeks in the refrigerator.
 
 ---
 
+### 4.100 The Simple Blonder Wet Brine (6.3% Salinity)
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. Prof. Greg Blonder's clever trick for hitting an exact 6.3% salinity without a kitchen scale: water displacement stands in for weighing. **Reads directly alongside [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)**, which already documents this cookbook's wet-brine science (5–10% salt by weight, fish/chicken/turkey breasts/pork chops as the fast-cooking cuts that most need it) — this is that science turned into an actual recipe.
+
+**Techniques used:** [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) · [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
+
+> **📌 Cody's Note — salt NOT increased here, on purpose.** Every other rub/brine/sauce in this batch got its salt bumped per Cody's standing preference for more salt than the book recommends. **This one is the deliberate exception.** 6.3% is a calibrated salinity, not a seasoning-to-taste amount — it already sits at the strong end of [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range, and pushing it materially higher risks crossing from brining into curing/dehydrating territory, which changes the meat's texture rather than just its seasoning. Use it as printed; if Cody wants more punch after tasting a batch of brined meat, the better lever is a saltier finishing touch after cooking (per [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s point about reserving room for a finishing salt), not a stronger brine.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min active** *(plus however long the meat itself brines — see [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s timing table)*
+
+#### A. Ingredients
+
+- 1 cup, plus 1 gallon, cold water — divided
+- ½ lb kosher salt (or any salt — see Method)
+
+#### B. Cooking Instructions
+
+**1. Measure the salt by displacement, not weight.**
+Pour 1 cup of the water into a 2-cup measuring cup. Add salt, stirring as you go, until the water level rises to the 1½-cup line. That displacement is your ½ lb of salt, measured without a scale — Archimedes' trick standing in for a kitchen scale.
+
+**2. Dissolve, then dilute to a gallon.**
+Stir until the salt is fully dissolved into a concentrated slurry. Pour the slurry into a large container and add the remaining water to bring the total to 1 gallon. You now have a 6.3% brine.
+
+**3. Submerge, chill, and cook.**
+Submerge the meat fully in the brine. For a whole bird, move it around a few times to force air bubbles out of the cavity so it brines evenly. Keep the brine below 38°F the entire time — in the refrigerator, not on the counter — for the length of time called for in [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s timing table. When it's time to cook, remove the meat, pat it dry, season or rub as the recipe calls for, and cook.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — ½ lb *(any type of salt works — see Method)*
+
+#### Nutrition *(estimated)*
+
+Salt water has no calories, fat, protein, carbohydrate, or fiber worth counting — sodium is the only nutrient here, and most of it stays in the discarded brine rather than the meat itself.
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 gallon, enough for 5 lb meat)* | ~0 | 0 g | 0 g | 0 g | 0 g |
+| **Per pound of brined meat, retained** | ~0 | 0 g | 0 g | 0 g | 0 g |
+
+**What a serving is:** this isn't eaten — it's a soak. The meat itself, after cooking, carries the nutrition; the brine's only contribution is sodium and moisture retention, per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.101 Basic Brinerade
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A brine-marinade hybrid — real brine strength (salt and time do the actual work) carrying real marinade flavor (herbs, garlic, a little sweetness and acid) at the same time, in one bag.
+
+**Techniques used:** [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) · [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
+
+> **📌 Cody's Note on salt:** printed as **¼ cup (4 Tbsp) kosher salt**, increased here to **6 Tbsp (⅜ cup)** — about 1.5×, per Cody's standing preference for more salt than Meathead's book recommends. That keeps the batch's overall salinity in roughly the same 5–6% range [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) already treats as a proper wet brine, rather than pushing it toward oversalting — treat this as Cody's starting point, adjustable further to taste.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min active** *(plus brining time, per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s chart)*
+
+#### A. Ingredients
+
+- 1½ cups water
+- ¼ cup red wine vinegar
+- ¼ cup inexpensive balsamic vinegar
+- 4 large garlic cloves, minced or pressed
+- **6 Tbsp (⅜ cup) kosher salt** *(printed: ¼ cup — increased ~1.5× per Cody's standing preference; see note above)*
+- 1 Tbsp dried basil
+- 1 Tbsp dried oregano
+- 1 Tbsp sugar
+- 1 tsp freshly ground black pepper
+- ½ tsp white miso paste, optional
+
+#### B. Cooking Instructions
+
+**1. Combine everything in a bag.**
+Put all the ingredients in a large zipper-top bag and shake vigorously until the salt and sugar are fully dissolved.
+
+**2. Use right away, or store.**
+Use immediately, or refrigerate for up to a week until needed.
+
+**3. Brine the meat.**
+Add the meat to the bag, press the air out, and seal. Follow [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s brining-time chart for the cut's thickness. Remove, pat dry, and cook.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Red wine vinegar — ¼ cup
+- 🛒 Balsamic vinegar (inexpensive) — ¼ cup
+- 🛒 Garlic — 4 large cloves
+- 🛒 Kosher salt — 6 Tbsp
+- 🛒 Dried basil — 1 Tbsp
+- 🛒 Dried oregano — 1 Tbsp
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Black pepper
+- 🛒 White miso paste, optional
+
+#### Nutrition *(estimated)*
+
+Mostly discarded with the brine rather than eaten — the numbers below are for the whole batch as mixed, not what actually ends up on the plate.
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups, enough for 1 lb meat)* | ~70 | 0.5 g | 1 g | 15 g | 1 g |
+| **Retained in the meat, per pound** | ~10 | <1 g | <1 g | 2 g | <1 g |
+
+**What a serving is:** a soak, not a sauce — this brines 1 lb of meat and is mostly poured off before cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.102 Chicken or Turkey Brine Injection
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. For getting real seasoning deep into a big bird fast, rather than waiting on a wet brine to work its way in — see [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s injection section for why this is the *only* method that reaches past the surface at all.
+
+**Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
+
+> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — 1.5×, a smaller bump than most of this batch's rubs get. **Reason for going lighter here specifically:** this brine is *injected*, not applied to the surface — it reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit, so oversalting an injection has a bigger, faster effect than oversalting a rub does. Treat 3 Tbsp as Cody's starting point and taste a small cooked test piece before scaling further.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min** *(10 min to mix, 5 min to inject)*
+
+#### A. Ingredients
+
+- **3 Tbsp kosher salt** *(printed: 2 Tbsp — increased 1.5× per Cody's standing preference; see note above)*
+- 1 Tbsp sugar
+- 4 cups water, low-sodium chicken stock, or a mix of both
+- ½ tsp white miso paste, optional
+
+#### B. Cooking Instructions
+
+**1. Mix the brine.**
+Combine everything in a large bottle or jar. Shake vigorously until the salt and sugar fully dissolve.
+
+**2. Fill the injector.**
+Load a real meat-injector syringe (stainless steel, side-holed needle — a plain tip-hole needle clogs with meat instantly, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)).
+
+**3. Inject in a grid, slowly.**
+Push the needle toward the center of the meat and depress the plunger slowly while easing the needle back out, injecting as you go. Space injection points about 1½ inches apart across the bird. Aim for about 2 Tbsp of fluid per pound of meat — you're avoiding pockets of standing liquid, not soaking it. A little fluid naturally weeping back out the puncture is normal; if it's spurting, ease off the plunger.
+
+**4. Rest or cook right away.**
+Cook immediately, or let the meat rest up to overnight — the injected liquid disperses further with time. **Discard whatever's left in the syringe** (it's been contaminated by the needle); leftover unused brine keeps refrigerated or frozen for months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — 3 Tbsp
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Low-sodium chicken stock or water — 4 cups
+- 🛒 White miso paste, optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 qt, enough for ~30 lb meat)* | ~60 | 0 g | 1 g | 13 g | 0 g |
+| **Retained per pound of meat injected** *(~2 Tbsp)* | ~4 | 0 g | <1 g | 1 g | 0 g |
+
+**What a serving is:** injected liquid, not eaten on its own — the per-pound figure reflects roughly what stays inside the meat after injecting at the recommended rate.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.103 Pork Brine Injection
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the same injection-brine set as [§4.102](#4102-chicken-or-turkey-brine-injection) and [§4.104](#4104-beef-or-venison-brine-injection), scaled and flavored for pork.
+
+**Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
+
+> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — same 1.5× bump and same reasoning as [§4.102](#4102-chicken-or-turkey-brine-injection): an injection reaches the interior directly, so it gets a lighter increase than a surface rub. Treat as a starting point.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- **3 Tbsp kosher salt** *(printed: 2 Tbsp — increased 1.5× per Cody's standing preference; see note above)*
+- 1 Tbsp sugar
+- 1 Tbsp Worcestershire sauce
+- 2 Tbsp rice vinegar
+- 1 cup apple juice, or low-sodium pork, chicken, or beef stock
+- 3 cups water
+
+#### B. Cooking Instructions
+
+**1. Mix the brine.**
+Combine everything in a large bottle or jar and shake until the salt and sugar dissolve completely.
+
+**2. Inject following [§4.102](#4102-chicken-or-turkey-brine-injection)'s method.**
+Same grid spacing (~1½ inches apart), same target rate (~2 Tbsp per pound), same real injector syringe.
+
+**3. Rest or cook.**
+Cook right away or rest up to overnight. Discard syringe leftovers; unused brine keeps refrigerated or frozen for months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — 3 Tbsp
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Worcestershire sauce — 1 Tbsp
+- 🛒 Rice vinegar — 2 Tbsp
+- 🛒 Apple juice or stock — 1 cup
+- 🛒 Water — 3 cups
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 qt, enough for ~30 lb meat)* | ~150 | 0 g | 1 g | 33 g | 0 g |
+| **Retained per pound of meat injected** *(~2 Tbsp)* | ~9 | 0 g | <1 g | 2 g | 0 g |
+
+**What a serving is:** injected liquid — the per-pound figure is roughly what stays inside the meat, not the whole batch.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.104 Beef or Venison Brine Injection
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the leanest, most stripped-down of the three injection brines, built for red meat rather than poultry or pork.
+
+**Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
+
+> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — same 1.5× bump and reasoning as [§4.102](#4102-chicken-or-turkey-brine-injection)/[§4.103](#4103-pork-brine-injection).
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- **3 Tbsp kosher salt** *(printed: 2 Tbsp — increased 1.5× per Cody's standing preference; see note above)*
+- 1 Tbsp sugar
+- 2 tsp Worcestershire sauce
+- 4 cups water, low-sodium beef stock, or a mix of both
+
+#### B. Cooking Instructions
+
+**1. Mix the brine.**
+Combine everything in a large bottle or jar and shake until fully dissolved.
+
+**2. Inject following [§4.102](#4102-chicken-or-turkey-brine-injection)'s method.**
+Same ~1½-inch grid, same ~2 Tbsp-per-pound target.
+
+**3. Rest or cook.**
+Cook right away or rest up to overnight. Discard syringe leftovers; unused brine keeps refrigerated or frozen for months.
+
+**Safety note, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes):** injecting drives any surface contaminants deep into the meat, so this is meant for cuts headed to a well-done or at least fully-cooked interior temperature, not a rare-served steak.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — 3 Tbsp
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Worcestershire sauce — 2 tsp
+- 🛒 Low-sodium beef stock or water — 4 cups
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 qt, enough for ~30 lb meat)* | ~60 | 0 g | 1 g | 13 g | 0 g |
+| **Retained per pound of meat injected** *(~2 Tbsp)* | ~4 | 0 g | <1 g | 1 g | 0 g |
+
+**What a serving is:** injected liquid — the per-pound figure is roughly what stays inside the meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.105 Dalmatian Rub
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The simplest rub in the book, named for its black-and-white speckled look: just salt and pepper, in a ratio that leans hard toward salt already.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed as a 1:1 ratio (½ cup kosher salt : ½ cup black pepper), increased here to **¾ cup kosher salt : ½ cup pepper** — about 1.5× the salt, per Cody's standing preference. Total yield grows from 1 cup to about 1¼ cups.
+
+**🟢 Easy** · **Prep ~2 min** · **Cook none** · **Start to finish ~2 min**
+
+#### A. Ingredients
+
+- **¾ cup kosher salt** *(printed: ½ cup — increased 1.5× per Cody's standing preference; see note above)*
+- ½ cup freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Blend the salt and pepper together.**
+That's the whole recipe — stir or shake them together in a jar until evenly mixed.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — ¾ cup
+- 🛒 Black pepper — ½ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1¼ cups)* | ~140 | 2 g | 6 g | 36 g | 14 g |
+| **Per serving** *(1 tsp, generously applied per pound of meat)* | ~3 | 0 g | 0.1 g | 0.7 g | 0.3 g |
+
+**What a serving is:** 1 tsp per pound of meat, pressed on by hand — almost all the batch's calories and fiber come from the pepper, not the salt.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.106 Big Bad Beef Rub
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A punchy, no-salt house rub for steaks and roasts, meant to be applied at cooking time rather than as a dry brine.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all** — per the book's own "No Salt in Rubs" argument ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)), the idea being to salt separately via a brine or dry brine and season the rub on top of that. **1 Tbsp kosher salt added here** per Cody's standing preference for salting the rub directly. Treat this as a starting point — if the meat's already been dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time), cut this rub's salt back out to avoid double-salting.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 3 Tbsp coarsely ground black pepper
+- 1 Tbsp sugar
+- 1 Tbsp onion powder
+- 2 tsp dry mustard
+- 2 tsp garlic powder
+- 2 tsp chili powder or ground ancho chile
+- 1 tsp ground chipotle chile or cayenne
+- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Mix everything in a bowl.**
+Stir all the ingredients together until evenly blended. Store in a tightly sealed jar.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Black pepper, coarsely ground — 3 Tbsp
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Onion powder — 1 Tbsp
+- 🛒 Dry mustard — 2 tsp
+- 🛒 Garlic powder — 2 tsp
+- 🛒 Chili powder or ground ancho chile — 2 tsp
+- 🛒 Ground chipotle chile or cayenne — 1 tsp
+- 🛒 Kosher salt — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup + salt)* | ~145 | 2 g | 5 g | 32 g | 8 g |
+| **Per serving** *(1 tsp, per pound of meat)* | ~7 | 0.1 g | 0.2 g | 1.5 g | 0.4 g |
+
+**What a serving is:** about 1 tsp of rub per pound of meat, pressed on before cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.107 Mrs. O'Leary's Cow Crust
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A savory, herb-forward crust built for a big cut of beef rather than a quick steak — enough for a 10–12 lb roast.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument (see [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)). **1 Tbsp kosher salt added here**, scaled up a bit from this cookbook's usual 1–2 tsp addition since this rub coats 10–12 lb of beef — per Cody's standing preference. Cut it back if the roast is already dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 2 Tbsp freshly ground black pepper
+- 2 tsp dried rosemary leaves, crushed
+- 2 tsp dried thyme or oregano
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1 tsp paprika
+- ½ tsp chipotle powder
+- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Mix everything in a bowl.**
+Stir all the ingredients together until evenly blended.
+
+**2. Coat the roast heavily.**
+This makes about 4 Tbsp of rub — enough for a 10–12 lb trimmed beef roast. Press it into the surface on all sides just before cooking.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Black pepper — 2 Tbsp
+- 🛒 Dried rosemary — 2 tsp
+- 🛒 Dried thyme or oregano — 2 tsp
+- 🛒 Garlic powder — 1 tsp
+- 🛒 Onion powder — 1 tsp
+- 🛒 Paprika — 1 tsp
+- 🛒 Chipotle powder — ½ tsp
+- 🛒 Kosher salt — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 5 Tbsp, for a 10–12 lb roast)* | ~50 | 1 g | 2 g | 10 g | 3 g |
+| **Per serving** *(¼ tsp, roughly per pound of roast)* | ~1 | 0 g | 0.1 g | 0.2 g | 0.1 g |
+
+**What a serving is:** the whole batch coats a full roast; a "serving" here is the roughly ¼ tsp share that ends up on each pound of meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.108 Meathead's Memphis Dust
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A big-batch sweet-paprika rub in the Memphis style, built for ribs and pulled pork.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument (see [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)). **3 Tbsp kosher salt added here**, scaled to this rub's large 3-cup yield, per Cody's standing preference. Cut it back if the meat's already dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ¾ cup packed dark brown sugar
+- ¾ cup granulated sugar
+- ½ cup paprika
+- ¼ cup garlic powder
+- 2 Tbsp freshly ground black pepper
+- 2 Tbsp ground ginger
+- 2 Tbsp onion powder
+- 2 tsp crushed dried rosemary
+- **3 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Mix everything in a bowl.**
+Combine all the ingredients. If the sugar is lumpy, crumble it by hand or press it against the side of the bowl with a fork before mixing.
+
+**2. Store.**
+Keep in a tightly sealed jar, away from light — see [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) on rub storage.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dark brown sugar — ¾ cup
+- 🛒 Granulated sugar — ¾ cup
+- 🛒 Paprika — ½ cup
+- 🛒 Garlic powder — ¼ cup
+- 🛒 Black pepper — 2 Tbsp
+- 🛒 Ground ginger — 2 Tbsp
+- 🛒 Onion powder — 2 Tbsp
+- 🛒 Dried rosemary, crushed — 2 tsp
+- 🛒 Kosher salt — 3 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 3 cups)* | ~1,300 | 5 g | 12 g | 320 g | 20 g |
+| **Per serving** *(1 Tbsp, per couple pounds of meat)* | ~27 | 0.1 g | 0.2 g | 6.7 g | 0.4 g |
+
+**What a serving is:** about 1 Tbsp per few pounds of ribs or pork — sugar is most of the calorie count here, and most of it caramelizes into bark rather than staying pure sugar by the time it's eaten.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.109 Simon & Garfunkel Rub
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, named for the classic "parsley, sage, rosemary, and thyme" herb lineup. A green, herb-forward all-purpose rub.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument (see [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)). **1 Tbsp kosher salt added here**, per Cody's standing preference. Cut it back if the meat's already dry-brined.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 2 Tbsp crushed dried sage
+- 1 Tbsp crushed dried parsley
+- 1 Tbsp crushed dried rosemary
+- 1 Tbsp crushed dried thyme
+- 1 Tbsp crushed dried oregano
+- 1 Tbsp crushed dried basil
+- 1 Tbsp crushed bay leaf
+- 1 Tbsp freshly ground black pepper
+- 1 Tbsp sugar
+- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Pulse everything in a blender or food processor.**
+Add all the ingredients and pulse a few seconds at a time until you have a coarse powder — not a fine dust, just broken down evenly.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dried sage — 2 Tbsp
+- 🛒 Dried parsley — 1 Tbsp
+- 🛒 Dried rosemary — 1 Tbsp
+- 🛒 Dried thyme — 1 Tbsp
+- 🛒 Dried oregano — 1 Tbsp
+- 🛒 Dried basil — 1 Tbsp
+- 🛒 Bay leaf, crushed — 1 Tbsp
+- 🛒 Black pepper — 1 Tbsp
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Kosher salt — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ⅓ cup)* | ~90 | 2 g | 3 g | 18 g | 7 g |
+| **Per serving** *(1 tsp, per pound of meat)* | ~5 | 0.1 g | 0.2 g | 1 g | 0.4 g |
+
+**What a serving is:** about 1 tsp per pound of chicken, pork, or vegetables before cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.110 Dolly's Lamb Rub
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A rosemary-and-mustard-seed rub sized for a whole leg or shoulder of lamb, made with fresh garlic rather than powder.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 Tbsp kosher salt added here**, per Cody's standing preference, scaled to a 6 lb roast. Cut it back if the lamb's already dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+>
+> **⚠️ Fresh garlic note, per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s standing food-safety rule:** this rub is fine as a *surface* rub applied at cooking time — fresh garlic is only a botulism concern sealed in an **airless bag** for a long soak, like a sous vide dry rub. This is a rub, not a sous vide bag seasoning, so the fresh garlic stays as printed.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 2 Tbsp dried rosemary leaves, broken up by hand or lightly crushed
+- 1 Tbsp whole mustard seeds
+- 1 Tbsp freshly ground black pepper
+- 1 Tbsp paprika
+- 1 tsp ground bay leaves
+- 10 garlic cloves, minced or pressed
+- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Mix everything in a bowl.**
+Combine all the ingredients thoroughly.
+
+**2. Refrigerate — this one doesn't keep at room temperature.**
+Because it contains fresh garlic rather than powder, store this rub in the refrigerator and use within a week.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dried rosemary — 2 Tbsp
+- 🛒 Whole mustard seeds — 1 Tbsp
+- 🛒 Black pepper — 1 Tbsp
+- 🛒 Paprika — 1 Tbsp
+- 🛒 Ground bay leaves — 1 tsp
+- 🛒 Garlic — 10 cloves
+- 🛒 Kosher salt — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ⅓ cup + garlic)* | ~110 | 1 g | 4 g | 22 g | 4 g |
+| **Per serving** *(2 tsp, per pound of a 6 lb lamb roast)* | ~11 | 0.1 g | 0.4 g | 2.2 g | 0.4 g |
+
+**What a serving is:** enough rub for one pound of the roast, spread across a 6 lb leg or shoulder of lamb.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.111 Marietta's Fish Rub
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A delicate, French-inflected herb rub built for fish rather than red meat — chives, tarragon, chervil, and lemon zest instead of chile heat.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 tsp kosher salt added here**, per Cody's standing preference — a lighter add than the meat rubs above, since this small-batch rub is meant for delicate fish fillets, not a big cut that can carry a heavier hand.
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 1 Tbsp dried chives
+- 1 Tbsp dried tarragon
+- 1 Tbsp dried parsley
+- 1 Tbsp dried chervil
+- 1 Tbsp freshly ground green peppercorns *(black pepper substitutes fine, if that's all you have)*
+- 1 Tbsp dried lemon zest
+- 1 tsp garlic powder
+- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Crush the herbs together.**
+Crush all the herbs in a mortar and pestle, a blender, or a spice grinder until they're roughly the same size — not a fine powder, just evenly broken down.
+
+**2. Apply just before cooking.**
+Press onto fish fillets right before grilling or searing, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) — rubs don't need a head start the way a brine does.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dried chives — 1 Tbsp
+- 🛒 Dried tarragon — 1 Tbsp
+- 🛒 Dried parsley — 1 Tbsp
+- 🛒 Dried chervil — 1 Tbsp
+- 🛒 Green peppercorns (or black pepper) — 1 Tbsp
+- 🛒 Dried lemon zest — 1 Tbsp
+- 🛒 Garlic powder — 1 tsp
+- 🛒 Kosher salt — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a bit less than ½ cup)* | ~45 | 1 g | 2 g | 9 g | 3 g |
+| **Per serving** *(½ tsp, per fish fillet)* | ~2 | 0 g | 0.1 g | 0.4 g | 0.1 g |
+
+**What a serving is:** about ½ tsp pressed onto a single fish fillet before cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.112 Cajun Seasoning
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. **Distinct from [§4.27 Cajun Rub](#427-cajun-rub)**, the existing Louisiana-Kitchen-sourced version — this one leans on celery seed, caraway, mace, and allspice for a different, more aromatic profile than the classic paprika-cayenne blend.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 Tbsp kosher salt added here**, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ½ tsp celery seeds
+- ½ tsp caraway seeds
+- 4 bay leaves
+- 1½ tsp crushed dried rosemary leaves
+- ½ tsp crushed dried oregano
+- 1½ tsp crushed red pepper flakes
+- 4 tsp paprika
+- 2 tsp ground ancho chile
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1 tsp sugar
+- ½ tsp dry mustard
+- ⅛ tsp ground mace
+- ⅛ tsp ground allspice
+- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Grind the whole spices first.**
+Put the celery seeds, caraway seeds, bay leaves, rosemary, oregano, and red pepper flakes in a spice grinder or blender and pulse until finely ground.
+
+**2. Add the rest and mix.**
+Transfer to a bowl, add the remaining ingredients, and mix thoroughly.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Celery seeds — ½ tsp
+- 🛒 Caraway seeds — ½ tsp
+- 🛒 Bay leaves — 4
+- 🛒 Dried rosemary — 1½ tsp
+- 🛒 Dried oregano — ½ tsp
+- 🛒 Crushed red pepper flakes — 1½ tsp
+- 🛒 Paprika — 4 tsp
+- 🛒 Ground ancho chile — 2 tsp
+- 🛒 Garlic powder — 1 tsp
+- 🛒 Onion powder — 1 tsp
+- 🛒 Sugar — 1 tsp
+- 🛒 Dry mustard — ½ tsp
+- 🛒 Ground mace — ⅛ tsp
+- 🛒 Ground allspice — ⅛ tsp
+- 🛒 Kosher salt — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ⅓ cup)* | ~90 | 2 g | 3 g | 18 g | 6 g |
+| **Per serving** *(1 tsp, per pound of meat or seafood)* | ~5 | 0.1 g | 0.2 g | 1 g | 0.3 g |
+
+**What a serving is:** about 1 tsp per pound — this is a seasoning blend, used like [§4.27 Cajun Rub](#427-cajun-rub) but with a different flavor signature.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.113 Citrus Salt and Pepper
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. Dehydrated lemon and lime pulverized with peppercorns and salt — a finishing seasoning as much as a rub.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **2 Tbsp kosher salt**, increased here to **3 Tbsp** — about 1.5×, per Cody's standing preference. Total yield grows slightly, to a bit more than ¼ cup.
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook ~1–3 hr** *(citrus dehydrates on the grill or in the oven at its lowest setting, entirely unattended — dehydrator-style work per house rule, regardless of length)* · **Start to finish ~1¼–3¼ hr**
+
+#### A. Ingredients
+
+- 1 medium lemon, thinly sliced and seeded
+- 1 medium lime, thinly sliced and seeded
+- 3 Tbsp whole black peppercorns
+- **3 Tbsp kosher salt** *(printed: 2 Tbsp — increased 1.5× per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Dehydrate the citrus.**
+Preheat a grill to its lowest possible setting with a grill topper over indirect heat (an indoor oven on its lowest setting works too). Lay the lemon and lime slices on the grill topper, close the lid, and let them dehydrate completely — this can take 1 to 3 hours depending on air temperature and airflow. Remove and let cool.
+
+**2. Pulverize.**
+In a blender or food processor, combine the peppercorns and dried citrus and pulse until fully pulverized.
+
+**3. Stir in the salt — don't pulverize it.**
+Add the salt and stir it in by hand rather than pulsing further, so the grain stays coarse rather than turning to dust.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemon — 1 medium
+- 🛒 Lime — 1 medium
+- 🛒 Whole black peppercorns — 3 Tbsp
+- 🛒 Kosher salt — 3 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a bit more than ¼ cup)* | ~65 | 1 g | 2 g | 15 g | 5 g |
+| **Per serving** *(½ tsp, a finishing sprinkle)* | ~2 | 0 g | 0.1 g | 0.5 g | 0.2 g |
+
+**What a serving is:** ½ tsp sprinkled over a finished piece of grilled fish, chicken, or vegetables — this is as much a finishing salt as a rub.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.114 Cowboy Java Rub
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A tiny, punchy coffee-and-cinnamon rub built for steaks — coffee's bitterness plays against the sweetness of a good sear.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all**, per the book's "No Salt in Rubs" argument. **1 tsp kosher salt added here**, per Cody's standing preference — scaled down to match this rub's very small batch size (enough for about 6 steaks).
+
+**🟢 Easy** · **Prep ~2 min** · **Cook none** · **Start to finish ~2 min**
+
+#### A. Ingredients
+
+- 1 Tbsp brown sugar
+- 1 Tbsp ground coffee
+- ¼ tsp ground cinnamon
+- 1 tsp crushed black peppercorns
+- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Mix everything in a bowl.**
+Combine all the ingredients until evenly blended.
+
+**2. Apply right before grilling.**
+Press onto steaks just before they hit the grill.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Brown sugar — 1 Tbsp
+- 🛒 Ground coffee — 1 Tbsp
+- 🛒 Ground cinnamon — ¼ tsp
+- 🛒 Black peppercorns, crushed — 1 tsp
+- 🛒 Kosher salt — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 3½ Tbsp, for ~6 steaks)* | ~55 | 0.5 g | 0.5 g | 14 g | 1 g |
+| **Per serving** *(about 1¾ tsp, per steak)* | ~9 | 0.1 g | 0.1 g | 2.3 g | 0.2 g |
+
+**What a serving is:** roughly ⅙ of the batch — enough to coat one steak, of six.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.115 Smoked Garlic Powder or Smoked Onion Powder
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. House-made smoked spice powder — real smoked garlic or onion, dehydrated and ground, rather than the liquid-smoke shortcut. Feeds [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) directly.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)
+
+> **📌 No salt adjustment here.** This is a single-ingredient smoked spice powder — pure garlic or onion, nothing else — so Cody's standing salt-increase preference doesn't apply; there's no salt in the printed recipe to adjust, and adding any would turn a pure aromatic powder into a seasoned blend, changing what it actually is.
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook ~3–6 hr** *(1–2 hr on the smoker, then 2–4 hr dehydrating, both mostly unattended)* · **Start to finish ~3¼–6¼ hr**
+
+#### A. Ingredients
+
+- 4 whole heads garlic, **or** 2 large onions
+
+#### B. Cooking Instructions
+
+**1. Prep the garlic or onion.**
+For garlic, break the heads into individual cloves, cut off the roots, and peel them. For onion, cut off the ends, peel, cut into quarters, and break the quarters into slices.
+
+**2. Fire up a two-zone smoker.**
+Set a smoker to 225°F, or set up a grill for smoking in a two-zone configuration per [§T34](#t34-two-zone-fire-setup).
+
+**3. Smoke on the indirect side.**
+Put the garlic cloves or onion slices on a grill topper or a sheet pan on the indirect-heat side, away from the fire. Keep the smoke rolling for 1 to 2 hours.
+
+**4. Dehydrate.**
+Remove and let cool. Cut the pieces in half and spread them in a pan in the oven on its lowest setting for 2 to 4 hours, or until fully dry — a dehydrator works even better if you have one.
+
+**5. Grind.**
+Pulse the dehydrated garlic or onion in a blender, food processor, or spice grinder until no large pieces remain.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Garlic — 4 whole heads, **or** 🛒 onions — 2 large
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(¼ cup, garlic version)* | ~180 | 0.5 g | 8 g | 40 g | 3 g |
+| **Per serving** *(1 tsp)* | ~8 | 0 g | 0.3 g | 1.7 g | 0.1 g |
+
+**What a serving is:** 1 tsp, used the way store-bought garlic or onion powder would be — as a seasoning component, not eaten on its own. The onion version runs close to the same numbers.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.116 Butcher Block Seasoning
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, credited there to Chef Ryan Udette. Built directly from [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) and [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) — a finishing salt as much as a rub, good on steaks, chops, chicken, seafood, soups, salads, baked potatoes, and even popcorn.
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+
+> **📌 Salt note:** this recipe carries no separate salt of its own — its salt comes entirely from [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper), which already got its own 1.5× salt increase per Cody's standing preference. No further adjustment needed here; it inherits the change automatically.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(using already-made [§4.113](#4113-citrus-salt-and-pepper) and [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder))*
+
+#### A. Ingredients
+
+- 3 Tbsp [Citrus Salt and Pepper](#4113-citrus-salt-and-pepper)
+- 1 tsp [Smoked Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder)
+- 1 tsp [Smoked Garlic Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder)
+
+#### B. Cooking Instructions
+
+**1. Mix together.**
+Combine all three components in a bowl or jar.
+
+**2. Use liberally.**
+Apply to steaks, pork chops, chicken, or seafood at the time you'd normally dry brine — about ¼ tsp per pound of meat. It also works as a finishing salt for meats, soups, salads, and baked potatoes, or even popcorn.
+
+#### C. Grocery Shopping List
+
+*(no separate shopping — built entirely from [§4.113](#4113-citrus-salt-and-pepper) and [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder), already on the list above)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(¼ cup)* | ~55 | 0.3 g | 1.5 g | 12 g | 3 g |
+| **Per serving** *(¼ tsp, per pound of meat)* | ~1 | 0 g | 0 g | 0.2 g | 0.1 g |
+
+**What a serving is:** about ¼ tsp per pound of meat, applied like a dry brine, or a light pinch as a finishing salt.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.117 Kansas City Classic Barbecue Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter.
+
+> **⚠️ Title flagged, not confirmed.** The two pages carrying this recipe's title and the first couple of ingredient lines (the book's printed pages 174–175) weren't included in the photographed set this entry was transcribed from — the scan jumps from page 173 straight to page 176, mid-ingredient-list, with no visible header. Everything below **from "2 Tbsp chili powder" onward is transcribed directly and confidently** from the visible pages. The name **"Kansas City Classic Barbecue Sauce" is Cody's best inference**, not a transcribed title — the recipe is a classic thick, ketchup-and-molasses-based sauce, and the book's own [§4.128 Burger Glop](#4128-burger-glop) explicitly calls for "Kansas City-style barbecue sauce" elsewhere, pointing at this exact profile. **Flagged in Open Questions** — if the missing pages turn up, confirm the printed title and whatever ingredient(s) may have been cut off before "chili powder."
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed as **1½ tsp kosher salt**, increased here to **1 Tbsp** — 2×, per Cody's standing preference, for a 6-cup batch.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** *(sauté + 15 min simmer)* · **Start to finish ~40 min** *(better after resting overnight, per the source)*
+
+#### A. Ingredients
+
+- 2 Tbsp chili powder
+- **1 Tbsp kosher salt** *(printed: 1½ tsp — increased 2× per Cody's standing preference; see note above)*
+- 1 tsp freshly ground black pepper
+- 2 cups ketchup
+- 1 cup packed dark brown sugar
+- ½ cup yellow ballpark-style mustard
+- ½ cup apple cider vinegar
+- ⅓ cup Worcestershire sauce
+- ¼ cup lemon juice
+- ¼ cup steak sauce *(any brand — see Notes)*
+- ¼ cup dark molasses
+- ¼ cup honey
+- 1 tsp hot sauce
+- 3 Tbsp vegetable oil
+- 1 medium onion, finely chopped
+- 4 garlic cloves, minced or pressed
+
+#### B. Cooking Instructions
+
+**1. Prep the two mixtures separately.**
+In a small bowl, mix the chili powder, salt, and pepper. In a large bowl, mix the ketchup, brown sugar, mustard, vinegar, Worcestershire, lemon juice, steak sauce, molasses, honey, and hot sauce.
+
+**2. Sauté the aromatics.**
+In a large saucepan, heat the oil over medium heat. Add the onion and sauté until translucent, about 5 minutes. Add the garlic and cook 1 minute more.
+
+**3. Bloom the spices, then combine and simmer.**
+Add the chili powder mixture and cook about 2 minutes to let the flavors bloom. Add the ketchup mixture and stir. Simmer the sauce uncovered for 15 minutes to thicken it a bit.
+
+**4. Taste and rest.**
+Taste and adjust the seasoning. The sauce may taste sugary at first, but that mellows once it's on meat and cooked again. Strain out the onion and garlic if you prefer a smooth sauce — leaving them in gives it a rustic, homemade texture. Usable right away, but better after resting overnight in the fridge.
+
+**NOTES:** Any brand of steak sauce works — look for the meaty, savory depth they bring rather than a specific brand. **Secret optional add-ins:** 2 Tbsp of a sweet-tangy Asian curry or chile paste really brightens the sauce (an Indian or Asian grocery is the place to look); a teaspoon of liquid smoke adds a smoky note if you're not actually cooking it over coals.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chili powder — 2 Tbsp
+- 🛒 Kosher salt — 1 Tbsp
+- 🛒 Black pepper — 1 tsp
+- 🛒 Ketchup — 2 cups
+- 🛒 Dark brown sugar — 1 cup
+- 🛒 Yellow ballpark-style mustard — ½ cup
+- 🛒 Apple cider vinegar — ½ cup
+- 🛒 Worcestershire sauce — ⅓ cup
+- 🛒 Lemon juice — ¼ cup
+- 🛒 Steak sauce — ¼ cup
+- 🛒 Dark molasses — ¼ cup
+- 🛒 Honey — ¼ cup
+- 🛒 Hot sauce — 1 tsp
+- 🛒 Vegetable oil — 3 Tbsp
+- 🛒 Onion — 1 medium
+- 🛒 Garlic — 4 cloves
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(6 cups)* | ~1,900 | 42 g | 8 g | 380 g | 6 g |
+| **Per serving** *(2 Tbsp)* | ~40 | 1 g | 0.2 g | 8 g | 0.1 g |
+
+**What a serving is:** 2 Tbsp brushed onto meat — a typical single-coat glaze portion, not a bowl to dip in.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.118 Columbia Gold (South Carolina Mustard Sauce)
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. Mustard-based rather than tomato-based, the signature sauce of the mid-South-Carolina barbecue belt from Columbia to the Charleston coast — a legacy of the region's German heritage. **Distinct from [§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce)**, the existing entry from a different source — worth a side-by-side taste, since both are the same regional style from different authors.
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed as **1½ tsp kosher salt**, increased here to **1 Tbsp** — about 2×, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** *(simmer)* · **Start to finish ~20 min** *(better after resting overnight)*
+
+#### A. Ingredients
+
+- 2 tsp dried rosemary
+- 1 tsp celery seeds
+- 2 tsp chicken bouillon granules, or 1 chicken bouillon cube, crushed
+- ¾ cup sugar
+- 1 Tbsp dry mustard
+- 2 tsp onion powder
+- 2 tsp garlic powder
+- **1 Tbsp kosher salt** *(printed: 1½ tsp — increased ~2× per Cody's standing preference; see note above)*
+- 1 tsp freshly ground black pepper
+- 2 cups yellow ballpark-style mustard
+- ⅔ cup apple cider vinegar
+- 3 Tbsp tomato paste or ketchup
+- ½ tsp Tabasco Chipotle Sauce, or your favorite hot sauce
+
+#### B. Cooking Instructions
+
+**1. Crush the rosemary and celery seeds.**
+In a mortar and pestle, blender, or coffee grinder, crush the rosemary and celery seeds. Transfer to a bowl, add the remaining ingredients, and mix thoroughly.
+
+**2. Simmer.**
+Pour the mixture into a saucepan and bring to a simmer. Cook for 5 minutes. Taste and adjust the seasoning.
+
+**3. Rest.**
+Storing it overnight in the fridge helps meld the flavors, though it can be used right away.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dried rosemary — 2 tsp
+- 🛒 Celery seeds — 1 tsp
+- 🛒 Chicken bouillon granules or cube — 2 tsp
+- 🛒 Sugar — ¾ cup
+- 🛒 Dry mustard — 1 Tbsp
+- 🛒 Onion powder — 2 tsp
+- 🛒 Garlic powder — 2 tsp
+- 🛒 Kosher salt — 1 Tbsp
+- 🛒 Black pepper — 1 tsp
+- 🛒 Yellow ballpark-style mustard — 2 cups
+- 🛒 Apple cider vinegar — ⅔ cup
+- 🛒 Tomato paste or ketchup — 3 Tbsp
+- 🛒 Tabasco Chipotle Sauce or favorite hot sauce — ½ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 3 cups)* | ~1,050 | 30 g | 20 g | 190 g | 8 g |
+| **Per serving** *(2 Tbsp)* | ~35 | 1 g | 0.7 g | 6 g | 0.3 g |
+
+**What a serving is:** 2 Tbsp on pulled pork or a hot dog — this is a South Carolina-style mustard sauce, used the way a red sauce would be elsewhere.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.119 East Carolina Mop Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The classic Eastern-Carolina/Low-Country vinegar mop — thin, penetrating, and used both as a basting mop during the cook and a table sauce after, per [§T48](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat). **Distinct from [§4.36](#436-north-carolina-vinegar-sauce), [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style), and [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato)** — this cookbook now carries four Eastern-Carolina-style vinegar sauces from four different sources; worth a side-by-side taste sometime.
+
+**Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — 1.5×, per Cody's standing preference, for a 1½-cup batch. This is already a fairly salty mop by design (it's meant to season plain, un-rubbed meat as it cooks), so the increase is kept moderate rather than a full 2×.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min active** *(plus at least 12 hours resting in the fridge — a week is better)*
+
+#### A. Ingredients
+
+- 1½ cups distilled white vinegar
+- 2 Tbsp sugar *(granulated white, light brown, or dark brown)*
+- **3 Tbsp kosher salt** *(printed: 2 Tbsp — increased 1.5× per Cody's standing preference; see note above)*
+- 2 tsp crushed red pepper flakes
+- 2 tsp finely ground black pepper
+- 1 tsp hot sauce *(see Note)*
+
+#### B. Cooking Instructions
+
+**1. Combine and shake.**
+Pour all the ingredients into a jar with a tight-fitting lid and shake well.
+
+**2. Rest before using.**
+Refrigerate for at least 12 hours — a week is better — to let the flavors meld.
+
+**NOTE:** Texas Pete Hot Sauce is the classic North Carolina choice; Tabasco Chipotle Sauce is a good substitute. For something more interesting than plain red pepper flakes, use crushed chipotles instead.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Distilled white vinegar — 1½ cups
+- 🛒 Sugar — 2 Tbsp
+- 🛒 Kosher salt — 3 Tbsp
+- 🛒 Crushed red pepper flakes — 2 tsp
+- 🛒 Black pepper — 2 tsp
+- 🛒 Hot sauce — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1½ cups)* | ~110 | 0 g | 0.5 g | 27 g | 1 g |
+| **Per serving** *(1 Tbsp, as a mop or table splash)* | ~5 | 0 g | 0 g | 1.4 g | 0.1 g |
+
+**What a serving is:** 1 Tbsp brushed onto chopped or pulled pork during cooking, or splashed on at the table.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.120 Lexington Dip (West Carolina Barbecue Sauce)
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The Piedmont/Hill Country cousin of [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) — the same vinegar base with a little ketchup and sugar worked in, still thin enough to penetrate rather than sitting on top like a thick Kansas City sauce.
+
+**Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed as **1 Tbsp kosher salt**, increased here to **2 Tbsp** — 2×, per Cody's standing preference, for a 1½-cup batch.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min active** *(plus at least 3 hours resting — overnight is better)*
+
+#### A. Ingredients
+
+- 1 cup distilled white vinegar *(see Note)*
+- ¼ cup ketchup
+- ¼ cup apple juice
+- 3 Tbsp light brown sugar
+- **2 Tbsp kosher salt** *(printed: 1 Tbsp — increased 2× per Cody's standing preference; see note above)*
+- 1 tsp hot sauce
+- 1 tsp crushed red pepper flakes
+- 1 tsp freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Whisk together.**
+Whisk all the ingredients together in a bowl or jar.
+
+**2. Rest.**
+Refrigerate for at least 3 hours to let the flavors meld — overnight is better.
+
+**NOTE:** Apple cider vinegar has more flavor and is generally preferred elsewhere in this chapter, but distilled white vinegar is the right call specifically for this recipe.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Distilled white vinegar — 1 cup
+- 🛒 Ketchup — ¼ cup
+- 🛒 Apple juice — ¼ cup
+- 🛒 Light brown sugar — 3 Tbsp
+- 🛒 Kosher salt — 2 Tbsp
+- 🛒 Hot sauce — 1 tsp
+- 🛒 Crushed red pepper flakes — 1 tsp
+- 🛒 Black pepper — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1½ cups)* | ~200 | 0 g | 0.5 g | 50 g | 0.5 g |
+| **Per serving** *(1 Tbsp, as a mop or table splash)* | ~8 | 0 g | 0 g | 2 g | 0 g |
+
+**What a serving is:** 1 Tbsp on chopped or pulled pork — thin enough to soak in rather than coat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.121 Texas Mop Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, inspired by the sauce at Cooper's Old Time Pit Bar-B-Que in Llano, Texas. Old-school Texas brisket sauce — thin, savory, beef-based, no ketchup or sugar-forward sweetness the way a Kansas City sauce has, meant as a mop during the cook rather than a bottled table sauce. **Distinct from [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce)** and **[§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce)**, the two existing mop sauces already in this cookbook — three mops now, worth a comparison table sometime.
+
+**Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all** — this sauce leans on stock, Worcestershire, and steak sauce for savoriness rather than added salt. **1 Tbsp kosher salt added here** for a 5-cup batch, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(sauté + 15 min simmer)* · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+- 1 Tbsp paprika
+- 2 tsp freshly ground black pepper
+- 2 tsp chili powder
+- 1 tsp ground cumin
+- 1 Tbsp butter or rendered beef fat
+- 1 medium onion, finely chopped
+- 4 garlic cloves, minced or pressed
+- 1 green bell pepper, seeded and chopped
+- 2 cups beef, veal, or chicken stock
+- 1 cup Lone Star beer, or any other lager
+- ¼ cup ketchup
+- ¼ cup apple cider vinegar
+- 3 Tbsp Worcestershire sauce
+- 3 Tbsp steak sauce
+- 2 Tbsp brown sugar
+- 2 tsp hot sauce
+- **1 Tbsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Mix the dry spices.**
+Combine the paprika, black pepper, chili powder, and cumin in a small bowl.
+
+**2. Sweat the onion.**
+In a 2-quart saucepan, melt the butter over medium heat. Add the onion and cook gently until translucent.
+
+**3. Add the aromatics and spice mix.**
+Add the garlic, bell pepper, and the spice mixture. Stir and cook for 2 minutes to extract the flavors.
+
+**4. Add everything else and simmer.**
+Add the remaining ingredients (including the salt) and stir until well blended. Simmer over medium heat for 15 minutes — drink whatever's left in the beer can while you wait. Taste and adjust the seasoning. Divide the sauce in half: use half to mop the meat during cooking, and reserve the other half to splash on at serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Paprika — 1 Tbsp
+- 🛒 Black pepper — 2 tsp
+- 🛒 Chili powder — 2 tsp
+- 🛒 Ground cumin — 1 tsp
+- 🛒 Butter or rendered beef fat — 1 Tbsp
+- 🛒 Onion — 1 medium
+- 🛒 Garlic — 4 cloves
+- 🛒 Green bell pepper — 1
+- 🛒 Beef, veal, or chicken stock — 2 cups
+- 🛒 Lone Star beer or any lager — 1 cup
+- 🛒 Ketchup — ¼ cup
+- 🛒 Apple cider vinegar — ¼ cup
+- 🛒 Worcestershire sauce — 3 Tbsp
+- 🛒 Steak sauce — 3 Tbsp
+- 🛒 Brown sugar — 2 Tbsp
+- 🛒 Hot sauce — 2 tsp
+- 🛒 Kosher salt — 1 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(5 cups)* | ~700 | 20 g | 10 g | 90 g | 4 g |
+| **Per serving** *(2 Tbsp, as a mop)* | ~18 | 0.5 g | 0.3 g | 2.3 g | 0.1 g |
+
+**What a serving is:** 2 Tbsp brushed onto brisket during the cook — this mops onto meat over hours, so the per-serving figure isn't the whole cook's worth applied at once.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.122 Bacon and Onion Jam
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A thick, sweet-savory jam built from rendered bacon and slow-caramelized onions — a burger and sandwich topping, not a barbecue sauce.
+
+**Techniques used:** [§T30 How to Use Fat](#t30-how-to-use-fat)
+
+> **📌 Cody's Note on salt:** printed with **no salt at all** — the bacon itself already carries real salt. **1 tsp kosher salt added here anyway**, per Cody's standing preference, kept deliberately modest since the bacon is doing most of the salting already; taste before adding more.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr 30 min** *(mostly unattended simmer, reducing to a jam)* · **Start to finish ~1 hr 50 min**
+
+#### A. Ingredients
+
+- 1 lb bacon
+- 2 onions, thinly sliced
+- 4 garlic cloves, minced or pressed
+- ¼ cup inexpensive balsamic vinegar
+- ¼ cup pure maple syrup, any grade
+- 3 Tbsp packed brown sugar
+- ½ tsp dried thyme or rosemary
+- ¼ tsp freshly ground black pepper
+- Splash of hot sauce, optional
+- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference, kept light since the bacon is already salty; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Render the bacon.**
+Cut the bacon into ¼- to ½-inch slices and cook in a frying pan over medium heat until curled and golden but not fully crisp. Brown bits will stick to the pan — scrape them loose with a spatula as you go. Remove the bacon with a slotted spoon and drain on paper towels.
+
+**2. Build the jam.**
+Pour off all but 2 Tbsp of the bacon fat (save the rest for another use, but let it cool before transferring to plastic). Add the onion to the pan and cook until translucent. Add the garlic and cook 1 to 2 minutes, without browning. Add 1 cup water, the vinegar, maple syrup, brown sugar, and salt.
+
+**3. Reduce.**
+Reduce the heat to low and simmer until the mixture turns into a thick, jammy, luscious goo — 1 to 2 hours, stirring occasionally. Stir the bacon back in near the end. Turn off the heat and let it cool.
+
+**4. Finish.**
+Taste and add more sugar or a splash of hot sauce if you like. Spoon into a jar, screw on the lid, and refrigerate. Serve at room temperature or gently warmed.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bacon — 1 lb
+- 🛒 Onions — 2
+- 🛒 Garlic — 4 cloves
+- 🛒 Balsamic vinegar — ¼ cup
+- 🛒 Pure maple syrup — ¼ cup
+- 🛒 Brown sugar — 3 Tbsp
+- 🛒 Dried thyme or rosemary — ½ tsp
+- 🛒 Black pepper — ¼ tsp
+- 🛒 Hot sauce, optional
+- 🛒 Kosher salt — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2½ cups)* | ~1,750 | 130 g | 45 g | 90 g | 3 g |
+| **Per serving** *(1 Tbsp)* | ~44 | 3.3 g | 1.1 g | 2.3 g | 0.1 g |
+
+**What a serving is:** 1 Tbsp spooned onto a burger or sandwich — most of the fat here is rendered bacon fat, so a little goes a long way.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.123 D.C. Mumbo Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. Washington, D.C.'s own carryout-counter sauce — sweet-and-sour, ketchup-and-pineapple-juice based, closer kin to a Chinese sweet-and-sour sauce than a Southern barbecue sauce, ubiquitous on wings and fried chicken across the city.
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed with **no added salt** — the soy sauce provides some sodium but there's no salt in the ingredient list. **1 tsp kosher salt added here**, per Cody's standing preference, kept modest since soy sauce already contributes sodium.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(simmer)* · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+- 1 cup sugar
+- 1 cup distilled white vinegar
+- 1 cup pineapple juice
+- ½ cup (4 oz) tomato paste
+- 4 tsp soy sauce
+- 1 tsp ground ginger
+- ¼ tsp hot sauce, or more if you wish
+- **1 tsp kosher salt** *(printed: none — added per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Combine and whisk.**
+Mix all the ingredients together in a saucepan, whisking to break up any clumps of tomato paste and ginger.
+
+**2. Simmer gently — don't boil.**
+Simmer over low heat for about 20 minutes to marry the flavors and thicken it slightly. Don't let the sauce actually boil.
+
+**3. Taste and store.**
+Taste and adjust the seasoning. Drizzle it on the food, serve it in a bowl for dipping, or both. Keeps refrigerated for months.
+
+**NOTE:** Resist the temptation to swap in apple cider vinegar or something more flavorful — plain distilled vinegar is the right call for this one.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sugar — 1 cup
+- 🛒 Distilled white vinegar — 1 cup
+- 🛒 Pineapple juice — 1 cup
+- 🛒 Tomato paste — 4 oz
+- 🛒 Soy sauce — 4 tsp
+- 🛒 Ground ginger — 1 tsp
+- 🛒 Hot sauce — ¼ tsp
+- 🛒 Kosher salt — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2⅓ cups)* | ~950 | 1 g | 6 g | 235 g | 3 g |
+| **Per serving** *(2 Tbsp)* | ~50 | 0 g | 0.3 g | 12 g | 0.2 g |
+
+**What a serving is:** 2 Tbsp as a dipping sauce for wings or fried chicken — the classic D.C. carryout-counter portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.124 Tartar Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The classic grilled-fish finishing sauce, built from a fully-formed mayonnaise base with green onion, pickle, caper, and tarragon.
+
+**Techniques used:** [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) *(if making the mayo from scratch rather than starting from store-bought)*
+
+> **📌 Cody's Note on salt:** printed as **"kosher salt and freshly ground black pepper," to taste — no fixed quantity given.** Cody's standing preference calls for going heavier than the book, so this entry sets a working starting point of **½ tsp kosher salt**, roughly double a typical light seasoning-to-taste amount for this size batch — adjust further at the table.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min active** *(plus at least 2 hours chilling)*
+
+#### A. Ingredients
+
+- ½ cup mayonnaise
+- 1 Tbsp chopped green onions, white parts only
+- 1 Tbsp chopped green onions, green parts only
+- 1 Tbsp chopped sweet pickles
+- 1 Tbsp lemon juice
+- 2 tsp finely chopped drained capers
+- 1 tsp dried tarragon, or 1½ tsp fresh, chopped
+- ½ tsp whole-grain or coarse-ground mustard
+- A few drops of hot sauce, optional
+- **½ tsp kosher salt, plus more to taste** *(printed: "salt and pepper to taste," no quantity — a working amount set per Cody's standing preference; see note above)*
+- Freshly ground black pepper, to taste
+
+#### B. Cooking Instructions
+
+**1. Mix everything but the salt and pepper.**
+Combine the mayonnaise, green onions, pickles, lemon juice, capers, tarragon, mustard, and hot sauce (if using) in a bowl.
+
+**2. Season and chill.**
+Season to taste with the salt and pepper. Let it sit in the fridge for a couple of hours before serving. Keeps at least a week.
+
+**NOTES:** Lime juice or pickle juice can substitute for the lemon juice. Cornichons work in place of capers, or skip them and add a little finely minced celery instead. Sweet pickle relish can replace the chopped pickles. Dijon-style mustard can stand in for the whole-grain. Skip the hot sauce, or add more, or use red pepper flakes or chipotle powder for the heat instead.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Mayonnaise — ½ cup
+- 🛒 Green onions
+- 🛒 Sweet pickles — 1 Tbsp chopped
+- 🛒 Lemon juice — 1 Tbsp
+- 🛒 Capers — 2 tsp
+- 🛒 Dried tarragon
+- 🛒 Whole-grain mustard — ½ tsp
+- 🛒 Hot sauce, optional
+- 🛒 Kosher salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup)* | ~800 | 88 g | 1 g | 6 g | 0.5 g |
+| **Per serving** *(1 Tbsp)* | ~100 | 11 g | 0.1 g | 0.8 g | 0.1 g |
+
+**What a serving is:** 1 Tbsp alongside a piece of grilled or fried fish — mayonnaise is essentially the whole calorie count.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.125 Chocolate Chile Barbecue Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A genuinely unusual sauce — the classic sweet-tart barbecue-sauce profile balanced against cocoa's bitterness and a touch of smoked chile heat. Great on pork ribs or meatloaf.
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed as **½ tsp kosher salt**, increased here to **1 tsp** — 2×, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** *(dissolve sugar, then 30 min simmer)* · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- ¾ cup sugar
+- ½ cup water
+- ¾ cup rice vinegar
+- ½ cup tomato paste
+- ¼ cup orange juice
+- 2 Tbsp unsweetened cocoa powder *(Hershey's Natural Unsweetened, per the source)*
+- 1 Tbsp Worcestershire sauce
+- ½ tsp pure vanilla extract
+- **1 tsp kosher salt** *(printed: ½ tsp — increased 2× per Cody's standing preference; see note above)*
+- ⅛ tsp chipotle chile powder
+
+#### B. Cooking Instructions
+
+**1. Dissolve the sugar.**
+In a saucepan, combine the sugar and water and bring to a simmer over low heat. Simmer until the sugar has fully dissolved.
+
+**2. Add everything else and simmer.**
+Add the remaining ingredients, stir well, and simmer for 30 minutes more.
+
+**For pork ribs:** skip the herb-and-spice rub entirely and paint this sauce on just before the ribs are done. For a festive touch, grate a little orange zest on top at the end.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sugar — ¾ cup
+- 🛒 Rice vinegar — ¾ cup
+- 🛒 Tomato paste — ½ cup
+- 🛒 Orange juice — ¼ cup
+- 🛒 Unsweetened cocoa powder — 2 Tbsp
+- 🛒 Worcestershire sauce — 1 Tbsp
+- 🛒 Pure vanilla extract — ½ tsp
+- 🛒 Kosher salt — 1 tsp
+- 🛒 Chipotle chile powder — ⅛ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a generous 2 cups)* | ~750 | 3 g | 6 g | 175 g | 6 g |
+| **Per serving** *(2 Tbsp)* | ~24 | 0.1 g | 0.2 g | 5.5 g | 0.2 g |
+
+**What a serving is:** 2 Tbsp painted onto ribs or meatloaf near the end of cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.126 Grand Marnier Glaze
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A sweet glaze for salty, cured meats like ham — most Southern glazes lean on Coca-Cola, but this one uses a modest amount of orange liqueur instead, and its flavor shines through.
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **📌 Cody's Note on salt:** printed as **½ tsp kosher salt**, increased here to **1 tsp** — 2×, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~40 min** *(simmer, then reduce by about a third)* · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 1½ cups fresh orange juice
+- 1 cup sugar
+- 6 Tbsp Grand Marnier liqueur *(or another orange liqueur, such as Cointreau or triple sec, if budget is tight)*
+- ¼ cup honey
+- ¼ cup orange marmalade
+- 1 Tbsp Dijon mustard
+- ½ tsp fresh thyme leaves
+- **1 tsp kosher salt** *(printed: ½ tsp — increased 2× per Cody's standing preference; see note above)*
+- ¼ tsp freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Combine and simmer.**
+Combine all the ingredients in a medium saucepan and bring to a simmer for about 5 minutes.
+
+**2. Reduce.**
+Return the mixture to a very low boil and cook until the sauce has reduced by about one third.
+
+**3. Glaze the meat.**
+Paint it onto ham or other cured meats at the very end of cooking.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh orange juice — 1½ cups
+- 🛒 Sugar — 1 cup
+- 🛒 Grand Marnier liqueur — 6 Tbsp
+- 🛒 Honey — ¼ cup
+- 🛒 Orange marmalade — ¼ cup
+- 🛒 Dijon mustard — 1 Tbsp
+- 🛒 Fresh thyme leaves — ½ tsp
+- 🛒 Kosher salt — 1 tsp
+- 🛒 Black pepper — ¼ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a generous 2 cups)* | ~1,400 | 0.5 g | 3 g | 340 g | 2 g |
+| **Per serving** *(2 Tbsp)* | ~44 | 0 g | 0.1 g | 10.6 g | 0.1 g |
+
+**What a serving is:** 2 Tbsp painted onto a ham or other cured meat as it finishes cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.127 Cascabel Mole, Inspired by Chef Rick Bayless
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, credited there to Chef Rick Bayless. Meathead saw Bayless's play *Cascabel*, produced by Chicago's Lookingglass Theatre in a collaboration between Bayless, Heidi Stillman, and Tony Hernandez, and adapted the mole recipe and ingredients Bayless created for the production and applied to it his own well-honed sensibilities. A genuine mole — dried chiles, toasted nuts and seeds, chocolate, a whole cooking process rather than a quick sauce.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd)
+
+> **📌 Cody's Note on salt:** printed as **1½ tsp kosher salt**, increased here to **1 Tbsp** — 2×, per Cody's standing preference, for an 8-serving batch.
+
+**🟡 Medium** · **Prep ~30 min** · **Cook ~1 hr** *(active — toasting chiles, nuts, and seeds all carry real scorch risk if left unattended)* · **Start to finish ~1 hr 30 min**
+
+#### A. Ingredients
+
+- ½ onion
+- 3 (8-inch) corn tortillas
+- 4½ oz whole dried ancho chiles
+- 2 oz whole dried cascabel chiles
+- 5 Tbsp sesame seeds
+- ¼ cup raw slivered almonds
+- ¼ cup lard or vegetable oil
+- 6 garlic cloves, coarsely chopped
+- 1 (1-inch) cinnamon stick
+- 1 tsp dried oregano
+- ½ tsp freshly ground black pepper
+- ½ tsp ground cloves
+- 4 cups beef or chicken stock
+- 2 oz unsweetened dark chocolate, chopped or shaved
+- ¼ cup honey
+- 1 Tbsp sugar
+- Juice of 1 lime
+- **1 Tbsp kosher salt** *(printed: 1½ tsp — increased 2× per Cody's standing preference; see note above)*
+- 8 pieces of chicken, pork chops, or steaks
+- 8 servings of rice, to accompany
+
+#### B. Cooking Instructions
+
+**1. Char the onion and tortillas.**
+Slice the onion into 3 thick rings. Grill over medium-high direct heat with the lid up until charred a little on both sides. Set aside. Grill the tortillas until they start to brown, turning every 5 seconds to prevent burning. Set aside.
+
+**2. Toast the chiles — watch them closely.**
+Heat a 3-quart pot over medium-high heat. Stem and seed the chiles and break them into large, flat pieces. Lay them in the pot skin-side down and press them flat against the hot metal as they warm to release their oils. **Do not let them burn — the moment you see smoke, flip and pull them out.** This is the step where the recipe can genuinely go wrong.
+
+**3. Toast the sesame seeds, then the almonds.**
+Put the sesame seeds in the same pot and toast over medium heat until they get faint golden splotches. Set aside ¼ cup of the seeds and reserve the remaining 2 Tbsp for garnish. Add the almonds to the pot; remove them once they get golden spots too.
+
+**4. Build the base and simmer.**
+Add the lard to the pot. Once hot, add the onion, chiles, ¼ cup toasted sesame seeds, the almonds, garlic, cinnamon stick, oregano, black pepper, and cloves. Let it sizzle about 1 minute, then add the stock, chocolate, honey, and sugar. Tear the tortillas into small chunks and add them. Bring to a simmer and cook about 30 minutes.
+
+**5. Purée and strain.**
+Let the sauce cool a bit, then purée it in batches of about 1 cup in a blender or food processor until smooth. Wipe out the pot, then pour the sauce back through a medium-mesh strainer into it. Stir in the lime juice and salt.
+
+**6. Reduce to sauce consistency.**
+Return the sauce to a simmer and cook at a very low boil until thick, stirring and scraping the bottom every 5 minutes or so to keep it from scorching or sticking. Taste and adjust, adding more salt or sugar as needed. Add water if it gets too thick — the target is roughly the consistency of bottled spaghetti sauce.
+
+**7. Cook and plate.**
+While the sauce simmers, salt and pepper the meat, lightly oil it, and grill. Spoon sauce onto each of eight plates, add a scoop of rice, and top with a piece of meat and the reserved sesame seed garnish.
+
+**NOTE:** Ancho chiles are essential here — there's no real substitute for their raisin-and-chocolate character, though they can be hard to find. Guajillo chiles are the closest substitute for cascabels if those are unavailable.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong Market / Chinese market**
+
+- ☯️ Dried cascabel and ancho chiles *(worth checking — an international market sometimes stocks dried chiles a standard grocery doesn't)*
+
+**🛒 General grocery**
+
+- 🛒 Onion — ½
+- 🛒 Corn tortillas — 3
+- 🛒 Sesame seeds — 5 Tbsp
+- 🛒 Raw slivered almonds — ¼ cup
+- 🛒 Lard or vegetable oil — ¼ cup
+- 🛒 Garlic — 6 cloves
+- 🛒 Cinnamon stick — 1
+- 🛒 Dried oregano, black pepper, ground cloves
+- 🛒 Beef or chicken stock — 4 cups
+- 🛒 Unsweetened dark chocolate — 2 oz
+- 🛒 Honey — ¼ cup
+- 🛒 Sugar — 1 Tbsp
+- 🛒 Lime — 1
+- 🛒 Kosher salt — 1 Tbsp
+- 🛒 Chicken, pork chops, or steaks — 8 pieces
+- 🛒 Rice, for 8 servings
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch of sauce** *(sauce only, not the meat or rice)* | ~2,100 | 130 g | 30 g | 200 g | 30 g |
+| **Per serving** *(sauce only, serves 8)* | ~260 | 16 g | 4 g | 25 g | 4 g |
+
+**What a serving is:** a generous ladle of sauce (about ½ cup) over one piece of grilled meat and a scoop of rice — the figures above cover the sauce only; add the meat and rice separately.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.128 Burger Glop
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. Meathead's own favorite hamburger sauce, with a mild kick — meant to go on the bun *before* the patty so the sauce soaks in, coats the meat, and anchors the patty in place, rather than piled on top.
+
+**Techniques used:** none — this is a stir-together condiment.
+
+> **📌 Cody's Note on salt:** printed as **¼ tsp kosher salt**, increased here to **½ tsp** — 2×, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(a nap during the process is entirely optional, per the source)*
+
+#### A. Ingredients
+
+- ½ cup mayonnaise
+- ½ cup [Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) or ketchup
+- 3 Tbsp yellow mustard
+- 1 Tbsp Tabasco Chipotle Sauce
+- **½ tsp kosher salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ¼ tsp garlic powder
+
+#### B. Cooking Instructions
+
+**1. Whisk it together.**
+Whisk everything together in a bowl until smooth.
+
+**2. Store.**
+Refrigerate in a tightly lidded container for 1 to 2 months.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Mayonnaise — ½ cup
+- 🛒 Kansas City-style barbecue sauce or ketchup — ½ cup
+- 🛒 Yellow mustard — 3 Tbsp
+- 🛒 Tabasco Chipotle Sauce — 1 Tbsp
+- 🛒 Kosher salt — ½ tsp
+- 🛒 Garlic powder — ¼ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1¼ cups)* | ~1,100 | 105 g | 2 g | 45 g | 0.5 g |
+| **Per serving** *(1 Tbsp)* | ~55 | 5.3 g | 0.1 g | 2.3 g | 0 g |
+
+**What a serving is:** 1 Tbsp spread on the bottom bun before the patty goes on — mayonnaise is the bulk of the calories.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.129 Sage and Thyme Board Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter's own worked example under its "Board Sauces" heading — the technique of chopping fresh herbs and aromatics right onto the cutting board and rolling the just-carved, juice-running meat through them, credited there to Chef Adam Perry Lang. **Board sauces as a category are already covered in [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)** ("Meathead's own ranking: a simple board sauce beats both a rub and a marinade") — this is the book's own specific worked recipe for one.
+
+**Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
+
+> **📌 Cody's Note on salt:** printed as **"Salt, optional"** — no fixed quantity. **¼ tsp kosher salt set as a working amount here**, per Cody's standing preference for salting rather than leaving it out — kept light since this coats meat that's likely already been dry-brined per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time).
+
+**🟢 Easy** · **Prep ~10 min** *(timed to happen while the meat is still on the fire)* · **Cook none** · **Start to finish ~10 min active**, *enough for 2 lb of meat*
+
+#### A. Ingredients
+
+- 5 large fresh sage leaves
+- 2 Tbsp fresh thyme leaves
+- 1 garlic clove
+- ½ fresh red jalapeño, stemmed and seeded
+- ¼ tsp coarsely ground black pepper
+- 6 Tbsp high-quality extra-virgin olive oil
+- **¼ tsp kosher salt** *(printed: "salt, optional," no quantity — a working amount set per Cody's standing preference; see note above)*
+
+#### B. Cooking Instructions
+
+**1. Chop the aromatics while the meat cooks.**
+While the meat is on the fire, coarsely chop the sage, thyme, garlic, and jalapeño together and put them in a coffee cup or small bowl. Add the black pepper and salt.
+
+**2. Add the oil.**
+Drizzle the olive oil into the cup with the chopped aromatics.
+
+**3. Roll the carved meat through it.**
+When the meat comes off the fire, pour the herb-and-oil mix onto a cutting board or platter. Carve the meat right there and let the juices run into it. Roll the sliced meat through the sauce so everything gets a light coating.
+
+**Don't make this ahead** — the oil is friendly to the botulism microbe once mixed with the other ingredients, even refrigerated, so mix it fresh right before carving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh sage — 5 large leaves
+- 🛒 Fresh thyme — 2 Tbsp
+- 🛒 Garlic — 1 clove
+- 🛒 Fresh red jalapeño — ½
+- 🛒 Black pepper
+- 🛒 Extra-virgin olive oil — 6 Tbsp
+- 🛒 Kosher salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup, for 2 lb meat)* | ~730 | 82 g | 1 g | 2 g | 0.5 g |
+| **Per serving** *(1 Tbsp, per ~½ lb of meat)* | ~91 | 10 g | 0.1 g | 0.3 g | 0.1 g |
+
+**What a serving is:** the herb-oil coating that clings to a normal dinner portion of carved meat, about ½ lb — almost all the calories come from the olive oil.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.130 Chimichurri Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, credited there to Chef Ryan Udette. The classic no-cook Argentine green sauce for beef — olive oil, garlic, parsley, and salt as the foundation, with cilantro and dried chiles de árbol here instead of the mint-and-water version elsewhere. **Distinct from [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) (Raichlen), [§4.94 Red Chimichurri](#494-red-chimichurri), and [§4.95 "Dry" Chimichurri](#495-dry-chimichurri)** — a fourth chimichurri now in this cookbook, from a fourth source; worth a side-by-side taste sometime.
+
+**Techniques used:** none — this is a no-cook blended sauce.
+
+> **📌 Cody's Note on salt:** printed as **¼ tsp kosher salt**, increased here to **½ tsp** — 2×, per Cody's standing preference, for a batch that seasons 8 to 12 servings of steak.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min**, *enough for 8 to 12 servings of steak*
+
+#### A. Ingredients
+
+- ½ cup olive oil
+- ⅓ cup distilled white vinegar
+- 1 cup finely chopped fresh flat-leaf parsley leaves
+- 1 cup finely chopped fresh cilantro leaves
+- **½ tsp kosher salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ¼ tsp freshly ground black pepper
+- 3 garlic cloves, minced or pressed
+- 2 dried chiles de árbol
+
+#### B. Cooking Instructions
+
+**1. Combine everything in a food processor or blender.**
+Add all the ingredients and pulse until the green parts are broken into small bits, scraping down the bowl as needed. Chunks are fine — this doesn't need to be homogeneous.
+
+**2. Use fresh, or store briefly.**
+Use right away, or refrigerate for a day or two. The bright green color fades a little with time, but the flavor holds.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Olive oil — ½ cup
+- 🛒 Distilled white vinegar — ⅓ cup
+- 🛒 Fresh flat-leaf parsley — 1 cup chopped
+- 🛒 Fresh cilantro — 1 cup chopped
+- 🛒 Kosher salt — ½ tsp
+- 🛒 Black pepper — ¼ tsp
+- 🛒 Garlic — 3 cloves
+- 🛒 Dried chiles de árbol — 2
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1½ cups, serves 8–12)* | ~1,000 | 110 g | 2 g | 8 g | 3 g |
+| **Per serving** *(2 Tbsp, of 10)* | ~100 | 11 g | 0.2 g | 0.8 g | 0.3 g |
+
+**What a serving is:** about 2 Tbsp spooned over a portion of grilled steak.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.131 Pesto
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. **Distinct from [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)**, the existing simpler version already in this cookbook — this one uses noticeably more basil relative to oil, and adds kalamata olives, an unorthodox but real addition per the source itself ("I know olives rarely appear in pesto recipes... but do try it"). Also feeds [§4.116-adjacent uses](#4116-butcher-block-seasoning) the way any good pantry pesto does — stirred into soup, spread on toast, or, per the source, slathered on a pork loin roast before cooking.
+
+**Techniques used:** none — this is a no-cook blended sauce.
+
+> **📌 Cody's Note on salt:** printed as **¼ tsp table salt**, increased here to **½ tsp** — 2×, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**, *makes a bit more than 1 cup*
+
+#### A. Ingredients
+
+- 3 cups firmly packed fresh basil leaves
+- ½ cup pine nuts *(green pistachios, sunflower seeds, unsalted cashews, or blanched almonds substitute fine)*
+- ½ cup grated Parmigiano-Reggiano cheese
+- 6 kalamata olives, pitted
+- 3 large garlic cloves, coarsely chopped
+- ½ tsp ground black pepper
+- **½ tsp kosher or table salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ⅔ cup extra-virgin olive oil
+
+#### B. Cooking Instructions
+
+**1. Chop everything but the oil.**
+Put all the ingredients except the olive oil in a blender or food processor and pulse until everything is chopped fine but not smooth.
+
+**2. Stream in the oil.**
+With the blender or processor running on low, slowly drizzle in the oil until you have a paste.
+
+**3. Store.**
+Keep in an airtight jar in the fridge for up to a week — top with a thin layer of olive oil as a seal if it needs to last longer. It freezes very well.
+
+**NOTES:** Substitute a little fresh Thai basil or mint for some of the basil (up to ⅓ cup) for depth, though not authentic Genovese pesto. Fresh basil and high-quality olive oil and Parmigiano-Reggiano (not the pre-grated kind from a green paper tube) matter more than anything else in this recipe. Good pine nuts have gotten expensive; the Asian-sourced kind can taste metallic or bitter.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh basil leaves — 3 cups packed
+- 🛒 Pine nuts — ½ cup
+- 🛒 Parmigiano-Reggiano cheese, grated — ½ cup
+- 🛒 Kalamata olives — 6, pitted
+- 🛒 Garlic — 3 large cloves
+- 🛒 Black pepper — ½ tsp
+- 🛒 Kosher salt — ½ tsp
+- 🛒 Extra-virgin olive oil — ⅔ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a bit more than 1 cup)* | ~1,850 | 190 g | 24 g | 12 g | 4 g |
+| **Per serving** *(2 Tbsp, about 8 servings)* | ~230 | 24 g | 3 g | 1.5 g | 0.5 g |
+
+**What a serving is:** 2 Tbsp tossed with a plate of pasta or spread on toast — olive oil carries most of the fat and calories.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.132 Roasted Red Pepper and Garlic Coulis
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A thick, puréed vegetable sauce — lovely as a dipping sauce for grilled meats and potatoes, or stirred into risotto.
+
+**Techniques used:** none — this is a no-cook blended sauce, built from already-roasted vegetables.
+
+> **📌 Cody's Note on salt:** printed as **¼ tsp kosher salt**, increased here to **½ tsp** — 2×, per Cody's standing preference.
+
+**🟢 Easy** · **Prep ~25 min** *(mostly if roasting the peppers and garlic fresh — quicker with jarred roasted peppers and pre-roasted garlic)* · **Cook none** · **Start to finish ~25 min**
+
+#### A. Ingredients
+
+- 2 roasted red peppers, coarsely chopped
+- 7 roasted garlic cloves, peeled
+- 6 Tbsp extra-virgin olive oil
+- 2 Tbsp lemon juice
+- **½ tsp kosher salt** *(printed: ¼ tsp — increased 2× per Cody's standing preference; see note above)*
+- ⅛ tsp freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Blend until smooth.**
+In a food processor or blender, whir all the ingredients together until smooth.
+
+**2. Use or store.**
+Use right away, or cover and refrigerate for up to 1 week.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Roasted red peppers — 2
+- 🛒 Roasted garlic cloves — 7
+- 🛒 Extra-virgin olive oil — 6 Tbsp
+- 🛒 Lemon juice — 2 Tbsp
+- 🛒 Kosher salt — ½ tsp
+- 🛒 Black pepper — ⅛ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1⅓ cups)* | ~900 | 96 g | 3 g | 12 g | 3 g |
+| **Per serving** *(2 Tbsp)* | ~85 | 9 g | 0.3 g | 1.1 g | 0.3 g |
+
+**What a serving is:** 2 Tbsp as a dipping sauce alongside grilled meat or potatoes, or stirred into a bowl of risotto.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -7351,6 +9331,14 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T43](#t43-faux-cambro--holding-meat-hot-for-hours) | Faux Cambro — Holding Meat Hot for Hours | `meathead` `cambro` `holding` `cooler` `brisket` `tenderizing` |
 | [T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) | Food Safety — The Real Logic (and the Target Temperature Table) | `meathead` `food-safety` `pasteurization` `7d` `internal-temp` `myth` `ground-meat` |
 | [T45](#t45-bones--do-they-actually-add-flavor) | Bones — Do They Actually Add Flavor? | `meathead` `bones` `marrow` `wet-vs-dry` `grill-marks` `myth` |
+| [T46](#t46-freezing-and-reheating-leftovers) | Freezing and Reheating Leftovers | `meathead` `leftovers` `freezing` `reheating` `vacuum-seal` `sous-vide` |
+| [T47](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) | Cooking Vegetables and Fruits — and Reverse-Searing Them Too | `meathead` `vegetables` `fruit` `reverse-sear` `grilling` `two-zone` |
+| [T48](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) | Basting and Spritzing — and What's Really Oozing Out of the Meat | `meathead` `basting` `spritzing` `bark` `stall` `myoglobin` `albumin` |
+| [T49](#t49-lookin-aint-cookin--and-other-lid-myths) | "Lookin' Ain't Cookin'" — and Other Lid Myths | `meathead` `lid` `myth` `two-zone` `temperature-drop` |
+| [T50](#t50-saucing-strategies--when-how-much-and-food-safety) | Saucing Strategies — When, How Much, and Food Safety | `meathead` `barbecue-sauce` `saucing` `food-safety` `storage` |
+| [T51](#t51-cooking-more-than-one-large-piece-of-meat-at-once) | Cooking More Than One Large Piece of Meat at Once | `meathead` `multiple-cuts` `batch-cooking` `smoker-capacity` `cooking-time` |
+| [T52](#t52-water-pans-and-drip-pans) | Water Pans and Drip Pans | `meathead` `water-pan` `drip-pan` `hardware` `humidity` `stall` `flare-up` |
+| [T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) | The Science of a Good Rub — Three S's, No Salt in Rubs, and Storage | `meathead` `rub-blending` `sugar-savory-spicy` `no-salt-in-rubs` `storage` `fresh-vs-dried-herbs` |
 
 ---
 
@@ -10678,6 +12666,184 @@ Microbes on a steak live **only on the surface**, and that surface hits well pas
 **Grill marks do genuinely help on thin foods** — shrimp, skinny chops, skirt steak, asparagus, bell peppers — anywhere you need to brown fast without cooking the interior all the way through. Just don't let the stripes turn into burnt, bitter scars.
 
 **For maximum crust on a thick steak (over 1 inch):** use cheap, thin wire grates rather than heavy cast-iron ones, so browning comes from the fire's direct radiant heat itself rather than from hot metal — and **keep moving the meat** rather than letting it sit. Thin grates won't leave visible marks the way thick ones do, but constant repositioning gives maximum radiant exposure and an even mahogany color across the whole surface instead of a few dark stripes.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T46. Freezing and Reheating Leftovers
+
+<!-- TECHNIQUE-TAGS: meathead, leftovers, freezing, reheating, vacuum-seal, sous-vide -->
+**Tags:** `meathead` · `leftovers` · `freezing` · `reheating` · `vacuum-seal` · `sous-vide`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Software" chapter, dictated by Cody.
+**Used in:** every smoked or slow-cooked cut in this cookbook that outlasts one meal — [§6.2 Pulled Pork](#62-pulled-pork), [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) — and pairs directly with [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method)'s equipment for the reheat method below.
+
+**Freeze it right or the freezer does the damage, not time itself.** Air is the enemy — it dries meat out (freezer burn) and lets off-flavors in. **Vacuum-sealing beats a zip-top bag beats loose foil**, in that order. Portion before freezing into meal-sized amounts so you're not thawing more than you need. Label with the date; even vacuum-sealed, quality drifts down after a few months.
+
+**Thaw in the refrigerator, never on the counter** — same food-safety logic as [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table): the danger zone is the danger zone whether the meat is raw or already cooked.
+
+**The best reheat method for anything already cooked low-and-slow: sous vide.** Vacuum-sealed (or a well-sealed zip-top bag with the air pressed out) and dropped in a water bath around 140–150°F, meat comes back up to serving temperature gently, evenly, with essentially none of the moisture loss a microwave or dry oven reheat causes — the same gentle-heat logic behind [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method). A splash of stock or the meat's own reserved juices in the bag helps even more.
+
+**Second-best: a low oven, foil-covered, with a little added liquid** — 250–300°F, covered, until just warmed through. **Worst: the microwave**, which heats unevenly and dries out anything without a sauce to protect it; if it's the only option, cover the dish and use a lower power setting in short bursts rather than one long blast.
+
+**Bark and crust don't survive a gentle reheat** — if the crust matters (ribs, a seared steak), finish with a quick blast of direct heat (broiler, hot skillet, or a few minutes back over the grill's direct side per [§T34](#t34-two-zone-fire-setup)) right at the end, after the interior's already warmed through gently. Reheating hot-and-fast from cold does the opposite: crust scorches before the center catches up.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T47. Cooking Vegetables and Fruits — and Reverse-Searing Them Too
+
+<!-- TECHNIQUE-TAGS: meathead, vegetables, fruit, reverse-sear, grilling, two-zone -->
+**Tags:** `meathead` · `vegetables` · `fruit` · `reverse-sear` · `grilling` · `two-zone`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Software" chapter, dictated by Cody. Pairs with [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking), which covers the same two-stage idea for meat.
+**Used in:** [§5.14 Grilled Corn](#514-grilled-corn), [§5.38 Roasted Veggies](#538-roasted-veggies), and any future grilled vegetable or fruit side.
+
+**Vegetables and fruits are mostly water and simple sugars, not protein and connective tissue** — so most of the meat-science apparatus in [§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)/[§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) doesn't apply. What *does* apply: Maillard and caramelization (per [§T39](#t39-maillard-vs-caramelization--gbd)) are exactly as real on a plant's sugars and amino acids as they are on meat, and a dry surface is exactly as important — crowd a pan of vegetables and they steam in their own released moisture instead of browning.
+
+**Reverse-searing works on dense vegetables the same way it works on a thick steak.** Cook something dense and starchy (a whole sweet potato, a thick beet, a wedge of winter squash) low and slow first — indirect heat or a low oven — until the interior is fully tender, *then* finish it over direct high heat for a couple of minutes a side to build a caramelized crust on the outside. Cooking it hot the whole way through either burns the surface before the center softens, or leaves the center underdone once the outside looks done — the identical tradeoff [§T41](#t41-reverse-sear--two-stage-cooking) describes for a thick steak or a whole chicken breast.
+
+**Fruit caramelizes fast** — high sugar, comparatively little water to boil off first — so a halved peach, a pineapple ring, or a banana in its peel needs only a couple of minutes of direct heat to pick up real color and a wholly different flavor than raw. Watch it closely; sugar goes from caramelized to burnt in the same "under a minute" window [§T39](#t39-maillard-vs-caramelization--gbd) warns about for a rub.
+
+**Thin, quick-cooking vegetables (asparagus, zucchini spears, bell pepper strips) skip the reverse-sear entirely** — direct heat the whole way, exactly as in [§T34](#t34-two-zone-fire-setup)'s lid-off/thin-cut rule, since there's no dense interior that needs a head start.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T48. Basting and Spritzing — and What's Really Oozing Out of the Meat
+
+<!-- TECHNIQUE-TAGS: meathead, basting, spritzing, bark, stall, myoglobin, albumin -->
+**Tags:** `meathead` · `basting` · `spritzing` · `bark` · `stall` · `myoglobin` · `albumin`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Software" chapter, dictated by Cody. Reads alongside [§T33's stall section](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) and [§T36's myowater note](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right).
+**Used in:** any long smoke where bark matters — [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) — and every mop sauce in [§4](#4-rubs-seasonings-sauces--condiments), including the new Meathead ones ([§4.119](#4119-east-carolina-mop-sauce), [§4.121](#4121-texas-mop-sauce)).
+
+**What that white stuff on salmon and the pink liquid on a burger actually are, cleared up:** the pink liquid is **myowater** — myoglobin-carrying water, not blood, exactly as [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right) already busts. The white, curdled-looking stuff that oozes out of overcooked salmon is a **different phenomenon** — **albumin**, a protein in the fish's muscle that coagulates and gets pushed out of the flesh as heat contracts the muscle fibers, the same way an egg white turns from clear to solid white. It's not a sign of anything gone wrong beyond "a bit overcooked" — mild heat and not overcooking in the first place keeps it from showing up at all.
+
+**Basting and spritzing exist to fight the same surface-drying problem, from opposite directions:**
+
+- **Basting** brushes a liquid (mop sauce, melted fat, pan drippings) onto the meat's surface. It cools the surface slightly, adds a thin flavorful layer, and can help bark development if the liquid contains sugar or other browning-friendly compounds.
+- **Spritzing** mists a thin liquid (apple juice cut with water or vinegar is a common choice) over the surface with a spray bottle — a lighter touch than basting, meant mainly to keep the surface from drying and cracking during a very long smoke, not to add much flavor.
+
+**Neither one meaningfully slows the actual cook or "washes off" a rub** — both add moisture to the surface, which briefly increases evaporative cooling (feeding the stall a little longer, per [§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)) but doesn't undo the rub already bonded to the meat's surface. **Do it with the lid open as briefly as possible** — every open-lid basting pass lets heat escape and stretches the total cook time a little, so batch it (every 45 min to 1 hr on a long smoke) rather than constantly.
+
+**A thin, vinegary mop sauce (East Carolina style) penetrates further than a thick, sugary one (Kansas City style)** — exactly the tradeoff noted in [§4.119](#4119-east-carolina-mop-sauce)'s and [§4.117](#4117-kansas-city-classic-barbecue-sauce)'s headnotes: thin liquid gets pulled in as the meat's own surface moisture evaporates out, while a thick sauce mostly sits on top and is better saved for the final few minutes so its sugar doesn't scorch (see [§T50](#t50-saucing-strategies--when-how-much-and-food-safety) on timing).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T49. "Lookin' Ain't Cookin'" — and Other Lid Myths
+
+<!-- TECHNIQUE-TAGS: meathead, lid, myth, two-zone, temperature-drop -->
+**Tags:** `meathead` · `lid` · `myth` · `two-zone` · `temperature-drop`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Software" chapter, dictated by Cody. Companion to [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup).
+**Used in:** every low-and-slow cook in this cookbook — [§6.2 Pulled Pork](#62-pulled-pork), [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) — where the temptation to check on the meat is strongest and the cost of giving in is highest.
+
+> ⚠️ **Myth busted: "if you're lookin', you ain't cookin'."** The old warning is that opening the lid lets heat escape and adds real time to the cook. **True, but the size of the effect is wildly overstated.** A quick peek — a few seconds to check color or spritz — barely dents the pit temperature and recovers almost immediately once the lid's back down, especially on a well-insulated smoker with a good bed of coals or a full water pan (see [§T52](#t52-water-pans-and-drip-pans) below) acting as thermal ballast.
+
+**What actually costs you time:** leaving the lid open for minutes at a stretch (rearranging coals, adding a lot of wood, fully repositioning the meat), or opening it constantly and rapidly — every few minutes rather than every 45 minutes to an hour. **The rule that actually matters: batch your lid-opens.** Do everything you need — baste, spritz, rotate, check the fire — in one trip, then close it and leave it alone for the next interval.
+
+**A related myth, same root cause:** constantly flipping a thick cut on the grill doesn't ruin the sear the way people assume — [§T39](#t39-maillard-vs-caramelization--gbd)'s frequent-turning advice already recommends it for even browning. What actually hurts is the **lid discipline** on an indirect cook, not the flip count on a direct one; the two aren't the same situation and the "don't touch it" instinct people apply to steaks doesn't transfer to a covered low-and-slow smoke.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T50. Saucing Strategies — When, How Much, and Food Safety
+
+<!-- TECHNIQUE-TAGS: meathead, barbecue-sauce, saucing, food-safety, storage -->
+**Tags:** `meathead` · `barbecue-sauce` · `saucing` · `food-safety` · `storage`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — both the "Software" chapter's serving-strategy pages and the "Brines, Rubs, and Sauces" chapter's own Saucing Strategies and storage sidebars, dictated by Cody.
+**Used in:** every barbecue sauce in [§4](#4-rubs-seasonings-sauces--condiments), old and new — [§4.35](#435-mustard-barbecue-sauce), [§4.92](#492-carolina-mustard-barbecue-sauce), and the new Meathead sauces ([§4.117](#4117-kansas-city-classic-barbecue-sauce) through [§4.121](#4121-texas-mop-sauce)) all get sauced per the timing rules below rather than however feels natural in the moment.
+
+**Most sauces are better cooked onto the food than served cold alongside it — but timing is everything.** Heat and the meat's own juices alter a sauce's molecules once it's applied; a sweet, sugary sauce can caramelize into something genuinely better, or scorch into something bitter, depending entirely on when it goes on.
+
+- **Sugar starts caramelizing above roughly 320°F.** A sweet sauce applied too early, or over too-hot direct heat, gets gummy or burns outright. **Apply it at the very end** — just long enough to heat through and set, one or two coats, never more. **Don't oversauce**; a thick coat scorches before it ever sets.
+- **Low-and-slow cooks:** add sauce about 30 minutes before pulling the meat, then, for a final sizzle, move it over direct heat for about 5 minutes a side to set the glaze — watching constantly, since a perfectly cooked rack of ribs can go from glazed to incinerated **faster than the meat itself went from pink to done.** This is also where a thin mop sauce (see [§T48](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat)) differs from a thick finishing sauce — the mop goes on throughout the cook because it's thin enough not to burn; the thick sauce goes on only at the very end.
+- **Serve extra sauce on the side, always** — some people want more, some want less, and it lets everyone control their own plate.
+
+**Food safety for the sauce itself, separate from the meat:**
+
+- **Never reuse sauce that's touched raw meat** as a finishing or table sauce — pour only as much as you need into a small cup or bowl for basting, and throw out whatever's left in that cup afterward. Boiling leftover basting sauce doesn't reliably kill everything that may have gotten into it.
+- **A barbecue sauce with no added preservatives keeps for weeks in the fridge in a clean, tightly lidded jar or bottle** — vinegar, salt, and sugar all have real antimicrobial properties that help, but this cookbook's homemade sauces aren't shelf-stable at room temperature the way a commercial bottle is. Pour it into the storage container while it's still hot from the stove if possible — the heat helps kill any stray airborne microbes on the way in — and keep it refrigerated, never left out on the table or by the grill for extended periods (oxygen and heat both degrade a fresh sauce's flavor fast, on top of the food-safety angle).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T51. Cooking More Than One Large Piece of Meat at Once
+
+<!-- TECHNIQUE-TAGS: meathead, multiple-cuts, batch-cooking, smoker-capacity, cooking-time -->
+**Tags:** `meathead` · `multiple-cuts` · `batch-cooking` · `smoker-capacity` · `cooking-time`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Software" chapter, dictated by Cody. Reads alongside [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time), which names thickness (not weight) as the driver this entry builds on.
+**Used in:** any cookout feeding a crowd off one smoker — multiple racks of [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), two briskets at once for [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket).
+
+**Cooking two of something doesn't mean doubling the time — thickness still governs, not total mass.** Per [§T42](#t42-what-controls-cooking-time), a single 12 lb brisket and two 6 lb briskets cooked side by side finish in roughly the same time, because heat penetrates each piece from its own surface inward regardless of what else is in the smoker — **as long as there's enough airflow and clearance around every piece for that to hold true.**
+
+**What actually slows things down when you load up a smoker:**
+
+- **Crowding blocks airflow and radiant heat**, so pieces packed close together — or stacked — cook slower and less evenly than the same cuts with a few inches of clearance on every side. Leave real space between pieces, not just between the meat and the smoker walls.
+- **A full smoker recovers its temperature more slowly** after the lid opens, since there's more cold mass to reheat and less open interior air being warmed — a modest version of the "don't open the lid too often" cost from [§T49](#t49-lookin-aint-cookin--and-other-lid-myths), amplified when the box is full.
+- **Pieces of different thickness finish at different times regardless of how many are in there** — plan around the thickest piece, and pull thinner ones early rather than holding everything to one finish time.
+
+**The payoff for planning around this rather than fighting it:** [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) holds a finished piece safely for hours, so pulling cuts as each one hits temperature — rather than trying to force them to finish simultaneously — costs nothing and avoids overcooking the smaller or thinner pieces while waiting on the biggest one.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T52. Water Pans and Drip Pans
+
+<!-- TECHNIQUE-TAGS: meathead, water-pan, drip-pan, hardware, humidity, stall, flare-up -->
+**Tags:** `meathead` · `water-pan` · `drip-pan` · `hardware` · `humidity` · `stall` · `flare-up`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Hardware" chapter, dictated by Cody.
+**Used in:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) (the indirect side is exactly where a water pan sits) and every long smoke in [§6](#6-smoked-meats).
+
+**A water pan is a heavy pan of liquid set on the indirect side of the fire, under or beside the meat — two jobs at once:**
+
+1. **Thermal ballast.** Water is slow to heat and slow to cool, so a full pan smooths out temperature swings from wind, lid-opening, or fuel additions — the smoker holds a steadier temperature with one in than without.
+2. **Humidity**, which has a smaller effect on the meat than commonly claimed — meat itself is releasing plenty of its own moisture as it cooks — but does help keep the smoker's internal air from drying out the meat's surface too fast, and can genuinely help smoke adhere (per [§T35's cold-wet-surface note](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)).
+
+**What goes in it:** plain water is fine and the standard choice. Some pitmasters use sand or a firebrick instead, purely for the thermal-ballast effect without the evaporative cooling water adds — a reasonable choice on a smoker that already runs cool, since a water-filled pan's evaporation can compete with **[T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)'s stall mechanism** and make a stubborn stall slightly worse, not better. **Refill it during a long cook** rather than letting it run dry — an empty metal pan sitting over the fire can scorch and add an off flavor.
+
+**A drip pan is a different tool with a different job:** placed directly under the meat (not necessarily holding liquid), it catches rendering fat and juices so they don't fall onto the coals and cause **flare-ups** — a real risk with a fatty cut like a pork shoulder or a well-marbled brisket, per [§T40's fat cap discussion](#t40-the-fat-cap--trim-or-not). Line it with foil for easy cleanup, and consider saving the drippings (once cooled and the fat skimmed) as a flavor base for a pan sauce or the [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) itself.
+
+**A single pan can do both jobs** — positioned under the meat and filled with water (or stock, wine, or aromatics for extra flavor and a ready-made *jus*), it collects drippings and provides thermal/humidity ballast at the same time. The tradeoff: it also fills faster with rendered fat, which can eventually reduce its water-holding capacity and needs monitoring on a very long cook.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T53. The Science of a Good Rub — Three S's, No Salt in Rubs, and Storage
+
+<!-- TECHNIQUE-TAGS: meathead, rub-blending, sugar-savory-spicy, no-salt-in-rubs, storage, fresh-vs-dried-herbs -->
+**Tags:** `meathead` · `rub-blending` · `sugar-savory-spicy` · `no-salt-in-rubs` · `storage` · `fresh-vs-dried-herbs`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, dictated by Cody. Reads alongside [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) (the ⅛-inch penetration limit) and [§T37's double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) — this entry is where the book's *own* version of that same warning comes from.
+**Used in:** every rub in [§4](#4-rubs-seasonings-sauces--condiments), including all the new Meathead rubs, [§4.105](#4105-dalmatian-rub) through [§4.116](#4116-butcher-block-seasoning).
+
+#### The Three S's of a good rub
+
+A good rub is like a good orchestra — a range of instruments playing in harmony:
+
+- **Sugar.** A flavor enhancer that also helps browning and crust formation. Only a little is needed for a big impact.
+- **Savory.** Comes from glutamates (amino acids), green herbs, garlic, and other umami-adjacent flavorings — richness, depth, complexity.
+- **Spicy.** Hot chile sensations and black pepper add excitement. Ginger, horseradish, and mustard powder are spicy in the same sense. Go easy — it's the one S that overwhelms the other two fastest.
+
+#### 📌 "No Salt in Rubs" — the book's own argument, and why this cookbook overrides it
+
+**Meathead's stated position: salt and rub, applied separately, do different jobs — like a car's gas pedal and brake, worked in harmony but never at once.** His four reasons for leaving salt out of the rub blend itself: (1) cured meats (ham, bacon, corned beef) don't need any more salt at all; (2) most grocery-store turkey and much other meat is already injected with a salt solution at the plant, so a salted rub double-salts it; (3) some people are on salt-restricted diets, and a salt-free rub leaves that choice to them; (4) leaving salt out of the mix leaves room for a coarse **finishing salt** at serving time — real pop, without having to reduce the herbs and spices to make room for it.
+
+**This is the same principle as [§T37's double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)**, already this cookbook's standing practice — brine heavy, then leave salt out of whatever rub goes on top, so it's only ever counted once.
+
+**Per Cody's explicit standing preference, this batch of rubs breaks from the book's printed approach anyway: every rub gets salt added directly, at roughly 1.5–2× wherever the book already included some, or a reasonable new amount (about 1–2 Tbsp kosher salt, scaled to batch size) wherever the book printed none at all.** Each affected recipe below flags its specific change and notes the book's own no-salt argument in place, rather than silently overwriting it — this cookbook's standing honesty practice for exactly this kind of source conflict. **Treat every one of those additions as a starting point Cody can adjust further to taste, not a fixed number.**
+
+#### Storage, freshness, and grinding
+
+- **Keep a jar of every house rub on hand** rather than mixing a fresh batch each time — store in a tightly sealed container, away from light. Quality declines slowly but should hold up to a year.
+- **If a rub clumps from humidity**, chop it up or spread it on a baking sheet in a 225°F oven (no hotter, or it scorches) for about 15 minutes to drive off moisture. A few grains of dry rice in the jar afterward helps keep it that way.
+- **Dried spices and herbs go in at the start of a cook** (rubs, low-and-slow simmers) since they need time to rehydrate and release flavor; **fresh herbs go in a minute or two before serving**, to preserve their brightness — chopping fresh herbs (rather than leaving leaves whole) helps them release flavor faster.
+- **Grind black pepper fresh** for anything cooked hot and fast — for something like a rub headed onto a screaming-hot grill, grind coarse and sift the fine powder out through a mesh strainer (save the powder for a sauce), keeping only the big chunks on the meat itself, pressed in by hand.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -25371,7 +27537,9 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 >
 > **📌 Standing rule, per Cody: this source overrides [§T32 How to Use Heat](#t32-how-to-use-heat) on meat doneness temperatures.** Meathead Goldwyn is a BBQ Hall of Famer and meat-science specialist; Samin Nosrat's temps in §T32 are a generalist's figures by comparison. **This override is now applied, not just recorded** — see §T32's reconciled table.
 >
-> **The science has arrived in force, even though a recipe hasn't yet.** Cody has dictated two full chapters of *Meathead* so far, both filed in the T-section as technique entries rather than here, since they're science and method rather than individual recipes with their own ingredient lists: **[§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)–[§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)** (heat, carryover, resting, smoke) and **[§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)–[§T45](#t45-bones--do-they-actually-add-flavor)** (meat composition, salt and brining, rubs/injecting/marinades, Maillard, fat cap, reverse sear, cooking-time physics, faux Cambro, food safety, and bones). **§13 itself stays a placeholder** — it's reserved specifically for an actual named recipe from this book, which hasn't arrived yet.
+> **The science has arrived in force, even though a recipe hasn't yet.** Cody has dictated two full chapters of *Meathead* so far, both filed in the T-section as technique entries rather than here, since they're science and method rather than individual recipes with their own ingredient lists: **[§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)–[§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)** (heat, carryover, resting, smoke) and **[§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)–[§T45](#t45-bones--do-they-actually-add-flavor)** (meat composition, salt and brining, rubs/injecting/marinades, Maillard, fat cap, reverse sear, cooking-time physics, faux Cambro, food safety, and bones).
+>
+> **Update, 2026-09-05 — the actual named recipes have now arrived too, and they landed in §4, not here.** A full batch of brines, rubs, and sauces from the same book's "Brines, Rubs, and Sauces" chapter — **[§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) through [§4.132](#4132-roasted-red-pepper-and-garlic-coulis)**, 33 recipes in all — plus eight more condensed technique entries, **[§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)**, covering leftovers, vegetables, basting, lid myths, saucing strategy, cooking multiple large cuts at once, water/drip pans, and rub science. They went to §4 per Cody's explicit instruction — standalone condiments belong with this cookbook's other rubs and sauces, the same place *How to Grill*'s rubs and sauces already live, rather than in a book-specific section. **§13 stays a placeholder anyway** — it's reserved for an actual multi-component *dish* from this book (a whole smoked brisket or rib recipe, say), which still hasn't arrived; standalone condiments go to §4 regardless of source, matching how every other cookbook's rubs and sauces are already organized here.
 
 [↑ Table of Contents](#table-of-contents)
 

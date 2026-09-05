@@ -360,6 +360,11 @@ Click any recipe to jump straight to it.
 - [7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger) ✅ *(Meathead; uses [§4.128 Burger Glop](#4128-burger-glop))*
 - [7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) ✅ *(Meathead; Joe Parajecki)*
 - [7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ✅ *(Meathead; Melissa Cookston)*
+- [7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) ✅ *(Meathead)*
+- [7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ✅ *(Meathead; Big Bob Gibson Bar-B-Q)*
+- [7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) ✅ *(Meathead)*
+- [7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) ✅ *(Meathead)*
+- [7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) ✅ *(Meathead)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -505,6 +510,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Chicken and Turkey chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — five full recipes and six condensed technique entries, plus three recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Five full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Seafood gap-fill batch's [§7.117](#7117-championship-bacon-wrapped-stuffed-shrimp): **[§7.118](#7118-simon--garfunkel-chicken) Simon & Garfunkel Chicken** (built on the existing [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub)), **[§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) Big Bob Gibson's Chicken in 'Bama White Sauce** (smoked and dipped in the existing [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) — same Big Bob Gibson sauce family, not a new condiment; ⚠️ the source's printed chicken weight, "1½ to 4-pound chicken," almost certainly misreads "3½ to 4-pound" and is flagged rather than silently fixed), **[§7.120](#7120-blasphemy-buffalo-chicken-wings) Blasphemy Buffalo Chicken Wings** (grilled/smoked rather than deep-fried, with its own Blue Cheese Dip and Classic Buffalo Hot Sauce kept as inline sub-components rather than spun off into §4 — the dip uses [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); **kept distinct from the existing [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) placeholder**, both cross-referenced), **[§7.121](#7121-marinated-cornish-game-hens) Marinated Cornish Game Hens** (Meathead's own family marinade, tweaked from a 1981 *New York Times* recipe by his sister), and **[§7.122](#7122-the-ultimate-smoked-turkey) The Ultimate Smoked Turkey** (dry-brined whole bird smoked over a vegetable-and-broth drip pan that becomes the gravy base, using [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); ⚠️ a few of the source's mid-recipe internal-temperature checkpoints were hard to make out in a skewed photo, so this entry's doneness targets default to this cookbook's own [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) 165°F poultry standard rather than a guessed number). **Rated 🟢 Easy across the board except [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, the long smoke itself is exactly the forgiving, hands-off cooking that stays Easy (same reasoning as this cookbook's other multi-hour smokes), but the finishing pan-drippings gravy is a genuine fail point — it can scorch or reduce to paste if left unwatched — so that one recipe sits a notch above the rest of this chapter. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every dry-brine/salt amount here — including [§7.122](#7122-the-ultimate-smoked-turkey)'s ½ tsp/lb turkey dry brine — is transcribed exactly as printed, since these are seasoning steps inside regular recipes rather than standalone brine entries. **Six new condensed technique entries, [§T77](#t77-tips-on-cooking-poultry)–[§T82](#t82-how-to-carve-a-turkey)**, added to the Techniques quick index: **Tips on Cooking Poultry** (reverse sear adapted for birds, breaking down/halving/spatchcocking a whole bird, roasting whole vs. why it cooks unevenly, rotisserie/vertical roasting, and the book's own white-meat/dark-meat pull-temperature guidance), **Myth — Beer Can Chicken** (busted: the can never gets hot enough to steam, weighed the same or heavier after cooking in the book's own tests, and beer is ~92% flavorless water anyway; also a real tip-over/burn risk), **Anatomy of a Chicken Wing** (drumette, wingette/flat, and tip, each cooking at a different rate — used directly by [§7.120](#7120-blasphemy-buffalo-chicken-wings)), and three turkey-specific entries: **Choosing Your Turkey** (sizing, "basted"/"enhanced"/"kosher" bird labeling, fresh-vs-frozen realities, thawing time), **Cooking the Perfect Turkey** (a full do's-and-don'ts list — don't stuff it, don't truss the legs, don't baste during cooking, don't trust the pop-up timer, don't tent with foil), and **How to Carve a Turkey** (kitchen not tableside, legs/thighs/the "oyster" meat/breast, in order). **Three recipes skipped rather than guessed at, all genuinely cut off or missing from the source photos:** **Cornell Chicken** (book p. ~299 — the marinade ingredient list is visibly cut off mid-line, "...1 teaspoon Simon & G," with nothing after it and none of the numbered steps legible; a separate, unidentifiable fragment of cooking steps for what appears to be yet another pulled-chicken-with-cracklins recipe sits nearby with no title or ingredients at all, also skipped); **Piri Piri Chicken** (its intro runs to the bottom of book p. 301, but its MAKES/TAKES line and full marinade ingredient list — which would open book p. 302 — are not legible in this scan; only its tail-end cooking steps reappear on p. 303, with no way to reconstruct what precedes them); and **Rotisserie Chicken Provençal** (its title and headnote are legible on book p. 304, but book p. 305 — which would carry its entire ingredient list and numbered steps — was not part of this photographed set at all). **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** — new "Cornish game hen" line added to Poultry, and the existing "Whole chicken/hen," "Chicken wings," and "Whole turkey / turkey breast" lines now also point at this batch's recipes. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7 and the T-section, same reasoning as every prior Meathead batch. None of the five recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, with [§7.122](#7122-the-ultimate-smoked-turkey)'s explicitly scaled to a representative 14-lb bird since the recipe itself is sized "any size." TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the five new recipes land at 30 min ([§7.122](#7122-the-ultimate-smoked-turkey), next to [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) — its 2–5 hr smoke lives in the Slow cook column instead, per the [§1 Cody's Pho](#1-codys-pho) precedent), 45 min ([§7.118](#7118-simon--garfunkel-chicken)), 60 min ([§7.121](#7121-marinated-cornish-game-hens)), 75 min ([§7.120](#7120-blasphemy-buffalo-chicken-wings)), and 95 min ([§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)). |
 | 2026-09-05 | **The two Seafood-chapter recipes skipped earlier today for a missing scan have arrived — Cody photographed the missing book pages (341, 342–343, 344–345) and both are now added, along with the lobster technique content that was also stuck behind the same gap.** **Supersedes the "skipped" language in the Seafood chapter's own 2026-09-05 changelog entry below and in [§13 Meathead Cookbook](#13-meathead-cookbook)'s matching update** — that entry is left as an accurate record of what happened at the time, but the gap it describes is now closed; see the fuller status note added to §13. **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins), continuing straight on from the Ground Meats batch's [§7.115](#7115-the-great-american-steakhouse-burger):** [§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) (Joe Parajecki, Kettle Range Meat Company — shell-on shrimp, oil-and-garlic marinade, quick direct grill) and [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) (Melissa Cookston, Yazoo's Delta Q — jalapeño-and-cream-cheese-stuffed shrimp wrapped in bacon, Cody's own pick: *"the bacon one is good"*). **Both rated 🟢 Easy** per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy — a grease flare-up on the first and partially-cooked, still-flexible bacon on the second are both built-in, forgivable, nothing that can go from perfect to ruined the way a roux or a broken sauce can. **Both recipes' shrimp-prep steps (peeling, deveining, brining) cross-reference the existing [§T56 Shrimp: Sizing, Deveining, and Brining](#t56-shrimp-sizing-deveining-and-brining) rather than repeating the technique inline** — §T56 already carried this content from the original batch (it wasn't actually behind the missing-page gap), so a short shrimp-anatomy line was added to it instead of duplicating a second copy. **[§T57](#t57-lobster-choosing-preparing-and-storing), which *was* behind the gap, is rewritten in full** — renamed from "Storing a Live Lobster" to **"Lobster: Choosing, Preparing, and Storing"** to reflect the added content: cold-water vs. warm-water lobster, picking a lively one, lobster anatomy (claw, tomalley, roe/"coral," tail fan), handling a live lobster safely, and cooking it the same day you buy it — the original live-storage tip is kept, now as one section of a complete entry rather than the whole of it. [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster)'s cross-reference to T57 updated to match the new title and anchor. **No extra salt added** — §7.117's brine amount (¼ cup kosher salt per pound of shrimp) is transcribed exactly as printed at §T56; per the task's own scoping, this is a seasoning/prep step for a regular recipe, not a standalone brine recipe, so Cody's heavier-salt brining preference doesn't apply here. **One flagged discrepancy, transcribed rather than silently fixed:** §7.117's source credits Melissa Cookston's team, Yazoo's Delta Q, as based in "Nesbitt, Missouri" — the real-world team is based in Nesbit, Mississippi, so this reads like the book's own error; printed exactly as it appears, with a note in the entry. TOC and Difficulty & Time Index updated — §7.116 slots in at 25 minutes of prep+cook, next to [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter); §7.117 slots in at 55 minutes, next to [§8.13 Lobster Stew](#813-lobster-stew). Neither recipe prints net carbs, so neither is tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from the ingredient lists. |
 | 2026-09-05 | **Ground Meats chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — the smallest of the four chapters transcribed so far, same-day as Beef. One full recipe and four condensed technique entries; one recipe skipped rather than guessed at.** **One full recipe added to [§7 Mains & Proteins](#7-mains--proteins), continuing straight on from the Beef batch's [§7.114](#7114-prime-rib): [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger)** — a thick, hand-formed chuck patty topped with rendered bacon, built with the same two-zone smoke-then-sear method as this cookbook's other Meathead beef recipes, and using the existing **[§4.128 Burger Glop](#4128-burger-glop)** as its bun sauce. **Kept distinct from the existing [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)** (Raichlen's *How to Grill* — a thinner, straight direct-grilled burger with a compound-butter finish); both kept, cross-referenced. **Rated 🟡 Medium**, same reasoning as this cookbook's other reverse-seared beef ([§7.106](#7106-big-thick-steakhouse-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), [§7.114](#7114-prime-rib)) — the indirect stage is forgiving, but the final direct-heat sear needs continuous attention. **The recipe's doneness step points at this cookbook's standing 160°F ground-beef food-safety floor**, established at [§7.76](#776-hamburgers-with-herb-butter)/[§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table), rather than a lower "steakhouse" serving temperature — grinding redistributes surface bacteria through the whole patty, so this cookbook doesn't treat ground beef the way it treats a whole-muscle steak or roast. **No extra salt added beyond what's printed** — same scoping as every prior Meathead batch; Cody's heavier-salt preference is scoped to standalone brining recipes only, and this recipe's salt amount is transcribed exactly as printed. **Four new condensed technique entries, [§T73](#t73-burger-basics--fat-content-grind-and-handling)–[§T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets)**, added to the Techniques quick index: **Burger Basics** (why never to use meat labeled "hamburger"/"ground beef" for burgers, target fat content of 20–30 percent against a typical 15 percent for standard ground chuck, coarse grind, and not overworking the meat when forming patties), **Flavoring the Burger** (the salt-timing debate, plus the book's own weight-loss test comparing no salt, surface salt, and salt mixed in — the surprising finding, printed as approximate percentages off a small graphic, is that salt mixed in actually lost the *least* weight during cooking, not the most), **Regional Hot Dogs** (condensed into a single entry per its mostly-descriptive content, covering the Chicago Dog, Cincinnati/Detroit Coney, and eight other regional styles by name, with the practical takeaway being to commit to one region's full topping list rather than mixing styles), and **Cooking Sausages** (reading the label for precooked vs. raw, the roughly 25 percent average fat content, the two-zone indirect-then-direct technique, the warning against piercing a raw casing while it cooks, and target temperatures of about 140°F for precooked and about 160°F for raw/uncooked sausage — complements the existing [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe), which covers stuffing a raw sausage rather than cooking a finished one). **One recipe skipped rather than guessed at:** **A Better Italian Sausage Sandwich** (book p. 277) — the photographed page carries only a descriptive headnote about the Italian-sausage flavor profile itself (coarse-ground pork in natural casing, fennel-forward, sold by the foot in coiled ropes or bias-cut burger-sized pieces), with no ingredient list or numbered cooking steps visible; the actual sandwich assembly falls on a later page (book p. 278 or beyond) that wasn't in the photographed set. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** — the existing "Ground beef" line now also points at [§7.115](#7115-the-great-american-steakhouse-burger). **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dish landed in §7 and the T-section, same reasoning as every prior Meathead batch. [§7.115](#7115-the-great-american-steakhouse-burger) doesn't print net carbs, so it isn't tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); its Nutrition block is estimated from the ingredient list. TOC and Difficulty & Time Index updated throughout — [§7.115](#7115-the-great-american-steakhouse-burger) slots in at 50 minutes of prep+cook, next to [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip). |
 | 2026-09-05 | **Beef chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — nine full recipes, one compound butter, and eight condensed technique entries. Nothing skipped this round; the whole 24-page chapter (book p. 242–265) came through complete.** **Nine full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Pork batch's [§7.105](#7105-momofuku-inspired-ramen-bowl): [§7.106](#7106-big-thick-steakhouse-steaks) Big, Thick Steakhouse Steaks (reverse-seared, 1½"+ thick), [§7.107](#7107-skinny-steaks) Skinny Steaks (screaming-hot direct heat for thin cuts, includes the Afterburner Method as an in-recipe variant rather than a separate entry), [§7.108](#7108-santa-maria-tri-tip) Santa Maria Tri-Tip ("Poor Man's Prime Rib"), [§7.109](#7109-chateaubriand-with-compound-butter) Chateaubriand with Compound Butter (uses the new [§4.133 Beef Butter](#4133-beef-butter)), [§7.110](#7110-short-ribs-texas-style) Short Ribs, Texas Style, [§7.111](#7111-short-ribs-brazilian-steakhouse-style) Short Ribs, Brazilian Steakhouse Style (⚠️ the source prints no MAKES/TAKES/exact quantities for this one — see entry), [§7.112](#7112-texas-beef-brisket) Texas Beef Brisket (a whole 12-lb packer — **distinct from the existing [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)**, a smaller 5–6 lb Raichlen recipe basted in a foil pan; both kept, cross-referenced), [§7.113](#7113-close-to-katzs-pastrami) Close to Katz's Pastrami, and [§7.114](#7114-prime-rib) Prime Rib. **One new compound butter, [§4.133 Beef Butter](#4133-beef-butter)**, filed in §4 alongside this cookbook's other compound butters ([§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter)) rather than as a sub-recipe of Chateaubriand — matching this cookbook's existing precedent for compound butters built to pair with a specific steak recipe. **Rated 🟢 Easy for the three long, unattended smokes** — [§7.110](#7110-short-ribs-texas-style), [§7.112](#7112-texas-beef-brisket), and [§7.113](#7113-close-to-katzs-pastrami) — **and 🟡 Medium for the six that need an attended high-heat sear or hot direct grilling**: [§7.106](#7106-big-thick-steakhouse-steaks), [§7.107](#7107-skinny-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), [§7.111](#7111-short-ribs-brazilian-steakhouse-style), and [§7.114](#7114-prime-rib) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy: none of these nine can be ruined the way a broken sauce or a scorched roux can, but the searing/direct-grilling stages genuinely need continuous attention, unlike the three unattended smokes, which is why they sit one notch above Easy rather than at it. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference applies to standalone brining recipes only, and every dry-brine/salt amount here is transcribed exactly as printed. **Eight new condensed technique entries, [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)–[§T72](#t72-steaming-pastrami)**, added to the Techniques quick index: steak grades/cuts/thickness-to-temperature matching, prime rib and rib roast anatomy — ordering, the rib cap and lip, and the geometric reasons bones come off a roast (**deliberately distinct from [§T45 Bones](#t45-bones--do-they-actually-add-flavor)**, which already covers the separate flavor-myth question), the V-shaped rack warning, short rib vs. back rib anatomy, whole packer brisket anatomy (flat vs. point, grading, the corned-beef mixup warning), two ways to slice a brisket, burnt ends, and steaming pastrami. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with new tri-tip, ribeye/thick-vs-thin-steak, chateaubriand/tenderloin, prime rib, brisket, short rib, and pastrami cross-references — the old "no prime rib recipe of its own yet" note is now resolved. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7, §4, and the T-section, same reasoning as every prior Meathead batch. None of the nine recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout. |
@@ -931,6 +937,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(Meathead)* | 🟢 | 30 min | — | **12–14 hr** *(indirect smoker, unattended)* | 15–17 hr *(includes a 2–24 hr dry brine + 2+ hr rest in a faux Cambro)* |
+| [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 15 min | 15 min *(gravy)* | **2–5 hr** *(smoker, by weight)* | ~1 day *(includes a 12–24 hr dry brine)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
@@ -993,6 +1000,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.26 Mushroom Florentine](#926-mushroom-florentine) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
+| [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 35 min | — | 2 hr *(includes a 1–2 hr dry brine)* |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
@@ -1011,6 +1019,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
 | [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
 | [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
+| [§7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) *(Meathead)* | 🟢 | 15 min | 45 min | — | ~13 hr *(includes a 12 hr marinate)* |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 30 min | — | 1 hr 10 min *(includes a 30 min batter chill)* |
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
@@ -1054,6 +1063,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
+| [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(Meathead)* | 🟢 | 45 min | 30 min | — | 1 hr 15 min |
 | [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(Meathead)* | 🟡 | 15 min | 1 hr | — | 5–7 hr *(includes a 4–6 hr dry brine)* |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
@@ -1070,6 +1080,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(Meathead)* | 🟢 | 20 min | 1 hr 15 min | — | 2 hr 35 min *(includes a ~2 hr salt soak)* |
 | [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 1 hr 30 min *(mostly unattended reduction)* | — | 1 hr 50 min |
 | [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) | 🔴 | 35 min | 1 hr 30 min | — | 2 hr 5 min |
 | [§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) | 🟢 | 20 min | 1 hr 45 min | — | 2 hr 5 min |
@@ -9449,6 +9460,12 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T74](#t74-flavoring-the-burger--salting-timing-and-the-weight-loss-test) | Flavoring the Burger — Salting Timing and the Weight-Loss Test | `meathead` `ground-meats` `burgers` `salting` `seasoning` `weight-loss-test` |
 | [T75](#t75-regional-hot-dogs--a-cross-country-survey) | Regional Hot Dogs — A Cross-Country Survey | `meathead` `ground-meats` `hot-dogs` `regional-styles` |
 | [T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets) | Cooking Sausages — Precooked vs. Raw, Temperature Targets | `meathead` `ground-meats` `sausages` `precooked` `raw` `temperature` `two-zone` |
+| [T77](#t77-tips-on-cooking-poultry) | Tips on Cooking Poultry | `meathead` `poultry` `chicken` `turkey` `reverse-sear` `spatchcock` `rotisserie` `breaking-down` |
+| [T78](#t78-myth--beer-can-chicken-is-the-best-way-to-cook-a-bird) | Myth — Beer Can Chicken Is the Best Way to Cook a Bird | `meathead` `myth` `chicken` `beer-can` `food-science` |
+| [T79](#t79-anatomy-of-a-chicken-wing) | Anatomy of a Chicken Wing | `meathead` `chicken` `wings` `anatomy` |
+| [T80](#t80-choosing-your-turkey) | Choosing Your Turkey | `meathead` `turkey` `buying` `fresh-vs-frozen` `thanksgiving` |
+| [T81](#t81-cooking-the-perfect-turkey) | Cooking the Perfect Turkey | `meathead` `turkey` `dos-and-donts` `thanksgiving` |
+| [T82](#t82-how-to-carve-a-turkey) | How to Carve a Turkey | `meathead` `turkey` `carving` |
 
 ---
 
@@ -13410,6 +13427,140 @@ Put the pan on a burner, add water to the bottom, and hold it at medium-low heat
 > ⚠️ **Don't cut into or pierce a raw sausage's casing while it cooks.** Puncturing it lets the juices — and the flavor — run out, and can cause a grease flare-up. Check doneness with an instant-read thermometer inserted through one end instead, not by slicing into the middle.
 
 **Target temperatures:** about 140°F for precooked sausage, which just needs reheating, and about 160°F for raw/uncooked pork or beef sausage — check with an instant-read thermometer rather than guessing from color, since sausage can look done on the outside well before the inside catches up.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T77. Tips on Cooking Poultry
+
+<!-- TECHNIQUE-TAGS: meathead, poultry, chicken, turkey, reverse-sear, spatchcock, rotisserie, breaking-down -->
+**Tags:** `meathead` · `poultry` · `chicken` · `turkey` · `reverse-sear` · `spatchcock` · `rotisserie` · `breaking-down`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter (book p. 294–295, 297).
+**Used in:** [§7.118](#7118-simon--garfunkel-chicken)–[§7.122](#7122-the-ultimate-smoked-turkey) and any future poultry recipe in this cookbook.
+
+The general goal with poultry is crisp, golden skin on top of tender, moist meat, without masking the bird's own flavor.
+
+**Reverse sear for poultry.** The same two-stage idea as [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking), adapted for birds: set up a two-zone grill (§T34) and cook slowly at low-to-moderate temperature (225–325°F) on the indirect side until the bird is nearly done, then flip it to the direct side for a few minutes at the end to brown and crisp the skin. Starting hot instead risks burning or blackening the skin before the interior finishes.
+
+**Breaking down the bird.** Cutting the bird into parts (breasts, wings, and leg-thigh combos) lets each piece cook faster than a whole bird would, and every piece can come off the grill right at its own optimal internal temperature instead of averaging across the whole roast. Some cooks buy a whole bird and cut it up themselves; either way, the removed backbone, wing tips, and giblets are good stock ingredients rather than trash.
+
+**Halving the bird.** Cutting straight through the backbone (and often the breastbone too) into two halves is a simpler cut than full breakdown, and still browns both sides of skin more evenly than roasting a whole bird upright.
+
+**Spatchcocking (butterflying) the bird.** Take out the backbone and flatten the bird. Cook it skin side up on the indirect side; if you flip it, be careful the legs don't fall off the direct side into the flame too soon — the legs sit at a different angle once the bird is flattened, so they can catch fire before the breast is ready.
+
+**Roasting it whole.** You roast a whole bird all at once, so the outside browns all around while the inside cooks. The problem is the thighs stay undercooked while the breast is overcooked, because the drumsticks and thighs need to hit a noticeably higher internal temperature than breast meat to be at their best — a whole roasted bird is never as evenly finished as parts or a spatchcocked bird, even though it's the classic presentation.
+
+**Rotisserie / vertical roasting.** If you cook whole birds a lot, a rotisserie is worth owning — the constant rotation cooks the meat and crisps the skin evenly as the flow of heat and juices bathes the whole surface in turn. Vertical roasting racks work on a similar idea: the bird sits cavity-down over a cone or narrow stand, and air travels all the way through it as it cooks.
+
+**Proper meat temperature.** Chicken and turkey don't carry much of the tough connective tissue that ribs or brisket need low-and-slow heat to break down, so there's no reason to keep the grill cool — an indirect side up around 325–350°F is fine. Pull white meat (breast, wing) around 160°F; dark meat (thigh, drumstick) is better pulled a bit hotter, into the 165–175°F range, since its higher fat and connective tissue content wants a little more heat to render fully — both are safely at or above [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)'s 165°F USDA target for poultry once carryover is factored in. Don't judge doneness by color or by whether the juices "run clear" — per [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table), that's not a reliable test. Use an instant-read thermometer in the thickest part of each piece, avoiding the bone.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T78. Myth — Beer Can Chicken Is the Best Way to Cook a Bird
+
+<!-- TECHNIQUE-TAGS: meathead, myth, chicken, beer-can, food-science -->
+**Tags:** `meathead` · `myth` · `chicken` · `beer-can` · `food-science`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 296).
+**Used in:** background reference — the reasoning behind why this cookbook's whole-bird recipes ([§7.118](#7118-simon--garfunkel-chicken), [§7.121](#7121-marinated-cornish-game-hens)) use two-zone/reverse-sear methods ([§T77](#t77-tips-on-cooking-poultry)) instead.
+
+> ⚠️ **Busted.** A beer can propped in the cavity does not meaningfully steam, moisten, or flavor the meat, no matter how good the resulting roast chicken tastes — and it tastes good for the same reason any roast chicken does, not because of the can.
+
+**Why it doesn't work:** the chicken is wrapped around the can like insulation, so the beer inside warms up at roughly the same slow rate as the meat around it — by the time the chicken is done, the beer is still nowhere near its 212°F boiling point, so it's never actually generating steam. Weighing beer cans before and after cooking (in the book's own tests) showed the weight was essentially unchanged — in some cases even *heavier*, from fat dripping in — which means beer isn't escaping up and into the cavity to baste anything. And even if it could: beer is roughly 92 percent water and about 5 percent flavorless alcohol, so there's very little actual flavor in there to give up in the first place.
+
+**It's also a small but real safety risk** — a half-full can balanced upright inside a warm, greasy cavity is not the most stable footing on a hot grill, and pulling a scalding-hot can back out of the bird is an easy way to get burned.
+
+**If you want to season the inside of a bird, put actual aromatics in the cavity** — herbs, spices, halved citrus — rather than relying on a can of beer to do it for you. Better methods for a whole bird are covered at [§T77](#t77-tips-on-cooking-poultry): two-zone/reverse sear, spatchcocking, or a rotisserie/vertical rack.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T79. Anatomy of a Chicken Wing
+
+<!-- TECHNIQUE-TAGS: meathead, chicken, wings, anatomy -->
+**Tags:** `meathead` · `chicken` · `wings` · `anatomy`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 304).
+**Used in:** [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings).
+
+A whole wing is actually three distinct pieces, each with a different thickness and a different ratio of skin to meat, so each one cooks and finishes at a different rate:
+
+- **The drumette** — the end that attaches to the shoulder, shaped like a miniature drumstick.
+- **The wingette (or flat)** — the flatter center section, with two thin bones running through it.
+- **The tip** — the pointed end, mostly skin, cartilage, and little bones, with almost no meat.
+
+**Separate them into their parts before cooking** rather than grilling whole wings — it lets the drumettes and wingettes each cook evenly, and keeps the nearly-meatless tips from burning long before the rest is done. Freeze the tips rather than tossing them; they're good flavor for stock.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T80. Choosing Your Turkey
+
+<!-- TECHNIQUE-TAGS: meathead, turkey, buying, fresh-vs-frozen, thanksgiving -->
+**Tags:** `meathead` · `turkey` · `buying` · `fresh-vs-frozen` · `thanksgiving`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 308).
+**Used in:** [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey).
+
+**Sizing:** plan on about 1 pound of raw turkey per person as a rule of thumb — after bones, giblets, and cooking shrinkage, that leaves roughly ⅓ pound of cooked meat per person, with a little left over. **If you need to feed a crowd, cook two smaller turkeys rather than one giant one** — smaller birds cook faster and more evenly, since a bigger bird's breast takes longer to reach the center, and by the time it does, the thinner parts nearby are overcooked and the outer meat has dried out.
+
+**"Basted" or "self-basted" (aka "enhanced") turkeys** have been injected with a salt solution, and sometimes flavor enhancers and tenderizers too — processors are legally allowed to inject up to 8 percent of the bird's weight this way, and the bird can still be labeled "natural" or "organic" even with all that added.
+
+**"Kosher" turkeys have already been salted, inside and out, as part of processing.** Don't dry- or wet-brine one of these — it will end up too salty.
+
+**A genuinely fresh, never-frozen turkey is hard to find at a regular supermarket.** To get one, order ahead from a farmer or specialty butcher, and only trust "fresh" if you're confident it was slaughtered within the past week — a bird that's simply never been frozen but has sat in a cooler for a couple of weeks isn't meaningfully better than a properly thawed frozen one. Proper cooking matters far more to the result than whether the bird was ever frozen.
+
+**To thaw a frozen turkey safely, allow about 24 hours in the refrigerator for every 4 pounds of bird.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T81. Cooking the Perfect Turkey
+
+<!-- TECHNIQUE-TAGS: meathead, turkey, dos-and-donts, thanksgiving -->
+**Tags:** `meathead` · `turkey` · `dos-and-donts` · `thanksgiving`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 309).
+**Used in:** [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey).
+
+A do's-and-don'ts list, straight from the book:
+
+- **Don't take risks with the Thanksgiving turkey.** If you have any doubts about a method, practice on a bird well before the big day — you're allowed to eat turkey in August.
+- **Let the turkey's own flavor shine.** Don't drown it in powerful injections or heavy rubs that mask what a well-cooked bird actually tastes like.
+- **Don't trust the pop-up timer.** A good digital thermometer is far more important than any built-in gimmick — pull breast meat around 160°F, not the 170°F+ that many older recipes call for.
+- **Don't put anything in the cavity.** Stuffing slows down how fast heat reaches the center, so the outside overcooks long before the stuffing (and the meat around it) is safely done. Even leaving the cavity empty helps — heat and air move through it and cook the bird faster and more evenly. Sprinkle spices and herbs into the cavity for flavor instead of things that just block airflow.
+- **Dry brine rather than wet brine**, per [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) and [§T80](#t80-choosing-your-turkey) — a big bucket of wet brine loaded with sugar and spices mostly doesn't penetrate the meat; a dry brine's salt does the real work of seasoning.
+- **Never roast the turkey directly in a solid roasting pan.** A pan blocks airflow underneath, and the underside of the bird won't brown or cook properly. Roast it up on a rack instead, or right over a drip pan on the grill (see [§7.122](#7122-the-ultimate-smoked-turkey)), so air can reach it from every side.
+- **Don't truss the legs.** Let the whole surface brown, including the "armpits" and inner thighs — trussing traps those spots at a cooler temperature, and the thighs and drumsticks need to reach a higher internal temperature than the breast anyway, so they benefit from all the direct heat they can get.
+- **Don't baste during cooking.** Basting drippings onto the skin makes it wet, not moist, and it slows down browning and crisping every time you open the lid.
+- **Don't tent with foil after cooking.** Steam trapped under foil softens the crisp skin you just worked for. A short rest uncovered is plenty — see [§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) on carryover cooking.
+- **Remember carryover keeps cooking the meat after it leaves the heat.** Temp it, and start carving without an unnecessarily long rest.
+- **Consider butterflying (spatchcocking) the bird, or cutting it into pieces**, per [§T77](#t77-tips-on-cooking-poultry) — more exposed surface means more crisp, evenly browned skin and a faster cook. A whole roasted bird looks classic, but it isn't the fastest or most evenly cooked way to get there.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T82. How to Carve a Turkey
+
+<!-- TECHNIQUE-TAGS: meathead, turkey, carving -->
+**Tags:** `meathead` · `turkey` · `carving`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 312–313).
+**Used in:** [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey), Step 9.
+
+**Carve in the kitchen, not at the table** — take the whole bird around for a bow first if you like, but do the actual cutting somewhere with a sharp (non-serrated) knife, a cutting board with gutters to catch the juices, and a serving platter close by.
+
+**1. Remove the legs.** Grab the drumstick with a paper towel and twist it back and forth to find the joint between the leg and the body. Cut through the joint and socket to pull the whole leg free.
+
+**2. Split the leg.** Bend the leg back to find the hip joint between the thigh and drumstick and cut through it. Serve the drumstick whole, or slice the meat off; either way, pull out the stiff tendons with your fingers first. For the thigh, serve it whole for fewer guests, or bone it out — run the knife along the bone from the skin side until you reach the knee joint — and slice it for more portions.
+
+**3. Find the "oysters."** Flip the carcass over so the backbone faces up and run your fingers along either side of it, near where the wings attach. You'll feel two small, oyster-shaped pieces of dark meat tucked against the bone — some of the best meat on the whole bird. Pop them out with a spoon or your fingers.
+
+**4–7. Carve the breast.** Cut down along one side of the keel (breast) bone with long strokes, following the curve of the rib cage, until the whole breast lobe comes free in one piece — repeat on the other side. Lay each lobe skin side up on the cutting board and slice it across the grain, using smooth draws of the knife rather than a sawing motion so the skin doesn't slip and bunch up.
+
+**Serve.** Spoon a little gravy over the sliced meat on the platter to keep it moist, and pass the rest at the table.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -24518,6 +24669,358 @@ Pull the shrimp off the grill and brush them generously with Thai sweet chili sa
 
 ---
 
+### 7.118 Simon & Garfunkel Chicken
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter, opening it. Built on this cookbook's existing **[§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub)** (the herb-forward "parsley, sage, rosemary, and thyme" blend) — per the book, *"it allows the natural flavors to shine. This is my favorite weeknight chicken recipe, and I never get tired of it."*
+
+**Techniques used:** [§T29 How to Salt](#t29-how-to-salt) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(breaking down the bird)* · [§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) *(target temps)*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** *(two-zone: indirect until 145°F, then a final direct sear)* · **Start to finish ~2 hr** *(includes a 1–2 hr dry brine)*
+
+> **Why Easy.** The bird spends most of its time on the cool, forgiving indirect side, and only moves to direct heat once it's already most of the way done — a short, closely watched finish rather than a long unattended sear. Nothing here can go from perfect to ruined the way a broken sauce or a scorched roux can.
+
+#### A. Ingredients
+
+- 1 (3- to 4-pound) chicken, cut into 6 parts (2 breasts, 2 wings, 2 leg-thigh combos) — see [§T77](#t77-tips-on-cooking-poultry) for breaking down a whole bird
+- 1½ teaspoons kosher salt
+- 2 tablespoons Simon & Garfunkel Rub ([§4.109](#4109-simon--garfunkel-rub))
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Cut the backbone out of the chicken (or buy it already cut up) and cut the bird into six parts: two breasts, two wings, and two leg-thigh combos. Sprinkle the chicken all over with the salt and dry brine it in the fridge for 1 to 2 hours ([§T29](#t29-how-to-salt)). Just before cooking, dampen the pieces with a little water and gently work the rub into the meat so it adheres.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the indirect side to about 325°F.
+
+**3. Cook.**
+Place the chicken parts skin side up on the indirect side and close the lid. Let them brown on the bottom — check that they're not burning, but you probably won't need to flip them here. Once the meat hits about 145°F, move the pieces over to direct heat, skin side down, lid up, flipping every minute or two so both sides color without burning. Pull the white meat (breasts, wings) at 160°F and the dark meat (legs, thighs) at 165°F ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)), moving each finished piece back to the indirect side to hold while the rest catch up.
+
+**4. Serve.**
+Let the chicken rest a few minutes, then serve.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole chicken (3–4 lb), cut into 6 parts (or have the butcher do it) — 1
+- 🛒 Kosher salt
+
+*Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,900 | 140 g | 160 g | 2 g | 1 g |
+| **Per serving** *(serves 4)* | ~475 | 35 g | 40 g | <1 g | <1 g |
+
+**What a serving is:** a quarter of the cut-up chicken — one breast or one leg-thigh piece, plus a wing. A normal dinner portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.119 Big Bob Gibson's Chicken in 'Bama White Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter, credited to **Big Bob Gibson Bar-B-Q** in Decatur, Alabama, where whole smoked chickens are dipped in a bucket of the house's own white barbecue sauce. **Uses this cookbook's existing [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce)** (Raichlen's *How to Grill* transcription of the same Big Bob Gibson sauce, already in this cookbook — the source's own text traces its recipe to the very same restaurant, so this is the same sauce family rather than a second, competing one).
+
+⚠️ **One flagged quantity:** the source prints the chicken weight as "1½ to 4-pound chicken," which reads as an unlikely range — this chapter's other whole-chicken recipes ([§7.118](#7118-simon--garfunkel-chicken), [§7.121](#7121-marinated-cornish-game-hens)) all call for birds in the 3-to-4-pound range, and 1½ lb is far too small for a whole chicken cut into six parts and smoked. This is very likely a misread of "3½ to 4-pound chicken" in a skewed photo. Transcribed as printed with this flag, per this cookbook's practice, rather than silently corrected.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(breaking down the bird)*
+
+**🟢 Easy** · **Prep ~20 min** *(+ a ~2 hr salt soak)* · **Cook ~75 min** · **Start to finish ~2 hr 35 min**
+
+> **Why Easy.** A low-and-slow smoke to 145°F, then a direct-heat finish to 160°F with a wide color target ("dark brown, not black") rather than a narrow one — there's no single moment here that can go from perfect to ruined.
+
+#### A. Ingredients
+
+- 1 (3½- to 4-pound) chicken ⚠️ *(see flag above)*, cut into 6 parts (2 drumstick-thigh combos, 2 breasts, 2 wings)
+- Kosher salt and freshly ground black pepper
+- 1½ cups White Barbecue Sauce ([§4.37](#437-white-barbecue-sauce))
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Cut the chicken into 6 parts: two drumstick-thigh combos, two breasts, and two wings ([§T77](#t77-tips-on-cooking-poultry)). Sprinkle the pieces liberally with salt and pepper on both sides and let the salt soak into the meat in the fridge for a couple of hours.
+
+**2. Fire up.**
+Get the smoker up to 225°F, or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 225°F on the indirect side. Get some smoke rolling.
+
+**3. Cook.**
+Place the chicken skin side up on the indirect side of the grill. Cook until the meat hits about 145°F, then move it to the direct-heat side and turn it frequently until the surface darkens to a deep brown (not black) and the interior hits 160°F.
+
+**4. Serve.**
+Warm the reserved White Barbecue Sauce and serve it alongside the chicken for dipping.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole chicken (3½–4 lb), cut into parts — 1
+- 🛒 Kosher salt, black pepper
+
+*White Barbecue Sauce ingredients already documented at [§4.37](#437-white-barbecue-sauce).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,700 | 210 g | 165 g | 8 g | <1 g |
+| **Per serving** *(serves 4)* | ~675 | 53 g | 41 g | 2 g | <1 g |
+
+**What a serving is:** a quarter of the smoked chicken with a generous ladle of white sauce for dipping.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.120 Blasphemy Buffalo Chicken Wings
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter. Named for the book's own confession: true Buffalo wings (invented at Buffalo, NY's Anchor Bar in 1964, per the book's telling) are deep-fried, but Meathead grills or smokes his instead — "blasphemy, I know. But tasty blasphemy."
+
+**Two sub-components kept inline as part of this one entry, not spun off as separate §4 condiments** — both the Blue Cheese Dip and the Classic Buffalo Hot Sauce are purpose-built for this specific dish (the dip is seasoned with this cookbook's own [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) rather than a generic blend), so they follow this cookbook's existing precedent for recipe-specific sub-components (e.g. this chapter's own stuffing/gravy/sauce groupings) rather than the precedent for a reusable, stand-alone sauce like [§4.133 Beef Butter](#4133-beef-butter). No existing condiment in this cookbook duplicates either one.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T79 Anatomy of a Chicken Wing](#t79-anatomy-of-a-chicken-wing)
+
+**🟢 Easy** · **Prep ~45 min** · **Cook ~30 min** · **Start to finish ~1 hr 15 min**
+
+> **Why Easy.** The book says it plainly: wings are hard to overcook. They're thin, they finish in a wide window, and the indirect-then-direct method leaves plenty of room to catch them before anything scorches.
+
+#### A. Ingredients
+
+**Blue Cheese Dip** *(see Notes)*
+
+- 3 ounces cream cheese, at room temperature
+- 3 ounces blue cheese, crumbled, at room temperature
+- ½ teaspoon Simon & Garfunkel Rub ([§4.109](#4109-simon--garfunkel-rub))
+- ½ cup half-and-half
+- ¼ cup sour cream
+
+**Classic Buffalo Hot Sauce**
+
+- 8 tablespoons (1 stick) salted butter
+- 2 garlic cloves, minced or pressed
+- ½ cup Frank's RedHot sauce (see Notes)
+
+**The Rest**
+
+- 24 whole chicken wings (about 4 pounds)
+- Kosher salt and freshly ground black pepper
+- 6 celery stalks, cut into 4-inch pieces
+
+#### B. Cooking Instructions
+
+**1. Make the dip.**
+In a medium bowl, stir together the cream cheese, blue cheese, and Simon & Garfunkel Rub. Mix in the half-and-half and sour cream. Cover and refrigerate until ready to use — the dip can be made a day or two ahead.
+
+**2. Make the hot sauce.**
+Melt the butter in a saucepan over low heat. Add the garlic and let it simmer gently for about a minute — don't let it brown. Stir in the hot sauce and let it come together with the butter for 3 to 4 minutes.
+
+**3. Prep the wings.**
+Cut the wings into their 3 parts — drumette, wingette, and tip (see [§T79](#t79-anatomy-of-a-chicken-wing)) — and freeze the tips for stock. Season the drumettes and wingettes with salt and pepper.
+
+**4. Fire up.**
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the indirect side to about 325°F. Add a little wood if you want some smoke.
+
+**5. Cook.**
+Place the wings on the indirect side, close the lid, and cook until the skin is golden, about 7 to 10 minutes per side. They should be close to 140°F by then, though it's hard to get an exact read on such thin pieces — the good news is wings are hard to overcook.
+
+**6. Sear.**
+Get the direct side as hot as possible. Move the wings there, lid open, and stand by, turning them frequently until the skin is dark golden to brown but not burned. Watch the skinnier pieces closely and slide them back to the indirect side as soon as they're done.
+
+**7. Sauce.**
+Warm the hot sauce in a big bowl or pot. When the wings come off the grill, toss them in the sauce until well coated.
+
+**8. Serve.**
+Slide the wings onto a serving platter, set the celery sticks alongside, and serve with the blue cheese dip on the side.
+
+**Notes:** Frank's RedHot is the classic Buffalo sauce base; Sriracha works for more heat. For a change of pace, [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) or [§4.117 KC Classic](#4117-kansas-city-classic-barbecue-sauce) make tasty, if not authentic, substitutes for the hot sauce. In a pinch, a bottle of blue cheese dressing from the fridge case stands in fine for the dip.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chicken wings — 24 (about 4 lb)
+- 🛒 Cream cheese — 3 oz
+- 🛒 Blue cheese, crumbled — 3 oz
+- 🛒 Half-and-half — ½ cup
+- 🛒 Sour cream — ¼ cup
+- 🛒 Salted butter — 1 stick
+- 🛒 Garlic — 2 cloves
+- 🛒 Frank's RedHot sauce — ½ cup
+- 🛒 Celery — 6 stalks
+- 🛒 Kosher salt, black pepper
+
+*Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,800 | 320 g | 210 g | 10 g | 1 g |
+| **Per serving** *(serves 5, as an appetizer)* | ~760 | 64 g | 42 g | 2 g | <1 g |
+
+**What a serving is:** about 5 wings with hot sauce, plus a couple tablespoons of blue cheese dip and a stick or two of celery — a hearty appetizer plate.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.121 Marinated Cornish Game Hens
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter. The marinade is the book's own family recipe, inspired by a 1981 *New York Times* recipe that Meathead's sister Ann tweaked over the years, and that he tweaked further himself. Per the book: Cornish game hens aren't a separate species or game bird at all — they're just chickens younger than two weeks old, of either sex, weighing 2 pounds or less; the recipe can be doubled and made with a whole chicken instead, though the younger hens take up the marinade a bit better.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~45 min** · **Start to finish ~13 hr** *(includes a 12 hr marinate)*
+
+> **Why Easy.** A straightforward marinate-then-two-zone-grill recipe — indirect until the breast hits 140°F, then a quick direct-heat skin crisp to 160°F. Nothing here is a narrow, fail-prone window.
+
+#### A. Ingredients
+
+- ½ cup apple cider vinegar
+- 2 teaspoons kosher salt
+- 2 teaspoons garlic powder
+- ½ teaspoon ground bay leaf (see Note)
+- ½ teaspoon sugar
+- ½ teaspoon dry mustard
+- ½ teaspoon sweet paprika
+- 1 teaspoon freshly ground black pepper
+- ¼ teaspoon ground cumin
+- 1 Cornish game hen, cut in half
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Combine all the ingredients except the hen in a zipper-top bag and shake until the salt and sugar dissolve. Put the bag in a bowl to catch any leaks, add the hen halves, and refrigerate for 12 hours or overnight.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and try to get the indirect side to 325°F.
+
+**3. Cook.**
+Lift the hen halves out of the marinade and set them skin side up on the indirect side of the grill. Once the internal temperature of the breast hits 140°F, move the halves to direct heat, skin side down, to crisp the skin. Flip often, and once the internal temperature hits 160°F, bring them to the cutting board.
+
+**Note:** ground bay leaf can be hard to find at a regular grocery store — check the international foods aisle or a Middle Eastern market, order it online, or grind whole bay leaves yourself in a coffee grinder, mortar and pestle, or blender.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cornish game hen — 1
+- 🛒 Apple cider vinegar — ½ cup
+- 🛒 Kosher salt, garlic powder, sugar, dry mustard, sweet paprika, black pepper, ground cumin
+- 🛒 Ground bay leaf (or whole bay leaves to grind yourself)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,400 | 100 g | 110 g | 3 g | <1 g |
+| **Per serving** *(serves 2)* | ~700 | 50 g | 55 g | 1.5 g | <1 g |
+
+**What a serving is:** half a Cornish game hen — a personal-size roasted bird.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.122 The Ultimate Smoked Turkey
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter, closing it. Per the book: *"this is no ordinary turkey preparation, pilgrims. Say good-bye to dry, stringy turkey — this will be the best turkey you've ever tasted."* Builds on this cookbook's existing [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) and the "Choosing Your Turkey" / "Cooking the Perfect Turkey" reference material condensed at [§T80](#t80-choosing-your-turkey)/[§T81](#t81-cooking-the-perfect-turkey).
+
+**No extra salt added beyond what's printed.** This recipe's dry brine (about ½ teaspoon kosher salt per pound of meat) references the same dry-brining idea as [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time), but per this batch's scoping, Cody's heavier-salt preference applies only to standalone brining recipes ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), not to a seasoning step inside a regular recipe — so the amount here is transcribed exactly as printed.
+
+⚠️ **A few of the source's mid-recipe internal-temperature checkpoints were hard to make out in a skewed photo.** Rather than guess at a fuzzier number, this entry's doneness targets use this cookbook's own standing 165°F poultry standard from [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table).
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) · [§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) · [§T80 Choosing Your Turkey](#t80-choosing-your-turkey) · [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey) · [§T82 How to Carve a Turkey](#t82-how-to-carve-a-turkey)
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~15 min** *(the pan-drippings gravy)* · **Slow cook 2–5 hr** *(smoker, by weight — see table below)* · **Start to finish ~1 day** *(includes a 12–24 hr dry brine)*
+
+> **Why Medium, not Easy.** The long smoke itself is exactly the kind of forgiving, hands-off cooking that's Easy per [CLAUDE.md §3a](CLAUDE.md) — a whole turkey has a lot of thermal mass and doesn't swing from perfect to ruined quickly. The one real risk in this recipe is the finishing gravy: reduced pan drippings can scorch or turn to paste if left unwatched on the heat, a genuine "perfect to ruined" moment that the rest of this chapter's chicken recipes don't have. That single step is why this one sits a notch above the rest.
+
+#### A. Ingredients
+
+- 1 turkey (any size), whole
+- Kosher salt (about ½ teaspoon per pound of meat, for the dry brine)
+- 3 quarts water or chicken broth
+- 1 cup apple juice
+- 2 onions, skin on, ends removed, quartered
+- 2 carrots, cut into 2-inch lengths
+- 2 celery stalks, leaves and all, cut into 2-inch lengths
+- 1 tablespoon dried sage leaves, crumbled
+- 1 tablespoon dried thyme
+- 2 bay leaves
+- About ¼ cup Simon & Garfunkel Rub ([§4.109](#4109-simon--garfunkel-rub))
+- Cooking oil
+
+#### B. Cooking Instructions
+
+**1. Prep the night before.**
+Unwrap the turkey, pour off and reserve any juices from the packaging, and reach into the cavity to pull out the neck and giblets (save for gravy or discard). Remove any plastic pop-up timer. If the drumsticks are tied together, cut the string — per [§T81](#t81-cooking-the-perfect-turkey), this bird doesn't get trussed.
+
+**2. Dry brine.**
+If the turkey hasn't already been salted by the processor (see [§T80](#t80-choosing-your-turkey)), season it all over with kosher salt, about ½ teaspoon per pound of meat, and refrigerate uncovered for 12 to 24 hours.
+
+**3. Set up the drip pan.**
+The day you cook, set a roomy (3-quart-plus) stainless, ceramic, or CorningWare pan under where the turkey will sit on the grate. Load it with the onions, carrots, celery, sage, thyme, and bay leaves, then pour in the water (or broth) and apple juice.
+
+**4. Rub the bird.**
+Work the Simon & Garfunkel Rub gently under the breast skin, pushing it down toward the thighs and legs as far as it will go. Rub some over the outside of the skin and inside the cavity too. Lightly oil and tuck the wing tips under, and cover the drumstick ends, so they don't scorch during the long cook.
+
+**5. Fire up.**
+About the time shown in the table below before you want to eat, heat the smoker or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the indirect side to 325°F.
+
+**6. Cook.**
+Set the bird on the grate directly over the drip pan and close the lid. Add a modest amount of wood — about 4 ounces is plenty; a whole turkey doesn't want heavy smoke. Cook until an instant-read thermometer reads 165°F in the thickest part of the breast ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)) and the thighs read at least that hot, using the table below as a rough guide for total time by weight.
+
+| Turkey weight | Hours at 325°F |
+|---|---|
+| 12–14 lb | 2–2½ hr |
+| 14–18 lb | 2½–3½ hr |
+| 18–20 lb | 3–3½ hr |
+| 20–24 lb | 3½–4 hr |
+| 24–30 lb | 4–5 hr |
+
+**7. Rest.**
+Pull the bird, tent it loosely, and let it rest 15 to 20 minutes before carving — it keeps climbing a few degrees off the heat.
+
+**8. Make the gravy.**
+While the bird rests, strain the pan drippings through a sieve into a saucepan, discarding the solids. Taste it — if it's thin, bring it to a boil and reduce it to concentrate the flavor, watching it closely so it doesn't scorch or reduce to paste. Skim off the excess fat (a fat separator makes this easy), then salt to taste. Resist the urge to thicken the gravy with flour or cornstarch — a plain reduced gravy carries the smoke and roast flavor better than a starchy one.
+
+**9. Carve and serve.**
+Carve the turkey following [§T82](#t82-how-to-carve-a-turkey), arrange the meat on a platter with a lip to catch the juices, and serve the gravy alongside.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole turkey (any size) — 1
+- 🛒 Kosher salt
+- 🛒 Chicken broth (3 qt) or water
+- 🛒 Apple juice — 1 cup
+- 🛒 Onions — 2
+- 🛒 Carrots — 2
+- 🛒 Celery — 2 stalks
+- 🛒 Dried sage, dried thyme
+- 🛒 Bay leaves — 2
+- 🛒 Cooking oil
+
+*Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
+
+#### Nutrition *(estimated, using a representative 14-lb turkey — scale up or down for other sizes)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(turkey + gravy)* | ~10,300 | 573 g | 1,034 g | 12 g | 2 g |
+| **Per serving** *(serves 12, holiday portions)* | ~860 | 48 g | 86 g | 1 g | <1 g |
+
+**What a serving is:** about 8 oz of sliced turkey, mixed light and dark meat, with 2–3 tablespoons of gravy.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -30197,6 +30700,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-05 — the "Ground Meats" chapter (burgers, hot dogs, sausages) has now arrived, same-day as Beef, and it's the smallest chapter yet.** One full recipe, **[§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger)**, plus four condensed technique entries, **[§T73](#t73-burger-basics--fat-content-grind-and-handling)–[§T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets)**, covering burger fat content/grind/handling, burger salting timing (including the book's own surprising weight-loss test), a condensed cross-country survey of regional hot dog styles, and precooked-vs-raw sausage cooking temperatures. **One item skipped rather than guessed at:** **A Better Italian Sausage Sandwich** (book p. 277) — the photographed page carries only a descriptive headnote about the Italian-sausage flavor profile (coarse-ground pork in natural casing, fennel-forward, sold by the foot), with no ingredient list or numbered steps; the actual sandwich recipe falls on a later page not in the photographed set. **§13 remains a placeholder**, same reasoning as every update above. See the 2026-09-05 changelog entry for the full accounting.
 >
 > **Update, 2026-09-05 — the Seafood chapter's own missing-page gap (see that update, three paragraphs up) is now closed.** Cody photographed the three book pages that batch was missing (341, 342–343, 344–345), and both skipped recipes plus the partial lobster technique are now in. **[§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp)** (Joe Parajecki, Kettle Range Meat Company) and **[§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp)** (Melissa Cookston, Yazoo's Delta Q — Cody's own pick, *"the bacon one is good"*) join [§7 Mains & Proteins](#7-mains--proteins) right after [§7.115](#7115-the-great-american-steakhouse-burger). **[§T57](#t57-lobster-choosing-preparing-and-storing) is rewritten in full** — retitled from "Storing a Live Lobster" to **"Lobster: Choosing, Preparing, and Storing"** now that the fuller "Lobster: Choosing and Preparing" section (cold-water vs. warm-water, picking a lively one, anatomy, safe handling) has a home. **[§T56](#t56-shrimp-sizing-deveining-and-brining) turned out not to need completing** — the shrimp sizing/deveining/brining content it already carried from the original batch matches the newly supplied pages exactly; only a short anatomy line was added to it. **§13 remains a placeholder**, same reasoning as every update above. See the 2026-09-05 changelog entry (the one above the original Seafood entry) for the full accounting.
+>
+> **Update, 2026-09-05 — the "Chicken and Turkey" chapter has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Five full recipes — **[§7.118](#7118-simon--garfunkel-chicken) through [§7.122](#7122-the-ultimate-smoked-turkey)** — plus six condensed technique entries, **[§T77](#t77-tips-on-cooking-poultry)–[§T82](#t82-how-to-carve-a-turkey)**, covering general poultry technique (reverse sear, breaking down/halving/spatchcocking a bird, roasting whole, rotisserie), the beer-can-chicken myth-bust, chicken wing anatomy, and three turkey-specific reference entries (choosing one, cooking do's-and-don'ts, and carving). **Three recipes skipped rather than guessed at, all for genuinely missing or cut-off source pages** — see the 2026-09-05 changelog entry for exactly what was cut off and where. **§13 remains a placeholder**, same reasoning as every update above — every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's structure. See the 2026-09-05 changelog entry for the full accounting.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -32164,12 +32669,13 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 
 ### Poultry
 
-- **Whole chicken/hen** — [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) *(placeholder, smoked)* · [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) *(fried)* · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) *(roasted)* · [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(roasted/braised)* · [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) *(simmered)*
+- **Whole chicken/hen** — [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) *(placeholder, smoked)* · [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) *(fried)* · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) *(roasted)* · [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(roasted/braised)* · [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) *(simmered)* · [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(broken into parts, two-zone grilled)* · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(smoked, dipped in white sauce)*
 - **Chicken thighs / drumsticks** — [§7.5 Chicken Thighs](#75-chicken-thighs) *(placeholder)* · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) *(pan-fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(thigh variant noted)* · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) *(simmered)* · [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) *(dark meat/drumsticks preferred — sous vide 150°F, then double-dredged and fried)*
 - **Chicken breasts** — [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), [§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) *(grilled)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(grilled)* · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip), [§9.7 Chicken Salad](#97-chicken-salad)
-- **Chicken wings** — [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) *(placeholder)*
+- **Chicken wings** — [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) *(placeholder)* · [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(smoked/grilled, tossed in Buffalo sauce — distinct from §7.9, both kept)*
 - **Chicken hearts / livers** — [§7.6 Chicken Hearts](#76-chicken-hearts), [§7.7 Chicken Livers](#77-chicken-livers) *(both placeholders)*
-- **Whole turkey / turkey breast** — [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) *(simmered)* · [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) *(cold, leftover roast)*
+- **Cornish game hen** — [§7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) *(marinated, two-zone grilled)*
+- **Whole turkey / turkey breast** — [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) *(simmered)* · [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) *(cold, leftover roast)* · [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(whole, dry-brined and smoked, with pan-drippings gravy)*
 - **Whole duck** — [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles), [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo), [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) *(all simmered)*
 - **Whole goose** — [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters), [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) *(simmered)*
 - **Quail** — [§7.67 Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) *(grilled)*

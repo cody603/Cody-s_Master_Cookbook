@@ -336,6 +336,17 @@ Click any recipe to jump straight to it.
 - [7.92 Butter-Poached Fillets](#792-butter-poached-fillets) ✅ *(Meathead)*
 - [7.93 Baja Fish Tacos](#793-baja-fish-tacos) ✅ *(Meathead)*
 - [7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster) ✅ *(Meathead)*
+- [7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) ✅ *(Meathead)*
+- [7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) ✅ *(Meathead; builds on [§7.95](#795-perfect-pulled-pork))*
+- [7.97 Last-Meal Ribs](#797-last-meal-ribs) ✅ *(Meathead)*
+- [7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) ✅ *(Meathead; ⚠️ its own sauce isn't documented here yet — see entry)*
+- [7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) ✅ *(Meathead)*
+- [7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) ✅ *(Meathead; uses [§4.114](#4114-cowboy-java-rub))*
+- [7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) ✅ *(Meathead)*
+- [7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) ✅ *(Meathead)*
+- [7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) ✅ *(Meathead)*
+- [7.104 Smoked Bone Broth](#7104-smoked-bone-broth) ✅ *(Meathead)*
+- [7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) ✅ *(Meathead; uses [§7.104](#7104-smoked-bone-broth))*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -481,6 +492,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Pork chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — eleven full recipes and seven condensed technique entries, plus two items flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Eleven full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Seafood batch's [§7.94](#794-gregs-grilled-lobster): [§7.95](#795-perfect-pulled-pork) Perfect Pulled Pork (distinct from this cookbook's existing [§6.2](#62-pulled-pork)/[§6.6](#66-north-carolina-pulled-pork-karmel-version)), [§7.96](#796-really-loaded-potato-canoes) Really Loaded Potato Canoes (built on §7.95's leftovers), [§7.97](#797-last-meal-ribs) Last-Meal Ribs (Trudy Clarin's recipe, per the book), [§7.98](#798-happy-mouth-yakitori-ribs) Happy Mouth Yakitori Ribs (⚠️ its own sauce isn't documented here yet — see entry), [§7.99](#799-kermits-second-favorite-pork-chops) Kermit's Second-Favorite Pork Chops (uses the existing [§4.100 Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity)), [§7.100](#7100-pork-tenderloin-with-cowboy-java-rub) Pork Tenderloin with Cowboy Java Rub (finally gives the existing [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) a recipe of its own), [§7.101](#7101-sweet-and-sour-pork-tenderloin) Sweet and Sour Pork Tenderloin (uses the existing [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce)), [§7.102](#7102-pesto-crusted-pork-loin-roast) Pesto-Crusted Pork Loin Roast, [§7.103](#7103-stuffed-pork-loin-roast) Stuffed Pork Loin Roast, [§7.104](#7104-smoked-bone-broth) Smoked Bone Broth, and [§7.105](#7105-momofuku-inspired-ramen-bowl) Momofuku-Inspired Ramen Bowl (David Chang-inspired, uses §7.104). **Rated 🟢 Easy across the board except [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, tunneling a pocket through the roast can tear through the side if rushed, and an overstuffed pocket can force itself back open during cooking; every other recipe in the batch is a low-and-slow smoke, a simple grill, or a straightforward stovetop/broth build with no comparable failure point, including the multi-component Ramen Bowl (long and involved, but nothing in it can go from perfect to ruined the way [CLAUDE.md §3a](CLAUDE.md) defines Hard). **No extra salt added anywhere in this batch** — same scoping as the Seafood batch: Cody's heavier-salt preference applies to standalone brines only, and where these recipes reference brining (§7.99's wet brine, dry-brine steps throughout) the amounts are exactly as documented at their existing cross-referenced entries or as printed. **Seven new condensed technique entries, [§T58](#t58-the-different-cuts-of-ribs)–[§T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style)**, added to the Techniques quick index: the different cuts of ribs (baby back, spareribs, St. Louis cut, rib tips, country-style), rib anatomy and how to skin/trim them, pork-butt brine/injection/cooking-time science (including the same 203°F-vs-195°F correction [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) already made to [§6.2](#62-pulled-pork)), leftover pulled pork storage and reheating, the different cuts of pork chops, why not to stuff a chop (contrasted with why a whole stuffed loin roast is lower-risk), and a hot-and-fast Dreamland-style rib method — the last one **condensed as a technique note rather than a recipe**, since the source presents it as pure narrative with no ingredient list or steps to transcribe. **Two items skipped rather than added as placeholders or guessed past a gap:** **Whole Hog Pig Pickin'** (title and headnote legible on book p. 222, but the actual whole-hog cooking method the text explicitly promises — "the way I describe below" — falls on book p. 223, which wasn't in the photographed set) and **Wet-Cured Ham** (book p. 217's background on commercial ham curing continues onto book pp. 218–219, also missing from the scan; even the visible portion reads as industrial-process background rather than a home technique, so it wasn't a strong candidate for condensing even if the rest had been captured). **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new pork butt, tenderloin, loin, chop, rib, belly, and bone entries. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7 and the T-section, same reasoning as the Seafood and Brines/Rubs/Sauces batches before it. None of the eleven recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, several flagged ⚠️ where the source photo's rotation made a quantity a best-effort read. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Seafood chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — eight full recipes and four condensed technique entries, plus two recipes and part of one technique entry flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Eight full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the sous-vide batch's [§7.86](#786-carpaccio-of-sous-vide-octopus): [§7.87](#787-smoked-salmon-mousse-canapés) Smoked Salmon Mousse Canapés, [§7.88](#788-smoked-trout-florida-mullet-style) Smoked Trout (Florida Mullet Style), [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) Chef Bonner's Fish Fillets with Brioni Broth (credited to Chef Mychael Bonner, The Reel Club, Oak Brook, IL), [§7.90](#790-smoked-salmon-quiche) Smoked Salmon Quiche, [§7.91](#791-smoked-halibut-salad) Smoked Halibut Salad, [§7.92](#792-butter-poached-fillets) Butter-Poached Fillets, [§7.93](#793-baja-fish-tacos) Baja Fish Tacos, and [§7.94](#794-gregs-grilled-lobster) Greg's Grilled Lobster (Professor Blonder's method). **Rated mostly 🟢 Easy** — smoking and butter-poaching are forgiving methods, and the Baja Tacos recipe explicitly says not to worry if the fish breaks apart — **except [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) and [§7.94](#794-gregs-grilled-lobster), both 🟡 Medium** for a genuinely narrow doneness window with no gentle margin: a precise 120°F skin-down sear that can't be flipped without breaking the fillet apart, and a 6–10 minute max-heat window past which lobster meat toughens fast. **Four new condensed technique entries, [§T54](#t54-buying-and-cooking-fish)–[§T57](#t57-storing-a-live-lobster)**, added to the Techniques quick index: buying and cooking fish (freshness signals, ice contact, why fish takes salt and marinade faster than meat), how to fillet a whole fish (plus a fish-oils-in-the-smoker maintenance note), shrimp sizing/deveining/brining, and storing a live lobster before cooking. **No extra salt added anywhere in this batch** — per Cody's own clarification on the prior Meathead rub/sauce correction two entries below (the heavier-salt preference is scoped to actual brining, not to rubs, seasonings, or marinades), and none of this batch's eight recipes is itself a standalone brine, so every quantity is transcribed exactly as printed. **Three items skipped rather than added as placeholders or guessed past a cut-off page:** **Joe's Fireproof Grilled Shrimp** (title, headnote, and MAKES/TAKES line legible on book p. 343, but the ingredient list and numbered steps would have continued onto book p. 344, which wasn't in the photographed set); **Championship Bacon-Wrapped Stuffed Shrimp** (referenced by name mid-page but its own title, ingredients, and steps would fall on book pp. 344–345, entirely absent from the scan); and **an unidentified recipe glimpsed at the edge of one photo** (a red title box reading only "S…S…" and a drop-capped opening paragraph, likely book p. 327 — not on the expected list for this batch and too fragmentary to name). Because of that same gap, **[§T57](#t57-storing-a-live-lobster) is a partial condensation** — only the live-lobster storage tip (book p. 346) survived; the fuller "Lobster: Choosing and Preparing" section (cold-water vs. warm-water lobster, live vs. previously frozen, lobster anatomy) sat on the same missing book pp. 344–345. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's full dishes landed in §7, on the same "organize by what the dish is, not which book it's from" reasoning as the rubs/sauces batch landing in §4. None of the eight recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Follow-up on the same-day salt correction below — refined the salt-free-rub warning and confirmed it's complete.** Per Cody: *"No salt rubs means no salt, it also means to remind them to make sure that you have salted it the night before and a dry brine or some other way."* The warning's wording on all eight salt-free rubs is now **"⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland,"** replacing the earlier "brine the meat first" phrasing that didn't call out the timing Cody actually wants emphasized. **Full audit of every rub recipe in §4** (not just this batch — §4.1 through §4.99 checked individually) to confirm no *other* salt-free rub was missing the warning: every rub predating this session's Meathead batch (Darcy's Steak Rub, Basic Barbecue Rub, Cajun Rub, Chinese Five-Spice Rub, Java Rub, Mucho Macho Pepper Rub, Mediterranean Herb Rub, Texas Chili Rub, Sesame Seasoning, Basic Fish Cure) already carries salt directly in its ingredient list, so none needed the callout. [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) also carries salt, via onion salt and garlic salt. [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought)/[§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning) are store-bought reference entries with no ingredient list, both explicitly salt-forward products, so out of scope. [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) is a single-ingredient aromatic spice component rather than a rub applied as the meat's primary seasoning, so it's treated the same way as buying plain garlic powder and left without the callout. **The eight rubs carrying the warning remain exactly [§4.106](#4106-big-bad-beef-rub), [§4.107](#4107-mrs-olearys-cow-crust), [§4.108](#4108-meatheads-memphis-dust), [§4.109](#4109-simon--garfunkel-rub), [§4.110](#4110-dollys-lamb-rub), [§4.111](#4111-mariettas-fish-rub), [§4.112](#4112-cajun-seasoning), and [§4.114](#4114-cowboy-java-rub)** — no new ones found. |
 | 2026-09-05 | **Correction to the same-day Meathead batch below — the salt increase landed on the wrong recipes.** Cody's actual instruction was that *brining* needs heavier salt than the book recommends; the earlier pass this morning misread that as a blanket instruction and bumped salt (or added it where the book had none) across all 27 of the batch's rubs and sauces, [§4.105](#4105-dalmatian-rub)–[§4.116](#4116-butcher-block-seasoning) and [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), each carrying a "Cody's Note" claiming the increase was a standing house preference. **Per Cody's explicit correction — *"I'm not asking you to salt the meathead rubs, I'm just saying the brining process needs heavier salt... this is in regards to meathead rubs only"*** — all 27 are reverted to the book's printed salt amounts: back to the original quantity where the book printed some salt ([§4.105](#4105-dalmatian-rub), [§4.113](#4113-citrus-salt-and-pepper), [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce), [§4.125](#4125-chocolate-chile-barbecue-sauce)–[§4.128](#4128-burger-glop), [§4.130](#4130-chimichurri-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)); the added salt line removed entirely where the book printed none ([§4.106](#4106-big-bad-beef-rub)–[§4.112](#4112-cajun-seasoning), [§4.114](#4114-cowboy-java-rub), [§4.121](#4121-texas-mop-sauce)–[§4.123](#4123-dc-mumbo-sauce)); and restored to the book's own "to taste"/"optional" phrasing rather than a forced quantity for [§4.124 Tartar Sauce](#4124-tartar-sauce) and [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce). [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning)'s salt note updated to match [§4.113](#4113-citrus-salt-and-pepper)'s reverted amount. **[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s "No Salt in Rubs" entry corrected to match** — it no longer claims this cookbook overrides the book's no-salt-in-rubs argument; that argument stands as printed, and Cody's heavier-salt preference is now correctly scoped to brining only. **The actual heavier-salt request went where it belonged instead: [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity)**, which the same earlier pass had left at the book's printed 6.3% on the theory that a calibrated salinity shouldn't be touched — salinity increased to about 9.5% (roughly 1.5×, still inside [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range), with the salt-per-gallon figure recalculated from ½ lb to ¾ lb and a new Cody's Note explaining the change. **[§4.101 Basic Brinerade](#4101-basic-brinerade) and [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the brine injections were already correct** — their earlier ~1.5× bumps are genuinely what Cody asked for and are left as-is. **Nutrition blocks are unaffected** — this cookbook's Nutrition tables track calories/fat/protein/carbs/fiber only, no sodium line, so none needed recalculating for a salt-only change. **A new bolded callout added to all eight now-salt-free rubs in this batch** — [§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub), [§4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust), [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub), [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub), [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub), [§4.112 Cajun Seasoning](#4112-cajun-seasoning), and [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) — warning that the meat needs a brine, preferably a dry brine, before the rub goes on or the dish will taste bland; per Cody's request. |
@@ -842,6 +854,17 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) | 🟢 | 15 min | 10 min | — | 5 hr 25 min *(+ 4–6 hr marinate)* |
 | [§7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) | 🟢 | 20 min | 5 min | — | 55 min *(+ 30 min marinate/noodle-soak, parallel)* |
 | [§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis) | 🟢 | 25 min | — | — | 25 min |
+| [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) *(Meathead)* | 🟢 | 5 min | 25–30 min | — | 30–45 min *(+ optional 1–2 hr dry brine)* |
+| [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) *(Meathead)* | 🟢 | 15 min | 1 hr *(bone roast)* | **4–8 hr** *(simmer, unattended)* | ~6 hr |
+| [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(Meathead)* | 🟢 | 10 min | 15 min | — | 2 hr 25 min *(+ 1–2 hr wet brine)* |
+| [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) *(Meathead)* | 🟢 | 15 min | 1 hr *(mostly unattended)* + 5 min | — | 1 hr 20 min |
+| [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) *(Meathead)* | 🟢 | 20 min | 15 min | — | 35 min |
+| [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(Meathead)* | 🟢 | 10 min | — | **2½–3 hr** *(indirect grill, unattended)* | 3 hr 10 min |
+| [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(Meathead)* | 🟡 | 20 min | — | **2–2½ hr** *(indirect grill, unattended)* | 2 hr 45 min *(+ 3 hr dry brine)* |
+| [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(Meathead)* | 🟢 | 10 min | — | **2¼ hr** *(indirect grill, unattended)* | 2 hr 40 min *(+ 2–3 hr dry brine)* |
+| [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(Meathead)* | 🟢 | 15 min | — | **~5 hr** *(indirect smoker, unattended)* | 13 hr 15 min *(+ 8 hr overnight dry brine)* |
+| [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) *(Meathead)* | 🟢 | 15 min | — | **8–12 hr** *(indirect grill/smoker, unattended)* | 8¼–12¼ hr *(+ optional overnight dry brine)* |
+| [§7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) *(Meathead)* | 🟢 | 30 min | 30 min | **4–5 hr** *(pork belly, indirect grill/smoker, unattended)* | ~5 hr |
 | [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) | 🟢 | 15 min | 10–14 min | — | 30 min |
 | [§7.68 Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) | 🟢 | 20 min | 10 min | — | 2 hr 30 min *(+ 2 hr marinate)* |
 | [§7.70 Russian Shashlik](#770-russian-shashlik) | 🟢 | 20 min | 10 min | — | 8 hr 30 min *(+ 4–8 hr marinate)* |
@@ -9325,6 +9348,13 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T55](#t55-how-to-fillet-a-whole-fish) | How to Fillet a Whole Fish | `meathead` `seafood` `filleting` `whole-fish` `butchery` |
 | [T56](#t56-shrimp-sizing-deveining-and-brining) | Shrimp: Sizing, Deveining, and Brining | `meathead` `seafood` `shrimp` `deveining` `brining` `shrimp-sizing` |
 | [T57](#t57-storing-a-live-lobster) | Storing a Live Lobster | `meathead` `seafood` `lobster` `live-storage` |
+| [T58](#t58-the-different-cuts-of-ribs) | The Different Cuts of Ribs | `meathead` `pork` `ribs` `pork-cuts` `baby-back` `spareribs` `st-louis-cut` `rib-tips` `country-style` |
+| [T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs) | Rib Anatomy and How to Skin & Trim Ribs | `meathead` `pork` `ribs` `membrane` `silverskin` `trimming` |
+| [T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) | Butt Basics — Brines, Injections, and Cooking Time for Pork Shoulder | `meathead` `pork` `pork-butt` `boston-butt` `brine` `injection` `cooking-time` `pulled-pork` |
+| [T61](#t61-leftover-pulled-pork--storage-and-reheating) | Leftover Pulled Pork — Storage and Reheating | `meathead` `pork` `leftovers` `pulled-pork` `reheating` `freezing` |
+| [T62](#t62-types-of-pork-chops) | Types of Pork Chops | `meathead` `pork` `pork-chops` `pork-cuts` `boneless-loin-chop` `rib-chop` `t-bone` `blade-chop` |
+| [T63](#t63-dont-stuff-the-chop) | Don't Stuff the Chop | `meathead` `pork` `pork-chops` `stuffing` `myth` `food-safety` |
+| [T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style) | 60-Minute Hot-and-Fast Ribs (Dreamland Style) | `meathead` `pork` `ribs` `hot-and-fast` `no-wrap` |
 
 ---
 
@@ -12906,6 +12936,130 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 **Used in:** [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster), or any time live lobster is bought ahead of when it'll be cooked.
 
 **A live lobster keeps 2 to 3 days refrigerated, handled correctly.** Never submerge a saltwater lobster in fresh water — it kills it. If you need to hold one a day or two, put it in a pot so it can't crawl around the fridge, add about ¼ inch of water in the bottom to keep it moist, and cover it with a damp cloth or newspaper. Lobsters breathe air, so they'll be fine without being submerged. **Never cover a live lobster with ice** — that will kill it too.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T58. The Different Cuts of Ribs
+
+<!-- TECHNIQUE-TAGS: meathead, pork, ribs, pork-cuts, baby-back, spareribs, st-louis-cut, rib-tips, country-style -->
+**Tags:** `meathead` · `pork` · `ribs` · `pork-cuts` · `baby-back` · `spareribs` · `st-louis-cut` · `rib-tips` · `country-style`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter (book p. 204–205), dictated by Cody.
+**Used in:** [§7.97 Last-Meal Ribs](#797-last-meal-ribs), [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs), [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs), [§6.5 Smoked Ribs](#65-smoked-ribs) *(placeholder)*.
+
+Pigs have 14 ribs, and all the cuts below come off the same rack, cut apart differently.
+
+- **Back ribs (aka baby backs, loin back ribs)** — cut from the top of the ribcage, connected to the backbone, curved like a smile with the meat sitting mostly between the bones rather than piled on top. Tender, the most tapered/short of the rib cuts, and usually the priciest.
+- **Spareribs (aka side ribs)** — cut from the belly side, longer and straighter than baby backs, with more connective tissue, cartilage, and fat. They need more time to cook but bring more flavor for it.
+- **St. Louis-cut spareribs (aka Kansas City cut)** — a spareribs rack with the rib tips and the chewy, cartilaginous breastbone flap trimmed off and squared into a neat rectangle. Easier to cook evenly and easier to fit on a small grill than a full spareribs slab.
+- **Rib tips (aka brisket bones, costal cartilage)** — the cartilage-heavy flap trimmed off a spareribs slab to make the St. Louis cut. Chewy, but flavorful, and often sold on their own.
+- **Country-style ribs** — cut from the blade end of the loin, near the shoulder. Meatier and not really "ribs" in the rack sense at all — closer to a small pork chop or blade steak — so they cook faster and don't need the long, low-and-slow treatment true ribs do.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T59. Rib Anatomy and How to Skin & Trim Ribs
+
+<!-- TECHNIQUE-TAGS: meathead, pork, ribs, membrane, silverskin, trimming -->
+**Tags:** `meathead` · `pork` · `ribs` · `membrane` · `silverskin` · `trimming`
+**Source:** **Meathead Goldwyn**, same book and chapter as [§T58](#t58-the-different-cuts-of-ribs) (book p. 203, 208).
+**Used in:** [§7.97 Last-Meal Ribs](#797-last-meal-ribs), [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs), and any other rack of ribs in this cookbook.
+
+**Anatomy of a baby back:** the chine side is where the rack attached to the backbone, tapering down to the leaner rib tips at the other end. The meat sits both on top of the bones (the "cooked meat" you carve at the table) and between them (the "lean meat"). The **smoke ring** — a pink band just under the surface — forms during smoking and is a cosmetic sign of a good smoke, not a doneness indicator. **Properly cooked ribs pull back from the bone ends by about ¼ to ½ inch**, exposing clean white bone; underdone ribs cling tight to the bone all the way to the tip.
+
+**Removing the membrane.** Flip the rack bone side up. Slide a butter knife or the tip of a paring knife under the thin, silvery membrane at one end, working it between the membrane and the bone to loosen a flap. Grip the loosened flap with a paper towel (bare fingers slip right off it) and pull it away in one steady motion down the length of the rack. Skipping this step is the single most common rib mistake — the membrane blocks rub and smoke from reaching the meat from the bone side and makes the finished ribs chewy and hard to bite through cleanly.
+
+**Trimming.** While you're at it, trim away any large dangling flap of surface fat, and square off ragged edges so the rack cooks evenly.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T60. Butt Basics — Brines, Injections, and Cooking Time for Pork Shoulder
+
+<!-- TECHNIQUE-TAGS: meathead, pork, pork-butt, boston-butt, brine, injection, cooking-time, pulled-pork -->
+**Tags:** `meathead` · `pork` · `pork-butt` · `boston-butt` · `brine` · `injection` · `cooking-time` · `pulled-pork`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 200).
+**Used in:** [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork), [§6.2 Pulled Pork](#62-pulled-pork), [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version).
+
+**Skip the marinade, injections, and brine — for a butt headed for pulling, they're not worth it.** A pork butt already carries so much internal fat and connective tissue that the payoff from injecting is small; a dry brine or a good rub gets you nearly all the way there with a lot less fuss (the deeper science already lives at [§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)/[§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)). Save injecting for competition-level results, where the last few percentage points matter.
+
+**If you do inject anyway**, plan on about 1 pound of injected liquid per 30 percent of the butt's original weight, done 30 minutes to 1 day ahead of cooking — much earlier than that and the injection loses its edge.
+
+**How much heat will you need?** Thickness, not weight, is the real driver of cooking time for any cut (see [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time)) — but as a rule of thumb for a whole butt, figure roughly 1½ hours per pound at 225°F on the low end, and nearly double that on the high end, since a stubborn butt's stall (see [§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)) can run long. **Never judge a butt as done by the clock** — go by internal temperature and how easily the probe slides in.
+
+**Cooking time / target temp:** pull a butt for pulling at about **203°F** internal (per [§T44's target table](#t44-food-safety--the-real-logic-and-the-target-temperature-table)) — well past this cookbook's own [§6.2 Pulled Pork](#62-pulled-pork), whose printed 195°F is on the conservative side of what the meat can actually take. At 203°F, the meat should offer no resistance to a probe anywhere in the butt.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T61. Leftover Pulled Pork — Storage and Reheating
+
+<!-- TECHNIQUE-TAGS: meathead, pork, leftovers, pulled-pork, reheating, freezing -->
+**Tags:** `meathead` · `pork` · `leftovers` · `pulled-pork` · `reheating` · `freezing`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 201).
+**Used in:** [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork), [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes), [§6.2 Pulled Pork](#62-pulled-pork), [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos).
+
+**Cook more than you think you need.** Pulled pork freezes and reheats well, so leftovers are never really wasted — plan on a bigger butt rather than a smaller one.
+
+**To freeze:** pack it moist, not dry. Carry over about 1 tablespoon of butter per pound of meat, plus 1 to 2 tablespoons of the pan drippings or a little barbecue sauce, and vacuum-seal or bag it tightly before freezing. Dry-frozen pulled pork toughens and dries out fast.
+
+**To reheat:** thaw in the fridge first, then warm gently. A sous vide bath is the best method this cookbook has on hand for it (see [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)'s own note, and [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method)'s equipment), but a covered dish in a low oven, or a splash of water or broth in a covered skillet on the stovetop, both work fine too. **Don't microwave straight from frozen** — the edges dry out and toughen long before the center is even warm.
+
+**Where leftover pulled pork goes:** barbecue sandwiches, tacos ([§7.1](#71-pulled-pork-tacos)), quesadillas, breakfast hash with eggs, stuffed baked potatoes ([§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes)), fried rice, nachos, or stirred into baked beans or mac and cheese.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T62. Types of Pork Chops
+
+<!-- TECHNIQUE-TAGS: meathead, pork, pork-chops, pork-cuts, boneless-loin-chop, rib-chop, t-bone, blade-chop -->
+**Tags:** `meathead` · `pork` · `pork-chops` · `pork-cuts` · `boneless-loin-chop` · `rib-chop` · `t-bone` · `blade-chop`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 212–213).
+**Used in:** [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops), [§7.4 Pork Chops](#74-pork-chops) *(placeholder)*.
+
+- **Boneless loin chop** — cut from the loin with no bone at all. Quick-cooking, and easy to overcook, since there's no bone to insulate the meat closest to it or slow the center down.
+- **Bone-in loin chop (aka rib chop)** — has a curved rib bone along one edge. The bone shields the meat nearest it, which keeps a bone-in chop noticeably more forgiving than a boneless one of the same thickness.
+- **T-bone or porterhouse chop** — cut from where the loin meets the tenderloin, with meat from both muscles on either side of a T-shaped bone. The two muscles cook at different rates, so watch the smaller, faster-cooking tenderloin side closely — it's done well before the loin side catches up.
+- **Country-style ribs (aka blade chops/steaks)** — cut from the shoulder end of the loin; not really ribs at all. Chewier and more marbled than a true chop, with enough connective tissue that they tolerate low-and-slow cooking better than the other chops on this list, and can even take slightly longer without drying out.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T63. Don't Stuff the Chop
+
+<!-- TECHNIQUE-TAGS: meathead, pork, pork-chops, stuffing, myth, food-safety -->
+**Tags:** `meathead` · `pork` · `pork-chops` · `stuffing` · `myth` · `food-safety`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 211).
+**Used in:** a "why not" cross-reference for [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) and [§7.4 Pork Chops](#74-pork-chops); contrasted with [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast).
+
+> ⚠️ **Stuffed pork chops are a popular restaurant and home-cook move — Meathead recommends against it.** Cutting a pocket into a chop creates a warm, moist interior surface exposed to whatever bacteria was on the cutting board, your hands, or the stuffing itself. That surface also sits at the coolest, slowest-to-heat part of the chop — meaning it may never spend long enough at a safe temperature (see [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)) before the rest of the thin chop around it overcooks trying to get there.
+>
+> **A stuffed roast is a different story, and lower-risk** — see [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast). A much bigger piece of meat spends far longer at temperature, and there's a lot more margin of safe meat between the stuffing pocket and the exterior than a thin chop ever has.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T64. 60-Minute Hot-and-Fast Ribs (Dreamland Style)
+
+<!-- TECHNIQUE-TAGS: meathead, pork, ribs, hot-and-fast, no-wrap -->
+**Tags:** `meathead` · `pork` · `ribs` · `hot-and-fast` · `no-wrap`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 207).
+**Used in:** an alternative philosophy note alongside [§7.97 Last-Meal Ribs](#797-last-meal-ribs), [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs), and [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method), all of which use the low-and-slow method instead.
+
+> ⚠️ **Condensed as a technique note, not a full recipe.** The source presents this as a narrative profile of pitmaster Barry Sorkin (Smoque BBQ, Chicago) describing Dreamland Bar-B-Que's (Tuscaloosa, Alabama) technique — prose with no ingredient list or numbered steps of its own, so there are no quantities here to build an A/B/C recipe from. Treat the notes below as a documented alternative philosophy, not a tested method.
+
+**The idea:** cook ribs hot and fast rather than low-and-slow — no wrap, no mop, no sauce during the cook — finishing in about an hour total instead of the four to six hours this cookbook's other rib recipes take.
+
+**The tradeoff:** hot-and-fast doesn't render nearly as much connective tissue as a long, slow cook does, so the texture lands closer to "boiled or steamed tender" than the fall-off-the-bone result of a 225°F cook. That's a matter of taste, not a mistake — barbecue people (including the source) disagree about which texture is actually better.
+
+**If you want to try it:** the general shape is high, direct-adjacent heat — well above the usual 225°F — for around an hour total, watching the ribs closely rather than walking away the way a slow 225°F cook allows. Since the book gives no exact temperature, timing, or rub/sauce quantities for this method, any attempt should be treated as an experiment, checked against [§T58](#t58-the-different-cuts-of-ribs)/[§T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs)'s bend test rather than a fixed clock.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -22475,6 +22629,717 @@ Crack the claws with a wooden mallet, rolling pin, meat tenderizer, hammer, or k
 
 ---
 
+### 7.95 Perfect Pulled Pork
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. Pork shoulder is laced with fat and connective tissue that melts during long, slow cooking, making it one of the most forgiving and versatile cuts to smoke — distinct from this cookbook's existing [§6.2 Pulled Pork](#62-pulled-pork) (North Carolina style) and [§6.6 North Carolina Pulled Pork, Karmel Version](#66-north-carolina-pulled-pork-karmel-version), both different rubs and methods.
+
+> ⚠️ **Reconstructed from a rotated, low-resolution source photo.** The pork butt weight and the exact prep/cook times printed on the page are best-effort reads — treat them as a starting point and cook to the temperature in Step 5 regardless of the clock. See [§T60 Butt Basics](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) and [§T61 Leftover Pulled Pork](#t61-leftover-pulled-pork--storage-and-reheating) for the book's fuller notes on this cut.
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook 8–12 hr** *(indirect grill or smoker, unattended)* · **Start to finish ~8¼–12¼ hr** *(+ optional overnight dry brine)*
+
+#### A. Ingredients
+
+- 1 bone-in pork butt (Boston butt), about 8 lb
+- Kosher salt, for dry brining (optional but recommended — see Note)
+- ¼–½ cup Meathead's Memphis Dust rub ([§4.108](#4108-meatheads-memphis-dust))
+- Barbecue sauce for serving (optional) — Columbia Gold/South Carolina Mustard Sauce ([§4.118](#4118-columbia-gold-south-carolina-mustard-sauce)) or Kansas City Classic ([§4.117](#4117-kansas-city-classic-barbecue-sauce)), or your favorite
+
+#### B. Cooking Instructions
+
+**1. Dry brine the night before, if you have time.**
+Salt the pork all over and refrigerate it uncovered overnight. Salting ahead of time seasons the meat all the way through instead of just the crust ([§T29](#t29-how-to-salt)/[§T37](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time)). Short on time? Skip this and let the rub's own salt do the work instead — see [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) on why marinades and injections aren't worth the trouble here either way.
+
+**2. Rub.**
+Pat the meat dry and apply the Memphis Dust rub all over, patting it on so it adheres.
+
+**3. Fire up.**
+Set up your grill or smoker for indirect two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get it stable at 225°F on the indirect side. Get some smoke rolling if you're using a smoker.
+
+**4. Cook low and slow.**
+Put the butt fat side up on the indirect side, insert a probe thermometer into the thickest part away from the bone, and close the lid. Hold at 225°F. The butt will stall in the 150–165°F range for a good while — that's normal, not a problem ([§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)); resist the urge to crank the heat to push through it.
+
+**5. Cook to 203°F, not just "safe."**
+Pull the butt only when it hits about 203°F internal and the probe slides in with no resistance anywhere in the meat — well past any food-safety minimum, because the goal here is melting collagen, not just getting the meat safe to eat ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table), [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder)). Figure roughly 1½ hours per pound at 225°F as a rough planning number, but go by temperature and feel, not the clock.
+
+**6. Rest.**
+Wrap the butt in foil and let it rest at least 30 minutes, or hold it in a cooler ("faux cambro," [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)) for up to a few hours if dinner's running late — it actually keeps getting more tender while it holds hot.
+
+**7. Pull and serve.**
+The bone should slide out clean. Pull the meat apart with two forks or heatproof gloved hands, discarding any large unrendered pockets of fat. Mix the pan juices back in, then serve plain or with barbecue sauce on the side.
+
+*Note: cook more than you think you need — see [§T61](#t61-leftover-pulled-pork--storage-and-reheating) on how well this freezes and reheats, and where the leftovers go (including [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes)).*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bone-in pork butt (Boston butt), about 8 lb *(or a butcher counter)*
+- 🛒 Kosher salt
+
+*Memphis Dust rub ingredients are already documented at [§4.108](#4108-meatheads-memphis-dust); sauce ingredients at [§4.117](#4117-kansas-city-classic-barbecue-sauce)/[§4.118](#4118-columbia-gold-south-carolina-mustard-sauce) — nothing new to shop for there.*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(~3.6 lb pulled meat)* | ~3,900 | 278 g | 327 g | 0 g | 0 g |
+| **Per serving** *(makes enough for 8–10 sandwiches; serves 8)* | ~490 | 35 g | 41 g | 0 g | 0 g |
+
+**What a serving is:** about 6 oz of pulled pork, plain (before a bun or sauce) — enough for a hearty sandwich.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.96 Really Loaded Potato Canoes
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. A loaded-potato spin built specifically around leftover [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) — the book calls it a hollowed-out "canoe" instead of the usual split baked potato so it holds up under a genuinely generous pile of toppings.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr** *(baking the potatoes, indirect grill, mostly unattended)* **+ 5 min finishing** · **Start to finish ~1 hr 20 min**
+
+#### A. Ingredients
+
+- 3 large russet potatoes
+- 3 tablespoons vegetable oil
+- Freshly ground black pepper
+- ½ lb Perfect Pulled Pork ([§7.95](#795-perfect-pulled-pork)), warmed
+- ¾ cup shredded cheddar or other melting cheese
+- Sour cream, for topping
+- Chopped green onions, for topping
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Wash and scrub the potatoes.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking and get it to about 325°F in the indirect zone.
+
+**3. Bake the potatoes.**
+Coat each potato with a thin layer of the oil and a sprinkle of pepper, then bake them in the indirect zone until tender all the way through — this can take an hour or more depending on how thick they are, so don't rush it; a properly baked potato should give easily to a squeeze (with an oven mitt on).
+
+**4. Hollow into canoes.**
+Slice each potato in half lengthwise. Scoop out the middle, leaving a shell about ¼ inch thick all around — go slowly near the skin so you don't tear through it.
+
+**5. Load them up.**
+Arrange the hollowed potato shells cut side up on the grill. Fill each one generously with warm pulled pork, then top with the shredded cheese.
+
+**6. Melt.**
+Close the lid and grill just until the cheese is melted and bubbling and the potato skins crisp up a bit more, about 5 minutes.
+
+**7. Serve.**
+Top each hot canoe with a dollop of sour cream and a sprinkle of green onions, and serve immediately.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Russet potatoes — 3 large
+- 🛒 Vegetable oil
+- 🛒 Shredded cheddar or other melting cheese
+- 🛒 Sour cream
+- 🛒 Green onions
+
+*Uses leftover [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) — nothing separate to buy for the pork itself.*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,210 | 118 g | 89 g | 203 g | 24 g |
+| **Per serving** *(serves 4)* | ~550 | 30 g | 22 g | 51 g | 6 g |
+
+**What a serving is:** one large loaded potato half (or two smaller halves), piled with pulled pork and melted cheese.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.97 Last-Meal Ribs
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter, credited to Meathead's friend Trudy Clarin of Palm Springs, California — the ribs he says he'd request if he had to pick his own last meal.
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook ~5 hr** *(indirect smoker, unattended)* · **Start to finish ~13 hr 15 min** *(+ 8 hr overnight dry brine)*
+
+#### A. Ingredients
+
+- 1 slab center-cut pork ribs (spareribs or St. Louis cut), about 2½–3½ lb
+- Kosher salt
+- ¼ cup Meathead's Memphis Dust rub ([§4.108](#4108-meatheads-memphis-dust))
+- 1 cup barbecue sauce (optional) — Kansas City Classic ([§4.117](#4117-kansas-city-classic-barbecue-sauce)) or Columbia Gold ([§4.118](#4118-columbia-gold-south-carolina-mustard-sauce))
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Remove the membrane from the back of the ribs (see [§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs)). Salt the ribs at least 1 to 2 hours before cooking — overnight in the fridge is better, so the salt has time to work all the way in ([§T29](#t29-how-to-salt)).
+
+**2. Rub.**
+Sprinkle the Memphis Dust rub over the ribs, moistening the meat first with a little water, mustard, or oil if you want the rub to stick evenly. Let the rack sit at room temperature for 30 minutes to an hour before it goes on the fire so it's not fighting a cold start.
+
+**3. Fire up.**
+Set up your smoker or grill for indirect two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get it stable at 225°F on the indirect side.
+
+**4. Cook.**
+Put the ribs bone side down over indirect heat, adding wood for smoke if you're using a grill rather than a dedicated smoker. Hold at 225°F and let the ribs cook undisturbed.
+
+**5. Judge doneness by the bend, not the thermometer.**
+The bones are thin enough that an instant-read reading isn't very reliable here. Instead, pick up one end of the rack with tongs and watch how much it droops — a fully cooked rack bends deeply and the meat between the bones cracks slightly at the surface. Figure roughly 5 hours total at 225°F, but let the bend tell you, not the clock.
+
+**6. Sauce, or don't.**
+Ribs with just the rub already stand on their own — a great rack needs no sauce at all. If you do want them sauced, brush on barbecue sauce during the last 15 minutes so it warms through without burning, then give them one more light coat right before serving.
+
+**7. Rest and serve.**
+Let the ribs rest 5 to 10 minutes before slicing between the bones.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pork spareribs or St. Louis-cut ribs — 1 slab *(or a butcher counter)*
+- 🛒 Kosher salt
+
+*Memphis Dust and sauce ingredients already documented at [§4.108](#4108-meatheads-memphis-dust)/[§4.117](#4117-kansas-city-classic-barbecue-sauce)/[§4.118](#4118-columbia-gold-south-carolina-mustard-sauce).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(~1.8 lb cooked meat off the bone)* | ~2,465 | 197 g | 157 g | 0 g | 0 g |
+| **Per serving** *(serves 4)* | ~615 | 49 g | 39 g | 0 g | 0 g |
+
+**What a serving is:** about a quarter slab of ribs (2–3 bones), on the bone, without sauce.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.98 Happy Mouth Yakitori Ribs
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. A Japanese-inflected spin on ribs, finished with a sweet-savory yakitori-style glaze rather than a Southern barbecue sauce.
+
+> ⚠️ **Happy Mouth Yakitori Sauce itself isn't documented in this cookbook yet.** Its own ingredient list falls on book p. 192, which wasn't captured in either this batch's photos or the earlier Brines/Rubs/Sauces batch (see that batch's 2026-09-05 changelog entry, which flagged the same gap). The book describes it as a Japanese-style sweet-savory glaze in the yakitori/teriyaki family. Until the real recipe is photographed, a good bottled teriyaki or yakitori sauce is a reasonable stand-in.
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook ~2¼ hr** *(indirect grill, unattended)* · **Start to finish ~2 hr 40 min** *(+ 2–3 hr dry brine)*
+
+#### A. Ingredients
+
+- 1 rack spareribs or center-cut pork ribs
+- 1 teaspoon kosher salt
+- ¼ cup Happy Mouth Yakitori Sauce *(not yet in this cookbook — see the ⚠️ note above; a bottled teriyaki/yakitori sauce works as a stand-in)*
+- Toasted sesame seeds, for garnish
+- Thinly sliced green onion, for garnish
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Remove the membrane and trim the ribs the same way as [§T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs). Salt the ribs and refrigerate for 2 to 3 hours before cooking.
+
+**2. Fire up.**
+Get your smoker up to 225°F, or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side.
+
+**3. Cook.**
+Put the ribs over indirect heat, bone side down, and close the lid. Cook until the meat pulls back from the ends of the bones and the rack passes the bend test (see [§T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs)) — roughly 2 hours.
+
+**4. Glaze.**
+Brush the ribs generously with the Happy Mouth Yakitori Sauce on both sides, close the lid, and let the glaze set and lightly caramelize for another 10 to 15 minutes. Watch it closely — a sugary glaze can go from glossy to scorched fast if the heat spikes.
+
+**5. Serve.**
+Sprinkle with sesame seeds and green onion, then cut the rack into individual ribs to serve.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Teriyaki or yakitori sauce *(stand-in until Happy Mouth Yakitori Sauce is documented)*
+
+**🛒 General grocery**
+
+- 🛒 Pork spareribs — 1 rack
+- 🛒 Kosher salt
+- 🛒 Sesame seeds
+- 🛒 Green onion
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(~1.5 lb cooked meat off the bone, plus glaze)* | ~2,240 | 163 g | 130 g | 42 g | 0.5 g |
+| **Per serving** *(serves 2)* | ~1,120 | 82 g | 65 g | 21 g | <0.5 g |
+
+**What a serving is:** half a rack of ribs (5–6 bones), lacquered with yakitori glaze.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.99 Kermit's Second-Favorite Pork Chops
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter, credited to Meathead's barbecue friend Kermit. A simple wet-brined, grilled bone-in chop that leans on this cookbook's existing [§4.100 Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) rather than a new brine recipe.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~2 hr 25 min** *(+ 1–2 hr wet brine)*
+
+#### A. Ingredients
+
+- 4 bone-in pork chops, about 1 to 1½ inches thick
+- The Simple Blonder Wet Brine ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)) — enough to submerge the chops, about 1 quart
+- Freshly ground black pepper
+- Vegetable oil, for the grill grates
+
+#### B. Cooking Instructions
+
+**1. Brine.**
+Submerge the chops in The Simple Blonder Wet Brine ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)) in a zipper-top bag or bowl, and refrigerate for 1 to 2 hours — no longer, or the texture turns spongy.
+
+**2. Fire up.**
+Set up your grill for two-zone cooking and get it to about 325°F on the direct side.
+
+**3. Pat dry and season.**
+Remove the chops from the brine and pat them dry. Season generously with black pepper — no extra salt needed, since the brine already handled that ([§T29](#t29-how-to-salt)).
+
+**4. Cook.**
+Oil the grates, then grill the chops over direct heat, turning once, until they hit 130–135°F internal (chef temp) to 145°F (USDA minimum) per [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) — about 4 to 6 minutes per side, depending on thickness.
+
+**5. Rest and serve.**
+Let the chops rest 3 minutes before serving; they'll carry over a few more degrees as they sit ([§T33](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth)).
+
+*See [§T63 Don't Stuff the Chop](#t63-dont-stuff-the-chop) for why this recipe (and this cookbook) doesn't recommend cutting a pocket into a chop like this one.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bone-in pork chops — 4, about 1 to 1½ inches thick
+- 🛒 Black pepper
+
+*Wet brine ingredients already documented at [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(4 chops)* | ~1,520 | 72 g | 208 g | 0 g | 0 g |
+| **Per serving** *(serves 4, one chop each)* | ~380 | 18 g | 52 g | 0 g | 0 g |
+
+**What a serving is:** one thick bone-in pork chop, about 8 oz cooked.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.100 Pork Tenderloin with Cowboy Java Rub
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. A simple reverse-seared tenderloin built on this cookbook's existing [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) — a good showcase for a rub this cookbook already had no recipe attached to.
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~25–30 min** *(mostly unattended, indirect then a quick direct sear)* · **Start to finish ~30–45 min** *(+ optional 1–2 hr dry brine)*
+
+#### A. Ingredients
+
+- 1 pork tenderloin, about 2 lb
+- Kosher salt
+- 1 teaspoon Cowboy Java Rub ([§4.114](#4114-cowboy-java-rub))
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim the silverskin and any excess surface fat from the tenderloin. Salt it and let it sit in the fridge for an hour or two if you have time ([§T29](#t29-how-to-salt)), then pat the Cowboy Java Rub firmly onto the surface so it adheres.
+
+**2. Fire up.**
+Set up your grill (or oven) for indirect, low-and-slow cooking at around 225°F.
+
+**3. Cook low and slow.**
+Cook the tenderloin on the indirect side until an instant-read thermometer reads 125 to 130°F in the thickest part.
+
+**4. Sear.**
+Move the tenderloin over direct high heat (or into a hot skillet) just long enough to brown the outside on all sides, using [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking), until the internal temperature reaches 135–140°F.
+
+**5. Rest and slice.**
+Let it rest 5 minutes, then slice into medallions and serve.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pork tenderloin — about 2 lb
+- 🛒 Kosher salt
+
+*Cowboy Java Rub ingredients already documented at [§4.114](#4114-cowboy-java-rub).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,100 | 27 g | 198 g | 0 g | 0 g |
+| **Per serving** *(serves 4)* | ~275 | 7 g | 50 g | 0 g | 0 g |
+
+**What a serving is:** about a 6–7 oz portion of sliced tenderloin — a quarter of the roast.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.101 Sweet and Sour Pork Tenderloin
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. Skewered pork and fruit grilled and served over rice with a sweet-and-sour glaze — the book leans on its own D.C. Mumbo Sauce, already documented in this cookbook at [§4.123](#4123-dc-mumbo-sauce).
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~15 min** · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- 1 pork tenderloin, about 2 lb, trimmed and cut into 1-inch cubes
+- Kosher salt and freshly ground black pepper
+- 1 large red onion, cut into chunks
+- 1 large red or green bell pepper, stemmed, seeded, and cut into chunks
+- 1 mango, cut into ¾-inch chunks
+- 3 round, ½-inch-thick slices fresh pineapple, cut into chunks
+- Vegetable oil
+- 4 servings cooked rice
+- ½ cup D.C. Mumbo Sauce ([§4.123](#4123-dc-mumbo-sauce)) or another Asian-inspired sweet-and-sour sauce
+- 2 tablespoons chopped green onions, for garnish
+- 2 tablespoons chopped fresh cilantro, for garnish (optional)
+
+#### B. Cooking Instructions
+
+**1. Start the rice.**
+Cook the rice on the stovetop or in a rice cooker according to the package, and keep it warm until serving.
+
+**2. Skewer.**
+Thread the pork, onion, bell pepper, mango, and pineapple onto skewers, alternating as you go.
+
+**3. Fire up.**
+Set up your grill for two-zone cooking and get it to about 325°F.
+
+**4. Season.**
+Sprinkle the skewers with salt and pepper on all sides.
+
+**5. Cook.**
+Grill the skewers directly over the heat, turning every few minutes, until the pork hits 135–140°F internal and the fruit and vegetables have picked up some good char.
+
+**6. Warm the sauce.**
+Warm the D.C. Mumbo Sauce on the stovetop or on the cool side of the grill while the skewers finish cooking.
+
+**7. Rest.**
+Pull the meat off the skewers and let it rest for a couple of minutes.
+
+**8. Bundle.**
+Spoon the rice onto plates and top with the grilled pork, pineapple, mango, and vegetables.
+
+**9. Serve.**
+Drizzle everything with the warm sauce, and garnish with chopped green onions and cilantro if using.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pork tenderloin — about 2 lb
+- 🛒 Red onion
+- 🛒 Red or green bell pepper
+- 🛒 Mango
+- 🛒 Fresh pineapple
+- 🛒 Rice
+- 🛒 Green onions, fresh cilantro
+- 🛒 Kosher salt, black pepper
+
+*D.C. Mumbo Sauce ingredients already documented at [§4.123](#4123-dc-mumbo-sauce).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,540 | 30 g | 220 g | 326 g | 13 g |
+| **Per serving** *(serves 4)* | ~635 | 8 g | 55 g | 82 g | 3 g |
+
+**What a serving is:** a skewer's worth of grilled pork, pineapple, and vegetables over about a cup of rice, sauced.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.102 Pesto-Crusted Pork Loin Roast
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. A boneless pork loin roast basted with a pesto-and-broth mixture as it smokes — pairs with either of this cookbook's pestos, [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce) or [§4.131](#4131-pesto), and this same batch's [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth).
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook ~2½–3 hr** *(indirect grill, unattended)* · **Start to finish ~3 hr 10 min**
+
+#### A. Ingredients
+
+- 5 lb boneless pork loin roast
+- Kosher salt
+- ½ cup Pesto ([§4.131](#4131-pesto) or [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce))
+- ¼ cup Smoked Bone Broth ([§7.104](#7104-smoked-bone-broth)) or chicken broth
+- 2 tablespoons olive oil
+- Freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim the roast of excess silverskin. Salt it and let it sit for a few hours, or overnight if you have time ([§T29](#t29-how-to-salt)).
+
+**2. Mix the baste.**
+Stir the pesto together with the broth and olive oil to loosen it into a brushable consistency.
+
+**3. Fire up.**
+Set up your grill or smoker for indirect two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get it stable at 225°F.
+
+**4. Cook.**
+Put the roast on the indirect side and close the lid. Brush it with the pesto baste every 30 minutes or so as it cooks.
+
+**5. Cook to temp.**
+Pull the roast when it hits 135–140°F internal (chef temp, per [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)). Plan on roughly 30 minutes per pound at 225°F, though thickness matters more than total weight ([§T42](#t42-what-controls-cooking-time)).
+
+**6. Rest and slice.**
+Tent with foil and rest 10 minutes before slicing.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Boneless pork loin roast — 5 lb
+- 🛒 Olive oil
+- 🛒 Black pepper
+
+*Pesto ingredients already documented at [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce)/[§4.131](#4131-pesto); broth at [§7.104](#7104-smoked-bone-broth).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,440 | 158 g | 448 g | 5 g | 1 g |
+| **Per serving** *(serves 8)* | ~430 | 20 g | 56 g | 1 g | 0 g |
+
+**What a serving is:** about a 7–8 oz slice of pesto-crusted pork loin.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.103 Stuffed Pork Loin Roast
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. A bone-in center-cut pork loin, tunneled through the middle and packed with a cranberry-pecan stuffing, then rubbed and smoked.
+
+> ⚠️ **Reconstructed from a rotated source photo — some quantities are best-effort reads.** Confirm with a probe thermometer rather than the clock regardless.
+
+**🟡 Medium** · **Prep ~20 min** · **Slow cook ~2–2½ hr** *(indirect grill, unattended)* · **Start to finish ~2 hr 45 min** *(+ 3 hr dry brine)*
+
+> ⚠️ **Why Medium.** The tunnel can tear through the side of the roast if you push the knife too hard or too fast, and an overstuffed pocket can force itself back open as the roast cooks and contracts — this is the one pork recipe in this batch that can genuinely go wrong on you, unlike the straightforward low-and-slow cooks around it.
+
+#### A. Ingredients
+
+- 1 (6 lb) bone-in center-cut pork loin roast
+- Kosher salt
+- ½ cup dried cranberries
+- ¼ cup chopped pecans or walnuts, toasted
+- 2 tablespoons Simon & Garfunkel Rub ([§4.109](#4109-simon--garfunkel-rub))
+- Vegetable oil
+- Butcher's twine
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim off all surface fat and silverskin from the pork. Sprinkle the meat with salt and rub it in, then let it sit in the fridge for 3 hours or so ([§T29](#t29-how-to-salt)).
+
+**2. Make the stuffing.**
+Combine the toasted pecans or walnuts with the dried cranberries.
+
+**3. Tunnel the roast.**
+Insert a long, sharp knife into the meat about ½ inch from one side. Work the knife back and forth to open a tunnel about ¾ inch wide running nearly the full length of the roast — go slowly, and don't punch through the opposite side or the bottom.
+
+**4. Stuff.**
+Pack the cranberry-pecan stuffing into the tunnel, working it in gently with your fingers or a spoon handle so it's distributed the full length without over-packing — an overstuffed roast can force its own tunnel open as it cooks.
+
+**5. Season and tie.**
+Coat the roast lightly with oil, then rub the Simon & Garfunkel Rub over the surface. Tie the roast at 1-inch intervals with butcher's twine if the tunnel opening needs help staying closed.
+
+**6. Fire up.**
+Set up your grill or smoker for indirect two-zone cooking and get it stable at around 225°F.
+
+**7. Cook.**
+Place the roast on the indirect side and cook until it hits 135–140°F internal (chef temp, [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)) in the thickest part, away from the stuffing pocket — expect roughly 2 to 2½ hours for a 6 lb roast, but go by temperature, not the clock.
+
+**8. Rest and serve.**
+Tent with foil and rest 10 minutes, then slice into ¾-inch-thick rounds so each slice shows the stuffing spiral.
+
+*See [§T63 Don't Stuff the Chop](#t63-dont-stuff-the-chop) for why this technique works here but not on a thin chop — a roast this size spends far longer at temperature, with a lot more safe meat between the pocket and the exterior.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bone-in center-cut pork loin roast — 6 lb
+- 🛒 Dried cranberries
+- 🛒 Pecans or walnuts
+- 🛒 Vegetable oil
+- 🛒 Kosher salt
+- 🛒 Butcher's twine
+
+*Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,370 | 147 g | 412 g | 53 g | 4 g |
+| **Per serving** *(serves 8)* | ~420 | 18 g | 52 g | 7 g | 0.5 g |
+
+**What a serving is:** one ¾-inch-thick slice showing the cranberry-pecan spiral, about 6–7 oz.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.104 Smoked Bone Broth
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter. Roasting the bones and vegetables in the smoker before simmering gives this broth a deeper color and flavor than an all-stovetop stock.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr** *(roasting the bones)* · **Slow cook 4–8 hr** *(simmer, unattended)* · **Start to finish ~6 hr**
+
+#### A. Ingredients
+
+- 5 lb pork bones (see Note)
+- 4 carrots, peeled
+- 3 onions, chopped, skins and all
+- 4 celery stalks, chopped
+- 2 garlic cloves
+- 1 tablespoon whole black peppercorns (optional)
+- 2 tablespoons kosher salt
+- 1 tablespoon minced fresh ginger
+- 2 teaspoons sugar
+
+#### B. Cooking Instructions
+
+**1. Fire up.**
+Get your smoker or grill up to 325°F for roasting.
+
+**2. Roast the bones.**
+Put the pork bones, carrots, onions, celery, and garlic in a smoker-safe pan and roast at 325°F until well browned, about 1 hour — this step builds the deep flavor and color of the finished broth, so don't rush it.
+
+**3. Simmer.**
+Transfer everything to a large stockpot, add the peppercorns, salt, ginger, and sugar, and cover with water. Bring to a bare simmer and cook, uncovered, for 4 to 8 hours, skimming any foam off the top occasionally.
+
+**4. Strain and defat.**
+Strain the broth through a fine-mesh sieve or cheesecloth, discarding the solids. Use a gravy separator, or refrigerate until the fat solidifies on top and lift it off.
+
+**5. Store.**
+Refrigerate up to 2 weeks or freeze up to 3 months — freezing it in ice cube trays makes it easy to pull out a little at a time later.
+
+*Note: ask your butcher for pork bones (neck bones, feet, or a mix) if they're not out on display.*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher counter**
+
+- 🏪 Pork bones — 5 lb
+
+**🛒 General grocery**
+
+- 🛒 Carrots
+- 🛒 Onions
+- 🛒 Celery
+- 🛒 Garlic
+- 🛒 Black peppercorns
+- 🛒 Kosher salt
+- 🛒 Fresh ginger
+- 🛒 Sugar
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(makes 6 quarts / 24 cups)* | ~960 | 24 g | 144 g | 48 g | 0 g |
+| **Per serving** *(1 cup)* | ~40 | 1 g | 6 g | 2 g | 0 g |
+
+**What a serving is:** 1 cup of broth, sipped plain or used as a soup or ramen base.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.105 Momofuku-Inspired Ramen Bowl
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter, inspired by chef David Chang's Momofuku Noodle Bar. Smoked pork belly, hot broth ([§7.104 Smoked Bone Broth](#7104-smoked-bone-broth)), ramen noodles, and a soft poached egg, built as a full ramen bowl at home.
+
+> ⚠️ **Reconstructed from a rotated source photo — the broth quantity is a best-effort read.** The book calls for roughly 1½ to 2 cups of broth per bowl (4 bowls total); scale to taste rather than a fixed total volume.
+
+**🟢 Easy** · **Prep ~30 min** · **Cook ~30 min** *(noodles, eggs, and assembly)* · **Slow cook 4–5 hr** *(pork belly, indirect grill/smoker, unattended)* · **Start to finish ~5 hr**
+
+#### A. Ingredients
+
+- 3 lb trimmed pork belly
+- 2 teaspoons onion powder
+- 2 teaspoons garlic powder
+- 2 teaspoons kosher salt
+- Freshly ground black pepper
+- About 6–8 cups Smoked Bone Broth ([§7.104](#7104-smoked-bone-broth)) — see ⚠️ note above
+- 1 lb fresh or dried ramen noodles (see Notes)
+- 4 (4-inch square) pieces kombu (see Notes)
+- 4 large pasteurized eggs (see Notes)
+- 4 radishes, thinly sliced
+- 1 jalapeño, thinly sliced
+- ¼ cup chopped fresh cilantro
+- 4 green onions, thinly sliced
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim the pork belly if it's very thick, and season it all over with the onion powder, garlic powder, salt, and pepper. Let it sit while the smoker heats up.
+
+**2. Fire up.**
+Set up your grill or smoker for indirect two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get it stable at about 225°F on the indirect side.
+
+**3. Cook the belly.**
+Put the pork belly on the indirect side and smoke until the internal temperature reaches about 195–200°F and the meat is fork-tender, roughly 4 to 5 hours depending on thickness.
+
+**4. Rest and slice.**
+Let the belly rest, then slice it into ¼-inch-thick squares.
+
+**5. Get the broth and eggs going while the belly rests.**
+Warm the Smoked Bone Broth on the stovetop. Bring a wide, deep pot of water to a boil for poaching eggs, and lightly coat 4 coffee cups or ramekins with cooking oil.
+
+**6. Cook the noodles.**
+In a separate pot of well-salted boiling water, cook the ramen noodles just until tender — stop a little short of fully done, since they'll keep cooking once they hit the hot broth. Drain and hold them in a bowl until needed.
+
+**7. Poach the eggs.**
+Crack one egg into each oiled cup or ramekin and lower it into the simmering water. Poach about 5 to 6 minutes, until the top of the yolk just turns milky.
+
+**8. Build the bowls.**
+Divide the noodles among four large, shallow bowls. Ladle 1½ to 2 cups of hot broth over the noodles in each bowl. Pile 3 to 4 tablespoons of sliced pork belly to one side, add a pile of green onions and a square of kombu, and scatter radish slices over the top. Sprinkle with jalapeño and cilantro, and finish each bowl with a poached egg in the center.
+
+**9. Serve.**
+Serve with a spoon for the broth and chopsticks for the noodles and meat.
+
+*Notes: ask your butcher for pork belly if it's not out on display. Fresh ramen noodles (Sun Noodle is a good brand, found at some Whole Foods and Asian markets) are noticeably better than dried, if you can find them. Use pasteurized eggs if you want a runny poached yolk. Kombu is dried seaweed sold in paper-thin sheets at Asian markets or online.*
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Pork belly — 3 lb *(or a butcher counter)*
+- ☯️ Fresh or dried ramen noodles — 1 lb
+- ☯️ Kombu — 4 pieces
+
+**🛒 General grocery**
+
+- 🛒 Onion powder, garlic powder, kosher salt, black pepper
+- 🛒 Eggs, pasteurized — 4 large
+- 🛒 Radishes
+- 🛒 Jalapeño
+- 🛒 Fresh cilantro
+- 🛒 Green onions
+
+*Broth is [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) — nothing separate to buy for it here.*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~6,920 | 427 g | 194 g | 371 g | 19 g |
+| **Per serving** *(serves 4)* | ~1,730 | 107 g | 49 g | 93 g | 5 g |
+
+**What a serving is:** one large ramen bowl — noodles, broth, sliced pork belly, a soft poached egg, and toppings. A rich, restaurant-style portion, not a light lunch bowl.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -28146,6 +29011,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-05 — the actual named recipes have now arrived too, and they landed in §4, not here.** A full batch of brines, rubs, and sauces from the same book's "Brines, Rubs, and Sauces" chapter — **[§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) through [§4.132](#4132-roasted-red-pepper-and-garlic-coulis)**, 33 recipes in all — plus eight more condensed technique entries, **[§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)**, covering leftovers, vegetables, basting, lid myths, saucing strategy, cooking multiple large cuts at once, water/drip pans, and rub science. They went to §4 per Cody's explicit instruction — standalone condiments belong with this cookbook's other rubs and sauces, the same place *How to Grill*'s rubs and sauces already live, rather than in a book-specific section. **§13 stays a placeholder anyway** — it's reserved for an actual multi-component *dish* from this book (a whole smoked brisket or rib recipe, say), which still hasn't arrived; standalone condiments go to §4 regardless of source, matching how every other cookbook's rubs and sauces are already organized here.
 >
 > **Update, 2026-09-05 — the first actual multi-component dishes from this book have now arrived, and they landed in §7, not here.** Eight full recipes from the same book's "Seafood" chapter — **[§7.87](#787-smoked-salmon-mousse-canapés) through [§7.94](#794-gregs-grilled-lobster)** — plus four more condensed technique entries, **[§T54](#t54-buying-and-cooking-fish)–[§T57](#t57-storing-a-live-lobster)**, covering buying/cooking fish, filleting a whole fish, shrimp prep, and lobster storage. They went to [§7 Mains & Proteins](#7-mains--proteins) rather than here, on the same reasoning as the rubs/sauces: this cookbook organizes finished dishes by what they *are* (seafood mains sit with this cookbook's other seafood mains) rather than by which book they came from — the same place the *Champions of Sous Vide* seafood dishes ([§7.81](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction), [§7.84](#784-rockfish-burger-with-key-lime-aioli), [§7.86](#786-carpaccio-of-sous-vide-octopus)) already live. **§13 remains a placeholder** — still reserved for whatever eventually justifies a book-specific section of its own, which hasn't come up yet; every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's existing structure. **Two recipes and part of one technique entry were skipped this round rather than guessed at** — see the 2026-09-05 changelog entry for exactly what was cut off in the source photos and why.
+>
+> **Update, 2026-09-05 — the "Pork" chapter has now arrived, and it landed in §7 and the T-section, same as Seafood.** Eleven full recipes — **[§7.95](#795-perfect-pulled-pork) through [§7.105](#7105-momofuku-inspired-ramen-bowl)** — plus seven condensed technique entries, **[§T58](#t58-the-different-cuts-of-ribs)–[§T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style)**, covering rib cuts and anatomy/trimming, pork-butt brining and cooking-time science, leftover pulled pork storage, pork chop cuts, why not to stuff a chop, and a hot-and-fast alternative rib method. **Two items skipped rather than guessed past a gap in the source photos** — **Whole Hog Pig Pickin'** (book p. 222, headnote only — the actual cooking method it promises is on book p. 223, not in the photographed set) and **Wet-Cured Ham** (book p. 217, background on commercial ham curing that continues onto book pp. 218–219, also missing from the scan; not a home-cookable technique either way). **§13 remains a placeholder**, same reasoning as the Seafood update above — every *Meathead* recipe has had an obvious home elsewhere in this cookbook's structure so far. See the 2026-09-05 changelog entry for the full accounting.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -30097,13 +30964,14 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 
 ### Pork
 
-- **Pork belly** — [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) *(braised, then stir-fried)*
-- **Pork shoulder / Boston butt** — [§6.2 Pulled Pork](#62-pulled-pork) *(indirect-grilled or smoked)* · [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) *(smoked)* · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) *(uses §6.2)* · [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) *(covered braise)* · [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) *(simmered, with liver)*
-- **Pork tenderloin** — [§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) *(grilled)* · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)*
-- **Pork loin** — [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)*
-- **Pork chops** — [§7.4 Pork Chops](#74-pork-chops) *(placeholder — [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) is the likely method)*
-- **Baby back / spare ribs** — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) *(indirect-grilled)*
+- **Pork belly** — [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) *(braised, then stir-fried)* · [§7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) *(indirect-smoked, then sliced into ramen)*
+- **Pork shoulder / Boston butt** — [§6.2 Pulled Pork](#62-pulled-pork) *(indirect-grilled or smoked)* · [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) *(smoked)* · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) *(uses §6.2)* · [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) *(covered braise)* · [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) *(simmered, with liver)* · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) *(indirect-grilled or smoked; distinct from [§6.2](#62-pulled-pork))* · [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) *(uses §7.95's leftovers)*
+- **Pork tenderloin** — [§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) *(grilled)* · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)* · [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) *(reverse-seared, indirect then direct)* · [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) *(grilled skewers)*
+- **Pork loin** — [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)* · [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(indirect-grilled)* · [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(tunnel-stuffed, indirect-grilled)*
+- **Pork chops** — [§7.4 Pork Chops](#74-pork-chops) *(placeholder — [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) is the likely method)* · [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(wet-brined, then grilled)*
+- **Baby back / spare ribs** — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) *(indirect-grilled)* · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(indirect-smoked)* · [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(indirect-grilled, then glazed)*
 - **Ribs, cut unspecified** — [§6.5 Smoked Ribs](#65-smoked-ribs) *(placeholder, smoked)*
+- **Pork bones** — [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) *(roasted, then simmered)*
 
 ### Boar
 

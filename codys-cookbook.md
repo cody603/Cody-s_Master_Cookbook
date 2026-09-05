@@ -151,6 +151,7 @@ Click any recipe to jump straight to it.
   - [4.130 Chimichurri Sauce](#4130-chimichurri-sauce) ✅ *(distinct from [§4.44](#444-three-herb-chimichurri)/[§4.94](#494-red-chimichurri)/[§4.95](#495-dry-chimichurri))*
   - [4.131 Pesto](#4131-pesto) ✅ *(distinct from [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce))*
   - [4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis) ✅
+  - [4.133 Beef Butter](#4133-beef-butter) ✅ *(Meathead; pairs with [§7.109](#7109-chateaubriand-with-compound-butter))*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -347,6 +348,15 @@ Click any recipe to jump straight to it.
 - [7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) ✅ *(Meathead)*
 - [7.104 Smoked Bone Broth](#7104-smoked-bone-broth) ✅ *(Meathead)*
 - [7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) ✅ *(Meathead; uses [§7.104](#7104-smoked-bone-broth))*
+- [7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ✅ *(Meathead)*
+- [7.107 Skinny Steaks](#7107-skinny-steaks) ✅ *(Meathead; includes the Afterburner Method)*
+- [7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) ✅ *(Meathead; "Poor Man's Prime Rib")*
+- [7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) ✅ *(Meathead; uses [§4.133 Beef Butter](#4133-beef-butter))*
+- [7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) ✅ *(Meathead)*
+- [7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) ✅ *(Meathead; ⚠️ no printed quantities/timing — see entry)*
+- [7.112 Texas Beef Brisket](#7112-texas-beef-brisket) ✅ *(Meathead; distinct from [§6.7](#67-texas-style-smoked-brisket) — see entry)*
+- [7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) ✅ *(Meathead)*
+- [7.114 Prime Rib](#7114-prime-rib) ✅ *(Meathead)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -492,6 +502,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Beef chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — nine full recipes, one compound butter, and eight condensed technique entries. Nothing skipped this round; the whole 24-page chapter (book p. 242–265) came through complete.** **Nine full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Pork batch's [§7.105](#7105-momofuku-inspired-ramen-bowl): [§7.106](#7106-big-thick-steakhouse-steaks) Big, Thick Steakhouse Steaks (reverse-seared, 1½"+ thick), [§7.107](#7107-skinny-steaks) Skinny Steaks (screaming-hot direct heat for thin cuts, includes the Afterburner Method as an in-recipe variant rather than a separate entry), [§7.108](#7108-santa-maria-tri-tip) Santa Maria Tri-Tip ("Poor Man's Prime Rib"), [§7.109](#7109-chateaubriand-with-compound-butter) Chateaubriand with Compound Butter (uses the new [§4.133 Beef Butter](#4133-beef-butter)), [§7.110](#7110-short-ribs-texas-style) Short Ribs, Texas Style, [§7.111](#7111-short-ribs-brazilian-steakhouse-style) Short Ribs, Brazilian Steakhouse Style (⚠️ the source prints no MAKES/TAKES/exact quantities for this one — see entry), [§7.112](#7112-texas-beef-brisket) Texas Beef Brisket (a whole 12-lb packer — **distinct from the existing [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)**, a smaller 5–6 lb Raichlen recipe basted in a foil pan; both kept, cross-referenced), [§7.113](#7113-close-to-katzs-pastrami) Close to Katz's Pastrami, and [§7.114](#7114-prime-rib) Prime Rib. **One new compound butter, [§4.133 Beef Butter](#4133-beef-butter)**, filed in §4 alongside this cookbook's other compound butters ([§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter)) rather than as a sub-recipe of Chateaubriand — matching this cookbook's existing precedent for compound butters built to pair with a specific steak recipe. **Rated 🟢 Easy for the three long, unattended smokes** — [§7.110](#7110-short-ribs-texas-style), [§7.112](#7112-texas-beef-brisket), and [§7.113](#7113-close-to-katzs-pastrami) — **and 🟡 Medium for the six that need an attended high-heat sear or hot direct grilling**: [§7.106](#7106-big-thick-steakhouse-steaks), [§7.107](#7107-skinny-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), [§7.111](#7111-short-ribs-brazilian-steakhouse-style), and [§7.114](#7114-prime-rib) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy: none of these nine can be ruined the way a broken sauce or a scorched roux can, but the searing/direct-grilling stages genuinely need continuous attention, unlike the three unattended smokes, which is why they sit one notch above Easy rather than at it. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference applies to standalone brining recipes only, and every dry-brine/salt amount here is transcribed exactly as printed. **Eight new condensed technique entries, [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)–[§T72](#t72-steaming-pastrami)**, added to the Techniques quick index: steak grades/cuts/thickness-to-temperature matching, prime rib and rib roast anatomy — ordering, the rib cap and lip, and the geometric reasons bones come off a roast (**deliberately distinct from [§T45 Bones](#t45-bones--do-they-actually-add-flavor)**, which already covers the separate flavor-myth question), the V-shaped rack warning, short rib vs. back rib anatomy, whole packer brisket anatomy (flat vs. point, grading, the corned-beef mixup warning), two ways to slice a brisket, burnt ends, and steaming pastrami. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with new tri-tip, ribeye/thick-vs-thin-steak, chateaubriand/tenderloin, prime rib, brisket, short rib, and pastrami cross-references — the old "no prime rib recipe of its own yet" note is now resolved. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7, §4, and the T-section, same reasoning as every prior Meathead batch. None of the nine recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Pork chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — eleven full recipes and seven condensed technique entries, plus two items flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Eleven full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Seafood batch's [§7.94](#794-gregs-grilled-lobster): [§7.95](#795-perfect-pulled-pork) Perfect Pulled Pork (distinct from this cookbook's existing [§6.2](#62-pulled-pork)/[§6.6](#66-north-carolina-pulled-pork-karmel-version)), [§7.96](#796-really-loaded-potato-canoes) Really Loaded Potato Canoes (built on §7.95's leftovers), [§7.97](#797-last-meal-ribs) Last-Meal Ribs (Trudy Clarin's recipe, per the book), [§7.98](#798-happy-mouth-yakitori-ribs) Happy Mouth Yakitori Ribs (⚠️ its own sauce isn't documented here yet — see entry), [§7.99](#799-kermits-second-favorite-pork-chops) Kermit's Second-Favorite Pork Chops (uses the existing [§4.100 Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity)), [§7.100](#7100-pork-tenderloin-with-cowboy-java-rub) Pork Tenderloin with Cowboy Java Rub (finally gives the existing [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) a recipe of its own), [§7.101](#7101-sweet-and-sour-pork-tenderloin) Sweet and Sour Pork Tenderloin (uses the existing [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce)), [§7.102](#7102-pesto-crusted-pork-loin-roast) Pesto-Crusted Pork Loin Roast, [§7.103](#7103-stuffed-pork-loin-roast) Stuffed Pork Loin Roast, [§7.104](#7104-smoked-bone-broth) Smoked Bone Broth, and [§7.105](#7105-momofuku-inspired-ramen-bowl) Momofuku-Inspired Ramen Bowl (David Chang-inspired, uses §7.104). **Rated 🟢 Easy across the board except [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, tunneling a pocket through the roast can tear through the side if rushed, and an overstuffed pocket can force itself back open during cooking; every other recipe in the batch is a low-and-slow smoke, a simple grill, or a straightforward stovetop/broth build with no comparable failure point, including the multi-component Ramen Bowl (long and involved, but nothing in it can go from perfect to ruined the way [CLAUDE.md §3a](CLAUDE.md) defines Hard). **No extra salt added anywhere in this batch** — same scoping as the Seafood batch: Cody's heavier-salt preference applies to standalone brines only, and where these recipes reference brining (§7.99's wet brine, dry-brine steps throughout) the amounts are exactly as documented at their existing cross-referenced entries or as printed. **Seven new condensed technique entries, [§T58](#t58-the-different-cuts-of-ribs)–[§T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style)**, added to the Techniques quick index: the different cuts of ribs (baby back, spareribs, St. Louis cut, rib tips, country-style), rib anatomy and how to skin/trim them, pork-butt brine/injection/cooking-time science (including the same 203°F-vs-195°F correction [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) already made to [§6.2](#62-pulled-pork)), leftover pulled pork storage and reheating, the different cuts of pork chops, why not to stuff a chop (contrasted with why a whole stuffed loin roast is lower-risk), and a hot-and-fast Dreamland-style rib method — the last one **condensed as a technique note rather than a recipe**, since the source presents it as pure narrative with no ingredient list or steps to transcribe. **Two items skipped rather than added as placeholders or guessed past a gap:** **Whole Hog Pig Pickin'** (title and headnote legible on book p. 222, but the actual whole-hog cooking method the text explicitly promises — "the way I describe below" — falls on book p. 223, which wasn't in the photographed set) and **Wet-Cured Ham** (book p. 217's background on commercial ham curing continues onto book pp. 218–219, also missing from the scan; even the visible portion reads as industrial-process background rather than a home technique, so it wasn't a strong candidate for condensing even if the rest had been captured). **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new pork butt, tenderloin, loin, chop, rib, belly, and bone entries. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7 and the T-section, same reasoning as the Seafood and Brines/Rubs/Sauces batches before it. None of the eleven recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, several flagged ⚠️ where the source photo's rotation made a quantity a best-effort read. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Seafood chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — eight full recipes and four condensed technique entries, plus two recipes and part of one technique entry flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Eight full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the sous-vide batch's [§7.86](#786-carpaccio-of-sous-vide-octopus): [§7.87](#787-smoked-salmon-mousse-canapés) Smoked Salmon Mousse Canapés, [§7.88](#788-smoked-trout-florida-mullet-style) Smoked Trout (Florida Mullet Style), [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) Chef Bonner's Fish Fillets with Brioni Broth (credited to Chef Mychael Bonner, The Reel Club, Oak Brook, IL), [§7.90](#790-smoked-salmon-quiche) Smoked Salmon Quiche, [§7.91](#791-smoked-halibut-salad) Smoked Halibut Salad, [§7.92](#792-butter-poached-fillets) Butter-Poached Fillets, [§7.93](#793-baja-fish-tacos) Baja Fish Tacos, and [§7.94](#794-gregs-grilled-lobster) Greg's Grilled Lobster (Professor Blonder's method). **Rated mostly 🟢 Easy** — smoking and butter-poaching are forgiving methods, and the Baja Tacos recipe explicitly says not to worry if the fish breaks apart — **except [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) and [§7.94](#794-gregs-grilled-lobster), both 🟡 Medium** for a genuinely narrow doneness window with no gentle margin: a precise 120°F skin-down sear that can't be flipped without breaking the fillet apart, and a 6–10 minute max-heat window past which lobster meat toughens fast. **Four new condensed technique entries, [§T54](#t54-buying-and-cooking-fish)–[§T57](#t57-storing-a-live-lobster)**, added to the Techniques quick index: buying and cooking fish (freshness signals, ice contact, why fish takes salt and marinade faster than meat), how to fillet a whole fish (plus a fish-oils-in-the-smoker maintenance note), shrimp sizing/deveining/brining, and storing a live lobster before cooking. **No extra salt added anywhere in this batch** — per Cody's own clarification on the prior Meathead rub/sauce correction two entries below (the heavier-salt preference is scoped to actual brining, not to rubs, seasonings, or marinades), and none of this batch's eight recipes is itself a standalone brine, so every quantity is transcribed exactly as printed. **Three items skipped rather than added as placeholders or guessed past a cut-off page:** **Joe's Fireproof Grilled Shrimp** (title, headnote, and MAKES/TAKES line legible on book p. 343, but the ingredient list and numbered steps would have continued onto book p. 344, which wasn't in the photographed set); **Championship Bacon-Wrapped Stuffed Shrimp** (referenced by name mid-page but its own title, ingredients, and steps would fall on book pp. 344–345, entirely absent from the scan); and **an unidentified recipe glimpsed at the edge of one photo** (a red title box reading only "S…S…" and a drop-capped opening paragraph, likely book p. 327 — not on the expected list for this batch and too fragmentary to name). Because of that same gap, **[§T57](#t57-storing-a-live-lobster) is a partial condensation** — only the live-lobster storage tip (book p. 346) survived; the fuller "Lobster: Choosing and Preparing" section (cold-water vs. warm-water lobster, live vs. previously frozen, lobster anatomy) sat on the same missing book pp. 344–345. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's full dishes landed in §7, on the same "organize by what the dish is, not which book it's from" reasoning as the rubs/sauces batch landing in §4. None of the eight recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Follow-up on the same-day salt correction below — refined the salt-free-rub warning and confirmed it's complete.** Per Cody: *"No salt rubs means no salt, it also means to remind them to make sure that you have salted it the night before and a dry brine or some other way."* The warning's wording on all eight salt-free rubs is now **"⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland,"** replacing the earlier "brine the meat first" phrasing that didn't call out the timing Cody actually wants emphasized. **Full audit of every rub recipe in §4** (not just this batch — §4.1 through §4.99 checked individually) to confirm no *other* salt-free rub was missing the warning: every rub predating this session's Meathead batch (Darcy's Steak Rub, Basic Barbecue Rub, Cajun Rub, Chinese Five-Spice Rub, Java Rub, Mucho Macho Pepper Rub, Mediterranean Herb Rub, Texas Chili Rub, Sesame Seasoning, Basic Fish Cure) already carries salt directly in its ingredient list, so none needed the callout. [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) also carries salt, via onion salt and garlic salt. [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought)/[§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning) are store-bought reference entries with no ingredient list, both explicitly salt-forward products, so out of scope. [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) is a single-ingredient aromatic spice component rather than a rub applied as the meat's primary seasoning, so it's treated the same way as buying plain garlic powder and left without the callout. **The eight rubs carrying the warning remain exactly [§4.106](#4106-big-bad-beef-rub), [§4.107](#4107-mrs-olearys-cow-crust), [§4.108](#4108-meatheads-memphis-dust), [§4.109](#4109-simon--garfunkel-rub), [§4.110](#4110-dollys-lamb-rub), [§4.111](#4111-mariettas-fish-rub), [§4.112](#4112-cajun-seasoning), and [§4.114](#4114-cowboy-java-rub)** — no new ones found. |
@@ -731,6 +742,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
 | [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§7.107 Skinny Steaks](#7107-skinny-steaks) *(Meathead)* | 🟡 | 5 min | 5 min | — | 10 min *(+ 1–2 hr dry brine)* |
+| [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§4.101 Basic Brinerade](#4101-basic-brinerade) | 🟢 | 15 min | — | — | 15 min active *(+ brining time per §T37)* |
@@ -836,6 +849,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.70 Sauce Bâtarde (Mock Hollandaise)](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.80 Sauce Madère / au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) | 🟢 | 5 min | 10 min | — | 15 min *(+ brown sauce)* |
 | [§4.86 Beurre Noir / Noisette (Brown Butter)](#486-beurre-noir--beurre-noisette-brown-butter-sauce) | 🟡 | 5 min | 10 min | — | 15 min |
+| [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) *(Meathead)* | 🟢 | 15 min | — | **8–10 hr** *(indirect smoker, unattended)* | 12–16 hr *(includes a 4–6 hr dry brine + ~1 hr rest in a faux Cambro)* |
 | [§4.52 Balsamella](#452-balsamella) | 🟡 | 5 min | 15 min | — | 20 min |
 | [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) | 🟢 | 20 min | — | **~2 hr** *(unattended oven roast, size-dependent)* | 2 hr 20 min |
 | [§9.22 Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) | 🟢 | 20 min | — | **~3–4 hr** *(Olive Salad marinate + sandwich chill, no heat)* | 3 hr 20 min – 5 hr 20 min |
@@ -864,6 +878,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(Meathead)* | 🟢 | 10 min | — | **2¼ hr** *(indirect grill, unattended)* | 2 hr 40 min *(+ 2–3 hr dry brine)* |
 | [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(Meathead)* | 🟢 | 15 min | — | **~5 hr** *(indirect smoker, unattended)* | 13 hr 15 min *(+ 8 hr overnight dry brine)* |
 | [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) *(Meathead)* | 🟢 | 15 min | — | **8–12 hr** *(indirect grill/smoker, unattended)* | 8¼–12¼ hr *(+ optional overnight dry brine)* |
+| [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) *(Meathead)* | 🟢 | 25 min | — | **8–12 hr** *(indirect smoker, unattended)* | 16–21 hr *(includes an 8 hr soak to pull excess salt; +2–3 hr more if steaming before serving)* |
 | [§7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) *(Meathead)* | 🟢 | 30 min | 30 min | **4–5 hr** *(pork belly, indirect grill/smoker, unattended)* | ~5 hr |
 | [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) | 🟢 | 15 min | 10–14 min | — | 30 min |
 | [§7.68 Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) | 🟢 | 20 min | 10 min | — | 2 hr 30 min *(+ 2 hr marinate)* |
@@ -909,6 +924,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) *(Meathead)* | 🟢 | 20 min | 10 min | — | 45 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
+| [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(Meathead)* | 🟢 | 30 min | — | **12–14 hr** *(indirect smoker, unattended)* | 15–17 hr *(includes a 2–24 hr dry brine + 2+ hr rest in a faux Cambro)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
@@ -1013,8 +1029,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
 | [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters) | 🟡 | 30 min | 15 min | **4 hr** *(covered simmer, unattended)* | 4 hr 45 min |
+| [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) *(Meathead)* | 🟡 | 10 min | 45 min | — | 1 hr 45 min – 2 hr 45 min *(includes a 1–2 hr dry brine)* |
 | [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo) | 🔴 | 45 min | 15 min | **3 hr** *(simmer, mostly unattended)* | 4 hr |
 | [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 | 🟡 | 25 min | 35 min | — | 1 hr |
+| [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) *(Meathead)* | 🟡 | 10 min | 45–60 min | — | ~1 hr *(estimated — the source gives no exact timing)* |
 | [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 | 🟢 | 20 min | 45 min | — | 1 hr 15 min |
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
 | [§14.11 Pecan Pie III](#1411-pecan-pie-iii) | 🟢 | 15 min | 50 min | — | 1 hr 5 min |
@@ -1022,11 +1040,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
+| [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
+| [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(Meathead)* | 🟡 | 15 min | 1 hr | — | 5–7 hr *(includes a 4–6 hr dry brine)* |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
@@ -1065,6 +1085,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.71 Sauce Brune (Brown Sauce 1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) | 🔴 | 15 min | 20 min | **~2 hr** *(simmer, skimming)* | 2 hr 45 min |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) | 🟡 | 30 min | 2 hr 45 min | **24 hr** *(sous vide, unattended)* | ~27 hr |
+| [§7.114 Prime Rib](#7114-prime-rib) *(Meathead)* | 🟡 | 1 hr | 2–3 hr | — | 1–2 days *(includes a 24–48 hr dry brine)* |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🔴 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 
 ### Reading this table
@@ -9279,6 +9300,59 @@ Use right away, or cover and refrigerate for up to 1 week.
 
 ---
 
+### 4.133 Beef Butter
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. A simple herb compound butter built to top [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter), though per the source it's just as good on vegetables, potatoes, waffles, or corn. **Same family as this cookbook's other compound butters** — [§4.55 Fresh Herb Butter](#455-fresh-herb-butter), [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter), [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter), and [§4.58 Pimentón Butter](#458-pimentón-butter) — same soften-mix-roll-chill technique, different herbs.
+
+**Yield:** 4 oz (1 stick)
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~20 min** *(plus refrigerate overnight before serving, or freeze)*
+
+#### A. Ingredients
+
+- 8 tablespoons (1 stick) salted butter
+- ½ teaspoon chopped fresh rosemary
+- ½ teaspoon chopped fresh parsley
+- ½ teaspoon chopped fresh tarragon
+
+#### B. Cooking Instructions
+
+**1. Soften the butter. About 20 minutes at room temperature.**
+Leave the butter out until it's easy to spread, or microwave it in short 5-second blasts, checking each time, until it's softened but not melted.
+
+**2. Mix in the herbs.**
+Put the softened butter in a bowl and add the chopped rosemary, parsley, and tarragon. Mix well with a fork.
+
+**3. Roll into a log and chill.**
+Scoop the mixture onto a 12-inch sheet of plastic wrap or waxed paper and roll it up like a Tootsie Roll, about 1 inch across the middle, twisting the ends to seal. Refrigerate overnight. It can be stored in the fridge or freezer.
+
+**4. Serve.**
+Unwrap and cut into ½-inch coins to top a hot steak, roast, vegetables, potatoes, or waffles.
+
+#### Chef's Notes
+
+Per the source, this is a concept as much as a fixed recipe — the technique has infinite variables. Swap in chipotle, ancho, brown spices, dried mushrooms, port wine, cheese, miso, or curry for a completely different butter using the same method. Mixed with honey instead of herbs, it makes a topping for English muffins or finishing glazed grilled carrots.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salted butter — 8 Tbsp (1 stick)
+- 🛒 Fresh rosemary, parsley, tarragon — ½ tsp each, chopped
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(4 oz)* | ~810 | 92 g | 1 g | 0 g | 0 g |
+| **Per serving** *(1 Tbsp, of about 8)* | ~100 | 11 g | 0.1 g | 0 g | 0 g |
+
+**What a serving is:** one ½-inch coin, about 1 Tbsp — enough to top one thick slice of steak or roast.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -9355,6 +9429,14 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T62](#t62-types-of-pork-chops) | Types of Pork Chops | `meathead` `pork` `pork-chops` `pork-cuts` `boneless-loin-chop` `rib-chop` `t-bone` `blade-chop` |
 | [T63](#t63-dont-stuff-the-chop) | Don't Stuff the Chop | `meathead` `pork` `pork-chops` `stuffing` `myth` `food-safety` |
 | [T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style) | 60-Minute Hot-and-Fast Ribs (Dreamland Style) | `meathead` `pork` `ribs` `hot-and-fast` `no-wrap` |
+| [T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) | Steaks — Grades, Cuts, and Matching Temperature to Thickness | `meathead` `beef` `steak` `usda-grades` `wagyu` `reverse-sear` `thickness` |
+| [T66](#t66-prime-rib--rib-roast--ordering-bones-and-carving) | Prime Rib & Rib Roast — Ordering, Bones, and Carving | `meathead` `beef` `prime-rib` `rib-roast` `bones` `carving` `rib-cap` |
+| [T67](#t67-ban-the-v-shaped-rack) | Ban the V-Shaped Rack | `meathead` `roasting-pan` `v-rack` `airflow` `turkey` `prime-rib` |
+| [T68](#t68-beef-ribs--the-long-and-the-short-of-them) | Beef Ribs — The Long and the Short of Them | `meathead` `beef` `short-ribs` `back-ribs` `rib-cuts` |
+| [T69](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) | Brisket Basics — Anatomy of a Whole Packer Brisket | `meathead` `beef` `brisket` `flat` `point` `packer` `usda-grades` |
+| [T70](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) | Slicing Brisket — The Easy Way vs. the Sorkin Way | `meathead` `beef` `brisket` `slicing` `carving` |
+| [T71](#t71-burnt-ends) | Burnt Ends | `meathead` `beef` `brisket` `burnt-ends` `point` |
+| [T72](#t72-steaming-pastrami) | Steaming Pastrami | `meathead` `beef` `pastrami` `corned-beef` `steaming` `reheating` |
 
 ---
 
@@ -13060,6 +13142,172 @@ Pigs have 14 ribs, and all the cuts below come off the same rack, cut apart diff
 **The tradeoff:** hot-and-fast doesn't render nearly as much connective tissue as a long, slow cook does, so the texture lands closer to "boiled or steamed tender" than the fall-off-the-bone result of a 225°F cook. That's a matter of taste, not a mistake — barbecue people (including the source) disagree about which texture is actually better.
 
 **If you want to try it:** the general shape is high, direct-adjacent heat — well above the usual 225°F — for around an hour total, watching the ribs closely rather than walking away the way a slow 225°F cook allows. Since the book gives no exact temperature, timing, or rub/sauce quantities for this method, any attempt should be treated as an experiment, checked against [§T58](#t58-the-different-cuts-of-ribs)/[§T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs)'s bend test rather than a fixed clock.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T65. Steaks — Grades, Cuts, and Matching Temperature to Thickness
+
+<!-- TECHNIQUE-TAGS: meathead, beef, steak, usda-grades, wagyu, reverse-sear, thickness -->
+**Tags:** `meathead` · `beef` · `steak` · `usda-grades` · `wagyu` · `reverse-sear` · `thickness`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter (book p. 242–243).
+**Used in:** [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) and [§7.107 Skinny Steaks](#7107-skinny-steaks) both build directly on this entry's thickness-to-temperature logic; builds on [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking).
+
+#### The cuts
+
+Prime steakhouses serve the best cuts, usually from the area along the spine of the steer — the most expensive: porterhouses, T-bones, strip steaks, and cuts from the tenderloin such as the chateaubriand and filet mignon. Sirloin, round, flank, and other cuts make good meals too, but those muscles aren't as tender.
+
+Meathead's own preference is the **ribeye** — the best combination of flavor and tenderness. The strip steak is actually the *same muscle* as the ribeye (the *longissimus dorsi*), just cut from further down the spine, so arguing ribeye vs. strip is "like debating which side of *Abbey Road* is better." The tenderloin is more tender still, but leaner, so it doesn't carry the fat-driven flavor a ribeye has.
+
+#### The grades
+
+- **USDA Prime** — heavy marbling (thin hairline threads of fat), about 3% of all beef sold. Not found in mall-parking-lot steakhouses or most grocery stores.
+- **Wagyu** — an upscale grade from a special breed of cattle with roots in Japan, even more marbled than Prime and harder to find.
+- **Kobe** — genuine Kobe comes only from Japan and is rarer and pricier still; U.S. beef from the same cattle lineage is called Wagyu, not Kobe.
+- **USDA Choice** — the next grade down from Prime, and what most grocery stores actually sell. Choice itself has several unlabeled internal levels — ask the butcher for the best-looking, most marbled cut in the case, or to custom-cut one.
+
+#### Seasoning
+
+Some prime steakhouses use a signature blend (Lawry's Seasoned Salt is the most famous one), but many use nothing but salt and pepper, and some just salt. Marinades are out — they mask the meat's own flavor, and a wet surface steams instead of forming a crust. **The only real prep a great steak needs is a dry brine** — salt at least an hour or two ahead (Meathead salts in the morning, cooks in the evening). [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) is his own dress-up if you want more than salt and pepper, and real wood smoke is a seasoning no jar can match.
+
+#### Matching cooking temperature to thickness
+
+**The thicker the steak, the lower the cooking temperature needs to be.** A thick steak cooked hot straight through gets a great crust but a gray, overcooked band underneath; the same steak held at one gentle temperature the whole way gets even color but never really browns. Prime steakhouses only have to tune this once, since they cook identical cuts at identical thickness every day — a home grill has to adjust for whatever's on the cutting board that night. **The fix for thick steaks (over 1½ inches) is the reverse sear** ([§T41](#t41-reverse-sear--two-stage-cooking), [§7.106](#7106-big-thick-steakhouse-steaks)); **thin steaks (1 inch or less) want the opposite — screaming-high, direct heat the whole time, moving constantly** ([§7.107 Skinny Steaks](#7107-skinny-steaks)).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T66. Prime Rib & Rib Roast — Ordering, Bones, and Carving
+
+<!-- TECHNIQUE-TAGS: meathead, beef, prime-rib, rib-roast, bones, carving, rib-cap -->
+**Tags:** `meathead` · `beef` · `prime-rib` · `rib-roast` · `bones` · `carving` · `rib-cap`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 247–250).
+**Used in:** [§7.114 Prime Rib](#7114-prime-rib). **Distinct from [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor)** — T45 busts the myth that bones add flavor or juiciness during dry cooking; this entry covers different ground specific to a whole bone-in rib roast: naming, ordering, anatomy, and why the bones come *off* before roasting.
+
+#### Naming and ordering
+
+"Prime rib" doesn't mean USDA Prime grade — it's named for the **rib primal**, one of the large sections a steer is broken into, and what your grocer actually sells under that name is usually **USDA Choice**. Ribs 6 through 12 make up the roast; the rear continues on as the strip loin. A typical bone-in roast runs about 2 lb per bone; allowing for trim and shrinkage, buy at least 1 lb per person, or one bone's width for every two people. Order it fresh, not frozen, well ahead, and take delivery 2 to 3 days before serving — 28-day wet-aged if you can get it.
+
+#### Rib cap and lip
+
+Sitting on top of the eye of the ribeye is the **rib cap** — a heavily marbled, fish-fillet-shaped muscle Meathead calls the single best muscle on the steer. It peels off almost by hand, since a layer of fat separates it from the eye. On the opposite side is the **lip**, a small muscle buried in thick fat with little meat on it — worth trimming off and grinding into hamburger rather than roasting.
+
+#### Why the bones come off — distinct from T45's flavor myth
+
+[§T45](#t45-bones--do-they-actually-add-flavor) already covers "bones don't add flavor in dry cooking." A whole rib roast has three *additional*, purely geometric reasons to debone before roasting:
+
+- **Bones make a roast oblong, not round.** An oblong cross-section overcooks at the ends and corners, which face heat from more directions than the flat middle does; a boneless roast can be tied into a round cylinder that heats evenly from every side.
+- **Bones are a honeycomb-structured insulator.** Because they don't conduct heat the way meat does, the meat directly against the bone lags behind the rest of the roast — so a roast that's a perfect medium-rare at the center can still be rare-to-raw right next to the bone.
+- **Bones get in the way of carving and crust.** They keep a third of the meat's surface from ever touching the grate or oven air, so that third never browns into bark; and carving around bone at the table, in front of guests, risks a struggle and juice all over the tablecloth.
+
+**Bones don't add flavor here either — that's the actual myth, per [§T45](#t45-bones--do-they-actually-add-flavor).** Tying the bones back onto the roast for presentation (see [§7.114 Prime Rib](#7114-prime-rib) Step 3) is for show at the table, not for any flavor or juiciness the bones contribute during the cook.
+
+#### The hallmarks of a great roast
+
+Maximum tenderness and juiciness at **130–135°F** internal — deep red, not purple, not yet pink. Even color bumper to bumper, with no more than ¼ inch of overcooked meat at the edge. A deep, dark, crunchy crust built from salt, herbs, and spices mixing with beef juices as they dry into a bark during the cook.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T67. Ban the V-Shaped Rack
+
+<!-- TECHNIQUE-TAGS: meathead, roasting-pan, v-rack, airflow, turkey, prime-rib -->
+**Tags:** `meathead` · `roasting-pan` · `v-rack` · `airflow` · `turkey` · `prime-rib`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 252).
+**Used in:** [§7.114 Prime Rib](#7114-prime-rib) and any future roast or whole turkey cooked in a roasting pan.
+
+**Don't use a roasting pan's V-shaped rack for a roast or a turkey.** It's expensive and it hampers even cooking. Sitting the meat down inside a V-rack traps it low in the pan, where the pan's own sides block hot air from reaching the sides of the meat, and any liquid collecting in the bottom of the pan cools it further and leaves it soggy instead of roasting dry.
+
+**Raise the meat instead — the higher, the better.** Meat merely resting on top of the pan is already warmer than meat sunk into a V-rack, because it's no longer shielded from air on the sides. Raised at least **2 inches above the pan**, warm air can circulate completely around the meat and it cooks evenly on every side. If you must use a roasting pan at all, skip the V-rack and set a standard flat wire oven rack on top of the pan instead. On the grill, aim to keep the drip pan at least 2 inches below the meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T68. Beef Ribs — The Long and the Short of Them
+
+<!-- TECHNIQUE-TAGS: meathead, beef, short-ribs, back-ribs, rib-cuts -->
+**Tags:** `meathead` · `beef` · `short-ribs` · `back-ribs` · `rib-cuts`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 256).
+**Used in:** [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) and [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style); distinguishes both from [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), which uses back ribs instead.
+
+**Short ribs and back ribs come from different ends of the steer, and they cook differently because of it.**
+
+- **Short ribs** come from the lower, front section of the rib cage (roughly ribs 6 through 10) and the short plate below it. Bones run 1 to 2 inches apart, and a single bone with its meat cap can weigh up to 2 pounds on its own. This front-of-the-animal muscle is hardworking and tough, so it's thick with fat and connective tissue that needs hours of low, slow heat to melt into an unctuous, richly flavored bite. Buy them as individual bones, in 2- to 3-bone sections, or as a full "short plate," about 8 by 9 inches.
+- **Back ribs** come from the same muscle group as prime rib and the ribeye, cut off after the butcher removes the roast or steaks. Meat is scant — mostly what's left between the bones — and they're leaner and cook faster than short ribs because they come from the tender end of the steer, not the tough end.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T69. Brisket Basics — Anatomy of a Whole Packer Brisket
+
+<!-- TECHNIQUE-TAGS: meathead, beef, brisket, flat, point, packer, usda-grades -->
+**Tags:** `meathead` · `beef` · `brisket` · `flat` · `point` · `packer` · `usda-grades`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 258–259).
+**Used in:** [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket); complements [§T40 The Fat Cap — Trim or Not](#t40-the-fat-cap--trim-or-not), which already covers how much fat to leave on.
+
+**Brisket is the pectoral muscle group of the steer**, one per side, and because cattle have no collarbone, these muscles carry a lot of the animal's weight — which is exactly why they're loaded with tough connective tissue. That tissue only breaks down properly under low, slow heat; it's also why brisket makes good corned beef or pastrami, and why it's required at Kansas City barbecue competitions.
+
+**A whole packer brisket weighs 8 to 16 pounds** and comes vacuum-sealed with a fat cap up to 1 inch thick on one side and none on the other. It contains **two distinct muscles**: a long, flat, lean one called the **flat**, and a smaller, thicker, fattier one called the **point**, sitting on top of part of the flat. Cross-section shape is the tell — the flat is rectangular, the point is oval.
+
+**When shopping, buy the highest grade you can afford** — USDA Choice, Prime, or Wagyu. Avoid USDA Select.
+
+> ⚠️ **Corned beef is brisket, but it isn't the brisket a plain brisket recipe needs.** Corned beef has already been cured in salt, preservatives, and flavoring — [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) is built on exactly that starting point, but [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) needs plain, raw beef.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T70. Slicing Brisket — The Easy Way vs. the Sorkin Way
+
+<!-- TECHNIQUE-TAGS: meathead, beef, brisket, slicing, carving -->
+**Tags:** `meathead` · `beef` · `brisket` · `slicing` · `carving`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 262).
+**Used in:** [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) and [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami), both of which point back here for slicing.
+
+**The easy way:** separate the point and flat first, since their grains don't run in the same direction — the fat between them scrapes off easily. Slice each muscle across its own grain. The downside: the point is juicier, so slices from the flat alone end up drier and may need a little [Texas Mop Sauce](#4121-texas-mop-sauce) spooned back on.
+
+**The Sorkin way** (learned from Barry Sorkin of Smoque BBQ, Chicago) keeps both textures in every slice:
+
+1. Lop off about 1 inch from the thin end of the flat — it's usually overcooked and dry. Chop it and toss it in sauce for chopped-brisket sandwiches instead of slicing it.
+2. Find the fat seam between the point and the flat on the side of the brisket, and cut out the thick triangular lump of fat there.
+3. Find the grain of the flat and slice across it into uniform, pencil-thick sandwich slices (about ¼ inch), stopping once you reach the point.
+4. Turn the meat 45 degrees so an uncut edge faces away from you, and keep slicing perpendicular to the cuts you just made.
+5. Fan the slices on a bun so every sandwich gets both point and flat in it — that's the whole reason for the extra steps.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T71. Burnt Ends
+
+<!-- TECHNIQUE-TAGS: meathead, beef, brisket, burnt-ends, point -->
+**Tags:** `meathead` · `beef` · `brisket` · `burnt-ends` · `point`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 263).
+**Used in:** an optional next step for [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket), once the point and flat have been separated per [§T70](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way).
+
+If the point and flat have already been separated, the point can go one step further into **burnt ends** — dark, rich, crunchy, bite-sized nuggets some people consider the ultimate expression of brisket. Cut the meat into about ¾-inch cubes, toss them in [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce), and put them back on the grill to crisp up. The point is the usual choice over the flat for this — its uneven shape already makes neat slices hard, and its extra fat makes burnt ends even richer.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T72. Steaming Pastrami
+
+<!-- TECHNIQUE-TAGS: meathead, beef, pastrami, corned-beef, steaming, reheating -->
+**Tags:** `meathead` · `beef` · `pastrami` · `corned-beef` · `steaming` · `reheating`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 265).
+**Used in:** an optional finishing step for [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami), and the reheat method for its leftovers.
+
+**Steaming softens smoked pastrami's crust and makes the meat a little more tender** — not required, but a common finishing step. **Don't slice the meat before steaming.** Use a bamboo or metal steamer if the meat fits, or build one: a wire rack set in a baking pan, with foil laid over the rack to keep the rub from washing off.
+
+> ⚠️ **If the pan is steel, keep the foil off the metal.** Salt, water, steel, and aluminum touching each other can create a small electrical charge that eats through the foil — Meathead calls it "the lasagna effect."
+
+Put the pan on a burner, add water to the bottom, and hold it at medium-low heat for 2 to 3 hours, until the meat reaches 203°F. Keep an eye on the water level and top it up with hot water as needed — the pan can run dry fast, and that's a fire risk.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -23340,6 +23588,613 @@ Serve with a spoon for the broth and chopsticks for the noodles and meat.
 
 ---
 
+### 7.106 Big, Thick Steakhouse Steaks
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. Thick-cut ribeyes cooked low and slow to just short of temperature, then seared hard and fast for a crust with no gray overcooked band underneath — the reverse sear ([§T41](#t41-reverse-sear--two-stage-cooking)), built specifically for steaks at least 1½ inches thick. See [§T65 Steaks](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) for why thickness changes the method.
+
+**Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T65 Steaks](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~45 min** *(about 30 min indirect, unattended, then a closely watched high-heat sear)* · **Start to finish ~1 hr 45 min – 2 hr 45 min** *(includes a 1–2 hr dry brine)*
+
+> **Rated Medium, not Hard or Easy — the searing stage is genuinely hands-on.** The indirect stage is as forgiving as any low-and-slow cook; nothing there can go wrong quickly. But once the steaks move to direct heat, the surface is already near 212°F and everything happens fast — the book's own instruction is to stand by the grill and flip constantly. That's real attention, not just patience, which is why this sits above [§1 Cody's Pho](#1-codys-pho)'s Easy bar but nowhere near roux territory: a steak that overshoots just comes off the heat, unlike a broken sauce or a scorched roux.
+
+#### A. Ingredients
+
+- 2 ribeye steaks, each about 1½ inches thick
+- Kosher salt (about ½ teaspoon per pound)
+- Coarsely ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim most of the external fat from the steaks — melting fat can cause flare-ups that deposit soot on the meat and burn the surface. Sprinkle with salt and dry brine in the refrigerator 1 to 2 hours before cooking. Pepper the surface of the meat to your taste and press it in. This can be done anytime; there's no need to take the meat out of the fridge early and let it come to room temperature.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking and shoot for about 225°F in the indirect zone.
+
+**3. Cook.**
+Put the meat on the grill in the indirect zone. After about 15 minutes, start checking the interior temperature with a rapid-read thermometer. Check every 5 to 10 minutes in more than one location. At this low temperature, the exterior color shouldn't go much beyond tan; if you add wood, it might get a ruddy glow. Flip it if one side is cooking faster than another.
+
+**4. Open the lid at 110°F.**
+After about 30 minutes, the temperature in the deepest part of the meat will probably hit 110°F. Open the lid and leave it open.
+
+**5. Prep the cooker to sear.**
+Now that the interior is getting close to target, it's time to sear the entire surface dark — but first prep the cooker. On a **charcoal grill**, bunch the coals together or add fresh, fully lit hot coals for a concentrated pile of energy, and lower the grate as close to the coals as possible (a hair dryer aimed at the vents helps stoke it). On a **kamado**, remove the deflector plate or move it to the direct side. On a **gas grill**, use a sear burner if you have one, or pull the meat off, remove the grates so they sit right on the flavor bars, close the lid, and turn every burner on high. On a **pellet smoker**, preheat a heavy pan (or a clean heat deflector) rip-snortin' hot, since these smokers run indirect heat only.
+
+**6. Sear.**
+Pat the meat dry and put it on the hottest part of the grill, as close to the heat source as possible. Keep the lid open and turn the meat often — the surface is already close to 212°F, so things move fast. With charcoal about 1 inch below the meat, each side can be done in as little as 3 minutes. You want the surface evenly dark with no grill marks. A little blackened edge fat is fine, but don't blacken the muscle fibers themselves, and keep the meat away from direct flame if flare-ups start.
+
+**7. Pull at your target temperature.**
+When the meat hits 130°F (or your favorite doneness), get it off the flame and to the table while it's still sizzling. Err on the side of undercooking — you can always put a steak back on the grill, but you can't take heat back out.
+
+**8. Serve.**
+Don't let the meat rest and cool off and lose its crust. For steaks too big for one person, or if the crust holds together better whole, slice it across the grain the way Peter Luger in Brooklyn does, then reassemble the sliced steak on the platter — the juices will soften the crust a little either way.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Ribeye steaks, boneless, cut 1½ inches thick — 2, from the center of the roast with the most marbling you can find
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Coarsely ground black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,900 | 145 g | 150 g | 0 g | 0 g |
+| **Per serving** *(serves 4)* | ~475 | 36 g | 38 g | 0 g | 0 g |
+
+**What a serving is:** about half of one 1½-inch-thick ribeye, sliced — a hearty steakhouse portion. Serves 2 generously instead of 4 if you want a full steak each.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.107 Skinny Steaks
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter, right after [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks). The opposite technique for the opposite cut: steaks 1 inch thick or less want very high heat and constant motion instead of a reverse sear. See [§T65 Steaks](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) for why.
+
+**Techniques used:** [§T65 Steaks](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** *(screaming-hot direct heat, flipped every minute or so — the whole point is that it moves fast)* · **Start to finish ~10 min** *(plus a 1–2 hr dry brine)*
+
+> **Rated Medium for the same reason as thin cuts everywhere in this cookbook: the margin for error is measured in seconds, not minutes.** At this heat a steak can go from perfect to overcooked in the time it takes to check your phone — but nothing here can be permanently ruined the way a broken sauce or a scorched roux can; an overcooked thin steak is just a well-done thin steak.
+
+#### A. Ingredients
+
+- 2 steaks, each about ¾ inch thick
+- Kosher salt (about ½ teaspoon per pound)
+- Freshly ground black pepper
+- Vegetable oil
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim the surface fat and silverskin from the steaks if necessary. Sprinkle with salt and dry brine in the refrigerator for 1 to 2 hours before cooking.
+
+**2. Season just before cooking.**
+Just before you cook it, pat the meat dry with paper towels — moisture creates steam and prevents browning. Sprinkle with pepper and press it in with your hands.
+
+**3. Fire up.**
+Get your grill screaming hot. If using charcoal, pile the coals just beneath the cooking surface. On a gas grill, drop the grate as close to the burners as possible. Leave the lid off — you won't really be using the indirect zone, but it's nice to have as a safe zone away from the flames.
+
+**4. Cook.**
+Put the meat over the hottest part of the grill. You need to stand by the grill and flip every minute or two so the hot surface cools, inhibiting heat buildup and preventing the interior from overcooking. Aim for a uniform dark brown without grill marks and 125 to 130°F in the middle. Things move fast, so be on your toes.
+
+**5. Serve.**
+Don't let the meat rest and cool off and lose its crust. Some prime steakhouses, like Peter Luger in Brooklyn, slice it across the grain and then reassemble the whole thing on the platter. Since the juices will soften the crust anyway, this is also a good approach for a steak too small or thin to slice neatly otherwise.
+
+#### Chef's Notes — the Afterburner Method
+
+If you only have two skinny steaks, try this instead: fire up half a chimney of charcoal. When it's at peak heat, after about 15 minutes, the surface will be well over 1,000°F. Put a grate on top and cook the steak right there, flipping every 30 seconds. This is the fastest sear in this cookbook — treat it as a variant of Step 4 above for when the fire is small, not a separate recipe.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Steaks, cut about ¾ inch thick — 2 (skirt, flank, or another thin cut works well)
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Freshly ground black pepper
+- 🛒 Vegetable oil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,150 | 85 g | 95 g | 0 g | 0 g |
+| **Per serving** *(serves 2)* | ~575 | 43 g | 47 g | 0 g | 0 g |
+
+**What a serving is:** one whole ¾-inch-thick steak, about 7 to 8 oz cooked.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.108 Santa Maria Tri-Tip
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. Meathead calls this the **Poor Man's Prime Rib** — a triangular cut from the bottom sirloin, discovered in the 1950s by Santa Maria, California butcher Bob Schutz, who put a chunk of meat usually destined for grinding onto his store's rotisserie almost by accident. Cooked and sliced correctly, tri-tip comes out nearly as tender and juicy as any cut on the steer, at a fraction of the price.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · related to [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking)
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~45–90 min** *(30–45 min indirect, unattended, then about 10 minutes of attended direct searing)* · **Start to finish ~1 hr 50 min – 3 hr 30 min** *(includes a 1–2 hr dry brine)*
+
+> **Rated Medium for the slicing as much as the cooking.** The direct sear itself is standard two-zone technique. What actually takes care is Step 7 below — tri-tip's grain changes direction partway through the muscle, so cutting the wrong way on the second half makes an otherwise well-cooked piece of meat chewy. Get the slicing right and there's nothing here that can go wrong the way a sauce or a roux can.
+
+#### A. Ingredients
+
+- 1 tri-tip steak (about 2 pounds)
+- Kosher salt (about ½ teaspoon per pound)
+- Freshly ground black pepper
+- Garlic powder
+- Sweet paprika
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim off any surface fat and silverskin from the steak if necessary. Sprinkle with salt and dry brine 1 to 2 hours in the refrigerator before cooking.
+
+**2. Season.**
+Just before cooking, sprinkle the meat with pepper, garlic powder, and paprika in roughly equal amounts and massage them into the meat. [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) works here too if you have some on hand — don't worry about overseasoning, since the steak will be sliced very thin for serving.
+
+**3. Fire up.**
+Set up the grill in a two-zone configuration and get the indirect zone up to about 225°F.
+
+**4. Cook.**
+In Santa Maria, purpose-built grills raise the meat up high and flip it frequently, which typically lasts as long as an hour. Unless you have a Santa Maria–style grill, first put the meat on the indirect-heat side with the thick end closer to the heat, close the lid, and turn the steak every 20 minutes or so until the center hits about 110°F. This can take 30 to 45 minutes.
+
+**5. Sear.**
+Move the meat over direct high heat for about 5 minutes per side, or until it gets a nice, even dark sear. Take it up to 130°F.
+
+**6. Serve — the trick to carving this steak.**
+Begin by slicing the meat in half through the center.
+
+**7. Rotate and slice each half separately.**
+Rotate each half and cut it from the tip to the cut end, across the grain, in ⅜- to ½-inch-thick slices. Cutting across the grain on both halves — even though the grain runs a different direction in each one — is what ensures the meat is easy to chew.
+
+**8. Fan and serve.**
+Fan the slices on a platter, pour the juices on top, and serve.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Tri-tip steak — about 2 lb *(common in Southern California grocery stores; elsewhere, ask a butcher to special-order it — it's NAMP cut 185C, the* tensor fasciae latae *from the bottom sirloin)*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Freshly ground black pepper
+- 🛒 Garlic powder
+- 🛒 Sweet paprika
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,500 | 70 g | 210 g | 0 g | 0 g |
+| **Per serving** *(serves 4)* | ~375 | 18 g | 52 g | 0 g | 0 g |
+
+**What a serving is:** about 6 oz of thinly sliced tri-tip — a generous dinner portion, also great piled onto toasted bread for a sandwich.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.109 Chateaubriand with Compound Butter
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. A whole beef tenderloin is bat-shaped — thick on one end, tapered on the other — so the elegant solution is breaking it down into a **chateaubriand**, the perfectly tubular center section, for a grand, white-tablecloth dinner that's nonetheless a cinch to cook, tender enough to cut with a butter knife. The tapered tips and trimmings don't go to waste — they shape into filet mignon steaks or go into stew or a stir-fry.
+
+**Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
+
+**🟡 Medium** · **Prep ~15 min** *(trimming and tying the roast)* · **Cook ~60 min** · **Start to finish ~5–7 hr** *(includes a 4–6 hr dry brine)*
+
+> **Rated Medium for the same reverse-sear reason as [§7.106](#7106-big-thick-steakhouse-steaks) and [§7.114 Prime Rib](#7114-prime-rib)** — an attended, fast-moving sear at the end, after a hands-off indirect stage. The compound butter itself carries no real risk; it's a simple soften-and-roll job, the same technique as [§4.133 Beef Butter](#4133-beef-butter).
+
+#### A. Ingredients
+
+- 1 beef tenderloin
+- Kosher salt (about ½ teaspoon per pound)
+- [Big Bad Beef Rub](#4106-big-bad-beef-rub) or [Butcher Block Seasoning](#4116-butcher-block-seasoning)
+- [Beef Butter](#4133-beef-butter)
+
+#### B. Cooking Instructions
+
+**1. Prep, if starting with a whole tenderloin.**
+The goal is to cut a symmetrical log free of the chain — a smaller muscle that runs parallel to the main muscle. Work your thumbs into the gap between the two muscles and separate the chain from the larger piece of meat. Remove it and set it aside for stew or stir-fry.
+
+**2. Remove the silverskin.**
+Most whole tenderloins are sold "unpeeled," meaning they have a layer of tough silverskin. Get a sharp, pointed, thin knife, like a filleting knife, and remove the silverskin. Trim off large chunks of fat; small bits can stay on.
+
+**3. Make it symmetrical and tie it.**
+Make the roast as round as possible by lopping off the ends, or by removing the knob shape (the "butt") on one end. Now you have a long, tubular piece of meat that tapers at the other end. Because it's tapered, the "tail" will overcook. To prevent this, fold it in and tie it with butcher's twine so the roast is more uniform. The trimmed chateaubriand will be about 12 inches long and weigh about 4 pounds.
+
+**4. Dry brine.**
+Once you have trimmed your chateaubriand, sprinkle it with salt and dry brine in the refrigerator for 4 to 6 hours before cooking. You can apply the rub now or wait — it doesn't matter.
+
+**5. Fire up.**
+Set up the grill in a two-zone configuration and get the indirect zone up to about 225°F.
+
+**6. Cook.**
+Place the meat in the indirect-heat zone. When it reaches 110°F, move it to direct heat to sear. Leave the lid open and roll the roast a quarter turn every 5 minutes or so. When it reaches 130°F in the center, move it to a cutting board. Slice it at least 1 inch thick and top each piece of meat with a pat of Beef Butter.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Whole beef tenderloin, unpeeled — enough for a 12-inch, 4-lb chateaubriand once trimmed *(save the tenderloin tips for filet mignon, and the chain for stew or stir-fry)*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Butcher's twine
+
+*Big Bad Beef Rub, Butcher Block Seasoning, and Beef Butter ingredients already documented at [§4.106](#4106-big-bad-beef-rub), [§4.116](#4116-butcher-block-seasoning), and [§4.133](#4133-beef-butter).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(trimmed chateaubriand only)* | ~2,900 | 115 g | 420 g | 0 g | 0 g |
+| **Per serving** *(serves 4)* | ~725 | 29 g | 105 g | 0 g | 0 g |
+
+**What a serving is:** a thick, 1-inch slice of chateaubriand, about 12 oz — one quarter of the roast. Figures above don't include the Beef Butter topping — see [§4.133](#4133-beef-butter) for its own per-serving numbers.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.110 Short Ribs, Texas Style
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. Beef short ribs have more meat than beef back ribs and make an impressive presentation — a single bone with its meat cap can weigh 2 pounds. See [§T68 Beef Ribs](#t68-beef-ribs--the-long-and-the-short-of-them) for how short ribs differ from back ribs.
+
+**Techniques used:** [§T68 Beef Ribs](#t68-beef-ribs--the-long-and-the-short-of-them) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook 8–10 hr** *(indirect smoker or grill, unattended)* · **Start to finish ~12–16 hr** *(includes a 4–6 hr dry brine and about 1 hr resting in a faux Cambro)*
+
+> **Easy, not Medium — this is a long distance run, not a technique risk**, per [CLAUDE.md §3a](CLAUDE.md)'s [§1 Cody's Pho](#1-codys-pho) reasoning: nothing here can go from perfect to ruined. There's no flipping, no basting schedule, no searing stage — just season, smoke low and slow to temperature, then rest.
+
+#### A. Ingredients
+
+- 1 beef short plate (about 8 pounds)
+- Kosher salt (about ½ teaspoon per pound)
+- [Big Bad Beef Rub](#4106-big-bad-beef-rub)
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Begin by removing all the fat and tough silverskin from the top of the meat. Don't remove the membrane from the exposed side of the bones the way you do with pork ribs — if you do, the meat will fall off. Cut slabs into 2-bone sections. You can cook them in a 4-bone slab, but it takes a lot longer, and cutting the plate in half separates the thick side from the thin side.
+
+**2. Season and dry brine.**
+Sprinkle the ribs with salt and dry brine in the refrigerator for up to 24 hours before cooking. Anytime before cooking, rub the meat with the Big Bad Beef Rub, working it generously into the tops and sides to coat completely.
+
+**3. Fire up.**
+Get your smoker up to 225°F or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side.
+
+**4. Cook.**
+Put the meat over the indirect-heat zone, bone side down, and add wood to the fire. Oak is traditional in Texas and mild enough to work well here, but other woods work fine. Add 2 to 4 ounces of wood on a tight cooker, double that if it leaks a lot. Cover the cooker. As the meat cooks, you won't need to add more wood and you won't need to flip the meat. The meat is done when it hits 203°F in the thickest part. Wrap it in foil and hold it for about an hour in a [faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours). This last step allows it to slowly carryover cook, further melting connective tissues.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef short plate, bone-in — about 8 lb
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Oak or other hardwood, for smoking
+
+*Big Bad Beef Rub ingredients already documented at [§4.106](#4106-big-bad-beef-rub).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,200 | 160 g | 160 g | 0 g | 0 g |
+| **Per serving** *(4 giant servings)* | ~550 | 40 g | 40 g | 0 g | 0 g |
+
+**What a serving is:** a single giant rib — one bone with its whole meat cap, about 8 to 10 oz of meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.111 Short Ribs, Brazilian Steakhouse Style
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter, right after [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style). Brazilian steakhouses (*churrascarias*) serve beef ribs churrasco-style — a whole short plate of 4 bones, about 8 inches long and 8 inches wide, salted and rotisseried over charcoal until the surface is dark brown, then sliced thin right at the table and returned to the fire to build a fresh crust.
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~45–60 min** *(direct high heat, with repeated slicing and re-searing)* · **Start to finish ~1 hr** *(the source gives no exact timing — treat this as an estimate)*
+
+> **Rated Medium for the direct, high-heat technique and the slicing, not for any long wait.** The meat goes on screaming-hot direct heat and gets watched and turned the whole time — there's no indirect stage to hide behind. Per the source, cooking this way (rather than on an actual rotisserie) is genuinely "easier and faster," so this isn't a hard recipe, just an attended one.
+
+> ⚠️ **No MAKES/TAKES or exact quantities are printed for this one** — the source presents it as a technique description rather than a numbered ingredient list. Ingredients and yield below are Claude's estimate from the text; treat this recipe as a documented method more than a precise formula.
+
+#### A. Ingredients
+
+- 1 whole beef short plate (4 bones), about 8 inches long and 8 inches wide
+- Coarse salt
+- Freshly ground black pepper (for finishing)
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim and salt the ribs well on all sides. If you have a rotisserie, skewer them on a long, sword-like spit.
+
+**2. Fire up.**
+Get a charcoal fire going at about 400°F.
+
+**3. Cook.**
+Grill with the meaty side down over direct heat until the exterior is dark. On a rotisserie, this runs over charcoal at about 400°F until the surface is dark brown all over.
+
+**4. Serve.**
+Remove the meat from the grill, sprinkle it with Maldon-style salt and black pepper, and slice it across the grain, parallel to the surface, only about ⅛ inch deep — just enough to get the dark surface and a thin layer of medium-rare red meat. Put it back on the grill, meat side down, and repeat. Serve the thin slices to the guests right off the slab.
+
+#### Chef's Notes
+
+Beneath the seared surface the meat stays medium-rare, then very rare deeper still — that's the point of slicing thin and re-searing rather than cooking the whole piece through. Once the slicing is done, the leftover bones are worth gnawing on or saving for stock.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef short plate, bone-in, whole 4-bone slab — about 8 by 8 inches
+
+**🛒 General grocery**
+
+- 🛒 Coarse salt (Maldon-style, for finishing)
+- 🛒 Black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,500 | 190 g | 180 g | 0 g | 0 g |
+| **Per serving** *(serves 6)* | ~415 | 32 g | 30 g | 0 g | 0 g |
+
+**What a serving is:** a few thin, shaved slices — about 4 oz — cut straight off the slab, the way it's served tableside at a churrascaria.
+
+#### D. Open Questions
+
+- **No printed MAKES, TAKES, or exact quantities** — the source describes this as a restaurant technique rather than a home recipe with fixed amounts. The serving count, salt amount, and total time above are all Claude's estimate; adjust to taste and to however many bones you're working with.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.112 Texas Beef Brisket
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. Brisket is the national food of the Republic of Texas, and a whole 12-pound packer brisket is a great excuse for a party — a huge clod of cow that can come off the pit almost black, looking more like a meteorite than a meal, but tender, juicy, luscious, smoky meat underneath if cooked right. **Distinct from [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** — that's a smaller 5–6 lb Raichlen recipe basted in a foil pan; this is Meathead's whole 12-lb packer, cooked bare on the grate and rested in a faux Cambro. See [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) for anatomy and grading.
+
+**Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) · [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) · [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way)
+
+**🟢 Easy** · **Prep ~30 min** · **Slow cook 12–14 hr** *(indirect smoker, unattended)* · **Start to finish ~15–17 hr** *(includes a 2–24 hr dry brine and at least 2 hr resting in a faux Cambro)*
+
+> **Easy despite the length — this is the [§1 Cody's Pho](#1-codys-pho) case again.** A whole-packer brisket cook is a marathon of fuel and patience, not a technique that can suddenly go wrong. Even the "stall" — up to 5 hours where the temperature barely moves — tests patience, not skill; the Texas crutch (Step 6) exists for exactly that stretch. The one real risk noted below (buying a trimmed, fatless brisket) is a shopping mistake, the same caveat [§6.7](#67-texas-style-smoked-brisket) already carries.
+
+#### A. Ingredients
+
+- 1 whole packer brisket (about 12 pounds, untrimmed), USDA Choice, USDA Prime, or Wagyu
+- Kosher salt (about ½ teaspoon per pound)
+- [Big Bad Beef Rub](#4106-big-bad-beef-rub)
+- [Texas Mop Sauce](#4121-texas-mop-sauce) *(optional)*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Rinse the meat and dry it with paper towels. Trim off most of the fat cap, leaving only about ¼ inch. Until you get the hang of trimming a packer, you might accidentally cut off some of the meat while trimming — that's OK. On the flip side, slice off any silverskin and excess fat. Melting fat does not penetrate the meat, and if you leave too much, people will cut it off at the table, along with your rub.
+
+**2. Salt.**
+Sprinkle the meat with kosher salt, applying it more thickly where the meat is thickest.
+
+**3. Dry brine.**
+Refrigerate the meat until you're ready to cook it. Chilled meat attracts more smoke. Just before cooking, dampen the meat with water and sprinkle liberally with the Big Bad Beef Rub, rubbing it in. Insert a toothpick parallel to the grain as a guide so you can carve the meat perpendicular to the grain when it's done.
+
+**4. Fire up.**
+Get your smoker up to 225°F or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side. Use a water pan if possible.
+
+**5. Cook.**
+Put the meat on the cooker. Add about 4 ounces of wood right after the meat goes on, then about 4 ounces more every 30 minutes for the first 2 hours. Keep an eye on the water in the pan and make sure it doesn't dry out. After 3 hours, turn the meat over if the color is different from top to bottom; otherwise, leave it alone. The meat temperature will steadily climb to the stall zone, somewhere around 150°F. Once in the stall, it will seem to take forever to rise — the stall can last 5 hours, and the temperature may not rise more than 5°F.
+
+**6. Employ the Texas crutch.**
+To combat the stall, wrap the meat tightly in two layers of foil so it doesn't leak. You can then insert your meat temperature probe up high so liquid doesn't escape the hole.
+
+**7. Cook to temperature, then rest.**
+When the temperature of the meat hits 203°F, put it in a faux Cambro, close the lid, and let the hot meat sit there for at least 2 hours. If you have a tight cooler, it should hold the meat well above 160°F for hours. Holding the big, thick brisket cooked almost to the boiling point allows the internal temperature to even out and the collagens to continue to melt — this carryover cooking results in more tender and juicy meat.
+
+**8. Firm up the crust.**
+Unwrap the meat and put it over a hot grill or under a broiler for a few minutes on each side. Watch it closely so it doesn't burn.
+
+**9. Slice at the last possible minute.**
+Brisket dries out quickly once it's cut. Turn the meat fat side up so the juices run onto the meat as you slice it. See [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) for the easy way and the Sorkin way. If the meat is perfectly cooked, it should be moist and juicy. Serve it simply sliced on a plate, or as a sandwich made with Texas toast. If you wish, drizzle some Texas Mop Sauce mixed with some of the drippings from the crutch on top of the meat — taste this carefully, since the drippings can be very salty.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Whole packer brisket, untrimmed — about 12 lb, USDA Choice, Prime, or Wagyu
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Hardwood, for smoking
+- 🛒 Aluminum foil, for the crutch
+
+*Big Bad Beef Rub and Texas Mop Sauce ingredients already documented at [§4.106](#4106-big-bad-beef-rub) and [§4.121](#4121-texas-mop-sauce).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~9,000 | 620 g | 720 g | 0 g | 0 g |
+| **Per serving** *(serves 12)* | ~750 | 52 g | 60 g | 0 g | 0 g |
+
+**What a serving is:** about 6 oz of sliced brisket, mixing flat and point — plain, or piled onto Texas toast for a sandwich.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.113 Close to Katz's Pastrami
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. Pastrami is Jewish barbecue, and Meathead's favorite in the world comes from Katz's Delicatessen in New York City, founded in 1888 and, by his reckoning, the nation's oldest barbecue joint. **Starts from brined (not ready-to-eat) corned beef** — smoked low and slow with a black pepper and coriander rub, the same starting cut as [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) but already cured. See [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) on why corned beef and raw brisket aren't interchangeable.
+
+> ⚠️ **Buy brined corned beef, not ready-to-eat.** Ready-to-eat corned beef is cured, then cooked, and usually pre-sliced — don't use it here. You want brined corned beef: a hunk of raw brisket cured in a salt solution, usually vacuum-packed with some of the brine, that hasn't been cooked yet. The fatty point end makes the best pastrami if your butcher has it.
+
+**Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) · [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) · [§T72 Steaming Pastrami](#t72-steaming-pastrami)
+
+**🟢 Easy** · **Prep ~25 min** · **Slow cook 8–12 hr** *(indirect smoker, unattended)* · **Start to finish ~16–21 hr** *(includes an 8 hr soak to pull excess salt out of the meat; add 2–3 hr more if steaming before serving)*
+
+> **Easy, same reasoning as the brisket above.** A long, unattended smoke with nothing to flip or baste — the only active step is applying the rub before it goes on the smoker.
+
+#### A. Ingredients
+
+- 4 pounds uncooked, high-quality corned beef (brined, not ready-to-eat)
+- ¼ cup coarsely ground black pepper
+- 2 tablespoons ground coriander
+- 1 tablespoon brown sugar
+- 1 tablespoon paprika
+- 2 teaspoons garlic powder
+- 2 teaspoons onion powder
+- 1 teaspoon mustard powder
+- Rye or pumpernickel bread, mustard or Thousand Island dressing, sauerkraut, and Swiss cheese, for serving
+
+#### B. Cooking Instructions
+
+**1. Prep — soak out the excess salt.**
+Trim all surface fat, then put the corned beef in a nonreactive pot and cover it with cold water. Refrigerate for at least 8 hours. This removes excess salt — skip it and you'll be gulping water all night after the meal. Change the water once or twice if you can.
+
+**2. Rub.**
+Remove the beef from the water. Blend together the spices and apply the rub liberally, about ¼ cup per square foot of surface. Lay it on thick, and press the rub into the surface to help it adhere.
+
+**3. Fire up.**
+Get your smoker up to 225°F or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side. Add wood for smoke. If you can, use a charcoal smoker — it produces a deeper, darker crust than any other cooker.
+
+**4. Cook.**
+Smoke the meat fat side up over indirect heat until it reaches 203°F. Add wood when the smoke dwindles. It can take 10 hours or more, depending on the thickness. Don't try the Texas crutch here — it can wash off a lot of rub and smoke.
+
+**5. Serve.**
+Slice the pastrami across the grain, just like you would a brisket (see [§T70](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way)). Don't try to slice it with a machine — it will just fall apart.
+
+**6. Build the sandwich.**
+Serve it on rye bread or pumpernickel with a schmear of mustard. Better still, toast the rye, take one slice and set it aside, and spread some Thousand Island dressing on the other slice. Pile the meat on the dressing, then top with a layer of crunchy sauerkraut from the refrigerator section of the grocery store (not the canned stuff), lay a slice of Swiss cheese on top, and stick the whole thing under the broiler to melt the cheese. Finally, put on the other slice of bread and enjoy — a pastrami Reuben.
+
+**7. Store leftovers.**
+Wrap them in foil and refrigerate. They keep up to a week. Bring them back to life by [steaming](#t72-steaming-pastrami) rather than microwaving.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher / deli counter**
+
+- 🏪 Uncooked, brined corned beef — 4 lb *(not ready-to-eat; the fatty point end is preferred)*
+
+**🛒 General grocery**
+
+- 🛒 Black pepper, ground coriander, brown sugar, paprika, garlic powder, onion powder, mustard powder
+- 🛒 Rye or pumpernickel bread
+- 🛒 Mustard or Thousand Island dressing
+- 🛒 Sauerkraut (refrigerated, not canned)
+- 🛒 Swiss cheese
+- 🛒 Hardwood, for smoking
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(pastrami only, not bread/toppings)* | ~3,600 | 230 g | 300 g | 5 g | 2 g |
+| **Per serving** *(8 sandwiches' worth)* | ~450 | 29 g | 38 g | 1 g | 0 g |
+
+**What a serving is:** about 7 oz of sliced pastrami — enough meat for one hefty deli sandwich, not counting bread, cheese, or toppings.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.114 Prime Rib
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. Is there anything more festive, impressive, and luxurious than a big, juicy prime rib roast? It's easy to make outdoors, and it tastes better than the indoor version too — the technique works fine on other beef roasts as well (strip loin, tenderloin, tri-tip, chuck eye roll, top sirloin butt), since it's really just [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) applied to a whole roast. See [§T66 Prime Rib & Rib Roast](#t66-prime-rib--rib-roast--ordering-bones-and-carving) for ordering, bones, and rib-cap anatomy, and [§T67 Ban the V-Shaped Rack](#t67-ban-the-v-shaped-rack) if cooking this in the oven instead.
+
+**Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T66 Prime Rib & Rib Roast](#t66-prime-rib--rib-roast--ordering-bones-and-carving) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
+
+**🟡 Medium** · **Prep ~1 hr** *(deboning, trimming, tying)* · **Cook ~2–3 hr** *(mostly indirect and unattended; finishes with an attended high-heat sear)* · **Start to finish ~1–2 days** *(includes a 24–48 hr dry brine)*
+
+> **Rated Medium for the same reason as this cookbook's other reverse-seared roasts and steaks** — the final searing stage (Step 9 below) needs real, continuous attention, standing by the grill and rotating the roast every few minutes. Nothing here can be ruined the way a sauce or a roux can; a side that's browning too fast just gets rotated away from the heat.
+
+#### A. Ingredients
+
+- 1 (8-pound) bone-in beef rib roast (about 3 bones wide)
+- Kosher salt (about ½ teaspoon per pound)
+- [Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust)
+
+#### B. Cooking Instructions
+
+**1. Prep — remove the bones and trim the fat cap.**
+Remove the rib bones from the roast and trim off all the fat cap from the top of the roast. Go ahead and trim right down to the meat — the fat will not penetrate the meat, and if you leave it on, people will trim it off at the table, and all the effects of the Maillard reaction and rub flavor will be lost. Be sure to get the silverskin too; it can be chewy.
+
+**2. Remove the rib cap.**
+Sitting on top of the eye of the ribeye is another muscle called the rib cap. Shaped like a large fish fillet, it's heavily marbled — Meathead thinks it's the single best muscle on the steer. It tends to go well-done, so consider removing it and grilling it separately; it practically peels off with your bare hand, since a layer of fat sits between the rib cap and the eye. There's also a small muscle on the opposite side called the lip; it doesn't have much meat and is buried in thick layers of fat, so it's usually removed and ground into hamburger.
+
+**3. Make the roast round and tie it.**
+Make the roast as round as possible, pressing on the sides and squishing it into a round tube. Tie it with butcher's twine every inch or two to help it keep its shape. Sprinkle with salt and dry brine in the refrigerator for 24 to 48 hours.
+
+**4. Rub.**
+An hour or two before cooking, wet the meat by patting water on it, then apply the rub all over, using about 1 teaspoon of rub per 8 square inches of meat.
+
+**5. Fire up.**
+Set up the grill for two-zone cooking and get the indirect zone to 225°F.
+
+**6. Cook.**
+If you have a leave-in digital meat thermometer with a probe on a cable, insert it now so the tip is dead center in the thickest part of the meat. If you don't have a probe you can leave in the meat, you absolutely must have a good digital instant-read meat thermometer, and you should check the roast every 30 minutes at first, more often as the roasting progresses.
+
+**7. Add a little smoke.**
+For a slight smokiness, add just a little wood to the hot part of the fire — 2 to 4 ounces max. Don't overdo the smoke.
+
+**8. Watch and rotate.**
+Look at the meat — if one side is getting too dark, rotate it. When the temperature in the deepest part of the interior reaches 115 to 120°F, remove the probe (it just gets in the way) and place the roast over the hottest part of the grill. If you're using charcoal, add more hot coals; if you're using gas, turn all burners on high; and if you have a sear burner, give 'er all she's got. Raise the lid and stand by your grill. If you're using a pellet grill, bring the roast indoors and sear it under your broiler.
+
+**9. Sear all four sides.**
+Get the surface of the roast a deep, dark brown by leaving it on the hot part for 5 to 10 minutes. Roll it a quarter turn and repeat on all four sides. During this process the interior temperature will rise another 10 to 15°F. Check the meat temperature again and take it off when it reaches 130 to 135°F for medium-rare, even if all sides aren't browned yet.
+
+**10. Serve.**
+Set the meat on a cutting board with a channel that can hold the liquid that will flow as soon as you cut into the roast, and have a platter with a lip ready to hold the carved slices. Serve your meat hot — don't let it rest, or it will overcook by carryover. First remove the twine and use a sharp knife to cut slices ¼ to ½ inch thick. Pour any drippings from the cutting board onto the platter holding the sliced meat and spoon it on top of the slices as they're served.
+
+#### Chef's Notes — for those who don't want medium-rare
+
+If exactly two people at the table want their meat cooked more, they can have the two ends — those run 10 to 20°F warmer because they face heat from more directions. If more than two people want their meat well-done, cut a hunk off the roast just for them before cooking and essentially cook two roasts side by side, one to medium-rare and one to their preference. A few slices can also go back over a hot grill for a minute or two per side afterward if someone changes their mind.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Bone-in beef rib roast — 8 lb, about 3 bones wide *(order fresh, well in advance; 28-day wet-aged if available)*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Butcher's twine
+- 🛒 A little hardwood, for smoke (optional)
+
+*Mrs. O'Leary's Cow Crust ingredients already documented at [§4.107](#4107-mrs-olearys-cow-crust).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~6,000 | 470 g | 430 g | 0 g | 0 g |
+| **Per serving** *(6 large servings)* | ~1,000 | 78 g | 72 g | 0 g | 0 g |
+
+**What a serving is:** a thick, roughly 12 oz slice of prime rib, cut from a roast meant to serve six generously.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -29013,6 +29868,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-05 — the first actual multi-component dishes from this book have now arrived, and they landed in §7, not here.** Eight full recipes from the same book's "Seafood" chapter — **[§7.87](#787-smoked-salmon-mousse-canapés) through [§7.94](#794-gregs-grilled-lobster)** — plus four more condensed technique entries, **[§T54](#t54-buying-and-cooking-fish)–[§T57](#t57-storing-a-live-lobster)**, covering buying/cooking fish, filleting a whole fish, shrimp prep, and lobster storage. They went to [§7 Mains & Proteins](#7-mains--proteins) rather than here, on the same reasoning as the rubs/sauces: this cookbook organizes finished dishes by what they *are* (seafood mains sit with this cookbook's other seafood mains) rather than by which book they came from — the same place the *Champions of Sous Vide* seafood dishes ([§7.81](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction), [§7.84](#784-rockfish-burger-with-key-lime-aioli), [§7.86](#786-carpaccio-of-sous-vide-octopus)) already live. **§13 remains a placeholder** — still reserved for whatever eventually justifies a book-specific section of its own, which hasn't come up yet; every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's existing structure. **Two recipes and part of one technique entry were skipped this round rather than guessed at** — see the 2026-09-05 changelog entry for exactly what was cut off in the source photos and why.
 >
 > **Update, 2026-09-05 — the "Pork" chapter has now arrived, and it landed in §7 and the T-section, same as Seafood.** Eleven full recipes — **[§7.95](#795-perfect-pulled-pork) through [§7.105](#7105-momofuku-inspired-ramen-bowl)** — plus seven condensed technique entries, **[§T58](#t58-the-different-cuts-of-ribs)–[§T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style)**, covering rib cuts and anatomy/trimming, pork-butt brining and cooking-time science, leftover pulled pork storage, pork chop cuts, why not to stuff a chop, and a hot-and-fast alternative rib method. **Two items skipped rather than guessed past a gap in the source photos** — **Whole Hog Pig Pickin'** (book p. 222, headnote only — the actual cooking method it promises is on book p. 223, not in the photographed set) and **Wet-Cured Ham** (book p. 217, background on commercial ham curing that continues onto book pp. 218–219, also missing from the scan; not a home-cookable technique either way). **§13 remains a placeholder**, same reasoning as the Seafood update above — every *Meathead* recipe has had an obvious home elsewhere in this cookbook's structure so far. See the 2026-09-05 changelog entry for the full accounting.
+>
+> **Update, 2026-09-05 — the "Beef" chapter has now arrived too, same-day as Pork, and it landed in §7, §4, and the T-section.** Nine full recipes — **[§7.106](#7106-big-thick-steakhouse-steaks) through [§7.114](#7114-prime-rib)** — plus **[§4.133 Beef Butter](#4133-beef-butter)** (a compound butter, filed with this cookbook's other butters in §4 rather than here, same reasoning as the rubs/sauces batch) and eight condensed technique entries, **[§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)–[§T72](#t72-steaming-pastrami)**, covering steak grades/cuts/thickness, prime rib and rib roast anatomy (ordering, the rib cap, and why bones come off — distinct from [§T45](#t45-bones--do-they-actually-add-flavor)'s flavor-myth angle), the V-shaped rack warning, short rib vs. back rib anatomy, whole packer brisket anatomy, two ways to slice a brisket, burnt ends, and steaming pastrami. **Nothing was skipped this round** — the full 24-page Beef chapter (book p. 242–265) came through legible and complete. **§13 remains a placeholder**, same reasoning as every update above — every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's structure. See the 2026-09-05 changelog entry for the full accounting.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -30948,19 +31805,20 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 
 - **Chuck roast** — [§1 Cody's Pho](#1-codys-pho) *(sous vide, 24–48 hr)* · [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) · [§7.55 Braised Beef-Pot Roast](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) *(both braised)*
 - **Oxtail** — [§1 Cody's Pho](#1-codys-pho) *(simmered for broth flavor, then discarded)*
-- **Brisket** — [§6.1 Smoked Brisket](#61-smoked-brisket) *(placeholder — Cody's own method still to come)* · [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) *(smoked)*
-- **Beef ribs** — [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) *(smoked)*
-- **Corned beef (a cured brisket)** — [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage), [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) *(both boiled/braised)* · [§9.27 Reuben](#927-reuben) *(cold, already-cooked)*
-- **Beef tenderloin** — [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin), [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) *(grilled)* · [§7.69](#769-bengali-shish-kebabs)/[§7.72](#772-quick-persian-beef-kebabs)/[§7.74](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) kebabs *(grilled)*
+- **Brisket** — [§6.1 Smoked Brisket](#61-smoked-brisket) *(placeholder — Cody's own method still to come)* · [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) *(smoked, 5–6 lb, foil-pan basted)* · [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(smoked, whole 12-lb packer, bare on the grate — distinct from §6.7, see entry)*
+- **Beef ribs** — [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) *(smoked, back ribs)* · [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) *(smoked short ribs)* · [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) *(rotisserie or direct-grilled, sliced and re-seared)*
+- **Corned beef (a cured brisket)** — [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage), [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) *(both boiled/braised)* · [§9.27 Reuben](#927-reuben) *(cold, already-cooked)* · [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) *(rubbed and smoked into pastrami)*
+- **Beef tenderloin** — [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin), [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) *(grilled)* · [§7.69](#769-bengali-shish-kebabs)/[§7.72](#772-quick-persian-beef-kebabs)/[§7.74](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) kebabs *(grilled)* · [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(reverse-seared)*
 - **Flank steak** — [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) *(grilled, rolled and tied)* · [§7.77 Carne Asada](#777-carne-asada-flank-steak) *(method not yet documented, per Cody)*
-- **Ribeye, bone-in** — [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) *(grilled)*
+- **Ribeye, boneless or bone-in** — [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) *(grilled)* · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) *(reverse-seared, 1½"+ thick)* · [§7.107 Skinny Steaks](#7107-skinny-steaks) *(screaming-hot direct heat, 1" or less)*
+- **Tri-tip (bottom sirloin)** — [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(indirect then direct-seared, "Poor Man's Prime Rib")*
 - **Sirloin** — [§7.68](#768-peruvian-beef-kebabs-anticuchos)/[§7.70](#770-russian-shashlik)/[§7.71](#771-fiery-stick-meat-suyas)/[§7.73](#773-bani-marine-street-beef-kebabs)/[§7.75](#775-lettuce-bundles-with-grilled-beef) kebabs *(all grilled)*
 - **Ground beef** — [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) *(grilled)* · [§9.6 Beef Jerky](#96-beef-jerky) *(dehydrated)* · [§8.1 Chili Mac](#81-chili-mac) *(browned, then slow-cooked)*
-- **Short ribs** — [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) *(simmered)* · [§7.79 Short Rib Ragù](#779-short-rib-ragù) *(bone-in, sous vide 24–30 hr then shredded into a stovetop sauce)* · [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) *(sous vide 48–72 hr to a medium-rare, steak-like texture, then seared)*
+- **Short ribs** — [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) *(simmered)* · [§7.79 Short Rib Ragù](#779-short-rib-ragù) *(bone-in, sous vide 24–30 hr then shredded into a stovetop sauce)* · [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) *(sous vide 48–72 hr to a medium-rare, steak-like texture, then seared)* · [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) *(smoked to 203°F)* · [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) *(rotisserie or direct-grilled)*
 - **Hanger steak** — [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) *(sous vide in duck fat, then seared)*
 - **Stew meat (beef or venison)** — [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) *(braised/simmered)*
 - **Veal or beef steaks, ground after cooking** — [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) *(browned whole, cooled, ground, built into a sauce, then finished sous vide 24 hr)*
-- **Prime rib** — drippings only, in [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill); no prime rib recipe of its own yet
+- **Prime rib / whole bone-in rib roast** — [§7.114 Prime Rib](#7114-prime-rib) *(reverse-seared)*; drippings alone also appear in [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill)
 
 ### Pork
 

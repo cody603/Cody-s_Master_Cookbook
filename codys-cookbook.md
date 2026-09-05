@@ -357,6 +357,7 @@ Click any recipe to jump straight to it.
 - [7.112 Texas Beef Brisket](#7112-texas-beef-brisket) ✅ *(Meathead; distinct from [§6.7](#67-texas-style-smoked-brisket) — see entry)*
 - [7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) ✅ *(Meathead)*
 - [7.114 Prime Rib](#7114-prime-rib) ✅ *(Meathead)*
+- [7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger) ✅ *(Meathead; uses [§4.128 Burger Glop](#4128-burger-glop))*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -502,6 +503,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Ground Meats chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — the smallest of the four chapters transcribed so far, same-day as Beef. One full recipe and four condensed technique entries; one recipe skipped rather than guessed at.** **One full recipe added to [§7 Mains & Proteins](#7-mains--proteins), continuing straight on from the Beef batch's [§7.114](#7114-prime-rib): [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger)** — a thick, hand-formed chuck patty topped with rendered bacon, built with the same two-zone smoke-then-sear method as this cookbook's other Meathead beef recipes, and using the existing **[§4.128 Burger Glop](#4128-burger-glop)** as its bun sauce. **Kept distinct from the existing [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)** (Raichlen's *How to Grill* — a thinner, straight direct-grilled burger with a compound-butter finish); both kept, cross-referenced. **Rated 🟡 Medium**, same reasoning as this cookbook's other reverse-seared beef ([§7.106](#7106-big-thick-steakhouse-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), [§7.114](#7114-prime-rib)) — the indirect stage is forgiving, but the final direct-heat sear needs continuous attention. **The recipe's doneness step points at this cookbook's standing 160°F ground-beef food-safety floor**, established at [§7.76](#776-hamburgers-with-herb-butter)/[§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table), rather than a lower "steakhouse" serving temperature — grinding redistributes surface bacteria through the whole patty, so this cookbook doesn't treat ground beef the way it treats a whole-muscle steak or roast. **No extra salt added beyond what's printed** — same scoping as every prior Meathead batch; Cody's heavier-salt preference is scoped to standalone brining recipes only, and this recipe's salt amount is transcribed exactly as printed. **Four new condensed technique entries, [§T73](#t73-burger-basics--fat-content-grind-and-handling)–[§T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets)**, added to the Techniques quick index: **Burger Basics** (why never to use meat labeled "hamburger"/"ground beef" for burgers, target fat content of 20–30 percent against a typical 15 percent for standard ground chuck, coarse grind, and not overworking the meat when forming patties), **Flavoring the Burger** (the salt-timing debate, plus the book's own weight-loss test comparing no salt, surface salt, and salt mixed in — the surprising finding, printed as approximate percentages off a small graphic, is that salt mixed in actually lost the *least* weight during cooking, not the most), **Regional Hot Dogs** (condensed into a single entry per its mostly-descriptive content, covering the Chicago Dog, Cincinnati/Detroit Coney, and eight other regional styles by name, with the practical takeaway being to commit to one region's full topping list rather than mixing styles), and **Cooking Sausages** (reading the label for precooked vs. raw, the roughly 25 percent average fat content, the two-zone indirect-then-direct technique, the warning against piercing a raw casing while it cooks, and target temperatures of about 140°F for precooked and about 160°F for raw/uncooked sausage — complements the existing [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe), which covers stuffing a raw sausage rather than cooking a finished one). **One recipe skipped rather than guessed at:** **A Better Italian Sausage Sandwich** (book p. 277) — the photographed page carries only a descriptive headnote about the Italian-sausage flavor profile itself (coarse-ground pork in natural casing, fennel-forward, sold by the foot in coiled ropes or bias-cut burger-sized pieces), with no ingredient list or numbered cooking steps visible; the actual sandwich assembly falls on a later page (book p. 278 or beyond) that wasn't in the photographed set. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** — the existing "Ground beef" line now also points at [§7.115](#7115-the-great-american-steakhouse-burger). **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dish landed in §7 and the T-section, same reasoning as every prior Meathead batch. [§7.115](#7115-the-great-american-steakhouse-burger) doesn't print net carbs, so it isn't tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); its Nutrition block is estimated from the ingredient list. TOC and Difficulty & Time Index updated throughout — [§7.115](#7115-the-great-american-steakhouse-burger) slots in at 50 minutes of prep+cook, next to [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip). |
 | 2026-09-05 | **Beef chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — nine full recipes, one compound butter, and eight condensed technique entries. Nothing skipped this round; the whole 24-page chapter (book p. 242–265) came through complete.** **Nine full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Pork batch's [§7.105](#7105-momofuku-inspired-ramen-bowl): [§7.106](#7106-big-thick-steakhouse-steaks) Big, Thick Steakhouse Steaks (reverse-seared, 1½"+ thick), [§7.107](#7107-skinny-steaks) Skinny Steaks (screaming-hot direct heat for thin cuts, includes the Afterburner Method as an in-recipe variant rather than a separate entry), [§7.108](#7108-santa-maria-tri-tip) Santa Maria Tri-Tip ("Poor Man's Prime Rib"), [§7.109](#7109-chateaubriand-with-compound-butter) Chateaubriand with Compound Butter (uses the new [§4.133 Beef Butter](#4133-beef-butter)), [§7.110](#7110-short-ribs-texas-style) Short Ribs, Texas Style, [§7.111](#7111-short-ribs-brazilian-steakhouse-style) Short Ribs, Brazilian Steakhouse Style (⚠️ the source prints no MAKES/TAKES/exact quantities for this one — see entry), [§7.112](#7112-texas-beef-brisket) Texas Beef Brisket (a whole 12-lb packer — **distinct from the existing [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)**, a smaller 5–6 lb Raichlen recipe basted in a foil pan; both kept, cross-referenced), [§7.113](#7113-close-to-katzs-pastrami) Close to Katz's Pastrami, and [§7.114](#7114-prime-rib) Prime Rib. **One new compound butter, [§4.133 Beef Butter](#4133-beef-butter)**, filed in §4 alongside this cookbook's other compound butters ([§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter)) rather than as a sub-recipe of Chateaubriand — matching this cookbook's existing precedent for compound butters built to pair with a specific steak recipe. **Rated 🟢 Easy for the three long, unattended smokes** — [§7.110](#7110-short-ribs-texas-style), [§7.112](#7112-texas-beef-brisket), and [§7.113](#7113-close-to-katzs-pastrami) — **and 🟡 Medium for the six that need an attended high-heat sear or hot direct grilling**: [§7.106](#7106-big-thick-steakhouse-steaks), [§7.107](#7107-skinny-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), [§7.111](#7111-short-ribs-brazilian-steakhouse-style), and [§7.114](#7114-prime-rib) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy: none of these nine can be ruined the way a broken sauce or a scorched roux can, but the searing/direct-grilling stages genuinely need continuous attention, unlike the three unattended smokes, which is why they sit one notch above Easy rather than at it. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference applies to standalone brining recipes only, and every dry-brine/salt amount here is transcribed exactly as printed. **Eight new condensed technique entries, [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)–[§T72](#t72-steaming-pastrami)**, added to the Techniques quick index: steak grades/cuts/thickness-to-temperature matching, prime rib and rib roast anatomy — ordering, the rib cap and lip, and the geometric reasons bones come off a roast (**deliberately distinct from [§T45 Bones](#t45-bones--do-they-actually-add-flavor)**, which already covers the separate flavor-myth question), the V-shaped rack warning, short rib vs. back rib anatomy, whole packer brisket anatomy (flat vs. point, grading, the corned-beef mixup warning), two ways to slice a brisket, burnt ends, and steaming pastrami. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with new tri-tip, ribeye/thick-vs-thin-steak, chateaubriand/tenderloin, prime rib, brisket, short rib, and pastrami cross-references — the old "no prime rib recipe of its own yet" note is now resolved. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7, §4, and the T-section, same reasoning as every prior Meathead batch. None of the nine recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Pork chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — eleven full recipes and seven condensed technique entries, plus two items flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Eleven full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Seafood batch's [§7.94](#794-gregs-grilled-lobster): [§7.95](#795-perfect-pulled-pork) Perfect Pulled Pork (distinct from this cookbook's existing [§6.2](#62-pulled-pork)/[§6.6](#66-north-carolina-pulled-pork-karmel-version)), [§7.96](#796-really-loaded-potato-canoes) Really Loaded Potato Canoes (built on §7.95's leftovers), [§7.97](#797-last-meal-ribs) Last-Meal Ribs (Trudy Clarin's recipe, per the book), [§7.98](#798-happy-mouth-yakitori-ribs) Happy Mouth Yakitori Ribs (⚠️ its own sauce isn't documented here yet — see entry), [§7.99](#799-kermits-second-favorite-pork-chops) Kermit's Second-Favorite Pork Chops (uses the existing [§4.100 Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity)), [§7.100](#7100-pork-tenderloin-with-cowboy-java-rub) Pork Tenderloin with Cowboy Java Rub (finally gives the existing [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) a recipe of its own), [§7.101](#7101-sweet-and-sour-pork-tenderloin) Sweet and Sour Pork Tenderloin (uses the existing [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce)), [§7.102](#7102-pesto-crusted-pork-loin-roast) Pesto-Crusted Pork Loin Roast, [§7.103](#7103-stuffed-pork-loin-roast) Stuffed Pork Loin Roast, [§7.104](#7104-smoked-bone-broth) Smoked Bone Broth, and [§7.105](#7105-momofuku-inspired-ramen-bowl) Momofuku-Inspired Ramen Bowl (David Chang-inspired, uses §7.104). **Rated 🟢 Easy across the board except [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, tunneling a pocket through the roast can tear through the side if rushed, and an overstuffed pocket can force itself back open during cooking; every other recipe in the batch is a low-and-slow smoke, a simple grill, or a straightforward stovetop/broth build with no comparable failure point, including the multi-component Ramen Bowl (long and involved, but nothing in it can go from perfect to ruined the way [CLAUDE.md §3a](CLAUDE.md) defines Hard). **No extra salt added anywhere in this batch** — same scoping as the Seafood batch: Cody's heavier-salt preference applies to standalone brines only, and where these recipes reference brining (§7.99's wet brine, dry-brine steps throughout) the amounts are exactly as documented at their existing cross-referenced entries or as printed. **Seven new condensed technique entries, [§T58](#t58-the-different-cuts-of-ribs)–[§T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style)**, added to the Techniques quick index: the different cuts of ribs (baby back, spareribs, St. Louis cut, rib tips, country-style), rib anatomy and how to skin/trim them, pork-butt brine/injection/cooking-time science (including the same 203°F-vs-195°F correction [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) already made to [§6.2](#62-pulled-pork)), leftover pulled pork storage and reheating, the different cuts of pork chops, why not to stuff a chop (contrasted with why a whole stuffed loin roast is lower-risk), and a hot-and-fast Dreamland-style rib method — the last one **condensed as a technique note rather than a recipe**, since the source presents it as pure narrative with no ingredient list or steps to transcribe. **Two items skipped rather than added as placeholders or guessed past a gap:** **Whole Hog Pig Pickin'** (title and headnote legible on book p. 222, but the actual whole-hog cooking method the text explicitly promises — "the way I describe below" — falls on book p. 223, which wasn't in the photographed set) and **Wet-Cured Ham** (book p. 217's background on commercial ham curing continues onto book pp. 218–219, also missing from the scan; even the visible portion reads as industrial-process background rather than a home technique, so it wasn't a strong candidate for condensing even if the rest had been captured). **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new pork butt, tenderloin, loin, chop, rib, belly, and bone entries. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7 and the T-section, same reasoning as the Seafood and Brines/Rubs/Sauces batches before it. None of the eleven recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, several flagged ⚠️ where the source photo's rotation made a quantity a best-effort read. TOC and Difficulty & Time Index updated throughout. |
 | 2026-09-05 | **Seafood chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — eight full recipes and four condensed technique entries, plus two recipes and part of one technique entry flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Eight full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the sous-vide batch's [§7.86](#786-carpaccio-of-sous-vide-octopus): [§7.87](#787-smoked-salmon-mousse-canapés) Smoked Salmon Mousse Canapés, [§7.88](#788-smoked-trout-florida-mullet-style) Smoked Trout (Florida Mullet Style), [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) Chef Bonner's Fish Fillets with Brioni Broth (credited to Chef Mychael Bonner, The Reel Club, Oak Brook, IL), [§7.90](#790-smoked-salmon-quiche) Smoked Salmon Quiche, [§7.91](#791-smoked-halibut-salad) Smoked Halibut Salad, [§7.92](#792-butter-poached-fillets) Butter-Poached Fillets, [§7.93](#793-baja-fish-tacos) Baja Fish Tacos, and [§7.94](#794-gregs-grilled-lobster) Greg's Grilled Lobster (Professor Blonder's method). **Rated mostly 🟢 Easy** — smoking and butter-poaching are forgiving methods, and the Baja Tacos recipe explicitly says not to worry if the fish breaks apart — **except [§7.89](#789-chef-bonners-fish-fillets-with-brioni-broth) and [§7.94](#794-gregs-grilled-lobster), both 🟡 Medium** for a genuinely narrow doneness window with no gentle margin: a precise 120°F skin-down sear that can't be flipped without breaking the fillet apart, and a 6–10 minute max-heat window past which lobster meat toughens fast. **Four new condensed technique entries, [§T54](#t54-buying-and-cooking-fish)–[§T57](#t57-storing-a-live-lobster)**, added to the Techniques quick index: buying and cooking fish (freshness signals, ice contact, why fish takes salt and marinade faster than meat), how to fillet a whole fish (plus a fish-oils-in-the-smoker maintenance note), shrimp sizing/deveining/brining, and storing a live lobster before cooking. **No extra salt added anywhere in this batch** — per Cody's own clarification on the prior Meathead rub/sauce correction two entries below (the heavier-salt preference is scoped to actual brining, not to rubs, seasonings, or marinades), and none of this batch's eight recipes is itself a standalone brine, so every quantity is transcribed exactly as printed. **Three items skipped rather than added as placeholders or guessed past a cut-off page:** **Joe's Fireproof Grilled Shrimp** (title, headnote, and MAKES/TAKES line legible on book p. 343, but the ingredient list and numbered steps would have continued onto book p. 344, which wasn't in the photographed set); **Championship Bacon-Wrapped Stuffed Shrimp** (referenced by name mid-page but its own title, ingredients, and steps would fall on book pp. 344–345, entirely absent from the scan); and **an unidentified recipe glimpsed at the edge of one photo** (a red title box reading only "S…S…" and a drop-capped opening paragraph, likely book p. 327 — not on the expected list for this batch and too fragmentary to name). Because of that same gap, **[§T57](#t57-storing-a-live-lobster) is a partial condensation** — only the live-lobster storage tip (book p. 346) survived; the fuller "Lobster: Choosing and Preparing" section (cold-water vs. warm-water lobster, live vs. previously frozen, lobster anatomy) sat on the same missing book pp. 344–345. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's full dishes landed in §7, on the same "organize by what the dish is, not which book it's from" reasoning as the rubs/sauces batch landing in §4. None of the eight recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout. |
@@ -1040,6 +1042,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
+| [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger) *(Meathead)* | 🟡 | 20 min | 30 min | — | 50 min |
 | [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
@@ -9437,6 +9440,10 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T70](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) | Slicing Brisket — The Easy Way vs. the Sorkin Way | `meathead` `beef` `brisket` `slicing` `carving` |
 | [T71](#t71-burnt-ends) | Burnt Ends | `meathead` `beef` `brisket` `burnt-ends` `point` |
 | [T72](#t72-steaming-pastrami) | Steaming Pastrami | `meathead` `beef` `pastrami` `corned-beef` `steaming` `reheating` |
+| [T73](#t73-burger-basics--fat-content-grind-and-handling) | Burger Basics — Fat Content, Grind, and Handling | `meathead` `ground-meats` `burgers` `fat-content` `grind` `handling` |
+| [T74](#t74-flavoring-the-burger--salting-timing-and-the-weight-loss-test) | Flavoring the Burger — Salting Timing and the Weight-Loss Test | `meathead` `ground-meats` `burgers` `salting` `seasoning` `weight-loss-test` |
+| [T75](#t75-regional-hot-dogs--a-cross-country-survey) | Regional Hot Dogs — A Cross-Country Survey | `meathead` `ground-meats` `hot-dogs` `regional-styles` |
+| [T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets) | Cooking Sausages — Precooked vs. Raw, Temperature Targets | `meathead` `ground-meats` `sausages` `precooked` `raw` `temperature` `two-zone` |
 
 ---
 
@@ -13308,6 +13315,84 @@ If the point and flat have already been separated, the point can go one step fur
 > ⚠️ **If the pan is steel, keep the foil off the metal.** Salt, water, steel, and aluminum touching each other can create a small electrical charge that eats through the foil — Meathead calls it "the lasagna effect."
 
 Put the pan on a burner, add water to the bottom, and hold it at medium-low heat for 2 to 3 hours, until the meat reaches 203°F. Keep an eye on the water level and top it up with hot water as needed — the pan can run dry fast, and that's a fire risk.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T73. Burger Basics — Fat Content, Grind, and Handling
+
+<!-- TECHNIQUE-TAGS: meathead, ground-meats, burgers, fat-content, grind, handling -->
+**Tags:** `meathead` · `ground-meats` · `burgers` · `fat-content` · `grind` · `handling`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Ground Meats" chapter (book p. 268).
+**Used in:** [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger), and any future burger recipe in this cookbook — see also the existing [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter).
+
+**Preground meat sitting in the grocery case may already be days old and starting to oxidize by the time it's sold** — grinding exposes far more surface area to air than a whole cut, so ground meat turns faster than a steak or roast. Ask the butcher to grind something fresh to order, ideally a well-marbled chuck, or grind it yourself at home.
+
+**Never use meat labeled "hamburger" or "ground beef" for burgers.** Save those for chili or sloppy joes instead. Butchers often make them from whatever trimmings are on hand from any cut in the case, sometimes including meat from older, less-productive dairy cows or bulls — you don't control what's actually in the package.
+
+**Fat content matters more than most home cooks think.** You want at least 20 percent fat, and many top chefs recommend 25 to 30 percent for the juiciest burgers. Standard grocery-store ground chuck is usually closer to 15 percent fat — leaner than ideal for a burger, even though it's a fine ratio for other dishes.
+
+**Ask for (or use) a coarse grind.** A coarse grind holds its texture and traps more juice than a fine one, which packs down into a denser, drier patty.
+
+**Don't overwork or compress the meat when forming patties.** Handle it as little as possible and gather it loosely into shape. Overworking compacts the meat into a dense puck that squeezes moisture out as it cooks; a loosely packed patty keeps small air pockets that help it stay tender and juicy.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T74. Flavoring the Burger — Salting Timing and the Weight-Loss Test
+
+<!-- TECHNIQUE-TAGS: meathead, ground-meats, burgers, salting, seasoning, weight-loss-test -->
+**Tags:** `meathead` · `ground-meats` · `burgers` · `salting` · `seasoning` · `weight-loss-test`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 269).
+**Used in:** [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger), Step 1.
+
+**There's a real, ongoing debate about when to salt a burger** — mixed into the meat before forming, sprinkled on the surface right before cooking, or left out of the patty entirely and added at the table. Opinions from well-known cooks and chefs vary, and mix-ins beyond salt (onion powder, garlic powder, egg, breadcrumbs, even Worcestershire) show up across different signature burger recipes.
+
+> **The book's own side-by-side test (with food scientist Professor Blonder) measured weight loss during cooking as a stand-in for moisture loss, comparing three patties:** no salt at all lost about 30 percent of its weight, salt sprinkled on the surface just before cooking lost about 28 percent, and salt mixed into the meat before forming lost the least, about 22 percent. *(Percentages are approximate, read off a small printed graphic — treat them as directional, not lab-precise.)* The surprising takeaway is that mixing salt in **doesn't** dry the patty out faster the way it's often assumed to — if anything, it retained slightly more moisture in this test.
+
+**Despite that result, surface-salting right before cooking (rather than mixing salt in) is still the more common practice** — including [§7.115](#7115-the-great-american-steakhouse-burger)'s method above — mainly because it keeps the raw meat easier to handle and shape, and because a well-seasoned crust from the Maillard reaction matters more to most people's sense of flavor than the last few percentage points of retained moisture. Either approach is defensible; this is a case where the "correct" answer is really a matter of preference once you know what each choice actually costs you.
+
+**Keep other mix-ins minimal.** Salt, pepper, and a light hand with onion or garlic powder go a long way. Raw egg or breadcrumbs aren't necessary in a straight beef burger the way they are in a meatloaf, and they add contamination risk from handling without adding much benefit.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T75. Regional Hot Dogs — A Cross-Country Survey
+
+<!-- TECHNIQUE-TAGS: meathead, ground-meats, hot-dogs, regional-styles -->
+**Tags:** `meathead` · `ground-meats` · `hot-dogs` · `regional-styles`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 276).
+**Used in:** background reference only — no recipe in this cookbook is built around a specific regional hot dog yet.
+
+**The book surveys how differently American cities dress a plain beef or beef-and-pork frank**, and the practical lesson is less about any one topping and more about committing to a full regional combination rather than mixing styles at random. In brief:
+
+- **Chicago Dog** — an all-beef, natural-casing frank, steamed or water-boiled, dragged through yellow mustard, chopped onion, bright green relish, a dill pickle spear, tomato wedges, pickled sport peppers, and celery salt, on a poppy-seed bun. Notably, **no ketchup, ever.**
+- **Cincinnati/Detroit Coney** — a natural-casing frank topped with a thin, cinnamon-and-clove-spiced meat sauce (Cincinnati's own beanless chili), mustard, and finely chopped onion, with shredded cheddar often mounded on top.
+- **New York System (Rhode Island), New Jersey Italian Hot Dog ("Ripper"), Rochester Garbage Plate, Montana Tater Pig, Seattle Cream Cheese Dog, Hawaiian Puka Dog, Fenway Frank, Dodger Dog, and West Virginia Slaw Dog** — each city has its own signature build, from Seattle's cream cheese and grilled onions to a mandatory scoop of coleslaw and meat sauce in West Virginia to a garlic-and-relish "puka dog" unique to Hawaii.
+
+**The practical takeaway:** pick one region's full topping list and follow it, rather than combining elements from several — a Chicago Dog's identity depends on all of its toppings together, not any single one of them.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T76. Cooking Sausages — Precooked vs. Raw, Temperature Targets
+
+<!-- TECHNIQUE-TAGS: meathead, ground-meats, sausages, precooked, raw, temperature, two-zone -->
+**Tags:** `meathead` · `ground-meats` · `sausages` · `precooked` · `raw` · `temperature` · `two-zone`
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 277).
+**Used in:** background reference for any sausage cooked on the grill; complements [§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe), which covers stuffing a raw sausage rather than cooking a finished one.
+
+**Read the label before you fire up the grill.** Most supermarket sausage is sold precooked — the book estimates around 75 percent of it — and only needs to be warmed through and browned. The remainder is raw and must be cooked to a safe internal temperature. The average sausage runs around 25 percent fat.
+
+**Use a two-zone setup.** Keep the sausages mostly on the indirect, cooler side of the grill so they warm through (or cook through, if raw) and render fat gradually without splitting the casing, then roll them onto the direct side just at the end to brown and crisp the surface.
+
+> ⚠️ **Don't cut into or pierce a raw sausage's casing while it cooks.** Puncturing it lets the juices — and the flavor — run out, and can cause a grease flare-up. Check doneness with an instant-read thermometer inserted through one end instead, not by slicing into the middle.
+
+**Target temperatures:** about 140°F for precooked sausage, which just needs reheating, and about 160°F for raw/uncooked pork or beef sausage — check with an instant-read thermometer rather than guessing from color, since sausage can look done on the outside well before the inside catches up.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -24195,6 +24280,97 @@ If exactly two people at the table want their meat cooked more, they can have th
 
 ---
 
+### 7.115 The Great American Steakhouse Burger
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Ground Meats" chapter (burgers, hot dogs, and sausages), right after [§7.114 Prime Rib](#7114-prime-rib). A thick, hand-formed steakhouse-style burger built the same way this cookbook's beef roasts are: a gentle indirect stage to build heat and a little smoke, then a fast, attended sear on the direct side. Uses the existing [§4.128 Burger Glop](#4128-burger-glop) as its bun sauce — Meathead's own hamburger sauce, meant to soak into the bottom bun rather than sit piled on top. **Distinct from the existing [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)** (Raichlen's *How to Grill*) — that one is a straightforward direct-grilled burger with a compound-butter finish; this one is thicker, built around a two-zone smoke-then-sear method, and topped with rendered bacon.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T73 Burger Basics](#t73-burger-basics--fat-content-grind-and-handling) · [§T74 Flavoring the Burger](#t74-flavoring-the-burger--salting-timing-and-the-weight-loss-test)
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~30 min** *(indirect smoke stage, then an attended direct sear)* · **Start to finish ~50 min**
+
+> **Rated Medium for the same reason as this cookbook's other reverse-seared beef** — [§7.106](#7106-big-thick-steakhouse-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), and [§7.114](#7114-prime-rib) above. The indirect stage is forgiving, but the finishing sear needs continuous attention — the patties go from perfectly browned to burnt fast over direct heat, same risk profile as a steak, just on a faster clock.
+
+#### A. Ingredients
+
+*For the patties:*
+
+- 1 pound loosely packed ground chuck, about 25% fat (see [§T73](#t73-burger-basics--fat-content-grind-and-handling))
+- ½ teaspoon freshly ground black pepper
+- ½ teaspoon onion powder
+- ¼ teaspoon garlic powder (not garlic salt)
+- 1 teaspoon kosher salt (for the surface only — see Step 1)
+
+*For the build:*
+
+- 2 hamburger buns
+- About 1 tablespoon butter, for the buns
+- 4 thick, high-quality bacon slices
+- 2 tablespoons [Burger Glop](#4128-burger-glop)
+- 2 lettuce leaves (iceberg or romaine)
+- 2 slices from a large, ripe tomato
+- 2 slices raw sweet onion, about ⅛ inch thick
+
+#### B. Cooking Instructions
+
+**1. Season and form the patties.**
+Mix the pepper, onion powder, and garlic powder in a small bowl and sprinkle it evenly over the ground chuck spread out flat. Gently gather the meat into two patties — don't compress or overwork it; packing it tight squeezes out the tenderness (see [§T73](#t73-burger-basics--fat-content-grind-and-handling)). Weigh them if you can — aim for about 8 ounces each, roughly ¾ inch thick and 4 inches across, so the heat has time to reach the center before the outside overcooks. Notice there's no salt mixed into the meat yet — that goes on the surface only, right before the patties hit the grill (see [§T74](#t74-flavoring-the-burger--salting-timing-and-the-weight-loss-test) for why).
+
+**2. Fire up.**
+Set up the grill for two-zone cooking (see [§T34](#t34-two-zone-fire-setup)) and get the indirect side to about 225°F.
+
+**3. Toast the buns.**
+Butter the cut sides of the buns and set them, buttered side down, on the direct side of the grill. Don't walk away — they go from golden to black in under a minute. Pull them as soon as they're lightly browned and set aside.
+
+**4. Render the bacon and get some smoke rolling.**
+Sprinkle the salt over one side of each patty, then move the patties and the bacon to the indirect side of the grill together. Close the lid and let everything cook for about 10 minutes, until the bacon is rendered — crispy is the goal.
+
+**5. Bring the patties up to temperature.**
+Keep the patties on the indirect side, checking with an instant-read thermometer, until they're about 20°F below the doneness you're aiming for. Because they're off direct heat, they don't need frequent flipping at this stage.
+
+**6. Sear.**
+Move the patties to the direct side and finish them there, flipping every minute or so, until both sides are well browned and the interior reaches at least 160°F — this cookbook's standing food-safety floor for ground beef, established at [§7.76](#776-hamburgers-with-herb-butter) and [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table). Grinding redistributes any surface bacteria through the whole patty, so judge doneness by the thermometer, not by color.
+
+**7. Build the burger.**
+Spread the Burger Glop on the bottom bun, then layer on the lettuce, tomato, and onion. Set the patty on top with the rendered bacon, and close with the buttered top bun.
+
+**8. Serve.**
+Serve right away, while the bun is still warm off the grill and the bacon is still crisp.
+
+#### Notes
+
+If raw sweet onion is too sharp for your taste, a quick 10-minute soak in ice water mellows it without cooking it. Walla Walla or Vidalia onions, when in season, are sweet enough to skip the soak entirely.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Ground chuck, about 25% fat — 1 lb *(ask the butcher to grind fresh chuck coarse rather than buying pre-packaged "ground beef" — see [§T73](#t73-burger-basics--fat-content-grind-and-handling))*
+
+**🛒 General grocery**
+
+- 🛒 Hamburger buns — 2
+- 🛒 Butter
+- 🛒 Bacon — 4 thick slices
+- 🛒 Lettuce, iceberg or romaine — 2 leaves
+- 🛒 Tomato — 1 large
+- 🛒 Sweet onion (Walla Walla or Vidalia, if available) — 1
+- 🛒 Black pepper, onion powder, garlic powder, kosher salt
+
+*Burger Glop ingredients already documented at [§4.128](#4128-burger-glop).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,900 | 134 g | 112 g | 67 g | 4 g |
+| **Per serving** *(serves 2)* | ~950 | 67 g | 56 g | 33 g | 2 g |
+
+**What a serving is:** one full steakhouse burger — an 8 oz beef patty, 2 slices of bacon, bun, sauce, and toppings.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -29870,6 +30046,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-05 — the "Pork" chapter has now arrived, and it landed in §7 and the T-section, same as Seafood.** Eleven full recipes — **[§7.95](#795-perfect-pulled-pork) through [§7.105](#7105-momofuku-inspired-ramen-bowl)** — plus seven condensed technique entries, **[§T58](#t58-the-different-cuts-of-ribs)–[§T64](#t64-60-minute-hot-and-fast-ribs-dreamland-style)**, covering rib cuts and anatomy/trimming, pork-butt brining and cooking-time science, leftover pulled pork storage, pork chop cuts, why not to stuff a chop, and a hot-and-fast alternative rib method. **Two items skipped rather than guessed past a gap in the source photos** — **Whole Hog Pig Pickin'** (book p. 222, headnote only — the actual cooking method it promises is on book p. 223, not in the photographed set) and **Wet-Cured Ham** (book p. 217, background on commercial ham curing that continues onto book pp. 218–219, also missing from the scan; not a home-cookable technique either way). **§13 remains a placeholder**, same reasoning as the Seafood update above — every *Meathead* recipe has had an obvious home elsewhere in this cookbook's structure so far. See the 2026-09-05 changelog entry for the full accounting.
 >
 > **Update, 2026-09-05 — the "Beef" chapter has now arrived too, same-day as Pork, and it landed in §7, §4, and the T-section.** Nine full recipes — **[§7.106](#7106-big-thick-steakhouse-steaks) through [§7.114](#7114-prime-rib)** — plus **[§4.133 Beef Butter](#4133-beef-butter)** (a compound butter, filed with this cookbook's other butters in §4 rather than here, same reasoning as the rubs/sauces batch) and eight condensed technique entries, **[§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)–[§T72](#t72-steaming-pastrami)**, covering steak grades/cuts/thickness, prime rib and rib roast anatomy (ordering, the rib cap, and why bones come off — distinct from [§T45](#t45-bones--do-they-actually-add-flavor)'s flavor-myth angle), the V-shaped rack warning, short rib vs. back rib anatomy, whole packer brisket anatomy, two ways to slice a brisket, burnt ends, and steaming pastrami. **Nothing was skipped this round** — the full 24-page Beef chapter (book p. 242–265) came through legible and complete. **§13 remains a placeholder**, same reasoning as every update above — every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's structure. See the 2026-09-05 changelog entry for the full accounting.
+>
+> **Update, 2026-09-05 — the "Ground Meats" chapter (burgers, hot dogs, sausages) has now arrived, same-day as Beef, and it's the smallest chapter yet.** One full recipe, **[§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger)**, plus four condensed technique entries, **[§T73](#t73-burger-basics--fat-content-grind-and-handling)–[§T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets)**, covering burger fat content/grind/handling, burger salting timing (including the book's own surprising weight-loss test), a condensed cross-country survey of regional hot dog styles, and precooked-vs-raw sausage cooking temperatures. **One item skipped rather than guessed at:** **A Better Italian Sausage Sandwich** (book p. 277) — the photographed page carries only a descriptive headnote about the Italian-sausage flavor profile (coarse-ground pork in natural casing, fennel-forward, sold by the foot), with no ingredient list or numbered steps; the actual sandwich recipe falls on a later page not in the photographed set. **§13 remains a placeholder**, same reasoning as every update above. See the 2026-09-05 changelog entry for the full accounting.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -31813,7 +31991,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Ribeye, boneless or bone-in** — [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) *(grilled)* · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) *(reverse-seared, 1½"+ thick)* · [§7.107 Skinny Steaks](#7107-skinny-steaks) *(screaming-hot direct heat, 1" or less)*
 - **Tri-tip (bottom sirloin)** — [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(indirect then direct-seared, "Poor Man's Prime Rib")*
 - **Sirloin** — [§7.68](#768-peruvian-beef-kebabs-anticuchos)/[§7.70](#770-russian-shashlik)/[§7.71](#771-fiery-stick-meat-suyas)/[§7.73](#773-bani-marine-street-beef-kebabs)/[§7.75](#775-lettuce-bundles-with-grilled-beef) kebabs *(all grilled)*
-- **Ground beef** — [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) *(grilled)* · [§9.6 Beef Jerky](#96-beef-jerky) *(dehydrated)* · [§8.1 Chili Mac](#81-chili-mac) *(browned, then slow-cooked)*
+- **Ground beef** — [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) *(grilled)* · [§9.6 Beef Jerky](#96-beef-jerky) *(dehydrated)* · [§8.1 Chili Mac](#81-chili-mac) *(browned, then slow-cooked)* · [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger) *(two-zone smoked, then direct-seared — distinct from §7.76, see entry)*
 - **Short ribs** — [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) *(simmered)* · [§7.79 Short Rib Ragù](#779-short-rib-ragù) *(bone-in, sous vide 24–30 hr then shredded into a stovetop sauce)* · [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) *(sous vide 48–72 hr to a medium-rare, steak-like texture, then seared)* · [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) *(smoked to 203°F)* · [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) *(rotisserie or direct-grilled)*
 - **Hanger steak** — [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) *(sous vide in duck fat, then seared)*
 - **Stew meat (beef or venison)** — [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) *(braised/simmered)*

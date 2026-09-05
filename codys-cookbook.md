@@ -229,6 +229,15 @@ Click any recipe to jump straight to it.
 - [5.37 Mamma's Spinach](#537-mammas-spinach) ✅ ❤️
 - [5.38 Roasted Veggies](#538-roasted-veggies) ✅ *(a loose "wing it" formula, not a fixed recipe)*
 - [5.39 Fennel Fondant](#539-fennel-fondant) ✅ *(Champions of Sous Vide; ⚠️ ingredient list partly obscured in the source photo — see entry)*
+- [5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) ✅ *(Meathead)*
+- [5.41 Grilled Asparagus](#541-grilled-asparagus) ✅ *(Meathead; distinct from [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter))*
+- [5.42 Grilled Cauliflower](#542-grilled-cauliflower) ✅ *(Meathead; distinct from [§5.6](#56-cauliflower))*
+- [5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) ✅ *(Meathead; distinct from [§5.14](#514-grilled-corn))*
+- [5.44 Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) ✅ *(Meathead)*
+- [5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) ✅ *(Meathead)*
+- [5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) ✅ *(Meathead)*
+- [5.47 Smoked Potato Salad](#547-smoked-potato-salad) ✅ *(Meathead)*
+- [5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) ✅ *(Meathead; distinct from [§5.33](#533-quick-and-smoky-baked-beans)/[§5.34](#534-brazilian-black-beans-with-bacon-tutu-mineira))*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -510,6 +519,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Sides chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — the sixth and final chapter of this multi-batch Meathead project. Nine full recipes and one condensed technique entry, plus two recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Nine full recipes added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.39 Fennel Fondant](#539-fennel-fondant): **[§5.40](#540-simple-grilled-crostini) Simple Grilled Crostini**, **[§5.41](#541-grilled-asparagus) Grilled Asparagus** (rub-and-shaved-Parmigiano, finished with real balsamic — **kept distinct from the existing [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)**, all from a different source), **[§5.42](#542-grilled-cauliflower) Grilled Cauliflower** (steaks and florets, reverse-seared — distinct from the still-undocumented [§5.6](#56-cauliflower) placeholder), **[§5.43](#543-the-ultimate-grilled-corn-on-the-cob) The Ultimate Grilled Corn on the Cob** (shucked and grilled with a tarragon butter — **kept distinct from the existing [§5.14 Grilled Corn](#514-grilled-corn)**, Raichlen's husk-on garlic-parsley-butter version; both kept, cross-referenced), **[§5.44](#544-chipotle-lime-corn-on-the-cob) Chipotle-Lime Corn on the Cob** (same technique, a chipotle-lime butter baste), **[§5.45](#545-grilled-romaine-salad) Grilled Romaine Salad** (lemon-basil dressing, blue cheese, candied pecans), **[§5.46](#546-fire-roasted-eggplant-baba-ghanoush) Fire-Roasted Eggplant Baba Ghanoush** (grilled rather than oven-roasted, with harissa and garam masala bloomed into the oil), **[§5.47](#547-smoked-potato-salad) Smoked Potato Salad** (par-boiled potatoes finished on the smoker before going into a classic mayo dressing), and **[§5.48](#548-boston-barbecue-beans) Boston Barbecue Beans** (navy beans cooked in a pan directly under a rack of smoking ribs so the drippings fall straight in — **kept distinct from the existing [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)/[§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira)**; all three kept, cross-referenced). **Rated 🟢 Easy across the board except [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, this one isn't a true hands-off slow cook: the source's own instructions call for occasional stirring and pan-rotation over 3 to 4 hours, and the beans can scorch on one side or dry out if left completely unattended — a real, if forgivable and recoverable, failure mode that the rest of this chapter's grilled vegetables simply don't have. [§5.47 Smoked Potato Salad](#547-smoked-potato-salad)'s 45-minute smoke is filed in the **Slow cook** column rather than Cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that smoker time is Slow cook "at any length," and [§5.48](#548-boston-barbecue-beans)'s 3–4 hour bean-and-rib smoke gets the same treatment. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every salt amount here is transcribed exactly as printed. **One new condensed technique entry, [§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)**, added to the Techniques quick index — real Aceto Balsamico Tradizionale (the Extra Vecchio and Affinato grades) versus supermarket "balsamic vinegar of Modena" (usually just sweetened, caramel-colored wine vinegar), and how to tell the difference by reading the back label rather than trusting the price or the front; used by [§5.41 Grilled Asparagus](#541-grilled-asparagus). **No separate general "Cooking Vegetables" technique entry was needed** — the existing [§T47 Cooking Vegetables and Fruits — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) (from the earlier Brines/Rubs/Sauces batch) already covers the science this chapter's recipes draw on, and no distinct new intro passage on the topic turned up in the photographed Sides pages. **Two recipes skipped rather than guessed at, both flagged in advance by Cody and confirmed genuinely incomplete:** **Sweet and Sour Coleslaw** (book p. 362) — its dressing ingredient list ("2 table...," "1 table...," "1 teasp...," and four more lines) and its slaw ingredient list ("1 pou... ca...," "1 larg...," "1 sm...," "½ b...," "Radi...") are both cut off mid-line at the page's right-hand margin, with no legible amounts for any line and no continuation page anywhere in the 54-page scan — this is the last Sides page photographed, so there's no page 363 to check; and an untitled **polenta** recipe (book p. 360) whose only visible content is mid-recipe grilling instructions (greasing an 8-inch pan, chilling the poured polenta overnight, cutting it into rectangles, grilling them, and a Parmigiano-Reggiano note) with no title, headnote, or ingredient list anywhere in the photographed set — book pp. 358–359, which would carry them, were not part of the scan (the photographed pages jump directly from 357 to 360). Both match Cody's own stated suspicions exactly. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §5 and the T-section, and that this closes out the book — Seafood, Pork, Beef, Ground Meats, Chicken & Turkey, and now Sides are all in. None of the nine recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the nine new recipes land at 10 min ([§5.40](#540-simple-grilled-crostini)), 20 min ([§5.41](#541-grilled-asparagus), next to [§5.14 Grilled Corn](#514-grilled-corn); [§5.47](#547-smoked-potato-salad) and [§5.48](#548-boston-barbecue-beans), both with their long cook time in the Slow cook column instead), 25 min ([§5.44](#544-chipotle-lime-corn-on-the-cob), [§5.45](#545-grilled-romaine-salad)), 35 min ([§5.46](#546-fire-roasted-eggplant-baba-ghanoush)), 40 min ([§5.42](#542-grilled-cauliflower)), and 45 min ([§5.43](#543-the-ultimate-grilled-corn-on-the-cob)). |
 | 2026-09-05 | **Chicken and Turkey chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — five full recipes and six condensed technique entries, plus three recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Five full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Seafood gap-fill batch's [§7.117](#7117-championship-bacon-wrapped-stuffed-shrimp): **[§7.118](#7118-simon--garfunkel-chicken) Simon & Garfunkel Chicken** (built on the existing [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub)), **[§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) Big Bob Gibson's Chicken in 'Bama White Sauce** (smoked and dipped in the existing [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) — same Big Bob Gibson sauce family, not a new condiment; ⚠️ the source's printed chicken weight, "1½ to 4-pound chicken," almost certainly misreads "3½ to 4-pound" and is flagged rather than silently fixed), **[§7.120](#7120-blasphemy-buffalo-chicken-wings) Blasphemy Buffalo Chicken Wings** (grilled/smoked rather than deep-fried, with its own Blue Cheese Dip and Classic Buffalo Hot Sauce kept as inline sub-components rather than spun off into §4 — the dip uses [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); **kept distinct from the existing [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) placeholder**, both cross-referenced), **[§7.121](#7121-marinated-cornish-game-hens) Marinated Cornish Game Hens** (Meathead's own family marinade, tweaked from a 1981 *New York Times* recipe by his sister), and **[§7.122](#7122-the-ultimate-smoked-turkey) The Ultimate Smoked Turkey** (dry-brined whole bird smoked over a vegetable-and-broth drip pan that becomes the gravy base, using [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); ⚠️ a few of the source's mid-recipe internal-temperature checkpoints were hard to make out in a skewed photo, so this entry's doneness targets default to this cookbook's own [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) 165°F poultry standard rather than a guessed number). **Rated 🟢 Easy across the board except [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, the long smoke itself is exactly the forgiving, hands-off cooking that stays Easy (same reasoning as this cookbook's other multi-hour smokes), but the finishing pan-drippings gravy is a genuine fail point — it can scorch or reduce to paste if left unwatched — so that one recipe sits a notch above the rest of this chapter. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every dry-brine/salt amount here — including [§7.122](#7122-the-ultimate-smoked-turkey)'s ½ tsp/lb turkey dry brine — is transcribed exactly as printed, since these are seasoning steps inside regular recipes rather than standalone brine entries. **Six new condensed technique entries, [§T77](#t77-tips-on-cooking-poultry)–[§T82](#t82-how-to-carve-a-turkey)**, added to the Techniques quick index: **Tips on Cooking Poultry** (reverse sear adapted for birds, breaking down/halving/spatchcocking a whole bird, roasting whole vs. why it cooks unevenly, rotisserie/vertical roasting, and the book's own white-meat/dark-meat pull-temperature guidance), **Myth — Beer Can Chicken** (busted: the can never gets hot enough to steam, weighed the same or heavier after cooking in the book's own tests, and beer is ~92% flavorless water anyway; also a real tip-over/burn risk), **Anatomy of a Chicken Wing** (drumette, wingette/flat, and tip, each cooking at a different rate — used directly by [§7.120](#7120-blasphemy-buffalo-chicken-wings)), and three turkey-specific entries: **Choosing Your Turkey** (sizing, "basted"/"enhanced"/"kosher" bird labeling, fresh-vs-frozen realities, thawing time), **Cooking the Perfect Turkey** (a full do's-and-don'ts list — don't stuff it, don't truss the legs, don't baste during cooking, don't trust the pop-up timer, don't tent with foil), and **How to Carve a Turkey** (kitchen not tableside, legs/thighs/the "oyster" meat/breast, in order). **Three recipes skipped rather than guessed at, all genuinely cut off or missing from the source photos:** **Cornell Chicken** (book p. ~299 — the marinade ingredient list is visibly cut off mid-line, "...1 teaspoon Simon & G," with nothing after it and none of the numbered steps legible; a separate, unidentifiable fragment of cooking steps for what appears to be yet another pulled-chicken-with-cracklins recipe sits nearby with no title or ingredients at all, also skipped); **Piri Piri Chicken** (its intro runs to the bottom of book p. 301, but its MAKES/TAKES line and full marinade ingredient list — which would open book p. 302 — are not legible in this scan; only its tail-end cooking steps reappear on p. 303, with no way to reconstruct what precedes them); and **Rotisserie Chicken Provençal** (its title and headnote are legible on book p. 304, but book p. 305 — which would carry its entire ingredient list and numbered steps — was not part of this photographed set at all). **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** — new "Cornish game hen" line added to Poultry, and the existing "Whole chicken/hen," "Chicken wings," and "Whole turkey / turkey breast" lines now also point at this batch's recipes. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7 and the T-section, same reasoning as every prior Meathead batch. None of the five recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, with [§7.122](#7122-the-ultimate-smoked-turkey)'s explicitly scaled to a representative 14-lb bird since the recipe itself is sized "any size." TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the five new recipes land at 30 min ([§7.122](#7122-the-ultimate-smoked-turkey), next to [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) — its 2–5 hr smoke lives in the Slow cook column instead, per the [§1 Cody's Pho](#1-codys-pho) precedent), 45 min ([§7.118](#7118-simon--garfunkel-chicken)), 60 min ([§7.121](#7121-marinated-cornish-game-hens)), 75 min ([§7.120](#7120-blasphemy-buffalo-chicken-wings)), and 95 min ([§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)). |
 | 2026-09-05 | **The two Seafood-chapter recipes skipped earlier today for a missing scan have arrived — Cody photographed the missing book pages (341, 342–343, 344–345) and both are now added, along with the lobster technique content that was also stuck behind the same gap.** **Supersedes the "skipped" language in the Seafood chapter's own 2026-09-05 changelog entry below and in [§13 Meathead Cookbook](#13-meathead-cookbook)'s matching update** — that entry is left as an accurate record of what happened at the time, but the gap it describes is now closed; see the fuller status note added to §13. **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins), continuing straight on from the Ground Meats batch's [§7.115](#7115-the-great-american-steakhouse-burger):** [§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) (Joe Parajecki, Kettle Range Meat Company — shell-on shrimp, oil-and-garlic marinade, quick direct grill) and [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) (Melissa Cookston, Yazoo's Delta Q — jalapeño-and-cream-cheese-stuffed shrimp wrapped in bacon, Cody's own pick: *"the bacon one is good"*). **Both rated 🟢 Easy** per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy — a grease flare-up on the first and partially-cooked, still-flexible bacon on the second are both built-in, forgivable, nothing that can go from perfect to ruined the way a roux or a broken sauce can. **Both recipes' shrimp-prep steps (peeling, deveining, brining) cross-reference the existing [§T56 Shrimp: Sizing, Deveining, and Brining](#t56-shrimp-sizing-deveining-and-brining) rather than repeating the technique inline** — §T56 already carried this content from the original batch (it wasn't actually behind the missing-page gap), so a short shrimp-anatomy line was added to it instead of duplicating a second copy. **[§T57](#t57-lobster-choosing-preparing-and-storing), which *was* behind the gap, is rewritten in full** — renamed from "Storing a Live Lobster" to **"Lobster: Choosing, Preparing, and Storing"** to reflect the added content: cold-water vs. warm-water lobster, picking a lively one, lobster anatomy (claw, tomalley, roe/"coral," tail fan), handling a live lobster safely, and cooking it the same day you buy it — the original live-storage tip is kept, now as one section of a complete entry rather than the whole of it. [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster)'s cross-reference to T57 updated to match the new title and anchor. **No extra salt added** — §7.117's brine amount (¼ cup kosher salt per pound of shrimp) is transcribed exactly as printed at §T56; per the task's own scoping, this is a seasoning/prep step for a regular recipe, not a standalone brine recipe, so Cody's heavier-salt brining preference doesn't apply here. **One flagged discrepancy, transcribed rather than silently fixed:** §7.117's source credits Melissa Cookston's team, Yazoo's Delta Q, as based in "Nesbitt, Missouri" — the real-world team is based in Nesbit, Mississippi, so this reads like the book's own error; printed exactly as it appears, with a note in the entry. TOC and Difficulty & Time Index updated — §7.116 slots in at 25 minutes of prep+cook, next to [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter); §7.117 slots in at 55 minutes, next to [§8.13 Lobster Stew](#813-lobster-stew). Neither recipe prints net carbs, so neither is tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from the ingredient lists. |
 | 2026-09-05 | **Ground Meats chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — the smallest of the four chapters transcribed so far, same-day as Beef. One full recipe and four condensed technique entries; one recipe skipped rather than guessed at.** **One full recipe added to [§7 Mains & Proteins](#7-mains--proteins), continuing straight on from the Beef batch's [§7.114](#7114-prime-rib): [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger)** — a thick, hand-formed chuck patty topped with rendered bacon, built with the same two-zone smoke-then-sear method as this cookbook's other Meathead beef recipes, and using the existing **[§4.128 Burger Glop](#4128-burger-glop)** as its bun sauce. **Kept distinct from the existing [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter)** (Raichlen's *How to Grill* — a thinner, straight direct-grilled burger with a compound-butter finish); both kept, cross-referenced. **Rated 🟡 Medium**, same reasoning as this cookbook's other reverse-seared beef ([§7.106](#7106-big-thick-steakhouse-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), [§7.114](#7114-prime-rib)) — the indirect stage is forgiving, but the final direct-heat sear needs continuous attention. **The recipe's doneness step points at this cookbook's standing 160°F ground-beef food-safety floor**, established at [§7.76](#776-hamburgers-with-herb-butter)/[§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table), rather than a lower "steakhouse" serving temperature — grinding redistributes surface bacteria through the whole patty, so this cookbook doesn't treat ground beef the way it treats a whole-muscle steak or roast. **No extra salt added beyond what's printed** — same scoping as every prior Meathead batch; Cody's heavier-salt preference is scoped to standalone brining recipes only, and this recipe's salt amount is transcribed exactly as printed. **Four new condensed technique entries, [§T73](#t73-burger-basics--fat-content-grind-and-handling)–[§T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets)**, added to the Techniques quick index: **Burger Basics** (why never to use meat labeled "hamburger"/"ground beef" for burgers, target fat content of 20–30 percent against a typical 15 percent for standard ground chuck, coarse grind, and not overworking the meat when forming patties), **Flavoring the Burger** (the salt-timing debate, plus the book's own weight-loss test comparing no salt, surface salt, and salt mixed in — the surprising finding, printed as approximate percentages off a small graphic, is that salt mixed in actually lost the *least* weight during cooking, not the most), **Regional Hot Dogs** (condensed into a single entry per its mostly-descriptive content, covering the Chicago Dog, Cincinnati/Detroit Coney, and eight other regional styles by name, with the practical takeaway being to commit to one region's full topping list rather than mixing styles), and **Cooking Sausages** (reading the label for precooked vs. raw, the roughly 25 percent average fat content, the two-zone indirect-then-direct technique, the warning against piercing a raw casing while it cooks, and target temperatures of about 140°F for precooked and about 160°F for raw/uncooked sausage — complements the existing [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe), which covers stuffing a raw sausage rather than cooking a finished one). **One recipe skipped rather than guessed at:** **A Better Italian Sausage Sandwich** (book p. 277) — the photographed page carries only a descriptive headnote about the Italian-sausage flavor profile itself (coarse-ground pork in natural casing, fennel-forward, sold by the foot in coiled ropes or bias-cut burger-sized pieces), with no ingredient list or numbered cooking steps visible; the actual sandwich assembly falls on a later page (book p. 278 or beyond) that wasn't in the photographed set. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** — the existing "Ground beef" line now also points at [§7.115](#7115-the-great-american-steakhouse-burger). **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dish landed in §7 and the T-section, same reasoning as every prior Meathead batch. [§7.115](#7115-the-great-american-steakhouse-burger) doesn't print net carbs, so it isn't tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); its Nutrition block is estimated from the ingredient list. TOC and Difficulty & Time Index updated throughout — [§7.115](#7115-the-great-american-steakhouse-burger) slots in at 50 minutes of prep+cook, next to [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip). |
@@ -754,6 +764,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
 | [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§7.107 Skinny Steaks](#7107-skinny-steaks) *(Meathead)* | 🟡 | 5 min | 5 min | — | 10 min *(+ 1–2 hr dry brine)* |
+| [§5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) *(Meathead)* | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
@@ -846,6 +857,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | 🟢 | 10 min | 10 min | **48–72 hr** *(sous vide, unattended)* | 48 hr 20 min – 72 hr 20 min |
 | [§14.20 Cream Caramel](#1420-cream-caramel) | 🔴 | 10 min | 10 min | **40 min** *(sous vide)* | ~1 hr active *(plus overnight caramel-dissolve + 4–6 hr chill before serving — not active work)* |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§5.41 Grilled Asparagus](#541-grilled-asparagus) *(Meathead)* | 🟢 | 10 min | 10 min | — | 20 min |
+| [§5.47 Smoked Potato Salad](#547-smoked-potato-salad) *(Meathead)* | 🟢 | 20 min | — | **45 min** *(smoker, unattended)* | ~3 hr *(includes at least 2 hr chilling, overnight is better)* |
+| [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) *(Meathead)* | 🟡 | 20 min | — | **3–4 hr** *(under a rack of ribs on the smoker, stirred occasionally)* | ~4 hr |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) *(Meathead)* | 🟡 | 5 min | 15 min | — | 1 hr 20 min *(+ 1 hr fridge dry-brine)* |
@@ -912,6 +926,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) | 🟢 | 15 min | 10 min | — | 25 min |
 | [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) | 🟡 | 10 min | 15 min | — | 25 min |
 | [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§5.44 Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) *(Meathead)* | 🟢 | 10 min | 15 min | — | 25 min |
+| [§5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) *(Meathead)* | 🟢 | 15 min | 10 min | — | 25 min |
 | [§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) *(Meathead)* | 🟢 | 15 min | 10 min | — | 50 min *(includes a 15–20 min marinate)* |
 | [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster) *(Meathead)* | 🟡 | 15 min | 10 min | — | 30 min |
 | [§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) | 🔴 | 20 min | 5 min | — | 2 hr 25 min *(includes an assumed ~2 hr chill)* |
@@ -953,6 +969,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
+| [§5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) *(Meathead)* | 🟢 | 15 min | 20 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§14.6 Key Lime Pie](#146-key-lime-pie) | 🟢 | 15 min | 20 min | — | 35 min *(+ 30 min cool, 3 hr chill)* |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
@@ -971,6 +988,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
 | [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
+| [§5.42 Grilled Cauliflower](#542-grilled-cauliflower) *(Meathead)* | 🟢 | 15 min | 25 min | — | 40 min |
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min | — | 45 min |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
@@ -1001,6 +1019,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 35 min | — | 2 hr *(includes a 1–2 hr dry brine)* |
+| [§5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) *(Meathead)* | 🟢 | 25 min | 20 min | — | 45 min |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
@@ -9466,6 +9485,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T80](#t80-choosing-your-turkey) | Choosing Your Turkey | `meathead` `turkey` `buying` `fresh-vs-frozen` `thanksgiving` |
 | [T81](#t81-cooking-the-perfect-turkey) | Cooking the Perfect Turkey | `meathead` `turkey` `dos-and-donts` `thanksgiving` |
 | [T82](#t82-how-to-carve-a-turkey) | How to Carve a Turkey | `meathead` `turkey` `carving` |
+| [T83](#t83-about-balsamic--grades-and-buying) | About Balsamic — Grades and Buying | `meathead` `balsamic` `vinegar` `buying-guide` `condiments` |
 
 ---
 
@@ -13566,6 +13586,23 @@ A do's-and-don'ts list, straight from the book:
 
 ---
 
+### T83. About Balsamic — Grades and Buying
+
+<!-- TECHNIQUE-TAGS: meathead, balsamic, vinegar, buying-guide, condiments -->
+**Tags:** `meathead` · `balsamic` · `vinegar` · `buying-guide` · `condiments`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 351).
+**Used in:** [§5.41 Grilled Asparagus](#541-grilled-asparagus).
+
+**Most bottles on a regular grocery shelf labeled "balsamic vinegar of Modena" aren't true balsamic at all** — they're wine vinegar sweetened with sugar and tinted with caramel coloring. The real thing, **Aceto Balsamico Tradizionale**, is made and barrel-aged only around Modena or Reggio Emilia, Italy, under strict rules, and comes in two official grades: **Extra Vecchio** (aged 25+ years, roughly $250 for a small 100 ml bottle) and the younger **Affinato** (aged about 12 years, roughly $100 for a similar bottle).
+
+**A step down, "Condimento" balsamic is unregulated** — some are genuinely good aged products, others are just dressed-up wine vinegar with a fancier label. The only way to tell is to read the back of the bottle for actual aging information (or the lack of it) rather than trust the front label or the price alone.
+
+**Buy a few different bottles and taste them side by side.** A real one is thick, syrupy, and complex — not sharp, thin, and one-note sweet. Keep a good bottle on hand for finishing dishes like [§5.41 Grilled Asparagus](#541-grilled-asparagus), where it goes on at the very end rather than into the cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -15440,6 +15477,578 @@ Pour the reserved liquid from the bag back into the pan and cook, turning and ba
 - **The ingredient list may be incomplete.** The source photo was partly obscured (a finger or the page angle blocked part of the column), so only fennel, stock, and clarified butter/olive oil could be confirmed. Worth checking against the physical book.
 - **The step where the reduced stock goes back into the pan is a reasonable reconstruction, not a certain transcription** — the source photo was obscured by a hand at exactly that point.
 - **Source page number not visible in the photo.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.40 Simple Grilled Crostini
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter, opening it (book p. 350). Per the book, crostini are "a dandy side for pasta and all manner of barbecue," and especially good with clams, oysters, and mussels, where they soak up the cooking liquid "like a delectable sponge."
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1 fresh baguette or other crusty loaf, cut into ½-inch-thick slices
+- High-quality extra-virgin olive oil, for brushing
+- 1 garlic clove, halved (optional)
+- Large-grain salt, such as Maldon
+- Coarsely ground black pepper
+- Parmigiano-Reggiano cheese, grated (optional)
+
+#### B. Cooking Instructions
+
+**1. Brush the bread.**
+Paint both sides of every bread slice with olive oil, all the way to the edges — or pour the oil onto a plate and dip the cut side of each slice into it. For extra flavor, rub the halved garlic clove over the oiled surface.
+
+**2. Fire up.**
+Heat the grill to medium-high, direct heat.
+
+**3. Toast.**
+Lay the bread on the grate, lid open, and watch it closely — crostini go from pale to burnt in a hurry. Flip once the first side is golden, then sprinkle with the salt, pepper, and Parmigiano-Reggiano near the end if using.
+
+**4. Serve.**
+Best warm off the grill, though they hold up fine at room temperature too. Pile them next to clams, oysters, mussels, or a bowl of pasta so they can soak up the sauce.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Baguette or other crusty bread — 1 loaf
+- 🛒 Extra-virgin olive oil, high quality
+- 🛒 Garlic — 1 clove *(optional)*
+- 🛒 Large-grain salt (e.g. Maldon) and black pepper
+- 🛒 Parmigiano-Reggiano cheese *(optional)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,150 | 42 g | 30 g | 150 g | 8 g |
+| **Per serving** *(serves 5, about 4 slices each)* | ~230 | 8 g | 6 g | 30 g | 1.5 g |
+
+**What a serving is:** about 4 slices — enough to line a bowl of mussels or a plate of pasta.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.41 Grilled Asparagus
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 350–351). Per the book, "Asparagus is fresh, crunchy, and unique in spring. Look for spears with tight, closed tips" — grilled here with a rub, shaved Parmigiano-Reggiano, and a finish of real balsamic (see [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying)). **Kept distinct from this cookbook's existing asparagus entries** — the still-undocumented [§5.2 Asparagus](#52-asparagus), and the fully written [§5.15 Roasted Asparagus](#515-roasted-asparagus)/[§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce)/[§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) (all from *Canal House Cooks Every Day*) — this is a grilled, rub-and-balsamic treatment from a different source, not a duplicate.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) *(a grill topper or perpendicular grates so thin spears don't fall through)*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- 16 fresh asparagus stalks, tough ends trimmed
+- 2 tablespoons extra-virgin olive oil
+- 1½ teaspoons Simon & Garfunkel Rub ([§4.109](#4109-simon--garfunkel-rub))
+- ½ teaspoon kosher salt
+- 4 ounces Parmigiano-Reggiano cheese, shaved
+- 1 tablespoon balsamic condimento or balsamic reduction *(optional — see [§T83](#t83-about-balsamic--grades-and-buying))*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Snap or trim the tough woody ends from the asparagus. Toss the stalks with the olive oil, Simon & Garfunkel Rub, and salt.
+
+**2. Fire up.**
+Heat the grill to medium-high, direct heat. Use a grill topper if you have one, or lay the spears at a right angle across the grates so they can't fall through.
+
+**3. Cook.**
+Grill the asparagus, turning every minute or so, until they pick up some char and just start to soften — about 5 minutes a side. A few char marks are good; don't let them blacken.
+
+**4. Serve.**
+Arrange the spears on a platter, all pointing the same direction. Let them cool for a couple of minutes, shave the Parmigiano-Reggiano over the top, and drizzle with the balsamic condimento or reduction if using.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Asparagus — 16 stalks
+- 🛒 Extra-virgin olive oil
+- 🛒 Parmigiano-Reggiano cheese — 4 oz
+- 🛒 Balsamic condimento or balsamic reduction *(optional; see [§T83](#t83-about-balsamic--grades-and-buying) on what to buy)*
+
+*Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~800 | 62 g | 40 g | 20 g | 8 g |
+| **Per serving** *(serves 4)* | ~200 | 16 g | 10 g | 5 g | 2 g |
+
+**What a serving is:** 4 spears with a shaving of Parmigiano — a normal dinner-plate vegetable portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.42 Grilled Cauliflower
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 352). Per the book, cauliflower "doesn't get the respect it deserves" — most people just steam or boil it, but grilling it as thick "steaks" plus loose florets gets real char and nuttiness out of it. **Kept distinct from the still-undocumented [§5.6 Cauliflower](#56-cauliflower)** placeholder.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T47 Cooking Vegetables and Fruits — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) *(the steaks get the reverse-sear treatment — indirect until tender, then a direct-heat finish for color)*
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
+
+#### A. Ingredients
+
+- 1 head cauliflower
+- Kosher salt and freshly ground black pepper
+- Olive oil
+- Butter *(optional, for serving)*
+
+#### B. Cooking Instructions
+
+**1. Cut steaks and florets.**
+Trim the leaves and any brown spots from the cauliflower and cut off the base of the stem. Stand the head cut-side up and slice straight down through the center to get 2 to 4 thick "steaks." Break the remaining cauliflower into florets by hand. Season both the steaks and florets with salt, pepper, and a drizzle of olive oil.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the indirect side to about 325°F.
+
+**3. Cook the florets.**
+Spread the florets in a single layer on a grill topper over the indirect side, close the lid, and cook until almost tender, about 20 minutes.
+
+**4. Cook the steaks.**
+Grill the cauliflower steaks over direct heat, flipping once, until fork-tender with good grill marks, about 5 minutes per side. Move the florets over to the direct side for the last few minutes if they need more color.
+
+**5. Serve.**
+Plate the steaks or florets and finish with a drizzle of olive oil or melted butter.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cauliflower — 1 head
+- 🛒 Olive oil
+- 🛒 Kosher salt, black pepper
+- 🛒 Butter *(optional)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~500 | 40 g | 8 g | 30 g | 12 g |
+| **Per serving** *(serves 3)* | ~165 | 13 g | 3 g | 10 g | 4 g |
+
+**What a serving is:** one cauliflower "steak" or an equivalent pile of florets — a normal side portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.43 The Ultimate Grilled Corn on the Cob
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 352–353). Meathead quotes Garrison Keillor — *"Sex is good, but not as good as fresh sweet corn"* — and argues the grill beats the popular soak-and-grill-in-the-husk method: shucking the corn first lets it pick up real char instead of steaming inside a wet husk. **Kept distinct from this cookbook's existing [§5.14 Grilled Corn](#514-grilled-corn)** (Raichlen's *How to Grill*, husk-on with a garlic-parsley butter) — same vegetable, different technique and a different herb butter; both are worth keeping.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T47 Cooking Vegetables and Fruits](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) *(thin, quick-cooking corn skips the reverse-sear — direct heat the whole way)*
+
+**🟢 Easy** · **Prep ~25 min** · **Cook ~20 min** · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 4 ears very fresh sweet corn, husked (Silver Queen or your best local variety)
+- 4 tablespoons (½ stick) butter
+- ¼ cup loosely packed fresh tarragon, minced *(or about 2 tablespoons dried; see Notes)*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Husk the corn and pull off every strand of silk. Rinse the ears in cold water.
+
+**2. Infuse the butter.**
+Melt the butter in a small saucepan over low heat, stir in the tarragon, and let it steep off the heat for at least 15 minutes so the flavor takes.
+
+**3. Fire up.**
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the direct side to medium-high.
+
+**4. Cook.**
+Grill the corn directly over the heat, resting the ears across the grates so they can roll. Paint with the tarragon butter and turn every minute or two, painting again each time, until the ears are cooked through with char spots on all sides, 8 to 10 minutes.
+
+**5. Serve.**
+Good hot or at room temperature — brush on a final coat of the tarragon butter right before serving.
+
+> **Notes, per the source.** Swap in thyme, oregano, or rosemary for the tarragon if you'd rather. Dried herbs work too, but they're more concentrated — use about half the amount.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sweet corn — 4 ears
+- 🛒 Butter — 4 Tbsp (½ stick)
+- 🛒 Fresh tarragon *(or dried, about half the amount)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~800 | 48 g | 16 g | 88 g | 8 g |
+| **Per serving** *(serves 4, 1 ear each)* | ~200 | 12 g | 4 g | 22 g | 2 g |
+
+**What a serving is:** one buttered ear of corn — a standard cookout side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.44 Chipotle-Lime Corn on the Cob
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 354), presented right alongside [§5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) as a late-summer variation for corn that needs a little help.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
+
+#### A. Ingredients
+
+- 4 ears very fresh sweet corn, husked
+- 4 tablespoons (½ stick) unsalted butter
+- Zest and juice of 1 lime
+- 1 teaspoon adobo sauce (from a can of chipotles in adobo)
+- ¼ teaspoon kosher salt
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Husk the corn and remove the silk; rinse the ears.
+
+**2. Make the chipotle-lime butter.**
+Melt the butter in a small saucepan over medium-low heat. Stir in the lime zest, lime juice, adobo sauce, and salt, and simmer 2 to 3 minutes. Remove from the heat.
+
+**3. Fire up.**
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the direct side medium-hot.
+
+**4. Cook.**
+Grill the corn over direct heat, turning and basting with the chipotle-lime butter, until golden with a few char spots on all sides, 8 to 10 minutes. Baste right before pulling it off the grill rather than directly over the flame, or the butter will flare.
+
+**5. Serve.**
+Transfer to a platter and put the rest of the chipotle-lime butter out at the table for anyone who wants more.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sweet corn — 4 ears
+- 🛒 Unsalted butter — 4 Tbsp (½ stick)
+- 🛒 Lime — 1
+- 🛒 Canned chipotles in adobo *(for the adobo sauce)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~820 | 48 g | 16 g | 90 g | 3 g |
+| **Per serving** *(serves 4, 1 ear each)* | ~205 | 12 g | 4 g | 22 g | <1 g |
+
+**What a serving is:** one buttered ear of corn — a standard cookout side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.45 Grilled Romaine Salad
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 354–355). Per the book, romaine is "perfect for the job" of a grilled salad because it holds up well over fire while the cut edges caramelize where the dressing meets the heat.
+
+**Techniques used:** [§T47 Cooking Vegetables and Fruits](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) *(a quick, thin, direct-heat char — no reverse-sear needed)*
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~25 min**
+
+#### A. Ingredients
+
+**Lemon-Basil Dressing**
+
+- ¼ cup olive oil
+- 1 tablespoon red wine vinegar
+- 1 tablespoon chopped fresh basil leaves
+- Zest and juice of 1 lemon
+- ½ teaspoon sugar
+- Kosher salt and freshly ground black pepper
+
+**Salad**
+
+- 2 heads romaine lettuce, halved lengthwise through the core
+- 4 ounces blue cheese, crumbled
+- ½ cup candied or roasted pecans
+- Kosher salt and freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Make the dressing.**
+Whisk together the olive oil, red wine vinegar, basil, lemon zest and juice, sugar, salt, and pepper.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking and get the direct side medium-hot.
+
+**3. Cook.**
+Lay the romaine halves cut-side down on the direct side and grill until lightly charred, about 2 minutes per side — just enough to wilt the outer leaves and pick up smoke, not to cook the lettuce through.
+
+**4. Serve.**
+Plate each romaine half, drizzle with the dressing, and top with the blue cheese and pecans. Season with salt and pepper.
+
+> **Note, per the source.** If you can't find crumbled blue cheese, a wedge you crumble yourself works just as well.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Olive oil
+- 🛒 Red wine vinegar
+- 🛒 Fresh basil
+- 🛒 Lemon — 1
+- 🛒 Sugar
+- 🛒 Romaine lettuce — 2 heads
+- 🛒 Blue cheese — 4 oz
+- 🛒 Candied or roasted pecans — ½ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,250 | 108 g | 30 g | 40 g | 12 g |
+| **Per serving** *(serves 4, half a head each)* | ~310 | 27 g | 8 g | 10 g | 3 g |
+
+**What a serving is:** half a grilled romaine head, dressed and topped — a substantial salad side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.46 Fire-Roasted Eggplant Baba Ghanoush
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 356). Per the book, baba ghanoush is "a classic Middle Eastern dip made from roasted eggplant" — grilling it, rather than roasting it in the oven, gets more smoke into the flesh than usual.
+
+**Techniques used:** [§T47 Cooking Vegetables and Fruits](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) *(dense eggplant halves cook through over direct heat while the cut side chars)*
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- 2 to 3 pounds eggplant (2 to 3 medium)
+- 3 tablespoons olive oil, divided, plus more for garnish
+- 3 garlic cloves, minced or pressed
+- ½ teaspoon harissa powder *(see Notes)*
+- 1 teaspoon garam masala *(see Notes)*
+- 3 tablespoons tahini
+- 3 tablespoons fresh lemon juice
+- 1 teaspoon kosher salt
+- 6 (6-inch) pitas
+- Sweet paprika, for garnish *(optional)*
+- Finely chopped fresh cilantro or flat-leaf parsley, for garnish *(optional)*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Halve the eggplants lengthwise and score the cut side in a crosshatch pattern, about ½ inch deep. Toss with 1 tablespoon of the olive oil.
+
+**2. Fire up.**
+Set up the grill for two-zone cooking, direct side medium-hot.
+
+**3. Cook the eggplant.**
+Grill the eggplant cut-side down over direct heat until it picks up good char and grill marks, then flip and cook the skin side until the interior is fully soft and custard-like all the way through. Transfer each piece to a platter as it finishes.
+
+**4. Toast the pita.**
+Grill the pitas until warmed and lightly toasted, about 1 to 2 minutes per side, then cut into wedges.
+
+**5. Bloom the spices.**
+In a small skillet, warm the remaining 2 tablespoons olive oil with the garlic, harissa powder, and garam masala over low heat for 2 to 3 minutes.
+
+**6. Blend.**
+Scoop the grilled eggplant flesh into a food processor or blender with the bloomed garlic-spice oil, tahini, lemon juice, and salt. Purée until smooth, then taste and adjust the seasoning.
+
+**7. Serve.**
+Spoon into a serving bowl, garnish with a drizzle of oil, a dusting of paprika, and fresh herbs if using, and serve with the toasted pita wedges.
+
+> **Notes, per the source.** Harissa is a blend of chile peppers, garlic, and other spices, sometimes sold as a paste rather than a powder — either works. If you can't find garam masala locally, a Middle Eastern or Indian grocery is a reliable source.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggplant — 2 to 3 lb
+- 🛒 Olive oil
+- 🛒 Garlic — 3 cloves
+- 🛒 Harissa powder *(spice aisle or Middle Eastern grocery)*
+- 🛒 Garam masala *(spice aisle or Indian grocery)*
+- 🛒 Tahini
+- 🛒 Lemon
+- 🛒 Pitas — 6 (6-inch)
+- 🛒 Sweet paprika *(optional)*
+- 🛒 Fresh cilantro or flat-leaf parsley *(optional)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,750 | 60 g | 45 g | 250 g | 30 g |
+| **Per serving** *(serves 6, dip + 1 pita each)* | ~290 | 10 g | 8 g | 42 g | 5 g |
+
+**What a serving is:** about ⅓ cup of dip with one toasted pita, cut into wedges.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.47 Smoked Potato Salad
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 357). Per the book, there are "a bazillion ways to make potato salad," and this one swaps the usual boiled potatoes for smoked ones.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
+
+**🟢 Easy** · **Prep ~20 min** · **Slow cook 45 min** *(smoker, unattended)* · **Start to finish ~3 hr** *(includes at least 2 hr chilling — overnight is better)*
+
+> **Why Easy.** The smoke itself is a walk-away 45 minutes, same reasoning as this cookbook's other smoked and slow-cooked dishes — nothing here can go from perfect to ruined the way a roux or a broken emulsion can.
+
+#### A. Ingredients
+
+**Potatoes**
+
+- 10 small red potatoes, peels left on, cut into bite-size pieces
+- Kosher salt
+- 3 tablespoons cooking oil
+
+**Dressing**
+
+- ¼ cup finely chopped onion
+- 2 celery stalks, finely chopped
+- 2 tablespoons sweet pickle relish
+- 1 cup mayonnaise
+- 2 tablespoons Dijon mustard
+- ¼ cup chopped fresh flat-leaf parsley
+- ½ teaspoon dried dill
+- Zest and juice of ½ lemon
+- ½ teaspoon sugar
+- ½ teaspoon garlic powder
+- ½ teaspoon kosher salt
+- ¼ teaspoon freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Prep the potatoes.**
+Put the potato pieces in a pot, cover with cold water by at least an inch, add a big pinch of salt, and bring just to a boil so they start to soften — a few minutes, not full doneness, since they'll finish on the smoker. Drain and toss with the cooking oil.
+
+**2. Fire up.**
+Get the smoker to 225°F, or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 225°F on the indirect side. Oil a grill topper and set it on the indirect side; get some wood smoking.
+
+**3. Smoke the potatoes.**
+Spread the potatoes on the topper in a single layer so they don't overlap. Smoke until tender with a light smoky crust, about 45 minutes. Transfer to a platter and let cool completely — they can be smoked up to a day ahead.
+
+**4. Make the dressing and toss.**
+Whisk together the onion, celery, pickle relish, mayonnaise, Dijon, parsley, dill, lemon zest and juice, sugar, garlic powder, salt, and pepper in a large bowl. Fold in the cooled smoked potatoes. Refrigerate at least a couple of hours — overnight is even better — so the flavors meld.
+
+**5. Serve.**
+Let the salad sit out about 20 minutes before serving so it isn't ice-cold.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Small red potatoes — 10
+- 🛒 Cooking oil
+- 🛒 Onion
+- 🛒 Celery — 2 stalks
+- 🛒 Sweet pickle relish
+- 🛒 Mayonnaise — 1 cup
+- 🛒 Dijon mustard
+- 🛒 Fresh flat-leaf parsley
+- 🛒 Dried dill
+- 🛒 Lemon
+- 🛒 Sugar
+- 🛒 Garlic powder
+- 🛒 Wood chips or chunks, for smoking
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,300 | 175 g | 20 g | 165 g | 15 g |
+| **Per serving** *(serves 6)* | ~385 | 29 g | 3 g | 28 g | 2.5 g |
+
+**What a serving is:** a generous ¾-cup scoop — a normal cookout-plate side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.48 Boston Barbecue Beans
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 361–362). Per the book, "they don't call it Beantown for naught" — the original Boston baked bean was sweetened with molasses in an earthenware pot, but Meathead's version cooks the beans in a pan directly under a rack of ribs so the rub-laden drippings fall straight into the pot. **Kept distinct from this cookbook's existing bean sides** — [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) (Raichlen, canned beans smoke-roasted 30 minutes on the grill) and [§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) — this one runs several hours under smoking ribs and uses navy or pea beans with molasses and KC-style sauce; all three are worth keeping side by side.
+
+**Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) *(prep the ribs the same way as [§7.97 Last-Meal Ribs](#797-last-meal-ribs))*
+
+**🟡 Medium** · **Prep ~20 min** · **Slow cook 3 to 4 hr** *(under a rack of ribs on the smoker, stirred occasionally)* · **Start to finish ~4 hr**
+
+> **Why Medium, not Easy.** This isn't a true walk-away slow cook — the pot needs periodic stirring and checking over several hours, and it can scorch on one side or dry out if left completely alone, per the book's own warnings. That's a real failure mode, even though it's a forgiving and recoverable one (rotate the pan, add a splash of water) rather than the kind of unwatchable, unrecoverable failure that earns a 🔴, per [CLAUDE.md §3a](CLAUDE.md).
+
+#### A. Ingredients
+
+- 2 slabs baby back ribs *(prepped as in [§7.97 Last-Meal Ribs](#797-last-meal-ribs) — membrane removed, trimmed, salted, and rubbed)*
+- 6 thick bacon slices, or ¼ pound pork fatback
+- 1 large onion, coarsely chopped
+- 2 (15-ounce) cans navy or pea beans, rinsed and drained
+- ¼ cup dark molasses
+- ¼ cup Kansas City Classic Barbecue Sauce ([§4.117](#4117-kansas-city-classic-barbecue-sauce)), plus more for the ribs
+- 1 tablespoon Dijon mustard
+- 1 bay leaf
+- ½ teaspoon kosher salt
+- ¼ teaspoon freshly ground black pepper
+- 1 teaspoon fresh lemon juice *(optional)*
+- Diced fresh jalapeños *(optional)*
+
+#### B. Cooking Instructions
+
+**1. Prep the ribs.**
+Prepare the baby backs the same way as [§7.97 Last-Meal Ribs](#797-last-meal-ribs) — pull the membrane, trim, salt, and rub them ([§T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs)).
+
+**2. Fire up.**
+Get the smoker to 225°F, or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 225°F on the indirect side. Warm a 9-by-13-inch metal pan on the direct side.
+
+**3. Render the bacon.**
+Cook the bacon in the pan until browned on both sides but not yet hard and crunchy. Remove and let cool, then chop into ½-inch chunks. Pour off all but 1 tablespoon of the fat.
+
+**4. Build the beans.**
+Add the onion to the fat left in the pan and cook until limp but not browned. Stir in 2 cups hot water, the beans, molasses, barbecue sauce, mustard, bay leaf, salt, pepper, and the chopped bacon, scraping up any browned bits from the bottom of the pan.
+
+**5. Smoke together.**
+Move the pan of beans to the indirect side and set the ribs on a rack directly above it, so the rib drippings fall straight into the beans. Close the lid and get the smoke rolling.
+
+**6. Tend the pot. 3 to 4 hours.**
+Stir the beans occasionally, scraping the bottom so nothing sticks or scorches — if one side is cooking faster than the other, turn the pan. Total time runs 3 to 4 hours, depending on the ribs, your smoker, and the weather. Add a splash of water if the beans start to dry out. Just before serving, taste and adjust with salt, pepper, more barbecue sauce, water, or molasses; stir in the lemon juice and/or jalapeños if using.
+
+**7. Finish and serve.**
+Paint the ribs with barbecue sauce and sizzle them over direct heat for a couple of minutes to set the glaze. Serve the ribs over or alongside the beans, with whatever other sides you're running.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Baby back ribs — 2 slabs
+- 🛒 Thick bacon — 6 slices *(or pork fatback)*
+- 🛒 Onion — 1 large
+- 🛒 Canned navy or pea beans — 2 (15 oz) cans
+- 🛒 Dark molasses
+- 🛒 Dijon mustard
+- 🛒 Bay leaf
+- 🛒 Fresh jalapeños *(optional)*
+- 🛒 Lemon *(optional)*
+- 🛒 Wood chips or chunks, for smoking
+
+*Kansas City Classic Barbecue Sauce ingredients already documented at [§4.117](#4117-kansas-city-classic-barbecue-sauce).*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,600 | 220 g | 220 g | 180 g | 40 g |
+| **Per serving** *(serves 4)* | ~900 | 55 g | 55 g | 45 g | 10 g |
+
+**What a serving is:** about a half rack of ribs with a generous 1-cup scoop of beans — a full dinner plate, not just a side dish.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -30702,6 +31311,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-05 — the Seafood chapter's own missing-page gap (see that update, three paragraphs up) is now closed.** Cody photographed the three book pages that batch was missing (341, 342–343, 344–345), and both skipped recipes plus the partial lobster technique are now in. **[§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp)** (Joe Parajecki, Kettle Range Meat Company) and **[§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp)** (Melissa Cookston, Yazoo's Delta Q — Cody's own pick, *"the bacon one is good"*) join [§7 Mains & Proteins](#7-mains--proteins) right after [§7.115](#7115-the-great-american-steakhouse-burger). **[§T57](#t57-lobster-choosing-preparing-and-storing) is rewritten in full** — retitled from "Storing a Live Lobster" to **"Lobster: Choosing, Preparing, and Storing"** now that the fuller "Lobster: Choosing and Preparing" section (cold-water vs. warm-water, picking a lively one, anatomy, safe handling) has a home. **[§T56](#t56-shrimp-sizing-deveining-and-brining) turned out not to need completing** — the shrimp sizing/deveining/brining content it already carried from the original batch matches the newly supplied pages exactly; only a short anatomy line was added to it. **§13 remains a placeholder**, same reasoning as every update above. See the 2026-09-05 changelog entry (the one above the original Seafood entry) for the full accounting.
 >
 > **Update, 2026-09-05 — the "Chicken and Turkey" chapter has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Five full recipes — **[§7.118](#7118-simon--garfunkel-chicken) through [§7.122](#7122-the-ultimate-smoked-turkey)** — plus six condensed technique entries, **[§T77](#t77-tips-on-cooking-poultry)–[§T82](#t82-how-to-carve-a-turkey)**, covering general poultry technique (reverse sear, breaking down/halving/spatchcocking a bird, roasting whole, rotisserie), the beer-can-chicken myth-bust, chicken wing anatomy, and three turkey-specific reference entries (choosing one, cooking do's-and-don'ts, and carving). **Three recipes skipped rather than guessed at, all for genuinely missing or cut-off source pages** — see the 2026-09-05 changelog entry for exactly what was cut off and where. **§13 remains a placeholder**, same reasoning as every update above — every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's structure. See the 2026-09-05 changelog entry for the full accounting.
+>
+> **Update, 2026-09-05 — the "Sides" chapter has now arrived, and it's the last chapter of this whole multi-batch project.** Nine full recipes — **[§5.40](#540-simple-grilled-crostini) through [§5.48](#548-boston-barbecue-beans)** — landed in [§5 Vegetables & Sides](#5-vegetables--sides) rather than here, same reasoning as every prior chapter: this cookbook organizes finished dishes by what they *are*, not by source book. One new condensed technique entry, **[§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)**, covers real balsamic vs. supermarket wine-vinegar imitations, used by [§5.41 Grilled Asparagus](#541-grilled-asparagus). **Two recipes skipped rather than guessed at, both for genuinely incomplete source photos** — a **Sweet and Sour Coleslaw** (book p. 362) whose dressing and slaw ingredient amounts are both cut off mid-line at the page's right margin, with no continuation page in the scan, and an untitled **polenta** recipe (book p. 360) that shows only mid-recipe grilling instructions with no title, headnote, or ingredient list anywhere in the photographed set — see the 2026-09-05 changelog entry for the full accounting of both. **§13 remains a placeholder** — it has stayed one through all six chapters of this project, since every *Meathead* recipe found an obvious home elsewhere in this cookbook's existing structure (§4 for standalone condiments, §5 for vegetable sides, §7 for mains, the T-section for technique). **This closes out the *Meathead* book itself** — Seafood, Pork, Beef, Ground Meats, Chicken & Turkey, and now Sides are all in. See the 2026-09-05 changelog entry for the full accounting.
 
 [↑ Table of Contents](#table-of-contents)
 

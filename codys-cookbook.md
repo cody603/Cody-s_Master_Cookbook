@@ -268,6 +268,9 @@ Click any recipe to jump straight to it.
 - [5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) ✅ *(Salt, Fat, Acid, Heat)*
 - [5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) ✅ *(Salt, Fat, Acid, Heat)*
 - [5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw) ✅ *(Salt, Fat, Acid, Heat; includes Alterna-slaw, Mexi-Slaw, Asian Slaw, and Classic Southern Slaw variations; distinct from [§5.13](#513-north-carolina-coleslaw)/[§5.35](#535-cole-slaw))*
+- [5.54 Sauté: Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) ✅ *(Salt, Fat, Acid, Heat)*
+- [5.55 Steamy Sauté: Garlicky Green Beans](#555-steamy-sauté-garlicky-green-beans) ✅ *(Salt, Fat, Acid, Heat; includes classic French and Indian variations; distinct from [§5.1](#51-green-beans)/[§5.36](#536-lemon-green-beans))*
+- [5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) ✅ *(Salt, Fat, Acid, Heat; includes Confit Large Tomatoes and Artichoke Confit variations)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -406,6 +409,11 @@ Click any recipe to jump straight to it.
 - [7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) ✅ *(Meathead)*
 - [7.123 Kufte Kebabs](#7123-kufte-kebabs) ✅ *(Salt, Fat, Acid, Heat; includes Moroccan Kofta and Turkish Köfte variations)*
 - [7.124 Poulet de France](#7124-poulet-de-france) ✅ ❤️ *(chicken and stuffing casserole; family recipe card, source title not visible in photo; crockpot doubled method is Cody's featured version, oven freezer-casserole method included as a variation)* ⚠️
+- [7.125 Beer-Battered Fish](#7125-beer-battered-fish) ✅ *(Salt, Fat, Acid, Heat; includes Fritto Misto and Gluten-Free Batter variations)*
+- [7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) ✅ *(Salt, Fat, Acid, Heat; *Poulet au Vinaigre*)*
+- [7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) ✅ *(Salt, Fat, Acid, Heat; includes a Persian Roast Chicken variation — the entry [§5.49](#549-persian-ish-rice)/[§4.155](#4155-herbed-yogurt) were waiting on)*
+- [7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) ✅ *(Salt, Fat, Acid, Heat)*
+- [7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) ✅ *(Salt, Fat, Acid, Heat; "A Lesson in Layering Acid")*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -449,6 +457,7 @@ Click any recipe to jump straight to it.
 - [8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) ✅ *(Salt, Fat, Acid, Heat; includes Spring Garlic Soup and Pho Gà variations)*
 - [8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup) ✅ *(Salt, Fat, Acid, Heat)*
 - [8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) ✅ *(Salt, Fat, Acid, Heat; includes the general vegetable-soup formula and no-cook Chilled Cucumber and Yogurt Soup)*
+- [8.40 Chicken Stock](#840-chicken-stock) ✅ *(Salt, Fat, Acid, Heat; includes a Beef Stock variation)*
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -557,6 +566,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Vegetables/Stock/Mains batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the second batch from this same 50-page source PDF today, picking up right after the Salsas & Yogurt Sauces batch below. **Two more batches from this same scan are still coming: Doughs/Emulsions/Mayo/Pesto, and Sweets.** **Four new condensed technique entries** added to the Techniques quick index, continuing from [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula): **[§T85](#t85-cooking-onions--blond-browned-caramelized) Cooking Onions — Blond, Browned, Caramelized** (cross-references [§8.39 Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)'s existing "blond" explanation and [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar)'s browned-onion base; names a Caramelized Onion Tart, a Chicken with Lentil Rice, and a Chicken with Sweet Onion Soup, none yet in this cookbook), **[§T86](#t86-three-ways-to-cook-grains-and-quinoa) Three Ways to Cook Grains (and Quinoa)** (the source's steam method plus its hand-illustrated grain:water ratio chart — read as closely as the cup icons allow and flagged where a ratio runs low against convention, especially polenta), **[§T87](#t87-stock--saving-scraps-for-the-pot) Stock — Saving Scraps for the Pot** (the chapter intro behind [§8.40](#840-chicken-stock)), and **[§T88](#t88-braise--the-six-step-method) Braise — The Six-Step Method** (condensed from the source's illustrated Salt/Brown/Build/Boil/Simmer/Serve diagram; cross-references rather than duplicates [§T32 How to Use Heat](#t32-how-to-use-heat)'s braising-temperature row and this cookbook's existing braises). **Three full vegetable recipes** added to [§5 Vegetables & Sides](#5-vegetables--sides), continuing after [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw): **[§5.54](#554-sauté-snap-peas-with-chilies-and-mint) Sauté: Snap Peas with Chilies and Mint**, **[§5.55](#555-steamy-sauté-garlicky-green-beans) Steamy Sauté: Garlicky Green Beans** (classic French and Indian variations — **distinct from [§5.1 Green Beans](#51-green-beans)** and **[§5.36 Lemon Green Beans](#536-lemon-green-beans)**, both kept), and **[§5.56](#556-cherry-tomato-confit) Cherry Tomato Confit** (Confit Large Tomatoes and Artichoke Confit variations folded in — no existing tomato confit in this cookbook). **One stock recipe** added as **[§8.40](#840-chicken-stock) Chicken Stock** (Beef Stock variation), unblocking the "Chicken Stock, page 271" citation [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) has carried since an earlier batch — kept alongside, not replacing, [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) and [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood). **Confirmed already present, not re-added:** [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), encountered again in this batch's page range — already fully written up from an earlier batch, skipped here. **Five full mains** added to [§7 Mains & Proteins](#7-mains--proteins), continuing after [§7.124 Poulet de France](#7124-poulet-de-france): **[§7.125](#7125-beer-battered-fish) Beer-Battered Fish** (Fritto Misto and Gluten-Free Batter variations; rated 🟡 Medium for real deep-frying technique risk), **[§7.126](#7126-chicken-with-vinegar) Chicken with Vinegar** (*Poulet au Vinaigre*; rated 🟡 Medium for a cream pan sauce that can break or over-reduce), **[§7.127](#7127-buttermilk-marinated-roast-chicken) Buttermilk-Marinated Roast Chicken** (rated 🟢 Easy — no step here can genuinely fail), and **[§7.128](#7128-glazed-five-spice-chicken) Glazed Five-Spice Chicken** (rated 🟡 Medium for a high-heat glaze that can scorch fast), and **[§7.129](#7129-pasta-alle-vongole) Pasta alle Vongole** (subtitled by the source itself "A Lesson in Layering Acid"; presented in the source as an illustrated comic-style page and transcribed here into this cookbook's normal bold-step format; rated 🟡 Medium for clam-timing and sauce-breaking risk; exact clam/pasta quantities weren't printed on the source's illustrated page, so this cookbook's own reasonable estimate is used and flagged in that entry's Open Questions). **The Persian Roast Chicken cross-reference retrofit, completed:** [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken)'s own Persian Roast Chicken variation (saffron tea stirred into yogurt in place of buttermilk) is exactly the dish [§5.49 Persian-ish Rice](#549-persian-ish-rice) (both its headnote pairing and its Fava Bean and Dill Rice variation) and [§4.155 Herbed Yogurt](#4155-herbed-yogurt) have been citing as "not yet in this cookbook" since earlier batches — all three are now updated to link to [§7.127](#7127-buttermilk-marinated-roast-chicken) instead. **Three more "not yet in this cookbook" cross-references closed the same way:** [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa) and [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s mentions of "Beer-Battered Fish" now link to [§7.125](#7125-beer-battered-fish); [§4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa) and [§4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa)'s mentions of "Glazed Five-Spice Chicken" now link to [§7.128](#7128-glazed-five-spice-chicken). [§7.128](#7128-glazed-five-spice-chicken) also cross-links its own two serving suggestions: [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) (already in this cookbook) and Steamed Jasmine Rice (not written up as its own recipe, but its ratio is now in [§T86](#t86-three-ways-to-cook-grains-and-quinoa)). **Jargon explained inline per Cody's standing request:** the blond/browned/caramelized onion stages at [§T85](#t85-cooking-onions--blond-browned-caramelized); Manila vs. littleneck clams (size and brininess) at [§7.129](#7129-pasta-alle-vongole); why pasta water helps finish a sauce (starch) at [§7.129](#7129-pasta-alle-vongole); the vodka-reduces-gluten trick and 365°F deep-frying sweet spot at [§7.125](#7125-beer-battered-fish); why an emulsified (boiled) stock is a flaw rather than a virtue, unlike most emulsions, at [§8.40](#840-chicken-stock); and the six-step braise shape at [§T88](#t88-braise--the-six-step-method), cross-referenced from [§7.126](#7126-chicken-with-vinegar) rather than re-explained. **Difficulty ratings used judgment per the task's own guidance** rather than defaulting to Easy: both roast chickens ([§7.127](#7127-buttermilk-marinated-roast-chicken)) that have no fail-prone step are 🟢 Easy, while the two that do — a cream reduction ([§7.126](#7126-chicken-with-vinegar)) and a high-heat sugar glaze ([§7.128](#7128-glazed-five-spice-chicken)) — are 🟡 Medium, matching this cookbook's established technique-risk test rather than the source's own recipe order. TOC, Difficulty & Time Index (sorted by prep+cook), and [§17 Meats & Cuts](#17-meats--cuts-reference-index) (new lines for chicken with vinegar, buttermilk/Persian roast chicken, five-spice chicken, chicken bones, and beef knuckle/marrow bones) all updated. All nine new full recipes' Nutrition blocks are estimated from ingredient lists and labeled as such; none print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md). |
 | 2026-09-06 | **Salsas & Yogurt Sauces batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this same source's three prior batches ([§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs) among them; [§4.134](#4134-creamy-caesar-dressing)–[§4.145](#4145-tahini-dressing); [§5.50](#550-vietnamese-cucumber-salad)–[§5.53](#553-bright-cabbage-slaw)). **This same 50-page source PDF covers six different categories; this batch handles only the salsas and yogurt sauces pages (book p. 358–373) — more batches from the same scan are still coming, for the vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages.** **Thirteen full recipes and one condensed technique entry added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.145 Tahini Dressing](#4145-tahini-dressing): **[§4.146](#4146-basic-salsa-verde) Basic Salsa Verde** (with Bread Crumb Salsa, Classic Italian Salsa Verde, and Mint Salsa Verde variations folded in — **distinct from the existing [§4.47 Salsa Verde](#447-salsa-verde)**, a cooked tomatillo salsa from a different book entirely), **[§4.147](#4147-classic-french-herb-salsa) Classic French Herb Salsa**, **[§4.148](#4148-mexican-ish-herb-salsa) Mexican-ish Herb Salsa** (Pumpkin Seed Salsa variation), **[§4.149](#4149-southeast-asian-ish-herb-salsa) Southeast Asian-ish Herb Salsa**, **[§4.150](#4150-japanese-ish-herb-salsa) Japanese-ish Herb Salsa** — these five are all the same [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) formula wearing different herb-and-acid signatures — **[§4.151](#4151-meyer-lemon-salsa) Meyer Lemon Salsa** (Olive and Feta Relish variations), **[§4.152](#4152-north-african-charmoula) North African Charmoula**, **[§4.153](#4153-indian-coconut-cilantro-chutney) Indian Coconut-Cilantro Chutney** (**distinct from the existing [§4.48 Cilantro Chutney](#448-cilantro-chutney)**, which has no coconut and comes from a different book), **[§4.154](#4154-salmoriglio-sicilian-oregano-sauce) Salmoriglio (Sicilian Oregano Sauce)** (Argentinian Chimichurri variation — **distinct from the salmoriglio already embedded in [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)**, a leaner standalone version rather than that recipe's own full-cup-of-oil sauce; and this cookbook's fourth chimichurri alongside [§4.44](#444-three-herb-chimichurri)/[§4.94](#494-red-chimichurri)/[§4.95](#495-dry-chimichurri)), **[§4.155](#4155-herbed-yogurt) Herbed Yogurt** (Indian Carrot Raita variation, with the source's "Yogurt Sauce" section intro folded in as headnote), **[§4.156](#4156-persian-herb-and-cucumber-yogurt) Persian Herb and Cucumber Yogurt**, **[§4.157](#4157-borani-esfenaj-persian-spinach-yogurt) Borani Esfenaj (Persian Spinach Yogurt)**, and **[§4.158](#4158-mast-o-laboo-persian-beet-yogurt) Mast-o-Laboo (Persian Beet Yogurt)**. **One new condensed technique entry, [§T84 Salsa Math — The Herb Salsa Formula](#t84-salsa-math--the-herb-salsa-formula)**, added to the Techniques quick index — the source's own handwritten "chopped herbs + salt + olive oil to cover + shallots macerated in acid = herb salsa" diagram, condensed here since it's the underlying method all five regional herb salsas share, rather than repeated in each recipe. **One variation checked carefully and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos: Fried Sage Salsa Verde**, a named variation on [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) — its only real instruction ("follow the instructions on page 233 for frying sage") points to a source page that wasn't among those photographed for this batch, so the frying method itself is genuinely missing, not just tightly cropped; named in [§4.146](#4146-basic-salsa-verde)'s notes for completeness, not written up as its own entry. **Rated 🟢 Easy across the board** — every recipe in this batch is chopping, macerating, whisking, blending, or a brief spice-toast/sauté, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test; even [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt)'s hour-long beet roast is unattended oven time with a wide doneness window, not a failure-prone step, and it lands in the **Cook** column rather than Slow cook per [CLAUDE.md §3a](CLAUDE.md)'s roughly-2-hour rule of thumb, matching this cookbook's existing [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) precedent for the same technique. **Jargon explained inline per Cody's standing request:** macerating shallots (and, at [§4.151](#4151-meyer-lemon-salsa), a whole diced Meyer lemon) in acid to mellow harsh raw bite — explained in full at [§4.146](#4146-basic-salsa-verde) and [§T84](#t84-salsa-math--the-herb-salsa-formula), cross-referenced afterward and to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick," the same source-page gap (page 118) [§4.135](#4135-creamy-herb-dressing) already flagged and resolved via T31 in the prior batch; what makes each "-ish" salsa read as French, Mexican-ish, Southeast Asian-ish, or Japanese-ish, in the book's own herb-and-acid logic, explained at [§T84](#t84-salsa-math--the-herb-salsa-formula); chutney vs. salsa as a difference of texture and tradition (blended smooth vs. knife-chopped chunky) rather than ingredients, explained at [§4.153](#4153-indian-coconut-cilantro-chutney); and tempering (*tadka*) — briefly frying whole spices in hot fat to bloom their aromatic oils — explained at [§4.155](#4155-herbed-yogurt)'s Indian Carrot Raita variation and cross-referenced to [§4.153](#4153-indian-coconut-cilantro-chutney)'s toasted cumin. **This cookbook's [§7.123 Kufte Kebabs](#7123-kufte-kebabs) entry updated** to link its own "Persian Herb Yogurt (not yet in this cookbook)" and "Charmoula (neither yet in this cookbook)" notes to [§4.156](#4156-persian-herb-and-cucumber-yogurt) and [§4.152](#4152-north-african-charmoula) now that both gaps are filled. Many serving suggestions naming dishes not yet in this cookbook (Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Finger-Lickin' Pan-Fried Chicken, Chicken Confit, Spicy Brined Turkey Breast, Glazed Five-Spice Chicken, Spicy Brined Pork Loin, Indian-Spiced Salmon, Indian-Spiced Fried Chicken, Pork Braised with Chiles, Beer-Battered Fish, English Pea Soup, Silky Sweet Corn Soup, *Adas Polo*, Persian Roast Chicken, Grilled Artichokes, Avocado Salad, Carrot Soup) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.49 Persian-ish Rice](#549-persian-ish-rice), [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — it's cross-linked instead. None of the thirteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the salsas/chutney/salmoriglio/charmoula and "¼ cup" for the yogurt sauces. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Salads & Vinaigrettes/Dressings batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this week's two prior batches ([§8.37](#837-chicken-and-garlic-soup)–[§4.134](#4134-creamy-caesar-dressing); [§5.49 Persian-ish Rice](#549-persian-ish-rice)–[§14.23](#1423-fresh-ginger-and-molasses-cake)). **This same 50-page source PDF covers six different categories; this batch handles only the salads and vinaigrettes/dressings pages — more batches from the same scan are coming for the salsas/yogurt sauces, vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages still to be transcribed.** **Four composed salads added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.49 Persian-ish Rice](#549-persian-ish-rice): **[§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad)** (p. 226, one of the source's "Three Classic Shaved Salads" — its intro on shaved salads generally is folded in as headnote context rather than spun into its own technique entry, since only one of the three salads was among the photographed pages), **[§5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint)** (p. 235, built on a double batch of the new [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette)), **[§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber)** (p. 231, built on a double batch of the new [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette)), and **[§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)** (p. 244–245, with Alterna-slaw, Mexi-Slaw, Asian Slaw, and Classic Southern Slaw variations folded in as callouts, matching this cookbook's established precedent for a source's own variations) — **kept distinct from this cookbook's two existing slaws**, [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) and [§5.35 Cole Slaw](#535-cole-slaw), both cross-referenced rather than treated as duplicates. **Eleven vinaigrettes and dressings added to [§4](#4-rubs-seasonings-sauces--condiments)**, continuing from [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing): **[§4.135](#4135-creamy-herb-dressing) Creamy Herb Dressing**, **[§4.136](#4136-any-other-citrus-vinaigrette) Any-Other-Citrus Vinaigrette** (Kumquat Vinaigrette variation), **[§4.137](#4137-tomato-vinaigrette) Tomato Vinaigrette**, **[§4.138](#4138-red-wine-vinaigrette) Red Wine Vinaigrette** (Honey-Mustard variation), **[§4.139](#4139-balsamic-vinaigrette) Balsamic Vinaigrette** (Parmesan and Brown Butter variations — cross-linked to the existing [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying)), **[§4.140](#4140-lemon-vinaigrette) Lemon Vinaigrette** (Lemon-Anchovy variation), **[§4.141](#4141-lime-vinaigrette) Lime Vinaigrette** (spicy jalapeño variation), **[§4.142](#4142-rice-wine-vinaigrette) Rice Wine Vinaigrette** (heat and toasted-sesame-oil variations — used by [§5.53](#553-bright-cabbage-slaw)'s Asian Slaw), **[§4.143](#4143-miso-mustard-dressing) Miso-Mustard Dressing**, **[§4.144](#4144-green-goddess-dressing) Green Goddess Dressing**, and **[§4.145](#4145-tahini-dressing) Tahini Dressing** (Goma-Ae/Japanese sesame seed dressing variation). **One recipe checked very carefully and skipped rather than guessed at, per Cody's specific advance concern: Peanut-Lime Dressing (p. 249, facing Miso-Mustard Dressing).** This is genuinely cut off in the source photograph, not just a tight framing crop — the photo is already the full width of the page, and the right-hand page itself is curled/bent away from the camera in a way no wider crop of the same image recovers; every ingredient line and instruction line is truncated mid-word ("¼ cup fres...," "1 tablespo...," "Optiona..."). Named and described here, not invented. **Rated 🟢 Easy across the board** — every one of these fifteen recipes is whisking, shaking, or tossing together raw or pre-macerated ingredients, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, not even [§5.51](#551-spring-asparagus-and-feta-with-mint)'s brief asparagus blanch. **Two source gaps flagged rather than invented, both already-established gaps at [§4.134](#4134-creamy-caesar-dressing):** "Torn Croutons" (source p. 236), called for in [§5.51](#551-spring-asparagus-and-feta-with-mint) and [§5.52](#552-summer-tomato-basil-and-cucumber), gets the same torn-and-toasted-bread stand-in noted there; "Basic Mayonnaise" (source p. 375) and its stiffened "Classic Sandwich Mayo" relative, called for in [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing) and [§5.53](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, get the same store-bought-or-[§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) stand-in. **Jargon explained inline per Cody's standing request, each on first use and cross-referenced afterward:** shaved salad and mandoline slicing ([§5.50](#550-vietnamese-cucumber-salad)), "stripey peeling" a cucumber or asparagus stalk — alternating peeled and unpeeled strips for color, crunch, and better dressing cling — explained fresh since the source's own instructional page (220) wasn't photographed ([§5.50](#550-vietnamese-cucumber-salad), cross-referenced at [§5.51](#551-spring-asparagus-and-feta-with-mint)/[§5.52](#552-summer-tomato-basil-and-cucumber)), macerating shallots and onions in acid to mellow their bite — cross-referenced to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick" rather than re-explained, since this cookbook already carries that content in full (the source's own "see page 118" cross-reference wasn't among the photographed pages, but T31 already has the technique) — why a vinaigrette needs shaking or whisking to hold its emulsion, cross-referenced to the existing [§T30 How to Use Fat](#t30-how-to-use-fat) rather than re-explained, smashing a garlic clove with the palm of the hand, explained in full at [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) and cross-referenced at [§4.140](#4140-lemon-vinaigrette)/[§4.141](#4141-lime-vinaigrette)/[§4.142](#4142-rice-wine-vinaigrette), and tasting a dressing "with a leaf of lettuce" rather than off the spoon — because the thin coating amount matters more than the dressing's standalone flavor — cross-referenced to [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), which already explains it. **Crème fraîche, called for in [§4.135](#4135-creamy-herb-dressing), resolves cleanly rather than becoming a third open gap** — the source's own recipe for it (page 113) turns out to already be in this cookbook, condensed at [§T31](#t31-how-to-use-acid)'s "Making your own crème fraîche," from the same original Acid-chapter condensation pass. Several serving suggestions naming salads not yet in this cookbook (Avocado Salad, Caprese Salad, *Shirazi* Salad, Fattoush, Grain or Bean Salad, Panzanella, Shaved Fennel and Radish Salad, Shaved Carrot Salad, Beer-Battered Fish, Spicy Fried Chicken, Slow-Roasted Salmon) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) — it's cross-linked instead. None of the fifteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the eleven dressings and a normal salad-plate portion for the four composed salads. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Two unrelated family recipes added from personal recipe cards/photos: [§7.124 Poulet de France](#7124-poulet-de-france)** (a chicken-and-stuffing casserole — new section, appended after [§7.123 Kufte Kebabs](#7123-kufte-kebabs)) **and [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes)** (filling in an existing placeholder rather than creating a new section — the title and section number were already reserved in the Table of Contents). **[§7.124 Poulet de France]** is transcribed from a printed page of an unidentified community/church-style cookbook — **the source book's own title wasn't visible in the photo, so it's cited as "source cookbook title not visible in photo; family recipe card" rather than guessed** — with Cody's own handwritten red-ink adaptation notes in the margins. Per Cody: *"Add this stuffing - it's awesome. Family favorite."* **Two methods are documented, and the crockpot one is featured as primary** because it's the one the family actually uses: Cody doubles the printed single-batch recipe and assembles it directly in a 7-quart crockpot with **no freeze-first step** (confirmed with Cody — the printed card's own method freezes the assembled casserole before baking; his crockpot version skips that entirely and cooks straight away), run **on high 1 hr 20 min, then down to low for as long as he's out of the house — his own example is a church service — then back to high until the rest of the meal is ready.** The original single-batch oven method (assemble, cover, freeze, thaw overnight, bake covered 30 min at 325°F, then uncovered with cheddar for 10 more) is kept as a clearly labeled variation for anyone without a crockpot or making a smaller batch ahead. **Rated 🟢 Easy** — an assemble-and-cook casserole either way, no step that can genuinely fail, matching this cookbook's crockpot precedent ([§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans), [§8.1 Chili Mac](#81-chili-mac)). Its multi-hour crockpot stretch is filed entirely under **Slow cook**, not Cook, per [CLAUDE.md §3a](CLAUDE.md). **Two flags left in place rather than resolved by guessing:** the oven method's step-by-step wording was transcribed from an awkwardly rotated photo and is marked ⚠️ reconstructed, worth checking against the physical card; and the broth quantities on Cody's handwritten doubling notes are written across two different boxes on the card in a way that doesn't map cleanly onto which mixing step each addition belongs to — resolved here by doubling the printed recipe's own two broth additions separately (1¼ cups → 2½ cups for the stuffing, ¾ cup → 1½ cups for the egg-milk-soup sauce, totaling a clean 4 cups), noted explicitly in the entry rather than left ambiguous. Cranberry Tea and cooked frozen peas, both named on the card as serving suggestions, are flagged as pairings rather than invented as recipes. **No duplicate found** — this cookbook had no existing chicken-and-stuffing casserole before this entry. **[§5.25 Heather's Mashed Potatoes]** is transcribed from a handwritten card headed "From the Kitchen of: Joetta, To: Geviene" — that provenance is noted in the entry itself, distinct from the dish name Cody uses for it. A make-ahead mashed potato casserole (10 lb potatoes mashed with milk and butter, enriched with cream cheese and sour cream, topped with melted butter, baked at 300°F) that the card itself says "freezes well." **Rated 🟢 Easy**, same reasoning — nothing in an assemble-and-bake casserole can fail on you. **Two figures the card leaves blank are flagged rather than invented:** no serving count ("Serves:" left empty — estimated at 12–16, stated as an estimate) and no bake time (only the 300°F oven temperature is given — a 45–60 minute estimate is reasoned from baking already-cooked potatoes through at a low, gentle temperature, not copied from the card). Milk and butter amounts for the initial mashing step also aren't specified on the card and are flagged the same way. **No duplicate found** — this cookbook's only other potato-forward casseroles ([§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole), [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes)) are a sweet-potato holiday side and a cauliflower keto substitute respectively, both genuinely different dishes. Neither new recipe prints net carbs, so neither is tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Family Ratings Index (❤️ count now 56, adding [§7.124](#7124-poulet-de-france)) updated throughout. |
@@ -817,6 +827,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) *(Meathead)* | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
+| [§5.54 Sauté: Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) | 🟢 | 5 min | 6 min | — | 15 min |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§4.101 Basic Brinerade](#4101-basic-brinerade) | 🟢 | 15 min | — | — | 15 min active *(+ brining time per §T37)* |
 | [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) | 🟢 | 15 min | — | — | 15 min |
@@ -879,6 +890,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.21 Sautéed Kale](#521-sautéed-kale) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§T1 How to Make a Roux](#t1-how-to-make-a-roux) | 🔴 | 10 min | 5 min | — | 15 min |
 | [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) | 🟢 | 15 min | — | **4 hr** *(simmer)* | 4 hr 15 min |
+| [§8.40 Chicken Stock](#840-chicken-stock) | 🟢 | 15 min | — | **6–8 hr** *(simmer)* | 6–8 hr 15 min |
 | [§4.23 Remoulade Sauce](#423-remoulade-sauce) | 🟡 | 15 min | — | — | 15 min |
 | [§7.85 Hanger Steak with Duck Fat Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) | 🟢 | 5 min | 10 min | **4 hr** *(sous vide, unattended)* | 4 hr 15 min |
 | [§T21 Preserved Lemons (Meyer or Regular)](#t21-preserved-lemons-meyer-or-regular) | 🟢 | 15 min | — | **~1 month** *(cures in the jar, unattended)* | ~1 month |
@@ -931,6 +943,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) *(Meathead)* | 🟡 | 20 min | — | **3–4 hr** *(under a rack of ribs on the smoker, stirred occasionally)* | ~4 hr |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§5.55 Steamy Sauté: Garlicky Green Beans](#555-steamy-sauté-garlicky-green-beans) | 🟢 | 10 min | 11 min | — | 20 min |
 | [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) | 🟢 | 20 min | — | — | 20 min |
 | [§7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) *(Meathead)* | 🟡 | 5 min | 15 min | — | 1 hr 20 min *(+ 1 hr fridge dry-brine)* |
 | [§9.29 Deer Jerky](#929-deer-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
@@ -1033,6 +1046,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
 | [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
+| [§7.125 Beer-Battered Fish](#7125-beer-battered-fish) | 🟡 | 20 min | 15 min | — | 35 min |
 | [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) | 🟡 | 25 min | 10 min | — | 35 min |
 | [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) | 🟢 | 15 min | 20 min | **2–3 hr** *(sous vide, unattended)* | 2 hr 35 min – 3 hr 35 min |
 | [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) | 🟡 | 10 min | 25 min | — | 35 min |
@@ -1054,6 +1068,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) | 🟡 | 20 min | 20 min | **3 hr** *(sous vide, unattended)* | ~5¾–6¾ hr *(includes an ice bath + 2–3 hr fridge rest before frying — not active work)* |
 | [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 40 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
+| [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
 | [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
 | [§8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) | 🟡 | 20 min | 20 min | — | 40 min |
@@ -1128,6 +1143,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) | 🟢 | 10 min | — | **3–7 hr** *(slow cooker)* | 3 hr 10 min – 7 hr 10 min |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
+| [§5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.58 Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | 🟡 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -1157,10 +1173,12 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger) *(Meathead)* | 🟡 | 20 min | 30 min | — | 50 min |
 | [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§5.49 Persian-ish Rice](#549-persian-ish-rice) | 🟡 | 15 min | 55 min | — | 1 hr 10 min |
+| [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) | 🟡 | 15 min | 55 min | — | 1 hr 15 min *(+ overnight marinate)* |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
+| [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) | 🟢 | 15 min | 1 hr | — | 1 hr 25 min *(+ overnight buttermilk marinate)* |
 | [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
 | [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt) | 🟢 | 15 min | 1 hr *(roasting the beets, unattended)* | — | 1 hr 15 min |
 | [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(Meathead)* | 🟢 | 45 min | 30 min | — | 1 hr 15 min |
@@ -1170,6 +1188,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) | 🟢 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.62 Catfish Étouffée](#762-catfish-étouffée) | 🟡 | 25 min | 1 hr 5 min | — | 1 hr 30 min |
+| [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) | 🟡 | 15 min | 1 hr 15 min | — | 1 hr 30 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
@@ -10373,7 +10392,7 @@ Use a slotted spoon to add the shallot — not its lime juice yet — to the her
 
 Cover and refrigerate leftovers for up to 3 days.
 
-**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Silky Sweet Corn Soup, Simmered Beans, Slow-Roasted Salmon, fish tacos made with Beer-Battered Fish, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, and Pork Braised with Chiles — none of these eight are documented in this cookbook yet, so noted rather than invented.
+**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Silky Sweet Corn Soup, Simmered Beans, Slow-Roasted Salmon, fish tacos made with [§7.125 Beer-Battered Fish](#7125-beer-battered-fish), Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, and Pork Braised with Chiles — the Beer-Battered Fish gap noted here has since been filled by this cookbook's Vegetables/Stock/Mains batch; the other six aren't documented in this cookbook yet, so noted rather than invented.
 
 > **Variation — Crunch.** Add 3 tablespoons pomegranate seeds, or finely diced cucumber, cabbage, or jicama.
 
@@ -10441,7 +10460,7 @@ Use a slotted spoon to add the shallot — not its lime juice yet — to the her
 
 Cover and refrigerate leftovers for up to 3 days.
 
-**Serving suggestions:** As a garnish for soup or a marinade for meats; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Glazed Five-Spice Chicken, Spicy Brined Pork Loin, and Grilled Skirt or Rib Eye Steak — none of these seven are documented in this cookbook yet, so noted rather than invented.
+**Serving suggestions:** As a garnish for soup or a marinade for meats; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken), Spicy Brined Pork Loin, and Grilled Skirt or Rib Eye Steak — the Glazed Five-Spice Chicken gap noted here has since been filled by this cookbook's Vegetables/Stock/Mains batch; the other five aren't documented in this cookbook yet, so noted rather than invented.
 
 #### C. Grocery Shopping List
 
@@ -10782,7 +10801,7 @@ Refrigerate, covered, for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 370), opening the "Yogurt Sauce" section of her Sauces chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.146](#4146-basic-salsa-verde)–[§4.154](#4154-salmoriglio-sicilian-oregano-sauce). The source's own section intro is folded in below as headnote context rather than spun into a separate technique entry, matching this cookbook's precedent for a source's short section intro (see [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad)'s handling of the "shaved salads" intro from the same book).
 
-> **On yogurt sauces, per the source:** *"I grew up spooning yogurt on everything—including, embarrassingly, pasta!—not so much for its flavor, but because it was a handy way to cool down the steaming-hot food I usually couldn't wait to eat. Eventually, I grew to love yogurt for its creaminess and acidity, and the way it complements rich and oily dishes equally well."* Serve these yogurt sauces alongside Indian-Spiced Salmon, *Adas Polo*, Grilled Artichokes, Persian Roast Chicken, or [§5.49 Persian-ish Rice](#549-persian-ish-rice) — only the last of these is in this cookbook so far, so the rest are noted rather than invented — or bring them to the table as a dip for crunchy raw vegetables or warm flatbread. **Labne** is a thick, tangy strained yogurt, popular across the Middle East — the source starts with labne or Greek yogurt for these sauces, since straining off the whey concentrates both the tang and the body, but any plain yogurt works; it'll just run a little looser.
+> **On yogurt sauces, per the source:** *"I grew up spooning yogurt on everything—including, embarrassingly, pasta!—not so much for its flavor, but because it was a handy way to cool down the steaming-hot food I usually couldn't wait to eat. Eventually, I grew to love yogurt for its creaminess and acidity, and the way it complements rich and oily dishes equally well."* Serve these yogurt sauces alongside Indian-Spiced Salmon, *Adas Polo*, Grilled Artichokes, [§7.127 Persian Roast Chicken](#7127-buttermilk-marinated-roast-chicken), or [§5.49 Persian-ish Rice](#549-persian-ish-rice) — the Persian Roast Chicken gap noted here has since been filled by this cookbook's Vegetables/Stock/Mains batch; the rest are still noted rather than invented — or bring them to the table as a dip for crunchy raw vegetables or warm flatbread. **Labne** is a thick, tangy strained yogurt, popular across the Middle East — the source starts with labne or Greek yogurt for these sauces, since straining off the whey concentrates both the tang and the body, but any plain yogurt works; it'll just run a little looser.
 
 **Makes 1¾ cups**
 
@@ -11103,6 +11122,10 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T82](#t82-how-to-carve-a-turkey) | How to Carve a Turkey | `meathead` `turkey` `carving` |
 | [T83](#t83-about-balsamic--grades-and-buying) | About Balsamic — Grades and Buying | `meathead` `balsamic` `vinegar` `buying-guide` `condiments` |
 | [T84](#t84-salsa-math--the-herb-salsa-formula) | Salsa Math — The Herb Salsa Formula | `salsa` `herb-sauce` `macerating` `salsa-verde` `chutney` `condiment` `formula` |
+| [T85](#t85-cooking-onions--blond-browned-caramelized) | Cooking Onions — Blond, Browned, Caramelized | `onions` `blond` `browned` `caramelized` `alliums` `vegetables` |
+| [T86](#t86-three-ways-to-cook-grains-and-quinoa) | Three Ways to Cook Grains (and Quinoa) | `grains` `rice` `quinoa` `steam-method` `ratios` `basmati` `jasmine` `arborio` `polenta` `oats` |
+| [T87](#t87-stock--saving-scraps-for-the-pot) | Stock — Saving Scraps for the Pot | `stock` `broth` `scraps` `freezer` `bones` `zero-waste` |
+| [T88](#t88-braise--the-six-step-method) | Braise — The Six-Step Method | `braise` `braising` `technique` `stew` `pot-roast` `dutch-oven` |
 
 ---
 
@@ -15245,6 +15268,103 @@ A do's-and-don'ts list, straight from the book:
 
 ---
 
+### T85. Cooking Onions — Blond, Browned, Caramelized
+
+<!-- TECHNIQUE-TAGS: onions, blond, browned, caramelized, alliums, vegetables -->
+**Tags:** `onions` · `blond` · `browned` · `caramelized` · `alliums` · `vegetables`
+**Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** — opening page of her "Vegetables" recipe section (book p. 254–255), the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat). Condensed and paraphrased from the source's own page, matching how [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) already handle this book.
+**Used in:** [§8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) (blond onions, already explained there in the same terms); [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) (browned). The source itself cross-references a Caramelized Onion Tart, a Chicken with Lentil Rice, and a Chicken with Sweet Onion Soup — none of these three are documented in this cookbook yet, so noted rather than invented.
+
+**The general rule: cook onions the way you intend to use them, and no further.** The longer onions cook, the deeper and sweeter their flavor gets — but a dish that wants a light color and a clean onion note doesn't need the same treatment as a French onion soup base. Match the stage to the dish rather than always reaching for the darkest, longest-cooked onion.
+
+**Blond — about 15 minutes.** Cooked over medium heat until soft and just starting to turn translucent, without taking on any real color. This is the stage for a dish where the onion should melt into the background rather than announce itself — [§8.39 Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) already uses this exact word the same way: pale golden rather than actually browned, a different use of "blond" than a dark Cajun roux ([§T1](#t1-how-to-make-a-roux)) has nothing to do with. If the onions start to catch and brown before they've softened, a splash of water into the pan cools things down and buys more time before color develops.
+
+**Browned — about 25 minutes.** Carried further, to the edge of true browning — golden, with real depth starting to build. This is the workhorse stage for pasta sauces, soups, and braises that want a rounder, sweeter onion flavor without going all the way to jammy — [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) uses this stage for its pan sauce. The source also uses it for a Caramelized Onion Tart and a Chicken with Lentil Rice — neither documented in this cookbook yet, so noted rather than invented.
+
+**Caramelized — about 45 minutes, or longer.** Onions cooked low and slow until they collapse into a deep amber-brown, jammy mass — the sugars naturally present in the onion browning the same way any sugar does at high enough heat (see [§T32 How to Use Heat](#t32-how-to-use-heat) on caramelization). Since the payoff takes so long, it's worth making more than one recipe's worth at a time — extra caramelized onions keep well and turn a burger, a steak sandwich, or a bowl of dip into something better with almost no extra work later in the week. The source uses this stage for a Chicken with Sweet Onion Soup — not documented in this cookbook yet, so noted rather than invented. **Don't rush it with high heat** — onions caramelized too fast scorch before they sweeten; low and slow, stirring occasionally and adding a splash of water if they threaten to stick or burn, is what gets you all the way to sweet instead of bitter.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T86. Three Ways to Cook Grains (and Quinoa)
+
+<!-- TECHNIQUE-TAGS: grains, rice, quinoa, steam-method, ratios, basmati, jasmine, arborio, polenta, oats -->
+**Tags:** `grains` · `rice` · `quinoa` · `steam-method` · `ratios` · `basmati` · `jasmine` · `arborio` · `polenta` · `oats`
+**Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** (book p. 282–283), the same book as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§T85 Cooking Onions](#t85-cooking-onions--blond-browned-caramelized). Quinoa rides along on the same chart despite being a seed rather than a true grain — the source's own footnote calls it out as "a pseudograin."
+**Used in:** [§5.49 Persian-ish Rice](#549-persian-ish-rice) (basmati, though that recipe's own par-boil-then-pan-fry method is a different technique built for *tahdig*); [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken)'s Steamed Jasmine Rice serving suggestion, which isn't written up as its own recipe in this cookbook.
+
+**The steam method, condensed from the source's own text.** Steaming — cooked covered in a measured amount of liquid until it's fully absorbed, rather than boiled in excess water and drained — is the source's preferred everyday method, because the grain gets the chance to absorb the flavor of whatever it's cooked in (water, stock, or coconut milk all work). The method is the same regardless of which grain:
+
+**1. Measure liquid to grain by the chart below**, using whatever liquid you like.
+**2. Bring the liquid to a boil, season it generously with salt, and stir in the grain.**
+**3. Reduce to a very gentle simmer, cover, and cook until all the liquid is absorbed and the grains are tender.** Times vary by grain — check the pot toward the end rather than trusting a fixed clock.
+**4. Off the heat, let it rest, covered, for about 10 minutes**, then fluff with a fork before serving.
+
+**Never stir the grain while it cooks** — stirring releases starch and makes it gummy. The one exception, per the source, is **risotto (arborio rice)**, which is "an entirely different story": rather than one measured addition of liquid, hot stock is added gradually, a ladleful at a time, while stirring constantly — the stirring itself is what releases arborio's starch on purpose, building risotto's characteristic creamy texture. Arborio doesn't get a fixed ratio below for that reason; it isn't cooked by the absorption method at all.
+
+**Rule of thumb for how much to make:** 1 cup of uncooked rice serves 2 to 3 people.
+
+**Grain : water ratios, from the source's own chart** *(a hand-illustrated cup diagram rather than printed numbers — read as closely as the icons allow; verify against the physical page if a ratio looks off, especially polenta, which conventionally wants more liquid than shown here)*:
+
+| Grain | Ratio (grain : liquid) |
+|---|---|
+| Sushi rice | 1 : 1 |
+| Basmati rice (and other long-grain white rice) | 1 : 2 |
+| Jasmine rice | 1 : 2 |
+| Brown rice | 1 : 3 |
+| Quinoa | 1 : 2 |
+| Steel-cut oats | 1 : 3 |
+| Rolled oats | 1 : 2 |
+| Polenta / grits | 1 : 2 *(as illustrated — see the caveat above)* |
+| Arborio rice | not a fixed ratio — see the risotto note above |
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T87. Stock — Saving Scraps for the Pot
+
+<!-- TECHNIQUE-TAGS: stock, broth, scraps, freezer, bones, zero-waste -->
+**Tags:** `stock` · `broth` · `scraps` · `freezer` · `bones` · `zero-waste`
+**Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** (book p. 270), opening her "Stock and Soups" chapter — the same book as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup).
+**Used in:** [§8.40 Chicken Stock](#840-chicken-stock) — the recipe this practice feeds; distinct from this cookbook's other stock formulas at [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) and [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) (Prudhomme's *Louisiana Kitchen*), which cover the same ground from a different source.
+
+**With stock on hand, dinner is always within reach** — a fast dinner made from bread and stock, or grains cooked in it, delivers flavor and body without leaning on meat for either, on top of the endless braises, soups, and stews a good stock only improves.
+
+**The habit, condensed from the source:** every time you roast or cook a chicken, save the neck, backbone, feet, and wingtips (and the backbone itself, when spatchcocking) into a bag in the freezer, then add the picked-over carcass once the meal is done. One chicken carcass isn't really enough to warrant a whole pot of stock, so save up three or four before you make a batch. Onion ends, the last rubbery stalk of celery, parsley stems, and carrot ends go into the same bag. Once the freezer bag can no longer contain the mess, empty it all into a big pot and make stock.
+
+**If all you have on hand is roasted bones, it's worth a trip to the butcher shop** for a few pounds of chicken heads and feet, or some wingtips — the gelatin raw bones contain adds a ton of body and richness that roasted bones alone don't fully replace (see [§8.40 Chicken Stock](#840-chicken-stock)'s own note on why a cloudy, jiggly stock is normal, not a flaw).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T88. Braise — The Six-Step Method
+
+<!-- TECHNIQUE-TAGS: braise, braising, technique, stew, pot-roast, dutch-oven -->
+**Tags:** `braise` · `braising` · `technique` · `stew` · `pot-roast` · `dutch-oven`
+**Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** — an illustrated, hand-drawn technique page titled simply "BRAISE," the same book as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). Condensed from the diagram's own six numbered steps — Salt, Brown, Build, Boil, Simmer, Serve — into this cookbook's prose format, the same way this cookbook already condenses this source's other illustrated pages.
+**Used in:** [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) and, in spirit, every other braise already in this cookbook — [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes), [§7.55 Braised Beef-Pot Roast — Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine), and [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) all follow this same shape; this entry cross-references rather than duplicates each recipe's own steps.
+
+> **Overlaps with [§T32 How to Use Heat](#t32-how-to-use-heat)'s braising row** ("start 425°F+, drop to 275–350°F, for tough, collagen-rich cuts") and [§T36](#t36-what-meat-actually-is-composition-connective-tissue-and-buying-it-right)'s collagen-to-gelatin explanation — this entry is the step-by-step method those two describe from the food-science side.
+
+**1. Salt — ahead, if you can.** Season generously on all sides, ideally the night before; at minimum, 30 minutes to 3 hours ahead. The more lead time the salt has, the further it works into the meat rather than just sitting on the surface — see [§T29 How to Salt](#t29-how-to-salt).
+
+**2. Brown — the meat and the aromatics, separately.** Sear the meat on all sides in a hot pan over medium-high heat until well browned, working in batches rather than crowding the pan so it browns instead of steaming (see [§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)). Set the meat aside and pour off the excess fat, then deglaze the same pan with a splash of acidic liquid — wine, vinegar, or stock — scraping up the browned bits stuck to the bottom; that fond is flavor, not something to throw away. Set the deglazing liquid aside, then brown the aromatics and any other flavor-enhancing vegetables in the same pan until cooked down and colored.
+
+**3. Build — layer it all into the braising vessel.** Liquid on the bottom, then the meat, then the aromatics, then any herbs on top — think of it the way you'd layer a lasagna. The liquid should come at most two-thirds of the way up the meat, not fully submerge it; a braise steams and simmers the top of the meat as much as it boils the bottom.
+
+**4. Boil — then adjust the heat.** Bring it to a boil on the stovetop or in a hot oven, then either cover the pot (if the pieces are small and might dry out) or leave it uncovered (if the pieces are large and the liquid should reduce and concentrate as it goes).
+
+**5. Simmer — low and slow, and wait for the tell.** Drop the heat down to a bare simmer, per [§T32](#t32-how-to-use-heat)'s 275–350°F oven range, and let patience do the work. The braise is done when the meat is falling-apart tender — it should give way easily to a finger or the back of a fork, not resist. Once it's there, pull the meat out and reduce or finish the braising liquid into a sauce.
+
+**6. Serve.** Sauce spooned back over the meat, with whatever starch or vegetable the dish calls for alongside.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -17814,7 +17934,7 @@ Once the crust at the sides turns from pale amber to gold, reduce the heat to lo
 **8. Unmold — the moment that can go wrong.**
 Carefully run a spatula along the edges of the pan to make sure no part of the crust is sticking. Tip out any excess fat at the bottom of the pan into a bowl, gather your courage, and carefully flip the pan over onto a platter or cutting board. Done right, it should look like a beautiful cake of fluffy rice with a golden crust. **If for any reason the rice doesn't slip out in one piece**, per the source, do what every Persian grandmother has done since the beginning of time: scoop out the rice, chip out the *tahdig* in pieces with a spoon or metal spatula, and pretend you meant to do it that way. No one will be the wiser — a broken crust still tastes exactly the same as a perfect one.
 
-Serve immediately. *Pairs well with Slow-Roasted Salmon (not yet in this cookbook), [§7.123 Kufte Kebabs](#7123-kufte-kebabs), Persian Roast Chicken (not yet in this cookbook), or Kuku Sabzi (not yet in this cookbook)* — all four are the source's own suggested pairings; the first, third, and fourth aren't documented here since those pages weren't among the ones photographed, so they're noted rather than invented.
+Serve immediately. *Pairs well with Slow-Roasted Salmon (not yet in this cookbook), [§7.123 Kufte Kebabs](#7123-kufte-kebabs), [§7.127 Persian Roast Chicken](#7127-buttermilk-marinated-roast-chicken), or Kuku Sabzi (not yet in this cookbook)* — all four are the source's own suggested pairings; the Persian Roast Chicken gap flagged here has since been filled by this cookbook's Vegetables/Stock/Mains batch, folded in as a variation on [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken). The salmon and Kuku Sabzi aren't documented here since those pages weren't among the ones photographed, so they're noted rather than invented.
 
 > **Variation — Bread *Tahdig*.** In place of the plain rice crust, cut a 10-inch circle out of a piece of lavash bread, or use a 10-inch flour tortilla. Mix the yogurt into the entire amount of parcooked rice instead of just 1 cup. Preheat the pan as directed above, add the butter and oil, then lay the bread circle or tortilla into the pan before spooning in the rice and continuing as above. A bread *tahdig* browns faster than an all-rice one — keep a closer eye on it and turn the heat down to low after about 12 minutes rather than 15 to 20.
 
@@ -17822,7 +17942,7 @@ Serve immediately. *Pairs well with Slow-Roasted Salmon (not yet in this cookboo
 
 > **Variation — Herbed Rice.** Stir 6 tablespoons of finely chopped parsley, cilantro, and/or dill (any combination) into the cooked, drained rice. Cook as directed above. Serve with Slow-Roasted Salmon and Herbed Yogurt (neither yet in this cookbook).
 
-> **Variation — Fava Bean and Dill Rice.** Stir ⅓ cup finely chopped dill and ¾ cup fresh or thawed frozen, peeled fava or lima beans into the drained, cooked rice. Cook as directed above. Serve with Persian Roast Chicken (not yet in this cookbook).
+> **Variation — Fava Bean and Dill Rice.** Stir ⅓ cup finely chopped dill and ¾ cup fresh or thawed frozen, peeled fava or lima beans into the drained, cooked rice. Cook as directed above. Serve with [§7.127 Persian Roast Chicken](#7127-buttermilk-marinated-roast-chicken).
 
 #### C. Grocery Shopping List
 
@@ -18112,7 +18232,7 @@ Serve chilled or at room temperature. Store leftover slaw, covered, in the fridg
 
 > **A rule worth remembering, per the source:** the richer the food you plan to serve this slaw with, the more acidic the slaw should be — so don't be shy with extra lemon juice or vinegar when pairing it with something fatty like fried chicken or barbecue.
 
-**Serve the Mexican variation (below) with Beer-Battered Fish** *(not documented in this cookbook)* **for fish tacos. Make Classic Southern Slaw to serve alongside Spicy Fried Chicken** *(not documented in this cookbook)*.
+**Serve the Mexican variation (below) with [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)** for fish tacos. **Make Classic Southern Slaw to serve alongside Spicy Fried Chicken** *(not documented in this cookbook)*.
 
 > **Variation — Alterna-slaw.** If you don't have cabbage on hand, or simply want to try something new, make it with 1 large bunch raw kale, 1½ pounds raw Brussels sprouts, or 1½ pounds raw kohlrabi instead.
 
@@ -18153,6 +18273,187 @@ Serve chilled or at room temperature. Store leftover slaw, covered, in the fridg
 | **Per serving** *(serves 4)* | ~235 | 20 g | 1.5 g | 13 g | 4.5 g |
 
 **What a serving is:** a generous 1-cup slaw side. *(Figures are for the base recipe; each variation swaps or adds ingredients and isn't separately recalculated.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.54 Sauté: Snap Peas with Chilies and Mint
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 260), opening the "Sauté" section of her Vegetables chapter. Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat).
+
+> **Per the source, on sautéing:** *"You might remember my mentioning that the word* sauté *refers to the flip of the wrist that makes all the food cooking in a pan jump."* If you haven't got the wrist-flip down, tongs work fine in the meantime — see [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) for the full master technique. **Sauté vegetables that cook quickly**, in just a few minutes, and whose texture, color, or flavor would suffer from overcooking — snap peas are exactly that kind of vegetable.
+
+**Serves 4 generously**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~6 min** · **Start to finish ~15 min**
+
+**Techniques used:** [T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)
+
+#### A. Ingredients
+
+- About 2 tablespoons extra-virgin olive oil
+- 1½ pounds sugar snap peas, trimmed
+- Salt
+- 12 mint leaves, julienned
+- Finely grated zest of 1 small lemon (about 1 teaspoon)
+- ½ teaspoon red chili flakes
+
+#### B. Cooking Instructions
+
+**1. Get the pan hot before the oil goes in.**
+Set a large frying pan over high heat. When it's nice and hot, add just enough olive oil to barely coat the bottom of the pan — per [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), a hot pan first is what keeps a quick sauté from turning into a stew.
+
+**2. Sauté the peas until they start to brown. About 5 to 6 minutes.**
+When the oil shimmers, add the snap peas and season with salt. Cook over high heat, sautéing as the peas start to brown, until they are sweet but still crisp. Don't walk away — this is a fast-cooking vegetable, and a couple of extra minutes is the difference between crisp-tender and limp.
+
+**3. Off the heat, stir in the finishing flavors.**
+Remove the pan from the heat and stir in the mint, lemon zest, and chili flakes — added off the heat so the mint stays bright and the zest doesn't scorch. Taste and adjust salt as needed.
+
+Serve immediately.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sugar snap peas — 1½ lbs, trimmed
+- 🛒 Extra-virgin olive oil
+- 🛒 Fresh mint — 12 leaves
+- 🛒 Lemon — for zest
+- 🛒 Red chili flakes
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~410 | 28 g | 12 g | 34 g | 12 g |
+| **Per serving** *(serves 4)* | ~100 | 7 g | 3 g | 8.5 g | 3 g |
+
+**What a serving is:** about ¾ cup — a normal vegetable side portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.55 Steamy Sauté: Garlicky Green Beans
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 261), facing [§5.54 Sauté: Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **No duplicate** — distinct from [§5.1 Green Beans](#51-green-beans) (a placeholder for Vicky's own lemon-zest green beans) and [§5.36 Lemon Green Beans](#536-lemon-green-beans) (an existing full recipe, lemon-forward rather than garlic-forward); this is a genuinely different technique, kept alongside both.
+
+> **What "steamy sautéing" means, per the source:** *"Steamy sautéing is a method for vegetables that are a little bit too dense to sauté directly. By cooking them with water for a few minutes before turning up the heat and letting them brown, you'll ensure they're cooked all the way through."* Green beans are too dense to go straight into a hot dry pan the way [§5.54](#554-sauté-snap-peas-with-chilies-and-mint)'s snap peas can — they'd scorch outside before the inside ever cooked through. Steaming them first in a splash of water solves that; only then does the pan go dry and hot to build color.
+
+**Serves 6 generously**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~11 min** · **Start to finish ~20 min**
+
+**Techniques used:** [T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)
+
+#### A. Ingredients
+
+- 2 pounds fresh green beans, yellow wax beans, Romano beans, or haricots verts, trimmed
+- Salt
+- 2 tablespoons extra-virgin olive oil
+- 3 garlic cloves, minced
+
+#### B. Cooking Instructions
+
+**1. Steam the beans in a splash of water, covered. 4 to 10 minutes, depending on the bean.**
+Set your largest frying pan over medium-high heat and bring ½ cup of water to a simmer. Add the green beans, season with a couple of generous pinches of salt, and cover, removing the lid every minute or so to stir. Cook until they're almost completely tender — about 4 minutes for haricots verts, 7 to 10 minutes for thicker, more mature beans.
+
+**2. Drive off the water.**
+Tip any remaining water out of the pan, using the lid to hold the beans back so they don't spill out with it.
+
+**3. Brown the beans and bloom the garlic. About 30 seconds for the garlic.**
+Return the pan to the stove, increase the heat to high, and dig a little hole in the center of the pan. Pour the olive oil into the hole and add the garlic. Let it sizzle gently for about 30 seconds, just until it releases its aroma — **don't let the garlic sit still in the oil any longer than that, or it browns and turns bitter before the beans ever pick it up.** Immediately toss the garlic through the beans before it has a chance to take on any color.
+
+**4. Taste, adjust, and serve immediately.**
+
+> **Variation — Classic French flavors.** Replace the olive oil with unsalted butter, omit the garlic, and toss with 1 teaspoon finely chopped tarragon before serving.
+
+> **Variation — Indian flavors.** Replace the olive oil with ghee or unsalted butter and add 1 tablespoon minced fresh ginger to the garlic.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Green beans, yellow wax beans, Romano beans, or haricots verts — 2 lbs, trimmed
+- 🛒 Extra-virgin olive oil
+- 🛒 Garlic — 3 cloves
+- 🛒 Salt
+- 🛒 Unsalted butter, fresh tarragon — for the French variation
+- 🛒 Ghee or unsalted butter, fresh ginger — for the Indian variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(base recipe)* | ~530 | 30 g | 14 g | 60 g | 24 g |
+| **Per serving** *(serves 6)* | ~90 | 5 g | 2.5 g | 10 g | 4 g |
+
+**What a serving is:** about ¾ cup — a normal vegetable side portion. *(Figures are for the base recipe; the butter-based variations run a little richer.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.56 Cherry Tomato Confit
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 256–257). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **No duplicate** — no existing tomato confit in this cookbook; several already-documented salsas name a "Tuna Confit" as a serving suggestion, but this is the first confit recipe of any kind written up here.
+
+> **Per the source, on serving it:** at the height of summer, confit a batch of cherry tomatoes once a week and use it as a quick pasta sauce, spoon it over grilled fish or chicken, or serve it alongside grilled croutons rubbed with garlic. Use the sweetest, most flavorful tomatoes you can find. **Strain and save the leftover oil** — it deepens and gets sweeter the more it's used, so reuse it for a second batch of confit, or use it to make [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette).
+
+**Makes about 4 cups**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** *(unattended oven time)* · **Start to finish ~55 min**
+
+#### A. Ingredients
+
+- 4 cups cherry tomatoes, stemmed (about 1½ dry pints)
+- A small handful basil leaves and/or stems *(the stems are packed with flavor too)*
+- 4 garlic cloves, peeled
+- Salt
+- 2 cups extra-virgin olive oil
+
+#### B. Cooking Instructions
+
+**1. Preheat the oven to 300°F.**
+
+**2. Layer the tomatoes over basil and garlic, then cover with oil.**
+Lay the cherry tomatoes in a single layer into a shallow roasting dish, over a bed of the basil leaves and/or stems and the garlic cloves. Cover with about 2 cups of olive oil. The tomatoes don't have to be fully submerged, but they should all be in contact with the oil.
+
+**3. Salt, stir, and roast. About 35 to 40 minutes.**
+Season liberally with salt and give everything a stir, then roast. **At no time should the dish ever actually boil** — a bare simmer, at most, is fine. **You'll know it's done when the first skins start to split.**
+
+**4. Cool, then store.**
+Pull the dish from the oven and let the tomatoes cool a bit before using, or let them cool completely and refrigerate, covered, right in their oil — they keep this way for up to 5 days.
+
+**5. Discard the basil before using. Serve warm or at room temperature.**
+
+> **Variation — Confit large tomatoes.** Peel 12 Early Girls or similarly sized tomatoes first: use the tip of a small, sharp knife to core them, then flip them over and cut a small X in the base. Blanch in boiling water for 30 seconds, or just until the skins start to loosen, then drop into an ice bath and remove the skins. Cook as directed above, in a single layer, with enough oil to come about two-thirds of the way up the sides. Adjust the cooking time to about 45 minutes, or until the tomatoes are soft all the way through. Use to make [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette).
+
+> **Variation — Artichoke Confit.** Remove the tough outer leaves of 6 large or 12 baby artichokes. Use a vegetable peeler or sharp paring knife to peel away the dark green, fibrous skin at the base and along the stem of each artichoke, then halve them and use a spoon to scoop out the hairy chokes. Cook as directed above, in a single layer, with enough oil to come two-thirds of the way up the sides, about 40 minutes, until completely tender when pricked with a fork or paring knife. Toss with pasta, lemon zest, and pecorino; chop up with a fork or paring knife with a few mint leaves, a clove of pounded garlic, and a squeeze of lemon juice and spread atop crostini; or serve at room temperature as an antipasto alongside cured meats and cheeses.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cherry tomatoes — 4 cups (about 1½ dry pints)
+- 🛒 Fresh basil — a small handful (leaves and/or stems)
+- 🛒 Garlic — 4 cloves
+- 🛒 Salt
+- 🛒 Extra-virgin olive oil — 2 cups
+- 🛒 Early Girl or similar tomatoes — 12, for the Confit Large Tomatoes variation
+- 🛒 Baby or large artichokes — 12 baby or 6 large, for the Artichoke Confit variation
+- 🛒 Fresh mint, lemon, pecorino cheese — for the Artichoke Confit variation
+
+#### Nutrition *(estimated — most of the 2 cups of oil is strained off and reused rather than eaten with the tomatoes)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(tomatoes and clinging oil only, not the full 2 cups)* | ~950 | 88 g | 8 g | 40 g | 10 g |
+| **Per serving** *(makes 4 cups — about 8 servings of ½ cup)* | ~120 | 11 g | 1 g | 5 g | 1.3 g |
+
+**What a serving is:** about ½ cup — a spoonful over pasta or fish, or a small dish alongside bread. *(Figures assume roughly ¼ cup of the confit oil ends up eaten across the whole batch, with the rest strained off and reused — the tomatoes and garlic carry the fiber and most of the carbs.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -27920,6 +28221,419 @@ Card's own serving suggestion: cooked frozen peas alongside, and Cranberry Tea *
 
 ---
 
+### 7.125 Beer-Battered Fish
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 312–313). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **No duplicate** — this cookbook's other fried-fish entries are [§7.8 Fried Catfish](#78-fried-catfish) (a placeholder) and [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) (Meathead's own method); this is a different book's beer-and-vodka batter, kept alongside both. Several already-documented salsas and slaws in this cookbook named "Beer-Battered Fish" as a serving suggestion "not documented in this cookbook" — this closes that gap; see this batch's changelog entry for the cross-reference retrofit.
+
+> **Per the source, on the vodka trick:** *"By replacing some of the water in the batter with vodka, which is about 60 percent water, [Heston Blumenthal] reduced the amount of water available to create gluten. As a result, the crust is unbelievably tender."* Vodka's alcohol content means there's simply less water in the batter to hydrate the flour's gluten-forming proteins — less gluten means a lighter, shatter-crisp crust instead of a tough, bready one. Keeping the batter ice-cold does the same job from a different angle: cold slows gluten development further, and it means the batter flash-fries the instant it hits the hot oil instead of soaking in first.
+
+**Serves 4 to 6**
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~15 min** *(frying in batches — real technique risk from the hot oil and the need to hold 365°F between batches)* · **Start to finish ~35 min**
+
+**Techniques used:** [T32 How to Use Heat](#t32-how-to-use-heat) *(365°F is this cookbook's own established deep-frying sweet spot)*
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, deep frying is real technique risk: oil that's too cool soaks into the batter instead of crisping it, oil that's too hot burns the crust before the fish cooks through, and a crowded pot drops the temperature and ruins a whole batch at once. None of that is fatal — the fix is patience and a thermometer — but it's a genuine step that can go from perfect to soggy or burnt, unlike this cookbook's typical 🟢 Easy vegetable side.
+
+#### A. Ingredients
+
+- 2½ cups all-purpose flour
+- 1 teaspoon baking powder
+- ½ teaspoon ground cayenne pepper
+- Salt
+- 1½ pounds flaky white fish, such as halibut, sole, or rock cod, boned and trimmed
+- 6 cups grapeseed, peanut, or canola oil, for frying
+- 1¼ cups vodka, ice-cold
+- About 1½ cups lager beer, ice-cold
+
+> **Optional, for extra crispiness:** substitute rice flour for half the all-purpose flour.
+
+#### B. Cooking Instructions
+
+**1. Chill the dry ingredients.**
+In a medium bowl, mix together the flour, baking powder, cayenne, and a generous pinch of salt. Place the bowl in the freezer — cold dry ingredients help keep the whole batter cold once the liquid goes in.
+
+**2. Cut and season the fish.**
+Cut the fish into 8 equal pieces on the diagonal, each about 1 by 3 inches. Season generously with salt. Keep on ice or in the refrigerator until ready to fry.
+
+**3. Heat the oil to 365°F.**
+Set a wide, deep pan over medium heat and add enough oil to reach a depth of 1½ inches. Heat to 365°F — [§T32's own sweet spot](#t32-how-to-use-heat) for shallow- or deep-frying: cooler and the batter turns greasy and soggy before it crisps; hotter and the outside burns before the fish inside is cooked through. Use a thermometer rather than guessing.
+
+**4. Make the batter once the oil is hot — not before.**
+Add the ice-cold vodka to the bowl of flour, stirring with the fingertips of one hand. Gradually add just enough beer to thin the batter to a loose, pancake-batter consistency — it should drip easily off your fingertips. **Don't overmix** — a few lumps are fine and turn into a light, crisp crust once fried; overworking the batter builds gluten back in, undoing the vodka's whole purpose.
+
+**5. Batter and fry, one piece at a time. About 2 minutes per side.**
+Dip half the fish pieces in the batter, coating each one completely, and lower carefully into the hot oil. **Don't overpack the pot — never more than a single layer of fish in the oil at once**, or the temperature crashes and everything turns greasy. Use tongs to keep pieces from sticking together as they fry. When the underside is golden brown, flip and cook the second side, then lift out with tongs or a slotted spoon.
+
+**6. Drain, season, and rest the oil between batches.**
+Season the fried fish with salt immediately and drain on a baking sheet lined with paper towels. Let the oil temperature climb back to 365°F before frying the second batch.
+
+**7. Serve immediately.**
+With lemon wedges and [§4.124 Tartar Sauce](#4124-tartar-sauce).
+
+> **Variation — Fritto Misto.** Use this same batter to coat and fry a mixture of fish and shellfish — shrimp halved lengthwise, sliced squid, soft-shell crab — along with colorful vegetables like asparagus spears, green beans, bite-size pieces of broccoli or cauliflower, wedges of spring onion, squash blossoms, and raw kale leaves. Serve with lemon wedges and Aïoli *(source p. 376 — not yet documented in this cookbook; from a forthcoming batch of this same source's doughs/mayo pages)*.
+
+> **Variation — Gluten-Free Batter.** For a crisp gluten-free version, use 1½ cups rice flour, 3 tablespoons potato starch, 3 tablespoons cornstarch, 1 teaspoon baking powder, ¼ teaspoon cayenne pepper, and a pinch of salt in place of the flour mixture, with 1 cup vodka and 1 cup chilled soda water in place of the vodka and beer. Follow the same method above.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Flaky white fish (halibut, sole, or rock cod), boned and trimmed — 1½ lbs
+- 🏪 Shrimp, squid, soft-shell crab — for Fritto Misto
+
+**🛒 General grocery**
+
+- 🛒 All-purpose flour — 2½ cups
+- 🛒 Baking powder
+- 🛒 Cayenne pepper
+- 🛒 Salt
+- 🛒 Grapeseed, peanut, or canola oil — 6 cups, for frying
+- 🛒 Vodka — 1¼ cups, ice-cold
+- 🛒 Lager beer — about 1½ cups, ice-cold
+- 🛒 Lemons, for serving
+- 🛒 Rice flour — for extra crispiness, or the Gluten-Free Batter
+- 🛒 Potato starch, cornstarch, soda water — for the Gluten-Free Batter
+- 🛒 Asparagus, green beans, broccoli or cauliflower, spring onion, squash blossoms, kale — for Fritto Misto
+
+#### Nutrition *(estimated — most of the frying oil is not eaten; figures assume the fish absorbs a typical amount for a fried batter, per standard deep-frying absorption rates)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,350 | 88 g | 130 g | 235 g | 8 g |
+| **Per serving** *(serves 5, 1–2 pieces each)* | ~470 | 18 g | 26 g | 47 g | 1.6 g |
+
+**What a serving is:** 1 to 2 pieces of battered fish (about ¼ to ⅓ lb raw fish) — a normal fish-and-chips-style dinner portion. The vodka's alcohol cooks off in the fryer.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.126 Chicken with Vinegar
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 336–337), where the source calls it by its French name, *Poulet au Vinaigre*. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+> **Per the source's own headnote:** she first cooked this dish during her Chez Panisse internship, on her mentor Chris Lee's instruction to practice a classic — and was startled by the idea of cooking chicken with vinegar at all, having only ever associated hot vinegar with the sharp fumes of pickling. Followed word for word, the vinegar tamed as it cooked and came out beautifully balanced by the richness of the crème fraîche and butter in the dish — *"a revelation, and it heightened my appreciation for what acid can do for a rich dish."*
+
+**Serves 4 to 6**
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~1 hr 15 min** · **Start to finish ~1 hr 30 min** *(plus, ideally, an overnight salt ahead — see Step 1)*
+
+**Techniques used:** [T88 Braise](#t88-braise--the-six-step-method) *(salt ahead, brown, build, simmer — this is that shape, on the stovetop)* · [T29 How to Salt](#t29-how-to-salt) · crème fraîche, per [§T31's own recipe](#t31-how-to-use-acid)
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, the pan sauce at the end is the real risk here — cream or crème fraîche added to a hot, reducing pan can break or turn grainy if it's rushed, and a sauce reduced too far turns greasy and separated instead of glossy. It's recoverable with a splash more cream and a lower flame, but it's a genuine watch-it moment, not a hands-off simmer.
+
+#### A. Ingredients
+
+- 4-pound chicken
+- Salt
+- Freshly ground black pepper
+- ½ cup all-purpose flour
+- Extra-virgin olive oil
+- 3 tablespoons unsalted butter
+- 2 medium yellow onions, thinly sliced
+- ¾ cup dry white wine
+- 6 tablespoons white wine vinegar
+- 2 tablespoons tarragon leaves, finely chopped
+- ⅔ cup heavy cream or crème fraîche *(see [§T31's own crème fraîche recipe](#t31-how-to-use-acid) to make your own)*
+
+#### B. Cooking Instructions
+
+**1. Cut up and salt the chicken — ideally the night before.**
+Cut the chicken into 8 pieces (per the source's own instructions elsewhere in the book), saving the carcass for your next batch of [§8.40 Chicken Stock](#840-chicken-stock). Season generously all over with salt and black pepper. Salting the night before gives it the most time to work into the meat rather than sitting on the surface; if you're short on time, give it at least an hour on the counter. Refrigerate the chicken if it's salted more than an hour ahead, otherwise leave it out at room temperature.
+
+**2. Dredge in flour.**
+Place the flour in a shallow bowl or pie plate and season with a generous pinch of salt. Dredge the chicken pieces in the flour, shaking off the excess, and lay them in a single layer on a wire rack or parchment-lined baking sheet.
+
+**3. Brown the chicken in two batches. About 4 minutes per side.**
+Set a large skillet or Dutch oven over medium-high heat and add just enough olive oil to coat the pan. Brown the chicken in two batches, skin side down first, then turning and rotating around the pan for even color — crowding the pan steams the skin instead of browning it. Transfer the browned chicken to a baking sheet, then carefully discard the fat and wipe out the pan.
+
+**4. Cook the onions in butter until brown. About 25 minutes.**
+Return the pan to medium heat and melt the butter. Add the onions, season with salt, and cook, stirring occasionally, until tender and browned — per [§T85 Cooking Onions](#t85-cooking-onions--blond-browned-caramelized), this is the "browned" stage, taken further than blond but not all the way to caramelized.
+
+**5. Deglaze with wine and vinegar, then build the braise.**
+Raise the heat to high, add the wine and vinegar, and scrape the bottom of the pan with a wooden spoon to lift up the browned bits — that fond is flavor. Stir in half the tarragon. Return the chicken to the pan, skin side up, and lower the heat to a simmer.
+
+**6. Simmer, lid ajar, until the dark meat is tender at the bone. 35 to 40 minutes total.**
+Set the lid ajar on the pan. Remove the breasts once they're cooked, after about 12 minutes, but let the dark meat continue simmering — a full boil here would toughen the meat rather than tenderize it.
+
+**7. Finish the sauce with cream, off to the side of the chicken.**
+Transfer the chicken to a platter. Raise the heat and add the cream or crème fraîche to the pan liquid. Let it come to a simmer and thicken slightly — watch it closely; this is the step that can break or over-reduce, per the warning above. Taste and adjust with salt, pepper, and a little more vinegar if the sauce needs brightening.
+
+**8. Serve.**
+Stir in the remaining tarragon and spoon the sauce over the chicken.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chicken — 4 lbs, cut into 8 pieces
+- 🛒 Salt and freshly ground black pepper
+- 🛒 All-purpose flour — ½ cup
+- 🛒 Extra-virgin olive oil
+- 🛒 Unsalted butter — 3 Tbsp
+- 🛒 Yellow onions — 2 medium
+- 🛒 Dry white wine — ¾ cup
+- 🛒 White wine vinegar — 6 Tbsp
+- 🛒 Fresh tarragon — 2 Tbsp finely chopped
+- 🛒 Heavy cream or crème fraîche — ⅔ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,900 | 200 g | 210 g | 45 g | 3 g |
+| **Per serving** *(serves 5)* | ~580 | 40 g | 42 g | 9 g | 0.6 g |
+
+**What a serving is:** 1–2 pieces of chicken with a generous ¼ cup of sauce and onions spooned over — a full dinner portion, especially alongside rice or bread to soak up the sauce.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.127 Buttermilk-Marinated Roast Chicken
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 340–341). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **No duplicate** — this cookbook's existing roast chickens ([§7.39 Fennel & Ginger-Rubbed Chicken](#739-fennel--ginger-rubbed-chicken-with-cauliflower), [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)) come from different books and use different marinades; this one's buttermilk brine is its own thing. **This is also the "Persian Roast Chicken" that [§5.49 Persian-ish Rice](#549-persian-ish-rice) and [§4.155 Herbed Yogurt](#4155-herbed-yogurt) have been citing as "not yet in this cookbook"** — it's this recipe's own yogurt-and-saffron variation, folded in below; both of those entries are updated to point here.
+
+> **Per the source's own headnote:** she came up with marinating chickens overnight in buttermilk while working the spit at Eccolo, "like southern grandmothers do," and considers it a better way to roast a chicken than anything else — moist, tender, and evenly browned, thanks to the buttermilk's water content, acid, and natural sugars all working on the meat at once. Her own favorite way to serve it is alongside [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber), a bread salad that soaks up the chicken's juices and plays the role of starch, salad, and sauce all at once.
+
+**Serves 4**
+
+**🟢 Easy** · **Prep ~15 min** *(the day before)* · **Cook ~1 hr** *(20 min, then 10 min, then 30 min more, in three stages with a temperature drop and a pan rotation between them)* · **Start to finish ~1 hr 25 min** *(plus an overnight buttermilk marinate — this isn't optional; start it the day before)*
+
+**Techniques used:** [T29 How to Salt](#t29-how-to-salt) · [T85 Cooking Onions](#t85-cooking-onions--blond-browned-caramelized) *(the Persian Roast Chicken variation's saffron tea uses the same bloom-in-hot-liquid principle)*
+
+> **Why the buttermilk, per the source.** Salt and buttermilk work together like a brine on two levels: the water in the buttermilk increases moisture in the meat, and the salt and acid in it disable the proteins that would otherwise squeeze liquid back out as the bird cooks (see [§T29](#t29-how-to-salt) and [§T31](#t31-how-to-use-acid)). As a bonus, the sugars naturally present in buttermilk caramelize as the chicken roasts, contributing to an especially browned, appetizing skin.
+
+#### A. Ingredients
+
+- 3½- to 4-pound chicken
+- Salt
+- 2 cups buttermilk
+
+#### B. Cooking Instructions
+
+**1. The day before: trim the wingtips, salt, and let it sit. 30 minutes.**
+Remove the wingtips with poultry shears or a sharp knife (reserve them for stock — see [§T87 Stock](#t87-stock--saving-scraps-for-the-pot)). Season the chicken generously all over with salt and let it sit for 30 minutes.
+
+**2. Mix the buttermilk with salt, then submerge the chicken. Overnight.**
+Stir 2 tablespoons kosher salt (or 4 teaspoons fine sea salt) into the buttermilk until it dissolves. Place the chicken in a gallon-size resealable plastic bag and pour in the buttermilk — double up two plastic produce bags if a gallon bag is too tight, to avoid a leak. Seal the bag, squish the buttermilk around so it coats the whole chicken, set it on a rimmed plate (in case of leaks), and refrigerate. Turning the bag occasionally over the next 24 hours helps every part marinate evenly, but isn't essential.
+
+**3. The next day, an hour before cooking: bring the chicken to room temperature and heat the oven.**
+Pull the chicken from the fridge an hour before you plan to cook it. Preheat the oven to 425°F, with a rack set in the center position.
+
+**4. Scrape off the buttermilk and truss the legs.**
+Remove the chicken from the bag and scrape off as much clinging buttermilk as you reasonably can — don't be obsessive about it. Tightly tie the legs together with a piece of butcher's twine. Place the chicken in a 10-inch cast iron skillet or a shallow roasting pan.
+
+**5. Position the chicken for even browning, then roast. About 20 minutes at 425°F.**
+Slide the pan all the way to the back of the oven, on the center rack. Rotate the pan so the legs point toward the rear-left corner and the breast points toward the center — the back corners of most ovens run hottest, so this orientation protects the breast from overcooking before the legs are done. You should hear the chicken sizzling within a few minutes.
+
+**6. Drop the heat and rotate again. 10 minutes at 400°F.**
+After about 20 minutes, once the chicken starts to brown, reduce the oven to 400°F and continue roasting for another 10 minutes, then move the pan so the legs are now facing the back-right corner of the oven.
+
+**7. Finish roasting. About 30 minutes more.**
+Continue cooking until the chicken is brown all over and the juices run clear when you insert a knife down to the bone between the leg and the thigh — about 30 minutes more, roughly 60 minutes of total oven time.
+
+**8. Rest, then carve and serve.**
+Remove the chicken to a platter and let it rest for 10 minutes before carving — this settles the juices instead of losing them all to the cutting board. Pairs especially well with [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber), per the source's own favorite pairing.
+
+> **Variation — no buttermilk on hand?** Substitute plain yogurt or crème fraîche (see [§T31's own recipe](#t31-how-to-use-acid)) for the buttermilk, measure for measure.
+
+> **Variation — Persian Roast Chicken.** Omit the buttermilk. Make **saffron tea** as directed in [§5.49 Persian-ish Rice](#549-persian-ish-rice)'s Saffron Rice variation, and stir it into 1½ cups plain yogurt along with 1 tablespoon kosher salt (or 2 teaspoons fine sea salt) and 2 teaspoons finely grated lemon zest. Place the seasoned chicken in a resealable plastic bag, pour in the yogurt mixture, and use your hands to coat it inside and out. Continue exactly as above from Step 3.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chicken — 3½- to 4-lb whole bird
+- 🛒 Salt
+- 🛒 Buttermilk — 2 cups
+- 🛒 Plain yogurt or crème fraîche — for the no-buttermilk variation, or 1½ cups plain yogurt for Persian Roast Chicken
+- 🛒 Saffron threads, lemon — for Persian Roast Chicken
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,150 | 140 g | 190 g | 12 g | 0 g |
+| **Per serving** *(serves 4)* | ~540 | 35 g | 48 g | 3 g | 0 g |
+
+**What a serving is:** about a quarter of the chicken (one breast or one leg-thigh portion) — a normal dinner serving. **Most of the buttermilk marinade is scraped off or drips away before roasting**, so only a small fraction of its calories land on the plate; the figures above are for the chicken itself.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.128 Glazed Five-Spice Chicken
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 338–339). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+> **Per the source's own headnote:** adapted from a David Tanis "City Kitchen" column in *The New York Times* — originally spicy lacquered chicken wings with Chinese five-spice, which Nosrat has since adapted to other cuts and even fish. She serves it over Steamed Jasmine Rice — see [§T86 Three Ways to Cook Grains](#t86-three-ways-to-cook-grains-and-quinoa) for the jasmine rice ratio, since it isn't written up as its own standalone recipe in this cookbook — with [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad), which already is; the leftovers make a great rice bowl at lunch.
+
+**Serves 4**
+
+**🟡 Medium** · **Prep ~15 min** *(the day before)* · **Cook ~55 min** *(45 min roast, then about 12 min at 450°F, brushed with glaze every 3–4 min)* · **Start to finish ~1 hr 15 min** *(plus an overnight marinate — start the day before)*
+
+**Techniques used:** [T32 How to Use Heat](#t32-how-to-use-heat) *(high-heat glazing — "20 seconds from perfect to burnt")*
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, the final 450°F stretch is a real risk: a soy-and-brown-sugar glaze reducing at high heat can go from glossy and dark brown to scorched and bitter fast, which is exactly why the recipe calls for basting every 3 to 4 minutes rather than walking away.
+
+#### A. Ingredients
+
+- 4-pound chicken, or 8 bone-in, skin-on chicken thighs
+- Salt
+- ¼ cup soy sauce
+- ¼ cup dark brown sugar
+- ¼ cup mirin (rice wine)
+- 1 teaspoon toasted sesame oil
+- 1 tablespoon finely grated ginger
+- 4 garlic cloves, finely grated or pounded with a pinch of salt
+- ½ teaspoon Chinese five-spice powder
+- ¼ teaspoon cayenne pepper
+- ¼ cup coarsely chopped cilantro leaves and tender stems
+- 4 scallions, green and white parts, slivered
+
+#### B. Cooking Instructions
+
+**1. Cut and salt the chicken the day before.**
+If using a whole chicken, cut it into 8 pieces, saving the carcass for your next batch of [§8.40 Chicken Stock](#840-chicken-stock). Season lightly with salt and let sit for 30 minutes — **use only about half as much salt as you normally would**, since the marinade is mostly soy sauce, which is salty on its own.
+
+**2. Whisk the marinade and coat the chicken. Refrigerate overnight.**
+Whisk together the soy sauce, brown sugar, mirin, sesame oil, ginger, garlic, five-spice, and cayenne. Place the chicken in a resealable plastic bag, pour in the marinade, seal, and squish it around so everything is evenly coated. Refrigerate overnight.
+
+**3. The next day, bring to room temperature and heat the oven.**
+A few hours before cooking, pull the chicken out to come to room temperature. Preheat the oven to 400°F.
+
+**4. Roast skin side up in its own marinade. About 45 minutes total.**
+Place the chicken skin side up in a shallow 8×13-inch roasting dish and pour the marinade over it. It should generously cover the bottom of the pan — if it doesn't, add 2 tablespoons of water to ensure even coverage and prevent burning. Slide into the oven and rotate the pan every 10 to 12 minutes. Remove the breasts, if using, after 20 minutes of cooking to prevent overcooking, and continue cooking the dark meat for another 20 to 25 minutes, until it's tender at the bone, or a total of 45 minutes.
+
+**5. Crank the heat and glaze. About 12 minutes at 450°F.**
+Once the dark meat is done, return the breasts to the pan and raise the oven to 450°F to let the sauce reduce and the skin get dark brown and crisp. **Brush the chicken with the sauce from the pan every 3 to 4 minutes to glaze it** — watch closely the whole time; this is the step that can burn if you step away.
+
+**6. Serve.**
+Warm, garnished with the cilantro and slivered scallions.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong Market / Chinese market**
+
+- ☯️ Soy sauce — ¼ cup
+- ☯️ Mirin — ¼ cup
+- ☯️ Toasted sesame oil
+- ☯️ Chinese five-spice powder
+
+**🛒 General grocery**
+
+- 🛒 Chicken — 4 lbs whole, or 8 bone-in skin-on thighs
+- 🛒 Salt
+- 🛒 Dark brown sugar — ¼ cup
+- 🛒 Fresh ginger — 1 Tbsp grated
+- 🛒 Garlic — 4 cloves
+- 🛒 Cayenne pepper
+- 🛒 Fresh cilantro — ¼ cup chopped
+- 🛒 Scallions — 4
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,150 | 125 g | 195 g | 45 g | 1.5 g |
+| **Per serving** *(serves 4)* | ~540 | 31 g | 49 g | 11 g | 0.4 g |
+
+**What a serving is:** a quarter of the chicken (2 thighs or a mixed portion), glazed and garnished — a full dinner portion, meant to be served over rice. **Most of the marinade's sugar caramelizes into the glaze that clings to the chicken rather than being drunk as liquid**, so the carb figure above is a reasonable upper bound.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.129 Pasta alle Vongole
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** *(exact page number wasn't visible in the photographed spread — this recipe sits later in the book's Pasta section, well past [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)'s p. 312–313)*, presented as an illustrated, hand-drawn comic-style recipe rather than standard prose — sketched pans and clams walking the reader through each stage, subtitled by the source's own words, *"A Lesson in Layering Acid."* Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). Condensed here into this cookbook's normal bold-step-plus-explanation format, matching how [§T88 Braise](#t88-braise--the-six-step-method) handles this same book's other illustrated technique page — the comic layout doesn't survive the transcription, but the technique does.
+
+> **Why this is "A Lesson in Layering Acid."** Wine goes in twice — once early, to steam the clams open and build a flavorful base liquid, and again at the end, tasted and adjusted alongside a squeeze of lemon juice, right before the dish is finished with breadcrumbs and Parmesan. That's acid used in layers rather than all at once: an early cooking acid that mellows as it reduces, and a final finishing acid added right before serving to keep the dish tasting bright rather than flat — the same principle [§T31 How to Use Acid](#t31-how-to-use-acid) covers in general.
+
+> **Manila vs. littleneck clams**, per the source's own illustration: **Manila clams** are smaller, sweeter, and more delicate — they cook fast and add a gentler brininess. **Littlenecks** are larger and noticeably more intense in flavor — brinier and chewier, with more liquid packed into each shell. Using both in the same pot gives the sauce two different clam personalities instead of one flat note; use all Manila or all littleneck if that's what's available, and shorten the cook time a little for an all-Manila pot.
+
+**Serves 4**
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
+
+**Techniques used:** [T31 How to Use Acid](#t31-how-to-use-acid) *(the layering-acid lesson above)*
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, this dish has a real timing risk on two fronts: clams overcook into rubber within a minute or two of staying in the pan too long, and the pasta-and-sauce toss at the end can break — the sauce separating into an oily layer over a dry pile of noodles — if it's rushed or the pan runs dry. Neither is unrecoverable, but both want attention rather than a hands-off simmer.
+
+#### A. Ingredients
+
+*Exact quantities weren't printed on the source's illustrated pages — reasonable amounts for 4 servings are used below; scale to your own taste and however many clams look good at the market. See Open Questions.*
+
+- 12 oz linguine or spaghetti
+- Salt, for the pasta water
+- 2 lbs Manila clams, scrubbed
+- 1 lb littleneck clams, scrubbed
+- Extra-virgin olive oil
+- 1 small onion, diced
+- A few sprigs of parsley, plus more chopped, for finishing
+- 3 garlic cloves, thinly sliced, divided
+- ½ teaspoon red pepper flakes, or to taste
+- ¾ cup dry white wine, divided
+- Lemon juice, to taste
+- ¼ cup dried breadcrumbs (sourdough, if you have it), toasted
+- Grated Parmesan, for serving
+
+#### B. Cooking Instructions
+
+**1. Steam the clams open in wine, and save the liquid.**
+Heat a splash of olive oil in a large frying pan over medium heat. Add the diced onion, a few parsley sprigs, and half the sliced garlic, and cook briefly until fragrant. Add the clams and pour in enough white wine to cover the bottom of the pan. Turn the heat up, cover, and steam until the clams open, about 2 to 3 minutes — discard any that don't open. Pull the clams from their shells with tongs, then strain the cooking liquid through a fine-mesh sieve into a bowl and **save it** — this is the base of the sauce.
+
+**2. Cook the pasta in well-salted water.**
+Bring a large pot of water to a boil and season it generously with salt — per [§T29 How to Salt](#t29-how-to-salt), it should taste like the sea. Cook the pasta until just shy of al dente (see [§5.49 Persian-ish Rice](#549-persian-ish-rice) for what "al dente" means as a doneness cue) — it'll finish cooking in the sauce in the next step. Reserve a cup of the pasta water before draining.
+
+**3. Build the white wine clam sauce.**
+In a clean large frying pan over medium heat, add a little more olive oil and the remaining sliced garlic and red pepper flakes; let the garlic sizzle without browning. Add the shelled clams, the remaining white wine, and a splash of the reserved clam-cooking liquid. Cover and cook just until everything is hot through and the sauce comes together, about 1 to 2 minutes.
+
+**4. Add the noodles and finish with acid, starch, and cheese.**
+Add the drained pasta to the pan and toss to combine, adding reserved pasta water a splash at a time if it looks dry — **the starch in that water is what helps the sauce cling to the noodles instead of pooling separately underneath them.** Taste, and adjust the acid with a splash more white wine or a squeeze of lemon juice. Taste again, then finish with the toasted breadcrumbs and a scattering of Parmesan and chopped parsley. Taste one more time, and eat.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Manila clams — 2 lbs, scrubbed
+- 🏪 Littleneck clams — 1 lb, scrubbed
+
+**🛒 General grocery**
+
+- 🛒 Linguine or spaghetti — 12 oz
+- 🛒 Extra-virgin olive oil
+- 🛒 Onion — 1 small
+- 🛒 Fresh parsley
+- 🛒 Garlic — 3 cloves
+- 🛒 Red pepper flakes
+- 🛒 Dry white wine — ¾ cup
+- 🛒 Lemon, for juice
+- 🛒 Dried breadcrumbs — ¼ cup, preferably sourdough
+- 🛒 Parmesan, grated
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,450 | 55 g | 130 g | 340 g | 14 g |
+| **Per serving** *(serves 4)* | ~610 | 14 g | 33 g | 85 g | 3.5 g |
+
+**What a serving is:** a generous pasta bowl with clams still in shells piled on top — about ¾ lb of clams in shell per person.
+
+#### D. Open Questions
+
+- **Exact clam and pasta quantities weren't printed on the source's illustrated comic-style pages** — the method (steam, build sauce, combine, adjust acid) is clear and complete, but the amounts above are this cookbook's own reasonable estimate for 4 servings, not a transcribed number. Revisit if a clean re-photo of the ingredient list ever turns up.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -30841,7 +31555,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - 3 large carrots, peeled and diced (about 1¼ cups)
 - 3 large celery stalks, diced (about 1 cup)
 - 2 bay leaves
-- 10 cups chicken stock *(the source's own "Chicken Stock, page 271" isn't among the pages photographed for this cookbook — good store-bought stock works, or this cookbook's own [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) or [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood))*
+- 10 cups chicken stock *(the source's own "Chicken Stock, page 271" is now written up at [§8.40 Chicken Stock](#840-chicken-stock); good store-bought stock works too, or this cookbook's own [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) or [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood))*
 - 20 garlic cloves, thinly sliced
 - Optional: Parmesan rind
 
@@ -31036,6 +31750,84 @@ Taste the soup for salt, sweetness, and acid. If it tastes flatly sweet with not
 | **Per serving** *(serves 7)* | ~245 | 13 g | 4 g | 28 g | 3 g |
 
 **What a serving is:** about 1¼ cups — a first-course bowl, or a light lunch with bread.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.40 Chicken Stock
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 270–271), opening her "Stock and Soups" chapter — see [§T87 Stock](#t87-stock--saving-scraps-for-the-pot) for the chapter's own intro on saving scraps for the pot. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), which cites this exact page ("Chicken Stock, page 271") and is now unblocked. **No duplicate** — this cookbook's other stock formulas are [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) (a quick weeknight version) and [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) (Prudhomme's *Louisiana Kitchen* one-formula-for-fowl/beef/pork/seafood method) — this is a third, longer-simmered version from a different book, kept alongside both rather than replacing either.
+
+**Makes 8 quarts**
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook 6–8 hr** *(simmer — the waiting is the whole method)* · **Start to finish ~6–8 hr 15 min**
+
+**Techniques used:** [T87 Stock — Saving Scraps for the Pot](#t87-stock--saving-scraps-for-the-pot)
+
+#### A. Ingredients
+
+- 7 pounds chicken bones (at least half should be raw)
+- 7 quarts water
+- 2 onions, unpeeled, quartered
+- 2 carrots, peeled and halved crosswise
+- 2 celery stalks, halved crosswise
+- 1 teaspoon black peppercorns
+- 2 bay leaves
+- 4 thyme sprigs
+- 5 parsley sprigs or 10 stems
+- 1 teaspoon white wine vinegar
+
+#### B. Cooking Instructions
+
+**1. Combine everything but the vinegar in a large stockpot.**
+Put the bones, water, onions, carrots, celery, peppercorns, bay leaves, thyme, and parsley into a large stockpot.
+
+**2. Bring to a boil, then drop to a simmer and skim.**
+Bring the stock to a boil over high heat, then turn down to a simmer. Skim off any foam that rises to the surface.
+
+**3. Add the vinegar.**
+Stir in the vinegar — it helps draw nutrients and minerals out of the bones and into the stock.
+
+**4. Simmer uncovered. 6 to 8 hours, watched closely enough to stay at a bare simmer.**
+Keep an eye on it so it never climbs past a simmer. **If the stock boils, the bubbling recirculates the fat sitting on top back down into the liquid and emulsifies it** — and unlike most places an emulsion is welcome, this is one spot you don't want one: an emulsified stock looks cloudy and unattractive, and it tastes cloudy too, clinging to the tongue in an unpleasant, greasy way instead of tasting clean. One of the best things about a good stock is that even though its flavor runs rich, it should still taste clean — a hard boil is what takes that away.
+
+**5. Strain, cool, and save the fat.**
+Strain through a fine-mesh sieve and let cool. Scrape off the fat that rises to the top and save it in the fridge or freezer — good for a Chicken Confit *(source p. 326 — not yet documented in this cookbook)*.
+
+**6. Store.**
+Refrigerate for up to 5 days, or freeze for up to 3 months. Freezing it in old yogurt containers has the added benefit of premeasuring your next batch of soup.
+
+> **Variation — Beef Stock.** Follow the same process, but replace the chicken bones with 6 pounds meaty beef bones (such as knuckle bones) and 1 pound beef marrow bones. Brown the bones in a single layer on a rimmed baking sheet in a 400°F oven for about 45 minutes. Meanwhile, brown the aromatics (the onions, carrots, and celery from the recipe above) in the stockpot with a few tablespoons of olive oil, then add the browned bones, 3 tablespoons tomato paste, and the water. Set the baking sheet over a burner on low heat and pour in 1 cup dry red wine, scraping up the browned bits stuck to the pan with a wooden spoon — that fond is flavor — and add this deglazing liquid to the stockpot along with everything else. Continue as directed above.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Chicken bones — 7 lbs, at least half raw *(see [§T87](#t87-stock--saving-scraps-for-the-pot) for saving your own instead of buying)*
+- 🏪 Beef knuckle bones — 6 lbs, for Beef Stock
+- 🏪 Beef marrow bones — 1 lb, for Beef Stock
+
+**🛒 General grocery**
+
+- 🛒 Onions — 2
+- 🛒 Carrots — 2
+- 🛒 Celery — 2 stalks
+- 🛒 Black peppercorns
+- 🛒 Bay leaves — 2
+- 🛒 Fresh thyme — 4 sprigs
+- 🛒 Fresh parsley — 5 sprigs
+- 🛒 White wine vinegar — 1 tsp
+- 🛒 Olive oil, tomato paste, dry red wine — for Beef Stock
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(8 quarts)* | ~950 | 35 g | 90 g | 35 g | 5 g |
+| **Per serving** *(1 cup, as a base ingredient, of 32)* | ~30 | 1 g | 3 g | 1 g | 0.2 g |
+
+**What a serving is:** 1 cup, used as an ingredient in whatever recipe calls for it — this isn't a dish on its own. Most of the bones' fat and collagen stay behind in what gets strained out or skimmed off; what remains in the liquid is mostly gelatin, minerals, and dissolved aromatics.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -36039,6 +36831,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Stew meat (beef or venison)** — [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) *(braised/simmered)*
 - **Veal or beef steaks, ground after cooking** — [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) *(browned whole, cooled, ground, built into a sauce, then finished sous vide 24 hr)*
 - **Prime rib / whole bone-in rib roast** — [§7.114 Prime Rib](#7114-prime-rib) *(reverse-seared)*; drippings alone also appear in [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill)
+- **Beef knuckle and marrow bones** — [§8.40 Chicken Stock](#840-chicken-stock)'s Beef Stock variation *(bones browned in the oven, then simmered)*
 
 ### Pork
 
@@ -36057,11 +36850,12 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 
 ### Poultry
 
-- **Whole chicken/hen** — [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) *(placeholder, smoked)* · [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) *(fried)* · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) *(roasted)* · [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(roasted/braised)* · [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) *(simmered)* · [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(broken into parts, two-zone grilled)* · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(smoked, dipped in white sauce)*
-- **Chicken thighs / drumsticks** — [§7.5 Chicken Thighs](#75-chicken-thighs) *(placeholder)* · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) *(pan-fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(thigh variant noted)* · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) *(simmered)* · [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) *(dark meat/drumsticks preferred — sous vide 150°F, then double-dredged and fried)*
+- **Whole chicken/hen** — [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) *(placeholder, smoked)* · [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) *(fried)* · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) *(roasted)* · [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(roasted/braised)* · [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) *(simmered)* · [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(broken into parts, two-zone grilled)* · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(smoked, dipped in white sauce)* · [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) *(cut into 8, dredged and pan-browned, then braised in a wine-vinegar-cream pan sauce)* · [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) *(buttermilk- or, for Persian Roast Chicken, saffron-yogurt-marinated, then roasted)* · [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) *(whole or thighs, marinated and roasted, glazed at high heat)*
+- **Chicken thighs / drumsticks** — [§7.5 Chicken Thighs](#75-chicken-thighs) *(placeholder)* · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) *(pan-fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(thigh variant noted)* · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) *(simmered)* · [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) *(dark meat/drumsticks preferred — sous vide 150°F, then double-dredged and fried)* · [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) *(8 bone-in, skin-on thighs, as an alternative to a whole bird)*
 - **Chicken breasts** — [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), [§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) *(grilled)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(grilled)* · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip), [§9.7 Chicken Salad](#97-chicken-salad)
 - **Chicken wings** — [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) *(placeholder)* · [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(smoked/grilled, tossed in Buffalo sauce — distinct from §7.9, both kept)*
 - **Chicken hearts / livers** — [§7.6 Chicken Hearts](#76-chicken-hearts), [§7.7 Chicken Livers](#77-chicken-livers) *(both placeholders)*
+- **Chicken bones, backs, necks, feet, wingtips** — [§8.40 Chicken Stock](#840-chicken-stock) *(simmered 6–8 hr, per [§T87 Stock](#t87-stock--saving-scraps-for-the-pot)'s scrap-saving habit)*
 - **Cornish game hen** — [§7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) *(marinated, two-zone grilled)*
 - **Whole turkey / turkey breast** — [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) *(simmered)* · [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) *(cold, leftover roast)* · [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(whole, dry-brined and smoked, with pan-drippings gravy)*
 - **Whole duck** — [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles), [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo), [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) *(all simmered)*

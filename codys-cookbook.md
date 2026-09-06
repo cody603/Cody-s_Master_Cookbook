@@ -35168,6 +35168,7 @@ Taste the soup for salt, sweetness, and acid balance. If it tastes very flatly s
 - 🛒 Yellow onions — 2 medium
 - 🛒 Salt
 - 🛒 White wine vinegar or lime, for balancing if needed
+- 🛒 An acidic garnish for serving — salsa, or ingredients for [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) *(the source names its own Mexican-ish Herb Salsa or Indian Coconut-Cilantro Chutney; neither page was photographed)*
 
 #### Nutrition *(estimated)*
 

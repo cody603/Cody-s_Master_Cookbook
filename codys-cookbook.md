@@ -195,6 +195,11 @@ Click any recipe to jump straight to it.
   - [4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) ✅ *(The Meathead Method)*
   - [4.175 Teriyaki Sauce](#4175-teriyaki-sauce) ✅ ⚠️ *(Meathead: The Science of Great Barbecue and Grilling; recovered by the 2026-09-06 page-order audit — title inferred, see entry)*
   - [4.176 Lubing Turkey Breasts (Oil Injection)](#4176-lubing-turkey-breasts-oil-injection) ✅ *(Meathead: The Science of Great Barbecue and Grilling; recovered by the 2026-09-06 page-order audit)*
+  - [4.177 Quick Pickles](#4177-quick-pickles) ✅ *(The Meathead Method; a 1:1:1-part formula — completed 2026-09-06 from newly photographed pages)*
+  - [4.178 Kansas City Red](#4178-kansas-city-red) ✅ *(The Meathead Method; completed 2026-09-06 — title now confirmed, not inferred. **Distinct from [§4.117](#4117-kansas-city-classic-barbecue-sauce)**, the earlier book's sauce)*
+  - [4.179 Carolina Gold for Grownups](#4179-carolina-gold-for-grownups) ✅ *(The Meathead Method; added 2026-09-06 — distinct from [§4.35](#435-mustard-barbecue-sauce)/[§4.92](#492-carolina-mustard-barbecue-sauce)/[§4.118](#4118-columbia-gold-south-carolina-mustard-sauce))*
+  - [4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) ✅ *(The Meathead Method; completed 2026-09-06 — two recipes in one, the component [§7.132](#7132-kōji-filet-mignon) needs; distinct from [§4.79](#479-sauce-duxelles-brown-mushroom-sauce))*
+  - [4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce) ✅ *(Meathead: The Science of Great Barbecue and Grilling; recovered 2026-09-06 — closes the standing gap at [§7.98](#798-happy-mouth-yakitori-ribs))*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -451,6 +456,8 @@ Click any recipe to jump straight to it.
 - [7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) ✅ *(The Meathead Method)*
 - [7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) ✅ *(The Meathead Method; moules marinière-based)*
 - [7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) ✅ *(Meathead; recovered by the 2026-09-06 page-order audit — hot-and-fast over embers, distinct from [§7.97](#797-last-meal-ribs))*
+- [7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) ✅ *(The Meathead Method; completed 2026-09-06 from newly photographed pages — distinct from [§1 Cody's Pho](#1-codys-pho))*
+- [7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) ✅ *(The Meathead Method; Dorie Greenspan; completed 2026-09-06 from newly photographed pages)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -908,7 +915,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) | 🟢 | 10 min | — | — | 10 min |
 | [§4.169 Cool Smoke Rub](#4169-cool-smoke-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) | 🟢 | 10 min | — | — | 2 hr 10 min *(includes a 2 hr rest to meld)* |
-| [§4.173 Lexington Dip #2](#4173-lexington-dip-2) | 🟢 | 10 min | — | — | 10 min |
+| [§4.173 Lexington Dip #2](#4173-lexington-dip-2) | 🟢 | 10 min | — | — | 30 min *(as printed)* |
 | [§7.107 Skinny Steaks](#7107-skinny-steaks) *(Meathead)* | 🟡 | 5 min | 5 min | — | 10 min *(+ 1–2 hr dry brine)* |
 | [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
@@ -1073,6 +1080,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) | 🟢 | 15 min | 10 min | — | 5 hr 25 min *(+ 4–6 hr marinate)* |
 | [§7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) | 🟢 | 20 min | 5 min | — | 55 min *(+ 30 min marinate/noodle-soak, parallel)* |
 | [§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis) | 🟢 | 25 min | — | — | 25 min |
+| [§4.177 Quick Pickles](#4177-quick-pickles) *(The Meathead Method)* | 🟢 | 20 min | 5 min | — | 25 min active *(+ ~1 hr to cool and at least 24 hr in the fridge to age)* |
 | [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) *(Meathead)* | 🟢 | 25 min | — | **8–12 hr** *(indirect smoker, unattended)* | 16–21 hr *(includes an 8 hr soak to pull excess salt; +2–3 hr more if steaming before serving)* |
 | [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) | 🟢 | 10 min | 15 min | — | 25 min |
 | [§7.53 Pasta Puttanesca](#753-pasta-puttanesca) | 🟢 | 10 min | 15 min | — | 25 min |
@@ -1119,6 +1127,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§4.175 Teriyaki Sauce](#4175-teriyaki-sauce) *(Meathead)* | 🟢 | 10 min | 20 min | — | 30 min |
 | [§4.170 Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) | 🟡 | 10 min | 20 min | — | 30 min *(better after resting overnight)* |
+| [§4.178 Kansas City Red](#4178-kansas-city-red) *(The Meathead Method)* | 🟡 | 5 min | 25 min | — | 30 min |
 | [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) *(Meathead)* | 🟢 | 20 min | 10 min | — | 45 min |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(Meathead)* | 🟢 | 30 min | — | **12–14 hr** *(indirect smoker, unattended)* | 15–17 hr *(includes a 2–24 hr dry brine + 2+ hr rest in a faux Cambro)* |
@@ -1138,6 +1147,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
 | [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) *(The Meathead Method)* | 🟢 | 10 min | 25 min | — | 35 min |
+| [§4.179 Carolina Gold for Grownups](#4179-carolina-gold-for-grownups) *(The Meathead Method)* | 🟢 | 5 min | 30 min | — | 1 hr 15 min *(includes cooling to room temperature before blending)* |
 | [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§7.125 Beer-Battered Fish](#7125-beer-battered-fish) | 🟡 | 20 min | 15 min | — | 35 min |
@@ -1183,6 +1193,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | 🟡 | 20 min | 20 min | — | 2 hr 50 min *(2 hr brine)* |
 | [§7.138 Real Fried Chicken on a Gas Grill (It's Safe!)](#7138-real-fried-chicken-on-a-gas-grill-its-safe) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | 1 hr 40 min – 2 hr 40 min *(includes a 1–2 hr pickle-brine marinate)* |
 | [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) *(The Meathead Method)* | 🟢 | 10 min | 30 min | — | ~25 hr 10 min *(includes a 24 hr air-dry, mostly unattended in the fridge, + a 10 min hair-dry)* |
+| [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(The Meathead Method)* | 🟢 | 20 min | 20 min | **~5–7 hr** *(1–2 hr smoking the bones, then a 4–5 hr simmer, both unattended)* | ~6–8 hr |
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 30 min | — | 1 hr 10 min *(includes a 30 min batter chill)* |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 40 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
@@ -1245,6 +1256,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) | 🟢 | 20 min | 35 min | — | 55 min |
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
+| [§4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce) *(Meathead)* | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
 | [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) *(Meathead)* | 🟡 | 10 min | 45 min | — | 1 hr 45 min – 2 hr 45 min *(includes a 1–2 hr dry brine)* |
 | [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(Meathead)* | 🟢 | 10 min | 45 min | — | ~3 hr *(includes a ~2 hr salt soak)* |
@@ -1253,6 +1265,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) *(The Meathead Method)* | 🟡 | 15 min | 45 min | **2 hr** *(smoking the water, unattended)* | ~3 hr |
 | [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
 | [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
+| [§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) *(The Meathead Method)* | 🟢 | 15 min | 45 min | — | 1 hr |
 | [§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) | 🟢 | 10 min | 50 min | — | 1 hr |
 | [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) | 🟢 | 20 min | 40 min | — | 1 hr *(+ up to 2 hr chill before serving)* |
 | [§7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) *(Meathead)* | 🟢 | 15 min | 45 min | — | ~13 hr *(includes a 12 hr marinate)* |
@@ -1261,6 +1274,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) *(Meathead)* | 🟢 | 25 min | 35 min | — | 1 hr *(+ a 1–2 hr dry brine)* |
 | [§7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) *(Meathead)* | 🟢 | 30 min | 30 min | **4–6 hr** *(pork shoulder and belly, smoker, unattended)* | ~8 hr |
 | [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) *(Meathead)* | 🟡 | 10 min | 50 min | — | 1 hr |
+| [§7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) *(The Meathead Method)* | 🟡 | 30 min | 30 min | **~45 min** *(225°F smoke, unattended)* | ~2½ hr *(includes a 1–2 hr dry brine)* |
 | [§5.59 Squash Bisque](#559-squash-bisque) *(The Meathead Method)* | 🟢 | 35 min | 30 min | **40 min** *(smoker, unattended)* | 1 hr 45 min |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
 | [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) | 🟡 | 45 min | 20 min | **~2 hr** *(simmering the meat and liver, unattended)* | 3 hr 5 min |
@@ -41883,7 +41897,8 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Stew meat (beef or venison)** — [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) *(braised/simmered)*
 - **Veal or beef steaks, ground after cooking** — [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) *(browned whole, cooled, ground, built into a sauce, then finished sous vide 24 hr)*
 - **Prime rib / whole bone-in rib roast** — [§7.114 Prime Rib](#7114-prime-rib) *(reverse-seared)*; drippings alone also appear in [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill)
-- **Beef knuckle and marrow bones** — [§8.40 Chicken Stock](#840-chicken-stock)'s Beef Stock variation *(bones browned in the oven, then simmered)*
+- **Beef knuckle and marrow bones** — [§8.40 Chicken Stock](#840-chicken-stock)'s Beef Stock variation *(bones browned in the oven, then simmered)* · [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(5 lb beef femurs **split lengthwise**, smoked marrow-side up at 225°F for an hour or two, then simmered 4–5 hours — ask the butcher for 6-inch bones halved lengthwise, not the usual crosswise cut)*
+- **Leftover smoked brisket** — [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(1½ lb sliced thick, rewarmed and laid into the bowl — a use for the leftovers from [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.112](#7112-texas-beef-brisket)/[§6.7](#67-texas-style-smoked-brisket))*
 
 ### Pork
 
@@ -41891,7 +41906,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Pork shoulder / Boston butt** — [§6.2 Pulled Pork](#62-pulled-pork) *(indirect-grilled or smoked)* · [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) *(smoked)* · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) *(uses §6.2)* · [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) *(covered braise)* · [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) *(simmered, with liver)* · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) *(indirect-grilled or smoked; distinct from [§6.2](#62-pulled-pork))* · [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) *(uses §7.95's leftovers)* · [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(competition method — injected, rubbed, smoked hot at 300°F, Texas-crutched — distinct from §7.95, see entry)*
 - **Pork tenderloin** — [§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) *(grilled)* · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)* · [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) *(reverse-seared, indirect then direct)* · [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) *(grilled skewers)*
 - **Pork loin** — [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)* · [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(indirect-grilled)* · [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(tunnel-stuffed, indirect-grilled)*
-- **Pork chops** — [§7.4 Pork Chops](#74-pork-chops) *(placeholder — [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) is the likely method)* · [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(wet-brined, then grilled)*
+- **Pork chops** — [§7.4 Pork Chops](#74-pork-chops) *(placeholder — [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) is the likely method)* · [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(wet-brined, then grilled)* · [§7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) *(**2-inch-thick** chops, dry-brined, smoked at 225°F to 120°F, then finished over direct heat to 135–140°F and served under an apple-mushroom-Calvados cream sauce — see [§T62 Types of Pork Chops](#t62-types-of-pork-chops), since thickness is the whole method here)*
 - **Baby back / spare ribs** — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) *(indirect-grilled)* · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(indirect-smoked)* · [§7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) *(hot and fast over wood embers — the direct-heat opposite of §7.97, see entry)* · [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(indirect-grilled, then glazed)* · [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(indirect-smoked, competition method — Texas-crutched and glazed — distinct from §7.97/§7.98, see entry)*
 - **Ribs, cut unspecified** — [§6.5 Smoked Ribs](#65-smoked-ribs) *(placeholder, smoked)*
 - **Pork bones** — [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) *(roasted, then simmered)*

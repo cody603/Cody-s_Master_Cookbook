@@ -239,6 +239,7 @@ Click any recipe to jump straight to it.
 - [5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) ✅ *(Meathead)*
 - [5.47 Smoked Potato Salad](#547-smoked-potato-salad) ✅ *(Meathead)*
 - [5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) ✅ *(Meathead; distinct from [§5.33](#533-quick-and-smoky-baked-beans)/[§5.34](#534-brazilian-black-beans-with-bacon-tutu-mineira))*
+- [5.49 Persian-ish Rice](#549-persian-ish-rice) ✅ *(Salt, Fat, Acid, Heat; includes Bread Tahdig, Saffron Rice, Herbed Rice, and Fava Bean and Dill Rice variations)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -375,6 +376,7 @@ Click any recipe to jump straight to it.
 - [7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) ✅ *(Meathead)*
 - [7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) ✅ *(Meathead)*
 - [7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) ✅ *(Meathead)*
+- [7.123 Kufte Kebabs](#7123-kufte-kebabs) ✅ *(Salt, Fat, Acid, Heat; includes Moroccan Kofta and Turkish Köfte variations)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -501,6 +503,8 @@ Click any recipe to jump straight to it.
 - [14.19 Vodka Pie Crust](#1419-vodka-pie-crust) ✅ *(Judy Kim; Cody's own coarse-salt modification)*
 - [14.20 Cream Caramel](#1420-cream-caramel) ✅ *(Champions of Sous Vide; ⚠️ small print — custard sugar quantity approximate, see entry)*
 - [14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) ✅ *(Salt, Fat, Acid, Heat; ⚠️ Vanilla Cream filling not photographed — see entry)*
+- [14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) ✅ *(Salt, Fat, Acid, Heat)*
+- [14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) ✅ *(Salt, Fat, Acid, Heat; ⚠️ Vanilla Cream filling not photographed — see entry, same gap as [§14.21](#1421-loris-chocolate-midnight-cake))*
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -524,6 +528,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Four more recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and yesterday's first batch of actual recipe pages, [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)/[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing). **[§5.49 Persian-ish Rice](#549-persian-ish-rice)** (p. 285–287, two photographed pages combined into one continuous recipe) — parboiled basmati rice pan-fried over a yogurt-rice base to form *tahdig*, the crisp golden crust Persian cooking is built around; its four named variations (Bread *Tahdig*, Saffron Rice, Herbed Rice, Fava Bean and Dill Rice) folded in as callouts, matching the [§8.37](#837-chicken-and-garlic-soup) precedent. **Rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, unmolding the crust is a genuine can-go-wrong moment the source itself dwells on ("gather your courage... if for any reason your rice doesn't slip out in one piece, do what every Persian grandmother has done"), unlike this batch's other three, which are all 🟢 Easy. **[§7.123 Kufte Kebabs](#7123-kufte-kebabs)** (p. 356–357) — hand-formed torpedo-shaped ground lamb kebabs, grilled or pan-seared, with Moroccan Kofta and Turkish *Köfte* variations folded in the same way; kept distinct from this cookbook's existing Raichlen beef kebabs ([§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef)), which are cubed and skewered rather than hand-formed. **[§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola)** (p. 402–403) — a slow 300°F bake of oats, seeds, nuts, olive oil, and dark maple syrup, filed in Desserts to match the source's own "Sweets" placement. **[§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake)** (p. 412–413) — a two-layer oil cake built on puréed fresh ginger and molasses, using the "boiling water method" (a hot-liquid-into-oil mixing technique, sometimes called a hot-milk cake). **Same Vanilla Cream gap as [§14.21](#1421-loris-chocolate-midnight-cake), handled the same way:** this cake also calls for the source's own "Vanilla Cream (page 423)," not among the photographed pages for either cake — not invented here; the same whipped-cream/buttercream substitute noted at §14.21 is repeated at §14.23 rather than duplicated in full, and both entries cross-link to each other and flag the gap in Open Questions. **Three dead cross-references in [§5.49](#549-persian-ish-rice)/[§7.123](#7123-kufte-kebabs) — Slow-Roasted Salmon (p. 310), Persian Roast Chicken (p. 341), and Kuku Sabzi (p. 306) — are all noted as "not yet in this cookbook" rather than invented**, per this cookbook's standing honesty practice; Persian Herb Yogurt, Shaved Carrot Salad with Ginger and Lime, and Charmoula (all named in §7.123's own serving suggestions) get the same treatment. **Intermediate chef terminology explained in plain language throughout, per Cody's standing request:** *tahdig* and why Persian cooks prize it, *maman* (mother, per the source's own word choice), al dente as it applies to rice specifically (a firm core that finishes cooking later, not a fully tender grain), saffron tea (grinding saffron with salt, then blooming it in boiling water — explained in full at §5.49's Saffron Rice variation and cross-linked from §7.123 rather than re-explained there), why kneading kofta with warm hands helps (body heat softens the fat and binds the mixture), the dime-size pink doneness check for a kebab, the boiling-water/hot-milk-cake mixing method for the ginger cake, and old-fashioned rolled oats vs. quick oats for the granola. **Maillard reaction and caramelization, both named in the granola's own headnote, are cross-linked to the existing [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) rather than re-explained**, per this cookbook's practice of linking to standing content instead of duplicating it; molasses's own acidity (the ginger cake's baking-soda partner) is cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid)'s existing acid list rather than re-explained. **No duplicates found** — this cookbook had no existing Persian rice, kofta/kebab, granola, or ginger cake recipe before this batch (its existing kebabs are all cubed beef from a different book, cross-referenced above rather than confused for this one). None of the four print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-05 | **Five recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), which up to now only existed here as Cody's condensed, paraphrased distillations. These five are the first *actual recipe pages* transcribed from this source, with real quantities. **[§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)** (p. 332–333) — a whole chicken braised in stock with onion, carrot, celery, and a garlic bloom stirred in at the end; its two named variations, **Spring Garlic Soup** (green garlic in place of the 20 cloves) and ***Pho Gà*** (a Vietnamese chicken-noodle-soup build with charred onion/ginger, fish sauce, and star anise), plus its "add heartiness" and "turn into a main course" tips, are folded into the one entry as callouts rather than spun off into separate numbered recipes — matching this cookbook's existing precedent (e.g. [§14.20 Cream Caramel](#1420-cream-caramel)'s variation note) for keeping a source's own variations inline when they don't change the core method. Cross-referenced against [§1 Cody's Pho](#1-codys-pho) as a different chicken-based soup, not a conflicting version of the established beef pho. **[§8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup)** (p. 273) — egg whisked with Parmesan and parsley, poured into simmering stock in a thin stream. **Rated 🟡 Medium, the only one of the five not rated Easy** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, the source itself warns that pouring too fast or stirring too hard breaks the egg into "tiny, unappetizing bits" instead of the wide ribbons (*stracci*, "rags") the soup is named for, a real ruin-it risk the other four don't have. *(A stray, unrelated fragment at the top of this source photo — the tail end of a different, uncaptured recipe — was identified and left out rather than guessed at.)* **[§8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)** (p. 275–276) — corn cobs simmered into their own stock, then puréed with sautéed onion and corn into a silky soup; its general vegetable-soup formula and no-cook Chilled Cucumber and Yogurt Soup variation folded in the same way as §8.37's. **[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)** (p. 247) — **not a new dish so much as the recipe [§T29](#t29-how-to-salt) and [§T31 How to Use Acid](#t31-how-to-use-acid) were already teaching from in the abstract** (five sources of salt, four of acid, all in one dressing); both entries are now cross-linked forward to this full write-up instead of describing the technique with no recipe attached. **Two source gaps flagged rather than invented, per this cookbook's standing honesty practice:** §4.134 calls for the source's own "Basic Mayonnaise (page 375)" and a "Torn Croutons" garnish, neither of which was among the photographed pages — good store-bought mayonnaise (or this cookbook's own [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) and plain toasted croutons stand in, both flagged in an Open Questions section rather than silently substituted. **[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)** (p. 410–411) — an oil-based chocolate layer cake, cross-referenced to [§T30 How to Use Fat](#t30-how-to-use-fat)'s existing explanation of why oil (not butter) makes for a moister cake, and to [§T31 How to Use Acid](#t31-how-to-use-acid)'s note on baking soda needing an acid partner, to explain why this Dutch-process-cocoa recipe leans on coffee rather than the cocoa itself for that reaction. **The source's own "Vanilla Cream (page 423)" filling/frosting wasn't photographed and isn't invented here** — the cake layers are documented in full, with a whipped-cream or basic buttercream substitute noted and the gap flagged in Open Questions, ready to swap in the real thing once that page is available. **Intermediate chef terminology explained in plain language throughout, per Cody's explicit request**, rather than left as unglossed shorthand: *stracci*/why the egg forms ribbons instead of clumps (§8.38), **blond** as a stage of cooking onions — pale gold and translucent, not browned, a different use of the word than this cookbook's existing *blond roux* entries (§8.39), salt-packed vs. oil-packed anchovies and why the salt-packed kind get soaked and filleted by hand (§4.134), mortar-and-pestle technique for anchovies (§4.134), fine-mesh sieve straining (§8.39), immersion blender vs. countertop blender safety with hot soup — venting the lid, blending in batches, filling only halfway (§8.39), Dutch-process vs. natural cocoa and why it changes the baking soda reaction (§14.21), and oil cake vs. butter cake (§14.21). **Layering Salt is cross-referenced to [§T29](#t29-how-to-salt) rather than re-explained**, per Cody's own standing content already covering it. **None of the five print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists, labeled as such. **No duplicates found** — this cookbook's existing chicken soups ([§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.16](#816-cleansing-ginger-chicken-soup)) are both genuinely different recipes, and there was no existing Caesar dressing, corn soup, or chocolate cake recipe anywhere in the book before this batch — only the abstract Caesar-dressing teaching example in §T29/§T31, now linked forward. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-05 | **Sides chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — the sixth and final chapter of this multi-batch Meathead project. Nine full recipes and one condensed technique entry, plus two recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Nine full recipes added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.39 Fennel Fondant](#539-fennel-fondant): **[§5.40](#540-simple-grilled-crostini) Simple Grilled Crostini**, **[§5.41](#541-grilled-asparagus) Grilled Asparagus** (rub-and-shaved-Parmigiano, finished with real balsamic — **kept distinct from the existing [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)**, all from a different source), **[§5.42](#542-grilled-cauliflower) Grilled Cauliflower** (steaks and florets, reverse-seared — distinct from the still-undocumented [§5.6](#56-cauliflower) placeholder), **[§5.43](#543-the-ultimate-grilled-corn-on-the-cob) The Ultimate Grilled Corn on the Cob** (shucked and grilled with a tarragon butter — **kept distinct from the existing [§5.14 Grilled Corn](#514-grilled-corn)**, Raichlen's husk-on garlic-parsley-butter version; both kept, cross-referenced), **[§5.44](#544-chipotle-lime-corn-on-the-cob) Chipotle-Lime Corn on the Cob** (same technique, a chipotle-lime butter baste), **[§5.45](#545-grilled-romaine-salad) Grilled Romaine Salad** (lemon-basil dressing, blue cheese, candied pecans), **[§5.46](#546-fire-roasted-eggplant-baba-ghanoush) Fire-Roasted Eggplant Baba Ghanoush** (grilled rather than oven-roasted, with harissa and garam masala bloomed into the oil), **[§5.47](#547-smoked-potato-salad) Smoked Potato Salad** (par-boiled potatoes finished on the smoker before going into a classic mayo dressing), and **[§5.48](#548-boston-barbecue-beans) Boston Barbecue Beans** (navy beans cooked in a pan directly under a rack of smoking ribs so the drippings fall straight in — **kept distinct from the existing [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)/[§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira)**; all three kept, cross-referenced). **Rated 🟢 Easy across the board except [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, this one isn't a true hands-off slow cook: the source's own instructions call for occasional stirring and pan-rotation over 3 to 4 hours, and the beans can scorch on one side or dry out if left completely unattended — a real, if forgivable and recoverable, failure mode that the rest of this chapter's grilled vegetables simply don't have. [§5.47 Smoked Potato Salad](#547-smoked-potato-salad)'s 45-minute smoke is filed in the **Slow cook** column rather than Cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that smoker time is Slow cook "at any length," and [§5.48](#548-boston-barbecue-beans)'s 3–4 hour bean-and-rib smoke gets the same treatment. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every salt amount here is transcribed exactly as printed. **One new condensed technique entry, [§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)**, added to the Techniques quick index — real Aceto Balsamico Tradizionale (the Extra Vecchio and Affinato grades) versus supermarket "balsamic vinegar of Modena" (usually just sweetened, caramel-colored wine vinegar), and how to tell the difference by reading the back label rather than trusting the price or the front; used by [§5.41 Grilled Asparagus](#541-grilled-asparagus). **No separate general "Cooking Vegetables" technique entry was needed** — the existing [§T47 Cooking Vegetables and Fruits — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) (from the earlier Brines/Rubs/Sauces batch) already covers the science this chapter's recipes draw on, and no distinct new intro passage on the topic turned up in the photographed Sides pages. **Two recipes skipped rather than guessed at, both flagged in advance by Cody and confirmed genuinely incomplete:** **Sweet and Sour Coleslaw** (book p. 362) — its dressing ingredient list ("2 table...," "1 table...," "1 teasp...," and four more lines) and its slaw ingredient list ("1 pou... ca...," "1 larg...," "1 sm...," "½ b...," "Radi...") are both cut off mid-line at the page's right-hand margin, with no legible amounts for any line and no continuation page anywhere in the 54-page scan — this is the last Sides page photographed, so there's no page 363 to check; and an untitled **polenta** recipe (book p. 360) whose only visible content is mid-recipe grilling instructions (greasing an 8-inch pan, chilling the poured polenta overnight, cutting it into rectangles, grilling them, and a Parmigiano-Reggiano note) with no title, headnote, or ingredient list anywhere in the photographed set — book pp. 358–359, which would carry them, were not part of the scan (the photographed pages jump directly from 357 to 360). Both match Cody's own stated suspicions exactly. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §5 and the T-section, and that this closes out the book — Seafood, Pork, Beef, Ground Meats, Chicken & Turkey, and now Sides are all in. None of the nine recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the nine new recipes land at 10 min ([§5.40](#540-simple-grilled-crostini)), 20 min ([§5.41](#541-grilled-asparagus), next to [§5.14 Grilled Corn](#514-grilled-corn); [§5.47](#547-smoked-potato-salad) and [§5.48](#548-boston-barbecue-beans), both with their long cook time in the Slow cook column instead), 25 min ([§5.44](#544-chipotle-lime-corn-on-the-cob), [§5.45](#545-grilled-romaine-salad)), 35 min ([§5.46](#546-fire-roasted-eggplant-baba-ghanoush)), 40 min ([§5.42](#542-grilled-cauliflower)), and 45 min ([§5.43](#543-the-ultimate-grilled-corn-on-the-cob)). |
 | 2026-09-05 | **Chicken and Turkey chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — five full recipes and six condensed technique entries, plus three recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Five full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Seafood gap-fill batch's [§7.117](#7117-championship-bacon-wrapped-stuffed-shrimp): **[§7.118](#7118-simon--garfunkel-chicken) Simon & Garfunkel Chicken** (built on the existing [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub)), **[§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) Big Bob Gibson's Chicken in 'Bama White Sauce** (smoked and dipped in the existing [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) — same Big Bob Gibson sauce family, not a new condiment; ⚠️ the source's printed chicken weight, "1½ to 4-pound chicken," almost certainly misreads "3½ to 4-pound" and is flagged rather than silently fixed), **[§7.120](#7120-blasphemy-buffalo-chicken-wings) Blasphemy Buffalo Chicken Wings** (grilled/smoked rather than deep-fried, with its own Blue Cheese Dip and Classic Buffalo Hot Sauce kept as inline sub-components rather than spun off into §4 — the dip uses [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); **kept distinct from the existing [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) placeholder**, both cross-referenced), **[§7.121](#7121-marinated-cornish-game-hens) Marinated Cornish Game Hens** (Meathead's own family marinade, tweaked from a 1981 *New York Times* recipe by his sister), and **[§7.122](#7122-the-ultimate-smoked-turkey) The Ultimate Smoked Turkey** (dry-brined whole bird smoked over a vegetable-and-broth drip pan that becomes the gravy base, using [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); ⚠️ a few of the source's mid-recipe internal-temperature checkpoints were hard to make out in a skewed photo, so this entry's doneness targets default to this cookbook's own [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) 165°F poultry standard rather than a guessed number). **Rated 🟢 Easy across the board except [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, the long smoke itself is exactly the forgiving, hands-off cooking that stays Easy (same reasoning as this cookbook's other multi-hour smokes), but the finishing pan-drippings gravy is a genuine fail point — it can scorch or reduce to paste if left unwatched — so that one recipe sits a notch above the rest of this chapter. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every dry-brine/salt amount here — including [§7.122](#7122-the-ultimate-smoked-turkey)'s ½ tsp/lb turkey dry brine — is transcribed exactly as printed, since these are seasoning steps inside regular recipes rather than standalone brine entries. **Six new condensed technique entries, [§T77](#t77-tips-on-cooking-poultry)–[§T82](#t82-how-to-carve-a-turkey)**, added to the Techniques quick index: **Tips on Cooking Poultry** (reverse sear adapted for birds, breaking down/halving/spatchcocking a whole bird, roasting whole vs. why it cooks unevenly, rotisserie/vertical roasting, and the book's own white-meat/dark-meat pull-temperature guidance), **Myth — Beer Can Chicken** (busted: the can never gets hot enough to steam, weighed the same or heavier after cooking in the book's own tests, and beer is ~92% flavorless water anyway; also a real tip-over/burn risk), **Anatomy of a Chicken Wing** (drumette, wingette/flat, and tip, each cooking at a different rate — used directly by [§7.120](#7120-blasphemy-buffalo-chicken-wings)), and three turkey-specific entries: **Choosing Your Turkey** (sizing, "basted"/"enhanced"/"kosher" bird labeling, fresh-vs-frozen realities, thawing time), **Cooking the Perfect Turkey** (a full do's-and-don'ts list — don't stuff it, don't truss the legs, don't baste during cooking, don't trust the pop-up timer, don't tent with foil), and **How to Carve a Turkey** (kitchen not tableside, legs/thighs/the "oyster" meat/breast, in order). **Three recipes skipped rather than guessed at, all genuinely cut off or missing from the source photos:** **Cornell Chicken** (book p. ~299 — the marinade ingredient list is visibly cut off mid-line, "...1 teaspoon Simon & G," with nothing after it and none of the numbered steps legible; a separate, unidentifiable fragment of cooking steps for what appears to be yet another pulled-chicken-with-cracklins recipe sits nearby with no title or ingredients at all, also skipped); **Piri Piri Chicken** (its intro runs to the bottom of book p. 301, but its MAKES/TAKES line and full marinade ingredient list — which would open book p. 302 — are not legible in this scan; only its tail-end cooking steps reappear on p. 303, with no way to reconstruct what precedes them); and **Rotisserie Chicken Provençal** (its title and headnote are legible on book p. 304, but book p. 305 — which would carry its entire ingredient list and numbered steps — was not part of this photographed set at all). **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** — new "Cornish game hen" line added to Poultry, and the existing "Whole chicken/hen," "Chicken wings," and "Whole turkey / turkey breast" lines now also point at this batch's recipes. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7 and the T-section, same reasoning as every prior Meathead batch. None of the five recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, with [§7.122](#7122-the-ultimate-smoked-turkey)'s explicitly scaled to a representative 14-lb bird since the recipe itself is sized "any size." TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the five new recipes land at 30 min ([§7.122](#7122-the-ultimate-smoked-turkey), next to [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) — its 2–5 hr smoke lives in the Slow cook column instead, per the [§1 Cody's Pho](#1-codys-pho) precedent), 45 min ([§7.118](#7118-simon--garfunkel-chicken)), 60 min ([§7.121](#7121-marinated-cornish-game-hens)), 75 min ([§7.120](#7120-blasphemy-buffalo-chicken-wings)), and 95 min ([§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)). |
@@ -1048,6 +1053,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
 | [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
 | [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
+| [§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) | 🟢 | 10 min | 50 min | — | 1 hr |
+| [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) | 🟢 | 20 min | 40 min | — | 1 hr *(+ up to 2 hr chill before serving)* |
 | [§7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) *(Meathead)* | 🟢 | 15 min | 45 min | — | ~13 hr *(includes a 12 hr marinate)* |
 | [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) | 🟢 | 20 min | 45 min | — | 1 hr 5 min |
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 30 min | — | 1 hr 10 min *(includes a 30 min batter chill)* |
@@ -1083,11 +1090,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.26 Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) | 🔴 | 25 min | 40 min | — | 1 hr 5 min |
 | [§14.11 Pecan Pie III](#1411-pecan-pie-iii) | 🟢 | 15 min | 50 min | — | 1 hr 5 min |
 | [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) | 🟢 | 10 min | 55 min | — | 1 hr 5 min |
+| [§7.123 Kufte Kebabs](#7123-kufte-kebabs) | 🟢 | 25 min | 8 min | — | 35 min |
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger) *(Meathead)* | 🟡 | 20 min | 30 min | — | 50 min |
 | [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
+| [§5.49 Persian-ish Rice](#549-persian-ish-rice) | 🟡 | 15 min | 55 min | — | 1 hr 10 min |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) | 🟡 | 25 min | 45 min | — | 1 hr 10 min |
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
@@ -16142,6 +16151,93 @@ Paint the ribs with barbecue sauce and sizzle them over direct heat for a couple
 
 ---
 
+### 5.49 Persian-ish Rice
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 285–287). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake). Two photographed pages (285, then 286–287) combine into one continuous recipe here — the second picks up mid-sentence exactly where the first leaves off. Four named variations (Bread *Tahdig*, Saffron Rice, Herbed Rice, Fava Bean and Dill Rice) are folded in as callouts, matching this cookbook's precedent for keeping a source's own variations inline — see [§8.37](#837-chicken-and-garlic-soup) — rather than spinning each into a separate numbered recipe.
+
+> **Per the source:** *"Every Persian has a special relationship with rice, and particularly with* tahdig*, the crispy crust by which every Iranian* maman*'s culinary prowess is measured. Judged on its even browning, perfect crispness, and whether it emerges from the pot in a beautiful cake, as well as its taste, a good* tahdig *is something to be proud of. Since traditional Persian rice can take years to perfect and hours to make, I'm including this Persian-ish variation, which I accidentally devised one night when I found myself with a few extra cups of just-boiled basmati rice on my hands."*
+
+**Serves 4 to 6**
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~55 min** *(includes ~35–40 min of mostly hands-off pan time, turning the pan every few minutes)* · **Start to finish ~1 hr 10 min**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test — can a step go from perfect to ruined? — unmolding the *tahdig* genuinely can. The source is blunt about it: *"There isn't a way to tell what* tahdig *will look like until you flip it... gather your courage, and then carefully flip it onto a platter or cutting board."* A crust that sticks or breaks apart isn't a ruined dinner (the source's own fallback below handles that), but it is a real, un-telegraphed moment where a step can go sideways — not a hands-off bake or a forgiving braise like most of this cookbook's 🟢 Easy entries.
+
+#### A. Ingredients
+
+- 2 cups basmati rice
+- Salt
+- 3 tablespoons plain yogurt
+- 3 tablespoons butter
+- 3 tablespoons neutral-tasting oil
+
+> **What "-ish" means here.** Traditional Persian rice — *chelow* — takes years to master and hours to make, cooked from scratch with its own careful steaming process. This is the source's own deliberately simplified shortcut, built around rice that's already been boiled, which is why the ingredient list is so short.
+
+#### B. Cooking Instructions
+
+**1. Rinse the rice until the water runs clear. At least five changes of water.**
+Place the rice in a bowl and rinse with cold water, swirling vigorously with your fingers and changing the water at least five times, until the starch has run off and the water runs clear. Drain. This washes off the loose surface starch that would otherwise make the rice gummy — it's the difference between distinct, separate grains and a sticky clump, and it matters even more here because this rice still has to hold together into a crust later.
+
+**2. Boil a big pot of heavily salted water.**
+Fill a large stockpot with 4 quarts of water and bring it to a boil over high heat. Once it's boiling, salt it heavily — about 6 tablespoons fine sea salt or a generous ½ cup kosher salt. The water should taste saltier than the saltiest seawater you've ever tasted. This is your only chance to season the rice from within, since it's only going to spend a few minutes in the salted water, so don't panic about oversalting your food. *(This is [§T29 How to Salt](#t29-how-to-salt)'s "salting the water isn't wasting salt" rule, taken almost to its limit.)*
+
+**3. Parboil the rice to al dente — about 6 to 8 minutes — then stop the cooking cold.**
+Add the rice to the boiling water and stir. Set a fine-mesh sieve or colander in the sink. Cook the rice, stirring from time to time, until it's **al dente** — for rice, that means the outside of the grain is tender but there's still a firm, slightly undercooked core at the center, the same "still has a bite to it" idea as al dente pasta. About 6 to 8 minutes gets you there. Drain into the sieve and immediately begin rinsing with cold water to stop the rice from cooking further — the cold water shocks it and halts the carryover cooking on the spot. Drain again. Don't cook the rice fully through at this stage; it still has to finish cooking later inside the pan, and rice that's already fully tender now will turn to mush by the time the crust forms.
+
+**4. Mix 1 cup of the rice with the yogurt.**
+Remove 1 cup of the parcooked rice and combine it with the yogurt. This yogurt-rice mixture becomes the very bottom layer of the pan — it helps the crust release cleanly later and gives the finished *tahdig* a faint tang.
+
+**5. Build the tahdig base in a hot, well-seasoned pan.**
+Set a large, very well seasoned 10-inch cast iron skillet or nonstick frying pan over medium heat, then add the oil and butter. When the butter melts, add the yogurt-rice mixture to the pan and level it out. Pile the remaining rice into the pan, mounding it gently toward the center. Using the handle of a wooden spoon, gently dig five or six holes down into the rice, all the way to the bottom of the pot, which will be gently sizzling. **This is what *tahdig* actually is** — the golden, crisp-fried layer of rice that forms against the hot, oiled bottom of the pan while the rest of the rice above it steams soft. It's the single most prized part of Persian rice cookery, which is why the source frames the whole dish around it. The holes let steam escape from that bottommost layer so a crisp crust can actually form instead of steaming soft like the rest of the rice. There should be enough oil in the pan that you can see it bubbling up the sides; add a little more oil if you can't see those bubbles.
+
+**6. Cook until a golden crust starts forming at the edges. About 15 to 20 minutes.**
+Continue cooking the rice over medium heat, turning the pan a quarter turn every 3 or 4 minutes to ensure even browning, until you start to see a golden crust begin to form at the sides of the pan — the color moving from pale to amber, about 15 to 20 minutes.
+
+**7. Drop the heat and finish cooking through. About 15 to 20 minutes more.**
+Once the crust at the sides turns from pale amber to gold, reduce the heat to low and continue cooking for another 15 to 20 minutes. The edges of the crust should be golden, and the rice should be cooked completely through. There's no way to tell what the *tahdig* actually looks like until you flip it out of the pan, so the source's own preference is to err on the side of overbrowning — but if that makes you nervous, pull the rice after about 35 total minutes in the pan rather than pushing further.
+
+**8. Unmold — the moment that can go wrong.**
+Carefully run a spatula along the edges of the pan to make sure no part of the crust is sticking. Tip out any excess fat at the bottom of the pan into a bowl, gather your courage, and carefully flip the pan over onto a platter or cutting board. Done right, it should look like a beautiful cake of fluffy rice with a golden crust. **If for any reason the rice doesn't slip out in one piece**, per the source, do what every Persian grandmother has done since the beginning of time: scoop out the rice, chip out the *tahdig* in pieces with a spoon or metal spatula, and pretend you meant to do it that way. No one will be the wiser — a broken crust still tastes exactly the same as a perfect one.
+
+Serve immediately. *Pairs well with Slow-Roasted Salmon (not yet in this cookbook), [§7.123 Kufte Kebabs](#7123-kufte-kebabs), Persian Roast Chicken (not yet in this cookbook), or Kuku Sabzi (not yet in this cookbook)* — all four are the source's own suggested pairings; the first, third, and fourth aren't documented here since those pages weren't among the ones photographed, so they're noted rather than invented.
+
+> **Variation — Bread *Tahdig*.** In place of the plain rice crust, cut a 10-inch circle out of a piece of lavash bread, or use a 10-inch flour tortilla. Mix the yogurt into the entire amount of parcooked rice instead of just 1 cup. Preheat the pan as directed above, add the butter and oil, then lay the bread circle or tortilla into the pan before spooning in the rice and continuing as above. A bread *tahdig* browns faster than an all-rice one — keep a closer eye on it and turn the heat down to low after about 12 minutes rather than 15 to 20.
+
+> **Variation — Saffron Rice.** Make **saffron tea** — this is the extraction step behind any Persian recipe that calls for saffron, including [§7.123 Kufte Kebabs](#7123-kufte-kebabs). Grind a generous pinch of saffron threads to a powder with a pinch of salt in a mortar and pestle (the salt acts as an abrasive grit, since saffron threads are too fibrous to powder cleanly on their own), then add 2 tablespoons of boiling water and let it steep for 5 minutes. What comes out is a small cup of deep reddish-gold liquid — that's saffron tea, and it's how the herb's color and aroma actually get into a dish, rather than dropping the dry threads straight in where most of their flavor never fully releases. Drizzle the tea over the drained, parcooked rice and continue adding the rice to the frying pan as directed above. Serve with [§7.123 Kufte Kebabs](#7123-kufte-kebabs).
+
+> **Variation — Herbed Rice.** Stir 6 tablespoons of finely chopped parsley, cilantro, and/or dill (any combination) into the cooked, drained rice. Cook as directed above. Serve with Slow-Roasted Salmon and Herbed Yogurt (neither yet in this cookbook).
+
+> **Variation — Fava Bean and Dill Rice.** Stir ⅓ cup finely chopped dill and ¾ cup fresh or thawed frozen, peeled fava or lima beans into the drained, cooked rice. Cook as directed above. Serve with Persian Roast Chicken (not yet in this cookbook).
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Basmati rice — 2 cups
+- 🛒 Salt (table or fine sea salt, for the boiling water) and kosher salt
+- 🛒 Plain yogurt — 3 Tbsp (plus more for Bread *Tahdig*, which uses the full batch)
+- 🛒 Butter — 3 Tbsp
+- 🛒 Neutral-tasting oil (grapeseed, canola, or vegetable) — 3 Tbsp
+- 🛒 Saffron threads — a generous pinch, for Saffron Rice
+- 🛒 Lavash bread or a 10-inch flour tortilla — for Bread *Tahdig*
+- 🛒 Fresh parsley, cilantro, and/or dill — 6 Tbsp chopped, for Herbed Rice
+- 🛒 Fresh or frozen fava or lima beans — ¾ cup, plus fresh dill — ⅓ cup chopped, for Fava Bean and Dill Rice
+
+#### Nutrition *(estimated)*
+
+*Base recipe (plain rice, no variations) — the variations add relatively little (a spoonful of herbs, a splash of saffron tea) except Bread* Tahdig*, which adds roughly one tortilla's worth of calories and carbs on top of the numbers below.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,035 | 77 g | 29 g | 302 g | 8 g |
+| **Per serving** *(serves 5)* | ~405 | 15 g | 6 g | 60 g | 2 g |
+
+**What a serving is:** a generous ¾ to 1 cup of rice, including a piece of the golden crust.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -25718,6 +25814,88 @@ Carve the turkey following [§T82](#t82-how-to-carve-a-turkey), arrange the meat
 
 ---
 
+### 7.123 Kufte Kebabs
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 356–357). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake), and [§5.49 Persian-ish Rice](#549-persian-ish-rice), which this recipe is one of that entry's own serving suggestions for. Two named variations (Moroccan Kofta, Turkish *Köfte*) are folded in as callouts, matching this cookbook's existing precedent (see [§8.37](#837-chicken-and-garlic-soup)) rather than spun off into separate numbered recipes. **Distinct from this cookbook's existing beef kebabs** — [§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef) are all cubed, skewered beef from a different book (Raichlen); this is hand-formed ground lamb, no skewer involved.
+
+> **Per the source:** *"Kufte, kofte, kefta—call it what you like. It's essentially a torpedo-shaped meatball, and every country in the Near and Middle East, as well as the Indian subcontinent, has its own variation. I cook this dish when friends request a Persian meal but I can't bear the thought of all the tinkering and chopping involved for Kuku Sabzi or any of our other endlessly complicated dishes."*
+
+**Makes about 24 kebabs (serves 4 to 6)**
+
+**🟢 Easy** · **Prep ~25 min** · **Cook ~8 min** · **Start to finish ~35 min**
+
+#### A. Ingredients
+
+- 1 large pinch saffron
+- 1 large yellow onion, coarsely grated
+- 1½ pounds ground lamb (preferably shoulder meat)
+- 3 garlic cloves, finely grated or pounded with a pinch of salt
+- 1½ teaspoons ground turmeric
+- 6 tablespoons very finely chopped parsley, mint, and/or cilantro, in any combination
+- Freshly ground black pepper
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Make saffron tea.**
+Grind the saffron to a powder with a pinch of salt in a mortar and pestle, then add 2 tablespoons boiling water and let it steep for 5 minutes — see [§5.49 Persian-ish Rice](#549-persian-ish-rice)'s Saffron Rice variation, which spells out this same method in full. This bloomed liquid is what actually carries saffron's color and aroma into the meat; the dry threads alone wouldn't release nearly as much.
+
+**2. Press the grated onion, and discard the liquid.**
+Push the grated onion through a sieve, pressing out as much liquid as possible, and discard the liquid. Raw grated onion holds a surprising amount of water, and that water would make the kebab mixture loose and hard to shape — pressing it out keeps the onion's flavor while getting rid of what would otherwise turn into a wet, crumbly kebab.
+
+**3. Combine and knead by hand.**
+Place the saffron tea, pressed onion, lamb, garlic, turmeric, herbs, and a pinch of black pepper into a large bowl. Add three generous pinches of salt and use your hands to knead the mixture together. **Your hands are valuable tools here** — your body heat melts the fat in the lamb a little bit as you knead, which helps the mixture bind together and yields less crumbly kebabs than working it with a spoon or stand mixer would. Keep kneading until everything looks evenly distributed, not just tossed together.
+
+**4. Taste-test before shaping.**
+Cook up a tiny piece of the mixture in a skillet and taste it for salt and other seasoning. Adjust as needed, and if necessary, cook a second piece and taste again. This is the only reliable way to check seasoning in a raw ground-meat mixture — you can't taste it safely as-is, so a small fried sample stands in for the real thing.
+
+**5. Form torpedo-shaped kebabs. About 2 tablespoons each — makes about 24.**
+Once the mixture is seasoned to your taste, moisten your hands and start forming oblong, three-sided meatballs by gently curling your fingers around 2 tablespoons of the mixture — the source's own illustration shows this as cupping the mixture in a loosely closed fist and letting your fingers press three shallow facets into it as you draw your hand closed, rather than rolling it round like a standard meatball. Lay the little torpedoes onto a parchment-lined baking sheet as you go.
+
+**6. Grill over hot coals until charred outside, just barely cooked through within. About 6 to 8 minutes.**
+Grill the kebabs over hot coals until delightfully charred on the outside and just barely cooked through within, about 6 to 8 minutes. Rotate them often once they start to brown, to give them an even crust rather than one blackened side. When done, the kebabs should be firm to the touch but still give a little in the center when squeezed. **If you're not sure whether they're done, cut one open and check** — if there's a **dime-size diameter of pink** at the very center, surrounded by a ring of brown, it's done. That thin margin of pink is intentional, not undercooked: carryover heat finishes it over the next minute or two off the fire, the same principle behind pulling meat slightly before your target and letting it coast the rest of the way (see [§T32 How to Use Heat](#t32-how-to-use-heat) and [§T33 How Meat Actually Cooks](#t33-how-meat-actually-cooks-conduction-carryover-and-why-resting-is-a-myth) on carryover generally).
+
+**7. Or cook indoors in a hot skillet. 6 to 8 minutes, flipping once.**
+To cook indoors, set a cast iron skillet over high heat, add just enough olive oil to coat the bottom of the pan, and cook for 6 to 8 minutes, flipping just once on each side.
+
+**8. Serve immediately or at room temperature.**
+Serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice) and Persian Herb Yogurt (not yet in this cookbook), or Shaved Carrot Salad with Ginger and Lime and Charmoula (neither yet in this cookbook) — all four are the source's own suggested pairings.
+
+> **Variation — Moroccan Kofta.** Omit the saffron and replace the mixed herbs with ¼ cup finely chopped cilantro only. Reduce the turmeric to ½ teaspoon. Add 1 teaspoon ground cumin, ¾ teaspoon hot pepper flakes, ½ teaspoon finely grated ginger, and a small pinch of ground cinnamon. Continue as above — same forming and cooking method, different spice profile.
+
+> **Variation — Turkish *Köfte*.** Use beef instead of lamb, if you'd like. Omit the turmeric, saffron, and herbs from the base recipe, and instead season with 1 tablespoon Turkish Marash pepper (or 1 teaspoon hot pepper flakes), ¼ cup finely chopped parsley, and 8 finely chopped mint leaves. Continue as above.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Saffron threads — 1 large pinch
+- 🛒 Yellow onion — 1 large
+- 🛒 Ground lamb, preferably shoulder — 1½ lb (or ground beef, for Turkish *Köfte*)
+- 🛒 Garlic — 3 cloves
+- 🛒 Ground turmeric — 1½ tsp
+- 🛒 Fresh parsley, mint, and/or cilantro — 6 Tbsp finely chopped
+- 🛒 Salt and freshly ground black pepper
+- 🛒 Olive oil — for the indoor skillet method
+- 🛒 Ground cumin, hot pepper flakes, fresh ginger, ground cinnamon — for Moroccan Kofta
+
+**🏪 Specific store — Middle Eastern/spice shop**
+
+- 🏪 Turkish Marash pepper (Turkish Köfte variation) — hot pepper flakes are a fine substitute if this isn't on hand
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(24 kebabs)* | ~1,800 | 145 g | 125 g | 15 g | 2 g |
+| **Per serving** *(serves 5, about 4–5 kebabs)* | ~360 | 29 g | 25 g | 3 g | 0 g |
+
+**What a serving is:** 4 to 5 kebabs — roughly the amount of meat in a chicken thigh, formed into torpedoes and grilled.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -33020,6 +33198,180 @@ Tightly wrapped, the cake keeps 4 days at room temperature, or 2 months in the f
 #### D. Open Questions
 
 - **Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook** — the page wasn't among those photographed. A whipped-cream or basic buttercream substitute is noted above; revisit and replace once that source page is available.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.22 Nekisia's Olive Oil and Sea Salt Granola
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 402–403), from the "Sweets" section of her recipe chapters. Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs). Filed here in Desserts, matching the source's own "Sweets" placement, since this cookbook doesn't yet have a dedicated breakfast-pastry shelf separate from §10 Breakfast's savory egg dishes.
+
+> **Per the source:** *"Until recently, I'd never been one to voluntarily eat granola for breakfast... But then a friend sent me a bag of Nekisia Davis's Early Bird Granola and told me it'd change my life... I had to know how it was made, so I tracked down Nekisia and begged her to share the recipe. The answer: Salt, Fat, and Acid, of course. First, salt... Next, by replacing the neutral-tasting oils used in most granola with extra-virgin olive oil, Nekisia worked powerful flavor into the ingredient list. She gave the granola's sweetness a nice acid balance by using dark and robust grade A maple syrup, which is usually made at the end of sugaring season and is imbued with a light acidity. The slow, dark toast that comes with careful tending at low heat also offers another acidic counterpoint, as well as all the other complex flavors of caramelization and the Maillard reaction."*
+
+**Makes about 8 cups**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~50 min** *(oven, stirring every 10–15 min)* · **Start to finish ~1 hr**
+
+#### A. Ingredients
+
+- 3 cups (10½ ounces) old-fashioned rolled oats
+- 1 cup (4½ ounces) hulled pumpkin seeds
+- 1 cup (5 ounces) hulled sunflower seeds
+- 1 cup (2¼ ounces) unsweetened coconut chips
+- 1½ cups (5¼ ounces) halved pecans
+- ⅔ cup pure maple syrup, preferably dark and robust Grade A
+- ½ cup extra-virgin olive oil
+- ⅓ cup (2¾ ounces) packed brown sugar
+- *Sel gris* or Maldon sea salt
+- Optional: 1 cup (5 ounces) dried sour cherries or quartered dried apricots
+
+> **Old-fashioned rolled oats, not quick oats.** Rolled oats are whole oat groats that have been steamed and pressed flat, so they stay thick and chewy and hold their shape through a long, slow bake. Quick oats are cut thinner and steamed longer at the mill so they cook faster — great for a five-minute bowl of oatmeal, but they'll turn powdery and burn instead of toasting evenly over this recipe's 45 to 50 minutes in the oven. Reach for the tub labeled "old-fashioned" or "rolled," not "quick" or "instant."
+
+#### B. Cooking Instructions
+
+**1. Preheat the oven and line a sheet pan.**
+Preheat the oven to 300°F. Line a rimmed baking sheet with parchment paper. Set aside.
+
+**2. Mix everything together and spread it in an even layer.**
+Place the oats, pumpkin seeds, sunflower seeds, coconut, pecans, maple syrup, olive oil, brown sugar, and 1 teaspoon salt in a large bowl and mix until well combined — every piece of oat and seed should have a light, even coating of oil and syrup. Spread the granola mixture in an even layer on the prepared baking sheet, edge to edge, so it toasts instead of steaming in a pile.
+
+**3. Bake low and slow, stirring often. 45 to 50 minutes.**
+Slide the pan into the oven and bake, stirring with a metal spatula every 10 to 15 minutes, until the granola is toasted and very crisp, about 45 to 50 minutes. The long, low bake is doing two jobs at once: the **Maillard reaction** — browning between proteins and sugars that creates entirely new nutty, toasty flavor compounds — and **caramelization** — the sugars themselves breaking down into their own darker, more complex flavor. Both are covered in full at [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd); the short version that matters here is that low heat held for a long time builds just as much of that deep, toasted flavor as a hot, fast bake would, without the risk of burning the oats and seeds before the middle of the pan catches up. Stirring regularly keeps the edges (which brown fastest) from scorching while the center finishes.
+
+**4. Salt it again, right out of the oven.**
+Remove the granola from the oven and season with more salt to taste. Flaky finishing salts like *sel gris* or Maldon are built for exactly this — a pinch scattered on right at the end, meant to be tasted as discrete little bursts of crunch and salinity rather than melted invisibly into the batch. *(See [§T29 How to Salt](#t29-how-to-salt)'s section on flaky finishing salts.)*
+
+**5. Cool completely, then add dried fruit if using.**
+Let the granola cool completely on the pan — it crisps up further as it cools, so don't judge its final texture while it's still warm. Once cool, stir in the dried cherries or apricots if using.
+
+**6. Store airtight.**
+Store in an airtight container for up to 1 month.
+
+> **Per the source, for serving:** stir a little dried fruit in after baking, or sprinkle a handful over a bowl of yogurt for an extra hit of acid.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Old-fashioned rolled oats — 3 cups (10½ oz)
+- 🛒 Hulled pumpkin seeds — 1 cup (4½ oz)
+- 🛒 Hulled sunflower seeds — 1 cup (5 oz)
+- 🛒 Unsweetened coconut chips — 1 cup (2¼ oz)
+- 🛒 Pecans, halved — 1½ cups (5¼ oz)
+- 🛒 Pure maple syrup, dark and robust Grade A — ⅔ cup
+- 🛒 Extra-virgin olive oil — ½ cup
+- 🛒 Brown sugar, packed — ⅓ cup (2¾ oz)
+- 🛒 *Sel gris* or Maldon flaky sea salt
+- 🛒 Dried sour cherries or dried apricots — 1 cup (5 oz), optional
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(8 cups, no dried fruit)* | ~6,000 | 414 g | 135 g | 504 g | 78 g |
+| **Per serving** *(serves 16, ½ cup each)* | ~375 | 26 g | 8 g | 32 g | 5 g |
+
+**What a serving is:** about ½ cup — a couple of handfuls sprinkled over yogurt, or a light bowl with milk. Adding the optional dried fruit adds roughly 20–25 kcal and 5–6 g carbs per serving.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.23 Fresh Ginger and Molasses Cake
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 412–413). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs). **Same source gap as [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)** — this recipe also calls for the source's own "Vanilla Cream (page 423)" as its filling, and that page wasn't among those photographed either; handled the same way below, not invented.
+
+> **Per the source's own headnote:** *"As* garde-manger *at Chez Panisse, I had to get to work at 6:00 a.m. I've never been an early riser... When the pastry cooks arrived at 8:00, they set out day-old cakes and cookies for everyone to snack on. By 8:15, any willpower I may have had to ignore these sweets had entirely evaporated. I'd snag a piece of ginger cake, make myself a huge glass of milky tea, slip on my wool beanie, and head back into the walk-in refrigerator... I've adapted the original recipe to make it a little friendlier for home bakers. I couldn't resist making it a little saltier and spicier along the way, too."*
+
+**Makes two 9-inch cake layers**
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~40 min** *(mostly unattended baking)* · **Start to finish ~1 hr** *(plus full cooling on a rack, and up to 2 hr chill before serving if filling with Vanilla Cream or its substitute — not active work)*
+
+#### A. Ingredients
+
+- 1 cup (4 ounces) peeled, thinly sliced fresh ginger (about 5 ounces unpeeled)
+- 1 cup (7 ounces) sugar
+- 1 cup neutral-tasting oil
+- 1 cup molasses
+- 2⅓ cups (12 ounces) all-purpose flour
+- 1 teaspoon ground cinnamon
+- 1 teaspoon ground ginger
+- ½ teaspoon ground cloves
+- ¼ teaspoon freshly ground black pepper
+- 2 teaspoons kosher salt, or 1 teaspoon fine sea salt
+- 2 teaspoons baking soda
+- 1 cup boiling water
+- 2 large eggs, at room temperature
+- 2 cups Vanilla Cream *(source page 423 — not photographed; see the note below)*
+
+#### B. Cooking Instructions
+
+**1. Preheat and prep the pans.**
+Preheat the oven to 350°F, with a rack set in the upper third. Grease two 9-inch cake pans, then line with parchment paper. Grease and sprinkle generously with flour, tapping out the excess.
+
+**2. Purée the fresh ginger and sugar until completely smooth. About 4 minutes.**
+Purée the fresh ginger and sugar together in a food processor or blender until completely smooth, about 4 minutes. Puréeing rather than just grating the ginger does two things: it releases far more of the ginger's juice and flavor than grating would, and it keeps the finished cake from having any stringy, fibrous bits of ginger running through it.
+
+**3. Stir in the oil and molasses.**
+Pour the ginger-sugar mixture into a medium bowl and add the oil and molasses. Whisk to combine and set aside.
+
+**4. Whisk and sift the dry ingredients.**
+In a medium bowl, whisk together the flour, cinnamon, ginger, cloves, pepper, salt, and baking soda, then sift into a large bowl. Set aside.
+
+**5. Whisk the boiling water into the ginger-oil mixture.**
+Whisk the boiling water into the sugar-oil-molasses mixture until evenly combined. **This is the "boiling water method"** — sometimes called a hot-milk-cake technique — where a hot liquid gets whisked straight into the fat-and-sugar base instead of the more familiar approach of creaming softened butter with sugar. There's no butter here to cream and no air to protect, since [§T30 How to Use Fat](#t30-how-to-use-fat) already covers why an oil cake gets its structure from oil coating the flour rather than from trapped air — so the batter can take a hot liquid and brisk mixing without going tough. The boiling water also fully dissolves the sugar and molasses and blooms the ground spices, which is part of why this cake tastes so deeply spiced. *(Molasses itself is also doing chemistry here: [§T31 How to Use Acid](#t31-how-to-use-acid) lists molasses among the everyday acids, and it's exactly the acid partner this recipe's baking soda needs to react and produce lift — see that entry's note that "baking soda needs an acid partner to make bubbles.")*
+
+**6. Whisk the dry ingredients into the wet, then the eggs. The batter will be thin.**
+Make a well in the center of the dry ingredients and gradually whisk in the water-oil mixture until incorporated. Gradually whisk in the eggs and stir until smooth. The batter will be thin and pourable — that's correct for this cake, not a sign anything went wrong.
+
+**7. Divide between the pans and knock out air bubbles.**
+Divide the batter evenly between the prepared pans. Drop each pan onto the counter from a height of about 3 inches, a couple of times, to release any air bubbles that formed while mixing.
+
+**8. Bake. 38 to 40 minutes.**
+Bake in the upper third of the oven for 38 to 40 minutes, until the cakes spring back from the touch and just pull away from the edges of the pan. An inserted toothpick should come out clean.
+
+**9. Cool completely before unmolding.**
+Cool the cakes completely on a wire rack before unmolding them from the pans and peeling off the parchment paper.
+
+**10. Fill, stack, and chill.**
+To serve, place one layer down on a cake plate. Spread 1 cup Vanilla Cream (or the substitute noted below) in the center of the cake and gently place the second layer atop it. Spread the remaining cream onto the center of the top layer and chill for up to 2 hours before serving.
+
+Alternatively, per the source: top with cream cheese frosting, serve with ice cream, or simply dust the cakes with powdered sugar. The batter also makes fantastic cupcakes.
+
+Tightly wrapped, this cake will keep for 4 days at room temperature, or for 2 months in the freezer.
+
+> **Vanilla Cream isn't documented in this cookbook yet — same gap as [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake).** The source builds its filling and frosting from its own "Vanilla Cream" recipe (page 423), which wasn't among the pages photographed for either this cake or §14.21 — so, per this cookbook's standing practice, it isn't invented here. The same substitute already noted at §14.21 works here too: lightly sweetened whipped cream (whip 2 cups heavy cream with a few tablespoons of powdered sugar and a splash of vanilla extract to soft-to-medium peaks), or a basic vanilla buttercream for something sturdier and sweeter. The source's own alternatives — cream cheese frosting, a dusting of powdered sugar, or plain with ice cream on the side — need no substitution at all.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh ginger — about 5 oz unpeeled (1 cup/4 oz peeled and sliced)
+- 🛒 Sugar — 1 cup
+- 🛒 Neutral oil (vegetable or similar) — 1 cup
+- 🛒 Molasses — 1 cup
+- 🛒 All-purpose flour — 2⅓ cups (12 oz)
+- 🛒 Ground cinnamon, ground ginger, ground cloves, black pepper
+- 🛒 Kosher salt or fine sea salt
+- 🛒 Baking soda — 2 tsp
+- 🛒 Eggs — 2 large
+- 🛒 Heavy cream, powdered sugar, and vanilla extract — for the whipped-cream filling substitute (see note above), or ingredients for cream cheese frosting / a basic vanilla buttercream
+
+#### Nutrition *(estimated)*
+
+*Cake layers only — the Vanilla Cream filling isn't documented, so its calories aren't included; see the substitute note above if using whipped cream or buttercream instead.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole cake** *(two unfrosted 9-inch layers)* | ~5,130 | 230 g | 48 g | 720 g | 11 g |
+| **Per serving** *(serves 12, unfrosted layers only)* | ~430 | 19 g | 4 g | 60 g | 1 g |
+
+**What a serving is:** one slice, about 1/12 of the assembled two-layer cake — plain, before adding the Vanilla Cream or its substitute (add roughly 90–130 kcal per slice for a whipped-cream filling, more for buttercream).
+
+#### D. Open Questions
+
+- **Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook** — same gap flagged at [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake); the page wasn't among those photographed for either recipe. A whipped-cream or basic buttercream substitute is noted above; revisit and replace both entries once that source page is available.
 
 [↑ Table of Contents](#table-of-contents)
 

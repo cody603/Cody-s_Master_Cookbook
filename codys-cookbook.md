@@ -437,6 +437,11 @@ Click any recipe to jump straight to it.
 - [7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) ✅ *(The Meathead Method; distinct from §7.112 Texas Beef Brisket)*
 - [7.136 Championship Pork Ribs](#7136-championship-pork-ribs) ✅ *(The Meathead Method; distinct from §7.97 Last-Meal Ribs)*
 - [7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) ✅ *(The Meathead Method; the recipe behind §4.168–171's Cool Smoke components)*
+- [7.138 Real Fried Chicken on a Gas Grill (It's Safe!)](#7138-real-fried-chicken-on-a-gas-grill-its-safe) ✅ *(The Meathead Method; deep-fried in a Dutch oven on the grill's side burner — distinct from §7.37 The Fry Queen's Fried Chicken)*
+- [7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) ✅ *(The Meathead Method; baking-powder dry brine, air-dried, roasted then direct-seared)*
+- [7.140 Tandoori Chicken](#7140-tandoori-chicken) ✅ *(The Meathead Method; yogurt-marinated whole bird, rotisserie or grill)*
+- [7.141 Championship Chicken](#7141-championship-chicken) ✅ *(The Meathead Method; competition bone-in skin-on thighs)*
+- [7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) ✅ *(The Meathead Method)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -595,6 +600,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Chicken & Turkey batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the fourth batch from this source, picking up right after the Pork batch above. **Five full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt): **[§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) Real Fried Chicken on a Gas Grill** (deep-fried in a Dutch oven on the grill's own side burner — pickle-brine marinated, not sous vide, so kept distinct from and cross-referenced to the existing [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken)), **[§7.139](#7139-extra-crispy-chicken-wings-without-frying) Extra Crispy Chicken Wings Without Frying** (a baking-powder dry brine, 24-hour air-dry, and a roast-then-sear finish — no frying or smoking at all, distinct from [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings)), **[§7.140](#7140-tandoori-chicken) Tandoori Chicken** (yogurt-marinated whole bird, cooked on a tandoor/kamado rotisserie, a normal-grill rotisserie, or broken into parts), **[§7.141](#7141-championship-chicken) Championship Chicken** (12 bone-in, skin-on thighs — trimmed, injected, rubbed with this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), smoked, direct-seared, and sauced — a different competition team's recipe from the Cool Smoke components at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection), so no merge applies), and **[§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin** (a boneless breast lobe, pounded flat, dry-brined, butter-injected, smoked at 225°F, and served with a port-soaked-cranberry topping and rendered-skin cracklins — distinct from the whole-bird [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey)). **Confirmed: Tandoori Chicken and the turkey breast recipe are two separate dishes, not one recipe split across pages** — an early read of this batch's photos worried a numbered Pound/Dry Brine/Rehydrate/Fire Up/Make the Cracklins/Smoke and Butter Up/Serve method might belong to Tandoori Chicken, since both turned up on nearby pages; closer reading matched the rotisserie steps to Tandoori's own ingredient list (cilantro garnish, Yogurt Marinade) and the numbered method to §7.142's own ingredients (French Rub, cranberries, port, butter) one page later. **Five new condensed technique entries, [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)–[§T99](#t99-the-warp-heat-scale-the-meathead-method)**, continuing the T-section from [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method): a fuller chicken butchery/carving guide (halves, quarters, eight or ten pieces, and carving a cooked bird — cross-referenced against, not duplicating, the existing [§T77](#t77-tips-on-cooking-poultry)/[§T82](#t82-how-to-carve-a-turkey) from the earlier Meathead book), dredges vs. batters and why baking powder (not baking soda) crisps poultry skin, a myth-busting entry on trussing poultry legs, a from-scratch double-fry French fries method, and a new entry inferring what this book's own 1-to-10 "Warp" direct-heat scale means from context, since a definition page still hasn't turned up and the scale has now actually driven a temperature in a recipe for the first time ([§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s "Warp 5"). **One recipe fragment skipped as genuinely incomplete, per Cody's standing policy:** an untitled recipe that uses [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component, finishing it with a basted "flavored oil" — only the tail end of its Steps 2–3 are legible on book p. 285, immediately above [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s own headnote; its title, headnote, full ingredient list, and Step 1 are not among the photographed pages. Named here rather than guessed at. **One myth-busting box given its own T-number rather than folded into a recipe:** [§T97 Myth — Truss Poultry Legs](#t97-myth--truss-poultry-legs-the-meathead-method) — kept separate since it reinforces, rather than duplicates, [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey)'s existing "don't truss" bullet from the earlier book. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **Jargon explained inline per Cody's standing request:** spatchcocking (cross-referenced to the earlier book's [§T77](#t77-tips-on-cooking-poultry)), the ten-piece cut and whole-bird carving (the new [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)), baking powder's crisping mechanism and EverCrisp as a commercial category product (the new [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)), "kamadoor" and "IR" (inline at [§7.140](#7140-tandoori-chicken)), "GBD" (inline at [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)), "cracklins" (inline at [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)), a "jaccard" (inline at [§7.141](#7141-championship-chicken)), and a "turn-in box" (cross-referenced to [§7.136](#7136-championship-pork-ribs) rather than re-explained). **§7.141 Championship Chicken's own "Kansas City Red" ingredient reference points to this cookbook's existing [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) as a stand-in**, same handling as [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.136](#7136-championship-pork-ribs), since the source's own Kansas City Red was already flagged as incomplete in the Rubs & Spice Blends batch. **The source's own "For French Fries" sidebar was checked against this cookbook's existing [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries)** and found to be a genuinely different, fresh-cut/pickle-brine-soak method — condensed into the new [§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) rather than written up as its own recipe, since the source presents it as a technique sidebar, not a standalone dish. **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Pork batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the third batch from this source, picking up right after the Beef/Bison/Lamb batch below. **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends): **[§7.136](#7136-championship-pork-ribs) Championship Pork Ribs** (the source's own KCBS-style competition rib method — dry brine, [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) rub, Texas-crutched, glazed and set — kept distinct from and cross-referenced to the existing [§7.97 Last-Meal Ribs](#797-last-meal-ribs), which this book's own recipe explicitly calls out as "the simpler recipe I do at home") and **[§7.137](#7137-tuffy-stones-championship-pork-butt) Tuffy Stone's Championship Pork Butt** (the fuller competition method behind the four Cool Smoke components already added to §4 in the earlier Rubs & Spice Blends batch — trimmed, injected, rubbed, smoked hot at 300°F, Texas-crutched, sauced, and rested — distinct from this cookbook's existing [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork)). **Confirmed: "Tuffy Stone's Championship Pork Butt" and the earlier batch's own shorthand "Cool Smoke Pork Butt" are the same single recipe, not two** — the source has only one title for this dish; the earlier batch's phrasing was just this project's own label for the ingredient sub-list, now resolved rather than duplicated. **One new condensed technique entry, [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) Buying Pork and the Whole-Hog Cut Map**, continuing the T-section from [§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method): pork carries no USDA quality grade at all (unlike beef), buying pork by color/myoglobin rather than a grade stamp, the loin-vs-tenderloin mix-up the source calls out by name, and a brief whole-hog cut map. **The source's own pork-rib-cuts diagram (book p. 244) was checked against the existing [§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs)/[§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) from the earlier Meathead book and found to substantially duplicate that rib-specific content — not re-added as its own entry; [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) covers only what T58/T59 don't and cross-references them for the ribs themselves, same practice as the Beef/Bison/Lamb batch's brisket-anatomy duplicate-check.** **One myth-busting box folded into the recipe it belongs with, rather than given its own T-number:** "boiling ribs makes them tender" (busted — water pulls flavor out and turns the meat mushy — folded into [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs)'s headnote), same practice as the Beef batch's myth-folding. **One recipe skipped as genuinely incomplete, per Cody's standing policy:** **Dorie's Pork à la Normande** (book p. 252–253) — the title, full headnote (credited to cookbook author Dorie Greenspan), and complete ingredient list (pork chops, mushrooms, onion, sage, apple, Calvados-adjacent cream sauce) are all legible, but the numbered cooking steps that should follow on book p. 253 are not among the 55 photographed pages at all — the scan simply doesn't include that page; named here rather than guessed at, same handling as the Beef/Bison/Lamb batch's skipped Pho recipe. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **Both recipes rated 🟢 Easy per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test** — long, mostly unattended smokes with a forgiving Texas-crutch wrap and a glaze step that can be re-done if it goes wrong, nothing that fails the way a roux does; both carry a bolded transparency note flagging that some connecting narrative prose (not the ingredients, temperatures, or step sequence) on two hard-to-read photographed spreads was paraphrased rather than block-quoted, with specifics in each recipe's own Open Questions, following the same practice already used at [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) and [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) for similarly hard-to-read spreads. **Jargon explained inline per Cody's standing request:** the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket)/[§7.135](#7135-championship-brisket-and-burnt-ends) rather than re-explained) and the turn-in box (a competition-BBQ term for the box of meat a team submits to judges, explained in full at [§7.136](#7136-championship-pork-ribs)) at both new recipes. **Neither recipe prints net carbs, so neither is tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Beef/Bison/Lamb batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the second batch from this source, picking up right after the Rubs & Spice Blends batch below. **Despite the chapter's own name, only beef recipes appeared in this batch's scan — no bison or lamb recipe was among the photographed pages.** **Six full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole): **[§7.130](#7130-beef-back-ribs) Beef Back Ribs** (the bones trimmed off a prime rib or ribeye, smoked whole as their own cut, carved "Cadillac style" — distinct from [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), also back ribs but a different rub/method), **[§7.131](#7131-smoked-sous-vide-steak) Smoked Sous-Vide Steak** (sear, sous vide, smoke, sear — stacking every method this cookbook's steak entries use individually onto one steak), **[§7.132](#7132-kōji-filet-mignon) Kōji Filet Mignon** (bacon-wrapped, marinated in a Japanese fermented-rice-culture paste, pan-seared and finished in a mushroom cream sauce), **[§7.133](#7133-clints-chuck-roast-sandwiches) Clint's Chuck Roast Sandwiches** (a whole chuck roast smoked like a mini brisket, credited to pitmaster Clint Cantwell — distinct from this cookbook's existing braised chuck roasts, [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)/[§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine)), **[§7.134](#7134-afterburner-fajitas) Afterburner Fajitas** (citrus-marinated outside skirt steak, seared over a charcoal chimney's full blast of heat), and **[§7.135](#7135-championship-brisket-and-burnt-ends) Championship Brisket and Burnt Ends** (a competition-circuit method — point and flat separated, injected, and pulled to two different internal targets, the point re-glazed into burnt ends — **kept distinct from and cross-referenced to the existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket)**, the same author's simpler single-target method from his earlier book, and from [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)). **Rated 🟢 Easy for the two long, unattended smokes with nothing that can go wrong** ([§7.130](#7130-beef-back-ribs), [§7.133](#7133-clints-chuck-roast-sandwiches)) **and 🟡 Medium for the four that hinge on a genuinely fast, attended searing or judgment step** ([§7.131](#7131-smoked-sous-vide-steak)'s final sear, [§7.132](#7132-kōji-filet-mignon)'s small-cut high-heat sear, [§7.134](#7134-afterburner-fajitas)'s 30-second-flip afterburner sear, and [§7.135](#7135-championship-brisket-and-burnt-ends)'s extra separate-inject-pull-to-two-targets-and-reglaze judgment calls beyond what the Easy-rated [§7.112](#7112-texas-beef-brisket) asks for) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **One recipe skipped as genuinely incomplete:** **Pho with Leftover Brisket and Smoked Bone Broth** (book p. 216–217) — both ingredient lists (Smoked Bone Broth and the pho itself) are fully legible, but the photographed spread jumps straight from ingredients to the next recipe with no numbered cooking steps anywhere in the scan; named here rather than guessed at. **Two myth-busting boxes folded into the recipes/technique entries they belong with, rather than given their own T-numbers:** "the best sear comes from putting meat right on the coals" (busted — a heated salt block is the better technique, folded into [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)'s headnote) and "buy only rosy-colored beef" (busted — modified-atmosphere packaging, folded into the new [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)); **a third myth found in the same territory, "the bones flavor the meat," was checked against the existing [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) and found to substantially duplicate it — not re-added.** **Two new condensed technique entries, [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)–[§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method)**, continuing the T-section from [§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method): beef grading beyond what the earlier book's [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) already covers (the full USDA grade ladder down to Cutter/Canner, Certified Angus Beef, American vs. genuine Japanese Wagyu/Kobe/Tajima, and grass-finished vs. grain-finished terminology), and aging/label science (wet- vs. dry-aging, the blade-tenderizing food-safety warning, and organic/natural/kosher/halal label claims) — **an "Anatomy of a Packer's Brisket" diagram in the source was found to substantially duplicate the existing [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) and was not re-added as its own entry; the two muscles' formal Latin names (*pectoralis superficialis*/*profundus*) from that diagram were folded into [§7.135](#7135-championship-brisket-and-burnt-ends)'s headnote instead.** **Two named sub-components referenced but not printed in this batch's scan** — Orange Tuscan-Style Board Sauce and Smoked Garlic Bread (needed by [§7.133](#7133-clints-chuck-roast-sandwiches)) and a Poblano-Basil/Duxelles cream sauce (needed by [§7.132](#7132-kōji-filet-mignon)) — cross-referenced to close existing relatives already in this cookbook ([§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce), [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)) rather than invented; see each recipe's Note and Open Questions. **Jargon explained inline per Cody's standing request:** kōji (a fermentation culture behind miso, soy sauce, and sake, used here as a tenderizing marinade) at [§7.132](#7132-kōji-filet-mignon); sous vide basics at [§7.131](#7131-smoked-sous-vide-steak); the afterburner method (a chimney-starter-hot direct sear, already documented at [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes and cross-referenced rather than re-explained) at [§7.131](#7131-smoked-sous-vide-steak)/[§7.134](#7134-afterburner-fajitas); point vs. flat muscle and burnt ends (cross-referenced to the existing [§T69](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket)/[§T71 Burnt Ends](#t71-burnt-ends) rather than re-explained) and the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket) Step 6 rather than re-explained) at [§7.135](#7135-championship-brisket-and-burnt-ends). **Confirmed: this book does not use the "Warp" heat-level numbering scale in any of this batch's beef recipes** — every temperature in this batch is a plain °F figure; the scale (seen briefly elsewhere in this book, e.g. "Warp 5") simply never comes up here. **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Rubs & Spice Blends batch from a NEW 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — a different book from *Meathead: The Science of Great Barbecue and Grilling*, the source behind [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and the rest of this cookbook's earlier Meathead content. **Same author, two distinct books — see the new [§13](#13-meathead-cookbook) update for the citation convention this cookbook uses to tell them apart going forward.** This is the first of several planned batches from this new source; later passes will cover its Pork, Chicken/Turkey, Beef/Bison/Lamb, Vegetables, Seafood, Desserts, and reference-notes chapters. **Nine full recipes added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.164 Pesto](#4164-pesto-basil-pesto): **[§4.165](#4165-red-meat-rub) Red Meat Rub** and **[§4.166](#4166-french-rub) French Rub** (both salt-free rubs, both carrying the bolded no-salt warning — see below), **[§4.167](#4167-smoked-butter) Smoked Butter** (freeze, cold-smoke 1 hr at 225°F, then work into a log — a technique-recipe rather than a seasoning), **[§4.168](#4168-cool-smoke-chili-powder) Cool Smoke Chili Powder**, **[§4.169](#4169-cool-smoke-rub) Cool Smoke Rub**, **[§4.170](#4170-cool-smoke-barbecue-sauce) Cool Smoke Barbecue Sauce** (rated 🟡 Medium — the only non-Easy recipe in this batch, for a real 20-minute constant-stir scorch risk), and **[§4.171](#4171-cool-smoke-injection) Cool Smoke Injection** (all four Cool Smoke components are Tuffy "The Professor" Stone's, from his Championship Pork Butt method — the full multi-stage pork-butt cook itself is out of scope for this rubs/sauces batch and waits for a future Pork-chapter pass), **[§4.172](#4172-alabama-white-sauce) Alabama White Sauce**, and **[§4.173](#4173-lexington-dip-2) Lexington Dip #2** (explicitly labeled "#2" in the source — a second, lower-sugar Carolina Piedmont dip, kept distinct from and cross-referenced to [§4.120 Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce), already in this cookbook from the earlier Meathead book). **Two new condensed technique entries, [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)–[§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method)**, continuing the T-section from [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion): the book's Five S's of a rub (an expansion of [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s earlier Three S's), its glycemic-load case for going easy on rub/sauce sugar, its own "No Salt in My Rub Recipes" argument and dry-brine-timing formula (½ tsp Morton Coarse Kosher Salt per pound of meat, ½ tsp herbs/spices per 24 sq in), a salted-vs-unsalted pork chop taste-test experiment, and a separate entry on wet-vs-dry rub application, storage, the plastic-wrap myth, and salt-before/rub-after sous vide timing. **No salt amounts altered from the source anywhere in this batch** — every rub, sauce, and injection keeps its printed salt quantity exactly, including the several that print zero; Cody's standing "heavier salt" preference is scoped to standalone brining recipes only and does not apply here, a mistake corrected earlier in this same multi-book project and deliberately not repeated. **The bolded salt-free-rub warning — *"⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland."*** — is applied to **[§4.165 Red Meat Rub](#4165-red-meat-rub) and [§4.166 French Rub](#4166-french-rub)**, the two actual dry rubs in this batch with zero salt, using the exact wording already standing on this cookbook's eight earlier salt-free rubs. **Not applied to [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder)** (also salt-free) since it's a base component folded into other recipes rather than a rub applied to meat directly — same reasoning as the existing [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) exemption — nor to [§4.171 Cool Smoke Injection](#4171-cool-smoke-injection) (an injection, also salt-free), per Cody's explicit instruction that the warning is for dry rubs only, never sauces, injections, or butters. **One genuine duplicate found and handled by cross-reference rather than re-added:** this new book's own "Cajun Seasoning" (p. 166–167) turned out to be word-for-word identical, ingredient for ingredient, to the already-documented **[§4.112 Cajun Seasoning](#4112-cajun-seasoning)** from the earlier Meathead book — a note is added at §4.112 recording that the author reprints this exact recipe across both of his books, rather than creating a duplicate entry. **A likely but unconfirmed gap-filler flagged rather than assumed:** [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) may be the same recipe as the earlier book's own Alabama White Sauce, whose ingredient list was flagged as an unresolved photography gap in the 2026-09-05 changelog entry — since this one comes from a different book's own pages, that original gap is left open rather than marked resolved. **One recipe skipped as genuinely incomplete, per Cody's standing policy:** **Kansas City Red** (p. 180), a raspberry-jam-secret-ingredient barbecue sauce — its full ingredient list is legible, but the page's method text is missing entirely; the visible content ends mid-sentence in an "About the Jam" note, with the lower right portion of the page physically obscured by a plate in the source photograph, and there is no method (mixing or otherwise) anywhere on the captured page. Named here rather than invented. **Citation format established for this new book**, since this is its first appearance in this cookbook: ***The Meathead Method*** — spelled out in full and italicized, always distinguished from ***Meathead: The Science of Great Barbecue and Grilling***; see [§13 Meathead Cookbook](#13-meathead-cookbook) for the new update recording this. **None of the nine recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as small practical units (½ tsp for the two dry rubs, 1 Tbsp for the sauces/injection/butter). TOC, Difficulty & Time Index (sorted by prep+cook), and [§13](#13-meathead-cookbook) updated throughout. |
@@ -1147,6 +1153,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§15.2 Butter Dips](#152-butter-dips) | 🟢 | 20 min | 18 min | — | 40 min |
 | [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) | 🟡 | 15 min | 25 min | — | 40 min |
 | [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | 🟡 | 20 min | 20 min | — | 2 hr 50 min *(2 hr brine)* |
+| [§7.138 Real Fried Chicken on a Gas Grill (It's Safe!)](#7138-real-fried-chicken-on-a-gas-grill-its-safe) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | 1 hr 40 min – 2 hr 40 min *(includes a 1–2 hr pickle-brine marinate)* |
+| [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) *(The Meathead Method)* | 🟢 | 10 min | 30 min | — | ~25 hr 10 min *(includes a 24 hr air-dry, mostly unattended in the fridge, + a 10 min hair-dry)* |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(indirect smoker, unattended)* | ~10–15 hr *(includes at least 1 hr rest in a faux Cambro)* |
@@ -1211,6 +1219,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) *(Meathead)* | 🟢 | 35 min | 20 min | — | 1 hr *(includes a 15–20 min shrimp brine)* |
 | [§14.10 Pecan Pie II](#1410-pecan-pie-ii) | 🟢 | 10 min | 45 min | — | 55 min |
+| [§7.140 Tandoori Chicken](#7140-tandoori-chicken) *(The Meathead Method)* | 🟢 | 10 min | 45 min | — | ~13 hr 55 min – 25 hr 55 min *(includes a 1 hr dry brine + 12–24 hr marinate)* |
 | [§10.6 Irish Soda Bread](#106-irish-soda-bread) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) | 🟡 | 25 min | 30 min | **~3½ hr** *(brisket simmer, unattended)* | 4 hr 25 min *(+ 5–7 day dry-brine cure)* |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
@@ -1254,6 +1263,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) | 🟡 | 15 min | 1 hr 15 min | — | 1 hr 30 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
+| [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) *(The Meathead Method)* | 🟡 | 15 min | 1 hr 10 min | — | 3 hr 25 min – 5 hr 25 min *(includes a 2–4 hr dry brine)* |
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
 | [§8.27 Green Gumbo](#827-green-gumbo) | 🟡 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
@@ -1268,6 +1278,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) | 🟢 | 20 min | 1 hr 45 min | — | 2 hr 5 min |
 | [§14.17 Flaky French Pastry](#1417-flaky-french-pastry) | 🟡 | 35 min | — | — | 2 hr 5 min *(includes three 30-min rests between folds)* |
 | [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **2–4 hr** *(sous vide, unattended)* | 3½–5½ hr |
+| [§7.141 Championship Chicken](#7141-championship-chicken) *(The Meathead Method)* | 🟡 | 20 min | 2 hr | — | 2 hr 20 min |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
@@ -12045,6 +12056,11 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method) | Beef Grading Beyond Prime and Choice — Angus, Wagyu, and Grass-Fed Terms (The Meathead Method) | `meathead` `meathead-method` `beef` `usda-grades` `angus` `certified-angus-beef` `wagyu` `kobe` `grass-fed` `grain-finished` `myth` |
 | [T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method) | Aging Beef and Label Claims — Wet-Aging, Dry-Aging, and What "Organic" Actually Means (The Meathead Method) | `meathead` `meathead-method` `beef` `wet-aging` `dry-aging` `blade-tenderized` `organic` `natural` `kosher` `halal` |
 | [T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) | Buying Pork and the Whole-Hog Cut Map (The Meathead Method) | `meathead` `meathead-method` `pork` `pork-cuts` `usda-grades` `myoglobin` `loin-vs-tenderloin` `myth` |
+| [T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) | Cutting Up a Chicken — Halves, Quarters, Eight (or Ten) Pieces, and Carving a Whole Bird (The Meathead Method) | `meathead` `meathead-method` `chicken` `poultry` `butchery` `halving` `quartering` `carving` `ten-pieces` |
+| [T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method) | Coating the Chicken — Dredges, Batters, and Why Baking Powder Works (The Meathead Method) | `meathead` `meathead-method` `chicken` `fried-chicken` `dredge` `batter` `baking-powder` `evercrisp` |
+| [T97](#t97-myth--truss-poultry-legs-the-meathead-method) | Myth — Truss Poultry Legs (The Meathead Method) | `meathead` `meathead-method` `myth` `poultry` `trussing` |
+| [T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) | For French Fries — The Double-Fry, Pickle-Brine Method (The Meathead Method) | `meathead` `meathead-method` `french-fries` `double-fry` `pickle-brine` |
+| [T99](#t99-the-warp-heat-scale-the-meathead-method) | The "Warp" Heat Scale (The Meathead Method) | `meathead` `meathead-method` `warp-scale` `heat-level` `direct-heat` `grilling` |
 
 ---
 
@@ -16445,6 +16461,95 @@ Because salt penetrates deep and herbs and spices cannot, the Meathead Method's 
 **Loin and tenderloin are genuinely different cuts, not two names for the same thing** — a mix-up the source calls out specifically. The **loin** is a long, wide muscle running along the back, the source of loin roasts, sirloin, and bone-in chops (T-bone, porterhouse, crown roast); the **tenderloin** is the small, narrow, very lean muscle underneath the spine, the same tenderloin this cookbook already uses at [§7.100](#7100-pork-tenderloin-with-cowboy-java-rub)/[§7.101](#7101-sweet-and-sour-pork-tenderloin). Confusing the two at the butcher counter gets you the wrong cooking method entirely.
 
 **The whole-hog map, briefly** — shoulder butt (pulled pork, [§7.95](#795-perfect-pulled-pork)/[§7.137](#7137-tuffy-stones-championship-pork-butt)), loin and sirloin (roasts and bone-in chops), belly (bacon, [§7.105](#7105-momofuku-inspired-ramen-bowl)'s smoked belly), ham (the leg), and the rib cage, which **[§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs) already covers in full** (baby back, spareribs, St. Louis cut, rib tips, country-style) — not repeated here.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T95. Cutting Up a Chicken — Halves, Quarters, Eight (or Ten) Pieces, and Carving a Whole Bird (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, chicken, poultry, butchery, halving, quartering, carving, ten-pieces -->
+**Tags:** `meathead` · `meathead-method` · `chicken` · `poultry` · `butchery` · `halving` · `quartering` · `carving` · `ten-pieces`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 262–264), picking up right after the chapter's spatchcocking discussion with a fuller breakdown-and-carving guide. A different book from [§T77](#t77-tips-on-cooking-poultry)/[§T82](#t82-how-to-carve-a-turkey)'s source; see [§13](#13-meathead-cookbook).
+**Used in:** [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) (the 10-piece cut), [§7.140 Tandoori Chicken](#7140-tandoori-chicken) (the no-rotisserie option), and any recipe calling for a chicken cut into parts.
+
+This is the fuller, step-by-step version of what [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) already covers at a summary level ("breaking down the bird," "halving the bird") — cross-referenced rather than repeated where the two overlap.
+
+**Halving.** After spatchcocking (removing the backbone and flattening the bird — already covered at [§T77](#t77-tips-on-cooking-poultry)), flip the bird back over and cut between the two breast lobes along one side of the keel bone. That gives two halves — a generous single serving each for a hungry person.
+
+**Quartering.** One more cut after halving separates the leg-thigh sections from the breast-and-wing sections, giving four pieces total. This is the best way to get every piece cooked perfectly: white meat and dark meat end up on their own separate quarters, so each can come off the grill at its own correct temperature instead of one being pulled early or the other left to catch up.
+
+**Eight pieces.** Quarter the bird first, then find the seam of fat running along the underside of each leg quarter, right where the thigh meets the drumstick. Follow that seam with a knife toward the drumstick side until you hit the knee joint; if it's stubborn, grab both parts and bend until the joint pops, then finish the cut with a knife. That splits each leg quarter into a drumstick and a thigh — eight pieces in all.
+
+**Ten pieces (for deep-frying).** If you're deep-frying, it helps to have every piece close to the same size so they finish cooking at the same time. Starting from the eight pieces above, cut the breast in half by chopping straight down through the rib cage, then cut each breast half again — four breast pieces roughly the same size as a thigh, plus the 2 drumsticks, 2 thighs, and 2 wings from the eight-piece breakdown, for 10 pieces total. See [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) for this cut in use.
+
+**Carving a whole cooked bird.** Set the bird on a cutting board wings-and-thighs down, breast up. Bend the thighs until you find the hip joint and cut through it to remove both legs. Locate the keel bone running down the center of the breast, place a filleting knife against one side of it, and draw the blade downward and outward along the ribs until the whole breast lobe releases in one piece; repeat on the other side. Slice each breast lobe crosswise into ½-inch slices. Flip the carcass over, bend each wing back until you find the shoulder joint, and cut through it to remove the wings. Then, still with the carcass upside down, feel along either side of the backbone near where the hip joints were — you'll find two small, prized hunks of dark meat called the "oysters" (the same treat [§T82 How to Carve a Turkey](#t82-how-to-carve-a-turkey) calls out on a turkey). Pop them out with a spoon or your fingers and eat them before anyone notices — you earned them. Save the rest of the carcass for stock.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T96. Coating the Chicken — Dredges, Batters, and Why Baking Powder Works (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, chicken, fried-chicken, dredge, batter, baking-powder, evercrisp -->
+**Tags:** `meathead` · `meathead-method` · `chicken` · `fried-chicken` · `dredge` · `batter` · `baking-powder` · `evercrisp`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter, a "Coating the Chicken" sidebar (book p. 279) alongside Real Fried Chicken on a Gas Grill.
+**Used in:** [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe), [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying).
+
+**Dry dredges vs. wet batters.** A dry dredge — a flour or starch mixture the meat is dipped into dry, or after a liquid marinade — gives a thin, crackly crust; plain flour is the simplest version, though it doesn't cling as well and won't hold up as long, since flour absorbs water and gelatinizes. For a thicker, crunchier crust, a triple-dip breading (flour, then egg, then a coarser coating like panko, cornflake crumbs, or crushed cheese crackers) builds more texture. **Wet batters** are usually a thick, runny flour-based goop — many are made with beer or another carbonated drink, since the bubbles keep the coating light and it fries up quickly, before the carbonation has time to go flat.
+
+**Why baking powder, not baking soda, crisps the skin.** Baking powder applied directly to poultry or pork skin — not stirred into the flour — helps make the skin crackling-good. When it gets wet, baking powder releases CO₂ gas, which raises tiny blisters across the surface of the skin; that extra surface area is what crisps up so well, especially when the food finishes in an oven or on a covered grill. This is specifically **baking powder**, not baking soda — a different, more alkaline ingredient that isn't what does this trick.
+
+**No buttermilk or eggs required.** Most Southern fried-chicken recipes marinate the meat in buttermilk or dip it in egg before flouring. The trouble is that both tend to brown the crust before the inside is safely cooked through, forcing a finish in a low oven to catch the interior up. A quick soak in pickle juice, vinegar, or lemon juice gets the same tenderizing and moisture benefit as buttermilk — the acid works on the proteins the same way — without pushing the crust toward dark before the meat's actually done.
+
+**EverCrisp**, mentioned by the source, is a commercial product — a dextrin-based starch powder some restaurants blend into dredges and batters to make them crunchier and keep that crunch longer. It's an optional category product, not a required ingredient in either recipe above; substitute it for about 20 percent of the flour/cornstarch mix if you happen to have some.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T97. Myth — Truss Poultry Legs (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, myth, poultry, trussing -->
+**Tags:** `meathead` · `meathead-method` · `myth` · `poultry` · `trussing`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter, a "Truss Poultry Legs" myth box (book p. 266), right beside Championship Chicken.
+**Used in:** background for [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)–[§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin); reinforces [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey)'s existing "don't truss the legs" bullet, from the earlier Meathead book — the same conclusion, reached independently in both of the author's books, so noted here rather than duplicated in full.
+
+> ⚠️ **Busted.** All the cookbooks and TV chefs tell us to tie the drumstick tips together so the thighs hug the body. So what happens when you do? You make the thermal mass larger by pulling the insides of the thighs in close to the body, which slows their cooking and increases moisture loss — the opposite of the crisp skin you're after. It also traps steam against the skin in the "armpits" and inner thighs, which comes out tan and flabby rather than browned and crisp. That's a real problem, because thighs need to get about 10°F *hotter* than the breast to be at their best, and trussing works against exactly that. **The only time to truss is on a rotisserie** — there, if the legs aren't tied down, they'll flop around and can tear or break off as the bird spins.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T98. For French Fries — The Double-Fry, Pickle-Brine Method (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, french-fries, double-fry, pickle-brine -->
+**Tags:** `meathead` · `meathead-method` · `french-fries` · `double-fry` · `pickle-brine`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter, a "For French Fries" sidebar (book p. 280) next to Real Fried Chicken on a Gas Grill.
+**Used in:** a natural pairing for [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) (same oil, same grill). **Distinct from this cookbook's existing [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries)**, which starts from frozen fries and double-fries at a flat 350°F both times — this is the from-scratch, fresh-cut version, with a cold-water starch soak and two different frying temperatures. Both are kept, as genuinely different starting points and specs.
+
+**1. Soak.** Scrub the potatoes and cut them into strips about ½ inch wide. Soak them in cold water with 1 tablespoon of distilled vinegar per quart of water for an hour. This pulls out excess surface starch, which is what lets the fries crisp instead of turning mushy.
+
+**2. First fry — set, don't finish.** Drain and pat the potatoes dry, then deep-fry in a Dutch oven at 300°F for about 3 minutes, just until the surface starts to darken and firm up — they're not meant to be done yet. Drain and let them cool; from here they can go in the fridge for hours (even a day) or straight into the freezer before the second fry.
+
+**3. Second fry — just before serving.** Fry again in 375°F oil for 3 to 4 minutes, depending on thickness, until deep golden brown. Salt generously and serve immediately — they don't hold their crunch for long once they're out of the oil.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T99. The "Warp" Heat Scale (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, warp-scale, heat-level, direct-heat, grilling -->
+**Tags:** `meathead` · `meathead-method` · `warp-scale` · `heat-level` · `direct-heat` · `grilling`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — used casually across several of this book's chapters (e.g. book p. 194, 286, 339, 380) as shorthand for how hot a grill's direct side is dialed, rather than always giving a specific °F. The page that actually defines the scale numbers has not turned up among any of this project's photographed batches of this book so far (Rubs & Spice Blends, Beef/Bison/Lamb, Pork, or this Chicken & Turkey batch).
+**Used in:** [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4 ("Warp 5 on the direct heat side") — the first time this scale has actually driven a temperature in a recipe in this cookbook. The Beef/Bison/Lamb batch's changelog entry noted the scale exists (having spotted a stray "Warp 5" in this book) but that it never came up in that batch's own recipes; it has now arrived.
+
+**This book refers to direct-grilling heat intensity on a 1-to-10 "Warp" scale** — a nod to the sci-fi warp-speed idea — rather than a specific number of degrees for the direct side of the grill.
+
+> ⚠️ **Flagged rather than quoted.** No photographed page across this whole multi-batch project actually spells out what temperature each Warp number corresponds to. The description below is inferred from comparing how the scale gets used, relative to itself, across several of this book's own recipes — not transcribed from a printed definition.
+
+Based on that comparison — a vegetable-grilling sidebar warns that "many vegetables are best cooked over direct heat, but not Warp 10; dial back to Warp 5 to 7," a roasted-poblano recipe calls for "Warp 10 on the direct heat" to get an aggressive char, and both a turkey-skin sear and a grilled pound cake use "Warp 5" for a solid, confident sear — **higher numbers mean hotter, more intense direct heat**, with Warp 10 at the screaming-hot, aggressive-char end of the dial and Warp 5 landing as a solid, moderate-high sear well short of that. Treat "Warp 5" as "a confident direct sear, not the grill's most aggressive setting" and adjust to taste rather than hunting for an exact number.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -30375,6 +30480,394 @@ Pull or chop the meat, mixing in some of the moist "money muscle" with the leane
 
 ---
 
+### 7.138 Real Fried Chicken on a Gas Grill (It's Safe!)
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 278–282). **Genuinely different from this cookbook's existing [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken)** — that one starts with a sous vide bath before a quick fry; this one is fried entirely on a gas grill's side burner, no sous vide at all. Both kept.
+
+> Per the source's own headnote: the best place to deep-fry is a gas grill, not a stovetop. It solves the biggest complaints about deep-frying at home — spatter, lingering smell, and the fear of tipping a pot — and is arguably *less* risky than frying indoors: a large cast-iron Dutch oven on a stable grill side-burner isn't going anywhere, the whole operation happens outside, and any splatter lands on the grill grates rather than the stovetop.
+
+**Techniques used:** [§T95 Cutting Up a Chicken](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) *(the 10-piece cut)* · [§T96 Coating the Chicken](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method) · [§T98 For French Fries](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) *(a natural companion technique, same oil and grill)*
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~20 min** · **Start to finish ~1 hr 40 min – 2 hr 40 min** *(includes a 1–2 hr pickle-brine marinate)*
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, deep-frying is where this recipe earns its rating — a pot of 375°F oil, even outdoors on a stable grill burner, carries real splatter and burn risk, and letting the oil run too cold or too hot both spoil the crust. Nothing about the marinating or dredging steps is fail-prone; it's the fry itself.
+
+#### A. Ingredients
+
+- 1 cup dill pickle brine *(or 1 cup distilled white vinegar whisked with 1 Tbsp Morton Coarse Kosher Salt)*
+- 1 whole chicken (2½ to 4 lb), cut into 10 pieces *(see [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method))*
+- 2 tsp [French Rub](#4166-french-rub) *(§4.166)*
+- 2 tsp baking powder
+- ½ cup cornstarch
+- ½ cup all-purpose flour
+- 6 cups neutral-tasting vegetable oil *(or enough to fill a Dutch oven to a depth of about 2½ inches)*
+
+*To serve (optional):* extra salt · honey or hot honey · barbecue sauce · Thai Sweet Chile Sauce *(the source's own favorite, book p. 200 — not yet in this cookbook, see Open Questions)*
+
+*Special tools: a large, heavy Dutch oven (4-quart or larger), a frying/candy thermometer, heatproof gloves, long-handled tongs, a spider or slotted spatula, an apron, safety glasses.*
+
+#### B. Cooking Instructions
+
+**1. Marinate.**
+Cut the chicken into 10 pieces — 2 drumsticks, 2 thighs, 2 wings, and the breast split in half through the rib cage and then in half again, so all four breast pieces are roughly thigh-sized (see [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) for the full breakdown). If you're not using pickle brine, whisk together the vinegar and salt. Put the chicken in a large zip-top bag or bowl, pour in the brine, and let it soak for 1 to 2 hours in the fridge. The mild acid tenderizes and adds moisture the same way a buttermilk marinade would, without buttermilk's tendency to brown the crust before the meat is safely cooked through (see [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)).
+
+**2. Season the chicken, not the flour.**
+Sprinkle the French Rub and the baking powder directly over the chicken pieces themselves — not into the dredge. Seasoning the bird gives you real control over how much salt and spice actually ends up on the meat; season the flour instead and you can't control that at all, plus you'll waste most of the batch since you never use the whole thing. Salt left in the dredge can also break the frying oil down faster.
+
+**3. Dunk.**
+Whisk the cornstarch and flour together in a 1-gallon zip-top bag. Working one piece at a time, drop the wet chicken into the bag, shake to coat, and set it on a sheet pan. Keep one hand "wet" and one hand "dry" through the whole process so the dredge doesn't turn to paste on your fingers. *Optional:* for an extra-shaggy, craggy crust, set up a second bowl of the same dredge and flick a little of the leftover brine into it to make it clumpy, then press handfuls of those clumps onto the dredged chicken by hand — they fry up into crunchy shards.
+
+**4. Fire up.**
+Set up your grill for two-zone cooking — one hot side, one cooler indirect side.
+
+**5. Heat the oil.**
+Add about 1½ inches of oil to a large Dutch oven — deep enough that the chicken touches the hot metal at the bottom, with a little oil left above the pieces once they're in. That headspace lets steam escape as the chicken cooks, which is what keeps the crust from turning greasy. Set the pot on the hot side of the grill, close the lid, and bring the oil to about 375°F, stirring it before you check the temperature so you're reading more than just the surface. If it overshoots, dial back the burner or slide the pot toward the indirect side — oil that runs too cool just gets absorbed into the coating instead of frying it crisp.
+
+**6. Stay safe.**
+Cold, wet chicken hitting 375°F oil throws up an immediate rush of steam and bubbling — that's just the meat's surface water flashing off, nothing gone wrong — but lower pieces in slowly with long-handled tongs so it doesn't splash you as it settles. Keep kids and pets well back, wear something you don't mind getting a little grease on, and consider safety glasses.
+
+**7. Don't crowd the oil.**
+Cold chicken pulls a lot of heat out of the oil fast — dropping more food in before it's back above 350°F just makes everything greasy rather than crisp, so let the oil recover between batches. Close the grill's lid (not the pot's), leave the first side alone for about 4 minutes, then flip once it's Golden Brown and Delicious ("GBD") and give the second side another 4 to 5 minutes. Let the color of the crust — not a thermometer in the meat — tell you when it's close to done.
+
+**8. Pull for color, finish on the grill.**
+Take each piece out once it's GBD all over and move it to the indirect side of the grill. It won't be at a safe 160°F internal yet at this point — pulling it at the right crust color and letting the grill's residual heat finish the job with the lid closed brings it up to temperature without pushing the crust past golden into burnt.
+
+**9. Keep the oil clean.**
+Skim out loose crumbs and bits as they float free; left in the oil, they scorch and turn bitter. If the oil starts looking cloudy, change it before frying more.
+
+**10. Drain and serve.**
+Rest the finished pieces on a wire rack or paper towels to drain, then serve hot. Put extra salt on the table along with something to drizzle — honey, hot honey, barbecue sauce, or the source's own favorite, Thai Sweet Chile Sauce.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole chicken — 2½ to 4 lb
+- 🛒 Dill pickle brine *(or distilled white vinegar + Morton Coarse Kosher Salt)*
+- 🛒 French Rub ingredients, if not already made — see [§4.166](#4166-french-rub)
+- 🛒 Baking powder
+- 🛒 Cornstarch
+- 🛒 All-purpose flour
+- 🛒 Neutral vegetable oil — about 6 cups, for frying
+- 🛒 Honey, hot honey, or barbecue sauce — for serving (optional)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,300 | 145 g | 165 g | 55 g | 1 g |
+| **Per serving** *(serves 4)* | ~575 | 36 g | 41 g | 14 g | 0 g |
+
+**What a serving is:** 2 to 3 pieces (a mix of white and dark meat) — a normal dinner plate portion. Most of the frying oil stays behind in the pot; the figures above account for the fried meat, skin, and crust actually eaten, not the full fry-oil volume.
+
+#### D. Open Questions
+
+- **The source's own exact serving count on its "MAKES 10 pieces" line was hard to read with full confidence** on the photographed page. This entry assumes a typical 4-person dinner split (2–3 pieces each) for the Nutrition math.
+- **A separate, different recipe that USES this one as a component was skipped entirely as genuinely incomplete.** Its visible fragment reads: *"...2. FRY. Make the Real Fried Chicken on a Gas Grill as directed... 3. FINISH. While the chicken is frying, rewarm the hot flavored oil..."*, ending with that flavored oil painted onto the finished chicken with a basting brush. This fragment sits immediately above [§7.142 Buttered-Up Turkey Breast](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s headnote on book p. 285 — but its own title, headnote, full ingredient list, and Step 1 (presumably how the flavored oil itself is made) are not among the photographed pages. Named here rather than guessed at.
+- **Thai Sweet Chile Sauce (book p. 200) and "Hot Honey"** are both named as serving suggestions in the source but aren't yet documented in this cookbook — noted rather than invented.
+- **EverCrisp**, a commercial dextrin-based crisping powder some restaurants add to dredges, is mentioned by the source as optional and isn't called for in this recipe's own ingredient list — explained at [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method) as a category product, not something to shop for here.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.139 Extra Crispy Chicken Wings Without Frying
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 270). **Distinct from this cookbook's existing [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings)** (smoked/grilled and tossed in Buffalo sauce) — this one skips frying *and* smoking, relying entirely on a baking-powder dry brine and a two-stage roast-then-sear to get crackling skin.
+
+> Per the source's own headnote: chicken skin isn't all fat — there's plenty of water and protein in it too. Getting it truly crisp means breaking down its connective tissue (which releases moisture) and then driving that moisture back out before the proteins toughen. Baking powder speeds both halves of that process along on poultry and pork skin alike; the technique is credited to food scientist J. Kenji López-Alt.
+
+**Techniques used:** [§T96 Coating the Chicken](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method) *(the baking powder mechanism)* · [§T79 Anatomy of a Chicken Wing](#t79-anatomy-of-a-chicken-wing) *(from the earlier Meathead book, for the drumette/wingette/tip breakdown)*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~25 hr 10 min** *(includes a 24 hr air-dry, mostly unattended in the fridge, plus a 10 min hair-dry just before cooking)*
+
+#### A. Ingredients
+
+- 1¼ lb whole chicken wings
+- 1 tsp baking powder
+- 1 tsp Morton Coarse Kosher Salt
+
+*Optional, for drizzling:* Kansas City Red *(the source's own sauce, book p. 180 — already flagged incomplete, see Open Questions)* · [Alabama White Sauce](#4172-alabama-white-sauce) *(§4.172)* · Teriyaki *(book p. 175, not yet in this cookbook)* · Tare *(book p. 203, not yet in this cookbook)* · Thai Sweet Chile Sauce *(book p. 200, not yet in this cookbook)*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Break each wing into its three parts — drumette, wingette (flat), and tip (see [§T79](#t79-anatomy-of-a-chicken-wing) for what each part is). Freeze the tips for stock instead of tossing them. Stab each remaining segment with a sharp knife about 8 times so rendering fat has somewhere to drain as it cooks.
+
+**2. Air-dry. 24 hours, mostly unattended.**
+Mix the baking powder and salt in a small bowl and sprinkle it over the wings. Baking powder does the real work here — wet, it releases CO₂, which raises tiny blisters in the skin for more surface area to crisp later (see [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)). Space the wings on a wire rack set over a pan and leave them uncovered in the fridge for 24 hours; the open air both dehydrates the skin and lets the salt fully penetrate.
+
+**3. Fire up.**
+Set your grill up in two zones and get the indirect side as hot as it'll go — 400°F or more if possible.
+
+**4. Hair-dry. 10 minutes.**
+Just before cooking, blast the wings with a hair dryer for about 10 minutes to drive off any surface moisture left over from the fridge — the drier the skin going into the heat, the crisper it comes out.
+
+**5. Cook.**
+Roast the wings, lid down, on the indirect side until the meat reaches 145°F internal.
+
+**6. Sear.**
+Move the wings to direct heat, lid open, and sear both sides until the internal temperature hits 160°F and the skin turns golden and crunchy. Serve right away — no resting or tenting, either of which would just soften the crust you worked for. Drizzle with a sauce if you like.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole chicken wings — 1¼ lb
+- 🛒 Baking powder
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 A finishing sauce of choice (optional) — [Alabama White Sauce](#4172-alabama-white-sauce) ingredients if not already made; the other sauces named above aren't yet in this cookbook
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(1¼ lb wings)* | ~950 | 66 g | 72 g | 2 g | 0 g |
+| **Per serving** *(the source's own "about 1 serving")* | ~950 | 66 g | 72 g | 2 g | 0 g |
+
+**What a serving is:** the whole 1¼-lb batch, eaten as one person's meal, per the source's own stated yield — or split as a starter for two.
+
+#### D. Open Questions
+
+- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). Of these, only Alabama White Sauce is currently in this cookbook ([§4.172](#4172-alabama-white-sauce)); Kansas City Red is the source's own sauce already flagged as incomplete in the Rubs & Spice Blends batch (see [§7.136](#7136-championship-pork-ribs)'s Open Questions for the stand-in used elsewhere); the other three aren't yet transcribed. Noted rather than invented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.140 Tandoori Chicken
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 277–278).
+
+> Per the source's own headnote: no nation does spices like India, and few dishes are as famous as tandoori chicken — heavily seasoned yogurt-marinated chicken cooked dangling on skewers or spits inside a tandoor, a charcoal-burning ceramic-cylinder oven. A **kamado** (a ceramic, egg-shaped charcoal grill — the Big Green Egg is a well-known brand) works on a similar principle, so the source rigs a whole chicken on a rotisserie spit standing up inside a kamado's coal bed, jokingly calling the setup a **"kamadoor."** The source doesn't smoke this dish at all — the char and flavor come entirely from the yogurt marinade and the heat itself.
+
+**Techniques used:** [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(two-zone/rotisserie/spatchcock background)* · [§T95 Cutting Up a Chicken](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) *(the no-rotisserie option, below)*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~45 min** *(varies by method and equipment)* · **Start to finish ~13 hr 55 min – 25 hr 55 min** *(includes a 1 hr dry brine plus a 12–24 hr marinate, both mostly unattended)*
+
+#### A. Ingredients
+
+- 1 whole chicken (3½ to 4 lb)
+- 1 Tbsp Morton Coarse Kosher Salt
+- 1 cup Yogurt Marinade *(the source's own recipe, book p. 175 — not yet transcribed into this cookbook; see Open Questions)*
+- **Optional:** chopped fresh cilantro, for garnish
+
+**Serve with:** basmati rice with peas · a mango lassi
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Cut through the breast about every ½ inch with a sharp knife — this helps both the marinade and the heat reach deeper into the meat. Sprinkle the salt all over the bird and into the cavity, and let it sit 1 hour in the fridge to dry-brine before the marinade goes on. While it rests, make the Yogurt Marinade.
+
+**2. Marinate the chicken. 12 to 24 hours.**
+After the hour, coat the bird all over with the Yogurt Marinade. Set it in or over a pan in the fridge for 12 to 24 hours.
+
+**3. Cook the bird — pick your setup:**
+
+- ***Tandoor or kamado:*** Skewer the whole bird on a rotisserie spit, with one end resting down in the bed of coals and the other sticking out the top vent — turning the kamado into a makeshift tandoor (a "kamadoor," per the source). The wet yogurt coating acts as a heat shield, so you can run the kamado very hot.
+- ***Rotisserie on a normal grill:*** Spear the chicken, lock it in place, and run it like any rotisserie bird. Keep the heat down if you're cooking with a dedicated rotisserie burner mounted directly behind the bird, since that's intense direct radiant heat ("IR") — you may instead need to crank the heat up if it's coming from a more distant burner below.
+- ***No rotisserie:*** Break the bird down into parts (see [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)) and cook it on the grate. Keep the grill around 225°F for a low-and-slow cook, or run the indirect side as hot as 400°F if you're short on time. Either way, pull the breast at 155°F internal — it will carry over to 160°F+ as it rests.
+
+**4. Serve.**
+Garnish with chopped cilantro, if using, and serve with basmati rice and peas and a mango lassi.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Whole chicken — 3½ to 4 lb
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Yogurt Marinade ingredients — not yet documented in this cookbook (book p. 175); a reasonable stand-in is plain whole-milk yogurt seasoned with garlic, ginger, lemon juice, and warm spices (cumin, coriander, paprika, garam masala) until a future batch transcribes the source's own version
+- 🛒 Fresh cilantro — for garnish (optional)
+- 🛒 Basmati rice, frozen peas — for serving
+- 🛒 Mango lassi ingredients, or a bottled one — for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(chicken + marinade coating only — see note)* | ~1,750 | 105 g | 168 g | 10 g | 1 g |
+| **Per serving** *(serves 4)* | ~440 | 26 g | 42 g | 3 g | 0 g |
+
+**What a serving is:** a quarter of the bird — one breast or one leg-thigh portion. The basmati rice, peas, and lassi are serving suggestions, not part of this recipe's own ingredient list, so they're not counted above.
+
+#### D. Open Questions
+
+- **The source's own Yogurt Marinade (book p. 175) is not among this batch's photographed pages**, so its exact ingredients aren't transcribed here — the grocery list above offers a reasonable stand-in rather than presenting an invented version as the source's own. Update this entry once that page is photographed.
+- **Exact cook time varies by equipment** — the source itself only estimates that "cooking time will vary depending on what you cook it on and the temp," so the 45-minute Cook figure above is a working middle estimate across the three methods, not one fixed number off the page.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.141 Championship Chicken
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 266–269), credited to competition team Darren and Sherry Warth. **Uses this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) rub, not the Cool Smoke components at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection)** — this is a genuinely different competitor's rub-and-sauce combination, not another Cool Smoke recipe, so no merge or duplication applies.
+
+**Techniques used:** [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(what a turn-in box is, cross-referenced rather than re-explained)*
+
+**🟡 Medium** · **Prep ~20 min** · **Cook ~2 hr** · **Start to finish ~2 hr 20 min**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, most of this recipe is genuinely forgiving — but Step 9's direct-heat finishing sear ("watch it like a hawk... until the bottoms are dark and almost charred") can go from perfectly charred to burnt in the same short window as [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken)'s high-heat glaze step, which carries the same rating. That's a real difference from the Easy-rated [§7.136](#7136-championship-pork-ribs)/[§7.137](#7137-tuffy-stones-championship-pork-butt), whose Texas-crutch stages have no comparably fast-fail moment.
+
+#### A. Ingredients
+
+- 12 medium bone-in, skin-on chicken thighs
+- 3 Tbsp [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) *(§4.108)*
+- Morton Coarse Kosher Salt, to taste
+- 2 cups low-sodium chicken stock *(for injecting)*
+- 1 stick (4 oz) unsalted butter
+- 3½ cups Kansas City–style barbecue sauce *(the source's own "Kansas City Red," book p. 180 — see Open Questions for this cookbook's stand-in)*
+- ⅓ cup apple juice
+
+*Special tools: meat injector, garden shears (optional, for trimming), toothpicks or metal poultry pins (if rolling the skin), instant-read thermometer.*
+
+#### B. Cooking Instructions
+
+**1. Prep the thighs.**
+Trim the fat off the edge of each thigh, and remove the blood vein nestled beside the bone, any loose tendons and membrane, and excess skin. Chop off the "knuckle" — the joint end of the bone. Some cooks use garden shears for this; some remove the thigh bone entirely. Aim for uniform thighs, about 5 oz each before trimming, so every piece cooks at the same rate. *(If you're competing, do this trimming at home ahead of time — most competition rules don't allow seasoning until after the meat's been inspected on site.)*
+
+**2. Handle the skin — pick one approach.**
+There are a few ways competitors deal with the skin:
+- **(a)** Pull the skin back without fully detaching it, and scrape the fatty layer underneath off with a knife, careful not to tear the skin.
+- **(b)** Remove the skin altogether, season the bare meat and the underside of the skin, then lay the skin back over the top and roll its edges under so it covers almost all the flesh. Some cooks pin the rolled edges with toothpicks so the skin doesn't shrink away as it cooks — just remove any toothpicks or metal pins before serving or turning the meat in.
+- **(c)** Use a **jaccard** — a handheld tool with several dozen small needle-like blades — to perforate the skin and flesh. Jaccarding meat that's only cooked to 160°F is a food-safety risk, since it can push surface bacteria into the interior, but it's safe here because chicken thighs go all the way to 165°F and beyond.
+
+**3. Inject. Then refrigerate uncovered for 2 hours.**
+Set a wire rack in a pan and place the thighs skin side down on the rack. Dissolve 1 tsp Morton Coarse Kosher Salt in the chicken stock and inject about 1 oz (2 Tbsp) into each thigh from the underside, aiming twice on either side of the bone. Refrigerate the thighs uncovered for 2 hours — leaving them uncovered dries the skin out a bit, which helps the rub that comes next actually stick and crisp.
+
+**4. Season. Then refrigerate uncovered for 1 hour more.**
+Take the thighs out, flip them skin side up, and shape them so they all look uniform. Sprinkle the tops of the skins generously with Meathead's Memphis Dust, then salt lightly — skip the extra salt if your rub already carries plenty. Return the thighs to the fridge, uncovered, for 1 hour.
+
+**5. Fire up.**
+Get a smoker, or a grill set for two-zone cooking, stable at 325°F with clean smoke rolling — apple or cherry wood are favorites among competitors.
+
+**6. Smoke. About 1 hour.**
+Arrange all 12 thighs skin side up in a pan. Cut the butter into 12 equal pats and set one on each thigh. Smoke, or cook on the indirect side, until the thighs reach 160°F internal.
+
+**7. Cover and cook further. About 40 minutes more.**
+Cover the pan tightly with foil and continue cooking until the thighs reach 185°F internal. That's hotter than the 170–175°F this cookbook usually recommends for dark meat, but a judge who spots even a hint of pink juice marks the entry down — thighs can take the extra heat and still come out juicy, with no pink at all.
+
+**8. Get ready.**
+While the thighs finish, warm the barbecue sauce and apple juice together over low heat in a small saucepan.
+
+**9. Direct-sear the skin. 10 to 15 minutes.**
+Pull the thighs from the pan onto a wire rack, skin side up, and sprinkle both sides lightly with more rub. Set the rack over direct heat and **watch it like a hawk** — the goal is dark, almost-charred skin, combining backyard-grilled flavor with the tenderness of the slower cook that came before it. This step can go from perfectly charred to burnt fast; don't walk away from it.
+
+**10. Sauce and turn in.**
+Pull the thighs from the grill and dip each one into the warm sauce mixture so every side is coated with no visible brush strokes. Set them back on the rack to dry briefly, then plate — or, for competition, arrange 6 to 8 of the glossiest thighs skin-up in the turn-in box (see [§7.136](#7136-championship-pork-ribs) for what that term means).
+
+**11. Practice before you compete.**
+If you're actually entering a competition, test your whole process — skin method, salt levels, and finish temperature — several times beforehand. Turn-in day is always at noon.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Bone-in, skin-on chicken thighs — 12 medium
+
+**🛒 General grocery**
+
+- 🛒 Meathead's Memphis Dust ingredients, if not already made — see [§4.108](#4108-meatheads-memphis-dust)
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Low-sodium chicken stock — 2 cups
+- 🛒 Unsalted butter — 1 stick (4 oz)
+- 🛒 Kansas City–style barbecue sauce — 3½ cups (a bottled one, or see [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce))
+- 🛒 Apple juice — ⅓ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~4,700 | 330 g | 290 g | 90 g | 1 g |
+| **Per serving** *(serves 6, 2 thighs each)* | ~780 | 55 g | 48 g | 15 g | 0 g |
+
+**What a serving is:** 2 sauced, skin-on thighs — the way this dish actually lands on a plate at home (a competition turn-in box is judged, not portioned as a meal).
+
+#### D. Open Questions
+
+- **The source's own "Kansas City Red" sauce (book p. 180, referenced here by name) was already flagged as genuinely incomplete in the Rubs & Spice Blends batch** — its ingredient list is legible, but its mixing method is missing from the scan. This recipe calls for a Kansas City–style sauce generically and points to this cookbook's own [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) as a ready stand-in, same handling as [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.136](#7136-championship-pork-ribs).
+- **The source names a specific commercial product ("Bird Booster Rotisserie Flavor injection") as one competitor's preferred substitute** for the plain salted chicken stock injection used here — mentioned as an example of what's out there, not a required purchase; this recipe's own literal ingredient (salted chicken stock) is what's in the Ingredients list above.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 285–286). **Distinct from this cookbook's existing [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey)** (a whole bird) — this is a boneless breast lobe only, built around a butter injection and a cranberry-port topping that the whole-bird recipe doesn't have.
+
+> Per the source's own headnote: a turkey breast is technically a whole breast section with two pear-shaped lobes split by the breastbone (the "keel"), though you can also buy a single boneless lobe on its own — that's what this recipe uses, though it adapts easily to a whole bone-in breast section. Turkey breasts carry very little fat, so they dry out fast once cooked to a safe 160°F. The source solves that four ways: **(1)** the skin comes off, since its fat can't reach the meat anyway, freeing the meat to smoke low and slow at 225°F instead of the usual 325°F+ that a bone-in bird needs to crisp its own skin — the skin itself gets turned into cracklins and sprinkled back on at the end, so nothing's wasted; **(2)** the meat gets pounded flat, since turkey (and chicken) breasts run much thicker at one end than the other and the thin end would otherwise overcook long before the thick end catches up; **(3)** it's dry-brined hours ahead, since salt helps the meat hold onto its own moisture; and **(4)** it's injected with butter.
+
+**Techniques used:** [§4.166 French Rub](#4166-french-rub) · [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method)
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~1 hr 10 min** *(includes a 10 min stovetop cranberry rehydrate and grilling the cracklins alongside the smoke)* · **Start to finish ~3 hr 25 min – 5 hr 25 min** *(includes a 2–4 hr dry brine)*
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, two steps here can genuinely go wrong: the cracklins (Step 5) need to be watched constantly over direct heat — "stand right there and watch... remove it when it gets stiff and crackly," with burnt skin the alternative to looking away — and the butter injection (Step 6) needs the meat to have warmed up some first, or the cold butter clogs the needle mid-injection.
+
+#### A. Ingredients
+
+- 1 boneless turkey breast lobe (about 3 lb)
+- 1 tsp Morton Coarse Kosher Salt, plus more for sprinkling
+- 1 Tbsp [French Rub](#4166-french-rub) *(§4.166)*
+- 4 oz sweetened dried cranberries
+- ¾ cup inexpensive American port wine
+- 1 stick (4 oz) unsalted butter
+
+*Special tools: meat injector.*
+
+#### B. Cooking Instructions
+
+**1. Pound. 4 to 6 hours before serving.**
+Remove the turkey tender if there is one — a small, loose muscle nestled against the breast, on the side with no skin. It's sometimes already removed; if it's there, freeze it for another meal, since it's exactly as tender as its name suggests and makes a perfect single serving on its own. Remove the skin and set it aside. Trim any excess fat from the meat. Put the meat in a 1-gallon zip-top bag and pound it with a frying pan until it's an even thickness throughout, about 1 inch.
+
+**2. Dry brine. 2 to 4 hours.**
+Sprinkle half the salt all over the meat — you can sprinkle on the French Rub at the same time, too. Give the salt 2 to 4 hours to penetrate before cooking.
+
+**3. Rehydrate the cranberries. 10 minutes.**
+Put the cranberries and port wine in a small saucepan over low heat for 10 minutes, just long enough for the berries to soak up the wine and soften. Turn off the heat and let them sit.
+
+**4. Fire up.**
+Set up your grill for two-zone cooking, with the direct side at **Warp 5** (see [§T99](#t99-the-warp-heat-scale-the-meathead-method) for what this book's "Warp" heat scale means — Warp 5 is a confident, moderate-high direct sear, not the grill's most aggressive setting).
+
+**5. Make the cracklins.**
+Stretch the reserved turkey skin out over the grates on the direct side and sprinkle it lightly with salt. Keep the lid open and stand right there and watch it — as soon as the skin starts turning golden, flip it. Pull it off once it's stiff and crackly, like a potato chip; look away and it goes from crackling to burnt fast. Once it's cool, chop it into ½-inch chunks and set aside.
+
+**6. Smoke and butter up. About 1 hour.**
+Get your grill or smoker to 225°F on the indirect side with some smoke rolling. Put the turkey on and start checking its internal temperature after about 30 minutes. Wait to inject the butter until the meat has warmed up some — inject it cold and the butter solidifies right in the needle and clogs it. Melt the butter and pour it into a tall, narrow glass — a narrow glass lets the injector draw up more butter per pull than a short, wide one would. Fill the injector and pump the butter into the meat through the sides, at intervals about ¾ inch apart.
+
+**7. Serve.**
+The turkey's done at 155° to 160°F internal, after about 1 hour — it will carry over another 5° to 10°F once it's off the heat. Put the breast on a cutting board with the skinny edge facing you and slice it across the grain. Plate it, spoon some of the drunken cranberries on top, and sprinkle with the chopped cracklins. Or make a sandwich.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Boneless turkey breast lobe — about 3 lb
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 French Rub ingredients, if not already made — see [§4.166](#4166-french-rub)
+- 🛒 Sweetened dried cranberries — 4 oz
+- 🛒 Inexpensive American port wine — ¾ cup
+- 🛒 Unsalted butter — 1 stick (4 oz)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,300 | 175 g | 320 g | 90 g | 4 g |
+| **Per serving** *(serves 6–8, per the source's own MAKES line)* | ~460 | 24 g | 44 g | 12 g | 1 g |
+
+**What a serving is:** a few slices of turkey breast (about 5–6 oz), topped with a spoonful of drunken cranberries and a sprinkle of cracklins.
+
+#### D. Open Questions
+
+- **"Warp 5" (Step 4) is the first time a recipe in this cookbook has actually used this book's own direct-heat "Warp" scale**, rather than a plain °F figure — the Beef/Bison/Lamb batch noted the scale exists but that it never came up in that batch's own recipes. Its numeric definition hasn't turned up on any photographed page across this project's batches so far; see the new [§T99](#t99-the-warp-heat-scale-the-meathead-method) for how this cookbook interprets it from context.
+- **A separate, incomplete recipe fragment that uses this book's own [§7.138 Real Fried Chicken](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** appears immediately above this recipe's own headnote on book p. 285 — skipped as genuinely incomplete; see [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)'s Open Questions for details.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -36362,6 +36855,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-06 — the "Beef, Bison, Lamb" chapter of *The Meathead Method* has now arrived, and — despite the chapter's own name — every legible recipe in this batch's scan turned out to be beef; no bison or lamb recipe appeared among the photographed pages.** Six full recipes landed in [§7 Mains & Proteins](#7-mains--proteins) at **[§7.130](#7130-beef-back-ribs) through [§7.135](#7135-championship-brisket-and-burnt-ends)**, plus two new condensed technique entries, **[§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)–[§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method)**, covering beef grading beyond what [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) already had (Angus/CAB, American vs. Japanese Wagyu, grass- vs. grain-finished) and aging/label terms (wet- vs. dry-aging, blade-tenderizing, organic/natural/kosher/halal). **One recipe skipped as genuinely incomplete** — **Pho with Leftover Brisket and Smoked Bone Broth** (book p. 216–217): its full ingredient lists are legible, but the numbered cooking steps aren't among the photographed pages at all (the scan jumps from ingredients straight to the next recipe) — named here rather than guessed at. **Two myth-busting boxes folded into existing entries rather than given their own T-numbers:** "the best sear comes from putting meat right on the coals" (busted — a heated salt block, or failing that a screaming-hot pan, at [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)) and "buy only rosy-colored beef" (busted — modified-atmosphere packaging, at [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)); a third myth on this same "bones flavor the meat" territory found in the scan was **not** re-added since it substantially duplicates the existing [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) from the earlier book. **Two named sub-components referenced by name but not printed in this batch's scan** — Orange Tuscan-Style Board Sauce and Smoked Garlic Bread (both p. 198/367, needed by [§7.133](#7133-clints-chuck-roast-sandwiches)) and a Poblano-Basil/Duxelles cream sauce (p. 192/194, needed by [§7.132](#7132-kōji-filet-mignon)) — cross-referenced to close existing relatives in this cookbook rather than invented; see each recipe's Note and Open Questions. **§13 remains a placeholder**, same reasoning as every update above. See the 2026-09-06 changelog entry for the full accounting.
 >
 > **Update, 2026-09-06 — the "Pork" chapter of *The Meathead Method* has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Two full recipes, **[§7.136](#7136-championship-pork-ribs) Championship Pork Ribs** and **[§7.137](#7137-tuffy-stones-championship-pork-butt) Tuffy Stone's Championship Pork Butt**, plus one new condensed technique entry, **[§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) Buying Pork and the Whole-Hog Cut Map**. **§7.137 confirmed as the SAME recipe** the earlier Rubs & Spice Blends batch informally called "Cool Smoke Pork Butt" when it added that recipe's four named components ([§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection)) — the source's own and only title for the dish is "Tuffy Stone's Championship Pork Butt"; no separate recipe exists, so this is one entry, not two. **§7.136 is a genuinely different recipe from §7.135's neighbor [§7.97 Last-Meal Ribs](#797-last-meal-ribs)** (this book's own competition method vs. the earlier book's simple home smoke, which this book's own recipe explicitly name-checks as "the simpler recipe I do at home") — both kept, cross-referenced. **The book's own pork-rib-cuts diagram (book p. 244) was checked against the existing [§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs)/[§T59 Rib Anatomy](#t59-rib-anatomy-and-how-to-skin--trim-ribs) from the earlier book and found to substantially duplicate the rib-specific content there** — not re-added; [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) instead covers only what T58/T59 don't (pork's lack of USDA grading, buying by color/myoglobin, the loin-vs-tenderloin mix-up, and a whole-hog map cross-referencing T58 for the ribs). **The "boil ribs to make them tender" myth-busting box was folded into [§7.136](#7136-championship-pork-ribs)'s headnote rather than given its own T-number**, same practice as the Beef/Bison/Lamb batch's myth-folding. **One recipe skipped as genuinely incomplete**: **Dorie's Pork à la Normande** (book p. 252–253) — the title, full headnote, and complete ingredient list are legible, but the numbered cooking steps that should follow on p. 253 are not among the 55 photographed pages at all (the scan's next captured page picks up mid-recipe elsewhere in the book); named here rather than guessed at, same handling as the Beef batch's Pho skip. **Two connecting-prose passages on hard-to-read photographed spreads (book p. 246–247 and p. 250–252) are flagged in each recipe's own Open Questions** rather than silently smoothed over — every ingredient amount, temperature, and step sequence that drives the outcome is solid; only some minor narrative phrasing between steps is paraphrased. **Jargon explained inline per Cody's standing request:** the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket)/[§7.135](#7135-championship-brisket-and-burnt-ends), where this cookbook already explains the term, rather than re-explained from scratch) at both [§7.136](#7136-championship-pork-ribs) and [§7.137](#7137-tuffy-stones-championship-pork-butt); the turn-in box (a competition-BBQ term for the judged submission box) explained in full at [§7.136](#7136-championship-pork-ribs) and cross-referenced from [§7.137](#7137-tuffy-stones-championship-pork-butt). **No salt amounts altered anywhere in this batch.** **Neither recipe prints net carbs, so neither is tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and this §13 entry all updated throughout. **§13 remains a placeholder**, same reasoning as every update above.
+>
+> **Update, 2026-09-06 — the "Chicken and Turkey" chapter of *The Meathead Method* has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Five full recipes, **[§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) through [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)**, plus five new condensed technique entries, **[§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)–[§T99](#t99-the-warp-heat-scale-the-meathead-method)**. **§7.138 Real Fried Chicken on a Gas Grill and §7.139 Extra Crispy Chicken Wings Without Frying are both genuinely different from this cookbook's existing fried/wing recipes from the earlier Meathead book** ([§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken), a sous-vide-then-fry method, and [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings), smoked/grilled and sauced) — both new methods kept alongside their older cousins rather than merged. **§7.140 Tandoori Chicken and §7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin turned out to be two separate dishes, not one** — an early scan of this batch's photos worried they might be the same recipe split across pages, since a whole-bird rotisserie method and a numbered Pound/Dry Brine/Rehydrate/Fire Up/Make the Cracklins/Smoke and Butter Up/Serve method both turned up near each other; on closer reading, the rotisserie steps are Tandoori Chicken's own third cooking option (its ingredient list, cilantro garnish, and yogurt marinade all match), and the numbered turkey-breast method is §7.142's own steps, matching that recipe's own ingredient list (French Rub, cranberries, port, butter) one page later — two distinct dishes, not a duplicate. **§7.141 Championship Chicken uses this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), not the Cool Smoke rub/sauce components** at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection) — a different competition team (Darren and Sherry Warth) with their own rub-and-sauce combination, so no cross-reference or merge with the Cool Smoke recipes applies. **One recipe fragment skipped as genuinely incomplete**: an untitled recipe that uses [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component and finishes it with a basting of "hot flavored oil" — only the tail end of its Steps 2–3 are legible, immediately above [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s own headnote on book p. 285; its title, headnote, full ingredient list, and Step 1 (how the flavored oil itself is made) are not among the photographed pages. Named here rather than guessed at. **One myth-busting box given its own T-number rather than folded into a recipe**: [§T97 Myth — Truss Poultry Legs](#t97-myth--truss-poultry-legs-the-meathead-method) (busted — trussing traps steam and slows cooking rather than helping) — kept separate because it reinforces, rather than belongs to, an existing bullet at [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey) from the earlier Meathead book; both books reach the same conclusion independently, cross-referenced rather than duplicated. **The "Warp" heat scale — flagged as existing but unused in the Beef/Bison/Lamb batch's own changelog entry — has now actually appeared in a recipe** ([§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4, "Warp 5"), so it gets its own new technique entry, [§T99](#t99-the-warp-heat-scale-the-meathead-method), inferring what the scale means from how it's used across several of this book's recipes since its own numeric definition still hasn't turned up in any photographed page. **No salt amounts altered anywhere in this batch.** **Jargon explained inline per Cody's standing request:** "spatchcock" (cross-referenced to the earlier book's existing [§T77](#t77-tips-on-cooking-poultry) rather than re-explained), the ten-piece cut for frying and whole-bird carving (both condensed into the new [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)), why baking powder (not baking soda) crisps poultry skin and dry-vs-wet coatings generally (the new [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)), EverCrisp (explained as a commercial category product at §T96, not purchased for any recipe here), "kamadoor" and "IR" (explained inline at [§7.140](#7140-tandoori-chicken)), "GBD" (Golden Brown and Delicious, explained inline at [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)), "cracklins" (crispy rendered poultry skin, explained inline at [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)), a "jaccard" (a needle-bladed meat-tenderizing tool, explained inline at [§7.141](#7141-championship-chicken)), and a "turn-in box" (cross-referenced to the existing explanation at [§7.136](#7136-championship-pork-ribs) rather than repeated). **The source's own "For French Fries" sidebar was checked against this cookbook's existing [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries)** and found to be a genuinely different, fresh-cut/pickle-brine-soak method (vs. §7.46's frozen-fries version) — condensed into its own new technique entry, [§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method), cross-referenced from [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) rather than written up as its own recipe, since the source itself presents it as a sidebar, not a standalone dish. **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and this §13 entry all updated throughout. **§13 remains a placeholder**, same reasoning as every update above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39055,14 +39550,14 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 
 ### Poultry
 
-- **Whole chicken/hen** — [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) *(placeholder, smoked)* · [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) *(fried)* · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) *(roasted)* · [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(roasted/braised)* · [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) *(simmered)* · [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(broken into parts, two-zone grilled)* · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(smoked, dipped in white sauce)* · [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) *(cut into 8, dredged and pan-browned, then braised in a wine-vinegar-cream pan sauce)* · [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) *(buttermilk- or, for Persian Roast Chicken, saffron-yogurt-marinated, then roasted)* · [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) *(whole or thighs, marinated and roasted, glazed at high heat)*
-- **Chicken thighs / drumsticks** — [§7.5 Chicken Thighs](#75-chicken-thighs) *(placeholder)* · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) *(pan-fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(thigh variant noted)* · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) *(simmered)* · [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) *(dark meat/drumsticks preferred — sous vide 150°F, then double-dredged and fried)* · [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) *(8 bone-in, skin-on thighs, as an alternative to a whole bird)*
+- **Whole chicken/hen** — [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) *(placeholder, smoked)* · [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) *(fried)* · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) *(roasted)* · [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(roasted/braised)* · [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.16 Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) *(simmered)* · [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(broken into parts, two-zone grilled)* · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(smoked, dipped in white sauce)* · [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) *(cut into 8, dredged and pan-browned, then braised in a wine-vinegar-cream pan sauce)* · [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) *(buttermilk- or, for Persian Roast Chicken, saffron-yogurt-marinated, then roasted)* · [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) *(whole or thighs, marinated and roasted, glazed at high heat)* · [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) *(cut into 10 pieces, deep-fried in a Dutch oven on the grill's side burner — distinct from §7.37, both kept)* · [§7.140 Tandoori Chicken](#7140-tandoori-chicken) *(yogurt-marinated, whole bird on a rotisserie/spit or grill grate)*
+- **Chicken thighs / drumsticks** — [§7.5 Chicken Thighs](#75-chicken-thighs) *(placeholder)* · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) *(pan-fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(thigh variant noted)* · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) *(simmered)* · [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) *(dark meat/drumsticks preferred — sous vide 150°F, then double-dredged and fried)* · [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) *(8 bone-in, skin-on thighs, as an alternative to a whole bird)* · [§7.141 Championship Chicken](#7141-championship-chicken) *(12 bone-in, skin-on thighs — trimmed, injected, smoked, direct-seared, and sauced, competition style)*
 - **Chicken breasts** — [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), [§7.19 Honey Chicken Marinade & Kabobs](#719-honey-chicken-marinade--kabobs) *(grilled)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(fried)* · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) *(grilled)* · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip), [§9.7 Chicken Salad](#97-chicken-salad)
-- **Chicken wings** — [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) *(placeholder)* · [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(smoked/grilled, tossed in Buffalo sauce — distinct from §7.9, both kept)*
+- **Chicken wings** — [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) *(placeholder)* · [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(smoked/grilled, tossed in Buffalo sauce — distinct from §7.9, both kept)* · [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) *(baking-powder dry brine, 24 hr air-dry, roasted then direct-seared — no frying at all)*
 - **Chicken hearts / livers** — [§7.6 Chicken Hearts](#76-chicken-hearts), [§7.7 Chicken Livers](#77-chicken-livers) *(both placeholders)*
 - **Chicken bones, backs, necks, feet, wingtips** — [§8.40 Chicken Stock](#840-chicken-stock) *(simmered 6–8 hr, per [§T87 Stock](#t87-stock--saving-scraps-for-the-pot)'s scrap-saving habit)*
 - **Cornish game hen** — [§7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) *(marinated, two-zone grilled)*
-- **Whole turkey / turkey breast** — [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) *(simmered)* · [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) *(cold, leftover roast)* · [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(whole, dry-brined and smoked, with pan-drippings gravy)*
+- **Whole turkey / turkey breast** — [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) *(simmered)* · [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) *(cold, leftover roast)* · [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(whole, dry-brined and smoked, with pan-drippings gravy)* · [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) *(boneless breast lobe, dry-brined and butter-injected, smoked, with rendered-skin cracklins — distinct from §7.122's whole bird)*
 - **Whole duck** — [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles), [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo), [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) *(all simmered)*
 - **Whole goose** — [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters), [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) *(simmered)*
 - **Quail** — [§7.67 Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) *(grilled)*

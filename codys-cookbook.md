@@ -153,6 +153,17 @@ Click any recipe to jump straight to it.
   - [4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis) ✅
   - [4.133 Beef Butter](#4133-beef-butter) ✅ *(Meathead; pairs with [§7.109](#7109-chateaubriand-with-compound-butter))*
   - [4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) ✅ *(Salt, Fat, Acid, Heat; the same dressing [§T29](#t29-how-to-salt)/[§T31](#t31-how-to-use-acid) use as their layering example — now written up in full)*
+  - [4.135 Creamy Herb Dressing](#4135-creamy-herb-dressing) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.136 Any-Other-Citrus Vinaigrette](#4136-any-other-citrus-vinaigrette) ✅ *(Salt, Fat, Acid, Heat; includes a Kumquat Vinaigrette variation)*
+  - [4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette) ✅ *(Salt, Fat, Acid, Heat; includes a Honey-Mustard Vinaigrette variation)*
+  - [4.139 Balsamic Vinaigrette](#4139-balsamic-vinaigrette) ✅ *(Salt, Fat, Acid, Heat; includes Parmesan and Brown Butter Vinaigrette variations)*
+  - [4.140 Lemon Vinaigrette](#4140-lemon-vinaigrette) ✅ *(Salt, Fat, Acid, Heat; includes a Lemon-Anchovy Vinaigrette variation)*
+  - [4.141 Lime Vinaigrette](#4141-lime-vinaigrette) ✅ *(Salt, Fat, Acid, Heat; includes a spicy jalapeño variation)*
+  - [4.142 Rice Wine Vinaigrette](#4142-rice-wine-vinaigrette) ✅ *(Salt, Fat, Acid, Heat; includes heat and sesame-oil variations)*
+  - [4.143 Miso-Mustard Dressing](#4143-miso-mustard-dressing) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.144 Green Goddess Dressing](#4144-green-goddess-dressing) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.145 Tahini Dressing](#4145-tahini-dressing) ✅ *(Salt, Fat, Acid, Heat; includes a Goma-Ae/Japanese sesame dressing variation)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -240,6 +251,10 @@ Click any recipe to jump straight to it.
 - [5.47 Smoked Potato Salad](#547-smoked-potato-salad) ✅ *(Meathead)*
 - [5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) ✅ *(Meathead; distinct from [§5.33](#533-quick-and-smoky-baked-beans)/[§5.34](#534-brazilian-black-beans-with-bacon-tutu-mineira))*
 - [5.49 Persian-ish Rice](#549-persian-ish-rice) ✅ *(Salt, Fat, Acid, Heat; includes Bread Tahdig, Saffron Rice, Herbed Rice, and Fava Bean and Dill Rice variations)*
+- [5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) ✅ *(Salt, Fat, Acid, Heat; one of the source's "Three Classic Shaved Salads")*
+- [5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) ✅ *(Salt, Fat, Acid, Heat)*
+- [5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) ✅ *(Salt, Fat, Acid, Heat)*
+- [5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw) ✅ *(Salt, Fat, Acid, Heat; includes Alterna-slaw, Mexi-Slaw, Asian Slaw, and Classic Southern Slaw variations; distinct from [§5.13](#513-north-carolina-coleslaw)/[§5.35](#535-cole-slaw))*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -529,6 +544,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Salads & Vinaigrettes/Dressings batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this week's two prior batches ([§8.37](#837-chicken-and-garlic-soup)–[§4.134](#4134-creamy-caesar-dressing); [§5.49 Persian-ish Rice](#549-persian-ish-rice)–[§14.23](#1423-fresh-ginger-and-molasses-cake)). **This same 50-page source PDF covers six different categories; this batch handles only the salads and vinaigrettes/dressings pages — more batches from the same scan are coming for the salsas/yogurt sauces, vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages still to be transcribed.** **Four composed salads added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.49 Persian-ish Rice](#549-persian-ish-rice): **[§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad)** (p. 226, one of the source's "Three Classic Shaved Salads" — its intro on shaved salads generally is folded in as headnote context rather than spun into its own technique entry, since only one of the three salads was among the photographed pages), **[§5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint)** (p. 235, built on a double batch of the new [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette)), **[§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber)** (p. 231, built on a double batch of the new [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette)), and **[§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)** (p. 244–245, with Alterna-slaw, Mexi-Slaw, Asian Slaw, and Classic Southern Slaw variations folded in as callouts, matching this cookbook's established precedent for a source's own variations) — **kept distinct from this cookbook's two existing slaws**, [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) and [§5.35 Cole Slaw](#535-cole-slaw), both cross-referenced rather than treated as duplicates. **Eleven vinaigrettes and dressings added to [§4](#4-rubs-seasonings-sauces--condiments)**, continuing from [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing): **[§4.135](#4135-creamy-herb-dressing) Creamy Herb Dressing**, **[§4.136](#4136-any-other-citrus-vinaigrette) Any-Other-Citrus Vinaigrette** (Kumquat Vinaigrette variation), **[§4.137](#4137-tomato-vinaigrette) Tomato Vinaigrette**, **[§4.138](#4138-red-wine-vinaigrette) Red Wine Vinaigrette** (Honey-Mustard variation), **[§4.139](#4139-balsamic-vinaigrette) Balsamic Vinaigrette** (Parmesan and Brown Butter variations — cross-linked to the existing [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying)), **[§4.140](#4140-lemon-vinaigrette) Lemon Vinaigrette** (Lemon-Anchovy variation), **[§4.141](#4141-lime-vinaigrette) Lime Vinaigrette** (spicy jalapeño variation), **[§4.142](#4142-rice-wine-vinaigrette) Rice Wine Vinaigrette** (heat and toasted-sesame-oil variations — used by [§5.53](#553-bright-cabbage-slaw)'s Asian Slaw), **[§4.143](#4143-miso-mustard-dressing) Miso-Mustard Dressing**, **[§4.144](#4144-green-goddess-dressing) Green Goddess Dressing**, and **[§4.145](#4145-tahini-dressing) Tahini Dressing** (Goma-Ae/Japanese sesame seed dressing variation). **One recipe checked very carefully and skipped rather than guessed at, per Cody's specific advance concern: Peanut-Lime Dressing (p. 249, facing Miso-Mustard Dressing).** This is genuinely cut off in the source photograph, not just a tight framing crop — the photo is already the full width of the page, and the right-hand page itself is curled/bent away from the camera in a way no wider crop of the same image recovers; every ingredient line and instruction line is truncated mid-word ("¼ cup fres...," "1 tablespo...," "Optiona..."). Named and described here, not invented. **Rated 🟢 Easy across the board** — every one of these fifteen recipes is whisking, shaking, or tossing together raw or pre-macerated ingredients, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, not even [§5.51](#551-spring-asparagus-and-feta-with-mint)'s brief asparagus blanch. **Two source gaps flagged rather than invented, both already-established gaps at [§4.134](#4134-creamy-caesar-dressing):** "Torn Croutons" (source p. 236), called for in [§5.51](#551-spring-asparagus-and-feta-with-mint) and [§5.52](#552-summer-tomato-basil-and-cucumber), gets the same torn-and-toasted-bread stand-in noted there; "Basic Mayonnaise" (source p. 375) and its stiffened "Classic Sandwich Mayo" relative, called for in [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing) and [§5.53](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, get the same store-bought-or-[§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) stand-in. **Jargon explained inline per Cody's standing request, each on first use and cross-referenced afterward:** shaved salad and mandoline slicing ([§5.50](#550-vietnamese-cucumber-salad)), "stripey peeling" a cucumber or asparagus stalk — alternating peeled and unpeeled strips for color, crunch, and better dressing cling — explained fresh since the source's own instructional page (220) wasn't photographed ([§5.50](#550-vietnamese-cucumber-salad), cross-referenced at [§5.51](#551-spring-asparagus-and-feta-with-mint)/[§5.52](#552-summer-tomato-basil-and-cucumber)), macerating shallots and onions in acid to mellow their bite — cross-referenced to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick" rather than re-explained, since this cookbook already carries that content in full (the source's own "see page 118" cross-reference wasn't among the photographed pages, but T31 already has the technique) — why a vinaigrette needs shaking or whisking to hold its emulsion, cross-referenced to the existing [§T30 How to Use Fat](#t30-how-to-use-fat) rather than re-explained, smashing a garlic clove with the palm of the hand, explained in full at [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) and cross-referenced at [§4.140](#4140-lemon-vinaigrette)/[§4.141](#4141-lime-vinaigrette)/[§4.142](#4142-rice-wine-vinaigrette), and tasting a dressing "with a leaf of lettuce" rather than off the spoon — because the thin coating amount matters more than the dressing's standalone flavor — cross-referenced to [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), which already explains it. **Crème fraîche, called for in [§4.135](#4135-creamy-herb-dressing), resolves cleanly rather than becoming a third open gap** — the source's own recipe for it (page 113) turns out to already be in this cookbook, condensed at [§T31](#t31-how-to-use-acid)'s "Making your own crème fraîche," from the same original Acid-chapter condensation pass. Several serving suggestions naming salads not yet in this cookbook (Avocado Salad, Caprese Salad, *Shirazi* Salad, Fattoush, Grain or Bean Salad, Panzanella, Shaved Fennel and Radish Salad, Shaved Carrot Salad, Beer-Battered Fish, Spicy Fried Chicken, Slow-Roasted Salmon) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) — it's cross-linked instead. None of the fifteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the eleven dressings and a normal salad-plate portion for the four composed salads. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Two unrelated family recipes added from personal recipe cards/photos: [§7.124 Poulet de France](#7124-poulet-de-france)** (a chicken-and-stuffing casserole — new section, appended after [§7.123 Kufte Kebabs](#7123-kufte-kebabs)) **and [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes)** (filling in an existing placeholder rather than creating a new section — the title and section number were already reserved in the Table of Contents). **[§7.124 Poulet de France]** is transcribed from a printed page of an unidentified community/church-style cookbook — **the source book's own title wasn't visible in the photo, so it's cited as "source cookbook title not visible in photo; family recipe card" rather than guessed** — with Cody's own handwritten red-ink adaptation notes in the margins. Per Cody: *"Add this stuffing - it's awesome. Family favorite."* **Two methods are documented, and the crockpot one is featured as primary** because it's the one the family actually uses: Cody doubles the printed single-batch recipe and assembles it directly in a 7-quart crockpot with **no freeze-first step** (confirmed with Cody — the printed card's own method freezes the assembled casserole before baking; his crockpot version skips that entirely and cooks straight away), run **on high 1 hr 20 min, then down to low for as long as he's out of the house — his own example is a church service — then back to high until the rest of the meal is ready.** The original single-batch oven method (assemble, cover, freeze, thaw overnight, bake covered 30 min at 325°F, then uncovered with cheddar for 10 more) is kept as a clearly labeled variation for anyone without a crockpot or making a smaller batch ahead. **Rated 🟢 Easy** — an assemble-and-cook casserole either way, no step that can genuinely fail, matching this cookbook's crockpot precedent ([§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans), [§8.1 Chili Mac](#81-chili-mac)). Its multi-hour crockpot stretch is filed entirely under **Slow cook**, not Cook, per [CLAUDE.md §3a](CLAUDE.md). **Two flags left in place rather than resolved by guessing:** the oven method's step-by-step wording was transcribed from an awkwardly rotated photo and is marked ⚠️ reconstructed, worth checking against the physical card; and the broth quantities on Cody's handwritten doubling notes are written across two different boxes on the card in a way that doesn't map cleanly onto which mixing step each addition belongs to — resolved here by doubling the printed recipe's own two broth additions separately (1¼ cups → 2½ cups for the stuffing, ¾ cup → 1½ cups for the egg-milk-soup sauce, totaling a clean 4 cups), noted explicitly in the entry rather than left ambiguous. Cranberry Tea and cooked frozen peas, both named on the card as serving suggestions, are flagged as pairings rather than invented as recipes. **No duplicate found** — this cookbook had no existing chicken-and-stuffing casserole before this entry. **[§5.25 Heather's Mashed Potatoes]** is transcribed from a handwritten card headed "From the Kitchen of: Joetta, To: Geviene" — that provenance is noted in the entry itself, distinct from the dish name Cody uses for it. A make-ahead mashed potato casserole (10 lb potatoes mashed with milk and butter, enriched with cream cheese and sour cream, topped with melted butter, baked at 300°F) that the card itself says "freezes well." **Rated 🟢 Easy**, same reasoning — nothing in an assemble-and-bake casserole can fail on you. **Two figures the card leaves blank are flagged rather than invented:** no serving count ("Serves:" left empty — estimated at 12–16, stated as an estimate) and no bake time (only the 300°F oven temperature is given — a 45–60 minute estimate is reasoned from baking already-cooked potatoes through at a low, gentle temperature, not copied from the card). Milk and butter amounts for the initial mashing step also aren't specified on the card and are flagged the same way. **No duplicate found** — this cookbook's only other potato-forward casseroles ([§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole), [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes)) are a sweet-potato holiday side and a cauliflower keto substitute respectively, both genuinely different dishes. Neither new recipe prints net carbs, so neither is tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Family Ratings Index (❤️ count now 56, adding [§7.124](#7124-poulet-de-france)) updated throughout. |
 | 2026-09-06 | **Four more recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and yesterday's first batch of actual recipe pages, [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)/[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing). **[§5.49 Persian-ish Rice](#549-persian-ish-rice)** (p. 285–287, two photographed pages combined into one continuous recipe) — parboiled basmati rice pan-fried over a yogurt-rice base to form *tahdig*, the crisp golden crust Persian cooking is built around; its four named variations (Bread *Tahdig*, Saffron Rice, Herbed Rice, Fava Bean and Dill Rice) folded in as callouts, matching the [§8.37](#837-chicken-and-garlic-soup) precedent. **Rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, unmolding the crust is a genuine can-go-wrong moment the source itself dwells on ("gather your courage... if for any reason your rice doesn't slip out in one piece, do what every Persian grandmother has done"), unlike this batch's other three, which are all 🟢 Easy. **[§7.123 Kufte Kebabs](#7123-kufte-kebabs)** (p. 356–357) — hand-formed torpedo-shaped ground lamb kebabs, grilled or pan-seared, with Moroccan Kofta and Turkish *Köfte* variations folded in the same way; kept distinct from this cookbook's existing Raichlen beef kebabs ([§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef)), which are cubed and skewered rather than hand-formed. **[§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola)** (p. 402–403) — a slow 300°F bake of oats, seeds, nuts, olive oil, and dark maple syrup, filed in Desserts to match the source's own "Sweets" placement. **[§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake)** (p. 412–413) — a two-layer oil cake built on puréed fresh ginger and molasses, using the "boiling water method" (a hot-liquid-into-oil mixing technique, sometimes called a hot-milk cake). **Same Vanilla Cream gap as [§14.21](#1421-loris-chocolate-midnight-cake), handled the same way:** this cake also calls for the source's own "Vanilla Cream (page 423)," not among the photographed pages for either cake — not invented here; the same whipped-cream/buttercream substitute noted at §14.21 is repeated at §14.23 rather than duplicated in full, and both entries cross-link to each other and flag the gap in Open Questions. **Three dead cross-references in [§5.49](#549-persian-ish-rice)/[§7.123](#7123-kufte-kebabs) — Slow-Roasted Salmon (p. 310), Persian Roast Chicken (p. 341), and Kuku Sabzi (p. 306) — are all noted as "not yet in this cookbook" rather than invented**, per this cookbook's standing honesty practice; Persian Herb Yogurt, Shaved Carrot Salad with Ginger and Lime, and Charmoula (all named in §7.123's own serving suggestions) get the same treatment. **Intermediate chef terminology explained in plain language throughout, per Cody's standing request:** *tahdig* and why Persian cooks prize it, *maman* (mother, per the source's own word choice), al dente as it applies to rice specifically (a firm core that finishes cooking later, not a fully tender grain), saffron tea (grinding saffron with salt, then blooming it in boiling water — explained in full at §5.49's Saffron Rice variation and cross-linked from §7.123 rather than re-explained there), why kneading kofta with warm hands helps (body heat softens the fat and binds the mixture), the dime-size pink doneness check for a kebab, the boiling-water/hot-milk-cake mixing method for the ginger cake, and old-fashioned rolled oats vs. quick oats for the granola. **Maillard reaction and caramelization, both named in the granola's own headnote, are cross-linked to the existing [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) rather than re-explained**, per this cookbook's practice of linking to standing content instead of duplicating it; molasses's own acidity (the ginger cake's baking-soda partner) is cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid)'s existing acid list rather than re-explained. **No duplicates found** — this cookbook had no existing Persian rice, kofta/kebab, granola, or ginger cake recipe before this batch (its existing kebabs are all cubed beef from a different book, cross-referenced above rather than confused for this one). None of the four print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-05 | **Five recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), which up to now only existed here as Cody's condensed, paraphrased distillations. These five are the first *actual recipe pages* transcribed from this source, with real quantities. **[§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)** (p. 332–333) — a whole chicken braised in stock with onion, carrot, celery, and a garlic bloom stirred in at the end; its two named variations, **Spring Garlic Soup** (green garlic in place of the 20 cloves) and ***Pho Gà*** (a Vietnamese chicken-noodle-soup build with charred onion/ginger, fish sauce, and star anise), plus its "add heartiness" and "turn into a main course" tips, are folded into the one entry as callouts rather than spun off into separate numbered recipes — matching this cookbook's existing precedent (e.g. [§14.20 Cream Caramel](#1420-cream-caramel)'s variation note) for keeping a source's own variations inline when they don't change the core method. Cross-referenced against [§1 Cody's Pho](#1-codys-pho) as a different chicken-based soup, not a conflicting version of the established beef pho. **[§8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup)** (p. 273) — egg whisked with Parmesan and parsley, poured into simmering stock in a thin stream. **Rated 🟡 Medium, the only one of the five not rated Easy** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, the source itself warns that pouring too fast or stirring too hard breaks the egg into "tiny, unappetizing bits" instead of the wide ribbons (*stracci*, "rags") the soup is named for, a real ruin-it risk the other four don't have. *(A stray, unrelated fragment at the top of this source photo — the tail end of a different, uncaptured recipe — was identified and left out rather than guessed at.)* **[§8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)** (p. 275–276) — corn cobs simmered into their own stock, then puréed with sautéed onion and corn into a silky soup; its general vegetable-soup formula and no-cook Chilled Cucumber and Yogurt Soup variation folded in the same way as §8.37's. **[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)** (p. 247) — **not a new dish so much as the recipe [§T29](#t29-how-to-salt) and [§T31 How to Use Acid](#t31-how-to-use-acid) were already teaching from in the abstract** (five sources of salt, four of acid, all in one dressing); both entries are now cross-linked forward to this full write-up instead of describing the technique with no recipe attached. **Two source gaps flagged rather than invented, per this cookbook's standing honesty practice:** §4.134 calls for the source's own "Basic Mayonnaise (page 375)" and a "Torn Croutons" garnish, neither of which was among the photographed pages — good store-bought mayonnaise (or this cookbook's own [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) and plain toasted croutons stand in, both flagged in an Open Questions section rather than silently substituted. **[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)** (p. 410–411) — an oil-based chocolate layer cake, cross-referenced to [§T30 How to Use Fat](#t30-how-to-use-fat)'s existing explanation of why oil (not butter) makes for a moister cake, and to [§T31 How to Use Acid](#t31-how-to-use-acid)'s note on baking soda needing an acid partner, to explain why this Dutch-process-cocoa recipe leans on coffee rather than the cocoa itself for that reaction. **The source's own "Vanilla Cream (page 423)" filling/frosting wasn't photographed and isn't invented here** — the cake layers are documented in full, with a whipped-cream or basic buttercream substitute noted and the gap flagged in Open Questions, ready to swap in the real thing once that page is available. **Intermediate chef terminology explained in plain language throughout, per Cody's explicit request**, rather than left as unglossed shorthand: *stracci*/why the egg forms ribbons instead of clumps (§8.38), **blond** as a stage of cooking onions — pale gold and translucent, not browned, a different use of the word than this cookbook's existing *blond roux* entries (§8.39), salt-packed vs. oil-packed anchovies and why the salt-packed kind get soaked and filleted by hand (§4.134), mortar-and-pestle technique for anchovies (§4.134), fine-mesh sieve straining (§8.39), immersion blender vs. countertop blender safety with hot soup — venting the lid, blending in batches, filling only halfway (§8.39), Dutch-process vs. natural cocoa and why it changes the baking soda reaction (§14.21), and oil cake vs. butter cake (§14.21). **Layering Salt is cross-referenced to [§T29](#t29-how-to-salt) rather than re-explained**, per Cody's own standing content already covering it. **None of the five print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists, labeled as such. **No duplicates found** — this cookbook's existing chicken soups ([§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.16](#816-cleansing-ginger-chicken-soup)) are both genuinely different recipes, and there was no existing Caesar dressing, corn soup, or chocolate cake recipe anywhere in the book before this batch — only the abstract Caesar-dressing teaching example in §T29/§T31, now linked forward. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
@@ -751,6 +767,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) | 🟢 | 5 min | — | — | 5 min |
+| [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette) | 🟢 | 5 min | — | — | 20 min *(includes a 15 min macerate)* |
+| [§4.139 Balsamic Vinaigrette](#4139-balsamic-vinaigrette) | 🟢 | 5 min | — | — | 20 min *(includes a 15 min macerate)* |
+| [§4.140 Lemon Vinaigrette](#4140-lemon-vinaigrette) | 🟢 | 5 min | — | — | 15 min *(includes a 10 min rest)* |
+| [§4.141 Lime Vinaigrette](#4141-lime-vinaigrette) | 🟢 | 5 min | — | — | 15 min *(includes a 10 min rest)* |
+| [§4.142 Rice Wine Vinaigrette](#4142-rice-wine-vinaigrette) | 🟢 | 5 min | — | — | 15 min *(includes a 10 min rest)* |
+| [§4.136 Any-Other-Citrus Vinaigrette](#4136-any-other-citrus-vinaigrette) | 🟢 | 5 min | — | — | 20 min *(includes a 15 min macerate)* |
+| [§4.143 Miso-Mustard Dressing](#4143-miso-mustard-dressing) | 🟢 | 5 min | — | — | 5 min |
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
 | [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) | 🟢 | 5 min | — | — | 5 min |
@@ -820,6 +843,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter) | 🟢 | 10 min | — | — | 10 min |
 | [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) | 🟢 | 10 min | — | — | 10 min |
 | [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) | 🟢 | 10 min | — | — | 10 min *(+ 6 hr–overnight marinate or dry-brine fridge time)* |
+| [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) | 🟢 | 10 min | — | — | 25 min *(includes a 15 min macerate)* |
+| [§4.135 Creamy Herb Dressing](#4135-creamy-herb-dressing) | 🟢 | 10 min | — | — | 20 min *(includes a 15 min macerate)* |
+| [§4.145 Tahini Dressing](#4145-tahini-dressing) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
@@ -857,6 +883,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.95 "Dry" Chimichurri](#495-dry-chimichurri) | 🟢 | 5 min | — | — | 5 min |
 | [§4.45 Pico de Gallo](#445-pico-de-gallo) | 🟢 | 15 min | — | — | 15 min |
 | [§4.46 Tomato-Pepper Salsa](#446-tomato-pepper-salsa) | 🟢 | 15 min | — | — | 15 min |
+| [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing) | 🟢 | 15 min | — | — | 15 min |
+| [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw) | 🟢 | 15 min | — | — | 35 min *(a 20 min cabbage salt-draw and 20 min onion macerate run in parallel)* |
 | [§4.48 Cilantro Chutney](#448-cilantro-chutney) | 🟢 | 15 min | — | — | 15 min |
 | [§4.49 Mango Salsa](#449-mango-salsa) | 🟢 | 15 min | — | — | 15 min |
 | [§4.50 Cucumber Relish](#450-cucumber-relish) | 🟢 | 15 min | — | — | 15 min |
@@ -877,6 +905,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) *(Meathead)* | 🟡 | 20 min | — | **3–4 hr** *(under a rack of ribs on the smoker, stirred occasionally)* | ~4 hr |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) | 🟢 | 20 min | — | — | 20 min |
 | [§7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) *(Meathead)* | 🟡 | 5 min | 15 min | — | 1 hr 20 min *(+ 1 hr fridge dry-brine)* |
 | [§9.29 Deer Jerky](#929-deer-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.85 Beurre Blanc / Nantais (White Butter)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) | 🔴 | 5 min | 15 min | — | 20 min |
@@ -961,6 +990,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
 | [§4.47 Salsa Verde](#447-salsa-verde) | 🟢 | 15 min | 15 min | — | 30 min |
 | [§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) | 🟢 | 15 min | 15 min | — | 30 min |
+| [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) | 🟢 | 20 min | — | — | 45 min *(a 20 min onion macerate plus two ~10 min rests)* |
+| [§5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) | 🟢 | 20 min | 10 min | — | 45 min *(includes a 20 min onion macerate and two 10 min crouton rests, overlapping with active work)* |
 | [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) | 🔴 | 20 min | 10 min | — | 2 hr 30 min *(includes an estimated ~2 hr combined chill)* |
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§4.121 Texas Mop Sauce](#4121-texas-mop-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
@@ -9492,6 +9523,668 @@ Refrigerate leftover dressing, covered, for up to 3 days.
 
 ---
 
+### 4.135 Creamy Herb Dressing
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 248), from the "Creamy" chapter of her recipe section — the same chapter, and the very next page, as [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat).
+
+**Makes about 1¼ cups**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~20 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 1 tablespoon finely diced shallot
+- 2 tablespoons red wine vinegar
+- ½ cup crème fraîche (or heavy cream, sour cream, or plain yogurt)
+- 3 tablespoons extra-virgin olive oil
+- 1 small garlic clove, finely grated or pounded with a pinch of salt
+- 1 scallion, white and green parts finely chopped
+- ¼ cup finely chopped soft herbs, in whatever proportions you like — any combination of parsley, cilantro, dill, chives, chervil, and basil
+- ½ teaspoon sugar
+- Salt
+- Freshly ground black pepper
+
+> **Crème fraîche** is a thickened, tangy cultured cream — softer and less sour than sour cream. The source's own recipe for it (page 113) is already in this cookbook, condensed at [§T31 How to Use Acid](#t31-how-to-use-acid)'s "Making your own crème fraîche": whisk 2 tablespoons of crème fraîche or cultured buttermilk into 2 cups of heavy cream, pour into a clean jar, and leave it out, loosely covered, at room temperature for about 2 days until it thickens. Heavy cream, sour cream, or plain yogurt all work as a straight substitute if you'd rather not make a batch just for this.
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot in the vinegar. 15 minutes.**
+In a small bowl, let the diced shallot sit in the red wine vinegar for 15 minutes. **Macerating** means soaking something in acid to soften its harshness — raw shallot straight out of the bowl is sharp and aggressive, but 15–20 minutes sitting in vinegar mellows it out completely, the same trick [§T31 How to Use Acid](#t31-how-to-use-acid) covers under "Macerating: the onion trick." The source's own page cross-reference for this technique (page 118) wasn't among the pages photographed for this batch, but this cookbook's own T31 entry already has it in full.
+
+**2. Whisk everything together into one dressing.**
+In a large bowl, whisk together the shallot and its macerating vinegar with the crème fraîche, olive oil, garlic, scallion, herbs, sugar, a generous pinch of salt, and a pinch of black pepper.
+
+**3. Taste with a leaf of lettuce, not off the spoon.**
+As [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) already explains, a dressing reads saltier and sharper on an actual leaf of lettuce than it does off a spoon — the thin coating amount is what matters, not how the dressing tastes standing alone. Adjust salt and acid as needed.
+
+Refrigerate leftovers, covered, for up to 3 days.
+
+**Best on:** romaine, iceberg wedges, Little Gem lettuce, beets, cucumbers, and Belgian endive; also good spooned over grilled fish or roast chicken, as a dip for crudités, or alongside fried foods.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 Tbsp diced
+- 🛒 Red wine vinegar — 2 Tbsp
+- 🛒 Crème fraîche — ½ cup (or heavy cream/sour cream/plain yogurt, or make it via [§T31](#t31-how-to-use-acid))
+- 🛒 Extra-virgin olive oil — 3 Tbsp
+- 🛒 Garlic — 1 small clove
+- 🛒 Scallion — 1
+- 🛒 Soft herbs (parsley, cilantro, dill, chives, chervil, basil) — ¼ cup chopped, any combination
+- 🛒 Sugar — ½ tsp
+- 🛒 Salt and freshly ground black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1¼ cups)* | ~770 | 84 g | 3 g | 10 g | 1 g |
+| **Per serving** *(2 Tbsp, of about 10)* | ~75 | 8 g | 0.3 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.136 Any-Other-Citrus Vinaigrette
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 239), from the "Light" vinaigrettes chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.134](#4134-creamy-caesar-dressing)/[§4.135](#4135-creamy-herb-dressing).
+
+**Makes about ⅔ cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~20 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 1 tablespoon finely diced shallot
+- 4 teaspoons white wine vinegar
+- ¼ cup citrus juice — any citrus other than lemon or lime (orange, blood orange, grapefruit, tangerine)
+- ¼ cup extra-virgin olive oil
+- ½ teaspoon finely grated zest, from the same citrus
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot. 15 minutes.**
+In a small bowl or jar, let the shallot sit in the vinegar for 15 minutes to macerate — see [§T31 How to Use Acid](#t31-how-to-use-acid)'s "Macerating: the onion trick" for why this step matters (it takes the raw edge off the shallot completely).
+
+**2. Add everything else and combine.**
+Add the citrus juice, olive oil, zest, and a generous pinch of salt to the macerated shallot. Stir or shake to combine — this is an **emulsion**, oil and acid forced together even though they'd normally separate, which is why it needs the shake or whisk rather than just sitting in the jar; see [§T30 How to Use Fat](#t30-how-to-use-fat) for the fuller mechanics. Then taste with a leaf of lettuce and adjust salt and acid as needed.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Ideal for:** garden lettuces, romaine and Little Gem lettuce, blanched asparagus, and for Avocado Salad, Slow-Roasted Salmon, and Grilled Artichokes *(none of these three are documented in this cookbook yet — noted rather than invented)*.
+
+> **Variation — Kumquat Vinaigrette.** For a sweet-tart version, add 3 tablespoons finely diced kumquats to the shallot along with the vinegar and continue as above.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 Tbsp diced
+- 🛒 White wine vinegar — 4 tsp
+- 🛒 Citrus (orange, blood orange, grapefruit, or tangerine), for juice and zest — ¼ cup juice + ½ tsp zest
+- 🛒 Extra-virgin olive oil — ¼ cup
+- 🛒 Salt
+- 🛒 Kumquats — 3 Tbsp finely diced, for the Kumquat Vinaigrette variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ⅔ cup)* | ~510 | 54 g | 0.5 g | 8 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 5)* | ~95 | 10 g | 0 g | 1.5 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion. *(The Kumquat variation adds only a spoonful of diced fruit per batch — a small bump in carbs, not recalculated separately.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.137 Tomato Vinaigrette
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 239), facing [§4.136 Any-Other-Citrus Vinaigrette](#4136-any-other-citrus-vinaigrette) in the same "Light" vinaigrettes chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+> **Per the source:** make this dressing with the ripest tomatoes, or better yet, with the cores and ends from the tomatoes you plan to use in your salad. A tomato is ripe when it smells woody and sweet at the stem, and feels firm with just a little give when pressed.
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~25 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 2 tablespoons diced shallots
+- 2 tablespoons red wine vinegar
+- 1 tablespoon aged balsamic vinegar
+- 1 large or 2 small very ripe tomatoes (about 8 ounces)
+- 4 basil leaves, torn into large pieces
+- ¼ cup extra-virgin olive oil
+- 1 garlic clove
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot in both vinegars. 15 minutes.**
+In a small bowl or jar, let the shallot sit in the vinegars for 15 minutes to macerate (see [§T31](#t31-how-to-use-acid)).
+
+**2. Grate the tomato on a box grater and discard the skin.**
+Halve the tomato crosswise. Grate it on the largest holes of a box grater, right down to the skin, then discard the skin — you should be left with about ½ cup of pulpy grated tomato. This is a faster, mess-free way to get pure tomato flesh into a dressing than peeling and dicing by hand. Add it to the shallot.
+
+**3. Add the basil, oil, and smashed garlic.**
+Add the torn basil leaves, olive oil, and a generous pinch of salt. **Smash the garlic clove against the counter with the palm of your hand** — a firm, flat-handed press down onto the clove on a cutting board, just enough to split the skin and crack the clove open — and add it whole to the dressing. Smashing (rather than mincing) releases the garlic's oils and flavor into the dressing while it sits, without leaving little raw bits behind; you'll fish the clove back out before serving. Shake or stir to combine.
+
+**4. Let it sit, then taste and remove the garlic.**
+Taste with a crouton or a slice of tomato and adjust salt and acid as needed. Let the dressing sit for at least 10 minutes so the garlic can perfume it, then remove the garlic clove before using.
+
+Cover and refrigerate leftovers for up to 2 days.
+
+**Ideal for:** sliced tomatoes, and for Avocado Salad, Caprese Salad, Ricotta and Tomato Salad Toasts, and Summer Tomato and Herb Salad *(none of these are documented in this cookbook yet)*, as well as this cookbook's own [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber), which uses a double batch of this dressing, and its cousin [Summer Panzanella](#552-summer-tomato-basil-and-cucumber) *(not documented separately)*.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallots — 2 Tbsp diced
+- 🛒 Red wine vinegar — 2 Tbsp
+- 🛒 Aged balsamic vinegar — 1 Tbsp
+- 🛒 Very ripe tomato(es) — about 8 oz
+- 🛒 Basil — 4 leaves
+- 🛒 Extra-virgin olive oil — ¼ cup
+- 🛒 Garlic — 1 clove
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~510 | 54 g | 1 g | 10 g | 1 g |
+| **Per serving** *(2 Tbsp, of about 8)* | ~64 | 7 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.138 Red Wine Vinaigrette
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 240), opening the "Light" vinaigrettes chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+**Makes about ½ cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~20 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 1 tablespoon finely diced shallot
+- 2 tablespoons red wine vinegar
+- 6 tablespoons extra-virgin olive oil
+- Salt
+- Freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot. 15 minutes.**
+In a small bowl or jar, let the shallot sit in the vinegar for 15 minutes to macerate (see [§T31 How to Use Acid](#t31-how-to-use-acid)'s "Macerating: the onion trick").
+
+**2. Add the oil and season.**
+Add the olive oil, a generous pinch of salt, and a small pinch of pepper. Stir or shake to combine, then taste with a leaf of lettuce and adjust salt and acid as needed.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Ideal for:** garden lettuces, arugula, chicories, Belgian endive, Little Gem and romaine lettuce, beets, tomatoes, and blanched, grilled, or roasted vegetables of any kind, and for [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw), Fattoush, Grain or Bean Salad, [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese), and Spring Panzanella *(Fattoush, Grain or Bean Salad, and Panzanella aren't documented in this cookbook yet)*.
+
+> **Variation — Honey-Mustard Vinaigrette.** Add 1 tablespoon Dijon mustard and 1½ teaspoons honey and continue as above.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 Tbsp diced
+- 🛒 Red wine vinegar — 2 Tbsp
+- 🛒 Extra-virgin olive oil — 6 Tbsp
+- 🛒 Salt and freshly ground black pepper
+- 🛒 Dijon mustard — 1 Tbsp, for the Honey-Mustard variation
+- 🛒 Honey — 1½ tsp, for the Honey-Mustard variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup)* | ~730 | 81 g | 0 g | 3 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 4)* | ~180 | 20 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion. *(The Honey-Mustard variation adds roughly 15 calories and 2 g carbs per serving.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.139 Balsamic Vinaigrette
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 241), facing [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). This cookbook already carries the source's condensed **[§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)** entry (from the Meathead Sides chapter) on telling real Aceto Balsamico Tradizionale from supermarket "balsamic vinegar of Modena" — worth a look before buying the "aged balsamic vinegar" this recipe calls for.
+
+**Makes about ⅓ cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~20 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 1 tablespoon finely diced shallot
+- 1 tablespoon aged balsamic vinegar
+- 1 tablespoon red wine vinegar
+- 4 tablespoons extra-virgin olive oil
+- Salt
+- Freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot in both vinegars. 15 minutes.**
+In a small bowl or jar, let the shallot sit in the vinegars for 15 minutes to macerate (see [§T31](#t31-how-to-use-acid)).
+
+**2. Add the oil and season.**
+Add the olive oil, a generous pinch of salt, and a pinch of pepper. Stir or shake to combine, then taste with a leaf of lettuce and adjust salt and acid as needed.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Ideal for:** arugula, garden lettuces, Belgian endive, chicories, romaine and Little Gem lettuce, blanched, grilled, or roasted vegetables of any kind, and for Grain or Bean Salad and Winter Panzanella *(neither documented in this cookbook yet)*.
+
+> **Variation — Parmesan Vinaigrette.** Perfect for hearty chicories and grain salads: add 1½ ounces (about ½ cup) finely grated Parmesan and continue as above.
+
+> **Variation — Brown Butter Vinaigrette.** For dressing bread salads or roasted vegetables, substitute 4 tablespoons brown butter for the olive oil and continue as above. Bring refrigerated leftovers back to room temperature before using — cold brown butter solidifies.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 Tbsp diced
+- 🛒 Aged balsamic vinegar — 1 Tbsp
+- 🛒 Red wine vinegar — 1 Tbsp
+- 🛒 Extra-virgin olive oil — 4 Tbsp
+- 🛒 Salt and freshly ground black pepper
+- 🛒 Parmesan — 1½ oz (about ½ cup grated), for the Parmesan variation
+- 🛒 Butter — 4 Tbsp, browned, for the Brown Butter variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ⅓ cup)* | ~490 | 54 g | 0 g | 4 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 2–3)* | ~165 | 18 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion. *(Parmesan Vinaigrette adds about 45 calories, 3 g fat, and 3 g protein per serving; Brown Butter Vinaigrette is roughly the same as the base recipe.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.140 Lemon Vinaigrette
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 242). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+**Makes about ½ cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~15 min** *(includes a 10 min rest)*
+
+#### A. Ingredients
+
+- ¾ teaspoon finely grated lemon zest (about ½ lemon's worth)
+- 2 tablespoons freshly squeezed lemon juice
+- 1½ teaspoons white wine vinegar
+- 5 tablespoons extra-virgin olive oil
+- 1 garlic clove
+- Salt
+- Freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Combine the zest, juice, vinegar, and oil.**
+Pour the lemon zest, juice, vinegar, and olive oil into a small bowl or jar.
+
+**2. Smash and add the garlic, then season.**
+Smash the garlic clove against the counter with the palm of your hand — see [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) for the technique — and add it whole to the vinaigrette. Season with a generous pinch of salt and a pinch of pepper. Stir or shake to combine.
+
+**3. Rest, taste, then pull the garlic.**
+Taste with a leaf of lettuce and adjust salt and acid as needed. Let it sit for at least 10 minutes so the garlic can flavor the dressing, then remove the garlic clove before using — left in any longer, whole raw garlic left sitting in an acidic dressing can turn harsh and bitter.
+
+Cover and refrigerate leftovers for up to 2 days.
+
+**Ideal for:** herb salad, arugula, garden lettuces, romaine and Little Gem lettuce, cucumbers, boiled vegetables, and for Avocado Salad, Shaved Fennel and Radish Salad, and Slow-Roasted Salmon *(none of these are documented in this cookbook yet)*.
+
+> **Variation — Lemon-Anchovy Vinaigrette.** Coarsely chop 2 soaked, filleted salt-packed anchovies (or 4 fillets — see [§4.134](#4134-creamy-caesar-dressing) on salt-packed vs. oil-packed anchovies), then pound them into a fine paste in a mortar and pestle. The more you break them down, the better the dressing will be. Stir the anchovies and an additional ½ clove of finely grated or pounded garlic into the dressing and continue as above. Serve with arugula, Belgian endive, boiled vegetables of any kind, chicories, or shaved winter vegetables such as carrots, turnips, and celery root.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemon — for zest and juice
+- 🛒 White wine vinegar — 1½ tsp
+- 🛒 Extra-virgin olive oil — 5 Tbsp
+- 🛒 Garlic — 1 clove (plus ½ clove more for the Lemon-Anchovy variation)
+- 🛒 Salt and freshly ground black pepper
+- 🛒 Anchovies — 2 salt-packed (or 4 oil-packed fillets), for the Lemon-Anchovy variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup)* | ~610 | 68 g | 0 g | 3 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 4)* | ~150 | 17 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.141 Lime Vinaigrette
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 242), facing [§4.140 Lemon Vinaigrette](#4140-lemon-vinaigrette). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+**Makes a scant ½ cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~15 min** *(includes a 10 min rest)*
+
+#### A. Ingredients
+
+- 2 tablespoons freshly squeezed lime juice (from about 2 small limes)
+- 5 tablespoons extra-virgin olive oil
+- 1 garlic clove
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Combine the lime juice and oil.**
+Pour the lime juice and olive oil into a small bowl or jar.
+
+**2. Smash and add the garlic, then season.**
+Smash the garlic clove — see [§4.137](#4137-tomato-vinaigrette) — and add it to the vinaigrette along with a generous pinch of salt. Stir or shake to combine.
+
+**3. Rest, taste, then pull the garlic.**
+Taste with a leaf of lettuce and adjust salt and acid as needed. Let it sit for at least 10 minutes, then remove the garlic before using.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Ideal for:** garden lettuces, Little Gem and romaine lettuce, sliced cucumbers, and for Avocado Salad, Shaved Carrot Salad, *Shirazi* Salad, and Slow-Roasted Salmon *(none of these are documented in this cookbook yet)*.
+
+> **Variation — spicy.** Add 1 teaspoon minced jalapeño for a little heat.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Limes — 2 small, for juice
+- 🛒 Extra-virgin olive oil — 5 Tbsp
+- 🛒 Garlic — 1 clove
+- 🛒 Salt
+- 🛒 Jalapeño — 1 tsp minced, for the spicy variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(scant ½ cup)* | ~610 | 68 g | 0 g | 3 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 4)* | ~160 | 18 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.142 Rice Wine Vinaigrette
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 243). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). Used as an ingredient in [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Asian Slaw variation.
+
+**Makes about ⅓ cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~15 min** *(includes a 10 min rest)*
+
+#### A. Ingredients
+
+- 2 tablespoons seasoned rice wine vinegar
+- 4 tablespoons neutral-tasting oil
+- 1 garlic clove
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Combine the vinegar and oil.**
+Pour the vinegar and oil into a small bowl or jar.
+
+**2. Smash and add the garlic, then season.**
+Smash the garlic clove — see [§4.137](#4137-tomato-vinaigrette) — and add it to the dressing. Stir or shake to combine.
+
+**3. Rest, taste, then pull the garlic.**
+Taste with a leaf of lettuce and adjust salt and acid as needed. Let it sit for at least 10 minutes, then remove the garlic before using.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Ideal for:** garden lettuces, romaine and Little Gem lettuce, shaved daikon radish, carrots, or cucumbers, and for any Avocado Salad *(not documented in this cookbook yet)*.
+
+> **Variation — heat.** Add 1 teaspoon minced jalapeño.
+
+> **Variation — sesame.** To evoke the flavors of Korea or Japan, add a few drops of toasted sesame oil.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Seasoned rice wine vinegar — 2 Tbsp
+- ☯️ Toasted sesame oil — a few drops, for the sesame variation
+
+**🛒 General grocery**
+
+- 🛒 Neutral-tasting oil (grapeseed, canola, or vegetable) — 4 Tbsp
+- 🛒 Garlic — 1 clove
+- 🛒 Salt
+- 🛒 Jalapeño — 1 tsp minced, for the heat variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ⅓ cup)* | ~490 | 54 g | 0 g | 3 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 3)* | ~165 | 18 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.143 Miso-Mustard Dressing
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 249). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+**Makes ¾ cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 4 tablespoons white or yellow miso paste
+- 2 tablespoons honey
+- 2 tablespoons Dijon mustard
+- 4 tablespoons rice wine vinegar
+- 1 teaspoon finely grated ginger
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together until smooth.**
+In a medium bowl, whisk the miso paste, honey, Dijon, rice wine vinegar, and ginger together until smooth. Alternatively, place all the ingredients in a jar, seal the lid, and shake vigorously to combine — this dressing has no oil-and-vinegar split to worry about (miso itself acts as the emulsifier, the same job mustard does in a classic vinaigrette; see [§T30 How to Use Fat](#t30-how-to-use-fat)), so it comes together easily either way.
+
+**2. Taste and adjust.**
+Taste with a leaf of lettuce, then adjust acid as needed.
+
+Ideal for tossing with sliced raw cabbage or kale, garden lettuces, romaine and Little Gem lettuce, Belgian endive, and for drizzling over grilled fish, leftover roast chicken, or roasted vegetables.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ White or yellow miso paste — 4 Tbsp
+- ☯️ Rice wine vinegar — 4 Tbsp
+
+**🛒 General grocery**
+
+- 🛒 Honey — 2 Tbsp
+- 🛒 Dijon mustard — 2 Tbsp
+- 🛒 Fresh ginger — 1 tsp grated
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(¾ cup)* | ~310 | 4 g | 9 g | 58 g | 1 g |
+| **Per serving** *(2 Tbsp, of about 6)* | ~52 | 0.7 g | 1.5 g | 10 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion, or to drizzle over a piece of fish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.144 Green Goddess Dressing
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 250). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing).
+
+**Makes about 2 cups**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 3 salt-packed anchovies (or 6 fillets), soaked and filleted
+- 1 ripe medium avocado, halved and pitted
+- 1 garlic clove, sliced
+- 4 teaspoons red wine vinegar
+- 2 tablespoons plus 2 teaspoons lemon juice
+- 2 tablespoons finely chopped parsley
+- 2 tablespoons finely chopped cilantro
+- 1 tablespoon finely chopped chives
+- 1 tablespoon finely chopped chervil
+- 1 teaspoon finely chopped tarragon
+- ½ cup stiff Basic Mayonnaise *(the source calls for its own recipe — see the note below)*
+- Salt
+
+> **A note on the mayonnaise, same gap as [§4.134](#4134-creamy-caesar-dressing).** The source builds this on its own "Basic Mayonnaise" recipe (page 375), specified "stiff," which wasn't among the pages photographed for this cookbook — flagged as a gap rather than invented. In its place, use ½ cup good store-bought mayonnaise, or this cookbook's own [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one), whisked a little slower and longer than usual for a thicker, "stiff" result.
+
+#### B. Cooking Instructions
+
+**1. Pound the anchovies into a paste.**
+Coarsely chop the anchovies, then pound them into a fine paste in a mortar and pestle — see [§4.134](#4134-creamy-caesar-dressing) for the technique. The more you break them down, the better the dressing will be.
+
+**2. Blend everything until creamy and smooth.**
+Place the anchovies, avocado, garlic, vinegar, lemon juice, herbs, and mayonnaise in a blender or food processor with a generous pinch of salt and blend until creamy, thick, and smooth. Taste and adjust salt and acid as needed. Leave the Green Goddess thick to use as a dip, or thin it with water to whatever consistency you want for a salad dressing.
+
+Refrigerate leftovers, covered, for up to 3 days.
+
+**Ideal for:** romaine, iceberg wedges, Little Gem lettuce, beets, cucumbers, Belgian endive, for serving with grilled fish or roast chicken, dipping crudités, and for Avocado Salad *(not documented in this cookbook yet)*.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Anchovies — 3 salt-packed (or 6 oil-packed fillets)
+- 🛒 Avocado — 1 ripe medium
+- 🛒 Garlic — 1 clove
+- 🛒 Red wine vinegar — 4 tsp
+- 🛒 Lemons, for juice — 2 Tbsp plus 2 tsp
+- 🛒 Parsley — 2 Tbsp chopped
+- 🛒 Cilantro — 2 Tbsp chopped
+- 🛒 Chives — 1 Tbsp chopped
+- 🛒 Chervil — 1 Tbsp chopped
+- 🛒 Tarragon — 1 tsp chopped
+- 🛒 Mayonnaise — ½ cup stiff, or ingredients for [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~1,085 | 111 g | 5 g | 13 g | 7 g |
+| **Per serving** *(2 Tbsp, of about 16)* | ~68 | 7 g | 0.3 g | 1 g | 0.4 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion, or a couple of dipping spoonfuls with crudités.
+
+#### D. Open Questions
+
+- **Basic Mayonnaise (source page 375)** is a named ingredient in this recipe, same gap already flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) — the page wasn't among those photographed. Store-bought mayonnaise (or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) stands in above; revisit if that source page ever gets photographed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.145 Tahini Dressing
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 251), facing [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~3 min** *(toasting cumin seeds)* · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ½ teaspoon cumin seeds, or ½ teaspoon ground cumin
+- Salt
+- ½ cup tahini
+- ¼ cup freshly squeezed lemon juice
+- 2 tablespoons extra-virgin olive oil
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+- ¼ teaspoon ground cayenne pepper
+- 2 to 4 tablespoons ice water
+
+#### B. Cooking Instructions
+
+**1. Toast and grind the cumin seeds. About 3 minutes.**
+Place the cumin seeds in a small, dry skillet and set over medium heat. Swirl the pan constantly to ensure even toasting. Toast until the first few seeds begin to pop and emit a savory aroma, about 3 minutes. Remove from the heat. Immediately dump the seeds into the bowl of a mortar or a spice grinder and grind finely with a pinch of salt. *(Skip this step if using ground cumin.)*
+
+**2. Whisk everything together into a smooth emulsion.**
+Place the cumin, tahini, lemon juice, oil, garlic, cayenne, 2 tablespoons of the ice water, and a generous pinch of salt in a medium bowl and whisk to combine. Alternatively, blend everything together in a food processor. **The mixture might look broken at first — trust it.** Tahini seizes up and looks grainy or curdled the moment lemon juice hits it, the same way a mayonnaise can look wrong mid-whisk; keep stirring and it comes together into a smooth, creamy emulsion (see [§T30 How to Use Fat](#t30-how-to-use-fat) on emulsions generally). Add more ice water as needed to thin it to the consistency you want — leave it thick to use as a dip, and thin it out to dress salads, vegetables, or meat.
+
+**3. Taste and adjust.**
+Taste with a leaf of lettuce, then adjust salt and acid as needed.
+
+Refrigerate leftovers, covered, for up to 3 days.
+
+**Ideal for:** drizzling over roasted vegetables, grilled fish, or chicken; tossing with blanched broccoli, kale, green beans, or spinach; or serving as a dipping sauce with cucumbers and carrots.
+
+> **Variation — Goma-Ae (Japanese sesame seed dressing).** Substitute ¼ cup seasoned rice wine vinegar for the lemon juice. Omit the cumin, salt, olive oil, and cayenne, and add 2 teaspoons soy sauce, a few drops of toasted sesame oil, and 1 teaspoon mirin (rice wine). Whisk together with the garlic as directed above. Taste and adjust salt and acid as needed. **Goma-ae** literally means "sesame dressing" in Japanese, and it's traditionally tossed with blanched spinach or green beans as a side dish.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Toasted sesame oil — a few drops, for the Goma-Ae variation
+- ☯️ Mirin — 1 tsp, for the Goma-Ae variation
+- ☯️ Seasoned rice wine vinegar — ¼ cup, for the Goma-Ae variation
+
+**🛒 General grocery**
+
+- 🛒 Cumin seeds (or ground cumin) — ½ tsp
+- 🛒 Tahini — ½ cup
+- 🛒 Lemons, for juice — ¼ cup
+- 🛒 Extra-virgin olive oil — 2 Tbsp
+- 🛒 Garlic — 1 clove
+- 🛒 Ground cayenne pepper — ¼ tsp
+- 🛒 Soy sauce — 2 tsp, for the Goma-Ae variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~1,055 | 99 g | 24 g | 29 g | 10 g |
+| **Per serving** *(2 Tbsp, of about 8)* | ~130 | 12 g | 3 g | 3.5 g | 1 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion, or a couple of dipping scoops with vegetables.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -16307,6 +17000,311 @@ Serve immediately. *Pairs well with Slow-Roasted Salmon (not yet in this cookboo
 | **Per serving** *(serves 5)* | ~405 | 15 g | 6 g | 60 g | 2 g |
 
 **What a serving is:** a generous ¾ to 1 cup of rice, including a piece of the golden crust.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.50 Vietnamese Cucumber Salad
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 226), the first of her "Three Classic Shaved Salads." Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat).
+
+> **Per the source, on shaved salads generally:** *"I inherited my fondness for shaved salads from my friend Cal Peternell, the chef who taught me exactly how much salt it takes to season a pot of polenta (hint: a lot) during my early days at Chez Panisse. One out of three salads I eat at Cal's house is shaved. While I can't speculate on why he seems to have such a soft spot for them, my own reasons are clear: they're easy to make and lend crunch and brightness to any meal."* A **shaved salad** is just a raw vegetable salad built almost entirely on thin, even slices — usually cut with a mandoline (a flat slicing tool with an adjustable blade you drag the vegetable across) rather than a knife, for slices thin and consistent enough to eat raw with real crunch. This is the one of the source's three shaved salads that was among the pages photographed for this cookbook.
+
+**Serves 4 to 6**
+
+**🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- 2 pounds (about 8) Persian or Japanese cucumbers, **stripey peeled** (see below)
+- 1 large jalapeño, seeds and veins removed if desired, thinly sliced
+- 3 scallions, finely sliced
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+- ½ cup coarsely chopped cilantro leaves
+- 16 large mint leaves, coarsely chopped
+- ½ cup toasted peanuts, coarsely chopped
+- ¼ cup neutral-tasting oil
+- 4 to 5 tablespoons lime juice
+- 4 teaspoons seasoned rice wine vinegar
+- 1 tablespoon fish sauce
+- 1 teaspoon sugar
+- Pinch of salt
+
+> **"Stripey peeled"** means running a vegetable peeler down the cucumber in alternating strips, leaving some skin on and taking some off, so the peeled cucumber comes out looking striped rather than bald or fully skinned. It's a look, not just a shortcut — the remaining skin strips add color, a bit more crunch, and a slightly bitter edge that balances the salad, while the peeled strips let the dressing cling better than a fully-skinned cucumber would. The source's own instructional page for the technique (page 220) wasn't among the pages photographed for this cookbook, but the method above is enough to do it: peel long strips the length of the cucumber, skipping every other strip.
+
+#### B. Cooking Instructions
+
+**1. Thinly slice the cucumbers into coins.**
+Using either a Japanese mandoline or a sharp knife, thinly slice the stripey-peeled cucumbers into coins, discarding the ends. A mandoline gets you thin, even slices fast and consistently — if you're using one, always use the hand guard that comes with it; the blade is exposed and very sharp.
+
+**2. Combine everything raw in a large bowl.**
+In a large bowl, combine the cucumbers, jalapeño, scallions, garlic, cilantro, mint, and peanuts.
+
+**3. Whisk the dressing separately.**
+In a small bowl, whisk together the oil, 4 tablespoons of the lime juice, the vinegar, fish sauce, sugar, and a small pinch of salt.
+
+**4. Dress, toss, and adjust.**
+Dress the salad with the vinaigrette and toss to combine. Taste and adjust seasoning with salt and more lime juice as needed.
+
+Serve immediately — this is a salad meant to be eaten while the cucumbers are still crisp, not made ahead.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Persian or Japanese cucumbers — 2 lbs (about 8)
+- ☯️ Fish sauce — 1 Tbsp
+- ☯️ Seasoned rice wine vinegar — 4 tsp
+
+**🛒 General grocery**
+
+- 🛒 Jalapeño — 1 large
+- 🛒 Scallions — 3
+- 🛒 Garlic — 1 clove
+- 🛒 Cilantro — ½ cup chopped
+- 🛒 Mint — 16 large leaves
+- 🛒 Peanuts, toasted — ½ cup chopped
+- 🛒 Neutral-tasting oil (grapeseed, canola, or vegetable) — ¼ cup
+- 🛒 Limes, for juice — 4 to 5 Tbsp
+- 🛒 Sugar — 1 tsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(serves 5)* | ~1,100 | 90 g | 20 g | 55 g | 10 g |
+| **Per serving** *(serves 5)* | ~220 | 18 g | 4 g | 11 g | 2 g |
+
+**What a serving is:** about 1 cup — a normal side-salad portion.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.51 Spring: Asparagus and Feta with Mint
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 235). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad). Part of a seasonal salad set in the same chapter as [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber).
+
+**Serves 4 generously**
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** *(boiling water + a 3½ min blanch)* · **Start to finish ~45 min** *(includes a 20 min onion macerate and two 10 min crouton rests, overlapping with the active work)*
+
+#### A. Ingredients
+
+- Salt
+- ½ medium red onion, sliced thinly
+- 1 tablespoon red wine vinegar
+- 1½ pounds asparagus (about 2 bunches), woody ends removed
+- 4 cups Torn Croutons *(see the note below)*
+- 24 large mint leaves
+- 3 ounces feta cheese
+- Double batch of [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette)
+
+> **Torn Croutons**, per the source, are the traditional crouton for these bread-forward salads — bread torn into rough, irregular pieces (rather than cut into neat cubes) before toasting, so the jagged edges crisp unevenly and grab more dressing. Same gap already flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing): that recipe isn't among the pages photographed for this cookbook, so it's named here rather than invented. Plain toasted bread cubes or a store-bought crouton work as a stand-in — for something closer to the real thing, tear a rustic loaf into 1- to 2-inch pieces, toss with olive oil and salt, and toast at 400°F until golden, about 10 minutes.
+
+#### B. Cooking Instructions
+
+**1. Boil a big pot of salted water. Season it "like the summer sea."**
+Set a large pot of water on to boil over high heat. Season it with salt until it tastes like the summer sea — a very salty pinch, not a shy one; per [§T29 How to Salt](#t29-how-to-salt), salting the water isn't wasting salt, it's the only chance to season the asparagus from the inside. Line two baking sheets with parchment paper and set aside.
+
+**2. Macerate the onion. 20 minutes.**
+Toss the sliced onion in a small bowl with the vinegar and let it sit for 20 minutes to macerate — see [§T31 How to Use Acid](#t31-how-to-use-acid). Set aside.
+
+**3. Stripey peel and slice the asparagus.**
+If the asparagus is thicker than a pencil, stripey peel it — see [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) for what that means — pressing lightly with a vegetable peeler to remove only the outermost skin from about 1 inch below the blossom to the base. Slice the asparagus into 1½-inch-long pieces on a bias (an angled cut, not straight across — it exposes more surface area to the dressing and looks nicer on the plate).
+
+**4. Blanch until just tender. About 3½ minutes.**
+Blanch the asparagus in the boiling water until it's just tender, about 3½ minutes (less for thinner stalks). Taste a piece to determine doneness — it should still have the faintest crunch in the center. Drain and allow to cool in a single layer on the prepared baking sheets, so residual steam doesn't keep cooking it past that point.
+
+**5. Let half the croutons soak up dressing. 10 minutes.**
+Place half of the croutons in a large salad bowl and toss with ⅓ cup of the vinaigrette. Let sit for 10 minutes — this is deliberate: the first half of croutons goes in early and soft-soaks, while the second half (next step) stays crisp for contrast.
+
+**6. Add everything else and dress again.**
+Add the remaining croutons, the asparagus, and the macerated onions (but not their vinegar, yet). Tear in the mint leaves in small pieces. Crumble in the feta in large pieces. Dress with another ⅓ cup vinaigrette and season with salt, then taste.
+
+**7. Adjust and serve.**
+Adjust seasoning with salt, vinaigrette, and the macerating vinegar as needed. Toss, taste again, and serve at room temperature.
+
+Refrigerate leftovers, covered, for up to 1 night.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Red onion — ½ medium
+- 🛒 Red wine vinegar — 1 Tbsp, for macerating
+- 🛒 Asparagus — 1½ lbs (about 2 bunches)
+- 🛒 Rustic bread — for 4 cups Torn Croutons (see note), or store-bought croutons
+- 🛒 Mint — 24 large leaves
+- 🛒 Feta cheese — 3 oz
+- 🛒 Ingredients for a double batch of [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette) — shallot, red wine vinegar, extra-virgin olive oil, salt, pepper
+- 🛒 Salt (for the blanching water)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(serves 4)* | ~2,185 | 188 g | 38 g | 100 g | 17 g |
+| **Per serving** *(serves 4)* | ~545 | 47 g | 9 g | 25 g | 4 g |
+
+**What a serving is:** a generous 1½-cup salad plate. *(This dish is dressed heavily by design — a full double batch of vinaigrette goes in — so per-serving fat runs high; use a lighter hand with the vinaigrette if you'd rather not use the whole double batch.)*
+
+#### D. Open Questions
+
+- **Torn Croutons** — same undocumented source recipe flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) (page 236 in the source, not among the photographed pages). A simple torn-and-toasted bread stand-in is used above; revisit if that page ever gets photographed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.52 Summer: Tomato, Basil, and Cucumber
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 231). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint), part of the same seasonal salad set — *per the source's own headnote, a memorable set of ingredient combinations meant to shift with the seasons so a version of this bread salad is on the table year-round.*
+
+**Serves 4 generously**
+
+**🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~45 min** *(includes a 20 min onion macerate and two rests of about 10 min each)*
+
+#### A. Ingredients
+
+- ½ medium red onion, sliced thinly
+- 1 tablespoon red wine vinegar
+- 4 cups Torn Croutons *(see the note at [§5.51](#551-spring-asparagus-and-feta-with-mint))*
+- Double batch of [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette)
+- 1 pint cherry tomatoes, stemmed and halved
+- 1½ pounds Early Girl or other flavorful small tomatoes (about 8 tomatoes), cored and wedged into bite-size pieces
+- 4 Persian cucumbers, **stripey peeled** (see [§5.50](#550-vietnamese-cucumber-salad)) and cut into ½-inch slices
+- 16 basil leaves
+- Flaky sea salt
+
+#### B. Cooking Instructions
+
+**1. Macerate the onion. 20 minutes.**
+In a small bowl, toss the sliced onion with the vinegar and let it sit for 20 minutes to macerate (see [§T31](#t31-how-to-use-acid)). Set aside.
+
+**2. Let the croutons soak up dressing under the tomatoes. 10 minutes.**
+In a large salad bowl, toss half the croutons with ½ cup of vinaigrette. Place the cherry and wedged tomatoes on top of the croutons and season with salt to encourage them to release some of their juices. Let sit for about 10 minutes — the tomato juice and dressing both work their way down into the croutons underneath.
+
+**3. Assemble everything else and dress again.**
+Continue assembling the salad: add the remaining croutons, cucumbers, and the macerated onions (but not their vinegar, yet). Tear in the basil leaves in large pieces. Dress with another ½ cup of vinaigrette and taste.
+
+**4. Adjust and rest once more.**
+Adjust seasoning as needed, adding salt, more vinaigrette, and/or the macerating vinegar to taste. Toss, taste again, and let sit for about 10 minutes — this last rest lets the flavors settle together before serving.
+
+Refrigerate leftovers, covered, for up to one night.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Red onion — ½ medium
+- 🛒 Red wine vinegar — 1 Tbsp, for macerating
+- 🛒 Rustic bread — for 4 cups Torn Croutons, or store-bought croutons
+- 🛒 Ingredients for a double batch of [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) — shallots, red wine vinegar, balsamic vinegar, a ripe tomato, basil, extra-virgin olive oil, garlic, salt
+- 🛒 Cherry tomatoes — 1 pint
+- 🛒 Early Girl or other flavorful small tomatoes — 1½ lbs (about 8)
+- 🛒 Persian cucumbers — 4
+- 🛒 Basil — 16 leaves
+- 🛒 Flaky sea salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(serves 4)* | ~1,720 | 114 g | 12 g | 160 g | 21 g |
+| **Per serving** *(serves 4)* | ~430 | 29 g | 3 g | 40 g | 5 g |
+
+**What a serving is:** a big 2-cup bread-salad bowl.
+
+#### D. Open Questions
+
+- **Torn Croutons** — same undocumented source recipe flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) and [§5.51](#551-spring-asparagus-and-feta-with-mint) (page 236, not among the photographed pages). A simple torn-and-toasted bread stand-in is used above.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.53 Bright Cabbage Slaw
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 244–245). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **No duplicate** — this is a genuinely different slaw from this cookbook's two existing ones: [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) (a vinegar slaw with a distinct Carolina-barbecue seasoning) and [§5.35 Cole Slaw](#535-cole-slaw) (mayo-based). All three are kept, cross-referenced here rather than treated as overlapping.
+
+> **Per the source:** *"I know that some people hate coleslaw. But I've converted even the most fervent among them with this version, which bears no resemblance to the cloying stuff many of us grew up eating. Light and clean, it'll lend crunch and brightness to any plate."*
+
+**Serves 4 generously**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~35 min** *(a 20 min cabbage salt-draw and a 20 min onion macerate run in parallel)*
+
+#### A. Ingredients
+
+- ½ medium head of red or green cabbage (about 1½ pounds)
+- ½ small red onion, thinly sliced
+- ¼ cup lemon juice
+- Salt
+- ½ cup coarsely chopped parsley leaves
+- 3 tablespoons red wine vinegar
+- 6 tablespoons extra-virgin olive oil
+
+#### B. Cooking Instructions
+
+**1. Cut the cabbage and salt it to draw out water. 20 minutes.**
+Quarter the cabbage through the core. Use a sharp knife to cut the core out at an angle. Thinly slice the cabbage crosswise and place it in a colander set inside a large salad bowl. Season with two generous pinches of salt to help draw out water, toss the slices, and set aside.
+
+**2. Macerate the onion at the same time. 20 minutes.**
+In a small bowl, toss the sliced onion with the lemon juice and let it sit for 20 minutes to macerate — see [§T31 How to Use Acid](#t31-how-to-use-acid). Set aside. Run this step alongside step 1 rather than after it — both take the same 20 minutes.
+
+**3. Drain the cabbage and combine.**
+After 20 minutes, drain any water the cabbage may have given off (it's fine if there's nothing to drain — sometimes cabbage isn't very watery). Place the cabbage in the bowl and add the parsley and the macerated onions, but not their lemony juices yet. Dress the slaw with the vinegar and olive oil. Toss very well to combine.
+
+**4. Taste and adjust.**
+Taste and adjust, adding the remaining macerating lemon juice and salt as needed. When your palate zings with pleasure, it's ready.
+
+Serve chilled or at room temperature. Store leftover slaw, covered, in the fridge, for up to two days.
+
+> **A rule worth remembering, per the source:** the richer the food you plan to serve this slaw with, the more acidic the slaw should be — so don't be shy with extra lemon juice or vinegar when pairing it with something fatty like fried chicken or barbecue.
+
+**Serve the Mexican variation (below) with Beer-Battered Fish** *(not documented in this cookbook)* **for fish tacos. Make Classic Southern Slaw to serve alongside Spicy Fried Chicken** *(not documented in this cookbook)*.
+
+> **Variation — Alterna-slaw.** If you don't have cabbage on hand, or simply want to try something new, make it with 1 large bunch raw kale, 1½ pounds raw Brussels sprouts, or 1½ pounds raw kohlrabi instead.
+
+> **Variation — Mexi-Slaw.** Substitute a neutral-tasting oil for the olive oil, lime juice for the lemon juice, and cilantro for the parsley. Add 1 sliced jalapeño pepper to the cabbage along with the macerated onions. Taste and adjust seasoning with the macerating lime juice and salt.
+
+> **Variation — Asian Slaw.** Toss the cabbage with just one generous pinch of salt and add 2 teaspoons soy sauce. Substitute lime juice for the lemon juice. Skip the parsley and add 1 small garlic clove, finely grated or pounded; 2 thinly sliced scallions; 1 teaspoon finely grated ginger; and ¼ cup chopped, toasted peanuts to the cabbage along with the macerated onions. Skip the red wine vinegar and olive oil and dress with [§4.142 Rice Wine Vinaigrette](#4142-rice-wine-vinaigrette). Taste and adjust seasoning with the macerating lime juice and salt.
+
+> **Variation — Classic Southern Slaw.** Substitute ½ cup stiff mayonnaise for the olive oil and vinegar — the source calls for its own "Classic Sandwich Mayo," a stiffened variant of the same undocumented Basic Mayonnaise flagged at [§4.134](#4134-creamy-caesar-dressing)/[§4.144](#4144-green-goddess-dressing); plain store-bought mayonnaise or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) stand in. Add 1 teaspoon sugar, 1 cup julienned or grated carrots, and 1 julienned or grated tart apple, such as Honeycrisp or Fuji, to the cabbage along with the macerated onions.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Red or green cabbage — ½ medium head (about 1½ lbs)
+- 🛒 Red onion — ½ small
+- 🛒 Lemons, for juice — ¼ cup
+- 🛒 Salt
+- 🛒 Parsley — ½ cup chopped
+- 🛒 Red wine vinegar — 3 Tbsp
+- 🛒 Extra-virgin olive oil — 6 Tbsp
+- 🛒 Kale, Brussels sprouts, or kohlrabi — for the Alterna-slaw variation
+- 🛒 Limes — for the Mexi-Slaw and Asian Slaw variations
+- 🛒 Cilantro, jalapeño — for the Mexi-Slaw variation
+- 🛒 Carrots, tart apple (Honeycrisp or Fuji) — for the Classic Southern Slaw variation
+- 🛒 Mayonnaise — ½ cup stiff, for the Classic Southern Slaw variation
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Soy sauce — 2 tsp, for the Asian Slaw variation
+- ☯️ Fresh ginger — 1 tsp grated, for the Asian Slaw variation
+- ☯️ Toasted peanuts — ¼ cup chopped, for the Asian Slaw variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(serves 4, base recipe)* | ~935 | 81 g | 6 g | 52 g | 18 g |
+| **Per serving** *(serves 4)* | ~235 | 20 g | 1.5 g | 13 g | 4.5 g |
+
+**What a serving is:** a generous 1-cup slaw side. *(Figures are for the base recipe; each variation swaps or adds ingredients and isn't separately recalculated.)*
 
 [↑ Table of Contents](#table-of-contents)
 

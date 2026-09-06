@@ -192,6 +192,7 @@ Click any recipe to jump straight to it.
   - [4.171 Cool Smoke Injection](#4171-cool-smoke-injection) ✅ *(The Meathead Method; Tuffy Stone's Championship Pork Butt component)*
   - [4.172 Alabama White Sauce](#4172-alabama-white-sauce) ✅ *(The Meathead Method)*
   - [4.173 Lexington Dip #2](#4173-lexington-dip-2) ✅ *(The Meathead Method; distinct from [§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce))*
+  - [4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) ✅ *(The Meathead Method)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -286,6 +287,9 @@ Click any recipe to jump straight to it.
 - [5.54 Sauté: Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) ✅ *(Salt, Fat, Acid, Heat)*
 - [5.55 Steamy Sauté: Garlicky Green Beans](#555-steamy-sauté-garlicky-green-beans) ✅ *(Salt, Fat, Acid, Heat; includes classic French and Indian variations; distinct from [§5.1](#51-green-beans)/[§5.36](#536-lemon-green-beans))*
 - [5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) ✅ *(Salt, Fat, Acid, Heat; includes Confit Large Tomatoes and Artichoke Confit variations)*
+- [5.57 Smoke-Roasted Garlic](#557-smoke-roasted-garlic) ✅ *(The Meathead Method)*
+- [5.58 Smoked Tomato Raisins](#558-smoked-tomato-raisins) ✅ *(The Meathead Method)*
+- [5.59 Squash Bisque](#559-squash-bisque) ✅ *(The Meathead Method)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -442,6 +446,8 @@ Click any recipe to jump straight to it.
 - [7.140 Tandoori Chicken](#7140-tandoori-chicken) ✅ *(The Meathead Method; yogurt-marinated whole bird, rotisserie or grill)*
 - [7.141 Championship Chicken](#7141-championship-chicken) ✅ *(The Meathead Method; competition bone-in skin-on thighs)*
 - [7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) ✅ *(The Meathead Method)*
+- [7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) ✅ *(The Meathead Method)*
+- [7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) ✅ *(The Meathead Method; moules marinière-based)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -600,6 +606,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Vegetables & Seafood batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the fifth batch from this source, picking up right after the Chicken & Turkey batch below. **Three full recipes added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.56 Cherry Tomato Confit](#556-cherry-tomato-confit): **[§5.57](#557-smoke-roasted-garlic) Smoke-Roasted Garlic** (a whole head, smoked soft on the indirect side, ready to spread or stir in), **[§5.58](#558-smoked-tomato-raisins) Smoked Tomato Raisins** (tomatoes, low and slow, until they shrink to sun-dried-raisin territory with a smoky edge), and **[§5.59](#559-squash-bisque) Squash Bisque** (bacon, smoked squash and pumpkin seeds, and a blended finish with cream and yogurt). **One full sauce added to [§4](#4-rubs-seasonings-sauces--condiments): [§4.174](#4174-poblano-basil-cream-sauce) Poblano-Basil Cream Sauce** — a grilled-and-blended poblano/shallot/garlic cream sauce that turns out to close a gap this project already knew about (see below). **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin): **[§7.143](#7143-scallops-with-black-garlic-butter-sauce) Scallops with Black Garlic Butter Sauce** (cold-smoked with a smoking gun, seared, and sauced with butter, black garlic, and kumquats — kept distinct from and cross-referenced to the existing sous-vide [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction)) and **[§7.144](#7144-mussels-with-smoked-fettuccine) Mussels with Smoked Fettuccine** (a *moules marinière* built up with cream and finished by boiling the fettuccine itself in smoked water). **Two new condensed technique entries, [§T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method)–[§T101](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method)**, continuing the T-section from [§T99](#t99-the-warp-heat-scale-the-meathead-method): a mushroom-buying/storage/drying reference with 12 named varieties plus a "don't wash mushrooms" myth-bust (cross-referenced against, not correcting, this cookbook's existing [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)/[§9.26 Mushroom Florentine](#926-mushroom-florentine), both of which already call for washing mushrooms — a harmless choice either way), and a scallop-buying guide (bay/sea/diver/day-boat/wet/dry). **§4.174 Poblano-Basil Cream Sauce closes a gap flagged back in the Beef/Bison/Lamb batch**: that batch's [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) needed a "Poblano-Basil/Duxelles cream sauce" component that wasn't in that batch's scan (book p. 192/194); the Poblano-Basil half of that pair has now turned up complete on this batch's own pages, and §7.132's (and, where it's mentioned, §7.133's) notes now point to the real thing instead of a cross-book stand-in. **Its mushroom-based neighbor, Duxelles and Mushroom Cream Sauce, remains incomplete** — this batch's scan picks up mid-recipe at "cook the mushrooms," with the shared ingredient list and Step 1 (book p. 192) still not among the photographed pages — skipped per Cody's standing incomplete-source policy; the term "duxelles" itself (a finely minced, cooked-down mushroom-and-shallot paste) is explained inline at §4.174 regardless, and cross-referenced against this cookbook's unrelated, already-documented [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce) from *Mastering the Art of French Cooking* — same term, two different sauces, both kept. **Three items skipped as genuinely incomplete or missing, none guessed at:** **Quick Pickles** (book p. 343) — a complete 1:1:1-part formula and full ingredient list, but the page ends after Step 2 ("Pack"), with the step that actually mixes and pours the pickling liquid over the packed vegetables not among the photographed pages; **Corn Salad** (book p. 350–351) — a complete ingredient list, but no cooking instructions anywhere in the scan; and **Smoke Catcher Clambake** (book p. 321) — only a headnote and a general description of the book's own "smoke catcher" method (inverting a pan over shellfish on the grill to trap smoke) survive in the scan, with no MAKES/TAKES line, ingredient list, or numbered steps for the recipe itself; the "smoke catcher" technique's own dedicated page (book p. 98) also isn't among the photographed pages. **No salt amounts altered anywhere in this batch.** **Rated 🟢 Easy for the four recipes with no fail-prone step** ([§5.57](#557-smoke-roasted-garlic), [§5.58](#558-smoked-tomato-raisins), [§5.59](#559-squash-bisque), [§4.174](#4174-poblano-basil-cream-sauce)) **and 🟡 Medium for the two with a real timing risk** ([§7.143](#7143-scallops-with-black-garlic-butter-sauce)'s 1-minute second sear on easily-overcooked scallops, and [§7.144](#7144-mussels-with-smoked-fettuccine)'s must-open-properly mussels alongside a pasta timing window) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy. **Jargon explained inline per Cody's standing request:** duxelles, black garlic, a smoking gun, a grill topper, clarified butter, and *moules marinière* — see each recipe's own text; pasta-water starch is cross-referenced to this cookbook's existing [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) rather than re-explained. **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Chicken & Turkey batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the fourth batch from this source, picking up right after the Pork batch above. **Five full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt): **[§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) Real Fried Chicken on a Gas Grill** (deep-fried in a Dutch oven on the grill's own side burner — pickle-brine marinated, not sous vide, so kept distinct from and cross-referenced to the existing [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken)), **[§7.139](#7139-extra-crispy-chicken-wings-without-frying) Extra Crispy Chicken Wings Without Frying** (a baking-powder dry brine, 24-hour air-dry, and a roast-then-sear finish — no frying or smoking at all, distinct from [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings)), **[§7.140](#7140-tandoori-chicken) Tandoori Chicken** (yogurt-marinated whole bird, cooked on a tandoor/kamado rotisserie, a normal-grill rotisserie, or broken into parts), **[§7.141](#7141-championship-chicken) Championship Chicken** (12 bone-in, skin-on thighs — trimmed, injected, rubbed with this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), smoked, direct-seared, and sauced — a different competition team's recipe from the Cool Smoke components at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection), so no merge applies), and **[§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin** (a boneless breast lobe, pounded flat, dry-brined, butter-injected, smoked at 225°F, and served with a port-soaked-cranberry topping and rendered-skin cracklins — distinct from the whole-bird [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey)). **Confirmed: Tandoori Chicken and the turkey breast recipe are two separate dishes, not one recipe split across pages** — an early read of this batch's photos worried a numbered Pound/Dry Brine/Rehydrate/Fire Up/Make the Cracklins/Smoke and Butter Up/Serve method might belong to Tandoori Chicken, since both turned up on nearby pages; closer reading matched the rotisserie steps to Tandoori's own ingredient list (cilantro garnish, Yogurt Marinade) and the numbered method to §7.142's own ingredients (French Rub, cranberries, port, butter) one page later. **Five new condensed technique entries, [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)–[§T99](#t99-the-warp-heat-scale-the-meathead-method)**, continuing the T-section from [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method): a fuller chicken butchery/carving guide (halves, quarters, eight or ten pieces, and carving a cooked bird — cross-referenced against, not duplicating, the existing [§T77](#t77-tips-on-cooking-poultry)/[§T82](#t82-how-to-carve-a-turkey) from the earlier Meathead book), dredges vs. batters and why baking powder (not baking soda) crisps poultry skin, a myth-busting entry on trussing poultry legs, a from-scratch double-fry French fries method, and a new entry inferring what this book's own 1-to-10 "Warp" direct-heat scale means from context, since a definition page still hasn't turned up and the scale has now actually driven a temperature in a recipe for the first time ([§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s "Warp 5"). **One recipe fragment skipped as genuinely incomplete, per Cody's standing policy:** an untitled recipe that uses [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component, finishing it with a basted "flavored oil" — only the tail end of its Steps 2–3 are legible on book p. 285, immediately above [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s own headnote; its title, headnote, full ingredient list, and Step 1 are not among the photographed pages. Named here rather than guessed at. **One myth-busting box given its own T-number rather than folded into a recipe:** [§T97 Myth — Truss Poultry Legs](#t97-myth--truss-poultry-legs-the-meathead-method) — kept separate since it reinforces, rather than duplicates, [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey)'s existing "don't truss" bullet from the earlier book. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **Jargon explained inline per Cody's standing request:** spatchcocking (cross-referenced to the earlier book's [§T77](#t77-tips-on-cooking-poultry)), the ten-piece cut and whole-bird carving (the new [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)), baking powder's crisping mechanism and EverCrisp as a commercial category product (the new [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)), "kamadoor" and "IR" (inline at [§7.140](#7140-tandoori-chicken)), "GBD" (inline at [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)), "cracklins" (inline at [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)), a "jaccard" (inline at [§7.141](#7141-championship-chicken)), and a "turn-in box" (cross-referenced to [§7.136](#7136-championship-pork-ribs) rather than re-explained). **§7.141 Championship Chicken's own "Kansas City Red" ingredient reference points to this cookbook's existing [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) as a stand-in**, same handling as [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.136](#7136-championship-pork-ribs), since the source's own Kansas City Red was already flagged as incomplete in the Rubs & Spice Blends batch. **The source's own "For French Fries" sidebar was checked against this cookbook's existing [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries)** and found to be a genuinely different, fresh-cut/pickle-brine-soak method — condensed into the new [§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) rather than written up as its own recipe, since the source presents it as a technique sidebar, not a standalone dish. **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Pork batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the third batch from this source, picking up right after the Beef/Bison/Lamb batch below. **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends): **[§7.136](#7136-championship-pork-ribs) Championship Pork Ribs** (the source's own KCBS-style competition rib method — dry brine, [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) rub, Texas-crutched, glazed and set — kept distinct from and cross-referenced to the existing [§7.97 Last-Meal Ribs](#797-last-meal-ribs), which this book's own recipe explicitly calls out as "the simpler recipe I do at home") and **[§7.137](#7137-tuffy-stones-championship-pork-butt) Tuffy Stone's Championship Pork Butt** (the fuller competition method behind the four Cool Smoke components already added to §4 in the earlier Rubs & Spice Blends batch — trimmed, injected, rubbed, smoked hot at 300°F, Texas-crutched, sauced, and rested — distinct from this cookbook's existing [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork)). **Confirmed: "Tuffy Stone's Championship Pork Butt" and the earlier batch's own shorthand "Cool Smoke Pork Butt" are the same single recipe, not two** — the source has only one title for this dish; the earlier batch's phrasing was just this project's own label for the ingredient sub-list, now resolved rather than duplicated. **One new condensed technique entry, [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) Buying Pork and the Whole-Hog Cut Map**, continuing the T-section from [§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method): pork carries no USDA quality grade at all (unlike beef), buying pork by color/myoglobin rather than a grade stamp, the loin-vs-tenderloin mix-up the source calls out by name, and a brief whole-hog cut map. **The source's own pork-rib-cuts diagram (book p. 244) was checked against the existing [§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs)/[§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) from the earlier Meathead book and found to substantially duplicate that rib-specific content — not re-added as its own entry; [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) covers only what T58/T59 don't and cross-references them for the ribs themselves, same practice as the Beef/Bison/Lamb batch's brisket-anatomy duplicate-check.** **One myth-busting box folded into the recipe it belongs with, rather than given its own T-number:** "boiling ribs makes them tender" (busted — water pulls flavor out and turns the meat mushy — folded into [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs)'s headnote), same practice as the Beef batch's myth-folding. **One recipe skipped as genuinely incomplete, per Cody's standing policy:** **Dorie's Pork à la Normande** (book p. 252–253) — the title, full headnote (credited to cookbook author Dorie Greenspan), and complete ingredient list (pork chops, mushrooms, onion, sage, apple, Calvados-adjacent cream sauce) are all legible, but the numbered cooking steps that should follow on book p. 253 are not among the 55 photographed pages at all — the scan simply doesn't include that page; named here rather than guessed at, same handling as the Beef/Bison/Lamb batch's skipped Pho recipe. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **Both recipes rated 🟢 Easy per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test** — long, mostly unattended smokes with a forgiving Texas-crutch wrap and a glaze step that can be re-done if it goes wrong, nothing that fails the way a roux does; both carry a bolded transparency note flagging that some connecting narrative prose (not the ingredients, temperatures, or step sequence) on two hard-to-read photographed spreads was paraphrased rather than block-quoted, with specifics in each recipe's own Open Questions, following the same practice already used at [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) and [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) for similarly hard-to-read spreads. **Jargon explained inline per Cody's standing request:** the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket)/[§7.135](#7135-championship-brisket-and-burnt-ends) rather than re-explained) and the turn-in box (a competition-BBQ term for the box of meat a team submits to judges, explained in full at [§7.136](#7136-championship-pork-ribs)) at both new recipes. **Neither recipe prints net carbs, so neither is tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Beef/Bison/Lamb batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the second batch from this source, picking up right after the Rubs & Spice Blends batch below. **Despite the chapter's own name, only beef recipes appeared in this batch's scan — no bison or lamb recipe was among the photographed pages.** **Six full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole): **[§7.130](#7130-beef-back-ribs) Beef Back Ribs** (the bones trimmed off a prime rib or ribeye, smoked whole as their own cut, carved "Cadillac style" — distinct from [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), also back ribs but a different rub/method), **[§7.131](#7131-smoked-sous-vide-steak) Smoked Sous-Vide Steak** (sear, sous vide, smoke, sear — stacking every method this cookbook's steak entries use individually onto one steak), **[§7.132](#7132-kōji-filet-mignon) Kōji Filet Mignon** (bacon-wrapped, marinated in a Japanese fermented-rice-culture paste, pan-seared and finished in a mushroom cream sauce), **[§7.133](#7133-clints-chuck-roast-sandwiches) Clint's Chuck Roast Sandwiches** (a whole chuck roast smoked like a mini brisket, credited to pitmaster Clint Cantwell — distinct from this cookbook's existing braised chuck roasts, [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)/[§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine)), **[§7.134](#7134-afterburner-fajitas) Afterburner Fajitas** (citrus-marinated outside skirt steak, seared over a charcoal chimney's full blast of heat), and **[§7.135](#7135-championship-brisket-and-burnt-ends) Championship Brisket and Burnt Ends** (a competition-circuit method — point and flat separated, injected, and pulled to two different internal targets, the point re-glazed into burnt ends — **kept distinct from and cross-referenced to the existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket)**, the same author's simpler single-target method from his earlier book, and from [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)). **Rated 🟢 Easy for the two long, unattended smokes with nothing that can go wrong** ([§7.130](#7130-beef-back-ribs), [§7.133](#7133-clints-chuck-roast-sandwiches)) **and 🟡 Medium for the four that hinge on a genuinely fast, attended searing or judgment step** ([§7.131](#7131-smoked-sous-vide-steak)'s final sear, [§7.132](#7132-kōji-filet-mignon)'s small-cut high-heat sear, [§7.134](#7134-afterburner-fajitas)'s 30-second-flip afterburner sear, and [§7.135](#7135-championship-brisket-and-burnt-ends)'s extra separate-inject-pull-to-two-targets-and-reglaze judgment calls beyond what the Easy-rated [§7.112](#7112-texas-beef-brisket) asks for) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **One recipe skipped as genuinely incomplete:** **Pho with Leftover Brisket and Smoked Bone Broth** (book p. 216–217) — both ingredient lists (Smoked Bone Broth and the pho itself) are fully legible, but the photographed spread jumps straight from ingredients to the next recipe with no numbered cooking steps anywhere in the scan; named here rather than guessed at. **Two myth-busting boxes folded into the recipes/technique entries they belong with, rather than given their own T-numbers:** "the best sear comes from putting meat right on the coals" (busted — a heated salt block is the better technique, folded into [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)'s headnote) and "buy only rosy-colored beef" (busted — modified-atmosphere packaging, folded into the new [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)); **a third myth found in the same territory, "the bones flavor the meat," was checked against the existing [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) and found to substantially duplicate it — not re-added.** **Two new condensed technique entries, [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)–[§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method)**, continuing the T-section from [§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method): beef grading beyond what the earlier book's [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) already covers (the full USDA grade ladder down to Cutter/Canner, Certified Angus Beef, American vs. genuine Japanese Wagyu/Kobe/Tajima, and grass-finished vs. grain-finished terminology), and aging/label science (wet- vs. dry-aging, the blade-tenderizing food-safety warning, and organic/natural/kosher/halal label claims) — **an "Anatomy of a Packer's Brisket" diagram in the source was found to substantially duplicate the existing [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) and was not re-added as its own entry; the two muscles' formal Latin names (*pectoralis superficialis*/*profundus*) from that diagram were folded into [§7.135](#7135-championship-brisket-and-burnt-ends)'s headnote instead.** **Two named sub-components referenced but not printed in this batch's scan** — Orange Tuscan-Style Board Sauce and Smoked Garlic Bread (needed by [§7.133](#7133-clints-chuck-roast-sandwiches)) and a Poblano-Basil/Duxelles cream sauce (needed by [§7.132](#7132-kōji-filet-mignon)) — cross-referenced to close existing relatives already in this cookbook ([§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce), [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)) rather than invented; see each recipe's Note and Open Questions. **Jargon explained inline per Cody's standing request:** kōji (a fermentation culture behind miso, soy sauce, and sake, used here as a tenderizing marinade) at [§7.132](#7132-kōji-filet-mignon); sous vide basics at [§7.131](#7131-smoked-sous-vide-steak); the afterburner method (a chimney-starter-hot direct sear, already documented at [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes and cross-referenced rather than re-explained) at [§7.131](#7131-smoked-sous-vide-steak)/[§7.134](#7134-afterburner-fajitas); point vs. flat muscle and burnt ends (cross-referenced to the existing [§T69](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket)/[§T71 Burnt Ends](#t71-burnt-ends) rather than re-explained) and the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket) Step 6 rather than re-explained) at [§7.135](#7135-championship-brisket-and-burnt-ends). **Confirmed: this book does not use the "Warp" heat-level numbering scale in any of this batch's beef recipes** — every temperature in this batch is a plain °F figure; the scale (seen briefly elsewhere in this book, e.g. "Warp 5") simply never comes up here. **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
@@ -844,6 +851,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.165 Red Meat Rub](#4165-red-meat-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§4.171 Cool Smoke Injection](#4171-cool-smoke-injection) | 🟢 | 5 min | — | — | 5 min |
 | [§7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) *(Meathead)* | 🟢 | 5 min | — | **30–45 min** *(smoker, unattended)* | 1 hr 15 min *(+ 30 min fridge rest after seasoning)* |
+| [§5.57 Smoke-Roasted Garlic](#557-smoke-roasted-garlic) *(The Meathead Method)* | 🟢 | 5 min | — | **~45 min** *(smoker/indirect grill, unattended)* | 1 hr |
+| [§5.58 Smoked Tomato Raisins](#558-smoked-tomato-raisins) *(The Meathead Method)* | 🟢 | 5 min | — | **~6 hr** *(smoker, unattended)* | ~6 hr |
 | [§4.128 Burger Glop](#4128-burger-glop) | 🟢 | 5 min | — | — | 5 min |
 | [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo) | 🟢 | 5 min | — | — | 5 min |
 | [§4.161 Aioli (Garlic Mayonnaise)](#4161-aioli-garlic-mayonnaise) | 🟢 | 5 min | — | — | 5 min |
@@ -899,6 +908,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) | 🟢 | 20 min | — | — | 20 min active *(+ brining time per §T37)* |
 | [§4.130 Chimichurri Sauce](#4130-chimichurri-sauce) | 🟢 | 20 min | — | — | 20 min |
 | [§8.38 Brothy: Stracciatella](#838-brothy-stracciatella-roman-egg-drop-soup) | 🟡 | 10 min | 10 min | — | 20 min |
+| [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) *(The Meathead Method)* | 🟡 | 15 min | 5 min | — | 20 min |
 | [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 5–10 min | **~3 hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3½ hr |
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
@@ -1107,6 +1117,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
+| [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) *(The Meathead Method)* | 🟢 | 10 min | 25 min | — | 35 min |
 | [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) | 🟡 | 15 min | 20 min | — | 35 min *(+ §4.24, §4.20)* |
 | [§7.125 Beer-Battered Fish](#7125-beer-battered-fish) | 🟡 | 20 min | 15 min | — | 35 min |
@@ -1194,6 +1205,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | 🟡 | 45 min | 15 min | **2¾ hr** *(braise, mostly unattended)* | 3 hr 45 min |
 | [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) | 🟡 | 45 min | 25 min | **6–9 hr** *(three rises — the waiting is the method)* | ~7 hr *(+ 2–3 hr cool)* |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
+| [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) *(The Meathead Method)* | 🟡 | 15 min | 45 min | **2 hr** *(smoking the water, unattended)* | ~3 hr |
+| [§5.59 Squash Bisque](#559-squash-bisque) *(The Meathead Method)* | 🟢 | 35 min | 30 min | **40 min** *(smoker, unattended)* | 1 hr 45 min |
 | [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
 | [§4.69 Sauce Soubise (Onion Sauce)](#469-sauce-soubise-onion-sauce) | 🟡 | 10 min | 50 min | — | 1 hr |
 | [§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) | 🟢 | 10 min | 50 min | — | 1 hr |
@@ -11950,6 +11963,88 @@ Divide the sauce into two portions: one for frequent basting during the cook, an
 
 ---
 
+### 4.174 Poblano-Basil Cream Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafood" chapter (book p. 194–195). This sauce sits on the same spread as the source's own **Duxelles** (a finely minced, cooked-down mushroom-and-shallot paste — the classic French term for it) **and Mushroom Cream Sauce**, a second, savory alternative built off that same duxelles. **Only the Poblano-Basil Cream Sauce is complete enough to transcribe** — see Open Questions below for why its mushroom-based neighbor isn't, and where else in this cookbook it's already been cross-referenced as a stand-in.
+
+> Per the source's own headnote: this versatile, refined sauce works on many meats, and it's especially good on fish, potatoes, and grilled vegetables. One thing to know — while poblano peppers carry practically no heat, occasionally one surprises you, so taste as you go. As written, it comes out with timid heat that the cream (and whatever you serve it on) mostly absorbs, unless you land a rogue chile. For more heat, add a green jalapeño. The source uses this sauce in its own Close Proximity Smoked Fish (book p. 308), not yet in this cookbook.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min**
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — a quick char on the grill, a peel, a simmer-and-reduce, then a blend. **One safety note, not a difficulty one:** blending a hot liquid can build pressure and spatter — vent the lid or blend in short pulses rather than sealing it up and running it flat out.
+
+#### A. Ingredients
+
+- 1 large poblano pepper (about 3 ounces)
+- 2 garlic cloves
+- 1 large shallot or small onion (about the size of a golf ball)
+- 1 teaspoon high-quality olive oil
+- ¼ cup sour cream
+- 6 large fresh basil leaves
+- ½ cup half-and-half
+- 2 tablespoons low-sodium chicken broth
+- ¼ teaspoon ground cumin
+- ¼ teaspoon Morton Coarse Kosher Salt
+- ¼ teaspoon fine-grind black pepper
+
+*Special tools: a grill topper, a blender or food processor, a fine-mesh sieve (optional), and dried herbs, wood chips, sawdust, or wood pellets for smoke.*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Slice the poblano in half lengthwise and remove the stem and seeds. Taste a sliver to make sure it isn't very hot. Peel the garlic cloves. Peel and chop the shallot into chunks about the same size as the garlic cloves.
+
+**2. Fire up.**
+Set up the grill for 2-zone cooking and aim for **Warp 10** on the direct heat side (see [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method) — this is the screaming-hot, aggressive-char end of the dial, appropriate here since the poblano wants real char). Place a grill topper over the direct heat and let it preheat. Toss some dried herbs, wood chips, sawdust, or wood pellets on the flame for a little smoke.
+
+**3. Grill the veg. About 5 minutes for the shallot and garlic, longer for the poblano.**
+Lightly coat the shallot and garlic cloves with the olive oil, and once the smoke starts rolling, spread them on the grill topper. Grill, lid down, tossing every 1 to 2 minutes, until softened and slightly golden, about 5 minutes; remove them and the topper. Grill the poblano lid down, skin-side down, until blackened in spots but not thoroughly charred, then flip and grill 1 to 2 minutes more until tender.
+
+**4. Peel the poblano.**
+Toss the poblano halves into a bowl and cover it with a plate — the trapped steam loosens the skin. Once they're cool enough to handle, scrape the skins off with a serrated knife and cut the poblano into ½-inch chunks.
+
+**5. Simmer the base.**
+In a blender or food processor, combine the garlic, shallot, poblano, sour cream, and basil leaves — but don't blend yet. In a small saucepan, combine the half-and-half, chicken broth, cumin, salt, and black pepper. Bring to a high simmer and cook, stirring occasionally, until reduced by about one-quarter.
+
+**6. Blend.**
+Carefully pour the hot mixture into the blender or food processor with the vegetables and whip everything up until completely smooth — this takes a while, but the patience pays off in a smoother, more refined sauce. Push it through a fine-mesh sieve if you'd like it silkier still.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Poblano pepper — 1 large (about 3 oz)
+- 🛒 Garlic — 2 cloves
+- 🛒 Shallot or small onion — 1 large
+- 🛒 High-quality olive oil
+- 🛒 Sour cream — ¼ cup
+- 🛒 Fresh basil — 6 large leaves
+- 🛒 Half-and-half — ½ cup
+- 🛒 Low-sodium chicken broth — 2 tablespoons
+- 🛒 Ground cumin
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Black pepper, fine-grind
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(makes about 1 cup)* | ~380 | 30 g | 8 g | 16 g | 2 g |
+| **Per serving** *(¼ cup, serves about 4 as a sauce)* | ~95 | 7.5 g | 2 g | 4 g | 0.5 g |
+
+**What a serving is:** ¼ cup — a generous spoonful over fish, potatoes, or grilled vegetables.
+
+#### D. Open Questions
+
+- **Duxelles and Mushroom Cream Sauce, the two components printed just before this recipe on the same spread, are genuinely incomplete in this batch's scan.** The visible text picks up mid-recipe at "2. Cook the mushrooms" and continues through "3. Finish the duxelles" and "4. Make the mushroom cream sauce" — but Step 1 and the entire ingredient list (both components share one list, on book p. 192–193) are not among the photographed pages. Per Cody's standing incomplete-source policy, not added as its own entry. **This is the same Duxelles/Mushroom Cream Sauce already flagged as missing** in this project's Beef/Bison/Lamb batch, needed by [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) and [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) — those entries currently point to [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce)/[§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) as stand-ins. **This new Poblano-Basil Cream Sauce is this book's own vegetable-based sibling of that missing sauce** (same headnote, same "duxelles" starting point conceptually, same cream-sauce family) and is offered there as a closer, same-book alternative — see the updated notes at both §7.132 and §7.133.
+- **The duxelles paragraph names a use "if you want to make Wellington or stuff a chicken breast"** — a Beef Wellington or Wellington-style stuffed chicken breast dish. Neither is documented anywhere in this cookbook. Named here rather than invented, per Cody's standing instruction on referenced-but-absent dishes.
+- **This cookbook's own [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce)**, from *Mastering the Art of French Cooking*, is a different sauce entirely — a French mother-sauce built on a brown sauce base, not this book's cream-based version. Both use the term "duxelles" for the same minced mushroom-and-shallot starting point; kept as two separate, cross-referenced entries rather than merged.
+- **Close Proximity Smoked Fish (book p. 308)**, the dish the source names as this sauce's showcase, isn't yet documented in this cookbook — named here rather than invented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -12061,6 +12156,8 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T97](#t97-myth--truss-poultry-legs-the-meathead-method) | Myth — Truss Poultry Legs (The Meathead Method) | `meathead` `meathead-method` `myth` `poultry` `trussing` |
 | [T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) | For French Fries — The Double-Fry, Pickle-Brine Method (The Meathead Method) | `meathead` `meathead-method` `french-fries` `double-fry` `pickle-brine` |
 | [T99](#t99-the-warp-heat-scale-the-meathead-method) | The "Warp" Heat Scale (The Meathead Method) | `meathead` `meathead-method` `warp-scale` `heat-level` `direct-heat` `grilling` |
+| [T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method) | Mushroom Varieties, Buying, Storing, and Drying (The Meathead Method) | `meathead` `meathead-method` `mushrooms` `buying-guide` `storage` `drying` `myth` `dont-wash-mushrooms` |
+| [T101](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) | Buying Scallops — Bay, Sea, Diver, Day-Boat, Wet, and Dry (The Meathead Method) | `meathead` `meathead-method` `scallops` `seafood` `buying-guide` `dry-scallops` `wet-scallops` |
 
 ---
 
@@ -16542,14 +16639,57 @@ This is the fuller, step-by-step version of what [§T77 Tips on Cooking Poultry]
 
 <!-- TECHNIQUE-TAGS: meathead, meathead-method, warp-scale, heat-level, direct-heat, grilling -->
 **Tags:** `meathead` · `meathead-method` · `warp-scale` · `heat-level` · `direct-heat` · `grilling`
-**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — used casually across several of this book's chapters (e.g. book p. 194, 286, 339, 380) as shorthand for how hot a grill's direct side is dialed, rather than always giving a specific °F. The page that actually defines the scale numbers has not turned up among any of this project's photographed batches of this book so far (Rubs & Spice Blends, Beef/Bison/Lamb, Pork, or this Chicken & Turkey batch).
-**Used in:** [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4 ("Warp 5 on the direct heat side") — the first time this scale has actually driven a temperature in a recipe in this cookbook. The Beef/Bison/Lamb batch's changelog entry noted the scale exists (having spotted a stray "Warp 5" in this book) but that it never came up in that batch's own recipes; it has now arrived.
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — used casually across several of this book's chapters (e.g. book p. 194, 286, 339, 380) as shorthand for how hot a grill's direct side is dialed, rather than always giving a specific °F. The page that actually defines the scale numbers has not turned up among any of this project's photographed batches of this book so far.
+**Used in:** [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4 ("Warp 5 on the direct heat side") — the first time this scale actually drove a temperature in a recipe in this cookbook. **[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), Step 2, is the "roasted-poblano recipe" this entry originally described anonymously** ("Warp 10 on the direct heat side," for an aggressive char) — now named, from the Vegetables & Seafood batch.
 
 **This book refers to direct-grilling heat intensity on a 1-to-10 "Warp" scale** — a nod to the sci-fi warp-speed idea — rather than a specific number of degrees for the direct side of the grill.
 
 > ⚠️ **Flagged rather than quoted.** No photographed page across this whole multi-batch project actually spells out what temperature each Warp number corresponds to. The description below is inferred from comparing how the scale gets used, relative to itself, across several of this book's own recipes — not transcribed from a printed definition.
 
-Based on that comparison — a vegetable-grilling sidebar warns that "many vegetables are best cooked over direct heat, but not Warp 10; dial back to Warp 5 to 7," a roasted-poblano recipe calls for "Warp 10 on the direct heat" to get an aggressive char, and both a turkey-skin sear and a grilled pound cake use "Warp 5" for a solid, confident sear — **higher numbers mean hotter, more intense direct heat**, with Warp 10 at the screaming-hot, aggressive-char end of the dial and Warp 5 landing as a solid, moderate-high sear well short of that. Treat "Warp 5" as "a confident direct sear, not the grill's most aggressive setting" and adjust to taste rather than hunting for an exact number.
+Based on that comparison — a vegetable-grilling sidebar warns that "many vegetables are best cooked over direct heat, but not Warp 10; dial back to Warp 5 to 7," [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) calls for "Warp 10 on the direct heat" to get an aggressive char on its poblano, and both a turkey-skin sear and a grilled pound cake use "Warp 5" for a solid, confident sear — **higher numbers mean hotter, more intense direct heat**, with Warp 10 at the screaming-hot, aggressive-char end of the dial and Warp 5 landing as a solid, moderate-high sear well short of that. Treat "Warp 5" as "a confident direct sear, not the grill's most aggressive setting" and adjust to taste rather than hunting for an exact number.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T100. Mushroom Varieties, Buying, Storing, and Drying (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, mushrooms, buying-guide, storage, drying, myth, dont-wash-mushrooms -->
+**Tags:** `meathead` · `meathead-method` · `mushrooms` · `buying-guide` · `storage` · `drying` · `myth` · `dont-wash-mushrooms`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the ingredient-notes reference section near the front of the book (book p. 146–147).
+**Used in:** background reference for any recipe calling for mushrooms, including this cookbook's existing [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) and [§9.26 Mushroom Florentine](#926-mushroom-florentine) — both of which instruct washing the mushrooms; per the myth-bust below, that's a harmless, valid choice, not an error to correct.
+
+**Twelve varieties, buying, and storage.** The source pictures and names twelve mushrooms worth knowing: **buttons, chanterelles, criminis, enokis, hen of the woods, matsutakes, morels, oysters, porcini, portobellos, shiitakes,** and **truffles**. Its own buying advice: morels are wonderful but expensive — good old button mushrooms work just fine as a substitute, and tasted side by side, they're not embarrassed by their pricier cousins.
+
+**Storage.** Fresh mushrooms keep in the fridge for about 2 weeks, depending on how fresh they were at purchase. Store them **unchopped and unwashed in a paper bag** — plastic bags, plastic wrap, or an airtight container all make them deteriorate faster by trapping moisture. Most mushrooms don't freeze well.
+
+**When it's time to cook,** if the stems are woody, pull them, freeze them, and toss them in the pot along with bones and meat trim when making stock. Otherwise, just slice off the fibrous stem end and compost it.
+
+**Dried mushrooms** can be almost as good as fresh, and they keep for years at room temperature stored in a dark cabinet in a paper bag. Reconstitute by soaking in hot water for about 15 minutes — the soaking water comes out laden with flavor, so reduce it for sauces or stocks, or freeze it to save for later. Dry mushrooms can also be ground into a powder and used like a spice in rubs.
+
+> 🚫 **MYTH — Don't wash mushrooms. BUSTED.** Most chefs say you should never wash mushrooms — just wipe them with a brush or a damp paper towel. The source's own side-by-side test says otherwise: mushrooms are about 90% water and absorb very little more when washed, and tasted washed vs. brushed side by side, the source couldn't tell the difference. Mushroom cells are mostly built from **chitin** — the same compound behind lobster, shrimp, and crab shells — which is part of why mushrooms are hard to overcook. **The source's own weighed experiment: an unwashed batch of button mushrooms came in at 2⅜ oz; the same mushrooms, washed, weighed 2⅝ oz** — a small water gain, not the soggy, waterlogged mess the myth predicts. The source also cites **Lan Lam of *Cook's Illustrated*** (printed in the book as "Lam Lan"), who showed that submerging mushrooms in a bowl of water and microwaving them for 2 minutes drives a lot of water and air back out, compressing the mushroom and actually concentrating its flavor and umami. **A serving suggestion from the same page:** melt butter, add a sprinkle of salt and some pressed or minced garlic, baste mushrooms with the garlic butter, and grill them on a metal grill topper — they'll absorb tons of flavor this way.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T101. Buying Scallops — Bay, Sea, Diver, Day-Boat, Wet, and Dry (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, scallops, seafood, buying-guide, dry-scallops, wet-scallops -->
+**Tags:** `meathead` · `meathead-method` · `scallops` · `seafood` · `buying-guide` · `dry-scallops` · `wet-scallops`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafood" chapter (book p. 318), the buying-guide sidebar alongside [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce).
+**Used in:** [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce); also relevant to this cookbook's existing [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction), which already calls for "dry sea scallops" by name.
+
+Six terms worth knowing when buying scallops:
+
+- **Bay scallops** are small, about 1 inch in diameter or less, and are hand-harvested from shallow waters.
+- **Sea scallops** are larger, perhaps 2 inches in diameter, and grow in deeper waters. Both bay and sea scallops are excellent tasting.
+- **Diver scallops** are usually sea scallops hand-harvested by scuba divers.
+- **Day-boat scallops** are caught on smaller vessels that drag the bottom with chain nets.
+- **Wet scallops** are brined in a solution of trisodium phosphate, which extends shelf life — but also adds weight and dilutes the flavor slightly.
+- **Dry scallops** are untreated, and **the better choice**: no added water weight, and a drier surface that sears properly instead of steaming in the pan.
+
+**Why this matters at the stove:** a wet scallop's added moisture is exactly what stands between a scallop and a real golden sear — a wet scallop steams before it browns, no matter how hot the pan. Pat scallops very dry before searing regardless of which kind you buy, but buy dry scallops when you have the choice.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -19644,6 +19784,183 @@ Pull the dish from the oven and let the tomatoes cool a bit before using, or let
 | **Per serving** *(makes 4 cups — about 8 servings of ½ cup)* | ~120 | 11 g | 1 g | 5 g | 1.3 g |
 
 **What a serving is:** about ½ cup — a spoonful over pasta or fish, or a small dish alongside bread. *(Figures assume roughly ¼ cup of the confit oil ends up eaten across the whole batch, with the rest strained off and reused — the tomatoes and garlic carry the fiber and most of the carbs.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.57 Smoke-Roasted Garlic
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegetables" chapter (book p. 339).
+
+> Per the source's own headnote: raw garlic is harsh and sulfurous, strong enough to ward off vampires — but it gets mellow, nutty, and sweet when cooked, without going *too* mellow; it still keeps its own character. Smoking it soft with a little olive oil turns it spreadable on bread, toast, or crackers, or stirred into mashed potatoes, salad dressings, soups, and sauces. Make extra — pop the cooked cloves out of their skins, refrigerate in a plastic bag for up to a week, or freeze them (whole or puréed). The source uses this in its own Smoke-Roasted Garlic Bread (book p. 367, not yet in this cookbook).
+
+**🟢 Easy** · **Prep ~5 min** · **Slow cook ~45 min** *(smoker or indirect grill, unattended)* · **Start to finish ~1 hr**
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — it's a whole head of garlic left alone on the cool side of a grill or smoker until a thermometer says it's soft. The long hands-off stretch belongs in Slow cook, not Cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that smoker work is Slow cook at any length.
+
+#### A. Ingredients
+
+- 1 head garlic
+- 1 tablespoon inexpensive olive oil
+
+#### B. Cooking Instructions
+
+**1. Fire up.**
+Start your smoker and aim for 225°F, or set up a grill for 2-zone cooking with 225°F on the indirect side. Get some smoke rolling.
+
+**2. Prep the garlic.**
+With a sharp knife, cut off the pointy end of the garlic head about ½ inch below the top — deep enough to expose the flesh of most of the cloves inside. If it isn't, cut a little farther down. Squeeze the head gently to separate the cloves slightly so there's a bit of space between them. Drizzle the olive oil over the bare garlic meats and let it run down between the cloves.
+
+**3. Roast.**
+Place the whole head on the grill, on the indirect heat side. After about 30 minutes, stick a thermometer probe into one of the center cloves. If it meets resistance, give it another 15 minutes. If it slides in like buttah, it's done.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Garlic — 1 head
+- 🛒 Olive oil — 1 tablespoon (inexpensive is fine)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(1 head garlic, about 12 cloves, plus the oil)* | ~170 | 15 g | 2 g | 10 g | 1 g |
+| **Per serving** *(makes about 12 cloves — 2 cloves per serving)* | ~30 | 2.5 g | 0.5 g | 1.5 g | 0 g |
+
+**What a serving is:** 2 cloves smeared on bread, stirred into mashed potatoes, or worked into a dressing.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.58 Smoked Tomato Raisins
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegetables" chapter (book p. 339–340).
+
+> Per the source's own headnote: "when a guy named Meathead says one of his favorite things to smoke is a vegetable, it is time to pay attention." Nothing is simpler to make on a smoker than smoked tomato raisins — in essence, just like sun-dried tomatoes, but with a smoky flavor. Dehydration makes them as sweet as raisins. They're good in salads, on a pizza or focaccia, in pasta, baked into breads, on baked potatoes, in stews, in pot pies, in roulades like porchetta, on a BLT, stuffed into chicken breasts or pork chops, in omelets or scrambled eggs, in anything with a cream sauce, or anywhere you'd use raisins or sun-dried tomatoes. The source uses them in its own Best Chicken Burger Ever (book p. 292) and Not Grannie's Meatloaf (book p. 296), neither yet in this cookbook. This process also works on full-size meaty tomatoes, especially Romas or San Marzanos — a good use for a cherry tomato plant's overwhelming late-summer output.
+
+**🟢 Easy** · **Prep ~5 min** · **Slow cook ~6 hr** *(smoker, unattended)* · **Start to finish ~6 hr**
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, this is tomatoes left on a cool smoker for hours until they shrink and turn pliable — there's no moment where it can go from perfect to ruined. The long unattended stretch is Slow cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that any smoker work counts as Slow cook regardless of length.
+
+#### A. Ingredients
+
+- Tomatoes — as many as you can fit on your grill topper (cherry tomatoes, or meaty full-size ones like Romas or San Marzanos)
+
+*Special tools: a grill topper, or something else to keep the tomatoes from falling through the grates as they shrink.*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Pop the stems off the tomatoes and stab each one 3 or 4 times with the tip of a sharp knife so moisture has somewhere to escape.
+
+**2. Fire up.**
+Set the temperature for a smoker, or the indirect zone of a grill, as low as 170 to 200°F — don't get any hotter than this. Get some smoke rolling and keep it rolling for at least an hour or two.
+
+**3. Smoke. About 6 hours.**
+Spread the tomatoes around on a grill topper, trying to leave a little room between them. After about 3 hours, roll them around a bit. If you want, you can bring them inside and finish them in the oven or a dehydrator. **They're done when they've shrunk to about 25% of their original size yet remain pliable, like raisins** — don't let them get hard. They'll keep in the fridge for weeks depending on the moisture content, or in the freezer in zip-top bags for up to a year.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Tomatoes — cherry tomatoes, or meaty Romas/San Marzanos, as many as fit on your grill topper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(based on 2 lb fresh tomatoes before smoking — dehydration concentrates flavor, not calories)* | ~170 | 2 g | 8 g | 37 g | 12 g |
+| **Per serving** *(2 lb fresh tomatoes yields about 1 cup of smoked raisins, roughly 8 servings of 2 Tbsp each)* | ~20 | 0 g | 1 g | 4.5 g | 1.5 g |
+
+**What a serving is:** about 2 tablespoons — a small handful scattered over a salad, pizza, or bowl of pasta.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.59 Squash Bisque
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegetables" chapter (book p. 350).
+
+> Per the source's own headnote: a lush, sensuous make-ahead dish, perfect for cool weather — how about Thanksgiving? Buy two pumpkins for Halloween, carve one, and draw a face on the other with a Magic Marker; that's the one to eat. Or use kabocha, acorn, or butternut squash — frankly, they're better. If there's homemade Smoked Bone Broth in the freezer, use it instead of chicken broth. **This cookbook's own [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth)** (from the earlier *Meathead* book) is a close, ready-made stand-in for the source's own same-named broth (book p. 217), which isn't in this batch's scan.
+
+**Makes 4 servings**
+
+**🟢 Easy** · **Prep ~35 min** · **Cook ~30 min** *(the soup — simmer, blend, and finish)* · **Slow cook 40 min** *(smoking the squash and seeds, unattended)* · **Start to finish ~1 hr 45 min**
+
+> **Why Easy despite the moving parts.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — smoking is hands-off, and the soup itself is a forgiving simmer-then-blend with no scorch-fast or break-fast step the way a roux or a broken sauce would have. Length and component count (bacon, brined seeds, smoked squash, a stovetop base, a blend, a sage finish) don't change that.
+
+#### A. Ingredients
+
+- 1 large shallot or small onion
+- 4 slices bacon
+- 2 pounds of meat from a fresh orange squash, such as pumpkin, kabocha, acorn, or butternut
+- Morton Coarse Kosher Salt
+- 3 cups Smoked Bone Broth *(see [§7.104](#7104-smoked-bone-broth))*, chicken stock, or beef stock
+- ¼ cup dry white wine
+- 1½ tablespoons honey
+- ¼ teaspoon ground chipotle
+- 1 cup cream or half-and-half
+- 12 large fresh sage leaves, or 6 dried leaves
+- ¼ cup plain thick yogurt
+
+*If you don't do wine: just add more broth. About the chipotle: the source has also made this with other chile powders, and even gochujang.*
+
+*Special tools: a grill topper, a blender or food processor.*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Peel and mince the shallot. In a skillet, cook the bacon until it's crisp; once cool, crumble it and reserve the drippings. Cut the squash in half. Scoop out the seeds and clean them, removing as much of the stringy, slimy stuff as possible — if some remains, don't worry, it'll disappear in the smoking process. With a vegetable peeler or paring knife, peel the skin off the squash; it's tough, so don't worry if you take a little meat with it. Cut the squash meat into 1-inch cubes. Keep 2 pounds for the recipe and freeze the rest, or use it all and scale up the rest of the ingredients.
+
+**2. Soak the seeds. 30 minutes.**
+Dissolve 2 tablespoons Morton Coarse Kosher Salt in 1 cup hot water and add the reserved seeds. Let stand for 30 minutes, then drain and leave them wet.
+
+**3. Fire up.**
+Light your smoker and get it up to 225°F, or set up your grill for 2-zone cooking and get the indirect side to 225°F. Get some smoke rolling.
+
+**4. Smoke. 40 minutes.**
+Distribute the squash cubes and the wet seeds on a grill topper. Smoke, lid down, for 40 minutes. Reserve the cubes and seeds separately.
+
+**5. Start the soup. 30 to 40 minutes.**
+In a large saucepan, heat 2 tablespoons of the reserved bacon fat over medium heat until hot. Add the shallot and cook until tender, about 4 minutes. Add the smoked squash, the broth, wine, honey, chipotle, and 1 teaspoon kosher salt. Simmer until the squash is tender, 30 to 40 minutes.
+
+**6. Blend.**
+Add the cream and carefully transfer everything to a blender or food processor; purée until very smooth — a stick blender doesn't have the horsepower for this, so don't try it that way. Pour the purée through a sieve into a pot to catch any chunks. Taste, and adjust with salt, chipotle, and cream as desired.
+
+**7. Sage advice.**
+Cut the sage leaves in half across their width and add them to the soup. Heat it back to a simmer.
+
+**8. Serve.**
+Ladle the soup into bowls and dollop a spoonful of yogurt in the center. Scatter with the reserved bacon and smoked pumpkin seeds.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot or small onion — 1 large
+- 🛒 Bacon — 4 slices
+- 🛒 A fresh orange squash (pumpkin, kabocha, acorn, or butternut) — 2 lb of meat
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Chicken or beef stock — 3 cups, if not using homemade Smoked Bone Broth (see [§7.104](#7104-smoked-bone-broth))
+- 🛒 Dry white wine — ¼ cup
+- 🛒 Honey — 1½ tablespoons
+- 🛒 Ground chipotle — ¼ teaspoon
+- 🛒 Cream or half-and-half — 1 cup
+- 🛒 Fresh sage — 12 large leaves (or 6 dried)
+- 🛒 Plain thick yogurt — ¼ cup
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,250 | 50 g | 40 g | 145 g | 19 g |
+| **Per serving** *(serves 4)* | ~310 | 13 g | 10 g | 36 g | 5 g |
+
+**What a serving is:** a generous 1½-cup bowl, dolloped with yogurt and scattered with bacon and pumpkin seeds.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -29998,7 +30315,7 @@ Pour the pan sauce into the same hot skillet and scrape up the browned bits (the
 **8. Bring it together.**
 Return the filets to the pan of sauce. Check the internal temperature and aim for medium-rare, 130° to 135°F — if it's not there yet, move the pan over direct heat briefly. Spoon sauce onto each dinner plate and set a filet right in the middle of the pool.
 
-*Note: this ingredient calls for the source's own Poblano-Basil Cream Sauce or a similar Duxelles/Mushroom Cream Sauce, neither of which was in this batch's scanned pages (book p. 192, 194). [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) or [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) both make reasonable stand-ins — a rich, savory sauce to pool the filet in. See Open Questions.*
+*Note: this ingredient calls for the source's own Poblano-Basil Cream Sauce or a similar Duxelles/Mushroom Cream Sauce. **Update, Vegetables & Seafood batch:** the Poblano-Basil Cream Sauce itself has since turned up complete and is now [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) — the closer, same-book stand-in. Its mushroom-based sibling, Duxelles and Mushroom Cream Sauce, is still missing its own ingredient list (book p. 192); [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) or [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) remain reasonable stand-ins for that one. See Open Questions.*
 
 #### C. Grocery Shopping List
 
@@ -30028,7 +30345,7 @@ Return the filets to the pan of sauce. Check the internal temperature and aim fo
 
 #### D. Open Questions
 
-- **The pan sauce this recipe calls for (Poblano-Basil Cream Sauce or Duxelles and Mushroom Cream Sauce, book p. 192/194) wasn't in this batch's scanned pages.** The recipe's own steps (make the sauce, finish it in the pan with the fond) are complete and legible — only the sauce's own ingredient list is missing. Substituted with a cross-reference to this cookbook's existing [§4.129](#4129-sage-and-thyme-board-sauce)/[§4.79](#479-sauce-duxelles-brown-mushroom-sauce) rather than invented; revisit if those book pages ever get photographed.
+- **The pan sauce this recipe calls for (Poblano-Basil Cream Sauce or Duxelles and Mushroom Cream Sauce, book p. 192/194) wasn't in this batch's scanned pages.** The recipe's own steps (make the sauce, finish it in the pan with the fond) are complete and legible — only the sauce's own ingredient list is missing. Substituted with a cross-reference to this cookbook's existing [§4.129](#4129-sage-and-thyme-board-sauce)/[§4.79](#479-sauce-duxelles-brown-mushroom-sauce) rather than invented; revisit if those book pages ever get photographed. **Update, Vegetables & Seafood batch:** the Poblano-Basil Cream Sauce half of that pair is now fully documented at [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) — use that as the primary stand-in going forward, since it's the source's own sauce rather than a cross-book substitute. The Duxelles and Mushroom Cream Sauce half is still missing its ingredient list (book p. 192) and remains an open gap.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -30863,6 +31180,177 @@ The turkey's done at 155° to 160°F internal, after about 1 hour — it will ca
 
 - **"Warp 5" (Step 4) is the first time a recipe in this cookbook has actually used this book's own direct-heat "Warp" scale**, rather than a plain °F figure — the Beef/Bison/Lamb batch noted the scale exists but that it never came up in that batch's own recipes. Its numeric definition hasn't turned up on any photographed page across this project's batches so far; see the new [§T99](#t99-the-warp-heat-scale-the-meathead-method) for how this cookbook interprets it from context.
 - **A separate, incomplete recipe fragment that uses this book's own [§7.138 Real Fried Chicken](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** appears immediately above this recipe's own headnote on book p. 285 — skipped as genuinely incomplete; see [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)'s Open Questions for details.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.143 Scallops with Black Garlic Butter Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafood" chapter (book p. 318). **Genuinely different from this cookbook's existing [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction)** (*Champions of Sous Vide*; scallops cooked sous vide, then seared, plated over pickles) — this one is cold-smoked, then pan-seared, with a sticky black garlic butter sauce and no sous vide step at all. Both kept.
+
+> Per the source's own headnote: scallops and butter — no-brainer, add garlic, duh — but *black* garlic? Garlic fermented until it's black, sweet, and sticky? Oh my. **Black garlic** is exactly that: whole heads of garlic fermented for weeks under controlled heat and humidity until the cloves turn jet-black, soft, and sweet, closer to a fruit paste than raw garlic — no cooking required, since the fermentation has already done the work. Most scallops sold already shucked and cleaned have had the orange roe sack (also called coral) removed, since it spoils fast; scallops still in the shell often still have it — don't discard it if it's there. See [§T101 Buying Scallops](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) for what "dry" vs. "wet" scallops means for this recipe.
+
+**Techniques used:** [§T101 Buying Scallops](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) *(buy dry scallops for a real sear)*
+
+**Makes 4 appetizer servings, or 2 entrée servings**
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~5 min** · **Start to finish ~20 min**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, scallops go from a perfect golden sear to rubbery and overcooked in under a minute of inattention — this recipe's own second side gets only 1 minute in the pan, a genuinely tight window, on top of a smoking-gun step that needs the cling wrap to stay sealed the whole time.
+
+#### A. Ingredients
+
+- 1 stick (4 ounces) unsalted butter
+- 6 black garlic cloves
+- 8 kumquats
+- 16 large scallops (about 1½ ounces each)
+- 1 tablespoon clarified butter *(butter with the milk solids removed — it has a higher smoke point than whole butter, so it sears without burning)*
+
+*About the kumquats: please don't skip them — tangerines or clementines are good, but not a substitute. If you can't find kumquats, try harder.*
+
+*Serve with: rice, pasta, or something else that can soak up the extra butter.*
+
+*Special tool: a smoking gun — a handheld device that burns a small pinch of wood chips or sawdust in a separate chamber and pipes the cold smoke through a tube into a sealed container, so it flavors food without cooking it.*
+
+#### B. Cooking Instructions
+
+**1. Make the sauce. About 30 minutes.**
+In a small frying pan, melt the butter and hold it on low. Peel and mince the black garlic — it's sticky, so spray a little oil on the knife first. Add it to the butter. Slice the kumquats and discard the seeds, then add them to the butter too. Let everyone get to know each other for about 30 minutes over low heat.
+
+**2. Prep the scallops.**
+If they're still in the shell, they're easy to pry open: one shell is flat, the other curved. Set the scallop on a cutting board flat-shell-down. Crack the shell open just a bit with a table knife inserted between the shells opposite the hinge, hold it open with your thumb, then work a sharp, flexible filleting knife in and press it along the flat shell, cutting the adductor muscle free. Turn it curved-side down, pry the shells open, and use a spoon to cut the muscle away from the curved shell too. Pull off the inedible frill and guts with your fingers, and use the fillet knife to trim them away from the adductor muscle — the edible white "marshmallow" that's the part you want. Rinse the scallops vigorously, longer than you think you need to, even if you bought them already shucked, until any black specks or film are gone.
+
+**3. Smoke the scallops. About 10 minutes.**
+Place the scallops in a pan and cover it tightly with cling wrap. Insert the tube from a smoking gun under the cling wrap and smoke for about 10 minutes, replenishing the sawdust as needed to keep it going.
+
+**4. Fire up and sear. 3 to 4 minutes, then 1 minute.**
+Get a grill screaming hot over direct radiant heat. Warm the serving plates and the sauce. In a cast-iron skillet or on a griddle, melt the clarified butter. Pat the scallops very dry and sear them on one side until golden, 3 to 4 minutes — don't flip early, or the sear won't set. Flip and sear for **1 minute only** on the other side. The internal temperature should reach 125° to 130°F.
+
+**5. Serve.**
+Divide the scallops among warm plates, seared side up. Spoon the chunky, buttery black garlic sauce over the top.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Large scallops — 16 (about 1½ oz each), dry-packed if you can get them (see [§T101](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method))
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Black garlic — 6 cloves *(also sold at some specialty grocers)*
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 1 stick (4 oz)
+- 🛒 Kumquats — 8 (tangerines or clementines if unavailable)
+- 🛒 Clarified butter — 1 tablespoon
+- 🛒 Rice or pasta, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,620 | 112 g | 103 g | 17 g | 5 g |
+| **Per serving** *(4 appetizer servings)* | ~405 | 28 g | 26 g | 4 g | 1 g |
+
+**What a serving is:** 4 scallops with a spoonful of black garlic butter sauce — a substantial appetizer, or halve the servings (8 scallops each) for a 2-person entrée.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.144 Mussels with Smoked Fettuccine
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafood" chapter (book p. 319–321). **This cookbook's existing clam/shellfish-pasta entry, [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole), already explains why reserved pasta water helps a sauce cling** (the starch in it) — this recipe leans on the same trick and isn't re-explained from scratch below.
+
+> Per the source's own headnote: this recipe starts with a French classic, *moules marinière* ("mariner's mussels" — mussels steamed open in white wine with onion, garlic, and herbs), amped up with cream, then taken further by cooking the pasta in smoked water. If that sounds strange, remember that smoke and cream go together like Bonnie and Clyde. And if mussels aren't available, this works just fine with clams or oysters instead.
+
+**Makes 4 servings**
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~45 min** · **Slow cook 2 hr** *(smoking the water, unattended)* · **Start to finish ~3 hr**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, this recipe has two real risk points: mussels that don't open are supposed to be discarded (a dead mussel before cooking is a food-safety issue, not just a quality one), and both the mussels and the pasta need to land at the right doneness within a few minutes of each other or the dish either turns rubbery or gluey. Nothing here is unrecoverable, but it wants attention, not a hands-off simmer.
+
+#### A. Ingredients
+
+- 2 to 3 pounds ice
+- 2 pounds mussels, in their shells
+- 1 medium onion
+- 3 garlic cloves
+- 1 lemon
+- 2 tablespoons high-quality olive oil
+- ½ teaspoon coarse-grind black pepper
+- ¼ cup dry white wine
+- 2 tablespoons (1 ounce) unsalted butter
+- 2 tablespoons mascarpone or cream cheese
+- 2 tablespoons heavy cream or half-and-half
+- 1 teaspoon Morton Coarse Kosher Salt
+- 16 ounces dried fettuccine
+- 2 tablespoons chopped celery leaves
+
+*Optional: hot pepper flakes, on the side.*
+
+#### B. Cooking Instructions
+
+**1. Fire up.**
+Set up your smoker and aim for 225°F.
+
+**2. Smoke the water. 2 hours.**
+Put the ice in a 9×13-inch baking pan and put it in the smoker for 2 hours at 225°F. The smoke is attracted to the cold ice, and when it melts, you'll have smoked water. Pour it into a 2-quart pot and set it aside.
+
+**3. Prep.**
+Scrub the mussels thoroughly and discard any that are stinky or feel too heavy (likely full of sand) — sniff every one. Pull off any black, stringy "beard" still attached, using pliers or scissors. Peel and chop the onion, and peel and press or mince the garlic. Scrub and zest the lemon.
+
+**4. Make moules marinière.**
+In a large pot, heat the olive oil and onion over medium heat and gently cook until the onion is translucent, about 3 minutes. Add the garlic, lemon zest, and black pepper and stir. After about 2 more minutes, add the white wine, drop in the mussels, and cover with a loose-fitting lid, leaving a crack so steam can escape. Turn the heat to medium-high and continue cooking 4 to 5 minutes, stirring at least once, until all the mussels have popped open. Turn off the heat and lift the lid.
+
+**5. Free the moules. About 5 minutes.**
+Once the mussels are cool enough to handle, throw away any that haven't popped open — they were dead before cooking, taste bad, and may be unsafe to eat. Move the opened mussels to a separate bowl, leaving the flavorful cooking liquid behind as the base for the sauce. Pop open each shell and use a paring knife to scrape out the meat, making sure to get the white adductor muscle still attached to the shell. Put the meat in a bowl and discard the shells.
+
+**6. Make the sauce.**
+Bring the pot of mussel liquor back to a simmer and slowly whisk in the butter, mascarpone, and cream until fully incorporated and the sauce is smooth and creamy.
+
+**7. Boil the pasta.**
+Add the salt to the pot of smoked water and bring it to a boil. Add the fettuccine and cook to al dente per the package directions. Drain, **reserving the pasta water** — the starch in it is what helps the sauce cling to the noodles instead of pooling underneath them (same principle as [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) Step 4).
+
+**8. Finish.**
+Add the mussels to the sauce, then add the drained pasta. Stir to coat, adding a few tablespoons of the reserved pasta water if the sauce needs loosening. Taste and adjust the salt if necessary.
+
+**9. Serve.**
+Scatter chopped celery leaves on top and serve, with hot pepper flakes at the table for anyone who wants them.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish market**
+
+- 🏪 Mussels — 2 lb, in their shells
+
+**🛒 General grocery**
+
+- 🛒 Ice — 2 to 3 lb, for smoking the water
+- 🛒 Onion — 1 medium
+- 🛒 Garlic — 3 cloves
+- 🛒 Lemon — 1
+- 🛒 High-quality olive oil
+- 🛒 Black pepper, coarse-grind
+- 🛒 Dry white wine — ¼ cup
+- 🛒 Unsalted butter — 2 tablespoons (1 oz)
+- 🛒 Mascarpone or cream cheese — 2 tablespoons
+- 🛒 Heavy cream or half-and-half — 2 tablespoons
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Dried fettuccine — 16 oz
+- 🛒 Celery — for the leaves
+- 🛒 Hot pepper flakes (optional)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,100 | 90 g | 160 g | 375 g | 15 g |
+| **Per serving** *(serves 4)* | ~775 | 22 g | 40 g | 94 g | 4 g |
+
+**What a serving is:** a generous pasta bowl — about 4 oz of dry fettuccine's worth, topped with a quarter of the mussels and sauce.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -36857,6 +37345,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-06 — the "Pork" chapter of *The Meathead Method* has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Two full recipes, **[§7.136](#7136-championship-pork-ribs) Championship Pork Ribs** and **[§7.137](#7137-tuffy-stones-championship-pork-butt) Tuffy Stone's Championship Pork Butt**, plus one new condensed technique entry, **[§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) Buying Pork and the Whole-Hog Cut Map**. **§7.137 confirmed as the SAME recipe** the earlier Rubs & Spice Blends batch informally called "Cool Smoke Pork Butt" when it added that recipe's four named components ([§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection)) — the source's own and only title for the dish is "Tuffy Stone's Championship Pork Butt"; no separate recipe exists, so this is one entry, not two. **§7.136 is a genuinely different recipe from §7.135's neighbor [§7.97 Last-Meal Ribs](#797-last-meal-ribs)** (this book's own competition method vs. the earlier book's simple home smoke, which this book's own recipe explicitly name-checks as "the simpler recipe I do at home") — both kept, cross-referenced. **The book's own pork-rib-cuts diagram (book p. 244) was checked against the existing [§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs)/[§T59 Rib Anatomy](#t59-rib-anatomy-and-how-to-skin--trim-ribs) from the earlier book and found to substantially duplicate the rib-specific content there** — not re-added; [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) instead covers only what T58/T59 don't (pork's lack of USDA grading, buying by color/myoglobin, the loin-vs-tenderloin mix-up, and a whole-hog map cross-referencing T58 for the ribs). **The "boil ribs to make them tender" myth-busting box was folded into [§7.136](#7136-championship-pork-ribs)'s headnote rather than given its own T-number**, same practice as the Beef/Bison/Lamb batch's myth-folding. **One recipe skipped as genuinely incomplete**: **Dorie's Pork à la Normande** (book p. 252–253) — the title, full headnote, and complete ingredient list are legible, but the numbered cooking steps that should follow on p. 253 are not among the 55 photographed pages at all (the scan's next captured page picks up mid-recipe elsewhere in the book); named here rather than guessed at, same handling as the Beef batch's Pho skip. **Two connecting-prose passages on hard-to-read photographed spreads (book p. 246–247 and p. 250–252) are flagged in each recipe's own Open Questions** rather than silently smoothed over — every ingredient amount, temperature, and step sequence that drives the outcome is solid; only some minor narrative phrasing between steps is paraphrased. **Jargon explained inline per Cody's standing request:** the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket)/[§7.135](#7135-championship-brisket-and-burnt-ends), where this cookbook already explains the term, rather than re-explained from scratch) at both [§7.136](#7136-championship-pork-ribs) and [§7.137](#7137-tuffy-stones-championship-pork-butt); the turn-in box (a competition-BBQ term for the judged submission box) explained in full at [§7.136](#7136-championship-pork-ribs) and cross-referenced from [§7.137](#7137-tuffy-stones-championship-pork-butt). **No salt amounts altered anywhere in this batch.** **Neither recipe prints net carbs, so neither is tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and this §13 entry all updated throughout. **§13 remains a placeholder**, same reasoning as every update above.
 >
 > **Update, 2026-09-06 — the "Chicken and Turkey" chapter of *The Meathead Method* has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Five full recipes, **[§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) through [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)**, plus five new condensed technique entries, **[§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)–[§T99](#t99-the-warp-heat-scale-the-meathead-method)**. **§7.138 Real Fried Chicken on a Gas Grill and §7.139 Extra Crispy Chicken Wings Without Frying are both genuinely different from this cookbook's existing fried/wing recipes from the earlier Meathead book** ([§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken), a sous-vide-then-fry method, and [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings), smoked/grilled and sauced) — both new methods kept alongside their older cousins rather than merged. **§7.140 Tandoori Chicken and §7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin turned out to be two separate dishes, not one** — an early scan of this batch's photos worried they might be the same recipe split across pages, since a whole-bird rotisserie method and a numbered Pound/Dry Brine/Rehydrate/Fire Up/Make the Cracklins/Smoke and Butter Up/Serve method both turned up near each other; on closer reading, the rotisserie steps are Tandoori Chicken's own third cooking option (its ingredient list, cilantro garnish, and yogurt marinade all match), and the numbered turkey-breast method is §7.142's own steps, matching that recipe's own ingredient list (French Rub, cranberries, port, butter) one page later — two distinct dishes, not a duplicate. **§7.141 Championship Chicken uses this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), not the Cool Smoke rub/sauce components** at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection) — a different competition team (Darren and Sherry Warth) with their own rub-and-sauce combination, so no cross-reference or merge with the Cool Smoke recipes applies. **One recipe fragment skipped as genuinely incomplete**: an untitled recipe that uses [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component and finishes it with a basting of "hot flavored oil" — only the tail end of its Steps 2–3 are legible, immediately above [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s own headnote on book p. 285; its title, headnote, full ingredient list, and Step 1 (how the flavored oil itself is made) are not among the photographed pages. Named here rather than guessed at. **One myth-busting box given its own T-number rather than folded into a recipe**: [§T97 Myth — Truss Poultry Legs](#t97-myth--truss-poultry-legs-the-meathead-method) (busted — trussing traps steam and slows cooking rather than helping) — kept separate because it reinforces, rather than belongs to, an existing bullet at [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey) from the earlier Meathead book; both books reach the same conclusion independently, cross-referenced rather than duplicated. **The "Warp" heat scale — flagged as existing but unused in the Beef/Bison/Lamb batch's own changelog entry — has now actually appeared in a recipe** ([§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4, "Warp 5"), so it gets its own new technique entry, [§T99](#t99-the-warp-heat-scale-the-meathead-method), inferring what the scale means from how it's used across several of this book's recipes since its own numeric definition still hasn't turned up in any photographed page. **No salt amounts altered anywhere in this batch.** **Jargon explained inline per Cody's standing request:** "spatchcock" (cross-referenced to the earlier book's existing [§T77](#t77-tips-on-cooking-poultry) rather than re-explained), the ten-piece cut for frying and whole-bird carving (both condensed into the new [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)), why baking powder (not baking soda) crisps poultry skin and dry-vs-wet coatings generally (the new [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)), EverCrisp (explained as a commercial category product at §T96, not purchased for any recipe here), "kamadoor" and "IR" (explained inline at [§7.140](#7140-tandoori-chicken)), "GBD" (Golden Brown and Delicious, explained inline at [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)), "cracklins" (crispy rendered poultry skin, explained inline at [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)), a "jaccard" (a needle-bladed meat-tenderizing tool, explained inline at [§7.141](#7141-championship-chicken)), and a "turn-in box" (cross-referenced to the existing explanation at [§7.136](#7136-championship-pork-ribs) rather than repeated). **The source's own "For French Fries" sidebar was checked against this cookbook's existing [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries)** and found to be a genuinely different, fresh-cut/pickle-brine-soak method (vs. §7.46's frozen-fries version) — condensed into its own new technique entry, [§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method), cross-referenced from [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) rather than written up as its own recipe, since the source itself presents it as a sidebar, not a standalone dish. **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and this §13 entry all updated throughout. **§13 remains a placeholder**, same reasoning as every update above.
+>
+> **Update, 2026-09-06 — the "Vegetables" and "Seafood" chapters of *The Meathead Method* have now arrived together, and they landed in §5, §4, §7, and the T-section.** Six full recipes: **[§5.57](#557-smoke-roasted-garlic) Smoke-Roasted Garlic, [§5.58](#558-smoked-tomato-raisins) Smoked Tomato Raisins,** and **[§5.59](#559-squash-bisque) Squash Bisque** in [§5 Vegetables & Sides](#5-vegetables--sides); **[§4.174](#4174-poblano-basil-cream-sauce) Poblano-Basil Cream Sauce** in [§4](#4-rubs-seasonings-sauces--condiments); and **[§7.143](#7143-scallops-with-black-garlic-butter-sauce) Scallops with Black Garlic Butter Sauce** and **[§7.144](#7144-mussels-with-smoked-fettuccine) Mussels with Smoked Fettuccine** in [§7 Mains & Proteins](#7-mains--proteins) — same "organize by what the dish *is*, not by source book" reasoning as every chapter before it. Two new condensed technique entries, **[§T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method) Mushroom Varieties, Buying, Storing, and Drying** and **[§T101](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) Buying Scallops**, condense the book's ingredient-notes reference section rather than a recipe chapter. **§4.174 Poblano-Basil Cream Sauce closes a gap this project already knew about**: the Beef/Bison/Lamb batch flagged a "Poblano-Basil/Duxelles cream sauce" as a component [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) needed but the scan didn't have (book p. 192/194) — the Poblano-Basil half of that pair has now turned up complete, and §7.132's (and, in passing, §7.133's) notes are updated to point to it. **Its mushroom-based sibling, Duxelles and Mushroom Cream Sauce, is still incomplete** — the scan picks up mid-recipe at "cook the mushrooms," with the shared ingredient list and Step 1 on a page (book p. 192) not among the photographed pages — skipped per Cody's standing incomplete-source policy, cross-referenced at §4.174's own Open Questions rather than invented. **Three items skipped as genuinely incomplete or entirely missing, none guessed at:** **Quick Pickles** (book p. 343) — a complete formula and ingredient list, but the page ends after Step 2 ("Pack"), with the step that actually mixes and pours the pickling liquid not among the photographed pages; **Corn Salad** (book p. 350–351) — a complete ingredient list, but no cooking instructions anywhere in the scan; and **Smoke Catcher Clambake** (book p. 321) — only a headnote and a general description of the book's own "smoke catcher" method survive in the scan, with no MAKES/TAKES line, ingredient list, or numbered steps for the recipe itself. **No duplicates found, but three close relatives cross-referenced rather than merged:** [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) is a genuinely different method from the existing [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) (*Champions of Sous Vide*); [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) leans on the pasta-water-starch explanation this cookbook already gives at [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) rather than repeating it; and the new [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) is cross-referenced against the existing, unrelated [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce) from *Mastering the Art of French Cooking*, since both use the term "duxelles" for the same minced-mushroom starting point but are otherwise different sauces. **Jargon explained inline per Cody's standing request:** duxelles, black garlic, a smoking gun, a grill topper, and pasta-water starch (cross-referenced to §7.129 rather than re-explained) — see each recipe's own text. **No salt amounts altered anywhere in this batch.** **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and this §13 entry all updated throughout. **§13 remains a placeholder**, same reasoning as every update above.
 
 [↑ Table of Contents](#table-of-contents)
 

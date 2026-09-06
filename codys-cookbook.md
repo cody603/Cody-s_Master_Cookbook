@@ -183,6 +183,15 @@ Click any recipe to jump straight to it.
   - [4.162 Herb Mayonnaise](#4162-herb-mayonnaise) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise) ✅ *(Salt, Fat, Acid, Heat; includes a Chipotle Mayonnaise variation)*
   - [4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto) ✅ *(Salt, Fat, Acid, Heat; this cookbook's third pesto, alongside [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce) and [§4.131](#4131-pesto))*
+  - [4.165 Red Meat Rub](#4165-red-meat-rub) ✅ *(The Meathead Method)*
+  - [4.166 French Rub](#4166-french-rub) ✅ *(The Meathead Method)*
+  - [4.167 Smoked Butter](#4167-smoked-butter) ✅ *(The Meathead Method)*
+  - [4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) ✅ *(The Meathead Method; Tuffy Stone's Championship Pork Butt component)*
+  - [4.169 Cool Smoke Rub](#4169-cool-smoke-rub) ✅ *(The Meathead Method; Tuffy Stone's Championship Pork Butt component)*
+  - [4.170 Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) ✅ *(The Meathead Method; Tuffy Stone's Championship Pork Butt component)*
+  - [4.171 Cool Smoke Injection](#4171-cool-smoke-injection) ✅ *(The Meathead Method; Tuffy Stone's Championship Pork Butt component)*
+  - [4.172 Alabama White Sauce](#4172-alabama-white-sauce) ✅ *(The Meathead Method)*
+  - [4.173 Lexington Dip #2](#4173-lexington-dip-2) ✅ *(The Meathead Method; distinct from [§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce))*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -578,6 +587,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Rubs & Spice Blends batch from a NEW 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — a different book from *Meathead: The Science of Great Barbecue and Grilling*, the source behind [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and the rest of this cookbook's earlier Meathead content. **Same author, two distinct books — see the new [§13](#13-meathead-cookbook) update for the citation convention this cookbook uses to tell them apart going forward.** This is the first of several planned batches from this new source; later passes will cover its Pork, Chicken/Turkey, Beef/Bison/Lamb, Vegetables, Seafood, Desserts, and reference-notes chapters. **Nine full recipes added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.164 Pesto](#4164-pesto-basil-pesto): **[§4.165](#4165-red-meat-rub) Red Meat Rub** and **[§4.166](#4166-french-rub) French Rub** (both salt-free rubs, both carrying the bolded no-salt warning — see below), **[§4.167](#4167-smoked-butter) Smoked Butter** (freeze, cold-smoke 1 hr at 225°F, then work into a log — a technique-recipe rather than a seasoning), **[§4.168](#4168-cool-smoke-chili-powder) Cool Smoke Chili Powder**, **[§4.169](#4169-cool-smoke-rub) Cool Smoke Rub**, **[§4.170](#4170-cool-smoke-barbecue-sauce) Cool Smoke Barbecue Sauce** (rated 🟡 Medium — the only non-Easy recipe in this batch, for a real 20-minute constant-stir scorch risk), and **[§4.171](#4171-cool-smoke-injection) Cool Smoke Injection** (all four Cool Smoke components are Tuffy "The Professor" Stone's, from his Championship Pork Butt method — the full multi-stage pork-butt cook itself is out of scope for this rubs/sauces batch and waits for a future Pork-chapter pass), **[§4.172](#4172-alabama-white-sauce) Alabama White Sauce**, and **[§4.173](#4173-lexington-dip-2) Lexington Dip #2** (explicitly labeled "#2" in the source — a second, lower-sugar Carolina Piedmont dip, kept distinct from and cross-referenced to [§4.120 Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce), already in this cookbook from the earlier Meathead book). **Two new condensed technique entries, [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)–[§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method)**, continuing the T-section from [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion): the book's Five S's of a rub (an expansion of [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s earlier Three S's), its glycemic-load case for going easy on rub/sauce sugar, its own "No Salt in My Rub Recipes" argument and dry-brine-timing formula (½ tsp Morton Coarse Kosher Salt per pound of meat, ½ tsp herbs/spices per 24 sq in), a salted-vs-unsalted pork chop taste-test experiment, and a separate entry on wet-vs-dry rub application, storage, the plastic-wrap myth, and salt-before/rub-after sous vide timing. **No salt amounts altered from the source anywhere in this batch** — every rub, sauce, and injection keeps its printed salt quantity exactly, including the several that print zero; Cody's standing "heavier salt" preference is scoped to standalone brining recipes only and does not apply here, a mistake corrected earlier in this same multi-book project and deliberately not repeated. **The bolded salt-free-rub warning — *"⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland."*** — is applied to **[§4.165 Red Meat Rub](#4165-red-meat-rub) and [§4.166 French Rub](#4166-french-rub)**, the two actual dry rubs in this batch with zero salt, using the exact wording already standing on this cookbook's eight earlier salt-free rubs. **Not applied to [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder)** (also salt-free) since it's a base component folded into other recipes rather than a rub applied to meat directly — same reasoning as the existing [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) exemption — nor to [§4.171 Cool Smoke Injection](#4171-cool-smoke-injection) (an injection, also salt-free), per Cody's explicit instruction that the warning is for dry rubs only, never sauces, injections, or butters. **One genuine duplicate found and handled by cross-reference rather than re-added:** this new book's own "Cajun Seasoning" (p. 166–167) turned out to be word-for-word identical, ingredient for ingredient, to the already-documented **[§4.112 Cajun Seasoning](#4112-cajun-seasoning)** from the earlier Meathead book — a note is added at §4.112 recording that the author reprints this exact recipe across both of his books, rather than creating a duplicate entry. **A likely but unconfirmed gap-filler flagged rather than assumed:** [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) may be the same recipe as the earlier book's own Alabama White Sauce, whose ingredient list was flagged as an unresolved photography gap in the 2026-09-05 changelog entry — since this one comes from a different book's own pages, that original gap is left open rather than marked resolved. **One recipe skipped as genuinely incomplete, per Cody's standing policy:** **Kansas City Red** (p. 180), a raspberry-jam-secret-ingredient barbecue sauce — its full ingredient list is legible, but the page's method text is missing entirely; the visible content ends mid-sentence in an "About the Jam" note, with the lower right portion of the page physically obscured by a plate in the source photograph, and there is no method (mixing or otherwise) anywhere on the captured page. Named here rather than invented. **Citation format established for this new book**, since this is its first appearance in this cookbook: ***The Meathead Method*** — spelled out in full and italicized, always distinguished from ***Meathead: The Science of Great Barbecue and Grilling***; see [§13 Meathead Cookbook](#13-meathead-cookbook) for the new update recording this. **None of the nine recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as small practical units (½ tsp for the two dry rubs, 1 Tbsp for the sauces/injection/butter). TOC, Difficulty & Time Index (sorted by prep+cook), and [§13](#13-meathead-cookbook) updated throughout. |
 | 2026-09-06 | **Sweets batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat* — the fourth and FINAL batch from this same 50-page source PDF. This completes the full multi-batch project from this book:** every page of the scan has now been either transcribed into a full recipe or a condensed technique entry, or explicitly logged as a duplicate-skip or a genuine gap; nothing from this source remains to photograph. **Six full recipes and variations added to [§14 Desserts](#14-desserts)**, continuing straight on from [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake): **[§14.24](#1424-salted-caramel-sauce) Salted Caramel Sauce** (the source's own closing recipe, p. 428 — rated 🔴 Hard for the same "perfect to burnt in under a minute" caramelizing-sugar risk this cookbook already rated [§14.20 Cream Caramel](#1420-cream-caramel) 🔴 Hard for, cross-linked to it as a distinct dish sharing the same risk rather than a duplicate), **[§14.25](#1425-marshmallowy-meringues) Marshmallowy Meringues** (with Pavlovas, Persian Pavlovas, Meringue Fool, and Chocolate-Caramel Meringue Fool variations folded in — rated 🟡 Medium for real underwhip/overwhip/contamination risk; distinct from the meringue-as-*component* already used in [§14.5](#145-pumpkin-chiffon-pie)/[§14.13](#1413-pumpkin-chiffon-pie-i)/[§14.14 Pumpkin Chiffon Pie](#1414-pumpkin-chiffon-pie-ii)/[§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie), all cross-linked), **[§14.26](#1426-classic-pumpkin-pie) Classic Pumpkin Pie** (with a Chocolate Pudding Pie variation — rated 🟢 Easy, a direct-bake custard with no stovetop cooking or meringue fold, unlike this cookbook's existing 🔴 Hard chiffon-style pumpkin pies, all cross-linked and kept distinct), **[§14.27](#1427-light-and-flaky-buttermilk-biscuits) Light and Flaky Buttermilk Biscuits** (with Shortcakes and Fruit Cobbler variations — rated 🟡 Medium for a genuine, if forgiving, "keep it cold or lose the flakiness" risk; a cold-butter lamination method genuinely distinct from this cookbook's existing cut-in-shortening [§15.3](#153-basic-biscuits-cheese-or-bacon-variation)–[§15.6 Biscuits](#156-pastry-biscuits)), **[§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) Juice It and Make Granita** (Orange Granita, with a Coffee Granita variation — the first of the source's "Four Things to Do with Fruit"), and **[§14.29](#1429-roast-it-on-a-bed-of-fig-leaves) Roast It on a Bed of Fig Leaves** (the third of those four methods — both fruit entries rated 🟢 Easy). **One of the source's four fruit methods, "Poach It in Wine," is skipped as genuinely incomplete** — only its finishing half (cooling, plating, serving suggestions) survived in the photographed pages; its opening ingredient list and first simmering steps (the wine, sugar, and fruit quantities) are not among the photographed pages and have no legible amounts, so per Cody's standing instruction on incomplete source material it's named but not written up, flagged at [§14.29](#1429-roast-it-on-a-bed-of-fig-leaves). **Confirmed already present, not re-added:** [§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake), both encountered again in this batch's page range (they were originally added from an earlier PHOTO-based batch of this same book, not this PDF) — confirmed and skipped here rather than duplicated. **The source's own crust and cream/berry components keep surfacing as gaps rather than being invented:** the "All-Butter Pie Dough" gap [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) already flagged is the same crust [§14.26](#1426-classic-pumpkin-pie) needs, standing in with [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) or [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust); and the same standing "Vanilla Cream" gap already flagged at [§14.21](#1421-loris-chocolate-midnight-cake)/[§14.23](#1423-fresh-ginger-and-molasses-cake) is joined by several more named-but-undocumented components surfacing for the first time in this batch — Scented Cream, Cardamom Cream, Caramel Cream, Rose Scented Berries, the source's own fruit Compote, and Bittersweet Chocolate Pudding — all named rather than invented, cross-referenced to each other everywhere they recur. **Since this is the final batch from this source, every one of these stays an open gap rather than something a future batch will resolve** — see the consolidated Open Questions list Cody asked for, compiled separately from this changelog entry. **Jargon explained inline per Cody's standing request:** soft peaks vs. stiff peaks, and why cream of tartar (an acid) stabilizes whipped egg whites — cross-referenced to [§T31 How to Use Acid](#t31-how-to-use-acid)'s existing "a few drops of lemon or vinegar per egg white" passage rather than re-explained, at [§14.25](#1425-marshmallowy-meringues); fold as a mixing technique and why it preserves trapped air, at [§14.25](#1425-marshmallowy-meringues) and [§14.27](#1427-light-and-flaky-buttermilk-biscuits); docking a crust and blind baking, at [§14.26](#1426-classic-pumpkin-pie); why cold butter matters for flaky layers — cross-referenced to [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) and [§T30 How to Use Fat](#t30-how-to-use-fat) rather than re-explained, at [§14.27](#1427-light-and-flaky-buttermilk-biscuits); a granita's shaved-ice texture depending on periodic scraping rather than constant churning, at [§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation); and compote vs. coulis — chunky cooked fruit versus a smooth, strained purée, cross-linked to this cookbook's existing [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)/[§4.132 Coulis](#4132-roasted-red-pepper-and-garlic-coulis) — at [§14.25](#1425-marshmallowy-meringues). **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. **This closes out the full *Salt, Fat, Acid, Heat* project across all seven batches** (the five condensed-technique/first-recipe batches plus this one and the Doughs/Mayo/Pesto batch immediately below) — see the project's consolidated tally and Open Questions list Cody requested, compiled outside this changelog. |
 | 2026-09-06 | **Doughs/Emulsions/Mayo/Pesto batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the third batch from this same 50-page source PDF today, picking up right after the Vegetables/Stock/Mains batch below. **One more batch from this same scan is still coming: Sweets.** **Six full recipes added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt): **[§4.159](#4159-rustic-mayonnaise) Rustic Mayonnaise** (the source's own hand-whisked "Basic Mayonnaise" — the recipe several earlier batches have been citing as a same-book gap; rated 🟡 Medium, the only Medium recipe in this batch, since whisking oil into egg yolk by hand is a genuine emulsion that can break), **[§4.160](#4160-classic-sandwich-mayo) Classic Sandwich Mayo** (built on §4.159), **[§4.161](#4161-aioli-garlic-mayonnaise) Aioli (Garlic Mayonnaise)**, **[§4.162](#4162-herb-mayonnaise) Herb Mayonnaise**, **[§4.163](#4163-rouille-pepper-mayonnaise) Rouille (Pepper Mayonnaise)** (Chipotle Mayonnaise variation folded in; its own "Pepper Paste" sub-ingredient wasn't among the photographed pages, flagged as a gap with a roasted-red-pepper-purée stand-in rather than invented), and **[§4.164](#4164-pesto-basil-pesto) Pesto (Basil Pesto)** (with the source's own greens/nuts/cheese substitution chart folded in as a "Change It Up" callout) — **this cookbook's third pesto**, alongside [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) and [§4.131 Pesto](#4131-pesto), both cross-linked forward and back. **[§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) are rated 🟢 Easy rather than Medium**, on the reasoning that each one only stirs flavor into an *already-made* mayonnaise — nothing in their own steps can break an emulsion; each entry notes that building the mayonnaise base itself (§4.159) is where the real risk lives, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test. **One new condensed technique entry, [§T89 Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion)**, added to the Techniques quick index — deliberately short, since two of its three source passages ("Retaining Creaminess: Butter" and "Breaking and Fixing Emulsions") turn out to be the same content this cookbook already condensed from this same book at [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) and [§T30 How to Use Fat](#t30-how-to-use-fat); T89 cross-references both rather than repeating them, and writes out only what's new — weighing flour by weight instead of scooping by volume, and the wider all-emulsions framing of "breaking" beyond just mayonnaise. **Two source-referenced items checked and resolved rather than treated as gaps:** the source's own forward reference to an **All-Butter Pie Dough** — checked against this cookbook and **confirmed not present** (distinct from [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) and [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)), named as a gap in [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) since its own page wasn't among those photographed; and the source's own **Pasta Cacio e Pepe** reference — checked and **confirmed already documented**, cross-linked at [§T30](#t30-how-to-use-fat)'s "Butter sauce" paragraph rather than flagged as missing. **Five "not yet in this cookbook" cross-references retrofitted now that this batch fills them, the same retrofit pattern [badf8ce] and [7df86b8] used:** [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)'s and [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing)'s "Basic Mayonnaise (source p. 375)" gaps (each flagged twice, in the ingredient list and in Open Questions) now link to [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise); [§4.152 North African Charmoula](#4152-north-african-charmoula)'s "Stir into Basic Mayonnaise" serving suggestion now links there too; [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, which specifically named "Classic Sandwich Mayo," now links to [§4.160](#4160-classic-sandwich-mayo) exactly; and [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)'s Fritto Misto variation, which specifically named "Aïoli (source p. 376)," now links to [§4.161 Aioli](#4161-aioli-garlic-mayonnaise) exactly. **No duplicates skipped** — this cookbook's existing [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) is a citrus-forward burger topping from a different book, cross-linked rather than confused for [§4.161](#4161-aioli-garlic-mayonnaise)'s plain garlic version. **Jargon explained inline per Cody's standing request:** emulsion, why mayonnaise breaks (temperature swings or adding oil too fast overwhelms the egg yolk's lecithin), room-temperature eggs and why they matter for emulsifying, and the hot-water-and-broken-mayo fix, all at [§4.159](#4159-rustic-mayonnaise) and cross-referenced from [§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) rather than repeated; **rouille** as a term (French for "rust," a garlicky pepper- or saffron-tinted mayonnaise for bouillabaisse) at [§4.161](#4161-aioli-garlic-mayonnaise) and [§4.163](#4163-rouille-pepper-mayonnaise); *pestare* ("to pound") and why traditional mortar-and-pestle pesto bruises rather than slices the basil, keeping it greener and less oxidized than a fast-spinning blade, at [§4.164](#4164-pesto-basil-pesto); and weighing flour vs. scooping it by volume at [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion). **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "1 Tbsp" for the five mayonnaise-family condiments and "2 Tbsp" for the pesto. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Vegetables/Stock/Mains batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the second batch from this same 50-page source PDF today, picking up right after the Salsas & Yogurt Sauces batch below. **Two more batches from this same scan are still coming: Doughs/Emulsions/Mayo/Pesto, and Sweets.** **Four new condensed technique entries** added to the Techniques quick index, continuing from [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula): **[§T85](#t85-cooking-onions--blond-browned-caramelized) Cooking Onions — Blond, Browned, Caramelized** (cross-references [§8.39 Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)'s existing "blond" explanation and [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar)'s browned-onion base; names a Caramelized Onion Tart, a Chicken with Lentil Rice, and a Chicken with Sweet Onion Soup, none yet in this cookbook), **[§T86](#t86-three-ways-to-cook-grains-and-quinoa) Three Ways to Cook Grains (and Quinoa)** (the source's steam method plus its hand-illustrated grain:water ratio chart — read as closely as the cup icons allow and flagged where a ratio runs low against convention, especially polenta), **[§T87](#t87-stock--saving-scraps-for-the-pot) Stock — Saving Scraps for the Pot** (the chapter intro behind [§8.40](#840-chicken-stock)), and **[§T88](#t88-braise--the-six-step-method) Braise — The Six-Step Method** (condensed from the source's illustrated Salt/Brown/Build/Boil/Simmer/Serve diagram; cross-references rather than duplicates [§T32 How to Use Heat](#t32-how-to-use-heat)'s braising-temperature row and this cookbook's existing braises). **Three full vegetable recipes** added to [§5 Vegetables & Sides](#5-vegetables--sides), continuing after [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw): **[§5.54](#554-sauté-snap-peas-with-chilies-and-mint) Sauté: Snap Peas with Chilies and Mint**, **[§5.55](#555-steamy-sauté-garlicky-green-beans) Steamy Sauté: Garlicky Green Beans** (classic French and Indian variations — **distinct from [§5.1 Green Beans](#51-green-beans)** and **[§5.36 Lemon Green Beans](#536-lemon-green-beans)**, both kept), and **[§5.56](#556-cherry-tomato-confit) Cherry Tomato Confit** (Confit Large Tomatoes and Artichoke Confit variations folded in — no existing tomato confit in this cookbook). **One stock recipe** added as **[§8.40](#840-chicken-stock) Chicken Stock** (Beef Stock variation), unblocking the "Chicken Stock, page 271" citation [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) has carried since an earlier batch — kept alongside, not replacing, [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) and [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood). **Confirmed already present, not re-added:** [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), encountered again in this batch's page range — already fully written up from an earlier batch, skipped here. **Five full mains** added to [§7 Mains & Proteins](#7-mains--proteins), continuing after [§7.124 Poulet de France](#7124-poulet-de-france): **[§7.125](#7125-beer-battered-fish) Beer-Battered Fish** (Fritto Misto and Gluten-Free Batter variations; rated 🟡 Medium for real deep-frying technique risk), **[§7.126](#7126-chicken-with-vinegar) Chicken with Vinegar** (*Poulet au Vinaigre*; rated 🟡 Medium for a cream pan sauce that can break or over-reduce), **[§7.127](#7127-buttermilk-marinated-roast-chicken) Buttermilk-Marinated Roast Chicken** (rated 🟢 Easy — no step here can genuinely fail), and **[§7.128](#7128-glazed-five-spice-chicken) Glazed Five-Spice Chicken** (rated 🟡 Medium for a high-heat glaze that can scorch fast), and **[§7.129](#7129-pasta-alle-vongole) Pasta alle Vongole** (subtitled by the source itself "A Lesson in Layering Acid"; presented in the source as an illustrated comic-style page and transcribed here into this cookbook's normal bold-step format; rated 🟡 Medium for clam-timing and sauce-breaking risk; exact clam/pasta quantities weren't printed on the source's illustrated page, so this cookbook's own reasonable estimate is used and flagged in that entry's Open Questions). **The Persian Roast Chicken cross-reference retrofit, completed:** [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken)'s own Persian Roast Chicken variation (saffron tea stirred into yogurt in place of buttermilk) is exactly the dish [§5.49 Persian-ish Rice](#549-persian-ish-rice) (both its headnote pairing and its Fava Bean and Dill Rice variation) and [§4.155 Herbed Yogurt](#4155-herbed-yogurt) have been citing as "not yet in this cookbook" since earlier batches — all three are now updated to link to [§7.127](#7127-buttermilk-marinated-roast-chicken) instead. **Three more "not yet in this cookbook" cross-references closed the same way:** [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa) and [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s mentions of "Beer-Battered Fish" now link to [§7.125](#7125-beer-battered-fish); [§4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa) and [§4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa)'s mentions of "Glazed Five-Spice Chicken" now link to [§7.128](#7128-glazed-five-spice-chicken). [§7.128](#7128-glazed-five-spice-chicken) also cross-links its own two serving suggestions: [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) (already in this cookbook) and Steamed Jasmine Rice (not written up as its own recipe, but its ratio is now in [§T86](#t86-three-ways-to-cook-grains-and-quinoa)). **Jargon explained inline per Cody's standing request:** the blond/browned/caramelized onion stages at [§T85](#t85-cooking-onions--blond-browned-caramelized); Manila vs. littleneck clams (size and brininess) at [§7.129](#7129-pasta-alle-vongole); why pasta water helps finish a sauce (starch) at [§7.129](#7129-pasta-alle-vongole); the vodka-reduces-gluten trick and 365°F deep-frying sweet spot at [§7.125](#7125-beer-battered-fish); why an emulsified (boiled) stock is a flaw rather than a virtue, unlike most emulsions, at [§8.40](#840-chicken-stock); and the six-step braise shape at [§T88](#t88-braise--the-six-step-method), cross-referenced from [§7.126](#7126-chicken-with-vinegar) rather than re-explained. **Difficulty ratings used judgment per the task's own guidance** rather than defaulting to Easy: both roast chickens ([§7.127](#7127-buttermilk-marinated-roast-chicken)) that have no fail-prone step are 🟢 Easy, while the two that do — a cream reduction ([§7.126](#7126-chicken-with-vinegar)) and a high-heat sugar glaze ([§7.128](#7128-glazed-five-spice-chicken)) — are 🟡 Medium, matching this cookbook's established technique-risk test rather than the source's own recipe order. TOC, Difficulty & Time Index (sorted by prep+cook), and [§17 Meats & Cuts](#17-meats--cuts-reference-index) (new lines for chicken with vinegar, buttermilk/Persian roast chicken, five-spice chicken, chicken bones, and beef knuckle/marrow bones) all updated. All nine new full recipes' Nutrition blocks are estimated from ingredient lists and labeled as such; none print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md). |
@@ -815,6 +825,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T17 Raw Egg Soak (Deodorizing Seafood)](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) | 🟢 | 5 min | — | — | 15–20 min *(7–15 min soak)* |
 | [§4.58 Pimentón Butter](#458-pimentón-butter) | 🟢 | 5 min | — | — | 5 min |
 | [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.165 Red Meat Rub](#4165-red-meat-rub) | 🟢 | 5 min | — | — | 5 min |
+| [§4.171 Cool Smoke Injection](#4171-cool-smoke-injection) | 🟢 | 5 min | — | — | 5 min |
 | [§7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) *(Meathead)* | 🟢 | 5 min | — | **30–45 min** *(smoker, unattended)* | 1 hr 15 min *(+ 30 min fridge rest after seasoning)* |
 | [§4.128 Burger Glop](#4128-burger-glop) | 🟢 | 5 min | — | — | 5 min |
 | [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo) | 🟢 | 5 min | — | — | 5 min |
@@ -843,6 +855,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
 | [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.167 Smoked Butter](#4167-smoked-butter) | 🟢 | 10 min | — | **1 hr** *(smoker, unattended)* | 2 hr 15 min *(includes freezing beforehand and a 1 hr rest afterward)* |
+| [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) | 🟢 | 10 min | — | — | 10 min |
+| [§4.169 Cool Smoke Rub](#4169-cool-smoke-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) | 🟢 | 10 min | — | — | 2 hr 10 min *(includes a 2 hr rest to meld)* |
+| [§4.173 Lexington Dip #2](#4173-lexington-dip-2) | 🟢 | 10 min | — | — | 10 min |
 | [§7.107 Skinny Steaks](#7107-skinny-steaks) *(Meathead)* | 🟡 | 5 min | 5 min | — | 10 min *(+ 1–2 hr dry brine)* |
 | [§5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) *(Meathead)* | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
@@ -852,6 +869,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.101 Basic Brinerade](#4101-basic-brinerade) | 🟢 | 15 min | — | — | 15 min active *(+ brining time per §T37)* |
 | [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) | 🟢 | 15 min | — | — | 15 min |
 | [§4.112 Cajun Seasoning](#4112-cajun-seasoning) | 🟢 | 15 min | — | — | 15 min |
+| [§4.166 French Rub](#4166-french-rub) | 🟢 | 15 min | — | — | 15 min |
 | [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) | 🟢 | 15 min | — | **1–3 hr** *(citrus dehydrates, unattended)* | 1¼–3¼ hr |
 | [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **3–6 hr** *(smoker + dehydrate, unattended)* | 3¼–6¼ hr |
 | [§4.124 Tartar Sauce](#4124-tartar-sauce) | 🟢 | 15 min | — | — | 15 min active *(+ 2 hr chill)* |
@@ -1057,6 +1075,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§4.121 Texas Mop Sauce](#4121-texas-mop-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§4.170 Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) | 🟡 | 10 min | 20 min | — | 30 min *(better after resting overnight)* |
 | [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) *(Meathead)* | 🟢 | 20 min | 10 min | — | 45 min |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
@@ -8230,7 +8249,9 @@ Press onto fish fillets right before grilling or searing, per [§T38](#t38-rubs-
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. **Distinct from [§4.27 Cajun Rub](#427-cajun-rub)**, the existing Louisiana-Kitchen-sourced version — this one leans on celery seed, caraway, mace, and allspice for a different, more aromatic profile than the classic paprika-cayenne blend.
 
-**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
+> **Also printed, word for word, in Meathead Goldwyn's second book.** While transcribing the 2026-09-06 *Rubs and Spice Blends* batch from ***The Meathead Method*** (a different book by the same author — see [§13](#13-meathead-cookbook)), this exact ingredient list and method turned up again on that book's own p. 166–167, under the same "Cajun Seasoning" name. Rather than add a duplicate entry, that finding is noted here: **this recipe is reused, unchanged, across both of Goldwyn's books.**
+
+**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) · [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)
 
 **No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt separately, and season this blend on top of that.
 
@@ -11399,6 +11420,507 @@ Refrigerate, covered, for up to 5 days, or freeze for up to 3 months.
 
 ---
 
+### 4.165 Red Meat Rub
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (p. 166). **This is a different book from *Meathead: The Science of Great Barbecue and Grilling***, the one already extensively used at [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and throughout this cookbook — same author, two distinct books; see the note at [§13](#13-meathead-cookbook) for how the two are told apart going forward.
+
+**Techniques used:** [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) · [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) *(the earlier book's parallel Three S's framework)*
+
+The book's own intro leans on Texas "Dalmatian rub" — salt and pepper only — as the standby before amping it up for competition use. **Compare [§4.105 Dalmatian Rub](#4105-dalmatian-rub)**, the plain version already in this cookbook, and **[§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub)**, an unrelated red-meat rub from the earlier book with a completely different ingredient set (no rosemary, no coffee) — all three kept side by side rather than merged.
+
+**No salt in this rub — per the book's own argument, not an oversight.** This book's own "No Salt in My Rub Recipes" reasoning ([§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)) applies here: salt separately, via a brine or dry brine, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 1 Tbsp dried rosemary leaves
+- 3 Tbsp medium-grind black pepper
+- 1 Tbsp smoked mild paprika
+- 2 tsp ground ancho chiles
+- 1 tsp ground chipotle chiles
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1 tsp instant coffee
+- 1 tsp dark brown sugar
+- ½ tsp baking soda
+
+#### B. Cooking Instructions
+
+**1. Grind the rosemary.**
+Grind the dried rosemary leaves into a coarse powder — a spice grinder, mortar and pestle, or the back of a knife on a cutting board all work. Left whole, the leaves are sharp and woody.
+
+**2. Mix everything.**
+In a bowl, stir the ground rosemary together with the rest of the ingredients until evenly blended. Store in a tightly sealed jar, away from light. **Use fresh ingredients** — the source specifically warns that a batch made from a stale spice cabinet "sucked." The baking soda is deliberate, not a typo — it raises the surface pH and helps crust formation, the sugar-adjacent logic [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) covers.
+
+**3. Dry brine first, then apply the rub.**
+Salt the meat separately at least 1 hour ahead (see the warning above). Just before cooking, pat the surface with wet hands or a wet paper towel so the rub sticks, then apply about ½ tsp of rub per 4×6 inches of surface. **Reverse sear** ([§T41](#t41-reverse-sear--two-stage-cooking)) is the book's own recommended finish for anything wearing this rub.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dried rosemary leaves — 1 Tbsp
+- 🛒 Black pepper, medium-grind — 3 Tbsp
+- 🛒 Smoked mild paprika — 1 Tbsp
+- 🛒 Ground ancho chiles — 2 tsp
+- 🛒 Ground chipotle chiles — 1 tsp
+- 🛒 Garlic powder — 1 tsp
+- 🛒 Onion powder — 1 tsp
+- 🛒 Instant coffee — 1 tsp
+- 🛒 Dark brown sugar — 1 tsp
+- 🛒 Baking soda — ½ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ¼ cup)* | ~85 | 1.5 g | 3 g | 18 g | 6 g |
+| **Per serving** *(½ tsp, per 4×6 in of surface)* | ~3 | <0.1 g | 0.1 g | 0.6 g | 0.2 g |
+
+**What a serving is:** about ½ tsp pressed onto every 4×6-inch patch of meat surface — this rub coats, it doesn't measure into "servings" the way a sauce does.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.166 French Rub
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (p. 167). An easy, all-purpose herb-centric mix for white meats — chicken, turkey, pork, veal — and vegetables, also used in bread stuffing and meatloaf. **This is a homemade replica of commercial "Poultry Seasoning,"** per the source's own framing — sage is the dominant note in nearly every store-bought version, and this recipe follows suit while staying adjustable. Cross-checked against every rub already in this cookbook — **no existing entry matches this ingredient set**, so it's added as new.
+
+Elsewhere in this same book, the source cites this rub by name in its own Pastalaya, Paris Chicken, Real Fried Chicken on a Gas Grill, and Mary's Meatballs — none of which are yet transcribed into this cookbook, so those four are noted as forward references rather than linked.
+
+**Techniques used:** [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)
+
+**No salt in this rub — per the book's own argument, not an oversight.** Salt separately, via a brine or dry brine, and season this rub on top of that.
+
+> **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 3 Tbsp rubbed sage
+- 1 Tbsp dried rosemary
+- 1 tsp celery seeds
+- 2 Tbsp dried thyme
+- 1 Tbsp dried marjoram
+- 1 Tbsp medium-grind black pepper
+- ¼ tsp ground cloves
+
+#### B. Cooking Instructions
+
+**1. Crush the sage, rosemary, and celery seeds fine.**
+If you can only get whole sage leaves rather than rubbed (pre-crumbled) sage, finely crumble them by hand. Crush the rosemary and celery seeds fine too — a mortar and pestle or the back of a spoon against a cutting board both work.
+
+**2. Mix everything and store.**
+Combine all the ingredients and store in a tightly sealed glass bottle, away from light.
+
+**3. Dry brine first, then apply the rub.**
+Salt the meat separately at least 1 hour ahead (see the warning above). Just before cooking, pat the surface with a wet paper towel or wet hands to help the rub stick, then apply about ½ tsp per 4×6 inches of surface.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Rubbed sage — 3 Tbsp
+- 🛒 Dried rosemary — 1 Tbsp
+- 🛒 Celery seeds — 1 tsp
+- 🛒 Dried thyme — 2 Tbsp
+- 🛒 Dried marjoram — 1 Tbsp
+- 🛒 Black pepper, medium-grind — 1 Tbsp
+- 🛒 Ground cloves — ¼ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(½ cup, enough for 4 chickens)* | ~110 | 3 g | 3 g | 20 g | 9 g |
+| **Per serving** *(½ tsp, per 4×6 in of surface)* | ~1 | <0.1 g | <0.1 g | 0.3 g | 0.1 g |
+
+**What a serving is:** about ½ tsp pressed onto every 4×6-inch patch of meat or vegetable surface.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.167 Smoked Butter
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method***, near its "wrap and roll" compound-butter technique. A simple technique-recipe rather than a seasoning blend — plain butter, cold-smoked to pick up flavor, then rolled into a log for slicing. **No existing Smoked Butter or comparable smoked compound butter is in this cookbook** — distinct from [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter), which is herb-and-garlic-flavored rather than smoked.
+
+**Techniques used:** [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook 1 hr** *(smoker, unattended)* · **Start to finish ~2 hr 15 min** *(includes freezing the butter beforehand and a 1 hr rest afterward to soften it for rolling)*
+
+#### A. Ingredients
+
+- 1 stick (4 oz) unsalted butter
+
+#### B. Cooking Instructions
+
+**1. Cut and freeze the butter.**
+Cut the stick into 4 pieces and freeze until solid. Cold surfaces attract more smoke than room-temperature ones, which is the whole point of starting frozen.
+
+**2. Smoke it.**
+Put the frozen butter in a shallow pan or bowl on the smoker, or on the indirect side of a grill. Generate heavy white smoke and hold the temperature at about 225°F for 1 hour.
+
+**3. Let it soften, then roll it into a log.**
+Take the butter off the heat and let it sit at room temperature for about 1 hour, or until it can be worked like clay. Scrape it all together and roll it into a log about 1 inch thick, wrap it, and refrigerate.
+
+**4. Use it.**
+Slice off what you need. Good melted plain over a steak, or worked into a hollandaise or béarnaise sauce for a smoky variation on either.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 1 stick (4 oz)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 stick, 4 oz)* | ~810 | 92 g | 1 g | 0 g | 0 g |
+| **Per serving** *(1 Tbsp)* | ~100 | 11 g | 0.1 g | 0 g | 0 g |
+
+**What a serving is:** 1 Tbsp, sliced off the log — the same portion you'd use for any pat of butter.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.168 Cool Smoke Chili Powder
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" chapter (p. 249), one of four named components behind **Tuffy "The Professor" Stone's Championship Pork Butt** (Cool Smoke BBQ Team; BBQ Hall of Famer; co-host of *BBQ Pitmasters*). **Only this component recipe is added here, per this batch's rubs/sauces scope** — the full multi-stage pork butt cook it belongs to is a Pork-chapter dish, left for a future pass through this book's Pork chapter.
+
+**No bolded no-salt warning here, though this blend has no salt.** Unlike [§4.165](#4165-red-meat-rub) and [§4.166](#4166-french-rub), it isn't applied to meat directly as a finishing rub — it's a base blend folded into [§4.169 Cool Smoke Rub](#4169-cool-smoke-rub) (which does carry salt) and [§4.170 Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce). Same reasoning already applied to [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder): a component ingredient, not a rub in its own right.
+
+> **About granulated garlic and onion:** coarser than powder, closer in size to sand. If substituting the powdered form, use about ⅔ the amount called for here.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1 cup smoked mild paprika
+- 5 Tbsp + 1 tsp dried Greek oregano
+- 3 Tbsp + 1 tsp ground cumin
+- 3 Tbsp + 1 tsp granulated garlic
+- 3 Tbsp + 1 tsp powdered cayenne pepper
+- 2 Tbsp granulated onion
+
+#### B. Cooking Instructions
+
+**1. Mix everything in a bowl.**
+Combine all the ingredients and stir until evenly blended. Store in a clean, airtight jar — this can be made well ahead of when you need it.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Smoked mild paprika — 1 cup
+- 🛒 Dried Greek oregano — 5 Tbsp + 1 tsp
+- 🛒 Ground cumin — 3 Tbsp + 1 tsp
+- 🛒 Granulated garlic — 3 Tbsp + 1 tsp
+- 🛒 Powdered cayenne pepper — 3 Tbsp + 1 tsp
+- 🛒 Granulated onion — 2 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a generous 2 cups)* | ~610 | 27 g | 24 g | 100 g | 45 g |
+| **Per serving** *(1 Tbsp, as folded into a rub or sauce)* | ~20 | 0.8 g | 0.8 g | 3 g | 1.4 g |
+
+**What a serving is:** 1 Tbsp — this blend isn't eaten on its own; it's a building block for §4.169 and §4.170.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.169 Cool Smoke Rub
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" chapter (p. 249), the second of Tuffy Stone's four Championship Pork Butt components. **Carries salt as printed — no bolded warning needed.**
+
+**Techniques used:** [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- ¼ cup [Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) *(§4.168, above)*
+- ½ cup turbinado sugar
+- ¼ cup + 2 Tbsp Morton Coarse Kosher Salt
+- 2 Tbsp + 2 tsp ground cumin
+- 1 tsp cayenne pepper
+- 1 Tbsp + 1 tsp cracked black pepper
+- 1 Tbsp + 1 tsp granulated garlic
+- 1 Tbsp + 1 tsp granulated onion
+
+#### B. Cooking Instructions
+
+**1. Mix everything in a bowl.**
+Combine all the ingredients, including a batch of [Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder), and stir until evenly blended. Store in a clean, airtight jar — can be made well ahead.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Turbinado sugar — ½ cup
+- 🛒 Morton Coarse Kosher Salt — ¼ cup + 2 Tbsp
+- 🛒 Ground cumin — 2 Tbsp + 2 tsp
+- 🛒 Cayenne pepper — 1 tsp
+- 🛒 Cracked black pepper — 1 Tbsp + 1 tsp
+- 🛒 Granulated garlic — 1 Tbsp + 1 tsp
+- 🛒 Granulated onion — 1 Tbsp + 1 tsp
+- *(plus a batch of [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder))*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a generous 1½ cups)* | ~490 | 4 g | 8 g | 116 g | 5 g |
+| **Per serving** *(1 Tbsp, per 1–2 lb of meat)* | ~15 | 0.1 g | 0.2 g | 3.5 g | 0.2 g |
+
+**What a serving is:** about 1 Tbsp per 1–2 lb of pork butt — a heavier competition-style coating, applied generously rather than dusted on.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.170 Cool Smoke Barbecue Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" chapter (p. 250), the third of Tuffy Stone's four Championship Pork Butt components. **Carries salt as printed.**
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+> **Why Medium, not Easy:** the source's own method calls for *"stirring constantly"* for a full 20 minutes as the sauce thickens — a ketchup-and-brown-sugar base like this one scorches fast once it starts to catch on the bottom of the pot, and 20 minutes is a long stretch to hold that attention. Unlike this cookbook's other simmer-and-thicken barbecue sauces, this one genuinely calls for standing over it the whole time, so it's rated 🟡 Medium per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test.
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~20 min** *(constant stirring — this is the part that can scorch)* · **Start to finish ~30 min** *(better after resting overnight, per the source)*
+
+#### A. Ingredients
+
+- 3 cups ketchup
+- 1 cup packed dark brown sugar
+- ¾ cup distilled white vinegar
+- ¾ cup water
+- ¼ cup molasses
+- ¼ cup apple cider vinegar
+- 3 Tbsp Worcestershire sauce
+- 2 Tbsp smoked mild paprika
+- 1 Tbsp [Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) *(§4.168, above)*
+- 2 tsp ground cumin
+- 2 tsp granulated onion
+- 2 tsp granulated garlic
+- 2 tsp cayenne pepper flakes
+- 1½ tsp fine-grind black pepper
+- ½ tsp Morton Coarse Kosher Salt
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together.**
+In a 4-quart saucepan, whisk together all the ingredients until smooth.
+
+**2. Simmer, stirring constantly, until thickened.**
+Bring to a simmer over medium heat and cook, stirring constantly, until the sauce thickens, about 20 minutes. This is the step that can go wrong — a sugar-heavy sauce like this catches and scorches fast on the bottom of the pot the moment you stop stirring or the heat runs a little high. Keep the heat moderate and don't walk away.
+
+**3. Cool and store.**
+Set aside to cool completely. Transfer to a very clean, airtight container and refrigerate until ready to use, up to 2 weeks. The sauce is best if it sits overnight before serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ketchup — 3 cups
+- 🛒 Dark brown sugar — 1 cup
+- 🛒 Distilled white vinegar — ¾ cup
+- 🛒 Molasses — ¼ cup
+- 🛒 Apple cider vinegar — ¼ cup
+- 🛒 Worcestershire sauce — 3 Tbsp
+- 🛒 Smoked mild paprika — 2 Tbsp
+- 🛒 Ground cumin — 2 tsp
+- 🛒 Granulated onion — 2 tsp
+- 🛒 Granulated garlic — 2 tsp
+- 🛒 Cayenne pepper flakes — 2 tsp
+- 🛒 Black pepper, fine-grind — 1½ tsp
+- 🛒 Morton Coarse Kosher Salt — ½ tsp
+- *(plus a batch of [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder))*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 quart)* | ~1,750 | 5 g | 16 g | 425 g | 10 g |
+| **Per serving** *(1 Tbsp)* | ~27 | 0.1 g | 0.2 g | 6.6 g | 0.2 g |
+
+**What a serving is:** 1 Tbsp, brushed on as a finishing sauce or served on the side.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.171 Cool Smoke Injection
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" chapter (p. 250), the fourth of Tuffy Stone's four Championship Pork Butt components. **The source's own recipe title is simply "Cool Smoke Injection"** — not "Cool Smoke Pork Injection" as this batch's early content scan guessed; noted here in case that alternate name gets searched for.
+
+**No bolded no-salt warning here** — it has no salt, but per Cody's standing instruction the warning is only for dry rubs applied to the meat's surface, not injections, sauces, or butters.
+
+> **About the Butcher BBQ Pork Injection:** a specialty commercial competition-BBQ product, used the way many top competitors amplify flavor and help meat retain juice. Order online, or substitute low-sodium chicken stock — it won't add quite the same flavor boost, but it won't ruin the meat either.
+>
+> **About the xanthan gum:** a soluble fiber powder used as a thickener and stabilizer, made by fermenting sugar with the bacteria *Xanthomonas campestris*.
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 1½ cups apple juice
+- 3 Tbsp dark brown sugar
+- ⅓ cup Butcher BBQ Pork Injection *(see note above for a substitute)*
+- ¼ tsp xanthan gum
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together.**
+Thoroughly whisk all the ingredients together in a bowl until the xanthan gum is fully dissolved with no clumps. Keeps refrigerated for up to 5 days.
+
+**Safety note, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes):** injecting drives any surface contaminants deep into the meat, so this is meant for cuts headed to a fully-cooked interior temperature, not anything served rare.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Apple juice — 1½ cups
+- 🛒 Dark brown sugar — 3 Tbsp
+- 🛒 Xanthan gum — ¼ tsp
+
+**🏪 Specific store — specialty/online**
+
+- 🏪 Butcher BBQ Pork Injection — ⅓ cup *(competition BBQ supply shop or online — low-sodium chicken stock substitutes fine per the source, just without quite the same flavor boost)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a generous 2 cups)* | ~280 | 0 g | 1 g | 68 g | 0.5 g |
+| **Retained per pound of meat injected** *(~1 Tbsp)* | ~9 | 0 g | <0.1 g | 2 g | 0 g |
+
+**What a serving is:** injected liquid — the per-pound figure is roughly what stays inside the meat, not the whole batch.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.172 Alabama White Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (p. 183–184). A mayonnaise-based Alabama-style barbecue sauce — associated with the tradition of butterflying whole chickens and dunking them straight into a vat of the stuff. The source references its own linked whole-chicken recipe at AmazingRibs.com/mm, not among this book's photographed pages, so it's noted rather than linked here.
+
+> **Possible gap-filler, flagged for confirmation rather than assumed:** the earlier *Meathead: The Science of Great Barbecue and Grilling* batch (2026-09-05 changelog) flagged its own Alabama White Sauce as an unresolved gap — its ingredient list fell on pages 182–183 of *that* book, not among the pages photographed at the time. This recipe is transcribed from *The Meathead Method* instead — a different book, whose own page numbers only coincidentally land near the same range. **It may well be the same recipe reused across both books** (this book's [§4.166 French Rub](#4166-french-rub) and its identical [§4.112 Cajun Seasoning](#4112-cajun-seasoning) both confirm the author reprints his own recipes verbatim across books — see the note added to §4.112), but that's not confirmed here, so the original book's gap stays open rather than being marked resolved by this entry.
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~2 hr 10 min** *(includes a 2 hr rest to let the flavors meld)*
+
+#### A. Ingredients
+
+- ¾ cup full-fat mayonnaise
+- ⅓ cup apple cider vinegar
+- ¼ cup fresh lemon juice
+- ¼ cup apple juice
+- 1 Tbsp garlic powder
+- 1 Tbsp prepared white horseradish in vinegar
+- 1 Tbsp coarse-grind black pepper
+- 1 tsp mustard powder
+- ¼ tsp Morton Coarse Kosher Salt
+- ½ tsp cayenne pepper
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together.**
+In a large bowl, whisk together all the ingredients until smooth.
+
+**2. Rest to let the flavors meld.**
+Refrigerate in a jar for at least 2 hours before using.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Full-fat mayonnaise — ¾ cup
+- 🛒 Apple cider vinegar — ⅓ cup
+- 🛒 Fresh lemon juice — ¼ cup
+- 🛒 Apple juice — ¼ cup
+- 🛒 Garlic powder — 1 Tbsp
+- 🛒 Prepared white horseradish in vinegar — 1 Tbsp
+- 🛒 Black pepper, coarse-grind — 1 Tbsp
+- 🛒 Mustard powder — 1 tsp
+- 🛒 Morton Coarse Kosher Salt — ¼ tsp
+- 🛒 Cayenne pepper — ½ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1 quart, enough for 4+ chickens)* | ~1,150 | 120 g | 2 g | 20 g | 1 g |
+| **Per serving** *(1 Tbsp)* | ~36 | 3.8 g | 0.1 g | 0.6 g | <0.1 g |
+
+**What a serving is:** 1 Tbsp — used as both a dunking sauce and a basting mop.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.173 Lexington Dip #2
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (p. 184). **Explicitly labeled "#2" in the source itself** — a second, lower-sugar Carolina Piedmont-style vinegar dip, distinct from **[§4.120 Lexington Dip (West Carolina Barbecue Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce)**, already in this cookbook from the earlier Meathead book. The two share a family resemblance (vinegar-ketchup-brown sugar base, both from the same Piedmont "dip" tradition) but differ in real ways: this version uses apple cider vinegar rather than distilled white, adds a hit of smoky heat from canned chipotle adobo sauce, and drops the red pepper flakes entirely. The source itself frames it as the lower-sugar option — see [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)'s "For those wary of sugar" section, which names this exact recipe.
+
+**Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1 cup apple cider vinegar
+- ¼ cup apple juice
+- ¼ cup ketchup
+- 3 Tbsp light brown sugar
+- 1½ tsp Morton Coarse Kosher Salt
+- 1 tsp adobo sauce from canned chipotle in adobo sauce
+- 1 tsp medium-grind black pepper
+
+#### B. Cooking Instructions
+
+**1. Whisk everything together.**
+In a bowl, whisk together all the ingredients until smooth. **Use only the adobo sauce from the can, not the chipotle chiles themselves** — this recipe wants the tangy, smoky liquid, not the heat and texture of the whole pepper.
+
+**2. Split it in two before you cook.**
+Divide the sauce into two portions: one for frequent basting during the cook, and a separate, untouched portion held back for serving at the table. Never serve from a portion a basting brush dipped in raw meat has touched.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Apple cider vinegar — 1 cup
+- 🛒 Apple juice — ¼ cup
+- 🛒 Ketchup — ¼ cup
+- 🛒 Light brown sugar — 3 Tbsp
+- 🛒 Morton Coarse Kosher Salt — 1½ tsp
+- 🛒 Canned chipotle in adobo sauce — 1 tsp of the sauce
+- 🛒 Black pepper, medium-grind — 1 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1½ cups)* | ~190 | 0 g | 0.5 g | 46 g | 0.3 g |
+| **Per serving** *(1 Tbsp, as a mop or table splash)* | ~8 | 0 g | 0 g | 1.9 g | 0 g |
+
+**What a serving is:** 1 Tbsp on chopped or pulled pork — thin enough to soak in rather than coat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -11500,6 +12022,8 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T87](#t87-stock--saving-scraps-for-the-pot) | Stock — Saving Scraps for the Pot | `stock` `broth` `scraps` `freezer` `bones` `zero-waste` |
 | [T88](#t88-braise--the-six-step-method) | Braise — The Six-Step Method | `braise` `braising` `technique` `stew` `pot-roast` `dutch-oven` |
 | [T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) | Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion | `doughs` `baking-precision` `weigh-flour` `butter` `emulsion` `pie-dough` `flaky` |
+| [T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) | The Five S's of a Rub, Sugar Wariness, and No Salt (The Meathead Method) | `meathead` `meathead-method` `rub-blending` `five-ss` `sugar-glycemic-load` `no-salt-in-rubs` `dry-brine-timing` |
+| [T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method) | How to Use Rubs — Application Order, Storage, and Plastic Wrap (The Meathead Method) | `meathead` `meathead-method` `rub-application` `wet-vs-dry` `storage` `plastic-wrap-myth` `sous-vide-salt-timing` |
 
 ---
 
@@ -15773,6 +16297,70 @@ Butter is itself an emulsion — fat, water, and air held together — and the s
 **What's new here is the wider frame:** this isn't only a mayonnaise problem. Beurre blanc, a broken vinaigrette, chocolate ganache, and an over-churned ice cream base can all break the same way, for the same two reasons, and the same fix logic — start a fresh emulsion, then reincorporate the broken one slowly — applies across all of them, not mayonnaise alone.
 
 **Confirmed already documented, not a gap:** the source's own worked example of a butter-water emulsion used as a pasta sauce, **Pasta Cacio e Pepe**, is already in this cookbook — cross-referenced at [§T30](#t30-how-to-use-fat)'s "Butter sauce" paragraph, alongside [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce). Checked and confirmed rather than assumed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T90. The Five S's of a Rub, Sugar Wariness, and No Salt (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, rub-blending, five-ss, sugar-glycemic-load, no-salt-in-rubs, dry-brine-timing -->
+**Tags:** `meathead` · `meathead-method` · `rub-blending` · `five-ss` · `sugar-glycemic-load` · `no-salt-in-rubs` · `dry-brine-timing`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter. **A different book from [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s source**, *Meathead: The Science of Great Barbecue and Grilling* — same author, revisiting and expanding the same territory in his newer book. See [§13](#13-meathead-cookbook) for how this cookbook tells the two books apart going forward.
+**Used in:** [§4.165 Red Meat Rub](#4165-red-meat-rub), [§4.166 French Rub](#4166-french-rub), [§4.169 Cool Smoke Rub](#4169-cool-smoke-rub), [§4.173 Lexington Dip #2](#4173-lexington-dip-2), and every future rub sourced from this same book.
+
+#### The Five S's of a rub
+
+A good rub is like a good orchestra — a range of instruments playing in harmony. This book expands the earlier book's Three S's ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) into five:
+
+- **Spices and herbs.** Not all of them taste good on everything, but the spice rack is full of great flavors. Garlic and onion powder are common; mild paprika shows up in barbecue rubs mostly for color, not flavor.
+- **Spicy hot.** Hot pepper sensations add excitement, but go easy — not everyone likes it as hot as you do. Black pepper, hot chiles, ginger, horseradish, and mustard powder all bring heat in this sense.
+- **Savory.** The earthy, meaty, umami-laden flavors that come from glutamic acid — not the herb literally named "savory." Add something with glutamate, like Ac'cent, nutritional yeast, dried tomatoes, or powdered mushrooms, to bring this out.
+- **Sugar.** A flavor amplifier that also helps browning and crust formation, offsets bitterness and acidity, and is hygroscopic — it pulls moisture to the meat's surface, where it dissolves and melds with juices, fats, and protein into bark. The more the sugar cooks, the more its chemistry changes and the less sweetness survives.
+- **Salty.** Salt penetrates deep, amplifies flavor, hides bitterness, and helps meat retain moisture — but see "No salt in my rub recipes" below for why this book still leaves it out of the blend itself.
+
+#### For those wary of sugar
+
+Two tablespoons of the earlier book's all-purpose Meathead's Memphis Dust ([§4.108](#4108-meatheads-memphis-dust)) puts less than half that much sugar on a slab of ribs, and much of it scrapes or drips off during cooking — eating half a slab works out to roughly 1 teaspoon of sugar, a glycemic load (GL) of about 3, compared to about 11 for a slice of white bread. Even a classic sweet Kansas City-style sauce, applied as one light coat (about 5 Tbsp on a slab), adds only about 1½ teaspoons of sugar to half a slab — also a GL of about 3. Rub and sauce combined, that's a GL of about 6, roughly 54% of a slice of white bread's. **If that's still too much, [§4.173 Lexington Dip #2](#4173-lexington-dip-2) is the source's own answer** — a fun sauce with little to no added sugar.
+
+#### No salt in my rub recipes — the book's own argument
+
+Almost all commercial rubs have salt in them, sometimes half the blend by volume — expensive salt, since the more salt, the more profit for the maker. **Remember: you can always add salt, but you can't take it away.** A commercial salt-laden rub applied to something thin like ribs will have its salt reach the center in an hour or two, while the herbs and spices stay on the surface (they're too large a molecule to penetrate). But the same blend on an 8-pound pork shoulder can take eight or more hours to penetrate, and the salt concentration ends up much lower — a pork butt needs far more salt than ribs simply because there's more meat for it to reach.
+
+Because salt penetrates deep and herbs and spices cannot, the Meathead Method's rule is to **apply salt based on the meat's weight, and herbs/spices based on its surface area:**
+
+> **Dry brine with about ½ teaspoon of Morton Coarse Kosher Salt per pound of meat, hours before cooking. For herbs and spices, use about ½ teaspoon per 24 square inches** — that's the size of a 4×6-inch postcard, or a typical pork chop. You don't want it on so thick you can't see the meat.
+
+**Do this experiment:** buy a 6-inch piece of pork loin (not tenderloin) and cut it into two 3-inch lengths. Season one half with a variety of spices 24 hours ahead, no salt at all. Leave the other half completely bare. Cook both to 140°F. Cut a ¾-inch slice from the center of each half, wipe the cut surfaces with a wet paper towel to make sure the knife hasn't smeared surface spice onto the cut face, then serve the center-cut samples to a friend or two and ask if they can tell the difference. The book's own bet: they'll taste the same — proof that surface spices never make it to the interior of a thick piece of meat, no matter how long you wait.
+
+**This is the same underlying idea as this cookbook's existing [§T37 double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine-codys-standing-practice-heavy-every-time) and [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s "No Salt in Rubs" from the earlier book** — brine or dry-brine heavy, then leave salt out of whatever rub goes on top, so it's only ever counted once. **Every rub in this batch keeps the book's own printed salt amount, including zero, where the book prints zero** — see the 2026-09-06 changelog entry; Cody's standing "heavier salt" preference is specifically about brining, not about rub recipes, and does not apply to this batch either.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T91. How to Use Rubs — Application Order, Storage, and Plastic Wrap (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, rub-application, wet-vs-dry, storage, plastic-wrap-myth, sous-vide-salt-timing -->
+**Tags:** `meathead` · `meathead-method` · `rub-application` · `wet-vs-dry` · `storage` · `plastic-wrap-myth` · `sous-vide-salt-timing`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter, "How to Use Rubs." A different book from [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s source; see [§13](#13-meathead-cookbook).
+**Used in:** every rub in this batch, [§4.165](#4165-red-meat-rub) through [§4.169](#4169-cool-smoke-rub).
+
+**Store rubs in an airtight jar, in a cool dark place — not a plastic bag.** Most plastic bags breathe, and rubs contain oils that oxidize with air exposure.
+
+**Wet or dry application — a rub can go straight onto bare meat, or the meat can be moistened first** with a little water, mustard or ketchup (both mostly water), or oil or mayo (mostly oil) to help it stick. A mustard slather doesn't add real mustard flavor by the time it cooks off — the powder residue left behind is minuscule; sprinkle mustard powder directly on the meat instead if you actually want that flavor.
+
+**Herbs and spices dissolve better in water than in oil.** The source tested its two most popular rubs (a mostly-spice blend and a mostly-herb blend) side by side in oil and water for 30 minutes — both dissolved noticeably better in water, the same reason tea leaves infuse water so readily. Wetting your hands and patting the meat before sprinkling on the rub lets the spices melt into a flavorful slurry that becomes part of the bark as it dries and heats.
+
+**One hand sprinkles, the other hand rubs — never cross the two.** Keep one hand dedicated to the rub or spice jar, the other dedicated to touching the meat, so the jar and bag of rub never get contaminated by raw-meat-covered fingers.
+
+**After salting or rubbing, rest the food on a wire rack over a pan — skip the plastic wrap.** Plastic wrap does nothing to force salt or rub molecules into the meat; it isn't a pressure or vacuum system. All it actually does is stick to the rub and pull some of it back off when you remove the wrap, while trapped liquid underneath washes still more of it away. It also blocks some of the aromas that would otherwise bake into a desirable bark as the surface dries and heats.
+
+**Salt and rub timing around sous vide, specifically:** salt food before sous vide — the bath gives the salt plenty of time to penetrate. But hold off on a salty rub until *after* sous vide; the water bath will wash the herbs and spices mostly off, and if there's salt in the rub, the interior ends up too salty on top of what the salt already did during the bath.
+
+**Salt heavier on thick sections, lighter on thin ones** — the fat end of a turkey breast wants more salt than the tapering thin end, the same logic behind why an evenly-seasoned bird needs uneven salting.
+
+**Salt appears first on a commercial rub's ingredient label because labeling law requires ingredients to be listed by weight, and salt weighs far more than pepper, paprika, thyme, or any other spice** — first on the label doesn't necessarily mean most flavorful, just heaviest.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -35028,6 +35616,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-05 — the "Chicken and Turkey" chapter has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Five full recipes — **[§7.118](#7118-simon--garfunkel-chicken) through [§7.122](#7122-the-ultimate-smoked-turkey)** — plus six condensed technique entries, **[§T77](#t77-tips-on-cooking-poultry)–[§T82](#t82-how-to-carve-a-turkey)**, covering general poultry technique (reverse sear, breaking down/halving/spatchcocking a bird, roasting whole, rotisserie), the beer-can-chicken myth-bust, chicken wing anatomy, and three turkey-specific reference entries (choosing one, cooking do's-and-don'ts, and carving). **Three recipes skipped rather than guessed at, all for genuinely missing or cut-off source pages** — see the 2026-09-05 changelog entry for exactly what was cut off and where. **§13 remains a placeholder**, same reasoning as every update above — every *Meathead* recipe so far has had an obvious home elsewhere in this cookbook's structure. See the 2026-09-05 changelog entry for the full accounting.
 >
 > **Update, 2026-09-05 — the "Sides" chapter has now arrived, and it's the last chapter of this whole multi-batch project.** Nine full recipes — **[§5.40](#540-simple-grilled-crostini) through [§5.48](#548-boston-barbecue-beans)** — landed in [§5 Vegetables & Sides](#5-vegetables--sides) rather than here, same reasoning as every prior chapter: this cookbook organizes finished dishes by what they *are*, not by source book. One new condensed technique entry, **[§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)**, covers real balsamic vs. supermarket wine-vinegar imitations, used by [§5.41 Grilled Asparagus](#541-grilled-asparagus). **Two recipes skipped rather than guessed at, both for genuinely incomplete source photos** — a **Sweet and Sour Coleslaw** (book p. 362) whose dressing and slaw ingredient amounts are both cut off mid-line at the page's right margin, with no continuation page in the scan, and an untitled **polenta** recipe (book p. 360) that shows only mid-recipe grilling instructions with no title, headnote, or ingredient list anywhere in the photographed set — see the 2026-09-05 changelog entry for the full accounting of both. **§13 remains a placeholder** — it has stayed one through all six chapters of this project, since every *Meathead* recipe found an obvious home elsewhere in this cookbook's existing structure (§4 for standalone condiments, §5 for vegetable sides, §7 for mains, the T-section for technique). **This closes out the *Meathead* book itself** — Seafood, Pork, Beef, Ground Meats, Chicken & Turkey, and now Sides are all in. See the 2026-09-05 changelog entry for the full accounting.
+>
+> **Update, 2026-09-06 — a SECOND Meathead Goldwyn book has arrived: *The Meathead Method*, distinct from *Meathead: The Science of Great Barbecue and Grilling* documented in every update above.** Same author, a different, later book — a new 55-page photographed PDF, its own page numbering, its own chapters (Pork, Chicken/Turkey, Beef/Bison/Lamb, Vegetables, Seafood, Desserts, Rubs/Spice Blends, and a general "Using My Recipes" reference section). **Citation convention going forward:** this cookbook cites the earlier book as ***Meathead: The Science of Great Barbecue and Grilling*** and this new one as ***The Meathead Method*** — always spelled out in full and italicized, never just "Meathead's book," so the two are never ambiguous in a recipe's Transcribed-from line. **First batch from this new book: Rubs & Spice Blends**, landing in [§4](#4-rubs-seasonings-sauces--condiments) at **[§4.165](#4165-red-meat-rub) through [§4.173](#4173-lexington-dip-2)** — same "standalone condiments go to §4 regardless of source" reasoning as every update above — plus two new condensed technique entries, **[§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)–[§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method)**. **One genuine duplicate found, not re-added:** this new book's own "Cajun Seasoning" (p. 166–167) is word-for-word identical to the earlier book's **[§4.112 Cajun Seasoning](#4112-cajun-seasoning)**, already in this cookbook — noted at §4.112 rather than duplicated. **One recipe skipped as cut off** — **Kansas City Red**, a raspberry-jam barbecue sauce (p. 180) whose ingredient list is complete but whose actual mixing/cooking method is not: the page's visible text ends mid-sentence in an "About the Jam" note, physically obscured by a plate photographed on top of that part of the page, with no method text legible anywhere on the captured page. Per Cody's standing incomplete-source policy, not added. **§13 remains a placeholder for a whole *dish* from either book** — every recipe from both books so far has had an obvious home elsewhere in this cookbook's structure (§4 for condiments, §5/§7 for finished dishes, the T-section for technique). See the 2026-09-06 changelog entry for the full accounting, including exactly which rubs got the salt-free bolded warning and which didn't.
 
 [↑ Table of Contents](#table-of-contents)
 

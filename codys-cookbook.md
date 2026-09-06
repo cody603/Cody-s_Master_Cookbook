@@ -39816,7 +39816,7 @@ Combine, freeze, and scrape exactly as directed above — no lemon juice needed,
 
 ### 14.29 Roast It on a Bed of Fig Leaves
 
-Transcribed from a photographed page — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 406), the third of the source's "Four Things to Do with Fruit" — see **[§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation)** for the first (and this entry's shared headnote) and the note below on the second, which is skipped as incomplete.
+Transcribed from a photographed page — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 406), the third of the source's "Four Things to Do with Fruit" — see **[§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation)** for the first (and this entry's shared headnote) and **[§14.34 Poach It in Wine](#1434-poach-it-in-wine)** for the second, recovered by the 2026-09-06 page-order audit — see the note below.
 
 > ✅ **"Poach It in Wine," the source's second fruit method, has been RECOVERED and is now written up in full at [§14.34 Poach It in Wine](#1434-poach-it-in-wine)** *(2026-09-06 page-order audit)*. The original Sweets batch flagged it here as genuinely incomplete — only its finishing half (cooling, reducing the syrup, plating alternating slices, winter spices, serving suggestions) appeared to have survived. **The opening it was missing — the fruit, wine, sugar, lemon zest, and vanilla bean, with the source's own "for every 2 pounds of fruit" ratio — was in the scan all along**, at the bottom of book p. 405, on the very last page of the PDF file rather than next to the continuation on p. 406. The two halves are now joined; nothing was invented to close the gap.
 

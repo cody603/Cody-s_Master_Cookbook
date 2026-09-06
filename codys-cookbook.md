@@ -215,7 +215,7 @@ Click any recipe to jump straight to it.
 - [5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) ✅
 - [5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ✅ ❤️
 - [5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃 ○
-- [5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ○
+- [5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ✅ ⚠️ *(no printed serving count or bake time — see entry)*
 - [5.26 Pickled Okra](#526-pickled-okra) ✅
 - [5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) ✅ *(source title not photographed)*
 - [5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) ✅
@@ -377,6 +377,7 @@ Click any recipe to jump straight to it.
 - [7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) ✅ *(Meathead)*
 - [7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) ✅ *(Meathead)*
 - [7.123 Kufte Kebabs](#7123-kufte-kebabs) ✅ *(Salt, Fat, Acid, Heat; includes Moroccan Kofta and Turkish Köfte variations)*
+- [7.124 Poulet de France](#7124-poulet-de-france) ✅ ❤️ *(chicken and stuffing casserole; family recipe card, source title not visible in photo; crockpot doubled method is Cody's featured version, oven freezer-casserole method included as a variation)* ⚠️
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -528,6 +529,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Two unrelated family recipes added from personal recipe cards/photos: [§7.124 Poulet de France](#7124-poulet-de-france)** (a chicken-and-stuffing casserole — new section, appended after [§7.123 Kufte Kebabs](#7123-kufte-kebabs)) **and [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes)** (filling in an existing placeholder rather than creating a new section — the title and section number were already reserved in the Table of Contents). **[§7.124 Poulet de France]** is transcribed from a printed page of an unidentified community/church-style cookbook — **the source book's own title wasn't visible in the photo, so it's cited as "source cookbook title not visible in photo; family recipe card" rather than guessed** — with Cody's own handwritten red-ink adaptation notes in the margins. Per Cody: *"Add this stuffing - it's awesome. Family favorite."* **Two methods are documented, and the crockpot one is featured as primary** because it's the one the family actually uses: Cody doubles the printed single-batch recipe and assembles it directly in a 7-quart crockpot with **no freeze-first step** (confirmed with Cody — the printed card's own method freezes the assembled casserole before baking; his crockpot version skips that entirely and cooks straight away), run **on high 1 hr 20 min, then down to low for as long as he's out of the house — his own example is a church service — then back to high until the rest of the meal is ready.** The original single-batch oven method (assemble, cover, freeze, thaw overnight, bake covered 30 min at 325°F, then uncovered with cheddar for 10 more) is kept as a clearly labeled variation for anyone without a crockpot or making a smaller batch ahead. **Rated 🟢 Easy** — an assemble-and-cook casserole either way, no step that can genuinely fail, matching this cookbook's crockpot precedent ([§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans), [§8.1 Chili Mac](#81-chili-mac)). Its multi-hour crockpot stretch is filed entirely under **Slow cook**, not Cook, per [CLAUDE.md §3a](CLAUDE.md). **Two flags left in place rather than resolved by guessing:** the oven method's step-by-step wording was transcribed from an awkwardly rotated photo and is marked ⚠️ reconstructed, worth checking against the physical card; and the broth quantities on Cody's handwritten doubling notes are written across two different boxes on the card in a way that doesn't map cleanly onto which mixing step each addition belongs to — resolved here by doubling the printed recipe's own two broth additions separately (1¼ cups → 2½ cups for the stuffing, ¾ cup → 1½ cups for the egg-milk-soup sauce, totaling a clean 4 cups), noted explicitly in the entry rather than left ambiguous. Cranberry Tea and cooked frozen peas, both named on the card as serving suggestions, are flagged as pairings rather than invented as recipes. **No duplicate found** — this cookbook had no existing chicken-and-stuffing casserole before this entry. **[§5.25 Heather's Mashed Potatoes]** is transcribed from a handwritten card headed "From the Kitchen of: Joetta, To: Geviene" — that provenance is noted in the entry itself, distinct from the dish name Cody uses for it. A make-ahead mashed potato casserole (10 lb potatoes mashed with milk and butter, enriched with cream cheese and sour cream, topped with melted butter, baked at 300°F) that the card itself says "freezes well." **Rated 🟢 Easy**, same reasoning — nothing in an assemble-and-bake casserole can fail on you. **Two figures the card leaves blank are flagged rather than invented:** no serving count ("Serves:" left empty — estimated at 12–16, stated as an estimate) and no bake time (only the 300°F oven temperature is given — a 45–60 minute estimate is reasoned from baking already-cooked potatoes through at a low, gentle temperature, not copied from the card). Milk and butter amounts for the initial mashing step also aren't specified on the card and are flagged the same way. **No duplicate found** — this cookbook's only other potato-forward casseroles ([§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole), [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes)) are a sweet-potato holiday side and a cauliflower keto substitute respectively, both genuinely different dishes. Neither new recipe prints net carbs, so neither is tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Family Ratings Index (❤️ count now 56, adding [§7.124](#7124-poulet-de-france)) updated throughout. |
 | 2026-09-06 | **Four more recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and yesterday's first batch of actual recipe pages, [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)/[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing). **[§5.49 Persian-ish Rice](#549-persian-ish-rice)** (p. 285–287, two photographed pages combined into one continuous recipe) — parboiled basmati rice pan-fried over a yogurt-rice base to form *tahdig*, the crisp golden crust Persian cooking is built around; its four named variations (Bread *Tahdig*, Saffron Rice, Herbed Rice, Fava Bean and Dill Rice) folded in as callouts, matching the [§8.37](#837-chicken-and-garlic-soup) precedent. **Rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, unmolding the crust is a genuine can-go-wrong moment the source itself dwells on ("gather your courage... if for any reason your rice doesn't slip out in one piece, do what every Persian grandmother has done"), unlike this batch's other three, which are all 🟢 Easy. **[§7.123 Kufte Kebabs](#7123-kufte-kebabs)** (p. 356–357) — hand-formed torpedo-shaped ground lamb kebabs, grilled or pan-seared, with Moroccan Kofta and Turkish *Köfte* variations folded in the same way; kept distinct from this cookbook's existing Raichlen beef kebabs ([§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef)), which are cubed and skewered rather than hand-formed. **[§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola)** (p. 402–403) — a slow 300°F bake of oats, seeds, nuts, olive oil, and dark maple syrup, filed in Desserts to match the source's own "Sweets" placement. **[§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake)** (p. 412–413) — a two-layer oil cake built on puréed fresh ginger and molasses, using the "boiling water method" (a hot-liquid-into-oil mixing technique, sometimes called a hot-milk cake). **Same Vanilla Cream gap as [§14.21](#1421-loris-chocolate-midnight-cake), handled the same way:** this cake also calls for the source's own "Vanilla Cream (page 423)," not among the photographed pages for either cake — not invented here; the same whipped-cream/buttercream substitute noted at §14.21 is repeated at §14.23 rather than duplicated in full, and both entries cross-link to each other and flag the gap in Open Questions. **Three dead cross-references in [§5.49](#549-persian-ish-rice)/[§7.123](#7123-kufte-kebabs) — Slow-Roasted Salmon (p. 310), Persian Roast Chicken (p. 341), and Kuku Sabzi (p. 306) — are all noted as "not yet in this cookbook" rather than invented**, per this cookbook's standing honesty practice; Persian Herb Yogurt, Shaved Carrot Salad with Ginger and Lime, and Charmoula (all named in §7.123's own serving suggestions) get the same treatment. **Intermediate chef terminology explained in plain language throughout, per Cody's standing request:** *tahdig* and why Persian cooks prize it, *maman* (mother, per the source's own word choice), al dente as it applies to rice specifically (a firm core that finishes cooking later, not a fully tender grain), saffron tea (grinding saffron with salt, then blooming it in boiling water — explained in full at §5.49's Saffron Rice variation and cross-linked from §7.123 rather than re-explained there), why kneading kofta with warm hands helps (body heat softens the fat and binds the mixture), the dime-size pink doneness check for a kebab, the boiling-water/hot-milk-cake mixing method for the ginger cake, and old-fashioned rolled oats vs. quick oats for the granola. **Maillard reaction and caramelization, both named in the granola's own headnote, are cross-linked to the existing [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) rather than re-explained**, per this cookbook's practice of linking to standing content instead of duplicating it; molasses's own acidity (the ginger cake's baking-soda partner) is cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid)'s existing acid list rather than re-explained. **No duplicates found** — this cookbook had no existing Persian rice, kofta/kebab, granola, or ginger cake recipe before this batch (its existing kebabs are all cubed beef from a different book, cross-referenced above rather than confused for this one). None of the four print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-05 | **Five recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), which up to now only existed here as Cody's condensed, paraphrased distillations. These five are the first *actual recipe pages* transcribed from this source, with real quantities. **[§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)** (p. 332–333) — a whole chicken braised in stock with onion, carrot, celery, and a garlic bloom stirred in at the end; its two named variations, **Spring Garlic Soup** (green garlic in place of the 20 cloves) and ***Pho Gà*** (a Vietnamese chicken-noodle-soup build with charred onion/ginger, fish sauce, and star anise), plus its "add heartiness" and "turn into a main course" tips, are folded into the one entry as callouts rather than spun off into separate numbered recipes — matching this cookbook's existing precedent (e.g. [§14.20 Cream Caramel](#1420-cream-caramel)'s variation note) for keeping a source's own variations inline when they don't change the core method. Cross-referenced against [§1 Cody's Pho](#1-codys-pho) as a different chicken-based soup, not a conflicting version of the established beef pho. **[§8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup)** (p. 273) — egg whisked with Parmesan and parsley, poured into simmering stock in a thin stream. **Rated 🟡 Medium, the only one of the five not rated Easy** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, the source itself warns that pouring too fast or stirring too hard breaks the egg into "tiny, unappetizing bits" instead of the wide ribbons (*stracci*, "rags") the soup is named for, a real ruin-it risk the other four don't have. *(A stray, unrelated fragment at the top of this source photo — the tail end of a different, uncaptured recipe — was identified and left out rather than guessed at.)* **[§8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)** (p. 275–276) — corn cobs simmered into their own stock, then puréed with sautéed onion and corn into a silky soup; its general vegetable-soup formula and no-cook Chilled Cucumber and Yogurt Soup variation folded in the same way as §8.37's. **[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)** (p. 247) — **not a new dish so much as the recipe [§T29](#t29-how-to-salt) and [§T31 How to Use Acid](#t31-how-to-use-acid) were already teaching from in the abstract** (five sources of salt, four of acid, all in one dressing); both entries are now cross-linked forward to this full write-up instead of describing the technique with no recipe attached. **Two source gaps flagged rather than invented, per this cookbook's standing honesty practice:** §4.134 calls for the source's own "Basic Mayonnaise (page 375)" and a "Torn Croutons" garnish, neither of which was among the photographed pages — good store-bought mayonnaise (or this cookbook's own [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) and plain toasted croutons stand in, both flagged in an Open Questions section rather than silently substituted. **[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)** (p. 410–411) — an oil-based chocolate layer cake, cross-referenced to [§T30 How to Use Fat](#t30-how-to-use-fat)'s existing explanation of why oil (not butter) makes for a moister cake, and to [§T31 How to Use Acid](#t31-how-to-use-acid)'s note on baking soda needing an acid partner, to explain why this Dutch-process-cocoa recipe leans on coffee rather than the cocoa itself for that reaction. **The source's own "Vanilla Cream (page 423)" filling/frosting wasn't photographed and isn't invented here** — the cake layers are documented in full, with a whipped-cream or basic buttercream substitute noted and the gap flagged in Open Questions, ready to swap in the real thing once that page is available. **Intermediate chef terminology explained in plain language throughout, per Cody's explicit request**, rather than left as unglossed shorthand: *stracci*/why the egg forms ribbons instead of clumps (§8.38), **blond** as a stage of cooking onions — pale gold and translucent, not browned, a different use of the word than this cookbook's existing *blond roux* entries (§8.39), salt-packed vs. oil-packed anchovies and why the salt-packed kind get soaked and filleted by hand (§4.134), mortar-and-pestle technique for anchovies (§4.134), fine-mesh sieve straining (§8.39), immersion blender vs. countertop blender safety with hot soup — venting the lid, blending in batches, filling only halfway (§8.39), Dutch-process vs. natural cocoa and why it changes the baking soda reaction (§14.21), and oil cake vs. butter cake (§14.21). **Layering Salt is cross-referenced to [§T29](#t29-how-to-salt) rather than re-explained**, per Cody's own standing content already covering it. **None of the five print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists, labeled as such. **No duplicates found** — this cookbook's existing chicken soups ([§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.16](#816-cleansing-ginger-chicken-soup)) are both genuinely different recipes, and there was no existing Caesar dressing, corn soup, or chocolate cake recipe anywhere in the book before this batch — only the abstract Caesar-dressing teaching example in §T29/§T31, now linked forward. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-05 | **Sides chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — the sixth and final chapter of this multi-batch Meathead project. Nine full recipes and one condensed technique entry, plus two recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Nine full recipes added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.39 Fennel Fondant](#539-fennel-fondant): **[§5.40](#540-simple-grilled-crostini) Simple Grilled Crostini**, **[§5.41](#541-grilled-asparagus) Grilled Asparagus** (rub-and-shaved-Parmigiano, finished with real balsamic — **kept distinct from the existing [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)**, all from a different source), **[§5.42](#542-grilled-cauliflower) Grilled Cauliflower** (steaks and florets, reverse-seared — distinct from the still-undocumented [§5.6](#56-cauliflower) placeholder), **[§5.43](#543-the-ultimate-grilled-corn-on-the-cob) The Ultimate Grilled Corn on the Cob** (shucked and grilled with a tarragon butter — **kept distinct from the existing [§5.14 Grilled Corn](#514-grilled-corn)**, Raichlen's husk-on garlic-parsley-butter version; both kept, cross-referenced), **[§5.44](#544-chipotle-lime-corn-on-the-cob) Chipotle-Lime Corn on the Cob** (same technique, a chipotle-lime butter baste), **[§5.45](#545-grilled-romaine-salad) Grilled Romaine Salad** (lemon-basil dressing, blue cheese, candied pecans), **[§5.46](#546-fire-roasted-eggplant-baba-ghanoush) Fire-Roasted Eggplant Baba Ghanoush** (grilled rather than oven-roasted, with harissa and garam masala bloomed into the oil), **[§5.47](#547-smoked-potato-salad) Smoked Potato Salad** (par-boiled potatoes finished on the smoker before going into a classic mayo dressing), and **[§5.48](#548-boston-barbecue-beans) Boston Barbecue Beans** (navy beans cooked in a pan directly under a rack of smoking ribs so the drippings fall straight in — **kept distinct from the existing [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)/[§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira)**; all three kept, cross-referenced). **Rated 🟢 Easy across the board except [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, this one isn't a true hands-off slow cook: the source's own instructions call for occasional stirring and pan-rotation over 3 to 4 hours, and the beans can scorch on one side or dry out if left completely unattended — a real, if forgivable and recoverable, failure mode that the rest of this chapter's grilled vegetables simply don't have. [§5.47 Smoked Potato Salad](#547-smoked-potato-salad)'s 45-minute smoke is filed in the **Slow cook** column rather than Cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that smoker time is Slow cook "at any length," and [§5.48](#548-boston-barbecue-beans)'s 3–4 hour bean-and-rib smoke gets the same treatment. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every salt amount here is transcribed exactly as printed. **One new condensed technique entry, [§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)**, added to the Techniques quick index — real Aceto Balsamico Tradizionale (the Extra Vecchio and Affinato grades) versus supermarket "balsamic vinegar of Modena" (usually just sweetened, caramel-colored wine vinegar), and how to tell the difference by reading the back label rather than trusting the price or the front; used by [§5.41 Grilled Asparagus](#541-grilled-asparagus). **No separate general "Cooking Vegetables" technique entry was needed** — the existing [§T47 Cooking Vegetables and Fruits — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) (from the earlier Brines/Rubs/Sauces batch) already covers the science this chapter's recipes draw on, and no distinct new intro passage on the topic turned up in the photographed Sides pages. **Two recipes skipped rather than guessed at, both flagged in advance by Cody and confirmed genuinely incomplete:** **Sweet and Sour Coleslaw** (book p. 362) — its dressing ingredient list ("2 table...," "1 table...," "1 teasp...," and four more lines) and its slaw ingredient list ("1 pou... ca...," "1 larg...," "1 sm...," "½ b...," "Radi...") are both cut off mid-line at the page's right-hand margin, with no legible amounts for any line and no continuation page anywhere in the 54-page scan — this is the last Sides page photographed, so there's no page 363 to check; and an untitled **polenta** recipe (book p. 360) whose only visible content is mid-recipe grilling instructions (greasing an 8-inch pan, chilling the poured polenta overnight, cutting it into rectangles, grilling them, and a Parmigiano-Reggiano note) with no title, headnote, or ingredient list anywhere in the photographed set — book pp. 358–359, which would carry them, were not part of the scan (the photographed pages jump directly from 357 to 360). Both match Cody's own stated suspicions exactly. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §5 and the T-section, and that this closes out the book — Seafood, Pork, Beef, Ground Meats, Chicken & Turkey, and now Sides are all in. None of the nine recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the nine new recipes land at 10 min ([§5.40](#540-simple-grilled-crostini)), 20 min ([§5.41](#541-grilled-asparagus), next to [§5.14 Grilled Corn](#514-grilled-corn); [§5.47](#547-smoked-potato-salad) and [§5.48](#548-boston-barbecue-beans), both with their long cook time in the Slow cook column instead), 25 min ([§5.44](#544-chipotle-lime-corn-on-the-cob), [§5.45](#545-grilled-romaine-salad)), 35 min ([§5.46](#546-fire-roasted-eggplant-baba-ghanoush)), 40 min ([§5.42](#542-grilled-cauliflower)), and 45 min ([§5.43](#543-the-ultimate-grilled-corn-on-the-cob)). |
@@ -1091,6 +1093,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.11 Pecan Pie III](#1411-pecan-pie-iii) | 🟢 | 15 min | 50 min | — | 1 hr 5 min |
 | [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) | 🟢 | 10 min | 55 min | — | 1 hr 5 min |
 | [§7.123 Kufte Kebabs](#7123-kufte-kebabs) | 🟢 | 25 min | 8 min | — | 35 min |
+| [§7.124 Poulet de France](#7124-poulet-de-france) ❤️ | 🟢 | 35 min | — | **~3–3½ hr** *(crock pot)* | ~4 hr |
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
@@ -1134,6 +1137,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) | 🟡 | 20 min | 1 hr 50 min | — | 2 hr 10 min |
 | [§7.65 Crawfish Pie I](#765-crawfish-pie-i) | 🟡 | 25 min | 1 hr 45 min | **2½ hr** *("taree" — a long simmer, mostly unattended)* | 4 hr 40 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
+| [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ⚠️ | 🟢 | 30 min | 1 hr 25 min | — | 1 hr 55 min |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) | 🟢 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
@@ -1185,9 +1189,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
-### ❤️ Family favorites — 55
+### ❤️ Family favorites — 56
 
-**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)
+**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) · [§7.124 Poulet de France](#7124-poulet-de-france)
 
 **Smoked meats — the whole section:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak)
 
@@ -14706,7 +14710,77 @@ Shake the vinaigrette again and add it just before serving. Romaine holds up bet
 ---
 
 ### 5.25 Heather's Mashed Potatoes
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+
+Transcribed from a handwritten recipe card — headed "From the Kitchen of: Joetta, To: Geviene." That's the card's own provenance; Cody calls the finished dish **Heather's Mashed Potatoes**, and that's the name it carries here. A make-ahead mashed potato casserole — potatoes mashed with milk and butter, then enriched with cream cheese and sour cream, topped with melted butter, and baked. Card's own note: **"This freezes well!"**
+
+**Yield:** a big batch — 10 lb of potatoes splits across roughly two 9×13 casseroles; estimated to serve 12 to 16 as a side (not stated on the card — see Open Questions)
+
+**🟢 Easy** · **Prep ~30 min** *(peeling and cutting 10 lb of potatoes)* · **Cook ~1 hr 25 min** *(~25 min boiling the potatoes, then an estimated 45–60 min bake at 300°F — not printed on the card, see Open Questions)* · **Start to finish ~1 hr 55 min** *(plus optional freeze-ahead — see the card's own note below)*
+
+> ⚠️ **Two things the card leaves blank: serving count and bake time.** Only the 300°F oven temperature is printed — no "Serves," no "Time," and no minutes for the bake itself. The estimate above is reasoned from the dish, not copied from the card: 10 lb of already-cooked mashed potatoes just needs to heat through and set, and 300°F is a low, gentle reheat temperature, so 45–60 minutes is a sensible range rather than a fast hot-oven bake. Confirm against how the family actually times it — flagged again below in Open Questions.
+
+#### A. Ingredients
+
+- 10 lb potatoes, peeled and cut for boiling
+- Milk, for mashing — amount not specified on the card (see Open Questions)
+- Butter, for mashing — amount not specified on the card (see Open Questions)
+- 12 oz cream cheese, softened
+- 2 cups sour cream
+- 2 tsp salt
+- 4 tsp onion salt
+- ½ tsp pepper
+- ½ cup butter, melted (for the top)
+
+#### B. Cooking Instructions
+
+**1. Peel, boil, and mash the potatoes with milk and butter.**
+Peel and cut the 10 lb of potatoes into even chunks so they cook evenly. Boil in salted water until fork-tender, about 20–25 minutes, then drain well. Mash with milk and butter to your usual mashed-potato consistency — the card doesn't give exact amounts for either, so add them gradually and season as you go rather than following a fixed measure. *(See Open Questions.)*
+
+**2. Mix in the cream cheese, sour cream, and seasonings.**
+While the potatoes are still warm, stir in the softened cream cheese, sour cream, salt, onion salt, and pepper until smooth. Warm potatoes melt the cream cheese in evenly; cold potatoes will leave lumps.
+
+**3. Spread into casserole dish(es).**
+A batch this size — 10 lb of potatoes — runs to roughly two standard 9×13 casseroles rather than one. Split it across as many dishes as you need to keep the depth even, so it heats through consistently.
+
+**4. Pour melted butter over the top.**
+The ½ cup of melted butter goes over the surface just before baking — this is what browns and enriches the top as it bakes, rather than being stirred in.
+
+**5. Bake at 300°F. Estimated 45–60 minutes.**
+The card gives the temperature only. Bake until it's hot all the way through and the butter on top is bubbling gently at the edges — check the center with a spoon or thermometer rather than trusting a fixed clock, since oven and dish depth both move this around. *(See Open Questions.)*
+
+**6. Serve, or freeze ahead — the card's own note: "This freezes well!"**
+Cool completely before wrapping tightly and freezing, whether you freeze it unbaked (assembled through step 4, ready to bake) or fully baked and reheated later. The card doesn't say which way the family actually does it, or whether it goes into the oven frozen or thawed first — if frozen, thaw fully in the fridge before baking as above; if you bake it straight from frozen, expect to add meaningful extra time and check the center carefully before serving.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Potatoes — 10 lb
+- 🛒 Milk — for mashing, amount to taste
+- 🛒 Butter — for mashing, amount to taste, plus ½ cup melted for the top
+- 🛒 Cream cheese — 12 oz
+- 🛒 Sour cream — 2 cups
+- 🛒 Salt — 2 tsp
+- 🛒 Onion salt — 4 tsp
+- 🛒 Pepper — ½ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~7,500 | 400 g | 140 g | 830 g | 100 g |
+| **Per serving** *(serves 14, midpoint of an estimated 12–16)* | ~535 | 29 g | 10 g | 59 g | 7 g |
+
+**What a serving is:** a generous ¾ to 1 cup — one scoop from a 9×13 dish, since this batch splits across roughly two of them.
+
+**Doubly estimated, and said so on purpose:** the card gives no milk or butter amount for the mashing step, so this assumes a standard ratio (about 1 cup milk and 6 Tbsp butter per 5 lb of potatoes) on top of an already-estimated serving count. This is a rich, holiday-table side, not a light one — cream cheese, sour cream, and two separate additions of butter all land on the fat number.
+
+#### D. Open Questions
+
+- **No serving count is given.** The card's "Serves:" line was left blank. 12 to 16 is a reasoned estimate for 10 lb of potatoes split across two casseroles, not a printed figure.
+- **No bake time is given** — only "Oven Temp: 300°F." The 45–60 minute estimate above is reasoned from the dish (already-cooked potatoes at a low, gentle reheat temperature), not copied from the card.
+- **Milk and butter amounts for the mashing step aren't specified.** The card simply lists the potatoes as "cooked and mashed with milk and butter," assuming the cook already knows their own ratio. Use your usual mashed-potato measure, or the standard cited above.
+- **Frozen unbaked or frozen baked?** The card's "This freezes well!" doesn't say which stage freezes, or whether a frozen dish goes into the oven frozen or thawed. Worth confirming once the family's actual practice is known.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -25891,6 +25965,110 @@ Serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice) and Persian Herb Yog
 | **Per serving** *(serves 5, about 4–5 kebabs)* | ~360 | 29 g | 25 g | 3 g | 0 g |
 
 **What a serving is:** 4 to 5 kebabs — roughly the amount of meat in a chicken thigh, formed into torpedoes and grilled.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.124 Poulet de France
+
+Transcribed from a printed recipe page — **source cookbook title not visible in photo; family recipe card** — with Cody's own handwritten adaptation notes in the margins, doubling the recipe for a crockpot. Per Cody: **"Add this stuffing - it's awesome. Family favorite."** A chicken-and-stuffing casserole built in two layers — seasoned bread stuffing on the bottom and top, a mayo-bound chicken-and-vegetable filling in the middle, and an egg-milk-mushroom-soup sauce poured over everything before it cooks.
+
+> **Two versions, one recipe.** The printed card is a single-batch **oven method**, built as a freezer casserole — assembled, frozen, thawed overnight, then baked. Cody's own red-ink notes double every quantity and move the whole thing into a **7-quart crockpot**, cooked straight through with no freezing step at all — that's the version his family actually makes, and it's the one featured below. The original oven method is kept as a variation for anyone without a crockpot, or making a smaller batch ahead of time.
+
+**Yield:** the crockpot method (doubled) fills a 7-qt crockpot and serves about 16; the single-batch oven method makes 8 servings, per the card
+
+**🟢 Easy** · **Prep ~35 min** *(chopping the chicken, onion, chives, and celery; mixing the layers)* · **Slow cook ~3–3½ hr** *(crock pot — 1 hr 20 min on high, then low for as long as you're out, then back to high until heated through; Cody's own routine runs it through a church service)* · **Start to finish ~4 hr**, *depending on how long the "low" stretch runs*
+
+**❤️ Family favorite** — *Cody: "Add this stuffing — it's awesome. Family favorite."*
+
+> ⚠️ **The printed oven instructions below are reconstructed from a rotated photo — verify against the physical card if precision matters.** The ingredient list and Cody's own crockpot notes are clear; the oven method's step-by-step wording is a best-effort reading of an awkwardly angled page. **The source cookbook's own title wasn't visible in the photo either** — this is cited as a family recipe card, not a guessed title.
+
+#### A. Ingredients — Crockpot Method, Doubled (Cody's version)
+
+- 2 (12 oz) packages seasoned bread stuffing (about 12 cups)
+- 4 Tbsp margarine, melted
+- 4 cups chicken broth, divided — 2½ cups for the stuffing, 1½ cups for the sauce *(see the note below on how this splits)*
+- 6 cups cooked, chopped chicken
+- 1 cup finely chopped onion
+- 1 cup minced chives
+- 1 cup finely chopped celery
+- 1 cup light mayonnaise
+- 1½ tsp salt
+- 4 eggs
+- 3 cups milk
+- 2 (10¾ oz) cans condensed cream of mushroom soup
+- 1 cup grated mild cheddar cheese — **optional; Cody's note: "can leave off the cheese"**
+
+> **How the broth splits.** Cody's card doubles the printed recipe's two broth additions separately — 1¼ cups (stuffing-moistening) becomes 2½ cups, and ¾ cup (into the egg-milk-soup sauce) becomes 1½ cups. That's 4 cups total, a clean doubling of the original 2 cups — written below by function rather than by which box on the card each amount happened to land in.
+
+*For the single-batch oven variation's ingredients — exactly half of every amount above — see the variation note in Part B.*
+
+#### B. Cooking Instructions — Crockpot Method (Cody's featured version)
+
+**1. Chop and prep everything first.**
+Chop the onion, celery, and chives, and have your 6 cups of cooked chicken chopped and ready *(rotisserie chicken or your own poached/roasted chicken both work — this recipe assumes it's already cooked)*. Having everything ready before you start assembling keeps the layering step moving.
+
+**2. Mix the stuffing mixture.**
+In a large bowl, combine the stuffing, melted margarine, and 2½ cups of the chicken broth.
+
+**3. Mix the chicken mixture, separately.**
+In another bowl, combine the chopped chicken, onion, chives, celery, mayonnaise, and salt.
+
+**4. Layer it all into a 7-quart crockpot. No freezing — this method cooks straight away.**
+Spread half the stuffing mixture in the bottom of the crockpot. Spread the chicken mixture evenly over it. Cover with the remaining stuffing mixture. Unlike the oven method below, this version goes straight into the crockpot to cook — there's no freeze-and-thaw step.
+
+**5. Whisk the sauce and pour it over the top.**
+Whisk together the eggs, the remaining 1½ cups chicken broth, the milk, and the condensed cream of mushroom soup. Pour it evenly over the stuffing so it soaks down through the layers.
+
+**6. Cook on high 1 hour 20 minutes, then turn to low for as long as you're out.**
+This is Cody's own routine, in his words: *"Cook in my black crockpot on high for 1 hr + 20 min. on high, turn down to low before church, [leave it] until I get home from church, then turn on high until the rest of the food is done."* The high start gets it cooking; the low stretch holds it safely while you're away — for Cody, the length of a church service — without drying it out or overcooking it.
+
+**7. Turn back to high until it's hot through and the rest of the meal is ready.**
+Once you're back, bring it back up to high and hold it there until everything's heated through and whatever else you're serving alongside is done. If you're using the cheese, sprinkle it over the top during this last stretch so it has time to melt.
+
+**8. Serve.**
+Card's own serving suggestion: cooked frozen peas alongside, and Cranberry Tea *(not documented in this cookbook — a paired serving suggestion, not a recipe to invent)*. Cody can leave the cheese off entirely — it's optional either way.
+
+> **Variation — Original Oven-Baked Freezer Casserole (single batch, half the quantities above).**
+> ⚠️ *Reconstructed from a rotated photo — verify against the card.* In a medium bowl, mix 6 cups seasoned bread stuffing, 2 Tbsp melted margarine, and 1¼ cups of the chicken broth. In another bowl, mix 3 cups cooked chopped chicken, ½ cup chopped onion, ¼ cup minced chives, ½ cup chopped celery, ½ cup mayonnaise, and ¾ tsp salt. Spread half the stuffing mixture in a 13×9×2-inch baking dish treated with nonstick spray. Spread the chicken mixture over the stuffing, then cover with the remaining stuffing. Whisk together 2 eggs, the remaining ¾ cup chicken broth, 1½ cups milk, and 1 (10¾ oz) can condensed cream of mushroom soup, and pour evenly over the dish. **Cover with foil and freeze.** To serve, thaw overnight in the refrigerator. Bake covered in a preheated 325°F oven for 30 minutes, then remove the foil, sprinkle with ½ cup grated mild cheddar cheese, and bake uncovered for 10 more minutes. Makes 8 servings. Card's own note: *"This is a super dish to take to a potluck dinner."*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery** *(crockpot doubled version — halve everything for the single-batch oven variation)*
+
+- 🛒 Seasoned bread stuffing mix — 2 (12 oz) packages
+- 🛒 Margarine — 4 Tbsp
+- 🛒 Chicken broth — 4 cups
+- 🛒 Cooked, chopped chicken — 6 cups *(about 3–3½ lb — rotisserie chicken works well)*
+- 🛒 Onion — 1 cup chopped, about 1 large
+- 🛒 Fresh chives — enough for 1 cup minced
+- 🛒 Celery — 1 cup chopped, about 3–4 stalks
+- 🛒 Light mayonnaise — 1 cup
+- 🛒 Salt
+- 🛒 Eggs — 4
+- 🛒 Milk — 3 cups
+- 🛒 Condensed cream of mushroom soup — 2 (10¾ oz) cans
+- 🛒 Mild cheddar cheese, grated — 1 cup, optional
+- 🛒 Frozen peas, for serving
+- 🛒 Cranberry Tea, for serving *(not documented in this cookbook)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(crockpot, doubled, with cheese)* | ~7,300 | 335 g | 335 g | 610 g | 24 g |
+| **Per serving** *(serves 16)* | ~455 | 21 g | 21 g | 38 g | 1.5 g |
+
+**What a serving is:** about 1 to 1¼ cups — a generous potluck scoop from the crockpot, or one square from a 13×9×2 dish for the single-batch oven version (½ of the whole-dish figures above, serving 8).
+
+*Leaving off the cheese, per Cody's own note, trims roughly 30 g fat and 400 kcal off the whole dish. The chicken and the light mayonnaise carry most of the protein; the stuffing and the soup carry most of the carbs.*
+
+#### D. Open Questions
+
+- **Source cookbook title wasn't visible in the photo.** Cited here as a family recipe card rather than a guessed title — worth naming if the physical book ever turns up.
+- **The oven method's step-by-step instructions are reconstructed from a rotated photo.** The ingredient list and yield are clear; the exact wording of the printed directions is a best-effort reading, worth checking against the card itself.
+- **How long is "before church" to "home from church," really?** Cody's note names church as the specific stretch, but doesn't give it a fixed duration — the ~1.5–2 hr assumed in the badge above is a reasonable estimate for a service, not a printed number. Any stretch of low-heat holding works the same way.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -12214,6 +12214,251 @@ Any oil left over has been **contaminated by the needle**, so do not put it back
 
 ---
 
+### 4.177 Quick Pickles
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegetables" chapter (book p. 343–344). **A formula, not a fixed recipe** — everything is given in *parts*, so it scales to however much you want to put up. Filed in §4 alongside this cookbook's other jarred and cured condiments, [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) and [§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido).
+
+> 🔎 **Completed 2026-09-06 — the missing half has arrived.** The Vegetables & Seafood batch (2026-09-06 changelog) added everything through Step 2 ("Pack") and stopped there, because book p. 344 was not among the 55 photographed pages; the 2026-09-06 page-order audit confirmed p. 344 appeared at no index. **Cody has now photographed p. 344**, and Steps 3, 4, and 5 — the ones that actually make and pour the brine — are transcribed below. The recipe is complete; nothing here is inferred.
+
+> Per the source's own headnote: *"Need zing? In a hurry?"* Quick pickles can be ready in less than an hour. They perk up tuna salad, burgers, tacos, and salads with a topping of something bright and cleansing. **Quick pickles made from fruits and vegetables do not require the complex sterile canning process, but they must be refrigerated** — this is a refrigerator pickle, not a shelf-stable one. The author keeps a jar of thinly sliced pickled onions in the fridge and another of jalapeños, but the method works just as well on cucumbers, radishes, string beans, ginger, summer squash, carrots, asparagus, beets, and just about any fresh vegetable or fruit — he's even done it with crab apples purloined from a neighbor's tree. **Do not try to quick pickle meats.**
+
+**Techniques used:** [§T31 How to Use Acid](#t31-how-to-use-acid) *(macerating, scaled up into a jar)*
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~5 min** *(boiling the brine)* · **Start to finish ~25 min active** *(then about 1 hr to cool, and at least 24 hr in the fridge to age — thin items like onions can be eaten after an hour)*
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — you slice, you pack, you boil a brine for three minutes, you pour. The waiting is the method, not the difficulty.
+
+#### A. Ingredients
+
+**The formula — everything by parts, so it scales to any batch size:**
+
+- **1 part** vegetables or fruits
+- **1 part** distilled white vinegar
+- **1 part** water
+- **½ part** granulated white sugar
+- **½ teaspoon Morton Coarse Kosher Salt per ½ cup sugar** *(transcribed exactly as printed — the salt is pegged to the sugar, not to the vegetables)*
+
+**Optional add-ins:** garlic · dill · dill seeds · cardamom seeds (not pods) · cloves · mustard seeds · black pepper · coriander seeds · hot pepper flakes · bay leaf
+
+*A worked single-jar example, for scale: 1 cup sliced onion, 1 cup distilled white vinegar, 1 cup water, ½ cup sugar, ½ tsp Morton Coarse Kosher Salt.*
+
+> **About the vegetables.** Onion is the standard starting place, and just plain onion is all you need. But after that, try cucumber slices, jalapeño, carrot coins, radish coins.
+>
+> **About the vinegar.** The source prefers **distilled white vinegar**. Rice vinegar or white wine vinegar works nicely — rice vinegar is lower acidity, so use about **20% more** of it. Wine vinegar has a more distinctive flavor that you might love or hate. Cider vinegar works but has a strong flavor that sometimes dominates; ditto red wine vinegar, sherry vinegar, or balsamic. You can even use lemon or lime juice. There may be a recipe that benefits from those stronger flavors, but as a rule of thumb, plain old distilled white vinegar is the best bet.
+>
+> **About the sugar.** When you taste it, if the vinegar is too strong you can cut it with more water, or balance it with more sugar.
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Thoroughly wash the jars and lids, preferably in a dishwasher. Scrub the veggies or fruits well and slice them to about **⅛ inch thick** — though some things can be left whole.
+
+**2. Pack.**
+Pack the veggies or fruits into the jar(s), leaving at least **1 inch of headspace** at the top.
+
+**3. Make the brine. Boil at least 3 minutes.**
+In a saucepan or pot, combine the vinegar, water, sugar, salt, and any optional add-ins. Bring it to a boil and **boil for at least 3 minutes, stirring to dissolve the sugar and salt.** Don't shortcut the boil — undissolved sugar settles into a sludge at the bottom of the jar instead of sweetening the pickle.
+
+**4. Pour. Then cool about 1 hour.**
+Add the hot brine to the jar(s), making sure to cover the ingredients yet leaving about **½ inch of headspace**. Put on the lid, but **don't tighten it yet**. Bang the jar on the counter to bring the air bubbles to the top, *then* tighten the lid. Let it cool for about 1 hour.
+
+**5. Refrigerate. At least 24 hours is better.**
+Thin items like onions can be used within an hour, but the source usually moves them into the fridge for **at least 24 hours** to let the pickling liquid penetrate. Then serve on a salad or sandwich.
+
+> ⚠️ **These are refrigerator pickles, not canned goods.** The source is explicit that skipping the sterile canning process is the trade — so they live in the fridge, not the pantry. Same handling as this cookbook's [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) and [§5.26 Pickled Okra](#526-pickled-okra) cautions.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Vegetables or fruit to pickle — onion is the default; also cucumber, jalapeño, carrot, radish, string beans, ginger, summer squash, asparagus, beets
+- 🛒 Distilled white vinegar — equal in volume to the vegetables
+- 🛒 Granulated white sugar — half the volume of the vinegar
+- 🛒 Morton Coarse Kosher Salt — ½ tsp per ½ cup of sugar
+- 🛒 *Optional add-ins:* garlic, dill, dill seeds, cardamom seeds, cloves, mustard seeds, black pepper, coriander seeds, hot pepper flakes, bay leaf
+- 🛒 Canning jars with lids
+
+#### Nutrition *(estimated — and doubly so, since this is a formula rather than a fixed batch)*
+
+*Calculated on the worked single-jar example above (1 cup sliced onion, 1 cup vinegar, 1 cup water, ½ cup sugar, ½ tsp salt), and counting only what's actually eaten — the drained pickles plus the brine that clings to them, not the cup-plus of brine left in the jar.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole jar** *(drained pickles, about 1 cup)* | ~160 | 0 g | 2 g | 40 g | 2 g |
+| **Per serving** *(2 Tbsp drained, 8 servings per jar)* | ~20 | 0 g | 0.3 g | 5 g | 0.3 g |
+
+**What a serving is:** about 2 tablespoons of drained pickled onion — a forkful piled on a sandwich, a taco, or a salad, not a side dish you eat by the bowl. Because the sugar mostly stays behind in the brine, the eaten portion carries far less of it than the ingredient list suggests.
+
+#### D. Open Questions
+
+- **The source's own Best Chicken Burger Ever (book p. 292)**, which it names as the showcase for these pickled onions, isn't yet documented in this cookbook — named here rather than invented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.178 Kansas City Red
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (book p. 180, 182). A sweet Kansas City–style red barbecue sauce whose secret ingredient is **seedless red raspberry jam** — the author's own framing is that you'll know the raspberries are in there but can offer a prize to the guest who guesses what they are.
+
+> 🔎 **Completed 2026-09-06, and the title is now confirmed rather than inferred.** The Rubs & Spice Blends batch (2026-09-06 changelog) skipped this recipe as incomplete: the headnote and full ingredient list on book p. 180 were legible, but the method wasn't on that page. The page-order audit later corrected the diagnosis — nothing was obscured; the page's own "About the Jam" note simply runs to the last line, with the method continuing onto **p. 182**, which wasn't in the 55-page scan. **Cody has now photographed both pages.** The title **"KANSAS CITY RED"** is read straight off the printed title box, and the method below is transcribed word for word. Nothing is inferred.
+
+> **Distinct from [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce)** — that one is from the author's *earlier* book, *Meathead: The Science of Great Barbecue and Grilling*, it makes 6 cups from a ketchup-molasses-brown-sugar base with a sautéed onion and garlic bloom, and its own title is still an inference rather than a transcription. **This is the sauce that four of this cookbook's *Meathead Method* recipes have actually been calling for by name** — [§7.135](#7135-championship-brisket-and-burnt-ends), [§7.136](#7136-championship-pork-ribs), [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe), and [§7.141](#7141-championship-chicken) — all of which pointed at §4.117 as a stand-in and now point here instead.
+
+> Per the source: **liquid smoke is optional here, but it adds a nice dimension.** It's a dominant player in the flavor profiles of the most popular commercial barbecue sauces — without it, most people feel a barbecue sauce is missing something. Many commercial "smoked" meats (bacon, hams, jerkies, sausages) are made with liquid smoke; it appears on labels as *"natural smoke flavor."* Purists consider it an evil adulterant, **but it is simply smoke that has been gathered in a condenser and aged in barrels** — when smoke hits cold meat, it condenses on the cold meat in the same manner, so what's the big deal? The process is pretty much the same as the way they make whiskey. *"So if you know someone who derides liquid smoke, I authorize you to take away his bourbon."*
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety) · [§T90 The Five S's of a Rub](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~25 min** *(a bourbon reduction plus a 15 min simmer)* · **Start to finish ~30 min** *(as printed)*
+
+> ⚠️ **Why Medium, not Easy.** Everything after the first step is a forgiving low simmer — but Step 1 boils **½ cup of bourbon down to 2 or 3 tablespoons**, roughly an 85% reduction. That's a genuine walk-away-and-it's-gone window: overshoot it and the pan goes dry and scorches, and you start the step over with fresh bourbon. Per [CLAUDE.md §3a](CLAUDE.md), that's technique risk, not effort — the rest of the recipe is just whisking and waiting.
+
+#### A. Ingredients
+
+- ½ cup bourbon
+- 1 cup ketchup
+- ½ cup Smucker's Seedless Red Raspberry Jam
+- ¼ cup honey
+- ¼ cup apple cider vinegar
+- ½ teaspoon Tabasco Chipotle Sauce
+- ½ teaspoon garlic powder
+- ½ teaspoon ground ginger
+- ½ teaspoon Morton Coarse Kosher Salt
+- 2 tablespoons liquid smoke
+
+> **About the jam.** The source normally doesn't specify brands *"lest someone think I'm on the take"* — he calls for the Smucker's because it has a great natural flavor and should be easy to find. Use it to replicate the recipe as printed, but feel free to use another jam of your choice (**blueberry is nice**). **Go for something without skins and seeds.** Beware that another jam may be sweeter or less sweet than his choice, so you may want to start with less and add more to taste.
+>
+> **About the hot sauce.** The source uses **Tabasco Chipotle**. Use whatever you like, but **chipotle has an affinity for raspberry**.
+
+#### B. Cooking Instructions
+
+**1. Cook off the alcohol. Boil the bourbon down to 2 or 3 tablespoons.**
+In a saucepan, bring the bourbon to a boil. Continue to boil until you have only **2 to 3 tablespoons left** — this is the step that needs watching, since the pan goes from concentrated elixir to scorched in short order. The alcohol will be mostly gone so it is child safe, but what remains has a rich, woody, smoky flavor. **If you don't have bourbon, or don't want to do this step, use 2 more tablespoons of liquid smoke instead** and skip straight to Step 2.
+
+**2. Simmer the sauce. 15 minutes over low heat.**
+Add all the remaining ingredients to the same saucepan and whisk until smooth. Bring to a simmer over low heat and cook for **15 minutes**. Then sample it and adjust to your taste: **want more heat, reach for the hot sauce; want it sweeter, add sugar or more jam** — then simmer a few more minutes to bring it back together.
+
+**3. Store.**
+Pour the finished sauce into a very clean bottle and store it in the fridge, where it keeps **for months**.
+
+**Serving suggestions, per the source:** try it on [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) (book p. 245), BBQ Beans (book p. 345, not yet in this cookbook), beef jerky, grilled chicken, pork chops, French fries — *"whatever."*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bourbon — ½ cup
+- 🛒 Ketchup — 1 cup
+- 🛒 Smucker's Seedless Red Raspberry Jam — ½ cup *(or another seedless, skinless jam — blueberry is the source's own alternate)*
+- 🛒 Honey — ¼ cup
+- 🛒 Apple cider vinegar — ¼ cup
+- 🛒 Tabasco Chipotle Sauce — ½ tsp
+- 🛒 Garlic powder — ½ tsp
+- 🛒 Ground ginger — ½ tsp
+- 🛒 Morton Coarse Kosher Salt — ½ tsp
+- 🛒 Liquid smoke — 2 Tbsp *(4 Tbsp if you're skipping the bourbon)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups, as printed)* | ~960 | 0 g | 2 g | 237 g | 2 g |
+| **Per serving** *(2 Tbsp)* | ~60 | 0 g | 0.1 g | 15 g | 0.1 g |
+
+**What a serving is:** 2 tablespoons brushed onto meat — one coat's worth on a few ribs or a chicken thigh, not a bowl to dip in. Most of the bourbon's calories boil off in Step 1 and aren't counted here.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.179 Carolina Gold for Grownups
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (book p. 182–183). A South Carolina–style mustard barbecue sauce built well past the usual four-ingredient version — onion, bell pepper, garlic, rosemary, and thyme cooked down first, then a full cup of Dijon and a load of savory and sour built on top. **The name comes from a neighbor's reaction**: served it, Keith Miller said *"Wow, this is a mustard sauce for grownups!"* and it had a name.
+
+> 🔎 **Added 2026-09-06 from newly photographed pages.** This recipe sits directly beneath [§4.178 Kansas City Red](#4178-kansas-city-red)'s method on book p. 182 and runs across the gutter onto p. 183. Neither page was in the original 55-page scan, so the whole recipe was invisible until Cody photographed the spread. Transcribed complete — headnote, MAKES/TAKES, ingredient list, and all four numbered steps.
+
+> Per the source: South Carolina is known for its BBQ sauces made with mustard, especially in the belt between **Columbia and Charleston**. Most are simply yellow ballpark-style mustard, cider vinegar, hot peppers, and sugar; others are simple variations on the honey-mustard theme. He loves those classics — especially on pulled pork, and there's a winning recipe in his last book (this cookbook has it at [§4.118 Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce)) — but for *this* book he wanted something more interesting and complex. **Savory herb flavors are great with pork and mustard**, so he started with the classic SC barbecue mustard recipe and added layers of complexity with rosemary and other subtler flavors. *"If the classic SC mustard sauces are trumpet solos, this is a full orchestra. There's a lotta stuff in this recipe, but try not to leave anything out."* It's especially good on **pulled pork, pork chops, hot dogs, and other sausages**; he also likes it on baked potatoes, for dipping pretzels, or as a mustard substitute in other recipes.
+
+> **Distinct from this cookbook's three other Carolina mustard sauces**, all kept and cross-referenced: [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) (a cooked sauce with mustard seeds, butter, bacon, and onion), [§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) (a bare four-ingredient simmer), and [§4.118 Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce) (this same author's simpler version from his earlier book, which his headnote here is explicitly comparing himself against).
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety) · [§T85 Cooking Onions](#t85-cooking-onions--blond-browned-caramelized) *(the sweat in Step 2 is the "blond" stage — limp and translucent, not browned)*
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~30 min** · **Start to finish ~1 hr 15 min** *(the source's printed 35 minutes of work, plus cooling to room temperature before the final blend)*
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined. The one place to pay attention is the 3-minute low boil in Step 3 — **⅔ cup of dark brown sugar will stick and scorch on the bottom if you stop stirring** — but that's three minutes of whisking, and the rest is a low simmer. **One safety note, not a difficulty one:** the source blends this after it cools to room temperature; if you blend it hot instead, vent the lid or pulse it, since sealed hot liquid builds pressure.
+
+#### A. Ingredients
+
+*The source prints these across two pages; all fifteen lines are here, in printed order.*
+
+- 1 medium onion *(you'll use ½ cup, minced)*
+- 1 small red bell pepper *(you'll use 3 Tbsp, minced)*
+- 2 garlic cloves
+- ½ teaspoon whole dried rosemary leaves
+- 2 tablespoons vegetable oil
+- 1 teaspoon medium-grind black pepper
+- 1 teaspoon dried thyme
+- 1 cup Dijon-style mustard
+- ⅔ cup packed dark brown sugar
+- ¼ cup fresh lemon juice
+- ¼ cup apple cider vinegar
+- 2 teaspoons tomato paste
+- 2 teaspoons Worcestershire sauce
+- 1 teaspoon gochujang or your favorite hot pepper sauce
+- 1 teaspoon chicken bouillon granules, chicken base, or 2 bouillon cubes dissolved in 2 tablespoons water
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Peel and mince the onion and **save ½ cup for the recipe**. Mince the bell pepper and **save 3 tablespoons for the recipe**. Peel and mince or crush the garlic. Crush the rosemary leaves into bits — whole dried rosemary needles stay woody and unpleasant in a sauce, so break them down before they go in.
+
+**2. Cook the aromatics. About 9 to 10 minutes total.**
+In a 1-quart saucepan, warm the oil over medium-low heat. Add the onion and bell pepper and sweat them until the **onions are limp, 5 to 6 minutes** — limp and translucent, not browned. Add the black pepper, rosemary, and thyme and cook, stirring, for about **3 minutes** to develop and extract their flavors. Add the garlic and cook it for about a minute more.
+
+**3. Finish. A 3-minute boil, then 15 minutes on low.**
+Add the mustard, brown sugar, lemon juice, vinegar, tomato paste, Worcestershire sauce, gochujang, and chicken bouillon and mix thoroughly. Bring to a low boil for **3 minutes, stirring frequently to keep the sugar from burning or sticking to the bottom.** Then turn down the heat and simmer on low for another **15 minutes**.
+
+**4. Finish.** *(The source numbers two consecutive steps "FINISH" — transcribed as printed.)*
+Let it come to room temperature and purée it in a blender. **A few lumps are OK.** Taste, adjust, and chill.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Onion — 1 medium
+- 🛒 Red bell pepper — 1 small
+- 🛒 Garlic — 2 cloves
+- 🛒 Whole dried rosemary leaves — ½ tsp
+- 🛒 Vegetable oil — 2 Tbsp
+- 🛒 Black pepper, medium-grind — 1 tsp
+- 🛒 Dried thyme — 1 tsp
+- 🛒 Dijon-style mustard — 1 cup
+- 🛒 Dark brown sugar — ⅔ cup packed
+- 🛒 Lemons — for ¼ cup fresh juice
+- 🛒 Apple cider vinegar — ¼ cup
+- 🛒 Tomato paste — 2 tsp
+- 🛒 Worcestershire sauce — 2 tsp
+- 🛒 Gochujang, or your favorite hot pepper sauce — 1 tsp
+- 🛒 Chicken bouillon granules, chicken base, or bouillon cubes — 1 tsp (or 2 cubes)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups, as printed)* | ~1,125 | 43 g | 16 g | 178 g | 4 g |
+| **Per serving** *(2 Tbsp)* | ~70 | 2.7 g | 1 g | 11 g | 0.3 g |
+
+**What a serving is:** 2 tablespoons spooned over pulled pork or a pork chop, or spread on a hot dog — a condiment portion, not a dipping bowl.
+
+#### D. Open Questions
+
+- **Only the ½ cup of onion and 3 tablespoons of bell pepper actually go into the sauce**, per the source's own Step 1 — the rest of the medium onion and the small bell pepper are leftovers. The nutrition figures above count only what goes in the pot.
+- **The printed ingredient list runs to fifteen lines, not sixteen** — nine on book p. 182 (onion through dark brown sugar) and six on p. 183 (lemon juice through chicken bouillon). Both columns were re-read at full magnification against the page gutter to make sure nothing was hidden in the fold; nothing was.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->

@@ -177,6 +177,12 @@ Click any recipe to jump straight to it.
   - [4.156 Persian Herb and Cucumber Yogurt](#4156-persian-herb-and-cucumber-yogurt) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.157 Borani Esfenaj (Persian Spinach Yogurt)](#4157-borani-esfenaj-persian-spinach-yogurt) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.158 Mast-o-Laboo (Persian Beet Yogurt)](#4158-mast-o-laboo-persian-beet-yogurt) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) ✅ *(Salt, Fat, Acid, Heat; the source's "Basic Mayonnaise" — see also [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one))*
+  - [4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.161 Aioli (Garlic Mayonnaise)](#4161-aioli-garlic-mayonnaise) ✅ *(Salt, Fat, Acid, Heat; distinct from [§7.84](#784-rockfish-burger-with-key-lime-aioli))*
+  - [4.162 Herb Mayonnaise](#4162-herb-mayonnaise) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise) ✅ *(Salt, Fat, Acid, Heat; includes a Chipotle Mayonnaise variation)*
+  - [4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto) ✅ *(Salt, Fat, Acid, Heat; this cookbook's third pesto, alongside [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce) and [§4.131](#4131-pesto))*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -566,6 +572,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Doughs/Emulsions/Mayo/Pesto batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the third batch from this same 50-page source PDF today, picking up right after the Vegetables/Stock/Mains batch below. **One more batch from this same scan is still coming: Sweets.** **Six full recipes added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt): **[§4.159](#4159-rustic-mayonnaise) Rustic Mayonnaise** (the source's own hand-whisked "Basic Mayonnaise" — the recipe several earlier batches have been citing as a same-book gap; rated 🟡 Medium, the only Medium recipe in this batch, since whisking oil into egg yolk by hand is a genuine emulsion that can break), **[§4.160](#4160-classic-sandwich-mayo) Classic Sandwich Mayo** (built on §4.159), **[§4.161](#4161-aioli-garlic-mayonnaise) Aioli (Garlic Mayonnaise)**, **[§4.162](#4162-herb-mayonnaise) Herb Mayonnaise**, **[§4.163](#4163-rouille-pepper-mayonnaise) Rouille (Pepper Mayonnaise)** (Chipotle Mayonnaise variation folded in; its own "Pepper Paste" sub-ingredient wasn't among the photographed pages, flagged as a gap with a roasted-red-pepper-purée stand-in rather than invented), and **[§4.164](#4164-pesto-basil-pesto) Pesto (Basil Pesto)** (with the source's own greens/nuts/cheese substitution chart folded in as a "Change It Up" callout) — **this cookbook's third pesto**, alongside [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) and [§4.131 Pesto](#4131-pesto), both cross-linked forward and back. **[§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) are rated 🟢 Easy rather than Medium**, on the reasoning that each one only stirs flavor into an *already-made* mayonnaise — nothing in their own steps can break an emulsion; each entry notes that building the mayonnaise base itself (§4.159) is where the real risk lives, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test. **One new condensed technique entry, [§T89 Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion)**, added to the Techniques quick index — deliberately short, since two of its three source passages ("Retaining Creaminess: Butter" and "Breaking and Fixing Emulsions") turn out to be the same content this cookbook already condensed from this same book at [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) and [§T30 How to Use Fat](#t30-how-to-use-fat); T89 cross-references both rather than repeating them, and writes out only what's new — weighing flour by weight instead of scooping by volume, and the wider all-emulsions framing of "breaking" beyond just mayonnaise. **Two source-referenced items checked and resolved rather than treated as gaps:** the source's own forward reference to an **All-Butter Pie Dough** — checked against this cookbook and **confirmed not present** (distinct from [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) and [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)), named as a gap in [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) since its own page wasn't among those photographed; and the source's own **Pasta Cacio e Pepe** reference — checked and **confirmed already documented**, cross-linked at [§T30](#t30-how-to-use-fat)'s "Butter sauce" paragraph rather than flagged as missing. **Five "not yet in this cookbook" cross-references retrofitted now that this batch fills them, the same retrofit pattern [badf8ce] and [7df86b8] used:** [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)'s and [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing)'s "Basic Mayonnaise (source p. 375)" gaps (each flagged twice, in the ingredient list and in Open Questions) now link to [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise); [§4.152 North African Charmoula](#4152-north-african-charmoula)'s "Stir into Basic Mayonnaise" serving suggestion now links there too; [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, which specifically named "Classic Sandwich Mayo," now links to [§4.160](#4160-classic-sandwich-mayo) exactly; and [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)'s Fritto Misto variation, which specifically named "Aïoli (source p. 376)," now links to [§4.161 Aioli](#4161-aioli-garlic-mayonnaise) exactly. **No duplicates skipped** — this cookbook's existing [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) is a citrus-forward burger topping from a different book, cross-linked rather than confused for [§4.161](#4161-aioli-garlic-mayonnaise)'s plain garlic version. **Jargon explained inline per Cody's standing request:** emulsion, why mayonnaise breaks (temperature swings or adding oil too fast overwhelms the egg yolk's lecithin), room-temperature eggs and why they matter for emulsifying, and the hot-water-and-broken-mayo fix, all at [§4.159](#4159-rustic-mayonnaise) and cross-referenced from [§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) rather than repeated; **rouille** as a term (French for "rust," a garlicky pepper- or saffron-tinted mayonnaise for bouillabaisse) at [§4.161](#4161-aioli-garlic-mayonnaise) and [§4.163](#4163-rouille-pepper-mayonnaise); *pestare* ("to pound") and why traditional mortar-and-pestle pesto bruises rather than slices the basil, keeping it greener and less oxidized than a fast-spinning blade, at [§4.164](#4164-pesto-basil-pesto); and weighing flour vs. scooping it by volume at [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion). **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "1 Tbsp" for the five mayonnaise-family condiments and "2 Tbsp" for the pesto. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Vegetables/Stock/Mains batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the second batch from this same 50-page source PDF today, picking up right after the Salsas & Yogurt Sauces batch below. **Two more batches from this same scan are still coming: Doughs/Emulsions/Mayo/Pesto, and Sweets.** **Four new condensed technique entries** added to the Techniques quick index, continuing from [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula): **[§T85](#t85-cooking-onions--blond-browned-caramelized) Cooking Onions — Blond, Browned, Caramelized** (cross-references [§8.39 Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)'s existing "blond" explanation and [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar)'s browned-onion base; names a Caramelized Onion Tart, a Chicken with Lentil Rice, and a Chicken with Sweet Onion Soup, none yet in this cookbook), **[§T86](#t86-three-ways-to-cook-grains-and-quinoa) Three Ways to Cook Grains (and Quinoa)** (the source's steam method plus its hand-illustrated grain:water ratio chart — read as closely as the cup icons allow and flagged where a ratio runs low against convention, especially polenta), **[§T87](#t87-stock--saving-scraps-for-the-pot) Stock — Saving Scraps for the Pot** (the chapter intro behind [§8.40](#840-chicken-stock)), and **[§T88](#t88-braise--the-six-step-method) Braise — The Six-Step Method** (condensed from the source's illustrated Salt/Brown/Build/Boil/Simmer/Serve diagram; cross-references rather than duplicates [§T32 How to Use Heat](#t32-how-to-use-heat)'s braising-temperature row and this cookbook's existing braises). **Three full vegetable recipes** added to [§5 Vegetables & Sides](#5-vegetables--sides), continuing after [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw): **[§5.54](#554-sauté-snap-peas-with-chilies-and-mint) Sauté: Snap Peas with Chilies and Mint**, **[§5.55](#555-steamy-sauté-garlicky-green-beans) Steamy Sauté: Garlicky Green Beans** (classic French and Indian variations — **distinct from [§5.1 Green Beans](#51-green-beans)** and **[§5.36 Lemon Green Beans](#536-lemon-green-beans)**, both kept), and **[§5.56](#556-cherry-tomato-confit) Cherry Tomato Confit** (Confit Large Tomatoes and Artichoke Confit variations folded in — no existing tomato confit in this cookbook). **One stock recipe** added as **[§8.40](#840-chicken-stock) Chicken Stock** (Beef Stock variation), unblocking the "Chicken Stock, page 271" citation [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) has carried since an earlier batch — kept alongside, not replacing, [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) and [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood). **Confirmed already present, not re-added:** [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), encountered again in this batch's page range — already fully written up from an earlier batch, skipped here. **Five full mains** added to [§7 Mains & Proteins](#7-mains--proteins), continuing after [§7.124 Poulet de France](#7124-poulet-de-france): **[§7.125](#7125-beer-battered-fish) Beer-Battered Fish** (Fritto Misto and Gluten-Free Batter variations; rated 🟡 Medium for real deep-frying technique risk), **[§7.126](#7126-chicken-with-vinegar) Chicken with Vinegar** (*Poulet au Vinaigre*; rated 🟡 Medium for a cream pan sauce that can break or over-reduce), **[§7.127](#7127-buttermilk-marinated-roast-chicken) Buttermilk-Marinated Roast Chicken** (rated 🟢 Easy — no step here can genuinely fail), and **[§7.128](#7128-glazed-five-spice-chicken) Glazed Five-Spice Chicken** (rated 🟡 Medium for a high-heat glaze that can scorch fast), and **[§7.129](#7129-pasta-alle-vongole) Pasta alle Vongole** (subtitled by the source itself "A Lesson in Layering Acid"; presented in the source as an illustrated comic-style page and transcribed here into this cookbook's normal bold-step format; rated 🟡 Medium for clam-timing and sauce-breaking risk; exact clam/pasta quantities weren't printed on the source's illustrated page, so this cookbook's own reasonable estimate is used and flagged in that entry's Open Questions). **The Persian Roast Chicken cross-reference retrofit, completed:** [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken)'s own Persian Roast Chicken variation (saffron tea stirred into yogurt in place of buttermilk) is exactly the dish [§5.49 Persian-ish Rice](#549-persian-ish-rice) (both its headnote pairing and its Fava Bean and Dill Rice variation) and [§4.155 Herbed Yogurt](#4155-herbed-yogurt) have been citing as "not yet in this cookbook" since earlier batches — all three are now updated to link to [§7.127](#7127-buttermilk-marinated-roast-chicken) instead. **Three more "not yet in this cookbook" cross-references closed the same way:** [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa) and [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s mentions of "Beer-Battered Fish" now link to [§7.125](#7125-beer-battered-fish); [§4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa) and [§4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa)'s mentions of "Glazed Five-Spice Chicken" now link to [§7.128](#7128-glazed-five-spice-chicken). [§7.128](#7128-glazed-five-spice-chicken) also cross-links its own two serving suggestions: [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) (already in this cookbook) and Steamed Jasmine Rice (not written up as its own recipe, but its ratio is now in [§T86](#t86-three-ways-to-cook-grains-and-quinoa)). **Jargon explained inline per Cody's standing request:** the blond/browned/caramelized onion stages at [§T85](#t85-cooking-onions--blond-browned-caramelized); Manila vs. littleneck clams (size and brininess) at [§7.129](#7129-pasta-alle-vongole); why pasta water helps finish a sauce (starch) at [§7.129](#7129-pasta-alle-vongole); the vodka-reduces-gluten trick and 365°F deep-frying sweet spot at [§7.125](#7125-beer-battered-fish); why an emulsified (boiled) stock is a flaw rather than a virtue, unlike most emulsions, at [§8.40](#840-chicken-stock); and the six-step braise shape at [§T88](#t88-braise--the-six-step-method), cross-referenced from [§7.126](#7126-chicken-with-vinegar) rather than re-explained. **Difficulty ratings used judgment per the task's own guidance** rather than defaulting to Easy: both roast chickens ([§7.127](#7127-buttermilk-marinated-roast-chicken)) that have no fail-prone step are 🟢 Easy, while the two that do — a cream reduction ([§7.126](#7126-chicken-with-vinegar)) and a high-heat sugar glaze ([§7.128](#7128-glazed-five-spice-chicken)) — are 🟡 Medium, matching this cookbook's established technique-risk test rather than the source's own recipe order. TOC, Difficulty & Time Index (sorted by prep+cook), and [§17 Meats & Cuts](#17-meats--cuts-reference-index) (new lines for chicken with vinegar, buttermilk/Persian roast chicken, five-spice chicken, chicken bones, and beef knuckle/marrow bones) all updated. All nine new full recipes' Nutrition blocks are estimated from ingredient lists and labeled as such; none print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md). |
 | 2026-09-06 | **Salsas & Yogurt Sauces batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this same source's three prior batches ([§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs) among them; [§4.134](#4134-creamy-caesar-dressing)–[§4.145](#4145-tahini-dressing); [§5.50](#550-vietnamese-cucumber-salad)–[§5.53](#553-bright-cabbage-slaw)). **This same 50-page source PDF covers six different categories; this batch handles only the salsas and yogurt sauces pages (book p. 358–373) — more batches from the same scan are still coming, for the vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages.** **Thirteen full recipes and one condensed technique entry added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.145 Tahini Dressing](#4145-tahini-dressing): **[§4.146](#4146-basic-salsa-verde) Basic Salsa Verde** (with Bread Crumb Salsa, Classic Italian Salsa Verde, and Mint Salsa Verde variations folded in — **distinct from the existing [§4.47 Salsa Verde](#447-salsa-verde)**, a cooked tomatillo salsa from a different book entirely), **[§4.147](#4147-classic-french-herb-salsa) Classic French Herb Salsa**, **[§4.148](#4148-mexican-ish-herb-salsa) Mexican-ish Herb Salsa** (Pumpkin Seed Salsa variation), **[§4.149](#4149-southeast-asian-ish-herb-salsa) Southeast Asian-ish Herb Salsa**, **[§4.150](#4150-japanese-ish-herb-salsa) Japanese-ish Herb Salsa** — these five are all the same [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) formula wearing different herb-and-acid signatures — **[§4.151](#4151-meyer-lemon-salsa) Meyer Lemon Salsa** (Olive and Feta Relish variations), **[§4.152](#4152-north-african-charmoula) North African Charmoula**, **[§4.153](#4153-indian-coconut-cilantro-chutney) Indian Coconut-Cilantro Chutney** (**distinct from the existing [§4.48 Cilantro Chutney](#448-cilantro-chutney)**, which has no coconut and comes from a different book), **[§4.154](#4154-salmoriglio-sicilian-oregano-sauce) Salmoriglio (Sicilian Oregano Sauce)** (Argentinian Chimichurri variation — **distinct from the salmoriglio already embedded in [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)**, a leaner standalone version rather than that recipe's own full-cup-of-oil sauce; and this cookbook's fourth chimichurri alongside [§4.44](#444-three-herb-chimichurri)/[§4.94](#494-red-chimichurri)/[§4.95](#495-dry-chimichurri)), **[§4.155](#4155-herbed-yogurt) Herbed Yogurt** (Indian Carrot Raita variation, with the source's "Yogurt Sauce" section intro folded in as headnote), **[§4.156](#4156-persian-herb-and-cucumber-yogurt) Persian Herb and Cucumber Yogurt**, **[§4.157](#4157-borani-esfenaj-persian-spinach-yogurt) Borani Esfenaj (Persian Spinach Yogurt)**, and **[§4.158](#4158-mast-o-laboo-persian-beet-yogurt) Mast-o-Laboo (Persian Beet Yogurt)**. **One new condensed technique entry, [§T84 Salsa Math — The Herb Salsa Formula](#t84-salsa-math--the-herb-salsa-formula)**, added to the Techniques quick index — the source's own handwritten "chopped herbs + salt + olive oil to cover + shallots macerated in acid = herb salsa" diagram, condensed here since it's the underlying method all five regional herb salsas share, rather than repeated in each recipe. **One variation checked carefully and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos: Fried Sage Salsa Verde**, a named variation on [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) — its only real instruction ("follow the instructions on page 233 for frying sage") points to a source page that wasn't among those photographed for this batch, so the frying method itself is genuinely missing, not just tightly cropped; named in [§4.146](#4146-basic-salsa-verde)'s notes for completeness, not written up as its own entry. **Rated 🟢 Easy across the board** — every recipe in this batch is chopping, macerating, whisking, blending, or a brief spice-toast/sauté, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test; even [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt)'s hour-long beet roast is unattended oven time with a wide doneness window, not a failure-prone step, and it lands in the **Cook** column rather than Slow cook per [CLAUDE.md §3a](CLAUDE.md)'s roughly-2-hour rule of thumb, matching this cookbook's existing [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) precedent for the same technique. **Jargon explained inline per Cody's standing request:** macerating shallots (and, at [§4.151](#4151-meyer-lemon-salsa), a whole diced Meyer lemon) in acid to mellow harsh raw bite — explained in full at [§4.146](#4146-basic-salsa-verde) and [§T84](#t84-salsa-math--the-herb-salsa-formula), cross-referenced afterward and to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick," the same source-page gap (page 118) [§4.135](#4135-creamy-herb-dressing) already flagged and resolved via T31 in the prior batch; what makes each "-ish" salsa read as French, Mexican-ish, Southeast Asian-ish, or Japanese-ish, in the book's own herb-and-acid logic, explained at [§T84](#t84-salsa-math--the-herb-salsa-formula); chutney vs. salsa as a difference of texture and tradition (blended smooth vs. knife-chopped chunky) rather than ingredients, explained at [§4.153](#4153-indian-coconut-cilantro-chutney); and tempering (*tadka*) — briefly frying whole spices in hot fat to bloom their aromatic oils — explained at [§4.155](#4155-herbed-yogurt)'s Indian Carrot Raita variation and cross-referenced to [§4.153](#4153-indian-coconut-cilantro-chutney)'s toasted cumin. **This cookbook's [§7.123 Kufte Kebabs](#7123-kufte-kebabs) entry updated** to link its own "Persian Herb Yogurt (not yet in this cookbook)" and "Charmoula (neither yet in this cookbook)" notes to [§4.156](#4156-persian-herb-and-cucumber-yogurt) and [§4.152](#4152-north-african-charmoula) now that both gaps are filled. Many serving suggestions naming dishes not yet in this cookbook (Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Finger-Lickin' Pan-Fried Chicken, Chicken Confit, Spicy Brined Turkey Breast, Glazed Five-Spice Chicken, Spicy Brined Pork Loin, Indian-Spiced Salmon, Indian-Spiced Fried Chicken, Pork Braised with Chiles, Beer-Battered Fish, English Pea Soup, Silky Sweet Corn Soup, *Adas Polo*, Persian Roast Chicken, Grilled Artichokes, Avocado Salad, Carrot Soup) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.49 Persian-ish Rice](#549-persian-ish-rice), [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — it's cross-linked instead. None of the thirteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the salsas/chutney/salmoriglio/charmoula and "¼ cup" for the yogurt sauces. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Salads & Vinaigrettes/Dressings batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this week's two prior batches ([§8.37](#837-chicken-and-garlic-soup)–[§4.134](#4134-creamy-caesar-dressing); [§5.49 Persian-ish Rice](#549-persian-ish-rice)–[§14.23](#1423-fresh-ginger-and-molasses-cake)). **This same 50-page source PDF covers six different categories; this batch handles only the salads and vinaigrettes/dressings pages — more batches from the same scan are coming for the salsas/yogurt sauces, vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages still to be transcribed.** **Four composed salads added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.49 Persian-ish Rice](#549-persian-ish-rice): **[§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad)** (p. 226, one of the source's "Three Classic Shaved Salads" — its intro on shaved salads generally is folded in as headnote context rather than spun into its own technique entry, since only one of the three salads was among the photographed pages), **[§5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint)** (p. 235, built on a double batch of the new [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette)), **[§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber)** (p. 231, built on a double batch of the new [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette)), and **[§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)** (p. 244–245, with Alterna-slaw, Mexi-Slaw, Asian Slaw, and Classic Southern Slaw variations folded in as callouts, matching this cookbook's established precedent for a source's own variations) — **kept distinct from this cookbook's two existing slaws**, [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) and [§5.35 Cole Slaw](#535-cole-slaw), both cross-referenced rather than treated as duplicates. **Eleven vinaigrettes and dressings added to [§4](#4-rubs-seasonings-sauces--condiments)**, continuing from [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing): **[§4.135](#4135-creamy-herb-dressing) Creamy Herb Dressing**, **[§4.136](#4136-any-other-citrus-vinaigrette) Any-Other-Citrus Vinaigrette** (Kumquat Vinaigrette variation), **[§4.137](#4137-tomato-vinaigrette) Tomato Vinaigrette**, **[§4.138](#4138-red-wine-vinaigrette) Red Wine Vinaigrette** (Honey-Mustard variation), **[§4.139](#4139-balsamic-vinaigrette) Balsamic Vinaigrette** (Parmesan and Brown Butter variations — cross-linked to the existing [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying)), **[§4.140](#4140-lemon-vinaigrette) Lemon Vinaigrette** (Lemon-Anchovy variation), **[§4.141](#4141-lime-vinaigrette) Lime Vinaigrette** (spicy jalapeño variation), **[§4.142](#4142-rice-wine-vinaigrette) Rice Wine Vinaigrette** (heat and toasted-sesame-oil variations — used by [§5.53](#553-bright-cabbage-slaw)'s Asian Slaw), **[§4.143](#4143-miso-mustard-dressing) Miso-Mustard Dressing**, **[§4.144](#4144-green-goddess-dressing) Green Goddess Dressing**, and **[§4.145](#4145-tahini-dressing) Tahini Dressing** (Goma-Ae/Japanese sesame seed dressing variation). **One recipe checked very carefully and skipped rather than guessed at, per Cody's specific advance concern: Peanut-Lime Dressing (p. 249, facing Miso-Mustard Dressing).** This is genuinely cut off in the source photograph, not just a tight framing crop — the photo is already the full width of the page, and the right-hand page itself is curled/bent away from the camera in a way no wider crop of the same image recovers; every ingredient line and instruction line is truncated mid-word ("¼ cup fres...," "1 tablespo...," "Optiona..."). Named and described here, not invented. **Rated 🟢 Easy across the board** — every one of these fifteen recipes is whisking, shaking, or tossing together raw or pre-macerated ingredients, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, not even [§5.51](#551-spring-asparagus-and-feta-with-mint)'s brief asparagus blanch. **Two source gaps flagged rather than invented, both already-established gaps at [§4.134](#4134-creamy-caesar-dressing):** "Torn Croutons" (source p. 236), called for in [§5.51](#551-spring-asparagus-and-feta-with-mint) and [§5.52](#552-summer-tomato-basil-and-cucumber), gets the same torn-and-toasted-bread stand-in noted there; "Basic Mayonnaise" (source p. 375) and its stiffened "Classic Sandwich Mayo" relative, called for in [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing) and [§5.53](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, get the same store-bought-or-[§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) stand-in. **Jargon explained inline per Cody's standing request, each on first use and cross-referenced afterward:** shaved salad and mandoline slicing ([§5.50](#550-vietnamese-cucumber-salad)), "stripey peeling" a cucumber or asparagus stalk — alternating peeled and unpeeled strips for color, crunch, and better dressing cling — explained fresh since the source's own instructional page (220) wasn't photographed ([§5.50](#550-vietnamese-cucumber-salad), cross-referenced at [§5.51](#551-spring-asparagus-and-feta-with-mint)/[§5.52](#552-summer-tomato-basil-and-cucumber)), macerating shallots and onions in acid to mellow their bite — cross-referenced to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick" rather than re-explained, since this cookbook already carries that content in full (the source's own "see page 118" cross-reference wasn't among the photographed pages, but T31 already has the technique) — why a vinaigrette needs shaking or whisking to hold its emulsion, cross-referenced to the existing [§T30 How to Use Fat](#t30-how-to-use-fat) rather than re-explained, smashing a garlic clove with the palm of the hand, explained in full at [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) and cross-referenced at [§4.140](#4140-lemon-vinaigrette)/[§4.141](#4141-lime-vinaigrette)/[§4.142](#4142-rice-wine-vinaigrette), and tasting a dressing "with a leaf of lettuce" rather than off the spoon — because the thin coating amount matters more than the dressing's standalone flavor — cross-referenced to [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), which already explains it. **Crème fraîche, called for in [§4.135](#4135-creamy-herb-dressing), resolves cleanly rather than becoming a third open gap** — the source's own recipe for it (page 113) turns out to already be in this cookbook, condensed at [§T31](#t31-how-to-use-acid)'s "Making your own crème fraîche," from the same original Acid-chapter condensation pass. Several serving suggestions naming salads not yet in this cookbook (Avocado Salad, Caprese Salad, *Shirazi* Salad, Fattoush, Grain or Bean Salad, Panzanella, Shaved Fennel and Radish Salad, Shaved Carrot Salad, Beer-Battered Fish, Spicy Fried Chicken, Slow-Roasted Salmon) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) — it's cross-linked instead. None of the fifteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the eleven dressings and a normal salad-plate portion for the four composed salads. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
@@ -803,11 +810,16 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) | 🟢 | 5 min | — | — | 5 min |
 | [§7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) *(Meathead)* | 🟢 | 5 min | — | **30–45 min** *(smoker, unattended)* | 1 hr 15 min *(+ 30 min fridge rest after seasoning)* |
 | [§4.128 Burger Glop](#4128-burger-glop) | 🟢 | 5 min | — | — | 5 min |
+| [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo) | 🟢 | 5 min | — | — | 5 min |
+| [§4.161 Aioli (Garlic Mayonnaise)](#4161-aioli-garlic-mayonnaise) | 🟢 | 5 min | — | — | 5 min |
+| [§4.162 Herb Mayonnaise](#4162-herb-mayonnaise) | 🟢 | 5 min | — | — | 5 min |
 | [§T25 French Omelette](#t25-the-french-omelette-two-methods) | 🟡 | 5 min | <1 min | — | 5 min |
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) | 🟡 | 10 min | — | — | 10 min |
+| [§4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise) | 🟢 | 10 min | — | — | 2 hr 10 min *(includes a 2 hr chill)* |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 20 min *(includes a 10 min stand)* |
 | [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
 | [§4.102 Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) | 🟢 | 10 min | — | — | 15 min |
@@ -835,6 +847,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) | 🟢 | 15 min | — | **1–3 hr** *(citrus dehydrates, unattended)* | 1¼–3¼ hr |
 | [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **3–6 hr** *(smoker + dehydrate, unattended)* | 3¼–6¼ hr |
 | [§4.124 Tartar Sauce](#4124-tartar-sauce) | 🟢 | 15 min | — | — | 15 min active *(+ 2 hr chill)* |
+| [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto) | 🟢 | 15 min | — | — | 15 min |
 | [§4.131 Pesto](#4131-pesto) | 🟢 | 15 min | — | — | 15 min |
 | [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) | 🟢 | 15 min | — | — | 15 min |
 | [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 20 min |
@@ -1789,7 +1802,7 @@ The card's own point stands: with only butter, cream, and real Parmesan in it, t
 
 ### 4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)
 
-Transcribed from a photographed cookbook page. The classic Genoa sauce — the name itself comes from *pestare*, "to pound," from the traditional mortar-and-pestle method. A food processor gets there faster with the same result.
+Transcribed from a photographed cookbook page. The classic Genoa sauce — the name itself comes from *pestare*, "to pound," from the traditional mortar-and-pestle method. A food processor gets there faster with the same result. **The first of three pestos in this cookbook** — see also [§4.131 Pesto](#4131-pesto) (Meathead's version) and [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto) (Samin Nosrat's *Salt, Fat, Acid, Heat* version, with its own ratio and a fuller discussion of mortar-and-pestle vs. food-processor technique).
 
 **Techniques used:** none — this one predates §T; cross-referenced from [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta)
 
@@ -9334,7 +9347,7 @@ Use right away, or refrigerate for a day or two. The bright green color fades a 
 
 ### 4.131 Pesto
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. **Distinct from [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)**, the existing simpler version already in this cookbook — this one uses noticeably more basil relative to oil, and adds kalamata olives, an unorthodox but real addition per the source itself ("I know olives rarely appear in pesto recipes... but do try it"). Also feeds [§4.116-adjacent uses](#4116-butcher-block-seasoning) the way any good pantry pesto does — stirred into soup, spread on toast, or, per the source, slathered on a pork loin roast before cooking.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. **Distinct from [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)**, the existing simpler version already in this cookbook — this one uses noticeably more basil relative to oil, and adds kalamata olives, an unorthodox but real addition per the source itself ("I know olives rarely appear in pesto recipes... but do try it"). Also feeds [§4.116-adjacent uses](#4116-butcher-block-seasoning) the way any good pantry pesto does — stirred into soup, spread on toast, or, per the source, slathered on a pork loin roast before cooking. **The second of three pestos in this cookbook** — see also [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto), Samin Nosrat's *Salt, Fat, Acid, Heat* version, added later with its own ratio.
 
 **Techniques used:** none — this is a no-cook blended sauce.
 
@@ -9505,7 +9518,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 #### A. Ingredients
 
 - 4 salt-packed anchovies (or 8 fillets), soaked and filleted
-- ¾ cup stiff mayonnaise, homemade or store-bought *(the source calls for its own "Basic Mayonnaise" — see the note below)*
+- ¾ cup stiff mayonnaise, homemade or store-bought *(the source calls for its own "Basic Mayonnaise" — now [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one); see the note below)*
 - 1 garlic clove, finely grated or pounded with a pinch of salt
 - 3 to 4 tablespoons lemon juice
 - 1 teaspoon white wine vinegar
@@ -9516,7 +9529,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 > **Salt-packed vs. oil-packed anchovies.** Salt-packed anchovies are cured whole in salt rather than oil, which gives a cleaner, less "fishy" flavor — but they need soaking in water for a few minutes to wash off the excess surface salt, then filleting by hand (pulling the two fillets off the central backbone with your fingers) before use. The more common jarred or tinned oil-packed fillets skip both steps, which is exactly why the ingredient list offers them as a straight swap: 8 oil-packed fillets in place of the 4 whole salt-packed ones.
 
-> **A note on the mayonnaise.** The source builds this on its own "Basic Mayonnaise" recipe (printed elsewhere in the book, not among the pages photographed for this cookbook), specified "stiff" — thicker than a standard jarred mayonnaise, so the dressing clings rather than pools. **Not yet documented here — flagged as a gap rather than invented.** In its place, use ¾ cup good store-bought mayonnaise, or this cookbook's own **[§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** (whisk in the oil a little slower and a little longer than usual for a thicker result, closer to the "stiff" the source wants).
+> **A note on the mayonnaise — resolved.** The source builds this on its own "Basic Mayonnaise" recipe, specified "stiff" — thicker than a standard jarred mayonnaise, so the dressing clings rather than pools. That recipe turns out to already be documented in this cookbook two ways: as [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s golden ratio, and now as [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise), the same source's own hands-on recipe for it. Whisk in the oil a little slower and a little longer than usual for a thicker result, closer to the "stiff" the source wants — or use ¾ cup good store-bought mayonnaise instead.
 
 #### B. Cooking Instructions
 
@@ -9563,7 +9576,7 @@ Refrigerate leftover dressing, covered, for up to 3 days.
 
 #### D. Open Questions
 
-- **Basic Mayonnaise (source page 375) and Torn Croutons are both named ingredients/garnishes in this recipe, and neither is documented in this cookbook** — the pages weren't among those photographed. Store-bought mayonnaise (or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) and plain toasted croutons stand in above; revisit if those source pages ever get photographed.
+- **Basic Mayonnaise, resolved:** now documented as [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (and [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio), from this batch. **Torn Croutons is still an open gap** — its source page wasn't among those photographed for this batch either. Plain toasted croutons stand in above; revisit if that source page ever gets photographed.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -10113,10 +10126,10 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - 1 tablespoon finely chopped chives
 - 1 tablespoon finely chopped chervil
 - 1 teaspoon finely chopped tarragon
-- ½ cup stiff Basic Mayonnaise *(the source calls for its own recipe — see the note below)*
+- ½ cup stiff Basic Mayonnaise *(now [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) — see the note below)*
 - Salt
 
-> **A note on the mayonnaise, same gap as [§4.134](#4134-creamy-caesar-dressing).** The source builds this on its own "Basic Mayonnaise" recipe (page 375), specified "stiff," which wasn't among the pages photographed for this cookbook — flagged as a gap rather than invented. In its place, use ½ cup good store-bought mayonnaise, or this cookbook's own [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one), whisked a little slower and longer than usual for a thicker, "stiff" result.
+> **A note on the mayonnaise — resolved, same gap as [§4.134](#4134-creamy-caesar-dressing).** The source builds this on its own "Basic Mayonnaise" recipe, specified "stiff." That recipe is now documented as [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (and [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio) — whisk in the oil a little slower and longer than usual for a thicker, "stiff" result, or use ½ cup good store-bought mayonnaise instead.
 
 #### B. Cooking Instructions
 
@@ -10158,7 +10171,7 @@ Refrigerate leftovers, covered, for up to 3 days.
 
 #### D. Open Questions
 
-- **Basic Mayonnaise (source page 375)** is a named ingredient in this recipe, same gap already flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) — the page wasn't among those photographed. Store-bought mayonnaise (or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) stands in above; revisit if that source page ever gets photographed.
+- **Basic Mayonnaise, resolved, same gap already flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing):** now documented as [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (and [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio), from this batch.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -10644,7 +10657,7 @@ Place the oil, toasted cumin, cilantro, garlic, ginger, jalapeño, lime juice, a
 
 Cover and refrigerate until serving. Leftovers keep, covered, for up to 3 days.
 
-**Serving suggestions:** Stir into Basic Mayonnaise for a condiment good on turkey sandwiches *(this cookbook doesn't yet have the source's own mayonnaise recipe — store-bought mayonnaise or [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) both stand in fine)*; reduce the oil to ¼ cup and use as a marinade for fish or chicken; serve with rice, chickpeas, or couscous, braised lamb or chicken, or grilled meats or fish. Drizzle onto an Avocado Salad or Carrot Soup; serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice), Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, or [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — this last one closes the loop on [§7.123](#7123-kufte-kebabs)'s own note that Charmoula "wasn't yet in this cookbook."
+**Serving suggestions:** Stir into [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) *(or [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) — this cookbook's own mayonnaise recipe, resolved since this recipe was first written up)* for a condiment good on turkey sandwiches; reduce the oil to ¼ cup and use as a marinade for fish or chicken; serve with rice, chickpeas, or couscous, braised lamb or chicken, or grilled meats or fish. Drizzle onto an Avocado Salad or Carrot Soup; serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice), Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, or [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — this last one closes the loop on [§7.123](#7123-kufte-kebabs)'s own note that Charmoula "wasn't yet in this cookbook."
 
 #### C. Grocery Shopping List
 
@@ -11026,6 +11039,353 @@ Chill until serving. If desired, garnish with nigella seeds before serving. Cove
 
 ---
 
+### 4.159 Rustic Mayonnaise
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 374–375), opening her "Mayonnaise" section. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§T85](#t85-cooking-onions--blond-browned-caramelized)–[§T88](#t88-braise--the-six-step-method). **The first of six mayonnaise-family recipes in this batch:** [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo), [§4.161 Aioli](#4161-aioli-garlic-mayonnaise), [§4.162 Herb Mayonnaise](#4162-herb-mayonnaise), and [§4.163 Rouille](#4163-rouille-pepper-mayonnaise) all build on this one (or on [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio).
+
+> **The source's own "Mayonnaise" headnote, folded in here:** *"There might not be a more polarizing food than mayonnaise, but I fall firmly in the camp of the devoted. And, as a teacher, I don't think there's a better way to illustrate the power of a little kitchen science than by making, breaking, and fixing a mayonnaise."* She points back to her own illustrated walkthrough for "the science of making a mayonnaise" — **that walkthrough is exactly what this cookbook already has at [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)**, which is why "Basic Mayonnaise," the name several of this cookbook's earlier entries have been citing as a same-book gap (see the retrofit note in this batch's changelog entry), turns out to already be documented rather than missing — it's T16 under a different name. When building mayonnaise as the *base for a sauce* (Caesar Dressing, Tartar Sauce), the source says to leave it unsalted and stiffer than usual, since the other ingredients will thin and season it; when seasoning a *plain* mayonnaise for spreading, dissolve the salt in a spoonful of water or lemon juice first rather than sprinkling it in dry. For a Mediterranean-leaning base — Aioli, Herb Mayonnaise, Rouille — use olive oil; for an American-style sandwich mayo, use a neutral or expeller-pressed canola oil.
+
+**Makes about ¾ cup**
+
+**🟡 Medium** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+> **Why Medium:** whisking oil into egg yolk by hand is a genuine emulsion — oil droplets forced to suspend permanently in a water-based liquid (the yolk) through nothing but constant agitation, per [§T30 How to Use Fat](#t30-how-to-use-fat)'s "Texture #2: CREAMY." Add the oil too fast, or let the yolk and oil sit at different temperatures, and the emulsion **breaks** — the fat separates back out into a greasy, curdled mess instead of a smooth sauce. That's a real can-go-wrong step, which is why this one recipe in the batch is Medium while the stir-together mayonnaises built on top of it ([§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise)) are rated Easy for their own steps.
+
+#### A. Ingredients
+
+- 1 egg yolk, at room temperature *(see the note below on why)*
+- ¾ cup neutral oil, or olive oil for a Mediterranean-leaning mayo
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Bring the yolk to room temperature.**
+A cold yolk and room-temperature oil are already at different temperatures before you start — exactly the kind of temperature swing that makes an emulsion break (see [§T30](#t30-how-to-use-fat)). If the egg came straight from the fridge, set it in a bowl of warm water for a few minutes first.
+
+**2. Set up a steady bowl, then start whisking.**
+Purée the egg yolk in a deep, medium metal or ceramic bowl. Dampen a kitchen towel, roll it into a long log, and coil it into a ring on the counter; set the bowl in the middle — it won't skid while you whisk one-handed. (If whisking by hand is out of the question, a blender or food processor works too.)
+
+**3. Drip in the oil, one drop at a time, whisking constantly.**
+Use a ladle or a bottle with a narrow spout to add the oil a drop at a time while whisking the yolk without stopping. Go slowly — this is the part that actually builds the emulsion, and rushing it is the single most common way to break one. Once about half the oil is in and the mixture is holding together, you can pour a little faster.
+
+**4. If it thickens too much to whisk, thin it — don't stop.**
+Add a teaspoon or so of water (or whichever liquid you're finishing the mayo with — lemon juice, vinegar) to loosen it, then keep whisking in the rest of the oil.
+
+**5. If it breaks, don't panic — fix it.**
+Refer to [§T16 Part C](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) or [§T30](#t30-how-to-use-fat)'s "If your mayonnaise breaks" passage: a fresh bowl, a half-teaspoon of the hottest tap water whisked to a foam, then the broken mixture drizzled back in drop by drop. It happens to everyone, and it's a setback, not a do-over.
+
+**6. Season and serve.**
+Salt to taste. Cover and refrigerate leftovers for up to 3 days.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 1, for the yolk
+- 🛒 Neutral oil (or olive oil) — ¾ cup
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ¾ cup, 12 Tbsp)* | ~1,495 | 172 g | 2.7 g | 0.5 g | 0 g |
+| **Per serving** *(1 Tbsp, of 12)* | ~125 | 14 g | 0.2 g | 0 g | 0 g |
+
+**What a serving is:** 1 Tbsp — a standard condiment portion. Nearly pure fat, since a single yolk barely registers against ¾ cup of oil; matches [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s own numbers for the same ratio.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.160 Classic Sandwich Mayo
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 375), facing [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **This is the exact recipe [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation has been citing as "the source's own Classic Sandwich Mayo, undocumented" since the Salads batch — retrofitted below to link here.**
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- 1½ teaspoons apple cider vinegar
+- 1 teaspoon lemon juice
+- ½ teaspoon dry mustard powder
+- ½ teaspoon sugar
+- Salt
+- ¾ cup [Rustic Mayonnaise](#4159-rustic-mayonnaise) *(or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio)*
+
+#### B. Cooking Instructions
+
+**1. Dissolve the dry seasonings in the acid.**
+In a small bowl, mix the vinegar and lemon juice and stir until the mustard powder, sugar, and a generous pinch of salt fully dissolve — mixing them into a liquid first, rather than sprinkling them straight into the mayonnaise, keeps them from clumping.
+
+**2. Stir into the mayonnaise. Taste and adjust.**
+Stir the mixture into the mayonnaise. Taste, and adjust salt and acid as needed — this is meant to taste a little tangier and sweeter than a plain mayo, since it's built to season a sandwich on its own.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** on a BLT or club sandwich, or in [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, on sandwiches made with Spicy Brined Turkey Breast *(not yet in this cookbook)*.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Apple cider vinegar — 1½ tsp
+- 🛒 Lemon, for juice — 1 tsp
+- 🛒 Dry mustard powder — ½ tsp
+- 🛒 Sugar — ½ tsp
+- 🛒 Salt
+- 🛒 Ingredients for [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (¾ cup)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup, 16 Tbsp)* | ~1,510 | 172 g | 2.7 g | 2.3 g | 0 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~94 | 11 g | 0.2 g | 0.1 g | 0 g |
+
+**What a serving is:** 1 Tbsp — a sandwich spread's worth.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.161 Aioli (Garlic Mayonnaise)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 376). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **This closes the gap [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)'s Fritto Misto variation has been carrying since the Vegetables/Stock/Mains batch** ("Serve with lemon wedges and Aïoli, source p. 376 — not yet documented"), now retrofitted to link here. **Not a duplicate** of this cookbook's other aiolis — [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) is a citrus-forward burger topping from a different book — this is the plain garlic version.
+
+> **Rouille**, the sibling recipe two entries over ([§4.163](#4163-rouille-pepper-mayonnaise)), is French for "rust" — a garlicky, pepper-tinted mayonnaise named for its color, traditionally served with bouillabaisse and other fish soups. Some versions add a pinch of saffron for the same rust-orange tint and a floral note; this source's version leans on roasted peppers instead.
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+> **Why Easy, not Medium like [§4.159](#4159-rustic-mayonnaise):** this recipe starts from an already-made mayonnaise and just stirs flavor in — nothing here can break an emulsion. If you're building the mayonnaise base from scratch as part of making this, *that* step is the Medium-risk one; see [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one).
+
+#### A. Ingredients
+
+- Salt
+- 4 teaspoons lemon juice
+- ¾ cup soft [Rustic Mayonnaise](#4159-rustic-mayonnaise) *(the source's own "Basic Mayonnaise" — see [§4.159](#4159-rustic-mayonnaise)'s headnote)*
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+
+#### B. Cooking Instructions
+
+**1. Dissolve salt in the lemon juice.**
+Dissolve a generous pinch of salt in the lemon juice — the same dissolve-before-adding trick as [§4.160](#4160-classic-sandwich-mayo), so the salt doesn't sit undissolved in pockets.
+
+**2. Stir into the mayonnaise with the garlic. Taste and adjust.**
+Stir into the mayonnaise, and add the garlic. Taste and adjust salt and acid as needed.
+
+Cover and chill until serving. Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** with boiled, grilled, or roasted vegetables, especially little potatoes, asparagus, or artichokes; with grilled fish or meats. With Grilled Artichokes *(not yet in this cookbook)*, Slow-Roasted Salmon *(not yet in this cookbook)*, [§7.125 Beer-Battered Fish](#7125-beer-battered-fish) and its Fritto Misto variation, Tuna Confit *(not yet in this cookbook)*, Finger-Lickin' Pan-Fried Chicken *(not yet in this cookbook)*, Spicy Brined Turkey Breast *(not yet in this cookbook)*, or Grilled Skirt or Rib Eye Steak.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemon, for juice — 4 tsp
+- 🛒 Garlic — 1 clove
+- 🛒 Salt
+- 🛒 Ingredients for [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (¾ cup)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup, 16 Tbsp)* | ~1,505 | 172 g | 2.9 g | 2 g | 0 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~94 | 11 g | 0.2 g | 0.1 g | 0 g |
+
+**What a serving is:** 1 Tbsp — a dip or spread portion alongside vegetables, fish, or meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.162 Herb Mayonnaise
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 376), facing [§4.161 Aioli](#4161-aioli-garlic-mayonnaise). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+#### A. Ingredients
+
+- Salt
+- ¾ cup soft [Rustic Mayonnaise](#4159-rustic-mayonnaise) *(the source's own "Basic Mayonnaise" — see [§4.159](#4159-rustic-mayonnaise)'s headnote)*
+- 1 tablespoon lemon juice
+- 4 tablespoons any combination of very finely chopped parsley, chervil, basil, and tarragon
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+
+#### B. Cooking Instructions
+
+**1. Dissolve salt in the lemon juice.**
+Same trick as [§4.160](#4160-classic-sandwich-mayo)/[§4.161](#4161-aioli-garlic-mayonnaise) — dissolve a generous pinch of salt in the lemon juice before adding it.
+
+**2. Stir into the mayonnaise with the herbs and garlic. Taste and adjust.**
+Stir into the mayonnaise, and add the herbs and garlic. Taste and adjust salt and acid as needed.
+
+Cover and chill until serving. Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** with boiled, grilled, or roasted vegetables, especially little potatoes, asparagus, or artichokes; with grilled fish or meats. With Grilled Artichokes *(not yet in this cookbook)*, Slow-Roasted Salmon *(not yet in this cookbook)*, [§7.125 Beer-Battered Fish](#7125-beer-battered-fish) and its Fritto Misto variation, Tuna Confit *(not yet in this cookbook)*, Finger-Lickin' Pan-Fried Chicken *(not yet in this cookbook)*, Spicy Brined Turkey Breast *(not yet in this cookbook)*, or Grilled Skirt or Rib Eye Steak.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemon, for juice — 1 Tbsp
+- 🛒 Fresh parsley, chervil, basil, and/or tarragon — 4 Tbsp finely chopped, any combination
+- 🛒 Garlic — 1 clove
+- 🛒 Salt
+- 🛒 Ingredients for [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (¾ cup)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup, 16 Tbsp)* | ~1,505 | 172 g | 3 g | 3 g | 0.5 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~94 | 11 g | 0.2 g | 0.2 g | 0 g |
+
+**What a serving is:** 1 Tbsp — a dip or spread portion alongside vegetables, fish, or meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.163 Rouille (Pepper Mayonnaise)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 377). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+> **Rouille** is French for "rust," and this mayonnaise is named for its rust-red color — a garlicky, pepper-tinted (some versions saffron-tinted) mayonnaise traditionally spooned into or served alongside bouillabaisse and other fish soups. This version gets its color and body from a roasted-pepper paste rather than saffron.
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~2 hr 10 min** *(includes a 2 hr chill so the pepper paste and vinegar can thicken it)*
+
+> **Why Easy, not Medium:** same reasoning as [§4.161](#4161-aioli-garlic-mayonnaise)/[§4.162](#4162-herb-mayonnaise) — this stirs flavor into an already-made mayonnaise rather than building an emulsion from scratch.
+
+#### A. Ingredients
+
+- Salt
+- 2 to 4 teaspoons red wine vinegar
+- ¾ cup soft [Rustic Mayonnaise](#4159-rustic-mayonnaise) *(the source's own "Basic Mayonnaise" — see [§4.159](#4159-rustic-mayonnaise)'s headnote)*
+- ⅓ cup Pepper Paste *(the source's own recipe, printed elsewhere in the book — see the note below)*
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+
+> **A note on the Pepper Paste.** The source builds this on its own "Base Pepper Paste" recipe, referenced but not among the pages photographed for this batch — **flagged as a gap rather than invented.** Its own Chipotle Mayonnaise variation (below) substitutes ⅓ cup puréed canned chipotle peppers for the same amount of pepper paste, which is the best clue to the quantity; in its place, a jarred roasted red pepper purée (piquillo peppers work well) or a homemade roasted-and-peeled-red-pepper purée stands in until that source page turns up in a future batch.
+
+#### B. Cooking Instructions
+
+**1. Dissolve salt in the vinegar.**
+Dissolve a generous pinch of salt in the vinegar.
+
+**2. Stir into the mayonnaise with the pepper paste and garlic.**
+Stir into the mayonnaise, along with the pepper paste and garlic.
+
+**3. Chill. The pepper paste and vinegar will thicken it as it sits.**
+Cover and chill for a few hours before serving — the mayonnaise firms up noticeably as the pepper paste's moisture and the vinegar's acid work into it. Cover and refrigerate leftovers for up to 3 days.
+
+> **Variation — Chipotle Mayonnaise.** Substitute ⅓ cup puréed canned chipotle peppers (in adobo) for the pepper paste. Smokier and spicier than the roasted-red-pepper original, with a similar rust color from the chipotles themselves.
+
+**Serving suggestions:** with boiled, grilled, or roasted vegetables, especially little potatoes, asparagus, or artichokes; with grilled fish or meats. With [§7.125 Beer-Battered Fish](#7125-beer-battered-fish), Tuna Confit *(not yet in this cookbook)*, sandwiches made with Spicy Brined Turkey Breast *(not yet in this cookbook)*, Grilled Skirt, or Rib Eye Steak.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Red wine vinegar — 2 to 4 tsp
+- 🛒 Roasted red pepper purée (jarred piquillo peppers work well) — ⅓ cup, standing in for the undocumented Pepper Paste
+- 🛒 Garlic — 1 clove
+- 🛒 Salt
+- 🛒 Ingredients for [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (¾ cup)
+- 🛒 *For the Chipotle variation:* canned chipotle peppers in adobo, puréed — ⅓ cup, in place of the pepper paste
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup, 16 Tbsp)* | ~1,590 | 179 g | 3.7 g | 7 g | 1.5 g |
+| **Per serving** *(1 Tbsp, of 16)* | ~99 | 11 g | 0.2 g | 0.4 g | 0.1 g |
+
+**What a serving is:** 1 Tbsp — a dip or spread portion alongside vegetables, fish, or meat. *(The Chipotle variation runs a little lower in fat and higher in carbs per tablespoon, since chipotle purée is leaner than a pepper-and-oil paste — not separately tabled here.)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.164 Pesto (Basil Pesto)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 288–290), her "Pesto" section intro plus the Basil Pesto recipe and its own variations chart. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **The third pesto in this cookbook** — distinct from [§4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](#43-pesto-basil-parmesan-and-pine-nut-sauce), transcribed earlier from a different photographed cookbook page with its own ratios, and [§4.131 Pesto](#4131-pesto), sourced from Meathead's book; all three are kept side by side rather than merged, since each comes from its own source with its own exact ratio.
+
+> **The source's own headnote, folded in here:** *"I once worked for a chef who had a marble mortar and pestle the size (and weight) of a small child. Even though it was horribly inconvenient and entirely messy to use, he insisted that we do it to pound all of the ingredients every time we made pesto, to better connect with our culinary ancestors."* **Pesto** takes its name from *pestare*, Italian for "to pound" — the traditional method crushes the basil leaves between the pestle and mortar wall rather than slicing them, which bruises the leaf cells more gently and slowly than a fast-spinning blade does, so less chlorophyll oxidizes and the sauce stays a brighter green with a rounder, less "cut-grass" flavor. A food processor gets the same ingredients blended in a fraction of the time, at some cost to that color and freshness — the source's own compromise, described below, is a hybrid: pound the nuts and garlic by hand, then finish the basil in a machine kept as brief and cool as possible.
+
+**Makes 1¾ cups**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ¾ cup extra-virgin olive oil, divided
+- 2 packed cups (about 2 big bunches) fresh basil leaves
+- 1 or 2 garlic cloves, finely grated or pounded with a pinch of salt
+- ½ cup pine nuts, lightly toasted and pounded
+- 1½ ounces Parmesan, finely grated (about 1 heaping cup), plus more for serving
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Give the basil a head start with a knife.**
+Run a knife through the basil leaves a few times before blending — this shortens how long the machine has to run, which matters because of what's next.
+
+**2. Blend the basil briefly, with half the oil, to keep it from browning.**
+Pour half of the olive oil into the bottom of the blender or food processor bowl, then add the basil. The key to blending basil in a machine is to avoid overdoing it: the heat the motor generates, combined with oxidation from air exposure, will turn the basil brown if it runs too long or too hot. Pulse, stopping to push the leaves down with a rubber spatula a couple of times, just until the basil becomes a fragrant, emerald-green purée — stop as soon as it gets there, not after.
+
+**3. Finish the sauce by hand, in a bowl, off the machine.**
+Pour the basil purée into a medium bowl. Add the pine nuts and Parmesan and stir to combine, tasting as you go: need more garlic? More salt? More cheese? Too thick? Loosen it with a little more olive oil or some pasta water if you're about to toss it with pasta. Let it sit a few minutes, then taste and adjust once more — the flavors round out and the salt fully dissolves as it rests.
+
+**4. Add enough oil to cover the surface, to keep the color.**
+Pour a thin layer of olive oil over the top of the pesto before storing — it seals out the air that would otherwise oxidize and dull the green.
+
+Refrigerate, covered, for up to 5 days, or freeze for up to 3 months.
+
+> **Change It Up — swap the greens, nuts, or cheese.** The source's own substitution chart, keeping the same 2 cups greens : 1 heaping cup grated cheese : ½ cup nuts : ¾ cup oil ratio:
+> - **Cooked greens:** broccoli rabe, kale, wild nettles, chard.
+> - **Raw, tender greens:** arugula, pea shoots, spinach, baby chard.
+> - **Herb pestos:** parsley, sage, marjoram, mint.
+> - **Allium pestos:** ramps or garlic scapes.
+> - **Cruciferous pestos:** broccoli, cauliflower, Romanesco.
+> - **Nuts,** most traditional to least: pine nuts, walnuts, hazelnuts, almonds, pistachios, pecans, macadamia nuts — raw or lightly toasted, either way.
+> - **Cheese:** almost any hard grating cheese works — Parmesan and pecorino Romano are traditional, but Asiago, grana Padano, or aged Manchego all work fine too.
+
+> **Serving ideas, per the source:** as a pasta sauce, tossed with just-cooked, drained pasta and thinned with pasta water to a thick but pourable consistency. In Liguria, where basil pesto originates, boiled little potatoes, green beans, halved cherry tomatoes, and sweet red tomatoes are often tossed in at the last minute; balance a more bitter broccoli-rabe pesto with a few dollops of fresh ricotta after saucing. Beyond pasta: stuffed under the skin of a Crispiest Spatchcocked Chicken *(not yet in this cookbook)* before roasting, thinned with water and drizzled over grilled or roasted vegetables, or whipped into ricotta for a Ricotta and Tomato Salad Toast *(not yet in this cookbook)*.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — ¾ cup
+- 🛒 Fresh basil — 2 packed cups (about 2 big bunches)
+- 🛒 Garlic — 1 to 2 cloves
+- 🛒 Pine nuts — ½ cup
+- 🛒 Parmesan — 1½ oz, finely grated (about 1 heaping cup), plus more for serving
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1¾ cups)* | ~2,060 | 224 g | 26 g | 9 g | 6 g |
+| **Per serving** *(2 Tbsp, of 14)* | ~147 | 16 g | 1.8 g | 0.6 g | 0.4 g |
+
+**What a serving is:** 2 Tbsp — enough to sauce about 4 oz of cooked pasta for one person, or a generous spoonful over vegetables.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -11126,6 +11486,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T86](#t86-three-ways-to-cook-grains-and-quinoa) | Three Ways to Cook Grains (and Quinoa) | `grains` `rice` `quinoa` `steam-method` `ratios` `basmati` `jasmine` `arborio` `polenta` `oats` |
 | [T87](#t87-stock--saving-scraps-for-the-pot) | Stock — Saving Scraps for the Pot | `stock` `broth` `scraps` `freezer` `bones` `zero-waste` |
 | [T88](#t88-braise--the-six-step-method) | Braise — The Six-Step Method | `braise` `braising` `technique` `stew` `pot-roast` `dutch-oven` |
+| [T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) | Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion | `doughs` `baking-precision` `weigh-flour` `butter` `emulsion` `pie-dough` `flaky` |
 
 ---
 
@@ -15365,6 +15726,45 @@ A do's-and-don'ts list, straight from the book:
 
 ---
 
+### T89. Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion
+
+<!-- TECHNIQUE-TAGS: doughs, baking-precision, weigh-flour, butter, emulsion, pie-dough, flaky -->
+**Tags:** `doughs` · `baking-precision` · `weigh-flour` · `butter` · `emulsion` · `pie-dough` · `flaky`
+**Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** — three short passages from the same book as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§T85](#t85-cooking-onions--blond-browned-caramelized)–[§T88](#t88-braise--the-six-step-method): the "Butter-and-Flour Doughs" chapter intro, and two callouts from her earlier FAT chapter, "Retaining Creaminess: Butter" and "Breaking and Fixing Emulsions."
+**Used in:** [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one), [§T30 How to Use Fat](#t30-how-to-use-fat), [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking), and [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust).
+
+> **This entry is deliberately short.** Two of the three source passages it's built from — butter as an emulsion, and how to break and fix one — turn out to be the same content this cookbook already condensed from this same book at [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) and [§T30](#t30-how-to-use-fat) (see Parts B and C below). Rather than write it a third time, this entry cross-references those two and only writes out what's genuinely new: baking-precision measurement (Part A), the All-Butter Pie Dough cross-reference (Part B), and the wider, all-emulsions framing of "breaking" (Part C).
+
+#### A. Baking precision — weigh flour, don't scoop it
+
+Baking is one kitchen endeavor where precision matters. Savory cooking tolerates "about a cup" of onion; baking's chemistry does not tolerate "about a cup" of flour nearly as well, because the ratio of flour to fat to liquid is what determines whether a dough turns out flaky, tender, or tough.
+
+**Weigh your ingredients on a digital kitchen scale rather than measuring by volume.** A "scooped and packed" cup of flour — dipping the measuring cup straight into the bag — can weigh noticeably more than a "spooned and leveled" cup, simply because scooping compacts the flour and packs more of it in. That difference is invisible in a soup, but in a pastry dough it changes the flour-to-fat ratio enough to throw off the texture.
+
+**If a scale isn't handy,** spoon the flour loosely into the measuring cup from a separate spoon, rather than scooping directly from the bag, then sweep the excess off level with the flat edge of a knife — this cookbook's own [§14 pie crust recipes](#1419-vodka-pie-crust) already measure flour this exact way (line 36224's "scooping dry-measure cups into the flour and sweeping off the excess").
+
+**Chilled butter and chilled water matter for the same reason cold ingredients matter throughout [§T30's "Texture #3: FLAKY"](#t30-how-to-use-fat) section:** warm ingredients let gluten develop and toughen a dough if it's overworked, while cold ingredients slow that down and buy you room for error.
+
+#### B. Retaining creaminess: butter — cross-referenced, not repeated
+
+Butter is itself an emulsion — fat, water, and air held together — and the science of why it stays creamy across a surprisingly wide temperature range, and breaks permanently once melted, is already written out in full at [§T30 How to Use Fat](#t30-how-to-use-fat)'s "Texture #2: CREAMY" section (see its "Butter is the most forgiving emulsion there is" paragraph). Not repeated here.
+
+**What's new:** the source's own forward reference from this passage points to its **"All-Butter Pie Dough."** Checked against this cookbook — **that recipe is not currently in this cookbook.** It's distinct from [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) (a food-processor dough built on both butter *and* shortening, with vodka standing in for some of the water) and [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) (the classic hand-laminated all-butter method, from a different book). The All-Butter Pie Dough page itself wasn't among the pages photographed for this batch, so it's named here as a gap rather than invented — revisit if that page turns up in a future batch of this same source.
+
+#### C. Breaking and fixing emulsions — the wider version of T16/T30's fix
+
+**Why an emulsion breaks:** either a temperature swing (too hot or too cold pushes the fat and the water-based liquid back apart) or adding fat faster than the emulsifier — egg yolk's lecithin in mayonnaise, mustard in a vinaigrette — can keep suspending it. Once it breaks, it looks curdled and greasy instead of smooth.
+
+**The fix** — clean bowl, a half-teaspoon of the hottest tap water whisked to a foam, then the broken mixture drizzled back in drop by drop, checking after about half is back in — is exactly [§T16 Part C](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s method, word for word the same trick as [§T30](#t30-how-to-use-fat)'s "If your mayonnaise breaks" paragraph. Not repeated a third time here — go to either entry for the numbered steps.
+
+**What's new here is the wider frame:** this isn't only a mayonnaise problem. Beurre blanc, a broken vinaigrette, chocolate ganache, and an over-churned ice cream base can all break the same way, for the same two reasons, and the same fix logic — start a fresh emulsion, then reincorporate the broken one slowly — applies across all of them, not mayonnaise alone.
+
+**Confirmed already documented, not a gap:** the source's own worked example of a butter-water emulsion used as a pasta sauce, **Pasta Cacio e Pepe**, is already in this cookbook — cross-referenced at [§T30](#t30-how-to-use-fat)'s "Butter sauce" paragraph, alongside [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce). Checked and confirmed rather than assumed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # Placeholder Sections (§5–§11)
 
 Everything from here down is a **stub**. Each one is a dish Cody named with details still to come. They're grouped by category so they're easy to find and easy to fill in, and each keeps the standard three-section skeleton — Ingredients, Cooking Instructions, Grocery Shopping List — so writing one up is a matter of filling blanks rather than building structure.
@@ -18240,7 +18640,7 @@ Serve chilled or at room temperature. Store leftover slaw, covered, in the fridg
 
 > **Variation — Asian Slaw.** Toss the cabbage with just one generous pinch of salt and add 2 teaspoons soy sauce. Substitute lime juice for the lemon juice. Skip the parsley and add 1 small garlic clove, finely grated or pounded; 2 thinly sliced scallions; 1 teaspoon finely grated ginger; and ¼ cup chopped, toasted peanuts to the cabbage along with the macerated onions. Skip the red wine vinegar and olive oil and dress with [§4.142 Rice Wine Vinaigrette](#4142-rice-wine-vinaigrette). Taste and adjust seasoning with the macerating lime juice and salt.
 
-> **Variation — Classic Southern Slaw.** Substitute ½ cup stiff mayonnaise for the olive oil and vinegar — the source calls for its own "Classic Sandwich Mayo," a stiffened variant of the same undocumented Basic Mayonnaise flagged at [§4.134](#4134-creamy-caesar-dressing)/[§4.144](#4144-green-goddess-dressing); plain store-bought mayonnaise or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) stand in. Add 1 teaspoon sugar, 1 cup julienned or grated carrots, and 1 julienned or grated tart apple, such as Honeycrisp or Fuji, to the cabbage along with the macerated onions.
+> **Variation — Classic Southern Slaw.** Substitute ½ cup [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo) for the olive oil and vinegar — the source's own recipe, now documented and resolved since this recipe was first written up (previously flagged as the same undocumented Basic Mayonnaise gap as [§4.134](#4134-creamy-caesar-dressing)/[§4.144](#4144-green-goddess-dressing)). Add 1 teaspoon sugar, 1 cup julienned or grated carrots, and 1 julienned or grated tart apple, such as Honeycrisp or Fuji, to the cabbage along with the macerated onions.
 
 #### C. Grocery Shopping List
 
@@ -25347,7 +25747,7 @@ Remove the ribs from the bag and dry the meat well. Sear quickly to build color,
 
 ### 7.84 Rockfish Burger with Key Lime Aioli
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 124), recipe by **Mike La Charite**, CEO, International Sous Vide Association.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 124), recipe by **Mike La Charite**, CEO, International Sous Vide Association. **Not a duplicate of [§4.161 Aioli (Garlic Mayonnaise)](#4161-aioli-garlic-mayonnaise)**, added later from Samin Nosrat's *Salt, Fat, Acid, Heat* — this one is a citrus-forward, blender-built burger topping built into the recipe itself; §4.161 is the plain garlic version, made separately.
 
 *Cooks: 130°F (55°C) for 30 minutes • Serves: 2*
 
@@ -28271,7 +28671,7 @@ Season the fried fish with salt immediately and drain on a baking sheet lined wi
 **7. Serve immediately.**
 With lemon wedges and [§4.124 Tartar Sauce](#4124-tartar-sauce).
 
-> **Variation — Fritto Misto.** Use this same batter to coat and fry a mixture of fish and shellfish — shrimp halved lengthwise, sliced squid, soft-shell crab — along with colorful vegetables like asparagus spears, green beans, bite-size pieces of broccoli or cauliflower, wedges of spring onion, squash blossoms, and raw kale leaves. Serve with lemon wedges and Aïoli *(source p. 376 — not yet documented in this cookbook; from a forthcoming batch of this same source's doughs/mayo pages)*.
+> **Variation — Fritto Misto.** Use this same batter to coat and fry a mixture of fish and shellfish — shrimp halved lengthwise, sliced squid, soft-shell crab — along with colorful vegetables like asparagus spears, green beans, bite-size pieces of broccoli or cauliflower, wedges of spring onion, squash blossoms, and raw kale leaves. Serve with lemon wedges and [§4.161 Aioli](#4161-aioli-garlic-mayonnaise), resolved from the Doughs/Emulsions/Mayo/Pesto batch.
 
 > **Variation — Gluten-Free Batter.** For a crisp gluten-free version, use 1½ cups rice flour, 3 tablespoons potato starch, 3 tablespoons cornstarch, 1 teaspoon baking powder, ¼ teaspoon cayenne pepper, and a pinch of salt in place of the flour mixture, with 1 cup vodka and 1 cup chilled soda water in place of the vodka and beer. Follow the same method above.
 

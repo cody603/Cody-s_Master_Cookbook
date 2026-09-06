@@ -164,6 +164,19 @@ Click any recipe to jump straight to it.
   - [4.143 Miso-Mustard Dressing](#4143-miso-mustard-dressing) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.144 Green Goddess Dressing](#4144-green-goddess-dressing) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.145 Tahini Dressing](#4145-tahini-dressing) ✅ *(Salt, Fat, Acid, Heat; includes a Goma-Ae/Japanese sesame dressing variation)*
+  - [4.146 Basic Salsa Verde](#4146-basic-salsa-verde) ✅ *(Salt, Fat, Acid, Heat; includes Bread Crumb Salsa, Classic Italian Salsa Verde, and Mint Salsa Verde variations — distinct from [§4.47](#447-salsa-verde))*
+  - [4.147 Classic French Herb Salsa](#4147-classic-french-herb-salsa) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa) ✅ *(Salt, Fat, Acid, Heat; includes a Pumpkin Seed Salsa variation)*
+  - [4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.151 Meyer Lemon Salsa](#4151-meyer-lemon-salsa) ✅ *(Salt, Fat, Acid, Heat; includes Olive and Feta Relish variations)*
+  - [4.152 North African Charmoula](#4152-north-african-charmoula) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) ✅ *(Salt, Fat, Acid, Heat; distinct from [§4.48](#448-cilantro-chutney))*
+  - [4.154 Salmoriglio (Sicilian Oregano Sauce)](#4154-salmoriglio-sicilian-oregano-sauce) ✅ *(Salt, Fat, Acid, Heat; includes an Argentinian Chimichurri variation — distinct from [§7.38](#738-roast-pork-with-salmoriglio)'s salmoriglio)*
+  - [4.155 Herbed Yogurt](#4155-herbed-yogurt) ✅ *(Salt, Fat, Acid, Heat; includes an Indian Carrot Raita variation)*
+  - [4.156 Persian Herb and Cucumber Yogurt](#4156-persian-herb-and-cucumber-yogurt) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.157 Borani Esfenaj (Persian Spinach Yogurt)](#4157-borani-esfenaj-persian-spinach-yogurt) ✅ *(Salt, Fat, Acid, Heat)*
+  - [4.158 Mast-o-Laboo (Persian Beet Yogurt)](#4158-mast-o-laboo-persian-beet-yogurt) ✅ *(Salt, Fat, Acid, Heat)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -544,6 +557,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Salsas & Yogurt Sauces batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this same source's three prior batches ([§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs) among them; [§4.134](#4134-creamy-caesar-dressing)–[§4.145](#4145-tahini-dressing); [§5.50](#550-vietnamese-cucumber-salad)–[§5.53](#553-bright-cabbage-slaw)). **This same 50-page source PDF covers six different categories; this batch handles only the salsas and yogurt sauces pages (book p. 358–373) — more batches from the same scan are still coming, for the vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages.** **Thirteen full recipes and one condensed technique entry added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.145 Tahini Dressing](#4145-tahini-dressing): **[§4.146](#4146-basic-salsa-verde) Basic Salsa Verde** (with Bread Crumb Salsa, Classic Italian Salsa Verde, and Mint Salsa Verde variations folded in — **distinct from the existing [§4.47 Salsa Verde](#447-salsa-verde)**, a cooked tomatillo salsa from a different book entirely), **[§4.147](#4147-classic-french-herb-salsa) Classic French Herb Salsa**, **[§4.148](#4148-mexican-ish-herb-salsa) Mexican-ish Herb Salsa** (Pumpkin Seed Salsa variation), **[§4.149](#4149-southeast-asian-ish-herb-salsa) Southeast Asian-ish Herb Salsa**, **[§4.150](#4150-japanese-ish-herb-salsa) Japanese-ish Herb Salsa** — these five are all the same [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) formula wearing different herb-and-acid signatures — **[§4.151](#4151-meyer-lemon-salsa) Meyer Lemon Salsa** (Olive and Feta Relish variations), **[§4.152](#4152-north-african-charmoula) North African Charmoula**, **[§4.153](#4153-indian-coconut-cilantro-chutney) Indian Coconut-Cilantro Chutney** (**distinct from the existing [§4.48 Cilantro Chutney](#448-cilantro-chutney)**, which has no coconut and comes from a different book), **[§4.154](#4154-salmoriglio-sicilian-oregano-sauce) Salmoriglio (Sicilian Oregano Sauce)** (Argentinian Chimichurri variation — **distinct from the salmoriglio already embedded in [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)**, a leaner standalone version rather than that recipe's own full-cup-of-oil sauce; and this cookbook's fourth chimichurri alongside [§4.44](#444-three-herb-chimichurri)/[§4.94](#494-red-chimichurri)/[§4.95](#495-dry-chimichurri)), **[§4.155](#4155-herbed-yogurt) Herbed Yogurt** (Indian Carrot Raita variation, with the source's "Yogurt Sauce" section intro folded in as headnote), **[§4.156](#4156-persian-herb-and-cucumber-yogurt) Persian Herb and Cucumber Yogurt**, **[§4.157](#4157-borani-esfenaj-persian-spinach-yogurt) Borani Esfenaj (Persian Spinach Yogurt)**, and **[§4.158](#4158-mast-o-laboo-persian-beet-yogurt) Mast-o-Laboo (Persian Beet Yogurt)**. **One new condensed technique entry, [§T84 Salsa Math — The Herb Salsa Formula](#t84-salsa-math--the-herb-salsa-formula)**, added to the Techniques quick index — the source's own handwritten "chopped herbs + salt + olive oil to cover + shallots macerated in acid = herb salsa" diagram, condensed here since it's the underlying method all five regional herb salsas share, rather than repeated in each recipe. **One variation checked carefully and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos: Fried Sage Salsa Verde**, a named variation on [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) — its only real instruction ("follow the instructions on page 233 for frying sage") points to a source page that wasn't among those photographed for this batch, so the frying method itself is genuinely missing, not just tightly cropped; named in [§4.146](#4146-basic-salsa-verde)'s notes for completeness, not written up as its own entry. **Rated 🟢 Easy across the board** — every recipe in this batch is chopping, macerating, whisking, blending, or a brief spice-toast/sauté, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test; even [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt)'s hour-long beet roast is unattended oven time with a wide doneness window, not a failure-prone step, and it lands in the **Cook** column rather than Slow cook per [CLAUDE.md §3a](CLAUDE.md)'s roughly-2-hour rule of thumb, matching this cookbook's existing [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) precedent for the same technique. **Jargon explained inline per Cody's standing request:** macerating shallots (and, at [§4.151](#4151-meyer-lemon-salsa), a whole diced Meyer lemon) in acid to mellow harsh raw bite — explained in full at [§4.146](#4146-basic-salsa-verde) and [§T84](#t84-salsa-math--the-herb-salsa-formula), cross-referenced afterward and to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick," the same source-page gap (page 118) [§4.135](#4135-creamy-herb-dressing) already flagged and resolved via T31 in the prior batch; what makes each "-ish" salsa read as French, Mexican-ish, Southeast Asian-ish, or Japanese-ish, in the book's own herb-and-acid logic, explained at [§T84](#t84-salsa-math--the-herb-salsa-formula); chutney vs. salsa as a difference of texture and tradition (blended smooth vs. knife-chopped chunky) rather than ingredients, explained at [§4.153](#4153-indian-coconut-cilantro-chutney); and tempering (*tadka*) — briefly frying whole spices in hot fat to bloom their aromatic oils — explained at [§4.155](#4155-herbed-yogurt)'s Indian Carrot Raita variation and cross-referenced to [§4.153](#4153-indian-coconut-cilantro-chutney)'s toasted cumin. **This cookbook's [§7.123 Kufte Kebabs](#7123-kufte-kebabs) entry updated** to link its own "Persian Herb Yogurt (not yet in this cookbook)" and "Charmoula (neither yet in this cookbook)" notes to [§4.156](#4156-persian-herb-and-cucumber-yogurt) and [§4.152](#4152-north-african-charmoula) now that both gaps are filled. Many serving suggestions naming dishes not yet in this cookbook (Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Finger-Lickin' Pan-Fried Chicken, Chicken Confit, Spicy Brined Turkey Breast, Glazed Five-Spice Chicken, Spicy Brined Pork Loin, Indian-Spiced Salmon, Indian-Spiced Fried Chicken, Pork Braised with Chiles, Beer-Battered Fish, English Pea Soup, Silky Sweet Corn Soup, *Adas Polo*, Persian Roast Chicken, Grilled Artichokes, Avocado Salad, Carrot Soup) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.49 Persian-ish Rice](#549-persian-ish-rice), [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — it's cross-linked instead. None of the thirteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the salsas/chutney/salmoriglio/charmoula and "¼ cup" for the yogurt sauces. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Salads & Vinaigrettes/Dressings batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this week's two prior batches ([§8.37](#837-chicken-and-garlic-soup)–[§4.134](#4134-creamy-caesar-dressing); [§5.49 Persian-ish Rice](#549-persian-ish-rice)–[§14.23](#1423-fresh-ginger-and-molasses-cake)). **This same 50-page source PDF covers six different categories; this batch handles only the salads and vinaigrettes/dressings pages — more batches from the same scan are coming for the salsas/yogurt sauces, vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages still to be transcribed.** **Four composed salads added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.49 Persian-ish Rice](#549-persian-ish-rice): **[§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad)** (p. 226, one of the source's "Three Classic Shaved Salads" — its intro on shaved salads generally is folded in as headnote context rather than spun into its own technique entry, since only one of the three salads was among the photographed pages), **[§5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint)** (p. 235, built on a double batch of the new [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette)), **[§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber)** (p. 231, built on a double batch of the new [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette)), and **[§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)** (p. 244–245, with Alterna-slaw, Mexi-Slaw, Asian Slaw, and Classic Southern Slaw variations folded in as callouts, matching this cookbook's established precedent for a source's own variations) — **kept distinct from this cookbook's two existing slaws**, [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) and [§5.35 Cole Slaw](#535-cole-slaw), both cross-referenced rather than treated as duplicates. **Eleven vinaigrettes and dressings added to [§4](#4-rubs-seasonings-sauces--condiments)**, continuing from [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing): **[§4.135](#4135-creamy-herb-dressing) Creamy Herb Dressing**, **[§4.136](#4136-any-other-citrus-vinaigrette) Any-Other-Citrus Vinaigrette** (Kumquat Vinaigrette variation), **[§4.137](#4137-tomato-vinaigrette) Tomato Vinaigrette**, **[§4.138](#4138-red-wine-vinaigrette) Red Wine Vinaigrette** (Honey-Mustard variation), **[§4.139](#4139-balsamic-vinaigrette) Balsamic Vinaigrette** (Parmesan and Brown Butter variations — cross-linked to the existing [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying)), **[§4.140](#4140-lemon-vinaigrette) Lemon Vinaigrette** (Lemon-Anchovy variation), **[§4.141](#4141-lime-vinaigrette) Lime Vinaigrette** (spicy jalapeño variation), **[§4.142](#4142-rice-wine-vinaigrette) Rice Wine Vinaigrette** (heat and toasted-sesame-oil variations — used by [§5.53](#553-bright-cabbage-slaw)'s Asian Slaw), **[§4.143](#4143-miso-mustard-dressing) Miso-Mustard Dressing**, **[§4.144](#4144-green-goddess-dressing) Green Goddess Dressing**, and **[§4.145](#4145-tahini-dressing) Tahini Dressing** (Goma-Ae/Japanese sesame seed dressing variation). **One recipe checked very carefully and skipped rather than guessed at, per Cody's specific advance concern: Peanut-Lime Dressing (p. 249, facing Miso-Mustard Dressing).** This is genuinely cut off in the source photograph, not just a tight framing crop — the photo is already the full width of the page, and the right-hand page itself is curled/bent away from the camera in a way no wider crop of the same image recovers; every ingredient line and instruction line is truncated mid-word ("¼ cup fres...," "1 tablespo...," "Optiona..."). Named and described here, not invented. **Rated 🟢 Easy across the board** — every one of these fifteen recipes is whisking, shaking, or tossing together raw or pre-macerated ingredients, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, not even [§5.51](#551-spring-asparagus-and-feta-with-mint)'s brief asparagus blanch. **Two source gaps flagged rather than invented, both already-established gaps at [§4.134](#4134-creamy-caesar-dressing):** "Torn Croutons" (source p. 236), called for in [§5.51](#551-spring-asparagus-and-feta-with-mint) and [§5.52](#552-summer-tomato-basil-and-cucumber), gets the same torn-and-toasted-bread stand-in noted there; "Basic Mayonnaise" (source p. 375) and its stiffened "Classic Sandwich Mayo" relative, called for in [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing) and [§5.53](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, get the same store-bought-or-[§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) stand-in. **Jargon explained inline per Cody's standing request, each on first use and cross-referenced afterward:** shaved salad and mandoline slicing ([§5.50](#550-vietnamese-cucumber-salad)), "stripey peeling" a cucumber or asparagus stalk — alternating peeled and unpeeled strips for color, crunch, and better dressing cling — explained fresh since the source's own instructional page (220) wasn't photographed ([§5.50](#550-vietnamese-cucumber-salad), cross-referenced at [§5.51](#551-spring-asparagus-and-feta-with-mint)/[§5.52](#552-summer-tomato-basil-and-cucumber)), macerating shallots and onions in acid to mellow their bite — cross-referenced to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick" rather than re-explained, since this cookbook already carries that content in full (the source's own "see page 118" cross-reference wasn't among the photographed pages, but T31 already has the technique) — why a vinaigrette needs shaking or whisking to hold its emulsion, cross-referenced to the existing [§T30 How to Use Fat](#t30-how-to-use-fat) rather than re-explained, smashing a garlic clove with the palm of the hand, explained in full at [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) and cross-referenced at [§4.140](#4140-lemon-vinaigrette)/[§4.141](#4141-lime-vinaigrette)/[§4.142](#4142-rice-wine-vinaigrette), and tasting a dressing "with a leaf of lettuce" rather than off the spoon — because the thin coating amount matters more than the dressing's standalone flavor — cross-referenced to [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), which already explains it. **Crème fraîche, called for in [§4.135](#4135-creamy-herb-dressing), resolves cleanly rather than becoming a third open gap** — the source's own recipe for it (page 113) turns out to already be in this cookbook, condensed at [§T31](#t31-how-to-use-acid)'s "Making your own crème fraîche," from the same original Acid-chapter condensation pass. Several serving suggestions naming salads not yet in this cookbook (Avocado Salad, Caprese Salad, *Shirazi* Salad, Fattoush, Grain or Bean Salad, Panzanella, Shaved Fennel and Radish Salad, Shaved Carrot Salad, Beer-Battered Fish, Spicy Fried Chicken, Slow-Roasted Salmon) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) — it's cross-linked instead. None of the fifteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the eleven dressings and a normal salad-plate portion for the four composed salads. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Two unrelated family recipes added from personal recipe cards/photos: [§7.124 Poulet de France](#7124-poulet-de-france)** (a chicken-and-stuffing casserole — new section, appended after [§7.123 Kufte Kebabs](#7123-kufte-kebabs)) **and [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes)** (filling in an existing placeholder rather than creating a new section — the title and section number were already reserved in the Table of Contents). **[§7.124 Poulet de France]** is transcribed from a printed page of an unidentified community/church-style cookbook — **the source book's own title wasn't visible in the photo, so it's cited as "source cookbook title not visible in photo; family recipe card" rather than guessed** — with Cody's own handwritten red-ink adaptation notes in the margins. Per Cody: *"Add this stuffing - it's awesome. Family favorite."* **Two methods are documented, and the crockpot one is featured as primary** because it's the one the family actually uses: Cody doubles the printed single-batch recipe and assembles it directly in a 7-quart crockpot with **no freeze-first step** (confirmed with Cody — the printed card's own method freezes the assembled casserole before baking; his crockpot version skips that entirely and cooks straight away), run **on high 1 hr 20 min, then down to low for as long as he's out of the house — his own example is a church service — then back to high until the rest of the meal is ready.** The original single-batch oven method (assemble, cover, freeze, thaw overnight, bake covered 30 min at 325°F, then uncovered with cheddar for 10 more) is kept as a clearly labeled variation for anyone without a crockpot or making a smaller batch ahead. **Rated 🟢 Easy** — an assemble-and-cook casserole either way, no step that can genuinely fail, matching this cookbook's crockpot precedent ([§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans), [§8.1 Chili Mac](#81-chili-mac)). Its multi-hour crockpot stretch is filed entirely under **Slow cook**, not Cook, per [CLAUDE.md §3a](CLAUDE.md). **Two flags left in place rather than resolved by guessing:** the oven method's step-by-step wording was transcribed from an awkwardly rotated photo and is marked ⚠️ reconstructed, worth checking against the physical card; and the broth quantities on Cody's handwritten doubling notes are written across two different boxes on the card in a way that doesn't map cleanly onto which mixing step each addition belongs to — resolved here by doubling the printed recipe's own two broth additions separately (1¼ cups → 2½ cups for the stuffing, ¾ cup → 1½ cups for the egg-milk-soup sauce, totaling a clean 4 cups), noted explicitly in the entry rather than left ambiguous. Cranberry Tea and cooked frozen peas, both named on the card as serving suggestions, are flagged as pairings rather than invented as recipes. **No duplicate found** — this cookbook had no existing chicken-and-stuffing casserole before this entry. **[§5.25 Heather's Mashed Potatoes]** is transcribed from a handwritten card headed "From the Kitchen of: Joetta, To: Geviene" — that provenance is noted in the entry itself, distinct from the dish name Cody uses for it. A make-ahead mashed potato casserole (10 lb potatoes mashed with milk and butter, enriched with cream cheese and sour cream, topped with melted butter, baked at 300°F) that the card itself says "freezes well." **Rated 🟢 Easy**, same reasoning — nothing in an assemble-and-bake casserole can fail on you. **Two figures the card leaves blank are flagged rather than invented:** no serving count ("Serves:" left empty — estimated at 12–16, stated as an estimate) and no bake time (only the 300°F oven temperature is given — a 45–60 minute estimate is reasoned from baking already-cooked potatoes through at a low, gentle temperature, not copied from the card). Milk and butter amounts for the initial mashing step also aren't specified on the card and are flagged the same way. **No duplicate found** — this cookbook's only other potato-forward casseroles ([§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole), [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes)) are a sweet-potato holiday side and a cauliflower keto substitute respectively, both genuinely different dishes. Neither new recipe prints net carbs, so neither is tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Family Ratings Index (❤️ count now 56, adding [§7.124](#7124-poulet-de-france)) updated throughout. |
 | 2026-09-06 | **Four more recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and yesterday's first batch of actual recipe pages, [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)/[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing). **[§5.49 Persian-ish Rice](#549-persian-ish-rice)** (p. 285–287, two photographed pages combined into one continuous recipe) — parboiled basmati rice pan-fried over a yogurt-rice base to form *tahdig*, the crisp golden crust Persian cooking is built around; its four named variations (Bread *Tahdig*, Saffron Rice, Herbed Rice, Fava Bean and Dill Rice) folded in as callouts, matching the [§8.37](#837-chicken-and-garlic-soup) precedent. **Rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, unmolding the crust is a genuine can-go-wrong moment the source itself dwells on ("gather your courage... if for any reason your rice doesn't slip out in one piece, do what every Persian grandmother has done"), unlike this batch's other three, which are all 🟢 Easy. **[§7.123 Kufte Kebabs](#7123-kufte-kebabs)** (p. 356–357) — hand-formed torpedo-shaped ground lamb kebabs, grilled or pan-seared, with Moroccan Kofta and Turkish *Köfte* variations folded in the same way; kept distinct from this cookbook's existing Raichlen beef kebabs ([§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef)), which are cubed and skewered rather than hand-formed. **[§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola)** (p. 402–403) — a slow 300°F bake of oats, seeds, nuts, olive oil, and dark maple syrup, filed in Desserts to match the source's own "Sweets" placement. **[§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake)** (p. 412–413) — a two-layer oil cake built on puréed fresh ginger and molasses, using the "boiling water method" (a hot-liquid-into-oil mixing technique, sometimes called a hot-milk cake). **Same Vanilla Cream gap as [§14.21](#1421-loris-chocolate-midnight-cake), handled the same way:** this cake also calls for the source's own "Vanilla Cream (page 423)," not among the photographed pages for either cake — not invented here; the same whipped-cream/buttercream substitute noted at §14.21 is repeated at §14.23 rather than duplicated in full, and both entries cross-link to each other and flag the gap in Open Questions. **Three dead cross-references in [§5.49](#549-persian-ish-rice)/[§7.123](#7123-kufte-kebabs) — Slow-Roasted Salmon (p. 310), Persian Roast Chicken (p. 341), and Kuku Sabzi (p. 306) — are all noted as "not yet in this cookbook" rather than invented**, per this cookbook's standing honesty practice; Persian Herb Yogurt, Shaved Carrot Salad with Ginger and Lime, and Charmoula (all named in §7.123's own serving suggestions) get the same treatment. **Intermediate chef terminology explained in plain language throughout, per Cody's standing request:** *tahdig* and why Persian cooks prize it, *maman* (mother, per the source's own word choice), al dente as it applies to rice specifically (a firm core that finishes cooking later, not a fully tender grain), saffron tea (grinding saffron with salt, then blooming it in boiling water — explained in full at §5.49's Saffron Rice variation and cross-linked from §7.123 rather than re-explained there), why kneading kofta with warm hands helps (body heat softens the fat and binds the mixture), the dime-size pink doneness check for a kebab, the boiling-water/hot-milk-cake mixing method for the ginger cake, and old-fashioned rolled oats vs. quick oats for the granola. **Maillard reaction and caramelization, both named in the granola's own headnote, are cross-linked to the existing [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) rather than re-explained**, per this cookbook's practice of linking to standing content instead of duplicating it; molasses's own acidity (the ginger cake's baking-soda partner) is cross-linked to [§T31 How to Use Acid](#t31-how-to-use-acid)'s existing acid list rather than re-explained. **No duplicates found** — this cookbook had no existing Persian rice, kofta/kebab, granola, or ginger cake recipe before this batch (its existing kebabs are all cubed beef from a different book, cross-referenced above rather than confused for this one). None of the four print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
@@ -842,11 +856,19 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.13 Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) | 🟢 | 10 min | — | — | 10 min |
 | [§9.14 Smoked Salmon Butter](#914-smoked-salmon-butter) | 🟢 | 10 min | — | — | 10 min |
 | [§9.15 Anchovy & Lemon Butter](#915-anchovy--lemon-butter) | 🟢 | 10 min | — | — | 10 min |
+| [§4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa) | 🟢 | 10 min | — | — | 10 min |
+| [§4.154 Salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.155 Herbed Yogurt](#4155-herbed-yogurt) | 🟢 | 10 min | — | — | 10 min |
+| [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) | 🟢 | 10 min | — | — | 25 min *(includes a 15 min macerate)* |
+| [§4.147 Classic French Herb Salsa](#4147-classic-french-herb-salsa) | 🟢 | 10 min | — | — | 25 min *(includes a 15 min macerate)* |
+| [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa) | 🟢 | 10 min | — | — | 25 min *(includes a 15 min macerate)* |
+| [§4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa) | 🟢 | 10 min | — | — | 25 min *(includes a 15 min macerate)* |
 | [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) | 🟢 | 10 min | — | — | 10 min *(+ 6 hr–overnight marinate or dry-brine fridge time)* |
 | [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) | 🟢 | 10 min | — | — | 25 min *(includes a 15 min macerate)* |
 | [§4.135 Creamy Herb Dressing](#4135-creamy-herb-dressing) | 🟢 | 10 min | — | — | 20 min *(includes a 15 min macerate)* |
 | [§4.145 Tahini Dressing](#4145-tahini-dressing) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
+| [§4.152 North African Charmoula](#4152-north-african-charmoula) | 🟢 | 10 min | 3 min *(toasting cumin seeds)* | — | 15 min |
 | [§4.2 Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) | 🟢 | 5 min | 10 min | — | 15 min |
 | [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | 🟢 | 5 min | 6–11 min | — | 15–20 min *(by desired doneness)* |
@@ -886,14 +908,18 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing) | 🟢 | 15 min | — | — | 15 min |
 | [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw) | 🟢 | 15 min | — | — | 35 min *(a 20 min cabbage salt-draw and 20 min onion macerate run in parallel)* |
 | [§4.48 Cilantro Chutney](#448-cilantro-chutney) | 🟢 | 15 min | — | — | 15 min |
+| [§4.151 Meyer Lemon Salsa](#4151-meyer-lemon-salsa) | 🟢 | 15 min | — | — | 30 min *(includes a 15 min macerate)* |
+| [§4.156 Persian Herb and Cucumber Yogurt](#4156-persian-herb-and-cucumber-yogurt) | 🟢 | 15 min | — | — | 30 min *(includes a 15 min raisin soak)* |
 | [§4.49 Mango Salsa](#449-mango-salsa) | 🟢 | 15 min | — | — | 15 min |
 | [§4.50 Cucumber Relish](#450-cucumber-relish) | 🟢 | 15 min | — | — | 15 min |
 | [§T15 Barbecue Cabbage](#t15-how-to-barbecue-cabbage) | 🟢 | 15 min | — | **1–1½ hr** *(indirect grill)* | 1 hr 15 min – 1 hr 45 min |
 | [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) | 🟢 | 15 min | 10 min | **30 min** *(smoke-roast, indirect grill)* | 55 min *(+ 1 hr wood chip soak, in parallel)* |
 | [§T16 Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) | 🟡 | 15 min | — | — | 15 min |
 | [§14.16 Pie Crust](#1416-pie-crust) | 🟢 | 15 min | — | — | 15 min |
+| [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) | 🟢 | 15 min | 3 min *(toasting cumin seeds)* | — | 20 min |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§9.27 Reuben](#927-reuben) | 🟢 | 10 min | 8 min | — | 20 min |
+| [§4.157 Borani Esfenaj](#4157-borani-esfenaj-persian-spinach-yogurt) | 🟢 | 15 min | 5 min *(sautéing spinach in batches)* | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
@@ -1136,6 +1162,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
+| [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt) | 🟢 | 15 min | 1 hr *(roasting the beets, unattended)* | — | 1 hr 15 min |
 | [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(Meathead)* | 🟢 | 45 min | 30 min | — | 1 hr 15 min |
 | [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(Meathead)* | 🟡 | 15 min | 1 hr | — | 5–7 hr *(includes a 4–6 hr dry brine)* |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
@@ -10185,6 +10212,801 @@ Refrigerate leftovers, covered, for up to 3 days.
 
 ---
 
+### 4.146 Basic Salsa Verde
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 360–361), opening the "Sauces" chapter of her recipe section, right after the chapter's own "Salsa Math" formula and "Herb Salsa" intro — both condensed at [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) rather than repeated here. Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and [§4.134](#4134-creamy-caesar-dressing)–[§4.145](#4145-tahini-dressing). **Distinct from this cookbook's existing [§4.47 Salsa Verde](#447-salsa-verde)** — that one is a cooked, blended tomatillo salsa from Steven Raichlen's *How to Grill*; this is a raw, hand-chopped parsley-and-shallot sauce, the Italian original the name comes from. The two share nothing but a name, the same way this cookbook already tracks three separate chimichurris and three separate North Carolina vinegar sauces.
+
+**Makes ¾ cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~25 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 3 tablespoons finely diced shallot (about 1 medium shallot)
+- 3 tablespoons red wine vinegar
+- ¼ cup very finely chopped parsley leaves
+- ¼ cup extra-virgin olive oil
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot in the vinegar. 15 minutes.**
+In a small bowl, combine the shallot and vinegar and let sit for 15 minutes. **Macerating** means soaking something in acid to soften its harshness — raw shallot straight off the cutting board is sharp and aggressive; 15 minutes in vinegar mellows it out completely without cooking it. This is the same trick [§T31 How to Use Acid](#t31-how-to-use-acid) covers under "Macerating: the onion trick," and it's the reason every salsa in this batch macerates its shallot rather than using it raw. The source's own page cross-reference for this technique (page 118) wasn't among the pages photographed for this batch, but this cookbook's T31 entry already has it in full.
+
+**2. Make the parsley oil.**
+In a separate small bowl, combine the parsley, olive oil, and a generous pinch of salt.
+
+**3. Combine just before serving.**
+Use a slotted spoon to add the shallot — but not its macerating vinegar, not yet — to the parsley oil. Stir, taste, and add the vinegar back in as needed to balance it. Taste and adjust salt. Serve immediately.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables. The source suggests English Pea Soup, Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Finger-Lickin' Pan-Fried Chicken, Chicken Confit, and Conveyor Belt Chicken — none of these are documented in this cookbook yet, so they're noted rather than invented — alongside [§7.123 Kufte Kebabs](#7123-kufte-kebabs), which is.
+
+> **Variation — Bread Crumb Salsa.** Stir in 3 tablespoons toasted bread crumbs just before serving, for a crunchy version. *(The source's own "Sprinkling Crumbs" recipe, page 237, wasn't among the pages photographed for this batch — plain toasted fresh bread crumbs stand in.)*
+
+> **Variation — Classic Italian Salsa Verde.** Add 6 finely chopped anchovy fillets and 1 tablespoon rinsed, coarsely chopped capers to the parsley oil.
+
+> **Variation — Mint Salsa Verde.** Substitute 2 tablespoons finely chopped mint for half of the parsley.
+
+> A **Fried Sage Salsa Verde** variation also appears on the facing page of the source, built on this same base with crumbled fried sage leaves stirred in — but the frying method it calls for ("follow the instructions on page 233") is on a page that wasn't among those photographed for this batch, so it's skipped rather than guessed at. Named here for completeness; revisit if that source page ever gets photographed.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 medium, for 3 Tbsp diced
+- 🛒 Red wine vinegar — 3 Tbsp
+- 🛒 Fresh parsley — ¼ cup very finely chopped
+- 🛒 Extra-virgin olive oil — ¼ cup
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(¾ cup)* | ~510 | 54 g | 1 g | 4 g | 1 g |
+| **Per serving** *(2 Tbsp, of 6)* | ~85 | 9 g | 0 g | 0.7 g | 0 g |
+
+**What a serving is:** 2 Tbsp — a garnish spoonful over soup, fish, or a bowl of beans.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.147 Classic French Herb Salsa
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 362), the same "Sauces" chapter as [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde), facing [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). This is the first of five regional riffs the source builds on [§T84](#t84-salsa-math--the-herb-salsa-formula)'s same chopped-herbs-plus-macerated-shallot formula — **what makes this one read as "French" is the herb bouquet itself**: chervil, chives, and tarragon are the classic *fines herbes*, delicate herbs that lose flavor fast in cooking and are almost always used raw or added at the very last minute, which is exactly the role they play here.
+
+**Makes ¾ cup**
+
+**🟢 Easy** · **Prep ~10 min** *(five herbs to mince)* · **Cook none** · **Start to finish ~25 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 3 tablespoons finely diced shallot (about 1 medium shallot)
+- 3 tablespoons white wine vinegar
+- 2 tablespoons very finely chopped parsley leaves
+- 1 tablespoon very finely chopped chervil
+- 1 tablespoon very finely chopped chives
+- 1 tablespoon very finely chopped basil
+- 1 teaspoon very finely chopped tarragon
+- 5 tablespoons extra-virgin olive oil
+- Salt
+
+> **Chervil** is a delicate, feathery herb that tastes like a milder parsley with a whisper of anise. If you can't find it, parsley alone (upped to 3 tablespoons total) is a reasonable stand-in, though the flavor won't be quite as soft.
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot. 15 minutes.**
+In a small bowl, combine the shallot and vinegar and let sit for 15 minutes to macerate — see [§4.146](#4146-basic-salsa-verde) or [§T31 How to Use Acid](#t31-how-to-use-acid) for why this step matters.
+
+**2. Make the herb oil.**
+In a separate small bowl, combine the parsley, chervil, chives, basil, tarragon, olive oil, and a generous pinch of salt.
+
+**3. Combine just before serving.**
+Use a slotted spoon to add the shallot — not its vinegar yet — to the herb oil. Stir, taste, and add vinegar as needed. Taste and adjust salt.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Simmered Beans, Slow-Roasted Salmon, Tuna Confit, Finger-Lickin' Pan-Fried Chicken, and Chicken Confit — none of these five are documented in this cookbook yet, so noted rather than invented.
+
+> **Variation — Pickly Pucker.** Add 1 tablespoon finely chopped cornichons.
+
+> **Variation — Lighter and Brighter.** Substitute lemon juice for the vinegar and add ½ teaspoon finely grated lemon zest.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 medium, for 3 Tbsp diced
+- 🛒 White wine vinegar — 3 Tbsp
+- 🛒 Fresh parsley, chervil, chives, basil, tarragon — 2 Tbsp, 1 Tbsp, 1 Tbsp, 1 Tbsp, and 1 tsp respectively, all very finely chopped
+- 🛒 Extra-virgin olive oil — 5 Tbsp
+- 🛒 Salt
+- 🛒 Cornichons — 1 Tbsp finely chopped, for the Pickly Pucker variation
+- 🛒 Lemon — for the Lighter and Brighter variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(¾ cup)* | ~630 | 68 g | 1 g | 5 g | 1 g |
+| **Per serving** *(2 Tbsp, of 6)* | ~105 | 11 g | 0 g | 0.8 g | 0 g |
+
+**What a serving is:** 2 Tbsp — a garnish spoonful over soup, fish, or chicken.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.148 Mexican-ish Herb Salsa
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 363), facing [§4.147 Classic French Herb Salsa](#4147-classic-french-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **What reads as "Mexican-ish" here is the swap to lime juice and cilantro plus jalapeño and scallion** — the same [§T84](#t84-salsa-math--the-herb-salsa-formula) formula as [§4.147](#4147-classic-french-herb-salsa), with a different herb-and-acid signature.
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~25 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 3 tablespoons finely diced shallot (about 1 medium shallot)
+- 3 tablespoons lime juice
+- ¼ cup very finely chopped cilantro leaves and tender stems
+- 1 tablespoon minced jalapeño pepper
+- 2 tablespoons very finely chopped scallions (green and white parts)
+- ¼ cup neutral-tasting oil
+- Salt
+
+> **Cilantro stems** are the most flavorful part of the herb, and less fibrous than parsley stems — work the tender ones into the salsa rather than discarding them (see [§T84](#t84-salsa-math--the-herb-salsa-formula)).
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot in lime juice. 15 minutes.**
+In a small bowl, combine the shallot and lime juice and let sit for 15 minutes to macerate — see [§4.146](#4146-basic-salsa-verde) or [§T31](#t31-how-to-use-acid).
+
+**2. Make the herb oil.**
+In a separate small bowl, combine the cilantro, jalapeño, scallions, oil, and a generous pinch of salt.
+
+**3. Combine just before serving.**
+Use a slotted spoon to add the shallot — not its lime juice yet — to the herb oil. Stir, taste, and add lime juice as needed. Taste and adjust salt.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Silky Sweet Corn Soup, Simmered Beans, Slow-Roasted Salmon, fish tacos made with Beer-Battered Fish, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, and Pork Braised with Chiles — none of these eight are documented in this cookbook yet, so noted rather than invented.
+
+> **Variation — Crunch.** Add 3 tablespoons pomegranate seeds, or finely diced cucumber, cabbage, or jicama.
+
+> **Variation — Sweetness.** Add 3 tablespoons finely diced mango or kumquats.
+
+> **Variation — Creaminess.** Add 3 tablespoons finely diced ripe avocado.
+
+> **Variation — Pumpkin Seed Salsa.** Add 3 tablespoons chopped, toasted pumpkin seeds.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 medium, for 3 Tbsp diced
+- 🛒 Limes — for 3 Tbsp juice
+- 🛒 Fresh cilantro — ¼ cup very finely chopped
+- 🛒 Jalapeño pepper — 1 Tbsp minced
+- 🛒 Scallions — 2 Tbsp very finely chopped
+- 🛒 Neutral-tasting oil (grapeseed, canola, or similar) — ¼ cup
+- 🛒 Salt
+- 🛒 Toasted pumpkin seeds — 3 Tbsp chopped, for the Pumpkin Seed Salsa variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~520 | 54 g | 1 g | 8 g | 1 g |
+| **Per serving** *(2 Tbsp, of 8)* | ~65 | 7 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — a garnish spoonful over soup, tacos, or grilled meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.149 Southeast Asian-ish Herb Salsa
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 364), facing [§4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). Builds on [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa)'s cilantro-lime-jalapeño base — **grated ginger is what shifts it "Southeast Asian-ish,"** per [§T84](#t84-salsa-math--the-herb-salsa-formula).
+
+**Makes about 1¼ cups**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~25 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 3 tablespoons finely diced shallot (about 1 medium shallot)
+- 3 tablespoons lime juice
+- ¼ cup very finely chopped cilantro leaves and tender stems
+- 1 tablespoon minced jalapeño pepper
+- 2 tablespoons very finely chopped scallions (green and white parts)
+- 2 teaspoons finely grated ginger
+- 5 tablespoons neutral-tasting oil
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Macerate the shallot in lime juice. 15 minutes.**
+In a small bowl, combine the shallot and lime juice and let sit for 15 minutes to macerate — see [§4.146](#4146-basic-salsa-verde) or [§T31](#t31-how-to-use-acid).
+
+**2. Make the herb oil.**
+In a separate small bowl, combine the cilantro, jalapeño, scallions, ginger, oil, and a generous pinch of salt.
+
+**3. Combine just before serving.**
+Use a slotted spoon to add the shallot — not its lime juice yet — to the herb oil. Stir, taste, and add lime juice as needed. Taste and adjust salt.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** As a garnish for soup or a marinade for meats; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Glazed Five-Spice Chicken, Spicy Brined Pork Loin, and Grilled Skirt or Rib Eye Steak — none of these seven are documented in this cookbook yet, so noted rather than invented.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallot — 1 medium, for 3 Tbsp diced
+- 🛒 Limes — for 3 Tbsp juice
+- 🛒 Fresh cilantro — ¼ cup very finely chopped
+- 🛒 Jalapeño pepper — 1 Tbsp minced
+- 🛒 Scallions — 2 Tbsp very finely chopped
+- 🛒 Fresh ginger — 2 tsp finely grated
+- 🛒 Neutral-tasting oil — 5 Tbsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1¼ cups)* | ~640 | 68 g | 1 g | 8 g | 1 g |
+| **Per serving** *(2 Tbsp, of 10)* | ~65 | 7 g | 0 g | 0.8 g | 0 g |
+
+**What a serving is:** 2 Tbsp — a garnish spoonful over soup or grilled meat.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.150 Japanese-ish Herb Salsa
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 365), facing [§4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **The odd one out of this batch's five regional salsas** — it skips the macerated-shallot step entirely and gets its salt and acid straight from soy sauce and seasoned rice wine vinegar instead, per [§T84](#t84-salsa-math--the-herb-salsa-formula).
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(no macerate — this is the one salsa in the batch with nothing to wait on)*
+
+#### A. Ingredients
+
+- 2 tablespoons very finely chopped parsley leaves
+- 2 tablespoons very finely chopped cilantro leaves and tender stems
+- 2 tablespoons very finely chopped scallion (green and white parts)
+- 1 teaspoon finely grated ginger
+- ¼ cup neutral-tasting oil
+- 1 tablespoon soy sauce
+- 3 tablespoons seasoned rice wine vinegar
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Combine everything but the vinegar.**
+In a small bowl, combine the parsley, cilantro, scallion, ginger, oil, and soy sauce.
+
+**2. Add the vinegar just before serving.**
+Stir in the vinegar, taste, and adjust salt and acid as needed.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Glazed Five-Spice Chicken, Spicy Brined Pork Loin, and Grilled Skirt or Rib Eye Steak — none of these seven are documented in this cookbook yet, so noted rather than invented.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Seasoned rice wine vinegar — 3 Tbsp *(a plain grocery store carries this too — Chinese market just reliably has it)*
+
+**🛒 General grocery**
+
+- 🛒 Fresh parsley — 2 Tbsp very finely chopped
+- 🛒 Fresh cilantro — 2 Tbsp very finely chopped
+- 🛒 Scallion — 2 Tbsp very finely chopped
+- 🛒 Fresh ginger — 1 tsp finely grated
+- 🛒 Neutral-tasting oil — ¼ cup
+- 🛒 Soy sauce — 1 Tbsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~535 | 54 g | 1 g | 10 g | 0 g |
+| **Per serving** *(2 Tbsp, of 8)* | ~67 | 7 g | 0 g | 1 g | 0 g |
+
+**What a serving is:** 2 Tbsp — a garnish spoonful over soup, fish, or rice.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.151 Meyer Lemon Salsa
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 366), facing [§4.152 North African Charmoula](#4152-north-african-charmoula). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.146](#4146-basic-salsa-verde)–[§4.150](#4150-japanese-ish-herb-salsa), the same [§T84](#t84-salsa-math--the-herb-salsa-formula) formula with the whole diced lemon — peel, pith, and all — standing in for the usual straight acid.
+
+**Makes about 1¼ cups**
+
+**🟢 Easy** · **Prep ~15 min** *(dicing a whole lemon, pith and peel included)* · **Cook none** · **Start to finish ~30 min** *(includes a 15 min macerate)*
+
+#### A. Ingredients
+
+- 1 small Meyer lemon
+- 3 tablespoons finely diced shallot (about 1 medium shallot)
+- 3 tablespoons white wine vinegar
+- ¼ cup very finely chopped parsley leaves
+- ¼ cup extra-virgin olive oil
+- Salt
+
+> **Meyer lemon** is a lemon-mandarin cross — sweeter, less acidic, and with a thinner, more fragrant peel than a regular lemon, which is exactly why this recipe can get away with dicing and eating the whole thing, peel included. A regular lemon's thicker, more bitter pith would overwhelm the salsa; if Meyer lemons aren't available, this cookbook's [§T21 Preserved Lemons](#t21-preserved-lemons-meyer-or-regular) entry has notes on the regular-lemon substitution logic, though this particular recipe hasn't been tested with one.
+
+#### B. Cooking Instructions
+
+**1. Dice the whole lemon.**
+Quarter the lemon lengthwise, then cut out and discard the central membrane and seeds. Finely dice the cleaned lemon, including the pith and peel.
+
+**2. Macerate the lemon and shallot together. 15 minutes.**
+In a small bowl, combine the diced lemon and any juice you managed to save with the shallot and vinegar. Let sit for 15 minutes to macerate — see [§4.146](#4146-basic-salsa-verde) or [§T31](#t31-how-to-use-acid).
+
+**3. Make the parsley oil.**
+In a separate small bowl, combine the parsley, olive oil, and a generous pinch of salt.
+
+**4. Combine to serve.**
+Use a slotted spoon to add the Meyer lemon and shallot mixture — not the vinegar yet — to the herb oil. Taste and adjust salt and acid as needed.
+
+Refrigerate, covered, for up to 3 days.
+
+**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Simmered Beans, Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Chicken Confit, and Conveyor Belt Chicken — none of these six are documented in this cookbook yet, so noted rather than invented.
+
+> **Variation — Meyer Lemon and Olive Relish.** Reduce the salt and add 3 tablespoons chopped, pitted Picholine olives.
+
+> **Variation — Meyer Lemon and Feta Relish.** Reduce the salt and add 3 tablespoons crumbled sheep's milk feta cheese.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Meyer lemon — 1 small
+- 🛒 Shallot — 1 medium, for 3 Tbsp diced
+- 🛒 White wine vinegar — 3 Tbsp
+- 🛒 Fresh parsley — ¼ cup very finely chopped
+- 🛒 Extra-virgin olive oil — ¼ cup
+- 🛒 Salt
+- 🛒 Picholine olives — 3 Tbsp chopped, pitted, for the Olive Relish variation
+- 🛒 Sheep's milk feta cheese — 3 Tbsp crumbled, for the Feta Relish variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1¼ cups)* | ~535 | 54 g | 1 g | 10 g | 3 g |
+| **Per serving** *(2 Tbsp, of 10)* | ~54 | 5 g | 0 g | 1 g | 0.3 g |
+
+**What a serving is:** 2 Tbsp — a garnish spoonful over soup, fish, or chicken.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.152 North African Charmoula
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 367), facing [§4.151 Meyer Lemon Salsa](#4151-meyer-lemon-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Charmoula** is a North African herb-and-spice sauce built the same blended way as [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) — toasted cumin ground fresh, then blended smooth with cilantro, garlic, ginger, chile, and citrus — rather than the knife-chopped [§T84](#t84-salsa-math--the-herb-salsa-formula) format the earlier salsas in this batch use.
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~3 min** *(toasting cumin seeds)* · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- ½ teaspoon cumin seed
+- ½ cup extra-virgin olive oil
+- 1 cup coarsely chopped cilantro leaves and tender stems
+- 1 garlic clove
+- 1-inch knob of ginger, peeled and sliced
+- ½ small jalapeño pepper, stemmed
+- 4 teaspoons lime juice
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Toast and grind the cumin seeds. About 3 minutes.**
+Place the cumin seeds in a small, dry skillet and set over medium heat. Swirl the pan constantly to ensure even toasting. Toast until the first few seeds begin to pop and emit a savory aroma, about 3 minutes. Remove from the heat and immediately dump the seeds into the bowl of a mortar or a spice grinder. Grind finely with a pinch of salt.
+
+**2. Blend everything together.**
+Place the oil, toasted cumin, cilantro, garlic, ginger, jalapeño, lime juice, and two generous pinches of salt in a blender or food processor. Blend until no chunks or whole leaves remain. Taste and adjust salt and acid. Add water as needed to thin to the consistency you want.
+
+Cover and refrigerate until serving. Leftovers keep, covered, for up to 3 days.
+
+**Serving suggestions:** Stir into Basic Mayonnaise for a condiment good on turkey sandwiches *(this cookbook doesn't yet have the source's own mayonnaise recipe — store-bought mayonnaise or [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) both stand in fine)*; reduce the oil to ¼ cup and use as a marinade for fish or chicken; serve with rice, chickpeas, or couscous, braised lamb or chicken, or grilled meats or fish. Drizzle onto an Avocado Salad or Carrot Soup; serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice), Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, or [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — this last one closes the loop on [§7.123](#7123-kufte-kebabs)'s own note that Charmoula "wasn't yet in this cookbook."
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cumin seed — ½ tsp
+- 🛒 Extra-virgin olive oil — ½ cup
+- 🛒 Fresh cilantro — 1 cup coarsely chopped
+- 🛒 Garlic — 1 clove
+- 🛒 Fresh ginger — 1-inch knob
+- 🛒 Jalapeño pepper — ½ small
+- 🛒 Limes — for 4 tsp juice
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~990 | 108 g | 2 g | 6 g | 1 g |
+| **Per serving** *(2 Tbsp, of 8)* | ~124 | 14 g | 0.3 g | 0.8 g | 0.1 g |
+
+**What a serving is:** 2 Tbsp — a marinade or drizzle spoonful, not a whole side dish.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.153 Indian Coconut-Cilantro Chutney
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 368), facing [§4.154 Salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Distinct from this cookbook's existing [§4.48 Cilantro Chutney](#448-cilantro-chutney)** — that one, from Steven Raichlen's *How to Grill*, is cilantro, walnuts, and jalapeño blended with lemon juice and no coconut at all; this one leads with fresh coconut and toasted cumin. Two different books' takes on the same broad category, kept side by side rather than treated as duplicates, the way this cookbook already handles its three chimichurris.
+
+> **Chutney vs. salsa, in this book's own practice:** the source calls this one a "chutney" rather than a "salsa" even though it's built from the same chopped-herbs-plus-acid logic as [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) — the difference here is texture and method, not ingredients. The salsas in this batch are knife-chopped and kept a little chunky; this chutney (like [§4.152 North African Charmoula](#4152-north-african-charmoula)) is fully blended smooth in a machine. It's the same family of sauce, dressed differently.
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~3 min** *(toasting cumin seeds)* · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- 1 teaspoon cumin seed
+- 2 tablespoons lime juice
+- ½ cup fresh or frozen grated coconut
+- 1 to 2 garlic cloves
+- 1 cup cilantro leaves and tender stems (from about 1 bunch)
+- 12 fresh mint leaves
+- ½ jalapeño pepper, stemmed
+- ¾ teaspoon sugar
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Toast and grind the cumin seeds. About 3 minutes.**
+Place the cumin seeds in a small, dry skillet and set over medium heat. Swirl the pan constantly to ensure even toasting. Toast until the first few seeds begin to pop and emit a savory aroma, about 3 minutes. Remove from the heat and immediately dump the seeds into the bowl of a mortar or a spice grinder. Grind finely with a pinch of salt.
+
+**2. Break down the coconut and garlic first.**
+Pulse the lime juice, coconut, and garlic together in a blender or food processor for 2 minutes, until no large chunks remain.
+
+**3. Add everything else and finish blending.**
+Add the toasted cumin, cilantro, mint leaves, jalapeño, sugar, and a generous pinch of salt, and continue blending for another 2 to 3 minutes, until no chunks or whole leaves remain. Taste and adjust salt and acid. Add water if needed to thin to a drizzle-able consistency.
+
+Cover and refrigerate until serving. Leftovers keep, covered, for up to 3 days.
+
+**Serving suggestions:** Over simmered lentils, or as a marinade for fish or chicken. With Indian-Spiced Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Indian-Spiced Fried Chicken, Conveyor Belt Chicken, Spicy Brined Turkey Breast, or [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — the rest of these six aren't documented in this cookbook yet, so noted rather than invented.
+
+> **Variation — No Fresh Coconut.** Pour 1 cup boiling water over ½ cup dried coconut and let sit for 15 minutes to rehydrate. Drain and continue as above.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Indian or Asian market**
+
+- 🏪 Fresh or frozen grated coconut — ½ cup *(or dried coconut, for the rehydrated variation)*
+
+**🛒 General grocery**
+
+- 🛒 Cumin seed — 1 tsp
+- 🛒 Limes — for 2 Tbsp juice
+- 🛒 Garlic — 1 to 2 cloves
+- 🛒 Fresh cilantro — 1 cup leaves and tender stems
+- 🛒 Fresh mint — 12 leaves
+- 🛒 Jalapeño pepper — ½
+- 🛒 Sugar — ¾ tsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~160 | 14 g | 2 g | 10 g | 4 g |
+| **Per serving** *(2 Tbsp, of 8)* | ~20 | 1.7 g | 0.2 g | 1.3 g | 0.5 g |
+
+**What a serving is:** 2 Tbsp — a drizzle over lentils or a marinade spoonful.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.154 Salmoriglio (Sicilian Oregano Sauce)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 369), facing [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Distinct from the salmoriglio already embedded in [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)** (Canal House) — that one is garlic, oregano, and parsley stirred straight into a full cup of olive oil with the juice of two lemons, made specifically to spoon over one particular pork roast. This is a leaner, more concentrated version (a quarter as much oil, dried oregano as an option) written as a standalone all-purpose sauce with its own named variation. Kept side by side rather than treated as a duplicate — two books' takes on the same Sicilian idea, the same way this cookbook already tracks three separate chimichurris and three separate North Carolina vinegar sauces.
+
+**Makes about ½ cup**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- ¼ cup very finely chopped parsley
+- 2 tablespoons very finely chopped fresh oregano or marjoram, or 1 tablespoon dried oregano
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+- ¼ cup extra-virgin olive oil
+- 2 tablespoons lemon juice
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Combine the base.**
+Combine the parsley, oregano, garlic, and olive oil in a small bowl with a generous pinch of salt.
+
+**2. Add the lemon juice just before serving.**
+Stir in the lemon juice, taste, and adjust for salt and acid. Serve immediately.
+
+Refrigerate, covered, for up to 3 days.
+
+**Serving suggestions:** With grilled or roasted fish or meat; with grilled, roasted, or blanched vegetables; with Slow-Roasted Salmon, Tuna Confit, and Crispiest Spatchcocked Chicken — none of these three are documented in this cookbook yet, so noted rather than invented. Also good with [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) itself, in place of that recipe's own sauce, if a leaner version is wanted.
+
+> **Variation — Argentinian Chimichurri.** For spooning over grilled meats, add 1 teaspoon red pepper flakes and 1 to 2 tablespoons red wine vinegar to taste. **This cookbook now carries four chimichurris**: [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) (raw, parsley-and-garlic based — the familiar green one), [§4.94 Red Chimichurri](#494-red-chimichurri) (cooked, tomato-based), [§4.95 "Dry" Chimichurri](#495-dry-chimichurri) (dried herbs, no fresh ingredients), and this one — an oregano-forward version built on the Salmoriglio base rather than the usual parsley-and-garlic one. All four are distinct enough to be worth keeping.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fresh parsley — ¼ cup very finely chopped
+- 🛒 Fresh oregano or marjoram (or dried oregano) — 2 Tbsp fresh or 1 Tbsp dried
+- 🛒 Garlic — 1 clove
+- 🛒 Extra-virgin olive oil — ¼ cup
+- 🛒 Lemon — for 2 Tbsp juice
+- 🛒 Salt
+- 🛒 Red pepper flakes and red wine vinegar — for the Argentinian Chimichurri variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup)* | ~500 | 54 g | 1 g | 3 g | 1 g |
+| **Per serving** *(2 Tbsp, of 4)* | ~125 | 13.5 g | 0.3 g | 0.8 g | 0.3 g |
+
+**What a serving is:** 2 Tbsp — a spoonful over grilled fish, chicken, or steak.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.155 Herbed Yogurt
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 370), opening the "Yogurt Sauce" section of her Sauces chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.146](#4146-basic-salsa-verde)–[§4.154](#4154-salmoriglio-sicilian-oregano-sauce). The source's own section intro is folded in below as headnote context rather than spun into a separate technique entry, matching this cookbook's precedent for a source's short section intro (see [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad)'s handling of the "shaved salads" intro from the same book).
+
+> **On yogurt sauces, per the source:** *"I grew up spooning yogurt on everything—including, embarrassingly, pasta!—not so much for its flavor, but because it was a handy way to cool down the steaming-hot food I usually couldn't wait to eat. Eventually, I grew to love yogurt for its creaminess and acidity, and the way it complements rich and oily dishes equally well."* Serve these yogurt sauces alongside Indian-Spiced Salmon, *Adas Polo*, Grilled Artichokes, Persian Roast Chicken, or [§5.49 Persian-ish Rice](#549-persian-ish-rice) — only the last of these is in this cookbook so far, so the rest are noted rather than invented — or bring them to the table as a dip for crunchy raw vegetables or warm flatbread. **Labne** is a thick, tangy strained yogurt, popular across the Middle East — the source starts with labne or Greek yogurt for these sauces, since straining off the whey concentrates both the tang and the body, but any plain yogurt works; it'll just run a little looser.
+
+**Makes 1¾ cups**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+- 1½ cups plain yogurt
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+- 2 tablespoons finely chopped parsley
+- 2 tablespoons finely chopped cilantro leaves and tender stems
+- 8 mint leaves, finely chopped
+- 2 tablespoons extra-virgin olive oil
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Combine everything.**
+In a medium bowl, combine the yogurt, garlic, parsley, cilantro, mint leaves, and olive oil with a generous pinch of salt. Stir, taste, and adjust seasoning with salt as needed. Cover and chill until serving.
+
+Cover and refrigerate leftovers for up to 3 days.
+
+> **Variation — Indian Carrot Raita.** Omit the olive oil. Add ½ cup coarsely grated carrot and 2 teaspoons finely grated fresh ginger to the yogurt. Melt 2 tablespoons ghee or neutral-tasting oil in a small frying pan over medium-high heat. Sizzle in 1 teaspoon cumin seed, 1 teaspoon black mustard seed, and 1 teaspoon coriander seed for about 30 seconds, or until the first seeds begin to pop — this quick sizzle is called **tempering** (or *tadka* in Hindi): briefly frying whole spices in hot fat blooms their aromatic oils far more than stirring them in raw ever would, the same reason [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) toasts its cumin seeds before grinding them. Pour the tempered spices and their oil immediately into the yogurt mixture and stir to combine. Taste and adjust for salt. Cover and chill until serving. *(Adds about 2 minutes of active cook time to the base recipe's none.)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Plain yogurt — 1½ cups
+- 🛒 Garlic — 1 clove
+- 🛒 Fresh parsley — 2 Tbsp finely chopped
+- 🛒 Fresh cilantro — 2 Tbsp finely chopped
+- 🛒 Fresh mint — 8 leaves
+- 🛒 Extra-virgin olive oil — 2 Tbsp
+- 🛒 Salt
+- 🛒 Carrot, fresh ginger, ghee, cumin seed, black mustard seed, coriander seed — for the Indian Carrot Raita variation
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(1¾ cups)* | ~470 | 39 g | 12 g | 18 g | 1 g |
+| **Per serving** *(¼ cup, of 7)* | ~67 | 5.5 g | 1.7 g | 2.5 g | 0.1 g |
+
+**What a serving is:** ¼ cup — a dollop alongside a rice or vegetable plate, or a dip scoop with flatbread.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.156 Persian Herb and Cucumber Yogurt
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 371), facing [§4.155 Herbed Yogurt](#4155-herbed-yogurt). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). The first of three Persian yogurt sauces in this batch, alongside [§4.157 Borani Esfenaj](#4157-borani-esfenaj-persian-spinach-yogurt) and [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt).
+
+**Makes 2 cups**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~30 min** *(includes a 15 min raisin soak)*
+
+#### A. Ingredients
+
+- ¼ cup black or golden raisins
+- 1½ cups plain yogurt
+- 1 Persian cucumber, peeled and finely diced
+- ¼ cup any combination finely chopped fresh mint leaves, dill, parsley, and cilantro
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+- ¼ cup toasted walnuts, coarsely chopped
+- 2 tablespoons extra-virgin olive oil
+- A generous pinch of salt
+- Optional: dried rose petals for garnish
+
+#### B. Cooking Instructions
+
+**1. Plump the raisins. 15 minutes.**
+In a small bowl, submerge the raisins in boiling water. Let them sit for 15 minutes to rehydrate and plump up. Drain.
+
+**2. Combine everything.**
+Place the drained raisins in a medium bowl and add the yogurt, cucumber, herbs, garlic, walnuts, olive oil, and salt. Stir to combine, taste, and adjust salt as needed. Chill until serving.
+
+If desired, garnish with crumbled rose petals before serving. Cover and refrigerate leftovers for up to 3 days.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Middle Eastern/specialty**
+
+- 🏪 Dried rose petals — for garnish, optional
+
+**🛒 General grocery**
+
+- 🛒 Black or golden raisins — ¼ cup
+- 🛒 Plain yogurt — 1½ cups
+- 🛒 Persian cucumber — 1
+- 🛒 Fresh mint, dill, parsley, cilantro (any combination) — ¼ cup finely chopped
+- 🛒 Garlic — 1 clove
+- 🛒 Walnuts — ¼ cup, toasted and coarsely chopped
+- 🛒 Extra-virgin olive oil — 2 Tbsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~785 | 59 g | 18 g | 51 g | 3.5 g |
+| **Per serving** *(¼ cup, of 8)* | ~98 | 7 g | 2 g | 6 g | 0.4 g |
+
+**What a serving is:** ¼ cup — a dollop alongside a rice plate, or a dip scoop with flatbread.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.157 Borani Esfenaj (Persian Spinach Yogurt)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 372). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Borani** is the Persian name for a whole family of cooked-vegetable-and-yogurt dishes — this is the spinach version, and [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt) is the same idea built on beets instead.
+
+**Makes 2¼ cups**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** *(sautéing spinach in batches)* · **Start to finish ~20 min**
+
+#### A. Ingredients
+
+- 4 tablespoons extra-virgin olive oil
+- 2 bunches spinach, trimmed and washed, or 1½ pounds baby spinach, washed
+- ¼ cup finely chopped cilantro leaves and tender stems
+- 1 to 2 garlic cloves, finely grated or pounded with a pinch of salt
+- 1½ cups plain yogurt
+- Salt
+- ½ teaspoon lemon juice
+
+#### B. Cooking Instructions
+
+**1. Sauté the spinach until just wilted. About 2 minutes per batch.**
+Heat a large frying pan over high heat, add 2 tablespoons of the olive oil, and when it shimmers, add the spinach and sauté until just wilted, about 2 minutes. Depending on the size of the pan, you may need to do this in two batches. Immediately remove the cooked spinach from the pan and spread it in a single layer on a cookie sheet lined with parchment paper — this stops the carryover heat from overcooking it further and keeps it from discoloring.
+
+**2. Cool, squeeze dry, and chop.**
+When the spinach is cool enough to handle, squeeze out all the water with your hands, then chop it finely. Spinach holds a surprising amount of water even after sautéing — skipping this squeeze would leave the finished sauce watery and dilute the yogurt.
+
+**3. Combine everything.**
+In a medium bowl, combine the spinach, cilantro, garlic, yogurt, and the remaining 2 tablespoons olive oil. Season with salt and the lemon juice. Stir, taste, and adjust salt and acid as needed.
+
+Chill until serving. Cover and refrigerate leftovers for up to 3 days.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Extra-virgin olive oil — 4 Tbsp
+- 🛒 Spinach — 2 bunches, or 1½ lbs baby spinach
+- 🛒 Fresh cilantro — ¼ cup finely chopped
+- 🛒 Garlic — 1 to 2 cloves
+- 🛒 Plain yogurt — 1½ cups
+- 🛒 Salt
+- 🛒 Lemon — for ½ tsp juice
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2¼ cups)* | ~860 | 66 g | 32 g | 42 g | 15 g |
+| **Per serving** *(¼ cup, of 9)* | ~96 | 7 g | 3.5 g | 4.6 g | 1.7 g |
+
+**What a serving is:** ¼ cup — a dollop alongside a rice plate, or a dip scoop with flatbread.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.158 Mast-o-Laboo (Persian Beet Yogurt)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 373), the last page of this batch. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). The beet counterpart to [§4.157 Borani Esfenaj](#4157-borani-esfenaj-persian-spinach-yogurt) — "mast" is Persian for yogurt, "*laboo*" for beets.
+
+**Makes 2 cups**
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr** *(roasting the beets, entirely unattended)* · **Start to finish ~1 hr 15 min**
+
+#### A. Ingredients
+
+- 3 to 4 medium red or golden beets, trimmed
+- 1½ cups plain yogurt
+- 2 tablespoons finely chopped fresh mint
+- Optional: 1 teaspoon finely chopped fresh tarragon
+- 2 tablespoons extra-virgin olive oil
+- Salt
+- 1 to 2 teaspoons red wine vinegar
+- Optional: nigella (black cumin) seeds for garnish
+
+#### B. Cooking Instructions
+
+**1. Roast and peel the beets. About 1 hour, unattended.**
+The source points to its own beet-roasting page (218), which wasn't among the pages photographed for this batch — this cookbook already has that exact method written out at [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream), so it's used here rather than re-invented: preheat the oven to 400°F, wrap each beet individually in foil, place on a baking sheet, and roast until tender when pierced with a knife, about 1 hour. Unwrap and let cool enough to handle, then peel — the skins should slip right off in your hands.
+
+**2. Grate the beets into the yogurt.**
+Coarsely grate the peeled beets and stir them into the yogurt. Add the mint, tarragon (if using), olive oil, salt, and 1 teaspoon of the red wine vinegar. Stir and taste. Adjust salt and acid as needed, adding the remaining red wine vinegar if it needs more brightness.
+
+Chill until serving. If desired, garnish with nigella seeds before serving. Cover and refrigerate leftovers for up to 3 days.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — Middle Eastern/spice shop**
+
+- 🏪 Nigella (black cumin) seeds — for garnish, optional
+
+**🛒 General grocery**
+
+- 🛒 Red or golden beets — 3 to 4 medium
+- 🛒 Plain yogurt — 1½ cups
+- 🛒 Fresh mint — 2 Tbsp finely chopped
+- 🛒 Fresh tarragon — 1 tsp finely chopped, optional
+- 🛒 Extra-virgin olive oil — 2 Tbsp
+- 🛒 Salt
+- 🛒 Red wine vinegar — 1 to 2 tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 cups)* | ~665 | 39 g | 20 g | 62 g | 9 g |
+| **Per serving** *(¼ cup, of 8)* | ~83 | 5 g | 2.5 g | 7.7 g | 1.1 g |
+
+**What a serving is:** ¼ cup — a dollop alongside a rice plate, or a dip scoop with flatbread.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -10280,6 +11102,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T81](#t81-cooking-the-perfect-turkey) | Cooking the Perfect Turkey | `meathead` `turkey` `dos-and-donts` `thanksgiving` |
 | [T82](#t82-how-to-carve-a-turkey) | How to Carve a Turkey | `meathead` `turkey` `carving` |
 | [T83](#t83-about-balsamic--grades-and-buying) | About Balsamic — Grades and Buying | `meathead` `balsamic` `vinegar` `buying-guide` `condiments` |
+| [T84](#t84-salsa-math--the-herb-salsa-formula) | Salsa Math — The Herb Salsa Formula | `salsa` `herb-sauce` `macerating` `salsa-verde` `chutney` `condiment` `formula` |
 
 ---
 
@@ -14392,6 +15215,31 @@ A do's-and-don'ts list, straight from the book:
 **A step down, "Condimento" balsamic is unregulated** — some are genuinely good aged products, others are just dressed-up wine vinegar with a fancier label. The only way to tell is to read the back of the bottle for actual aging information (or the lack of it) rather than trust the front label or the price alone.
 
 **Buy a few different bottles and taste them side by side.** A real one is thick, syrupy, and complex — not sharp, thin, and one-note sweet. Keep a good bottle on hand for finishing dishes like [§5.41 Grilled Asparagus](#541-grilled-asparagus), where it goes on at the very end rather than into the cooking.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T84. Salsa Math — The Herb Salsa Formula
+
+<!-- TECHNIQUE-TAGS: salsa, herb-sauce, macerating, salsa-verde, chutney, condiment, formula -->
+**Tags:** `salsa` · `herb-sauce` · `macerating` · `salsa-verde` · `chutney` · `condiment` · `formula`
+**Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** — the section intro and handwritten diagram opening her "Sauces" chapter (book p. 358–359), the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat).
+**Used in:** [§4.146](#4146-basic-salsa-verde)–[§4.151](#4151-meyer-lemon-salsa) — every herb salsa in that run is this same formula with a different herb, acid, and oil.
+
+**The source's own formula, exactly as she writes it:**
+
+> CHOPPED HERBS + SALT + OLIVE OIL TO COVER (use more for a sauce to drizzle, less for a thicker sauce) + SHALLOTS MACERATED IN ACID = HERB SALSA
+
+**Every herb salsa in this cookbook's newest batch is a variation on that same four-part sum** — swap the herb, the acid, and the oil, and the character of the sauce changes completely while the method stays identical. That's also what the source means calling any sauce a trusted source of **Salt, Fat, and Acid**: taste it alongside a bite of whatever it's going on, and adjust those same three things until it's right, rather than judging the sauce on its own.
+
+**Why the shallot macerates separately, and goes in last.** Macerating means soaking something in acid to soften its harshness — see [§T31 How to Use Acid](#t31-how-to-use-acid)'s "Macerating: the onion trick" for the fuller mechanics. Raw shallot straight off the cutting board is sharp enough to overpower a delicate herb oil; 15 minutes sitting in vinegar or citrus juice mellows it out completely without cooking it. It's added with a slotted spoon, not its liquid, so the herb oil doesn't turn watery — the leftover acid gets tasted back in afterward, a little at a time, only if the salsa needs more brightness.
+
+**Parsley vs. cilantro stems, handled differently.** Pick parsley leaves off their stems before chopping — the stems are tough and better saved in the freezer for the next batch of stock. Cilantro stems are the opposite: they're the most flavorful part of the herb and much less fibrous, so the tender ones get chopped and used right along with the leaves.
+
+**Hand-chopped vs. food processor.** The source is a self-described salsa purist who chops everything by hand, but a food processor works too — it'll just leave the salsa a little thicker in texture. Since different ingredients break down at different speeds in a machine, pulse each one (herbs, shallot, etc.) separately rather than throwing everything in together, then stir them all together by hand in a bowl afterward.
+
+**What "-ish" means in these names.** [§4.147](#4147-classic-french-herb-salsa) through [§4.150](#4150-japanese-ish-herb-salsa) aren't attempts at strict regional authenticity — each is this same chopped-herb-and-acid formula wearing a different, recognizable flavor signature: French leans on the delicate *fines herbes* (chervil, chives, tarragon); Mexican-ish swaps in lime, cilantro, and jalapeño; Southeast Asian-ish adds grated ginger to that same base; Japanese-ish drops the macerated shallot entirely and gets its salt and acid from soy sauce and rice vinegar instead. [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) and [§4.152 North African Charmoula](#4152-north-african-charmoula) follow the same chopped-herbs-plus-acid logic but get blended smooth in a machine rather than kept chunky — the source calls those two "chutney" and "charmoula" rather than "salsa," a difference of texture and tradition, not ingredients.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -26931,7 +27779,7 @@ Grill the kebabs over hot coals until delightfully charred on the outside and ju
 To cook indoors, set a cast iron skillet over high heat, add just enough olive oil to coat the bottom of the pan, and cook for 6 to 8 minutes, flipping just once on each side.
 
 **8. Serve immediately or at room temperature.**
-Serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice) and Persian Herb Yogurt (not yet in this cookbook), or Shaved Carrot Salad with Ginger and Lime and Charmoula (neither yet in this cookbook) — all four are the source's own suggested pairings.
+Serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice) and [§4.156 Persian Herb and Cucumber Yogurt](#4156-persian-herb-and-cucumber-yogurt), or Shaved Carrot Salad with Ginger and Lime (not yet in this cookbook) and [§4.152 North African Charmoula](#4152-north-african-charmoula) — all four are the source's own suggested pairings; the Persian yogurt and Charmoula gaps flagged here have since been filled by this cookbook's Salsas & Yogurt Sauces batch.
 
 > **Variation — Moroccan Kofta.** Omit the saffron and replace the mixed herbs with ¼ cup finely chopped cilantro only. Reduce the turmeric to ½ teaspoon. Add 1 teaspoon ground cumin, ¾ teaspoon hot pepper flakes, ½ teaspoon finely grated ginger, and a small pinch of ground cinnamon. Continue as above — same forming and cooking method, different spice profile.
 

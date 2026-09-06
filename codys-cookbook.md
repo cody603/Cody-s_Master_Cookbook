@@ -11907,13 +11907,19 @@ Thoroughly whisk all the ingredients together in a bowl until the xanthan gum is
 
 ### 4.172 Alabama White Sauce
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (p. 183–184). A mayonnaise-based Alabama-style barbecue sauce — associated with the tradition of butterflying whole chickens and dunking them straight into a vat of the stuff. The source references its own linked whole-chicken recipe at AmazingRibs.com/mm, not among this book's photographed pages, so it's noted rather than linked here.
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (book p. 183–184). A mayonnaise-based Alabama-style barbecue sauce — associated with the tradition of butterflying whole chickens and dunking them straight into a vat of the stuff.
 
-> **Possible gap-filler, flagged for confirmation rather than assumed — and the other book's gap is now verified exhaustively absent.** The earlier *Meathead: The Science of Great Barbecue and Grilling* batch (2026-09-05 changelog) flagged its own Alabama White Sauce as an unresolved gap — its ingredient list fell on pages **182–183** of *that* book. **The 2026-09-06 page-order audit built a full PDF-index-to-book-page index of that 21-page scan and confirmed pp. 182–183 appear at no index, at any position.** What the audit *did* recover is the recipe's headnote, which ends on book p. 181 (present in the scan): Big Bob Gibson Bar-B-Q in **Decatur, Alabama**, a popular hangout **since 1925**, with its national fame riding on the acclaim for **Chef Chris Lilly** and the Big Bob Gibson competition team — Lilly pictured with his father-in-law **Don McLemore**, co-owner of Big Bob Gibson and son-in-law of Big Bob himself, and below them pitmaster **Ken Hess**. The headnote runs to the bottom of p. 181; the MAKES/TAKES line and every ingredient are on p. 182. This recipe is transcribed from *The Meathead Method* instead — a different book, whose own page numbers only coincidentally land near the same range. **It may well be the same recipe reused across both books** (this book's [§4.166 French Rub](#4166-french-rub) and its identical [§4.112 Cajun Seasoning](#4112-cajun-seasoning) both confirm the author reprints his own recipes verbatim across books — see the note added to §4.112), but that's still not confirmed, so the original book's gap stays open rather than being marked resolved by this entry. See also **[§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)**, the recipe from that same book which this sauce accompanies.
+> ✅ **Photo-verified line by line, 2026-09-06 — every quantity confirmed correct as written.** Cody supplied a clear photograph of book p. 184, and it was read at full magnification against this entry. **The MAKES/TAKES line and all ten ingredients match exactly** — 1 quart / enough for 4 or more chickens; 10 minutes to prep, 2 hours to marry flavors; ¾ cup full-fat mayonnaise, ⅓ cup apple cider vinegar, ¼ cup fresh lemon juice, ¼ cup apple juice, 1 Tbsp garlic powder, 1 Tbsp prepared white horseradish in vinegar, 1 Tbsp coarse-grind black pepper, 1 tsp mustard powder, **¼ tsp Morton Coarse Kosher Salt** (unchanged — no salt quantity was altered), and ½ tsp cayenne pepper. **The one-paragraph method matches too**, word for word. **What this pass adds is the recipe's actual headnote**, which sits on book p. 183 and was never in any earlier scan — it's now below, in the source's own words.
+
+> Per the source's headnote: **this is not what most folks think of when they think of barbecue sauce. It is white and it is not sweet.** It was designed for chicken by **Big Bob Gibson in Decatur, Alabama, probably in the 1920s.** There are now two Big Bob Gibson Bar-B-Q restaurants in Decatur, and they have achieved national fame and acclaim on the shoulders of the author's fellow Barbecue Hall of Famer **Chef Chris Lilly** and his competition team — *"The original location on 6th Avenue is destination dining."* Lilly's team has won practically every major competition on the circuit and their white sauce is now widely imitated. **The actual recipe is, of course, secret, but Chris tells the author his version is close.** The chefs there butterfly the chickens and **dunk them in a vat of the sauce.** The source's own version of their chicken recipe is linked at **AmazingRibs.com/mm**, not printed in the book. *(A photograph on p. 183 is captioned "Ken Hess, former pitmaster at Big Bob Gibson's.")*
+
+> ⚠️ **One printed inconsistency, flagged rather than corrected: the yield doesn't reconcile with the ingredient list.** The page prints **MAKES 1 quart**, but the ten ingredients add up to roughly **1¾ cups** — about 1.6 cups of liquids plus a few tablespoons of dry. That's not a transcription error; it's what the page says, and it's transcribed as printed. **Practical reading:** you're making about 1¾ cups, which will dunk one or two chickens rather than four. If you actually need a quart, a bit more than double the recipe. The Nutrition block below uses the real ingredient volume, not the printed quart.
+
+> ⚠️ **The cross-book question stays open — and it's now better characterized than before.** The earlier *Meathead: The Science of Great Barbecue and Grilling* batch flagged **that** book's own Alabama White Sauce as an unresolved gap: its ingredient list falls on **that book's** pp. 182–183, and the 2026-09-06 page-order audit confirmed those pages appear at **no index** in that book's 21-page scan. **They still haven't been photographed, so the two ingredient lists still cannot be compared.** What *can* be said now is that **the two headnotes are differently written**: the earlier book's says Big Bob Gibson's has been a popular hangout **"since 1925"** and pictures Chris Lilly with his father-in-law **Don McLemore**; this one says the sauce was designed **"probably in the 1920s"** and names Lilly and pitmaster Ken Hess. Same restaurant, same chef, two separate write-ups. **The author does reprint recipes verbatim across his two books** — [§4.112 Cajun Seasoning](#4112-cajun-seasoning) is a proven case — so this may well be the same sauce, but that is still **not confirmed**, and the earlier book's gap stays open rather than being marked resolved by this entry. See also **[§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)**, the recipe from that earlier book that this sauce accompanies.
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~2 hr 10 min** *(includes a 2 hr rest to let the flavors meld)*
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~2 hr 10 min** *(includes a 2 hr rest to marry the flavors, as printed)*
 
 #### A. Ingredients
 
@@ -11955,10 +11961,10 @@ Refrigerate in a jar for at least 2 hours before using.
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(1 quart, enough for 4+ chickens)* | ~1,150 | 120 g | 2 g | 20 g | 1 g |
-| **Per serving** *(1 Tbsp)* | ~36 | 3.8 g | 0.1 g | 0.6 g | <0.1 g |
+| **Whole batch** *(about 1¾ cups of actual ingredients — see the yield flag above)* | ~1,150 | 120 g | 2 g | 20 g | 1 g |
+| **Per serving** *(1 Tbsp)* | ~41 | 4.3 g | 0.1 g | 0.7 g | <0.1 g |
 
-**What a serving is:** 1 Tbsp — used as both a dunking sauce and a basting mop.
+**What a serving is:** 1 Tbsp — used as both a dunking sauce and a basting mop. *(Per-Tbsp figures corrected 2026-09-06: they had been divided across the printed "1 quart" yield rather than the ~28 tablespoons the ingredient list actually makes. The whole-batch figures were already right.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -11966,11 +11972,15 @@ Refrigerate in a jar for at least 2 hours before using.
 
 ### 4.173 Lexington Dip #2
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (p. 184). **Explicitly labeled "#2" in the source itself** — a second, lower-sugar Carolina Piedmont-style vinegar dip, distinct from **[§4.120 Lexington Dip (West Carolina Barbecue Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce)**, already in this cookbook from the earlier Meathead book. The two share a family resemblance (vinegar-ketchup-brown sugar base, both from the same Piedmont "dip" tradition) but differ in real ways: this version uses apple cider vinegar rather than distilled white, adds a hit of smoky heat from canned chipotle adobo sauce, and drops the red pepper flakes entirely. The source itself frames it as the lower-sugar option — see [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)'s "For those wary of sugar" section, which names this exact recipe.
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (book p. 184). **Explicitly labeled "#2" in the source itself** — a second, lower-sugar Carolina Piedmont-style vinegar dip, distinct from **[§4.120 Lexington Dip (West Carolina Barbecue Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce)**, already in this cookbook from the earlier Meathead book. The two share a family resemblance (vinegar-ketchup-brown sugar base, both from the same Piedmont "dip" tradition) but differ in real ways: this version uses apple cider vinegar rather than distilled white, adds a hit of smoky heat from canned chipotle adobo sauce, and drops the red pepper flakes entirely. The source itself frames it as the lower-sugar option — see [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)'s "For those wary of sugar" section, which names this exact recipe.
+
+> ✅ **Photo-verified line by line, 2026-09-06 — every ingredient and quantity confirmed correct as written; two bookkeeping figures corrected.** Cody supplied a clear photograph of book p. 184, read at full magnification. **All seven ingredients match exactly** — 1 cup apple cider vinegar, ¼ cup apple juice, ¼ cup ketchup, 3 Tbsp light brown sugar, **1½ tsp Morton Coarse Kosher Salt** (unchanged — no salt quantity was altered), 1 tsp adobo sauce from canned chipotle in adobo sauce, and 1 tsp medium-grind black pepper. The one-line method (*"In a bowl, whisk together all the ingredients"*) and the **TO USE** note both match. **Two things were wrong and are fixed:** the badge said *Start to finish ~10 min* where the page prints **TAKES 30 minutes**, and the Nutrition block said the batch makes *about 1½ cups* where the page prints **MAKES 2 cups**. Both corrected, and the per-Tbsp figures recalculated against the printed yield.
+
+> Per the source's headnote: there are so many flavor profiles on the BBQ sauce menu, and the author covered them in depth in his last book and on his website — *"But I feel the need to offer a low-sugar recipe in this book."* **In the Piedmont (aka Hill Country or the Foothills) of the western Carolinas around Lexington, North Carolina, they call BBQ sauce "dip,"** and they apply it to pork shoulder most of the time. **It is apple cider vinegar–based and the result is thin and penetrating** — the acidity is the perfect counterpoint to fatty meats. *"To the chagrin of the rest of the Carolinas, where ketchup is eschewed, in the Piedmont they let a little of the red stuff in."*
 
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~30 min** *(as printed — the whisking takes minutes; the rest is letting the adobo and brown sugar come together)*
 
 #### A. Ingredients
 
@@ -11987,8 +11997,10 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs a
 **1. Whisk everything together.**
 In a bowl, whisk together all the ingredients until smooth. **Use only the adobo sauce from the can, not the chipotle chiles themselves** — this recipe wants the tangy, smoky liquid, not the heat and texture of the whole pepper.
 
+> **About chipotles in adobo sauce**, per the source: this is chipotles — **smoked and dried jalapeños** — swimming in a vinegary tomato sauce with onion, garlic, and a kiss of sugar, sold in small cans. **Just use the sauce from the can, not the chiles, for this recipe.** Traditional Carolina vinegar sauces use hot pepper flakes instead, and **those take a day or two to blend in. This version is ready to go.**
+
 **2. Split it in two before you cook.**
-Divide the sauce into two portions: one for frequent basting during the cook, and a separate, untouched portion held back for serving at the table. Never serve from a portion a basting brush dipped in raw meat has touched.
+Per the source's own **TO USE** note: **divide the sauce in two and use half for frequent basting, the other half for serving.** Never serve from a portion a basting brush dipped in raw meat has touched — see [§T48](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) on stopping the basting 15 minutes before serving.
 
 #### C. Grocery Shopping List
 
@@ -12006,10 +12018,10 @@ Divide the sauce into two portions: one for frequent basting during the cook, an
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about 1½ cups)* | ~190 | 0 g | 0.5 g | 46 g | 0.3 g |
+| **Whole batch** *(2 cups, as printed)* | ~240 | 0 g | 0.5 g | 60 g | 0.3 g |
 | **Per serving** *(1 Tbsp, as a mop or table splash)* | ~8 | 0 g | 0 g | 1.9 g | 0 g |
 
-**What a serving is:** 1 Tbsp on chopped or pulled pork — thin enough to soak in rather than coat.
+**What a serving is:** 1 Tbsp on chopped or pulled pork — thin enough to soak in rather than coat. *(Yield corrected 2026-09-06 from "about 1½ cups" to the printed **2 cups**, and the whole-batch figures recalculated to match; the per-Tbsp figures were already right.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41690,9 +41702,11 @@ Pour the chilled batter into the smoking-hot pan and cover the grill lightly. Co
 
 Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 372–374); despite its source chapter, this is a savory quick bread, so it's filed here in §15 Breads alongside this cookbook's other biscuits and quick breads rather than with the sweets. **Genuinely different from this cookbook's existing [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** — that one uses almond flour, flaxseed meal, and an optional sweet corn extract with no actual corn or wheat flour in it; this one is the real, wheat-flour-and-cornmeal, non-keto version. Both kept, cross-referenced.
 
-> Per the source: cornbread is a classic barbecue sidekick — its flavor and texture are a perfect foil for sweet barbecue sauce and Southern sweet tea, and it's just as good eaten straight or with butter (a honey butter or hot honey will get smiles around the table). Classic cornbread is baked in a cast-iron skillet greased with bacon fat, lard, schmaltz, or other meat drippings, though butter works too — the hot black metal builds a brown, crunchy crust that plain baking-dish cornbread can't match. This recipe is sized for a 12-inch cast-iron skillet; a 10-inch skillet or another oven-safe pan works too, but a narrower, deeper pan holds a thicker mass of batter and needs longer in the oven, so drop the temperature to 325°F if you go that route.
+> ✅ **Photo-verified line by line, 2026-09-06 — one real ingredient error found, one dropped step restored, and one invented figure removed.** Cody supplied a clear photograph of the whole book p. 372–373 spread; Steps 4–6 (book p. 374) were checked against both his own verbatim text and the original PDF, and match word for word. **The three fixes:** **(1) the sour cream was ⅔ cup against the printed ¾ cup** — a real shortfall in a recipe formulated around sour cream rather than buttermilk; **(2) Step 2 never actually added the butter** — the source's Step 2 ends *"Melt the butter (or brown it, as on page 189) and whisk it in,"* which had been dropped entirely, leaving 2 ounces of butter in the ingredient list with nowhere to go; and **(3) the muffin note claimed a 375°F bake**, but the source's 375°F belongs to the **hush-puppy deep-fry** — it prints no temperature for muffins at all. **Everything else checks out exactly:** MAKES *8 nice-sized wedges*, TAKES *20 minutes to prep, 25 minutes to cook*, all ten ingredients (including **1 tsp Morton Coarse Kosher Salt** — unchanged, no salt quantity was altered), the optional corn/bell-pepper line, all three "About" sidebars, and Steps 1 through 6.
 
-**Yield:** 8 wedges
+> Per the source: cornbread is a classic sidekick for barbecue with good reason — its flavor and texture are a perfect foil for sweet barbecue sauce and Southern sweet tea, and it's just as good eaten straight or buttered (a honey butter or hot honey will generate smiles; the source's own recipes for those live at AmazingRibs.com/mm, not in the book). **It also makes a fabulous breakfast substitute for pancakes or waffles** — warm, with a dab of butter and a glug of maple syrup. Classic cornbread is baked in a cast-iron skillet greased with **bacon fat, lard, tallow, duck fat, schmaltz, or other meat grease**, although butter works fine — the hot black metal creates a brown crunchy crust that really amps up the flavor and texture. **This recipe is designed for a 12-inch cast-iron skillet**, but a 10-inch cast-iron skillet, any other skillet, or an **8 × 8 × 2-inch baking dish** will do, though it may not brown as well as a black pan. **In a narrower pan the mass of batter is thicker and will take longer to cook, so lower the oven temperature to 325°F.**
+
+**Makes 8 nice-sized wedges · Takes 20 minutes to prep, 25 minutes to cook** *(as printed)*
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
 
@@ -41705,29 +41719,33 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 - 1 tsp Morton Coarse Kosher Salt
 - 3 large eggs
 - 3 Tbsp honey
-- ⅔ cup sour cream
-- 4 Tbsp (2 ounces) unsalted butter, melted
-- 2 Tbsp bacon grease or butter, for greasing the pan
+- **¾ cup sour cream** *(corrected 2026-09-06 from ⅔ cup — the page prints ¾)*
+- 4 Tbsp (2 ounces) unsalted butter
+- 2 Tbsp bacon grease or butter, for the pan
 
 **Optional mix-ins**
 
-- ¼ cup grilled sweet corn kernels and ¼ cup grilled sweet red bell pepper *(don't use canned corn — if starting from frozen, brown it in a hot pan for 2 to 3 minutes first)*
-- Up to 2 or 3 of: 4 slices crumbled cooked bacon, chunks of cooked sausage, cracklins (a Southern tradition), 5 ounces grated cheddar, or a minced jalapeño — don't overload the batter with mix-ins
+- ¼ cup grilled sweet corn kernels and ¼ cup grilled sweet red bell pepper
+- Up to 2 or 3 of: 4 slices crumbled cooked bacon, chunks of cooked sausage, cracklins (a Southern tradition), 5 ounces grated cheddar, or a minced jalapeño — don't go crazy with the mix-ins
 
-> **About the sour cream.** Many cornbread recipes call for buttermilk instead; this one is formulated around sour cream.
+> **About the sour cream.** Many cornbread recipes call for buttermilk, but **this recipe has been formulated for sour cream.**
 >
-> **Make it muffins, or make hush puppies instead.** For muffins, portion the batter into a greased muffin tin and bake at 375°F until golden. For **hush puppies** — a Southern offshoot of cornbread batter, deep-fried into small golden balls instead of baked flat — drop tablespoons of the same batter into oil heated to 375°F and fry until golden, then drain on paper towels.
+> **About the corn kernels and peppers.** These ingredients are optional, *"but they really should be required."* If you wish, you can amp raw frozen corn up a bit by rolling it around in a hot pan for **2 to 3 minutes** until it browns slightly. **Don't use canned corn.**
+>
+> **About other mix-ins.** You can add 4 slices of crumbled cooked bacon or some chunks of cooked sausage; **cracklins are a Southern tradition, too**; or add 5 ounces of grated cheddar. A minced jalapeño gives the mix a spice of life. **Don't go crazy — use just 2 or 3 max.**
+>
+> **Optional: muffins, or hush puppies.** Make cornbread **muffins** — more crunch! **Or make balls and deep-fry them at 375°F into hush puppies** — a Southern offshoot of the same cornbread batter, fried into small golden balls instead of baked flat. Still more crunch. *(The source prints no temperature or time for the muffin version — only the 375°F fry temperature for the hush puppies. Noted rather than invented.)*
 
 #### B. Cooking Instructions
 
 **1. Mix the dry ingredients.**
-In a bowl, whisk together the cornmeal, flour, baking powder, baking soda, and salt.
+In a bowl, mix together the cornmeal, flour, baking powder, baking soda, and salt. **If you are using the grilled corn and/or bell pepper — or any other mix-ins — now's the time to mix them in**, while the batter is still dry and they'll distribute evenly.
 
 **2. Mix the wet ingredients.**
-In another bowl, whisk together the eggs, honey, and sour cream until smooth.
+In another bowl add the eggs, honey, and sour cream and whisk until smooth. **Melt the butter — or brown it, if you want the nuttier flavor — and whisk it in.**
 
-**3. Make the batter.**
-Pour the wet ingredients into the dry ingredients. Gently fold together — just until combined, about 30 seconds. The batter will be lumpy; that's fine. **Do not overmix**, or the cornbread turns tough and dense instead of tender.
+**3. Make the batter. About 30 seconds of stirring, no more.**
+Pour the wet ingredients into the dry ingredients. **Gently stir until everything is mixed, only about 30 seconds. The batter will be lumpy. That's OK. Do not overmix**, or the cornbread turns tough and dense instead of tender.
 
 **4. Fire up.**
 Preheat the oven to 400°F, or the grill's indirect side to 400°F, and put a 12-inch cast-iron skillet in to preheat along with it.
@@ -41749,22 +41767,24 @@ Pour the batter into the hot, greased skillet and level it out roughly. Return t
 - 🛒 Morton Coarse Kosher Salt — 1 tsp
 - 🛒 Eggs — 3 large
 - 🛒 Honey — 3 Tbsp
-- 🛒 Sour cream — ⅔ cup
-- 🛒 Unsalted butter — 4 Tbsp (2 oz), plus more or bacon grease for the pan
-- 🛒 *Optional:* sweet corn, red bell pepper, bacon, sausage, cheddar, or a jalapeño for mix-ins
+- 🛒 Sour cream — ¾ cup
+- 🛒 Unsalted butter — 4 Tbsp (2 oz), plus 2 Tbsp bacon grease or butter for the pan
+- 🛒 *Optional:* sweet corn, red bell pepper, bacon, sausage, cracklins, cheddar, or a jalapeño for mix-ins
 
 #### Nutrition *(estimated, base recipe without optional mix-ins)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole skillet** | ~2,100 | 105 g | 44 g | 240 g | 12 g |
-| **Per serving** *(1 of 8 wedges)* | ~260 | 13 g | 5 g | 30 g | 1.5 g |
+| **Whole skillet** | ~2,150 | 108 g | 45 g | 242 g | 12 g |
+| **Per serving** *(1 of 8 nice-sized wedges)* | ~270 | 13.5 g | 5.5 g | 30 g | 1.5 g |
 
-**What a serving is:** one nice-sized wedge, ⅛ of the skillet. Add-ins (cheese, bacon, sausage) will push these numbers up.
+**What a serving is:** one nice-sized wedge, ⅛ of the skillet. Add-ins (cheese, bacon, sausage) will push these numbers up. *(Recalculated 2026-09-06 for the corrected ¾ cup of sour cream.)*
 
 #### D. Open Questions
 
-- **A "PANKO PERFECT" callout box, adjacent to this recipe, is skipped as genuinely incomplete** — only its title survived the photographed page; it's cut off at the bottom edge with no body text legible anywhere in the scan. Per Cody's standing incomplete-source policy, named here rather than guessed at.
+- **A "PANKO PERFECT" callout box, adjacent to this recipe, is skipped as genuinely incomplete** — its title sits at the bottom edge of book p. 374 with the body text past the frame of every photograph that exists of that page. Re-checked 2026-09-06 against Cody's new p. 372–373 photograph and the original PDF; **still cut off, confirmed rather than assumed.** Per Cody's standing incomplete-source policy, named here rather than guessed at.
+- **The source's own honey butter and hot honey recipes** are linked rather than printed (AmazingRibs.com/mm) and aren't in this cookbook — named, not invented.
+- **The browned-butter option in Step 2** points to the source's own book p. 189, which isn't among the photographed pages. Browning butter is covered here at [§4.86 Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) and [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd).
 
 [↑ Table of Contents](#table-of-contents)
 

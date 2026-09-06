@@ -549,6 +549,12 @@ Click any recipe to jump straight to it.
 - [14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) ✅ *(Salt, Fat, Acid, Heat; ⚠️ Vanilla Cream filling not photographed — see entry)*
 - [14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) ✅ *(Salt, Fat, Acid, Heat)*
 - [14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) ✅ *(Salt, Fat, Acid, Heat; ⚠️ Vanilla Cream filling not photographed — see entry, same gap as [§14.21](#1421-loris-chocolate-midnight-cake))*
+- [14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) ✅ *(Salt, Fat, Acid, Heat — the source's closing recipe; distinct from [§14.20 Cream Caramel](#1420-cream-caramel))*
+- [14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) ✅ *(Salt, Fat, Acid, Heat; Pavlovas, Persian Pavlovas, Meringue Fool, and Chocolate-Caramel Meringue Fool variations; ⚠️ several named cream/berry components not photographed — see entry)*
+- [14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie) ✅ *(Salt, Fat, Acid, Heat; Chocolate Pudding Pie variation; ⚠️ All-Butter Pie Dough not photographed — see entry)*
+- [14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) ✅ *(Salt, Fat, Acid, Heat; Shortcakes and Fruit Cobbler variations)*
+- [14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) ✅ *(Salt, Fat, Acid, Heat)*
+- [14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) ✅ *(Salt, Fat, Acid, Heat; ⚠️ "Poach It in Wine," the source's middle fruit method, skipped as incomplete — see entry)*
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -572,6 +578,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Sweets batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat* — the fourth and FINAL batch from this same 50-page source PDF. This completes the full multi-batch project from this book:** every page of the scan has now been either transcribed into a full recipe or a condensed technique entry, or explicitly logged as a duplicate-skip or a genuine gap; nothing from this source remains to photograph. **Six full recipes and variations added to [§14 Desserts](#14-desserts)**, continuing straight on from [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake): **[§14.24](#1424-salted-caramel-sauce) Salted Caramel Sauce** (the source's own closing recipe, p. 428 — rated 🔴 Hard for the same "perfect to burnt in under a minute" caramelizing-sugar risk this cookbook already rated [§14.20 Cream Caramel](#1420-cream-caramel) 🔴 Hard for, cross-linked to it as a distinct dish sharing the same risk rather than a duplicate), **[§14.25](#1425-marshmallowy-meringues) Marshmallowy Meringues** (with Pavlovas, Persian Pavlovas, Meringue Fool, and Chocolate-Caramel Meringue Fool variations folded in — rated 🟡 Medium for real underwhip/overwhip/contamination risk; distinct from the meringue-as-*component* already used in [§14.5](#145-pumpkin-chiffon-pie)/[§14.13](#1413-pumpkin-chiffon-pie-i)/[§14.14 Pumpkin Chiffon Pie](#1414-pumpkin-chiffon-pie-ii)/[§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie), all cross-linked), **[§14.26](#1426-classic-pumpkin-pie) Classic Pumpkin Pie** (with a Chocolate Pudding Pie variation — rated 🟢 Easy, a direct-bake custard with no stovetop cooking or meringue fold, unlike this cookbook's existing 🔴 Hard chiffon-style pumpkin pies, all cross-linked and kept distinct), **[§14.27](#1427-light-and-flaky-buttermilk-biscuits) Light and Flaky Buttermilk Biscuits** (with Shortcakes and Fruit Cobbler variations — rated 🟡 Medium for a genuine, if forgiving, "keep it cold or lose the flakiness" risk; a cold-butter lamination method genuinely distinct from this cookbook's existing cut-in-shortening [§15.3](#153-basic-biscuits-cheese-or-bacon-variation)–[§15.6 Biscuits](#156-pastry-biscuits)), **[§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) Juice It and Make Granita** (Orange Granita, with a Coffee Granita variation — the first of the source's "Four Things to Do with Fruit"), and **[§14.29](#1429-roast-it-on-a-bed-of-fig-leaves) Roast It on a Bed of Fig Leaves** (the third of those four methods — both fruit entries rated 🟢 Easy). **One of the source's four fruit methods, "Poach It in Wine," is skipped as genuinely incomplete** — only its finishing half (cooling, plating, serving suggestions) survived in the photographed pages; its opening ingredient list and first simmering steps (the wine, sugar, and fruit quantities) are not among the photographed pages and have no legible amounts, so per Cody's standing instruction on incomplete source material it's named but not written up, flagged at [§14.29](#1429-roast-it-on-a-bed-of-fig-leaves). **Confirmed already present, not re-added:** [§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake), both encountered again in this batch's page range (they were originally added from an earlier PHOTO-based batch of this same book, not this PDF) — confirmed and skipped here rather than duplicated. **The source's own crust and cream/berry components keep surfacing as gaps rather than being invented:** the "All-Butter Pie Dough" gap [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) already flagged is the same crust [§14.26](#1426-classic-pumpkin-pie) needs, standing in with [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) or [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust); and the same standing "Vanilla Cream" gap already flagged at [§14.21](#1421-loris-chocolate-midnight-cake)/[§14.23](#1423-fresh-ginger-and-molasses-cake) is joined by several more named-but-undocumented components surfacing for the first time in this batch — Scented Cream, Cardamom Cream, Caramel Cream, Rose Scented Berries, the source's own fruit Compote, and Bittersweet Chocolate Pudding — all named rather than invented, cross-referenced to each other everywhere they recur. **Since this is the final batch from this source, every one of these stays an open gap rather than something a future batch will resolve** — see the consolidated Open Questions list Cody asked for, compiled separately from this changelog entry. **Jargon explained inline per Cody's standing request:** soft peaks vs. stiff peaks, and why cream of tartar (an acid) stabilizes whipped egg whites — cross-referenced to [§T31 How to Use Acid](#t31-how-to-use-acid)'s existing "a few drops of lemon or vinegar per egg white" passage rather than re-explained, at [§14.25](#1425-marshmallowy-meringues); fold as a mixing technique and why it preserves trapped air, at [§14.25](#1425-marshmallowy-meringues) and [§14.27](#1427-light-and-flaky-buttermilk-biscuits); docking a crust and blind baking, at [§14.26](#1426-classic-pumpkin-pie); why cold butter matters for flaky layers — cross-referenced to [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) and [§T30 How to Use Fat](#t30-how-to-use-fat) rather than re-explained, at [§14.27](#1427-light-and-flaky-buttermilk-biscuits); a granita's shaved-ice texture depending on periodic scraping rather than constant churning, at [§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation); and compote vs. coulis — chunky cooked fruit versus a smooth, strained purée, cross-linked to this cookbook's existing [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)/[§4.132 Coulis](#4132-roasted-red-pepper-and-garlic-coulis) — at [§14.25](#1425-marshmallowy-meringues). **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. **This closes out the full *Salt, Fat, Acid, Heat* project across all seven batches** (the five condensed-technique/first-recipe batches plus this one and the Doughs/Mayo/Pesto batch immediately below) — see the project's consolidated tally and Open Questions list Cody requested, compiled outside this changelog. |
 | 2026-09-06 | **Doughs/Emulsions/Mayo/Pesto batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the third batch from this same 50-page source PDF today, picking up right after the Vegetables/Stock/Mains batch below. **One more batch from this same scan is still coming: Sweets.** **Six full recipes added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt): **[§4.159](#4159-rustic-mayonnaise) Rustic Mayonnaise** (the source's own hand-whisked "Basic Mayonnaise" — the recipe several earlier batches have been citing as a same-book gap; rated 🟡 Medium, the only Medium recipe in this batch, since whisking oil into egg yolk by hand is a genuine emulsion that can break), **[§4.160](#4160-classic-sandwich-mayo) Classic Sandwich Mayo** (built on §4.159), **[§4.161](#4161-aioli-garlic-mayonnaise) Aioli (Garlic Mayonnaise)**, **[§4.162](#4162-herb-mayonnaise) Herb Mayonnaise**, **[§4.163](#4163-rouille-pepper-mayonnaise) Rouille (Pepper Mayonnaise)** (Chipotle Mayonnaise variation folded in; its own "Pepper Paste" sub-ingredient wasn't among the photographed pages, flagged as a gap with a roasted-red-pepper-purée stand-in rather than invented), and **[§4.164](#4164-pesto-basil-pesto) Pesto (Basil Pesto)** (with the source's own greens/nuts/cheese substitution chart folded in as a "Change It Up" callout) — **this cookbook's third pesto**, alongside [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) and [§4.131 Pesto](#4131-pesto), both cross-linked forward and back. **[§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) are rated 🟢 Easy rather than Medium**, on the reasoning that each one only stirs flavor into an *already-made* mayonnaise — nothing in their own steps can break an emulsion; each entry notes that building the mayonnaise base itself (§4.159) is where the real risk lives, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test. **One new condensed technique entry, [§T89 Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion)**, added to the Techniques quick index — deliberately short, since two of its three source passages ("Retaining Creaminess: Butter" and "Breaking and Fixing Emulsions") turn out to be the same content this cookbook already condensed from this same book at [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) and [§T30 How to Use Fat](#t30-how-to-use-fat); T89 cross-references both rather than repeating them, and writes out only what's new — weighing flour by weight instead of scooping by volume, and the wider all-emulsions framing of "breaking" beyond just mayonnaise. **Two source-referenced items checked and resolved rather than treated as gaps:** the source's own forward reference to an **All-Butter Pie Dough** — checked against this cookbook and **confirmed not present** (distinct from [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) and [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)), named as a gap in [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) since its own page wasn't among those photographed; and the source's own **Pasta Cacio e Pepe** reference — checked and **confirmed already documented**, cross-linked at [§T30](#t30-how-to-use-fat)'s "Butter sauce" paragraph rather than flagged as missing. **Five "not yet in this cookbook" cross-references retrofitted now that this batch fills them, the same retrofit pattern [badf8ce] and [7df86b8] used:** [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)'s and [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing)'s "Basic Mayonnaise (source p. 375)" gaps (each flagged twice, in the ingredient list and in Open Questions) now link to [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise); [§4.152 North African Charmoula](#4152-north-african-charmoula)'s "Stir into Basic Mayonnaise" serving suggestion now links there too; [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, which specifically named "Classic Sandwich Mayo," now links to [§4.160](#4160-classic-sandwich-mayo) exactly; and [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)'s Fritto Misto variation, which specifically named "Aïoli (source p. 376)," now links to [§4.161 Aioli](#4161-aioli-garlic-mayonnaise) exactly. **No duplicates skipped** — this cookbook's existing [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) is a citrus-forward burger topping from a different book, cross-linked rather than confused for [§4.161](#4161-aioli-garlic-mayonnaise)'s plain garlic version. **Jargon explained inline per Cody's standing request:** emulsion, why mayonnaise breaks (temperature swings or adding oil too fast overwhelms the egg yolk's lecithin), room-temperature eggs and why they matter for emulsifying, and the hot-water-and-broken-mayo fix, all at [§4.159](#4159-rustic-mayonnaise) and cross-referenced from [§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) rather than repeated; **rouille** as a term (French for "rust," a garlicky pepper- or saffron-tinted mayonnaise for bouillabaisse) at [§4.161](#4161-aioli-garlic-mayonnaise) and [§4.163](#4163-rouille-pepper-mayonnaise); *pestare* ("to pound") and why traditional mortar-and-pestle pesto bruises rather than slices the basil, keeping it greener and less oxidized than a fast-spinning blade, at [§4.164](#4164-pesto-basil-pesto); and weighing flour vs. scooping it by volume at [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion). **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "1 Tbsp" for the five mayonnaise-family condiments and "2 Tbsp" for the pesto. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-06 | **Vegetables/Stock/Mains batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the second batch from this same 50-page source PDF today, picking up right after the Salsas & Yogurt Sauces batch below. **Two more batches from this same scan are still coming: Doughs/Emulsions/Mayo/Pesto, and Sweets.** **Four new condensed technique entries** added to the Techniques quick index, continuing from [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula): **[§T85](#t85-cooking-onions--blond-browned-caramelized) Cooking Onions — Blond, Browned, Caramelized** (cross-references [§8.39 Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)'s existing "blond" explanation and [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar)'s browned-onion base; names a Caramelized Onion Tart, a Chicken with Lentil Rice, and a Chicken with Sweet Onion Soup, none yet in this cookbook), **[§T86](#t86-three-ways-to-cook-grains-and-quinoa) Three Ways to Cook Grains (and Quinoa)** (the source's steam method plus its hand-illustrated grain:water ratio chart — read as closely as the cup icons allow and flagged where a ratio runs low against convention, especially polenta), **[§T87](#t87-stock--saving-scraps-for-the-pot) Stock — Saving Scraps for the Pot** (the chapter intro behind [§8.40](#840-chicken-stock)), and **[§T88](#t88-braise--the-six-step-method) Braise — The Six-Step Method** (condensed from the source's illustrated Salt/Brown/Build/Boil/Simmer/Serve diagram; cross-references rather than duplicates [§T32 How to Use Heat](#t32-how-to-use-heat)'s braising-temperature row and this cookbook's existing braises). **Three full vegetable recipes** added to [§5 Vegetables & Sides](#5-vegetables--sides), continuing after [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw): **[§5.54](#554-sauté-snap-peas-with-chilies-and-mint) Sauté: Snap Peas with Chilies and Mint**, **[§5.55](#555-steamy-sauté-garlicky-green-beans) Steamy Sauté: Garlicky Green Beans** (classic French and Indian variations — **distinct from [§5.1 Green Beans](#51-green-beans)** and **[§5.36 Lemon Green Beans](#536-lemon-green-beans)**, both kept), and **[§5.56](#556-cherry-tomato-confit) Cherry Tomato Confit** (Confit Large Tomatoes and Artichoke Confit variations folded in — no existing tomato confit in this cookbook). **One stock recipe** added as **[§8.40](#840-chicken-stock) Chicken Stock** (Beef Stock variation), unblocking the "Chicken Stock, page 271" citation [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) has carried since an earlier batch — kept alongside, not replacing, [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) and [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood). **Confirmed already present, not re-added:** [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), encountered again in this batch's page range — already fully written up from an earlier batch, skipped here. **Five full mains** added to [§7 Mains & Proteins](#7-mains--proteins), continuing after [§7.124 Poulet de France](#7124-poulet-de-france): **[§7.125](#7125-beer-battered-fish) Beer-Battered Fish** (Fritto Misto and Gluten-Free Batter variations; rated 🟡 Medium for real deep-frying technique risk), **[§7.126](#7126-chicken-with-vinegar) Chicken with Vinegar** (*Poulet au Vinaigre*; rated 🟡 Medium for a cream pan sauce that can break or over-reduce), **[§7.127](#7127-buttermilk-marinated-roast-chicken) Buttermilk-Marinated Roast Chicken** (rated 🟢 Easy — no step here can genuinely fail), and **[§7.128](#7128-glazed-five-spice-chicken) Glazed Five-Spice Chicken** (rated 🟡 Medium for a high-heat glaze that can scorch fast), and **[§7.129](#7129-pasta-alle-vongole) Pasta alle Vongole** (subtitled by the source itself "A Lesson in Layering Acid"; presented in the source as an illustrated comic-style page and transcribed here into this cookbook's normal bold-step format; rated 🟡 Medium for clam-timing and sauce-breaking risk; exact clam/pasta quantities weren't printed on the source's illustrated page, so this cookbook's own reasonable estimate is used and flagged in that entry's Open Questions). **The Persian Roast Chicken cross-reference retrofit, completed:** [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken)'s own Persian Roast Chicken variation (saffron tea stirred into yogurt in place of buttermilk) is exactly the dish [§5.49 Persian-ish Rice](#549-persian-ish-rice) (both its headnote pairing and its Fava Bean and Dill Rice variation) and [§4.155 Herbed Yogurt](#4155-herbed-yogurt) have been citing as "not yet in this cookbook" since earlier batches — all three are now updated to link to [§7.127](#7127-buttermilk-marinated-roast-chicken) instead. **Three more "not yet in this cookbook" cross-references closed the same way:** [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa) and [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s mentions of "Beer-Battered Fish" now link to [§7.125](#7125-beer-battered-fish); [§4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa) and [§4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa)'s mentions of "Glazed Five-Spice Chicken" now link to [§7.128](#7128-glazed-five-spice-chicken). [§7.128](#7128-glazed-five-spice-chicken) also cross-links its own two serving suggestions: [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) (already in this cookbook) and Steamed Jasmine Rice (not written up as its own recipe, but its ratio is now in [§T86](#t86-three-ways-to-cook-grains-and-quinoa)). **Jargon explained inline per Cody's standing request:** the blond/browned/caramelized onion stages at [§T85](#t85-cooking-onions--blond-browned-caramelized); Manila vs. littleneck clams (size and brininess) at [§7.129](#7129-pasta-alle-vongole); why pasta water helps finish a sauce (starch) at [§7.129](#7129-pasta-alle-vongole); the vodka-reduces-gluten trick and 365°F deep-frying sweet spot at [§7.125](#7125-beer-battered-fish); why an emulsified (boiled) stock is a flaw rather than a virtue, unlike most emulsions, at [§8.40](#840-chicken-stock); and the six-step braise shape at [§T88](#t88-braise--the-six-step-method), cross-referenced from [§7.126](#7126-chicken-with-vinegar) rather than re-explained. **Difficulty ratings used judgment per the task's own guidance** rather than defaulting to Easy: both roast chickens ([§7.127](#7127-buttermilk-marinated-roast-chicken)) that have no fail-prone step are 🟢 Easy, while the two that do — a cream reduction ([§7.126](#7126-chicken-with-vinegar)) and a high-heat sugar glaze ([§7.128](#7128-glazed-five-spice-chicken)) — are 🟡 Medium, matching this cookbook's established technique-risk test rather than the source's own recipe order. TOC, Difficulty & Time Index (sorted by prep+cook), and [§17 Meats & Cuts](#17-meats--cuts-reference-index) (new lines for chicken with vinegar, buttermilk/Persian roast chicken, five-spice chicken, chicken bones, and beef knuckle/marrow bones) all updated. All nine new full recipes' Nutrition blocks are estimated from ingredient lists and labeled as such; none print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md). |
 | 2026-09-06 | **Salsas & Yogurt Sauces batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and this same source's three prior batches ([§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs) among them; [§4.134](#4134-creamy-caesar-dressing)–[§4.145](#4145-tahini-dressing); [§5.50](#550-vietnamese-cucumber-salad)–[§5.53](#553-bright-cabbage-slaw)). **This same 50-page source PDF covers six different categories; this batch handles only the salsas and yogurt sauces pages (book p. 358–373) — more batches from the same scan are still coming, for the vegetables/stock/soups/mains, doughs/mayo/pesto, and sweets pages.** **Thirteen full recipes and one condensed technique entry added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.145 Tahini Dressing](#4145-tahini-dressing): **[§4.146](#4146-basic-salsa-verde) Basic Salsa Verde** (with Bread Crumb Salsa, Classic Italian Salsa Verde, and Mint Salsa Verde variations folded in — **distinct from the existing [§4.47 Salsa Verde](#447-salsa-verde)**, a cooked tomatillo salsa from a different book entirely), **[§4.147](#4147-classic-french-herb-salsa) Classic French Herb Salsa**, **[§4.148](#4148-mexican-ish-herb-salsa) Mexican-ish Herb Salsa** (Pumpkin Seed Salsa variation), **[§4.149](#4149-southeast-asian-ish-herb-salsa) Southeast Asian-ish Herb Salsa**, **[§4.150](#4150-japanese-ish-herb-salsa) Japanese-ish Herb Salsa** — these five are all the same [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) formula wearing different herb-and-acid signatures — **[§4.151](#4151-meyer-lemon-salsa) Meyer Lemon Salsa** (Olive and Feta Relish variations), **[§4.152](#4152-north-african-charmoula) North African Charmoula**, **[§4.153](#4153-indian-coconut-cilantro-chutney) Indian Coconut-Cilantro Chutney** (**distinct from the existing [§4.48 Cilantro Chutney](#448-cilantro-chutney)**, which has no coconut and comes from a different book), **[§4.154](#4154-salmoriglio-sicilian-oregano-sauce) Salmoriglio (Sicilian Oregano Sauce)** (Argentinian Chimichurri variation — **distinct from the salmoriglio already embedded in [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)**, a leaner standalone version rather than that recipe's own full-cup-of-oil sauce; and this cookbook's fourth chimichurri alongside [§4.44](#444-three-herb-chimichurri)/[§4.94](#494-red-chimichurri)/[§4.95](#495-dry-chimichurri)), **[§4.155](#4155-herbed-yogurt) Herbed Yogurt** (Indian Carrot Raita variation, with the source's "Yogurt Sauce" section intro folded in as headnote), **[§4.156](#4156-persian-herb-and-cucumber-yogurt) Persian Herb and Cucumber Yogurt**, **[§4.157](#4157-borani-esfenaj-persian-spinach-yogurt) Borani Esfenaj (Persian Spinach Yogurt)**, and **[§4.158](#4158-mast-o-laboo-persian-beet-yogurt) Mast-o-Laboo (Persian Beet Yogurt)**. **One new condensed technique entry, [§T84 Salsa Math — The Herb Salsa Formula](#t84-salsa-math--the-herb-salsa-formula)**, added to the Techniques quick index — the source's own handwritten "chopped herbs + salt + olive oil to cover + shallots macerated in acid = herb salsa" diagram, condensed here since it's the underlying method all five regional herb salsas share, rather than repeated in each recipe. **One variation checked carefully and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos: Fried Sage Salsa Verde**, a named variation on [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) — its only real instruction ("follow the instructions on page 233 for frying sage") points to a source page that wasn't among those photographed for this batch, so the frying method itself is genuinely missing, not just tightly cropped; named in [§4.146](#4146-basic-salsa-verde)'s notes for completeness, not written up as its own entry. **Rated 🟢 Easy across the board** — every recipe in this batch is chopping, macerating, whisking, blending, or a brief spice-toast/sauté, with no step that can go from perfect to ruined per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test; even [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt)'s hour-long beet roast is unattended oven time with a wide doneness window, not a failure-prone step, and it lands in the **Cook** column rather than Slow cook per [CLAUDE.md §3a](CLAUDE.md)'s roughly-2-hour rule of thumb, matching this cookbook's existing [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) precedent for the same technique. **Jargon explained inline per Cody's standing request:** macerating shallots (and, at [§4.151](#4151-meyer-lemon-salsa), a whole diced Meyer lemon) in acid to mellow harsh raw bite — explained in full at [§4.146](#4146-basic-salsa-verde) and [§T84](#t84-salsa-math--the-herb-salsa-formula), cross-referenced afterward and to the existing [§T31 How to Use Acid](#t31-how-to-use-acid) "Macerating: the onion trick," the same source-page gap (page 118) [§4.135](#4135-creamy-herb-dressing) already flagged and resolved via T31 in the prior batch; what makes each "-ish" salsa read as French, Mexican-ish, Southeast Asian-ish, or Japanese-ish, in the book's own herb-and-acid logic, explained at [§T84](#t84-salsa-math--the-herb-salsa-formula); chutney vs. salsa as a difference of texture and tradition (blended smooth vs. knife-chopped chunky) rather than ingredients, explained at [§4.153](#4153-indian-coconut-cilantro-chutney); and tempering (*tadka*) — briefly frying whole spices in hot fat to bloom their aromatic oils — explained at [§4.155](#4155-herbed-yogurt)'s Indian Carrot Raita variation and cross-referenced to [§4.153](#4153-indian-coconut-cilantro-chutney)'s toasted cumin. **This cookbook's [§7.123 Kufte Kebabs](#7123-kufte-kebabs) entry updated** to link its own "Persian Herb Yogurt (not yet in this cookbook)" and "Charmoula (neither yet in this cookbook)" notes to [§4.156](#4156-persian-herb-and-cucumber-yogurt) and [§4.152](#4152-north-african-charmoula) now that both gaps are filled. Many serving suggestions naming dishes not yet in this cookbook (Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Finger-Lickin' Pan-Fried Chicken, Chicken Confit, Spicy Brined Turkey Breast, Glazed Five-Spice Chicken, Spicy Brined Pork Loin, Indian-Spiced Salmon, Indian-Spiced Fried Chicken, Pork Braised with Chiles, Beer-Battered Fish, English Pea Soup, Silky Sweet Corn Soup, *Adas Polo*, Persian Roast Chicken, Grilled Artichokes, Avocado Salad, Carrot Soup) are noted as such rather than invented; where this cookbook already has a matching dish — [§5.49 Persian-ish Rice](#549-persian-ish-rice), [§7.123 Kufte Kebabs](#7123-kufte-kebabs) — it's cross-linked instead. None of the thirteen recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "2 Tbsp" for the salsas/chutney/salmoriglio/charmoula and "¼ cup" for the yogurt sauces. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
@@ -830,6 +837,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) | 🟢 | 10 min | — | — | 10 min |
+| [§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) | 🟢 | 10 min | — | **~4 hr** *(freezer, scraped occasionally)* | 4 hr 10 min |
 | [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **30–45 min** *(smoker, unattended)* | 45–55 min |
 | [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets) *(Meathead)* | 🟢 | 10 min | — | **15–20 min** *(indirect zone/smoker, unattended)* | 1 hr 30 min *(+ 1 hr fridge dry-brine)* |
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
@@ -851,6 +859,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.131 Pesto](#4131-pesto) | 🟢 | 15 min | — | — | 15 min |
 | [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) | 🟢 | 15 min | — | — | 15 min |
 | [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 20 min |
+| [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) | 🔴 | 5 min | 12 min | — | 20 min |
 | [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) | 🟢 | 20 min | — | — | 20 min active *(+ brining time per §T37)* |
 | [§4.130 Chimichurri Sauce](#4130-chimichurri-sauce) | 🟢 | 20 min | — | — | 20 min |
 | [§8.38 Brothy: Stracciatella](#838-brothy-stracciatella-roman-egg-drop-soup) | 🟡 | 10 min | 10 min | — | 20 min |
@@ -1067,6 +1076,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.14 Pumpkin Chiffon Pie II](#1414-pumpkin-chiffon-pie-ii) | 🔴 | 20 min | 15 min | — | 3 hr 35 min *(includes the printed 3 hr chill)* |
 | [§9.25 Crabmeat Imperial](#925-crabmeat-imperial) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) *(Meathead)* | 🟢 | 15 min | 20 min | — | 35 min |
@@ -1121,6 +1131,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 35 min | — | 2 hr *(includes a 1–2 hr dry brine)* |
 | [§5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) *(Meathead)* | 🟢 | 25 min | 20 min | — | 45 min |
+| [§14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) | 🟡 | 25 min | 20 min | — | 1 hr |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) | 🟢 | 20 min | 28 min | — | 50 min *(plus full cooling and up to 2 hr chill before filling — not active work)* |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
@@ -1192,6 +1203,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
 | [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) | 🟢 | 15 min | 1 hr | — | 1 hr 25 min *(+ overnight buttermilk marinate)* |
+| [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) | 🟡 | 15 min | 1 hr 10 min *(low-oven dry-bake, mostly unattended)* | — | 1 hr 25 min |
 | [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
 | [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt) | 🟢 | 15 min | 1 hr *(roasting the beets, unattended)* | — | 1 hr 15 min |
 | [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(Meathead)* | 🟢 | 45 min | 30 min | — | 1 hr 15 min |
@@ -1199,6 +1211,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
+| [§14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie) | 🟢 | 25 min | 55 min | — | 2 hr 20 min *(includes a 15 min freeze and a 1 hr cooling rest)* |
 | [§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) | 🟢 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.62 Catfish Étouffée](#762-catfish-étouffée) | 🟡 | 25 min | 1 hr 5 min | — | 1 hr 30 min |
 | [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) | 🟡 | 15 min | 1 hr 15 min | — | 1 hr 30 min |
@@ -36588,6 +36601,460 @@ Tightly wrapped, this cake will keep for 4 days at room temperature, or for 2 mo
 #### D. Open Questions
 
 - **Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook** — same gap flagged at [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake); the page wasn't among those photographed for either recipe. A whipped-cream or basic buttercream substitute is noted above; revisit and replace both entries once that source page is available.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.24 Salted Caramel Sauce
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 428) — the very last recipe in the book. Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), [§T85](#t85-cooking-onions--blond-browned-caramelized)–[§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion), and this cookbook's other batches from this source. **This is the final batch from this same 50-page scan — every page from it has now been either transcribed or logged as a gap; see this entry's changelog line for the full accounting.**
+
+> **Per the source's own closing headnote:** *"It's only fitting to end this book right where it began, with salt making all the difference. And in caramel sauce, it does. By reducing its bitterness and creating a welcome contrast to its sweetness, a little salt will turn a sauce from something tasty into something inexplicably, mouthwateringly delicious. The only way to know how much salt to add is to add it incrementally, allow it to dissolve, and to taste, again and again. If you reach a point where you can't tell if the sauce needs more salt or not, then simply remove a spoonful of the caramel from the entire batch, sprinkle a little salt on it, and taste that. If it's too salty, then you'll know you've reached the limit. If it tastes even better, then go ahead and add a little more to the whole batch. You don't ever have to risk ruining the entire batch if you're unsure."*
+
+**Makes about 1½ cups**
+
+**🔴 Hard** · **Prep ~5 min** · **Cook ~12 min** *(caramelizing the sugar to a deep amber — the step that earns the Hard rating)* · **Start to finish ~20 min** *(plus a few minutes cooling to lukewarm before seasoning)*
+
+> ⚠️ **Why Hard, not Easy.** This is the exact same "perfect to burnt in under a minute" risk [CLAUDE.md](CLAUDE.md) §3a calls out for a roux — sugar goes from a rich amber to acrid black fast once it really starts coloring, and once it's dark, there's no walking it back; the whole batch goes in the trash and starts over. **This cookbook already rated [§14.20 Cream Caramel](#1420-cream-caramel) 🔴 Hard for the identical reason** (a caramelized-sugar lining that can scorch in seconds) — the two entries are cross-referenced to each other below. The source's own language, "just barely starts to smoke," is naming the edge of that exact line: one more moment on the heat past that point and the caramel is gone.
+
+> **Distinct from [§14.20 Cream Caramel](#1420-cream-caramel)** (*Champions of Sous Vide*) — that's a molded custard dessert that happens to use a thin caramel lining at the bottom of the mold; this is a standalone pourable sauce, built around a much bigger batch of caramelized sugar finished with cream. Both share the same scorch-risk reasoning for their 🔴 Hard rating, and both are cross-linked here.
+
+#### A. Ingredients
+
+- 8 Tbsp (4 oz / 1 stick) unsalted butter
+- ⅔ cup (135 grams) sugar
+- 1 cup heavy cream
+- ½ teaspoon vanilla extract
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Melt the butter, then stir in the sugar and turn the heat up.**
+Melt the butter in a deep, heavy-duty saucepan over medium heat. Stir in the sugar and increase the heat to high. Don't worry if the mixture looks separated and broken at first — keep the faith, it comes back together as it heats.
+
+**2. Stop stirring — swirl instead — until it's a deep golden brown. About 10 to 12 minutes.**
+Once the sugar starts to take on color, stop stirring and carefully swirl the pan instead to encourage even browning; stirring at this stage can cause the sugar to seize into a grainy mass instead of staying smooth. Cook until the sugar is a deep golden brown — the "smoke alarm" stage — and it just barely starts to smoke, about 10 to 12 minutes total. **This is the single riskiest window in the whole recipe.** Watch it continuously rather than multitasking through it; the last 30 to 60 seconds before it's ready are also the last 30 to 60 seconds before it's ruined. If you ever see black flecks or smell acrid smoke rather than a nutty, toasty aroma, it's gone too far — start the batch over rather than trying to rescue it.
+
+**3. Off the heat, whisk in the cream — carefully, it will bubble up furiously.**
+Remove the pot from the heat and immediately whisk in the cream. Take care: the very hot mixture will bubble up hard and may splatter, so stand back a little as you whisk. If any lumps of hardened caramel remain, return the pan to low heat and stir gently until they dissolve.
+
+**4. Cool to lukewarm, then season with vanilla and salt — a little at a time.**
+Let the caramel cool to lukewarm, then whisk in the vanilla and a big pinch of salt. Stir, taste, and adjust. **The source's own trick for finding the salt ceiling without risking the whole batch:** add a little salt, let it dissolve, and taste again — repeat. If you reach a point where you genuinely can't tell whether the sauce needs more salt or not, spoon out a little of the caramel from the batch, salt just that spoonful more aggressively, and taste it on its own. If it tastes too salty, you've found the limit — stop there. If it tastes even better, add a little more to the whole batch. Either way, you never risk oversalting the entire batch while hunting for the edge.
+
+**5. Serve warm, at room temperature, or cold — your choice.**
+The caramel thickens noticeably as it cools. Room temperature is easiest for pouring over ice cream or cake without it sliding right off; straight from the fridge it eats more like a firm, chewy candy sauce — both are valid, per the source's own preference for serving it closer to room temperature.
+
+Cover and refrigerate leftovers for up to 2 weeks. Rewarm gently in a saucepan over low heat, or in short bursts in the microwave, stirring between each.
+
+**Serving suggestions, per the source:** Classic Apple Pie and a Jam and Jelly Roll Tart *(both source dishes, not yet in this cookbook — named rather than invented)*; **[§14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie)**, **[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)**, **[§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake)**, and **[§14.28 Marshmallowy Meringues](#1428-marshmallowy-meringues)'s Chocolate-Caramel Meringue Fool variation** — all four already in this cookbook, all four cross-linked; or simply spooned over ice cream.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 8 Tbsp (1 stick)
+- 🛒 Sugar — ⅔ cup
+- 🛒 Heavy cream — 1 cup
+- 🛒 Vanilla extract
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1½ cups, 24 Tbsp)* | ~2,150 | 178 g | 5 g | 142 g | 0 g |
+| **Per serving** *(2 Tbsp, of 12)* | ~180 | 15 g | <1 g | 12 g | 0 g |
+
+**What a serving is:** 2 tablespoons — a standard drizzle over a slice of pie or a scoop of ice cream.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.25 Marshmallowy Meringues
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 409–410, best-effort page reading — the exact page number was hard to make out on the photographed spine curve; verify against the physical book). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and this cookbook's other batches from this book. Credited by the source to **Sam Chiu**, per its own headnote. **Distinct from this cookbook's existing meringue content** — [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie), [§14.13](#1413-pumpkin-chiffon-pie-i)/[§14.14 Pumpkin Chiffon Pie I/II](#1414-pumpkin-chiffon-pie-ii), and [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) all use a whipped meringue as one *component* folded into a pie filling; this recipe is meringue baked and served *as* the dessert itself, in individually piped pieces — a real difference in both technique and role, so both are kept.
+
+> ⚠️ **Small, dense print across a two-page spread — this transcription is a good-faith best reading, not a certain one**, matching this cookbook's own precedent at [§14.20 Cream Caramel](#1420-cream-caramel) for a similarly hard-to-read page. The oven temperature the meringues get reduced to once they're in the oven, in particular, is given below as 225°F as a best reading; verify against the physical book if precision matters.
+
+> **Per the source's own headnote:** *"My friend Sam Chiu is an egg white whisperer. From her I learned the importance of whipping egg whites slowly, in order to incorporate even-size bubbles, so that they will gain more volume and be more stable as they bake. The most important thing is to keep the egg whites clean and free of contamination. Any fat — whether from the yolks, your hands, or residue inside a bowl that's not perfectly clean — will keep them from fulfilling their voluminous potential. I love this recipe because it yields particularly soft and chewy meringues, which are equally nice as little bites or when baked into a bigger size for individual Pavlovas."*
+
+**Makes about 30 small meringues**
+
+**🟡 Medium** · **Prep ~15 min** *(whipping to stiff peaks and portioning)* · **Cook ~1 hr 10 min** *(low-oven dry-bake, mostly unattended — rotate the pans partway through)* · **Start to finish ~1 hr 25 min**
+
+> ⚠️ **Why Medium.** There's a genuine two-sided failure window here, not a one-second catastrophe like burnt caramel, but real enough to earn Medium per [CLAUDE.md](CLAUDE.md) §3a's technique-risk test: **underwhip** the egg whites and the meringue won't hold its piped shape or trap enough air to set properly; **overwhip**, or add the sugar too fast, and it turns grainy or weeps a sugary syrup as it bakes; and **any trace of fat** — a speck of egg yolk, greasy hands, a bowl that isn't perfectly clean — coats the egg-white proteins and blocks them from ever fully whipping, no matter how long you go. None of that is fixable mid-recipe the way a broken vinaigrette is; the batch just doesn't set right.
+
+#### On the technique — jargon explained
+
+- **Soft peaks vs. stiff peaks.** Lift the whisk out of the whites: **soft peaks** droop over at the tip, like a soft-serve swirl that's just starting to slump. **Stiff (or firm) peaks** stand straight up and hold their shape without collapsing. This recipe wants the whites whipped only to *soft* peaks before the sugar goes in (Step 3 below), then whipped further to *stiff*, glossy peaks once all the sugar is incorporated (Step 4) — the two stages aren't the same target, and rushing past the soft-peak stage to get to stiff peaks faster is exactly the "whip slowly" mistake the source's headnote warns against.
+- **Why cream of tartar (an acid) stabilizes egg whites — cross-referenced, not repeated.** [§T31 How to Use Acid](#t31-how-to-use-acid) already covers this exact chemistry in its "Makes eggs better" section: *"A few drops of lemon or vinegar per egg white helps whipped whites get fluffier and hold up."* **Cream of tartar does the identical job** — it's a powdered acid, a byproduct of wine-making, and this recipe uses it in place of the lemon juice or vinegar T31 names as the everyday substitute. The acid loosens the tight coil of each egg-white protein just enough that the proteins unfold and re-link into a more elastic, stable web around the air bubbles as they whip, so the foam holds its volume through baking instead of collapsing. Same reaction T31 already teaches — this entry doesn't repeat the mechanism a second time, just names the specific ingredient.
+- **Fold, as a mixing technique — used in this entry's Chocolate-Caramel Meringue Fool variation below.** Folding means cutting a wide spatula down through the center of a bowl and sweeping it up and around the side, turning the mixture over on itself gently, rather than stirring or whisking briskly. The point is to combine two mixtures — here, chopped chocolate into whipped whites — while knocking out as little of the trapped air as possible. Stirring or whisking would beat the air back out of whites that took real effort to whip in; folding barely disturbs it.
+
+#### A. Ingredients
+
+- 4½ teaspoons cornstarch
+- ⅓ cup (67 grams) sugar
+- ¾ cup (6 ounces / about 6 large) egg whites, at room temperature
+- ¼ teaspoon cream of tartar
+- Pinch of salt
+- 1½ teaspoons vanilla extract
+
+#### B. Cooking Instructions
+
+**1. Preheat to 250°F and line two baking sheets.**
+Preheat the oven to 250°F. Line two baking sheets with parchment paper.
+
+**2. Whisk the cornstarch into the sugar first.**
+In a small bowl, whisk together the cornstarch and sugar. Pre-mixing the cornstarch into the sugar, rather than adding it separately later, keeps it from clumping when it's added to the whipping whites.
+
+**3. Whip the whites with cream of tartar and salt — slowly — to soft peaks. About 2 to 3 minutes.**
+In the bowl of a stand mixer fitted with the whisk attachment (or using an electric hand mixer), start the egg whites, cream of tartar, and salt on low speed, slowly increasing to medium, until soft peaks form and the bubbles in the foam are small and uniform — approximately 2 to 3 minutes. **Take your time here** — this slow start is the whole point of the source's own headnote: it's what builds the fine, even bubble structure the meringue's final texture depends on. Rushing to high speed skips right past it.
+
+**4. Increase speed and add the sugar mixture gradually. Whip to stiff, glossy peaks.**
+Increase the mixer to medium-high and add the cornstarch-sugar mixture slowly and gradually, a spoonful or so at a time, with the mixer running. Once all the sugar is incorporated, keep whipping a little longer, until the meringue is thick and glossy and holds a firm, upright peak when the whisk is lifted out — this is stiff peaks, as opposed to the soft, drooping peaks from Step 3.
+
+**5. Whisk in the vanilla.**
+Add the vanilla extract and whip briefly just to combine.
+
+**6. Portion the meringues, then slide them into the oven and immediately reduce the heat.**
+Spoon about 30 half-tablespoon-size portions of meringue onto the prepared parchment paper, leaving a little space around each one. Slip the baking sheets into the oven and immediately reduce the temperature to 225°F ⚠️ *(best-effort reading — see note above)*.
+
+**7. Bake low and slow, rotating the pans partway through. About 65 to 75 minutes total.**
+After the first 25 minutes, rotate the pans (top rack to bottom, front to back). Continue baking another 20 to 25 minutes, then a further 20 to 25 minutes, until the meringues are dry and crisp on the outside, set enough that they lift cleanly off the parchment, and just barely give when pressed — a little soft and chewy within is correct, not undercooked.
+
+**8. Cool completely, then store airtight.**
+Let the meringues cool completely on the baking sheets before lifting them off. They'll keep in a tightly sealed container at room temperature for up to a week, **as long as the house isn't humid** — humidity is the enemy of meringue, since it pulls moisture back into the sugar and turns a crisp shell sticky and weepy within a day.
+
+#### Variations, per the source
+
+- **Pavlovas.** Spoon the meringue into 3-inch swirls on the parchment instead of small bites, using the back of a spoon to press a shallow well into the center of each. Bake about 65 minutes as directed above, then let the pavlovas cool inside the turned-off oven with the door propped ajar (a wooden spoon works) — the gradual cooldown keeps a bigger shell from cracking the way pulling it straight into room-temperature air would. Fill with Scented Cream *(page ~422 — not among the photographed pages; see Open Questions)* and a fruit **compote** *(page ~407 — also a gap; see the note on compote below)*, or with lemon curd and fresh fruit.
+- **Persian Pavlovas.** Add ⅛ teaspoon ground cardamom and 1 tablespoon saffron tea *(the same saffron-tea method already documented at [§5.49 Persian-ish Rice](#549-persian-ish-rice)'s Saffron Rice variation)* to the egg whites before whipping. Continue as above, top with Rose Scented Berries and Cardamom Cream *(both source names, not among the photographed pages — gaps, not invented)* and crumbled dried rose petals.
+- **Meringue Fool.** Layer crushed meringues into glasses with fruit compote or lemon curd and Vanilla Cream *(the same standing gap already flagged at [§14.21](#1421-loris-chocolate-midnight-cake) and [§14.23](#1423-fresh-ginger-and-molasses-cake)*).
+- **Chocolate-Caramel Meringue Fool.** Fold coarsely chopped bittersweet chocolate into the meringue just before baking (see "fold" explained above). Continue as directed, then layer the crushed, baked meringues into glasses with chocolate ice cream, this cookbook's own **[§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)**, and Caramel Cream *(another gap — see Open Questions)*.
+
+> **Compote, briefly explained** (per Cody's standing request to gloss intermediate terms): a **compote** is fruit cooked down with sugar (and often a little liquid or spice) until soft and syrupy, but left in recognizable pieces rather than puréed smooth — more like a chunky, spoonable jam than a sauce. That's different from a **coulis**, which this cookbook already uses elsewhere (**[§4.83 Coulis de Tomates](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)**, **[§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis)**) — a coulis is puréed and typically strained smooth, with no fruit pieces left at all. This source's own fruit "Compote" (page ~407) wasn't among the photographed pages, so it isn't invented here; a quick stand-in is simmering chopped fresh or frozen fruit with a few tablespoons of sugar and a squeeze of lemon juice until just softened and syrupy.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cornstarch — 4½ tsp
+- 🛒 Sugar — ⅓ cup
+- 🛒 Eggs — about 6 large, for the whites (the yolks go unused here — save them for a recipe that calls for whole eggs, like [§14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie))
+- 🛒 Cream of tartar — ¼ tsp
+- 🛒 Salt
+- 🛒 Vanilla extract — 1½ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 30 small meringues)* | ~420 | <1 g | 19 g | 81 g | 0 g |
+| **Per serving** *(1 meringue, of 30)* | ~14 | 0 g | <1 g | 3 g | 0 g |
+
+**What a serving is:** one small meringue, about a half-tablespoon, a light bite-size sweet — essentially pure air, sugar, and egg white. The Pavlova and Meringue Fool variations are considerably richer once filled with cream and fruit; no separate table is given for them since the filling components themselves (Scented Cream, Vanilla Cream, compote) aren't documented — see Open Questions.
+
+#### D. Open Questions
+
+- **The oven temperature reduction in Step 6 (225°F) is a best-effort reading of small, dense print** — verify against the physical book if precision matters.
+- **Scented Cream, Cardamom Cream, Caramel Cream, Rose Scented Berries, and the source's own fruit Compote are all named components used across this entry's variations, and none of them were among the photographed pages.** Vanilla Cream is the same standing gap already flagged at [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake); the four others are new names surfacing in this batch. **Since this is the final batch from this source PDF, all of these remain open gaps rather than something a future batch will resolve** — revisit only if new pages of this same book are ever photographed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.26 Classic Pumpkin Pie
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 390–391). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and this cookbook's other batches from this book. **Distinct from this cookbook's existing pumpkin pies** — [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie), [§14.13](#1413-pumpkin-chiffon-pie-i)/[§14.14 Pumpkin Chiffon Pie I/II](#1414-pumpkin-chiffon-pie-ii), and [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) are all a lighter chiffon style built on a stovetop custard folded with whipped egg whites (all rated 🔴 Hard for that reason); this is a straightforward direct-bake custard pie, no stovetop cooking and no meringue fold — closer in spirit to [§14.6 Key Lime Pie](#146-key-lime-pie)'s "whisk and bake" simplicity. All four are kept, cross-referenced here and at each existing entry.
+
+#### A. Ingredients
+
+- ½ recipe (1 disk) chilled pie dough *(the source's own "All-Butter Pie Dough" — an established gap in this cookbook; see the note below)*
+- Flour, for rolling
+- 2 large eggs
+- 1½ cups heavy cream
+- 15 ounces (1 large can) pumpkin purée
+- ¾ cup (150 grams) sugar
+- 1 teaspoon kosher salt, or ½ teaspoon fine sea salt
+- 1¾ teaspoons ground cinnamon
+- 1 teaspoon ground ginger
+- ¼ teaspoon ground cloves
+
+> **A note on the crust — a gap already on record.** The source builds this pie on its own "All-Butter Pie Dough," which [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) already flagged as not among the pages photographed for this project. In its place, a single 9-inch crust from this cookbook's own **[§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)** (the classic hand-laminated French method) or **[§14.19 Vodka Pie Crust](#1419-vodka-pie-crust)** (a food-processor dough) both stand in perfectly well — this pie's own filling and bake steps don't depend on which crust recipe fills the pan.
+
+#### B. Cooking Instructions
+
+**1. Roll, fit, and crimp the crust, then freeze it.**
+Preheat the oven to 425°F with a rack in the center position. On a well-floured board, roll the chilled dough out to about ⅛ inch thick and 14 inches in diameter. Wrap it loosely around a floured rolling pin to lift it, then unroll it over a 9-inch pie pan, gently pressing it into the corners. Trim the overhang to about ¾ inch with scissors, saving the trimmings.
+
+Crimp the edge by rolling the dough under itself into a rolled cylinder that sits on the rim of the pan. Work with one hand inside the pie and one outside: use the index finger of your inside hand to push the dough out between the thumb and forefinger of your outside hand, forming a "V," repeating all the way around, spaced about an inch apart. Patch any tears with the reserved trimmings.
+
+**Prick — or "dock" — the crust all over with a fork,** then freeze it for 15 minutes. **Docking, explained:** poking a series of small holes through unbaked dough lets steam escape as it bakes instead of puffing the crust up into bubbles or blisters; it's a standard move any time a crust is going in without a filling weighing it down flat, and it matters here too even with the custard on top, since the crust starts baking before the filling fully sets.
+
+**2. Whisk the custard and pour it into the frozen shell.**
+Crack the eggs into a medium bowl and beat them with a whisk. Add the cream, pumpkin purée, sugar, salt, and spices, and whisk thoroughly until fully combined. Pour the custard into the frozen shell.
+
+**3. Bake hot, then low, until just barely set. About 55 minutes total.**
+Bake at 425°F for 15 minutes, then reduce the heat to 325°F and continue baking until the center is just barely set — about 40 minutes more. "Just barely set" means the outer few inches look fully firm and the very center still has a slight, gelatin-like jiggle when the pan is nudged, not a liquid wobble. **Don't wait for it to look completely firm in the oven** — carryover heat finishes setting the center as the pie cools, and baking until it looks fully firm from the oven almost always means an overbaked, cracked custard by the time it's cold.
+
+**4. Cool completely before slicing. About 1 hour.**
+Let the pie cool on a wire rack for a full hour before cutting into it — a warm pumpkin custard is too soft to slice cleanly and will look underdone even when it isn't. Serve with Tangy Whipped Vanilla, Cinnamon, or Caramel Cream *(the source's own toppings, pages ~423–425 — not among the photographed pages; a simple lightly sweetened whipped cream stands in, or this cookbook's own [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) for the caramel option)*.
+
+#### Variation, per the source: Chocolate Pudding Pie
+
+Roll, crimp, and freeze a 9-inch pie shell exactly as directed above. This time, **blind bake it**: line the frozen shell with parchment paper and fill with pie weights or dried beans, then bake at 425°F for 15 minutes. Remove the weights and parchment, reduce the oven to 375°F, and continue baking until the crust is lightly golden, another 10 to 15 minutes. Return it to the oven once more and bake until the bottom is fully golden and the crust's edge is just starting to brown, a final 5 to 10 minutes — **watch this last stage closely**, since baking times vary by oven and an empty crust can go from perfectly golden to overdone faster than a filled one would.
+
+> **Blind baking, explained.** "Blind" baking means baking a crust empty — with no filling in it yet — so it holds its shape and fully cooks through before anything goes inside. Pie weights (or dried beans, or raw rice, used the same way) sit on top of a sheet of parchment pressed into the shell, weighing the dough down so it can't puff up or slump down the sides of the pan while it bakes on its own. This particular pie needs it because its filling is a stovetop pudding that's cooked separately and poured in already-thickened — unlike the plain pumpkin filling above, it gets no more oven time to finish the crust once it's added, so the crust has to be fully baked before that happens.
+
+Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and brush it over the inside of the crust — this thin chocolate layer acts as a moisture barrier, keeping the crust from turning soggy once the pudding sits on top of it overnight. Make one recipe of Bittersweet Chocolate Pudding, increasing its cornstarch as the source's own variation directs, and pressing plastic wrap directly onto its surface right after cooking to keep a skin from forming. Cool the pudding to room temperature, spoon it into the prepared crust, cover, and chill overnight before serving with billowy Vanilla, Chocolate, Coffee, or Caramel Cream.
+
+> **Bittersweet Chocolate Pudding is a gap, same family as the creams above.** This recipe wasn't among the pages photographed for this project, so this variation's filling isn't fully buildable from this cookbook alone yet — named here rather than invented. A standard stovetop bittersweet chocolate pudding (egg yolks or cornstarch, milk, cream, melted chocolate, sugar, cooked until thickened) is a reasonable stand-in if this variation gets made before that source page turns up.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pie dough — [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) or [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) ingredients, or a store-bought single 9-inch crust
+- 🛒 Eggs — 2 large
+- 🛒 Heavy cream — 1½ cups
+- 🛒 Canned pumpkin purée — 15 oz (1 large can)
+- 🛒 Sugar — ¾ cup
+- 🛒 Kosher salt or fine sea salt
+- 🛒 Ground cinnamon, ground ginger, ground cloves
+- 🛒 *(For the Chocolate Pudding Pie variation)* Bittersweet chocolate — 2 oz for the crust brush, plus more for the pudding
+
+#### Nutrition *(estimated)*
+
+*Figures below are for the plain pumpkin pie; the Chocolate Pudding Pie variation's undocumented pudding filling isn't included.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pie** *(9-inch, with a standard single crust)* | ~3,050 | 200 g | 35 g | 290 g | 14 g |
+| **Per serving** *(serves 8)* | ~380 | 25 g | 4 g | 36 g | 2 g |
+
+**What a serving is:** one slice, ⅛ of a 9-inch pie.
+
+#### D. Open Questions
+
+- **The crust is the source's own "All-Butter Pie Dough," an established gap** — see [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) for the full note; [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) or [§14.19](#1419-vodka-pie-crust) stand in.
+- **Tangy Whipped Vanilla, Cinnamon, and Caramel Cream (the source's own toppings) and Bittersweet Chocolate Pudding (the Chocolate Pudding Pie variation's filling) are all named but not among the photographed pages.** Same standing-gap family as [§14.21](#1421-loris-chocolate-midnight-cake)/[§14.23](#1423-fresh-ginger-and-molasses-cake)'s Vanilla Cream and [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues)'s Scented/Cardamom/Caramel Cream. Since this is the final batch from this source, these stay open rather than resolving in a future batch.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.27 Light and Flaky Buttermilk Biscuits
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 394–395). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and this cookbook's other batches from this book. Credited by the source to **Tom Purtill**, a young baker in Oakland, per its own headnote. **Distinct from this cookbook's existing biscuits** — [§15.3 Basic Biscuits](#153-basic-biscuits-cheese-or-bacon-variation), [§15.4 Angel Biscuits](#154-angel-biscuits), [§15.5 Fancy Biscuits](#155-fancy-biscuits), and [§15.6 Pastry Biscuits](#156-pastry-biscuits) are all Southern cut-in-shortening (or yeasted) techniques from *Talk About Good!*; this one is a cold-butter lamination method — closer in spirit to a rough puff pastry than a traditional Southern cut-in biscuit — genuinely different technique, kept alongside rather than replacing any of them.
+
+> **Per the source's own headnote:** *"I learned this unconventional method from Tom Purtill, a young baker at one of my favorite bakeries in Oakland. The first time I tasted one of his biscuits, I begged him to come out of the kitchen and walk me through his process. And every word he said was completely at odds with everything I knew about making biscuits. I'd always thought the key was to work the dough as little as possible, but he told me he completely incorporated half of the butter into the dough to make it tender, and then rolled and folded the finished dough a few times to create flaky layers. It was so counterintuitive that if the most flaky biscuit I'd ever tasted weren't sitting right in front of me, I wouldn't have believed him. But I did, and I went straight home to try it out."*
+
+**Makes about 18 biscuits** *(this recipe halves easily)*
+
+**🟡 Medium** · **Prep ~25 min** *(mixing, laminating, and cutting — plus a 15 min butter-and-buttermilk freeze before starting, not counted as active work)* · **Cook ~20 min** · **Start to finish ~1 hr**
+
+> ⚠️ **Why Medium.** Keeping everything cold through the whole process is the entire technique, and it's a real, if forgiving, place to slip — per [CLAUDE.md](CLAUDE.md) §3a's technique-risk test, this isn't a "start over from scratch" failure like a broken caramel, but working warm, soft dough for even a few extra minutes visibly costs the payoff: the butter smears into the flour instead of staying in separate pieces, the dough loses the distinct fat layers lamination is building, and the biscuits come out noticeably denser rather than flaky. Real enough to name, forgiving enough to stay out of 🔴 Hard.
+
+> **Why cold butter matters — cross-referenced, not repeated.** [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) and [§T30 How to Use Fat](#t30-how-to-use-fat)'s "Texture #3: FLAKY" section already cover the mechanism this recipe depends on: cold butter stays as distinct solid pieces through mixing and rolling rather than blending smoothly into the flour; once the biscuit hits the hot oven, each of those pieces melts and flashes off steam, and it's that steam pushing outward that separates the dough into the thin, flaky layers a biscuit is judged on. Warm butter never sets up that structure — it blends into the flour too evenly, leaving no distinct pockets to release steam from, so the result bakes up dense instead.
+
+#### A. Ingredients
+
+- ¾ cup buttermilk, chilled
+- 16 tablespoons (8 ounces / 2 sticks) unsalted butter, cut into ½-inch cubes and chilled
+- 3½ cups (18½ ounces) all-purpose flour
+- 1 tablespoon baking powder
+- 1 teaspoon kosher salt, or ½ teaspoon fine sea salt
+- 1 cup heavy cream, chilled, plus more for brushing
+
+#### B. Cooking Instructions
+
+**1. Freeze the butter and buttermilk for 15 minutes.**
+This isn't optional — everything in this recipe stays as cold as possible, on purpose, for the reason explained above.
+
+**2. Cut half the butter into the dry ingredients until sandy.**
+Place the flour, baking powder, and salt in the bowl of a stand mixer fitted with the paddle attachment. Add half of the butter, a few pieces at a time, mixing on low speed until the mixture looks sandy with no distinct pieces of butter visible, 3 to 8 minutes.
+
+**3. Cut in the rest of the butter, leaving pea-size pieces. About 2 more minutes.**
+Add the remaining butter and continue mixing just until the pieces are about the size of large peas. This second half stays deliberately chunkier than the first — these bigger pieces are what create the largest, most visible flaky layers.
+
+**4. Flatten the biggest butter pieces by hand.**
+Transfer the mixture to a large, wide bowl. Get a little flour on your fingers and briefly press and flatten the largest remaining lumps of butter into thin flakes rather than leaving them as round pellets — this gives the lamination steps below more distinct, flat sheets of fat to work with.
+
+**5. Add the buttermilk and cream all at once. Mix just until shaggy.**
+Make a well in the center of the bowl. Pour in the buttermilk and the 1 cup of cream and mix with a rubber spatula, using broad, circular strokes. Add a splash more cream if needed so the dough holds together but stays shaggy — barely moist, not wet.
+
+**6. Laminate: pat into a rectangle, fold in thirds, repeat.**
+Turn the dough out onto a lightly floured counter. Gently pat it into a rough 9-by-13-inch rectangle, then fold it into thirds like a letter. Rotate the dough a quarter turn, pat it out into a 9-by-13-inch rectangle again, and fold it into thirds once more. **Repeat this pat-and-fold sequence two or three more times total.**
+
+> **Fold, as a mixing/lamination technique — why it works.** Each fold traps a fresh, thin layer of flour between sheets of butter and dough. In the oven, every one of those layers becomes a distinct flaky sheet as its butter melts and releases steam — this is the literal mechanism behind "flaky," and it's the same principle a croissant or puff pastry uses, just with far fewer, coarser folds. **If the dough starts to feel warm, soft, or sticky partway through this step, stop and refrigerate it for 10 minutes before continuing** — this is the moment the whole technique can quietly go wrong. Push on with warm dough and the butter smears into the flour instead of staying in separate sheets, and the flaky payoff disappears for good; there's no fixing it later in the process.
+
+**7. Roll, cut straight down — don't twist — and brush with cream.**
+Lightly flour the counter once more and roll the dough out to about 1 inch thick. Cut biscuits with a 2½-inch round cutter, pressing straight down without twisting — twisting seals the cut edge shut and keeps the layers from rising evenly in the oven. Gather the scraps, press them gently back together, and cut a few more. Arrange the biscuits on the prepared baking sheets and brush generously with cream.
+
+**8. Bake at 450°F until well risen and deeply golden. About 18 to 20 minutes.**
+Preheat the oven to 450°F and line two baking sheets with parchment paper before starting Step 7. Bake until the biscuits are tall, golden brown on top, and feel light for their size when picked up. Serve warm.
+
+#### Variations, per the source
+
+- **Shortcakes.** Add ⅓ cup (2⅓ ounces) sugar to the dry ingredients in Step 2. After baking and cooling, split each biscuit in half and spoon on Vanilla Cream *(a gap — see Open Questions)* and a Strawberry Compote *(see the compote explanation at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) — a quick simmer of sliced strawberries with a little sugar and lemon juice stands in)*.
+- **Fruit Cobbler.** Preheat the oven to 400°F. Combine about 7 cups (2½ pounds) of pitted fresh cherries with sugar and a little flour or cornstarch and a pinch of salt in a large bowl; toss and transfer to a 9-by-13-inch baking dish. Cut rounds from a half batch of the biscuit dough (or drop it in spoonfuls) over the fruit, brush with cream, and bake until the topping is golden brown and the fruit is bubbling around the edges — roughly 40 to 45 minutes. **Cross-referenced, not confused for a duplicate:** this cookbook already has [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) and [§14.8 Blueberry Cobbler](#148-blueberry-cobbler), both from a different source with their own toppings — this cherry, biscuit-topped version is kept as a fourth, distinct cobbler rather than replacing either.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Buttermilk — ¾ cup
+- 🛒 Unsalted butter — 16 Tbsp (2 sticks)
+- 🛒 All-purpose flour — 3½ cups (18½ oz)
+- 🛒 Baking powder — 1 Tbsp
+- 🛒 Kosher salt or fine sea salt
+- 🛒 Heavy cream — 1 cup, plus extra for brushing
+- 🛒 *(For Fruit Cobbler)* Fresh cherries — 7 cups (2½ lb), pitted; sugar; cornstarch or flour
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(18 biscuits)* | ~4,530 | 260 g | 63 g | 410 g | 14 g |
+| **Per serving** *(1 biscuit, of 18)* | ~250 | 14 g | 3.5 g | 23 g | 1 g |
+
+**What a serving is:** one 2½-inch biscuit, plain.
+
+#### D. Open Questions
+
+- **A couple of instruction phrasings (the exact butter-flattening motion and fold count) were hard to fully make out in the photographed print** — transcribed as a good-faith best reading; the core technique (freeze, cut in butter in two additions, laminate with 3–4 folds, cut, bake hot) is clear and not in doubt.
+- **Vanilla Cream (the Shortcakes variation's filling) is the same standing gap flagged at [§14.21](#1421-loris-chocolate-midnight-cake), [§14.23](#1423-fresh-ginger-and-molasses-cake), and [§14.25](#1425-marshmallowy-meringues)** — not among the photographed pages; a whipped-cream substitute is noted at those entries.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 404–405), the first of the source's "Four Things to Do with Fruit" — three short, simple methods for showing off ripe fruit at its peak. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and this cookbook's other batches from this book. **See also [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves)**, the third of these three methods, kept as its own entry rather than folded into this one since it's a genuinely different technique (roasting, not juicing/freezing).
+
+> **Per the source's own "Four Things to Do with Fruit" headnote:** *"Most of the time, the best thing to do with a perfectly ripe piece of fruit is to enjoy it out of hand. The countless stains running down the front of practically every shirt I own attest to the fact that I put this into practice all summer long with berries, nectarines, peaches, plums, melons, and anything else that applies to the condition of 'ripe.' Since I don't think there's much you can do to improve upon that, I suggest the next best thing, which is to do as little as possible to it. In addition to eating it plain, these are my four go-to methods for showing off the glory of ripe fruit. Precisely because these recipes are so simple, they do require that you start with the tastiest fruit you can get. Use fruit at the height of its season (or frozen fruit, which is frozen at its peak). You won't regret the extra effort."*
+
+> **Per the source's own "Juice It and Make Granita" intro:** *"Granita is Sicilian shaved ice, one of my favorite refreshing desserts, in part because it's so simple to make. Since it's frozen with intermittent rather than constant stirring, ice crystals form that are much larger and flakier than those you'd find in ice cream or gelato. They half melt, half crunch away on the tongue. Squeeze your own citrus juice, or blend and strain very ripe or frozen fruit in a food processor or blender, pressing hard to extract the juice and leave the solids behind. Almond milk, coconut milk, root beer, coffee, or red wine will also make delicious Granitas when you don't have fruit on hand. Once you've got the juice, sweeten it, keeping in mind that everything tastes less sweet once it's frozen, so use a little more sugar than you think you need."*
+
+**Makes Granita to serve 4**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Slow cook ~4 hr** *(freezer, scraped with a fork every 30–45 min — each check takes seconds, not real hands-on time)* · **Start to finish ~4 hr 10 min**
+
+> **Why a granita's texture depends on scraping, not churning — jargon explained.** Ice cream and gelato get their smooth texture from a machine that churns constantly while freezing, which does two things at once: it beats air into the base, and it keeps ice crystals from ever growing past microscopic size. A granita skips the machine entirely — the juice is simply poured into a shallow dish and frozen mostly undisturbed. Left completely alone, it would eventually freeze into one solid, unscoopable block. **Raking a fork through it every 30 to 45 minutes as it freezes** breaks the forming ice up into separate, coarse crystals instead of letting it set solid — that repeated breaking-and-refreezing is what builds the loose, shaved-ice texture that half melts and half crunches on the tongue, and it's a completely different mechanism from an ice cream maker's constant churn.
+
+#### A. Ingredients
+
+**Orange Granita**
+
+- 4 cups orange juice
+- ⅓ cup (67 grams) sugar
+- 4 tablespoons lemon juice
+- Pinch of salt
+
+#### B. Cooking Instructions
+
+**1. Combine the juice, sugar, lemon juice, and salt.**
+Whisk everything together in a bowl until the sugar is dissolved.
+
+**2. Pour into a shallow, nonreactive dish and freeze.**
+Use a stainless steel, glass, or ceramic dish — the mixture should sit at least an inch deep. Place it in the freezer.
+
+**3. Scrape with a fork every 30 to 45 minutes as it freezes. About 4 hours total.**
+Once ice crystals start forming around the edges, about an hour in, use a fork to break them up and mix them back into the still-liquid center. The more diligently and evenly you do this each time, the finer and more even the finished granita will be. Continue freezing and scraping every 30 to 45 minutes until the whole dish is frozen through, about 4 hours total.
+
+**4. Give it one final scrape right before serving.**
+Rake the fork through the whole dish once more just before serving, until the texture is even, loose, shaved ice throughout.
+
+Serve immediately, or keep covered in the freezer for up to a week — scrape again before serving if it's set up solid in the meantime.
+
+#### Variation, per the source: Coffee Granita
+
+- 4 cups strongly brewed coffee
+- ⅔ cup (135 grams) sugar
+- Pinch of salt
+
+Combine, freeze, and scrape exactly as directed above — no lemon juice needed, since coffee doesn't need the acid balance citrus juice does.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Orange juice — 4 cups, or freshly squeezed
+- 🛒 Sugar
+- 🛒 Lemons — for juice (Orange Granita only)
+- 🛒 *(For Coffee Granita)* Strongly brewed coffee — 4 cups
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch, Orange Granita** | ~700 | <1 g | 7 g | 170 g | 2 g |
+| **Per serving** *(serves 4)* | ~175 | 0 g | 2 g | 42 g | <1 g |
+
+**What a serving is:** about 1 cup of shaved ice, a normal light dessert portion. **The Coffee Granita variation is close to pure sugar-water** — roughly 530 kcal for the whole batch and 130 kcal per serving, virtually all of it carbs, with negligible fat, protein, or fiber either way.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.29 Roast It on a Bed of Fig Leaves
+
+Transcribed from a photographed page — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 406), the third of the source's "Four Things to Do with Fruit" — see **[§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation)** for the first (and this entry's shared headnote) and the note below on the second, which is skipped as incomplete.
+
+> ⚠️ **"Poach It in Wine," the source's second fruit method, is skipped — genuinely incomplete, not invented.** It sits on the same page spread as this entry, but only its finishing half survived in the photographed pages: cooling the poached fruit, reducing the poaching liquid if it's too watery, plating alternating slices, adding warm winter spices, and its serving suggestions (mascarpone, crème fraîche, lightly sweetened ricotta, Greek yogurt, vanilla ice cream, or Scented Cream). **Its opening ingredient list and first steps — what kind of wine, how much sugar, how much fruit, and the actual simmering method for the pears or quince — are not in the photographed pages**, and there's no legible amount for any of it. Per Cody's standing instruction on incomplete source material, it's named here rather than guessed at; revisit only if that source page ever turns up.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(oven roast, mostly unattended)* · **Start to finish ~30 min**
+
+#### A. Ingredients
+
+*The source gives this one in its own casual, by-feel measurements rather than exact cups — standardized below to a normal batch; scale to the size of your dish.*
+
+- Fig leaves, enough to line the roasting dish *(or a few bay leaves or sprigs of thyme, per the source, if fig leaves aren't available)*
+- 1½ pounds stone fruit (halved apricots, nectarines, peaches, or plums) or a few fist-size bunches of grapes, on the stem
+- Sugar, for sprinkling (about 2 to 3 Tbsp)
+
+#### B. Cooking Instructions
+
+**1. Line a small roasting dish with fig leaves.**
+Use a small ceramic or glass roasting dish. **Fig leaves aren't eaten** — they're an aromatic bed, the way grape leaves or banana leaves are used elsewhere in Mediterranean and Southeast Asian cooking, and they get discarded after roasting. They lend the fruit a heavenly, nutty, faintly coconut-like aroma as it cooks. If fig leaves aren't on hand, a few bay leaves or sprigs of fresh thyme work as a substitute.
+
+**2. Arrange the fruit in a single layer, cut side up.**
+Fill the dish with a single layer of halved stone fruit (cut side up) or fist-size bunches of grapes still on the stem.
+
+**3. Sprinkle generously with sugar.**
+
+**4. Roast at 425°F until tender and golden. 15 to 30 minutes, depending on size.**
+Roast until the fruit is tender and golden brown on the surface — about 15 minutes for smaller fruit (apricot halves, grapes) and up to 30 minutes for larger fruit (peach, nectarine, or plum halves).
+
+**5. Serve warm or at room temperature.**
+With Scented Cream *(a gap — see [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues)'s Open Questions for the same missing recipe)* or vanilla ice cream.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Fig leaves *(or bay leaves / fresh thyme)*
+- 🛒 Stone fruit (apricots, nectarines, peaches, or plums) or grapes on the stem — about 1½ lb
+- 🛒 Sugar
+
+#### Nutrition *(estimated)*
+
+*Based on 1½ lb peaches and 2 Tbsp sugar as a representative batch; fig leaves are aromatic wrapping, not eaten, so they aren't counted.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~320 | <1 g | 6 g | 78 g | 8 g |
+| **Per serving** *(serves 4)* | ~80 | 0 g | 1.5 g | 19 g | 2 g |
+
+**What a serving is:** two or three roasted fruit halves, a light dessert portion. Grapes or other fruit will shift these numbers slightly, but not by much.
+
+#### D. Open Questions
+
+- **Quantities are standardized from the source's own casual "fist-size bunches" and "sprinkle generously" language** rather than printed exact amounts — adjust freely to the size of the fruit and dish on hand.
+- **"Poach It in Wine," the source's second fruit method (between this entry and [§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation)), is skipped as incomplete** — see the note at the top of this entry. **Scented Cream**, named as a serving suggestion here, is the same standing gap flagged at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues). Since this is the final batch from this source, both remain open rather than resolving in a future batch.
 
 [↑ Table of Contents](#table-of-contents)
 

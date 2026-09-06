@@ -8591,6 +8591,8 @@ Apply to steaks, pork chops, chicken, or seafood at the time you'd normally dry 
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter.
 
+> **⚠️ Not the same sauce as [§4.178 Kansas City Red](#4178-kansas-city-red) — read this before substituting one for the other.** This entry is from the author's **earlier** book, *Meathead: The Science of Great Barbecue and Grilling*. **[§4.178 Kansas City Red](#4178-kansas-city-red)**, added 2026-09-06, is a genuinely different, later recipe from ***The Meathead Method***: it makes 2 cups from a bourbon-reduction, raspberry-jam, honey, and liquid-smoke base with no aromatics cooked in at all, where this one makes 6 cups from ketchup, molasses, brown sugar, and steak sauce over a sautéed onion-and-garlic bloom. **Both are Kansas City–style sweet red sauces, and both stay.** Until 2026-09-06 this entry was standing in wherever a *Meathead Method* recipe called for "Kansas City Red" by name — [§7.135](#7135-championship-brisket-and-burnt-ends), [§7.136](#7136-championship-pork-ribs), [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe), and [§7.141](#7141-championship-chicken) — **and all four of those cross-references now point at the real recipe instead.** This one remains a fine sauce in its own right, and the recipes that name it directly ([§4.128 Burger Glop](#4128-burger-glop), [§7.95](#795-perfect-pulled-pork), [§7.145](#7145-60-minute-ribs-dreamland-style), [§T71 Burnt Ends](#t71-burnt-ends)) are unchanged.
+
 > **⚠️ Title flagged, not confirmed — and now verified exhaustively, not just assumed.** The pages carrying this recipe's title and headnote (the book's printed pages **174–175**) were re-checked page by page against a full PDF-index-to-book-page index of the 21-page scan during the 2026-09-06 audit. **They appear at no index, at any position — confirmed genuinely absent.** The name **"Kansas City Classic Barbecue Sauce" remains Cody's best inference**, not a transcribed title: the recipe is a classic thick, ketchup-and-molasses-based sauce, and the book's own [§4.128 Burger Glop](#4128-burger-glop) calls for "Kansas City–style barbecue sauce" by that description elsewhere, pointing at this exact profile. **What the audit *did* settle is that nothing is missing from the recipe itself.** The printed **MAKES 6 cups / TAKES about 45 minutes** lines sit at the top of book p. 176 with the ingredient list starting directly beneath them, so **the ingredient list is complete as given — no ingredient was cut off before "2 Tbsp chili powder,"** which the earlier note had left open as a possibility. Only the title and the opening of the headnote are missing.
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety) · [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat)
@@ -31429,7 +31431,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 - 1½ cups [Red Meat Rub](#4165-red-meat-rub)
 - 1 cup low-sodium beef broth
 - 6 tablespoons apple cider vinegar
-- 1 cup [Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) *(the source's own Kansas City Red is a skipped recipe this batch — see Open Questions; this cookbook's existing sauce stands in)*
+- 1 cup [Kansas City Red](#4178-kansas-city-red) *(the source's own sauce, book p. 180 — **now documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) or a bottled KC-style sauce also work)*
 
 *Special tools: meat injector, large sharp knife, fine-mesh sieve, heavy-duty aluminum foil.*
 
@@ -31463,7 +31465,7 @@ Wrap the point and flat tightly together in two layers of heavy-duty foil, stack
 Wrap the still-foiled brisket in a heavy towel and hold it in an insulated cooler (a faux Cambro, [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)) for at least 1 hour before serving.
 
 **10. Burnt ends.**
-Remove the point from the foil, reserving the collected liquid. While still warm, cube the point into ¾-inch pieces. Toss the cubes in the Kansas City Classic Barbecue Sauce until well coated, spread them in a pan, and return the pan to the smoker's indirect side for about 15 minutes to set the glaze — watch them, since a sugary sauce can scorch if left too long or too close to direct heat.
+Remove the point from the foil, reserving the collected liquid. While still warm, cube the point into ¾-inch pieces. Toss the cubes in the [Kansas City Red](#4178-kansas-city-red) until well coated, spread them in a pan, and return the pan to the smoker's indirect side for about 15 minutes to set the glaze — watch them, since a sugary sauce can scorch if left too long or too close to direct heat.
 
 **11. Slice the flat.**
 Remove the flat from the foil and pour its collected liquid in with the point's. Slice the flat across the grain into pencil-thick, roughly ¼-inch slices — see [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) for both slicing methods this cookbook already documents. Strain the combined liquid through a fine-mesh sieve and taste it — if it's not too salty, drizzle a little back over the sliced meat.
@@ -31484,7 +31486,7 @@ Plate the sliced flat with a few burnt ends alongside, or pile both onto sandwic
 - 🛒 Ground white pepper
 - 🛒 Apple cider vinegar
 - 🛒 Red Meat Rub ingredients (if not already made) — see [§4.165](#4165-red-meat-rub)
-- 🛒 Kansas City Classic Barbecue Sauce ingredients (if not already made) — see [§4.117](#4117-kansas-city-classic-barbecue-sauce)
+- 🛒 Kansas City Red ingredients (if not already made) — see [§4.178](#4178-kansas-city-red)
 - 🛒 Heavy-duty aluminum foil
 
 #### Nutrition *(estimated)*
@@ -31499,7 +31501,7 @@ Plate the sliced flat with a few burnt ends alongside, or pile both onto sandwic
 #### D. Open Questions
 
 - **Some step-level details (the exact minute-by-minute mop and Texas-crutch temperatures) were transcribed from a hard-to-read photographed spread (book p. 214–215) — cross-checked against this cookbook's existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) for consistency** (both smoke at 225°F and pull in the low-to-mid 200s°F, per this author's standing brisket method), rather than guessed independently. The core figures that matter for outcome — ingredients, smoke temp, and pull-temperature range — are solid; treat the exact minute-marks in Steps 6–8 as approximate.
-- **This recipe calls for the source's own "Kansas City Red" sauce, which was skipped in the earlier Rubs & Spice Blends batch as genuinely incomplete** (2026-09-06 changelog) — this cookbook's existing [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) stands in instead, cross-referenced rather than invented.
+- **✅ Resolved 2026-09-06. This recipe calls for the source's own "Kansas City Red" sauce, which the earlier Rubs & Spice Blends batch skipped as genuinely incomplete** — Cody has since photographed book pp. 180 and 182, and it is now written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. The stand-in cross-reference to [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) has been replaced with the real thing throughout this entry; §4.117 remains a perfectly good substitute if you have it made, but it is a **different sauce from a different book** — see the note at the top of §4.117.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -31531,7 +31533,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 - ¼ cup brown sugar
 - ¼ cup honey
 - 3 Tbsp apple juice, plus more for spritzing
-- ¼ cup Kansas City–style barbecue sauce, for glazing *(the source's own "Kansas City Red" — see Open Questions)*
+- ¼ cup [Kansas City Red](#4178-kansas-city-red), for glazing *(the source's own sauce, book p. 180 — **now documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; a bottled Kansas City–style sauce or [§4.117](#4117-kansas-city-classic-barbecue-sauce) also work)*
 
 *Special tools: spray bottle, heavy-duty aluminum foil, instant-read thermometer.*
 
@@ -31579,7 +31581,7 @@ Let the rack rest for 5 to 10 minutes off the heat. Slice between the bones — 
 - 🛒 Brown sugar — ¼ cup
 - 🛒 Honey — ¼ cup
 - 🛒 Apple juice — for the foil and spritzing
-- 🛒 Kansas City–style barbecue sauce — ¼ cup, for glazing (a bottled one, or see [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) if making it from scratch)
+- 🛒 Kansas City Red — ¼ cup, for glazing (make [§4.178](#4178-kansas-city-red), the source's own sauce; or a bottled Kansas City–style sauce, or [§4.117](#4117-kansas-city-classic-barbecue-sauce))
 - 🛒 Heavy-duty aluminum foil
 
 #### Nutrition *(estimated)*
@@ -31594,7 +31596,7 @@ Let the rack rest for 5 to 10 minutes off the heat. Slice between the bones — 
 #### D. Open Questions
 
 - **Some connecting narrative on the photographed spread (book p. 246–247) — the "About the Mustard/Margarine/Apple Juice/Sauce" sidebars and a few words of Steps 1–2 — was genuinely hard to read at full confidence**, being small print on an angled phone photo. The figures that drive the outcome (ingredient amounts, 225°F smoke temp, the 195–205°F foil-wrap target, and the overall step sequence: prep, dry brine, rub, smoke, crutch, sauce, rest) are all clearly legible and transcribed as printed; only some minor connective phrasing is paraphrased rather than quoted.
-- **The source's own "Kansas City Red" sauce (referenced by page number in this recipe) was already flagged as genuinely incomplete in the earlier Rubs & Spice Blends batch** (2026-09-06 changelog) — its ingredient list is legible but its mixing method is missing from the scan. This recipe calls for a Kansas City–style sauce generically and points to this cookbook's own [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) as a ready-made stand-in, same handling as [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends).
+- **✅ Resolved 2026-09-06. The source's own "Kansas City Red" sauce — referenced by page number right in this recipe's ingredient list ("¼ cup Kansas City Red, page 180") — was flagged as genuinely incomplete by the earlier Rubs & Spice Blends batch.** Cody has since photographed book pp. 180 and 182, and it is written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. This entry now points at the real sauce rather than the [§4.117](#4117-kansas-city-classic-barbecue-sauce) stand-in, same as [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -31794,7 +31796,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 - 1 tsp baking powder
 - 1 tsp Morton Coarse Kosher Salt
 
-*Optional, for drizzling:* Kansas City Red *(the source's own sauce, book p. 180 — already flagged incomplete, see Open Questions)* · [Alabama White Sauce](#4172-alabama-white-sauce) *(§4.172)* · Teriyaki *(book p. 175, not yet in this cookbook)* · Tare *(book p. 203, not yet in this cookbook)* · Thai Sweet Chile Sauce *(book p. 200, not yet in this cookbook)*
+*Optional, for drizzling:* [Kansas City Red](#4178-kansas-city-red) *(§4.178 — the source's own sauce, book p. 180, **now documented in full** as of 2026-09-06)* · [Alabama White Sauce](#4172-alabama-white-sauce) *(§4.172)* · Teriyaki *(book p. 175, not yet in this cookbook)* · Tare *(book p. 203, not yet in this cookbook)* · Thai Sweet Chile Sauce *(book p. 200, not yet in this cookbook)*
 
 #### B. Cooking Instructions
 
@@ -31836,7 +31838,7 @@ Move the wings to direct heat, lid open, and sear both sides until the internal 
 
 #### D. Open Questions
 
-- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). Of these, only Alabama White Sauce is currently in this cookbook ([§4.172](#4172-alabama-white-sauce)); Kansas City Red is the source's own sauce already flagged as incomplete in the Rubs & Spice Blends batch (see [§7.136](#7136-championship-pork-ribs)'s Open Questions for the stand-in used elsewhere); the other three aren't yet transcribed. Noted rather than invented.
+- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). **Two of the five are now in this cookbook:** Alabama White Sauce at [§4.172](#4172-alabama-white-sauce), and — **as of 2026-09-06, once Cody photographed book pp. 180 and 182** — Kansas City Red at [§4.178](#4178-kansas-city-red). The remaining three (Teriyaki, Tare, Thai Sweet Chile Sauce) aren't yet transcribed; their pages have never been photographed. Noted rather than invented.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -31924,7 +31926,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 - Morton Coarse Kosher Salt, to taste
 - 2 cups low-sodium chicken stock *(for injecting)*
 - 1 stick (4 oz) unsalted butter
-- 3½ cups Kansas City–style barbecue sauce *(the source's own "Kansas City Red," book p. 180 — see Open Questions for this cookbook's stand-in)*
+- 3½ cups [Kansas City Red](#4178-kansas-city-red) *(the source's own sauce, book p. 180 — **now documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; note that §4.178 makes 2 cups, so this recipe needs **a scant double batch**. A bottled Kansas City–style sauce or [§4.117](#4117-kansas-city-classic-barbecue-sauce) also work.)*
 - ⅓ cup apple juice
 
 *Special tools: meat injector, garden shears (optional, for trimming), toothpicks or metal poultry pins (if rolling the skin), instant-read thermometer.*
@@ -31979,7 +31981,7 @@ If you're actually entering a competition, test your whole process — skin meth
 - 🛒 Morton Coarse Kosher Salt
 - 🛒 Low-sodium chicken stock — 2 cups
 - 🛒 Unsalted butter — 1 stick (4 oz)
-- 🛒 Kansas City–style barbecue sauce — 3½ cups (a bottled one, or see [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce))
+- 🛒 Kansas City Red — 3½ cups (**a scant double batch of [§4.178](#4178-kansas-city-red)**, the source's own sauce; or a bottled Kansas City–style sauce, or [§4.117](#4117-kansas-city-classic-barbecue-sauce))
 - 🛒 Apple juice — ⅓ cup
 
 #### Nutrition *(estimated)*
@@ -31993,7 +31995,7 @@ If you're actually entering a competition, test your whole process — skin meth
 
 #### D. Open Questions
 
-- **The source's own "Kansas City Red" sauce (book p. 180, referenced here by name) was already flagged as genuinely incomplete in the Rubs & Spice Blends batch** — its ingredient list is legible, but its mixing method is missing from the scan. This recipe calls for a Kansas City–style sauce generically and points to this cookbook's own [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) as a ready stand-in, same handling as [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.136](#7136-championship-pork-ribs).
+- **✅ Resolved 2026-09-06. The source's own "Kansas City Red" sauce (book p. 180, referenced here by name) was flagged as genuinely incomplete by the Rubs & Spice Blends batch** — its ingredient list was legible, but its mixing method sat on book p. 182, which wasn't in the scan. Cody has since photographed both pages, and it is written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. This entry now calls for the real sauce rather than the [§4.117](#4117-kansas-city-classic-barbecue-sauce) stand-in, same as [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.136](#7136-championship-pork-ribs). **One practical note:** §4.178 makes about 2 cups and this recipe wants 3½, so plan on a scant double batch.
 - **The source names a specific commercial product ("Bird Booster Rotisserie Flavor injection") as one competitor's preferred substitute** for the plain salted chicken stock injection used here — mentioned as an example of what's out there, not a required purchase; this recipe's own literal ingredient (salted chicken stock) is what's in the Ingredients list above.
 
 [↑ Table of Contents](#table-of-contents)

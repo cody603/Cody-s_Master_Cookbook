@@ -583,6 +583,10 @@ Click any recipe to jump straight to it.
 - [14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) ✅ *(Salt, Fat, Acid, Heat; Shortcakes and Fruit Cobbler variations)*
 - [14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) ✅ *(Salt, Fat, Acid, Heat)*
 - [14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) ✅ *(Salt, Fat, Acid, Heat; ⚠️ "Poach It in Wine," the source's middle fruit method, skipped as incomplete — see entry)*
+- [14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream) ✅ *(The Meathead Method)*
+- [14.31 Torched Figs](#1431-torched-figs) ✅ *(The Meathead Method)*
+- [14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) ✅ *(The Meathead Method)*
+- [14.33 Baked Apples](#1433-baked-apples) ✅ *(The Meathead Method)*
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -593,6 +597,7 @@ Click any recipe to jump straight to it.
 - [15.5 Fancy Biscuits](#155-fancy-biscuits) ✅
 - [15.6 Pastry Biscuits](#156-pastry-biscuits) ✅
 - [15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) ✅
+- [15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) ✅ *(The Meathead Method; distinct from the keto [§11.3](#113-keto-skillet-cornbread))*
 
 **[16. Beverages](#16-beverages)** *(numbered 16, appended at the end — same reasoning as §14–§15)*
 
@@ -606,6 +611,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Desserts batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the sixth batch from this source, picking up right after the Vegetables & Seafood batch below. **Four full recipes added to [§14 Desserts](#14-desserts)**, continuing straight on from [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves): **[§14.30](#1430-drunken-peaches-and-cream) Drunken Peaches and Cream** (grilled peaches with a rum-maple sauce over melted vanilla ice cream, standing in for a from-scratch crème anglaise — cross-linked to the existing [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) rather than duplicated, since it turns out this cookbook already documents crème anglaise in full), **[§14.31](#1431-torched-figs) Torched Figs** (sugared and torch-brûléed fresh fig halves with ice cream, balsamic, and mint), **[§14.32](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) Grilled Pound Cake with Leah's Chocolate Buttercream Sauce** (grilled at "Warp 5," topped with ice cream and a melted-chocolate sauce distinct from the existing [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)), and **[§14.33](#1433-baked-apples) Baked Apples** (stuffed with pecans, marmalade, raisins, chèvre, and mascarpone, water-bath-baked on the grill, and brûléed to finish). **One more full recipe added to [§15 Breads](#15-breads): [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) Old-Fashioned Skillet Cornbread and Hush Puppies** — filed as a bread rather than a sweet despite its source chapter, with optional grilled-corn/roasted-pepper and bacon/cheese/jalapeño mix-ins and a hush-puppy deep-fry conversion; **checked against and kept genuinely distinct from the existing [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** (almond flour and flaxseed meal, no actual corn or wheat), cross-referenced both directions. **Two items checked very carefully against Cody's specific advance concerns:** **Pineapple Foster** (book p. 382) is skipped as genuinely incomplete — only its headnote (Bananas Foster's Brennan's-restaurant origin, a Waikiki riff swapping in pineapple) survives, cut off mid-sentence at the bottom of the photographed page, with no title header, MAKES/TAKES line, ingredient list, or numbered steps anywhere in the 55-page scan; **Drunken Peaches and Cream was confirmed whole, not split or missing** — its headnote begins on book p. 377 and its full ingredient list and all five numbered steps continue, legibly, on p. 378. **One callout box also skipped as genuinely incomplete: a "PANKO PERFECT" sidebar next to the cornbread recipe** — only its title survived at the bottom of a photographed page, no body text legible anywhere in the scan; named at [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies)'s Open Questions rather than invented. **No salt amounts altered anywhere in this batch.** **Rated 🟡 Medium for the four recipes with a genuine brûlée, torch, alcohol-reduction, or don't-let-it-boil chocolate step that can go from perfect to scorched, and 🟢 Easy for the cornbread**, which has no step that can go from perfect to ruined, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test. **Jargon explained inline per Cody's standing request:** brûlée (explained fresh at [§14.31 Torched Figs](#1431-torched-figs), cross-linked to the existing [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) for the underlying sugar chemistry), crème anglaise (explained at [§14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream), cross-linked to [§14.2](#142-sugared-berries-with-crème-anglaise) rather than left as an undocumented reference-only term), the "Warp" heat scale (cross-referenced to the existing [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method), which is itself updated to name [§14.32](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) as the "grilled pound cake" it already referenced anonymously), and hush puppies (explained inline at [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies)). **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. **One more batch from this book is still coming: the "Using My Recipes" reference/ingredient-notes section, including cheese tips** — the final chapter left in this 55-page scan. |
 | 2026-09-06 | **Vegetables & Seafood batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the fifth batch from this source, picking up right after the Chicken & Turkey batch below. **Three full recipes added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.56 Cherry Tomato Confit](#556-cherry-tomato-confit): **[§5.57](#557-smoke-roasted-garlic) Smoke-Roasted Garlic** (a whole head, smoked soft on the indirect side, ready to spread or stir in), **[§5.58](#558-smoked-tomato-raisins) Smoked Tomato Raisins** (tomatoes, low and slow, until they shrink to sun-dried-raisin territory with a smoky edge), and **[§5.59](#559-squash-bisque) Squash Bisque** (bacon, smoked squash and pumpkin seeds, and a blended finish with cream and yogurt). **One full sauce added to [§4](#4-rubs-seasonings-sauces--condiments): [§4.174](#4174-poblano-basil-cream-sauce) Poblano-Basil Cream Sauce** — a grilled-and-blended poblano/shallot/garlic cream sauce that turns out to close a gap this project already knew about (see below). **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin): **[§7.143](#7143-scallops-with-black-garlic-butter-sauce) Scallops with Black Garlic Butter Sauce** (cold-smoked with a smoking gun, seared, and sauced with butter, black garlic, and kumquats — kept distinct from and cross-referenced to the existing sous-vide [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction)) and **[§7.144](#7144-mussels-with-smoked-fettuccine) Mussels with Smoked Fettuccine** (a *moules marinière* built up with cream and finished by boiling the fettuccine itself in smoked water). **Two new condensed technique entries, [§T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method)–[§T101](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method)**, continuing the T-section from [§T99](#t99-the-warp-heat-scale-the-meathead-method): a mushroom-buying/storage/drying reference with 12 named varieties plus a "don't wash mushrooms" myth-bust (cross-referenced against, not correcting, this cookbook's existing [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)/[§9.26 Mushroom Florentine](#926-mushroom-florentine), both of which already call for washing mushrooms — a harmless choice either way), and a scallop-buying guide (bay/sea/diver/day-boat/wet/dry). **§4.174 Poblano-Basil Cream Sauce closes a gap flagged back in the Beef/Bison/Lamb batch**: that batch's [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) needed a "Poblano-Basil/Duxelles cream sauce" component that wasn't in that batch's scan (book p. 192/194); the Poblano-Basil half of that pair has now turned up complete on this batch's own pages, and §7.132's (and, where it's mentioned, §7.133's) notes now point to the real thing instead of a cross-book stand-in. **Its mushroom-based neighbor, Duxelles and Mushroom Cream Sauce, remains incomplete** — this batch's scan picks up mid-recipe at "cook the mushrooms," with the shared ingredient list and Step 1 (book p. 192) still not among the photographed pages — skipped per Cody's standing incomplete-source policy; the term "duxelles" itself (a finely minced, cooked-down mushroom-and-shallot paste) is explained inline at §4.174 regardless, and cross-referenced against this cookbook's unrelated, already-documented [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce) from *Mastering the Art of French Cooking* — same term, two different sauces, both kept. **Three items skipped as genuinely incomplete or missing, none guessed at:** **Quick Pickles** (book p. 343) — a complete 1:1:1-part formula and full ingredient list, but the page ends after Step 2 ("Pack"), with the step that actually mixes and pours the pickling liquid over the packed vegetables not among the photographed pages; **Corn Salad** (book p. 350–351) — a complete ingredient list, but no cooking instructions anywhere in the scan; and **Smoke Catcher Clambake** (book p. 321) — only a headnote and a general description of the book's own "smoke catcher" method (inverting a pan over shellfish on the grill to trap smoke) survive in the scan, with no MAKES/TAKES line, ingredient list, or numbered steps for the recipe itself; the "smoke catcher" technique's own dedicated page (book p. 98) also isn't among the photographed pages. **No salt amounts altered anywhere in this batch.** **Rated 🟢 Easy for the four recipes with no fail-prone step** ([§5.57](#557-smoke-roasted-garlic), [§5.58](#558-smoked-tomato-raisins), [§5.59](#559-squash-bisque), [§4.174](#4174-poblano-basil-cream-sauce)) **and 🟡 Medium for the two with a real timing risk** ([§7.143](#7143-scallops-with-black-garlic-butter-sauce)'s 1-minute second sear on easily-overcooked scallops, and [§7.144](#7144-mussels-with-smoked-fettuccine)'s must-open-properly mussels alongside a pasta timing window) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy. **Jargon explained inline per Cody's standing request:** duxelles, black garlic, a smoking gun, a grill topper, clarified butter, and *moules marinière* — see each recipe's own text; pasta-water starch is cross-referenced to this cookbook's existing [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) rather than re-explained. **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Chicken & Turkey batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the fourth batch from this source, picking up right after the Pork batch above. **Five full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt): **[§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) Real Fried Chicken on a Gas Grill** (deep-fried in a Dutch oven on the grill's own side burner — pickle-brine marinated, not sous vide, so kept distinct from and cross-referenced to the existing [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken)), **[§7.139](#7139-extra-crispy-chicken-wings-without-frying) Extra Crispy Chicken Wings Without Frying** (a baking-powder dry brine, 24-hour air-dry, and a roast-then-sear finish — no frying or smoking at all, distinct from [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings)), **[§7.140](#7140-tandoori-chicken) Tandoori Chicken** (yogurt-marinated whole bird, cooked on a tandoor/kamado rotisserie, a normal-grill rotisserie, or broken into parts), **[§7.141](#7141-championship-chicken) Championship Chicken** (12 bone-in, skin-on thighs — trimmed, injected, rubbed with this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), smoked, direct-seared, and sauced — a different competition team's recipe from the Cool Smoke components at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection), so no merge applies), and **[§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin** (a boneless breast lobe, pounded flat, dry-brined, butter-injected, smoked at 225°F, and served with a port-soaked-cranberry topping and rendered-skin cracklins — distinct from the whole-bird [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey)). **Confirmed: Tandoori Chicken and the turkey breast recipe are two separate dishes, not one recipe split across pages** — an early read of this batch's photos worried a numbered Pound/Dry Brine/Rehydrate/Fire Up/Make the Cracklins/Smoke and Butter Up/Serve method might belong to Tandoori Chicken, since both turned up on nearby pages; closer reading matched the rotisserie steps to Tandoori's own ingredient list (cilantro garnish, Yogurt Marinade) and the numbered method to §7.142's own ingredients (French Rub, cranberries, port, butter) one page later. **Five new condensed technique entries, [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)–[§T99](#t99-the-warp-heat-scale-the-meathead-method)**, continuing the T-section from [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method): a fuller chicken butchery/carving guide (halves, quarters, eight or ten pieces, and carving a cooked bird — cross-referenced against, not duplicating, the existing [§T77](#t77-tips-on-cooking-poultry)/[§T82](#t82-how-to-carve-a-turkey) from the earlier Meathead book), dredges vs. batters and why baking powder (not baking soda) crisps poultry skin, a myth-busting entry on trussing poultry legs, a from-scratch double-fry French fries method, and a new entry inferring what this book's own 1-to-10 "Warp" direct-heat scale means from context, since a definition page still hasn't turned up and the scale has now actually driven a temperature in a recipe for the first time ([§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s "Warp 5"). **One recipe fragment skipped as genuinely incomplete, per Cody's standing policy:** an untitled recipe that uses [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component, finishing it with a basted "flavored oil" — only the tail end of its Steps 2–3 are legible on book p. 285, immediately above [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s own headnote; its title, headnote, full ingredient list, and Step 1 are not among the photographed pages. Named here rather than guessed at. **One myth-busting box given its own T-number rather than folded into a recipe:** [§T97 Myth — Truss Poultry Legs](#t97-myth--truss-poultry-legs-the-meathead-method) — kept separate since it reinforces, rather than duplicates, [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey)'s existing "don't truss" bullet from the earlier book. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **Jargon explained inline per Cody's standing request:** spatchcocking (cross-referenced to the earlier book's [§T77](#t77-tips-on-cooking-poultry)), the ten-piece cut and whole-bird carving (the new [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)), baking powder's crisping mechanism and EverCrisp as a commercial category product (the new [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)), "kamadoor" and "IR" (inline at [§7.140](#7140-tandoori-chicken)), "GBD" (inline at [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)), "cracklins" (inline at [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)), a "jaccard" (inline at [§7.141](#7141-championship-chicken)), and a "turn-in box" (cross-referenced to [§7.136](#7136-championship-pork-ribs) rather than re-explained). **§7.141 Championship Chicken's own "Kansas City Red" ingredient reference points to this cookbook's existing [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) as a stand-in**, same handling as [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.136](#7136-championship-pork-ribs), since the source's own Kansas City Red was already flagged as incomplete in the Rubs & Spice Blends batch. **The source's own "For French Fries" sidebar was checked against this cookbook's existing [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries)** and found to be a genuinely different, fresh-cut/pickle-brine-soak method — condensed into the new [§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) rather than written up as its own recipe, since the source presents it as a technique sidebar, not a standalone dish. **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Pork batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the third batch from this source, picking up right after the Beef/Bison/Lamb batch below. **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends): **[§7.136](#7136-championship-pork-ribs) Championship Pork Ribs** (the source's own KCBS-style competition rib method — dry brine, [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) rub, Texas-crutched, glazed and set — kept distinct from and cross-referenced to the existing [§7.97 Last-Meal Ribs](#797-last-meal-ribs), which this book's own recipe explicitly calls out as "the simpler recipe I do at home") and **[§7.137](#7137-tuffy-stones-championship-pork-butt) Tuffy Stone's Championship Pork Butt** (the fuller competition method behind the four Cool Smoke components already added to §4 in the earlier Rubs & Spice Blends batch — trimmed, injected, rubbed, smoked hot at 300°F, Texas-crutched, sauced, and rested — distinct from this cookbook's existing [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork)). **Confirmed: "Tuffy Stone's Championship Pork Butt" and the earlier batch's own shorthand "Cool Smoke Pork Butt" are the same single recipe, not two** — the source has only one title for this dish; the earlier batch's phrasing was just this project's own label for the ingredient sub-list, now resolved rather than duplicated. **One new condensed technique entry, [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) Buying Pork and the Whole-Hog Cut Map**, continuing the T-section from [§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method): pork carries no USDA quality grade at all (unlike beef), buying pork by color/myoglobin rather than a grade stamp, the loin-vs-tenderloin mix-up the source calls out by name, and a brief whole-hog cut map. **The source's own pork-rib-cuts diagram (book p. 244) was checked against the existing [§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs)/[§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) from the earlier Meathead book and found to substantially duplicate that rib-specific content — not re-added as its own entry; [§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) covers only what T58/T59 don't and cross-references them for the ribs themselves, same practice as the Beef/Bison/Lamb batch's brisket-anatomy duplicate-check.** **One myth-busting box folded into the recipe it belongs with, rather than given its own T-number:** "boiling ribs makes them tender" (busted — water pulls flavor out and turns the meat mushy — folded into [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs)'s headnote), same practice as the Beef batch's myth-folding. **One recipe skipped as genuinely incomplete, per Cody's standing policy:** **Dorie's Pork à la Normande** (book p. 252–253) — the title, full headnote (credited to cookbook author Dorie Greenspan), and complete ingredient list (pork chops, mushrooms, onion, sage, apple, Calvados-adjacent cream sauce) are all legible, but the numbered cooking steps that should follow on book p. 253 are not among the 55 photographed pages at all — the scan simply doesn't include that page; named here rather than guessed at, same handling as the Beef/Bison/Lamb batch's skipped Pho recipe. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **Both recipes rated 🟢 Easy per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test** — long, mostly unattended smokes with a forgiving Texas-crutch wrap and a glaze step that can be re-done if it goes wrong, nothing that fails the way a roux does; both carry a bolded transparency note flagging that some connecting narrative prose (not the ingredients, temperatures, or step sequence) on two hard-to-read photographed spreads was paraphrased rather than block-quoted, with specifics in each recipe's own Open Questions, following the same practice already used at [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) and [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) for similarly hard-to-read spreads. **Jargon explained inline per Cody's standing request:** the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket)/[§7.135](#7135-championship-brisket-and-burnt-ends) rather than re-explained) and the turn-in box (a competition-BBQ term for the box of meat a team submits to judges, explained in full at [§7.136](#7136-championship-pork-ribs)) at both new recipes. **Neither recipe prints net carbs, so neither is tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
@@ -861,6 +867,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T8 Pan Sauce](#t8-pan-sauce-formula) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
+| [§14.31 Torched Figs](#1431-torched-figs) *(The Meathead Method)* | 🟡 | 5 min | 3 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) | 🟡 | 10 min | — | — | 10 min |
 | [§4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise) | 🟢 | 10 min | — | — | 2 hr 10 min *(includes a 2 hr chill)* |
@@ -1129,11 +1136,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.25 Crabmeat Imperial](#925-crabmeat-imperial) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 20 min | — | 45 min *(includes butter soak-in time)* |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) *(Meathead)* | 🟢 | 15 min | 20 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§14.6 Key Lime Pie](#146-key-lime-pie) | 🟢 | 15 min | 20 min | — | 35 min *(+ 30 min cool, 3 hr chill)* |
+| [§14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream) *(The Meathead Method)* | 🟡 | 15 min | 20 min | — | 45 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) | 🟡 | 10 min | 30 min | — | 40 min |
 | [§4.76 Sauce Robert (Brown Mustard Sauce)](#476-sauce-robert-brown-mustard-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
@@ -1184,6 +1193,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.26 Mushroom Florentine](#926-mushroom-florentine) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
+| [§14.33 Baked Apples](#1433-baked-apples) *(The Meathead Method)* | 🟡 | 15 min | 30 min | — | 45 min |
+| [§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) *(The Meathead Method)* | 🟢 | 20 min | 25 min | — | 45 min |
 | [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 35 min | — | 2 hr *(includes a 1–2 hr dry brine)* |
 | [§5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) *(Meathead)* | 🟢 | 25 min | 20 min | — | 45 min |
 | [§14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) | 🟡 | 25 min | 20 min | — | 1 hr |
@@ -16640,7 +16651,7 @@ This is the fuller, step-by-step version of what [§T77 Tips on Cooking Poultry]
 <!-- TECHNIQUE-TAGS: meathead, meathead-method, warp-scale, heat-level, direct-heat, grilling -->
 **Tags:** `meathead` · `meathead-method` · `warp-scale` · `heat-level` · `direct-heat` · `grilling`
 **Source:** **Meathead Goldwyn**, ***The Meathead Method*** — used casually across several of this book's chapters (e.g. book p. 194, 286, 339, 380) as shorthand for how hot a grill's direct side is dialed, rather than always giving a specific °F. The page that actually defines the scale numbers has not turned up among any of this project's photographed batches of this book so far.
-**Used in:** [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4 ("Warp 5 on the direct heat side") — the first time this scale actually drove a temperature in a recipe in this cookbook. **[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), Step 2, is the "roasted-poblano recipe" this entry originally described anonymously** ("Warp 10 on the direct heat side," for an aggressive char) — now named, from the Vegetables & Seafood batch.
+**Used in:** [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4 ("Warp 5 on the direct heat side") — the first time this scale actually drove a temperature in a recipe in this cookbook. **[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), Step 2, is the "roasted-poblano recipe" this entry originally described anonymously** ("Warp 10 on the direct heat side," for an aggressive char) — now named, from the Vegetables & Seafood batch. **[§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce), Steps 2–3, is the "grilled pound cake" this entry's own comparison paragraph below already referenced anonymously** ("Warp 5" for a solid sear) — now named, from the Desserts batch.
 
 **This book refers to direct-grilling heat intensity on a 1-to-10 "Warp" scale** — a nod to the sci-fi warp-speed idea — rather than a specific number of degrees for the direct side of the grill.
 
@@ -37020,7 +37031,7 @@ The "Southern keto" entries are low-carb rebuilds of Southern staples — almond
 
 ### 11.3 Keto Skillet Cornbread
 
-Transcribed from a printed keto cookbook page (p. 74, *Breakfast & Breads*) — the same book as [§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad), [§11.5](#115-easy-caulimash-keto-mashed-potatoes), [§11.6](#116-keto-zucchini-bread), and [§7.21](#721-fried-chicken-low-carb-whey-breaded). **Almond flour and golden flaxseed meal instead of cornmeal**, baked in a hot buttered cast-iron skillet. This fills what was the *Southern Keto Cornbread* placeholder.
+Transcribed from a printed keto cookbook page (p. 74, *Breakfast & Breads*) — the same book as [§11.4](#114-southern-fauxtato-salad-cauliflower-potato-salad), [§11.5](#115-easy-caulimash-keto-mashed-potatoes), [§11.6](#116-keto-zucchini-bread), and [§7.21](#721-fried-chicken-low-carb-whey-breaded). **Almond flour and golden flaxseed meal instead of cornmeal**, baked in a hot buttered cast-iron skillet. This fills what was the *Southern Keto Cornbread* placeholder. **Genuinely different from the non-keto [§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies)** (*The Meathead Method*) — that one is real cornmeal and wheat flour; this one has no corn or wheat in it at all. Both kept, cross-referenced.
 
 > **The author's framing:** cornbread was a staple at their Grandma Ida Mae's house — she made it about every day, and Papa ate the leftovers crumbled into a glass of cold buttermilk. Their words: hard to measure up to Grandma's, but a good substitute for the high-carb version.
 
@@ -37347,6 +37358,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-06 — the "Chicken and Turkey" chapter of *The Meathead Method* has now arrived, and it landed in §7 and the T-section, same as every prior chapter.** Five full recipes, **[§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) through [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)**, plus five new condensed technique entries, **[§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)–[§T99](#t99-the-warp-heat-scale-the-meathead-method)**. **§7.138 Real Fried Chicken on a Gas Grill and §7.139 Extra Crispy Chicken Wings Without Frying are both genuinely different from this cookbook's existing fried/wing recipes from the earlier Meathead book** ([§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken), a sous-vide-then-fry method, and [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings), smoked/grilled and sauced) — both new methods kept alongside their older cousins rather than merged. **§7.140 Tandoori Chicken and §7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin turned out to be two separate dishes, not one** — an early scan of this batch's photos worried they might be the same recipe split across pages, since a whole-bird rotisserie method and a numbered Pound/Dry Brine/Rehydrate/Fire Up/Make the Cracklins/Smoke and Butter Up/Serve method both turned up near each other; on closer reading, the rotisserie steps are Tandoori Chicken's own third cooking option (its ingredient list, cilantro garnish, and yogurt marinade all match), and the numbered turkey-breast method is §7.142's own steps, matching that recipe's own ingredient list (French Rub, cranberries, port, butter) one page later — two distinct dishes, not a duplicate. **§7.141 Championship Chicken uses this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), not the Cool Smoke rub/sauce components** at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection) — a different competition team (Darren and Sherry Warth) with their own rub-and-sauce combination, so no cross-reference or merge with the Cool Smoke recipes applies. **One recipe fragment skipped as genuinely incomplete**: an untitled recipe that uses [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component and finishes it with a basting of "hot flavored oil" — only the tail end of its Steps 2–3 are legible, immediately above [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s own headnote on book p. 285; its title, headnote, full ingredient list, and Step 1 (how the flavored oil itself is made) are not among the photographed pages. Named here rather than guessed at. **One myth-busting box given its own T-number rather than folded into a recipe**: [§T97 Myth — Truss Poultry Legs](#t97-myth--truss-poultry-legs-the-meathead-method) (busted — trussing traps steam and slows cooking rather than helping) — kept separate because it reinforces, rather than belongs to, an existing bullet at [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey) from the earlier Meathead book; both books reach the same conclusion independently, cross-referenced rather than duplicated. **The "Warp" heat scale — flagged as existing but unused in the Beef/Bison/Lamb batch's own changelog entry — has now actually appeared in a recipe** ([§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4, "Warp 5"), so it gets its own new technique entry, [§T99](#t99-the-warp-heat-scale-the-meathead-method), inferring what the scale means from how it's used across several of this book's recipes since its own numeric definition still hasn't turned up in any photographed page. **No salt amounts altered anywhere in this batch.** **Jargon explained inline per Cody's standing request:** "spatchcock" (cross-referenced to the earlier book's existing [§T77](#t77-tips-on-cooking-poultry) rather than re-explained), the ten-piece cut for frying and whole-bird carving (both condensed into the new [§T95](#t95-cutting-up-a-chicken-halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)), why baking powder (not baking soda) crisps poultry skin and dry-vs-wet coatings generally (the new [§T96](#t96-coating-the-chicken-dredges-batters-and-why-baking-powder-works-the-meathead-method)), EverCrisp (explained as a commercial category product at §T96, not purchased for any recipe here), "kamadoor" and "IR" (explained inline at [§7.140](#7140-tandoori-chicken)), "GBD" (Golden Brown and Delicious, explained inline at [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)), "cracklins" (crispy rendered poultry skin, explained inline at [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)), a "jaccard" (a needle-bladed meat-tenderizing tool, explained inline at [§7.141](#7141-championship-chicken)), and a "turn-in box" (cross-referenced to the existing explanation at [§7.136](#7136-championship-pork-ribs) rather than repeated). **The source's own "For French Fries" sidebar was checked against this cookbook's existing [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries)** and found to be a genuinely different, fresh-cut/pickle-brine-soak method (vs. §7.46's frozen-fries version) — condensed into its own new technique entry, [§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method), cross-referenced from [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) rather than written up as its own recipe, since the source itself presents it as a sidebar, not a standalone dish. **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and this §13 entry all updated throughout. **§13 remains a placeholder**, same reasoning as every update above.
 >
 > **Update, 2026-09-06 — the "Vegetables" and "Seafood" chapters of *The Meathead Method* have now arrived together, and they landed in §5, §4, §7, and the T-section.** Six full recipes: **[§5.57](#557-smoke-roasted-garlic) Smoke-Roasted Garlic, [§5.58](#558-smoked-tomato-raisins) Smoked Tomato Raisins,** and **[§5.59](#559-squash-bisque) Squash Bisque** in [§5 Vegetables & Sides](#5-vegetables--sides); **[§4.174](#4174-poblano-basil-cream-sauce) Poblano-Basil Cream Sauce** in [§4](#4-rubs-seasonings-sauces--condiments); and **[§7.143](#7143-scallops-with-black-garlic-butter-sauce) Scallops with Black Garlic Butter Sauce** and **[§7.144](#7144-mussels-with-smoked-fettuccine) Mussels with Smoked Fettuccine** in [§7 Mains & Proteins](#7-mains--proteins) — same "organize by what the dish *is*, not by source book" reasoning as every chapter before it. Two new condensed technique entries, **[§T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method) Mushroom Varieties, Buying, Storing, and Drying** and **[§T101](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) Buying Scallops**, condense the book's ingredient-notes reference section rather than a recipe chapter. **§4.174 Poblano-Basil Cream Sauce closes a gap this project already knew about**: the Beef/Bison/Lamb batch flagged a "Poblano-Basil/Duxelles cream sauce" as a component [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) needed but the scan didn't have (book p. 192/194) — the Poblano-Basil half of that pair has now turned up complete, and §7.132's (and, in passing, §7.133's) notes are updated to point to it. **Its mushroom-based sibling, Duxelles and Mushroom Cream Sauce, is still incomplete** — the scan picks up mid-recipe at "cook the mushrooms," with the shared ingredient list and Step 1 on a page (book p. 192) not among the photographed pages — skipped per Cody's standing incomplete-source policy, cross-referenced at §4.174's own Open Questions rather than invented. **Three items skipped as genuinely incomplete or entirely missing, none guessed at:** **Quick Pickles** (book p. 343) — a complete formula and ingredient list, but the page ends after Step 2 ("Pack"), with the step that actually mixes and pours the pickling liquid not among the photographed pages; **Corn Salad** (book p. 350–351) — a complete ingredient list, but no cooking instructions anywhere in the scan; and **Smoke Catcher Clambake** (book p. 321) — only a headnote and a general description of the book's own "smoke catcher" method survive in the scan, with no MAKES/TAKES line, ingredient list, or numbered steps for the recipe itself. **No duplicates found, but three close relatives cross-referenced rather than merged:** [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) is a genuinely different method from the existing [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) (*Champions of Sous Vide*); [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) leans on the pasta-water-starch explanation this cookbook already gives at [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) rather than repeating it; and the new [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) is cross-referenced against the existing, unrelated [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce) from *Mastering the Art of French Cooking*, since both use the term "duxelles" for the same minced-mushroom starting point but are otherwise different sauces. **Jargon explained inline per Cody's standing request:** duxelles, black garlic, a smoking gun, a grill topper, and pasta-water starch (cross-referenced to §7.129 rather than re-explained) — see each recipe's own text. **No salt amounts altered anywhere in this batch.** **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and this §13 entry all updated throughout. **§13 remains a placeholder**, same reasoning as every update above.
+>
+> **Update, 2026-09-06 — the "Desserts" chapter of *The Meathead Method* has now arrived (including its skillet cornbread recipe, which despite its source chapter is a savory bread, not a sweet).** Four full recipes landed in [§14 Desserts](#14-desserts) at **[§14.30](#1430-drunken-peaches-and-cream) through [§14.33](#1433-baked-apples)**, and one more landed in [§15 Breads](#15-breads) at **[§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies)**: **[§14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream)** (grilled peaches with a rum-maple-brown-sugar sauce, served over melted vanilla ice cream in place of a from-scratch crème anglaise — cross-linked to this cookbook's existing [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) rather than treated as a duplicate, since melted ice cream and a stirred custard are the same four ingredients used two different ways), **[§14.31 Torched Figs](#1431-torched-figs)** (fresh figs, sugared and brûléed with a kitchen torch, plated with ice cream, balsamic, and mint), **[§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce)** (store-bought pound cake grilled at "Warp 5," topped with ice cream and a melted-chocolate sauce — kept distinct from this cookbook's existing [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce), a cooked-sugar caramel rather than a chocolate sauce), **[§14.33 Baked Apples](#1433-baked-apples)** (stuffed with pecans, marmalade, raisins, chèvre, and mascarpone, water-bath-baked on the grill, and brûléed to finish), and **[§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies)** (real cornmeal-and-wheat-flour cast-iron cornbread with optional grilled-corn/roasted-pepper and bacon/cheese/jalapeño mix-ins, plus a hush-puppy deep-fry conversion — **checked against and kept genuinely distinct from the existing [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)**, which uses almond flour and flaxseed meal with no actual corn or wheat, cross-referenced both directions). **Two items checked very carefully per Cody's specific advance concern and skipped as genuinely incomplete, neither guessed at:** **Pineapple Foster** (book p. 382) — only its headnote survives in the scan, background on Bananas Foster's Brennan's-restaurant origin and a Waikiki riff substituting pineapple for banana, cut off mid-sentence at the bottom of the photographed page; no title header of its own, no MAKES/TAKES line, no ingredient list, and no numbered steps are anywhere in the 55-page scan. **Drunken Peaches and Cream was checked against this same concern and confirmed whole**, not split or missing — its headnote starts on book p. 377 and its MAKES/TAKES, full ingredient list, and all five numbered steps continue on p. 378, all legible; written up in full. **One callout box skipped as genuinely incomplete:** a **"PANKO PERFECT"** sidebar next to the cornbread recipe — only its title survives at the bottom of a photographed page, with no body text legible anywhere in the scan; named at [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies)'s own Open Questions rather than invented. **No salt amounts altered anywhere in this batch.** **Rated 🟡 Medium for the three recipes with a genuine brûlée, torch, or hot-sugar/chocolate step that can go from perfect to scorched** ([§14.30](#1430-drunken-peaches-and-cream)'s alcohol reduction, [§14.31](#1431-torched-figs)'s and [§14.33](#1433-baked-apples)'s torch/broiler brûlée, and [§14.32](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce)'s don't-let-it-boil chocolate sauce) **and 🟢 Easy for the cornbread**, which has no step that can go from perfect to ruined, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test. **Jargon explained inline per Cody's standing request:** brûlée (explained fresh at [§14.31 Torched Figs](#1431-torched-figs), cross-linked to the existing [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) for the underlying sugar chemistry, and cross-referenced again at [§14.33 Baked Apples](#1433-baked-apples) rather than re-explained), crème anglaise (explained at [§14.30](#1430-drunken-peaches-and-cream), cross-linked to this cookbook's own from-scratch version at [§14.2](#142-sugared-berries-with-crème-anglaise) rather than treated as an undocumented reference-only term, since it turns out this cookbook already has one), the "Warp" heat scale (cross-referenced to the existing [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method) at [§14.30](#1430-drunken-peaches-and-cream)/[§14.32](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) rather than re-explained — §T99 itself is updated to name §14.32 as the "grilled pound cake" it already referenced anonymously), and hush puppies (a deep-fried cornmeal-batter offshoot of cornbread, explained inline at [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies)). **None of the five recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and this §13 entry all updated throughout. **§13 remains a placeholder. One more batch from this book is still coming: the "Using My Recipes" reference/ingredient-notes section, including cheese tips** — the final chapter left in this 55-page scan.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39379,6 +39392,281 @@ With Scented Cream *(a gap — see [§14.25 Marshmallowy Meringues](#1425-marshm
 
 ---
 
+### 14.30 Drunken Peaches and Cream
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 377–378).
+
+> Per the source's own headnote: peaches and cream is a classic summer combo, as natural as peanut butter and jelly, and the best version of it is built on **crème anglaise** — a pourable, stirred custard sauce made from cream, milk, egg yolks, sugar, and vanilla, exactly the ingredients in vanilla ice cream. This cookbook already has a from-scratch crème anglaise at **[§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise)** (rated 🔴 Hard for the one-shot risk of a stirred custard scrambling if the heat runs away from you). The author's own shortcut here skips that risk entirely: melt good vanilla ice cream instead, a trick he credits to chef Jacques Pépin. Melted ice cream *is* crème anglaise — same four ingredients, already emulsified — so it pours and behaves the same way over the warm peaches, with none of the tempering-the-yolks failure point.
+
+**Yield:** serves 4
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~45 min**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, Step 2 simmers rum (or another brown liquor) hard enough to drive off the alcohol — the source itself warns to watch that it doesn't foam over the pot. That's a genuine, attended failure point, even though nothing here can scorch the way a roux or caramel can.
+
+#### A. Ingredients
+
+- 1 lemon or lime *(1 Tbsp juice needed)*
+- ¼ cup dark rum, brandy, bourbon, or rye
+- 3 Tbsp real maple syrup
+- 2 Tbsp dark brown sugar
+- ¼ tsp Morton Coarse Kosher Salt
+- 2 peaches
+- 2 Tbsp (1 ounce) unsalted butter
+- 4 scoops best-quality vanilla or butter pecan ice cream
+- Optional: candied pecans or plain pecans, for crunch
+
+> **About the booze.** Stick to brown goods — rum, brandy, bourbon, or rye. Skip peach or other flavored brandies; they fight the fruit instead of complementing it.
+>
+> **About the maple syrup.** Use real maple syrup, and a darker grade if you have a choice. The source has also made this with honey, and even Lyle's Golden Syrup, in a pinch.
+>
+> **About the peaches.** Peaches split into two categories: **clingstone**, where the flesh clings to the pit and is hard to separate, and **freestone**, where the pit lifts out cleanly once the fruit is halved. Freestone is easier to work with here. A slightly underripe peach also grills better — very ripe, soft peaches turn mushy on the grate.
+>
+> **About the ice cream.** Vanilla or butter pecan work better here than any other flavor the source tried.
+
+#### B. Cooking Instructions
+
+**1. Fire up.**
+Set up your grill for direct heat cooking, about Warp 5 (see [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method) — a confident, moderate-high sear, not the grill's most aggressive setting). Once it's hot, scrub the grates thoroughly so there's no grease on top or underneath. If the grates need it, squirt them with water to loosen old grease, then brush clean.
+
+**2. Make the sauce. About 10 minutes.**
+While the grill heats, squeeze 1 Tbsp of juice from the lemon or lime. Combine it in a small saucepan with the rum, maple syrup, brown sugar, and salt. Melt everything together over high heat, stirring occasionally, for about 10 minutes — this drives off the alcohol and fully dissolves the sugar and salt. **Watch the pot the whole time; it can foam up and boil over if you walk away.** Cooking off the alcohol is the point here — it's a waste of good liquor by volume, but the flavor it leaves behind is what you're after, without the raw bite of straight alcohol dulling the fruit.
+
+**3. Prep the peaches.**
+Quarter and pit the peaches. Melt the butter and brush it over the cut sides of each peach quarter.
+
+**4. Grill.**
+Grill the peaches, cut side down, on the direct side of the grill until they pick up good grill marks and start to soften, then pull them off and let them rest for about 5 minutes.
+
+**5. Serve.**
+Scoop the ice cream into bowls with the grilled peaches. While the rum sauce is still warm, pour it over the top — the heat melts some of the ice cream right there in the bowl into a luxurious, ready-made crème anglaise.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Lemon or lime — 1
+- 🛒 Dark rum, brandy, bourbon, or rye — ¼ cup
+- 🛒 Real maple syrup — 3 Tbsp
+- 🛒 Dark brown sugar — 2 Tbsp
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Peaches — 2, freestone if you can tell
+- 🛒 Unsalted butter — 2 Tbsp
+- 🛒 Vanilla or butter pecan ice cream — 4 scoops
+- 🛒 Pecans, for optional candied-pecan garnish
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,150 | 70 g | 12 g | 160 g | 4 g |
+| **Per serving** *(serves 4)* | ~290 | 18 g | 3 g | 40 g | 1 g |
+
+**What a serving is:** half a grilled peach with a scoop of ice cream and warm rum-maple sauce poured over, in a small bowl. Most of the added alcohol cooks off in Step 2; what's left is mainly flavor, not proof.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.31 Torched Figs
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 378).
+
+> **Brûlée**, explained: it's French for "burnt," and in the kitchen it means using direct, intense heat — a torch, a broiler, or a rotisserie burner — to caramelize a thin layer of sugar into a hard, crackly, amber shell in seconds, the same effect that tops a crème brûlée. It's a fast, showy cousin of the caramelization this cookbook already covers at **[§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd)**: the same sugar-breakdown chemistry, just driven by a naked flame instead of an oven or a sauté pan, and over seconds instead of minutes. See **[§14.33 Baked Apples](#1433-baked-apples)** below for the same technique used on a whole baked apple.
+
+**Yield:** serves 2
+
+**Special tools:** kitchen torch, pipe lighter, or propane torch
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~3 min** · **Start to finish ~10 min**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, an open flame held a few inches from sugar can go from perfectly amber to acrid and black in seconds if you linger in one spot — the whole dish is that one step.
+
+#### A. Ingredients
+
+- 3 ripe fresh figs
+- 3 tsp granulated white sugar
+- 3 tsp vanilla ice cream *(a small quenelle per serving, not a full scoop — as printed)*
+- 4 tsp balsamico tradizionale, condimento balsamico, or a homemade Balsamic Syrup *(the source's own reduced-balsamic recipe, its p. 158, not among this project's photographed pages — see this cookbook's own [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying) for grades and buying if you're reducing your own instead)*
+- 2 tsp minced fresh mint leaves
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Cut off the stem of each fig and halve it lengthwise. Arrange the halves cut side up on a heatproof surface, such as a baking dish. Sprinkle the cut surface of each fig half evenly with sugar — about ¼ tsp per half.
+
+**2. Fire up.**
+Carefully light the torch according to the manufacturer's directions. Aim the flame directly at the sugared cut surface of a fig half, holding the torch about 4 inches away. Move it back and forth steadily rather than holding it still in one spot, until the sugar melts and turns an even amber — this is the brûlée step, and it happens fast. Repeat for each fig half.
+
+**3. Serve.**
+Arrange the figs and ice cream artfully on individual plates. Drizzle some balsamic over the plate and scatter with the chopped mint leaves.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ripe fresh figs — 3
+- 🛒 Granulated white sugar
+- 🛒 Vanilla ice cream — a small scoop
+- 🛒 Balsamico tradizionale or condimento balsamico
+- 🛒 Fresh mint leaves
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~240 | 2 g | 1 g | 56 g | 4 g |
+| **Per serving** *(serves 2)* | ~120 | 1 g | <1 g | 28 g | 2 g |
+
+**What a serving is:** 3 fig halves (1½ figs) with a small quenelle of ice cream and a drizzle of balsamic — a light, fruit-forward dessert.
+
+#### D. Open Questions
+
+- **The ice cream quantity is printed in teaspoons, not scoops** — an unusually small unit for ice cream, but transcribed exactly as read rather than assumed to be a typo for "scoops." Read as a small quenelle-style garnish alongside the figs, not a full serving of ice cream on its own.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 380–381).
+
+> Per the source's own headnote: this recipe is dedicated to the author's pen pal Leah Eskin, whom he calls "the Poet Laureate of Recipes" for her lyrical headnotes. He grills up store-bought pound cake and tops it with ice cream and his own slight modification of Eskin's chocolate buttercream sauce — not a literal buttercream frosting despite the name, but a rich, thick, pourable chocolate sauce, sweet with a touch of salt and bitterness, that firms up as it cools. **This is a different chocolate sauce from this cookbook's existing [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)** (a cooked-sugar caramel, not a melted-chocolate ganache-style sauce) — both kept, distinct dishes.
+
+**Yield:** serves 2
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~20 min** · **Start to finish ~45 min** *(includes time for the butter to soak into the cake before grilling)*
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, Step 4 melts chocolate with cream and butter over very low heat — the source's own instruction is not to let it simmer or boil, since chocolate sauce can seize or scorch if it gets too hot, the same genuine risk this cookbook already flags for other melted-chocolate and stirred-custard steps.
+
+#### A. Ingredients
+
+- 4 Tbsp (2 ounces) unsalted butter
+- 2 slices pound cake, about ¾ inch thick
+
+**Chocolate Buttercream Sauce**
+
+- 6 ounces high-quality semisweet chocolate
+- ¼ cup half-and-half or heavy cream
+- 1 Tbsp (½ ounce) unsalted butter
+- 1 Tbsp plus 1 tsp granulated white sugar
+- Pinch of Morton Coarse Kosher Salt
+
+**For serving**
+
+- 2 scoops vanilla ice cream
+
+> **About the chocolate.** Semisweet chocolate leaves you room to add sugar if you want it sweeter; if you use a sweeter chocolate to start, leave the added sugar out. The author likes 50% to 60% cacao; Eskin recommends 70%. The higher the cacao percentage, the more bitter the chocolate — bean quality and processing method shift the flavor further from there.
+
+#### B. Cooking Instructions
+
+**1. Prep the pound cake.**
+Melt the butter and paint both sides of each pound cake slice with it. Let it soak in for a few minutes before grilling.
+
+**2. Fire up.**
+Set up a grill in 2 zones and get it fired up to Warp 5 on the direct heat side (see [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method) — a confident, moderate-high sear).
+
+**3. Grill the pound cake.**
+Grill the cake over Warp 5 direct heat until it's warmed through, starting to toast golden, and marked with nice dark grill lines.
+
+**4. Make the chocolate buttercream sauce.**
+Chop the chocolate into small bits. In a small saucepan, combine the chocolate, half-and-half, butter, sugar, and salt. Stir constantly over very low heat until smooth — **don't let it simmer or boil**, or the sauce can seize or scorch. Taste and add more sugar or half-and-half if you want it sweeter or thinner. It keeps in the fridge for weeks and reheats well in the microwave when you're ready to serve.
+
+**5. Serve.**
+Lay the grilled pound cake in wide bowls or on plates, top each slice with a scoop of vanilla ice cream, and spoon a generous amount of the warm chocolate sauce over the top.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — 4 Tbsp (2 oz) for the cake, plus 1 Tbsp (½ oz) for the sauce
+- 🛒 Pound cake — 2 slices, about ¾ inch thick
+- 🛒 High-quality semisweet chocolate — 6 oz
+- 🛒 Half-and-half or heavy cream — ¼ cup
+- 🛒 Granulated white sugar
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Vanilla ice cream — 2 scoops
+
+#### Nutrition *(estimated)*
+
+*The sauce recipe makes more than 2 servings use — the source notes it keeps for weeks in the fridge. Figures below count roughly half the sauce batch as actually eaten with this dish; the rest is a stored leftover, not counted, per this cookbook's practice of estimating what's actually on the plate.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,850 | 130 g | 15 g | 165 g | 2 g |
+| **Per serving** *(serves 2)* | ~925 | 65 g | 7 g | 82 g | 1 g |
+
+**What a serving is:** one grilled slice of pound cake, a scoop of vanilla ice cream, and a generous spoonful of warm chocolate sauce — a rich, plated dessert.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.33 Baked Apples
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 382).
+
+> Per the source's own headnote: getting the right apple matters here. The author's wife, a baker and apple aficionado, recommends Honeycrisp, Braeburn, Fuji, Gala, or Granny Smith — firm, juicy, crunchy varieties that hold their shape through baking and are available most of the year.
+
+**Yield:** serves 2
+
+**🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, the final **brûlée** step (see the explanation at [§14.31 Torched Figs](#1431-torched-figs)) puts the sugar-topped apples directly under a rotisserie burner, broiler, or torch — the source's own warning is to stay vigilant, since they brown very quickly and can go from caramelized to burnt fast.
+
+#### A. Ingredients
+
+- 6 pecan or walnut halves
+- 2 Tbsp orange marmalade
+- 2 Tbsp raisins
+- 2 Tbsp fresh chèvre (goat cheese)
+- 4 Tbsp mascarpone or cream cheese
+- 2 large firm baking apples (Honeycrisp, Braeburn, Fuji, Gala, or Granny Smith)
+- 2 Tbsp dark brown sugar
+
+#### B. Cooking Instructions
+
+**1. Make the filling.**
+Chop the nuts until the pieces are smaller than a pea. In a bowl, mix the chopped nuts with the marmalade, raisins, chèvre, and mascarpone.
+
+**2. Core the apples.**
+Stand each apple on the table. If the stem doesn't point straight up, slice a thin layer off the bottom so the apple stands level. Insert a paring knife at an angle into the top, around the stem, and cut out a shallow crater about 1½ inches wide. Use a spoon — a serrated grapefruit spoon works especially well — to dig out the seeds and core almost all the way to the bottom, but don't go all the way through. Spoon the filling into the cavity and top it with the brown sugar.
+
+**3. Fire up.**
+Set up the grill for 2-zone cooking.
+
+**4. Bake.**
+Set a pan on the direct heat side of the grill and add water until it's about ½ inch deep. Sit the filled apples in the pan and close the lid. Keep an eye on the water level — when it's nearly gone, the apples are likely done. Check with a thermometer probe or the blade of a knife; if it slides in easily, like a skate on ice, they're ready.
+
+**5. Brûlée.**
+Now caramelize the sugar on top. Place the apples in front of or under a rotisserie burner if your grill has one, under your indoor broiler, or hit the tops directly with a kitchen torch. **Stay right there and watch them — they brown very quickly** and can scorch in moments if you look away.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Pecan or walnut halves — 6
+- 🛒 Orange marmalade — 2 Tbsp
+- 🛒 Raisins — 2 Tbsp
+- 🛒 Fresh chèvre (goat cheese) — 2 Tbsp
+- 🛒 Mascarpone or cream cheese — 4 Tbsp
+- 🛒 Large firm baking apples — 2 (Honeycrisp, Braeburn, Fuji, Gala, or Granny Smith)
+- 🛒 Dark brown sugar — 2 Tbsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~830 | 31 g | 7 g | 140 g | 12 g |
+| **Per serving** *(serves 2)* | ~415 | 15 g | 3 g | 70 g | 6 g |
+
+**What a serving is:** one whole stuffed, brûléed apple — a substantial, plated dessert on its own.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 15. Breads
 
 A new top-level section — numbered 15 and appended at the end, the same reasoning as [§14 Desserts](#14-desserts): inserting it earlier would renumber existing sections and break their links.
@@ -39923,6 +40211,90 @@ Pour the chilled batter into the smoking-hot pan and cover the grill lightly. Co
 | **Per serving** *(serves 8, as printed)* | ~250 | 11 g | 9.5 g | 27 g | <1 g |
 
 **What a serving is:** one square cut from the pan, about ⅛ of it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 15.8 Old-Fashioned Skillet Cornbread and Hush Puppies
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 372–374); despite its source chapter, this is a savory quick bread, so it's filed here in §15 Breads alongside this cookbook's other biscuits and quick breads rather than with the sweets. **Genuinely different from this cookbook's existing [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** — that one uses almond flour, flaxseed meal, and an optional sweet corn extract with no actual corn or wheat flour in it; this one is the real, wheat-flour-and-cornmeal, non-keto version. Both kept, cross-referenced.
+
+> Per the source: cornbread is a classic barbecue sidekick — its flavor and texture are a perfect foil for sweet barbecue sauce and Southern sweet tea, and it's just as good eaten straight or with butter (a honey butter or hot honey will get smiles around the table). Classic cornbread is baked in a cast-iron skillet greased with bacon fat, lard, schmaltz, or other meat drippings, though butter works too — the hot black metal builds a brown, crunchy crust that plain baking-dish cornbread can't match. This recipe is sized for a 12-inch cast-iron skillet; a 10-inch skillet or another oven-safe pan works too, but a narrower, deeper pan holds a thicker mass of batter and needs longer in the oven, so drop the temperature to 325°F if you go that route.
+
+**Yield:** 8 wedges
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+
+#### A. Ingredients
+
+- 1 cup yellow cornmeal
+- 1 cup all-purpose flour
+- 1 Tbsp baking powder
+- ½ tsp baking soda
+- 1 tsp Morton Coarse Kosher Salt
+- 3 large eggs
+- 3 Tbsp honey
+- ⅔ cup sour cream
+- 4 Tbsp (2 ounces) unsalted butter, melted
+- 2 Tbsp bacon grease or butter, for greasing the pan
+
+**Optional mix-ins**
+
+- ¼ cup grilled sweet corn kernels and ¼ cup grilled sweet red bell pepper *(don't use canned corn — if starting from frozen, brown it in a hot pan for 2 to 3 minutes first)*
+- Up to 2 or 3 of: 4 slices crumbled cooked bacon, chunks of cooked sausage, cracklins (a Southern tradition), 5 ounces grated cheddar, or a minced jalapeño — don't overload the batter with mix-ins
+
+> **About the sour cream.** Many cornbread recipes call for buttermilk instead; this one is formulated around sour cream.
+>
+> **Make it muffins, or make hush puppies instead.** For muffins, portion the batter into a greased muffin tin and bake at 375°F until golden. For **hush puppies** — a Southern offshoot of cornbread batter, deep-fried into small golden balls instead of baked flat — drop tablespoons of the same batter into oil heated to 375°F and fry until golden, then drain on paper towels.
+
+#### B. Cooking Instructions
+
+**1. Mix the dry ingredients.**
+In a bowl, whisk together the cornmeal, flour, baking powder, baking soda, and salt.
+
+**2. Mix the wet ingredients.**
+In another bowl, whisk together the eggs, honey, and sour cream until smooth.
+
+**3. Make the batter.**
+Pour the wet ingredients into the dry ingredients. Gently fold together — just until combined, about 30 seconds. The batter will be lumpy; that's fine. **Do not overmix**, or the cornbread turns tough and dense instead of tender.
+
+**4. Fire up.**
+Preheat the oven to 400°F, or the grill's indirect side to 400°F, and put a 12-inch cast-iron skillet in to preheat along with it.
+
+**5. Grease the pan.**
+Take the hot skillet out and add the bacon grease or butter. Roll the fat around as it melts, coating the inside of the pan including the sides. Work quickly so the pan doesn't cool off.
+
+**6. Bake. About 20 minutes.**
+Pour the batter into the hot, greased skillet and level it out roughly. Return the pan to the oven or grill. Keep an eye on it so the edges don't burn. Bake until the top is golden and a wooden toothpick inserted in the center comes out dry, about 20 minutes.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Yellow cornmeal — 1 cup
+- 🛒 All-purpose flour — 1 cup
+- 🛒 Baking powder — 1 Tbsp
+- 🛒 Baking soda — ½ tsp
+- 🛒 Morton Coarse Kosher Salt — 1 tsp
+- 🛒 Eggs — 3 large
+- 🛒 Honey — 3 Tbsp
+- 🛒 Sour cream — ⅔ cup
+- 🛒 Unsalted butter — 4 Tbsp (2 oz), plus more or bacon grease for the pan
+- 🛒 *Optional:* sweet corn, red bell pepper, bacon, sausage, cheddar, or a jalapeño for mix-ins
+
+#### Nutrition *(estimated, base recipe without optional mix-ins)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole skillet** | ~2,100 | 105 g | 44 g | 240 g | 12 g |
+| **Per serving** *(1 of 8 wedges)* | ~260 | 13 g | 5 g | 30 g | 1.5 g |
+
+**What a serving is:** one nice-sized wedge, ⅛ of the skillet. Add-ins (cheese, bacon, sausage) will push these numbers up.
+
+#### D. Open Questions
+
+- **A "PANKO PERFECT" callout box, adjacent to this recipe, is skipped as genuinely incomplete** — only its title survived the photographed page; it's cut off at the bottom edge with no body text legible anywhere in the scan. Per Cody's standing incomplete-source policy, named here rather than guessed at.
 
 [↑ Table of Contents](#table-of-contents)
 

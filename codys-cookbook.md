@@ -32486,6 +32486,244 @@ When the slab passes the bend test (see [§T59](#t59-rib-anatomy-and-how-to-skin
 
 ---
 
+### 7.146 Pho with Leftover Brisket and Smoked Bone Broth
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 217–218). A Vietnamese noodle soup built on a **smoked** beef-bone broth rather than a plain simmered one, and finished with leftover smoked brisket. Per the source: *"Pho (pronounced fuh) is a rich, complex Vietnamese broth usually loaded with meat and veggies. This one contains leftover brisket and bone broth from smoked bones. It provides an awesome payoff in an exotic sweetness."*
+
+> 🔎 **Completed 2026-09-06 — the missing steps have arrived.** The Beef/Bison/Lamb batch (2026-09-06 changelog) skipped this recipe as genuinely incomplete: both ingredient lists on book p. 217 were fully legible, but **the numbered steps sat on book p. 218, which wasn't among the 55 photographed pages** — the page-order audit later confirmed p. 218 appeared at no index. **Cody has now photographed p. 218**, and all ten numbered steps are transcribed below. The recipe is complete; nothing here is inferred. **This also retires the dangling cross-reference the 2026-09-06 QC pass had to defuse at [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) Step 12** — that entry pointed at a "Pho with Leftover Brisket" recipe that didn't exist yet, and now it does.
+
+> **This cookbook's second pho, and the two are genuinely different dishes.** [§1 Cody's Pho](#1-codys-pho) is the house recipe — chuck roast, a long simmered beef broth, and Cody's own charred-aromatic method, and the reference case for this cookbook's whole difficulty philosophy. **This one starts with leftovers**: a brisket you already smoked, and bones you smoke before they ever hit the pot. Both kept, cross-referenced. See also [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)'s *Pho Gà* variation, a chicken version from a third source, and [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth), the earlier Meathead book's own smoked broth — a close cousin of the broth half of this recipe, kept separate since the two use different bones, aromatics, and yields.
+
+**Makes 6 servings · Takes about 20 minutes to prep, about 5 hours to make the broth** *(as printed)*
+
+**Techniques used:** [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T87 Stock — Saving Scraps for the Pot](#t87-stock--saving-scraps-for-the-pot) · [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~20 min** *(the finishing end — noodles, greens, assembly)* · **Slow cook ~5–7 hr** *(1–2 hr smoking the bones, then a 4–5 hr simmer, both unattended)* · **Start to finish ~6–8 hr**
+
+> **Why Easy, even at seven hours.** Per [CLAUDE.md §3a](CLAUDE.md), difficulty is technique risk, not effort — and **[§1 Cody's Pho](#1-codys-pho) is this cookbook's own reference case** for exactly this call: two days, more moving parts than anything else in the book, rated 🟢 Easy because not one of its steps can fail on you. The same is true here. Smoking bones is unattended, a 4-to-5-hour simmer has a wide doneness window ("reduced by about half"), and everything at the finishing end is a two-minute blanch and a bowl assembly. The hours belong in the Slow cook column, not in the rating.
+
+#### A. Ingredients
+
+**Smoked Bone Broth**
+
+- 4 carrots
+- 3 medium onions
+- 4 garlic cloves
+- 4 cremini or button mushrooms
+- 2 celery stalks with leafy tops
+- 5 pounds beef femur bones split lengthwise
+- ¾ cup dry white wine
+- 4 whole star anise pods
+- 2 teaspoons Morton Coarse Kosher Salt
+- 2 teaspoons fish sauce
+
+**Pho**
+
+- 1½ pounds leftover tender beef brisket
+- 12 ounces cremini or button mushrooms
+- 4 red radishes
+- 6 ounces medium rice stick noodles
+- 6 ounces greens, such as collards, kale, mustard, or spinach, or a blend
+- Sriracha sauce
+- **Optional.** Thinly sliced scallion greens and small cilantro leaves, for garnish
+
+> **About the marrow bones.** Marrow bones are beef leg bones, or femurs. They are widely available but are often cut crosswise into 2- to 3-inch lengths. **Ask your butcher for 6-inch bones cut in half lengthwise** to expose far more of that flavorful marrow so it can be distributed throughout your broth. *(This is the ask that makes the recipe work — a crosswise cut leaves most of the marrow sealed inside the bone.)*
+>
+> **About the mushrooms.** The source recommends plain cremini or button mushrooms, but if you want to take it up a notch, go for **chanterelles** or something more exotic. See [§T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method).
+>
+> **About the noodles.** Rice stick noodles vary in size and method of preparation, so **consult the package instructions for the soaking method.** If you can't find them, you can use ramen, glass noodles, vermicelli, or even soba.
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Peel the carrots and cut them into 3-inch chunks. Peel the onions and cut into quarters. Peel and mince or press the garlic. Rinse and cut off the bottom of the mushroom stems. Rough chop the rest of the mushrooms as well as the celery. *(These are the four broth mushrooms — the 12 ounces for the pho itself get handled separately, at Step 6.)*
+
+**2. Fire up. 225°F.**
+Set up your grill or smoker for smoking, aim for **225°F**, and get some smoke rolling.
+
+**3. Smoke the bones. An hour or two.**
+Smoke the bone pieces **marrow-side up** for an hour or two — cut side up so the smoke lands on the exposed marrow, which is the whole reason for splitting them lengthwise.
+
+**4. Simmer. 4 to 5 hours.**
+Transfer the bones, veggies, wine, and star anise to a large stockpot and add **1½ gallons of water**, or whatever is needed to cover everything. Bring to a boil, **then immediately reduce the heat to a gentle simmer** — a hard rolling boil emulsifies the fat and clouds the broth. If there is scum, scoop it off. **Partly cover the pot** and simmer until the liquid has **reduced by about half, 4 to 5 hours**.
+
+**5. Strain and season.**
+Cool the broth slightly, then pour it through a large sieve or colander into a bowl or another pot. **Discard the solids.** Let the broth settle for 5 minutes, then, using a fat separator or a large flat spoon, skim off and discard most of the fat and any scum. *(The source recommends the OXO fat separator — a large measuring cup with a hole in the bottom, so the lean broth pours out from underneath while the fat floats above.)* **Stir in the salt and fish sauce and taste.** You can use it now or freeze it.
+
+**6. Start the pho.**
+Cut the leftover brisket into thick slices. Rinse the 12 ounces of mushrooms clean, trim the ends, and slice thinly. Scrub and thinly slice the radishes.
+
+**7. Brisk it.**
+Warm the brisket in the microwave, or wrap it in foil and warm it in a low oven. *(See [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers) if it's coming out of the freezer.)*
+
+**8. Noodling.**
+Soften the rice noodles in water, **according to the package directions**. Bring the broth to a simmer and add the noodles to the broth. Cook until tender.
+
+**9. Go green. A 2-minute blanch for the sturdy stuff.**
+Sturdier greens like collards, kale, or mustard greens will need a quick **2-minute blanch** in boiling water; more tender spinach leaves do not. Frozen greens are fine, too, but be sure to **thaw completely and squeeze out the excess water** — otherwise they water down the broth you just spent five hours concentrating.
+
+**10. Serve.**
+Divide the hot noodles, brisket, greens, and mushrooms among **six bowls**. Ladle the hot broth over all the ingredients. **Let the soup stand for 5 minutes to wilt the greens.** Scatter the radishes on top and add a few squirts of Sriracha sauce. If desired, garnish with scallion greens and cilantro leaves.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Beef femur (marrow) bones — 5 lb, **6-inch lengths split lengthwise, not cut crosswise** *(ask specifically; see the note above)*
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Medium rice stick noodles — 6 oz *(or ramen, glass noodles, vermicelli, or soba)*
+- ☯️ Fish sauce — 2 tsp
+- ☯️ Star anise pods — 4 whole
+- ☯️ Sriracha sauce
+
+**🛒 General grocery**
+
+- 🛒 Leftover smoked beef brisket — 1½ lb *(from [§7.135](#7135-championship-brisket-and-burnt-ends), [§7.112](#7112-texas-beef-brisket), or [§6.7](#67-texas-style-smoked-brisket))*
+- 🛒 Carrots — 4
+- 🛒 Onions — 3 medium
+- 🛒 Garlic — 4 cloves
+- 🛒 Cremini or button mushrooms — 4 for the broth, plus 12 oz for the soup
+- 🛒 Celery with leafy tops — 2 stalks
+- 🛒 Dry white wine — ¾ cup
+- 🛒 Morton Coarse Kosher Salt — 2 tsp
+- 🛒 Red radishes — 4
+- 🛒 Greens (collards, kale, mustard, or spinach) — 6 oz
+- 🛒 *Optional garnish:* scallions, fresh cilantro
+- 🛒 Smoking wood
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** *(6 bowls)* | ~2,950 | 145 g | 172 g | 160 g | 10 g |
+| **Per serving** *(serves 6, as printed)* | ~490 | 24 g | 29 g | 27 g | 1.7 g |
+
+**What a serving is:** a full dinner bowl — a nest of rice noodles, about 4 ounces of sliced brisket, a handful each of mushrooms and wilted greens, and enough broth to swim in. The broth's own numbers are small: the bones and vegetables are strained out and discarded, and most of the rendered fat is skimmed off at Step 5, so what lands in the bowl is mostly the brisket, the noodles, and the greens.
+
+#### D. Open Questions
+
+- **The recipe assumes you already have smoked brisket in the fridge** and doesn't tell you how to make it — that's the point of "leftover." Any of this cookbook's smoked briskets works: the same book's [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends), or [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket)/[§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket).
+- **The source prints no smoke-wood recommendation** for the bones — noted rather than invented. [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) covers the general wood-buying and blue-smoke rules.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.147 Dorie's Pork à la Normande
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" chapter (book p. 252, 254), the author's grill-adapted version of a recipe by cookbook author **Dorie Greenspan**. Thick pork chops dry-brined, smoked to 120°F, finished over direct heat, and served over brown rice with an apple-mushroom-Calvados cream sauce and fried sage leaves.
+
+> 🔎 **Completed 2026-09-06 — the missing steps have arrived.** The Pork batch (2026-09-06 changelog) skipped this recipe as genuinely incomplete: the title, full headnote, and the opening of the ingredient list on book p. 252 were legible, but **the numbered steps were on book p. 254, which wasn't among the 55 photographed pages** — the page-order audit confirmed it appeared at no index. **Cody has now photographed p. 254**, supplying the ingredient tail (the Calvados, the cream, the brown rice, the flaky finishing salt), the "Serve With" note, and all eight numbered steps. Nothing here is inferred.
+
+> Per the source's headnote: **Normandy**, on the north coast of France, was the site of bloody **D-Day, June 6, 1944**. *"No matter what you have heard about the French, they have not forgotten our sacrifice and they love Americans in Normandy."* It is also replete with glorious rolling hills, apple orchards, and wondrous food — the region is famous for seafood and its **four Cs: Cider, Calvados, Cream, and Camembert.** **Dorie Greenspan** is the author of numerous brilliant cookbooks with recipes that never fail; she and her husband, Michael, have lived in Paris on and off for decades, and her award-winning ***Around My French Table*** is a favorite around the author's American table. *(He was flattered when Dorie and Michael came to one of his book signings, bought a copy of his last book, and asked him to sign it.)*
+>
+> **Why this one adapts to a grill so well:** so many French recipes start by searing meat in a pan, then building the sauce on top of the **fond** — the browned bits that stick to the pan when the meat is done searing. **Surprisingly, Dorie's recipe doesn't depend on fond.** It lets you build the sauce separately from the meat, which is perfect for a griller. *"And let me tell you, smoke and cream go together like pork and apples, or cream and mushrooms. And they're all here."* **You want thick chops for this method.**
+
+**Makes 2 servings · Takes 1 to 2 hours to dry brine, 30 minutes to prep, 30 minutes to smoke, 30 minutes to finish on the grill** *(as printed)*
+
+**Techniques used:** [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T62 Types of Pork Chops](#t62-types-of-pork-chops)
+
+**🟡 Medium** · **Prep ~30 min** · **Cook ~30 min** *(the sauce, then the direct-heat finish)* · **Slow cook ~45 min** *(225°F smoke, unattended)* · **Start to finish ~2½ hr** *(includes a 1–2 hr dry brine)*
+
+> ⚠️ **Why Medium, not Easy.** Two real windows. **The fried sage leaves are a 30-second step** in shimmering oil — a few seconds past and they go from crisp and green to brown and bitter, and they're the garnish the plate is built around. **The cream sauce is a genuine reduction** — bring the broth, Calvados, and cream down by half, and overshoot it and you have a broken, greasy pan rather than a sauce. Same reasoning as [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar). Everything else — the dry brine, the 225°F smoke, the direct-heat finish to a thermometer reading — is forgiving.
+
+#### A. Ingredients
+
+- 2 pork chops, **2 inches thick**
+- Morton Coarse Kosher Salt *(½ teaspoon per pound, for the dry brine — see Step 1)*
+- 4 mushrooms (the best you can find)
+- 1 medium onion
+- 2 tablespoons good olive oil
+- 8 large fresh sage leaves
+- 1 teaspoon cornstarch
+- 1 medium apple
+- 2 tablespoons (1 ounce) unsalted butter
+- ½ teaspoon rubbed (ground) sage
+- Fine-grind black pepper to taste
+- ½ cup low-sodium chicken broth
+- 3 tablespoons Calvados, apple jack, Cognac, Armagnac, or other straight brandy
+- ½ cup cream or half-and-half
+- 1 cup brown rice
+- Flaky finishing salt, such as Maldon
+
+> **Serve with:** a sparkling **hard cider from Normandy**.
+
+#### B. Cooking Instructions
+
+**1. Prep. Dry brine 1 to 2 hours in advance.**
+Trim the chops of excess fat and **dry brine them 1 to 2 hours in advance, ½ teaspoon Morton Coarse Kosher Salt per pound.** Clean the mushrooms and peel the onion, then chop them kinda small.
+
+**2. Fry the sage leaves. About 30 seconds.**
+In a small skillet, heat the olive oil over medium-high heat **until the oil shimmers**. Meanwhile, lightly coat the **8 large flawless sage leaves** with the cornstarch. When the oil is ready, push them down into the oil so they are coated. **After about 30 seconds** remove with tongs and place on a paper towel to drain. **They should be nice and crispy.** This is the step to stand over — sage goes from crisp and green to brown and bitter in a matter of seconds.
+
+**3. Fire up. 225°F.**
+Fire up your smoker and aim for **225°F**. Or set up a grill for 2-zone cooking, aim for about 225°F on the indirect side, and get some smoke going.
+
+**4. Smoke. About 45 minutes, to 120°F internal.**
+Add the pork chops and smoke at **225°F indirect, lid down, until internal temperature reaches 120°F, about 45 minutes.**
+
+**5. Build the sauce. 15 to 20 minutes, then a 5-minute reduction.**
+While the meat is smoking, peel the apple and cut it into bite-size chunks. In a 12-inch frying pan, melt the butter over medium heat. Add the rubbed sage, apple, onion, and mushrooms and sprinkle with salt and pepper. **Turn up the heat and sauté until the onions and mushrooms are limp and the butter begins to brown, about 15 to 20 minutes.** Add the broth, Calvados, and cream and **simmer until reduced by half, about 5 minutes** — watch this end of it; past half it tightens fast. Keep the sauce warm on low.
+
+**6. Rice. Start it when the meat hits 120°F.**
+When the meat hits 120°F it is time to start cooking the rice. *(Brown rice takes roughly 45 minutes, which lines up with the chops' rest and finish.)*
+
+**7. Grill. To 135° to 140°F.**
+Move the meat over to the direct heat side. **Grill, lid up, until the chops are golden or brown all over and they hit 135° to 140°F.**
+
+**8. Serve.**
+Put a bed of rice on each plate, spoon the sauce on top, and **nestle a chop on top of that.** Scatter with the large-grain salt like Maldon and garnish with the fried sage leaves.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Pork chops, **2 inches thick** — 2 *(thickness is the recipe; a supermarket chop is usually too thin — see [§T62](#t62-types-of-pork-chops))*
+
+**🏪 Specific store — liquor store**
+
+- 🏪 Calvados — 3 Tbsp *(or apple jack, Cognac, Armagnac, or other straight brandy)*
+- 🏪 Sparkling hard cider from Normandy *(the source's own serving suggestion)*
+
+**🛒 General grocery**
+
+- 🛒 Mushrooms — 4, the best you can find
+- 🛒 Onion — 1 medium
+- 🛒 Good olive oil — 2 Tbsp
+- 🛒 Fresh sage — 8 large flawless leaves
+- 🛒 Rubbed (ground) sage — ½ tsp
+- 🛒 Cornstarch — 1 tsp
+- 🛒 Apple — 1 medium
+- 🛒 Unsalted butter — 2 Tbsp (1 oz)
+- 🛒 Low-sodium chicken broth — ½ cup
+- 🛒 Cream or half-and-half — ½ cup
+- 🛒 Brown rice — 1 cup
+- 🛒 Morton Coarse Kosher Salt — for the dry brine
+- 🛒 Flaky finishing salt, such as Maldon
+- 🛒 Black pepper, fine-grind
+- 🛒 Smoking wood
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(2 chops, all the sauce, 1 cup dry brown rice)* | ~2,895 | 141 g | 178 g | 190 g | 13 g |
+| **Per serving** *(serves 2, as printed)* | ~1,450 | 71 g | 89 g | 95 g | 6.5 g |
+
+**What a serving is:** a very big plate — one 2-inch bone-in chop, about 1½ cups of cooked brown rice, and half the pan of apple-mushroom cream sauce. **This is the source's own two-person split and it is a lot of food:** 1 cup of dry brown rice cooks up to roughly 3 cups, which is more than most people eat in a sitting. Splitting it three ways is entirely reasonable and puts a serving near 970 calories. Only about 1 tablespoon of the sage-frying oil is counted, since most of it stays in the skillet, and the alcohol in the Calvados largely cooks off during the reduction.
+
+#### D. Open Questions
+
+- **The source doesn't give a rice method or timing** beyond "when the meat hits 120°F it is time to start cooking the rice" — the ~45-minute note in Step 6 is the ordinary time for brown rice, not a printed figure. [§T86 Three Ways to Cook Grains](#t86-three-ways-to-cook-grains-and-quinoa) carries the ratios.
+- **The source prints no smoke-wood recommendation** — noted rather than invented. Apple would be the obvious pairing here, but that's a suggestion, not the book's.
+- **Dorie Greenspan's own original version** (from *Around My French Table*) isn't in this cookbook; this is the author's grill adaptation of it, credited as such.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula

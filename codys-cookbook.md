@@ -12017,7 +12017,7 @@ Divide the sauce into two portions: one for frequent basting during the cook, an
 
 ### 4.174 Poblano-Basil Cream Sauce
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafood" chapter (book p. 194–195). This sauce sits on the same spread as the source's own **Duxelles** (a finely minced, cooked-down mushroom-and-shallot paste — the classic French term for it) **and Mushroom Cream Sauce**, a second, savory alternative built off that same duxelles. **Only the Poblano-Basil Cream Sauce is complete enough to transcribe** — see Open Questions below for why its mushroom-based neighbor isn't, and where else in this cookbook it's already been cross-referenced as a stand-in.
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the **"Butters and Dairy-Based Sauces"** chapter (book p. 194–195). *(Chapter name corrected 2026-09-06: this entry originally cited the "Seafood" chapter, but the running footer on the facing spread reads "Butters and Dairy-Based Sauces 193" — the sauce was simply added in the same batch as that chapter's seafood recipes.)* This sauce sits on the same spread as the source's own **Duxelles** (a finely minced, cooked-down mushroom-and-shallot paste — the classic French term for it) **and Mushroom Cream Sauce**, a second, savory alternative built off that same duxelles. **Both are now in this cookbook:** its mushroom-based neighbor is at **[§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce)**, completed 2026-09-06 from newly photographed pages — see Open Questions.
 
 > Per the source's own headnote: this versatile, refined sauce works on many meats, and it's especially good on fish, potatoes, and grilled vegetables. One thing to know — while poblano peppers carry practically no heat, occasionally one surprises you, so taste as you go. As written, it comes out with timid heat that the cream (and whatever you serve it on) mostly absorbs, unless you land a rogue chile. For more heat, add a green jalapeño. The source uses this sauce in its own Close Proximity Smoked Fish (book p. 308), not yet in this cookbook.
 
@@ -12088,7 +12088,7 @@ Carefully pour the hot mixture into the blender or food processor with the veget
 
 #### D. Open Questions
 
-- **Duxelles and Mushroom Cream Sauce, the two components printed just before this recipe on the same spread, are genuinely incomplete in this batch's scan.** The visible text picks up mid-recipe at "2. Cook the mushrooms" and continues through "3. Finish the duxelles" and "4. Make the mushroom cream sauce" — but Step 1 and the entire ingredient list (both components share one list, on book p. 192–193) are not among the photographed pages. Per Cody's standing incomplete-source policy, not added as its own entry. **This is the same Duxelles/Mushroom Cream Sauce already flagged as missing** in this project's Beef/Bison/Lamb batch, needed by [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) and [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) — those entries currently point to [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce)/[§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) as stand-ins. **This new Poblano-Basil Cream Sauce is this book's own vegetable-based sibling of that missing sauce** (same headnote, same "duxelles" starting point conceptually, same cream-sauce family) and is offered there as a closer, same-book alternative — see the updated notes at both §7.132 and §7.133.
+- **✅ Resolved 2026-09-06. Duxelles and Mushroom Cream Sauce, the pair printed just before this recipe on the same spread, is now written up in full at [§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce).** When this entry was added, the Vegetables & Seafood batch could see only book p. 194 — which picks up mid-recipe at "2. Cook the mushrooms" — while the shared ingredient list and Step 1 sat on book p. 193, absent from the 55-page scan. Cody has since photographed the p. 192–193 spread. **The two sauces are siblings, not substitutes for each other:** this one is the vegetable-based poblano version, §4.180 the mushroom one, and the source offers both. [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)'s own ingredient line names §4.180 specifically.
 - **The duxelles paragraph names a use "if you want to make Wellington or stuff a chicken breast"** — a Beef Wellington or Wellington-style stuffed chicken breast dish. Neither is documented anywhere in this cookbook. Named here rather than invented, per Cody's standing instruction on referenced-but-absent dishes.
 - **This cookbook's own [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce)**, from *Mastering the Art of French Cooking*, is a different sauce entirely — a French mother-sauce built on a brown sauce base, not this book's cream-based version. Both use the term "duxelles" for the same minced mushroom-and-shallot starting point; kept as two separate, cross-referenced entries rather than merged.
 - **Close Proximity Smoked Fish (book p. 308)**, the dish the source names as this sauce's showcase, isn't yet documented in this cookbook — named here rather than invented.
@@ -12456,6 +12456,183 @@ Let it come to room temperature and purée it in a blender. **A few lumps are OK
 
 - **Only the ½ cup of onion and 3 tablespoons of bell pepper actually go into the sauce**, per the source's own Step 1 — the rest of the medium onion and the small bell pepper are leftovers. The nutrition figures above count only what goes in the pot.
 - **The printed ingredient list runs to fifteen lines, not sixteen** — nine on book p. 182 (onion through dark brown sugar) and six on p. 183 (lemon juice through chicken bouillon). Both columns were re-read at full magnification against the page gutter to make sure nothing was hidden in the fold; nothing was.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.180 Duxelles and Mushroom Cream Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Butters and Dairy-Based Sauces" chapter (book p. 192–194). **Two recipes printed as one, sharing a single ingredient block:** a *duxelles* — the classic French mince of mushrooms and shallots cooked down until the water is driven off and the flavor concentrates — and then a **mushroom cream sauce** built on top of ¾ cup of that duxelles. Make just the duxelles and stop, or carry straight on into the sauce.
+
+> 🔎 **Completed 2026-09-06 — the missing half has arrived.** The Vegetables & Seafood batch (2026-09-06 changelog) could see only book p. 194, which picks up mid-recipe at "2. Cook the mushrooms"; the shared ingredient list and Step 1 sat on **book p. 193**, which wasn't among the 55 photographed pages, and the page-order audit confirmed it appeared at no index. **Cody has now photographed the p. 192–193 spread.** Both ingredient lists, the MAKES/TAKES line, both "About" sidebars, and Step 1 are transcribed below and joined to the Steps 2–4 already in hand. Nothing here is inferred. **This closes the gap flagged at [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon), [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), and [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce)** — all three have been retrofitted to point here.
+
+> Per the source's own headnote: the problem with chicken breasts, turkey breasts, and most pork chops is that they have so little fat that they get dry easily, even if you don't overcook them — and they're bland. **So they really benefit from a sauce.** This one works on all of them, and even on vegetables like asparagus. He found it on a "research" trip to France, at a tiny bistro on a narrow side street in the Latin Quarter near the Luxembourg Gardens named **Les Racines** — old-fashioned French, the kind you rarely find in Paris where *nouvelle cuisine* is already *vieille*. (He thinks it closed during COVID.) It wasn't on any list of top eateries, and the internet had several complaints of rude service lodged by tourists who don't understand that small restaurants in France only seat people for full meals — *"Their precious few tables are for people having a full meal, and that's just the way it is. If you want something light, go to a café or a brasserie. This is not anti-Americanism — it is the way some French restaurants work."* His wife had veal kidneys in an incredible rich brown sauce; he had a chicken breast in a silky cream and morel mushroom sauce that was over the top. **This is his attempt to replicate it** — close, and no relation to normal cream-of-mushroom things typical in the US.
+
+> **What a *duxelles* is**, in plain language: finely chopped mushrooms and other goodies, cooked down until nearly dry. It's most famously spread on top of beef tenderloin wrapped in puff pastry to make **Beef Wellington**, but it's also used as a stuffing for chicken breasts or pork loins, as a spread on grilled bread, and in sauces. **The source uses this duxelles in two of its own recipes** — [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) (book p. 225) and Paris Chicken (book p. 271, not yet in this cookbook) — and suggests it on pork chops, turkey, even baked potatoes. **Make a batch and freeze it.**
+
+> **Distinct from this cookbook's [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce)**, from *Mastering the Art of French Cooking* — same French term for the same minced-mushroom starting point, but that one is a brown-sauce derivative built on stock and a roux, and this one is a cream sauce. Both kept, cross-referenced.
+
+**Techniques used:** [§T100 Mushroom Varieties, Buying, Storing, and Drying](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method) · [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) *(same shape: deglaze, reduce, enrich)*
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~45 min** *(45 min for the duxelles, then 15 min more for the sauce, as printed)* · **Start to finish ~1 hr**
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined. Cooking the mushrooms down is a long, forgiving sauté with a visual cue (some pieces begin to brown); the reduction is a boil you can watch; and the finish is stirred in off a hard boil. The cream cheese also stabilizes the sauce, so it's much less prone to breaking than a straight cream reduction like [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar)'s.
+
+#### A. Ingredients
+
+**Duxelles**
+
+- 3 ounces shallots (2 to 3 medium shallots)
+- 8 ounces fresh mushrooms
+- 4 tablespoons (2 ounces) unsalted butter
+- ½ teaspoon Morton Coarse Kosher Salt
+- ½ teaspoon coarse-grind black pepper
+- 2 garlic cloves
+- 1 teaspoon fresh thyme, or ½ teaspoon dried
+
+**Mushroom Cream Sauce**
+
+- ¾ cup Duxelles *(the recipe above)*
+- 1 tablespoon white wine vinegar
+- ½ cup plus 2 tablespoons cream sherry
+- ¾ cup low-sodium chicken stock or broth
+- ½ cup half-and-half
+- 2 tablespoons cream cheese
+- Morton Coarse Kosher Salt *(to taste, at the end)*
+
+**Makes** about ¾ cup duxelles, or 1½ cups sauce — enough for 4 chicken breasts or pork chops.
+
+> **About the mushrooms.** *"This is time to splurge."* You can use plain old button mushrooms if you wish, or you can put on your tux and go for morels, porcinis, chanterelles, or another fancy 'shroom. See [§T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method) for the varieties (the source's own mushroom reference is its book p. 147).
+>
+> **About the sherry.** This recipe calls for a **cream sherry**, which is sweet. You can use a drier sherry like an **Amontillado**, but the source likes the hint of sweetness the cream sherry brings to the party. **Sweet Marsala will also work great.** Splurge here, too.
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Peel and mince the shallots. Clean the mushrooms. **Set aside 4 whole mushrooms and mince the rest** — the whole ones go in alongside the mince so the finished duxelles has some texture rather than reading as a uniform paste.
+
+**2. Cook the mushrooms. About 10 minutes.**
+Place a pan on the direct heat side of a grill or on a burner. Add the butter and, as soon as it starts to melt, add the shallots, **all** the mushrooms, salt, and pepper. Cook, **stirring often, until some of the pieces begin to brown, about 10 minutes.** You want to **drive off most of the water** to concentrate the mushroom flavor — that evaporation is the whole point of the step, so don't crowd the pan or cover it.
+
+**3. Finish the duxelles. A minute or two more.**
+Peel and mince, mash, or press the garlic and add it along with the thyme. Cook for a minute or two until **the garlic is translucent**. Taste and adjust the salt and pepper to your taste. **You now have duxelles** — stop here if you want to make a Wellington or stuff a chicken breast. If you wish, go on and make a sauce with them.
+
+**4. Make the mushroom cream sauce. About 15 minutes.**
+Add the vinegar, sherry, and stock to the pan with the duxelles and **boil until about half has evaporated**. Stir in the half-and-half and cream cheese **in that order** — the cream cheese goes in last and off the hard boil, which is what keeps the sauce smooth. Taste and adjust the salt to your taste. **You can serve it, refrigerate it, or even freeze it.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Shallots — 3 oz (2 to 3 medium)
+- 🛒 Fresh mushrooms — 8 oz *(button or cremini; or splurge on morels, porcinis, or chanterelles)*
+- 🛒 Unsalted butter — 4 Tbsp (2 oz)
+- 🛒 Morton Coarse Kosher Salt — ½ tsp, plus more to taste at the end
+- 🛒 Black pepper, coarse-grind — ½ tsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Fresh thyme — 1 tsp *(or ½ tsp dried)*
+- 🛒 White wine vinegar — 1 Tbsp
+- 🛒 Cream sherry — ½ cup plus 2 Tbsp *(or Amontillado, or sweet Marsala)*
+- 🛒 Low-sodium chicken stock or broth — ¾ cup
+- 🛒 Half-and-half — ½ cup
+- 🛒 Cream cheese — 2 Tbsp
+
+#### Nutrition *(estimated)*
+
+*Figures are for the finished sauce, which uses essentially the whole duxelles batch.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1½ cups of sauce)* | ~985 | 70 g | 12 g | 38 g | 3 g |
+| **Per serving** *(about 6 Tbsp — serves 4, as printed)* | ~245 | 17 g | 3 g | 9 g | 0.8 g |
+| **Duxelles alone** *(about ¾ cup, if you stop at Step 3)* | ~520 | 46 g | 6 g | 20 g | 3 g |
+
+**What a serving is:** roughly 6 tablespoons of sauce spooned over one chicken breast or pork chop — the source's own "enough for 4 chicken breasts or pork chops."
+
+#### D. Open Questions
+
+- **Paris Chicken (book p. 271)**, the source's other dish built on this duxelles, isn't yet documented in this cookbook — named here rather than invented.
+- **Beef Wellington**, named in the duxelles paragraph as the classic use, isn't documented anywhere in this cookbook either. Named, not invented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.181 Japanese Happy Mouth Yakitori Sauce
+
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter (book p. 191–192). A thick, rich, teriyaki-like soy glaze laced with ginger and garlic, reverse-engineered from the sauce painted onto skewers at Japanese *yakitori-ya*.
+
+> 🔎 **Recovered 2026-09-06, from a page photographed alongside this batch.** This sauce has been an open gap in this cookbook since the 2026-09-05 Brines/Rubs/Sauces batch, and the 2026-09-06 page-order audit narrowed it precisely: book **p. 191** *is* in that book's 21-page scan and carries the red title box plus a full-column headnote, but the MAKES/TAKES line and the ingredients continue onto **p. 192, which appeared at no index.** **Cody photographed p. 192 in this round**, so the recipe is now complete — MAKES/TAKES, all ten ingredients, all three numbered steps, and the source's own Note. **This closes the flag standing at [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs)**, which has been pointing at a bottled substitute since it was added. Nothing here is inferred.
+
+> **Note on scope, for the record:** this recipe was not on the list of six that Cody asked for in this round — its two pages simply arrived in the same upload, from the *other* Meathead book. It's written up because it is complete, unambiguous, and closes a gap this cookbook already flags by name. Easy to pull back out if that wasn't the intent.
+
+> Per the source: years ago his wife was invited to deliver a scientific paper at a conference in Japan, and he came along — registered for the "wives" tours, learned flower arranging and tea service, visited a silk factory, and ate marvelous morsels. **One evening they went to a baseball game to watch the Ham Fighters play the Carp.** From a vendor with a steaming box strapped around his neck, he bought two bamboo skewers of hot grilled meat — one bite-size chicken livers, the other squid, both shiny with a dark, chestnut-colored sauce. The next day he learned the dish was called **yakitori**, and they went to one of the many ***yakitori-ya***, small afterwork hangouts where skewers of meat are grilled over charcoal and coated with this wondrous sauce. He asked a waitress if she could tell him what the sauce was. **She replied, "Happy mouth."** So he took lots of notes, and when he got home he set about researching and reverse-engineering it.
+
+> **How to use it:** yakitori is a thick, rich teriyaki-like glaze, a soy-based elixir laced with ginger and garlic. Besides chicken livers and squid, it's great on **salmon, chicken, turkey, chunks of pork, and many veggies, especially onions.** **First grill the meat, then paint on the glaze and cook it for a minute or two more over medium heat — but beware, it will burn if you don't keep turning the skewers.** The source points at his own **[§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs)** (book p. 210) as the showcase.
+
+> **Distinct from [§4.175 Teriyaki Sauce](#4175-teriyaki-sauce)**, this cookbook's other soy-and-ginger glaze from the same book and the same chapter — that one is a thinner teriyaki with pineapple-adjacent sweetness and its own inferred title, while this one is the thick, cornstarch-bound yakitori glaze. Both kept, cross-referenced.
+
+**Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety) *(a sugary glaze goes on late, or it scorches)*
+
+**🟢 Easy** · **Prep ~10 min** *(mostly grating ginger)* · **Cook ~45 min** *(a 30 min simmer, then 10–15 min to thicken)* · **Start to finish ~55 min** *(the source prints TAKES about 45 minutes)*
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing in *making* this sauce can go from perfect to ruined — it's a gentle simmer, a strain, and a cornstarch slurry stirred into simmering liquid. **The burn risk is in *using* it, not making it:** the source's own warning is that the glaze will burn on the grill if you don't keep turning the meat. See [§T50](#t50-saucing-strategies--when-how-much-and-food-safety).
+
+#### A. Ingredients
+
+- ½ cup soy sauce, preferably low sodium
+- ½ cup sake or dry white wine
+- ½ cup orange juice
+- ¼ cup sugar
+- ¼ cup grated fresh ginger, and any liquid exuded during grating *(see Note)*
+- 3 tablespoons honey
+- 2 tablespoons toasted sesame oil
+- 1 tablespoon hot sauce, or to taste
+- 5 garlic cloves, crushed
+- 1½ teaspoons cornstarch
+
+**Makes** 2 generous cups — enough for about 2 slabs of ribs, or 2 small chickens and a whole mess of chicken livers.
+
+#### B. Cooking Instructions
+
+**1. Simmer. About 30 minutes.**
+In a 2-quart nonreactive saucepan, mix all the ingredients **except the cornstarch** and gently simmer over medium-low heat for about **30 minutes**.
+
+**2. Strain, and press the solids.**
+Strain the sauce through a fine-mesh sieve into another saucepan. **By now the chunky stuff has given its all** and it's time to discard it *"like letters from ex-lovers."* With a ladle or spoon, gently press the mush left in the sieve to release all those good juices. Taste the sauce and adjust the honey or hot sauce if you wish. Put the saucepan back on a burner over medium-low heat.
+
+**3. Thicken with a cornstarch slurry. 10 to 15 minutes.**
+Put the cornstarch in a coffee cup and add **2 tablespoons of cold water**. With a fork, whisk the mixture until the cornstarch has dissolved. **Before it has a chance to separate**, dump the slurry into the sauce. The sauce will get milky, thicken considerably, and start burbling like lava as it warms up. Simmer for **10 to 15 minutes**, or until it's **as thick as motor oil and has clarified a bit**. Now paint it on everything except the kitchen walls.
+
+**NOTE:** To get enough ginger, begin with **one fat ginger finger, perhaps the size of your thumb.** Grate it on a Microplane or the small holes of a box grater.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Soy sauce, preferably low sodium — ½ cup
+- ☯️ Sake — ½ cup *(or dry white wine from any grocery)*
+- ☯️ Toasted sesame oil — 2 Tbsp
+
+**🛒 General grocery**
+
+- 🛒 Orange juice — ½ cup
+- 🛒 Sugar — ¼ cup
+- 🛒 Fresh ginger — 1 fat thumb-size finger, for ¼ cup grated
+- 🛒 Honey — 3 Tbsp
+- 🛒 Hot sauce — 1 Tbsp
+- 🛒 Garlic — 5 cloves
+- 🛒 Cornstarch — 1½ tsp
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(2 generous cups)* | ~850 | 28 g | 6 g | 130 g | 1 g |
+| **Per serving** *(2 Tbsp)* | ~53 | 1.8 g | 0.4 g | 8 g | 0.1 g |
+
+**What a serving is:** 2 tablespoons painted onto a skewer or two of grilled meat — a glaze coat, not a dipping bowl. The ginger and garlic solids are strained out and discarded, so their bulk isn't counted here.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -28651,7 +28828,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan. The original transcription was reconstructed from a rotated photo and got several printed quantities and steps wrong; everything below now matches the printed page exactly.
 
-> ⚠️ **Happy Mouth Yakitori Sauce itself still isn't documented in this cookbook — and the page number is now settled for good.** *(Corrected again 2026-09-06, during the page-order audit of the 21-page Brines/Rubs/Sauces scan: **the earlier "p. 192" was right and the intervening "correction" to p. 191 was wrong.**)* **Book p. 191 *is* in that scan**, and it carries the recipe's red title box — *Japanese "Happy Mouth" Yakitori Sauce* — plus a full-column headnote about a Hokkaido ball game, the vendor with the steaming box, and the waitress who called the sauce "happy mouth." **The headnote runs to the last line of p. 191 and the MAKES/TAKES line and ingredient list continue onto p. 192, which appears at no index in the scan.** So the sauce is genuinely absent, one page past the page we have. Until it's photographed, a good bottled teriyaki or yakitori sauce is a reasonable stand-in — or see the closely related **[§4.175 Teriyaki Sauce](#4175-teriyaki-sauce)**, recovered from book p. 184 in the same audit, which the source itself describes as a soy-and-ginger glaze in exactly this family.
+> ✅ **Happy Mouth Yakitori Sauce is now documented — the gap is closed as of 2026-09-06.** This entry carried a standing ⚠️ flag from the day it was added, and the 2026-09-06 page-order audit narrowed it precisely: **book p. 191 *is* in that scan**, carrying the recipe's red title box — *Japanese "Happy Mouth" Yakitori Sauce* — plus a full-column headnote about a Japanese ball game, the vendor with the steaming box, and the waitress who called the sauce "happy mouth"; but the headnote runs to the last line of p. 191 and **the MAKES/TAKES line and ingredient list continue onto p. 192, which appeared at no index.** **Cody has now photographed p. 192**, and the sauce is written up in full at **[§4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce)** — MAKES 2 generous cups, ten ingredients, three steps, and the source's own ginger-grating Note. A bottled teriyaki or yakitori sauce still works in a pinch, and the closely related **[§4.175 Teriyaki Sauce](#4175-teriyaki-sauce)** (book p. 184) remains a same-book cousin.
 
 **Makes 2 servings · Takes 20 minutes to prep, and about 90 minutes to cook** *(as printed)*
 
@@ -28660,7 +28837,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### A. Ingredients
 
 - 1 slab **baby back** ribs
-- ½ cup Japanese Happy Mouth Yakitori Sauce *(book p. 191 — not yet in this cookbook; see the ⚠️ note above)*
+- ½ cup [Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce) *(§4.181 — the source's own sauce, book p. 191–192, **now documented in full** as of 2026-09-06)*
 - 2 green onions, thinly sliced, for garnish
 
 #### B. Cooking Instructions
@@ -28683,7 +28860,7 @@ Just before serving, sprinkle the ribs with the green onions as a garnish. Per t
 
 **☯️ Hong Kong / Chinese market**
 
-- ☯️ Teriyaki or yakitori sauce — ½ cup *(stand-in until Happy Mouth Yakitori Sauce is documented)*
+- ☯️ Yakitori sauce — ½ cup *(make [§4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce), the source's own; a bottled teriyaki or yakitori sauce also works)*
 - ☯️ Wasabi paste *(optional, per the Note)*
 
 **🛒 General grocery**
@@ -31177,7 +31354,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 - 2 filets mignon (8 to 10 oz each), 1½ to 2 inches thick
 - ¼ cup liquid shio kōji *(Hanamaruki brand is widely available)*
 - 2 slices bacon
-- 1½ cups [Poblano-Basil Cream Sauce](#4164-pesto-basil-pesto) *or another mushroom or cream-based pan sauce* — *(see Note)*
+- 1½ cups [Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) *(§4.180 — the source's own sauce, book p. 193, which this recipe cites by page; [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) is the source's own alternative)*
 - Tallow, beef fat, bacon fat, clarified butter, or ghee, for the pan
 - Salt, to finish
 
@@ -31207,7 +31384,7 @@ Pour the pan sauce into the same hot skillet and scrape up the browned bits (the
 **8. Bring it together.**
 Return the filets to the pan of sauce. Check the internal temperature and aim for medium-rare, 130° to 135°F — if it's not there yet, move the pan over direct heat briefly. Spoon sauce onto each dinner plate and set a filet right in the middle of the pool.
 
-*Note: this ingredient calls for the source's own Poblano-Basil Cream Sauce or a similar Duxelles/Mushroom Cream Sauce. **Update, Vegetables & Seafood batch:** the Poblano-Basil Cream Sauce itself has since turned up complete and is now [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) — the closer, same-book stand-in. Its mushroom-based sibling, Duxelles and Mushroom Cream Sauce, is still missing its own ingredient list (book p. 192); [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) or [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) remain reasonable stand-ins for that one. See Open Questions.*
+*Note: **✅ fully resolved 2026-09-06 — no stand-in is needed any more.** The source's own ingredient line here is "1½ cups Duxelles and Mushroom Cream Sauce (page 193)," and that sauce is now documented in full at **[§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce)**, once Cody photographed book p. 192–193. Its vegetable-based sibling, [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), is the source's own alternative and works here too. The earlier cross-book stand-ins ([§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce), [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)) are no longer needed and are retired from this entry.*
 
 #### C. Grocery Shopping List
 
@@ -31237,7 +31414,7 @@ Return the filets to the pan of sauce. Check the internal temperature and aim fo
 
 #### D. Open Questions
 
-- **The pan sauce this recipe calls for (Poblano-Basil Cream Sauce or Duxelles and Mushroom Cream Sauce, book p. 192/194) wasn't in this batch's scanned pages.** The recipe's own steps (make the sauce, finish it in the pan with the fond) are complete and legible — only the sauce's own ingredient list is missing. Substituted with a cross-reference to this cookbook's existing [§4.129](#4129-sage-and-thyme-board-sauce)/[§4.79](#479-sauce-duxelles-brown-mushroom-sauce) rather than invented; revisit if those book pages ever get photographed. **Update, Vegetables & Seafood batch:** the Poblano-Basil Cream Sauce half of that pair is now fully documented at [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) — use that as the primary stand-in going forward, since it's the source's own sauce rather than a cross-book substitute. The Duxelles and Mushroom Cream Sauce half is still missing its ingredient list (book p. 192) and remains an open gap.
+- **✅ Closed 2026-09-06 — this entry no longer has an open sauce gap.** When this recipe was added, the pan sauce it calls for (Duxelles and Mushroom Cream Sauce, book p. 193) wasn't among the photographed pages, and cross-book stand-ins were used instead. **Both halves of that pair are now documented from the source's own pages:** [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) (recovered in the Vegetables & Seafood batch) and [§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) (recovered 2026-09-06 from newly photographed pages). **§4.180 is the one this recipe's own ingredient line actually names.** Nothing about the steps ever changed — they were complete and legible from the start.
 
 [↑ Table of Contents](#table-of-contents)
 

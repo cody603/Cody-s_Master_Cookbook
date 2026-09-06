@@ -271,7 +271,7 @@ Click any recipe to jump straight to it.
 - [5.36 Lemon Green Beans](#536-lemon-green-beans) ✅ 👍
 - [5.37 Mamma's Spinach](#537-mammas-spinach) ✅ ❤️
 - [5.38 Roasted Veggies](#538-roasted-veggies) ✅ *(a loose "wing it" formula, not a fixed recipe)*
-- [5.39 Fennel Fondant](#539-fennel-fondant) ✅ *(Champions of Sous Vide; ⚠️ ingredient list partly obscured in the source photo — see entry)*
+- [5.39 Fennel Fondant](#539-fennel-fondant) ✅ *(Champions of Sous Vide; flag retired 2026-09-06 — the ingredient list was complete all along)*
 - [5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) ✅ *(Meathead)*
 - [5.41 Grilled Asparagus](#541-grilled-asparagus) ✅ *(Meathead; distinct from [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter))*
 - [5.42 Grilled Cauliflower](#542-grilled-cauliflower) ✅ *(Meathead; distinct from [§5.6](#56-cauliflower))*
@@ -384,14 +384,14 @@ Click any recipe to jump straight to it.
 - [7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) ✅ *(⚠️ 160°F food-safety note)*
 - [7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) ○ *(cut only — method deliberately withheld, see entry)*
 - [7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) ✅ *(Champions of Sous Vide)*
-- [7.79 Short Rib Ragù](#779-short-rib-ragù) ✅ *(Champions of Sous Vide; ⚠️ instructions reconstructed from a rotated photo — see entry)*
+- [7.79 Short Rib Ragù](#779-short-rib-ragù) ✅ *(Champions of Sous Vide; flag retired and six quantities plus one method step corrected 2026-09-06 — see entry)*
 - [7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) ✅ *(Champions of Sous Vide)*
-- [7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) ✅ *(Champions of Sous Vide; ⚠️ some quantities/plating approximate — see entry)*
-- [7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) ✅ *(Champions of Sous Vide; ⚠️ heavy transcription uncertainty — see entry; distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese))*
+- [7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) ✅ *(Champions of Sous Vide; contributor, temperature and five quantities corrected 2026-09-06 — see entry)*
+- [7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) ✅ *(Champions of Sous Vide; uncertainty flag retired 2026-09-06 — missing prosciutto and 2 tsp salt recovered, see entry; distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese))*
 - [7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) ✅ *(Champions of Sous Vide)*
 - [7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) ✅ *(Champions of Sous Vide)*
 - [7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) ✅ *(Champions of Sous Vide)*
-- [7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) ✅ *(Champions of Sous Vide; ⚠️ uses transglutaminase — see entry)*
+- [7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) ✅ *(Champions of Sous Vide; uses transglutaminase; temperature, serving count and three quantities corrected 2026-09-06 — see entry)*
 - [7.87 Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) ✅ *(Meathead)*
 - [7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) ✅ *(Meathead)*
 - [7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) ✅ *(Meathead)*
@@ -576,7 +576,7 @@ Click any recipe to jump straight to it.
 - [14.17 Flaky French Pastry](#1417-flaky-french-pastry) ✅
 - [14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) ✅
 - [14.19 Vodka Pie Crust](#1419-vodka-pie-crust) ✅ *(Judy Kim; Cody's own coarse-salt modification)*
-- [14.20 Cream Caramel](#1420-cream-caramel) ✅ *(Champions of Sous Vide; ⚠️ small print — custard sugar quantity approximate, see entry)*
+- [14.20 Cream Caramel](#1420-cream-caramel) ✅ *(Champions of Sous Vide; ⚠️ every quantity corrected 2026-09-06 — caramel sugar was 3× the printed amount, see entry)*
 - [14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) ✅ *(Salt, Fat, Acid, Heat; ⚠️ Vanilla Cream filling not photographed — see entry)*
 - [14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) ✅ *(Salt, Fat, Acid, Heat)*
 - [14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) ✅ *(Salt, Fat, Acid, Heat; ⚠️ Vanilla Cream filling not photographed — see entry, same gap as [§14.21](#1421-loris-chocolate-midnight-cake))*
@@ -615,6 +615,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Verification audit of the 11-page *Champions of Sous Vide* photo scan — the very first automated batch of this project, run before the process was tightened, and it needed every bit of this.** All 11 photographed pages were re-read at full resolution (two rotated 90°, one badly underexposed) and a definitive PDF-index-to-book-page map was built: **book pages 34, 46–47, 56–57, 86, 106, 124, 126–127, 128–129, and 164–165 are present**, file order does *not* match book order, and the two pages with no visible number ([§5.39 Fennel Fondant](#539-fennel-fondant) and [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms)) are **verified absent rather than unread** — each page's footer is cropped past the bottom edge of the photograph, while the recipe text itself is whole. **All six of the batch's own uncertainty flags were resolved: four retired as unfounded, two retired and replaced with corrections.** **[§5.39 Fennel Fondant](#539-fennel-fondant)** — the "ingredient list may be incomplete" flag was **wrong**; the source prints three ingredients and only three, and the only obscured print on the page is three short spans inside one sentence of the browning step, where nothing about technique or amount is in doubt. **[§7.79 Short Rib Ragù](#779-short-rib-ragù)** — the rotated-photo flag retired, and with it **six ingredient errors and one method error**: searing fat **3 Tbsp** (was 1), ribs **3½ lb / 1,575 g** (was 4 lb), **2 stalks celery** recovered (the "quantity not printed" flag was unfounded), garlic **4 cloves** (was 2), tomato paste **¼ cup** (was ½), and **2 Tbsp neutral oil and 2 sprigs of fresh rosemary recovered** from the ingredient list; the old Step 6 had fused two printed steps, so the flour-and-tomato-paste cook is now its own **2–3 minute** step and it is the **wine** that reduces by half over 10–15 minutes. Contributor affiliation corrected to ***Culinary Focus*** (was "Culinary Pieces"). **[§7.81 Scallops](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction)** — the worst attribution error in the batch: the contributor is **Steve Roybal of the Roybal Supper Club**, not the misread "Steve Baytal, Bayhat Pepper Club" (the 2026-09-05 changelog entry below is corrected too); the bath is **125°F**, not 122°F; the scallops are **3–5 large *day boat* scallops per serving** (12–20 total), not a flat 12 "dry sea" scallops; and **four liquid quantities were each half the printed amount** (water, rice wine vinegar, and red wine all **½ cup**) while **salt was double — the source prints 1 Tbsp, not 2**. **[§7.82 Ragù alla Bolognese](#782-ragù-alla-bolognese-sous-vide)** — the batch's "HEAVY UNCERTAINTY" flag retired outright (the page is rotated, not illegible), and retiring it exposed **250 g of minced prosciutto missing from the ingredient list entirely** and **the source's own two teaspoons of salt missing from the method**; meat corrected to **1.5 kg (3.3 lb)**, tomatoes to **sieved tomatoes / passata di pomodoro, 1.5 kg (53 oz)**, and the nutmeg moved back to the tomato step where the source puts it. **[§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus)** — small-print flag retired (the 2% transglutaminase ratio, the water-bottle forming method and the 4-hour firming were all confirmed exactly as printed), but the bath is **170°F (77°C)**, not 175°F, it **serves 6**, not 4, **1 carrot was missing entirely**, bay leaves are **2** and juniper berries **6**. **[§14.20 Cream Caramel](#1420-cream-caramel)** — **every single quantity was wrong**: caramel sugar **¼ cup, not ¾ — three times the printed amount**, milk and cream **⅔ cup (150 ml) each**, custard sugar **60 g** (the "~87 g" was invented), moulds **½ cup (120 ml)**; the "4–6 hour chill" was not in the source at all (it prints a 10-minute bench rest, then a fridge set, made a day ahead), and the variation infuses **thirty minutes**, not a few. Source page corrected from p. 123 to **p. 164–165**. **The five recipes the batch reported as needing no flags were audited line by line too: [§7.78 Boar Tenderloin](#778-boar-tenderloin-with-cherry-chutney), [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken), [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), and [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli) are confirmed complete and correct as written** — every ingredient, temperature, time, serving count and contributor credit matches the page. **[§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms)** is correct in substance, but its headnote had been silently reworded and is now quoted as printed. **Contributor credits, cook temperatures and times, and serving counts were checked against the page for all eleven**; the corrections are §7.79 (affiliation), §7.81 (contributor and temperature), §7.86 (temperature and serving count), and §14.20 (source page). **No salt amount was ever altered away from a printed figure** — the two salt changes here both move *toward* the page (§7.81's 1 Tbsp, and §7.82's recovered 2 tsp). Nutrition blocks recalculated for §7.79, §7.81, §7.82, §7.86 and §14.20; adjacent pages were checked for stray content belonging to each recipe and none was found. TOC entries, the Difficulty & Time Index row for §14.20, and the 2026-09-05 entry below all updated to match. |
 | 2026-09-06 | **Page-order audit of the 21-page *Meathead: The Science of Great Barbecue and Grilling* "Brines, Rubs, and Sauces" photo scan** — the scan behind [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and [§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) — **per Cody's concern that a photographed book's file order need not match its own printed page numbers. Here it mostly does, but not entirely, and one out-of-order page cost this cookbook a whole recipe.** All 21 pages were re-read at native resolution and a definitive PDF-index-to-book-page index was built from every legible footer, then re-sorted by book page. **Book page ranges present:** 58–63, 66–67, 140–141 (plus a close-up of the drip-pan section), 160–173, 176–181, 184–191, 194–195. **Real gaps, by book page:** everything before 58, 64–65, 68–139, 142–159, **174–175**, **182–183**, **192–193**, and 196 onward. **File order vs. book order:** indexes 1–3 run *backwards and out of sequence* — index 1 is pp. 184–185, index 2 is pp. 180–181, index 3 is pp. 194–195 — then index 4 drops all the way back to p. 58 and runs 58–67 through index 7, and 140–141 at indexes 8–9, before indexes 10–18 finally run in order from p. 160 to p. 179, and indexes 19–21 close on pp. 186–191. **That's what the earlier batch tripped over: it read the file front to back and treated the p. 184 spread as a stray, when it actually holds a complete recipe.** **Rotated pages** — the ones that correlated with errors in the other three books and did so again here: **indexes 3, 19, 20, and 21 are photographed at 90°** (book pp. 194–195, 186–187, 188–189, 190–191). **Present but cropped past the photo's edge:** book **p. 178**'s left column (Columbia Gold's quantities — legible at full resolution, and they check out) and book **p. 184**'s left margin (the teriyaki recipe — also recoverable at full resolution). **TWO RECIPES RECOVERED, BOTH FROM PAGES THE ORIGINAL BATCH HAD IN HAND.** **[§4.175 Teriyaki Sauce](#4175-teriyaki-sauce)** (book p. 184) was explicitly skipped in the 2026-09-05 batch as *"out of scope — it belongs to an undocumented chicken recipe."* **That call was wrong: it is a complete standalone sauce** — MAKES about 3 cups, TAKES 30 minutes, eleven ingredients, a method, and a Note — and it's now written up in full. Its title box sits on p. 183, which is confirmed absent, so the title is flagged as inferred exactly the way [§4.117](#4117-kansas-city-classic-barbecue-sauce)'s is. **[§4.176 Lubing Turkey Breasts (Oil Injection)](#4176-lubing-turkey-breasts-oil-injection)** (book p. 163) is a fourth injection recipe printed on the facing page to the three at [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection); it has its own MAKES/TAKES line and method and was simply left behind. **FIVE QUANTITY ERRORS FOUND IN ALREADY-ADDED RECIPES — these are the ones Cody most needs to know about:** **[§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis)** had **¼ tsp kosher salt against the printed ¾ tsp, and ⅛ tsp black pepper against the printed ½ tsp** — a third of the salt and a *quarter* of the pepper on a sauce that is otherwise just roasted pepper, garlic, and oil; **[§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper)** had **3 Tbsp whole black peppercorns against the printed 1 Tbsp**, three times the pepper against an unchanged 2 Tbsp of salt, which would have made it a pepper blend rather than a citrus finishing salt; **[§4.131 Pesto](#4131-pesto)**'s Thai-basil/mint substitution cap read **⅓ cup against the printed ½ cup**; and two printed yields were wrong in Nutrition blocks — **[§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam)** makes **2 cups**, not 2½, and **[§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce)** makes **2⅔ cups**, not 2⅓. **THREE METHOD ERRORS, TWO OF THEM FLAT CONTRADICTIONS OF THE PRINTED PAGE:** **[§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam)** held the thyme, black pepper, **and the bacon itself** out of the pot and stirred the bacon back in "near the end" — **the source puts all of it in with the water, vinegar, syrup, and sugar and then reduces the lot for 1 to 2 hours**, which is the entire reason the bacon ends up soft and jammy rather than crisp bits in onion jam; its time badge is corrected to the printed 2½ hours. **[§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat)** claimed basting and spritzing *"neither meaningfully slow the actual cook nor wash off a rub."* **The source says the opposite of both, in its own bolded subheads: "WE ARE LENGTHENING COOKING TIME" — evaporative cooling can add 10 to 20 percent to a low-and-slow cook — and "WE ARE REMOVING FLAVOR" — basting can wash off smoke, spices, and marinades, and doing it too often removes a significant amount.** The entry is rewritten around the source's full seven-point pros-and-cons list, plus its timing rule (baste right *after* flipping, never baste-then-flip) and its food-safety rule (**stop basting 15 minutes before serving**), neither of which was there. **[§T52 Water Pans and Drip Pans](#t52-water-pans-and-drip-pans)** recommended filling a water pan with *"stock, wine, or aromatics for extra flavor and a ready-made jus."* **The source explicitly rejects that** — *"Drink the beer. Drink the wine. Drink the juice. Put the spices on the meat. Just use hot water in the water pan"* — because those compounds mostly don't evaporate and have no impact on the meat's flavor if they do. That recommendation is struck. The same entry's claim that sand or a firebrick is a reasonable ballast substitute is corrected too (solids do nothing for humidity or flavor and, unlike water, don't cap out at 212°F — they heat to full chamber temperature), and the source's lava-rock evaporation trick, foil-lining cleanup, and actual stated drip-pan purpose (collecting juices for stock, not preventing flare-ups) are added. **CONTENT NOT IN THE SOURCE, FOUND AND RELABELED RATHER THAN LEFT STANDING:** [§T46](#t46-freezing-and-reheating-leftovers)'s **"best reheat method is sous vide at 140–150°F"** appears nowhere on book pp. 66–67. It is now labeled explicitly as **Cody's own preference**, with the book's four printed methods restored beside it — indoor oven at **225°F, foil-wrapped, to a 155°F center** (the entry had said 250–300°F "until just warmed through"), grill at 225°F two-zone, microwave under parchment starting at about 1 minute, and simmering-water bag for pulled or sliced meat — along with the printed thawing rates (6–8 hr in the fridge for ribs; cold-water bag at 30 min per pound, 10 hours for a 20 lb turkey) and the make-ahead rib schedule. **FOUR MORE TECHNIQUE ENTRIES EXTENDED WITH PRINTED CONTENT THEY'D CONDENSED AWAY:** [§T47](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) (the source's own reverse-sear candidates — Brussels sprouts, cabbage, cauliflower, sweet potatoes, carrots — plus peel/slice/salt/oil, the grill-topper disks trick, the parboil-then-finish shortcut, and *"err on the side of undercooking to avoid limp vegetables"*); [§T49](#t49-lookin-aint-cookin--and-other-lid-myths) (Prof. Blonder's actual experiment on both a charcoal and a gas grill, and the source's own verdict, *"You can peek and you will pay only a minimal penalty. Lookin' doesn't stop the cookin'"* — stronger than the earlier "batch your lid-opens" framing, which the source doesn't say); [§T50](#t50-saucing-strategies--when-how-much-and-food-safety) (the garbled scorch line corrected to the printed *"it can go from red to black faster than a clean hog can go from pink to brown,"* plus the crank-the-grill/broiler option and the warning that sizzling the sauce can overcook perfectly cooked ribs); and [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) (the source's actual instructions for *applying* a rub — wet the surface, sprinkle liberally but don't fully coat, rub it in, and don't bother letting it sit overnight — and its *"salts, rubs, and sauces are like oil, antifreeze, and gas"* pull quote). **[§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) — title still unresolved, but the recipe is now proven complete.** Book **pp. 174–175 are confirmed absent at every index**, so the inferred title stands, flagged. But the audit settled the open worry: the printed **MAKES 6 cups / TAKES about 45 minutes** lines sit at the top of p. 176 with the ingredient list starting directly beneath them, so **nothing was cut off before "2 Tbsp chili powder"** — the ingredient list is whole. Its Notes were wrong, though: the "secret optional ingredient" is **2 Tbsp tamarind paste**, not "a sweet-tangy Asian curry or chile paste," the liquid smoke is **½ tsp**, not a teaspoon, and the sauce *"may taste a bit vinegary at first,"* not sugary. **[§4.127 Cascabel Mole](#4127-cascabel-mole-inspired-by-chef-rick-bayless) — the long, truncation-prone one — checked out clean.** All 20 ingredients and all 9 printed steps are present and correct; only its closing NOTE was wrong, and it had the two chiles' roles switched (anchos are dried poblanos, essential, with very low heat; **cascabels** are the hard-to-find ones, and guajillos are their common substitute). **THE OTHER THREE PREVIOUSLY-SKIPPED ITEMS ARE NOW CONFIRMED GENUINELY ABSENT — verified exhaustively against the full index, not "we may not have looked hard enough":** **Alabama White Sauce**'s ingredient list (book p. 182) — its headnote *is* in the scan, ending on p. 181, and the audit recovered its content (Big Bob Gibson Bar-B-Q, Decatur, Alabama, since 1925; Chef Chris Lilly; Don McLemore; pitmaster Ken Hess), but pp. 182–183 appear at no index; **[§4.172](#4172-alabama-white-sauce)**'s cross-book flag is updated to say so, and it stays a possible-but-unconfirmed match rather than being marked resolved. **Japanese "Happy Mouth" Yakitori Sauce** — **and here a previous "correction" is itself corrected: the page is p. 192, not p. 191.** Book p. 191 *is* in this scan and carries the recipe's red title box and a full-column headnote, which runs to the last line of the page; the MAKES/TAKES line and ingredients continue onto **p. 192, which appears at no index**. [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs)'s note is fixed accordingly, and now points at the newly recovered [§4.175 Teriyaki Sauce](#4175-teriyaki-sauce) as a same-book relative rather than only a bottled stand-in. **ALREADY-ADDED RECIPES CHECKED PAGE BY PAGE AND VERIFIED COMPLETE, NO CHANGES NEEDED:** the brines and injections [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection) (book pp. 160–162, every quantity confirmed against the printed page); the rubs [§4.105](#4105-dalmatian-rub)–[§4.112](#4112-cajun-seasoning) and [§4.114](#4114-cowboy-java-rub)–[§4.116](#4116-butcher-block-seasoning) (pp. 166–173, all exact, including Memphis Dust's ¾ cup + ¾ cup sugars and Marietta's seven-item herb list); and the sauces [§4.118](#4118-columbia-gold-south-carolina-mustard-sauce)–[§4.121](#4121-texas-mop-sauce), [§4.124](#4124-tartar-sauce)–[§4.130](#4130-chimichurri-sauce), and [§4.131 Pesto](#4131-pesto)'s ingredient list (all exact — [§4.123](#4123-dc-mumbo-sauce)'s ingredients are exact too; only its printed yield was wrong). **[§4.118 Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce) is worth calling out as a clean bill of health** — its whole quantity list sits in the one column this scan crops, and at full resolution every figure (¾ cup sugar, 2 cups mustard, ⅔ cup vinegar, 2 tsp garlic powder, 1½ tsp salt) matches what's already in the cookbook. **EVERY RUB'S SALT AMOUNT RE-VERIFIED AGAINST THE PRINTED PAGE, AND ALL OF THEM MATCH.** [§4.105 Dalmatian Rub](#4105-dalmatian-rub) prints ½ cup kosher salt — confirmed. [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) prints 2 Tbsp — confirmed, unchanged (only its pepper was wrong). **The eight rubs now showing zero salt genuinely print zero** — [§4.106](#4106-big-bad-beef-rub), [§4.107](#4107-mrs-olearys-cow-crust), [§4.108](#4108-meatheads-memphis-dust), [§4.109](#4109-simon--garfunkel-rub), [§4.110](#4110-dollys-lamb-rub), [§4.111](#4111-mariettas-fish-rub), [§4.112](#4112-cajun-seasoning), and [§4.114](#4114-cowboy-java-rub) each verified line by line against the printed ingredient list, with no salt line present on any of them — so the 2026-09-05 reversion and its "salt the meat the night before" warnings are correct as they stand. **No salt amount was altered away from the printed figure anywhere in this audit**; the only salt change made, [§4.132](#4132-roasted-red-pepper-and-garlic-coulis)'s ¼ → ¾ tsp, moves *toward* the print, and the standalone brines [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection) keep Cody's already-applied heavier-brining amounts untouched. **No recipe was deleted, and nothing was invented to close a gap.** TOC, the Difficulty & Time Index (re-sorted by prep + cook, with only the four changed or new rows moving), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated. |
 | 2026-09-06 | **Page-order audit of the 50-page *Salt, Fat, Acid, Heat* photo scan, per Cody's concern that a photographed book's file order need not match its own printed page numbers — and it badly doesn't here.** All 50 pages were re-read at native resolution and a definitive PDF-index-to-book-page index was built from every legible footer, then re-sorted by book page. **The scan is scattered and interleaved rather than sequential:** index 1 is book p. 226, index 2 jumps to p. 235, index 3 falls back to pp. 224–225, indexes 4–13 wander the dressings pages (248–253) mixed with the vinaigrettes (240–246) and one stray ACID-chapter page (p. 113 at index 7), indexes 10/11/16/36/37/46 are rotated 90°, indexes 17–24 mix mains (312–313, 336–339) with vegetables (254–261) and the grains chart (282–283), indexes 25–27 and 41–47 cover the Sauces chapter (358–377), indexes 28–31 and 48–50 cover the Sweets and dough pages (390–393, 402–406, 412–413, 420–421, 426–427), and **the very last page in the file, index 50, is book p. 404–405 — an *earlier* book page than a dozen indexes before it.** That single fact is what this audit turned on. **ONE COMPLETE RECIPE RECOVERED: [§14.34 Poach It in Wine](#1434-poach-it-in-wine)**, the second of the source's "Four Things to Do with Fruit." The Sweets batch filed it as *"genuinely incomplete — only its finishing half survived,"* having found the continuation on book p. 406 (index 46) and concluded the opening wasn't photographed. **It was photographed — it's the bottom-left column of p. 405, on the last page of the file (index 50), forty indexes away from its own continuation.** Joined, the two halves are a complete recipe: the fruit list, the printed ratio (for every 2 lbs of fruit: 4 cups wine, 1⅓ cups/9½ oz sugar, a 1×3-inch strip of lemon zest, half a scraped vanilla bean, a generous pinch of salt), the nonreactive pot, the parchment cartouche, the 3-minutes-to-2½-hours doneness range, the syrup reduction, and both variations. It is now a full A/B/C entry rated **🟢 Easy** per [CLAUDE.md §3a](CLAUDE.md) — nothing in it can go from perfect to ruined — with the quince-only long simmer in the **Slow cook** field rather than inflating the difficulty. Nothing was invented to close the gap. **FIVE ALREADY-ADDED RECIPES CARRIED REAL QUANTITY ERRORS. These are the ones Cody most needs to know about:** **[§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues)** had **⅓ cup (67 g) sugar where the source prints 1½ cups (10½ oz)** — a more-than-fourfold shortfall that would simply not have set into a meringue — plus **¼ tsp cream of tartar where the source prints ½ tsp**; its bake was also overstated as 65–75 minutes across three stages against the printed **25 minutes then 20–25 more (about 45–50 total)**, the meringues are spooned **golf ball–size** rather than half-tablespoon-size, they cool **on a wire rack** not on the sheet pan, the vanilla goes in *while whipping, a few minutes after the sugar*, and the source's conditional second drop to **200°F** if they color or crack was missing entirely (the earlier ⚠️ hedge on the 225°F reduction is retired — 225°F is confirmed). **[§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)** had **8 Tbsp butter, ⅔ cup sugar, and 1 cup heavy cream** against the printed **6 Tbsp (3 oz) butter, ¾ cup (5¼ oz) sugar, and ½ cup heavy cream** — twice the cream, which would have left a pourable sauce rather than the thick caramel the recipe's own yield and "thickens as it cools" note describe. **[§14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits)** had **1 Tbsp baking powder against the printed 4 teaspoons**, a flat ¾ cup buttermilk against **¾ to 1 cup**, and told you to loosen the dough with more *cream* when the source says more *buttermilk*; its **lamination was wrong** (the source folds the dough in half three times and then rolls it back out, repeating only if the top isn't smooth — not repeated letter-folds), the dough rolls to **1¼ inches** not 1, the biscuits sit **½ inch apart** and bake in **two stages of 8 and 8–10 minutes with a pan rotation between** rather than one 18–20 minute stretch, they rest 5 minutes on a rack, and the source's whole **make-ahead freezing block** (freeze cut biscuits solid, bag, up to 6 weeks; bake from frozen 10 min at 450°F then 10–12 min at 375°F) had never been transcribed. Its **Shortcakes** variation takes **½ cup (3½ oz) sugar, not ⅓ cup**, and gets brushed with cream and sprinkled with sugar before baking. **[§14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie)** had **1¾ tsp cinnamon (printed: 1½)** and **¼ tsp cloves (printed: ½ — half the printed amount of the most assertive spice)**, rolled the dough to 14 inches instead of **12**, was missing the "pull the dough out just past the edge of the pan, it'll shrink back" crimping instruction, and had the **Chocolate Pudding Pie blind-bake sequence scrambled** (425°F 15 min, then **400°F another 10–15 with the weights still in**, and only *then* weights out and down to 375°F for 5–10 — not weights out at 375°F first). **[§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar)** had **⅔ cup cream against the printed ½ cup**. **ONE RECIPE'S METHOD WAS WRONG IN A WAY THAT CHANGES THE DISH: [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole).** The Vegetables/Stock/Mains batch worked only from the source's illustrated comic spread and guessed the recipe sat "later in the book's Pasta section, well past p. 312." **It isn't in the Pasta section at all — it's the worked example in the ACID chapter, book pp. 122–123**, and that prose page spells the method out. Three corrections follow: **only the littlenecks are steamed open, shucked, and chopped back into their own strained cooking liquid; the Manila clams go into the finished sauce whole, in the shell, and are eaten out of the shell with the pasta** — which is the entire reason the source uses two varieties, and the first version lost it by shucking everything into one pot; the steaming pan gets the onion's **root ends and parsley sprigs**, not diced onion and garlic (the diced onion is cooked to tender separately in the sauce pan, garlic after it); and the dish is finished with **a knob of butter**, which was missing. **[§T85 Cooking Onions](#t85-cooking-onions--blond-browned-caramelized) was corrected and roughly doubled in length.** It was condensed from a 90°-rotated photo of book pp. 254–255: blond onions cook over **medium-*low*** heat, not medium; the Caramelized Onion Tart belongs to the **caramelized** stage, not the browned one; a **"Chicken with Sweet Onion Soup" cross-reference that is printed nowhere on those pages** has been removed rather than left standing; and **the entire facing page was never transcribed** — the source's own step-by-step caramelized-onion method (at least 8 thinly sliced onions, largest skillet or Dutch oven, medium-high with butter and/or olive oil until shimmering, onions in with a light salt that delays browning but evens it out, heat down to medium, 45 minutes to an hour, finished with salt and *"a rumor of red wine vinegar"*), plus the source's "Maillarded onions just doesn't sound right" aside and its floor rule that every onion should at least be cooked past its crunch, are all restored. **SMALLER PRINTED-QUANTITY FIXES ACROSS THE MAYONNAISE AND PESTO FAMILY:** **[§4.164 Pesto](#4164-pesto-basil-pesto)** called for **1½ oz Parmesan against the printed 3½ oz** (nutrition recalculated), and its garlic goes into the bowl by hand rather than the machine; **[§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo)** had **½ tsp mustard powder against the printed ¾ tsp** and a 1-cup yield against the printed **¾ cup**; **[§4.161 Aioli](#4161-aioli-garlic-mayonnaise)** likewise yields **¾ cup**, not 1; **[§4.163 Rouille](#4163-rouille-pepper-mayonnaise)** takes **3 to 4 tsp red wine vinegar**, not 2 to 4; **[§4.162 Herb Mayonnaise](#4162-herb-mayonnaise)** was missing **chives** from its herb list; and all four call for **stiff** Basic Mayonnaise, which the earlier entries rendered as "soft." **A CROP OF WRONG PAGE CITATIONS, ALL FIXED FROM THE FOOTERS:** [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw) is **pp. 224–225**, not 244–245 (244–245 are the two vinaigrettes); [§4.136 Any-Other-Citrus](#4136-any-other-citrus-vinaigrette) is **p. 244** and [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) is **p. 245** (both were cited as 239 — and the source itself cites Tomato Vinaigrette as "page 245" twice); [§4.141 Lime Vinaigrette](#4141-lime-vinaigrette) is **p. 243**; [§4.142 Rice Wine Vinaigrette](#4142-rice-wine-vinaigrette) is **p. 246** (the source cites it that way itself); [§4.143 Miso-Mustard Dressing](#4143-miso-mustard-dressing) is **p. 252**; [§4.164 Pesto](#4164-pesto-basil-pesto) is **pp. 382–384**, not 288–290; [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) is **pp. 426–427**, not 428; [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) is **pp. 420–421** (the earlier "p. 409–410" was flagged as a best-effort guess); [§14.27 Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) is **pp. 392–393**, not 394–395; and [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) is **pp. 122–123**. **ONE NEW INCOMPLETENESS FOUND, AND THE INVENTED ENDING REMOVED: [§14.27](#1427-light-and-flaky-buttermilk-biscuits)'s Fruit Cobbler variation runs off the bottom of book p. 393 mid-sentence** — "Combine 7 cups (2½ pounds) of fresh pitted cherries," — **and continues onto p. 394, which appears at no index in the scan.** The earlier version had a complete-looking cobbler with amounts and a 40–45 minute bake that are not printed anywhere in this source; that ending has been struck and the gap named, with [§14.1](#141-mixed-berry-cobbler)/[§14.8](#148-blueberry-cobbler) pointed to as stand-ins. **ONE SKIPPED RECIPE PARTLY RECOVERED: Fried Sage Salsa Verde** (book p. 361) is a named recipe with a printed ingredient list, not just a pointer — **makes 1 scant cup; 1 batch Basic Salsa Verde, 24 sage leaves, about 2 cups neutral oil for frying**, then crumble the fried sage in just before serving and adjust for salt and acid. All of that is now written into [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde)'s notes; only the sage-frying method itself (source p. 233) is genuinely missing, and p. 233 is confirmed absent from all 50 pages. **EVERY PREVIOUSLY-SKIPPED OR FLAGGED ITEM RE-CHECKED AGAINST THE FULL BOOK-PAGE INDEX — this is now "verified exhaustively absent," not "we may not have looked hard enough":** **Peanut-Lime Dressing** (book p. 253, facing [§4.143](#4143-miso-mustard-dressing)) — the one photograph of that spread is cut off by the edge of the photo frame partway across the page, leaving eight to twelve characters per line, and **no second photo of p. 253 exists at any index**; *(the earlier "the page is curled away from the camera" diagnosis is refined — the photo simply ends mid-page — but the conclusion holds)*; **Torn Croutons** (p. 236) and **Sprinkling Crumbs** (p. 237) — absent; **the sage-frying instructions** (p. 233) — absent; **All-Butter Pie Dough** — the audit read its real page number off [§14.26](#1426-classic-pumpkin-pie)'s ingredient list, **p. 386** (correcting an earlier "page 380"), and confirmed p. 386 absent; **Basic Pepper Paste**, [§4.163 Rouille](#4163-rouille-pepper-mayonnaise)'s sub-ingredient — its real page is **p. 379**, likewise absent; **Vanilla Cream** (p. 423), **Scented Cream** (p. 422), **Cardamom and Caramel Cream** (pp. 423–425), **Rose Scented Berries**, the source's **fruit Compote** (p. 407), and **Bittersweet Chocolate Pudding** (p. 416) — all named with real page numbers now, all absent from the scan. **[§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole)'s missing quantities are confirmed to be missing from the book itself, not from the scan:** both halves of the recipe were located and read, and neither the comic spread nor the pp. 122–123 prose prints a single number — it is a lesson in a technique chapter, written entirely in "a pot of water," "as many littlenecks as will fit in a single layer," "enough wine to cover the bottom of the pan." The 4-serving estimate stays, and is now labeled as the only part of that entry that isn't source-faithful. **ALREADY-ADDED RECIPES CHECKED FOR MISSING CONTINUATION CONTENT AND VERIFIED COMPLETE, NO CHANGES NEEDED** — each one checked page by page against this audit's index for an adjacent page that both exists in the scan and carries content belonging to it: the whole Salsas & Yogurt Sauces run ([§4.146](#4146-basic-salsa-verde)–[§4.158](#4158-mast-o-laboo-persian-beet-yogurt), book pp. 358–373, every recipe confirmed ending on its own final line); [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (pp. 374–375, complete — one stray "Purée the egg yolk" typo fixed to "Place"); [§5.50](#550-vietnamese-cucumber-salad), [§5.51](#551-spring-asparagus-and-feta-with-mint), [§5.52](#552-summer-tomato-basil-and-cucumber) (re-read straightened from its rotated photo and confirmed exact), [§5.53](#553-bright-cabbage-slaw) (content exact; only the page citation was wrong), [§5.54](#554-sauté-snap-peas-with-chilies-and-mint), [§5.55](#555-steamy-sauté-garlicky-green-beans), [§5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) (also re-read from a rotated photo, confirmed exact); [§7.125 Beer-Battered Fish](#7125-beer-battered-fish), [§7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) and [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) (all three confirmed complete end to end, including [§7.127](#7127-buttermilk-marinated-roast-chicken)'s Persian variation and its 2 Tbsp kosher / 4 tsp fine sea salt buttermilk brine); [§8.40 Chicken Stock](#840-chicken-stock) (pp. 270–271, complete); and the four vinaigrettes whose pages carry footers. **Of the nine entries transcribed from separately-supplied photos before this PDF arrived, this PDF contains its own copies of three, and all three were cross-checked line by line: [§14.22 Nekisia's Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) are exact, ingredient for ingredient and step for step, and [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) is exact including all four of its variations and serving tips.** The other six ([§4.134](#4134-creamy-caesar-dressing) p. 247, [§5.49](#549-persian-ish-rice), [§7.123](#7123-kufte-kebabs), [§8.38](#838-brothy-stracciatella-roman-egg-drop-soup) p. 273, [§8.39](#839-smooth-silky-sweet-corn-soup) pp. 275–276, [§14.21](#1421-loris-chocolate-midnight-cake) pp. 410–411) have no counterpart page anywhere in this PDF and could not be cross-checked against it — noted rather than silently passed over. **Book page ranges present in the 50-page scan:** 83–84, 113, 122–123, 224–226, 231, 235, 240–246, 248–257, 260–261, 270–273, 282–283, 312–313, 332–333, 336–341, 358–377, 382–385, 390–393, 402–406, 412–413, 420–421, 426–427, plus two unnumbered illustrated spreads (the Pasta alle Vongole comic and the BRAISE diagram). **Genuine gaps, by book page:** everything before 83, 85–112, 114–121, 124–223, 227–230, 232–234, 236–239, 247, 258–259, 262–269, 274–281, 284–311, 314–331, 334–335, 342–357, 378–381, 386–389, 394–401, 407–411, 414–419, 422–425, and 428 onward. **Present but cropped past the photo's edge:** p. 253 (Peanut-Lime Dressing, the only real casualty) and, less severely, the outer margins of pp. 244–246 and 258–259, where the page numbers are cut off but the recipe text is whole. **Rotated or steeply angled pages** — the ones that correlated with errors in the earlier books and did so again here: file indexes 10 (p. 231), 11 (pp. 254–255), 16 (pp. 256–257), 36 (p. 83), 37 (p. 84), and 46 (p. 406) are photographed at 90°, and indexes 3, 12, 30, 33 and 49 are steeply angled or curved at the gutter. **[§T85](#t85-cooking-onions--blond-browned-caramelized) came off a rotated page and was the single worst entry in this book; [§5.52](#552-summer-tomato-basil-and-cucumber) and [§5.56](#556-cherry-tomato-confit) came off rotated pages too and turned out fine.** **No salt amount was altered anywhere in this audit** — every quantity change above moved *toward* what the source prints, and no standalone brining recipe was touched, so [CLAUDE.md §3a](CLAUDE.md)'s heavier-salt preference does not apply here. **No recipe was deleted, and nothing was invented to close a gap** — one invented cobbler ending was removed. TOC, the Difficulty & Time Index (with [§14.25](#1425-marshmallowy-meringues) re-timed to 50 minutes of bake and the new [§14.34](#1434-poach-it-in-wine) inserted in prep+cook order), and the affected Nutrition blocks ([§14.24](#1424-salted-caramel-sauce), [§14.25](#1425-marshmallowy-meringues), [§4.160](#4160-classic-sandwich-mayo), [§4.161](#4161-aioli-garlic-mayonnaise), [§4.164](#4164-pesto-basil-pesto), [§7.126](#7126-chicken-with-vinegar)) all updated. |
 | 2026-09-06 | **Page-order audit of the 54-page *Meathead: The Science of Great Barbecue and Grilling* photo scan, per Cody's concern that a photographed book's file order need not match its own printed page numbers — and it doesn't here.** All 54 pages were re-read and a definitive PDF-index-to-book-page index was built from every legible footer, then re-sorted by book page. **The scan is genuinely scattered:** file index 1 is book p. 329, index 2 is p. 326, indexes 3–15 are pp. 204–222 (rotated 90°), indexes 16–30 are pp. 242–277, indexes 31–40 are pp. 294–313, indexes 41–45 are pp. 320–333, and indexes 46–54 jump around pp. 341–362 (index 50 = pp. 350–351 sits *after* index 49 = pp. 354–355; index 53 = p. 361 sits *before* index 52 = p. 362). **ONE COMPLETE RECIPE RECOVERED: [§7.145](#7145-60-minute-ribs-dreamland-style) 60-Minute Ribs, Dreamland Style.** The original Pork batch read the headnote on book p. 207, found no recipe beneath it, and filed the whole thing as a prose technique note at §T64 with an explicit "no ingredient list or numbered steps" caveat — **but the recipe box was in the scan all along, two book pages later**: MAKES/TAKES, the four-item ingredient list, and Steps 1–2 on p. 209 (file index 9), Steps 3–4 at the top of p. 210 (index 10). It is now a full A/B/C entry, rated **🟡 Medium** per [CLAUDE.md §3a](CLAUDE.md) because the source's own instruction is to turn it every 5 to 10 minutes over live embers for the whole hour — attention, not length, is what separates it from the 🟢 [§7.97 Last-Meal Ribs](#797-last-meal-ribs). **[§T64](#t64-hot-and-fast-ribs-dreamland-style--the-philosophy) has been rewritten** from a "no recipe exists" note into *Hot-and-Fast Ribs (Dreamland Style) — the Philosophy*, keeping the Dreamland story, the flavor/texture tradeoff, and the 24-inches-above-the-coals rig requirement, and pointing at §7.145 for the method. **TWO ALREADY-ADDED RECIPES GAINED MISSING CONTINUATION CONTENT.** **[§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork)** runs across four book pages, not two — its **Steps 8 (pulling) and 9 (the entire serving section)** sit on pp. 200–201 beside the *Butt Basics*/*Leftover Pulled Pork* sidebars and were never transcribed; both are restored, along with the printed MAKES (3 lb pork, 8–12 sandwiches) and the corrected ingredient list (a **5 lb** butt, not 8; ½ tsp kosher salt per pound; ⅓ cup Memphis Dust; 12 buns; 1 cup sauce). **[§7.115 The Great American Steakhouse Burger](#7115-the-great-american-steakhouse-burger)**'s Notes block was restored in full from p. 271 (lettuce choice, onion varieties by season, cheese-anchors-the-onion, and the full "stylin'" topping list) — the first pass had kept only the onion-soak line. **ONE WRONG FLAG RETIRED: [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style)** carried an Open Questions block stating that *no MAKES, TAKES, or exact quantities are printed*. **They are** — the recipe box is on book p. 258, whose left column was cropped in the photo but is legible at full resolution: **MAKES 6 servings, TAKES 1 hour**, with a printed three-item ingredient list. The Open Questions block is removed, the printed steps replace the paraphrased ones, and the same is true of **[§7.119 Big Bob Gibson's Chicken](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)**, whose flagged "1½ to 4-pound chicken" resolves at full resolution to the printed **"1 (3- to 4-pound) chicken"** (its serving step was also wrong: the source *paints* the chicken with the white sauce and serves immediately rather than serving it alongside for dipping). **TWENTY-ONE ALREADY-ADDED RECIPES RE-READ AGAINST THEIR SOURCE PAGES AND CORRECTED.** The **Pork batch was the weak one** — it worked from spreads photographed at 90° and got quantities and whole methods wrong: **[§7.96](#796-really-loaded-potato-canoes)** (2 potatoes not 3; the potatoes are foil-wrapped to 210°F, then crisped over direct heat), **[§7.97](#797-last-meal-ribs)** (MAKES 2; 11–13 bones; ½ tsp salt/lb; the printed sauce-quantity rule of thumb and the sizzle-the-sauce step, both missing), **[§7.98](#798-happy-mouth-yakitori-ribs)** (baby backs cut into individual bones, ½ cup sauce, no salt, no smoke wood, fork-twist doneness — the first version had invented a dry brine and a bend test), **[§7.99](#799-kermits-second-favorite-pork-chops)** (the missing Memphis Dust and Columbia Gold, and the whole paint-and-blacken finish), **[§7.100](#7100-pork-tenderloin-with-cowboy-java-rub)** (a hot direct fire lid-up, not a reverse sear), **[§7.101](#7101-sweet-and-sour-pork-tenderloin)** (no mango and no skewers in the source; the missing toasted cashews, chives, and NOTES restored), **[§7.102](#7102-pesto-crusted-pork-loin-roast)** (the missing [§4.103 Pork Brine Injection](#4103-pork-brine-injection) and the parchment-paper wrap — the broth is a finishing gravy, not a baste), **[§7.103](#7103-stuffed-pork-loin-roast)** (**the method was wrong**: the loin is unrolled into a ¾-inch slab, spread with **1 pound of bread stuffing** — omitted entirely — then rolled and tied; not tunneled), **[§7.104](#7104-smoked-bone-broth)** (**a salt error**: 1 teaspoon as printed, not 2 tablespoons — see [CLAUDE.md §6](CLAUDE.md); plus the missing button mushrooms and the correct 2-quart yield), and **[§7.105](#7105-momofuku-inspired-ramen-bowl)** (**3 lb pork shoulder *and* ¾ lb pork belly**, not belly alone; nori not kombu; the missing mushrooms). Elsewhere: **[§7.121](#7121-marinated-cornish-game-hens)** was missing **2 teaspoons chili powder** entirely and had garlic powder at 2 tsp instead of ½ tsp (the two printed lines had been merged); **[§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey)** was missing a whole printed step (at 150°F you tilt the bird, drain the cavity liquid into the gravy, and pull the gravy pan so dry heat crisps the underside) and told you to **tent and rest the bird when the source says the exact opposite** — *"Don't tent it and let it rest, so carryover cooking dries it out"*; **[§5.45 Grilled Romaine Salad](#545-grilled-romaine-salad)** was missing its **12–16 cherry tomatoes** and had the dressing at roughly a quarter of its printed volume; **[§5.44 Chipotle-Lime Corn](#544-chipotle-lime-corn-on-the-cob)** had been silently doubled to 4 ears; **[§5.46 Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush)** is peeled and cut into half-moons (not scored halves) with 1½ lb eggplant and 6 Tbsp oil; **[§5.41 Grilled Asparagus](#541-grilled-asparagus)** (serves 2; ¼ tsp salt, 1 Tbsp oil, 1¼ tsp rub); and smaller printed-quantity fixes at **[§5.40](#540-simple-grilled-crostini)**, **[§5.42](#542-grilled-cauliflower)**, **[§5.43](#543-the-ultimate-grilled-corn-on-the-cob)**, and **[§5.47](#547-smoked-potato-salad)**. Every corrected entry carries a dated ✅ note saying what changed. **VERIFIED COMPLETE, NO CHANGES NEEDED** — checked page by page against their sources and confirmed nothing was left behind: the whole **Seafood** batch ([§7.87](#787-smoked-salmon-mousse-canapés)–[§7.94](#794-gregs-grilled-lobster), including §7.88's Step 4, which does sit on the separate p. 326 and *was* captured, and §7.92, whose three printed steps are all there), the whole **Beef** batch ([§7.106](#7106-big-thick-steakhouse-steaks) — its Steps 6–8 continue onto p. 246 and were correctly carried over — plus [§7.107](#7107-skinny-steaks)–[§7.110](#7110-short-ribs-texas-style), [§7.112](#7112-texas-beef-brisket)–[§7.114](#7114-prime-rib) and [§4.133](#4133-beef-butter)), [§7.116](#7116-joes-fireproof-grilled-shrimp)/[§7.117](#7117-championship-bacon-wrapped-stuffed-shrimp), [§7.118](#7118-simon--garfunkel-chicken), [§7.120](#7120-blasphemy-buffalo-chicken-wings) (all 8 steps and its Notes), and [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans). **ALL NINE PREVIOUSLY-SKIPPED ITEMS RE-CHECKED AGAINST THE FULL INDEX AND ALL NINE CONFIRMED GENUINELY ABSENT — this is now "verified exhaustively," not "we may not have looked hard enough":** **Cornell Chicken** (book p. 299 is cropped past the right edge of the photo at index 33 — the ingredient list dies mid-line at "1 teaspoon Simon & G" and no steps are on the page at any index); **Piri Piri Chicken** (p. 302's left column *is* in the scan at index 35, but only 2–4 letters per line survive the crop — the MAKES/TAKES and marinade list are unreadable); **Rotisserie Chicken Provençal** (p. 305 appears at no index; only its headnote on p. 304 and its Steps 5–6 on p. 306 are present); **Sweet and Sour Coleslaw** (p. 362 appears once, at index 52, cropped at the right margin — quantities visible, ingredient names gone; no second photo of the page exists); **the untitled polenta recipe** (its tail is on p. 361 at index 53, but pp. 358–360 appear at no index); **A Better Italian Sausage Sandwich** (p. 277's headnote is at index 30; p. 278 appears nowhere); **Whole Hog Pig Pickin'** (p. 222's headnote is at index 15; p. 223 appears nowhere); **Wet-Cured Ham** (p. 217 is at index 13; pp. 218–219 appear nowhere). **The ninth item — the unidentified "S…S…" red title box at the edge of one photo — is now identified.** It sits on the facing page at file index 2, next to [§7.88](#788-smoked-trout-florida-mullet-style)'s Step 4, and is almost certainly **Schmancy Hot-Smoked Salmon**, the recipe that [§7.87](#787-smoked-salmon-mousse-canapés) and [§7.90](#790-smoked-salmon-quiche) both call for by name and cross-reference to book p. 326 — its two-line title breaks as SCHMANCY HOT- / SMOKED SALMON, matching the two visible S's. **Only about a centimetre of that page was captured**, so it stays undocumented; both recipes continue to point at "any good hot-smoked salmon" instead. **A tenth item surfaced during the audit and is named here rather than guessed at: a "PULLED CHICKEN" recipe also lives on the cropped book p. 299** (its Steps 2–4 are legible at index 34, but its title, MAKES/TAKES, ingredients, and Step 1 are past the edge of the photo) — so **p. 299 costs this cookbook two recipes, not one.** **Genuine gaps in the scan, by book page:** 218–219, 223–241, 266–267, 272–275, 278–293, 305, 314–319, 328, 334–340, 348–349, and 358–360; pp. 299, 302, 306, 326, 340 and 362 are present but cropped. **No salt amounts were altered from the source anywhere in this audit** — one was corrected *toward* the printed figure ([§7.104](#7104-smoked-bone-broth)). **No recipe was deleted.** TOC, the Techniques quick index, [§17 Meats & Cuts](#17-meats--cuts-reference-index), [§13 Meathead Cookbook](#13-meathead-cookbook), and the Difficulty & Time Index (re-sorted by prep + cook, with only the 18 changed or new rows moving) all updated. |
@@ -645,7 +646,7 @@ Click any recipe to jump straight to it.
 | 2026-09-05 | **Follow-up on the same-day salt correction below — refined the salt-free-rub warning and confirmed it's complete.** Per Cody: *"No salt rubs means no salt, it also means to remind them to make sure that you have salted it the night before and a dry brine or some other way."* The warning's wording on all eight salt-free rubs is now **"⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland,"** replacing the earlier "brine the meat first" phrasing that didn't call out the timing Cody actually wants emphasized. **Full audit of every rub recipe in §4** (not just this batch — §4.1 through §4.99 checked individually) to confirm no *other* salt-free rub was missing the warning: every rub predating this session's Meathead batch (Darcy's Steak Rub, Basic Barbecue Rub, Cajun Rub, Chinese Five-Spice Rub, Java Rub, Mucho Macho Pepper Rub, Mediterranean Herb Rub, Texas Chili Rub, Sesame Seasoning, Basic Fish Cure) already carries salt directly in its ingredient list, so none needed the callout. [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) also carries salt, via onion salt and garlic salt. [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought)/[§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning) are store-bought reference entries with no ingredient list, both explicitly salt-forward products, so out of scope. [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) is a single-ingredient aromatic spice component rather than a rub applied as the meat's primary seasoning, so it's treated the same way as buying plain garlic powder and left without the callout. **The eight rubs carrying the warning remain exactly [§4.106](#4106-big-bad-beef-rub), [§4.107](#4107-mrs-olearys-cow-crust), [§4.108](#4108-meatheads-memphis-dust), [§4.109](#4109-simon--garfunkel-rub), [§4.110](#4110-dollys-lamb-rub), [§4.111](#4111-mariettas-fish-rub), [§4.112](#4112-cajun-seasoning), and [§4.114](#4114-cowboy-java-rub)** — no new ones found. |
 | 2026-09-05 | **Correction to the same-day Meathead batch below — the salt increase landed on the wrong recipes.** Cody's actual instruction was that *brining* needs heavier salt than the book recommends; the earlier pass this morning misread that as a blanket instruction and bumped salt (or added it where the book had none) across all 27 of the batch's rubs and sauces, [§4.105](#4105-dalmatian-rub)–[§4.116](#4116-butcher-block-seasoning) and [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), each carrying a "Cody's Note" claiming the increase was a standing house preference. **Per Cody's explicit correction — *"I'm not asking you to salt the meathead rubs, I'm just saying the brining process needs heavier salt... this is in regards to meathead rubs only"*** — all 27 are reverted to the book's printed salt amounts: back to the original quantity where the book printed some salt ([§4.105](#4105-dalmatian-rub), [§4.113](#4113-citrus-salt-and-pepper), [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce), [§4.125](#4125-chocolate-chile-barbecue-sauce)–[§4.128](#4128-burger-glop), [§4.130](#4130-chimichurri-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)); the added salt line removed entirely where the book printed none ([§4.106](#4106-big-bad-beef-rub)–[§4.112](#4112-cajun-seasoning), [§4.114](#4114-cowboy-java-rub), [§4.121](#4121-texas-mop-sauce)–[§4.123](#4123-dc-mumbo-sauce)); and restored to the book's own "to taste"/"optional" phrasing rather than a forced quantity for [§4.124 Tartar Sauce](#4124-tartar-sauce) and [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce). [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning)'s salt note updated to match [§4.113](#4113-citrus-salt-and-pepper)'s reverted amount. **[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s "No Salt in Rubs" entry corrected to match** — it no longer claims this cookbook overrides the book's no-salt-in-rubs argument; that argument stands as printed, and Cody's heavier-salt preference is now correctly scoped to brining only. **The actual heavier-salt request went where it belonged instead: [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity)**, which the same earlier pass had left at the book's printed 6.3% on the theory that a calibrated salinity shouldn't be touched — salinity increased to about 9.5% (roughly 1.5×, still inside [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range), with the salt-per-gallon figure recalculated from ½ lb to ¾ lb and a new Cody's Note explaining the change. **[§4.101 Basic Brinerade](#4101-basic-brinerade) and [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the brine injections were already correct** — their earlier ~1.5× bumps are genuinely what Cody asked for and are left as-is. **Nutrition blocks are unaffected** — this cookbook's Nutrition tables track calories/fat/protein/carbs/fiber only, no sodium line, so none needed recalculating for a salt-only change. **A new bolded callout added to all eight now-salt-free rubs in this batch** — [§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub), [§4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust), [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust), [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub), [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub), [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub), [§4.112 Cajun Seasoning](#4112-cajun-seasoning), and [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) — warning that the meat needs a brine, preferably a dry brine, before the rub goes on or the dish will taste bland; per Cody's request. |
 | 2026-09-05 | **Second batch today: Meathead Goldwyn's "Brines, Rubs, and Sauces" chapter, plus more of "Software" and "Hardware" — condensed techniques and 33 full rub/brine/sauce recipes, all with salt increased per Cody's standing preference.** **Eight new condensed technique entries, [§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)**, continuing the T33–T45 style: freezing/reheating leftovers (sous vide reheat is the best method, per [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method)'s own equipment); cooking vegetables and fruits, including reverse-searing dense ones the same way [§T41](#t41-reverse-sear--two-stage-cooking) reverse-sears meat; basting and spritzing, plus the real explanation for salmon's white ooze (albumin, not myowater — a genuinely different phenomenon from [§T36](#t36-what-meat-actually-is--composition-connective-tissue-and-buying-it-right)'s myowater-not-blood myth-bust); the "lookin' ain't cookin'" lid myth, busted as wildly overstated for a quick peek but real for extended lid-open time; saucing strategy (when to add a sweet sauce so it doesn't scorch, plus sauce food-safety and storage); cooking more than one large cut at once (thickness still governs per [§T42](#t42-what-controls-cooking-time), crowding and airflow are the real risk); water pans and drip pans from the "Hardware" chapter; and the science of a good rub — the Three S's (sugar, savory, spicy), plus the book's own **"No Salt in Rubs"** argument, which turns out to be the same idea as this cookbook's existing [§T37 double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) — already this cookbook's standing practice, just now with the book's own four stated reasons attached. **33 new full recipes, [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis)**, landing in §4 rather than the still-placeholder [§13 Meathead Cookbook](#13-meathead-cookbook) per Cody's explicit instruction: **three wet-brine/injection recipes** ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) Simple Blonder Wet Brine, [§4.101](#4101-basic-brinerade) Basic Brinerade, [§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection) the chicken/turkey, pork, and beef/venison injection brines); **twelve rubs and dry seasonings** ([§4.105](#4105-dalmatian-rub) Dalmatian Rub through [§4.116](#4116-butcher-block-seasoning) Butcher Block Seasoning, including [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder) Smoked Garlic/Onion Powder — genuinely Slow Cook, smoker plus dehydrator); and **eighteen sauces, mops, and condiments** ([§4.117](#4117-kansas-city-classic-barbecue-sauce) Kansas City Classic Barbecue Sauce through [§4.132](#4132-roasted-red-pepper-and-garlic-coulis) Roasted Red Pepper and Garlic Coulis), including [§4.127](#4127-cascabel-mole-inspired-by-chef-rick-bayless) Cascabel Mole — rated 🟡 Medium, the only non-Easy entry in the batch, for its real chile/nut/seed scorch risk. **Every rub, brine, and sauce in the batch got Cody's standing salt increase** — roughly 1.5–2× wherever the book already printed some salt, or a new 1 tsp–1 Tbsp addition (scaled to batch size) wherever the book printed none at all, per its own "No Salt in Rubs" philosophy — with each recipe individually flagging its specific printed-vs-changed amount and a note that these are adjustable starting points, not fixed numbers. **Two deliberate exceptions, both flagged in place:** [§4.100 the Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) keeps its calibrated 6.3% salinity as printed rather than getting stronger (that percentage *is* the method), and the three brine-injection recipes ([§4.102](#4102-chicken-or-turkey-brine-injection)–[§4.104](#4104-beef-or-venison-brine-injection)) got a lighter 1.5× bump rather than 2×, since injected salt reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit. **Two gaps in the source scan, flagged rather than guessed past:** the book's printed pages 174–175 (the title and first ingredients of [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce)) and pages 182–183 (all of Alabama White Sauce's actual ingredient list, and the very end of the Japanese Happy Mouth Yakitori Sauce headnote, whose own ingredient box falls on the still-uncaptured page 192) weren't in the photographed set — both recipes' titles and context are noted, but neither was added with invented quantities. A teriyaki/huli-huli marinade on the book's page 184 was also left out as out of scope — it's built to accompany a specific chicken recipe this cookbook hasn't documented yet, not a standalone condiment. **Cross-references added throughout** to this cookbook's existing similar-themed entries — the three other Carolina-style vinegar sauces, the existing Carolina Mustard Barbecue Sauce, two existing barbecue mop sauces, the existing Cajun Rub, three existing chimichurris, and the existing simpler Pesto — following the same "(distinct from §X — see comparison)" convention this cookbook already uses for its other multi-source duplicates. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record where the actual recipes landed. TOC and Difficulty & Time Index updated throughout — **32 of the 33 new recipes are 🟢 Easy**, mostly 2–20 minutes of prep with little or no real cooking, so most sort near the top of the Difficulty & Time Index. **⚠️ Flag for a future pass:** the "Reading this table" and "Reading this index" narrative sections below (§4's rub/sauce count, the "30 minutes or less" tally, hard-recipe counts) predate this batch and haven't been recomputed against the new totals — the counts there are now stale by roughly 33 recipes and should get a fresh pass next time anyone's doing index maintenance. |
-| 2026-09-05 | **11 new recipes from a photographed book, *Champions of Sous Vide* — every one built around a sous vide step, added per the house rule that sous vide time (at any length) is its own Slow cook column, never Cook.** Nine land in **[§7 Mains & Proteins](#7-mains--proteins)** as [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) (Jason Logsdon), [§7.79 Short Rib Ragù](#779-short-rib-ragù) (Erika Turk — ⚠️ instructions reconstructed from a rotated photo, and the ingredient list is missing a celery quantity the instructions call for), [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) (Mike La Charite), [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) (Steve Baytal — ⚠️ small print, some quantities and the plating description are approximate), [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) (Stefan Boer — ⚠️ heavy uncertainty, photographed sideways with small print; **distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the existing Canal House stovetop version), [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) (Jason Logsdon), [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) (Mike La Charite), [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) (Cole Wagoner, Anova Culinary), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) (Stefan Boer — ⚠️ small print, uses transglutaminase to bind the sliced tentacles into a "sausage"). **[§5.39 Fennel Fondant](#539-fennel-fondant)** (Stefan Boer) joins Vegetables & Sides — ⚠️ the source photo was partly obscured by hand/page angle, so the ingredient list may be incomplete. **[§14.20 Cream Caramel](#1420-cream-caramel)** (Dale Prentice, Sous Vide Australia) joins Desserts — ⚠️ small dense print, the custard's sugar quantity is a best-guess transcription. **Contributors credited individually per the source**, same pattern as this cookbook's *Talk About Good!* attributions. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new boar, short rib, hanger steak, and chicken cuts. None of the 11 print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists. TOC and Difficulty & Time Index updated throughout. |
+| 2026-09-05 | **11 new recipes from a photographed book, *Champions of Sous Vide* — every one built around a sous vide step, added per the house rule that sous vide time (at any length) is its own Slow cook column, never Cook.** Nine land in **[§7 Mains & Proteins](#7-mains--proteins)** as [§7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) (Jason Logsdon), [§7.79 Short Rib Ragù](#779-short-rib-ragù) (Erika Turk, *Culinary Focus* and The Spice Guild LLC — **corrected 2026-09-06**; the original entry gave the affiliation as "Culinary Pieces," flagged the instructions as reconstructed, and claimed celery had no printed quantity, all three wrong), [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) (Mike La Charite), [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) (**Steve Roybal, Roybal Supper Club** — the original entry credited this to a misread "Steve Baytal, Bayhat Pepper Club"; corrected 2026-09-06 along with the bath temperature and five quantities), [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) (Stefan Boer — the original entry's heavy-uncertainty flag was retired 2026-09-06 and its missing prosciutto and 2 tsp of salt recovered; **distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the existing Canal House stovetop version), [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) (Jason Logsdon), [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) (Mike La Charite), [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) (Cole Wagoner, Anova Culinary), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) (Stefan Boer — uses transglutaminase to bind the sliced tentacles into a "sausage"; temperature, serving count and three quantities corrected 2026-09-06). **[§5.39 Fennel Fondant](#539-fennel-fondant)** (Stefan Boer) joins Vegetables & Sides — the "ingredient list may be incomplete" flag was retired 2026-09-06; the source prints three ingredients and only three. **[§14.20 Cream Caramel](#1420-cream-caramel)** (Dale Prentice, Sous Vide Australia) joins Desserts — ⚠️ **every quantity in this one was corrected 2026-09-06**, including a caramel-sugar figure that was three times what the page prints. **Contributors credited individually per the source**, same pattern as this cookbook's *Talk About Good!* attributions. **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** with the new boar, short rib, hanger steak, and chicken cuts. None of the 11 print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists. TOC and Difficulty & Time Index updated throughout. |
 | 2026-08-19 | **New top-level section: [§17 Meats & Cuts (Reference Index)](#17-meats--cuts-reference-index)**, per Cody: *"the cookbook should have a meats section with different cuts and methods of cooking being organized in that way."* Not a recipe — a cross-reference index, organized by protein (Beef, Pork, Poultry, Venison/Game, Veal, Lamb), listing every cut already used anywhere in this cookbook alongside the recipe (or placeholder) that covers it and its cooking method. Built from a full audit of the cookbook rather than guessed at: **13 beef cuts**, from chuck roast and oxtail through flank steak and ground beef; **7 pork cuts**, shoulder through chops; **8 poultry categories**, whole birds through hearts and livers; venison stew meat and ground venison; a veal cross-link; and **lamb flagged honestly as empty** — every "lamb" mention elsewhere in the book turned out to be a pairing suggestion from a source's own text, not an actual lamb recipe here, so that row is left ready rather than padded. Cross-links [§T36 What Meat Actually Is](#t36-what-meat-actually-is--composition-connective-tissue-and-buying-it-right) (why the cut determines the method) and [§T44's target temperature table](#t44-food-safety--the-real-logic-and-the-target-temperature-table) (doneness by cut) at the top, and carries its own standing instruction to add a line here whenever a new meat recipe or placeholder is added anywhere else in the cookbook. |
 | 2026-08-19 | **Added [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust)**, sourced from Judy Kim (judykim.nyc) — a food-processor dough built on both butter and shortening, with vodka standing in for some of the ice water since it doesn't develop gluten the way water does. **Distinct from [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)**, the classic hand-laminated method already in this cookbook. **Cody's own modification recorded in place:** thick, coarse sea salt instead of any flaky finishing salt, with room to add a bit more for a saltier crust — the source itself doesn't call for a flaky-salt finish at all, so this is flagged as Cody's preference for whenever this crust gets salted, not a literal swap from the recipe as printed. The source's decorative-pie notes (pie cutters, frozen cutout shapes, skipping blind-baking on a baking steel) are kept as a callout rather than dropped. **Also clarified [§8.1 Chili Mac](#81-chili-mac)'s naming, per Cody:** *"chili can stand alone, but chili mac is its own thing that includes chili"* — the entry's intro now states that distinction directly rather than just asserting the rename. |
 | 2026-08-19 | **A large batch from Cody's recipe/grocery spreadsheet — corrections, discrepancy checks, and new entries, all in one pass.** **Corrections to existing entries:** [§16.1 Hot Apple Cider](#161-hot-apple-cider) was missing its own apple cider — a full gallon (**Musselman's Fresh Pressed** specifically, per Cody, to balance the sweetness) added and the yield/nutrition recalculated from 3 to about 7 quarts; [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) corrected from generic "pork sausage" to **sage sausage**; [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) rescaled 1.5× (8 oz pasta → 12 oz) with bacon bits substituted for sliced bacon, both straight from Cody's own card notes; [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) finally got real quantities and resolved both of its long-standing Open Questions (no amounts given; when the whipping cream goes in) — it also turned out to use **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)**, now cross-linked. **[§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) filled in** from a card whose own title field was left as the template default — content matched this placeholder unmistakably; carries its own warning that cabbage is deliberately never boiled with the beef. **Three cards checked against existing entries and found to already match exactly, so nothing changed:** [§7.15 Pauls Jambalaya](#715-pauls-jambalaya), [§7.16 Red Beans & Rice](#716-red-beans--rice), and [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) — good confirmation that this cookbook's earlier transcriptions of Cody's cards were accurate the first time. **[§8.1 Chili renamed to §8.1 Chili Mac](#81-chili-mac)**, per Cody — noodles are baked into the ingredient list, so it's not a plain chili; all 8 cross-references to the old anchor updated, and [§8.21 Five-Way Chili](#821-five-way-chili)'s standing speculation about whether it was the same dish as §8.1 is now resolved (no — genuinely separate, still undocumented). **Nine brand-new entries:** [§5.35 Cole Slaw](#535-cole-slaw) (mayo-based, distinct from [§5.13](#513-north-carolina-coleslaw)), [§5.36 Lemon Green Beans](#536-lemon-green-beans), [§5.37 Mamma's Spinach](#537-mammas-spinach), [§5.38 Roasted Veggies](#538-roasted-veggies) (a deliberately loose "wing it" formula), [§8.32 Potato Soup](#832-potato-soup), [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew), [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder), [§8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot), [§9.29 Deer Jerky](#929-deer-jerky) (the same seasoning system as [§9.6](#96-beef-jerky), which also resolved §9.6's forming-method Open Question — "squeeze on dehydrator" confirms a jerky gun), [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) (Cody's own French-bread spin, distinct from the round-loaf [§9.22](#922-tailgate-muffuletta-sandwich)), [§9.31 Quesadillas](#931-quesadillas) (kid-friendly, per Cody), and [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) (❤️ — *"flat out rocks with steak"*). **Two placeholders added deliberately incomplete, per Cody's explicit instruction:** [§7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) records only the cut of meat — the marinade-and-broil method on the same card was intentionally left out so Cody's own method can go in later instead — and [§8.36 Chili Dogs](#836-chili-dogs), the other named use for Chili Mac. **Two cards had no cooking directions at all** ([§8.32 Potato Soup](#832-potato-soup), [§9.31 Quesadillas](#931-quesadillas)) and are flagged with the same ⚠️ standard-method treatment established for [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters). TOC, Difficulty & Time Index, and cross-links updated throughout. |
@@ -1025,7 +1026,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | 🟢 | 10 min | 10 min | **48–72 hr** *(sous vide, unattended)* | 48 hr 20 min – 72 hr 20 min |
-| [§14.20 Cream Caramel](#1420-cream-caramel) | 🔴 | 10 min | 10 min | **40 min** *(sous vide)* | ~1 hr active *(plus overnight caramel-dissolve + 4–6 hr chill before serving — not active work)* |
+| [§14.20 Cream Caramel](#1420-cream-caramel) | 🔴 | 10 min | 10 min | **40 min** *(sous vide)* | ~1 hr active *(plus an overnight fridge rest so the caramel dissolves into sauce — not active work)* |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.41 Grilled Asparagus](#541-grilled-asparagus) *(Meathead)* | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.47 Smoked Potato Salad](#547-smoked-potato-salad) *(Meathead)* | 🟢 | 20 min | — | **45 min** *(smoker, unattended)* | ~3 hr *(includes at least 2 hr chilling, overnight is better)* |
@@ -16924,7 +16925,7 @@ Based on that comparison — a vegetable-grilling sidebar warns that "many veget
 <!-- TECHNIQUE-TAGS: meathead, meathead-method, scallops, seafood, buying-guide, dry-scallops, wet-scallops -->
 **Tags:** `meathead` · `meathead-method` · `scallops` · `seafood` · `buying-guide` · `dry-scallops` · `wet-scallops`
 **Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafood" chapter (book p. 318), the buying-guide sidebar alongside [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce).
-**Used in:** [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce); also relevant to this cookbook's existing [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction), which already calls for "dry sea scallops" by name.
+**Used in:** [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce); also relevant to this cookbook's existing [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction), which calls for **"large day boat scallops"** by name — *(corrected 2026-09-06: that entry previously read "dry sea scallops," a misreading of its source page. "Day boat" is one of the six terms defined below, and it's a different claim from "dry" — see the entries for each.)*
 
 Six terms worth knowing when buying scallops:
 
@@ -19030,11 +19031,11 @@ This is a "wing it" formula with no fixed vegetables or amounts, so there's no s
 
 ### 5.39 Fennel Fondant
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (page number not visible in the photo), recipe by **Stefan Boer**, *StefanGourmet.com*.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (page number verified absent — the page's footer is cropped past the bottom edge of the photograph; see Open Questions), recipe by **Stefan Boer**, *StefanGourmet.com*.
 
-> **Per the source:** *"After the success of parsnip sous vide fondant, I decided to prepare more vegetables this way. My next experiment was with fennel, and it turned out great. The nice thing about parcooking the fennel sous vide is that the fennel becomes tender but stays firm at the same time, which gives a pleasant bite. You can make a vegetarian version by using vegetable stock instead of chicken stock."*
+> **Per the source:** *"After the success of parsnip sous vide fondant, I decided to prepare more vegetables this way. My next experiment was with fennel, and it turned out great. The recipe is very simple and very tasty. The nice thing about parcooking the fennel sous vide is that the fennel becomes tender but stays firm at the same time, which gives it a pleasant bite. You can make a vegetarian version by using vegetable stock instead of chicken stock."*
 
-> ⚠️ **The ingredient list may be incomplete.** The source photo was partly obscured — a finger or the page angle blocked part of the ingredient column — so only three ingredient lines could be confirmed with confidence. If Cody has the physical book, it's worth checking whether anything else belongs on this list.
+> ✅ **The "ingredient list may be incomplete" flag is RETIRED — the list was right all along** *(2026-09-06 source audit)*. Re-read at full resolution, the source's ingredient column is fully legible and prints exactly three lines: fennel, reduced stock, and clarified butter or olive oil. Nothing is missing and nothing was obscured in that column. The only thing a finger actually covers on this page is a short span inside one sentence of the browning step — see Step 5 below.
 
 *Cooks: 185°F (85°C) for 45 minutes • Serves: 4*
 
@@ -19046,7 +19047,7 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (page numbe
 - Chicken stock or vegetable stock, simmered down to ¼ of its original volume — about 2 Tbsp per fennel bulb
 - Clarified butter or olive oil, for browning
 
-*⚠️ As transcribed — see the note above on a possibly-incomplete list.*
+*Exactly as printed — the source's list is three lines long, confirmed by the 2026-09-06 audit.*
 
 #### B. Cooking Instructions
 
@@ -19065,8 +19066,8 @@ Pour the liquid from the bag into a bowl and set it aside — it's the base for 
 **5. Brown the fennel hard in a hot pan.**
 Heat clarified butter or olive oil in a frying pan over high heat and brown the fennel quickly on the cut sides.
 
-**6. Add the reduced stock back in and cook down to a syrup.** ⚠️ *(reasonable reconstruction — the source photo was obscured by a hand at exactly this point in the instructions)*
-Pour the reserved liquid from the bag back into the pan and cook, turning and basting the fennel in it, until the juices reduce to a syrup that coats the pieces.
+**6. Add the reserved liquid back in and cook the juices down to a sauce.**
+Pour the liquid from the bag back into the pan and cook, turning and basting the fennel in it, until the juices reduce to a sauce that coats the pieces. *(The source's own sentence here is the one place on this page a finger covers the print — three short spans, each a few words long. The sentence is unambiguous around them; nothing about the technique or an amount is in doubt.)*
 
 **7. Serve with the sauce spooned over.**
 
@@ -19089,9 +19090,9 @@ Pour the reserved liquid from the bag back into the pan and cook, turning and ba
 
 #### D. Open Questions
 
-- **The ingredient list may be incomplete.** The source photo was partly obscured (a finger or the page angle blocked part of the column), so only fennel, stock, and clarified butter/olive oil could be confirmed. Worth checking against the physical book.
-- **The step where the reduced stock goes back into the pan is a reasonable reconstruction, not a certain transcription** — the source photo was obscured by a hand at exactly that point.
-- **Source page number not visible in the photo.**
+- ✅ **The "incomplete ingredient list" flag is retired** *(2026-09-06 audit)*. The source prints three ingredients and only three; the entry above is complete as written.
+- **A finger covers three short spans inside one sentence of the browning step** — physically unrecoverable from this photograph, but the sentence reads unambiguously around them ("Heat some clarified butter or olive oil in a f… and quickly brown the fennel over high heat. Add t… the bag. Cook until the juices have reduced to a s…, turning and basting the fennel in the sauce"). No quantity, temperature, or technique is in doubt.
+- **The source page number is verified absent from the scan**, not merely unread: this page's footer sits below the bottom edge of the photograph. Nothing else in the 11-page scan carries it. *(The facing page in the same photo belongs to a different, later recipe — its own ingredient column is cropped to one or two characters per line and is not recoverable; it is not part of this entry.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -26883,9 +26884,11 @@ Put the boar tenderloin on a plate, top with the cherry chutney, and sprinkle wi
 
 ### 7.79 Short Rib Ragù
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 47, Beef and Veal section), recipe by **Erika Turk**, *Culinary Pieces* and *The Spice Guild LLC*.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 46–47, Beef and Veal section), recipe by **Erika Turk**, *Culinary Focus* and *The Spice Guild LLC*.
 
-> ⚠️ **This page was photographed sideways.** The instruction order below is reconstructed from a rotated image — a reasonable reading, not a certain transcription. Verify against the physical book if the exact step order matters.
+> ✅ **The "photographed sideways, reconstructed" flag is RETIRED** *(2026-09-06 source audit)*. The page is rotated 90° in the scan, not illegible — rotated back and read at full resolution it is completely clear, and the step order below is now transcribed rather than reconstructed.
+>
+> ⚠️ **But the first pass got real things wrong, so re-read this entry if you cooked the earlier version.** Against the printed page: the searing fat is **3 tablespoons**, not 1; the ribs are **3½ lb (1,575 g)**, not 4 lb; **celery is printed with a quantity — 2 stalks** (the old "quantity not printed" flag was unfounded); garlic is **4 cloves**, not 2; tomato paste is **¼ cup**, not ½; and **2 Tbsp neutral oil for the sauce and 2 sprigs of fresh rosemary were missing from the ingredient list entirely.** On the method side, the old Step 6 fused two separate steps: the flour-and-tomato-paste cook is **2–3 minutes**, and it is the **wine** that reduces by half over 10–15 minutes. The contributor's affiliation was also wrong — *Culinary Focus*, not "Culinary Pieces."
 
 *Cooks: 170°F (76.7°C) for 24 to 30 hours • Serves: 2 to 4*
 
@@ -26897,24 +26900,26 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 47, Bee
 
 **For the Sous Vide Short Ribs**
 
-- 1 Tbsp beef tallow or bacon oil
-- 4 lb bone-in short ribs (1.8 kg)
+- 3 Tbsp beef tallow, or a neutral oil
+- 3½ lb bone-in short ribs (1,575 g)
 - Salt & pepper, to taste
-- ½ cup dry red wine or beef stock (125 g)
+- ½ cup dry red wine or beef stock
 
 **For the Sauce**
 
 - 4 carrots
+- 2 stalks celery
 - 1 onion, medium
 - 2 shallots
-- ⚠️ celery *(quantity not printed — see Open Questions)*
-- 2 cloves garlic, finely minced
+- 2 Tbsp neutral oil
+- 4 cloves garlic, finely minced
 - 1 Tbsp all-purpose flour
-- ½ cup tomato paste
+- ¼ cup tomato paste
 - 2½ cups dry red wine
-- 1 dried bay leaf
-- 5 sprigs fresh thyme
-- 3½ cups beef stock or broth
+- 1 bay leaf, dried
+- 2 sprigs rosemary, fresh
+- 5 sprigs thyme, fresh
+- 3½ cups beef stock, broth, or bone broth
 - Salt & pepper
 
 **To Finish**
@@ -26926,7 +26931,7 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 47, Bee
 #### B. Cooking Instructions
 
 **1. Sear the short ribs in batches, then bag with the reduced wine.**
-Preheat the sous vide bath to 170°F (76.7°C). Heat the tallow or bacon oil in a Dutch oven over medium-high heat. Season the short ribs liberally with salt and pepper. Sear them in stages — don't crowd the pan — just until deeply browned on one side. Set the ribs aside, then add the red wine to the same pot and scrape up the browned bits with a wooden spoon. Bag the ribs with the reduced wine and pan drippings, seal, and set aside for the bath.
+Preheat the sous vide bath to 170°F (76.7°C). Heat the 3 Tbsp of tallow or neutral oil in a Dutch oven or other large pot over medium-high heat. Season the short ribs liberally with salt and pepper. Once the pan is hot, sear them in stages — don't crowd the pan — just until deeply browned on **one** side. Set the ribs aside, then add the red wine to the same pot and cook until the alcohol smell has dissipated, scraping the bottom with a wooden spoon to loosen any stuck-on bits. Bag the ribs with the reduced wine and pan drippings, seal, and set aside for the bath.
 
 **2. Sous vide at 170°F (76.7°C) for 24 to 30 hours.**
 Hands-off once it's in the water.
@@ -26938,36 +26943,39 @@ Remove the ribs from the bag, pull the meat off the bones, and shred it. Set the
 Combine the carrots, celery, onion, and shallots in a food processor and process until very finely minced.
 
 **5. Cook the vegetable mixture down. 10 to 15 minutes.**
-In a Dutch oven over medium heat, add oil, the processed vegetables, and the garlic. Cook, **stirring frequently**, until the vegetables have softened and reduced.
+In a Dutch oven over medium heat, add the 2 Tbsp neutral oil, the processed vegetables, and the garlic. Cook, **stirring frequently**, until the vegetables have softened and reduced.
 
-**6. Add the flour and tomato paste, and reduce by half. 10 to 15 minutes.**
-Stir the flour and tomato paste in until fully combined, then let it cook, stirring frequently, until reduced by half.
+**6. Stir in the flour and tomato paste. 2 to 3 minutes.**
+Stir them in until fully combined and let the mixture cook, stirring frequently — this is a short step, just long enough to cook the raw edge off the flour and the paste.
 
-**7. Build and thicken the sauce.**
-Add the bay leaf, thyme, red wine, and beef stock, and cook over medium-high heat, stirring frequently, until the sauce thickens and the shredded ribs are fully stirred through. Season to taste with salt and pepper.
+**7. Add the red wine and reduce it by half. 10 to 15 minutes.**
+Pour in the 2½ cups of wine and let it cook down, stirring frequently, until reduced by half.
 
-**8. Serve over pasta or gnocchi.**
+**8. Add the aromatics, stock, and shredded meat, and thicken. About 20 minutes.**
+Add the bay leaf, rosemary, thyme, beef broth, and the shredded sous vide short ribs. Cook over medium-high heat, stirring frequently, until the sauce thickens and the ribs shred further into it. Season to taste with salt and pepper.
+
+**9. Serve over pasta or gnocchi.**
 Top with grated pecorino romano and fresh basil.
 
 #### C. Grocery Shopping List
 
 **🏪 Specific store — butcher**
 
-- 🏪 Bone-in short ribs — 4 lb
+- 🏪 Bone-in short ribs — 3½ lb (1,575 g)
 
 **🛒 General grocery**
 
-- 🛒 Beef tallow or bacon oil
+- 🛒 Beef tallow, or a neutral oil — 3 Tbsp for searing, plus 2 Tbsp neutral oil for the sauce
 - 🛒 Carrots — 4
+- 🛒 Celery — 2 stalks
 - 🛒 Onion — 1 medium
 - 🛒 Shallots — 2
-- 🛒 Celery — amount not printed; buy a bunch to be safe (see Open Questions)
-- 🛒 Garlic — 2 cloves
+- 🛒 Garlic — 4 cloves
 - 🛒 All-purpose flour
-- 🛒 Tomato paste
+- 🛒 Tomato paste — ¼ cup
 - 🛒 Dry red wine — 3 cups total *(½ cup for the bag, 2½ cups for the sauce)*
-- 🛒 Bay leaf, fresh thyme
-- 🛒 Beef stock or broth — 3½ cups
+- 🛒 Bay leaf; fresh rosemary — 2 sprigs; fresh thyme — 5 sprigs
+- 🛒 Beef stock, broth, or bone broth — 3½ cups
 - 🛒 Pasta or gnocchi — 1 lb
 - 🛒 Pecorino romano cheese
 - 🛒 Fresh basil
@@ -26976,17 +26984,17 @@ Top with grated pecorino romano and fresh basil.
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~4,600 | 190 g | 230 g | 390 g | 20 g |
-| **Per serving** *(serves 4)* | ~1,150 | 48 g | 58 g | 98 g | 5 g |
+| **Whole dish** | ~4,400 | 180 g | 220 g | 385 g | 22 g |
+| **Per serving** *(serves 4)* | ~1,100 | 45 g | 55 g | 96 g | 5.5 g |
 
 **What a serving is:** a hearty bowl — about 1 cup of pasta with a generous ladle of shredded short rib ragù and grated pecorino.
 
-*A rich, restaurant-portion number, and honestly so — 4 lb of bone-in short ribs plus a full pound of pasta split 4 ways is a substantial dinner. If splitting between only 2 people (the low end of the source's own "serves 2 to 4"), roughly double the per-serving figures above.*
+*A rich, restaurant-portion number, and honestly so — 3½ lb of bone-in short ribs plus a full pound of pasta split 4 ways is a substantial dinner. If splitting between only 2 people (the low end of the source's own "serves 2 to 4"), roughly double the per-serving figures above. Recalculated 2026-09-06 for the corrected rib weight and the ¼-cup tomato paste.*
 
 #### D. Open Questions
 
-- **Celery is missing a quantity.** The instructions call for combining "carrots, celery, onion, and shallots" in the food processor, but celery never appears in the printed Sauce ingredient list. Rather than invent an amount, the grocery list above just flags it — a couple of ribs is the reasonable amount to match the other aromatics.
-- **The instructions were reconstructed from a sideways photo.** The step order above is a reasonable reading, not a certain transcription — verify against the physical book if precision matters.
+- ✅ **The "celery has no printed quantity" flag is retired — it was unfounded.** The source's own Sauce list prints **2 stalks celery**, right between the carrots and the onion; the first pass simply missed the line on the rotated page.
+- ✅ **The "reconstructed from a sideways photo" flag is retired.** The page is rotated in the scan, not unreadable; rotated back it is fully legible, and the step order above is now transcribed directly. Several ingredient amounts and one method step turned out to be *wrong*, not merely uncertain — see the correction note at the top of this entry.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -27082,13 +27090,15 @@ Move the fried chicken to a wire rack to drain, then serve.
 
 ### 7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (page number not clearly legible in the photo — the footer showed only a partial "…08" or similar; see Open Questions), recipe by **Steve Baytal**, *Bayhat Pepper Club*.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 128–129, Fish and Seafood section), recipe by **Steve Roybal**, *Roybal Supper Club*.
 
-> **Per the source:** *"This is not a main course dish but a relatively easy appetizer to make that really steals the show. Because you sous vide the scallops without worrying about precise cook time and 'quick pickle' the veggies, you can focus on achieving the right consistency for your reduction sauce while everything else just hangs out. I purposely designed this dish to look and taste great with minimal effort so you can pull off whatever your main course is. Enjoy!"*
+> **Per the source:** *"This is not a main course dish but is a relatively easy appetizer to make that really steals the show. Because you sous vide the scallops without worrying about precise cook time and you 'quick pickle' the veggies, you can focus on achieving the right consistency for your reduction sauce while everything else just hangs out. I purposely designed this dish to look and taste great with minimal effort so you can still pull off whatever your main course is. Enjoy!"*
 
-> ⚠️ **Small print, some uncertainty.** The pickling-liquid quantities and the final plating paragraph are transcribed in good faith but aren't fully certain — see Open Questions.
+> ⚠️ **This entry was substantially wrong and has been corrected — re-read it if you made the earlier version** *(2026-09-06 source audit)*. Against the printed page: **the contributor is Steve Roybal of the Roybal Supper Club**, not "Steve Baytal, Bayhat Pepper Club"; the **bath is 125°F (52°C)**, not 122°F; the scallops are **3–5 large *day boat* scallops per serving** — 12 to 20 for the four appetizer servings — not a flat 12 "dry sea" scallops; and **four pickling and reduction quantities were each half of what the source prints** — water **½ cup** (was ¼), rice wine vinegar **½ cup** (was ¼), red wine **½ cup** (was ¼) — while the **salt went the other way and was double: the source prints 1 tablespoon, not 2.** The source page is also now pinned down as p. 128–129.
+>
+> ✅ **The "small print, some uncertainty" hedge is retired.** The page is small-print but fully legible at full resolution; the plating paragraph below is now transcribed rather than approximated.
 
-*Cooks: 122°F (52°C) for 30 minutes • Serves: 4, as an appetizer*
+*Cooks: 125°F (52°C) for 30 minutes • Serves: 4 as an appetizer*
 
 **🟢 Easy** · **Prep ~15 min** *(slicing vegetables, mixing the pickle liquid, vacuum sealing the scallops)* · **Cook ~15 min** *(reducing the pomegranate sauce, then a quick sear)* · **Slow cook 30 min** *(sous vide, unattended)* · **Start to finish ~1 hr**
 
@@ -27096,84 +27106,89 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (page numbe
 
 #### A. Ingredients
 
-- 12 large dry sea scallops ⚠️ *(quantity as printed — see Open Questions on "per serving" wording)*
+**For the Scallops**
+
+- 3–5 large **day boat** scallops **per serving** *(as printed — 12 to 20 total for the four appetizer servings)*
+
+> **"Day boat," explained.** It describes how the scallops were landed, not what species they are: a day boat goes out and comes back the same day, so its catch reaches the counter within hours rather than after days at sea. It's a freshness claim. It is **not** the same as "dry" (a separate claim about whether the scallops were soaked in a phosphate solution) — this cookbook's [§T101 Buying Scallops](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) lays out all six of the terms you'll see at a fish counter, and dry is the one worth insisting on for a hard sear.
 
 **For the Pickled Vegetables**
 
 - ½ cup mirin *(substitute 1 Tbsp sugar if you don't have mirin)*
-- ¼ cup water
-- 2 Tbsp salt
-- ¼ cup rice vinegar
+- ½ cup water
+- 1 Tbsp salt
+- ½ cup rice wine vinegar
 - 1 cucumber
 - 1 watermelon radish
 
 **For the Pomegranate Reduction**
 
 - 2 cups pomegranate juice
-- ¼ cup red wine, such as Cabernet Sauvignon
+- ½ cup red wine *(the source likes Cabernet Sauvignon)*
 - 1 Tbsp honey
 
 **To Finish**
 
 - 2 Tbsp avocado oil, for searing
 - 1 Tbsp butter
-- Pomegranate seeds and micro greens or radish, for garnish
+- Pomegranate seeds and micro radish, for garnish
 
 #### B. Cooking Instructions
 
-**1. Bag and sous vide the scallops at 122°F (52°C) for at least 30 minutes.**
-Vacuum seal the scallops, or bag them in a zip-top bag and use the water-displacement method. Submerge in the bath. *(The source's own point: this doesn't have to be exact — the scallops hold well past 30 minutes if the sauce below needs more time.)*
+**1. Bag and sous vide the scallops at 125°F (52°C) for at least 30 minutes.**
+Set the precision cooker to 125°F (52°C). Vacuum seal the scallops, or bag them in a zip-top bag and use the water-displacement method to submerge them. *(The source's own point: this doesn't have to be exact — the scallops hold well past 30 minutes if the sauce below needs more time.)*
 
 **2. Quick-pickle the vegetables. No refrigeration needed.**
-Combine the mirin, water, salt, and rice vinegar in a bowl and microwave for 1 minute, until the salt fully dissolves. Slice the cucumber and watermelon radish very thin on a mandolin — slice a few extra pieces so you have your pick for plating. Add them to the pickling liquid and cover the bowl; leave it at room temperature.
+Combine the mirin, water, salt, and rice wine vinegar in a bowl and microwave the mixture for 1 minute, stirring when it's done to dissolve the salt. Using a mandolin set to its thinnest setting, slice several pieces of cucumber lengthwise and several slices of watermelon radish — **slice more than you need**, since they sometimes come off the blade slightly differently and you'll want to pick the best ones for the plate. Put the slices in the pickling liquid, making sure they're submerged, and cover the bowl. **Do not refrigerate.**
 
 **3. Reduce the pomegranate sauce to a syrup.**
 Combine the pomegranate juice, red wine, and honey in a wide pan (more surface area reduces faster) over the highest heat. Let it reduce until it thickens to a syrup. *(This tends to finish around the same time as the scallops — if it runs long, that's fine; see the note above.)* Once it's at the right consistency, drop the heat to low.
 
-**4. Sear the scallops hard, basting in butter.**
-Remove the scallops from the bath and pat them very dry. Heat the avocado oil in a searing pan over the highest heat and sear the scallops about 30 seconds per side, adding the butter partway through and basting. Remove and salt to taste.
+**4. Sear the scallops hard, then flip them back through the browned butter.**
+Heat the avocado oil in a searing pan of your choice (the source uses stainless steel) on the highest setting until it just starts to smoke. Remove the scallops from the bath, pat them **very** dry, and sear about **30 seconds**. Flip them and add the butter to the pan, searing **30 seconds more** — then flip back onto the first side for a second or two so that side dips in the melted, browned butter. Remove and salt to taste.
 
-**5. Plate with a sauce streak, pickles, and garnish.** ⚠️ *(plating description approximate — see Open Questions)*
-Drag a brush or spoon of the pomegranate reduction across the plate. Arrange the seared scallops along the streak, tuck in folded slices of pickled watermelon radish and curled cucumber, and finish with pomegranate seeds and micro greens.
+**5. Plate: brush the sauce, line up the scallops, tuck in the pickles.**
+Put a (preferably silicone) brush in the sauce and drag it the length of the plate — *"forget all that 'don't use the rim' talk, it looks cool."* You may need to do this more than once to get the brushed look you want; if the sauce has over-thickened, stir in a little more pomegranate juice, raise the heat, and stir. Place the scallops in the middle of the plate, lined up along the brushed sauce, **leaning each scallop against the next**. Take 2–3 watermelon radish slices, fold each in half, and slide them between two of the scallops, alternating sides as you go. Roll the cucumber slices just slightly offset and stand them on the opposite side of the watermelon radish, between two scallops. Finish by sprinkling a few pomegranate seeds on each side of the brushed sauce and laying a couple of micro greens along the length of the dish.
 
 #### C. Grocery Shopping List
 
 **🏪 Specific store — seafood counter**
 
-- 🏪 Large dry sea scallops — 12
+- 🏪 Large day boat scallops — 3 to 5 per person; **12 to 20 for 4 servings**
 
 **🏪 Specific store — Asian market**
 
 - 🏪 Mirin — ½ cup *(or substitute 1 Tbsp sugar)*
-- 🏪 Rice vinegar — ¼ cup
+- 🏪 Rice wine vinegar — ½ cup
 
 **🛒 General grocery**
 
 - 🛒 Cucumber — 1
 - 🛒 Watermelon radish — 1
 - 🛒 Pomegranate juice — 2 cups
-- 🛒 Red wine (Cabernet Sauvignon or similar) — ¼ cup
+- 🛒 Red wine (Cabernet Sauvignon or similar) — ½ cup
 - 🛒 Honey
 - 🛒 Avocado oil
 - 🛒 Butter
-- 🛒 Pomegranate seeds, micro greens or radish, for garnish
+- 🛒 Salt
+- 🛒 Pomegranate seeds and micro radish, for garnish
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~875 | 23 g | 66 g | 86 g | 3 g |
-| **Per serving** *(serves 4, as an appetizer)* | ~220 | 6 g | 16 g | 21 g | 1 g |
+| **Whole dish** | ~900 | 26 g | 87 g | 62 g | 5.5 g |
+| **Per serving** *(serves 4, as an appetizer)* | ~225 | 6.5 g | 22 g | 15 g | 1.5 g |
 
-**What a serving is:** 3 seared scallops with pickled vegetables and a pomegranate drizzle — a composed appetizer plate.
+**What a serving is:** 3 to 5 seared day boat scallops with folded pickled radish and cucumber and a brushed pomegranate reduction — a composed appetizer plate.
 
-*Assumes most of the searing fat and roughly a third of the reduced sauce end up on the plate; the rest stays in the pan.*
+*Recalculated 2026-09-06 for the corrected scallop count. The pickling liquid is poured off rather than eaten, so it isn't counted; the figures assume most of the searing fat and roughly a third of the reduced sauce end up on the plate, with the rest left in the pan.*
 
 #### D. Open Questions
 
-- **Source page number not confirmed.** The footer showed only a partial number ("…08" or similar) — the page couldn't be pinned down with confidence.
-- **"12 large dry sea scallops (per serving)" is transcribed exactly as it appeared, but that reading is odd** given the recipe already states "Serves: 4, as an appetizer." Written up here as 12 scallops total (3 per person) — the standard appetizer portion — rather than 12 per person (48 total), which would be an unusually large amount for an appetizer course. Worth confirming against the physical book.
-- **The pickling-liquid quantities and the final plating paragraph are approximate transcriptions from small print**, not certain ones.
+- ✅ **The source page is confirmed as p. 128–129** (the footer reads "128 Champions of Sous Vide"; the facing page carries the method). The old "partial …08" reading is retired.
+- ✅ **The "12 scallops" puzzle is resolved, and it was a transcription error, not an oddity in the source.** The page prints **"3-5 large day boat scallops (per serving)"** — so 12 to 20 scallops for the stated four appetizer servings. Both the count and the descriptor ("day boat," a freshness/handling term for scallops landed and sold the same day, not "dry sea") were wrong in the first pass.
+- ✅ **The "pickling quantities and plating approximate" hedge is retired** — all of it is printed plainly and is transcribed exactly above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -27181,11 +27196,13 @@ Drag a brush or spoon of the pomegranate reduction across the plate. Arrange the
 
 ### 7.82 Ragù alla Bolognese (Sous Vide)
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 57, Beef and Veal section), recipe by **Stefan Boer**, *StefanGourmet.com*. **Distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the Canal House stovetop sauce already in this cookbook — that one browns ground chuck and pork directly and simmers 6 to 7 hours on the stove; this one browns whole steaks, cools and grinds the meat, builds the sauce around the drippings, and finishes the whole thing in a 24-hour sous vide bath.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 56–57, Beef and Veal section), recipe by **Stefan Boer**, *StefanGourmet.com*. **Distinct from [§4.54 Ragù Bolognese](#454-ragù-bolognese)**, the Canal House stovetop sauce already in this cookbook — that one browns ground chuck and pork directly and simmers 6 to 7 hours on the stove; this one browns whole steaks, cools and grinds the meat, builds the sauce around the drippings, and finishes the whole thing in a 24-hour sous vide bath.
 
-> ⚠️ **HEAVY UNCERTAINTY — read this before relying on the exact steps.** This page was photographed sideways, in small print, and the reconstruction below carries a real risk of transposed or garbled sentences, especially in the wine-reduction and milk-reduction steps. Treat the step order and exact wording as a best-effort reconstruction, and verify against the physical book before relying on it for anything precise.
+> ✅ **The "HEAVY UNCERTAINTY" flag is RETIRED** *(2026-09-06 source audit)*. The page is rotated 90° in the scan, not illegible. Rotated back and read at full resolution, every ingredient and all fifteen printed instruction paragraphs are clear, and the entry below is now transcribed rather than reconstructed.
+>
+> ⚠️ **Retiring the hedge turned up four real errors — re-read this entry if you cooked the earlier version.** Against the printed page: **250 g (9 oz) of minced prosciutto was missing from the ingredient list entirely** — it goes into the sofritto alongside the pancetta; the meat is **1.5 kg (3.3 lb)**, not 1.3 kg; the tomatoes are **1.5 kg (53 oz) sieved tomatoes — *passata di pomodoro*** — not "canned tomatoes, or tomato purée if not using ripe tomatoes"; and **the source's own two teaspoons of salt, stirred into the sauce with the ground meat, were missing from the method.** The nutmeg was also in the wrong step: it goes in with the tomatoes and the reserved meat juices, before the milk, not after.
 
-> **Per the source, approximate:** *"The most famous Italian sauce for pasta is ragù alla bolognese... For this recipe I use traditional ingredients for the ragù, but what I changed is the cooking method, using a large batch and then cooking it sous vide. The ragù freezes very well, so it's a great idea to make a large batch... Defrosting and reheating should of course be done sous vide."*
+> **Per the source's own headnote:** *"The most famous Italian meat sauce for pasta is of course the one from Bologna: ragù alla bolognese. And with reason: if made properly it can be divine. Outside of Italy (or inside of Italy in tourist traps) it is often served over spaghetti. But 'alla bolognese' means 'like they do it in Bologna'. And in the city of Bologna, ragù is served on pasta ribbons made with egg, preferably fresh pasta. Which of course is locally just called 'tagliatelle al ragù', as it is implied that the ragù is the local version. For this recipe I use traditional ingredients for the ragù, but what I changed is the method for cooking the meat, using an improved method of preparing the ragù sous vide. The ragù freezes very well, so it is a great idea to make a large batch and then cook it sous vide in portions and freeze them for later use. Defrosting and reheating should of course be done sous vide."*
 
 *Cooks: 165°F (74°C) for 24 hours • Serves: 20 — a large batch, freezes well*
 
@@ -27195,46 +27212,45 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 57, Bee
 
 #### A. Ingredients
 
-⚠️ *Quantities below are transcribed as best legible from a rotated, small-print photo — see Open Questions.*
+*Exactly as printed, confirmed by the 2026-09-06 audit.*
 
 - Olive oil
-- 1.3 kg (2.9 lb) veal or beef, in steaks
+- 1.5 kg (3.3 lb) veal or beef, in steaks
+- 250 g (9 oz) prosciutto, minced
 - 250 g (9 oz) pancetta, minced
-- 250 g (9 oz) carrots, minced
-- 250 g (9 oz) onions, minced
-- 250 g (9 oz) celery, minced
-- 1.5 kg (3.3 lb) canned tomatoes, or tomato purée if not using ripe tomatoes
+- 1.5 kg (53 oz) sieved tomatoes *(tomato purée, passata di pomodoro)*
+- 250 g onion, minced
+- 250 g celery, minced
+- 250 g carrots, minced
 - 300 ml (1¼ cups) red or white wine
 - 600 ml (2½ cups) whole milk
 - Freshly grated nutmeg
-- Salt and freshly ground black pepper
+- Salt *(2 tsp goes into the sauce in Step 6, plus more to taste)* and freshly ground black pepper
 
 **To Finish**
 
-- Cooked pasta, tagliatelle traditionally
+- Cooked pasta *(tagliatelle traditionally, per the source's own headnote)*
 - Fresh parmigiano reggiano cheese
 
 #### B. Cooking Instructions
 
-⚠️ *Reconstructed from a rotated, small-print photo — verify against the physical book if precision matters, especially in the reduction steps.*
+**1. Brown the meat in batches, leaving it raw inside, then chill it.**
+Heat a generous amount of olive oil in a large casserole (Dutch oven). Brown the meat **in batches**, so the casserole isn't crowded — it should be nicely browned on the outside but **remain raw on the inside**. Reserve the meat and let it cool; once it's down to room temperature, cover it with plastic wrap and refrigerate. Leave the drippings in the casserole — they hold a lot of flavor and go into the sauce.
 
-**1. Brown the meat, leaving it raw inside, then chill it.**
-Heat a generous amount of olive oil in a large flat pan or Dutch oven. Brown the meat on the outside only, leaving it raw in the middle. Once it's cooled to room temperature, cover it with plastic wrap and refrigerate. Keep whatever drippings are left in the pan — they're flavor for the sauce.
-
-**2. Brown the pancetta and minced vegetables. Until it starts to sizzle.**
-Add the minced celery, carrot, onion, and pancetta to the same pan (more olive oil if needed) and brown over medium-high heat, stirring regularly, until it starts to sizzle — that means most of the moisture has cooked off.
+**2. Brown the prosciutto, pancetta, and minced vegetables. Until it starts to sizzle.**
+Add the minced celery, carrot, onion, **prosciutto**, and pancetta to the drippings, adding more olive oil if needed. Brown over medium-high heat, stirring regularly, until it starts to sizzle — that's the cue that most of the moisture is gone.
 
 **3. Add the wine and cook it out. About 10 minutes.**
 Add the wine, bring to a boil, and cook, stirring regularly, until most of it has evaporated.
 
-**4. Add the tomatoes and simmer down. About 1 hour.**
-Add the tomatoes, stir, and bring to a boil, then drop to a gentle simmer. Pour in any juices that have leaked from the reserved meat while it chilled. Simmer, stirring occasionally, until it's reduced to the right thickness — this could easily take an hour.
+**4. Add the tomatoes, the reserved juices, and the nutmeg, and simmer down. About 1 hour.**
+Add the sieved tomatoes, stir, and bring to a boil, then reduce to a nice simmer. Add any juices that have leaked from the reserved meat while it chilled, and grate in the fresh nutmeg **here** — not later. Let the sauce bubble over low to medium heat, stirring regularly, until it's no longer watery. This could easily take an hour.
 
-**5. Add the milk and simmer down again. About 1 hour.**
-Stir in the milk, bring back to a simmer over low heat, and cook, stirring regularly, until it's again reduced to the right thickness. Season with salt, pepper, and the grated nutmeg.
+**5. Add the milk and reduce again. About 1 hour.**
+Stir in the milk and bring it back to a boil, then let it reduce over low heat, stirring regularly, until the sauce has reduced to the right thickness. **There will be no more reduction after this**, so this is where you decide how thick it ends up — again, easily an hour. Season to taste with salt and freshly ground black pepper.
 
-**6. Cool the sauce, then grind the reserved meat.**
-Cool the sauce — a sink of ice water speeds this up. While it cools, cut the reserved meat into chunks that fit your grinder's feed tube and grind it all. Once the sauce is at room temperature, stir the ground meat in.
+**6. Cool the sauce, grind the reserved meat, and stir it in with 2 teaspoons of salt.**
+Cool the sauce — immersing the casserole in cold water speeds this up. While it cools, take the meat out of the refrigerator and cut it into chunks that fit your grinder's feed tube (it's still raw inside, which is the point), and grind all of it. Once the sauce has cooled to room temperature, add the ground meat, **add two teaspoons of salt**, and stir to mix it well.
 
 **7. Vacuum seal in portions and sous vide at 165°F (74°C) for 24 hours.**
 Portion into vacuum bags — about 300 g (10.5 oz) of ragù makes 2 servings. *(No chamber sealer? Freeze the portions flat in a zip-top bag first, then vacuum seal once frozen, or use the water-displacement method.)* Cook the whole batch sous vide at once, even if you're only eating part of it now — freeze the rest. Frozen flat portions can go straight from the freezer into a 165°F (74°C) bath and be ready to eat in about an hour.
@@ -27246,14 +27262,15 @@ Preheat a pan over low heat and add the contents of one bag of ragù. Taste and 
 
 **🏪 Specific store — butcher/deli**
 
-- 🏪 Veal or beef steaks — 1.3 kg (2.9 lb)
+- 🏪 Veal or beef steaks — 1.5 kg (3.3 lb)
+- 🏪 Prosciutto — 250 g (9 oz)
 - 🏪 Pancetta — 250 g (9 oz)
 
 **🛒 General grocery**
 
 - 🛒 Olive oil
-- 🛒 Carrots, onions, celery — 250 g (9 oz) each
-- 🛒 Canned tomatoes or tomato purée — 1.5 kg (3.3 lb)
+- 🛒 Carrots, onions, celery — 250 g each
+- 🛒 Sieved tomatoes / passata di pomodoro — 1.5 kg (53 oz)
 - 🛒 Red or white wine — 300 ml (1¼ cups)
 - 🛒 Whole milk — 600 ml (2½ cups)
 - 🛒 Whole nutmeg
@@ -27265,15 +27282,15 @@ Preheat a pan over low heat and add the contents of one bag of ragù. Taste and 
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(sauce + pasta, 20 servings)* | ~12,000 | 520 g | 645 g | 945 g | 61 g |
-| **Per serving** *(serves 20)* | ~600 | 26 g | 32 g | 47 g | 3 g |
+| **Whole batch** *(sauce + pasta, 20 servings)* | ~12,900 | 575 g | 745 g | 945 g | 61 g |
+| **Per serving** *(serves 20)* | ~645 | 29 g | 37 g | 47 g | 3 g |
 
-**What a serving is:** about 1 cup of pasta tossed with roughly ½ cup of ragù and grated parmigiano — a standard pasta dinner serving.
+**What a serving is:** about 1 cup of pasta tossed with roughly ½ cup of ragù and grated parmigiano — a standard pasta dinner serving. *(Recalculated 2026-09-06 for the recovered 250 g of prosciutto and the corrected 1.5 kg of meat.)*
 
 #### D. Open Questions
 
-- **This entire entry carries heavy transcription uncertainty.** The source page was photographed sideways with small print, and both reduction steps (wine, then milk) are the parts most at risk of a transposed or garbled reading. Verify against the physical book before treating the exact wording or step order as certain.
-- **Ingredient quantities are transcribed as best legible** and should be treated the same way — a good-faith reading, not a certain one.
+- ✅ **The "heavy transcription uncertainty" flag is retired.** The page is rotated in the scan, not unreadable — rotated back, all fifteen printed instruction paragraphs and every ingredient line are legible, and the entry above is transcribed directly from them. The reduction steps in particular are now confirmed exactly as printed.
+- ⚠️ **Retiring the hedge exposed four genuine errors**, listed in the correction note at the top of this entry — the missing prosciutto and the missing two teaspoons of salt are the two that change how the dish actually tastes.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -27444,9 +27461,9 @@ Spread a thin layer of aioli on both cut sides of the bun. Arugula on the bottom
 
 ### 7.85 Hanger Steak with Duck Fat Wild Mushrooms
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (page number not given in the transcription), recipe by **Cole Wagoner**, *Anova Culinary*.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (page number verified absent — the bottom of this spread, where the footer sits, is cropped past the edge of the photograph; the recipe text itself is whole), recipe by **Cole Wagoner**, *Anova Culinary*.
 
-> **Per the source:** *"A hanger steak, also known as butcher's steak, is a cut of beef that packs wicked flavor and is super tender. If your butcher can track this down, you're in for a top-notch sous vide treat. We take some tasty duck fat and sous vide the steak in it, then sear in duck fat for a rich finish. Paired with wild mushrooms, it makes for a wickedly delicious dish."*
+> **Per the source:** *"A hanger steak, also known as butcher's steak, is a cut of beef that packs wicked flavor and is super tender. If your butcher can track this down, you're in for a top-notch sous vide treat. We start off by infusing some tasty duck fat into the steak, and then sear in duck fat for a wild finish. Paired with some mushrooms, it makes for a wicked delicious dish."* *(Quoted exactly as printed — the 2026-09-06 audit found the earlier version of this quotation had been silently reworded.)*
 
 *Cooks: 129°F (53.8°C) for 4 hours • Serves: 2*
 
@@ -27512,11 +27529,13 @@ Remove the steak, add the mushrooms to the same pan, and sauté 4 to 5 minutes, 
 
 ### 7.86 Carpaccio of Sous Vide Octopus
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 127, Fish and Seafood section), recipe by **Stefan Boer**, *StefanGourmet.com*.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 126–127, Fish and Seafood section), recipe by **Stefan Boer**, *StefanGourmet.com*.
 
-> ⚠️ **Small, dense print — some of the middle instructions (the transglutaminase and forming steps) are approximate.** Read this entry with that in mind, and verify against the physical book if you're relying on it for the compression-forming technique specifically.
+> ✅ **The "small, dense print — approximate" flag is RETIRED** *(2026-09-06 source audit)*. This page is underexposed in the scan, not small-printed beyond reading; brightened and read at full resolution, the transglutaminase and bottle-forming steps are printed plainly and are transcribed exactly below. The 2%-by-weight ratio, the plastic-bottle method, and the 4-hour firming were all confirmed as printed.
+>
+> ⚠️ **Retiring the hedge exposed five quantity errors — re-read this entry if you made the earlier version.** The bath is **170°F (77°C)**, not 175°F (79°C); the recipe **serves 6** as an appetizer, not 4; **1 carrot was missing from the ingredient list entirely**; there are **2 bay leaves**, not 1; and **6 juniper berries**, not 4. The bottle incisions are also **1.5 cm (½ inch)** apart, and the firming step calls for **a heavy object on top** — both details the first pass dropped.
 
-*Cooks: 175°F (79°C) for 5 to 7 hours • Serves: 4, as an appetizer*
+*Cooks: 170°F (77°C) for 5 to 7 hours • Serves: 6 as an appetizer*
 
 **🔴 Hard** · **Prep ~35 min** *(chopping aromatics and vacuum sealing before the bath; draining, coating with transglutaminase, packing, and compressing after)* · **Cook none** · **Slow cook 5–7 hr** *(sous vide, unattended)* · **Start to finish ~10–12 hr** *(includes at least 4 hr fridge firming before slicing)*
 
@@ -27528,12 +27547,13 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 127, Fi
 
 - 2 kg (4.4 lb) octopus
 - 1 onion
+- 1 carrot
 - 2 celery stalks
-- 1 bay leaf
-- 4 juniper berries
+- 2 bay leaves
+- 6 juniper berries
 - 6 black peppercorns
+- Transglutaminase *(listed plainly in the source, not as optional — it's what makes the roll sliceable)*
 - Salt
-- Transglutaminase (optional, but needed for the sliceable "sausage" form)
 
 **For the Dressing**
 
@@ -27549,20 +27569,20 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 127, Fi
 
 #### B. Cooking Instructions
 
-**1. Bag the octopus with aromatics and sous vide at 175°F (79°C) for 5 to 7 hours.**
-Roughly chop the onion, celery, and bay leaf. Cut the tentacles off the octopus, keeping them whole. Vacuum seal the tentacles with the onion, celery, bay leaf, juniper berries, peppercorns, and salt. ⚠️ *The octopus releases a lot of liquid during cooking, which can make it hard to seal with a FoodSaver-type sealer — a chamber vacuum sealer handles this better.* Submerge and cook. The octopus will release a lot more liquid in the bag as it cooks — that's normal, not a leak.
+**1. Bag the octopus with aromatics and sous vide at 170°F (77°C) for 5 to 7 hours.**
+Roughly chop the onion, carrot, celery, and bay leaves. Cut the tentacles off the octopus, but leave them whole. Vacuum seal the octopus with the bay leaves, carrot, onion, celery stalks, juniper berries, black peppercorns, and salt — **or** use a zip pouch and the water-displacement method, since the octopus releases a lot of liquid and can therefore be difficult to seal with a FoodSaver-type vacuum sealer. Submerge and cook. It will release a lot of liquid in the bag; that's normal, not a leak.
 
-**2. Drain, then coat the octopus with transglutaminase.**
-Drain the octopus and discard the aromatics. Weigh the octopus and calculate 2% of its weight in transglutaminase. Toss the octopus in the powder until every surface is evenly coated. *(Clean anything the transglutaminase touched promptly — it's a food-safety-sensitive ingredient.)*
+**2. Drain, then coat the octopus with transglutaminase. 2% of its cooked weight.**
+Drain the octopus and discard the aromatics. Weigh the octopus, calculate **2% of the weight of the cooked octopus**, and add that amount of transglutaminase. Toss the octopus with it until it's coated on all sides. *(Clean your hands and anything else the transglutaminase touched quickly — per the source, "it is very sticky stuff indeed.")*
 
-**3. Pack and compress the octopus into a "sausage."** ⚠️ *(approximate — small, dense print)*
-Cut the top off a plastic water bottle (at least 1 liter / 1 quart). Pack the coated tentacles in vertically, as tightly as possible, to form a short, dense cylinder. Press down firmly with something heavy that fits inside the bottle (the source used a bottle of olive oil) to compress it. Make cuts in the plastic around the octopus, about ½ inch (1 cm) apart, then fold the resulting strips toward the center to close the bottle tightly. Wrap the whole thing in plastic wrap.
+**3. Pack and compress the octopus into a "sausage."**
+Take a plastic water bottle — preferably a still-water bottle, at least **1 litre / 1 quart** — and cut off the top. Arrange the octopus in the bottle with the tentacles as **vertical** as possible, so you get nice slices later. Press down on the octopus with an appropriately sized object; the source used a cleaned bottle of olive oil. Then make incisions in the plastic **above** the octopus, about **1.5 cm (½ inch)** apart, cutting off the top of the bottle so that the strips of plastic sticking out are about the same length as the bottle's diameter. Fold the strips toward the center to close the bottle, and wrap it in plastic wrap.
 
-**4. Refrigerate at least 4 hours to firm.**
-This isn't optional — the transglutaminase needs time and cold to actually bind the pieces into a sliceable form.
+**4. Refrigerate at least 4 hours to firm, with a heavy object on top.**
+Let it firm up in the refrigerator **with a heavy object sitting on top** for at least 4 hours. This isn't optional — the transglutaminase needs time, cold, and pressure to actually bind the pieces into a sliceable form.
 
 **5. Cut away the bottle and slice thin.**
-Cut away most of the bottle, leaving just the bottom as a handy base to hold while slicing. Slice the octopus "sausage" thin — a slicing machine makes this much easier if you have one.
+After those 4 hours, cut away most of the bottle — leaving the bottom on makes a nice handhold while you work. Slice the octopus "sausage" thinly; a slicing machine makes this much easier if you own one.
 
 **6. Make the dressing and serve.**
 Whisk together olive oil, chopped parsley, lemon juice, and salt, with minced garlic if you want it. Serve the sliced octopus with the dressing and a lemon slice. *(The source notes having a similar dish in Liguria, Italy, served with chopped raw tomatoes — a nice optional addition.)*
@@ -27579,8 +27599,8 @@ Whisk together olive oil, chopped parsley, lemon juice, and salt, with minced ga
 
 **🛒 General grocery**
 
-- 🛒 Onion, celery, bay leaf
-- 🛒 Juniper berries, black peppercorns
+- 🛒 Onion — 1; carrot — 1; celery — 2 stalks
+- 🛒 Bay leaves — 2; juniper berries — 6; black peppercorns — 6
 - 🛒 Salt
 - 🛒 Lemon
 - 🛒 Extra virgin olive oil
@@ -27593,16 +27613,16 @@ Whisk together olive oil, chopped parsley, lemon juice, and salt, with minced ga
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole dish** | ~1,560 | 53 g | 216 g | 3 g | 0.5 g |
-| **Per serving** *(serves 4, as an appetizer)* | ~390 | 13 g | 54 g | 1 g | 0 g |
+| **Per serving** *(serves 6, as an appetizer)* | ~260 | 9 g | 36 g | 0.5 g | 0 g |
 
-**What a serving is:** about 6 to 7 thin slices of octopus carpaccio with dressing and a lemon slice — a substantial seafood appetizer.
+**What a serving is:** about 4 to 5 thin slices of octopus carpaccio with dressing and a lemon slice — a proper seafood appetizer course.
 
-*A 2 kg whole octopus loses a lot of its raw weight to cooking, discarded aromatics, and using only the tentacles — the estimate assumes roughly 800 g of cooked, compressed octopus makes it into the finished "sausage" and onto the four plates.*
+*A 2 kg whole octopus loses a lot of its raw weight to cooking, discarded aromatics, and using only the tentacles — the estimate assumes roughly 800 g of cooked, compressed octopus makes it into the finished "sausage" and onto the plates. Per-serving figures recalculated 2026-09-06 for the source's printed serving count of 6.*
 
 #### D. Open Questions
 
-- **The transglutaminase-coating and compression-forming steps are transcribed from small, dense print and are approximate**, not certain. If the compression step doesn't hold together correctly, the octopus won't slice cleanly — worth reviewing the physical book before attempting this for the first time.
-- **Source page confirmed as p. 127, in the Fish and Seafood section.**
+- ✅ **The "transglutaminase and compression steps are approximate" flag is retired.** Brightened and read at full resolution, both are printed plainly, and the 2%-by-weight ratio, the water-bottle forming method, and the 4-hour firming with a weight on top are all confirmed exactly as transcribed above.
+- ✅ **Source page confirmed as p. 126–127, in the Fish and Seafood section** (the footer reads "Fish and Seafood 127").
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39245,34 +39265,36 @@ The dough freezes well-wrapped for up to 3 months. Save scraps by cutting them i
 
 ### 14.20 Cream Caramel
 
-Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 123, Desserts section), recipe by **Dale Prentice**, *Sous Vide Australia*.
+Transcribed from photographed pages — ***Champions of Sous Vide*** (p. 164–165, Desserts section), recipe by **Dale Prentice**, *Sous Vide Australia*.
 
 > **Per the source:** *"Cream caramels are one of the great classic desserts, lightly set custard infused with golden caramel sauce. By cooking them in the sous vide your custard will set perfectly every time."* **Note, per the source:** *"I make this 1 day in advance to allow the caramel to dissolve into sauce."*
 
-> ⚠️ **Small, dense print — this transcription is a good-faith best reading, not a certain one.** The custard's sugar quantity in particular (given below as ~87 grams) looked like it might be a metric-conversion artifact in the photo. Verify against the physical book if precision matters here.
+> ⚠️ **Every quantity in this recipe was wrong, and one of them by three times — re-read this entry before making it again** *(2026-09-06 source audit)*. The page is fully legible at full resolution, and against it: the caramel takes **¼ cup castor sugar**, not ¾ cup (**the single worst error in this batch — three times the sugar**); the milk and cream are **⅔ cup (150 ml) each**, not ¾ cup; the custard sugar is **60 grams**, not the "~87 g" the first pass guessed at; and the moulds are **½ cup (120 ml)**, not ¾ cup. The chilling step was also invented: the source says to rest the moulds on the bench for **10 minutes**, discard the cling film, and **set in the fridge, made a day ahead** — it never prints a "4 to 6 hour" chill. The vanilla/cinnamon variation infuses for **thirty minutes**, not "a few."
+>
+> ✅ **The "small, dense print" hedge is retired** — the page reads cleanly; the first pass simply misread it.
 
 *Cooks: 176°F (80°C) for 40 minutes • Serves: 4*
 
-**🔴 Hard** · **Prep ~10 min** · **Cook ~10 min** *(caramelizing the sugar — the step that earns the Hard rating)* · **Slow cook 40 min** *(sous vide)* · **Start to finish ~1 hr active** *(plus an overnight caramel-dissolve and a 4–6 hr chill before serving — not active work, see lead time note)*
+**🔴 Hard** · **Prep ~10 min** · **Cook ~10 min** *(caramelizing the sugar — the step that earns the Hard rating)* · **Slow cook 40 min** *(sous vide)* · **Start to finish ~1 hr active** *(plus an overnight rest in the fridge so the caramel dissolves into sauce — not active work, see lead time note)*
 
 > ⚠️ **Why Hard, not Easy.** This is the same "perfect to burnt in under a minute" risk [CLAUDE.md](CLAUDE.md) calls out for a roux: caramelizing sugar goes from a rich amber to acrid black fast, and once it's dark you can't walk it back. Watch it, don't multitask through this step.
 
-> **Lead time, not cook time:** the source deliberately makes this a day ahead so the caramel has time to dissolve into sauce, plus a 4–6 hr chill after the sous vide before it's firm enough to unmold. Neither is active work, so neither is counted in Prep, Cook, or Slow cook above — but plan for it.
+> **Lead time, not cook time:** the source deliberately makes this a day ahead so the caramel has time to turn back to liquid and give you more sauce at serving. That overnight rest isn't active work, so it isn't counted in Prep, Cook, or Slow cook above — but plan for it.
 
 #### A. Ingredients
 
 **For the Caramel Sauce**
 
-- ¾ cup caster sugar
+- ¼ cup castor sugar
 - 1 Tbsp water
 - 1 Tbsp brandy or rum
 
 **For the Custard**
 
-- ¾ cup milk (150 ml)
-- ¾ cup cream (150 ml)
+- ⅔ cup milk (150 ml)
+- ⅔ cup cream (150 ml)
 - 3 eggs
-- ~87 g sugar ⚠️ *(as best read from small, dense print — verify against the physical book)*
+- 60 g sugar
 
 #### B. Cooking Instructions
 
@@ -39283,7 +39305,7 @@ In a small pot (copper if you have one), heat the sugar and water over medium he
 Remove the pot from the heat the moment you have a good color and carefully add the brandy or rum. If the caramel is still darkening after that, dip the bottom of the pot in cold water for a second to stop the cooking.
 
 **3. Pour the caramel into the moulds.**
-Divide it evenly among 4 stainless steel or ¾-cup (120 ml) dessert moulds, tilting each one to coat the bottom completely.
+Pour it evenly into 4 stainless steel **½-cup (120 ml)** dessert moulds, moving each one so the caramel coats the bottom completely.
 
 **4. Warm the milk and cream, then whisk the custard together.**
 Microwave the milk and cream together for one minute to take the chill off. In a separate bowl, whisk the sugar and eggs together, then whisk in the warmed milk and cream.
@@ -39292,40 +39314,37 @@ Microwave the milk and cream together for one minute to take the chill off. In a
 Pass the mixture through a fine sieve for a smooth set, then pour it evenly over the caramel in each mould.
 
 **6. Cover each mould and sous vide at 176°F (80°C) for 40 minutes.**
-Cover each mould with a piece of cling film, held in place with a rubber band. Set them on a rack in the preheated water bath so the water comes ¾ of the way up the sides. Fully hands-off for the 40 minutes.
+Cover each mould with a piece of cling film, held in place with a rubber band. Sit the moulds on a rack in the preheated water bath so the water comes ¾ of the way up their sides. *(The source's own workaround: a metal cake ring under a cake cooling rack in the bottom of the bath gets the height right.)* Fully hands-off for the 40 minutes.
 
-**7. Discard the cling film, then chill for at least 4 to 6 hours.**
-Remove the moulds from the bath and take off the cling film. Refrigerate for at least 4 to 6 hours, until the caramel has turned back to liquid — that's what gives you the extra sauce at serving time.
+**7. Rest 10 minutes on the bench, discard the cling film, then set in the fridge — ideally overnight.**
+Take the moulds out and let them sit on the bench for 10 minutes, then discard the cling film. Refrigerate to set. **The source makes these a day ahead**, which is what turns the caramel back to liquid and gives you the extra sauce at serving.
 
 **8. Unmold and serve.**
 Slide a small knife between the caramel and the mould to loosen it. Invert onto a serving plate and let the custard slide out slowly, lifting the mould off gently so the caramel sauce runs out over the top.
 
-> **Variation, per the source:** add vanilla seeds to the milk before whisking it into the eggs, or warm the milk and cream with a cinnamon stick on the stove and let it infuse for a few minutes first.
+> **Variation, per the source:** scrape vanilla seeds into the milk before adding it to the eggs, or warm the milk and cream with a cinnamon stick on the stove and let it infuse for **thirty minutes** before adding it to the eggs.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Caster sugar — ¾ cup, for the caramel
+- 🛒 Castor (superfine) sugar — ¼ cup, for the caramel
 - 🛒 Brandy or rum — 1 Tbsp
-- 🛒 Milk — ¾ cup
-- 🛒 Cream — ¾ cup
+- 🛒 Milk — ⅔ cup (150 ml)
+- 🛒 Cream — ⅔ cup (150 ml)
 - 🛒 Eggs — 3
-- 🛒 Sugar — ~87 g, for the custard ⚠️ *(quantity approximate — see note above)*
+- 🛒 Sugar — 60 g, for the custard
 
-#### Nutrition *(estimated)*
+#### Nutrition *(estimated — recalculated 2026-09-06 for the corrected printed quantities)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~1,825 | 76 g | 27 g | 244 g | 0 g |
-| **Per serving** *(serves 4)* | ~455 | 19 g | 7 g | 61 g | 0 g |
+| **Whole dish** | ~1,290 | 75 g | 27 g | 122 g | 0 g |
+| **Per serving** *(serves 4)* | ~320 | 19 g | 7 g | 31 g | 0 g |
 
-**What a serving is:** one full mould — about ¾ cup of custard with its caramel sauce, a standard individual crème caramel.
+**What a serving is:** one full mould — a **½-cup (120 ml)** individual crème caramel with its sauce poured over.
 
-#### D. Open Questions
-
-- **The custard's sugar quantity (~87 g) is a best-guess reading of small, dense print** — it looked like it might be a metric-conversion artifact. Verify against the physical book before treating it as exact.
-- **Several other instruction details came from the same dense print** and are transcribed in good faith rather than with full certainty — see the ⚠️ note at the top of the entry.
+*The earlier figures (~455 kcal, 61 g carbs per serving) were built on three times the caramel sugar, more milk and cream than the source calls for, and an invented custard-sugar amount. These are the printed recipe.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41166,6 +41185,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Baby back / spare ribs** — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) *(indirect-grilled)* · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(indirect-smoked)* · [§7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) *(hot and fast over wood embers — the direct-heat opposite of §7.97, see entry)* · [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(indirect-grilled, then glazed)* · [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(indirect-smoked, competition method — Texas-crutched and glazed — distinct from §7.97/§7.98, see entry)*
 - **Ribs, cut unspecified** — [§6.5 Smoked Ribs](#65-smoked-ribs) *(placeholder, smoked)*
 - **Pork bones** — [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) *(roasted, then simmered)*
+- **Prosciutto and pancetta (cured pork, used as a flavor base)** — [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) *(250 g of each, minced into the sofritto — the prosciutto was recovered by the 2026-09-06 source audit)* · [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) *(pancetta, grilled in rounds as a burger topping)*
 
 ### Boar
 

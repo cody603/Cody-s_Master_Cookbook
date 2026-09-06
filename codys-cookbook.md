@@ -152,6 +152,7 @@ Click any recipe to jump straight to it.
   - [4.131 Pesto](#4131-pesto) ✅ *(distinct from [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce))*
   - [4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis) ✅
   - [4.133 Beef Butter](#4133-beef-butter) ✅ *(Meathead; pairs with [§7.109](#7109-chateaubriand-with-compound-butter))*
+  - [4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) ✅ *(Salt, Fat, Acid, Heat; the same dressing [§T29](#t29-how-to-salt)/[§T31](#t31-how-to-use-acid) use as their layering example — now written up in full)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -414,6 +415,9 @@ Click any recipe to jump straight to it.
 - [8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) ✅ ❤️
 - [8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot) ✅ ❤️
 - [8.36 Chili Dogs](#836-chili-dogs) ○ *(uses [§8.1 Chili Mac](#81-chili-mac))*
+- [8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) ✅ *(Salt, Fat, Acid, Heat; includes Spring Garlic Soup and Pho Gà variations)*
+- [8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup) ✅ *(Salt, Fat, Acid, Heat)*
+- [8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) ✅ *(Salt, Fat, Acid, Heat; includes the general vegetable-soup formula and no-cook Chilled Cucumber and Yogurt Soup)*
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -496,6 +500,7 @@ Click any recipe to jump straight to it.
 - [14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) ✅
 - [14.19 Vodka Pie Crust](#1419-vodka-pie-crust) ✅ *(Judy Kim; Cody's own coarse-salt modification)*
 - [14.20 Cream Caramel](#1420-cream-caramel) ✅ *(Champions of Sous Vide; ⚠️ small print — custard sugar quantity approximate, see entry)*
+- [14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) ✅ *(Salt, Fat, Acid, Heat; ⚠️ Vanilla Cream filling not photographed — see entry)*
 
 **[15. Breads](#15-breads)** *(numbered 15, appended at the end — same reasoning as §14)*
 
@@ -519,6 +524,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-05 | **Five recipes from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), which up to now only existed here as Cody's condensed, paraphrased distillations. These five are the first *actual recipe pages* transcribed from this source, with real quantities. **[§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)** (p. 332–333) — a whole chicken braised in stock with onion, carrot, celery, and a garlic bloom stirred in at the end; its two named variations, **Spring Garlic Soup** (green garlic in place of the 20 cloves) and ***Pho Gà*** (a Vietnamese chicken-noodle-soup build with charred onion/ginger, fish sauce, and star anise), plus its "add heartiness" and "turn into a main course" tips, are folded into the one entry as callouts rather than spun off into separate numbered recipes — matching this cookbook's existing precedent (e.g. [§14.20 Cream Caramel](#1420-cream-caramel)'s variation note) for keeping a source's own variations inline when they don't change the core method. Cross-referenced against [§1 Cody's Pho](#1-codys-pho) as a different chicken-based soup, not a conflicting version of the established beef pho. **[§8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup)** (p. 273) — egg whisked with Parmesan and parsley, poured into simmering stock in a thin stream. **Rated 🟡 Medium, the only one of the five not rated Easy** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, the source itself warns that pouring too fast or stirring too hard breaks the egg into "tiny, unappetizing bits" instead of the wide ribbons (*stracci*, "rags") the soup is named for, a real ruin-it risk the other four don't have. *(A stray, unrelated fragment at the top of this source photo — the tail end of a different, uncaptured recipe — was identified and left out rather than guessed at.)* **[§8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup)** (p. 275–276) — corn cobs simmered into their own stock, then puréed with sautéed onion and corn into a silky soup; its general vegetable-soup formula and no-cook Chilled Cucumber and Yogurt Soup variation folded in the same way as §8.37's. **[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)** (p. 247) — **not a new dish so much as the recipe [§T29](#t29-how-to-salt) and [§T31 How to Use Acid](#t31-how-to-use-acid) were already teaching from in the abstract** (five sources of salt, four of acid, all in one dressing); both entries are now cross-linked forward to this full write-up instead of describing the technique with no recipe attached. **Two source gaps flagged rather than invented, per this cookbook's standing honesty practice:** §4.134 calls for the source's own "Basic Mayonnaise (page 375)" and a "Torn Croutons" garnish, neither of which was among the photographed pages — good store-bought mayonnaise (or this cookbook's own [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) and plain toasted croutons stand in, both flagged in an Open Questions section rather than silently substituted. **[§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)** (p. 410–411) — an oil-based chocolate layer cake, cross-referenced to [§T30 How to Use Fat](#t30-how-to-use-fat)'s existing explanation of why oil (not butter) makes for a moister cake, and to [§T31 How to Use Acid](#t31-how-to-use-acid)'s note on baking soda needing an acid partner, to explain why this Dutch-process-cocoa recipe leans on coffee rather than the cocoa itself for that reaction. **The source's own "Vanilla Cream (page 423)" filling/frosting wasn't photographed and isn't invented here** — the cake layers are documented in full, with a whipped-cream or basic buttercream substitute noted and the gap flagged in Open Questions, ready to swap in the real thing once that page is available. **Intermediate chef terminology explained in plain language throughout, per Cody's explicit request**, rather than left as unglossed shorthand: *stracci*/why the egg forms ribbons instead of clumps (§8.38), **blond** as a stage of cooking onions — pale gold and translucent, not browned, a different use of the word than this cookbook's existing *blond roux* entries (§8.39), salt-packed vs. oil-packed anchovies and why the salt-packed kind get soaked and filleted by hand (§4.134), mortar-and-pestle technique for anchovies (§4.134), fine-mesh sieve straining (§8.39), immersion blender vs. countertop blender safety with hot soup — venting the lid, blending in batches, filling only halfway (§8.39), Dutch-process vs. natural cocoa and why it changes the baking soda reaction (§14.21), and oil cake vs. butter cake (§14.21). **Layering Salt is cross-referenced to [§T29](#t29-how-to-salt) rather than re-explained**, per Cody's own standing content already covering it. **None of the five print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from the ingredient lists, labeled as such. **No duplicates found** — this cookbook's existing chicken soups ([§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.16](#816-cleansing-ginger-chicken-soup)) are both genuinely different recipes, and there was no existing Caesar dressing, corn soup, or chocolate cake recipe anywhere in the book before this batch — only the abstract Caesar-dressing teaching example in §T29/§T31, now linked forward. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
 | 2026-09-05 | **Sides chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — the sixth and final chapter of this multi-batch Meathead project. Nine full recipes and one condensed technique entry, plus two recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Nine full recipes added to [§5 Vegetables & Sides](#5-vegetables--sides)**, continuing straight on from [§5.39 Fennel Fondant](#539-fennel-fondant): **[§5.40](#540-simple-grilled-crostini) Simple Grilled Crostini**, **[§5.41](#541-grilled-asparagus) Grilled Asparagus** (rub-and-shaved-Parmigiano, finished with real balsamic — **kept distinct from the existing [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)**, all from a different source), **[§5.42](#542-grilled-cauliflower) Grilled Cauliflower** (steaks and florets, reverse-seared — distinct from the still-undocumented [§5.6](#56-cauliflower) placeholder), **[§5.43](#543-the-ultimate-grilled-corn-on-the-cob) The Ultimate Grilled Corn on the Cob** (shucked and grilled with a tarragon butter — **kept distinct from the existing [§5.14 Grilled Corn](#514-grilled-corn)**, Raichlen's husk-on garlic-parsley-butter version; both kept, cross-referenced), **[§5.44](#544-chipotle-lime-corn-on-the-cob) Chipotle-Lime Corn on the Cob** (same technique, a chipotle-lime butter baste), **[§5.45](#545-grilled-romaine-salad) Grilled Romaine Salad** (lemon-basil dressing, blue cheese, candied pecans), **[§5.46](#546-fire-roasted-eggplant-baba-ghanoush) Fire-Roasted Eggplant Baba Ghanoush** (grilled rather than oven-roasted, with harissa and garam masala bloomed into the oil), **[§5.47](#547-smoked-potato-salad) Smoked Potato Salad** (par-boiled potatoes finished on the smoker before going into a classic mayo dressing), and **[§5.48](#548-boston-barbecue-beans) Boston Barbecue Beans** (navy beans cooked in a pan directly under a rack of smoking ribs so the drippings fall straight in — **kept distinct from the existing [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans)/[§5.34 Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira)**; all three kept, cross-referenced). **Rated 🟢 Easy across the board except [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, this one isn't a true hands-off slow cook: the source's own instructions call for occasional stirring and pan-rotation over 3 to 4 hours, and the beans can scorch on one side or dry out if left completely unattended — a real, if forgivable and recoverable, failure mode that the rest of this chapter's grilled vegetables simply don't have. [§5.47 Smoked Potato Salad](#547-smoked-potato-salad)'s 45-minute smoke is filed in the **Slow cook** column rather than Cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that smoker time is Slow cook "at any length," and [§5.48](#548-boston-barbecue-beans)'s 3–4 hour bean-and-rib smoke gets the same treatment. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every salt amount here is transcribed exactly as printed. **One new condensed technique entry, [§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)**, added to the Techniques quick index — real Aceto Balsamico Tradizionale (the Extra Vecchio and Affinato grades) versus supermarket "balsamic vinegar of Modena" (usually just sweetened, caramel-colored wine vinegar), and how to tell the difference by reading the back label rather than trusting the price or the front; used by [§5.41 Grilled Asparagus](#541-grilled-asparagus). **No separate general "Cooking Vegetables" technique entry was needed** — the existing [§T47 Cooking Vegetables and Fruits — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) (from the earlier Brines/Rubs/Sauces batch) already covers the science this chapter's recipes draw on, and no distinct new intro passage on the topic turned up in the photographed Sides pages. **Two recipes skipped rather than guessed at, both flagged in advance by Cody and confirmed genuinely incomplete:** **Sweet and Sour Coleslaw** (book p. 362) — its dressing ingredient list ("2 table...," "1 table...," "1 teasp...," and four more lines) and its slaw ingredient list ("1 pou... ca...," "1 larg...," "1 sm...," "½ b...," "Radi...") are both cut off mid-line at the page's right-hand margin, with no legible amounts for any line and no continuation page anywhere in the 54-page scan — this is the last Sides page photographed, so there's no page 363 to check; and an untitled **polenta** recipe (book p. 360) whose only visible content is mid-recipe grilling instructions (greasing an 8-inch pan, chilling the poured polenta overnight, cutting it into rectangles, grilling them, and a Parmigiano-Reggiano note) with no title, headnote, or ingredient list anywhere in the photographed set — book pp. 358–359, which would carry them, were not part of the scan (the photographed pages jump directly from 357 to 360). Both match Cody's own stated suspicions exactly. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §5 and the T-section, and that this closes out the book — Seafood, Pork, Beef, Ground Meats, Chicken & Turkey, and now Sides are all in. None of the nine recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists. TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the nine new recipes land at 10 min ([§5.40](#540-simple-grilled-crostini)), 20 min ([§5.41](#541-grilled-asparagus), next to [§5.14 Grilled Corn](#514-grilled-corn); [§5.47](#547-smoked-potato-salad) and [§5.48](#548-boston-barbecue-beans), both with their long cook time in the Slow cook column instead), 25 min ([§5.44](#544-chipotle-lime-corn-on-the-cob), [§5.45](#545-grilled-romaine-salad)), 35 min ([§5.46](#546-fire-roasted-eggplant-baba-ghanoush)), 40 min ([§5.42](#542-grilled-cauliflower)), and 45 min ([§5.43](#543-the-ultimate-grilled-corn-on-the-cob)). |
 | 2026-09-05 | **Chicken and Turkey chapter from Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling* — five full recipes and six condensed technique entries, plus three recipes flagged and skipped rather than guessed at, per Cody's standing instruction on incomplete source photos.** **Five full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from the Seafood gap-fill batch's [§7.117](#7117-championship-bacon-wrapped-stuffed-shrimp): **[§7.118](#7118-simon--garfunkel-chicken) Simon & Garfunkel Chicken** (built on the existing [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub)), **[§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) Big Bob Gibson's Chicken in 'Bama White Sauce** (smoked and dipped in the existing [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) — same Big Bob Gibson sauce family, not a new condiment; ⚠️ the source's printed chicken weight, "1½ to 4-pound chicken," almost certainly misreads "3½ to 4-pound" and is flagged rather than silently fixed), **[§7.120](#7120-blasphemy-buffalo-chicken-wings) Blasphemy Buffalo Chicken Wings** (grilled/smoked rather than deep-fried, with its own Blue Cheese Dip and Classic Buffalo Hot Sauce kept as inline sub-components rather than spun off into §4 — the dip uses [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); **kept distinct from the existing [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) placeholder**, both cross-referenced), **[§7.121](#7121-marinated-cornish-game-hens) Marinated Cornish Game Hens** (Meathead's own family marinade, tweaked from a 1981 *New York Times* recipe by his sister), and **[§7.122](#7122-the-ultimate-smoked-turkey) The Ultimate Smoked Turkey** (dry-brined whole bird smoked over a vegetable-and-broth drip pan that becomes the gravy base, using [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub); ⚠️ a few of the source's mid-recipe internal-temperature checkpoints were hard to make out in a skewed photo, so this entry's doneness targets default to this cookbook's own [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) 165°F poultry standard rather than a guessed number). **Rated 🟢 Easy across the board except [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey), rated 🟡 Medium** — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy, the long smoke itself is exactly the forgiving, hands-off cooking that stays Easy (same reasoning as this cookbook's other multi-hour smokes), but the finishing pan-drippings gravy is a genuine fail point — it can scorch or reduce to paste if left unwatched — so that one recipe sits a notch above the rest of this chapter. **No extra salt added anywhere in this batch** — same scoping as every prior Meathead batch: Cody's heavier-salt preference is scoped to standalone brining recipes only ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), and every dry-brine/salt amount here — including [§7.122](#7122-the-ultimate-smoked-turkey)'s ½ tsp/lb turkey dry brine — is transcribed exactly as printed, since these are seasoning steps inside regular recipes rather than standalone brine entries. **Six new condensed technique entries, [§T77](#t77-tips-on-cooking-poultry)–[§T82](#t82-how-to-carve-a-turkey)**, added to the Techniques quick index: **Tips on Cooking Poultry** (reverse sear adapted for birds, breaking down/halving/spatchcocking a whole bird, roasting whole vs. why it cooks unevenly, rotisserie/vertical roasting, and the book's own white-meat/dark-meat pull-temperature guidance), **Myth — Beer Can Chicken** (busted: the can never gets hot enough to steam, weighed the same or heavier after cooking in the book's own tests, and beer is ~92% flavorless water anyway; also a real tip-over/burn risk), **Anatomy of a Chicken Wing** (drumette, wingette/flat, and tip, each cooking at a different rate — used directly by [§7.120](#7120-blasphemy-buffalo-chicken-wings)), and three turkey-specific entries: **Choosing Your Turkey** (sizing, "basted"/"enhanced"/"kosher" bird labeling, fresh-vs-frozen realities, thawing time), **Cooking the Perfect Turkey** (a full do's-and-don'ts list — don't stuff it, don't truss the legs, don't baste during cooking, don't trust the pop-up timer, don't tent with foil), and **How to Carve a Turkey** (kitchen not tableside, legs/thighs/the "oyster" meat/breast, in order). **Three recipes skipped rather than guessed at, all genuinely cut off or missing from the source photos:** **Cornell Chicken** (book p. ~299 — the marinade ingredient list is visibly cut off mid-line, "...1 teaspoon Simon & G," with nothing after it and none of the numbered steps legible; a separate, unidentifiable fragment of cooking steps for what appears to be yet another pulled-chicken-with-cracklins recipe sits nearby with no title or ingredients at all, also skipped); **Piri Piri Chicken** (its intro runs to the bottom of book p. 301, but its MAKES/TAKES line and full marinade ingredient list — which would open book p. 302 — are not legible in this scan; only its tail-end cooking steps reappear on p. 303, with no way to reconstruct what precedes them); and **Rotisserie Chicken Provençal** (its title and headnote are legible on book p. 304, but book p. 305 — which would carry its entire ingredient list and numbered steps — was not part of this photographed set at all). **[§17 Meats & Cuts](#17-meats--cuts-reference-index) updated** — new "Cornish game hen" line added to Poultry, and the existing "Whole chicken/hen," "Chicken wings," and "Whole turkey / turkey breast" lines now also point at this batch's recipes. **[§13 Meathead Cookbook](#13-meathead-cookbook) updated** to record that this chapter's dishes landed in §7 and the T-section, same reasoning as every prior Meathead batch. None of the five recipes print net carbs, so none are tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, with [§7.122](#7122-the-ultimate-smoked-turkey)'s explicitly scaled to a representative 14-lb bird since the recipe itself is sized "any size." TOC and Difficulty & Time Index updated throughout — sorted by prep+cook, the five new recipes land at 30 min ([§7.122](#7122-the-ultimate-smoked-turkey), next to [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) — its 2–5 hr smoke lives in the Slow cook column instead, per the [§1 Cody's Pho](#1-codys-pho) precedent), 45 min ([§7.118](#7118-simon--garfunkel-chicken)), 60 min ([§7.121](#7121-marinated-cornish-game-hens)), 75 min ([§7.120](#7120-blasphemy-buffalo-chicken-wings)), and 95 min ([§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)). |
 | 2026-09-05 | **The two Seafood-chapter recipes skipped earlier today for a missing scan have arrived — Cody photographed the missing book pages (341, 342–343, 344–345) and both are now added, along with the lobster technique content that was also stuck behind the same gap.** **Supersedes the "skipped" language in the Seafood chapter's own 2026-09-05 changelog entry below and in [§13 Meathead Cookbook](#13-meathead-cookbook)'s matching update** — that entry is left as an accurate record of what happened at the time, but the gap it describes is now closed; see the fuller status note added to §13. **Two full recipes added to [§7 Mains & Proteins](#7-mains--proteins), continuing straight on from the Ground Meats batch's [§7.115](#7115-the-great-american-steakhouse-burger):** [§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) (Joe Parajecki, Kettle Range Meat Company — shell-on shrimp, oil-and-garlic marinade, quick direct grill) and [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) (Melissa Cookston, Yazoo's Delta Q — jalapeño-and-cream-cheese-stuffed shrimp wrapped in bacon, Cody's own pick: *"the bacon one is good"*). **Both rated 🟢 Easy** per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy — a grease flare-up on the first and partially-cooked, still-flexible bacon on the second are both built-in, forgivable, nothing that can go from perfect to ruined the way a roux or a broken sauce can. **Both recipes' shrimp-prep steps (peeling, deveining, brining) cross-reference the existing [§T56 Shrimp: Sizing, Deveining, and Brining](#t56-shrimp-sizing-deveining-and-brining) rather than repeating the technique inline** — §T56 already carried this content from the original batch (it wasn't actually behind the missing-page gap), so a short shrimp-anatomy line was added to it instead of duplicating a second copy. **[§T57](#t57-lobster-choosing-preparing-and-storing), which *was* behind the gap, is rewritten in full** — renamed from "Storing a Live Lobster" to **"Lobster: Choosing, Preparing, and Storing"** to reflect the added content: cold-water vs. warm-water lobster, picking a lively one, lobster anatomy (claw, tomalley, roe/"coral," tail fan), handling a live lobster safely, and cooking it the same day you buy it — the original live-storage tip is kept, now as one section of a complete entry rather than the whole of it. [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster)'s cross-reference to T57 updated to match the new title and anchor. **No extra salt added** — §7.117's brine amount (¼ cup kosher salt per pound of shrimp) is transcribed exactly as printed at §T56; per the task's own scoping, this is a seasoning/prep step for a regular recipe, not a standalone brine recipe, so Cody's heavier-salt brining preference doesn't apply here. **One flagged discrepancy, transcribed rather than silently fixed:** §7.117's source credits Melissa Cookston's team, Yazoo's Delta Q, as based in "Nesbitt, Missouri" — the real-world team is based in Nesbit, Mississippi, so this reads like the book's own error; printed exactly as it appears, with a note in the entry. TOC and Difficulty & Time Index updated — §7.116 slots in at 25 minutes of prep+cook, next to [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter); §7.117 slots in at 55 minutes, next to [§8.13 Lobster Stew](#813-lobster-stew). Neither recipe prints net carbs, so neither is tagged 🥑 keto per [CLAUDE.md §3c](CLAUDE.md); both Nutrition blocks are estimated from the ingredient lists. |
@@ -775,9 +781,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **3–6 hr** *(smoker + dehydrate, unattended)* | 3¼–6¼ hr |
 | [§4.124 Tartar Sauce](#4124-tartar-sauce) | 🟢 | 15 min | — | — | 15 min active *(+ 2 hr chill)* |
 | [§4.131 Pesto](#4131-pesto) | 🟢 | 15 min | — | — | 15 min |
+| [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) | 🟢 | 15 min | — | — | 15 min |
 | [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 20 min |
 | [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) | 🟢 | 20 min | — | — | 20 min active *(+ brining time per §T37)* |
 | [§4.130 Chimichurri Sauce](#4130-chimichurri-sauce) | 🟢 | 20 min | — | — | 20 min |
+| [§8.38 Brothy: Stracciatella](#838-brothy-stracciatella-roman-egg-drop-soup) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 10 min *(+ refrigerate, time not given)* |
@@ -897,6 +905,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) *(Meathead)* | 🟢 | 15 min | 1 hr *(bone roast)* | **4–8 hr** *(simmer, unattended)* | ~6 hr |
 | [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(Meathead)* | 🟢 | 10 min | 15 min | — | 2 hr 25 min *(+ 1–2 hr wet brine)* |
 | [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) *(Meathead)* | 🟢 | 15 min | 1 hr *(mostly unattended)* + 5 min | — | 1 hr 20 min |
+| [§8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) | 🟢 | 25 min | 55 min | — | 1 hr 20 min |
 | [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) *(Meathead)* | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(Meathead)* | 🟢 | 10 min | — | **2½–3 hr** *(indirect grill, unattended)* | 3 hr 10 min |
 | [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(Meathead)* | 🟡 | 20 min | — | **2–2½ hr** *(indirect grill, unattended)* | 2 hr 45 min *(+ 3 hr dry brine)* |
@@ -1021,6 +1030,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 35 min | — | 2 hr *(includes a 1–2 hr dry brine)* |
 | [§5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) *(Meathead)* | 🟢 | 25 min | 20 min | — | 45 min |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
+| [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) | 🟢 | 20 min | 28 min | — | 50 min *(plus full cooling and up to 2 hr chill before filling — not active work)* |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) ❤️ | 🟢 | 20 min | 30 min | — | 50 min |
@@ -1046,6 +1056,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) | 🟢 | 40 min | 35 min | — | 1 hr 15 min |
 | [§7.90 Smoked Salmon Quiche](#790-smoked-salmon-quiche) *(Meathead)* | 🟢 | 30 min | 45 min | — | 1 hr 30 min *(includes a 15 min cooling rest)* |
 | [§4.127 Cascabel Mole (inspired by Chef Rick Bayless)](#4127-cascabel-mole-inspired-by-chef-rick-bayless) | 🟡 | 30 min | 1 hr | — | 1 hr 30 min |
+| [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) | 🟢 | 20 min | 1 hr 10 min *(mostly a low simmer)* | — | 1 hr 30 min |
 | [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) | 🟢 | 15 min | — | **~3 hr** *(simmer, mostly unattended)* | 3 hr 15 min |
 | [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) | 🟢 | 10 min | — | **3–7 hr** *(slow cooker)* | 3 hr 10 min – 7 hr 10 min |
@@ -9391,6 +9402,83 @@ Per the source, this is a concept as much as a fixed recipe — the technique ha
 
 ---
 
+### 4.134 Creamy Caesar Dressing
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 247), from the "Creamy" chapter of her recipe section. Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat). **This is the actual dressing those two entries already teach with** — [§T29](#t29-how-to-salt) uses it to demonstrate layering salt (anchovies, Parmesan, Worcestershire, garlic, and salt itself, five sources in one dressing), and [§T31 How to Use Acid](#t31-how-to-use-acid) uses the same dressing for layering acid (Parmesan and Worcestershire bring acid *and* salt, balanced with wine vinegar and lemon juice). Both entries described the technique in the abstract; this is that dressing written up in full, with real quantities.
+
+> **Per the source:** *"Has putting a lesson you read in a book into practice ever been this delicious? I doubt it."*
+
+**Yield:** about 1½ cups
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+#### A. Ingredients
+
+- 4 salt-packed anchovies (or 8 fillets), soaked and filleted
+- ¾ cup stiff mayonnaise, homemade or store-bought *(the source calls for its own "Basic Mayonnaise" — see the note below)*
+- 1 garlic clove, finely grated or pounded with a pinch of salt
+- 3 to 4 tablespoons lemon juice
+- 1 teaspoon white wine vinegar
+- 3-ounce chunk of Parmesan, finely grated (about 1 cup), plus more for serving
+- ¾ teaspoon Worcestershire sauce
+- Freshly ground black pepper
+- Salt
+
+> **Salt-packed vs. oil-packed anchovies.** Salt-packed anchovies are cured whole in salt rather than oil, which gives a cleaner, less "fishy" flavor — but they need soaking in water for a few minutes to wash off the excess surface salt, then filleting by hand (pulling the two fillets off the central backbone with your fingers) before use. The more common jarred or tinned oil-packed fillets skip both steps, which is exactly why the ingredient list offers them as a straight swap: 8 oil-packed fillets in place of the 4 whole salt-packed ones.
+
+> **A note on the mayonnaise.** The source builds this on its own "Basic Mayonnaise" recipe (printed elsewhere in the book, not among the pages photographed for this cookbook), specified "stiff" — thicker than a standard jarred mayonnaise, so the dressing clings rather than pools. **Not yet documented here — flagged as a gap rather than invented.** In its place, use ¾ cup good store-bought mayonnaise, or this cookbook's own **[§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)** (whisk in the oil a little slower and a little longer than usual for a thicker result, closer to the "stiff" the source wants).
+
+#### B. Cooking Instructions
+
+**1. Pound the anchovies into a paste.**
+Coarsely chop the anchovies, then pound them in a mortar and pestle (a small stone or ceramic bowl-and-club set for grinding by hand — a fork mashed against the side of a bowl works in a pinch) into a fine paste. The more thoroughly they're broken down, the smoother and more evenly the dressing will taste — no anchovy chunks or stray fishy bites.
+
+**2. Stir everything together, then taste and adjust.**
+In a medium bowl, stir together the anchovy paste, mayonnaise, garlic, lemon juice, vinegar, Parmesan, Worcestershire sauce, and pepper. Taste it on an actual leaf of lettuce, not off the spoon — dressing reads saltier and sharper on a leaf than it does alone. Then add salt and adjust the acid as needed.
+
+**3. Or, layer the salt on purpose.**
+Alternatively — and this is the technique [§T29 How to Salt](#t29-how-to-salt) teaches using this exact dressing — add each salty ingredient to the mayonnaise a little at a time, tasting between each one, rather than dumping them all in at once. Adjust the acid as you go, then taste and fine-tune the salty ingredients until the balance of salt, fat, and acid feels right. Building the flavor this way, in layers, makes a noticeably better dressing than mixing everything at once and salting at the end.
+
+**4. Toss the salad by hand.**
+To make the salad, use your hands (not tongs or salad servers) to toss the greens with an abundant amount of dressing, coating everything evenly — hands can feel where the dressing hasn't reached in a way tongs can't. Garnish with Parmesan and freshly ground black pepper and serve immediately.
+
+> **Torn Croutons**, per the source, are the traditional garnish here — bread torn into rough, irregular pieces (rather than cut into neat cubes) before toasting, so the jagged edges crisp unevenly and grab more dressing. That recipe isn't among the pages photographed for this cookbook, so it's named here rather than invented; plain toasted bread cubes or a store-bought crouton work as a stand-in until it's added.
+
+Refrigerate leftover dressing, covered, for up to 3 days.
+
+**Best on:** romaine and Little Gem lettuce, chicories, raw or blanched kale, shaved Brussels sprouts, Belgian endive.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Anchovies — 4 salt-packed (or 8 oil-packed fillets)
+- 🛒 Mayonnaise — ¾ cup, or ingredients for [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)
+- 🛒 Garlic — 1 clove
+- 🛒 Lemons, for juice — 3 to 4 Tbsp
+- 🛒 White wine vinegar — 1 tsp
+- 🛒 Parmesan — 3-ounce chunk, plus more for serving
+- 🛒 Worcestershire sauce
+- 🛒 Freshly ground black pepper and salt
+- 🛒 Romaine, Little Gem, or other greens named above, for serving
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1½ cups)* | ~1,510 | 147 g | 37 g | 7 g | 0 g |
+| **Per serving** *(2 Tbsp, of about 12)* | ~125 | 12 g | 3 g | 0.5 g | 0 g |
+
+**What a serving is:** 2 Tbsp — enough to dress one dinner-sized salad portion.
+
+#### D. Open Questions
+
+- **Basic Mayonnaise (source page 375) and Torn Croutons are both named ingredients/garnishes in this recipe, and neither is documented in this cookbook** — the pages weren't among those photographed. Store-bought mayonnaise (or [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)) and plain toasted croutons stand in above; revisit if those source pages ever get photographed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -11733,7 +11821,7 @@ Lots of ingredients are already salty — anchovies, capers, olives, bacon and c
 
 The trick is to **plan for them before you start**. If you salt as you go and forget about the anchovies and Parmesan coming later, you'll blow right past where you wanted to be.
 
-Caesar dressing is the classic practice run. Anchovies, Parmesan, Worcestershire, garlic mashed with salt, plus salt itself — five sources of salt in one dressing. Start with an unsalted mayonnaise base, then add each salty ingredient a little at a time, tasting between each one. Add something acidic to balance as you go. Save the actual salt for last, and only use it to fill whatever gap is left. And since dressing tastes different on a leaf than off a spoon, dip a piece of lettuce in for the final check. *(That unsalted mayo base is [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s Golden Mayo Ratio.)*
+Caesar dressing is the classic practice run. Anchovies, Parmesan, Worcestershire, garlic mashed with salt, plus salt itself — five sources of salt in one dressing. Start with an unsalted mayonnaise base, then add each salty ingredient a little at a time, tasting between each one. Add something acidic to balance as you go. Save the actual salt for last, and only use it to fill whatever gap is left. And since dressing tastes different on a leaf than off a spoon, dip a piece of lettuce in for the final check. *(That unsalted mayo base is [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s Golden Mayo Ratio. This dressing is now written up in full, with real quantities, as [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing).)*
 
 The habit to build: when a dish needs more salt, stop and ask *where should that salt come from?* More anchovy? More cheese? A splash of fish sauce? Sometimes plain salt is the right answer. Often something else is better, because it brings flavor along with the salt.
 
@@ -12056,7 +12144,7 @@ Just like salt and fat, one dish can use several acids at once.
 
 Take a Greek salad: feta, tomatoes, olives, and red wine vinegar. That's four different sources of acid working together. *(See [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) — Cody's version swaps in goat cheese and green olives, but the four-acid structure is the same.)*
 
-Or Caesar dressing: Parmesan and Worcestershire both bring acid *and* salt, then you balance with wine vinegar and lemon juice. Four sources again. Adjust each one little by little, tasting as you go. *(This is the same dressing [§T29](#t29-how-to-salt) uses as its salt-layering exercise — one dish, teaching both lessons.)*
+Or Caesar dressing: Parmesan and Worcestershire both bring acid *and* salt, then you balance with wine vinegar and lemon juice. Four sources again. Adjust each one little by little, tasting as you go. *(This is the same dressing [§T29](#t29-how-to-salt) uses as its salt-layering exercise — one dish, teaching both lessons. Full recipe: [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing).)*
 
 A nice move is to use the **same acid twice** — once for cooking, once for garnish. Braise pork with tomatoes, then spoon tomato salsa over it. Cook risotto with wine, then splash a little of that same wine over at the end. You get two different tastes of one ingredient.
 
@@ -28531,6 +28619,226 @@ Garnish with extra basil leaves and serve with your favorite bread.
 
 ---
 
+### 8.37 Chicken and Garlic Soup
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 332–333). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing). Two named variations (Spring Garlic Soup, Pho Gà) and two serving tips are folded into this one entry as callouts, matching this cookbook's existing precedent for recipe variations — see [§14.20 Cream Caramel](#1420-cream-caramel)'s variation note — rather than spun off into separate numbered recipes, since none of them changes the core method.
+
+> **Per the source:** *"This soup is so satisfying that I had to include it with the chicken—and not the soup—recipes. Made with a whole chicken, it yields a satisfying dinner for four (or two, with leftovers!). Cooking the chicken in homemade stock gives this soup an extra layer of flavor. If you don't have any stock on hand, get some from the butcher instead of using canned or boxed stock—it'll make all the difference!"*
+
+**Makes 3 quarts (serves 6 to 8)**
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr 10 min** *(mostly a low simmer)* · **Start to finish ~1 hr 30 min**
+
+#### A. Ingredients
+
+- 4-lb chicken, quartered; or 4 large chicken legs and thighs
+- Salt
+- Freshly ground black pepper
+- Extra-virgin olive oil
+- 2 medium yellow onions, diced (about 3 cups)
+- 3 large carrots, peeled and diced (about 1¼ cups)
+- 3 large celery stalks, diced (about 1 cup)
+- 2 bay leaves
+- 10 cups chicken stock *(the source's own "Chicken Stock, page 271" isn't among the pages photographed for this cookbook — good store-bought stock works, or this cookbook's own [§T12 Fast Homemade Chicken Broth](#t12-fast-homemade-chicken-broth) or [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood))*
+- 20 garlic cloves, thinly sliced
+- Optional: Parmesan rind
+
+#### B. Cooking Instructions
+
+**1. Season the chicken ahead, if you can.**
+If starting from a whole bird, quarter it into two leg-thigh pieces and two breast pieces, and save the backbone and wingtips for your next batch of stock. Season generously all over with salt and freshly ground black pepper — ideally the night before, since salt needs time to work its way into the meat rather than just sitting on the surface, but even an hour ahead on the counter beats seasoning right before it hits the pot. Refrigerate the chicken if salting more than an hour ahead; otherwise leave it out at room temperature.
+
+**2. Brown the chicken in two batches. About 4 minutes per side.**
+Heat an 8-quart Dutch oven (a large, heavy, lidded pot — enameled cast iron is ideal) over high heat and add enough olive oil to coat the bottom. Wait until the oil shimmers — it looks thin and rippled, almost like heat waves over pavement, which is the visual cue that it's hot enough to sear the chicken rather than just steam it. Add half the chicken, skin-side down, and brown thoroughly, about 4 minutes per side, then remove and set aside. Repeat with the rest. Working in two batches (instead of crowding it all in at once) keeps the pot hot enough to actually brown the skin instead of just graying it.
+
+**3. Sweat the vegetables in the rendered fat. About 12 minutes.**
+Carefully pour off most of the fat left in the pot. Return it to the stove over medium-low heat, add the onions, carrots, celery, and bay leaves, and cook, stirring occasionally, until soft and lightly golden, about 12 minutes.
+
+**4. Add the chicken back with the stock, and bring to a simmer.**
+Return the browned chicken to the pot along with the 10 cups stock (or water), salt, pepper, and the Parmesan rind if using. Bring to a boil, then drop the heat back down to a simmer.
+
+**5. Bloom the garlic separately, then stir it in.**
+In a small frying pan over medium heat, add enough olive oil to coat the bottom, then add the sliced garlic. Sizzle it gently for about 20 seconds — just until it smells fragrant. Don't let it take on any color, or it turns bitter instead of sweet. Scrape the garlic and its oil into the soup and let the simmer continue.
+
+**6. Simmer until tender. Breasts about 12 minutes more; legs and thighs about 50 minutes total.**
+If breasts are in the pot, pull them out after about 12 minutes so they don't dry out, and let everything else keep simmering. Legs and thighs are more forgiving and want closer to 50 minutes total (counting from when the pot first came to a simmer in Step 4) until they're fall-apart tender. Turn off the heat once the chicken's done, and skim the fat from the surface of the broth with a large spoon.
+
+**7. Shred the chicken and return it to the pot.**
+Pull the chicken out and let it cool until it's safe to handle. Pick the meat off the bones and shred it with your fingers or two forks; discard the bones (and the skin, if you'd rather — though it's worth finely chopping and stirring it back in for extra richness). Return the shredded meat to the broth, taste, and adjust the salt. Serve hot.
+
+Refrigerate, covered, up to 5 days, or freeze up to 2 months.
+
+> **Variation — Spring Garlic Soup.** For a more delicate soup, skip the 20 garlic cloves. Instead, stew 6 stalks of thinly sliced green garlic (young garlic pulled before the bulb fully forms — milder and closer in flavor to a scallion than a mature clove) along with the onion, carrot, celery, and bay leaves back in Step 3.
+
+> **Variation — *Pho Gà* (Vietnamese Chicken Soup).** Skip the onion, carrot, celery, bay leaves, black pepper, and garlic entirely. Instead, char 2 peeled yellow onions and a 4-inch piece of ginger directly over a gas burner for about 5 minutes, or under the broiler, until the skins blacken — the char is where the flavor comes from, so don't skip it or cut it short. Add the charred onion and ginger to the broth along with ¼ cup fish sauce, 1 star anise, and 2 tablespoons brown sugar, then cook the chicken in this broth exactly as in Steps 2–6, about 50 minutes total. Discard the onion and ginger, shred the chicken, and return it to the pot as in Step 7. Pour the finished broth over rice noodles and top with fresh basil and bean sprouts. *(A different chicken pho from [§1 Cody's Pho](#1-codys-pho)'s beef version — same idea, different protein and broth build; [§1](#1-codys-pho)'s established chuck-roast/sous-vide facts are about the beef pho and don't apply here.)*
+
+> **To add heartiness:** stir in cooked rice, pasta, rice noodles, beans, barley, or farro.
+
+> **To turn it into a main course:** ladle the soup over coarsely chopped baby spinach in each bowl, then top with a poached egg before serving.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong Market / Chinese market** *(for the Pho Gà variation)*
+
+- ☯️ Fresh ginger — one 4-inch piece
+- ☯️ Fish sauce — ¼ cup
+- ☯️ Star anise — 1
+- ☯️ Rice noodles
+- ☯️ Fresh Thai basil
+- ☯️ Bean sprouts
+
+**🛒 General grocery**
+
+- 🛒 Chicken — 4 lb, quartered (or 4 large legs and thighs)
+- 🛒 Salt and freshly ground black pepper
+- 🛒 Extra-virgin olive oil
+- 🛒 Yellow onions — 2 medium (plus 2 more for Pho Gà)
+- 🛒 Carrots — 3 large
+- 🛒 Celery — 3 large stalks
+- 🛒 Bay leaves — 2
+- 🛒 Chicken stock — 10 cups
+- 🛒 Garlic — 20 cloves, or 6 stalks green garlic for Spring Garlic Soup
+- 🛒 Parmesan rind, optional
+- 🛒 Brown sugar — 2 Tbsp, for Pho Gà
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~2,300 | 150 g | 290 g | 55 g | 9 g |
+| **Per serving** *(serves 8)* | ~290 | 19 g | 36 g | 7 g | 1 g |
+
+**What a serving is:** a hearty 1½ to 2-cup bowl, loaded with shredded chicken and vegetables.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.38 Brothy: Stracciatella (Roman Egg Drop Soup)
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 273), from the "Brothy" chapter of her recipe section. Same source as [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)/[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)/[§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+**Makes 10 cups (serves 4 to 6)**
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test — can a step go from perfect to ruined? — this one genuinely can. The source is explicit: pour the egg in too fast or stir too hard, and instead of wide, silky ribbons, the egg "breaks up into tiny, unappetizing bits." It's a small, fast window (about 30 seconds), but a real one — not a hands-off soup like most of the rest of this section.
+
+#### A. Ingredients
+
+- 9 cups chicken stock *(store-bought, homemade, or see [§T12](#t12-fast-homemade-chicken-broth)/[§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood))*
+- Salt
+- 6 large eggs
+- Freshly ground black pepper
+- ¾-ounce chunk of Parmesan, finely grated (about ¾ cup), plus more for serving
+- 1 tablespoon finely chopped parsley
+
+#### B. Cooking Instructions
+
+**1. Bring the stock to a simmer and season it.**
+In a medium pot, bring the stock to a simmer over medium heat and season with salt.
+
+**2. Whisk the egg mixture.**
+In a liquid measuring cup with a spout (a medium bowl also works, though the spout makes the next step easier), whisk together the eggs, a generous pinch of salt, the pepper, grated Parmesan, and parsley.
+
+**3. Pour the eggs into the simmering stock in a thin stream, stirring gently — this is the step that can go wrong.**
+With the stock at a steady, gentle simmer, pour the egg mixture in slowly, in a thin, steady stream, while stirring the soup gently with a fork the entire time. The goal is *stracci* — Italian for "rags," which is where the soup gets its name — wide, silky ribbons of cooked egg drifting through the broth, not fine curds. Pour too fast, stir too hard, or keep stirring after the egg's mostly in, and it overmixes: the ribbons shatter into tiny, unappetizing bits instead. Go slow, keep the fork moving gently and steadily, and resist the instinct to whisk it the way you'd scramble eggs in a pan.
+
+**4. Let the egg finish cooking. About 30 seconds.**
+Once all the egg is in, let it cook for about 30 seconds more, just until it's set into ribbons — then it's done.
+
+**5. Ladle, garnish, and serve immediately.**
+Ladle into bowls, garnish with more Parmesan, and serve right away. Stracciatella doesn't hold well once it's plated — the ribbons keep firming up the longer it sits.
+
+Cover and refrigerate leftovers up to 3 days. To reheat, bring gently back to a simmer rather than a hard boil, which would toughen the egg ribbons.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chicken stock — 9 cups
+- 🛒 Eggs — 6 large
+- 🛒 Parmesan — ¾-ounce chunk, plus more for serving
+- 🛒 Fresh parsley — 1 Tbsp, chopped
+- 🛒 Salt and freshly ground black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** *(10 cups)* | ~965 | 35 g | 64 g | 5 g | 0 g |
+| **Per serving** *(serves 5)* | ~195 | 7 g | 13 g | 1 g | 0 g |
+
+**What a serving is:** about 1½ cups — a light, brothy first course, not a meal on its own.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.39 Smooth: Silky Sweet Corn Soup
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 275–276), from the "Smooth" chapter of her recipe section. Same source as [§8.37](#837-chicken-and-garlic-soup)/[§8.38](#838-brothy-stracciatella-roman-egg-drop-soup)/[§4.134](#4134-creamy-caesar-dressing)/[§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). Its Variations fold in the source's general vegetable-soup formula and its no-cook Chilled Cucumber and Yogurt Soup, matching this cookbook's precedent for keeping a source's own variations inline rather than spinning each into a separate numbered recipe.
+
+> **Per the source:** *"I'm a firm believer that the best cooking is not so much about fancy techniques and expensive ingredients. Sometimes the tiniest—and most inexpensive—thing will make all the difference. Nothing demonstrates that idea as well as this soup, whose secret ingredient is a quick stock made using nothing more than cobs and water."*
+
+**Makes 10 cups (serves 6 to 8)**
+
+**🟢 Easy** · **Prep ~25 min** · **Cook ~55 min** · **Start to finish ~1 hr 20 min**
+
+#### A. Ingredients
+
+- 8 to 10 ears corn, husks, stalks, and silk removed
+- 8 tablespoons (4 ounces) butter
+- 2 medium yellow onions, sliced
+- Salt
+
+#### B. Cooking Instructions
+
+**1. Cut the kernels off the cob, saving the cobs.**
+Fold a kitchen towel into quarters and set it inside a large, wide metal bowl. Hold an ear of corn upright on the towel with one hand — it helps to pinch the top of the ear steady. With a serrated knife or sharp chef's knife, cut off two or three rows of kernels at a time, sliding the blade down the cob and staying as close to the cob as you can. Resist cutting off more rows at once than that — it leaves good corn behind. Save the stripped cobs; they're not waste, they're the next step.
+
+**2. Make a quick stock from the cobs. About 10 minutes.**
+In a soup pot, cover the cobs with 9 cups water and bring to a boil. Reduce the heat and simmer for 10 minutes, then remove and discard the cobs. Set the stock aside.
+
+**3. Cook the onions low and slow until blond. About 20 minutes.**
+Return the pot to the stove over medium heat and add the butter. Once it's melted, add the onions and drop the heat to medium-low. Cook, stirring occasionally, until the onions are completely soft and translucent — or **blond**, meaning pale golden rather than actually browned (a different use of the word than a dark roux, which this soup has nothing to do with) — about 20 minutes. If the onions start to brown instead of just going translucent, add a splash of water and keep an eye on things, stirring more frequently, to stop the browning.
+
+**4. Sauté the corn, then add stock and simmer. 3 to 4 minutes, then 15 minutes.**
+Once the onions are tender, add the corn kernels, raise the heat to high, and sauté just until the corn turns a brighter shade of yellow, 3 to 4 minutes. Add just enough of the cob stock to cover everything (save the rest in case the soup needs thinning later), season with salt, taste, and adjust. Bring to a boil, then drop to a simmer for 15 minutes.
+
+**5. Purée until silky.**
+If you have an immersion blender (a handheld blender you lower directly into the pot, rather than transferring soup to a countertop blender jar), use it to carefully blend the soup right in the pot until smooth. **If you don't have one, work in batches in a countertop blender or food processor instead of trying to blend the whole hot potful at once** — fill the jar no more than halfway, remove the center cap from the lid and cover the opening loosely with a folded kitchen towel instead (hot liquid expands and can blow the lid off a fully sealed blender), and hold the lid down firmly while starting on the lowest speed. For an extra-silky texture, strain the puréed soup one more time through a fine-mesh sieve (a strainer with very small holes) to catch any remaining bits of corn fiber.
+
+**6. Taste for balance, then serve.**
+Taste the soup for salt, sweetness, and acid. If it tastes flatly sweet with nothing to cut it, a tiny bit of white wine vinegar or lime juice will balance it out. Serve either chilled with a spoonful of salsa over it, or hot — bring it back to a boil first if serving hot.
+
+> **Variation — any vegetable soup.** Follow this same method and formula — about 2½ pounds of vegetables or cooked legumes, 2 onions, and enough stock or water to cover — to turn practically any other vegetable into a velvety soup. The cob stock itself is unique to corn; don't try to replicate it for other vegetables (carrot-peel stock, for instance, won't add much).
+
+> **Variation — Chilled Cucumber and Yogurt Soup (no cooking at all).** Purée seeded, peeled cucumbers with yogurt, then thin with water to the consistency you want.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Corn — 8 to 10 ears, in the husk
+- 🛒 Butter — 8 Tbsp (4 oz)
+- 🛒 Yellow onions — 2 medium
+- 🛒 Salt
+- 🛒 White wine vinegar or lime, for balancing if needed
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** *(10 cups)* | ~1,710 | 92 g | 29 g | 195 g | 22 g |
+| **Per serving** *(serves 7)* | ~245 | 13 g | 4 g | 28 g | 3 g |
+
+**What a serving is:** about 1¼ cups — a first-course bowl, or a light lunch with bread.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 9. Snacks & Light Meals
 
 ### 9.1 Almond Flour Chips and Salsa
@@ -32619,6 +32927,99 @@ Slide a small knife between the caramel and the mould to loosen it. Invert onto 
 
 - **The custard's sugar quantity (~87 g) is a best-guess reading of small, dense print** — it looked like it might be a metric-conversion artifact. Verify against the physical book before treating it as exact.
 - **Several other instruction details came from the same dense print** and are transcribed in good faith rather than with full certainty — see the ⚠️ note at the top of the entry.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 14.21 Lori's Chocolate Midnight Cake
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 410–411), from the "Two Favorite Oil Cakes" section. Same source as [§8.37](#837-chicken-and-garlic-soup)–[§8.39](#839-smooth-silky-sweet-corn-soup), [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), and [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+> **Per the source's own headnote:** *"By age twenty, I'd given up on the idea that I'd ever encounter a chocolate cake recipe that yielded the flavorful bite I'd always dreamed of... A few months after I began bussing tables at Chez Panisse, my friend Lori Podraza brought in a Midnight Cake, topped with Vanilla Cream, to celebrate another cook's birthday... One bite and I was sunk... Only months later did I realize that the cake is so moist because it's made with oil, rather than butter—just like the cake mix cakes I'd always loved!"*
+
+> **Why oil instead of butter.** This is the same principle [§T30 How to Use Fat](#t30-how-to-use-fat) already covers: *"Oil is the champion here. It coats flour better than anything, which is why oil cakes come out so moist — carrot cake, olive oil cake, chocolate cake made with oil."* Butter is only about 80% fat (the rest is milk solids and water), and it firms up as it cools; oil is 100% fat and stays liquid at room temperature, so it keeps coating the flour's gluten strands and keeps the crumb tender and moist well after the cake has cooled — which is exactly the texture this recipe is chasing.
+
+**Makes two 8-inch cake layers**
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~28 min** *(mostly unattended baking)* · **Start to finish ~50 min** *(plus full cooling on a rack and up to 2 hr chill before filling and serving — not active work)*
+
+#### A. Ingredients
+
+- ½ cup (2 ounces) Dutch-process cocoa powder, preferably Valrhona
+- 1½ cups (10½ ounces) sugar
+- 2 teaspoons kosher salt, or 1 teaspoon fine sea salt
+- 1¾ cups (9¼ ounces) all-purpose flour
+- 1 teaspoon baking soda
+- 2 teaspoons vanilla extract
+- ½ cup neutral-tasting oil
+- 1½ cups boiling water, or freshly brewed strong coffee
+- 2 large eggs, at room temperature, lightly whisked
+- 2 cups Vanilla Cream *(source page 423 — not photographed; see the note below)*
+
+> **Dutch-process vs. natural cocoa — and why it matters with the baking soda.** Natural (non-alkalized) cocoa powder is naturally acidic; Dutch-process cocoa has been treated with an alkali to neutralize that acidity, which is what gives it its darker color and smoother, less bitter flavor. [§T31 How to Use Acid](#t31-how-to-use-acid) explains why this matters here: *"Baking soda needs an acid partner to make bubbles — that's why recipes with baking soda usually include buttermilk, brown sugar, honey, or natural cocoa powder."* Because Dutch-process cocoa has had its acid stripped out, this recipe leans on its liquid instead — freshly brewed coffee is mildly acidic (and deepens the chocolate flavor besides, the classic reason coffee shows up in chocolate cakes at all), which is likely why the source offers it as the preferred alternative to plain boiling water.
+
+#### B. Cooking Instructions
+
+**1. Preheat and prep the pans.**
+Preheat the oven to 350°F, with a rack set in the upper third. Grease two 8-inch cake pans, line them with parchment paper, then grease the parchment too and dust generously with flour, tapping out the excess.
+
+**2. Whisk the dry ingredients, then sift.**
+In a medium bowl, whisk together the cocoa, sugar, salt, flour, and baking soda. Sift the mixture into a large bowl — sifting breaks up any cocoa lumps and keeps the baking soda evenly distributed, so you don't bite into a bitter fleck of it later.
+
+**3. Stir the oil and vanilla together, then add the hot liquid.**
+In a medium bowl, stir the vanilla and oil together. Bring the water to a boil (or brew the coffee), then add it to the oil-vanilla mixture.
+
+**4. Whisk the wet ingredients into the dry, then the eggs. The batter will be thin.**
+Make a well in the center of the dry ingredients and gradually whisk in the water-oil mixture until incorporated. Gradually whisk in the lightly whisked eggs and stir until smooth. Don't be alarmed that the batter looks thin and pourable — that's correct for this cake, not a sign something went wrong.
+
+**5. Divide between the pans and knock out air bubbles.**
+Divide the batter evenly between the prepared pans. Drop each pan onto the counter from a height of about 3 inches, a couple of times, to release any air bubbles that formed while mixing.
+
+**6. Bake. 25 to 30 minutes.**
+Bake in the upper third of the oven for 25 to 30 minutes, until the cakes spring back to the touch and just start to pull away from the edges of the pan. A toothpick inserted in the center should come out clean.
+
+**7. Cool completely before unmolding.**
+Cool the cakes completely on a wire rack — while still warm they're too fragile to unmold cleanly — before turning them out of the pans and peeling off the parchment.
+
+**8. Fill and stack.**
+Place one cake layer on a serving plate. Spread 1 cup Vanilla Cream (or the substitute noted below) in the center of the cake, then gently set the second layer on top. Spread the remaining cream over the center of the top layer and chill for up to 2 hours before serving.
+
+Alternatively, per the source: top with cream cheese frosting, serve plain with ice cream on the side, or simply dust the layers with cocoa powder or powdered sugar. The batter also makes fantastic cupcakes.
+
+Tightly wrapped, the cake keeps 4 days at room temperature, or 2 months in the freezer.
+
+> **Vanilla Cream isn't documented in this cookbook yet.** The source builds the filling and frosting from its own "Vanilla Cream" recipe (page 423), which wasn't among the pages photographed — so it isn't invented here. Until that page is available, a straightforward substitute works well between and on top of these layers: lightly sweetened whipped cream (whip 2 cups heavy cream with a few tablespoons of powdered sugar and a splash of vanilla extract to soft-to-medium peaks), or a basic vanilla buttercream if a sturdier, sweeter frosting is wanted. The source's own alternatives — cream cheese frosting, a dusting of cocoa or powdered sugar, or ice cream on the side — are equally valid and require no substitution at all.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dutch-process cocoa powder — ½ cup (2 oz), preferably Valrhona
+- 🛒 Sugar — 1½ cups
+- 🛒 Kosher salt or fine sea salt
+- 🛒 All-purpose flour — 1¾ cups
+- 🛒 Baking soda — 1 tsp
+- 🛒 Vanilla extract — 2 tsp
+- 🛒 Neutral oil (vegetable or similar) — ½ cup
+- 🛒 Coffee, freshly brewed and strong (or use boiling water) — 1½ cups
+- 🛒 Eggs — 2 large
+- 🛒 Heavy cream, powdered sugar, and vanilla extract — for the whipped-cream filling substitute (see note above), or ingredients for cream cheese frosting / a basic vanilla buttercream
+
+#### Nutrition *(estimated)*
+
+*Cake layers only — the Vanilla Cream filling isn't documented, so its calories aren't included; see the substitute note above if using whipped cream or buttercream instead.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole cake** *(two unfrosted 8-inch layers)* | ~3,360 | 129 g | 50 g | 530 g | 26 g |
+| **Per serving** *(serves 12, unfrosted layers only)* | ~280 | 11 g | 4 g | 44 g | 2 g |
+
+**What a serving is:** one slice, about 1/12 of the assembled two-layer cake — plain, before adding the Vanilla Cream or its substitute (add roughly 90–130 kcal per slice for a whipped-cream filling, more for buttercream).
+
+#### D. Open Questions
+
+- **Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook** — the page wasn't among those photographed. A whipped-cream or basic buttercream substitute is noted above; revisit and replace once that source page is available.
 
 [↑ Table of Contents](#table-of-contents)
 

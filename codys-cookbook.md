@@ -429,6 +429,12 @@ Click any recipe to jump straight to it.
 - [7.127 Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) ✅ *(Salt, Fat, Acid, Heat; includes a Persian Roast Chicken variation — the entry [§5.49](#549-persian-ish-rice)/[§4.155](#4155-herbed-yogurt) were waiting on)*
 - [7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) ✅ *(Salt, Fat, Acid, Heat)*
 - [7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) ✅ *(Salt, Fat, Acid, Heat; "A Lesson in Layering Acid")*
+- [7.130 Beef Back Ribs](#7130-beef-back-ribs) ✅ *(The Meathead Method)*
+- [7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) ✅ *(The Meathead Method; sear, sous vide, smoke, sear)*
+- [7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) ✅ *(The Meathead Method; bacon-wrapped, kōji-marinated)*
+- [7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) ✅ *(The Meathead Method; Clint Cantwell)*
+- [7.134 Afterburner Fajitas](#7134-afterburner-fajitas) ✅ *(The Meathead Method; the afterburner method)*
+- [7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) ✅ *(The Meathead Method; distinct from §7.112 Texas Beef Brisket)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -587,6 +593,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-06 | **Beef/Bison/Lamb batch from the same 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — the second batch from this source, picking up right after the Rubs & Spice Blends batch below. **Despite the chapter's own name, only beef recipes appeared in this batch's scan — no bison or lamb recipe was among the photographed pages.** **Six full recipes added to [§7 Mains & Proteins](#7-mains--proteins)**, continuing straight on from [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole): **[§7.130](#7130-beef-back-ribs) Beef Back Ribs** (the bones trimmed off a prime rib or ribeye, smoked whole as their own cut, carved "Cadillac style" — distinct from [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), also back ribs but a different rub/method), **[§7.131](#7131-smoked-sous-vide-steak) Smoked Sous-Vide Steak** (sear, sous vide, smoke, sear — stacking every method this cookbook's steak entries use individually onto one steak), **[§7.132](#7132-kōji-filet-mignon) Kōji Filet Mignon** (bacon-wrapped, marinated in a Japanese fermented-rice-culture paste, pan-seared and finished in a mushroom cream sauce), **[§7.133](#7133-clints-chuck-roast-sandwiches) Clint's Chuck Roast Sandwiches** (a whole chuck roast smoked like a mini brisket, credited to pitmaster Clint Cantwell — distinct from this cookbook's existing braised chuck roasts, [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)/[§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine)), **[§7.134](#7134-afterburner-fajitas) Afterburner Fajitas** (citrus-marinated outside skirt steak, seared over a charcoal chimney's full blast of heat), and **[§7.135](#7135-championship-brisket-and-burnt-ends) Championship Brisket and Burnt Ends** (a competition-circuit method — point and flat separated, injected, and pulled to two different internal targets, the point re-glazed into burnt ends — **kept distinct from and cross-referenced to the existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket)**, the same author's simpler single-target method from his earlier book, and from [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)). **Rated 🟢 Easy for the two long, unattended smokes with nothing that can go wrong** ([§7.130](#7130-beef-back-ribs), [§7.133](#7133-clints-chuck-roast-sandwiches)) **and 🟡 Medium for the four that hinge on a genuinely fast, attended searing or judgment step** ([§7.131](#7131-smoked-sous-vide-steak)'s final sear, [§7.132](#7132-kōji-filet-mignon)'s small-cut high-heat sear, [§7.134](#7134-afterburner-fajitas)'s 30-second-flip afterburner sear, and [§7.135](#7135-championship-brisket-and-burnt-ends)'s extra separate-inject-pull-to-two-targets-and-reglaze judgment calls beyond what the Easy-rated [§7.112](#7112-texas-beef-brisket) asks for) — per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk philosophy. **No salt amounts altered anywhere in this batch** — every dry brine and rub quantity is transcribed exactly as printed, per Cody's standing scoping of the heavier-salt preference to standalone brining recipes only. **One recipe skipped as genuinely incomplete:** **Pho with Leftover Brisket and Smoked Bone Broth** (book p. 216–217) — both ingredient lists (Smoked Bone Broth and the pho itself) are fully legible, but the photographed spread jumps straight from ingredients to the next recipe with no numbered cooking steps anywhere in the scan; named here rather than guessed at. **Two myth-busting boxes folded into the recipes/technique entries they belong with, rather than given their own T-numbers:** "the best sear comes from putting meat right on the coals" (busted — a heated salt block is the better technique, folded into [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)'s headnote) and "buy only rosy-colored beef" (busted — modified-atmosphere packaging, folded into the new [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)); **a third myth found in the same territory, "the bones flavor the meat," was checked against the existing [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) and found to substantially duplicate it — not re-added.** **Two new condensed technique entries, [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)–[§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method)**, continuing the T-section from [§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method): beef grading beyond what the earlier book's [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) already covers (the full USDA grade ladder down to Cutter/Canner, Certified Angus Beef, American vs. genuine Japanese Wagyu/Kobe/Tajima, and grass-finished vs. grain-finished terminology), and aging/label science (wet- vs. dry-aging, the blade-tenderizing food-safety warning, and organic/natural/kosher/halal label claims) — **an "Anatomy of a Packer's Brisket" diagram in the source was found to substantially duplicate the existing [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) and was not re-added as its own entry; the two muscles' formal Latin names (*pectoralis superficialis*/*profundus*) from that diagram were folded into [§7.135](#7135-championship-brisket-and-burnt-ends)'s headnote instead.** **Two named sub-components referenced but not printed in this batch's scan** — Orange Tuscan-Style Board Sauce and Smoked Garlic Bread (needed by [§7.133](#7133-clints-chuck-roast-sandwiches)) and a Poblano-Basil/Duxelles cream sauce (needed by [§7.132](#7132-kōji-filet-mignon)) — cross-referenced to close existing relatives already in this cookbook ([§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce), [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)) rather than invented; see each recipe's Note and Open Questions. **Jargon explained inline per Cody's standing request:** kōji (a fermentation culture behind miso, soy sauce, and sake, used here as a tenderizing marinade) at [§7.132](#7132-kōji-filet-mignon); sous vide basics at [§7.131](#7131-smoked-sous-vide-steak); the afterburner method (a chimney-starter-hot direct sear, already documented at [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes and cross-referenced rather than re-explained) at [§7.131](#7131-smoked-sous-vide-steak)/[§7.134](#7134-afterburner-fajitas); point vs. flat muscle and burnt ends (cross-referenced to the existing [§T69](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket)/[§T71 Burnt Ends](#t71-burnt-ends) rather than re-explained) and the Texas crutch (cross-referenced to [§7.112](#7112-texas-beef-brisket) Step 6 rather than re-explained) at [§7.135](#7135-championship-brisket-and-burnt-ends). **Confirmed: this book does not use the "Warp" heat-level numbering scale in any of this batch's beef recipes** — every temperature in this batch is a plain °F figure; the scale (seen briefly elsewhere in this book, e.g. "Warp 5") simply never comes up here. **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), [§17 Meats & Cuts](#17-meats--cuts-reference-index), and [§13 Meathead Cookbook](#13-meathead-cookbook) all updated throughout. |
 | 2026-09-06 | **Rubs & Spice Blends batch from a NEW 55-page photographed PDF of Meathead Goldwyn's *The Meathead Method*** — a different book from *Meathead: The Science of Great Barbecue and Grilling*, the source behind [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and the rest of this cookbook's earlier Meathead content. **Same author, two distinct books — see the new [§13](#13-meathead-cookbook) update for the citation convention this cookbook uses to tell them apart going forward.** This is the first of several planned batches from this new source; later passes will cover its Pork, Chicken/Turkey, Beef/Bison/Lamb, Vegetables, Seafood, Desserts, and reference-notes chapters. **Nine full recipes added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.164 Pesto](#4164-pesto-basil-pesto): **[§4.165](#4165-red-meat-rub) Red Meat Rub** and **[§4.166](#4166-french-rub) French Rub** (both salt-free rubs, both carrying the bolded no-salt warning — see below), **[§4.167](#4167-smoked-butter) Smoked Butter** (freeze, cold-smoke 1 hr at 225°F, then work into a log — a technique-recipe rather than a seasoning), **[§4.168](#4168-cool-smoke-chili-powder) Cool Smoke Chili Powder**, **[§4.169](#4169-cool-smoke-rub) Cool Smoke Rub**, **[§4.170](#4170-cool-smoke-barbecue-sauce) Cool Smoke Barbecue Sauce** (rated 🟡 Medium — the only non-Easy recipe in this batch, for a real 20-minute constant-stir scorch risk), and **[§4.171](#4171-cool-smoke-injection) Cool Smoke Injection** (all four Cool Smoke components are Tuffy "The Professor" Stone's, from his Championship Pork Butt method — the full multi-stage pork-butt cook itself is out of scope for this rubs/sauces batch and waits for a future Pork-chapter pass), **[§4.172](#4172-alabama-white-sauce) Alabama White Sauce**, and **[§4.173](#4173-lexington-dip-2) Lexington Dip #2** (explicitly labeled "#2" in the source — a second, lower-sugar Carolina Piedmont dip, kept distinct from and cross-referenced to [§4.120 Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce), already in this cookbook from the earlier Meathead book). **Two new condensed technique entries, [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)–[§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method)**, continuing the T-section from [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion): the book's Five S's of a rub (an expansion of [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s earlier Three S's), its glycemic-load case for going easy on rub/sauce sugar, its own "No Salt in My Rub Recipes" argument and dry-brine-timing formula (½ tsp Morton Coarse Kosher Salt per pound of meat, ½ tsp herbs/spices per 24 sq in), a salted-vs-unsalted pork chop taste-test experiment, and a separate entry on wet-vs-dry rub application, storage, the plastic-wrap myth, and salt-before/rub-after sous vide timing. **No salt amounts altered from the source anywhere in this batch** — every rub, sauce, and injection keeps its printed salt quantity exactly, including the several that print zero; Cody's standing "heavier salt" preference is scoped to standalone brining recipes only and does not apply here, a mistake corrected earlier in this same multi-book project and deliberately not repeated. **The bolded salt-free-rub warning — *"⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland."*** — is applied to **[§4.165 Red Meat Rub](#4165-red-meat-rub) and [§4.166 French Rub](#4166-french-rub)**, the two actual dry rubs in this batch with zero salt, using the exact wording already standing on this cookbook's eight earlier salt-free rubs. **Not applied to [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder)** (also salt-free) since it's a base component folded into other recipes rather than a rub applied to meat directly — same reasoning as the existing [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) exemption — nor to [§4.171 Cool Smoke Injection](#4171-cool-smoke-injection) (an injection, also salt-free), per Cody's explicit instruction that the warning is for dry rubs only, never sauces, injections, or butters. **One genuine duplicate found and handled by cross-reference rather than re-added:** this new book's own "Cajun Seasoning" (p. 166–167) turned out to be word-for-word identical, ingredient for ingredient, to the already-documented **[§4.112 Cajun Seasoning](#4112-cajun-seasoning)** from the earlier Meathead book — a note is added at §4.112 recording that the author reprints this exact recipe across both of his books, rather than creating a duplicate entry. **A likely but unconfirmed gap-filler flagged rather than assumed:** [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) may be the same recipe as the earlier book's own Alabama White Sauce, whose ingredient list was flagged as an unresolved photography gap in the 2026-09-05 changelog entry — since this one comes from a different book's own pages, that original gap is left open rather than marked resolved. **One recipe skipped as genuinely incomplete, per Cody's standing policy:** **Kansas City Red** (p. 180), a raspberry-jam-secret-ingredient barbecue sauce — its full ingredient list is legible, but the page's method text is missing entirely; the visible content ends mid-sentence in an "About the Jam" note, with the lower right portion of the page physically obscured by a plate in the source photograph, and there is no method (mixing or otherwise) anywhere on the captured page. Named here rather than invented. **Citation format established for this new book**, since this is its first appearance in this cookbook: ***The Meathead Method*** — spelled out in full and italicized, always distinguished from ***Meathead: The Science of Great Barbecue and Grilling***; see [§13 Meathead Cookbook](#13-meathead-cookbook) for the new update recording this. **None of the nine recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as small practical units (½ tsp for the two dry rubs, 1 Tbsp for the sauces/injection/butter). TOC, Difficulty & Time Index (sorted by prep+cook), and [§13](#13-meathead-cookbook) updated throughout. |
 | 2026-09-06 | **Sweets batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat* — the fourth and FINAL batch from this same 50-page source PDF. This completes the full multi-batch project from this book:** every page of the scan has now been either transcribed into a full recipe or a condensed technique entry, or explicitly logged as a duplicate-skip or a genuine gap; nothing from this source remains to photograph. **Six full recipes and variations added to [§14 Desserts](#14-desserts)**, continuing straight on from [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake): **[§14.24](#1424-salted-caramel-sauce) Salted Caramel Sauce** (the source's own closing recipe, p. 428 — rated 🔴 Hard for the same "perfect to burnt in under a minute" caramelizing-sugar risk this cookbook already rated [§14.20 Cream Caramel](#1420-cream-caramel) 🔴 Hard for, cross-linked to it as a distinct dish sharing the same risk rather than a duplicate), **[§14.25](#1425-marshmallowy-meringues) Marshmallowy Meringues** (with Pavlovas, Persian Pavlovas, Meringue Fool, and Chocolate-Caramel Meringue Fool variations folded in — rated 🟡 Medium for real underwhip/overwhip/contamination risk; distinct from the meringue-as-*component* already used in [§14.5](#145-pumpkin-chiffon-pie)/[§14.13](#1413-pumpkin-chiffon-pie-i)/[§14.14 Pumpkin Chiffon Pie](#1414-pumpkin-chiffon-pie-ii)/[§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie), all cross-linked), **[§14.26](#1426-classic-pumpkin-pie) Classic Pumpkin Pie** (with a Chocolate Pudding Pie variation — rated 🟢 Easy, a direct-bake custard with no stovetop cooking or meringue fold, unlike this cookbook's existing 🔴 Hard chiffon-style pumpkin pies, all cross-linked and kept distinct), **[§14.27](#1427-light-and-flaky-buttermilk-biscuits) Light and Flaky Buttermilk Biscuits** (with Shortcakes and Fruit Cobbler variations — rated 🟡 Medium for a genuine, if forgiving, "keep it cold or lose the flakiness" risk; a cold-butter lamination method genuinely distinct from this cookbook's existing cut-in-shortening [§15.3](#153-basic-biscuits-cheese-or-bacon-variation)–[§15.6 Biscuits](#156-pastry-biscuits)), **[§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) Juice It and Make Granita** (Orange Granita, with a Coffee Granita variation — the first of the source's "Four Things to Do with Fruit"), and **[§14.29](#1429-roast-it-on-a-bed-of-fig-leaves) Roast It on a Bed of Fig Leaves** (the third of those four methods — both fruit entries rated 🟢 Easy). **One of the source's four fruit methods, "Poach It in Wine," is skipped as genuinely incomplete** — only its finishing half (cooling, plating, serving suggestions) survived in the photographed pages; its opening ingredient list and first simmering steps (the wine, sugar, and fruit quantities) are not among the photographed pages and have no legible amounts, so per Cody's standing instruction on incomplete source material it's named but not written up, flagged at [§14.29](#1429-roast-it-on-a-bed-of-fig-leaves). **Confirmed already present, not re-added:** [§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake), both encountered again in this batch's page range (they were originally added from an earlier PHOTO-based batch of this same book, not this PDF) — confirmed and skipped here rather than duplicated. **The source's own crust and cream/berry components keep surfacing as gaps rather than being invented:** the "All-Butter Pie Dough" gap [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) already flagged is the same crust [§14.26](#1426-classic-pumpkin-pie) needs, standing in with [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) or [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust); and the same standing "Vanilla Cream" gap already flagged at [§14.21](#1421-loris-chocolate-midnight-cake)/[§14.23](#1423-fresh-ginger-and-molasses-cake) is joined by several more named-but-undocumented components surfacing for the first time in this batch — Scented Cream, Cardamom Cream, Caramel Cream, Rose Scented Berries, the source's own fruit Compote, and Bittersweet Chocolate Pudding — all named rather than invented, cross-referenced to each other everywhere they recur. **Since this is the final batch from this source, every one of these stays an open gap rather than something a future batch will resolve** — see the consolidated Open Questions list Cody asked for, compiled separately from this changelog entry. **Jargon explained inline per Cody's standing request:** soft peaks vs. stiff peaks, and why cream of tartar (an acid) stabilizes whipped egg whites — cross-referenced to [§T31 How to Use Acid](#t31-how-to-use-acid)'s existing "a few drops of lemon or vinegar per egg white" passage rather than re-explained, at [§14.25](#1425-marshmallowy-meringues); fold as a mixing technique and why it preserves trapped air, at [§14.25](#1425-marshmallowy-meringues) and [§14.27](#1427-light-and-flaky-buttermilk-biscuits); docking a crust and blind baking, at [§14.26](#1426-classic-pumpkin-pie); why cold butter matters for flaky layers — cross-referenced to [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) and [§T30 How to Use Fat](#t30-how-to-use-fat) rather than re-explained, at [§14.27](#1427-light-and-flaky-buttermilk-biscuits); a granita's shaved-ice texture depending on periodic scraping rather than constant churning, at [§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation); and compote vs. coulis — chunky cooked fruit versus a smooth, strained purée, cross-linked to this cookbook's existing [§4.83](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)/[§4.132 Coulis](#4132-roasted-red-pepper-and-garlic-coulis) — at [§14.25](#1425-marshmallowy-meringues). **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. **This closes out the full *Salt, Fat, Acid, Heat* project across all seven batches** (the five condensed-technique/first-recipe batches plus this one and the Doughs/Mayo/Pesto batch immediately below) — see the project's consolidated tally and Open Questions list Cody requested, compiled outside this changelog. |
 | 2026-09-06 | **Doughs/Emulsions/Mayo/Pesto batch from photographed pages of Samin Nosrat's *Salt, Fat, Acid, Heat*** — the third batch from this same 50-page source PDF today, picking up right after the Vegetables/Stock/Mains batch below. **One more batch from this same scan is still coming: Sweets.** **Six full recipes added to [§4 Rubs, Seasonings, Sauces & Condiments](#4-rubs-seasonings-sauces--condiments)**, continuing straight on from [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt): **[§4.159](#4159-rustic-mayonnaise) Rustic Mayonnaise** (the source's own hand-whisked "Basic Mayonnaise" — the recipe several earlier batches have been citing as a same-book gap; rated 🟡 Medium, the only Medium recipe in this batch, since whisking oil into egg yolk by hand is a genuine emulsion that can break), **[§4.160](#4160-classic-sandwich-mayo) Classic Sandwich Mayo** (built on §4.159), **[§4.161](#4161-aioli-garlic-mayonnaise) Aioli (Garlic Mayonnaise)**, **[§4.162](#4162-herb-mayonnaise) Herb Mayonnaise**, **[§4.163](#4163-rouille-pepper-mayonnaise) Rouille (Pepper Mayonnaise)** (Chipotle Mayonnaise variation folded in; its own "Pepper Paste" sub-ingredient wasn't among the photographed pages, flagged as a gap with a roasted-red-pepper-purée stand-in rather than invented), and **[§4.164](#4164-pesto-basil-pesto) Pesto (Basil Pesto)** (with the source's own greens/nuts/cheese substitution chart folded in as a "Change It Up" callout) — **this cookbook's third pesto**, alongside [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) and [§4.131 Pesto](#4131-pesto), both cross-linked forward and back. **[§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) are rated 🟢 Easy rather than Medium**, on the reasoning that each one only stirs flavor into an *already-made* mayonnaise — nothing in their own steps can break an emulsion; each entry notes that building the mayonnaise base itself (§4.159) is where the real risk lives, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test. **One new condensed technique entry, [§T89 Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion)**, added to the Techniques quick index — deliberately short, since two of its three source passages ("Retaining Creaminess: Butter" and "Breaking and Fixing Emulsions") turn out to be the same content this cookbook already condensed from this same book at [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) and [§T30 How to Use Fat](#t30-how-to-use-fat); T89 cross-references both rather than repeating them, and writes out only what's new — weighing flour by weight instead of scooping by volume, and the wider all-emulsions framing of "breaking" beyond just mayonnaise. **Two source-referenced items checked and resolved rather than treated as gaps:** the source's own forward reference to an **All-Butter Pie Dough** — checked against this cookbook and **confirmed not present** (distinct from [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) and [§T26 Pâte Brisée](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)), named as a gap in [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) since its own page wasn't among those photographed; and the source's own **Pasta Cacio e Pepe** reference — checked and **confirmed already documented**, cross-linked at [§T30](#t30-how-to-use-fat)'s "Butter sauce" paragraph rather than flagged as missing. **Five "not yet in this cookbook" cross-references retrofitted now that this batch fills them, the same retrofit pattern [badf8ce] and [7df86b8] used:** [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)'s and [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing)'s "Basic Mayonnaise (source p. 375)" gaps (each flagged twice, in the ingredient list and in Open Questions) now link to [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise); [§4.152 North African Charmoula](#4152-north-african-charmoula)'s "Stir into Basic Mayonnaise" serving suggestion now links there too; [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation, which specifically named "Classic Sandwich Mayo," now links to [§4.160](#4160-classic-sandwich-mayo) exactly; and [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)'s Fritto Misto variation, which specifically named "Aïoli (source p. 376)," now links to [§4.161 Aioli](#4161-aioli-garlic-mayonnaise) exactly. **No duplicates skipped** — this cookbook's existing [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) is a citrus-forward burger topping from a different book, cross-linked rather than confused for [§4.161](#4161-aioli-garlic-mayonnaise)'s plain garlic version. **Jargon explained inline per Cody's standing request:** emulsion, why mayonnaise breaks (temperature swings or adding oil too fast overwhelms the egg yolk's lecithin), room-temperature eggs and why they matter for emulsifying, and the hot-water-and-broken-mayo fix, all at [§4.159](#4159-rustic-mayonnaise) and cross-referenced from [§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) rather than repeated; **rouille** as a term (French for "rust," a garlicky pepper- or saffron-tinted mayonnaise for bouillabaisse) at [§4.161](#4161-aioli-garlic-mayonnaise) and [§4.163](#4163-rouille-pepper-mayonnaise); *pestare* ("to pound") and why traditional mortar-and-pestle pesto bruises rather than slices the basil, keeping it greener and less oxidized than a fast-spinning blade, at [§4.164](#4164-pesto-basil-pesto); and weighing flour vs. scooping it by volume at [§T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion). **None of the six recipes print net carbs, so none are tagged 🥑 keto** per [CLAUDE.md §3c](CLAUDE.md); all Nutrition blocks are estimated from ingredient lists, labeled as such, with per-serving figures expressed as "1 Tbsp" for the five mayonnaise-family condiments and "2 Tbsp" for the pesto. TOC, Difficulty & Time Index (sorted by prep+cook), and Table of Contents updated throughout. |
@@ -852,6 +859,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) | 🟢 | 10 min | — | **~4 hr** *(freezer, scraped occasionally)* | 4 hr 10 min |
 | [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **30–45 min** *(smoker, unattended)* | 45–55 min |
 | [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets) *(Meathead)* | 🟢 | 10 min | — | **15–20 min** *(indirect zone/smoker, unattended)* | 1 hr 30 min *(+ 1 hr fridge dry-brine)* |
+| [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(The Meathead Method)* | 🟢 | 10 min | — | **5–6 hr** *(indirect smoker, unattended)* | ~8–9 hr *(includes a 3 hr dry brine)* |
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
 | [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -872,6 +880,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.166 French Rub](#4166-french-rub) | 🟢 | 15 min | — | — | 15 min |
 | [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) | 🟢 | 15 min | — | **1–3 hr** *(citrus dehydrates, unattended)* | 1¼–3¼ hr |
 | [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **3–6 hr** *(smoker + dehydrate, unattended)* | 3¼–6¼ hr |
+| [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) *(The Meathead Method)* | 🟢 | 15 min | — | **~6 hr** *(indirect smoker, unattended)* | ~9 hr *(includes a 2 hr dry brine + 1 hr hold)* |
 | [§4.124 Tartar Sauce](#4124-tartar-sauce) | 🟢 | 15 min | — | — | 15 min active *(+ 2 hr chill)* |
 | [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto) | 🟢 | 15 min | — | — | 15 min |
 | [§4.131 Pesto](#4131-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -881,6 +890,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) | 🟢 | 20 min | — | — | 20 min active *(+ brining time per §T37)* |
 | [§4.130 Chimichurri Sauce](#4130-chimichurri-sauce) | 🟢 | 20 min | — | — | 20 min |
 | [§8.38 Brothy: Stracciatella](#838-brothy-stracciatella-roman-egg-drop-soup) | 🟡 | 10 min | 10 min | — | 20 min |
+| [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 5–10 min | **~3 hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3½ hr |
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 10 min *(+ refrigerate, time not given)* |
@@ -1040,6 +1050,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.77 Sauce Brune aux Fines Herbes](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
 | [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) | 🟢 | 10 min | 15 min | — | 25 min *(+ brown sauce)* |
 | [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) | 🟡 | 10 min | 15 min | — | 25 min |
+| [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) *(The Meathead Method)* | 🟡 | 15 min | 15 min | — | ~2½ hr *(includes a 2 hr kōji marinate)* |
 | [§5.39 Fennel Fondant](#539-fennel-fondant) | 🟢 | 10 min | 15 min | **45 min** *(sous vide, unattended)* | 1 hr 10 min |
 | [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) | 🟡 | 15 min | 10 min | **30 min** *(sous vide, unattended)* | 1 hr 25 min *(includes a 30 min freeze to firm the patties)* |
 | [§15.5 Fancy Biscuits](#155-fancy-biscuits) | 🟢 | 15 min | 10 min | — | 25 min *(per batch baked; dough keeps refrigerated)* |
@@ -1133,6 +1144,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | 🟡 | 20 min | 20 min | — | 2 hr 50 min *(2 hr brine)* |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
+| [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(indirect smoker, unattended)* | ~10–15 hr *(includes at least 1 hr rest in a faux Cambro)* |
 | [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
 | [§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) | 🟢 | 20 min | — | **1 day minimum** *(pickles in the jar; improves for weeks)* | ~1 day |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -1165,6 +1177,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
 | [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
+| [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(The Meathead Method)* | 🟡 | 30 min | 20 min | — | ~3½ hr *(includes a 3 hr citrus marinate)* |
 | [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | 🟡 | 45 min | 15 min | **2¾ hr** *(braise, mostly unattended)* | 3 hr 45 min |
 | [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) | 🟡 | 45 min | 25 min | **6–9 hr** *(three rises — the waiting is the method)* | ~7 hr *(+ 2–3 hr cool)* |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
@@ -12024,6 +12037,8 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T89](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) | Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion | `doughs` `baking-precision` `weigh-flour` `butter` `emulsion` `pie-dough` `flaky` |
 | [T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) | The Five S's of a Rub, Sugar Wariness, and No Salt (The Meathead Method) | `meathead` `meathead-method` `rub-blending` `five-ss` `sugar-glycemic-load` `no-salt-in-rubs` `dry-brine-timing` |
 | [T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method) | How to Use Rubs — Application Order, Storage, and Plastic Wrap (The Meathead Method) | `meathead` `meathead-method` `rub-application` `wet-vs-dry` `storage` `plastic-wrap-myth` `sous-vide-salt-timing` |
+| [T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method) | Beef Grading Beyond Prime and Choice — Angus, Wagyu, and Grass-Fed Terms (The Meathead Method) | `meathead` `meathead-method` `beef` `usda-grades` `angus` `certified-angus-beef` `wagyu` `kobe` `grass-fed` `grain-finished` `myth` |
+| [T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method) | Aging Beef and Label Claims — Wet-Aging, Dry-Aging, and What "Organic" Actually Means (The Meathead Method) | `meathead` `meathead-method` `beef` `wet-aging` `dry-aging` `blade-tenderized` `organic` `natural` `kosher` `halal` |
 
 ---
 
@@ -16361,6 +16376,52 @@ Because salt penetrates deep and herbs and spices cannot, the Meathead Method's 
 **Salt heavier on thick sections, lighter on thin ones** — the fat end of a turkey breast wants more salt than the tapering thin end, the same logic behind why an evenly-seasoned bird needs uneven salting.
 
 **Salt appears first on a commercial rub's ingredient label because labeling law requires ingredients to be listed by weight, and salt weighs far more than pepper, paprika, thyme, or any other spice** — first on the label doesn't necessarily mean most flavorful, just heaviest.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T92. Beef Grading Beyond Prime and Choice — Angus, Wagyu, and Grass-Fed Terms (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, beef, usda-grades, angus, certified-angus-beef, wagyu, kobe, grass-fed, grain-finished, myth -->
+**Tags:** `meathead` · `meathead-method` · `beef` · `usda-grades` · `angus` · `certified-angus-beef` · `wagyu` · `kobe` · `grass-fed` · `grain-finished` · `myth`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 208–209). A different book from [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)'s source; see [§13](#13-meathead-cookbook).
+**Used in:** [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) (grading choice); complements rather than repeats [§T65 Steaks — Grades, Cuts, and Matching Temperature to Thickness](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness), which already covers the basics of USDA Prime, Choice, Wagyu, and Kobe — this entry adds the grades and terms that one doesn't.
+
+**The full USDA grade ladder, below what [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) already covers:** Prime, then Choice, then **Select**, then a bottom tier — **Standard, Commercial, Utility, Cutter, and Canner** — used for soups, stews, hot dogs, and other processed and ground products rather than sold as retail cuts. You won't see these grades on a butcher counter.
+
+**Angus isn't a guarantee of quality on its own.** It's a breed known for good marbling, and USDA grading has no genetic test for it — inspectors mostly just look for a black hide, which is a strong hint but not proof, since not every black-hided animal is purebred Angus. **Certified Angus Beef (CAB)** is a trademarked branding program layered on top of USDA grading, not a grade itself: to carry the label, beef must already be USDA Choice or Prime and pass CAB's own additional marbling and quality specifications.
+
+**American Wagyu vs. genuine Japanese Wagyu are not the same product.** American Wagyu is typically an Angus cross with some Wagyu genetics, raised domestically — good beef, but distinct from the real thing. **Kobe** is a legally trademarked name: only cattle born, raised, and slaughtered within Hyōgo Prefecture, Japan qualify, and the program is tightly controlled — roughly 4,000 head a year, with about 90% consumed inside Japan itself, so genuine Kobe essentially never appears in a U.S. grocery store no matter what a menu claims. **Tajima** is one of the specific Japanese Wagyu bloodlines behind Kobe-grade beef. Across all of these, "Wagyu" beef carries a much higher ratio of fat to muscle than a typical American grade.
+
+**"Grass-fed" is a near-meaningless marketing term on its own — nearly all cattle eat grass or hay for most of their lives.** The distinction that actually matters is what an animal is *finished* on in its last few months before slaughter:
+- **Grain-finished (or corn-finished) beef** spends its last months eating corn or other grains to add weight and marbling quickly — this is the flavor and marbling profile most American diners are used to.
+- **Grass-finished beef** eats only grass and hay its entire life, including the finishing period. It's leaner, and the flavor is noticeably different — often described as more mineral, "beefy," or gamey rather than sweet.
+
+> ⚠️ **Myth busted: only buy beef that looks rosy red in the package.** Modified-atmosphere packaging — meat sealed airtight with a mix of gases, often including carbon dioxide — keeps beef looking fresh and rosy even after it's been sitting for a while, since it prevents the oxidation that normally turns aging beef brown. A rosy color in the case is not proof of freshness on its own. **The actual fix: get to know your butcher, and pay attention to sell-by dates rather than color.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### T93. Aging Beef and Label Claims — Wet-Aging, Dry-Aging, and What "Organic" Actually Means (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, beef, wet-aging, dry-aging, blade-tenderized, organic, natural, kosher, halal -->
+**Tags:** `meathead` · `meathead-method` · `beef` · `wet-aging` · `dry-aging` · `blade-tenderized` · `organic` · `natural` · `kosher` · `halal`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 210–211). A different book from [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)'s source; see [§13](#13-meathead-cookbook).
+**Used in:** any future dry-aged or wet-aged beef purchase; complements [§T66 Prime Rib & Rib Roast](#t66-prime-rib--rib-roast--ordering-bones-and-carving), which already mentions ordering a 28-day wet-aged roast — this entry explains what that actually means, plus dry-aging and label terms T66 doesn't cover.
+
+**After slaughter, a carcass has to rest under controlled chilling before any further aging can begin** — rigor mortis sets in immediately, and it takes a day or two of careful chilling (never freezing) for enzymes to relax the muscle enough to even sell.
+
+- **Wet-aging** is what most beef gets: vacuum-sealed in plastic and shipped whole. Left this way for about 30 days, natural enzymes tenderize the meat, but the flavor doesn't change nearly as much as it does with dry-aging.
+- **Dry-aging** is the pricier, more dramatic option — beef ages exposed to controlled temperature and humidity for weeks, losing significant weight to evaporation (part of what makes it expensive) while enzymes and mild surface mold work on both tenderness and flavor. The fat itself changes chemically; dry-aged beef is often described as earthy, nutty, buttery, or even a little blue-cheesy.
+
+> ⚠️ **Watch for "blade-tenderized" or "needle-tenderized" beef.** Some processors run a device with rows of thin blades or needles through tougher cuts to mechanically break up connective tissue. The problem: any surface bacteria gets pushed down into the center of the meat along with the blades, where it can survive unless the meat is cooked all the way through — a rare or medium-rare blade-tenderized steak carries a real food-safety risk a whole, untreated steak doesn't. **Labeling law requires these cuts to say "mechanically tenderized" or "needle tenderized" on the package** — check before buying anything you plan to cook less than well-done.
+
+**Label terms, briefly:**
+- **Organic beef** must come from cattle raised on certified organic feed, never given antibiotics or growth hormones, and given outdoor access — verified by third-party inspection under USDA rules.
+- **Natural beef** is a much looser claim — no growth hormones or antibiotics, but no outdoor-access or feed requirements the way "organic" carries.
+- **Kosher** and **halal beef** come from cattle raised and slaughtered according to Jewish or Muslim religious law, respectively.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -29635,6 +29696,480 @@ Add the drained pasta to the pan and toss to combine, adding reserved pasta wate
 
 ---
 
+### 7.130 Beef Back Ribs
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 220–221). Back ribs are the bones left over after a butcher cuts a prime rib roast or ribeye steaks off the rib primal — since [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) already establishes that bones contribute nothing to a roast's flavor in dry cooking, removing them leaves a slab of bone with some genuinely excellent meat clinging between the ribs, rather than wasting it. The copious marbling on this cut bastes itself as it renders, so some of the meat fries into crispy shards while other pockets stay succulent and tender, brisket-like.
+
+**Techniques used:** [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) · [§T68 Beef Ribs — The Long and the Short of Them](#t68-beef-ribs--the-long-and-the-short-of-them)
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook 5–6 hr** *(indirect smoker or grill, unattended)* · **Start to finish ~8–9 hr** *(includes a 3 hr dry brine)*
+
+> **Easy despite the long smoke, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test.** There's nothing to flip, baste, or time precisely — the ribs just sit on the indirect side until the meat between the bones probes tender. The only judgment call is knowing that a wide 190–210°F target window is normal for this cut, not a sign something's wrong.
+
+#### A. Ingredients
+
+- 1 teaspoon Morton Coarse Kosher Salt
+- 1 rack beef back ribs (6 to 7 bones)
+- 2 teaspoons [Red Meat Rub](#4165-red-meat-rub)
+- [Teriyaki Brinerade and Sauce](#4101-basic-brinerade) or [Tare Sauce](#4173-lexington-dip-2) *(optional, for serving)*
+
+#### B. Cooking Instructions
+
+**1. Season.**
+Rain the salt evenly over both sides of the rack, then sprinkle on the Red Meat Rub. Dry brine in the refrigerator, uncovered, for about 3 hours.
+
+**2. Fire up.**
+Set up your smoker or grill for indirect two-zone cooking and get it stable at 225°F, with lots of smoke rolling.
+
+**3. Cook.**
+Put the whole slab on the indirect side, bone side down. Cutting it into individual ribs before cooking dries the meat out, so leave it in one piece — a large drip pan directly underneath catches the substantial fat that renders out. Cook until the meat between the bones reaches 190° to 210°F internal, about 5 to 6 hours. **The meat will look loose and a little ragged at that point — that's normal for this cut, not overcooked.**
+
+**4. Carve and serve.**
+This cut carves differently than a normal rack: run your knife along one side of a bone until the meat lifts free, then repeat down the other side, then run the knife straight down the middle of the slab to separate ribs. Meathead calls this the "Cadillac cut." Have plenty of napkins on hand — it's a messy, gnaw-off-the-bone kind of rib.
+
+*Note: Don't have Red Meat Rub, Teriyaki Brinerade, or Tare Sauce made up? Plain salt and pepper works fine here too — the marbling does most of the flavor work.*
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Rack of beef back ribs (6–7 bones) — ask a butcher counter if not stocked; sometimes labeled "rib bones"
+
+**🛒 General grocery**
+
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Red Meat Rub ingredients (if not already made) — see [§4.165](#4165-red-meat-rub)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,600 | 130 g | 95 g | 2 g | 0 g |
+| **Per serving** *(serves 2)* | ~800 | 65 g | 48 g | 1 g | 0 g |
+
+**What a serving is:** half a rack — 3 to 4 bones' worth of meat gnawed off, plus any crispy rendered bits. This is a fatty, bone-in cut, so the edible yield per pound is much lower than a lean steak's.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.131 Smoked Sous-Vide Steak
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 222–223). Meathead pits sous vide against [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) head-to-head: sous vide wins on juiciness and evenness, reverse sear wins on crust flavor from a longer exposure to smoke and flame. This recipe refuses to pick a side — **sear, sous vide, smoke, sear** — stacking all four steps on one steak for the best of both.
+
+**Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) *(the sous-vide-then-sear logic this recipe extends)* · Afterburner Method, see [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes
+
+> **What "sous vide" means, if new to it:** cooking food sealed in a bag, submerged in a precisely temperature-controlled water bath, so the whole piece comes to exactly the target doneness with no gray overcooked band near the surface — the opposite failure mode of pan- or grill-only cooking. This recipe uses it for the tenderizing/juiciness stage, then finishes with real fire for the crust a water bath can't give.
+
+**🟡 Medium** · **Prep ~10 min** · **Slow cook ~3 hr** *(sous vide bath, ice chill, and a light smoke — all unattended)* · **Cook ~5–10 min** *(the final sear — needs full attention)* · **Start to finish ~3½ hr**
+
+> ⚠️ **Why Medium, not Easy.** The sous vide and smoke stages can't go wrong — that's the entire point of using them. But the final sear, whatever method you pick, moves fast on a steak that's already cooked through: a few seconds too long anywhere on the surface is the difference between a great crust and an overcooked, gray edge creeping toward the center. Stand right at the fire for this step.
+
+#### A. Ingredients
+
+- 1 ribeye or strip steak, about 1½ inches thick
+- ½ teaspoon Morton Coarse Kosher Salt per pound of meat
+- [Red Meat Rub](#4165-red-meat-rub) *(a light coat)*
+- 1 tablespoon [Smoked Butter](#4167-smoked-butter)
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim excess exterior fat from the steak (save it in the fridge — it's good rendered for other uses). Salt the meat all over. There's no need to let it sit and dry-brine first — the salt will have plenty of time to penetrate during the sous vide bath.
+
+**2. Sous vide.**
+Preheat a sous vide bath to 131°F. Put the steak in a sous vide bag and remove the air (see [§1 Cody's Pho](#1-codys-pho) for this cookbook's own established sous vide range and bagging approach — this recipe uses the same 131–133°F window). Submerge it in the bath for 2 hours; anywhere from 1 to 3 hours works fine if your schedule needs the flexibility.
+
+**3. Chill.**
+Pull the bagged steak from the warm bath and submerge it in a bowl of ice water for 30 minutes to fully chill the core. Pat the bag dry. *(At this point the steak can go straight to Step 4, or into the fridge for up to several days until you're ready to finish it.)*
+
+**4. Smoke.**
+Take the steak out of the bag — don't pat it dry this time, the surface moisture helps it take on smoke. Get a smoker or grill's indirect side rolling with smoke at 225°F and put the steak on it for about 30 minutes. This step is purely for smoky flavor, not for cooking — the steak is already at temperature from the sous vide bath.
+
+**5. Sear — pick one method.**
+Move the meat straight from the smoker to the sear, working fast so it doesn't cool:
+- **In a pan:** get a cast-iron skillet or griddle as hot as it will go. Melt a little of the trimmed fat cap or a splash of oil in it, then press the steak down onto the metal for maximum contact. About 3 minutes per side should build a dark, even crust.
+- **With the afterburner method:** load a charcoal chimney at least halfway with briquets and light it. Once the coals are glowing and flames are shooting well out the top, set a wire grate over the chimney and sear the steak right there, flipping every 30 seconds to 1 minute — see the [§7.107 Skinny Steaks Chef's Notes](#7107-skinny-steaks) for the full mechanics of this method (over 1,000°F at the coal surface, the fastest sear in this cookbook).
+- **In a deep fryer:** submerge the steak in oil preheated to 350°F just until it develops the crust you want.
+- **Under a broiler or in a pizza oven:** either works like an overhead version of the afterburner — very close, very hot, and fast.
+
+**6. Serve.**
+Move the steak to a plate immediately and top it with the Smoked Butter while it's hot enough to melt on contact. **No resting needed** — all the resting this steak needs already happened during the sous vide bath and chill.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Ribeye or strip steak, about 1½ inches thick — 1
+
+**🛒 General grocery**
+
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Red Meat Rub ingredients (if not already made) — see [§4.165](#4165-red-meat-rub)
+- 🛒 Butter, for the Smoked Butter, if not already made — see [§4.167](#4167-smoked-butter)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~950 | 72 g | 75 g | 0 g | 0 g |
+| **Per serving** *(serves 1, as printed — easily doubled)* | ~950 | 72 g | 75 g | 0 g | 0 g |
+
+**What a serving is:** one whole 1½-inch-thick ribeye or strip steak, about 12 to 14 oz cooked, topped with a pat of smoked butter — this is a single-diner recipe as printed; double or triple the ingredients and cook multiple bags for a crowd.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.132 Kōji Filet Mignon
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 222–223, 226). Filet mignon is famously lean, tender, and mild — great texture, not much flavor of its own — so this recipe borrows a Japanese fermentation trick to give it some.
+
+> **What kōji is:** a mold culture (*Aspergillus oryzae*) grown on rice or soybeans, the same fermentation starter behind miso, soy sauce, and sake. Liquid shio kōji is kōji fermented into a salty, savory paste and thinned with water — used here as a marinade rather than a sauce. Its enzymes break down proteins the way a dry-aging process does, tenderizing the meat and building deep umami flavor in just a few hours instead of weeks.
+
+**Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) *(this recipe's classic-French counterpoint, referenced in the headnote below)*
+
+> ⚠️ **Myth busted: the best sear comes from putting the steak right on the coals.** Some macho cookbooks push this "caveman" technique — brush the ash off glowing coals, lay the steak straight on them. It does produce an all-over sear in about 3 minutes, but small amounts of ash stick to the surface and some spots scorch dry. **A cooking grate held as close to the coals as possible sears just as fast, just as dark, with no ash and no scorched patches — the better technique.** Meathead's own favorite finishing trick for a special-occasion steak like this one goes a step further: a **heated salt block**. Preheat a food-grade salt block on the grill's indirect side for about 45 minutes, then move it to a trivet at the table. Guests sear their own bite-sized pieces right on the block — it seasons the meat lightly as it cooks (surprisingly, not too salty) and sears beautifully. No salt block on hand? A screaming-hot cast-iron skillet, salted at the table with a flaky finishing salt, does the job too.
+
+**🟡 Medium** · **Prep ~15 min** *(marinate is mostly passive)* · **Cook ~15 min** · **Start to finish ~2½ hr** *(includes a 2 hr kōji marinate)*
+
+> ⚠️ **Why Medium, not Easy.** A filet is small, lean, and expensive, and it's searing over screaming-hot direct heat with an internal target of just 130–135°F — a cut this size and this lean goes from perfect medium-rare to overcooked in well under a minute of inattention. Nothing about the marinating or sauce-building is risky; the sear is where this earns its rating.
+
+#### A. Ingredients
+
+- 2 filets mignon (8 to 10 oz each), 1½ to 2 inches thick
+- ¼ cup liquid shio kōji *(Hanamaruki brand is widely available)*
+- 2 slices bacon
+- 1½ cups [Poblano-Basil Cream Sauce](#4164-pesto-basil-pesto) *or another mushroom or cream-based pan sauce* — *(see Note)*
+- Tallow, beef fat, bacon fat, clarified butter, or ghee, for the pan
+- Salt, to finish
+
+#### B. Cooking Instructions
+
+**1. Marinate.**
+Put each filet in a zipper bag and pour in 2 tablespoons of the liquid shio kōji per filet. Squeeze the bag to coat the meat and press out excess air. Let the kōji work on the meat for 6 to 8 hours in the refrigerator — the enzymes need time to both tenderize and season the meat all the way through.
+
+**2. Wrap.**
+Wrap a bacon slice around each filet and secure it in place with toothpicks so it doesn't fall off the meat during cooking. Pat the surface dry before cooking.
+
+**3. Make the sauce.**
+Warm the pan sauce, taste it, and adjust the salt if needed — go easy, since the kōji marinade and bacon both already carry salt.
+
+**4. Fire up.**
+Set up your grill for two-zone cooking. On the direct side, heat a frying pan or cast-iron skillet with just enough tallow or clarified butter to coat the bottom.
+
+**5. Sear.**
+Pat the filets dry once more and put them in the hot pan. Sear for about 3 minutes a side, moving them to a slightly cooler spot on the pan if a hot spot starts tanning one side too fast. Keep flipping until the crust is dark all around but the interior hasn't crept past 120°F.
+
+**6. Keep warm.**
+Move the filets to the grill's indirect side to hold their heat and pick up a little extra smoke while you finish the sauce.
+
+**7. Finish the sauce.**
+Pour the pan sauce into the same hot skillet and scrape up the browned bits (the fond) from the bottom with a silicone spatula — that's where a lot of the pan's flavor is hiding.
+
+**8. Bring it together.**
+Return the filets to the pan of sauce. Check the internal temperature and aim for medium-rare, 130° to 135°F — if it's not there yet, move the pan over direct heat briefly. Spoon sauce onto each dinner plate and set a filet right in the middle of the pool.
+
+*Note: this ingredient calls for the source's own Poblano-Basil Cream Sauce or a similar Duxelles/Mushroom Cream Sauce, neither of which was in this batch's scanned pages (book p. 192, 194). [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) or [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) both make reasonable stand-ins — a rich, savory sauce to pool the filet in. See Open Questions.*
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Liquid shio kōji (Hanamaruki or similar) — ¼ cup
+
+**🏪 Specific store — butcher**
+
+- 🏪 Filets mignon, 8–10 oz each, 1½–2 inches thick — 2
+
+**🛒 General grocery**
+
+- 🛒 Bacon — 2 slices
+- 🛒 Tallow, beef fat, bacon fat, clarified butter, or ghee
+- 🛒 Ingredients for a mushroom or cream pan sauce (see Note above)
+- 🛒 Finishing salt
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,650 | 120 g | 115 g | 15 g | 1 g |
+| **Per serving** *(serves 2)* | ~825 | 60 g | 58 g | 8 g | 0.5 g |
+
+**What a serving is:** one bacon-wrapped 8–10 oz filet with about ¾ cup of pan sauce spooned around it.
+
+#### D. Open Questions
+
+- **The pan sauce this recipe calls for (Poblano-Basil Cream Sauce or Duxelles and Mushroom Cream Sauce, book p. 192/194) wasn't in this batch's scanned pages.** The recipe's own steps (make the sauce, finish it in the pan with the fond) are complete and legible — only the sauce's own ingredient list is missing. Substituted with a cross-reference to this cookbook's existing [§4.129](#4129-sage-and-thyme-board-sauce)/[§4.79](#479-sauce-duxelles-brown-mushroom-sauce) rather than invented; revisit if those book pages ever get photographed.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.133 Clint's Chuck Roast Sandwiches
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 226), a recipe credited to pitmaster Clint Cantwell. A whole beef chuck roast — the "shoulder clod," a large primal cut from much the same well-worked, richly-marbled muscle group as [§T69's brisket](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) — smoked low and slow like a mini brisket, at a fraction of the price and cook time. **This is a different cut and method from this cookbook's existing chuck roast entries** ([§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms), [§7.55 Braised Beef-Pot Roast](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine), both braised, and [§1 Cody's Pho](#1-codys-pho)'s sous vide chuck) — this one is smoked whole and sliced for sandwiches.
+
+**Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) *(same well-worked muscle family, different primal)* · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook ~6 hr** *(indirect smoker, unattended)* · **Start to finish ~9 hr** *(includes a 2 hr dry brine and a 1 hr hold)*
+
+> **Easy despite the length — the [§1 Cody's Pho](#1-codys-pho) case again.** Nothing here needs watching once the roast is on the smoker; it's a long, patient, hands-off cook, not a technique that can suddenly go wrong. The only genuinely attended moment is slicing at the end.
+
+#### A. Ingredients
+
+- 3 pounds boneless beef chuck roast
+- 1½ teaspoons Morton Coarse Kosher Salt
+- 1½ teaspoons coarse-grind black pepper
+- 12 sandwich-size Smoked Garlic Bread slices *(see Note)*
+- 6 tablespoons Orange Tuscan-Style Board Sauce *(see Note)*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Trim off excess surface fat from the chuck roast. Season the meat with the salt and pepper at least 2 hours before cooking — a dry brine, same logic as [§T29 How to Salt](#t29-how-to-salt): salting ahead seasons the meat all the way through instead of just the crust. Prepare the garlic bread but don't grill it yet. Make the board sauce.
+
+**2. Fire up.**
+Prepare a smoker or grill for indirect two-zone cooking at 225°F and get some smoke rolling.
+
+**3. Cook.**
+Put the roast in the smoker or on the indirect side of the grill. Smoke until it reaches an internal temperature in the 190°F range — chuck is a tough, collagen-rich cut like brisket, so it needs to go well past any food-safety minimum to become tender rather than merely cooked through.
+
+**4. Hold.**
+Wrap the roast tightly in foil, then in a clean towel, and let it rest in an insulated cooler (a "faux Cambro," [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)) for about 1 hour before slicing.
+
+**5. Serve.**
+Grill the garlic bread. Unwrap the roast and slice it thin — about ¼ inch — across the grain. Build sandwiches on the garlic bread, topped with the Orange Tuscan-Style Board Sauce.
+
+*Note: this recipe calls for two components not in this batch's scanned pages — Smoked Garlic Bread (book p. 367) and Orange Tuscan-Style Board Sauce (book p. 198). Neither has appeared in this cookbook yet. For the bread, any grilled or toasted garlic bread works fine as a stand-in. For the sauce, [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) — the same fresh herb-and-olive-oil-on-the-cutting-board technique this cookbook already documents — is a close relative; add orange zest and a Tuscan-style mix of rosemary, sage, and garlic to approximate this specific variant. See Open Questions.*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Boneless beef chuck roast — 3 lb
+
+**🛒 General grocery**
+
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Coarse-grind black pepper
+- 🛒 Bread and garlic, for garlic bread (or use your own recipe/store-bought)
+- 🛒 Ingredients for an orange-herb board sauce (olive oil, garlic, fresh herbs, orange zest — see Note above)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,300 | 220 g | 280 g | 90 g | 5 g |
+| **Per serving** *(serves 6, as printed)* | ~550 | 37 g | 47 g | 15 g | 1 g |
+
+**What a serving is:** one open-face sandwich — about 4 oz of sliced chuck roast piled on two slices of garlic bread with a drizzle of board sauce. Figures above account for meat shrinkage during the long smoke (roughly 3 lb raw yields about 2 lb 12 oz cooked, per the source's own MAKES line).
+
+#### D. Open Questions
+
+- **Two named sub-components — Smoked Garlic Bread (p. 367) and Orange Tuscan-Style Board Sauce (p. 198) — weren't in this batch's scanned pages.** Both are cross-referenced to close existing relatives in this cookbook rather than invented from scratch; see the Note under Cooking Instructions.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.134 Afterburner Fajitas
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 227–229). Named for the technique, not just a flavor descriptor.
+
+> **What the "afterburner method" means:** dumping a chimney starter's worth of charcoal — fully lit, flames shooting well out the top, over 1,000°F at the coal surface — straight under a wire grate for the fastest, hottest direct sear this cookbook uses. Meathead landed on it cooking outdoors in International Falls, Minnesota winter conditions, where a full-size grill couldn't get hot enough fast enough; a small, concentrated pile of screaming-hot coals sears in seconds instead of minutes. This cookbook's [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes already documents the mechanics — this recipe is one of its two source uses (the other being [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak)'s optional sear method).
+
+**Techniques used:** Afterburner Method, see [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes
+
+**🟡 Medium** · **Prep ~30 min** · **Cook ~20 min** · **Start to finish ~3½ hr** *(includes a 3 hr citrus marinate)*
+
+> ⚠️ **Why Medium, not Easy.** The afterburner sear is the fastest cook in this cookbook — the steak flips every 30 seconds to a minute over coals well past 1,000°F, and skirt steak is thin enough that a distracted extra minute is the difference between a perfect char and a dry, overcooked strip. Per [CLAUDE.md §3a](CLAUDE.md), that's a real can't-walk-away moment, even though the whole active cook is over in minutes.
+
+#### A. Ingredients
+
+**Marinated meat**
+- 2 oranges
+- 2 limes
+- 3 garlic cloves
+- 3 tablespoons fresh cilantro leaves
+- ¼ teaspoon fine-grind black pepper
+- 3 tablespoons vegetable oil
+- 1½ pounds outside skirt steak
+- Morton Coarse Kosher Salt, to taste
+
+**Fajitas**
+- 2 medium bell peppers, any color
+- 1 large onion
+- 2 medium tomatoes
+- 1 tablespoon vegetable oil, or more as needed
+- 6 tortillas, flour or corn
+- 1 avocado
+
+*Special tools: blender or food processor; charcoal chimney and briquets; a wire grate to set on top of the lit chimney; cast-iron frying pan or skillet; aluminum foil.*
+
+> **About outside skirt steak:** it comes from the diaphragm muscle, between the tenth and twelfth ribs — thicker, more tender, and more evenly shaped than the inside skirt, which most butchers cut into a Denver steak or remove entirely before the meat ever reaches the case. You may need to special-order it or visit a restaurant supply store. The white lines of connective tissue running through the raw meat run parallel to the grain — note their direction before cooking so you know which way to slice across the grain afterward.
+
+#### B. Cooking Instructions
+
+**1. Make the marinade.**
+Squeeze the oranges and pour ¾ cup of the juice into a large bowl. Squeeze the limes and add all their juice too. Peel and mince the garlic and add it along with the cilantro, black pepper, and vegetable oil. Purée everything in a blender or food processor. Measure out ⅓ cup of the purée and refrigerate it separately to use as a finishing sauce later; return the rest to the large bowl.
+
+**2. Marinate the meat.**
+Cut the skirt steak into lengths that fit your container. Score a few shallow slits across the surface — this helps the marinade penetrate a tough, fibrous cut faster. Submerge the steak in the marinade, cover, and refrigerate for 3 hours.
+
+**3. Prep the vegetables.**
+Stem and seed the bell peppers and slice them into strips. Peel and slice the onion. Core and slice the tomatoes.
+
+**4. Fire up.**
+Set a charcoal chimney on top of your grill's cooking grate, fill it at least halfway with briquets, and light it.
+
+**5. Cook the fajita vegetables.**
+While the chimney comes up to heat, warm the vegetable oil in a cast-iron skillet over the grill's other burner or a side burner. Add the onion and bell peppers and cook, stirring, until just crisp-tender, about 5 minutes. Add the tomatoes and cook 2 minutes more. Season with a pinch of salt if needed. Set aside, covered to keep warm.
+
+**6. Sear the steak — the afterburner.**
+Once the chimney's coals are fully lit and flames are shooting well out the top, set the wire grate directly over the chimney. Remove the steak from the marinade (discard the marinade) and place it on the grate. Flip every 30 seconds to a minute, watching closely, until both sides are well-charred and the internal temperature hits about 130°F — this should take only 3 to 4 minutes total.
+
+**7. Rest and slice.**
+Let the steak rest on a cutting board for 5 minutes. Slice thinly across the grain, using the direction you noted on the raw meat's connective-tissue lines as your guide.
+
+**8. Serve.**
+Warm the tortillas briefly over the fire. Build each fajita with sliced steak, the cooked vegetables, sliced avocado, and a drizzle of the reserved citrus-cilantro sauce.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Outside skirt steak — 1½ lb *(may require a special order — see About note above)*
+
+**🛒 General grocery**
+
+- 🛒 Oranges — 2
+- 🛒 Limes — 2
+- 🛒 Garlic — 3 cloves
+- 🛒 Fresh cilantro
+- 🛒 Black pepper
+- 🛒 Vegetable oil
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Bell peppers — 2 medium, any color
+- 🛒 Onion — 1 large
+- 🛒 Tomatoes — 2 medium
+- 🛒 Tortillas, flour or corn — 6
+- 🛒 Avocado — 1
+- 🛒 Charcoal, for the chimney sear
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,650 | 140 g | 145 g | 200 g | 35 g |
+| **Per serving** *(serves 6 fajitas)* | ~440 | 23 g | 24 g | 33 g | 6 g |
+
+**What a serving is:** one fajita — a warm tortilla filled with sliced steak, sautéed peppers/onion/tomato, avocado, and a spoonful of the citrus-cilantro sauce.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.135 Championship Brisket and Burnt Ends
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 212–217), Meathead's competition-circuit brisket recipe, developed alongside pitmasters Clark Cantwell and Tony Devlin of "Snake River Farms" and "American Grilled Barbecue," multiple-time winners at the American Royal, Jack Daniel's Invitational, Houston Livestock Show, and Kansas City Barbeque Society National Championship. **Distinct from this cookbook's existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket)** (the same author's simpler, single-target whole-packer method from his earlier book) **and [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** (a smaller Raichlen recipe basted in a foil pan) — this one is a full competition method: the point and flat are separated and injected before cooking, cooked to two different internal targets, and the point gets a second life as burnt ends. The point is the *pectoralis superficialis* and the flat the *pectoralis profundus* — see [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) for the fuller anatomy and grading rundown; this book adds only the muscles' formal names.
+
+**Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) · [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) · [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) · [§T71 Burnt Ends](#t71-burnt-ends) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
+
+**🟡 Medium** · **Prep ~45 min** · **Slow cook 8–12 hr** *(indirect smoker, unattended)* · **Start to finish ~10–15 hr** *(includes at least 1 hr rest in a faux Cambro)*
+
+> ⚠️ **Why Medium, not Easy like [§7.112](#7112-texas-beef-brisket).** The long smoke itself is exactly as hands-off and forgiving as this cookbook's other whole-brisket cook — nothing there can suddenly fail. What earns this one a notch above Easy is the extra judgment a competition method asks for: separating the point and flat before cooking, injecting both, and — after the Texas crutch — pulling each muscle at its own target internal temperature rather than one number for the whole brisket, then re-glazing the cubed point over direct heat for burnt ends without scorching the sauce. None of that is a *roux*-style failure mode, but it's more than the "just wait" test [§7.112](#7112-texas-beef-brisket) passes.
+
+#### A. Ingredients
+
+**Meat**
+- 1 whole packer brisket (18 to 20 pounds)
+
+**Injection**
+- 2½ cups low-sodium beef broth
+- 1 tablespoon Morton Coarse Kosher Salt
+- 1 teaspoon ground white pepper
+
+**Rub, mop, and sauce**
+- 1½ cups [Red Meat Rub](#4165-red-meat-rub)
+- 1 cup low-sodium beef broth
+- 6 tablespoons apple cider vinegar
+- 1 cup [Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) *(the source's own Kansas City Red is a skipped recipe this batch — see Open Questions; this cookbook's existing sauce stands in)*
+
+*Special tools: meat injector, large sharp knife, fine-mesh sieve, heavy-duty aluminum foil.*
+
+#### B. Cooking Instructions
+
+**1. Trim and separate.**
+Following the fat seam between them, separate the point and flat with a knife — once you get comfortable with the seam, the two muscles pull apart by hand almost as easily. Trim off as much surface fat and silverskin as you can from both pieces; melted fat doesn't penetrate the meat, and a thick fat cap blocks the smoke ring and a good bark from ever forming. Cut a small corner notch across the grain on each piece before you go further, so you know which direction to slice later — the grain runs differently through the two muscles.
+
+**2. Make the injection.**
+Stir together the beef broth, salt, and white pepper in a bowl until the salt fully dissolves.
+
+**3. Inject and rest.**
+Place the point and flat in separate pans. Inject the broth mixture throughout both pieces at regular intervals — see [§4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) for the general injecting technique this cookbook already covers. Let the meat rest 30 minutes so the injection settles in before the rub goes on.
+
+**4. Apply the rub.**
+Season both pieces generously and evenly with the Red Meat Rub, pressing it into the meat.
+
+**5. Fire up.**
+Set up a smoker, or a grill for indirect two-zone cooking, and get it stable at 225°F.
+
+**6. Smoke.**
+Put the point and flat on the indirect side, fat side down, and smoke until the internal temperature stalls somewhere in the 150–165°F range — the same stall this cookbook's other brisket recipe already documents ([§7.112](#7112-texas-beef-brisket) Step 5). That's expected, not a problem; it can take several hours to push through.
+
+**7. Make the mop.**
+While the brisket stalls, combine the remaining beef broth and the apple cider vinegar in a small saucepan and bring it to a simmer. This becomes the moisture added under foil in the next step.
+
+**8. Employ the Texas crutch.**
+Wrap the point and flat tightly together in two layers of heavy-duty foil, stacking the leaner flat on top of the fattier point, meat side down against meat side — the point acts as an insulating buffer that helps keep the flat from drying out. Pour in some of the hot mop before sealing the foil. Return both pieces to the smoker and continue cooking until the point reaches about 205°F internal and the flat reaches about 203°F — the same "probe slides in with almost no resistance" doneness cue [§7.112](#7112-texas-beef-brisket) and [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) both already use for other collagen-rich cuts.
+
+**9. Rest.**
+Wrap the still-foiled brisket in a heavy towel and hold it in an insulated cooler (a faux Cambro, [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)) for at least 1 hour before serving.
+
+**10. Burnt ends.**
+Remove the point from the foil, reserving the collected liquid. While still warm, cube the point into ¾-inch pieces. Toss the cubes in the Kansas City Classic Barbecue Sauce until well coated, spread them in a pan, and return the pan to the smoker's indirect side for about 15 minutes to set the glaze — watch them, since a sugary sauce can scorch if left too long or too close to direct heat.
+
+**11. Slice the flat.**
+Remove the flat from the foil and pour its collected liquid in with the point's. Slice the flat across the grain into pencil-thick, roughly ¼-inch slices — see [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) for both slicing methods this cookbook already documents. Strain the combined liquid through a fine-mesh sieve and taste it — if it's not too salty, drizzle a little back over the sliced meat.
+
+**12. Serve.**
+Plate the sliced flat with a few burnt ends alongside, or pile both onto sandwich bread. Leftovers keep well — see [§7.136 Pho with Leftover Brisket and Smoked Bone Broth](#7136-pho-with-leftover-brisket-and-smoked-bone-broth) for one especially good use, or reheat slices in a single layer with a splash of the reserved jus, covered, in the microwave.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Whole packer brisket, untrimmed — 18–20 lb, the highest USDA grade you can afford (Choice, Prime, or Wagyu — see [§T69](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket))
+
+**🛒 General grocery**
+
+- 🛒 Low-sodium beef broth
+- 🛒 Morton Coarse Kosher Salt
+- 🛒 Ground white pepper
+- 🛒 Apple cider vinegar
+- 🛒 Red Meat Rub ingredients (if not already made) — see [§4.165](#4165-red-meat-rub)
+- 🛒 Kansas City Classic Barbecue Sauce ingredients (if not already made) — see [§4.117](#4117-kansas-city-classic-barbecue-sauce)
+- 🛒 Heavy-duty aluminum foil
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~13,500 | 950 g | 1,050 g | 90 g | 2 g |
+| **Per serving** *(serves 28, per the source's own MAKES line)* | ~480 | 34 g | 38 g | 3 g | 0 g |
+
+**What a serving is:** about 5 oz of sliced flat plus a couple of burnt ends — mixing lean and rich bites the way the source's own turn-in box does.
+
+#### D. Open Questions
+
+- **Some step-level details (the exact minute-by-minute mop and Texas-crutch temperatures) were transcribed from a hard-to-read photographed spread (book p. 214–215) — cross-checked against this cookbook's existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) for consistency** (both smoke at 225°F and pull in the low-to-mid 200s°F, per this author's standing brisket method), rather than guessed independently. The core figures that matter for outcome — ingredients, smoke temp, and pull-temperature range — are solid; treat the exact minute-marks in Steps 6–8 as approximate.
+- **This recipe calls for the source's own "Kansas City Red" sauce, which was skipped in the earlier Rubs & Spice Blends batch as genuinely incomplete** (2026-09-06 changelog) — this cookbook's existing [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) stands in instead, cross-referenced rather than invented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -35618,6 +36153,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-05 — the "Sides" chapter has now arrived, and it's the last chapter of this whole multi-batch project.** Nine full recipes — **[§5.40](#540-simple-grilled-crostini) through [§5.48](#548-boston-barbecue-beans)** — landed in [§5 Vegetables & Sides](#5-vegetables--sides) rather than here, same reasoning as every prior chapter: this cookbook organizes finished dishes by what they *are*, not by source book. One new condensed technique entry, **[§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)**, covers real balsamic vs. supermarket wine-vinegar imitations, used by [§5.41 Grilled Asparagus](#541-grilled-asparagus). **Two recipes skipped rather than guessed at, both for genuinely incomplete source photos** — a **Sweet and Sour Coleslaw** (book p. 362) whose dressing and slaw ingredient amounts are both cut off mid-line at the page's right margin, with no continuation page in the scan, and an untitled **polenta** recipe (book p. 360) that shows only mid-recipe grilling instructions with no title, headnote, or ingredient list anywhere in the photographed set — see the 2026-09-05 changelog entry for the full accounting of both. **§13 remains a placeholder** — it has stayed one through all six chapters of this project, since every *Meathead* recipe found an obvious home elsewhere in this cookbook's existing structure (§4 for standalone condiments, §5 for vegetable sides, §7 for mains, the T-section for technique). **This closes out the *Meathead* book itself** — Seafood, Pork, Beef, Ground Meats, Chicken & Turkey, and now Sides are all in. See the 2026-09-05 changelog entry for the full accounting.
 >
 > **Update, 2026-09-06 — a SECOND Meathead Goldwyn book has arrived: *The Meathead Method*, distinct from *Meathead: The Science of Great Barbecue and Grilling* documented in every update above.** Same author, a different, later book — a new 55-page photographed PDF, its own page numbering, its own chapters (Pork, Chicken/Turkey, Beef/Bison/Lamb, Vegetables, Seafood, Desserts, Rubs/Spice Blends, and a general "Using My Recipes" reference section). **Citation convention going forward:** this cookbook cites the earlier book as ***Meathead: The Science of Great Barbecue and Grilling*** and this new one as ***The Meathead Method*** — always spelled out in full and italicized, never just "Meathead's book," so the two are never ambiguous in a recipe's Transcribed-from line. **First batch from this new book: Rubs & Spice Blends**, landing in [§4](#4-rubs-seasonings-sauces--condiments) at **[§4.165](#4165-red-meat-rub) through [§4.173](#4173-lexington-dip-2)** — same "standalone condiments go to §4 regardless of source" reasoning as every update above — plus two new condensed technique entries, **[§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)–[§T91](#t91-how-to-use-rubs-application-order-storage-and-plastic-wrap-the-meathead-method)**. **One genuine duplicate found, not re-added:** this new book's own "Cajun Seasoning" (p. 166–167) is word-for-word identical to the earlier book's **[§4.112 Cajun Seasoning](#4112-cajun-seasoning)**, already in this cookbook — noted at §4.112 rather than duplicated. **One recipe skipped as cut off** — **Kansas City Red**, a raspberry-jam barbecue sauce (p. 180) whose ingredient list is complete but whose actual mixing/cooking method is not: the page's visible text ends mid-sentence in an "About the Jam" note, physically obscured by a plate photographed on top of that part of the page, with no method text legible anywhere on the captured page. Per Cody's standing incomplete-source policy, not added. **§13 remains a placeholder for a whole *dish* from either book** — every recipe from both books so far has had an obvious home elsewhere in this cookbook's structure (§4 for condiments, §5/§7 for finished dishes, the T-section for technique). See the 2026-09-06 changelog entry for the full accounting, including exactly which rubs got the salt-free bolded warning and which didn't.
+>
+> **Update, 2026-09-06 — the "Beef, Bison, Lamb" chapter of *The Meathead Method* has now arrived, and — despite the chapter's own name — every legible recipe in this batch's scan turned out to be beef; no bison or lamb recipe appeared among the photographed pages.** Six full recipes landed in [§7 Mains & Proteins](#7-mains--proteins) at **[§7.130](#7130-beef-back-ribs) through [§7.135](#7135-championship-brisket-and-burnt-ends)**, plus two new condensed technique entries, **[§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)–[§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method)**, covering beef grading beyond what [§T65](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) already had (Angus/CAB, American vs. Japanese Wagyu, grass- vs. grain-finished) and aging/label terms (wet- vs. dry-aging, blade-tenderizing, organic/natural/kosher/halal). **One recipe skipped as genuinely incomplete** — **Pho with Leftover Brisket and Smoked Bone Broth** (book p. 216–217): its full ingredient lists are legible, but the numbered cooking steps aren't among the photographed pages at all (the scan jumps from ingredients straight to the next recipe) — named here rather than guessed at. **Two myth-busting boxes folded into existing entries rather than given their own T-numbers:** "the best sear comes from putting meat right on the coals" (busted — a heated salt block, or failing that a screaming-hot pan, at [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)) and "buy only rosy-colored beef" (busted — modified-atmosphere packaging, at [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)); a third myth on this same "bones flavor the meat" territory found in the scan was **not** re-added since it substantially duplicates the existing [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) from the earlier book. **Two named sub-components referenced by name but not printed in this batch's scan** — Orange Tuscan-Style Board Sauce and Smoked Garlic Bread (both p. 198/367, needed by [§7.133](#7133-clints-chuck-roast-sandwiches)) and a Poblano-Basil/Duxelles cream sauce (p. 192/194, needed by [§7.132](#7132-kōji-filet-mignon)) — cross-referenced to close existing relatives in this cookbook rather than invented; see each recipe's Note and Open Questions. **§13 remains a placeholder**, same reasoning as every update above. See the 2026-09-06 changelog entry for the full accounting.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -38272,9 +38809,13 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 
 ### Beef
 
-- **Chuck roast** — [§1 Cody's Pho](#1-codys-pho) *(sous vide, 24–48 hr)* · [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) · [§7.55 Braised Beef-Pot Roast](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) *(both braised)*
+- **Chuck roast** — [§1 Cody's Pho](#1-codys-pho) *(sous vide, 24–48 hr)* · [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) · [§7.55 Braised Beef-Pot Roast](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) *(both braised)* · [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) *(smoked whole, sliced)*
 - **Oxtail** — [§1 Cody's Pho](#1-codys-pho) *(simmered for broth flavor, then discarded)*
-- **Brisket** — [§6.1 Smoked Brisket](#61-smoked-brisket) *(placeholder — Cody's own method still to come)* · [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) *(smoked, 5–6 lb, foil-pan basted)* · [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(smoked, whole 12-lb packer, bare on the grate — distinct from §6.7, see entry)*
+- **Brisket** — [§6.1 Smoked Brisket](#61-smoked-brisket) *(placeholder — Cody's own method still to come)* · [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) *(smoked, 5–6 lb, foil-pan basted)* · [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(smoked, whole 12-lb packer, bare on the grate — distinct from §6.7, see entry)* · [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(smoked, competition method — point and flat separated, injected, and pulled to two different targets, then the point re-glazed into burnt ends — distinct from §7.112, see entry)*
+- **Beef back ribs** — [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(smoked whole slab, carved "Cadillac cut" — distinct from [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs), also back ribs but a different method)*
+- **Ribeye or strip steak** — [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(sous vide, smoked, then seared — distinct from [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks)/[§7.107 Skinny Steaks](#7107-skinny-steaks), both grill-only)*
+- **Filet mignon** — [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) *(kōji-marinated, bacon-wrapped, pan-seared in a mushroom cream sauce)*
+- **Outside skirt steak** — [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(citrus-marinated, seared over a charcoal chimney)*
 - **Beef ribs** — [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) *(smoked, back ribs)* · [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) *(smoked short ribs)* · [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) *(rotisserie or direct-grilled, sliced and re-seared)*
 - **Corned beef (a cured brisket)** — [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage), [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) *(both boiled/braised)* · [§9.27 Reuben](#927-reuben) *(cold, already-cooked)* · [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) *(rubbed and smoked into pastrami)*
 - **Beef tenderloin** — [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin), [§7.35 Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) *(grilled)* · [§7.69](#769-bengali-shish-kebabs)/[§7.72](#772-quick-persian-beef-kebabs)/[§7.74](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) kebabs *(grilled)* · [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(reverse-seared)*

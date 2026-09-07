@@ -20724,7 +20724,7 @@ Serve chilled or at room temperature. Store leftover slaw, covered, in the fridg
 
 > **A rule worth remembering, per the source:** the richer the food you plan to serve this slaw with, the more acidic the slaw should be — so don't be shy with extra lemon juice or vinegar when pairing it with something fatty like fried chicken or barbecue.
 
-**Serve the Mexican variation (below) with [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)** for fish tacos. **Make Classic Southern Slaw to serve alongside Spicy Fried Chicken** *(not documented in this cookbook)*.
+**Serve the Mexican variation (below) with [§7.125 Beer-Battered Fish](#7125-beer-battered-fish) and tortillas** for fish tacos. **Make Classic Southern Slaw to serve alongside Spicy Fried Chicken** *(source p. 320 — not documented in this cookbook)*.
 
 > **Variation — Alterna-slaw.** If you don't have cabbage on hand, or simply want to try something new, make it with 1 large bunch raw kale, 1½ pounds raw Brussels sprouts, or 1½ pounds raw kohlrabi instead.
 
@@ -20732,7 +20732,7 @@ Serve chilled or at room temperature. Store leftover slaw, covered, in the fridg
 
 > **Variation — Asian Slaw.** Toss the cabbage with just one generous pinch of salt and add 2 teaspoons soy sauce. Substitute lime juice for the lemon juice. Skip the parsley and add 1 small garlic clove, finely grated or pounded; 2 thinly sliced scallions; 1 teaspoon finely grated ginger; and ¼ cup chopped, toasted peanuts to the cabbage along with the macerated onions. Skip the red wine vinegar and olive oil and dress with [§4.142 Rice Wine Vinaigrette](#4142-rice-wine-vinaigrette). Taste and adjust seasoning with the macerating lime juice and salt.
 
-> **Variation — Classic Southern Slaw.** Substitute ½ cup [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo) for the olive oil and vinegar — the source's own recipe, now documented and resolved since this recipe was first written up (previously flagged as the same undocumented Basic Mayonnaise gap as [§4.134](#4134-creamy-caesar-dressing)/[§4.144](#4144-green-goddess-dressing)). Add 1 teaspoon sugar, 1 cup julienned or grated carrots, and 1 julienned or grated tart apple, such as Honeycrisp or Fuji, to the cabbage along with the macerated onions.
+> **Variation — Classic Southern Slaw.** Substitute ½ cup **stiff** [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo) for the olive oil and vinegar — the source's own recipe, now documented and resolved since this recipe was first written up (previously flagged as the same undocumented Basic Mayonnaise gap as [§4.134](#4134-creamy-caesar-dressing)/[§4.144](#4144-green-goddess-dressing)). Add 1 teaspoon sugar, 1 cup julienned or grated carrots, and 1 julienned or grated tart apple, such as Honeycrisp or Fuji, to the cabbage along with the macerated onions.
 
 #### C. Grocery Shopping List
 
@@ -20858,7 +20858,8 @@ Tip any remaining water out of the pan, using the lid to hold the beans back so 
 **3. Brown the beans and bloom the garlic. About 30 seconds for the garlic.**
 Return the pan to the stove, increase the heat to high, and dig a little hole in the center of the pan. Pour the olive oil into the hole and add the garlic. Let it sizzle gently for about 30 seconds, just until it releases its aroma — **don't let the garlic sit still in the oil any longer than that, or it browns and turns bitter before the beans ever pick it up.** Immediately toss the garlic through the beans before it has a chance to take on any color.
 
-**4. Taste, adjust, and serve immediately.**
+**4. Off the heat, taste, adjust the seasoning, and serve immediately.**
+Remove the pan from the heat as soon as the garlic is tossed through — the beans keep cooking in a hot pan, and so does the garlic.
 
 > **Variation — Classic French flavors.** Replace the olive oil with unsalted butter, omit the garlic, and toss with 1 teaspoon finely chopped tarragon before serving.
 
@@ -20914,7 +20915,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 Lay the cherry tomatoes in a single layer into a shallow roasting dish, over a bed of the basil leaves and/or stems and the garlic cloves. Cover with about 2 cups of olive oil. The tomatoes don't have to be fully submerged, but they should all be in contact with the oil.
 
 **3. Salt, stir, and roast. About 35 to 40 minutes.**
-Season liberally with salt and give everything a stir, then roast. **At no time should the dish ever actually boil** — a bare simmer, at most, is fine. **You'll know it's done when the first skins start to split.**
+Season liberally with salt and give everything a stir, then roast. **At no time should the dish ever actually boil** — a bare simmer, at most, is fine. **You'll know they're done when they're tender all the way through when pierced with a skewer, and the first skins start to split.**
 
 **4. Cool, then store.**
 Pull the dish from the oven and let the tomatoes cool a bit before using, or let them cool completely and refrigerate, covered, right in their oil — they keep this way for up to 5 days.

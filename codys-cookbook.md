@@ -31953,9 +31953,11 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 
 **Techniques used:** [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) · [§T68 Beef Ribs — The Long and the Short of Them](#t68-beef-ribs--the-long-and-the-short-of-them)
 
-**🟢 Easy** · **Prep ~10 min** · **Slow cook 5–6 hr** *(indirect smoker or grill, unattended)* · **Start to finish ~8–9 hr** *(includes a 3 hr dry brine)*
+**MAKES 2 servings · TAKES 2 hours to dry brine, 5 to 6 hours to smoke**
 
-> **Easy despite the long smoke, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test.** There's nothing to flip, baste, or time precisely — the ribs just sit on the indirect side until the meat between the bones probes tender. The only judgment call is knowing that a wide 190–210°F target window is normal for this cut, not a sign something's wrong.
+**🟢 Easy** · **Prep ~10 min** · **Slow cook 5–6 hr** *(indirect smoker or grill, unattended)* · **Start to finish ~7–8 hr** *(includes a 2 hr dry brine)*
+
+> **Easy despite the long smoke, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test.** There's nothing to flip, baste, or time precisely — the ribs just sit on the indirect side until the meat between the bones probes tender. The only judgment call is knowing that a wide 190–203°F target window is normal for this cut, not a sign something's wrong.
 
 #### A. Ingredients
 
@@ -31966,19 +31968,21 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 
 #### B. Cooking Instructions
 
-**1. Season.**
-Rain the salt evenly over both sides of the rack, then sprinkle on the Red Meat Rub. Dry brine in the refrigerator, uncovered, for about 3 hours.
+**1. Prep. Dry brine 2 hours.**
+Rain the salt evenly over both sides of the rack, then add the Red Meat Rub. Give the salt about 2 hours to work (the source's TAKES line) — in the fridge, uncovered, is the usual way *(cookbook gloss; the page doesn't specify)*. If you're going to serve a sauce, make it now; it isn't necessary.
 
 **2. Fire up.**
-Set up your smoker or grill for indirect two-zone cooking and get it stable at 225°F, with lots of smoke rolling.
+Set up your grill or smoker for smoking and aim for 225°F, with lots of smoke.
 
-**3. Cook.**
-Put the whole slab on the indirect side, bone side down. Cutting it into individual ribs before cooking dries the meat out, so leave it in one piece — a large drip pan directly underneath catches the substantial fat that renders out. Cook until the meat between the bones reaches 190° to 210°F internal, about 5 to 6 hours. **The meat will look loose and a little ragged at that point — that's normal for this cut, not overcooked.**
+**3. Cook. About 5 to 6 hours.**
+Add the whole slab, bone side down. Cooking a whole slab takes time, but cutting it into individual ribs before cooking will give you dry meat, so don't do it. You may want to put a large drip pan directly under the grate, because a lot of fat renders out. Roast until the temperature in the meat between the bones reaches 190° to 203°F — about 5 to 6 hours. **The meat will shrink quite a lot. That's normal.**
 
-**4. Carve and serve.**
-This cut carves differently than a normal rack: run your knife along one side of a bone until the meat lifts free, then repeat down the other side, then run the knife straight down the middle of the slab to separate ribs. Meathead calls this the "Cadillac cut." Have plenty of napkins on hand — it's a messy, gnaw-off-the-bone kind of rib.
+**4. Serve.**
+Carve these ribs differently than normal: run the knife along the bone on *one* side only, so one side of each bone has no meat and the other side carries twice as much as it would if you'd cut down the middle between bones. Meathead calls this the "Cadillac cut." Have lots of napkins on hand.
 
-*Note: Don't have Red Meat Rub, Teriyaki Brinerade, or Tare Sauce made up? Plain salt and pepper works fine here too — the marbling does most of the flavor work.*
+*Note: the source says the ribs are good by themselves or with Teriyaki Brinerade and Sauce or Tare Sauce ("I know, that sounds like heresy. Just try it"). Neither sauce is in this cookbook yet.*
+
+✅ 2026-09-07 second-pass QC against pp. 220–221: dry brine corrected to 2 hr (was 3), internal target to 190–203°F (was 210), doneness cue and Cadillac-cut description rewritten to match the page, MAKES/TAKES line added.
 
 #### C. Grocery Shopping List
 
@@ -32006,46 +32010,53 @@ This cut carves differently than a normal rack: run your knife along one side of
 
 ### 7.131 Smoked Sous-Vide Steak
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 222–223). Meathead pits sous vide against [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) head-to-head: sous vide wins on juiciness and evenness, reverse sear wins on crust flavor from a longer exposure to smoke and flame. This recipe refuses to pick a side — **sear, sous vide, smoke, sear** — stacking all four steps on one steak for the best of both.
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 222–223). Meathead pits sous vide against [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) head-to-head: sous vide wins on juiciness and evenness, reverse sear wins on crust flavor from a longer exposure to smoke and flame. This recipe refuses to pick a side — **salt, sous vide, smoke, and sear** — stacking all four steps on one steak for the best of both worlds. "Effin killer," per the source.
 
 **Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) *(the sous-vide-then-sear logic this recipe extends)* · Afterburner Method, see [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes
 
 > **What "sous vide" means, if new to it:** cooking food sealed in a bag, submerged in a precisely temperature-controlled water bath, so the whole piece comes to exactly the target doneness with no gray overcooked band near the surface — the opposite failure mode of pan- or grill-only cooking. This recipe uses it for the tenderizing/juiciness stage, then finishes with real fire for the crust a water bath can't give.
 
-**🟡 Medium** · **Prep ~10 min** · **Slow cook ~3 hr** *(sous vide bath, ice chill, and a light smoke — all unattended)* · **Cook ~5–10 min** *(the final sear — needs full attention)* · **Start to finish ~3½ hr**
+**MAKES 1 steak · TAKES 2 hours to sous vide, 1 hour to chill, 30 minutes to smoke, 10 minutes to sear**
+
+**🟡 Medium** · **Prep ~10 min** · **Slow cook ~3½ hr** *(sous vide bath, ice chill, and a light smoke — all unattended)* · **Cook ~10 min** *(the final sear — needs full attention)* · **Start to finish ~3 hr 40 min**
 
 > ⚠️ **Why Medium, not Easy.** The sous vide and smoke stages can't go wrong — that's the entire point of using them. But the final sear, whatever method you pick, moves fast on a steak that's already cooked through: a few seconds too long anywhere on the surface is the difference between a great crust and an overcooked, gray edge creeping toward the center. Stand right at the fire for this step.
+
+> Two more points from the source's headnote: meat scientists and most steak lovers agree medium-rare, 130° to 135°F, is best; and don't "temper" the steak at room temperature first — cold surfaces attract more smoke than warm ones, so go straight from the fridge to the cooker.
 
 #### A. Ingredients
 
 - 1 ribeye or strip steak, about 1½ inches thick
 - ½ teaspoon Morton Coarse Kosher Salt per pound of meat
-- [Red Meat Rub](#4165-red-meat-rub) *(a light coat)*
-- 1 tablespoon [Smoked Butter](#4167-smoked-butter)
+- [Red Meat Rub](#4165-red-meat-rub) *(the source's own rub, book p. 166)*
+- 1 tablespoon [Smoked Butter](#4167-smoked-butter) *(book p. 188 — if you don't have it on hand, make it while you smoke the steak in Step 4)*
+
+*Special tools: sous vide machine, sous vide bag.*
 
 #### B. Cooking Instructions
 
 **1. Prep.**
-Trim excess exterior fat from the steak (save it in the fridge — it's good rendered for other uses). Salt the meat all over. There's no need to let it sit and dry-brine first — the salt will have plenty of time to penetrate during the sous vide bath.
+Trim excess fat from the exterior of the steak and save it in the fridge (you'll use it in the pan in Step 5A). Salt the meat. You don't have to let it sit around in the fridge waiting for the salt to penetrate — it will move into the meat in the sous vide bag.
 
-**2. Sous vide.**
-Preheat a sous vide bath to 131°F. Put the steak in a sous vide bag and remove the air (see [§1 Cody's Pho](#1-codys-pho) for this cookbook's own established sous vide range and bagging approach — this recipe uses the same 131–133°F window). Submerge it in the bath for 2 hours; anywhere from 1 to 3 hours works fine if your schedule needs the flexibility.
+**2. Sous vide. 2 hours.**
+Preheat a sous vide bath to 131°F. Put the steak in a sous vide bag and get out the air (see [§1 Cody's Pho](#1-codys-pho) for this cookbook's own established sous vide range and bagging approach — this recipe uses the same 131–133°F window). Leave it in the bath for 2 hours. In a hurry? You can pull it after an hour. Have to pick up a kid at school? It can go for 3 hours.
 
-**3. Chill.**
-Pull the bagged steak from the warm bath and submerge it in a bowl of ice water for 30 minutes to fully chill the core. Pat the bag dry. *(At this point the steak can go straight to Step 4, or into the fridge for up to several days until you're ready to finish it.)*
+**3. Chill. 30 minutes.**
+Take the bagged meat from the warm water bath and submerge it in a bowl of ice water. Leave it there for 30 minutes to thoroughly chill the core, then pat the bag dry and put it in the fridge until the day you wish to serve it. It keeps there for 4 days.
 
-**4. Smoke.**
-Take the steak out of the bag — don't pat it dry this time, the surface moisture helps it take on smoke. Get a smoker or grill's indirect side rolling with smoke at 225°F and put the steak on it for about 30 minutes. This step is purely for smoky flavor, not for cooking — the steak is already at temperature from the sous vide bath.
+**4. Smoke. 30 minutes.**
+Take the meat out of the bag but *don't* pat it dry — cold, wet meat attracts and holds smoke (the source calls this "the magic of thermophoresis"). Get a smoker or the indirect side of a grill rolling with smoke at 225°F *(cookbook gloss — the page gives no smoker temperature; 225°F is this author's standard smoking setting)* and smoke the meat for only 30 minutes — enough for a nice smoky taste and to begin re-warming the meat.
 
-**5. Sear — pick one method.**
-Move the meat straight from the smoker to the sear, working fast so it doesn't cool:
-- **In a pan:** get a cast-iron skillet or griddle as hot as it will go. Melt a little of the trimmed fat cap or a splash of oil in it, then press the steak down onto the metal for maximum contact. About 3 minutes per side should build a dark, even crust.
-- **With the afterburner method:** load a charcoal chimney at least halfway with briquets and light it. Once the coals are glowing and flames are shooting well out the top, set a wire grate over the chimney and sear the steak right there, flipping every 30 seconds to 1 minute — see the [§7.107 Skinny Steaks Chef's Notes](#7107-skinny-steaks) for the full mechanics of this method (over 1,000°F at the coal surface, the fastest sear in this cookbook).
-- **In a deep fryer:** submerge the steak in oil preheated to 350°F just until it develops the crust you want.
-- **Under a broiler or in a pizza oven:** either works like an overhead version of the afterburner — very close, very hot, and fast.
+**5. Sear — you have four choices.**
+- **5A. In a pan:** take the meat out of the smoker and get a cast-iron skillet or griddle as hot as possible (you can do this in the smoker). Put the fat you trimmed and reserved into the pan and melt it — you just need enough to coat the bottom; if there's not enough, add some high-smoke-point oil like ghee. Plop the steak in the pan and press it down so it makes maximum contact with the metal. After 3 minutes or so it should have a nice dark crust; if it does, flip and repeat.
+- **5B. With the "afterburner":** load a charcoal chimney at least halfway and fire it up. When the coals are white, put a wire grate on top and put the steak on the grate. Flip every minute until it's seared beautifully. See the [§7.107 Skinny Steaks Chef's Notes](#7107-skinny-steaks) and [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) for the full mechanics of this method.
+- **5C. In a deep-fry:** yup — submerge the steak in oil at 350°F until it has the crust you want.
+- **5D. Under the broiler or in a pizza oven:** a good pizza oven is like a broiler with a hot flame just above the meat. Weather's bad? Bring the steak inside and pop it under the broiler.
 
 **6. Serve.**
-Move the steak to a plate immediately and top it with the Smoked Butter while it's hot enough to melt on contact. **No resting needed** — all the resting this steak needs already happened during the sous vide bath and chill.
+Rapidly move the meat to the dinner plate and top it with the Smoked Butter while it's hot. **No need to rest it.**
+
+✅ 2026-09-07 second-pass QC against pp. 222–223: verified ingredients exact. Corrected the headnote's four-step summary (the page says salt, sous vide, smoke, sear — not "sear, sous vide, smoke, sear"), the fridge hold (4 days, not "several"), and the afterburner flip interval (every minute, not 30 seconds); the smoker temperature in Step 4 is now marked as cookbook gloss since the page doesn't print one. MAKES/TAKES and special tools added.
 
 #### C. Grocery Shopping List
 
@@ -32080,48 +32091,57 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 
 **Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) *(this recipe's classic-French counterpoint, referenced in the headnote below)*
 
-> ⚠️ **Myth busted: the best sear comes from putting the steak right on the coals.** Some macho cookbooks push this "caveman" technique — brush the ash off glowing coals, lay the steak straight on them. It does produce an all-over sear in about 3 minutes, but small amounts of ash stick to the surface and some spots scorch dry. **A cooking grate held as close to the coals as possible sears just as fast, just as dark, with no ash and no scorched patches — the better technique.** Meathead's own favorite finishing trick for a special-occasion steak like this one goes a step further: a **heated salt block**. Preheat a food-grade salt block on the grill's indirect side for about 45 minutes, then move it to a trivet at the table. Guests sear their own bite-sized pieces right on the block — it seasons the meat lightly as it cooks (surprisingly, not too salty) and sears beautifully. No salt block on hand? A screaming-hot cast-iron skillet, salted at the table with a flaky finishing salt, does the job too.
+> ⚠️ **From the sidebars on the pages just before this recipe (book pp. 223–224), not the recipe itself — myth busted: the best sear comes from putting the steak right on the coals.** Some macho cookbooks push this "caveman" technique — brush the ash off glowing coals, lay the steak straight on them. It does produce an all-over sear in about 3 minutes, but small amounts of ash stick to the surface and some spots scorch dry. **A cooking grate held as close to the coals as possible sears just as fast, just as dark, with no ash and no scorched patches — the better technique.** Meathead's own favorite finishing trick for a special-occasion steak like this one goes a step further: a **heated salt block**. Preheat a food-grade salt block on the grill's indirect side for about 45 minutes, then move it to a trivet at the table. Guests sear their own bite-sized pieces right on the block — it seasons the meat lightly as it cooks (surprisingly, not too salty) and sears beautifully. No salt block on hand? A screaming-hot cast-iron skillet, salted at the table with a flaky finishing salt, does the job too.
 
-**🟡 Medium** · **Prep ~15 min** *(marinate is mostly passive)* · **Cook ~15 min** · **Start to finish ~2½ hr** *(includes a 2 hr kōji marinate)*
+**MAKES 2 servings · TAKES 1 hour** *(plus the marinate — see Step 1)*
+
+**🟡 Medium** · **Prep ~15 min** *(marinate is passive)* · **Cook ~15 min** · **Start to finish ~7 hr+** *(includes a 6-hour-or-more kōji marinate)*
 
 > ⚠️ **Why Medium, not Easy.** A filet is small, lean, and expensive, and it's searing over screaming-hot direct heat with an internal target of just 130–135°F — a cut this size and this lean goes from perfect medium-rare to overcooked in well under a minute of inattention. Nothing about the marinating or sauce-building is risky; the sear is where this earns its rating.
 
+> **About the pan, per the source:** use a stainless steel, aluminum, or cast-iron skillet with an ovenproof handle. Don't use a nonstick pan — fond can't develop well on a nonstick surface, and the coating may not handle the grill's high heat. The filet is wrapped in bacon because it's so lean; the bacon brings fat, flavor, salt, and more umami.
+
 #### A. Ingredients
 
-- 2 filets mignon (8 to 10 oz each), 1½ to 2 inches thick
-- ¼ cup liquid shio kōji *(Hanamaruki brand is widely available)*
+- 2 filets mignon (8 to 10 ounces each), 1½ to 2 inches thick
+- ¼ cup Hanamaruki Liquid Shio Kōji *(the source refers you to its own kōji discussion on book p. 112)*
 - 2 slices bacon
-- 1½ cups [Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) *(§4.180 — the source's own sauce, book p. 193, which this recipe cites by page; [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) is the source's own alternative)*
-- Tallow, beef fat, bacon fat, clarified butter, or ghee, for the pan
-- Salt, to finish
+- 1½ cups [Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) *(§4.180 — the source's own sauce, book p. 192; [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) is the source's own alternative)*
+- Tallow (beef fat), bacon fat, clarified butter, or ghee, for the pan
+
+*Special tools: toothpicks, and a skillet with an ovenproof handle.*
+
+*Serve with: something to soak up extra sauce — mashed potatoes, rice, couscous, or pasta.*
 
 #### B. Cooking Instructions
 
-**1. Marinate.**
-Put each filet in a zipper bag and pour in 2 tablespoons of the liquid shio kōji per filet. Squeeze the bag to coat the meat and press out excess air. Let the kōji work on the meat for 6 to 8 hours in the refrigerator — the enzymes need time to both tenderize and season the meat all the way through.
+**1. Marinate. 6 hours or more.**
+Put each filet in a zipper bag and pour in 2 tablespoons of the liquid shio kōji. Zip the bag and tumble it around so all surfaces get wet. Let the meat marinate for 6 hours or more in the fridge. No need to salt the meat — the shio kōji has salt in it (*shio* means "salt" in Japanese).
 
 **2. Wrap.**
-Wrap a bacon slice around each filet and secure it in place with toothpicks so it doesn't fall off the meat during cooking. Pat the surface dry before cooking.
+Wrap a bacon slice around each filet and fasten it in place with toothpicks. Snip the toothpicks short so they don't keep the meat from sitting flat against the pan. Set the filets in the fridge until you're ready to cook.
 
-**3. Make the sauce.**
-Warm the pan sauce, taste it, and adjust the salt if needed — go easy, since the kōji marinade and bacon both already carry salt.
+**3. Make the mushroom sauce.**
+Make the Duxelles and Mushroom Cream Sauce, taste it, and adjust the salt if necessary.
 
 **4. Fire up.**
-Set up your grill for two-zone cooking. On the direct side, heat a frying pan or cast-iron skillet with just enough tallow or clarified butter to coat the bottom.
+Set up your grill in a two-zone configuration. On the direct-heat side, heat a frying pan and add just enough fat for a thin coat on the bottom.
 
-**5. Sear.**
-Pat the filets dry once more and put them in the hot pan. Sear for about 3 minutes a side, moving them to a slightly cooler spot on the pan if a hot spot starts tanning one side too fast. Keep flipping until the crust is dark all around but the interior hasn't crept past 120°F.
+**5. Sear. About 3 minutes a side.**
+Put wood on the hot side, and as soon as it starts smoking, pat the top and bottom of the filets dry with a paper towel and place them in the hot pan. Close the lid and sear them, perhaps 3 minutes, then flip and set them down in a different spot on the pan — the spot they just sat on has cooled a bit. Keep flipping until they're dark, but don't let the interior go above 120°F.
 
 **6. Keep warm.**
-Move the filets to the grill's indirect side to hold their heat and pick up a little extra smoke while you finish the sauce.
+Remove the meat from the pan and place it on the indirect side of the grill to keep warm and pick up some more smoke while you finish the sauce.
 
-**7. Finish the sauce.**
-Pour the pan sauce into the same hot skillet and scrape up the browned bits (the fond) from the bottom with a silicone spatula — that's where a lot of the pan's flavor is hiding.
+**7. 'Shrooms.**
+Pour the Duxelles and Mushroom Cream Sauce into the hot skillet and scrape the bottom of the pan well with a wood or silicone spatula to get up all those bits of fond (the browned bits stuck to the pan — "fond" is French for "bottom," and it's loaded with umami) and incorporate the flavor into the sauce.
 
-**8. Bring it together.**
-Return the filets to the pan of sauce. Check the internal temperature and aim for medium-rare, 130° to 135°F — if it's not there yet, move the pan over direct heat briefly. Spoon sauce onto each dinner plate and set a filet right in the middle of the pool.
+**8. Finish.**
+Add the meat to the pan. Check the meat temperature and shoot for medium-rare, 130° to 135°F — if it isn't there yet, put the pan over direct heat. Spoon some of the sauce and mushrooms onto each dinner plate and drop the filets right into the center of the pools of sauce.
 
-*Note: **✅ fully resolved 2026-09-06 — no stand-in is needed any more.** The source's own ingredient line here is "1½ cups Duxelles and Mushroom Cream Sauce (page 193)," and that sauce is now documented in full at **[§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce)**, once Cody photographed book p. 192–193. Its vegetable-based sibling, [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), is the source's own alternative and works here too. The earlier cross-book stand-ins ([§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce), [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)) are no longer needed and are retired from this entry.*
+*Note: **✅ fully resolved 2026-09-06 — no stand-in is needed any more.** The source's own ingredient line here is "1½ cups Duxelles and Mushroom Cream Sauce (page 192)," and that sauce is documented in full at **[§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce)**, once Cody photographed book p. 192–193. Its vegetable-based sibling, [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), is the source's own alternative and works here too. The earlier cross-book stand-ins ([§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce), [§4.79 Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce)) are no longer needed and are retired from this entry.*
+
+✅ 2026-09-07 second-pass QC against pp. 225–226: removed an unprinted "Salt, to finish" ingredient (the page says explicitly not to salt the meat); marinate corrected to "6 hours or more" (was 6–8 hr in the step and "2 hr" on the badge); restored the wood-on-the-fire/close-the-lid sear detail and the snip-the-toothpicks step; added MAKES/TAKES, special tools, serve-with, and the source's pan advice. Sauce page reference corrected to p. 192 as printed.
 
 #### C. Grocery Shopping List
 
@@ -32136,9 +32156,9 @@ Return the filets to the pan of sauce. Check the internal temperature and aim fo
 **🛒 General grocery**
 
 - 🛒 Bacon — 2 slices
-- 🛒 Tallow, beef fat, bacon fat, clarified butter, or ghee
-- 🛒 Ingredients for a mushroom or cream pan sauce (see Note above)
-- 🛒 Finishing salt
+- 🛒 Tallow (beef fat), bacon fat, clarified butter, or ghee
+- 🛒 Duxelles and Mushroom Cream Sauce ingredients, if not already made — see [§4.180](#4180-duxelles-and-mushroom-cream-sauce)
+- 🛒 Mashed potatoes, rice, couscous, or pasta — for serving
 
 #### Nutrition *(estimated)*
 
@@ -32163,7 +32183,9 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 
 **Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) *(same well-worked muscle family, different primal)* · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
 
-**🟢 Easy** · **Prep ~15 min** · **Slow cook ~6 hr** *(indirect smoker, unattended)* · **Start to finish ~9 hr** *(includes a 2 hr dry brine and a 1 hr hold)*
+**MAKES about 2¼ pounds of meat after trimming and shrinkage, enough for 6 sandwiches · TAKES 5 minutes to prep, 6 hours to cook, 1 hour to hold**
+
+**🟢 Easy** · **Prep ~5 min** · **Slow cook ~6 hr** *(indirect smoker, unattended)* · **Start to finish ~9 hr** *(includes a 2 hr dry brine and a 1 hr hold)*
 
 > **Easy despite the length — the [§1 Cody's Pho](#1-codys-pho) case again.** Nothing here needs watching once the roast is on the smoker; it's a long, patient, hands-off cook, not a technique that can suddenly go wrong. The only genuinely attended moment is slicing at the end.
 
@@ -32172,27 +32194,29 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 - 3 pounds boneless beef chuck roast
 - 1½ teaspoons Morton Coarse Kosher Salt
 - 1½ teaspoons coarse-grind black pepper
-- 12 sandwich-size Smoked Garlic Bread slices *(see Note)*
-- 6 tablespoons Orange Tuscan-Style Board Sauce *(see Note)*
+- 12 sandwich-size slices Smoke-Roasted Garlic Bread *(book p. 367 — see Note)*
+- 6 tablespoons Orange Tuscan-Style Board Sauce *(book p. 198 — see Note)*
 
 #### B. Cooking Instructions
 
-**1. Prep.**
-Trim off excess surface fat from the chuck roast. Season the meat with the salt and pepper at least 2 hours before cooking — a dry brine, same logic as [§T29 How to Salt](#t29-how-to-salt): salting ahead seasons the meat all the way through instead of just the crust. Prepare the garlic bread but don't grill it yet. Make the board sauce.
+**1. Prep. At least 2 hours before cooking.**
+Trim off excess surface fat from the chuck roast. Season the roast with the salt and pepper at least 2 hours before cooking — a dry brine, same logic as [§T29 How to Salt](#t29-how-to-salt): salting ahead seasons the meat all the way through instead of just the crust. Prepare the garlic bread but don't grill it yet. Make the board sauce.
 
 **2. Fire up.**
-Prepare a smoker or grill for indirect two-zone cooking at 225°F and get some smoke rolling.
+Prepare a smoker or grill for smoking at 225°F and get some smoke rolling.
 
-**3. Cook.**
-Put the roast in the smoker or on the indirect side of the grill. Smoke until it reaches an internal temperature in the 190°F range — chuck is a tough, collagen-rich cut like brisket, so it needs to go well past any food-safety minimum to become tender rather than merely cooked through.
+**3. Cook. Wrap at 150°F.**
+Put the meat in the smoker or on the grill. When it hits 150°F internal, wrap it tightly in aluminum foil — the Texas crutch, which pushes it through the stall ([§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth)).
 
-**4. Hold.**
-Wrap the roast tightly in foil, then in a clean towel, and let it rest in an insulated cooler (a "faux Cambro," [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)) for about 1 hour before slicing.
+**4. Hold. 1 hour.**
+When it reaches an internal temperature of 180° to 190°F, take it off, wrap it — still in its foil — in a clean towel, and let it sit for 1 hour in a beer cooler (a "faux Cambro," [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)).
 
 **5. Serve.**
-Grill the garlic bread. Unwrap the roast and slice it thin — about ¼ inch — across the grain. Build sandwiches on the garlic bread, topped with the Orange Tuscan-Style Board Sauce.
+Grill the garlic bread. Unwrap the meat, slice it across the grain in ¼-inch slices, and build your sandwiches topped with the Orange Tuscan-Style Board Sauce.
 
-*Note: this recipe calls for two components not in this batch's scanned pages — Smoked Garlic Bread (book p. 367) and Orange Tuscan-Style Board Sauce (book p. 198). Neither has appeared in this cookbook yet. For the bread, any grilled or toasted garlic bread works fine as a stand-in. For the sauce, [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) — the same fresh herb-and-olive-oil-on-the-cutting-board technique this cookbook already documents — is a close relative; add orange zest and a Tuscan-style mix of rosemary, sage, and garlic to approximate this specific variant. See Open Questions.*
+*Note: this recipe calls for two components not in this batch's scanned pages — Smoke-Roasted Garlic Bread (book p. 367) and Orange Tuscan-Style Board Sauce (book p. 198). Neither has appeared in this cookbook yet. For the bread, any grilled or toasted garlic bread works fine as a stand-in. For the sauce, [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) — the same fresh herb-and-olive-oil-on-the-cutting-board technique this cookbook already documents — is a close relative; add orange zest and a Tuscan-style mix of rosemary, sage, and garlic to approximate this specific variant. See Open Questions.*
+
+✅ 2026-09-07 second-pass QC against pp. 226–227: restored the wrap-in-foil-at-150°F step (it was missing entirely) and the 180–190°F pull range (was "the 190°F range"); bread name corrected to Smoke-Roasted Garlic Bread; MAKES/TAKES added and prep time corrected to 5 min. Ingredients otherwise exact.
 
 #### C. Grocery Shopping List
 
@@ -32214,11 +32238,11 @@ Grill the garlic bread. Unwrap the roast and slice it thin — about ¼ inch —
 | **Whole dish** | ~3,300 | 220 g | 280 g | 90 g | 5 g |
 | **Per serving** *(serves 6, as printed)* | ~550 | 37 g | 47 g | 15 g | 1 g |
 
-**What a serving is:** one open-face sandwich — about 4 oz of sliced chuck roast piled on two slices of garlic bread with a drizzle of board sauce. Figures above account for meat shrinkage during the long smoke (roughly 3 lb raw yields about 2 lb 12 oz cooked, per the source's own MAKES line).
+**What a serving is:** one open-face sandwich — about 4 oz of sliced chuck roast piled on two slices of garlic bread with a drizzle of board sauce. Figures above account for meat shrinkage during the long smoke (3 lb raw yields about 2¼ lb after trimming and shrinkage, per the source's own MAKES line — about 6 oz of meat per sandwich).
 
 #### D. Open Questions
 
-- **Two named sub-components — Smoked Garlic Bread (p. 367) and Orange Tuscan-Style Board Sauce (p. 198) — weren't in this batch's scanned pages.** Both are cross-referenced to close existing relatives in this cookbook rather than invented from scratch; see the Note under Cooking Instructions. **🚫 The Orange Tuscan-Style Board Sauce is dropped at Cody's request, 2026-09-06** — it is no longer tracked as a gap to chase, and the [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) stand-in stands as the answer. Smoked Garlic Bread stays an open, un-photographed page.
+- **Two named sub-components — Smoke-Roasted Garlic Bread (p. 367) and Orange Tuscan-Style Board Sauce (p. 198) — weren't in this batch's scanned pages.** Both are cross-referenced to close existing relatives in this cookbook rather than invented from scratch; see the Note under Cooking Instructions. **🚫 The Orange Tuscan-Style Board Sauce is dropped at Cody's request, 2026-09-06** — it is no longer tracked as a gap to chase, and the [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) stand-in stands as the answer. Smoke-Roasted Garlic Bread stays an open, un-photographed page.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -32228,13 +32252,15 @@ Grill the garlic bread. Unwrap the roast and slice it thin — about ¼ inch —
 
 Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 227–229). Named for the technique, not just a flavor descriptor.
 
-> **What the "afterburner method" means:** dumping a chimney starter's worth of charcoal — fully lit, flames shooting well out the top, over 1,000°F at the coal surface — straight under a wire grate for the fastest, hottest direct sear this cookbook uses. Meathead landed on it cooking outdoors in International Falls, Minnesota winter conditions, where a full-size grill couldn't get hot enough fast enough; a small, concentrated pile of screaming-hot coals sears in seconds instead of minutes. This cookbook's [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes already documents the mechanics — this recipe is one of its two source uses (the other being [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak)'s optional sear method).
+> **What the "afterburner method" means, per the source's headnote:** Meathead was cooking some ¾-inch ribeyes one night and had started charcoal in a chimney to toss on his Weber Kettle for max heat. As it got dark, the chimney looked like the afterburner of a fighter jet — long blue and red flames, hardly visible — so he put a wire grate right on top of the chimney and tossed the meat on. Perfect sear, deep mahogany brown, in less than 3 minutes per side, and cooked to medium-rare in the center. He has since cooked ribeyes this way on three chimneys at once for a crowd of chefs at an International Sous Vide Association conference (USDA Prime ribeyes sous vided to 131°F, then seared), and small grates designed for the chimney are now sold. The technique works superbly on sous vide meats and can be used on raw meats ½ to 1 inch thick — it will burn anything thicker before the center is done — which makes it ideal for outside skirt steak, a long, tough muscle rarely more than ¾ inch thick and the traditional fajita meat. The secret is that it puts massive heat on one surface at a time and cooks so quickly that the interior doesn't get too warm; at regular grill temperatures, by the time you have a good dark sear the inside is overcooked — which is why fajita meat is almost always gray in the center. "Nevermore." This cookbook's [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes documents the mechanics; [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) Step 5B is the source's other use of it.
 
 **Techniques used:** Afterburner Method, see [§7.107 Skinny Steaks](#7107-skinny-steaks) Chef's Notes
 
-**🟡 Medium** · **Prep ~30 min** · **Cook ~20 min** · **Start to finish ~3½ hr** *(includes a 3 hr citrus marinate)*
+**MAKES 6 fajitas · TAKES 20 minutes to prep, 3 hours to marinate, 20 minutes to cook and slice**
 
-> ⚠️ **Why Medium, not Easy.** The afterburner sear is the fastest cook in this cookbook — the steak flips every 30 seconds to a minute over coals well past 1,000°F, and skirt steak is thin enough that a distracted extra minute is the difference between a perfect char and a dry, overcooked strip. Per [CLAUDE.md §3a](CLAUDE.md), that's a real can't-walk-away moment, even though the whole active cook is over in minutes.
+**🟡 Medium** · **Prep ~20 min** · **Cook ~20 min** · **Start to finish ~3 hr 40 min** *(includes a 3 hr marinate — the page allows 1 to 3 hours)*
+
+> ⚠️ **Why Medium, not Easy.** The afterburner sear is the fastest cook in this cookbook — skirt steak is thin enough that a distracted extra minute is the difference between a perfect char and a dry, overcooked strip. Per [CLAUDE.md §3a](CLAUDE.md), that's a real can't-walk-away moment, even though the whole active cook is over in minutes.
 
 #### A. Ingredients
 
@@ -32242,49 +32268,55 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 - 2 oranges
 - 2 limes
 - 3 garlic cloves
+- 3 canned chipotle chiles in adobo sauce
 - 3 tablespoons fresh cilantro leaves
-- ¼ teaspoon fine-grind black pepper
+- ½ teaspoon ground cumin
+- 1 teaspoon Morton Coarse Kosher Salt
+- ½ teaspoon fine-grind black pepper
 - 3 tablespoons vegetable oil
 - 1½ pounds outside skirt steak
-- Morton Coarse Kosher Salt, to taste
 
 **Fajitas**
 - 2 medium bell peppers, any color
 - 1 large onion
 - 2 medium tomatoes
 - 1 tablespoon vegetable oil, or more as needed
-- 6 tortillas, flour or corn
+- 6 tortillas, your choice of flour or corn
 - 1 avocado
 
-*Special tools: blender or food processor; charcoal chimney and briquets; a wire grate to set on top of the lit chimney; cast-iron frying pan or skillet; aluminum foil.*
+*Special tools: blender or food processor; charcoal chimney and briquets; a wire grate to sit on top of the chimney; cast-iron frying pan; aluminum foil.*
 
-> **About outside skirt steak:** it comes from the diaphragm muscle, between the tenth and twelfth ribs — thicker, more tender, and more evenly shaped than the inside skirt, which most butchers cut into a Denver steak or remove entirely before the meat ever reaches the case. You may need to special-order it or visit a restaurant supply store. The white lines of connective tissue running through the raw meat run parallel to the grain — note their direction before cooking so you know which way to slice across the grain afterward.
+> **About skirt steaks, per the source:** go for the *outside* skirt. It comes from the diaphragm, between the sixth and twelfth ribs, and is thicker, more tender, and more uniform than the inside skirt. You may have to order it from your butcher, because most of it goes to restaurants. It may come with a membrane attached that is easy to remove. On the raw meat, the white lines of connective tissue run parallel to the grain about 6 inches apart — you cut along those *before* cooking so the sections fit on the chimney, then slice the cooked sections *across* the grain to make them easier to chew.
 
 #### B. Cooking Instructions
 
 **1. Make the marinade.**
-Squeeze the oranges and pour ¾ cup of the juice into a large bowl. Squeeze the limes and add all their juice too. Peel and mince the garlic and add it along with the cilantro, black pepper, and vegetable oil. Purée everything in a blender or food processor. Measure out ⅓ cup of the purée and refrigerate it separately to use as a finishing sauce later; return the rest to the large bowl.
+Squeeze the oranges and pour ¾ cup of the juice into a large bowl. Squeeze the limes and add 3 tablespoons of their juice to the bowl. Peel and press or mince the garlic. Finely chop the chipotles and the cilantro and add them along with the cumin, salt, black pepper, and oil. Purée all this in a blender or food processor — it doesn't have to be perfectly smooth. Measure out ¼ cup and put it in a small bowl in the fridge for use as a sauce; return the rest to the large bowl.
 
-**2. Marinate the meat.**
-Cut the skirt steak into lengths that fit your container. Score a few shallow slits across the surface — this helps the marinade penetrate a tough, fibrous cut faster. Submerge the steak in the marinade, cover, and refrigerate for 3 hours.
+**2. Marinate the meat. 1 to 3 hours.**
+Cut the meat *with* the grain into 6-inch lengths (along the white lines described above). Put on some gloves, add the meat to the big bowl with the marinade, and massage it in. Let them get to know each other in the fridge for 1 to 3 hours.
 
-**3. Prep the vegetables.**
-Stem and seed the bell peppers and slice them into strips. Peel and slice the onion. Core and slice the tomatoes.
+**3. Prep.**
+Slice the peppers in half, rip out the stems and seeds, and cut what's left into ¼-inch slices. Cut the top off the onion, peel it, cut it in half pole to pole, and slice it into ¼-inch half-moons. Cut the tomatoes in half and, over the trash, squeeze out the seeds and gel; chop what's left into ¼-inch chunks and put them in a bowl. Don't cut the avocado yet or it will turn brown.
 
 **4. Fire up.**
-Set a charcoal chimney on top of your grill's cooking grate, fill it at least halfway with briquets, and light it.
+Put the charcoal chimney on top of the cooking grate on your grill. Fill it halfway with briquets and light it.
 
 **5. Cook the fajita vegetables.**
-While the chimney comes up to heat, warm the vegetable oil in a cast-iron skillet over the grill's other burner or a side burner. Add the onion and bell peppers and cook, stirring, until just crisp-tender, about 5 minutes. Add the tomatoes and cook 2 minutes more. Season with a pinch of salt if needed. Set aside, covered to keep warm.
+When the coals are white and flame is shooting out of the top, put the cast-iron skillet *on the chimney*, add the oil, spread it around, and add the bell peppers and onion. Cook just until they soften a bit but still have some crunch — the page's exact time for this step runs onto p. 230, which isn't in the uploads; a few minutes over a fire this hot *(cookbook gloss)*. Add the tomatoes at the end. Set aside, covered with foil to keep warm *(cookbook gloss — foil is on the page's tool list, but the step that uses it is on p. 230)*.
+
+> ⚠️ **Steps 6–8 below are not verifiable — book p. 230 is not among the uploaded pages.** They are carried over from the first transcription and are consistent with the source's afterburner method as printed on p. 227 (a perfect sear in under 3 minutes per side, cooked to medium-rare in the center) and in [§7.131](#7131-smoked-sous-vide-steak) Step 5B (flip every minute). Treat the exact minute-marks and internal temperature as approximate until that page is photographed.
 
 **6. Sear the steak — the afterburner.**
-Once the chimney's coals are fully lit and flames are shooting well out the top, set the wire grate directly over the chimney. Remove the steak from the marinade (discard the marinade) and place it on the grate. Flip every 30 seconds to a minute, watching closely, until both sides are well-charred and the internal temperature hits about 130°F — this should take only 3 to 4 minutes total.
+Set the wire grate directly over the chimney. Remove the steak from the marinade and place it on the grate. Flip about every minute, watching closely, until both sides are well-charred and the center is medium-rare — about 130°F, roughly 3 to 4 minutes total.
 
 **7. Rest and slice.**
-Let the steak rest on a cutting board for 5 minutes. Slice thinly across the grain, using the direction you noted on the raw meat's connective-tissue lines as your guide.
+Move the steak to a cutting board and slice it thinly *across* the grain (the black lines in the source's diagram — the direction you noted on the raw meat).
 
 **8. Serve.**
-Warm the tortillas briefly over the fire. Build each fajita with sliced steak, the cooked vegetables, sliced avocado, and a drizzle of the reserved citrus-cilantro sauce.
+Warm the tortillas briefly over the fire. Slice the avocado now. Build each fajita with sliced steak, the cooked vegetables, avocado, and a drizzle of the reserved chipotle-citrus sauce.
+
+✅ 2026-09-07 second-pass QC against pp. 227–229: the ingredient list was short two items — 3 chipotle chiles in adobo and ½ tsp cumin — and had salt "to taste" (page: 1 tsp) and ¼ tsp pepper (page: ½ tsp); lime juice corrected to 3 Tbsp (was "all their juice"); reserved sauce corrected to ¼ cup (was ⅓); meat is cut *with* the grain into 6-inch lengths before marinating (the "score shallow slits" instruction was invented); marinate is 1–3 hr; vegetables cook in a skillet set on the chimney, not a side burner; prep-cut sizes restored; the headnote's "International Falls, Minnesota" origin story was invented and is replaced with the page's own (a chimney on a Weber Kettle, then a demo at an International Sous Vide Association conference); the skirt-steak note's "tenth rib"/"Denver steak" claims replaced with the page's sixth–twelfth ribs and removable membrane. Steps 6–8 sit on p. 230, which is not in the uploads.
 
 #### C. Grocery Shopping List
 
@@ -32297,8 +32329,10 @@ Warm the tortillas briefly over the fire. Build each fajita with sliced steak, t
 - 🛒 Oranges — 2
 - 🛒 Limes — 2
 - 🛒 Garlic — 3 cloves
+- 🛒 Canned chipotle chiles in adobo sauce — 1 small can (need 3 chiles)
 - 🛒 Fresh cilantro
-- 🛒 Black pepper
+- 🛒 Ground cumin
+- 🛒 Black pepper, fine-grind
 - 🛒 Vegetable oil
 - 🛒 Morton Coarse Kosher Salt
 - 🛒 Bell peppers — 2 medium, any color
@@ -32315,7 +32349,7 @@ Warm the tortillas briefly over the fire. Build each fajita with sliced steak, t
 | **Whole dish** | ~2,650 | 140 g | 145 g | 200 g | 35 g |
 | **Per serving** *(serves 6 fajitas)* | ~440 | 23 g | 24 g | 33 g | 6 g |
 
-**What a serving is:** one fajita — a warm tortilla filled with sliced steak, sautéed peppers/onion/tomato, avocado, and a spoonful of the citrus-cilantro sauce.
+**What a serving is:** one fajita — a warm tortilla filled with sliced steak, sautéed peppers/onion/tomato, avocado, and a spoonful of the chipotle-citrus sauce. (The chipotles and cumin restored in the 2026-09-07 QC add only a handful of calories across the batch and don't change these figures.)
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -32323,18 +32357,20 @@ Warm the tortillas briefly over the fire. Build each fajita with sliced steak, t
 
 ### 7.135 Championship Brisket and Burnt Ends
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 212–217), Meathead's competition-circuit brisket recipe, developed alongside pitmasters Clark Cantwell and Tony Devlin of "Snake River Farms" and "American Grilled Barbecue," multiple-time winners at the American Royal, Jack Daniel's Invitational, Houston Livestock Show, and Kansas City Barbeque Society National Championship. **Distinct from this cookbook's existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket)** (the same author's simpler, single-target whole-packer method from his earlier book) **and [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** (a smaller Raichlen recipe basted in a foil pan) — this one is a full competition method: the point and flat are separated and injected before cooking, cooked to two different internal targets, and the point gets a second life as burnt ends. The point is the *pectoralis superficialis* and the flat the *pectoralis profundus* — see [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) for the fuller anatomy and grading rundown; this book adds only the muscles' formal names.
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 212–217), Meathead's competition-circuit brisket recipe, built from the tips of several top competitors — especially Clint Cantwell (president of AmazingRibs.com, winner of the Travel Channel's "American Grilled" competition series, and one of *Memphis Magazine*'s "10 Faces of Memphis Barbecue") and Travis Clark of Clark Crew BBQ in Oklahoma City (winner of the American Royal Invitational, a World Championship title in brisket, and Team of the Year in brisket). Clark starts with an 18- to 20-pound Snake River Farms American wagyu brisket; after trimming and shrinkage that still leaves 13 to 15 pounds, enough for at least 26 servings of 8 ounces. The source is emphatic: buy the highest grade you can afford, handpick the slab with the most marbling, and pay no attention to the fat cap — you'll trim most of it away. **Distinct from this cookbook's existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket)** (the same author's simpler, single-target whole-packer method from his earlier book) **and [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket)** (a smaller Raichlen recipe basted in a foil pan) — this one is a full competition method: the point and flat are separated and injected before cooking, cooked to two different internal targets, and the point gets a second life as burnt ends. The point is the *pectoralis superficialis* and the flat the *pectoralis profundi* (as the page's diagram labels them) — see [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) for the fuller anatomy and grading rundown; this book adds only the muscles' formal names.
 
 **Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) · [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) · [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) · [§T71 Burnt Ends](#t71-burnt-ends) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
 
-**🟡 Medium** · **Prep ~45 min** · **Slow cook 8–12 hr** *(indirect smoker, unattended)* · **Start to finish ~10–15 hr** *(includes at least 1 hr rest in a faux Cambro)*
+**MAKES 13 to 15 pounds of meat, enough for 26 to 30 servings · TAKES 45 minutes to prep, 8 to 12 hours to cook, and 1 to 2 hours to hold**
 
-> ⚠️ **Why Medium, not Easy like [§7.112](#7112-texas-beef-brisket).** The long smoke itself is exactly as hands-off and forgiving as this cookbook's other whole-brisket cook — nothing there can suddenly fail. What earns this one a notch above Easy is the extra judgment a competition method asks for: separating the point and flat before cooking, injecting both, and — after the Texas crutch — pulling each muscle at its own target internal temperature rather than one number for the whole brisket, then re-glazing the cubed point over direct heat for burnt ends without scorching the sauce. None of that is a *roux*-style failure mode, but it's more than the "just wait" test [§7.112](#7112-texas-beef-brisket) passes.
+**🟡 Medium** · **Prep ~45 min** · **Slow cook 8–12 hr** *(smoker or indirect grill, mostly unattended)* · **Start to finish ~10–15 hr** *(includes the 30 min post-injection rest and a 1–2 hr hold in a faux Cambro)*
+
+> ⚠️ **Why Medium, not Easy like [§7.112](#7112-texas-beef-brisket).** The long smoke itself is exactly as hands-off and forgiving as this cookbook's other whole-brisket cook — nothing there can suddenly fail. What earns this one a notch above Easy is the extra judgment a competition method asks for: separating the point and flat before cooking, injecting both, a hot start that has to be turned down after 30 minutes, and — after the Texas crutch — pulling each muscle at its own target rather than one number for the whole brisket, then re-glazing the cubed point for burnt ends. None of that is a *roux*-style failure mode, but it's more than the "just wait" test [§7.112](#7112-texas-beef-brisket) passes.
 
 #### A. Ingredients
 
 **Meat**
-- 1 whole packer brisket (18 to 20 pounds)
+- 1 whole brisket (18 to 20 pounds)
 
 **Injection**
 - 2½ cups low-sodium beef broth
@@ -32342,50 +32378,50 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 - 1 teaspoon ground white pepper
 
 **Rub, mop, and sauce**
-- 1½ cups [Red Meat Rub](#4165-red-meat-rub)
+- 1½ cups [Red Meat Rub](#4165-red-meat-rub) *(the source's own rub, book p. 166)*
 - 1 cup low-sodium beef broth
 - 6 tablespoons apple cider vinegar
-- 1 cup [Kansas City Red](#4178-kansas-city-red) *(the source's own sauce, book p. 180 — **now documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) or a bottled KC-style sauce also work)*
+- 1 cup [Kansas City Red](#4178-kansas-city-red) *(the source's own sauce, book p. 180 — **documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) or a bottled KC-style sauce also work)*
 
-*Special tools: meat injector, large sharp knife, fine-mesh sieve, heavy-duty aluminum foil.*
+*Special tools: meat injector, large aluminum pans, fine-mesh sieve.*
+
+> *Cookbook note: the source's mop step says to stir together "the beef broth and cider," while its ingredient list prints 6 tablespoons of apple cider **vinegar** — the vinegar is the ingredient as printed, so that's what goes in the mop.*
 
 #### B. Cooking Instructions
 
-**1. Trim and separate.**
-Following the fat seam between them, separate the point and flat with a knife — once you get comfortable with the seam, the two muscles pull apart by hand almost as easily. Trim off as much surface fat and silverskin as you can from both pieces; melted fat doesn't penetrate the meat, and a thick fat cap blocks the smoke ring and a good bark from ever forming. Cut a small corner notch across the grain on each piece before you go further, so you know which direction to slice later — the grain runs differently through the two muscles.
+**1. Trim the meat.**
+Separate the point and flat from each other. It's easy to follow the fat layer between them with your knife, and once you get a cut started you can often just tear them apart with your hands. Remove as much of the surface fat as you can and all the silverskin — you want the rub on the muscle, not on the fat; fat can't enter the water-laden meat, nobody wants a big mouthful of it, and if the fat is too thick you won't get a good smoke ring. Notice which way the grain runs and cut a chunk from a corner *across* the grain, so that when the meat is finished you'll know how to slice — by then you won't be able to see the grain any more.
 
-**2. Make the injection.**
-Stir together the beef broth, salt, and white pepper in a bowl until the salt fully dissolves.
+**2. Make the injection. Then rest 30 minutes.**
+Clark uses Kosmos Q Reserve Brisket Injection, but for a simple injection, stir together the beef broth, salt, and white pepper in a bowl until the salt dissolves completely. Place the flat and point in two pans. Inject as much liquid as possible — see [§4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) for the general injecting technique this cookbook already covers. Let the brisket rest for 30 minutes.
 
-**3. Inject and rest.**
-Place the point and flat in separate pans. Inject the broth mixture throughout both pieces at regular intervals — see [§4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) for the general injecting technique this cookbook already covers. Let the meat rest 30 minutes so the injection settles in before the rub goes on.
+**3. Apply the rub to the meat.**
+Season the meat with a generous coat of the Red Meat Rub.
 
-**4. Apply the rub.**
-Season both pieces generously and evenly with the Red Meat Rub, pressing it into the meat.
+**4. Fire up. Start hot — about 400°F for 30 minutes.**
+Prepare a smoker or a grill for indirect smoking and shoot for about 400°F. Remove the meat from the pans and place it on the smoker or the indirect side of the grill for 30 minutes. Clark and several other cooks like to start hot — he finds it "does something really special to a wagyu brisket." The high heat gives bark formation a good running start and shrinks the fibers on the surface, but not within, so the meat gets plump.
 
-**5. Fire up.**
-Set up a smoker, or a grill for indirect two-zone cooking, and get it stable at 225°F.
+**5. Smoke. Reduce to 275°F.**
+Reduce the temperature to 275°F and let the brisket cook until it has a nice mahogany color and the beginning of a nice bark, about 160° to 170°F internal. Let color be your primary guide.
 
-**6. Smoke.**
-Put the point and flat on the indirect side, fat side down, and smoke until the internal temperature stalls somewhere in the 150–165°F range — the same stall this cookbook's other brisket recipe already documents ([§7.112](#7112-texas-beef-brisket) Step 5). That's expected, not a problem; it can take several hours to push through.
+**6. Meanwhile, make the mop.**
+Stir together the beef broth and the cider vinegar (see the note above).
 
-**7. Make the mop.**
-While the brisket stalls, combine the remaining beef broth and the apple cider vinegar in a small saucepan and bring it to a simmer. This becomes the moisture added under foil in the next step.
+**7. Crutch.**
+Wrap the flat in a double layer of aluminum foil along with ¾ cup of the mop and crimp it tight so no steam escapes. Wrap the point in a double layer of foil along with ½ cup of the mop. Return the meats to the smoker or indirect side of the grill and keep cooking until they're jiggly tender ("wubba-wubba" tender, in Meathead's words), about 203° to 206°F for the flat and 210°F for the point. Let tenderness be your guide. This can take 8 to 12 hours depending on the thickness of the meat, the cooker temperature, and other variables. *("Texas crutch" is barbecue slang for wrapping the meat in foil partway through a smoke — the foil traps steam and pushes the meat through the stall, the long plateau where evaporative cooling stalls the internal temperature, [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth).)*
 
-**8. Employ the Texas crutch.**
-Wrap the point and flat tightly together in two layers of heavy-duty foil, stacking the leaner flat on top of the fattier point, meat side down against meat side — the point acts as an insulating buffer that helps keep the flat from drying out. Pour in some of the hot mop before sealing the foil. Return both pieces to the smoker and continue cooking until the point reaches about 205°F internal and the flat reaches about 203°F — the same "probe slides in with almost no resistance" doneness cue [§7.112](#7112-texas-beef-brisket) and [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) both already use for other collagen-rich cuts.
+**8. Hold. At least 1 hour.**
+Place the meat, still in its foil, in an insulated holding box such as a beer cooler (a faux Cambro, [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)) for at least 1 hour. The temperature will drop slowly to 145° to 160°F.
 
-**9. Rest.**
-Wrap the still-foiled brisket in a heavy towel and hold it in an insulated cooler (a faux Cambro, [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)) for at least 1 hour before serving.
+**9. Burnt ends. 10 minutes.**
+If you're competing, prepare the turn-in box by lining it with whatever greens are allowed. Remove the point from the foil and save the liquid. With a very sharp knife, cut the point into ¾- to 1-inch cubes. Pour the Kansas City Red into an aluminum pan big enough to hold all the cubes in one layer with some space between them, add the cubes, stir until they're covered in sauce, and pour off the excess. Put the pan back on the smoker or the indirect side of the grill for 10 minutes to set the sauce. Some cooks go longer, or even roll the cubes around on a hot grill for a few minutes to crisp the edges.
 
-**10. Burnt ends.**
-Remove the point from the foil, reserving the collected liquid. While still warm, cube the point into ¾-inch pieces. Toss the cubes in the [Kansas City Red](#4178-kansas-city-red) until well coated, spread them in a pan, and return the pan to the smoker's indirect side for about 15 minutes to set the glaze — watch them, since a sugary sauce can scorch if left too long or too close to direct heat.
+**10. Slices.**
+Remove the flat from the foil and add its liquid to the liquid the point cooked in. Slice the flat across the grain — many teams use an electric knife for this. Slices should be about the thickness of a pencil, about ¼ inch, and when tugged should be elastic and separate slightly with the grain but not tear easily (see [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way)). Pour all the liquid from the foil through a fine-mesh sieve to remove any solids, and taste it to make sure it isn't too salty. If you wish, add a wee bit more Kansas City Red, but you don't want to make the slices sweet. Brush both sides of each slice with the liquid from the foil. For competition, line up a minimum of 6 identical slices in the turn-in box, one for each judge, and add at least 6 burnt ends — turn-in time is 1:30 sharp.
 
-**11. Slice the flat.**
-Remove the flat from the foil and pour its collected liquid in with the point's. Slice the flat across the grain into pencil-thick, roughly ¼-inch slices — see [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) for both slicing methods this cookbook already documents. Strain the combined liquid through a fine-mesh sieve and taste it — if it's not too salty, drizzle a little back over the sliced meat.
+*Leftovers, per the source: the next day, lay the slices out on a platter in a single layer, drip some jus or plain water on both sides, and microwave. Burnt ends only need to be nuked. Better still, make the source's Pho with Leftover Brisket and Smoked Bone Broth — the next recipe in the book, whose cooking steps weren't legible in the earlier scan, so it isn't in this cookbook (see the 2026-09-06 changelog).*
 
-**12. Serve.**
-Plate the sliced flat with a few burnt ends alongside, or pile both onto sandwich bread. Leftovers keep well — *Pho with Leftover Brisket and Smoked Bone Broth* would be a great use of leftovers, but that recipe wasn't added to this cookbook — its cooking steps weren't legible in the source scan (see the 2026-09-06 changelog) — or reheat slices in a single layer with a splash of the reserved jus, covered, in the microwave.
+✅ 2026-09-07 second-pass QC against pp. 212–216: method rewritten to the page — the previous version had the smoker at 225°F throughout (the page starts at ~400°F for 30 min, then 275°F), simmered the mop (the page just stirs it), wrapped point and flat together (the page wraps them separately with ¾ cup and ½ cup of mop), pulled the point at 205°F and the flat at 203°F (page: flat 203–206°F, point 210°F), set the burnt ends for 15 min (page: 10 min), and had invented a "point stacked on flat as insulation" detail. Credits corrected to Clint Cantwell and Travis Clark; MAKES/TAKES and special tools added. Ingredients verified exact.
 
 #### C. Grocery Shopping List
 
@@ -32408,13 +32444,13 @@ Plate the sliced flat with a few burnt ends alongside, or pile both onto sandwic
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole dish** | ~13,500 | 950 g | 1,050 g | 90 g | 2 g |
-| **Per serving** *(serves 28, per the source's own MAKES line)* | ~480 | 34 g | 38 g | 3 g | 0 g |
+| **Per serving** *(serves 28, the middle of the source's own 26–30)* | ~480 | 34 g | 38 g | 3 g | 0 g |
 
-**What a serving is:** about 5 oz of sliced flat plus a couple of burnt ends — mixing lean and rich bites the way the source's own turn-in box does.
+**What a serving is:** about 8 oz of cooked meat per the source's own math (13–15 lb of finished meat over 26–30 servings) — sliced flat plus a couple of burnt ends, mixing lean and rich bites the way the turn-in box does.
 
 #### D. Open Questions
 
-- **Some step-level details (the exact minute-by-minute mop and Texas-crutch temperatures) were transcribed from a hard-to-read photographed spread (book p. 214–215) — cross-checked against this cookbook's existing [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) for consistency** (both smoke at 225°F and pull in the low-to-mid 200s°F, per this author's standing brisket method), rather than guessed independently. The core figures that matter for outcome — ingredients, smoke temp, and pull-temperature range — are solid; treat the exact minute-marks in Steps 6–8 as approximate.
+- **✅ Closed 2026-09-07.** The earlier "hard-to-read spread" caveat is retired — pp. 214–216 were re-read at native resolution in the second-pass QC and the method above is now transcribed from the page rather than cross-filled from [§7.112](#7112-texas-beef-brisket). Note the two recipes genuinely differ: §7.112 smokes at 225°F throughout; this one starts at ~400°F, then runs at 275°F.
 - **✅ Resolved 2026-09-06. This recipe calls for the source's own "Kansas City Red" sauce, which the earlier Rubs & Spice Blends batch skipped as genuinely incomplete** — Cody has since photographed book pp. 180 and 182, and it is now written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. The stand-in cross-reference to [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) has been replaced with the real thing throughout this entry; §4.117 remains a perfectly good substitute if you have it made, but it is a **different sauce from a different book** — see the note at the top of §4.117.
 
 [↑ Table of Contents](#table-of-contents)

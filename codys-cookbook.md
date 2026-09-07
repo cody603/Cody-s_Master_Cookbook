@@ -19981,6 +19981,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **🟢 Easy** · **Prep ~25 min** · **Cook ~20 min** · **Start to finish ~45 min**
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
+> ✅ **Independently re-verified 2026-09-07** against book pp. 353–354 (scan indexes 48–49, enlarged). Ingredients, the MAKES/TAKES line, and Steps 1, 3, 4, and 5 match. **Step 2 was wrong about the heat:** the page melts the butter over *medium-low*, adds the tarragon, then *reduces the heat to very low* and infuses for at least 15 minutes — on the burner, not "off the heat." Corrected.
 
 #### A. Ingredients
 
@@ -19991,10 +19992,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### B. Cooking Instructions
 
 **1. Prep.**
-Husk the corn and pull off every strand of silk. Rinse the ears in cold water.
+Remove the husks from the corn and pull off all the silky threads. Wash the ears in cold water.
 
-**2. Infuse the butter.**
-Melt the butter in a small saucepan over low heat, stir in the tarragon, and let it steep off the heat for at least 15 minutes so the flavor takes.
+**2. Infuse the butter. At least 15 minutes on very low heat.**
+Melt the butter in a small saucepan over medium-low heat. Add the tarragon to the butter. Reduce the heat to very low and let the tarragon infuse the butter for at least 15 minutes.
 
 **3. Fire up.**
 Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the direct side to medium-high.
@@ -20040,6 +20041,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
 > **Halved, not doubled.** The earlier transcription scaled this to 4 ears and a full stick of butter. The printed recipe makes **2 ears** with **2 tablespoons** of butter and the zest of **half** a lime — the source presents it as a late-summer rescue for corn that's past its peak, not a party-size batch.
+> ✅ **Independently re-verified 2026-09-07** against book pp. 354–355 (scan index 49, enlarged). The 2026-09-06 halving is confirmed on the page, and every other quantity, all four steps, the 3-minute simmer, the 2-minute first check, and the 5-minutes-per-side figure match. No change.
 
 #### A. Ingredients
 
@@ -20098,6 +20100,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
 > **The cherry tomatoes were missing entirely** from the first transcription, and the dressing was transcribed at roughly a quarter of its printed volume (¼ cup oil and 1 tablespoon vinegar instead of ¾ cup and ¼ cup). Both are corrected, along with the method: the dressing is **puréed in a blender**, and the romaine halves get **painted with some of it before they hit the grill**.
+> ✅ **Independently re-verified 2026-09-07** against book p. 355 (scan index 49, enlarged). The 2026-09-06 corrections are confirmed on the page — ¾ cup oil, ¼ cup vinegar, 24 basil leaves, 12–16 cherry tomatoes, 4 oz blue cheese, ½ cup pecans — and all five steps, the MAKES/TAKES line, and the 5-minute walnut-toasting Note match. No change.
 
 #### A. Ingredients
 

@@ -32467,54 +32467,67 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 
 **Techniques used:** [§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs) · [§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) · [§T94 Buying Pork and the Whole-Hog Cut Map](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) · [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)
 
+**MAKES 1 slab, enough for 2 to 3 servings · TAKES 30 minutes to prep, 1 to 2 hours to dry brine, 4 to 5 hours to cook at 225°F**
+
 **🟢 Easy** · **Prep ~30 min** · **Slow cook ~4–5 hr** *(indirect smoker, unattended)* · **Start to finish ~6–7 hr** *(includes a 1–2 hr dry brine)*
 
 > **Easy despite the wrap-and-glaze steps, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test.** Nothing here can go from perfect to ruined in a moment the way a roux can — the Texas crutch wrap is forgiving on timing, and even an over-glazed sauce just needs a shorter final set. The only real judgment call is knowing when the meat has pulled back from the bone ends, and that's a visual cue with a wide margin for error.
 
-> ⚠️ **Reconstructed in part from a hard-to-read photographed spread (book p. 246–247).** The ingredients, temperatures, and overall step sequence are solid, but a few connecting details in the source's own prose were genuinely difficult to make out at full confidence — see Open Questions below. Treat the doneness cues (color, bone pull-back, foil-wrap internal temperature) as the real guide over any single minute-mark.
-
 #### A. Ingredients
 
-- 1 slab pork ribs, St. Louis cut or baby back *(see [§T58](#t58-the-different-cuts-of-ribs) for the difference — the source's own preference is St. Louis cut)*
-- ½ tsp Morton Coarse Kosher Salt per pound of meat *(dry brine)*
-- 2 Tbsp yellow ballpark mustard *(binder)*
-- 4 Tbsp [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) *(§4.108, from the earlier Meathead book)*
-- 6 oz liquid margarine, from a squeeze bottle
+- 1 slab pork ribs, St. Louis cut or baby backs *(see [§T58](#t58-the-different-cuts-of-ribs) for the difference — the source's own favorite is St. Louis cut)*
+- ½ teaspoon Morton Coarse Kosher Salt per pound of meat
+- 2 tablespoons yellow ballpark mustard
+- 4 tablespoons [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) *(§4.108 — the source's own rub, book p. 165)*
+- 6 ounces liquid margarine from a squeeze bottle
 - ¼ cup brown sugar
 - ¼ cup honey
-- 3 Tbsp apple juice, plus more for spritzing
-- ¼ cup [Kansas City Red](#4178-kansas-city-red), for glazing *(the source's own sauce, book p. 180 — **now documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; a bottled Kansas City–style sauce or [§4.117](#4117-kansas-city-classic-barbecue-sauce) also work)*
+- 3 tablespoons apple juice
+- ¼ cup [Kansas City Red](#4178-kansas-city-red) *(the source's own sauce, book p. 180 — **documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; a bottled Kansas City–style sauce or [§4.117](#4117-kansas-city-classic-barbecue-sauce) also work)*
 
-*Special tools: spray bottle, heavy-duty aluminum foil, instant-read thermometer.*
+*Special tools: spray bottle, heavy-duty aluminum foil.*
+
+> **The source's "About" notes:** *Mustard* helps the rub stick without significantly altering the flavor of the finished meat. *Margarine* — "why not butter?" — because many cooks prefer the convenience of a liquid in a squeeze bottle; it's easier to spread. *Apple juice* — some top cooks have lately been using citrusy soft drinks like 7 Up instead. *Sauce* — don't stray far from Kansas City style; mustard sauces and Asian-accented sauces don't stand a chance. Judges like shiny ribs, and corn syrup makes a shiny sauce, so consider adding some. Many cooks buy a commercial sauce and doctor it; Clint Cantwell adds liquid margarine to his for extra richness.
 
 #### B. Cooking Instructions
 
-**1. Prep the rack.**
-Rinse the ribs in cool water to rinse away any bone dust left from butchering. Flip the rack bone side up and remove the membrane (see [§T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs) for the full technique) — skip this and the finished ribs will be chewy on the bone side no matter how well the rest of the cook goes. Trim off any dangling fat and, if using St. Louis cut, the ragged flap of meat on one back corner, so the rack sits flat and cooks evenly.
+**1. Prep.**
+Many cooks do this step at home before they leave for the event. Rinse the ribs in cool water to remove any bone bits from the butchering. If you're cooking more than one slab, make sure the bones are all the same length so they look pretty in the turn-in box and aren't too large for it. There is a membrane — the *pleura* — on the concave side of the slab; it goes rubbery or leathery when cooked, so get rid of it. The best way: wiggle a table knife between the membrane and one of the bones in the center of the slab, then wiggle a finger in there and lift. The membrane will start to pull free — if you're lucky it comes off in one pull, sometimes it takes a couple more, and a paper towel helps you get a grip (see [§T59](#t59-rib-anatomy-and-how-to-skin--trim-ribs)). Remove excess fat and the flap of meat on one corner of the back side of St. Louis–cut ribs. At a contest, your meat is inspected soon after you arrive, so don't season or inject until you get the all-clear.
 
-**2. Dry brine.**
-Season both sides with the salt (½ tsp per pound of meat) and let it sit at least 1 to 2 hours, uncovered in the refrigerator, before the rub goes on.
+**2. Amplify. Dry brine 1 to 2 hours.**
+Dry brine with the salt and give it at least 1 to 2 hours to be absorbed. Some champs even inject special compounds such as Butcher BBQ Pork Injection between each rib to help the meat retain moisture and boost flavor. **If you inject, skip the dry brine.**
 
 **3. Fire up.**
-Set up a smoker, or a charcoal grill for two-zone indirect cooking, and get it stable at 225°F with clean blue smoke rolling. *(Most competitions don't allow gas cookers at all — charcoal, logs, or wood pellets only — so this is a good excuse to skip the propane tank even at home.)*
+You can do this on a charcoal grill set up in two zones — even a gas grill at home — but you'll need a smoker to win. Get the temperature to 225°F and stable. Add some wood and make sure it's blowing blue smoke ([§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)): a small, hot fire with lots of air. *(Note from the headnote: most competitions don't allow gas cookers — only charcoal, logs, or pellets.)*
 
 **4. Rub.**
-Coat both sides with the mustard as a binder — it won't add mustard flavor, just help the rub stick — then sprinkle Meathead's Memphis Dust generously over both sides. Some of it will drip off; that's normal.
+Coat both sides of the meat with the mustard, then sprinkle on Meathead's Memphis Dust generously. Keep in mind much will drip off.
 
-**5. Smoke.**
-Place the rack meat side up on the indirect side, as far from the heat source as your setup allows, and close the lid. Smoke until the meat begins to shrink back from the bone ends and darkens in color, about 2 hours. Spritzing with a light mist of apple juice every 30–45 minutes keeps the surface from drying out and adds a little extra smoke adhesion, though it isn't required.
+**5. Cook. About 2 hours.**
+Place the slab meat side up on the cooking grate, as far from the heat source as possible, in about 225°F air. Close the lid. Let the ribs smoke until the meat begins to shrink back from the ends of the bones and the meat color gets dark, about 2 hours. Some cooks spritz with a mist of apple juice to keep the surface wet and cool — this slows the cook, attracts smoke, and replenishes a small amount of the moisture that has dripped off and evaporated.
 
 **6. Texas crutch.**
-"Texas crutch" is barbecue slang for wrapping the meat in foil partway through a smoke — the foil traps steam and pushes the meat through the stall (the long plateau where evaporative cooling stalls the internal temperature, [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth)) much faster than leaving it uncovered. Lay out two overlapping layers of heavy-duty foil, set the rack meat side down on top, and dot the meat with pats of margarine, brown sugar, and honey. Fold the foil up around the sides into a boat shape, pour in the apple juice, then crimp the top closed so no steam escapes. Return the packet to the smoker and cook until the meat between the bones reads about 195°F to 205°F, roughly 2 to 3 more hours — closer to 3 for St. Louis cut, closer to 2 for baby backs.
+*("Texas crutch" is barbecue slang for wrapping the meat in foil partway through a smoke — the foil traps steam and pushes the meat through the stall, the long plateau where evaporative cooling stalls the internal temperature, [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth).)* Lay out two layers of 18-inch-wide heavy-duty aluminum foil at least 8 inches longer than the slab on each end. Squirt a few stripes of margarine the length of the slab onto the foil, then scatter half the brown sugar and honey on top. Lay the ribs **meat side down** on the margarine, brown sugar, and honey. On the bone side, squirt some more margarine and the rest of the brown sugar and honey. Pull up the sides of the foil to create a boat, pour in the apple juice, and tightly crimp the foil all around the slab. No air leaks.
 
-**7. Check doneness and unwrap.**
-Carefully open the foil, keeping your face clear of the escaping steam. The meat should offer only slight resistance to a probe and should not be falling off the bone — if it's sliding completely off, it's gone past done. Move the rack back to the smoker grate, meat side up.
+**7. Cook some more. 3 hours for St. Louis cut, 2 hours for baby backs.**
+Place the packet on the smoker and cook another 3 hours for St. Louis cut, 2 hours for baby backs.
 
-**8. Sauce and set.**
-Brush the barbecue sauce over both sides — top and bottom only, not the cut ends, which is the competition habit that keeps a turn-in box looking tidy. Close the lid and cook for another 5 to 10 minutes, just long enough for the sauce to turn glossy and tacky rather than wet. Watch it — a sugary glaze can scorch if left too long over direct heat.
+**8. Prepare the turn-in box.**
+Make sure you know what's allowed in the Styrofoam turn-in boxes. Line the box artfully — many teams prefer parsley because it's bright green and doesn't wilt easily. *(At home: skip this; just get a platter ready.)*
 
-**9. Rest, slice, and serve.**
-Let the rack rest for 5 to 10 minutes off the heat. Slice between the bones — bone side up makes for a cleaner cut since the knife isn't fighting the bark. Serve with extra sauce on the side.
+**9. Finish. About 15 minutes.**
+Carefully open the foil — the escaping steam can peel your nose. Check the temperature between the bones: it should be between 195° and 205°F. For home cooking Meathead uses the bounce test: pick up the slab in the center with tongs and bounce it — if the surface cracks, it's done. For competition you can't do that for fear of defacing a few ribs, so cut off the end bone and taste the second bone in. The meat should pull nicely off the bone leaving it bare, but should *not* fall off the bone. If they're done, remove the ribs from the foil and set them back on the smoker meat side up. Close the lid for about 15 minutes to firm up the bark.
+
+**10. Set the sauce.**
+Now brush Kansas City Red on both sides of the ribs and turn them meat side up on the smoker or grill. One coat is enough — the judges want to taste the meat. Close the lid and cook until the sauce sets and becomes tacky. Some cooks like to hit them with high heat on a grill to caramelize the sauce; be careful it doesn't burn.
+
+**11. Cut and box.**
+Turn the slab meat side down on a cutting board and slice the ribs carefully midway between the bones — it's easiest to cut bone side up. Make sure your knife is wicked sharp: you want clean cuts, and be certain no two ribs are attached to each other or you can be disqualified. Cutting messes up the finish on the meaty side, so line up the bones on the board meat side up and touch up their finish with more sauce — top and bottom only, never the sides. Some cooks give them a spritz of corn syrup for shine. Select the 8 prettiest ribs of similar size and carefully place them in the turn-in box with greenery framing them; if you got sauce on the inside of the box, wipe it off. Remember, the first thing judges do is score the appearance in the box.
+
+**12. Walk.**
+Slip the turn-in box into an insulated bag like the ones pizza deliveries use, and carry it carefully to the turn-in. For KCBS contests, turn-in time is 12:30.
+
+✅ 2026-09-07 second-pass QC against pp. 245–248: pages re-read at native resolution, so the earlier "hard-to-read spread" caveat is retired. Method rewritten to the page: the foil packet is built with stripes of margarine and half the sugar/honey under the ribs (meat side *down*) and the rest on the bone side (was "dot the meat with pats"); the unwrapped 15-minute bark-firming step and the bounce/second-bone doneness tests were missing; the "inject instead of dry brine" option, the same-length-bones prep note, and the turn-in box/cut/walk steps were missing; an invented "rest 5–10 minutes, serve with extra sauce" step and a "spritz every 30–45 minutes" interval were struck (the page says only "some cooks spritz"). Ingredients, MAKES/TAKES, and temperatures verified exact.
 
 #### C. Grocery Shopping List
 
@@ -32545,7 +32558,7 @@ Let the rack rest for 5 to 10 minutes off the heat. Slice between the bones — 
 
 #### D. Open Questions
 
-- **Some connecting narrative on the photographed spread (book p. 246–247) — the "About the Mustard/Margarine/Apple Juice/Sauce" sidebars and a few words of Steps 1–2 — was genuinely hard to read at full confidence**, being small print on an angled phone photo. The figures that drive the outcome (ingredient amounts, 225°F smoke temp, the 195–205°F foil-wrap target, and the overall step sequence: prep, dry brine, rub, smoke, crutch, sauce, rest) are all clearly legible and transcribed as printed; only some minor connective phrasing is paraphrased rather than quoted.
+- **✅ Closed 2026-09-07.** The earlier "hard-to-read spread" caveat about pp. 246–247 is retired — the pages were re-read at native resolution in the second-pass QC, and the method above (including the "About" sidebars) is now transcribed from the page.
 - **✅ Resolved 2026-09-06. The source's own "Kansas City Red" sauce — referenced by page number right in this recipe's ingredient list ("¼ cup Kansas City Red, page 180") — was flagged as genuinely incomplete by the earlier Rubs & Spice Blends batch.** Cody has since photographed book pp. 180 and 182, and it is written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. This entry now points at the real sauce rather than the [§4.117](#4117-kansas-city-classic-barbecue-sauce) stand-in, same as [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends).
 
 [↑ Table of Contents](#table-of-contents)
@@ -32558,56 +32571,57 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 
 **Techniques used:** [§T60 Butt Basics](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) · [§T94 Buying Pork and the Whole-Hog Cut Map](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) · [§T33 How Meat Actually Cooks](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) *(the stall, and why the Texas crutch shortens it)*
 
-**🟢 Easy** · **Prep ~30 min** · **Slow cook ~8 hr** *(indirect smoker, unattended)* · **Start to finish ~8½–20½ hr** *(includes an optional up-to-12-hr rest after rub and injection, before the meat ever hits the smoker)*
+**MAKES an 8- to 10-pound pork butt, 5 to 7 pounds after trimming and cooking, enough for 10 to 16 servings · TAKES 30 minutes to prep, up to 12 hours after applying rub and injection before cooking, 8 hours to cook**
 
-> **Easy despite four components and a competition pedigree, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test.** A pork butt is one of the most forgiving cuts there is — the same reasoning [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) already carries. Running a few hours long doesn't ruin it, and the Texas crutch step is a wrap-and-wait, not a moment that can suddenly go wrong. The genuine skill in a competition kitchen is in the rub/sauce craftsmanship and presentation, both already handled by the time this dish reaches the smoker.
+**🟢 Easy** · **Prep ~30 min** · **Slow cook ~8 hr** *(smoker at 300°F, mostly unattended — spritz every 30 min for 3 of those hours)* · **Start to finish ~9 hr–21 hr** *(includes an up-to-12-hr rest after rub and injection, and a 45 min rest before pulling)*
 
-> ⚠️ **Reconstructed in part from a hard-to-read photographed spread (book p. 250–252).** The ingredient lists, the MAKES/TAKES specs, and the step headers (Trim, Inject, Fire Up, Smoke, Texas Crutch, Set the Sauce, Box) are all clearly legible. Some of the connecting explanatory prose between those steps was genuinely difficult to read at full confidence on an angled phone photo; where that happened, this cookbook's own already-established smoking parameters — [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder)'s 203°F pulled-pork target, and [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth)'s stall temperature range — fill the gap rather than an invented number. See Open Questions.
+> **Easy despite four components and a competition pedigree, per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test.** A pork butt is one of the most forgiving cuts there is — the same reasoning [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) already carries; as the source puts it, "pork butt is resilient." Running a little long doesn't ruin it, and the Texas crutch step is a wrap-and-wait, not a moment that can suddenly go wrong. The genuine skill in a competition kitchen is in the rub/sauce craftsmanship and presentation, both already handled by the time this dish reaches the smoker.
 
 #### A. Ingredients
 
-- 1 (8- to 10-lb) bone-in pork butt
+- 1 (8- to 10-pound) bone-in pork butt
 - 2 cups [Cool Smoke Injection](#4171-cool-smoke-injection) *(§4.171)*
 - 1 cup [Cool Smoke Rub](#4169-cool-smoke-rub) *(§4.169)*
 - 2 cups apple juice, in a spray bottle
-- 2 cups [Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) *(§4.170)*
+- 3 cups [Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) *(§4.170 — only ½ cup is brushed on the meat; the rest goes into the jus and onto the table)*
 
-*Special tools: meat injector, spray bottle, heavy-duty aluminum foil, instant-read thermometer.*
+*Special tools: meat injector, spray bottle, heavy-duty aluminum foil; fist-size wood chunks if you're cooking with charcoal or gas.*
+
+> **The source's "About" notes:** *Granulated garlic and onion* (used in the rub and sauce) are like the powdered versions, only the grains are larger, closer to sand — if you substitute powder, use about two-thirds as much. *Butcher BBQ Pork Injection* (in the injection) is a commercial product Tuffy, like many top competitors, uses to amplify flavor and retain juice; buy it online or substitute chicken stock — it helps, but leaving it out won't ruin the meat. *Xanthan gum* is a soluble fiber powder widely used as a thickener or stabilizer, made by fermenting sugar with the bacterium *Xanthomonas campestris*. *In advance:* many cooks prepare rubs and sauces ahead and even trim the meat; at the contest the meats are inspected, turn-in boxes are issued, and cooks arrange the garnish in advance and chill the box.
 
 #### B. Cooking Instructions
 
 **1. Make the components ahead.**
-Mix up the Cool Smoke Injection, Cool Smoke Rub, and Cool Smoke Barbecue Sauce (§4.171, §4.169, §4.170 — the rub and injection can be made well in advance and stored airtight; the sauce is best made the day before and rested overnight).
+Mix up the Cool Smoke Chili Powder, Cool Smoke Rub, Cool Smoke Injection, and Cool Smoke Barbecue Sauce ([§4.168](#4168-cool-smoke-chili-powder), [§4.169](#4169-cool-smoke-rub), [§4.171](#4171-cool-smoke-injection), [§4.170](#4170-cool-smoke-barbecue-sauce)). The chili powder and rub can be made ahead and stored in a clean airtight jar; the injection keeps in the fridge up to 5 days; the sauce keeps refrigerated up to 2 weeks and is best if it sits overnight.
 
 **2. Trim.**
-Trim most of the surface fat off the butt so the rub and smoke can reach the meat directly, but leave a thin cap over the "money muscle" — the small, prized muscle competitors are proudest of getting right — rather than exposing it completely.
+Cut most of the surface fat off the butt — you want the rub on the meat, not on a layer of fat. Cut it so the **money muscle** — the one with the tiger stripes on the end — is fully exposed. You might have to slice a little above and below it to get it hanging out so it browns on almost all sides, but competition rules don't allow you to remove it. Give this piece special care, because it is very tender and juicy.
 
 **3. Inject.**
-Using the meat injector, work the Cool Smoke Injection into the meat at regular intervals about an inch apart, going in from multiple angles so the liquid disperses evenly rather than pooling in one channel.
+Immediately after the inspector has approved your meat (at home: whenever you're ready), inject as much as possible, repeatedly injecting the meat every 1 inch with about 1 ounce (2 tablespoons). Dust the meat evenly all over with the rub. Refrigerate, uncovered, for several hours — up to 12, per the source's TAKES line.
 
-**4. Rub.**
-Coat the whole surface generously and evenly with the Cool Smoke Rub, pressing it in. Refrigerate uncovered for up to 12 hours if time allows — this lets the surface dry slightly for a better bark, though cooking right away also works.
+**4. Fire up.**
+When you're ready to cook, preheat the smoker to 300°F. If you don't have a smoker, heat a grill to 300°F in the indirect zone. Meathead's note: "I know we usually cook at 225°F, but pork butt is resilient. It can take higher temps and this temp gets you done on time."
 
-**5. Fire up.**
-Preheat a smoker, or a grill set up for indirect two-zone cooking, to 300°F — hotter than this cookbook's usual low-and-slow 225°F, since a competition clock has to fit an 8- to 10-lb butt into about 8 hours rather than the 12 to 20 hours a slower cook would take.
+**5. Smoke. 4 hours, spraying every 30 minutes after the first hour.**
+Tuffy cooks only with logs, but in competition you can use charcoal with wood chunks or with pellets, or gas with wood at home. Place the meat in the smoker away from the heat, or on the indirect side of a grill, add 3 wood chunks, and close the lid. Cook for 1 hour — if the wood burns up, add 3 more chunks. Then spray the meat with apple juice, and cook for 3 hours more, spraying the meat every 30 minutes and adding wood when the smoke dies.
 
-**6. Smoke.**
-Place the butt fat side up on the indirect side and cook for about 3 hours, then begin spritzing with apple juice every 30 minutes to keep the surface from drying out at this higher heat, adding more wood or charcoal as needed to keep the smoke going.
+**6. Texas crutch. Another 2½ to 3½ hours, to 195°F.**
+Cut two 18 × 24-inch pieces of heavy-duty aluminum foil and join them lengthwise by crimping the edges. Lay the resulting piece out flat on your work surface. Remove the butt from the cooker and fold it tightly in the foil. Return it to the smoker or the indirect side of the grill (at home you can use your indoor oven). Cook for another 2½ to 3½ hours, checking the temperature after 2½ hours. **It's done at 195°F.** *(The foil traps steam and pushes the meat through the stall, [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth).)*
 
-**7. Texas crutch.**
-Once the bark has set and the surface temperature is climbing through the stall (roughly 150–165°F internal, per [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth)), wrap the butt tightly in two layers of heavy-duty foil and return it to the smoker. This traps steam and pushes the meat through the stall much faster than leaving it exposed.
+**7. Set the sauce. 10 minutes.**
+Remove the meat from the foil and brush it with ½ cup of the barbecue sauce. Return it, uncovered, to the smoker and cook for another 10 minutes to set the sauce.
 
-**8. Cook to temperature.**
-Continue cooking, still wrapped, until the meat is probe-tender throughout — no resistance anywhere in the butt, about 200° to 205°F internal, the same target this cookbook's own [§T60 Butt Basics](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) already recommends for pulled pork.
+**8. Rest. 45 minutes.**
+Remove from the heat, wrap it in foil, and let it rest for 45 minutes in a beer cooler (a "faux Cambro," [§T43](#t43-faux-cambro--holding-meat-hot-for-hours)).
 
-**9. Set the sauce.**
-Open the foil carefully, keeping clear of the steam. Brush the Cool Smoke Barbecue Sauce over the surface, then return the butt, uncovered, to the smoker for another 20 to 30 minutes to set the glaze.
+**9. Box.**
+Now you're faced with a conundrum: what do you want to turn in? As judges, Clint Cantwell and Meathead like to see some variety in the turn-in box — usually some slices of the money muscle and pulled or shredded pork. Many cooks give it a shine and some moisture by painting the cut surface with jus from the foil mixed with a little Kansas City–style barbecue sauce. *(At home, just plate it the same way — slices of the money muscle alongside the pulled pork, moistened with the jus-and-sauce mix, with the rest of the sauce on the table. See [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) for what a turn-in box is.)*
 
-**10. Rest.**
-Wrap the butt (still in its foil) in a heavy towel and hold it in an insulated cooler for about 45 minutes before pulling — this is the same faux Cambro resting trick this cookbook already uses for brisket ([§T43](#t43-faux-cambro--holding-meat-hot-for-hours)).
+**10. Turn-in.**
+Be sure to get it to the turn-in table by 1 p.m.
 
-**11. Pull and box.**
-Pull or chop the meat, mixing in some of the moist "money muscle" with the leaner pulled/shredded pork for variety, and moisten it with a little of the collected pan juices mixed with extra sauce. *(In a competition, this is the point where the meat gets arranged in a turn-in box for the judges — see [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) for what that term means. At home, just plate it.)*
+✅ 2026-09-07 second-pass QC against pp. 248–252: pages re-read at native resolution, so the earlier "hard-to-read spread" caveat is retired. Sauce quantity corrected to 3 cups (was 2); the trim step was backwards (page: expose the money muscle fully — not "leave a thin cap over it"); the pull temperature is 195°F on the page (the cookbook's 200–205°F was a fill-in from §T60); the sauce sets for 10 minutes (was 20–30); smoke step restored to the page's 1 hour unsprayed + 3 hours sprayed with 3 wood chunks at a time; foil size and 2½–3½ hr crutch timing added; MAKES/TAKES and the wood-chunk tool note added; injection quantity (1 oz per inch) restored.
 
 #### C. Grocery Shopping List
 
@@ -32617,8 +32631,9 @@ Pull or chop the meat, mixing in some of the moist "money muscle" with the leane
 
 **🛒 General grocery**
 
-- 🛒 Apple juice — 2 cups for injection component, plus 2 more for the spray bottle
-- 🛒 Cool Smoke Injection, Cool Smoke Rub, and Cool Smoke Barbecue Sauce ingredients (if not already made) — see [§4.171](#4171-cool-smoke-injection), [§4.169](#4169-cool-smoke-rub), [§4.170](#4170-cool-smoke-barbecue-sauce)
+- 🛒 Apple juice — 2 cups for the spray bottle, plus 1½ cups for the injection component
+- 🛒 Cool Smoke Injection, Cool Smoke Rub, and Cool Smoke Barbecue Sauce ingredients (if not already made) — see [§4.171](#4171-cool-smoke-injection), [§4.169](#4169-cool-smoke-rub), [§4.170](#4170-cool-smoke-barbecue-sauce); the sauce recipe makes 1 quart, and this recipe wants 3 cups of it
+- 🛒 Fist-size wood chunks (if cooking with charcoal or gas)
 - 🛒 Heavy-duty aluminum foil
 
 #### Nutrition *(estimated)*
@@ -32632,7 +32647,7 @@ Pull or chop the meat, mixing in some of the moist "money muscle" with the leane
 
 #### D. Open Questions
 
-- **The exact wording of several "About" sidebars and connective sentences on book p. 250–252 (covering the granulated garlic/onion substitution ratio, the money muscle, and the fire-up/smoke steps) was genuinely difficult to read at full confidence** from an angled phone photo of small print. The ingredient lists, the four Cool Smoke component recipes (already independently confirmed at §4.168–171), the MAKES/TAKES specs, and every step's core action and the temperatures/times that drive doneness are solid; the 300°F smoker temperature is corroborated by the source's own "8 hours to cook" line for an 8- to 10-lb butt, which only works at a higher heat than the usual 225°F. The 200–205°F pull target is this cookbook's own established number ([§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder)) rather than a re-transcription of a specific number on that page, applied here for consistency since it wasn't legible with confidence.
+- **✅ Closed 2026-09-07.** The earlier "hard-to-read spread" caveat about pp. 250–252 is retired — the pages were re-read at native resolution in the second-pass QC. The pull target is **195°F as printed** (the earlier 200–205°F was a fill-in from [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder)), and the "About" sidebars are now transcribed above.
 - **Confirmed: "Tuffy Stone's Championship Pork Butt" and the earlier batch's informal "Cool Smoke Pork Butt" reference are the same recipe, not two different dishes** — see the note above.
 
 [↑ Table of Contents](#table-of-contents)

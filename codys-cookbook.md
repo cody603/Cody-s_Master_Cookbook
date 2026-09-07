@@ -19257,6 +19257,8 @@ Transcribed from a handwritten recipe card — headed "From the Kitchen of: Joet
 
 **🟢 Easy** · **Prep ~30 min** *(peeling and cutting 10 lb of potatoes)* · **Cook ~1 hr 25 min** *(~25 min boiling the potatoes, then an estimated 45–60 min bake at 300°F — not printed on the card, see Open Questions)* · **Start to finish ~1 hr 55 min** *(plus optional freeze-ahead — see the card's own note below)*
 
+> ✅ **2026-09-07 second-pass QC against the card photo (rotated upright, cropped at full resolution): verified.** All seven ingredient lines (10 lb potatoes, 12 oz cream cheese, 2 cups sour cream, 2 tsp salt, 4 tsp onion salt, ½ tsp pepper, ½ cup butter), the three method lines, "Cook at 300°," the freezes-well note, the "Joetta" / "Geviene" header, and the three blank form fields all match. The card gives no quantities for the mashing milk and butter, no time, and no serving count — the nutrition block's "doubly estimated" wording stands. The boil time in Step 1 is now marked as cookbook gloss; nothing on the card gives one.
+
 > ✅ **Verified line by line against the card photo (2026-09-06).** Every ingredient, quantity, and method line matches what's written; nothing on the card was missed and nothing here was invented. **All three of the card's preprinted fields at the bottom — "Oven Temp:", "Time:", and "Serves:" — were re-checked at full magnification and every one of them is blank.** The 300°F comes from the *body* of the handwritten method ("Cook at 300°"), not from the "Oven Temp:" field, which the writer left empty like the other two. So the three things this entry flags as absent really are absent from the card.
 
 > ⚠️ **Two things the card leaves blank: serving count and bake time.** The only temperature anywhere on the card is the 300° written into the method line — no "Serves," no "Time," and no minutes for the bake itself. The estimate above is reasoned from the dish, not copied from the card: 10 lb of already-cooked mashed potatoes just needs to heat through and set, and 300°F is a low, gentle reheat temperature, so 45–60 minutes is a sensible range rather than a fast hot-oven bake. Confirm against how the family actually times it — flagged again below in Open Questions.
@@ -19276,7 +19278,7 @@ Transcribed from a handwritten recipe card — headed "From the Kitchen of: Joet
 #### B. Cooking Instructions
 
 **1. Peel, boil, and mash the potatoes with milk and butter.**
-Peel and cut the 10 lb of potatoes into even chunks so they cook evenly. Boil in salted water until fork-tender, about 20–25 minutes, then drain well. Mash with milk and butter to your usual mashed-potato consistency — the card doesn't give exact amounts for either, so add them gradually and season as you go rather than following a fixed measure. *(See Open Questions.)*
+Peel and cut the 10 lb of potatoes into even chunks so they cook evenly. Boil in salted water until fork-tender — about 20–25 minutes *(cookbook gloss; the card says only "cooked & mashed")* — then drain well. Mash with milk and butter to your usual mashed-potato consistency — the card doesn't give exact amounts for either, so add them gradually and season as you go rather than following a fixed measure. *(See Open Questions.)*
 
 **2. Mix in the cream cheese, sour cream, and seasonings.**
 While the potatoes are still warm, stir in the softened cream cheese, sour cream, salt, onion salt, and pepper until smooth. Warm potatoes melt the cream cheese in evenly; cold potatoes will leave lumps. *(The card writes this step in shorthand — "Mix potatoes, cream cheese, s cream, s & p" — and doesn't name the onion salt again there. It's listed in the ingredients with nowhere else to go, so it belongs in this step with the rest of the seasoning.)*
@@ -31522,13 +31524,15 @@ Serve with [§5.49 Persian-ish Rice](#549-persian-ish-rice) and [§4.156 Persian
 
 Transcribed from a printed recipe page — **a family recipe card, with no cookbook to attribute it to** *(confirmed by Cody, 2026-09-07)* — with Cody's own handwritten adaptation notes in the margins, doubling the recipe for a crockpot. Per Cody: **"Add this stuffing - it's awesome. Family favorite."** A chicken-and-stuffing casserole built in two layers — seasoned bread stuffing on the bottom and top, a mayo-bound chicken-and-vegetable filling in the middle, and an egg-milk-mushroom-soup sauce poured over everything before it cooks.
 
-> **Two versions, one recipe.** The printed card is a single-batch **oven method**, built as a freezer casserole — assembled, frozen, thawed overnight, then baked. Cody's own red-ink notes double every quantity and move the whole thing into a **7-quart crockpot**, cooked straight through with no freezing step at all — that's the version his family actually makes, and it's the one featured below. The original oven method is kept as a variation for anyone without a crockpot, or making a smaller batch ahead of time.
+> **Two versions, one recipe.** The printed card is a single-batch **oven method**, built as a freezer casserole — assembled, frozen, thawed overnight, then baked. Cody's own handwritten notes double every quantity (the doubled amounts sit in dark ink in the page's margin column, boxed into stuffing / chicken / sauce groups) and, in red ink, move the whole thing into a **7-quart crockpot**, cooked straight through with no freezing step at all — that's the version his family actually makes, and it's the one featured below. *(Ink colors re-checked 2026-09-07 — earlier wording had all the notes as red.)* The original oven method is kept as a variation for anyone without a crockpot, or making a smaller batch ahead of time.
 
 **Yield:** the crockpot method (doubled) fills a 7-qt crockpot and serves about 16; the single-batch oven method makes 8 servings, per the card
 
 **🟢 Easy** · **Prep ~35 min** *(chopping the chicken, onion, chives, and celery; mixing the layers)* · **Slow cook ~3–3½ hr** *(crock pot — 1 hr 20 min on high, then low for as long as you're out, then back to high until heated through; Cody's own routine runs it through a church service)* · **Start to finish ~4 hr**, *depending on how long the "low" stretch runs*
 
 **❤️ Family favorite** — *Cody: "Add this stuffing — it's awesome. Family favorite."*
+
+> ✅ **2026-09-07 second-pass QC against the card photo (rotated upright, cropped at full resolution): verified.** All thirteen printed ingredient lines, the printed method (1¼ cups broth into the stuffing, ¾ cup into the chicken; 325°F, 30 minutes covered plus 10 uncovered; makes 8), the summary-of-processes, freeze-in, serve-with and potluck lines, every doubled quantity in the margin column (2 pkgs, 4 Tbsp, 2½ cups broth; 6 cups chicken, 1 cup onion, 1½ cups broth, ½ cup chives, 1 cup celery, 1 cup mayo, 1½ tsp salt; 4 eggs, 3 cups milk, 2 cans soup) and all the red-ink crock-pot notes match what the entry says, and the crock-pot version below reflects Cody's notes throughout. The struck word after "4 tablespoons" is still illegible. Two cookbook inferences that the card does not make (why the broth goes into the chicken mixture, and when to add the optional cheese in the crock pot) are now marked as gloss.
 
 > ✅ **Verified line by line against the source photo (2026-09-06).** The printed page, the printed method, and Cody's handwritten margin notes were all re-read at full resolution with the image rotated upright. The earlier ⚠️ "reconstructed from a rotated photo" flag on the oven method is **retired** — the printed directions are now confirmed word for word, and one real error they carried has been corrected (see the broth note below). **On the question of where the page came from: it's simply a family recipe, with no book to attribute** *(confirmed by Cody, 2026-09-07)* — the page carries only the recipe title block and the page number 61, with no running head. It stays cited as a family recipe card, not a guessed title.
 
@@ -31561,7 +31565,7 @@ Chop the onion, celery, and chives, and have your 6 cups of cooked chicken chopp
 In a large bowl, combine the stuffing, melted margarine, and 2½ cups of the chicken broth.
 
 **3. Mix the chicken mixture, separately — this is where the second broth addition goes.**
-In another bowl, combine the chopped chicken, the remaining 1½ cups chicken broth, the onion, chives, celery, mayonnaise, and salt. The broth goes in *here*, with the chicken — not into the sauce. It loosens the mayonnaise-bound filling so it spreads in an even layer instead of sitting in clumps.
+In another bowl, combine the chopped chicken, the remaining 1½ cups chicken broth, the onion, chives, celery, mayonnaise, and salt. The broth goes in *here*, with the chicken — not into the sauce. *(Cookbook gloss: it loosens the mayonnaise-bound filling so it spreads in an even layer instead of sitting in clumps.)*
 
 **4. Layer it all into a 7-quart crockpot. No freezing — this method cooks straight away.**
 Spread half the stuffing mixture in the bottom of the crockpot. Spread the chicken mixture evenly over it. Cover with the remaining stuffing mixture. Unlike the oven method below, this version goes straight into the crockpot to cook — there's no freeze-and-thaw step.
@@ -31573,7 +31577,7 @@ Whisk together the eggs, the milk, and the condensed cream of mushroom soup — 
 This is Cody's own routine, in his words as written on the card: *"Cook in my black crockpot on high for 1 hr + 20 min. on high before church + turn down to low until after I get home from church. Then turn on high until rest of food is done."* A second red note on the card gives his actual clock time for it: *"(put in pot on high at 8:10 a.m."* The high start gets it cooking; the low stretch holds it safely while you're away — for Cody, the length of a church service — without drying it out or overcooking it.
 
 **7. Turn back to high until it's hot through and the rest of the meal is ready.**
-Once you're back, bring it back up to high and hold it there until everything's heated through and whatever else you're serving alongside is done. If you're using the cheese, sprinkle it over the top during this last stretch so it has time to melt.
+Once you're back, bring it back up to high and hold it there until everything's heated through and whatever else you're serving alongside is done. If you're using the cheese, sprinkle it over the top during this last stretch so it has time to melt *(cookbook gloss — the card's crock-pot notes say only "can leave off the cheese" and never say when to add it; the last high stretch mirrors the oven method's uncovered finish)*.
 
 **8. Serve.**
 Card's own serving suggestion, printed as its own "Serve with" line: cooked frozen peas alongside, and Cranberry Tea *(the card cross-references its own "page 139" for that; any spiced cranberry tea works alongside)*. Cody can leave the cheese off entirely — it's optional either way.
@@ -41140,6 +41144,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~50 min** *(oven, stirring every 10–15 min)* · **Start to finish ~1 hr**
 
+> ✅ **2026-09-07 second-pass QC against Cody's photo of pp. 402–403 (full-resolution crops): verified.** All ten ingredient lines with their weights, "makes about 8 cups," 300°F, the 1 teaspoon of salt in the bowl, stirring every 10 to 15 minutes, 45 to 50 minutes, the second salting to taste, cooling before the fruit goes in, and the 1-month storage line all match. No change to the food; the Maillard/caramelization paragraph in Step 3, the spreading and cooling asides, and the oats note are now marked as cookbook gloss.
+
 #### A. Ingredients
 
 - 3 cups (10½ ounces) old-fashioned rolled oats
@@ -41153,7 +41159,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - *Sel gris* or Maldon sea salt
 - Optional: 1 cup (5 ounces) dried sour cherries or quartered dried apricots
 
-> **Old-fashioned rolled oats, not quick oats.** Rolled oats are whole oat groats that have been steamed and pressed flat, so they stay thick and chewy and hold their shape through a long, slow bake. Quick oats are cut thinner and steamed longer at the mill so they cook faster — great for a five-minute bowl of oatmeal, but they'll turn powdery and burn instead of toasting evenly over this recipe's 45 to 50 minutes in the oven. Reach for the tub labeled "old-fashioned" or "rolled," not "quick" or "instant."
+> **Old-fashioned rolled oats, not quick oats** *(cookbook gloss — the page just says "old-fashioned rolled oats")*. Rolled oats are whole oat groats that have been steamed and pressed flat, so they stay thick and chewy and hold their shape through a long, slow bake. Quick oats are cut thinner and steamed longer at the mill so they cook faster — great for a five-minute bowl of oatmeal, but they'll turn powdery and burn instead of toasting evenly over this recipe's 45 to 50 minutes in the oven. Reach for the tub labeled "old-fashioned" or "rolled," not "quick" or "instant."
 
 #### B. Cooking Instructions
 
@@ -41161,16 +41167,16 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 Preheat the oven to 300°F. Line a rimmed baking sheet with parchment paper. Set aside.
 
 **2. Mix everything together and spread it in an even layer.**
-Place the oats, pumpkin seeds, sunflower seeds, coconut, pecans, maple syrup, olive oil, brown sugar, and 1 teaspoon salt in a large bowl and mix until well combined — every piece of oat and seed should have a light, even coating of oil and syrup. Spread the granola mixture in an even layer on the prepared baking sheet, edge to edge, so it toasts instead of steaming in a pile.
+Place the oats, pumpkin seeds, sunflower seeds, coconut, pecans, maple syrup, olive oil, brown sugar, and 1 teaspoon salt in a large bowl and mix until well combined. Spread the granola mixture in an even layer on the prepared baking sheet. *(Cookbook gloss: every oat and seed should carry a light coating of oil and syrup, and an even edge-to-edge layer toasts instead of steaming in a pile.)*
 
 **3. Bake low and slow, stirring often. 45 to 50 minutes.**
-Slide the pan into the oven and bake, stirring with a metal spatula every 10 to 15 minutes, until the granola is toasted and very crisp, about 45 to 50 minutes. The long, low bake is doing two jobs at once: the **Maillard reaction** — browning between proteins and sugars that creates entirely new nutty, toasty flavor compounds — and **caramelization** — the sugars themselves breaking down into their own darker, more complex flavor. Both are covered in full at [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd); the short version that matters here is that low heat held for a long time builds just as much of that deep, toasted flavor as a hot, fast bake would, without the risk of burning the oats and seeds before the middle of the pan catches up. Stirring regularly keeps the edges (which brown fastest) from scorching while the center finishes.
+Slide the pan into the oven and bake, stirring with a metal spatula every 10 to 15 minutes, until the granola is toasted and very crisp, about 45 to 50 minutes. *(The rest of this step is cookbook gloss, not on the page.)* The long, low bake is doing two jobs at once: the **Maillard reaction** — browning between proteins and sugars that creates entirely new nutty, toasty flavor compounds — and **caramelization** — the sugars themselves breaking down into their own darker, more complex flavor. Both are covered in full at [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd); the short version that matters here is that low heat held for a long time builds just as much of that deep, toasted flavor as a hot, fast bake would, without the risk of burning the oats and seeds before the middle of the pan catches up. Stirring regularly keeps the edges (which brown fastest) from scorching while the center finishes.
 
 **4. Salt it again, right out of the oven.**
 Remove the granola from the oven and season with more salt to taste. Flaky finishing salts like *sel gris* or Maldon are built for exactly this — a pinch scattered on right at the end, meant to be tasted as discrete little bursts of crunch and salinity rather than melted invisibly into the batch. *(See [§T29 How to Salt](#t29-how-to-salt)'s section on flaky finishing salts.)*
 
 **5. Cool completely, then add dried fruit if using.**
-Let the granola cool completely on the pan — it crisps up further as it cools, so don't judge its final texture while it's still warm. Once cool, stir in the dried cherries or apricots if using.
+Let the granola cool completely *(cookbook gloss: it crisps up further as it cools, so don't judge its final texture while it's still warm)*. Once cool, stir in the dried cherries or apricots if desired.
 
 **6. Store airtight.**
 Store in an airtight container for up to 1 month.
@@ -41217,6 +41223,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~40 min** *(mostly unattended baking)* · **Start to finish ~1 hr** *(plus full cooling on a rack, and up to 2 hr chill before serving if filling with [§14.36 Vanilla Cream](#1436-scented-cream) — not active work)*
 
+> ✅ **2026-09-07 second-pass QC against Cody's photo of pp. 412–413 (full-resolution crops): verified.** All fourteen ingredient lines with their weights, "makes two 9-inch cakes," 350°F with the rack in the upper third, the 4-minute purée, the sift, the boiling water into the sugar-oil mixture, the well, the eggs, the 3-inch pan drop, 38 to 40 minutes with all three doneness cues, the 1-cup filling and 2-hour chill, the alternatives and the 4-day / 2-month storage line all match. No change to the food; the purée explanation in Step 2 and the whole "boiling water method" paragraph in Step 5 are now marked as cookbook gloss — the page simply says to whisk the boiling water in.
+
 #### A. Ingredients
 
 - 1 cup (4 ounces) peeled, thinly sliced fresh ginger (about 5 ounces unpeeled)
@@ -41240,7 +41248,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 Preheat the oven to 350°F, with a rack set in the upper third. Grease two 9-inch cake pans, then line with parchment paper. Grease and sprinkle generously with flour, tapping out the excess.
 
 **2. Purée the fresh ginger and sugar until completely smooth. About 4 minutes.**
-Purée the fresh ginger and sugar together in a food processor or blender until completely smooth, about 4 minutes. Puréeing rather than just grating the ginger does two things: it releases far more of the ginger's juice and flavor than grating would, and it keeps the finished cake from having any stringy, fibrous bits of ginger running through it.
+Purée the fresh ginger and sugar together in a food processor or blender until completely smooth, about 4 minutes. *(Cookbook gloss:)* puréeing rather than just grating the ginger does two things: it releases far more of the ginger's juice and flavor than grating would, and it keeps the finished cake from having any stringy, fibrous bits of ginger running through it.
 
 **3. Stir in the oil and molasses.**
 Pour the ginger-sugar mixture into a medium bowl and add the oil and molasses. Whisk to combine and set aside.
@@ -41249,7 +41257,7 @@ Pour the ginger-sugar mixture into a medium bowl and add the oil and molasses. W
 In a medium bowl, whisk together the flour, cinnamon, ginger, cloves, pepper, salt, and baking soda, then sift into a large bowl. Set aside.
 
 **5. Whisk the boiling water into the ginger-oil mixture.**
-Whisk the boiling water into the sugar-oil-molasses mixture until evenly combined. **This is the "boiling water method"** — sometimes called a hot-milk-cake technique — where a hot liquid gets whisked straight into the fat-and-sugar base instead of the more familiar approach of creaming softened butter with sugar. There's no butter here to cream and no air to protect, since [§T30 How to Use Fat](#t30-how-to-use-fat) already covers why an oil cake gets its structure from oil coating the flour rather than from trapped air — so the batter can take a hot liquid and brisk mixing without going tough. The boiling water also fully dissolves the sugar and molasses and blooms the ground spices, which is part of why this cake tastes so deeply spiced. *(Molasses itself is also doing chemistry here: [§T31 How to Use Acid](#t31-how-to-use-acid) lists molasses among the everyday acids, and it's exactly the acid partner this recipe's baking soda needs to react and produce lift — see that entry's note that "baking soda needs an acid partner to make bubbles.")*
+Whisk the boiling water into the sugar-oil-molasses mixture until evenly combined. *(Everything that follows in this step is cookbook gloss — the page gives only that one sentence.)* **This is the "boiling water method"** — sometimes called a hot-milk-cake technique — where a hot liquid gets whisked straight into the fat-and-sugar base instead of the more familiar approach of creaming softened butter with sugar. There's no butter here to cream and no air to protect, since [§T30 How to Use Fat](#t30-how-to-use-fat) already covers why an oil cake gets its structure from oil coating the flour rather than from trapped air — so the batter can take a hot liquid and brisk mixing without going tough. The boiling water also fully dissolves the sugar and molasses and blooms the ground spices, which is part of why this cake tastes so deeply spiced. *(Molasses itself is also doing chemistry here: [§T31 How to Use Acid](#t31-how-to-use-acid) lists molasses among the everyday acids, and it's exactly the acid partner this recipe's baking soda needs to react and produce lift — see that entry's note that "baking soda needs an acid partner to make bubbles.")*
 
 **6. Whisk the dry ingredients into the wet, then the eggs. The batter will be thin.**
 Make a well in the center of the dry ingredients and gradually whisk in the water-oil mixture until incorporated. Gradually whisk in the eggs and stir until smooth. The batter will be thin and pourable — that's correct for this cake, not a sign anything went wrong.

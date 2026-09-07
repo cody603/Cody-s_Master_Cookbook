@@ -1148,7 +1148,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.15 Heavenly Pumpkin Pie](#1415-heavenly-pumpkin-pie) | 🔴 | 20 min | 10 min | — | 2 hr 30 min *(includes an estimated ~2 hr combined chill)* |
 | [§7.61 Broiled Fish](#761-broiled-fish) | 🟡 | 10 min | 20 min | — | 30 min |
 | [§4.121 Texas Mop Sauce](#4121-texas-mop-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
-| [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) | 🟢 | 10 min | 20 min | — | under 1 hr *(printed TAKES)* |
 | [§4.175 Teriyaki Sauce](#4175-teriyaki-sauce) *(Meathead)* | 🟢 | 10 min | 20 min | — | 30 min |
 | [§4.170 Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) | 🟡 | 10 min | 20 min | — | 30 min *(better after resting overnight)* |
 | [§4.178 Kansas City Red](#4178-kansas-city-red) *(The Meathead Method)* | 🟡 | 5 min | 25 min | — | 30 min |
@@ -9102,13 +9102,17 @@ Taste and add more sugar or a splash of hot pepper sauce, or both, if you like. 
 
 ### 4.123 D.C. Mumbo Sauce
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. Washington, D.C.'s own carryout-counter sauce — sweet-and-sour, ketchup-and-pineapple-juice based, closer kin to a Chinese sweet-and-sour sauce than a Southern barbecue sauce, ubiquitous on wings and fried chicken across the city.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. Washington, D.C.'s own carryout-counter sauce — sweet-and-sour, ketchup-and-pineapple-juice based, closer kin to a Chinese sweet-and-sour sauce than a Southern barbecue sauce, ubiquitous on wings and fried chicken across the city. Per the source, there's no official recipe — this one is inspired by the best examples the author tasted around D.C. Try it on fried chicken, fish, shrimp, or egg rolls, or on just about anything deep-fried; the author also uses it on his Sweet and Sour Pork Tenderloin, and, unorthodox as it sounds, it's pretty good on barbecued ribs and pulled pork too.
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
 **No added salt — as printed.** The soy sauce provides some sodium, but the book's own ingredient list has no separate salt.
 
-**🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(simmer)* · **Start to finish ~30 min**
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 195 (second-pass QC).** All seven ingredient lines match the page exactly, as do the whisk-to-break-clumps step, the 20-minute low simmer with its don't-boil warning, the drizzle-or-dip serving note, the refrigerate-for-months storage line, and the distilled-vinegar Note. **One fix:** the page prints **MAKES 2⅔ cups / TAKES less than an hour** — the yield was already in the Nutrition block, but the TAKES line had never been carried, and the badge's 30-minute start-to-finish now defers to it. No quantity changed.
+
+**Makes 2⅔ cups · Takes less than an hour** *(as printed — "even if the kids are in your hair")*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(simmer)* · **Start to finish under 1 hr** *(as printed; about 30 min of it is hands-on)*
 
 #### A. Ingredients
 
@@ -9160,9 +9164,13 @@ Taste and adjust the seasoning. Drizzle it on the food, serve it in a bowl for d
 
 ### 4.124 Tartar Sauce
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The classic grilled-fish finishing sauce, built from a fully-formed mayonnaise base with green onion, pickle, caper, and tarragon.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The classic grilled-fish finishing sauce, built from a fully-formed mayonnaise base with green onion, pickle, caper, and tarragon. Per the source, smoked mullet and grilled fish are the classic barbecue dishes of Florida; *sauce tartare* is in the same family as aioli and remoulade, and while it's classic as a finishing sauce, you can also slather it on the fish before you grill.
 
 **Techniques used:** [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) *(if making the mayo from scratch rather than starting from store-bought)*
+
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 184–185 (second-pass QC).** All ten ingredient lines match the page exactly (salt and pepper are to taste, as printed), as do the two-part method, the couple-of-hours fridge rest, and the keeps-at-least-a-week line. **Two fixes:** the page prints **MAKES about ½ cup / TAKES about 15 minutes**, now carried; and the Notes were re-worded to match the page — tarragon is called *essential* because it complements fish, and finely minced celery is *a nice addition*, not a stand-in for capers (the page says to substitute cornichons for capers or just skip both). No quantity changed.
+
+**Makes about ½ cup · Takes about 15 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min active** *(plus at least 2 hours chilling)*
 
@@ -9187,7 +9195,7 @@ Combine the mayonnaise, green onions, pickles, lemon juice, capers, tarragon, mu
 **2. Season and chill.**
 Season to taste with the salt and pepper. Let it sit in the fridge for a couple of hours before serving. Keeps at least a week.
 
-**NOTES:** Lime juice or pickle juice can substitute for the lemon juice. Cornichons work in place of capers, or skip them and add a little finely minced celery instead. Sweet pickle relish can replace the chopped pickles. Dijon-style mustard can stand in for the whole-grain. Skip the hot sauce, or add more, or use red pepper flakes or chipotle powder for the heat instead.
+**NOTES:** There's plenty of room to play with this recipe, but the tarragon is essential — it really complements fish. Lime juice, vinegar, or pickle juice can substitute for the lemon juice. If you don't like capers, substitute cornichons, or just forget about either one. Finely minced celery is a nice addition. Sweet pickle relish can replace the chopped pickles. Dijon-style mustard can stand in for the whole-grain. Skip the hot sauce, or add more, or use red pepper flakes or chipotle powder for the heat instead.
 
 #### C. Grocery Shopping List
 

@@ -287,7 +287,7 @@ Click any recipe to jump straight to it.
 - [5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) ✅ *(Meathead; distinct from [§5.14](#514-grilled-corn))*
 - [5.44 Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) ✅ *(Meathead)*
 - [5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) ✅ *(Meathead)*
-- [5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) ✅ *(Meathead; ⚠️ the MAKES line's fraction is unreadable in the scan — see Open Questions)*
+- [5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) ✅ *(Meathead)*
 - [5.47 Smoked Potato Salad](#547-smoked-potato-salad) ✅ *(Meathead)*
 - [5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) ✅ *(Meathead; distinct from [§5.33](#533-quick-and-smoky-baked-beans)/[§5.34](#534-brazilian-black-beans-with-bacon-tutu-mineira))*
 - [5.49 Persian-ish Rice](#549-persian-ish-rice) ✅ *(Salt, Fat, Acid, Heat; includes Bread Tahdig, Saffron Rice, Herbed Rice, and Fava Bean and Dill Rice variations)*
@@ -576,7 +576,7 @@ Click any recipe to jump straight to it.
 
 - [14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) ✅
 - [14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) ✅
-- [14.3 Classic Tuiles](#143-classic-tuiles) ○ *(incomplete — continued on source page 118, not yet photographed)*
+- [14.3 Classic Tuiles](#143-classic-tuiles) ○ *(partial by choice — the source-page-118 continuation is not being pursued, per Cody 2026-09-07)*
 - [14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) ✅
 - [14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) ✅
 - [14.6 Key Lime Pie](#146-key-lime-pie) ✅
@@ -615,7 +615,7 @@ Click any recipe to jump straight to it.
 
 - [15.1 Plain French Bread (Pain Français)](#151-plain-french-bread-pain-français) ✅
 - [15.2 Butter Dips](#152-butter-dips) ✅ *(featured, per Cody)*
-- [15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) ○ *(incomplete — title and most ingredients not photographed)*
+- [15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) ○ *(partial by choice — title and most ingredients were cropped from the photo; not being pursued, per Cody 2026-09-07)*
 - [15.4 Angel Biscuits](#154-angel-biscuits) ✅
 - [15.5 Fancy Biscuits](#155-fancy-biscuits) ✅
 - [15.6 Pastry Biscuits](#156-pastry-biscuits) ✅
@@ -4398,7 +4398,7 @@ Stir in the pear, scallions, sesame seeds, and pepper. Divide the sauce among sm
 
 #### D. Open Questions
 
-- **This list may carry the mirror image of the mix-up cleaned out of [§4.43](#443-vietnamese-dipping-sauce) on 2026-09-07.** The two sauces sit on facing pages, and the copy of this recipe's ingredients that had been sitting in §4.43 read ⅓ cup sugar with no garlic and no water — while this entry lists 3 Tbsp sugar, 2 cloves garlic, and ⅓ cup water, and its own two steps never touch garlic or water (3 Tbsp sugar, 2 cloves garlic, and ⅓ cup warm water are exactly §4.43's first three lines). Nothing changed here, because the *How to Grill* sauce pages aren't in the current uploads; confirm the sugar quantity and whether garlic and water belong when the page is re-photographed.
+- **This list may carry the mirror image of the mix-up cleaned out of [§4.43](#443-vietnamese-dipping-sauce) on 2026-09-07.** The two sauces sit on facing pages, and the copy of this recipe's ingredients that had been sitting in §4.43 read ⅓ cup sugar with no garlic and no water — while this entry lists 3 Tbsp sugar, 2 cloves garlic, and ⅓ cup water, and its own two steps never touch garlic or water (3 Tbsp sugar, 2 cloves garlic, and ⅓ cup warm water are exactly §4.43's first three lines). Nothing changed here, because the *How to Grill* sauce pages aren't in the current uploads. 🚫 2026-09-07 — Cody: not pursuing a re-shoot; the entry stays as written (3 Tbsp sugar, 2 cloves garlic, ⅓ cup water).
 
 ✅ 2026-09-07 housekeeping: flagged rather than corrected — no quantity changed without the page.
 
@@ -4462,7 +4462,7 @@ Place the sugar and garlic in a nonreactive mixing bowl and mash to a paste with
 
 #### D. Open Questions
 
-- **Ingredients trimmed to the block that matches this recipe's own steps (2026-09-07)** — the list had picked up [§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce)'s ingredients from the facing page. What remains (carrot through black pepper) is exactly what Steps 1–2 use. Still worth a glance at the printed page when it's re-photographed, since the *How to Grill* sauce pages aren't in the current uploads.
+- **Ingredients trimmed to the block that matches this recipe's own steps (2026-09-07)** — the list had picked up [§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce)'s ingredients from the facing page. What remains (carrot through black pepper) is exactly what Steps 1–2 use. 🚫 2026-09-07 — Cody: not pursuing a re-shoot; the entry stays as trimmed.
 
 ✅ 2026-09-07 housekeeping: removed the seven-line block (soy sauce, sake, ⅓ cup sugar, Asian pear, scallions, sesame seeds, ⅓ tsp black pepper) that had been sitting at the top of the Ingredients — it is [§4.42](#442-asian-pear-dipping-sauce)'s list, and none of the items unique to it (soy sauce, sake, pear, scallions, sesame seeds) is used anywhere in this recipe's two steps; the sugar and black pepper the steps do use stay listed at 3 Tbsp and ¼ tsp, which the steps and the grocery list already match. Page not in the current uploads, so this is a steps-vs-list correction, not a page check.
 
@@ -12426,9 +12426,9 @@ Carefully pour the hot mixture into the blender or food processor with the veget
 #### D. Open Questions
 
 - **✅ Resolved 2026-09-06. Duxelles and Mushroom Cream Sauce, the pair printed just before this recipe on the same spread, is now written up in full at [§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce).** When this entry was added, the Vegetables & Seafood batch could see only book p. 194 — which picks up mid-recipe at "2. Cook the mushrooms" — while the shared ingredient list and Step 1 sat on book p. 193, absent from the 55-page scan. Cody has since photographed the p. 192–193 spread. **The two sauces are siblings, not substitutes for each other:** this one is the vegetable-based poblano version, §4.180 the mushroom one, and the source offers both. [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)'s own ingredient line names §4.180 specifically.
-- **The duxelles paragraph names a use "if you want to make Wellington or stuff a chicken breast"** — a Beef Wellington or Wellington-style stuffed chicken breast dish. Neither is documented anywhere in this cookbook. Named here rather than invented, per Cody's standing instruction on referenced-but-absent dishes.
+- **The duxelles paragraph names a use "if you want to make Wellington or stuff a chicken breast"** — a Beef Wellington or Wellington-style stuffed chicken breast dish. Neither is documented anywhere in this cookbook. Named here rather than invented, per Cody's standing instruction on referenced-but-absent dishes. 🚫 2026-09-07 — Cody: Beef Wellington not wanted.
 - **This cookbook's own [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce)**, from *Mastering the Art of French Cooking*, is a different sauce entirely — a French mother-sauce built on a brown sauce base, not this book's cream-based version. Both use the term "duxelles" for the same minced mushroom-and-shallot starting point; kept as two separate, cross-referenced entries rather than merged.
-- **Close Proximity Smoked Fish (book p. 308)**, the dish the source names as this sauce's showcase, isn't yet documented in this cookbook — named here rather than invented.
+- **Close Proximity Smoked Fish (book p. 308)**, the dish the source names as this sauce's showcase, isn't yet documented in this cookbook — named here rather than invented. 📌 2026-09-07 — **Cody wants it.** Tracked in [§12](#12-recipes-to-document); needs book p. 308 photographed.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -12575,7 +12575,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegeta
 
 > ✅ **Re-verified line by line, 2026-09-07, against book p. 343 (the PDF scan) and Cody's photograph of p. 344.** All five formula lines, the ten optional add-ins, all three "About" sidebars, and Steps 1–5 match the page exactly — including the ⅛-inch slice, the 1-inch and ½-inch headspaces, the 3-minute boil, the 1-hour cool, and the 24-hour fridge rest. **One omission fixed:** the page's own MAKES/TAKES line had never been transcribed; it's now above the badge. No quantity changed.
 
-> ✅ **2026-09-07 re-verified Steps 3–5 against the clean, wider reshoot of p. 344:** the at-least-3-minute boil, the ½-inch headspace, the loose-then-tightened lid, the counter bang, the 1-hour cool, and the 24-hour fridge rest all match. No change. *(That reshoot also captured the rest of the Cabbage Dressed in Honey Mustard column below it — see [§12](#12-recipes-to-document).)*
+> ✅ **2026-09-07 re-verified Steps 3–5 against the clean, wider reshoot of p. 344:** the at-least-3-minute boil, the ½-inch headspace, the loose-then-tightened lid, the counter bang, the 1-hour cool, and the 24-hour fridge rest all match. No change. *(That reshoot also captured the p. 344 half of the book's Cabbage Dressed in Honey Mustard, which Cody has since said he is not pursuing — 🚫 2026-09-07; see [§12](#12-recipes-to-document).)*
 
 > Per the source's own headnote: *"Need zing? In a hurry?"* Quick pickles can be ready in less than an hour. They perk up tuna salad, burgers, tacos, and salads with a topping of something bright and cleansing. **Quick pickles made from fruits and vegetables do not require the complex sterile canning process, but they must be refrigerated** — this is a refrigerator pickle, not a shelf-stable one. The author keeps a jar of thinly sliced pickled onions in the fridge and another of jalapeños, but the method works just as well on cucumbers, radishes, string beans, ginger, summer squash, carrots, asparagus, beets, and just about any fresh vegetable or fruit — he's even done it with crab apples purloined from a neighbor's tree. **Do not try to quick pickle meats.**
 
@@ -12650,7 +12650,7 @@ Thin items like onions can be used within an hour, but the source usually moves 
 
 #### D. Open Questions
 
-- **The source's own Best Chicken Burger Ever (book p. 292)**, which it names as the showcase for these pickled onions, isn't yet documented in this cookbook — named here rather than invented.
+- **The source's own Best Chicken Burger Ever (book p. 292)**, which it names as the showcase for these pickled onions, isn't documented in this cookbook — named here rather than invented. 🚫 2026-09-07 — Cody: not wanted; the pickles stand on their own.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -12832,7 +12832,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Butter
 
 > Per the source's own headnote: the problem with chicken breasts, turkey breasts, and most pork chops is that they have so little fat that they get dry easily, even if you don't overcook them — and they're bland. **So they really benefit from a sauce.** This one works on all of them, and even on vegetables like asparagus. He found it on a "research" trip to France, at a tiny bistro on a narrow side street in the Latin Quarter near the Luxembourg Gardens named **Les Racines** — old-fashioned French, the kind you rarely find in Paris where *nouvelle cuisine* is already *vieille*. (He thinks it closed during COVID.) It wasn't on any list of top eateries, and the internet had several complaints of rude service lodged by tourists who don't understand that small restaurants in France only seat people for full meals — *"Their precious few tables are for people having a full meal, and that's just the way it is. If you want something light, go to a café or a brasserie. This is not anti-Americanism — it is the way some French restaurants work."* His wife had veal kidneys in an incredible rich brown sauce; he had a chicken breast in a silky cream and morel mushroom sauce that was over the top. **This is his attempt to replicate it** — close, and no relation to normal cream-of-mushroom things typical in the US.
 
-> **What a *duxelles* is**, in plain language: finely chopped mushrooms and other goodies, cooked down until nearly dry. It's most famously spread on top of beef tenderloin wrapped in puff pastry to make **Beef Wellington**, but it's also used as a stuffing for chicken breasts or pork loins, as a spread on grilled bread, and in sauces. **The source uses this duxelles in two of its own recipes** — [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) (book p. 225) and Paris Chicken (book p. 271, not yet in this cookbook) — and suggests it on pork chops, turkey, even baked potatoes. **Make a batch and freeze it.**
+> **What a *duxelles* is**, in plain language: finely chopped mushrooms and other goodies, cooked down until nearly dry. It's most famously spread on top of beef tenderloin wrapped in puff pastry to make **Beef Wellington**, but it's also used as a stuffing for chicken breasts or pork loins, as a spread on grilled bread, and in sauces. **The source uses this duxelles in two of its own recipes** — [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) (book p. 225) and Paris Chicken (book p. 271, not in this cookbook) — and suggests it on pork chops, turkey, even baked potatoes. **Make a batch and freeze it.**
 
 > **Distinct from this cookbook's [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce)**, from *Mastering the Art of French Cooking* — same French term for the same minced-mushroom starting point, but that one is a brown-sauce derivative built on stock and a roux, and this one is a cream sauce. Both kept, cross-referenced.
 
@@ -12915,8 +12915,8 @@ Add the vinegar, sherry, and stock to the pan with the duxelles and **boil until
 
 #### D. Open Questions
 
-- **Paris Chicken (book p. 271)**, the source's other dish built on this duxelles, isn't yet documented in this cookbook — named here rather than invented.
-- **Beef Wellington**, named in the duxelles paragraph as the classic use, isn't documented anywhere in this cookbook either. Named, not invented.
+- **Paris Chicken (book p. 271)**, the source's other dish built on this duxelles, isn't documented in this cookbook — named here rather than invented. 🚫 2026-09-07 — Cody: not wanted.
+- **Beef Wellington**, named in the duxelles paragraph as the classic use, isn't documented anywhere in this cookbook either. Named, not invented. 🚫 2026-09-07 — Cody: not wanted.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16897,7 +16897,7 @@ Microbes on a steak live **only on the surface**, and that surface hits well pas
 
 **The solution to cooking multiple big cuts is simple: start earlier than you think is necessary and monitor temperatures closely.** If the meat is done earlier than expected, you can always hold it at serving temperature in your cooker, in your indoor oven, or in a faux Cambro — see [§T43](#t43-faux-cambro--holding-meat-hot-for-hours) *(a "faux Cambro" is a picnic cooler used as a hot-holding box, standing in for the insulated Cambro carriers caterers use — cookbook gloss; the page just uses the name)*.
 
-**Sidebar — "Cook Today, Serve Tomorrow" (p. 64; continues on p. 65, not photographed).** The author's most frequent question runs like this: *"I got roped into serving pulled pork for fifty people at the company picnic on Sunday. I plan to cook it Saturday at home and bring it to the park. What's the best way?"* His answer starts with **fresh is best** — straight from the cooker the juices are hot, the connective tissue has melted to gelatin, the fat has rendered and lubricated the muscle fibers, the browned surfaces are crunchy, and the vegetables are bright and crisp. By the next day many of the juices have evaporated or run off, much of the tenderness is lost, the bark and other crunchy bits have gone soggy, oxidation has begun to deteriorate flavor, and the volatile organic compounds you can smell from a block away are largely gone forever. **If you can't serve fresh, rethink the plan: skip the pulled pork, brisket, and ribs, and grill fresh chicken, burgers, or hot dogs instead.** *(What the page says to do if you must cook ahead anyway continues on p. 65 — missing. [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers) is this cookbook's nearest guidance in the meantime.)*
+**Sidebar — "Cook Today, Serve Tomorrow" (p. 64; continues on p. 65).** The author's most frequent question runs like this: *"I got roped into serving pulled pork for fifty people at the company picnic on Sunday. I plan to cook it Saturday at home and bring it to the park. What's the best way?"* His answer starts with **fresh is best** — straight from the cooker the juices are hot, the connective tissue has melted to gelatin, the fat has rendered and lubricated the muscle fibers, the browned surfaces are crunchy, and the vegetables are bright and crisp. By the next day many of the juices have evaporated or run off, much of the tenderness is lost, the bark and other crunchy bits have gone soggy, oxidation has begun to deteriorate flavor, and the volatile organic compounds you can smell from a block away are largely gone forever. **If you can't serve fresh, rethink the plan: skip the pulled pork, brisket, and ribs, and grill fresh chicken, burgers, or hot dogs instead.** *(What the page says to do if you must cook ahead anyway continues on p. 65. 🚫 2026-09-07 — Cody: not pursuing p. 65; the p. 64 half stays as is, and [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers) is this cookbook's guidance for cooking ahead.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -18208,6 +18208,8 @@ The best fries are made in two frying steps, usually from **russet Burbanks** �
 ✅ 2026-09-07 second-pass QC: **not verifiable — the defining page is not in the uploads.** All 55 pages of the 12b42df9 scan were checked; the book's "Using My Recipes" front matter is present only from p. 144 to p. 154, and none of those pages defines the scale. The p. 194 usage ("Warp 10 on the direct heat side," [§4.174](#4174-poblano-basil-cream-sauce)) is confirmed as printed. The definition most likely sits on the pages just before p. 144 (the two-zone setup discussion), which have never been photographed. This entry stays an inference, as labeled.
 
 ✅ 2026-09-07 reshoot check of **p. 143** ("Using My Recipes"): **the Warp definition is not on this page either.** p. 143 is the tail of the chapter's general-rules list — mise en place, always preheat the cooker, thermometers are required ("cook with a thermometer, not a clock"), 2-zone almost everything (pointing at "2-Zone Setup for Almost Everything, page 49"), lid position, taste as you go, clean as you go, don't be discouraged by mistakes, test new recipes, how much wood, and cooking in a pan or pot. The scale is therefore defined earlier still — most likely on **p. 142 or in the p. 49 two-zone setup** — neither of which has been photographed. The only p. 143 rules that bear on this entry are worth two lines: **almost every recipe in the book cooks, roasts, bakes, and smokes with indirect convection heat, lid down; when the author says *sear*, the food is over direct infrared radiant heat, and most of the time the lid is up** — so a Warp number is always describing the *direct* side of a 2-zone grill, with the indirect side as the safe zone. *(The rest of p. 143's list is general good practice already covered by [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup), [§T49 Lookin' Ain't Cookin'](#t49-lookin-aint-cookin--and-other-lid-myths), and [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke), and isn't duplicated here.)*
+
+🚫 2026-09-07 — Cody: not pursuing; the Warp scale stays an inference, as labeled above, and no further page hunt (p. 142, p. 49) is planned.
 
 Based on that comparison — a vegetable-grilling sidebar warns that "many vegetables are best cooked over direct heat, but not Warp 10; dial back to Warp 5 to 7," [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) calls for "Warp 10 on the direct heat" to get an aggressive char on its poblano, and both a turkey-skin sear and a grilled pound cake use "Warp 5" for a solid, confident sear — **higher numbers mean hotter, more intense direct heat**, with Warp 10 at the screaming-hot, aggressive-char end of the dial and Warp 5 landing as a solid, moderate-high sear well short of that. Treat "Warp 5" as "a confident direct sear, not the grill's most aggressive setting" and adjust to taste rather than hunting for an exact number.
 
@@ -19717,7 +19719,7 @@ Not calculable — the source gives no quantities at all for the eggplant, onion
 
 #### D. Open Questions
 
-- **The recipe's own title is missing** — the photo starts mid-page. If Cody has the top of this page, it would confirm the actual name and any ingredient amounts that were printed above the crop.
+- **The recipe's own title is missing** — the photo starts mid-page. 🚫 2026-09-07 — Cody: not pursuing the top of the page; the entry stays as is, working title and all.
 - **No quantities given for any ingredient** — Nutrition can't be estimated responsibly without at least a rough amount.
 
 [↑ Table of Contents](#table-of-contents)
@@ -20403,7 +20405,7 @@ This is a "wing it" formula with no fixed vegetables or amounts, so there's no s
 #### D. Open Questions
 
 - **No specific vegetables, amounts, oven temperature, or time are given** — this is a deliberately loose formula per the card's own "wing it." Times above are a reasonable default, not what the card says.
-- **The "Asparagus" card appears cut off in the photo** — it repeats the same header and "wing it" amount with no visible ingredient or direction detail beyond that. Treated here as a note on this same formula rather than invented into a separate entry; re-photograph if there's more to it.
+- **The "Asparagus" card appears cut off in the photo** — it repeats the same header and "wing it" amount with no visible ingredient or direction detail beyond that. Treated here as a note on this same formula rather than invented into a separate entry. 🚫 2026-09-07 — Cody: not pursuing the Asparagus card; it stays a note on this formula.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -20867,7 +20869,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T47 Cooking Vegetables and Fruits](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) *(dense eggplant halves cook through over direct heat while the cut side chars)*
 
-**Makes 1½ to 2 cups · Takes 45 minutes** *(as printed — but see the ⚠️ below on the first fraction)*
+**Makes 1½ to 2 cups · Takes 45 minutes** *(as printed; the first fraction was read through a glare band — see Open Questions)*
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
 
@@ -20936,7 +20938,7 @@ Spoon the dip into your favorite serving bowl, garnish with paprika and fresh he
 
 #### D. Open Questions
 
-- ⚠️ **The MAKES line's first fraction is unreadable in the scan** *(2026-09-07 second pass)*. Book p. 356 prints *"MAKES 1[?] to 2 cups · TAKES 45 minutes"* under a glare band on the photograph; enlarged and contrast-stretched, the "1," the "to 2 cups," and the 45 minutes are clear, but the fraction after the 1 is not — 1½ and 1¼ both fit the smudge. The entry keeps "1½ to 2 cups" as first transcribed. Resolving it needs the physical page or a re-shot photo; it affects only the yield line, not any ingredient or step.
+- 🚫 2026-09-07 — Cody: not pursuing a re-shoot of the MAKES line; it stays **1½ to 2 cups**. *(History: book p. 356's first fraction sits under a glare band — 1½ and 1¼ both fit the smudge; it affects only the yield line, not any ingredient or step.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -22174,7 +22176,7 @@ Take the pan off the grill and let the brisket rest in it. Transfer to a cutting
 
 - **No serving count given** — 8 is Claude's estimate from a 5–6 lb brisket.
 - **The recipe's title is inferred, not photographed.** The only photo of this recipe begins mid-headnote (*"namely, untrimmed, with a thick sheath of fat…"*); the title, country tag, and the first lines of the headnote sit on the facing page, which wasn't shot. "Texas-Style Smoked Brisket" is this cookbook's working title for it, and the *What's Your Beef?* chapter attribution comes from the running head. Everything below the headnote — advance preparation, equipment, all six ingredients, all six steps, and the Texas Way sidebar — was re-verified line by line on 2026-09-07.
-- **The Basic Barbecue Sauce (source p. 463) referenced in the Texas Way sidebar isn't in this cookbook.** Half the sauce formula is therefore unmakeable as written; worth photographing if Cody wants that sauce.
+- **The Basic Barbecue Sauce (source p. 463) referenced in the Texas Way sidebar isn't in this cookbook.** Half the sauce formula is therefore unmakeable as written. 🚫 2026-09-07 — Cody: not wanted; the sidebar stays half-documented, with [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) as the vinegar half.
 - ✅ **Settled: the "page 466" North Carolina Vinegar Sauce is a *third* version, now transcribed at [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato).** It was flagged here as possibly the same recipe reprinted; it isn't. §4.93 has **no tomato at all**, carries fresh sliced onion and jalapeño, and **doesn't keep past the day it's made** — all three points distinguish it from [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style). **For the Texas Way sauce formula above, §4.93 is the half the sidebar actually means.**
 - **Cody's own brisket smoking method is still to come** — see the note at the top of this entry and the open [§6.1 Smoked Brisket](#61-smoked-brisket) placeholder.
 
@@ -22267,7 +22269,7 @@ Transfer the ribs to a clean cutting board. Mop on both sides with the mop sauce
 
 #### Open Questions
 
-- **Kansas City Sweet-and-Smoky Ribs (page 139)**, named in the Variations sidebar as the "wet" alternative to this dry style — not transcribed, not in this cookbook.
+- **Kansas City Sweet-and-Smoky Ribs (page 139)**, named in the Variations sidebar as the "wet" alternative to this dry style — not transcribed, not in this cookbook. 🚫 2026-09-07 — Cody: not wanted.
 - ✅ **Retired 2026-09-07:** an earlier flag said the TIP and YOU'LL NEED sidebars on the technique spread (p. 95) were partly hidden by dog-eared pages. Re-read enlarged, the p. 95 TIP is fully legible (it's the where-to-buy note now folded in above), and the sidebar that looked hidden beside it is p. 109's pulled-pork YOU'LL NEED box showing through from a later page — not part of this recipe. Nothing is missing.
 
 [↑ Table of Contents](#table-of-contents)
@@ -27656,7 +27658,7 @@ Arrange the breads of your choice in one layer on the grate and grill until plia
 
 #### Open Questions
 
-- **Tandoori-Baked Flat Breads (page 131)** and **Bengali Mango-Tamarind Barbecue Sauce (page 470)** — both cited by name as the intended bread and sauce, not yet transcribed or in this cookbook. Pita bread is given as a workable substitute for the bread, per the source's own alternative.
+- **Tandoori-Baked Flat Breads (page 131)** and **Bengali Mango-Tamarind Barbecue Sauce (page 470)** — both cited by name as the intended bread and sauce, not transcribed or in this cookbook. Pita bread is given as a workable substitute for the bread, per the source's own alternative. 🚫 2026-09-07 — Cody: not wanted; pita stays as the bread.
 
 ✅ 2026-09-07 index/nutrition housekeeping: per-serving rows restated as kebabs only (~190 cal ÷ 8 / ~375 cal ÷ 4, derived from the ~1,500-cal whole dish) — they had included bread and toppings the whole-dish row didn't, so the two didn't reconcile (280 × 8 = 2,240 vs 1,500). Bread and topping figures now given separately, since the page doesn't quantify the bread.
 
@@ -32350,7 +32352,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 - 1 teaspoon Morton Coarse Kosher Salt
 - 1 rack beef back ribs (6 to 7 bones)
 - 2 teaspoons [Red Meat Rub](#4165-red-meat-rub)
-- [Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce) *(§4.185 — documented 2026-09-07)* or Tare Sauce *(book p. 203–204; still incomplete — see [§12](#12-recipes-to-document))* *(optional, for serving)*
+- [Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce) *(§4.185 — documented 2026-09-07)* or Tare Sauce *(book p. 203–204; named, not transcribed — 🚫 not pursued per Cody, 2026-09-07)* *(optional, for serving)*
 
 #### B. Cooking Instructions
 
@@ -32366,7 +32368,7 @@ Add the whole slab, bone side down. Cooking a whole slab takes time, but cutting
 **4. Serve.**
 Carve these ribs differently than normal: run the knife along the bone on *one* side only, so one side of each bone has no meat and the other side carries twice as much as it would if you'd cut down the middle between bones. Meathead calls this the "Cadillac cut." Have lots of napkins on hand.
 
-*Note: the source says the ribs are good by themselves or with Teriyaki Brinerade and Sauce or Tare Sauce ("I know, that sounds like heresy. Just try it"). The teriyaki is now [§4.185](#4185-teriyaki-brinerade-and-sauce) — its own page names these ribs as the place to try it; Tare Sauce is still waiting on book p. 204.*
+*Note: the source says the ribs are good by themselves or with Teriyaki Brinerade and Sauce or Tare Sauce ("I know, that sounds like heresy. Just try it"). The teriyaki is now [§4.185](#4185-teriyaki-brinerade-and-sauce) — its own page names these ribs as the place to try it. 🚫 2026-09-07 — Cody: not pursuing Tare Sauce; it stays named only, and the teriyaki is the sauce on hand.*
 
 ✅ 2026-09-07 second-pass QC against pp. 220–221: dry brine corrected to 2 hr (was 3), internal target to 190–203°F (was 210), doneness cue and Cadillac-cut description rewritten to match the page, MAKES/TAKES line added.
 
@@ -32626,7 +32628,7 @@ Grill the garlic bread. Unwrap the meat, slice it across the grain in ¼-inch sl
 
 #### D. Open Questions
 
-- **Two named sub-components — Smoke-Roasted Garlic Bread (p. 367) and Orange Tuscan-Style Board Sauce (p. 198) — weren't in this batch's scanned pages.** Both are cross-referenced to close existing relatives in this cookbook rather than invented from scratch; see the Note under Cooking Instructions. **🚫 The Orange Tuscan-Style Board Sauce is dropped at Cody's request, 2026-09-06** — it is no longer tracked as a gap to chase, and the [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) stand-in stands as the answer. Smoke-Roasted Garlic Bread stays an open, un-photographed page.
+- **Two named sub-components — Smoke-Roasted Garlic Bread (p. 367) and Orange Tuscan-Style Board Sauce (p. 198) — weren't in this batch's scanned pages.** Both are cross-referenced to close existing relatives in this cookbook rather than invented from scratch; see the Note under Cooking Instructions. **🚫 The Orange Tuscan-Style Board Sauce is dropped at Cody's request, 2026-09-06** — it is no longer tracked as a gap to chase, and the [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) stand-in stands as the answer. 🚫 2026-09-07 — Cody: not pursuing Smoke-Roasted Garlic Bread (p. 367) either; any good grilled or toasted garlic bread stays as the bread for these sandwiches.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -33154,7 +33156,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 - 1 tsp baking powder
 - 1 tsp Morton Coarse Kosher Salt
 
-*Optional, for drizzling:* [Kansas City Red](#4178-kansas-city-red) *(§4.178 — the source's own sauce, book p. 180, **now documented in full** as of 2026-09-06)* · [Alabama White Sauce](#4172-alabama-white-sauce) *(§4.172)* · Teriyaki *(book p. 175, not yet in this cookbook)* · Tare *(book p. 203, not yet in this cookbook)* · Thai Sweet Chile Sauce *(book p. 200, not yet in this cookbook)*
+*Optional, for drizzling:* [Kansas City Red](#4178-kansas-city-red) *(§4.178 — the source's own sauce, book p. 180, **now documented in full** as of 2026-09-06)* · [Alabama White Sauce](#4172-alabama-white-sauce) *(§4.172)* · Teriyaki *(book p. 175, not yet in this cookbook)* · Tare *(book p. 203 — named, not transcribed; 🚫 not pursued per Cody, 2026-09-07)* · Thai Sweet Chile Sauce *(book p. 200, not yet in this cookbook)*
 
 #### B. Cooking Instructions
 
@@ -33198,7 +33200,7 @@ Move the wings to direct heat, lid open, and sear both sides until the internal 
 
 #### D. Open Questions
 
-- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). **Three of the five are now in this cookbook:** Alabama White Sauce at [§4.172](#4172-alabama-white-sauce); — **as of 2026-09-06, once Cody photographed book pp. 180 and 182** — Kansas City Red at [§4.178](#4178-kansas-city-red); and — **as of 2026-09-07, from the reshoot of p. 175** — Teriyaki Brinerade and Sauce at [§4.185](#4185-teriyaki-brinerade-and-sauce). The remaining two are half-photographed: **Tare Sauce** has p. 203 (headnote, MAKES/TAKES, all ten ingredients, Step 1) but needs **p. 204**; **Thai Sweet Chile Sauce** has only its p. 200 headnote and needs **p. 201**. Tracked in [§12](#12-recipes-to-document); noted rather than invented.
+- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). **Three of the five are now in this cookbook:** Alabama White Sauce at [§4.172](#4172-alabama-white-sauce); — **as of 2026-09-06, once Cody photographed book pp. 180 and 182** — Kansas City Red at [§4.178](#4178-kansas-city-red); and — **as of 2026-09-07, from the reshoot of p. 175** — Teriyaki Brinerade and Sauce at [§4.185](#4185-teriyaki-brinerade-and-sauce). **Thai Sweet Chile Sauce** has only its p. 200 headnote and needs **p. 201** — tracked in [§12](#12-recipes-to-document); noted rather than invented. 🚫 2026-09-07 — Cody: not pursuing **Tare Sauce** (p. 203 was half-photographed; p. 204 never was); it stays a named-but-not-transcribed sauce, and its §12 tracking row is removed.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -33220,7 +33222,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 
 - 1 whole chicken (3½ to 4 pounds)
 - 1 tablespoon Morton Coarse Kosher Salt
-- 1 cup Yogurt Marinade *(the source's own recipe, book pp. 175–176 — the headnote is photographed, but the ingredient list and method sit on p. 176, not yet uploaded; see Open Questions)*
+- 1 cup Yogurt Marinade *(the source's own recipe, book pp. 175–176; its ingredient list and method on p. 176 are not transcribed and, per Cody, not being chased — use the stand-in in the Grocery Shopping List)*
 - **Optional:** chopped fresh cilantro leaves, for garnish
 
 **Serve with:** basmati rice with peas, and a mango lassi.
@@ -33249,7 +33251,7 @@ Garnish with chopped cilantro, if desired, and serve with basmati rice and peas 
 
 - 🛒 Whole chicken — 3½ to 4 lb
 - 🛒 Morton Coarse Kosher Salt
-- 🛒 Yogurt Marinade ingredients — not yet documented in this cookbook (book p. 176, not yet uploaded); a reasonable stand-in is plain whole-milk yogurt seasoned with garlic, ginger, lemon juice, and warm spices (cumin, coriander, paprika, garam masala) until a future batch transcribes the source's own version
+- 🛒 Yogurt Marinade ingredients — the source's own version (book p. 176) is not transcribed here; the house stand-in is plain whole-milk yogurt seasoned with garlic, ginger, lemon juice, and warm spices (cumin, coriander, paprika, garam masala)
 - 🛒 Fresh cilantro — for garnish (optional)
 - 🛒 Basmati rice, frozen peas — for serving
 - 🛒 Mango lassi ingredients, or a bottled one — for serving
@@ -33265,7 +33267,8 @@ Garnish with chopped cilantro, if desired, and serve with basmati rice and peas 
 
 #### D. Open Questions
 
-- **The source's own Yogurt Marinade starts at the bottom of book p. 175 (headnote only, photographed in the 2026-09-07 reshoot) and its ingredient list and method run onto p. 176, which has not been photographed**, so its exact ingredients aren't transcribed here — the grocery list above offers a reasonable stand-in rather than presenting an invented version as the source's own. Update this entry once p. 176 is photographed. *(Cite corrected 2026-09-07: earlier text said the whole recipe was on p. 175.)*
+- 🚫 2026-09-07 — Cody: not pursuing the source's own Yogurt Marinade (its headnote is at the foot of book p. 175; the ingredient list and method on p. 176 were never photographed); the grocery-list stand-in — plain whole-milk yogurt with garlic, ginger, lemon juice, and warm spices — stays as this recipe's marinade.
+- 🚫 2026-09-07 — Cody: not pursuing the source's Pastalaya (book p. 274), which Step 1 cites for the cracklins method; [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) Step 5 stays as the cracklins reference.
 - **Exact cook time varies by equipment** — the source itself only estimates that "cooking time will vary depending on what you cook it on and the temp," so the 45-minute Cook figure above is a working middle estimate across the three methods, not one fixed number off the page.
 
 [↑ Table of Contents](#table-of-contents)
@@ -40152,7 +40155,7 @@ Put in a 1½-quart casserole and bake.
 
 #### D. Open Questions
 
-- **[FRIED GRITS], the next recipe on the same page, was cut off at the bottom of the photo** — not transcribed, since there's nothing legible to work from. Flagged here rather than guessed at; needs a follow-up photo.
+- **[FRIED GRITS], the next recipe on the same page, was cut off at the bottom of the photo** — not transcribed, since there's nothing legible to work from. 🚫 2026-09-07 — Cody: not pursuing a follow-up photo; Fried Grits stays untranscribed.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40529,11 +40532,10 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | [Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | Transcribed from Cody's photographed cookbook page; margin note "Awesome! 12/19/14" | ✅ Complete — §8.3 |
 | [Crawfish Elegante](#713-crawfish-elegante) | Transcribed from Cody's photographed recipe card | ✅ Complete — §7.13 |
 | **New Orleans blended crab & shrimp sauce** *(name unknown)* | **Cody has made this and loves it** — *"it is fantastic, it's a great sauce."* From **Chef Paul Prudhomme's *Louisiana Kitchen***. His description: crab and shrimp, *"I think even oysters in it,"* blended together in a blender. **Checked against what's already here and it is not a duplicate** — [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) is the closest match from the same book but leaves the shrimp and crabmeat **whole**, and nothing goes in a blender. [§4.21 Czarina Sauce](#421-czarina-sauce-with-shrimp-or-crawfish) is also not it. **Needs a photo of the page** to identify. | Not yet transcribed |
-| **Cabbage Dressed in Honey Mustard** | ***The Meathead Method***, **book pp. 344–345.** **Identified 2026-09-06; the p. 344 half captured in full by the 2026-09-07 reshoot.** Now on a photographed page and read at native resolution: the headnote (roasting concentrates a vegetable's flavor where boiling dilutes it and turns cabbage's crunch to mush — *"Now is the time to serve grilled corned beef"*), **MAKES 4 large servings**, **TAKES 15 minutes to prep, about 2 hours to cook (depending on the size of the cabbage)**, the complete **seven-ingredient list** (6 garlic cloves; 2 sticks / 8 oz unsalted butter; ¼ cup honey; 2 limes or lemons; 2 Tbsp Dijon-style mustard; ½ tsp Morton Coarse Kosher Salt; 1 small head cabbage), **Step 1 Make the Baste** (press the garlic; melt the butter over medium-low; garlic about 2 minutes; stir in the honey, citrus juice, mustard, salt; heat off) and **Step 2 Prep the Cabbage** (peel the wilted outer layers, trim ¼ inch off the stem, quarter through the core — 6 or 8 wedges for a large head — core left intact; the sentence runs off the page at *"It will…"*). **Not added:** the cooking steps — how the wedges are basted and roasted for those 2 hours — are on **p. 345**, which has never been photographed. **One photo of book p. 345 closes this.** | Identified — needs p. 345 |
 | **The Ultimate Prime Rib Roast** | ***The Meathead Method***, **book p. 218, bottom, onward.** **Identified 2026-09-06; p. 218 re-confirmed by the 2026-09-07 reshoot.** The clean p. 218 shows exactly what the first photo did and nothing more: the title box and the opening of the headnote (*"This is what I serve for Christmas dinner. The method is perfect because prime rib takes time and dinner is over the river and through the woods… I shoot for 8 ounces cooked meat per person after trim and shrinkage, plus extra to send home. So, for…"*), cut off at the page's bottom edge. **No MAKES/TAKES line, no ingredient list, and no numbered steps have ever been photographed**; they run onto **book p. 219 and beyond**. **Distinct from [§7.114 Prime Rib](#7114-prime-rib)**, the *earlier* Meathead book's reverse-seared version, already documented here. | Identified — needs p. 219 onward |
 | **Griddled Ham-n-Shrimp Hash** | ***The Meathead Method***, **book pp. 254–256.** **Identified 2026-09-06; the pp. 254–255 spread captured flat and complete by the 2026-09-07 reshoot.** Read at native resolution, p. 255 now gives **the entire ingredient list** — 1 lb potatoes (Yukon Gold or russet); ¼ tsp baking soda; 1 jalapeño; 1 small red bell pepper or ½ medium; 6 oz Canadian bacon or ham; ¼ lb medium shrimp; 2 garlic cloves; 4 scallions; 2 Tbsp good olive oil, plus more as needed; ¼ tsp Morton Coarse Kosher Salt; ¼ tsp medium-grind black pepper; 3 Tbsp bacon grease, duck fat, or clarified butter; 1 Tbsp fresh thyme; 2 large eggs; optional hot sauce for serving — plus the title, the headnote, **MAKES 2 servings**, **TAKES about 45 minutes**, **SPECIAL TOOLS griddle and large spatula**, an *About the Canadian Bacon* note (it's cured pork loin, closer to ham than bacon, so ham is fine), and **Step 1 Parcook the Taters** (the Kenji method: 1-inch cubes, 1 quart water in a 2-quart pot, boil, add the baking soda, simmer about 10 minutes until tender but still firm, drain and rough them up in the colander). **Not added, on purpose:** Step 1 is the last thing on p. 255 — **every remaining step is on p. 256**, which has never been photographed, and a hash with only its potato step isn't a recipe. **One photo of book p. 256 closes this.** | Identified — ingredients complete; needs p. 256 for Steps 2 onward |
-| **Tare Sauce** | ***The Meathead Method***, **book pp. 203–204.** **Identified 2026-09-07 from the reshoot of p. 203.** The page carries the headnote (yakitori's thick, rich, sweet soy-based glaze; grilled over binchōtan on a konro; keeps for weeks in the fridge and is terrific on the book's Not Grannie's Meatloaf, Torched Beef Short Ribs, grilled chicken, squid, salmon, turkey, pork, dumplings, veggies, chicken livers), **MAKES 2 generous cups, enough for 2 small chickens, a whole mess of chicken livers, or 2 slabs of ribs**, **TAKES about 45 minutes**, **SPECIAL TOOL fine-mesh sieve**, the complete **ten-ingredient list** (2 scallions; 2 garlic cloves; 1 oz fresh ginger; 1 cup reduced-sodium soy sauce; ½ cup sake; ½ cup low-sodium chicken stock; 2 Tbsp dark brown sugar; 1 Tbsp white miso; 1 tsp toasted sesame oil; ½ tsp hot sauce), an *About the Low-Sodium Stuff* note (the sauce is cooked down and concentrated, so full-salt ingredients would make it too salty), and **Step 1 Prep** (scallion whites chopped, greens saved for garnish; garlic pressed; ginger grated with its juice). **Not added:** the cooking, straining, and storing steps are on **p. 204**, which has never been photographed. Named as a serving sauce by [§7.130 Beef Back Ribs](#7130-beef-back-ribs) and [§7.139](#7139-extra-crispy-chicken-wings-without-frying). **One photo of book p. 204 closes this.** | Identified — needs p. 204 |
 | **Thai Sweet Chile Sauce (Nam Jim Kai)** | ***The Meathead Method***, **book pp. 200–201.** **Identified 2026-09-07 from the reshoot of p. 200.** Only the **headnote** is on p. 200: the tangy-hot-sweet Thai restaurant sauce the author reverse-engineered, then found matched Leela Punyaratabandhu's *Simple Thai Food* (p. 187); *nam jim kai* means "dipping sauce for chicken," but use it anywhere you want sweet heat — on fried foods, on waffles with a sunny-side egg, sprinkled on slaw piled onto pulled pork; restaurants use red Thai bird's-eye chiles, the book substitutes **red jalapeños** (green work too). **No MAKES/TAKES, no ingredient list, and no steps are on the photographed page** — they're on **p. 201**, never photographed. Named as a serving sauce by [§7.139](#7139-extra-crispy-chicken-wings-without-frying). *(The top of p. 200 is the tail of the Orange Tuscan-Style Board Sauce, which Cody dropped on 2026-09-06 — it stays dropped.)* **One photo of book p. 201 closes this.** | Identified — needs p. 201 |
+| **Close Proximity Smoked Fish** | ***The Meathead Method***, **book p. 308.** The dish the source names as the showcase for [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce). **Cody wants it (2026-09-07).** p. 308 has never been among the photographed pages — nothing transcribed yet. **One photo of book p. 308 (and p. 309 if the recipe runs on) closes this.** | Wanted — needs p. 308 photographed |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.
@@ -40544,7 +40546,9 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 >
 > **From *Meathead: The Science of Great Barbecue and Grilling* — every remaining gap from that book.** **Cornell Chicken**, **Pulled Chicken** (book p. 299), **Piri Piri Chicken**, **Rotisserie Chicken Provençal** (p. 305), **Sweet and Sour Coleslaw** (p. 362), the **untitled polenta recipe** (pp. 358–360), **A Better Italian Sausage Sandwich** (p. 278), **Whole Hog Pig Pickin'** (p. 223), **Wet-Cured Ham** (pp. 218–219), **Schmancy Hot-Smoked Salmon** (p. 326 — [§7.87](#787-smoked-salmon-mousse-canapés) and [§7.90](#790-smoked-salmon-quiche) simply call for any good hot-smoked salmon, which is all they ever needed), that book's own **Alabama White Sauce** (closed out at [§4.172](#4172-alabama-white-sauce) — this cookbook's [§4.172](#4172-alabama-white-sauce) and [§4.37](#437-white-barbecue-sauce) cover it), and the missing printed **title** for the sauce this cookbook calls [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) (its sibling [§4.175 Teriyaki Sauce](#4175-teriyaki-sauce) is the same case and is settled the same way — both working titles now stand as this cookbook's own).
 >
-> **What is *not* dropped:** the five *Meathead Method* partials in the table above — Cabbage Dressed in Honey Mustard, The Ultimate Prime Rib Roast, Griddled Ham-n-Shrimp Hash, Tare Sauce, and Thai Sweet Chile Sauce — which stay listed, because Cody may re-photograph those pages. *(Tare and Thai Sweet Chile joined the table on 2026-09-07, when the reshoot of pp. 200 and 203 gave each its first half.)*
+> **What is *not* dropped:** the three *Meathead Method* partials in the table above — The Ultimate Prime Rib Roast, Griddled Ham-n-Shrimp Hash, and Thai Sweet Chile Sauce — which stay listed, because Cody may re-photograph those pages, plus the newly wanted Close Proximity Smoked Fish. *(Thai Sweet Chile joined the table on 2026-09-07, when the reshoot of p. 200 gave it its first half.)*
+>
+> **🚫 Third round, 2026-09-07 — from Cody's answers to the open-items sheet.** Two more *Meathead Method* partials came off the table above: **Tare Sauce** (pp. 203–204 — p. 203 was half-captured; stays a named-but-not-transcribed sauce at [§7.130](#7130-beef-back-ribs) and [§7.139](#7139-extra-crispy-chicken-wings-without-frying)) and **Cabbage Dressed in Honey Mustard** (pp. 344–345 — the p. 344 half was captured; never stubbed). Also closed the same day, each marked 🚫 in place: the [§T99 Warp scale](#t99-the-warp-heat-scale-the-meathead-method) definition (stays an inference), the source's own Yogurt Marinade for [§7.140 Tandoori Chicken](#7140-tandoori-chicken) (p. 176; the stand-in stays), Smoke-Roasted Garlic Bread for [§7.133](#7133-clints-chuck-roast-sandwiches) (p. 367; any good garlic bread), the p. 65 continuation of [§T51](#t51-cooking-more-than-one-large-piece-of-meat-at-once)'s *Cook Today, Serve Tomorrow* sidebar, the [§5.46 Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) MAKES fraction (stays 1½ cups), the [§4.42](#442-asian-pear-dipping-sauce)/[§4.43](#443-vietnamese-dipping-sauce) page re-check, the Honey-Guava BBQ Sauce method (never added), [§14.3 Classic Tuiles](#143-classic-tuiles)' p. 118 (partial by choice), the cropped *Talk About Good!* pages behind [§5.27](#527-smothered-eggplant-onion--bell-pepper), [§15.3](#153-basic-biscuits-cheese-or-bacon-variation), and [§10.11](#1011-garlic-cheese-grits), the Asparagus card at [§5.38](#538-roasted-veggies), and the optional referenced recipes — Best Chicken Burger Ever, Paris Chicken, Pastalaya cracklins, Beef Wellington, the Raichlen Basic Barbecue Sauce (p. 463), Kansas City Sweet-and-Smoky Ribs, and the Tandoori flatbreads / Bengali Mango-Tamarind sauce. **Wanted, and added to the table: Close Proximity Smoked Fish.**
 
 **Cody — say the word on any of the remaining stubs in §5–§11 and we'll write it up properly.** Even partial details help: a key ingredient, a technique, a "don't do X" rule. Those go straight into the placeholder the way the pho facts did, so nothing gets lost before the full write-up.
 
@@ -40554,7 +40558,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 
 ## 13. Meathead Cookbook
 
-> **🚫 Read this first — the source gaps from both Meathead books are closed, 2026-09-07.** The dated update notes below are a running history of how each chapter of each book arrived, and several of them name recipes that were skipped at the time because a page was missing or cropped. **Those are historical records, not open items.** Cody has decided he is not pursuing any of them, and the full list of what was dropped — from both Meathead books and from *Salt, Fat, Acid, Heat* — is in the two 🚫 notes at the end of [§12 Recipes To Document](#12-recipes-to-document). **Nothing named in the updates below is still being chased.** The only Meathead items still tracked anywhere are the three *Meathead Method* partials in §12's own table, which Cody may re-photograph.
+> **🚫 Read this first — the source gaps from both Meathead books are closed, 2026-09-07.** The dated update notes below are a running history of how each chapter of each book arrived, and several of them name recipes that were skipped at the time because a page was missing or cropped. **Those are historical records, not open items.** Cody has decided he is not pursuing any of them, and the full list of what was dropped — from both Meathead books and from *Salt, Fat, Acid, Heat* — is in the two 🚫 notes at the end of [§12 Recipes To Document](#12-recipes-to-document). **Nothing named in the updates below is still being chased.** The only Meathead items still tracked anywhere are the three *Meathead Method* partials in §12's own table, which Cody may re-photograph, and Close Proximity Smoked Fish (book p. 308), which Cody asked for on 2026-09-07.
 
 > *Placeholder — new source, nothing photographed yet.* Cody's next round of additions will come from what he's calling "the Meathead cookbook" — presumably **Meathead Goldwyn's *Meathead: The Science of Great Barbecue and Grilling*** (2016), though that's an educated guess, not a confirmed title. Per this cookbook's own practice (see [§6.2 Pulled Pork](#62-pulled-pork)'s note on how *How to Grill* got confirmed), the exact title, edition, and publisher will get pinned down from an actual photographed page — a cover, title page, or a clear ISBN — rather than assumed here.
 >
@@ -40624,7 +40628,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 >
 > **Update, 2026-09-06 — the recovery batch: six previously-skipped recipes are now complete, and one of the two Meathead books' oldest gaps closed too.** Cody photographed the book pages that were missing from the original 55-page scan, and every recipe this project had been carrying as "identified but incomplete" from *The Meathead Method* except three is now written up in full. **Five landed in [§4](#4-rubs-seasonings-sauces--condiments)** — **[§4.177 Quick Pickles](#4177-quick-pickles)** (book p. 343–344; the 1:1:1-part formula was already in hand, and the newly photographed p. 344 supplies Steps 3–5, the ones that actually make and pour the brine), **[§4.178 Kansas City Red](#4178-kansas-city-red)** (book p. 180 + 182 — **and its title is now confirmed off the printed title box rather than inferred**), **[§4.179 Carolina Gold for Grownups](#4179-carolina-gold-for-grownups)** (book p. 182–183, entirely new to this cookbook — the whole spread was invisible before), **[§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce)** (book p. 192–194 — two recipes on one shared ingredient block, the component [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) has been asking for since the Beef/Bison/Lamb batch), and — from the **earlier** book rather than this one, on a page that arrived in the same upload — **[§4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce)** (book p. 191–192, closing the standing ⚠️ at [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs)). **Two landed in [§7](#7-mains--proteins)** — **[§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth)** (book p. 217–218, all ten steps recovered; kept distinct from [§1 Cody's Pho](#1-codys-pho)) and **[§7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande)** (book p. 252 + 254, all eight steps recovered; credited to Dorie Greenspan). **Four cross-references that had been standing in for Kansas City Red now point at the real recipe** — [§7.135](#7135-championship-brisket-and-burnt-ends), [§7.136](#7136-championship-pork-ribs), [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe), [§7.141](#7141-championship-chicken) — and **[§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) now carries a plain note saying it is a *different*, earlier-book sauce**, not the same recipe under another name. **Three entries were photo-verified against their real pages for the first time**: [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) and [§4.173 Lexington Dip #2](#4173-lexington-dip-2) are both correct to the quantity (§4.173 needed two bookkeeping fixes), and **[§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) had three real errors**, including a dropped instruction that left 2 ounces of butter with nowhere to go. **Three more recipes are identified but still not capturable** — Cabbage Dressed in Honey Mustard (p. 344), The Ultimate Prime Rib Roast (p. 218), and Griddled Ham-n-Shrimp Hash (pp. 254–255) — all three logged in **[§12 Recipes To Document](#12-recipes-to-document)** with exactly what's missing and what photograph would close it. **Six previously-tracked gaps are dropped at Cody's request** and are no longer chased; see §12's 🚫 note. **§13 still remains a placeholder** — every recipe from both Meathead books has had an obvious home elsewhere in this cookbook's structure.
 
-> **Update, 2026-09-07 — the reshoot batch: sixteen pages re-photographed, twelve flags closed, two entries added, five partials tracked.** Cody re-shot the pages earlier QC had flagged as missing or glare-struck, across all three books. From *The Meathead Method*: **[§4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce)** (p. 175) is new and complete, and **[§T108 Make Your Own Pepper Flakes, Powders, and Smoked Paprika](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method)** (p. 164) joins the technique section; [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) finally has its printed Steps 6–9 (p. 230), [§T91](#t91-how-to-use-rubs--application-order-storage-and-plastic-wrap-the-meathead-method) its p. 164 tail, [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method) its chipotle sidebar to print (p. 184), and [§7.146 Pho](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) and [§4.177 Quick Pickles](#4177-quick-pickles) are re-confirmed on clean pages. From *Meathead: The Science of Great Barbecue and Grilling*: [§T51](#t51-cooking-more-than-one-large-piece-of-meat-at-once) now has all of p. 64, [§T57 Lobster](#t57-lobster-choosing-preparing-and-storing) its storage paragraph off the page, [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) its method sentence, and **[§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning)'s rate corrected to ¾ tsp per pound** (p. 173). **Still open from this book, and this is what's left:** [§T99 Warp scale](#t99-the-warp-heat-scale-the-meathead-method) — p. 143 was checked and doesn't define it (try p. 142 or p. 49); and the five *Meathead Method* partials in [§12](#12-recipes-to-document) — **Ham-n-Shrimp Hash (needs p. 256), Tare Sauce (p. 204), Thai Sweet Chile Sauce (p. 201), Cabbage Dressed in Honey Mustard (p. 345), Ultimate Prime Rib Roast (p. 219 onward).** One page each.
+> **Update, 2026-09-07 — the reshoot batch: sixteen pages re-photographed, twelve flags closed, two entries added, five partials tracked.** Cody re-shot the pages earlier QC had flagged as missing or glare-struck, across all three books. From *The Meathead Method*: **[§4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce)** (p. 175) is new and complete, and **[§T108 Make Your Own Pepper Flakes, Powders, and Smoked Paprika](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method)** (p. 164) joins the technique section; [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) finally has its printed Steps 6–9 (p. 230), [§T91](#t91-how-to-use-rubs--application-order-storage-and-plastic-wrap-the-meathead-method) its p. 164 tail, [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method) its chipotle sidebar to print (p. 184), and [§7.146 Pho](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) and [§4.177 Quick Pickles](#4177-quick-pickles) are re-confirmed on clean pages. From *Meathead: The Science of Great Barbecue and Grilling*: [§T51](#t51-cooking-more-than-one-large-piece-of-meat-at-once) now has all of p. 64, [§T57 Lobster](#t57-lobster-choosing-preparing-and-storing) its storage paragraph off the page, [§4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) its method sentence, and **[§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning)'s rate corrected to ¾ tsp per pound** (p. 173). **Still open from this book, and this is what's left** *(as revised by Cody's 2026-09-07 answers — the Warp scale, Tare Sauce, and Cabbage Dressed in Honey Mustard are 🚫 not pursued)*: the three *Meathead Method* partials in [§12](#12-recipes-to-document) — **Ham-n-Shrimp Hash (needs p. 256), Thai Sweet Chile Sauce (p. 201), Ultimate Prime Rib Roast (p. 219 onward)** — plus **Close Proximity Smoked Fish (p. 308)**, which Cody wants. One page each.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40780,7 +40784,7 @@ Spoon the crème anglaise into dessert dishes with the berries.
 
 Transcribed from **Canal House Cooks Every Day**, p. 116 — thin, delicate curved almond cookies, named for the curved terra-cotta roof tiles of southern France. *"These delicate curved cookies are named for the terra-cotta roof tiles seen throughout the south of France. It takes a little practice to master lifting them off the parchment paper once they are baked, but don't be discouraged. They are such elegant cookies and fun to make. However, we avoid making them on a humid day. They will not stay crisp."*
 
-> ⚠️ **This transcription is incomplete.** The source page itself says *"continued on page 118,"* and the photographed text cuts off mid-sentence and mid-technique — the actual tuile-shaping step (draping the warm cookies over a rolling pin to curve them, which Step 1 explicitly sets up but never executes) isn't shown, and neither is a finished bake time or doneness cue. Written up as far as the photo goes; see Open Questions for exactly what's missing.
+> ⚠️ **This transcription is incomplete.** The source page itself says *"continued on page 118,"* and the photographed text cuts off mid-sentence and mid-technique — the actual tuile-shaping step (draping the warm cookies over a rolling pin to curve them, which Step 1 explicitly sets up but never executes) isn't shown, and neither is a finished bake time or doneness cue. Written up as far as the photo goes; see Open Questions for exactly what's missing. 🚫 2026-09-07 — Cody: not pursuing p. 118; the entry stays partial by choice.
 
 > The source's margin note: *"July 25th, 81°, no humidity."*
 
@@ -40834,7 +40838,7 @@ Drop the batter by the tablespoonful onto the prepared cookie sheets, spaced at 
 
 - **Bake time and doneness cue are missing** — the photographed text cuts off mid-word ("the cook—") right where the source would say what to look for. 350°F is confirmed; how long is not.
 - **The signature shaping step isn't shown.** Step 1 sets out a rolling pin specifically to drape the warm cookies over — that's what gives tuiles their curve — but the technique itself (when, how long to hold the shape, how warm the cookie needs to be to bend without cracking) is on the untranscribed page 118.
-- **Difficulty is provisional.** Rated 🔴 Hard on the assumption that shaping warm, fragile cookies fast enough that they don't set flat first is a real technique risk — worth revisiting once page 118 fills in the actual method.
+- **Difficulty is provisional.** Rated 🔴 Hard on the assumption that shaping warm, fragile cookies fast enough that they don't set flat first is a real technique risk. Page 118 is not being pursued (🚫 per Cody, 2026-09-07), so the rating stands as is.
 
 #### E. Nutrition *(estimated, batter as mixed — bake loss not accounted, minimal for a thin cookie)*
 
@@ -43654,7 +43658,7 @@ Not calculable — most of the ingredient list, including all quantities, is mis
 
 #### E. Open Questions
 
-- **The recipe's title and most of its ingredients are missing** — the photo starts mid-instruction. A photo of the top of this page would resolve it, the same gap flagged on [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) from an earlier page in this same source.
+- **The recipe's title and most of its ingredients are missing** — the photo starts mid-instruction. 🚫 2026-09-07 — Cody: not pursuing the top of the page; the entry stays as is (same call as [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper), from an earlier page in this same source).
 
 [↑ Table of Contents](#table-of-contents)
 

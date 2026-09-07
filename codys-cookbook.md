@@ -11755,11 +11755,15 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs a
 
 **Techniques used:** [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) · [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) *(the earlier book's parallel Three S's framework)*
 
-The book's own intro leans on Texas "Dalmatian rub" — salt and pepper only — as the standby before amping it up for competition use. **Compare [§4.105 Dalmatian Rub](#4105-dalmatian-rub)**, the plain version already in this cookbook, and **[§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub)**, an unrelated red-meat rub from the earlier book with a completely different ingredient set (no rosemary, no coffee) — all three kept side by side rather than merged.
+The book's own intro leans on Texas "Dalmatian rub" — salt and pepper, black and white — as the brisket standby before amping it up for competition use with its own Championship Brisket (its p. 212). Per the source, this rub works just fine on all red meats — beef, lamb, even duck breasts — and it can handle high heat. **Compare [§4.105 Dalmatian Rub](#4105-dalmatian-rub)**, the plain version already in this cookbook, and **[§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub)**, an unrelated red-meat rub from the earlier book with a completely different ingredient set (no rosemary, no coffee) — all three kept side by side rather than merged.
 
 **No salt in this rub — per the book's own argument, not an oversight.** This book's own "No Salt in My Rub Recipes" reasoning ([§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)) applies here: salt separately, via a brine or dry brine, and season this rub on top of that.
 
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
+
+> ✅ **2026-09-07 second-pass QC against pp. 166–167 (PDF scan): verified, no quantity changes.** All ten ingredients (no salt, as printed), the three-sentence method, and the TO USE note (dry brine at least 1 hour ahead, wet hands or wet paper towel, ½ tsp per 4 × 6 inches, reverse sear) match. The printed MAKES/TAKES line was missing and is added; the headnote's "all red meats, handles high heat" line was missing and is added. The grinding tools in Step 1 and "tightly sealed jar" in Step 2 are cookbook gloss — the page says only to grind the rosemary to a coarse powder and store in a dark place.
+
+**Makes about ¼ cup, enough for about 8 large steaks · Takes 5 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
 
@@ -11779,10 +11783,10 @@ The book's own intro leans on Texas "Dalmatian rub" — salt and pepper only —
 #### B. Cooking Instructions
 
 **1. Grind the rosemary.**
-Grind the dried rosemary leaves into a coarse powder — a spice grinder, mortar and pestle, or the back of a knife on a cutting board all work. Left whole, the leaves are sharp and woody.
+Grind the dried rosemary leaves into a coarse powder. *(Cookbook gloss: a spice grinder, mortar and pestle, or the back of a knife on a cutting board all work; left whole, the leaves are sharp and woody.)*
 
 **2. Mix everything.**
-In a bowl, stir the ground rosemary together with the rest of the ingredients until evenly blended. Store in a tightly sealed jar, away from light. **Use fresh ingredients** — the source specifically warns that a batch made from a stale spice cabinet "sucked." The baking soda is deliberate, not a typo — it raises the surface pH and helps crust formation, the sugar-adjacent logic [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) covers.
+In a bowl, stir the ground rosemary together with the rest of the ingredients. Store in a dark place *(a tightly sealed jar is this cookbook's suggestion, not the page's)*. **Use fresh ingredients** — the source specifically warns that a batch made from a stale spice cabinet "sucked." The baking soda is deliberate, not a typo — it raises the surface pH and helps crust formation, the sugar-adjacent logic [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) covers.
 
 **3. Dry brine first, then apply the rub.**
 Salt the meat separately at least 1 hour ahead (see the warning above). Just before cooking, pat the surface with wet hands or a wet paper towel so the rub sticks, then apply about ½ tsp of rub per 4×6 inches of surface. **Reverse sear** ([§T41](#t41-reverse-sear--two-stage-cooking)) is the book's own recommended finish for anything wearing this rub.
@@ -11819,13 +11823,17 @@ Salt the meat separately at least 1 hour ahead (see the warning above). Just bef
 
 Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (p. 167). An easy, all-purpose herb-centric mix for white meats — chicken, turkey, pork, veal — and vegetables, also used in bread stuffing and meatloaf. **This is a homemade replica of commercial "Poultry Seasoning,"** per the source's own framing — sage is the dominant note in nearly every store-bought version, and this recipe follows suit while staying adjustable. Cross-checked against every rub already in this cookbook — **no existing entry matches this ingredient set**, so it's added as new.
 
-Elsewhere in this same book, the source cites this rub by name in its own Pastalaya, Paris Chicken, Real Fried Chicken on a Gas Grill, and Mary's Meatballs — none of which are yet transcribed into this cookbook, so those four are noted as forward references rather than linked.
+Elsewhere in this same book, the source cites this rub by name in its own Pastalaya (its p. 274), Paris Chicken (p. 271), Real Fried Chicken on a Gas Grill (p. 278), and Mary's Meatballs (p. 294) — none of which are yet transcribed into this cookbook, so those four are noted as forward references rather than linked.
 
 **Techniques used:** [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)
 
 **No salt in this rub — per the book's own argument, not an oversight.** Salt separately, via a brine or dry brine, and season this rub on top of that.
 
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
+
+> ✅ **2026-09-07 second-pass QC against p. 167 (PDF scan): verified, no change.** All seven ingredients (no salt, as printed), the method, and the TO USE note (dry brine at least 1 hour ahead, wet paper towel or wet hands, about ½ tsp per 4 × 6 inches) match. The printed MAKES/TAKES line was missing and is added, and the four dishes the page cross-references now carry their printed page numbers.
+
+**Makes ½ cup, enough for 4 chickens · Takes 15 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
 
@@ -11877,35 +11885,37 @@ Salt the meat separately at least 1 hour ahead (see the warning above). Just bef
 
 ### 4.167 Smoked Butter
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method***, near its "wrap and roll" compound-butter technique. A simple technique-recipe rather than a seasoning blend — plain butter, cold-smoked to pick up flavor, then rolled into a log for slicing. **No existing Smoked Butter or comparable smoked compound butter is in this cookbook** — distinct from [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter), which is herb-and-garlic-flavored rather than smoked.
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Butters and Dairy-Based Sauces" chapter (book p. 188, per the page reference printed in the source's own sous-vide steak recipe on its p. 222), right after its "wrap and roll" compound-butter technique (its p. 186). A simple technique-recipe rather than a seasoning blend — plain butter, cold-smoked to pick up flavor, then rolled into a log for slicing. **No existing Smoked Butter or comparable smoked compound butter is in this cookbook** — distinct from [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter), which is herb-and-garlic-flavored rather than smoked.
 
 **Techniques used:** [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)
 
-**🟢 Easy** · **Prep ~10 min** · **Slow cook 1 hr** *(smoker, unattended)* · **Start to finish ~2 hr 15 min** *(includes freezing the butter beforehand and a 1 hr rest afterward to soften it for rolling)*
+> ✅ **2026-09-07 second-pass QC against the p. 188 close-up (PDF scan): one qualifier corrected.** The page says **"a stick of butter"** — it does not specify unsalted, so that word is removed from the ingredient and grocery lines (choose either; if you use salted, remember the salt when you cook with it). The method matches: cut in 4, freeze, shallow pan or bowl on the smoker or indirect side, heavy white smoke at about 225°F for 1 hour, rest about 1 hour until it works like clay, roll into a 1-inch log, wrap and roll, refrigerate. Step 4's "melted plain over a steak" was unprinted and is replaced with the uses the book actually names. No MAKES/TAKES line is printed for this one; the freezing time in the badge is this cookbook's estimate.
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook 1 hr** *(smoker, unattended)* · **Start to finish ~2 hr 15 min** *(includes freezing the butter beforehand — the page gives no time for that — and a 1 hr rest afterward to soften it for rolling)*
 
 #### A. Ingredients
 
-- 1 stick (4 oz) unsalted butter
+- 1 stick (4 oz) butter *(the page doesn't specify salted or unsalted)*
 
 #### B. Cooking Instructions
 
 **1. Cut and freeze the butter.**
-Cut the stick into 4 pieces and freeze until solid. Cold surfaces attract more smoke than room-temperature ones, which is the whole point of starting frozen.
+Cut the stick into 4 pieces and freeze it. Cold surfaces attract more smoke, which is the whole point of starting frozen.
 
 **2. Smoke it.**
 Put the frozen butter in a shallow pan or bowl on the smoker, or on the indirect side of a grill. Generate heavy white smoke and hold the temperature at about 225°F for 1 hour.
 
 **3. Let it soften, then roll it into a log.**
-Take the butter off the heat and let it sit at room temperature for about 1 hour, or until it can be worked like clay. Scrape it all together and roll it into a log about 1 inch thick, wrap it, and refrigerate.
+Take the butter off the heat and let it sit at room temperature for about 1 hour, or until it can be worked like clay. Scrape it all together and roll it into a log about 1 inch thick, wrap and roll it (the source's compound-butter wrapping technique, its p. 186 — roll the log up tightly in plastic wrap or parchment and twist the ends), and refrigerate.
 
 **4. Use it.**
-Slice off what you need. Good melted plain over a steak, or worked into a hollandaise or béarnaise sauce for a smoky variation on either.
+Slice off what you need. The source's own uses: a tablespoon on top of a hot sous-vide-then-smoked steak (its pp. 222–223), or — "have some fun" — worked into a hollandaise or béarnaise sauce (recipes on the author's website, not in the book).
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Unsalted butter — 1 stick (4 oz)
+- 🛒 Butter — 1 stick (4 oz), salted or unsalted (the page doesn't say)
 
 #### Nutrition *(estimated)*
 
@@ -11927,6 +11937,10 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 **No bolded no-salt warning here, though this blend has no salt.** Unlike [§4.165](#4165-red-meat-rub) and [§4.166](#4166-french-rub), it isn't applied to meat directly as a finishing rub — it's a base blend folded into [§4.169 Cool Smoke Rub](#4169-cool-smoke-rub) (which does carry salt) and [§4.170 Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce). Same reasoning already applied to [§4.115 Smoked Garlic/Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder): a component ingredient, not a rub in its own right.
 
 > **About granulated garlic and onion:** coarser than powder, closer in size to sand. If substituting the powdered form, use about ⅔ the amount called for here.
+
+> ✅ **2026-09-07 second-pass QC against pp. 249–250 (PDF scan): verified, no change.** All six ingredients (p. 249) and the one-step method (Step 1 on p. 250: mix in a bowl, make ahead, clean airtight jar) match; the granulated-garlic note (use about two-thirds as much powder) matches. The printed "makes a generous 2 cups" yield is added as a line.
+
+**Makes a generous 2 cups** *(as printed)*
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
@@ -11974,6 +11988,10 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 
 **Techniques used:** [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)
 
+> ✅ **2026-09-07 second-pass QC against pp. 249–250 (PDF scan): verified, no change.** All eight ingredients — including **¼ cup plus 2 Tbsp Morton Coarse Kosher Salt**, unchanged — and the one-step method (Step 2 on p. 250) match. The printed "makes a generous 1½ cups" yield is added as a line. The per-serving portion in the Nutrition block is this cookbook's estimate; the page itself uses 1 cup of this rub to dust an 8- to 10-pound butt.
+
+**Makes a generous 1½ cups** *(as printed)*
+
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
 #### A. Ingredients
@@ -11990,7 +12008,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 #### B. Cooking Instructions
 
 **1. Mix everything in a bowl.**
-Combine all the ingredients, including a batch of [Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder), and stir until evenly blended. Store in a clean, airtight jar — can be made well ahead.
+Combine all the ingredients, including the ¼ cup of [Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder), and stir until evenly blended. Store in a clean, airtight jar — can be made well ahead.
 
 #### C. Grocery Shopping List
 
@@ -12020,7 +12038,11 @@ Combine all the ingredients, including a batch of [Cool Smoke Chili Powder](#416
 
 ### 4.170 Cool Smoke Barbecue Sauce
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" chapter (p. 250), the third of Tuffy Stone's four Championship Pork Butt components. **Carries salt as printed.**
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" chapter (ingredients p. 250, method p. 251), the third of Tuffy Stone's four Championship Pork Butt components. **Carries salt as printed.**
+
+> ✅ **2026-09-07 second-pass QC against pp. 250–251 (PDF scan): verified, no change.** All fifteen ingredients in printed order — including **½ tsp Morton Coarse Kosher Salt**, unchanged — and the method (4-quart saucepan, whisk, simmer over medium, stir constantly until thickened about 20 minutes, cool completely, very clean airtight container, up to 2 weeks, best after sitting overnight) match. The printed "makes 1 quart" yield is added as a line.
+
+**Makes 1 quart** *(as printed)*
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
@@ -12095,7 +12117,11 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 
 **No bolded no-salt warning here** — it has no salt, but per Cody's standing instruction the warning is only for dry rubs applied to the meat's surface, not injections, sauces, or butters.
 
-> **About the Butcher BBQ Pork Injection:** a specialty commercial competition-BBQ product, used the way many top competitors amplify flavor and help meat retain juice. Order online, or substitute low-sodium chicken stock — it won't add quite the same flavor boost, but it won't ruin the meat either.
+> **About the Butcher BBQ Pork Injection:** per the source, Tuffy — like many top competitors — injects his meat with this special commercial product from Butcher BBQ to amplify flavor and retain juice. You can buy it online or substitute chicken stock. It helps, but leaving it out will not ruin the meat.
+
+> ✅ **2026-09-07 second-pass QC against p. 250 (PDF scan): one wording correction.** All four ingredients and the one-step method (whisk thoroughly in a bowl; keeps refrigerated up to 5 days) match. The substitute had been written as "low-sodium chicken stock" — the page says simply **chicken stock**, so "low-sodium" is removed from the note and grocery line. The "no clumps" cue in Step 1 is cookbook gloss. The printed "makes a generous 2 cups" yield is added as a line.
+
+**Makes a generous 2 cups** *(as printed)*
 >
 > **About the xanthan gum:** a soluble fiber powder used as a thickener and stabilizer, made by fermenting sugar with the bacteria *Xanthomonas campestris*.
 
@@ -12111,7 +12137,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Pork" 
 #### B. Cooking Instructions
 
 **1. Whisk everything together.**
-Thoroughly whisk all the ingredients together in a bowl until the xanthan gum is fully dissolved with no clumps. Keeps refrigerated for up to 5 days.
+Thoroughly whisk all the ingredients together in a bowl *(cookbook gloss: keep going until the xanthan gum is fully dissolved with no clumps)*. Keeps refrigerated for up to 5 days.
 
 **Safety note, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes):** injecting drives any surface contaminants deep into the meat, so this is meant for cuts headed to a fully-cooked interior temperature, not anything served rare.
 
@@ -12125,7 +12151,7 @@ Thoroughly whisk all the ingredients together in a bowl until the xanthan gum is
 
 **🏪 Specific store — specialty/online**
 
-- 🏪 Butcher BBQ Pork Injection — ⅓ cup *(competition BBQ supply shop or online — low-sodium chicken stock substitutes fine per the source, just without quite the same flavor boost)*
+- 🏪 Butcher BBQ Pork Injection — ⅓ cup *(competition BBQ supply shop or online — chicken stock substitutes per the source; it helps, but leaving it out won't ruin the meat)*
 
 #### Nutrition *(estimated)*
 
@@ -12154,7 +12180,11 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs a
 
 > **The cross-book question is closed — 2026-09-07, not pursuing.** The author's earlier book, *Meathead: The Science of Great Barbecue and Grilling*, carries its own Alabama White Sauce write-up, and this cookbook spent a while wondering whether the two were the same recipe. **Cody isn't chasing that book's version, so the question is settled by decision rather than by comparison: this entry is the Alabama white sauce this cookbook uses.** For the record, the two books' *headnotes* are written differently — the earlier one says Big Bob Gibson's has been a popular hangout **"since 1925"** and pictures Chris Lilly with his father-in-law **Don McLemore**, while this one says the sauce was designed **"probably in the 1920s"** and names Lilly and pitmaster Ken Hess. Same restaurant, same chef, two separate write-ups. The author is known to reprint recipes verbatim across his two books ([§4.112 Cajun Seasoning](#4112-cajun-seasoning) is a proven case), so they may well be the same sauce. Use this one wherever either book calls for Alabama white sauce — including **[§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce)**, the earlier book's chicken recipe that this sauce accompanies.
 
+> ✅ **2026-09-07 second-pass QC against p. 184 as it appears in the 55-page PDF scan (file index 46) — verified, no change.** This is a third, independent source image for the recipe: all ten ingredients (¼ tsp Morton Coarse Kosher Salt unchanged), MAKES 1 quart / TAKES 10 minutes to prep and 2 hours to marry flavors, the two-sentence method, and the tail of the headnote at the top of p. 184 (butterfly the chickens, dunk them in a vat of the sauce, chicken recipe linked at AmazingRibs.com/mm) all match. Book p. 183 itself is not in the PDF; the headnote above rests on Cody's separate photograph of it.
+
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+**Makes 1 quart, enough for 4 or more chickens · Takes 10 minutes to prep, 2 hours to marry flavors** *(as printed — but see the yield flag above)*
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~2 hr 10 min** *(includes a 2 hr rest to marry the flavors, as printed)*
 
@@ -12217,7 +12247,11 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs a
 
 > Per the source's headnote: there are so many flavor profiles on the BBQ sauce menu, and the author covered them in depth in his last book and on his website — *"But I feel the need to offer a low-sugar recipe in this book."* **In the Piedmont (aka Hill Country or the Foothills) of the western Carolinas around Lexington, North Carolina, they call BBQ sauce "dip,"** and they apply it to pork shoulder most of the time. **It is apple cider vinegar–based and the result is thin and penetrating** — the acidity is the perfect counterpoint to fatty meats. *"To the chagrin of the rest of the Carolinas, where ketchup is eschewed, in the Piedmont they let a little of the red stuff in."*
 
+> ✅ **2026-09-07 second-pass QC against p. 184 as it appears in the 55-page PDF scan (file index 46) — verified, no change.** A third, independent source image: all seven ingredients (1½ tsp Morton Coarse Kosher Salt unchanged), MAKES 2 cups / TAKES 30 minutes, the one-line method, the chipotle note, and the TO USE note match. The headnote quoted above is on p. 184 too and matches.
+
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+**Makes 2 cups · Takes 30 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~30 min** *(as printed — the whisking takes minutes; the rest is letting the adobo and brown sugar come together)*
 
@@ -12272,6 +12306,10 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the **"Butt
 
 > Per the source's own headnote: this versatile, refined sauce works on many meats, and it's especially good on fish, potatoes, and grilled vegetables. One thing to know — while poblano peppers carry practically no heat, occasionally one surprises you, so taste as you go. As written, it comes out with timid heat that the cream (and whatever you serve it on) mostly absorbs, unless you land a rogue chile. For more heat, add a green jalapeño. The source uses this sauce in its own Close Proximity Smoked Fish (book p. 308), not yet in this cookbook.
 
+> ✅ **2026-09-07 second-pass QC against pp. 194–195 (PDF scan): verified, no quantity changes.** All eleven ingredients (¼ tsp Morton Coarse Kosher Salt unchanged), MAKES about 1 cup / TAKES 35 minutes, the special-tools line, and all six steps (Warp 10, the grill topper, tossing every 1 to 2 minutes for about 5 minutes, skin-side-down poblano then 1 to 2 minutes more, the plate-covered bowl, ½-inch chunks, the high simmer reduced by about one-quarter, blend until completely smooth, optional sieve) match. The printed MAKES/TAKES line was missing and is added; the grocery list now carries the printed quantities for the oil, cumin, salt, and pepper.
+
+**Makes about 1 cup · Takes 35 minutes** *(as printed)*
+
 **🟢 Easy** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min**
 
 > **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — a quick char on the grill, a peel, a simmer-and-reduce, then a blend. **One safety note, not a difficulty one:** blending a hot liquid can build pressure and spatter — vent the lid or blend in short pulses rather than sealing it up and running it flat out.
@@ -12300,7 +12338,7 @@ Slice the poblano in half lengthwise and remove the stem and seeds. Taste a sliv
 **2. Fire up.**
 Set up the grill for 2-zone cooking and aim for **Warp 10** on the direct heat side (see [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method) — this is the screaming-hot, aggressive-char end of the dial, appropriate here since the poblano wants real char). Place a grill topper over the direct heat and let it preheat. Toss some dried herbs, wood chips, sawdust, or wood pellets on the flame for a little smoke.
 
-**3. Grill the veg. About 5 minutes for the shallot and garlic, longer for the poblano.**
+**3. Grill the veg. About 5 minutes for the shallot and garlic, then the poblano.**
 Lightly coat the shallot and garlic cloves with the olive oil, and once the smoke starts rolling, spread them on the grill topper. Grill, lid down, tossing every 1 to 2 minutes, until softened and slightly golden, about 5 minutes; remove them and the topper. Grill the poblano lid down, skin-side down, until blackened in spots but not thoroughly charred, then flip and grill 1 to 2 minutes more until tender.
 
 **4. Peel the poblano.**
@@ -12319,14 +12357,14 @@ Carefully pour the hot mixture into the blender or food processor with the veget
 - 🛒 Poblano pepper — 1 large (about 3 oz)
 - 🛒 Garlic — 2 cloves
 - 🛒 Shallot or small onion — 1 large
-- 🛒 High-quality olive oil
+- 🛒 High-quality olive oil — 1 teaspoon
 - 🛒 Sour cream — ¼ cup
 - 🛒 Fresh basil — 6 large leaves
 - 🛒 Half-and-half — ½ cup
 - 🛒 Low-sodium chicken broth — 2 tablespoons
-- 🛒 Ground cumin
-- 🛒 Morton Coarse Kosher Salt
-- 🛒 Black pepper, fine-grind
+- 🛒 Ground cumin — ¼ teaspoon
+- 🛒 Morton Coarse Kosher Salt — ¼ teaspoon
+- 🛒 Black pepper, fine-grind — ¼ teaspoon
 
 #### Nutrition *(estimated)*
 

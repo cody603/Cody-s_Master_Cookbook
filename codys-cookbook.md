@@ -34276,7 +34276,7 @@ Makes **6 main-dish or 10 appetizer servings**.
 **The pot**
 
 - Vegetable oil for deep frying (enough for 1½ inches in the skillet)
-- About 7 cups chicken stock — see [§T4](#t4-stocks--ingredient-conventions); homemade is what the original calls for
+- About 7 cups chicken stock — **Swanson chicken stock, regular, not low-sodium** *(✅ 2026-09-07 per Cody: store-bought is fine; the original calls for homemade — see [§T4](#t4-stocks--ingredient-conventions))*
 - ½ lb andouille smoked sausage, cut into ¼-inch cubes *(any good pure smoked pork sausage — kielbasa — works if you can't get andouille)*
 - 1 tsp minced garlic
 
@@ -34304,7 +34304,7 @@ Frying technique in [§T3](#t3-butter-oil-pan-frying--frying) — fresh oil, don
 Pour into a **glass** measuring cup — slowly, both hands, nothing plastic. Leave as many browned particles in the skillet as you can, and scrape the pan bottom with the metal whisk to loosen whatever's stuck. Those bits are the flavor the roux is built on. Then ½ cup of the hot oil goes back in.
 
 **6. Make the roux over high heat. 3½ to 4 minutes — whisking constantly, never stopping.**
-Full method and safety in [§T1](#t1-how-to-make-a-roux). Pan on high, oil smoking. Stir the reserved ½ cup of flour in gradually — about a third at a time — with the long-handled whisk, then keep whisking without pause until it's **dark red-brown to nearly black**. *Black specks or an acrid smell mean it's burned: cool it in a heatproof container, throw it out, start over.* If it's darkening faster than you can manage, lift the pan off the heat and keep whisking until you have control.
+Full method and safety in [§T1](#t1-how-to-make-a-roux). Pan on high, oil smoking. Stir the reserved ½ cup of flour in gradually — about a third at a time — with the long-handled whisk, then keep whisking without pause until it's **nearly black — go dark on this one.** ✅ 2026-09-07 per Cody: darker, not lighter; take it past dark red-brown all the way to the near-black end of [§T1](#t1-how-to-make-a-roux)'s scale. *Black specks or an acrid smell mean it's burned: cool it in a heatproof container, throw it out, start over.* If it's darkening faster than you can manage, lift the pan off the heat and keep whisking until you have control.
 
 **7. The instant it's there, pull it off the heat and stir in the trinity. At least 3–5 minutes.**
 This is the whole reason step 2 exists. The vegetables stop the roux cooking any further and add flavor while they do it; stir until it visibly stops getting darker. Then return the pan to **low** heat and cook about 5 minutes until the vegetables are soft, stirring constantly and scraping the pan bottom well the entire time.
@@ -34330,7 +34330,7 @@ Main course: mound about ⅓ cup cooked rice in the center of a soup bowl and la
 
 - 🛒 1 whole chicken, 2–3 lb, cut up
 - 🛒 Andouille smoked sausage — ½ lb *(kielbasa as backup)*
-- 🛒 Chicken stock — ~7 cups *(or the bones and time to make it)*
+- 🛒 Swanson chicken stock — ~7 cups (two 32-oz cartons), **regular, not low-sodium** *(per Cody; or the bones and time to make it)*
 - 🛒 Onions
 - 🛒 Green bell peppers
 - 🛒 Celery
@@ -34357,8 +34357,8 @@ Main course: mound about ⅓ cup cooked rice in the center of a soup bowl and la
 
 #### D. Open Questions
 
-- The original calls for homemade stock — worth testing whether store-bought holds up, or whether this is one where it actually matters.
-- How dark did you take the roux, and would you go darker next time?
+- ✅ 2026-09-07 per Cody: **store-bought stock is fine — Swanson chicken stock, not the low-sodium one.** Ingredients and grocery list now say so.
+- ✅ 2026-09-07 per Cody: **a darker roux** — the target in Step 6 is now near-black. The badge stays 🔴 Hard; a near-black roux is the top of [§T1](#t1-how-to-make-a-roux)'s tiers.
 - 45 minutes of simmer — right, or does it want longer?
 
 [↑ Table of Contents](#table-of-contents)
@@ -34379,13 +34379,15 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 
 **❤️ Family favorite** — *Cody: "A house favorite."*
 
+> **📌 Use chicken thighs — Cody is emphatic: *"Definitely chicken thighs! Makes a huge difference."*** (✅ 2026-09-07.) Thighs stay tender through the simmer and give the broth body that breasts can't; breasts go stringy and the soup goes thin. Thighs are the house version — written into the ingredient list and grocery list below.
+
 #### A. Ingredients
 
 *Makes 4 generous servings*
 
 - 2 Tbsp olive oil
 - 1 large onion, chopped
-- 1 lb boneless, skinless chicken thighs or breasts
+- 1 lb boneless, skinless chicken **thighs** — *thighs, definitely (per Cody — "makes a huge difference"); breasts work but are the lesser version*
 - 10 oz. baby spinach
 - 1 medium zucchini, trimmed and cut into small dice
 - ⅓ cup long-grain white rice
@@ -34401,7 +34403,7 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 Warm the oil in a large pot over medium-high heat, add the chopped onion, and cook just until it starts to soften. Not browned, not caramelized — this is a head start, not a foundation.
 
 **2. Add the chicken, zucchini, rice, and broth. No tomatoes.**
-Everything but the spinach, lemon, and dill goes in now. If you're using **breasts**, cut them crosswise into thirds first so they cook evenly; **thighs** can go in whole. The rice goes in raw — it needs the full simmer to cook through. *The canned tomatoes from the [§8.0](#80-the-hearty-main-course-soup-formula) formula stay out of this one* — tomato fights the lemon and dill, and it muddies a broth that's supposed to stay clean and bright.
+Everything but the spinach, lemon, and dill goes in now. The **thighs** go in whole. *(If you ever fall back to breasts, cut them crosswise into thirds first so they cook evenly — but thighs are the house version, and Cody says the difference is huge.)* The rice goes in raw — it needs the full simmer to cook through. *The canned tomatoes from the [§8.0](#80-the-hearty-main-course-soup-formula) formula stay out of this one* — tomato fights the lemon and dill, and it muddies a broth that's supposed to stay clean and bright.
 
 **3. Simmer partially covered. 15–20 minutes.**
 Bring it up to a simmer, drop to medium-low, and cook until the rice is tender and the zucchini has softened. You're waiting on the rice here more than anything else.
@@ -34422,7 +34424,7 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 
 **🛒 General grocery**
 
-- 🛒 Boneless, skinless chicken thighs or breasts — 1 lb
+- 🛒 Boneless, skinless chicken **thighs** — 1 lb *(thighs, not breasts — per Cody)*
 - 🛒 Baby spinach — 10 oz.
 - 🛒 Zucchini — 1 medium
 - 🛒 Onion — 1 large
@@ -34447,7 +34449,7 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 #### D. Open Questions
 
 - ~~Do you actually put the tomatoes in?~~ **Settled 2026-08-09 — no tomatoes.** The source page never said to omit them for this soup, so they were written in at first; Cody confirmed he makes it without. The recipe above is corrected, and this now stands as a documented deviation from the source rather than an open question.
-- Thighs or breasts — which do you use?
+- ✅ 2026-09-07 per Cody: **thighs, definitely** — *"makes a huge difference; don't be afraid to put that in the notes."* Noted prominently above; the Nutrition estimate already assumed thighs.
 - Does the rice hold up as leftovers, or does it drink the broth overnight? *(If it does, cooking the rice separately and adding it per bowl is the usual fix.)*
 
 [↑ Table of Contents](#table-of-contents)
@@ -34659,7 +34661,7 @@ Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A
 
 - 1 bunch kale
 - 1 pack Italian sausage
-- 8 potatoes, cubed
+- 8 medium potatoes, cubed
 - 1 onion, chopped
 - 3 chicken bouillon cubes
 - [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) — *"don't forget the captain mikes," per the card*
@@ -34686,7 +34688,7 @@ Stir in the kale and the whipping cream, and cook until the kale is tender.
 
 - 🛒 Kale — 1 bunch
 - 🛒 Italian sausage — 1 pack
-- 🛒 Potatoes — 8
+- 🛒 Potatoes — 8 medium
 - 🛒 Onion — 1
 - 🛒 Chicken bouillon — 3 cubes
 - 🛒 Whipping cream — 1 large box
@@ -34706,7 +34708,7 @@ Stir in the kale and the whipping cream, and cook until the kale is tender.
 
 - ~~No quantities given~~ — **resolved**, per Cody's own recipe spreadsheet.
 - ~~Whipping cream is listed but never used in the method~~ — **resolved**: it goes in with the kale, at the end.
-- **"8 potatoes" isn't sized** — russets, red, or otherwise unspecified; a medium potato is assumed for the Nutrition estimate above.
+- ✅ 2026-09-07 per Cody: **medium-sized potatoes** — 8 medium. The Nutrition estimate already assumed medium, so it stands.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -36798,7 +36800,7 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet — a big-batch 
 - 36 medium fresh tomatoes
 - 56 fresh basil leaves, plus extra for garnish
 - 20 cups (five 1-quart containers) good chicken stock, salted
-- 5 cups heavy cream
+- 5 cups heavy cream — **heavy cream only; no milk**
 - 5 sticks unsalted butter
 - Salt and pepper, to taste
 - 1 loaf Italian bread, or your favorite, for serving
@@ -36827,7 +36829,7 @@ Garnish with extra basil leaves and serve with your favorite bread.
 - 🛒 Fresh tomatoes — 36 medium
 - 🛒 Fresh basil — 56 leaves, plus extra for garnish
 - 🛒 Good chicken stock — 20 cups (five 1-qt containers), salted
-- 🛒 Heavy cream — 5 cups
+- 🛒 Heavy cream — 5 cups *(no milk)*
 - 🛒 Unsalted butter — 5 sticks
 - 🛒 Salt and pepper
 - 🛒 Italian bread — 1 loaf, for serving
@@ -36843,7 +36845,7 @@ Garnish with extra basil leaves and serve with your favorite bread.
 
 #### D. Open Questions
 
-- **The directions say "milk and butter," but the ingredient list only has heavy cream, not milk** — read here as the same thing, since no separate milk is listed; confirm if a real splash of milk belongs alongside the cream.
+- ✅ 2026-09-07 per Cody: **heavy cream only — no milk alongside the cream.** The card's "milk and butter" wording in the directions means the cream; no milk is bought or added.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -38850,16 +38852,17 @@ Cody's own, dictated directly — not from a photographed page. Part of the **[�
 
 **Yield:** serves 6 as part of a platter
 
-**🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** *(the naan in the oven)* · **Start to finish ~15 min**
+**🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** *(the naan, on the grill or in the oven)* · **Start to finish ~15 min**
 
 #### A. Ingredients
 
 - 1 container store-bought hummus, about 10 oz
 - Juice of ½ lime, or to taste
 - Paprika, for dusting
-- 1–2 Tbsp extra-virgin olive oil
+- 1–2 Tbsp extra-virgin olive oil, plus about 1 Tbsp more for brushing the naan
 - 2–4 pieces naan bread
 - 2–3 garlic cloves, or garlic butter, for the naan
+- [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) — a light sprinkle, for the naan *(✅ 2026-09-07 per Cody)*
 
 #### B. Cooking Instructions
 
@@ -38872,8 +38875,8 @@ Start with half a lime, stir it through, and taste. It should read brighter and 
 **3. Pour olive oil into the well and dust with paprika.**
 A tablespoon or two of good olive oil pooled in the center, then paprika across the top. Dust it over the oil and the rim both, so you get color across the whole surface.
 
-**4. Warm the naan in the oven with garlic. About 6–8 minutes at 375°F.**
-Rub the naan with garlic — smashed cloves, or garlic butter — and put it in the oven until it's hot and just starting to crisp at the edges. **Warm naan is not optional here.** Straight from the bag it's dense and cool and fights the dip; hot it goes pliable and puffed and tears properly.
+**4. Oil the naan, dust it with Vegeta and garlic, and throw it on the grill — or the oven. 2–3 minutes a side on the grill, or 6–8 minutes at 375°F.**
+Brush each piece with olive oil, rub it with garlic — smashed cloves, or garlic butter — and sprinkle a little [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) over it. ✅ 2026-09-07 per Cody: *"a little Vegeta on the naan bread, with olive oil, thrown on the grill — this is really good."* On the grill, lay it over direct heat until it blisters and chars at the edges, 2–3 minutes a side; if the grill isn't lit, the oven does the job — until it's hot and just starting to crisp at the edges. **Warm naan is not optional here.** Straight from the bag it's dense and cool and fights the dip; hot it goes pliable and puffed and tears properly.
 
 **5. Serve immediately, with the naan cut into strips.**
 
@@ -38886,20 +38889,21 @@ Rub the naan with garlic — smashed cloves, or garlic butter — and put it in 
 - 🛒 Limes — 1
 - 🛒 Garlic — 2–3 cloves *(or garlic butter)*
 - 🛒 Paprika
-- 🛒 Extra-virgin olive oil
+- 🛒 Extra-virgin olive oil *(for the well, plus brushing the naan)*
+- 🛒 Vegeta — a little, for the naan ([§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning))
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** *(hummus + oil + 3 naan)* | ~1,320 | 68 g | 37 g | 140 g | 19 g |
-| **Per serving** *(serves 6)* | ~220 | 11 g | 6 g | 23 g | 3 g |
+| **Whole dish** *(hummus + oil + 3 oiled naan)* | ~1,440 | 82 g | 37 g | 140 g | 19 g |
+| **Per serving** *(serves 6)* | ~240 | 14 g | 6 g | 23 g | 3 g |
 
 **What a serving is:** a few generous scoops of hummus with half a piece of naan. *Brands vary a lot — check your own container, since hummus runs anywhere from 50 to 80 calories per 2 Tbsp.*
 
 #### D. Open Questions
 
-- **Does Vegeta belong in this?** The original dictation has a passage about mixing **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** with something, with feta and naan both mentioned in the same breath, but the sentence trails off. It might mean seasoning the naan with it, stirring it into the hummus, or seasoning feta as a separate spread on the platter. **Not written in, because it isn't clear.**
+- ✅ 2026-09-07 per Cody: **Vegeta goes on the naan** — a little, with olive oil, and the naan is thrown on the grill. Written into Step 4, the ingredients, and the grocery list. *(The Nutrition block picked up about 1 Tbsp of brushing oil — +120 cal across the dish.)*
 - **Fresh feta on the platter.** Cody mentions wishing for fresh feta and says it can be found — it may belong on the [§7.59](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) platter as an additional spread alongside the goat cheese. Noted rather than assumed. *(Distinct from [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was explicit that feta is **not** wanted.)*
 
 [↑ Table of Contents](#table-of-contents)

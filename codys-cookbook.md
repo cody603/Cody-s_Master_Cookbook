@@ -1365,7 +1365,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.114 Prime Rib](#7114-prime-rib) *(Meathead)* | 🟡 | 1 hr | 2–3 hr | — | 1–2 days *(includes a 24–48 hr dry brine)* |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🔴 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
-| [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
+| [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | 12 min *(10–15 min bake, printed)* | — | *unknown — recipe incomplete, see Open Questions* |
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 
@@ -39526,7 +39526,7 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 437), credited to
 - ½ cup evaporated milk
 - 1 cup pecans
 - 1 tsp vanilla
-- 2 Tbsp butter
+- 2 Tbsp butter, melted *(the ingredient list prints "butter"; the method calls for it melted)*
 - 1 unbaked 9-inch pie crust
 
 #### B. Cooking Instructions
@@ -39534,11 +39534,13 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 437), credited to
 **1. Mix the sugar, flour, and salt.**
 In a 1½-quart bowl.
 
-**2. Beat in the eggs, one at a time.**
+**2. Stir in the corn syrup and melted butter.**
 
-**3. Mix in the corn syrup, milk, pecans, vanilla, and butter.**
+**3. Beat in the eggs, one at a time.**
 
-**4. Bake. 50 minutes at 375°F.**
+**4. Mix in the milk, pecans, and vanilla.**
+
+**5. Bake. 50 minutes at 375°F.**
 Pour into the unbaked 9-inch pie crust and bake.
 
 #### C. Grocery Shopping List
@@ -39645,7 +39647,7 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to
 - 1 can pumpkin (No. 303 can, about 16 oz)
 - ½ cup milk
 - ¾ cup brown sugar
-- ¼ tsp salt
+- ½ tsp salt
 - 2 tsp cinnamon
 - 1 tsp nutmeg
 - 1 Tbsp brandy
@@ -39654,7 +39656,7 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to
 - 3 egg whites
 - 6 Tbsp white sugar
 - 1 baked pie shell
-- 1 pt heavy cream, whipped
+- ½ pt heavy cream, whipped
 
 #### B. Cooking Instructions
 
@@ -39662,10 +39664,9 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to
 Combine the egg yolks, pumpkin, milk, brown sugar, salt, cinnamon, and nutmeg, and boil for 1 minute.
 
 **2. Add the gelatin.**
-Remove from the fire and add the gelatin, which has been softened in the ¼ cup cold water. Beat until smooth.
+Remove from the fire and add the gelatin, which has been softened in the ¼ cup cold water.
 
-**3. Add the brandy.**
-Stir in the brandy until dissolved.
+**3. Add the brandy and beat until smooth.**
 
 **4. Fold in the meringue.**
 Fold in the egg whites, stiffly beaten with the 6 Tbsp white sugar — gently, so you don't deflate them.
@@ -39686,7 +39687,7 @@ Pour into the baked pie shell and top with the whipped cream.
 - 🛒 Brandy — 1 Tbsp
 - 🛒 Unflavored gelatin — 1 envelope
 - 🛒 White sugar — 6 Tbsp
-- 🛒 Heavy cream — 1 pt
+- 🛒 Heavy cream — ½ pt
 - 🛒 Salt
 - 🛒 Baked 9-inch pie shell
 
@@ -39694,10 +39695,12 @@ Pour into the baked pie shell and top with the whipped cream.
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole pie** | ~3,980 | 251 g | 51 g | 381 g | 16 g |
-| **Per serving** *(8 slices)* | ~500 | 31 g | 6 g | 48 g | 2 g |
+| **Whole pie** | ~3,160 | 163 g | 45 g | 374 g | 16 g |
+| **Per serving** *(8 slices)* | ~395 | 20 g | 6 g | 47 g | 2 g |
 
 **What a serving is:** one slice of a 9-inch pie, cut into 8.
+
+✅ *Re-verified against the p. 436 photo, 2026-09-07:* salt corrected from ¼ tsp to the printed **½ tsp**; heavy cream corrected from 1 pt to the printed **½ pt** (the entry had doubled it); the brandy is added before the "beat until smooth," as printed. Nutrition re-estimated for the halved cream.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39720,10 +39723,10 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to
 - ½ tsp ginger
 - 1 tsp cinnamon
 - 1 envelope Knox gelatin
-- 3 eggs, separated *(named in the instructions, not the source's own ingredient list)*
-- 1 cup milk *(named in the instructions, not the source's own ingredient list)*
-- Butter, a small amount *(named in the instructions, not the source's own ingredient list — quantity not given)*
-- Cold water, for softening the gelatin *(named in the instructions, not the source's own ingredient list)*
+- 3 eggs, separated
+- 1 cup milk
+- 2 Tbsp melted butter
+- ¼ cup cold water, for softening the gelatin
 - 1 baked pie crust *(named in the instructions, not the source's own ingredient list)*
 - Whipped cream, for serving
 
@@ -39756,7 +39759,7 @@ Turn into the baked crust and chill.
 - 🛒 Knox gelatin — 1 envelope
 - 🛒 Eggs — 3, separated
 - 🛒 Milk — 1 cup
-- 🛒 Butter — a small amount
+- 🛒 Butter — 2 Tbsp
 - 🛒 Whipped cream, for serving
 - 🛒 Salt
 - 🛒 Baked pie crust
@@ -39765,14 +39768,16 @@ Turn into the baked crust and chill.
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole pie** | ~2,640 | 136 g | 46 g | 316 g | 10 g |
-| **Per serving** *(8 slices)* | ~330 | 17 g | 6 g | 40 g | 1 g |
+| **Whole pie** | ~2,740 | 147 g | 46 g | 316 g | 10 g |
+| **Per serving** *(8 slices)* | ~345 | 18 g | 6 g | 40 g | 1 g |
 
 **What a serving is:** one slice of a 9-inch pie, cut into 8.
 
+✅ *Re-verified against the p. 436 photo, 2026-09-07:* the printed ingredient list is **not** incomplete, as this entry used to claim — it prints all of *3 eggs, separated · 1 c. milk · 2 Tbsp. melted butter · ¼ c. cold water*. Those quantities are now stated plainly (the butter had been "a small amount," the water unmeasured). Only the baked crust is unlisted on the page.
+
 #### D. Open Questions
 
-- **The source's own ingredient list is genuinely incomplete** — eggs, milk, butter, cold water, and the baked crust itself are all called for in the instructions but never appear in the printed ingredient list. Added into Ingredients above (with quantities inferred from context, or left unspecified where the source gives no clue) rather than left out.
+- **The baked pie crust is called for in the instructions but not in the printed ingredient list** — added into Ingredients above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39785,8 +39790,6 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 436), credited to
 **Yield:** makes one 9-inch pie, about 8 slices
 
 **🔴 Hard** *(same meringue-fold reasoning as [§14.5](#145-pumpkin-chiffon-pie), [§14.13](#1413-pumpkin-chiffon-pie-i), and [§14.14](#1414-pumpkin-chiffon-pie-ii))* · **Prep ~20 min** · **Cook ~10 min** *(cooking the custard over boiling water)* · **Start to finish ~2 hr 30 min** *(includes an estimated ~2 hr combined chill — the source calls for chilling twice but doesn't give exact times)*
-
-> **This entry's exact instruction sequence is a best-effort reconstruction, not a certain transcription** — part of the photographed page is hard to read cleanly around how the sugar is split between the custard and the meringue. Written up to the most sensible chiffon-pie logic (half the sugar cooked into the custard, half beaten into the egg whites); flagged in Open Questions.
 
 #### A. Ingredients
 
@@ -39814,13 +39817,13 @@ Cook the pumpkin, milk, egg yolks, half the sugar (½ cup), salt, and spice toge
 **4. Beat the egg whites with the remaining sugar.**
 Beat until stiff, adding the remaining ½ cup sugar gradually.
 
-**5. Fold the whites into the pumpkin mixture, then fold in the Dream Whip.**
-Add the vanilla along the way.
+**5. Fold the pumpkin, vanilla, and 1 cup of the Dream Whip into the egg whites.**
+The page folds the pumpkin mixture *into* the whites, not the other way round — and uses 1 cup of the prepared Dream Whip here, saving the rest for the top.
 
 **6. Fill the shell and chill.**
 Pour into the pie shell and chill until set.
 
-**7. Top with more Dream Whip or whipped cream to serve.**
+**7. Top with the remaining Dream Whip or whipped cream to serve.**
 
 #### C. Grocery Shopping List
 
@@ -39846,9 +39849,10 @@ Pour into the pie shell and chill until set.
 
 **What a serving is:** one slice of a 9-inch pie, cut into 8. *The lightest of this batch's pumpkin pies — Dream Whip instead of straight heavy cream keeps it well under [§14.13](#1413-pumpkin-chiffon-pie-i)'s calorie count.*
 
+✅ *Re-verified against the p. 436 photo, 2026-09-07:* the old "reconstructed sequence" flag is retired — the page reads cleanly, and the sugar split is exactly as written here (½ cup cooked into the custard, the remaining ½ cup beaten into the whites). Step 5 corrected to the printed direction: pumpkin, vanilla, and 1 cup Dream Whip folded *into* the egg whites.
+
 #### D. Open Questions
 
-- **The instruction sequence around splitting the sugar is reconstructed, not certainly transcribed** — see the note above.
 - **Both chill steps are timeless in the source** ("chill until thick," "pour into pie shell; chill") — ~2 hr combined is Claude's estimate.
 
 [↑ Table of Contents](#table-of-contents)
@@ -41810,8 +41814,8 @@ Sift together the flour, sugar, baking powder, and salt.
 **3. Remove the pan and mix the dough.**
 Once the butter's melted, take the pan out. Stir the milk into the dry ingredients slowly with a fork, just until the dough clings together.
 
-**4. Roll out on a floured board.**
-Turn the dough onto a well-floured board and roll lightly to coat. Roll out ½ inch thick into a 12 × 8-inch rectangle.
+**4. Knead about 10 times, then roll out on a floured board.**
+Turn the dough onto a well-floured board and roll it over to coat with flour. Knead lightly, about 10 times. Roll out ½ inch thick into a 12 × 8-inch rectangle.
 
 **5. Cut into 32 strips.**
 With a floured knife, cut the dough in half lengthwise, then crosswise into 16 strips — 32 sticks total.
@@ -41852,7 +41856,7 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. J
 
 **Yield:** makes about 16 biscuits *(as printed)*
 
-**🟢 Easy** *(standard cut-in-shortening biscuit technique, based on what's visible)* · **Prep and cook not calculable** — see Open Questions
+**🟢 Easy** *(standard cut-in-shortening biscuit technique, based on what's visible)* · **Prep not calculable** — see Open Questions · **Cook ~12 min** *(10–15 min bake, per the source)*
 
 #### A. Ingredients
 
@@ -41869,10 +41873,10 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. J
 *(The step before this — measuring and combining the dry ingredients — is above the photographed crop.)*
 
 **2. Shape the dough.**
-Roll the dough into a ball, knead lightly, then shape and cut with a floured cutter.
+Shape the dough into a ball and knead lightly. Roll the dough out and cut with a floured cutter.
 
-**3. Bake. At 400°F, in a very hot oven.**
-Place on an ungreased baking sheet and bake until browned.
+**3. Bake. 10–15 minutes at 400°F, in a very hot oven.**
+Place on an ungreased baking sheet and bake 10 to 15 minutes, until brown.
 
 #### C. Grocery Shopping List
 

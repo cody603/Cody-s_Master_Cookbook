@@ -17696,34 +17696,51 @@ Butter is itself an emulsion — fat, water, and air held together — and the s
 
 <!-- TECHNIQUE-TAGS: meathead, meathead-method, rub-blending, five-ss, sugar-glycemic-load, no-salt-in-rubs, dry-brine-timing -->
 **Tags:** `meathead` · `meathead-method` · `rub-blending` · `five-ss` · `sugar-glycemic-load` · `no-salt-in-rubs` · `dry-brine-timing`
-**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter. **A different book from [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s source**, *Meathead: The Science of Great Barbecue and Grilling* — same author, revisiting and expanding the same territory in his newer book. See [§13](#13-meathead-cookbook) for how this cookbook tells the two books apart going forward.
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter (book p. 158–162). **A different book from [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s source**, *Meathead: The Science of Great Barbecue and Grilling* — same author, revisiting and expanding the same territory in his newer book. See [§13](#13-meathead-cookbook) for how this cookbook tells the two books apart going forward.
 **Used in:** [§4.165 Red Meat Rub](#4165-red-meat-rub), [§4.166 French Rub](#4166-french-rub), [§4.169 Cool Smoke Rub](#4169-cool-smoke-rub), [§4.173 Lexington Dip #2](#4173-lexington-dip-2), and every future rub sourced from this same book.
 
 #### The Five S's of a rub
 
 A good rub is like a good orchestra — a range of instruments playing in harmony. This book expands the earlier book's Three S's ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) into five:
 
-- **Spices and herbs.** Not all of them taste good on everything, but the spice rack is full of great flavors. Garlic and onion powder are common; mild paprika shows up in barbecue rubs mostly for color, not flavor.
-- **Spicy hot.** Hot pepper sensations add excitement, but go easy — not everyone likes it as hot as you do. Black pepper, hot chiles, ginger, horseradish, and mustard powder all bring heat in this sense.
+- **Spices and herbs.** Not all of them taste good on everything, but the spice rack is full of great flavors. Garlic and onion powder are common; mild paprika shows up in barbecue rubs mostly for color, not flavor. The author urges experimenting with others.
+- **Spicy hot.** Hot pepper sensations add excitement, but go easy — not everyone likes it as hot as you do. Black pepper, hot chiles, ginger, horseradish, and mustard powder all bring heat in this sense. A rub that tastes too spicy straight from the jar usually isn't: there's a bite-sized piece of watery food under it diluting every pinch.
 - **Savory.** The earthy, meaty, umami-laden flavors that come from glutamic acid — not the herb literally named "savory." Add something with glutamate, like Ac'cent, nutritional yeast, dried tomatoes, or powdered mushrooms, to bring this out.
 - **Sugar.** A flavor amplifier that also helps browning and crust formation, offsets bitterness and acidity, and is hygroscopic — it pulls moisture to the meat's surface, where it dissolves and melds with juices, fats, and protein into bark. The more the sugar cooks, the more its chemistry changes and the less sweetness survives.
 - **Salty.** Salt penetrates deep, amplifies flavor, hides bitterness, and helps meat retain moisture — but see "No salt in my rub recipes" below for why this book still leaves it out of the blend itself.
 
 #### For those wary of sugar
 
-Two tablespoons of the earlier book's all-purpose Meathead's Memphis Dust ([§4.108](#4108-meatheads-memphis-dust)) puts less than half that much sugar on a slab of ribs, and much of it scrapes or drips off during cooking — eating half a slab works out to roughly 1 teaspoon of sugar, a glycemic load (GL) of about 3, compared to about 11 for a slice of white bread. Even a classic sweet Kansas City-style sauce, applied as one light coat (about 5 Tbsp on a slab), adds only about 1½ teaspoons of sugar to half a slab — also a GL of about 3. Rub and sauce combined, that's a GL of about 6, roughly 54% of a slice of white bread's. **If that's still too much, [§4.173 Lexington Dip #2](#4173-lexington-dip-2) is the source's own answer** — a fun sauce with little to no added sugar.
+About 2 tablespoons of his all-purpose Meathead's Memphis Dust (this book prints it at p. 165; it's in this cookbook at [§4.108](#4108-meatheads-memphis-dust) from the earlier book) goes on a slab of ribs, and less than half of that is sugar — some of which scrapes or drips off during cooking. Eating half a slab works out to about 1 teaspoon of sugar, a glycemic load (GL) of about 3, compared to about 11 for a slice of white bread. (Glycemic load, per the page, is a measure of how much a carbohydrate raises blood sugar.) Even a classic sweet Kansas City-style sauce, applied as one light coat (about 5 Tbsp on a slab), adds only about 1½ teaspoons of sugar to half a slab — also a GL of about 3. Rub and sauce combined, that's a GL of about 6, roughly 54% of a slice of white bread's. **If that's still too much, [§4.173 Lexington Dip #2](#4173-lexington-dip-2) is the source's own answer** — a fun sauce with little to no added sugar.
 
 #### No salt in my rub recipes — the book's own argument
 
-Almost all commercial rubs have salt in them, sometimes half the blend by volume — expensive salt, since the more salt, the more profit for the maker. **Remember: you can always add salt, but you can't take it away.** A commercial salt-laden rub applied to something thin like ribs will have its salt reach the center in an hour or two, while the herbs and spices stay on the surface (they're too large a molecule to penetrate). But the same blend on an 8-pound pork shoulder can take eight or more hours to penetrate, and the salt concentration ends up much lower — a pork butt needs far more salt than ribs simply because there's more meat for it to reach.
+Almost all commercial rubs have salt in them, sometimes half the blend by volume — expensive salt, since the more salt, the more profit for the maker. **Remember: you can always add salt, but you can't take it away.** A commercial salt-laden rub applied to something thin like ribs will have its salt reach the center in an hour or two, while the herbs and spices stay on the surface. But the same blend on an 8-pound pork shoulder can take eight or more hours to penetrate, and the salt concentration ends up much lower — a pork butt needs far more salt than ribs simply because there's more meat for it to reach.
+
+**Why salt gets in and spices don't:** salt is two atoms (sodium and chloride) that ionize — take on an electrical charge — when wet and slowly work their way deep. Table sugar is 45 atoms, piperine (the active part of black pepper) is 40, and garlic, oregano, thyme, and ginger are bigger still; they're simply too large to get past the pores and cracks in the surface of most meats and produce. The page's exceptions: fish, and porous vegetables like zucchini and eggplant.
 
 Because salt penetrates deep and herbs and spices cannot, the Meathead Method's rule is to **apply salt based on the meat's weight, and herbs/spices based on its surface area:**
 
 > **Dry brine with about ½ teaspoon of Morton Coarse Kosher Salt per pound of meat, hours before cooking. For herbs and spices, use about ½ teaspoon per 24 square inches** — that's the size of a 4×6-inch postcard, or a typical pork chop. You don't want it on so thick you can't see the meat.
 
+**The book's own list of reasons its rubs carry no salt** (p. 160–162, condensed):
+
+1. **Salt needs a head start; spices don't.** Dry-brining works because salt takes time to reach the center; spices applied early do little for the meat below the surface. Salt well in advance — and if you're using a rub that already has salt in it, go ahead, the salt penetrates while the spices sit on top waiting for you to fire up.
+2. **Cured meats need no salt at all** — ham, bacon, corned beef are already heavily salted at the processor. You may still want sugar, savory, spices, and heat, so a commercial (salted) rub will likely make them too salty.
+3. **Many meats are already injected.** Most turkeys and many ribs, pork loins, and chickens are injected with a salt solution at the plant — anything labeled "enhanced," "flavor enhanced," "self-basting," or "basted." Kosher meat has also been salted at the plant. Don't salt these, and a commercial rub might make them too salty.
+4. **People like different amounts of salt.** Keeping it separate lets you tailor saltiness to taste.
+5. **Salt-restricted diets** — though ½ teaspoon of Morton Coarse Kosher Salt per pound works out to only about 355 mg sodium in a 6-ounce serving, against a 2,300 mg recommended daily allowance.
+6. **Room for a finishing salt.** A sprinkle of large-grain salt on a steak as it hits the table gives it pop; Memphis-style "dry" ribs (served without sauce) get a layer of rub *after* cooking, as at the Rendezvous restaurant — with no salt in the rub, there's no risk of oversalting.
+7. **Sous vide** — see [§T91](#t91-how-to-use-rubs--application-order-storage-and-plastic-wrap-the-meathead-method).
+8. **Oil.** Salt won't dissolve in oil, so if you oil the meat for browning, salt first — the meat's own water pulls it in — and the oil won't interfere.
+
+The page's closing analogy: salt, rub, and sauce are like antifreeze, oil, and gas — all go into the engine, but you don't mix them; apply each in the right proportion at the right time.
+
 **Do this experiment:** buy a 6-inch piece of pork loin (not tenderloin) and cut it into two 3-inch lengths. Season one half with a variety of spices 24 hours ahead, no salt at all. Leave the other half completely bare. Cook both to 140°F. Cut a ¾-inch slice from the center of each half, wipe the cut surfaces with a wet paper towel to make sure the knife hasn't smeared surface spice onto the cut face, then serve the center-cut samples to a friend or two and ask if they can tell the difference. The book's own bet: they'll taste the same — proof that surface spices never make it to the interior of a thick piece of meat, no matter how long you wait.
 
 **This is the same underlying idea as this cookbook's existing [§T37 double-salt-jeopardy warning](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) and [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s "No Salt in Rubs" from the earlier book** — brine or dry-brine heavy, then leave salt out of whatever rub goes on top, so it's only ever counted once. **Every rub in this batch keeps the book's own printed salt amount, including zero, where the book prints zero** — see the 2026-09-06 changelog entry; Cody's standing "heavier salt" preference is specifically about brining, not about rub recipes, and does not apply to this batch either.
+
+✅ 2026-09-07 second-pass QC against p. 158–162: Five S's, sugar math (2 Tbsp Memphis Dust / 1 tsp / GL 3 vs 11 / 5 Tbsp sauce / GL 6 / 54%), ½ tsp per lb and per 24 sq in, and the pork-loin experiment all verified. Memphis Dust is printed in *this* book (p. 165), not only the earlier one — fixed. Added what was missing: the molecule-size explanation with its fish/porous-vegetable exception, the book's eight numbered reasons for salt-free rubs (p. 160–162), the raw-tasting caveat, and the antifreeze/oil/gas analogy. No salt guidance changed.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -17733,24 +17750,30 @@ Because salt penetrates deep and herbs and spices cannot, the Meathead Method's 
 
 <!-- TECHNIQUE-TAGS: meathead, meathead-method, rub-application, wet-vs-dry, storage, plastic-wrap-myth, sous-vide-salt-timing -->
 **Tags:** `meathead` · `meathead-method` · `rub-application` · `wet-vs-dry` · `storage` · `plastic-wrap-myth` · `sous-vide-salt-timing`
-**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter, "How to Use Rubs." A different book from [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s source; see [§13](#13-meathead-cookbook).
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs and Spice Blends" chapter, "How to Use Rubs" (book p. 162–163; the page runs on to p. 164, which isn't in the uploads). A different book from [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s source; see [§13](#13-meathead-cookbook).
 **Used in:** every rub in this batch, [§4.165](#4165-red-meat-rub) through [§4.169](#4169-cool-smoke-rub).
 
 **Store rubs in an airtight jar, in a cool dark place — not a plastic bag.** Most plastic bags breathe, and rubs contain oils that oxidize with air exposure.
 
-**Wet or dry application — a rub can go straight onto bare meat, or the meat can be moistened first** with a little water, mustard or ketchup (both mostly water), or oil or mayo (mostly oil) to help it stick. A mustard slather doesn't add real mustard flavor by the time it cooks off — the powder residue left behind is minuscule; sprinkle mustard powder directly on the meat instead if you actually want that flavor.
+**Wet or dry application — a rub can go straight onto bare meat, or the meat can be moistened first** with a little water, mustard or ketchup (both mostly water), or oil or mayo (mostly oil) to help it stick. A mustard slather doesn't add real mustard flavor by the time it cooks off — bottled mustard is mustard powder plus water, vinegar, and/or white wine, and the powder residue left behind is minuscule; sprinkle mustard powder directly on the meat instead if you actually want that flavor (carefully — it's strong).
 
-**Herbs and spices dissolve better in water than in oil.** The source tested its two most popular rubs (a mostly-spice blend and a mostly-herb blend) side by side in oil and water for 30 minutes — both dissolved noticeably better in water, the same reason tea leaves infuse water so readily. Wetting your hands and patting the meat before sprinkling on the rub lets the spices melt into a flavorful slurry that becomes part of the bark as it dries and heats.
+**Herbs and spices dissolve better in water than in oil.** The source tested its two most popular rubs — Meathead's Memphis Dust (mostly spices) and Simon & Garfunkel Rub (mostly herbs) — ½ teaspoon each in 1 ounce of vegetable oil and 1 ounce of tap water for 30 minutes. Both dissolved better in water, the same reason tea leaves infuse water so readily. Wetting your hands and patting the meat before sprinkling on the rub lets the spices melt into a flavorful slurry that becomes part of the bark as it dries and heats.
 
 **One hand sprinkles, the other hand rubs — never cross the two.** Keep one hand dedicated to the rub or spice jar, the other dedicated to touching the meat, so the jar and bag of rub never get contaminated by raw-meat-covered fingers.
 
-**After salting or rubbing, rest the food on a wire rack over a pan — skip the plastic wrap.** Plastic wrap does nothing to force salt or rub molecules into the meat; it isn't a pressure or vacuum system. All it actually does is stick to the rub and pull some of it back off when you remove the wrap, while trapped liquid underneath washes still more of it away. It also blocks some of the aromas that would otherwise bake into a desirable bark as the surface dries and heats.
+**After salting or rubbing, rest the food on a wire rack over a pan — skip the plastic wrap.** Plastic wrap does nothing to force salt or rub molecules into the meat; it isn't a pressure or vacuum system. All it actually does is stick to the rub and pull some of it back off when you remove the wrap, while trapped liquid underneath washes still more of it away. And per the page, plastic wrap doesn't even stop some aromas from getting *in* — that sentence runs onto p. 164, which isn't in the uploads, so the thought is cut off here. *(An earlier version of this entry had the aroma point backwards — claiming wrap blocked aromas that would bake into bark. That isn't what the page says; corrected 2026-09-07.)*
 
-**Salt and rub timing around sous vide, specifically:** salt food before sous vide — the bath gives the salt plenty of time to penetrate. But hold off on a salty rub until *after* sous vide; the water bath will wash the herbs and spices mostly off, and if there's salt in the rub, the interior ends up too salty on top of what the salt already did during the bath.
+**Salt and rub timing around sous vide, specifically** (p. 162): salt food before sous vide — the bath gives the salt plenty of time to penetrate. But hold off on a salty rub until *after* sous vide; the water bath will wash the herbs and spices mostly off, and if there's salt in the rub, the food ends up too salty.
 
-**Salt heavier on thick sections, lighter on thin ones** — the fat end of a turkey breast wants more salt than the tapering thin end, the same logic behind why an evenly-seasoned bird needs uneven salting.
+**Salt before oil** (p. 162): if you oil the meat to help browning and moisture retention, salt first. Salt won't dissolve in oil; applied to bare meat, the meat's own water pulls it in, and then the oil can't interfere.
 
-**Salt appears first on a commercial rub's ingredient label because labeling law requires ingredients to be listed by weight, and salt weighs far more than pepper, paprika, thyme, or any other spice** — first on the label doesn't necessarily mean most flavorful, just heaviest.
+**Salt heavier on thick sections, lighter on thin ones** (p. 162) — the fat end of a turkey breast gets more salt than the thin end.
+
+**You can still use a salted commercial rub — as the dry brine itself** (p. 162): sprinkle it on well in advance so the salt has time to penetrate.
+
+**Salt appears first on a commercial rub's ingredient label because labeling law requires ingredients to be listed by weight, and salt weighs far more than pepper, paprika, thyme, or any other spice** (p. 162) — first on the label means heaviest, not necessarily most.
+
+✅ 2026-09-07 second-pass QC against p. 162–163: storage, wet/dry application, mustard-slather point, the ½ tsp-in-1 oz solubility test (30 min), wet-hands method, two-hands rule, and wire-rack/no-wrap all verified. **Reversed claim fixed:** the page says plastic wrap does *not* keep some aromas out; the old "blocks aromas that bake into bark" line was invented. Added from p. 162: salt-before-oil, salted commercial rub as dry brine, mustard-powder strength warning, and the test's actual quantities.
 
 [↑ Table of Contents](#table-of-contents)
 

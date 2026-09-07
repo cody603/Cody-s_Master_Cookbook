@@ -592,7 +592,7 @@ Click any recipe to jump straight to it.
 - [14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) ✅ *(Salt, Fat, Acid, Heat; Pavlovas, Persian Pavlovas, Meringue Fool, and Chocolate-Caramel Meringue Fool variations; ⚠️ **sugar and cream-of-tartar quantities corrected 2026-09-06, the variations re-verified 2026-09-07** — see entry; its Scented / Cardamom / Vanilla / Caramel Cream fillings are now documented at [§14.36](#1436-scented-cream))*
 - [14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie) ✅ *(Salt, Fat, Acid, Heat; Chocolate Pudding Pie variation; its crust is now documented — see [§14.35 All-Butter Pie Dough](#1435-all-butter-pie-dough))*
 - [14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) ✅ *(Salt, Fat, Acid, Heat; Shortcakes and Fruit Cobbler variations; ⚠️ **quantities and lamination method substantially corrected 2026-09-06**, and the Fruit Cobbler variation is cut off in the source — see entry)*
-- [14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) ✅ *(Salt, Fat, Acid, Heat)*
+- [14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) ✅ *(Salt, Fat, Acid, Heat; ⚠️ **every quantity and the 8-hour freeze corrected 2026-09-07** — see entry)*
 - [14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) ✅ *(Salt, Fat, Acid, Heat; "Poach It in Wine," the source's middle fruit method, is now recovered at [§14.34](#1434-poach-it-in-wine); serve with [§14.36 Scented Cream](#1436-scented-cream)'s Bay Leaf Cream, the source's own pairing for roasted peaches)*
 - [14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream) ✅ *(The Meathead Method)*
 - [14.31 Torched Figs](#1431-torched-figs) ✅ *(The Meathead Method)*
@@ -918,7 +918,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) | 🟢 | 10 min | — | — | 10 min |
-| [§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) | 🟢 | 10 min | — | **~4 hr** *(freezer, scraped occasionally)* | 4 hr 10 min |
+| [§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) | 🟢 | 10 min | — | **~8 hr** *(freezer, stirred at least three times)* | 8 hr 10 min |
 | [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **30–45 min** *(smoker, unattended)* | 45–55 min |
 | [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets) *(Meathead)* | 🟢 | 10 min | — | **15–20 min** *(indirect zone/smoker, unattended)* | 1 hr 30 min *(+ 1 hr fridge dry-brine)* |
 | [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(The Meathead Method)* | 🟢 | 10 min | — | **5–6 hr** *(indirect smoker, unattended)* | ~8–9 hr *(includes a 3 hr dry brine)* |
@@ -1152,7 +1152,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(The Meathead Method)* | 🟢 | 30 min | — | **~8 hr** *(indirect smoker, unattended)* | 8½–20½ hr *(includes an optional up-to-12-hr rest after rub/injection)* |
 | [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 15 min | 15 min *(gravy)* | **2–5 hr** *(smoker, by weight)* | ~1 day *(includes a 12–24 hr dry brine)* |
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
-| [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 20 min | — | 30 min |
+| [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
 | [§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 20 min | — | 45 min *(includes butter soak-in time)* |
 | [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
 | [§5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) *(Meathead)* | 🟢 | 20 min | 10 min | — | 30 min |
@@ -40980,66 +40980,67 @@ Transfer the biscuits to a wire rack and cool for 5 minutes before serving.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 404–405), the first of the source's "Four Things to Do with Fruit" — short, simple methods for showing off ripe fruit at its peak. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and this cookbook's other batches from this book. **See also [§14.34 Poach It in Wine](#1434-poach-it-in-wine)** (the second method, recovered by the 2026-09-06 page-order audit — its opening sits on the bottom of p. 405, the same page as this recipe's Orange and Coffee Granita ingredient lists) and **[§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves)** (the third), each kept as its own entry rather than folded in here, since each is a genuinely different technique.
 
-> **Per the source's own "Four Things to Do with Fruit" headnote:** *"Most of the time, the best thing to do with a perfectly ripe piece of fruit is to enjoy it out of hand. The countless stains running down the front of practically every shirt I own attest to the fact that I put this into practice all summer long with berries, nectarines, peaches, plums, melons, and anything else that applies to the condition of 'ripe.' Since I don't think there's much you can do to improve upon that, I suggest the next best thing, which is to do as little as possible to it. In addition to eating it plain, these are my four go-to methods for showing off the glory of ripe fruit. Precisely because these recipes are so simple, they do require that you start with the tastiest fruit you can get. Use fruit at the height of its season (or frozen fruit, which is frozen at its peak). You won't regret the extra effort."*
+> ⚠️ **Every quantity in this entry was wrong, and the freezing schedule with it — corrected by the 2026-09-07 second-pass re-verification against book pp. 404–405. Re-read it before making either granita.** The first pass had **4 cups orange juice, ⅓ cup sugar, and 4 tablespoons lemon juice**; the page prints **2 cups orange juice, ¼ cup (1¾ ounces) sugar, and 6 tablespoons lemon juice** — half the juice, more lemon, and a batch that serves 4 at about ½ cup each, not 1 cup. The Coffee Granita had **4 cups coffee and ⅔ cup sugar** against the printed **2 cups coffee and ½ cup (3½ ounces) sugar**. And the method is not "scrape every 30 to 45 minutes, about 4 hours" — the source freezes the granita **about 8 hours**, stirring with a fork "every once in a while … as time allows," **a minimum of three times**, then one thorough final scrape before serving. The serving note (ice cream or Scented Cream) was also missing. Everything below is now as printed; the badge, index row, and nutrition are recalculated.
 
-> **Per the source's own "Juice It and Make Granita" intro:** *"Granita is Sicilian shaved ice, one of my favorite refreshing desserts, in part because it's so simple to make. Since it's frozen with intermittent rather than constant stirring, ice crystals form that are much larger and flakier than those you'd find in ice cream or gelato. They half melt, half crunch away on the tongue. Squeeze your own citrus juice, or blend and strain very ripe or frozen fruit in a food processor or blender, pressing hard to extract the juice and leave the solids behind. Almond milk, coconut milk, root beer, coffee, or red wine will also make delicious Granitas when you don't have fruit on hand. Once you've got the juice, sweeten it, keeping in mind that everything tastes less sweet once it's frozen, so use a little more sugar than you think you need."*
+> **Per the source's own "Four Things to Do with Fruit" headnote:** *"Most of the time, the best thing to do with fruit is to find a perfectly ripe piece of it and enjoy it out of hand. The copious stains running down the front of practically every shirt I own attest to the fact that I put this view into practice all summer long with berries, nectarines, peaches, plums, melons, and anything else I can get my hands on. As kitchen scientist Harold McGee says, 'all cooked food aspires to the condition of fruit.' Since I don't think there's much you can do to improve upon fruit, I suggest the next best thing, which is to do as little as possible to it. In addition to tarts and pies, these are my four go-to methods for showing off the glory of ripe fruit. Precisely because these recipes are so simple, they do require that you start with the tastiest fruit you can get. Use ripe fruit at the height of its season (or, for the Granita, frozen fruit, which is frozen at its peak). You won't regret the extra effort."* *(Quote re-transcribed word for word 2026-09-07; the earlier version was a paraphrase.)*
 
-**Makes Granita to serve 4**
+> **Per the source's own "Juice It and Make Granita" intro:** *"Granita is Sicilian shaved ice, one of my favorite refreshing desserts, in part because it's so simple to make. Since it's frozen with intermittent rather than constant stirring, the ice crystals that form are much larger and flakier than those you find in ice cream or gelato. They half melt, half crunch away on the tongue. Squeeze your own citrus juice (or for a shortcut, buy freshly squeezed juice that comes out of one of those mesmerizing mechanized juicers at the grocery store). Or juice any ripe or frozen fruit (my favorites are cherry, strawberry, raspberry, and melon) by blending it with a little water in a food processor or blender, and then straining out the solids. Make sure to squeeze every last bit of liquid out by pressing hard with a rubber spatula or the back of a ladle. Almond milk, coconut milk, root beer, coffee, espresso, or red wine will also make delicious Granita when you don't have fruit on hand. Once you've got the juice, sweeten it and balance the acid with lemon or lime juice — whichever is more appropriate. Keeping in mind that everything tastes less sweet when it's frozen, add a little more sugar than you think it needs. To get you started, here are a couple of basic recipes. Both make enough Granita to serve 4 people."*
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Slow cook ~4 hr** *(freezer, scraped with a fork every 30–45 min — each check takes seconds, not real hands-on time)* · **Start to finish ~4 hr 10 min**
+**Makes Granita to serve 4** *(either recipe)*
 
-> **Why a granita's texture depends on scraping, not churning — jargon explained.** Ice cream and gelato get their smooth texture from a machine that churns constantly while freezing, which does two things at once: it beats air into the base, and it keeps ice crystals from ever growing past microscopic size. A granita skips the machine entirely — the juice is simply poured into a shallow dish and frozen mostly undisturbed. Left completely alone, it would eventually freeze into one solid, unscoopable block. **Raking a fork through it every 30 to 45 minutes as it freezes** breaks the forming ice up into separate, coarse crystals instead of letting it set solid — that repeated breaking-and-refreezing is what builds the loose, shaved-ice texture that half melts and half crunches on the tongue, and it's a completely different mechanism from an ice cream maker's constant churn.
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Slow cook ~8 hr** *(freezer — stirred with a fork at least three times along the way, each stir taking seconds, not real hands-on time)* · **Start to finish ~8 hr 10 min**
+
+> **Why a granita's texture depends on stirring, not churning — jargon explained.** Ice cream and gelato get their smooth texture from a machine that churns constantly while freezing, which does two things at once: it beats air into the base, and it keeps ice crystals from ever growing past microscopic size. A granita skips the machine entirely — the juice is simply poured into a shallow dish and frozen mostly undisturbed. Left completely alone, it would eventually freeze into one solid, unscoopable block. **Raking a fork through it now and then as it freezes** — mixing the frozen edges and top back into the slushy center — breaks the forming ice up into separate, coarse crystals instead of letting it set solid. That repeated breaking-and-refreezing is what builds the loose, shaved-ice texture that half melts and half crunches on the tongue, and it's a completely different mechanism from an ice cream maker's constant churn. The more often you stir, the finer and less icy it comes out; the source's floor is three stirs across the freeze.
 
 #### A. Ingredients
 
 **Orange Granita**
 
-- 4 cups orange juice
-- ⅓ cup (67 grams) sugar
-- 4 tablespoons lemon juice
+- 2 cups orange juice
+- ¼ cup (1¾ ounces) sugar
+- 6 tablespoons lemon juice
+- Pinch of salt
+
+**Coffee Granita**
+
+- 2 cups strongly brewed coffee
+- ½ cup (3½ ounces) sugar
 - Pinch of salt
 
 #### B. Cooking Instructions
 
-**1. Combine the juice, sugar, lemon juice, and salt.**
-Whisk everything together in a bowl until the sugar is dissolved.
+**1. Pour either mixture — or one of your own devising — into a nonreactive dish, at least an inch deep.**
+Stir the juice (or coffee), sugar, and salt together *(the page simply says "pour either mixture above" — give it a stir first so the sugar isn't sitting on the bottom)* and pour it into a nonreactive dish or bowl — stainless steel, glass, or ceramic. The mixture should be at least an inch deep in the dish. Place it in the freezer.
 
-**2. Pour into a shallow, nonreactive dish and freeze.**
-Use a stainless steel, glass, or ceramic dish — the mixture should sit at least an inch deep. Place it in the freezer.
+**2. After about an hour, begin stirring with a fork every once in a while — at least three times over the freeze.**
+After about an hour, begin stirring every once in a while with a fork, as time allows. When you stir, make sure to mix up the more-frozen edges and top layer really well with the slushier center. The more diligently you stir, the finer and more even in texture (less icy) the finished granita will be. Stir things up **a minimum of three times** throughout the freezing process.
 
-**3. Scrape with a fork every 30 to 45 minutes as it freezes. About 4 hours total.**
-Once ice crystals start forming around the edges, about an hour in, use a fork to break them up and mix them back into the still-liquid center. The more diligently and evenly you do this each time, the finer and more even the finished granita will be. Continue freezing and scraping every 30 to 45 minutes until the whole dish is frozen through, about 4 hours total.
+**3. Freeze until frozen throughout. About 8 hours.**
+Keep freezing until the granita is frozen all the way through, about 8 hours.
 
-**4. Give it one final scrape right before serving.**
-Rake the fork through the whole dish once more just before serving, until the texture is even, loose, shaved ice throughout.
+**4. Give it a thorough final scrape right before serving, until it's the texture of shaved ice.**
+Rake the fork through the whole dish just before serving, until the texture is loose, shaved ice throughout. Serve with ice cream or a dollop of **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — documented 2026-09-07)*, if desired.
 
-Serve immediately, or keep covered in the freezer for up to a week — scrape again before serving if it's set up solid in the meantime.
-
-#### Variation, per the source: Coffee Granita
-
-- 4 cups strongly brewed coffee
-- ⅔ cup (135 grams) sugar
-- Pinch of salt
-
-Combine, freeze, and scrape exactly as directed above — no lemon juice needed, since coffee doesn't need the acid balance citrus juice does.
+Store, covered, in the freezer for up to a week — scrape again before serving if it's set up solid in the meantime.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Orange juice — 4 cups, or freshly squeezed
-- 🛒 Sugar
-- 🛒 Lemons — for juice (Orange Granita only)
-- 🛒 *(For Coffee Granita)* Strongly brewed coffee — 4 cups
+- 🛒 Orange juice — 2 cups, or freshly squeezed
+- 🛒 Sugar — ¼ cup for the Orange Granita, ½ cup for the Coffee Granita
+- 🛒 Lemons — 2 to 3, for 6 Tbsp juice (Orange Granita only)
+- 🛒 *(For Coffee Granita)* Strongly brewed coffee — 2 cups
+- 🛒 *(For serving, optional)* Vanilla ice cream, or heavy cream and a flavoring for [§14.36 Scented Cream](#1436-scented-cream)
 
-#### Nutrition *(estimated)*
+#### Nutrition *(estimated — recalculated 2026-09-07 for the corrected printed quantities)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch, Orange Granita** | ~700 | <1 g | 7 g | 170 g | 2 g |
-| **Per serving** *(serves 4)* | ~175 | 0 g | 2 g | 42 g | <1 g |
+| **Whole batch, Orange Granita** | ~440 | <1 g | 4 g | 108 g | 1 g |
+| **Per serving** *(serves 4)* | ~110 | 0 g | 1 g | 27 g | <1 g |
 
-**What a serving is:** about 1 cup of shaved ice, a normal light dessert portion. **The Coffee Granita variation is close to pure sugar-water** — roughly 530 kcal for the whole batch and 130 kcal per serving, virtually all of it carbs, with negligible fat, protein, or fiber either way.
+**What a serving is:** about ½ cup of shaved ice — a small, sharp, palate-cleansing portion, which is what the printed 2-cup batch divided four ways comes to. **The Coffee Granita variation is close to pure sugar-water** — roughly 390 kcal for the whole batch and just under 100 kcal per serving, virtually all of it carbs, with negligible fat, protein, or fiber either way. Ice cream or Scented Cream on top is extra (about 105 kcal per ¼-cup dollop of the cream).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41051,7 +41052,9 @@ Transcribed from a photographed page — **Samin Nosrat's *Salt, Fat, Acid, Heat
 
 > ✅ **"Poach It in Wine," the source's second fruit method, has been RECOVERED and is now written up in full at [§14.34 Poach It in Wine](#1434-poach-it-in-wine)** *(2026-09-06 page-order audit)*. The original Sweets batch flagged it here as genuinely incomplete — only its finishing half (cooling, reducing the syrup, plating alternating slices, winter spices, serving suggestions) appeared to have survived. **The opening it was missing — the fruit, wine, sugar, lemon zest, and vanilla bean, with the source's own "for every 2 pounds of fruit" ratio — was in the scan all along**, at the bottom of book p. 405, on the very last page of the PDF file rather than next to the continuation on p. 406. The two halves are now joined; nothing was invented to close the gap.
 
-**🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(oven roast, mostly unattended)* · **Start to finish ~30 min**
+**🟢 Easy** · **Prep ~10 min** · **Cook ~15–30 min** *(oven roast, unattended — about 15 min for smaller fruit, 30 for larger)* · **Start to finish ~25–40 min**
+
+> ✅ **Second-pass re-verification, 2026-09-07 — the fig-leaf bed, the bay-or-thyme substitute, the single layer cut side up, the generous sugar, the 425°F oven, and the 15-to-30-minute range are all confirmed against book p. 406.** Two small things restored: the page's third serving option, **alongside Buttermilk Panna Cotta** (source p. 418, not in the scan), and the Cook field now shows the page's actual 15-to-30-minute spread rather than a flat 20. The "faintly coconut-like" aroma and "fig leaves aren't eaten" notes below are this cookbook's glosses, not the page's words.
 
 #### A. Ingredients
 
@@ -41071,11 +41074,11 @@ Fill the dish with a single layer of halved stone fruit (cut side up) or fist-si
 
 **3. Sprinkle generously with sugar.**
 
-**4. Roast at 425°F until tender and golden. 15 to 30 minutes, depending on size.**
-Roast until the fruit is tender and golden brown on the surface — about 15 minutes for smaller fruit (apricot halves, grapes) and up to 30 minutes for larger fruit (peach, nectarine, or plum halves).
+**4. Roast at 425°F until tender within and golden brown on the surface. About 15 minutes for smaller fruit, 30 for larger.**
+Roast in a 425°F oven until the fruit is tender within and golden brown on the surface — about 15 minutes for smaller fruit (apricot halves, grapes) and 30 minutes for larger fruit (peach, nectarine, or plum halves).
 
 **5. Serve warm or at room temperature.**
-With **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — **documented 2026-09-07**)* or vanilla ice cream. **The source's own printed pairing for §14.36's Bay Leaf Cream is "spoon bay leaf cream atop roasted peaches" — which is this dish exactly**, if you roast peach halves. Bay Leaf Cream is six gently torn bay leaves steeped 15 minutes in half the cream, strained, chilled, recombined and whipped; and since a bay leaf is already a substitute this recipe offers for the fig leaves, it's a neat echo of the same aromatic on the plate twice.
+With **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — **documented 2026-09-07**)* or vanilla ice cream, or alongside **Buttermilk Panna Cotta** *(source p. 418 — not in the scan and not in this cookbook; named rather than invented)*. **The source's own printed pairing for §14.36's Bay Leaf Cream is "spoon bay leaf cream atop roasted peaches" — which is this dish exactly**, if you roast peach halves. Bay Leaf Cream is six gently torn bay leaves steeped 15 minutes in half the cream, strained, chilled, recombined and whipped; and since a bay leaf is already a substitute this recipe offers for the fig leaves, it's a neat echo of the same aromatic on the plate twice.
 
 #### C. Grocery Shopping List
 

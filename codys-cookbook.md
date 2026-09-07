@@ -16807,11 +16807,13 @@ A good rub is like a good orchestra — a range of instruments to play all the n
 
 > ✅ **Independently re-verified 2026-09-07** against book pp. 341–343 (scan indexes 5, 46, enlarged). The size counts, the 16/20 grilling threshold, chitin, the tail-fin snip, the head-and-legs cleaning, the vein removal and butterfly cuts, and the brine (¼ cup kosher salt, 1 cup warm water, 2 cups cold water, about 20 minutes but no longer) all match. No change.
 
+> ✅ **2026-09-07 second-pass QC against Cody's photos of p. 341 (partial — the single "Choosing and Prepping Shrimp" column only), p. 342 and p. 343 (full-resolution column crops): verified.** Every number and claim above is on the photographed pages, with one exception now marked as cookbook gloss — the anatomy paragraph's explanation of what the abdomen and swimmerets *do* is not printed; the page only labels them. The shrimp diagram's six labels (head, abdomen, antenna, swimmerets, legs, tail) match.
+
 **Choosing shrimp in the first place** *(added 2026-09-06 — this paragraph is the book's own "Choosing and Prepping Shrimp" opener on book p. 341, which the original transcription skipped entirely).* Most shrimp today are farm raised in Asia, and recent years have brought some unpleasant revelations about conditions there, for both people and shrimp — **if you can get wild shrimp from the Gulf of Mexico, you should.** As with so much seafood, flash-frozen shrimp is usually high quality; just defrost it in the fridge. So-called "fresh" shrimp has often been frozen and then thawed, or traveled a long distance, and is not really fresh.
 
 **Shrimp are sold by count per pound, and the size labels vary by merchant.** "31/35" means 31 to 35 shrimp per pound (called medium, though sometimes marketed as large); "16/20" are called jumbos, *though Meathead considers them large*; "U-12" or "U-10" (under 12 or under 10 per pound) are colossal or super colossal. **16/20 or larger is the sweet spot for grilling** — small shrimp are tedious to clean, fall through the grates, and often cook through before they've browned; large shrimp are easier to prep, cook properly, and take grill marks well.
 
-**Anatomy, if you're breaking one down:** head, abdomen, tail, legs, swimmerets, and antenna are the parts on the book's own diagram — the segmented abdomen is what holds the meat, and the small paired swimmerets underneath are what a shrimp swims with.
+**Anatomy, if you're breaking one down:** head, abdomen, tail, legs, swimmerets, and antenna are the parts on the book's own diagram. *(Cookbook gloss, not printed: the segmented abdomen is the part that holds the meat, and the swimmerets are the small paired paddles under it that a shrimp swims with.)*
 
 **Cook shrimp with the shell on when you can.** The shell (chitin — *pronounced KITE-in* — rich in sugars) contributes real flavor and protects the delicate meat from overcooking — but it also blocks marinade from reaching the meat, and shrimp absorb marinade better than almost any other protein. Seasoning on the outside of the shell still matters, though: it gets on your fingers as you peel and eat, and your fingers act as part of the seasoning.
 
@@ -16838,7 +16840,9 @@ A good rub is like a good orchestra — a range of instruments to play all the n
 
 **Picking a lively one.** Cold-water lobsters usually weigh 1½ to 2 pounds — a typical 1½-pound lobster yields less than 1 pound of raw tail and claw meat combined, so buy bigger than you think for the yield you actually want. Pick an animal that's lively — walking or swimming in the tank. A listless one with a curled tail and meat visible between the tail and the upper thoracic carapace is a bad choice; a little green algae in the tank is nothing to worry about.
 
-**Lobster anatomy, if you're breaking one down:** the book's own diagram of a raw cold-water lobster labels head, tail, claw, tail fan, legs, and swimmerets, plus two internal parts worth knowing by name — the tomalley (the greenish liver/pancreas) and the roe, aka "coral" (a female's eggs).
+**Lobster anatomy, if you're breaking one down:** the book's own diagram of a raw cold-water lobster labels head, tail, claw, tail fan, legs, and swimmerets, plus two internal parts worth knowing by name — the tomalley and the roe, which the diagram also labels "coral." *(Cookbook gloss, not printed on the page: the tomalley is the soft green liver-like organ in the body, and the roe is a female's eggs.)*
+
+> ✅ **2026-09-07 second-pass QC against Cody's photo of pp. 344–345: verified for everything on those pages** — the cold-water/warm-water contrast, the weights and meat yield, the lively-vs-listless test, the algae aside, the rubber bands, the grasp-from-above warning, all eight diagram labels, and the same-day advice. **The photo ends mid-sentence at the bottom of p. 345** ("…it will stay alive and fresh in"); the "2 to 3 days" figure and the entire storing paragraph below are from **book p. 346, which is not among the photographed pages** — they rest on the earlier scan check only. The tomalley/roe explanations are now marked as cookbook gloss.
 
 **Handling a live lobster safely.** Live cold-water lobsters ship with rubber bands on the big front claws — leave them on until after the animal is dead. Always grasp a lobster from above, by the solid shell on the upper half, never by the tail — the tail has sharp edges that can gash you even after the lobster is dead.
 
@@ -30917,6 +30921,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Verified against book pp. 343–344 on 2026-09-06.** Every step, temperature and time matches the page. Three fixes: **start-to-finish is 50–60 minutes**, not ~50 — the page prints **TAKES *50 to 60 minutes***; the ingredient line was missing the source's **wild Gulf** shrimp specification; and the contributor credit is corrected in the headnote above. The printed **MAKES *2 servings as a main dish*** already matched the Nutrition block. **The ¼ teaspoon kosher salt is exactly as printed and is unchanged.**
 
+> ✅ **2026-09-07 second-pass QC against the photos of pp. 343–344 (this recipe's ingredients and steps sit at the top of p. 344, above the Championship shrimp).** Every ingredient, quantity, step, time and the MAKES/TAKES line match the page. The earlier "verified" claim for this entry was made from a scan that did not include p. 344; this is the first check against the actual page. Two wording fixes, neither changing the food: Step 1's marinating aside and Step 2's grill-topper explanation are now marked as cookbook gloss rather than reading as Meathead's words.
+
 > **Why Easy.** A quick oil-and-garlic marinade, then 2 to 3 minutes per side over direct heat. The only real risk is a grease flare-up, and the fix is built right into the recipe — slide the shrimp to the indirect side for a minute. Nothing here can go from perfect to ruined the way a sauce or a roux can.
 
 #### A. Ingredients
@@ -30931,10 +30937,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### B. Cooking Instructions
 
 **1. Marinate.**
-Put the shrimp in a zipper-top bag and add the olive oil, garlic, salt, and pepper. Smoosh everything around to mix and coat the shrimp evenly. Refrigerate the bag and marinate for 15 to 20 minutes — no need to go longer; the shell keeps most of the marinade from reaching the meat anyway, so this is mainly seasoning the shell and the fingers that peel it later.
+Put the shrimp in a zipper-top bag and add the olive oil, garlic, salt, and pepper. Smoosh everything around to mix and coat the shrimp. Put the bag in the refrigerator to marinate for 15 or 20 minutes. *(Cookbook gloss, drawn from book p. 342: with the shell on, most of the marinade never reaches the meat — it seasons the shell, and later the fingers that peel it.)*
 
 **2. Fire up.**
-Set up the grill in a two-zone configuration (see [§T34](#t34-two-zone-fire-setup)) and get the direct zone up to medium-high. If your shrimp are small enough to fall through the grates, use a grill topper.
+Set up the grill in a two-zone configuration (see [§T34](#t34-two-zone-fire-setup)) and get the direct zone up to medium-high. If your shrimp are small, you might want to use a grill topper *(a perforated grill pan or mesh tray that sits on the grates so small pieces can't fall through — cookbook gloss)*.
 
 **3. Cook.**
 Place the shrimp on the direct-heat side and cook for 2 to 3 minutes per side, until the meat is pearly white and opaque. If the grill flares up from dripping oil, move the shrimp to the indirect side for a few minutes rather than fighting the flames.
@@ -30980,6 +30986,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Verified against book pp. 344–345 on 2026-09-06.** All six steps, their order, the **325°F** indirect target, the ~4-minute half-cooked bacon, the ¼-inch cream cheese strip, the 1-or-2 toothpicks, and the printed **MAKES *20 appetizer servings*** / **TAKES *about 1 hour*** all match the page exactly. Two fixes: the source's own **"Kosher salt"** ingredient line had been dropped from the Ingredients list (it survived only in the grocery list), and the brine time in Step 1 read "15 to 20 minutes" where book p. 343 prints **"about 20 minutes—but no longer."** **No salt quantity was changed** — the ¼ cup per pound is exactly as printed. **Toothpicks** are kept on the list but marked: the book calls for them in Step 4 and does not list them as an ingredient. The **"Nesbitt, Missouri"** flag in the headnote was re-checked against the page at full resolution and is **confirmed correct as printed** — see the note there.
 
+> ✅ **2026-09-07 second-pass QC against the photo of pp. 344–345: verified.** All seven ingredient lines, all six steps in printed order, 325°F, the ~4-minute bacon, the ¼-inch cream cheese strip, 1 or 2 toothpicks, MAKES 20 appetizer servings and TAKES about 1 hour all match the page. The earlier "verified" claim for this entry came from a scan that did not include these pages; this is the first check against the actual photo. The "Nesbitt, Missouri" credit was re-read at 2× and is exactly as printed. No change to the food; Step 1 wording tightened to the page's order (jalapeños are cut after the shrimp go in the brine — the page does not say "while they soak," so that is now marked as gloss).
+
 > **Why Easy.** The bacon only gets partway cooked on the indirect side before wrapping, so there's no exposed direct flame to scorch it and no single moment where the dish can go from perfect to ruined — just a lot of small, forgiving assembly steps (peel, brine, stuff, wrap, skewer) repeated twenty times over.
 
 #### A. Ingredients
@@ -30996,7 +31004,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### B. Cooking Instructions
 
 **1. Prep the shrimp and jalapeños.**
-Peel and devein the shrimp as described at [§T56](#t56-shrimp-sizing-deveining-and-brining), but leave the tails on. Brine them as described there too — ¼ cup kosher salt per pound of shrimp dissolved in 1 cup warm water, cut with 2 cups cold water, soaked **about 20 minutes but no longer**, then drained and patted dry. *(Soak time corrected 2026-09-06 from "15 to 20 minutes" to the printed "about 20 minutes—but no longer"; the ¼ cup salt is unchanged and exactly as printed.)* While they soak, cut the tops off the jalapeños, split them in half, remove the seeds and veins, and slice each half into 4 strips.
+Peel and devein the shrimp as described at [§T56](#t56-shrimp-sizing-deveining-and-brining), but leave the tails on. Brine them as described there too — ¼ cup kosher salt per pound of shrimp dissolved in 1 cup warm water, cut with 2 cups cold water, soaked **about 20 minutes but no longer**, then drained and patted dry. *(Soak time corrected 2026-09-06 from "15 to 20 minutes" to the printed "about 20 minutes—but no longer"; the ¼ cup salt is unchanged and exactly as printed.)* Cut the tops off the jalapeños, split them in half, remove the seeds and veins, and slice each half into 4 strips *(doing this while the shrimp soak is cookbook gloss — it's simply the natural time for it; the page just lists it next)*.
 
 **2. Fire up.**
 Set up the grill for two-zone cooking (see [§T34](#t34-two-zone-fire-setup)) and shoot for about 325°F on the indirect side.

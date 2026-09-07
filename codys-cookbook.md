@@ -7860,6 +7860,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — 1.5×, per Cody's standing preference for heavier brining. **Reason for keeping the bump modest here specifically:** this brine is *injected*, not applied to the surface — it reaches the interior immediately rather than stopping at [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s ⅛-inch rub limit, so oversalting an injection has a bigger, faster effect than oversalting a surface treatment does. Treat 3 Tbsp as Cody's starting point and taste a small cooked test piece before scaling further.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 162 (second-pass QC) — correct as written.** All four ingredients (the printed 2 Tbsp salt kept at Cody's 3 Tbsp — see above), the four printed steps, the 1½-inch spacing, the 2 Tbsp per pound rate, the discard-the-syringe-leftovers rule, the months-in-the-fridge-or-freezer keep, and the printed MAKES about 1 quart / enough to inject about 30 pounds / TAKES 10 minutes to make, 5 to inject all match. One wording restored in Step 4: the page's rest window is *an hour or even overnight*, not just "up to overnight."
+
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min** *(10 min to mix, 5 min to inject)*
 
 #### A. Ingredients
@@ -7881,7 +7883,7 @@ Load a real meat-injector syringe (stainless steel, side-holed needle — a plai
 Push the needle toward the center of the meat and depress the plunger slowly while easing the needle back out, injecting as you go. Space injection points about 1½ inches apart across the bird. Aim for about 2 Tbsp of fluid per pound of meat — you're avoiding pockets of standing liquid, not soaking it. A little fluid naturally weeping back out the puncture is normal; if it's spurting, ease off the plunger.
 
 **4. Rest or cook right away.**
-Cook immediately, or let the meat rest up to overnight — the injected liquid disperses further with time. **Discard whatever's left in the syringe** (it's been contaminated by the needle); leftover unused brine keeps refrigerated or frozen for months.
+Cook immediately, or let the meat rest for an hour or even overnight — the injected liquid disperses a bit with time. **Discard whatever's left in the syringe** (it's been contaminated by the needle); leftover unused brine keeps refrigerated or frozen for months.
 
 #### C. Grocery Shopping List
 
@@ -7912,6 +7914,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
 > **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — same 1.5× bump and same reasoning as [§4.102](#4102-chicken-or-turkey-brine-injection): an injection reaches the interior directly, so it gets a modest, deliberately controlled increase rather than a heavier one. Treat as a starting point.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 162 (second-pass QC) — correct as written.** All six ingredients (the printed 2 Tbsp salt kept at Cody's 3 Tbsp — see above): 1 Tbsp sugar, 1 Tbsp Worcestershire, 2 Tbsp rice vinegar, 1 cup apple juice or low-sodium pork/chicken/beef stock, 3 cups water. The page prints only the ingredient list for this one — the MAKES/TAKES line and the four-step method are shared with [§4.102](#4102-chicken-or-turkey-brine-injection) above it, which is how this entry already reads. No change.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min**
 

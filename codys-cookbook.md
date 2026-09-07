@@ -21224,7 +21224,7 @@ Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Ba
 
 **For the barbecue**
 
-- 1 Boston butt (bone-in pork shoulder roast; 5 to 6 lb), covered with a thick (¼ inch) layer of fat
+- 1 Boston butt (bone-in pork shoulder roast; 5 to 6 lb), covered with a thick (½ inch) layer of fat *(corrected 2026-09-07 from ¼ inch — the page prints ½ inch)*
 - [§4.91 Vinegar Sauce](#491-vinegar-sauce-eastern-north-carolina-diluted-style) — *the source's own pairing; [§4.36](#436-north-carolina-vinegar-sauce) also works and runs sharper*
 - 10 to 12 hamburger buns
 - [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)
@@ -21240,7 +21240,7 @@ Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Ba
 **2. Set up the grill for indirect grilling and place a drip pan in the center.**
 
 **3. Get the fire and smoke going.**
-*For gas:* put all the wood chips in the smoker box and preheat to high; when smoke appears, reduce to medium. *For charcoal:* preheat to medium and **adjust the vents to hold 300°F**.
+*For gas:* put all the wood chips in the smoker box and preheat to high; when smoke appears, reduce to medium. *For charcoal:* preheat to medium and **adjust the vents to hold 300°F**. *(⚠️ In the only photo of this page, the temperature's last digit sits in the page curl — "30…°F" is what's legible. 300°F is the original transcription's reading and is consistent with what's visible, but it couldn't be re-confirmed digit-for-digit on 2026-09-07.)*
 
 **4. Smoke-cook to 195°F. 4 to 6 hours.**
 If using charcoal, toss 1 cup of wood chips on the coals. Place the pork **fat side up** on the hot grate over the drip pan, cover the grill, and cook until fall-off-the-bone tender and the internal temperature reaches **195°F**. Time depends on the size of the roast and the heat of the grill. With charcoal, add 10 to 12 fresh coals per side every hour and about ½ cup more wood chips per side each time you replenish. With gas, just start with a full tank. **If the pork begins to brown too much, drape foil loosely over it or lower the heat.**
@@ -21261,7 +21261,7 @@ Mound the pork on buns and top with coleslaw. Let each person add more vinegar s
 
 **🏪 Specific store — butcher**
 
-- 🏪 Boston butt (bone-in pork shoulder roast) — 5 to 6 lb, **with a thick ¼-inch fat cap**
+- 🏪 Boston butt (bone-in pork shoulder roast) — 5 to 6 lb, **with a thick ½-inch fat cap**
 
 **🛒 General grocery**
 
@@ -21292,7 +21292,7 @@ Transcribed from the same **Steven Raichlen** book as [§6.6](#66-north-carolina
 
 > **📌 Per Cody, on what to take from this recipe and what not to.** He endorses **the seasoning and the dry brine** — *"the seasoning and letting it dry brine is OK, it's all real good."* But **he has his own smoking technique that differs from this one, and it's coming later**: *"there are different ways to cook this brisket, and I'll provide those different ways at a later time… got a different technique on smoking meats."* So treat Steps 1–2 below as endorsed, and Steps 3–5 as this book's method rather than the house method. **[§6.1 Smoked Brisket](#61-smoked-brisket) stays open** as the placeholder for Cody's own version.
 
-> ⚠️ **Buy the right brisket or don't bother — the source is blunt about this.** *"Do not attempt to make this with a trimmed, fatless brisket; it will turn out much too dry."* You want it **untrimmed, with a thick sheath of fat** — at least ¼ inch, preferably ½ inch. A whole packer brisket runs 18 to 20 lb; this recipe uses a 5-to-6-lb piece.
+> ⚠️ **Buy the right brisket or don't bother — the source is blunt about this.** *"Here I call for a partially trimmed brisket — a cut weighing five to six pounds. Do not attempt to make this with a two-pound trimmed, fatless brisket; it will turn out much too dry."* The key, in his words, is *"untrimmed, with a thick sheath of fat"* — at least ¼ inch, preferably ½ inch — *"and then cooking the brisket in a shallow pan."* A whole packer brisket (the sort a restaurant cooks) runs 18 to 20 lb; this recipe uses a 5-to-6-lb, partially trimmed piece.
 
 > ⚠️ **Charcoal or a smoker only — not gas.** Per the source: *"To achieve the requisite smoke flavor, you need to smoke the brisket in a charcoal grill — or in a smoker. A gas grill will not produce enough smoke."* This is a harder line than the same book draws for [§6.6](#66-north-carolina-pulled-pork-karmel-version), where gas is explicitly allowed.
 
@@ -21365,6 +21365,7 @@ Take the pan off the grill and let the brisket rest in it. Transfer to a cutting
 #### D. Open Questions
 
 - **No serving count given** — 8 is Claude's estimate from a 5–6 lb brisket.
+- **The recipe's title is inferred, not photographed.** The only photo of this recipe begins mid-headnote (*"namely, untrimmed, with a thick sheath of fat…"*); the title, country tag, and the first lines of the headnote sit on the facing page, which wasn't shot. "Texas-Style Smoked Brisket" is this cookbook's working title for it, and the *What's Your Beef?* chapter attribution comes from the running head. Everything below the headnote — advance preparation, equipment, all six ingredients, all six steps, and the Texas Way sidebar — was re-verified line by line on 2026-09-07.
 - **The Basic Barbecue Sauce (source p. 463) referenced in the Texas Way sidebar isn't in this cookbook.** Half the sauce formula is therefore unmakeable as written; worth photographing if Cody wants that sauce.
 - ✅ **Settled: the "page 466" North Carolina Vinegar Sauce is a *third* version, now transcribed at [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato).** It was flagged here as possibly the same recipe reprinted; it isn't. §4.93 has **no tomato at all**, carries fresh sliced onion and jalapeño, and **doesn't keep past the day it's made** — all three points distinguish it from [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style). **For the Texas Way sauce formula above, §4.93 is the half the sidebar actually means.**
 - **Cody's own brisket smoking method is still to come** — see the note at the top of this entry and the open [§6.1 Smoked Brisket](#61-smoked-brisket) placeholder.
@@ -21422,6 +21423,8 @@ If using charcoal, toss half the wood chips or chunks onto the coals. Place the 
 Transfer the ribs to a clean cutting board. Mop on both sides with the mop sauce and sprinkle with the remaining rub. Cut the rack into individual ribs and serve at once with any remaining mop sauce or the North Carolina Vinegar Sauce, if desired.
 
 > **Tip, per the source:** use any rub you fancy for the ribs — Raichlen names [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub) itself as a substitute. The rub goes on twice, once before cooking and once just before serving, for a double blast of flavor. **For maximum showmanship, apply the mop sauce in front of your guests with an actual barbecue mop** — the same literal-floor-mop origin already recorded at [§4.96](#496-vinegar-based-mop-sauce).
+>
+> **Where to buy them, per the technique spread's own tip (p. 95):** look for beef ribs at your local butcher shop or in the meat section of your local supermarket — *try the latter first; the price is apt to be more reasonable.* The spread also puts the numbers plainly: **a full rack has 7 ribs and comfortably feeds two**, and the rub is easiest to apply from a large shaker.
 
 > **Variations, per the source:** beef ribs can also be prepared wet, like the Kansas City Sweet-and-Smoky Ribs (page 139), or even in the Asian style — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) here.
 
@@ -21457,7 +21460,7 @@ Transfer the ribs to a clean cutting board. Mop on both sides with the mop sauce
 #### Open Questions
 
 - **Kansas City Sweet-and-Smoky Ribs (page 139)**, named in the Variations sidebar as the "wet" alternative to this dry style — not transcribed, not in this cookbook.
-- The TIP and YOU'LL NEED sidebars on the technique spread (p. 95) were partly hidden behind other dog-eared pages in the photo. The wood chip quantity and soak time were legible and are captured above, but a line or two more of tip text may be missing.
+- ✅ **Retired 2026-09-07:** an earlier flag said the TIP and YOU'LL NEED sidebars on the technique spread (p. 95) were partly hidden by dog-eared pages. Re-read enlarged, the p. 95 TIP is fully legible (it's the where-to-buy note now folded in above), and the sidebar that looked hidden beside it is p. 109's pulled-pork YOU'LL NEED box showing through from a later page — not part of this recipe. Nothing is missing.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -26686,6 +26689,8 @@ Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Ba
 
 **Yield:** serves 4
 
+> **Per the source, for an accompaniment:** *Peruvian Potato Mixed Grill* (its page 418) would go well with the anticuchos — not transcribed, not in this cookbook.
+
 **🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** *(5 min glaze + 6–8 min grill)* · **Start to finish ~2 hr 30 min** *(includes a 2 hr marinate — lead time, not cooking)*
 
 #### A. Ingredients
@@ -26769,7 +26774,7 @@ Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Keba
 
 > **Per the source:** *"Shish kebab is the world's most popular barbecue dish. The meat and the kind of skewers may vary but the principle — meat grilled on a stick — remains constant. Here's a Bengali version that's as popular an after-school snack in Bangladesh as burgers are in the U.S. The spicing is more restrained than Indian tandoori kebabs, and the spice mix is rubbed onto the meat before the oil is added for marinating; it gets into the meat better this way. I call for beef tenderloin here, but you can also use tenderloin tips or sirloin."*
 
-**Special equipment:** 4 long metal skewers
+**Special equipment:** 4 long metal skewers, or 8 short bamboo skewers and an aluminum foil shield
 
 **Yield:** serves 8 as an appetizer, 4 as a main course
 
@@ -26784,7 +26789,7 @@ Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Keba
 - 1 Tbsp ground coriander (see Note)
 - 1 tsp ground cumin (see Note)
 - 1 tsp freshly ground black pepper
-- ¼ to 1 tsp cayenne pepper
+- ½ to 1 tsp cayenne pepper *(corrected 2026-09-07 from ¼ to 1 tsp — the page prints ½ to 1)*
 - 3 Tbsp vegetable oil
 
 **For serving:**
@@ -26811,7 +26816,7 @@ Combine the beef, garlic, ginger, salt, coriander, cumin, black pepper, and caye
 Brush and oil the grill grate. Arrange the kebabs on the hot grate (place an aluminum foil shield under the ends if using bamboo skewers). Grill until the beef is cooked to taste, 2 to 3 minutes per side (8 to 12 minutes in all) for medium-rare. Transfer the kebabs to a platter.
 
 **5. Serve.**
-Arrange the breads of your choice in one layer on the grate and grill until pliable, about 20 seconds per side (if serving the kebabs as an appetizer). Unskewer the beef onto the breads — or fold a bread in half around the meat on each skewer and remove the skewer. Sprinkle the diced cucumber, tomato, and onion over the meat and squeeze a little lemon juice on top. Spoon the Bengali Mango-Tamarind Barbecue Sauce on top, or use it as a dipping sauce. Serve at once.
+Arrange the breads of your choice in one layer on the grate and grill until pliable, about 20 seconds per side. If serving the kebabs as an appetizer, cut each bread in half. Unskewer the beef onto the breads — or fold a bread in half around the meat on each skewer and remove the skewer. Sprinkle the diced cucumber, tomato, and onion over the meat and squeeze a little lemon juice on top. Spoon the Bengali Mango-Tamarind Barbecue Sauce on top, or use it as a dipping sauce. Serve at once.
 
 #### C. Grocery Shopping List
 

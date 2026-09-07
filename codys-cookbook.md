@@ -1240,7 +1240,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§14.33 Baked Apples](#1433-baked-apples) *(The Meathead Method)* | 🟡 | 15 min | 30 min | — | 45 min |
 | [§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) *(The Meathead Method)* | 🟢 | 20 min | 25 min | — | 45 min |
-| [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 35 min | — | 2 hr *(includes a 1–2 hr dry brine)* |
+| [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 30–40 min | — | 2–3 hr *(includes the printed 1–2 hr dry brine)* |
 | [§5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) *(Meathead)* | 🟢 | 25 min | 20 min | — | 45 min |
 | [§14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) | 🟡 | 25 min | 20 min | — | 1 hr |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
@@ -30725,39 +30725,40 @@ Pull the shrimp off the grill and brush them generously with Thai sweet chili sa
 
 ### 7.118 Simon & Garfunkel Chicken
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter, opening it. Built on this cookbook's existing **[§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub)** (the herb-forward "parsley, sage, rosemary, and thyme" blend) — per the book, *"it allows the natural flavors to shine. This is my favorite weeknight chicken recipe, and I never get tired of it."*
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter (book pp. 297–298), its first recipe. Built on this cookbook's existing **[§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub)** — per the book, *"Simon & Garfunkel Rub is an herb-based rub that is great on chicken. It allows the natural flavors to shine. This is my favorite weeknight chicken recipe, and I never get tired of it."*
+
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 297–298 (second-pass QC).** All three ingredient lines (1 (3- to 4-pound) chicken; 1½ teaspoons kosher salt; 2 tablespoons Simon & Garfunkel Rub, page 168) and every temperature (325°F indirect, about 145°F to move over direct heat, 160°F white meat, 165°F dark meat) are exact. **Two departures from the page are fixed:** the entry carried an unprinted **Step 4, "Let the chicken rest a few minutes, then serve"** — the page has three steps and ends with the finished pieces waiting on the indirect side; the rest is struck (it also runs against the book's own no-rest rule, [§T81](#t81-cooking-the-perfect-turkey)). And the printed **MAKES 3 or 4 servings · TAKES 1 or 2 hours to dry brine and 30 to 40 minutes to cook** line was never restated; it is now, and the badge follows it (start to finish 2–3 hours, not 2). The ingredient line's "cut into 6 parts" qualifier is the page's Step 1, not its ingredient list, and moves back there. Salt unchanged at 1½ teaspoons. Nothing illegible.
 
 **Techniques used:** [§T29 How to Salt](#t29-how-to-salt) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(breaking down the bird)* · [§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) *(target temps)*
 
-**🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** *(two-zone: indirect until 145°F, then a final direct sear)* · **Start to finish ~2 hr** *(includes a 1–2 hr dry brine)*
+**Makes 3 or 4 servings · Takes 1 or 2 hours to dry brine and 30 to 40 minutes to cook** *(as printed)*
+
+**🟢 Easy** · **Prep ~10 min** *(cookbook estimate — the page prints only the brine and cook times)* · **Cook 30–40 min** *(as printed; two-zone — indirect until about 145°F, then a direct-heat finish)* · **Start to finish ~2–3 hr** *(includes the printed 1-to-2-hour dry brine)*
 
 > **Why Easy.** The bird spends most of its time on the cool, forgiving indirect side, and only moves to direct heat once it's already most of the way done — a short, closely watched finish rather than a long unattended sear. Nothing here can go from perfect to ruined the way a broken sauce or a scorched roux can.
 
 #### A. Ingredients
 
-- 1 (3- to 4-pound) chicken, cut into 6 parts (2 breasts, 2 wings, 2 leg-thigh combos) — see [§T77](#t77-tips-on-cooking-poultry) for breaking down a whole bird
+- 1 (3- to 4-pound) chicken
 - 1½ teaspoons kosher salt
 - 2 tablespoons Simon & Garfunkel Rub ([§4.109](#4109-simon--garfunkel-rub))
 
 #### B. Cooking Instructions
 
 **1. Prep.**
-Cut the backbone out of the chicken (or buy it already cut up) and cut the bird into six parts: two breasts, two wings, and two leg-thigh combos. Sprinkle the chicken all over with the salt and dry brine it in the fridge for 1 to 2 hours ([§T29](#t29-how-to-salt)). Just before cooking, dampen the pieces with a little water and gently work the rub into the meat so it adheres.
+Buy cut-up chicken or cut it up yourself ([§T77](#t77-tips-on-cooking-poultry)). Cut the backbone out of the chicken and then cut the bird into six parts: breasts, wings, and drum-with-thigh combo. Sprinkle the chicken with salt and dry brine in the fridge for 1 to 2 hours ([§T29](#t29-how-to-salt)). Then dampen the chicken parts with a little water and gently work the rub into the meat.
 
 **2. Fire up.**
-Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the indirect side to about 325°F.
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 325°F on the indirect side.
 
 **3. Cook.**
-Place the chicken parts skin side up on the indirect side and close the lid. Let them brown on the bottom — check that they're not burning, but you probably won't need to flip them here. Once the meat hits about 145°F, move the pieces over to direct heat, skin side down, lid up, flipping every minute or two so both sides color without burning. Pull the white meat (breasts, wings) at 160°F and the dark meat (legs, thighs) at 165°F ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)), moving each finished piece back to the indirect side to hold while the rest catch up.
-
-**4. Serve.**
-Let the chicken rest a few minutes, then serve.
+Place the chicken parts on the indirect side, skin side up, and close the lid. Let them get nice and brown on the bottoms, but check to make sure they're not burning. You probably won't need to flip them. When the meat hits about 145°F, move them over high direct heat, skin down, with the lid up. Flip every minute or two so both sides get good and dark, but don't allow them to burn. As the white meat pieces hit 160°F and the dark meat pieces hit 165°F ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)), move them back to the indirect heat side to wait for the others to finish.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Whole chicken (3–4 lb), cut into 6 parts (or have the butcher do it) — 1
+- 🛒 Whole chicken (3–4 lb) — 1, bought cut up or cut up yourself
 - 🛒 Kosher salt
 
 *Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
@@ -30767,7 +30768,7 @@ Let the chicken rest a few minutes, then serve.
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole dish** | ~1,900 | 140 g | 160 g | 2 g | 1 g |
-| **Per serving** *(serves 4)* | ~475 | 35 g | 40 g | <1 g | <1 g |
+| **Per serving** *(serves 4; the source says 3 or 4)* | ~475 | 35 g | 40 g | <1 g | <1 g |
 
 **What a serving is:** a quarter of the cut-up chicken — one breast or one leg-thigh piece, plus a wing. A normal dinner portion.
 
@@ -30777,9 +30778,11 @@ Let the chicken rest a few minutes, then serve.
 
 ### 7.119 Big Bob Gibson's Chicken in 'Bama White Sauce
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter, credited to **Big Bob Gibson Bar-B-Q** in Decatur, Alabama, where whole smoked chickens are dipped in a bucket of the house's own white barbecue sauce. **Uses this cookbook's existing [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce)** (Raichlen's *How to Grill* transcription of the same Big Bob Gibson sauce, already in this cookbook — the source's own text traces its recipe to the very same restaurant, so this is the same sauce family rather than a second, competing one).
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter (book p. 301), credited to **Big Bob Gibson Bar-B-Q** in Decatur, Alabama — per the page, *"they smoke chickens and dip them in a bucket of white barbecue sauce. It is not like any barbecue sauce you have ever tasted, and it has become a major thang in Alabama."* The page calls for **1½ cups Alabama White Sauce (its page 181)** — that page isn't in the scan, so the sauce comes from this cookbook: **[§4.172 Alabama White Sauce](#4172-alabama-white-sauce)** is Meathead's own recipe (from *The Meathead Method*, the sauce this cookbook settled on for the name — see that entry's cross-book note), and **[§4.37 White Barbecue Sauce](#437-white-barbecue-sauce)** (Raichlen's transcription of the same Big Bob Gibson sauce) is the alternative. Either one; both make about 1¾ cups, enough for the 1½ cups called for.
 
 > ✅ **The flagged chicken weight is resolved.** The 2026-09-06 page-order audit re-read book p. 301 at full resolution: the source prints **"1 (3- to 4-pound) chicken."** The earlier "1½ to 4-pound" reading was a photo artifact, and the flag has been removed. **The serving step was also wrong** and is corrected below — the source **paints** the chicken generously with the sauce on all sides and serves immediately; it does not serve the sauce alongside for dipping.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 301 (second-pass QC).** All three ingredient lines, all three steps, and every figure (225°F, about 145°F, 160°F; MAKES 3 or 4 servings; TAKES 10 minutes to prep, about 45 minutes to cook) are as printed. **Three small things fixed:** the "Why Easy" note quoted a color target, *"dark brown, not black,"* that this page never prints — it belongs to Cornell Chicken on p. 302 — and is struck; the shopping list said a 3½-to-4-pound chicken where the page says 3 to 4 pounds; and the sauce cross-reference now points at Meathead's own [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) (the page's "Alabama White Sauce, page 181") with [§4.37](#437-white-barbecue-sauce) kept as the alternative. The ingredient line's "cut into 6 parts" is the page's Step 1, not its ingredient list. Nothing illegible.
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(breaking down the bird)*
 
@@ -30787,33 +30790,33 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟢 Easy** · **Prep ~10 min** *(+ a ~2 hr salt soak)* · **Cook ~45 min** · **Start to finish ~3 hr**
 
-> **Why Easy.** A low-and-slow smoke to 145°F, then a direct-heat finish to 160°F with a wide color target ("dark brown, not black") rather than a narrow one — there's no single moment here that can go from perfect to ruined.
+> **Why Easy.** A low-and-slow smoke to about 145°F, then a direct-heat finish to 160°F, with each piece temped on its own — there's no single moment here that can go from perfect to ruined.
 
 #### A. Ingredients
 
-- 1 (3- to 4-pound) chicken, cut into 6 parts (2 drumstick-thigh combos, 2 breasts, 2 wings)
+- 1 (3- to 4-pound) chicken
 - Kosher salt and freshly ground black pepper
-- 1½ cups White Barbecue Sauce ([§4.37](#437-white-barbecue-sauce)) — the source's own "Alabama White Sauce"
+- 1½ cups Alabama White Sauce ([§4.172](#4172-alabama-white-sauce); or [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce))
 
 #### B. Cooking Instructions
 
 **1. Prep.**
-Cut the chicken into 6 parts: two drumstick-thigh combos, two breasts, and two wings ([§T77](#t77-tips-on-cooking-poultry)). Sprinkle the pieces liberally with salt and pepper on both sides and let the salt soak into the meat in the fridge for a couple of hours.
+Cut the chicken into 6 parts: 2 drumstick and thigh combos, 2 breasts, and 2 wings ([§T77](#t77-tips-on-cooking-poultry)). Sprinkle the pieces liberally with salt and pepper on both sides. Let the salt soak into the meat in the fridge for a couple of hours.
 
 **2. Fire up.**
-Get the smoker up to 225°F, or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 225°F on the indirect side. Get some smoke rolling.
+Get your smoker up to 225°F or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 225°F on the indirect side. Get some smoke rolling.
 
-**3. Cook, then sauce.**
-Place the chicken skin side up on the indirect side of the grill. **Check the temperature of each piece independently, because they will cook at different rates.** When all the parts hit about 145°F, move the pieces to the hot side of the grill, skin side down. When they reach **160°F**, paint them generously on all sides with the sauce. **Serve immediately.**
+**3. Cook.**
+Place the chicken skin side up on the indirect side of the grill. **Check the temperature of each piece independently because they will cook at different rates.** When all parts hit about 145°F, move the pieces to the hot side of the grill, skin side down. When they reach **160°F**, paint them generously on all sides with the sauce. **Serve immediately.**
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Whole chicken (3½–4 lb), cut into parts — 1
+- 🛒 Whole chicken (3–4 lb) — 1
 - 🛒 Kosher salt, black pepper
 
-*White Barbecue Sauce ingredients already documented at [§4.37](#437-white-barbecue-sauce).*
+*Alabama White Sauce ingredients already documented at [§4.172](#4172-alabama-white-sauce) (or [§4.37](#437-white-barbecue-sauce)).*
 
 #### Nutrition *(estimated)*
 

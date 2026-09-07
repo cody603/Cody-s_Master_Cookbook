@@ -29592,6 +29592,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ⚠️ **The salt was wrong and has been corrected to the printed amount.** The earlier transcription listed 2 tablespoons of kosher salt; the source prints **1 teaspoon**. Per [CLAUDE.md §6](CLAUDE.md), salt amounts are never altered from the source. The yield was also wrong (2 quarts, not 6), and the button mushrooms were missing from the ingredient list entirely.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 220–221 (second-pass QC) — correct as written.** All ten ingredient lines — **1 teaspoon kosher salt** confirmed on the page, plus 5 lb bones, 4 carrots, 3 onions, 2 celery stalks with leaves, 3 garlic cloves, 4 button mushrooms, 1 Tbsp pepper, 2 tsp sugar, 2 Tbsp ginger optional — MAKES 2 quarts / TAKES 5 to 6 hours, 325°F with white smoke, the 1-hour smoke-roast, 1½ gallons of water, the 4-to-5-hour reduce-by-half simmer, the 2-week / 6-month storage, and the p. 221 Note (3-to-4-inch chunks, femurs split lengthwise) all match; four steps in printed order. Step 3's "the mushrooms, salt, pepper, sugar, and ginger" is this cookbook's gloss on the page's *add the rest of the ingredients*, and is accurate. No change.
+
 **Makes 2 quarts · Takes 5 to 6 hours** *(as printed)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr** *(smoke-roasting the bones and vegetables at 325°F)* · **Slow cook 4–5 hr** *(bare simmer, unattended)* · **Start to finish ~5–6 hr**
@@ -29663,6 +29665,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan. The original transcription was reconstructed from a rotated photo and got several printed quantities and steps wrong; everything below now matches the printed page exactly.
 
 > **What changed:** the earlier transcription used pork belly alone. **The printed recipe uses both — 3 pounds of pork shoulder *and* ¾ pound of pork belly** — smoked together, with the shoulder shredded and the belly sliced. It also restores the 6 sliced button mushrooms and corrects **nori** (the earlier version said kombu), plus every printed quantity.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 221–222 (second-pass QC) — correct as written.** All fifteen ingredient lines (3 lb shoulder, ¾ lb belly in a whole slab, 2 tsp salt plus more for the broth, 2 tsp each pepper / garlic powder / onion powder, 2 quarts broth, 6 mushrooms, 1 lb ramen, 4 pasteurized eggs, 4 green onions, 4 nori squares, 4 radishes, 1 jalapeño, ½ cup cilantro), MAKES 4 large bowls / TAKES 8 hours, 225°F, the 1-inch water pan, 203°F in 4 to 6 hours, ¼-inch belly squares, the 5-to-6-minute cup-poached eggs, 1½ to 2 cups broth, 3 or 4 Tbsp pork, and 2 belly slices per bowl, and all three NOTES match the page; eight steps in printed order. The 2026-09-06 shoulder-and-belly correction is confirmed on the page. No change.
 
 **Makes 4 large bowls · Takes 8 hours** *(as printed)*
 
@@ -32787,13 +32791,15 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > 🔎 **Recovered by the 2026-09-06 page-order audit of this scan.** The original Pork batch read the headnote on book p. 207, found no recipe box beneath it, and filed the whole thing as a prose technique note at [§T64](#t64-hot-and-fast-ribs-dreamland-style--the-philosophy) with an explicit "no ingredient list or numbered steps" caveat. **The recipe box was there all along, two pages later.** Because this is a photographed book, the file order doesn't match the book's page order: p. 207 sits at PDF index 8, but the MAKES/TAKES line, the four-item ingredient list, and Steps 1–2 are on **p. 209 at index 9**, and Steps 3–4 finish at the top of **p. 210 at index 10**. Nothing here is inferred — every quantity and step below is read straight off those two pages.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 207, 209–210 (second-pass QC).** The four printed ingredient lines (1 rack spareribs or center-cut ribs, 1 tsp kosher salt, 1 tsp coarsely ground black pepper, ¾ cup barbecue sauce), MAKES 2 / TAKES 2 hours, the 1-to-3-hour lead on the seasoning, coals 2 deep under white ash, logs a third of a baseball bat or 4 fist-size chunks, lid off, turned every 5 to 10 minutes, more wood every 30 minutes or so, bronze after 1 hour or so, the bend test, meat side down until the fatty spots verge on blackening, and the sauce painted on at the end are exactly as printed; four steps in printed order. **One fix:** the sauce line is simply *¾ cup barbecue sauce* — the page names no sauce and says nothing about a sweet red one; the Kansas City Classic pointer is now labeled as this cookbook's suggestion. No salt quantity changed; nothing illegible.
+
 **Makes 2 servings · Takes 2 hours** *(as printed)*
 
 **Techniques used:** [§T64 Hot-and-Fast Ribs — the Philosophy](#t64-hot-and-fast-ribs-dreamland-style--the-philosophy) · [§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) · [§T58 The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs)
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~1 hr 15 min** *(hot direct-adjacent embers, turned every 5 to 10 minutes the whole time)* · **Start to finish ~2 hr** *(the salt and pepper go on 1 to 3 hours before cooking — lead time, not work)*
 
-> ⚠️ **Why Medium, when [§7.97 Last-Meal Ribs](#797-last-meal-ribs) is Easy.** This is the rare rib recipe you genuinely cannot walk away from. The meat sits over live embers rather than in a 225°F indirect zone, and the source's own instruction is to **turn it every 5 to 10 minutes, watching to make sure it browns but does not burn** — the whole hour. Add a sugary mop in the last stretch and there's a real perfect-to-ruined window here, which is exactly what a low-and-slow rack doesn't have. Length isn't what makes this one harder; attention is.
+> ⚠️ **Why Medium, when [§7.97 Last-Meal Ribs](#797-last-meal-ribs) is Easy.** This is the rare rib recipe you genuinely cannot walk away from. The meat sits over live embers rather than in a 225°F indirect zone, and the source's own instruction is to **turn it every 5 to 10 minutes, watching to make sure it browns but does not burn** — the whole hour, and then a final meat-side-down stretch *until the fatty spots verge on blackening*. That's a real perfect-to-ruined window, which is exactly what a low-and-slow rack doesn't have. Length isn't what makes this one harder; attention is.
 
 > 🔥 **You need the right rig, and it isn't a gas grill.** Per [§T64](#t64-hot-and-fast-ribs-dreamland-style--the-philosophy): a **charcoal or wood-burning** grill, with a way to get the meat **at least 24 inches above the coals**. A bullet smoker like a Weber Smokey Mountain works if you pull the water pan and cook on the top grate; a campfire with a grate suspended over it works too. Bring **long-handled tongs** — the cooker belches smoke every time you toss wood on.
 
@@ -32802,7 +32808,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 rack spareribs or center-cut ribs
 - 1 teaspoon kosher salt
 - 1 teaspoon coarsely ground black pepper
-- ¾ cup barbecue sauce *(a sweet red sauce suits this best — [§4.117 Kansas City Classic](#4117-kansas-city-classic-barbecue-sauce))*
+- ¾ cup barbecue sauce *(the page names no sauce — this cookbook's suggestion is [§4.117 Kansas City Classic](#4117-kansas-city-classic-barbecue-sauce))*
 
 #### B. Cooking Instructions
 

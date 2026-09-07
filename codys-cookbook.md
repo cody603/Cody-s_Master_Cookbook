@@ -1399,7 +1399,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) | 🟢 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§7.141 Championship Chicken](#7141-championship-chicken) *(The Meathead Method)* | 🟡 | 20 min | 2 hr | — | ~5 hr 20 min *(includes 3 hr uncovered in the fridge)* |
-| [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
+| [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 36 hr** *(broth simmer, sous vide)* | 2 days |
 | [§8.44 Courtbouillon](#844-courtbouillon) | 🟡 | 20 min | 2 hr *(1 hr of it an unattended simmer)* | — | 2 hr 20 min |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 2 hr 10 min *(mostly unattended reduction)* | — | 2 hr 30 min |
@@ -1510,7 +1510,7 @@ Cody's own method, taken down from his walkthrough. A salty, five-spice-forward 
 
 **Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)
 
-**🟢 Easy** · **Prep ~2 hr** · **Cook ~20 min** · **Slow cook ~5 hr + 24–36 hr** *(broth simmer, plus sous vide)* · **Start to finish 2 days** *(the chuck goes in the water bath 1–2 days ahead — plan backward from dinner)*
+**🟢 Easy** · **Prep ~2 hr** · **Cook ~20 min** · **Slow cook ~5 hr + 36 hr** *(broth simmer, plus sous vide — 36 hr is the house standard; 24–48 hr is the allowable window)* · **Start to finish 2 days** *(the chuck goes in the water bath a day and a half ahead — plan backward from dinner)*
 
 **❤️ Family favorite** — *Cody: "Love it."*
 
@@ -1534,7 +1534,7 @@ Cody's own method, taken down from his walkthrough. A salty, five-spice-forward 
 - Chinese five spice — used **liberally, in two stages**
 - Chicken broth — 3 × 2 qt (or 6 × 1 qt)
 - Chicken **bone** broth — 1 × 2 qt (or 2 × 1 qt)
-- Oxtail — a hefty amount; the thick vertebrae cuts
+- Oxtail — 1–2 lb, the thick vertebrae cuts *(Cody's rough guess — "maybe a pound or two, not really sure")*
 - Fish sauce — to taste; **this is your salt**
 - Oyster sauce — a few good glugs
 - Rice vinegar — to taste
@@ -1572,8 +1572,8 @@ Cut the roasts into large chunks that fit your bags. The rub is deliberately sim
 - **Jalapeño.** Its whole value is the raw, sharp bite. That's a fresh-station job.
 - **Any liquid.** Dry rub straight on the meat — liquid dilutes the seasoning and fights the vacuum seal.
 
-**2. Bag and sous vide at 131–133°F for 24–36 hours.**
-Chuck gets tender faster than brisket and slices thinner, which is exactly what you want here. 24 hours will get you there; 36 is better if you have the time. *Do not run this at 129°F.* Below 130°F, bacteria like *C. perfringens* can still grow — fine for a three-hour cook, not for one measured in days. At 131–133°F you're still solidly medium-rare, it still slices beautifully, and collagen breaks down **faster**. You give up nothing and close a real risk. *(If you ever go back to brisket: same temperature, but give it the full 48 hours.)*
+**2. Bag and sous vide at 131–133°F for 36 hours.**
+Chuck gets tender faster than brisket and slices thinner, which is exactly what you want here. **36 hours is the house standard** (✅ 2026-09-07 per Cody). The allowable window is 24–48 hours — 24 will get you there in a pinch and 48 is the ceiling — but 36 is where Cody runs it. *Do not run this at 129°F.* Below 130°F, bacteria like *C. perfringens* can still grow — fine for a three-hour cook, not for one measured in days. At 131–133°F you're still solidly medium-rare, it still slices beautifully, and collagen breaks down **faster**. You give up nothing and close a real risk. *(If you ever go back to brisket: same temperature, but give it the full 48 hours.)*
 
 **3. Broth day — get the pan hot first, then add the oil.**
 Heat the pan before the olive oil goes in, then just a thin film across the bottom. Oil into a cold pan sits and soaks; oil into a hot pan shimmers immediately and you can start cooking on it.
@@ -1634,7 +1634,7 @@ Thai basil, mint, bean sprouts, jalapeño, a hard squeeze of lime, sriracha. Eac
 - ☯️ Thai basil — 2 large containers
 - ☯️ Fresh mint — 1 container
 - ☯️ Bean sprouts — large bag *(shredded cabbage if no sprouts)*
-- ☯️ Oxtail — a hefty amount
+- ☯️ Oxtail — 1–2 lb *(Cody's rough guess)*
 - ☯️ Chinese five spice
 - ☯️ Fish sauce
 - ☯️ Oyster sauce
@@ -1661,9 +1661,9 @@ Thai basil, mint, bean sprouts, jalapeño, a hard squeeze of lime, sriracha. Eac
 
 Dial these in as you cook and they get folded into the recipe.
 
-- Exact oxtail weight — how much is "a hefty amount"?
+- ✅ 2026-09-07 per Cody: oxtail is *"maybe a pound or two, I'm not really sure"* — written up as 1–2 lb, and kept labeled as his rough guess until a batch pins it down.
 - Did 4 hours of simmer feel right, or does it want 5?
-- Chuck at 24 vs. 36 hours — where's the sweet spot?
+- ✅ 2026-09-07 per Cody: the chuck roast is a **36-hour** sous vide — now the stated house standard; 24–48 hr stays the allowable window.
 - Did the chuck slice as thin as you wanted?
 
 #### Nutrition *(estimated)*
@@ -14530,7 +14530,7 @@ Using the same whisk, start whisking like your life depends on it. Then, just li
 The colander is the whole setup — it's what lets you rinse without transferring anything, and the sink is where the smell goes.
 
 **2. Crack whole raw eggs over the top and mix it through by hand.**
-Whole eggs, cracked straight over — not just whites. Enough to coat everything; toss until every piece is covered.
+Whole eggs, cracked straight over — not just whites. Enough to coat everything; toss until every piece is covered. **Working number, per Cody: about 5 eggs per 10 lb of shrimp** — roughly 1 egg per 2 lb, so a couple of eggs for a normal weeknight bag and five or six for a shrimp-boil sack.
 
 **3. Let it sit. 7 to 15 minutes, scaled to how fishy it smelled.**
 Unattended. Don't run past 15 — see the warning above.
@@ -14564,20 +14564,20 @@ When the seafood is headed into a batter or a dredge that uses egg anyway, the c
 
 **🛒 General grocery**
 
-- 🛒 Eggs — *the whole technique; whole eggs, not just whites*
+- 🛒 Eggs — *the whole technique; whole eggs, not just whites — about 5 per 10 lb of shrimp*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Rinsed off** *(the standard case)* | ~0 | 0 g | 0 g | 0 g | 0 g |
-| **Left on for frying** *(per ~1 lb seafood)* | ~72 | 5 g | 6 g | 0.4 g | 0 g |
+| **Left on for frying** *(per ~1 lb seafood, at Cody's ½ egg per pound)* | ~36 | 2.5 g | 3 g | 0.2 g | 0 g |
 
 **What a serving is:** not a dish, and in the normal case not even an ingredient — the egg is rinsed down the drain before cooking, so it contributes nothing to the finished plate. The second row applies only when the coat stays on as part of a fry batter.
 
 #### F. Open Questions
 
-- **How many eggs per pound?** Cody's instruction is "crack raw eggs over the top" and coat everything, which is by feel rather than by measure. A working number would help scale it for a big shrimp boil.
+- ✅ 2026-09-07 per Cody: **about 5 eggs per 10 lb of shrimp** — *"usually for like 10 pounds of shrimp you can get away with five eggs or so."* Scale proportionally (roughly 1 egg per 2 lb); it's still by feel, so add one if the seafood isn't fully coated.
 - **Does the timing shift by protein?** 7–15 minutes is established for shrimp. Whether a thick salmon fillet — far less surface area per pound — wants the same window, or longer, isn't settled.
 - **Cold water rinse only?** Assumed, since warm water would start setting the egg onto the seafood. Worth confirming.
 
@@ -18597,7 +18597,7 @@ Printed from lifesambrosia.com. A cold, make-ahead pasta salad — crisp bacon, 
 - ½ tsp pepper
 - 1½ tsp dried dill
 - 1 container cherry tomatoes, halved
-- 1 to 2 avocados, pitted and sliced
+- 1 to 2 avocados, pitted and sliced — **added just before serving, after the chill**
 
 #### B. Cooking Instructions
 
@@ -18608,9 +18608,10 @@ Cook the rotini per the package directions, strain, and run cold water over it r
 Mayonnaise, lemon juice, salt, garlic powder, pepper, and dried dill, whisked together in a bowl.
 
 **3. Toss everything together and chill. 30 minutes.**
-Stir the cooled pasta, cherry tomatoes, sliced avocado, and the bacon bits into the dressing. Toss to combine, then refrigerate for 30 minutes before serving — this isn't optional resting, it's what lets the dressing coat everything and the flavors settle.
+Stir the cooled pasta, cherry tomatoes, and the bacon bits into the dressing — **not the avocado yet.** Toss to combine, then refrigerate for 30 minutes before serving — this isn't optional resting, it's what lets the dressing coat everything and the flavors settle.
 
-**4. Serve cold.**
+**4. Add the avocado, then serve cold.**
+Slice the avocado only now, after the chill, and fold it in gently right before the salad goes on the table. Added before the rest it browns and goes mushy; added last it stays green and firm. The lemon juice is already in the dressing from Step 2 — that's where it belongs.
 
 #### C. Grocery Shopping List
 
@@ -18640,7 +18641,7 @@ Stir the cooled pasta, cherry tomatoes, sliced avocado, and the bacon bits into 
 
 #### D. Open Questions
 
-- The avocado is sliced in per the card, which browns fast in a make-ahead salad chilled 30 minutes — worth noting whether Cody tosses it with a little extra lemon juice first, or adds it right before serving instead of before the chill.
+- ✅ 2026-09-07 per Cody: the lemon goes in the dressing (Step 2), and the avocado is added just before serving, after the chill (Step 4) — not tossed in before the 30-minute rest. Steps rewritten to match.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -22284,7 +22285,7 @@ Transfer the ribs to a clean cutting board. Mop on both sides with the mop sauce
 
 **❤️ Family favorite** — *Cody: "A family favorite."*
 
-> **📌 One judgment call, flagged rather than silently assumed: the pork goes in plain here, not sauced.** §6.2's own recipe finishes by stirring 1 to 1½ cups of [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) into the shredded pork before serving. For these tacos, that step is skipped — the pork goes in straight off the smoker, since the dish already carries its own sauce ([§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought)) plus fresh jalapeño, onion, cilantro, and lime, and a vinegar-forward Carolina barbecue sauce would compete with those flavors rather than complement them. If Cody prefers the NC-sauced version in the tacos instead, just use §6.2's pork as finished — everything else below is unchanged.
+> **✅ 2026-09-07 per Cody — settled, no longer a judgment call: no barbecue sauce goes into this pulled pork. None.** §6.2's own recipe finishes by stirring 1 to 1½ cups of [§4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) into the shredded pork before serving; for these tacos that step is skipped and the pork goes in plain, straight off the smoker. The only sauce is [§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought), and it is **added to each taco individually at the table — never stirred into the meat.** In Cody's words: *"there's no sauce added to this pulled pork, as in no barbecue sauce is added; however the street taco sauce is something that you add to the tacos individually."*
 
 **Yield:** 20 tacos — **feeds a family**, sized so the adults can eat like adults: figure 2 adults at up to 5 tacos each (10) plus 2 to 3 kids at 2 to 3 tacos each (6 to 9), with a couple spare. **Scale the whole batch up or down from there by headcount** — the 2 oz-per-taco pork figure and topping ratios below hold at any size.
 
@@ -22296,18 +22297,18 @@ Transfer the ribs to a clean cutting board. Mop on both sides with the mop sauce
 
 *No exact quantities were dictated, so this batch is built on typical street-taco proportions — small tortillas, a light fill, and a generous hand with the fresh toppings — scaled to a real family portion rather than an appetizer-size one. Scale up or down by the same ratios for a bigger or smaller crowd.*
 
-- 2½ lb [§6.2 Pulled Pork](#62-pulled-pork), plain and warm (see the note above) — about 2 oz per taco
+- 2½ lb [§6.2 Pulled Pork](#62-pulled-pork), plain and warm — **no barbecue sauce in it** (see the note above) — about 2 oz per taco
 - 40 small (4 to 5 inch) corn tortillas, doubled per taco, or 20 six-inch flour tortillas
 - 1½ medium onions (white or yellow), finely diced (about 1¼ cups) — about 1 Tbsp per taco
 - ¾ cup fresh cilantro, chopped — about 2 tsp per taco
 - 3 to 4 jalapeños, thinly sliced — 2 to 3 slices per taco
-- 1 cup [§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought), any flavor, for drizzling *(roughly one bottle)* — about 2 tsp per taco
+- 1 cup [§4.98 Herdez Street Taco Sauce](#498-herdez-street-taco-sauce-store-bought), any flavor, for drizzling **on each taco individually — it never goes into the pork** *(roughly one bottle)* — about 2 tsp per taco
 - 5 limes, cut into wedges
 
 #### B. Cooking Instructions
 
-**1. Rewarm the pork, if it was made ahead.**
-A covered skillet over medium-low heat with a splash of water works well, or a low oven.
+**1. Rewarm the pork, if it was made ahead — plain, with nothing added.**
+A covered skillet over medium-low heat with a splash of water works well, or a low oven. **No barbecue sauce goes into the pork**, now or at any point — it stays plain, and the sauce comes later, one taco at a time.
 
 **2. Heat the tortillas properly — this step isn't optional.**
 Warm the tortillas on a dry skillet or comal, or directly over a gas flame, a few seconds per side, until soft, pliable, and lightly toasted in spots. A cold, stiff tortilla tears and tastes like nothing — this is the single biggest thing separating a real street taco from a mediocre one. Stack warmed tortillas in a clean kitchen towel to keep them soft and hot until serving.
@@ -22315,8 +22316,8 @@ Warm the tortillas on a dry skillet or comal, or directly over a gas flame, a fe
 **3. Build the tacos.**
 Double up the corn tortillas (or use one flour tortilla per taco). Top each with about 2 oz pulled pork, then 1 Tbsp diced onion, 2 tsp chopped cilantro, and 2 to 3 jalapeño slices.
 
-**4. Sauce and finish.**
-Drizzle each taco with about 2 tsp Herdez Street Taco Sauce and a squeeze of fresh lime. Serve immediately, with extra lime wedges and sauce on the side.
+**4. Sauce each taco individually, then finish.**
+The Herdez Street Taco Sauce goes **on the tacos, not in the pork**: drizzle each built taco with about 2 tsp and a squeeze of fresh lime. Serve immediately, with extra lime wedges and the sauce bottle on the table so everyone doses their own.
 
 #### C. Grocery Shopping List
 
@@ -22326,7 +22327,7 @@ Drizzle each taco with about 2 tsp Herdez Street Taco Sauce and a squeeze of fre
 - 🛒 Fresh cilantro — ¾ cup chopped
 - 🛒 Jalapeños — 3 to 4
 - 🛒 Corn tortillas — 40 small, or 20 six-inch flour tortillas — the good ones, not the cheapest on the shelf
-- 🛒 Herdez Street Taco Sauce, any flavor — 1 cup, roughly one bottle ([§4.98](#498-herdez-street-taco-sauce-store-bought))
+- 🛒 Herdez Street Taco Sauce, any flavor — 1 cup, roughly one bottle ([§4.98](#498-herdez-street-taco-sauce-store-bought)) *(goes on each taco, not in the pork)*
 - 🛒 Limes — 5
 - Plus [§6.2 Pulled Pork](#62-pulled-pork) — 2½ lb needed here; see its own grocery list
 
@@ -22498,7 +22499,7 @@ As is, or topped with a sauce — see Part E.
 #### D. Open Questions
 
 - ~~Basic Seafood Stock (page 32) — the same gap as §7.20 and §8.5.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
-- **550°F is unusually hot** — hotter than many home ovens will go, and hotter than most will hold cleanly. Worth confirming what Cody's oven actually did on 12/5/14, and whether a lower temperature for longer worked.
+- ✅ 2026-09-07 per Cody: **keep the recipe as written** — the 550°F finish stands, and the handwritten comment on the card about the oven temperature is to be disregarded. *(Practical note only: if your oven tops out below 550°F, use its maximum and give the fish a few more minutes; that's a workaround, not a change to the recipe.)*
 - ~~The three finishing sauces — two down, one to go.~~ **Settled 2026-08-09 — all three are done.** [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), [§4.9 Hollandaise](#49-hollandaise-sauce), and [§4.10 Béarnaise](#410-new-orleans-béarnaise-sauce) are all written up. *(Jarred hollandaise is used in [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) if you'd rather not make §4.9 from scratch.)*
 
 #### E. Serving Suggestions
@@ -34158,7 +34159,7 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 
 ### 8.1 Chili Mac
 
-Transcribed from Cody's photographed recipe card — a crock-pot chili built on a beef-or-venison and pork sausage base, served over noodles. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody's own distinction: "chili can stand alone, but chili mac is its own thing that includes chili."** Plain chili is its own dish; this recipe builds noodles right in, which makes it chili mac specifically, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
+Transcribed from Cody's photographed recipe card — a crock-pot chili built on a **50/50 mix of deer (or beef) and pork sausage**, served over noodles. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody's own distinction: "chili can stand alone, but chili mac is its own thing that includes chili."** Plain chili is its own dish; this recipe builds noodles right in, which makes it chili mac specifically, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Slow cook 4 hr** *(crock pot)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands)*
 
@@ -34166,8 +34167,10 @@ Transcribed from Cody's photographed recipe card — a crock-pot chili built on 
 
 #### A. Ingredients
 
-- 1 lb beef or venison (deer)
+- 1 lb ground venison (deer) or ground beef
 - 1 lb pork sausage
+
+*The meat is a 50/50 mix — deer and pork sausage, or beef and pork sausage — ✅ 2026-09-07 per Cody, who says this applies to Chili Mac and any dish in this cookbook that includes chili. The pound-and-a-pound above is that split; scale both halves together.*
 - 1 onion, chopped
 - 2 cans diced tomatoes
 - 2 cans prepared chili
@@ -34180,7 +34183,7 @@ Transcribed from Cody's photographed recipe card — a crock-pot chili built on 
 #### B. Cooking Instructions
 
 **1. Brown the meat and onion.**
-Cook the beef (or venison) and pork sausage together with the chopped onion until browned.
+Cook the venison (or beef) and the pork sausage — **equal parts, 50/50** — together with the chopped onion until browned. The sausage carries fat and seasoning that lean deer meat doesn't have, which is why the split matters.
 
 **2. Move everything to the crock pot.**
 Add the browned meat and onion to the crock pot along with the diced tomatoes, prepared chili, black beans, and chili seasoning packet. Stir, cover, and let it go on low until everything's hot through and the flavors have come together.
@@ -34195,8 +34198,8 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 
 **🛒 General grocery**
 
-- 🛒 Beef or venison — 1 lb
-- 🛒 Pork sausage — 1 lb
+- 🛒 Ground venison (deer) or ground beef — 1 lb *(half the meat)*
+- 🛒 Pork sausage — 1 lb *(the other half — 50/50 with the deer or beef)*
 - 🛒 Onion
 - 🛒 Diced tomatoes — 2 cans
 - 🛒 Prepared chili — 2 cans
@@ -34220,7 +34223,7 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 #### D. Open Questions
 
 - No crock-pot time given on the card — confirm how long Cody runs it on low (a few hours is the placeholder assumption above).
-- Beef or venison — worth noting which one Cody used the "Yummie" time, if he remembers.
+- ✅ 2026-09-07 per Cody: the meat is a **50/50 mix — deer and pork sausage, or beef and pork sausage.** Either pairing is the house version; the 1 lb + 1 lb above is that split, so the Nutrition estimate is unchanged. **This rule applies to any dish that includes chili** — noted on [§8.21 Five-Way Chili](#821-five-way-chili) and [§8.36 Chili Dogs](#836-chili-dogs).
 
 ### 8.2 Soups
 
@@ -35755,6 +35758,8 @@ Ladle into heated bowls and garnish with toasted French bread croutons, snipped 
 
 ### 8.21 Five-Way Chili
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **This speculation is now resolved, and the answer is no:** when [§8.1 Chili Mac](#81-chili-mac) was transcribed and turned out to be exactly that layered spaghetti/chili/cheese/beans style, Cody had it renamed from a plain "Chili" rather than folded in here — so this Five-Way Chili placeholder is a genuinely separate, still-undocumented dish.
+>
+> **📌 Standing rule, ✅ 2026-09-07 per Cody — applies here when this gets written up:** any chili in this cookbook uses a **50/50 meat mix — deer and pork sausage, or beef and pork sausage** (see [§8.1 Chili Mac](#81-chili-mac)).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -36847,6 +36852,8 @@ Garnish with extra basil leaves and serve with your favorite bread.
 ### 8.36 Chili Dogs
 
 > *Placeholder — details forthcoming.* Per Cody, [§8.1 Chili Mac](#81-chili-mac) *"goes great for chili mac and chili dogs"* — this entry is for the chili-dog use specifically: hot dogs, buns, and §8.1's chili spooned over the top, plus whatever toppings (onion, cheese, mustard) round it out. Ingredients · Instructions · Grocery list all still to come.
+>
+> **📌 Standing rule, ✅ 2026-09-07 per Cody:** the chili on these dogs — §8.1's, or any chili in this cookbook — is built on a **50/50 meat mix: deer and pork sausage, or beef and pork sausage.**
 
 [↑ Table of Contents](#table-of-contents)
 

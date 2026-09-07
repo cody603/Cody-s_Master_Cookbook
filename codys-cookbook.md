@@ -542,10 +542,10 @@ Click any recipe to jump straight to it.
 - [9.25 Crabmeat Imperial](#925-crabmeat-imperial) ✅
 - [9.26 Mushroom Florentine](#926-mushroom-florentine) ✅
 - [9.27 Reuben](#927-reuben) ✅
-- [9.28 Char-Grilled Oysters](#928-char-grilled-oysters) ✅ *(⚠️ no directions on the source card — standard method used, see Open Questions)*
+- [9.28 Char-Grilled Oysters](#928-char-grilled-oysters) ✅ *(no directions on the source card — Drago's-style method and proportions are cookbook judgment, per Cody; sized for 6 dozen)*
 - [9.29 Deer Jerky](#929-deer-jerky) ✅ *(same seasoning system as [§9.6](#96-beef-jerky), on venison)*
 - [9.30 Muffelatta Poboy](#930-muffelatta-poboy) ✅ *(Cody's own spin, distinct from [§9.22](#922-tailgate-muffuletta-sandwich))*
-- [9.31 Quesadillas](#931-quesadillas) ✅ *(⚠️ no directions on the source card — standard method used; kid-friendly, per Cody)*
+- [9.31 Quesadillas](#931-quesadillas) ✅ *(no directions on the source card — stovetop method and amounts are cookbook judgment, per Cody; kid-friendly)*
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -634,6 +634,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-07 | **Cody's "use your judgment" items — thirteen gaps filled from credible recipe and extension sources, each labeled as cookbook judgment with its basis, per the [§13](#13-meathead-cookbook) rule.** Ingredients, steps, grocery, Nutrition, badge/index rows, and Open Questions updated in every entry; nothing of Cody's was removed. **[§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut)** — extension fermentation parameters written in (pack 1½–2 lb per quart, brine 1–2 in over, loose lid, 70–75°F for 3–4 wk, then refrigerate; spoilage signs; the vinegar is flavor, the salt brine preserves) from NCHFP / Penn State / Colorado State / UAF; **the yield line was wrong** — a gallon of the card's brine covers 10–12 tightly packed quarts, not 4–5, worked out from the 2–2.5% salt target; still refrigerator-finished, no canning. **[§4.7 Captain Mike's](#47-captain-mikes-seasoning)** — all ground (bay included), ½-cup batch with white pepper at ~20% (1½ Tbsp, equal to each salt), against Emeril's Essence and the Seafood Magic copycat. **[§4.89 Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)** — the "something else" is dried oregano (plus garlic, optional Dijon); Cody's lime kept, half the acid now red wine vinegar, lemon noted as the classic (Kitchn, Mediterranean Dish, Greek Foodie). **[§5.35 Cole Slaw](#535-cole-slaw)** — ½ cup mayo per 14-oz bag, Tony's from 1 tsp "until salty enough," 30–60 min chill (Food Network, Country Cook). **[§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs)** — two skewer types per Cody (chicken + pineapple 1:1, two pineapples; kielbasa + zucchini/onion/tomato/squash with the tomato quarters shielded between sausage rounds), medium-high 10–12 / 8–10 min, **marinate 4–6 hr, "overnight is fine" removed** (ATK, Food Network). **[§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) renamed Mediterranean Pork Tenderloin Platter** — Cody switched from loin to tenderloin; the "loin, not tenderloin" note is now a dated reversal; 3 tenderloins, sous vide 140°F for 1½ hr (1–4 hr window; Serious Eats/Kenji, Anova), seared whole then cubed, goat cheese 16–20 oz as a medium-thin bed, stuffed-cheese option dropped; TOC, index, Family Ratings, [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought), [§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning), [§5.23](#523-greek-salad-with-crumbled-goat-cheese), [§9.21](#921-dressed-up-hummus-with-garlic-naan), and the cuts index re-pointed to the new heading; a script confirms every anchor link in the book resolves. **[§8.32 Potato Soup](#832-potato-soup)** — full seven-step method and the missing amounts (6 cups broth, 8 oz cheddar, 8 slices bacon, ¼ cup cream, ½ tsp Tabasco to start; no boil after the dairy) from A Spicy Perspective, Southern Living, Taste of Home. **[§8.33 Mamma's Stew](#833-mammas-deerbeef-stew)** — eyeball-scale amounts for every ingredient (2½–3 lb meat, ~6 cups water, 4 carrots, 3 celery, 1½ lb potatoes, ½ head cabbage, 4–6 bouillon cubes, one 14.5-oz can tomatoes), venison 45 min before the potatoes, **cider vinegar 1 Tbsp with the tomatoes and up to 1 more at the finish** (Culinary Hill, Montana FWP, Hank Shaw). **[§9.6](#96-beef-jerky) / [§9.29 Jerky](#929-deer-jerky)** — rest 8–24 hr refrigerated; the dehydrator has no thermostat, so **every batch gets 10 min at 275°F after drying** (USDA FSIS, UC ANR, UMN, NDSU, MSU), bend test is the stop, ground jerky refrigerated; the ⅛ vs 1⅛ tsp black pepper stays open — Cody is verifying. **[§9.28 Char-Grilled Oysters](#928-char-grilled-oysters)** — rewritten for Cody's six-dozen minimum on Drago's proportions (2 lb butter, ¾ cup garlic, 8-oz Romano, ~1 Tbsp butter per oyster, hot open grill 4–5 min, 3–4 batches); "4 box" = 4 lb is right for 8–12 dozen, 2–3 lb for six; black pepper and oregano added as Drago's seasoning, all card items kept. **[§9.30 Muffelatta](#930-muffelatta-poboy)** — per-quarter proportions, and the cheese list corrected to ¼ lb provolone plus ¼ lb mozzarella to match Step 3 (Central Grocery, Kitchn). **[§9.31 Quesadillas](#931-quesadillas)** — ½ cup cheese and ⅓ cup beans per 10-in tortilla, medium heat 2–3 + 1–2 min; two bags of cheese for a bag of tortillas (Kitchn, Isabel Eats). **Canal House wording checks settled, none changing the cooked result:** [§7.40 Shrimp Risotto](#740-shrimp-risotto) (broth order kept), [§8.9 Duck Soup](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) (transitions kept; the shiitakes are now sliced and returned rather than discarded), [§8.11 Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) (Steps 2–3 now match an Omaha World-Herald reprint — fennel and Espelette rubbed into the flesh with the butter; ⚠️ downgraded), [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) (kept; "no wine or water goes in" added). Index rows re-sorted where prep + cook moved (§8.32, §8.33, §9.28). |
 | 2026-09-07 | **Cody's answers to the open-items sheet — the drops and the direct answers.** *(The "use your judgment" items are a separate pass.)* **Twenty reshoot requests closed as 🚫 not pursued**, each marked in place and listed once in [§12](#12-recipes-to-document)'s third 🚫 note: the [§T99 Warp scale](#t99-the-warp-heat-scale-the-meathead-method) definition, [§7.140](#7140-tandoori-chicken)'s Yogurt Marinade (p. 176; stand-in stays), **Tare Sauce** and **Cabbage Dressed in Honey Mustard** (§12 rows removed), [§7.133](#7133-clints-chuck-roast-sandwiches)'s garlic bread, [§T51](#t51-cooking-more-than-one-large-piece-of-meat-at-once)'s p. 65, [§5.46](#546-fire-roasted-eggplant-baba-ghanoush)'s MAKES fraction, the [§4.42](#442-asian-pear-dipping-sauce)/[§4.43](#443-vietnamese-dipping-sauce) re-check, [§14.3 Tuiles](#143-classic-tuiles) (partial by choice), the cropped pages behind [§5.27](#527-smothered-eggplant-onion--bell-pepper)/[§15.3](#153-basic-biscuits-cheese-or-bacon-variation)/[§10.11](#1011-garlic-cheese-grits), the [§5.38](#538-roasted-veggies) Asparagus card, and seven optional referenced recipes (Best Chicken Burger, Paris Chicken, Pastalaya cracklins, Beef Wellington, Basic Barbecue Sauce p. 463, KC Sweet-and-Smoky Ribs, Tandoori flatbreads / Bengali Mango-Tamarind). Honey-Guava BBQ Sauce was never tracked, so nothing to remove. **Wanted:** Close Proximity Smoked Fish (*Meathead Method* p. 308) now has a §12 row. **Direct answers applied** (ingredients, steps, grocery, nutrition where it moved, ✅ note in each): [§1 Pho](#1-codys-pho) — 36 hr sous vide is the house standard (24–48 hr window kept), oxtail 1–2 lb (Cody's rough guess); [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) — about 5 eggs per 10 lb shrimp; [§5.10](#510-bacon-tomato-avocado-pasta-salad) — lemon in the dressing, avocado after the chill; [§7.1](#71-pulled-pork-tacos) — no barbecue sauce in the pork, Herdez on each taco; [§7.3](#73-seafood-stuffed-flounder) — keep as written, handwritten note disregarded; **chili is a 50/50 mix of deer (or beef) and pork sausage** — [§8.1](#81-chili-mac) rewritten, rule noted on [§8.21](#821-five-way-chili) and [§8.36](#836-chili-dogs); [§8.3 Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) — darker (near-black) roux, Swanson stock not low-sodium; [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice) — thighs, emphatically; [§8.7](#87-italian-sausage--kale-soup) — 8 medium potatoes; [§8.35](#835-tomato-basil-soup-1-huge-12-qt-pot) — heavy cream only; [§9.21](#921-dressed-up-hummus-with-garlic-naan) — Vegeta and olive oil on the naan, on the grill; [§14.6](#146-key-lime-pie) — both crusts equal; [§5.31](#531-scalloped-oyster-dressing) — no amounts on the card, estimates stay labeled; [§5.26](#526-pickled-okra)/[§4.6](#46-no-heat-sour-kraut)/[§4.177](#4177-quick-pickles) — all stated plainly as refrigerator pickles, no canning instructions; [§7.122 Smoked Turkey](#7122-the-ultimate-smoked-turkey) — pull at 160°F at the very most (Cody's rule; USDA minimum 165°F reached by carryover, stated factually). [§7.124](#7124-poulet-de-france) stays open — Cody is checking with his mom. **New standing rule recorded in [§13](#13-meathead-cookbook):** "use your judgment" means the cookbook may fill gaps from a credible recipe or Southern-cooking source using Cody's ingredients, each fill labeled as cookbook judgment with its basis. |
 | 2026-09-07 | **Yogurt Marinade page cite corrected in [§7.140 Tandoori Chicken](#7140-tandoori-chicken) and [§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method).** The p. 175 reshoot shows the marinade's headnote starting at the foot of that page; its ingredient list and method are on p. 176, which is not yet uploaded. §7.140's three references now say p. 176 is the page still needed, and §T96's buttermilk aside now carries the page's own lactic-acid explanation instead of "not in the uploads." Companion to the open-items inventory delivered to Cody the same day. |
 | 2026-09-07 | **Housekeeping pass on stale flags and one contaminated ingredient list.** Closed-and-still-listed Open Questions bullets retired: [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) (sauce gap, settled at §4.180), [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) and [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) (both bullets — spread reread, Kansas City Red at §4.178 — so both sections removed), [§7.138 Real Fried Chicken](#7138-real-fried-chicken-on-a-gas-grill-its-safe) (MAKES-line bullet; the other three stand), [§7.141 Championship Chicken](#7141-championship-chicken) (Kansas City Red bullet; the Bird Booster note stands). [§8.45 Seafood Courtbouillon](#845-seafood-courtbouillon): the Open Questions bullet that repeated the ⚠️ browning-fat note is gone; the ⚠️ paragraph is the one record. **[§4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce):** the seven-line block at the top of its Ingredients (soy sauce, sake, ⅓ cup sugar, Asian pear, scallions, sesame seeds, ⅓ tsp black pepper) was [§4.42](#442-asian-pear-dipping-sauce)'s list from the facing page and is removed — none of its unique items is used in §4.43's steps, and the sugar and pepper the steps use stay at 3 Tbsp / ¼ tsp. The mirror image turned up in **[§4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce)** — it lists garlic and water its own steps never use, and 3 Tbsp sugar where the stray copy read ⅓ cup — flagged in a new Open Questions, nothing changed. **[§4.32 Texas Chili Rub](#432-texas-chili-rub):** Step 1's coriander has no Ingredients or grocery line — flagged, not guessed. The *How to Grill* sauce and rub pages are not in the current uploads, so no quantity was touched in any of the three Raichlen entries. |
@@ -1037,8 +1038,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) | 🟡 | 5 min | 10 min | **6–8 hr** *(sous vide, unattended)* | 6 hr 15 min – 8 hr 15 min |
 | [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) | 🟡 | 5 min | 10 min | **1½–4 hr** *(sous vide, unattended)* | 1 hr 45 min – 4 hr 15 min |
 | [§9.16 Deviled Eggs](#916-deviled-eggs) | 🟢 | 15 min | — | — | 15 min *(assumes eggs already hard-boiled)* |
-| [§9.31 Quesadillas](#931-quesadillas) | 🟢 | 10 min | 5 min | — | 15 min |
-| [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) | 🟢 | 15 min | — | — | 15 min |
+| [§9.31 Quesadillas](#931-quesadillas) | 🟢 | 10 min | 5 min *(each; ~25 min for a family batch)* | — | 15–35 min |
+| [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) | 🟢 | 15 min | — | — | 15 min *(optional 30 min–2 hr wrapped rest)* |
 | [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) | 🟢 | 15 min | — | — | 15 min |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
@@ -1343,7 +1344,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.9 Pecan Pie I](#149-pecan-pie-i) | 🟢 | 15 min | 52 min | — | 1 hr 10 min |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
 | [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) | 🟡 | 45 min | 25 min | **6–9 hr** *(three rises — the waiting is the method)* | ~7 hr *(+ 2–3 hr cool)* |
-| [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) | 🟡 | 45 min | 25 min | — | 1 hr 10 min |
 | [§5.49 Persian-ish Rice](#549-persian-ish-rice) | 🟡 | 15 min | 55 min | — | 1 hr 10 min |
 | [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) | 🟡 | 15 min | 55 min | — | 1 hr 15 min *(+ overnight marinate)* |
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
@@ -1375,6 +1375,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.62 Catfish Étouffée](#762-catfish-étouffée) | 🟡 | 25 min | 1 hr 5 min | — | 1 hr 30 min |
 | [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) | 🟡 | 15 min | 1 hr 15 min | — | 1 hr 30 min |
 | [§7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) *(Meathead)* | 🟡 | 15 min | 1 hr 15 min *(attended, over embers)* | — | 2 hr *(salt and pepper go on 1–3 hr ahead)* |
+| [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) | 🟡 | 60 min *(shucking 6 dozen)* | 30 min *(3–4 batches)* | — | 1 hr 30 min |
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) | 🟡 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
@@ -25192,7 +25193,7 @@ Add the shrimp and the remaining 1 Tbsp of butter and stir until the butter has 
 
 #### D. Open Questions
 
-- **The broth step's exact wording and the order the vermouth, tomatoes, and lemon peel go in was hard to pin down from the photo** (the page is photographed at an angle with some line-wrap hyphenation). The version above is a faithful, sensible reconstruction from the ingredient list and standard shellfish-broth technique, not a verified word-for-word transcription. Worth double-checking against a clearer photo.
+- ✅ 2026-09-07 per Cody ("use your judgment on the words; tell me if it affects the recipe") — **settled on the wording above; it does not affect the recipe.** Whether the half-vermouth goes in before or after the tomatoes, and whether the lemon peel goes in with the tomatoes or with the water, everything spends 15 minutes or more in the same simmering broth: the alcohol cooks off either way and the peel infuses either way. The only order that would matter — lemon peel meant for the finished risotto rather than the broth — is ruled out by the ingredient list, which groups the peel with the broth items. The page is photographed at an angle with line-wrap hyphenation, so Step 2 remains a reconstruction rather than a word-for-word transcription; no credible reprint of the book text was found online to check against. Cookbook judgment.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -25482,7 +25483,7 @@ Heat 2 Tbsp of the olive oil in a large cataplana or heavy pot with a lid over m
 Add the onion and garlic and cook until softened.
 
 **3. Add the clams, spice, and remaining oil.**
-Add the clams and Aleppo pepper, then drizzle with the remaining 2 Tbsp olive oil.
+Add the clams and Aleppo pepper, then drizzle with the remaining 2 Tbsp olive oil. **No wine or water goes in** — the clams release their own liquor, and the lid keeps it. That's the whole broth.
 
 **4. Steam the clams open. About 5 minutes.**
 Clamp the lid shut (or cover the pot) and cook, shaking the pan over the heat occasionally, until the clams open. Discard any that don't.
@@ -25507,7 +25508,7 @@ Serve in wide soup bowls with warm, crusty bread for sopping up the flavorful br
 
 #### D. Open Questions
 
-- **The exact page-break wording between the sausage/onion step and the clam step was hard to fully verify** from the photo's angle. The method above follows standard cataplana technique and matches the full ingredient list, but isn't a guaranteed word-for-word transcription.
+- ✅ 2026-09-07 per Cody ("use your judgment on the words; tell me if it affects the recipe") — **settled on the wording above; it does not affect the recipe.** The only things a page break could hide are whether the onion and garlic go in with the sausage or after it (after is standard, and it's 5 minutes either way) and whether any liquid is added — and the ingredient list has none, which is correct for a cataplana: the clams make the broth. Search excerpts of the book's ingredient list (4 Tbsp olive oil, 1½ lb Italian sausage, 1 small onion, 2–3 cloves garlic, 4 lb small clams, 2–3 pinches Aleppo) match the entry exactly, and its directions open "heat 2 Tbsp of the oil in a large heavy pot with a lid over medium-high," as transcribed. A clarifying sentence is added to Step 3 so nobody "fixes" it by adding wine. Cookbook judgment.
 
 #### Nutrition *(estimated)*
 
@@ -34882,8 +34883,8 @@ Toast the Sichuan peppercorns in a small skillet over medium-low heat until frag
 **5. Simmer the broth with mushrooms. About 30 minutes.**
 Put the toasted peppercorns and the duck broth in a large pot and bring to a simmer over medium-high heat. Add the shiitake mushrooms. Reduce the heat to medium and simmer.
 
-**6. Fish out the solids and season.**
-Using a slotted spoon, remove and discard the mushrooms and peppercorns. Season the broth with salt.
+**6. Fish out the peppercorns, slice the mushrooms, and season.**
+Using a slotted spoon, lift out the peppercorns and discard them. Lift out the mushrooms too, but **slice them and return them to the pot** — six rehydrated shiitakes are normally eaten, not thrown away. *(Cookbook judgment: the book's line here wasn't legible in the photo; the earlier reconstruction said to discard them. Discard if you'd rather.)* Season the broth with salt.
 
 **7. Prep the cabbage.**
 Separate the sturdy ribs from the frilly leaves of the Napa cabbage. Thinly slice both, keeping them separate.
@@ -34922,7 +34923,7 @@ Divide the noodles, sliced cabbage leaves, and scallions between 4 large, deep s
 
 #### D. Open Questions
 
-- **A couple of transition sentences in the source's method were hard to make out from the angled photo.** The steps above are a faithful, sensible reconstruction matching the full ingredient list and standard duck-broth technique, not a guaranteed word-for-word transcription. Worth confirming against a clearer photo.
+- ✅ 2026-09-07 per Cody ("use your judgment on the words; tell me if it affects the recipe") — **settled on the wording above; the transitions do not affect the bowl.** Broth 4 hours → strain → chill → skim → toast peppercorns → simmer with shiitakes 30 minutes → season → cabbage ribs 1–2 minutes → noodles separately → assemble with the raw leaves and scallions, garnish with ham and cilantro: internally consistent, and no ordering question changes the result. The one real choice the reconstruction made was Step 6's "discard the mushrooms" — now changed to slice and return them, with the discard option noted, since that line wasn't legible. No credible reprint of the book text was found online to check against (the "Duck Soup with Ginger and Star Anise" that turns up is a different recipe). Cookbook judgment.
 
 #### Nutrition *(estimated)*
 
@@ -35024,7 +35025,7 @@ Transcribed from **Canal House Cooks Every Day**, p. 189 — a soup roasted and 
 
 > The source's margin note: *"October 12th, 62°, soup weather."*
 
-> ⚠️ **Some of the method's exact wording was hard to read from the photo** — the reconstruction below follows the classic "soup baked inside the pumpkin" technique and accounts for every ingredient on the list, but isn't a guaranteed word-for-word transcription. Worth confirming against a clearer photo, especially the order the bread crumbs and cheese go in.
+> ✅ 2026-09-07 per Cody ("use your judgment on the words; tell me if it affects the recipe") — **confirmed against a published reprint through the 1-hour roast; the uncover-and-finish step is reconstructed.** The method's wording was hard to read from the photo. An Omaha World-Herald reprint of the Canal House recipe (https://omaha.com/archives/a-look-inside-canal-house-cooks-every-day/article_affcc36e-40e9-5e07-990c-d61dcf4afabf.html) gives the order: *"Rub the flesh inside the pumpkin with butter, then with ground fennel, piment d'Espelette, and salt and pepper to taste. Add the garlic, bread crumbs, cheese, and bay leaves. Pour enough stock into the pumpkin to come within about 3 inches of the rim, fit the lid back on, and roast for 1 hour."* Steps 2–3 below now match it — the fennel and Espelette are **rubbed into the flesh with the butter**, not added loose; crumbs before cheese was already right. The cooked result is identical either way. Step 5's second, uncovered stretch is the cookbook's reconstruction of the finish and stays flagged as such.
 
 **Yield:** serves 6–8
 
@@ -35048,11 +35049,11 @@ Transcribed from **Canal House Cooks Every Day**, p. 189 — a soup roasted and 
 **1. Cut and hollow the pumpkin.**
 Preheat the oven to 350°F. Cut a wide lid out of the top of the pumpkin and set it aside. Using a metal spoon, scoop out and discard the seeds and strings from the inside.
 
-**2. Season the inside.**
-Rub the flesh inside the pumpkin with the butter, then season with salt and pepper.
+**2. Rub the inside with butter, then with the fennel, Espelette, salt, and pepper.**
+Rub the flesh inside the pumpkin with the butter, then rub in the ground fennel, the piment d'Espelette, and salt and pepper to taste — the spices go onto the flesh with the butter, not loose into the cavity.
 
-**3. Layer in the garlic, bread, cheese, and seasonings.**
-Add the garlic, fennel, and piment d'Espelette. Add the bread crumbs and grated Gruyère, tucking in the bay leaves. Season with more salt and pepper.
+**3. Add the garlic, bread crumbs, cheese, and bay leaves.**
+Add the garlic, then the bread crumbs, then the grated Gruyère, tucking in the bay leaves.
 
 **4. Add stock and close it up.**
 Pour enough chicken stock into the pumpkin to come within 3 inches of the rim. Fit the lid back on.
@@ -39430,73 +39431,81 @@ Heat a heavy-bottomed frying pan over medium heat. Place the sandwich in the pan
 
 ### 9.28 Char-Grilled Oysters
 
-Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as [§9.27 Reuben](#927-reuben) — **but this card is ingredients and quantities only; no cooking directions were written on it at all.** ⚠️ **The method below is not Cody's own dictated steps** — it's the standard, well-known char-grilled oyster preparation (a Gulf Coast classic popularized by Drago's in New Orleans) that this exact ingredient list points to: oysters topped with a garlic-cheese butter and breadcrumbs, grilled hot until bubbling and charred at the edges, served with bread to mop up the butter. Flagged plainly rather than presented as if it came from Cody.
+Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as [§9.27 Reuben](#927-reuben) — **but this card is ingredients and quantities only; no cooking directions were written on it at all.** The method below is the Gulf Coast char-grilled oyster preparation the card's ingredient list points to — the one Drago's in New Orleans made famous — with the proportions worked out from the published restaurant recipes. Flagged plainly rather than presented as if it came from Cody.
 
-**Yield:** about 50 oysters *(half a sack — a sack typically holds about 100)* — serves 4 to 6 as a hearty appetizer
+> ✅ 2026-09-07 per Cody ("look it up, but keep these ingredients; you be the judge of the proportions — I'm making at least six dozen at a time") — **cookbook judgment on the proportions and the method; every ingredient on the card is kept.** The batch is now written for **six dozen**, Cody's minimum. Proportions come from Drago's own published recipe for 6 dozen (2 lb butter, ½ cup garlic, 1 Tbsp black pepper, 1 tsp oregano, 1 cup grated cheese, hottest part of the grill, ~5 minutes; https://www.wwltv.com/article/life/food/recipes/morning-show/dragos-charbroiled-oysters-recipe/289-412289652 and https://www.houstonchronicle.com/food/article/Recipe-Drago-s-Charbroiled-Oysters-15436534.php; Drago's, *Our Oysters*, https://www.dragosrestaurant.com/our-oysters) and Acme Oyster House's richer version (1 lb butter and 8 oz Romano per 2 dozen, 1 Tbsp sauce per oyster; https://louisiana.kitchenandculture.com/recipes/acme-chargrilled-oysters). Drago's uses a hotter fire than Acme; this entry goes Drago's way — that's the char in "char-grilled." **The only additions to the card are black pepper and dried oregano, Drago's two seasonings, both pantry.**
 
-**🟡 Medium** · **Prep ~45 min** *(mostly shucking)* · **Cook ~25 min** *(in batches on the grill)* · **Start to finish ~1 hr 10 min**
+**Yield:** 6 dozen (72) oysters — about ¾ of a 100-count sack — serves 8 to 10 as a hearty appetizer
 
-> ⚠️ **Why Medium, not Easy:** two real failure points. Butter dripping through the grate onto open flame can flare up fast, and oysters this small go from perfectly bubbling to dried-out and rubbery in the time it takes to grill the next batch — stay at the grill rather than stepping away.
+**🟡 Medium** · **Prep ~60 min** *(shucking 72 oysters)* · **Cook ~30 min** *(3–4 batches on the grill)* · **Start to finish ~1 hr 30 min**
+
+> ⚠️ **Why Medium, not Easy:** two real failure points. Butter dripping through the grate onto open flame flares up — that's expected here, and it's why the lid stays open, you use long tongs, and nothing flammable sits near the grill — and oysters this small go from perfectly bubbling to dried-out and rubbery in the time it takes to grill the next batch. Stay at the grill. Keep the raw oysters on ice until they're shucked, and throw out any that are open and won't close when tapped.
 
 #### A. Ingredients
 
-- Oysters, in the shell — half a sack (about 50)
-- 1 block fresh Romano cheese, grated *(not the off-brand pre-grated kind — Cody's own note)*
-- 1 pack minced garlic
-- 4 boxes butter *(1 lb each — 4 lb total)*
-- 1 box bread crumbs
-- (Optional) 1 loaf fresh French bread, for serving
+*Sized for 6 dozen. The card's items are Cody's; the amounts and the two seasonings are cookbook judgment from the sources above.*
+
+- Oysters, in the shell — **6 dozen (72)**; buy a full 100-count sack, since some won't be usable
+- 1 block (8 oz) fresh Romano cheese, grated — about 2 cups *(not the off-brand pre-grated kind — Cody's own note)*
+- Minced garlic — **¾ cup**, about one 8-oz jar *(the card's "1 pack")*
+- Butter — **2 lb (2 boxes), melted; 3 lb if you like them swimming** — *about 1 Tbsp per oyster* *(the card's "4 box" is 4 lb — the right buy for 8–12 dozen; see Open Questions)*
+- Bread crumbs — **about ¾ cup**, a pinch per oyster *(the card's "1 box" — a small canister is plenty)*
+- 1 Tbsp black pepper and 1 tsp dried oregano — *Drago's seasoning; cookbook addition*
+- Optional: 1 Tbsp Creole seasoning (Acme's touch)
+- 2 loaves fresh French bread, for serving
 
 #### B. Cooking Instructions
 
 **1. Shuck the oysters.**
-Shuck each oyster, discarding the top shell and loosening the meat from the bottom shell without spilling the liquor. Arrange the shucked oysters on their half shells on a sheet pan or directly on the grill grate.
+Shuck each oyster, discarding the top shell and loosening the meat from the bottom shell without spilling the liquor. Lay the shucked oysters on their half shells on sheet pans, and keep the pans on ice or in the refrigerator until the grill is ready. Figure most of an hour for 72.
 
-**2. Make the garlic-cheese butter.**
-Melt the butter and stir in the minced garlic. Season to taste.
+**2. Make the garlic butter.**
+Melt the 2 lb of butter in a saucepan and stir in the ¾ cup minced garlic, the black pepper, and the oregano (and the Creole seasoning, if using). Keep it warm at the edge of the grill with a ladle or big spoon in it. Have the grated Romano and the bread crumbs in bowls beside it.
 
-**3. Set up the grill and preheat to high.**
+**3. Set up the grill and preheat to high — about 500°F, lid open.**
+A wire rack or a sheet of crumpled foil on the grate keeps the shells from tipping. The grill stays open the whole time; you're cooking with heat from below and watching every shell.
 
-**4. Top and grill the oysters, in batches. About 4 to 5 minutes each.**
-Spoon a generous amount of the garlic butter over each oyster, then top with grated Romano and a sprinkle of bread crumbs. Grill until the butter is bubbling, the cheese has melted, and the edges of the oysters are lightly charred, 4 to 5 minutes. Watch closely — don't walk away, and pull them the moment they're bubbling and charred, not later.
+**4. Grill the oysters in batches of 18–24. About 4 to 5 minutes each batch; 5 to 7 on a cooler fire.**
+Set the oysters on the grate over the hottest part. When the liquor in the shells starts to bubble — 1 to 2 minutes — spoon **about 1 Tbsp of garlic butter over each** so it spills over the sides and flares; that flame is the char. Top each with a heaping teaspoon of Romano and a pinch of bread crumbs. They're done when the edges curl, the middle puffs, and the butter is bubbling hard — **4 to 5 minutes total.** Pull them the moment they're there, not later; the next minute makes them rubbery. Every oyster must be hot and its liquor bubbling before it comes off. A standard grill holds 18–24, so this is 3 to 4 rounds, about 25–30 minutes at the grill.
 
-**5. Toast the bread, if using.**
-Split and grill or toast the French bread while the oysters cook.
+**5. Toast the bread.**
+Split and grill or toast the French bread between batches.
 
-**6. Serve at once.**
-Serve the oysters hot off the grill, with the toasted bread alongside to soak up any extra garlic butter.
+**6. Serve at once, batch by batch.**
+Serve the oysters hot off the grill as each round finishes, with the bread alongside to soak up the garlic butter in the shells.
 
 #### C. Grocery Shopping List
 
 **🏪 Specific store — fish market or seafood counter**
 
-- 🏪 Oysters, in the shell — half a sack (about 50)
+- 🏪 Oysters, in the shell — a full 100-count sack, for 6 dozen usable
 
 **🏪 Specific store — deli**
 
-- 🏪 Fresh Romano cheese — 1 block, not the pre-grated off-brand kind
+- 🏪 Fresh Romano cheese — 1 block (8 oz), not the pre-grated off-brand kind
 
 **🛒 General grocery**
 
-- 🛒 Minced garlic — 1 pack
-- 🛒 Butter — 4 lb
-- 🛒 Bread crumbs — 1 box
-- 🛒 Fresh French bread — 1 loaf, optional, for serving
+- 🛒 Minced garlic — one 8-oz jar (about ¾ cup)
+- 🛒 Butter — 2–3 lb (2–3 boxes) per 6 dozen; 4 lb if you're going to 8–12 dozen
+- 🛒 Bread crumbs — a small canister
+- 🛒 Black pepper, dried oregano
+- 🛒 Fresh French bread — 2 loaves, for serving
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(50 oysters, butter as topped rather than fully consumed)* | ~3,400 | 300 g | 90 g | 50 g | 2 g |
-| **Per serving** *(serves 5, about 10 oysters each)* | ~680 | 60 g | 18 g | 10 g | <1 g |
+| **Whole batch** *(72 oysters; butter counted at about half of what's spooned on)* | ~5,750 | 500 g | 170 g | 170 g | 8 g |
+| **Per serving** *(serves 9, about 8 oysters each)* | ~640 | 55 g | 19 g | 19 g | 1 g |
 
-**What a serving is:** about 10 char-grilled oysters, a hearty appetizer portion. Not all of the garlic butter poured over the oysters ends up eaten — a share stays in the shells or drips through the grate — so the real total is likely somewhat lower than the full 4 lb of butter implies.
+**What a serving is:** about 8 char-grilled oysters, a hearty appetizer portion. Bread not counted. About a tablespoon of butter goes on each oyster, but a good share of it flares off, drips through the grate, or stays in the shell — roughly half is counted as eaten.
 
 #### D. Open Questions
 
-- **No cooking directions were on the card at all** — see the flag above. The method here is the standard char-grilled oyster technique, not Cody's own words; confirm or correct it against how he actually makes these.
-- **"4 box" of butter is a striking quantity** (4 lb, for 50 oysters) — transcribed as literally listed rather than second-guessed, but worth confirming it isn't a shorthand for "4 sticks" (1 box) instead.
-- **Garlic and cheese amounts beyond "1 pack"/"1 block"** aren't broken down further — proportions in Step 2 are a reasonable default, not a dictated ratio.
+- ✅ 2026-09-07 per Cody ("look it up, but keep these ingredients") — **no directions on the card; the method above is cookbook judgment** from Drago's and Acme's published recipes, cited in the note. Every card ingredient kept; black pepper and oregano added as Drago's seasoning.
+- ✅ 2026-09-07 — **"4 box" of butter is 4 lb** (a box is 4 sticks, 1 lb). Six dozen needs **2 lb by Drago's proportions, 3 lb if you want them Acme-rich** — about 1 Tbsp per oyster. Four pounds is more than either restaurant uses for 6 dozen; it's the right buy when Cody goes to 8–12 dozen, which he says he does. The card's figure stays on record; the grocery line says 2–3 lb per 6 dozen.
+- ✅ 2026-09-07 — **garlic and cheese amounts:** ¾ cup minced garlic and one 8-oz block of Romano (about 2 cups grated) per 6 dozen — between Drago's 1 cup of cheese and Acme's 24 oz. Cookbook judgment; adjust after a cook.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39591,16 +39600,23 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, kept in his own
 
 > **Per Cody:** *"1/2 lb Genoa Salami — Oldani is the best. 1/2 lb Capicola (this is my spin, you can use regular ham.) 1/2 lb Mortadella — I use San Danielle. If in doubt, use hard salami from the deli..."*
 
-**🟢 Easy** · **Prep ~15 min** *(plus using an olive salad already at least a week old)* · **Cook none** · **Start to finish ~15 min**
+> ✅ 2026-09-07 per Cody ("use your judgment") — **cookbook judgment on the per-quarter proportions, and one fix.** The card's meat amounts are Cody's and stay; the cheese line is corrected to match his own Step 3, which layers **both** mozzarella and provolone where the ingredient list had "¼ lb provolone *or* mozzarella" — so it's now ¼ lb of each, ½ lb total. For scale: Central Grocery's original is a 9-inch round with ham, salami, mortadella, Swiss and provolone, and olive salad, cut in quarters, **one quarter feeding an adult**, the whole loaf 3–4 (https://centralgrocery.com/); Central-Grocery-style home builds run about 6 oz of each meat per 10-inch loaf, with 1½ lb of meat as the "over-the-top" scale (The Kitchn, https://www.thekitchn.com/muffuletta-recipe-23481142; Justin Hankins, https://blog.justinhankins.com/muffuletta-recipe-central-grocery/). Cody's ½ lb each (1½ lb total) is that over-the-top scale, on a half loaf of French bread with the same footprint as a 10-inch round. Six ounces of each meat is the lighter, Central Grocery-scale build if you want it.
+
+**🟢 Easy** · **Prep ~15 min** *(plus using an olive salad already at least a week old)* · **Cook none** · **Start to finish ~15 min** *(or up to 2 hr 15 min with the optional wrapped rest)*
 
 #### A. Ingredients
 
+*For one ½ loaf — cut in four.*
+
 - ½ loaf Reising's French bread
-- ½ lb Genoa salami, Oldani brand preferred
+- ½ lb Genoa salami, Oldani brand preferred *(6 oz for a lighter, Central Grocery-scale build)*
 - ½ lb capicola *(Cody's own spin on the classic — regular ham or hard salami from the deli both work as substitutes)*
 - ½ lb mortadella, San Daniele preferred
-- ¼ lb provolone or mozzarella, sliced
-- ½ jar Boscoli olive salad, at least a week old
+- ¼ lb provolone, sliced
+- ¼ lb mozzarella, sliced *(corrected 2026-09-07 — Step 3 uses both cheeses)*
+- ½ jar (about 1 cup, 8 oz) Boscoli olive salad, at least a week old, lightly drained — plus 2–3 Tbsp of its oil for the bread
+
+**Per quarter, for reference** *(cookbook judgment)*: about 6 oz meat (2 oz each), 2 oz cheese (1 oz each), and ¼ cup olive salad. At the 6-oz-per-meat scale: 4½ oz meat per quarter.
 
 #### B. Cooking Instructions
 
@@ -39608,16 +39624,16 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, kept in his own
 Split the French bread.
 
 **2. Brush both sides with olive salad oil.**
-Use the oil from your week-old Boscoli olive salad — go a little heavier on the bottom half.
+Use the oil from your week-old Boscoli olive salad — 2–3 Tbsp all told, a little heavier on the bottom half, which has to stand up to the salad.
 
 **3. Layer the meats and cheese.**
-On the bottom half of the bread: half of the Oldani salami, then the mortadella, then the mozzarella, then the capicola, the provolone, and the remaining Oldani.
+On the bottom half of the bread: half of the Oldani salami, then the mortadella, then the mozzarella, then the capicola, the provolone, and the remaining Oldani. Spread each layer edge to edge so every quarter gets the same stack.
 
 **4. Top with the olive salad.**
-Spoon the olive salad over the top layer.
+Spoon the olive salad over the top layer — about a cup, lightly drained so the bread doesn't go soggy.
 
 **5. Close, press, and quarter.**
-Put the top half of the bread on, press it down without smashing the loaf, and quarter it. *"You've just created pure heaven."*
+Put the top half of the bread on, press it down without smashing the loaf, and quarter it. *"You've just created pure heaven."* Cody eats it right away. The Central Grocery move is to wrap the whole pressed loaf tight and let it sit **30 minutes to 2 hours** before cutting, so the olive oil soaks into the bread — optional, and better for a tailgate than a lunch counter.
 
 #### C. Grocery Shopping List
 
@@ -39626,25 +39642,29 @@ Put the top half of the bread on, press it down without smashing the loaf, and q
 - 🏪 Genoa salami — ½ lb, Oldani preferred
 - 🏪 Capicola — ½ lb (or regular ham, or hard salami as a substitute)
 - 🏪 Mortadella — ½ lb, San Daniele preferred
-- 🏪 Provolone or mozzarella, sliced — ¼ lb
+- 🏪 Provolone, sliced — ¼ lb
+- 🏪 Mozzarella, sliced — ¼ lb
 
 **🛒 General grocery**
 
 - 🛒 Reising's French bread — ½ loaf
-- 🛒 Boscoli olive salad — ½ jar, at least a week old
+- 🛒 Boscoli olive salad — ½ jar (one 16-oz jar buys two sandwiches), at least a week old
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~2,900 | 200 g | 165 g | 110 g | 8 g |
-| **Per serving** *(serves 2 to 4, per Cody's own note)* | ~725–1,450 | 50–100 g | 41–83 g | 28–55 g | 2–4 g |
+| **Whole dish** | ~3,350 | 235 g | 195 g | 110 g | 8 g |
+| **Per quarter** *(serves 2 to 4, per Cody's own note)* | ~840 | 59 g | 49 g | 28 g | 2 g |
 
-**What a serving is, per Cody's own card:** *"Serves: 4 light eaters, 2 hungry hangovers, or one bad-to-the-bone eating machine."*
+**What a serving is, per Cody's own card:** *"Serves: 4 light eaters, 2 hungry hangovers, or one bad-to-the-bone eating machine."* One quarter is the light-eater serving above; a hungry hangover is two quarters, about 1,700 calories.
+
+*Recomputed 2026-09-07 with both cheeses (½ lb total instead of ¼) — about 450 calories more than the earlier figure.*
 
 #### D. Open Questions
 
-- **No exact meat/cheese quantities beyond the shopping-list amounts** — the layering order is Cody's own, but exact proportions per quarter aren't broken out further.
+- ✅ 2026-09-07 per Cody ("use your judgment") — **per-quarter proportions written in** (6 oz meat, 2 oz cheese, ¼ cup olive salad at Cody's scale), cookbook judgment against Central Grocery's quarter-per-adult standard, cited in the note above.
+- ✅ 2026-09-07 — **cheese list corrected** to ¼ lb provolone plus ¼ lb mozzarella, matching Step 3's layers. If Cody actually means one or the other, ¼ lb of it and drop the second cheese layer.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39652,61 +39672,78 @@ Put the top half of the bread on, press it down without smashing the loaf, and q
 
 ### 9.31 Quesadillas
 
-Transcribed from Cody's own recipe/grocery-planning spreadsheet — **ingredients only, no cooking directions at all**, the same gap as [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters)/[§8.32 Potato Soup](#832-potato-soup). ⚠️ **The method below is not Cody's own words** — it's the standard quesadilla technique this ingredient list points to. **Per Cody, this one's specifically for the kids to make on their own in a pinch** — simple enough for a microwave or a dry skillet with light supervision.
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — **ingredients only, no cooking directions at all**, the same gap as [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters)/[§8.32 Potato Soup](#832-potato-soup). The method below is not Cody's own words. **Per Cody, this one's specifically for the kids to make on their own in a pinch** — simple enough for a microwave or a dry skillet with light supervision.
 
-**🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min**
+> ✅ 2026-09-07 per Cody ("use your judgment") — **cookbook judgment on the per-quesadilla amounts and the stovetop method.** ½ cup of cheese and ⅓ cup of beans per 10-inch tortilla, medium heat, 2–3 minutes a side — The Kitchn's stovetop method (½ cup cheese per 8–10-inch tortilla, medium heat, golden in 2–3 minutes a side; https://www.thekitchn.com/how-to-make-crispy-cheesy-quesadillas-on-the-stove-top-cooking-lessons-from-the-kitchn-188645) and Isabel Eats' cheese quesadilla (https://www.isabeleats.com/cheese-quesadilla/). Cody's list is unchanged. One note for the shopper: mozzarella melts stringy and mild, which is the kid-friendly point; a bag of "Mexican blend" melts smoother if anyone wants to swap.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~5 min each** *(about 20–25 min for a family batch, two pans going)* · **Start to finish ~15–35 min**
 
 #### A. Ingredients
 
-- 1 bag tortillas
-- 1 bag shredded mozzarella cheese
-- 2 cans black beans, drained and rinsed
+*Per 10-inch flour tortilla, folded — cookbook judgment on the amounts:*
+
+- 1 flour tortilla, 10-inch
+- ½ cup (2 oz) shredded mozzarella — half under the beans, half over, so the beans are glued in
+- ⅓ cup black beans, drained, rinsed, and lightly mashed with a fork so they don't roll out
+- ½ tsp butter for the pan *(optional — a dry nonstick pan works too)*
+
+*Cody's shopping-list batch — enough for about 9 quesadillas:*
+
+- 1 bag tortillas (10-count, 10-inch)
+- 2 bags shredded mozzarella *(an 8-oz bag is 2 cups — 4 quesadillas; the card says 1 bag, which runs out at four)*
+- 2 cans black beans, drained and rinsed *(about 3 cups — 9 quesadillas)*
 - Sour cream, for serving
 - 1 jar salsa
 - 1 bag tortilla chips, on the side
-- 2 avocados
+- 2 avocados, sliced
 
 #### B. Cooking Instructions
 
 **1. Fill and fold.**
-Sprinkle shredded mozzarella and a spoonful of black beans over half of a tortilla, then fold it in half.
+Lay a tortilla flat. Over one half: ¼ cup of the mozzarella, then ⅓ cup of the mashed beans spread out, then the other ¼ cup of cheese. Fold the empty half over and press it down.
 
-**2. Cook until the cheese melts.**
-In a dry skillet over medium heat, cook a couple of minutes per side until golden and the cheese has melted — or microwave on a plate about 30–45 seconds if that's easier for a kid to manage alone.
+**2. Cook on the stovetop. 2–3 minutes, flip, 1–2 minutes more.**
+Skillet over **medium** — not high; the outside browns before the cheese melts if it's too hot. Dry nonstick, or ½ tsp butter for a crisper, browner shell. Lay the quesadilla in and cook until the bottom is golden and the cheese at the fold is starting to melt, **2–3 minutes**, then flip with a spatula and give it **1–2 minutes** more. It's done when both sides are golden and cheese is oozing at the edge. Two pans going keeps a family batch moving.
 
-**3. Serve with the sides.**
-Cut into wedges and serve with sour cream, salsa, sliced avocado, and tortilla chips.
+**3. Rest a minute, cut in three, and serve with the sides.**
+Let it sit a minute so the cheese sets enough not to run out, cut into 3 wedges, and serve with sour cream, salsa, sliced avocado, and tortilla chips.
+
+**Kids-alone version — microwave.** Fill and fold on a plate, microwave **45–60 seconds** until the cheese melts. Softer and not crisp, but no stove.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Tortillas — 1 bag
+- 🛒 Flour tortillas, 10-inch — 1 bag (10-count)
 - 🛒 Black beans — 2 cans
 - 🛒 Salsa — 1 jar
 - 🛒 Tortilla chips — 1 bag
 
 **🏪 Specific store — deli**
 
-- 🏪 Shredded mozzarella cheese — 1 bag
+- 🏪 Shredded mozzarella cheese — 2 bags (8 oz each) for a full bag of tortillas
 - 🏪 Sour cream
 
 **🛒 General grocery**
 
 - 🛒 Avocados — 2
+- 🛒 Butter — a little for the pan *(optional)*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Per quesadilla** *(1 folded tortilla, cheese and beans, not counting sides)* | ~350 | 16 g | 15 g | 38 g | 6 g |
+| **Whole batch** *(9 quesadillas, not counting sides)* | ~4,100 | 160 g | 190 g | 425 g | 63 g |
+| **Per quesadilla** *(1 folded 10-inch tortilla, ½ cup cheese, ⅓ cup beans)* | ~455 | 18 g | 21 g | 47 g | 7 g |
 
-**What a serving is:** one folded quesadilla, plus whatever sides get piled on.
+**What a serving is:** one folded quesadilla, plus whatever sides get piled on. Sour cream, salsa, avocado, and chips are extra — half an avocado alone is about 120 calories.
+
+*Recomputed 2026-09-07 on ½ cup cheese per quesadilla; the earlier ~350 assumed less.*
 
 #### D. Open Questions
 
-- **No cooking directions were on the card at all** — see the flag above.
-- **No amounts given for cheese or beans per quesadilla** — a normal handful of each is assumed.
+- ✅ 2026-09-07 per Cody ("use your judgment") — **no directions on the card; the stovetop method above is cookbook judgment** from The Kitchn and Isabel Eats, cited in the note.
+- ✅ 2026-09-07 — **½ cup cheese and ⅓ cup beans per 10-inch tortilla**, cookbook judgment. The card's single bag of cheese covers only four; the grocery list now says two.
 
 [↑ Table of Contents](#table-of-contents)
 

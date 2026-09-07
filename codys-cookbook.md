@@ -16552,6 +16552,8 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 **Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter.
 **Used in:** every seafood entry sourced from this chapter, [§7.87](#787-smoked-salmon-mousse-canapés) through [§7.94](#794-gregs-grilled-lobster).
 
+> ✅ **Independently re-verified 2026-09-07** against book pp. 320–321 and the p. 324 sidebar (scan indexes 41 and 43, enlarged). Every claim below is on the page — the three-day freshness gap, "freshness often trumps the type of fish," the ice-contact rule, flash-freezing at sea, the nose/eyes/gills checks, FishChoice.com, swordfish in late summer and Alaskan salmon in spring, the whole/fillet/steak cuts, the 30-to-60-minute brine, and the smoker-washing sidebar. No change.
+
 **Buy fresh, not previously-frozen-and-thawed — freshness beats species almost every time.** Fish quality drops faster after death than any other meat; Meathead would rather cook fresh farm-raised salmon than week-old wild grouper. Buy from a store that moves a lot of fish — a dedicated fish market or a busy seafood counter — and ask the fishmonger by name what's actually fresh today, rather than picking blind.
 
 **Ice contact matters as much as the fish itself.** The flesh should sit directly on ice, not on a tray or plastic set on top of it — fish resting on top of ice rather than in it is a sign a store is trying to save money on ice, not keep the fish cold. Freezing itself isn't the enemy; a flash-frozen fish (frozen fast, on the boat, before large ice crystals can form and rupture cells) beats a "fresh" fish that was actually frozen once already, thawed, and sold as fresh after a slower trip through a ship's hold and a warehouse.
@@ -16575,6 +16577,8 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 **Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter.
 **Used in:** [§7.88 Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) *(gutting only — the fish stays whole)* and [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets), which starts from a whole fish.
 
+> ✅ **Independently re-verified 2026-09-07** against book pp. 322–323 (scan index 42, enlarged). Fins, scales, gutting from the anal fin forward to the collar, the vein along the spine, the cheeks and collar, the freezer-bag head tip, the shallow cut along the spine, and the needle-nose pliers for pin bones all match the page. No change.
+
 **Trim, scale, and gut before anything else.** Snip off the fins with kitchen shears — carefully, they can stab you and cause a nasty infection. Leave the tail on or remove it (it tends to burn on the grill). If needed, scrape off the scales in the sink, since they fly everywhere — a dedicated fish scaler makes it easy, but a serrated knife or another small knife works too.
 
 **Gut it if it hasn't been already** — most store-bought fish already has. Get a sharp, pointed knife (scissors work too), insert it just in front of the anal fin, and cut forward to the collar. Reach in and pull out all the entrails, then rinse the fish, especially the cavity. Any leftover vein or blood along the spine isn't worth chasing — it's right against the bone, in a spot you likely won't be eating anyway.
@@ -16595,6 +16599,8 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 **Tags:** `meathead` · `seafood` · `shrimp` · `deveining` · `brining` · `shrimp-sizing`
 **Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter (book pp. 341–343). **Re-verified line by line against photographs of pp. 341, 342 and 343 on 2026-09-06**, which added four passages the original transcription had left out (choosing shrimp, cleaning whole shrimp, the shell-eater's tail snip, and the chitin pronunciation) and corrected the brine soak time — see the marked notes below.
 **Used in:** any shrimp recipe in this cookbook — [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys), [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp), [§7.40 Shrimp Risotto](#740-shrimp-risotto), [§7.47 Shrimp Roast](#747-shrimp-roast) — and pairs with [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) for deodorizing.
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 341–343 (scan indexes 5, 46, enlarged). The size counts, the 16/20 grilling threshold, chitin, the tail-fin snip, the head-and-legs cleaning, the vein removal and butterfly cuts, and the brine (¼ cup kosher salt, 1 cup warm water, 2 cups cold water, about 20 minutes but no longer) all match. No change.
 
 **Choosing shrimp in the first place** *(added 2026-09-06 — this paragraph is the book's own "Choosing and Prepping Shrimp" opener on book p. 341, which the original transcription skipped entirely).* Most shrimp today are farm raised in Asia, and recent years have brought some unpleasant revelations about conditions there, for both people and shrimp — **if you can get wild shrimp from the Gulf of Mexico, you should.** As with so much seafood, flash-frozen shrimp is usually high quality; just defrost it in the fridge. So-called "fresh" shrimp has often been frozen and then thawed, or traveled a long distance, and is not really fresh.
 
@@ -16620,7 +16626,7 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 
 <!-- TECHNIQUE-TAGS: meathead, seafood, lobster, live-storage, lobster-anatomy, cold-water, warm-water -->
 **Tags:** `meathead` · `seafood` · `lobster` · `live-storage` · `lobster-anatomy` · `cold-water` · `warm-water`
-**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter (book pp. 344–346). **Now complete.** The original 2026-09-05 condensation only had the live-storage tip (book p. 346) — the rest of "Lobster: Choosing and Preparing" sat on book pp. 344–345, missing from that day's photographed set. Cody supplied photos of the missing pages the same day, and this entry is rewritten in full below. ✅ **Re-verified line by line against the p. 344–345 photograph on 2026-09-06 and found correct as written — no changes needed:** the cold-water/warm-water contrast, the 1½-to-2-pound weights and the sub-1-pound meat yield, the lively-vs-listless test, the green-algae aside, the rubber bands, the grasp-from-above warning and the same-day advice all match the page exactly, as do all eight labels on the book's lobster diagram. *(The storing paragraph below comes from book p. 346, which was not in that photograph — it stands as transcribed on 2026-09-05 and is the one part of this entry the 2026-09-06 pass could not re-check against an image.)*
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter (book pp. 344–346). **Now complete.** The original 2026-09-05 condensation only had the live-storage tip (book p. 346) — the rest of "Lobster: Choosing and Preparing" sat on book pp. 344–345, missing from that day's photographed set. Cody supplied photos of the missing pages the same day, and this entry is rewritten in full below. ✅ **Re-verified line by line against the p. 344–345 photograph on 2026-09-06 and found correct as written — no changes needed:** the cold-water/warm-water contrast, the 1½-to-2-pound weights and the sub-1-pound meat yield, the lively-vs-listless test, the green-algae aside, the rubber bands, the grasp-from-above warning and the same-day advice all match the page exactly, as do all eight labels on the book's lobster diagram. *(The storing paragraph below comes from book p. 346, which was not in that photograph.)* ✅ **Independently re-verified 2026-09-07** against pp. 344–345 (scan index 54) **and p. 346 (scan index 47, the Greg's Grilled Lobster spread), so the storage paragraph is now checked too.** Two corrections there: the page says a handled-well lobster stays alive and fresh in the fridge **for 2 to 3 days** (the entry had "a day or two"), and its last line is simply *"Do not cover with ice"* — the entry's "which kills it too" was not printed.
 **Used in:** [§7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster), or any time live lobster is bought ahead of when it'll be cooked.
 
 **Cold-water vs. warm-water — pick the right one for the job.** Cold-water lobsters (aka Maine lobsters) are dark — usually black or brown, sometimes greenish — with two large, meaty front claws; many come from Maine, some from the cooler waters farther down the coast. Warm-water lobsters (aka Florida lobsters, spiny lobsters, rock lobsters) come from the Caribbean or the Gulf of Mexico, don't have big claws at all, and look more like huge shrimp with really thick antennae — tan or orange rather than dark. **Use a cold-water lobster whenever a recipe wants claw meat** — that's the toothsome part warm-water lobsters simply don't have; reach for a warm-water lobster only when tails are all you need.
@@ -16631,9 +16637,9 @@ A good rub is like a good orchestra — a range of instruments playing in harmon
 
 **Handling a live lobster safely.** Live cold-water lobsters ship with rubber bands on the big front claws — leave them on until after the animal is dead. Always grasp a lobster from above, by the solid shell on the upper half, never by the tail — the tail has sharp edges that can gash you even after the lobster is dead.
 
-**Cook it the same day you buy it if you can** — it'll stay alive and fresh in the fridge a day or two if it has to wait, but same-day is best.
+**Cook it the same day you buy it if you can** — it will stay alive and fresh in the fridge for 2 to 3 days if it has been handled well, but same-day is best.
 
-**Storing it if it does have to wait a day or two:** put it in a pot so it can't crawl around the fridge, add about ¼ inch of water in the bottom to keep it moist, and cover it with a damp cloth or newspaper. Lobsters breathe air, so they'll be fine without being submerged. **Never submerge a live lobster in fresh water** — it's a saltwater animal, and fresh water kills it — **and never cover it with ice**, which kills it too.
+**Storing it if it does have to wait a day or two:** put it in a pot so it can't crawl around the fridge, add about ¼ inch of water in the bottom to keep it moist, and cover it with a damp cloth or newspapers. Lobsters can breathe air, so they'll be fine without being submerged. **Never submerge a saltwater lobster in fresh water** — this will kill it — **and do not cover it with ice.**
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -28754,7 +28760,11 @@ Put the fish in the pan and spoon some of the butter over it. Place it in the in
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. The fish taco is to Baja, California what the cheesesteak is to Philly — Meathead's grilled take on the classic deep-fried Baja original.
 
+**Makes 2 servings · Takes 45 minutes** *(as printed)*
+
 **🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~45 min**
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 332–333 (scan index 45, enlarged). One quantity was wrong: the crema takes **½ cup sour cream**, not ¼ — corrected here, in the grocery list, and in the nutrition estimate. Two unprinted glosses struck from Steps 3–4: the page calls for a metal grill topper outright (no "if you have one"), and it never offers "directly on well-oiled grates" as an alternative. Every other quantity, the ½ teaspoon of salt in Step 1, the 125°F doneness, the 5-minutes-per-side ceiling, and the 30-second tortilla toast match.
 
 #### A. Ingredients
 
@@ -28762,7 +28772,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - Kosher salt
 - 1 tablespoon ancho chile powder
 - 1 tablespoon freshly ground black pepper
-- ¼ cup sour cream
+- ½ cup sour cream
 - 1 tablespoon mayonnaise, plus more for coating the fish
 - 2½ teaspoons finely chopped chipotle in adobo sauce
 - 4 fresh corn tortillas *(or good-quality supermarket corn tortillas, doubled up if thin)*
@@ -28780,10 +28790,10 @@ Put the fish fillets on a plate. Sprinkle them with about ½ teaspoon salt and d
 In a small bowl, mix the sour cream, mayonnaise, and chipotle in adobo. Season with a pinch of salt. Refrigerate.
 
 **3. Fire up.**
-Set up the grill in a two-zone configuration (the indirect zone is the safe zone). Preheat the grill and a metal grill topper, if you have one, to medium-high heat in the direct zone.
+Set up the grill in a two-zone configuration (the indirect zone is the safe zone). Preheat the grill and a metal grill topper to medium-high heat in the direct zone.
 
 **4. Cook the fish.**
-Coat the fish with a thin layer of mayonnaise and place it on the hot grill topper (or directly on well-oiled grates). Cook with the lid up until you get some nice golden color on one side. Turn the fish over and cook until the internal temperature is about 125°F — it shouldn't need more than 5 minutes per side. Don't worry if the fish starts to break apart. Transfer to a warm bowl and break it into large chunks.
+Coat the fish with a thin layer of mayonnaise and place it on the hot grill topper. Cook with the lid up until you get some nice golden color on one side. Turn the fish over and cook until the internal temperature is about 125°F — it shouldn't need more than 5 minutes per side. Don't worry if the fish starts to break apart. Transfer to a warm bowl and break it into large chunks.
 
 **5. Toast the tortillas.**
 Meanwhile, warm an empty skillet just larger than the tortillas over medium heat. Lightly toast the tortillas by tossing them on the hot grill for about 30 seconds per side, until they get a few dark spots. Be careful not to dry them out — they need to stay flexible. Put them in the skillet and cover to keep warm. If they're a little stiff, moisten two paper towels, squeeze out most of the water, sandwich the tortillas between them, and heat in the microwave for a few seconds, or in the oven, until pliable.
@@ -28810,20 +28820,21 @@ Divide the fish among the tortillas. Top with the sour cream mixture and any top
 
 - 🛒 Kosher salt, black pepper
 - 🛒 Ancho chile powder
-- 🛒 Sour cream
+- 🛒 Sour cream — ½ cup
 - 🛒 Mayonnaise
 - 🛒 Chipotle in adobo sauce
 - 🛒 Avocado
 - 🛒 Limes
 - 🛒 Cabbage
 - 🛒 Pico de gallo or red salsa
+- 🛒 Metal grill topper *(the page calls for one; see [§T34](#t34-two-zone-fire-setup))*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~1,420 | 73 g | 100 g | 65 g | 22 g |
-| **Per serving** *(serves 2, as printed)* | ~710 | 37 g | 50 g | 33 g | 11 g |
+| **Whole dish** | ~1,480 | 79 g | 101 g | 67 g | 22 g |
+| **Per serving** *(serves 2, as printed)* | ~740 | 40 g | 50 g | 34 g | 11 g |
 
 **What a serving is:** 2 tacos — 2 corn tortillas each, topped with seasoned grilled fish, cabbage, pico de gallo, avocado, and chipotle crema.
 
@@ -28835,9 +28846,13 @@ Divide the fish among the tortillas. Top with the sour cream mixture and any top
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter, from Professor Blonder's method. Lobster grilled hard and fast over max direct heat rather than boiled — a bit chewier than boiled lobster, but never mushy, with more concentrated flavor.
 
-> **Buying ahead of time, or picking one out at the counter?** See [§T57 Lobster: Choosing, Preparing, and Storing](#t57-lobster-choosing-preparing-and-storing) for cold-water vs. warm-water, picking a lively one, and how to keep it alive in the fridge for a day or two rather than cooking it immediately.
+> **Buying ahead of time, or picking one out at the counter?** See [§T57 Lobster: Choosing, Preparing, and Storing](#t57-lobster-choosing-preparing-and-storing) for cold-water vs. warm-water, picking a lively one, and how to keep it alive in the fridge for 2 to 3 days rather than cooking it immediately.
+
+**Makes 2 servings · Takes 30 minutes** *(as printed)*
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~30 min**
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 346–347 (scan index 47, enlarged). Every ingredient quantity, all six steps in order, the ½-inch knife placement, warp 10, the 3-to-4-minute baste interval, the 145°F minimum, the 6-to-10-minute window, and the Note match. Two wording slips fixed: the gills and small legs freeze *for lobster bisque* (had "stock"), and the serving note called the butter "garlic-herb" — there is no garlic in it.
 
 > ⚠️ **Why Medium.** The grill runs at its absolute highest setting, and the tail only needs 6 to 10 minutes to go from translucent to done — past that window the meat toughens fast, with none of the gentle margin a sous vide or smoker cook gives you.
 
@@ -28871,7 +28886,7 @@ Preheat the grill for two-zone cooking with the direct-heat side on warp 10 (max
 Place the lobster halves shell side down over direct heat, positioning the shells between two rungs of the cooking grate to keep them from rolling — you may need to manipulate the large claw, or place two halves side by side. Some cooks start them meat side down for a few minutes for more smoke flavor and grill marks, but that tends to dry them out. Baste the meat with the butter sauce, close the lid, and baste again after 3 to 4 minutes. When the meat has changed from translucent to pearly white and the thickest part of the tail hits a minimum of 145°F — perhaps 6 to 10 minutes — the lobsters are done. Baste one last time and remove them.
 
 **6. Serve.**
-Crack the claws with a wooden mallet, rolling pin, meat tenderizer, hammer, or kitchen shears. Serve with any leftover butter for dunking, and squeeze the lemon wedges over the meat if you like. The feathery gills and small legs are edible too, or freeze them for lobster stock.
+Crack the claws with a wooden mallet, rolling pin, meat tenderizer, hammer, or kitchen shears. Serve with any leftover butter for dunking, and squeeze the lemon wedges over the meat if you like. You can suck on the feathery gills and the small legs, or freeze them for making lobster bisque.
 
 *Note: if you use salted butter, cut the amount of salt in half. You can always add salt, but you can't take it away.*
 
@@ -28898,7 +28913,7 @@ Crack the claws with a wooden mallet, rolling pin, meat tenderizer, hammer, or k
 | **Whole dish** | ~555 | 28 g | 70 g | 1 g | 0 g |
 | **Per serving** *(serves 2)* | ~278 | 14 g | 35 g | 0.5 g | 0 g |
 
-**What a serving is:** one whole 1½-lb lobster, split, with garlic-herb butter for dunking.
+**What a serving is:** one whole 1½-lb lobster, split, with the parsley-tarragon-chive butter for dunking.
 
 [↑ Table of Contents](#table-of-contents)
 

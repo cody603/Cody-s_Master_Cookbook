@@ -19796,6 +19796,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~20 min**
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
+> ✅ **Independently re-verified 2026-09-07** against book p. 350 (scan index 50, enlarged). Every ingredient line, all four steps, the ¾-inch slices, and the MAKES/TAKES line match the page. No change.
 
 #### A. Ingredients
 
@@ -19854,6 +19855,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
+> ✅ **Independently re-verified 2026-09-07** against book pp. 351–352 (scan indexes 50 and 48, enlarged). Every quantity, all five steps, the 325°F indirect target, the 5-minute / 2-to-3-minute cook, and the 5-minute cool match. Grocery list fixed: the balsamic is a printed ingredient, not optional, and the kosher salt was missing from the list.
 
 #### A. Ingredients
 
@@ -19887,8 +19889,9 @@ Arrange the spears on a platter so they are all pointing in the same direction. 
 
 - 🛒 Asparagus — 16 stalks
 - 🛒 Extra-virgin olive oil
+- 🛒 Kosher salt
 - 🛒 Parmigiano-Reggiano cheese — 4 oz
-- 🛒 Balsamic condimento or balsamic reduction *(optional; see [§T83](#t83-about-balsamic--grades-and-buying) on what to buy)*
+- 🛒 Balsamico condimento, or a salad-grade balsamic to reduce yourself — 1 Tbsp *(see [§T83](#t83-about-balsamic--grades-and-buying) on what to buy and how to reduce it)*
 
 *Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
 
@@ -19916,6 +19919,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
+> ✅ **Independently re-verified 2026-09-07** against book pp. 352–353 (scan index 48, enlarged). All four ingredient lines, all six steps, the ⅛-inch stem trim, the ¼-to-½-inch steaks, the 325°F indirect target, the 20-minute / 5-minute floret cook, and the 4-minute steak sear match. No change.
 
 #### A. Ingredients
 

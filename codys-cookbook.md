@@ -10108,6 +10108,8 @@ Cover and refrigerate leftovers for up to 2 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (**p. 243** — corrected 2026-09-06; p. 242 is [§4.140](#4140-lemon-vinaigrette), which this one faces). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 243 (scan p. 8 right, enlarged). 2 Tbsp lime juice (about 2 small limes), 5 Tbsp oil, 1 garlic clove, generous pinch of salt, the 10-minute sit and garlic removal, MAKES a scant ½ cup, the 3-day keep, the Ideal-for list, and the 1-tsp-minced-jalapeño variation all match. Nothing changed.
+
 **Makes a scant ½ cup**
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~15 min** *(includes a 10 min rest)*
@@ -10162,6 +10164,8 @@ Cover and refrigerate leftovers for up to 3 days.
 ### 4.142 Rice Wine Vinaigrette
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (**p. 246** — corrected 2026-09-06 from "p. 243"; the source itself cites this recipe as "Rice Wine Vinaigrette, page 246" in [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Asian Slaw variation). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). Used as an ingredient in [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Asian Slaw variation.
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 246 (scan p. 9, a near-straight single-page photo, enlarged). 2 Tbsp seasoned rice wine vinegar, 4 Tbsp neutral-tasting oil, 1 garlic clove, the 10-minute sit, MAKES about ⅓ cup, the 3-day keep, and both variations (1 tsp minced jalapeño; a few drops of toasted sesame oil) match. One printed oddity recorded, not "fixed": the page's method says *"Pour the vinegar and olive oil"* though its ingredient line calls for neutral-tasting oil — the entry follows the ingredient line. Nothing changed.
 
 **Makes about ⅓ cup**
 
@@ -10224,6 +10228,8 @@ Cover and refrigerate leftovers for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (**p. 252** — corrected 2026-09-06 from "p. 249"; the footer is outside the photo frame on this spread, but p. 249 is Blue Cheese Dressing, facing the confirmed p. 248 [§4.135](#4135-creamy-herb-dressing), and 250/251 are the confirmed [§4.144](#4144-green-goddess-dressing)/[§4.145](#4145-tahini-dressing), which leaves 252 facing 253 for this spread). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 252 (scan p. 12, photographed at a steep angle with the yield running into the gutter — enlarged, it reads *Makes ¾ cup*). All five ingredients (4 Tbsp miso, 2 Tbsp honey, 2 Tbsp Dijon, 4 Tbsp rice wine vinegar, 1 tsp ginger), the whisk-or-shake method, the lettuce-leaf taste, and the Ideal-for list match. No keeps-for note is printed on the page. Nothing changed.
+
 **Makes ¾ cup**
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
@@ -10275,6 +10281,8 @@ Ideal for tossing with sliced raw cabbage or kale, garden lettuces, romaine and 
 ### 4.144 Green Goddess Dressing
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 250). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing).
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 250 (scan p. 13 left, enlarged). All twelve ingredient lines — 3 salt-packed anchovies (or 6 fillets), 1 avocado, 1 sliced clove, 4 tsp red wine vinegar, 2 Tbsp + 2 tsp lemon juice, the 2/2/1/1 Tbsp + 1 tsp herbs, ½ cup stiff Basic Mayonnaise — the pound-then-blend method, the thin-with-water option, MAKES about 2 cups, and the 3-day keep match. Nothing changed.
 
 **Makes about 2 cups**
 
@@ -10347,6 +10355,8 @@ Refrigerate leftovers, covered, for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 251), facing [§4.144 Green Goddess Dressing](#4144-green-goddess-dressing). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 251 (scan p. 13 right, enlarged). ½ tsp cumin seeds or ground, ½ cup tahini, ¼ cup lemon juice, 2 Tbsp oil, 1 clove, ¼ tsp cayenne, 2–4 Tbsp ice water; the 3-minute toast, the whisk with 2 Tbsp of the water and a generous pinch of salt, the "might look broken at first" line, MAKES about 1 cup, the 3-day keep, and the Goma-Ae variation (¼ cup seasoned rice wine vinegar for the lemon; omit cumin, salt, oil, cayenne; add 2 tsp soy, a few drops sesame oil, 1 tsp mirin) all match. Nothing changed.
+
 **Makes about 1 cup**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~3 min** *(toasting cumin seeds)* · **Start to finish ~15 min**
@@ -10413,6 +10423,8 @@ Refrigerate leftovers, covered, for up to 3 days.
 ### 4.146 Basic Salsa Verde
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 360–361), opening the "Sauces" chapter of her recipe section, right after the chapter's own "Salsa Math" formula and "Herb Salsa" intro — both condensed at [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) rather than repeated here. Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat) and [§4.134](#4134-creamy-caesar-dressing)–[§4.145](#4145-tahini-dressing). **Distinct from this cookbook's existing [§4.47 Salsa Verde](#447-salsa-verde)** — that one is a cooked, blended tomatillo salsa from Steven Raichlen's *How to Grill*; this is a raw, hand-chopped parsley-and-shallot sauce, the Italian original the name comes from. The two share nothing but a name, the same way this cookbook already tracks three separate chimichurris and three separate North Carolina vinegar sauces.
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 360–361 (scan p. 25, enlarged), without reference to the 2026-09-06 audit. The base recipe — 3 Tbsp shallot, 3 Tbsp red wine vinegar, ¼ cup parsley, ¼ cup oil, the 15-minute macerate, the slotted-spoon combine, MAKES ¾ cup, the 3-day keep — matches. **What the first pass missed: the page prints eight variations and the entry carried three.** The toasted-nut, spicy-kick, celery, lemon-zest, and garlic variations are restored above with their printed quantities, and Spicy Brined Turkey Breast is added to the serving list. Fried Sage Salsa Verde's ingredients (1 batch, 24 leaves, about 2 cups oil), MAKES 1 scant cup, the crumble-in-just-before-serving step, and the 3-day keep match; its printed serving list (Simmered Beans through Rib Eye) is now included, and the entry now says plainly that the frying method itself is the cookbook's own, since the page only points to p. 233. No salt quantity altered.
 
 **Makes ¾ cup**
 

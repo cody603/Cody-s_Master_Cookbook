@@ -144,7 +144,7 @@ Click any recipe to jump straight to it.
   - [4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) ✅
   - [4.124 Tartar Sauce](#4124-tartar-sauce) ✅
   - [4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) ✅
-  - [4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) ✅
+  - [4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) ✅ *(salt and pepper corrected to the printed ⅛ tsp each and the strain step restored, 2026-09-07)*
   - [4.127 Cascabel Mole, Inspired by Chef Rick Bayless](#4127-cascabel-mole-inspired-by-chef-rick-bayless) ✅
   - [4.128 Burger Glop](#4128-burger-glop) ✅
   - [4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) ✅
@@ -1223,7 +1223,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 35 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
-| [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min | — | 45 min |
+| [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min *(simmer, strain, reduce)* | — | 45 min |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
 | [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(indirect smoker, unattended)* | ~10–15 hr *(includes at least 1 hr rest in a faux Cambro)* |
@@ -9230,6 +9230,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 185 (second-pass QC).** All ten ingredient lines match the page exactly, including the ½ tsp kosher salt and ⅛ tsp chipotle chile powder; the two-part method (dissolve the sugar in the water over low heat, then everything else for 30 minutes more), the Hershey's Natural Unsweetened Cocoa note, and the pork-ribs / meatloaf / skip-the-rub / orange-zest guidance all match. **MAKES a generous 2 cups / TAKES 45 minutes** were already reflected in the entry and are now carried on their own line. No change beyond this note.
+
+**Makes a generous 2 cups · Takes 45 minutes** *(as printed)*
+
 **🟢 Easy** · **Prep ~10 min** · **Cook ~35 min** *(dissolve sugar, then 30 min simmer)* · **Start to finish ~45 min**
 
 #### A. Ingredients
@@ -9284,11 +9288,15 @@ Add the remaining ingredients, stir well, and simmer for 30 minutes more.
 
 ### 4.126 Grand Marnier Glaze
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A sweet glaze for salty, cured meats like ham — most Southern glazes lean on Coca-Cola, but this one uses a modest amount of orange liqueur instead, and its flavor shines through.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A sweet glaze for salty, cured meats like ham — most Southern glazes lean on Coca-Cola, but this one uses a modest amount of orange liqueur instead, and its flavor shines through. Per the source, it's especially good on cured ham, grilled turkey breast, and, of course, duck à l'orange.
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-**🟢 Easy** · **Prep ~5 min** · **Cook ~40 min** *(simmer, then reduce by about a third)* · **Start to finish ~45 min**
+> ✅ **Corrected 2026-09-07 against book p. 186 (second-pass QC) — two quantities and a missing step.** The entry had **½ tsp kosher salt** and **¼ tsp black pepper**; the page prints **⅛ teaspoon of each** — four times the printed salt and twice the printed pepper, in a sweet glaze where either would have read as seasoning error. Both are corrected down to the printed figures (ingredients, grocery list). The page's method also **strains the sauce after the 5-minute simmer** before returning it to the pan to reduce — the strainer catches the thyme leaves and marmalade peel so the glaze paints on smooth — and the entry had skipped that step entirely; it's now Step 2. The other seven ingredient lines, MAKES a generous 2 cups / TAKES 45 minutes, the reduce-by-about-one-third cue, the paint-on-at-the-end-of-the-cook instruction, and the Cointreau / triple sec Note all match.
+
+**Makes a generous 2 cups · Takes 45 minutes** *(as printed)*
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~40 min** *(simmer, strain, then reduce by about a third)* · **Start to finish ~45 min**
 
 #### A. Ingredients
 
@@ -9299,19 +9307,22 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ¼ cup orange marmalade
 - 1 Tbsp Dijon mustard
 - ½ tsp fresh thyme leaves
-- ½ tsp kosher salt
-- ¼ tsp freshly ground black pepper
+- **⅛ tsp kosher salt** *(corrected 2026-09-07 — the earlier entry said ½ tsp)*
+- **⅛ tsp freshly ground black pepper** *(corrected 2026-09-07 — the earlier entry said ¼ tsp)*
 
 #### B. Cooking Instructions
 
-**1. Combine and simmer.**
+**1. Combine and simmer, about 5 minutes.**
 Combine all the ingredients in a medium saucepan and bring to a simmer for about 5 minutes.
 
-**2. Reduce.**
-Return the mixture to a very low boil and cook until the sauce has reduced by about one third.
+**2. Strain.**
+Pass the sauce through a strainer, then return the strained mixture to the saucepan. *(Restored 2026-09-07 — this step is printed and had been dropped.)*
 
-**3. Glaze the meat.**
-Paint it onto ham or other cured meats at the very end of cooking.
+**3. Reduce by about one third.**
+Bring the strained sauce to a very low boil and cook until it has reduced by about one third.
+
+**4. Glaze the meat.**
+Paint it onto ham and other meats at the end of the cook.
 
 #### C. Grocery Shopping List
 
@@ -9324,8 +9335,8 @@ Paint it onto ham or other cured meats at the very end of cooking.
 - 🛒 Orange marmalade — ¼ cup
 - 🛒 Dijon mustard — 1 Tbsp
 - 🛒 Fresh thyme leaves — ½ tsp
-- 🛒 Kosher salt — ½ tsp
-- 🛒 Black pepper — ¼ tsp
+- 🛒 Kosher salt — ⅛ tsp
+- 🛒 Black pepper — ⅛ tsp
 
 #### Nutrition *(estimated)*
 

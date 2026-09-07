@@ -29351,6 +29351,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **What changed:** the earlier transcription had this as skewered kebabs with mango, and left out the toasted cashews, the chives, and the source's NOTES entirely. The printed recipe grills the vegetables and pineapple loose over the fire, chops them after, and finishes with toasted cashews stirred in at the last second. There is no mango and there are no skewers.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 212–214 (second-pass QC) — correct as written.** All twelve ingredient lines (including ½ cup D.C. Mumbo Sauce p. 195 and the two optional 2-Tbsp garnishes), MAKES 4 / TAKES 1 hour, the lengthwise halving, the 1-to-2-hour dry brine, the dry-pan cashew toast, the 325°F indirect zone, veg over the hot side with the lid closed, pork on the direct side with the lid open, the 140°F pull, the ½-inch chunks, and both NOTES (160°F for chicken; shrimp until pink and opaque; poblano or jalapeño for heat) match the page; nine steps in printed order. No change.
+
 **Makes 4 servings · Takes 1 hour** *(as printed)*
 
 **🟢 Easy** · **Prep ~25 min** · **Cook ~35 min** · **Start to finish ~1 hr** *(+ a 1–2 hr dry brine)*
@@ -29437,6 +29439,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **What changed:** the earlier transcription had this as a plain roast basted with a thinned pesto every 30 minutes. The printed recipe injects the loin with [§4.103 Pork Brine Injection](#4103-pork-brine-injection), slathers it with pesto and oil, and then **wraps it in a single layer of parchment paper tied with butcher's twine** for the whole smoke. The Smoked Bone Broth is a finishing gravy, not part of a baste. *(Do not use wax paper.)*
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 215 (second-pass QC).** The five printed ingredient lines (6 lb center-cut loin, ⅓ cup Pork Brine Injection p. 162, ½ cup Pesto p. 189, 3 Tbsp high-quality olive oil, ¾ cup Smoked Bone Broth optional p. 220), MAKES 8 / TAKES 3¼ hours + about 1 hour, the 3-hour refrigerated rest after injecting, 225°F indirect with heavy white smoke, the 135-to-140°F finish, and ½-inch slices all match the page; six steps in printed order. **One tidy-up:** parchment paper and butcher's twine are equipment the method calls for, not a printed ingredient line — moved out of the ingredient list into a *you'll also need* note. No salt quantity involved; nothing illegible.
+
 **Makes 8 servings · Takes 3¼ hours to make the injection and to rest the meat after injecting, and about 1 hour to cook** *(as printed)*
 
 **🟢 Easy** · **Prep ~20 min** *(injecting, slathering, wrapping and tying)* · **Cook ~1 hr** *(indirect at 225°F, unattended)* · **Start to finish ~4¼ hr** *(includes a 3 hr rest after injecting)*
@@ -29448,7 +29452,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ½ cup Pesto ([§4.131](#4131-pesto) or [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce))
 - 3 tablespoons high-quality olive oil
 - ¾ cup Smoked Bone Broth ([§7.104](#7104-smoked-bone-broth)) *(optional)*
-- Parchment paper and butcher's twine
+
+*You'll also need parchment paper and butcher's twine (Step 3) and a meat injector (Step 1) — equipment the method calls for, not printed ingredient lines.*
 
 #### B. Cooking Instructions
 
@@ -29503,6 +29508,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **What changed — the method is a rolled roast, not a tunneled one.** The earlier transcription had a knife tunneled lengthwise through the middle and packed with a cranberry-and-nut filling. The printed recipe **unrolls the loin into a long ¾-inch slab**, spreads **1 pound of bread stuffing** over it, sprinkles on the cranberries, then rolls it back into a log and ties it. The nuts and dried fruit are an option in the source's NOTES, not the main filling — and the bread stuffing, missing entirely from the first transcription, is the bulk of what goes inside.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 216–217 (second-pass QC).** The six printed ingredient lines — 1 (6-pound) fresh bone-in center-cut pork loin roast, **1½ tablespoons kosher salt**, 1 lb bread stuffing, ½ cup dried cranberries, 2 Tbsp Simon & Garfunkel Rub p. 168, vegetable oil — MAKES 12 / TAKES 45 minutes + 2 hours, the 3-hour salt rest, the ¾-inch unroll, twine every inch or so, 225°F indirect, a hint of smoke only, about 2 hours to 135–140°F, 30 minutes per inch at the widest part, ½-inch slices, and every sentence of the NOTES are exactly as printed; eight steps in printed order. The 2026-09-06 rebuild (rolled, not tunneled; the pound of stuffing) is confirmed on the page. **Three tidy-ups:** Step 3's "go slowly and keep the thickness even" was never printed and is struck; Step 4 regains the page's photo note (the picture shows a *pesto* stuffing); and butcher's twine moves from the ingredient list to a *you'll also need* note, since the page lists only the six lines above. No salt quantity changed. The salt and stuffing lines sit under a glare band on the photo but read cleanly at full resolution.
+
 **Makes 12 servings · Takes 45 minutes preparation time, 2 hours cooking time** *(as printed)*
 
 **🟡 Medium** · **Prep ~45 min** · **Slow cook ~2 hr** *(indirect grill or smoker, unattended)* · **Start to finish ~2 hr 45 min** *(+ a 3 hr dry brine)*
@@ -29517,7 +29524,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ½ cup dried cranberries (see Notes)
 - 2 tablespoons Simon & Garfunkel Rub ([§4.109](#4109-simon--garfunkel-rub))
 - Vegetable oil
-- Butcher's twine
+
+*You'll also need butcher's twine (Step 5) — equipment the method calls for, not a printed ingredient line.*
 
 #### B. Cooking Instructions
 
@@ -29528,10 +29536,10 @@ Trim off all surface fat and silverskin from the pork. Sprinkle the meat with th
 Prepare your favorite bread stuffing — and make it **extra moist** (see Notes). Prepare extra so you can cook and serve some on the side.
 
 **3. Unroll the loin into a slab.**
-Insert a long, sharp knife into the meat about **¾ inch up the side** of the meat. Work the knife along at the same height, **unrolling** the meat until you have a long ¾-inch slab of loin. Go slowly and keep the thickness even.
+Insert a long, sharp knife into the meat about **¾ inch up the side** of the meat. Work the knife along at the same height, **unrolling** the meat until you have a long ¾-inch slab of loin (the book shows this in a photo).
 
 **4. Spread the stuffing.**
-Place the stuffing on the cut portion of the meat and sprinkle it with the dried cranberries. Try to level it from edge to edge, front to back.
+Place the stuffing on the cut portion of the meat and sprinkle it with the dried cranberries. Try to level it from edge to edge, front to back. *(In the book's picture the pork has been spread with a pesto stuffing.)*
 
 **5. Roll and tie.**
 Roll the top of the meat over the stuffing and into a **log shape**. Tie the roast with butcher's twine every inch or so. Coat the rolled and tied meat with the rub.

@@ -497,7 +497,7 @@ Click any recipe to jump straight to it.
 - [8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) ✅
 - [8.30 Turtle Soup I](#830-turtle-soup-i) ✅
 - [8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) ✅
-- [8.32 Potato Soup](#832-potato-soup) ✅ *(⚠️ no directions on the source card — standard method used, see Open Questions)*
+- [8.32 Potato Soup](#832-potato-soup) ✅ *(no directions on the source card — method and missing amounts are cookbook judgment, per Cody)*
 - [8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) ✅ 👍
 - [8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) ✅ ❤️
 - [8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot) ✅ ❤️
@@ -1080,7 +1080,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) *(The Meathead Method)* | 🟡 | 15 min | 5 min *(sear; + 30 min sauce simmer and 10 min smoke, mostly unattended)* | — | ~1 hr |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§4.157 Borani Esfenaj](#4157-borani-esfenaj-persian-spinach-yogurt) | 🟢 | 15 min | 5 min *(sautéing spinach in batches)* | — | 20 min |
-| [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
+| [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **~2 hr** *(dehydrator, then 10 min at 275°F)* | 10–26 hr *(8–24 hr rest)* |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | 🟢 | 10 min | 10 min | **48–72 hr** *(sous vide, unattended)* | 48 hr 20 min – 72 hr 20 min |
@@ -1093,7 +1093,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) | 🟢 | 20 min | — | — | 20 min |
 | [§7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) *(Meathead)* | 🟡 | 5 min | 15 min | — | 1 hr 20 min *(+ 1 hr fridge dry-brine)* |
-| [§9.29 Deer Jerky](#929-deer-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
+| [§9.29 Deer Jerky](#929-deer-jerky) | 🟡 | 20 min | — | **~2 hr** *(dehydrator, then 10 min at 275°F)* | 10–26 hr *(8–24 hr rest)* |
 | [§4.85 Beurre Blanc / Nantais (White Butter)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) | 🔴 | 5 min | 15 min | — | 20 min |
 | [§4.74 Sauce Diable](#474-sauce-diable-peppery-brown-sauce) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
 | [§4.81 Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) | 🟢 | 5 min | 15 min | — | 20 min *(+ brown sauce)* |
@@ -1281,7 +1281,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) | 🟢 | 20 min | 28 min | — | 50 min *(plus full cooling and up to 2 hr chill before filling — not active work)* |
-| [§8.32 Potato Soup](#832-potato-soup) | 🟢 | 20 min | 30 min | — | 50 min |
 | [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) ❤️ | 🟢 | 20 min | 30 min | — | 50 min |
 | [§7.67 Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) | 🟡 | 35 min | 15 min | — | 1 hr 20 min *(includes a 30 min buttermilk marinate; +1 hr skewer soak in parallel)* |
 | [§16.1 Hot Apple Cider](#161-hot-apple-cider) | 🟢 | 10 min | 40 min | — | 50 min |
@@ -1340,6 +1339,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(Meathead)* | 🟡 | 5 min | 45–60 min | — | 2 hr 50 min *(includes a 2 hr wet brine)* |
 | [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) | 🟡 | 15 min | 50 min *(low-oven dry-bake, mostly unattended)* | — | 1 hr 5 min |
 | [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(Meathead)* | 🟡 | 5 min | 1 hr | — | 5–7 hr *(includes a 4–6 hr dry brine)* |
+| [§8.32 Potato Soup](#832-potato-soup) | 🟢 | 25 min | 40 min *(20 of it an unattended simmer)* | — | 1 hr 5 min |
 | [§14.9 Pecan Pie I](#149-pecan-pie-i) | 🟢 | 15 min | 52 min | — | 1 hr 10 min |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
 | [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) | 🟡 | 45 min | 25 min | **6–9 hr** *(three rises — the waiting is the method)* | ~7 hr *(+ 2–3 hr cool)* |
@@ -1383,7 +1383,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
-| [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§8.27 Green Gumbo](#827-green-gumbo) | 🟡 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | 🟡 | 15 min | 1 hr 35 min | — | 1 hr 50 min |
@@ -1403,6 +1402,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 36 hr** *(broth simmer, sous vide)* | 2 days |
 | [§8.44 Courtbouillon](#844-courtbouillon) | 🟡 | 20 min | 2 hr *(1 hr of it an unattended simmer)* | — | 2 hr 20 min |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
+| [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) | 🟢 | 25 min | 2 hr *(mostly an unattended simmer; venison ~1 hr 45, beef ~2 hr 15)* | — | 2 hr 25 min |
 | [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 2 hr 10 min *(mostly unattended reduction)* | — | 2 hr 30 min |
 | [§8.46 Verna's Galimatias](#846-vernas-galimatias) | 🔴 | 45 min | 1 hr 45 min | — | 2 hr 30 min |
 | [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
@@ -36597,42 +36597,53 @@ Pour sherry into the serving bowl — not more than 1 tablespoon per large bowl 
 
 ### 8.32 Potato Soup
 
-Transcribed from Cody's own recipe/grocery-planning spreadsheet — **ingredients and quantities only, no cooking directions at all**, the same gap as [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters). ⚠️ **The method below is not Cody's own words** — it's the standard loaded-potato-soup technique (simmer the vegetables in broth, then melt in the cheeses and cream) that this exact ingredient list points to. Flagged plainly rather than presented as dictated.
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — **ingredients only, no cooking directions at all**, the same gap as [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters). The card's ingredient list is Cody's; the quantities it left blank and the whole method are not.
 
-**Yield:** a big pot — serves about 8
+> ✅ 2026-09-07 per Cody ("look it up online from a reputable source") — **cookbook judgment: method and missing quantities filled from published loaded-potato-soup recipes, reconciled to the card's list.** The card gives cauliflower, celery, potatoes, onion, broth "to cover," cheddar (no amount), sour cream, Velveeta, cream cheese, a splash of whipping cream, bacon bits, and Tabasco. The amounts marked *(cookbook judgment)* below and the seven-step method are scaled from A Spicy Perspective's stovetop loaded baked potato soup (2½ lb russets, 4 cups broth, 2 cups sharp cheddar, 8 oz bacon, ½ cup sour cream; https://www.aspicyperspective.com/easy-loaded-baked-potato-soup-stovetop-crock-pot/), Southern Living's *Loaded Potato Soup* (4 lb potatoes, 3½ cups broth, 1 pint half-and-half; https://www.southernliving.com/recipes/loaded-potato-soup-recipe), and Taste of Home's slow-cooked version (https://www.tasteofhome.com/recipes/slow-cooked-loaded-potato-soup/). The card's ~2½ lb of potatoes plus a 2-lb head of cauliflower is about 4½ lb of vegetables, so it scales like Southern Living's 4-lb pot. **Nothing on the card was removed or swapped.**
 
-**🟢 Easy** · **Prep ~20 min** · **Cook ~30 min** · **Start to finish ~50 min**
+**Yield:** a big pot — serves 8–10
+
+**🟢 Easy** · **Prep ~25 min** · **Cook ~40 min** *(20 of it an unattended simmer)* · **Start to finish ~1 hr 5 min**
 
 #### A. Ingredients
 
-- 1 head cauliflower, cut into small pieces
+- 1 head cauliflower, cut into small florets
 - 3 stalks celery, chopped
-- 5 or 6 potatoes, peeled and cubed
+- 5 or 6 potatoes (about 2½ lb), peeled and cut into ¾-inch cubes
 - 1 small onion, chopped
-- Chicken broth, enough to cover *(amount not given — see Open Questions)*
-- Shredded cheddar cheese *(amount not given)*
+- Chicken broth — **6 cups (one 48-oz carton)**, enough to cover; hold back 1 cup and add it only if the pot is thick *(cookbook judgment — the card says "to cover")*
+- Shredded sharp cheddar cheese — **2 cups (8 oz): 1½ cups stirred in, ½ cup for the top** *(cookbook judgment — no amount on the card)*
 - 8 oz sour cream
 - 8 oz Velveeta, cubed
 - 4 oz cream cheese, softened
-- A splash of whipping cream
-- Bacon bits, to taste
-- Tabasco, to taste
+- A splash of whipping cream — **about ¼ cup** *(cookbook judgment)*
+- Bacon bits — **8 slices (8 oz) bacon, cooked and crumbled, about 1 cup**, or a 3-oz jar of real bacon bits *(cookbook judgment on the amount; the card just says bacon bits)*
+- Tabasco — **½ tsp (about 8 dashes) to start**, then to taste *(cookbook judgment)*
+- Salt and pepper, to taste at the end *(not on the card; the Velveeta and broth carry most of the salt)*
+- Optional: sliced green onions for the top
 
 #### B. Cooking Instructions
 
-**1. Simmer the vegetables.**
-Combine the cauliflower, celery, potatoes, and onion in a large pot with enough chicken broth to cover. Bring to a boil, then reduce to a simmer and cook until the potatoes and cauliflower are fork-tender, about 20 minutes.
+**1. Cook the bacon in the soup pot, and keep 2 tablespoons of the fat.**
+If you're using real bacon, cook it in the bottom of the soup pot over medium until crisp, about 8–10 minutes, then lift it out to paper towels and crumble it. Pour off all but about 2 Tbsp of the fat. *That's the Southern move — the onion and celery sweat in bacon fat.* If you're using jarred bacon bits, the card's shortcut, use 2 Tbsp butter instead and skip ahead.
 
-**2. Mash lightly.**
-Mash some of the vegetables right in the pot for body, leaving the rest in pieces — this isn't meant to be fully smooth.
+**2. Sweat the onion and celery. About 5 minutes.**
+Into the fat over medium heat until soft and translucent, not browned.
 
-**3. Melt in the cheeses.**
-Stir in the Velveeta, cream cheese, and shredded cheddar over low heat until fully melted and smooth.
+**3. Add the potatoes, cauliflower, and broth. Boil, then simmer 15–20 minutes.**
+Add the potato cubes and cauliflower florets and pour in 5 cups of the broth — it should just cover them; add the last cup if it doesn't. Bring to a boil, then drop to a simmer, partly covered, until a fork slides through a potato cube with no resistance, **15–20 minutes.**
 
-**4. Finish with the cream and seasoning.**
-Stir in the sour cream and a splash of whipping cream. Season with Tabasco to taste.
+**4. Mash about half of it, right in the pot.**
+A potato masher, a few passes — enough to break down roughly half the potatoes and cauliflower for body, leaving the rest in pieces. This isn't meant to be smooth.
 
-**5. Serve topped with bacon bits.**
+**5. Drop the heat to low and melt in the cheeses, one at a time.**
+Cream cheese first, stirred until it disappears; then the Velveeta cubes; then 1½ cups of the cheddar. Stir until smooth and glossy after each. **Keep it at low — from here on the pot must not boil.**
+
+**6. Off the heat: sour cream, whipping cream, Tabasco, salt and pepper.**
+Pull the pot off the burner, then stir in the sour cream, the ¼ cup of cream, and ½ tsp of Tabasco. Taste; add Tabasco a few dashes at a time — it should warm the back of your throat, not burn — and salt only if it needs it. **Sour cream curdles and cheddar breaks if the soup boils after they go in**, which is why they go in last, off the heat. If it's thicker than you like, loosen with the reserved cup of broth.
+
+**7. Serve topped with bacon, the rest of the cheddar, and green onions.**
+Ladle into bowls and top each with crumbled bacon, a pinch of the reserved ½ cup cheddar, and green onions if you have them.
 
 #### C. Grocery Shopping List
 
@@ -36640,18 +36651,19 @@ Stir in the sour cream and a splash of whipping cream. Season with Tabasco to ta
 
 - 🛒 Cauliflower — 1 head
 - 🛒 Celery — 3 stalks
-- 🛒 Potatoes — 5 or 6
+- 🛒 Potatoes — 5 or 6 (about 2½ lb)
 - 🛒 Onion — 1 small
-- 🛒 Chicken broth
-- 🛒 Shredded cheddar cheese
+- 🛒 Chicken broth — one 48-oz carton (6 cups)
+- 🛒 Shredded sharp cheddar cheese — 8 oz
+- 🛒 Green onions — 1 bunch *(optional)*
 
 **🏪 Specific store — deli**
 
 - 🏪 Sour cream — 8 oz
 - 🏪 Velveeta — 8 oz
 - 🏪 Cream cheese — 4 oz
-- 🏪 Whipping cream
-- 🏪 Bacon bits
+- 🏪 Whipping cream — ¼ cup (a half-pint carton)
+- 🏪 Bacon — 8 slices (8 oz), or a 3-oz jar of real bacon bits
 
 **🛒 General grocery**
 
@@ -36661,15 +36673,17 @@ Stir in the sour cream and a splash of whipping cream. Season with Tabasco to ta
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole pot** | ~3,200 | 220 g | 105 g | 195 g | 20 g |
-| **Per serving** *(serves 8)* | ~400 | 28 g | 13 g | 24 g | 2.5 g |
+| **Whole pot** | ~4,350 | 280 g | 170 g | 290 g | 35 g |
+| **Per serving** *(serves 10)* | ~435 | 28 g | 17 g | 29 g | 3.5 g |
 
-**What a serving is:** about 1½ cups — a hearty bowl.
+**What a serving is:** about 1½ cups — a hearty bowl, with its share of the bacon and cheddar on top.
+
+*Recomputed 2026-09-07 on the filled-in amounts — 8 oz cheddar, 8 slices of bacon plus 2 Tbsp of its fat, ¼ cup cream, 6 cups broth. Those additions are about 1,100 calories over the earlier estimate, most of it the cheddar and bacon. Serving count moved from 8 to 10; the pot is bigger than the old figures assumed.*
 
 #### D. Open Questions
 
-- **No cooking directions were on the card at all** — see the flag above.
-- **Broth, cheddar, bacon bits, and Tabasco amounts aren't given** — all estimated to a reasonable working quantity for this size batch.
+- ✅ 2026-09-07 per Cody ("look it up online from a reputable source") — **no directions on the card; the seven-step method above is cookbook judgment**, reconciled to the card's ingredient list from the three sources cited in the note. The one rule that matters: no boiling after the dairy goes in.
+- ✅ 2026-09-07 — **broth, cheddar, bacon, cream, and Tabasco amounts** set as cookbook judgment (6 cups, 8 oz, 8 slices, ¼ cup, ½ tsp to start) and labeled in the ingredient list. Adjust after a pot and say so.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -36681,44 +36695,54 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, kept in Mamma's
 
 **👍 Tried and liked** — *Cody: "Yummie."*
 
-**🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr 30 min** · **Start to finish ~1 hr 50 min**
+> ✅ 2026-09-07 per Cody ("this is when you throw in and you eyeball — use your judgment, but use all these ingredients") — **eyeball-scale amounts are cookbook judgment; the ingredients, the order, and the quotes are Mamma's.** This is a throw-it-in stew and the amounts below are meant to be read that way: a starting picture of a family pot, not a formula. **Every ingredient on the card is used**, including the cider vinegar the card listed but never told you where to put. Basis: Culinary Hill's stove-top venison stew (1–1½ lb venison, 4 cups potatoes, 3 carrots, 2 celery, 1 onion, a 15-oz can of tomatoes, 1 tsp cider vinegar; https://www.culinaryhill.com/stove-top-venison-stew/), Montana Fish, Wildlife & Parks' venison stew (3 lb stew meat, tomatoes, bouillon, cider vinegar; https://fwp.mt.gov/binaries/content/assets/fwp/montana-outdoors/recipes/venisonstew_ma13.pdf), and Hank Shaw's venison stew (https://honest-food.net/food-plot-venison-stew-recipe/). The common thread across all three: **venison stew meat needs 1–1½ hours to go tender, and the acid goes in small and late.**
+
+**🟢 Easy** · **Prep ~25 min** · **Cook ~2 hr** *(venison ~1 hr 45 min; beef chuck ~2 hr 15 min — most of it an unattended simmer)* · **Start to finish ~2 hr 25 min**
 
 #### A. Ingredients
 
-- Stew meat — deer or beef
-- Carrots, chopped
-- Onion, chopped
-- Celery, chopped *(named in the directions but not listed as its own line on the card — see Open Questions)*
-- Potatoes, chopped
-- Cabbage, chopped
-- Bouillon, to taste — *"I add a lot, just however strong in flavor you want it"*
-- Diced tomatoes (stewed or canned)
-- Apple cider vinegar *(listed on the card — see Open Questions on when it's added)*
+*Family pot, serves 6–8. Amounts are eyeball-scale cookbook judgment — Mamma's card gives none.*
+
+- Stew meat — deer or beef, **2½–3 lb**, cut in 1–1½-inch cubes
+- 2 Tbsp oil, for searing, plus salt and pepper for the meat
+- Water — **enough to cover, about 6 cups**
+- Carrots, chopped — **4**, in ¾-inch coins
+- Onion, chopped — **1 large**
+- Celery, chopped — **3 ribs** *(named in the directions but not listed as its own line on the card; kept, since the method calls for it)*
+- Potatoes, chopped — **1½ lb (4–5 medium)**, in 1-inch chunks
+- Cabbage, chopped — **½ small head, about 4 cups**
+- Bouillon, to taste — **4 beef cubes (or 1½ Tbsp Better Than Bouillon) to start, up to 6** — *"I add a lot, just however strong in flavor you want it"*
+- Diced tomatoes (stewed or canned) — **one 14.5-oz can, with its juice** (or 2 cups stewed)
+- Apple cider vinegar — **1 Tbsp with the tomatoes, up to 1 Tbsp more at the end** *(on the card; when and how much is cookbook judgment — see Step 7)*
 - Favorite bread, for serving
-- Shredded potato, optional, to thicken
-- Liquid smoke, optional — *"not necessary"*
+- Shredded potato, optional, to thicken — **1 small potato, grated**
+- Liquid smoke, optional — **¼ tsp** — *"not necessary"*
 
 #### B. Cooking Instructions
 
-**1. Sear the stew meat in a pot.**
+**1. Sear the stew meat in a pot. In batches, 3–4 minutes a batch.**
+Pat the cubes dry, salt and pepper them, and brown them in 2 Tbsp oil over medium-high in a heavy pot — **in batches, never crowded**; a crowded pot steams the meat gray instead of browning it. Set each batch aside as it colors.
 
 **2. Add water, carrots, onion, and celery, all chopped, to the pot with the seared meat.**
+Everything back in, about 6 cups of water to cover, scrape the browned bits off the bottom, and bring it to a simmer. Cover partly and keep it at a lazy bubble.
 
-**3. Add the potatoes once the carrots, onion, and celery have softened a little.**
-Potatoes cook faster than the others, so they go in after, not with them.
+**3. Add the potatoes once the meat is getting tender and the carrots have softened a little. That's about 45 minutes in for venison, an hour for beef.**
+Potatoes cook faster than the others, so they go in after, not with them. *Mamma's cue is "once the carrots soften a little" — with venison, give the meat its 45 minutes before that call, or the potatoes will have dissolved before the meat is tender.* Potatoes take 20–25 minutes from here.
 
 **4. Add the bouillon.**
-Per Mamma's own note: *"I add a lot — just however strong in flavor you want it."*
+Per Mamma's own note: *"I add a lot — just however strong in flavor you want it."* Four cubes to start, dissolved in; taste after the cabbage goes in and add up to two more. Hold the salt until the end — bouillon is salty.
 
-**5. Add the cabbage when the potatoes are nearly done.**
+**5. Add the cabbage when the potatoes are nearly done. 10–15 minutes.**
+When a potato chunk is just short of fork-tender, stir in the cabbage. It wilts down fast and needs only 10–15 minutes.
 
-**6. Add the stewed or canned diced tomatoes.**
+**6. Add the stewed or canned diced tomatoes — and the first tablespoon of cider vinegar.**
+Tomatoes with their juice, plus 1 Tbsp of cider vinegar. Simmer 10 minutes more, uncovered if it needs to tighten up. The meat should be fork-tender by now; if it isn't, keep it going.
 
 **7. Thicken to taste, if you want it thicker.**
-*"Depending on how thick you want it, you can add shredded potato to the stew to thicken it if you want. I usually don't do this — I just let the potatoes cook down some to thicken."*
+*"Depending on how thick you want it, you can add shredded potato to the stew to thicken it if you want. I usually don't do this — I just let the potatoes cook down some to thicken."* If you do want it: one small potato, grated, stirred in 10 minutes before serving — it disappears and thickens.
 
-**8. Liquid smoke is optional.**
-*"You can also add liquid smoke if you want, but not necessary."*
+**8. Liquid smoke is optional. So is the second splash of vinegar — taste for it, off the heat.**
+*"You can also add liquid smoke if you want, but not necessary."* About ¼ tsp if you do. Then, off the heat, taste: if the pot reads flat or gamey — venison especially — stir in up to 1 Tbsp more cider vinegar. A splash of acid at the finish is what cuts the gaminess in every venison stew worth the name; 1–2 Tbsp total for a 3-lb pot is the credible range. Salt now, if it needs it.
 
 **9. Serve with your favorite bread.**
 
@@ -36726,18 +36750,19 @@ Per Mamma's own note: *"I add a lot — just however strong in flavor you want i
 
 **🏪 Specific store — butcher**
 
-- 🏪 Stew meat — deer or beef
+- 🏪 Stew meat — deer or beef, 2½–3 lb
 
 **🛒 General grocery**
 
-- 🛒 Carrots
-- 🛒 Onion
-- 🛒 Celery
-- 🛒 Potatoes
-- 🛒 Cabbage
-- 🛒 Bouillon
-- 🛒 Diced tomatoes (canned or stewed)
-- 🛒 Apple cider vinegar
+- 🛒 Carrots — 4
+- 🛒 Onion — 1 large
+- 🛒 Celery — 3 ribs
+- 🛒 Potatoes — 1½ lb (4–5 medium), plus 1 small if thickening
+- 🛒 Cabbage — ½ small head
+- 🛒 Beef bouillon — 4–6 cubes, or a jar of Better Than Bouillon
+- 🛒 Diced tomatoes (canned or stewed) — one 14.5-oz can
+- 🛒 Apple cider vinegar — 1–2 Tbsp
+- 🛒 Cooking oil
 - 🛒 Liquid smoke, optional
 
 **🏪 Specific store — bakery**
@@ -36748,16 +36773,18 @@ Per Mamma's own note: *"I add a lot — just however strong in flavor you want i
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole pot** *(using 2 lb stew meat, serves 6)* | ~2,600 | 130 g | 175 g | 165 g | 22 g |
-| **Per serving** *(serves 6)* | ~435 | 22 g | 29 g | 28 g | 3.5 g |
+| **Whole pot** *(2¾ lb venison, serves 7)* | ~2,750 | 60 g | 325 g | 205 g | 37 g |
+| **Per serving** *(serves 6–8; figured on 7)* | ~390 | 9 g | 46 g | 30 g | 5 g |
 
-**What a serving is:** a large bowl, about 1½–2 cups, with bread on the side.
+**What a serving is:** a large bowl, about 1½–2 cups, with bread on the side (bread not counted).
+
+*Recomputed 2026-09-07 on the eyeball amounts above. **With beef chuck instead of venison** the pot runs about 3,650 calories and 130 g fat — roughly 520 calories and 19 g fat per serving; venison is that much leaner. The bouillon carries the sodium.*
 
 #### D. Open Questions
 
-- **No quantities given at all** — everything above is written at the "add to taste" scale the card itself uses. The Nutrition figures assume roughly 2 lb of stew meat and a normal vegetable ratio for a family-size pot.
-- **Celery is named in the directions but not listed as its own ingredient row** on the card — kept in the ingredient list here since the method calls for it.
-- **Apple cider vinegar is listed as an ingredient but never mentioned in the directions** — when and how much to add isn't specified; confirm with Mamma before this is locked in.
+- ✅ 2026-09-07 per Cody ("throw in and eyeball — use your judgment, but use all these ingredients") — **eyeball-scale amounts set for every ingredient**, labeled as cookbook judgment; basis and sources in the note above. Mamma's amounts, if she ever writes them down, replace these.
+- ✅ 2026-09-07 — **Celery** stays in the ingredient list; the card's directions call for it.
+- ✅ 2026-09-07 — **Apple cider vinegar:** 1 Tbsp in with the tomatoes, up to 1 Tbsp more at the end, off the heat, to taste — cookbook judgment from the venison-stew sources (Culinary Hill uses 1 tsp per 1½ lb; Montana FWP uses it in a 3-lb pot). Still worth confirming with Mamma how she does it.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -37938,9 +37965,11 @@ Give it a stir partway or at the end to even out the heat. Garnish as desired an
 
 Transcribed from a handwritten seasoning note, checked off item by item — a dry-cure seasoning blend sized for 1 lb of meat, with a dehydrator timing note at the bottom that's been through a couple of revisions.
 
-> **The card shows its own trial and error.** Two earlier timings are crossed out — ~~160° for ½ hr, then~~ and ~~150° for 8–10 hr~~ — with **1.5 to 1.75 hrs, tray swap** written in as the answer that actually worked. Kept here for the record since it explains why the final number looks so different from a typical jerky recipe's "several hours at low temp." *No temperature is written next to the final timing — see Open Questions.*
+> **The card shows its own trial and error.** Two earlier timings are crossed out — ~~160° for ½ hr, then~~ and ~~150° for 8–10 hr~~ — with **1.5 to 1.75 hrs, tray swap** written in as the answer that actually worked. Kept here for the record since it explains why the final number looks so different from a typical jerky recipe's "several hours at low temp." *No temperature is written next to the final timing — per Cody, the dehydrator doesn't have one. See the ⚠️ below.*
 
-**🟡 Medium** · **Prep ~20 min** · **Cook none** · **Slow cook ~1 hr 45 min** *(dehydrator, one tray swap)* · **Start to finish ~2 hr 5 min**
+> ⚠️ ✅ 2026-09-07 per Cody ("we can rest; I don't think the dehydrator has a temperature — use your judgment") — **cookbook judgment on the rest and on safety with a dehydrator you can't set.** Two things are written in below. **(1) The mix rests 8–24 hours in the refrigerator before it's extruded.** **(2) Every batch gets a 10-minute finish in a 275°F oven after drying.** That second one is the USDA/extension rule, not a preference: jerky is safe only if the meat reaches **160°F** at some point, because a dehydrator's dry heat lets bacteria survive the drying — the strips "look done before they are heated enough to destroy pathogens." A dehydrator has to hold at least 145–155°F to do that on its own, and with no thermostat there's no way to know this one does. The accepted fix for a home dehydrator is a **post-drying oven heat — 275°F for 10 minutes** — which UC ANR says to "always include as a safety precaution." Ground-meat jerky needs this more, not less: any bacteria are mixed all the way through, not just on the surface. Sources: USDA FSIS, *Jerky and Food Safety* (https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-fish/jerky); UC ANR, *Making Safe Jerky in a Home Dehydrator* (https://ucanr.edu/sites/default/files/2020-12/341222.pdf); University of Minnesota Extension (https://extension.umn.edu/preserving-and-preparing/how-safely-make-homemade-jerky); NDSU Extension, *Jerky Making* (https://www.ndsu.edu/agriculture/extension/publications/jerky-making-producing-traditional-food-modern-processes). *One-time check worth doing: set an oven thermometer on a tray and run the dehydrator empty for 20 minutes. If it reads 155°F or better, the machine is doing the job on its own — but the oven step still costs ten minutes and nothing else, so keep it.* Cody's 1¾-hour dry time, for what it's worth, suggests the machine runs hot: ¼-inch ground strips at 145°F usually take 3–4 hours.
+
+**🟡 Medium** · **Prep ~20 min** · **Cook none** · **Slow cook ~2 hr** *(dehydrator ~1¾ hr with one tray swap, then 10 min at 275°F in the oven)* · **Start to finish ~10–26 hr** *(8–24 hr refrigerated rest)*
 
 **❤️ Family favorite** — *Cody: "The best on the planet."*
 
@@ -37950,7 +37979,7 @@ Transcribed from a handwritten seasoning note, checked off item by item — a dr
 
 - 1 Tbsp chili powder
 - ¼ tsp allspice
-- ⅛ tsp black pepper
+- ⅛ tsp black pepper *(as this card reads; [§9.29 Deer Jerky](#929-deer-jerky)'s card says 1⅛ tsp — Cody is verifying which is right)*
 - ¼ tsp cracked red pepper — **not cayenne**, per the card
 - ⅛ tsp garlic powder
 - ⅛ tsp onion powder
@@ -37967,10 +37996,19 @@ Transcribed from a handwritten seasoning note, checked off item by item — a dr
 Combine the chili powder, allspice, black pepper, cracked red pepper, garlic powder, onion powder, salt, Accent, sage, and cumin.
 
 **2. Add the liquid smoke and Worcestershire, and mix into the ground beef.**
-Work the seasoning blend, liquid smoke, and a splash of Worcestershire directly into the ground beef — mix it the way you would a meatloaf, until the seasoning is even all the way through, not just on the surface. Because this is ground rather than sliced meat, there's no separate marinating step: the flavor is already mixed in before it's formed. *Forming method (jerky gun/extruder vs. flattened by hand or rolled and cut) isn't specified on the card — see Open Questions.*
+Work the seasoning blend, liquid smoke, and a splash of Worcestershire directly into the ground beef — mix it the way you would a meatloaf, until the seasoning is even all the way through, not just on the surface. Because this is ground rather than sliced meat, there's no separate marinating step: the flavor is mixed in before it's formed.
 
-**3. Form into strips, then dehydrate. 1.5 to 1.75 hours, swapping trays partway through.**
-Shape the seasoned ground beef into thin, even strips on the dehydrator trays — a jerky gun makes this fast and consistent, but pressing it out by hand or rolling and cutting works too. Swap the trays partway through — top to bottom, or however your dehydrator runs unevenly — so one batch doesn't dry faster than another. *No temperature is written down for this final timing; see Open Questions.*
+**3. Rest the mix, covered, in the refrigerator. 8 to 24 hours.** *(cookbook judgment, per Cody's "we can rest")*
+Cover the bowl and refrigerate at least 8 hours — overnight is the natural rhythm — and up to 24. The salt, Accent, and smoke distribute through the meat, and the chilled mix firms up so it extrudes cleanly instead of smearing. Four hours is the floor if you're pressed.
+
+**4. Form into strips, then dehydrate. 1.5 to 1.75 hours, swapping trays partway through — but the bend test is the stop, not the clock.**
+Extrude the seasoned ground beef into thin, even strips, **about ¼ inch thick**, on the dehydrator trays — a jerky gun makes this fast and consistent (see [§9.29](#929-deer-jerky), whose card says "squeeze on dehydrator"). Swap the trays partway through — top to bottom, or however your dehydrator runs unevenly — so one batch doesn't dry faster than another. Cody's 1.5–1.75 hours is his number and it's kept; treat it as a guide and stop on the test: **cool a strip 2–3 minutes; it should bend and crack without snapping, with no wet spots.** Snaps clean, it's over-dried. Bends without cracking or feels tacky, it's not done — give it more time and test again.
+
+**5. Finish every batch in a 275°F oven for 10 minutes.** *(USDA/extension rule — see the ⚠️ above)*
+Lay the dried strips on a rack over a sheet pan, single layer, and heat at 275°F for 10 minutes. This is the step that guarantees the meat has been to 160°F, since the dehydrator's temperature is unknown. Strips thicker than ¼ inch may need a few minutes more.
+
+**6. Blot, cool, and refrigerate.**
+Blot the fat off with paper towels while the strips are still warm, cool them completely, and pack airtight. **Ground jerky is fattier than sliced and it goes in the refrigerator** — 2 weeks there, 3 months or more in the freezer. Room temperature is only a week or two.
 
 #### C. Grocery Shopping List
 
@@ -37982,7 +38020,7 @@ Shape the seasoned ground beef into thin, even strips on the dehydrator trays �
 - 🛒 Liquid smoke
 - 🛒 Worcestershire sauce
 
-**Not a grocery item, but useful:** a jerky gun or extruder, for forming even strips out of the ground beef. A dehydrator (or an oven that runs low and even, with the trays swapped the same way) either way.
+**Not a grocery item, but useful:** a jerky gun or extruder, for forming even strips out of the ground beef. A dehydrator (or an oven that runs low and even, with the trays swapped the same way), plus an oven and a wire rack for the 275°F finish. An oven thermometer, once, to learn what the dehydrator actually runs.
 
 #### Nutrition *(estimated)*
 
@@ -37993,13 +38031,14 @@ Shape the seasoned ground beef into thin, even strips on the dehydrator trays �
 
 **What a serving is:** about 1 oz — three or four strips, a small handful.
 
-*Weight drops by roughly two-thirds during dehydrating, but the nutrition doesn't leave with the water — it just concentrates. 95% lean beef keeps the fat low for jerky.*
+*Weight drops by roughly two-thirds during dehydrating, but the nutrition doesn't leave with the water — it just concentrates. 95% lean beef keeps the fat low for jerky; blotting after the oven step takes a little more off.*
 
 #### D. Open Questions
 
-- **No temperature given for the final 1.5–1.75 hr timing.** The two earlier attempts (160° and 150°) are both crossed out as not-it, but no number is written next to the setting that worked — confirm the actual dehydrator temp before this gets used again. [§9.29 Deer Jerky](#929-deer-jerky), the same seasoning system on venison, has the identical gap.
+- ✅ 2026-09-07 per Cody ("I don't think the dehydrator has a temperature — use your judgment") — **no temperature to confirm; the machine has no thermostat.** Cookbook judgment: keep Cody's 1.5–1.75 hr with the bend test as the stop, and **post-heat every batch at 275°F for 10 minutes** per USDA/extension guidance, cited in the ⚠️ above. [§9.29 Deer Jerky](#929-deer-jerky) gets the same steps.
 - ~~Forming method isn't specified on the card~~ — **resolved via [§9.29 Deer Jerky](#929-deer-jerky)**, the same seasoning system on ground deer, whose card reads "squeeze on dehydrator" — a jerky gun or extruder.
-- **Whether the seasoned mixture rests before forming** — some ground jerky recipes sit mixed and covered in the fridge for a few hours before shaping, to let the cure and seasoning fully distribute. Not noted on the card; confirm if that's part of the actual process.
+- ✅ 2026-09-07 per Cody ("we can rest") — **the mix rests 8–24 hours, refrigerated, before forming.** Written into Step 3; the window is cookbook judgment.
+- **Black pepper — ⅛ tsp here vs. 1⅛ tsp on [§9.29](#929-deer-jerky)'s card.** Cody: *"I need to verify about the black pepper."* Both transcribed as their cards read until he does.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39465,11 +39504,13 @@ Serve the oysters hot off the grill, with the toasted bread alongside to soak up
 
 ### 9.29 Deer Jerky
 
-Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as [§9.27](#927-reuben)/[§9.28](#928-char-grilled-oysters). **The same seasoning system as [§9.6 Beef Jerky](#96-beef-jerky), applied to ground deer instead of ground beef** — nearly every quantity matches exactly, confirming §9.6's blend is a real formula rather than a one-off. Two differences, both kept as written rather than smoothed to match: **more black pepper here** (1⅛ tsp vs. §9.6's ⅛ tsp), and this card calls the chile ingredient "red pepper flakes" where §9.6's card specifies "cracked red pepper, not cayenne" — likely the same thing worded differently, not a real substitution.
+Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as [§9.27](#927-reuben)/[§9.28](#928-char-grilled-oysters). **The same seasoning system as [§9.6 Beef Jerky](#96-beef-jerky), applied to ground deer instead of ground beef** — nearly every quantity matches exactly, confirming §9.6's blend is a real formula rather than a one-off. Two differences, both kept as written rather than smoothed to match: **more black pepper here** (1⅛ tsp vs. §9.6's ⅛ tsp — Cody is verifying which card is right), and this card calls the chile ingredient "red pepper flakes" where §9.6's card specifies "cracked red pepper, not cayenne" — likely the same thing worded differently, not a real substitution.
 
 > **This card also answers one of §9.6's own Open Questions.** Its directions read *"Combine ingrediants. Squeeze on dehydrator."* — "squeeze" confirms a jerky gun or extruder is the forming method, which §9.6 had flagged as unspecified. Cross-linked back into that entry.
 
-**🟡 Medium** · **Prep ~20 min** · **Cook none** · **Slow cook ~1 hr 45 min** *(dehydrator, one tray swap)* · **Start to finish ~2 hr 5 min**
+> ⚠️ ✅ 2026-09-07 per Cody ("we can rest; I don't think the dehydrator has a temperature — use your judgment") — **same cookbook judgment as [§9.6](#96-beef-jerky), and the same safety rule.** The mix rests 8–24 hours refrigerated before it's squeezed out, the bend test is the stop, and **every batch gets 10 minutes in a 275°F oven after drying** — because jerky is only safe once the meat has reached 160°F, a dehydrator with no thermostat can't be trusted to get it there, and ground meat has any bacteria mixed all the way through. The full reasoning and the USDA / UC ANR / University of Minnesota / NDSU sources are in §9.6's ⚠️; Michigan State Extension says the same for venison specifically (https://www.canr.msu.edu/news/venison_jerky_tips).
+
+**🟡 Medium** · **Prep ~20 min** · **Cook none** · **Slow cook ~2 hr** *(dehydrator ~1¾ hr with one tray swap, then 10 min at 275°F in the oven)* · **Start to finish ~10–26 hr** *(8–24 hr refrigerated rest)*
 
 #### A. Ingredients
 
@@ -39478,7 +39519,7 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as 
 - 1 lb ground deer
 - 1 Tbsp chili powder
 - ¼ tsp allspice
-- 1⅛ tsp black pepper *(notably more than §9.6's ⅛ tsp — kept as the card gives it)*
+- 1⅛ tsp black pepper *(notably more than §9.6's ⅛ tsp — kept as the card gives it; Cody is verifying)*
 - ¼ tsp red pepper flakes
 - ⅛ tsp garlic powder
 - ⅛ tsp onion powder
@@ -39494,11 +39535,20 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as 
 **1. Combine the ingredients.**
 Mix the chili powder, allspice, black pepper, red pepper flakes, garlic powder, onion powder, salt, Accent, sage, and cumin, then work the blend, liquid smoke, and Worcestershire directly into the ground deer — mixed in like a meatloaf, the same as [§9.6 Beef Jerky](#96-beef-jerky).
 
-**2. Squeeze onto the dehydrator trays.**
-Extrude the seasoned deer into thin, even strips with a jerky gun. Swap the trays partway through so one batch doesn't dry faster than another.
+**2. Rest the mix, covered, in the refrigerator. 8 to 24 hours.** *(cookbook judgment, per Cody's "we can rest")*
+At least 8 hours, up to 24; overnight is the rhythm. The seasoning distributes and the chilled mix extrudes cleanly. Four hours is the floor.
 
-**3. Dehydrate. 1.5 to 1.75 hours.**
-*No temperature is written on this card either — see [§9.6's](#96-beef-jerky) own Open Question on the same gap.*
+**3. Squeeze onto the dehydrator trays.**
+Extrude the seasoned deer into thin, even strips, **about ¼ inch thick**, with a jerky gun. Swap the trays partway through so one batch doesn't dry faster than another.
+
+**4. Dehydrate. 1.5 to 1.75 hours — the bend test is the stop.**
+Cody's time is kept as the guide. Stop on the test: **cool a strip 2–3 minutes; it should bend and crack without snapping, no wet spots.** Snaps clean, over-dried; bends without cracking or feels tacky, not done. *No temperature to set — per Cody the dehydrator has none; see the ⚠️ above.*
+
+**5. Finish every batch in a 275°F oven for 10 minutes.** *(USDA/extension rule)*
+Strips on a rack over a sheet pan, single layer, 275°F for 10 minutes. This is what guarantees the meat has been to 160°F.
+
+**6. Blot, cool, and refrigerate.**
+Blot the strips with paper towels while warm, cool completely, pack airtight. Venison is lean, but ground jerky still goes in the **refrigerator** — 2 weeks there, 3 months or more frozen.
 
 #### C. Grocery Shopping List
 
@@ -39513,7 +39563,7 @@ Extrude the seasoned deer into thin, even strips with a jerky gun. Swap the tray
 - 🛒 Liquid smoke
 - 🛒 Worcestershire sauce
 
-**Not a grocery item, but useful:** a jerky gun, per this card's own "squeeze on dehydrator" instruction. A dehydrator with swappable trays.
+**Not a grocery item, but useful:** a jerky gun, per this card's own "squeeze on dehydrator" instruction. A dehydrator with swappable trays, and an oven with a wire rack for the 275°F finish.
 
 #### Nutrition *(estimated)*
 
@@ -39526,8 +39576,8 @@ Extrude the seasoned deer into thin, even strips with a jerky gun. Swap the tray
 
 #### D. Open Questions
 
-- **No temperature given**, the same gap as [§9.6 Beef Jerky](#96-beef-jerky) — confirm before this gets used again.
-- **The black pepper quantity jump (1⅛ tsp vs. §9.6's ⅛ tsp)** is transcribed as written rather than assumed to be a typo, but worth double-checking against the actual card.
+- ✅ 2026-09-07 per Cody ("I don't think the dehydrator has a temperature — use your judgment") — **no thermostat to confirm.** Cookbook judgment, same as [§9.6](#96-beef-jerky): Cody's time with the bend test as the stop, 8–24 hr rest, and a 275°F / 10-minute oven finish on every batch. Sources in §9.6's ⚠️ and the MSU link above.
+- **The black pepper quantity jump (1⅛ tsp vs. §9.6's ⅛ tsp)** is transcribed as written. Cody, 2026-09-07: *"I need to verify about the black pepper."* Still open until he does.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -1008,7 +1008,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.152 North African Charmoula](#4152-north-african-charmoula) | 🟢 | 10 min | 3 min *(toasting cumin seeds)* | — | 15 min |
 | [§5.21 Sautéed Kale](#521-sautéed-kale) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§5.37 Mamma's Spinach](#537-mammas-spinach) | 🟢 | 5 min | 8 min | — | 15 min |
-| [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | 🟢 | 5 min | 6–11 min | — | 15–20 min *(by desired doneness)* |
 | [§4.101 Basic Brinerade](#4101-basic-brinerade) | 🟢 | 15 min | — | — | 15 min active *(+ brining time per §T37)* |
 | [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) | 🟢 | 15 min | — | — | 15 min |
 | [§4.112 Cajun Seasoning](#4112-cajun-seasoning) | 🟢 | 15 min | — | — | 15 min |
@@ -1065,8 +1064,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§6.7 Texas-Style Smoked Brisket](#67-texas-style-smoked-brisket) | 🟢 | 15 min | — | **6–8 hr** *(indirect charcoal, low)* | 6½–8½ hr *(+ optional 4–8 hr cure)* |
 | [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) | 🟢 | 15 min | — | **~3 hr** *(simmer, mostly unattended)* | 3 hr 15 min |
 | [§5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) *(Meathead)* | 🟢 | 10 min | 5 min | — | 20 min |
+| [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | 🟢 | 5 min | 6–11 min | — | 15–20 min *(by desired doneness)* |
 | [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) | 🔴 | 5 min | 12 min | — | 20 min |
-| [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 10 min | **~3½ hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3 hr 40 min |
 | [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) | 🟢 | 15 min | 3 min *(toasting cumin seeds)* | — | 20 min |
 | [§9.27 Reuben](#927-reuben) | 🟢 | 10 min | 8 min | — | 20 min |
 | [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 30 min *(printed TAKES)* |
@@ -1111,6 +1110,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.35 All-Butter Pie Dough](#1435-all-butter-pie-dough) | 🟡 | 20 min | — | — | 2 hr 45 min *(a 20 min freeze + a min. 2 hr chill, or overnight)* |
 | [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(Meathead)* | 🟢 | 20 min | — | **~1¾ hr** *(indirect grill, unattended)* | 2 hr 10 min |
 | [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(Meathead)* | 🟢 | 20 min | — | **5–6 hr** *(indirect smoker, unattended)* | 7–8 hr *(includes ~2 hr dry brine)* |
+| [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 10 min | **~3½ hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3 hr 40 min |
 | [§5.55 Steamy Sauté: Garlicky Green Beans](#555-steamy-sauté-garlicky-green-beans) | 🟢 | 10 min | 11 min | — | 20 min |
 | [§7.87 Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) *(Meathead)* | 🟢 | 20 min | 3 min | — | ~2 hr *(includes chilling the mousse until firm)* |
 | [§7.73 Bani Marine Street Beef Kebabs](#773-bani-marine-street-beef-kebabs) | 🟢 | 15 min | 8 min | — | 2 hr 25 min *(+ 2–8 hr marinate)* |
@@ -1148,9 +1148,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) | 🔴 | 20 min | 5 min | — | 2 hr 25 min *(includes an assumed ~2 hr chill)* |
 | [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) *(Meathead)* | 🟢 | 25 min | — | **8–12 hr** *(indirect grill/smoker, unattended)* | 8¾–12¾ hr *(+ optional 12–24 hr dry brine)* |
 | [§5.44 Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) *(Meathead)* | 🟢 | 10 min | 15 min | — | 30 min |
-| [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) | 🟢 | 15 min | 10–14 min | — | 30 min |
 | [§15.6 Pastry Biscuits](#156-pastry-biscuits) | 🟢 | 15 min | 12 min | — | 1 hr *(includes an assumed ~30 min chill)* |
 | [§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) | 🟢 | 15 min | 12 min | — | 30 min |
+| [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) | 🟢 | 15 min | 10–14 min | — | 30 min |
 | [§7.68 Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) | 🟢 | 20 min | 10 min | — | 2 hr 30 min *(+ 2 hr marinate)* |
 | [§7.70 Russian Shashlik](#770-russian-shashlik) | 🟢 | 20 min | 10 min | — | 8 hr 30 min *(+ 4–8 hr marinate)* |
 | [§7.72 Quick Persian Beef Kebabs](#772-quick-persian-beef-kebabs) | 🟢 | 20 min | 10 min | — | 30 min |
@@ -1180,7 +1180,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(The Meathead Method)* | 🟢 | 30 min | — | **4–5 hr** *(indirect smoker, unattended)* | 6–7 hr *(includes a 1–2 hr dry brine)* |
 | [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(The Meathead Method)* | 🟢 | 30 min | — | **~8 hr** *(smoker at 300°F, mostly unattended)* | ~9–21 hr *(includes an up-to-12-hr rest after rub/injection + 45 min rest)* |
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
-| [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
 | [§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 20 min | — | 45 min *(includes butter soak-in time)* |
 | [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
 | [§5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) *(Meathead)* | 🟢 | 20 min | 10 min | — | 30 min |
@@ -1213,6 +1212,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce) | 🟢 | 15 min | 20 min | **1½–2 hr** *(simmer, skimming)* | 2 hr 20 min |
 | [§4.71 Sauce Brune (Brown Sauce 1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) | 🟡 | 15 min | 20 min | **~2 hr** *(simmer, skimming)* | 2 hr 45 min |
 | [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) *(Meathead)* | 🟡 | 5 min | 30 min *(hot direct fire, watched)* | — | 35–45 min *(+ a 1–2 hr dry brine)* |
+| [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 35 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
 | [§15.2 Butter Dips](#152-butter-dips) | 🟢 | 20 min | 18 min | — | 40 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
 | [§4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) | 🟡 | 10 min | 30 min | — | 40 min |
@@ -1243,9 +1243,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) *(The Meathead Method)* | 🟢 | 10 min | 30 min | — | ~25 hr 10 min *(includes a 24 hr air-dry, mostly unattended in the fridge, + a 10 min hair-dry)* |
 | [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(The Meathead Method)* | 🟢 | 20 min | 20 min | **~5–7 hr** *(1–2 hr smoking the bones, then a 4–5 hr simmer, both unattended)* | ~6–8 hr |
 | [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | ~3 hr 40 min *(includes a 1–3 hr marinate)* |
-| [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🟡 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
-| [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 35 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
+| [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min *(simmer, strain, reduce)* | — | 45 min |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
@@ -1266,7 +1265,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§14.33 Baked Apples](#1433-baked-apples) *(The Meathead Method)* | 🟡 | 15 min | 30 min | — | 45 min |
 | [§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) *(The Meathead Method)* | 🟢 | 20 min | 25 min | — | 45 min |
-| [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 30–40 min | — | 2–3 hr *(includes the printed 1–2 hr dry brine)* |
 | [§5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) *(Meathead)* | 🟢 | 25 min | 20 min | — | 45 min |
 | [§14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) | 🟡 | 25 min | 20 min | — | 1 hr |
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
@@ -1276,6 +1274,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(Meathead)* | 🟡 | 45 min | — | **~2 hr** *(indirect grill, unattended)* | 2 hr 45 min *(+ 3 hr dry brine)* |
 | [§5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) *(Meathead)* | 🟢 | 20 min | 25 min | — | 45 min |
 | [§8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) | 🟢 | 20 min | 25 min | **3–4 hr** *(the printed simmer, unattended)* | 4 hr 30 min |
+| [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) | 🟢 | 20 min | 28 min | — | 50 min *(plus full cooling and up to 2 hr chill before filling — not active work)* |
 | [§8.32 Potato Soup](#832-potato-soup) | 🟢 | 20 min | 30 min | — | 50 min |
@@ -1289,6 +1288,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
 | [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) *(Meathead)* | 🟡 | 20 min | 30 min | — | 1 hr *(printed TAKES)* |
 | [§14.34 Poach It in Wine](#1434-poach-it-in-wine) | 🟢 | 20 min | 30 min *(varies hugely by fruit)* | **up to 2½ hr** *(quince only)* | 1 hr *(up to ~3 hr for quince)* |
+| [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 30–40 min | — | 2–3 hr *(includes the printed 1–2 hr dry brine)* |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
 | [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) | 🟢 | 20 min | 35 min | **4 hr** *(broth simmer)* | 5 hr *(or spread across 2 days)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
@@ -1345,8 +1345,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
-| [§7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) *(Meathead)* | 🟡 | 15 min | 1 hr 15 min *(attended, over embers)* | — | 2 hr *(salt and pepper go on 1–3 hr ahead)* |
-| [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) | 🟢 | 40 min | 35 min | — | 1 hr 15 min |
 | [§7.90 Smoked Salmon Quiche](#790-smoked-salmon-quiche) *(Meathead)* | 🟢 | 30 min | 45 min | — | 1 hr 30 min *(includes a 15 min cooling rest)* |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
@@ -1372,12 +1370,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) | 🟢 | 20 min | 1 hr 10 min *(mostly a low simmer)* | — | 1 hr 30 min |
 | [§7.62 Catfish Étouffée](#762-catfish-étouffée) | 🟡 | 25 min | 1 hr 5 min | — | 1 hr 30 min |
 | [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) | 🟡 | 15 min | 1 hr 15 min | — | 1 hr 30 min |
+| [§7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) *(Meathead)* | 🟡 | 15 min | 1 hr 15 min *(attended, over embers)* | — | 2 hr *(salt and pepper go on 1–3 hr ahead)* |
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) | 🟡 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§8.27 Green Gumbo](#827-green-gumbo) | 🟡 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
@@ -1426,7 +1426,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
-*Recipes still in placeholder form (§3, §5.1–5.9, §6.1, §6.3, §6.4, §6.5, §7.1–7.12, §9.1–9.4, §9.8, §10, §11.1–11.3, §11.5) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
+*Recipes still in placeholder form (§3, §5.1–5.9, §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.4, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
 *Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
 

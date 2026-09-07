@@ -9359,6 +9359,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Re-verified line by line against book pp. 186–187 on 2026-09-06**, during the page-order audit — this was the longest, most truncation-prone recipe in the batch, and it turned out to be **complete and accurate**: all 20 ingredients match the printed list exactly, and the source's 9 numbered steps are all present (condensed here into 7). **The printed MAKES 8 servings / TAKES 1 hour also check out.** The one thing that was wrong was the closing NOTE, corrected below.
 
+> ✅ **Re-verified again, independently, 2026-09-07, against book pp. 186–187 (second-pass QC).** All 20 ingredient lines match the page exactly, including the 1½ tsp kosher salt. The page's nine numbered steps are all present in the entry's seven, in printed order, with the substance intact: 3 thick onion rings over medium-high direct heat, lid up; tortillas turned every 5 seconds; a 3-quart pot over medium-high for the chiles, skin side down, pulled the moment they smoke; sesame seeds over medium heat until faint golden splotches, ¼ cup for the sauce and 2 Tbsp for garnish; almonds until golden-spotted; lard, then the aromatics for about 1 minute; stock, chocolate, honey, sugar, torn tortillas, about 30 minutes at a simmer; cool, purée in 1-cup batches, wipe the pot, strain back in, lime juice and salt; very low boil until thick, scraping every 5 minutes, thinned with water to bottled-spaghetti-sauce consistency; salt-and-pepper-and-oil the meat and grill while it simmers; sauce, rice, meat on eight plates. MAKES 8 servings / TAKES 1 hour and the ancho / cascabel / guajillo Note match. No change beyond this line.
+
+**Makes 8 servings · Takes 1 hour** *(as printed)*
+
 **🟡 Medium** · **Prep ~30 min** · **Cook ~1 hr** *(active — toasting chiles, nuts, and seeds all carry real scorch risk if left unattended)* · **Start to finish ~1 hr 30 min**
 
 #### A. Ingredients
@@ -12334,6 +12338,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **No added salt — as printed.** The soy sauce and Worcestershire carry all the sodium this sauce needs; [CLAUDE.md §3a](CLAUDE.md)'s heavier-salt preference is scoped to the standalone brines at [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection) and doesn't apply here.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 184 (second-pass QC).** All eleven ingredient lines match the page exactly, including every printed alternative (broth / white wine / sherry / water; ketchup or red barbecue sauce; rice vinegar / lemon / lime). The method — mix everything in a medium saucepan, simmer gently about 10 minutes, use now or store tightly closed in the fridge for months — and MAKES about 3 cups, enough for 2 whole chickens / TAKES 30 minutes match. No salt is printed, and none is added. **One wording fix:** the Sriracha Note now says what the page does — the small quantity called for *does not make the sauce very hot*. The scorch and end-of-cook saucing advice in Steps 2–3 is this cookbook's own [§T50](#t50-saucing-strategies--when-how-much-and-food-safety) commentary, not the page's, and is labeled as such.
+
+**Makes about 3 cups, enough for 2 whole chickens · Takes 30 minutes** *(as printed)*
+
 **🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(a gentle 10-minute simmer, plus grating the ginger and mincing the garlic)* · **Start to finish ~30 min** *(as printed; makes about 3 cups, enough for 2 whole chickens)*
 
 #### A. Ingredients
@@ -12356,12 +12364,12 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 Mix all the ingredients together in a medium saucepan. Nothing gets bloomed or browned first — this is a straight combine-and-reduce sauce.
 
 **2. Simmer gently, about 10 minutes.**
-Bring it to a gentle simmer and hold it there for about 10 minutes. Gentle is the word the source uses — a hard boil will drive the sauce past glaze and toward scorch, and there's enough sugar in the brown sugar, pineapple juice, and ketchup to make that a real risk. Stir occasionally and keep the heat low enough that the surface just breaks.
+Bring it to a gentle simmer and hold it there for about 10 minutes. Gentle is the word the source uses; the rest of this paragraph is this cookbook's own gloss — a hard boil will drive the sauce past glaze and toward scorch, and there's enough sugar in the brown sugar, pineapple juice, and ketchup to make that a real risk. Stir occasionally and keep the heat low enough that the surface just breaks.
 
 **3. Use it now, or bottle it.**
-Use the sauce right away, or store it in a tightly closed container in the refrigerator, where it keeps for months. Paint it on near the end of the cook rather than at the start, per [§T50](#t50-saucing-strategies--when-how-much-and-food-safety) — this is a sugary sauce and it will burn if it goes on early over direct heat.
+Use the sauce right away, or store it in a tightly closed container in the refrigerator, where it keeps for months. *(This cookbook's own addition, not the page's:)* paint it on near the end of the cook rather than at the start, per [§T50](#t50-saucing-strategies--when-how-much-and-food-safety) — this is a sugary sauce and it will burn if it goes on early over direct heat.
 
-**NOTE:** Sriracha is a garlicky, hot chile sauce, widely available now — but feel free to use whatever hot pepper sauce you have around. The quantity called for here is small.
+**NOTE:** Sriracha is a garlicky, hot chile sauce, widely available now — but feel free to use whatever kind of hot pepper sauce you have around. The small quantity called for here does not make the sauce very hot.
 
 #### C. Grocery Shopping List
 

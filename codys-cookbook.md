@@ -18117,42 +18117,44 @@ All but pink come from the *Piper nigrum* vine, a tropical plant, handled differ
 
 #### Chiles and heat
 
-**Most of a chile's heat lives in the seeds and the pale membrane (the pith/ribs), not the flesh** — the source calls out removing them if you want a chile's flavor without its full heat. The heat compound itself is **capsaicin**, an oily irritant that is **not water-soluble** — plain water won't wash it off your hands or your tongue. Wear gloves when working with hot chiles, and don't touch your eyes before you've washed thoroughly with soap.
+**Chiles** (with an "e") are the fruits of the *Capsicum* plant. They get their heat from **capsaicin**, a chemical irritant — and **most of it (85%) comes from capsaicin glands in the ribs, not the seeds**, so you can get a chile's flavor without its full heat by removing the ribs. *(Earlier version said "seeds and the pale membrane" — the page specifically says ribs, not seeds; corrected 2026-09-07.)* Wear gloves when chopping hot chiles, and don't rub your eyes (or anything else) before washing thoroughly. **Capsaicin oils are not water-soluble**: if your mouth ignites, beer and cold water only slosh the oil around. Lipids (fats) bind with capsaicin, so cream, milk, yogurt, butter, chocolate, and other fats do a better job of damping the flames.
 
-**Heat is measured on the Scoville Heat Unit (SHU) scale.** The source gives its own estimated SHU ranges for common chiles and chile products it uses:
+**Heat is measured on the Scoville Heat Unit (SHU) scale** — the page calls it a culinary Richter scale — and the chart is average, estimated, and not written in stone: the author has picked two jalapeños from the same plant that differed significantly in heat.
 
-> ✅ **Re-audited 2026-09-06, per Cody's page-order concern (see changelog).** A dedicated rescan re-photographed and re-read this same rotated page at higher resolution. The chart's own top row genuinely is the habanero/Scotch bonnet range shown below — there is no higher-heat row (ghost pepper, Carolina Reaper, Pepper X) printed anywhere on this page or elsewhere in the 55-page scan. This table is the complete chart as the source prints it, not a partial read; the earlier "may run higher" hedge is retracted.
+> ✅ **Re-audited 2026-09-06, per Cody's page-order concern (see changelog).** The chart's top row genuinely is the habanero/Scotch bonnet range — there is no higher-heat row printed on this page or elsewhere in the 55-page scan. **Corrected 2026-09-07 on second-pass QC:** the 09-06 note vouched for the chart as "complete," but five of its twelve rows were mis-transcribed (see QC note below). The table now matches p. 145 row for row.
 
 | SHU (estimated) | Chile / product |
 |---|---|
-| 0 | Bell peppers, banana peppers, mild paprika |
-| ~450 | Frank's RedHot and similar mild cayenne pepper sauces |
-| 1,000–1,500 | Poblano, ancho, and pasilla chiles |
-| 1,000–3,000 | Anaheim and cascabel chiles; American chili powder |
-| 1,500–2,500 | Sriracha sauce (Huy Fong and similar brands) |
-| 2,000–5,000 | Jalapeño chiles; chipotle powder and chiles |
-| 2,500–8,000 | Tabasco Chipotle sauce |
-| 10,000–25,000 | Serrano chiles |
+| 100,000–350,000 | Scotch bonnet chiles, habanero chiles |
+| 50,000–100,000 | Thai bird chiles |
 | 15,000–30,000 | McCormick crushed red pepper flakes |
-| 30,000–50,000 | Cayenne pepper; original Tabasco sauce |
-| 50,000–100,000 | Thai bird's-eye chiles |
-| 100,000–350,000 | Scotch bonnet and habanero chiles |
+| 10,000–25,000 | Serrano chiles |
+| 2,500–8,000 | Jalapeño chiles, chipotle powder and chiles |
+| 2,500–5,000 | Tabasco Sauce, Cholula Sauce |
+| 2,200 | Sriracha Sauce by Huy Fong (other brands are different) |
+| 1,500–2,500 | Tabasco Chipotle Sauce |
+| 1,000–3,000 | Anaheim chiles, cascabel chiles, pasilla chiles |
+| 1,000–1,500 | Poblano chiles, ancho chiles, American chili powder |
+| 450 | Frank's RedHot Original Cayenne Pepper Sauce |
+| 0 | Bell peppers, banana peppers, mild paprika |
 
-**"Chili" vs. "chile":** a chili (the dish, or a seasoning blend) is usually built from ground dried chile peppers plus cumin, garlic, and other spices — American-style chili powder is this kind of blend, not pure ground pepper. A pure "chile powder" (or a European-style one) is usually just ground dried chiles with nothing else added. Worth checking a label before assuming which one a recipe means.
+**"Chili" vs. "chile" vs. "chilli"** (p. 144): chili (with an "i") has multiple definitions. In the US, **chili powder** is a powdered seasoning mix of dried chile peppers, cumin, garlic, and other spices; in Europe, chili is usually just ground dried hot chiles. Chili is also the savory meat stew, usually beef, seasoned with American chili powder. "Chilli" with two l's is a misspelling. *(Cookbook gloss: check the label before assuming which one a recipe means.)* The page adds that most ground dried chiles, flakes, and sauces have little pepper flavor — just heat — and standard grocery hot-pepper flakes can carry a lot of hard, woody, flavorless seeds that stick in your teeth.
 
 #### Chipotles in adobo sauce
 
-**Chipotles are smoked and dried jalapeños**, sold packed in small cans in a vinegary tomato-based adobo sauce with onion, garlic, and a little sugar. **Many recipes want just the sauce, not the chiles** — [§4.173 Lexington Dip #2](#4173-lexington-dip-2) is a case in point, calling for a teaspoon of the adobo sauce itself and none of the chiles. Once opened, freeze leftover chiles-in-sauce in small portions (an ice cube tray works well) rather than letting the rest of the can go to waste in the fridge.
+**Chipotles** (p. 145) are used to make hot sauce, or packed in a can with a vinegar-and-tomato sauce called chipotle in adobo. The author uses Tabasco Chipotle sauce a lot (tasty, not too hot, easy to find); the canned version in adobo is great for stews and sauces — use the whole chiles, chop them up, or use the adobo sauce straight. Many of his recipes use **ground chipotle** as the heat source: it has no seeds, it's smoked, it has a nice flavor, and it's not painfully hot (but be careful with it). It's great on pastas and pizzas and anywhere you want heat. Ground chipotle is made from red jalapeños that are smoked and dried, seeds removed, and ground — easy to do at home — and he keeps a shaker on the dining table. **[§4.173 Lexington Dip #2](#4173-lexington-dip-2) wants just the sauce, not the chiles** — its "About Chipotles in Adobo Sauce" sidebar (p. 184) is cut off at the right edge in both the PDF spread and the standalone photo; the legible fragments confirm chipotles swimming in a sauce with onion and garlic, and "just use the sauce for this recipe." *(The earlier "a little sugar" and "freeze leftovers in an ice cube tray" details aren't legible on any upload — kept only as cookbook gloss, not as the book's words.)*
 
 #### Paprika
 
-> ✅ **Re-audited 2026-09-06, per Cody's page-order concern (see changelog).** A higher-resolution rescan of the same spread confirms the sidebar's own content ends with these three types — it doesn't continue into SHU figures or brand/country detail on this page. The earlier "only partly legible" hedge is retracted; this is the complete sidebar, not a partial read.
+> ✅ **Re-audited 2026-09-06, per Cody's page-order concern (see changelog)** — and **corrected 2026-09-07 on second-pass QC.** The 09-06 note said the sidebar ends with "three types." The page actually names **four** of the author's own terms, and the earlier descriptions (deep-red, Hungarian, ethnic grocery, pimentón) were general knowledge, not print.
 
-The source distinguishes three broad paprika types:
+**Paprika** (p. 145), as we know it in the US, is made from ground dried sweet chiles. In many countries paprika is ground from dried *hot* peppers, and in some countries "paprika" means fresh sweet chile peppers, not ground. Many cookbooks call the US kind "sweet paprika," which the author finds confusing — there's no sugar in it, and no paprika bottle actually says "sweet." So he uses his own nomenclature:
 
-- **Sweet paprika** — the mild, deep-red kind found in most American grocery stores. Used mainly for color and a mild flavor note rather than heat — this is the "mild paprika" that lands at 0 SHU on the chart above.
-- **Hot paprika** — has real, noticeable heat, more common in Hungarian cooking; worth seeking out at an ethnic grocery store if a recipe wants actual paprika heat rather than just color.
-- **Smoked paprika (pimentón)** — made from chiles that are dried and smoked rather than just dried, adding a smoky flavor note without needing an actual grill or smoker.
+- **Mild paprika** — the simple, mild-flavored orange-red powder on most American grocery-store spice racks. This is the "mild paprika" at 0 SHU on the chart above.
+- **Hot paprika** — has some hot peppers in the blend.
+- **Smoked mild paprika** and **smoked hot paprika** — the smoked versions of each.
+
+✅ 2026-09-07 second-pass QC against p. 144–145 (plus the partly legible p. 184 sidebar): **SHU chart had five wrong rows** — jalapeño is 2,500–8,000 (had 2,000–5,000); Tabasco Chipotle is 1,500–2,500 (had 2,500–8,000); Sriracha is a single 2,200 (had 1,500–2,500); pasilla sits with Anaheim/cascabel and American chili powder with poblano/ancho (were swapped); and the "30,000–50,000 cayenne pepper / original Tabasco" row does not exist — Tabasco Sauce and Cholula are printed at 2,500–5,000. Also fixed: heat is in the ribs not the seeds (85%); paprika is four terms, not three; chipotle description rewritten to the page. Added the dairy-not-water remedy, the jalapeño-variation caveat, and the chili/chile/chilli definitions as printed.
 
 [↑ Table of Contents](#table-of-contents)
 

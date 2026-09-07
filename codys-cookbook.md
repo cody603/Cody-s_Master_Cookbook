@@ -32523,6 +32523,8 @@ Add the meat to the pan. Check the meat temperature and shoot for medium-rare, 1
 
 ✅ 2026-09-07 second-pass QC against pp. 225–226: removed an unprinted "Salt, to finish" ingredient (the page says explicitly not to salt the meat); marinate corrected to "6 hours or more" (was 6–8 hr in the step and "2 hr" on the badge); restored the wood-on-the-fire/close-the-lid sear detail and the snip-the-toothpicks step; added MAKES/TAKES, special tools, serve-with, and the source's pan advice. Sauce page reference corrected to p. 192 as printed.
 
+✅ 2026-09-07 housekeeping: retired the closed sauce-gap bullet (settled at [§4.180](#4180-duxelles-and-mushroom-cream-sauce) on 2026-09-06); it was the only Open Questions item, so the section is removed.
+
 #### C. Grocery Shopping List
 
 **☯️ Hong Kong / Chinese market**
@@ -32548,10 +32550,6 @@ Add the meat to the pan. Check the meat temperature and shoot for medium-rare, 1
 | **Per serving** *(serves 2)* | ~825 | 60 g | 58 g | 8 g | 0.5 g |
 
 **What a serving is:** one bacon-wrapped 8–10 oz filet with about ¾ cup of pan sauce spooned around it.
-
-#### D. Open Questions
-
-- **✅ Closed 2026-09-06 — this entry no longer has an open sauce gap.** When this recipe was added, the pan sauce it calls for (Duxelles and Mushroom Cream Sauce, book p. 193) wasn't among the photographed pages, and cross-book stand-ins were used instead. **Both halves of that pair are now documented from the source's own pages:** [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) (recovered in the Vegetables & Seafood batch) and [§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) (recovered 2026-09-06 from newly photographed pages). **§4.180 is the one this recipe's own ingredient line actually names.** Nothing about the steps ever changed — they were complete and legible from the start.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -32806,6 +32804,8 @@ Remove the flat from the foil and add its liquid to the liquid the point cooked 
 
 ✅ 2026-09-07 second-pass QC against pp. 212–216: method rewritten to the page — the previous version had the smoker at 225°F throughout (the page starts at ~400°F for 30 min, then 275°F), simmered the mop (the page just stirs it), wrapped point and flat together (the page wraps them separately with ¾ cup and ½ cup of mop), pulled the point at 205°F and the flat at 203°F (page: flat 203–206°F, point 210°F), set the burnt ends for 15 min (page: 10 min), and had invented a "point stacked on flat as insulation" detail. Credits corrected to Clint Cantwell and Travis Clark; MAKES/TAKES and special tools added. Ingredients verified exact.
 
+✅ 2026-09-07 housekeeping: Open Questions section removed — both bullets were closed (pp. 214–216 reread at native resolution; Kansas City Red written up at [§4.178](#4178-kansas-city-red)).
+
 #### C. Grocery Shopping List
 
 **🏪 Specific store — butcher**
@@ -32830,11 +32830,6 @@ Remove the flat from the foil and add its liquid to the liquid the point cooked 
 | **Per serving** *(serves 28, the middle of the source's own 26–30)* | ~480 | 34 g | 38 g | 3 g | 0 g |
 
 **What a serving is:** about 8 oz of cooked meat per the source's own math (13–15 lb of finished meat over 26–30 servings) — sliced flat plus a couple of burnt ends, mixing lean and rich bites the way the turn-in box does.
-
-#### D. Open Questions
-
-- **✅ Closed 2026-09-07.** The earlier "hard-to-read spread" caveat is retired — pp. 214–216 were re-read at native resolution in the second-pass QC and the method above is now transcribed from the page rather than cross-filled from [§7.112](#7112-texas-beef-brisket). Note the two recipes genuinely differ: §7.112 smokes at 225°F throughout; this one starts at ~400°F, then runs at 275°F.
-- **✅ Resolved 2026-09-06. This recipe calls for the source's own "Kansas City Red" sauce, which the earlier Rubs & Spice Blends batch skipped as genuinely incomplete** — Cody has since photographed book pp. 180 and 182, and it is now written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. The stand-in cross-reference to [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) has been replaced with the real thing throughout this entry; §4.117 remains a perfectly good substitute if you have it made, but it is a **different sauce from a different book** — see the note at the top of §4.117.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -32912,6 +32907,8 @@ Slip the turn-in box into an insulated bag like the ones pizza deliveries use, a
 
 ✅ 2026-09-07 second-pass QC against pp. 245–248: pages re-read at native resolution, so the earlier "hard-to-read spread" caveat is retired. Method rewritten to the page: the foil packet is built with stripes of margarine and half the sugar/honey under the ribs (meat side *down*) and the rest on the bone side (was "dot the meat with pats"); the unwrapped 15-minute bark-firming step and the bounce/second-bone doneness tests were missing; the "inject instead of dry brine" option, the same-length-bones prep note, and the turn-in box/cut/walk steps were missing; an invented "rest 5–10 minutes, serve with extra sauce" step and a "spritz every 30–45 minutes" interval were struck (the page says only "some cooks spritz"). Ingredients, MAKES/TAKES, and temperatures verified exact.
 
+✅ 2026-09-07 housekeeping: Open Questions section removed — both bullets were closed (pp. 246–247 reread at native resolution; Kansas City Red written up at [§4.178](#4178-kansas-city-red)).
+
 #### C. Grocery Shopping List
 
 **🏪 Specific store — butcher**
@@ -32938,11 +32935,6 @@ Slip the turn-in box into an insulated bag like the ones pizza deliveries use, a
 | **Per serving** *(serves 2–3, per the source's own MAKES line)* | ~950 | 68 g | 56 g | 29 g | 1 g |
 
 **What a serving is:** roughly a third to a half of a slab — 4 to 6 ribs — the way a rack actually gets portioned at the table, not by weight.
-
-#### D. Open Questions
-
-- **✅ Closed 2026-09-07.** The earlier "hard-to-read spread" caveat about pp. 246–247 is retired — the pages were re-read at native resolution in the second-pass QC, and the method above (including the "About" sidebars) is now transcribed from the page.
-- **✅ Resolved 2026-09-06. The source's own "Kansas City Red" sauce — referenced by page number right in this recipe's ingredient list ("¼ cup Kansas City Red, page 180") — was flagged as genuinely incomplete by the earlier Rubs & Spice Blends batch.** Cody has since photographed book pp. 180 and 182, and it is written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. This entry now points at the real sauce rather than the [§4.117](#4117-kansas-city-classic-barbecue-sauce) stand-in, same as [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -33103,6 +33095,8 @@ Place the chicken on a wire rack or paper towels to drain, and then serve.
 
 ✅ 2026-09-07 second-pass QC against pp. 278–282: the vinegar-brine substitute was short — page prints **3 tablespoons** of salt, not 1; chicken size is 3½–4 lb (was 2½–4); oil depth is about 1½ inches (the ingredient line said 2½); the second dunk (back into brine, back into flour) was missing from Step 3, and the optional shaggy-crust brine amount is ¼ cup; the salt sprinkle after frying (Step 8) was missing; the pot sits on the grill's hot side under the closed grill lid, not on a side burner. MAKES/TAKES, special tools, and the source's oil/EverCrisp/serve-with notes added. Serving count is 2 as printed (the Open Question on the MAKES line is closed).
 
+✅ 2026-09-07 housekeeping: retired the closed MAKES-line bullet from Open Questions (the Nutrition block already uses the printed 2 servings); the other three bullets stand.
+
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
@@ -33128,7 +33122,6 @@ Place the chicken on a wire rack or paper towels to drain, and then serve.
 
 #### D. Open Questions
 
-- **✅ Closed 2026-09-07.** The MAKES line reads "10 pieces, 2 servings" at native resolution; the Nutrition block now uses that serving count.
 - **🚫 Dropped at Cody's request, 2026-09-06 — no longer tracked as a gap.** A separate, different recipe that USES this one as a component was skipped as genuinely incomplete when this entry was added. Its visible fragment reads: *"...2. FRY. Make the Real Fried Chicken on a Gas Grill as directed... 3. FINISH. While the chicken is frying, rewarm the hot flavored oil..."*, ending with that flavored oil painted onto the finished chicken with a basting brush; it sits immediately above [§7.142 Buttered-Up Turkey Breast](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s headnote on book p. 285, with its own title, headnote, ingredient list, and Step 1 on pages that were never photographed. **Cody has since said he doesn't want it**, so it is recorded here for the record rather than carried forward as something to chase.
 - **Thai Sweet Chile Sauce (book p. 200) and "Hot Honey"** are both named as serving suggestions in the source but aren't yet documented in this cookbook — noted rather than invented.
 - **EverCrisp**, a commercial dextrin-based crisping powder some restaurants add to dredges, is mentioned by the source as optional and isn't called for in this recipe's own ingredient list — explained at [§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method) as a category product, not something to shop for here.
@@ -33338,6 +33331,8 @@ The source points to AmazingRibs.com/mm for a link to the exact commercial produ
 
 ✅ 2026-09-07 second-pass QC against pp. 266–269: apple juice corrected to **½ cup** (was ⅓); credit corrected to Hall of Famer Darren Warth and his wife Sherry of Smokey D's BBQ, Des Moines, Iowa; MAKES/TAKES added. Restored missing details: the under-bone cartilage in Step 1; the rub-and-salt sequence in the skin methods; the "some cooks bag them with marinade" aside in Step 3; the turn-in-box garnish in Step 8; the 5-minute sit, the rack-to-drip, and the page's doneness cue ("dark and almost crispy," 10–15 minutes) in Steps 9–10; and the "About" notes on the injection product and the Warths' rubs and sauces.
 
+✅ 2026-09-07 housekeeping: retired the closed Kansas City Red bullet from Open Questions (settled at [§4.178](#4178-kansas-city-red) on 2026-09-06); the Bird Booster note stands.
+
 #### C. Grocery Shopping List
 
 **🏪 Specific store — butcher**
@@ -33364,7 +33359,6 @@ The source points to AmazingRibs.com/mm for a link to the exact commercial produ
 
 #### D. Open Questions
 
-- **✅ Resolved 2026-09-06. The source's own "Kansas City Red" sauce (book p. 180, referenced here by name) was flagged as genuinely incomplete by the Rubs & Spice Blends batch** — its ingredient list was legible, but its mixing method sat on book p. 182, which wasn't in the scan. Cody has since photographed both pages, and it is written up in full at **[§4.178 Kansas City Red](#4178-kansas-city-red)**. This entry now calls for the real sauce rather than the [§4.117](#4117-kansas-city-classic-barbecue-sauce) stand-in, same as [§7.135](#7135-championship-brisket-and-burnt-ends)/[§7.136](#7136-championship-pork-ribs). **One practical note:** §4.178 makes about 2 cups and this recipe wants 3½, so plan on a scant double batch.
 - **The source names a specific commercial product ("Bird Booster Rotisserie Flavor injection") as one competitor's preferred substitute** for the plain salted chicken stock injection used here — mentioned as an example of what's out there, not a required purchase; this recipe's own literal ingredient (salted chicken stock) is what's in the Ingredients list above.
 
 [↑ Table of Contents](#table-of-contents)
@@ -37670,10 +37664,11 @@ Whether the fish goes in whole or in pieces isn't stated; cut into serving piece
 
 #### Open Questions
 
-- **No fat is printed** for browning the vegetables; oil is assumed.
 - **Fish size, garlic, and seasoning** are all "to taste" or unstated; no yield is printed.
 
 ✅ 2026-09-07 transcribed and verified against photo of p. 67
+
+✅ 2026-09-07 housekeeping: dropped the Open Questions bullet that repeated the ⚠️ note about the unprinted browning fat — the ⚠️ paragraph is the one record; the fish-size/yield bullet stands.
 
 [↑ Table of Contents](#table-of-contents)
 

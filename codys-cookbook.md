@@ -28335,14 +28335,18 @@ Whisk together olive oil, chopped parsley, lemon juice, and salt, with minced ga
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. A cold hors d'oeuvre built on hot-smoked salmon puréed into a horseradish-and-dill mousse, piped onto toasted rye or pumpernickel with a ribbon of cucumber.
 
+**Makes about 1½ pounds, enough for 50 canapés · Takes 2 hours** *(as printed)*
+
 **🟢 Easy** · **Prep ~20 min** · **Cook ~3 min** *(toasting the bread rounds)* · **Start to finish ~2 hr** *(includes chilling the piped mousse until firm — the book doesn't give an exact chill time)*
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 329 (scan index 1, enlarged). One quantity was wrong: the lemon is **¼ lemon**, zest and juice — the entry had ¾. Steps 3 and 4 are re-split the way the page prints them (cucumber in 3; cutting *and* toasting the bread rounds in 4). Everything else — every other quantity, the ⅛-inch slices, the 1-inch chive lengths, the MAKES/TAKES line — matches.
 
 #### A. Ingredients
 
 **Mousse**
 
-- 8 oz hot-smoked salmon *(the source's own Schmancy Hot-Smoked Salmon, or any good hot-smoked salmon)*
-- Grated zest and juice of ¾ lemon
+- 8 oz hot-smoked salmon *(the source's own Schmancy Hot-Smoked Salmon, "about ¼ recipe," or any good hot-smoked salmon)*
+- Grated zest and juice of ¼ lemon
 - 2 oz cream cheese
 - ¼ cup sour cream
 - ½ tablespoon prepared white horseradish
@@ -28364,11 +28368,11 @@ Make sure all the bones are removed from the salmon, then put it in a food proce
 **2. Pipe and chill.**
 Spoon the mousse into a piping bag fitted with a small star tip and stash it in the fridge until well chilled. No piping bag? Spoon it into a plastic bag and snip off one corner when you're ready to pipe — or just use a spoon.
 
-**3. Cut the cucumber and bread.**
-Use a vegetable peeler to cut long ribbons of skin from tip to tip of the cucumber, making stripes — leaving some skin on gives more crunch and color. Cut the ends off and slice the cucumber into ⅛-inch-thick rounds (a mandoline helps). Cut the bread into small rounds just a little larger than the cucumber slices, using a small round cookie cutter or the rim of a glass with a sharp knife.
+**3. Cut the cucumber.**
+Use a vegetable peeler to cut long ribbons of skin from tip to tip of the cucumber, making stripes — leaving some skin on gives it a bit more crunch and texture. Cut the ends off and slice the cucumber into ⅛-inch-thick slices. (If you have a mandoline, now's the time to trot it out.)
 
-**4. Toast the bread.**
-Toast the bread rounds on the grill or under the broiler until golden brown on one side. Watch closely — they can burn in a hurry.
+**4. Cut and toast the bread.**
+Cut the bread into small, round slices just a little larger than the cucumber slices, using a small round cookie cutter or by cutting around the lip of a glass with a sharp knife. Toast the bread rounds on the grill or under the broiler until golden brown on one side. Watch closely — they can burn in a hurry.
 
 **5. Snip the chives.**
 Use kitchen scissors to snip the chives into 1-inch lengths.
@@ -28413,7 +28417,13 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **Where this points:** the source calls out Ted Peters Famous Smoked Fish in South St. Petersburg, Florida (smoking mullet since 1945) as the mecca for the real thing. Flaked off the skin, the smoked flesh doubles as a fish salad base — see [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) for the same idea with a different fish — or mixed with eggs, pasta, or potatoes.
 
+**Makes 1 serving · Takes 5 minutes to prep, 30 minutes to cook** *(as printed; Step 3 itself allows 30 to 45 minutes)*
+
 **🟢 Easy** · **Prep ~5 min** · **Slow cook 30–45 min** *(smoker, unattended)* · **Start to finish ~1 hr 15 min** *(plus a 30 min fridge rest after seasoning — lead time, not cooking)*
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 325–326 (scan indexes 43 and 2, enlarged). Every quantity, temperature, and step matches the page. Added: the printed MAKES/TAKES line and two headnote notes the entry had dropped — the recipe uses a whole fish *but fillets work too*, and *bluefish*, oily like mullet, is the source's other stand-in.
+
+> **Whole or fillets, trout or bluefish.** Per the source, "this recipe uses whole fish, but you can also use fillets," and you can also use bluefish, which, like mullet, is oily.
 
 #### A. Ingredients
 
@@ -28440,7 +28450,7 @@ Serve it right out of the smoker, or cold, with a wedge of lemon or tartar sauce
 
 **🏪 Specific store — fish market**
 
-- 🏪 Whole trout, boned — 1 lb *(or mullet, if you can source it)*
+- 🏪 Whole trout, boned — 1 lb *(or fillets; or mullet or bluefish, if you can source them)*
 
 **🛒 General grocery**
 
@@ -28464,9 +28474,13 @@ Serve it right out of the smoker, or cold, with a wedge of lemon or tartar sauce
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter, credited there to **Chef Mychael Bonner**, co-owner of The Reel Club in Oak Brook, Illinois. Meathead's take on one of Bonner's dishes — mayo-coated, skin-side-down grilled fillets served over a light, buttery white-wine-and-thyme broth Bonner calls "Brioni Broth," named for a chef friend.
 
-> **Three tricks from Chef Bonner, folded into this recipe:** he grills fillets skin side down only ("unilateral cooking") for potato-chip-crisp skin — though he warns catfish and other scaleless fish don't crisp well this way; he coats the skin with mayonnaise (about 60% oil, so it resists sticking and evaporation) rather than light mayo or a substitute; and he sometimes floats the dish on a raft of carrot sticks on the grill to keep the skin from scorching.
+> **Three tricks from Chef Bonner, folded into this recipe:** he grills fillets skin side down only ("unilateral cooking") for potato-chip-crisp skin — though he warns catfish and other scaleless fish don't crisp well this way; he coats the skin with mayonnaise (about 60% oil, so it prevents sticking and adds flavor — don't use light mayonnaise or a substitute, and if the fish still sticks, next time use a metal grill topper); and a perfectly grilled fillet needs no sauce, but he sometimes serves his with a thin, buttery Brioni Broth that "never challenges even the most delicate fish for center stage." On the plate, **Bonner floats his fillet on a raft of carrot sticks to keep the skin crisp** above the broth.
+
+**Makes 4 servings · Takes 1 hour to dry brine, 5 minutes to prep, and 15 minutes to cook** *(as printed)*
 
 **🟡 Medium** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~1 hr 20 min** *(plus a 1 hr fridge dry-brine before cooking — lead time, not cooking)*
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 323–325 (scan indexes 42–43, enlarged). Every ingredient quantity, the 450°F direct-heat target, the 120°F internal target, and the 5-minute simmer match. Two corrections: the page prints **five** steps (fish prep and broth are separate), and the entry had merged them — re-split; and the **carrot sticks are a serving raft on the plate, "to keep the skin crisp"** (the last sentence of Step 5, which runs onto p. 325) — the entry had them on the grill "to keep the skin from scorching," which the page does not say. Ingredient qualifier, headnote, and Step 5 corrected.
 
 > ⚠️ **Why Medium.** The fish cooks skin side down the whole time, off a precise 120°F internal target, without flipping — the instructions are explicit not to risk breaking it apart by flipping even if it's browning too fast near the grates. Overshoot the temperature and the fillet dries out; a fillet that won't release from the grates has to be judged by feel, not by the clock.
 
@@ -28488,21 +28502,24 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 2 cups low-sodium chicken broth
 - ⅛ teaspoon white pepper
 - Salt, to taste
-- Carrot sticks (optional, for a raft under the fish)
+- Carrot sticks (optional — a raft to float the fillet on at serving time, so the skin stays crisp above the broth)
 
 #### B. Cooking Instructions
 
-**1. Prep the fish and make the broth.**
-Salt the fillets on both sides and dry brine for about 1 hour. Just before cooking, pat the fish totally dry with paper towels, sprinkle both sides with Marietta's Fish Rub, and lightly coat the skin side with mayonnaise to help keep it from sticking to the grill. To make the broth, melt 1 tablespoon of the butter in a saucepan over medium heat and add the onion and thyme. Sauté until the onion is limp and a very light color (not golden). Add the wine, turn up the heat, and boil until it's almost gone. Add the chicken broth and bring to a boil, then turn the heat back down and simmer for 5 minutes. Strain out the onion and thyme, then whisk in the remaining 2 tablespoons butter over low heat until melted and blended in. Keep warm until the fish is done.
+**1. Prep the fish.**
+Salt the fillets on both sides and dry brine for about 1 hour. Just before cooking, pat the fish totally dry with paper towels, sprinkle both sides with Marietta's Fish Rub, and lightly coat the skin side with mayonnaise to help keep it from sticking to the grill.
 
-**2. Fire up.**
+**2. Make the broth.**
+Melt 1 tablespoon of the butter in a saucepan over medium heat and add the onion and thyme. Sauté until the onion is limp and a very light color (not golden). Add the wine, turn up the heat, and boil until it's almost gone. Add the chicken broth and bring to a boil, then turn the heat back down and simmer for 5 minutes. Strain to remove the onion and thyme solids, then whisk in the remaining 2 tablespoons butter over low heat until melted and blended in. Keep warm until the fish is done.
+
+**3. Fire up.**
 Set up the grill for two-zone cooking and shoot for about 450°F on the direct-heat side.
 
-**3. Cook.**
-Put the fillets on the grates over direct heat, skin side down, close the lid, and leave them alone until they get dark grill marks. As the fish cooks, rotate it 45 degrees to make a crosshatch and to help prevent burning — but don't flip it. If the fish won't let go of the grates, just leave it alone for now. When it hits 120°F in the center, remove it from the grill. If it's close to burning but not warmed through, move it to the indirect zone and close the lid until it hits the mark — don't risk breaking it up by flipping it.
+**4. Cook.**
+Put the fillets on the grates over direct heat, skin side down, close the lid, and leave them alone until they get dark grill marks. As the fish cooks, rotate it 45 degrees to make crosshatches and to prevent burning — but don't flip it. If the fish won't let go of the grates, just leave it alone for now. When it hits 120°F in the center, remove it from the grill. If it's close to burning but not warmed through, move it to the indirect zone and close the lid until it hits the mark — don't risk breaking it up by flipping it.
 
-**4. Serve.**
-Divide the broth among the plates and place the fish in the center, skin side facing up. If the skin has charred or torn, plate it skin side down instead.
+**5. Serve.**
+Divide the sauce among the plates and place the fish in the center, skin side facing up. If the skin has charred or torn, plate it skin side down. Bonner floats his on a raft of carrot sticks to keep the skin crisp.
 
 #### C. Grocery Shopping List
 
@@ -28520,7 +28537,7 @@ Divide the broth among the plates and place the fish in the center, skin side fa
 - 🛒 Dry white wine
 - 🛒 Low-sodium chicken broth
 - 🛒 White pepper
-- 🛒 Carrot sticks (optional)
+- 🛒 Carrot sticks (optional, for the serving raft)
 
 #### Nutrition *(estimated)*
 

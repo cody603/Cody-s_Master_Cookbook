@@ -134,7 +134,7 @@ Click any recipe to jump straight to it.
   - [4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) ✅
   - [4.114 Cowboy Java Rub](#4114-cowboy-java-rub) ✅
   - [4.115 Smoked Garlic Powder or Smoked Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) ✅
-  - [4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) ✅ *(per-pound rate's fraction unreadable on the page — ¼ tsp unconfirmed, flagged 2026-09-07)*
+  - [4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) ✅ *(per-pound rate confirmed ¾ tsp from the 2026-09-07 reshoot of p. 173)*
   - [4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) ✅ *(Meathead: The Science of Great Barbecue and Grilling; the title is this cookbook's own working name — see entry)*
   - [4.118 Columbia Gold (South Carolina Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) ✅ *(distinct from [§4.92](#492-carolina-mustard-barbecue-sauce))*
   - [4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) ✅ *(distinct from [§4.36](#436-north-carolina-vinegar-sauce)/[§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style)/[§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato))*
@@ -8386,6 +8386,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Re-verified line by line, 2026-09-07, against book pp. 169–170 (second-pass QC).** All seven ingredients and quantities, and the printed MAKES a bit less than ½ cup / TAKES 5 minutes, match; no salt is printed. **Two things changed.** (1) The method sentence sits at the top of p. 170 under a band of glare and is only partly legible — what can be read is *"Crush all … in a … or in a bowl with a … so they are about the same size but not ground …"*. The earlier entry's "mortar and pestle, a blender, or a spice grinder" is not what the page says (a **bowl** is the one tool that is legible), so Step 1 now carries only the legible words and is flagged. (2) The page's two **NOTES** — which the ingredient list points to — were never transcribed: **substitute black peppercorns if you can't find green, but the taste is significantly different, so do try to find green**; and **dried lemon zest is easy to make yourself** (scrape off the thin colored layer, leave the bitter white pith, lay it out for a day or so). Both are now in the entry.
 
+> ✅ **2026-09-07 closed from reshoot of p. 170.** The method sentence is fully legible: *mortar and pestle, or a bowl with a wooden spoon — same size, not powdered, then mix.* Step 1 now reads as printed. Both NOTES (black for green peppercorns, with the taste caveat; home-dried lemon zest — thin colored layer, no pith, a day or so on a plate) re-read and confirmed word for word.
+
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(plus a day of air-drying if you make your own lemon zest — see Notes)*
 
 #### A. Ingredients
@@ -8400,8 +8402,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 #### B. Cooking Instructions
 
-**1. Crush the herbs together until they're about the same size — not ground fine.**
-⚠️ *Partly illegible on the page (glare across the top of p. 170).* The legible words say to crush everything either in one tool the glare hides **or in a bowl with a** *(tool hidden)* **so they are about the same size but not ground** *(rest hidden)*. The sense is clear even if the tool isn't: break the herbs down evenly by hand, not to a powder. A bowl and the back of a spoon does it.
+**1. Crush everything together until the pieces are about the same size — not powdered.**
+Crush all the ingredients **with a mortar and pestle, or in a bowl with a wooden spoon,** so they are about the same size but not powdered. Mix. *(As printed on p. 170 — the whole sentence is legible on the 2026-09-07 reshoot; the earlier glare flag is retired.)*
 
 **2. Apply just before cooking.**
 Press onto fish fillets right before grilling or searing, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) — rubs don't need a head start the way a brine does. *(Application advice from the technique entry, not this page.)*
@@ -8449,6 +8451,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
 
 > ✅ **Corrected 2026-09-07 — second-pass QC against book p. 170 found an ingredient missing.** The page prints **fifteen** ingredients, not fourteen: **1½ teaspoons freshly ground black pepper**, listed between the red pepper flakes and the paprika, had been dropped — and the 2026-09-06 audit's "all exact" call missed it too. It's restored in the ingredient list, the grocery list, and the Nutrition block. Because the page's grind step names the whole spices it wants pulsed (celery, caraway, bay, rosemary, oregano, red pepper flakes) and the black pepper is already ground, it goes in with "the remaining ingredients" in Step 2. Everything else — the other fourteen quantities, the two-step method, and the printed MAKES ⅓ cup / TAKES 15 minutes — matches; no salt is printed. The headnote's uses are worth having: chicken, a boring pork chop, fish, blackened meats, jambalaya or gumbo, and the author's own andouille sausage.
+
+> ✅ **2026-09-07 re-verified against the clean reshoot of p. 170:** all fifteen ingredient lines (the restored 1½ tsp black pepper included), MAKES ⅓ cup, TAKES 15 minutes, and the two-step method match exactly. No change.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
 
@@ -8520,6 +8524,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 > ✅ **Corrected 2026-09-06 during the page-order audit of this book's 21-page scan.** The black peppercorns were transcribed as **3 Tbsp**; the source (book p. 170) prints **1 tablespoon**. Three times the pepper against 2 Tbsp of salt would have made this a pepper blend rather than the citrus-forward finishing salt it's meant to be. The salt is unchanged and matches the printed 2 Tbsp.
 
 > ✅ **Re-verified line by line, 2026-09-07, against book pp. 170–171 (second-pass QC).** All four ingredients (the 2026-09-06 pepper correction to 1 Tbsp holds; salt is the printed 2 Tbsp), both printed steps, the 1-to-3-hour dehydration window, the indoor-oven option, the grill topper over indirect heat, and the printed MAKES ¼ cup all match. **Two things fixed.** (1) The printed **TAKES is 3 to 4 hours** — the badge and index row had derived "1¼–3¼ hr" from the dehydration window alone; the printed figure now stands as start-to-finish. (2) The headnote's warning had been dropped: **this mixture contains salt, so don't double-salt by brining and then seasoning with it** — the same double-salt jeopardy [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) warns about, now stated here where it matters. The headnote's uses are restored too: on fish before cooking, as a finishing salt tableside, and in some pastas like carbonara.
+
+> ✅ **2026-09-07 re-verified against the clean reshoot of p. 170:** the headnote, **MAKES ¼ cup**, and **TAKES 3 to 4 hours** are exactly as printed. No change. *(The ingredient list and steps sit on p. 171, which this reshoot did not include; they stand on the earlier verification.)*
 
 > **⚠️ This one *does* contain salt. Don't brine the meat and then season it with this too — pick one, or you'll double-salt it.** *(Printed in the headnote; the opposite of the no-salt rubs above.)*
 
@@ -8676,7 +8682,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Salt note:** this recipe carries no separate salt of its own — its salt comes entirely from [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper), at that recipe's printed 2 Tbsp. No adjustment needed here.
 
-> ✅ **Re-verified line by line, 2026-09-07, against book p. 173 (second-pass QC).** All three components and quantities (3 Tbsp Citrus Salt and Pepper, 1 tsp each Smoked Onion Powder and Smoked Garlic Powder), the mix-together method, the Chef Ryan Udette credit, the printed MAKES ¼ cup / TAKES about 10 minutes, and the headnote's uses (steaks, pork chops, chicken, seafood before grilling at the time you would dry brine; finishing salt for meats, soups, salads, baked potatoes, popcorn; *it really shines on steaks*) all match. **One figure could not be confirmed:** the headnote's per-pound rate reads *"Use about [?] teaspoon per pound of meat,"* and the fraction's numerator sits under glare at the cropped left edge of the photograph — legible at no magnification or channel. The entry's **¼ tsp** is therefore *unconfirmed*, not verified; it could as easily be ¾ tsp (which, given that this blend is roughly half salt by volume, would land nearer [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s ½ tsp-of-salt-per-pound dry-brine rate). Flagged in Step 2 rather than guessed.
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 173 (second-pass QC).** All three components and quantities (3 Tbsp Citrus Salt and Pepper, 1 tsp each Smoked Onion Powder and Smoked Garlic Powder), the mix-together method, the Chef Ryan Udette credit, the printed MAKES ¼ cup / TAKES about 10 minutes, and the headnote's uses (steaks, pork chops, chicken, seafood before grilling at the time you would dry brine; finishing salt for meats, soups, salads, baked potatoes, popcorn; *it really shines on steaks*) all match. **One figure could not be confirmed:** the headnote's per-pound rate reads *"Use about [?] teaspoon per pound of meat,"* and the fraction's numerator sat under glare at the cropped left edge of that photograph. Flagged in Step 2 rather than guessed.
+
+> ✅ **2026-09-07 closed from reshoot of p. 173.** The fraction is **¾ teaspoon per pound of meat** — not the ¼ the entry had been carrying. That squares with the blend being roughly half salt by volume: ¾ tsp of it lands near [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s ½ tsp-of-salt-per-pound dry-brine rate. **MAKES ¼ cup / TAKES about 10 minutes** re-read and confirmed as printed. Step 2, the Nutrition serving, and the TOC flag are corrected.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(using already-made [§4.113](#4113-citrus-salt-and-pepper) and [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder))*
 
@@ -8692,7 +8700,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 Combine all three components in a bowl or jar.
 
 **2. Use liberally.**
-Apply to steaks, pork chops, chicken, or seafood before grilling, at the time you'd normally dry brine — about ¼ tsp per pound of meat ⚠️ *(the fraction's numerator is unreadable on the page — cropped edge plus glare — so ¼ is unconfirmed and may be ¾; see the note above)*. It also makes a great finishing salt for meats, as well as for soups, salads, and baked potatoes — or even popcorn. It really shines on steaks.
+Apply to steaks, pork chops, chicken, or seafood before grilling, at the time you'd normally dry brine — **about ¾ teaspoon per pound of meat** *(as printed; confirmed on the 2026-09-07 reshoot — the entry had said ¼)*. It also makes a great finishing salt for meats, as well as for soups, salads, and baked potatoes — or even popcorn. It really shines on steaks.
 
 #### C. Grocery Shopping List
 
@@ -8703,9 +8711,9 @@ Apply to steaks, pork chops, chicken, or seafood before grilling, at the time yo
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole batch** *(¼ cup)* | ~55 | 0.3 g | 1.5 g | 12 g | 3 g |
-| **Per serving** *(¼ tsp, per pound of meat)* | ~1 | 0 g | 0 g | 0.2 g | 0.1 g |
+| **Per serving** *(¾ tsp, per pound of meat — 16 servings per batch)* | ~3 | 0 g | 0.1 g | 0.8 g | 0.2 g |
 
-**What a serving is:** about ¼ tsp per pound of meat, applied like a dry brine, or a light pinch as a finishing salt.
+**What a serving is:** about ¾ tsp per pound of meat, applied like a dry brine, or a light pinch as a finishing salt. *(Serving re-divided 2026-09-07 to the printed ¾ tsp; the batch figures are unchanged.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16978,13 +16986,17 @@ A good rub is like a good orchestra — a range of instruments to play all the n
 
 **Lobster anatomy, if you're breaking one down:** the book's own diagram of a raw cold-water lobster labels head, tail, claw, tail fan, legs, and swimmerets, plus two internal parts worth knowing by name — the tomalley and the roe, which the diagram also labels "coral." *(Cookbook gloss, not printed on the page: the tomalley is the soft green liver-like organ in the body, and the roe is a female's eggs.)*
 
-> ✅ **2026-09-07 second-pass QC against Cody's photo of pp. 344–345: verified for everything on those pages** — the cold-water/warm-water contrast, the weights and meat yield, the lively-vs-listless test, the algae aside, the rubber bands, the grasp-from-above warning, all eight diagram labels, and the same-day advice. **The photo ends mid-sentence at the bottom of p. 345** ("…it will stay alive and fresh in"); the "2 to 3 days" figure and the entire storing paragraph below are from **book p. 346, which is not among the photographed pages** — they rest on the earlier scan check only. The tomalley/roe explanations are now marked as cookbook gloss.
+> ✅ **2026-09-07 second-pass QC against Cody's photo of pp. 344–345: verified for everything on those pages** — the cold-water/warm-water contrast, the weights and meat yield, the lively-vs-listless test, the algae aside, the rubber bands, the grasp-from-above warning, all eight diagram labels, and the same-day advice. The photo ends mid-sentence at the bottom of p. 345 ("…it will stay alive and fresh in"). The tomalley/roe explanations are now marked as cookbook gloss.
+>
+> ✅ **2026-09-07 closed from reshoot of pp. 346–347.** The storage paragraph is now read directly off p. 346: **2 to 3 days** in the fridge if handled well; never submerge a saltwater lobster in fresh water (it kills it); a pot so it can't crawl, about ¼ inch of water in the bottom, a **damp cloth or newspapers** over it; lobsters breathe air; *do not cover with ice.* All as the entry already had it — no change to the advice. Added from the same page: what to do with leftover cooked meat.
 
 **Handling a live lobster safely.** Live cold-water lobsters ship with rubber bands on the big front claws — leave them on until after the animal is dead. Always grasp a lobster from above, by the solid shell on the upper half, never by the tail — the tail has sharp edges that can gash you even after the lobster is dead.
 
 **Cook it the same day you buy it if you can** — it will stay alive and fresh in the fridge for 2 to 3 days if it has been handled well, but same-day is best.
 
 **Storing it if it does have to wait a day or two:** put it in a pot so it can't crawl around the fridge, add about ¼ inch of water in the bottom to keep it moist, and cover it with a damp cloth or newspapers. Lobsters can breathe air, so they'll be fine without being submerged. **Never submerge a saltwater lobster in fresh water** — this will kill it — **and do not cover it with ice.**
+
+**Leftover cooked lobster meat** (p. 346, from the [§7.94](#794-gregs-grilled-lobster) headnote): great on a sandwich with mayo, and especially good mixed into mac and cheese.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -18259,7 +18271,7 @@ All but pink come from the *Piper nigrum* vine, a tropical plant, handled differ
 
 <!-- TECHNIQUE-TAGS: meathead, meathead-method, chiles, scoville-scale, shu, chipotle, adobo-sauce, paprika -->
 **Tags:** `meathead` · `meathead-method` · `chiles` · `scoville-scale` · `shu` · `chipotle` · `adobo-sauce` · `paprika`
-**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Notes on Some of My Ingredients" reference section (book p. 144–145), plus a clearly legible "About Chipotles in Adobo Sauce" sidebar next to [§4.173 Lexington Dip #2](#4173-lexington-dip-2) (book p. 184).
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Notes on Some of My Ingredients" reference section (book p. 144–145), plus the "About Chipotles in Adobo Sauce" sidebar next to [§4.173 Lexington Dip #2](#4173-lexington-dip-2) (book p. 184, fully legible as of the 2026-09-07 reshoot). For making chile flakes, powders, chipotle, and paprika yourself, see [§T108](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method).
 **Used in:** background reference for any recipe calling for a specific chile, chipotle, or paprika — including this cookbook's existing [§4.173 Lexington Dip #2](#4173-lexington-dip-2), which already uses adobo sauce from a can of chipotles.
 
 #### Chiles and heat
@@ -18289,7 +18301,7 @@ All but pink come from the *Piper nigrum* vine, a tropical plant, handled differ
 
 #### Chipotles in adobo sauce
 
-**Chipotles** (p. 145) are used to make hot sauce, or packed in a can with a vinegar-and-tomato sauce called chipotle in adobo. The author uses Tabasco Chipotle sauce a lot (tasty, not too hot, easy to find); the canned version in adobo is great for stews and sauces — use the whole chiles, chop them up, or use the adobo sauce straight. Many of his recipes use **ground chipotle** as the heat source: it has no seeds, it's smoked, it has a nice flavor, and it's not painfully hot (but be careful with it). It's great on pastas and pizzas and anywhere you want heat. Ground chipotle is made from red jalapeños that are smoked and dried, seeds removed, and ground — easy to do at home — and he keeps a shaker on the dining table. **[§4.173 Lexington Dip #2](#4173-lexington-dip-2) wants just the sauce, not the chiles** — its "About Chipotles in Adobo Sauce" sidebar (p. 184) is cut off at the right edge in both the PDF spread and the standalone photo; the legible fragments confirm chipotles swimming in a sauce with onion and garlic, and "just use the sauce for this recipe." *(The earlier "a little sugar" and "freeze leftovers in an ice cube tray" details aren't legible on any upload — kept only as cookbook gloss, not as the book's words.)*
+**Chipotles** (p. 145) are used to make hot sauce, or packed in a can with a vinegar-and-tomato sauce called chipotle in adobo. The author uses Tabasco Chipotle sauce a lot (tasty, not too hot, easy to find); the canned version in adobo is great for stews and sauces — use the whole chiles, chop them up, or use the adobo sauce straight. Many of his recipes use **ground chipotle** as the heat source: it has no seeds, it's smoked, it has a nice flavor, and it's not painfully hot (but be careful with it). It's great on pastas and pizzas and anywhere you want heat. Ground chipotle is made from red jalapeños that are smoked and dried, seeds removed, and ground — easy to do at home — and he keeps a shaker on the dining table. **[§4.173 Lexington Dip #2](#4173-lexington-dip-2) wants just the sauce, not the chiles.** Its "About Chipotles in Adobo Sauce" sidebar (p. 184), now fully legible on the 2026-09-07 reshoot, says: this is chipotles — **smoked and dried jalapeños** — swimming in a **vinegary tomato sauce with onion, garlic, and a kiss of sugar**, sold in small cans. Just use the sauce from the can, not the chiles, for that recipe. Traditional Carolina vinegar sauces use hot pepper flakes instead, and those take a day or two to blend in; the adobo version is ready to go. *(The "kiss of sugar" the earlier entry had only as gloss is the page's own; the "freeze leftovers in an ice cube tray" tip is not on the page and is dropped.)* **Making your own chipotle from red jalapeños** is in [§T108](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method).
 
 #### Paprika
 
@@ -18302,6 +18314,8 @@ All but pink come from the *Piper nigrum* vine, a tropical plant, handled differ
 - **Smoked mild paprika** and **smoked hot paprika** — the smoked versions of each.
 
 ✅ 2026-09-07 second-pass QC against p. 144–145 (plus the partly legible p. 184 sidebar): **SHU chart had five wrong rows** — jalapeño is 2,500–8,000 (had 2,000–5,000); Tabasco Chipotle is 1,500–2,500 (had 2,500–8,000); Sriracha is a single 2,200 (had 1,500–2,500); pasilla sits with Anaheim/cascabel and American chili powder with poblano/ancho (were swapped); and the "30,000–50,000 cayenne pepper / original Tabasco" row does not exist — Tabasco Sauce and Cholula are printed at 2,500–5,000. Also fixed: heat is in the ribs not the seeds (85%); paprika is four terms, not three; chipotle description rewritten to the page. Added the dairy-not-water remedy, the jalapeño-variation caveat, and the chili/chile/chilli definitions as printed.
+
+✅ 2026-09-07 closed from reshoot of p. 184: the chipotles-in-adobo sidebar is now transcribed to print (above). On the same clean page, [§4.172 Alabama White Sauce](#4172-alabama-white-sauce) (all ten ingredients, MAKES 1 quart, TAKES 10 min + 2 hr) and [§4.173 Lexington Dip #2](#4173-lexington-dip-2) (all seven ingredients, MAKES 2 cups, TAKES 30 min, method, TO USE) re-verified — no change to either.
 
 [↑ Table of Contents](#table-of-contents)
 

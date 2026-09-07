@@ -16800,26 +16800,30 @@ There are several types of pork chops you need to know about. **They are all eas
 **Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter (book p. 242–243).
 **Used in:** [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) and [§7.107 Skinny Steaks](#7107-skinny-steaks) both build directly on this entry's thickness-to-temperature logic; builds on [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking).
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 242–243 (second-pass QC).** The cuts, the grades (Prime's 3 percent, Choice's unlabeled levels), the seasoning advice, and the *thicker steak, lower temperature* rule are all as printed. **Three things were not:** the thickness paragraph carried an unprinted explanation (a "gray, overcooked band" from cooking hot straight through, and a gentle-all-the-way steak that "never really browns") — the page says only that you want *a dark but not burned crust and even doneness from top to bottom*, so the gloss is struck; the thick-steak threshold read "over 1½ inches," but no threshold is printed here — it comes from [§7.106](#7106-big-thick-steakhouse-steaks)'s p. 244 (*cuts 1½ to 2 inches thick are best*), and the thin-steak rule (*1 inch thick or less — very high heat, keep them moving*) is [§7.107](#7107-skinny-steaks)'s p. 246, now credited as such; and Wagyu was called "even more marbled than Prime" where the page says *extremely marbled* and *even harder to find than Prime*. Small additions the page prints and the entry lacked: ribeyes head the list of expensive cuts; Kobe is *almost too fatty* and *can cost as much as a small car*; Prime is absent from *discount* steakhouses in mall parking lots. Nothing illegible.
+
 #### The cuts
 
-Prime steakhouses serve the best cuts, usually from the area along the spine of the steer — the most expensive: porterhouses, T-bones, strip steaks, and cuts from the tenderloin such as the chateaubriand and filet mignon. Sirloin, round, flank, and other cuts make good meals too, but those muscles aren't as tender.
+Prime steakhouses serve the best cuts, usually from the area along the spine of the steer — also the most expensive: ribeyes, porterhouses, T-bones, strip steaks, and cuts from the tenderloin such as the chateaubriand and filet mignon. You can make darn tasty meals from the sirloin, round, flank, and other cuts, but those muscles aren't as tender.
 
-Meathead's own preference is the **ribeye** — the best combination of flavor and tenderness. The strip steak is actually the *same muscle* as the ribeye (the *longissimus dorsi*), just cut from further down the spine, so arguing ribeye vs. strip is "like debating which side of *Abbey Road* is better." The tenderloin is more tender still, but leaner, so it doesn't carry the fat-driven flavor a ribeye has.
+Meathead's own preference is the **ribeye** — the best cut for flavor and tenderness combined. Some argue for the strip steak, but that is the *same muscle* as the ribeye (the *longissimus dorsi*), so that argument is "like debating which side of *Abbey Road* is better." A lot of folks prefer meat from the tenderloin because it is more tender, but tenderloins are also leaner than ribeyes, so they don't have the flavor that fat brings to the party.
 
 #### The grades
 
-- **USDA Prime** — heavy marbling (thin hairline threads of fat), about 3% of all beef sold. Not found in mall-parking-lot steakhouses or most grocery stores.
-- **Wagyu** — an upscale grade from a special breed of cattle with roots in Japan, even more marbled than Prime and harder to find.
-- **Kobe** — genuine Kobe comes only from Japan and is rarer and pricier still; U.S. beef from the same cattle lineage is called Wagyu, not Kobe.
-- **USDA Choice** — the next grade down from Prime, and what most grocery stores actually sell. Choice itself has several unlabeled internal levels — ask the butcher for the best-looking, most marbled cut in the case, or to custom-cut one.
+Meathead calls the best steakhouses "prime steakhouses" because USDA Prime is the grade of meat they serve.
+
+- **USDA Prime** — a lot of marbling (thin hairline threads of fat), and only about **3 percent of all beef sold**. You won't find it in discount steakhouses in mall parking lots or in most grocery stores.
+- **Wagyu** — another upscale grade, from a special breed of cattle with roots in Japan that produces extremely marbled meat. Even harder to find than Prime.
+- **Kobe** — rarest of all is genuine Japanese Kobe, which is almost *too* fatty and can cost as much as a small car. Real Kobe comes only from Japan; if the meat comes from the U.S., it is Wagyu.
+- **USDA Choice** — the next grade down from Prime, and common in grocery stores — but not all Choice is the same. There are several levels of Choice whose names never show up on the label. Don't just grab any old steak from the meat counter: ask the butcher for help, explain you have a special dinner and want the best-looking cuts they can find. They will often look in the back room for a particularly nice piece of meat or custom-cut exactly what you want.
 
 #### Seasoning
 
-Some prime steakhouses use a signature blend (Lawry's Seasoned Salt is the most famous one), but many use nothing but salt and pepper, and some just salt. Marinades are out — they mask the meat's own flavor, and a wet surface steams instead of forming a crust. **The only real prep a great steak needs is a dry brine** — salt at least an hour or two ahead (Meathead salts in the morning, cooks in the evening). [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) is his own dress-up if you want more than salt and pepper, and real wood smoke is a seasoning no jar can match.
+Some prime steakhouses use a secret mix of herbs and spices (Lawry's Seasoned Salt is the most famous), but many use only salt and pepper, and some only salt. Meathead has never seen a prime steakhouse marinate a steak — marinades mask the meat's natural flavors, and a wet surface creates steam and prevents crust formation. **The only prep you need to do is dry brine** — salt the steaks at least an hour or two before cooking (Meathead salts in the morning and cooks in the evening). To jazz it up a bit, use [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning); and if you can cook over wood, real smoke is a seasoning you just can't get from a jar.
 
 #### Matching cooking temperature to thickness
 
-**The thicker the steak, the lower the cooking temperature needs to be.** A thick steak cooked hot straight through gets a great crust but a gray, overcooked band underneath; the same steak held at one gentle temperature the whole way gets even color but never really browns. Prime steakhouses only have to tune this once, since they cook identical cuts at identical thickness every day — a home grill has to adjust for whatever's on the cutting board that night. **The fix for thick steaks (over 1½ inches) is the reverse sear** ([§T41](#t41-reverse-sear--two-stage-cooking), [§7.106](#7106-big-thick-steakhouse-steaks)); **thin steaks (1 inch or less) want the opposite — screaming-high, direct heat the whole time, moving constantly** ([§7.107 Skinny Steaks](#7107-skinny-steaks)).
+**The best temperature for cooking thick steaks is different from the recommended temperature for thin steaks — a crucial concept.** Because you want a dark but not burned crust and even doneness from top to bottom on the inside, you have to choose the right temperature: **the thicker the steak, the lower the cooking temperature.** Prime steakhouses cook the same meats from the same supplier at the same thickness day in and day out, so they have their process finely tuned; backyard grills aren't so manageable or predictable, and they're subject to weather and other variables. But there is a nifty technique for thick steakhouse steaks that gives incredible results: **the reverse sear** ([§T41](#t41-reverse-sear--two-stage-cooking); [§7.106](#7106-big-thick-steakhouse-steaks), whose page calls for cuts 1½ to 2 inches thick). Thin steaks want a very different technique — for **steaks 1 inch thick or less, the secret is very high heat and keeping them moving** ([§7.107 Skinny Steaks](#7107-skinny-steaks), where that rule is printed).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16832,27 +16836,41 @@ Some prime steakhouses use a signature blend (Lawry's Seasoned Salt is the most 
 **Source:** **Meathead Goldwyn**, same book and chapter (book p. 247–250).
 **Used in:** [§7.114 Prime Rib](#7114-prime-rib). **Distinct from [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor)** — T45 busts the myth that bones add flavor or juiciness during dry cooking; this entry covers different ground specific to a whole bone-in rib roast: naming, ordering, anatomy, and why the bones come *off* before roasting.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 247–250 (second-pass QC).** Every printed figure holds — ribs 6 through 12, about 2 pounds per bone, at least 1 pound per person or one bone width for two, delivery 2 or 3 days ahead, 28-day wet-aged, 130 to 135°F, no more than ¼ inch overcooked, one third of the surface kept from browning — and two the entry lacked are added: the roast carries **7 bones**, and the buying rule allows for **20 percent shrinkage**. **One claim was invented and is struck:** the entry said the bones get *tied back onto the roast for presentation* and pointed at [§7.114](#7114-prime-rib) Step 3 — neither page mentions it; the printed Step 3 only squishes the boneless roast round and ties it with twine, and what p. 248 actually says about the bones is now here: a bone-in roast is a "standing rib roast," buy bone-in only if it's cheaper per pound, have the butcher remove the bones or do it yourself, and **the bones make a delicious second meal**. The page's five reasons for removing them (the entry had folded crust and carving into one) are restored as five, the rib cap gains its printed reason for removal (*it tends to go to well-done, so grill it separately*), and the p. 247 opening — which other roasts the method suits, and which cheaper cuts come close — is added. Nothing illegible.
+
+#### What the method suits
+
+Per p. 247, a prime rib roast is easy to make outdoors and definitely tastes better that way, and the same technique — the reverse sear ([§T41](#t41-reverse-sear--two-stage-cooking)) — works fine for other beef roasts: strip loin and short loin, tenderloin, tri-tip, chuck eye roll, chuck roast, shoulder clod, top sirloin butt, and even tough round. If you can afford it, buy a prime rib or strip loin for the best combination of tenderness, juiciness, and tastiness; a chuck eye roast can be darn close and a lot cheaper, and top sirloin butt can be superb and cheaper still. Nothing rivals the tenderloin for tenderness, but tri-tip is close.
+
 #### Naming and ordering
 
-"Prime rib" doesn't mean USDA Prime grade — it's named for the **rib primal**, one of the large sections a steer is broken into, and what your grocer actually sells under that name is usually **USDA Choice**. Ribs 6 through 12 make up the roast; the rear continues on as the strip loin. A typical bone-in roast runs about 2 lb per bone; allowing for trim and shrinkage, buy at least 1 lb per person, or one bone's width for every two people. Order it fresh, not frozen, well ahead, and take delivery 2 to 3 days before serving — 28-day wet-aged if you can get it.
+The long muscle group on either side of the backbone, above the curved back ribs, is the most desirable part of the steer. The primary muscle running through it is the *longissimus dorsi* — the eye of the ribeye — tender, juicy, and woven with thin, lacy lines of fat that melt during cooking. **The front half of this section is the rib roast, with 7 bones, from ribs 6 through 12; the rear is called the strip loin.** Carve the rib roast into steaks and you have ribeyes; carve the strip loin into steaks and you have strip steaks.
+
+"Prime rib" is so named because it comes from the **rib primal**, one of the large sections a steer is broken into — it is *not* necessarily USDA Prime grade. What your grocer is probably selling is **USDA Choice**, and technically it should be called a "beef rib roast." You can order a USDA Prime-grade rib roast if you wish — a real treat, but bring a wheelbarrow full of cash — or simply ask the butcher for the best-looking, most marbled rib roast in the house, or to order you one. Prime rib is not something most butchers keep in stock: **order it fresh, not frozen, well in advance, and take delivery 2 or 3 days before you plan to serve it.** If you can get 28-day wet-aged, go for it.
+
+A typical bone-in prime rib roast weighs **about 2 pounds per bone**, depending on the size and age of the steer (and that weight has gone up in recent years). Allowing for fat and bone waste and **20 percent shrinkage** when cooking, **buy at least 1 pound per person, or one bone width for two people.**
+
+#### Bones on or off?
+
+A bone-in rib roast is often called a "standing rib roast," because the curved back ribs make a great stand for roasting the meat. Meathead likes to get bone-in *if it is cheaper per pound* — if it's the same price as boneless, you are paying the same price for bone as for meat. Ask your butcher to remove the bones for you, or remove them yourself: **they make a delicious second meal.** Here's why you want the bones off:
+
+- **Bones don't add flavor.** That myth is debunked at [§T45](#t45-bones--do-they-actually-add-flavor).
+- **Bones make a roast oblong.** Oblong roasts cook unevenly, with the ends and corners cooking faster because they're being attacked by heat on more sides. When you remove the bones, you can make the meat into a cylinder — the page's diagram: *oblong shape overcooks on ends; circular shape heats evenly.*
+- **Bones get in the way of crust formation.** The bones keep one third of the meat surface from browning and developing that rich, seasoned crust.
+- **Bones prevent even cooking.** Because they have a honeycomb structure, rib bones act as an insulator — so if the meat is medium-rare in the center, it will be rare to raw near the bone.
+- **Bones make carving difficult.** You don't want to struggle when everyone is watching, and you don't want juice all over the tablecloth.
+
+Once the bones are off, [§7.114 Prime Rib](#7114-prime-rib) Step 3 squishes the roast into a round tube and ties it with butcher's twine every inch or two to keep that shape.
 
 #### Rib cap and lip
 
-Sitting on top of the eye of the ribeye is the **rib cap** — a heavily marbled, fish-fillet-shaped muscle Meathead calls the single best muscle on the steer. It peels off almost by hand, since a layer of fat separates it from the eye. On the opposite side is the **lip**, a small muscle buried in thick fat with little meat on it — worth trimming off and grinding into hamburger rather than roasting.
-
-#### Why the bones come off — distinct from T45's flavor myth
-
-[§T45](#t45-bones--do-they-actually-add-flavor) already covers "bones don't add flavor in dry cooking." A whole rib roast has three *additional*, purely geometric reasons to debone before roasting:
-
-- **Bones make a roast oblong, not round.** An oblong cross-section overcooks at the ends and corners, which face heat from more directions than the flat middle does; a boneless roast can be tied into a round cylinder that heats evenly from every side.
-- **Bones are a honeycomb-structured insulator.** Because they don't conduct heat the way meat does, the meat directly against the bone lags behind the rest of the roast — so a roast that's a perfect medium-rare at the center can still be rare-to-raw right next to the bone.
-- **Bones get in the way of carving and crust.** They keep a third of the meat's surface from ever touching the grate or oven air, so that third never browns into bark; and carving around bone at the table, in front of guests, risks a struggle and juice all over the tablecloth.
-
-**Bones don't add flavor here either — that's the actual myth, per [§T45](#t45-bones--do-they-actually-add-flavor).** Tying the bones back onto the roast for presentation (see [§7.114 Prime Rib](#7114-prime-rib) Step 3) is for show at the table, not for any flavor or juiciness the bones contribute during the cook.
+Sitting on top of the eye of the ribeye is the **rib cap** — shaped like a large fish fillet and heavily marbled; Meathead thinks it's the single best muscle on the steer. It tends to go to well-done, so he likes to remove it and grill it separately — you can practically peel it off with your bare hand, because there is a layer of fat between the rib cap and the eye. On the opposite side of the rib cap is another little muscle called the **lip**; there isn't much meat there and it's buried in thick layers of fat, so he removes it and grinds it into hamburger.
 
 #### The hallmarks of a great roast
 
-Maximum tenderness and juiciness at **130–135°F** internal — deep red, not purple, not yet pink. Even color bumper to bumper, with no more than ¼ inch of overcooked meat at the edge. A deep, dark, crunchy crust built from salt, herbs, and spices mixing with beef juices as they dry into a bark during the cook.
+- **Maximum tenderness and juiciness** — beef roasts are at their best cooked to **130 to 135°F** internal: medium-rare, no longer purple but deep red, and not yet pink.
+- **Even color** — the same red, bumper to bumper, with no overcooked meat beyond **¼ inch** deep.
+- **Crust** — deep, dark, and crunchy, enriched by salt, herbs, and spices mixing with beef juices dried to a bark by the smoke-roasting process.
 
 [↑ Table of Contents](#table-of-contents)
 

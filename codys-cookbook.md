@@ -1149,7 +1149,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.178 Kansas City Red](#4178-kansas-city-red) *(The Meathead Method)* | 🟡 | 5 min | 25 min | — | 30 min |
 | [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) *(Meathead)* | 🟢 | 20 min | 10 min | — | 45 min |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
-| [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(Meathead)* | 🟢 | 30 min | — | **12–14 hr** *(indirect smoker, unattended)* | 15–17 hr *(includes a 2–24 hr dry brine + 2+ hr rest in a faux Cambro)* |
 | [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(The Meathead Method)* | 🟢 | 30 min | — | **4–5 hr** *(indirect smoker, unattended)* | 6–7 hr *(includes a 1–2 hr dry brine)* |
 | [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(The Meathead Method)* | 🟢 | 30 min | — | **~8 hr** *(indirect smoker, unattended)* | 8½–20½ hr *(includes an optional up-to-12-hr rest after rub/injection)* |
 | [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 15 min | 15 min *(gravy)* | **2–5 hr** *(smoker, by weight)* | ~1 day *(includes a 12–24 hr dry brine)* |
@@ -1203,6 +1202,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.18 Gazpacho](#818-gazpacho) | 🟢 | 40 min | — | — | 40 min *(+ at least a 4 hr chill)* |
 | [§14.4 Kabocha Squash Pie](#144-kabocha-squash-pie) | 🟡 | 30 min | 10 min | **2 hr** *(squash roast + pie bake, unattended)* | 3 hr 40 min *(+ 1 hr dough chill)* |
 | [§T20 Fresh Pasta (and How to Cut It)](#t20-fresh-pasta-and-how-to-cut-it) | 🟡 | 40 min | — | — | 1 hr 10 min *(+ 30 min dough rest)* |
+| [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) *(Meathead)* | 🟢 | 40 min *(30 min trim + 10 min rub)* | — | **12–14 hr** *(indirect smoker, unattended)* | 15–17 hr *(includes 2+ hr rest in a faux Cambro; + a 2–24 hr dry brine)* |
 | [§5.42 Grilled Cauliflower](#542-grilled-cauliflower) *(Meathead)* | 🟢 | 15 min | 25 min | — | 40 min |
 | [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) | 🔴 | 25 min | 15 min | — | 2 hr 40 min *(+ 2 hr chill to set)* |
 | [§4.17 Giblet Gravy](#417-giblet-gravy) | 🟡 | 15 min | 25 min | — | 40 min |
@@ -30185,9 +30185,13 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) · [§T40 The Fat Cap](#t40-the-fat-cap--trim-or-not) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) · [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way)
 
-**🟢 Easy** · **Prep ~30 min** · **Slow cook 12–14 hr** *(indirect smoker, unattended)* · **Start to finish ~15–17 hr** *(includes a 2–24 hr dry brine and at least 2 hr resting in a faux Cambro)*
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 260–261 (second-pass QC).** All four ingredient lines (a 12-pound untrimmed packer, Choice / Prime / Wagyu; kosher salt at about ½ tsp per pound; Big Bad Beef Rub p. 166; Texas Mop Sauce p. 179, optional), MAKES about 12, the ¼-inch fat cap, the toothpick-with-the-grain trick, 225°F with a water pan, 4 ounces of wood at the start and 4 more every 30 minutes for 2 hours, the 3-hour flip check, the ~150°F stall of up to 5 hours, two layers of foil, 203°F, at least 2 hours in a faux Cambro holding above 160°F, and the fat-side-up slicing all match the page. **Two fixes:** **(1) the steps were renumbered to the page's nine** — the entry had split the printed Step 5 (the cook, the stall, *and* the Texas crutch are one step on the page) into two, and merged the printed Steps 8 (slice at the last minute, fat side up) and 9 (serve on a plate or on Texas toast, optional mop-and-drippings drizzle) into one; **(2) the badge's Prep read ~30 min, but the page's TAKES line prints 30 minutes to trim *plus* 10 minutes to rub** — now ~40 min, and the start-to-finish note no longer claims to *include* a dry brine it never counted (the 2-to-24-hour brine is on top of the ~15–17 hr). Difficulty & Time Index row restated and re-sorted. No quantity changed.
 
-> **Easy despite the length — this is the [§1 Cody's Pho](#1-codys-pho) case again.** A whole-packer brisket cook is a marathon of fuel and patience, not a technique that can suddenly go wrong. Even the "stall" — up to 5 hours where the temperature barely moves — tests patience, not skill; the Texas crutch (Step 6) exists for exactly that stretch. The one real risk noted below (buying a trimmed, fatless brisket) is a shopping mistake, the same caveat [§6.7](#67-texas-style-smoked-brisket) already carries.
+**Makes about 12 servings · Takes about 30 minutes to trim, 2 to 24 hours to dry brine, 10 minutes to rub, and 12 to 14 hours to cook** *(as printed — and, per the page, the timing can vary significantly with the size of the brisket, its moisture and fat content, the nature of your cooker, the outside air temperature, and the accuracy of your meat thermometer)*
+
+**🟢 Easy** · **Prep ~40 min** *(30 min to trim, 10 min to rub)* · **Slow cook 12–14 hr** *(indirect smoker, unattended)* · **Start to finish ~15–17 hr** *(includes at least 2 hr resting in a faux Cambro; plus a 2–24 hr dry brine before that)*
+
+> **Easy despite the length — this is the [§1 Cody's Pho](#1-codys-pho) case again.** A whole-packer brisket cook is a marathon of fuel and patience, not a technique that can suddenly go wrong. Even the "stall" — up to 5 hours where the temperature barely moves — tests patience, not skill; the Texas crutch (Step 5) exists for exactly that stretch. The one real risk noted below (buying a trimmed, fatless brisket) is a shopping mistake, the same caveat [§6.7](#67-texas-style-smoked-brisket) already carries.
 
 #### A. Ingredients
 
@@ -30211,19 +30215,19 @@ Refrigerate the meat until you're ready to cook it. Chilled meat attracts more s
 Get your smoker up to 225°F or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side. Use a water pan if possible.
 
 **5. Cook.**
-Put the meat on the cooker. Add about 4 ounces of wood right after the meat goes on, then about 4 ounces more every 30 minutes for the first 2 hours. Keep an eye on the water in the pan and make sure it doesn't dry out. After 3 hours, turn the meat over if the color is different from top to bottom; otherwise, leave it alone. The meat temperature will steadily climb to the stall zone, somewhere around 150°F. Once in the stall, it will seem to take forever to rise — the stall can last 5 hours, and the temperature may not rise more than 5°F.
+Put the meat on the cooker. Add about 4 ounces of wood right after the meat goes on, then about 4 ounces more every 30 minutes for the first 2 hours. Keep an eye on the water in the pan and make sure it doesn't dry out. After 3 hours, turn the meat over if the color is different from top to bottom; otherwise, leave it alone. The meat temperature will steadily climb to the stall zone, somewhere around 150°F. Once in the stall, it will seem to take forever to rise — the stall can last 5 hours, and the temperature may not rise more than 5°F! To combat the stall, employ the Texas crutch: wrap the meat tightly in two layers of foil so it doesn't leak. You can then insert your meat temperature probe up high so liquid doesn't escape the hole.
 
-**6. Employ the Texas crutch.**
-To combat the stall, wrap the meat tightly in two layers of foil so it doesn't leak. You can then insert your meat temperature probe up high so liquid doesn't escape the hole.
-
-**7. Cook to temperature, then rest.**
+**6. Cook to temperature, then rest.**
 When the temperature of the meat hits 203°F, put it in a faux Cambro, close the lid, and let the hot meat sit there for at least 2 hours. If you have a tight cooler, it should hold the meat well above 160°F for hours. Holding the big, thick brisket cooked almost to the boiling point allows the internal temperature to even out and the collagens to continue to melt — this carryover cooking results in more tender and juicy meat.
 
-**8. Firm up the crust.**
+**7. Firm up the crust.**
 Unwrap the meat and put it over a hot grill or under a broiler for a few minutes on each side. Watch it closely so it doesn't burn.
 
-**9. Slice at the last possible minute.**
-Brisket dries out quickly once it's cut. Turn the meat fat side up so the juices run onto the meat as you slice it. See [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) for the easy way and the Sorkin way. If the meat is perfectly cooked, it should be moist and juicy. Serve it simply sliced on a plate, or as a sandwich made with Texas toast. If you wish, drizzle some Texas Mop Sauce mixed with some of the drippings from the crutch on top of the meat — taste this carefully, since the drippings can be very salty.
+**8. Slice at the last possible minute.**
+Brisket dries out quickly once it's cut. Turn the meat fat side up so the juices run onto the meat as you slice it. See [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) for the easy way and the Sorkin way.
+
+**9. Serve.**
+If the meat is perfectly cooked, it should be moist and juicy. Serve it simply sliced on a plate, or as a sandwich made with Texas toast. If you wish, drizzle some Texas Mop Sauce mixed with some of the drippings from the crutch on top of the meat — taste this carefully, since the drippings can be very salty.
 
 #### C. Grocery Shopping List
 
@@ -30260,6 +30264,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T69 Brisket Basics](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) · [§T70 Slicing Brisket](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) · [§T72 Steaming Pastrami](#t72-steaming-pastrami)
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 263–265 (second-pass QC).** All nine ingredient lines (4 pounds uncooked corned beef; ¼ cup coarsely ground black pepper; 2 Tbsp ground coriander; 1 Tbsp brown sugar; 1 Tbsp paprika; 2 tsp garlic powder; 2 tsp onion powder; 1 tsp mustard powder; the bread, mustard or Thousand Island, sauerkraut, and Swiss for serving), the 8-hour soak with one or two water changes, the ¼-cup-per-square-foot rub, 225°F, fat side up, 203°F, "10 hours or more," no Texas crutch, the across-the-grain / no-machine slicing, the Reuben build, and the foil-wrapped, week-long leftovers all match the page; seven steps in printed order. **Two small fixes:** the printed MAKES/TAKES line (about 3½ pounds pastrami, enough for 8 big deli-style sandwiches; about 8 hours to soak, 25 minutes to rub, and 8 to 12 hours to smoke) was never carried — added; and Step 4 had dropped its last sentence — *at this stage, you can serve it, or some folks like to steam it to make it more tender* — restored, pointing at [§T72](#t72-steaming-pastrami). No quantity changed.
+
+**Makes about 3½ pounds pastrami, enough for 8 big deli-style sandwiches · Takes about 8 hours to soak, 25 minutes to rub, and 8 to 12 hours to smoke** *(as printed)*
+
 **🟢 Easy** · **Prep ~25 min** · **Slow cook 8–12 hr** *(indirect smoker, unattended)* · **Start to finish ~16–21 hr** *(includes an 8 hr soak to pull excess salt out of the meat; add 2–3 hr more if steaming before serving)*
 
 > **Easy, same reasoning as the brisket above.** A long, unattended smoke with nothing to flip or baste — the only active step is applying the rub before it goes on the smoker.
@@ -30288,7 +30296,7 @@ Remove the beef from the water. Blend together the spices and apply the rub libe
 Get your smoker up to 225°F or set up the grill for two-zone cooking and shoot for about 225°F on the indirect side. Add wood for smoke. If you can, use a charcoal smoker — it produces a deeper, darker crust than any other cooker.
 
 **4. Cook.**
-Smoke the meat fat side up over indirect heat until it reaches 203°F. Add wood when the smoke dwindles. It can take 10 hours or more, depending on the thickness. Don't try the Texas crutch here — it can wash off a lot of rub and smoke.
+Smoke the meat fat side up over indirect heat until it reaches 203°F. Add wood when the smoke dwindles. It can take 10 hours or more, depending on the thickness. Don't try the Texas crutch here — it can wash off a lot of rub and smoke. At this stage you can serve it, or some folks like to steam it to make it more tender — see [§T72 Steaming Pastrami](#t72-steaming-pastrami).
 
 **5. Serve.**
 Slice the pastrami across the grain, just like you would a brisket (see [§T70](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way)). Don't try to slice it with a machine — it will just fall apart.

@@ -8121,12 +8121,14 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 167 (second-pass QC) — correct as written.** All seven ingredients and quantities, the mix-in-a-bowl method, and the printed MAKES 4 tablespoons, enough for 10 to 12 pounds trimmed beef / TAKES about 10 minutes match; no salt is printed. One qualifier restored on the rosemary line (crushed *in a mortar and pestle or blender*). Step 2's "press it on just before cooking" is [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s general rub advice, not this page's, and is labeled that way.
+
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
 #### A. Ingredients
 
 - 2 Tbsp freshly ground black pepper
-- 2 tsp dried rosemary leaves, crushed
+- 2 tsp dried rosemary leaves, crushed in a mortar and pestle or blender
 - 2 tsp dried thyme or oregano
 - 1 tsp garlic powder
 - 1 tsp onion powder
@@ -8138,8 +8140,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **1. Mix everything in a bowl.**
 Stir all the ingredients together until evenly blended.
 
-**2. Coat the roast heavily.**
-This makes about 4 Tbsp of rub — enough for a 10–12 lb trimmed beef roast. Press it into the surface on all sides just before cooking.
+**2. Coat the roast.**
+This makes about 4 Tbsp of rub — enough for 10–12 lb of trimmed beef, as printed. Applying it is [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s general method: wet the surface lightly, sprinkle liberally, rub it in, and cook soon after — no need to let it sit overnight.
 
 #### C. Grocery Shopping List
 
@@ -8168,7 +8170,9 @@ This makes about 4 Tbsp of rub — enough for a 10–12 lb trimmed beef roast. P
 
 ### 4.108 Meathead's Memphis Dust
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A big-batch sweet-paprika rub in the Memphis style, built for ribs and pulled pork.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A big-batch sweet-paprika rub in the Memphis style, formulated for pork and designed to add flavor and color and form the proper crust when cooked at low temperatures — though the headnote says it's been used with success in sausage blends, on smoked salmon, on celery stuffed with cream cheese, on the rims of Bloody Mary glasses, and even in popcorn.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 167–168 (second-pass QC) — correct as written.** All eight ingredients and quantities (¾ cup + ¾ cup sugars, ½ cup paprika, ¼ cup garlic powder, 2 Tbsp each pepper/ginger/onion powder, 2 tsp crushed rosemary), the mix-and-crumble-the-sugar method, and the printed MAKES about 3 cups / TAKES 15 minutes match; no salt is printed. The headnote's uses are restored above. Step 2's storage advice is [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)'s, not this page's.
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 

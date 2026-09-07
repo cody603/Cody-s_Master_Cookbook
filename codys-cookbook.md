@@ -28948,7 +28948,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **The recipe runs across four book pages, not two.** Steps 8 and 9 — the pulling and the whole serving section — sit on book pp. 200–201 alongside the *Butt Basics* and *Leftover Pulled Pork* sidebars ([§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder)/[§T61](#t61-leftover-pulled-pork--storage-and-reheating)), and were missing from the first transcription. They're restored below.
 
-**Makes about 3 pounds of pulled pork — enough for 8 to 12 generous sandwiches** *(as printed)*
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 198–201 (second-pass QC).** All five ingredient lines, the MAKES/TAKES line, the 225°F / 225–250°F / 300°F / 150°F / 170°F / 195°F / 203°F figures, the 4-oz-every-30-minutes wood schedule, the 8-to-12-hour cook, the two holding rules, and the party math (½ cup sauce per 5 lb, 1 Tbsp butter per lb) are exactly as printed. **Two fixes:** the page's 195°F/203°F, bone-wiggle, and "don't add sauce while it is on the cooker" paragraph belongs to **Step 5** (it runs on the page before the numbered Step 6), and Step 6 as printed is only *take a taste* — restored to the printed order; and Step 9's slaw sentence names the source's own **Classic Deli Slaw (book p. 364)**, which is not in this cookbook — now said. No salt quantity changed; nothing illegible.
+
+**Makes 3 pounds pork, enough for 8 to 12 generous sandwiches** *(as printed)*
 
 **🟢 Easy** · **Prep ~25 min** *(trimming and salting)* · **Slow cook 8–12 hr** *(indirect grill or smoker, unattended)* · **Start to finish ~8¾–12¾ hr** *(+ an optional 12–24 hr dry brine; pulling takes 20 min by hand, 10 min with Bear Paws)*
 
@@ -28981,8 +28983,10 @@ When the meat hits about 150°F, you can expect the stall ([§T33](#t33-how-meat
 
 Now you have a choice. You can let it take its time — the surface will dry out, making your bark, and when the pork reaches about 170°F, collagens begin to melt and turn to gelatin. That's magic, baby: the meat gets much more tender and juicy when this happens. Or you can power through the stall by tightly wrapping the meat in foil, a process called the Texas crutch (see [§7.112](#7112-texas-beef-brisket)), so moisture cannot evaporate and cool the meat. This can cut as much as 4 hours off your cooking time. The meat will be just as moist and tender, but the crutch will make the bark softer. Your choice. Per the source: *"Me? I rarely crutch."*
 
-**6. Cook to 203°F and taste.**
-When it hits 195°F, it may be ready, but the source recommends waiting until the pork hits 203°F. If there is a bone (see [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder)), use a glove or paper towel to protect your fingers and wiggle it — it should be loose enough to pull out. The exterior should be dark brown; some rubs and cookers will make the meat look black like a meteorite, but it is not burned and it won't taste burned. There may be glistening bits of melted fat on the surface; on a gas cooker, it may look shiny pink. **Don't add sauce while it is on the cooker** — that comes after you pull it. Go ahead and take a taste: you should notice a thick, flavorful crust with the telltale smoke ring directly beneath it.
+When it hits 195°F, it may be ready, but the source recommends waiting until the pork hits 203°F. If there is a bone (see [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder)), use a glove or paper towel to protect your fingers and wiggle it — it should be loose enough to pull out. The exterior should be dark brown; some rubs and cookers will make the meat look black like a meteorite, but it is not burned and it won't taste burned. There may be glistening bits of melted fat on the surface; on a gas cooker, it may look shiny pink. **Don't add sauce while it is on the cooker** — that comes after you pull it.
+
+**6. Taste.**
+When the pork is finally ready, go ahead and take a taste: you should notice a thick, flavorful crust with the telltale smoke ring directly beneath it.
 
 **7. Hold it, if dinner isn't ready.**
 If you are more than an hour from mealtime, you can leave the meat on the cooker with the heat off, or put it in the indoor oven at about 170°F and hold it there. If you are more than 2 hours from mealtime, wrap it in foil to keep it from drying out and hold it at 170°F. If you are taking the meat to a party, wrap it in foil and put it in a [faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours).
@@ -28991,7 +28995,7 @@ If you are more than an hour from mealtime, you can leave the meat on the cooker
 Put the meat in a large pan to catch the drippings. Now pull the clod apart with Bear Paws (meat-shredding claws) or use gloved hands or forks. If you wish, you can slice it or chop it like they do in North Carolina, but the source thinks you lose less moisture pulling it apart by hand, since the meat separates into bundles of muscle fibers — which is why it is called pulled pork. The bone should pull out easily with two fingers and have almost no meat stuck to it. Discard any big chunks of fat. Try not to eat all the flavorful crusty bits while you are pulling; distribute them evenly throughout instead. **Make sure you save any flavorful drippings.**
 
 **9. Serve.**
-The classic pulled pork sammich is the source's favorite way to serve it: mound it high on a nice bun and top it with a **small** amount of your favorite sauce. [§4.117 KC Classic](#4117-kansas-city-classic-barbecue-sauce) sweet red sauce is always popular, but pulled pork is where [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) really shines — or try [§4.120 Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce), or the mustard sauces like [§4.118 Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce). The source likes his pulled pork with chopped raw onion mixed in; his wife likes hers with grilled onion on top; sometimes they chop up raw apple and mix it in too. Occasionally he slices the roast rather than pulling it and douses it with a classic Texas sauce ([§4.121 Texas Mop Sauce](#4121-texas-mop-sauce)), which is thin and more like a gravy — it lets the meat flavor come through without masking it. Some folks garnish pulled pork with sliced tomato, pickle chips, and a raw onion slice; in South Carolina and other places in the South, people mound it on a bun with slaw.
+The classic pulled pork sammich is the source's favorite way to serve it: mound it high on a nice bun and top it with a **small** amount of your favorite sauce. [§4.117 KC Classic](#4117-kansas-city-classic-barbecue-sauce) sweet red sauce is always popular, but pulled pork is where [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) really shines — or try [§4.120 Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce), or the mustard sauces like [§4.118 Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce). The source likes his pulled pork with chopped raw onion mixed in; his wife likes hers with grilled onion on top; sometimes they chop up raw apple and mix it in too. Occasionally he slices the roast rather than pulling it and douses it with a classic Texas sauce ([§4.121 Texas Mop Sauce](#4121-texas-mop-sauce)), which is thin and more like a gravy — it lets the meat flavor come through without masking it. Some folks garnish pulled pork with sliced tomato, pickle chips, and a raw onion slice; in South Carolina and other places in the South, people mound it on a bun with slaw *(the source points to its own Classic Deli Slaw, book p. 364 — not in this cookbook; [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) is the nearest thing on hand)*.
 
 *For big parties away from home, the source smokes 3 or more butts, pulls them, and puts them in a big pan, adding about ½ cup sauce per 5 pounds of meat and about 1 tablespoon butter per pound to keep it moist — then carries it to the party in a [faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours), heats it in a slow cooker on arrival, and serves the sauce on the side.*
 
@@ -29026,6 +29030,8 @@ The classic pulled pork sammich is the source's favorite way to serve it: mound 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Pork" chapter (book p. 202). A loaded-potato spin built specifically around leftover [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) — the book calls it a hollowed-out "canoe" instead of the usual split baked potato so it holds up under a genuinely generous pile of toppings. Per the source: *"almost all the hip gastropubs serve some sort of 'loaded' potato skins, but usually they are not really very loaded. My potato canoes, on the other hand, are not only loaded with enough of the good stuff to capsize them, but one of them can even make a meal."*
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan. The original transcription was reconstructed from a rotated photo and got several printed quantities and steps wrong; everything below now matches the printed page exactly.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 202 (second-pass QC) — correct as written.** All six ingredient lines, MAKES 4 / TAKES about 2 hours, the 325°F indirect zone, the 210°F internal target, the 1 hr 15 min–1 hr 40 min foil bake, the 10-minute cool, the ¼-inch wall, the 5-minute skin-down crisp, and the 1 tsp sour cream / 1 Tbsp cheese per canoe all match the page; seven steps in printed order. No change.
 
 **Makes 4 servings · Takes about 2 hours** *(as printed)*
 
@@ -29095,6 +29101,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan. The original transcription was reconstructed from a rotated photo and got several printed quantities and steps wrong; everything below now matches the printed page exactly.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 206–207 (second-pass QC).** The four ingredient lines, the full TAKES line, ½ tsp salt per pound, 1-to-2 hours of dry brine, about 2 Tbsp rub per side, 225°F, 4 oz of wood with more after 20 to 30 minutes, meat side up with no flip, the halfway slab swap, the bend test, and the ¾ / ½ / ⅓ cup sauce rule of thumb with another ½ cup at the table are exactly as printed; eight steps in printed order. **One fix:** the page's sauce line is simply *1 cup barbecue sauce (optional)* — it names no sauce. The entry had attached Kansas City Classic and Columbia Gold to that line as though printed; they are now labeled as this cookbook's suggestions. No salt quantity changed; nothing illegible.
+
 **Makes 2 servings · Takes 15 minutes for trimming, about 2 hours for dry brining, about 5 minutes for rubbing; cooking time is 5 to 6 hours for spareribs or center-cut ribs, 3 to 4 hours for back ribs — if you use rib holders so the slabs are crammed close to each other, add another hour** *(as printed)*
 
 **🟢 Easy** · **Prep ~20 min** · **Slow cook 5–6 hr** *(indirect smoker, unattended; 3–4 hr for back ribs)* · **Start to finish ~7–8 hr** *(includes about a 2 hr dry brine)*
@@ -29102,9 +29110,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### A. Ingredients
 
 - 1 slab center-cut pork ribs (11 to 13 bones)
-- Kosher salt — ½ teaspoon per pound
+- Kosher salt *(Step 1 uses ½ teaspoon per pound)*
 - ¼ cup Meathead's Memphis Dust rub ([§4.108](#4108-meatheads-memphis-dust))
-- 1 cup barbecue sauce (optional) — Kansas City Classic ([§4.117](#4117-kansas-city-classic-barbecue-sauce)) or Columbia Gold ([§4.118](#4118-columbia-gold-south-carolina-mustard-sauce))
+- 1 cup barbecue sauce (optional) *(the page names no sauce — this cookbook's suggestions are [§4.117 Kansas City Classic](#4117-kansas-city-classic-barbecue-sauce) or [§4.118 Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce))*
 
 #### B. Cooking Instructions
 
@@ -29140,7 +29148,7 @@ Be ready to take a bow when the applause swells from the audience.
 - 🛒 Kosher salt
 - 🛒 Hardwood, for smoking
 
-*Memphis Dust and sauce ingredients already documented at [§4.108](#4108-meatheads-memphis-dust)/[§4.117](#4117-kansas-city-classic-barbecue-sauce)/[§4.118](#4118-columbia-gold-south-carolina-mustard-sauce).*
+*Memphis Dust ingredients already documented at [§4.108](#4108-meatheads-memphis-dust); if you go with one of the suggested sauces, [§4.117](#4117-kansas-city-classic-barbecue-sauce)/[§4.118](#4118-columbia-gold-south-carolina-mustard-sauce) are documented too.*
 
 #### Nutrition *(estimated)*
 

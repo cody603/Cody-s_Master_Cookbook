@@ -17188,18 +17188,22 @@ Because of that, the pieces cook at different rates and finish at different time
 
 <!-- TECHNIQUE-TAGS: meathead, turkey, buying, fresh-vs-frozen, thanksgiving -->
 **Tags:** `meathead` · `turkey` · `buying` · `fresh-vs-frozen` · `thanksgiving`
-**Source:** **Meathead Goldwyn**, same book and chapter (book p. 308).
+**Source:** **Meathead Goldwyn**, same book and chapter (book p. 308, the "Choosing Your Turkey" sidebar).
 **Used in:** [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey).
 
-**Sizing:** plan on about 1 pound of raw turkey per person as a rule of thumb — after bones, giblets, and cooking shrinkage, that leaves roughly ⅓ pound of cooked meat per person, with a little left over. **If you need to feed a crowd, cook two smaller turkeys rather than one giant one** — smaller birds cook faster and more evenly, since a bigger bird's breast takes longer to reach the center, and by the time it does, the thinner parts nearby are overcooked and the outer meat has dried out.
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 308 (second-pass QC).** **One figure was wrong, one was missing, and two paragraphs had been run together.** The yield after bones, giblets, and shrinkage was given as "roughly ⅓ pound of cooked meat per person"; the page prints *about ½ pound per person — still more than enough, and folks can take home leftovers*. The page's "almost mission impossible" line is about finding a bird that has *not been salted* — special-order it, go to a specialty store like Whole Foods, or buy from a farmer — not about finding a fresh one; the entry had folded it into the fresh-turkey paragraph. The page's USDA definition of "fresh" was missing entirely: a bird not taken below **26°F** by the processor, which can be as hard as a bowling ball — *the USDA is allowing marketers to deceive the public*. The fresh-bird rule is *killed within a week of the date you will consume it*, not "within the past week." Two small birds cook faster *and are more tender and juicy* (the entry: "more evenly"). Confirmed: 1 pound raw weight per person, up to 8 percent injected, "natural" or "organic" still allowed, kosher birds salted outside and in the cavity, 24 hours in the fridge per 4 pounds to thaw. No recipe quantity or badge changed.
 
-**"Basted" or "self-basted" (aka "enhanced") turkeys** have been injected with a salt solution, and sometimes flavor enhancers and tenderizers too — processors are legally allowed to inject up to 8 percent of the bird's weight this way, and the bird can still be labeled "natural" or "organic" even with all that added.
+**Sizing:** as a rule of thumb, **1 pound raw weight per person** is more than enough. Subtract bones, giblets, and shrinkage and you'll have **about ½ pound per person** — still more than enough, and folks can take home leftovers. **If you need a lot of turkey, cook two small birds rather than one giant one.** They cook faster and are more tender and juicy. The bigger the bird, the thicker the breasts and the longer it takes to cook the center of the breasts to proper doneness; by the time they're done, the thinner parts are overcooked and the outer parts of the breasts are dry.
 
-**"Kosher" turkeys have already been salted, inside and out, as part of processing.** Don't dry- or wet-brine one of these — it will end up too salty.
+**"Basted," "self-basted," or "enhanced" turkeys** have been injected with a salt solution and possibly flavor enhancers and tenderizers. Processors are allowed to inject **up to 8 percent of the weight of the bird**, and even a bird pumped with salt and water can still legally be labeled "natural" or "organic."
 
-**A genuinely fresh, never-frozen turkey is hard to find at a regular supermarket.** To get one, order ahead from a farmer or specialty butcher, and only trust "fresh" if you're confident it was slaughtered within the past week — a bird that's simply never been frozen but has sat in a cooler for a couple of weeks isn't meaningfully better than a properly thawed frozen one. Proper cooking matters far more to the result than whether the bird was ever frozen.
+**"Kosher" birds have been salted on the outside and inside the cavity.** Do not brine these — they will be too salty.
 
-**To thaw a frozen turkey safely, allow about 24 hours in the refrigerator for every 4 pounds of bird.**
+**Finding a supermarket bird that has *not* been salted is almost mission impossible.** To get one that isn't pumped, you may need to special-order it, go to a specialty store like Whole Foods, or buy directly from a farmer.
+
+**Surprisingly, a "fresh" turkey may not be the best choice.** "Fresh," according to the USDA, means only that the processor has not taken the bird below **26°F** — at which point it can be as hard as a bowling ball. The USDA is allowing marketers to deceive the public. Sometimes you can buy a truly fresh turkey from a farmer or specialty butcher; buy one only if you are certain it was killed within a week of the date you will consume it. A bird flash-frozen right after slaughter beats an unfrozen one that has been sitting around in the fridge for a couple of weeks — proper cooking is far more important than having a "fresh" bird.
+
+**To thaw a frozen turkey, allow 24 hours in the fridge for every 4 pounds.**
 
 [↑ Table of Contents](#table-of-contents)
 

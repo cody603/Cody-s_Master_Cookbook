@@ -41569,7 +41569,9 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 
 > Per the source's own headnote: peaches and cream is a classic summer combo, as natural as peanut butter and jelly, and the best version of it is built on **crème anglaise** — a pourable, stirred custard sauce made from cream, milk, egg yolks, sugar, and vanilla, exactly the ingredients in vanilla ice cream. This cookbook already has a from-scratch crème anglaise at **[§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise)** (rated 🔴 Hard for the one-shot risk of a stirred custard scrambling if the heat runs away from you). The author's own shortcut here skips that risk entirely: melt good vanilla ice cream instead, a trick he credits to chef Jacques Pépin. Melted ice cream *is* crème anglaise — same four ingredients, already emulsified — so it pours and behaves the same way over the warm peaches, with none of the tempering-the-yolks failure point.
 
-**Yield:** serves 4
+> ✅ **2026-09-07 second-pass QC against pp. 377–378 (PDF scan): four corrections.** The liquor was ¼ cup against the printed **⅓ cup**; the dark brown sugar was 2 Tbsp against the printed **3 Tbsp**; the maple-syrup note had dropped **molasses** from the source's list of stand-ins; and **Step 4 had been rewritten** — the page grills the peaches **skin side down first for about 5 minutes, then flips them to the flesh side** until they pick up grill marks, and moves them straight to bowls (or a goblet or martini glass). The earlier version had them cut side down with an invented 5-minute rest. MAKES 4 servings / TAKES 45 minutes, Steps 1–3 and 5, and the other "About" notes match. Grocery list and Nutrition recalculated.
+
+**Makes 4 servings · Takes 45 minutes** *(as printed)*
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~20 min** · **Start to finish ~45 min**
 
@@ -41578,18 +41580,18 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 #### A. Ingredients
 
 - 1 lemon or lime *(1 Tbsp juice needed)*
-- ¼ cup dark rum, brandy, bourbon, or rye
+- ⅓ cup dark rum, brandy, bourbon, or rye
 - 3 Tbsp real maple syrup
-- 2 Tbsp dark brown sugar
+- 3 Tbsp dark brown sugar
 - ¼ tsp Morton Coarse Kosher Salt
 - 2 peaches
 - 2 Tbsp (1 ounce) unsalted butter
 - 4 scoops best-quality vanilla or butter pecan ice cream
-- Optional: candied pecans or plain pecans, for crunch
+- Optional garnish: candied pecans or plain pecans — they bring a nice crunch
 
 > **About the booze.** Stick to brown goods — rum, brandy, bourbon, or rye. Skip peach or other flavored brandies; they fight the fruit instead of complementing it.
 >
-> **About the maple syrup.** Use real maple syrup, and a darker grade if you have a choice. The source has also made this with honey, and even Lyle's Golden Syrup, in a pinch.
+> **About the maple syrup.** Use real maple syrup, and a darker grade if you have a choice. The source has also made this with honey, molasses, and even Lyle's Golden Syrup.
 >
 > **About the peaches.** Peaches split into two categories: **clingstone**, where the flesh clings to the pit and is hard to separate, and **freestone**, where the pit lifts out cleanly once the fruit is halved. Freestone is easier to work with here. A slightly underripe peach also grills better — very ripe, soft peaches turn mushy on the grate.
 >
@@ -41601,25 +41603,25 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 Set up your grill for direct heat cooking, about Warp 5 (see [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method) — a confident, moderate-high sear, not the grill's most aggressive setting). Once it's hot, scrub the grates thoroughly so there's no grease on top or underneath. If the grates need it, squirt them with water to loosen old grease, then brush clean.
 
 **2. Make the sauce. About 10 minutes.**
-While the grill heats, squeeze 1 Tbsp of juice from the lemon or lime. Combine it in a small saucepan with the rum, maple syrup, brown sugar, and salt. Melt everything together over high heat, stirring occasionally, for about 10 minutes — this drives off the alcohol and fully dissolves the sugar and salt. **Watch the pot the whole time; it can foam up and boil over if you walk away.** Cooking off the alcohol is the point here — it's a waste of good liquor by volume, but the flavor it leaves behind is what you're after, without the raw bite of straight alcohol dulling the fruit.
+While the grill heats, squeeze 1 Tbsp of juice from the lemon or lime. Combine it in a small saucepan with the rum, maple syrup, brown sugar, and salt. Melt everything together over high heat, stirring occasionally, for about 10 minutes — this drives off the alcohol and thoroughly dissolves the sugar and salt. **Watch that it doesn't foam and overflow.** Cooking off the alcohol is the point here — the source knows it looks like a waste of good liquor, but what you want is the oak flavor, not the alcohol, which can really detract from the taste.
 
 **3. Prep the peaches.**
 Quarter and pit the peaches. Melt the butter and brush it over the cut sides of each peach quarter.
 
-**4. Grill.**
-Grill the peaches, cut side down, on the direct side of the grill until they pick up good grill marks and start to soften, then pull them off and let them rest for about 5 minutes.
+**4. Grill. About 5 minutes skin side down, then a bit longer on the flesh side.**
+Grill the peaches on their skin sides for about 5 minutes. Flip them over and cook a bit longer on the flesh side until they get some grill marks. Move them to serving bowls, or a goblet or a martini glass.
 
 **5. Serve.**
-Scoop the ice cream into bowls with the grilled peaches. While the rum sauce is still warm, pour it over the top — the heat melts some of the ice cream right there in the bowl into a luxurious, ready-made crème anglaise.
+Scoop the ice cream into the bowl with the peaches. While the sauce is still warm, pour it over the ice cream — the heat melts some of it right there in the bowl into a luxurious, ready-made crème anglaise.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
 - 🛒 Lemon or lime — 1
-- 🛒 Dark rum, brandy, bourbon, or rye — ¼ cup
+- 🛒 Dark rum, brandy, bourbon, or rye — ⅓ cup
 - 🛒 Real maple syrup — 3 Tbsp
-- 🛒 Dark brown sugar — 2 Tbsp
+- 🛒 Dark brown sugar — 3 Tbsp
 - 🛒 Morton Coarse Kosher Salt
 - 🛒 Peaches — 2, freestone if you can tell
 - 🛒 Unsalted butter — 2 Tbsp
@@ -41630,10 +41632,10 @@ Scoop the ice cream into bowls with the grilled peaches. While the rum sauce is 
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~1,150 | 70 g | 12 g | 160 g | 4 g |
-| **Per serving** *(serves 4)* | ~290 | 18 g | 3 g | 40 g | 1 g |
+| **Whole dish** | ~1,220 | 70 g | 12 g | 175 g | 4 g |
+| **Per serving** *(serves 4)* | ~305 | 18 g | 3 g | 44 g | 1 g |
 
-**What a serving is:** half a grilled peach with a scoop of ice cream and warm rum-maple sauce poured over, in a small bowl. Most of the added alcohol cooks off in Step 2; what's left is mainly flavor, not proof.
+**What a serving is:** half a grilled peach (two quarters) with a scoop of ice cream and warm rum-maple sauce poured over, in a small bowl. Most of the added alcohol cooks off in Step 2; what's left is mainly flavor, not proof. *(Recalculated 2026-09-07 for the corrected ⅓ cup liquor and 3 Tbsp brown sugar.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41645,7 +41647,9 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 
 > **Brûlée**, explained: it's French for "burnt," and in the kitchen it means using direct, intense heat — a torch, a broiler, or a rotisserie burner — to caramelize a thin layer of sugar into a hard, crackly, amber shell in seconds, the same effect that tops a crème brûlée. It's a fast, showy cousin of the caramelization this cookbook already covers at **[§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd)**: the same sugar-breakdown chemistry, just driven by a naked flame instead of an oven or a sauté pan, and over seconds instead of minutes. See **[§14.33 Baked Apples](#1433-baked-apples)** below for the same technique used on a whole baked apple.
 
-**Yield:** serves 2
+> ✅ **2026-09-07 second-pass QC against pp. 378–380 (PDF scan): five corrections.** The page prints **2 ripe fresh figs** (this entry had 3), **2 teaspoons** of sugar (had 3), and **2 tablespoons** of vanilla ice cream (had "3 teaspoons" — the old Open Question about ice cream being printed in teaspoons was a misread and is withdrawn). Step 1 sprinkles **½ teaspoon** of sugar on each fig half (had ¼). The Balsamic Syrup cross-reference is the source's **p. 198**, not p. 158. MAKES 2 servings / TAKES 3 minutes, the special tools, the headnote, and Steps 2–3 (the SERVE step sits at the top of p. 380) match. Grocery list and Nutrition recalculated.
+
+**Makes 2 servings · Takes 3 minutes** *(as printed)*
 
 **Special tools:** kitchen torch, pipe lighter, or propane torch
 
@@ -41655,19 +41659,19 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 
 #### A. Ingredients
 
-- 3 ripe fresh figs
-- 3 tsp granulated white sugar
-- 3 tsp vanilla ice cream *(a small quenelle per serving, not a full scoop — as printed)*
-- 4 tsp balsamico tradizionale, condimento balsamico, or a homemade Balsamic Syrup *(the source's own reduced-balsamic recipe, its p. 158, not among this project's photographed pages — see this cookbook's own [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying) for grades and buying if you're reducing your own instead)*
+- 2 ripe fresh figs
+- 2 tsp granulated white sugar
+- 2 Tbsp vanilla ice cream *(a small spoonful per plate, not a full scoop — as printed)*
+- 4 tsp balsamico tradizionale, condimento balsamico, or a homemade Balsamic Syrup *(the source's own reduced-balsamic recipe, its p. 198, not among this project's photographed pages — see this cookbook's own [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying) for grades and buying if you're reducing your own instead)*
 - 2 tsp minced fresh mint leaves
 
 #### B. Cooking Instructions
 
 **1. Prep.**
-Cut off the stem of each fig and halve it lengthwise. Arrange the halves cut side up on a heatproof surface, such as a baking dish. Sprinkle the cut surface of each fig half evenly with sugar — about ¼ tsp per half.
+Cut off the stem of each fig and halve it lengthwise. Arrange the halves cut side up on a heatproof surface, such as a baking dish. Sprinkle the cut side of each fig half evenly with ½ tsp of sugar.
 
 **2. Fire up.**
-Carefully light the torch according to the manufacturer's directions. Aim the flame directly at the sugared cut surface of a fig half, holding the torch about 4 inches away. Move it back and forth steadily rather than holding it still in one spot, until the sugar melts and turns an even amber — this is the brûlée step, and it happens fast. Repeat for each fig half.
+Carefully light the torch according to the manufacturer's directions. Aim the flame directly at the sugar on the cut side of the fig and, holding the torch about 4 inches away, glide the flame back and forth and move in until the sugar turns amber — this is the brûlée step, and it happens fast. Repeat for each fig half.
 
 **3. Serve.**
 Arrange the figs and ice cream artfully on individual plates. Drizzle some balsamic over the plate and scatter with the chopped mint leaves.
@@ -41676,9 +41680,9 @@ Arrange the figs and ice cream artfully on individual plates. Drizzle some balsa
 
 **🛒 General grocery**
 
-- 🛒 Ripe fresh figs — 3
-- 🛒 Granulated white sugar
-- 🛒 Vanilla ice cream — a small scoop
+- 🛒 Ripe fresh figs — 2
+- 🛒 Granulated white sugar — 2 tsp
+- 🛒 Vanilla ice cream — 2 Tbsp
 - 🛒 Balsamico tradizionale or condimento balsamico
 - 🛒 Fresh mint leaves
 
@@ -41686,14 +41690,14 @@ Arrange the figs and ice cream artfully on individual plates. Drizzle some balsa
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~240 | 2 g | 1 g | 56 g | 4 g |
-| **Per serving** *(serves 2)* | ~120 | 1 g | <1 g | 28 g | 2 g |
+| **Whole dish** | ~160 | 2 g | 1.5 g | 36 g | 3 g |
+| **Per serving** *(serves 2)* | ~80 | 1 g | <1 g | 18 g | 1.5 g |
 
-**What a serving is:** 3 fig halves (1½ figs) with a small quenelle of ice cream and a drizzle of balsamic — a light, fruit-forward dessert.
+**What a serving is:** 2 fig halves (one fig) with a tablespoon of ice cream and a drizzle of balsamic — a light, fruit-forward dessert. *(Recalculated 2026-09-07 for the corrected 2 figs, 2 tsp sugar, and 2 Tbsp ice cream.)*
 
 #### D. Open Questions
 
-- **The ice cream quantity is printed in teaspoons, not scoops** — an unusually small unit for ice cream, but transcribed exactly as read rather than assumed to be a typo for "scoops." Read as a small quenelle-style garnish alongside the figs, not a full serving of ice cream on its own.
+- ~~The ice cream quantity is printed in teaspoons, not scoops.~~ **Withdrawn 2026-09-07** — the page prints **2 tablespoons** of vanilla ice cream; the "3 teaspoons" was a misread, now corrected above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41703,9 +41707,11 @@ Arrange the figs and ice cream artfully on individual plates. Drizzle some balsa
 
 Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 380–381).
 
-> Per the source's own headnote: this recipe is dedicated to the author's pen pal Leah Eskin, whom he calls "the Poet Laureate of Recipes" for her lyrical headnotes. He grills up store-bought pound cake and tops it with ice cream and his own slight modification of Eskin's chocolate buttercream sauce — not a literal buttercream frosting despite the name, but a rich, thick, pourable chocolate sauce, sweet with a touch of salt and bitterness, that firms up as it cools. **This is a different chocolate sauce from this cookbook's existing [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)** (a cooked-sugar caramel, not a melted-chocolate ganache-style sauce) — both kept, distinct dishes.
+> Per the source's own headnote: this recipe is dedicated to the author's pen pal Leah Eskin, whom he calls "the Poet Laureate of Recipes" for her lyrical headnotes. He grills up store-bought pound cake and tops it with ice cream and his own slight modification of Eskin's chocolate buttercream sauce — not a literal buttercream frosting despite the name, but a rich, thick chocolate sauce — sweet, a touch salty, a touch bitter, and (in the source's words) its texture changes as it gets cold. **This is a different chocolate sauce from this cookbook's existing [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)** (a cooked-sugar caramel, not a melted-chocolate ganache-style sauce) — both kept, distinct dishes.
 
-**Yield:** serves 2
+> ✅ **2026-09-07 second-pass QC against pp. 380–381 (PDF scan): verified.** All seven ingredients (including the pinch of salt), MAKES 2 servings / TAKES about 45 minutes, the "About the chocolate" note, and all five steps match. Two wording tightenings only: Step 1 now reads "let it soak in" as printed (the earlier "for a few minutes" was unprinted), and the headnote's description of the sauce now follows the page. *Cookbook gloss, for the record:* the page's title is "Grilled Pound Cake with Leah's Chocolate Buttercream" — the word "Sauce" in this entry's heading comes from the ingredient sub-heading "Chocolate Buttercream Sauce" and is kept so existing links don't break.
+
+**Makes 2 servings · Takes about 45 minutes** *(as printed)*
 
 **🟡 Medium** · **Prep ~10 min** · **Cook ~20 min** · **Start to finish ~45 min** *(includes time for the butter to soak into the cake before grilling)*
 
@@ -41733,7 +41739,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 #### B. Cooking Instructions
 
 **1. Prep the pound cake.**
-Melt the butter and paint both sides of each pound cake slice with it. Let it soak in for a few minutes before grilling.
+Melt the butter and paint both sides of each pound cake slice with it. Let it soak in.
 
 **2. Fire up.**
 Set up a grill in 2 zones and get it fired up to Warp 5 on the direct heat side (see [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method) — a confident, moderate-high sear).
@@ -41778,9 +41784,11 @@ Lay the grilled pound cake in wide bowls or on plates, top each slice with a sco
 
 Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desserts" chapter (book p. 382).
 
-> Per the source's own headnote: getting the right apple matters here. The author's wife, a baker and apple aficionado, recommends Honeycrisp, Braeburn, Fuji, Gala, or Granny Smith — firm, juicy, crunchy varieties that hold their shape through baking and are available most of the year.
+> Per the source's own headnote: these apples are delightful hot, warm, or at room temperature, and getting the right apple matters. The author's wife, a baker and apple aficionado, recommends Honeycrisp, Braeburn, Fuji, Gala, or Granny Smith because they're firm, juicy, and crunchy, and available throughout much of the year.
 
-**Yield:** serves 2
+> ✅ **2026-09-07 second-pass QC against p. 382 (PDF scan): verified.** All seven ingredients, MAKES 2 servings / TAKES less than 1 hour, and all five steps (the 1½-inch crater, the ½-inch water bath on the direct side, the water-almost-gone doneness cue, the ice-skater probe test, the brûlée warning) match. The printed MAKES/TAKES line was missing and is added; the headnote's "hot, warm, or room temp" line was missing and is added. The apple varieties on the ingredient line are the headnote's recommendation, not part of the printed ingredient list — a cookbook gloss.
+
+**Makes 2 servings · Takes less than 1 hour** *(as printed)*
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min**
 
@@ -41811,7 +41819,7 @@ Set up the grill for 2-zone cooking.
 Set a pan on the direct heat side of the grill and add water until it's about ½ inch deep. Sit the filled apples in the pan and close the lid. Keep an eye on the water level — when it's nearly gone, the apples are likely done. Check with a thermometer probe or the blade of a knife; if it slides in easily, like a skate on ice, they're ready.
 
 **5. Brûlée.**
-Now caramelize the sugar on top. Place the apples in front of or under a rotisserie burner if your grill has one, under your indoor broiler, or hit the tops directly with a kitchen torch. **Stay right there and watch them — they brown very quickly** and can scorch in moments if you look away.
+Now caramelize the sugar on top (the page spells the step "brûlé" — same thing: a quick blast of direct heat to melt and brown the sugar). Place the apples in front of or under a rotisserie burner if your grill has one, under your indoor broiler, or hit the tops directly with a kitchen torch. **Stay right there and watch them — they brown very quickly** and can scorch in moments if you look away.
 
 #### C. Grocery Shopping List
 
@@ -42767,6 +42775,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Desser
 > ✅ **Photo-verified line by line, 2026-09-06 — one real ingredient error found, one dropped step restored, and one invented figure removed.** Cody supplied a clear photograph of the whole book p. 372–373 spread; Steps 4–6 (book p. 374) were checked against both his own verbatim text and the original PDF, and match word for word. **The three fixes:** **(1) the sour cream was ⅔ cup against the printed ¾ cup** — a real shortfall in a recipe formulated around sour cream rather than buttermilk; **(2) Step 2 never actually added the butter** — the source's Step 2 ends *"Melt the butter (or brown it, as on page 189) and whisk it in,"* which had been dropped entirely, leaving 2 ounces of butter in the ingredient list with nowhere to go; and **(3) the muffin note claimed a 375°F bake**, but the source's 375°F belongs to the **hush-puppy deep-fry** — it prints no temperature for muffins at all. **Everything else checks out exactly:** MAKES *8 nice-sized wedges*, TAKES *20 minutes to prep, 25 minutes to cook*, all ten ingredients (including **1 tsp Morton Coarse Kosher Salt** — unchanged, no salt quantity was altered), the optional corn/bell-pepper line, all three "About" sidebars, and Steps 1 through 6.
 
 > ✅ **Re-verified a second time, 2026-09-07, by an independent read of the pp. 372–373 photograph and the PDF scan of p. 374 — correct as written.** All ten ingredients (¾ cup sour cream and **1 teaspoon Morton Coarse Kosher Salt** confirmed), the optional line, MAKES 8 nice-sized wedges, TAKES 20 minutes to prep / 25 minutes to cook, the 325°F narrower-pan note, the 375°F hush-puppy fry, and all six steps (400°F, the 2 tablespoons of pan fat, the ~30-second stir, the ~20-minute bake) match the page exactly. No change.
+
+> ✅ **2026-09-07 second-pass QC against pp. 372–374 (PDF scan, including the p. 374 close-up of Steps 4–6): verified, no change.** All ten ingredients, the optional corn/pepper line, all three "About" notes, the muffin/hush-puppy option (375°F fry), MAKES 8 nice-sized wedges / TAKES 20 minutes to prep and 25 to cook, the 325°F narrower-pan note, and Steps 1–6 (400°F oven or indirect side, 12-inch skillet preheated, 2 Tbsp fat rolled around the hot pan, ~30-second stir, ~20-minute bake with the toothpick test) match the page. The "nuttier flavor" aside on browning the butter and the "tough and dense" reason for not overmixing are cookbook gloss, not printed.
 
 > Per the source: cornbread is a classic sidekick for barbecue with good reason — its flavor and texture are a perfect foil for sweet barbecue sauce and Southern sweet tea, and it's just as good eaten straight or buttered (a honey butter or hot honey will generate smiles; the source's own recipes for those live at AmazingRibs.com/mm, not in the book). **It also makes a fabulous breakfast substitute for pancakes or waffles** — warm, with a dab of butter and a glug of maple syrup. Classic cornbread is baked in a cast-iron skillet greased with **bacon fat, lard, tallow, duck fat, schmaltz, or other meat grease**, although butter works fine — the hot black metal creates a brown crunchy crust that really amps up the flavor and texture. **This recipe is designed for a 12-inch cast-iron skillet**, but a 10-inch cast-iron skillet, any other skillet, or an **8 × 8 × 2-inch baking dish** will do, though it may not brown as well as a black pan. **In a narrower pan the mass of batter is thicker and will take longer to cook, so lower the oven temperature to 325°F.**
 

@@ -8952,11 +8952,15 @@ Refrigerate for at least 3 hours to let the flavors meld — overnight is better
 
 ### 4.121 Texas Mop Sauce
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, inspired by the sauce at Cooper's Old Time Pit Bar-B-Que in Llano, Texas. Old-school Texas brisket sauce — thin, savory, beef-based, no ketchup or sugar-forward sweetness the way a Kansas City sauce has, meant as a mop during the cook rather than a bottled table sauce. **Distinct from [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce)** and **[§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce)**, the two existing mop sauces already in this cookbook — three mops now, worth a comparison table sometime.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, inspired by the sauce at Cooper's Old Time Pit Bar-B-Que in Llano, Texas. Old-school Texas brisket sauce — thin, savory, stock-and-beer-based, with only a small amount of ketchup and brown sugar rather than the sugar-forward sweetness of a Kansas City sauce, meant as a mop during the cook rather than a bottled table sauce. Per the source, old-time Texans take brisket naked and don't cotton to sloppy ketchup-based sauces; these mops feature local flavors — chili powder, ground ancho, hot sauce, cumin, beer, onion, beef drippings, sometimes even coffee grounds — and thin as they are, they add richness and depth because they penetrate instead of sitting on the surface. **Distinct from [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce)** and **[§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce)**, the two existing mop sauces already in this cookbook — three mops now, worth a comparison table sometime.
 
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
 **No added salt — as printed.** This sauce leans on stock, Worcestershire, and steak sauce for savoriness instead.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 180–181 (second-pass QC).** All 16 ingredient lines, all four printed steps (spice bowl; butter and onion in a 2-quart saucepan over medium heat until translucent; garlic, bell pepper, and spice mix for 2 minutes; everything else, 15-minute simmer over medium, divide in half for mopping and serving), and MAKES about 5 cups / TAKES about 30 minutes match the page. No salt is printed, and none is added. **One fix, headnote only:** the entry described this as having "no ketchup" — the recipe calls for ¼ cup ketchup and 2 Tbsp brown sugar, so the description now says what the page does. No quantity changed.
+
+**Makes about 5 cups · Takes about 30 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(sauté + 15 min simmer)* · **Start to finish ~30 min**
 
@@ -9037,6 +9041,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Method corrected 2026-09-06 during the page-order audit of this book's 21-page scan.** The earlier version held the thyme, black pepper, and **the bacon itself** out of the pot and stirred the bacon back in "near the end." The source (book p. 194) does the opposite: **everything — the water, vinegar, maple syrup, sugar, thyme, black pepper, *and* the fried bacon — goes in together, and then the whole thing reduces for 1 to 2 hours.** That's the point of the recipe: the bacon spends the entire reduction in the pot, which is how it goes soft and jammy instead of staying as crisp bits stirred into onion jam. The printed yield is also **2 cups**, not the 2½ the Nutrition block claimed.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 194 (second-pass QC).** All nine ingredient lines and MAKES 2 cups / TAKES 2½ hours match the page; the three printed steps are all present in substance and order, including the 2 Tbsp of fat left in the pan, the 1 cup water, the everything-in-together reduction, and the 1-to-2-hour low simmer. **Two small fixes:** the page's *if necessary, cook the bacon in two batches* was missing and is restored in Step 1; and Step 3's *"stirring occasionally"* was not printed and is struck — the page says only to simmer on low until it's a thick, jammy goo. No quantity changed.
+
+**Makes 2 cups · Takes 2½ hours** *(as printed)*
+
 **🟢 Easy** · **Prep ~20 min** · **Cook ~2 hr 10 min** *(mostly unattended reduction; the source's own TAKES line is 2½ hours start to finish)* · **Start to finish ~2 hr 30 min**
 
 #### A. Ingredients
@@ -9054,16 +9062,16 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### B. Cooking Instructions
 
 **1. Render the bacon.**
-Cut the bacon into ¼- to ½-inch slices and cook in a frying pan over medium heat until curled and golden but not fully crisp. Brown bits will stick to the pan — scrape them loose with a spatula as you go. Remove the bacon with a slotted spoon and drain on paper towels.
+Cut the bacon into ¼- to ½-inch slices and cook in a frying pan over medium heat until it gets a bit curly and golden but is not fully cooked and firm. If necessary, cook it in two batches. Brown bits will stick to the pan — scrape them loose with a spatula as you go. Remove the bacon with a slotted spoon and drain on paper towels.
 
 **2. Build the jam — bacon and all.**
 Pour off all but 2 Tbsp of the bacon fat, trying to leave the brown bits behind on the bottom of the pan (save the rest of the fat for frying vegetables, but let it cool before transferring it to a plastic tub or the tub may melt). Add the onion to the pan and cook until translucent but not browned. Add the garlic and cook 1 to 2 minutes. Now add **1 cup water, the vinegar, maple syrup, sugar, thyme, black pepper, and the bacon**, and stir. Everything goes in at this point — the bacon reduces along with the rest, which is what turns it soft and jammy.
 
 **3. Reduce, 1 to 2 hours.**
-Reduce the heat to low and simmer until the sauce becomes a thick, gloppy, jammy, sweet, luscious goo — 1 to 2 hours, stirring occasionally. Turn off the heat and let it cool.
+Reduce the heat to low and simmer until the sauce becomes a thick, gloppy, jammy, sweet, luscious goo — 1 to 2 hours. Turn off the heat and let it cool.
 
 **4. Finish.**
-Taste and add more sugar or a splash of hot sauce if you like. Spoon into a jar, screw on the lid, and refrigerate. Serve at room temperature or gently warmed.
+Taste and add more sugar or a splash of hot pepper sauce, or both, if you like. Spoon into a bottle or jar, screw on the lid, and refrigerate. Serve at room temperature or gently warmed.
 
 #### C. Grocery Shopping List
 

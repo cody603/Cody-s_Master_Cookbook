@@ -1379,7 +1379,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | 🟡 | 15 min | 1 hr 35 min | — | 1 hr 50 min |
 | [§5.29 Smothered Mustard Greens](#529-smothered-mustard-greens) | 🟡 | 30 min | 1 hr 20 min | — | 1 hr 50 min |
 | [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ⚠️ | 🟢 | 30 min | 1 hr 25 min | — | 1 hr 55 min |
-| [§8.42 Creole Courtbouillon](#842-creole-courtbouillon) | 🔴 | 25 min | 1 hr 30 min | — | 1 hr 55 min |
+| [§8.42 Creole Courtbouillon](#842-creole-courtbouillon) | 🟡 | 25 min | 1 hr 30 min | — | 1 hr 55 min |
 | [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) | 🟡 | 20 min | 1 hr 40 min | — | 2 hr |
 | [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) *(Meathead)* | 🟢 | 15 min | 1 hr 45 min *(mostly unattended foil bake, then a direct-heat crisp)* | — | 2 hr |
 | [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo) | 🔴 | 35 min | 1 hr 30 min | — | 2 hr 5 min |
@@ -1400,7 +1400,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i) | 🔴 | 2 hr | 1 hr 15 min | **~2 hr** *(hen broth, unattended)* | 5 hr 15 min |
 | [§8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) | 🔴 | 1 hr 30 min | 2 hr *(estimated — the page prints no times)* | — | 3 hr 30 min |
 | [§7.114 Prime Rib](#7114-prime-rib) *(Meathead)* | 🟡 | 1 hr | 2–3 hr | — | 1–2 days *(includes a 24–48 hr dry brine)* |
-| [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🔴 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
+| [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🟡 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | 12 min *(10–15 min bake, printed)* | — | *unknown — recipe incomplete, see Open Questions* |
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
@@ -35379,9 +35379,9 @@ Transcribed from **The Prudhomme Family Cookbook** — Paul and K's recipe, p. 2
 
 **Yield:** 8 main-dish servings or 16 appetizer servings
 
-**🔴 Hard** · **Prep ~3 hr** *(the crawfish boil and purge, peeling about 10 lb of crawfish by hand, cleaning the heads, chopping the stuffing vegetables, stuffing the heads)* · **Cook ~1 hr 30 min** *(sautéing the stuffing vegetables, baking the stuffed heads, making the roux, finishing the bisque)* · **Slow cook ~1 hr** *(reducing the crawfish stock, unattended)* · **Start to finish ~1 to 2 days** *(the source's own suggested split — crawfish boil and prep one day, finish the bisque the next)*
+**🟡 Medium** *(the roux stops at medium red-brown — light brown over 4 minutes, then 1–2 minutes more with the heat turned down — which is the brown tier, not the dark one; everything else here is long, not risky. See the roux tiers in [§T1](#t1-how-to-make-a-roux))* · **Prep ~3 hr** *(the crawfish boil and purge, peeling about 10 lb of crawfish by hand, cleaning the heads, chopping the stuffing vegetables, stuffing the heads)* · **Cook ~1 hr 30 min** *(sautéing the stuffing vegetables, baking the stuffed heads, making the roux, finishing the bisque)* · **Slow cook ~1 hr** *(reducing the crawfish stock, unattended)* · **Start to finish ~1 to 2 days** *(the source's own suggested split — crawfish boil and prep one day, finish the bisque the next)*
 
-**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) — this bisque's roux is what earns the 🔴 rating
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) — this bisque's roux is a medium red-brown one, the brown tier, which is what keeps it at 🟡 rather than 🔴
 
 #### A. Ingredients
 
@@ -35511,6 +35511,8 @@ As a main course, allow about 2 cups of bisque with a portion of stuffed heads p
 **What a serving is:** as a main course, about 2 cups of bisque with a portion of stuffed heads, per the source's own guidance; as an appetizer, about half that.
 
 *The crawfish-boil aromatics — lemons, garlic, bay leaves, purging salt — are all discarded or strained out and aren't counted. Butter, roux oil, and the cornbread stuffing carry most of the fat and carbs; the crawfish itself is lean.*
+
+✅ 2026-09-07 difficulty re-rated 🔴→🟡 per Cody: brown/medium roux, not dark
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -37140,7 +37142,7 @@ Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, 
 
 **Yield:** not stated on the page; a 4-to-5 lb redfish in 4 cups of water and a cup of wine runs about 8 bowls.
 
-**🔴 Hard** *(a roux you make — small, but the flour is browned in oil to medium brown and can scorch)* · **Prep ~25 min** *(chopping 3 cups of onion, the pepper, celery, garlic, and parsley; slicing the lemon; cleaning and cutting the fish)* · **Cook ~1 hr 30 min** *(the roux, then 25 minutes of slow cooking, a cook-down, and a 20–25 minute simmer)* · **Start to finish ~1 hr 55 min**
+**🟡 Medium** *(a roux you make — small, 2 Tbsp of flour, and taken only to medium brown, the color of peanut butter; it can scorch, but a medium roux is the 🟡 tier, not the dark 🔴 one. See the roux tiers in [§T1](#t1-how-to-make-a-roux))* · **Prep ~25 min** *(chopping 3 cups of onion, the pepper, celery, garlic, and parsley; slicing the lemon; cleaning and cutting the fish)* · **Cook ~1 hr 30 min** *(the roux, then 25 minutes of slow cooking, a cook-down, and a 20–25 minute simmer)* · **Start to finish ~1 hr 55 min**
 
 **Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
 
@@ -37216,6 +37218,7 @@ Both go in at the end so the wine stays bright and the lemon slices flavor the g
 **What a serving is:** a soup bowl — about 1½ cups of fish and gravy ladled over rice (rice not counted). *Figured on about 2¼ lb of edible meat from a 4½ lb whole redfish, with the head and bones left in the pot.*
 
 ✅ 2026-09-07 transcribed and verified against photo of p. 65 *(page number out of frame; the page precedes p. 66)*
+✅ 2026-09-07 difficulty re-rated 🔴→🟡 per Cody: brown/medium roux, not dark
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -1266,7 +1266,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.42 Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) | 🟢 | 15 min | 30 min | **~2 hr** *(covered braise, oven)* | 2 hr 45 min |
 | [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) | 🟡 | 20 min | 25 min | — | 50 min |
 | [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) | 🟡 | 15 min | 30 min | — | 50 min *(+ optional 1–2 hr marinate)* |
-| [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters) | 🟡 | 30 min | 15 min | **4 hr** *(covered simmer, unattended)* | 4 hr 45 min |
+| [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters) | 🔴 | 30 min | 15 min | **4 hr** *(covered simmer, unattended)* | 4 hr 45 min |
 | [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(Meathead)* | 🟡 | 45 min | — | **~2 hr** *(indirect grill, unattended)* | 2 hr 45 min *(+ 3 hr dry brine)* |
 | [§5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) *(Meathead)* | 🟢 | 20 min | 25 min | — | 45 min |
 | [§8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) | 🟢 | 20 min | 25 min | **3–4 hr** *(the printed simmer, unattended)* | 4 hr 30 min |
@@ -1391,14 +1391,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) | 🟢 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§7.141 Championship Chicken](#7141-championship-chicken) *(The Meathead Method)* | 🟡 | 20 min | 2 hr | — | ~5 hr 20 min *(includes 3 hr uncovered in the fridge)* |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
-| [§8.44 Courtbouillon](#844-courtbouillon) | 🔴 | 20 min | 2 hr *(1 hr of it an unattended simmer)* | — | 2 hr 20 min |
+| [§8.44 Courtbouillon](#844-courtbouillon) | 🟡 | 20 min | 2 hr *(1 hr of it an unattended simmer)* | — | 2 hr 20 min |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 2 hr 10 min *(mostly unattended reduction)* | — | 2 hr 30 min |
 | [§8.46 Verna's Galimatias](#846-vernas-galimatias) | 🔴 | 45 min | 1 hr 45 min | — | 2 hr 30 min |
 | [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
 | [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) | 🟡 | 30 min | 2 hr 45 min | **24 hr** *(sous vide, unattended)* | ~27 hr |
 | [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i) | 🔴 | 2 hr | 1 hr 15 min | **~2 hr** *(hen broth, unattended)* | 5 hr 15 min |
-| [§8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) | 🔴 | 1 hr 30 min | 2 hr *(estimated — the page prints no times)* | — | 3 hr 30 min |
+| [§8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) | 🟡 | 1 hr 30 min | 2 hr *(estimated — the page prints no times)* | — | 3 hr 30 min |
 | [§7.114 Prime Rib](#7114-prime-rib) *(Meathead)* | 🟡 | 1 hr | 2–3 hr | — | 1–2 days *(includes a 24–48 hr dry brine)* |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🟡 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
@@ -35842,7 +35842,7 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. R
 
 **Yield:** not stated by the source; estimated to serve 7, flagged below.
 
-**🟡 Medium** · **Prep ~30 min** *(estimated — cleaning and cutting the goose, chopping vegetables)* · **Cook ~15 min** *(the roux and wilting the vegetables)* · **Slow cook 4 hr** *(covered simmer until the goose is tender)* · **Start to finish ~4 hr 45 min**
+**🔴 Hard** *(the page's target is a dark brown roux — low heat and patience make the run-up gentler, but the last stretch to dark brown is still the minute that can ruin it, and under the roux tiers in [§T1](#t1-how-to-make-a-roux) a dark target is the 🔴 tier regardless of pace)* · **Prep ~30 min** *(estimated — cleaning and cutting the goose, chopping vegetables)* · **Cook ~15 min** *(the roux and wilting the vegetables)* · **Slow cook 4 hr** *(covered simmer until the goose is tender)* · **Start to finish ~4 hr 45 min**
 
 **Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(this one's cooked low and slow rather than fast — see the note there)*
 
@@ -35902,6 +35902,8 @@ Add the seasoned goose and cook over low heat in a covered pot until the goose i
 
 - **No serving count given** — 7 is Claude's estimate.
 - **The 3 qt of hot water is in the instructions but missing from the source's own ingredient list** — added into the Ingredients above rather than left out, same treatment this cookbook gives other Prudhomme-style source gaps.
+
+✅ 2026-09-07 difficulty re-rated 🟡→🔴 per Cody: the page's target is a dark brown roux, and a dark roux is the Hard tier even over low heat
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -37238,7 +37240,7 @@ Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, 
 
 **Yield:** not stated on the page; 2 quarts of water plus a quart of tails and 30–40 heads runs about 10 gumbo bowls.
 
-**🔴 Hard** *(a brown roux, 1 cup of oil to ¾ cup of flour, made by you per p. 59)* · **Prep ~1 hr 30 min** *(estimated — grinding 2 quarts of tails, chopping, filling and flouring 30–40 heads)* · **Cook ~2 hr** *(estimated — the page prints no times at all: the stuffing simmer, baking the heads, the roux, then simmering to a thick soup)* · **Start to finish ~3 hr 30 min** *(less if the heads were stuffed and frozen ahead)*
+**🟡 Medium** *(a brown roux, 1 cup of oil to ¾ cup of flour, made by you per p. 59 — the page's own target is "brown," which is the 🟡 tier; the p. 59 method can be taken further, but this recipe stops at brown. See the roux tiers in [§T1](#t1-how-to-make-a-roux))* · **Prep ~1 hr 30 min** *(estimated — grinding 2 quarts of tails, chopping, filling and flouring 30–40 heads)* · **Cook ~2 hr** *(estimated — the page prints no times at all: the stuffing simmer, baking the heads, the roux, then simmering to a thick soup)* · **Start to finish ~3 hr 30 min** *(less if the heads were stuffed and frozen ahead)*
 
 **Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) — specifically §T1-D, the source's own p. 59 method.
 
@@ -37343,6 +37345,7 @@ Season this dish highly, per the page.
 - **Parsley, onion tops, and seasoning** are unquantified in both halves.
 
 ✅ 2026-09-07 transcribed and verified against photo of p. 66
+✅ 2026-09-07 difficulty re-rated 🔴→🟡 per Cody: brown/medium roux, not dark
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -37360,7 +37363,7 @@ Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, 
 
 **Yield:** not stated on the page; 2½ quarts of water and 4 lb of fish runs about 10 soup plates.
 
-**🔴 Hard** *(a full brown roux, made by you)* · **Prep ~20 min** *(chopping 3 large onions, celery, and garlic; cutting the fish)* · **Cook ~2 hr** *(the roux, a soften, 5 minutes with the tomatoes, the printed 1-hour simmer, the fish's 15 minutes, and the herbs' 5)* · **Start to finish ~2 hr 20 min**
+**🟡 Medium** *(a full brown roux, a cup of oil to a cup of flour, made by you — the page says "brown," not dark, and a brown roux is the 🟡 tier. See the roux tiers in [§T1](#t1-how-to-make-a-roux))* · **Prep ~20 min** *(chopping 3 large onions, celery, and garlic; cutting the fish)* · **Cook ~2 hr** *(the roux, a soften, 5 minutes with the tomatoes, the printed 1-hour simmer, the fish's 15 minutes, and the herbs' 5)* · **Start to finish ~2 hr 20 min**
 
 **Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
 
@@ -37383,7 +37386,7 @@ Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, 
 #### B. Cooking Instructions
 
 **1. Make a brown roux of the oil and flour.**
-Equal parts, a cup each — see [§T1](#t1-how-to-make-a-roux). Constant stirring over moderate heat until it's a good brown; this is the step that can go wrong, and the reason for the 🔴. Have hot water at hand, never cold.
+Equal parts, a cup each — see [§T1](#t1-how-to-make-a-roux). Constant stirring over moderate heat until it's a good brown; this is the step that can go wrong, and the reason for the 🟡 — it stops at brown, not the dark brown that would make it a 🔴. Have hot water at hand, never cold.
 
 **2. Add the onions, celery, and garlic. Let cook until soft.**
 Straight into the roux; the vegetables stop the browning and soften in about 10 minutes.
@@ -37431,6 +37434,7 @@ The page's own warning: *be careful not to cook too much.* Fifteen minutes at a 
 **What a serving is:** a soup plate — about 1½ cups of fish and red gravy over rice (rice not counted). *The cup of oil in the roux is the fat driver; figured on 4 lb of boneless catfish-type pieces.*
 
 ✅ 2026-09-07 transcribed and verified against photo of p. 66
+✅ 2026-09-07 difficulty re-rated 🔴→🟡 per Cody: brown/medium roux, not dark
 
 [↑ Table of Contents](#table-of-contents)
 

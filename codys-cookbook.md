@@ -10892,6 +10892,8 @@ Cover and refrigerate until serving. Leftovers keep, covered, for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 368), facing [§4.154 Salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Distinct from this cookbook's existing [§4.48 Cilantro Chutney](#448-cilantro-chutney)** — that one, from Steven Raichlen's *How to Grill*, is cilantro, walnuts, and jalapeño blended with lemon juice and no coconut at all; this one leads with fresh coconut and toasted cumin. Two different books' takes on the same broad category, kept side by side rather than treated as duplicates, the way this cookbook already handles its three chimichurris.
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 368 (scan p. 41 left, enlarged). 1 tsp cumin seed, 2 Tbsp lime juice, ½ cup coconut, 1–2 cloves, 1 cup cilantro (about 1 bunch), 12 mint leaves, ½ jalapeño, ¾ tsp sugar; the 3-minute toast, the 2-minute first pulse, the further 2–3 minutes, MAKES about 1 cup, the 3-day keep, the serving list, and the dried-coconut variation (1 cup boiling water over ½ cup, 15 minutes, drain) match. Nothing changed.
+
 > **Chutney vs. salsa, in this book's own practice:** the source calls this one a "chutney" rather than a "salsa" even though it's built from the same chopped-herbs-plus-acid logic as [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) — the difference here is texture and method, not ingredients. The salsas in this batch are knife-chopped and kept a little chunky; this chutney (like [§4.152 North African Charmoula](#4152-north-african-charmoula)) is fully blended smooth in a machine. It's the same family of sauce, dressed differently.
 
 **Makes about 1 cup**
@@ -10961,6 +10963,8 @@ Cover and refrigerate until serving. Leftovers keep, covered, for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 369), facing [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Distinct from the salmoriglio already embedded in [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio)** (Canal House) — that one is garlic, oregano, and parsley stirred straight into a full cup of olive oil with the juice of two lemons, made specifically to spoon over one particular pork roast. This is a leaner, more concentrated version (a quarter as much oil, dried oregano as an option) written as a standalone all-purpose sauce with its own named variation. Kept side by side rather than treated as a duplicate — two books' takes on the same Sicilian idea, the same way this cookbook already tracks three separate chimichurris and three separate North Carolina vinegar sauces.
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 369 (scan p. 41 right, enlarged). ¼ cup parsley, 2 Tbsp fresh oregano or marjoram or 1 Tbsp dried, 1 clove, ¼ cup oil, 2 Tbsp lemon juice; lemon juice added just before serving; MAKES about ½ cup; 3-day keep; the Argentinian Chimichurri variation (1 tsp red pepper flakes, 1–2 Tbsp red wine vinegar to taste). Nothing changed.
+
 **Makes about ½ cup**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
@@ -11017,6 +11021,8 @@ Refrigerate, covered, for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 370), opening the "Yogurt Sauce" section of her Sauces chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.146](#4146-basic-salsa-verde)–[§4.154](#4154-salmoriglio-sicilian-oregano-sauce). The source's own section intro is folded in below as headnote context rather than spun into a separate technique entry, matching this cookbook's precedent for a source's short section intro (see [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad)'s handling of the "shaved salads" intro from the same book).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 370 (scan p. 42 left, enlarged). The section intro, 1½ cups yogurt, 1 clove, 2 Tbsp parsley, 2 Tbsp cilantro, 8 mint leaves, 2 Tbsp oil, MAKES 1¾ cups, the 3-day keep, and the Indian Carrot Raita variation (omit the oil; ½ cup grated carrot, 2 tsp ginger; 2 Tbsp ghee or oil; 1 tsp each cumin, black mustard, and coriander seed sizzled about 30 seconds until the first seeds pop) all match. Nothing changed.
+
 > **On yogurt sauces, per the source:** *"I grew up spooning yogurt on everything—including, embarrassingly, pasta!—not so much for its flavor, but because it was a handy way to cool down the steaming-hot food I usually couldn't wait to eat. Eventually, I grew to love yogurt for its creaminess and acidity, and the way it complements rich and oily dishes equally well."* Serve these yogurt sauces alongside Indian-Spiced Salmon, *Adas Polo*, Grilled Artichokes, [§7.127 Persian Roast Chicken](#7127-buttermilk-marinated-roast-chicken), or [§5.49 Persian-ish Rice](#549-persian-ish-rice) — the Persian Roast Chicken gap noted here has since been filled by this cookbook's Vegetables/Stock/Mains batch; the rest are still noted rather than invented — or bring them to the table as a dip for crunchy raw vegetables or warm flatbread. **Labne** is a thick, tangy strained yogurt, popular across the Middle East — the source starts with labne or Greek yogurt for these sauces, since straining off the whey concentrates both the tang and the body, but any plain yogurt works; it'll just run a little looser.
 
 **Makes 1¾ cups**
@@ -11071,6 +11077,8 @@ Cover and refrigerate leftovers for up to 3 days.
 ### 4.156 Persian Herb and Cucumber Yogurt
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 371), facing [§4.155 Herbed Yogurt](#4155-herbed-yogurt). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). The first of three Persian yogurt sauces in this batch, alongside [§4.157 Borani Esfenaj](#4157-borani-esfenaj-persian-spinach-yogurt) and [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt).
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 371 (scan p. 42 right, enlarged). ¼ cup raisins, 1½ cups yogurt, 1 Persian cucumber, ¼ cup mixed herbs, 1 clove, ¼ cup toasted walnuts, 2 Tbsp oil, a generous pinch of salt, optional rose petals; the 15-minute boiling-water soak, MAKES 2 cups, and the 3-day keep match. Nothing changed.
 
 **Makes 2 cups**
 
@@ -11132,6 +11140,8 @@ If desired, garnish with crumbled rose petals before serving. Cover and refriger
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 372). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Borani** is the Persian name for a whole family of cooked-vegetable-and-yogurt dishes — this is the spinach version, and [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt) is the same idea built on beets instead.
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 372 (scan p. 43 left, enlarged). 4 Tbsp oil (2 + 2), 2 bunches spinach or 1½ lb baby spinach, ¼ cup cilantro, 1–2 cloves, 1½ cups yogurt, ½ tsp lemon juice; the high-heat sauté about 2 minutes, the parchment-lined cookie sheet, the squeeze-and-chop, MAKES 2¼ cups, and the 3-day keep all match. Nothing changed.
+
 **Makes 2¼ cups**
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** *(sautéing spinach in batches)* · **Start to finish ~20 min**
@@ -11187,6 +11197,8 @@ Chill until serving. Cover and refrigerate leftovers for up to 3 days.
 ### 4.158 Mast-o-Laboo (Persian Beet Yogurt)
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 373), the last page of this batch. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). The beet counterpart to [§4.157 Borani Esfenaj](#4157-borani-esfenaj-persian-spinach-yogurt) — "mast" is Persian for yogurt, "*laboo*" for beets.
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 373 (scan p. 43 right, enlarged). 3–4 medium beets, 1½ cups yogurt, 2 Tbsp mint, optional 1 tsp tarragon, 2 Tbsp oil, 1–2 tsp red wine vinegar (1 tsp in first, the rest to taste), optional nigella seeds; MAKES 2 cups; 3-day keep. The page's own roasting reference (p. 218) is not in the scan, as already noted in Step 1. Nothing changed.
 
 **Makes 2 cups**
 

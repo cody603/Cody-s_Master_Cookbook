@@ -35387,13 +35387,13 @@ Chop the egg whites finely and add them shortly before serving, along with the p
 
 ### 8.31 Turtle Soup II (Monteleone)
 
-Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Helen M. Hayes**. Named for the Hotel Monteleone in New Orleans, whose turtle soup is a well-known version of the dish — a chicken-stock-and-tomato soup with a light flour thickener, distinct from [§8.30 Turtle Soup I](#830-turtle-soup-i)'s egg-yolk-thickened version.
+Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Helen M. Hayes**. Named for the Hotel Monteleone in New Orleans, whose turtle soup is a well-known version of the dish — a chicken-stock-and-tomato soup thickened with dry-browned flour, distinct from [§8.30 Turtle Soup I](#830-turtle-soup-i)'s egg-yolk-thickened version.
 
 **Yield:** serves 10–12 *(as printed)*
 
-**🟡 Medium** *(a light roux built right in the sautéed onion and celery, not a dark Cajun roux — same gentler reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy))* · **Prep ~20 min** *(estimated — chopping onions, celery, and lemon; sieving the hard-boiled eggs; cubing the turtle meat)* · **Cook ~1 hr 50 min** *(includes a 1½–2 hr simmer, per the source)* · **Start to finish ~2 hr 10 min**
+**🟡 Medium** *(the flour is browned dry in an iron skillet, stirring constantly — it can scorch if you walk off, though it's a gentler thing than a dark oil roux; same reasoning as [§4.17 Giblet Gravy](#417-giblet-gravy))* · **Prep ~20 min** *(estimated — chopping onions, celery, and lemon; sieving the hard-boiled eggs; cubing the turtle meat)* · **Cook ~1 hr 50 min** *(includes a 1½–2 hr simmer, per the source)* · **Start to finish ~2 hr 10 min**
 
-**Techniques used:** related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(a gentle, in-the-vegetables version, not the dark Cajun target)*
+**Techniques used:** related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) *(a dry-browned flour, no fat — not the dark Cajun target)*
 
 #### A. Ingredients
 
@@ -35414,20 +35414,24 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. H
 **1. Prepare the chicken stock.**
 
 **2. Sauté the onion and celery in butter.**
-In a heavy iron skillet, sauté the green onions and celery in the 4 tablespoons of butter over medium heat, stirring constantly.
+Sauté the green onions and celery in the 4 tablespoons of butter.
 
-**3. Add flour to the vegetables, then mix into the stock.**
-This is the thickener — a light roux built right in the sautéed vegetables rather than made separately.
+**3. Brown the flour, dry, in a heavy iron skillet.**
+Over medium heat, stirring constantly — no fat, just the flour, toasted until it colors. This is the thickener. Keep it moving; browned flour goes bitter fast if it catches.
 
-**4. Add the tomato sauce and season.**
-Mix the tomato sauce into the stock. Season with salt, red pepper, and black pepper to taste.
+**4. Add the browned flour to the vegetables, then mix into the stock.**
 
-**5. Brown the turtle meat and add to the stock.**
+**5. Add the tomato sauce, sieved eggs, and lemon, and season.**
+Add the tomato sauce, the sieved hard-boiled eggs, and the chopped lemon. Season with salt, red pepper, and black pepper to taste.
 
-**6. Simmer over low heat. 1½ to 2 hours.**
+**6. Brown the turtle meat and add to the stock.**
 
-**7. Serve over sherry.**
+**7. Simmer over low heat. 1½ to 2 hours.**
+
+**8. Serve over sherry.**
 Pour sherry into the serving bowl — not more than 1 tablespoon per large bowl — and ladle the hot soup over it.
+
+✅ *Re-verified against the photo, 2026-09-07:* two method errors fixed. The page browns the **flour by itself** in a heavy iron skillet over medium heat, stirring constantly, then adds it to the sautéed onion and celery — this entry had folded the skillet and the constant stirring into the vegetable sauté and described a "roux built in the vegetables" the page never prints. And the **sieved hard-boiled eggs and the chopped lemon** are added with the tomato sauce — both were in the ingredient list but had dropped out of the steps entirely. All quantities, the 1½–2 hr simmer, the sherry limit, and "Serves 10–12" match.
 
 #### C. Grocery Shopping List
 
@@ -41929,8 +41933,8 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 27), credited to 
 **3. Cut in the shortening.**
 Into half of the dry ingredients.
 
-**4. Combine with the buttermilk and yeast.**
-Pour the dissolved yeast into the buttermilk, then add to the dry-and-shortening mixture. Add the remaining dry ingredients.
+**4. Add the remaining dry ingredients, then the buttermilk and yeast.**
+Add the rest of the dry ingredients to the shortening mixture. Pour the dissolved yeast into the buttermilk, then add that to the dry ingredients.
 
 **5. Roll and cut.**
 Roll on a floured board and cut biscuits with a cutter — not too thin. The dough handles better if it's been chilled first.
@@ -42037,7 +42041,7 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 27), credited to 
 
 **Yield:** not stated; estimated to make about 24 small biscuits, flagged below
 
-**🟢 Easy** · **Prep ~15 min** *(working the butter into the flour by hand, adding ice water, shaping)* · **Cook ~12 min** *(bake at 450°F, per the source)* · **Start to finish ~1 hr** *(includes an assumed ~30 min chill — the source says to chill the dough but doesn't give a time)*
+**🟢 Easy** · **Prep ~15 min** *(working the butter into the flour by hand, adding ice water, shaping)* · **Cook ~12 min** *(estimated — the source gives the 450°F oven but no bake time)* · **Start to finish ~1 hr** *(includes an assumed ~30 min chill — the source says to chill the dough but doesn't give a time)*
 
 #### A. Ingredients
 
@@ -42059,8 +42063,8 @@ Shape the dough into a ball, wrap in waxed paper, and chill.
 **4. Roll thin and cut.**
 Roll the dough thin and cut into small biscuits.
 
-**5. Bake. About 12 minutes at 450°F.**
-On an ungreased griddle, in a hot oven.
+**5. Bake. At 450°F, until done — about 12 minutes (estimated).**
+On an ungreased griddle, in a hot oven. The source prints the temperature but no time; thin, small pastry biscuits at 450°F are typically done in 10–12 minutes — watch the edges for color.
 
 > **Per the source:** this dough may be prepared ahead and keeps in the refrigerator for a week. It's delicious served with coffee or sherry, and also makes a good strawberry shortcake base with plenty of berries and sweetened whipped cream.
 
@@ -42083,7 +42087,7 @@ On an ungreased griddle, in a hot oven.
 
 #### D. Open Questions
 
-- **No biscuit count or chill time given** — 24 biscuits and a ~30 min chill are Claude's estimates.
+- **No biscuit count, chill time, or bake time given** — 24 biscuits, a ~30 min chill, and a ~12 min bake are Claude's estimates. *(The bake time used to read as printed; the 2026-09-07 re-verification found the page gives only the 450°F oven.)*
 
 [↑ Table of Contents](#table-of-contents)
 

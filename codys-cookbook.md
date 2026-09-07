@@ -17154,13 +17154,20 @@ A do's-and-don'ts list, straight from the book:
 <!-- TECHNIQUE-TAGS: meathead, balsamic, vinegar, buying-guide, condiments -->
 **Tags:** `meathead` · `balsamic` · `vinegar` · `buying-guide` · `condiments`
 **Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 351).
-**Used in:** [§5.41 Grilled Asparagus](#541-grilled-asparagus).
+**Used in:** [§5.41 Grilled Asparagus](#541-grilled-asparagus) — whose Step 1 sends you here for the reduction method.
 
-**Most bottles on a regular grocery shelf labeled "balsamic vinegar of Modena" aren't true balsamic at all** — they're wine vinegar sweetened with sugar and tinted with caramel coloring. The real thing, **Aceto Balsamico Tradizionale**, is made and barrel-aged only around Modena or Reggio Emilia, Italy, under strict rules, and comes in two official grades: **Extra Vecchio** (aged 25+ years, roughly $250 for a small 100 ml bottle) and the younger **Affinato** (aged about 12 years, roughly $100 for a similar bottle).
+> ✅ **Independently re-verified 2026-09-07** against book p. 351 (scan index 50, enlarged) — and rewritten, because the earlier entry didn't match the sidebar. What the page actually prints: the real thing comes **only from Modena** (no Reggio Emilia); **Extra Vecchio averages twenty-five years and sells for about $150** per 100 ml (the entry had $250); **Aceto Balsamico Condimento is called "the best value," about $40 for 250 ml — "if you can afford it, get it"** (the entry had called condimento "unregulated" and told you to read the back label — none of that is on the page); and the everyday bottles are **Balsamic Vinegar di Modena** at about $1 an ounce, which the source names *salad-grade*. Most importantly, the sidebar's **balsamic-reduction method** — the thing §5.41 points here for — was missing entirely and is now below.
 
-**A step down, "Condimento" balsamic is unregulated** — some are genuinely good aged products, others are just dressed-up wine vinegar with a fancier label. The only way to tell is to read the back of the bottle for actual aging information (or the lack of it) rather than trust the front label or the price alone.
+**Most of the "balsamic" at the grocery isn't the real thing.** Per the source, remember when nobody had heard of balsamic vinegar, and now the grocery has scores of brands? That's the problem: a lot of them are simply wine vinegar with sugar and caramel coloring, so there's a good chance you've never tasted the real thing — which is hard to make, barrel-aged, and expensive, and comes only from Modena, Italy.
 
-**Buy a few different bottles and taste them side by side.** A real one is thick, syrupy, and complex — not sharp, thin, and one-note sweet. Keep a good bottle on hand for finishing dishes like [§5.41 Grilled Asparagus](#541-grilled-asparagus), where it goes on at the very end rather than into the cooking.
+**The grades, top to bottom, as the source prices them:**
+
+- **Aceto Balsamico Tradizionale Extra Vecchio** — the top of the line, a blend that might average twenty-five years old. A 100 ml bottle (less than ½ cup) sells for about $150.
+- **Aceto Balsamico Tradizionale Affinato** — might average twelve years old; about $100.
+- **Aceto Balsamico Condimento** — the best value, at about $40 for 250 ml (about 1 cup). *"If you can afford it, get it."*
+- **Balsamic Vinegar di Modena** — the rest, about $1 an ounce, labeled inconsistently and often fraudulently. For lack of a better name, the source calls these **salad-grade** balsamic ("marinating-grade might be a better sobriquet"). The first thing to know: if a salad-grade bottle states an age, it's a lie — that's against the law. And there is no such thing as white balsamico, raspberry balsamico, or any other flavor (though the source confesses an affection for raspberry, whatever's in there).
+
+**Taste several, then reduce the losers into syrup — this is the reduction §5.41 calls for.** Go to the grocery, buy several varieties, and taste them on a spoon or on bread. Then take the ones you liked least and make a **balsamic reduction**: simmer over a low burner until it reduces by half and you have a thick, sweet syrup. **Be careful not to boil it, or it can form a taffy-like candy.** The syrup is very nice on salads and dishes like [§5.41 Grilled Asparagus](#541-grilled-asparagus); the source keeps a bottle on hand at all times. If you have tradizionale or condimento, skip the reduction and use it straight.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -20174,23 +20181,24 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T47 Cooking Vegetables and Fruits](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) *(dense eggplant halves cook through over direct heat while the cut side chars)*
 
-**Makes 1½ to 2 cups · Takes 45 minutes** *(as printed)*
+**Makes 1½ to 2 cups · Takes 45 minutes** *(as printed — but see the ⚠️ below on the first fraction)*
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
+> ✅ **Independently re-verified 2026-09-07** against book pp. 356–357 (scan index 51, enlarged). **Two corrections that change what you buy and cook:** the pitas are **6 (8-inch) pitas**, not 6-inch, and **Step 4 toasts them "until they're nice and crispy"** — the entry's "warmed and lightly toasted, about 1 to 2 minutes per side" was not printed. Also fixed: the page's six steps were split into seven (the spice bloom and the purée are one printed step); the serve step garnishes with paprika and herbs only — the "drizzle of oil" and the ingredient list's "plus more for garnish" were not printed and are struck; and the Notes are restored in full (harissa also carries coriander and can be swapped for *American chili powder in a pinch*; garam masala's printed spice list; tahini's printed note). Nutrition re-estimated for the larger pitas. ⚠️ **One thing unreadable:** the MAKES line sits under a glare band on the photo — *"1[?] to 2 cups"* — and the first fraction can't be resolved even enlarged and contrast-stretched (1½ or 1¼ both fit). The standing "1½" is kept as previously transcribed, flagged here, and recorded in Open Questions.
 
 #### A. Ingredients
 
 - 1½ pounds eggplant
-- 6 tablespoons olive oil, divided *(¼ cup for the eggplant, 2 tablespoons for blooming the spices)*, plus more for garnish
+- 6 tablespoons olive oil, divided *(¼ cup for the eggplant, 2 tablespoons for blooming the spices)*
+- 6 (8-inch) pitas
 - 3 garlic cloves, minced or pressed
 - ½ teaspoon harissa powder *(see Notes)*
 - ½ teaspoon garam masala *(see Notes)*
-- 3 tablespoons tahini
+- 3 tablespoons tahini *(see Notes)*
 - 3 tablespoons fresh lemon juice
 - 1 teaspoon kosher salt
-- 6 (6-inch) pitas
 - Sweet paprika, for garnish *(optional)*
 - Finely chopped fresh cilantro or flat-leaf parsley, for garnish *(optional)*
 
@@ -20206,18 +20214,15 @@ Set up your grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)). Get 
 Place the eggplant pieces over direct heat and cook, **lid down**, until they get some brown spots and grill marks. Flip and cook the other side. **The interior should be soft and custardlike.** As each piece is finished, transfer it to a platter.
 
 **4. Toast the pita.**
-Grill the pitas until warmed and lightly toasted, about 1 to 2 minutes per side, then cut into wedges.
+Toss the pitas right on the grill grates and toast them up until they're nice and crispy, then remove them from the grill and cut them into wedges.
 
-**5. Bloom the spices.**
-In a small skillet, combine the remaining **2 tablespoons** olive oil with the garlic, harissa powder, and garam masala and cook over low heat for 2 to 3 minutes.
+**5. Bloom the spices, then purée. 2 to 3 minutes over low heat.**
+In a small skillet, combine the remaining **2 tablespoons** olive oil with the garlic, harissa powder, and garam masala and cook over low heat for 2 to 3 minutes. Transfer to a blender or food processor, add the grilled eggplant, tahini, lemon juice, and salt, and purée until smooth. Taste and adjust the seasonings.
 
-**6. Blend.**
-Scoop the grilled eggplant flesh into a food processor or blender with the bloomed garlic-spice oil, tahini, lemon juice, and salt. Purée until smooth, then taste and adjust the seasoning.
+**6. Serve.**
+Spoon the dip into your favorite serving bowl, garnish with paprika and fresh herbs, if desired, and serve with the toasted pita wedges.
 
-**7. Serve.**
-Spoon into a serving bowl, garnish with a drizzle of oil, a dusting of paprika, and fresh herbs if using, and serve with the toasted pita wedges.
-
-> **Notes, per the source.** Harissa is a blend of chile peppers, garlic, and other spices, sometimes sold as a paste rather than a powder — either works. If you can't find garam masala locally, a Middle Eastern or Indian grocery is a reliable source.
+> **Notes, per the source.** Harissa is a blend of chile peppers, garlic, coriander, and other spices, sometimes sold as a powder and sometimes as a paste. It's available in better grocery stores or in Middle Eastern stores — and in a pinch, you can substitute American chili powder. Garam masala is a popular spice blend from India, typically made with peppercorns, cumin, cinnamon, clove, nutmeg, bay leaf, and cardamom. Tahini is a paste of crushed sesame seeds, available in most grocery stores (check the international foods aisle) or Middle Eastern stores.
 
 #### C. Grocery Shopping List
 
@@ -20226,11 +20231,11 @@ Spoon into a serving bowl, garnish with a drizzle of oil, a dusting of paprika, 
 - 🛒 Eggplant — 1½ lb
 - 🛒 Olive oil
 - 🛒 Garlic — 3 cloves
-- 🛒 Harissa powder *(spice aisle or Middle Eastern grocery)*
+- 🛒 Harissa powder *(better grocery stores or a Middle Eastern grocery; American chili powder in a pinch)*
 - 🛒 Garam masala *(spice aisle or Indian grocery)*
-- 🛒 Tahini
+- 🛒 Tahini *(international foods aisle or Middle Eastern grocery)*
 - 🛒 Lemon
-- 🛒 Pitas — 6 (6-inch)
+- 🛒 Pitas — 6 (8-inch)
 - 🛒 Sweet paprika *(optional)*
 - 🛒 Fresh cilantro or flat-leaf parsley *(optional)*
 
@@ -20238,10 +20243,10 @@ Spoon into a serving bowl, garnish with a drizzle of oil, a dusting of paprika, 
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** *(makes 1½ to 2 cups of dip, plus 6 pitas)* | ~2,000 | 100 g | 44 g | 240 g | 26 g |
-| **Per serving** *(serves 6 — dip + 1 pita each)* | ~335 | 17 g | 7 g | 40 g | 4 g |
+| **Whole dish** *(makes 1½ to 2 cups of dip, plus 6 pitas)* | ~2,400 | 103 g | 54 g | 320 g | 30 g |
+| **Per serving** *(serves 6 — dip + 1 pita each)* | ~400 | 17 g | 9 g | 53 g | 5 g |
 
-**What a serving is:** about ¼ to ⅓ cup of dip with one toasted pita, cut into wedges.
+**What a serving is:** about ¼ to ⅓ cup of dip with one toasted 8-inch pita, cut into wedges.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -20258,7 +20263,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **🟢 Easy** · **Prep ~20 min** · **Slow cook 45 min** *(smoker, unattended)* · **Start to finish ~3 hr** *(includes at least 2 hr chilling — overnight is better)*
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
-
+> ✅ **Independently re-verified 2026-09-07** against book p. 357 (scan index 51, enlarged). **One quantity was wrong: the dressing takes ¼ teaspoon dried dill, not ½** — corrected. The pepper is printed as *coarsely* ground; the grocery list said 1 celery stalk against the printed 2 — fixed. Three method details restored from the page: the potatoes are smoked "for about 45 minutes" and cooled to room temperature (the entry's "until tender with a light smoky crust" was not printed), they're folded into the dressing *"trying not to smush them,"* and the dressing gets a *taste and adjust* before it chills. Every other quantity, the ½-inch water cover, 2 pinches of salt, the 150°F parboil, the 15-minute ice bath, 225°F, and the 30-minute warm-up match.
 
 > **Why Easy.** The smoke itself is a walk-away 45 minutes, same reasoning as this cookbook's other smoked and slow-cooked dishes — nothing here can go from perfect to ruined the way a roux or a broken emulsion can.
 
@@ -20278,12 +20283,12 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 cup mayonnaise
 - 2 tablespoons Dijon mustard
 - ¼ cup chopped fresh flat-leaf parsley
-- ½ teaspoon dried dill
+- ¼ teaspoon dried dill
 - Zest and juice of ½ lemon
 - ½ teaspoon sugar
 - ½ teaspoon garlic powder
 - ½ teaspoon kosher salt
-- ¼ teaspoon freshly ground black pepper
+- ¼ teaspoon coarsely ground black pepper
 
 #### B. Cooking Instructions
 
@@ -20293,11 +20298,11 @@ Place the potatoes in a saucepan and add cold water to cover them by **at least 
 **2. Fire up.**
 Get the smoker to 225°F, or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 225°F on the indirect side. Oil a grill topper and set it on the indirect side; get some wood smoking.
 
-**3. Smoke the potatoes.**
-Spread the potatoes on the topper in a single layer so they don't overlap. Smoke until tender with a light smoky crust, about 45 minutes. Transfer to a platter and let cool completely — they can be smoked up to a day ahead.
+**3. Smoke the potatoes. About 45 minutes.**
+Gently slide the potatoes onto the topper and space them out so they don't overlap. Close the lid and smoke the potatoes for about 45 minutes, then transfer them to a platter and let cool to room temperature. You can smoke them a day ahead.
 
 **4. Make the dressing and toss.**
-Whisk together the onion, celery, pickle relish, mayonnaise, Dijon, parsley, dill, lemon zest and juice, sugar, garlic powder, salt, and pepper in a large bowl. Fold in the cooled smoked potatoes. Refrigerate at least a couple of hours — overnight is even better — so the flavors meld.
+In a serving bowl, whisk together the onion, celery, pickle relish, mayonnaise, Dijon, parsley, dill, lemon zest and juice, sugar, garlic powder, salt, and pepper. Fold in the potatoes, trying not to smush them. Taste and adjust the seasonings. Stash the salad in the fridge for a couple of hours before serving to let the flavors meld — overnight is even better.
 
 **5. Serve.**
 Remove the salad from the fridge **30 minutes** before serving to let it warm slightly.
@@ -20310,7 +20315,7 @@ Remove the salad from the fridge **30 minutes** before serving to let it warm sl
 - 🛒 Cooking oil
 - 🛒 Ice *(for the shock bath in Step 1)*
 - 🛒 Onion
-- 🛒 Celery — 1 stalk
+- 🛒 Celery — 2 stalks
 - 🛒 Sweet pickle relish
 - 🛒 Mayonnaise — 1 cup
 - 🛒 Dijon mustard
@@ -20340,7 +20345,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T59 Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) *(prep the ribs the same way as [§7.97 Last-Meal Ribs](#797-last-meal-ribs))*
 
+**Makes 4 servings · Takes 3 to 4 hours to cook** *(as printed)*
+
 **🟡 Medium** · **Prep ~20 min** · **Slow cook 3 to 4 hr** *(under a rack of ribs on the smoker, stirred occasionally)* · **Start to finish ~4 hr**
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 361–362 (scan indexes 53 and 52 — the second photo tilted, straightened and enlarged). All twelve ingredient lines and all seven steps match the page — 225°F, the 9-by-13-inch pan, the ½-inch bacon chunks, 1 tablespoon of fat kept, 2 cups hot water, the 3-to-4-hour range. Two small fixes: the page keeps the poured-off bacon fat *"in the fridge for another day,"* and the finish is simply "painting them with barbecue sauce and sizzling them on the direct-heat side" — the entry's "for a couple of minutes to set the glaze" was not printed and is struck. The printed MAKES/TAKES line was missing — added.
 
 > **Why Medium, not Easy.** This isn't a true walk-away slow cook — the pot needs periodic stirring and checking over several hours, and it can scorch on one side or dry out if left completely alone, per the book's own warnings. That's a real failure mode, even though it's a forgiving and recoverable one (rotate the pan, add a splash of water) rather than the kind of unwatchable, unrecoverable failure that earns a 🔴, per [CLAUDE.md §3a](CLAUDE.md).
 
@@ -20368,7 +20377,7 @@ Prepare the baby backs the same way as [§7.97 Last-Meal Ribs](#797-last-meal-ri
 Get the smoker to 225°F, or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and shoot for about 225°F on the indirect side. Warm a 9-by-13-inch metal pan on the direct side.
 
 **3. Render the bacon.**
-Cook the bacon in the pan until browned on both sides but not yet hard and crunchy. Remove and let cool, then chop into ½-inch chunks. Pour off all but 1 tablespoon of the fat.
+Put the bacon in the pan and cook until browned on both sides. Remove the bacon before it is hard and crunchy and set aside. When it cools, chop it into ½-inch chunks. Pour off all but 1 tablespoon of the fat from the pan and save it in the fridge for another day.
 
 **4. Build the beans.**
 Add the onion to the fat left in the pan and cook until limp but not browned. Stir in 2 cups hot water, the beans, molasses, barbecue sauce, mustard, bay leaf, salt, pepper, and the chopped bacon, scraping up any browned bits from the bottom of the pan.
@@ -20380,7 +20389,7 @@ Move the pan of beans to the indirect side and set the ribs on a rack directly a
 Stir the beans occasionally, scraping the bottom so nothing sticks or scorches — if one side is cooking faster than the other, turn the pan. Total time runs 3 to 4 hours, depending on the ribs, your smoker, and the weather. Add a splash of water if the beans start to dry out. Just before serving, taste and adjust with salt, pepper, more barbecue sauce, water, or molasses; stir in the lemon juice and/or jalapeños if using.
 
 **7. Finish and serve.**
-Paint the ribs with barbecue sauce and sizzle them over direct heat for a couple of minutes to set the glaze. Serve the ribs over or alongside the beans, with whatever other sides you're running.
+Finish the ribs by painting them with barbecue sauce and sizzling them on the direct-heat side. Serve with the beans and other sides of your choice.
 
 #### C. Grocery Shopping List
 

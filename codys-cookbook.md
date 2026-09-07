@@ -9613,9 +9613,11 @@ Use right away, or cover and refrigerate for up to 1 week.
 
 ### 4.133 Beef Butter
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. A simple herb compound butter built to top [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter), though per the source it's just as good on vegetables, potatoes, waffles, or corn. **Same family as this cookbook's other compound butters** — [§4.55 Fresh Herb Butter](#455-fresh-herb-butter), [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter), [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter), and [§4.58 Pimentón Butter](#458-pimentón-butter) — same soften-mix-roll-chill technique, different herbs.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter. A simple herb compound butter built to top [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter), though per the source it's just as good on vegetables, potatoes, waffles, meats, and more. **Same family as this cookbook's other compound butters** — [§4.55 Fresh Herb Butter](#455-fresh-herb-butter), [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter), [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter), and [§4.58 Pimentón Butter](#458-pimentón-butter) — same soften-mix-roll-chill technique, different herbs.
 
-**Yield:** 4 oz (1 stick)
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 255 (second-pass QC).** All four ingredient lines (8 Tbsp / 1 stick salted butter; ½ tsp each chopped fresh rosemary, parsley, and tarragon), MAKES 4 ounces (1 stick) / TAKES 20 minutes, the 20-minute soften or 5-second microwave blasts, the fork, the 12-inch sheet of plastic wrap or waxed paper, the 1-inch Tootsie Roll with twisted ends, the overnight refrigeration, and fridge-or-freezer storage all match the page. **Two fixes:** the entry's old Step 4 ("Serve — unwrap and cut into ½-inch coins…") was **not printed** — the page's method ends at refrigerate-overnight-and-store — so it is struck, and the ½-inch-coin serving size now lives only in the Nutrition block as this cookbook's own portion; and the headnote's list of uses read "vegetables, potatoes, waffles, or corn" where the page prints *vegetables, potatoes, waffles, meats, and more* (the carrots in the honey variation are simply *grilled carrots*, not "glazed"). No quantity changed.
+
+**Makes 4 oz (1 stick) butter · Takes 20 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~20 min** *(plus refrigerate overnight before serving, or freeze)*
 
@@ -9637,12 +9639,11 @@ Put the softened butter in a bowl and add the chopped rosemary, parsley, and tar
 **3. Roll into a log and chill.**
 Scoop the mixture onto a 12-inch sheet of plastic wrap or waxed paper and roll it up like a Tootsie Roll, about 1 inch across the middle, twisting the ends to seal. Refrigerate overnight. It can be stored in the fridge or freezer.
 
-**4. Serve.**
-Unwrap and cut into ½-inch coins to top a hot steak, roast, vegetables, potatoes, or waffles.
+*The printed method ends here — the page gives no separate serving step. [§7.109](#7109-chateaubriand-with-compound-butter) Step 6 tops each slice with "a pat" of it; the ½-inch coin in the Nutrition block below is this cookbook's own portion.*
 
 #### Chef's Notes
 
-Per the source, this is a concept as much as a fixed recipe — the technique has infinite variables. Swap in chipotle, ancho, brown spices, dried mushrooms, port wine, cheese, miso, or curry for a completely different butter using the same method. Mixed with honey instead of herbs, it makes a topping for English muffins or finishing glazed grilled carrots.
+Per the source, this is a concept as much as a fixed recipe — the technique has infinite variables. Swap in chipotle, ancho, brown spices, dried mushrooms, port wine, cheese, miso, or curry for a completely different butter using the same method. Mixed with honey instead of herbs, it makes a topping for English muffins or for finishing grilled carrots.
 
 #### C. Grocery Shopping List
 
@@ -30341,7 +30342,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T66 Prime Rib & Rib Roast](#t66-prime-rib--rib-roast--ordering-bones-and-carving) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
 
-**🟡 Medium** · **Prep ~1 hr** *(deboning, trimming, tying)* · **Cook ~2–3 hr** *(mostly indirect and unattended; finishes with an attended high-heat sear)* · **Start to finish ~1–2 days** *(includes a 24–48 hr dry brine)*
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 248–251 (second-pass QC).** All three ingredient lines (1 (8-pound) bone-in beef rib roast, about 3 bones wide; kosher salt at about ½ tsp per pound; Mrs. O'Leary's Cow Crust p. 167), MAKES 6 large servings, the 24-to-48-hour dry brine, the twine every inch or two, 1 teaspoon of rub per 8 square inches, 225°F, 2 to 4 ounces of wood max, the 115-to-120°F move to direct heat, 5 to 10 minutes per side with a 10-to-15°F rise, the 130-to-135°F pull, and the ¼-to-½-inch slices all match the page; ten steps in printed order. **Two small fixes:** the "For Those Who Don't Want Medium-Rare" sidebar said slices go back on the grill "for a minute or two per side" — the page prints *a few minutes per side*; and the page's cooking-time rule was not carried — *to reach 130°F in the deepest part of a boneless roast about 4 inches thick, allow 30 minutes per inch of thickness* — now on the badge. The p. 248 buying notes (order fresh, not frozen, well in advance; take delivery 2 or 3 days ahead; 28-day wet-aged if you can get it) are confirmed. No quantity changed.
+
+**Makes 6 large servings · Takes 1 hour to prep the meat, 24 to 48 hours to dry brine, 10 minutes to dry rub; cooking time will vary based on the thickness of the meat** *(as printed — to reach 130°F in the deepest part of a boneless roast, if the roast is about 4 inches thick, allow 30 minutes per inch of thickness)*
+
+**🟡 Medium** · **Prep ~1 hr** *(deboning, trimming, tying; plus 10 min to rub)* · **Cook ~2–3 hr** *(the page's rule: 30 min per inch of thickness to 130°F for a ~4-inch roast, mostly indirect and unattended; then an attended high-heat sear)* · **Start to finish ~1–2 days** *(includes a 24–48 hr dry brine)*
 
 > **Rated Medium for the same reason as this cookbook's other reverse-seared roasts and steaks** — the final searing stage (Step 9 below) needs real, continuous attention, standing by the grill and rotating the roast every few minutes. Nothing here can be ruined the way a sauce or a roux can; a side that's browning too fast just gets rotated away from the heat.
 
@@ -30385,7 +30390,7 @@ Set the meat on a cutting board with a channel that can hold the liquid that wil
 
 #### Chef's Notes — for those who don't want medium-rare
 
-If exactly two people at the table want their meat cooked more, they can have the two ends — those run 10 to 20°F warmer because they face heat from more directions. If more than two people want their meat well-done, cut a hunk off the roast just for them before cooking and essentially cook two roasts side by side, one to medium-rare and one to their preference. A few slices can also go back over a hot grill for a minute or two per side afterward if someone changes their mind.
+If exactly two people at the table want their meat cooked more, they can have the two ends — those run 10 to 20°F warmer because they face heat from more directions. If more than two people want their meat well-done, cut a hunk off the roast just for them before cooking and essentially cook two roasts side by side, one to medium-rare and one to their preference. If necessary, a few slices can also go back over a hot grill for a few minutes per side, and they can have well-done ribeyes.
 
 #### C. Grocery Shopping List
 

@@ -11258,6 +11258,8 @@ Chill until serving. If desired, garnish with nigella seeds before serving. Cove
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 374–375), opening her "Mayonnaise" section. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§T85](#t85-cooking-onions--blond-browned-caramelized)–[§T88](#t88-braise--the-six-step-method). **The first of six mayonnaise-family recipes in this batch:** [§4.160 Classic Sandwich Mayo](#4160-classic-sandwich-mayo), [§4.161 Aioli](#4161-aioli-garlic-mayonnaise), [§4.162 Herb Mayonnaise](#4162-herb-mayonnaise), and [§4.163 Rouille](#4163-rouille-pepper-mayonnaise) all build on this one (or on [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio).
 
+> ✅ **Independently re-verified 2026-09-07** against book pp. 374–375 (scan p. 38, enlarged). The headnote, the two-line ingredient list (1 egg yolk at room temperature; ¾ cup oil), the towel-ring bowl, the drop-at-a-time ladle-or-nozzle pour, the half-way speed-up, the teaspoon-of-water-or-acid thinning, the page-86 fix pointer, MAKES about ¾ cup, and the 3-day keep all match. **One thing the first pass missed:** the printed recipe has **no salt line** — the entry had listed "Salt" as an ingredient and a "salt to taste" step; both now say the salting advice comes from the headnote and applies only to a plain spread. The page's stand-mixer alternative is now named alongside the blender and food processor. No printed quantity altered.
+
 > **The source's own "Mayonnaise" headnote, folded in here:** *"There might not be a more polarizing food than mayonnaise, but I fall firmly in the camp of the devoted. And, as a teacher, I don't think there's a better way to illustrate the power of a little kitchen science than by making, breaking, and fixing a mayonnaise."* She points back to her own illustrated walkthrough for "the science of making a mayonnaise" — **that walkthrough is exactly what this cookbook already has at [§T16 How to Make a Mayonnaise](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)**, which is why "Basic Mayonnaise," the name several of this cookbook's earlier entries have been citing as a same-book gap (see the retrofit note in this batch's changelog entry), turns out to already be documented rather than missing — it's T16 under a different name. When building mayonnaise as the *base for a sauce* (Caesar Dressing, Tartar Sauce), the source says to leave it unsalted and stiffer than usual, since the other ingredients will thin and season it; when seasoning a *plain* mayonnaise for spreading, dissolve the salt in a spoonful of water or lemon juice first rather than sprinkling it in dry. For a Mediterranean-leaning base — Aioli, Herb Mayonnaise, Rouille — use olive oil; for an American-style sandwich mayo, use a neutral or expeller-pressed canola oil.
 
 **Makes about ¾ cup**
@@ -11317,6 +11319,8 @@ If this is going into one of the sauces built on it, leave it unsalted and stiff
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 375), facing [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **This is the exact recipe [§5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw)'s Classic Southern Slaw variation has been citing as "the source's own Classic Sandwich Mayo, undocumented" since the Salads batch — retrofitted below to link here.**
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 375 (scan p. 38 right, enlarged), confirming the 2026-09-06 corrections: **¾ teaspoon** yellow mustard powder and **MAKES about ¾ cup** are both exactly what the page prints. 1½ tsp cider vinegar, 1 tsp lemon juice, ½ tsp sugar, ¾ cup *stiff* Basic Mayonnaise, the dissolve-first step, the 3-day keep, and the serving suggestions match. The page's "Cover and chill until serving" is now in Step 2. No salt quantity altered.
+
 **Makes about ¾ cup** *(corrected 2026-09-06 — the source prints ¾ cup, not 1 cup)*
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
@@ -11369,6 +11373,8 @@ Cover and refrigerate leftovers for up to 3 days.
 ### 4.161 Aioli (Garlic Mayonnaise)
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 376). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **This closes the gap [§7.125 Beer-Battered Fish](#7125-beer-battered-fish)'s Fritto Misto variation has been carrying since the Vegetables/Stock/Mains batch** ("Serve with lemon wedges and Aïoli, source p. 376 — not yet documented"), now retrofitted to link here. **Not a duplicate** of this cookbook's other aiolis — [§7.84 Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) is a citrus-forward burger topping from a different book — this is the plain garlic version.
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 376 (scan p. 39 left, enlarged), confirming the 2026-09-06 corrections: **¾ cup stiff** Basic Mayonnaise and **MAKES about ¾ cup**. Salt, 4 tsp lemon juice, 1 clove; dissolve-then-stir; cover and chill; 3-day keep; the full serving list. Nothing changed.
 
 > **Rouille**, the sibling recipe two entries over ([§4.163](#4163-rouille-pepper-mayonnaise)), is French for "rust" — a garlicky, pepper-tinted mayonnaise named for its color, traditionally served with bouillabaisse and other fish soups. Some versions add a pinch of saffron for the same rust-orange tint and a floral note; this source's version leans on roasted peppers instead.
 
@@ -11423,6 +11429,8 @@ Cover and chill until serving. Cover and refrigerate leftovers for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 376), facing [§4.161 Aioli](#4161-aioli-garlic-mayonnaise). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 376 (scan p. 39 left, enlarged), confirming the 2026-09-06 corrections: **chives** are in the printed herb list (parsley, chives, chervil, basil, tarragon), the mayonnaise is **stiff**, and MAKES about 1 cup. 1 Tbsp lemon juice, 4 Tbsp herbs, 1 clove; 3-day keep; serving list. Nothing changed.
+
 **Makes about 1 cup**
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
@@ -11473,6 +11481,8 @@ Cover and chill until serving. Cover and refrigerate leftovers for up to 3 days.
 ### 4.163 Rouille (Pepper Mayonnaise)
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 377). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 377 (scan p. 39 right, enlarged), confirming the 2026-09-06 corrections: **3 to 4 teaspoons** red wine vinegar, **¾ cup stiff** Basic Mayonnaise, ⅓ cup Basic Pepper Paste (page 379), 1 clove; MAKES about 1 cup; the Chipotle variation (⅓ cup puréed canned chipotles); the 3-day keep; the serving list. **One timing restated:** the page says the sauce *"will thicken with a few hours of refrigeration"* and prints no exact figure — the badge and index row now say 2–3 hr rather than a flat 2 hr. No salt quantity altered.
 
 > **Rouille** is French for "rust," and this mayonnaise is named for its rust-red color — a garlicky, pepper-tinted (some versions saffron-tinted) mayonnaise traditionally spooned into or served alongside bouillabaisse and other fish soups. This version gets its color and body from a roasted-pepper paste rather than saffron.
 
@@ -11534,6 +11544,8 @@ The pepper paste and vinegar will seem to thin out the mayonnaise at first — t
 ### 4.164 Pesto (Basil Pesto)
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (**p. 382–384** — page numbers confirmed by the 2026-09-06 page-order audit, correcting the original batch's "p. 288–290"), her "Pesto" section intro plus the Basil Pesto recipe and its own greens/nuts/cheese substitution chart. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **The third pesto in this cookbook** — distinct from [§4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](#43-pesto-basil-parmesan-and-pine-nut-sauce), transcribed earlier from a different photographed cookbook page with its own ratios, and [§4.131 Pesto](#4131-pesto), sourced from Meathead's book; all three are kept side by side rather than merged, since each comes from its own source with its own exact ratio.
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 382–384 (scan pp. 40 and 35, enlarged), confirming the 2026-09-06 Parmesan correction: the page prints **3½ ounces (about 1 heaping cup)**. ¾ cup oil, 2 packed cups basil, 1–2 cloves, ½ cup pine nuts, the knife-first / half-the-oil-in-the-blender / pulse method, the finish-in-a-bowl step, the oil-to-cover, the 3-month freeze, and the p. 384 substitution lists and pie chart (2 packed cups greens · 1 heaping cup cheese · ½ cup lightly toasted nuts · ¾ cup oil · 1–2 cloves garlic · salt to taste) all match. **Two things the first pass missed:** the page prints **MAKES 1½ cups**, not 1¾, and **refrigerate up to 3 days**, not 5 — both corrected, per-serving nutrition recalculated for 12 two-tablespoon servings. No salt quantity altered.
 
 > **The source's own headnote, folded in here:** *"I once worked for a chef who had a marble mortar and pestle the size (and weight) of a small child. Even though it was horribly inconvenient and entirely messy to use, he insisted that we do it to pound all of the ingredients every time we made pesto, to better connect with our culinary ancestors."* **Pesto** takes its name from *pestare*, Italian for "to pound" — the traditional method crushes the basil leaves between the pestle and mortar wall rather than slicing them, which bruises the leaf cells more gently and slowly than a fast-spinning blade does, so less chlorophyll oxidizes and the sauce stays a brighter green with a rounder, less "cut-grass" flavor. A food processor gets the same ingredients blended in a fraction of the time, at some cost to that color and freshness — the source's own compromise, described below, is a hybrid: pound the nuts and garlic by hand, then finish the basil in a machine kept as brief and cool as possible.
 
@@ -17150,6 +17162,8 @@ A do's-and-don'ts list, straight from the book:
 **Tags:** `salsa` · `herb-sauce` · `macerating` · `salsa-verde` · `chutney` · `condiment` · `formula`
 **Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** — the section intro and handwritten diagram opening her "Sauces" chapter (book p. 358–359), the same book behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat).
 **Used in:** [§4.146](#4146-basic-salsa-verde)–[§4.151](#4151-meyer-lemon-salsa) — every herb salsa in that run is this same formula with a different herb, acid, and oil.
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 358–359 (scan p. 47, enlarged). The handwritten formula is transcribed word for word — *chopped herbs + salt + olive oil to cover (use more for a sauce to drizzle, less for a thicker sauce) + shallots macerated in acid = herb salsa* — and the Herb Salsa intro's three points (parsley leaves only, stems to the stock freezer; cilantro stems are the most flavorful part; food processor works but chop each ingredient separately and stir together by hand) match the page. Nothing changed.
 
 **The source's own formula, exactly as she writes it:**
 

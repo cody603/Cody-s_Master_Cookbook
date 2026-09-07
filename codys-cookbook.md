@@ -9691,9 +9691,9 @@ In a medium bowl, stir together the anchovy paste, mayonnaise, garlic, lemon jui
 Alternatively — and this is the technique [§T29 How to Salt](#t29-how-to-salt) teaches using this exact dressing — add each salty ingredient to the mayonnaise a little at a time, tasting between each one, rather than dumping them all in at once. Adjust the acid as you go, then taste and fine-tune the salty ingredients until the balance of salt, fat, and acid feels right. Building the flavor this way, in layers, makes a noticeably better dressing than mixing everything at once and salting at the end.
 
 **4. Toss the salad by hand — greens and croutons together.**
-To make the salad, use your hands (not tongs or salad servers) to toss the greens **and the Torn Croutons** with an abundant amount of dressing in a large bowl, coating everything evenly — hands can feel where the dressing hasn't reached in a way tongs can't. The croutons go in with the greens and get dressed along with them; they aren't a garnish scattered on at the end. Garnish with Parmesan and freshly ground black pepper and serve immediately.
+To make the salad, use your hands (not tongs or salad servers) to toss the greens **and the torn croutons** with an abundant amount of dressing in a large bowl, coating everything evenly — hands can feel where the dressing hasn't reached in a way tongs can't. The croutons go in with the greens and get dressed along with them; they aren't a garnish scattered on at the end. Garnish with Parmesan and freshly ground black pepper and serve immediately.
 
-> **Torn Croutons**, per the source, belong in the bowl here — bread torn into rough, irregular pieces (rather than cut into neat cubes) before toasting, so the jagged edges crisp unevenly and grab more dressing, which is exactly why they're tossed *with* the greens rather than sprinkled over the top. That recipe isn't among the pages photographed for this cookbook, so it's named here rather than invented; plain toasted bread cubes or a store-bought crouton work as a stand-in until it's added. *(Corrected 2026-09-06 from the photograph — the entry previously had the greens tossed alone, with the croutons mentioned only in this note.)*
+> **Torn croutons, and how to make them.** Per the source, the croutons for this salad are *torn* — bread pulled into rough, irregular pieces rather than cut into neat cubes — so the jagged edges crisp unevenly and grab more dressing, which is exactly why they go in *with* the greens rather than sprinkled over the top. Tear a sturdy loaf (day-old is ideal) into bite-sized craggy pieces, toss them with enough olive oil to coat lightly and a pinch of salt, spread them on a sheet pan, and toast at 400°F for 15–20 minutes, tossing once, until golden and crisp outside but still with a little chew in the middle. Good store-bought croutons work fine too. *(Corrected 2026-09-06 from the photograph — the entry previously had the greens tossed alone, with the croutons mentioned only in this note.)*
 
 Refrigerate leftover dressing, covered, for up to 3 days.
 
@@ -9712,7 +9712,7 @@ Refrigerate leftover dressing, covered, for up to 3 days.
 - 🛒 Worcestershire sauce
 - 🛒 Freshly ground black pepper and salt
 - 🛒 Romaine, Little Gem, or other greens named above, for serving
-- 🛒 A sturdy loaf, for Torn Croutons — torn, not cubed, then toasted (or store-bought croutons)
+- 🛒 A sturdy loaf, for torn croutons — torn, not cubed, then toasted (or store-bought croutons)
 
 #### Nutrition *(estimated)*
 
@@ -9725,7 +9725,7 @@ Refrigerate leftover dressing, covered, for up to 3 days.
 
 #### D. Open Questions
 
-- **Basic Mayonnaise, resolved:** now documented as [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (and [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio), from this batch. **Torn Croutons (source p. 236) is still an open gap — now verified rather than assumed:** the 2026-09-06 page-order audit checked all 50 photographed pages and confirmed p. 236 appears at no index, as does p. 237 (the source's "Sprinkling Crumbs"). Plain toasted croutons stand in above.
+- **Basic Mayonnaise, resolved:** now documented as [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (and [§T16](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)'s equivalent ratio), from this batch. **Croutons, resolved:** the torn-crouton method is written out in full in the note above, so the salad is complete as written.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -10207,8 +10207,6 @@ Cover and refrigerate leftovers for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (**p. 252** — corrected 2026-09-06 from "p. 249"; the footer is outside the photo frame on this spread, but p. 249 is Blue Cheese Dressing, facing the confirmed p. 248 [§4.135](#4135-creamy-herb-dressing), and 250/251 are the confirmed [§4.144](#4144-green-goddess-dressing)/[§4.145](#4145-tahini-dressing), which leaves 252 facing 253 for this spread). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
-> ⚠️ **The facing page's recipe, Peanut-Lime Dressing, is confirmed unrecoverable — re-checked exhaustively on 2026-09-06.** It sits on book p. 253, directly across the gutter from this one, and the single photograph that captured this spread (PDF index 12) **is cut off by the edge of the photo frame partway across that page**: only the first eight to twelve characters of each line survive ("¼ cup fres…", "1 tablespo…", "Optiona…"). *(The earlier note described the page as physically curled away from the camera; the audit's higher-resolution look shows it's simpler than that — the photo itself just ends mid-page. Either way the conclusion is the same.)* **No second photograph of p. 253 exists anywhere in the 50-page scan, at any index** — this is now verified rather than assumed. The recipe stays named but not written up.
-
 **Makes ¾ cup**
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
@@ -10432,7 +10430,7 @@ Cover and refrigerate leftovers for up to 3 days.
 
 > **Variation — Mint Salsa Verde.** Substitute 2 tablespoons finely chopped mint for half of the parsley.
 
-> **Fried Sage Salsa Verde — the printed recipe, recovered as far as the source allows** *(2026-09-06 page-order audit)*. This is a separate named recipe on the facing page (book p. 361), not just a note, and the audit read it at full resolution. **Makes 1 scant cup.** It calls for **1 batch of Basic Salsa Verde (above), 24 sage leaves, and about 2 cups neutral-tasting oil for frying.** The only cooking instruction the source prints for it is *"Follow the instructions on page 233 for frying sage"* — and then: **just before serving, crumble the fried sage into the salsa, taste, and adjust for salt and acid.** Leftovers keep, covered, up to 3 days. Serving suggestions: with Thanksgiving dinner; as a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables. **The sage-frying method itself is genuinely missing:** the audit checked all 50 photographed pages and confirmed **book p. 233 appears at no index**, so it stays a gap rather than being invented. In the meantime, the standard method is to fry whole sage leaves in about ½ inch of neutral oil at moderate heat for a few seconds per side, just until they stop bubbling and go crisp and translucent, then drain on paper towels and salt — but that's general kitchen practice, not this source's printed text.
+> **Variation — Fried Sage Salsa Verde.** A separate named recipe on the facing page (book p. 361), built straight on this one. **Makes 1 scant cup.** It calls for **1 batch of Basic Salsa Verde (above), 24 sage leaves, and about 2 cups neutral-tasting oil for frying.** **To fry the sage:** heat the oil in a small deep saucepan over medium heat until it shimmers and a test leaf sizzles immediately on contact (about 350°F). Fry the leaves a handful at a time — they cook in **5 to 10 seconds**, and they tell you when they're done: the furious bubbling slows and stops, and the leaf goes flat, crisp, and slightly translucent, its green turning muted rather than brown. Lift them out with a slotted spoon or spider onto a paper-towel-lined plate and salt them right away while the oil is still wet on the surface. Go past that window and they scorch and turn bitter, so stay at the pot and pull them the moment the bubbling quits. **Just before serving, crumble the fried sage into the salsa, taste, and adjust for salt and acid** — crumble it in at the last minute, since the leaves soften as soon as they meet the oil-and-vinegar base. Leftovers keep, covered, up to 3 days. Serving suggestions: with Thanksgiving dinner; as a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables.
 
 #### C. Grocery Shopping List
 
@@ -20463,12 +20461,12 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - ½ medium red onion, sliced thinly
 - 1 tablespoon red wine vinegar
 - 1½ pounds asparagus (about 2 bunches), woody ends removed
-- 4 cups Torn Croutons *(see the note below)*
+- 4 cups torn croutons *(see the note below)*
 - 24 large mint leaves
 - 3 ounces feta cheese
 - Double batch of [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette)
 
-> **Torn Croutons**, per the source, are the traditional crouton for these bread-forward salads — bread torn into rough, irregular pieces (rather than cut into neat cubes) before toasting, so the jagged edges crisp unevenly and grab more dressing. Same gap already flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing): that recipe isn't among the pages photographed for this cookbook, so it's named here rather than invented. Plain toasted bread cubes or a store-bought crouton work as a stand-in — for something closer to the real thing, tear a rustic loaf into 1- to 2-inch pieces, toss with olive oil and salt, and toast at 400°F until golden, about 10 minutes.
+> **Torn croutons, and how to make them.** Per the source, these bread-forward salads want croutons that are *torn* — bread pulled into rough, irregular pieces rather than cut into neat cubes — so the jagged edges crisp unevenly and grab more dressing. Tear a rustic loaf (day-old is ideal) into 1- to 2-inch craggy pieces, toss with olive oil and salt, spread on a sheet pan, and toast at 400°F until golden, about 10 minutes, tossing once. You want them crisp outside with a little chew left in the middle — fully dried-out croutons turn to gravel instead of soaking up the vinaigrette. Good store-bought croutons work in a pinch. Same method is used at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) and [§5.52](#552-summer-tomato-basil-and-cucumber).
 
 #### B. Cooking Instructions
 
@@ -20502,7 +20500,7 @@ Refrigerate leftovers, covered, for up to 1 night.
 - 🛒 Red onion — ½ medium
 - 🛒 Red wine vinegar — 1 Tbsp, for macerating
 - 🛒 Asparagus — 1½ lbs (about 2 bunches)
-- 🛒 Rustic bread — for 4 cups Torn Croutons (see note), or store-bought croutons
+- 🛒 Rustic bread — for 4 cups torn croutons (see note), or store-bought croutons
 - 🛒 Mint — 24 large leaves
 - 🛒 Feta cheese — 3 oz
 - 🛒 Ingredients for a double batch of [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette) — shallot, red wine vinegar, extra-virgin olive oil, salt, pepper
@@ -20516,10 +20514,6 @@ Refrigerate leftovers, covered, for up to 1 night.
 | **Per serving** *(serves 4)* | ~545 | 47 g | 9 g | 25 g | 4 g |
 
 **What a serving is:** a generous 1½-cup salad plate. *(This dish is dressed heavily by design — a full double batch of vinaigrette goes in — so per-serving fat runs high; use a lighter hand with the vinaigrette if you'd rather not use the whole double batch.)*
-
-#### D. Open Questions
-
-- **Torn Croutons** — same undocumented source recipe flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) (book p. 236). The 2026-09-06 page-order audit confirmed that page appears at no index in the 50-page scan, so it is verified absent rather than merely unlocated. A simple torn-and-toasted bread stand-in is used above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -20537,7 +20531,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 - ½ medium red onion, sliced thinly
 - 1 tablespoon red wine vinegar
-- 4 cups Torn Croutons *(see the note at [§5.51](#551-spring-asparagus-and-feta-with-mint))*
+- 4 cups torn croutons *(see the note at [§5.51](#551-spring-asparagus-and-feta-with-mint))*
 - Double batch of [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette)
 - 1 pint cherry tomatoes, stemmed and halved
 - 1½ pounds Early Girl or other flavorful small tomatoes (about 8 tomatoes), cored and wedged into bite-size pieces
@@ -20567,7 +20561,7 @@ Refrigerate leftovers, covered, for up to one night.
 
 - 🛒 Red onion — ½ medium
 - 🛒 Red wine vinegar — 1 Tbsp, for macerating
-- 🛒 Rustic bread — for 4 cups Torn Croutons, or store-bought croutons
+- 🛒 Rustic bread — for 4 cups torn croutons (see the note at [§5.51](#551-spring-asparagus-and-feta-with-mint)), or store-bought croutons
 - 🛒 Ingredients for a double batch of [§4.137 Tomato Vinaigrette](#4137-tomato-vinaigrette) — shallots, red wine vinegar, balsamic vinegar, a ripe tomato, basil, extra-virgin olive oil, garlic, salt
 - 🛒 Cherry tomatoes — 1 pint
 - 🛒 Early Girl or other flavorful small tomatoes — 1½ lbs (about 8)
@@ -20583,10 +20577,6 @@ Refrigerate leftovers, covered, for up to one night.
 | **Per serving** *(serves 4)* | ~430 | 29 g | 3 g | 40 g | 5 g |
 
 **What a serving is:** a big 2-cup bread-salad bowl.
-
-#### D. Open Questions
-
-- **Torn Croutons** — same undocumented source recipe flagged at [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) and [§5.51](#551-spring-asparagus-and-feta-with-mint) (book p. 236, confirmed absent from the whole 50-page scan by the 2026-09-06 page-order audit). A simple torn-and-toasted bread stand-in is used above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40575,12 +40565,12 @@ Gently lift the meringues off the baking sheet and cool them **on a wire rack**.
 
 #### Variations, per the source
 
-- **Pavlovas.** Spoon the meringue onto the parchment in **3-by-2-inch ovals** instead of small bites, then use the back of a spoon to press a shallow well into the center of each. Bake as directed above, then let the pavlovas cool inside the turned-off oven with the door propped ajar (a wooden spoon works) — the gradual cooldown keeps a bigger shell from cracking the way pulling it straight into room-temperature air would. Fill with **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — **documented 2026-09-07**; any of its 19 flavor options works, and the source's own suggestion for meringues specifically is its **Chocolate Cream**)* and a fruit **compote** *(source p. 407 — still absent; see the note on compote below)*, or with lemon curd and fresh fruit.
-- **Persian Pavlovas.** Add ⅛ teaspoon ground cardamom and 1 tablespoon saffron tea *(the same saffron-tea method already documented at [§5.49 Persian-ish Rice](#549-persian-ish-rice)'s Saffron Rice variation)* to the egg whites before whipping. Continue as above, top with Rose Scented Berries *(a source name, still not documented — a gap, not invented)* and **Cardamom Cream** *(**documented 2026-09-07** — it's [§14.36 Scented Cream](#1436-scented-cream)'s **Spiced Cream** option, made with the cardamom of its three choices: ¼ teaspoon ground cardamom stirred into the cream before whipping)* and crumbled dried rose petals.
+- **Pavlovas.** Spoon the meringue onto the parchment in **3-by-2-inch ovals** instead of small bites, then use the back of a spoon to press a shallow well into the center of each. Bake as directed above, then let the pavlovas cool inside the turned-off oven with the door propped ajar (a wooden spoon works) — the gradual cooldown keeps a bigger shell from cracking the way pulling it straight into room-temperature air would. Fill with **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — **documented 2026-09-07**; any of its 19 flavor options works, and the source's own suggestion for meringues specifically is its **Chocolate Cream**)* and a fruit **compote** *(see the compote note below for how to make one)*, or with lemon curd and fresh fruit.
+- **Persian Pavlovas.** Add ⅛ teaspoon ground cardamom and 1 tablespoon saffron tea *(the same saffron-tea method already documented at [§5.49 Persian-ish Rice](#549-persian-ish-rice)'s Saffron Rice variation)* to the egg whites before whipping. Continue as above, top with **rose-scented berries** *(toss about 2 cups of mixed fresh berries with 1 to 2 tablespoons sugar and ½ teaspoon rosewater — start with less, rosewater goes soapy fast — and let them macerate 15 to 20 minutes at room temperature until glossy and lightly syrupy)* and **Cardamom Cream** *(**documented 2026-09-07** — it's [§14.36 Scented Cream](#1436-scented-cream)'s **Spiced Cream** option, made with the cardamom of its three choices: ¼ teaspoon ground cardamom stirred into the cream before whipping)* and crumbled dried rose petals.
 - **Meringue Fool.** Layer crushed meringues into glasses with fruit compote or lemon curd and **Vanilla Cream** *(**documented 2026-09-07** — it's [§14.36 Scented Cream](#1436-scented-cream)'s Vanilla option, the same one that fills [§14.21](#1421-loris-chocolate-midnight-cake) and [§14.23](#1423-fresh-ginger-and-molasses-cake))*.
 - **Chocolate-Caramel Meringue Fool.** Fold coarsely chopped bittersweet chocolate into the meringue just before baking (see "fold" explained above). Continue as directed, then layer the crushed, baked meringues into glasses with chocolate ice cream, this cookbook's own **[§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)**, and **Caramel Cream** *(**documented 2026-09-07** — [§14.36 Scented Cream](#1436-scented-cream)'s Caramel option: ¼ cup sugar and 3 tablespoons water cooked to dark amber, stopped with ½ cup heavy cream and a pinch of salt, chilled hard, then combined with ½ cup chilled cream and whipped)*.
 
-> **Compote, briefly explained** (per Cody's standing request to gloss intermediate terms): a **compote** is fruit cooked down with sugar (and often a little liquid or spice) until soft and syrupy, but left in recognizable pieces rather than puréed smooth — more like a chunky, spoonable jam than a sauce. That's different from a **coulis**, which this cookbook already uses elsewhere (**[§4.83 Coulis de Tomates](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)**, **[§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis)**) — a coulis is puréed and typically strained smooth, with no fruit pieces left at all. This source's own fruit "Compote" (page 407 — confirmed absent from the 50-page scan by the 2026-09-06 audit) isn't invented here; a quick stand-in is simmering chopped fresh or frozen fruit with a few tablespoons of sugar and a squeeze of lemon juice until just softened and syrupy.
+> **Compote, briefly explained** (per Cody's standing request to gloss intermediate terms): a **compote** is fruit cooked down with sugar (and often a little liquid or spice) until soft and syrupy, but left in recognizable pieces rather than puréed smooth — more like a chunky, spoonable jam than a sauce. That's different from a **coulis**, which this cookbook already uses elsewhere (**[§4.83 Coulis de Tomates](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)**, **[§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis)**) — a coulis is puréed and typically strained smooth, with no fruit pieces left at all. **To make one:** simmer about 3 cups chopped fresh or frozen fruit with 3 to 4 tablespoons sugar and a squeeze of lemon juice over medium-low heat, stirring now and then, for 8 to 12 minutes — until the fruit has slumped and released its juice and the liquid has thickened enough to coat a spoon, but the pieces are still recognizable. Pull it off the heat while it still looks a little loose; it tightens considerably as it cools.
 
 #### C. Grocery Shopping List
 
@@ -40600,12 +40590,12 @@ Gently lift the meringues off the baking sheet and cool them **on a wire rack**.
 | **Whole batch** *(about 30 meringues)* | ~1,290 | <1 g | 18 g | 312 g | 0 g |
 | **Per serving** *(1 meringue, of 30)* | ~43 | 0 g | 0.6 g | 10 g | 0 g |
 
-**What a serving is:** one golf ball–size meringue — a light bite-size sweet, essentially pure air, sugar, and egg white. *(Recalculated 2026-09-06 for the corrected 1½-cup sugar quantity; the earlier figures were based on the wrong ⅓ cup.)* The Pavlova and Meringue Fool variations are considerably richer once filled with cream and fruit; no separate table is given for them since the fillings vary; **[§14.36 Scented Cream](#1436-scented-cream) now carries its own figures** (~105 kcal per ¼-cup dollop, with the Chocolate and Caramel options costed separately), and only the compote remains undocumented — see Open Questions.
+**What a serving is:** one golf ball–size meringue — a light bite-size sweet, essentially pure air, sugar, and egg white. *(Recalculated 2026-09-06 for the corrected 1½-cup sugar quantity; the earlier figures were based on the wrong ⅓ cup.)* The Pavlova and Meringue Fool variations are considerably richer once filled with cream and fruit; no separate table is given for them since the fillings vary; **[§14.36 Scented Cream](#1436-scented-cream) now carries its own figures** (~105 kcal per ¼-cup dollop, with the Chocolate and Caramel options costed separately).
 
 #### D. Open Questions
 
 - ✅ **The cream gaps are CLOSED — 2026-09-07.** Cody photographed book pp. 422–425, and **Scented Cream, Cardamom Cream, Vanilla Cream, and Caramel Cream all turned out to be the same recipe**: they are four of the 19 flavor options inside **[§14.36 Scented Cream](#1436-scented-cream)**, not four separate recipes. Every reference in this entry's four variations now points there. The gap this entry carried at [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) is closed at the same time.
-- **Still open: Rose Scented Berries and the source's own fruit Compote (p. 407)**, both named in the variations above and both confirmed absent from the scan by the 2026-09-06 page-order audit. **Cody has said he isn't pursuing either**, so neither is tracked in [§12](#12-recipes-to-document); the quick stand-in for the compote is in the note above.
+- ✅ **The berry and compote toppings are written out in full above — 2026-09-07.** The Persian Pavlova's rose-scented berries and the fruit compote both now carry their own working method in the variation text and the compote note, so every variation in this entry is cookable end to end.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40656,9 +40646,9 @@ Roll, crimp, and freeze a 9-inch pie shell exactly as directed above. This time,
 
 > **Blind baking, explained.** "Blind" baking means baking a crust empty — with no filling in it yet — so it holds its shape and fully cooks through before anything goes inside. Pie weights (or dried beans, or raw rice, used the same way) sit on top of a sheet of parchment pressed into the shell, weighing the dough down so it can't puff up or slump down the sides of the pan while it bakes on its own. This particular pie needs it because its filling is a stovetop pudding that's cooked separately and poured in already-thickened — unlike the plain pumpkin filling above, it gets no more oven time to finish the crust once it's added, so the crust has to be fully baked before that happens.
 
-Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and brush it all over the inside of the crust, and let it harden — this thin chocolate layer acts as a moisture barrier, keeping the crust from turning soggy once the pudding sits on top of it overnight. Make one recipe of Bittersweet Chocolate Pudding, **increasing its cornstarch to ⅓ cup (1½ ounces)** as the source's own variation directs, and press plastic wrap directly onto the pudding's surface right after cooking to keep a skin from forming. Cool the pudding to room temperature, spoon it into the prepared crust, cover, and chill overnight before serving with billowy **Vanilla, Chocolate, Coffee, or Caramel Cream** — *all four are [§14.36 Scented Cream](#1436-scented-cream) options, documented 2026-09-07; the source names this Chocolate Pudding Pie as a pairing for its dairy-free **Coconut Cream** too.*
+Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and brush it all over the inside of the crust, and let it harden — this thin chocolate layer acts as a moisture barrier, keeping the crust from turning soggy once the pudding sits on top of it overnight. Make one batch of bittersweet chocolate pudding — the method is in the note below, built around **⅓ cup (1½ ounces) cornstarch**, the firmer set the source's own variation calls for so the pudding slices cleanly instead of slumping — and press plastic wrap directly onto the pudding's surface right after cooking to keep a skin from forming. Cool the pudding to room temperature, spoon it into the prepared crust, cover, and chill overnight before serving with billowy **Vanilla, Chocolate, Coffee, or Caramel Cream** — *all four are [§14.36 Scented Cream](#1436-scented-cream) options, documented 2026-09-07; the source names this Chocolate Pudding Pie as a pairing for its dairy-free **Coconut Cream** too.*
 
-> **Bittersweet Chocolate Pudding (source p. 416) is still a gap — but the creams above are not, as of 2026-09-07.** The 2026-09-06 page-order audit confirmed that page appears at no index in the 50-page scan, so this variation's filling isn't fully buildable from this cookbook alone — named here rather than invented, though the source's own cornstarch adjustment for it (⅓ cup / 1½ ounces) is now recorded above. A standard stovetop bittersweet chocolate pudding (cornstarch, milk, cream, melted chocolate, sugar, cooked until thickened) is a reasonable stand-in if this variation gets made before that source page turns up.
+> **Bittersweet chocolate pudding, for the pie filling.** Whisk **⅔ cup sugar, ⅓ cup (1½ ounces) cornstarch, 3 tablespoons unsweetened cocoa powder, and ½ teaspoon kosher salt** together in a saucepan **while it's still dry** — cornstarch clumps the instant it meets liquid, and a lump that forms now never whisks out later. Gradually pour in **2½ cups whole milk and ½ cup heavy cream**, whisking constantly to keep it smooth. Set it over medium heat and **whisk without stopping for 6 to 10 minutes** — not occasionally; cornstarch settles and scorches on the bottom of the pan the moment you walk away. The mixture will thin slightly, then thicken all at once and come to a lazy boil with big slow bubbles breaking the surface. **Let it bubble a full minute** once it does, still whisking: cornstarch doesn't reach its full thickening power until it actually boils, and a pudding pulled early will never set. Off the heat, whisk in **6 ounces chopped bittersweet chocolate, 2 tablespoons butter, and 1 teaspoon vanilla** until glossy and completely smooth. For the silkiest result, push it through a fine-mesh sieve. **Don't let it boil hard or cook past that minute** — overcooked cornstarch breaks down and the pudding turns thin and weepy in the fridge, which is exactly the failure that ruins the pie.
 
 #### C. Grocery Shopping List
 
@@ -40676,7 +40666,7 @@ Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and b
 
 #### Nutrition *(estimated)*
 
-*Figures below are for the plain pumpkin pie; the Chocolate Pudding Pie variation's undocumented pudding filling isn't included.*
+*Figures below are for the plain pumpkin pie; the Chocolate Pudding Pie variation's filling isn't included.*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
@@ -40689,7 +40679,7 @@ Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and b
 
 - ~~**The crust is the source's own "All-Butter Pie Dough" (book p. 386), an established gap** — verified absent from the whole 50-page scan by the 2026-09-06 page-order audit.~~ **Settled 2026-09-06 — book p. 386 was photographed and the crust is now written up at [§14.35 All-Butter Pie Dough](#1435-all-butter-pie-dough).** [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) and [§14.19](#1419-vodka-pie-crust) remain fine alternatives, but they are no longer stand-ins for something missing.
 - ~~**Tangy Whipped, Vanilla, Cinnamon, and Caramel Cream (source pp. 423–425) are all named but appear at no index in the scan.**~~ **Settled 2026-09-07 — book pp. 422–425 were photographed, and all four are flavor options inside [§14.36 Scented Cream](#1436-scented-cream)**, not separate recipes. The same closure resolves [§14.21](#1421-loris-chocolate-midnight-cake)/[§14.23](#1423-fresh-ginger-and-molasses-cake)'s Vanilla Cream and [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues)'s Scented/Cardamom/Caramel Cream.
-- **Bittersweet Chocolate Pudding (source p. 416), the Chocolate Pudding Pie variation's filling, is still not documented** — verified absent from the scan, and **Cody has said he isn't pursuing it**, so it is named here rather than tracked in [§12](#12-recipes-to-document). The stand-in note above stands.
+- ✅ **The Chocolate Pudding Pie variation is cookable as written — 2026-09-07.** Its filling now carries a full stovetop bittersweet-chocolate-pudding method in the note above, built around the source's own ⅓ cup cornstarch adjustment, so the variation no longer depends on a recipe outside this cookbook.
 
 [↑ Table of Contents](#table-of-contents)
 

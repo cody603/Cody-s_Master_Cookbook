@@ -7971,6 +7971,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **📌 Cody's Note on salt:** printed as **2 Tbsp kosher salt**, increased here to **3 Tbsp** — same 1.5× bump and reasoning as [§4.102](#4102-chicken-or-turkey-brine-injection)/[§4.103](#4103-pork-brine-injection).
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 162 (second-pass QC) — correct as written.** All four ingredients (the printed 2 Tbsp salt kept at Cody's 3 Tbsp — see above): 1 Tbsp sugar, 2 tsp Worcestershire, 4 cups water or low-sodium beef stock or a mix. Like [§4.103](#4103-pork-brine-injection), the page prints only the ingredient list; the MAKES/TAKES and method are shared with [§4.102](#4102-chicken-or-turkey-brine-injection). The safety note below is [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)'s, not this page's, and is labeled that way. No change.
+
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~15 min**
 
 #### A. Ingredients
@@ -12323,7 +12325,15 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
-**Why it exists:** turkey breast is the leanest part of the bird and the part most likely to come out dry. Injecting neutral oil puts fat where the bird has almost none. **The source injects the breasts only** — the dark meat is moister and more forgiving than white meat — though you can give the thighs a shot or two if you want.
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 162–163 (second-pass QC).** The single ingredient (4 Tbsp neutral oil, corn or canola), the narrow-container fill, the inject-every-inch-or-so instruction, the leftover-oil-to-the-gravy rule, and the printed MAKES enough for one 12-pound turkey / TAKES 20 minutes all match. What the first pass condensed away is the page's own practical notes, now added below: the oil **can't be mixed into a brine** (it floats), olive oil is too strong-flavored, melted butter hardens on cold meat, and injecting the day before or at the last minute makes no difference.
+
+**Why it exists:** turkey breast is the leanest part of the bird and the part most likely to come out dry. Most grocery-store turkey has already been injected with a salt solution at the factory (the label will say so), but the breasts are so lean that added fat still really helps — and even after you've injected a brine yourself, you can go back and inject a small amount of oil. **The source injects the breasts only** — the dark meat is moister and more forgiving than white meat — though you can give the thighs a shot or two if you want.
+
+**Printed notes on the oil and the timing:**
+
+- **You can't mix the oil into the brine** — it just floats to the top. Inject the two separately.
+- **Canola or another neutral-flavored oil like corn oil is the choice.** Olive oil can be strong-flavored, and **melted butter hardens** the moment it touches the cold meat, so it's not a good choice either.
+- **Shoot up the turkey the day before or at the last minute before cooking — it won't make a big difference.**
 
 **🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min** *(as printed; enough for one 12-pound turkey)*
 

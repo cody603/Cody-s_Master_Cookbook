@@ -505,6 +505,8 @@ Click any recipe to jump straight to it.
 - [8.40 Chicken Stock](#840-chicken-stock) ✅ *(Salt, Fat, Acid, Heat; includes a Beef Stock variation — ⚠️ its last sentence runs onto book p. 272, which is not in the scan)*
 - [8.41 Crawfish Bisque I](#841-crawfish-bisque-i) ✅ *(Talk About Good!; Mrs. F. H. Davis, Sr. — hen-broth bisque with fried stuffed heads; added 2026-09-07)*
 - [8.42 Creole Courtbouillon](#842-creole-courtbouillon) ✅ *(Talk About Good!; Mrs. Richard D. Chappuis, Sr. — whole redfish, wine and lemon; added 2026-09-07)*
+- [8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) ✅ *(Talk About Good!; Mrs. J. Mark Hebert — baked stuffed heads, tomato-paste roux base; cites the book's p. 59 roux, which is [§T1-D](#t1-how-to-make-a-roux); added 2026-09-07)*
+- [8.44 Courtbouillon](#844-courtbouillon) ✅ *(Talk About Good!; Mrs. F. H. Davis, Sr. — full brown roux, 4 lb cut fish, no wine; added 2026-09-07)*
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -1381,11 +1383,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) | 🟢 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§7.141 Championship Chicken](#7141-championship-chicken) *(The Meathead Method)* | 🟡 | 20 min | 2 hr | — | ~5 hr 20 min *(includes 3 hr uncovered in the fridge)* |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
+| [§8.44 Courtbouillon](#844-courtbouillon) | 🔴 | 20 min | 2 hr *(1 hr of it an unattended simmer)* | — | 2 hr 20 min |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 2 hr 10 min *(mostly unattended reduction)* | — | 2 hr 30 min |
 | [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
 | [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) | 🟡 | 30 min | 2 hr 45 min | **24 hr** *(sous vide, unattended)* | ~27 hr |
 | [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i) | 🔴 | 2 hr | 1 hr 15 min | **~2 hr** *(hen broth, unattended)* | 5 hr 15 min |
+| [§8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) | 🔴 | 1 hr 30 min | 2 hr *(estimated — the page prints no times)* | — | 3 hr 30 min |
 | [§7.114 Prime Rib](#7114-prime-rib) *(Meathead)* | 🟡 | 1 hr | 2–3 hr | — | 1–2 days *(includes a 24–48 hr dry brine)* |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🔴 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
@@ -37095,6 +37099,218 @@ Both go in at the end so the wine stays bright and the lemon slices flavor the g
 **What a serving is:** a soup bowl — about 1½ cups of fish and gravy ladled over rice (rice not counted). *Figured on about 2¼ lb of edible meat from a 4½ lb whole redfish, with the head and bones left in the pot.*
 
 ✅ 2026-09-07 transcribed and verified against photo of p. 65 *(page number out of frame; the page precedes p. 66)*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.43 Crawfish Bisque II
+
+Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, Fish, Seafood Sauces* tab, p. 66, credited to **Mrs. J. Mark Hebert.** The page closes with the contributor's own verdict: *fit for a king.*
+
+**The second of the book's two crawfish bisques, and the more manageable one.** Where [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i) is a 30-lb, hen-broth party recipe with *fried* stuffed heads, this one is a family-pot version — 30 to 40 heads, a quart of tails in the soup, 2 quarts of water — with **baked** stuffed heads bound with evaporated-milk-soaked bread, and tomato paste in the roux base. Also distinct from [§8.19 Crawfish Bisque (Bisque d'Écrevisses)](#819-crawfish-bisque-bisque-décrevisses), the Prudhomme restaurant version. The page's own headings are kept below: **Heads (Stuffed)** first, then **Bisque**.
+
+> **What "bisque" and "stuffed heads" mean here** *(cookbook gloss)*: see the explanation at [§8.41](#841-crawfish-bisque-i) — a Cajun bisque is a brown, roux-thickened crawfish stew over rice, not a cream soup, and the "heads" are the cleaned crawfish body shells packed with a ground-tail dressing. This page notes the cleaned heads can be bought at a seafood market.
+
+> **Make-ahead, per the page:** the stuffed heads can be made well in advance, frozen, and baked straight from the freezer on the day you make the bisque — **no need to thaw first.**
+
+> **"See roux recipe on page 59"** — the page sends you to the book's own roux page, which is already transcribed in this cookbook as **[§T1-D](#t1-how-to-make-a-roux)** (Mrs. Ronald Andrus's oil roux: heavy pot, flour and oil mixed cold, medium-low, constant stirring, stopped with *hot* water). That's the roux this recipe assumes; it isn't reprinted here.
+
+**Yield:** not stated on the page; 2 quarts of water plus a quart of tails and 30–40 heads runs about 10 gumbo bowls.
+
+**🔴 Hard** *(a brown roux, 1 cup of oil to ¾ cup of flour, made by you per p. 59)* · **Prep ~1 hr 30 min** *(estimated — grinding 2 quarts of tails, chopping, filling and flouring 30–40 heads)* · **Cook ~2 hr** *(estimated — the page prints no times at all: the stuffing simmer, baking the heads, the roux, then simmering to a thick soup)* · **Start to finish ~3 hr 30 min** *(less if the heads were stuffed and frozen ahead)*
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) — specifically §T1-D, the source's own p. 59 method.
+
+#### A. Ingredients
+
+**Heads (Stuffed):**
+
+- 2 qt crawfish tails
+- 2 large onions, chopped
+- ¼ bell pepper, chopped
+- ½ cup cooking oil
+- ½ stick butter
+- 30–40 cleaned crawfish heads *(may be purchased at a seafood market)*
+- ½ cup crawfish fat
+- 6 slices toasted bread, crusts cut off
+- ½ cup evaporated milk
+- Seasoning *(salt and pepper — the instructions say "season highly")*, parsley, 2 pods chopped garlic, onion tops *(no quantities printed for the parsley and onion tops)*
+- Flour, for rolling the heads *(no quantity printed)*
+
+**Bisque:**
+
+- ¾ cup flour
+- 1 cup oil
+- 2 cloves garlic, chopped
+- 1 large onion, chopped
+- ½ bell pepper, chopped
+- 2 stalks celery, chopped
+- ¼ cup tomato paste
+- 1 qt whole crawfish tails
+- 2 qt water
+- Seasonings *(salt and pepper, unquantified — "season this dish highly")*
+- Onion tops and parsley *(no quantities printed)*
+
+**To serve:** cooked rice, in gumbo bowls
+
+#### B. Cooking Instructions
+
+**1. Grind the 2 quarts of tails. Add the onions, bell pepper, oil, butter, and crawfish fat; simmer in a large Dutch oven until the vegetables are cooked.**
+Everything for the stuffing except the bread goes into the Dutch oven together and simmers until the onion and pepper are soft. The page gives no time; figure 15–20 minutes at a low simmer *(cookbook estimate)*.
+
+**2. Add the bread, mashed with the evaporated milk.**
+Soak the crustless toast in the ½ cup of evaporated milk and mash it to a paste, then stir it into the crawfish mixture — it binds the stuffing so it stays in the heads.
+
+**3. Season highly with salt, pepper, onion tops, parsley, and garlic.**
+"Highly" is the page's word. The stuffing should taste a little over-seasoned on its own, because it's going into an unseasoned shell.
+
+**4. Stuff the cleaned heads. Roll in flour and bake in a flat pan, floured side up.**
+Pack each cleaned head, roll it in flour, and set it floured side up in a shallow pan. No oven temperature or time is printed — a moderate oven until the flour coating is set and lightly browned *(cookbook gloss)*. Baked heads may be frozen at this point and baked again on bisque day, straight from the freezer.
+
+**5. Make a roux with the 1 cup of oil and ¾ cup of flour (see [§T1-D](#t1-how-to-make-a-roux)). Brown it.**
+This is the step that makes the recipe 🔴. Heavy pot, constant stirring, medium-low, until brown — and stop it with hot water or the vegetables, never cold water.
+
+**6. When the roux is brown, add the vegetables and the tomato paste.**
+The garlic, onion, bell pepper, and celery go in with the ¼ cup of tomato paste, which also brings the roux's temperature down and stops the browning.
+
+**7. Add the quart of tails and the 2 quarts of water. Cook until the tails are done.**
+Whole tails, in with the water, and simmer.
+
+**8. When the tails are cooked, add the baked heads carefully. Simmer, and add the seasonings.**
+Slide the heads in gently so the stuffing stays put. Simmer until the bisque is the **consistency of a thick soup** — that's the page's doneness cue.
+
+**9. Add the onion tops and parsley and serve in gumbo bowls over rice.**
+Season this dish highly, per the page.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Onions — 3 large
+- 🛒 Bell pepper — 1 (¼ for the stuffing, ½ for the bisque)
+- 🛒 Celery — 2 stalks
+- 🛒 Garlic — 2 pods for the stuffing + 2 cloves for the bisque
+- 🛒 Cooking oil — 1½ cups
+- 🛒 Butter — ½ stick
+- 🛒 Bread — 6 slices
+- 🛒 Evaporated milk — ½ cup (one small can)
+- 🛒 All-purpose flour — ¾ cup plus flour for rolling the heads
+- 🛒 Tomato paste — ¼ cup
+- 🛒 Green onions and fresh parsley
+- 🛒 Salt and black pepper
+- 🛒 Rice, for serving
+
+**🏪 Specific store — seafood market or Cajun grocer**
+
+- 🏪 Crawfish tails — 2 qt for the stuffing + 1 qt whole tails for the bisque
+- 🏪 Crawfish fat — ½ cup
+- 🏪 Cleaned crawfish heads — 30 to 40
+
+#### Nutrition *(estimated — the rolling flour, parsley, onion tops, and the crawfish fat's makeup are assumed)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~6,900 | 450 g | 390 g | 290 g | 23 g |
+| **Per serving** *(serves ~10, estimated)* | ~690 | 45 g | 39 g | 29 g | 2 g |
+
+**What a serving is:** a gumbo bowl — about 1½ cups of bisque with three or four stuffed heads, over rice (rice not counted). *Figured on a quart of peeled tails weighing about 1½ lb, ½ cup of rolling flour, and the crawfish fat at roughly half fat by weight.*
+
+#### Open Questions
+
+- **No times are printed anywhere on this page** — not for the stuffing simmer, the baking, the roux, or the bisque. Every time above is an estimate.
+- **No oven temperature** for baking the heads.
+- **Parsley, onion tops, and seasoning** are unquantified in both halves.
+
+✅ 2026-09-07 transcribed and verified against photo of p. 66
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.44 Courtbouillon
+
+Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, Fish, Seafood Sauces* tab, p. 66, credited to **Mrs. F. H. Davis, Sr.** — the same contributor as [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i).
+
+**The plainest of the book's three courtbouillons, and the one with the most roux.** A full brown roux (a cup of oil, a cup of flour), tomatoes and tomato paste, an hour's simmer, then 4 lb of cut firm fish for a careful 15 minutes. No wine, no lemon, no shellfish. **Compare:** [§8.42 Creole Courtbouillon](#842-creole-courtbouillon) (a whole redfish, a light roux, wine and lemon) and [§8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) (no roux, a 3–4 hour simmer, shrimp and crab added).
+
+> **What a courtbouillon is here** *(cookbook gloss)*: see [§8.42](#842-creole-courtbouillon) — in Louisiana it's a thick, red, roux-and-tomato fish stew eaten over rice, not the thin French poaching liquid of the same name.
+
+> **The fish, per the page:** *cat, goo, large sac-a-lait, red fish* in the ingredient list; *catfish, red fish, or goo* in the instructions — any firm fish. *(Cookbook gloss: "goo" is the Louisiana name for freshwater drum; "sac-a-lait" is crappie. Redfish is red drum.)*
+
+**Yield:** not stated on the page; 2½ quarts of water and 4 lb of fish runs about 10 soup plates.
+
+**🔴 Hard** *(a full brown roux, made by you)* · **Prep ~20 min** *(chopping 3 large onions, celery, and garlic; cutting the fish)* · **Cook ~2 hr** *(the roux, a soften, 5 minutes with the tomatoes, the printed 1-hour simmer, the fish's 15 minutes, and the herbs' 5)* · **Start to finish ~2 hr 20 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+#### A. Ingredients
+
+- 1 cup cooking oil
+- 1 cup flour
+- 1 large can tomatoes
+- 2 small cans tomato paste
+- 3 large onions, chopped
+- 1 cup chopped celery
+- Salt and pepper to taste
+- 2½ qt water
+- 2 Tbsp chopped onion tops
+- 2 Tbsp parsley, chopped
+- 4 lb fish (cat, goo, large sac-a-lait, red fish), cut in pieces
+- 3 cloves chopped garlic
+- Cooked rice, for serving *(implied by the instructions; not on the printed list)*
+
+#### B. Cooking Instructions
+
+**1. Make a brown roux of the oil and flour.**
+Equal parts, a cup each — see [§T1](#t1-how-to-make-a-roux). Constant stirring over moderate heat until it's a good brown; this is the step that can go wrong, and the reason for the 🔴. Have hot water at hand, never cold.
+
+**2. Add the onions, celery, and garlic. Let cook until soft.**
+Straight into the roux; the vegetables stop the browning and soften in about 10 minutes.
+
+**3. Add the tomatoes and tomato paste. Cook slowly, stirring, 5 minutes.**
+Stir so the paste doesn't catch on the bottom.
+
+**4. Add the water and simmer 1 hour.**
+All 2½ quarts. A gentle simmer, mostly unattended — stir now and then.
+
+**5. Add the 4 lb of firm fish, cut in pieces. Cook about 15 minutes — be careful not to overcook.**
+The page's own warning: *be careful not to cook too much.* Fifteen minutes at a simmer is enough for pieces of catfish, redfish, or goo; past that the fish falls apart into the gravy.
+
+**6. Season to taste. Add the parsley and onion tops about 5 minutes before serving.**
+
+**7. Serve over rice in soup plates.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cooking oil — 1 cup
+- 🛒 All-purpose flour — 1 cup
+- 🛒 Canned tomatoes — 1 large can (28 oz)
+- 🛒 Tomato paste — 2 small cans (6 oz each)
+- 🛒 Onions — 3 large
+- 🛒 Celery — 1 cup chopped
+- 🛒 Garlic — 3 cloves
+- 🛒 Green onions — 2 Tbsp chopped tops
+- 🛒 Fresh parsley — 2 Tbsp chopped
+- 🛒 Salt and black pepper
+- 🛒 Rice, for serving
+
+**🏪 Specific store — seafood market**
+
+- 🏪 Firm fish — 4 lb, cut in pieces (catfish, freshwater drum/"goo," large crappie/"sac-a-lait," or redfish)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~5,000 | 295 g | 350 g | 265 g | 35 g |
+| **Per serving** *(serves ~10, estimated)* | ~500 | 30 g | 35 g | 27 g | 4 g |
+
+**What a serving is:** a soup plate — about 1½ cups of fish and red gravy over rice (rice not counted). *The cup of oil in the roux is the fat driver; figured on 4 lb of boneless catfish-type pieces.*
+
+✅ 2026-09-07 transcribed and verified against photo of p. 66
 
 [↑ Table of Contents](#table-of-contents)
 

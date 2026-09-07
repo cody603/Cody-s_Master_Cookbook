@@ -442,7 +442,7 @@ Click any recipe to jump straight to it.
 - [7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) ✅ *(Salt, Fat, Acid, Heat)*
 - [7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) ✅ *(Salt, Fat, Acid, Heat; "A Lesson in Layering Acid"; ⚠️ **method corrected 2026-09-06** — the Manila clams stay in the shell, only the littlenecks are shucked — see entry)*
 - [7.130 Beef Back Ribs](#7130-beef-back-ribs) ✅ *(The Meathead Method)*
-- [7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) ✅ *(The Meathead Method; sear, sous vide, smoke, sear)*
+- [7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) ✅ *(The Meathead Method; salt, sous vide, smoke, sear)*
 - [7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) ✅ *(The Meathead Method; bacon-wrapped, kōji-marinated)*
 - [7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) ✅ *(The Meathead Method; Clint Cantwell)*
 - [7.134 Afterburner Fajitas](#7134-afterburner-fajitas) ✅ *(The Meathead Method; the afterburner method)*
@@ -625,6 +625,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-07 | **Independent second-pass QC of the fifteen *The Meathead Method* main dishes — [§7.130 Beef Back Ribs](#7130-beef-back-ribs) through [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) — against the 55-page PDF at native resolution.** Five entries verified exact ([§7.139](#7139-extra-crispy-chicken-wings-without-frying), [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), [§7.143](#7143-scallops-with-black-garlic-butter-sauce), [§7.144](#7144-mussels-with-smoked-fettuccine), and [§7.131](#7131-smoked-sous-vide-steak)'s ingredients). **Measurement errors fixed:** [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) was missing 3 chipotles in adobo and ½ tsp cumin, had salt "to taste" (page: 1 tsp), ¼ tsp pepper (page: ½), all the lime juice (page: 3 Tbsp), and ⅓ cup reserved sauce (page: ¼); [§7.138 Real Fried Chicken](#7138-real-fried-chicken-on-a-gas-grill-its-safe) had 1 Tbsp salt in the vinegar-brine substitute (page: 3 Tbsp), a 2½–4 lb bird (page: 3½–4), and 2½ inches of oil (page: 1½); [§7.137 Pork Butt](#7137-tuffy-stones-championship-pork-butt) had 2 cups sauce (page: 3); [§7.141 Championship Chicken](#7141-championship-chicken) had ⅓ cup apple juice (page: ½); [§7.132 Kōji Filet](#7132-kōji-filet-mignon) carried an unprinted "salt to finish" (page: don't salt). **Method errors fixed:** [§7.135 Brisket](#7135-championship-brisket-and-burnt-ends) rewritten — the page starts at ~400°F for 30 min then 275°F (not 225°F throughout), wraps point and flat separately with ¾ and ½ cup mop, pulls the flat at 203–206°F and the point at 210°F, and sets burnt ends 10 min; [§7.136 Ribs](#7136-championship-pork-ribs) rewritten to the page's foil-packet build, 15-min bark-firming step, doneness tests, and turn-in steps; [§7.137](#7137-tuffy-stones-championship-pork-butt) pull temp is 195°F (not 200–205), sauce sets 10 min (not 20–30), and the money muscle is exposed, not capped; [§7.130](#7130-beef-back-ribs) dry brine 2 hr (not 3), target 190–203°F (not 210), Cadillac cut corrected; [§7.133](#7133-clints-chuck-roast-sandwiches) restored the wrap-at-150°F step and 180–190°F pull; [§7.140 Tandoori](#7140-tandoori-chicken) restored skin removal/cracklins and ¾-inch gashes, cooker temps per setup corrected; [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) restored the second dunk and post-fry salt. **Invented content struck:** fajitas' "International Falls" origin story, "score slits," side-burner vegetables, and "tenth rib/Denver steak" claims; brisket credits (now Clint Cantwell and Travis Clark); beef back ribs' "loose and ragged" cue. **MAKES/TAKES lines added to all fifteen.** Not verifiable: fajitas Steps 6–8 (book p. 230 not in the uploads). The Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile (p. 200) sauce pages [§7.139](#7139-extra-crispy-chicken-wings-without-frying) references are not in the PDF. Index rows and TOC updated. |
 | 2026-09-07 | **Independent second-pass QC of fifteen *The Meathead Method* entries — the remaining rubs, sauces, and desserts — against the 55-page PDF scan at native resolution:** [§4.165](#4165-red-meat-rub)–[§4.174](#4174-poblano-basil-cream-sauce), [§14.30](#1430-drunken-peaches-and-cream)–[§14.33](#1433-baked-apples), and [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies), read line by line against book pp. 166–167, 184, 188, 194–195, 249–251, 372–374, and 377–382. **Real errors fixed in two desserts:** **[§14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream)** — liquor corrected from ¼ cup to the printed **⅓ cup**, dark brown sugar from 2 Tbsp to the printed **3 Tbsp**, molasses restored to the maple-syrup note, and **Step 4 rewritten to the page** (skin side down about 5 minutes, flip, cook until marked, straight to bowls — the old version had them cut side down with an invented rest); **[§14.31 Torched Figs](#1431-torched-figs)** — **2 figs, 2 tsp sugar, and 2 Tbsp ice cream** as printed (were 3 / 3 tsp / "3 tsp"), **½ tsp sugar per fig half** (was ¼), Balsamic Syrup reference corrected to p. 198, and the "ice cream printed in teaspoons" Open Question withdrawn as a misread. Grocery lists and Nutrition recalculated for both. **Qualifier fixes:** [§4.167 Smoked Butter](#4167-smoked-butter) no longer says "unsalted" (the page says "a stick of butter"; entry now cites p. 188), and [§4.171 Cool Smoke Injection](#4171-cool-smoke-injection) no longer says "low-sodium" chicken stock. **Everything else verified exact** — all rub and sauce quantities, **no salt figure altered anywhere**, all steps, temperatures, and times — with printed MAKES/TAKES lines added to twelve entries that lacked them, unprinted asides marked as cookbook gloss, dropped headnote lines restored ([§4.165](#4165-red-meat-rub), [§14.33](#1433-baked-apples)), and a ✅ 2026-09-07 QC note under every entry. No badge or Difficulty & Time Index row changed. [§13](#13-meathead-cookbook) updated. |
 | 2026-09-07 | **Independent second-pass re-verification of the eight condensed technique entries from the 21-page *Meathead: The Science of Great Barbecue and Grilling* "Brines, Rubs, and Sauces" scan — [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers) through [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) — every temperature, time, percentage, and claim read again against book pp. 58, 60–63, 66–67, 140–142, 164–165, 173, 176, and 178 themselves (the embedded photos pulled at native resolution and cropped a column at a time, pages located by printed footer since the file order is not the book order), without leaning on the 2026-09-06 page-order audit's notes.** As in every chapter checked so far, the technique condensations carried unprinted figures, invented explanations, and reversed advice. Ranked by how much it changes what a cook does: **(1) [§T52 Water Pans and Drip Pans](#t52-water-pans-and-drip-pans) had the pan in the wrong place** — the page defines a water pan as going *over the heat source* and a drip pan *under the food*, not "on the indirect side, under or beside the meat"; its two-job summary (ballast against wind and lid-opening; humidity that "has a smaller effect than commonly claimed") was unprinted and is replaced by the page's seven listed functions; hot-water-only, fill-to-below-the-lip, above-the-hottest-spot, and the Weber Smokey Mountain note added. **(2) [§T49 Lookin' Ain't Cookin'](#t49-lookin-aint-cookin--and-other-lid-myths) had a figure wrong and a theory invented** — the charcoal kettle opened 1 minute recovered in *about 2 minutes*, not 10; the closing paragraph's "what actually hurts is the lid discipline on an indirect cook" contradicted the experiment above it and is replaced by p. 60's actual *Flip your meat as little as possible* myth box (McGee's flip-every-minute rule). **(3) [§T51 Cooking More Than One Large Piece](#t51-cooking-more-than-one-large-piece-of-meat-at-once) was built on a page that isn't in the scan** — only its opening paragraph (three 8-lb butts at 225°F; the air-temperature drop is barely noticeable in a large smoker, 10°F or more in a small one) is on p. 63, and the section continues on an unphotographed p. 64; a "full smoker recovers more slowly after the lid opens" bullet that contradicts §T49 is struck, the other two bullets are labeled cookbook gloss, and the thickness rule is credited to [§T42](#t42-what-controls-cooking-time). **(4) [§T47 Cooking Vegetables and Fruits](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) had an entire fabricated paragraph** — peach halves, pineapple rings, bananas, "a couple of minutes," an under-a-minute burn window — where p. 67 says only that fruits and seeds taste better grilled; a couple-of-minutes-a-side finish, a burns-before-the-center-softens rationale, and a crowd-the-pan line were also unprinted; the composition claim is restated in the page's terms and the quick-cooking list is the page's. **(5) [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat)'s ooze sidebar had been rewritten from memory** — the egg-white analogy and "nothing worse than a bit overcooked" are unprinted; the p. 58 remedies (brine the salmon, wipe it off, paint with an acidic wash), Dr. Antonio Mata's burger explanation, and "perfectly safe to eat" are restored; oil on skin *sometimes* helps; the smoke-sticks-to-wet-surfaces line added; the thin-mop paragraph credited to p. 178 and its invented mechanism struck. **(6) [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)** said a homemade sauce keeps "for weeks" — p. 176 says *months*, and its point is preservatives versus none, not room-temperature shelf life; an unprinted "thick coat scorches before it sets" struck; the skip-the-sauce option, the broiler's back-side-first, the offset-firebox grate, the gas grill, the ~$30 butane torch, canning jars, and the dried-herbs note added; every figure (320°F, 30 minutes, 5 minutes a side, 5–10 minutes broiling, two coats max) confirmed. **(7) [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)** — the analogy is *gas pedal, brake, and clutch*; the rice tip is dry the rice first, not "a few grains"; pepper is ground fresh *always*, the sifting trick is for hot grilling, and "coarse" was unprinted; the salt-by-weight / spices-by-surface-area principle and the after-cooking-taste note added; an invented "the one S that overwhelms the others" struck. **(8) [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)** — the broiler step is 5 to 10 minutes on *one* side, then turn and broil a few more minutes, not "per side"; "portion into meal-sized amounts" and "quality drifts after a few months" were unprinted; the page's per-person planning amounts and the make-ahead-ribs only-if-you-must caveat added; every other figure confirmed. **No salt guidance changed anywhere** — the no-salt-rub warnings and Cody's brine-heavy rule stand as they were. No badge, index row, or recipe changed; these are sidebars. **Unreadable:** none of the checked text; p. 64 is simply absent from the scan, and the first two lines of p. 60's flipping box sit under glare but its list and quote read cleanly. Every entry carries a dated 2026-09-07 line. |
 | 2026-09-07 | **Independent second-pass measurement QC of the 17 sauce entries from the 21-page *Meathead: The Science of Great Barbecue and Grilling* "Brines, Rubs, and Sauces" scan — [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and [§4.175](#4175-teriyaki-sauce) — every ingredient line, step, yield, timing, and storage note read again against book pp. 176–181, 184–191, and 194–195 (file indexes 1–3 and 17–21, the embedded photos at native resolution, rotated where needed and cropped a column at a time), without leaning on the 2026-09-06 page-order audit's notes.** **One recipe had wrong quantities and a dropped step: [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze)** carried ½ tsp kosher salt and ¼ tsp black pepper where the page prints **⅛ teaspoon of each** — four times the printed salt and twice the pepper in a sweet glaze — and it had skipped the page's **strain-after-the-5-minute-simmer** step before the reduction; both quantities are corrected down to the printed figures and the strain is restored as Step 2. **Every other salt figure in the batch matches its page**, including the four sauces that print no salt at all ([§4.121](#4121-texas-mop-sauce), [§4.122](#4122-bacon-and-onion-jam), [§4.123](#4123-dc-mumbo-sauce), [§4.175](#4175-teriyaki-sauce)) and the optional-only salt of [§4.129](#4129-sage-and-thyme-board-sauce). **Printed MAKES / TAKES lines were missing from most of the batch and are now carried on every entry; four badges change because of them:** [§4.118 Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce) prints **about 3 cups / 30 minutes** (badge said 20); [§4.119 East Carolina Mop](#4119-east-carolina-mop-sauce) and [§4.120 Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce) each print **about 1½ cups / about 30 minutes** (badges said 10 active); [§4.123 D.C. Mumbo](#4123-dc-mumbo-sauce) prints **2⅔ cups / less than an hour** (badge said 30); [§4.129 Board Sauce](#4129-sage-and-thyme-board-sauce) prints **about ½ cup for 2 lb of meat / 30 minutes** (badge said 10). **Method and wording fixes:** [§4.117](#4117-kansas-city-classic-barbecue-sauce)'s tamarind is found in an *Indian* or Asian grocery, not Italian; [§4.118](#4118-columbia-gold-south-carolina-mustard-sauce) loses an unprinted "can be used right away"; [§4.121](#4121-texas-mop-sauce)'s headnote no longer claims "no ketchup" in a sauce that calls for ¼ cup of it; [§4.122](#4122-bacon-and-onion-jam) regains the page's cook-the-bacon-in-two-batches-if-necessary and loses an unprinted "stirring occasionally"; [§4.124 Tartar Sauce](#4124-tartar-sauce)'s Notes now say tarragon is essential and minced celery is an addition rather than a caper substitute; [§4.129](#4129-sage-and-thyme-board-sauce)'s Step 1 adds the black pepper only, since salt is optional on the page, and the vessel is a coffee cup; [§4.130 Chimichurri](#4130-chimichurri-sauce)'s chef is **Ryan Udvett** (was "Udette"); [§4.131 Pesto](#4131-pesto)'s "not authentic Genovese" remark is re-attached to the olives, where the page puts it; [§4.175](#4175-teriyaki-sauce)'s Sriracha Note says the small quantity doesn't make the sauce very hot, and its scorch and end-of-cook glossing is labeled as this cookbook's own. Headnote material recovered from the pages for [§4.119](#4119-east-carolina-mop-sauce), [§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce), [§4.121](#4121-texas-mop-sauce), [§4.123](#4123-dc-mumbo-sauce), [§4.124](#4124-tartar-sauce), [§4.126](#4126-grand-marnier-glaze), [§4.130](#4130-chimichurri-sauce), and [§4.131](#4131-pesto). **Verified exact, no change beyond a dated ✅ line:** [§4.125](#4125-chocolate-chile-barbecue-sauce), [§4.127](#4127-cascabel-mole-inspired-by-chef-rick-bayless), [§4.128](#4128-burger-glop), [§4.132](#4132-roasted-red-pepper-and-garlic-coulis). Nothing in this batch was illegible; no recipe was deleted; nothing was invented to close a gap. Difficulty & Time Index rows for [§4.118](#4118-columbia-gold-south-carolina-mustard-sauce), [§4.119](#4119-east-carolina-mop-sauce), [§4.120](#4120-lexington-dip-west-carolina-barbecue-sauce), [§4.123](#4123-dc-mumbo-sauce), [§4.126](#4126-grand-marnier-glaze), and [§4.129](#4129-sage-and-thyme-board-sauce), the TOC, and [§13](#13-meathead-cookbook) updated. |
@@ -911,6 +912,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.161 Aioli (Garlic Mayonnaise)](#4161-aioli-garlic-mayonnaise) | 🟢 | 5 min | — | — | 5 min |
 | [§4.162 Herb Mayonnaise](#4162-herb-mayonnaise) | 🟢 | 5 min | — | — | 5 min |
 | [§4.95 "Dry" Chimichurri](#495-dry-chimichurri) | 🟢 | 5 min | — | — | 5 min |
+| [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) *(The Meathead Method)* | 🟢 | 5 min | — | **~6 hr** *(indirect smoker, unattended)* | ~9 hr *(includes a 2 hr dry brine + 1 hr hold)* |
 | [§T25 French Omelette](#t25-the-french-omelette-two-methods) | 🟡 | 5 min | <1 min | — | 5 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
 | [§14.31 Torched Figs](#1431-torched-figs) *(The Meathead Method)* | 🟡 | 5 min | 3 min | — | 10 min |
@@ -931,7 +933,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) | 🟢 | 10 min | — | — | 10 min |
 | [§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) | 🟢 | 10 min | — | **~8 hr** *(freezer, stirred at least three times)* | 8 hr 10 min |
 | [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **to 140–145°F** *(smoker at 225°F — the page prints 20 min total, no smoke time)* | ~20 min active *(+ chilling the fish)* |
-| [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(The Meathead Method)* | 🟢 | 10 min | — | **5–6 hr** *(indirect smoker, unattended)* | ~8–9 hr *(includes a 3 hr dry brine)* |
+| [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(The Meathead Method)* | 🟢 | 10 min | — | **5–6 hr** *(indirect smoker, unattended)* | ~7–8 hr *(includes a 2 hr dry brine)* |
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES; + 12 hr–1 wk fridge rest)* |
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES; + 3 hr–overnight fridge rest)* |
 | [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES)* |
@@ -995,7 +997,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.166 French Rub](#4166-french-rub) | 🟢 | 15 min | — | — | 15 min |
 | [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) | 🟢 | 15 min | — | **1–3 hr** *(citrus dehydrates, unattended)* | 3–4 hr *(as printed)* |
 | [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **5–10 hr** *(1–2 hr smoke + 4–8 hr drying per the printed TAKES line, unattended)* | 5¼–10¼ hr |
-| [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) *(The Meathead Method)* | 🟢 | 15 min | — | **~6 hr** *(indirect smoker, unattended)* | ~9 hr *(includes a 2 hr dry brine + 1 hr hold)* |
 | [§4.124 Tartar Sauce](#4124-tartar-sauce) | 🟢 | 15 min | — | — | 15 min active *(+ 2 hr chill)* |
 | [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto) | 🟢 | 15 min | — | — | 15 min |
 | [§4.131 Pesto](#4131-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -1047,7 +1048,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) | 🟢 | 15 min | — | **~3 hr** *(simmer, mostly unattended)* | 3 hr 15 min |
 | [§5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) *(Meathead)* | 🟢 | 10 min | 5 min | — | 20 min |
 | [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) | 🔴 | 5 min | 12 min | — | 20 min |
-| [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 5–10 min | **~3 hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3½ hr |
+| [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 10 min | **~3½ hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3 hr 40 min |
 | [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) | 🟢 | 15 min | 3 min *(toasting cumin seeds)* | — | 20 min |
 | [§9.27 Reuben](#927-reuben) | 🟢 | 10 min | 8 min | — | 20 min |
 | [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 30 min *(printed TAKES)* |
@@ -1055,7 +1056,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.130 Chimichurri Sauce](#4130-chimichurri-sauce) | 🟢 | 20 min | — | — | 20 min |
 | [§4.176 Lubing Turkey Breasts (Oil Injection)](#4176-lubing-turkey-breasts-oil-injection) *(Meathead)* | 🟢 | 20 min | — | — | 20 min |
 | [§8.38 Brothy: Stracciatella](#838-brothy-stracciatella-roman-egg-drop-soup) | 🟡 | 10 min | 10 min | — | 20 min |
-| [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) *(The Meathead Method)* | 🟡 | 15 min | 5 min | — | 20 min |
+| [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) *(The Meathead Method)* | 🟡 | 15 min | 5 min *(sear; + 30 min sauce simmer and 10 min smoke, mostly unattended)* | — | ~1 hr |
 | [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) | 🟡 | 10 min | 10 min | — | 20 min |
 | [§4.157 Borani Esfenaj](#4157-borani-esfenaj-persian-spinach-yogurt) | 🟢 | 15 min | 5 min *(sautéing spinach in batches)* | — | 20 min |
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **1 hr 45 min** *(dehydrator)* | 2 hr 5 min |
@@ -1135,7 +1136,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.68 Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) | 🟢 | 20 min | 10 min | — | 2 hr 30 min *(+ 2 hr marinate)* |
 | [§7.70 Russian Shashlik](#770-russian-shashlik) | 🟢 | 20 min | 10 min | — | 8 hr 30 min *(+ 4–8 hr marinate)* |
 | [§7.72 Quick Persian Beef Kebabs](#772-quick-persian-beef-kebabs) | 🟢 | 20 min | 10 min | — | 30 min |
-| [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) *(The Meathead Method)* | 🟡 | 15 min | 15 min | — | ~2½ hr *(includes a 2 hr kōji marinate)* |
+| [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) *(The Meathead Method)* | 🟡 | 15 min | 15 min | — | ~7 hr+ *(includes a 6-hour-or-more kōji marinate)* |
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
@@ -1158,7 +1159,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) *(Meathead)* | 🟢 | 20 min | 10 min | — | 45 min |
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(The Meathead Method)* | 🟢 | 30 min | — | **4–5 hr** *(indirect smoker, unattended)* | 6–7 hr *(includes a 1–2 hr dry brine)* |
-| [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(The Meathead Method)* | 🟢 | 30 min | — | **~8 hr** *(indirect smoker, unattended)* | 8½–20½ hr *(includes an optional up-to-12-hr rest after rub/injection)* |
+| [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(The Meathead Method)* | 🟢 | 30 min | — | **~8 hr** *(smoker at 300°F, mostly unattended)* | ~9–21 hr *(includes an up-to-12-hr rest after rub/injection + 45 min rest)* |
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
 | [§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 20 min | — | 45 min *(includes butter soak-in time)* |
@@ -1222,6 +1223,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.138 Real Fried Chicken on a Gas Grill (It's Safe!)](#7138-real-fried-chicken-on-a-gas-grill-its-safe) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | 1 hr 40 min – 2 hr 40 min *(includes a 1–2 hr pickle-brine marinate)* |
 | [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) *(The Meathead Method)* | 🟢 | 10 min | 30 min | — | ~25 hr 10 min *(includes a 24 hr air-dry, mostly unattended in the fridge, + a 10 min hair-dry)* |
 | [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(The Meathead Method)* | 🟢 | 20 min | 20 min | **~5–7 hr** *(1–2 hr smoking the bones, then a 4–5 hr simmer, both unattended)* | ~6–8 hr |
+| [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | ~3 hr 40 min *(includes a 1–3 hr marinate)* |
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 35 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
@@ -1229,7 +1231,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min *(simmer, strain, reduce)* | — | 45 min |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
-| [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(indirect smoker, unattended)* | ~10–15 hr *(includes at least 1 hr rest in a faux Cambro)* |
+| [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(smoker; ~400°F start, then 275°F; mostly unattended)* | ~10–15 hr *(includes a 1–2 hr hold in a faux Cambro)* |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
@@ -1265,7 +1267,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.51 Shallot Marmalade](#451-shallot-marmalade) | 🟡 | 10 min | 40 min | — | 50 min |
 | [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) | 🟢 | 15 min | 35 min | — | 50 min |
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
-| [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(The Meathead Method)* | 🟡 | 30 min | 20 min | — | ~3½ hr *(includes a 3 hr citrus marinate)* |
 | [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) *(Meathead)* | 🟡 | 20 min | 30 min | — | 1 hr *(printed TAKES)* |
 | [§14.34 Poach It in Wine](#1434-poach-it-in-wine) | 🟢 | 20 min | 30 min *(varies hugely by fruit)* | **up to 2½ hr** *(quince only)* | 1 hr *(up to ~3 hr for quince)* |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
@@ -1278,7 +1279,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) *(Meathead)* | 🟢 | 35 min | 20 min | — | 1 hr *(includes a ~20 min shrimp brine)* |
 | [§14.10 Pecan Pie II](#1410-pecan-pie-ii) | 🟢 | 10 min | 45 min | — | 55 min |
-| [§7.140 Tandoori Chicken](#7140-tandoori-chicken) *(The Meathead Method)* | 🟢 | 10 min | 45 min | — | ~13 hr 55 min – 25 hr 55 min *(includes a 1 hr dry brine + 12–24 hr marinate)* |
+| [§7.140 Tandoori Chicken](#7140-tandoori-chicken) *(The Meathead Method)* | 🟢 | 10 min | 45 min | — | ~14–26 hr *(includes a 1 hr dry brine + 12–24 hr marinate)* |
 | [§10.6 Irish Soda Bread](#106-irish-soda-bread) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) | 🟡 | 25 min | 30 min | **~3½ hr** *(brisket simmer, unattended)* | 4 hr 25 min *(+ 5–7 day dry-brine cure)* |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
@@ -1373,7 +1374,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.65 Crawfish Pie I](#765-crawfish-pie-i) | 🟡 | 25 min | 1 hr 45 min | **2½ hr** *("taree" — a long simmer, mostly unattended)* | 4 hr 40 min |
 | [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | 🔴 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
 | [§9.23 Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) | 🟢 | 30 min | 1 hr 45 min | — | 2 hr 15 min |
-| [§7.141 Championship Chicken](#7141-championship-chicken) *(The Meathead Method)* | 🟡 | 20 min | 2 hr | — | 2 hr 20 min |
+| [§7.141 Championship Chicken](#7141-championship-chicken) *(The Meathead Method)* | 🟡 | 20 min | 2 hr | — | ~5 hr 20 min *(includes 3 hr uncovered in the fridge)* |
 | [§1 Cody's Pho](#1-codys-pho) | 🟢 | 2 hr | 20 min | **5 hr + 24–36 hr** *(broth simmer, sous vide)* | 2 days |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 2 hr 10 min *(mostly unattended reduction)* | — | 2 hr 30 min |
@@ -32658,66 +32659,75 @@ Be sure to get it to the turn-in table by 1 p.m.
 
 Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 278–282). **Genuinely different from this cookbook's existing [§7.37 The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken)** — that one starts with a sous vide bath before a quick fry; this one is fried entirely on a gas grill's side burner, no sous vide at all. Both kept.
 
-> Per the source's own headnote: the best place to deep-fry is a gas grill, not a stovetop. It solves the biggest complaints about deep-frying at home — spatter, lingering smell, and the fear of tipping a pot — and is arguably *less* risky than frying indoors: a large cast-iron Dutch oven on a stable grill side-burner isn't going anywhere, the whole operation happens outside, and any splatter lands on the grill grates rather than the stovetop.
+> Per the source's own headnote — "hear me out before you order the straitjacket": the best place to deep-fry is on a gas grill. It solves all the problems of deep-frying, and it's totally safe — frying on a grill is *less* risky than frying on a stovetop indoors. Do it in a large cast-iron Dutch oven and there's no way you can knock it over, and even if there's an earthquake, which would you rather have burn down, your grill or your house? Outdoors there are no smoke alarms, no spattered stovetop, and no smell.
 
 **Techniques used:** [§T95 Cutting Up a Chicken](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) *(the 10-piece cut)* · [§T96 Coating the Chicken](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method) · [§T98 For French Fries](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) *(a natural companion technique, same oil and grill)*
 
+**MAKES 10 pieces, 2 servings · TAKES 1 hour to marinate, 20 minutes to prep, 20 minutes to cook**
+
 **🟡 Medium** · **Prep ~20 min** · **Cook ~20 min** · **Start to finish ~1 hr 40 min – 2 hr 40 min** *(includes a 1–2 hr pickle-brine marinate)*
 
-> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, deep-frying is where this recipe earns its rating — a pot of 375°F oil, even outdoors on a stable grill burner, carries real splatter and burn risk, and letting the oil run too cold or too hot both spoil the crust. Nothing about the marinating or dredging steps is fail-prone; it's the fry itself.
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, deep-frying is where this recipe earns its rating — a pot of 375°F oil, even outdoors on a stable grill, carries real splatter and burn risk, and letting the oil run too cold or too hot both spoil the crust. Nothing about the marinating or dredging steps is fail-prone; it's the fry itself.
+
+> **On the oil, per the source:** different oils begin to smoke at different temperatures. Deep-frying is best started at 375°F for chicken and most other things (donuts and fish like a 350°F start), so pick a neutral-tasting, high-smoke-point oil — for most frying, a vegetable oil blend: high smoke point, low price, neutral flavor. When you're done, if the oil looks dark brown, has a lot of flotsam and jetsam, starts to smoke, or smells a little like crayons (a sign of rancidity), change it; if not, filter it and save it. Never pour spent oil down the drain — it coagulates, mixes with hair and other waste, and clogs pipes or even the city sewer ("fatbergs"). Meathead keeps a small jar of spent oil to drizzle on newspaper for starting his charcoal chimney, log-burning smoker, campfires, and fireplace.
 
 #### A. Ingredients
 
-- 1 cup dill pickle brine *(or 1 cup distilled white vinegar whisked with 1 Tbsp Morton Coarse Kosher Salt)*
-- 1 whole chicken (2½ to 4 lb), cut into 10 pieces *(see [§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method))*
-- 2 tsp [French Rub](#4166-french-rub) *(§4.166)*
-- 2 tsp baking powder
+- 1 cup dill pickle brine *(or 1 cup distilled white vinegar with 3 tablespoons Morton Coarse Kosher Salt)*
+- 1 whole chicken (3½ to 4 pounds), cut into 10 pieces *(see [§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method))*
+- 2 teaspoons [French Rub](#4166-french-rub) *(§4.166 — the source's own rub, book p. 167)*
+- 2 teaspoons baking powder
 - ½ cup cornstarch
 - ½ cup all-purpose flour
-- 6 cups neutral-tasting vegetable oil *(or enough to fill a Dutch oven to a depth of about 2½ inches)*
+- 6 cups neutral-tasting vegetable oil *(or enough to fill the Dutch oven to a depth of about 1½ inches)*
 
-*To serve (optional):* extra salt · honey or hot honey · barbecue sauce · Thai Sweet Chile Sauce *(the source's own favorite, book p. 200 — not yet in this cookbook, see Open Questions)*
+*Serve with, per the source: salt on the table in case someone wants more, and some things to drizzle on — honey is traditional in the South (sweet vs. salty is a natural combo), or why not Hot Honey? Barbecue sauce works, but the source's personal favorite is Thai Sweet Chile Sauce (book p. 200 — not yet in this cookbook, see Open Questions).*
 
-*Special tools: a large, heavy Dutch oven (4-quart or larger), a frying/candy thermometer, heatproof gloves, long-handled tongs, a spider or slotted spatula, an apron, safety glasses.*
+*Special tools: a large, heavy Dutch oven (4-quart or larger), a frying thermometer (although you can make just about any handheld digital thermometer work), protective gloves, tongs, and a spider or slotted spatula. The source prefers to do this on a gas grill, but it can be done on a charcoal grill.*
+
+> **The source's "About" notes:** *Pickle brine* — you want the brine from classic dill pickles, nothing sweet. *No buttermilk or eggs* — practically every Southern chef marinates or dips chicken in buttermilk or eggs before the flour, but they tend to make the crust turn brown before the meat is cooked through, so it then has to finish in an oven; Meathead thinks fried chicken should be golden, not brown. Just about any acid has the same effect on protein as buttermilk — a quick soak in pickle juice, vinegar, or lemon juice tenderizes the same way and creates better flavor without the browning; with vinegar the meat gets a nice tang reminiscent of salt-and-vinegar potato chips. You get the tenderizing of vinegar and the flavor and moisture benefits of salt (see [§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method)). *EverCrisp* — many restaurants use this product for fried chicken; it makes dredges and batters crunchier and keeps them crunchy longer. It's a powder made from a starch called wheat dextrin, and if you have it, substitute it for 20% of the flour/cornstarch mix.
 
 #### B. Cooking Instructions
 
-**1. Marinate.**
-Cut the chicken into 10 pieces — 2 drumsticks, 2 thighs, 2 wings, and the breast split in half through the rib cage and then in half again, so all four breast pieces are roughly thigh-sized (see [§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) for the full breakdown). If you're not using pickle brine, whisk together the vinegar and salt. Put the chicken in a large zip-top bag or bowl, pour in the brine, and let it soak for 1 to 2 hours in the fridge. The mild acid tenderizes and adds moisture the same way a buttermilk marinade would, without buttermilk's tendency to brown the crust before the meat is safely cooked through (see [§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method)).
+**1. Marinate. An hour or two.**
+If you're not using pickle juice, make the brine by mixing the vinegar and salt. Cut the chicken into 2 drumsticks, 2 thighs, 2 wings, and 2 breasts, and cut the breasts in half so they're about the same size as the thighs — 10 pieces (see [§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) for breaking down a bird). Pour the brine into a large zipper bag or a bowl large enough to hold the chicken, put the chicken in, and let it soak for an hour or two.
 
 **2. Season the chicken, not the flour.**
-Sprinkle the French Rub and the baking powder directly over the chicken pieces themselves — not into the dredge. Seasoning the bird gives you real control over how much salt and spice actually ends up on the meat; season the flour instead and you can't control that at all, plus you'll waste most of the batch since you never use the whole thing. Salt left in the dredge can also break the frying oil down faster.
+Sprinkle the French Rub and baking powder on the bird. Meathead has no idea why so many recipes tell you to season the flour and not the bird: if you season the flour, you can't control how much salt and spice gets on the bird, and it's a waste because you never use all the flour. Salt in the breading can also degrade the oil.
 
-**3. Dunk.**
-Whisk the cornstarch and flour together in a 1-gallon zip-top bag. Working one piece at a time, drop the wet chicken into the bag, shake to coat, and set it on a sheet pan. Keep one hand "wet" and one hand "dry" through the whole process so the dredge doesn't turn to paste on your fingers. *Optional:* for an extra-shaggy, craggy crust, set up a second bowl of the same dredge and flick a little of the leftover brine into it to make it clumpy, then press handfuls of those clumps onto the dredged chicken by hand — they fry up into crunchy shards.
+**3. Dunk. Twice.**
+Pour the cornstarch and flour into a 1-gallon plastic bag and mix. Drop the wet chicken pieces one at a time into the bag and shake to coat thoroughly. Take each piece out and put it on a sheet pan. Designate a dry hand and a wet hand. Put the dry hand behind your back and, with the wet hand, one at a time, dunk the chicken pieces back into the brine and then back into the flour bag, coating thoroughly. Shake off the excess and place the chicken back on the sheet pan. *Optional, for a super-shaggy coating:* add another bowl to the process — put the same amount of dredge in it and lightly mix it with ¼ cup of the brine so it goes lumpy, then tack the lumps on by hand; they stick to the chicken and fry into crunchy shards.
 
 **4. Fire up.**
-Set up your grill for two-zone cooking — one hot side, one cooler indirect side.
+Set up your grill for two-zone cooking.
 
-**5. Heat the oil.**
-Add about 1½ inches of oil to a large Dutch oven — deep enough that the chicken touches the hot metal at the bottom, with a little oil left above the pieces once they're in. That headspace lets steam escape as the chicken cooks, which is what keeps the crust from turning greasy. Set the pot on the hot side of the grill, close the lid, and bring the oil to about 375°F, stirring it before you check the temperature so you're reading more than just the surface. If it overshoots, dial back the burner or slide the pot toward the indirect side — oil that runs too cool just gets absorbed into the coating instead of frying it crisp.
+**5. Heat the oil. About 375°F.**
+Add about 1½ inches of oil to a large Dutch oven. You don't want the oil any deeper, because you want some of the meat in contact with the hot metal on the bottom of the pot and some of it above the oil — leaving some of the chicken above the oil lets steam escape, which helps keep the steam from knocking off the crust. Put the pot on the hot side, close the lid on the *grill*, and bring the oil to about 375°F (stir the oil before taking its temperature). If it goes higher, dial down the gas or move the pot off the flames onto the indirect side. At lower temperatures the coating can absorb too much oil — but don't worry, the oil can't enter the meat: food is mostly water, and the steam coming out does a good job of keeping it from getting greasy.
 
 **6. Stay safe.**
-Cold, wet chicken hitting 375°F oil throws up an immediate rush of steam and bubbling — that's just the meat's surface water flashing off, nothing gone wrong — but lower pieces in slowly with long-handled tongs so it doesn't splash you as it settles. Keep kids and pets well back, wear something you don't mind getting a little grease on, and consider safety glasses.
+When you add cold food that's 75% water, it immediately creates steam — that's what all the bubbling is. Use long-handled tongs. Slide the chicken in slowly so it doesn't go nuts and splash you, and so the exterior has a few seconds to firm up; this keeps the pieces from sticking together. Handle hot oil with respect. Keep children and pets away, wear an apron or clothes you don't mind getting a little grease on, and — Meathead's habit — wear your glasses.
 
-**7. Don't crowd the oil.**
-Cold chicken pulls a lot of heat out of the oil fast — dropping more food in before it's back above 350°F just makes everything greasy rather than crisp, so let the oil recover between batches. Close the grill's lid (not the pot's), leave the first side alone for about 4 minutes, then flip once it's Golden Brown and Delicious ("GBD") and give the second side another 4 to 5 minutes. Let the color of the crust — not a thermometer in the meat — tell you when it's close to done.
+**7. Don't crowd the oil. About 4 minutes, then 4 to 5 more.**
+Cold chicken really knocks the dickens out of 375°F oil, all the way down to 300°F or so. If you're frying in batches, let the oil come back up to temperature before adding more food — you want 350°F minimum. Close the lid of the grill, but don't put a lid on the pot. After 4 minutes you can look at the bottoms of each piece; when they're Golden Brown and Delicious ("GBD"), flip them. After you flip they should take another 4 to 5 minutes. Let the color of the crust, not the meat temperature, decide when to take it out of the oil.
 
-**8. Pull for color, finish on the grill.**
-Take each piece out once it's GBD all over and move it to the indirect side of the grill. It won't be at a safe 160°F internal yet at this point — pulling it at the right crust color and letting the grill's residual heat finish the job with the lid closed brings it up to temperature without pushing the crust past golden into burnt.
+**8. GBD. Finish on the indirect side.**
+Remove the chicken pieces from the oil when they're GBD all over and put them on the indirect side of the grill. Sprinkle with salt. If you probe the meat you may learn it isn't 160°F yet — but if you pull it out at the perfect color and place it on the rack on the indirect side, when you close the lid it will continue to bake to perfection without burning the crust. Then take its temperature before serving it.
 
 **9. Keep the oil clean.**
-Skim out loose crumbs and bits as they float free; left in the oil, they scorch and turn bitter. If the oil starts looking cloudy, change it before frying more.
+Skim off bits and chunks that come off the food. When the oil gets cloudy, it's time to change it. Now add more chicken to the oil and close the lid of the grill.
 
 **10. Drain and serve.**
-Rest the finished pieces on a wire rack or paper towels to drain, then serve hot. Put extra salt on the table along with something to drizzle — honey, hot honey, barbecue sauce, or the source's own favorite, Thai Sweet Chile Sauce.
+Place the chicken on a wire rack or paper towels to drain, and then serve.
+
+✅ 2026-09-07 second-pass QC against pp. 278–282: the vinegar-brine substitute was short — page prints **3 tablespoons** of salt, not 1; chicken size is 3½–4 lb (was 2½–4); oil depth is about 1½ inches (the ingredient line said 2½); the second dunk (back into brine, back into flour) was missing from Step 3, and the optional shaggy-crust brine amount is ¼ cup; the salt sprinkle after frying (Step 8) was missing; the pot sits on the grill's hot side under the closed grill lid, not on a side burner. MAKES/TAKES, special tools, and the source's oil/EverCrisp/serve-with notes added. Serving count is 2 as printed (the Open Question on the MAKES line is closed).
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Whole chicken — 2½ to 4 lb
-- 🛒 Dill pickle brine *(or distilled white vinegar + Morton Coarse Kosher Salt)*
+- 🛒 Whole chicken — 3½ to 4 lb
+- 🛒 Dill pickle brine — 1 cup *(or 1 cup distilled white vinegar + 3 Tbsp Morton Coarse Kosher Salt)*
+- 🛒 Morton Coarse Kosher Salt — for the table and the post-fry sprinkle
 - 🛒 French Rub ingredients, if not already made — see [§4.166](#4166-french-rub)
 - 🛒 Baking powder
 - 🛒 Cornstarch
@@ -32730,13 +32740,13 @@ Rest the finished pieces on a wire rack or paper towels to drain, then serve hot
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole dish** | ~2,300 | 145 g | 165 g | 55 g | 1 g |
-| **Per serving** *(serves 4)* | ~575 | 36 g | 41 g | 14 g | 0 g |
+| **Per serving** *(serves 2, as printed)* | ~1,150 | 72 g | 82 g | 28 g | 0 g |
 
-**What a serving is:** 2 to 3 pieces (a mix of white and dark meat) — a normal dinner plate portion. Most of the frying oil stays behind in the pot; the figures above account for the fried meat, skin, and crust actually eaten, not the full fry-oil volume.
+**What a serving is:** 5 pieces — half the bird, the way the source's "10 pieces, 2 servings" line portions it. Split it four ways (2–3 pieces each, a normal dinner-plate portion) and each serving is about half those numbers. Most of the frying oil stays behind in the pot; the figures above account for the fried meat, skin, and crust actually eaten, not the full fry-oil volume.
 
 #### D. Open Questions
 
-- **The source's own exact serving count on its "MAKES 10 pieces" line was hard to read with full confidence** on the photographed page. This entry assumes a typical 4-person dinner split (2–3 pieces each) for the Nutrition math.
+- **✅ Closed 2026-09-07.** The MAKES line reads "10 pieces, 2 servings" at native resolution; the Nutrition block now uses that serving count.
 - **🚫 Dropped at Cody's request, 2026-09-06 — no longer tracked as a gap.** A separate, different recipe that USES this one as a component was skipped as genuinely incomplete when this entry was added. Its visible fragment reads: *"...2. FRY. Make the Real Fried Chicken on a Gas Grill as directed... 3. FINISH. While the chicken is frying, rewarm the hot flavored oil..."*, ending with that flavored oil painted onto the finished chicken with a basting brush; it sits immediately above [§7.142 Buttered-Up Turkey Breast](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)'s headnote on book p. 285, with its own title, headnote, ingredient list, and Step 1 on pages that were never photographed. **Cody has since said he doesn't want it**, so it is recorded here for the record rather than carried forward as something to chase.
 - **Thai Sweet Chile Sauce (book p. 200) and "Hot Honey"** are both named as serving suggestions in the source but aren't yet documented in this cookbook — noted rather than invented.
 - **EverCrisp**, a commercial dextrin-based crisping powder some restaurants add to dredges, is mentioned by the source as optional and isn't called for in this recipe's own ingredient list — explained at [§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method) as a category product, not something to shop for here.
@@ -32753,11 +32763,13 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 
 **Techniques used:** [§T96 Coating the Chicken](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method) *(the baking powder mechanism)* · [§T79 Anatomy of a Chicken Wing](#t79-anatomy-of-a-chicken-wing) *(from the earlier Meathead book, for the drumette/wingette/tip breakdown)*
 
+**MAKES 1 pound wings, about 1 serving · TAKES 24 hours to air-dry, 10 minutes to hair-dry, and about 30 minutes to cook**
+
 **🟢 Easy** · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~25 hr 10 min** *(includes a 24 hr air-dry, mostly unattended in the fridge, plus a 10 min hair-dry just before cooking)*
 
 #### A. Ingredients
 
-- 1¼ lb whole chicken wings
+- 1¼ lb whole chicken wings *(the page's MAKES line rounds this to "1 pound wings" — the ¼ lb of tips gets frozen for stock)*
 - 1 tsp baking powder
 - 1 tsp Morton Coarse Kosher Salt
 
@@ -32781,7 +32793,9 @@ Just before cooking, blast the wings with a hair dryer for about 10 minutes to d
 Roast the wings, lid down, on the indirect side until the meat reaches 145°F internal.
 
 **6. Sear.**
-Move the wings to direct heat, lid open, and sear both sides until the internal temperature hits 160°F and the skin turns golden and crunchy. Serve right away — no resting or tenting, either of which would just soften the crust you worked for. Drizzle with a sauce if you like.
+Move the wings to direct heat, lid open, and sear both sides until the internal temperature hits 160°F and the skin turns golden and crunchy. Serve right away — no resting or tenting *(cookbook gloss: either would just soften the crust you worked for)*. Drizzle with a sauce if you like.
+
+✅ 2026-09-07 second-pass QC against p. 270: verified — ingredients, all six steps, temperatures, and the five named sauces match the page exactly. MAKES/TAKES line added. None of the three un-transcribed sauce pages (Teriyaki p. 175, Tare p. 203, Thai Sweet Chile p. 200) is in the current uploads.
 
 #### C. Grocery Shopping List
 
@@ -32817,33 +32831,36 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 
 **Techniques used:** [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(two-zone/rotisserie/spatchcock background)* · [§T95 Cutting Up a Chicken](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) *(the no-rotisserie option, below)*
 
-**🟢 Easy** · **Prep ~10 min** · **Cook ~45 min** *(varies by method and equipment)* · **Start to finish ~13 hr 55 min – 25 hr 55 min** *(includes a 1 hr dry brine plus a 12–24 hr marinate, both mostly unattended)*
+**MAKES 4 servings · TAKES 1 hour to dry brine, 12 to 24 hours to marinate, 10 minutes to prep, 45 minutes to cook — as an estimate, though cooking time will vary depending on what you cook it on and the temp**
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~45 min** *(varies by method and equipment)* · **Start to finish ~14 hr – 26 hr** *(includes a 1 hr dry brine plus a 12–24 hr marinate, both mostly unattended)*
 
 #### A. Ingredients
 
-- 1 whole chicken (3½ to 4 lb)
-- 1 Tbsp Morton Coarse Kosher Salt
+- 1 whole chicken (3½ to 4 pounds)
+- 1 tablespoon Morton Coarse Kosher Salt
 - 1 cup Yogurt Marinade *(the source's own recipe, book p. 175 — not yet transcribed into this cookbook; see Open Questions)*
-- **Optional:** chopped fresh cilantro, for garnish
+- **Optional:** chopped fresh cilantro leaves, for garnish
 
-**Serve with:** basmati rice with peas · a mango lassi
+**Serve with:** basmati rice with peas, and a mango lassi.
+
+> **Your approach — the source offers three setups.** *Tandoor or kamado:* you can do a whole chicken on a spit easily. Meathead skewers the whole bird with the rotisserie spit from his gas grill and stands it in his kamado with one end in the bed of coals and the other sticking out the top vent — the "kamadoor." The wet yogurt is a pretty good heat shield, so you can get your kamado pretty hot. *Rotisserie on a normal grill:* just spear the chicken, lock it in place, and turn it on like any rotisserie chicken. Keep the heat down if there's a dedicated rotisserie burner, because that's intense IR (infrared — direct radiant heat); if you're cooking on a rotisserie with heat from below, you may need to crank it up. *Gas or charcoal grill without a rotisserie:* simply spatchcock or break the chicken into parts and reverse sear it ([§T41](#t41-reverse-sear--two-stage-cooking)).
 
 #### B. Cooking Instructions
 
-**1. Prep.**
-Cut through the breast about every ½ inch with a sharp knife — this helps both the marinade and the heat reach deeper into the meat. Sprinkle the salt all over the bird and into the cavity, and let it sit 1 hour in the fridge to dry-brine before the marinade goes on. While it rests, make the Yogurt Marinade.
+**1. Prep. Then dry brine 1 hour.**
+The chicken skin won't get crispy, so remove it, toss it on the grill or in a pan, and make cracklins as a garnish — the source points to its Pastalaya recipe (book p. 274) for the method; [§7.142 Buttered-Up Turkey Breast](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) Step 5 is the same technique on turkey skin. Removing the skin also lets the yogurt work directly on the muscle. With a sharp knife, cut ¼-inch-deep gashes in the breast every ¾ inch. Sprinkle the salt all over the chicken, even in the cavity, and give it 1 hour in the fridge to penetrate before applying the marinade. While you're waiting, make the Yogurt Marinade.
 
 **2. Marinate the chicken. 12 to 24 hours.**
-After the hour, coat the bird all over with the Yogurt Marinade. Set it in or over a pan in the fridge for 12 to 24 hours.
+After the hour, coat the bird with the Yogurt Marinade and put it in or over a pan in the fridge for 12 to 24 hours. If you're going to cook this on the grates of a gas or charcoal grill, you can break it down into parts (see [§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) — the source's "Eight or Ten Pieces," book p. 263).
 
-**3. Cook the bird — pick your setup:**
-
-- ***Tandoor or kamado:*** Skewer the whole bird on a rotisserie spit, with one end resting down in the bed of coals and the other sticking out the top vent — turning the kamado into a makeshift tandoor (a "kamadoor," per the source). The wet yogurt coating acts as a heat shield, so you can run the kamado very hot.
-- ***Rotisserie on a normal grill:*** Spear the chicken, lock it in place, and run it like any rotisserie bird. Keep the heat down if you're cooking with a dedicated rotisserie burner mounted directly behind the bird, since that's intense direct radiant heat ("IR") — you may instead need to crank the heat up if it's coming from a more distant burner below.
-- ***No rotisserie:*** Break the bird down into parts (see [§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)) and cook it on the grate. Keep the grill around 225°F for a low-and-slow cook, or run the indirect side as hot as 400°F if you're short on time. Either way, pull the breast at 155°F internal — it will carry over to 160°F+ as it rests.
+**3. Cook the bird.**
+Skewer the bird if you're doing it whole. In a kamado, leave the legs and wings loose so heat can get into the armpits and crotch; keep the heat down around 225°F. On a rotisserie, tie or pin the wings to the breasts and cinch the drumsticks together so they don't flop around and tear off; again, keep the heat down around 225°F. If you cook it on a grate in the indirect zone of a grill, you aren't exposing it to IR, so you can get it as hot as 400°F. You're done when it hits 155°F in the thickest part of the breast; it will continue to rise to 160°F+.
 
 **4. Serve.**
-Garnish with chopped cilantro, if using, and serve with basmati rice and peas and a mango lassi.
+Garnish with chopped cilantro, if desired, and serve with basmati rice and peas and a mango lassi.
+
+✅ 2026-09-07 second-pass QC against pp. 277–278: ingredients and MAKES/TAKES verified. Step 1 was missing the skin removal / cracklins instruction and had the gashes every ½ inch (page: ¼ inch deep, every ¾ inch); Step 3 rewritten to the page — the kamado and rotisserie both run around 225°F (the cookbook had "run the kamado very hot" as a cooking instruction, which is the headnote's aside, not the step), and only the no-rotisserie grate method goes to 400°F. The "keep it around 225°F for low-and-slow" phrasing was invented.
 
 #### C. Grocery Shopping List
 
@@ -32876,63 +32893,68 @@ Garnish with chopped cilantro, if using, and serve with basmati rice and peas an
 
 ### 7.141 Championship Chicken
 
-Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 266–269), credited to competition team Darren and Sherry Warth. **Uses this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) rub, not the Cool Smoke components at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection)** — this is a genuinely different competitor's rub-and-sauce combination, not another Cool Smoke recipe, so no merge or duplication applies.
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 266–269). Meathead sticks close to the procedure of Hall of Famer Darren Warth and his wife Sherry of Smokey D's BBQ in Des Moines, Iowa — "the best team I know," with more than eight hundred category wins and seventy-five state championships at the time of writing, including the American Royal, the Jack Daniel's, the Kingsford Invitational, the Sam's Club National Championship, King of the Smokers, and the Houston Livestock Show and Rodeo. Judges expect "bite through" skin coated in sweet red sauce — skin soft enough that your teeth cut through it and you get skin and meat in every bite; if the skin pulls off, there goes your score. **Uses this cookbook's own [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) rub, not the Cool Smoke components at [§4.168](#4168-cool-smoke-chili-powder)–[§4.171](#4171-cool-smoke-injection)** — this is a genuinely different competitor's rub-and-sauce combination, not another Cool Smoke recipe, so no merge or duplication applies.
 
 **Techniques used:** [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(what a turn-in box is, cross-referenced rather than re-explained)*
 
-**🟡 Medium** · **Prep ~20 min** · **Cook ~2 hr** · **Start to finish ~2 hr 20 min**
+**MAKES 12 thighs** *(although you need only 6 for the judges — everyone makes more, and only the pick of the litter makes it into the turn-in box)* **· TAKES 20 minutes to prep, 2 hours to cook**
 
-> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, most of this recipe is genuinely forgiving — but Step 9's direct-heat finishing sear ("watch it like a hawk... until the bottoms are dark and almost charred") can go from perfectly charred to burnt in the same short window as [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken)'s high-heat glaze step, which carries the same rating. That's a real difference from the Easy-rated [§7.136](#7136-championship-pork-ribs)/[§7.137](#7137-tuffy-stones-championship-pork-butt), whose Texas-crutch stages have no comparably fast-fail moment.
+**🟡 Medium** · **Prep ~20 min** · **Cook ~2 hr** · **Start to finish ~5 hr 20 min** *(includes 3 hr of uncovered fridge time between injecting and cooking)*
+
+> ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, most of this recipe is genuinely forgiving — but Step 9's direct-heat finish ("watch it like a hawk") can go from perfectly dark to burnt in the same short window as [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken)'s high-heat glaze step, which carries the same rating. That's a real difference from the Easy-rated [§7.136](#7136-championship-pork-ribs)/[§7.137](#7137-tuffy-stones-championship-pork-butt), whose Texas-crutch stages have no comparably fast-fail moment.
 
 #### A. Ingredients
 
 - 12 medium bone-in, skin-on chicken thighs
-- 3 Tbsp [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) *(§4.108)*
-- Morton Coarse Kosher Salt, to taste
+- 3 tablespoons [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) *(§4.108 — the source's own rub, book p. 165)*
+- Morton Coarse Kosher Salt
 - 2 cups low-sodium chicken stock *(for injecting)*
-- 1 stick (4 oz) unsalted butter
-- 3½ cups [Kansas City Red](#4178-kansas-city-red) *(the source's own sauce, book p. 180 — **now documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; note that §4.178 makes 2 cups, so this recipe needs **a scant double batch**. A bottled Kansas City–style sauce or [§4.117](#4117-kansas-city-classic-barbecue-sauce) also work.)*
-- ⅓ cup apple juice
+- 1 stick (4 ounces) unsalted butter
+- 3½ cups [Kansas City Red](#4178-kansas-city-red) *(the source's own sauce, book p. 180 — **documented in full at [§4.178](#4178-kansas-city-red)** as of 2026-09-06; note that §4.178 makes 2 cups, so this recipe needs **a scant double batch**. A bottled Kansas City–style sauce or [§4.117](#4117-kansas-city-classic-barbecue-sauce) also work.)*
+- ½ cup apple juice
 
-*Special tools: meat injector, garden shears (optional, for trimming), toothpicks or metal poultry pins (if rolling the skin), instant-read thermometer.*
+*Special tools (cookbook gloss — the page prints no tool list): meat injector; garden shears, optional, for trimming; toothpicks or metal poultry pins if rolling the skin; instant-read thermometer.*
+
+> **The source's "About" notes:** *The chicken stock* is used as an injection. Darren and Sherry use ¼ cup Bird Booster Rotisserie Flavor injection by Butcher BBQ mixed with 2 cups water — Butcher BBQ injections are cleverly formulated with compounds that amplify flavor and enhance moisture retention, and you can find them online. *The rubs and sauce:* Darren and Sherry use three different commercial rubs, all with salt in them — even one for the skin side and one for the meat side, so the tongue and the roof of the mouth get different flavors. Most teams go with one rub, and it's a lot like Meathead's Memphis Dust with a little salt; in fact, that's a recipe many teams use. The Warths also mix two commercial sauces.
 
 #### B. Cooking Instructions
 
-**1. Prep the thighs.**
-Trim the fat off the edge of each thigh, and remove the blood vein nestled beside the bone, any loose tendons and membrane, and excess skin. Chop off the "knuckle" — the joint end of the bone. Some cooks use garden shears for this; some remove the thigh bone entirely. Aim for uniform thighs, about 5 oz each before trimming, so every piece cooks at the same rate. *(If you're competing, do this trimming at home ahead of time — most competition rules don't allow seasoning until after the meat's been inspected on site.)*
+**1. Prep.**
+Remove the fat on the edge of the thighs, the blood vein nestled beside the bone, any loose tendons and membrane, and excess skin. Chop off the "knuckle," the joint end of the bone — some cooks use garden shears for this, and some even remove the bone entirely. Dig out the piece of cartilage under the bone. The goal is to even the edges and make all the thighs the same size so they cook equally, weighing about 5 ounces after trimming. Many cooks do the trimming at home before they leave for the event, but the rules say you can't season until the meat is inspected on site.
 
-**2. Handle the skin — pick one approach.**
-There are a few ways competitors deal with the skin:
-- **(a)** Pull the skin back without fully detaching it, and scrape the fatty layer underneath off with a knife, careful not to tear the skin.
-- **(b)** Remove the skin altogether, season the bare meat and the underside of the skin, then lay the skin back over the top and roll its edges under so it covers almost all the flesh. Some cooks pin the rolled edges with toothpicks so the skin doesn't shrink away as it cooks — just remove any toothpicks or metal pins before serving or turning the meat in.
-- **(c)** Use a **jaccard** — a handheld tool with several dozen small needle-like blades — to perforate the skin and flesh. Jaccarding meat that's only cooked to 160°F is a food-safety risk, since it can push surface bacteria into the interior, but it's safe here because chicken thighs go all the way to 165°F and beyond.
+**2. Skin — there are several ways to approach the skin problem once you're at the event. Here are three:**
+- **(A)** Pull the skin back, trying hard not to detach it from one edge, and scrape off the subcutaneous fat layer with a knife, being careful not to break the skin. Sprinkle the exposed meat and the underside of the skin with the rub and lay the skin back on top like a toupee. Sprinkle the rub on the top side. Sprinkle Morton Coarse Kosher Salt on both sides now — if you're using a commercial rub that has salt, skip the additional salt.
+- **(B)** Some cooks remove the skin altogether, scrape off the fat, sprinkle rub on the naked meat and the underside of the skin, place the thigh in the center of the skin, and roll the skin up so it covers almost all the flesh. Some competitors pin the edges of the skin with toothpicks or metal poultry pins to keep it from shrinking away from the meat as it cooks. Be careful to remove toothpicks or pins before placing the thighs in the turn-in box, because foreign objects will disqualify your entry.
+- **(C)** At this time, some cooks even use a **jaccard** — a device with several dozen needle-like knives — to puncture the skin and the flesh. Jaccarding a steak cooked to 135°F is unsafe (it can push surface bacteria into the interior), but jaccarding chicken cooked to 160°F and up is safe.
 
 **3. Inject. Then refrigerate uncovered for 2 hours.**
-Set a wire rack in a pan and place the thighs skin side down on the rack. Dissolve 1 tsp Morton Coarse Kosher Salt in the chicken stock and inject about 1 oz (2 Tbsp) into each thigh from the underside, aiming twice on either side of the bone. Refrigerate the thighs uncovered for 2 hours — leaving them uncovered dries the skin out a bit, which helps the rub that comes next actually stick and crisp.
+Place a wire rack in a pan and set the chicken thighs on the rack skin side down. Dissolve 1 teaspoon of Morton Coarse Kosher Salt in the chicken stock and inject about 1 ounce (2 tablespoons) of the stock into each thigh from the underside, aiming to inject each thigh twice on either side of the bone. At this point some cooks put the thighs in zipper bags with a marinade or the leftover injection; instead, the Warths place the thighs in the refrigerator uncovered for 2 hours — leaving them uncovered helps the skin dry, especially if there's salt in the rub.
 
-**4. Season. Then refrigerate uncovered for 1 hour more.**
-Take the thighs out, flip them skin side up, and shape them so they all look uniform. Sprinkle the tops of the skins generously with Meathead's Memphis Dust, then salt lightly — skip the extra salt if your rub already carries plenty. Return the thighs to the fridge, uncovered, for 1 hour.
+**4. Flavorize. Then refrigerate uncovered for 1 hour.**
+Remove the thighs from the refrigerator. Turn them skin side up and shape them so they all look uniform. Sprinkle the tops of the skins with Meathead's Memphis Dust and then sprinkle salt lightly on the skin — if you're using a commercial rub with salt, don't add more. Return the thighs to the refrigerator uncovered for 1 hour.
 
 **5. Fire up.**
-Get a smoker, or a grill set for two-zone cooking, stable at 325°F with clean smoke rolling — apple or cherry wood are favorites among competitors.
+Start your smoker and aim for 325°F, or set up a grill for two-zone cooking, 325°F on the indirect side, and get some smoke rolling. Apple and cherry seem to be favorite woods with champions.
 
 **6. Smoke. About 1 hour.**
-Arrange all 12 thighs skin side up in a pan. Cut the butter into 12 equal pats and set one on each thigh. Smoke, or cook on the indirect side, until the thighs reach 160°F internal.
+Place all 12 thighs skin side up in a pan. (Some folks put the chicken on a wire rack, some coat the bottom of the pan with liquid margarine and set the thighs on the margarine, and some even put the meat in muffin pans and poach it in margarine or butter.) Cut the stick of butter into 12 equal pieces and place a piece on top of each thigh. Place in the smoker or on the indirect-heat side of a grill until the thighs reach an internal temperature of 160°F, about 1 hour.
 
-**7. Cover and cook further. About 40 minutes more.**
-Cover the pan tightly with foil and continue cooking until the thighs reach 185°F internal. That's hotter than the 170–175°F this cookbook usually recommends for dark meat, but a judge who spots even a hint of pink juice marks the entry down — thighs can take the extra heat and still come out juicy, with no pink at all.
+**7. Cook. About 40 minutes more.**
+Cover the pan tightly with foil and cook for an additional 40 minutes or so, until the thighs reach an internal temperature of 185°F. Yes, 170° to 175°F is the temperature Meathead recommends for most dark meat, but if a judge sees any pink juices, you're doomed. Thighs can take the higher temperature and there will be no pink.
 
 **8. Get ready.**
-While the thighs finish, warm the barbecue sauce and apple juice together over low heat in a small saucepan.
+As the thighs cook, warm the Kansas City Red and apple juice in a small saucepan over low heat. Prepare the turn-in box with whatever garnish is allowed — Meathead likes curly leaf parsley. *(At home: get a platter ready.)*
 
-**9. Direct-sear the skin. 10 to 15 minutes.**
-Pull the thighs from the pan onto a wire rack, skin side up, and sprinkle both sides lightly with more rub. Set the rack over direct heat and **watch it like a hawk** — the goal is dark, almost-charred skin, combining backyard-grilled flavor with the tenderness of the slower cook that came before it. This step can go from perfectly charred to burnt fast; don't walk away from it.
+**9. Grill. 10 to 15 minutes.**
+Remove the pan with the meat from the cooker. Take the thighs out of the pan, put them on a wire rack skin side up, and sprinkle lightly on both sides with more rub. Place the rack over direct heat and **watch it like a hawk.** You're done when the bottoms of the thighs are dark and almost crispy, 10 to 15 minutes total. The goal is to combine backyard-grilled flavor with the juicy tenderness of an oven-cooked thigh.
 
-**10. Sauce and turn in.**
-Pull the thighs from the grill and dip each one into the warm sauce mixture so every side is coated with no visible brush strokes. Set them back on the rack to dry briefly, then plate — or, for competition, arrange 6 to 8 of the glossiest thighs skin-up in the turn-in box (see [§7.136](#7136-championship-pork-ribs) for what that term means).
+**10. Turn-in.**
+Remove the thighs from the grill and let them sit for 5 minutes. Then submerge each thigh in the warm Kansas City Red — this coats all sides with no brushstrokes. Place the sauced thighs back on a rack to drip, then gently place 6 to 8 thighs into the turn-in box on top of the greens (see [§7.136](#7136-championship-pork-ribs) for what a turn-in box is). Turn-in is noon. Don't be late.
 
-**11. Practice before you compete.**
-If you're actually entering a competition, test your whole process — skin method, salt levels, and finish temperature — several times beforehand. Turn-in day is always at noon.
+**11. Test.**
+The source points to AmazingRibs.com/mm for a link to the exact commercial products the Warths use. Test which path to follow with the skin. Test salt quantities. Test finish temperature. Practice many times before competing — and have fun.
+
+✅ 2026-09-07 second-pass QC against pp. 266–269: apple juice corrected to **½ cup** (was ⅓); credit corrected to Hall of Famer Darren Warth and his wife Sherry of Smokey D's BBQ, Des Moines, Iowa; MAKES/TAKES added. Restored missing details: the under-bone cartilage in Step 1; the rub-and-salt sequence in the skin methods; the "some cooks bag them with marinade" aside in Step 3; the turn-in-box garnish in Step 8; the 5-minute sit, the rack-to-drip, and the page's doneness cue ("dark and almost crispy," 10–15 minutes) in Steps 9–10; and the "About" notes on the injection product and the Warths' rubs and sauces.
 
 #### C. Grocery Shopping List
 
@@ -32947,7 +32969,7 @@ If you're actually entering a competition, test your whole process — skin meth
 - 🛒 Low-sodium chicken stock — 2 cups
 - 🛒 Unsalted butter — 1 stick (4 oz)
 - 🛒 Kansas City Red — 3½ cups (**a scant double batch of [§4.178](#4178-kansas-city-red)**, the source's own sauce; or a bottled Kansas City–style sauce, or [§4.117](#4117-kansas-city-classic-barbecue-sauce))
-- 🛒 Apple juice — ⅓ cup
+- 🛒 Apple juice — ½ cup
 
 #### Nutrition *(estimated)*
 
@@ -32974,6 +32996,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 > Per the source's own headnote: a turkey breast is technically a whole breast section with two pear-shaped lobes split by the breastbone (the "keel"), though you can also buy a single boneless lobe on its own — that's what this recipe uses, though it adapts easily to a whole bone-in breast section. Turkey breasts carry very little fat, so they dry out fast once cooked to a safe 160°F. The source solves that four ways: **(1)** the skin comes off, since its fat can't reach the meat anyway, freeing the meat to smoke low and slow at 225°F instead of the usual 325°F+ that a bone-in bird needs to crisp its own skin — the skin itself gets turned into cracklins and sprinkled back on at the end, so nothing's wasted; **(2)** the meat gets pounded flat, since turkey (and chicken) breasts run much thicker at one end than the other and the thin end would otherwise overcook long before the thick end catches up; **(3)** it's dry-brined hours ahead, since salt helps the meat hold onto its own moisture; and **(4)** it's injected with butter.
 
 **Techniques used:** [§4.166 French Rub](#4166-french-rub) · [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method)
+
+**MAKES 6 to 8 servings · TAKES 15 minutes to prep, 2 to 4 hours to dry brine, 1 hour to cook**
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~1 hr 10 min** *(includes a 10 min stovetop cranberry rehydrate and grilling the cracklins alongside the smoke)* · **Start to finish ~3 hr 25 min – 5 hr 25 min** *(includes a 2–4 hr dry brine)*
 
@@ -33013,6 +33037,8 @@ Get your grill or smoker to 225°F on the indirect side with some smoke rolling.
 **7. Serve.**
 The turkey's done at 155° to 160°F internal, after about 1 hour — it will carry over another 5° to 10°F once it's off the heat. Put the breast on a cutting board with the skinny edge facing you and slice it across the grain. Plate it, spoon some of the drunken cranberries on top, and sprinkle with the chopped cracklins. Or make a sandwich.
 
+✅ 2026-09-07 second-pass QC against pp. 285–286: verified — all six ingredients, the seven steps, Warp 5, 225°F, the ¾-inch injection spacing, and the 155–160°F finish match the page. MAKES/TAKES line added.
+
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
@@ -33050,9 +33076,9 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafoo
 
 **Techniques used:** [§T101 Buying Scallops](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) *(buy dry scallops for a real sear)*
 
-**Makes 4 appetizer servings, or 2 entrée servings**
+**MAKES 4 appetizer servings or 2 entrée servings · TAKES 15 minutes to prep, 5 minutes to sear**
 
-**🟡 Medium** · **Prep ~15 min** · **Cook ~5 min** · **Start to finish ~20 min**
+**🟡 Medium** · **Prep ~15 min** · **Cook ~5 min** *(the sear — the page's TAKES line; the sauce's 30 min low simmer and the 10 min smoke are mostly unattended on top of that)* · **Start to finish ~1 hr**
 
 > ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, scallops go from a perfect golden sear to rubbery and overcooked in under a minute of inattention — this recipe's own second side gets only 1 minute in the pan, a genuinely tight window, on top of a smoking-gun step that needs the cling wrap to stay sealed the whole time.
 
@@ -33086,6 +33112,8 @@ Get a grill screaming hot over direct radiant heat. Warm the serving plates and 
 
 **5. Serve.**
 Divide the scallops among warm plates, seared side up. Spoon the chunky, buttery black garlic sauce over the top.
+
+✅ 2026-09-07 second-pass QC against pp. 318–319: verified — ingredients (clarified butter is the source's own, book p. 188), all five steps, the 3–4 min / 1 min sear, and the 125–130°F target match the page. TAKES line added; start-to-finish now counts the sauce simmer and smoke.
 
 #### C. Grocery Shopping List
 
@@ -33123,7 +33151,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafoo
 
 > Per the source's own headnote: this recipe starts with a French classic, *moules marinière* ("mariner's mussels" — mussels steamed open in white wine with onion, garlic, and herbs), amped up with cream, then taken further by cooking the pasta in smoked water. If that sounds strange, remember that smoke and cream go together like Bonnie and Clyde. And if mussels aren't available, this works just fine with clams or oysters instead.
 
-**Makes 4 servings**
+**MAKES 4 servings · TAKES 2 hours to smoke the water, 1 hour for the rest**
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~45 min** · **Slow cook 2 hr** *(smoking the water, unattended)* · **Start to finish ~3 hr**
 
@@ -33176,6 +33204,8 @@ Add the mussels to the sauce, then add the drained pasta. Stir to coat, adding a
 
 **9. Serve.**
 Scatter chopped celery leaves on top and serve, with hot pepper flakes at the table for anyone who wants them.
+
+✅ 2026-09-07 second-pass QC against pp. 319–321: verified — all fourteen ingredients, the nine steps, the 225°F/2 hr smoked water, and the 4–5 min mussel steam match the page. TAKES line added.
 
 #### C. Grocery Shopping List
 
@@ -39549,6 +39579,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 > **Update, 2026-09-07 — independent second-pass measurement QC of the 21-page "Brines, Rubs, and Sauces" scan's sauces, the other half of that PDF.** [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and [§4.175](#4175-teriyaki-sauce) re-read against book pp. 176–181, 184–191, and 194–195 (file indexes 1–3 and 17–21, the embedded photos at native resolution, rotated and cropped a column at a time). **One real error: [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) had four times the printed salt and twice the printed pepper (the page says ⅛ teaspoon of each) and had dropped the page's strain-after-simmer step** — all corrected. Every other quantity in the 17 entries matches its page, salt included. The rest of what the first pass missed was yields and timings: most entries had never carried their printed MAKES / TAKES lines, and six badges changed once they did (Columbia Gold 30 minutes not 20; both Carolina mops 30 not 10; Mumbo under an hour not 30; Board Sauce 30 not 10; Grand Marnier's cook now includes the strain). Smaller fixes — an Indian-not-Italian grocery, a chef's surname (Udvett), a headnote that denied the ketchup its own recipe calls for, a two-batches bacon note, and a handful of unprinted phrases struck — are itemized in the changelog. Nothing was illegible. **With this pass, every recipe entry from the 21-page Brines, Rubs, and Sauces scan has now been independently re-verified twice.**
 >
 > **Update, 2026-09-07 — independent second-pass QC of the 21-page "Brines, Rubs, and Sauces" scan's eight condensed technique entries, the last unchecked part of that PDF.** [§T46](#t46-freezing-and-reheating-leftovers)–[§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) re-read figure by figure against pp. 58, 60–63, 66–67, 140–142, 164–165, 173, 176, and 178 at native resolution. The pattern held: every entry needed something. The biggest fixes — [§T52](#t52-water-pans-and-drip-pans) had the water pan on the wrong side of the fire (the page: *over the heat source*; a drip pan goes *under the food*) and a made-up two-job summary in place of the page's seven functions; [§T49](#t49-lookin-aint-cookin--and-other-lid-myths)'s charcoal recovery is about 2 minutes, not 10, and its closing "lid discipline" theory was invented; [§T47](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) carried a wholly fabricated fruit paragraph; [§T51](#t51-cooking-more-than-one-large-piece-of-meat-at-once) rests on p. 64, which was never photographed, so only its p. 63 opening is stated as the book's and the rest is labeled gloss; [§T48](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat)'s salmon/burger sidebar is restored to p. 58's words; [§T50](#t50-saucing-strategies--when-how-much-and-food-safety)'s fridge life is *months*, not weeks; [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) regains the salt-by-weight / spices-by-surface-area principle and the clutch; [§T46](#t46-freezing-and-reheating-leftovers)'s broil is one side then a few more minutes on the other. No salt guidance, badge, or recipe changed. With this run, every recipe and technique entry from this 21-page scan has had its independent second pass. See the changelog for the full list.
+>
+> **Update, 2026-09-07 — independent second-pass QC of *The Meathead Method*'s fifteen main dishes.** [§7.130 Beef Back Ribs](#7130-beef-back-ribs) through [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) re-read line by line against book pp. 212–229, 245–252, 266–270, 277–282, 285–286, and 318–321 at native resolution. The three competition recipes ([§7.135](#7135-championship-brisket-and-burnt-ends), [§7.136](#7136-championship-pork-ribs), [§7.137](#7137-tuffy-stones-championship-pork-butt)) had been transcribed from spreads flagged as hard to read and were substantially off the page — cooker temperatures, wrap procedure, pull temperatures, and sauce timings are now as printed and the old "reconstructed" caveats are retired. [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) was missing two ingredients and had four wrong quantities; [§7.138 Real Fried Chicken](#7138-real-fried-chicken-on-a-gas-grill-its-safe) had the brine salt at a third of the printed amount. Every entry now carries the page's MAKES/TAKES line and a dated ✅ QC note. Two gaps remain in the uploads: fajitas p. 230 (Steps 6–8) and the three sauce pages (175, 200, 203) that [§7.139](#7139-extra-crispy-chicken-wings-without-frying) and [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) point to. Details in the changelog.
 >
 > **Update, 2026-09-07 — independent second-pass QC of *The Meathead Method*'s remaining rubs, sauces, and desserts.** [§4.165 Red Meat Rub](#4165-red-meat-rub)–[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), [§14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream)–[§14.33 Baked Apples](#1433-baked-apples), and [§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) re-read line by line against book pp. 166–167, 184, 188, 194–195, 249–251, 372–374, 377–382 (the 55-page PDF's embedded photos at native resolution, cropped a column at a time; every page needed turned out to be in the PDF, so the standalone p. 184 photographs were not needed — they now stand as a third source for §4.172/§4.173). **Two dessert entries had real errors, all now fixed:** [§14.30](#1430-drunken-peaches-and-cream) had the liquor at ¼ cup against the printed **⅓ cup**, the dark brown sugar at 2 Tbsp against the printed **3 Tbsp**, molasses dropped from the maple-syrup stand-ins, and a Step 4 that grilled the peaches cut side down with an invented 5-minute rest where the page grills them **skin side down about 5 minutes, then flips** to the flesh side until marked; [§14.31](#1431-torched-figs) had **3 figs, 3 tsp sugar, and "3 tsp" ice cream against the printed 2 figs, 2 tsp sugar, and 2 Tbsp ice cream**, ¼ tsp sugar per fig half against the printed ½ tsp, and a Balsamic Syrup cross-reference to p. 158 that is p. 198 — the old "printed in teaspoons" Open Question was a misread and is withdrawn. Grocery lists and Nutrition blocks recalculated for both. **Two qualifier fixes in §4:** [§4.167 Smoked Butter](#4167-smoked-butter) said "unsalted" where the page says only "a stick of butter" (and the entry now carries its page, 188, taken from the cross-reference printed in the book's own sous-vide steak on p. 222), and [§4.171 Cool Smoke Injection](#4171-cool-smoke-injection) said "low-sodium chicken stock" where the page says chicken stock. **Everything else is exact** — every rub and sauce quantity, every salt figure (none altered), every step, temperature, and time in the other eleven entries — and the pass added the printed MAKES/TAKES lines that most of these entries were missing, marked the handful of unprinted asides as cookbook gloss, and restored a few dropped headnote lines (Red Meat Rub's "all red meats, handles high heat"; Baked Apples' "hot, warm, or room temp"). No badge or index row changed.
 >

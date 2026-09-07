@@ -29782,6 +29782,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T65 Steaks](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 244–245 (second-pass QC).** All three ingredient lines, MAKES 2 to 4 / TAKES 2 hours to dry brine and about 45 minutes to cook, the 225°F indirect zone, the 15-minute first check and 5-to-10-minute rechecks, the 110°F lid-open point, the "as little as 3 minutes" per side, and the 130°F pull all match the page; eight steps in printed order. **One fix:** Step 5 had folded the kamado's instructions into the charcoal grill's — on the page, *open the lower vent, stoke with a hair dryer, and lower the grate as close to the coals as possible* belong to the **kamado** paragraph, and the charcoal paragraph says only to bunch the coals or add fresh lit ones; the gas paragraph's "set the meat aside on a plate" was also restored. No quantity changed.
+
+**Makes 2 to 4 servings · Takes 2 hours to dry brine and about 45 minutes to cook** *(as printed)*
+
 **🟡 Medium** · **Prep ~10 min** · **Cook ~45 min** *(about 30 min indirect, unattended, then a closely watched high-heat sear)* · **Start to finish ~1 hr 45 min – 2 hr 45 min** *(includes a 1–2 hr dry brine)*
 
 > **Rated Medium, not Hard or Easy — the searing stage is genuinely hands-on.** The indirect stage is as forgiving as any low-and-slow cook; nothing there can go wrong quickly. But once the steaks move to direct heat, the surface is already near 212°F and everything happens fast — the book's own instruction is to stand by the grill and flip constantly. That's real attention, not just patience, which is why this sits above [§1 Cody's Pho](#1-codys-pho)'s Easy bar but nowhere near roux territory: a steak that overshoots just comes off the heat, unlike a broken sauce or a scorched roux.
@@ -29807,7 +29811,7 @@ Put the meat on the grill in the indirect zone. After about 15 minutes, start ch
 After about 30 minutes, the temperature in the deepest part of the meat will probably hit 110°F. Open the lid and leave it open.
 
 **5. Prep the cooker to sear.**
-Now that the interior is getting close to target, it's time to sear the entire surface dark — but first prep the cooker. On a **charcoal grill**, bunch the coals together or add fresh, fully lit hot coals for a concentrated pile of energy, and lower the grate as close to the coals as possible (a hair dryer aimed at the vents helps stoke it). On a **kamado**, remove the deflector plate or move it to the direct side. On a **gas grill**, use a sear burner if you have one, or pull the meat off, remove the grates so they sit right on the flavor bars, close the lid, and turn every burner on high. On a **pellet smoker**, preheat a heavy pan (or a clean heat deflector) rip-snortin' hot, since these smokers run indirect heat only.
+Now that the interior is getting close to target, it's time to sear the entire surface dark — but first prep the cooker. On a **charcoal grill**, bunch the coals together or add new, fully lit hot coals so you have a pile of concentrated energy; if necessary, take the meat off the grill to add more coals and wait for them to get hot. On a **kamado**, remove the deflector plate, or move it to the direct side if you have a Divide & Conquer system that splits the deflector; open the lower vent all the way and get the coals good and hot (a hair dryer aimed at the bottom vent stokes the fire if needed), then lower the cooking grate as close to the coals as possible. On a **gas grill**, heat up the sear burner if you have one; if not, remove the meat and set it aside on a plate for a few minutes while you get the grill ready — you might be able to remove the grates and lower them to sit right on top of the flavor bars or deflectors that protect the burners (the closer you get to the heat source, the better), then close the lid and turn all burners on high. On a **pellet smoker**, since most run indirect heat all the time, take the meat off, crank up the heat all the way, and preheat a heavy pan, perhaps cast iron, on the grill until it's rip-snortin' hot — or place the meat right on top of a clean heat deflector.
 
 **6. Sear.**
 Pat the meat dry and put it on the hottest part of the grill, as close to the heat source as possible. Keep the lid open and turn the meat often — the surface is already close to 212°F, so things move fast. With charcoal about 1 inch below the meat, each side can be done in as little as 3 minutes. You want the surface evenly dark with no grill marks. A little blackened edge fat is fine, but don't blacken the muscle fibers themselves, and keep the meat away from direct flame if flare-ups start.
@@ -29848,7 +29852,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T65 Steaks](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness)
 
-**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** *(screaming-hot direct heat, flipped every minute or so — the whole point is that it moves fast)* · **Start to finish ~10 min** *(plus a 1–2 hr dry brine)*
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 246–247 (second-pass QC).** All four ingredient lines, MAKES 2 / TAKES 10 minutes, the 1-to-2-hour dry brine, the screaming-hot direct setup, the 125-to-130°F target, and the Afterburner sidebar (half a chimney, about 15 minutes, well over 1,000°F, flip every 30 seconds) all match the page. **Two fixes:** Step 4 said "flip every minute or two" — the page prints *flip every minute*; and the entry's old Step 5 ("Serve — don't let the meat rest… Peter Luger…") was **not printed for this recipe** — the page's Skinny Steaks method ends at Step 4, and that serving advice is Step 8 of [§7.106](#7106-big-thick-steakhouse-steaks), so it has been struck here. **One printed oddity, recorded rather than smoothed:** the page lists *vegetable oil* as an ingredient but never uses it in any of the four steps. The grocery list's "flank" suggestion was also unprinted (the headnote names only skirt steak) and is dropped. No quantity changed.
+
+**Makes 2 servings · Takes 10 minutes** *(as printed)*
+
+**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** *(screaming-hot direct heat, flipped every minute — the whole point is that it moves fast)* · **Start to finish ~10 min** *(plus a 1–2 hr dry brine)*
 
 > **Rated Medium for the same reason as thin cuts everywhere in this cookbook: the margin for error is measured in seconds, not minutes.** At this heat a steak can go from perfect to overcooked in the time it takes to check your phone — but nothing here can be permanently ruined the way a broken sauce or a scorched roux can; an overcooked thin steak is just a well-done thin steak.
 
@@ -29857,7 +29865,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 2 steaks, each about ¾ inch thick
 - Kosher salt (about ½ teaspoon per pound)
 - Freshly ground black pepper
-- Vegetable oil
+- Vegetable oil *(printed in the ingredient list, but the page's four steps never call for it — see the ✅ note above)*
 
 #### B. Cooking Instructions
 
@@ -29871,10 +29879,9 @@ Just before you cook it, pat the meat dry with paper towels — moisture creates
 Get your grill screaming hot. If using charcoal, pile the coals just beneath the cooking surface. On a gas grill, drop the grate as close to the burners as possible. Leave the lid off — you won't really be using the indirect zone, but it's nice to have as a safe zone away from the flames.
 
 **4. Cook.**
-Put the meat over the hottest part of the grill. You need to stand by the grill and flip every minute or two so the hot surface cools, inhibiting heat buildup and preventing the interior from overcooking. Aim for a uniform dark brown without grill marks and 125 to 130°F in the middle. Things move fast, so be on your toes.
+Put the meat over the hottest part of the grill. You need to stand by the grill and flip every minute so the hot surface cools, inhibiting heat buildup and preventing the interior from overcooking. Aim for a uniform dark brown without grill marks and 125 to 130°F in the middle. Things move fast, so be on your toes. You are a human rotisserie — be the rotisserie.
 
-**5. Serve.**
-Don't let the meat rest and cool off and lose its crust. Some prime steakhouses, like Peter Luger in Brooklyn, slice it across the grain and then reassemble the whole thing on the platter. Since the juices will soften the crust anyway, this is also a good approach for a steak too small or thin to slice neatly otherwise.
+*The printed method ends here. For serving, the page gives no separate step; if you want the Peter Luger slice-and-reassemble presentation, that's [§7.106](#7106-big-thick-steakhouse-steaks) Step 8 — the same page spread, but printed for the thick steaks, not these.*
 
 #### Chef's Notes — the Afterburner Method
 
@@ -29884,7 +29891,7 @@ If you only have two skinny steaks, try this instead: fire up half a chimney of 
 
 **🏪 Specific store — butcher**
 
-- 🏪 Steaks, cut about ¾ inch thick — 2 (skirt, flank, or another thin cut works well)
+- 🏪 Steaks, cut about ¾ inch thick — 2 *(the headnote names skirt steak as the ultrathin case; any steak 1 inch thick or less gets this method)*
 
 **🛒 General grocery**
 

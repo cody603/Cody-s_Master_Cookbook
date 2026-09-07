@@ -1205,7 +1205,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.124 Poulet de France](#7124-poulet-de-france) ❤️ | 🟢 | 35 min | — | **~3–3½ hr** *(crock pot)* | ~4 hr |
 | [§14.17 Flaky French Pastry](#1417-flaky-french-pastry) | 🟡 | 35 min | — | — | 2 hr 5 min *(includes three 30-min rests between folds)* |
 | [§4.82 Sauce Tomate](#482-sauce-tomate-tomato-sauce) | 🟢 | 15 min | 20 min | **1½–2 hr** *(simmer, skimming)* | 2 hr 20 min |
-| [§4.71 Sauce Brune (Brown Sauce 1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) | 🔴 | 15 min | 20 min | **~2 hr** *(simmer, skimming)* | 2 hr 45 min |
+| [§4.71 Sauce Brune (Brown Sauce 1)](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) | 🟡 | 15 min | 20 min | **~2 hr** *(simmer, skimming)* | 2 hr 45 min |
 | [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) *(Meathead)* | 🟡 | 5 min | 30 min *(hot direct fire, watched)* | — | 35–45 min *(+ a 1–2 hr dry brine)* |
 | [§15.2 Butter Dips](#152-butter-dips) | 🟢 | 20 min | 18 min | — | 40 min |
 | [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑 | 🟢 | 10 min | 30 min | — | 40 min |
@@ -1238,7 +1238,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(The Meathead Method)* | 🟢 | 20 min | 20 min | **~5–7 hr** *(1–2 hr smoking the bones, then a 4–5 hr simmer, both unattended)* | ~6–8 hr |
 | [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | ~3 hr 40 min *(includes a 1–3 hr marinate)* |
 | [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
-| [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
+| [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🟡 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 35 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min *(simmer, strain, reduce)* | — | 45 min |
@@ -6014,11 +6014,11 @@ Transcribed from **Mastering the Art of French Cooking**, p. 67–69. **The firs
 
 > **The classical version is deliberately skipped by the source.** A true French brown sauce starts with a long-simmered brown meat stock, becomes an *espagnole*, and is simmered and skimmed for hours more until it develops into *demi-glace* — *"This may take several days to accomplish, and the result is splendid. But as we are concerned with less formal cooking, we shall discuss it no further."* These three are the practical home-kitchen substitutes, and the source says that properly made they're *"very good indeed"* and far more useful.
 
-> **🔴 Why this is Hard: the brown roux.** Per the source's own note — *"It is important that the roux be cooked slowly and evenly. If the flour is burned, it will not thicken the sauce as it should, and it will also impart an unpleasant taste."* That's the same perfect-to-ruined failure mode that makes [§T1](#t1-how-to-make-a-roux) the hardest technique in this cookbook, just at a gentler temperature. See [§T24](#t24-the-french-sauce-families--roux-ratios) for the full brown roux note, including which fat to use for delicate dishes.
+> **🟡 Why this is Medium, not Hard: a brown roux, not a dark one.** Per the source's own note — *"It is important that the roux be cooked slowly and evenly. If the flour is burned, it will not thicken the sauce as it should, and it will also impart an unpleasant taste."* It can scorch, so it's a real technique — but the target is a golden nut brown reached over 8–10 minutes at moderately low heat, not the dark red-brown that [§T1](#t1-how-to-make-a-roux) chases in seconds over smoking oil. Under the roux tiers in [§T1](#t1-how-to-make-a-roux), a brown roux is 🟡; only a dark one earns the 🔴. See [§T24](#t24-the-french-sauce-families--roux-ratios) for the full brown roux note, including which fat to use for delicate dishes.
 
 **Yield:** about 1 quart
 
-**🔴 Hard** · **Prep ~15 min** · **Cook ~20 min** *(10 min sweating the vegetables, then 8–10 min on the roux)* · **Slow cook ~2 hr** *(partially covered simmer, skimming as needed — longer is better)* · **Start to finish ~2 hr 45 min**
+**🟡 Medium** *(a brown roux — golden nut brown over moderately low heat, 8–10 minutes — not a dark one; see the roux tiers in [§T1](#t1-how-to-make-a-roux))* · **Prep ~15 min** · **Cook ~20 min** *(10 min sweating the vegetables, then 8–10 min on the roux)* · **Slow cook ~2 hr** *(partially covered simmer, skimming as needed — longer is better)* · **Start to finish ~2 hr 45 min**
 
 **Techniques used:** [T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) · [T1 How to Make a Roux](#t1-how-to-make-a-roux)
 
@@ -6079,6 +6079,8 @@ Correct seasoning. Strain, pressing the juice out of the vegetables. Degrease th
 
 *The vegetables and ham are strained out and pressed rather than eaten, and the sauce is thoroughly degreased at the end — both are accounted for here, which is why the numbers are far lower than the ingredient list suggests.*
 
+✅ 2026-09-07 difficulty re-rated 🔴→🟡 per Cody: brown/medium roux, not dark
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -6087,11 +6089,11 @@ Correct seasoning. Strain, pressing the juice out of the vegetables. Degrease th
 
 Transcribed from **Mastering the Art of French Cooking**, p. 69–70. *"Sauce ragoût is essentially like the preceding brown sauce, but has more character, as it includes bones, trimmings, or giblets gathered from the game, beef, lamb, veal, goose, duck, or turkey the sauce is to be served with."* The second of the three interchangeable brown sauce bases, alongside [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3).
 
-> **🔴 Same brown roux, same reason.** See [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§T24](#t24-the-french-sauce-families--roux-ratios).
+> **🟡 Same brown roux, same reason** — a golden nut-brown roux cooked slowly, which is the Medium tier, not the dark roux that earns a 🔴. See [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§T24](#t24-the-french-sauce-families--roux-ratios).
 
 **Yield:** 4 cups
 
-**🔴 Hard** · **Prep ~20 min** · **Cook ~20 min** *(browning the giblets and vegetables, then the roux)* · **Slow cook 2–4 hr** *(simmer, skimming as needed)* · **Start to finish ~3 to 5 hr**
+**🟡 Medium** *(the same slow brown roux as [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) — brown tier, not dark; see the roux tiers in [§T1](#t1-how-to-make-a-roux))* · **Prep ~20 min** · **Cook ~20 min** *(browning the giblets and vegetables, then the roux)* · **Slow cook 2–4 hr** *(simmer, skimming as needed)* · **Start to finish ~3 to 5 hr**
 
 **Techniques used:** [T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) · [T1 How to Make a Roux](#t1-how-to-make-a-roux)
 
@@ -6158,6 +6160,8 @@ Strain, degrease, correct seasoning, and the sauce is ready to use.
 **What a serving is:** ¼ cup — like [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1), a base rather than a finished sauce.
 
 *Giblets, bones, vegetables, and the herb bouquet are all strained out, and the sauce is degreased — figures reflect what stays in the liquid, not the ingredient list. Sauce Venaison's jelly and cream would add roughly 850 calories and 45 g fat to the batch.*
+
+✅ 2026-09-07 difficulty re-rated 🔴→🟡 per Cody: brown/medium roux, not dark
 
 [↑ Table of Contents](#table-of-contents)
 

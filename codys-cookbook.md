@@ -30059,6 +30059,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T68 Beef Ribs](#t68-beef-ribs--the-long-and-the-short-of-them) · [§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 257 (second-pass QC) — correct as written.** All three ingredient lines (1 beef short plate, about 8 pounds; kosher salt at about ½ tsp per pound; Big Bad Beef Rub p. 166), MAKES 4 giant servings / TAKES 15 minutes to prep, 4 to 6 hours to dry brine, and 8 to 10 hours to cook, the membrane-stays-on rule, the 2-bone sections, the up-to-24-hour dry brine, 225°F, bone side down, oak, 2 to 4 ounces of wood (double on a leaky cooker), no flipping, 203°F, and the hour in a faux Cambro all match the page; four steps in printed order. No change.
+
+**Makes 4 giant servings · Takes 15 minutes to prep, 4 to 6 hours to dry brine, and 8 to 10 hours to cook** *(as printed)*
+
 **🟢 Easy** · **Prep ~15 min** · **Slow cook 8–10 hr** *(indirect smoker or grill, unattended)* · **Start to finish ~12–16 hr** *(includes a 4–6 hr dry brine and about 1 hr resting in a faux Cambro)*
 
 > **Easy, not Medium — this is a long distance run, not a technique risk**, per [CLAUDE.md §3a](CLAUDE.md)'s [§1 Cody's Pho](#1-codys-pho) reasoning: nothing here can go from perfect to ruined. There's no flipping, no basting schedule, no searing stage — just season, smoke low and slow to temperature, then rest.
@@ -30114,6 +30118,8 @@ Put the meat over the indirect-heat zone, bone side down, and add wood to the fi
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Beef" chapter (book pp. 257–258), right after [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style). Brazilian steakhouses (*churrascarias*) serve beef ribs churrasco style, as a whole short plate of 4 bones, about 8 inches long and 8 inches wide, with a thick layer of meat on top. They trim it, salt it, run a sword through it, and rotisserie it over charcoal at about 400°F until the surface is dark brown. Gauchos bring it to the table and slice a thin layer of brown off it **across the grain** so it will be easier to chew; beneath the surface the meat is medium-rare, and below that very rare, so it goes back on the rotisserie to build a new flavorful crust. *"It is a showy presentation, and you can do it at home."*
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan.
+
+> ✅ **Re-verified line by line again, 2026-09-07, against book pp. 257–258 (second-pass QC) — correct as written.** The p. 258 recipe box reads cleanly at full resolution: MAKES 6 servings / TAKES 1 hour; 1 beef short plate (about 8 pounds), large-grain Maldon-style salt, freshly ground black pepper; four steps in printed order — fat cap off, membrane on; warp 10; meaty side down over direct heat until dark; salt and pepper, slice across the grain parallel to the surface about ⅛ inch deep, back on the grill meat side down, repeat. The headnote's 4-bone / 8-by-8-inch plate, ~400°F rotisserie, "another 4 minutes or so," and carving-fork advice are all on pp. 257–258. No change.
 
 > ⚠️ **The earlier entry's central claim was wrong and has been corrected.** It said *"no MAKES/TAKES or exact quantities are printed."* **They are** — the recipe box sits on book p. 258, whose left column was cropped in the photo but is legible: **MAKES 6 servings, TAKES 1 hour**, with a printed three-item ingredient list. The steps below are also the printed ones (the earlier version had paraphrased the headnote into the step slots). The Open Questions block has been removed because there is no longer an open question here.
 

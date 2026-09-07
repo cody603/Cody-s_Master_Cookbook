@@ -17954,6 +17954,8 @@ The best fries are made in two frying steps, usually from **russet Burbanks** �
 
 > ⚠️ **Flagged rather than quoted.** No photographed page across this whole multi-batch project actually spells out what temperature each Warp number corresponds to. The description below is inferred from comparing how the scale gets used, relative to itself, across several of this book's own recipes — not transcribed from a printed definition.
 
+✅ 2026-09-07 second-pass QC: **not verifiable — the defining page is not in the uploads.** All 55 pages of the 12b42df9 scan were checked; the book's "Using My Recipes" front matter is present only from p. 144 to p. 154, and none of those pages defines the scale. The p. 194 usage ("Warp 10 on the direct heat side," [§4.174](#4174-poblano-basil-cream-sauce)) is confirmed as printed. The definition most likely sits on the pages just before p. 144 (the two-zone setup discussion), which have never been photographed. This entry stays an inference, as labeled.
+
 Based on that comparison — a vegetable-grilling sidebar warns that "many vegetables are best cooked over direct heat, but not Warp 10; dial back to Warp 5 to 7," [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) calls for "Warp 10 on the direct heat" to get an aggressive char on its poblano, and both a turkey-skin sear and a grilled pound cake use "Warp 5" for a solid, confident sear — **higher numbers mean hotter, more intense direct heat**, with Warp 10 at the screaming-hot, aggressive-char end of the dial and Warp 5 landing as a solid, moderate-high sear well short of that. Treat "Warp 5" as "a confident direct sear, not the grill's most aggressive setting" and adjust to taste rather than hunting for an exact number.
 
 [↑ Table of Contents](#table-of-contents)
@@ -17973,9 +17975,11 @@ Based on that comparison — a vegetable-grilling sidebar warns that "many veget
 
 **When it's time to cook,** if the stems are woody, pull them, freeze them, and toss them in the pot along with bones and meat trim when making stock. Otherwise, just slice off the fibrous stem end and compost it.
 
-**Dried mushrooms** can be almost as good as fresh, and they keep for years at room temperature stored in a dark cabinet in a paper bag. Reconstitute by soaking in hot water for about 15 minutes — the soaking water comes out laden with flavor, so reduce it for sauces or stocks, or freeze it to save for later. Dry mushrooms can also be ground into a powder and used like a spice in rubs.
+**Dried mushrooms** can be almost as good as fresh, and they keep for years at room temperature stored in a dark cabinet in a paper bag. Reconstitute by soaking in hot water for about 15 minutes — the soaking water comes out laden with flavor, so reduce it for sauces or stocks, or freeze it to save for later. Dry mushrooms can also be grated into a powder and added like a spice to rubs; a few pinches on burgers add real umami oomph, and it can be sprinkled on meats and veggies (p. 148). **Canned mushrooms** (p. 148) concentrate flavor and come with a rich, briny liquid — different from fresh, but often very good in an umami-loaded way. Never use a can that's bulging or dented, and be wary of home-canned mushrooms.
 
 > 🚫 **MYTH — Don't wash mushrooms. BUSTED.** Most chefs say you should never wash mushrooms — just wipe them with a brush or a damp paper towel. The source's own side-by-side test says otherwise: mushrooms are about 90% water and absorb very little more when washed, and tasted washed vs. brushed side by side, the source couldn't tell the difference. Mushroom cells are mostly built from **chitin** — the same compound behind lobster, shrimp, and crab shells — which is part of why mushrooms are hard to overcook. **The source's own weighed experiment: an unwashed batch of button mushrooms came in at 2⅜ oz; the same mushrooms, washed, weighed 2⅝ oz** — a small water gain, not the soggy, waterlogged mess the myth predicts. The source also cites **Lan Lam of *Cook's Illustrated*** (printed in the book as "Lam Lan"), who showed that submerging mushrooms in a bowl of water and microwaving them for 2 minutes drives a lot of water and air back out, compressing the mushroom and actually concentrating its flavor and umami. **A serving suggestion from the same page:** melt butter, add a sprinkle of salt and some pressed or minced garlic, baste mushrooms with the garlic butter, and grill them on a metal grill topper — they'll absorb tons of flavor this way.
+
+✅ 2026-09-07 second-pass QC against p. 146–148: verified in full — twelve varieties, 2-week fridge life, paper bag, no freezing, 15-minute soak, 90% water, chitin, the 2-minute microwave, and the 2⅜ / 2⅝ oz weights all match print. Added the p. 148 continuation (mushroom powder on burgers, canned-mushroom notes).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -17995,9 +17999,13 @@ Six terms worth knowing when buying scallops:
 - **Diver scallops** are usually sea scallops hand-harvested by scuba divers.
 - **Day-boat scallops** are caught on smaller vessels that drag the bottom with chain nets.
 - **Wet scallops** are brined in a solution of trisodium phosphate, which extends shelf life — but also adds weight and dilutes the flavor slightly.
-- **Dry scallops** are untreated, and **the better choice**: no added water weight, and a drier surface that sears properly instead of steaming in the pan.
+- **Dry scallops** are untreated, and **the better choice** — that's all the page says.
 
-**Why this matters at the stove:** a wet scallop's added moisture is exactly what stands between a scallop and a real golden sear — a wet scallop steams before it browns, no matter how hot the pan. Pat scallops very dry before searing regardless of which kind you buy, but buy dry scallops when you have the choice.
+**What you're buying** (from the recipe headnote, p. 317): scallops are usually sold already shucked and cleaned — white pillows typically about 1 inch across and ½ inch thick, though they run larger and smaller. Shucked scallops have usually had the orange roe sack (the "coral") removed because it spoils rapidly; if you buy them in the shell, there's a good chance it's still there. Don't discard it.
+
+*(Cookbook gloss, not printed on the sidebar: a wet scallop's added water is what keeps it from browning — it steams before it sears. The recipe itself, [§7.143](#7143-scallops-with-black-garlic-butter-sauce), does say to pat the scallops very dry before searing, so buy dry scallops when you have the choice and dry them regardless.)*
+
+✅ 2026-09-07 second-pass QC against p. 317–318: all six definitions verified (1 in / 2 in, scuba divers, chain nets, trisodium phosphate). The sear/steam explanation attached to "dry scallops" was cookbook reasoning, not print — now marked as gloss. Added the printed size and coral notes from the headnote.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -18012,15 +18020,17 @@ Six terms worth knowing when buying scallops:
 
 The source states a short list of defaults it assumes whenever a recipe just names an ingredient with no further detail:
 
-- **Eggs** — always "large," unless a recipe says otherwise.
-- **Flour** — "all-purpose flour" unless a recipe specifies something else. Weigh it rather than measuring by volume; cups and tablespoons are an inaccurate way to measure flour.
-- **Fruits and vegetables** — the default size is medium, and they should be fresh, unblemished, and rinsed in cool water before use.
-- **Mayonnaise** — full-fat mayo only. Never substitute low-fat mayo or Miracle Whip — the chemistry (fat content, emulsifiers) is different enough that it changes how the recipe behaves, not just how it tastes.
-- **Milk** — whole milk or 2%. Not fat-free milk, and not a plant-based substitute (soy, almond, etc.) unless a recipe calls for one specifically.
+- **Eggs** — "large."
+- **Flour** — "all-purpose flour" unless otherwise specified. **Sift it and weigh it**; measuring by volume (tablespoons, cups) is highly inaccurate.
+- **Fruits and vegetables** — the default size is medium. They should always be fresh and **scrubbed** with cool water.
+- **Mayonnaise** — full-fat mayo only. Never substitute low-fat mayo or Miracle Whip; the chemistry is very different.
+- **Milk** — whole milk or 2%. Not fat-free milk, soy milk, almond milk, or any other substitute.
 
-**Room temperature**, wherever a recipe calls for it, means about **70°F**.
+**Room temperature**, wherever a recipe calls for it, means **70° to 72°F**.
 
-**Keep records with a cooking diary.** The source recommends logging what you actually did each time — seasonings, temperatures, times — so you can repeat a good result or fix a bad one instead of re-guessing from scratch. This is the same habit this cookbook's own changelog already keeps at the project level; the source's version is a personal, recipe-by-recipe log.
+**Keep records with a cooking diary.** Be specific: record times and temperatures, and weigh the amount of wood. The author's own cooking diary/log can be downloaded from AmazingRibs.com/diary. *(Cookbook gloss: this is the same habit this cookbook's changelog keeps at the project level; the source's version is a personal, cook-by-cook log.)*
+
+✅ 2026-09-07 second-pass QC against p. 144, 146–147: eggs, flour, mayo, and milk verified. Fixed: room temperature is printed as 70–72°F (had "about 70°F"); produce is "scrubbed," and "unblemished" was not printed; "sift it" was missing from the flour rule; the mayo explanation (fat content, emulsifiers) and the diary rationale were gloss, now trimmed or marked. Added the printed diary specifics (times, temperatures, wood weight, download link).
 
 [↑ Table of Contents](#table-of-contents)
 

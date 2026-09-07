@@ -990,7 +990,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.112 Cajun Seasoning](#4112-cajun-seasoning) | 🟢 | 15 min | — | — | 15 min |
 | [§4.166 French Rub](#4166-french-rub) | 🟢 | 15 min | — | — | 15 min |
 | [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) | 🟢 | 15 min | — | **1–3 hr** *(citrus dehydrates, unattended)* | 3–4 hr *(as printed)* |
-| [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **3–6 hr** *(smoker + dehydrate, unattended)* | 3¼–6¼ hr |
+| [§4.115 Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) | 🟢 | 15 min | — | **5–10 hr** *(1–2 hr smoke + 4–8 hr drying per the printed TAKES line, unattended)* | 5¼–10¼ hr |
 | [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) *(The Meathead Method)* | 🟢 | 15 min | — | **~6 hr** *(indirect smoker, unattended)* | ~9 hr *(includes a 2 hr dry brine + 1 hr hold)* |
 | [§4.124 Tartar Sauce](#4124-tartar-sauce) | 🟢 | 15 min | — | — | 15 min active *(+ 2 hr chill)* |
 | [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -8593,7 +8593,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **📌 No salt adjustment here.** This is a single-ingredient smoked spice powder — pure garlic or onion, nothing else — so Cody's standing salt-increase preference doesn't apply; there's no salt in the printed recipe to adjust, and adding any would turn a pure aromatic powder into a seasoned blend, changing what it actually is.
 
-**🟢 Easy** · **Prep ~15 min** · **Slow cook ~3–6 hr** *(1–2 hr on the smoker, then 2–4 hr dehydrating, both mostly unattended)* · **Start to finish ~3¼–6¼ hr**
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 172 (second-pass QC).** The two-way ingredient line (4 whole heads garlic *or* 2 large onions), all five printed steps (prep, fire up to 225°F or two-zone, cook on a grill topper or sheet pan on the indirect side, remove/cool/halve/dry, pulse), the 1-to-2-hour smoke, and the printed MAKES ¼ cup all match. **One timing corrected, and the page disagrees with itself:** the printed **TAKES line reads *1 to 2 hours smoking time, plus 4 to 8 hours to dry***, while **Step 4 says the oven on its lowest setting takes *2 to 4 hours, or until dry***. The badge had used only the step's 2–4 hours; it now carries the TAKES line's 4–8 hours as the start-to-finish figure, with the step's shorter window kept in the step text. Plan on "until dry" and let the clock be a guide — a dehydrator, which the page recommends if you have one, is the way to settle it. The headnote paragraph is under glare and illegible beyond its opening; nothing from it is transcribed.
+
+**🟢 Easy** · **Prep ~15 min** · **Slow cook ~5–10 hr** *(1–2 hr on the smoker, then 4–8 hr drying per the printed TAKES line — Step 4 itself says 2–4 hr "or until dry"; both mostly unattended)* · **Start to finish ~5¼–10¼ hr**
 
 #### A. Ingredients
 
@@ -8610,8 +8612,8 @@ Set a smoker to 225°F, or set up a grill for smoking in a two-zone configuratio
 **3. Smoke on the indirect side.**
 Put the garlic cloves or onion slices on a grill topper or a sheet pan on the indirect-heat side, away from the fire. Keep the smoke rolling for 1 to 2 hours.
 
-**4. Dehydrate.**
-Remove and let cool. Cut the pieces in half and spread them in a pan in the oven on its lowest setting for 2 to 4 hours, or until fully dry — a dehydrator works even better if you have one.
+**4. Dehydrate — 2 to 4 hours per the step, 4 to 8 per the TAKES line; go until dry.**
+Remove and let cool. Cut the pieces in half and spread them in a pan in the indoor oven on its lowest setting for 2 to 4 hours, or until dry — the page's own TAKES line budgets 4 to 8 hours for this, so "until dry" is the real target. If you have a dehydrator, use it.
 
 **5. Grind.**
 Pulse the dehydrated garlic or onion in a blender, food processor, or spice grinder until no large pieces remain.
@@ -8643,6 +8645,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Salt note:** this recipe carries no separate salt of its own — its salt comes entirely from [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper), at that recipe's printed 2 Tbsp. No adjustment needed here.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 173 (second-pass QC).** All three components and quantities (3 Tbsp Citrus Salt and Pepper, 1 tsp each Smoked Onion Powder and Smoked Garlic Powder), the mix-together method, the Chef Ryan Udette credit, the printed MAKES ¼ cup / TAKES about 10 minutes, and the headnote's uses (steaks, pork chops, chicken, seafood before grilling at the time you would dry brine; finishing salt for meats, soups, salads, baked potatoes, popcorn; *it really shines on steaks*) all match. **One figure could not be confirmed:** the headnote's per-pound rate reads *"Use about [?] teaspoon per pound of meat,"* and the fraction's numerator sits under glare at the cropped left edge of the photograph — legible at no magnification or channel. The entry's **¼ tsp** is therefore *unconfirmed*, not verified; it could as easily be ¾ tsp (which, given that this blend is roughly half salt by volume, would land nearer [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s ½ tsp-of-salt-per-pound dry-brine rate). Flagged in Step 2 rather than guessed.
+
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(using already-made [§4.113](#4113-citrus-salt-and-pepper) and [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder))*
 
 #### A. Ingredients
@@ -8657,7 +8661,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 Combine all three components in a bowl or jar.
 
 **2. Use liberally.**
-Apply to steaks, pork chops, chicken, or seafood at the time you'd normally dry brine — about ¼ tsp per pound of meat. It also works as a finishing salt for meats, soups, salads, and baked potatoes, or even popcorn.
+Apply to steaks, pork chops, chicken, or seafood before grilling, at the time you'd normally dry brine — about ¼ tsp per pound of meat ⚠️ *(the fraction's numerator is unreadable on the page — cropped edge plus glare — so ¼ is unconfirmed and may be ¾; see the note above)*. It also makes a great finishing salt for meats, as well as for soups, salads, and baked potatoes — or even popcorn. It really shines on steaks.
 
 #### C. Grocery Shopping List
 

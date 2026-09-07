@@ -1306,6 +1306,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
 | [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(Meathead)* | 🟡 | 5 min | 45–60 min | — | 2 hr 50 min *(includes a 2 hr wet brine)* |
 | [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) | 🟡 | 15 min | 50 min *(low-oven dry-bake, mostly unattended)* | — | 1 hr 5 min |
+| [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(Meathead)* | 🟡 | 5 min | 1 hr | — | 5–7 hr *(includes a 4–6 hr dry brine)* |
 | [§14.9 Pecan Pie I](#149-pecan-pie-i) | 🟢 | 15 min | 52 min | — | 1 hr 10 min |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
 | [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) | 🟡 | 45 min | 25 min | **6–9 hr** *(three rises — the waiting is the method)* | ~7 hr *(+ 2–3 hr cool)* |
@@ -1324,7 +1325,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.10 Cheese Grits](#1010-cheese-grits) | 🟢 | 15 min | 1 hr | — | 1 hr 15 min |
 | [§4.158 Mast-o-Laboo](#4158-mast-o-laboo-persian-beet-yogurt) | 🟢 | 15 min | 1 hr *(roasting the beets, unattended)* | — | 1 hr 15 min |
 | [§7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) *(Meathead)* | 🟢 | 45 min | 30 min | — | 1 hr 15 min |
-| [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(Meathead)* | 🟡 | 15 min | 1 hr | — | 5–7 hr *(includes a 4–6 hr dry brine)* |
 | [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) *(Meathead)* | 🟢 | 15 min | 1 hr *(smoke-roasting the bones)* | **4–5 hr** *(simmer, unattended)* | 5–6 hr |
 | [§8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) | 🟢 | 25 min | 55 min | — | 1 hr 20 min |
 | [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
@@ -29918,6 +29918,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · related to [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking)
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 251–253 (second-pass QC) — correct as written.** All five ingredient lines, MAKES 4 / TAKES 5 minutes to prep and 45 to 90 minutes to cook, the 1-to-2-hour dry brine, the Butcher Block Seasoning (p. 173) option, the 225°F indirect zone, thick end toward the heat, the 20-minute turns, 110°F in 30 to 45 minutes, about 5 minutes per side direct to 130°F, the halve-then-rotate carving with ⅜-to-½-inch slices, and the fanned platter with juices all match the page; eight steps in printed order. The headnote's Bob Schutz / 1950s story, NAMP 185C, and *tensor fasciae latae* are all on p. 251. No change.
+
+**Makes 4 servings · Takes 5 minutes to prep and 45 to 90 minutes to cook, depending on how you set up your grill** *(as printed)*
+
 **🟡 Medium** · **Prep ~5 min** · **Cook ~45–90 min** *(30–45 min indirect, unattended, then about 10 minutes of attended direct searing)* · **Start to finish ~1 hr 50 min – 3 hr 30 min** *(includes a 1–2 hr dry brine)*
 
 > **Rated Medium for the slicing as much as the cooking.** The direct sear itself is standard two-zone technique. What actually takes care is Step 7 below — tri-tip's grain changes direction partway through the muscle, so cutting the wrong way on the second half makes an otherwise well-cooked piece of meat chewy. Get the slicing right and there's nothing here that can go wrong the way a sauce or a roux can.
@@ -29988,7 +29992,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
 
-**🟡 Medium** · **Prep ~15 min** *(trimming and tying the roast)* · **Cook ~60 min** · **Start to finish ~5–7 hr** *(includes a 4–6 hr dry brine)*
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 254–255 (second-pass QC).** All four ingredient lines (1 beef tenderloin; kosher salt at about ½ tsp per pound; Big Bad Beef Rub p. 166 *or* Butcher Block Seasoning p. 173; Beef Butter), MAKES 4, the 4-to-6-hour dry brine, the 12-inch / 4-pound trimmed chateaubriand, the 225°F indirect zone, the 110°F move to direct heat, the quarter turn every 5 minutes or so, the 130°F pull, and the 1-inch slices all match the page; six steps in printed order. **One fix:** the badge read Prep ~15 min — the page's TAKES line prints ***5 minutes to prep***, so the badge and the Difficulty & Time Index row now say so. No quantity changed.
+
+**Makes 4 servings · Takes 4 to 6 hours to dry brine, 5 minutes to prep, and about 60 minutes to cook** *(as printed)*
+
+**🟡 Medium** · **Prep ~5 min** *(as printed — trimming and tying the roast)* · **Cook ~60 min** · **Start to finish ~5–7 hr** *(includes a 4–6 hr dry brine)*
 
 > **Rated Medium for the same reverse-sear reason as [§7.106](#7106-big-thick-steakhouse-steaks) and [§7.114 Prime Rib](#7114-prime-rib)** — an attended, fast-moving sear at the end, after a hands-off indirect stage. The compound butter itself carries no real risk; it's a simple soften-and-roll job, the same technique as [§4.133 Beef Butter](#4133-beef-butter).
 

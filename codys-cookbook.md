@@ -17194,23 +17194,25 @@ A do's-and-don'ts list, straight from the book:
 
 > ✅ **Corrected and substantially extended by the 2026-09-06 page-order audit.** The original Vegetables/Stock/Mains batch condensed this entry from a 90°-rotated photograph of book pp. 254–255 and got three things wrong, all now fixed against a straightened, full-resolution read of the same spread: **blond onions are cooked over medium-*low* heat, not medium**; **the Caramelized Onion Tart belongs to the caramelized stage, not the browned one**; and **a "Chicken with Sweet Onion Soup" cross-reference appeared in the entry that is not printed anywhere on those two pages** — it has been removed rather than left standing. **More importantly, the entire right-hand page was never transcribed:** the source's own step-by-step method for actually making caramelized onions — how many onions, what pan, what fat, what heat, how long, and how to finish them — lived on p. 255 and is restored in full below.
 
+> ✅ **Independently re-verified 2026-09-07 against book pp. 254–255** (file index 11, turned upright and read at 300 dpi). Every figure confirmed as printed: medium-low for blond, medium-high to start the caramelized batch then down to medium, at least 8 onions, "at least 45 minutes, and up to an hour," salt and *a rumor of red wine vinegar* to finish, and the illustration's own three timings — *Blond (about 15 min.) · Browned (about 25 min.) · Caramelized (about 45 min.)*. Every use the page lists for each stage is here, in printed order. Two sentences the page does not print were trimmed from the method (a "fewer isn't worth it" gloss on Step 1 and a "don't rush it with high heat" warning on Step 4); the keeps-for note now uses the page's own phrasing. Nothing on either page was illegible.
+
 **The general rule, in the source's own words: you don't need to caramelize every onion you cook — but cook every onion at least until it's lost its crunch.** The longer onions cook, the deeper their flavor gets, and a dish that wants a light color and a clean onion note doesn't need the same treatment as a French onion soup base. But there is a floor: only once the crunch is gone will an onion truly deliver sweetness to a dish. Match the stage to the dish above that floor, rather than always reaching for the darkest, longest-cooked onion.
 
 **Blond — about 15 minutes.** Cooked until soft and translucent, without taking on any color. **Cook them over medium-low heat**, specifically, to keep them from browning. This is the stage for a dish where the onion should melt into the background rather than announce itself, or where the light color of the dish is a priority — [§8.39 Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) is the source's own example, and already uses this exact word the same way: pale golden rather than actually browned, a different use of "blond" than a dark Cajun roux ([§T1](#t1-how-to-make-a-roux)) has nothing to do with. If the onions start to stick or catch before they've softened, a splash of water into the pan discourages browning and buys more time.
 
 **Browned — about 25 minutes.** Carried further, until they take on some color and begin to deepen in flavor as a result. This is the workhorse stage: **ideal for pasta sauces, and as the base for countless braises and soups** — [§7.126 Chicken with Vinegar](#7126-chicken-with-vinegar) uses it for its pan sauce, and the source uses it for a Chicken with Lentil Rice *(not documented in this cookbook yet, so noted rather than invented)*.
 
-**Caramelized — about 45 minutes, or longer.** Onions taken to the very edge of browning, where they collapse into a deep amber-brown, jammy mass with the deepest flavor of the three stages — the sugars naturally present in the onion browning the same way any sugar does at high enough heat (see [§T32 How to Use Heat](#t32-how-to-use-heat) on caramelization). The source's own aside is worth keeping: the name is arguably a misnomer, since much of what's happening is the Maillard reaction rather than caramelization alone — *"Maillarded onions just doesn't sound right!"* — but there's nothing wrong about caramelized onions. **Use them for** a Caramelized Onion Tart *(not in this cookbook yet)*, tossed with blanched broccoli or green beans, piled atop burgers and steak sandwiches, or finely chopped and stirred into crème fraîche for an unbeatable onion dip. **Because they take so long, make more than one meal's worth** — they keep for four or five days and turn any of those dishes into something better with almost no extra work later in the week.
+**Caramelized — about 45 minutes** *(the illustration's figure; the method below allows up to an hour)*. Onions taken to the very edge of browning, where they collapse into a deep amber-brown, jammy mass with the deepest flavor of the three stages — the sugars naturally present in the onion browning the same way any sugar does at high enough heat (see [§T32 How to Use Heat](#t32-how-to-use-heat) on caramelization). The source's own aside is worth keeping: the name is arguably a misnomer, since much of what's happening is the Maillard reaction rather than caramelization alone — *"Maillarded onions just doesn't sound right!"* — but there's nothing wrong about caramelized onions. **Use them for** a Caramelized Onion Tart *(not in this cookbook yet)*, tossed with blanched broccoli or green beans, piled atop burgers and steak sandwiches, or finely chopped and stirred into crème fraîche for an unbeatable onion dip. **Because they take so long to make, and because they are so good, make more caramelized onions than you'll need for a single meal** — use them over the course of four or five days as the base of any of the many dishes that benefit from deeply flavored onions.
 
 **How to actually make caramelized onions — the source's own method, from book p. 255:**
 
-**1. Start with at least 8 thinly sliced onions.** Fewer isn't worth the time; they cook down enormously.
+**1. Start with at least 8 thinly sliced onions.**
 
 **2. Set your largest skillet, or a large Dutch oven, over medium-high heat, and add enough butter, olive oil, or some of each to generously coat the bottom of the pan.** Let the fat heat up until it shimmers before the onions go in (see [§T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)).
 
 **3. Add the onions and season lightly with salt.** The salt draws water out and *delays* browning at first — that's not a mistake, it's the point: it softens the onions and leads to more even browning over the long haul.
 
-**4. Reduce the heat to medium and cook 45 minutes to an hour, stirring as needed.** Keep an eye on them so they don't burn, and so they don't brown too quickly in any one hot spot of the pan. **Don't rush it with high heat** — onions pushed too fast scorch before they sweeten.
+**4. Reduce the heat to medium and cook at least 45 minutes, and up to an hour, stirring as necessary.** Keep an eye on the onions so they don't burn, and so they don't brown too quickly in any one spot of the pan. It'll take a while for them to cook all the way through.
 
 **5. Finish with salt and a splash of red wine vinegar.** When the onions are done, taste and adjust the seasoning with salt and — in the source's own phrase — *"a rumor of red wine vinegar"* to balance out their sweetness. That last acid hit is what keeps a pan of caramelized onions from tasting flatly, cloyingly sweet; see [§T31 How to Use Acid](#t31-how-to-use-acid).
 
@@ -17225,30 +17227,34 @@ A do's-and-don'ts list, straight from the book:
 **Source:** **Samin Nosrat**, ***Salt, Fat, Acid, Heat*** (book p. 282–283), the same book as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§T85 Cooking Onions](#t85-cooking-onions--blond-browned-caramelized). Quinoa rides along on the same chart despite being a seed rather than a true grain — the source's own footnote calls it out as "a pseudograin."
 **Used in:** [§5.49 Persian-ish Rice](#549-persian-ish-rice) (basmati, though that recipe's own par-boil-then-pan-fry method is a different technique built for *tahdig*); [§7.128 Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken)'s Steamed Jasmine Rice serving suggestion, which isn't written up as its own recipe in this cookbook.
 
-**The steam method, condensed from the source's own text.** Steaming — cooked covered in a measured amount of liquid until it's fully absorbed, rather than boiled in excess water and drained — is the source's preferred everyday method, because the grain gets the chance to absorb the flavor of whatever it's cooked in (water, stock, or coconut milk all work). The method is the same regardless of which grain:
+> ✅ **Independently re-verified 2026-09-07 against book pp. 282–283** (file index 23, read at 300 dpi, the chart's nine cells cropped and enlarged one at a time so the cups could be counted). **The steam-method text is confirmed as printed** — boil, salt generously, add the grain, very gentle simmer covered until absorbed and tender, rest covered 10 minutes off the heat, never stir except for risotto, fluff with a fork, 1 cup uncooked rice serves 2 to 3 — and the page's rinsing note and its three standby rices, which the entry had left out, are added. **The ratio chart was wrong in four of nine cells, and the caveat attached to polenta was pointing the wrong way.** Counted cup by cup: **jasmine rice is drawn 1 : 3, not 1 : 2; brown rice 1 : 4, not 1 : 3; steel-cut oats 1 : 4, not 1 : 3; polenta & grits 1 : 4, not 1 : 2** — so the page shows *more* liquid for polenta than convention, not less, and the old "runs low against convention" flag is retired. Sushi rice (1 : 1), quinoa (1 : 2), basmati (1 : 2), and rolled oats (1 : 2) were right. **Arborio does have a cell** — the entry had said it carried no ratio — drawn as one cup of rice and three cups of liquid, two of them the same pale blue as every other water cup and the third a pale khaki the page never labels (see the table). Nothing on the page is illegible; the cell counts are unambiguous at 300 dpi.
+
+**The steam method, condensed from the source's own text.** Steaming is the source's preferred way to cook rice for weeknight dinners, because it's quick and simple, yet the grains have the chance to absorb the flavors of the cooking liquid — water, stock, and coconut milk all work well. Her standbys are basmati, jasmine, and a Japanese variety called *haiga*, milled to preserve its nutritious germ yet cook quickly; the more often you cook rice, the more proficient you'll grow, and the most important variable is getting the right ratio of liquid to grain. **Rinsing:** basmati and jasmine are traditionally rinsed multiple times until the water runs clear, but for a typical weeknight dinner she doesn't usually bother — save the rinsing step for dinner parties. The method is the same regardless of which grain:
 
 **1. Measure liquid to grain by the chart below**, using whatever liquid you like.
-**2. Bring the liquid to a boil, season it generously with salt, and stir in the grain.**
-**3. Reduce to a very gentle simmer, cover, and cook until all the liquid is absorbed and the grains are tender.** Times vary by grain — check the pot toward the end rather than trusting a fixed clock.
-**4. Off the heat, let it rest, covered, for about 10 minutes**, then fluff with a fork before serving.
+**2. Bring the liquid to a boil, season it generously with salt, and add the grain** (or quinoa, which cooks the same way).
+**3. Reduce to a very gentle simmer, cover, and cook until all the liquid has been absorbed and the grains are tender.**
+**4. Let it rest, covered, for 10 minutes after you turn off the heat**, then fluff with a fork before serving.
 
-**Never stir the grain while it cooks** — stirring releases starch and makes it gummy. The one exception, per the source, is **risotto (arborio rice)**, which is "an entirely different story": rather than one measured addition of liquid, hot stock is added gradually, a ladleful at a time, while stirring constantly — the stirring itself is what releases arborio's starch on purpose, building risotto's characteristic creamy texture. Arborio doesn't get a fixed ratio below for that reason; it isn't cooked by the absorption method at all.
+**Never, ever stir rice while it's cooking** — apart from risotto, which the source calls "an entirely different story" and leaves there. *(The page prints nothing more about risotto; the usual method — hot stock added a ladleful at a time while stirring constantly, the stirring deliberately releasing arborio's starch for a creamy texture — is general knowledge, not this page, and is noted here only so the "never stir" rule isn't applied to a risotto.)*
 
 **Rule of thumb for how much to make:** 1 cup of uncooked rice serves 2 to 3 people.
 
-**Grain : water ratios, from the source's own chart** *(a hand-illustrated cup diagram rather than printed numbers — read as closely as the icons allow; verify against the physical page if a ratio looks off, especially polenta, which conventionally wants more liquid than shown here)*:
+**Grain : water ratios, from the source's own chart** *(book p. 283, "grain : water — the perfect ratios": a hand-illustrated diagram of measuring cups rather than printed numbers, one cup of grain and some number of cups of water per cell. Counted cup by cup on 2026-09-07; rows are in the chart's own order, left to right, top to bottom.)*:
 
-| Grain | Ratio (grain : liquid) |
+| Grain | Ratio (grain : liquid), as drawn |
 |---|---|
 | Sushi rice | 1 : 1 |
-| Basmati rice (and other long-grain white rice) | 1 : 2 |
-| Jasmine rice | 1 : 2 |
-| Brown rice | 1 : 3 |
+| Jasmine rice | 1 : 3 |
 | Quinoa | 1 : 2 |
-| Steel-cut oats | 1 : 3 |
+| Basmati rice (and other long-grain white rice) | 1 : 2 |
+| Brown rice | 1 : 4 |
+| Steel-cut oats | 1 : 4 |
 | Rolled oats | 1 : 2 |
-| Polenta / grits | 1 : 2 *(as illustrated — see the caveat above)* |
-| Arborio rice | not a fixed ratio — see the risotto note above |
+| Polenta & grits | 1 : 4 |
+| Arborio rice | 1 : 3 as drawn — one cup of rice, two cups of water-blue liquid, and one cup drawn a pale khaki that the page doesn't label *(read as a third cup of liquid, plausibly stock; the text says only that risotto is "an entirely different story")* |
+
+**Two things worth knowing before trusting the jasmine and arborio rows.** The jasmine cell clearly shows three water cups to one of rice — that is what the page draws, and it is recorded as drawn — but it is a good deal wetter than jasmine is usually cooked, so if a pot comes out soft, that's the row to adjust first, not the method. The arborio row is a reading of an unlabeled drawing rather than a printed number; treat it as the chart's suggestion, not a rule.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -9807,6 +9807,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
 
+> ✅ **2026-09-07 second-pass QC against Cody's photo of p. 247 (full-resolution crop): verified.** All nine ingredient lines, the "makes about 1½ cups" yield, the mortar-and-pestle step, the two ways of building the dressing, the hand-tossed salad with torn croutons, the 3-day storage line and the list of ideal greens all match. One fix: the torn-crouton method in the note below is **not on this page** — the page only names "Torn Croutons" as a separate recipe elsewhere in the book — so that note is now marked as cookbook gloss rather than "per the source."
+
 #### A. Ingredients
 
 - 4 salt-packed anchovies (or 8 fillets), soaked and filleted
@@ -9837,7 +9839,7 @@ Alternatively — and this is the technique [§T29 How to Salt](#t29-how-to-salt
 **4. Toss the salad by hand — greens and croutons together.**
 To make the salad, use your hands (not tongs or salad servers) to toss the greens **and the torn croutons** with an abundant amount of dressing in a large bowl, coating everything evenly — hands can feel where the dressing hasn't reached in a way tongs can't. The croutons go in with the greens and get dressed along with them; they aren't a garnish scattered on at the end. Garnish with Parmesan and freshly ground black pepper and serve immediately.
 
-> **Torn croutons, and how to make them.** Per the source, the croutons for this salad are *torn* — bread pulled into rough, irregular pieces rather than cut into neat cubes — so the jagged edges crisp unevenly and grab more dressing, which is exactly why they go in *with* the greens rather than sprinkled over the top. Tear a sturdy loaf (day-old is ideal) into bite-sized craggy pieces, toss them with enough olive oil to coat lightly and a pinch of salt, spread them on a sheet pan, and toast at 400°F for 15–20 minutes, tossing once, until golden and crisp outside but still with a little chew in the middle. Good store-bought croutons work fine too. *(Corrected 2026-09-06 from the photograph — the entry previously had the greens tossed alone, with the croutons mentioned only in this note.)*
+> **Torn croutons, and how to make them** *(cookbook gloss — the page names "Torn Croutons" as one of the book's own recipes, which is not among the photographed pages; the method here is this cookbook's, not the source's)*. Torn croutons are bread pulled into rough, irregular pieces rather than cut into neat cubes — the jagged edges crisp unevenly and grab more dressing, which is why they go in *with* the greens rather than sprinkled over the top. Tear a sturdy loaf (day-old is ideal) into bite-sized craggy pieces, toss them with enough olive oil to coat lightly and a pinch of salt, spread them on a sheet pan, and toast at 400°F for 15–20 minutes, tossing once, until golden and crisp outside but still with a little chew in the middle. Good store-bought croutons work fine too. *(Corrected 2026-09-06 from the photograph — the entry previously had the greens tossed alone, with the croutons mentioned only in this note.)*
 
 Refrigerate leftover dressing, covered, for up to 3 days.
 
@@ -36565,6 +36567,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~1 hr 10 min** *(mostly a low simmer)* · **Start to finish ~1 hr 30 min**
 
+> ✅ **2026-09-07 second-pass QC against Cody's photo of pp. 332–333 (full-resolution column crops).** All eleven ingredient lines, the yield, every time (4 min per side, 12 min vegetables, 20 sec garlic, 12 min breasts, 50 min total), the 5-day/2-month storage line and all four variations match. Three fixes: Step 3's doneness cue was "lightly golden" where the page prints **soft and golden brown**; Step 2 had the chicken going in "skin-side down," which the page does not say; and the Pho Gà grocery line said "Thai basil" where the page says only **fresh basil**. The quartering description in Step 1 (the page points to its own p. 318, not photographed) and the garlic-turns-bitter aside in Step 5 are now marked as cookbook gloss.
+
 #### A. Ingredients
 
 - 4-lb chicken, quartered; or 4 large chicken legs and thighs
@@ -36582,22 +36586,22 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 #### B. Cooking Instructions
 
 **1. Season the chicken ahead, if you can.**
-If starting from a whole bird, quarter it into two leg-thigh pieces and two breast pieces, and save the backbone and wingtips for your next batch of stock. Season generously all over with salt and freshly ground black pepper — ideally the night before, since salt needs time to work its way into the meat rather than just sitting on the surface, but even an hour ahead on the counter beats seasoning right before it hits the pot. Refrigerate the chicken if salting more than an hour ahead; otherwise leave it out at room temperature.
+If starting from a whole bird, quarter it (the page points to the book's own quartering instructions on its p. 318, which is not photographed — *cookbook gloss:* that means two leg-thigh pieces and two breast pieces) and save the carcass for your next batch of stock. Season generously all over with salt and freshly ground black pepper — ideally the night before, since salt needs time to work its way into the meat rather than just sitting on the surface, but even an hour ahead on the counter beats seasoning right before it hits the pot. Refrigerate the chicken if salting more than an hour ahead; otherwise leave it out at room temperature.
 
 **2. Brown the chicken in two batches. About 4 minutes per side.**
-Heat an 8-quart Dutch oven (a large, heavy, lidded pot — enameled cast iron is ideal) over high heat and add enough olive oil to coat the bottom. Wait until the oil shimmers — it looks thin and rippled, almost like heat waves over pavement, which is the visual cue that it's hot enough to sear the chicken rather than just steam it. Add half the chicken, skin-side down, and brown thoroughly, about 4 minutes per side, then remove and set aside. Repeat with the rest. Working in two batches (instead of crowding it all in at once) keeps the pot hot enough to actually brown the skin instead of just graying it.
+Heat an 8-quart Dutch oven (a large, heavy, lidded pot — enameled cast iron is ideal) over high heat and add enough olive oil to coat the bottom. Wait until the oil shimmers — it looks thin and rippled, almost like heat waves over pavement, which is the visual cue that it's hot enough to sear the chicken rather than just steam it. Add half the chicken pieces and brown thoroughly, about 4 minutes per side, then remove and set aside. Repeat with the rest. *(Cookbook gloss: working in two batches instead of crowding it all in keeps the pot hot enough to actually brown the skin instead of just graying it.)*
 
 **3. Sweat the vegetables in the rendered fat. About 12 minutes.**
-Carefully pour off most of the fat left in the pot. Return it to the stove over medium-low heat, add the onions, carrots, celery, and bay leaves, and cook, stirring occasionally, until soft and lightly golden, about 12 minutes.
+Carefully tip most of the fat out of the pot. Return it to the stove and reduce the heat to medium-low, add the onions, carrots, celery, and bay leaves, and cook until soft and golden brown, about 12 minutes. *(Doneness cue corrected 2026-09-07 — the page says "golden brown," not "lightly golden.")*
 
 **4. Add the chicken back with the stock, and bring to a simmer.**
 Return the browned chicken to the pot along with the 10 cups stock (or water), salt, pepper, and the Parmesan rind if using. Bring to a boil, then drop the heat back down to a simmer.
 
 **5. Bloom the garlic separately, then stir it in.**
-In a small frying pan over medium heat, add enough olive oil to coat the bottom, then add the sliced garlic. Sizzle it gently for about 20 seconds — just until it smells fragrant. Don't let it take on any color, or it turns bitter instead of sweet. Scrape the garlic and its oil into the soup and let the simmer continue.
+In a small frying pan over medium heat, add enough olive oil to coat the bottom, then add the sliced garlic. Sizzle it gently for about 20 seconds — just until it gives off an aroma. Don't let it take on any color *(cookbook gloss: browned garlic turns bitter)*. Add the garlic and its oil to the soup and continue to simmer.
 
 **6. Simmer until tender. Breasts about 12 minutes more; legs and thighs about 50 minutes total.**
-If breasts are in the pot, pull them out after about 12 minutes so they don't dry out, and let everything else keep simmering. Legs and thighs are more forgiving and want closer to 50 minutes total (counting from when the pot first came to a simmer in Step 4) until they're fall-apart tender. Turn off the heat once the chicken's done, and skim the fat from the surface of the broth with a large spoon.
+If breasts are in the pot, pull them out after about 12 minutes so they don't dry out, and let everything else keep simmering. Legs and thighs are more forgiving and want closer to 50 minutes total until they're tender *(cookbook gloss: count from when the pot first came to a simmer in Step 4 — the page just says "about 50 minutes total")*. Turn off the heat once the chicken's done, and skim the fat from the surface of the broth with a large spoon.
 
 **7. Shred the chicken and return it to the pot.**
 Pull the chicken out and let it cool until it's safe to handle. Pick the meat off the bones and shred it with your fingers or two forks; discard the bones (and the skin, if you'd rather — though it's worth finely chopping and stirring it back in for extra richness). Return the shredded meat to the broth, taste, and adjust the salt. Serve hot.
@@ -36606,7 +36610,7 @@ Refrigerate, covered, up to 5 days, or freeze up to 2 months.
 
 > **Variation — Spring Garlic Soup.** For a more delicate soup, skip the 20 garlic cloves. Instead, stew 6 stalks of thinly sliced green garlic (young garlic pulled before the bulb fully forms — milder and closer in flavor to a scallion than a mature clove) along with the onion, carrot, celery, and bay leaves back in Step 3.
 
-> **Variation — *Pho Gà* (Vietnamese Chicken Soup).** Skip the onion, carrot, celery, bay leaves, black pepper, and garlic entirely. Instead, char 2 peeled yellow onions and a 4-inch piece of ginger directly over a gas burner for about 5 minutes, or under the broiler, until the skins blacken — the char is where the flavor comes from, so don't skip it or cut it short. Add the charred onion and ginger to the broth along with ¼ cup fish sauce, 1 star anise, and 2 tablespoons brown sugar, then cook the chicken in this broth exactly as in Steps 2–6, about 50 minutes total. Discard the onion and ginger, shred the chicken, and return it to the pot as in Step 7. Pour the finished broth over rice noodles and top with fresh basil and bean sprouts. *(A different chicken pho from [§1 Cody's Pho](#1-codys-pho)'s beef version — same idea, different protein and broth build; [§1](#1-codys-pho)'s established chuck-roast/sous-vide facts are about the beef pho and don't apply here.)*
+> **Variation — *Pho Gà* (Vietnamese Chicken Soup).** Skip the onion, carrot, celery, bay leaves, black pepper, and garlic entirely. Instead, char 2 peeled yellow onions and a 4-inch piece of ginger directly over a gas burner for about 5 minutes, or under the broiler — the page's own aside is that the charred skins are full of flavor, so don't skip the char. Add the charred onion and ginger to the broth along with ¼ cup fish sauce, 1 star anise, and 2 tablespoons brown sugar, then cook the chicken in this broth exactly as in Steps 2–6, about 50 minutes total. Discard the onion and ginger, shred the chicken, and return it to the pot as in Step 7. Pour the finished broth over rice noodles and top with fresh basil and bean sprouts. *(A different chicken pho from [§1 Cody's Pho](#1-codys-pho)'s beef version — same idea, different protein and broth build; [§1](#1-codys-pho)'s established chuck-roast/sous-vide facts are about the beef pho and don't apply here.)*
 
 > **To add heartiness:** stir in cooked rice, pasta, rice noodles, beans, barley, or farro.
 
@@ -36620,7 +36624,7 @@ Refrigerate, covered, up to 5 days, or freeze up to 2 months.
 - ☯️ Fish sauce — ¼ cup
 - ☯️ Star anise — 1
 - ☯️ Rice noodles
-- ☯️ Fresh Thai basil
+- ☯️ Fresh basil *(the page says only "fresh basil"; Thai basil is the usual pho choice — cookbook gloss)*
 - ☯️ Bean sprouts
 
 **🛒 General grocery**
@@ -36660,6 +36664,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 > ⚠️ **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test — can a step go from perfect to ruined? — this one genuinely can. The source is explicit: pour the egg in too fast or stir too hard, and instead of wide, silky ribbons, the egg "breaks up into tiny, unappetizing bits." It's a small, fast window (about 30 seconds), but a real one — not a hands-off soup like most of the rest of this section.
 
+> ✅ **2026-09-07 second-pass QC against Cody's photo of p. 273 (full-resolution crop): verified.** All six ingredient lines (including the page's own ¾-ounce / ¾-cup Parmesan line, re-read again and left as printed), the 10-cup / serves-4-to-6 yield, the measuring-cup-with-a-spout tip, the thin-stream-and-fork method, the 30-second finish, and the 3-day reheat-to-a-simmer line all match. No change to the food; three unprinted asides (heat level under the stock pot, "doesn't hold well once plated," and the hard-boil-toughens-egg reason) are now marked as cookbook gloss.
+
 #### A. Ingredients
 
 - 9 cups chicken stock *(store-bought, homemade, or see [§T12](#t12-fast-homemade-chicken-broth)/[§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood))*
@@ -36674,7 +36680,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 #### B. Cooking Instructions
 
 **1. Bring the stock to a simmer and season it.**
-In a medium pot, bring the stock to a simmer over medium heat and season with salt.
+In a medium pot, bring the stock to a simmer and season with salt. *(The page doesn't name a heat level; medium is a sensible default — cookbook gloss.)*
 
 **2. Whisk the egg mixture.**
 In a liquid measuring cup with a spout (a medium bowl also works, though the spout makes the next step easier), whisk together the eggs, a generous pinch of salt, the pepper, grated Parmesan, and parsley.
@@ -36686,9 +36692,9 @@ With the stock at a steady, gentle simmer, pour the egg mixture in slowly, in a 
 Once all the egg is in, let it cook for about 30 seconds more, just until it's set into ribbons — then it's done.
 
 **5. Ladle, garnish, and serve immediately.**
-Ladle into bowls, garnish with more Parmesan, and serve right away. Stracciatella doesn't hold well once it's plated — the ribbons keep firming up the longer it sits.
+Ladle into bowls, garnish with more Parmesan, and serve immediately. *(Cookbook gloss: the ribbons keep firming up the longer it sits, which is why the page says immediately.)*
 
-Cover and refrigerate leftovers up to 3 days. To reheat, bring gently back to a simmer rather than a hard boil, which would toughen the egg ribbons.
+Cover and refrigerate leftovers up to 3 days. To reheat, gently return the soup to a simmer *(cookbook gloss: not a hard boil, which would toughen the egg ribbons)*.
 
 #### C. Grocery Shopping List
 
@@ -36723,6 +36729,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **🟢 Easy** · **Prep ~25 min** · **Cook ~55 min** · **Start to finish ~1 hr 20 min**
 
+> ✅ **2026-09-07 second-pass QC against Cody's photo of pp. 276–277 (full-resolution column crops).** All four ingredient lines, the 10-cup / serves-6-to-8 yield, every time (10-minute cob stock, 20-minute onions, 3-to-4-minute sauté, 15-minute simmer), the kitchen-towel-in-a-bowl trick, both variations, the two named garnishes and the "turn the page" pointer all match. One small omission fixed in Step 4: after the stock goes in, the page says to **crank the heat up to high** before the boil. The blender-safety paragraph in Step 5 is now marked as cookbook gloss — the page says only to work carefully and quickly in batches.
+
 #### A. Ingredients
 
 - 8 to 10 ears corn, husks, stalks, and silk removed
@@ -36742,10 +36750,10 @@ In a soup pot, cover the cobs with 9 cups water and bring to a boil. Reduce the 
 Return the pot to the stove over medium heat and add the butter. Once it's melted, add the onions and drop the heat to medium-low. Cook, stirring occasionally, until the onions are completely soft and translucent — or **blond**, meaning pale golden rather than actually browned (a different use of the word than a dark roux, which this soup has nothing to do with) — about 20 minutes. If the onions start to brown instead of just going translucent, add a splash of water and keep an eye on things, stirring more frequently, to stop the browning.
 
 **4. Sauté the corn, then add stock and simmer. 3 to 4 minutes, then 15 minutes.**
-Once the onions are tender, add the corn kernels, raise the heat to high, and sauté just until the corn turns a brighter shade of yellow, 3 to 4 minutes. Add just enough of the cob stock to cover everything (save the rest in case the soup needs thinning later), season with salt, taste, and adjust. Bring to a boil, then drop to a simmer for 15 minutes.
+Once the onions are tender, add the corn kernels, raise the heat to high, and sauté just until the corn turns a brighter shade of yellow, 3 to 4 minutes. Add just enough of the cob stock to cover everything and crank the heat up to high (save the rest of the stock in case the soup needs thinning later). Season with salt, taste, and adjust. Bring to a boil, then drop to a simmer for 15 minutes.
 
 **5. Purée until silky.**
-If you have an immersion blender (a handheld blender you lower directly into the pot, rather than transferring soup to a countertop blender jar), use it to carefully blend the soup right in the pot until smooth. **If you don't have one, work in batches in a countertop blender or food processor instead of trying to blend the whole hot potful at once** — fill the jar no more than halfway, remove the center cap from the lid and cover the opening loosely with a folded kitchen towel instead (hot liquid expands and can blow the lid off a fully sealed blender), and hold the lid down firmly while starting on the lowest speed. For an extra-silky texture, strain the puréed soup one more time through a fine-mesh sieve (a strainer with very small holes) to catch any remaining bits of corn fiber.
+If you have an immersion blender (a handheld blender you lower directly into the pot, rather than transferring soup to a countertop blender jar), use it to carefully blend the soup right in the pot until smooth. **If you don't have one, work carefully and quickly to purée it in batches in a countertop blender or food processor.** *(The rest of this paragraph is cookbook gloss on blending hot liquid safely; the page says only "carefully and quickly," in batches.)* Fill the jar no more than halfway, remove the center cap from the lid and cover the opening loosely with a folded kitchen towel instead (hot liquid expands and can blow the lid off a fully sealed blender), and hold the lid down firmly while starting on the lowest speed. For an extra-silky texture, strain the puréed soup one more time through a fine-mesh sieve (a strainer with very small holes) to catch any remaining bits of corn fiber.
 
 **6. Taste for balance, then serve — chilled with salsa, or hot with an acidic garnish.**
 Taste the soup for salt, sweetness, and acid balance. If it tastes very flatly sweet, a tiny bit of white wine vinegar or lime juice will balance it out. To serve, go one of two ways: either ladle the soup chilled into bowls and spoon salsa over it to garnish, or quickly bring the soup back to a boil and serve it hot with an acidic garnish. The source names two by name — its **Mexican-ish Herb Salsa** (source p. 363) or its **Indian Coconut-Cilantro Chutney** (source p. 368) — and this cookbook's own [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) works the same way: the point is a bright, acidic spoonful cutting the corn's sweetness, not any one particular salsa.

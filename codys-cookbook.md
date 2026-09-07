@@ -35230,17 +35230,17 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. F
 
 #### A. Ingredients
 
-- 3 Tbsp lard
-- 3 Tbsp flour
+- 3 large spoons lard *(as printed — a "large spoon" here is a heaping tablespoon, give or take)*
+- 3 spoons flour *(as printed)*
 - 1 large onion, chopped
-- 2–3 cloves garlic, chopped
+- 2–3 pods garlic, chopped
 - ½ bell pepper, chopped
 - 3 qt water
 - Salt, red pepper, black pepper, to taste
 - 1 can fresh claw crabmeat
 - Several whole crabs, cleaned
-- 1 lb peeled shrimp
-- Oysters and their liquid
+- 1 lb peeled raw shrimp *("one or more pounds," per the instructions)*
+- 1 pt oysters and their liquid *(the list prints only "oysters and liquid"; the instructions name a pint)*
 - ½ cup chopped parsley
 - 3–4 chopped green onions
 - Gumbo filé (filé powder), for the table
@@ -35254,16 +35254,20 @@ See [§T1](#t1-how-to-make-a-roux) for the technique.
 
 **3. Add the water gradually, stirring as you pour. Season well.**
 
-**4. Add the crabmeat and whole crabs. Simmer about an hour.**
+**4. Add the crabmeat and whole crabs. Cook about an hour.**
 Add the canned crabmeat and the cleaned whole crabs and cook.
 
-**5. Add the shrimp and cook until done.**
-*(The source's own timing note here is a little garbled on the page — read as roughly 15 minutes for the shrimp and roughly 30 minutes for the oysters before serving; see Open Questions.)*
+**5. Add the shrimp and the oyster liquid. Cook until the shrimp are done.**
+The raw peeled shrimp go in along with the liquid drained from the pint of oysters — the oysters themselves wait.
 
-**6. Add the oysters and their liquid.**
+**6. Add the parsley and green onions about 30 minutes before serving.**
 
-**7. Finish with parsley and green onions, then serve over rice.**
+**7. Add the oysters about 15 minutes before serving.**
+
+**8. Serve over rice, with filé at the table.**
 Be sure to have a bottle of fresh filé on hand so each person can add their own.
+
+✅ *Re-verified against the photo, 2026-09-07:* the old "garbled timing" flag is retired — the page reads cleanly, and this entry had it wrong. The printed sequence is: shrimp **and the oyster liquid** after the crabs' hour; parsley and green onions **30 minutes** before serving; the oysters themselves **15 minutes** before serving. The entry had the oysters and their liquid going in together and the herbs last. The fat and flour are printed as "3 large spoons" and "3 spoons," not tablespoons — now stated as printed.
 
 > **Per the source, on freezing:** this freezes well — but don't freeze the gumbo with oysters already in it. Add fresh oysters when reheating to serve.
 
@@ -35271,15 +35275,15 @@ Be sure to have a bottle of fresh filé on hand so each person can add their own
 
 **🛒 General grocery**
 
-- 🛒 Lard — 3 Tbsp
-- 🛒 All-purpose flour — 3 Tbsp
+- 🛒 Lard — 3 large spoons (about 3 heaping Tbsp)
+- 🛒 All-purpose flour — 3 spoons (about 3 Tbsp)
 - 🛒 Onion — 1 large
-- 🛒 Garlic — 2–3 cloves
+- 🛒 Garlic — 2–3 pods
 - 🛒 Bell pepper — ½
 - 🛒 Canned fresh claw crabmeat — 1 can
 - 🛒 Whole crabs, cleaned — several
-- 🛒 Shrimp, peeled — 1 lb
-- 🛒 Oysters and their liquid
+- 🛒 Raw shrimp, peeled — 1 lb or more
+- 🛒 Oysters and their liquid — 1 pt
 - 🛒 Fresh parsley — ½ cup
 - 🛒 Green onions — 3–4, chopped
 - 🛒 Gumbo filé (filé powder) — for the table
@@ -35297,7 +35301,6 @@ Be sure to have a bottle of fresh filé on hand so each person can add their own
 #### D. Open Questions
 
 - **No serving count given** — 7 is Claude's estimate.
-- **The exact order and timing of the shrimp, oysters, parsley, and green onions going in is unclear from the photographed page** — the instructions read as somewhat repetitive/garbled in that section. Written up as the most sensible reading rather than presented as a confirmed transcription; worth Cody confirming against the actual card if he still has it.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -35344,12 +35347,17 @@ Add enough water to cover, and simmer, stirring occasionally and adding water if
 Add mustard, Lea & Perrins sauce, and Tabasco sauce. The soup will be thin at this point, but will thicken as the rest of the ingredients go in.
 
 **6. Mash the egg yolks into the soup to thicken it.**
-Separate the hard-boiled eggs. When the turtle meat has cooked down, mash the yolks and add to the soup — this is what thickens it. Add a few of the onion tops and season again.
+Separate the hard-boiled eggs. When the turtle meat has cooked down and is falling off the bones, mash the yolks and add to the soup — this is what thickens it. Chop the whites finely and set them aside for the end.
 
-**7. Finish with egg whites, parsley, and the rest of the onion tops.**
-Chop the egg whites finely and add them shortly before serving, along with the parsley and remaining onion tops.
+**7. Season with lemon peel, salt, and pepper; add a few onion tops and cook down until fairly thick.**
+Add the lemon peel, salt, and pepper to season. Add a few of the onion tops and keep cooking until the soup is fairly thick.
 
-**8. Add sherry to taste and serve.**
+**8. Finish with egg whites, parsley, and the rest of the onion tops.**
+Shortly before serving, add the chopped egg whites, the parsley, and the remaining onion tops.
+
+**9. Add sherry to taste and serve.**
+
+✅ *Re-verified against the p. 70 photo, 2026-09-07:* the lemon peel — in the ingredient list all along — had never made it into the steps; it goes in with the salt and pepper after the yolks. The page's "cook down until the soup is fairly thick" cue and its "meat will cook down and fall off the bones" note are restored. All quantities and the ~1 hr simmer match.
 
 #### C. Grocery Shopping List
 

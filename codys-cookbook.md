@@ -203,6 +203,7 @@ Click any recipe to jump straight to it.
   - [4.182 Basic Pepper Paste](#4182-basic-pepper-paste) ✅ *(Salt, Fat, Acid, Heat; recovered 2026-09-06 — carries the source's "Pepper Sauce" section intro, and closes the standing gap at [§4.163 Rouille](#4163-rouille-pepper-mayonnaise))*
   - [4.183 Ketjap Butter](#4183-ketjap-butter) ✅ *(Raichlen, The Barbecue! Bible p. 509, Indonesia — a two-ingredient sweet-soy butter baste for grilled fish; added 2026-09-07)*
   - [4.184 Mexican Fish Baste](#4184-mexican-fish-baste) ✅ *(Raichlen, The Barbecue! Bible p. 509, Mexico — sour orange or lime, salt, garlic; no cooking; added 2026-09-07)*
+  - [4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce) ✅ *(The Meathead Method p. 175 — the sauce for [§7.130 Beef Back Ribs](#7130-beef-back-ribs) and a dip for [§7.139](#7139-extra-crispy-chicken-wings-without-frying); distinct from the earlier book's [§4.175](#4175-teriyaki-sauce); added 2026-09-07 from the reshoot)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -1170,6 +1171,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.121 Texas Mop Sauce](#4121-texas-mop-sauce) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) | 🟢 | 10 min | 20 min | — | under 1 hr *(printed TAKES)* |
 | [§4.175 Teriyaki Sauce](#4175-teriyaki-sauce) *(Meathead)* | 🟢 | 10 min | 20 min | — | 30 min |
+| [§4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce) *(The Meathead Method)* | 🟢 | 10 min | 20 min | — | 45 min *(as printed — includes cooling before straining)* |
 | [§4.170 Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) | 🟡 | 10 min | 20 min | — | 30 min *(better after resting overnight)* |
 | [§4.178 Kansas City Red](#4178-kansas-city-red) *(The Meathead Method)* | 🟡 | 5 min | 25 min | — | 30 min |
 | [§7.93 Baja Fish Tacos](#793-baja-fish-tacos) *(Meathead)* | 🟢 | 20 min | 10 min | — | 45 min |
@@ -12432,6 +12434,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **A note on the name — settled 2026-09-07, same as [§4.117](#4117-kansas-city-classic-barbecue-sauce).** This recipe's red title box and the opening of its headnote sit on book **p. 183**, which wasn't among the photographed pages, and **Cody isn't chasing it — so "Teriyaki Sauce" is this cookbook's own working title and it stays.** It's a fair description: the surviving headnote text defines the recipe in exactly those words. The book's own cross-reference is to its Hawaiian Huli-Huli Teriyaki Chicken, which isn't in this cookbook. **Everything from "MAKES about 3 cups" onward is transcribed directly and confidently** from the visible page, so the sauce is complete and cookable as written.
 
+> **Not to be confused with [§4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce)** — the *later* book's (*The Meathead Method*, p. 175) different, thicker, cornstarch-bound teriyaki, added 2026-09-07. When a *Meathead Method* recipe says "Teriyaki (page 175)," it means that one, not this.
+
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety) · [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
 **No added salt — as printed.** The soy sauce and Worcestershire carry all the sodium this sauce needs; [CLAUDE.md §3a](CLAUDE.md)'s heavier-salt preference is scoped to the standalone brines at [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection) and doesn't apply here.
@@ -13176,6 +13180,83 @@ That's the whole recipe. Two teaspoons of salt in half a cup of juice is a lot �
 **What a serving is:** a tablespoon, brushed over one portion of fish — and most of it doesn't stay on. *Effectively calorie-free; the thing to know is the salt: roughly 580 mg of sodium per tablespoon as mixed, though far less lands on the plate.*
 
 ✅ 2026-09-07 transcribed and verified against photo of p. 509
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.185 Teriyaki Brinerade and Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Marinades, Brinerades, Vinaigrettes, Injections" chapter (book p. 175). Per the source's headnote: there are numerous formulae for this classic sauce; his has a few more ingredients than most, but it makes both a sterling brinerade *and* a sauce. The book uses it on its **Beef Back Ribs** — this cookbook's [§7.130](#7130-beef-back-ribs) — and on its Mushroom Sandwiches with Teriyaki Sauce (book p. 356, not in this cookbook); [§7.139 Extra Crispy Chicken Wings](#7139-extra-crispy-chicken-wings-without-frying) names it as a dipping sauce too.
+
+> **"Brinerade" — the author's own word, glossed here:** a marinade salty enough to work as a brine, so the salt does the real penetrating and moisture-holding work ([§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)) while the flavorings ride along on the surface ([§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)). Here the soy sauce is the salt. *(Cookbook gloss — the page uses the term without defining it; [§4.101 Basic Brinerade](#4101-basic-brinerade) is the earlier book's version of the same idea.)*
+
+> **Not the same recipe as [§4.175 Teriyaki Sauce](#4175-teriyaki-sauce).** That one is from the author's *earlier* book (*Meathead: The Science of Great Barbecue and Grilling*, p. 184): eleven ingredients, pineapple juice, Sriracha, Worcestershire, simmered about 10 minutes and left thin. **This one is the later book's**: eight ingredients, orange juice and rice vinegar instead of pineapple, thickened with a cornstarch slurry and reduced 15 minutes to the thickness of cream, and strained. Both stay; use this one wherever *The Meathead Method* says "Teriyaki Brinerade and Sauce" or "Teriyaki (page 175)."
+
+**Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
+
+**No added salt — as printed.** The cup of soy sauce is the salt, and it concentrates as the sauce reduces; nothing is added here.
+
+**Makes a bit less than 3 cups · Takes 45 minutes** *(as printed)*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~20 min** *(bring to a boil, then a 15-minute simmer)* · **Start to finish ~45 min** *(as printed — includes cooling before straining)*
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — grate, press, stir, simmer to "the thickness of cream," strain. A sugar-and-soy sauce *can* scorch if it's boiled hard and forgotten, so keep it at a simmer, but that's attention, not technique.
+
+#### A. Ingredients
+
+- 1-inch finger of fresh ginger
+- 4 garlic cloves
+- 1 teaspoon cornstarch
+- 1 cup soy sauce
+- ¾ cup mirin
+- ¼ cup orange juice
+- ¼ cup unseasoned rice vinegar
+- ½ cup packed brown sugar
+
+*Plus 2 tablespoons water, for the cornstarch slurry (Step 1).*
+
+#### B. Cooking Instructions
+
+**1. Prep.**
+Peel and finely grate the ginger. Peel and press the garlic. In a small cup, stir the cornstarch into 2 tablespoons water — that's the slurry; it goes in with everything else so the starch can't clump *(the why is cookbook gloss; the page just says stir it into the water)*.
+
+**2. Cook. About 15 minutes at a simmer.**
+In a saucepan, combine the ginger, garlic, soy sauce, mirin, orange juice, vinegar, brown sugar, and cornstarch slurry. Bring it to a boil. Reduce to a simmer and cook until it reduces to **the thickness of cream, about 15 minutes.**
+
+**3. Store.**
+Remove from the heat and let it cool. **Strain out the solids** and store in the fridge in an airtight jar.
+
+> **Using it as a brinerade vs. as a sauce.** The page's headnote is the only instruction: it's both. As a brinerade, it goes on raw meat ahead of cooking and most of it stays in the bag; as a sauce, it's brushed on at the end or served alongside, per [§T50](#t50-saucing-strategies--when-how-much-and-food-safety). **Never serve a portion that raw meat sat in** — divide it first *(cookbook safety gloss, not the page's)*.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Soy sauce — 1 cup
+- ☯️ Mirin — ¾ cup
+- ☯️ Unseasoned rice vinegar — ¼ cup
+
+**🛒 General grocery**
+
+- 🛒 Fresh ginger — a 1-inch piece
+- 🛒 Garlic — 4 cloves
+- 🛒 Cornstarch — 1 tsp
+- 🛒 Orange juice — ¼ cup *(or 1 orange to squeeze)*
+- 🛒 Brown sugar — ½ cup, packed
+
+#### Nutrition *(estimated)*
+
+*Counted on the strained sauce — the ginger and garlic solids come out at Step 3. Mirin varies a lot by brand in sugar; this uses a typical sweetened cooking mirin. When used as a brinerade rather than a sauce, only a fraction of this ends up on the plate.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(a bit less than 3 cups, as printed)* | ~1,000 | 0 g | 22 g | 220 g | 0.5 g |
+| **Per serving** *(2 Tbsp, of about 22)* | ~45 | 0 g | 1 g | 10 g | 0 g |
+
+**What a serving is:** 2 tablespoons brushed over a serving of ribs or wings, or spooned alongside for dipping — it's a glaze, not a gravy. Roughly 1,400 mg of sodium per serving from the soy sauce, which is the thing to know.
+
+✅ 2026-09-07 transcribed and verified against reshoot of p. 175 — the page prints the whole recipe (headnote, MAKES/TAKES, eight ingredients, three steps); nothing runs onto another page.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -32229,7 +32310,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 - 1 teaspoon Morton Coarse Kosher Salt
 - 1 rack beef back ribs (6 to 7 bones)
 - 2 teaspoons [Red Meat Rub](#4165-red-meat-rub)
-- [Teriyaki Brinerade and Sauce](#4101-basic-brinerade) or [Tare Sauce](#4173-lexington-dip-2) *(optional, for serving)*
+- [Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce) *(§4.185 — documented 2026-09-07)* or Tare Sauce *(book p. 203–204; still incomplete — see [§12](#12-recipes-to-document))* *(optional, for serving)*
 
 #### B. Cooking Instructions
 
@@ -32245,7 +32326,7 @@ Add the whole slab, bone side down. Cooking a whole slab takes time, but cutting
 **4. Serve.**
 Carve these ribs differently than normal: run the knife along the bone on *one* side only, so one side of each bone has no meat and the other side carries twice as much as it would if you'd cut down the middle between bones. Meathead calls this the "Cadillac cut." Have lots of napkins on hand.
 
-*Note: the source says the ribs are good by themselves or with Teriyaki Brinerade and Sauce or Tare Sauce ("I know, that sounds like heresy. Just try it"). Neither sauce is in this cookbook yet.*
+*Note: the source says the ribs are good by themselves or with Teriyaki Brinerade and Sauce or Tare Sauce ("I know, that sounds like heresy. Just try it"). The teriyaki is now [§4.185](#4185-teriyaki-brinerade-and-sauce) — its own page names these ribs as the place to try it; Tare Sauce is still waiting on book p. 204.*
 
 ✅ 2026-09-07 second-pass QC against pp. 220–221: dry brine corrected to 2 hr (was 3), internal target to 190–203°F (was 210), doneness cue and Cadillac-cut description rewritten to match the page, MAKES/TAKES line added.
 
@@ -33084,7 +33165,7 @@ Move the wings to direct heat, lid open, and sear both sides until the internal 
 
 #### D. Open Questions
 
-- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). **Two of the five are now in this cookbook:** Alabama White Sauce at [§4.172](#4172-alabama-white-sauce), and — **as of 2026-09-06, once Cody photographed book pp. 180 and 182** — Kansas City Red at [§4.178](#4178-kansas-city-red). The remaining three (Teriyaki, Tare, Thai Sweet Chile Sauce) aren't yet transcribed; their pages have never been photographed. Noted rather than invented.
+- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). **Three of the five are now in this cookbook:** Alabama White Sauce at [§4.172](#4172-alabama-white-sauce); — **as of 2026-09-06, once Cody photographed book pp. 180 and 182** — Kansas City Red at [§4.178](#4178-kansas-city-red); and — **as of 2026-09-07, from the reshoot of p. 175** — Teriyaki Brinerade and Sauce at [§4.185](#4185-teriyaki-brinerade-and-sauce). The remaining two are half-photographed: **Tare Sauce** has p. 203 (headnote, MAKES/TAKES, all ten ingredients, Step 1) but needs **p. 204**; **Thai Sweet Chile Sauce** has only its p. 200 headnote and needs **p. 201**. Tracked in [§12](#12-recipes-to-document); noted rather than invented.
 
 [↑ Table of Contents](#table-of-contents)
 

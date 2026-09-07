@@ -16919,13 +16919,19 @@ Sitting on top of the eye of the ribeye is the **rib cap** — shaped like a lar
 **Source:** **Meathead Goldwyn**, same book and chapter (book p. 258–259).
 **Used in:** [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket); complements [§T40 The Fat Cap — Trim or Not](#t40-the-fat-cap--trim-or-not), which already covers how much fat to leave on.
 
-**Brisket is the pectoral muscle group of the steer**, one per side, and because cattle have no collarbone, these muscles carry a lot of the animal's weight — which is exactly why they're loaded with tough connective tissue. That tissue only breaks down properly under low, slow heat; it's also why brisket makes good corned beef or pastrami, and why it's required at Kansas City barbecue competitions.
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 258–259 (second-pass QC).** The 8-to-16-pound packer, the up-to-1-inch fat cap, the Choice/Prime/Wagyu buying rule, and the corned-beef warning are as printed. **One description was invented:** "the flat is rectangular, the point is oval" — the page says *the flat is pointy and the point is oval. Go figure.* Struck and restated. The other side of the packer is *pretty close to fat-free*, not "none." Printed content the entry lacked is added: the pectorals bear **about 60 percent** of the animal's weight; the three cuts a butcher offers (whole packer; flat, or first cut; point, or second cut or deckle) each need to be cooked differently; the fat-free side may carry tough silverskin that must be removed; the flat runs **¼ inch to about 1½ inches** thick and the point **more than 4 inches**; the diagram's muscle names (*pectoralis profundus* is the point, *pectoralis superficialis* the flat); and the page's shopping instruction to handpick the slab with the most marbling and treat an unlabeled one as Select. Nothing illegible.
 
-**A whole packer brisket weighs 8 to 16 pounds** and comes vacuum-sealed with a fat cap up to 1 inch thick on one side and none on the other. It contains **two distinct muscles**: a long, flat, lean one called the **flat**, and a smaller, thicker, fattier one called the **point**, sitting on top of part of the flat. Cross-section shape is the tell — the flat is rectangular, the point is oval.
+**Briskets are the pectoral muscles of the steer**, from the chest area between the forelegs. There are two per animal, and because cattle have no collarbones, these muscles bear **about 60 percent of the animal's weight**. They get a lot of work, so there is a lot of springy connective tissue in and around the muscle fibers — that's why they are so tough. Much of the world's brisket is simmered low and slow to break down the connective tissues and made into corned beef, pastrami, or pot roast; but it is also a fine cut for barbecue, and it is required in Kansas City Barbeque Society cooking contests.
 
-**When shopping, buy the highest grade you can afford** — USDA Choice, Prime, or Wagyu. Avoid USDA Select.
+**I cannot stress this enough**, says the page: when shopping for brisket, **go for the highest grade you can afford — USDA Choice, USDA Prime, or Wagyu — and handpick the slab with the most marbling visible.** If it is not labeled, chances are it is USDA Select. Avoid it.
 
-> ⚠️ **Corned beef is brisket, but it isn't the brisket a plain brisket recipe needs.** Corned beef has already been cured in salt, preservatives, and flavoring — [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) is built on exactly that starting point, but [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) needs plain, raw beef.
+> ⚠️ **Beware: corned beef is brisket that has been corned** — preserved with salt, preservatives, and flavorings. *It is not suitable for this recipe!* To make Texas brisket ([§7.112](#7112-texas-beef-brisket)) you need raw beef. ([§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) is the recipe that starts from corned beef on purpose.)
+
+**A whole packer brisket weighs 8 to 16 pounds** and comes in an airtight Cryovac-type package. There is a fat cap on one side that can be **up to 1 inch thick**, and it is pretty close to fat-free on the other side — though that side may carry some tough silverskin that must be removed. Notice the fat layer that runs between the flat and the point.
+
+**There are two distinct muscles in a whole packer brisket:** a long, flat, lean muscle called the **flat** (*pectoralis superficialis* on the page's diagram), and a narrower, thicker, fattier muscle called the **point** (*pectoralis profundus*), which rests on top of one end of the flat — in the page's photos, on top of the right side of the flat. **The flat is pointy and the point is oval. Go figure.** Seen from the side, the flat ranges from **¼ inch thick at one end to about 1½ inches** at the other, and the point is **more than 4 inches thick**.
+
+Your butcher probably offers **three cuts of brisket**: a whole packer brisket; a **flat** (sometimes called *first cut*); and a **point** (sometimes called *second cut*, or the *deckle*). Each cut needs to be cooked differently.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16938,15 +16944,17 @@ Sitting on top of the eye of the ribeye is the **rib cap** — shaped like a lar
 **Source:** **Meathead Goldwyn**, same book and chapter (book p. 262).
 **Used in:** [§7.112 Texas Beef Brisket](#7112-texas-beef-brisket) and [§7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami), both of which point back here for slicing.
 
-**The easy way:** separate the point and flat first, since their grains don't run in the same direction — the fat between them scrapes off easily. Slice each muscle across its own grain. The downside: the point is juicier, so slices from the flat alone end up drier and may need a little [Texas Mop Sauce](#4121-texas-mop-sauce) spooned back on.
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 262 (second-pass QC).** Both methods are as printed — the 1-inch trim, the triangular lump of fat, the ¼-inch pencil-thick slices, the 45-degree turn, the fanned sandwich of point and flat. **One printed rule was missing and is added:** *if the first slice falls apart, cut thicker slices.* Step 3's stopping point is restated in the page's words (until the point starts to overlap the flat and you see the fat layer separating the two), and the "scrapes off easily" gloss on the fat is trimmed to the page's *scrape off the fat between the two*. Nothing illegible.
 
-**The Sorkin way** (learned from Barry Sorkin of Smoque BBQ, Chicago) keeps both textures in every slice:
+**The easy way:** separate the point and flat, because the grains don't run in the same direction. Scrape off the fat between the two. Slice each muscle across the grain. The problem with this is that the point is juicier, so some slices are flat only and a lot drier — they may need some [Texas Mop Sauce](#4121-texas-mop-sauce).
 
-1. Lop off about 1 inch from the thin end of the flat — it's usually overcooked and dry. Chop it and toss it in sauce for chopped-brisket sandwiches instead of slicing it.
-2. Find the fat seam between the point and the flat on the side of the brisket, and cut out the thick triangular lump of fat there.
-3. Find the grain of the flat and slice across it into uniform, pencil-thick sandwich slices (about ¼ inch), stopping once you reach the point.
-4. Turn the meat 45 degrees so an uncut edge faces away from you, and keep slicing perpendicular to the cuts you just made.
-5. Fan the slices on a bun so every sandwich gets both point and flat in it — that's the whole reason for the extra steps.
+**The Sorkin way** — Meathead learned this from Barry Sorkin of Smoque BBQ in Chicago, renowned for some of the best brisket in the world, and the result is maximum eating pleasure:
+
+1. Start by lopping off about **1 inch** from the thin end of the flat. It is likely overcooked and dry — chop it and smother it in sauce for chopped brisket sandwiches.
+2. Look at the sides of the brisket and find the fat layer between the point and flat. Slide your knife between the two muscles and cut out that thick triangular lump of excess fat.
+3. Find the grain of the flat and cut across the grain into uniform sandwich slices **about ¼ inch thick, about the thickness of a pencil**. **If the first slice falls apart, cut thicker slices.** Keep cutting until you hit the place at which the point starts to overlap the flat and you see the fat layer separating the two.
+4. Now turn the meat **45 degrees** so one of the two uncut edges points away from you, and start slicing perpendicular to the two cut sides.
+5. Sorkin then fans the slices on a bun — the sandwich he serves includes slices of both point and flat.
 
 [↑ Table of Contents](#table-of-contents)
 

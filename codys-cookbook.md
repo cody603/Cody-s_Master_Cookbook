@@ -10501,6 +10501,8 @@ Cover and refrigerate leftovers for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 362), the same "Sauces" chapter as [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde), facing [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). This is the first of five regional riffs the source builds on [§T84](#t84-salsa-math--the-herb-salsa-formula)'s same chopped-herbs-plus-macerated-shallot formula — **what makes this one read as "French" is the herb bouquet itself**: chervil, chives, and tarragon are the classic *fines herbes*, delicate herbs that lose flavor fast in cooking and are almost always used raw or added at the very last minute, which is exactly the role they play here.
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 362 (scan p. 26 left, enlarged). 3 Tbsp shallot, 3 Tbsp white wine vinegar, 2 Tbsp parsley, 1 Tbsp each chervil / chives / basil, 1 tsp tarragon, 5 Tbsp oil; the 15-minute macerate, the two-bowl method, MAKES ¾ cup, the 3-day keep, the serving list, and both variations (1 Tbsp cornichons; lemon juice for the vinegar plus ½ tsp zest) match. Nothing changed.
+
 **Makes ¾ cup**
 
 **🟢 Easy** · **Prep ~10 min** *(five herbs to mince)* · **Cook none** · **Start to finish ~25 min** *(includes a 15 min macerate)*
@@ -10566,6 +10568,8 @@ Cover and refrigerate leftovers for up to 3 days.
 ### 4.148 Mexican-ish Herb Salsa
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 363), facing [§4.147 Classic French Herb Salsa](#4147-classic-french-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **What reads as "Mexican-ish" here is the swap to lime juice and cilantro plus jalapeño and scallion** — the same [§T84](#t84-salsa-math--the-herb-salsa-formula) formula as [§4.147](#4147-classic-french-herb-salsa), with a different herb-and-acid signature.
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 363 (scan p. 26 right, enlarged). 3 Tbsp shallot, 3 Tbsp lime juice, ¼ cup cilantro, 1 Tbsp jalapeño, 2 Tbsp scallions, ¼ cup neutral oil; the 15-minute macerate, MAKES about 1 cup, the 3-day keep, the serving list, and all four variations (3 Tbsp each: pomegranate seeds / cucumber / cabbage / jicama; mango or kumquats; avocado; toasted pumpkin seeds) match. Nothing changed.
 
 **Makes about 1 cup**
 
@@ -10636,6 +10640,8 @@ Cover and refrigerate leftovers for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 364), facing [§4.150 Japanese-ish Herb Salsa](#4150-japanese-ish-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). Builds on [§4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa)'s cilantro-lime-jalapeño base — **grated ginger is what shifts it "Southeast Asian-ish,"** per [§T84](#t84-salsa-math--the-herb-salsa-formula).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 364 (scan p. 44 left, enlarged). Identical to the page: 3 Tbsp shallot, 3 Tbsp lime juice, ¼ cup cilantro, 1 Tbsp jalapeño, 2 Tbsp scallion, 2 tsp ginger, 5 Tbsp neutral oil; 15-minute macerate; MAKES about 1¼ cups; 3-day keep; the "or a marinade for meats" serving line. Nothing changed.
+
 **Makes about 1¼ cups**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~25 min** *(includes a 15 min macerate)*
@@ -10696,6 +10702,8 @@ Cover and refrigerate leftovers for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 365), facing [§4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **The odd one out of this batch's five regional salsas** — it skips the macerated-shallot step entirely and gets its salt and acid straight from soy sauce and seasoned rice wine vinegar instead, per [§T84](#t84-salsa-math--the-herb-salsa-formula).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 365 (scan p. 44 right, enlarged). 2 Tbsp each parsley / cilantro / scallion, 1 tsp ginger, ¼ cup neutral oil, 1 Tbsp soy sauce, 3 Tbsp seasoned rice wine vinegar; everything but the vinegar combined first, vinegar added just before serving; MAKES about 1 cup; 3-day keep; serving list. Nothing changed.
+
 **Makes about 1 cup**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(no macerate — this is the one salsa in the batch with nothing to wait on)*
@@ -10755,6 +10763,8 @@ Cover and refrigerate leftovers for up to 3 days.
 ### 4.151 Meyer Lemon Salsa
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 366), facing [§4.152 North African Charmoula](#4152-north-african-charmoula). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.146](#4146-basic-salsa-verde)–[§4.150](#4150-japanese-ish-herb-salsa), the same [§T84](#t84-salsa-math--the-herb-salsa-formula) formula with the whole diced lemon — peel, pith, and all — standing in for the usual straight acid.
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 366 (scan p. 45 left, enlarged). 1 small Meyer lemon, 3 Tbsp shallot, 3 Tbsp white wine vinegar, ¼ cup parsley, ¼ cup oil; quarter-and-clean, dice with pith and peel, the 15-minute macerate with the saved juice, the slotted-spoon combine, MAKES about 1¼ cups, the 3-day keep, and both relish variations (reduce the salt; 3 Tbsp chopped pitted Picholine olives, or 3 Tbsp crumbled sheep's-milk feta) match. Nothing changed.
 
 **Makes about 1¼ cups**
 
@@ -10822,6 +10832,8 @@ Refrigerate, covered, for up to 3 days.
 ### 4.152 North African Charmoula
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 367), facing [§4.151 Meyer Lemon Salsa](#4151-meyer-lemon-salsa). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **Charmoula** is a North African herb-and-spice sauce built the same blended way as [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) — toasted cumin ground fresh, then blended smooth with cilantro, garlic, ginger, chile, and citrus — rather than the knife-chopped [§T84](#t84-salsa-math--the-herb-salsa-formula) format the earlier salsas in this batch use.
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 367 (scan p. 45 right, enlarged). ½ tsp cumin seed, ½ cup oil, 1 cup cilantro, 1 clove, a 1-inch knob of ginger, ½ small jalapeño, 4 tsp lime juice; the 3-minute toast and grind with a pinch of salt, the blend with **2 generous pinches** of salt, the thin-with-water line, MAKES about 1 cup, the 3-day keep, and the full serving paragraph (including the reduce-the-oil-to-¼-cup marinade note) match. Nothing changed.
 
 **Makes about 1 cup**
 

@@ -589,11 +589,11 @@ Click any recipe to jump straight to it.
 - [14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola) ✅ *(Salt, Fat, Acid, Heat)*
 - [14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) ✅ *(Salt, Fat, Acid, Heat; its Vanilla Cream filling is now documented — see [§14.36 Scented Cream](#1436-scented-cream), same as [§14.21](#1421-loris-chocolate-midnight-cake))*
 - [14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) ✅ *(Salt, Fat, Acid, Heat — the source's closing recipe; ⚠️ **butter, sugar, and cream quantities corrected 2026-09-06** — see entry; distinct from [§14.20 Cream Caramel](#1420-cream-caramel))*
-- [14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) ✅ *(Salt, Fat, Acid, Heat; Pavlovas, Persian Pavlovas, Meringue Fool, and Chocolate-Caramel Meringue Fool variations; ⚠️ **sugar and cream-of-tartar quantities corrected 2026-09-06** — see entry; several named cream/berry components confirmed absent from the source scan)*
+- [14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) ✅ *(Salt, Fat, Acid, Heat; Pavlovas, Persian Pavlovas, Meringue Fool, and Chocolate-Caramel Meringue Fool variations; ⚠️ **sugar and cream-of-tartar quantities corrected 2026-09-06** — see entry; its Scented / Cardamom / Vanilla / Caramel Cream fillings are now documented at [§14.36](#1436-scented-cream))*
 - [14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie) ✅ *(Salt, Fat, Acid, Heat; Chocolate Pudding Pie variation; its crust is now documented — see [§14.35 All-Butter Pie Dough](#1435-all-butter-pie-dough))*
 - [14.27 Light and Flaky Buttermilk Biscuits](#1427-light-and-flaky-buttermilk-biscuits) ✅ *(Salt, Fat, Acid, Heat; Shortcakes and Fruit Cobbler variations; ⚠️ **quantities and lamination method substantially corrected 2026-09-06**, and the Fruit Cobbler variation is cut off in the source — see entry)*
 - [14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) ✅ *(Salt, Fat, Acid, Heat)*
-- [14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) ✅ *(Salt, Fat, Acid, Heat; "Poach It in Wine," the source's middle fruit method, is now recovered at [§14.34](#1434-poach-it-in-wine))*
+- [14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) ✅ *(Salt, Fat, Acid, Heat; "Poach It in Wine," the source's middle fruit method, is now recovered at [§14.34](#1434-poach-it-in-wine); serve with [§14.36 Scented Cream](#1436-scented-cream)'s Bay Leaf Cream, the source's own pairing for roasted peaches)*
 - [14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream) ✅ *(The Meathead Method)*
 - [14.31 Torched Figs](#1431-torched-figs) ✅ *(The Meathead Method)*
 - [14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) ✅ *(The Meathead Method)*
@@ -40182,6 +40182,8 @@ Slide a small knife between the caramel and the mould to loosen it. Invert onto 
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 410–411), from the "Two Favorite Oil Cakes" section. Same source as [§8.37](#837-chicken-and-garlic-soup)–[§8.39](#839-smooth-silky-sweet-corn-soup), [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), and [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
+> ✅ **The Vanilla Cream gap is CLOSED — 2026-09-07.** This cake's filling and frosting is the source's own "Vanilla Cream (page 423)," which was missing from the original scan and stood in with plain sweetened whipped cream for as long as this entry has existed. **Book pp. 422–425 have now been photographed**, and Vanilla Cream turns out not to be a recipe at all: it is **one flavor option inside [§14.36 Scented Cream](#1436-scented-cream)** — 1 cup chilled heavy cream, 1½ teaspoons sugar, and the scraped seeds of ¼ vanilla bean (or 1 teaspoon vanilla extract) stirred in before whipping. **The 2 cups this cake calls for is exactly one batch of §14.36 doubled — that is, two batches**; see that entry for the method, the soft-peak cue, and the reason to whisk it by hand. No substitute is needed here any more.
+
 > **Per the source's own headnote:** *"By age twenty, I'd given up on the idea that I'd ever encounter a chocolate cake recipe that yielded the flavorful bite I'd always dreamed of... A few months after I began bussing tables at Chez Panisse, my friend Lori Podraza brought in a Midnight Cake, topped with Vanilla Cream, to celebrate another cook's birthday... One bite and I was sunk... Only months later did I realize that the cake is so moist because it's made with oil, rather than butter—just like the cake mix cakes I'd always loved!"*
 
 > **Why oil instead of butter.** This is the same principle [§T30 How to Use Fat](#t30-how-to-use-fat) already covers: *"Oil is the champion here. It coats flour better than anything, which is why oil cakes come out so moist — carrot cake, olive oil cake, chocolate cake made with oil."* Butter is only about 80% fat (the rest is milk solids and water), and it firms up as it cools; oil is 100% fat and stays liquid at room temperature, so it keeps coating the flour's gluten strands and keeps the crumb tender and moist well after the cake has cooled — which is exactly the texture this recipe is chasing.
@@ -40201,7 +40203,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - ½ cup neutral-tasting oil
 - 1½ cups boiling water, or freshly brewed strong coffee
 - 2 large eggs, at room temperature, lightly whisked
-- 2 cups Vanilla Cream *(source page 423 — not photographed; see the note below)*
+- 2 cups **Vanilla Cream** — *two batches of [§14.36 Scented Cream](#1436-scented-cream)'s Vanilla Cream option (source p. 423, now documented): 2 cups chilled heavy cream, 1 tablespoon sugar, and the scraped seeds of ½ vanilla bean or 2 teaspoons vanilla extract, whipped to soft peaks*
 
 > **Dutch-process vs. natural cocoa — and why it matters with the baking soda.** Natural (non-alkalized) cocoa powder is naturally acidic; Dutch-process cocoa has been treated with an alkali to neutralize that acidity, which is what gives it its darker color and smoother, less bitter flavor. [§T31 How to Use Acid](#t31-how-to-use-acid) explains why this matters here: *"Baking soda needs an acid partner to make bubbles — that's why recipes with baking soda usually include buttermilk, brown sugar, honey, or natural cocoa powder."* Because Dutch-process cocoa has had its acid stripped out, this recipe leans on its liquid instead — freshly brewed coffee is mildly acidic (and deepens the chocolate flavor besides, the classic reason coffee shows up in chocolate cakes at all), which is likely why the source offers it as the preferred alternative to plain boiling water.
 
@@ -40229,13 +40231,13 @@ Bake in the upper third of the oven for 25 to 30 minutes, until the cakes spring
 Cool the cakes completely on a wire rack — while still warm they're too fragile to unmold cleanly — before turning them out of the pans and peeling off the parchment.
 
 **8. Fill and stack.**
-Place one cake layer on a serving plate. Spread 1 cup Vanilla Cream (or the substitute noted below) in the center of the cake, then gently set the second layer on top. Spread the remaining cream over the center of the top layer and chill for up to 2 hours before serving.
+Place one cake layer on a serving plate. Spread **1 cup [Vanilla Cream](#1436-scented-cream)** in the center of the cake, then gently set the second layer on top. Spread the remaining cream over the center of the top layer and chill for up to 2 hours before serving. *(Whip the cream shortly before you assemble — see [§14.36](#1436-scented-cream); it deflates as it sits, and the cake must be **completely cool** or the cream slides off it.)*
 
 Alternatively, per the source: top with cream cheese frosting, serve plain with ice cream on the side, or simply dust the layers with cocoa powder or powdered sugar. The batter also makes fantastic cupcakes.
 
 Tightly wrapped, the cake keeps 4 days at room temperature, or 2 months in the freezer.
 
-> **Vanilla Cream isn't documented in this cookbook yet.** The source builds the filling and frosting from its own "Vanilla Cream" recipe (page 423), which wasn't among the pages photographed — so it isn't invented here. Until that page is available, a straightforward substitute works well between and on top of these layers: lightly sweetened whipped cream (whip 2 cups heavy cream with a few tablespoons of powdered sugar and a splash of vanilla extract to soft-to-medium peaks), or a basic vanilla buttercream if a sturdier, sweeter frosting is wanted. The source's own alternatives — cream cheese frosting, a dusting of cocoa or powdered sugar, or ice cream on the side — are equally valid and require no substitution at all.
+> **Vanilla Cream, now that it's documented.** The filling and frosting is **[§14.36 Scented Cream](#1436-scented-cream)'s Vanilla Cream option** — the source's own p. 423 recipe, recovered 2026-09-07. Two batches give the 2 cups this cake wants. The source's own alternatives remain equally valid and need no cream at all: **cream cheese frosting**, a dusting of cocoa or powdered sugar, or ice cream on the side. *(Two of §14.36's other options are printed pairings for this exact cake — its **Chocolate Cream** and its dairy-free **Coconut Cream** both name Lori's Chocolate Midnight Cake by name, as does its **Caramel Cream**.)*
 
 #### C. Grocery Shopping List
 
@@ -40250,22 +40252,22 @@ Tightly wrapped, the cake keeps 4 days at room temperature, or 2 months in the f
 - 🛒 Neutral oil (vegetable or similar) — ½ cup
 - 🛒 Coffee, freshly brewed and strong (or use boiling water) — 1½ cups
 - 🛒 Eggs — 2 large
-- 🛒 Heavy cream, powdered sugar, and vanilla extract — for the whipped-cream filling substitute (see note above), or ingredients for cream cheese frosting / a basic vanilla buttercream
+- 🛒 Heavy cream — 2 cups, plus a vanilla bean or vanilla extract and a little sugar, for the **[§14.36 Vanilla Cream](#1436-scented-cream)** filling *(or ingredients for cream cheese frosting instead — the source's own alternative)*
 
 #### Nutrition *(estimated)*
 
-*Cake layers only — the Vanilla Cream filling isn't documented, so its calories aren't included; see the substitute note above if using whipped cream or buttercream instead.*
+*Cake layers only — the [§14.36 Vanilla Cream](#1436-scented-cream) filling isn't included here; it adds roughly **70 calories and 7 g of fat per slice** across 12 slices, per that entry's own figures.*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole cake** *(two unfrosted 8-inch layers)* | ~3,360 | 129 g | 50 g | 530 g | 26 g |
 | **Per serving** *(serves 12, unfrosted layers only)* | ~280 | 11 g | 4 g | 44 g | 2 g |
 
-**What a serving is:** one slice, about 1/12 of the assembled two-layer cake — plain, before adding the Vanilla Cream or its substitute (add roughly 90–130 kcal per slice for a whipped-cream filling, more for buttercream).
+**What a serving is:** one slice, about 1/12 of the assembled two-layer cake — plain, before adding the [§14.36 Vanilla Cream](#1436-scented-cream) (add roughly 70 kcal and 7 g fat per slice for the cream, more for a cream cheese frosting).
 
 #### D. Open Questions
 
-- **Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook** — the page wasn't among those photographed. A whipped-cream or basic buttercream substitute is noted above; revisit and replace once that source page is available.
+- ~~**Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook.**~~ **Settled 2026-09-07 — book pp. 422–425 were photographed, and Vanilla Cream is a flavor option inside [§14.36 Scented Cream](#1436-scented-cream), not a recipe of its own.** No stand-in is needed any more. **No open questions remain on this entry.**
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40348,13 +40350,15 @@ Store in an airtight container for up to 1 month.
 
 ### 14.23 Fresh Ginger and Molasses Cake
 
-Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 412–413). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs). **Same source gap as [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)** — this recipe also calls for the source's own "Vanilla Cream (page 423)" as its filling, and that page wasn't among those photographed either; handled the same way below, not invented.
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 412–413). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)–[§14.22 Nekisia's Olive Oil and Sea Salt Granola](#1422-nekisias-olive-oil-and-sea-salt-granola), [§5.49 Persian-ish Rice](#549-persian-ish-rice), and [§7.123 Kufte Kebabs](#7123-kufte-kebabs). **Same cream as [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake)** — this recipe also calls for the source's own "Vanilla Cream (page 423)" as its filling.
+
+> ✅ **The Vanilla Cream gap is CLOSED — 2026-09-07.** Book pp. 422–425 have been photographed, and Vanilla Cream is **one flavor option inside [§14.36 Scented Cream](#1436-scented-cream)** — chilled heavy cream and a little sugar with the scraped seeds of a vanilla bean (or vanilla extract) stirred in before whipping — not a recipe of its own. The 2 cups this cake calls for is two batches of §14.36. The stand-in this entry carried is retired. *(The source also names this exact cake as a serving suggestion for §14.36's **Tangy Whipped Cream** — ½ cup chilled cream, 3 tablespoons sugar, and ¼ cup sour cream, Greek yogurt, or crème fraîche — which is worth knowing, because a tangy cream against this much molasses is the pairing the author actually prints.)*
 
 > **Per the source's own headnote:** *"As* garde-manger *at Chez Panisse, I had to get to work at 6:00 a.m. I've never been an early riser... When the pastry cooks arrived at 8:00, they set out day-old cakes and cookies for everyone to snack on. By 8:15, any willpower I may have had to ignore these sweets had entirely evaporated. I'd snag a piece of ginger cake, make myself a huge glass of milky tea, slip on my wool beanie, and head back into the walk-in refrigerator... I've adapted the original recipe to make it a little friendlier for home bakers. I couldn't resist making it a little saltier and spicier along the way, too."*
 
 **Makes two 9-inch cake layers**
 
-**🟢 Easy** · **Prep ~20 min** · **Cook ~40 min** *(mostly unattended baking)* · **Start to finish ~1 hr** *(plus full cooling on a rack, and up to 2 hr chill before serving if filling with Vanilla Cream or its substitute — not active work)*
+**🟢 Easy** · **Prep ~20 min** · **Cook ~40 min** *(mostly unattended baking)* · **Start to finish ~1 hr** *(plus full cooling on a rack, and up to 2 hr chill before serving if filling with [§14.36 Vanilla Cream](#1436-scented-cream) — not active work)*
 
 #### A. Ingredients
 
@@ -40371,7 +40375,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - 2 teaspoons baking soda
 - 1 cup boiling water
 - 2 large eggs, at room temperature
-- 2 cups Vanilla Cream *(source page 423 — not photographed; see the note below)*
+- 2 cups **Vanilla Cream** — *two batches of [§14.36 Scented Cream](#1436-scented-cream)'s Vanilla Cream option (source p. 423, now documented): 2 cups chilled heavy cream, 1 tablespoon sugar, and the scraped seeds of ½ vanilla bean or 2 teaspoons vanilla extract, whipped to soft peaks*
 
 #### B. Cooking Instructions
 
@@ -40403,13 +40407,13 @@ Bake in the upper third of the oven for 38 to 40 minutes, until the cakes spring
 Cool the cakes completely on a wire rack before unmolding them from the pans and peeling off the parchment paper.
 
 **10. Fill, stack, and chill.**
-To serve, place one layer down on a cake plate. Spread 1 cup Vanilla Cream (or the substitute noted below) in the center of the cake and gently place the second layer atop it. Spread the remaining cream onto the center of the top layer and chill for up to 2 hours before serving.
+To serve, place one layer down on a cake plate. Spread **1 cup [Vanilla Cream](#1436-scented-cream)** in the center of the cake and gently place the second layer atop it. Spread the remaining cream onto the center of the top layer and chill for up to 2 hours before serving. *(Whip the cream shortly before assembling — see [§14.36](#1436-scented-cream) — and make sure the layers are **completely cool** first.)*
 
 Alternatively, per the source: top with cream cheese frosting, serve with ice cream, or simply dust the cakes with powdered sugar. The batter also makes fantastic cupcakes.
 
 Tightly wrapped, this cake will keep for 4 days at room temperature, or for 2 months in the freezer.
 
-> **Vanilla Cream isn't documented in this cookbook yet — same gap as [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake).** The source builds its filling and frosting from its own "Vanilla Cream" recipe (page 423), which wasn't among the pages photographed for either this cake or §14.21 — so, per this cookbook's standing practice, it isn't invented here. The same substitute already noted at §14.21 works here too: lightly sweetened whipped cream (whip 2 cups heavy cream with a few tablespoons of powdered sugar and a splash of vanilla extract to soft-to-medium peaks), or a basic vanilla buttercream for something sturdier and sweeter. The source's own alternatives — cream cheese frosting, a dusting of powdered sugar, or plain with ice cream on the side — need no substitution at all.
+> **Vanilla Cream, now that it's documented — same as [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake).** The filling and frosting is **[§14.36 Scented Cream](#1436-scented-cream)'s Vanilla Cream option**, the source's own p. 423 recipe, recovered 2026-09-07; two batches give the 2 cups this cake wants. **§14.36's Tangy Whipped Cream is the source's own printed pairing for this cake specifically** and is worth trying against the molasses. The source's other alternatives still need no cream at all: cream cheese frosting, a dusting of powdered sugar, or plain with ice cream on the side.
 
 #### C. Grocery Shopping List
 
@@ -40424,22 +40428,22 @@ Tightly wrapped, this cake will keep for 4 days at room temperature, or for 2 mo
 - 🛒 Kosher salt or fine sea salt
 - 🛒 Baking soda — 2 tsp
 - 🛒 Eggs — 2 large
-- 🛒 Heavy cream, powdered sugar, and vanilla extract — for the whipped-cream filling substitute (see note above), or ingredients for cream cheese frosting / a basic vanilla buttercream
+- 🛒 Heavy cream — 2 cups, plus a vanilla bean or vanilla extract and a little sugar, for the **[§14.36 Vanilla Cream](#1436-scented-cream)** filling *(or sour cream / Greek yogurt / crème fraîche and 3 Tbsp sugar for §14.36's **Tangy Whipped Cream**, the source's own pairing for this cake; or ingredients for cream cheese frosting instead)*
 
 #### Nutrition *(estimated)*
 
-*Cake layers only — the Vanilla Cream filling isn't documented, so its calories aren't included; see the substitute note above if using whipped cream or buttercream instead.*
+*Cake layers only — the [§14.36 Vanilla Cream](#1436-scented-cream) filling isn't included here; it adds roughly **70 calories and 7 g of fat per slice** across 12 slices, per that entry's own figures.*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole cake** *(two unfrosted 9-inch layers)* | ~5,130 | 230 g | 48 g | 720 g | 11 g |
 | **Per serving** *(serves 12, unfrosted layers only)* | ~430 | 19 g | 4 g | 60 g | 1 g |
 
-**What a serving is:** one slice, about 1/12 of the assembled two-layer cake — plain, before adding the Vanilla Cream or its substitute (add roughly 90–130 kcal per slice for a whipped-cream filling, more for buttercream).
+**What a serving is:** one slice, about 1/12 of the assembled two-layer cake — plain, before adding the [§14.36 Vanilla Cream](#1436-scented-cream) (add roughly 70 kcal and 7 g fat per slice for the cream).
 
 #### D. Open Questions
 
-- **Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook** — same gap flagged at [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake); the page wasn't among those photographed for either recipe. A whipped-cream or basic buttercream substitute is noted above; revisit and replace both entries once that source page is available.
+- ~~**Vanilla Cream (source page 423) is this cake's filling and frosting, and it isn't documented in this cookbook.**~~ **Settled 2026-09-07 — book pp. 422–425 were photographed, and Vanilla Cream is a flavor option inside [§14.36 Scented Cream](#1436-scented-cream), not a recipe of its own.** Closed here and at [§14.21](#1421-loris-chocolate-midnight-cake) at the same time. **No open questions remain on this entry.**
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40571,10 +40575,10 @@ Gently lift the meringues off the baking sheet and cool them **on a wire rack**.
 
 #### Variations, per the source
 
-- **Pavlovas.** Spoon the meringue onto the parchment in **3-by-2-inch ovals** instead of small bites, then use the back of a spoon to press a shallow well into the center of each. Bake as directed above, then let the pavlovas cool inside the turned-off oven with the door propped ajar (a wooden spoon works) — the gradual cooldown keeps a bigger shell from cracking the way pulling it straight into room-temperature air would. Fill with Scented Cream *(source p. 422 — confirmed absent from the 50-page scan; see Open Questions)* and a fruit **compote** *(source p. 407 — also confirmed absent; see the note on compote below)*, or with lemon curd and fresh fruit.
-- **Persian Pavlovas.** Add ⅛ teaspoon ground cardamom and 1 tablespoon saffron tea *(the same saffron-tea method already documented at [§5.49 Persian-ish Rice](#549-persian-ish-rice)'s Saffron Rice variation)* to the egg whites before whipping. Continue as above, top with Rose Scented Berries and Cardamom Cream *(both source names, not among the photographed pages — gaps, not invented)* and crumbled dried rose petals.
-- **Meringue Fool.** Layer crushed meringues into glasses with fruit compote or lemon curd and Vanilla Cream *(the same standing gap already flagged at [§14.21](#1421-loris-chocolate-midnight-cake) and [§14.23](#1423-fresh-ginger-and-molasses-cake)*).
-- **Chocolate-Caramel Meringue Fool.** Fold coarsely chopped bittersweet chocolate into the meringue just before baking (see "fold" explained above). Continue as directed, then layer the crushed, baked meringues into glasses with chocolate ice cream, this cookbook's own **[§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)**, and Caramel Cream *(another gap — see Open Questions)*.
+- **Pavlovas.** Spoon the meringue onto the parchment in **3-by-2-inch ovals** instead of small bites, then use the back of a spoon to press a shallow well into the center of each. Bake as directed above, then let the pavlovas cool inside the turned-off oven with the door propped ajar (a wooden spoon works) — the gradual cooldown keeps a bigger shell from cracking the way pulling it straight into room-temperature air would. Fill with **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — **documented 2026-09-07**; any of its 19 flavor options works, and the source's own suggestion for meringues specifically is its **Chocolate Cream**)* and a fruit **compote** *(source p. 407 — still absent; see the note on compote below)*, or with lemon curd and fresh fruit.
+- **Persian Pavlovas.** Add ⅛ teaspoon ground cardamom and 1 tablespoon saffron tea *(the same saffron-tea method already documented at [§5.49 Persian-ish Rice](#549-persian-ish-rice)'s Saffron Rice variation)* to the egg whites before whipping. Continue as above, top with Rose Scented Berries *(a source name, still not documented — a gap, not invented)* and **Cardamom Cream** *(**documented 2026-09-07** — it's [§14.36 Scented Cream](#1436-scented-cream)'s **Spiced Cream** option, made with the cardamom of its three choices: ¼ teaspoon ground cardamom stirred into the cream before whipping)* and crumbled dried rose petals.
+- **Meringue Fool.** Layer crushed meringues into glasses with fruit compote or lemon curd and **Vanilla Cream** *(**documented 2026-09-07** — it's [§14.36 Scented Cream](#1436-scented-cream)'s Vanilla option, the same one that fills [§14.21](#1421-loris-chocolate-midnight-cake) and [§14.23](#1423-fresh-ginger-and-molasses-cake))*.
+- **Chocolate-Caramel Meringue Fool.** Fold coarsely chopped bittersweet chocolate into the meringue just before baking (see "fold" explained above). Continue as directed, then layer the crushed, baked meringues into glasses with chocolate ice cream, this cookbook's own **[§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce)**, and **Caramel Cream** *(**documented 2026-09-07** — [§14.36 Scented Cream](#1436-scented-cream)'s Caramel option: ¼ cup sugar and 3 tablespoons water cooked to dark amber, stopped with ½ cup heavy cream and a pinch of salt, chilled hard, then combined with ½ cup chilled cream and whipped)*.
 
 > **Compote, briefly explained** (per Cody's standing request to gloss intermediate terms): a **compote** is fruit cooked down with sugar (and often a little liquid or spice) until soft and syrupy, but left in recognizable pieces rather than puréed smooth — more like a chunky, spoonable jam than a sauce. That's different from a **coulis**, which this cookbook already uses elsewhere (**[§4.83 Coulis de Tomates](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)**, **[§4.132 Roasted Red Pepper and Garlic Coulis](#4132-roasted-red-pepper-and-garlic-coulis)**) — a coulis is puréed and typically strained smooth, with no fruit pieces left at all. This source's own fruit "Compote" (page 407 — confirmed absent from the 50-page scan by the 2026-09-06 audit) isn't invented here; a quick stand-in is simmering chopped fresh or frozen fruit with a few tablespoons of sugar and a squeeze of lemon juice until just softened and syrupy.
 
@@ -40596,11 +40600,12 @@ Gently lift the meringues off the baking sheet and cool them **on a wire rack**.
 | **Whole batch** *(about 30 meringues)* | ~1,290 | <1 g | 18 g | 312 g | 0 g |
 | **Per serving** *(1 meringue, of 30)* | ~43 | 0 g | 0.6 g | 10 g | 0 g |
 
-**What a serving is:** one golf ball–size meringue — a light bite-size sweet, essentially pure air, sugar, and egg white. *(Recalculated 2026-09-06 for the corrected 1½-cup sugar quantity; the earlier figures were based on the wrong ⅓ cup.)* The Pavlova and Meringue Fool variations are considerably richer once filled with cream and fruit; no separate table is given for them since the filling components themselves (Scented Cream, Vanilla Cream, compote) aren't documented — see Open Questions.
+**What a serving is:** one golf ball–size meringue — a light bite-size sweet, essentially pure air, sugar, and egg white. *(Recalculated 2026-09-06 for the corrected 1½-cup sugar quantity; the earlier figures were based on the wrong ⅓ cup.)* The Pavlova and Meringue Fool variations are considerably richer once filled with cream and fruit; no separate table is given for them since the fillings vary; **[§14.36 Scented Cream](#1436-scented-cream) now carries its own figures** (~105 kcal per ¼-cup dollop, with the Chocolate and Caramel options costed separately), and only the compote remains undocumented — see Open Questions.
 
 #### D. Open Questions
 
-- **Scented Cream (p. 422), Cardamom Cream and Caramel Cream (pp. 423–425), Rose Scented Berries, and the source's own fruit Compote (p. 407) are all named components used across this entry's variations, and the 2026-09-06 page-order audit confirmed that none of their pages appear anywhere in the 50-page scan, at any index** — this is now "verified exhaustively absent," not "we may not have looked hard enough." Vanilla Cream (p. 423) is the same standing gap already flagged at [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake). **Since this is the final batch from this source PDF, all of these remain open gaps** — revisit only if new pages of this same book are ever photographed.
+- ✅ **The cream gaps are CLOSED — 2026-09-07.** Cody photographed book pp. 422–425, and **Scented Cream, Cardamom Cream, Vanilla Cream, and Caramel Cream all turned out to be the same recipe**: they are four of the 19 flavor options inside **[§14.36 Scented Cream](#1436-scented-cream)**, not four separate recipes. Every reference in this entry's four variations now points there. The gap this entry carried at [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) and [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) is closed at the same time.
+- **Still open: Rose Scented Berries and the source's own fruit Compote (p. 407)**, both named in the variations above and both confirmed absent from the scan by the 2026-09-06 page-order audit. **Cody has said he isn't pursuing either**, so neither is tracked in [§12](#12-recipes-to-document); the quick stand-in for the compote is in the note above.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40643,7 +40648,7 @@ Crack the eggs into a medium bowl and beat them with a whisk. Add the cream, pum
 Bake at 425°F for 15 minutes, then reduce the heat to 325°F and continue baking until the center is just barely set — about 40 minutes more. "Just barely set" means the outer few inches look fully firm and the very center still has a slight, gelatin-like jiggle when the pan is nudged, not a liquid wobble. **Don't wait for it to look completely firm in the oven** — carryover heat finishes setting the center as the pie cools, and baking until it looks fully firm from the oven almost always means an overbaked, cracked custard by the time it's cold.
 
 **4. Cool completely before slicing. About 1 hour.**
-Let the pie cool on a wire rack for a full hour before cutting into it — a warm pumpkin custard is too soft to slice cleanly and will look underdone even when it isn't. Serve with Tangy Whipped Vanilla, Cinnamon, or Caramel Cream *(the source's own toppings, pages ~423–425 — not among the photographed pages; a simple lightly sweetened whipped cream stands in, or this cookbook's own [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) for the caramel option)*.
+Let the pie cool on a wire rack for a full hour before cutting into it — a warm pumpkin custard is too soft to slice cleanly and will look underdone even when it isn't. Serve with **Tangy Whipped, Vanilla, Cinnamon, or Caramel Cream** — *the source's own toppings, book pp. 422–425, **all four now documented at [§14.36 Scented Cream](#1436-scented-cream)**: **Tangy Whipped Cream** and **Caramel Cream** are two of its four own-method variations, **Vanilla Cream** is its vanilla stir-in, and **Cinnamon Cream** is its Spiced Cream option made with the cinnamon of its three choices. **Tangy Whipped Cream is the one the source names for this pie specifically** — its sourness cuts the custard. No stand-in is needed any more.*
 
 #### Variation, per the source: Chocolate Pudding Pie
 
@@ -40651,9 +40656,9 @@ Roll, crimp, and freeze a 9-inch pie shell exactly as directed above. This time,
 
 > **Blind baking, explained.** "Blind" baking means baking a crust empty — with no filling in it yet — so it holds its shape and fully cooks through before anything goes inside. Pie weights (or dried beans, or raw rice, used the same way) sit on top of a sheet of parchment pressed into the shell, weighing the dough down so it can't puff up or slump down the sides of the pan while it bakes on its own. This particular pie needs it because its filling is a stovetop pudding that's cooked separately and poured in already-thickened — unlike the plain pumpkin filling above, it gets no more oven time to finish the crust once it's added, so the crust has to be fully baked before that happens.
 
-Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and brush it all over the inside of the crust, and let it harden — this thin chocolate layer acts as a moisture barrier, keeping the crust from turning soggy once the pudding sits on top of it overnight. Make one recipe of Bittersweet Chocolate Pudding, **increasing its cornstarch to ⅓ cup (1½ ounces)** as the source's own variation directs, and press plastic wrap directly onto the pudding's surface right after cooking to keep a skin from forming. Cool the pudding to room temperature, spoon it into the prepared crust, cover, and chill overnight before serving with billowy Vanilla, Chocolate, Coffee, or Caramel Cream.
+Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and brush it all over the inside of the crust, and let it harden — this thin chocolate layer acts as a moisture barrier, keeping the crust from turning soggy once the pudding sits on top of it overnight. Make one recipe of Bittersweet Chocolate Pudding, **increasing its cornstarch to ⅓ cup (1½ ounces)** as the source's own variation directs, and press plastic wrap directly onto the pudding's surface right after cooking to keep a skin from forming. Cool the pudding to room temperature, spoon it into the prepared crust, cover, and chill overnight before serving with billowy **Vanilla, Chocolate, Coffee, or Caramel Cream** — *all four are [§14.36 Scented Cream](#1436-scented-cream) options, documented 2026-09-07; the source names this Chocolate Pudding Pie as a pairing for its dairy-free **Coconut Cream** too.*
 
-> **Bittersweet Chocolate Pudding (source p. 416) is a gap, same family as the creams above.** The 2026-09-06 page-order audit confirmed that page appears at no index in the 50-page scan, so this variation's filling isn't fully buildable from this cookbook alone — named here rather than invented, though the source's own cornstarch adjustment for it (⅓ cup / 1½ ounces) is now recorded above. A standard stovetop bittersweet chocolate pudding (cornstarch, milk, cream, melted chocolate, sugar, cooked until thickened) is a reasonable stand-in if this variation gets made before that source page turns up.
+> **Bittersweet Chocolate Pudding (source p. 416) is still a gap — but the creams above are not, as of 2026-09-07.** The 2026-09-06 page-order audit confirmed that page appears at no index in the 50-page scan, so this variation's filling isn't fully buildable from this cookbook alone — named here rather than invented, though the source's own cornstarch adjustment for it (⅓ cup / 1½ ounces) is now recorded above. A standard stovetop bittersweet chocolate pudding (cornstarch, milk, cream, melted chocolate, sugar, cooked until thickened) is a reasonable stand-in if this variation gets made before that source page turns up.
 
 #### C. Grocery Shopping List
 
@@ -40666,6 +40671,7 @@ Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and b
 - 🛒 Sugar — ¾ cup
 - 🛒 Kosher salt or fine sea salt
 - 🛒 Ground cinnamon, ground ginger, ground cloves
+- 🛒 *(For the topping)* Heavy cream — 1 cup, plus sugar and whichever flavoring you pick from [§14.36 Scented Cream](#1436-scented-cream); for **Tangy Whipped Cream**, the source's own pairing for this pie, also ¼ cup sour cream, full-fat Greek yogurt, or crème fraîche
 - 🛒 *(For the Chocolate Pudding Pie variation)* Bittersweet chocolate — 2 oz for the crust brush, plus more for the pudding
 
 #### Nutrition *(estimated)*
@@ -40682,7 +40688,8 @@ Let the crust cool completely, then melt 2 ounces of bittersweet chocolate and b
 #### D. Open Questions
 
 - ~~**The crust is the source's own "All-Butter Pie Dough" (book p. 386), an established gap** — verified absent from the whole 50-page scan by the 2026-09-06 page-order audit.~~ **Settled 2026-09-06 — book p. 386 was photographed and the crust is now written up at [§14.35 All-Butter Pie Dough](#1435-all-butter-pie-dough).** [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) and [§14.19](#1419-vodka-pie-crust) remain fine alternatives, but they are no longer stand-ins for something missing.
-- **Tangy Whipped Vanilla, Cinnamon, and Caramel Cream (source pp. 423–425) and Bittersweet Chocolate Pudding (source p. 416) are all named but appear at no index in the scan** — likewise verified rather than assumed. Same standing-gap family as [§14.21](#1421-loris-chocolate-midnight-cake)/[§14.23](#1423-fresh-ginger-and-molasses-cake)'s Vanilla Cream and [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues)'s Scented/Cardamom/Caramel Cream. Since this is the final batch from this source, these stay open rather than resolving in a future batch.
+- ~~**Tangy Whipped, Vanilla, Cinnamon, and Caramel Cream (source pp. 423–425) are all named but appear at no index in the scan.**~~ **Settled 2026-09-07 — book pp. 422–425 were photographed, and all four are flavor options inside [§14.36 Scented Cream](#1436-scented-cream)**, not separate recipes. The same closure resolves [§14.21](#1421-loris-chocolate-midnight-cake)/[§14.23](#1423-fresh-ginger-and-molasses-cake)'s Vanilla Cream and [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues)'s Scented/Cardamom/Caramel Cream.
+- **Bittersweet Chocolate Pudding (source p. 416), the Chocolate Pudding Pie variation's filling, is still not documented** — verified absent from the scan, and **Cody has said he isn't pursuing it**, so it is named here rather than tracked in [§12](#12-recipes-to-document). The stand-in note above stands.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40750,7 +40757,7 @@ Transfer the biscuits to a wire rack and cool for 5 minutes before serving.
 
 #### Variations, per the source
 
-- **Shortcakes.** Add **½ cup (3½ ounces) sugar** to the dry ingredients in Step 2 *(corrected 2026-09-06 — the earlier version said ⅓ cup / 2⅓ ounces)*. **After cutting the biscuits, brush with heavy cream and sprinkle with sugar.** After baking, let them cool for 5 minutes, then place each shortcake on a plate, split it in half, and spoon in Vanilla Cream *(source p. 423 — a gap; see Open Questions)* and Strawberry Compote *(source p. 407 — also a gap; see the compote explanation at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) — a quick simmer of sliced strawberries with a little sugar and lemon juice stands in)*.
+- **Shortcakes.** Add **½ cup (3½ ounces) sugar** to the dry ingredients in Step 2 *(corrected 2026-09-06 — the earlier version said ⅓ cup / 2⅓ ounces)*. **After cutting the biscuits, brush with heavy cream and sprinkle with sugar.** After baking, let them cool for 5 minutes, then place each shortcake on a plate, split it in half, and spoon in **Vanilla Cream** *(source p. 423 — **documented 2026-09-07** at [§14.36 Scented Cream](#1436-scented-cream): 1 cup chilled heavy cream, 1½ teaspoons sugar, and ¼ vanilla bean's scraped seeds or 1 teaspoon vanilla extract, whipped to soft peaks — one batch fills roughly a dozen shortcakes)* and **Strawberry Compote** *(source p. 407 — still a gap; see the compote explanation at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) — a quick simmer of sliced strawberries with a little sugar and lemon juice stands in)*.
 - **Fruit Cobbler** *(⚠️ **incomplete in the source scan — see Open Questions**)*. Preheat the oven to 400°F. **Prepare a half-recipe of the Shortcakes above** (not the plain biscuit dough) and **chill the rounds in the fridge after cutting**. Combine **7 cups (2½ pounds) of fresh pitted cherries** with… — **and there the printed text runs off the bottom of book p. 393.** The rest of this variation continues onto p. 394, which is not among the photographed pages, so **what the cherries get tossed with, the dish size, the assembly, and the bake time are genuinely not recoverable** and are not guessed at here. *(The earlier version of this entry filled that gap in with plausible-sounding amounts and a 40–45 minute bake; those were not in the source and have been removed.)* **Cross-referenced, not confused for a duplicate:** this cookbook already has [§14.1 Mixed Berry Cobbler](#141-mixed-berry-cobbler) and [§14.8 Blueberry Cobbler](#148-blueberry-cobbler), both complete recipes from a different source — use either one's fruit-and-thickener ratio and bake time under this shortcake topping until p. 394 turns up.
 
 #### C. Grocery Shopping List
@@ -40764,6 +40771,7 @@ Transfer the biscuits to a wire rack and cool for 5 minutes before serving.
 - 🛒 Kosher salt or fine sea salt
 - 🛒 Heavy cream — 1 cup, plus ¼ cup for brushing
 - 🛒 Sugar — ½ cup (3½ oz), plus more for sprinkling, for the Shortcakes variation
+- 🛒 *(For the Shortcakes filling)* Heavy cream — 1 cup, plus a vanilla bean or vanilla extract, for [§14.36 Scented Cream](#1436-scented-cream)'s Vanilla Cream; plus strawberries, sugar, and a lemon for the compote stand-in
 - 🛒 *(For Fruit Cobbler)* Fresh cherries — 7 cups (2½ lb), pitted; plus a thickener and sugar per [§14.1](#141-mixed-berry-cobbler)/[§14.8](#148-blueberry-cobbler), since the source's own amounts are cut off — see Open Questions
 
 #### Nutrition *(estimated)*
@@ -40779,7 +40787,7 @@ Transfer the biscuits to a wire rack and cool for 5 minutes before serving.
 
 - ✅ **The earlier "hard to fully make out" flag is retired.** The 2026-09-06 page-order audit read book pp. 392–393 at full resolution: the butter-flattening motion, the fold sequence, the roll thickness, the cutter handling, and the two-stage bake are all printed plainly and are now transcribed exactly. Several of them turned out to be *different* from the first pass, not merely uncertain — see the ⚠️ note above the ingredient list.
 - ⚠️ **The Fruit Cobbler variation is genuinely incomplete, and this is a new finding.** Its text runs off the bottom of book p. 393 mid-sentence, at "Combine 7 cups (2½ pounds) of fresh pitted cherries," and continues onto **p. 394, which appears at no index in the 50-page scan.** The earlier version of this entry had a complete-looking cobbler method; that ending was not in the source and has been removed rather than left standing. Use [§14.1](#141-mixed-berry-cobbler) or [§14.8](#148-blueberry-cobbler)'s fruit ratio and bake time in the meantime.
-- **Vanilla Cream (source p. 423) and Strawberry Compote (source p. 407), the Shortcakes variation's filling, are the same standing gaps flagged at [§14.21](#1421-loris-chocolate-midnight-cake), [§14.23](#1423-fresh-ginger-and-molasses-cake), and [§14.25](#1425-marshmallowy-meringues)** — both confirmed absent from the whole scan by the audit; a whipped-cream substitute is noted at those entries.
+- ✅ **Vanilla Cream, half of the Shortcakes variation's filling, is no longer a gap — 2026-09-07.** Book pp. 422–425 were photographed and it's a flavor option inside **[§14.36 Scented Cream](#1436-scented-cream)**, closing the same flag at [§14.21](#1421-loris-chocolate-midnight-cake), [§14.23](#1423-fresh-ginger-and-molasses-cake), and [§14.25](#1425-marshmallowy-meringues) simultaneously. **Strawberry Compote (source p. 407) is still undocumented** and, per Cody, isn't being pursued — the quick stand-in at [§14.25](#1425-marshmallowy-meringues) covers it.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40884,7 +40892,7 @@ Fill the dish with a single layer of halved stone fruit (cut side up) or fist-si
 Roast until the fruit is tender and golden brown on the surface — about 15 minutes for smaller fruit (apricot halves, grapes) and up to 30 minutes for larger fruit (peach, nectarine, or plum halves).
 
 **5. Serve warm or at room temperature.**
-With Scented Cream *(a gap — see [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues)'s Open Questions for the same missing recipe)* or vanilla ice cream.
+With **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — **documented 2026-09-07**)* or vanilla ice cream. **The source's own printed pairing for §14.36's Bay Leaf Cream is "spoon bay leaf cream atop roasted peaches" — which is this dish exactly**, if you roast peach halves. Bay Leaf Cream is six gently torn bay leaves steeped 15 minutes in half the cream, strained, chilled, recombined and whipped; and since a bay leaf is already a substitute this recipe offers for the fig leaves, it's a neat echo of the same aromatic on the plate twice.
 
 #### C. Grocery Shopping List
 
@@ -40893,10 +40901,11 @@ With Scented Cream *(a gap — see [§14.25 Marshmallowy Meringues](#1425-marshm
 - 🛒 Fig leaves *(or bay leaves / fresh thyme)*
 - 🛒 Stone fruit (apricots, nectarines, peaches, or plums) or grapes on the stem — about 1½ lb
 - 🛒 Sugar
+- 🛒 *(For serving)* Heavy cream — 1 cup, plus a little sugar and 6 bay leaves, for [§14.36 Scented Cream](#1436-scented-cream)'s **Bay Leaf Cream** — the source's own pairing for roasted peaches; or vanilla ice cream
 
 #### Nutrition *(estimated)*
 
-*Based on 1½ lb peaches and 2 Tbsp sugar as a representative batch; fig leaves are aromatic wrapping, not eaten, so they aren't counted.*
+*Based on 1½ lb peaches and 2 Tbsp sugar as a representative batch; fig leaves are aromatic wrapping, not eaten, so they aren't counted. [§14.36 Scented Cream](#1436-scented-cream) adds about 105 calories per ¼-cup dollop if you serve it.*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
@@ -40909,7 +40918,7 @@ With Scented Cream *(a gap — see [§14.25 Marshmallowy Meringues](#1425-marshm
 
 - **Quantities are standardized from the source's own casual "fist-size bunches" and "sprinkle generously" language** rather than printed exact amounts — adjust freely to the size of the fruit and dish on hand.
 - **"Poach It in Wine," the source's second fruit method (between this entry and [§14.28](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation)), is no longer an open gap** — it was recovered by the 2026-09-06 page-order audit and is written up at [§14.34](#1434-poach-it-in-wine); see the note at the top of this entry.
-- **Scented Cream**, named as a serving suggestion here, is the same standing gap flagged at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) — the audit confirmed its page (source p. 422) appears nowhere in the 50-page scan, at any index.
+- ~~**Scented Cream**, named as a serving suggestion here, is the same standing gap flagged at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues).~~ **Settled 2026-09-07 — Cody photographed book pp. 422–425 and it's written up at [§14.36 Scented Cream](#1436-scented-cream)**, along with the **Bay Leaf Cream** variation the source pairs with roasted peaches specifically. No gap remains here.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41237,7 +41246,7 @@ Remove the fruit from the liquid as soon as it's tender and let it cool on a pla
 If the poaching liquid is thin and watery rather than syrupy, reduce it over high heat until it's about the consistency of maple syrup. Cool the syrup to room temperature, then return the fruit to it.
 
 **6. Serve warm or at room temperature, drizzled with its own syrup.**
-Alongside mascarpone, crème fraîche *(the source's own recipe, page 113 — already in this cookbook, condensed at [§T31 How to Use Acid](#t31-how-to-use-acid)'s "Making your own crème fraîche")*, lightly sweetened ricotta, Greek yogurt, vanilla ice cream, or Scented Cream *(source p. 422 — not among the photographed pages; see Open Questions)*.
+Alongside mascarpone, crème fraîche *(the source's own recipe, page 113 — already in this cookbook, condensed at [§T31 How to Use Acid](#t31-how-to-use-acid)'s "Making your own crème fraîche")*, lightly sweetened ricotta, Greek yogurt, vanilla ice cream, or **[§14.36 Scented Cream](#1436-scented-cream)** *(source p. 422 — **documented 2026-09-07**; its Vanilla, Spiced, or Bay Leaf options all sit well against poached fruit)*.
 
 > **Variation — two wines, one plate.** For a visually striking dessert, poach half the pears or quince in red wine and the other half in white, and alternate slices of each on the plate.
 
@@ -41254,7 +41263,7 @@ Alongside mascarpone, crème fraîche *(the source's own recipe, page 113 — al
 - 🛒 Vanilla bean — ½, split and scraped
 - 🛒 Salt
 - 🛒 Parchment paper — for the cartouche
-- 🛒 Mascarpone, crème fraîche, ricotta, Greek yogurt, or vanilla ice cream — for serving
+- 🛒 Mascarpone, crème fraîche, ricotta, Greek yogurt, or vanilla ice cream — for serving *(or heavy cream and a flavoring for [§14.36 Scented Cream](#1436-scented-cream); note its **Tangy Whipped Cream** option is built on the same crème fraîche or Greek yogurt already listed here)*
 - 🛒 Cinnamon stick, whole cloves, nutmeg — for the winter-spice variation
 
 #### Nutrition *(estimated — most of the poaching liquid is not eaten; the figures assume the fruit plus roughly a third of the reduced syrup lands on the plate)*
@@ -41268,7 +41277,7 @@ Alongside mascarpone, crème fraîche *(the source's own recipe, page 113 — al
 
 #### D. Open Questions
 
-- **Scented Cream (source p. 422) is named as a serving suggestion and isn't documented in this cookbook** — the same standing gap flagged at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) and [§14.29](#1429-roast-it-on-a-bed-of-fig-leaves). Mascarpone, crème fraîche, sweetened ricotta, Greek yogurt, or vanilla ice cream are the source's own equally valid alternatives and need no substitution.
+- ~~**Scented Cream (source p. 422) is named as a serving suggestion and isn't documented in this cookbook.**~~ **Settled 2026-09-07 — it's written up at [§14.36 Scented Cream](#1436-scented-cream)**, closing the same flag at [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) and [§14.29](#1429-roast-it-on-a-bed-of-fig-leaves). Mascarpone, crème fraîche, sweetened ricotta, Greek yogurt, and vanilla ice cream remain the source's own equally valid alternatives.
 - **The source gives a ratio, not a serving count.** "Serves about 6" above is this cookbook's own reasonable read of a 2-pound batch, not a printed number.
 
 [↑ Table of Contents](#table-of-contents)

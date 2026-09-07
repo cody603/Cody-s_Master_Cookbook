@@ -9566,9 +9566,13 @@ When the meat comes off the fire, pour the herb-and-oil mix onto a cutting board
 
 ### 4.130 Chimichurri Sauce
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, credited there to Chef Ryan Udette. The classic no-cook Argentine green sauce for beef — olive oil, garlic, parsley, and salt as the foundation, with cilantro and dried chiles de árbol here instead of the mint-and-water version elsewhere. **Distinct from [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) (Raichlen), [§4.94 Red Chimichurri](#494-red-chimichurri), and [§4.95 "Dry" Chimichurri](#495-dry-chimichurri)** — a fourth chimichurri now in this cookbook, from a fourth source; worth a side-by-side taste sometime.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter, credited there to Chef Ryan Udvett, the author's test kitchen director *(name corrected 2026-09-07 — the earlier entry had "Udette")*. The classic no-cook Argentine green sauce for beef — olive oil, garlic, parsley, and salt as the foundation, with cilantro and dried chiles de árbol here instead of the mint-and-water version elsewhere. Per the source, use it on darkly seared flank steak, tri-tip, and beef subs — it even works on smoked brisket. Spoon a small amount over the top or on the side when you serve; not too much, it's strong and you don't want to cover the steak, and people can always add more. **Distinct from [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) (Raichlen), [§4.94 Red Chimichurri](#494-red-chimichurri), and [§4.95 "Dry" Chimichurri](#495-dry-chimichurri)** — a fourth chimichurri now in this cookbook, from a fourth source; worth a side-by-side taste sometime.
 
 **Techniques used:** none — this is a no-cook blended sauce.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 189 (second-pass QC).** All eight ingredient lines match the page exactly, including the ¼ tsp kosher salt; the pulse-until-small-bits method with its chunks-are-OK and scrape-the-bowl notes, the use-now-or-a-day-or-two storage, the color-fades-but-goodness-remains line, and MAKES enough for 8 to 12 servings of steak / TAKES 20 minutes all match. **One fix:** the chef's surname is printed **Udvett**, not "Udette." No quantity changed.
+
+**Makes enough for 8 to 12 servings of steak · Takes 20 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min**, *enough for 8 to 12 servings of steak*
 
@@ -9619,9 +9623,13 @@ Use right away, or refrigerate for a day or two. The bright green color fades a 
 
 ### 4.131 Pesto
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. **Distinct from [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)**, the existing simpler version already in this cookbook — this one uses noticeably more basil relative to oil, and adds kalamata olives, an unorthodox but real addition per the source itself ("I know olives rarely appear in pesto recipes... but do try it"). Also feeds [§4.116-adjacent uses](#4116-butcher-block-seasoning) the way any good pantry pesto does — stirred into soup, spread on toast, or, per the source, slathered on a pork loin roast before cooking. **The second of three pestos in this cookbook** — see also [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto), Samin Nosrat's *Salt, Fat, Acid, Heat* version, added later with its own ratio.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. **Distinct from [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce)**, the existing simpler version already in this cookbook — this one uses noticeably more basil relative to oil, and adds kalamata olives, an unorthodox but real addition per the source itself ("I know olives rarely appear in pesto recipes... but do try it"). Per the source it's far more versatile than a pasta sauce — add a tablespoon or two to any tomato sauce to bring it extra life, try it on potatoes, spread it on toast and top with fresh tomatoes for an August lunch, or slather it on a pork loin roast before cooking. Fresh basil, high-quality extra-virgin olive oil, and real Parmigiano-Reggiano (not "parmesan" from the green paper tube) are each called essential. **The second of three pestos in this cookbook** — see also [§4.164 Pesto (Basil Pesto)](#4164-pesto-basil-pesto), Samin Nosrat's *Salt, Fat, Acid, Heat* version, added later with its own ratio.
 
 **Techniques used:** none — this is a no-cook blended sauce.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 190 (second-pass QC).** All eight ingredient lines match the page exactly, including the ¼ tsp *table* salt (not kosher — as printed); the two-part method (everything but the oil pulsed fine-not-smooth, then the oil drizzled in on low until it's a paste), the week-in-an-airtight-jar storage with the olive-oil seal and freezes-very-well notes, the up-to-½-cup Thai basil / mint substitution, the pine-nut alternatives, and MAKES a bit more than 1 cup, and that's a lot / TAKES 15 minutes all match. **One fix, wording only:** the Notes had attached the "not authentic Genovese pesto" remark to the basil substitution — on the page it belongs to the olives. No quantity changed.
+
+**Makes a bit more than 1 cup, and that's a lot · Takes 15 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**, *makes a bit more than 1 cup*
 
@@ -9645,9 +9653,9 @@ Put all the ingredients except the olive oil in a blender or food processor and 
 With the blender or processor running on low, slowly drizzle in the oil until you have a paste.
 
 **3. Store.**
-Keep in an airtight jar in the fridge for up to a week — top with a thin layer of olive oil as a seal if it needs to last longer. It freezes very well.
+Keep in an airtight jar in the fridge for a week before it starts to brown — top with a thin layer of olive oil as a seal if it needs to last longer. Or freeze it; it freezes very well.
 
-**NOTES:** Substitute a little fresh Thai basil or mint for some of the basil (**up to ½ cup** — *corrected 2026-09-06; the earlier entry said ⅓ cup*) for depth, though not authentic Genovese pesto. Fresh basil and high-quality olive oil and Parmigiano-Reggiano (not the pre-grated kind from a green paper tube) matter more than anything else in this recipe. Good pine nuts have gotten expensive; the Asian-sourced kind can taste metallic or bitter.
+**NOTES:** Substitute a little Thai basil or mint for some of the basil to add depth and complexity, but don't use a lot (**up to ½ cup** — *corrected 2026-09-06; the earlier entry said ⅓ cup*). Pine nuts have become obscenely expensive, especially the good ones from Italy, and inexpensive pine nuts from Asia can taste metallic and bitter — substitute green pistachios, sunflower seeds, unsalted cashews, or blanched skinless almonds if you wish. And yes, olives rarely appear in pesto recipes, and certainly not in authentic Genovese pesto — just try it.
 
 #### C. Grocery Shopping List
 

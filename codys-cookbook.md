@@ -8353,7 +8353,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
 
-**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 169–170 (second-pass QC).** All seven ingredients and quantities, and the printed MAKES a bit less than ½ cup / TAKES 5 minutes, match; no salt is printed. **Two things changed.** (1) The method sentence sits at the top of p. 170 under a band of glare and is only partly legible — what can be read is *"Crush all … in a … or in a bowl with a … so they are about the same size but not ground …"*. The earlier entry's "mortar and pestle, a blender, or a spice grinder" is not what the page says (a **bowl** is the one tool that is legible), so Step 1 now carries only the legible words and is flagged. (2) The page's two **NOTES** — which the ingredient list points to — were never transcribed: **substitute black peppercorns if you can't find green, but the taste is significantly different, so do try to find green**; and **dried lemon zest is easy to make yourself** (scrape off the thin colored layer, leave the bitter white pith, lay it out for a day or so). Both are now in the entry.
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(plus a day of air-drying if you make your own lemon zest — see Notes)*
 
 #### A. Ingredients
 
@@ -8361,17 +8363,22 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp dried tarragon
 - 1 Tbsp dried parsley
 - 1 Tbsp dried chervil
-- 1 Tbsp freshly ground green peppercorns *(black pepper substitutes fine, if that's all you have)*
-- 1 Tbsp dried lemon zest
+- 1 Tbsp freshly ground green peppercorns *(see Notes — black works in a pinch, but the taste is significantly different)*
+- 1 Tbsp dried lemon zest *(see Notes — store-bought, or make your own)*
 - 1 tsp garlic powder
 
 #### B. Cooking Instructions
 
-**1. Crush the herbs together.**
-Crush all the herbs in a mortar and pestle, a blender, or a spice grinder until they're roughly the same size — not a fine powder, just evenly broken down.
+**1. Crush the herbs together until they're about the same size — not ground fine.**
+⚠️ *Partly illegible on the page (glare across the top of p. 170).* The legible words say to crush everything either in one tool the glare hides **or in a bowl with a** *(tool hidden)* **so they are about the same size but not ground** *(rest hidden)*. The sense is clear even if the tool isn't: break the herbs down evenly by hand, not to a powder. A bowl and the back of a spoon does it.
 
 **2. Apply just before cooking.**
-Press onto fish fillets right before grilling or searing, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) — rubs don't need a head start the way a brine does.
+Press onto fish fillets right before grilling or searing, per [§T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) — rubs don't need a head start the way a brine does. *(Application advice from the technique entry, not this page.)*
+
+**Notes** *(printed on p. 170)*:
+
+- **Green peppercorns:** if you can't find them, substitute black. The taste is significantly different, but it works. **Do try to find green ones.**
+- **Dried lemon zest:** some stores sell it, but it's easy to make. Scrape off the thin colored layer of a lemon, leaving behind the bitter white pith. Lay it in a bowl or on a plate for a day or so and it should dry out nicely.
 
 #### C. Grocery Shopping List
 
@@ -8381,8 +8388,8 @@ Press onto fish fillets right before grilling or searing, per [§T38](#t38-rubs-
 - 🛒 Dried tarragon — 1 Tbsp
 - 🛒 Dried parsley — 1 Tbsp
 - 🛒 Dried chervil — 1 Tbsp
-- 🛒 Green peppercorns (or black pepper) — 1 Tbsp
-- 🛒 Dried lemon zest — 1 Tbsp
+- 🛒 Green peppercorns (or black pepper) — 1 Tbsp *(green preferred — see Notes)*
+- 🛒 Dried lemon zest — 1 Tbsp *(or 1 lemon, to make your own — see Notes)*
 - 🛒 Garlic powder — 1 tsp
 
 #### Nutrition *(estimated)*
@@ -8410,6 +8417,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
 
+> ✅ **Corrected 2026-09-07 — second-pass QC against book p. 170 found an ingredient missing.** The page prints **fifteen** ingredients, not fourteen: **1½ teaspoons freshly ground black pepper**, listed between the red pepper flakes and the paprika, had been dropped — and the 2026-09-06 audit's "all exact" call missed it too. It's restored in the ingredient list, the grocery list, and the Nutrition block. Because the page's grind step names the whole spices it wants pulsed (celery, caraway, bay, rosemary, oregano, red pepper flakes) and the black pepper is already ground, it goes in with "the remaining ingredients" in Step 2. Everything else — the other fourteen quantities, the two-step method, and the printed MAKES ⅓ cup / TAKES 15 minutes — matches; no salt is printed. The headnote's uses are worth having: chicken, a boring pork chop, fish, blackened meats, jambalaya or gumbo, and the author's own andouille sausage.
+
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
 
 #### A. Ingredients
@@ -8420,6 +8429,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1½ tsp crushed dried rosemary leaves
 - ½ tsp crushed dried oregano
 - 1½ tsp crushed red pepper flakes
+- **1½ tsp freshly ground black pepper** *(restored 2026-09-07 — printed on the page, missing from every earlier version of this entry)*
 - 4 tsp paprika
 - 2 tsp ground ancho chile
 - 1 tsp garlic powder
@@ -8447,6 +8457,7 @@ Transfer to a bowl, add the remaining ingredients, and mix thoroughly.
 - 🛒 Dried rosemary — 1½ tsp
 - 🛒 Dried oregano — ½ tsp
 - 🛒 Crushed red pepper flakes — 1½ tsp
+- 🛒 Black pepper, freshly ground — 1½ tsp
 - 🛒 Paprika — 4 tsp
 - 🛒 Ground ancho chile — 2 tsp
 - 🛒 Garlic powder — 1 tsp
@@ -8460,10 +8471,10 @@ Transfer to a bowl, add the remaining ingredients, and mix thoroughly.
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about ⅓ cup)* | ~90 | 2 g | 3 g | 18 g | 6 g |
-| **Per serving** *(1 tsp, per pound of meat or seafood)* | ~5 | 0.1 g | 0.2 g | 1 g | 0.3 g |
+| **Whole batch** *(⅓ cup, as printed)* | ~100 | 2 g | 3 g | 20 g | 7 g |
+| **Per serving** *(1 tsp, per pound of meat or seafood)* | ~6 | 0.1 g | 0.2 g | 1.2 g | 0.4 g |
 
-**What a serving is:** about 1 tsp per pound — this is a seasoning blend, used like [§4.27 Cajun Rub](#427-cajun-rub) but with a different flavor signature.
+**What a serving is:** about 1 tsp per pound — this is a seasoning blend, used like [§4.27 Cajun Rub](#427-cajun-rub) but with a different flavor signature. *(Recalculated 2026-09-07 with the restored black pepper.)*
 
 [↑ Table of Contents](#table-of-contents)
 

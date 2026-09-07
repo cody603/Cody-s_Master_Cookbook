@@ -164,7 +164,7 @@ Click any recipe to jump straight to it.
   - [4.143 Miso-Mustard Dressing](#4143-miso-mustard-dressing) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.144 Green Goddess Dressing](#4144-green-goddess-dressing) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.145 Tahini Dressing](#4145-tahini-dressing) ✅ *(Salt, Fat, Acid, Heat; includes a Goma-Ae/Japanese sesame dressing variation)*
-  - [4.146 Basic Salsa Verde](#4146-basic-salsa-verde) ✅ *(Salt, Fat, Acid, Heat; includes Bread Crumb Salsa, Classic Italian Salsa Verde, and Mint Salsa Verde variations — distinct from [§4.47](#447-salsa-verde))*
+  - [4.146 Basic Salsa Verde](#4146-basic-salsa-verde) ✅ *(Salt, Fat, Acid, Heat; includes all eight printed variations — Bread Crumb, toasted nuts, spicy, celery, lemon zest, garlic, Classic Italian, and Mint Salsa Verde — plus the Fried Sage Salsa Verde recipe; distinct from [§4.47](#447-salsa-verde))*
   - [4.147 Classic French Herb Salsa](#4147-classic-french-herb-salsa) ✅ *(Salt, Fat, Acid, Heat)*
   - [4.148 Mexican-ish Herb Salsa](#4148-mexican-ish-herb-salsa) ✅ *(Salt, Fat, Acid, Heat; includes a Pumpkin Seed Salsa variation)*
   - [4.149 Southeast Asian-ish Herb Salsa](#4149-southeast-asian-ish-herb-salsa) ✅ *(Salt, Fat, Acid, Heat)*
@@ -904,7 +904,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) | 🟡 | 10 min | — | — | 10 min |
-| [§4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise) | 🟢 | 10 min | — | — | 2 hr 10 min *(includes a 2 hr chill)* |
+| [§4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise) | 🟢 | 10 min | — | — | 2–3 hr *(includes "a few hours" of chilling, per the page)* |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 20 min *(includes a 10 min stand)* |
 | [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
 | [§4.102 Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) | 🟢 | 10 min | — | — | 15 min |
@@ -9740,6 +9740,8 @@ Refrigerate leftover dressing, covered, for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 248), from the "Creamy" chapter of her recipe section — the same chapter, and the very next page, as [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing). Same source as [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 248 (scan p. 4, enlarged), without reference to the 2026-09-06 audit. Every quantity, the 15-minute macerate, the one-bowl whisk, the lettuce-leaf taste, the 3-day keep, and MAKES about 1¼ cups match. **One omission fixed:** the page's herb list ends *"…chervil, basil, and tarragon"* — tarragon had been dropped from the ingredient line and the grocery list; both restored. No salt quantity altered.
+
 **Makes about 1¼ cups**
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~20 min** *(includes a 15 min macerate)*
@@ -9752,7 +9754,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - 3 tablespoons extra-virgin olive oil
 - 1 small garlic clove, finely grated or pounded with a pinch of salt
 - 1 scallion, white and green parts finely chopped
-- ¼ cup finely chopped soft herbs, in whatever proportions you like — any combination of parsley, cilantro, dill, chives, chervil, and basil
+- ¼ cup finely chopped soft herbs, in whatever proportions you like — any combination of parsley, cilantro, dill, chives, chervil, basil, and tarragon *(tarragon restored 2026-09-07 — the page lists seven herbs; the earlier transcription had dropped it)*
 - ½ teaspoon sugar
 - Salt
 - Freshly ground black pepper
@@ -9784,7 +9786,7 @@ Refrigerate leftovers, covered, for up to 3 days.
 - 🛒 Extra-virgin olive oil — 3 Tbsp
 - 🛒 Garlic — 1 small clove
 - 🛒 Scallion — 1
-- 🛒 Soft herbs (parsley, cilantro, dill, chives, chervil, basil) — ¼ cup chopped, any combination
+- 🛒 Soft herbs (parsley, cilantro, dill, chives, chervil, basil, tarragon) — ¼ cup chopped, any combination
 - 🛒 Sugar — ½ tsp
 - 🛒 Salt and freshly ground black pepper
 
@@ -9804,6 +9806,8 @@ Refrigerate leftovers, covered, for up to 3 days.
 ### 4.136 Any-Other-Citrus Vinaigrette
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (**p. 244** — corrected 2026-09-06 from "p. 239" by the page-order audit), from the "Light" vinaigrettes chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and [§4.134](#4134-creamy-caesar-dressing)/[§4.135](#4135-creamy-herb-dressing).
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 244 (scan p. 5 left, enlarged). All six ingredients, the 15-minute macerate, the stir-or-shake, MAKES about ⅔ cup, the 3-day keep, the Ideal-for list, and the Kumquat variation (3 Tbsp finely diced kumquats, added to the shallots with the vinegar) match the page exactly. Nothing changed.
 
 **Makes about ⅔ cup**
 
@@ -9859,6 +9863,8 @@ Cover and refrigerate leftovers for up to 3 days.
 ### 4.137 Tomato Vinaigrette
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (**p. 245** — corrected 2026-09-06 from "p. 239"; the source itself cites this recipe as "Tomato Vinaigrette, page 245" at [§5.52](#552-summer-tomato-basil-and-cucumber) and [§5.56](#556-cherry-tomato-confit)), facing [§4.136 Any-Other-Citrus Vinaigrette](#4136-any-other-citrus-vinaigrette) in the same "Light" vinaigrettes chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 245 (scan p. 5 right, enlarged). The headnote, all eight ingredients (2 Tbsp shallots, 2 Tbsp red wine vinegar, 1 Tbsp aged balsamic, 8 oz tomato, 4 basil leaves, ¼ cup oil, 1 clove), the ½ cup of grated tomato, the palm-smashed garlic, the 10-minute sit and garlic removal, MAKES about 1 cup, and the 2-day keep all match. Nothing changed.
 
 > **Per the source:** make this dressing with the ripest tomatoes, or better yet, with the cores and ends from the tomatoes you plan to use in your salad. A tomato is ripe when it smells woody and sweet at the stem, and feels firm with just a little give when pressed.
 
@@ -9925,6 +9931,8 @@ Cover and refrigerate leftovers for up to 2 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 240), opening the "Light" vinaigrettes chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 240 (scan p. 6 left, enlarged). 1 Tbsp shallot, 2 Tbsp red wine vinegar, 6 Tbsp oil, a generous pinch of salt and a *small* pinch of pepper, the 15-minute macerate, MAKES about ½ cup, the 3-day keep, and the Honey-Mustard variation (1 Tbsp Dijon + 1½ tsp honey) all match. Nothing changed.
+
 **Makes about ½ cup**
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~20 min** *(includes a 15 min macerate)*
@@ -9978,6 +9986,8 @@ Cover and refrigerate leftovers for up to 3 days.
 ### 4.139 Balsamic Vinaigrette
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 241), facing [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). This cookbook already carries the source's condensed **[§T83 About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying)** entry (from the Meathead Sides chapter) on telling real Aceto Balsamico Tradizionale from supermarket "balsamic vinegar of Modena" — worth a look before buying the "aged balsamic vinegar" this recipe calls for.
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 241 (scan p. 6 right, enlarged). 1 Tbsp shallot, 1 Tbsp aged balsamic, 1 Tbsp red wine vinegar, 4 Tbsp oil, the 15-minute macerate, MAKES about ⅓ cup, the 3-day keep, and both variations — Parmesan (1½ oz / about ½ cup) and Brown Butter (4 Tbsp in place of the oil, brought back to room temperature) — match. Nothing changed.
 
 **Makes about ⅓ cup**
 
@@ -10037,13 +10047,15 @@ Cover and refrigerate leftovers for up to 3 days.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 242). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat).
 
+> ✅ **Independently re-verified 2026-09-07** against book p. 242 (scan p. 8 left, enlarged). **One quantity fixed:** the page prints **½ teaspoon** finely grated lemon zest, not ¾ — corrected in the ingredient list. Everything else matches: 2 Tbsp juice, 1½ tsp white wine vinegar, 5 Tbsp oil, the smashed garlic, generous pinch of salt and pinch of pepper, the 10-minute sit, MAKES about ½ cup, the 2-day keep, and the Lemon-Anchovy variation (2 salt-packed anchovies or 4 fillets, pounded, plus an additional ½ clove garlic). No salt quantity altered.
+
 **Makes about ½ cup**
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~15 min** *(includes a 10 min rest)*
 
 #### A. Ingredients
 
-- ¾ teaspoon finely grated lemon zest (about ½ lemon's worth)
+- ½ teaspoon finely grated lemon zest (about ½ lemon's worth) *(corrected 2026-09-07 — the page prints ½ teaspoon; the earlier transcription had ¾)*
 - 2 tablespoons freshly squeezed lemon juice
 - 1½ teaspoons white wine vinegar
 - 5 tablespoons extra-virgin olive oil
@@ -10427,15 +10439,27 @@ Use a slotted spoon to add the shallot — but not its macerating vinegar, not y
 
 Cover and refrigerate leftovers for up to 3 days.
 
-**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables. The source suggests English Pea Soup, Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Finger-Lickin' Pan-Fried Chicken, Chicken Confit, and Conveyor Belt Chicken — none of these are documented in this cookbook yet, so they're noted rather than invented — alongside [§7.123 Kufte Kebabs](#7123-kufte-kebabs), which is.
+**Serving suggestions:** As a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables. The source suggests English Pea Soup, Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken, Finger-Lickin' Pan-Fried Chicken, Chicken Confit, Conveyor Belt Chicken, and Spicy Brined Turkey Breast — none of these are documented in this cookbook yet, so they're noted rather than invented — alongside [§7.123 Kufte Kebabs](#7123-kufte-kebabs), which is.
+
+**The page prints eight variations, all of them here** *(five — the nuts, the spicy kick, the celery, the lemon zest, and the garlic — were missing from the earlier transcription and restored 2026-09-07)*:
 
 > **Variation — Bread Crumb Salsa.** Stir in 3 tablespoons toasted bread crumbs just before serving, for a crunchy version. *(The source's own "Sprinkling Crumbs" recipe, page 237, wasn't among the pages photographed for this batch — plain toasted fresh bread crumbs stand in.)*
+
+> **Variation — Toasted Nuts.** To add some texture, add 3 tablespoons finely chopped toasted almonds, walnuts, or hazelnuts to the parsley oil.
+
+> **Variation — Spicy Kick.** Add 1 teaspoon red pepper flakes or 1 teaspoon minced jalapeño pepper to the parsley oil.
+
+> **Variation — Extra Freshness.** Add 1 tablespoon finely chopped celery to the parsley oil.
+
+> **Variation — Citrus Touch.** Add ¼ teaspoon grated lemon zest to the parsley oil.
+
+> **Variation — Garlic Fire.** Add 1 clove finely grated or pounded garlic.
 
 > **Variation — Classic Italian Salsa Verde.** Add 6 finely chopped anchovy fillets and 1 tablespoon rinsed, coarsely chopped capers to the parsley oil.
 
 > **Variation — Mint Salsa Verde.** Substitute 2 tablespoons finely chopped mint for half of the parsley.
 
-> **Variation — Fried Sage Salsa Verde.** A separate named recipe on the facing page (book p. 361), built straight on this one. **Makes 1 scant cup.** It calls for **1 batch of Basic Salsa Verde (above), 24 sage leaves, and about 2 cups neutral-tasting oil for frying.** **To fry the sage:** heat the oil in a small deep saucepan over medium heat until it shimmers and a test leaf sizzles immediately on contact (about 350°F). Fry the leaves a handful at a time — they cook in **5 to 10 seconds**, and they tell you when they're done: the furious bubbling slows and stops, and the leaf goes flat, crisp, and slightly translucent, its green turning muted rather than brown. Lift them out with a slotted spoon or spider onto a paper-towel-lined plate and salt them right away while the oil is still wet on the surface. Go past that window and they scorch and turn bitter, so stay at the pot and pull them the moment the bubbling quits. **Just before serving, crumble the fried sage into the salsa, taste, and adjust for salt and acid** — crumble it in at the last minute, since the leaves soften as soon as they meet the oil-and-vinegar base. Leftovers keep, covered, up to 3 days. Serving suggestions: with Thanksgiving dinner; as a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables.
+> **Variation — Fried Sage Salsa Verde.** A separate named recipe on the facing page (book p. 361), built straight on this one. **Makes 1 scant cup.** It calls for **1 batch of Basic Salsa Verde (above), 24 sage leaves, and about 2 cups neutral-tasting oil for frying.** *The page itself prints only "Follow the instructions on page 233 for frying sage" — a page Cody checked and found doesn't actually carry the method, so the frying details that follow are this cookbook's own working method (added in the 2026-09-07 gap-clearing pass), not a transcription.* **To fry the sage:** heat the oil in a small deep saucepan over medium heat until it shimmers and a test leaf sizzles immediately on contact (about 350°F). Fry the leaves a handful at a time — they cook in **5 to 10 seconds**, and they tell you when they're done: the furious bubbling slows and stops, and the leaf goes flat, crisp, and slightly translucent, its green turning muted rather than brown. Lift them out with a slotted spoon or spider onto a paper-towel-lined plate and salt them right away while the oil is still wet on the surface. Go past that window and they scorch and turn bitter, so stay at the pot and pull them the moment the bubbling quits. **Just before serving, crumble the fried sage into the salsa, taste, and adjust for salt and acid** — crumble it in at the last minute, since the leaves soften as soon as they meet the oil-and-vinegar base. Leftovers keep, covered, up to 3 days. Serving suggestions: with Thanksgiving dinner; as a garnish for soup; with grilled, poached, roasted, or braised fish and meat; with grilled, roasted, or blanched vegetables; with Simmered Beans, Crispiest Spatchcocked Chicken, Conveyor Belt Chicken, Spicy Brined Turkey Breast, Grilled Skirt Steak, or Rib Eye *(none of these are documented in this cookbook yet, so noted rather than invented)*.
 
 #### C. Grocery Shopping List
 
@@ -10446,6 +10470,7 @@ Cover and refrigerate leftovers for up to 3 days.
 - 🛒 Fresh parsley — ¼ cup very finely chopped
 - 🛒 Extra-virgin olive oil — ¼ cup
 - 🛒 Salt
+- 🛒 *For the variations, as wanted:* toasted bread crumbs (3 Tbsp); toasted almonds, walnuts, or hazelnuts (3 Tbsp chopped); red pepper flakes or a jalapeño (1 tsp); celery (1 Tbsp chopped); a lemon for ¼ tsp zest; an extra garlic clove; anchovy fillets (6) and capers (1 Tbsp); fresh mint (2 Tbsp chopped); sage (24 leaves) and about 2 cups neutral oil for the Fried Sage version
 
 #### Nutrition *(estimated)*
 
@@ -11208,8 +11233,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 #### A. Ingredients
 
 - 1 egg yolk, at room temperature *(see the note below on why)*
-- ¾ cup neutral oil, or olive oil for a Mediterranean-leaning mayo
-- Salt
+- ¾ cup neutral oil, or olive oil for a Mediterranean-leaning mayo *(the page's own line: "¾ cup oil — refer to page 374 to help you decide what type of oil to use")*
+- Salt — **only if you're serving it plain as a spread.** *The printed Basic Mayonnaise lists just the yolk and the oil, with no salt line at all (confirmed 2026-09-07); the headnote above is where the salting advice lives — leave it unsalted when it's the base for [§4.160](#4160-classic-sandwich-mayo)–[§4.163](#4163-rouille-pepper-mayonnaise) or a Caesar, since those season it themselves, and for a plain mayo dissolve the salt in a spoonful of water or acid first.*
 
 #### B. Cooking Instructions
 
@@ -11217,7 +11242,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 A cold yolk and room-temperature oil are already at different temperatures before you start — exactly the kind of temperature swing that makes an emulsion break (see [§T30](#t30-how-to-use-fat)). If the egg came straight from the fridge, set it in a bowl of warm water for a few minutes first.
 
 **2. Set up a steady bowl, then start whisking.**
-Place the egg yolk in a deep, medium metal or ceramic bowl. Dampen a kitchen towel, roll it into a long log, and coil it into a ring on the counter; set the bowl in the middle — it won't skid while you whisk one-handed. (If whisking by hand is out of the question, a blender or food processor works too.)
+Place the egg yolk in a deep, medium metal or ceramic bowl. Dampen a kitchen towel, roll it into a long log, and coil it into a ring on the counter; set the bowl in the middle — it won't skid while you whisk one-handed. (If whisking by hand is simply out of the question, the page says a blender, stand mixer, or food processor works too.)
 
 **3. Drip in the oil, one drop at a time, whisking constantly.**
 Use a ladle or a bottle with a narrow spout to add the oil a drop at a time while whisking the yolk without stopping. Go slowly — this is the part that actually builds the emulsion, and rushing it is the single most common way to break one. Once about half the oil is in and the mixture is holding together, you can pour a little faster.
@@ -11228,8 +11253,8 @@ Add a teaspoon or so of water (or whichever liquid you're finishing the mayo wit
 **5. If it breaks, don't panic — fix it.**
 Refer to [§T16 Part C](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one) or [§T30](#t30-how-to-use-fat)'s "If your mayonnaise breaks" passage: a fresh bowl, a half-teaspoon of the hottest tap water whisked to a foam, then the broken mixture drizzled back in drop by drop. It happens to everyone, and it's a setback, not a do-over.
 
-**6. Season and serve.**
-Salt to taste. Cover and refrigerate leftovers for up to 3 days.
+**6. Season only if serving plain, then store.**
+If this is going into one of the sauces built on it, leave it unsalted and stiff — they season it. If it's going straight onto a sandwich, dissolve a pinch of salt in a spoonful of water or lemon juice and stir that in, tasting as you go (the page's headnote advice, not a printed quantity). Cover and refrigerate leftovers for up to 3 days.
 
 #### C. Grocery Shopping List
 
@@ -11237,7 +11262,7 @@ Salt to taste. Cover and refrigerate leftovers for up to 3 days.
 
 - 🛒 Eggs — 1, for the yolk
 - 🛒 Neutral oil (or olive oil) — ¾ cup
-- 🛒 Salt
+- 🛒 Salt — only for a plain spread; not printed in the recipe itself
 
 #### Nutrition *(estimated)*
 
@@ -11275,7 +11300,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 In a small bowl, mix the vinegar and lemon juice and stir until the mustard powder, sugar, and a generous pinch of salt fully dissolve — mixing them into a liquid first, rather than sprinkling them straight into the mayonnaise, keeps them from clumping.
 
 **2. Stir into the mayonnaise. Taste and adjust.**
-Stir the mixture into the mayonnaise. Taste, and adjust salt and acid as needed — this is meant to taste a little tangier and sweeter than a plain mayo, since it's built to season a sandwich on its own.
+Stir the mixture into the mayonnaise. Taste, and adjust salt and acid as needed — this is meant to taste a little tangier and sweeter than a plain mayo, since it's built to season a sandwich on its own. Cover and chill until serving.
 
 Cover and refrigerate leftovers for up to 3 days.
 
@@ -11417,7 +11442,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **Makes about 1 cup**
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~2 hr 10 min** *(includes a 2 hr chill so the pepper paste and vinegar can thicken it)*
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~2–3 hr** *(the page says the sauce thickens "with a few hours of refrigeration" — no exact figure is printed; plan on 2–3 hr)*
 
 > **Why Easy, not Medium:** same reasoning as [§4.161](#4161-aioli-garlic-mayonnaise)/[§4.162](#4162-herb-mayonnaise) — this stirs flavor into an already-made mayonnaise rather than building an emulsion from scratch.
 
@@ -11440,7 +11465,7 @@ Dissolve a generous pinch of salt in the vinegar.
 Stir into the mayonnaise, along with the pepper paste and garlic.
 
 **3. Chill. The pepper paste and vinegar will thicken it as it sits.**
-Cover and chill for a few hours before serving — the mayonnaise firms up noticeably as the pepper paste's moisture and the vinegar's acid work into it. Cover and refrigerate leftovers for up to 3 days.
+The pepper paste and vinegar will seem to thin out the mayonnaise at first — that's expected — but the sauce thickens with a few hours of refrigeration, so cover and chill until serving. Cover and refrigerate leftovers for up to 3 days.
 
 > **Variation — Chipotle Mayonnaise.** Substitute ⅓ cup puréed canned chipotle peppers (in adobo) for the pepper paste. Smokier and spicier than the roasted-red-pepper original, with a similar rust color from the chipotles themselves.
 
@@ -11476,7 +11501,7 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 > **The source's own headnote, folded in here:** *"I once worked for a chef who had a marble mortar and pestle the size (and weight) of a small child. Even though it was horribly inconvenient and entirely messy to use, he insisted that we do it to pound all of the ingredients every time we made pesto, to better connect with our culinary ancestors."* **Pesto** takes its name from *pestare*, Italian for "to pound" — the traditional method crushes the basil leaves between the pestle and mortar wall rather than slicing them, which bruises the leaf cells more gently and slowly than a fast-spinning blade does, so less chlorophyll oxidizes and the sauce stays a brighter green with a rounder, less "cut-grass" flavor. A food processor gets the same ingredients blended in a fraction of the time, at some cost to that color and freshness — the source's own compromise, described below, is a hybrid: pound the nuts and garlic by hand, then finish the basil in a machine kept as brief and cool as possible.
 
-**Makes 1¾ cups**
+**Makes 1½ cups** *(corrected 2026-09-07 — the page prints 1½ cups; the earlier transcription had 1¾)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
 
@@ -11503,7 +11528,7 @@ Pour the basil purée into a medium bowl. Add **some of the garlic**, the pine n
 **4. Add enough oil to cover the surface, to keep the color.**
 Pour a thin layer of olive oil over the top of the pesto before storing — it seals out the air that would otherwise oxidize and dull the green.
 
-Refrigerate, covered, for up to 5 days, or freeze for up to 3 months.
+Refrigerate, covered, for up to 3 days, or freeze for up to 3 months. *(Corrected 2026-09-07 — the page prints 3 days in the fridge, not 5.)*
 
 > **Change It Up — swap the greens, nuts, or cheese.** The source's own substitution chart, keeping the same 2 cups greens : 1 heaping cup grated cheese : ½ cup nuts : ¾ cup oil ratio:
 > - **Cooked greens:** broccoli rabe, kale, wild nettles, chard.
@@ -11527,12 +11552,12 @@ Refrigerate, covered, for up to 5 days, or freeze for up to 3 months.
 - 🛒 Parmesan — 3½ oz, finely grated (about 1 heaping cup), plus more for serving
 - 🛒 Salt
 
-#### Nutrition *(estimated — recalculated 2026-09-06 for the corrected 3½ oz Parmesan)*
+#### Nutrition *(estimated — recalculated 2026-09-06 for the corrected 3½ oz Parmesan, and again 2026-09-07 for the corrected 1½-cup yield)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(1¾ cups)* | ~2,285 | 239 g | 46 g | 10 g | 6 g |
-| **Per serving** *(2 Tbsp, of 14)* | ~163 | 17 g | 3.3 g | 0.7 g | 0.4 g |
+| **Whole batch** *(1½ cups)* | ~2,285 | 239 g | 46 g | 10 g | 6 g |
+| **Per serving** *(2 Tbsp, of 12)* | ~190 | 20 g | 3.8 g | 0.8 g | 0.5 g |
 
 **What a serving is:** 2 Tbsp — enough to sauce about 4 oz of cooked pasta for one person, or a generous spoonful over vegetables.
 

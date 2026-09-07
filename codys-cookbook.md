@@ -19103,7 +19103,7 @@ Put the cooking oil, mustard greens, turnips, pepper, onion, and salt into a pot
 
 ### 5.31 Scalloped Oyster Dressing
 
-Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. Frank C. Rogers**, who notes she's made this "our favorite with turkey, goose and duck when dressing is not served" since first arriving in Lafayette 20 years before writing it down. A layered cracker-and-oyster casserole, distinct from a bread- or cornbread-based dressing.
+Transcribed from a printed page — ***Talk About Good!*** (p. 265), credited to **Mrs. F. M. McGinn** — the same contributor as [§8.29 Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) — who calls it *"our favorite with turkey, goose and duck when dressing is not served."* A layered cracker-and-oyster casserole, distinct from a bread- or cornbread-based dressing. *(This entry was credited to Mrs. Frank C. Rogers until the 2026-09-07 re-verification; Rogers is the contributor of the untitled rice–corn bread dressing cut off above this one on the page, and the "20 years in Lafayette" line this entry used to quote belongs to that recipe, not this one.)*
 
 **Yield:** not stated; estimated to serve 8, flagged below.
 
@@ -19118,11 +19118,11 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. F
 - Celery hearts, chopped *(quantity not given)*
 - Parsley, chopped *(quantity not given)*
 - Salt, red and black pepper
-- A few drops Worcestershire sauce
 - Oyster juice
 - Milk
 - Cream
-- Butter, for dotting liberally
+- A few drops Worcestershire sauce *(named in the instructions, not the source's own ingredient list)*
+- Butter, for dotting liberally *(named in the instructions, not the source's own ingredient list)*
 - Paprika, for the top *(named in the instructions, not the source's own ingredient list)*
 
 #### B. Cooking Instructions
@@ -19133,11 +19133,11 @@ In a large greased oblong baking dish, place a thick layer of broken crackers. A
 **2. Cover the oysters.**
 Cover each oyster with chopped celery hearts and chopped parsley. Salt and pepper all over.
 
-**3. Add a second cracker layer, then season again.**
-Add another layer of broken crackers, a few drops of Worcestershire sauce, black pepper, and some oyster juice.
+**3. Add a second cracker layer.**
+Another layer of broken crackers over the top.
 
-**4. Pour the milk, cream, and remaining oyster juice over — but don't cover the top layer of crackers.**
-Mix the milk, cream, and oyster juice together first, then pour it in.
+**4. Mix the liquid and pour it in — but don't cover the top layer of crackers.**
+Mix the milk, cream, oyster juice, a few drops of Worcestershire sauce, and black pepper together, then pour it into the dish, stopping short of the top cracker layer.
 
 **5. Dot with butter and sprinkle with paprika.**
 
@@ -19170,6 +19170,8 @@ Mix the milk, cream, and oyster juice together first, then pour it in.
 #### D. Open Questions
 
 - **No quantities given for crackers, celery, parsley, milk, or cream, or a serving count** — all assumed for the write-up and Nutrition estimate. Confirm against the actual card if Cody has more detail than the photographed page shows.
+
+✅ *Re-verified against the p. 265 photo, 2026-09-07:* contributor corrected from Mrs. Frank C. Rogers to the printed **Mrs. F. M. McGinn**; the Worcestershire and black pepper now go into the milk-cream-oyster-juice mixture, as printed, rather than being sprinkled over the second cracker layer; Worcestershire and butter marked as instruction-only ingredients (the printed list has neither). Every printed quantity — there is only one, the 2 pt of oysters — and the 325°F / one-hour bake match.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -26132,7 +26134,7 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 171), credited to
 1. Thin onion slices, added after turning, basted with lemon butter
 2. Fresh tomato slices, added after turning, basted while broiling
 3. Almonds, browned in butter and poured over the broiled fish
-4. A garlic butter sauce: 1 onion, minced · 2 tsp parsley · 1 clove garlic, minced · 1 tsp Worcestershire sauce · ½ stick butter *(enough for 2–3 fish)*
+4. A garlic butter sauce, poured over the fish and basted with while broiling: 1 onion, minced · 2 tsp parsley · 1 pod garlic, minced · 1 tsp Worcestershire sauce · ½ stick butter *(enough for 2–3 fish)*
 
 #### B. Cooking Instructions
 
@@ -26149,7 +26151,9 @@ Turn the fish once, with a spatula, at the end of 5 minutes, and continue bastin
 Test doneness by pricking with a fork; the fish falls apart when done.
 
 **5. For variety, finish with one of the four options above.**
-Onion or tomato slices go on after the fish is turned, basted the same way. The browned almonds or the garlic butter sauce (Variation 4, enough for 2–3 fish) go on after the fish is fully broiled.
+Onion or tomato slices go on after the fish is turned, basted the same way. The browned almonds (Variation 3) are poured over the fish once it's broiled. The garlic butter sauce (Variation 4, enough for 2–3 fish) is poured over the fish and used as the baste *while* it broils — not added afterward.
+
+✅ *Re-verified against the p. 171 photo, 2026-09-07:* Variation 4 corrected — the page reads "Pour over fish and baste while broiling," where this entry had it going on after; the garlic is printed as "1 pod." All other ingredients, the 2-inch scoring, the 15-min-per-pound / turn-at-5-minutes timing, and the doneness cues match.
 
 #### C. Grocery Shopping List
 
@@ -26434,7 +26438,7 @@ Transcribed from a printed page — ***Talk About Good!***, credited to **Mrs. C
 Melt the margarine. Add the flour and brown lightly.
 
 **2. Add the vegetables and fry. About 1 hour.**
-Add the garlic, onion, celery, and tomato sauce. Cover and fry, stirring frequently to keep from sticking.
+Add the garlic, onion, shallot bottoms, green pepper, celery, and tomato sauce. Cover and fry, stirring frequently to keep from sticking. *(The shallot tops and the parsley wait until Step 6.)*
 
 **3. Add water and let it "taree." Several hours.**
 Add the 3 cups of water and let it simmer ("taree," per the source) for several hours, adding more water if it thickens too much. The mixture should be creamy and thick by the time you add the tails.
@@ -26479,6 +26483,8 @@ Bake at 350°F for about 15 minutes, then reduce the heat to 300°F and bake ano
 | **Per serving** *(serves 6, as printed)* | ~835 | 52 g | 36 g | 43 g | 1 g |
 
 **What a serving is:** one generous slice, about ⅙ of the pie.
+
+✅ *Re-verified against the photo, 2026-09-07:* Step 2 had dropped two of the printed vegetables — the page fries garlic, onions, **shallot (bottoms), green pepper**, celery, and tomato sauce together; the entry listed only garlic, onion, celery, and tomato sauce. Restored. Every quantity, the 1-hour fry, the 3 cups water, the 15-minute tail cook, the two-stage 350°F/300°F bake, and "Serves 6" match the page.
 
 [↑ Table of Contents](#table-of-contents)
 

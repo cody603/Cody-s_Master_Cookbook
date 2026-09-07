@@ -373,7 +373,7 @@ Click any recipe to jump straight to it.
 - [7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) ○ *(incomplete — finishing steps not photographed)*
 - [7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) ✅
 - [7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken) ✅
-- [7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
+- [7.59 Mediterranean Pork Tenderloin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
 - [7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃 ○
 - [7.61 Broiled Fish](#761-broiled-fish) ✅
 - [7.62 Catfish Étouffée](#762-catfish-étouffée) ✅
@@ -747,7 +747,7 @@ Click any recipe to jump straight to it.
 | 2026-08-13 | **[§9.8 Jalapeño Poppers](#98-jalapeño-poppers) filled in** — Cody's all-time top snack finally has its recipe, transcribed from a family note signed *"Love, Mom"* and addressed to Vickie, kept as written. Sausage, cream cheese, and Parmesan stuffed into 22 halved jalapeños and baked at 425°F. **Mom's own serving caveat kept as a callout**: these don't travel well once cooked, so bake at the serving location if possible, or warm 5 minutes before serving if not. Also carries her freeze-ahead tip — the stuffed, unbaked peppers can be frozen for later. Rated 🟢 Easy — browning sausage and baking to a visual doneness cue, nothing that can break. Added to the Difficulty & Time Index; the Table of Contents status flips from ○ to ✅. |
 | 2026-08-13 | Added **[§14.6 Key Lime Pie](#146-key-lime-pie)** — transcribed from a printed recipe card (Tastes Better From Scratch, Lauren Allen). Graham cracker crust, a beaten cream cheese/condensed milk/lime filling, and a whipped cream topping. **Per Cody: his wife always buys a premade graham cracker crust rather than making one from scratch** — added as a called-out shortcut in the Ingredients (ahead of the homemade crust steps) and as its own line in the Grocery Shopping List, with the homemade crust ingredients kept as the documented alternative rather than removed. Rated 🟢 Easy — no roux, no emulsion, no stovetop custard; the filling is beaten and baked, not tempered. Nutrition uses the source's printed calories (444/serving) with fat/protein/carbs/fiber estimated from the ingredient list, flagged as such. |
 | 2026-08-13 | **[§9.7 Chicken Salad](#97-chicken-salad) — grapes called out as the recommended add-in, per Cody, and no added seasonings needed confirmed.** Red grapes (halved) split out from the "any or all" mix-in list into their own recommended line, ahead of the still-optional apples, celery, raisins, and pecans; grocery list reordered to match. Ingredients and instructions both updated. |
-| 2026-08-12 | **A whole Greek/Mediterranean meal, dictated by Cody — six new entries, all his own, none from a photographed page.** The centerpiece is **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)** ❤️ — Vegeta-rubbed pork loin sous vide'd in olive oil and butter, cut into medallions, hard-seared, then cubed and piled onto a bed of goat cheese spread across the platter, so the residual heat half-melts the cheese into a sauce. Grilled zucchini, squash, onions, and tomatoes around it; hummus and garlic naan alongside. **Its chicken version is folded in as a comparison table** rather than split off, per Cody's *"the chicken is out of this world."* Supporting entries: **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)** ❤️, **[§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan)**, and **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)** ❤️. **Two of the six are a new kind of entry for this cookbook: store-bought products rather than recipes** — **[§4.87 Cavender's All Purpose Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought)** 👍 and **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** ❤️. There's nothing to mix and nothing to time, so they carry no badge and no Nutrition block and stay out of the Difficulty & Time Index counts, the same treatment [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) already get; a carve-out sentence was added to *Reading this table* saying so. Cavender's turned out to already be in the cookbook — it's the finishing seasoning on [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) — so that's now cross-linked both ways. **Worth recording plainly: Vegeta is Croatian, not Greek**, despite carrying the Mediterranean flavor here; noted in the entry rather than quietly presented as Greek. **Five things flagged rather than invented, because Cody didn't say:** (1) **the pork loin's sous vide temperature and time are mine, not his** — 140°F for 2–4 hours, reasoned between [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s 129°F beef and [§T28](#t28-sous-vide-chicken-codys-method)'s 148°F chicken, and marked ⚠️ throughout plus an Open Question; (2) **[§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) is missing an ingredient** — Cody named lime juice and olive oil and said there's "something else," so the entry carries the two confirmed items in a ratio marked as mine, with candidates listed as unconfirmed and the ingredient list left honest; (3) **the garlic-in-the-bag exception** — Cody asked for real cloves in the sous vide bag, which collides with [§1 Cody's Pho](#1-codys-pho)'s standing no-fresh-garlic rule, so it's written his way with the reasons it's materially safer here (2–4 hr not 24–36, and 140°F) plus a stated safer alternative; (4) **no quantities were given for the salad**, so its amounts are labeled working proportions; (5) **a passage about mixing Vegeta with something — feta and naan both nearby — trails off mid-sentence**, so it's left out of both §7.59 and §9.21 and raised in each one's Open Questions instead of reconstructed. **Two deliberate departures from the standard recorded as stated, not corrected:** the salad uses **crumbled goat cheese, not feta** (Cody self-corrected from blue cheese and then repeated it emphatically — *"don't use feta unless you absolutely have to"*) and **green olives, not kalamata**; and both the vinaigrette and the hummus use **lime, where every published version uses lemon** — noted as worth confirming, since it could be a slip. Family Ratings Index updated: ❤️ 51 → 55, 👍 13 → 14. |
+| 2026-08-12 | **A whole Greek/Mediterranean meal, dictated by Cody — six new entries, all his own, none from a photographed page.** The centerpiece is **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared)** ❤️ — Vegeta-rubbed pork loin sous vide'd in olive oil and butter, cut into medallions, hard-seared, then cubed and piled onto a bed of goat cheese spread across the platter, so the residual heat half-melts the cheese into a sauce. Grilled zucchini, squash, onions, and tomatoes around it; hummus and garlic naan alongside. **Its chicken version is folded in as a comparison table** rather than split off, per Cody's *"the chicken is out of this world."* Supporting entries: **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)** ❤️, **[§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan)**, and **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)** ❤️. **Two of the six are a new kind of entry for this cookbook: store-bought products rather than recipes** — **[§4.87 Cavender's All Purpose Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought)** 👍 and **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** ❤️. There's nothing to mix and nothing to time, so they carry no badge and no Nutrition block and stay out of the Difficulty & Time Index counts, the same treatment [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) already get; a carve-out sentence was added to *Reading this table* saying so. Cavender's turned out to already be in the cookbook — it's the finishing seasoning on [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) — so that's now cross-linked both ways. **Worth recording plainly: Vegeta is Croatian, not Greek**, despite carrying the Mediterranean flavor here; noted in the entry rather than quietly presented as Greek. **Five things flagged rather than invented, because Cody didn't say:** (1) **the pork loin's sous vide temperature and time are mine, not his** — 140°F for 2–4 hours, reasoned between [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s 129°F beef and [§T28](#t28-sous-vide-chicken-codys-method)'s 148°F chicken, and marked ⚠️ throughout plus an Open Question; (2) **[§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) is missing an ingredient** — Cody named lime juice and olive oil and said there's "something else," so the entry carries the two confirmed items in a ratio marked as mine, with candidates listed as unconfirmed and the ingredient list left honest; (3) **the garlic-in-the-bag exception** — Cody asked for real cloves in the sous vide bag, which collides with [§1 Cody's Pho](#1-codys-pho)'s standing no-fresh-garlic rule, so it's written his way with the reasons it's materially safer here (2–4 hr not 24–36, and 140°F) plus a stated safer alternative; (4) **no quantities were given for the salad**, so its amounts are labeled working proportions; (5) **a passage about mixing Vegeta with something — feta and naan both nearby — trails off mid-sentence**, so it's left out of both §7.59 and §9.21 and raised in each one's Open Questions instead of reconstructed. **Two deliberate departures from the standard recorded as stated, not corrected:** the salad uses **crumbled goat cheese, not feta** (Cody self-corrected from blue cheese and then repeated it emphatically — *"don't use feta unless you absolutely have to"*) and **green olives, not kalamata**; and both the vinaigrette and the hummus use **lime, where every published version uses lemon** — noted as worth confirming, since it could be a slip. Family Ratings Index updated: ❤️ 51 → 55, 👍 13 → 14. |
 | 2026-08-12 | **Structural fix, per Cody: the two foundational recipe formulas are no longer filed as cooking methods.** He's right that they were — they sat in the Techniques section as §T9 and §T10, alongside genuine methods like roux and sautéing, and that conflated two different kinds of thing. **A formula that dishes are variations on belongs with those dishes, ahead of them.** So: **§T9 Hearty Main Course Soup Formula → [§8.0 The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula)**, now opening §8 ahead of all twenty soups; and **§T10 Loaded Frittata Formula → [§10.0 The Loaded Frittata Formula](#100-the-loaded-frittata-formula)**, now opening §10 ahead of the egg dishes. The **.0** numbering is deliberate — it puts each formula first in its section rather than appended at the end, which is the whole point of the move. **The frittata's home is §10 Breakfast because that's where the egg dishes are** — there are no separate numbered frittata recipes to sit beside, since its eight named variations live inside the entry itself as a slot table, and [§10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) was already cross-linking to it. **§T8 Pan Sauce Formula deliberately stays in Techniques** — it's a component you build in a pan you've already got going, not a dish anyone sets out to make. **The vacated T9 and T10 numbers are left empty rather than renumbering T11–T28** and every reference to them; the Techniques quick index keeps a pointer row for each, so a mid-cook lookup still lands in the right place. Bookkeeping: TOC entries relocated into their sections, both Difficulty & Time Index rows relabeled, and every cross-reference in the cookbook repointed. **Two historical changelog rows were touched rather than silently rewritten** — the entries that originally announced these as §T9 and §T10 said they were "filed as a technique," which is no longer true, so each now carries its original number, a pointer to where it went, and an "at the time" marker. **One pre-existing fragility fixed while in the area:** §T11's link to *"§T8's list"* pointed at a bare `#e-grocery-shopping-list` anchor, which resolves to whichever "E. Grocery Shopping List" heading comes first in the document — it happened to be §T8's, but any reordering could have silently repointed it. Now links to §T8 directly. |
 | 2026-08-12 | **[§T28 Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) added, and both sous vide entries now carry full rub and sauce cross-reference tables** — per Cody's request to "give the reference back to the different rubs for both the steak and the chicken" and to map out what sauces can go on sous vide chicken. The chicken method is [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s twin with a different dial setting: 148°F for 1½ to 4 hours *(Cody's own note: the range is driven by thickness and how tender you want it)*, same dry-pat, avocado-oil spray, and 30–45 second cast iron sear. **No temperature caveat needed here** — unlike §T27's 129°F, which had to be reconciled against [§1 Cody's Pho](#1-codys-pho)'s sous vide rule, 148°F sits far above that range and pasteurizes chicken in minutes. **Answering Cody's question straight: there is no dedicated chicken rub in this cookbook** — nothing is titled for chicken the way [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) is titled for steak — **but five existing rubs name chicken in their own source text**, four of them printing a dose for a 4 lb chicken ([§4.27 Cajun](#427-cajun-rub), [§4.31 Mediterranean Herb](#431-mediterranean-herb-rub), [§4.26 Basic Barbecue](#426-basic-barbecue-rub), [§4.30 Mucho Macho](#430-mucho-macho-pepper-rub), [§4.33 Sesame](#433-sesame-seasoning)), so it's a naming gap rather than a real one. **The sauce tables are built from the sources' own "For:" lines rather than assembled by guesswork** — which is what makes chicken the better-served of the two: the entire French white-sauce family ([§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce)–[§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)) exists for poultry, and six brown sauces name chicken outright. **Two honest flags in those tables:** [§4.33 Sesame Seasoning](#433-sesame-seasoning) is a *finishing* seasoning per its own source ("sprinkled on after the food comes off the grill"), so it goes on after the sear rather than into the bag; and [§4.80 Sauce Madère](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce)'s source line names chicken *livers* rather than chicken generally — noted as such, with [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) cited as this cookbook's own proof the pairing works. The suggestion to save the bag juices for a [§T8 pan sauce](#t8-pan-sauce-formula) in the sear pan is marked as mine, not Cody's. **Follow-up, same day:** Cody read the entry as putting chicken in the bath for 6 to 8 hours and pushed back. It never did — the chicken time has been 1½ to 4 hours from the start, and the only "6 to 8" on the page was in a one-line contrast against the steak entry, sitting close enough to the chicken's own number to be misread. **No time was changed**; the opening was rewritten so the chicken's own range leads, with the steak contrast pulled out into its own callout that says plainly why chicken doesn't get those hours. |
 | 2026-08-12 | **A new technique, dictated directly by Cody: [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** Season, bag, sous vide at 129°F for 6 to 8 hours, pat bone-dry, spray with avocado oil, and sear 30–45 seconds a side in a screaming-hot cast iron pan. **One thing flagged rather than silently applied:** [§1 Cody's Pho](#1-codys-pho) already has an established rule against running sous vide at 129°F, specifically because that's *not high enough for a multi-day cook* — this entry explains why that rule doesn't apply here (a 6–8 hour single-cut cook pasteurizes well within the first few hours; the pho warning is about *C. perfringens* having room to grow across 24–36 hours at that temperature, not about 129°F itself being unsafe). Also carried over from the same established facts: no fresh garlic in the bag, dry rub only. Rated 🟡 Medium — the sous vide stage is foolproof, but the final sear is a genuine seconds-scale fail window against meat that's already perfectly cooked. **Also fixed in passing:** the T-section quick-index table at the top of §T was missing rows for T25 and T26 (added alongside T27's own row) — a bookkeeping gap that predates this entry. |
@@ -1362,7 +1362,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.20 Six-Onion Soup](#820-six-onion-soup) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
 | [§14.26 Classic Pumpkin Pie](#1426-classic-pumpkin-pie) | 🟢 | 25 min | 55 min | — | 2 hr 20 min *(includes a 15 min freeze and a 1 hr cooling rest)* |
 | [§5.31 Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) | 🟢 | 20 min | 1 hr | — | 1 hr 20 min |
-| [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **2–4 hr** *(sous vide, unattended)* | 3½–5½ hr |
+| [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) | 🟡 | 40 min | 40 min | **1½ hr** *(sous vide, unattended; 1–4 hr window)* | ~3 hr |
 | [§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) | 🟢 | 25 min | 55 min | — | 1 hr 20 min |
 | [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(Meathead)* | 🟢 | 20 min *(inject, slather, wrap, tie)* | 1 hr *(indirect at 225°F, unattended)* | — | 4¼ hr *(includes a 3 hr rest after injecting)* |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
@@ -1457,7 +1457,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ### ❤️ Family favorites — 56
 
-**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) · [§7.124 Poulet de France](#7124-poulet-de-france)
+**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) · [§7.124 Poulet de France](#7124-poulet-de-france)
 
 **Smoked meats — the whole section:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak)
 
@@ -7096,7 +7096,7 @@ For shirred eggs or poached calf's brains, make it separately so you can pour th
 
 **👍 Tried and liked** — *Cody: "It's really good."*
 
-**What Cody uses it for: shish kebabs, above all.** It's already the finishing seasoning in **[§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs)** — sprinkled liberally right before the skewers hit the grill. He also reaches for it on the chicken version of **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)**, though **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** is his first choice there.
+**What Cody uses it for: shish kebabs, above all.** It's already the finishing seasoning in **[§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs)** — sprinkled liberally right before the skewers hit the grill. He also reaches for it on the chicken version of **[§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared)**, though **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** is his first choice there.
 
 **What it tastes like:** salt-forward, with oregano, garlic, and black pepper the loudest notes over that salt base. **Season with it as though it were salt**, because to a large extent it is — taste before adding any separate salt to a dish. A salt-free version is also sold, if you want the herb profile without the sodium.
 
@@ -7118,7 +7118,7 @@ For shirred eggs or poached calf's brains, make it separately so you can pour th
 
 > **It's salty — salt is the first ingredient.** Treat it as your salt for the dish and taste before adding more, the same caution as [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought). This matters most on a long sous vide, where [§1 Cody's Pho](#1-codys-pho)'s established note applies: **nothing leaves a sealed bag** — salt equilibrates through the meat rather than cooking off, so it tastes less sharp but it's all still in there. Don't over-apply expecting a loss that isn't happening.
 
-**What Cody uses it on:** pork loin (**[§7.59](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)**), chicken thighs, and whole hen. His own summary: season the meat with Vegeta and *"that's a whole Lebanese Mediterranean dish."*
+**What Cody uses it on:** pork tenderloin (**[§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared)** — switched from loin on 2026-09-07), chicken thighs, and whole hen. His own summary: season the meat with Vegeta and *"that's a whole Lebanese Mediterranean dish."*
 
 **Where to buy:** 🛒 international / Eastern European aisle, Eastern European and Mediterranean markets, or online. Not always in the regular spice section.
 
@@ -19491,7 +19491,7 @@ Cover the casserole and simmer over low heat for 10 minutes. Uncover, tip the ca
 
 **❤️ Family favorite** — *Cody: "That is a great, great Mediterranean salad."*
 
-Cody's own salad, dictated directly — not from a photographed page. Built to go alongside **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)**, and dressed with **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)**.
+Cody's own salad, dictated directly — not from a photographed page. Built to go alongside **[§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared)**, and dressed with **[§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil)**.
 
 > **Goat cheese, not feta — and Cody was emphatic about it.** He talked himself through it out loud and landed hard: *"crumbled goat cheese, not feta... don't use feta unless you absolutely have to."* Feta is the default in essentially every Greek salad ever published, so this is a deliberate departure, recorded as stated. **He also self-corrected from blue cheese to goat cheese mid-sentence** — blue cheese is not in this salad.
 
@@ -23150,9 +23150,9 @@ Boil the noodles or ravioli per the package, top with the sauce, and serve with 
 
 Transcribed from Cody's spreadsheet — a simple honey-soy marinade for grilled chicken, built out into a full kabob spread with the fruit, vegetables, and kielbasa he listed alongside it. Rated **"Yummie"** on the sheet itself.
 
-> **Quantities for the pineapple, zucchini, squash, tomatoes, and kielbasa weren't on the original sheet** — only the item names were listed, with amounts given for the marinade, chicken, garlic, onion, and bell pepper. The amounts and cut sizes below for those five items are Claude's recommendation, sized to pair with 8 chicken breasts' worth of skewers. Taste and adjust, and flag any changes so this can be tightened up. Note the sheet's ingredient list (column A–C) also includes a second, unquantified "onions" line beyond the 5 small onions already called for — treated here as the same onions rather than a separate addition, since no second amount was given.
+> ✅ 2026-09-07 per Cody ("use your judgment") — **two kinds of skewer, and a 4-to-6-hour marinade.** Cody's words: the **kielbasa** goes with the zucchini, onions, tomatoes, and squash; the **chicken** goes with *a lot of pineapple*; and it's a 4-to-6-hour marinade — *"you don't really marinate chicken overnight, do you?"* So the build below is **Skewer A: chicken and pineapple** and **Skewer B: kielbasa and vegetables**, and the old "overnight is fine" is gone. **Quantities for the pineapple, zucchini, squash, tomatoes, and kielbasa weren't on the original sheet** — only the item names were listed, with amounts given for the marinade, chicken, garlic, onion, and bell pepper. The amounts and cut sizes for those five are **cookbook judgment**, sized to 8 breast halves' worth of skewers and checked against America's Test Kitchen's grilled chicken kebabs (1-inch cubes, 3–6 hr marinade, ~3 min per side over direct heat; https://www.americastestkitchen.com/recipes/3027-grilled-chicken-kebabs and https://www.americastestkitchen.com/recipes/16949-go-to-grilled-chicken-kebabs) and Food Network Kitchen's (https://www.foodnetwork.com/recipes/food-network-kitchen/grilled-chicken-kebabs-3812068). The sheet's ingredient list (column A–C) also includes a second, unquantified "onions" line beyond the 5 small onions already called for — treated here as the same onions rather than a separate addition, since no second amount was given.
 
-**🟡 Medium** · **Prep ~40 min** · **Cook ~12 min** · **Start to finish ~5–7 hr** *(plus 4–6 hr marinate. Prep is high because of all the cutting and skewering)*
+**🟡 Medium** · **Prep ~40 min** *(all the cutting and skewering)* · **Cook ~12 min** · **Start to finish ~5–7 hr** *(4–6 hr marinate)*
 
 **❤️ Family favorite** — *Cody: "Freaking awesome."*
 
@@ -23166,40 +23166,49 @@ Transcribed from Cody's spreadsheet — a simple honey-soy marinade for grilled 
 - ¼ tsp ground black pepper
 - 2 cloves garlic, minced
 
-**Skewers**
+**Skewer A — chicken & pineapple** *(about 10 skewers)*
 
-- 8 skinless, boneless chicken breast halves, cut into 1-inch cubes
-- 5 small onions, cut into 2-inch pieces
+- 8 skinless, boneless chicken breast halves (about 3 lb), cut into 1-inch cubes
+- 2 whole pineapples, cored and cut into 1-inch chunks *(cookbook judgment — "a lot of pineapple," per Cody; one pineapple gives 40–50 chunks and you want one per chicken cube)*
+
+**Skewer B — kielbasa & vegetables** *(about 8 skewers)*
+
+- 1½ lb kielbasa (kalbasa), sliced into 1-inch rounds *(cookbook judgment — not on the sheet)*
+- 5 small onions, quartered (about 2-inch chunks)
 - 2 red bell peppers, cut into 2-inch pieces
-- 1 whole pineapple, cored and cut into 1-inch chunks *(recommended amount — not on the sheet)*
-- 2 medium zucchini, cut into ¾-inch rounds *(recommended amount — not on the sheet)*
-- 2 medium yellow squash, cut into ¾-inch rounds *(recommended amount — not on the sheet)*
-- 2 large tomatoes, cut into large wedges *(recommended amount — not on the sheet; Cody specified bigger tomatoes, not cherry)*
-- 1–1½ lb kielbasa (kalbasa), sliced into 1-inch rounds *(recommended amount — not on the sheet)*
+- 2 medium zucchini, cut into ¾-inch rounds *(cookbook judgment — not on the sheet)*
+- 2 medium yellow squash, cut into ¾-inch rounds *(cookbook judgment — not on the sheet)*
+- 2 large tomatoes, cut into quarters *(cookbook judgment — not on the sheet; Cody specified bigger tomatoes, not cherry)*
+
+**Both**
+
 - Cavender's seasoning, to taste — liberally
-- Skewers
+- Skewers *(about 18; soak wooden ones 30 min)*
 
 #### B. Cooking Instructions
 
 **1. Make the marinade.**
-Whisk the olive oil, honey, soy sauce, black pepper, and minced garlic together in a bowl until combined.
+Whisk the olive oil, honey, soy sauce, black pepper, and minced garlic together in a bowl until combined. This is about 1 cup — the right amount for 3 lb of chicken.
 
-**2. Marinate the chicken. 4–6 hours is the sweet spot; don't go past 24.**
-Cube the chicken and toss it with the marinade in a bag or dish, then refrigerate. Because this marinade has no acid — no citrus, no vinegar — it won't turn the chicken mushy the way a lemon or lime marinade would over time, so there's real flexibility here: 30 minutes will still pick up flavor if you're short on time, and overnight is fine if that's more convenient. Where it does have a ceiling is the soy sauce — soy is salty enough that past about 24 hours it starts curing the surface of the meat rather than just flavoring it, giving you a drier, hammier texture instead of a marinated one. Land somewhere in the 4–6 hour range for the best flavor penetration without any downside.
+**2. Marinate the chicken. 4 to 6 hours in the refrigerator — not overnight.**
+Cube the chicken and toss it with the marinade in a zip-top bag, press the air out, and refrigerate. **Four to six hours is the window, per Cody.** Two hours will still pick up flavor if you're short; past six the soy starts curing the surface rather than flavoring it, and the texture goes drier and hammier — which is why it doesn't go overnight. Discard the bag and the marinade when the chicken comes out.
 
-**3. Cut the vegetables and fruit to matching sizes — except the tomato.**
-Onion, bell pepper, pineapple, zucchini, and squash all want to be roughly the same size, about 1 to 1½ inches, so they finish cooking at the same time on the skewer. The tomato is the exception: because Cody's using bigger tomatoes rather than cherry tomatoes, cut them into large wedges rather than matching the other pieces. A big tomato wedge cooks fast and goes to mush quickly, so it needs to be treated differently on the grill — see Step 5.
+**3. Cut the fruit and vegetables.**
+Pineapple in 1-inch chunks to match the chicken. Onions quartered, bell peppers in 2-inch pieces, zucchini and squash in ¾-inch rounds — all roughly the same size so Skewer B finishes evenly. Cut the tomatoes into **quarters**, chunkier than wedges, so they hold together longer on the fire.
 
 **4. Slice the kielbasa.**
-Kielbasa is already fully cooked, so it's not marinating with the chicken — it just needs rounds thin enough (about 1 inch) to heat through and pick up char.
+Kielbasa is already fully cooked, so it's not marinating with the chicken — it just needs 1-inch rounds thick enough to blister and pick up char without drying out. A 1½-lb rope gives about 24 rounds, three per skewer.
 
-**5. Thread the skewers, and keep the tomato separate.**
-Alternate chicken, onion, bell pepper, pineapple, zucchini, squash, and kielbasa across the main skewers. Put the tomato wedges on their own skewer, or plan to add them to the grill in the last few minutes only — they'll fall apart if they ride the full cook time with everything else.
+**5. Thread Skewer A: chicken and pineapple, one for one.**
+Alternate **1 chicken cube, 1 pineapple chunk** — about 6 chicken and 5–6 pineapple per skewer, packed snug so the pineapple bastes the chicken. That's the whole skewer; no vegetables on this one. Makes about 10.
 
-**6. Season liberally with Cavender's before the skewers hit the grill.**
+**6. Thread Skewer B: kielbasa and vegetables, with the tomato shielded.**
+Kielbasa rounds alternating with zucchini, squash, onion, and bell pepper. Put each tomato quarter **mid-skewer between two kielbasa rounds** — the sausage shields it from the direct flame. It will still soften; that's fine on a skewer that only needs 8–10 minutes. Makes about 8.
 
-**7. Grill it. About 10–12 minutes total over direct medium-high heat.**
-Turn every few minutes for even char on all sides. Chicken is done at 165°F internal. Add the tomato skewer in for just the last 2–3 minutes so it warms and chars without collapsing.
+**7. Season both skewer types liberally with Cavender's before they hit the grill.**
+
+**8. Grill over direct medium-high, about 400–450°F, grates oiled. Skewer A 10–12 minutes, Skewer B 8–10.**
+Start Skewer A first. Turn every 3 minutes so all four sides see the fire — the honey will blacken at the edges, and that's the look, but if it's charring hard before the 8-minute mark, slide them to a cooler zone. **Chicken is done at 160–165°F in the thickest cube.** Put Skewer B on about 2 minutes after A and turn it the same way; it's done when the kielbasa is blistered and the squash is tender with char. Both come off together. Serve hot, off the skewers or on them.
 
 #### C. Grocery Shopping List
 
@@ -23210,33 +23219,34 @@ Turn every few minutes for even char on all sides. Chicken is done at 165°F int
 - 🛒 Soy sauce — ⅓ cup
 - 🛒 Ground black pepper
 - 🛒 Garlic — 2 cloves
-- 🛒 Skinless, boneless chicken breast — 8 halves
+- 🛒 Skinless, boneless chicken breast — 8 halves (about 3 lb)
+- 🛒 Pineapple — 2 whole
+- 🛒 Kielbasa (kalbasa) — 1½ lb
 - 🛒 Small onions — 5
 - 🛒 Red bell peppers — 2
-- 🛒 Pineapple — 1 whole
 - 🛒 Zucchini — 2 medium
 - 🛒 Yellow squash — 2 medium
 - 🛒 Tomatoes (large, not cherry) — 2
-- 🛒 Kielbasa (kalbasa) — 1–1½ lb
 - 🛒 Cavender's seasoning
-- 🛒 Skewers
+- 🛒 Skewers — about 18
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~5,100 | 250 g | 440 g | 400 g | 40 g |
-| **Per serving** *(serves 8)* | ~640 | 31 g | 55 g | 50 g | 5 g |
+| **Whole dish** | ~5,600 | 250 g | 410 g | 395 g | 50 g |
+| **Per serving** *(serves 8)* | ~700 | 31 g | 51 g | 49 g | 6 g |
 
-**What a serving is:** two loaded skewers — roughly 6 oz of chicken plus the vegetables, pineapple, and sausage threaded alongside.
+**What a serving is:** one chicken-and-pineapple skewer plus one kielbasa-and-vegetable skewer — roughly 6 oz of chicken, 3 oz of sausage, and the fruit and vegetables threaded with them.
 
-*Only about 60% of the marinade is counted — the rest stays in the bag. Pineapple and honey together drive most of the carbs.*
+*Only about 60% of the marinade is counted — the rest stays in the bag. The second pineapple and the kielbasa are what moved the numbers up from the earlier estimate; pineapple and honey together drive most of the carbs.*
 
 #### D. Open Questions
 
-- Confirm the recommended amounts and cut sizes for pineapple, zucchini, squash, tomato, and kielbasa once cooked — these weren't quantified on the original sheet.
+- ✅ 2026-09-07 per Cody ("use your judgment") — **amounts and cut sizes for pineapple, zucchini, squash, tomato, and kielbasa** set as cookbook judgment (two pineapples, 1½ lb kielbasa, tomatoes quartered and shielded), sized to 8 breast halves; basis and sources in the note above. Adjust after a cook and say so.
+- ✅ 2026-09-07 per Cody — **two skewer types**: chicken with pineapple; kielbasa with zucchini, onions, tomatoes, and squash (bell pepper rides with the vegetables since it's on the sheet).
+- ✅ 2026-09-07 per Cody — **marinate 4–6 hours, not overnight.** The "overnight is fine" line is removed.
 - Confirm the "onions" line lower on the sheet isn't meant to be a second, separate quantity beyond the 5 small onions already called for.
-- Confirm the 4–6 hour marinate window works, or whether it wants to go closer to overnight.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -26832,7 +26842,7 @@ Pour the sauce over the chicken.
 
 ---
 
-### 7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)
+### 7.59 Mediterranean Pork Tenderloin Platter (Vegeta-Rubbed, Sous Vide & Seared)
 
 **❤️ Family favorite** — *Cody: "That's a Mediterranean dish that rocks."* On the chicken version: *"the chicken is out of this world."*
 
@@ -26840,31 +26850,31 @@ Cody's own dish, dictated directly — not from a photographed page. **A big sha
 
 **The seasoning is the whole point.** This is **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)**'s headline dish — per Cody, season the meat with it and *"that's a whole Lebanese Mediterranean dish."* **[§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought)** also works, especially on the chicken version.
 
-> **Pork LOIN, not pork tenderloin — Cody said so explicitly.** They're different cuts and not interchangeable here: a loin is a big, wide roast that slices into broad medallions; a tenderloin is a slim muscle a fraction of the size. The platter wants the loin's larger cross-section. *(For the tenderloin, this cookbook has [§T14 How to Grill Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) instead.)*
+> ✅ 2026-09-07 — **Pork TENDERLOIN now, not loin.** This entry was first dictated as a pork *loin* — Cody said "loin" explicitly at the time, and the entry carried a note insisting on it. On 2026-09-07 he changed it: *"let's make it pork tenderloin instead, not pork loin."* Everything below is rewritten for the tenderloin — a slim, very lean muscle about 1½ inches across, 1–1¼ lb each, so it takes three of them to match the old 3-lb roast. It's the same cut [§T14 How to Grill Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) grills; that entry is the alternative to this sous vide method, not a contrast to it.
 
-> **Pork loin is lean, and Cody was insistent that it needs help.** In his words: *"it needs fat. It needs help."* That's why fat goes into the bag with it — olive oil and butter — rather than relying on the cut to carry itself. A loin has almost no intramuscular fat, so left alone it sous vides into something correct and dull.
+> **Pork tenderloin is lean, and Cody was insistent that it needs help.** In his words: *"it needs fat. It needs help."* That's why fat goes into the bag with it — olive oil and butter — rather than relying on the cut to carry itself. A tenderloin has almost no intramuscular fat, so left alone it sous vides into something correct and dull.
 
-> ⚠️ **The sous vide temperature and time are NOT Cody's — he didn't give them.** He described the method (season, bag with fat, sous vide, medallion, sear, cube) but never named a temperature or a duration. **140°F for 2 to 4 hours below is my recommendation**, reasoned from this cookbook's own two sous vide entries — [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) runs beef at 129°F and [§T28](#t28-sous-vide-chicken-codys-method) runs chicken at 148°F; a lean pork loin sits between them, wanting enough heat to be properly cooked but not so much that it dries. **Treat it as a starting point and confirm with Cody**, the same way [§T22](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s vinegar ratio is flagged. See Open Questions.
+> ✅ 2026-09-07 per Cody ("use your judgment with regards to sous vide") — **cookbook judgment: 140°F for 1½ hours, window 1–4 hours.** Cody described the method (season, bag with fat, sous vide, sear, cube) but never named a temperature or a duration. The numbers are the standard from Serious Eats / Kenji López-Alt (*Sous Vide Pork Tenderloin*, https://www.seriouseats.com/sous-vide-pork-tenderloin-recipe) and Anova's guide (https://anovaculinary.com/pages/sous-vide-pork-tenderloin-guide, chart at https://recipes.anovaculinary.com/recipe/pork-tenderloin): 130°F is medium-rare and buttery, **140°F is medium — firm but tender, moderately juicy — and the default**, 150°F is medium-well; all with a 1–4 hour window. 140°F for an hour or more pasteurizes a 1½-inch tenderloin. **1½ hours is the target; don't run the full 4 on a slim tenderloin with fat in the bag** — past about 3 hours the texture goes soft. If the family wants no pink at all, 145°F.
 
 **Yield:** serves 6 generously, as a shared platter
 
-**🟡 Medium** · **Prep ~40 min** *(trimming and stuffing the loin, cutting all the vegetables)* · **Cook ~40 min** *(grilling the vegetables, searing the medallions, warming the naan)* · **Slow cook 2–4 hr** *(sous vide, unattended)* · **Start to finish ~3½–5½ hr**
+**🟡 Medium** · **Prep ~40 min** *(trimming and bagging the tenderloins, cutting all the vegetables, softening the cheese)* · **Cook ~40 min** *(grilling the vegetables, searing, warming the naan)* · **Slow cook 1½ hr** *(sous vide, unattended; 1–4 hr window)* · **Start to finish ~3 hr**
 
 #### A. Ingredients
 
 **The pork**
 
-- 1 pork loin, about 3 lb *(**loin**, not tenderloin)*
+- 3 pork tenderloins, 1–1¼ lb each (about 3–3½ lb total), silverskin trimmed *(**tenderloin**, per Cody 2026-09-07; count is cookbook judgment — 2 is enough if this is one of several mezze items)*
 - **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** — seasoned liberally all over *(or [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought))*
-- 4–6 garlic cloves, peeled *(optional — slivered and inserted into the roast)*
-- 2–3 oz goat cheese *(optional — stuffed into the roast; see Step 2)*
-- 3 Tbsp olive oil, for the bag
-- 2 Tbsp butter, for the bag
+- 4–6 garlic cloves, peeled *(optional — slivered and inserted into the meat)*
+- 3 Tbsp olive oil, for the bags
+- 2 Tbsp butter, for the bags
 - Avocado oil, in a spray bottle, for the sear
 
 **The platter**
 
-- 8 oz goat cheese, softened — for the bed at the bottom of the platter
+- 16–20 oz goat cheese (two 8- to 10.5-oz logs), softened — for the bed at the bottom of the platter *(amount is cookbook judgment for Cody's "medium-thin layer across the bottom of the serving dish" — see Step 8)*
+- 2–3 Tbsp olive oil and a splash of milk, to loosen the goat cheese
 - 2 zucchini, cut into planks
 - 2 yellow squash, cut into planks
 - 2 onions, cut into thick rounds
@@ -26874,39 +26884,36 @@ Cody's own dish, dictated directly — not from a photographed page. **A big sha
 
 #### B. Cooking Instructions
 
-**1. Season the loin hard, all over.**
-Vegeta on every surface, liberally. Remember it's mostly salt — this *is* the salting step, so don't add more on top. Per [§1 Cody's Pho](#1-codys-pho)'s established note, nothing escapes a sealed bag: the salt equilibrates through the meat over the cook rather than cooking off, so it'll taste less sharp at the end than it does going in without actually being any less salty.
+**1. Trim the tenderloins and season them hard, all over.**
+Pull the silverskin off each tenderloin with a thin knife (it won't render; it just tightens and curls). Then Vegeta on every surface, liberally. Remember it's mostly salt — this *is* the salting step, so don't add more on top. Per [§1 Cody's Pho](#1-codys-pho)'s established note, nothing escapes a sealed bag: the salt equilibrates through the meat over the cook rather than cooking off, so it'll taste less sharp at the end than it does going in without actually being any less salty.
 
-**2. Optional — sliver garlic into it, and stuff it with goat cheese.**
-Cody's own suggestions, both worth doing. Cut small slits across the roast and push a sliver of garlic into each. For the goat cheese, butterfly the loin or cut a deep pocket lengthwise, spread the 2–3 oz inside, and tie it closed with butcher's string. **Use whole peeled cloves or slivers, not crushed or chopped garlic** — and see the warning below on fresh garlic in a bag.
+**2. Optional — sliver garlic into it.**
+Cody's own suggestion. Cut small slits along each tenderloin and push a sliver of garlic into each. **Use whole peeled cloves or slivers, not crushed or chopped garlic** — and see the warning below on fresh garlic in a bag. *(The earlier version of this entry offered stuffing the roast with goat cheese; a tenderloin has no cross-section to cut a pocket in, so that option is dropped — all the goat cheese goes on the platter now.)*
 
-> ⚠️ **This is a documented exception to the no-fresh-garlic-in-the-bag rule, and it needs care.** [§1 Cody's Pho](#1-codys-pho) established that raw garlic sealed in an anaerobic bag at sub-boiling temperature is a botulism setup, and [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method) both carry that rule forward. Cody specifically asked for real garlic cloves here. **Two things make that materially safer than the pho case:** this cook is 2 to 4 hours rather than 24 to 36, and 140°F is above the growth range that matters. **Do it Cody's way, but keep the cook short, keep it refrigerated until it goes in the bath, and don't hold the bagged raw roast in the fridge overnight first.** If you'd rather not think about it at all, **garlic powder in the rub gets most of the flavor with none of the question.**
+> ⚠️ **This is a documented exception to the no-fresh-garlic-in-the-bag rule, and it needs care.** [§1 Cody's Pho](#1-codys-pho) established that raw garlic sealed in an anaerobic bag at sub-boiling temperature is a botulism setup, and [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)/[§T28](#t28-sous-vide-chicken-codys-method) both carry that rule forward. Cody specifically asked for real garlic cloves here. **Two things make that materially safer than the pho case:** this cook is 1½ hours rather than 24 to 36, and 140°F is above the growth range that matters. **Do it Cody's way, but keep the cook short, keep it refrigerated until it goes in the bath, and don't hold the bagged raw meat in the fridge overnight first.** If you'd rather not think about it at all, **garlic powder in the rub gets most of the flavor with none of the question.**
 
-**3. Bag it with the fat.**
-Olive oil and butter into the bag with the loin. This is the "it needs help" step — the fat bastes the lean meat through the whole cook. Vacuum seal, or use a zip-top bag and the water-displacement method. *(Note that fat in the bag makes a vacuum sealer messier; a zip-top bag is easier here.)*
+**3. Bag them with the fat — no more than two to a bag.**
+Olive oil and butter divided between the bags with the tenderloins, laid flat and not overlapping. This is the "it needs help" step — the fat bastes the lean meat through the whole cook. Vacuum seal, or use zip-top bags and the water-displacement method. *(Fat in the bag makes a vacuum sealer messier; zip-top bags are easier here.)*
 
-**4. Sous vide at 140°F for 2 to 4 hours.** ⚠️ *(my numbers, not Cody's — see the flag above)*
-Hands-off once it's in. The loin comes out cooked through, still juicy, and — importantly — nowhere near done as far as the final dish is concerned. All the color comes later.
+**4. Sous vide at 140°F for 1½ hours. (1–4 hour window; don't push past 3 on tenderloin.)** *(cookbook judgment — see the note above)*
+Hands-off once it's in. The tenderloins come out cooked through — medium, a faint blush of pink at the center — juicy, and, importantly, nowhere near done as far as the final dish is concerned. All the color comes later.
 
-**5. While it cooks, grill the vegetables.**
-Zucchini and squash planks, thick onion rounds, halved tomatoes. Toss with olive oil, salt, and pepper, and grill over medium-high until they've taken real char and gone tender. **Give the tomatoes the least time** — they collapse fastest, same lesson as [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs), where they get their own skewer for exactly this reason.
+**5. While it cooks, grill the vegetables and soften the cheese.**
+Zucchini and squash planks, thick onion rounds, halved tomatoes. Toss with olive oil, salt, and pepper, and grill over medium-high until they've taken real char and gone tender. **Give the tomatoes the least time** — they collapse fastest, same lesson as [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs), where they ride between kielbasa rounds for exactly this reason. Leave the goat cheese out on the counter to soften while all this happens.
 
-**6. Out of the bag, pat completely dry, then cut into medallions.**
-Dry it thoroughly with paper towels — with oil and butter in the bag it comes out especially wet, and a wet surface will not sear. Then slice the loin crosswise into medallions, roughly ¾ to 1 inch thick. **Cutting before the sear is deliberate**: it multiplies the surface area that gets crust, which is the whole reason this dish tastes the way it does.
+**6. Out of the bag, pat completely dry, and sear the tenderloins WHOLE. 30–45 seconds a side, four sides, 2–3 minutes total.**
+Dry them thoroughly with paper towels — with oil and butter in the bag they come out especially wet, and a wet surface will not sear. Spray with avocado oil and lay them in blazing-hot cast iron, exactly as in [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method), rolling a quarter turn every 30–45 seconds until all four sides have crust. **Whole, not as medallions — this is a change from the loin version and it's deliberate.** A loin medallion is wide enough to crust before it overcooks; a ¾-inch tenderloin medallion is not — it would go gray and dry in the 30 seconds it needs for color. The pork is already fully cooked, so this is purely crust; there's no doneness cushion left.
 
-**7. Spray with avocado oil and sear the medallions hard. 30 to 45 seconds per side.**
-Blazing-hot cast iron, exactly as in [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method). Avocado oil for its high smoke point. The pork is already fully cooked, so this is purely crust — there's no doneness cushion left, and lean loin dries fast if you linger.
+**7. Rest 2 minutes, slice into 1-inch medallions, then halve each into cubes.**
+Rest briefly so the juice settles, then cut crosswise into inch-thick medallions and halve each one. Every cube now has a seared face and a juicy middle, and the pieces are small enough to eat off a shared platter by hand or with a fork.
 
-**8. Cut the seared medallions into cubes.**
-Roughly bite-sized. Now every cube has seared faces and a juicy middle, and the pieces are small enough to eat off a shared platter by hand or with a fork.
+**8. Spread the goat cheese across the bottom of the platter — a medium-thin layer, the whole surface.**
+Beat the softened goat cheese with 2–3 Tbsp olive oil and a splash of milk until it spreads like a dip, then spread it edge to edge across the platter — **not dolloped**, and not a thick slab: per Cody, *"enough to spread a medium-thin layer at the bottom of your serving dish."* On a big 18-by-12-inch platter that's about ⅛ inch deep, which is what 16–20 oz gives you. This is the base the entire dish is assembled on.
 
-**9. Spread the goat cheese across the bottom of the platter.**
-Softened goat cheese, spread like a dip across the whole serving platter — not dolloped. This is the base the entire dish is assembled on.
-
-**10. Pile the hot cubes straight onto the goat cheese.**
+**9. Pile the hot cubes straight onto the goat cheese.**
 This is the move that makes the dish. **The residual heat from the meat warms the cheese from above** — it goes soft and lukewarm and half-melted, and starts behaving like a sauce rather than a garnish. Cody's own description: it *"kind of almost melts."* Don't let the meat cool first; the heat is doing real work here.
 
-**11. Arrange the grilled vegetables around the meat, add hummus and naan, and serve.**
+**10. Arrange the grilled vegetables around the meat, add hummus and naan, and serve.**
 Grilled zucchini, squash, onions, and tomatoes around the edges, with **[§9.21 hummus and warm garlic naan](#921-dressed-up-hummus-with-garlic-naan)** alongside, and a **[§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese)** if you're making the full meal. Serve it as one big communal platter — that's the format the dish is designed around.
 
 #### C. The Chicken Version
@@ -26915,12 +26922,12 @@ Grilled zucchini, squash, onions, and tomatoes around the edges, with **[§9.21 
 
 Everything above holds, with these changes:
 
-| | Pork loin | Chicken |
+| | Pork tenderloin | Chicken |
 |---|---|---|
-| **Cut** | Pork loin, ~3 lb | **Chicken thighs**, or a whole hen |
+| **Cut** | 3 pork tenderloins, ~3–3½ lb | **Chicken thighs**, or a whole hen |
 | **Seasoning** | [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) | Vegeta, or **[§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought)** — Cody recalls using Cavender's on chicken at least once |
-| **Sous vide** | 140°F, 2–4 hr *(my figures)* | **148°F, 1½–4 hr** — [§T28](#t28-sous-vide-chicken-codys-method)'s numbers, which are Cody's own |
-| **Fat in the bag** | Needed — the loin is lean | **Less critical.** Thighs carry their own fat; a whole hen more so |
+| **Sous vide** | 140°F, 1½ hr *(cookbook judgment)* | **148°F, 1½–4 hr** — [§T28](#t28-sous-vide-chicken-codys-method)'s numbers, which are Cody's own |
+| **Fat in the bag** | Needed — the tenderloin is lean | **Less critical.** Thighs carry their own fat; a whole hen more so |
 
 **A whole hen doesn't sous vide well** — it's an awkward shape for a bag and cooks unevenly. Roast or smoke it with the Vegeta on instead; this cookbook already has **[§6.3 Smoked Whole Hen](#63-smoked-whole-hen)** ❤️ as a landing spot for that.
 
@@ -26928,37 +26935,38 @@ Everything above holds, with these changes:
 
 **🏪 Specific store — butcher**
 
-- 🏪 Pork loin — about 3 lb *(**loin**, not tenderloin)* — **or** chicken thighs for the chicken version
+- 🏪 Pork tenderloins — 3, about 1–1¼ lb each *(**tenderloin**, per Cody 2026-09-07)* — **or** chicken thighs for the chicken version
 
 **🛒 General grocery**
 
 - 🛒 **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** — international aisle or Eastern European market
-- 🛒 Goat cheese — **10–11 oz total** *(8 oz for the platter bed, 2–3 oz if stuffing the roast)*
+- 🛒 Goat cheese — **16–20 oz (two logs)** for the platter bed
+- 🛒 Milk — a splash, to loosen the cheese
 - 🛒 Garlic — 4–6 cloves
 - 🛒 Zucchini — 2
 - 🛒 Yellow squash — 2
 - 🛒 Onions — 2
 - 🛒 Tomatoes — 3–4
 - 🛒 Olive oil, butter, avocado oil spray
-- 🛒 Butcher's string *(if stuffing the roast)*
 - 🛒 *Plus the [§9.21](#921-dressed-up-hummus-with-garlic-naan) hummus and naan, and the [§5.23](#523-greek-salad-with-crumbled-goat-cheese) salad items*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~3,250 | 200 g | 295 g | 60 g | 14 g |
-| **Per serving** *(serves 6)* | ~540 | 33 g | 49 g | 10 g | 2 g |
+| **Whole dish** | ~4,700 | 285 g | 425 g | 70 g | 14 g |
+| **Per serving** *(serves 6)* | ~780 | 47 g | 71 g | 11 g | 2 g |
 
-**What a serving is:** a loaded plate off the platter — roughly 5 oz of seared pork, a good smear of the goat cheese underneath, and a share of the grilled vegetables.
+**What a serving is:** a loaded plate off the platter — roughly 5 oz of seared pork, a good smear of the goat cheese underneath (about 3 oz — it's a big bed now), and a share of the grilled vegetables.
 
-*Covers the pork, the platter's goat cheese, and the grilled vegetables only. **The hummus and naan are counted in [§9.21](#921-dressed-up-hummus-with-garlic-naan)** and the salad in [§5.23](#523-greek-salad-with-crumbled-goat-cheese), so they aren't double-counted here. Most of the olive oil and butter in the sous vide bag stays in the bag and is not counted as eaten.*
+*Covers the pork, the platter's goat cheese, and the grilled vegetables only. **The hummus and naan are counted in [§9.21](#921-dressed-up-hummus-with-garlic-naan)** and the salad in [§5.23](#523-greek-salad-with-crumbled-goat-cheese), so they aren't double-counted here. Most of the olive oil and butter in the sous vide bags stays in the bags and is not counted as eaten. The goat cheese went from 8 oz to 16–20 oz on 2026-09-07 and is now the biggest single line — about 1,850 of the calories; if a third of the bed is left on the platter, knock roughly 100 calories off each serving.*
 
 #### E. Open Questions
 
-- **Sous vide temperature and time for the pork loin.** Not given by Cody. 140°F for 2–4 hours is my reasoned recommendation, not his practice — worth confirming.
-- **Goat cheese inside the roast — how much, and does it survive?** Cody floated it as a "maybe." Stuffed cheese can leak out during a long bath even in a sealed bag; 2–3 oz tied in is the conservative version written above.
-- **Does the Vegeta go anywhere besides the meat?** In the original dictation there's a passage about mixing Vegeta with something — feta and naan are both mentioned nearby, but the sentence breaks off. It may mean seasoning the naan, or seasoning feta as a second spread. **Not resolved, so not written in.** See also [§9.21](#921-dressed-up-hummus-with-garlic-naan)'s Open Questions.
+- ✅ 2026-09-07 per Cody ("use your judgment with regards to sous vide") — **140°F for 1½ hours (1–4 hr window)**, cookbook judgment from Serious Eats / Kenji and Anova, cited in the note above. Seared whole rather than as medallions for the same reason.
+- ✅ 2026-09-07 per Cody — **the stuffed-goat-cheese option is dropped**; there's no pocket to cut in a tenderloin. All the cheese is the bed: **16–20 oz for a medium-thin layer**, cookbook judgment sized to a large platter from Cody's description.
+- ✅ 2026-09-07 per Cody — **tenderloin, not loin.** Reversed from the original dictation; dated note above.
+- ✅ 2026-09-07 per Cody — **the Vegeta also goes on the naan**, a little, with olive oil, on the grill. The broken-off passage in the original dictation was about the naan; it's written into [§9.21](#921-dressed-up-hummus-with-garlic-naan) Step 4. Feta as a second spread is still only a wish (see §9.21's Open Questions).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -38891,7 +38899,7 @@ Garnish with chopped chives and the reserved celery leaves.
 
 ### 9.21 Dressed-Up Hummus with Garlic Naan
 
-Cody's own, dictated directly — not from a photographed page. Part of the **[§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)** spread, and good on its own.
+Cody's own, dictated directly — not from a photographed page. Part of the **[§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared)** spread, and good on its own.
 
 > **Store-bought hummus, on purpose.** Cody doesn't make it from scratch and doesn't feel the loss — *"you got the store-bought. I don't miss it, which is awesome."* This entry is about **what you do to it after you open the container**, which takes about two minutes and makes a tub of grocery-store hummus taste like it was meant to be there.
 
@@ -38951,7 +38959,7 @@ Brush each piece with olive oil, rub it with garlic — smashed cloves, or garli
 #### D. Open Questions
 
 - ✅ 2026-09-07 per Cody: **Vegeta goes on the naan** — a little, with olive oil, and the naan is thrown on the grill. Written into Step 4, the ingredients, and the grocery list. *(The Nutrition block picked up about 1 Tbsp of brushing oil — +120 cal across the dish.)*
-- **Fresh feta on the platter.** Cody mentions wishing for fresh feta and says it can be found — it may belong on the [§7.59](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) platter as an additional spread alongside the goat cheese. Noted rather than assumed. *(Distinct from [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was explicit that feta is **not** wanted.)*
+- **Fresh feta on the platter.** Cody mentions wishing for fresh feta and says it can be found — it may belong on the [§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) platter as an additional spread alongside the goat cheese. Noted rather than assumed. *(Distinct from [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was explicit that feta is **not** wanted.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -44174,8 +44182,8 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 
 - **Pork belly** — [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) *(braised, then stir-fried)* · [§7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) *(indirect-smoked, then sliced into ramen)*
 - **Pork shoulder / Boston butt** — [§6.2 Pulled Pork](#62-pulled-pork) *(indirect-grilled or smoked)* · [§6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) *(smoked)* · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) *(uses §6.2)* · [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) *(covered braise)* · [§7.51 Boudin Blanc](#751-boudin-blanc-boudin) *(simmered, with liver)* · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) *(indirect-grilled or smoked; distinct from [§6.2](#62-pulled-pork))* · [§7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) *(uses §7.95's leftovers)* · [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(competition method — injected, rubbed, smoked hot at 300°F, Texas-crutched — distinct from §7.95, see entry)*
-- **Pork tenderloin** — [§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) *(grilled)* · [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)* · [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) *(hot direct grill, lid up, to 135–140°F)* · [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) *(halved lengthwise and grilled direct, chunked with grilled pineapple and peppers — no skewers)*
-- **Pork loin** — [§7.59 Mediterranean Pork Loin Platter](#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)* · [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(injected, pesto-slathered, parchment-wrapped, smoked at 225°F)* · [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(unrolled into a slab, spread with bread stuffing, rolled and tied, smoked at 225°F)*
+- **Pork tenderloin** — [§T14 How to Grill Pork Tenderloin (Cuban Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) *(grilled)* · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) *(sous vide, then seared)* · [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) *(hot direct grill, lid up, to 135–140°F)* · [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) *(halved lengthwise and grilled direct, chunked with grilled pineapple and peppers — no skewers)*
+- **Pork loin** — [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(injected, pesto-slathered, parchment-wrapped, smoked at 225°F)* · [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(unrolled into a slab, spread with bread stuffing, rolled and tied, smoked at 225°F)*
 - **Pork chops** — [§7.4 Pork Chops](#74-pork-chops) *(placeholder — [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) is the likely method)* · [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(wet-brined, then grilled)* · [§7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) *(**2-inch-thick** chops, dry-brined, smoked at 225°F to 120°F, then finished over direct heat to 135–140°F and served under an apple-mushroom-Calvados cream sauce — see [§T62 Types of Pork Chops](#t62-types-of-pork-chops), since thickness is the whole method here)*
 - **Baby back / spare ribs** — [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) *(indirect-grilled)* · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(indirect-smoked)* · [§7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) *(hot and fast over wood embers — the direct-heat opposite of §7.97, see entry)* · [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(indirect-grilled, then glazed)* · [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(indirect-smoked, competition method — Texas-crutched and glazed — distinct from §7.97/§7.98, see entry)*
 - **Ribs, cut unspecified** — [§6.5 Smoked Ribs](#65-smoked-ribs) *(placeholder, smoked)*

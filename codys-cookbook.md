@@ -1154,7 +1154,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(The Meathead Method)* | 🟢 | 30 min | — | **4–5 hr** *(indirect smoker, unattended)* | 6–7 hr *(includes a 1–2 hr dry brine)* |
 | [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(The Meathead Method)* | 🟢 | 30 min | — | **~8 hr** *(indirect smoker, unattended)* | 8½–20½ hr *(includes an optional up-to-12-hr rest after rub/injection)* |
-| [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 15 min | 15 min *(gravy)* | **2–5 hr** *(smoker, by weight)* | ~1 day *(includes a 12–24 hr dry brine)* |
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
 | [§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 20 min | — | 45 min *(includes butter soak-in time)* |
@@ -1162,6 +1161,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) *(Meathead)* | 🟢 | 20 min | 10 min | — | 30 min |
 | [§7.123 Kufte Kebabs](#7123-kufte-kebabs) | 🟢 | 25 min | 8 min | — | 35 min |
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
+| [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 20 min | 15 min *(gravy)* | **2–5 hr** *(smoker at 325°F, by weight)* | ~1 day *(includes the 12–24 hr dry brine; add 1 week to thaw a frozen bird)* |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
@@ -30995,24 +30995,28 @@ Lift the hen from the marinade and set the pieces skin side up on the indirect-h
 
 ### 7.122 The Ultimate Smoked Turkey
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter, closing it. Per the book: *"this is no ordinary turkey preparation, pilgrims. Say good-bye to dry, stringy turkey — this will be the best turkey you've ever tasted."* Builds on this cookbook's existing [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) and the "Choosing Your Turkey" / "Cooking the Perfect Turkey" reference material condensed at [§T80](#t80-choosing-your-turkey)/[§T81](#t81-cooking-the-perfect-turkey).
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter, closing it (book pp. 307 and 310–311: the title, photo, and headnote sit at the foot of p. 307, the two turkey sidebars condensed at [§T80](#t80-choosing-your-turkey)/[§T81](#t81-cooking-the-perfect-turkey) fill pp. 308–309, and the recipe itself runs on pp. 310–311). Per the book: *"this is no ordinary turkey preparation, pilgrims. Say good-bye to dry, stringy turkey — this will be the best turkey you've ever tasted. In fact, hundreds of readers have written to tell me just that."* Builds on this cookbook's existing [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) (the page's "page 168").
 
-**No extra salt added beyond what's printed.** This recipe's dry brine (about ½ teaspoon kosher salt per pound of meat) references the same dry-brining idea as [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time), but per this batch's scoping, Cody's heavier-salt preference applies only to standalone brining recipes ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), not to a seasoning step inside a regular recipe — so the amount here is transcribed exactly as printed.
+**No extra salt added beyond what's printed.** This recipe's dry brine (½ teaspoon kosher salt per pound of meat) references the same dry-brining idea as [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time), but per this batch's scoping, Cody's heavier-salt preference applies only to standalone brining recipes ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.104](#4104-beef-or-venison-brine-injection)), not to a seasoning step inside a regular recipe — so the amount here is transcribed exactly as printed.
 
-> ✅ **Re-verified against book pp. 310–311 on 2026-09-06** during the page-order audit, and **three things were fixed.** (1) The source's own timing table is headed *"how long it will take to get a whole bird to **160°F**"* — that printed figure is restored below alongside this cookbook's standing 165°F standard. (2) **A whole printed step was missing** — at 150°F in the breast the bird gets tilted and the cavity liquid drained into the gravy, then the gravy pan comes out from under it so the dry heat can crisp the underside. It's restored as Step 7. (3) The earlier Step 7 told you to **tent the bird and rest it 15 to 20 minutes**; the source says the opposite in as many words — *"Don't tent it and let it rest, so carryover cooking dries it out."* Corrected.
+**Makes 1 turkey, any size · Takes 1 week to thaw if you have a frozen bird, 12 to 24 hours to dry brine, and 20 minutes to prep** *(as printed — the page adds that "cooking time depends on the thickness of the thickest piece of meat, the breast, and if it is thoroughly defrosted," and gives the rough guide reproduced under Step 8)*
+
+> ✅ **Re-verified against book pp. 310–311 on 2026-09-06** during the page-order audit, and **three things were fixed.** (1) The source's own timing table is headed *"how long it will take to get a whole bird to **160°F**"* — that printed figure is restored below alongside this cookbook's standing 165°F standard. (2) **A whole printed step was missing** — at 150°F in the breast the bird gets tilted and the cavity liquid drained into the gravy, then the gravy pan comes out from under it so the dry heat can crisp the underside. It's restored (now Step 9). (3) The earlier serving step told you to **tent the bird and rest it 15 to 20 minutes**; the source says the opposite in as many words — *"Don't tent it and let it rest, so carryover cooking dries it out."* Corrected.
+>
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 307 and 310–311 (second-pass QC).** Every ingredient line and every figure is exact — the twelve ingredients, ½ teaspoon per pound, 12 to 24 hours, the 3½-quart pan, the four 6-by-6-inch foils, 5 hours ahead, the 325°F range, perhaps 4 ounces of wood, the 2-inch liquid level and quart of boiling water, 150°F, and every row of the timing table. **Four things were off and are fixed:** (1) the page prints **eleven** numbered steps and the entry had merged them into nine — Fire Up and placing the gravy pan were one step, and the wood and the Cook step were one; renumbered to the printed eleven; (2) **Prep is the printed 20 minutes**, not 15 — badge and Difficulty & Time Index row restated, and the printed MAKES/TAKES line (including the 1 week to thaw a frozen bird) added above; (3) Step 2 said to refrigerate *uncovered* and dropped the page's own reassurance — *the salt can go right on the skin; surprisingly, Professor Blonder's tests have shown that it will penetrate and get into the meat* — and its "if possible"; (4) the earlier Step 7 ended with an unprinted instruction to *cook until the breast reaches your target*; the page's steps never name a final pull temperature (the 160°F lives only in the TAKES line's table), so that sentence is now a labeled cookbook note. The grocery list's "Celery — 2 stalks" is corrected to the printed 1 stalk. The headnote quote, which pp. 310–311 don't carry, is confirmed on p. 307. No salt quantity changed; difficulty unchanged.
 
 ⚠️ **Doneness target — two numbers, both from the source.** The printed timing table targets **160°F** in the breast; this cookbook's standing poultry floor is **165°F** ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)). Cook to whichever you're comfortable with, but know the table's hour estimates are built around 160°F.
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) · [§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table) · [§T80 Choosing Your Turkey](#t80-choosing-your-turkey) · [§T81 Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey) · [§T82 How to Carve a Turkey](#t82-how-to-carve-a-turkey)
 
-**🟡 Medium** · **Prep ~15 min** · **Cook ~15 min** *(the pan-drippings gravy)* · **Slow cook 2–5 hr** *(smoker, by weight — see table below)* · **Start to finish ~1 day** *(includes a 12–24 hr dry brine)*
+**🟡 Medium** · **Prep ~20 min** · **Cook ~15 min** *(the pan-drippings gravy)* · **Slow cook 2–5 hr** *(smoker at 325°F, by weight — see the table under Step 8)* · **Start to finish ~1 day** *(includes the 12–24 hr dry brine; add 1 week to thaw a frozen bird)*
 
-> **Why Medium, not Easy.** The long smoke itself is exactly the kind of forgiving, hands-off cooking that's Easy per [CLAUDE.md §3a](CLAUDE.md) — a whole turkey has a lot of thermal mass and doesn't swing from perfect to ruined quickly. Two things push it up a notch: the finishing gravy (reduced pan drippings can scorch or turn to paste if left unwatched — a genuine "perfect to ruined" moment), and Step 7's hot-bird handoff, where a 15-pound turkey has to come off the grate, the gravy pan comes out from under it, and the bird goes back on, all while it's screaming hot.
+> **Why Medium, not Easy.** The long smoke itself is exactly the kind of forgiving, hands-off cooking that's Easy per [CLAUDE.md §3a](CLAUDE.md) — a whole turkey has a lot of thermal mass and doesn't swing from perfect to ruined quickly. Two things push it up a notch: the finishing gravy (reduced pan drippings can scorch or turn to paste if left unwatched — a genuine "perfect to ruined" moment), and Step 9's hot-bird handoff, where a 15-pound turkey has to come off the grate, the gravy pan comes out from under it, and the bird goes back on, all while it's screaming hot.
 
 #### A. Ingredients
 
 - 1 turkey (any size), whole
-- Kosher salt (about ½ teaspoon per pound of meat, for the dry brine)
+- Kosher salt (½ teaspoon per pound of meat, for the dry brine — Step 2)
 - 3 quarts water or chicken broth
 - 1 cup apple juice
 - 2 onions, skin on, ends removed, quartered
@@ -31026,40 +31030,48 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 #### B. Cooking Instructions
 
-**1. Prep the night before.**
-Open the bag the bird came in and pour the juices into a pot or large zipper-top bag. If there is a plastic pop-up indicator stuck in the bird, remove and discard it. If the tops of the drumsticks are tied together, cut the tie — per [§T81](#t81-cooking-the-perfect-turkey), this bird doesn't get trussed. Pull the neck and giblets out of the bird and put everything **except the liver** in the bag; **freeze the liver for another use — it will not be used for the gravy.** Remove the tail and trim the excess skin and fat from around both cavities, front and rear, and put the trimmings in the bag. Lop off the wing tips at the first joint and toss them in the bag too. Refrigerate the bag of trimmings.
+**1. Prep.**
+The day before cooking, open the bag the bird came in and pour the juices into a pot or large zipper-top bag. If there is a plastic pop-up indicator stuck in the bird, remove and discard it. If the tops of the drumsticks are tied together, cut the tie (this bird doesn't get trussed — [§T81](#t81-cooking-the-perfect-turkey)). Pull the neck and giblets out of the bird. Put everything **except the liver** in the bag. **Freeze the liver for another use — it will not be used for the gravy.** Remove the tail and trim the excess skin and fat from around both cavities, front and rear, and put the trimmings in the bag. Lop off the wing tips at the first joint and toss them in the bag. Refrigerate the bag of trimmings.
 
 **2. Dry brine.**
-If the turkey hasn't already been salted by the processor (see [§T80](#t80-choosing-your-turkey)), season it all over with kosher salt, about ½ teaspoon per pound of meat, and refrigerate uncovered for 12 to 24 hours.
+If the turkey has not been salted (see [§T80](#t80-choosing-your-turkey) — "basted," "enhanced," and kosher birds already have been), sprinkle it with salt, using **½ teaspoon kosher salt per pound of meat**, and dry brine it in the refrigerator. Brine for 12 to 24 hours if possible. The salt can go right on the skin — surprisingly, Professor Blonder's tests have shown that it will penetrate and get into the meat.
 
 **3. Set up the drip pan.**
-The day you plan to cook, get out a rectangular pan with **at least 3½-quart capacity**, preferably stainless steel, ceramic, or CorningWare. It must be large enough to fit under the entire bird and catch the drippings. The pan will get smoky and need serious scrubbing. **Don't use copper** — it can react with the salts and acids in the gravy. Beware: a disposable aluminum pan will not hold the rack and a bird on top without collapsing, so if you use one, it must go **under** the grill grate with the bird on top of the grate. Put the reserved turkey juices and trimmings, the water (or broth), apple juice, onions, carrots, celery, sage, thyme, and bay leaves in the pan.
+The day you plan to cook, get out a rectangular pan with **at least 3½-quart capacity**, preferably stainless steel, ceramic, or CorningWare. It must be large enough to fit under the entire bird and catch the drippings. The pan will get smoky and need serious scrubbing. **Don't use copper** because it can react with the salts and acids in the gravy. Beware! A disposable aluminum pan will not hold the rack and a bird on top without collapsing, so if you use a disposable pan, it must go **under** the grill grate and the bird must go on top of the grate. Put the turkey juices and trimmings, the water (or broth), apple juice, onions, carrots, celery, sage, thyme, and bay leaves in the pan.
 
 **4. Rub the bird.**
-Carefully push the rub **under the skin** covering the turkey breasts. Spread it out and work it as far down to the thighs and legs as possible. Spread some rub on top of the skin and in the cavity too. **If there is extra rub, add it to the gravy pan.** Take four pieces of foil about 6 by 6 inches, coat one side of each with oil, and **cover the wing tips and the ends of the drumsticks to keep them from burning.**
+Carefully push the rub **under the skin** covering the turkey breasts. Spread it out and work it as far down to the thighs and legs as possible. Spread some rub on top of the skin and in the cavity. **If there is extra, add it to the gravy pan.** Take four pieces of foil about 6 by 6 inches, coat one side of each with oil, and **cover the wing tips and the ends of the drumsticks to keep them from burning.**
 
-**5. Fire up. About 5 hours before your guests sit down.**
-About 5 hours before your guests are ready to sit down, heat up the smoker or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and try to get the indirect side in the 325°F range. Place the gravy pan below where the bird will go — you can put it under the cooking grates, but make sure they're clean on both sides; you don't want grease in the gravy. **Ideally the grate should sit a few inches above the gravy pan so heat and smoke can travel between them** (see [§T67 Ban the V-Shaped Rack](#t67-ban-the-v-shaped-rack)).
+**5. Fire up.**
+About 5 hours before your guests are ready to sit down, heat up the smoker or set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and try to get the indirect side in the **325°F range**.
 
-**6. Cook.**
-Put just a little wood on the heat source, **perhaps 4 ounces** — on a charcoal grill or smoker you may not need any wood at all; the charcoal will probably give you all the smoke flavor you need. Place the bird on the grate over the pan and close the lid. If you have a digital leave-in thermometer, insert it in the breast a little past dead center. **If the level of the liquid in the drip pan gets below 2 inches, add a quart of boiling water** (don't add cold water, which would cool the cooking chamber). Do not let the solids burn or stick to the pan. Use the table below as a rough guide for total time by weight.
+**6. Place the gravy pan.**
+Place the gravy pan below where the bird will go. You can put it under the cooking grates, but make sure they are clean on both sides — you don't want grease in the gravy. **Ideally the grate should sit a few inches above the gravy pan so heat and smoke can travel between them** (the raised-above-the-pan setup [§T67 Ban the V-Shaped Rack](#t67-ban-the-v-shaped-rack) illustrates).
 
-| Turkey weight | Hours at 325°F |
+**7. Add a little wood.**
+Put just a little wood on the heat source, **perhaps 4 ounces**. On a charcoal grill or smoker, you may not need any wood at all — the charcoal will probably give you all the smoke flavor you need.
+
+**8. Cook.**
+Place the bird on the grate over the pan and close the lid. If you have a digital leave-in thermometer, insert it in the breast a little past dead center. **If the level of the liquid in the drip pan gets below 2 inches, add a quart of boiling water** (don't add cold water, which would cool the cooking chamber). Do not let the solids burn or stick to the pan. The page's rough guide for how long it will take to get a whole bird to 160°F:
+
+| Pounds | Hours at 325°F |
 |---|---|
-| 12–14 lb | 2–2½ hr |
-| 14–18 lb | 2½–3 hr |
-| 18–20 lb | 3–3½ hr |
-| 20–24 lb | 3½–4 hr |
-| 24–30 lb | 4–5 hr |
+| 12 to 14 | 2 to 2½ |
+| 14 to 18 | 2½ to 3 |
+| 18 to 20 | 3 to 3½ |
+| 20 to 24 | 3½ to 4 |
+| 24 to 30 | 4 to 5 |
 
-**7. At 150°F, drain the cavity and pull the gravy pan.**
-As the meat temperature approaches 150°F in the center of the breast, **tilt the bird and drain the liquid in the cavity into the gravy.** When the meat hits 150°F, remove the bird and set it aside for a minute while you carefully remove the gravy pan. **Place the bird back on, and the dry heat will finish crisping the underside.** Cook until the breast reaches your target — 160°F per the source's table, or 165°F per this cookbook's standing poultry floor ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)).
+**9. At 150°F, drain the cavity and pull the gravy pan.**
+As the meat temperature approaches 150°F in the center of the breast, **tilt the bird and drain the liquid in the cavity into the gravy.** When the meat hits 150°F, remove the bird and set aside for a minute while you carefully remove the gravy pan. **Place the bird back on, and the dry heat will finish crisping the underside.**
 
-**8. Make the gravy.**
-Strain the gravy through a sieve into a large pot and discard the solids. Taste it — it should be rich and flavorful. If it's thin, bring it to a boil and let it cook down a little to concentrate the flavors while the bird finishes. When it's at the concentration you want, use a fat separator, large spoon, or basting bulb to remove most of the fat from the surface. **Add salt to taste. Resist the temptation to thicken this gravy with flour or cornstarch** — the thin gravy will soak into the meat and add more flavor, while a thick, starchy gravy sits on top of the meat and doesn't penetrate.
+*Cookbook note, not on the page:* the printed steps never name a final pull temperature — the only doneness figure the page prints is the **160°F** its timing table is built around (and [§T81](#t81-cooking-the-perfect-turkey)'s *remove the turkey from the heat when the breasts hit 160°F*). This cookbook's standing poultry floor is 165°F ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)); see the ⚠️ note above and pick your number before the bird goes on.
 
-**9. Serve — and don't rest it.**
-To lift the hot turkey from the cooker, use Bear Paws (meat-shredding claws), or two spatulas or wooden spoons — just stick the handle of each into the front and rear cavity and lift. **Serve your turkey hot and crispy. Don't tent it and let it rest, so carryover cooking dries it out.** Place the bird on a cutting board with channels that can hold the copious juices, carve following [§T82](#t82-how-to-carve-a-turkey), and place the carved meat on a platter with a lip to contain the juices.
+**10. Make the gravy.**
+Strain the gravy through a sieve into a large pot. Discard the solids. Taste it — it should be rich and flavorful. If it is thin, bring it to a boil and let it cook down a little to concentrate the flavors while the bird finishes. When it is the concentration you want (rich), use a fat separator, large spoon, or basting bulb to remove most of the fat from the surface of the gravy. **Add salt to taste. Resist the temptation to thicken this gravy with flour or cornstarch**, since the thin gravy will soak into the meat and add more flavor. A thick, starchy gravy sits on top of the meat and doesn't penetrate.
+
+**11. Serve.**
+To lift the hot turkey from the cooker, use Bear Paws (the book's p. 109 — meat-shredding claws), or use two spatulas or wooden spoons — just stick the handle of each into the front and rear cavity and lift. **Serve your turkey hot and crispy. Don't tent it and let it rest, so carryover cooking dries it out.** Place the bird on a cutting board with channels that can hold the copious juices. Carve, following [§T82](#t82-how-to-carve-a-turkey) (the page's "page 312"). Place the carved meat on a platter with a lip to contain the juices.
 
 #### C. Grocery Shopping List
 
@@ -31071,7 +31083,7 @@ To lift the hot turkey from the cooker, use Bear Paws (meat-shredding claws), or
 - 🛒 Apple juice — 1 cup
 - 🛒 Onions — 2
 - 🛒 Carrots — 2
-- 🛒 Celery — 2 stalks
+- 🛒 Celery — 1 stalk
 - 🛒 Dried sage, dried thyme
 - 🛒 Bay leaves — 2
 - 🛒 Cooking oil

@@ -931,7 +931,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(The Meathead Method)* | 🟢 | 10 min | — | **5–6 hr** *(indirect smoker, unattended)* | ~8–9 hr *(includes a 3 hr dry brine)* |
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES; + 12 hr–1 wk fridge rest)* |
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES; + 3 hr–overnight fridge rest)* |
-| [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
+| [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES)* |
 | [§4.167 Smoked Butter](#4167-smoked-butter) | 🟢 | 10 min | — | **1 hr** *(smoker, unattended)* | 2 hr 15 min *(includes freezing beforehand and a 1 hr rest afterward)* |
 | [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) | 🟢 | 10 min | — | — | 10 min |
 | [§4.169 Cool Smoke Rub](#4169-cool-smoke-rub) | 🟢 | 10 min | — | — | 10 min |
@@ -9457,6 +9457,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** none — this is a stir-together condiment.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 188 (second-pass QC).** All six ingredient lines match the page exactly, including the ¼ tsp kosher salt; the whisk-until-smooth method, the 1-to-2-month tightly-lidded fridge storage, and MAKES about 1¼ cups / TAKES about 5 minutes match. Per the headnote, the author uses it on both burgers *and fries*. No change beyond this line.
+
+**Makes about 1¼ cups · Takes about 5 minutes** *(as printed — "if you take a nap during the process")*
+
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(a nap during the process is entirely optional, per the source)*
 
 #### A. Ingredients
@@ -9506,7 +9510,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T38 Rubs, Injecting, and Marinades](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes)
 
-**🟢 Easy** · **Prep ~10 min** *(timed to happen while the meat is still on the fire)* · **Cook none** · **Start to finish ~10 min active**, *enough for 2 lb of meat*
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 189 (second-pass QC).** All seven ingredient lines match the page exactly — salt is *optional* on the page, and the only salt figure printed is none. The single printed paragraph of method matches in substance. **Three fixes:** the page prints **MAKES about ½ cup, enough for 2 pounds of meat / TAKES 30 minutes**, which the entry never carried — the printed 30 replaces the badge's 10-minute start-to-finish; the page's method says to add *the black pepper* only, so Step 1 no longer tells you to add salt as a matter of course (it's parenthetical and optional now); and the page says a *coffee cup*, not "a coffee cup or small bowl." The botulism warning is from the page's Board Sauces intro and stays. No quantity changed.
+
+**Makes about ½ cup, enough for 2 pounds of meat · Takes 30 minutes** *(as printed)*
+
+**🟢 Easy** · **Prep ~10 min** *(timed to happen while the meat is still on the fire)* · **Cook none** · **Start to finish ~30 min** *(as printed; enough for 2 lb of meat)*
 
 #### A. Ingredients
 
@@ -9521,7 +9529,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### B. Cooking Instructions
 
 **1. Chop the aromatics while the meat cooks.**
-While the meat is on the fire, coarsely chop the sage, thyme, garlic, and jalapeño together and put them in a coffee cup or small bowl. Add the black pepper and salt.
+While the meat is on the fire, coarsely chop the sage, thyme, garlic, and jalapeño together and put them in a coffee cup. Add the black pepper (and a little salt only if you want it — the page lists salt as optional).
 
 **2. Add the oil.**
 Drizzle the olive oil into the cup with the chopped aromatics.

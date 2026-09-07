@@ -30837,7 +30837,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Two sub-components kept inline as part of this one entry, not spun off as separate §4 condiments** — both the Blue Cheese Dip and the Classic Buffalo Hot Sauce are purpose-built for this specific dish (the dip is seasoned with this cookbook's own [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) rather than a generic blend), so they follow this cookbook's existing precedent for recipe-specific sub-components (e.g. this chapter's own stuffing/gravy/sauce groupings) rather than the precedent for a reusable, stand-alone sauce like [§4.133 Beef Butter](#4133-beef-butter). No existing condiment in this cookbook duplicates either one.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 302–304 (second-pass QC).** All eleven ingredient lines across the three sub-lists, all eight steps in printed order, and every figure (325°F range, 7 to 10 minutes per side, about 140°F, MAKES 4 to 6 appetizer servings, TAKES 45 minutes to prep and 30 minutes to cook) are as printed. **Small omissions restored:** Step 4's *"You can start the wings on a smoker if you wish, but I usually grill them"*; Step 6's *"add more lit coals or turn the dial to 11"*; Step 7's warming of the sauce *on the grill*; and the Notes' named shortcut, *Marie's Blue Cheese salad dressing*, plus the page's reason for Frank's (*"its charm is its fresh red pepper flavor"*). The MAKES/TAKES line is now restated and the Nutrition serving count notes the printed 4 to 6. Nothing illegible.
+
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T79 Anatomy of a Chicken Wing](#t79-anatomy-of-a-chicken-wing)
+
+**Makes 4 to 6 appetizer servings · Takes 45 minutes to prep and 30 minutes to cook** *(as printed)*
 
 **🟢 Easy** · **Prep ~45 min** · **Cook ~30 min** · **Start to finish ~1 hr 15 min**
 
@@ -30877,21 +30881,21 @@ Melt the butter in a saucepan over low heat. Add the garlic and let it simmer ge
 Cut the wings into their 3 parts — drumette, wingette, and tip (see [§T79](#t79-anatomy-of-a-chicken-wing)) — and freeze the tips for stock. Season the drumettes and wingettes with salt and pepper.
 
 **4. Fire up.**
-Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and get the indirect side to about 325°F. Add a little wood if you want some smoke.
+You can start the wings on a smoker if you wish, but the book usually grills them. Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)). Try to get the indirect side in the 325°F range. If you wish, add wood to the fire to create smoke.
 
 **5. Cook.**
-Place the wings on the indirect side, close the lid, and cook until the skin is golden, about 7 to 10 minutes per side. They should be close to 140°F by then, though it's hard to get an exact read on such thin pieces — the good news is wings are hard to overcook.
+Place the wings on the grill in the indirect zone, close the lid, and cook until the skins are golden, 7 to 10 minutes per side. By then they are pretty close to done. You are shooting for about 140°F, but because they are so thin, it is really hard to get a good read. The good news is that wings are hard to overcook.
 
 **6. Sear.**
-Get the direct side as hot as possible. Move the wings there, lid open, and stand by, turning them frequently until the skin is dark golden to brown but not burned. Watch the skinnier pieces closely and slide them back to the indirect side as soon as they're done.
+Get the direct-heat side as hot as possible — add more lit coals or turn the dial to 11. Open the lid, move the wings onto the direct-heat side, and stand there, turning the wings frequently, until the skin is dark golden to brown but not burned. Keep a close eye on the skinnier pieces, moving them to the indirect zone when they are done.
 
 **7. Sauce.**
-Warm the hot sauce in a big bowl or pot. When the wings come off the grill, toss them in the sauce until well coated.
+Put the hot sauce in a big bowl or pot and put it on the grill to warm it. Stir or whisk well. When the wings are done, chuck them in with the sauce and toss or stir until they are well coated.
 
 **8. Serve.**
-Slide the wings onto a serving platter, set the celery sticks alongside, and serve with the blue cheese dip on the side.
+Slide the wings onto a serving platter. Put the celery sticks next to them, and serve with the blue cheese dip on the side.
 
-**Notes:** Frank's RedHot is the classic Buffalo sauce base; Sriracha works for more heat. For a change of pace, [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) or [§4.117 KC Classic](#4117-kansas-city-classic-barbecue-sauce) make tasty, if not authentic, substitutes for the hot sauce. In a pinch, a bottle of blue cheese dressing from the fridge case stands in fine for the dip.
+**Notes:** When feeling lazy, the book just uses Marie's Blue Cheese salad dressing, from the refrigerator section of the supermarket, in place of the dip. Frank's RedHot is the classic base for Buffalo wing sauce, and its charm is its fresh red pepper flavor; if you want more heat, try Sriracha. For a change of pace, the book will often forgo the hot sauce and use [§4.123 D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) or [§4.117 KC Classic](#4117-kansas-city-classic-barbecue-sauce) — not authentic, but mighty tasty.
 
 #### C. Grocery Shopping List
 
@@ -30915,7 +30919,7 @@ Slide the wings onto a serving platter, set the celery sticks alongside, and ser
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole dish** | ~3,800 | 320 g | 210 g | 10 g | 1 g |
-| **Per serving** *(serves 5, as an appetizer)* | ~760 | 64 g | 42 g | 2 g | <1 g |
+| **Per serving** *(serves 5, as an appetizer; the source says 4 to 6)* | ~760 | 64 g | 42 g | 2 g | <1 g |
 
 **What a serving is:** about 5 wings with hot sauce, plus a couple tablespoons of blue cheese dip and a stick or two of celery — a hearty appetizer plate.
 
@@ -30925,7 +30929,7 @@ Slide the wings onto a serving platter, set the celery sticks alongside, and ser
 
 ### 7.121 Marinated Cornish Game Hens
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter. The marinade is the book's own family recipe, inspired by a 1981 *New York Times* recipe that Meathead's sister Ann tweaked over the years, and that he tweaked further himself. Per the book: Cornish game hens aren't a separate species or game bird at all — they're just chickens younger than two weeks old, of either sex, weighing 2 pounds or less; the recipe can be doubled and made with a whole chicken instead, though the younger hens take up the marinade a bit better.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Chicken and Turkey" chapter (book pp. 306–307). The marinade is the book's own family recipe: Meathead's sister Ann has used it on Cornish game hens for years, inspired by a 1981 *New York Times* recipe she tweaked — and, *"since she's my kid sister, I couldn't run it unadulterated, and I had to tweak it further."* Per the book: Cornish game hens are not game birds or even a different breed — they are immature chickens **younger than five weeks**, of either sex, weighing two pounds or less. You can double the recipe and use a whole chicken, but the younger birds absorb the marinade better. If you wish, you can also cook this recipe on a rotisserie.
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
 
@@ -30935,7 +30939,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > ✅ **Re-verified against book p. 307 on 2026-09-06** during the page-order audit. The ingredient list was missing **2 teaspoons chili powder** entirely, and garlic powder was listed at 2 teaspoons instead of the printed **½ teaspoon** — the first transcription had merged the two lines. Both are corrected above.
 
-> **Why Easy.** A straightforward marinate-then-two-zone-grill recipe — indirect until the breast hits 140°F, then a quick direct-heat skin crisp to 160°F. Nothing here is a narrow, fail-prone window.
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 306–307 (second-pass QC).** All eleven ingredient lines and the MAKES/TAKES line are exact. **Two figures were wrong and are fixed:** Step 3 moved the hens to direct heat when the breast hit **140°F** — the page says **145°F** (the "Why Easy" note carried the same wrong number); and the headnote called the hens chickens *younger than two weeks* — the page says **younger than five weeks**. Step 1 is restored to the printed order (hen into the bag, *turn several times to coat*, then bag into a bowl). The Note's "international foods aisle or a Middle Eastern market" was never printed and is struck; the rotisserie option the page offers is added. Salt unchanged at 2 teaspoons. Nothing illegible.
+
+> **Why Easy.** A straightforward marinate-then-two-zone-grill recipe — indirect until the breasts hit 145°F, then a quick direct-heat skin crisp to 160°F. Nothing here is a narrow, fail-prone window.
 
 #### A. Ingredients
 
@@ -30954,15 +30960,15 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 #### B. Cooking Instructions
 
 **1. Prep.**
-Combine all the ingredients except the hen in a zipper-top bag and shake until the salt and sugar dissolve. Put the bag in a bowl to catch any leaks, add the hen halves, and refrigerate for 12 hours or overnight.
+Combine all the ingredients except the hen in a zipper-top bag and shake until the salt and sugar have dissolved. Put the hen in the bag and turn several times to coat. Put the bag in a bowl to catch drips and refrigerate for 12 hours or overnight.
 
 **2. Fire up.**
-Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and try to get the indirect side to 325°F.
+Set up the grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)). Try to get the indirect side to 325°F.
 
 **3. Cook.**
-Lift the hen halves out of the marinade and set them skin side up on the indirect side of the grill. Once the internal temperature of the breast hits 140°F, move the halves to direct heat, skin side down, to crisp the skin. Flip often, and once the internal temperature hits 160°F, bring them to the cutting board.
+Lift the hen from the marinade and set the pieces skin side up on the indirect-heat side of the grill. When the internal temperature of the breasts hits 145°F, place them over direct heat, skin side down, to crisp the skin. Flip them often, and when the internal temperature hits 160°F, bring them in.
 
-**Note:** ground bay leaf can be hard to find at a regular grocery store — check the international foods aisle or a Middle Eastern market, order it online, or grind whole bay leaves yourself in a coffee grinder, mortar and pestle, or blender.
+**Note:** if you can't find ground bay leaves in your local grocery store, you can order them online or grind whole bay leaves yourself in a coffee grinder, mortar and pestle, or blender.
 
 #### C. Grocery Shopping List
 

@@ -200,6 +200,7 @@ Click any recipe to jump straight to it.
   - [4.179 Carolina Gold for Grownups](#4179-carolina-gold-for-grownups) ✅ *(The Meathead Method; added 2026-09-06 — distinct from [§4.35](#435-mustard-barbecue-sauce)/[§4.92](#492-carolina-mustard-barbecue-sauce)/[§4.118](#4118-columbia-gold-south-carolina-mustard-sauce))*
   - [4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) ✅ *(The Meathead Method; completed 2026-09-06 — two recipes in one, the component [§7.132](#7132-kōji-filet-mignon) needs; distinct from [§4.79](#479-sauce-duxelles-brown-mushroom-sauce))*
   - [4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce) ✅ *(Meathead: The Science of Great Barbecue and Grilling; recovered 2026-09-06 — closes the standing gap at [§7.98](#798-happy-mouth-yakitori-ribs))*
+  - [4.182 Basic Pepper Paste](#4182-basic-pepper-paste) ✅ *(Salt, Fat, Acid, Heat; recovered 2026-09-06 — carries the source's "Pepper Sauce" section intro, and closes the standing gap at [§4.163 Rouille](#4163-rouille-pepper-mayonnaise))*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -1064,6 +1065,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) | 🟢 | 20 min | — | **1½–2 hr** *(indirect grill)* | 2 hr 20 min |
 | [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) | 🟢 | 20 min | — | — | 45 min *(a 20 min onion macerate plus two ~10 min rests)* |
 | [§4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) | 🟢 | 20 min | — | **1 day minimum** *(pickles in the jar; improves for weeks)* | ~1 day |
+| [§4.182 Basic Pepper Paste](#4182-basic-pepper-paste) | 🟢 | 20 min | — | — | 1 hr 20 min *(includes a 30–60 min soak to rehydrate the chilies)* |
 | [§7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) *(Meathead)* | 🟢 | 20 min | — | **~1¾ hr** *(indirect grill, unattended)* | 2 hr 10 min |
 | [§7.97 Last-Meal Ribs](#797-last-meal-ribs) *(Meathead)* | 🟢 | 20 min | — | **5–6 hr** *(indirect smoker, unattended)* | 7–8 hr *(includes ~2 hr dry brine)* |
 | [§5.55 Steamy Sauté: Garlicky Green Beans](#555-steamy-sauté-garlicky-green-beans) | 🟢 | 10 min | 11 min | — | 20 min |
@@ -11415,10 +11417,10 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 - Salt
 - 3 to 4 teaspoons red wine vinegar *(corrected 2026-09-06 — the earlier version said 2 to 4 tsp)*
 - ¾ cup **stiff** [Rustic Mayonnaise](#4159-rustic-mayonnaise) *(the source's own "Basic Mayonnaise," specified stiff — see [§4.159](#4159-rustic-mayonnaise)'s headnote; corrected 2026-09-06 from "soft")*
-- ⅓ cup **Basic Pepper Paste** *(the source's own recipe, book p. 379 — see the note below)*
+- ⅓ cup [**Basic Pepper Paste**](#4182-basic-pepper-paste) *(the source's own recipe, book p. 379 — now documented at [§4.182](#4182-basic-pepper-paste))*
 - 1 garlic clove, finely grated or pounded with a pinch of salt
 
-> **A note on the Pepper Paste.** The source builds this on its own **"Basic Pepper Paste," printed on book p. 379** — the 2026-09-06 page-order audit read that page reference clearly and then confirmed that **p. 379 appears at no index in the 50-page scan**, so it is verified absent rather than merely unlocated, and **flagged as a gap rather than invented.** The recipe's own Chipotle Mayonnaise variation (below) substitutes ⅓ cup puréed canned chipotle peppers for the same amount of pepper paste, which is the best clue to its consistency; in its place, a jarred roasted red pepper purée (piquillo peppers work well) or a homemade roasted-and-peeled-red-pepper purée stands in.
+> ✅ **The Pepper Paste gap is closed — 2026-09-06.** The source builds this on its own **"Basic Pepper Paste," printed on book p. 379**, and this entry carried a jarred roasted-red-pepper purée as a stand-in from the day it was added, because the 2026-09-06 page-order audit confirmed p. 379 appeared at no index in the 50-page scan. **Cody photographed p. 379 in this round, and it is now written up in full at [§4.182 Basic Pepper Paste](#4182-basic-pepper-paste)** — dried guajillo, New Mexico, Anaheim, or ancho chilies, rehydrated in boiling water and blended smooth with olive oil and salt. **Use it here.** One batch of §4.182 makes about a cup, so a single batch covers this recipe three times over; it keeps refrigerated under oil for 10 days and freezes for 3 months. *The old stand-in still works in a pinch — a jarred roasted red pepper purée, piquillo peppers being the best of them — but it is no longer what this recipe calls for.*
 
 #### B. Cooking Instructions
 
@@ -11440,7 +11442,7 @@ Cover and chill for a few hours before serving — the mayonnaise firms up notic
 **🛒 General grocery**
 
 - 🛒 Red wine vinegar — 3 to 4 tsp
-- 🛒 Roasted red pepper purée (jarred piquillo peppers work well) — ⅓ cup, standing in for the undocumented Basic Pepper Paste (source p. 379)
+- 🛒 Ingredients for [§4.182 Basic Pepper Paste](#4182-basic-pepper-paste) — you need ⅓ cup, and one batch of §4.182 makes about a cup *(or, in a pinch, ⅓ cup jarred roasted red pepper purée — piquillo peppers work well)*
 - 🛒 Garlic — 1 clove
 - 🛒 Salt
 - 🛒 Ingredients for [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) (¾ cup)
@@ -12660,6 +12662,91 @@ Put the cornstarch in a coffee cup and add **2 tablespoons of cold water**. With
 | **Per serving** *(2 Tbsp)* | ~53 | 1.8 g | 0.4 g | 8 g | 0.1 g |
 
 **What a serving is:** 2 tablespoons painted onto a skewer or two of grilled meat — a glaze coat, not a dipping bowl. The ginger and garlic solids are strained out and discarded, so their bulk isn't counted here.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.182 Basic Pepper Paste
+
+Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 379), the opening recipe of her "Pepper Sauce" section in the Sauces chapter. Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat) and this cookbook's other batches from this book. **This is a base, not a finished sauce** — it's what a whole family of the world's pepper condiments gets built on, starting with [§4.163 Rouille](#4163-rouille-pepper-mayonnaise), which calls for ⅓ cup of it by name.
+
+> 🔎 **Recovered 2026-09-06 — closes a gap this cookbook had already verified as genuinely absent.** The 2026-09-06 page-order audit read this recipe's page reference off [§4.163 Rouille](#4163-rouille-pepper-mayonnaise)'s own ingredient list — **book p. 379** — and then confirmed p. 379 appeared **at no index** in the 50-page scan. §4.163 has been carrying a jarred roasted-red-pepper purée as a stand-in ever since. **Cody photographed p. 379 in this round**, so the recipe is now written up exactly as printed: the yield, all four ingredients, and the whole method. **Nothing here is inferred**, and §4.163's stand-in is retired.
+
+> **The source's own "Pepper Sauce" section intro, folded in here rather than given its own entry** — the same practice [§4.164 Pesto](#4164-pesto-basil-pesto) already uses for its section intro, since the intro is a few sentences of framing for one recipe rather than a technique of its own.
+>
+> Pepper sauces make great condiments, dips, and sandwich spreads. **Many, but not all, cuisines of the world feature condiments that start with a base of pepper paste — and they aren't always unbearably spicy.** Stir pepper paste into pots of beans, rice, soup, or stew to elevate flavor. Rub it onto meat before roasting or grilling, or add some into a braise. The source names four of the world's pepper sauces built on this base:
+>
+> - **Rouille**, the French one — add some pepper paste to mayonnaise and you've got it, perfect for a sandwich made with Tuna Confit *(the source's own recipe, book p. 314 — not in this cookbook)*. **Already here: [§4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise).**
+> - **Harissa**, the North African pepper sauce — served alongside Kufte Kebabs *(the source's own p. 356, which **is** this cookbook's [§7.123 Kufte Kebabs](#7123-kufte-kebabs))*, grilled fish, meat, or vegetables, and poached eggs. *(Not in this cookbook as its own recipe — see Open Questions.)*
+> - **Romesco**, the Catalan pepper-and-nut sauce — thick enough to make a great dip for vegetables and crackers; thin it out with a little water and it's an ideal condiment for roasted or grilled vegetables, fish, and meats. *(Not in this cookbook.)*
+> - **Muhammara**, a pomegranate-laced walnut-and-pepper spread from Lebanon — served with warm flatbreads and raw vegetables. *(Not in this cookbook.)*
+
+**Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~20 min** *(stemming and seeding the chilies, then 3–5 minutes in the blender)* · **Cook none** · **Start to finish ~1 hr 20 min** *(includes a 30–60 min soak to rehydrate the chilies — waiting, not work)*
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, there is no step here that can go from perfect to ruined. Nothing is on a burner, the soak is forgiving at either end of its 30-to-60-minute window, and the one thing that can go wrong — a paste that won't come fully smooth — has a printed remedy right in the recipe: push it through a sieve. The soak is lead time, not difficulty.
+
+#### A. Ingredients
+
+- 3 ounces (about 10 to 15 pieces) dried chilies, such as Guajillo, New Mexico, Anaheim, or ancho
+- 4 cups boiling water
+- ¾ cup extra-virgin olive oil
+- Salt
+
+*Salt is printed without a quantity — the source seasons to taste. Transcribed as printed; see Open Questions.*
+
+#### B. Cooking Instructions
+
+**1. Glove up first if your skin is sensitive.**
+The source's own opening instruction: *if you have very sensitive skin, put on rubber gloves to protect your fingers.* Dried chilies of this type — guajillo, New Mexico, Anaheim, ancho — are all mild, so this is about prolonged handling rather than raw heat, but you'll have your hands in torn-open peppers for several minutes and the oils transfer to whatever you touch next. Gloves or a thorough soapy wash afterward, and keep your hands away from your eyes either way.
+
+**2. Stem and seed the chilies, then rinse them.**
+Pull off the stem, then tear each pepper open lengthwise, shake the seeds out, and discard them. Tearing rather than slicing is deliberate — a dried pepper is leathery and hollow, and opening it along its own length lets the seeds fall free in one motion instead of scattering. Rinse the opened peppers to wash off any dust or stray seeds. **The seeds and the pale interior ribs carry the harshest, most bitter bite of a dried chile** — that's general kitchen knowledge rather than something the source states, but it's the reason this step exists rather than just breaking the peppers into a blender whole.
+
+**3. Cover with boiling water and weight them down. Soak 30 to 60 minutes.**
+Put the peppers in a heatproof bowl, pour the 4 cups of boiling water over them, and **set a plate on top of them to hold them under.** They will float otherwise, and any pepper riding above the waterline stays leathery. Let them sit 30 to 60 minutes.
+
+*Rehydrating, explained:* a dried chile is a fresh chile with nearly all of its water driven out — that's what concentrates the flavor, and it's also what makes it stiff and papery. Hot water puts that water back, turning the pepper soft and pliable so a blender can actually break it down into a purée. Skip or shortcut this and you get gritty flecks of chile skin instead of a smooth paste, no matter how long you run the machine.
+
+**4. Drain — and keep ¼ cup of the soaking water.**
+Drain the peppers, **reserving ¼ cup of the water** before you pour the rest away. That reserved liquid is the only thing you'll have to thin the paste with in Step 5, and it's worth more than plain water because it carries chile flavor out of the soak. Pour it out by reflex and you'll be reaching for the tap instead.
+
+**5. Blend with the oil and salt. At least 3 minutes, until completely smooth.**
+Put the drained peppers, the olive oil, and salt in a blender or food processor and run it for **at least 3 minutes**, until the paste is completely smooth. Three minutes is longer than it feels like — set a timer rather than eyeballing it. **If the mixture is too thick for the blender to process,** meaning it climbs the sides and spins around the blade instead of pulling down into it, add just enough of the reserved water to thin the paste and get it moving again. Taste and adjust the seasoning as needed.
+
+**6. If it's still not smooth after 5 minutes, push it through a sieve.**
+If your paste is still not completely smooth after 5 minutes of blending, pass it through a fine-mesh sieve with a rubber spatula to remove the remaining pepper skins. This isn't a failure — chile skins are tough enough that some blenders simply won't take them all the way down, and the sieve gets you there.
+
+**7. Store it under a film of oil.**
+Cover the paste with oil, wrap tightly, and **refrigerate for up to 10 days.** A thin layer of oil across the top seals the surface off from air, which is what keeps the color bright and the top layer from drying into a crust. **Freeze for up to 3 months.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Dried chilies — 3 oz, about 10 to 15 pieces: **guajillo, New Mexico, Anaheim, or ancho** *(the Mexican foods aisle carries these bagged in most stores; a Latin market will have a wider and fresher selection, and fresher dried chilies are noticeably more pliable)*
+- 🛒 Extra-virgin olive oil — ¾ cup, plus a little more to cover the finished paste for storage
+- 🛒 Salt
+- 🛒 Rubber gloves *(optional — see Step 1)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** | ~1,640 | 168 g | 9 g | 38 g | 16 g |
+| **Per serving** *(1 Tbsp, of about 16)* | ~103 | 10.5 g | 0.6 g | 2.4 g | 1 g |
+
+**What a serving is:** about 1 tablespoon — a spoonful stirred into a pot of beans or rice, rubbed over a piece of meat before it goes on the grill, or the ⅓ cup that [§4.163 Rouille](#4163-rouille-pepper-mayonnaise) folds into a full cup of mayonnaise.
+
+*The ¾ cup of olive oil is roughly 87% of the calories; the chilies carry all of the fiber. **The stems, seeds, and soaking water are discarded and aren't counted** — only the pepper flesh that actually goes into the blender. Salt is printed without a quantity, so no sodium figure is given.*
+
+#### D. Open Questions
+
+- **Salt has no printed quantity.** The source lists "Salt" as an ingredient and says only *"taste and adjust seasoning as needed"* — transcribed exactly as printed rather than assigned a number here, per [CLAUDE.md §3b](CLAUDE.md). Worth writing down what you actually used once a batch is made.
+- **The printed yield and the ingredient volumes don't quite reconcile.** The page prints **MAKES about 1 cup**, but ¾ cup of olive oil alone accounts for most of that before any pepper purée goes in; 3 ounces of rehydrated chile flesh realistically pushes the finished batch closer to 1¼–1½ cups. Transcribed as printed rather than corrected — the Nutrition block above divides by 16 tablespoons, matching the printed yield, so treat the per-tablespoon figures as the conservative read.
+- **Harissa, Romesco, and Muhammara are named in the source's section intro but are not in this cookbook**, and their own pages were not among those photographed. Named rather than invented. **Tuna Confit** (source p. 314), which the intro pairs with Rouille, is likewise not documented here and is already flagged at [§4.163](#4163-rouille-pepper-mayonnaise).
 
 [↑ Table of Contents](#table-of-contents)
 

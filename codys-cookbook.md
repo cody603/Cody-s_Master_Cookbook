@@ -8023,6 +8023,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 166 (second-pass QC) — correct as written.** ½ cup kosher salt, ½ cup freshly ground black pepper, blend them together, MAKES 1 cup, TAKES about 2 minutes. Salt matches the page exactly. No change.
+
 **🟢 Easy** · **Prep ~2 min** · **Cook none** · **Start to finish ~2 min**
 
 #### A. Ingredients
@@ -8057,7 +8059,9 @@ That's the whole recipe — stir or shake them together in a jar until evenly mi
 
 ### 4.106 Big Bad Beef Rub
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A punchy, no-salt house rub for steaks and roasts, meant to be applied at cooking time rather than as a dry brine.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A punchy, no-salt rub built for **beef brisket and barbecued beef ribs**, which can handle — and benefit from — a more potent mix than [§4.105 Dalmatian Rub](#4105-dalmatian-rub); it's designed to form a rich, crunchy bark. Beef rub is different from pork rub: pork loves sweetness and beef doesn't, so the small amount of sugar here is only there to help bark form, while black pepper does the heavy lifting.
+
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 166–167 (second-pass QC).** All seven ingredients and quantities, the mix-in-a-bowl method, and the printed MAKES about ½ cup / TAKES about 10 minutes match; no salt is printed, as the warning below says. Two things restored from the headnote: the rub is written for **brisket and beef ribs** (the earlier description said "steaks and roasts"), and the ingredient line's own "see headnote" pointer — **dried ancho chile is the preferred choice** for its raisin-y character, and **chipotle beats cayenne** on flavor, either giving a kiss of heat.
 
 **Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
 
@@ -8074,13 +8078,13 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp onion powder
 - 2 tsp dry mustard
 - 2 tsp garlic powder
-- 2 tsp chili powder or ground ancho chile
-- 1 tsp ground chipotle chile or cayenne
+- 2 tsp chili powder or ground ancho chile *(ancho if you can find it — it has a nice raisin-y character, per the headnote)*
+- 1 tsp ground chipotle chile or cayenne *(chipotle has the better flavor, per the headnote)*
 
 #### B. Cooking Instructions
 
 **1. Mix everything in a bowl.**
-Stir all the ingredients together until evenly blended. Store in a tightly sealed jar.
+Stir all the ingredients together until evenly blended. Store in a tightly sealed jar, per [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage).
 
 #### C. Grocery Shopping List
 

@@ -929,8 +929,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) | 🟢 | 10 min | — | **~8 hr** *(freezer, stirred at least three times)* | 8 hr 10 min |
 | [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **to 140–145°F** *(smoker at 225°F — the page prints 20 min total, no smoke time)* | ~20 min active *(+ chilling the fish)* |
 | [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(The Meathead Method)* | 🟢 | 10 min | — | **5–6 hr** *(indirect smoker, unattended)* | ~8–9 hr *(includes a 3 hr dry brine)* |
-| [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
-| [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
+| [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES; + 12 hr–1 wk fridge rest)* |
+| [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 30 min *(printed TAKES; + 3 hr–overnight fridge rest)* |
 | [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.167 Smoked Butter](#4167-smoked-butter) | 🟢 | 10 min | — | **1 hr** *(smoker, unattended)* | 2 hr 15 min *(includes freezing beforehand and a 1 hr rest afterward)* |
 | [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) | 🟢 | 10 min | — | — | 10 min |
@@ -1047,7 +1047,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 5–10 min | **~3 hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3½ hr |
 | [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) | 🟢 | 15 min | 3 min *(toasting cumin seeds)* | — | 20 min |
 | [§9.27 Reuben](#927-reuben) | 🟢 | 10 min | 8 min | — | 20 min |
-| [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 20 min |
+| [§4.118 Columbia Gold (SC Mustard Sauce)](#4118-columbia-gold-south-carolina-mustard-sauce) | 🟢 | 15 min | 5 min | — | 30 min *(printed TAKES)* |
 | [§4.100 The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) | 🟢 | 20 min | — | — | 20 min active *(+ brining time per §T37)* |
 | [§4.130 Chimichurri Sauce](#4130-chimichurri-sauce) | 🟢 | 20 min | — | — | 20 min |
 | [§4.176 Lubing Turkey Breasts (Oil Injection)](#4176-lubing-turkey-breasts-oil-injection) *(Meathead)* | 🟢 | 20 min | — | — | 20 min |
@@ -8838,11 +8838,15 @@ Storing it overnight in the fridge helps meld the flavors.
 
 ### 4.119 East Carolina Mop Sauce
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The classic Eastern-Carolina/Low-Country vinegar mop — thin, penetrating, and used both as a basting mop during the cook and a table sauce after, per [§T48](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat). **Distinct from [§4.36](#436-north-carolina-vinegar-sauce), [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style), and [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato)** — this cookbook now carries four Eastern-Carolina-style vinegar sauces from four different sources; worth a side-by-side taste sometime.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The classic Eastern-Carolina/Low-Country vinegar mop — thin, penetrating, and used both as a basting mop during the cook and a table sauce after, per [§T48](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat). Per the source, it goes on **naked meat, without a rub**; the mop cools and flavors the meat as it cooks, and because it's so thin it penetrates as the meat dehydrates. The author tried it with both vinegars and prefers distilled white, though cider is fine if you'd rather. **Distinct from [§4.36](#436-north-carolina-vinegar-sauce), [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style), and [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato)** — this cookbook now carries four Eastern-Carolina-style vinegar sauces from four different sources; worth a side-by-side taste sometime.
 
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min active** *(plus at least 12 hours resting in the fridge — a week is better)*
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 178 (second-pass QC).** All six ingredient lines match the page exactly — including the **2 Tbsp kosher salt** and the sugar's three printed options — as do the jar-and-shake method, the 12-hour-minimum / week-is-better rest, and the Note (Texas Pete, Tabasco Chipotle, crushed chipotles). **One fix:** the page prints **MAKES about 1½ cups / TAKES about 30 minutes**, which the entry never carried; the printed 30 replaces the badge's 10-minute start-to-finish, and the entry's own hands-on estimate stays in the Prep field. Also added from the headnote: this sauce is meant for **naked meat, no rub**, and does double duty as mop and table sauce.
+
+**Makes about 1½ cups · Takes about 30 minutes** *(as printed)*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~30 min** *(as printed; plus at least 12 hours resting in the fridge — a week is better)*
 
 #### A. Ingredients
 
@@ -8889,11 +8893,15 @@ Refrigerate for at least 12 hours — a week is better — to let the flavors me
 
 ### 4.120 Lexington Dip (West Carolina Barbecue Sauce)
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The Piedmont/Hill Country cousin of [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) — the same vinegar base with a little ketchup and sugar worked in, still thin enough to penetrate rather than sitting on top like a thick Kansas City sauce.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. The Piedmont/Hill Country cousin of [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) — the same vinegar base with a little ketchup and sugar worked in, still thin enough to penetrate rather than sitting on top like a thick Kansas City sauce, so it works as a mop during the cook and a sauce at the table. Per the source, some recipes omit the sugar, but the author thinks it rounds out the flavor; the apple juice veers from the standard too, but adds depth — an idea he borrowed from George's, his favorite North Carolina sauce, made in Nashville, N.C., for decades.
 
 **Techniques used:** [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) · [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min active** *(plus at least 3 hours resting — overnight is better)*
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 179 (second-pass QC).** All eight ingredient lines match the page exactly — including the **1 Tbsp kosher salt** — as do the whisk-together method, the 3-hour-minimum / overnight-is-better rest, and the distilled-vinegar Note. **One fix:** the page prints **MAKES about 1½ cups / TAKES about 30 minutes**, which the entry never carried; the printed 30 replaces the badge's 10-minute start-to-finish. Also added from the headnote: the apple juice is the author's own borrowing from George's, a Nashville, North Carolina sauce, and some recipes omit the sugar.
+
+**Makes about 1½ cups · Takes about 30 minutes** *(as printed)*
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~30 min** *(as printed; plus at least 3 hours resting — overnight is better)*
 
 #### A. Ingredients
 

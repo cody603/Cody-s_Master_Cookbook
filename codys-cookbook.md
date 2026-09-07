@@ -7735,12 +7735,16 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **📌 Cody's Note — salinity increased, per house preference for heavier brining.** An earlier pass at this batch left this brine at the book's printed 6.3%, on the theory that a calibrated salinity shouldn't be touched. **Cody has since clarified that his "more salt than the book recommends" preference is specifically about brining** — this recipe is where it actually belongs, not the rubs and sauces elsewhere in this batch (those were mistakenly bumped instead and have been reverted to the book's printed amounts — see the 2026-09-05 correction in the changelog). **Salinity increased from 6.3% to about 9.5%** — roughly 1.5×, and still comfortably inside [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s own 5–10% wet-brine range, so this stays a genuine brine rather than crossing into curing/dehydrating territory. The salt goes from ½ lb to ¾ lb per gallon of water — treat this as Cody's starting point, adjustable further to taste.
 
-**🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min active** *(plus however long the meat itself brines — see [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s timing table)*
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 160–161 (second-pass QC).** Water, the printed ½ lb of salt (kept at Cody's ¾ lb — see the note above), the 2-cup measuring-cup trick, the three steps, the 38°F ceiling, and the printed TAKES 20 minutes all match. Two things the first two passes missed: the printed yield is **1¼ gallons** (the Nutrition block had said 1 gallon), and the page's own **"How Long to Brine?" thickness chart** — the one both this recipe and [§4.101](#4101-basic-brinerade) send you to — had never been transcribed; the earlier pointer to "[§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s timing table" led to a table that doesn't carry these figures. The chart is now printed below Step 3.
+
+**🟢 Easy** · **Prep ~20 min** · **Cook none** · **Start to finish ~20 min active** *(plus however long the meat itself brines — see the "How Long to Brine?" chart below)*
 
 #### A. Ingredients
 
 - 1 cup, plus 1 gallon, cold water — divided
 - **¾ lb kosher salt** (or any salt — see Method) *(printed: ½ lb — increased to ~9.5% salinity per Cody's standing brining preference; see note above)*
+
+**Makes** 1¼ gallons, enough for 5 pounds of meat *(as printed)*.
 
 #### B. Cooking Instructions
 
@@ -7751,7 +7755,16 @@ Pour 1 cup of the water into a 2-cup measuring cup. Add salt, stirring as you go
 Stir until the salt is fully dissolved into a concentrated slurry. Pour the slurry into a large container and add the remaining water to bring the total to 1 gallon. You now have a brine at roughly 9.5% salinity — heavier than the book's printed 6.3%, per Cody's standing brining preference.
 
 **3. Submerge, chill, and cook.**
-Submerge the meat fully in the brine. For a whole bird, move it around a few times to force air bubbles out of the cavity so it brines evenly. Keep the brine below 38°F the entire time — in the refrigerator, not on the counter — for the length of time called for in [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s timing table. When it's time to cook, remove the meat, pat it dry, season or rub as the recipe calls for, and cook.
+Submerge the meat fully in the brine. For a whole bird, move it around a few times to force air bubbles out of the cavity so it brines evenly. Keep the brine below 38°F the entire time — in the refrigerator, not on the counter — for the length of time in the chart below. When it's time to cook, remove the meat, flavor it as desired (rub, season), and cook.
+
+**How Long to Brine?** *(the book's own chart, printed beside this recipe on p. 161 — meat should be wet brined or dry brined in the refrigerator, and how long depends on how thick it is)*
+
+| Thickness | Time |
+|---|---|
+| ½ inch | ½ to 1 hour |
+| 1 inch | 1 to 2 hours |
+| 2 inches | 4 to 6 hours |
+| 3 inches | 12 to 16 hours |
 
 #### C. Grocery Shopping List
 
@@ -7765,7 +7778,7 @@ Salt water has no calories, fat, protein, carbohydrate, or fiber worth counting 
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(1 gallon, enough for 5 lb meat)* | ~0 | 0 g | 0 g | 0 g | 0 g |
+| **Whole batch** *(1¼ gallons, enough for 5 lb meat)* | ~0 | 0 g | 0 g | 0 g | 0 g |
 | **Per pound of brined meat, retained** | ~0 | 0 g | 0 g | 0 g | 0 g |
 
 **What a serving is:** this isn't eaten — it's a soak. The meat itself, after cooking, carries the nutrition; the brine's only contribution is sodium and moisture retention, per [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time).
@@ -7782,7 +7795,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **📌 Cody's Note on salt:** printed as **¼ cup (4 Tbsp) kosher salt**, increased here to **6 Tbsp (⅜ cup)** — about 1.5×, per Cody's standing preference for more salt than Meathead's book recommends. That keeps the batch's overall salinity in roughly the same 5–6% range [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) already treats as a proper wet brine, rather than pushing it toward oversalting — treat this as Cody's starting point, adjustable further to taste.
 
-**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min active** *(plus brining time, per [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s chart)*
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 161 (second-pass QC) — correct as written.** All ten ingredients and quantities (the printed ¼ cup salt kept at Cody's 6 Tbsp — see above), the shake-in-a-bag method, the use-now-or-refrigerate-up-to-a-week note, and the printed MAKES 2 cups / enough for 1 pound of meat / TAKES 15 minutes all match. One pointer fixed: the page sends you to "the chart above" for brining times — that is the **How Long to Brine?** thickness chart, now transcribed in [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity), not [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s table.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min active** *(plus brining time, per the "How Long to Brine?" chart in [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity))*
 
 #### A. Ingredients
 
@@ -7806,7 +7821,7 @@ Put all the ingredients in a large zipper-top bag and shake vigorously until the
 Use immediately, or refrigerate for up to a week until needed.
 
 **3. Brine the meat.**
-Add the meat to the bag, press the air out, and seal. Follow [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s brining-time chart for the cut's thickness. Remove, pat dry, and cook.
+Add the meat to the bag, press the air out, and seal. Follow the specific recipe, or the **How Long to Brine?** chart in [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) for the cut's thickness. Remove, pat dry, and cook.
 
 #### C. Grocery Shopping List
 

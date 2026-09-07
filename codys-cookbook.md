@@ -1206,7 +1206,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.138 Real Fried Chicken on a Gas Grill (It's Safe!)](#7138-real-fried-chicken-on-a-gas-grill-its-safe) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | 1 hr 40 min – 2 hr 40 min *(includes a 1–2 hr pickle-brine marinate)* |
 | [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) *(The Meathead Method)* | 🟢 | 10 min | 30 min | — | ~25 hr 10 min *(includes a 24 hr air-dry, mostly unattended in the fridge, + a 10 min hair-dry)* |
 | [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(The Meathead Method)* | 🟢 | 20 min | 20 min | **~5–7 hr** *(1–2 hr smoking the bones, then a 4–5 hr simmer, both unattended)* | ~6–8 hr |
-| [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 30 min | — | 1 hr 10 min *(includes a 30 min batter chill)* |
+| [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🔴 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) | 🔴 | 40 min | none | **5–7 hr** *(sous vide, unattended)* | ~10–12 hr *(includes at least 4 hr fridge firming before slicing)* |
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
@@ -7269,7 +7269,7 @@ Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Ba
 
 > **On which mustard to use, per the source:** tradition calls for inexpensive ballpark-style yellow mustard, and you're in good company using it. But he prefers the sharper, more refined flavor of **Dijon — particularly an "old-fashioned style" French one; look for *à l'ancienne* on the label.**
 
-**Yield:** makes about 1¼ cups
+**Yield:** makes about 1½ cups *(as printed — corrected 2026-09-07 from 1¼ cups; the page prints 1½)*
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min**
 
@@ -7307,8 +7307,8 @@ Remove from the heat and taste, adding salt, pepper, and more vinegar as necessa
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(~1¼ cups)* | ~810 | 4 g | 5 g | 200 g | 3 g |
-| **Per serving** *(2 Tbsp, of 10)* | ~80 | 0.4 g | 0.5 g | 20 g | <1 g |
+| **Whole batch** *(~1½ cups)* | ~810 | 4 g | 5 g | 200 g | 3 g |
+| **Per serving** *(2 Tbsp, of 12)* | ~68 | 0.3 g | 0.4 g | 17 g | <1 g |
 
 **What a serving is:** about 2 tablespoons, spooned over barbecue or served alongside. *Honey and brown sugar carry nearly all of this — it's a sweet sauce, sharper than it is rich.*
 
@@ -7395,7 +7395,7 @@ Transcribed from the same **Steven Raichlen** book as [§4.93](#493-north-caroli
 >
 > *(That tonnato comparison lands squarely on [§4.59 Tonnato Sauce](#459-tonnato-sauce), already in this cookbook — worth tasting side by side.)*
 
-**Yield:** makes about 3¼ cups
+**Yield:** makes about 3½ cups *(as printed — corrected 2026-09-07 from 3¼ cups; the page prints 3½)*
 
 **🟡 Medium** *(three stages — sauté, simmer, purée and re-cook — and a thick tomato sauce that will scorch if you stop stirring; more to go wrong than the other two chimichurris)* · **Prep ~20 min** *(a lot of small dicing)* · **Cook ~20 min** · **Start to finish ~40 min**
 
@@ -7456,8 +7456,8 @@ Off the heat, taste and add more wine vinegar and/or salt as necessary — **the
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(~3¼ cups)* | ~1,290 | 114 g | 18 g | 55 g | 12 g |
-| **Per serving** *(¼ cup, of 13)* | ~99 | 8.8 g | 1.4 g | 4 g | <1 g |
+| **Whole batch** *(~3½ cups)* | ~1,290 | 114 g | 18 g | 55 g | 12 g |
+| **Per serving** *(¼ cup, of 14)* | ~92 | 8.1 g | 1.3 g | 4 g | <1 g |
 
 **What a serving is:** about ¼ cup, spooned over grilled beef.
 
@@ -19378,8 +19378,8 @@ Cook in a large skillet over medium heat until lightly browned. Pour off all but
 **2. Cook the aromatics. About 4 minutes.**
 Add the onion, garlic, 2 Tbsp of the parsley, and the bay leaf, and cook until the onion is golden brown.
 
-**3. Add the beans, stock, and hot sauce. Simmer 5 minutes.**
-Then discard the bay leaf.
+**3. Add the beans, ½ cup of the stock, and the hot sauce. Simmer 5 minutes.**
+Start with ½ cup of stock — the rest is held back for thinning in Step 5. Then discard the bay leaf.
 
 **4. Mash half the beans right in the skillet.**
 Use a pestle, a potato masher, or the back of a wooden spoon. This is what gives the dish its body.
@@ -42112,7 +42112,7 @@ Transcribed from the same **Steven Raichlen** book as [§5.33](#533-quick-and-sm
 
 **Advance preparation:** 30 minutes to chill the batter.
 
-**🟡 Medium** *(the puff is the whole dish, and it has two real failure points — batter that isn't cold enough, or a pan that isn't smoking hot when the batter hits it. Opening the grill to check will also collapse it. Nothing burns or breaks, but you can absolutely end up with a flat pudding)* · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~1 hr 10 min** *(includes the 30 min batter chill)*
+**🟡 Medium** *(the puff is the whole dish, and it has two real failure points — batter that isn't cold enough, or a pan that isn't smoking hot when the batter hits it. Opening the grill to check will also collapse it. Nothing burns or breaks, but you can absolutely end up with a flat pudding)* · **Prep ~10 min** · **Cook ~25–35 min** *(3 min heating the pan, then 20–30 min covered)* · **Start to finish ~1 hr 5 min – 1 hr 15 min** *(includes the 30 min batter chill in the freezer)*
 
 **Techniques used:** indirect grilling · [§T30 How to Use Fat](#t30-how-to-use-fat) — *this recipe is that entry's cold-into-screaming-hot principle in its purest form; the steam from the cold batter hitting hot fat is what does the lifting*
 
@@ -42121,23 +42121,23 @@ Transcribed from the same **Steven Raichlen** book as [§5.33](#533-quick-and-sm
 - 6 large eggs
 - 2¼ cups milk
 - 1 tsp salt
-- ¼ tsp freshly ground black pepper
+- ½ tsp freshly ground black pepper *(corrected 2026-09-07 from ¼ tsp — the page prints ½; the photo is soft at this line, but the fraction glyph is visibly different from the "¼ cup" printed two lines below for the drippings)*
 - 2 cups all-purpose unbleached flour
 - ¼ cup prime rib drippings, melted unsalted butter, or extra-virgin olive oil, divided
 
 #### B. Cooking Instructions
 
-**1. Make the batter and chill it. 30 minutes.**
-Whisk the eggs, milk, salt, and pepper together in a large bowl. Whisk in the flour and 2 Tbsp of the drippings. Cover and refrigerate. **The batter needs to go into the pan ice-cold** — that temperature difference is what makes it puff.
+**1. Make the batter and chill it — in the freezer. 30 minutes.**
+Whisk the eggs, milk, salt, and pepper together in a large bowl. Whisk in the flour and 2 Tbsp of the drippings. Cover and **chill the batter in the freezer for 30 minutes** — the source says freezer, not refrigerator. **The batter needs to go into the pan ice-cold** — that temperature difference is what makes it puff.
 
-**2. Set up the grill for indirect grilling.**
+**2. Set up the grill for indirect grilling and preheat to high.**
 No drip pan needed. *If you've just cooked a roast, the grill is already set up — for charcoal, just add 10 to 12 fresh coals per side.*
 
 **3. Heat the pan and the fat until smoking. About 3 minutes.**
-Add the remaining 2 Tbsp of drippings to a clean 13 × 5-inch roasting pan and set it in the center of the hot grate.
+Add the remaining 2 Tbsp of drippings to a clean 13 × 9-inch roasting pan and set it in the center of the hot grate.
 
-**4. Pour in the cold batter and cover. 25–30 minutes.**
-Pour the chilled batter into the smoking-hot pan and cover the grill lightly. Cook until puffed and nicely browned. **Don't peek** — opening the lid drops the temperature and the pudding falls.
+**4. Pour in the cold batter and cover the grill tightly. 20–30 minutes.**
+Pour the chilled batter into the smoking-hot pan and cover the grill tightly. Cook until puffed and nicely browned, 20 to 30 minutes. **Don't peek** — opening the lid drops the temperature and the pudding falls.
 
 **5. Cut into squares and serve at once.**
 

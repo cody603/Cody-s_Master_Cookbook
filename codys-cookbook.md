@@ -920,8 +920,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) | 🟢 | 10 min | — | — | 10 min |
 | [§14.28 Juice It and Make Granita](#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation) | 🟢 | 10 min | — | **~8 hr** *(freezer, stirred at least three times)* | 8 hr 10 min |
-| [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **30–45 min** *(smoker, unattended)* | 45–55 min |
-| [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets) *(Meathead)* | 🟢 | 10 min | — | **15–20 min** *(indirect zone/smoker, unattended)* | 1 hr 30 min *(+ 1 hr fridge dry-brine)* |
+| [§7.91 Smoked Halibut Salad](#791-smoked-halibut-salad) *(Meathead)* | 🟢 | 10 min | — | **to 140–145°F** *(smoker at 225°F — the page prints 20 min total, no smoke time)* | ~20 min active *(+ chilling the fish)* |
 | [§7.130 Beef Back Ribs](#7130-beef-back-ribs) *(The Meathead Method)* | 🟢 | 10 min | — | **5–6 hr** *(indirect smoker, unattended)* | ~8–9 hr *(includes a 3 hr dry brine)* |
 | [§4.119 East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 12 hr–1 wk fridge rest)* |
 | [§4.120 Lexington Dip (West Carolina BBQ Sauce)](#4120-lexington-dip-west-carolina-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min active *(+ 3 hr–overnight fridge rest)* |
@@ -1190,6 +1189,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.68 Sauce au Cari (Light Curry Sauce)](#468-sauce-au-cari-light-curry-sauce) | 🟡 | 10 min | 30 min | — | 40 min |
 | [§4.76 Sauce Robert (Brown Mustard Sauce)](#476-sauce-robert-brown-mustard-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
 | [§4.78 Sauce Brune au Cari (Brown Curry)](#478-sauce-brune-au-cari-brown-curry-sauce) | 🟢 | 10 min | 30 min | — | 40 min *(+ brown sauce)* |
+| [§7.92 Butter-Poached Fillets](#792-butter-poached-fillets) *(Meathead)* | 🟢 | 10 min | 30 min *(indirect at 225°F to 120°F internal, mostly unattended — the page prints "about 40 minutes" total)* | — | 1 hr 40 min *(includes the 1 hr fridge dry-brine)* |
 | [§4.14 Creole Sauce](#414-creole-sauce) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§4.94 Red Chimichurri](#494-red-chimichurri) | 🟡 | 20 min | 20 min | — | 40 min |
 | [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) | 🟡 | 20 min | 20 min | **3 hr** *(sous vide, unattended)* | ~5¾–6¾ hr *(includes an ice bath + 2–3 hr fridge rest before frying — not active work)* |
@@ -28556,7 +28556,11 @@ Divide the sauce among the plates and place the fish in the center, skin side fa
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. A make-ahead Sunday brunch dish built to use up leftover smoked fish — trout, mullet, or swordfish all work in place of the salmon.
 
+**Makes 1 (9-inch) pie (6 servings) · Takes 30 minutes to prepare if you have the smoked fish and piecrust ready, 40 to 50 minutes to bake** *(as printed)*
+
 **🟢 Easy** · **Prep ~30 min** *(includes a 20 min blind bake of the crust)* · **Cook ~45 min** *(oven bake, unattended)* · **Start to finish ~1 hr 30 min** *(includes a 15 min cooling rest before slicing)*
+
+> ✅ **Independently re-verified 2026-09-07** against book p. 330 (scan index 44, enlarged). Every ingredient, the 325°F oven, the 20-minute blind bake, the 40-to-50-minute bake, the 180–185°F internal target, and the 15-minute rest all match. Only the printed MAKES/TAKES line was missing — added.
 
 #### A. Ingredients
 
@@ -28618,7 +28622,13 @@ Let the quiche cool on a rack for at least 15 minutes, then slice and serve hot 
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. A smoked-fish riff on classic tuna salad, built around smoked halibut instead of canned tuna.
 
-**🟢 Easy** · **Prep ~10 min** · **Slow cook ~30–45 min** *(smoker, unattended)* · **Start to finish ~45–55 min**
+**Makes about 2 servings · Takes 20 minutes** *(as printed — the page gives no separate smoke time; the fish is smoked to temperature, then chilled before it's dressed)*
+
+**🟢 Easy** · **Prep ~10 min** · **Slow cook to temperature** *(smoker at 225°F, to 140–145°F internal — the page prints 20 minutes for the whole recipe and no smoke duration of its own)* · **Start to finish ~20 min active** *(plus chilling the smoked fish until cold — lead time the page doesn't quantify)*
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 330–331 (scan index 44, enlarged). Every ingredient quantity, the 225°F smoker, and the 140–145°F / 160°F internal targets match. The badge's "30–45 min smoke" was not printed anywhere on the page — the page's only figure is *Takes 20 minutes* — so the badge and index row now say what the page says. Substitutions from the headnote (salmon, trout, or another fish) added.
+
+> **Substitutions, per the source:** feel free to substitute salmon, trout, or another fish for the halibut — the smoked trout from [§7.88](#788-smoked-trout-florida-mullet-style) is the obvious one.
 
 #### A. Ingredients
 
@@ -28683,7 +28693,11 @@ In a bowl, whisk together the mayonnaise, lemon juice, celery, onion, pickle, an
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Seafood" chapter. Meathead's own improvised method from a cold autumn canoe trip in Ithaca, New York, built around a five-pound largemouth bass — works on any delicate white-fleshed fillet, bass or tilapia especially. Serve with crusty bread to mop up the garlicky brown butter.
 
-**🟢 Easy** · **Prep ~10 min** *(melting and flavoring the butter)* · **Slow cook ~15–20 min** *(indirect zone/smoker, butter-poached, unattended)* · **Start to finish ~1 hr 30 min** *(plus a 1 hr fridge dry-brine before cooking — lead time, not cooking)*
+**Makes 4 servings · Takes about 40 minutes** *(as printed — the 1-hour dry brine in Step 1 is on top of that)*
+
+**🟢 Easy** · **Prep ~10 min** *(melting and flavoring the butter)* · **Cook ~30 min** *(indirect zone at 225°F, to 120°F internal — mostly unattended; the page prints "about 40 minutes" for the whole recipe and no separate cook time)* · **Start to finish ~1 hr 40 min** *(includes the 1 hr fridge dry-brine — lead time, not cooking)*
+
+> ✅ **Independently re-verified 2026-09-07** against book pp. 331–332 (scan indexes 44–45, enlarged). Every ingredient quantity, the ⅛-inch fat depth, the 5-minute infusion, the 225°F target, and the 120°F doneness match, as does the Note. The badge's "15–20 min" cook was not printed — the page's only figure is *about 40 minutes* — so the badge, start-to-finish arithmetic, and index row now follow the page.
 
 #### A. Ingredients
 

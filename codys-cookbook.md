@@ -507,6 +507,8 @@ Click any recipe to jump straight to it.
 - [8.42 Creole Courtbouillon](#842-creole-courtbouillon) ✅ *(Talk About Good!; Mrs. Richard D. Chappuis, Sr. — whole redfish, wine and lemon; added 2026-09-07)*
 - [8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) ✅ *(Talk About Good!; Mrs. J. Mark Hebert — baked stuffed heads, tomato-paste roux base; cites the book's p. 59 roux, which is [§T1-D](#t1-how-to-make-a-roux); added 2026-09-07)*
 - [8.44 Courtbouillon](#844-courtbouillon) ✅ *(Talk About Good!; Mrs. F. H. Davis, Sr. — full brown roux, 4 lb cut fish, no wine; added 2026-09-07)*
+- [8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) ✅ *(Talk About Good!; Victor P. (Pat) Duhon, Jr. — no roux, a 3–4 hr simmer, fish plus shrimp and crab; added 2026-09-07)*
+- [8.46 Verna's Galimatias](#846-vernas-galimatias) ✅ *(Talk About Good!; Mrs. Warren Butcher — "a combination of bouillabaisse, gumbo and courtbouillon"; fish, shrimp, and two dozen crabs in a dark-roux tomato-and-wine stew; serves 8; added 2026-09-07)*
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -1262,6 +1264,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.25 Wild Goose Gumbo with Oysters](#825-wild-goose-gumbo-with-oysters) | 🟡 | 30 min | 15 min | **4 hr** *(covered simmer, unattended)* | 4 hr 45 min |
 | [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(Meathead)* | 🟡 | 45 min | — | **~2 hr** *(indirect grill, unattended)* | 2 hr 45 min *(+ 3 hr dry brine)* |
 | [§5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) *(Meathead)* | 🟢 | 20 min | 25 min | — | 45 min |
+| [§8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) | 🟢 | 20 min | 25 min | **3–4 hr** *(the printed simmer, unattended)* | 4 hr 30 min |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) | 🟢 | 20 min | 28 min | — | 50 min *(plus full cooling and up to 2 hr chill before filling — not active work)* |
 | [§8.32 Potato Soup](#832-potato-soup) | 🟢 | 20 min | 30 min | — | 50 min |
@@ -1386,6 +1389,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.44 Courtbouillon](#844-courtbouillon) | 🔴 | 20 min | 2 hr *(1 hr of it an unattended simmer)* | — | 2 hr 20 min |
 | [§8.26 Felecia's Goose Gumbo](#826-felecias-goose-gumbo) | 🟡 | 25 min | 2 hr | — | 2 hr 25 min |
 | [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) | 🟢 | 20 min | 2 hr 10 min *(mostly unattended reduction)* | — | 2 hr 30 min |
+| [§8.46 Verna's Galimatias](#846-vernas-galimatias) | 🔴 | 45 min | 1 hr 45 min | — | 2 hr 30 min |
 | [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) | 🟡 | 35 min | 2 hr | — | 2 hr 35 min |
 | [§7.82 Ragù alla Bolognese (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) | 🟡 | 30 min | 2 hr 45 min | **24 hr** *(sous vide, unattended)* | ~27 hr |
 | [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i) | 🔴 | 2 hr | 1 hr 15 min | **~2 hr** *(hen broth, unattended)* | 5 hr 15 min |
@@ -13239,7 +13243,7 @@ Roux keeps. Cool it, put it in an airtight jar, and hold it for several days eit
 
 #### D. A Slower Alternate Method — from *Talk About Good!*
 
-Two more roux methods, transcribed from a different source than Prudhomme's fast Cajun method above — a genuinely different technique, not a contradiction of it. From ***Talk About Good!***, the Junior League of Lafayette's community cookbook, credited on the page to **Mrs. Ronald Andrus** (the oil roux) and **Carmen B. Montegut of St. Martinville, La.** (the margarine roux).
+Two more roux methods, transcribed from a different source than Prudhomme's fast Cajun method above — a genuinely different technique, not a contradiction of it. From ***Talk About Good!***, the Junior League of Lafayette's community cookbook, credited on the page to **Mrs. Ronald Andrus** (the oil roux) and **Carmen B. Montegut of St. Martinville, La.** (the margarine roux). This is the book's **p. 59** — the "roux recipe on page 59" that [§8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) cites by name, and the roux the same tab's [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i), [§8.42 Creole Courtbouillon](#842-creole-courtbouillon), [§8.44 Courtbouillon](#844-courtbouillon), and [§8.46 Verna's Galimatias](#846-vernas-galimatias) all assume when they say "make a roux."
 
 > *"A heavy pot is a must to make a pretty roux. The heavier the pot, the easier your job will be. Before you start your roux, start heating water in a kettle, the amount depending on whether you are making a gumbo or a stew. You must always add hot water to a roux. It is very important not to change the temperature of the roux by adding cold water to it. It could curdle the roux, or separate the flour and water from the oil. ... We feel it to be important to use more oil than flour."*
 
@@ -37311,6 +37315,189 @@ The page's own warning: *be careful not to cook too much.* Fifteen minutes at a 
 **What a serving is:** a soup plate — about 1½ cups of fish and red gravy over rice (rice not counted). *The cup of oil in the roux is the fat driver; figured on 4 lb of boneless catfish-type pieces.*
 
 ✅ 2026-09-07 transcribed and verified against photo of p. 66
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.45 Seafood Courtbouillon
+
+Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, Fish, Seafood Sauces* tab, p. 67, credited to **Victor P. (Pat) Duhon, Jr.**
+
+**The no-roux courtbouillon, and the easy one.** Browned onions, bell pepper, and celery; tomato paste and two cans of Ro-Tel; a pint of water; and then a 3-to-4-hour simmer that does all the work before a whole fish, a pound of shrimp, and a pound of lump crabmeat go in together at the end. Four printed sentences. **Compare** the two roux-based courtbouillons on the previous page, [§8.42 Creole Courtbouillon](#842-creole-courtbouillon) and [§8.44 Courtbouillon](#844-courtbouillon) — this is the only one of the three with shellfish, and the only one rated 🟢.
+
+> **What a courtbouillon is here** *(cookbook gloss)*: see [§8.42](#842-creole-courtbouillon) — a thick Louisiana tomato-and-fish stew over rice. This one gets its body from a long reduction of tomato paste and Ro-Tel rather than from a roux.
+
+> ⚠️ **The page lists no fat for browning the vegetables** — it just says "brown onions, bell peppers, celery." A couple of tablespoons of oil or bacon drippings is assumed below and flagged in the Nutrition block. **Garlic and seasoning are "according to taste."**
+
+**Yield:** not stated on the page; a large fish plus 2 lb of shellfish in a pint of water and two cans of tomatoes runs about 8 bowls.
+
+**🟢 Easy** *(no roux; nothing here can go from perfect to ruined — the long simmer is the method)* · **Prep ~20 min** *(chopping the vegetables; cleaning the fish and shrimp)* · **Cook ~25 min** *(browning the vegetables, then the seafood at the end)* · **Slow cook 3–4 hr** *(the printed simmer, unattended — top up with water as needed)* · **Start to finish ~4 hr 30 min**
+
+#### A. Ingredients
+
+- 2 onions
+- 1 bell pepper
+- 2 stalks celery
+- Garlic, according to taste
+- Seasoning — salt, black pepper, and red pepper *(to taste)*
+- 1 can tomato paste
+- 2 cans Ro-Tel tomatoes *(diced tomatoes with green chiles)*
+- 1 pt water, plus more as needed
+- 1 large-size fish
+- 1 lb shrimp
+- 1 lb lump crabmeat
+- Oil or bacon drippings for browning *(not printed — assumed, about 2 Tbsp)*
+- Cooked rice, for serving *(cookbook gloss — the page doesn't say how it's served; every other courtbouillon in the book goes over rice)*
+
+#### B. Cooking Instructions
+
+**1. Brown the onions, bell pepper, and celery.**
+Chop them and brown in a little fat in a heavy pot — the page gives no fat, so use a couple of tablespoons of oil or bacon drippings. Take them past soft to actually browned; that color is most of the flavor in a recipe this short.
+
+**2. Add the tomato paste, the Ro-Tel tomatoes, and the water. Simmer 3 to 4 hours.**
+Add garlic to taste and season with salt, black pepper, and red pepper. Then a long, low simmer, uncovered or loosely covered — **add more water if more liquid is needed.** This is the whole method: the tomato paste and Ro-Tel cook down into a deep red gravy. Nothing to watch; stir occasionally and check the liquid.
+
+**3. Add all the seafood at once — the fish, the shrimp, and the crabmeat — and cook until done.**
+Whether the fish goes in whole or in pieces isn't stated; cut into serving pieces it cooks more evenly *(cookbook gloss)*. Everything goes in together. The shrimp are done when pink and curled and the fish flakes — 10 to 15 minutes; the lump crab is already cooked and only needs to heat through, so don't stir hard or it breaks up.
+
+**4. Serve over rice.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Onions — 2
+- 🛒 Bell pepper — 1
+- 🛒 Celery — 2 stalks
+- 🛒 Garlic — a few cloves, to taste
+- 🛒 Tomato paste — 1 can (6 oz)
+- 🛒 Ro-Tel diced tomatoes with green chiles — 2 cans (10 oz each)
+- 🛒 Salt, black pepper, and red (cayenne) pepper
+- 🛒 Oil or bacon drippings — about 2 Tbsp (assumed)
+- 🛒 Rice, for serving
+
+**🏪 Specific store — seafood market**
+
+- 🏪 Whole fish — 1 large
+- 🏪 Shrimp — 1 lb
+- 🏪 Lump crabmeat — 1 lb
+
+#### Nutrition *(estimated — the fish size, the browning fat, and the garlic are unprinted and assumed)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~2,250 | 50 g | 325 g | 115 g | 21 g |
+| **Per serving** *(serves ~8, estimated)* | ~280 | 6 g | 41 g | 15 g | 3 g |
+
+**What a serving is:** a soup bowl — about 1¼ cups of thick seafood stew over rice (rice not counted). *Figured on a 3-lb whole fish yielding about 1½ lb of meat, 1 lb of peeled shrimp, and 2 Tbsp of oil for the browning. Very lean by this book's standards — there's no roux and no butter, so the seafood carries nearly all of the calories.*
+
+#### Open Questions
+
+- **No fat is printed** for browning the vegetables; oil is assumed.
+- **Fish size, garlic, and seasoning** are all "to taste" or unstated; no yield is printed.
+
+✅ 2026-09-07 transcribed and verified against photo of p. 67
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.46 Verna's Galimatias
+
+Transcribed from a printed cookbook page — ***Talk About Good!***, *Seafoods, Fish, Seafood Sauces* tab, p. 67, credited to **Mrs. Warren Butcher.** The page's own subtitle: *pronounced "Gollymacha" — a French word for mixture*, and its own description: *a seafood mixture — a combination of bouillabaisse, gumbo and courtbouillon.* The only recipe on this spread with a printed yield: **serves 8.**
+
+**A dark-roux, tomato-and-wine seafood stew with three kinds of seafood cooked in stages.** Fish first, lifted out and kept warm; then two dozen cleaned crabs, 2 lb of shrimp, and a cup and a half of burgundy for 15 minutes; then the fish is served alongside, in gumbo bowls, with rice or crusty French bread. The tomato comes three ways — tomato sauce, V-8, and tomato juice — and there's a proper bouquet garni. It reads as the most "restaurant" recipe on these pages, and the most complete: quantities for everything, times for every stage, a yield, and printed substitutions.
+
+> **What the name and the three parents mean** *(cookbook gloss, not the author's words)*: *galimatias* is French for a jumble or muddle — the contributor is using it fondly for a stew that borrows from all three of its ancestors. From **bouillabaisse** (the Marseille fish stew): several seafoods cooked in stages in a tomato-and-wine broth with herbs, served with bread. From **gumbo**: the dark roux and the gumbo pot. From **courtbouillon** (Louisiana style — see [§8.42](#842-creole-courtbouillon)): the thick red fish gravy over rice. Serve it with rice and it's a courtbouillon; with French bread and it's a bouillabaisse.
+
+> **Printed substitutions:** oysters in season, clams, or other shellfish may stand in for the crabs and shrimp; and fish stock, bouillon, or clam juice may replace the burgundy *(the asterisk on the wine in the ingredient list points to this note).*
+
+**Yield:** serves 8, as printed.
+
+**🔴 Hard** *(a dark brown roux, ¾ cup of fat to ¾ cup of flour, made by you)* · **Prep ~45 min** *(scalding and cleaning two dozen crabs is most of it; plus cutting 3 lb of fish into 3-inch pieces, chopping, and tying the bouquet garni)* · **Cook ~1 hr 45 min** *(the roux; the tomato-and-onion simmer until the oil separates; the printed 30 minutes covered; the fish; then the printed 15 minutes for the shellfish and wine)* · **Start to finish ~2 hr 30 min**
+
+**Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux)
+
+#### A. Ingredients
+
+- ¾ cup oil or bacon drippings
+- ¾ cup flour
+- 2 large onions, chopped
+- 1 (8 oz) can tomato sauce
+- 3 ribs celery, chopped (tops, too)
+- ½ small bell pepper, chopped
+- 2 cloves garlic, mashed
+- 1 (12 oz) can V-8 vegetable juice
+- 1 pt water
+- 1 cup tomato juice
+- 1½ cups burgundy wine *(or fish stock, bouillon, or clam juice — printed substitution)*
+- Salt and black pepper to taste
+- 1 tsp sugar
+- 3 lb fish — any firm fish, such as red(fish), cat(fish), sheepshead, or goo *(freshwater drum)* — cut in 3-inch pieces
+- 2 lb raw, deveined shrimp
+- 2 dozen raw crabs and claws — scald the crabs and clean, removing the outer shell, feelers, and other matter; break the bodies in half; remove the meat from the claws
+- 2 Tbsp finely chopped parsley
+- Bouquet garni: 2 sprigs thyme, 1 bay leaf, a pinch of basil, a pinch of rosemary, tied in cheesecloth
+- 3 drops liquid hot seasoning *(hot sauce), optional — appears in the instructions only*
+- Cooked rice or crusty French bread, for serving
+
+#### B. Cooking Instructions
+
+**1. Heat the oil in a heavy pot and stir in the flour to make a dark brown roux.**
+See [§T1](#t1-how-to-make-a-roux). Heavy pot, constant stirring, and patience — dark brown is the target, and it's the one step in this recipe that can be ruined in a minute of inattention. Hot water at hand, never cold.
+
+**2. Add the tomato sauce and chopped onion. Simmer, stirring frequently, until the oil separates from the mixture.**
+That separation — a sheen of oil pooling at the edges — is the page's doneness cue for this stage. It takes a while; stir often, because a tomato-and-roux paste sticks and scorches on the bottom.
+
+**3. Transfer to a large gumbo pot. Add the celery, bell pepper, garlic, V-8, water, tomato juice, sugar, and the bouquet garni. Cook, covered, 30 minutes.**
+The contributor uses an oblong roaster for this. Everything liquid goes in now except the wine; season with salt and black pepper to taste.
+
+**4. Add the fish and cook until tender. Lift it out into a covered container to keep warm.**
+Three-inch pieces of firm fish take about 10 minutes at a simmer *(cookbook estimate)*. Taking the fish out before the shellfish stage is what keeps it in pieces instead of dissolving into the stew.
+
+**5. Discard the bouquet garni. Add the crabs, shrimp, and wine. Cook 15 minutes longer.**
+
+**6. Add the parsley and, if desired, 3 drops of hot sauce. Serve with the fish, in soup or gumbo bowls, with rice or crusty French bread.**
+Spoon the shellfish stew into bowls and add the reserved fish alongside.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cooking oil or bacon drippings — ¾ cup
+- 🛒 All-purpose flour — ¾ cup
+- 🛒 Onions — 2 large
+- 🛒 Tomato sauce — 1 can (8 oz)
+- 🛒 Celery — 3 ribs, with tops
+- 🛒 Bell pepper — ½ small
+- 🛒 Garlic — 2 cloves
+- 🛒 V-8 vegetable juice — 1 can (12 oz)
+- 🛒 Tomato juice — 1 cup
+- 🛒 Burgundy (dry red) wine — 1½ cups
+- 🛒 Sugar — 1 tsp
+- 🛒 Fresh parsley — 2 Tbsp chopped
+- 🛒 Fresh thyme — 2 sprigs; bay leaf — 1; dried basil and rosemary — a pinch each; cheesecloth
+- 🛒 Hot sauce — a few drops (optional)
+- 🛒 Salt and black pepper
+- 🛒 Rice or a crusty French loaf, for serving
+
+**🏪 Specific store — seafood market**
+
+- 🏪 Firm fish — 3 lb (redfish, catfish, sheepshead, or freshwater drum)
+- 🏪 Raw shrimp, deveined — 2 lb
+- 🏪 Raw crabs — 2 dozen, with claws
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole pot** | ~5,200 | 215 g | 615 g | 180 g | 20 g |
+| **Per serving** *(serves 8, as printed)* | ~650 | 27 g | 77 g | 23 g | 3 g |
+
+**What a serving is:** a full gumbo bowl — about 2 cups of shellfish stew with a portion of the fish alongside; rice or bread not counted. *Figured on 3 lb of boneless fish pieces, 2 lb of peeled shrimp, and about 1½ lb of meat from two dozen blue crabs — a very high-protein bowl. The wine is counted at roughly three-quarters of its calories after the 15-minute cook.*
+
+✅ 2026-09-07 transcribed and verified against photo of p. 67
 
 [↑ Table of Contents](#table-of-contents)
 

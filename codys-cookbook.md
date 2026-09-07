@@ -8237,6 +8237,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 168 (second-pass QC).** All nine ingredients and quantities, the pulse-to-a-coarse-powder method, and the printed TAKES 10 minutes match; no salt is printed. **One yield corrected:** the page prints **MAKES about ¼ cup**; the Nutrition block had said about ⅓ cup. (Nine tablespoons of loose herbs measure more than that before they're pulsed down — the printed figure is what stands.) The headnote's uses are worth having too: pork, turkey, and chicken, plus sautéed veggies, scrambled eggs, grilled potatoes, the outside of baked potatoes, and grilled asparagus.
+
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
 #### A. Ingredients
@@ -8274,10 +8276,10 @@ Add all the ingredients and pulse a few seconds at a time until you have a coars
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about ⅓ cup)* | ~90 | 2 g | 3 g | 18 g | 7 g |
-| **Per serving** *(1 tsp, per pound of meat)* | ~5 | 0.1 g | 0.2 g | 1 g | 0.4 g |
+| **Whole batch** *(about ¼ cup once pulsed, as printed)* | ~90 | 2 g | 3 g | 18 g | 7 g |
+| **Per serving** *(1 tsp, per pound of meat)* | ~7 | 0.2 g | 0.3 g | 1.5 g | 0.6 g |
 
-**What a serving is:** about 1 tsp per pound of chicken, pork, or vegetables before cooking.
+**What a serving is:** about 1 tsp per pound of chicken, pork, or vegetables before cooking — roughly a twelfth of the batch.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -8295,6 +8297,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 > **⚠️ Fresh garlic note, per [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s standing food-safety rule:** this rub is fine as a *surface* rub applied at cooking time — fresh garlic is only a botulism concern sealed in an **airless bag** for a long soak, like a sous vide dry rub. This is a rub, not a sous vide bag seasoning, so the fresh garlic stays as printed.
 
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 169 (second-pass QC) — correct as written.** All six ingredients and quantities, the mix-in-a-bowl method, the refrigerate-up-to-1-week rule for the fresh garlic, and the printed MAKES about ⅓ cup, enough for a 6-pound leg of lamb or lamb shoulder / TAKES about 10 minutes match; no salt is printed. One printed option restored: the headnote says forget the mint jelly, but **if you want to chop up a bit of *fresh* mint and toss it in the rub, go for it.**
+
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
 #### A. Ingredients
@@ -8305,6 +8309,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - 1 Tbsp paprika
 - 1 tsp ground bay leaves
 - 10 garlic cloves, minced or pressed
+- *Optional, per the headnote:* a bit of chopped **fresh** mint, tossed in *(no quantity printed — not mint jelly)*
 
 #### B. Cooking Instructions
 

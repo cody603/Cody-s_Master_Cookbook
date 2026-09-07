@@ -201,6 +201,8 @@ Click any recipe to jump straight to it.
   - [4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) ✅ *(The Meathead Method; completed 2026-09-06 — two recipes in one, the component [§7.132](#7132-kōji-filet-mignon) needs; distinct from [§4.79](#479-sauce-duxelles-brown-mushroom-sauce))*
   - [4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce) ✅ *(Meathead: The Science of Great Barbecue and Grilling; recovered 2026-09-06 — closes the standing gap at [§7.98](#798-happy-mouth-yakitori-ribs))*
   - [4.182 Basic Pepper Paste](#4182-basic-pepper-paste) ✅ *(Salt, Fat, Acid, Heat; recovered 2026-09-06 — carries the source's "Pepper Sauce" section intro, and closes the standing gap at [§4.163 Rouille](#4163-rouille-pepper-mayonnaise))*
+  - [4.183 Ketjap Butter](#4183-ketjap-butter) ✅ *(Raichlen, The Barbecue! Bible p. 509, Indonesia — a two-ingredient sweet-soy butter baste for grilled fish; added 2026-09-07)*
+  - [4.184 Mexican Fish Baste](#4184-mexican-fish-baste) ✅ *(Raichlen, The Barbecue! Bible p. 509, Mexico — sour orange or lime, salt, garlic; no cooking; added 2026-09-07)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -631,6 +633,7 @@ Click any recipe to jump straight to it.
 
 | Date | Change |
 |---|---|
+| 2026-09-07 | **Eight photographed-but-never-transcribed recipes added, each read at native resolution from the page photos.** Six close out the *Talk About Good!* Seafoods tab (pp. 65–67) that the same-day re-verification pass had deliberately left alone: **[§8.41 Crawfish Bisque I](#841-crawfish-bisque-i)** (Mrs. F. H. Davis, Sr. — a 30-lb, hen-broth party bisque with fried stuffed heads; 🔴), **[§8.42 Creole Courtbouillon](#842-creole-courtbouillon)** (Mrs. Richard D. Chappuis, Sr. — whole redfish, a very light roux, wine and lemon; 🔴), **[§8.43 Crawfish Bisque II](#843-crawfish-bisque-ii)** (Mrs. J. Mark Hebert — baked stuffed heads, tomato paste, and a "see page 59" roux that is already [§T1-D](#t1-how-to-make-a-roux), now cross-linked from §T1 rather than reprinted; 🔴), **[§8.44 Courtbouillon](#844-courtbouillon)** (Mrs. F. H. Davis, Sr. — full brown roux, 4 lb cut fish; 🔴), **[§8.45 Seafood Courtbouillon](#845-seafood-courtbouillon)** (Victor P. (Pat) Duhon, Jr. — no roux, a 3–4 hr simmer that goes in the Slow cook column, shrimp and lump crab; 🟢), and **[§8.46 Verna's Galimatias](#846-vernas-galimatias)** (Mrs. Warren Butcher — "a combination of bouillabaisse, gumbo and courtbouillon," the only one of the six with a printed yield, serves 8; 🔴). Every roux the cook makes is rated 🔴 per the house rule; the terms *bisque*, *stuffed heads*, *courtbouillon*, and *galimatias* are explained inline as cookbook gloss, marked as such. The pages print almost no times and no yields, so the badges and serving counts are estimates and say so; §8.41's "20 lbs. boiled crayfish tails" is transcribed as printed and flagged as ambiguous. Two Raichlen bastes from *The Barbecue! Bible* p. 509 join §4 beside [§4.96](#496-vinegar-based-mop-sauce), which shares the page: **[§4.183 Ketjap Butter](#4183-ketjap-butter)** (Indonesia — butter and ketjap manis, an ☯️ Hong Kong Market item, with the source's soy-and-molasses substitute; 🟢) and **[§4.184 Mexican Fish Baste](#4184-mexican-fish-baste)** (Mexico — sour orange or lime juice, salt, garlic; 🟢, cross-linked to [§T14](#t14-how-to-grill-pork-tenderloin-cuban-mojo) for the sour-orange stand-in). **Not added: Honey-Guava Barbecue Sauce** (Raichlen, p. 466) — its ingredient list is fully in frame, but its method (steps 1–2 and the Note) runs onto p. 467, of which only the first two or three words of each line are in the photo; per Cody's rule it is reported as incomplete for a reshoot rather than added as a placeholder. TOC and Difficulty & Time Index updated for all eight. |
 | 2026-09-07 | **Second-pass QC of the fifteen entries transcribed from standalone photos, against those photos at full resolution** — [§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp), [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp), [§T56](#t56-shrimp-sizing-deveining-and-brining), [§T57](#t57-lobster-choosing-preparing-and-storing) (*Meathead*, pp. 341–345); [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup), [§8.38 Stracciatella](#838-brothy-stracciatella-roman-egg-drop-soup), [§8.39 Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup), [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake), [§5.49 Persian-ish Rice](#549-persian-ish-rice), [§7.123 Kufte Kebabs](#7123-kufte-kebabs), [§14.22 Granola](#1422-nekisias-olive-oil-and-sea-salt-granola), [§14.23 Fresh Ginger and Molasses Cake](#1423-fresh-ginger-and-molasses-cake) (*Salt, Fat, Acid, Heat*); [§7.124 Poulet de France](#7124-poulet-de-france) and [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) (family cards). **§7.116 and §7.117 are now genuinely verified against p. 344 for the first time** — the earlier "verified" claim came from a scan that did not include that page. Every quantity, time, temperature, yield and step matched print in all fifteen; the changes that touch the food are small: §8.37's vegetables cook to **golden brown** (not "lightly golden"), its chicken is no longer told to go in skin-side down (unprinted), and its Pho Gà topping is **fresh basil** as printed rather than Thai basil; §8.39 restores the page's "crank the heat up to high" after the stock goes in. Elsewhere, unprinted explanations (why sift, why rinse rice, carryover heat, blender safety, the Caesar torn-crouton method, tomalley/roe, and similar) are now labeled as cookbook gloss so nothing reads as the source's words that isn't. §T57's storage paragraph is flagged as resting on book p. 346, which is not among the photographed pages. Each entry carries its own ✅ 2026-09-07 note. |
 | 2026-09-07 | **Independent second-pass QC of the eighteen *The Meathead Method* technique and reference entries — [§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) through [§T107](#t107-grilling-and-smoking-cheese-a-meathead-method-technique) — against the 55-page PDF at native resolution** (book pp. 144–154, 158–163, 196, 208–212, 244–245, 262–266, 270, 279–281, 317–318). **Fabricated figures struck:** [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s SHU chart had five wrong rows — jalapeño 2,500–8,000 (had 2,000–5,000), Tabasco Chipotle 1,500–2,500 (had 2,500–8,000), Sriracha 2,200 (had 1,500–2,500), pasilla/American chili powder swapped between rows, and a nonexistent "cayenne / original Tabasco 30,000–50,000" row (page: Tabasco and Cholula at 2,500–5,000); [§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) fries are ⅓ in wide, not ½; [§T106](#t106-salts-stocks--broths-sugars-vinegars-winebeerspirits-and-zest--pantry-reference-the-meathead-method) distilled vinegar is 6–8%, not 5–8%; [§T102](#t102-basic-ingredient-notes--eggs-flour-fruits--vegetables-mayonnaise-milk-room-temperature-and-a-cooking-diary-the-meathead-method) room temperature is 70–72°F; [§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method) packaging gas is carbon monoxide, not dioxide, and its grade ladder and grass-finished flavor notes were rewritten to the page; [§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method) dry-aged flavor is earthy/nutty/gamey/leathery/mushroomy (not "buttery, blue-cheesy") and blade-tenderized beef is for stews only. **Reversed advice fixed:** [§T91](#t91-how-to-use-rubs--application-order-storage-and-plastic-wrap-the-meathead-method) — plastic wrap does *not* keep aromas out (had "blocks aromas that bake into bark"); [§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method) — the simplest flour dredge works surprisingly well (had "doesn't cling, won't hold up"), and baking powder goes *into* the fried-chicken dredge (had "on the skin, not in the flour," contradicting [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe)); [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method) — 85% of a chile's heat is in the ribs, not the seeds; [§T106](#t106-salts-stocks--broths-sugars-vinegars-winebeerspirits-and-zest--pantry-reference-the-meathead-method) — zest dries overnight and keeps (had "use promptly, fades fast"), and the page rejects the stock/broth distinction outright; [§T104](#t104-herbs-and-spices--buying-storing-blooming-and-peppercorn-colors-the-meathead-method) — the 09-06 re-audit box claimed no substitution ratio was printed, but p. 151 prints half to one-third (dried for fresh), p. 152 half (ground for seeds), p. 153 +25% (granulated garlic for powder). **Printed content restored:** the book's eight reasons for salt-free rubs and the molecule-size explanation ([§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)); salt-before-oil and salted-rub-as-dry-brine ([§T91](#t91-how-to-use-rubs--application-order-storage-and-plastic-wrap-the-meathead-method)); fat percentages by grade, Top Choice, A1–A5, Wangus ([§T92](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method)); 34–38°F / 70–80% / 30–75 days dry-aging and home options ([§T93](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method)); the diagram labels and country-rib note ([§T94](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method)); the wing-removal step and the page's one-cut ten-piece breast ([§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method)); the dredge options, batter behavior, and frying-oil rules ([§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method)); russet Burbanks and the fridge soak ([§T98](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method)); oil-blooming with its 300°F / 2-min / 10-sec limits, the one-year rule, the whole-seed list, and the peppercorn colors as printed ([§T104](#t104-herbs-and-spices--buying-storing-blooming-and-peppercorn-colors-the-meathead-method)); four paprika terms and the dairy-not-water remedy ([§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)); table-salt halving, soy/tamari, wine and rice vinegar detail, three balsamic tiers with prices, zest yields and the soap wash ([§T106](#t106-salts-stocks--broths-sugars-vinegars-winebeerspirits-and-zest--pantry-reference-the-meathead-method)); foil-or-wrap over the smoking-gun pan ([§T107](#t107-grilling-and-smoking-cheese-a-meathead-method-technique)). **Verified with no factual change:** [§T97](#t97-myth--truss-poultry-legs-the-meathead-method), [§T100](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method), [§T101](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method), [§T103](#t103-pepper-grinds-make-a-difference-the-meathead-method) (page corrected to 154), [§T107](#t107-grilling-and-smoking-cheese-a-meathead-method-technique) (kept scoped as a Meathead technique per Cody). Unprinted cookbook reasoning is now labeled as gloss wherever it was kept. **Not verifiable:** [§T99](#t99-the-warp-heat-scale-the-meathead-method)'s Warp-scale definition — its page is not in any upload (front matter present only from p. 144); [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s p. 184 chipotle sidebar is cut off at the right edge in both the PDF and the standalone photo; [§T91](#t91-how-to-use-rubs--application-order-storage-and-plastic-wrap-the-meathead-method)'s p. 164 continuation is absent. No salt guidance added beyond what the pages print; no badge, index row, or recipe quantity changed. Each entry carries a dated ✅ QC line. |
 | 2026-09-07 | **Independent second-pass QC of the fifteen *The Meathead Method* main dishes — [§7.130 Beef Back Ribs](#7130-beef-back-ribs) through [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) — against the 55-page PDF at native resolution.** Five entries verified exact ([§7.139](#7139-extra-crispy-chicken-wings-without-frying), [§7.142](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), [§7.143](#7143-scallops-with-black-garlic-butter-sauce), [§7.144](#7144-mussels-with-smoked-fettuccine), and [§7.131](#7131-smoked-sous-vide-steak)'s ingredients). **Measurement errors fixed:** [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) was missing 3 chipotles in adobo and ½ tsp cumin, had salt "to taste" (page: 1 tsp), ¼ tsp pepper (page: ½), all the lime juice (page: 3 Tbsp), and ⅓ cup reserved sauce (page: ¼); [§7.138 Real Fried Chicken](#7138-real-fried-chicken-on-a-gas-grill-its-safe) had 1 Tbsp salt in the vinegar-brine substitute (page: 3 Tbsp), a 2½–4 lb bird (page: 3½–4), and 2½ inches of oil (page: 1½); [§7.137 Pork Butt](#7137-tuffy-stones-championship-pork-butt) had 2 cups sauce (page: 3); [§7.141 Championship Chicken](#7141-championship-chicken) had ⅓ cup apple juice (page: ½); [§7.132 Kōji Filet](#7132-kōji-filet-mignon) carried an unprinted "salt to finish" (page: don't salt). **Method errors fixed:** [§7.135 Brisket](#7135-championship-brisket-and-burnt-ends) rewritten — the page starts at ~400°F for 30 min then 275°F (not 225°F throughout), wraps point and flat separately with ¾ and ½ cup mop, pulls the flat at 203–206°F and the point at 210°F, and sets burnt ends 10 min; [§7.136 Ribs](#7136-championship-pork-ribs) rewritten to the page's foil-packet build, 15-min bark-firming step, doneness tests, and turn-in steps; [§7.137](#7137-tuffy-stones-championship-pork-butt) pull temp is 195°F (not 200–205), sauce sets 10 min (not 20–30), and the money muscle is exposed, not capped; [§7.130](#7130-beef-back-ribs) dry brine 2 hr (not 3), target 190–203°F (not 210), Cadillac cut corrected; [§7.133](#7133-clints-chuck-roast-sandwiches) restored the wrap-at-150°F step and 180–190°F pull; [§7.140 Tandoori](#7140-tandoori-chicken) restored skin removal/cracklins and ¾-inch gashes, cooker temps per setup corrected; [§7.138](#7138-real-fried-chicken-on-a-gas-grill-its-safe) restored the second dunk and post-fry salt. **Invented content struck:** fajitas' "International Falls" origin story, "score slits," side-burner vegetables, and "tenth rib/Denver steak" claims; brisket credits (now Clint Cantwell and Travis Clark); beef back ribs' "loose and ragged" cue. **MAKES/TAKES lines added to all fifteen.** Not verifiable: fajitas Steps 6–8 (book p. 230 not in the uploads). The Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile (p. 200) sauce pages [§7.139](#7139-extra-crispy-chicken-wings-without-frying) references are not in the PDF. Index rows and TOC updated. |
@@ -921,6 +924,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.162 Herb Mayonnaise](#4162-herb-mayonnaise) | 🟢 | 5 min | — | — | 5 min |
 | [§4.95 "Dry" Chimichurri](#495-dry-chimichurri) | 🟢 | 5 min | — | — | 5 min |
 | [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) *(The Meathead Method)* | 🟢 | 5 min | — | **~6 hr** *(indirect smoker, unattended)* | ~9 hr *(includes a 2 hr dry brine + 1 hr hold)* |
+| [§4.183 Ketjap Butter](#4183-ketjap-butter) | 🟢 | 2 min | 3 min | — | 5 min |
+| [§4.184 Mexican Fish Baste](#4184-mexican-fish-baste) | 🟢 | 5 min | — | — | 5 min |
 | [§T25 French Omelette](#t25-the-french-omelette-two-methods) | 🟡 | 5 min | <1 min | — | 5 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
 | [§14.31 Torched Figs](#1431-torched-figs) *(The Meathead Method)* | 🟡 | 5 min | 3 min | — | 10 min |
@@ -13050,6 +13055,110 @@ Cover the paste with oil, wrap tightly, and **refrigerate for up to 10 days.** A
 
 - **Salt has no printed quantity.** The source lists "Salt" as an ingredient and says only *"taste and adjust seasoning as needed"* — transcribed exactly as printed rather than assigned a number here, per [CLAUDE.md §3b](CLAUDE.md). Worth writing down what you actually used once a batch is made.
 - **The printed yield and the ingredient volumes don't quite reconcile.** The page prints **MAKES about 1 cup**, but ¾ cup of olive oil alone accounts for most of that before any pepper purée goes in; 3 ounces of rehydrated chile flesh realistically pushes the finished batch closer to 1¼–1½ cups. Transcribed as printed rather than corrected — the Nutrition block above divides by 16 tablespoons, matching the printed yield, so treat the per-tablespoon figures as the conservative read.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.183 Ketjap Butter
+
+Transcribed from the same **Steven Raichlen** book as [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) — *The Barbecue! Bible*, p. 509, its *Rub It In* chapter — tagged **Indonesia**. It shares the page with §4.96 and with [§4.184 Mexican Fish Baste](#4184-mexican-fish-baste). Two ingredients, one saucepan, two minutes.
+
+> **Per the source:** *ketjap manis* — spiced, sweet soy sauce — is Indonesia's national table sauce, an essential ingredient in marinades and the traditional accompaniment to Indonesian satés. Cooks at the famous Sunda Kelapa fish house in Jakarta use this ketjap butter as a **baste for grilled fish and seafood.**
+
+> **If you can't get ketjap manis** *(the source's own substitute)*: combine **equal parts soy sauce and molasses** and add **½ teaspoon of ground coriander.** The source also gives a homemade ketjap manis on its p. 474 — not transcribed here. *(Cookbook gloss: the same sauce is sold under the Indonesian spelling* kecap manis *— ABC brand is the common one — thick, black, and syrupy, more like molasses than like soy sauce. A Chinese market carries it; most general groceries don't.)*
+
+**Yield:** makes about ½ cup
+
+**🟢 Easy** *(a stirred butter sauce — nothing to ruin)* · **Prep ~2 min** · **Cook ~3 min** *(melt, then about 2 minutes of brisk simmering)* · **Start to finish ~5 min**
+
+**Used with:** grilled fish and seafood, as a baste — [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad), [§7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp), or any plain grilled fillet
+
+#### A. Ingredients
+
+- 4 Tbsp (½ stick) unsalted butter
+- ¼ cup ketjap manis, store-bought or homemade *(source p. 474)*
+
+#### B. Cooking Instructions
+
+**1. Melt the butter in a small saucepan over medium heat.**
+
+**2. Stir in the ketjap manis and simmer briskly to blend, about 2 minutes.**
+It will foam and then come together into a glossy, dark, sweet-salty butter. Two minutes is enough; the sugar in the ketjap manis will scorch if it sits over the heat much longer *(cookbook gloss)*.
+
+> **Keeps at least 3 days**, covered, in the refrigerator. **Reheat over low heat before using** — it sets solid when cold.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong Market / Chinese market**
+
+- ☯️ Ketjap manis / kecap manis (Indonesian sweet soy sauce) — ¼ cup (one bottle)
+
+**🛒 General grocery**
+
+- 🛒 Unsalted butter — ½ stick
+- 🛒 *If substituting:* soy sauce and molasses (2 Tbsp each) and ground coriander (½ tsp)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup)* | ~640 | 46 g | 3 g | 56 g | 0 g |
+| **Per serving** *(1 Tbsp, of 8)* | ~80 | 6 g | <1 g | 7 g | 0 g |
+
+**What a serving is:** a tablespoon, brushed over one portion of fish. *It's a baste, so a good share drips into the fire; the figures above are for the sauce as made. Nearly all the carbs are the sugar in the ketjap manis.*
+
+✅ 2026-09-07 transcribed and verified against photo of p. 509
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.184 Mexican Fish Baste
+
+Transcribed from the same **Steven Raichlen** book as [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) — *The Barbecue! Bible*, p. 509, its *Rub It In* chapter — tagged **Mexico**. It shares the page with §4.96 and [§4.183 Ketjap Butter](#4183-ketjap-butter). Three ingredients, no cooking.
+
+> **Per the source:** tart and salty, this is a baste used by cooks in the Yucatán to heighten the flavor of almost any grilled seafood. Hotheads could add a sliced habañero pepper or two. Sour orange juice is what's used in the Yucatán; if it's unavailable, use lime juice. *(The source points to its own boxed note on sour orange, p. 186 — not transcribed. This cookbook's [§T14 Cuban Mojo](#t14-how-to-grill-pork-tenderloin-cuban-mojo) covers the same fruit —* naranja agria *— and the same lime-and-orange stand-in.)*
+
+**Yield:** makes about ½ cup
+
+**🟢 Easy** *(stir until the salt dissolves)* · **Prep ~5 min** *(juicing, mincing)* · **Cook none** · **Start to finish ~5 min**
+
+**Used with:** any grilled fish or shrimp, brushed on while it cooks — the same job as [§4.183 Ketjap Butter](#4183-ketjap-butter), pulling in the opposite direction (sour and salty rather than sweet)
+
+#### A. Ingredients
+
+- ½ cup fresh sour orange juice, or lime juice
+- 2 tsp salt
+- 2 cloves garlic, minced
+- *Optional, per the source:* 1–2 habañero peppers, sliced
+
+#### B. Cooking Instructions
+
+**1. Combine the sour orange juice, salt, and garlic in a bowl. Stir until the salt dissolves.**
+That's the whole recipe. Two teaspoons of salt in half a cup of juice is a lot — deliberately, since this is a baste that goes on in thin coats over the fire, not a sauce to eat off a spoon *(cookbook gloss; see [§4.96](#496-vinegar-based-mop-sauce)'s note on what a mop or baste is for)*.
+
+> **Keeps at least 3 days**, covered, in the refrigerator.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Sour oranges — enough for ½ cup juice (2–3), or limes — about 4
+- 🛒 Salt — 2 tsp
+- 🛒 Garlic — 2 cloves
+- 🛒 Habañero peppers — 1–2 (optional)
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about ½ cup)* | ~50 | 0 g | 1 g | 13 g | 1 g |
+| **Per serving** *(1 Tbsp, of 8)* | ~6 | 0 g | 0 g | 2 g | 0 g |
+
+**What a serving is:** a tablespoon, brushed over one portion of fish — and most of it doesn't stay on. *Effectively calorie-free; the thing to know is the salt: roughly 580 mg of sodium per tablespoon as mixed, though far less lands on the plate.*
+
+✅ 2026-09-07 transcribed and verified against photo of p. 509
 
 [↑ Table of Contents](#table-of-contents)
 

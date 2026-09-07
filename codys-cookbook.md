@@ -107,7 +107,7 @@ Click any recipe to jump straight to it.
   - [4.86 Beurre Noir / Beurre Noisette (Brown Butter Sauce)](#486-beurre-noir--beurre-noisette-brown-butter-sauce) ✅
   - [4.87 Cavender's All Purpose Greek Seasoning (Store-Bought)](#487-cavenders-all-purpose-greek-seasoning-store-bought) ✅ 👍 — *reference*
   - [4.88 Vegeta (Store-Bought Croatian All-Purpose Seasoning)](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ✅ ❤️ — *reference*
-  - [4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)](#489-codys-greek-vinaigrette-lime--olive-oil) ✅ ❤️ ⚠️ *(one ingredient still unnamed)*
+  - [4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)](#489-codys-greek-vinaigrette-lime--olive-oil) ✅ ❤️
   - [4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) ✅
   - [4.91 Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style) ✅ *(distinct from [§4.36](#436-north-carolina-vinegar-sauce) — see the comparison table)*
   - [4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) ✅ *(distinct from [§4.35](#435-mustard-barbecue-sauce))*
@@ -967,7 +967,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.107 Skinny Steaks](#7107-skinny-steaks) *(Meathead)* | 🟡 | 5 min | 5 min | — | 10 min *(+ 1–2 hr dry brine)* |
 | [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
-| [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 10 min *(+ refrigerate, time not given)* |
+| [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 40 min–1 hr 10 min *(30–60 min chill)* |
 | [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
 | [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.3 Pesto](#43-pesto-basil-parmesan-and-pine-nut-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -1252,7 +1252,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min *(simmer, strain, reduce)* | — | 45 min |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
-| [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **weeks** *(cures in the jar)* | weeks |
+| [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **3–6 wk** *(counter ferment at 70–75°F, then refrigerated)* | 3–6 wk |
 | [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(smoker; ~400°F start, then 275°F; mostly unattended)* | ~10–15 hr *(includes a 1–2 hr hold in a faux Cambro)* |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -2152,65 +2152,76 @@ The onions are ready to eat as soon as they're pickled. The remainder keeps refr
 
 ### 4.6 No-Heat Sour Kraut
 
-Transcribed from a handwritten recipe card titled *"No heat sour Kraut."* A raw-pack, brine-cured sauerkraut — no cooking, no boiling water bath for the cabbage itself, just shredded cabbage packed into jars under a salt-and-vinegar brine and sealed.
+Transcribed from a handwritten recipe card titled *"No heat sour Kraut."* A raw-pack, brine-cured sauerkraut — no cooking, no boiling water bath for the cabbage itself, just shredded cabbage packed into jars under a salt-and-vinegar brine, left to ferment, then kept cold.
 
-**Yield:** roughly 1 gallon of brine, enough for about 4–5 quart jars
+**Yield:** the card's brine makes **1 gallon, which covers about 10–12 tightly packed quarts** — far more than the 4–5 an earlier edit guessed. A normal batch (one 5-lb head and a half, 3–4 quarts) uses about half the brine. *See the yield note below for the arithmetic.*
 
-**🟢 Easy** · **Prep ~45 min** · **Cook none** · **Slow cook weeks** *(cures in the jar, in the refrigerator)* · **Start to finish weeks** *(cure time isn't on the card — taste it after a couple of weeks)*
+**🟢 Easy** · **Prep ~45 min** · **Cook none** · **Slow cook 3–6 wk** *(ferments on the counter at 70–75°F, 3–4 wk; cooler rooms run 5–6 wk)* · **Start to finish 3–6 wk** *(then refrigerated)*
 
 **❤️ Family favorite** — *Cody: "Love it."*
 
-> ⚠️ **Read the Open Questions before making this.** The card is a family shorthand, not a tested canning procedure — it doesn't state a cure time, a storage temperature, or whether the jars get processed. Raw-pack fermenting and preserving have real safety margins. ✅ 2026-09-07 per Cody (deferring to cookbook judgment): **this is refrigerator kraut.** Once the brine is on and the lids are on, the jars go in the refrigerator — not on a shelf. No water-bath or pressure canning is described here; the card doesn't give one and this cookbook doesn't invent one.
+> ⚠️ **This is a counter ferment finished in the refrigerator — not a canning recipe.** The card is family shorthand: it gives the brine but no time, temperature, or done-cue. ✅ 2026-09-07 per Cody ("use your judgment") — **cookbook judgment:** the parameters below are the university-extension sauerkraut standard (NCHFP, Penn State, Colorado State, University of Alaska Fairbanks), applied to the card's own brine. Two things the card's wording must *not* be read to mean: **(1) don't seal the jars airtight while they ferment** — CO₂ builds pressure; use a loose lid, an airlock lid, or a cloth and band; **(2) the vinegar isn't what preserves this.** One cup of 5% vinegar in a gallon is about 0.3% acid — a flavor and starter note only. **The salt brine and the lactic ferment it drives are the preservation.** Don't shortchange the salt. No water-bath or pressure canning is described here, and this cookbook doesn't invent one; the finished kraut lives in the refrigerator.
 
 #### A. Ingredients
 
-- Cabbage, shredded — enough to pack your jars, plus whole outer leaves for capping
+- Cabbage, shredded — **pack it hard, about 1½–2 lb per quart jar** *(cookbook judgment — packing density is what sets the final salt level; see the yield note)*, plus whole outer leaves for capping
 - 1 gal. water
 - 1 cup vinegar
 - 1 scant cup canning salt
 
+**Yield note (cookbook judgment, worked from the card's brine):** a scant cup of canning salt (~270 g) in a gallon of water and vinegar is a ~6.5% brine. That is *not* the finished salt level — the cabbage releases its own water and dilutes it. A quart jar **packed tight** holds about 1½ lb of cabbage and takes about 1½ cups of brine; the salt in that brine works out to **~2.2% of the total**, right on the extension target of 2–2.5% (the NCHFP figure is 3 Tbsp canning salt per 5 lb shredded cabbage, ~2.25%). Packed **loose** (¾ lb cabbage, 3½ cups brine) the same jar lands near 4.5% — safe, but slow to ferment and salty. So: pack hard, and expect **a gallon of brine to cover 10–12 tight quarts.** Halve the brine for a 3–4 quart batch. *Under 2% salt gives soft, slimy kraut and invites spoilage; over 3% ferments slowly and comes out tough and oversalted.*
+
 #### B. Cooking Instructions
 
-**1. Pack the jars with shredded cabbage.**
-Shred the cabbage and pack it into clean jars.
+**1. Pack the jars with shredded cabbage. Hard.**
+Shred the cabbage and pack it into clean quart jars, pressing down with a fist or a wooden tamper as you go until it's dense and the shreds start to glisten. Leave **1½–2 inches of headspace** — it foams and bubbles hard the first week and will climb.
 
 **2. Cap each jar with a whole cabbage leaf.**
-A whole leaf laid over the top of each jar — it holds the shredded cabbage down under the brine, which is what keeps it from floating up and spoiling at the surface.
+A whole leaf laid over the top of each jar — it holds the shredded cabbage down under the brine, which is what keeps it from floating up and spoiling at the surface. Anything above the brine line goes bad; anything below it is protected. *Cookbook judgment:* a small zip bag of brine or a glass fermentation weight set on the leaf makes the cap foolproof.
 
 **3. Mix the brine.**
-1 gallon of water, 1 cup vinegar, and 1 scant cup canning salt, stirred until the salt dissolves. *"Scant" is the card's own word — a hair under a full cup.*
+1 gallon of water, 1 cup vinegar, and 1 scant cup canning salt, stirred until the salt dissolves. *"Scant" is the card's own word — a hair under a full cup.* Make half if you're filling 3–4 quarts.
 
-**4. Pour the brine over the cabbage, seal with hot lids, and refrigerate.**
-Cover the shredded cabbage completely with brine, then seal the jars with hot lids. Once they've cooled, into the refrigerator — this is refrigerator kraut, kept cold the whole time it cures and after.
+**4. Pour the brine over the cabbage — 1 to 2 inches over the top of it.**
+Cover the cabbage completely, with the brine standing **1–2 inches above** the leaf cap. That margin is the whole safety system: the cabbage must stay submerged for the entire ferment. Top up any jar that drops below the cabbage with **1½ Tbsp canning salt dissolved in 1 quart of water.**
+
+**5. Lid loosely and ferment at 70–75°F for 3–4 weeks.**
+Set the lids on **loose** — fingertip-tight at most — or use an airlock lid or a cloth and band. Set the jars on a tray (they weep) somewhere out of direct sun at **70–75°F; that's 3–4 weeks.** At 60–65°F count on 5–6 weeks. Below 60°F it may not ferment at all; above 80°F it goes soft and can spoil. Once a week lift the cap, skim any surface film, wipe the rim, and check the brine level. *The card's "seal with hot lids" is read as "lid the jars" — a hot-lid airtight seal on a fermenting jar is the one thing not to do.*
+
+**6. Know done from spoiled.**
+**Done:** the bubbling has stopped, the cabbage has gone translucent and tangy, and it smells sharp-sour — clean, like pickles. A thin **white** film on the surface is kahm yeast, harmless; skim it off. **Throw it out** if it is **soft, slimy, or mushy**; **pink** (yeast from too little or uneven salt); **dark or brown throughout** (brown only at the very top is air exposure — scrape it off; dark all the way down is discard); **rotten or putrid-smelling** rather than sour; or shows **fuzzy mold below the surface.**
+
+**7. Tighten the lids and refrigerate.**
+When it tastes the way you want it, tighten the lids and move the jars to the refrigerator. Kept cold and under its brine it holds for months and keeps slowly souring. If the brine level drops in the fridge, top up with 1 Tbsp canning salt per quart of water.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Cabbage — several heads, depending on how many jars you're filling
+- 🛒 Cabbage — about 1½–2 lb per quart jar you're filling *(a 5-lb batch fills 3–4 quarts)*
 - 🛒 Distilled white vinegar — 1 cup
 - 🛒 **Canning salt** — 1 scant cup *(not table salt — the anti-caking agents cloud the brine)*
-- 🛒 Canning jars and lids
+- 🛒 Canning jars and lids *(plus airlock lids or fermentation weights if you want them — optional)*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~1,200 | 0 g | 60 g | 280 g | 120 g |
-| **Per serving** *(makes about 4–5 quarts — roughly 40 servings)* | ~30 | 0 g | 1.5 g | 7 g | 3 g |
+| **Whole dish** *(one 5-lb cabbage batch, 3–4 quarts)* | ~570 | 0 g | 29 g | 130 g | 57 g |
+| **Per serving** *(about 28 half-cup servings)* | ~20 | 0 g | 1 g | 4.5 g | 2 g |
 
 **What a serving is:** about ½ cup, drained — a normal helping alongside sausage, on a hot dog, or with pork.
 
-**Doubly estimated:** the card scales the brine but never says how much cabbage it covers, so this assumes roughly 5 lb of cabbage. The brine is drained off rather than eaten, but **sodium is very high** — a scant cup of canning salt per gallon.
+**Estimated on the extension batch size** — 5 lb of cabbage, which is what half the card's brine covers when the jars are packed tight. Fermentation eats some of the sugar, so carbs run a little under the raw figure. The brine is drained off rather than eaten, but **sodium is still high** — kraut carries about 2% salt by weight.
 
 #### D. Open Questions
 
 The card is complete as written but leaves out several things a first-time maker would need:
 
-- ✅ 2026-09-07 per Cody (deferring to cookbook judgment): **where — the refrigerator.** Cured cold, not at room temperature; taste it after a couple of weeks and let it go longer if you want it more sour. The card gives no time, so that stays a by-taste call.
-- ✅ 2026-09-07 per Cody (deferring to cookbook judgment): **just sealed, then refrigerated** — no water bath. The jars are not processed for the shelf, and no canning instructions are given here.
-- **How much cabbage does a gallon of brine cover?** The card scales the brine but not the cabbage — worth noting once you've made a batch.
-- ✅ 2026-09-07 — closed with the storage answer above: whether the vinegar or the salt brine does the preserving no longer changes anything, because the jars live in the refrigerator either way.
+- ✅ 2026-09-07 per Cody (deferring to cookbook judgment): **where — the refrigerator, after the ferment.** ✅ 2026-09-07 per Cody ("use your judgment") — **cookbook judgment:** ferment at 70–75°F for 3–4 weeks under a loose lid, then refrigerate. Basis: NCHFP Sauerkraut (https://nchfp.uga.edu/how/ferment/recipes/sauerkraut/), Penn State Extension *Let's Preserve: Fermentation — Sauerkraut and Pickles* (https://extension.psu.edu/lets-preserve-fermentation-sauerkraut-and-pickles), Colorado State Extension *Understanding and Making Sauerkraut* (https://extension.colostate.edu/resource/understanding-and-making-sauerkraut/), UAF Cooperative Extension (https://www.uaf.edu/ces/publications/database/food/sauerkraut.php).
+- ✅ 2026-09-07 per Cody (deferring to cookbook judgment): **just lidded, then refrigerated** — no water bath. The jars are not processed for the shelf, and no canning instructions are given here.
+- ✅ 2026-09-07 — **How much cabbage does a gallon of brine cover?** About **10–12 tightly packed quarts** (1½–2 lb cabbage each); the earlier "4–5 quarts" was an editor's guess and is corrected above with the arithmetic. Cookbook judgment from the extension salt target.
+- ✅ 2026-09-07 — closed: the **salt brine** does the preserving, not the vinegar (about 0.3% acid at this dilution). Stated in the ⚠️ note.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2220,64 +2231,71 @@ The card is complete as written but leaves out several things a first-time maker
 
 **This is the seasoning [§7.13 Crawfish Elegante](#713-crawfish-elegante) has been calling for all along.** That recipe's card wrote it as "Capt. Mike's" / "capn' mike's" and it sat as an open question — *which product is this?* — until Cody identified it: it isn't a store brand to hunt for, it's a **blend**. Also called for by name in [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche).
 
+**Yield:** ½ cup (8 Tbsp) — a couple of months of cooking
+
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
 
 **❤️ Family favorite** — *Cody: "Just a great seasoning, with white pepper. It goes great in cream sauces."*
 
-> **The white pepper is the thing.** Per Cody, that's what gives the blend its character — it's not a background note here the way it is in most mixes. If you're going to be careful about one ingredient, be careful about that one. See [§T5](#t5-seasonings--peppers) on why white pepper reads differently from black.
+> **The white pepper is the thing.** Per Cody, that's what gives the blend its character — it's not a background note here the way it is in most mixes. If you're going to be careful about one ingredient, be careful about that one. See [§T5](#t5-seasonings--peppers) on why white pepper reads differently from black. In a cream sauce it has a second job: it seasons without leaving black specks.
+
+> ✅ 2026-09-07 per Cody ("use your judgment") — **cookbook judgment on the proportions.** Cody's words: it's *all ground powder*, and *the white pepper is what really gives it its character.* The nine ingredients are his; **the amounts below are the cookbook's**, built so white pepper sits at about **20% of the blend** — equal to each of the two salts — where a generic Creole mix runs pepper at 4–10%. Reference points: Emeril's Essence (pepper ≈ 10% of a ⅔-cup batch; https://www.emerils.com/120057/emerils-essence-creole-seasoning), the Seafood Magic copycat (white pepper ≈ 4%; https://www.recipelink.com/misc/chef-paul-prudhommes-seafood-magic-seasoning-copycat-recipe-0087893), and this book's own Prudhomme seasoning mixes in [§4.16](#416-new-orleans-italian-red-gravy) and [§4.17](#417-giblet-gravy) (white pepper ≈ 8%). Write down what you change once you've tasted a batch — Cody's ratios supersede these the day he records them.
 
 #### A. Ingredients
 
-*Proportions aren't recorded — see Open Questions. Listed in the order Cody named them.*
+*One ½-cup batch. Amounts are cookbook judgment (see the note above); the ingredient list and the "all ground" instruction are Cody's.*
 
-- Onion salt
-- Garlic salt
-- **White pepper** — the defining note
-- Cayenne pepper
-- Black pepper
-- Sweet basil
-- Bay leaf
-- Oregano
-- Thyme
+- 1½ Tbsp onion salt
+- 1½ Tbsp garlic salt
+- 1½ Tbsp **white pepper** — the defining note; equal to each salt on purpose
+- 1½ tsp cayenne pepper *(start here; up to 1 Tbsp for a hotter jar)*
+- 1 tsp black pepper
+- 1 Tbsp sweet basil, dried
+- 1 tsp bay leaf, **ground** *(about 4–5 dried leaves through a spice grinder)*
+- 2 tsp oregano, dried
+- 2 tsp thyme, dried
 
 #### B. Cooking Instructions
 
-**1. Combine everything and store airtight.**
+**1. Grind the bay leaf to a powder.**
+Everything in this blend is ground — per Cody, *"all ground powder."* Bay is the one thing you can't buy that way reliably, so run 4–5 dried leaves through a spice or coffee grinder until nothing flaky is left, then sift out any stem. Whole or cracked bay in a shake-on blend just ends up as a leaf in somebody's teeth.
+
+**2. Combine everything and store airtight.**
 Mix the blend and keep it in a sealed jar out of direct light. Per [§T5](#t5-seasonings--peppers), premixing is the whole point — it's how you handle one jar mid-cook instead of nine.
 
-**2. Grind the bay leaf, or leave it whole and pull it later.**
-Bay leaf doesn't break down. Either grind it fine so it disappears into the blend, or keep whole leaves separate and add them to the pot where you can fish them out. *Which of these the original does isn't recorded — see Open Questions.*
+**3. Use it as the salt, not alongside it.**
+Two of the nine ingredients are salts, so it runs about a third salt by volume — comparable to Prudhomme's mixes, lighter than Tony's. Start at about **1 tsp per pound of seafood or per cup of cream sauce**, and don't add plain salt until you've tasted.
 
-**3. Make it in batches you'll use.**
-Ground spices fade. This is a nine-ingredient blend built on aromatics that lose their edge within a couple of months.
+**4. Make it in batches you'll use. This one lasts 2–3 months.**
+Ground spices fade. This is a nine-ingredient blend built on aromatics that lose their edge within a couple of months; a ½-cup batch is about the right size.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Onion salt
-- 🛒 Garlic salt
-- 🛒 White pepper — *the one worth buying fresh*
-- 🛒 Cayenne pepper
-- 🛒 Black pepper
-- 🛒 Sweet basil, dried
-- 🛒 Bay leaf
-- 🛒 Oregano, dried
-- 🛒 Thyme, dried
+- 🛒 Onion salt — 1½ Tbsp
+- 🛒 Garlic salt — 1½ Tbsp
+- 🛒 White pepper — 1½ Tbsp *(the one worth buying fresh)*
+- 🛒 Cayenne pepper — 1½ tsp to 1 Tbsp
+- 🛒 Black pepper — 1 tsp
+- 🛒 Sweet basil, dried — 1 Tbsp
+- 🛒 Bay leaves, dried — 4–5 leaves, to grind
+- 🛒 Oregano, dried — 2 tsp
+- 🛒 Thyme, dried — 2 tsp
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** | ~90 | 2 g | 3 g | 18 g | 8 g |
-| **Per serving** *(about 1 tsp)* | ~2 | 0 g | 0 g | 0.4 g | 0.2 g |
+| **Whole batch** *(½ cup)* | ~70 | 1.5 g | 3 g | 14 g | 6 g |
+| **Per serving** *(about 1 tsp; 24 per batch)* | ~3 | 0 g | 0 g | 0.6 g | 0.3 g |
 
-**What a serving is:** roughly 1 tsp — what you'd sprinkle over one portion. Nutritionally this is close to nothing; **the number that matters here is sodium**, since two of the nine ingredients are salts.
+**What a serving is:** roughly 1 tsp — what you'd season one portion with. Nutritionally this is close to nothing; **the number that matters here is sodium** — about 550 mg per teaspoon of blend, since a third of it is onion and garlic salt.
 
 #### D. Open Questions
 
-- **No proportions are recorded** — only the ingredient list, from memory. Worth writing down the ratios once a batch is mixed and tasted. Given Cody's note, white pepper should sit higher than it would in a generic Creole blend.
-- **Ground or whole bay leaf?** Affects whether it's a true shake-on blend or something you fish out of the pot.
+- ✅ 2026-09-07 per Cody ("use your judgment") — **proportions set as cookbook judgment**, white-pepper-forward at ~20% of the blend; basis and sources in the note above. Cody's own ratios, once he writes them down after a tasted batch, replace these.
+- ✅ 2026-09-07 per Cody — **ground bay leaf.** "This is all ground powder." It's a true shake-on blend.
 - **Is there a written original?** If a card or label for Captain Mike's blend turns up, it supersedes this reconstruction.
 
 [↑ Table of Contents](#table-of-contents)
@@ -7114,9 +7132,9 @@ For shirred eggs or poached calf's brains, make it separately so you can pour th
 
 The dressing for **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)**.
 
-> ⚠️ **Partly documented — one ingredient is missing, and it isn't guessed at here.** Cody named two things for certain, **fresh lime juice and olive oil**, and then said there's *"something else"* in it that he didn't name. What's below is those two confirmed ingredients in a working ratio, with the gap flagged. **The 3:1 ratio is mine, not his** — same treatment as [§T22](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)'s vinegar figure: a sensible place to start, not gospel.
+> ✅ 2026-09-07 per Cody ("look that up yourself from a credible source") — **cookbook judgment fills the gap.** Cody named two things for certain, **fresh lime juice and olive oil**, and said there's *"something else"* he didn't name. Every credible Greek version answers that the same way: **dried oregano** — it's in all of them — usually with a little garlic. What's below is Cody's two confirmed ingredients plus the standard Greek additions, at the 3:1 oil-to-acid ratio the sources agree on. **The oregano, garlic, Dijon, and the red-wine-vinegar half of the acid are recommended from credible Greek sources, not from Cody's memory** — labeled in the list. Basis: The Kitchn, *Classic Greek Vinaigrette* (https://www.thekitchn.com/how-to-make-classic-greek-vinaigrette-242610); The Mediterranean Dish, *Ladolemono* (https://www.themediterraneandish.com/ladolemono-greek-salad-dressing/); The Greek Foodie, *Greek Salad Dressing, 3 Authentic Ways* (https://thegreekfoodie.com/greek-salad-dressing-recipe/).
 
-> **Lime, not lemon — and that appears to be deliberate.** Essentially every published Greek vinaigrette uses **lemon** juice, usually with red wine vinegar. Cody said **lime** twice, for this dressing and again for the hummus in [§9.21](#921-dressed-up-hummus-with-garlic-naan). Written the way he says it rather than corrected toward the standard — but worth confirming, since it's the kind of thing that could be a slip of the tongue.
+> **Lime is Cody's; lemon and red wine vinegar are what Greeks use.** In Greece the salad dressing is *ladoxido* — olive oil, **red wine vinegar**, oregano, salt — or *ladolemono*, the same thing with **lemon**. Lime isn't traditional, but Cody said lime twice (here and for the hummus in [§9.21](#921-dressed-up-hummus-with-garlic-naan)), so it stays. The version below splits the acid — half lime, half red wine vinegar — which is the closest thing to both at once. All-lime (2 Tbsp) works; lemon is the classic swap if you're out of limes.
 
 **Yield:** about ½ cup — enough for one large salad
 
@@ -7124,43 +7142,56 @@ The dressing for **[§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-sal
 
 #### A. Ingredients
 
-- 6 Tbsp extra-virgin olive oil *(ratio is a starting point — see note above)*
-- 2 Tbsp fresh lime juice
-- Salt and pepper, to taste
-- ⚠️ **At least one further ingredient Cody hasn't named yet** — see Open Questions
+- 6 Tbsp extra-virgin olive oil
+- 1 Tbsp fresh lime juice *(Cody's)*
+- 1 Tbsp red wine vinegar *(cookbook judgment — the classic Greek acid; or use 2 Tbsp lime and skip it)*
+- 1 tsp dried oregano, crushed between your palms *(cookbook judgment — the "something else")*
+- 1 small garlic clove, grated *(cookbook judgment)*
+- ½ tsp Dijon mustard *(cookbook judgment, optional — holds the emulsion)*
+- ½ tsp kosher salt
+- ¼ tsp black pepper
+- Optional: ½ tsp honey, if the lime reads too sharp
 
 #### B. Cooking Instructions
 
 **1. Combine everything in a jar.**
-Olive oil, lime juice, a good pinch of salt, and a few grinds of pepper into a jar with a tight lid.
+Olive oil, lime juice, vinegar, oregano, garlic, Dijon, salt, and pepper into a jar with a tight lid. Crush the oregano between your palms as it goes in — it wakes the oil in the leaf up.
 
 **2. Shake hard until it emulsifies. About 20 seconds.**
-Shaking beats whisking here because the lid keeps everything in — you want it to go from two separate layers to one cloudy, slightly thickened dressing. It will separate again as it sits; shake it once more right before it goes on the salad.
+Shaking beats whisking here because the lid keeps everything in — you want it to go from two separate layers to one cloudy, slightly thickened dressing. It will separate again as it sits; shake it once more right before it goes on the salad. The Dijon is what keeps it together longer.
 
 **3. Taste it on a leaf, not off a spoon.**
-Dressing tastes far sharper on its own than it does on lettuce. Dip an actual romaine leaf in before deciding it needs more oil or more salt.
+Dressing tastes far sharper on its own than it does on lettuce. Dip an actual romaine leaf in before deciding it needs more oil, more salt, or the optional honey.
+
+**4. Keeps a week, refrigerated.**
+The raw garlic is the clock — a week in the fridge, then make it fresh. Let it come toward room temperature and shake before using; the oil thickens cold.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
 - 🛒 Extra-virgin olive oil — 6 Tbsp
-- 🛒 Limes — 1 to 2, for 2 Tbsp juice
-- 🛒 Salt, pepper
+- 🛒 Limes — 1, for 1–2 Tbsp juice
+- 🛒 Red wine vinegar — 1 Tbsp
+- 🛒 Dried oregano — 1 tsp
+- 🛒 Garlic — 1 small clove
+- 🛒 Dijon mustard — ½ tsp *(optional)*
+- 🛒 Kosher salt, black pepper
+- 🛒 Honey — ½ tsp *(optional)*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(~½ cup)* | ~730 | 81 g | 0 g | 2 g | 0 g |
-| **Per serving** *(serves 4, about 2 Tbsp each)* | ~180 | 20 g | 0 g | 0.5 g | 0 g |
+| **Whole batch** *(~½ cup)* | ~735 | 81 g | 0 g | 3 g | 0.5 g |
+| **Per serving** *(serves 4, about 2 Tbsp each)* | ~185 | 20 g | 0 g | 1 g | 0 g |
 
-**What a serving is:** about 2 tablespoons — enough to dress one dinner-sized salad plate. *These figures cover only the two confirmed ingredients; the unnamed one isn't included.*
+**What a serving is:** about 2 tablespoons — enough to dress one dinner-sized salad plate. Essentially all of it is the olive oil; the oregano, garlic, and acids add almost nothing.
 
 #### D. Open Questions
 
-- **What is the missing ingredient?** Cody said *"lime juice and olive oil, and maybe something else."* Given the style, plausible candidates are **dried oregano**, **garlic**, **Dijon**, a little **honey**, or **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** itself — but **none of these is confirmed**, and none is written into the ingredient list above.
-- **Lime or lemon?** See the note above. Recorded as lime, per Cody, twice.
+- ✅ 2026-09-07 per Cody ("look that up yourself from a credible source") — **the missing ingredient is written in as dried oregano, with garlic and optional Dijon**, per the sources cited above. Cookbook judgment, labeled in the ingredient list; if Cody remembers the real "something else," it replaces these.
+- ✅ 2026-09-07 — **Lime or lemon?** Lime, per Cody, twice — kept. Lemon or red wine vinegar is the Greek standard; the entry now says so and splits the acid rather than correcting him.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -20223,42 +20254,54 @@ Taste and adjust salt, pepper, and hot sauce. Sprinkle with the chopped eggs and
 
 Transcribed from Cody's own recipe/grocery-planning spreadsheet. A quick mayo-based slaw finished with Tony's — **a different dish from [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw)**, which is vinegar-based with no mayonnaise at all. Both are kept; this is the everyday weeknight version, §5.13 is the Carolina barbecue-specific one.
 
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(plus refrigerating before serving — the card doesn't give a duration)*
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~40 min to 1 hr 10 min** *(30–60 min chill)*
+
+> ✅ 2026-09-07 per Cody ("use your judgment on mayo, and Tony's until salty enough") — **cookbook judgment on the amounts.** The card says "to taste" for both. The mayo figure below is the standard creamy-slaw ratio — **½ cup per 14-oz bag** (Food Network Kitchen, *Easy Creamy Slaw*, https://www.foodnetwork.com/recipes/food-network-kitchen/easy-creamy-slaw-5482553; The Country Cook's Southern slaw runs lighter, ½ cup for two bags, https://www.thecountrycook.net/southern-coleslaw/). Tony's is Cody's rule — *until salty enough* — with a starting point and an expected landing zone from a Creole slaw that uses it (https://www.food.com/recipe/kickin-coleslaw-312164).
 
 #### A. Ingredients
 
-- 1 bag cabbage slaw mix
-- Mayonnaise, to taste
+- 1 bag (14 oz, about 7 cups) cabbage slaw mix
+- ½ cup mayonnaise *(cookbook judgment — start at ⅓ cup, go to ⅔ if you like it wet)*
 - About 1 Tbsp fresh lemon juice
-- Tony's (Cajun seasoning), to taste
+- Tony's (Cajun seasoning) — **1 tsp to start, then ¼ tsp at a time until salty enough**; expect to land at 1½–2 tsp *(starting amount is cookbook judgment; "until salty enough" is Cody's)*
+- Optional: 1 tsp sugar *(not on the card; most Southern slaws have it)*
+
+*A whole head of cabbage (~2 lb) is about two bags — double everything.*
 
 #### B. Cooking Instructions
 
-**1. Mix and refrigerate.**
-Toss the slaw mix with mayonnaise, lemon juice, and Tony's to taste. Refrigerate until serving.
+**1. Mix the dressing, then toss.**
+Stir the mayonnaise, lemon juice, 1 tsp Tony's, and the sugar if using together in the bottom of a big bowl, then add the slaw mix and toss until every shred is coated. Dressing first keeps the mayo from clumping in one corner of the cabbage.
+
+**2. Season with Tony's until it's salty enough.**
+Taste. Add Tony's ¼ teaspoon at a time and toss again until it reads seasoned — most batches land between 1½ and 2 teaspoons. Tony's is salty, so don't add plain salt.
+
+**3. Refrigerate 30–60 minutes, then toss again and serve.**
+Cover and chill at least 30 minutes so the cabbage softens slightly and takes on the dressing. It weeps as it sits — toss it once more right before it goes on the table. Best the same day; by the next it's wet.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Cabbage slaw mix — 1 bag
-- 🛒 Mayonnaise
+- 🛒 Cabbage slaw mix — 1 bag (14 oz)
+- 🛒 Mayonnaise — ½ cup
 - 🛒 Lemon — for about 1 Tbsp juice
-- 🛒 Tony's Cajun seasoning
+- 🛒 Tony's Cajun seasoning — about 2 tsp
+- 🛒 Sugar — 1 tsp *(optional)*
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~500 | 40 g | 3 g | 32 g | 10 g |
-| **Per serving** *(serves 4)* | ~125 | 10 g | 1 g | 8 g | 2.5 g |
+| **Whole dish** | ~830 | 81 g | 5 g | 24 g | 9 g |
+| **Per serving** *(serves 4)* | ~205 | 20 g | 1 g | 6 g | 2 g |
 
-**What a serving is:** about ¾ to 1 cup — a normal side portion.
+**What a serving is:** about ¾ to 1 cup — a normal side portion. Nearly all of the calories are the ½ cup of mayonnaise (~720); at ⅓ cup the per-serving figure drops to about 150.
 
 #### D. Open Questions
 
-- **Mayonnaise and Tony's are both "to taste"** — no measured amount on the card. ¼ cup mayo is the working assumption behind the Nutrition figures above.
-- **No refrigeration time given** — "mix and refrigerate" doesn't say how long; 30 minutes to an hour is typical for a slaw mix to soften slightly and take on the dressing.
+- ✅ 2026-09-07 per Cody ("use your judgment on mayo; Tony's until salty enough") — **½ cup mayo per bag, Tony's from 1 tsp up to salty enough (expect 1½–2 tsp).** Cookbook judgment on the mayo and the Tony's starting point; sources in the note above. Nutrition recomputed on ½ cup.
+- ✅ 2026-09-07 — **Refrigeration time:** 30–60 minutes, cookbook judgment; the card only says "refrigerate."
 
 [↑ Table of Contents](#table-of-contents)
 

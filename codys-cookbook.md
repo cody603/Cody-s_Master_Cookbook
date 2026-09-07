@@ -8691,6 +8691,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety) · [§T48 Basting and Spritzing](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat)
 
+> ✅ **Re-verified line by line, 2026-09-07, against book pp. 176–177 (second-pass QC).** All 16 ingredient lines, the four printed steps (prep the two bowls; sauté onion 5 min, garlic 1 min, bloom the spice mix 2 min, simmer 15 min uncovered; taste and strain or not; use now or age overnight), MAKES 6 cups / TAKES about 45 minutes, and both secret optional ingredients (2 Tbsp tamarind paste, ½ tsp liquid smoke) match the page. The 1½ tsp kosher salt is as printed. **One wording fix:** the tamarind note said to look in an *Italian* or Asian grocery — the page says **Indian** or Asian. No quantity changed; the entry's four steps sit at slightly different boundaries than the page's four (the page's Step 2 runs from the oil through the 15-minute simmer), with nothing dropped.
+
+**Makes 6 cups · Takes about 45 minutes** *(as printed)*
+
 **🟢 Easy** · **Prep ~15 min** · **Cook ~30 min** *(sauté + 15 min simmer)* · **Start to finish ~45 min** *(as printed; better after aging overnight, per the source)*
 
 #### A. Ingredients
@@ -8718,7 +8722,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 In a small bowl, mix the chili powder, salt, and pepper. In a large bowl, mix the ketchup, brown sugar, mustard, vinegar, Worcestershire, lemon juice, steak sauce, molasses, honey, and hot sauce.
 
 **2. Sauté the aromatics.**
-In a large saucepan, heat the oil over medium heat. Add the onion and sauté until translucent, about 5 minutes. Add the garlic and cook 1 minute more.
+In a large saucepan, heat the oil over medium heat. Add the onion and sauté until limp and translucent, about 5 minutes. Add the garlic and cook 1 minute more.
 
 **3. Bloom the spices, then combine and simmer.**
 Add the chili powder mixture and cook about 2 minutes to let the flavors bloom. Add the ketchup mixture and stir. Simmer the sauce uncovered for 15 minutes to thicken it a bit.
@@ -8726,7 +8730,7 @@ Add the chili powder mixture and cook about 2 minutes to let the flavors bloom. 
 **4. Taste and rest.**
 Taste and adjust the seasoning, adding a little of whatever you think it needs. **The sauce may taste a bit vinegary at first**, but that's less obvious once it's on meat and cooked a second time, which alters its flavor profile again. Strain out the chunks of onion and garlic if you want a smooth sauce — leaving them in gives it a rustic, homemade texture. Usable right away, but better after aging overnight.
 
-**NOTES:** There are many different brands of steak sauce and they all taste different, but what you want here is the meaty, savory umami depth they all share — so use whatever you have on hand. **Secret optional ingredients:** add **2 Tbsp tamarind paste** — an exotic ingredient with a sweet, citrusy flavor that really brightens a sauce; look for it in an Italian or Asian grocery, or order it online. For a smoky note, add **½ tsp liquid smoke** — though if you're actually cooking over smoke you shouldn't need it.
+**NOTES:** There are many different brands of steak sauce and they all taste different, but what you want here is the meaty, savory umami depth they all share — so use whatever you have on hand. **Secret optional ingredients:** add **2 Tbsp tamarind paste** — an exotic ingredient with a sweet, citrusy flavor that really brightens a sauce; look for it in an Indian or Asian grocery, or order it online. For a smoky note, add **½ tsp liquid smoke** — though if you're actually cooking over smoke you shouldn't need it.
 
 #### C. Grocery Shopping List
 
@@ -8768,7 +8772,11 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T50 Saucing Strategies](#t50-saucing-strategies--when-how-much-and-food-safety)
 
-**🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** *(simmer)* · **Start to finish ~20 min** *(better after resting overnight)*
+> ✅ **Re-verified line by line, 2026-09-07, against book p. 178 (second-pass QC).** All 13 ingredient lines match the page exactly, including the 1½ tsp kosher salt; both printed steps (crush rosemary and celery seeds in a mortar and pestle, blender, or coffee grinder; simmer 5 minutes, taste, and store overnight to meld) match. **Two fixes:** the page prints **MAKES about 3 cups / TAKES 30 minutes**, which the entry never carried — the badge's 20-minute start-to-finish is replaced by the printed 30; and the old Step 3's *"though it can be used right away"* was not printed and is struck — the page only says an overnight rest helps meld the flavors.
+
+**Makes about 3 cups · Takes 30 minutes** *(as printed)*
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~5 min** *(simmer)* · **Start to finish ~30 min** *(as printed; better after resting overnight)*
 
 #### A. Ingredients
 
@@ -8795,7 +8803,7 @@ In a mortar and pestle, blender, or coffee grinder, crush the rosemary and celer
 Pour the mixture into a saucepan and bring to a simmer. Cook for 5 minutes. Taste and adjust the seasoning.
 
 **3. Rest.**
-Storing it overnight in the fridge helps meld the flavors, though it can be used right away.
+Storing it overnight in the fridge helps meld the flavors.
 
 #### C. Grocery Shopping List
 

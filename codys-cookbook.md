@@ -27137,7 +27137,7 @@ Transcribed from **Mastering the Art of French Cooking**, Chapter Seven: Meat, p
 
 **For the garnish and finishing**
 
-- 2 lb carrots, quartered, braised in butter *(source p. 477 — not yet transcribed)*
+- 2 lb carrots, quartered, braised in butter *(source p. 477 — named, not transcribed; 🚫 not pursued — use the stand-in above)*
 - 24 to 36 small white onions, brown-braised in stock *(source p. 483 — named, not transcribed; 🚫 not pursued — use the [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) stand-in)*
 - 1 Tbsp arrowroot or cornstarch mixed with 2 Tbsp Madeira or port, if the sauce needs thickening
 - Parsley sprigs, for decoration

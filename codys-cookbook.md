@@ -211,6 +211,8 @@ Click any recipe to jump straight to it.
   - [4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) ✅ *(Raichlen, The Barbecue! Bible p. 476 — the coconut-milk Thai saté sauce; **not** the same recipe as [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce), which shares most of its name; closes [§7.75](#775-lettuce-bundles-with-grilled-beef)'s open component; added 2026-09-08)*
   - [4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus) ✅ *(Raichlen, The Barbecue! Bible p. 476, facing column — tamarind and ketjap manis, **no coconut milk**; the third and most distinct of this cookbook's three peanut sauces; added 2026-09-08)*
   - [4.192 Avocado Salsa](#4192-avocado-salsa) ✅ *(laylita.com, Layla Pujol — the salsa half of [§7.150](#7150-grilled-salmon-with-avocado-salsa), pulled out on its own because Cody puts it on grilled fish generally; added 2026-09-08)*
+  - [4.193 Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) ✅ *(Cody's — two ingredients, for flank steak; **a steak sauce, not a dipping sauce**, per his own correction; ratio is cookbook judgment; added 2026-09-08)*
+  - [4.194 Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) ✅ ❤️ *(from Cody's dad — thick and cream-cheese-based, **not** the whipped-cream [§4.40](#440-herbed-horseradish-sauce); also great on pork tenderloin, per Cody; ratio is cookbook judgment; added 2026-09-08)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -751,7 +753,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.107 Skinny Steaks](#7107-skinny-steaks) *(Meathead)* | 🟡 | 5 min | 5 min | — | 10 min *(+ 1–2 hr dry brine)* |
 | [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.194 Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) | 🟢 | 10 min | — | — | ~1 hr 10 min *(1 hr chill)* |
 | [§4.192 Avocado Salsa](#4192-avocado-salsa) | 🟢 | 10 min | — | — | 10 min *(plus chilling until served)* |
+| [§4.193 Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) | 🟢 | 5 min | — | — | 5 min |
 | [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 40 min–1 hr 10 min *(30–60 min chill)* |
 | [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
 | [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -4227,6 +4231,8 @@ Transcribed from **Steven Raichlen's *How to Grill***. *"Roast beef and horserad
 **Yield:** about 2 cups; serves 8 to 12
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+> **Not the same sauce as [§4.194 Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese), and both stay.** This one is Raichlen's and is **lightened with a cup of whipped heavy cream** folded in at the end, with mixed Mediterranean herbs and lemon juice and zest — light and airy. That one is from Cody's dad and is **thick and spreadable**, built on cream cheese instead of whipped cream, with **dill as the only herb** and no lemon at all. Same root ingredient, opposite textures.
 
 #### A. Ingredients
 
@@ -13798,6 +13804,143 @@ It can be made ahead and held in the fridge — the source builds it early, whil
 
 - ✅ **"3 mild hot peppers" — answered from this cookbook's own heat scale: use Anaheim or poblano.** The source fixes the heat level and the count but never the variety. Rather than guess from outside, the pick comes from [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s Scoville table, which is already in this book: **Anaheim runs 1,000–3,000 SHU and poblano 1,000–1,500** — genuinely mild, and mild is the one thing the source *does* specify. **Jalapeño is the wrong default here**, even though it's the chile most people reach for: the same table puts it at **2,500–8,000 SHU**, up to eight times a poblano, and §T105's own warning is that two jalapeños off one plant can differ sharply. Seeded and deveined it would work, but it's a gamble on a salsa whose whole job is to sit on fish without covering it. **Banana peppers (0 SHU) are the no-heat option** if you want none at all.
 - ✅ **No serving count is printed for the salsa on its own** — settled as **six ¼-cup servings**, derived from the ~1½-cup yield and consistent with the parent recipe's 4-to-6. Not a printed figure.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.193 Dijon & Greek Yogurt Steak Sauce
+
+**Cody's, 2026-09-08.** Two ingredients — **Dijon mustard stirred into Greek yogurt** — served alongside sliced steak. *Cody: it goes on something like a flank steak, and it's phenomenal.*
+
+> 🔑 **These are steak sauces, not dipping sauces — Cody's own correction, 2026-09-08.** He described this one and [§4.194](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) as things you dip steak into, then corrected the category himself: *"I wouldn't call those dipping sauces, I would call those steak sauces."* The distinction is worth keeping. A dipping sauce is a condiment you'd put beside anything; **a steak sauce is built for beef and is part of the plate** — which is also why both of these live in §4 and get pointed at from the steak recipes, rather than being filed with the dips.
+
+**Yield:** about 1¼ cups
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
+
+> **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test: it is two ingredients and a spoon. Nothing in it can go from perfect to ruined.
+
+> ⚠️ **The amounts below are cookbook judgment — Cody named the two ingredients, not a ratio.** He referred to *"a recipe where you mix Dijon mustard and Greek yogurt,"* but the recipe he has in mind hasn't been identified and isn't in this cookbook (see Open Questions). **The two ingredients are his; the proportions are a starting point.** Start here, taste, and move it — this is a sauce you can correct in either direction at any point, which is most of why it's worth making.
+
+#### A. Ingredients
+
+- 1 cup plain Greek yogurt — **full-fat**; it's the body of the sauce and low-fat goes thin and sour
+- 3 Tbsp Dijon mustard
+- Salt, to taste
+
+*Amounts are cookbook judgment. **Roughly 5 parts yogurt to 1 part Dijon** is the ratio to hold onto — that lands the mustard as a clear, sharp note without turning it into thinned-out mustard.*
+
+#### B. Cooking Instructions
+
+**1. Whisk the Dijon into the yogurt.**
+Stir it together until the color is even and there are no pale streaks of yogurt left. **Add the mustard in stages and taste as you go** rather than dumping all three tablespoons in at once — Dijons vary a lot in sharpness between brands, and this is a two-ingredient sauce, so the brand *is* the seasoning.
+
+**2. Salt it, and taste it against the steak — not on its own.**
+Salt brings the mustard forward; without it the sauce reads flat and chalky. **Taste it on a piece of the beef rather than off the spoon.** Against a well-seasoned, charred steak a sauce that tasted assertive alone will suddenly read mild, which is the usual reason a first batch comes out under-mustarded.
+
+**3. Chill until you serve it, and serve it cold.**
+Cold sauce against hot steak is the point of it. It can be made a day ahead; it firms up slightly in the fridge and thins again as it sits out.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Greek yogurt, plain full-fat — 1 cup
+- 🛒 Dijon mustard — 3 Tbsp
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+*Built from the ingredient list; no source page prints figures for this. **This is the leanest sauce in this stretch of §4 by a wide margin** — the yogurt carries protein instead of fat, which is not true of [§4.194](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) or [§4.40](#440-herbed-horseradish-sauce).*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1¼ cups)* | ~250 | 13 g | 21 g | 10 g | 1 g |
+| **Per serving** *(2 Tbsp, of about 10)* | ~25 | 1 g | 2 g | 1 g | 0 g |
+
+**What a serving is:** about **2 tablespoons — a small spoonful beside sliced steak**, or a shallow puddle to drag the slices through.
+
+#### D. Open Questions
+
+- ❓ **Which recipe is this?** Cody said *"there is a recipe where you mix Dijon mustard and Greek yogurt"* — implying a specific one he's cooked from. **It is not in this cookbook** *(checked 2026-09-08 across every entry: no existing recipe combines Dijon and Greek yogurt)*, and no book, site, or author was named. Recorded as his, from an unidentified source.
+- ❓ **The ratio is not his.** 5:1 yogurt to Dijon is a starting point, not his measurement. **His own proportions replace it the day he gives them.**
+- **Whether anything else goes in it** — he named exactly two ingredients plus the steak. Garlic, lemon, honey, and herbs are all common in sauces of this shape and **none of them has been added here**, because he didn't name them.
+
+**Serve it with:** [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) · [§7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks). *Its mustard cousin in this cookbook is [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce), which is built on mayonnaise and aimed at salmon rather than beef.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.194 Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)
+
+**From Cody's dad, recorded 2026-09-08.** Fresh dill, sour cream, cream cheese, and horseradish beaten together into a thick, cold steak sauce. *Cody: it's phenomenal — **and it's also phenomenal with pork tenderloin.*** That second use is his, unprompted, and is worth taking as seriously as the first.
+
+> 🔑 **A steak sauce, not a dipping sauce** — Cody's own correction; see the same note at [§4.193](#4193-dijon--greek-yogurt-steak-sauce).
+
+**Yield:** about 1¼ cups
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~1 hr 10 min** *(10 min of work, then an hour in the fridge — lead time, not work)*
+
+> **Why 🟢 Easy.** Nothing here can go from perfect to ruined. The only way to get it wrong is a lumpy sauce from cold cream cheese, and Step 1 is how you avoid that.
+
+> ⚠️ **Not the same sauce as [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce), and both stay.** That one is Raichlen's, from *How to Grill*: sour cream **lightened with a cup of whipped heavy cream**, mixed Mediterranean herbs, and lemon juice and zest — an airy, folded sauce. **This one is his dad's and goes the opposite direction**: cream cheese instead of whipped cream makes it thick and spreadable rather than light, and the herb is **dill only**, with no lemon. Same root ingredient, two genuinely different sauces.
+
+> ⚠️ **The amounts below are cookbook judgment — Cody named four ingredients, not a ratio.** This is a family recipe, so his dad's actual proportions are the ones that matter and these are only a working starting point. Flagged in Open Questions.
+
+#### A. Ingredients
+
+- 4 oz cream cheese, **softened to room temperature**
+- ½ cup sour cream
+- 2 to 3 Tbsp prepared horseradish, to taste
+- 2 Tbsp fresh dill, chopped — **fresh, per Cody, not dried**
+- Salt, to taste
+
+*Amounts are cookbook judgment; the four ingredients are Cody's. **Roughly 2 parts cream cheese to 1 part sour cream** gives a sauce thick enough to sit on a slice of beef without running off it — that's the texture the cream cheese is there for.*
+
+#### B. Cooking Instructions
+
+**1. Soften the cream cheese completely, then beat it smooth on its own.**
+This is the whole difficulty of the recipe and it's worth doing first. **Cold cream cheese will not blend into sour cream — it breaks into lumps that never come out**, and no amount of stirring afterward will fix it. Leave it on the counter until it gives easily under a finger, then beat it by itself until it's completely smooth before anything else goes in.
+
+**2. Beat in the sour cream.**
+Add it to the smooth cream cheese and beat until uniform. Going in this order — cream cheese smooth first, then thinned with the sour cream — is what keeps it from seizing into lumps.
+
+**3. Fold in the horseradish and the fresh dill, then salt to taste.**
+**Start at 2 Tbsp of horseradish and work up.** Prepared horseradish varies enormously between brands and loses its bite with age, so a fresh jar at 2 Tbsp can be sharper than an old one at 3. Chop the dill just before it goes in — its oils fade fast once cut.
+
+**4. Chill at least an hour before serving.**
+Not optional, and not just about temperature: **horseradish needs time to bloom through a dairy base**, and dill needs time to give up its flavor. Straight out of the bowl the sauce tastes mostly of cream cheese; an hour later it tastes like the sauce it's supposed to be. **Taste it again after chilling and adjust the salt then**, not before.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cream cheese — 4 oz *(a half block)*
+- 🛒 Sour cream — ½ cup
+- 🛒 Prepared horseradish — 2 to 3 Tbsp *(buy a fresh jar; an old one has lost its heat)*
+- 🛒 Fresh dill — 1 small bunch, for 2 Tbsp chopped
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+*Built from the ingredient list; no source prints figures for this. It's a rich sauce — cream cheese and sour cream are essentially all of the fat, and there's no lean ingredient in it to offset them.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1¼ cups)* | ~660 | 64 g | 10 g | 15 g | 1 g |
+| **Per serving** *(2 Tbsp, of about 10)* | ~65 | 6 g | 1 g | 1.5 g | 0 g |
+
+**What a serving is:** about **2 tablespoons — a spoonful dolloped on sliced steak or pork**, thick enough to hold its shape rather than pool.
+
+#### D. Open Questions
+
+- ❓ **His dad's actual proportions are unknown, and on a family recipe that's the number that matters.** Cody named the four ingredients and nothing else. The ratios above are a working starting point only. **Worth asking his dad directly** — how much horseradish, and whether the cream cheese or the sour cream leads.
+- ❓ **Fresh or prepared horseradish?** Cody said only *"horseradish."* Prepared is assumed above because it's what a mixed cold sauce normally uses and what [§4.40](#440-herbed-horseradish-sauce) offers as its alternate; **fresh grated root would be sharper and would need less** *(see [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) for handling the root)*.
+- **Whether anything else goes in** — no lemon, vinegar, garlic, or black pepper has been added, because he didn't name any. [§4.40](#440-herbed-horseradish-sauce) uses lemon juice and zest if you want a reference for what that would do.
+
+**Serve it with:** steak — [§3 Darcy's Steak](#3-darcys-steak), [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks), [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) — **and with pork tenderloin, per Cody**: [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared), [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub), [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin), or [§T14 How to Grill Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo).
 
 [↑ Table of Contents](#table-of-contents)
 

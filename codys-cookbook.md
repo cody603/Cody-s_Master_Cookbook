@@ -3072,9 +3072,9 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 242). A whisk
 
 #### A. Ingredients
 
-- ½ lb (2 sticks) unsalted butter, **very soft**, **in all**
+- ½ lb (2 sticks) unsalted butter, **very soft** — *added in two stages; see the method*
 - ½ lemon, peeled, seeded, and very thinly sliced
-- ⅜ tsp salt, or to taste
+- ⅛ tsp salt, or to taste
 
 #### B. Cooking Instructions
 
@@ -3104,6 +3104,12 @@ Cook until the mixture reaches a full boil, whisking constantly and vigorously t
 | **Per serving** *(about 3 Tbsp, of 6)* | ~270 | 29 g | 0.3 g | 0.5 g | 0 g |
 
 **What a serving is:** about 3 Tbsp spooned over one piece of fish, veal, a steak, or a lamb chop.
+
+#### D. Verification
+
+- ✅ 2026-09-08 transcribed and verified against Cody's photograph of p. 242. Page confirmed by its printed footer (242) and running head (*Chef Paul Prudhomme's Louisiana Kitchen*). Butter, lemon, and the whole method read clean and needed no change.
+- ⚠️ ✅ 2026-09-08 **salt corrected — ⅜ tsp is now ⅛ tsp.** The printed line reads **"⅛ teaspoon salt or to taste."** The entry had carried **⅜ tsp** since it was first transcribed on 2026-08-09 — **three times the salt the book calls for**, in a sauce whose only other ingredients are butter and lemon. Worth flagging rather than quietly fixing: at ½ lb of unsalted butter, ⅜ tsp wouldn't have ruined the sauce, but it would have pushed a deliberately delicate finishing sauce noticeably saltier than intended, and "or to taste" means the printed figure is a floor to adjust *up* from, not a midpoint. **If you have made this sauce before today, you made it salty** — start from ⅛ tsp next time and add at the end.
+- The butter line's *"in all"* tag was also dropped. It isn't printed here — the book uses that phrase for [§4.20 Meunière Sauce](#420-meunière-sauce) on the facing page, where the butter really is split across the ingredient list. Replaced with a plain pointer to the method, which does add the butter in two stages.
 
 [↑ Table of Contents](#table-of-contents)
 

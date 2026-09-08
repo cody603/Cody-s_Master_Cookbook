@@ -59,7 +59,7 @@ Click any recipe to jump straight to it.
   - [4.38 Mustard Sauce](#438-mustard-sauce) ✅ *(Raichlen, How to Grill — the cold toasted-mustard-seed one; **not** the same recipe as [§4.22](#422-mustard-sauce), which shares its name)*
   - [4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) ✅ ❤️
   - [4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) ✅
-  - [4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) ✅
+  - [4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) ✅ *(Raichlen, How to Grill — the sautéed-aromatic, 2-cup one; **not** the same recipe as [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) or [§4.191 Pindasaus](#4191-dutch-west-indian-peanut-sauce-pindasaus))*
   - [4.42 Asian Pear Dipping Sauce](#442-asian-pear-dipping-sauce) ✅
   - [4.43 Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) ✅
   - [4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) ✅
@@ -208,6 +208,8 @@ Click any recipe to jump straight to it.
   - [4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen p. 268 — the source's own raw-egg blender mayonnaise, the component [§9.10 Crabmeat Avery](#910-crabmeat-avery) calls for; names four flavored versions not yet transcribed; added 2026-09-08)*
   - [4.188 Sherry Wine Sauce](#4188-sherry-wine-sauce) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen pp. 282–283 — a cold blender sauce on one egg yolk, catsup and dry sherry; its ingredient list is split across the page turn; added 2026-09-08)*
   - [4.189 Sweet and Tangy Dipping Sauce](#4189-sweet-and-tangy-dipping-sauce) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen p. 284 — marmalade, Creole mustard and horseradish; the sauce [§9.32 Coconut Beer Shrimp](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) is served with; added 2026-09-08)*
+  - [4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) ✅ *(Raichlen, The Barbecue! Bible p. 476 — the coconut-milk Thai saté sauce; **not** the same recipe as [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce), which shares most of its name; closes [§7.75](#775-lettuce-bundles-with-grilled-beef)'s open component; added 2026-09-08)*
+  - [4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus) ✅ *(Raichlen, The Barbecue! Bible p. 476, facing column — tamarind and ketjap manis, **no coconut milk**; the third and most distinct of this cookbook's three peanut sauces; added 2026-09-08)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -1108,6 +1110,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.6 Beef Jerky](#96-beef-jerky) | 🟡 | 20 min | — | **~2 hr** *(dehydrator, then 10 min at 275°F)* | 10–26 hr *(8–24 hr rest)* |
 | [§4.11 Choron Sauce](#411-choron-sauce) | 🟡 | 10 min | 10 min | — | 20 min *(+ §4.9)* |
 | [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | 🟢 | 10 min | 10 min | **48–72 hr** *(sous vide, unattended)* | 48 hr 20 min – 72 hr 20 min |
 | [§14.20 Cream Caramel](#1420-cream-caramel) | 🔴 | 10 min | 10 min | **40 min** *(sous vide)* | ~1 hr active *(plus an overnight fridge rest so the caramel dissolves into sauce — not active work)* |
 | [§5.14 Grilled Corn](#514-grilled-corn) | 🟢 | 10 min | 10 min | — | 20 min |
@@ -4403,6 +4407,8 @@ Place the cream in a large chilled bowl and beat it with an electric mixer until
 ### 4.41 Asian Peanut Sauce
 
 Transcribed from **Steven Raichlen's *How to Grill***. *"This sweet, nutty peanut sauce (or any one of a hundred variations) is the traditional accompaniment to the satés (tiny kebabs) of Southeast Asia."* Goes well with a Garlic Halibut (page 298, not in this cookbook) or any type of saté.
+
+> ⚠️ **Three peanut sauces in this cookbook share most of a name and are three different recipes — checked 2026-09-08.** **This one is from *How to Grill***: **2 cups**, and it is the only one of the three that **starts with a sauté** — garlic, chiles, ginger and shallots caramelized in 2 Tbsp oil for 3 to 5 minutes before anything else goes in — with **1½ cups** coconut milk, brown sugar, ground coriander and black pepper. **[§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce)** is from ***The Barbecue! Bible*** p. 476: **1 cup**, no oil, no sauté, ⅓ cup coconut milk, scallions instead of shallots. **[§4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus)** is from the facing column of that same page and is the easiest to tell apart: **no coconut milk at all** — tamarind, ketjap manis and vinegar instead. **None is a duplicate; keep all three.** *(Handled the same way as the [§4.22](#422-mustard-sauce)/[§4.38](#438-mustard-sauce) "Mustard Sauce" pair.)*
 
 **Yield:** about 2 cups; serves 8
 
@@ -13236,6 +13242,8 @@ Transcribed from the same **Steven Raichlen** book as [§4.96 Vinegar-Based Mop 
 
 > **If you can't get ketjap manis** *(the source's own substitute)*: combine **equal parts soy sauce and molasses** and add **½ teaspoon of ground coriander.** The source also gives a homemade ketjap manis on its p. 474 — not transcribed here. *(Cookbook gloss: the same sauce is sold under the Indonesian spelling* kecap manis *— ABC brand is the common one — thick, black, and syrupy, more like molasses than like soy sauce. A Chinese market carries it; most general groceries don't.)*
 
+> ☯️ **One bottle covers two recipes.** [§4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus) — same author, *The Barbecue! Bible* p. 476 — is the other recipe in this cookbook built on ketjap manis, and it takes only 2 Tbsp. **Its printed substitute is slightly different from this one's:** it gives **1 Tbsp regular soy sauce plus 1 Tbsp molasses**, without the ½ tsp of ground coriander this entry's source adds. Same idea; if you're standing in for the real thing in either recipe, the coriander is worth borrowing.
+
 **Yield:** makes about ½ cup
 
 **🟢 Easy** *(a stirred butter sauce — nothing to ruin)* · **Prep ~2 min** · **Cook ~3 min** *(melt, then about 2 minutes of brisk simmering)* · **Start to finish ~5 min**
@@ -13690,6 +13698,162 @@ That is the entire printed method. Stir until the mustard and horseradish are ev
 **What a serving is:** **3 tablespoons** — the source's own appetizer portion, a small dipping bowl beside 4 shrimp. Its **main-dish portion is ⅓ cup**, which is a little over five tablespoons and comes to roughly **175 calories and 46 g of carbs**. Worth knowing before you pour: a ⅓-cup bowl of this adds about a third again to the calories of the 8 shrimp beside it, and most people don't finish the bowl.
 
 ✅ 2026-09-08 transcribed and verified against Cody's photograph of p. 284 — running head *Chef Paul Prudhomme's Louisiana Kitchen*, footer **284**, the title block, all three ingredient lines with both of the source's alternates, the one-sentence method and the *Makes 2½ cups* yield read at native resolution and cropped for confirmation.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.190 Thai Peanut Sauce
+
+Transcribed from **Steven Raichlen's *The Barbecue! Bible*** — its *Sauces* chapter, **book p. 476**, headed **THAILAND**. *"Peanut sauce is the traditional accompaniment to Southeast Asian satés. There are probably as many individual recipes as there are street vendors. You might find this version — enriched with coconut milk — at a Thai saté stall."*
+
+✅ **2026-09-08 transcribed and verified against Cody's photograph of p. 476** — running head **SAUCES**, printed footer **476**. This sauce is the **left** column of a two-up page; [§4.191 Pindasaus](#4191-dutch-west-indian-peanut-sauce-pindasaus) is the right. Both columns were cropped and read separately at native resolution **specifically because this cookbook has repeatedly caught ingredients bleeding between facing columns** on two-up pages — nothing crossed over here, and each list is confirmed to belong to its own recipe.
+
+> 🔗 **This closes [§7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef)'s one open component.** That recipe calls for *"Thai Peanut Sauce (page 476)"* by name and by page, and has been carrying it as an untranscribed gap since it was added. **It is this recipe** — same book, same page number — and §7.75's ingredient line, its serving instructions, and its Open Questions now point here.
+
+> ⚠️ **Not the same recipe as [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce), which shares nearly the same name — checked 2026-09-08.** Both are Raichlen and both are peanut-and-coconut-milk saté sauces, so it's worth being precise about which is which. **§4.41 is from *How to Grill***: it **makes 2 cups**, starts by **caramelizing garlic, ginger and shallots in 2 Tbsp of oil** for 3 to 5 minutes, and takes **1½ cups** coconut milk, brown sugar, ground coriander and black pepper. **This one is from *The Barbecue! Bible***: it **makes 1 cup**, uses **no oil and no sautéing at all** — everything goes into a cold pan together — and takes **⅓ cup** coconut milk, **scallions** in place of the shallots, white sugar, and optional cilantro. **Neither is a duplicate of the other; keep both.** *(Handled the same way as the [§4.22](#422-mustard-sauce)/[§4.38](#438-mustard-sauce) "Mustard Sauce" pair.)* See also [§4.191](#4191-dutch-west-indian-peanut-sauce-pindasaus), the third peanut sauce in this cookbook, from the facing column of this very page.
+
+**ON THE SIDE · Makes about 1 cup**
+
+**🟢 Easy** · **Prep ~10 min** *(mincing the ginger, chiles, garlic and scallions; chopping the cilantro)* · **Cook ~10 min** *(a 5-to-10-minute uncovered simmer)* · **Start to finish ~20 min**
+
+> **Why Easy:** everything goes into one pan cold and gets simmered. There is no emulsion, no roux, and no browning stage to overshoot — the only thing to watch is that peanut butter sits heavy on the bottom of a pan, so keep it on **low** and stir. Even a sauce that's gone too thick is fixed in place with a splash more coconut milk, which is the recipe's own instruction.
+
+#### A. Ingredients
+
+- 2 tsp minced peeled fresh ginger
+- 1 to 2 Thai chiles, or serrano or jalapeño peppers, seeded and minced — *for a hotter sauce, leave the seeds in*
+- 1 clove garlic, minced
+- 2 scallions, both white and green parts, trimmed and minced
+- ⅓ cup chunky peanut butter
+- ⅓ cup coconut milk, canned or homemade *(source p. 522 — not transcribed here)*, **or more as needed**
+- 2 Tbsp Asian fish sauce or soy sauce, **or more to taste**
+- 1 Tbsp fresh lime juice, **or more to taste**
+- 2 tsp sugar, **or more to taste**
+- ¼ cup chopped fresh cilantro *(optional)*
+
+*Four of the ten lines say "or more to taste" — that isn't padding. Step 2 is a real seasoning step, and the sauce is meant to be adjusted after it's cooked, not before.*
+
+#### B. Cooking Instructions
+
+**1. Everything into one pan; boil, then simmer uncovered 5 to 10 minutes.**
+Combine the ginger, chiles, garlic, scallions, peanut butter, coconut milk, fish sauce, lime juice, sugar, and the cilantro if using in a **small, heavy saucepan**. Bring to a boil over **medium** heat, stirring to mix well, then reduce the heat to **low** and let it simmer, **uncovered**, until richly flavored, 5 to 10 minutes.
+
+*Heavy pan and low heat both matter here — peanut butter is thick enough to sit on the bottom and catch. **The finished texture should be thick but pourable; thin it with more coconut milk if it needs it.** Judge it hot: it will tighten further as it cools.*
+
+**2. Off the heat, taste and season hard.**
+Remove from the heat and taste for seasoning, adding more fish sauce, lime juice, and/or sugar as necessary. **The sauce should be highly seasoned.** *That's the source's own standard, and it's the whole point of a dipping sauce — it's tasted alone here but eaten a smear at a time on grilled meat, so what reads as too much in the spoon is about right on the plate. The three adjustments are salt, acid and sweet; move one at a time.*
+
+**3. Serve warm or at room temperature.**
+It keeps, **tightly covered in the refrigerator, for at least 3 days.** It thickens in the cold — let it come back toward room temperature and loosen it with a little coconut milk or water if you want it pourable again.
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong Market / Chinese market**
+
+- ☯️ Thai chiles — 1 to 2 *(the recipe's own substitutes, **serrano or jalapeño**, are 🛒 anywhere)*
+- ☯️ Asian fish sauce — 2 Tbsp *(soy sauce is the source's own alternate, and is 🛒; larger general groceries now carry fish sauce too)*
+
+**🛒 General grocery**
+
+- 🛒 Fresh ginger — for 2 tsp minced
+- 🛒 Garlic — 1 clove
+- 🛒 Scallions — 2
+- 🛒 Chunky peanut butter — ⅓ cup
+- 🛒 Coconut milk, canned, unsweetened — ⅓ cup, plus more for thinning *(buy the full can; you'll want the extra)*
+- 🛒 Lime — for 1 Tbsp juice
+- 🛒 Sugar — 2 tsp
+- 🛒 Fresh cilantro — ¼ cup chopped, optional
+
+#### Nutrition *(estimated)*
+
+*The page prints no nutrition numbers, so these are built from the ingredient list, with the optional cilantro included.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1 cup)* | ~720 | 60 g | 25 g | 31 g | 6 g |
+| **Per serving** *(2 Tbsp, of about 8)* | ~90 | 7.5 g | 3 g | 4 g | 0.7 g |
+
+**What a serving is:** **2 tablespoons — a small dipping bowl for one person**, the amount [§7.75 Lettuce Bundles](#775-lettuce-bundles-with-grilled-beef) divides among four. It's a dip, so this sits alongside the food rather than on it, and how much of the bowl actually gets eaten is up to the dipper. *The peanut butter is about two thirds of the calories and nearly all of the protein; the coconut milk is most of the rest of the fat.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.191 Dutch West Indian Peanut Sauce (Pindasaus)
+
+Transcribed from **Steven Raichlen's *The Barbecue! Bible*** — its *Sauces* chapter, **book p. 476**, headed **DUTCH WEST INDIES**. *"Tamarind lends a fruity tartness to this peanut sauce, a West Indian version of an Indonesian classic. The sauce is designed to be served with Dutch West Indian Chicken Kebabs (page 73), but it's great with any type of saté, as well as grilled chicken or seafood."*
+
+✅ **2026-09-08 transcribed and verified against Cody's photograph of p. 476** — running head **SAUCES**, printed footer **476**. This sauce is the **right** column of the same two-up page whose left column is [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce); the two lists were cropped and read separately at native resolution to rule out the column bleed this cookbook has caught elsewhere. Nothing crossed over. **Both "or more to taste" alternates on the sweet soy line — 2 Tbsp ketjap manis, *or* 1 Tbsp each regular soy sauce and molasses — are as printed.**
+
+> ⚠️ **Three peanut sauces now live in this cookbook, and they are three different recipes.** [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) is Raichlen's *How to Grill* version — sautéed aromatics, 1½ cups coconut milk, 2 cups yield. [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) is this book's Thai version — coconut milk, fish sauce, lime, 1 cup yield. **This one is the odd one out and the easiest to tell apart: there is no coconut milk in it at all.** Its liquid is **tamarind and water**, its sweetness is **ketjap manis**, its sourness is **distilled white vinegar** on top of the tamarind, and it starts with a **pounded paste** rather than a chopped one. It's the sharpest and darkest of the three. **Keep all three.**
+
+**ON THE SIDE · Makes about 2 cups**
+
+**🟢 Easy** · **Prep ~10 min** *(pounding or processing the onion, garlic and sambal to a paste)* · **Cook ~10 min** *(bring to a boil, then about a 5-minute uncovered simmer)* · **Start to finish ~20 min**
+
+> **Why Easy:** the same reasoning as [§4.190](#4190-thai-peanut-sauce) — one pan, no emulsion, no browning stage. The only real caution is the same one: **peanut butter sits on the bottom of a pan**, so keep it low and stir, and thin with water rather than pushing the heat.
+
+#### A. Ingredients
+
+- ¼ cup finely chopped onion
+- 1 clove garlic, minced
+- 1 tsp sambal ulek, or other chile paste or sauce
+- ¾ cup creamy peanut butter — *creamy here, not chunky as in [§4.190](#4190-thai-peanut-sauce)*
+- ¼ cup Tamarind Water *(source p. 241 — not transcribed here; see Open Questions)* **or** frozen tamarind puree, thawed
+- 2 Tbsp sweet soy sauce (**ketjap manis**), **or** 1 Tbsp each regular soy sauce and molasses, **or more to taste**
+- 2 Tbsp distilled white vinegar, **or more to taste**
+- **¾ cup water** — *printed only inside Step 1, never in the ingredient list; it is listed here so it doesn't get missed*
+
+> ☯️ **Ketjap manis is the one item that sends you to a Chinese market.** It's Indonesian sweet soy sauce — thick, black and syrupy, closer to molasses than to soy sauce, usually sold under the Indonesian spelling **kecap manis** (ABC is the common brand). **[§4.183 Ketjap Butter](#4183-ketjap-butter) is the other recipe in this cookbook built on it**, and its entry carries the fuller note on what the stuff is and where to find it — worth buying one bottle for both. **The source's own substitute is printed right in this ingredient line:** 1 Tbsp regular soy sauce plus 1 Tbsp molasses. *(§4.183's source gives a slightly different stand-in — equal parts soy sauce and molasses **plus ½ tsp ground coriander** — which is the same idea with a spice note added.)*
+
+#### B. Cooking Instructions
+
+**1. Pound the aromatics to a paste, then build the sauce on top of it.**
+Combine the onion, garlic, and sambal ulek in a **mortar** and pound to a smooth paste with a pestle. **If you don't have a mortar and pestle, combine all three in a food processor or blender and process to a smooth paste.** Transfer the paste to a **nonreactive** heavy saucepan and stir in the peanut butter, Tamarind Water, sweet soy sauce, vinegar, and **¾ cup of water**.
+
+*Nonreactive is not a throwaway word here — there's tamarind and straight vinegar in this pan, and a bare aluminum or unlined cast-iron pot will give the sauce a metallic edge. Stainless, enameled, or nonstick.*
+
+**2. Boil, then simmer uncovered about 5 minutes, until dark and well flavored.**
+Bring the mixture to a boil over **medium** heat, then reduce the heat to **low** and let it simmer, **uncovered**, until the sauce is **dark and well flavored, about 5 minutes**, adding more water as necessary to obtain a **thick but pourable** sauce. Remove from the heat and taste for seasoning, **adding more sweet soy sauce and/or vinegar as necessary; the sauce should be highly seasoned.**
+
+*Two dials, not three: **sweet soy for sweetness and depth, vinegar for sharpness.** The tamarind is already carrying a fruity sourness underneath both, which is what makes this version taste different from the coconut-milk ones.*
+
+**3. Serve warm or at room temperature.**
+It keeps, **tightly covered in the refrigerator, for at least 3 days.**
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong Market / Chinese market**
+
+- ☯️ Ketjap manis / kecap manis (Indonesian sweet soy sauce) — 2 Tbsp, one bottle *(shared with [§4.183 Ketjap Butter](#4183-ketjap-butter); the source's own substitute is 1 Tbsp soy sauce + 1 Tbsp molasses, both 🛒)*
+- ☯️ Sambal ulek / sambal oelek, or other chile paste — 1 tsp
+- ☯️ Frozen tamarind puree — ¼ cup *(or make the source's Tamarind Water, p. 241 — see Open Questions; tamarind is also sold as a block of pulp or as a jarred concentrate)*
+
+**🛒 General grocery**
+
+- 🛒 Onion — for ¼ cup finely chopped
+- 🛒 Garlic — 1 clove
+- 🛒 Creamy peanut butter — ¾ cup
+- 🛒 Distilled white vinegar — 2 Tbsp
+- 🛒 Molasses and soy sauce — **only if** you're substituting for the ketjap manis
+
+#### Nutrition *(estimated)*
+
+*The page prints no nutrition numbers, so these are built from the ingredient list, using canned/jarred tamarind and ketjap manis at typical label values.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~1,260 | 96 g | 49 g | 69 g | 11 g |
+| **Per serving** *(2 Tbsp, of about 16)* | ~80 | 6 g | 3 g | 4 g | 0.7 g |
+
+**What a serving is:** **2 tablespoons — a small dipping bowl for one person**, beside a couple of skewers. This batch is twice the size of [§4.190](#4190-thai-peanut-sauce)'s from three quarters of a cup more peanut butter, so it comes out slightly *lighter* per spoonful — the extra volume is water and tamarind, not fat. *The ¾ cup of peanut butter is about nine tenths of the calories and essentially all of the fat and protein; the ketjap manis is a third of the carbs.*
+
+#### D. Open Questions
+
+- **Tamarind Water, source p. 241 — named but not transcribed.** This recipe's ¼ cup of it is the source's own preparation, and that page has never been photographed. **Frozen tamarind puree, thawed, is the source's own printed alternate** and stands in exactly, so nothing here is unmakeable — the ingredient line gives both. Tracked in [§12](#12-recipes-to-document).
+- **Dutch West Indian Chicken Kebabs, source p. 73 — named but not transcribed.** The dish this sauce was written for, and not photographed. The headnote says the sauce is *"great with any type of saté, as well as grilled chicken or seafood,"* so it has plenty of company here already — [§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef) are all kebabs. Tracked in [§12](#12-recipes-to-document).
+- **Coconut Milk, source p. 522**, cited by [§4.190](#4190-thai-peanut-sauce) rather than by this recipe, is likewise not photographed — canned unsweetened coconut milk is what that recipe assumes anyway.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -28952,7 +29116,7 @@ Transcribed from the same **Steven Raichlen** book as [§7.68 Peruvian Beef Keba
 - 1 bunch fresh mint (optional), stemmed
 - 2 jalapeño peppers, seeded and thinly sliced (optional — for hotter lettuce bundles, leave the seeds in)
 - 1 head Boston or Bibb lettuce, separated into leaves, rinsed and spun dry
-- Thai Peanut Sauce (page 476)
+- [**Thai Peanut Sauce**](#4190-thai-peanut-sauce) — *now transcribed at [§4.190](#4190-thai-peanut-sauce), from this same book's p. 476*
 
 #### B. Cooking Instructions
 
@@ -28994,11 +29158,11 @@ To eat, wrap a strip of beef off its skewer, a forkful of noodles, some basil, a
 | **Per serving** *(appetizer, serves 4)* | ~410 | 16 g | 26 g | 39 g | 1.5 g |
 | **Per serving** *(main course, serves 2–3)* | ~550–825 | 22–33 g | 35–52 g | 52–78 g | 2–3 g |
 
-**What a serving is:** as an appetizer, about 6 lettuce bundles with noodles and beef; as a main course, closer to half the batch. Thai Peanut Sauce is tracked separately once transcribed, not folded in here.
+**What a serving is:** as an appetizer, about 6 lettuce bundles with noodles and beef; as a main course, closer to half the batch. The peanut sauce is tracked separately at [§4.190](#4190-thai-peanut-sauce) with its own Nutrition block, not folded in here — figure about **2 Tbsp per person**, which is one batch of §4.190 divided among the four bowls this recipe calls for.
 
 #### Open Questions
 
-- **Thai Peanut Sauce (page 476)**, the dipping sauce this dish is built around — not yet transcribed or in this cookbook.
+- ~~**Thai Peanut Sauce (page 476)**, the dipping sauce this dish is built around — not yet transcribed or in this cookbook.~~ ✅ **Closed 2026-09-08 — it is now [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce)**, transcribed from Cody's photograph of that exact page. Same book, same page number the recipe cites. Its batch makes about 1 cup, which divides neatly into the four small bowls this dish calls for.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -42018,6 +42182,9 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | **Tail of Poulet Sauté aux Herbes de Provence** *(the sauce's final buttering)* | ***Mastering the Art of French Cooking*, book p. 258 — not photographed.** **Recorded 2026-09-08.** Cody's photograph of **p. 257** carries the whole variation right up to *"Remove from heat and beat in"* — and stops there, mid-sentence, at the page break. The sentence finishes on p. 258. Almost certainly the **optional 2 or 3 Tbsp softened butter** listed in that step's own ingredient column, beaten in off heat like the other two sauces in [§7.58](#758-poulet-sauté-sautéed-chicken) — but that is a pattern-match, not printed text, and whatever else p. 258 says about pouring or serving is unknown. Flagged in place at §7.58 Section E, step 8. | 📷 Named — needs book p. 258 |
 | **Escalopes de Veau Chasseur** *(the method behind Poulet Sauté Chasseur)* | ***Mastering the Art of French Cooking*, book p. 368 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** [§7.58](#758-poulet-sauté-sautéed-chicken)'s **Poulet Sauté Chasseur** variation (source p. 256) is a single sentence that hands the whole sauce off to this veal-scallop recipe: *"use the same technique as for the veal scallops on page 368."* Nothing about the tomato-and-mushroom sauce itself is printed with the chicken, so §7.58 Section D records the variation by name and leaves the method open rather than inventing a chasseur. | 📷 Named — needs book p. 368 |
 | **Parsley Sauce** *(the creamy Irish one served with corned beef)* | ***Canal House Cooks Every Day*, the page facing book p. 338 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) names it twice — in its headnote (*"we serve our corned-beef dinner with a creamy Parsley Sauce (opposite page) as they do back in the Old Country"*) and in its final step — and the book's own overleaf caption photographs it beside the meat. Only the reference is printed on p. 338; the recipe itself is on the facing page. Stand in [§4.20 Meunière Sauce](#420-meunière-sauce) until it arrives. | 📷 Named — needs the page facing book p. 338 |
+| **Tamarind Water** | ***The Barbecue! Bible*, book p. 241 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** [§4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus) calls for **¼ cup** of it by page number, and that page is in no photographed batch. **This blocks nothing:** the recipe's own ingredient line prints **frozen tamarind puree, thawed** as an equal alternate, and §4.191 carries both. What's unknown is only Raichlen's own ratio of tamarind pulp to water and how he strains it. One photo of book p. 241 closes it. | 📷 Named — needs book p. 241 |
+| **Dutch West Indian Chicken Kebabs** | ***The Barbecue! Bible*, book p. 73 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** The dish [§4.191 Pindasaus](#4191-dutch-west-indian-peanut-sauce-pindasaus) was written for — its headnote says the sauce *"is designed to be served with Dutch West Indian Chicken Kebabs (page 73)."* **Nothing is unmakeable without it:** the same headnote says the sauce is *"great with any type of saté, as well as grilled chicken or seafood,"* and this cookbook already has eight kebabs at [§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef) to put it beside. One photo of book p. 73 closes it. | 📷 Named — needs book p. 73 |
+| **Coconut Milk** *(the source's homemade version)* | ***The Barbecue! Bible*, book p. 522 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** Cited by [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) as the alternate to canned. **Lowest-stakes gap in this table** — the recipe says *"canned or homemade,"* canned unsweetened coconut milk is what every other entry in this cookbook assumes, and [§4.41](#441-asian-peanut-sauce)'s own source note already gives a fallback (equal parts heavy cream and chicken broth). Recorded only so the reference isn't left dangling. | 📷 Named — needs book p. 522 |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.

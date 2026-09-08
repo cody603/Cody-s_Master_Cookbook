@@ -3616,9 +3616,9 @@ Combine all the ingredients in a mixing bowl and stir to mix — your hands work
 
 ### 4.28 Chinese Five-Spice Rub
 
-Transcribed from **Steven Raichlen's *How to Grill***. *"Rubs are primarily found in the West, but for a dry skillet over medium heat, a mixture of star anise, fennel seeds, and white peppercorns, cinnamon, and cloves. Called five-spice powder, the mix varies from chef to chef."*
+Transcribed from **Steven Raichlen's *How to Grill*, p. 442**. *"Rubs are primarily found in the West, but for centuries, the Chinese have used a fragrant mixture of star anise, fennel seeds, Sichuan and white peppercorns, cinnamon, and cloves to spice up their poultry and pork. Called five-spice powder, the mix varies from chef to chef and may include as few as four spices or as many as seven. To make a rub, I've added salt and brown sugar to a spice powder blend."*
 
-**Yield:** about ¾ cup — use 2 to 3 Tbsp per pound of meat (a 5 lb duck will take 1½ to 2 Tbsp)
+**Yield:** MAKES ABOUT ¾ CUP — use 2 to 3 tsp per pound of meat (a 5 lb duck will take 1½ to 2 Tbsp)
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min**
 
@@ -3631,14 +3631,13 @@ Transcribed from **Steven Raichlen's *How to Grill***. *"Rubs are primarily foun
 - 1 Tbsp white peppercorns
 - 1 Tbsp fennel seeds
 - ½ tsp whole cloves
-- ½ tsp cinnamon stick, broken up
+- ½ cinnamon stick
 
 **For the rub**
 
 - ¼ cup coarse salt
 - ¼ cup firmly packed brown sugar
-- ½ tsp cinnamon stick
-- ¼ cup five-spice powder *(above)*
+- *all of the five-spice powder above*
 
 #### B. Cooking Instructions
 
@@ -3646,7 +3645,9 @@ Transcribed from **Steven Raichlen's *How to Grill***. *"Rubs are primarily foun
 Preheat a dry skillet over medium heat. Add the star anise, Sichuan and white peppercorns, fennel seeds, cloves, and cinnamon and toast until fragrant, 2 to 4 minutes — don't overtoast, or the spices will be bitter. Transfer to a mortar and pestle or a spice mill and grind to a fine powder.
 
 **2. Combine with the salt and brown sugar.**
-Return the toasted spices to the bowl and mix in the salt and brown sugar. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+Return the toasted spices to the bowl and mix in the salt and brown sugar — the best tool for mixing is your fingers. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+
+✅ 2026-09-08 re-verified against Cody's photograph of *How to Grill* p. 442, and three things were corrected. The cinnamon is **½ a cinnamon stick**, not ½ tsp of broken-up stick. The rub half of the list is **only** coarse salt and brown sugar — the stray second "½ tsp cinnamon stick" and the "¼ cup five-spice powder" line were transcription artifacts; the whole batch of powder you just ground goes in, which is why the page doesn't measure it. And the dose is **2 to 3 teaspoons** per pound, not tablespoons — the old line contradicted its own 1½–2 Tbsp figure for a 5 lb duck. Headnote restored to the page's full text. Everything else — six five-spice lines, ¼ cup each of salt and brown sugar, the printed MAKES ABOUT ¾ CUP, and both steps — stands as written.
 
 #### C. Grocery Shopping List
 
@@ -3674,9 +3675,11 @@ Return the toasted spices to the bowl and mix in the salt and brown sugar. Store
 
 ### 4.29 Java Rub
 
-Transcribed from **Steven Raichlen's *How to Grill***. *"Coffee may seem like an odd ingredient for a rub, but its competitive que heads use it. The bittersweet flavor of coffee goes great on beef (especially brisket) and pork."*
+Transcribed from **Steven Raichlen's *How to Grill*, pp. 442–443**. *"Coffee may seem like an odd ingredient for a rub, but competition 'que heads use it and win big with it. The bittersweet flavor of the coffee rub goes great on beef (especially brisket) and pork."*
 
-**Yield:** about ¾ cup — use 2 to 3 tsp per pound of meat
+**Yield:** MAKES ABOUT ¾ CUP — use 2 to 3 tsp per pound of meat
+
+> **Per the source, for extra flavor:** start with the same quantity of **whole** peppercorns and cumin and coriander seeds and toast and grind them yourself, rather than using the ground versions below.
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
 
@@ -3685,14 +3688,13 @@ Transcribed from **Steven Raichlen's *How to Grill***. *"Coffee may seem like an
 - 6 Tbsp ground coffee
 - 2 Tbsp coarse salt
 - 2 Tbsp brown sugar
-- 2 tsp sweet paprika
+- 2 Tbsp sweet paprika
+- 2 tsp black pepper
 - 2 tsp garlic powder
 - 2 tsp onion powder
-- 2 tsp black pepper
-- 1 tsp lemon pepper *(see Note)*
+- 1 tsp ground cumin
+- 1 tsp ground coriander
 - 1 tsp unsweetened cocoa powder
-
-> **Note, per the source:** lemon pepper is exactly that — ground black peppercorns flavored with lemon zest. You can buy it at most supermarkets, order it by mail, or make your own super-fresh by tossing ground black pepper with fresh finely grated lemon zest.
 
 #### B. Cooking Instructions
 
@@ -3704,18 +3706,20 @@ Combine all the ingredients in a mixing bowl and stir to mix — your fingers wo
 **🛒 General grocery**
 
 - 🛒 Ground coffee — 6 Tbsp
-- 🛒 Coarse salt, brown sugar — 2 Tbsp each
-- 🛒 Sweet paprika, garlic powder, onion powder, black pepper — 2 tsp each
-- 🛒 Lemon pepper, unsweetened cocoa powder — 1 tsp each
+- 🛒 Coarse salt, brown sugar, sweet paprika — 2 Tbsp each
+- 🛒 Black pepper, garlic powder, onion powder — 2 tsp each
+- 🛒 Ground cumin, ground coriander, unsweetened cocoa powder — 1 tsp each
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** | ~135 | 2 g | 4 g | 30 g | 5 g |
-| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~10 | 0.2 g | 0.3 g | 2 g | 0.4 g |
+| **Whole batch** *(about ¾ cup)* | ~215 | 5 g | 6 g | 40 g | 9 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~15 | 0.3 g | 0.4 g | 3 g | 0.6 g |
 
 **What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+✅ 2026-09-08 re-verified against Cody's photograph of *How to Grill* pp. 442–443, and the list needed real repair. The **sweet paprika is 2 Tbsp**, not 2 tsp. **Ground cumin and ground coriander, 1 tsp each, were missing entirely.** And the **lemon pepper line does not belong to this rub at all** — it's [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub)'s, along with the source's lemon-pepper Note, which now sits there; the note printed here had also drifted from the page's own wording. Added in its place is the source's real extra-flavor tip: start with **whole** peppercorns, cumin, and coriander seeds and toast and grind them yourself. Yield confirmed as the printed MAKES ABOUT ¾ CUP; grocery list and nutrition rebuilt.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -3723,9 +3727,9 @@ Combine all the ingredients in a mixing bowl and stir to mix — your fingers wo
 
 ### 4.30 Mucho Macho Pepper Rub
 
-Transcribed from **Steven Raichlen's *How to Grill***. *"This rub gives it a good 'ouch' quotient. Exactly what you want when a chop calls for a spice mix that bites back."* Raichlen's own warning: this is a baby ouch, but you could certainly increase amounts and up the ante by adding more hot pepper flakes or black peppercorns.
+Transcribed from **Steven Raichlen's *How to Grill*, p. 443**. *"The peppercorns and pepper flakes in this rub give it a good 'ouch' quotient. This is exactly what you want when a steak or pork chop calls for a spice mix that bites back."* Raichlen's own warning: this is a baby ouch, but you could certainly up the ante by adding more hot pepper flakes or black peppercorns.
 
-**Yield:** about ¾ cup — use 2 to 3 tsp per pound of meat (a 4 lb chicken will take 1½ to 2 Tbsp)
+**Yield:** MAKES ABOUT ¾ CUP — use 2 to 3 tsp per pound of meat (a 4 lb chicken will take 1½ to 2 Tbsp)
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
 
@@ -3734,11 +3738,6 @@ Transcribed from **Steven Raichlen's *How to Grill***. *"This rub gives it a goo
 - 3 Tbsp coarse salt
 - 3 Tbsp cracked black peppercorns
 - 3 Tbsp hot red pepper flakes
-- 1 Tbsp dried tarragon
-- 3 Tbsp dried oregano
-- 3 Tbsp dried dill
-- 3 Tbsp dried rosemary
-- 3 Tbsp dried thyme
 - 3 Tbsp onion flakes
 - 3 Tbsp dried parsley
 
@@ -3752,17 +3751,18 @@ Combine all the ingredients in a mixing bowl and stir to mix. Store in an airtig
 **🛒 General grocery**
 
 - 🛒 Coarse salt, cracked black peppercorns, hot red pepper flakes — 3 Tbsp each
-- 🛒 Dried oregano, dill, rosemary, thyme, onion flakes, parsley — 3 Tbsp each
-- 🛒 Dried tarragon — 1 Tbsp
+- 🛒 Onion flakes, dried parsley — 3 Tbsp each
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** | ~330 | 10 g | 12 g | 55 g | 25 g |
-| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~10 | 0.3 g | 0.4 g | 2 g | 0.8 g |
+| **Whole batch** *(about ¾ cup)* | ~190 | 8 g | 7 g | 34 g | 15 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~13 | 0.5 g | 0.5 g | 2 g | 1 g |
 
 **What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
+
+✅ 2026-09-08 re-verified against Cody's photograph of *How to Grill* p. 443: **this rub is five lines, not ten.** Coarse salt, cracked black peppercorns, hot red pepper flakes, onion flakes, and dried parsley — 3 Tbsp of each, and that's the whole recipe. The five herb lines that had been sitting here (tarragon, oregano, dill, rosemary, thyme) belong to [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub), which shares the page with it and is where they now live; the two boxes had bled into each other in the original photograph. Yield confirmed as the printed MAKES ABOUT ¾ CUP, the 2–3 tsp per pound and 1½–2 Tbsp per 4 lb chicken doses confirmed, and the headnote restored to the page's own wording. Grocery list and nutrition rebuilt on the five-line recipe.
 
 [↑ Table of Contents](#table-of-contents)
 

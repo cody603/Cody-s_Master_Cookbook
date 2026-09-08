@@ -27819,6 +27819,10 @@ Cody's own dish, dictated directly — not from a photographed page. **A big sha
 
 > ✅ 2026-09-07 — **Pork TENDERLOIN now, not loin.** This entry was first dictated as a pork *loin* — Cody said "loin" explicitly at the time, and the entry carried a note insisting on it. On 2026-09-07 he changed it: *"let's make it pork tenderloin instead, not pork loin."* Everything below is rewritten for the tenderloin — a slim, very lean muscle about 1½ inches across, 1–1¼ lb each, so it takes three of them to match the old 3-lb roast. It's the same cut [§T14 How to Grill Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) grills; that entry is the alternative to this sous vide method, not a contrast to it.
 
+> ✅ **2026-09-08 — feta is settled, and the answer is no.** The open question was whether fresh feta belonged on this platter as a second spread alongside the goat cheese. Asked directly, Cody's answer was **"absolutely not."** **He prefers goat cheese, crumbled.** That closes it in the same direction as [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was already emphatic — *"crumbled goat cheese, not feta"* — so this is now a consistent house preference across the Mediterranean dishes, not a one-off. **No feta on this platter.**
+>
+> 🧀 **And a practical note from him about which goat cheese to buy.** Crumbled is what he likes; but **this platter's cheese gets spread across the plate, not crumbled over it** — so per Cody, if you're spreading it, **regular spreadable goat cheese may be both better and cheaper** than buying logs and beating them soft. It's the same cheese with the softening already done, it's usually the cheaper shelf, and it goes onto a big platter in one pass. Buy crumbles when crumbles are the point; buy the spreadable tub when you're making a bed. Step 8 is written both ways.
+
 > **Pork tenderloin is lean, and Cody was insistent that it needs help.** In his words: *"it needs fat. It needs help."* That's why fat goes into the bag with it — olive oil and butter — rather than relying on the cut to carry itself. A tenderloin has almost no intramuscular fat, so left alone it sous vides into something correct and dull.
 
 > ✅ 2026-09-07 per Cody ("use your judgment with regards to sous vide") — **cookbook judgment: 140°F for 1½ hours, window 1–4 hours.** Cody described the method (season, bag with fat, sous vide, sear, cube) but never named a temperature or a duration. The numbers are the standard from Serious Eats / Kenji López-Alt (*Sous Vide Pork Tenderloin*, https://www.seriouseats.com/sous-vide-pork-tenderloin-recipe) and Anova's guide (https://anovaculinary.com/pages/sous-vide-pork-tenderloin-guide, chart at https://recipes.anovaculinary.com/recipe/pork-tenderloin): 130°F is medium-rare and buttery, **140°F is medium — firm but tender, moderately juicy — and the default**, 150°F is medium-well; all with a 1–4 hour window. 140°F for an hour or more pasteurizes a 1½-inch tenderloin. **1½ hours is the target; don't run the full 4 on a slim tenderloin with fat in the bag** — past about 3 hours the texture goes soft. If the family wants no pink at all, 145°F.
@@ -27840,8 +27844,9 @@ Cody's own dish, dictated directly — not from a photographed page. **A big sha
 
 **The platter**
 
-- 16–20 oz goat cheese (two 8- to 10.5-oz logs), softened — for the bed at the bottom of the platter *(amount is cookbook judgment for Cody's "medium-thin layer across the bottom of the serving dish" — see Step 8)*
-- 2–3 Tbsp olive oil and a splash of milk, to loosen the goat cheese
+- 16–20 oz goat cheese — for the bed at the bottom of the platter. **Two ways to buy it:** **spreadable goat cheese in a tub** *(Cody's practical pick for this dish, since the bed is spread — usually cheaper than logs and already the right texture)*, **or** two 8- to 10.5-oz **logs**, softened on the counter. *(Amount is cookbook judgment for Cody's "medium-thin layer across the bottom of the serving dish" — see Step 8.)* **Never feta** — ✅ 2026-09-08, *"absolutely not."*
+- 2–3 Tbsp olive oil and a splash of milk, to loosen the goat cheese *(needed for logs; the spreadable tub may need little or none)*
+- **Optional — 2–3 oz crumbled goat cheese**, to scatter over the finished platter *(crumbled is Cody's stated preference for goat cheese; on this dish it's the finishing texture rather than the bed)*
 - 2 zucchini, cut into planks
 - 2 yellow squash, cut into planks
 - 2 onions, cut into thick rounds
@@ -27875,13 +27880,17 @@ Dry them thoroughly with paper towels — with oil and butter in the bag they co
 Rest briefly so the juice settles, then cut crosswise into inch-thick medallions and halve each one. Every cube now has a seared face and a juicy middle, and the pieces are small enough to eat off a shared platter by hand or with a fork.
 
 **8. Spread the goat cheese across the bottom of the platter — a medium-thin layer, the whole surface.**
-Beat the softened goat cheese with 2–3 Tbsp olive oil and a splash of milk until it spreads like a dip, then spread it edge to edge across the platter — **not dolloped**, and not a thick slab: per Cody, *"enough to spread a medium-thin layer at the bottom of your serving dish."* On a big 18-by-12-inch platter that's about ⅛ inch deep, which is what 16–20 oz gives you. This is the base the entire dish is assembled on.
+**If you bought the spreadable tub**, it's ready — loosen it with a spoonful of olive oil only if it's stiff. **If you bought logs**, beat the softened cheese with 2–3 Tbsp olive oil and a splash of milk until it spreads like a dip. Either way, spread it edge to edge across the platter — **not dolloped**, and not a thick slab: per Cody, *"enough to spread a medium-thin layer at the bottom of your serving dish."* On a big 18-by-12-inch platter that's about ⅛ inch deep, which is what 16–20 oz gives you. This is the base the entire dish is assembled on.
+
+*✅ 2026-09-08 — **the cheese is goat, and only goat.** Cody was asked whether fresh feta should join it here and said **absolutely not**; he prefers goat cheese, crumbled. Since this particular layer is spread rather than crumbled, he pointed out the practical shortcut: **regular spreadable goat cheese is likely both better and cheaper for a bed** than buying two logs and working them soft. If you want his preferred crumbled texture in the dish anyway, keep it for the top — see step 10.*
 
 **9. Pile the hot cubes straight onto the goat cheese.**
 This is the move that makes the dish. **The residual heat from the meat warms the cheese from above** — it goes soft and lukewarm and half-melted, and starts behaving like a sauce rather than a garnish. Cody's own description: it *"kind of almost melts."* Don't let the meat cool first; the heat is doing real work here.
 
 **10. Arrange the grilled vegetables around the meat, add hummus and naan, and serve.**
 Grilled zucchini, squash, onions, and tomatoes around the edges, with **[§9.21 hummus and warm garlic naan](#921-dressed-up-hummus-with-garlic-naan)** alongside, and a **[§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese)** if you're making the full meal. Serve it as one big communal platter — that's the format the dish is designed around.
+
+*Optional finish: scatter 2–3 oz of **crumbled goat cheese** over the top of the meat. Crumbled is the form Cody likes goat cheese in, and it does something the melted bed can't — it stays in distinct cool, tangy pieces against the hot pork instead of going soft. **No feta**, here or anywhere on this platter.*
 
 #### C. The Chicken Version
 
@@ -27907,8 +27916,9 @@ Everything above holds, with these changes:
 **🛒 General grocery**
 
 - 🛒 **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** — international aisle or Eastern European market
-- 🛒 Goat cheese — **16–20 oz (two logs)** for the platter bed
-- 🛒 Milk — a splash, to loosen the cheese
+- 🛒 Goat cheese — **16–20 oz for the platter bed**. *Buy the **spreadable tub** if you can find it — per Cody, for a spread layer it's likely better and cheaper than logs. Two 8- to 10.5-oz logs are the fallback.* **Not feta.**
+- 🛒 Goat cheese, **crumbled** — 2–3 oz *(optional, to scatter over the top; crumbled is Cody's preferred form)*
+- 🛒 Milk — a splash, to loosen the cheese *(only if you're using logs)*
 - 🛒 Garlic — 4–6 cloves
 - 🛒 Zucchini — 2
 - 🛒 Yellow squash — 2
@@ -27926,14 +27936,15 @@ Everything above holds, with these changes:
 
 **What a serving is:** a loaded plate off the platter — roughly 5 oz of seared pork, a good smear of the goat cheese underneath (about 3 oz — it's a big bed now), and a share of the grilled vegetables.
 
-*Covers the pork, the platter's goat cheese, and the grilled vegetables only. **The hummus and naan are counted in [§9.21](#921-dressed-up-hummus-with-garlic-naan)** and the salad in [§5.23](#523-greek-salad-with-crumbled-goat-cheese), so they aren't double-counted here. Most of the olive oil and butter in the sous vide bags stays in the bags and is not counted as eaten. The goat cheese went from 8 oz to 16–20 oz on 2026-09-07 and is now the biggest single line — about 1,850 of the calories; if a third of the bed is left on the platter, knock roughly 100 calories off each serving.*
+*Covers the pork, the platter's goat cheese, and the grilled vegetables only. **The hummus and naan are counted in [§9.21](#921-dressed-up-hummus-with-garlic-naan)** and the salad in [§5.23](#523-greek-salad-with-crumbled-goat-cheese), so they aren't double-counted here. Most of the olive oil and butter in the sous vide bags stays in the bags and is not counted as eaten. The goat cheese went from 8 oz to 16–20 oz on 2026-09-07 and is now the biggest single line — about 1,850 of the calories; if a third of the bed is left on the platter, knock roughly 100 calories off each serving. **The optional 2–3 oz of crumbled goat cheese on top is not counted** — it adds roughly 260 calories to the dish, about 45 per serving, if you use it.*
 
 #### E. Open Questions
 
 - ✅ 2026-09-07 per Cody ("use your judgment with regards to sous vide") — **140°F for 1½ hours (1–4 hr window)**, cookbook judgment from Serious Eats / Kenji and Anova, cited in the note above. Seared whole rather than as medallions for the same reason.
 - ✅ 2026-09-07 per Cody — **the stuffed-goat-cheese option is dropped**; there's no pocket to cut in a tenderloin. All the cheese is the bed: **16–20 oz for a medium-thin layer**, cookbook judgment sized to a large platter from Cody's description.
 - ✅ 2026-09-07 per Cody — **tenderloin, not loin.** Reversed from the original dictation; dated note above.
-- ✅ 2026-09-07 per Cody — **the Vegeta also goes on the naan**, a little, with olive oil, on the grill. The broken-off passage in the original dictation was about the naan; it's written into [§9.21](#921-dressed-up-hummus-with-garlic-naan) Step 4. Feta as a second spread is still only a wish (see §9.21's Open Questions).
+- ✅ **2026-09-08 per Cody — no feta on this platter. "Absolutely not."** He prefers **goat cheese, crumbled**. The old wish for a second, feta spread (carried at [§9.21](#921-dressed-up-hummus-with-garlic-naan)) is closed against. Also recorded: because the bed here is *spread* rather than crumbled, **regular spreadable goat cheese may be both better and cheaper** than logs — written into the ingredients, step 8, and the grocery list, with crumbled goat cheese offered as an optional finish at step 10.
+- ✅ 2026-09-07 per Cody — **the Vegeta also goes on the naan**, a little, with olive oil, on the grill. The broken-off passage in the original dictation was about the naan; it's written into [§9.21](#921-dressed-up-hummus-with-garlic-naan) Step 4.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40211,7 +40222,7 @@ Brush each piece with olive oil, rub it with garlic — smashed cloves, or garli
 #### D. Open Questions
 
 - ✅ 2026-09-07 per Cody: **Vegeta goes on the naan** — a little, with olive oil, and the naan is thrown on the grill. Written into Step 4, the ingredients, and the grocery list. *(The Nutrition block picked up about 1 Tbsp of brushing oil — +120 cal across the dish.)*
-- **Fresh feta on the platter.** Cody mentions wishing for fresh feta and says it can be found — it may belong on the [§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) platter as an additional spread alongside the goat cheese. Noted rather than assumed. *(Distinct from [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was explicit that feta is **not** wanted.)*
+- ✅ **2026-09-08 — the fresh-feta question is closed, and the answer is no.** The old note here wondered whether the fresh feta Cody once mentioned belonged on the [§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) platter as a second spread beside the goat cheese. Asked directly, he said **"absolutely not"** — he prefers **goat cheese, crumbled**. That matches [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese), where he was already emphatic, so **no feta** is now the house position across these dishes. He added the practical footnote that for a *spread* layer, ordinary spreadable goat cheese is likely better and cheaper than logs; that's written up at [§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared).
 
 [↑ Table of Contents](#table-of-contents)
 

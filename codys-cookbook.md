@@ -2537,7 +2537,9 @@ Or as soon as possible, holding it somewhere warm — on top of the stove is Pru
 
 ### 4.10 New Orleans Béarnaise Sauce
 
-Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Sauces & Gravies*, right after Hollandaise). A white-wine-and-tarragon reduction stirred into warm [§4.9 Hollandaise](#49-hollandaise-sauce) — the classic Béarnaise move, Prudhomme's own version of it.
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (**p. 261**, *Sauces & Gravies*, right after Hollandaise). A white-wine-and-tarragon reduction stirred into warm [§4.9 Hollandaise](#49-hollandaise-sauce) — the classic Béarnaise move, Prudhomme's own version of it.
+
+✅ **2026-09-08 verified/corrected against Cody's photograph of p. 261** — running head *Sauces & Gravies*, printed footer **261**, legible this time. **The page number is settled: it is p. 261**, and the entry is now cited that way; the standing Open Question about an illegible page number is closed. All three quantities are correct as written — 3 Tbsp white wine, 1 tsp dried tarragon leaves, ½ tsp very finely chopped fresh parsley (optional) — the yield is **about 2⅔ cups**, and the reduction runs **about 2 minutes** over high heat, stirring occasionally. The page cites its hollandaise as "page 258," which matches [§4.9](#49-hollandaise-sauce).
 
 > **This is the third and last of the sauces [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) named as missing.** With this, all three — [§4.8 Shrimp and Crab Butter Cream](#48-shrimp-and-crab-butter-cream-sauce), [§4.9 Hollandaise](#49-hollandaise-sauce), and this one — are now in the cookbook.
 
@@ -2582,7 +2584,7 @@ Don't let either component sit and cool separately first — combine and serve r
 
 #### D. Open Questions
 
-- **Exact page number wasn't legible in the photo** — this recipe follows Hollandaise directly in the *Sauces & Gravies* chapter and references it as "page 258," but its own page number (likely 260 or so) wasn't visible. Worth confirming against [§7.3](#73-seafood-stuffed-flounder)'s card, which cited "page 306" for Béarnaise — that may be a different edition's pagination, or a different section of the same book.
+- ~~**Exact page number wasn't legible in the photo** — this recipe follows Hollandaise directly in the *Sauces & Gravies* chapter and references it as "page 258," but its own page number (likely 260 or so) wasn't visible.~~ **Settled 2026-09-08 — it is p. 261.** Cody's photograph of that page carries a clean printed footer. The earlier guess of "260 or so" was one page short: p. 260 is the tail of [§4.9 Hollandaise](#49-hollandaise-sauce), and 261 carries both this sauce and [§4.11 Choron](#411-choron-sauce). **[§7.3](#73-seafood-stuffed-flounder)'s card citing "page 306" for Béarnaise is therefore not this book's pagination** — a different edition, or a misremembered number on the card; the recipe itself is the same one, and §7.3 points here.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2590,7 +2592,9 @@ Don't let either component sit and cool separately first — combine and serve r
 
 ### 4.11 Choron Sauce
 
-Transcribed from the same page as [§4.10](#410-new-orleans-béarnaise-sauce) — **Choron is Béarnaise's tomato cousin**, both built the same way: reduce something on the stove, stir it into warm [§4.9 Hollandaise](#49-hollandaise-sauce).
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (**p. 261**), the same page as [§4.10](#410-new-orleans-béarnaise-sauce) — **Choron is Béarnaise's tomato cousin**, both built the same way: reduce something on the stove, stir it into warm [§4.9 Hollandaise](#49-hollandaise-sauce).
+
+✅ **2026-09-08 verified/corrected against Cody's photograph of p. 261** — running head *Sauces & Gravies*, printed footer **261**, with this recipe in the lower half of the page under [§4.10](#410-new-orleans-béarnaise-sauce). Yield **about 3 cups** and the one quantity — **¾ cup peeled and finely chopped tomatoes** — both confirmed, as is the 1-quart saucepan, medium heat, and **8 to 10 minutes**. **One word restored to the method: the tomatoes cook until *tender* and very little liquid remains** — this entry had only the liquid half of the doneness cue.
 
 **Yield:** about 3 cups
 
@@ -2604,7 +2608,7 @@ Transcribed from the same page as [§4.10](#410-new-orleans-béarnaise-sauce) �
 #### B. Cooking Instructions
 
 **1. Cook the tomatoes down. 8–10 minutes.**
-In a 1-quart saucepan over medium heat, cook the chopped tomatoes, stirring frequently, until **very little liquid remains**.
+In a 1-quart saucepan over medium heat, cook the chopped tomatoes, stirring frequently, until they are **tender and very little liquid remains**. *Both halves of that cue matter — tender is the texture, and the near-dry pan is what keeps the tomatoes from thinning the hollandaise when they go in.*
 
 **2. Stir into the warm hollandaise and serve immediately.**
 

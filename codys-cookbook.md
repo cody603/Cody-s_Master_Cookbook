@@ -3766,52 +3766,49 @@ Combine all the ingredients in a mixing bowl and stir to mix. Store in an airtig
 
 ### 4.31 Mediterranean Herb Rub
 
-Transcribed from **Steven Raichlen's *How to Grill***. *"French* herbes de Provence *meet Kansas City barbecue rub in this fragrant seasoning, which tastes terrific on lamb, chicken, and seafood."*
+Transcribed from **Steven Raichlen's *How to Grill*, p. 443**. *"French* herbes de Provence *meet Kansas City barbecue rub in this fragrant seasoning, which tastes terrific on lamb, chicken, and seafood."*
 
-**Yield:** about 1 cup — use 2 to 3 tsp per pound of meat (a 4 lb chicken will take 1½ to 2 Tbsp)
+**Yield:** MAKES ABOUT 1 CUP — use 2 to 3 tsp per pound of meat (a 4 lb chicken will take 1½ to 2 Tbsp)
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min**
 
 #### A. Ingredients
 
-- 6 Tbsp ground coriander
-- 2 Tbsp ground cumin
-- 2 Tbsp sweet paprika
-- 2 Tbsp coarse salt
-- 2 tsp black pepper
-- 2 tsp garlic powder
-- 2 tsp onion powder
-- 1 tsp ground cumin *(second addition)*
-- 1 tsp ground coriander *(second addition)*
-- 1 tsp unsweetened cocoa powder
+- 3 Tbsp dried tarragon
+- 3 Tbsp dried oregano
+- 3 Tbsp dried dill
+- 3 Tbsp dried thyme
+- 3 Tbsp dried rosemary
+- 3 Tbsp coarse salt
+- 2 Tbsp lemon pepper *(see Note)*
+- 1 Tbsp garlic flakes
+
+> **Note, per the source:** lemon pepper is exactly that — ground black peppercorns flavored with lemon zest. You can buy it at most supermarkets, order it by mail, or make your own following the recipe in Raichlen's *Barbecue! Bible Sauces, Rubs, and Marinades*.
 
 #### B. Cooking Instructions
 
 **1. Combine and store.**
-Combine all the ingredients in a mixing bowl and stir to mix — your fingers work better for mixing than a spoon or whisk does. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
+Combine all the ingredients in a mixing bowl and stir to mix. Your fingers actually work better for mixing than a spoon or whisk does — five different dried herbs at 3 Tbsp each are bulky and clumpy, and fingers break the clumps up instead of pushing them around. Store the rub in an airtight jar away from heat and light; it will keep for at least 6 months.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Ground coriander — 6 Tbsp, plus 1 tsp
-- 🛒 Ground cumin — 2 Tbsp, plus 1 tsp
-- 🛒 Sweet paprika, coarse salt — 2 Tbsp each
-- 🛒 Black pepper, garlic powder, onion powder — 2 tsp each
-- 🛒 Unsweetened cocoa powder — 1 tsp
+- 🛒 Dried tarragon, dried oregano, dried dill, dried thyme, dried rosemary — 3 Tbsp each
+- 🛒 Coarse salt — 3 Tbsp
+- 🛒 Lemon pepper — 2 Tbsp
+- 🛒 Garlic flakes — 1 Tbsp
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** | ~250 | 10 g | 10 g | 40 g | 20 g |
-| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~10 | 0.4 g | 0.4 g | 1.6 g | 0.8 g |
+| **Whole batch** *(about 1 cup)* | ~175 | 4 g | 8 g | 39 g | 17 g |
+| **Per use** *(2–3 tsp, seasons about 1 lb of meat)* | ~9 | 0.2 g | 0.4 g | 2 g | 0.9 g |
 
 **What a serving is:** most of a dry rub stays on the meat's surface rather than being fully consumed — figures above are for the full amount applied, an upper bound.
 
-#### D. Open Questions
-
-- The source's own recipe box for this rub was partially obscured in the photograph — the ingredient list above is reconstructed from what's legible and may not match the source's exact proportions. Worth a clean re-photo of page 442–443 to confirm.
+✅ 2026-09-08 closed from Cody's photograph of *How to Grill* p. 443: the recipe box that was obscured before is now readable end to end, and **the entire ingredient list is replaced.** What stood here was not this rub at all — it was a copy of [§4.29 Java Rub](#429-java-rub)'s list (coffee-rub spices, cocoa powder, two "second addition" lines that don't exist in print). The real rub is eight lines: five dried herbs and coarse salt at **3 Tbsp each**, then **2 Tbsp lemon pepper** and **1 Tbsp garlic flakes**, which run over to the top of the next column — which is exactly why the box read as truncated. Yield confirmed as the page's printed **MAKES ABOUT 1 CUP**, the 2–3 tsp per pound and 1½–2 Tbsp per 4 lb chicken doses confirmed, and the source's **lemon-pepper Note** captured for the first time. Grocery list and nutrition rebuilt on the real list; the Open Question is closed.
 
 [↑ Table of Contents](#table-of-contents)
 

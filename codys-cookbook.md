@@ -2430,7 +2430,9 @@ The source serves it over **Stuffed Mirliton** (p. 72 — *[mirliton is chayote;
 
 ### 4.9 Hollandaise Sauce
 
-Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 258–259, *Sauces & Gravies*). The classic egg-yolk-and-butter emulsion, with Prudhomme's own distinctive handling: the melted butter gets **separated into surface butterfat and bottom solids**, and the two go in at different stages for different jobs.
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (pp. 258–260, *Sauces & Gravies*). The classic egg-yolk-and-butter emulsion, with Prudhomme's own distinctive handling: the melted butter gets **separated into surface butterfat and bottom solids**, and the two go in at different stages for different jobs.
+
+✅ **2026-09-08 verified/corrected against Cody's photographs of pp. 258, 259 and 260** — p. 258 confirmed by its printed footer and the title block, pp. 259 and 260 by their running heads (*Sauces & Gravies* and *Chef Paul Prudhomme's Louisiana Kitchen*) with 259's footer visible. **All seven quantities are correct as written** — 1 lb unsalted butter, 4 Tbsp margarine, 4 egg yolks, 2 tsp white wine, 2 tsp lemon juice, ½ tsp Tabasco, ½ tsp Worcestershire — as are every timing and measure in the method: cool **5 minutes**, whip **6 to 8 minutes**, ladle **¼ cup** at a time to **about 1 cup**, reserve **½ cup**, add all but **⅓ cup** of the solids. **One correction: the page range was wrong** — this recipe runs 258 through **260**, not 258–259; the butterfat-and-solids finish is all on p. 260.
 
 > **This is the second of the three sauces [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) calls for.** With [§4.8](#48-shrimp-and-crab-butter-cream-sauce) already written up, only **Béarnaise (p. 306)** is still missing. The source also serves this over its Roasted Goose with stuffing (p. 148), which isn't in this cookbook.
 
@@ -2455,6 +2457,8 @@ Worth reading first; it makes every instruction below make sense. In his words, 
 - **The target is body temperature.** That's the whole balance.
 
 *He also specifically recommends **unsalted** butter for this sauce and all its variations — simply because it's the better product. That matches [§T3](#t3-butter-oil-pan-frying--frying)'s standing rule.*
+
+> ⚠️ **Raw-yolk safety — cookbook judgment, not printed on the page.** The source says nothing about egg safety, and the standard it was written to is not today's. **These yolks never get fully cooked.** Six to eight minutes over simmering water brings them somewhere near 150–160°F at best, and then all further heat is forbidden — that's the whole point of the method. **Anyone in the higher-risk groups — pregnant, very young, elderly, or immune-compromised — should use pasteurized eggs or pasteurized yolks here**, which behave the same way in the bowl. For everyone else, use the freshest eggs you can, keep them refrigerated until they go in, and **serve the sauce within the hour** — this is not a sauce to make ahead, hold on a counter, or reheat, which happens to be exactly what the emulsion needs anyway. *(Recorded as this cookbook's judgment per [CLAUDE.md](CLAUDE.md)'s standing rule that a fill be labeled as such, so it never passes as something the page printed.)*
 
 #### B. Ingredients
 

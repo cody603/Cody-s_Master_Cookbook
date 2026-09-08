@@ -13661,7 +13661,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T32](#t32-how-to-use-heat) | How to Use Heat | `heat` `temperature` `doneness` `maillard` `browning` `crispy` `searing` `simmering` `frying` `roasting` `internal-temp` `carryover` |
 | [T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) | How Meat Actually Cooks — Conduction, Carryover, and Why Resting Is a Myth | `meathead` `conduction` `carryover` `resting` `stall` `myth` `internal-temp` `meat-science` |
 | [T34](#t34-two-zone-fire-setup) | Two-Zone Fire Setup | `meathead` `two-zone` `direct-heat` `indirect-heat` `grilling` `searing` `lid` |
-| [T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) | Smoke Science — Combustion, the Smoke Ring, and Getting Blue Smoke | `meathead` `smoke` `smoke-ring` `wood` `creosote` `blue-smoke` `combustion` `myth` |
+| [T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) | Smoke Science — Combustion, the Smoke Ring, and Getting Blue Smoke *(+ **Cody's rule — don't overload the pit with wood**)* | `meathead` `smoke` `smoke-ring` `wood` `creosote` `blue-smoke` `combustion` `myth` `cody` |
 | [T36](#t36-what-meat-actually-is--composition-connective-tissue-and-buying-it-right) | What Meat Actually Is — Composition, Connective Tissue, and Buying It Right | `meathead` `meat-science` `connective-tissue` `collagen` `myoglobin` `marbling` `buying-meat` `tenderizing` |
 | [T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) | Salt, Brining, and the Dry Brine — Cody's Standing Practice: Heavy, Every Time | `meathead` `salt` `dry-brine` `wet-brine` `juiciness` `myth` `roberts-way` |
 | [T38](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) | Rubs, Injecting, and Marinades — How Deep Each One Actually Goes | `meathead` `rub` `injection` `marinade` `myth` |
@@ -15150,7 +15150,7 @@ When new (up to about 4 months), rinse before using, and use both rind and flesh
 
 <!-- TECHNIQUE-TAGS: ribs, marinade, dry-brine, smoking, formula -->
 **Tags:** `ribs` · `marinade` · `dry-brine` · `formula` · `smoking`
-**Source:** Cody's own method, dictated directly — not from a photographed page. Feeds [§6.5 Smoked Ribs](#65-smoked-ribs).
+**Source:** Cody's own method, dictated directly — not from a photographed page. Feeds [§6.5 Smoked Ribs](#65-smoked-ribs). **Companion rule for the fire itself:** a couple of chunks of wood, about a palmful, and no more — [§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke).
 
 Cody runs one of two preps before ribs go in the smoker, and picks whichever fits the day: a **dry brine** (salt and fridge — easier, less to think about) or a **wet marinade** (apple cider vinegar and fresh lemon juice, 6 hours to overnight). Both are here as a formula rather than a fixed recipe, since the real variable is how many racks are going on the smoker that day — sometimes 4, sometimes 6 or 7.
 
@@ -16625,8 +16625,8 @@ Fire on one side (direct radiant heat), nothing under the other side (indirect c
 
 <!-- TECHNIQUE-TAGS: meathead, smoke, smoke-ring, wood, creosote, blue-smoke, combustion, myth -->
 **Tags:** `meathead` · `smoke` · `smoke-ring` · `wood` · `creosote` · `blue-smoke` · `combustion` · `myth`
-**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — dictated by Cody.
-**Used in:** every smoked entry in this cookbook — [§6.2 Pulled Pork](#62-pulled-pork) *(wood chips)*, [§6.7 Texas-Style Barbecued Brisket](#67-texas-style-barbecued-brisket), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) *(hickory)*, and every future entry under the still-mostly-placeholder [§6 Smoked Meats](#6-smoked-meats) or [§13 Meathead Cookbook](#13-meathead-cookbook).
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — dictated by Cody. **One section at the end is Cody's own and is labeled as such: *Cody's rule — don't overload the pit with wood*.**
+**Used in:** every smoked entry in this cookbook — [§6.2 Pulled Pork](#62-pulled-pork) *(wood chips)*, [§6.7 Texas-Style Barbecued Brisket](#67-texas-style-barbecued-brisket), [§6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) *(hickory)*, and every future entry under the still-mostly-placeholder [§6 Smoked Meats](#6-smoked-meats) or [§13 Meathead Cookbook](#13-meathead-cookbook). **Cody's own wood rule at the bottom of this entry governs everything *he* smokes** — [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) and [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) today, and [§6.1](#61-smoked-brisket), [§6.3](#63-smoked-whole-hen), [§6.4](#64-smoked-steak) and [§6.5](#65-smoked-ribs) as they get written up.
 
 #### What smoke actually is
 
@@ -16693,6 +16693,22 @@ Use **hardwoods, fruitwoods, and nutwoods** — their dense cell structure burns
 **Chips flaming up is actually fine, not a problem to panic over** — flames mean clean combustion and blue smoke; you'll just burn through wood faster and risk a temperature spike. To control it, wrap chips in heavy foil poked with holes, use a small perforated pan, or a cast iron skillet.
 
 **The "smoke bomb" trick for long cooks you can't easily reach under the grate:** set out two foil pans of dry wood chips, and cover just one of them with water. The dry pan starts smoking immediately; about 15 minutes after it burns out, the second, previously-wet pan has dried out from the ambient heat and takes over — giving you a second wave of smoke without having to open the cooker.
+
+#### Cody's rule — don't overload the pit with wood
+
+*Everything above this heading is Meathead's. This part is **Cody's own practice**, dictated 2026-09-08, and he called it **"the tip of the day."***
+
+> 🪵 **Do not put too much raw wood in the pit. Only a couple of chunks — about a handful, the size that fits in the palm of your hand.**
+>
+> That's the whole rule, and it's a small enough amount that most people won't believe it until they've overshot once. **Any more than a palmful and it genuinely tastes too smoky** — not richer, not deeper, just too smoky, in a way that doesn't cook back out. Cody is emphatic that this is a real failure mode and not a theoretical one, because he didn't believe it either: *"I used to not think that was a possibility, but it is."*
+>
+> **Why it works, in this entry's own terms.** It's the *"more smoke is better"* myth, busted above, arriving as a practical number. **Smoke flavor is only about ⅛ inch deep** no matter how long the cook runs, so past the point where the surface has taken what it can, more wood isn't buying depth — it's just laying on more of the acrid, heavy end of the smoke. A small fire with a couple of chunks makes the thin blue smoke you want; a firebox packed with wood smolders, and smoldering is what makes the dirty white stuff.
+>
+> **He sits at the bottom of the book's own range, deliberately.** Meathead's rough amounts above run 4–6 oz for chicken or turkey, 8 oz for ribs, and up to 16 oz for pulled pork or brisket. A couple of chunks is roughly **4 to 8 oz** — so even on a twelve-hour pork butt, Cody is running the low end of that scale rather than the high end, and getting the result he wants.
+>
+> **This was already his practice before he said it out loud.** [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) has read **"one hickory chunk. One."** since it was written — the same rule, stated for the cut where the margin is narrowest, because wings are small, thin, and skin-heavy and take on smoke fast. The rule was implicit across his cooking all along; it's now stated once, here, and it applies to everything he smokes.
+>
+> **Where it applies:** [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) *(pecan; hickory works)* · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) *(one hickory chunk)* · [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak) · [§6.5 Smoked Ribs](#65-smoked-ribs) *(prep at [§T22](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method))* — the four placeholders inherit it the moment they're written up, so the wood question in each is already half-answered.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -22342,6 +22358,8 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 ### 6.1 Smoked Brisket
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **What's still needed is Cody's own smoking method** — wood, temp, wrap or no wrap, time and doneness cues. He's said there are several ways he does it and he'll walk through them later.
 >
+> **One piece of the fire is already answered:** *how much* wood. Cody's standing rule is **a couple of chunks, about a palmful, and no more** — [§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke). Only the species, the temperature, the wrap and the timing are still open.
+>
 > **Partly unblocked, though: the rub and the dry brine can come from [§6.7 Texas-Style Barbecued Brisket](#67-texas-style-barbecued-brisket).** Cody read that recipe's seasoning and 4–8 hour cure and signed off on both — *"the seasoning and letting it dry brine is OK, it's all real good"* — while noting his smoking technique differs. So §6.7's Steps 1–2 are usable here today; only the fire is still open.
 
 **❤️ Family favorite** — *Cody: "Awesome."*
@@ -22446,21 +22464,21 @@ Mound the pork on hamburger buns — or, per the source's own Carolina tradition
 [↑ Table of Contents](#table-of-contents)
 
 ### 6.3 Smoked Whole Hen
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **The wood amount is already settled by Cody's standing rule — a couple of chunks, about a palmful, and no more** ([§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)), which matters more on a bird than on anything else, since poultry takes smoke fast.
 >
 > ⚠️ **Possible naming mix-up, flagged rather than silently corrected.** When rating this section Cody said *"smoked ham, smoked steak, perfect"* — but this stub has always read **hen**. Those are different animals, and it's worth settling which one he meant: is §6.3 a smoked whole chicken/hen, a smoked ham, or are both worth their own entry? The ❤️ below is recorded against whichever he was actually rating.
 
 **❤️ Family favorite** — *Cody: "Perfect."*
 
 ### 6.4 Smoked Steak
-> *Placeholder — details forthcoming.* Separate from [§3 Darcy's Steak](#3-darcys-steak), which is its own method. [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) may apply here too. Ingredients · Instructions · Grocery list all to be documented.
+> *Placeholder — details forthcoming.* Separate from [§3 Darcy's Steak](#3-darcys-steak), which is its own method. [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) may apply here too. Ingredients · Instructions · Grocery list all to be documented. **Whatever the fire turns out to be, the wood amount is Cody's standing rule: a couple of chunks, about a palmful, and no more** — [§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke).
 >
 > **Worth knowing when this gets written up:** Cody's stated ideal for steak is **sous vide, not grilled** — *"to me, the perfect steak is sous vide"* — documented at [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method). That doesn't rule out a smoked steak, but it does mean this entry should be his smoker method specifically, rather than a general "best way to cook a steak."
 
 **❤️ Family favorite** — *Cody: "Perfect."*
 
 ### 6.5 Smoked Ribs
-> *Placeholder — details forthcoming.* The marinade step is documented at **[§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)** — dry brine or apple cider vinegar and lemon juice, scaled by rack count. **Still needed to complete this recipe:** the rub (if any, beyond or instead of the dry brine), wood choice, smoker temp, and time/doneness cues. Ingredients · Instructions · Grocery list all to be documented.
+> *Placeholder — details forthcoming.* The marinade step is documented at **[§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method)** — dry brine or apple cider vinegar and lemon juice, scaled by rack count. **Still needed to complete this recipe:** the rub (if any, beyond or instead of the dry brine), wood *species*, smoker temp, and time/doneness cues. **The wood *amount* is already answered** by Cody's standing rule — **a couple of chunks, about a palmful, and no more** ([§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)). Ingredients · Instructions · Grocery list all to be documented.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -22819,7 +22837,7 @@ Cody: *"pretty heavily… not super duper thick, but it's covered — all the cr
 > 📌 **There is no baking powder in this recipe — not in the salt, not in the slather, not in the rub.** ✅ *Cody said so outright on 2026-09-08*, reconciling it against the wings, so it's recorded here to save the next person the same question. The baking powder in [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) is a **skin** trick for small, thin, skin-heavy pieces ([§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method)); a pork butt gets its bark from salt, sugar, and twelve hours of dry heat instead, and needs no help.
 
 **4. On around 10 p.m. — onto the smoker at 225°F, indirect, FAT SIDE UP. No flipping. It cooks overnight.**
-Bring the cooker to a steady **225°F** and set it up for **indirect heat** — nothing over open flame ([§T109](#t109-indirect-heat--putting-something-between-the-fire-and-the-food); on the Big Green Egg that's the convEGGtor in, and give the ceramic about an hour to settle before the meat goes on). Put the butt on **fat side up** and then **leave it alone** — Cody: *"I'm too lazy, I don't even turn it."* There is no flipping, no wrap, no crutch, and no mop in this recipe. **Wood is pecan.** ✅ *2026-09-08* — **hickory works, but pecan is his favorite**, and pecan is the softer, sweeter, less aggressive of the two, which suits a butt sitting in smoke for twelve hours. **Hickory is the standard alternative** and a perfectly good one — it's the same wood he burns for [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings). Whatever you use, **thin blue smoke, not a firebox full of wood** — [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke).
+Bring the cooker to a steady **225°F** and set it up for **indirect heat** — nothing over open flame ([§T109](#t109-indirect-heat--putting-something-between-the-fire-and-the-food); on the Big Green Egg that's the convEGGtor in, and give the ceramic about an hour to settle before the meat goes on). Put the butt on **fat side up** and then **leave it alone** — Cody: *"I'm too lazy, I don't even turn it."* There is no flipping, no wrap, no crutch, and no mop in this recipe. **Wood is pecan.** ✅ *2026-09-08* — **hickory works, but pecan is his favorite**, and pecan is the softer, sweeter, less aggressive of the two, which suits a butt sitting in smoke for twelve hours. **Hickory is the standard alternative** and a perfectly good one — it's the same wood he burns for [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings). **And go light on it — only a couple of chunks, about a palmful.** That's Cody's own standing rule for every pit he lights, written up at [§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke); more than that and even a twelve-hour butt comes out tasting too smoky. Thin blue smoke, not a firebox full of wood.
 
 **This is an overnight cook, and that's the design, not a coincidence.** Cody puts it on around **10 p.m.** and it runs **past 10 a.m., sometimes longer** — **12 to 14+ hours.** He holds the pit with an **Egg Genius**, the fan controller described above, which keeps 225°F all night without anyone getting out of bed; without a controller, set your vents, let the cooker settle, run a probe alarm, and expect to check on it once or twice. Either way, **go to bed.** The one rule that survives the night is Step 5's: **it is done at 203°F, not at a time.**
 
@@ -22860,7 +22878,7 @@ Cody has tried all three and says all three work really well, so pick by conveni
 - 🛒 Distilled white vinegar — 1 bottle
 - 🛒 Butter — 1 stick per butt, for the freezer bags *(a full load is 20–25 lb of pork going into bags at ~1 Tbsp per pound — that's 4 to 6 sticks)*
 - 🛒 Vacuum sealer bags — **buy the big roll** *(a four- or five-butt cook is a lot of meal-sized bags)*
-- 🛒 Smoking wood — **pecan chunks** *(his favorite for pork; **hickory** is the standard alternative and works fine — it's what he burns for [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings). Buy chunks, not chips, and buy fewer than you think you need)*
+- 🛒 Smoking wood — **pecan chunks** *(his favorite for pork; **hickory** is the standard alternative and works fine — it's what he burns for [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings). Buy chunks, not chips, and buy fewer than you think you need — a cook takes **a couple of chunks, a palmful**, per [§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke))*
 - Plus everything for [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) — see its own grocery list; one batch makes about 3 cups, enough for about three butts at ¾–1¼ cups each, so **a full load wants a batch and a half to two batches**
 
 *Not groceries, but don't start without them: a **pit controller** (Cody's is an **Egg Genius** — see the note above), a **probe thermometer with an alarm**, a **dedicated cooler** for the rest, and a **vacuum sealer**.*
@@ -23200,7 +23218,7 @@ Cody's own wings, dictated 2026-09-07, cooked and confirmed 2026-09-08. **These 
 Hit the wings with a healthy amount of Tony Chachere's — Cody likes **Tony's BOLD**, the spicier one — and toss so every piece is coated. Lay them out in a single layer on a **wire rack set over a sheet pan**, so air gets underneath them too, and leave them **uncovered** in the refrigerator overnight. This does two jobs at once, and both matter: the **salt goes into the chicken** — that's the dry brine, and it seasons the meat rather than just the outside — and the open fridge air **dries out the skin**, which is exactly what you want, because wet skin steams and dry skin crisps. Don't cover them, don't stack them, don't rush it. Tony's is salty on its own, so no other salt goes on this bird at any point.
 
 **2. The next day — fire up to 400°F. Give an Egg or smoker about an hour to settle.**
-Oven or Big Green Egg, both work, both at **400°F**. On the **Egg, a kamado, or a smoker: one hickory chunk. One.** Don't load it with hickory — wings are small, thin, and skin-heavy, and they take on smoke fast; a firebox full of wood turns them acrid and bitter instead of smoky (see [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) on why thin blue smoke beats a lot of smoke). In Cody's words: *let it go for one hour and let that egg heat up to 400.* Give it that hour to come up and hold steady — a kamado that's still climbing will drift on you later. **Set the Egg up for indirect heat — convEGGtor in, so nothing sits over open flame** ([§T109](#t109-indirect-heat--putting-something-between-the-fire-and-the-food)); dripping wing fat over live coals is a flare-up waiting to happen, and the ceramic is also why the cooker needs that full hour to settle rather than the ten minutes the dome thermometer suggests.
+Oven or Big Green Egg, both work, both at **400°F**. On the **Egg, a kamado, or a smoker: one hickory chunk. One.** Don't load it with hickory — wings are small, thin, and skin-heavy, and they take on smoke fast; a firebox full of wood turns them acrid and bitter instead of smoky (see [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) on why thin blue smoke beats a lot of smoke). **This one chunk was the cookbook's first sighting of what is now Cody's standing rule for every pit he lights: a couple of chunks, about a palmful, and no more** — [§T35's *Cody's rule — don't overload the pit with wood*](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke), stated centrally on 2026-09-08. Wings, being the smallest and thinnest thing he smokes, sit at the bottom even of that: **one chunk, not two.** In Cody's words: *let it go for one hour and let that egg heat up to 400.* Give it that hour to come up and hold steady — a kamado that's still climbing will drift on you later. **Set the Egg up for indirect heat — convEGGtor in, so nothing sits over open flame** ([§T109](#t109-indirect-heat--putting-something-between-the-fire-and-the-food)); dripping wing fat over live coals is a flare-up waiting to happen, and the ceramic is also why the cooker needs that full hour to settle rather than the ten minutes the dome thermometer suggests.
 
 **3. Spray with avocado oil, then dust with baking powder.**
 Take the wings straight from the fridge and hit them with the **avocado oil spray** — a light, even coat, not a soaking. **Then**, after the oil, sprinkle on the **baking powder** — about **1 tsp per pound**, so 4 tsp for a 4-lb batch — and toss gently so it lands evenly and thinly. Cody: *"that will crisp it up even more."* He's right, and [§T96](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method) explains the mechanism. Two cautions. **It is baking powder, not baking soda** — see the correction note above; baking soda in this quantity tastes soapy. And keep the dusting **light** — a heavy coat goes chalky. If you see white patches, you've used too much; toss until you can't really see it.

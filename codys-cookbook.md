@@ -23499,7 +23499,7 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min** *(two skillets going at once — all of it attended)*
 
-> ✅ **Cooked and validated, 2026-09-08. Cody's daughter made this straight off the method as written in this cookbook, and it came out perfectly.** That's the strongest evidence any entry in the book has — not a transcription checked against a card, but a real cook in a real kitchen following these steps and getting the dish. **Treat the instructions below as proven.** It also settles the practical worry behind the open question: whatever the card leaves unsaid about the sauce, following steps 1–7 as written works.
+> ✅ **Cooked and validated, 2026-09-08. Cody's daughter made this straight off the method as written in this cookbook, and it came out perfectly.** That's the strongest evidence any entry in the book has — not a transcription checked against a card, but a real cook in a real kitchen following these steps and getting the dish. **Treat the instructions below as proven.** She cooked it before step 5 was written down — so the sauce step Cody has since spelled out is a description of what the working method was already doing, not a change to it.
 
 #### A. Ingredients
 
@@ -23507,9 +23507,9 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 - ½ cup butter, divided
 - 1 bunch green onions, chopped
 - ½ cup parsley, chopped
-- 1½ Tbsp flour
+- 1½ Tbsp flour, **plus more as needed to thicken the sauce** *(per Cody, 2026-09-08 — the 1½ Tbsp is where you start, not where you finish; see step 5)*
 - 3 Tbsp sherry
-- 1 pint half & half
+- 1 pint half & half *(Cody described this step as simmering "the heavy cream" — the card says half & half. See Open Questions.)*
 - Salt and cayenne pepper, to taste
 - [Captain Mike's Seasoning](#47-captain-mikes-seasoning), to taste *(the card writes it "Capt. Mike's" / "capn' mike's" — now documented at §4.7)*
 - 1 box pasta
@@ -23524,18 +23524,27 @@ Sauté the crawfish (or shrimp — see [T6](#t6-seafood-notes) on when the swap 
 **2. In a second skillet, sauté the green onions and parsley in the remaining butter.**
 
 **3. Blend in the flour.**
-Stir the flour into the butter, onions, and parsley — this is the base the sauce thickens from.
+Stir the flour into the butter, onions, and parsley — this is the base the sauce thickens from. **It is a starting amount, not the final one** — step 5 is where you add more if the sauce still needs it.
 
 **4. Gradually add the half & half to build a thick sauce.**
 Pour it in slowly, stirring the whole time, so it comes together smooth instead of breaking or going lumpy.
 
-**5. Add the sherry, the sautéed crawfish, salt, Capt. Mike's, and cayenne.**
+**5. Simmer it to thicken, stirring constantly — and add flour as needed.**
+✅ **This step is Cody's answer, 2026-09-08, to the question this entry carried for weeks.** Yes, the sauce does simmer once the cream is in. **Keep stirring — constantly, not occasionally.** You're simmering it to thicken it *if it needs thickening*, and **you add flour as needed to get there.** In his words, not "a teeny bit of flour" — just flour, as much as it takes. So the 1½ Tbsp in step 3 is the starting point and this step is where you actually land the texture.
 
-**6. Finish with generous, to-taste portions of Crystal hot sauce and butter.**
+There's no clock on this one and Cody didn't give one — **go by how the sauce looks and moves, not by minutes.** It's thick enough when it coats the back of a spoon and holds the line for a moment when you drag a finger through it.
+
+*How to add that extra flour without lumps is cookbook gloss, not from the card:* never shake raw flour straight into a hot sauce — it seizes on contact and you'll be picking out pellets. Mash it into an equal amount of softened butter first to make a smooth paste — a **beurre manié** — and beat that in a little at a time, letting each addition simmer a minute before deciding whether it needs more. That's the same raw-flour-and-butter thickener documented at [§4.70 Sauce Bâtarde](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) and used to finish [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon), and it suits this recipe especially well because step 7 finishes with butter to taste anyway.
+
+**Why the constant stirring is not optional:** flour and dairy sink and catch on the bottom of the pan, and a scorched cream sauce doesn't have a salvageable half — the burnt taste goes through the whole pot. **This step is also why the recipe stays 🟡 and doesn't climb to 🔴:** a butter-and-flour thickener that never browns is the blond end of the family and earns nothing on its own *(see [the roux tiers](#difficulty--time-index))*. The scorch risk here is real but it's a slow one you can see and smell coming, not the under-a-minute window a dark roux gives you.
+
+**6. Add the sherry, the sautéed crawfish, salt, Capt. Mike's, and cayenne.**
+
+**7. Finish with generous, to-taste portions of Crystal hot sauce and butter.**
 This is the step the card underlines: *taste the food, please.* Add hot sauce and butter in stages, tasting between each addition, until it's right — not to a fixed measurement.
 
-**7. Toss with cooked pasta and serve with asparagus alongside.**
-Cook the pasta and prepare the asparagus (steamed or roasted both work) while the sauce comes together in step 6.
+**8. Toss with cooked pasta and serve with asparagus alongside.**
+Cook the pasta and prepare the asparagus (steamed or roasted both work) while the sauce comes together in steps 5–7.
 
 #### C. Grocery Shopping List
 
@@ -23545,9 +23554,9 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 - 🛒 Butter — ½ C, plus extra for finishing to taste
 - 🛒 Green onions — 1 bunch
 - 🛒 Parsley — ½ C
-- 🛒 Flour
+- 🛒 Flour — *a pantry staple, but keep it out: step 5 adds more as needed on top of the 1½ Tbsp*
 - 🛒 Sherry
-- 🛒 Half & half — 1 pint
+- 🛒 Half & half — 1 pint *(Cody has also described this as heavy cream — see Open Questions before you buy)*
 - 🛒 Salt & cayenne pepper
 - 🛒 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) — *not a store brand; mix it yourself from §4.7*
 - 🛒 Pasta — 1 box
@@ -23568,9 +23577,9 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 #### D. Open Questions
 
 - ~~"Capt. Mike's" appears on the card as the seasoning brand — worth confirming exactly which product this is.~~ **Settled 2026-08-09 — it isn't a store brand at all.** Cody identified it as a blend: onion and garlic salt, white pepper, cayenne, black pepper, sweet basil, bay leaf, oregano, and thyme, with the **white pepper** as its defining note. Now documented at **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)** — no store trip needed. *(Proportions still aren't recorded — that's an open question on §4.7 now.)*
-- 🔁 **Still open, and deliberately re-posed 2026-09-08.** Asked again; Cody doesn't know the answer himself and said *"ask me that question again, I guess"* — so it stays on the list rather than being closed. **Partial evidence in hand:** his daughter cooked the recipe exactly as written above and it came out perfectly, so the method is not broken as it stands. What's still missing is the number.
-  - **The question, precisely: after step 4 — once all the half & half is in and the sauce has come together — does the sauce need to simmer to thicken further before the crawfish goes in, or is it done the moment the cream is incorporated?** And if it does simmer: **for how many minutes, at what heat, and how do you know it's thick enough — does it coat the back of a spoon, or should it hold a line when you drag a finger through it?**
-  - *Ask it that way next time. A yes/no plus a number is all this entry needs to close.*
+- ✅ **CLOSED 2026-09-08 — Cody confirmed it, and the answer is now [step 5](#713-crawfish-elegante).** Re-posed the same day and answered the same day: **yes, the sauce does simmer after the cream goes in, you keep stirring the whole time, you simmer it to thicken it if it needs thickening, and you add flour as needed to get it there** — his words were that it isn't "a teeny bit of flour," it's flour as needed. **The one thing he did not give is a number of minutes**, and that turns out to be the right answer rather than a gap: this is a thicken-until-it-looks-right step, so step 5 gives the visual cue instead of a clock. *(The old question asked for "a yes/no plus a number." It got the yes and a better answer than a number.)*
+  - **What was already known and still holds:** his daughter cooked this straight off the method as written and it came out perfectly, so nothing above needed correcting to accommodate the answer — step 5 makes explicit what the working method was already doing.
+- ⚠️ **NEW, and worth a straight answer: half & half or heavy cream?** Describing this step Cody said *"you do end up simmering the **heavy cream**"* — but **the card says 1 pint of half & half**, and that is what the ingredient list and grocery list still say. This has been left as the card has it rather than quietly swapped, because the two are not interchangeable here: **heavy cream is roughly 36% fat against half & half's 10–12%**, so it thickens far faster, resists breaking at a simmer, and would need noticeably less of the extra flour step 5 calls for. If he actually reaches for heavy cream, the flour guidance softens; if it really is half & half, step 5's "as needed" is doing more work. **Ask: which one is actually in the pot?**
 
 [↑ Table of Contents](#table-of-contents)
 

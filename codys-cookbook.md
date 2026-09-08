@@ -20842,7 +20842,11 @@ Toss the beans with the olive oil, 1¼ teaspoons salt, and the lemon juice. Serv
 
 Transcribed from Cody's own recipe/grocery-planning spreadsheet. Fresh spinach wilted quickly in olive oil and butter with browned garlic, brightened with lemon and salt.
 
+**👩 Mamma is Cody's mom** *(✅ 2026-09-08 per Cody).* This is his mother's spinach — that's the whole provenance, and it's why the card is three lines long and ends in an exclamation point. Family recipes get written down the way they get taught: the parts you'd forget, and nothing else.
+
 **❤️ Family favorite** — *Cody: "Favorite."* Cody's own note on the card: **"easy."**
+
+> **It is an easy dish, and the entire skill is in one ratio: lemon and salt.** Everything else here — heat the fat, brown the garlic, wilt the greens — is mechanical, and Cody says so himself. What separates a good plate of this from a flat one is getting the **acid and the salt into balance with each other**, and there is no measurement for it. **You taste it to find it.** See step 4.
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** · **Start to finish ~15 min**
 
@@ -20865,8 +20869,10 @@ Add the chopped garlic and brown it.
 **3. Wilt the spinach. Don't overcook it.**
 Add the entire bag of spinach to the pan. Cook just until wilted — pull it before it overcooks and turns to mush.
 
-**4. Finish with lemon and salt.**
-Squeeze the half lemon over the spinach. **Salt it** — per Cody's own note, the combination of lemon juice and salt is the key to this dish.
+**4. Finish with lemon and salt — and keep adjusting until the two balance. This is the whole recipe.**
+Squeeze the half lemon over the spinach and **salt it**. Then taste, and understand what you're tasting for: **acid and salt in balance against each other.** Per Cody (2026-09-08), the lemon-and-salt ratio *is* the trick of this dish — the rest of it is just wilting greens.
+
+*How to find it, since no measurement will get you there: go in with about half the lemon and a good pinch of salt, toss, and taste. **If it tastes sour, thin, or sharp, it needs salt** — not less lemon. **If it tastes flat, heavy, or green-and-dull, it needs acid** — squeeze more lemon. Each one makes the other legible; that's why they're a ratio and not two separate seasonings. You'll know you're there when the spinach tastes bright and seasoned at the same time and you stop wanting to reach for either bottle. Salt in pinches and lemon in squeezes, tasting between — both are easy to add and impossible to take back.*
 
 #### C. Grocery Shopping List
 
@@ -20890,8 +20896,8 @@ Squeeze the half lemon over the spinach. **Salt it** — per Cody's own note, th
 
 #### D. Open Questions
 
-- **"Mamma"** isn't identified further on the card — worth confirming whose recipe this is, for the record.
-- **No salt quantity given** — "SALT IT!" is emphatic but not measured; season to taste.
+- ✅ **2026-09-08 per Cody — "Mamma" is his mom.** Recorded at the top of the entry. Whose recipe this is is now settled.
+- ✅ **2026-09-08 per Cody — the missing salt quantity is not a gap, it's the method.** "SALT IT!" was never going to have a number: the target is the **lemon-and-salt ratio**, found by tasting, and step 4 now says how to find it. Nothing left to measure here.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -37965,6 +37971,7 @@ Tomatoes with their juice, plus 1 Tbsp of cider vinegar. Simmer 10 minutes more,
 - ✅ 2026-09-07 per Cody ("throw in and eyeball — use your judgment, but use all these ingredients") — **eyeball-scale amounts set for every ingredient**, labeled as cookbook judgment; basis and sources in the note above. Mamma's amounts, if she ever writes them down, replace these.
 - ✅ 2026-09-07 — **Celery** stays in the ingredient list; the card's directions call for it.
 - ✅ 2026-09-07 — **Apple cider vinegar:** 1 Tbsp in with the tomatoes, up to 1 Tbsp more at the end, off the heat, to taste — cookbook judgment from the venison-stew sources (Culinary Hill uses 1 tsp per 1½ lb; Montana FWP uses it in a 3-lb pot). Still worth confirming with Mamma how she does it.
+- **Is this the same "Mamma" as [§5.37 Mamma's Spinach](#537-mammas-spinach)?** Cody confirmed on 2026-09-08 that the Mamma of the spinach card is **his mom**; both cards come from the same spreadsheet, so it's almost certainly the same person — but he was only asked about §5.37, so it's recorded here as presumed rather than confirmed.
 
 [↑ Table of Contents](#table-of-contents)
 

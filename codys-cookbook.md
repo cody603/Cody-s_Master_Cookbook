@@ -3281,7 +3281,9 @@ Gradually whisk in the Worcestershire, add the salt, and continue cooking, whisk
 
 ### 4.21 Czarina Sauce with Shrimp (or Crawfish)
 
-Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 265–266). A quick cream-and-Parmesan sauce with julienned squash and zucchini, built around shrimp or crawfish — no roux, no stock, no long list of missing referenced pages.
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (pp. 265–266). A quick cream-and-Parmesan sauce with julienned squash and zucchini, built around shrimp or crawfish — no roux, no stock, no long list of missing referenced pages.
+
+✅ **2026-09-08 verified against Cody's photographs of pp. 265 and 266** — p. 265 confirmed by its printed footer, p. 266 by both its footer and the *Chef Paul Prudhomme's Louisiana Kitchen* running head. **Nothing needed correcting.** All eleven quantities read clean at native resolution — 5 Tbsp unsalted butter *in all*, 1 cup each julienned onions, yellow squash and zucchini, **1 tsp** ground red pepper, **½ tsp** white pepper, 1 Tbsp lemon juice, 2 cups heavy cream, ½ cup finely grated Parmesan, ½ tsp salt — as do the split (**4 Tbsp** to start, **the remaining 1 Tbsp** in with the cream), the yield of **6 to 8 servings**, both headnote portion rules, the julienne NOTE's **⅛ inch** thick and **⅛ inch** wide by **2 inches** long, and the closing **about ½ cup sauce per serving including the seafood**. *(Both ⅛-inch figures were re-read specifically — this project has caught a ⅛ printed as ⅜ before.)*
 
 > **Per the source:** serve over pasta, fish, veal, or rice. Portion by what it's going over — about 3 medium-to-large shrimp (or a scant ¼ cup crawfish tails) per person over veal or fish; about 10–12 shrimp (or a scant 1 cup crawfish tails) per person over pasta or rice.
 

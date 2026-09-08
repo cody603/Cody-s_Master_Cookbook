@@ -22188,8 +22188,8 @@ Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Ba
 > | **Rub** | [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub), always | its own 9-spice rub, and **optional** |
 > | **No-rub option** | — | **yes** — just coarse salt and pepper, start cooking immediately |
 > | **Rub cure** | up to 24 hr | 3 to 8 hr |
-> | **Charcoal temp** | medium-low *(unstated °F)* | **300°F**, vents adjusted |
-> | **Shred size** | not specified | 2 in long, ⅛–¼ in wide |
+> | **Charcoal temp** | medium-low *(unstated °F)* | medium-low, vents adjusted to **300°F** |
+> | **Shred size** | not specified | 1–2 in long, ⅛–¼ in wide |
 >
 > **In short:** §6.2 is the mopped version; §6.6 is the hands-off version with a better-specified fire. Same 195°F target, same 4–6 hours, same yield.
 
@@ -22237,7 +22237,7 @@ Transcribed from the same **Steven Raichlen** book as [§5.33 Quick and Smoky Ba
 **2. Set up the grill for indirect grilling and place a drip pan in the center.**
 
 **3. Get the fire and smoke going.**
-*For gas:* put all the wood chips in the smoker box and preheat to high; when smoke appears, reduce to medium. *For charcoal:* preheat to medium and **adjust the vents to hold 300°F**. *(⚠️ In the only photo of this page, the temperature's last digit sits in the page curl — "30…°F" is what's legible. 300°F is the original transcription's reading and is consistent with what's visible, but it couldn't be re-confirmed digit-for-digit on 2026-09-07.)*
+*For gas:* put all the wood chips in the smoker box and preheat to high; when smoke appears, reduce to medium. *For charcoal:* preheat the grill to **medium-low** and **adjust the vents to obtain a temperature of 300°F**. Medium-low with the vents doing the fine work is the whole fire management here — set it once and it holds for hours.
 
 **4. Smoke-cook to 195°F. 4 to 6 hours.**
 If using charcoal, toss 1 cup of wood chips on the coals. Place the pork **fat side up** on the hot grate over the drip pan, cover the grill, and cook until fall-off-the-bone tender and the internal temperature reaches **195°F**. Time depends on the size of the roast and the heat of the grill. With charcoal, add 10 to 12 fresh coals per side every hour and about ½ cup more wood chips per side each time you replenish. With gas, just start with a full tank. **If the pork begins to brown too much, drape foil loosely over it or lower the heat.**
@@ -22246,13 +22246,15 @@ If using charcoal, toss 1 cup of wood chips on the coals. Place the pork **fat s
 Transfer to a cutting board and tent loosely with foil.
 
 **6. Pull the pork.**
-Wearing heavy-duty gloves, pull off and discard the skin, then pull the meat into pieces, discarding bones and fat. Using your fingertips or a fork, pull each piece into shreds about **2 inches long and ⅛ to ¼ inch wide**. *Per the source: "This requires time and patience, but a human touch is needed to achieve perfect texture. If patience isn't one of your virtues (many respected North Carolina barbecue joints serve chopped 'cue), you can finely chop the pork with a cleaver."*
+Wearing heavy-duty gloves, pull off and discard the skin, then pull the meat into pieces, discarding bones and fat. Using your fingertips or a fork, pull each piece into shreds **1 to 2 inches long and ⅛ to ¼ inch wide**. *Per the source: "This requires time and patience, but a human touch is needed to achieve perfect texture. If patience isn't one of your virtues (many respected North Carolina barbecue joints serve chopped 'cue), you can finely chop the pork with a cleaver."*
 
 **7. Sauce and hold warm. Up to 30 minutes.**
 Transfer the shredded pork to a nonreactive roasting pan and stir in **1 to 1½ cups of the vinegar sauce** — enough to keep it moist. Cover with foil and set it back on the grill to keep warm.
 
 **8. Build the sandwiches.**
 Mound the pork on buns and top with coleslaw. Let each person add more vinegar sauce to taste.
+
+✅ 2026-09-08 closed from Cody's photograph of *The Barbecue! Bible* pp. 175–176: **the missing digit is resolved — the page prints 300°F**, and the ⚠️ flag on Step 3 is gone. The same line also corrects the charcoal preheat to **medium-low** (the entry had "medium"), and Step 6's shreds are **1 to 2 inches long** as printed, not a flat 2 inches; both the comparison table rows above are restated to match. Everything else on those two pages was checked line by line and stands as written: the printed **INDIRECT GRILLING · SERVES 10 TO 12** header, the 3–8 hr optional marinate plus 4–6 hr cook, 6 cups hickory soaked 1 hour, all nine optional-rub lines, the 5–6 lb Boston butt with its **½-inch** fat layer, the 195°F target over 4–6 hours, 1 cup of chips at the start and 10–12 fresh coals plus ~½ cup chips per side every hour, the 15-minute rest, 1–1½ cups vinegar sauce, up to 30 minutes back on the grill to hold, 10–12 buns, and Elizabeth Karmel of Greensboro with her 195°F rationale.
 
 #### C. Grocery Shopping List
 

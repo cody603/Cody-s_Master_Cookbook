@@ -592,6 +592,7 @@ Click any recipe to jump straight to it.
 - [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅ 🥑 ❤️
 - [11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) ✅ 🥑 🔖
 - [11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) ✅ 🥑 *(keto cookbook p. 68, Breakfast & Breads — **radishes standing in for potatoes**, the third potato swap in §11 and the first that fries; 2 g net carbs, the lowest in the section; added 2026-09-08)*
+- [11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) ✅ 🥑 *(keto cookbook, Side Dishes — the same bacon-fat side-dish formula as [§11.7](#117-home-fried-bacon-radishes); 5 g net carbs but the most fiber in the keto set; added 2026-09-08)*
 
 **[14. Desserts](#14-desserts)** *(numbered 14 to avoid renumbering §12–§13 — see the section intro)*
 
@@ -887,6 +888,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.47 Smoked Potato Salad](#547-smoked-potato-salad) *(Meathead)* | 🟢 | 20 min | — | **45 min** *(smoker, unattended)* | ~3 hr *(includes at least 2 hr chilling, overnight is better)* |
 | [§5.48 Boston Barbecue Beans](#548-boston-barbecue-beans) *(Meathead)* | 🟡 | 20 min | — | **3–4 hr** *(under a rack of ribs on the smoker, stirred occasionally)* | ~4 hr |
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
+| [§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🥑 | 🟢 | 5 min | 15 min | — | 20 min |
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
 | [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) | 🟢 | 20 min | — | — | 20 min |
 | [§7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) *(Meathead)* | 🟡 | 5 min | 15 min | — | 1 hr 20 min *(+ 1 hr fridge dry-brine)* |
@@ -1235,7 +1237,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **30 minutes of work or less — 114 recipes** *(pre-2026-09-05 Meathead batch — see that changelog entry's flag; this count and the "now-86" figure below both predate [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), 32 of which are themselves 30 minutes or less, and haven't been recounted yet)*, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
-**🥑 Keto / low-carb — 7 recipes.** All seven come from the same keto cookbook and carry the publisher's own net-carb figures, listed lowest first: **[§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) *(0.6 g net — the lowest in this cookbook)*** · [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) *(2 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)*. The swaps repeat across most of them: **standing something in for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** **The potato swap is three recipes and two vegetables** — cauliflower for the cold salad and the mash, **radishes for the fried one**, because radishes hold their edges in a hot pan and cauliflower doesn't. **§10.4 is the outlier and the reason it wins on carbs: it substitutes nothing at all.** Eggs, sausage, cream, and cheese are low-carb on their own, so there is no flour stand-in to cost anything — which is worth remembering when the goal is the lowest number rather than the closest imitation of a baked good.
+**🥑 Keto / low-carb — 8 recipes.** All eight come from the same keto cookbook and carry the publisher's own net-carb figures, listed lowest first: **[§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) *(0.6 g net — the lowest in this cookbook)*** · [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) *(2 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) *(5 g net — but the most fiber of the eight, at 3.9 g)*. The swaps repeat across most of them: **standing something in for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** **The potato swap is three recipes and two vegetables** — cauliflower for the cold salad and the mash, **radishes for the fried one**, because radishes hold their edges in a hot pan and cauliflower doesn't. **Two of the eight substitute nothing at all, and they bracket the range.** [§10.4](#104-southern-keto-egg-and-sausage-muffins) wins on carbs precisely because it doesn't need to — eggs, sausage, cream and cheese are low-carb already, so there's no flour stand-in to pay for. [§11.8](#118-fried-cabbage-and-bacon) sits at the other end for the same reason in reverse: it's a real vegetable cooked as itself, and cabbage simply brings carbohydrate. **Worth reading the fiber column alongside the net-carb one** — §11.8 has the most fiber of any recipe here, which is what pulls its net figure down to 5 g in the first place. **There is also a house formula worth knowing across [§11.7](#117-home-fried-bacon-radishes) and [§11.8](#118-fried-cabbage-and-bacon):** crisp chopped bacon, lift it out with a slotted spoon leaving all the fat, cook the vegetable in those drippings, return the bacon at the end. Neither recipe lists another cooking fat, and the pattern transfers to most sturdy vegetables.
 
 **The twenty-two 🔴 Hard ones come down to five problems.** Ten are hard for one reason: **a dark roux** — [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo), [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo), [§8.25 Wild Goose Gumbo](#825-wild-goose-gumbo-with-oysters), [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i), and [§8.46 Verna's Galimatias](#846-vernas-galimatias) — every one of them says *dark*. The brown- and medium-roux dishes that used to sit beside them — the two French brown sauce bases [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), [§8.42](#842-creole-courtbouillon), [§8.43](#843-crawfish-bisque-ii), and [§8.44](#844-courtbouillon) — are now 🟡, per the roux tiers above. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) for a third: **a butter emulsion that breaks** — Hollandaise can't be rescued at all, and beurre blanc turns oily the moment it's reheated or held too warm, though the source at least gives it a documented fix. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. [§14.20 Cream Caramel](#1420-cream-caramel), [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) for a fifth: **a genuinely fail-prone specialty technique** — caramelizing sugar to a rich brown in seconds for the caramels, and binding raw octopus with transglutaminase into a roll that has to set correctly or fall apart on slicing for the carpaccio. **Learn the dark roux once and ten of the twenty-two stop being hard** — and the 🟡 brown-roux dishes are the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
 
@@ -43036,6 +43038,73 @@ Put the radishes in the drippings and cook over **medium-high for 10 minutes**. 
 
 - **The source gives no skillet size beyond "large"** and no doneness cue other than *slightly crispy and caramelized around the edges* — both transcribed as printed. A 16 oz bag of chopped radishes wants a pan big enough to hold them in close to a single layer; crowded, they steam instead of browning.
 - **The 6 slices of bacon are not specified by thickness**, which moves both the rendered fat and the nutrition figures. The printed per-serving numbers are the publisher's and are used as-is per [CLAUDE.md §3b](CLAUDE.md).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 11.8 Fried Cabbage and Bacon
+
+Transcribed from the printed keto cookbook, ***Side Dishes*** chapter — the same book as [§11.3](#113-keto-skillet-cornbread)–[§11.7](#117-home-fried-bacon-radishes), [§10.4](#104-southern-keto-egg-and-sausage-muffins), and [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded). **The source's own headnote:** *"I remember my mom frying cabbage; back then I never liked it. Turns out it's another one of those foods that I appreciated more as I got older. And I'm pretty sure Mom didn't put bacon in hers! Remember, bacon was a 'bad-for-you' food in the 1980s."*
+
+> 🥓 **This book has a house formula for vegetable sides, and this is the second one in the cookbook.** Compare [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes): **crisp the bacon, pull it out and leave every drop of the fat behind, cook the vegetable in those drippings, then return the bacon at the end.** Both recipes are that exact sequence. Neither lists any other cooking fat, because the bacon *is* the fat — which is also why both are naturally keto without substituting anything. **Learn the pattern once and it works on most sturdy vegetables**, which is more useful than either recipe on its own.
+
+**Yield:** 4 servings *(the source's own)*
+
+**🥑 Keto** · **🟢 Easy** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min** *(prep and cook times are the source's own printed figures)*
+
+> **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing in this can go from perfect to ruined — it's one skillet, four ingredients, and fifteen minutes of stirring. **The fastest keto recipe in the cookbook**, and one of the fastest recipes of any kind here.
+
+#### A. Ingredients
+
+*Exactly as the source prints them.*
+
+- 4 slices bacon, chopped
+- 1 medium head green cabbage, coarsely chopped
+- ½ teaspoon salt
+- ¾ teaspoon ground black pepper
+
+*No other cooking fat is listed, and none is needed — see Step 2.*
+
+> 🧂 **Salt and pepper are ½ tsp and ¾ tsp exactly as printed.** This is a transcribed recipe, not one of the standalone brines at §4.100–§4.104, so this cookbook's heavier-salt preference does not apply. **Note the pepper outweighs the salt here** — that's the source's own ratio, not a transcription slip, and it's a peppery dish by design.
+
+#### B. Cooking Instructions
+
+**1. Cook the chopped bacon in a medium skillet over medium heat until crispy. Lift it out with a slotted spoon and set it aside.**
+**A slotted spoon, specifically** — that's the source's own word and it's the whole point of the step. You are removing the bacon and **leaving every drop of the rendered fat in the pan**, because that fat is the only cooking medium in the recipe. Tip the bacon out into a strainer and you've poured the dish away.
+
+**2. Cabbage into the drippings. About 10 minutes, stirring frequently, until tender.**
+Put the coarsely chopped cabbage straight into the hot bacon fat and cook, **stirring frequently**, for about **10 minutes, until tender.** *Cabbage collapses dramatically — a medium head looks like far too much for the skillet when it goes in and will cook down to a fraction of that, so don't be alarmed and don't reach for a second pan.* Frequent stirring is what keeps the pieces touching the fat in rotation so they soften evenly instead of scorching on the bottom.
+
+**3. Return the bacon, add the salt and pepper, and cook 5 minutes more. Serve immediately.**
+The bacon goes back in for the last five minutes only — long enough to warm through and give up some flavor to the cabbage, **not so long that it goes soft again.** Season at this point rather than earlier: salt draws water out of cabbage, and adding it at the start would steam the pan instead of frying it. **"Serve immediately" is the source's own instruction** — this is at its best straight out of the skillet, while the bacon still has snap.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bacon — 4 slices
+- 🛒 Green cabbage — 1 medium head
+- 🛒 Salt
+- 🛒 Ground black pepper
+
+#### Nutrition *(per serving, as printed on the source page)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~344 | 18.8 g | 20 g | 35.2 g | 15.6 g |
+| **Per serving** *(serves 4)* | 86 | 4.7 g | 5 g | 8.8 g | 3.9 g |
+
+**What a serving is:** roughly **a cup of cooked cabbage** — a side portion beside a main, which is how the *Side Dishes* chapter frames it.
+
+**Net carbs: 5 g per serving** *(20 g for the whole dish)* — as printed on the page. **The highest net-carb figure of the eight keto recipes here**, and reasonably so: cabbage brings real carbohydrate, but it also brings **3.9 g of fiber per serving**, the most of any recipe in the keto set, which is what pulls the net figure back down. Whole-dish figures are calculated from the source's per-serving numbers at its stated 4 servings.
+
+#### D. Open Questions
+
+- **The page number isn't visible in the photograph** — the footer sits outside the frame. The chapter is confirmed from the running head *(Side Dishes)*, and the book is confirmed by the shared nutrition-panel format with [§11.3](#113-keto-skillet-cornbread)–[§11.7](#117-home-fried-bacon-radishes) and [§10.4](#104-southern-keto-egg-and-sausage-muffins). Recorded as absent rather than guessed.
+- **"1 medium head" is the only quantity given for the cabbage** — no weight. A medium green cabbage runs roughly 2 lb, which is consistent with the printed nutrition, but the source doesn't say so and no weight has been written into the ingredient list.
+- **The page's decorative rule carries a small "30" icon** alongside the book's other symbols, most likely its *30 minutes or less* marker — that reading is an inference from the recipe's own 20-minute total, not something the page states in words. Noted rather than asserted.
+- **The bacon isn't specified by thickness**, which moves how much fat renders — and in this recipe the rendered fat is the entire cooking medium, so it matters more than usual. The printed nutrition figures are the publisher's and are used as-is per [CLAUDE.md §3b](CLAUDE.md).
 
 [↑ Table of Contents](#table-of-contents)
 

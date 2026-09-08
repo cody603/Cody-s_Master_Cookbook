@@ -565,7 +565,7 @@ Click any recipe to jump straight to it.
 - [10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) ✅
 - [10.6 Irish Soda Bread](#106-irish-soda-bread) ✅
 - [10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) ✅
-- [10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) ○ *(incomplete — most of the page not photographed)*
+- [10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) ✅
 - [10.9 Chocolate Gravy and Biscuits](#109-chocolate-gravy-and-biscuits) ○
 - [10.10 Cheese Grits](#1010-cheese-grits) ✅
 - [10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) ✅
@@ -1327,6 +1327,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.10 Pecan Pie II](#1410-pecan-pie-ii) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.140 Tandoori Chicken](#7140-tandoori-chicken) *(The Meathead Method)* | 🟢 | 10 min | 45 min | — | ~14–26 hr *(includes a 1 hr dry brine + 12–24 hr marinate)* |
 | [§10.6 Irish Soda Bread](#106-irish-soda-bread) | 🟢 | 15 min | 40 min | — | 55 min |
+| [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) | 🟡 | 25 min | 30 min | **~3½ hr** *(brisket simmer, unattended)* | 4 hr 25 min *(+ 5–7 day dry-brine cure)* |
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) | 🟢 | 20 min | 35 min | — | 55 min |
@@ -1440,7 +1441,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🟡 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | 12 min *(10–15 min bake, printed)* | — | *unknown — recipe incomplete, see Open Questions* |
-| [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 
 ### Reading this table
 
@@ -1460,7 +1460,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 *Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
 
-*[§14.3 Classic Tuiles](#143-classic-tuiles), [§15.3 Basic Biscuits](#153-basic-biscuits-cheese-or-bacon-variation), and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so all three are excluded from every count and total in this section until the rest of each recipe arrives.*
+*[§14.3 Classic Tuiles](#143-classic-tuiles) and [§15.3 Basic Biscuits](#153-basic-biscuits-cheese-or-bacon-variation) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so both are excluded from every count and total in this section until the rest of each recipe arrives. **[§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) used to sit in this note and no longer do** — Cody photographed the missing pages on 2026-09-08, both are complete, and both are back in the table above with real numbers.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41117,57 +41117,90 @@ Set in the upper third of the preheated oven and bake until the quiche has puffe
 
 ### 10.8 Quiche aux Fruits de Mer (Shrimp, Crab, or Lobster Quiche)
 
-Transcribed from **Mastering the Art of French Cooking**, the same *Quiches* chapter as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche), which this recipe follows a few pages later.
+Transcribed from **Mastering the Art of French Cooking**, pp. 149–150 — the same *Quiches* chapter as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche), which this recipe follows a few pages later. Running head on the page where it finishes: *QUICHES*, Chapter Four: Entrées and Luncheon Dishes.
 
-> ⚠️ **This transcription is minimal, not just incomplete.** Only the title, serving count, oven temperature, and the first two ingredients and step are visible in the photographed page — the rest of the ingredient list (eggs, cream, the shellfish quantity itself) and the remaining method (assembling and baking) aren't captured. Written up as far as the source goes; see Open Questions.
+> ✅ **2026-09-08 closed from Cody's photograph of pp. 149–150: the whole recipe.** What had been three ingredients and one step is now the complete list and the complete method — the shellfish quantity, the Madeira, the egg-and-cream custard, the assembly, the cheese, and the bake. The ⚠️ minimal-transcription flag and the provisional difficulty are removed, and the recipe is back in the [Difficulty & Time Index](#difficulty--time-index) with real numbers instead of question marks.
 
-> **Builds on the same pastry shell as [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche):** an 8-inch partially cooked shell, [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) — consistent with every other quiche in this chapter.
+> **Builds on the same pastry shell as [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche):** an 8-inch partially cooked shell on a baking sheet, which the source cites as its page 146 — already transcribed here in full at [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) (source pp. 139–146). **That citation is a closed loop, not a gap.**
 
-**Yield:** 4 to 6 servings
+> **The tomato paste is the point of this one.** A tablespoon of it in the custard is what separates this from a plain seafood quiche — it tints the filling a pale coral and gives the cream something to push against, the same job it does in this book's shellfish sauces. Don't leave it out to "keep it clean"; the recipe is built around it.
 
-**🟢 Easy** *(provisional — see Open Questions)* · **Prep — not yet known** · **Cook — not yet known**
+**Yield:** for 4 to 6 servings
 
-#### A. Ingredients *(as far as photographed)*
+**🟡 Medium** · **Prep ~20 min** *(mincing the shallots, picking over the crab or dicing the shrimp, grating the cheese, beating the custard — not counting the pastry shell itself)* · **Cook ~35 min** *(3 to 4 min sweating the shallots and shellfish, then a 25–30 min bake)* · **Start to finish ~55 min** *(plus making and partially baking the pastry shell — see [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking))*
 
-- An 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)
+> **Why Medium, matching [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche).** Nothing here browns or emulsifies, so there's no one-minute failure window — but it is a custard, and a custard in a hot oven is the one thing in a quiche that can genuinely go wrong. Push the heat or leave it in past the puff and the eggs tighten, weep, and go grainy, and there's no fixing it after the fact. The shellfish is the second, smaller window: it's already cooked going in, so the 2-minute stir is to warm it through and no more.
+
+#### A. Ingredients
+
+- An 8-inch partially cooked pastry shell, on a baking sheet — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) *(source p. 146)*
 - 2 Tbsp minced shallots or green onions
 - 3 Tbsp butter
-- Shellfish meat — shrimp, crab, or lobster, quantity not yet known
+- ¼ lb (1 cup) cooked fresh or canned crab, **or** diced cooked fresh or canned shrimp or lobster
+- ¼ tsp salt *(for the shellfish)*
+- Pinch of pepper *(for the shellfish)*
+- 2 Tbsp Madeira or dry white vermouth
+- 3 eggs
+- 1 cup whipping cream
+- 1 Tbsp tomato paste
+- ¼ tsp salt *(for the custard)*
+- Pinch of pepper *(for the custard)*
+- ¼ cup grated Swiss cheese
 
-#### B. Cooking Instructions *(as far as the photographed page goes)*
+#### B. Cooking Instructions
 
 **1. Preheat the oven to 375°F.**
+Get it up to temperature before you start the shellfish, so the filling goes into a hot oven rather than sitting and separating on the counter.
 
 **2. Sweat the shallots. 1 to 2 minutes.**
-Cook the shallots or onions in the butter over moderate heat for 1 to 2 minutes, until tender but not browned.
+Cook the shallots or green onions in the butter over moderate heat for 1 to 2 minutes, until tender **but not browned**. Browning them puts a toasted, oniony note into what is supposed to be a delicate seafood custard.
 
-**3. Add the shellfish and stir gently.**
-Add the shellfish meat and stir gently for 2 minutes — *(the method cuts off here; the rest isn't captured)*.
+**3. Warm the shellfish. 2 minutes.**
+Add the shellfish meat and stir gently for 2 minutes. *Gently* is the operative word — crab in particular breaks into threads if you stir it like a sauce, and all of it is already cooked, so this is about warming it and coating it in the butter, not cooking it further.
 
-*(Presumably continues with an egg-and-cream mixture, an assembly step, and a bake, following the same shape as every other quiche in this chapter — see [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche) for what that looks like. Not confirmed from this page.)*
+**4. Season, add the wine, and boil it off. A moment.**
+Sprinkle on the ¼ tsp salt and the pinch of pepper. Add the Madeira or dry vermouth, raise the heat, and boil for a moment. Then let it cool slightly — pouring it hot into beaten eggs starts scrambling them.
+
+**5. Beat the custard.**
+Beat the eggs in a mixing bowl with the cream, tomato paste, and the second ¼ tsp salt and pinch of pepper.
+
+**6. Blend in the shellfish and taste.**
+Gradually blend the shellfish mixture into the custard, and taste for seasoning. This is the last chance to correct salt — once it's in the shell and in the oven, it is what it is, and canned crab and shrimp vary a lot in how salty they arrive.
+
+**7. Fill the shell and top with cheese.**
+Pour the mixture into the pastry shell, on its baking sheet, and sprinkle the ¼ cup grated Swiss cheese over the top.
+
+**8. Bake. 25 to 30 minutes.**
+Bake in the **upper third** of the preheated oven for 25 to 30 minutes, until the quiche has puffed and browned. The upper third matters — it's what browns the top in the time the custard needs to set. Per [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche)'s note from the same chapter, a knife plunged into the center comes out clean when it's done, it holds its puff about 10 minutes in the turned-off oven with the door ajar, and it sinks as it cools, which is normal and not a failure.
 
 #### C. Grocery Shopping List
 
 **🏪 Specific store — seafood market**
 
-- 🏪 Shrimp, crab, or lobster meat — quantity not yet known
+- 🏪 Cooked crabmeat — ¼ lb (1 cup), **or** the same amount of cooked shrimp or lobster, diced *(canned works, per the source)*
 
 **🛒 General grocery**
 
-- 🛒 Shallots or green onions — 2 Tbsp minced
+- 🛒 Shallots or green onions — enough for 2 Tbsp minced
 - 🛒 Butter — 3 Tbsp
-- Everything for an 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking)
+- 🛒 Madeira or dry white vermouth — 2 Tbsp
+- 🛒 Eggs — 3
+- 🛒 Whipping cream — 1 cup
+- 🛒 Tomato paste — 1 Tbsp
+- 🛒 Swiss cheese — ¼ cup grated
+- 🛒 Salt and pepper
+- Everything for an 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) — see its own grocery list
 
-#### D. Open Questions
+#### Nutrition *(estimated)*
 
-- **The shellfish quantity is unknown** — the ingredient list is cut off right after butter, before the shellfish line.
-- **The egg-and-cream custard portion of the ingredient list is entirely missing**, though every other quiche in this chapter uses one; not assumed here.
-- **The method past "stir gently for 2 minutes" isn't captured** — assembly into the shell and the bake time aren't shown, though they're almost certainly the same 375°F, 25-to-30-minute bake every other quiche on these pages uses.
-- **Difficulty and time are provisional**, rated Easy to match [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche) and excluded from the [Difficulty & Time Index](#difficulty--time-index)'s counts until the rest of the page arrives.
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,650 | 213 g | 68 g | 112 g | 4 g |
+| **Per serving** *(serves 5, midpoint of 4–6)* | ~530 | 43 g | 14 g | 22 g | 0.8 g |
 
-#### Nutrition
+**What a serving is:** one wedge — about a fifth of an 8-inch quiche — with a green salad alongside, which is how the source's own chapter intro serves it.
 
-Not yet calculable — the shellfish quantity and the egg-and-cream custard, which would carry most of the calories, aren't in the photographed ingredient list.
+*The cup of whipping cream and the pastry shell between them carry nearly all of this: the cream is most of the fat, the shell is most of the carbs. The Madeira is boiled off at step 4, so almost none of its alcohol calories land on the plate.*
 
 [↑ Table of Contents](#table-of-contents)
 

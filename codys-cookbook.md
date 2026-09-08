@@ -2184,7 +2184,7 @@ The source serves it over **Stuffed Mirliton** (p. 72 — *[mirliton is chayote;
 #### E. Open Questions
 
 - ~~Basic Seafood Stock (page 32) — still the outstanding gap.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
-- **Stuffed Mirliton (page 72)** isn't in this cookbook either — worth adding, since it's the dish this sauce was written for.
+- **Stuffed Mirliton (page 72)** — the dish this sauce was written for. 🚫 2026-09-08 — Cody: not pursuing; the sauce stands on its own and Stuffed Mirliton is simply not in this cookbook. [§4.8](#48-shrimp-and-crab-butter-cream-sauce) is complete without it, and the source itself also sells the sauce for stuffed fish, pasta and omelets.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2290,7 +2290,7 @@ Or as soon as possible, holding it somewhere warm — on top of the stove is Pru
 #### E. Open Questions
 
 - ~~Béarnaise Sauce (p. 306) is the last of §7.3's three sauces still missing.~~ **Settled 2026-08-09 — now written up at [§4.10](#410-new-orleans-béarnaise-sauce).** All three of §7.3's finishing sauces are in this cookbook.
-- **Roasted Goose with stuffing (p. 148)** — the source's other serving suggestion for this sauce, also not in this cookbook. *(The exact stuffing name was obscured in the photo.)*
+- **Roasted Goose with stuffing (p. 148)** — the source's other serving suggestion for this sauce. 🚫 2026-09-08 — Cody: not pursuing; the Hollandaise is complete as written and the goose is simply not in this cookbook. *(The exact stuffing name was obscured in the photo, and stays that way.)*
 - **Margarine alongside butter** is unusual in a hollandaise. Per [§T3](#t3-butter-oil-pan-frying--frying), margarine stands in for *oil* rather than butter — worth noting it's likely there to help the emulsion hold, but the source doesn't say why.
 
 [↑ Table of Contents](#table-of-contents)
@@ -2549,7 +2549,7 @@ Stir well, bring to a simmer, then drop to very low and continue 5 minutes. Remo
 #### D. Open Questions
 
 - ~~Basic Beef or Pork Stock (page 31) isn't in this cookbook.~~ **Settled 2026-08-09 — confirmed: it's one formula for all of them, now at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the beef/pork variant.
-- **Eggs Basin Street (p. 303)** and its own referenced **Red Beans and Rice (p. 190)** — different from [§7.16](#716-red-beans--rice) in this cookbook — aren't transcribed here.
+- **Eggs Basin Street (p. 303)** and its own referenced **Red Beans and Rice (p. 190)**. 🚫 2026-09-08 — Cody: not pursuing; this sauce stands on its own and both companion dishes are simply not in this cookbook. [§7.16 Red Beans & Rice](#716-red-beans--rice) is a different recipe from a different source, and it is the red beans this cookbook carries.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -2954,7 +2954,7 @@ Keep it cooking — the source says *cook*, not boil. What you're watching for i
 
 #### D. Open Questions
 
-- **Oysters en Brochette (page 82)** — the source's other serving suggestion for this sauce, not in this cookbook.
+- **Oysters en Brochette (page 82)** — the source's other serving suggestion for this sauce. 🚫 2026-09-08 — Cody: not pursuing; the sauce is complete on its own and Oysters en Brochette is simply not in this cookbook. The source's other uses — steak, lobster, grilled or blackened fish, and vegetables with the garlic left out — are already written into the entry.
 
 #### E. Verification
 
@@ -13264,7 +13264,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — book **p. 268
 
 > **The source's own NOTE on the flavored mayonnaises that follow it**, folded in here because it explains what the recipe is *for*: the flavored versions are unconventional and not the way things were done in the past. There are endless uses for them — from a lowly sandwich or tuna salad to the finest seafood. Prudhomme calls them superb on sandwiches; his kitchen uses them on po boy sandwiches made with French bread and various fillings. The unusual combinations he singles out as terrific are **Oyster Mayonnaise on roast beef**, **Garlic Mayonnaise on oyster or shrimp po boys**, **Beef Mayonnaise on ham sandwiches or po boys**, and **Shrimp Mayonnaise on cold roast lamb sandwiches**. They also make great dips, and suit any salad that calls for a mayonnaise dressing.
 
-> **📌 Those four flavored mayonnaises are named here but not transcribed** — they run on pages that have not been photographed. They are tracked in [§12 Recipes To Document](#12-recipes-to-document). A separate garlic mayonnaise from a different book is already in this cookbook at [§4.161 Aioli](#4161-aioli-garlic-mayonnaise); it is *not* Prudhomme's Garlic Mayonnaise and shouldn't be substituted for it without saying so.
+> **📌 Those four flavored mayonnaises are named here but not transcribed** — they run on the pages after p. 268, which are in no photographed batch. **🚫 2026-09-08 — Cody: not pursuing; this entry is the finished recipe, and the four flavored versions stay named-only.** The names and the source's own pairings recorded above are the whole of what this cookbook will carry for them; anyone wanting one builds it on the mayonnaise above. A separate garlic mayonnaise from a different book is already here at [§4.161 Aioli](#4161-aioli-garlic-mayonnaise); it is *not* Prudhomme's Garlic Mayonnaise and shouldn't be substituted for it without saying so.
 
 > ⚠️ **Raw egg — cookbook safety note, not from the page.** This mayonnaise is never cooked; the whole egg goes in raw and stays raw. Keep it **refrigerated and eat it within a few days** — treat it like fresh dairy, not like a jar of store mayonnaise, which is made with pasteurized egg and acidified to sit on a shelf. **Use pasteurized eggs** (sold in the shell at most groceries) if it's being served to **anyone pregnant, elderly, very young, or immunocompromised**; they behave identically in the blender. The 1 tablespoon of vinegar helps but does not make the egg safe.
 
@@ -13607,9 +13607,9 @@ It keeps, **tightly covered in the refrigerator, for at least 3 days.**
 
 #### D. Open Questions
 
-- **Tamarind Water, source p. 241 — named but not transcribed.** This recipe's ¼ cup of it is the source's own preparation, and that page has never been photographed. **Frozen tamarind puree, thawed, is the source's own printed alternate** and stands in exactly, so nothing here is unmakeable — the ingredient line gives both. Tracked in [§12](#12-recipes-to-document).
-- **Dutch West Indian Chicken Kebabs, source p. 73 — named but not transcribed.** The dish this sauce was written for, and not photographed. The headnote says the sauce is *"great with any type of saté, as well as grilled chicken or seafood,"* so it has plenty of company here already — [§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef) are all kebabs. Tracked in [§12](#12-recipes-to-document).
-- **Coconut Milk, source p. 522**, cited by [§4.190](#4190-thai-peanut-sauce) rather than by this recipe, is likewise not photographed — canned unsweetened coconut milk is what that recipe assumes anyway.
+- **Tamarind Water, source p. 241 — named, not transcribed.** 🚫 2026-09-08 — Cody: not pursuing; **frozen tamarind puree, thawed, is the source's own printed alternate** and stands in exactly — the ingredient line gives both, so nothing here is unmakeable. What stays unknown is only Raichlen's own pulp-to-water ratio and how he strains it, and this cookbook will not carry it.
+- **Dutch West Indian Chicken Kebabs, source p. 73 — named, not transcribed.** 🚫 2026-09-08 — Cody: not pursuing; the sauce stands on its own and the kebabs are simply not in this cookbook. The headnote itself says the sauce is *"great with any type of saté, as well as grilled chicken or seafood,"* and [§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef) are eight kebabs already here to put it beside.
+- **Coconut Milk, source p. 522**, cited by [§4.190](#4190-thai-peanut-sauce) rather than by this recipe. 🚫 2026-09-08 — Cody: not pursuing; **use canned unsweetened coconut milk**, which is what [§4.190](#4190-thai-peanut-sauce) and every other entry in this cookbook assumes, and [§4.41](#441-asian-peanut-sauce)'s own source note gives a further fallback (equal parts heavy cream and chicken broth).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -19494,7 +19494,7 @@ Warm the asparagus through in the lemon butter, then divide the spears between t
 
 #### D. Open Questions
 
-- The source's intro paragraph was photographed at a steep angle and partly hard to read — the transcription above is paraphrased, not a direct quote. Worth re-photographing straight-on if the exact wording matters.
+- The source's intro paragraph was photographed at a steep angle and partly hard to read — the transcription above is **paraphrased, not a direct quote**, and keeps that label permanently. 🚫 2026-09-08 — Cody: not pursuing a reshoot; the paraphrase stands as this entry's final form. Nothing in the ingredients or the method depends on it — only the headnote's exact wording is unverified.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -19578,7 +19578,7 @@ Make a bed of watercress or arugula on a large platter. Pile the pickled beets i
 
 #### D. Open Questions
 
-- **The horseradish cream mixing step was hard to read from the photo** (steep angle, partly obscured) — the method above is reconstructed to match the printed ingredient list (mustard, horseradish, cream, salt — no sugar or vinegar in this component) rather than transcribed word-for-word. Worth confirming against a clearer photo.
+- **The horseradish cream mixing step was hard to read from the photo** (steep angle, partly obscured) — the method above is **reconstructed** to match the printed ingredient list (mustard, horseradish, cream, salt — no sugar or vinegar in this component) rather than transcribed word-for-word, and keeps that label permanently. 🚫 2026-09-08 — Cody: not pursuing a reshoot; the reconstruction stands as this entry's final form. The ingredient list itself is read straight off the page, so the salad is fully makeable as written.
 
 [↑ Table of Contents](#table-of-contents)
 

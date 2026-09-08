@@ -907,7 +907,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) | 🟢 | 15 min | 10 min | **30 min** *(smoke-roast, indirect grill)* | 55 min *(+ 1 hr wood chip soak, in parallel)* |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
-| [§8.1 Chili Mac](#81-chili-mac) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot)* | 4 hr 25 min |
+| [§8.1 Chili Mac](#81-chili-mac) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot — the chili only, not the noodles)* | 4 hr 25 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill; ~2–3 hr for Cody's preferred St. Louis/spare ribs)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
@@ -1212,7 +1212,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ### Reading this table
 
-**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili Mac](#81-chili-mac) is 25 minutes and 4 hours of nothing. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
+**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili Mac](#81-chili-mac) is 25 minutes and 4 hours of nothing — though note the 4 hours is the **chili** in the crock pot; the noodles are boiled fresh at the end. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§10.0 Frittata](#100-the-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
@@ -35407,9 +35407,11 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 
 ### 8.1 Chili Mac
 
-Transcribed from Cody's photographed recipe card — a crock-pot chili built on a **50/50 mix of deer (or beef) and pork sausage**, served over noodles. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody's own distinction: "chili can stand alone, but chili mac is its own thing that includes chili."** Plain chili is its own dish; this recipe builds noodles right in, which makes it chili mac specifically, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
+Transcribed from Cody's photographed recipe card — a **crock-pot chili** built on a **50/50 mix of deer (or beef) and pork sausage**, ladled over noodles to make chili mac. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody's own distinction: "chili can stand alone, but chili mac is its own thing that includes chili."** Plain chili is its own dish; this recipe finishes over noodles, which makes it chili mac specifically, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
 
-**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** · **Slow cook 4 hr** *(crock pot)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands)*
+> ⚠️ **Correction, 2026-09-08 per Cody — read this before you cook. *The chili goes in the crock pot, not the chili mac as a whole.*** The slow cooker holds **the chili only**: browned meat, onion, tomatoes, canned chili, beans, seasoning. **The noodles are never in it.** They're boiled separately at the end and the chili goes over them, and the dish only becomes chili mac at the moment those two meet in the bowl. This is worth being blunt about because "crock-pot chili mac" is a real and common recipe in which dry pasta *is* dumped into the slow cooker — **that is not this dish.** Do it that way here and you'll get four hours of pasta sitting in liquid: bloated, split, and pasty, with the chili thinned out by the starch it gave up. Everything below is written accordingly.
+
+**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** *(browning, plus boiling the noodles at the end)* · **Slow cook 4 hr** *(crock pot — **the chili only**, never the noodles)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands until the noodles go on)*
 
 **❤️ Family favorite** — *Cody: "Awesome."*
 
@@ -35424,7 +35426,7 @@ Transcribed from Cody's photographed recipe card — a crock-pot chili built on 
 - 2 cans prepared chili
 - 1 can black beans
 - 1 packet chili seasoning
-- 1 lb noodles, for serving
+- 1 lb noodles, **boiled separately at serving — these never go in the crock pot**
 - Crystal hot sauce (Cody's card spells it "Krystal's") — 1 container
 - 1 bag shredded cheese
 
@@ -35433,11 +35435,13 @@ Transcribed from Cody's photographed recipe card — a crock-pot chili built on 
 **1. Brown the meat and onion.**
 Cook the venison (or beef) and the pork sausage — **equal parts, 50/50** — together with the chopped onion until browned. The sausage carries fat and seasoning that lean deer meat doesn't have, which is why the split matters.
 
-**2. Move everything to the crock pot.**
-Add the browned meat and onion to the crock pot along with the diced tomatoes, prepared chili, black beans, and chili seasoning packet. Stir, cover, and let it go on low until everything's hot through and the flavors have come together.
+**2. Move the chili — and only the chili — to the crock pot. 4 hours on low.**
+Add the browned meat and onion to the crock pot along with the diced tomatoes, prepared chili, black beans, and chili seasoning packet. Stir, cover, and let it go on low for **4 hours**. **The noodles stay out of the pot** — see the correction at the top of the entry.
 
-**3. Serve over noodles.**
-Cook the noodles separately and ladle the chili over the top.
+*Every solid thing in there is already cooked, so these hours aren't cooking anything; they're melding. The canned chili, the seasoning packet, the tomatoes, and the rendered sausage fat need time to stop tasting like four separate products and start tasting like one pot. **2 hours on low is the floor** if you're up against dinner, and **8 hours won't hurt it** — nothing in the pot can overcook. On high, figure 2 hours.* *(⚙️ **Cookbook judgment, 2026-09-08** — Cody's card gives no crock-pot time and he asked for judgment. Reasoned from standard published slow-cooker chili practice — **Southern Living's** and **Betty Crocker's** slow-cooker chili recipes both run 6–8 hours on low or 3–4 on high **from raw or just-browned meat**, and this pot starts further along than that, with browned meat and canned prepared chili already in it. So the long end isn't needed: 4 hours on low is the house number, which is also what this entry's badge has always carried.)*
+
+**3. Boil the noodles and ladle the chili over them.**
+Cook the noodles separately, in salted water, and drain them right before serving. Then build each bowl: noodles down, chili over the top. **Don't combine the whole batch in one pot** unless you're sure it's all getting eaten — noodles sitting in chili keep drinking it up, and leftovers stored combined come back swollen and dry. Keep the chili and the noodles in separate containers and marry them per bowl.
 
 **4. Top with cheese and hot sauce.**
 Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sauce.
@@ -35453,7 +35457,7 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 - 🛒 Prepared chili — 2 cans
 - 🛒 Black beans — 1 can
 - 🛒 Chili seasoning — 1 packet
-- 🛒 Noodles — 1 lb
+- 🛒 Noodles — 1 lb *(boiled separately at serving)*
 - 🛒 Crystal hot sauce — 1 container
 - 🛒 Shredded cheese — 1 bag
 
@@ -35470,7 +35474,8 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 
 #### D. Open Questions
 
-- No crock-pot time given on the card — confirm how long Cody runs it on low (a few hours is the placeholder assumption above).
+- ✅ **2026-09-08 per Cody — the crock pot holds the chili, not the chili mac.** The dish is not assembled in the slow cooker; the noodles are boiled separately and the chili goes over them. Written into the entry header, step 2, step 3, the ingredients, and the badge.
+- ✅ **2026-09-08 — crock-pot time set as cookbook judgment: 4 hours on low** *(floor 2 hr, ceiling 8 hr, or about 2 hr on high)*. Cody's card gives no time and he asked for judgment. Reasoned from **Southern Living's** and **Betty Crocker's** slow-cooker chili recipes — both 6–8 hr on low / 3–4 hr on high from raw or just-browned meat — shortened because this pot goes in with the meat already browned and canned prepared chili already cooked, so the slow cook is a meld, not a cook. Cody's own number replaces this the day he gives one.
 - ✅ 2026-09-07 per Cody: the meat is a **50/50 mix — deer and pork sausage, or beef and pork sausage.** Either pairing is the house version; the 1 lb + 1 lb above is that split, so the Nutrition estimate is unchanged. **This rule applies to any dish that includes chili** — noted on [§8.21 Five-Way Chili](#821-five-way-chili) and [§8.36 Chili Dogs](#836-chili-dogs).
 
 ### 8.2 Soups

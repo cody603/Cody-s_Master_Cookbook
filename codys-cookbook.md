@@ -24009,7 +24009,7 @@ Transcribed from Cody's spreadsheet — a simple honey-soy marinade for grilled 
 
 **Both**
 
-- Cavender's seasoning, to taste — liberally
+- **Greek seasoning** — Cavender's is the one Cody names; to taste, and used **liberally**, especially on the onions
 - Skewers *(about 18; soak wooden ones 30 min)*
 
 #### B. Cooking Instructions
@@ -24029,10 +24029,13 @@ Kielbasa is already fully cooked, so it's not marinating with the chicken — it
 **5. Thread Skewer A: chicken and pineapple, one for one.**
 Alternate **1 chicken cube, 1 pineapple chunk** — about 6 chicken and 5–6 pineapple per skewer, packed snug so the pineapple bastes the chicken. That's the whole skewer; no vegetables on this one. Makes about 10.
 
-**6. Thread Skewer B: kielbasa and vegetables, with the tomato shielded.**
+**6. Thread Skewer B: kielbasa and vegetables — and put every onion quarter directly against a kielbasa round.**
 Kielbasa rounds alternating with zucchini, squash, onion, and bell pepper. Put each tomato quarter **mid-skewer between two kielbasa rounds** — the sausage shields it from the direct flame. It will still soften; that's fine on a skewer that only needs 8–10 minutes. Makes about 8.
 
-**7. Season both skewer types liberally with Cavender's before they hit the grill.**
+*✅ **2026-09-08 per Cody — the onion method, and it's a real technique, not a loading order.** Quarter the onions, thread them on the kebab, hit them generously with **Greek seasoning — Cavender's is good** — and then **place them right next to the kielbasa so the kielbasa juice runs into the onion.** That last part is the whole point. Kielbasa is fully cooked and fatty, so on the fire it doesn't absorb, it **gives** — the rendered sausage fat and juice have to go somewhere, and an onion quarter pressed up against it is the best thing on the skewer to catch them. Onion layers separate slightly as they soften and drink it in; you end up with an onion that tastes like the sausage. Sandwich the onion between two kielbasa rounds where you can, so it's picking up juice from both sides.*
+
+**7. Season both skewer types liberally with Greek seasoning (Cavender's) before they hit the grill.**
+Be generous — this is a shake-on-and-grill seasoning, and the fire and the fat both take the edge off it. **Give the onions more than everything else**, per Cody; heavily seasoned onion plus rendered kielbasa juice is what makes Skewer B worth eating.
 
 **8. Grill over direct medium-high, about 400–450°F, grates oiled. Skewer A 10–12 minutes, Skewer B 8–10.**
 Start Skewer A first. Turn every 3 minutes so all four sides see the fire — the honey will blacken at the edges, and that's the look, but if it's charring hard before the 8-minute mark, slide them to a cooler zone. **Chicken is done at 160–165°F in the thickest cube.** Put Skewer B on about 2 minutes after A and turn it the same way; it's done when the kielbasa is blistered and the squash is tender with char. Both come off together. Serve hot, off the skewers or on them.
@@ -24054,7 +24057,7 @@ Start Skewer A first. Turn every 3 minutes so all four sides see the fire — th
 - 🛒 Zucchini — 2 medium
 - 🛒 Yellow squash — 2 medium
 - 🛒 Tomatoes (large, not cherry) — 2
-- 🛒 Cavender's seasoning
+- 🛒 Greek seasoning — **Cavender's** *(Cody's pick; buy the big shaker, the onions take a lot of it)*
 - 🛒 Skewers — about 18
 
 #### Nutrition *(estimated)*
@@ -24073,7 +24076,8 @@ Start Skewer A first. Turn every 3 minutes so all four sides see the fire — th
 - ✅ 2026-09-07 per Cody ("use your judgment") — **amounts and cut sizes for pineapple, zucchini, squash, tomato, and kielbasa** set as cookbook judgment (two pineapples, 1½ lb kielbasa, tomatoes quartered and shielded), sized to 8 breast halves; basis and sources in the note above. Adjust after a cook and say so.
 - ✅ 2026-09-07 per Cody — **two skewer types**: chicken with pineapple; kielbasa with zucchini, onions, tomatoes, and squash (bell pepper rides with the vegetables since it's on the sheet).
 - ✅ 2026-09-07 per Cody — **marinate 4–6 hours, not overnight.** The "overnight is fine" line is removed.
-- Confirm the "onions" line lower on the sheet isn't meant to be a second, separate quantity beyond the 5 small onions already called for.
+- ✅ **2026-09-08 per Cody — the onion method.** Quartered, threaded on the kebab, seasoned generously with Greek seasoning (Cavender's), and placed **right next to the kielbasa so the kielbasa juice runs into the onion.** Written into steps 6 and 7.
+- 🔁 **Still open — the duplicated "onions" line.** Asked again 2026-09-08: Cody doesn't know and **needs to look at the sheet.** Until he does, the second unquantified "onions" line is still read as the same 5 small onions rather than a separate addition. *(Note that his onion method above gives the onions a real job on the skewer, which makes a genuinely larger second quantity more plausible than it looked before — worth a hard look at the sheet.)*
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -27339,90 +27339,114 @@ Pour in the mushroom-cream mixture. Cover and steep for 5 minutes **without lett
 
 ### 7.58 Poulet Sauté (Sautéed Chicken)
 
-Transcribed from **Mastering the Art of French Cooking, Volume One**, Chapter Six: Poultry, p. 254–257 — the same volume and chapter as [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(not the Volume Two behind [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) — flagged so the two volumes stay straight)*. *"In a true sauté, the cut-up chicken is cooked entirely in butter, or butter and oil, with seasonings. No liquid comes in contact with it, and it should be served as soon as it is done, or it loses the fresh and juicy characteristics of a sauté. The fricassees, however, take well to reheating."*
+Transcribed from **Mastering the Art of French Cooking, Volume One**, Chapter Six: Poultry, pp. 254–257 — the same volume and chapter as [§7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) *(not the Volume Two behind [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) — flagged so the two volumes stay straight)*. The book's own section head is **SAUTÉED CHICKEN**, and the recipe is starred; it is *"for: frying chickens."* *"In a true sauté the cut-up chicken is cooked entirely in butter, or butter and oil, with seasonings. No liquid comes in contact with it until the very end. It is a quick and delicious way to cook chicken, but should be served as soon as possible after it is done or it loses the fresh and juicy characteristics of a sauté. The fricassees, however, as they cook in a sauce, take well to reheating."*
 
-> ⚠️ **Two passages reconstructed from a hard-to-read photo, flagged rather than presented as certain:** the source's own note on French-style disjointing (below) had some phrasing that didn't fully resolve, and the two make-ahead notes in Section D are a best-effort reading of a page with heavy overlap between lines. The core master recipe and both named variations read clean and are transcribed with confidence.
+> ✅ **2026-09-08 verified and corrected against Cody's photographs of pp. 254, 255, 256, and 257.** The two passages that had been flagged as *"reconstructed from a hard-to-read photo"* are now read clean off the page, and the ⚠️ flag is gone. **Seven real corrections came out of the check, not just polish:**
+>
+> 1. **The browning time was wrong.** The entry said *"Brown the chicken. 20 to 25 minutes."* The page's own sub-heads are **Browning the chicken (8 to 10 minutes)** and **Finishing the cooking (20 to 25 minutes)** — the 20-to-25 belongs to the finish, not the browning. Total cooking time, printed: **30 to 35 minutes**.
+> 2. **The wings were in the wrong group.** The entry seasoned *"the dark meat (legs, thighs, wings)"* first. The page is explicit the other way: *"(The wings and breasts are done later, as they cook faster.)"* Wings go in **with the white meat**.
+> 3. **The deglazing stock was short.** The page reads **¾ to 1 cup** brown chicken stock; the entry had a flat ¾ cup.
+> 4. **A whole ingredient was missing from the master recipe** — **2 or 3 Tbsp butter, if necessary**, for when the browning fat has burned and has to be poured out and replaced.
+> 5. **A whole ingredient was missing from the Provence variation** — **1 tsp basil**, which is the herb its own headnote leads with.
+> 6. **The Provence variation had the garlic in the wrong step.** The page adds the 3 unpeeled cloves with the **dark** meat, not with the white meat later; and it removes only the **white** meat after browning, not all of it.
+> 7. **The two (\*) make-ahead notes on p. 256 were missing from the entry entirely.** They are now transcribed in full at Section F.
 
-> **A note on disjointing the chicken, per the source:** French chicken is disjointed so each wing includes a strip of the breast, and the breast (minus ribs) is cut crosswise in two — 8 good serving pieces total. American-style disjointing (2 drumsticks, 2 second joints, 2 breast halves, 2 wings) works fine too; to help the breast cook evenly, slip a knife under the ribs and remove them, and chop each breast half in two crosswise if you like smaller pieces.
+> **A note on disjointing the chicken — the source's own, now read clean.** *French* chicken is disjointed so that **each wing includes a strip from the lower part of the breast**; the breast, minus ribs, is cut in two crosswise; and the drumsticks are separated from the second joints. **That makes 8 good serving pieces, plus the back cut in two crosswise if you wish to include it.** *American* chicken is usually disjointed into 2 drumsticks, 2 second joints, the 2 halves of the breast, and **2 wings with no breast meat attached**. So that the breasts will cook evenly, **slip a knife under the ribs and remove them**. Each breast half may be chopped in two crosswise if you wish.
 
-> **Wine and vegetable suggestions, per the source:** the same as for roast chicken, source p. 240 — the untranscribed master recipe [§7.57](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) also points to.
+> **Wine and vegetable suggestions, per the source:** the same as for roast chicken, source p. 240 — the same untranscribed master recipe [§7.57](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) points to.
 
 **Yield:** for 4 to 6 people
 
-**🟡 Medium** · **Prep ~15 min** *(cutting up and drying the chicken, mincing shallots)* · **Cook ~40 min** *(30 to 35 min per the source's own total for browning and finishing, plus the deglazing sauce)* · **Start to finish ~55 min**
+**Total cooking time, per the source: 30 to 35 minutes** — browning 8 to 10 minutes, finishing 20 to 25 minutes.
+
+**🟡 Medium** · **Prep ~15 min** *(disjointing and drying the chicken, mincing shallots)* · **Cook ~40 min** *(the source's own 30–35 min for browning and finishing, plus the deglazing sauce)* · **Start to finish ~55 min**
 
 #### A. Ingredients — The Master Recipe
 
-**For browning**
+**For browning *(8 to 10 minutes)***
 
-- 2½ to 3 lb cut-up chicken, dried thoroughly with paper towels
-- 2 Tbsp butter and 1 Tbsp oil, or more as needed to keep the pan bottom filmed with fat
+- 2½ to 3 lb cut-up frying chicken, dried thoroughly
+- 2 Tbsp butter and 1 Tbsp oil, more if necessary to keep the bottom of the pan filmed with fat
 
-**For finishing**
+**For finishing *(20 to 25 minutes)***
 
 - Salt and pepper
-- 1 to 2 tsp fresh thyme, basil, tarragon, or other green herbs — or 1 tsp dried herbs, optional
+- Optional: 1 to 2 tsp fresh green herbs — thyme, basil, and tarragon, or tarragon only; **or** 1 tsp dried herbs
+- 2 or 3 Tbsp butter, if necessary *(only if the browning fat has burned and has to be poured off)*
 
 **For the brown deglazing sauce**
 
-- 1 Tbsp minced shallots or green onions
-- ½ cup dry white wine, or ⅓ cup dry white vermouth, optional
-- ¾ cup brown chicken stock, canned beef bouillon, or canned chicken broth
+- 1 Tbsp minced shallot or green onions
+- Optional: ½ cup dry white wine, or ⅓ cup dry white vermouth
+- ¾ to 1 cup brown chicken stock, canned beef bouillon, or canned chicken broth
 - 1 to 2 Tbsp softened butter
-- 1 to 2 Tbsp minced parsley or fresh green herbs, optional
+- Optional: 1 to 2 Tbsp minced parsley or fresh green herbs
 
-**You'll need:** a heavy, 10-inch casserole, skillet, or electric skillet; a bulb baster.
+**You'll need:** a heavy, 10-inch casserole, skillet, or electric skillet; tongs for turning the chicken; a bulb baster.
 
 #### B. Cooking Instructions — The Master Recipe
 
-**1. Brown the chicken. 20 to 25 minutes.**
-Set the casserole over moderately high heat with the butter and oil. When the butter foam has subsided (360°F for an electric skillet), add as many chicken pieces, skin-side down, as fit easily in one layer. In 2 to 3 minutes, when the chicken has browned to a nice golden color on one side, turn it to brown on another side. Regulate the heat so the fat stays very hot but doesn't burn. Remove browned pieces as they're done and add fresh ones until everything has browned.
+**1. Dry every piece.**
+Dry each piece of chicken thoroughly. The source is blunt about why: **it will not brown if it is damp.** This is the one step people skip and then wonder why the skin went gray.
 
-**2. Season and slow-cook the dark meat. 8 to 9 minutes.**
-Season the dark meat (legs, thighs, wings) with salt, pepper, and the optional herbs. Return it to the casserole skin-side up, reduce the heat (300°F for an electric skillet), cover, and cook slowly.
+**2. Brown the chicken. 8 to 10 minutes.**
+Set the casserole or skillet over moderately high heat with the butter and oil — 360°F for an electric skillet. When you see the butter foam has almost subsided, add as many pieces skin-side down as fit easily **in one layer**. In 2 to 3 minutes, when a piece has browned to a nice golden color on one side, turn it to brown on another. Regulate the heat so the fat is always **very hot but not burning**. Remove browned pieces as they're done and add fresh ones until everything has browned. Crowding the pan is what turns this into steaming.
 
-**3. Add the white meat and finish. About 15 minutes.**
-Season the breast pieces and add them to the casserole with the dark meat. Cover and continue cooking, basting the chicken with the butter in the casserole 2 or 3 times, until the meat is tender and the juices run a clear yellow when pricked deeply with a fork.
+**3. Season and slow-cook the dark meat. 8 to 9 minutes.**
+Season the dark meat with salt, pepper, and the optional herbs — **the wings and breasts go in later, because they cook faster.** If the browning fat has burned, pour it out of the casserole and add the fresh 2 or 3 Tbsp butter. Set over moderate heat (300°F for an electric skillet), add the dark meats, cover, and cook slowly.
 
-**4. Rest the chicken while you make the sauce.**
-Remove the chicken to a hot serving platter, cover, and keep warm while you finish the sauce.
+**4. Add the white meat and finish. About 15 minutes.**
+Season the white meat, add it to the dark meat, and baste the chicken with the butter in the casserole. Cover and continue cooking, **turning and basting 2 or 3 times.**
 
-**5. Deglaze and reduce. To about ⅓ cup.**
-Remove all but 2 or 3 Tbsp of fat from the casserole. Add the shallots or onions and cook slowly 1 minute. Pour in the optional wine and the stock, and boil rapidly, scraping up the coagulated pan juices, until reduced to about ⅓ cup. Correct the seasoning.
+**5. Check for doneness.**
+Two cues, both the source's: **the fattest part of the drumsticks is tender if pinched**, and **the juices run clear yellow when the meat is pricked deeply with a fork.** Pinkish juice means keep going.
 
-**6. Off heat, finish with butter and herbs, then serve.**
-Off heat and just before serving, swirl in the enrichment butter and the optional parsley or herbs. Arrange whatever vegetables you've chosen around the platter, pour the sauce over the chicken, and serve.
+**6. Rest the chicken. 2 to 3 minutes.**
+Remove the chicken to a hot serving platter. Cover and keep warm for 2 to 3 minutes while you finish the sauce — that's all the time the sauce needs, and this is a sauté, which the source says should be served as soon as possible.
+
+**7. Deglaze and reduce. To about ⅓ cup.**
+Remove all but 2 or 3 Tbsp of fat from the casserole. Add the shallots or onions and cook slowly 1 minute. Pour in the optional wine and the stock, raise the heat, and boil rapidly, scraping up the coagulated sauté juices, until reduced to about ⅓ cup. Correct the seasoning. That ⅓ cup is a small, concentrated amount — this is a glaze for the chicken, not a gravy to pour.
+
+**8. Off heat, finish with butter and herbs, then serve.**
+**Off heat** and just before serving, swirl in the enrichment butter and the optional parsley or herbs. Off heat matters: the butter is there to enrich and gloss the sauce, and boiling it will break that. Arrange whatever vegetables you've chosen around the platter, pour the sauce over the chicken, and serve.
 
 #### C. Variation — Poulet Sauté à la Crème (Deglazing Sauce with Cream)
 
-Sauté the chicken exactly as in the master recipe above. Then:
+*Verified against source p. 256, under the page's own heading* **OTHER SAUCES**. Sauté the chicken exactly as in the master recipe above and place it on a hot platter. Then:
 
 - 1 Tbsp minced shallots or green onions
 - ½ cup dry white wine, or ⅓ cup dry white vermouth
 - 1 cup whipping cream
 - 1 to 2 Tbsp softened butter
-- 1 to 2 Tbsp minced parsley or mixed green herbs, optional
+- Optional: 1 to 2 Tbsp minced parsley or mixed green herbs
 
-**1. Deglaze and reduce the wine hard.** Remove all but 1 Tbsp of fat from the casserole. Stir in the shallots or onions. Add the wine and boil it down rapidly to about 3 Tbsp, scraping up the coagulated cooking juices.
+**1. Deglaze and reduce the wine hard. Down to about 3 Tbsp.**
+Remove all but **1 Tbsp** of fat from the casserole — less than the master recipe leaves, because cream is coming. Stir in the shallots or onions and cook slowly 1 minute. Add the wine and boil it rapidly down to about 3 tablespoons, scraping up the coagulated cooking juices.
 
-**2. Add the cream and reduce again.** Add the cream and boil until it's thickened slightly. Correct the seasoning.
+**2. Add the cream and reduce again.**
+Add the cream and boil it down until it has thickened slightly. Correct the seasoning.
 
-**3. Off heat, finish with butter and herbs.** Just before serving, swirl in the butter and optional herbs. Pour the sauce over the chicken.
+**3. Off heat, finish with butter and herbs.**
+Just before serving, off heat, swirl in the butter and optional herbs. Pour the sauce over the chicken.
 
-> **Cross-reference, not transcribed — Poulet Sauté Chasseur (Tomato and Mushroom Sauce).** The source's own instruction is simply *"use the same technique as for the veal scallops on page 368, escalope de veau chasseur."* That page isn't photographed, so this variation stays open rather than guessed at.
+#### D. Variation — Poulet Sauté Chasseur (Tomato and Mushroom Sauce) *(named, not transcribed)*
 
-#### D. Variation — Poulet Sauté aux Herbes de Provence (Chicken with Herbs, Garlic, and an Egg Yolk Liaison)
+Printed on source p. 256 directly under à la Crème, and it is one sentence long: *"Use the same technique as for the veal scallops on page 368,* escalopes de veau chasseur.*"* That page is **not photographed**, so there is nothing here to transcribe and none of it is invented — a chasseur is a tomato-and-mushroom pan sauce, but the source's actual proportions and method live on p. 368. Tracked in [§12](#12-recipes-to-document). Sauté the chicken by the master recipe above; the sauce is the open half.
 
-*"Basil, thyme or savory, a pinch of fennel, and a bit of garlic give this sauté a fine Provençal flavor, even more pronounced if your herbs are fresh."* Serve with buttery potatoes or potato crêpes and a chilled rosé. The finishing sauce here is its own small hollandaise-style liaison — egg yolks and butter, not a plain deglaze.
+#### E. Variation — Poulet Sauté aux Herbes de Provence (Chicken Sautéed with Herbs and Garlic, Egg Yolk and Butter Sauce)
+
+*Verified against source p. 257.* *"Basil, thyme or savory, a pinch of fennel, and a bit of garlic give this sauté a fine Provençal flavor that is even more pronounced if your herbs are fresh. The sauce is a type of hollandaise, as the herbal, buttery pan juices are beaten into egg yolks to make a thick and creamy liaison."* Serve with potatoes sautéed in butter or potato crêpes (source pp. 521 or 526), broiled tomatoes, and a chilled rosé.
+
+> **This variation is harder than the master recipe.** The finish is a hollandaise-style egg yolk liaison, which can curdle — the one genuinely fail-prone step anywhere in this entry. Treat it with the same care as [§4.9 Hollandaise](#49-hollandaise-sauce).
 
 **Yield:** for 4 to 6 people
 
 **Ingredients**
 
-- A heavy, 10-inch fireproof casserole, skillet, or electric skillet, set at 300°F
 - ¼ lb (1 stick) butter
-- 2½ to 3 lb cut-up chicken, dried with a towel
+- 2½ to 3 lb cut-up frying chicken, dried in a towel
 - 1 tsp thyme or savory
+- **1 tsp basil**
 - ¼ tsp ground fennel
 - Salt and pepper
 - 3 cloves unpeeled garlic
@@ -27430,52 +27454,69 @@ Sauté the chicken exactly as in the master recipe above. Then:
 - 2 egg yolks
 - 1 Tbsp lemon juice
 - 1 Tbsp dry white wine or white vermouth
-- Optional: 2 to 3 Tbsp softened butter
+- Optional: 2 or 3 Tbsp softened butter
 
-**You'll need:** a small enameled saucepan; a wire whip.
+**You'll need:** a heavy, 10-inch fireproof casserole, skillet, or electric skillet set at 300°F; a small enameled saucepan; a wire whip.
 
-**1. Brown the chicken in butter. 7 to 8 minutes.**
-Heat the butter until it's foaming, then turn the chicken pieces in it until browned, not letting the butter color past a deep golden. Remove the meat.
+**1. Turn the chicken in foaming butter. 7 to 8 minutes.**
+Heat the butter until it is foaming, then turn the chicken pieces in it for 7 to 8 minutes, **not letting them color more than a deep yellow.** This is not the hard browning of the master recipe — you want colour, not crust. Then remove **the white meat** only.
 
-**2. Season and slow-cook the dark meat.**
-Season the dark meat with the herbs, salt, and pepper, and return it to the casserole. Cover and cook slowly for 8 to 9 minutes.
+**2. Season the dark meat, add the garlic, and cook slowly. 8 to 9 minutes.**
+Season the dark meat with the herbs, salt, and pepper, and add the 3 unpeeled garlic cloves to the casserole. Cover and cook slowly. The garlic goes in **here**, with the dark meat, so it has the full time to soften in the butter — it gets mashed into the sauce later.
 
-**3. Add the white meat and garlic, and finish. About 15 minutes.**
-Season the white meat and add it to the casserole along with the unpeeled garlic cloves. Cover and cook, basting the chicken with the butter 2 or 3 times, until tender and the juices run pale yellow when pricked with a fork.
+**3. Add the white meat and finish. About 15 minutes.**
+Season the white meat and add it to the casserole, basting the chicken with the butter. Cook, turning and basting 2 or 3 times, until the chicken is tender and **its juices run pale yellow** when pricked with a fork.
 
 **4. Rest the chicken.**
 Remove it to a hot platter, cover, and keep warm.
 
-**5. Mash the garlic and reduce the wine.**
-Mash the garlic cloves in the casserole with a spoon, then discard the peels. Add the wine and boil it down over high heat, scraping up the coagulated sauté juices, until reduced by half.
+**5. Mash the garlic and reduce the wine by half.**
+Mash the garlic cloves in the casserole with a spoon, then remove the garlic peel. Add the wine and boil it down over high heat, scraping up the coagulated sauté juices, until the wine has been **reduced by half**.
 
 **6. Build the egg yolk liaison.**
-Beat the egg yolks with the lemon juice and the 1 Tbsp wine in the small saucepan until thick and sticky. Beat in the hot casserole liquid a half-teaspoon at a time, to make a thick, creamy sauce like a hollandaise.
+Beat the egg yolks in the small saucepan until they are thick and sticky. Beat in the lemon juice and the 1 Tbsp wine. Then beat in the casserole liquid **a half-teaspoon at a time**, to make a thick creamy sauce like a hollandaise. Half a teaspoon at a time is not fussiness — dump it in and the yolks scramble.
 
-**7. Warm gently, then finish.**
-Set the sauce over very low heat for 4 to 5 seconds to warm and thicken it — don't let it get any hotter, or it will curdle like a broken hollandaise. Remove from heat and beat in the optional butter.
+**7. Warm the sauce very gently. 4 to 5 seconds.**
+Beat the sauce over **very low** heat for 4 to 5 seconds to warm and thicken it. Seconds, not minutes: this is the moment it can break, and there is no rescuing it once the yolks seize.
 
-**8. Serve.**
-Pour the sauce over the chicken.
+**8. ⚠️ The finish runs onto an unphotographed page — this is where the source text stops.**
+The page ends mid-sentence at *"Remove from heat and beat in"* — the rest of that sentence is on **p. 258, which Cody has not photographed.** What follows is almost certainly the optional 2 or 3 Tbsp softened butter listed in the ingredient column beside this step, beaten in off heat exactly as the master recipe and à la Crème both finish. **That is an inference from the ingredient list and the pattern of the other two sauces, not printed text**, and the sentence's actual ending — and anything after it, including how the sauce is poured or served — is unknown. Tracked in [§12](#12-recipes-to-document).
 
-*This version runs richer than the master recipe — a full stick of butter for browning plus an egg-yolk-and-butter liaison, instead of a light pan-juice reduction — roughly 800 calories a serving rather than 655; see the Nutrition block below for the master recipe's own figures.*
+#### F. The Source's Two (\*) Make-Ahead Notes *(source p. 256)*
 
-#### E. Grocery Shopping List *(master recipe)*
+Both are printed with the book's (\*) marker and both apply to the master recipe.
+
+**(\*) For a wait up to half an hour.**
+Finish the sauce **except for its final buttering**. Arrange the cooked chicken in an enameled, glazed, pyrex, or stainless steel casserole and baste it with the sauce. Cover loosely and set over **barely simmering water**. Just before serving, and **off heat**, tip the casserole, add the enrichment butter, and baste the chicken with the sauce. The metal list is not fussiness — bare aluminum or unlined cast iron will grey a wine-and-butter sauce.
+
+**(\*) Partial cooking in advance.**
+The chicken may be browned, the dark meat cooked for **8 to 9 minutes**, and the white meat added and cooked for **5 minutes more**. Then set the casserole aside, **uncovered**. About **10 to 15 minutes** before serving time, cover and finish the cooking on top of the stove; **or** heat the casserole and set it in a preheated **350°F oven for 15 to 20 minutes**. Note the white meat gets 5 minutes here rather than the full 15 — the rest of its cooking happens in the reheat.
+
+#### G. Grocery Shopping List *(master recipe)*
 
 **🏪 Specific store — butcher**
 
-- 🏪 Cut-up chicken — 2½ to 3 lb
+- 🏪 Cut-up frying chicken — 2½ to 3 lb
 
 **🛒 General grocery**
 
-- 🛒 Butter — 2 Tbsp for browning, plus 1 to 2 Tbsp for the sauce
-- 🛒 Oil — 1 Tbsp
-- 🛒 Fresh or dried herbs — thyme, basil, or tarragon, optional
+- 🛒 Butter — 2 Tbsp for browning, 2 to 3 Tbsp in reserve in case the browning fat burns, plus 1 to 2 Tbsp for the sauce
+- 🛒 Oil — 1 Tbsp, more if needed
+- 🛒 Fresh or dried herbs — thyme, basil, and tarragon, or tarragon only, optional
 - 🛒 Shallots or green onions — 1 Tbsp minced
 - 🛒 Dry white wine or dry white vermouth — ½ cup, optional
-- 🛒 Chicken or beef stock, or canned broth — ¾ cup
+- 🛒 Brown chicken stock, canned beef bouillon, or canned chicken broth — ¾ to 1 cup
 - 🛒 Fresh parsley or green herbs — optional
 - 🛒 Salt and pepper
+
+**For the aux Herbes de Provence variation, add:**
+
+- 🛒 Butter — ¼ lb (1 stick), plus 2 to 3 Tbsp optional for the finish
+- 🛒 Thyme or savory, basil, ground fennel
+- 🛒 Garlic — 3 cloves, left unpeeled
+- 🛒 Dry white wine or vermouth — ⅔ cup plus 1 Tbsp
+- 🛒 Eggs — 2, for the yolks
+- 🛒 Lemon — for 1 Tbsp juice
 
 #### Nutrition *(estimated, master recipe)*
 
@@ -27484,9 +27525,9 @@ Pour the sauce over the chicken.
 | **Whole dish** | ~3,270 | 238 g | 228 g | 5 g | 0 g |
 | **Per serving** *(serves 5, midpoint of 4–6)* | ~655 | 48 g | 46 g | 1 g | 0 g |
 
-**What a serving is:** about a quarter to a third of the chicken — a leg-thigh or breast portion — with sauce, not counting whatever vegetable or starch is served alongside.
+**What a serving is:** a leg-and-thigh or a breast portion — roughly a fifth of a 2½-to-3-lb bird — with a couple of spoonfuls of the deglazing sauce over it, not counting whatever vegetable or starch goes alongside.
 
-*The chicken and its browning fat carry almost everything here; the deglazing sauce adds flavor and very little else. À la Crème's cream swap adds roughly 800 calories to the whole batch; aux Herbes de Provence, with its full stick of butter and egg-yolk liaison, runs closer to 4,000 calories whole / 800 per serving.*
+*The chicken and its browning fat carry almost everything here; the deglazing sauce reduces to about ⅓ cup total and adds flavor and very little else. Most of the fat poured off at the deglaze is discarded and isn't counted. À la Crème's cup of cream adds roughly 800 calories to the whole batch; aux Herbes de Provence, with its full stick of butter and egg-yolk liaison, runs closer to 4,000 calories whole / ~800 per serving.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41709,6 +41750,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | **Oyster, Garlic, Beef and Shrimp Mayonnaise** *(four flavored mayonnaises)* | ***Chef Paul Prudhomme's Louisiana Kitchen*, pages after p. 268 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** The NOTE printed under **[§4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise)** introduces four flavored versions built on it and gives the pairings he likes — **Oyster Mayonnaise on roast beef, Garlic Mayonnaise on oyster or shrimp po boys, Beef Mayonnaise on ham sandwiches or po boys, Shrimp Mayonnaise on cold roast lamb** — but the recipes themselves run on the pages that follow, and **none of those pages is in any photographed batch.** All that is known is the names, the pairings, and that they start from §4.187. **Not a substitution problem to solve by inference:** [§4.161 Aioli](#4161-aioli-garlic-mayonnaise) is a garlic mayonnaise from a different book and is not Prudhomme's. Needs a photo of the pages immediately after p. 268. | 📷 Needs the source pages |
 | **Brown-Braised Onions** *(oignons glacés à brun)* | ***Mastering the Art of French Cooking*, book p. 483 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** Three recipes in this cookbook call for it by page number and none can print the method: [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) (18–24 onions), [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) (24–36), and [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) (12–24). It is the single most-cited untranscribed page in this cookbook's *Mastering* material. Until it arrives, §7.54 carries a stand-in method the other two point to. | 📷 Named — needs book p. 483 |
 | **Sautéed Mushrooms** *(champignons sautés au beurre)* | ***Mastering the Art of French Cooking*, book p. 513 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** The companion garnish to the onions above, cited by [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) (1 lb, quartered) and [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) (½ lb). Same situation, same stand-in in §7.54. | 📷 Named — needs book p. 513 |
+| **Tail of Poulet Sauté aux Herbes de Provence** *(the sauce's final buttering)* | ***Mastering the Art of French Cooking*, book p. 258 — not photographed.** **Recorded 2026-09-08.** Cody's photograph of **p. 257** carries the whole variation right up to *"Remove from heat and beat in"* — and stops there, mid-sentence, at the page break. The sentence finishes on p. 258. Almost certainly the **optional 2 or 3 Tbsp softened butter** listed in that step's own ingredient column, beaten in off heat like the other two sauces in [§7.58](#758-poulet-sauté-sautéed-chicken) — but that is a pattern-match, not printed text, and whatever else p. 258 says about pouring or serving is unknown. Flagged in place at §7.58 Section E, step 8. | 📷 Named — needs book p. 258 |
+| **Escalopes de Veau Chasseur** *(the method behind Poulet Sauté Chasseur)* | ***Mastering the Art of French Cooking*, book p. 368 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** [§7.58](#758-poulet-sauté-sautéed-chicken)'s **Poulet Sauté Chasseur** variation (source p. 256) is a single sentence that hands the whole sauce off to this veal-scallop recipe: *"use the same technique as for the veal scallops on page 368."* Nothing about the tomato-and-mushroom sauce itself is printed with the chicken, so §7.58 Section D records the variation by name and leaves the method open rather than inventing a chasseur. | 📷 Named — needs book p. 368 |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.

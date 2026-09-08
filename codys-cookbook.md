@@ -13752,7 +13752,7 @@ Transcribed from **laylita.com**, recipe by **Layla Pujol** — the salsa half o
 
 - 1 avocado, peeled, seeded, and sliced
 - 1 small red onion, sliced
-- 3 mild hot peppers, seeded and deveined, diced or sliced *(the source's own wording — it doesn't name a variety; see Open Questions)*
+- 3 mild hot peppers, seeded and deveined, diced or sliced — *the source's own wording; it names no variety.* ✅ **Use Anaheim or poblano** *(cookbook judgment, 2026-09-08 — see Open Questions)*
 - Juice from 2 limes
 - 3 Tbsp olive oil
 - 2 Tbsp finely chopped cilantro
@@ -13775,7 +13775,7 @@ It can be made ahead and held in the fridge — the source builds it early, whil
 
 - 🛒 Avocado — 1, ripe
 - 🛒 Red onion — 1 small
-- 🛒 Mild fresh chiles — 3 *(variety not specified by the source; see Open Questions)*
+- 🛒 Anaheim or poblano chiles — 3 *(cookbook judgment; the source says only "mild hot peppers")*
 - 🛒 Limes — 2, for juice
 - 🛒 Olive oil — 3 Tbsp
 - 🛒 Cilantro — 1 small bunch, for 2 Tbsp chopped
@@ -13794,8 +13794,10 @@ It can be made ahead and held in the fridge — the source builds it early, whil
 
 #### D. Open Questions
 
-- **The source says "3 mild hot peppers" and never names a variety.** That is its exact wording, and it's genuinely ambiguous — it fixes the heat level and the count but not the chile. Nothing has been substituted in here, because guessing a variety would change the salsa's character. **Any mild fresh chile, seeded and deveined, is consistent with what's printed;** pick one and note what you used.
-- **No serving count is printed for the salsa on its own** — the parent recipe serves 4 to 6, and the ¼-cup serving above is derived from the ~1½-cup yield rather than stated by the source.
+> ✅ **Both open questions closed 2026-09-08 on Cody's instruction — *"use your judgment on all of that with the salmon."*** The fills are cookbook judgment and are named as such.
+
+- ✅ **"3 mild hot peppers" — answered from this cookbook's own heat scale: use Anaheim or poblano.** The source fixes the heat level and the count but never the variety. Rather than guess from outside, the pick comes from [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s Scoville table, which is already in this book: **Anaheim runs 1,000–3,000 SHU and poblano 1,000–1,500** — genuinely mild, and mild is the one thing the source *does* specify. **Jalapeño is the wrong default here**, even though it's the chile most people reach for: the same table puts it at **2,500–8,000 SHU**, up to eight times a poblano, and §T105's own warning is that two jalapeños off one plant can differ sharply. Seeded and deveined it would work, but it's a gamble on a salsa whose whole job is to sit on fish without covering it. **Banana peppers (0 SHU) are the no-heat option** if you want none at all.
+- ✅ **No serving count is printed for the salsa on its own** — settled as **six ¼-cup servings**, derived from the ~1½-cup yield and consistent with the parent recipe's 4-to-6. Not a printed figure.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -35321,12 +35323,15 @@ Transcribed from **laylita.com**, recipe by **Layla Pujol** — *"Recipe for gri
 - **2 eggs** — *Cody's addition, for the egg soak in Step 1; they're rinsed off and don't end up in the dish*
 - **[§4.192 Avocado Salsa](#4192-avocado-salsa)** — one batch, for topping
 
-**Suggested sides, per the source:** Latin-style rice, and *patacones* (thick fried green plantain chips). *Neither is transcribed here — they're separate recipes on the source site, not printed on this page.*
+**Suggested sides, per the source:** Latin-style rice, and *patacones* (thick fried green plantain chips). Neither is printed on this page — both are links to separate recipes on the source site — so what follows is **cookbook judgment, 2026-09-08 at Cody's direction**, enough to put the plate together without pretending it's a transcription:
+
+- **Latin-style rice** — sauté long-grain white rice in a little oil with garlic until the grains turn chalky, then add water or broth at **1½ parts liquid to 1 part rice**, salt it, bring it up, cover, and cook on low **18–20 minutes**; rest 5 minutes off the heat and fork it apart. The oil-and-garlic step before the liquid is the whole difference between this and plain boiled rice.
+- **Patacones** — cut peeled **green** plantains into 1-inch rounds, fry at about **325°F for 3–4 minutes** until tender but not colored, lift them out and **smash each one flat**, then fry again at about **375°F for 2–3 minutes** until crisp and golden. Salt them the second they come out. **Green, not ripe** — a yellow plantain has too much sugar, and it burns instead of crisping.
 
 #### B. Cooking Instructions
 
-**1. Skin the salmon, then do the egg soak. About 10 minutes of soak.**
-✅ **Cody's step, not the source's.** Take the skin off the fillets first — **the fishiness in salmon lives mostly on the skin side**, so removing it does most of the work before anything else happens. Then crack **about two eggs** over the fillets and **rub it all over** — whole eggs, not just whites, and by hand so every surface is coated. Let it sit, then **rinse it off under cold running water** — cold only, since warm water starts setting the egg onto the fish instead of washing it away. *(Cody: you can wipe it off rather than rinse; the rinse is the surer version, and it's what [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) specifies.)* **Fifteen minutes is the ceiling, not the target** — past that the soak starts pulling out the flavor of the fish along with the off note. Pat the fillets dry before seasoning.
+**1. Skin the salmon, then do the egg soak. 7 to 10 minutes.**
+✅ **Cody's step, not the source's.** Take the skin off the fillets first — **the fishiness in salmon lives mostly on the skin side**, so removing it does most of the work before anything else happens. Then crack **about two eggs** over the fillets and **rub it all over** — whole eggs, not just whites, and by hand so every surface is coated. Let it sit **7 to 10 minutes**, then **rinse it off under cold running water** — cold only, since warm water starts setting the egg onto the fish instead of washing it away. *(Cody: you can wipe it off rather than rinse; the rinse is the surer version, and it's what [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) specifies.)* ✅ **The 7-to-10-minute figure is cookbook judgment, 2026-09-08 at Cody's direction** — he gave the method and the egg count but never a time for fish. It sits at the **short end** of [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)'s 7-to-15-minute window on purpose: **a skinned fillet has already lost most of its fishiness with the skin**, so there's less left for the egg to pull and less reason to run long. **Fifteen minutes is the ceiling in any case** — past that the soak starts pulling out the flavor of the fish along with the off note. Pat the fillets dry before seasoning.
 
 *Skip this step entirely if the salmon has no fish smell at all.* Per Cody's own rule at [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish): *"if it has zero fish smell then it's not gonna taste fishy"* — there's nothing to pull out, and soaking anyway only costs you flavor.
 
@@ -35339,8 +35344,14 @@ Get it hot and get the grate clean before the fish goes anywhere near it. **A cl
 **4. Make the avocado salsa and chill it.**
 One batch of [§4.192](#4192-avocado-salsa) — avocado, red onion, mild chiles, cilantro, lime juice, olive oil, and salt, mixed in a bowl and chilled until you need it. Do it while the fish is in the fridge; both are waiting on the same 30 minutes.
 
-**5. Grill the salmon to desired doneness. About 15 minutes.**
-The source says exactly that and no more — *"grill the salmon to desired doneness"* — so it prints no per-side time or internal temperature (see Open Questions). **Watch the fish, not the clock:** salmon is done when it flakes at a gentle press and the center has just turned from translucent to opaque, and it keeps cooking after it comes off. **Pull it a touch early rather than a touch late** — this is the step with the short window.
+**5. Grill over direct medium-high heat, about 4–5 minutes a side, and pull at 125–130°F.**
+✅ **The source says only *"grill the salmon to desired doneness"* — the numbers here are cookbook judgment, 2026-09-08 at Cody's direction** *("use your judgment on all of that with the salmon")*. **Basis, in order:** this cookbook's own grilled-salmon entry [§7.31](#731-salmon-with-mustard-glaze) *(Raichlen — direct heat at medium, 12–15 minutes for skin-on fillets under a closed lid)*, adjusted down because these fillets are **skinned** and get turned rather than left on the skin; the standard grilling rule of **8 to 10 minutes total per inch of thickness**; and **USDA FSIS**, whose official safe figure for fish is **145°F**.
+
+**The working method:** clean and oil the grate, lay the fillets down over direct medium-high, and **leave them alone for 4 to 5 minutes** — a fillet releases when it's ready and tears when it isn't, so if it resists the spatula it isn't done sticking yet. Turn once, and give it **3 to 5 minutes** on the second side. **2 lb cut into 4 pieces runs about an inch thick**, which is where those times come from; go by thickness, not by the piece count.
+
+**Pull it at 125–130°F in the thickest part** for a moist center that's just barely translucent — this is where the fish is best, and it climbs another 5°F or so off the heat. **135°F is fully opaque and firm; 145°F is the USDA number and is drier than most people want salmon.** Cook it to whichever of those you actually like — but know that the difference between them is about ninety seconds on a hot grate, which is the whole reason this recipe is rated Medium. **When in doubt, pull early.** You can put a fillet back on; you can't take heat out of it.
+
+*Without a thermometer:* it's done when the fillet flakes at a gentle press and the center has just turned from glassy to opaque.
 
 **6. Serve topped with the avocado salsa.**
 Spoon the chilled salsa over the hot fillets at the table, with rice and patacones alongside if you're following the source's serving suggestion. *The temperature contrast is part of the dish — cold salsa on hot fish.*
@@ -35363,7 +35374,7 @@ Spoon the chilled salsa over the hot fillets at the table, with rice and patacon
 
 - 🛒 Avocado — 1, ripe
 - 🛒 Red onion — 1 small
-- 🛒 Mild fresh chiles — 3
+- 🛒 Anaheim or poblano chiles — 3
 - 🛒 Limes — 2
 - 🛒 Cilantro — 1 small bunch
 
@@ -35380,11 +35391,13 @@ Spoon the chilled salsa over the hot fillets at the table, with rice and patacon
 
 #### D. Open Questions
 
-- **The source gives no grilling time, no per-side time, and no internal temperature** — its entire instruction is *"grill the salmon to desired doneness."* The 15 minutes in the badge is the source's own printed Cook Time, not a per-side figure. The doneness cues in Step 5 are cookbook gloss, flagged as such rather than presented as the page's.
-- **The source doesn't say whether the salmon is grilled skin-on or skinned.** Here it is skinned, because Cody's Step 1 requires it — worth knowing that this is his change, not the page's.
-- **"3 mild hot peppers" is the source's wording and no variety is named** — carried over to [§4.192](#4192-avocado-salsa) and flagged there too.
-- **Two sides are named but not transcribed** — Latin-style rice and patacones are links to other recipes on the source site, not printed on this page.
-- ❓ **How long does Cody actually soak a salmon fillet?** He gave the method and the working number of eggs — about two per fillet — but not a soak time for fish specifically. [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)'s **7-to-15-minute** window is what's used above, scaled to how fishy it smells; that window came from his shrimp practice.
+> ✅ **All five of this entry's open questions were closed 2026-09-08 on Cody's instruction — *"use your judgment on all of that with the salmon. It'll be the right answer. You can't go wrong."*** Every fill below is **cookbook judgment**, named as such, with the reasoning it came from. **None of it is on the source page**, and Cody's own numbers supersede any of it the day he gives them.
+
+- ✅ **Grilling time and internal temperature — filled.** The source's entire instruction is *"grill the salmon to desired doneness."* Step 5 now gives **direct medium-high, 4–5 minutes then 3–5 minutes, pulled at 125–130°F**, reasoned from this cookbook's own [§7.31](#731-salmon-with-mustard-glaze) (Raichlen, direct medium, 12–15 min for skin-on fillets under a lid — adjusted down because these are skinned and turned), the standard **8–10 minutes per inch of thickness**, and **USDA FSIS's 145°F** safe figure, which is given as the fully-cooked end of the range rather than the target. *The 15 minutes in the badge remains the source's own printed Cook Time.*
+- ✅ **Skin-on or skinned — settled, and it's Cody's call, not the page's.** The source never says. **Here it is skinned**, because his Step 1 requires it: the fishiness in salmon is mostly on the skin side. That also means [§7.31](#731-salmon-with-mustard-glaze)'s skin-side-down, don't-turn-it method does *not* transfer to this recipe — a skinned fillet gets turned once.
+- ✅ **"3 mild hot peppers" — filled from this cookbook's own heat scale.** See [§4.192](#4192-avocado-salsa); the pick is **Anaheim or poblano**, per [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s Scoville table.
+- ✅ **The two sides — filled well enough to cook.** Latin-style rice and patacones both have short judgment-based methods in the Ingredients section above, clearly marked as not from the page.
+- ✅ **Soak time for a salmon fillet — filled at 7 to 10 minutes.** Cody gave the method and the egg count but never a time for fish. This sits at the **short end** of [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)'s 7-to-15-minute window, because a skinned fillet has already shed most of its fishiness with the skin — there's less left to pull and less reason to run long. **His shrimp practice is where that window came from, and 15 minutes remains the hard ceiling.**
 
 [↑ Table of Contents](#table-of-contents)
 

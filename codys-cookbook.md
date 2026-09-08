@@ -35568,6 +35568,8 @@ About 7 cups of stock in a 5½-quart saucepan or large Dutch oven, brought to a 
 **9. Return to a boil, drop to a simmer, then add the andouille and minced garlic. Simmer uncovered 45 minutes.**
 Stir and scrape the pot bottom often as it comes back up. Once simmering, in go the cubed sausage and the teaspoon of minced garlic. Uncovered for 45 minutes — stir more frequently toward the end, because as it reduces and thickens it gets much happier to stick and scorch on the bottom.
 
+*⚙️ **45 minutes is the number, and it's enough — cookbook judgment, 2026-09-08.** The reason this gumbo doesn't want the multi-hour simmer that the game gumbos in this book get is that **nothing in the pot is tough.** [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo) simmers 3 hours and [§8.25 Wild Goose Gumbo](#825-wild-goose-gumbo-with-oysters) about 4 because those hours are breaking down wild birds. Here the chicken is already fried and doesn't even enter the pot until step 11, and the andouille is already smoked and cooked. **The 45 minutes is doing exactly two jobs: marrying the roux into the stock, and reducing to gumbo consistency.** Both are done at 45. **If you want more, an hour is fine** — but past that you're reducing, not developing, and you'll need to add stock back and watch the bottom harder. **Never solve "not enough flavor" here by simmering longer; solve it in step 6 by taking the roux darker,** which is where this gumbo's flavor actually comes from. Basis: the source page's own 45-minute instruction (**Chef Paul Prudhomme's *Louisiana Kitchen***, the same book behind [§4.8](#48-shrimp-and-crab-butter-cream-sauce)), read against the simmer times of this cookbook's other eight gumbos, which scale with how tough the meat is and nothing else.*
+
 **10. While it simmers, bone the fried chicken and cut it into ½-inch dice.**
 Doing this during the simmer is the point — the chicken has time to cool enough to handle, and it's ready the moment the gumbo is.
 
@@ -35612,7 +35614,7 @@ Main course: mound about ⅓ cup cooked rice in the center of a soup bowl and la
 
 - ✅ 2026-09-07 per Cody: **store-bought stock is fine — Swanson chicken stock, not the low-sodium one.** Ingredients and grocery list now say so.
 - ✅ 2026-09-07 per Cody: **a darker roux** — the target in Step 6 is now near-black. The badge stays 🔴 Hard; a near-black roux is the top of [§T1](#t1-how-to-make-a-roux)'s tiers.
-- 45 minutes of simmer — right, or does it want longer?
+- ✅ **2026-09-08 per Cody ("use your judgment") — 45 minutes stands, with an hour as the ceiling.** Cookbook judgment, not Cody's own number. It's the source page's time (**Prudhomme's *Louisiana Kitchen***) and it holds up against this book's other gumbos: the ones that simmer for hours are simmering to tenderize duck and goose, while everything in this pot — fried chicken added at the end, already-smoked andouille — is cooked before the simmer starts. Reasoning written into step 9, including where to go instead when you want more flavor (a darker roux, not a longer pot).
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -35643,7 +35645,7 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 - 1 lb boneless, skinless chicken **thighs** — *thighs, definitely (per Cody — "makes a huge difference"); breasts work but are the lesser version*
 - 10 oz. baby spinach
 - 1 medium zucchini, trimmed and cut into small dice
-- ⅓ cup long-grain white rice
+- ⅓ cup long-grain white rice — **⅓ cup, and no more. Do not be generous with the rice** *(✅ 2026-09-08 per Cody — see the warning at step 2)*
 - 1 quart chicken broth
 - **No tomatoes** — this is one of the [§8.0](#80-the-hearty-main-course-soup-formula) soups that leaves the can out; see the note below
 - 2 Tbsp lemon juice — **added at the end**
@@ -35657,6 +35659,8 @@ Warm the oil in a large pot over medium-high heat, add the chopped onion, and co
 
 **2. Add the chicken, zucchini, rice, and broth. No tomatoes.**
 Everything but the spinach, lemon, and dill goes in now. The **thighs** go in whole. *(If you ever fall back to breasts, cut them crosswise into thirds first so they cook evenly — but thighs are the house version, and Cody says the difference is huge.)* The rice goes in raw — it needs the full simmer to cook through. *The canned tomatoes from the [§8.0](#80-the-hearty-main-course-soup-formula) formula stay out of this one* — tomato fights the lemon and dill, and it muddies a broth that's supposed to stay clean and bright.
+
+> ⚠️ **Measure the rice. ✅ 2026-09-08 per Cody: you can absolutely put too much rice in this soup.** ⅓ cup of raw rice looks like nothing going into a quart of broth, and the temptation to round it up to a half cup or a full one is real. Don't. **Rice keeps expanding in the soup** — through the simmer, then again while it sits, then again overnight in the fridge — and it doesn't stop at "cooked." Too much and the whole pot turns rice-heavy: the broth gets absorbed, the clean lemon-and-dill character disappears into starch, and what you wanted as a light soup comes out as a thick rice porridge with chicken in it. This is a **soup with rice in it**, not a rice dish. ⅓ cup is the number.
 
 **3. Simmer partially covered. 15–20 minutes.**
 Bring it up to a simmer, drop to medium-low, and cook until the rice is tender and the zucchini has softened. You're waiting on the rice here more than anything else.
@@ -35673,6 +35677,9 @@ Ten ounces looks like far too much going in and collapses to almost nothing. Bab
 **7. Taste, season, and serve.**
 Adjust with salt and pepper, and loosen with a splash more broth or water if it's tightened up. You want it thick but still juicy — soupy, not stew-like.
 
+**8. Leftovers: it keeps, and the rice holds up.**
+✅ 2026-09-08 per Cody — **the rice does hold up as leftovers.** It doesn't turn to mush or wreck the soup overnight, so there's no need to cook it separately and add it per bowl; make the whole pot as written and refrigerate what's left. *It will keep drinking broth in the fridge, so expect day-two bowls to be thicker — loosen with a splash of broth or water when you reheat, and check the lemon, which fades with a day. **This is exactly why the ⅓ cup matters:** at the right amount the leftovers are a slightly thicker soup, but over-rice the pot and the leftovers are the thing that shows it, having gone solid by morning.*
+
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
@@ -35681,8 +35688,8 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 - 🛒 Baby spinach — 10 oz.
 - 🛒 Zucchini — 1 medium
 - 🛒 Onion — 1 large
-- 🛒 Long-grain white rice — ⅓ cup
-- 🛒 Chicken broth — 1 quart
+- 🛒 Long-grain white rice — ⅓ cup *(measure it — more is not better here)*
+- 🛒 Chicken broth — 1 quart *(plus a little extra if you're planning on leftovers, to loosen them when reheating)*
 - 🛒 Lemons — *for 2 Tbsp juice; 1 large lemon covers it*
 - 🛒 Fresh dill — 1 bunch
 - 🛒 Olive oil
@@ -35703,7 +35710,8 @@ Adjust with salt and pepper, and loosen with a splash more broth or water if it'
 
 - ~~Do you actually put the tomatoes in?~~ **Settled 2026-08-09 — no tomatoes.** The source page never said to omit them for this soup, so they were written in at first; Cody confirmed he makes it without. The recipe above is corrected, and this now stands as a documented deviation from the source rather than an open question.
 - ✅ 2026-09-07 per Cody: **thighs, definitely** — *"makes a huge difference; don't be afraid to put that in the notes."* Noted prominently above; the Nutrition estimate already assumed thighs.
-- Does the rice hold up as leftovers, or does it drink the broth overnight? *(If it does, cooking the rice separately and adding it per bowl is the usual fix.)*
+- ✅ **2026-09-08 per Cody — yes, the rice holds up as leftovers.** No need to cook it separately or add it per bowl; make the pot as written. Written into step 8.
+- ✅ **2026-09-08 per Cody — but you can put too much rice in.** It keeps expanding in the soup and the whole thing goes rice-heavy. ⅓ cup is the number and it's now flagged in the ingredients, at step 2, and on the grocery list. *(These two answers belong together: the rice is fine as leftovers **because** the amount is right. The over-rice failure shows up on day two.)*
 
 [↑ Table of Contents](#table-of-contents)
 

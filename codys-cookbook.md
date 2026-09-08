@@ -2125,49 +2125,59 @@ The card is complete as written but leaves out several things a first-time maker
 
 > **The white pepper is the thing.** Per Cody, that's what gives the blend its character — it's not a background note here the way it is in most mixes. If you're going to be careful about one ingredient, be careful about that one. See [§T5](#t5-seasonings--peppers) on why white pepper reads differently from black. In a cream sauce it has a second job: it seasons without leaving black specks.
 
-> ✅ 2026-09-07 per Cody ("use your judgment") — **cookbook judgment on the proportions.** Cody's words: it's *all ground powder*, and *the white pepper is what really gives it its character.* The nine ingredients are his; **the amounts below are the cookbook's**, built so white pepper sits at about **20% of the blend** — equal to each of the two salts — where a generic Creole mix runs pepper at 4–10%. Reference points: Emeril's Essence (pepper ≈ 10% of a ⅔-cup batch; https://www.emerils.com/120057/emerils-essence-creole-seasoning), the Seafood Magic copycat (white pepper ≈ 4%; https://www.recipelink.com/misc/chef-paul-prudhommes-seafood-magic-seasoning-copycat-recipe-0087893), and this book's own Prudhomme seasoning mixes in [§4.16](#416-new-orleans-italian-red-gravy) and [§4.17](#417-giblet-gravy) (white pepper ≈ 8%). Write down what you change once you've tasted a batch — Cody's ratios supersede these the day he records them.
+> 🔑 **The order of the list is the recipe. 2026-09-08 per Cody: he gave these nine ingredients in *descending order of quantity* — most first, least last.** That single fact is worth more than any amount he could have guessed at, because it turns a bare list into a real structure: the two salts lead, **white pepper is third and therefore the largest non-salt ingredient in the jar**, and the herbs bring up the rear. **Never re-alphabetize or re-group this list** — the sequence *is* the proportion data, and rearranging it destroys the only hard information the blend has. Any future amounts anyone writes in have to keep the quantities running downhill in this exact order.
+
+> ✅ 2026-09-08 per Cody — **the second half of the same answer: white pepper is prominent and tasteable in it.** Not a background seasoning. Combined with its third-place position, that sets the shape of the whole blend: white pepper big enough to taste on its own, but still under the two salts above it.
+
+> ✅ 2026-09-07 per Cody ("use your judgment") — **cookbook judgment on the proportions**, re-cut 2026-09-08 to obey the descending order above. Cody's words: it's *all ground powder*, and *the white pepper is what really gives it its character.* The nine ingredients and their order are his; **the amounts below are the cookbook's**, built to two rules — every quantity is less than or equal to the one before it, and white pepper lands at **~17% of the blend (4 tsp of 24)**, where a generic Creole mix runs its pepper at 4–10%. That's two to four times the usual load, which is what "prominent and tasteable" has to mean in practice. Reference points reasoned from: **Emeril's Essence** (pepper ≈ 10% of a ⅔-cup batch; https://www.emerils.com/120057/emerils-essence-creole-seasoning), the **Chef Paul Prudhomme Seafood Magic copycat** (white pepper ≈ 4%; https://www.recipelink.com/misc/chef-paul-prudhommes-seafood-magic-seasoning-copycat-recipe-0087893), and this book's own Prudhomme seasoning mixes in [§4.16](#416-new-orleans-italian-red-gravy) and [§4.17](#417-giblet-gravy) (white pepper ≈ 8%), all three of which also lead with salt. Write down what you change once you've tasted a batch — Cody's ratios supersede these the day he records them.
 
 #### A. Ingredients
 
-*One ½-cup batch. Amounts are cookbook judgment (see the note above); the ingredient list and the "all ground" instruction are Cody's.*
+*One ½-cup batch (24 tsp). **Listed in Cody's order, which is descending by quantity** — don't resort it. Amounts are cookbook judgment (see the notes above); the ingredient list, its order, and the "all ground" instruction are Cody's.*
 
-- 1½ Tbsp onion salt
-- 1½ Tbsp garlic salt
-- 1½ Tbsp **white pepper** — the defining note; equal to each salt on purpose
-- 1½ tsp cayenne pepper *(start here; up to 1 Tbsp for a hotter jar)*
-- 1 tsp black pepper
-- 1 Tbsp sweet basil, dried
-- 1 tsp bay leaf, **ground** *(about 4–5 dried leaves through a spice grinder)*
-- 2 tsp oregano, dried
-- 2 tsp thyme, dried
+- 5 tsp onion salt *(1 Tbsp + 2 tsp)*
+- 4½ tsp garlic salt *(1½ Tbsp)*
+- 4 tsp **white pepper** *(1 Tbsp + 1 tsp)* — the defining note; the biggest non-salt ingredient in the jar, and meant to be tasted
+- 2 tsp cayenne pepper *(up to 4 tsp for a hotter jar — but never above the white pepper, or you've broken the order)*
+- 2 tsp black pepper
+- 2 tsp sweet basil, dried
+- 1½ tsp bay leaf, **ground** *(about 6–8 dried leaves through a spice grinder)*
+- 1½ tsp oregano, dried
+- 1½ tsp thyme, dried
 
 #### B. Cooking Instructions
 
 **1. Grind the bay leaf to a powder.**
-Everything in this blend is ground — per Cody, *"all ground powder."* Bay is the one thing you can't buy that way reliably, so run 4–5 dried leaves through a spice or coffee grinder until nothing flaky is left, then sift out any stem. Whole or cracked bay in a shake-on blend just ends up as a leaf in somebody's teeth.
+Everything in this blend is ground — per Cody, *"all ground powder."* Bay is the one thing you can't buy that way reliably, so run 6–8 dried leaves through a spice or coffee grinder until nothing flaky is left, then sift out any stem. Whole or cracked bay in a shake-on blend just ends up as a leaf in somebody's teeth.
 
-**2. Combine everything and store airtight.**
+**2. Measure in Cody's order, largest to smallest.**
+Work straight down the ingredient list — that order is descending by quantity, and measuring in sequence is the easiest way to catch a mistake. If you ever find yourself putting in more of something than the ingredient above it, you've misread the recipe.
+
+**3. Combine everything and store airtight.**
 Mix the blend and keep it in a sealed jar out of direct light. Per [§T5](#t5-seasonings--peppers), premixing is the whole point — it's how you handle one jar mid-cook instead of nine.
 
-**3. Use it as the salt, not alongside it.**
-Two of the nine ingredients are salts, so it runs about a third salt by volume — comparable to Prudhomme's mixes, lighter than Tony's. Start at about **1 tsp per pound of seafood or per cup of cream sauce**, and don't add plain salt until you've tasted.
+**4. Taste it dry off your palm before you cook with it.**
+White pepper is supposed to come through — that's the test of whether you got the blend right. A pinch on the tongue should read salty first and then land on that dusty, faintly fermented white-pepper heat, distinct from the sharper bite of the black. If white pepper is only a background hum, the jar is wrong; add more, up to but not past the garlic salt.
 
-**4. Make it in batches you'll use. This one lasts 2–3 months.**
+**5. Use it as the salt, not alongside it.**
+Two of the nine ingredients are salts and they're the two largest, so the blend runs about **40% salt by volume** — heavier than Prudhomme's mixes, still short of Tony's Original. Start at about **¾ tsp per pound of seafood or per cup of cream sauce**, and don't add plain salt until you've tasted.
+
+**6. Make it in batches you'll use. This one lasts 2–3 months.**
 Ground spices fade. This is a nine-ingredient blend built on aromatics that lose their edge within a couple of months; a ½-cup batch is about the right size.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Onion salt — 1½ Tbsp
-- 🛒 Garlic salt — 1½ Tbsp
-- 🛒 White pepper — 1½ Tbsp *(the one worth buying fresh)*
-- 🛒 Cayenne pepper — 1½ tsp to 1 Tbsp
-- 🛒 Black pepper — 1 tsp
-- 🛒 Sweet basil, dried — 1 Tbsp
-- 🛒 Bay leaves, dried — 4–5 leaves, to grind
-- 🛒 Oregano, dried — 2 tsp
-- 🛒 Thyme, dried — 2 tsp
+- 🛒 Onion salt — 5 tsp
+- 🛒 Garlic salt — 4½ tsp
+- 🛒 White pepper — 4 tsp *(buy a fresh jar — it's the ingredient the blend is built on)*
+- 🛒 Cayenne pepper — 2 to 4 tsp
+- 🛒 Black pepper — 2 tsp
+- 🛒 Sweet basil, dried — 2 tsp
+- 🛒 Bay leaves, dried — 6–8 leaves, to grind
+- 🛒 Oregano, dried — 1½ tsp
+- 🛒 Thyme, dried — 1½ tsp
 
 #### Nutrition *(estimated)*
 
@@ -2176,13 +2186,14 @@ Ground spices fade. This is a nine-ingredient blend built on aromatics that lose
 | **Whole batch** *(½ cup)* | ~70 | 1.5 g | 3 g | 14 g | 6 g |
 | **Per serving** *(about 1 tsp; 24 per batch)* | ~3 | 0 g | 0 g | 0.6 g | 0.3 g |
 
-**What a serving is:** roughly 1 tsp — what you'd season one portion with. Nutritionally this is close to nothing; **the number that matters here is sodium** — about 550 mg per teaspoon of blend, since a third of it is onion and garlic salt.
+**What a serving is:** roughly 1 tsp — what you'd season one portion with. Nutritionally this is close to nothing; **the number that matters here is sodium** — roughly 650 mg per teaspoon of blend, since about 40% of it is onion and garlic salt.
 
 #### D. Open Questions
 
-- ✅ 2026-09-07 per Cody ("use your judgment") — **proportions set as cookbook judgment**, white-pepper-forward at ~20% of the blend; basis and sources in the note above. Cody's own ratios, once he writes them down after a tasted batch, replace these.
+- ✅ 2026-09-08 per Cody — **the ingredients are in descending order of quantity, most first and least last, and white pepper is prominent and tasteable.** Proportions re-cut to match: quantities run downhill in his exact order, white pepper at ~17% of the blend. Still cookbook judgment on the numbers — see the note above for the sources reasoned from.
+- ✅ 2026-09-08 per Cody — **there is no written original. It isn't on a card anywhere**, so there's nothing to recover and this stops being a pending item. The list Cody gave, in his order, *is* the source of record; the amounts remain the cookbook's until he tastes a batch and revises them.
+- ✅ 2026-09-07 per Cody ("use your judgment") — **proportions set as cookbook judgment**, white-pepper-forward; basis and sources in the note above. Cody's own ratios, once he writes them down after a tasted batch, replace these.
 - ✅ 2026-09-07 per Cody — **ground bay leaf.** "This is all ground powder." It's a true shake-on blend.
-- **Is there a written original?** If a card or label for Captain Mike's blend turns up, it supersedes this reconstruction.
 
 [↑ Table of Contents](#table-of-contents)
 

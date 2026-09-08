@@ -23228,6 +23228,8 @@ Chicken is **safe at 165°F** — that's the food-safety number and it doesn't m
 
 Transcribed from Cody's own recipe/grocery-planning spreadsheet. **The card's own title field was never filled in** — it still reads the template default, "TITLE OF DISH" — but the content is unmistakably this cookbook's long-standing Corned Beef and Cabbage placeholder, so it's filled in here rather than left as an unidentified stub. A simple boiled corned beef with root vegetables added in stages so nothing overcooks.
 
+> **Checked against the printed Canal House recipe on 2026-09-08 and left as Cody wrote it.** Cody's photograph of *Canal House Cooks Every Day* p. 338 shows a corned beef and cabbage that is **a different dish from this one**, and it is already written up separately at [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage). The differences, so nobody tries to merge them: theirs cures a 5-lb brisket for 5 to 7 days with pink curing salt and a crushed spice mix; **this one starts with a 3-lb corned beef already cured**. Theirs uses potatoes, carrots, spring onions, and Savoy cabbage in the broth; **this one uses carrots, turnips, parsnips, onions, and garlic, and keeps cabbage out of the pot entirely.** Neither is a better version of the other, and **this entry was not overwritten** — it is Cody's, it is the family favorite, and it stands as written. The card's unfilled title field is still just an unfilled title field.
+
 > ⚠️ **There's no cabbage in this method at all — deliberately.** The card's own closing note: *"Corned beef is also served with cabbage, but never boil the cabbage in the beef, as both will become indigestible."* If cabbage is wanted alongside, cook it separately (steamed or boiled on its own) rather than in the corned beef pot.
 
 **❤️ Family favorite** — *Cody: "Awesome."*
@@ -26327,11 +26329,17 @@ Pour the tarka over the shrimp. Serve with Curd Rice.
 
 ### 7.48 Corned Beef & Cabbage
 
-Transcribed from **Canal House Cooks Every Day** — a from-scratch corned beef, dry-brined and cured before it's simmered. **Distinct from [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage)** — that entry is Cody's own family-favorite method, still undocumented; this is a specific Canal House technique, untested so far. *"We are a bit balmy, so naturally we like to brine our own corned beef. It's our Saint Paddy's Day tradition. It is actually quite easy and well worth it if you just have the first step of this recipe to think ahead. But if you're short on time, by all means skip the first step of this recipe and buy a ready-to-go corned beef from your market. We serve our corned-beef dinner with a creamy Parsley Sauce (opposite page) as they do back in the Old Country."*
+Transcribed from **Canal House Cooks Every Day**, p. 338 — the *winter* chapter. A from-scratch corned beef, dry-cured before it's simmered. *"We are a bit balmy, so naturally we like to brine our own corned beef. It's our Saint Paddy's Day tradition. It is actually quite easy and well worth it; you just have to think ahead. But if you're short on time, by all means skip the first step of this recipe and buy a ready-to-go corned beef from your market. We serve our corned-beef dinner with a creamy Parsley Sauce (opposite page) as they do back in the Old Country."*
 
-**References Parsley Sauce (opposite source page), not yet transcribed here** — only its title was visible on the photographed page, its ingredients and instructions were not. Serve without it, or substitute this cookbook's own [§4.20 Meunière Sauce](#420-meunière-sauce) family of butter sauces if a sauce is wanted.
+> ✅ **2026-09-08 verified against Cody's photograph of p. 338 — this is the printed recipe, and every quantity in it is correct.** All fifteen ingredients check out line for line. **Four fixes to the method, and one to the headnote:** the potatoes get their own **10 minutes over medium heat** before the carrots and onions join them; the foil loosely covers the **platter of finished vegetables**, not the pot the cabbage cooks in; **the melted butter was in the ingredient list but missing from the instructions entirely** — it gets poured over the potatoes at the end; the broth is ladled **over everything**, not just the potatoes; and the headnote quote had garbled the source's *"you just have to think ahead."*
 
-> The source's margin note: *"March 17th, 43°, a soft Irish misty day."*
+> ⚠️ **Pink curing salt is a food-safety ingredient, and it is not interchangeable with kosher salt.** Pink curing salt — sold as Prague Powder #1, Insta Cure #1, or tinted cure mix — is **6.25% sodium nitrite** in a salt carrier, dyed pink **specifically so nobody mistakes it for table or kosher salt**. In this recipe it is what makes the brisket *corned beef*: it holds the meat pink and cured through a 5-to-7-day refrigerated cure, and it guards against botulism over those days. **It is not a seasoning and it is not a substitute for the ¾ cup of kosher salt — the recipe calls for both, and they do different jobs.** Do not scale it up, do not swap one for the other in either direction, and do not use it anywhere the recipe doesn't ask for it: sodium nitrite is toxic in quantity, which is exactly why it is sold pre-diluted and dyed. If you'd rather not handle it, take the source's own out and **buy a ready-to-go corned beef**, skipping step 1 entirely. Also distinct from **pink Himalayan salt**, which is an ordinary table salt and will cure nothing.
+
+> **References the source's own Parsley Sauce, printed on the facing page — named but not transcribed.** That page isn't photographed, so its ingredients and method aren't here. Serve without it, or stand in this cookbook's own [§4.20 Meunière Sauce](#420-meunière-sauce) family of butter sauces. Tracked in [§12](#12-recipes-to-document).
+
+> **Not a duplicate of [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) — they are two genuinely different dishes.** §7.11 is **Cody's own**, from his recipe/grocery spreadsheet: a store-bought 3-lb corned beef simmered with carrots, turnips, parsnips, onions, and garlic, with **no cure step and deliberately no cabbage in the pot**. This one is Canal House's: a 5-lb brisket you cure yourself for a week, with potatoes, carrots, spring onions, and Savoy cabbage cooked in the broth in stages. Cody's version stands as written and was **not** overwritten by the printed one.
+
+> The source's margin note: *"March 17th, 43°, a soft Irish misty day."* And its caption: *"Overleaf: left to right, boiled cabbage and other vegetables, Corned Beef, Parsley Sauce."*
 
 **Yield:** serves 6
 
@@ -26371,27 +26379,27 @@ The day of the meal, remove the brisket from the bag and rinse all the spices of
 **3. Rest the meat.**
 Transfer the meat to a platter and cover with foil.
 
-**4. Cook the potatoes. First into the broth.**
-Strain the broth and return it to the pot. Add the potatoes and return to a boil.
+**4. Cook the potatoes. 10 minutes.**
+Strain the broth and return it to the pot. Add the potatoes and cook gently over medium heat for 10 minutes. They get a head start because they take the longest — everything else joins them once they're underway.
 
-**5. Add the carrots and onions. 15–20 minutes.**
-Add the carrots and spring onions and cook until all the vegetables are tender. Transfer the vegetables to a serving platter as they finish.
+**5. Add the carrots and spring onions. 15–20 minutes.**
+Add the carrots and spring onions and cook until all the vegetables are tender. **Transfer the vegetables to a serving platter as each is done and cover them loosely with foil** — they won't all finish at the same moment, and pulling them as they're ready is what keeps the carrots from going to mush while the potatoes catch up.
 
 **6. Cook the cabbage. 10–15 minutes.**
-Add the cabbage wedges to the pot, loosely cover with foil, and cook until tender.
+Add the cabbage wedges to the pot and cook until tender.
 
 **7. Reheat the meat and slice.**
 Reheat the corned beef in the simmering broth until warmed through. Transfer to a cutting board and thinly slice across the grain, then arrange on a serving platter.
 
 **8. Finish and serve.**
-Ladle some of the broth over the potatoes and garnish with chopped parsley. Serve with Parsley Sauce, if you have it.
+Ladle some of the broth **over everything**. **Pour the melted salted butter over the potatoes** — this is the one place the 2 to 4 Tbsp of butter in the ingredient list gets used — and garnish with the chopped parsley. Serve with the source's Parsley Sauce if you have it.
 
 #### C. Grocery Shopping List
 
 **🏪 Specific store — butcher**
 
 - 🏪 Beef brisket — about 5 lbs
-- 🏪 Pink curing salt — 1 Tbsp
+- 🏪 Pink curing salt — 1 Tbsp *(Prague Powder #1 / Insta Cure #1 — sodium-nitrite curing salt. **Not** kosher salt, **not** pink Himalayan salt, and not a substitute for either; see the warning at the top of this entry. Butcher-supply shops, brewing/sausage-making suppliers, or online.)*
 
 **🛒 General grocery**
 
@@ -26409,9 +26417,9 @@ Ladle some of the broth over the potatoes and garnish with chopped parsley. Serv
 - 🛒 Salted butter — 2–4 Tbsp
 - 🛒 Fresh parsley — a handful
 
-#### D. Open Questions
+#### D. Still Open
 
-- **Parsley Sauce, the source's own pairing, isn't transcribed** — only its title was visible on the photographed page.
+- **Parsley Sauce, the source's own pairing, is named but not transcribed** — it is printed on the page facing p. 338, which hasn't been photographed. Tracked in [§12](#12-recipes-to-document).
 
 #### Nutrition *(estimated)*
 
@@ -41772,6 +41780,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | **Sautéed Mushrooms** *(champignons sautés au beurre)* | ***Mastering the Art of French Cooking*, book p. 513 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** The companion garnish to the onions above, cited by [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) (1 lb, quartered) and [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) (½ lb). Same situation, same stand-in in §7.54. | 📷 Named — needs book p. 513 |
 | **Tail of Poulet Sauté aux Herbes de Provence** *(the sauce's final buttering)* | ***Mastering the Art of French Cooking*, book p. 258 — not photographed.** **Recorded 2026-09-08.** Cody's photograph of **p. 257** carries the whole variation right up to *"Remove from heat and beat in"* — and stops there, mid-sentence, at the page break. The sentence finishes on p. 258. Almost certainly the **optional 2 or 3 Tbsp softened butter** listed in that step's own ingredient column, beaten in off heat like the other two sauces in [§7.58](#758-poulet-sauté-sautéed-chicken) — but that is a pattern-match, not printed text, and whatever else p. 258 says about pouring or serving is unknown. Flagged in place at §7.58 Section E, step 8. | 📷 Named — needs book p. 258 |
 | **Escalopes de Veau Chasseur** *(the method behind Poulet Sauté Chasseur)* | ***Mastering the Art of French Cooking*, book p. 368 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** [§7.58](#758-poulet-sauté-sautéed-chicken)'s **Poulet Sauté Chasseur** variation (source p. 256) is a single sentence that hands the whole sauce off to this veal-scallop recipe: *"use the same technique as for the veal scallops on page 368."* Nothing about the tomato-and-mushroom sauce itself is printed with the chicken, so §7.58 Section D records the variation by name and leaves the method open rather than inventing a chasseur. | 📷 Named — needs book p. 368 |
+| **Parsley Sauce** *(the creamy Irish one served with corned beef)* | ***Canal House Cooks Every Day*, the page facing book p. 338 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** [§7.48 Corned Beef & Cabbage](#748-corned-beef--cabbage) names it twice — in its headnote (*"we serve our corned-beef dinner with a creamy Parsley Sauce (opposite page) as they do back in the Old Country"*) and in its final step — and the book's own overleaf caption photographs it beside the meat. Only the reference is printed on p. 338; the recipe itself is on the facing page. Stand in [§4.20 Meunière Sauce](#420-meunière-sauce) until it arrives. | 📷 Named — needs the page facing book p. 338 |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.

@@ -464,6 +464,7 @@ Click any recipe to jump straight to it.
 - [7.145 60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) ✅ *(Meathead; recovered by the 2026-09-06 page-order audit — hot-and-fast over embers, distinct from [§7.97](#797-last-meal-ribs))*
 - [7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) ✅ *(The Meathead Method; completed 2026-09-06 from newly photographed pages — distinct from [§1 Cody's Pho](#1-codys-pho))*
 - [7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) ✅ *(The Meathead Method; Dorie Greenspan; completed 2026-09-06 from newly photographed pages)*
+- [7.148 Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) ✅ *(The Meathead Method pp. 308–310 — the showcase dish for [§4.174](#4174-poblano-basil-cream-sauce); added 2026-09-07 from Cody's photographs)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -1160,6 +1161,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.13 Pumpkin Chiffon Pie I](#1413-pumpkin-chiffon-pie-i) | 🔴 | 20 min | 5 min | — | 2 hr 25 min *(includes an assumed ~2 hr chill)* |
 | [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) *(Meathead)* | 🟢 | 25 min | — | **8–12 hr** *(indirect grill/smoker, unattended)* | 8¾–12¾ hr *(+ optional 12–24 hr dry brine)* |
 | [§5.44 Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) *(Meathead)* | 🟢 | 10 min | 15 min | — | 30 min |
+| [§7.148 Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 15 min | — | ~1 hr 25 min *(includes a 1 hr dry brine)* |
 | [§15.6 Pastry Biscuits](#156-pastry-biscuits) | 🟢 | 15 min | 12 min | — | 1 hr *(includes an assumed ~30 min chill)* |
 | [§7.43 Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) | 🟢 | 15 min | 12 min | — | 30 min |
 | [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) | 🟢 | 15 min | 10–14 min | — | 30 min |
@@ -12394,7 +12396,7 @@ Per the source's own **TO USE** note: **divide the sauce in two and use half for
 
 Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the **"Butters and Dairy-Based Sauces"** chapter (book p. 194–195). *(Chapter name corrected 2026-09-06: this entry originally cited the "Seafood" chapter, but the running footer on the facing spread reads "Butters and Dairy-Based Sauces 193" — the sauce was simply added in the same batch as that chapter's seafood recipes.)* This sauce sits on the same spread as the source's own **Duxelles** (a finely minced, cooked-down mushroom-and-shallot paste — the classic French term for it) **and Mushroom Cream Sauce**, a second, savory alternative built off that same duxelles. **Both are now in this cookbook:** its mushroom-based neighbor is at **[§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce)**, completed 2026-09-06 from newly photographed pages — see Open Questions.
 
-> Per the source's own headnote: this versatile, refined sauce works on many meats, and it's especially good on fish, potatoes, and grilled vegetables. One thing to know — while poblano peppers carry practically no heat, occasionally one surprises you, so taste as you go. As written, it comes out with timid heat that the cream (and whatever you serve it on) mostly absorbs, unless you land a rogue chile. For more heat, add a green jalapeño. The source uses this sauce in its own Close Proximity Smoked Fish (book p. 308), not yet in this cookbook.
+> Per the source's own headnote: this versatile, refined sauce works on many meats, and it's especially good on fish, potatoes, and grilled vegetables. One thing to know — while poblano peppers carry practically no heat, occasionally one surprises you, so taste as you go. As written, it comes out with timid heat that the cream (and whatever you serve it on) mostly absorbs, unless you land a rogue chile. For more heat, add a green jalapeño. The source uses this sauce in its own **[§7.148 Close Proximity Smoked Fish](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce)** (book pp. 308–310) — **now documented here in full**, as of 2026-09-07.
 
 > ✅ **2026-09-07 second-pass QC against pp. 194–195 (PDF scan): verified, no quantity changes.** All eleven ingredients (¼ tsp Morton Coarse Kosher Salt unchanged), MAKES about 1 cup / TAKES 35 minutes, the special-tools line, and all six steps (Warp 10, the grill topper, tossing every 1 to 2 minutes for about 5 minutes, skin-side-down poblano then 1 to 2 minutes more, the plate-covered bowl, ½-inch chunks, the high simmer reduced by about one-quarter, blend until completely smooth, optional sieve) match. The printed MAKES/TAKES line was missing and is added; the grocery list now carries the printed quantities for the oil, cumin, salt, and pepper.
 
@@ -12470,7 +12472,7 @@ Carefully pour the hot mixture into the blender or food processor with the veget
 - **✅ Resolved 2026-09-06. Duxelles and Mushroom Cream Sauce, the pair printed just before this recipe on the same spread, is now written up in full at [§4.180 Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce).** When this entry was added, the Vegetables & Seafood batch could see only book p. 194 — which picks up mid-recipe at "2. Cook the mushrooms" — while the shared ingredient list and Step 1 sat on book p. 193, absent from the 55-page scan. Cody has since photographed the p. 192–193 spread. **The two sauces are siblings, not substitutes for each other:** this one is the vegetable-based poblano version, §4.180 the mushroom one, and the source offers both. [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)'s own ingredient line names §4.180 specifically.
 - **The duxelles paragraph names a use "if you want to make Wellington or stuff a chicken breast"** — a Beef Wellington or Wellington-style stuffed chicken breast dish. Neither is documented anywhere in this cookbook. Named here rather than invented, per Cody's standing instruction on referenced-but-absent dishes. 🚫 2026-09-07 — Cody: Beef Wellington not wanted.
 - **This cookbook's own [§4.79 Sauce Duxelles (Brown Mushroom Sauce)](#479-sauce-duxelles-brown-mushroom-sauce)**, from *Mastering the Art of French Cooking*, is a different sauce entirely — a French mother-sauce built on a brown sauce base, not this book's cream-based version. Both use the term "duxelles" for the same minced mushroom-and-shallot starting point; kept as two separate, cross-referenced entries rather than merged.
-- **Close Proximity Smoked Fish (book p. 308)**, the dish the source names as this sauce's showcase, isn't yet documented in this cookbook — named here rather than invented. 📌 2026-09-07 — **Cody wants it.** Tracked in [§12](#12-recipes-to-document); needs book p. 308 photographed.
+- ✅ **Closed 2026-09-07.** Close Proximity Smoked Fish, the dish the source names as this sauce's showcase, is now written up at **[§7.148](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce)** from Cody's photographs of book pp. 308–310. It calls for **½ cup of this sauce**, pooled on the plate with the fish set on top.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -18328,7 +18330,7 @@ The best fries are made in two frying steps, usually from **russet Burbanks** �
 <!-- TECHNIQUE-TAGS: meathead, meathead-method, warp-scale, heat-level, direct-heat, grilling -->
 **Tags:** `meathead` · `meathead-method` · `warp-scale` · `heat-level` · `direct-heat` · `grilling`
 **Source:** **Meathead Goldwyn**, ***The Meathead Method*** — used casually across several of this book's chapters (e.g. book p. 194, 286, 339, 380) as shorthand for how hot a grill's direct side is dialed, rather than always giving a specific °F. The page that actually defines the scale numbers has not turned up among any of this project's photographed batches of this book so far.
-**Used in:** [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4 ("Warp 5 on the direct heat side") — the first time this scale actually drove a temperature in a recipe in this cookbook. **[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), Step 2, is the "roasted-poblano recipe" this entry originally described anonymously** ("Warp 10 on the direct heat side," for an aggressive char) — now named, from the Vegetables & Seafood batch. **[§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce), Steps 2–3, is the "grilled pound cake" this entry's own comparison paragraph below already referenced anonymously** ("Warp 5" for a solid sear) — now named, from the Desserts batch.
+**Used in:** [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin), Step 4 ("Warp 5 on the direct heat side") — the first time this scale actually drove a temperature in a recipe in this cookbook. **[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), Step 2, is the "roasted-poblano recipe" this entry originally described anonymously** ("Warp 10 on the direct heat side," for an aggressive char) — now named, from the Vegetables & Seafood batch. **[§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce), Steps 2–3, is the "grilled pound cake" this entry's own comparison paragraph below already referenced anonymously** ("Warp 5" for a solid sear) — now named, from the Desserts batch. **[§7.148 Close Proximity Smoked Fish](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce), Step 2, adds a fourth data point — "Warp 7 on the direct heat side"** (2026-09-07), which sits between the Warp 5 sears and [§4.174](#4174-poblano-basil-cream-sauce)'s Warp 10 char and is read here as high-but-not-maximum direct heat. **[§7.149 The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) uses "Warp 10"** for its finishing sear, the second Warp 10 in the book after the poblano.
 
 **This book refers to direct-grilling heat intensity on a 1-to-10 "Warp" scale** — a nod to the sci-fi warp-speed idea — rather than a specific number of degrees for the direct side of the grill.
 
@@ -34337,6 +34339,94 @@ Put a bed of rice on each plate, spoon the sauce on top, and **nestle a chop on 
 
 ---
 
+### 7.148 Close Proximity Smoked Fish with Poblano-Basil Cream Sauce
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafood" chapter (book pp. 308–310). **Added 2026-09-07** from Cody's photographs of pp. 308–310. This is the dish [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) was always pointing at — the source names it as that sauce's showcase — so the pair is now complete in both directions.
+
+> **Per the source's headnote — the method and the name.** The technique is **close proximity smoking**, which the author created and which his friend **Greg Rempe** of *The BBQ Central Show* named. The logic is simple: fish cooks fast, so if you want smoke on it, you have to put it *close* to smoldering wood rather than waiting on a long smoke. **GrillGrate** (book p. 121) is what makes it work — its valleys hold the wood **within ½ inch of the food** — and its special tongs are designed for lifting delicate fish. He notes the finished fish is amber, not snow white, and that **the color comes from the close-proximity smoke, not from overcooking.**
+
+> **Per the source — on the fish itself.** He states it as an opinion he holds so dearly he'll try to pass it off as fact: **Chilean sea bass and sablefish are the best-tasting creatures with fins.** Chilean sea bass is tender and juicy, somewhat reminiscent of lobster in texture but much more delicate and buttery in flavor; the fillets are snow white and thick, the cooked meat has wide flakes, and **it stays moist even if overcooked.** It was once overfished, but regulation has brought the fishery back, so it can be bought with a clear conscience and a full wallet. Originally called **Patagonian toothfish**, it grows to as much as **200 pounds** and is most often found in the deepest cold waters of the Southern Hemisphere. It is **not** the same as other fish sold as "sea bass" — they aren't even kissing cousins. Alas, they're among the most expensive fish, so **feel free to substitute any other fish; the method works well on all of them.**
+
+**Techniques used:** [§T109 Indirect Heat — Putting Something Between the Fire and the Food](#t109-indirect-heat--putting-something-between-the-fire-and-the-food) *(Step 2's 2-zone setup, and the indirect zone Step 3 escapes to if the wood flames up)* · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T35 Smoke Science — Combustion, the Smoke Ring, and Getting Blue Smoke](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) *(why smoldering wood, not flaming wood, is the goal)* · [§T99 The "Warp" Heat Scale](#t99-the-warp-heat-scale-the-meathead-method)
+
+> **Warp 7, glossed.** Step 2 calls for "Warp 7 on the direct heat side." Per [§T99](#t99-the-warp-heat-scale-the-meathead-method), **no page in any batch of this book photographed for this project actually defines what temperature each Warp number is**, and Cody has closed that request — the scale stays an inference here. Read Warp 7 as **high, aggressive direct heat but short of the grill's maximum** — hotter than the "Warp 5" solid sear used for turkey skin and pound cake, cooler than the "Warp 10" screaming char [§4.174](#4174-poblano-basil-cream-sauce) uses on its poblano. ***That reading is this cookbook's inference from how the scale is used across the book, not a printed definition.***
+
+**MAKES 2 servings · TAKES 10 minutes to prep** *(depending on how many pin bones there are)*, **1 hour to dry brine, about 15 minutes to cook** *(as printed)*
+
+**SPECIAL TOOLS GrillGrate® brand grill grates and their tongs. About 4 ounces of small pieces of wood, pellets, chips, or sawdust.** *(as printed)*
+
+**🟡 Medium** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~1 hr 25 min** *(includes the 1 hr dry brine)*
+
+> **Why Medium, not Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s test — *can a step go from perfect to ruined?* — Step 3 can. The window is **no more than 4 minutes** on the first side and the fish comes off in a **5-degree band (125–130°F)**, on delicate fillets that tear if the spatula goes in wrong, over wood that may catch fire mid-cook. None of that is roux-grade risk, and the source's own note that this fish stays moist even when overcooked is a real safety net, which is why it isn't 🔴. But it is more than attention: it's timing and a temperature target you can miss.
+
+#### A. Ingredients
+
+- ½ tsp Morton Coarse Kosher Salt
+- 2 Chilean sea bass or other fillets (6 to 8 oz each)
+- 3 Tbsp mayonnaise
+- ½ cup [Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) *(§4.174 in this cookbook; book p. 194)*
+- **Optional:** the source has also done this with **Black Garlic Butter** (book p. 186) instead of the poblano-basil cream sauce. ⚠️ **That butter is *not* in this cookbook** — p. 186 has never been photographed, so it is named here and left at that rather than invented. *(It is not the same thing as the sauce built into [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce), which is its own recipe from the book's p. 318.)*
+
+**SERVE WITH:** basmati rice, to soak up the sauce. *(The page names the rice but gives no quantity or method.)*
+
+*Also have on hand:* about **4 oz of small pieces of wood, pellets, chips, or sawdust** — per the SPECIAL TOOLS line, this is the smoke source, not an optional extra.
+
+#### B. Cooking Instructions
+
+**1. Prep. Salt an hour or two ahead if you can.**
+Salt the fish an hour or two in advance if possible — that's the dry brine the TAKES line budgets an hour for, and it's doing the same work it does on meat ([§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)). Then **completely coat the fish with mayonnaise.** *(The prep time swings on how many pin bones the fillets have — that's the page's own caveat on its 10 minutes.)*
+
+**2. Fire up. 2-zone, Warp 7 on the direct side.**
+Preheat the grill for **2-zone cooking** ([§T34](#t34-two-zone-fire-setup), [§T109](#t109-indirect-heat--putting-something-between-the-fire-and-the-food)) and bring the direct-heat side up to **Warp 7**, with a section of **GrillGrate directly over the heat.** The indirect side isn't decoration — Step 3 needs somewhere to retreat to.
+
+**3. Cook and smoke. No more than 4 minutes a side.**
+Toss the wood into the **GrillGrate valleys directly below where the fish will sit** — this is the whole trick, and it should start smoldering quickly. **As soon as it does**, place the fish directly over the smoke and close the lid.
+
+**After no more than 4 minutes, flip the fish.** If you use the groovy (pun intended) spatula supplied with your GrillGrate to release it, **be careful not to scoop up any pellets with it.** The underside should have **dark grill marks and a golden color from the smoke.** Flip and cook **another 4 minutes**, then test the internal temp. **Take the fish off when the internal temperature is between 125° and 130°F.**
+
+**If the wood catches fire, take the fish off the grates and move it to the indirect zone to finish cooking.** Flame is the failure mode here, not heat — smoldering wood makes smoke, burning wood makes soot and scorch ([§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke)).
+
+**4. Serve.**
+**Pool the [Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) on each plate and serve the fish atop it**, with rice alongside. Sauce under the fish, not over it — the smoked, grill-marked surface is the thing you just spent 15 minutes making, and it stays visible.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Chilean sea bass fillets — 2, at 6 to 8 oz each *(sablefish is the author's other favorite; any fish works — the method is the point)*
+- 🛒 Mayonnaise — 3 Tbsp
+- 🛒 Morton Coarse Kosher Salt — ½ tsp
+- 🛒 Basmati rice — to serve
+- 🛒 Ingredients for [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce), if not already made — ½ cup needed
+
+**🏪 Specialty / hardware**
+
+- 🏪 GrillGrate grill grates and their tongs and spatula (grill supply or grillgrate.com) — the SPECIAL TOOLS line, and genuinely load-bearing: the ½-inch wood-to-food gap is what makes this recipe work
+- 🏪 Smoking wood — about 4 oz of small pieces, pellets, chips, or sawdust
+
+#### Nutrition *(estimated)*
+
+*The page prints no nutrition numbers, so these are built from the ingredient list. Counted on what is actually eaten: about two-thirds of the mayonnaise stays on the fish as crust and the rest cooks off or drips, and the fish is figured at 7 oz per fillet, the midpoint of the printed 6-to-8 oz range. **Rice is not in the table** — the page names it without a quantity; a cup of cooked basmati adds roughly 200 calories and 45 g carbs per person.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(both fillets, mayo, and ½ cup sauce)* | ~905 | 61 g | 75 g | 8 g | 1 g |
+| **Per serving** *(serves 2, per the printed MAKES)* | ~455 | 30 g | 38 g | 4 g | 0.5 g |
+
+**What a serving is:** one 6-to-8 oz fillet sitting in a pool of about ¼ cup of the poblano-basil cream sauce, with rice alongside — a full dinner plate. Chilean sea bass is an oily fish, which is where most of the fat comes from; a leaner substitute (the page invites any fish) drops the fat and calories substantially.
+
+✅ 2026-09-07 transcribed and verified against Cody's photograph of pp. 308–310 — the headnote, MAKES/TAKES, SPECIAL TOOLS, all four ingredient lines plus the OPTIONAL and SERVE WITH lines, and Steps 1–4 read at native resolution and cropped for confirmation. The Step 3 temperature band reads **125° to 130°F** and the flip is at **no more than 4 minutes**; both are as printed.
+
+#### D. Open Questions
+
+- **Black Garlic Butter (book p. 186) is named as an alternative to the cream sauce and is not in this cookbook.** p. 186 has never been photographed in any batch from this source. Named here, not invented. One photo of p. 186 would close it.
+- **Warp 7 has no printed definition** anywhere in this project's photographs of this book — see [§T99](#t99-the-warp-heat-scale-the-meathead-method). The gloss above is a cookbook inference, and Cody has 🚫 closed the hunt for the defining page (2026-09-07), so it stays one.
+- **No smoke-wood species is specified** — the page says only "wood, pellets, chips, or sawdust," about 4 oz. Noted rather than invented.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -41042,7 +41132,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | **The Ultimate Prime Rib Roast** | ***The Meathead Method***, **book p. 218, bottom, onward.** **Identified 2026-09-06; p. 218 re-confirmed by the 2026-09-07 reshoot.** The clean p. 218 shows exactly what the first photo did and nothing more: the title box and the opening of the headnote (*"This is what I serve for Christmas dinner. The method is perfect because prime rib takes time and dinner is over the river and through the woods… I shoot for 8 ounces cooked meat per person after trim and shrinkage, plus extra to send home. So, for…"*), cut off at the page's bottom edge. **No MAKES/TAKES line, no ingredient list, and no numbered steps have ever been photographed**; they run onto **book p. 219 and beyond**. **Distinct from [§7.114 Prime Rib](#7114-prime-rib)**, the *earlier* Meathead book's reverse-seared version, already documented here. | Identified — needs p. 219 onward |
 | **Griddled Ham-n-Shrimp Hash** | ***The Meathead Method***, **book pp. 254–256.** **Identified 2026-09-06; the pp. 254–255 spread captured flat and complete by the 2026-09-07 reshoot.** Read at native resolution, p. 255 now gives **the entire ingredient list** — 1 lb potatoes (Yukon Gold or russet); ¼ tsp baking soda; 1 jalapeño; 1 small red bell pepper or ½ medium; 6 oz Canadian bacon or ham; ¼ lb medium shrimp; 2 garlic cloves; 4 scallions; 2 Tbsp good olive oil, plus more as needed; ¼ tsp Morton Coarse Kosher Salt; ¼ tsp medium-grind black pepper; 3 Tbsp bacon grease, duck fat, or clarified butter; 1 Tbsp fresh thyme; 2 large eggs; optional hot sauce for serving — plus the title, the headnote, **MAKES 2 servings**, **TAKES about 45 minutes**, **SPECIAL TOOLS griddle and large spatula**, an *About the Canadian Bacon* note (it's cured pork loin, closer to ham than bacon, so ham is fine), and **Step 1 Parcook the Taters** (the Kenji method: 1-inch cubes, 1 quart water in a 2-quart pot, boil, add the baking soda, simmer about 10 minutes until tender but still firm, drain and rough them up in the colander). **Not added, on purpose:** Step 1 is the last thing on p. 255 — **every remaining step is on p. 256**, which has never been photographed, and a hash with only its potato step isn't a recipe. **One photo of book p. 256 closes this.** | Identified — ingredients complete; needs p. 256 for Steps 2 onward |
 | [**Thai Sweet Chile Sauce (Nam Jim Kai)**](#4186-thai-sweet-chile-sauce-nam-jim-kai) | ***The Meathead Method***, **book pp. 200–202.** Identified 2026-09-07 from the reshoot of p. 200, which carried only the headnote. **Closed the same day:** Cody photographed **pp. 201–202**, which supply the MAKES/TAKES/SPECIAL TOOLS line, all five ingredients plus the OPTIONAL red pepper flakes, Steps 1–5, and the About the Peppers / Vinegar / Cornstarch sidebars. Written up in full at **[§4.186](#4186-thai-sweet-chile-sauce-nam-jim-kai)**. One quirk worth keeping on the record: **the page prints 1 cup of water only inside Step 2, never in its ingredient list** — the entry lists it and says so. *(The top of p. 200 is the tail of the Orange Tuscan-Style Board Sauce, which Cody dropped on 2026-09-06 — it stays dropped.)* | ✅ Complete — §4.186 |
-| **Close Proximity Smoked Fish** | ***The Meathead Method***, **book p. 308.** The dish the source names as the showcase for [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce). **Cody wants it (2026-09-07).** p. 308 has never been among the photographed pages — nothing transcribed yet. **One photo of book p. 308 (and p. 309 if the recipe runs on) closes this.** | Wanted — needs p. 308 photographed |
+| [**Close Proximity Smoked Fish with Poblano-Basil Cream Sauce**](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) | ***The Meathead Method***, **book pp. 308–310.** The dish the source names as the showcase for [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce). **Cody wanted it (2026-09-07) and closed it the same day** — he photographed pp. 308, 309, and 310, which together carry the headnote, MAKES/TAKES, SPECIAL TOOLS, the ingredient list, and all four steps. Written up in full at **[§7.148](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce)**. Still open from these pages: the **Black Garlic Butter (book p. 186)** named as an alternative to the cream sauce, which has never been photographed. | ✅ Complete — §7.148 |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.

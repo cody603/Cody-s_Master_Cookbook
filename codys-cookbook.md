@@ -572,7 +572,7 @@ Click any recipe to jump straight to it.
 - [10.1 Huevos Rancheros](#101-huevos-rancheros) ○
 - [10.2 Egg Omelette Scrambles](#102-egg-omelette-scrambles) ○
 - [10.3 Bacon and Eggs](#103-bacon-and-eggs) ○
-- [10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ○ ❤️
+- [10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ✅ 🥑 ❤️ *(keto cookbook, Breakfast & Breads — printed there as "Egg Muffins"; **0.6 g net carbs, the lowest in this cookbook**; placeholder closed 2026-09-08)*
 - [10.5 Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) ✅
 - [10.6 Irish Soda Bread](#106-irish-soda-bread) ✅
 - [10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) ✅
@@ -1010,6 +1010,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
 | [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🥑 | 🟢 | 10 min | 25 min | — | 35 min |
+| [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) 🥑 | 🟢 | 5 min | 30 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§14.6 Key Lime Pie](#146-key-lime-pie) | 🟢 | 15 min | 20 min | — | 35 min *(+ 30 min cool, 3 hr chill)* |
 | [§14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream) *(The Meathead Method)* | 🟡 | 15 min | 20 min | — | 45 min |
@@ -1234,13 +1235,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **30 minutes of work or less — 114 recipes** *(pre-2026-09-05 Meathead batch — see that changelog entry's flag; this count and the "now-86" figure below both predate [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), 32 of which are themselves 30 minutes or less, and haven't been recounted yet)*, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
-**🥑 Keto / low-carb — 6 recipes.** All six come from the same keto cookbook and carry the publisher's own net-carb figures, listed here lowest net carbs first: **[§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) *(2 g net — the lowest in the book)*** · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)*. The swaps repeat across all of them: **standing something in for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** **The potato swap is now three recipes and two vegetables** — cauliflower for the cold salad and the mash, **radishes for the fried one**, because radishes hold their edges in a hot pan and cauliflower doesn't. Learn those four substitutions and most of the rest of §11 writes itself.
+**🥑 Keto / low-carb — 7 recipes.** All seven come from the same keto cookbook and carry the publisher's own net-carb figures, listed lowest first: **[§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) *(0.6 g net — the lowest in this cookbook)*** · [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) *(2 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)*. The swaps repeat across most of them: **standing something in for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** **The potato swap is three recipes and two vegetables** — cauliflower for the cold salad and the mash, **radishes for the fried one**, because radishes hold their edges in a hot pan and cauliflower doesn't. **§10.4 is the outlier and the reason it wins on carbs: it substitutes nothing at all.** Eggs, sausage, cream, and cheese are low-carb on their own, so there is no flour stand-in to cost anything — which is worth remembering when the goal is the lowest number rather than the closest imitation of a baked good.
 
 **The twenty-two 🔴 Hard ones come down to five problems.** Ten are hard for one reason: **a dark roux** — [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo), [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo), [§8.25 Wild Goose Gumbo](#825-wild-goose-gumbo-with-oysters), [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i), and [§8.46 Verna's Galimatias](#846-vernas-galimatias) — every one of them says *dark*. The brown- and medium-roux dishes that used to sit beside them — the two French brown sauce bases [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), [§8.42](#842-creole-courtbouillon), [§8.43](#843-crawfish-bisque-ii), and [§8.44](#844-courtbouillon) — are now 🟡, per the roux tiers above. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) for a third: **a butter emulsion that breaks** — Hollandaise can't be rescued at all, and beurre blanc turns oily the moment it's reheated or held too warm, though the source at least gives it a documented fix. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. [§14.20 Cream Caramel](#1420-cream-caramel), [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) for a fifth: **a genuinely fail-prone specialty technique** — caramelizing sugar to a rich brown in seconds for the caramels, and binding raw octopus with transglutaminase into a roll that has to set correctly or fall apart on slicing for the carpaccio. **Learn the dark roux once and ten of the twenty-two stop being hard** — and the 🟡 brown-roux dishes are the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
-*Recipes still in placeholder form (§5.1–5.9, §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.4, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
+*Recipes still in placeholder form (§5.1–5.9, §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.3, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
 *Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
 
@@ -42016,17 +42017,93 @@ Each plugs straight into the Master Recipe — the technique never changes, only
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
 ### 10.4 Southern Keto Egg and Sausage Muffins
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
-**❤️ Family favorite** — *Cody: "These rock."*
+✅ **Closed 2026-09-08 — Cody photographed the page and this placeholder is now a full recipe.** Transcribed from the printed keto cookbook, ***Breakfast & Breads*** chapter, where the page prints the recipe simply as **"Egg Muffins."** The longer name at the top of this entry is Cody's own and is kept as the title; the source's printed title is recorded here. Same book as [§11.3](#113-keto-skillet-cornbread)–[§11.7](#117-home-fried-bacon-radishes) and [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded). *(Page number not visible in the photograph — see Open Questions.)*
 
-> 🔍 **Status, 2026-09-08 — still open, and Cody is supplying it himself.** He thought he had already given this recipe. **He hadn't** — or at least none of it ever landed here. **A full search was run before writing this note**, across `codys-cookbook.md`, `CHANGELOG.md`, and the rest of the repo, for the section number, the recipe name, and every plausible alternate wording (*egg muffin*, *sausage muffin*, *egg bite*, *egg cup*, *breakfast muffin*, *muffin tin*, *muffin pan*), plus every "muffin" and every "Southern Keto" mention in the book. **There is no content for this recipe anywhere** — not filed under another name, not sitting in another section, and nothing in the changelog history. This entry has been a bare placeholder since it was created; the only thing on it is Cody's rating.
->
-> **He said he needs to clarify it and will do it himself** — *"I need to clarify those. Alright. I'll do it."* So this stays open and waits for him. **Nothing is invented here**; there will be no judgment-based reconstruction of this recipe.
->
-> 📖 **UPDATE 2026-09-08 — it stays open, and now we know where the answer is coming from: the keto cookbook.** Asked again the same day, Cody's answer was to leave it alone for now — ***"keep that one open. I need to go to the keto cookbook."*** **So this is not waiting on his memory, it's waiting on a book he owns**, and the lead below turns out to be the right one: **it's the same printed keto cookbook behind [§11.3](#113-keto-skillet-cornbread)–[§11.6](#116-keto-zucchini-bread) and [§7.21](#721-fried-chicken-low-carb-whey-breaded).** A photograph of the page closes this entry outright. **Still nothing invented in the meantime** — and when the page arrives, this one gets the 🥑 keto treatment per [CLAUDE.md §3c](CLAUDE.md): net carbs per serving, the badge tag, the TOC marker, and a row in the keto callout.
->
-> **The lead, now confirmed as the plan:** the "Southern Keto" name matches the printed keto cookbook this book has already transcribed five recipes from — [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread), [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad), [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes), [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread), and [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) — whose *Breakfast & Breads* chapter is exactly where an egg-and-sausage muffin would live. A photograph of that page would likely close this entry outright. *(The neighboring [§11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) is an open placeholder from the same book and probably the same photo session.)*
+**❤️ Family favorite** — *Cody, 2026-09-08: **"Our family likes these — it's a solid breakfast."*** *(An earlier rating on the placeholder read simply "These rock." Both are his; both stand.)*
+
+> **The source's own headnote:** *"Egg muffins are popular everywhere now, including the South, because everyone needs a quick but wholesome breakfast option. They are so simple to make, and they reheat nicely, which makes them perfect for those busy weekday mornings!"*
+
+> 🥑 **0.6 g net carbs per muffin — the lowest of any recipe in this cookbook.** Nothing else comes close: the next lowest is [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) at 2 g. That is what you'd expect from a dish that is eggs, sausage, cream, and cheese and essentially nothing else — there is no flour substitute in it at all, which is unusual for this book's keto entries.
+
+**Yield:** the source's own — **10 muffins, 1 per serving**
+
+**🥑 Keto** · **🟢 Easy** · **Prep ~5 min** · **Cook ~30 min** *(about 10 min browning the sausage, then a 15–20 min bake)* · **Start to finish ~35 min** *(prep and cook times are the source's own printed figures)*
+
+> **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined. Brown sausage, whisk eggs, pour, bake. The one thing that degrades is **overcooked egg going rubbery**, and that's a wide window with a clear cue — see Step 5 and the reheating note.
+
+#### A. Ingredients
+
+*Exactly as the source prints them.*
+
+- 8 ounces bulk breakfast sausage
+- 2 teaspoons dried chives
+- 6 large eggs
+- ¼ cup heavy whipping cream
+- 1 teaspoon dried ground oregano
+- ¼ teaspoon salt
+- ½ teaspoon pepper
+- ¾ cup shredded sharp cheddar cheese
+
+*Plus oil, for greasing the pan (Step 1).*
+
+> 🧂 **The salt is ¼ teaspoon, exactly as printed, and it stays that way.** This is a transcribed recipe, not one of the standalone brines at §4.100–§4.104, so this cookbook's heavier-salt preference does not apply. **Note also that the sausage and the sharp cheddar both bring their own salt** — which is why a quarter teaspoon across ten muffins is less thin than it looks.
+
+#### B. Cooking Instructions
+
+**1. Preheat the oven to 350°F and grease 10 wells of a standard 12-well muffin pan with oil.**
+**Ten wells, not twelve** — that's the source's own instruction, and it's what makes the yield come out at 10 muffins with each well filled properly rather than 12 shallow ones. Grease them well; baked egg sticks.
+
+**2. Brown the sausage with the chives. About 10 minutes.**
+In a medium skillet over medium heat, cook the sausage **with the chives**, crumbling the meat with a large spoon as it goes, until it's **well browned and cooked through — about 10 minutes.** **Drain the fat if necessary**, and set it aside. *The chives go in with the raw sausage rather than into the egg mixture later — they cook in the fat and carry through the whole muffin instead of sitting as flecks.* **Drain if the sausage ran fatty:** excess grease pools in the wells and the muffins come out greasy rather than set.
+
+**3. Whisk the eggs, then whisk in the cream and seasonings. Then stir in the sausage and cheese.**
+Whisk the eggs in a medium bowl first, on their own, then add the **cream, oregano, salt, and pepper** and whisk until well combined. Only then stir in the cooked sausage mixture and the cheese. *Whisking the eggs before anything else goes in is what gets the mixture uniform — once it's full of sausage and cheese you can't whisk it properly without knocking the solids around.* **Let the sausage cool a little first** if it just came off the heat; screaming-hot sausage dropped into raw egg will start to cook it in the bowl.
+
+**4. Fill each greased well about three-quarters full.**
+**Three-quarters, not to the brim** — the source is specific and it matters: these puff as they bake and settle again as they cool, and a well filled to the top overflows and welds the muffins to the pan.
+
+**5. Bake 15 to 20 minutes, until the centers are set and the tops are lightly browned.**
+Those two cues together are the doneness test — **a set center and a lightly browned top.** Start checking at 15 minutes. *Pull them when the centers are just set rather than firm;* eggs carry over after they leave the oven, and the difference between set and rubbery is a couple of minutes.
+
+**6. Storing and reheating — up to a week, and don't overheat them.**
+The source's own instruction, and it's the reason the recipe exists: **leftovers keep in an airtight container in the refrigerator for up to a week.** **Reheat just until warmed — be careful not to overheat, or the eggs will become rubbery.** That warning is the source's, not gloss, and it's the one real way to ruin these after the fact. A short burst in the microwave, checked and repeated, beats one long one.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Bulk breakfast sausage — 8 oz.
+- 🛒 Eggs — 6 large
+- 🛒 Heavy whipping cream — ¼ cup
+- 🛒 Sharp cheddar cheese, shredded — ¾ cup
+- 🛒 Dried chives — 2 tsp
+- 🛒 Dried ground oregano — 1 tsp
+- 🛒 Salt and pepper
+- 🛒 Oil — for greasing the pan
+
+**Not a grocery item:** a standard 12-well muffin pan.
+
+#### Nutrition *(per serving, as printed on the source page)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(10 muffins)* | ~1,650 | 137 g | 91 g | 7 g | 1 g |
+| **Per serving** *(1 muffin, of 10)* | 165 | 13.7 g | 9.1 g | 0.7 g | 0.1 g |
+
+**What a serving is:** **one muffin** — the source's own portion, and it says so outright in the yield line: *10 muffins (1 per serving)*. Two is a normal breakfast for most people, which puts a real plate at about 330 calories.
+
+**Net carbs: 0.6 g per muffin** *(6 g for the whole batch of ten)* — as printed on the page. **This is the lowest net-carb figure in the cookbook.** Whole-dish figures are calculated from the source's per-serving numbers at its stated 10 servings.
+
+#### D. Open Questions
+
+- **The page number isn't visible in the photograph** — the footer is outside the frame. The chapter is confirmed from the running head *(Breakfast & Breads)*, and the book is confirmed by the shared nutrition-panel format with [§11.3](#113-keto-skillet-cornbread)–[§11.7](#117-home-fried-bacon-radishes). Recorded as absent rather than guessed.
+- **The calorie figure was partly clipped by the edge of the photo** — it reads **165**, which is consistent with the printed fat, protein, and carb numbers *(13.7 g fat and 9.1 g protein alone account for roughly 160 calories)*, so it's transcribed as 165 with the arithmetic noted rather than treated as uncertain.
+- **"Bulk breakfast sausage" is not specified by brand, heat level, or fat content** — all three move both the flavor and the printed nutrition. The source's numbers are the publisher's and are used as-is per [CLAUDE.md §3b](CLAUDE.md).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
 
 ### 10.5 Soft Scrambled Eggs & Chanterelles
 
@@ -42900,7 +42977,7 @@ Transcribed from a printed keto cookbook page — **p. 68, the *Breakfast & Brea
 
 > 🥔 **This is the potato swap again, with a new vegetable — and that's worth noticing.** [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) and [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) both use **cauliflower** to stand in for potatoes. **This one uses radishes**, and for a different job: cauliflower gets mashed or dressed cold, while radishes hold their shape and edges in a hot pan, which is what makes them read as **home fries** rather than as mash. Per [CLAUDE.md §3c](CLAUDE.md), the recurring keto substitutions are worth recognizing as a family — this is the third recipe in this book to replace potatoes and the first to do it with something that fries.
 
-> 📖 **Same chapter as the one still missing.** [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) is an open placeholder waiting on this book's **Breakfast & Breads** chapter — which is exactly where this page comes from (p. 68). Worth a look while the book is open.
+> ✅ **Same chapter — and it paid off the same day.** [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) had been an open placeholder waiting on this book's **Breakfast & Breads** chapter, which is exactly where this page comes from (p. 68). Cody photographed that page on **2026-09-08** and §10.4 is now a full recipe — printed in the book as *"Egg Muffins,"* at **0.6 g net carbs, the lowest figure in this cookbook.**
 
 **Yield:** 4 servings *(the source's own)*
 
@@ -42953,7 +43030,7 @@ Put the radishes in the drippings and cook over **medium-high for 10 minutes**. 
 
 **What a serving is:** about **½ cup** — a side portion, **the scoop you'd take of hash browns**, which is the source's own comparison.
 
-**Net carbs: 2 g per serving** *(8 g for the whole dish)* — as printed on the page. Whole-dish figures are calculated from the source's per-serving numbers at its stated 4 servings. **This is the lowest net-carb recipe in §11.**
+**Net carbs: 2 g per serving** *(8 g for the whole dish)* — as printed on the page. Whole-dish figures are calculated from the source's per-serving numbers at its stated 4 servings. **This is the lowest net-carb recipe in §11**, and the second lowest in the cookbook — [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins), from the same book and the same chapter, came in at **0.6 g** on 2026-09-08.
 
 #### D. Open Questions
 

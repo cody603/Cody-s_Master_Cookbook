@@ -372,6 +372,7 @@ Click any recipe to jump straight to it.
 - [7.49 "Brunette" de Veau](#749-brunette-de-veau) ✅
 - [7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) ✅
 - [7.51 Boudin Blanc (Boudin)](#751-boudin-blanc-boudin) ✅
+  - [D. Variation — Fried Boudin Patties](#d-variation--fried-boudin-patties) ✅
 - [7.52 Chicken Marbella](#752-chicken-marbella) ✅
 - [7.53 Pasta Puttanesca](#753-pasta-puttanesca) ✅
 - [7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) ✅
@@ -1069,6 +1070,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
+| [§7.51 D. Fried Boudin Patties](#d-variation--fried-boudin-patties) *(a variation of [§7.51](#751-boudin-blanc-boudin), from its leftovers)* | 🟢 | 10 min | 5 min | — | 15 min *(needs well-chilled leftover boudin stuffing)* |
 | [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) | 🟢 | 15 min | — | — | 15 min |
 | [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) | 🟢 | 15 min | — | — | 15 min |
 | [§4.45 Pico de Gallo](#445-pico-de-gallo) | 🟢 | 15 min | — | — | 15 min |
@@ -26811,6 +26813,60 @@ Drain and **let it sit about 15 minutes before slicing**. Then serve immediately
 **What a serving is:** about 5 oz — one large link, or a hearty snack or breakfast portion, per the source's own "15 snack or lunch servings" count.
 
 *This is a rice-forward sausage rather than a fatty one — 6 to 9 cups of rice against 1¾ lb of meat and liver keeps the carb count high and the fat count comparatively low for a pork sausage.*
+
+#### D. Variation — Fried Boudin Patties
+
+Transcribed from **The Prudhomme Family Cookbook**, **p. 245** (its NOTE finishes on p. 246), printed immediately after the boudin above and built entirely from its leftovers.
+
+✅ **2026-09-08 transcribed and verified against Cody's photographs of pp. 245 and 246** — p. 245 confirmed by its printed footer and the *Jambalayas & Boudins* running head, p. 246 by the *The Prudhomme Family Cookbook* running head. Both quantities, both dimensions, the oil depth and the per-side time all read clean at native resolution.
+
+> **Why this is a section of §7.51 and not its own numbered entry.** It cannot be made without a batch of the boudin above — its entire ingredient list is *"½ cup leftover chilled stuffing for each patty."* **This cookbook has already ruled on this exact case twice:** [§8.18 Gazpacho](#818-gazpacho)'s Gazpacho Cooler was folded in *"the same treatment as §7.51's Fried Boudin Patties,"* and the companion **Fried Crawfish Patties** was deliberately held back from standing alone *"rather than standing alone without the recipe it's a leftover-use variation of."* Same source, same shape, same answer. It still gets a full badge, a [Difficulty & Time Index](#difficulty--time-index) row, and its own Nutrition block, so it stays findable and plannable on its own terms.
+
+**Yield:** one 3½-inch patty per ½ cup of leftover stuffing — figure **4 patties** from 2 cups
+
+**🟢 Easy** · **Prep ~10 min** *(shaping the patties)* · **Cook ~5 min** *(about 1 minute per side, in batches)* · **Start to finish ~15 min** *(the stuffing must already be **well chilled** — that's leftover-from-yesterday time, not part of this recipe)*
+
+##### Ingredients
+
+- ½ cup leftover chilled boudin stuffing **for each patty** — from [§7.51](#751-boudin-blanc-boudin) above
+- Vegetable oil, for frying — enough to stand **¼ inch deep** in the skillet
+
+##### Cooking Instructions
+
+**1. Shape each ½ cup of filling into a 3½-inch patty about ¾ inch thick.**
+One measured half-cup per patty, patted out to those dimensions. *The ¾-inch thickness is doing real work: any thicker and one minute a side won't heat the middle, any thinner and the patty dries out before the crust forms.*
+
+**2. Heat the oil ¼ inch deep, over high heat, until a drop of water sizzles in it.**
+A large skillet, oil standing a quarter inch deep — this is shallow frying, not deep frying. **The doneness cue is the source's own: sprinkle in a drop of water and listen for the sizzle.** Don't start the patties before it does; cool oil is what makes a greasy patty instead of a crisp one.
+
+**3. Fry until crisp and brown — about 1 minute per side.**
+Turn once. **It helps to use two spatulas to hold the patty securely while turning** — this is a loose, rice-bound patty with no egg or flour holding it together, and one spatula under a hot patty is how it comes apart mid-flip.
+
+**4. Drain, blot the tops too, and serve immediately.**
+Drain on paper towels **and also blot the tops of the patties with paper towels**. *That second half is easy to skip and worth doing — a patty drained on one side only sits in its own oil on the other.*
+
+> ⚠️ **NOTE, per the source — and it's a happy accident, not a disaster.** **If the stuffing isn't well chilled, it will break apart and make a fantastic fried rice.** So the failure mode of this recipe is a different, perfectly good dish; there's nothing here that can genuinely be ruined, which is why it rates 🟢 Easy despite the hot oil.
+
+> **The same method works on whole leftover links.** Per the source: **any leftover boiled boudin — hot or chilled — can be cut into desired lengths and fried in the same manner. You need not slice links open to fry them.** As they cook the casings will shrink and may even split, **but that will not affect the wonderful taste.** *(This is the same fry [step 8](#751-boudin-blanc-boudin) of the boudin sends you to, "leaving casings on.")*
+
+##### Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Vegetable oil — enough for ¼ inch in a large skillet *(already on [§7.51's list](#751-boudin-blanc-boudin) above)*
+
+*Everything else comes out of the refrigerator — this recipe buys nothing.*
+
+#### Nutrition *(estimated — Fried Boudin Patties)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(4 patties, from 2 cups of leftover stuffing)* | ~920 | 49 g | 36 g | 74 g | 2 g |
+| **Per serving** *(1 patty)* | ~230 | 12 g | 9 g | 18 g | 0.5 g |
+
+**What a serving is:** **one patty — a browned disc about the width of a drink coaster and a finger-joint thick.** Two make a light lunch with hot sauce; one alongside eggs is a breakfast portion.
+
+*Built from [§7.51](#751-boudin-blanc-boudin)'s own filling figures at ½ cup per patty, plus roughly 1½ tsp of frying oil actually absorbed per patty — the rest stays in the skillet, and blotting the tops takes a little more off. The oil is why a fried patty carries about double the fat of the same filling poached in a casing.*
 
 [↑ Table of Contents](#table-of-contents)
 

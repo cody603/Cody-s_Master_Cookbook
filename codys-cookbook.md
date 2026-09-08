@@ -591,6 +591,7 @@ Click any recipe to jump straight to it.
 - [11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](#114-southern-fauxtato-salad-cauliflower-potato-salad) ✅ 🥑 ❤️
 - [11.5 Easy Caulimash (Keto "Mashed Potatoes")](#115-easy-caulimash-keto-mashed-potatoes) ✅ 🥑 ❤️
 - [11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) ✅ 🥑 🔖
+- [11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) ✅ 🥑 *(keto cookbook p. 68, Breakfast & Breads — **radishes standing in for potatoes**, the third potato swap in §11 and the first that fries; 2 g net carbs, the lowest in the section; added 2026-09-08)*
 
 **[14. Desserts](#14-desserts)** *(numbered 14 to avoid renumbering §12–§13 — see the section intro)*
 
@@ -1008,6 +1009,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.25 Crabmeat Imperial](#925-crabmeat-imperial) | 🟢 | 20 min | 15 min | — | 35 min |
 | [§7.38 Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | 🟢 | 20 min | 15 min | **~3 hr** *(covered braise, oven)* | 3 hr 35 min *(+ 1 hr–overnight dry-brine)* |
 | [§5.15 Roasted Asparagus](#515-roasted-asparagus) | 🟢 | 10 min | 25 min | — | 35 min |
+| [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🥑 | 🟢 | 10 min | 25 min | — | 35 min |
 | [§8.15 Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) | 🟢 | 15 min | 20 min | — | 35 min |
 | [§14.6 Key Lime Pie](#146-key-lime-pie) | 🟢 | 15 min | 20 min | — | 35 min *(+ 30 min cool, 3 hr chill)* |
 | [§14.30 Drunken Peaches and Cream](#1430-drunken-peaches-and-cream) *(The Meathead Method)* | 🟡 | 15 min | 20 min | — | 45 min |
@@ -1232,7 +1234,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **30 minutes of work or less — 114 recipes** *(pre-2026-09-05 Meathead batch — see that changelog entry's flag; this count and the "now-86" figure below both predate [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), 32 of which are themselves 30 minutes or less, and haven't been recounted yet)*, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
-**🥑 Keto / low-carb — 5 recipes.** All five come from the same keto cookbook and carry the publisher's own net-carb figures: [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)*. The swaps repeat across all of them: **cauliflower for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** Learn those four substitutions and most of the rest of §11 writes itself.
+**🥑 Keto / low-carb — 6 recipes.** All six come from the same keto cookbook and carry the publisher's own net-carb figures, listed here lowest net carbs first: **[§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) *(2 g net — the lowest in the book)*** · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)*. The swaps repeat across all of them: **standing something in for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** **The potato swap is now three recipes and two vegetables** — cauliflower for the cold salad and the mash, **radishes for the fried one**, because radishes hold their edges in a hot pan and cauliflower doesn't. Learn those four substitutions and most of the rest of §11 writes itself.
 
 **The twenty-two 🔴 Hard ones come down to five problems.** Ten are hard for one reason: **a dark roux** — [§T1](#t1-how-to-make-a-roux), [§4.12 Fish Brown Sauce](#412-fish-brown-sauce), [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.23 Duck & Sausage Gumbo](#823-duck--sausage-gumbo), [§8.24 Duck and Guinea Gumbo](#824-duck-and-guinea-gumbo), [§8.25 Wild Goose Gumbo](#825-wild-goose-gumbo-with-oysters), [§8.41 Crawfish Bisque I](#841-crawfish-bisque-i), and [§8.46 Verna's Galimatias](#846-vernas-galimatias) — every one of them says *dark*. The brown- and medium-roux dishes that used to sit beside them — the two French brown sauce bases [§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) and [§4.72](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2), [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses), [§8.42](#842-creole-courtbouillon), [§8.43](#843-crawfish-bisque-ii), and [§8.44](#844-courtbouillon) — are now 🟡, per the roux tiers above. [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) for a second: **a binder that can break, stuffing that must chill, and a 550°F finish**. [§4.9 Hollandaise](#49-hollandaise-sauce) and [§4.85 Beurre Blanc](#485-beurre-blanc--beurre-nantais-white-butter-sauce) for a third: **a butter emulsion that breaks** — Hollandaise can't be rescued at all, and beurre blanc turns oily the moment it's reheated or held too warm, though the source at least gives it a documented fix. [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) and [§14.5 Pumpkin Chiffon Pie](#145-pumpkin-chiffon-pie) for a fourth: **a stovetop custard that can curdle** — the same risk as Hollandaise — with the chiffon pie stacking a meringue that has to be folded in without deflating on top of that. [§14.20 Cream Caramel](#1420-cream-caramel), [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce), and [§7.86 Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) for a fifth: **a genuinely fail-prone specialty technique** — caramelizing sugar to a rich brown in seconds for the caramels, and binding raw octopus with transglutaminase into a roll that has to set correctly or fall apart on slicing for the carpaccio. **Learn the dark roux once and ten of the twenty-two stop being hard** — and the 🟡 brown-roux dishes are the gentler way in, cooked slowly at moderate heat rather than [§T1](#t1-how-to-make-a-roux)'s 500°F Cajun method.
 
@@ -42887,6 +42889,76 @@ Let it sit 10 minutes, turn it out of the pan, and let it cool **all the way** �
 **What a serving is:** one slice — an eighth of a 9×5 loaf, about a ¾-inch cut.
 
 **Net carbs: 2.7 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 8 servings. The fiber is unusually high because oat fiber is nearly all fiber — that's what keeps net carbs so low despite 11.2 g total carbs.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 11.7 Home-Fried Bacon Radishes
+
+Transcribed from a printed keto cookbook page — **p. 68, the *Breakfast & Breads* chapter** — the same book as [§11.3](#113-keto-skillet-cornbread) through [§11.6](#116-keto-zucchini-bread) and [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded). **The source's own headnote:** *"Growing up, my mom frequently made me fried potatoes. These radishes remind me of fried potatoes! This versatile dish can be served with breakfast (for example, in place of hash browns) or dinner."*
+
+> 🥔 **This is the potato swap again, with a new vegetable — and that's worth noticing.** [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) and [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) both use **cauliflower** to stand in for potatoes. **This one uses radishes**, and for a different job: cauliflower gets mashed or dressed cold, while radishes hold their shape and edges in a hot pan, which is what makes them read as **home fries** rather than as mash. Per [CLAUDE.md §3c](CLAUDE.md), the recurring keto substitutions are worth recognizing as a family — this is the third recipe in this book to replace potatoes and the first to do it with something that fries.
+
+> 📖 **Same chapter as the one still missing.** [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) is an open placeholder waiting on this book's **Breakfast & Breads** chapter — which is exactly where this page comes from (p. 68). Worth a look while the book is open.
+
+**Yield:** 4 servings *(the source's own)*
+
+**🥑 Keto** · **🟢 Easy** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min** *(prep and cook times are the source's own printed figures)*
+
+> **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, no step here can go from perfect to ruined. It's a skillet, bacon, and twenty minutes of stirring every couple of minutes. The bacon could be taken too far, but you pull it at crispy and the window is wide.
+
+#### A. Ingredients
+
+*Exactly as the source prints them.*
+
+- 1 (16-ounce) bag radishes
+- 6 slices bacon
+- Salt and ground black pepper
+- Chopped fresh flat-leaf parsley, for garnish *(optional)*
+
+#### B. Cooking Instructions
+
+**1. Trim the tops off the radishes and chop them into small pieces.**
+*Small and reasonably even* is the thing to aim for — they're standing in for diced home fries, so cut them to the size you'd cut a potato for the same dish. Uniform pieces matter more here than in most recipes, because everything goes in the pan at once and finishes together.
+
+**2. Cook the bacon in a large skillet over medium heat until crispy, about 5 minutes. Remove it, leaving the drippings in the pan.**
+Crumble the bacon and set it aside. **Leave every bit of the fat in the skillet** — that rendered bacon fat is the cooking medium for the entire rest of the recipe, and it's where the dish gets its flavor. There's no other fat in the ingredient list, which is deliberate.
+
+**3. Radishes into the skillet. 10 minutes over medium-high, then 10 more over medium with the bacon added back.**
+Put the radishes in the drippings and cook over **medium-high for 10 minutes**. Then **reduce the heat to medium**, add the crumbled bacon back in, and cook **about 10 more minutes, stirring every couple of minutes**, until the radishes are **slightly crispy and caramelized around the edges**.
+
+*The two-stage heat is the whole method:* the hot first stretch drives off moisture and starts the browning, and the gentler second stretch finishes the insides and builds those caramelized edges without scorching them. **Stirring every couple of minutes — not constantly, and not never** — is what gives each piece time to sit and color while still turning enough that nothing burns.
+
+> **Why a radish tastes like a potato here, which is the part that surprises people.** *(Cookbook gloss — the source doesn't explain it.)* A raw radish is sharp and peppery; that bite comes from volatile mustard-family compounds, and **heat drives them off.** Twenty minutes in a hot pan leaves something mild, faintly sweet, and starchy-tasting — which is why the swap works at all. **Don't taste one raw and conclude the recipe is a bad idea.**
+
+**4. Season to taste with salt and pepper and serve immediately. Garnish with parsley, if desired.**
+**Season at the end, not the start** — the bacon has already put a good deal of salt into the pan, and you won't know how much until the dish is finished. *Serve immediately* is the source's own word, and it's right: the crisp edges soften as it sits.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Radishes — 1 × 16 oz. bag
+- 🛒 Bacon — 6 slices
+- 🛒 Salt and ground black pepper
+- 🛒 Fresh flat-leaf parsley — 1 small bunch *(optional, for garnish)*
+
+#### Nutrition *(per serving, as printed on the source page)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~400 | 27.6 g | 24 g | 15.6 g | 7.2 g |
+| **Per serving** *(serves 4)* | 100 | 6.9 g | 6 g | 3.9 g | 1.8 g |
+
+**What a serving is:** about **½ cup** — a side portion, **the scoop you'd take of hash browns**, which is the source's own comparison.
+
+**Net carbs: 2 g per serving** *(8 g for the whole dish)* — as printed on the page. Whole-dish figures are calculated from the source's per-serving numbers at its stated 4 servings. **This is the lowest net-carb recipe in §11.**
+
+#### D. Open Questions
+
+- **The source gives no skillet size beyond "large"** and no doneness cue other than *slightly crispy and caramelized around the edges* — both transcribed as printed. A 16 oz bag of chopped radishes wants a pan big enough to hold them in close to a single layer; crowded, they steam instead of browning.
+- **The 6 slices of bacon are not specified by thickness**, which moves both the rendered fat and the nutrition figures. The printed per-serving numbers are the publisher's and are used as-is per [CLAUDE.md §3b](CLAUDE.md).
 
 [↑ Table of Contents](#table-of-contents)
 

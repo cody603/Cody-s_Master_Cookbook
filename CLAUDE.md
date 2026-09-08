@@ -12,12 +12,12 @@ The cooking style is hands-on and conversational: Cody talks through methods in 
 
 Every time a recipe is added or changed:
 
-1. **Read the entire `codys-cookbook.md` first.** Never edit from memory or a partial view.
-2. **Edit the file in place.** No copies, versioned filenames, or side files — git history is the backup system.
+1. **Read the parts of `codys-cookbook.md` you are about to touch, in full, before touching them.** Never edit from memory. The file has passed 4 MB and can no longer be read end to end in a single pass, so the working method is: grep for the section heading, read that entry with offset/limit, and read every entry that cross-references it. Never edit an entry you have not just read.
+2. **Edit the file in place.** No copies and no versioned filenames — git history is the backup system. **One exception, added 2026-09-08 at Cody's direction: the changelog lives in its own file, `CHANGELOG.md`.** It grew past the point where it could ride along in the master file. Nothing else may be split out without Cody saying so.
 3. **Commit directly to `main`.** No branches, no pull requests — just commit straight to main with a clear message. (Git keeps every version, so any bad edit can be rolled back.)
 4. **Use scripting for bulk edits** rather than manual string replacement when many sections change at once.
 
-The cookbook keeps a **table of contents** and a **changelog** at the top, plus one section per recipe. Every change gets a changelog line with the date and what changed.
+The cookbook keeps a **table of contents** at the top plus one section per recipe. **The changelog is `CHANGELOG.md`, newest entry first.** Every change gets a changelog line there with the date and what changed — that requirement has not relaxed, only moved.
 
 Default format is markdown. Do **not** produce a Word document or any other format unless Cody explicitly asks.
 
@@ -56,6 +56,14 @@ Split by store, using these prefixes:
 Every written-up recipe carries a one-line badge above its Ingredients, and a matching row in the **Difficulty & Time Index** near the top of the cookbook. Placeholders don't get one — there's no method to time yet.
 
 **Difficulty is technique risk, not effort.** 🟢 Easy · 🟡 Medium · 🔴 Hard. Hard is reserved for things that can genuinely fail on you — roux above all. An 8-hour crock pot is Easy, because none of those hours can go wrong. A 15-minute roux is Hard.
+
+**Roux comes in three tiers, and only the darkest earns a 🔴** *(Cody, 2026-09-07: "use your judgment on the roux, because some is dark and some is light — I think a bisque is a light version, which is less hard")*:
+
+- **Dark roux** — chocolate, mahogany, "dark brown," "dark red-brown to black" → **🔴 Hard.** This is the one that goes from perfect to burnt in under a minute.
+- **Brown / medium roux** — peanut-butter colored, copper, "brown," "medium brown" → **🟡 Medium.** It can still scorch, but the window is wider and the target more forgiving.
+- **Blond / light / white roux** — pale, a couple of minutes, never colored; the base of a béchamel, a velouté, or a butter-thickened cream sauce → **earns nothing on its own.** Rate the recipe on whatever else it does.
+
+**The color target sets the tier, not the quantity.** A two-tablespoon roux taken to dark is 🔴; a cup of blond roux is not. And a roux never *lowers* a rating that another technique has already earned — emulsions, caramel, and meringue folds keep their own difficulty regardless.
 
 **Long is not hard. A big recipe is not automatically a 🔴.** The test is always the same: *can a step go from perfect to ruined?* If nothing can, it's Easy no matter how many hours or components it involves. **[§1 Cody's Pho](codys-cookbook.md#1-codys-pho) is the reference case** — two days, two hours of prep, more moving parts than anything else in the book, and rated 🟢 Easy, because not one of its steps can fail on you. In Cody's words, *it's a long distance run.* Length, component count, and lead time belong in the **time** fields; they must never inflate the difficulty rating.
 

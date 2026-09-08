@@ -14985,8 +14985,8 @@ Whole eggs, cracked straight over — not just whites. Enough to coat everything
 **3. Let it sit. 7 to 15 minutes, scaled to how fishy it smelled.**
 Unattended. Don't run past 15 — see the warning above.
 
-**4. Rinse it all off thoroughly under cold running water.**
-Wash the egg away completely. **The rinse is not optional — it's the step that actually removes the off-flavor**, since whatever the egg pulled out goes down the drain with it.
+**4. Rinse it all off thoroughly under cold running water. Cold only.**
+Wash the egg away completely. **The rinse is not optional — it's the step that actually removes the off-flavor**, since whatever the egg pulled out goes down the drain with it. ✅ **2026-09-08 per Cody: cold water rinse only — confirmed.** Warm water works against you twice over: it starts setting the egg onto the seafood, so instead of washing away you're cooking a thin film of it on, and it warms raw shellfish that should be staying cold the entire time it's out of the fridge. Run it cold, keep rinsing until the water runs clear and nothing feels slick, and get it back on ice or into the pot.
 
 **5. The one exception: if you're frying, you can skip the rinse.**
 When the seafood is headed into a batter or a dredge that uses egg anyway, the coat is already doing the next job — leave it on and go straight into the flour or breading. Per [§T3](#t3-butter-oil-pan-frying--frying), bread it and fry it immediately rather than letting it sit.
@@ -15029,7 +15029,7 @@ When the seafood is headed into a batter or a dredge that uses egg anyway, the c
 
 - ✅ 2026-09-07 per Cody: **about 5 eggs per 10 lb of shrimp** — *"usually for like 10 pounds of shrimp you can get away with five eggs or so."* Scale proportionally (roughly 1 egg per 2 lb); it's still by feel, so add one if the seafood isn't fully coated.
 - **Does the timing shift by protein?** 7–15 minutes is established for shrimp. Whether a thick salmon fillet — far less surface area per pound — wants the same window, or longer, isn't settled.
-- **Cold water rinse only?** Assumed, since warm water would start setting the egg onto the seafood. Worth confirming.
+- ✅ **2026-09-08 per Cody — cold water rinse only. Yes.** Confirmed, no longer an assumption; written into step 4.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -37647,7 +37647,9 @@ Be sure to have a bottle of fresh filé on hand so each person can add their own
 
 ### 8.30 Turtle Soup I
 
-Transcribed from a printed page — ***Talk About Good!***, credited to **Dr. J. J. Burdin**. *"Use only fresh water turtle,"* per the source. Thickened with mashed hard-boiled egg yolks rather than a roux.
+Transcribed from a printed page — ***Talk About Good!***. *"Use only fresh water turtle,"* per the source. Thickened with mashed hard-boiled egg yolks rather than a roux.
+
+> 📝 **Attribution — two names, both recorded, and the relationship between them is not settled.** ✅ **2026-09-08 per Cody: the author is *Martha Paggi***, the name printed at the top of the photographed page. **The recipe as printed is also signed *Dr. J. J. Burdin*** at the end, which is why this entry previously credited Burdin and treated "Martha Paggi" as a running header carried over from the page before. **Both names are on the page and both are recorded here.** How they relate — whether one contributed and the other collected it, whether the signature belongs to a neighboring recipe, or something else entirely — **Cody didn't say, and this entry will not guess.** *(Martha Paggi is a real contributor elsewhere in the same book — she's one of the three names on [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) — so she is not simply a stray header.)*
 
 **Yield:** not stated; estimated to serve 8, flagged below.
 
@@ -37726,7 +37728,8 @@ Shortly before serving, add the chopped egg whites, the parsley, and the remaini
 #### D. Open Questions
 
 - **No serving count given** — 8 is Claude's estimate.
-- **"Martha Paggi" appears at the top of the photographed page, above the recipe title** — read as a running header carried over from the previous page rather than this recipe's author, since the recipe itself is clearly signed **Dr. J. J. Burdin** at the end. Attributed to Burdin here; flagged in case that reading is wrong.
+- ✅ **2026-09-08 per Cody — the author is Martha Paggi.** The earlier reading, that "Martha Paggi" was a running header carried over from the previous page and that Dr. J. J. Burdin was the author, is corrected. **Both names stay on the record** — Paggi as the author per Cody, Burdin as the signature that appears on the printed recipe. See the attribution note at the top of the entry.
+- **Still open — how Paggi and Burdin relate.** The recipe carries both names and Cody named only the author. Nothing here explains the Burdin signature, and no explanation is invented; if he ever says, record it.
 
 [↑ Table of Contents](#table-of-contents)
 

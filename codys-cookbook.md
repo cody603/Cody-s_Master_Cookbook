@@ -35694,7 +35694,7 @@ Bring to a boil, then reduce the heat and simmer until the flavors come together
 Purée the soup in batches in a food processor, then return it to the saucepot. Stir in the molasses, kosher salt, and white pepper. Simmer 10 minutes more, or until heated through.
 
 **6. Serve with cornbread or hush puppies.**
-The source recipe points at its own Skillet Cornbread (page 48), which isn't part of this cookbook — plain cornbread or hush puppies stand in for it, or **[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** if you want one that's already written up here.
+The source recipe points at its own Skillet Cornbread (page 48), which isn't part of this cookbook — plain cornbread or hush puppies stand in for it, or **[§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies)** or **[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)**, both of which are already written up here.
 
 #### C. Grocery Shopping List
 
@@ -35722,7 +35722,7 @@ The source recipe points at its own Skillet Cornbread (page 48), which isn't par
 
 #### D. Open Questions
 
-- **Skillet Cornbread (page 48)** isn't in this cookbook — worth adding if that page ever gets photographed. *(**[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** is now available as a substitute, but it's a different recipe from a different book — not the one this soup's source intended.)*
+- **Skillet Cornbread (page 48)** isn't in this cookbook. 🚫 2026-09-08 — Cody: not pursuing; **[§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies)** is the cornbread this cookbook serves with this soup, with **[§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread)** as the low-carb option. Both are different recipes from different books — not the one this soup's source intended — but the soup is a finished recipe and the cornbread alongside it is a choice, not a gap.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -38180,7 +38180,7 @@ If you have an immersion blender (a handheld blender you lower directly into the
 **6. Taste for balance, then serve — chilled with salsa, or hot with an acidic garnish.**
 Taste the soup for salt, sweetness, and acid balance. If it tastes very flatly sweet, a tiny bit of white wine vinegar or lime juice will balance it out. To serve, go one of two ways: either ladle the soup chilled into bowls and spoon salsa over it to garnish, or quickly bring the soup back to a boil and serve it hot with an acidic garnish. The source names two by name — its **Mexican-ish Herb Salsa** (source p. 363) or its **Indian Coconut-Cilantro Chutney** (source p. 368) — and this cookbook's own [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) works the same way: the point is a bright, acidic spoonful cutting the corn's sweetness, not any one particular salsa.
 
-> **The source's own closing line, for the record:** *"Turn the page for some soup-and-garnish combinations to inspire your soup-making."* That soup-and-garnish page (source p. 278) is **not among the photographed pages**, so its pairings aren't transcribed here — named rather than invented, per this cookbook's standing practice. *(Both the named garnishes above and this pointer were on the page but missing from the entry until the 2026-09-06 photo re-verification.)*
+> **The source's own closing line, for the record:** *"Turn the page for some soup-and-garnish combinations to inspire your soup-making."* That soup-and-garnish page (source p. 278) is not among the photographed pages. 🚫 2026-09-08 — Cody: not pursuing; its pairings stay untranscribed rather than invented. **Nothing is lost from the soup itself** — the two garnishes this recipe actually names are both written up in this cookbook (see Open Questions), and [§T84 Salsa Math](#t84-salsa-math--the-herb-salsa-formula) is the general formula for building your own. *(Both the named garnishes above and this pointer were on the page but missing from the entry until the 2026-09-06 photo re-verification.)*
 
 > **Variation — any vegetable soup.** Follow this same method and formula — about 2½ pounds of vegetables or cooked legumes, 2 onions, and enough stock or water to cover — to turn practically any other vegetable into a velvety soup. The cob stock itself is unique to corn; don't try to replicate it for other vegetables (carrot-peel stock, for instance, won't add much).
 
@@ -38208,7 +38208,8 @@ Taste the soup for salt, sweetness, and acid balance. If it tastes very flatly s
 
 #### D. Open Questions
 
-- **The source's two named acidic garnishes aren't documented in this cookbook** — **Mexican-ish Herb Salsa** (source p. 363) and **Indian Coconut-Cilantro Chutney** (source p. 368) — nor is the **soup-and-garnish combinations page** (source p. 278) the recipe points to. None of the three was among the photographed pages, so all three are named rather than invented; [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) stands in for now. Verified against the photograph 2026-09-06.
+- ✅ **Both of the source's named acidic garnishes are in this cookbook after all — corrected 2026-09-08.** This bullet had said neither was documented; both are. **Mexican-ish Herb Salsa** (source p. 363) is **[§4.148](#4148-mexican-ish-herb-salsa)** and **Indian Coconut-Cilantro Chutney** (source p. 368) is **[§4.153](#4153-indian-coconut-cilantro-chutney)** — both transcribed from photographed pages and independently re-verified 2026-09-07. Use either one straight off its own entry; [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) remains a third option.
+- **The soup-and-garnish combinations page (source p. 278) is the only piece still untranscribed.** 🚫 2026-09-08 — Cody: not pursuing; it is a page of suggested pairings, not a recipe, and the two garnishes it would have pointed at are already here. Nothing about this soup depends on it.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -39304,7 +39305,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p.
 
 **🔖 Want to try** — *Cody: "Haven't tried yet."*
 
-> ⚠️ **Two things don't add up cleanly in the source, and neither is silently resolved here — see Open Questions.** The ingredient list includes **1 egg**, but the printed instructions never say where it goes in. And "1 tablespoon cream over the top of each" across 8 ramekins needs ½ cup, but the list gives ⅓ cup. Both are transcribed exactly as printed rather than corrected by guesswork.
+> ℹ️ **Two things don't add up cleanly on the source page itself — recorded, not resolved, and not a reason to hesitate.** The ingredient list includes **1 egg**, but the printed instructions never say where it goes in. And "1 tablespoon cream over the top of each" across 8 ramekins needs ½ cup, while the list gives ⅓ cup. Both are transcribed exactly as printed rather than corrected by guesswork. **The recipe is fully cookable as written** — see Open Questions for how to handle each.
 
 #### A. Ingredients
 
@@ -39380,9 +39381,9 @@ Serve immediately.
 
 #### D. Open Questions
 
-- **The egg is never used.** It's in the ingredient list but the printed instructions don't call for adding it anywhere. Possibilities: whisked into the mayonnaise before it's used, added to the crab mixture before baking (a binder, common in crab cake-style dishes), or a genuine card/print error. Transcribed as printed rather than guessed into a step.
-- **Cream quantity is short for the method.** "1 Tbsp per ramekin" across 8 ramekins needs ½ cup; the list gives ⅓ cup (about 5 Tbsp). Either the per-ramekin amount is closer to 2 tsp, or the total should be larger — worth confirming against the actual page.
-- ⚠️ **The page citation on this entry doesn't match what's actually on those pages — flagged 2026-09-08, not guessed at.** This entry is credited to *Appetizers*, **pp. 286–287**. Cody's 2026-09-08 photographs include **p. 286, and p. 286 is the Remoulade Sauce** ([§4.23](#423-remoulade-sauce)) — its full ingredient list and method fill the page, with no Crabmeat Avery on it. So the "286" half of this citation is wrong. The likeliest reading is that Crabmeat Avery begins on **p. 287** and runs onto p. 288, since [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) occupies p. 285 and its sauce p. 286 — but **neither p. 287 nor p. 288 has ever been photographed**, so the correct range is not being written in on inference. The citation stands as originally recorded until a photo of p. 287 settles it. *(This does not put the recipe itself in doubt — the ingredients and steps came from the original photograph of the recipe; it's the page numbers attached to them that don't line up.)*
+- ℹ️ **Source oddity, informational — the egg is never used.** It's in the printed ingredient list but no step calls for it. The page contradicts itself, and 🚫 2026-09-08 — Cody is not pursuing a photo of the page to settle it, so this stays recorded rather than answered. **In the kitchen:** leave the egg out and the dish works exactly as the steps describe; if you want the binder, beat it into the crab mixture before it goes into the ramekins, the way a crab cake would use it. Either way this is a choice, not a defect in the recipe.
+- ℹ️ **Source oddity, informational — the cream quantity is short for the method.** "1 Tbsp per ramekin" across 8 ramekins needs ½ cup; the printed list gives ⅓ cup (about 5 Tbsp). 🚫 2026-09-08 — Cody: not pursuing a photo to settle which number is the typo. **In the kitchen:** buy ½ cup of heavy cream and pour a tablespoon over each ramekin as the step says — that is the instruction the method actually depends on, and an extra 2½ Tbsp of cream is not a shopping problem. The ⅓ cup stays in the ingredient list because it is what the page prints.
+- ℹ️ **The page citation on this entry doesn't match what's on those pages — recorded 2026-09-08, and closed the same day.** This entry is credited to *Appetizers*, **pp. 286–287**. Cody's 2026-09-08 photographs include **p. 286, and p. 286 is the Remoulade Sauce** ([§4.23](#423-remoulade-sauce)) — its full ingredient list and method fill the page, with no Crabmeat Avery on it, so the "286" half of the citation is wrong. The likeliest reading is that Crabmeat Avery begins on **p. 287** and runs onto p. 288, since [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) occupies p. 285 and its sauce p. 286. 🚫 2026-09-08 — Cody: not pursuing a photo of pp. 287–288; **the citation stays as originally recorded, and is to be read as approximate.** *(This does not put the recipe itself in doubt — the ingredients and steps came from the original photograph of the recipe; only the page numbers attached to them don't line up. The two source oddities above stay open as oddities for the same reason: the page that would settle them isn't coming.)*
 - ✅ **Homemade Mayonnaise (page 268) is now in this cookbook — closed 2026-09-08.** It is **[§4.187](#4187-homemade-mayonnaise)**, transcribed and verified against Cody's photograph of p. 268. This entry's ingredient line and grocery line now point at it. Good store-bought mayonnaise remains a fine substitute; it is no longer a *gap*, just a choice.
 
 [↑ Table of Contents](#table-of-contents)
@@ -45458,7 +45459,7 @@ Pour the batter into the hot, greased skillet and level it out roughly. Return t
 
 - **🚫 Dropped at Cody's request, 2026-09-06 — no longer tracked as a gap.** A **"PANKO PERFECT"** callout box sits adjacent to this recipe, its title at the bottom edge of book p. 374 with the body text past the frame of every photograph that exists of that page (re-checked 2026-09-06 against Cody's new p. 372–373 shot and the original PDF — **still cut off, confirmed rather than assumed**). **Cody has since said he doesn't want it**, so it's recorded here for the record rather than carried forward as something to chase.
 - **The source's own honey butter and hot honey recipes** are linked rather than printed (AmazingRibs.com/mm) and aren't in this cookbook — named, not invented.
-- **The browned-butter option in Step 2** points to the source's own book p. 189, which isn't among the photographed pages. Browning butter is covered here at [§4.86 Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) and [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd).
+- **The browned-butter option in Step 2** points to the source's own book p. 189. 🚫 2026-09-08 — Cody: not pursuing; the page reference stays a pointer into *The Meathead Method* and this cookbook won't carry it. **Nothing is missing** — browning butter is already written up here at [§4.86 Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce), with the science at [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd). Use either one for the option.
 
 [↑ Table of Contents](#table-of-contents)
 

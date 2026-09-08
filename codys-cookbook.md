@@ -1176,7 +1176,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
 | [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) | 🟡 | 15 min | 15 min | — | 30 min *(+ 30 min–2 hr marinate)* |
 | [§7.81 Scallops with Quick Pickled Vegetables and Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) | 🟢 | 15 min | 15 min | **30 min** *(sous vide, unattended)* | 1 hr |
-| [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 20 min | — | 30 min |
 | [§14.2 Sugared Berries with Crème Anglaise](#142-sugared-berries-with-crème-anglaise) | 🔴 | 10 min | 20 min | — | 45 min *(includes cooling over ice)* |
 | [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 | 🟢 | 20 min | 10 min | — | 2½ hr *(2 hr chill)* |
 | [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) | 🟡 | 30 min | — | **36–48 hr** *(lime juice cures it — no heat)* | 1½–2 days |
@@ -1205,6 +1204,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 20 min | 15 min *(gravy)* | **2–5 hr** *(smoker at 325°F, by weight, to 160°F breast)* | ~1 day *(includes the 12–24 hr dry brine; add 1 week to thaw a frozen bird)* |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
+| [§4.12 Fish Brown Sauce](#412-fish-brown-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
 | [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) | 🟢 | 20 min | 15 min | — | 1 hr *(30 min chill)* |
 | [§7.16 Red Beans & Rice](#716-red-beans--rice) | 🟡 | 20 min | 15 min | **3 hr** *(simmer)* | 3 hr 35 min *(+ overnight soak)* |
 | [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) | 🟡 | 15 min | 20 min | — | 35 min |
@@ -2614,7 +2614,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 252–253, *S
 
 **Yield:** 6 servings, about 1½ cups
 
-**🔴 Hard** · **Prep ~10 min** · **Cook ~20 min** · **Start to finish ~30 min**
+**🔴 Hard** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min**
 
 **Techniques used:** [T1 How to Make a Roux](#t1-how-to-make-a-roux) · [T5 Seasoning-Mix System](#t5-seasonings--peppers)
 
@@ -2648,17 +2648,20 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 252–253, *S
 **1. Mix the seasoning and set it aside.**
 Per [§T5](#t5-seasonings--peppers), one bowl instead of seven jars mid-cook.
 
-**2. Make the roux. About 2 minutes.**
-Heat the oil in a heavy 1-quart saucepan over high heat until it starts to smoke. Whisk in **2 Tbsp** of the flour, whisking constantly and scraping the pan bottom, until dark red-brown to black. Full technique and burn-risk detail: [§T1](#t1-how-to-make-a-roux).
+**2. Make the roux. Oil to smoking 1–2 minutes, then about 2 minutes more.**
+Heat the oil in a heavy 1-quart saucepan over high heat just until the oil starts to smoke, about 1 to 2 minutes. With a metal whisk, mix in **2 Tbsp** of the flour — only two of the three; the third tablespoon is the finish and is held back. Whisk constantly and scrape the pan bottom well until the roux is dark red-brown to black, about 2 minutes, being careful not to let it scorch or splash on your skin. If it's browning faster than you can control, lift the pan off the heat for a moment and keep stirring — that's the save, and it costs you nothing. Full technique and burn-risk detail: [§T1](#t1-how-to-make-a-roux).
 
-**3. Stop the roux with the onions, then the seasoning mix and tomato sauce.**
-Immediately whisk in the onions and cook about 1 minute. Stir in the tomato sauce and the seasoning mix; cook 2–3 minutes, stirring constantly.
+**3. Stop the roux with the onions. Low heat, about 1 minute.**
+Immediately whisk in the onions, **reduce the heat to low**, and keep stirring and cooking about 1 minute. The cold onions are what arrest the roux — get them in the second the color is right, and drop the heat with them.
 
-**4. Add the stock and Worcestershire. Boil, then simmer 6–8 minutes.**
-Bring to a boil, then reduce to a simmer, stirring often, until the sauce thickens and darkens.
+**4. Tomato sauce 1 minute, then the seasoning mix and Worcestershire. 2 to 3 minutes.**
+Add the tomato sauce and stir and cook 1 minute. Then stir in the seasoning mix and the Worcestershire and cook 2 to 3 minutes, stirring constantly. The mixture should now be **thick and dark red-brown** — that's the checkpoint before any liquid goes in.
 
-**5. Whisk in the butter-flour finish and the burgundy.**
-In a small bowl, blend the softened butter with the remaining **1 Tbsp flour**. Whisk it into the sauce off the boil, then return to a simmer briefly. Stir in the remaining **1 Tbsp burgundy**, remove from heat, and discard the bay leaf. Serve immediately.
+**5. Add the stock. Boil, then simmer 6 to 8 minutes.**
+Add the hot stock, turn the heat to high, and bring to a boil, stirring often. Reduce the heat to hold a simmer and cook about 6 to 8 minutes, stirring often. **Stir in 1 Tbsp of the burgundy — half of it — and remove from heat.**
+
+**6. Cream the butter with the last flour, then simmer 10 minutes.**
+In a small bowl mix the softened butter and the **remaining 1 Tbsp flour** until creamy. Return the sauce to **low** heat and add the butter mixture gradually, whisking until well blended each time. Return the sauce to a simmer and **simmer 10 minutes**, stirring often — this is a real simmer, not a quick pass through the heat; it's what cooks the raw flour out of the finish. Add the **remaining 1 Tbsp burgundy**, remove from heat, and discard the bay leaf. Serve immediately.
 
 #### C. Grocery Shopping List
 
@@ -2681,10 +2684,11 @@ In a small bowl, blend the softened butter with the remaining **1 Tbsp flour**. 
 
 **What a serving is:** about ¼ cup, spooned over one piece of fish or a portion of oysters.
 
+✅ 2026-09-08 closed from Cody's photographs of *Louisiana Kitchen* pp. 252 and 253: **both sides of the page break are now in hand, and the step order is the page's own, not a reconstruction.** Four things the old reconstruction had folded together or lost are now separated out: the onions go in with the heat **reduced to low**; the **tomato sauce cooks 1 minute on its own** before the seasoning mix; the **Worcestershire goes in with the seasoning mix**, not with the stock; and **the burgundy is split** — 1 Tbsp stirred in off the heat at the end of the simmer, the other 1 Tbsp at the very end, which is what the ingredient list's *in all* was pointing at all along. The butter-and-flour finish is no longer "a simmer briefly" but the page's **10-minute simmer**, added gradually over low heat and whisked smooth each time. Method is now six steps instead of five, and the cook time rises to ~25 min to match. Everything else on the two pages checks out as written: the *Makes 6 servings or about 1½ cups*, all seven seasoning-mix lines, and all nine sauce lines including **3 Tbsp flour in all** and **2 Tbsp burgundy in all**. **The 🔴 Hard rating stands** — this is a dark red-brown-to-black roux made in smoking oil, the top of the [§T1](#t1-how-to-make-a-roux) risk tier, and nothing in the corrected order softens it.
+
 #### D. Open Questions
 
 - ~~Basic Seafood Stock (page 32) — the same recurring gap.~~ **Settled 2026-08-09 — now written up at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood)**, the seafood variant.
-- The roux-and-onion sequence in step 3 was tight across a page break in the photo — reconstructed to the standard Prudhomme pattern (roux, stop with vegetables, then seasoning); worth a check against the physical page.
 
 [↑ Table of Contents](#table-of-contents)
 

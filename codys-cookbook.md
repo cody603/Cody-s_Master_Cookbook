@@ -204,6 +204,7 @@ Click any recipe to jump straight to it.
   - [4.183 Ketjap Butter](#4183-ketjap-butter) ✅ *(Raichlen, The Barbecue! Bible p. 509, Indonesia — a two-ingredient sweet-soy butter baste for grilled fish; added 2026-09-07)*
   - [4.184 Mexican Fish Baste](#4184-mexican-fish-baste) ✅ *(Raichlen, The Barbecue! Bible p. 509, Mexico — sour orange or lime, salt, garlic; no cooking; added 2026-09-07)*
   - [4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce) ✅ *(The Meathead Method p. 175 — the sauce for [§7.130 Beef Back Ribs](#7130-beef-back-ribs) and a dip for [§7.139](#7139-extra-crispy-chicken-wings-without-frying); distinct from the earlier book's [§4.175](#4175-teriyaki-sauce); added 2026-09-07 from the reshoot)*
+  - [4.186 Thai Sweet Chile Sauce (Nam Jim Kai)](#4186-thai-sweet-chile-sauce-nam-jim-kai) ✅ *(The Meathead Method pp. 200–202 — the sweet-hot Thai dipping sauce; the fourth of the five sauces [§7.139](#7139-extra-crispy-chicken-wings-without-frying) names; completed 2026-09-07 from Cody's photographs of pp. 201–202)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -1194,6 +1195,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 20 min | — | 45 min *(includes butter soak-in time)* |
 | [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
 | [§5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) *(Meathead)* | 🟢 | 20 min | 10 min | — | 30 min |
+| [§4.186 Thai Sweet Chile Sauce (Nam Jim Kai)](#4186-thai-sweet-chile-sauce-nam-jim-kai) *(The Meathead Method)* | 🟢 | 20 min | 10 min *(bring to a simmer, then 5 min)* | — | 30 min *(as printed; best after a day in the fridge)* |
 | [§7.123 Kufte Kebabs](#7123-kufte-kebabs) | 🟢 | 25 min | 8 min | — | 35 min |
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
 | [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 20 min | 15 min *(gravy)* | **2–5 hr** *(smoker at 325°F, by weight, to 160°F breast)* | ~1 day *(includes the 12–24 hr dry brine; add 1 week to thaw a frozen bird)* |
@@ -13305,6 +13307,91 @@ Remove from the heat and let it cool. **Strain out the solids** and store in the
 **What a serving is:** 2 tablespoons brushed over a serving of ribs or wings, or spooned alongside for dipping — it's a glaze, not a gravy. Roughly 1,400 mg of sodium per serving from the soy sauce, which is the thing to know.
 
 ✅ 2026-09-07 transcribed and verified against reshoot of p. 175 — the page prints the whole recipe (headnote, MAKES/TAKES, eight ingredients, three steps); nothing runs onto another page.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.186 Thai Sweet Chile Sauce (Nam Jim Kai)
+
+Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Other Fun Sauces and Coatings" chapter (book pp. 200–202). **Completed 2026-09-07.** The p. 200 headnote has been in this cookbook since the earlier reshoot, carried in [§12](#12-recipes-to-document) as a partial because the recipe itself was never photographed; Cody's photographs of **pp. 201–202** supply the MAKES/TAKES line, the full ingredient list, all five steps, and the three sidebars, so the row comes off the table.
+
+> **Per the source's own headnote (book p. 200):** this is the tangy-hot-sweet sauce Thai restaurants put on the table, which the author reverse-engineered and then found matched Leela Punyaratabandhu's version in *Simple Thai Food* (her p. 187). ***Nam jim kai*** means "dipping sauce for chicken," but use it anywhere you want sweet heat — on fried foods, on waffles with a sunny-side egg, sprinkled on slaw piled onto pulled pork. Thai restaurants use red bird's-eye chiles; this recipe substitutes **red jalapeños** (green ones work too).
+
+**Techniques used:** [§T105 Chiles, Chipotles in Adobo, and Paprika](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method) *(this recipe's own pepper sidebar rests on §T105's rule — the **ribs**, not the seeds, carry the heat)* · [§T108 Make Your Own Pepper Flakes, Powders, and Smoked Paprika](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method) *(why the store-bought flakes in Step 5 are mostly seeds)*
+
+**Named as a dipping sauce by [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying)** — one of the five sauces that page lists, and now the fourth of the five to be documented here.
+
+**MAKES about 2 cups · TAKES 30 minutes · SPECIAL TOOLS food processor or blender** *(as printed)*
+
+**🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** *(bring to a simmer, then 5 minutes)* · **Start to finish ~30 min** *(as printed — plus a day in the fridge before it tastes its best)*
+
+> **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, no step here can go from perfect to ruined. You stem and chop, you pulse, you simmer 5 minutes. The one thing that *can* misbehave is the sugar boiling over and scorching on the pot sides (Step 3) — but that's a mess to clean, not a lost sauce, and it's prevented by keeping the pot at a gentle simmer rather than a boil. Compare [§4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce), rated the same way for the same reason.
+
+#### A. Ingredients
+
+- 6 oz fresh red jalapeños (3 or 4)
+- 3 garlic cloves
+- ¾ cup sugar, plus more to taste
+- ½ cup unseasoned rice vinegar, plus more to taste
+- 2 tsp cornstarch
+- **1 cup water** — ⚠️ **the page does not print this in its ingredient list.** It appears only in Step 2 ("combine 1 cup water, the chiles, garlic, sugar, vinegar, and cornstarch"). It is listed here so nobody measures out the shopping list and comes up short at the blender. *(If you swap the vinegar — see the sidebar below — this goes up to about 1¼ cups.)*
+- **Optional:** red pepper flakes
+
+*Also have on hand:* disposable gloves for Step 1 — the page calls for them by name.
+
+#### B. Cooking Instructions
+
+**1. Prep. Gloves on.**
+Wearing gloves, remove the stems and seeds from the peppers. Chop the peppers into large chunks — they get pulsed in a moment, so there's no reason to be neat about it. Peel the garlic and chop it into quarters.
+
+**2. Blend. Pulse it a little — don't purée it.**
+In a food processor or blender, combine **1 cup water**, the chiles, garlic, sugar, vinegar, and cornstarch, and **pulse it a little.** Leave it a bit chunky so there are some pretty flecks floating around. This is the one place the recipe's looks are decided: run the machine until it's smooth and you get a pink slurry instead of a clear sauce with red and green bits suspended in it.
+
+**3. Simmer. 5 minutes, gently.**
+Pour the blend into a saucepan, bring it to a simmer, and cook for **5 minutes**, then remove from the heat. The simmering is doing food-safety work, not just cooking — it kills any bacteria riding in on the raw ingredients. **Don't let it bubble harder than a gentle simmer**, or the sugar will foam up, overflow the pot, and burn onto the pot's sides.
+
+**4. Age it a day.**
+Pour into a **very clean** jar. It is best after a day of aging. It will keep essentially forever in the fridge, though it may lose some of its kick over time and the natural pectins will thicken it. The cornstarch is what keeps the chile bits floating magically rather than settling in a layer at the bottom — even so, **shake before using.**
+
+**5. Taste — after the day, not before.**
+Once it has aged a day, taste it and adjust: red pepper flakes for more heat, more sugar for sweet, more vinegar for tang. Doing this on day one would have you correcting a sauce that hasn't finished becoming itself yet.
+
+> **About the peppers.** How hot the finished sauce lands depends on **how much of the chiles' ribs you leave in** — the pale membrane the seeds cling to, which is where the capsaicin actually lives (see [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method); the seeds themselves are along for the ride). This sauce is **not meant to be 3-alarm.** You can add more chiles if you want, or use **serranos or cayennes** or other hotter peppers. Just beware that within a single handful of peppers some will be hotter than others, and that heat also varies with where and when they were grown. The author made a batch with **habaneros** once — delicious, but hard for him to handle.
+
+> **About the vinegar.** If you don't want to buy unseasoned rice vinegar, **distilled white vinegar or apple cider vinegar** will do — but **increase the water by about 4 tablespoons**, since both are more acidic than rice vinegar.
+
+> **About the cornstarch.** It slightly thickens the sauce, and it also keeps it from separating.
+
+> **On heat, and how it fades.** Three separate things take the edge off: **simmering** mellows the chile heat; **a day in the fridge** loses a bit more of its bite; and **putting it on food** tempers it further still, especially fatty food. So judge the heat on the plate, not out of the blender. If after all that you want more, add red pepper flakes or dried ground chiles — but **most store-bought pepper flakes are loaded with seeds**, and the author strongly recommends removing them first, then giving the flakes a day to soften and do their stuff ([§T108](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method) is the make-your-own alternative).
+
+#### C. Grocery Shopping List
+
+**☯️ Hong Kong / Chinese market**
+
+- ☯️ Unseasoned rice vinegar — ½ cup, plus more to taste *(distilled white or cider vinegar substitutes; add ~4 Tbsp more water if you use them)*
+
+**🛒 General grocery**
+
+- 🛒 Fresh red jalapeños — 6 oz, about 3 or 4
+- 🛒 Garlic — 3 cloves
+- 🛒 Sugar — ¾ cup, plus more to taste
+- 🛒 Cornstarch — 2 tsp
+- 🛒 Red pepper flakes *(optional, for Step 5)*
+- 🛒 Disposable gloves *(Step 1 — the page calls for them)*
+
+#### Nutrition *(estimated)*
+
+*The page prints no nutrition numbers, so these are built from the ingredient list. Nearly all of it is the ¾ cup of sugar. Stems and seeds come out at Step 1 and are not counted; the water and vinegar carry essentially nothing.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups, as printed)* | ~665 | 0.5 g | 2 g | 168 g | 4.5 g |
+| **Per serving** *(2 Tbsp, of about 16)* | ~40 | 0 g | 0 g | 10.5 g | 0.3 g |
+
+**What a serving is:** 2 tablespoons — a small dipping bowl beside a plate of wings or fried food, or a spoonful drizzled over slaw or an egg. It is a condiment, and the whole 2-cup batch is meant to live in the fridge for months, not be eaten at one sitting.
+
+✅ 2026-09-07 transcribed and verified against Cody's photograph of pp. 201–202 — MAKES/TAKES/SPECIAL TOOLS, all five ingredient lines, the OPTIONAL line, Steps 1–5, and the About the Peppers / About the Vinegar / About the Cornstarch sidebars all read at native resolution and cropped for confirmation. **The 1 cup water genuinely is absent from the printed ingredient list** and appears only inside Step 2; that is the page's own omission, flagged in the Ingredients list above rather than silently normalized.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -33471,7 +33558,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 - 1 tsp baking powder
 - 1 tsp Morton Coarse Kosher Salt
 
-*Optional, for drizzling:* [Kansas City Red](#4178-kansas-city-red) *(§4.178 — the source's own sauce, book p. 180, **now documented in full** as of 2026-09-06)* · [Alabama White Sauce](#4172-alabama-white-sauce) *(§4.172)* · Teriyaki *(book p. 175, not yet in this cookbook)* · Tare *(book p. 203 — named, not transcribed; 🚫 not pursued per Cody, 2026-09-07)* · Thai Sweet Chile Sauce *(book p. 200, not yet in this cookbook)*
+*Optional, for drizzling:* [Kansas City Red](#4178-kansas-city-red) *(§4.178 — the source's own sauce, book p. 180, **now documented in full** as of 2026-09-06)* · [Alabama White Sauce](#4172-alabama-white-sauce) *(§4.172)* · Teriyaki *(book p. 175, not yet in this cookbook)* · Tare *(book p. 203 — named, not transcribed; 🚫 not pursued per Cody, 2026-09-07)* · [Thai Sweet Chile Sauce (Nam Jim Kai)](#4186-thai-sweet-chile-sauce-nam-jim-kai) *(§4.186 — the source's own sauce, book pp. 200–202, **now documented in full** as of 2026-09-07)*
 
 #### B. Cooking Instructions
 
@@ -33493,7 +33580,7 @@ Roast the wings, lid down, on the indirect side until the meat reaches 145°F in
 **6. Sear.**
 Move the wings to direct heat, lid open, and sear both sides until the internal temperature hits 160°F and the skin turns golden and crunchy. Serve right away — no resting or tenting *(cookbook gloss: either would just soften the crust you worked for)*. Drizzle with a sauce if you like.
 
-✅ 2026-09-07 second-pass QC against p. 270: verified — ingredients, all six steps, temperatures, and the five named sauces match the page exactly. MAKES/TAKES line added. None of the three un-transcribed sauce pages (Teriyaki p. 175, Tare p. 203, Thai Sweet Chile p. 200) is in the current uploads.
+✅ 2026-09-07 second-pass QC against p. 270: verified — ingredients, all six steps, temperatures, and the five named sauces match the page exactly. MAKES/TAKES line added. *(Update, same day: two of the three sauce pages that were missing at the time of this QC have since arrived — Teriyaki at [§4.185](#4185-teriyaki-brinerade-and-sauce) from the p. 175 reshoot, and Thai Sweet Chile at [§4.186](#4186-thai-sweet-chile-sauce-nam-jim-kai) from Cody's photographs of pp. 201–202. Only Tare (p. 203) remains untranscribed, and it is 🚫 not pursued.)*
 
 #### C. Grocery Shopping List
 
@@ -33502,7 +33589,7 @@ Move the wings to direct heat, lid open, and sear both sides until the internal 
 - 🛒 Whole chicken wings — 1¼ lb
 - 🛒 Baking powder
 - 🛒 Morton Coarse Kosher Salt
-- 🛒 A finishing sauce of choice (optional) — [Alabama White Sauce](#4172-alabama-white-sauce) ingredients if not already made; the other sauces named above aren't yet in this cookbook
+- 🛒 A finishing sauce of choice (optional) — ingredients for [Alabama White Sauce](#4172-alabama-white-sauce), [Kansas City Red](#4178-kansas-city-red), [Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce), or [Thai Sweet Chile Sauce](#4186-thai-sweet-chile-sauce-nam-jim-kai), if not already made; only Tare (book p. 203) is still not in this cookbook
 
 #### Nutrition *(estimated)*
 
@@ -33515,7 +33602,7 @@ Move the wings to direct heat, lid open, and sear both sides until the internal 
 
 #### D. Open Questions
 
-- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). **Three of the five are now in this cookbook:** Alabama White Sauce at [§4.172](#4172-alabama-white-sauce); — **as of 2026-09-06, once Cody photographed book pp. 180 and 182** — Kansas City Red at [§4.178](#4178-kansas-city-red); and — **as of 2026-09-07, from the reshoot of p. 175** — Teriyaki Brinerade and Sauce at [§4.185](#4185-teriyaki-brinerade-and-sauce). **Thai Sweet Chile Sauce** has only its p. 200 headnote and needs **p. 201** — tracked in [§12](#12-recipes-to-document); noted rather than invented. 🚫 2026-09-07 — Cody: not pursuing **Tare Sauce** (p. 203 was half-photographed; p. 204 never was); it stays a named-but-not-transcribed sauce, and its §12 tracking row is removed.
+- **The source names five optional dipping sauces by name and page** — Kansas City Red (p. 180), Alabama White Sauce (p. 183), Teriyaki (p. 175), Tare (p. 203), and Thai Sweet Chile Sauce (p. 200). **Three of the five are now in this cookbook:** Alabama White Sauce at [§4.172](#4172-alabama-white-sauce); — **as of 2026-09-06, once Cody photographed book pp. 180 and 182** — Kansas City Red at [§4.178](#4178-kansas-city-red); and — **as of 2026-09-07, from the reshoot of p. 175** — Teriyaki Brinerade and Sauce at [§4.185](#4185-teriyaki-brinerade-and-sauce). **Four of the five are now in this cookbook:** also as of 2026-09-07, from Cody's photographs of pp. 201–202, **Thai Sweet Chile Sauce (Nam Jim Kai)** at [§4.186](#4186-thai-sweet-chile-sauce-nam-jim-kai) — the p. 200 headnote it had been carrying alone is now joined by the real ingredient list and steps, and its [§12](#12-recipes-to-document) tracking row is retired. 🚫 2026-09-07 — Cody: not pursuing **Tare Sauce** (p. 203 was half-photographed; p. 204 never was); it stays a named-but-not-transcribed sauce, and its §12 tracking row is removed.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -40954,7 +41041,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | **New Orleans blended crab & shrimp sauce** *(name unknown)* | **Cody has made this and loves it** — *"it is fantastic, it's a great sauce."* From **Chef Paul Prudhomme's *Louisiana Kitchen***. His description: crab and shrimp, *"I think even oysters in it,"* blended together in a blender. **Checked against what's already here and it is not a duplicate** — [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) is the closest match from the same book but leaves the shrimp and crabmeat **whole**, and nothing goes in a blender. [§4.21 Czarina Sauce](#421-czarina-sauce-with-shrimp-or-crawfish) is also not it. **Needs a photo of the page** to identify. | Not yet transcribed |
 | **The Ultimate Prime Rib Roast** | ***The Meathead Method***, **book p. 218, bottom, onward.** **Identified 2026-09-06; p. 218 re-confirmed by the 2026-09-07 reshoot.** The clean p. 218 shows exactly what the first photo did and nothing more: the title box and the opening of the headnote (*"This is what I serve for Christmas dinner. The method is perfect because prime rib takes time and dinner is over the river and through the woods… I shoot for 8 ounces cooked meat per person after trim and shrinkage, plus extra to send home. So, for…"*), cut off at the page's bottom edge. **No MAKES/TAKES line, no ingredient list, and no numbered steps have ever been photographed**; they run onto **book p. 219 and beyond**. **Distinct from [§7.114 Prime Rib](#7114-prime-rib)**, the *earlier* Meathead book's reverse-seared version, already documented here. | Identified — needs p. 219 onward |
 | **Griddled Ham-n-Shrimp Hash** | ***The Meathead Method***, **book pp. 254–256.** **Identified 2026-09-06; the pp. 254–255 spread captured flat and complete by the 2026-09-07 reshoot.** Read at native resolution, p. 255 now gives **the entire ingredient list** — 1 lb potatoes (Yukon Gold or russet); ¼ tsp baking soda; 1 jalapeño; 1 small red bell pepper or ½ medium; 6 oz Canadian bacon or ham; ¼ lb medium shrimp; 2 garlic cloves; 4 scallions; 2 Tbsp good olive oil, plus more as needed; ¼ tsp Morton Coarse Kosher Salt; ¼ tsp medium-grind black pepper; 3 Tbsp bacon grease, duck fat, or clarified butter; 1 Tbsp fresh thyme; 2 large eggs; optional hot sauce for serving — plus the title, the headnote, **MAKES 2 servings**, **TAKES about 45 minutes**, **SPECIAL TOOLS griddle and large spatula**, an *About the Canadian Bacon* note (it's cured pork loin, closer to ham than bacon, so ham is fine), and **Step 1 Parcook the Taters** (the Kenji method: 1-inch cubes, 1 quart water in a 2-quart pot, boil, add the baking soda, simmer about 10 minutes until tender but still firm, drain and rough them up in the colander). **Not added, on purpose:** Step 1 is the last thing on p. 255 — **every remaining step is on p. 256**, which has never been photographed, and a hash with only its potato step isn't a recipe. **One photo of book p. 256 closes this.** | Identified — ingredients complete; needs p. 256 for Steps 2 onward |
-| **Thai Sweet Chile Sauce (Nam Jim Kai)** | ***The Meathead Method***, **book pp. 200–201.** **Identified 2026-09-07 from the reshoot of p. 200.** Only the **headnote** is on p. 200: the tangy-hot-sweet Thai restaurant sauce the author reverse-engineered, then found matched Leela Punyaratabandhu's *Simple Thai Food* (p. 187); *nam jim kai* means "dipping sauce for chicken," but use it anywhere you want sweet heat — on fried foods, on waffles with a sunny-side egg, sprinkled on slaw piled onto pulled pork; restaurants use red Thai bird's-eye chiles, the book substitutes **red jalapeños** (green work too). **No MAKES/TAKES, no ingredient list, and no steps are on the photographed page** — they're on **p. 201**, never photographed. Named as a serving sauce by [§7.139](#7139-extra-crispy-chicken-wings-without-frying). *(The top of p. 200 is the tail of the Orange Tuscan-Style Board Sauce, which Cody dropped on 2026-09-06 — it stays dropped.)* **One photo of book p. 201 closes this.** | Identified — needs p. 201 |
+| [**Thai Sweet Chile Sauce (Nam Jim Kai)**](#4186-thai-sweet-chile-sauce-nam-jim-kai) | ***The Meathead Method***, **book pp. 200–202.** Identified 2026-09-07 from the reshoot of p. 200, which carried only the headnote. **Closed the same day:** Cody photographed **pp. 201–202**, which supply the MAKES/TAKES/SPECIAL TOOLS line, all five ingredients plus the OPTIONAL red pepper flakes, Steps 1–5, and the About the Peppers / Vinegar / Cornstarch sidebars. Written up in full at **[§4.186](#4186-thai-sweet-chile-sauce-nam-jim-kai)**. One quirk worth keeping on the record: **the page prints 1 cup of water only inside Step 2, never in its ingredient list** — the entry lists it and says so. *(The top of p. 200 is the tail of the Orange Tuscan-Style Board Sauce, which Cody dropped on 2026-09-06 — it stays dropped.)* | ✅ Complete — §4.186 |
 | **Close Proximity Smoked Fish** | ***The Meathead Method***, **book p. 308.** The dish the source names as the showcase for [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce). **Cody wants it (2026-09-07).** p. 308 has never been among the photographed pages — nothing transcribed yet. **One photo of book p. 308 (and p. 309 if the recipe runs on) closes this.** | Wanted — needs p. 308 photographed |
 | *(add here)* | | |
 

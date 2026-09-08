@@ -210,6 +210,7 @@ Click any recipe to jump straight to it.
   - [4.189 Sweet and Tangy Dipping Sauce](#4189-sweet-and-tangy-dipping-sauce) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen p. 284 — marmalade, Creole mustard and horseradish; the sauce [§9.32 Coconut Beer Shrimp](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) is served with; added 2026-09-08)*
   - [4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) ✅ *(Raichlen, The Barbecue! Bible p. 476 — the coconut-milk Thai saté sauce; **not** the same recipe as [§4.41 Asian Peanut Sauce](#441-asian-peanut-sauce), which shares most of its name; closes [§7.75](#775-lettuce-bundles-with-grilled-beef)'s open component; added 2026-09-08)*
   - [4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus) ✅ *(Raichlen, The Barbecue! Bible p. 476, facing column — tamarind and ketjap manis, **no coconut milk**; the third and most distinct of this cookbook's three peanut sauces; added 2026-09-08)*
+  - [4.192 Avocado Salsa](#4192-avocado-salsa) ✅ *(laylita.com, Layla Pujol — the salsa half of [§7.150](#7150-grilled-salmon-with-avocado-salsa), pulled out on its own because Cody puts it on grilled fish generally; added 2026-09-08)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -473,6 +474,7 @@ Click any recipe to jump straight to it.
 - [7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) ✅ *(The Meathead Method; Dorie Greenspan; completed 2026-09-06 from newly photographed pages)*
 - [7.148 Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) ✅ *(The Meathead Method pp. 308–310 — the showcase dish for [§4.174](#4174-poblano-basil-cream-sauce); added 2026-09-07 from Cody's photographs)*
 - [7.149 The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) ✅ *(The Meathead Method pp. 218–220 — butcher one primal into four meals, then smoke, sous vide, and sear; distinct from the earlier book's [§7.114](#7114-prime-rib); completed 2026-09-07 from Cody's photographs of pp. 219–220)*
+- [7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) ✅ *(laylita.com, Layla Pujol — **carries Cody's egg trick as Step 1**: skin the fillet first, because the fishiness in salmon is mostly on the skin side; added 2026-09-08)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -749,6 +751,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.107 Skinny Steaks](#7107-skinny-steaks) *(Meathead)* | 🟡 | 5 min | 5 min | — | 10 min *(+ 1–2 hr dry brine)* |
 | [§4.133 Beef Butter](#4133-beef-butter) | 🟢 | 10 min | — | — | 20 min *(+ refrigerate overnight before serving, or freeze)* |
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
+| [§4.192 Avocado Salsa](#4192-avocado-salsa) | 🟢 | 10 min | — | — | 10 min *(plus chilling until served)* |
 | [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 40 min–1 hr 10 min *(30–60 min chill)* |
 | [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
 | [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -1053,6 +1056,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.0 Loaded Frittata Formula](#100-the-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
+| [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) | 🟡 | 30 min *(incl. skinning and the egg soak)* | 15 min | — | ~1 hr 15 min *(incl. a 30 min seasoned rest)* |
 | [§9.26 Mushroom Florentine](#926-mushroom-florentine) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§14.12 Pecan Pie IV](#1412-pecan-pie-iv) | 🟢 | 10 min | 35 min | — | 45 min |
@@ -13730,6 +13734,73 @@ It keeps, **tightly covered in the refrigerator, for at least 3 days.**
 
 ---
 
+### 4.192 Avocado Salsa
+
+Transcribed from **laylita.com**, recipe by **Layla Pujol** — the salsa half of her *Grilled Salmon with Avocado Salsa*, pulled out here as its own entry because that is how Cody uses it. **Per Cody, 2026-09-08: *"it really goes well with fish, like grilled fish."*** It's a chunky, lime-and-olive-oil dressed avocado salsa rather than a mashed guacamole — the avocado is sliced, not smashed, so it stays in pieces on top of a fillet.
+
+**Yield:** about 1½ cups — enough to top 4 to 6 fillets
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min** *(plus chilling until you need it — lead time, not work)*
+
+> **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, there is no step here that can go from perfect to ruined. It's knife work and a bowl. The only thing that degrades is the avocado browning, and the lime juice in the recipe is what holds that off.
+
+> **Its home recipe is [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa)**, where it's spooned over the fillet at the table. It is written up separately here because it isn't married to that one dish — it belongs on any grilled fish, and this cookbook keeps cross-cutting sauces in §4 rather than burying them inside a single recipe.
+
+#### A. Ingredients
+
+*Exactly as the source prints them.*
+
+- 1 avocado, peeled, seeded, and sliced
+- 1 small red onion, sliced
+- 3 mild hot peppers, seeded and deveined, diced or sliced *(the source's own wording — it doesn't name a variety; see Open Questions)*
+- Juice from 2 limes
+- 3 Tbsp olive oil
+- 2 Tbsp finely chopped cilantro
+- Salt, to taste
+
+#### B. Cooking Instructions
+
+**1. Seed and devein the peppers.**
+*"Deveined"* means cutting out the pale ribs running down the inside of the pepper, not just shaking out the seeds. **That's where the heat actually lives** — the ribs hold the capsaicin, and the seeds are only hot because they sit against them (see [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)). Taking both out is what keeps this salsa mild enough to go over fish without covering it up.
+
+**2. Combine everything in a bowl and mix well.**
+Avocado, red onion, peppers, cilantro, lime juice, olive oil, and salt, all at once — the source doesn't layer or build this, it's one bowl. **Fold rather than stir hard.** The avocado is sliced on purpose and the dish wants visible pieces; work it too much and you've made guacamole instead.
+
+**3. Chill until you're ready to use it.**
+It can be made ahead and held in the fridge — the source builds it early, while the fish is marinating. **The lime juice is doing double duty here:** it's the acid of the dish, and it's also what keeps the cut avocado from browning while it waits. Press a piece of plastic wrap down onto the surface if it's going to sit more than an hour.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Avocado — 1, ripe
+- 🛒 Red onion — 1 small
+- 🛒 Mild fresh chiles — 3 *(variety not specified by the source; see Open Questions)*
+- 🛒 Limes — 2, for juice
+- 🛒 Olive oil — 3 Tbsp
+- 🛒 Cilantro — 1 small bunch, for 2 Tbsp chopped
+- 🛒 Salt
+
+#### Nutrition *(estimated)*
+
+*The source page prints no nutrition figures, so these are built from the ingredient list. Nearly all of the fat is the 3 Tbsp of olive oil plus the avocado.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 1½ cups)* | ~665 | 64 g | 4 g | 29 g | 12 g |
+| **Per serving** *(¼ cup, of about 6)* | ~110 | 11 g | 1 g | 5 g | 2 g |
+
+**What a serving is:** about **¼ cup — two good spoonfuls over one fillet**, which is how the parent recipe plates it. It is a topping, not a side salad.
+
+#### D. Open Questions
+
+- **The source says "3 mild hot peppers" and never names a variety.** That is its exact wording, and it's genuinely ambiguous — it fixes the heat level and the count but not the chile. Nothing has been substituted in here, because guessing a variety would change the salsa's character. **Any mild fresh chile, seeded and deveined, is consistent with what's printed;** pick one and note what you used.
+- **No serving count is printed for the salsa on its own** — the parent recipe serves 4 to 6, and the ¼-cup serving above is derived from the ~1½-cup yield rather than stated by the source.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -14963,7 +15034,7 @@ Using the same whisk, start whisking like your life depends on it. Then, just li
 <!-- TECHNIQUE-TAGS: shrimp, fish, seafood, egg-soak, deodorizing, fishy-smell, trimethylamine, salmon, catfish, crawfish -->
 **Tags:** `shrimp` · `fish` · `seafood` · `egg-soak` · `deodorizing` · `fishy-smell` · `salmon` · `catfish` · `crawfish`
 **Source:** Cody's own standing practice — not from any cookbook here
-**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · any fish or shellfish that smells fishy out of the bag
+**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) *(built into its Step 1, at Cody's request)* · any fish or shellfish that smells fishy out of the bag
 **Do NOT use for:** [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) — *see the warning below*
 
 **Cody's rule:** *"If it smells fishy when you open it — shrimp, crawfish, shellfish, catfish, salmon, any kind of fish — you crack raw eggs over the top of it, mix it together, let it sit in a colander in the sink, then rinse it all off. It really, really works."*
@@ -15008,6 +15079,19 @@ When the seafood is headed into a batter or a dredge that uses egg anyway, the c
 - **Before grilling shrimp** — *"absolutely"*
 - **Before frying** — the case where the egg stays on
 - **Any fish, not just shellfish** — salmon and catfish both named
+- **Before grilling salmon** — written into [§7.150](#7150-grilled-salmon-with-avocado-salsa) as its Step 1
+
+#### C2. Salmon Fillets — Skin the Fish First
+
+✅ **2026-09-08 per Cody, and it's the most useful thing anyone has added to this technique: *the fishiness in salmon comes mostly from the skin side.*** That single fact changes the order of operations for fillets, and it's why [§7.150](#7150-grilled-salmon-with-avocado-salsa) skins the fish before it does anything else.
+
+**Take the skin off first, then soak.** Removing the skin removes most of the problem outright; the egg then only has to pull what's left in the flesh. Doing it the other way round — soaking a skin-on fillet and then skinning it — means you spent the soak working against a surface you were about to throw away.
+
+**Working numbers for a fillet, per Cody:** *"maybe two eggs, rub it all over a salmon fillet."* Rub it over the whole surface by hand the same way as for shrimp, then **wipe it off or rinse it off** — his words. **The rinse is the surer version** and it's what section B specifies, cold water only; the wipe is the quick version when you're heading straight into a seasoning rub anyway.
+
+**Then season or marinate as the recipe calls for.** Per Cody: *"you can do lemon juice and after, whatever — whatever the recipe calls for would be fine. But I want that egg trick first."* The soak is a preparation step that happens before the recipe starts, not a substitute for any part of it.
+
+> **Still open: how long to soak a salmon fillet.** Cody gave the method and the egg count but not a time for fish specifically. The **7-to-15-minute window** in section B is what this cookbook uses, scaled to how strong the smell is — but that window came from his shrimp practice, and a skinned fillet is already most of the way there. Go short.
 
 #### D. Why It Works
 
@@ -35201,6 +35285,106 @@ The page's own last two lines, and its own last three words.
 - **No Red Meat Rub quantity is given** for a roast this size. Apply to taste.
 - **The rib cap's own cooking method is a page reference, not a recipe** — "cook it the same way I cook flank, hot and fast (page 231)." 🚫 2026-09-08 — Cody: not pursuing; **book p. 231 stays a pointer into *The Meathead Method* and this cookbook will not carry the flank method.** Hot and fast over direct heat to medium-rare, rested and sliced thin across the grain, is what the instruction means; [§7.106 Big Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) and [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) are the hot-and-fast beef methods written up here. **The prime rib itself is complete** — the rib cap is a byproduct of the butchery, not part of the roast.
 - **Warp 10 has no printed definition** — see [§T99](#t99-the-warp-heat-scale-the-meathead-method); Cody has 🚫 closed that hunt, so it stays an inference (here: the hottest the grill goes).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.150 Grilled Salmon with Avocado Salsa
+
+Transcribed from **laylita.com**, recipe by **Layla Pujol** — *"Recipe for grilled salmon with avocado salsa, the fish is seasoned with coriander, cumin, paprika, onion powder and pepper, and topped with avocado salsa."* **453 ratings on the source page.** The salsa is written up separately at [§4.192 Avocado Salsa](#4192-avocado-salsa), since Cody uses it on grilled fish generally rather than only here.
+
+**Techniques used:** [T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) · [T6 Seafood Notes](#t6-seafood-notes) · [T105 Chiles](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)
+
+**Yield:** the source's own — **4 to 6 people**, at a serving size of **5 to 8 oz of salmon**
+
+**🟡 Medium** · **Prep ~30 min** *(including skinning the fish and Cody's egg soak)* · **Cook ~15 min** · **Start to finish ~1 hr 15 min** *(including the source's 30-minute seasoned rest in the fridge)*
+
+> **The source's own printed times are Prep 30 min · Cook 15 min · Total 45 min.** The longer total above is the difference Cody's egg step makes — skinning the fillet, the egg rub, the soak, and the rinse all land ahead of the source's first instruction. Nothing in the source's own method was slowed down.
+
+> **Why 🟡 Medium and not 🟢.** Per [CLAUDE.md §3a](CLAUDE.md), the question is whether a step can go from perfect to ruined, and grilled salmon has one that can: **the fish goes from done to dry in a couple of minutes on a hot grate**, and a fillet that sticks tears apart when you turn it. That is the same call this cookbook already makes for [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) and [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) — grilled fish sits at Medium here. Everything else about the recipe is genuinely easy.
+
+> 🥚 **Cody's addition, 2026-09-08 — do the egg trick first, and skin the fish before you do.** This is not on the source page; it's his standing practice, and he asked for it specifically on this recipe. **New here, and the reason the skinning comes first: per Cody, the fishiness in salmon comes mostly from the skin side.** Take the skin off and you've removed most of the problem before the egg ever touches it; the soak then pulls what's left. Full method at [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) — this entry's Step 1 is the salmon-fillet version of it.
+
+#### A. Ingredients
+
+*The salmon and its seasoning are exactly as the source prints them. The eggs are Cody's addition.*
+
+- 2 lbs salmon, cut into 4 pieces
+- 1 Tbsp olive oil
+- 1 tsp salt
+- 1 tsp ground coriander
+- 1 tsp ground cumin
+- 1 tsp paprika powder
+- 1 tsp onion powder
+- 1 tsp black pepper
+- **2 eggs** — *Cody's addition, for the egg soak in Step 1; they're rinsed off and don't end up in the dish*
+- **[§4.192 Avocado Salsa](#4192-avocado-salsa)** — one batch, for topping
+
+**Suggested sides, per the source:** Latin-style rice, and *patacones* (thick fried green plantain chips). *Neither is transcribed here — they're separate recipes on the source site, not printed on this page.*
+
+#### B. Cooking Instructions
+
+**1. Skin the salmon, then do the egg soak. About 10 minutes of soak.**
+✅ **Cody's step, not the source's.** Take the skin off the fillets first — **the fishiness in salmon lives mostly on the skin side**, so removing it does most of the work before anything else happens. Then crack **about two eggs** over the fillets and **rub it all over** — whole eggs, not just whites, and by hand so every surface is coated. Let it sit, then **rinse it off under cold running water** — cold only, since warm water starts setting the egg onto the fish instead of washing it away. *(Cody: you can wipe it off rather than rinse; the rinse is the surer version, and it's what [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) specifies.)* **Fifteen minutes is the ceiling, not the target** — past that the soak starts pulling out the flavor of the fish along with the off note. Pat the fillets dry before seasoning.
+
+*Skip this step entirely if the salmon has no fish smell at all.* Per Cody's own rule at [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish): *"if it has zero fish smell then it's not gonna taste fishy"* — there's nothing to pull out, and soaking anyway only costs you flavor.
+
+**2. Mix the seasoning, rub the fish, and refrigerate at least 30 minutes.**
+Mix the salt, coriander, cumin, paprika, onion powder, and black pepper together. Rub the fillets with the olive oil and then the seasoning mix, and refrigerate for **at least 30 minutes**. *The rest is lead time, not work — it's what lets the salt and the ground spices settle into the surface instead of sitting on top of it.* **The salt here is 1 teaspoon, exactly as printed** — this is a seasoning rub on fish, not one of the standalone brines, so it isn't scaled up.
+
+**3. Pre-heat the grill.**
+Get it hot and get the grate clean before the fish goes anywhere near it. **A clean, hot, oiled grate is the whole defense against a fillet sticking and tearing** — which is the one way this recipe actually fails.
+
+**4. Make the avocado salsa and chill it.**
+One batch of [§4.192](#4192-avocado-salsa) — avocado, red onion, mild chiles, cilantro, lime juice, olive oil, and salt, mixed in a bowl and chilled until you need it. Do it while the fish is in the fridge; both are waiting on the same 30 minutes.
+
+**5. Grill the salmon to desired doneness. About 15 minutes.**
+The source says exactly that and no more — *"grill the salmon to desired doneness"* — so it prints no per-side time or internal temperature (see Open Questions). **Watch the fish, not the clock:** salmon is done when it flakes at a gentle press and the center has just turned from translucent to opaque, and it keeps cooking after it comes off. **Pull it a touch early rather than a touch late** — this is the step with the short window.
+
+**6. Serve topped with the avocado salsa.**
+Spoon the chilled salsa over the hot fillets at the table, with rice and patacones alongside if you're following the source's serving suggestion. *The temperature contrast is part of the dish — cold salsa on hot fish.*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Salmon — 2 lb, cut into 4 pieces *(ask for it skinned, or skin it yourself — see Step 1)*
+- 🛒 Eggs — 2 *(for the egg soak; they rinse off)*
+- 🛒 Olive oil — 1 Tbsp for the fish, plus 3 Tbsp for the salsa
+- 🛒 Salt
+- 🛒 Ground coriander — 1 tsp
+- 🛒 Ground cumin — 1 tsp
+- 🛒 Paprika — 1 tsp
+- 🛒 Onion powder — 1 tsp
+- 🛒 Black pepper — 1 tsp
+
+**For the salsa — full list at [§4.192](#4192-avocado-salsa)**
+
+- 🛒 Avocado — 1, ripe
+- 🛒 Red onion — 1 small
+- 🛒 Mild fresh chiles — 3
+- 🛒 Limes — 2
+- 🛒 Cilantro — 1 small bunch
+
+#### Nutrition *(estimated)*
+
+*The source page prints no nutrition figures, so these are built from the ingredient list. **The eggs are not counted** — they're rinsed off in Step 1 and don't reach the plate. Salmon is figured at the 2 lb raw called for, cooked, skin removed per Step 1. Includes one batch of [§4.192](#4192-avocado-salsa) spread across the whole dish.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(salmon + salsa)* | ~2,250 | 143 g | 190 g | 31 g | 12 g |
+| **Per serving** *(serves 5, midpoint of the source's 4–6)* | ~450 | 29 g | 38 g | 6 g | 2 g |
+
+**What a serving is:** the source's own portion — **5 to 8 oz of salmon**, one grilled fillet, with about ¼ cup of avocado salsa spooned over it. Rice and patacones are extra and are not counted here.
+
+#### D. Open Questions
+
+- **The source gives no grilling time, no per-side time, and no internal temperature** — its entire instruction is *"grill the salmon to desired doneness."* The 15 minutes in the badge is the source's own printed Cook Time, not a per-side figure. The doneness cues in Step 5 are cookbook gloss, flagged as such rather than presented as the page's.
+- **The source doesn't say whether the salmon is grilled skin-on or skinned.** Here it is skinned, because Cody's Step 1 requires it — worth knowing that this is his change, not the page's.
+- **"3 mild hot peppers" is the source's wording and no variety is named** — carried over to [§4.192](#4192-avocado-salsa) and flagged there too.
+- **Two sides are named but not transcribed** — Latin-style rice and patacones are links to other recipes on the source site, not printed on this page.
+- ❓ **How long does Cody actually soak a salmon fillet?** He gave the method and the working number of eggs — about two per fillet — but not a soak time for fish specifically. [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)'s **7-to-15-minute** window is what's used above, scaled to how fishy it smells; that window came from his shrimp practice.
 
 [↑ Table of Contents](#table-of-contents)
 

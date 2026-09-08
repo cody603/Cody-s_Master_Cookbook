@@ -2698,7 +2698,7 @@ In a small bowl mix the softened butter and the **remaining 1 Tbsp flour** until
 
 Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 250–251). A thick, sausage-forward sauce built to top other dishes rather than stand alone.
 
-> **Per the source:** a component of *Eggs Basin Street* (p. 303); also good over *Red Beans and Rice* (p. 190), pasta, omelets, and other egg dishes, folded into rice, or folded into bread crumbs and used as a stuffing.
+> **Per the source:** a component of *Eggs Basin Street* (p. 303); it can also be used over *Red Beans and Rice* (p. 190), pasta, omelets and other egg dishes, **or in sausage poboys**. In addition, it can be folded into rice and used as a dressing, or folded into bread crumbs and used as a stuffing.
 
 **Yield:** about 3 cups
 
@@ -2716,20 +2716,21 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 250–251). A
 - 1½ Tbsp all-purpose flour
 - 1 bay leaf
 - ¼ tsp dry mustard
+- ⅛ tsp salt
 - ⅛ tsp white pepper
 - ⅛ tsp ground red pepper, preferably cayenne
 - 2 cups hot Basic Beef or Pork Stock — *see [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood)*
 
 #### B. Cooking Instructions
 
-**1. Brown the andouille. About 2 minutes, then reduce heat.**
-Cook the andouille and oil in a large skillet over high heat, stirring frequently, then reduce to medium and continue until the sausage starts to brown.
+**1. Brown the andouille. 2 minutes high, then about 3 minutes medium.**
+Cook the andouille and oil in a large skillet over high heat about 2 minutes, stirring frequently. Reduce the heat to medium and continue cooking until the andouille starts to brown, about 3 minutes, stirring frequently and scraping the pan bottom well.
 
 **2. Add the trinity. About 7 minutes.**
 Onions, celery, and bell peppers, sautéed until tender but still firm, stirring frequently.
 
 **3. Raise to high, add the flour and dry seasonings, and cook to the scorch point. About 2 minutes.**
-Turning the heat up moves the oil to the bottom of the mixture. Stir in the flour, bay leaf, dry mustard, white pepper, and red pepper, cooking until nearly scorching — stirring constantly and scraping the pan bottom well.
+Turning the heat up moves the oil to the bottom of the mixture. Stir in the flour, bay leaf, dry mustard, salt, white pepper, and red pepper, cooking until the mixture sticks almost to the point of scorching, about 2 minutes — stirring constantly and scraping the pan bottom well.
 
 **4. Add the stock and simmer. About 5 minutes.**
 Stir well, bring to a simmer, then drop to very low and continue 5 minutes. Remove the bay leaf and serve.
@@ -2741,7 +2742,7 @@ Stir well, bring to a simmer, then drop to very low and continue 5 minutes. Remo
 - 🛒 Andouille sausage or kielbasa, ground — 6 oz.
 - 🛒 Vegetable oil
 - 🛒 Onions, celery, green bell peppers
-- 🛒 All-purpose flour, bay leaf, dry mustard, white pepper, ground red pepper (cayenne)
+- 🛒 All-purpose flour, bay leaf, dry mustard, salt, white pepper, ground red pepper (cayenne)
 - 🛒 Beef or pork stock — 2 cups *(see Open Questions)*
 
 #### Nutrition *(estimated)*
@@ -2752,6 +2753,8 @@ Stir well, bring to a simmer, then drop to very low and continue 5 minutes. Remo
 | **Per serving** *(about ½ cup, of 6)* | ~160 | 13 g | 6 g | 4 g | 1 g |
 
 **What a serving is:** about ½ cup — enough to top a plate of eggs, a poboy, or a bowl of red beans and rice.
+
+✅ 2026-09-08 re-verified against Cody's photographs of *Louisiana Kitchen* pp. 250 and 251, including the p. 251 fragment carrying the tail of the method. **⅛ tsp salt was missing from the Ingredients** and is added, along with its place in Step 3. Step 1 now carries the page's two timings (2 minutes on high, about 3 more on medium) instead of one, Step 3 the page's "sticks almost to the point of scorching, about 2 minutes," and the headnote its full list of uses including **sausage poboys**. Everything else stands: *Makes about 3 cups*, 6 oz ground andouille (about 1½ cups), the three ¾-cup trinity measures, 1½ Tbsp flour, 2 cups hot beef or pork stock, and the closing simmer at very low heat for about 5 minutes before the bay leaf comes out.
 
 #### D. Open Questions
 
@@ -3371,7 +3374,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers* cha
 - ¼ cup chopped fresh parsley
 - ¼ cup finely grated fresh horseradish, or prepared horseradish
 - ¼ lemon, seeded — *rind included, see Step 2*
-- ¼ bay leaf, crumbled
+- 1 bay leaf, crumbled
 - 2 Tbsp Creole mustard (preferred) or brown mustard
 - 2 Tbsp catsup
 - 2 Tbsp Worcestershire sauce
@@ -3394,6 +3397,8 @@ Add the vegetable oil in a thin, steady stream while the machine runs — this i
 Add the remaining ingredients one at a time, including the lemon quarter whole — **rind and all**. Keep blending until everything is well mixed and the lemon rind is finely chopped into the sauce.
 
 **4. Chill well before using.**
+
+✅ 2026-09-08 re-verified against Cody's photograph of *Louisiana Kitchen* p. 286, checked alongside [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) on the facing page. One correction: the bay leaf is **1 whole bay leaf, crumbled**, not ¼ — a full leaf's worth of bay goes into 1½ cups of sauce. All seventeen other lines and the whole blender method are exactly as printed.
 
 #### C. Grocery Shopping List
 
@@ -38812,6 +38817,8 @@ For each serving, place a lettuce leaf on a salad plate and mound about ⅓ cup 
 | **Per serving** *(serves 6)* | ~315 | 22 g | 22 g | 8 g | 1.5 g |
 
 **What a serving is:** one plated salad — a lettuce leaf, shredded lettuce, 6–10 shrimp tossed with remoulade, and the garnish.
+
+✅ 2026-09-08 re-verified line by line against Cody's photographs of *Louisiana Kitchen* pp. 285–286 — **no changes needed.** The printed *Makes 6 appetizer servings* and *Color Picture 26*, all nine boil seasonings, 3 cups stock **or water**, 1½ lbs unpeeled medium shrimp without heads, the 3-minute simmer and 3-minute uncovered boil, the immediate drain-and-chill, 1½ cups Remoulade Sauce, and the whole plating spec (6 bowl-shaped leaves, 2 cups shredded lettuce, ⅓ cup per plate, 6–10 shrimp, 1½ small tomatoes in 12 wedges, 12 olives, 6 parsley sprigs) all match print. The make-ahead note is the page's own. Its sauce, [§4.23](#423-remoulade-sauce) on the facing page, did need one fix — see the note there.
 
 #### D. Open Questions
 

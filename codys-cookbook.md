@@ -19476,8 +19476,10 @@ Crushed corn flakes, packed brown sugar, softened butter, and chopped nuts mixed
 
 #### D. Open Questions
 
-- **Covered or uncovered?** The word after "Bake 20–25 min. at 400" reads as *covered*, but a cornflake-and-nut topping normally bakes **uncovered** so it crisps and browns — covered would steam it soft. Worth confirming how the family actually does it. *(If in doubt, uncovered at 400°F for 20–25 min is the conventional treatment.)*
-- **What kind of nuts?** The card just says "chopped nuts." Pecans are the standard for this dish in the South, but confirm.
+> 📞 **Both questions below are OPEN — and as of 2026-09-08 they have an owner: Cody is going to ask his mom.** Neither is forgotten and neither is being filled by judgment in the meantime. They're family-recipe questions with a living answer, so the right move is to wait for it rather than reason around it. **When she answers, both close on her word.**
+
+- ❓ **OPEN — pending with Cody's mom (2026-09-08). Covered or uncovered?** The word after "Bake 20–25 min. at 400" reads as *covered*, but a cornflake-and-nut topping normally bakes **uncovered** so it crisps and browns — covered would steam it soft. **Cody is asking her how the family actually does it.** *(Until then, if you're cooking it this week: uncovered at 400°F for 20–25 min is the conventional treatment — but that's a stopgap, not the answer.)*
+- ❓ **OPEN — pending with Cody's mom (2026-09-08). What kind of nuts?** The card just says "chopped nuts." Pecans are the standard for this dish in the South, and that's what the grocery list suggests, **but Cody is asking her rather than letting the regional default stand as fact.**
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -19537,7 +19539,7 @@ Whatever dressing doesn't fit as filling goes into the roasting pan alongside th
 
 #### D. Open Questions
 
-- **"½ chopped onion" — half a cup, or half an onion?** The line directly above it reads "1 cup chopped celery," which suggests **½ cup** was meant. Half a medium onion lands close to that anyway, so either reading works in practice — but worth confirming.
+- ❓ **OPEN — pending with Cody's mom (2026-09-08). "½ chopped onion" — half a cup, or half an onion?** The line directly above it reads "1 cup chopped celery," which suggests **½ cup** was meant. Half a medium onion lands close to that anyway, so either reading works in practice. **This is her card — it's marked "mom's recipe" — and Cody is going to ask her rather than have the cookbook pick a reading.** Recorded here as *asked and waiting*, not as forgotten. When she answers, the ingredient line loses its "likely ½ cup" hedge.
 - **No baking time or temperature is given** for the dressing on its own, because the card assumes it goes in the bird. If you're making it as a standalone pan of dressing, that's a detail to add once you've settled on one.
 - **The cornbread has to be dry**, which means making it a day ahead — the card takes that as understood rather than saying so.
 
@@ -20325,8 +20327,15 @@ The ½ cup of melted butter goes over the surface just before baking — this is
 **5. Bake at 300°F. Estimated 45–60 minutes.**
 The card's own words are just *"Cook at 300°"* — a temperature and nothing else. Bake until it's hot all the way through and the butter on top is bubbling gently at the edges — check the center with a spoon or thermometer rather than trusting a fixed clock, since oven and dish depth both move this around. *(See Open Questions.)*
 
-**6. Serve, or freeze ahead — the card's own note: "This freezes well!!!"**
-Cool completely before wrapping tightly and freezing, whether you freeze it unbaked (assembled through step 4, ready to bake) or fully baked and reheated later. The card doesn't say which way the family actually does it, or whether it goes into the oven frozen or thawed first — if frozen, thaw fully in the fridge before baking as above; if you bake it straight from frozen, expect to add meaningful extra time and check the center carefully before serving.
+**6. Serve, or freeze ahead — and you freeze it *assembled*, after it's made. The card's own note: "This freezes well!!!"**
+✅ **2026-09-08 per Cody, and this settles the stage:** *"it freezes after you make it… you boil the potatoes and then you mash them, so it has to be after you've made it, and it freezes well."* **So the thing that goes in the freezer is the finished casserole** — potatoes boiled, mashed, mixed with the cream cheese, sour cream, and seasonings, and spread into the dish. **You do not freeze raw or plain boiled potatoes and finish them later.** That's the answer the entry was missing, and it's the one that matters, because raw and plain-boiled potatoes are the two ways this dish could have been frozen badly: raw potato goes mealy and grey in a freezer, and a lean, unenriched mash comes back watery and grainy. **This one is a rich mash by the time it's assembled — 12 oz of cream cheese, 2 cups of sour cream, and butter twice — and that fat is the reason the card can end in three exclamation points.**
+
+*⚙️ **Cookbook judgment on the two ways to do it from here** — Cody settled the stage but did not say whether he freezes it before or after the bake, so both paths are written out and neither is put in his mouth. Reasoned from **[§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)** in this book (thaw in the refrigerator, never on the counter; reheat low so you don't dry it out) and from **America's Test Kitchen's make-ahead mashed potato work** — their make-ahead mash is a deliberately rich, cream-cheese-and-butter mash held cold and then reheated gently, rather than re-mashed, which is the same shape as this card. **Cody's own practice supersedes this the day he describes it.***
+
+- ***Frozen assembled and unbaked* — the version that eats most like fresh.** Take it through step 4, **cool it completely**, wrap the dish tight — plastic against the surface, then foil — and freeze. **Thaw it fully in the refrigerator**, which for a full 9×13 means overnight and then some; **then bake at 300°F as written in step 5**, allowing extra time on the near side of an hour because it's going in fridge-cold rather than oven-ready warm. Don't bake it straight from solid frozen if you can avoid it: the edges set and brown long before the middle is hot.
+- ***Frozen fully baked* — the version that's easier on the day.** Bake it through, cool it completely, wrap and freeze. **Thaw in the refrigerator, then reheat covered with foil at 300°F** until the center is genuinely hot through — the foil is doing real work here, because a second trip through the oven is what dries a mash out. Uncover for the last few minutes if you want the top back.
+
+**Either way: cool it all the way down before it's wrapped** (a warm casserole steams inside its own wrapping and ices over), **wrap it airtight**, and **label it with the date.** And thaw it in the refrigerator, not on the counter — [§T46](#t46-freezing-and-reheating-leftovers) is unambiguous about that.
 
 #### C. Grocery Shopping List
 
@@ -20357,7 +20366,8 @@ Cool completely before wrapping tightly and freezing, whether you freeze it unba
 - **No serving count is given — re-confirmed 2026-09-06.** The card's preprinted "Serves:" field was checked again at full magnification and is blank. 12 to 16 is a reasoned estimate for 10 lb of potatoes split across two casseroles, not a printed figure.
 - **No bake time is given — re-confirmed 2026-09-06.** The preprinted "Time:" field is blank too. The only temperature on the card is the 300° written into the method line itself, *"Cook at 300°"*; the preprinted "Oven Temp:" field is **also** left blank, so even that figure comes from the body of the recipe rather than from the form. *(Corrected: this entry previously cited it as "Oven Temp: 300°F," as though the field had been filled in.)* The 45–60 minute estimate above is reasoned from the dish (already-cooked potatoes at a low, gentle reheat temperature), not copied from the card.
 - **Milk and butter amounts for the mashing step aren't specified — re-confirmed 2026-09-06.** The card's first line reads in full: *"10 lb potatoes, cooked & mashed w/ milk & butter"* — no amounts for either, assuming the cook already knows their own ratio. (The ½ cup of butter listed separately is the melted butter for the top, not for the mash.) Use your usual mashed-potato measure, or the standard cited above.
-- **Frozen unbaked or frozen baked?** The card's "This freezes well!!!" doesn't say which stage freezes, or whether a frozen dish goes into the oven frozen or thawed. Worth confirming once the family's actual practice is known.
+- ✅ **CLOSED 2026-09-08 — it freezes *assembled*, after the dish is made.** The question was which stage of this recipe goes into the freezer. Cody's answer: ***"it freezes after you make it… you boil the potatoes and then you mash them, so it has to be after you've made it, and it freezes well."*** **So the card's "This freezes well!!!" is about the finished casserole** — potatoes boiled, mashed, mixed with the cream cheese and sour cream, in the dish. Not raw potatoes, and not plain boiled ones held back to be finished later. Written into step 6.
+  - ⚙️ **What he didn't settle, and how it's handled: baked or unbaked.** He said "after you've made it," which covers both an assembled-unbaked dish and a fully baked one, and he wasn't asked to split that hair. **Step 6 now gives short guidance for both paths — freeze assembled and unbaked, thaw in the fridge, then bake at 300°F as written; or freeze fully baked, thaw, and reheat covered — and both are labeled cookbook judgment, not his words.** Reasoned from [§T46](#t46-freezing-and-reheating-leftovers) in this book and from America's Test Kitchen's make-ahead mashed potato work. **His practice replaces it the day he describes it.**
 
 [↑ Table of Contents](#table-of-contents)
 

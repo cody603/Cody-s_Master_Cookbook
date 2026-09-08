@@ -1394,8 +1394,12 @@ Not much — you're perfuming the broth, not making it herby. The big pile of fr
 **10. Adjust with the umami blend, then simmer 4 hours.**
 A little umami seasoning to bring the savory up. Then let it go at a low simmer for 4 hours. You want this broth aggressively salty — that's the design of the dish, not a mistake to correct.
 
+*Four hours is the number, and it works. In Cody's words (2026-09-08), **"the longer that thing simmers the better"** — the broth itself only deepens with time. **But be careful, because there's beef in there.** That's the catch, and it's a real one: the simmer isn't limited by the broth, it's limited by the oxtail. The liquid can go all day; the beef cannot. So if you extend past 4 hours, extend the **broth**, not the beef — see step 11.*
+
 **11. Pull the oxtail at 4–5 hours.**
 Don't leave it in longer. Past that the beef starts to dominate and you lose the balance between chicken and beef that makes this broth what it is. You want them in equilibrium, not a beef broth.
+
+*This is where the "longer is better" rule stops. If you want a longer pot, pull the oxtail on schedule at 4–5 hours and let the broth keep going on its own after that. Leaving the beef in for the extra hours is what turns a bright, balanced bowl into a heavy beef broth — the exact thing this recipe is built to avoid.*
 
 **12. While the broth simmers, build the fresh station.**
 Thai basil and mint pulled off the stems and piled on a plate. Jalapeños sliced thin. Onions sliced into **long strands, not diced** — you want them to drape over the noodles, not scatter. Limes in wedges. Bean sprouts rinsed and piled. Sriracha on the table. All of this is raw and stays raw.
@@ -1457,9 +1461,9 @@ Thai basil, mint, bean sprouts, jalapeño, a hard squeeze of lime, sriracha. Eac
 Dial these in as you cook and they get folded into the recipe.
 
 - ✅ 2026-09-07 per Cody: oxtail is *"maybe a pound or two, I'm not really sure"* — written up as 1–2 lb, and kept labeled as his rough guess until a batch pins it down.
-- Did 4 hours of simmer feel right, or does it want 5?
+- ✅ 2026-09-08 per Cody: **4 hours works** — *"the longer that thing simmers the better,"* **but be careful, because there's beef in there.** The broth improves with time; the oxtail doesn't. Longer simmers are fine as long as the oxtail still comes out at 4–5 hours (steps 10–11). 4 hr stands as the written number.
 - ✅ 2026-09-07 per Cody: the chuck roast is a **36-hour** sous vide — now the stated house standard; 24–48 hr stays the allowable window.
-- Did the chuck slice as thin as you wanted?
+- **Still open — did the chuck slice as thin as you wanted?** *(Asked again 2026-09-08; Cody doesn't know and had no further guidance to give. The instruction in step 14 — paper-thin, against the grain, off a hard-chilled roast — stands unchanged until a cook settles it.)*
 
 #### Nutrition *(estimated)*
 

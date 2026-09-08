@@ -2954,7 +2954,7 @@ Bring to a simmer, adjusting the heat as needed to hold it, stirring occasionall
 - 🛒 Bay leaves — 3
 - 🛒 Onions
 - 🛒 Canned tomato sauce — 3 cups
-- 🛒 Chicken stock — 3 cups *(see [§4.13](#413-andouille-smoked-sausage-sauce))*
+- 🛒 Chicken stock — 3 cups *(see [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood), the fowl variant)*
 
 #### Nutrition *(estimated)*
 
@@ -2964,6 +2964,11 @@ Bring to a simmer, adjusting the heat as needed to hold it, stirring occasionall
 | **Per serving** *(about ½ cup, of 12)* | ~110 | 9 g | 1 g | 5 g | 1 g |
 
 **What a serving is:** about ½ cup, over a plate of pasta or a piece of fish or chicken.
+
+#### D. Verification
+
+- ✅ 2026-09-08 transcribed and verified against Cody's photograph of p. 244–245. Both pages confirmed by their printed footers (244, 245) and running heads (*Chef Paul Prudhomme's Louisiana Kitchen* and *Sauces & Gravies*). Every one of the thirteen quantities read clean at native resolution and matches what's written above, including the six seasonings that carry over onto p. 245. The method's three fiddly details all confirmed: **2 of the 3 bay leaves** go in with the oil, **the browned garlic cloves come back out of the pan**, and the remaining bay leaf goes in with everything else. **No changes needed to the recipe.**
+- ✅ 2026-09-08 **one link corrected:** the Grocery Shopping List's chicken-stock line pointed at [§4.13 Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce), which is a sauce, not a stock. It now points at [§T13 Basic Stock Formula](#t13-basic-stock-formula-fowl-beef-pork--seafood) — the same place the Ingredients list has always pointed. No ingredient or quantity changed.
 
 [↑ Table of Contents](#table-of-contents)
 

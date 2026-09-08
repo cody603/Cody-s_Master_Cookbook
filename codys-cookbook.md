@@ -13821,20 +13821,24 @@ It can be made ahead and held in the fridge — the source builds it early, whil
 
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test: it is two ingredients and a spoon. Nothing in it can go from perfect to ruined.
 
-> ⚠️ **The amounts below are cookbook judgment — Cody named the two ingredients, not a ratio.** He referred to *"a recipe where you mix Dijon mustard and Greek yogurt,"* but the recipe he has in mind hasn't been identified and isn't in this cookbook (see Open Questions). **The two ingredients are his; the proportions are a starting point.** Start here, taste, and move it — this is a sauce you can correct in either direction at any point, which is most of why it's worth making.
+> ✅ **It really is only those two ingredients — Cody settled it, 2026-09-08.** Asked whether anything else belongs in it — garlic, lemon, honey, herbs, all of which are common in sauces of this shape — his answer was flat: ***"it literally is only Dijon and Greek yogurt."*** **So nothing else goes in.** Salt is the one thing this entry adds, because a yogurt sauce without it reads chalky, and even that is to taste. If you want the version with lemon and herbs in it, that's a different sauce and it's already in this book at [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) and [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce). **The restraint is the recipe.**
+
+> ⚙️ **The ratio is cookbook judgment, researched 2026-09-08 — and here's exactly where it comes from.** Cody named the two ingredients and not a proportion, and when asked for one he said: ***"I don't know, you're just gonna have to look that up."*** Per [CLAUDE.md §3d](CLAUDE.md) that's an instruction to research it, so: **the basis is this cookbook's own Dijon-into-cold-dairy sauce, [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) — Steven Raichlen, *How to Grill*** — which is the closest published thing to this one already on the shelf, and §3d says the cookbook comes first. **Raichlen puts ½ cup of Dijon-style mustard into about 2⅙ cups of cold creamy base (1½ cups mayonnaise plus ⅔ cup sour cream) — roughly 4⅓ parts base to 1 part mustard.** Cross-checked against **America's Test Kitchen's Mustard-Cream Sauce**, which is far leaner on mustard — about 5 tsp of Dijon per cup of sour cream and heavy cream — but that one is a cooked, egg-yolk-enriched sauce with other things going on in it. **Published practice therefore runs from about 1½ to 4 Tbsp of Dijon per cup of creamy base, and a two-ingredient sauce belongs at the top of that range, because there is nothing else in it to carry the flavor.** Hence **4 Tbsp per cup of yogurt — 4:1.** *(This is a nudge up from the 3 Tbsp this entry carried before it had a basis.)* **The two ingredients and the dish are Cody's; the numbers are the cookbook's, and his own proportions replace them the day he gives them.**
 
 #### A. Ingredients
 
+*Two ingredients, per Cody — ✅ *"it literally is only Dijon and Greek yogurt."* Nothing else belongs in it.*
+
 - 1 cup plain Greek yogurt — **full-fat**; it's the body of the sauce and low-fat goes thin and sour
-- 3 Tbsp Dijon mustard
+- ¼ cup (4 Tbsp) Dijon mustard — *start at 3 Tbsp if your Dijon is a sharp one*
 - Salt, to taste
 
-*Amounts are cookbook judgment. **Roughly 5 parts yogurt to 1 part Dijon** is the ratio to hold onto — that lands the mustard as a clear, sharp note without turning it into thinned-out mustard.*
+*Amounts are cookbook judgment, set 2026-09-08 from [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) (Raichlen) and cross-checked against America's Test Kitchen — see the note above. **Roughly 4 parts yogurt to 1 part Dijon** is the ratio to hold onto: that lands the mustard as the clear, sharp lead it has to be in a two-ingredient sauce, without turning the bowl into thinned-out mustard. Raichlen's base is mayonnaise-led, and mayonnaise blunts mustard more than yogurt does, so **yogurt's own tang lets you sit at the low end of the range** — which is why 3 Tbsp is given as the starting point rather than the finish.*
 
 #### B. Cooking Instructions
 
 **1. Whisk the Dijon into the yogurt.**
-Stir it together until the color is even and there are no pale streaks of yogurt left. **Add the mustard in stages and taste as you go** rather than dumping all three tablespoons in at once — Dijons vary a lot in sharpness between brands, and this is a two-ingredient sauce, so the brand *is* the seasoning.
+Stir it together until the color is even and there are no pale streaks of yogurt left. **Add the mustard in stages and taste as you go** — start around 3 Tbsp, taste, and work up to the full ¼ cup — rather than dumping it all in at once. Dijons vary a lot in sharpness between brands, and this is a two-ingredient sauce, so **the brand *is* the seasoning.**
 
 **2. Salt it, and taste it against the steak — not on its own.**
 Salt brings the mustard forward; without it the sauce reads flat and chalky. **Taste it on a piece of the beef rather than off the spoon.** Against a well-seasoned, charred steak a sauce that tasted assertive alone will suddenly read mild, which is the usual reason a first batch comes out under-mustarded.
@@ -13847,8 +13851,10 @@ Cold sauce against hot steak is the point of it. It can be made a day ahead; it 
 **🛒 General grocery**
 
 - 🛒 Greek yogurt, plain full-fat — 1 cup
-- 🛒 Dijon mustard — 3 Tbsp
+- 🛒 Dijon mustard — ¼ cup *(buy a Dijon you actually like; in a two-ingredient sauce the brand is the seasoning)*
 - 🛒 Salt
+
+*That's the entire list, and it's meant to be — ✅ per Cody, 2026-09-08, the sauce is only those two things.*
 
 #### Nutrition *(estimated)*
 
@@ -13856,16 +13862,16 @@ Cold sauce against hot steak is the point of it. It can be made a day ahead; it 
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** *(about 1¼ cups)* | ~250 | 13 g | 21 g | 10 g | 1 g |
-| **Per serving** *(2 Tbsp, of about 10)* | ~25 | 1 g | 2 g | 1 g | 0 g |
+| **Whole batch** *(1¼ cups — 1 cup yogurt plus ¼ cup Dijon)* | ~265 | 14 g | 21 g | 11 g | 1 g |
+| **Per serving** *(2 Tbsp, of 10)* | ~27 | 1.5 g | 2 g | 1 g | 0 g |
 
 **What a serving is:** about **2 tablespoons — a small spoonful beside sliced steak**, or a shallow puddle to drag the slices through.
 
 #### D. Open Questions
 
-- ❓ **Which recipe is this?** Cody said *"there is a recipe where you mix Dijon mustard and Greek yogurt"* — implying a specific one he's cooked from. **It is not in this cookbook** *(checked 2026-09-08 across every entry: no existing recipe combines Dijon and Greek yogurt)*, and no book, site, or author was named. Recorded as his, from an unidentified source.
-- ❓ **The ratio is not his.** 5:1 yogurt to Dijon is a starting point, not his measurement. **His own proportions replace it the day he gives them.**
-- **Whether anything else goes in it** — he named exactly two ingredients plus the steak. Garlic, lemon, honey, and herbs are all common in sauces of this shape and **none of them has been added here**, because he didn't name them.
+- ✅ **CLOSED 2026-09-08 — it is only Dijon and Greek yogurt. Nothing else goes in.** This entry carried an open question asking whether garlic, lemon, honey, or herbs belonged, since all four are common in sauces of this shape. **They don't.** Cody: ***"it literally is only Dijon and Greek yogurt."*** The question is deleted rather than left standing, because it isn't a gap — the two-ingredient list *is* the recipe. *(Salt stays, to taste, as the cookbook's one addition; it's noted as such in the ingredients.)*
+- ✅ **CLOSED 2026-09-08 — the hunt for "which published recipe is this" is over.** He'd referred to *"a recipe where you mix Dijon mustard and Greek yogurt,"* which read as though a specific published one was behind it. **Asked, he doesn't know it either** — there's no book, site, or author to chase, and a search of this cookbook found no existing entry combining the two. **So it stops being a question.** It's Cody's, recorded as his, and that's the whole provenance.
+- ⚙️ **ANSWERED AS COOKBOOK JUDGMENT 2026-09-08 — the ratio is 4:1, and it now has a named basis.** Asked for his proportions, Cody said: ***"I don't know, you're just gonna have to look that up."*** Researched per [CLAUDE.md §3d](CLAUDE.md) and set at **4 Tbsp Dijon per 1 cup Greek yogurt**, reasoned from **[§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) — Steven Raichlen, *How to Grill*** (about 4⅓ parts cold creamy base to 1 part Dijon-style mustard), and cross-checked against **America's Test Kitchen's Mustard-Cream Sauce** (much leaner on mustard, but a cooked egg-yolk sauce doing a different job). Full reasoning in the note above the ingredients. **The ingredients and the dish are his; these numbers are the cookbook's, and his own supersede them the day he gives them.**
 
 **Serve it with:** [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) · [§7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks). *Its mustard cousin in this cookbook is [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce), which is built on mayonnaise and aimed at salmon rather than beef.*
 
@@ -13887,17 +13893,21 @@ Cold sauce against hot steak is the point of it. It can be made a day ahead; it 
 
 > ⚠️ **Not the same sauce as [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce), and both stay.** That one is Raichlen's, from *How to Grill*: sour cream **lightened with a cup of whipped heavy cream**, mixed Mediterranean herbs, and lemon juice and zest — an airy, folded sauce. **This one is his dad's and goes the opposite direction**: cream cheese instead of whipped cream makes it thick and spreadable rather than light, and the herb is **dill only**, with no lemon. Same root ingredient, two genuinely different sauces.
 
-> ⚠️ **The amounts below are cookbook judgment — Cody named four ingredients, not a ratio.** This is a family recipe, so his dad's actual proportions are the ones that matter and these are only a working starting point. Flagged in Open Questions.
+> 🗣️ **Cody's own description of it: an Outback-style horseradish sauce.** ✅ *2026-09-08, in his words:* ***"it's really a copycat of Outback's, that fresh dill, sour cream, cream cheese kind of thing."*** **That is recorded here as his description of the flavor he's after, not as a sourced fact** — nothing has been looked up about any restaurant's formula, no copycat page has been used *(per [CLAUDE.md §3d](CLAUDE.md), anonymous copycat recipes are not a source and this book has been burned by one before)*, and the sauce below is not built from anybody's reverse-engineering. **It's useful the way a description is useful:** it tells you the target is a thick, cold, creamy, dill-forward horseradish sauce for steak rather than a light or lemony one — which is exactly what separates it from [§4.40](#440-herbed-horseradish-sauce).
+
+> ⚙️ **The amounts below are cookbook judgment, researched 2026-09-08 — Cody named four ingredients and told the cookbook to set the proportions.** His words: ***"if there's something on there you can say about these proportions, just guess."*** Per [§3d](CLAUDE.md) that means research rather than guesswork, so the basis is named: **[§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) — Steven Raichlen, *How to Grill***, already in this book, which puts **2 to 3 Tbsp of prepared horseradish into 1½ cups of cold dairy** — call it **1½ to 2 Tbsp per cup of base.** This sauce runs a little hotter than that because it's thicker and there's no whipped cream in it to dilute the heat: **2 to 3 Tbsp into 1 cup of base.** The cream-cheese-to-sour-cream proportion is set for texture, not flavor — 2:1, which is what holds a dollop on a slice of beef. **The four ingredients, the dill-only choice, and the target are Cody's and his dad's; the numbers are the cookbook's.** **His dad's real proportions supersede all of this the day anyone writes them down** — that's still an open question below, and it's the one that actually matters on a family recipe.
 
 #### A. Ingredients
 
 - 4 oz cream cheese, **softened to room temperature**
 - ½ cup sour cream
-- 2 to 3 Tbsp prepared horseradish, to taste
+- **Horseradish — and ✅ 2026-09-08 Cody wants both versions on the page:**
+  - **The everyday version: 2 to 3 Tbsp prepared horseradish, to taste.** Buy a fresh jar; an open one loses its heat.
+  - **The better version: 1 to 2 Tbsp finely grated fresh horseradish root, to taste.** Cody's own reaction to the idea — *"if it's grated root, that could be pretty cool, actually."* Start low and work up; see the note under step 3.
 - 2 Tbsp fresh dill, chopped — **fresh, per Cody, not dried**
 - Salt, to taste
 
-*Amounts are cookbook judgment; the four ingredients are Cody's. **Roughly 2 parts cream cheese to 1 part sour cream** gives a sauce thick enough to sit on a slice of beef without running off it — that's the texture the cream cheese is there for.*
+*Amounts are cookbook judgment; the four ingredients are Cody's. **Roughly 2 parts cream cheese to 1 part sour cream** gives a sauce thick enough to sit on a slice of beef without running off it — that's the texture the cream cheese is there for. The horseradish level is set from [§4.40](#440-herbed-horseradish-sauce) (Raichlen), scaled up slightly because there's no whipped cream here to dilute it.*
 
 #### B. Cooking Instructions
 
@@ -13908,18 +13918,31 @@ This is the whole difficulty of the recipe and it's worth doing first. **Cold cr
 Add it to the smooth cream cheese and beat until uniform. Going in this order — cream cheese smooth first, then thinned with the sour cream — is what keeps it from seizing into lumps.
 
 **3. Fold in the horseradish and the fresh dill, then salt to taste.**
-**Start at 2 Tbsp of horseradish and work up.** Prepared horseradish varies enormously between brands and loses its bite with age, so a fresh jar at 2 Tbsp can be sharper than an old one at 3. Chop the dill just before it goes in — its oils fade fast once cut.
+**Start at 2 Tbsp of prepared horseradish — or 1 Tbsp of freshly grated root — and work up.** Prepared horseradish varies enormously between brands and loses its bite with age, so a fresh jar at 2 Tbsp can be sharper than an old one at 3. Chop the dill just before it goes in — its oils fade fast once cut.
+
+> 🌶️ **Prepared or fresh root? ✅ Cody's answer, 2026-09-08: both, and the root is the interesting one.** *"Give the option for both, and if it's grated root, that could be pretty cool, actually."*
+>
+> - **Prepared horseradish is the everyday version**, and there's nothing wrong with it — it's what a mixed cold sauce normally uses, it's what [§4.40](#440-herbed-horseradish-sauce) offers as its alternate, and it's consistent from spoonful to spoonful because the vinegar in the jar has already fixed the heat where it is.
+> - **Freshly grated root is the better version**, and it's the one worth doing when you can get a root. It tastes cleaner and greener, and it hits harder and higher in the nose. **Grate it fine, right before it goes in** — and handle it with your face out of the bowl; the fumes are genuinely eye-watering. [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) is the entry to read for handling the root, and [§4.40](#440-herbed-horseradish-sauce) is the other recipe here that offers it either way.
+>
+> **⚙️ Converting between them is cookbook judgment, and the honest answer is that you taste rather than convert.** *(Basis: **Cook's Illustrated / America's Test Kitchen, "Keeping the Kick in Fresh Horseradish,"** for the chemistry; plus this book's own two horseradish recipes.)* **Grated root at its peak is sharper than jarred, so use less of it — start at about half to two-thirds of the prepared amount, 1 to 1½ Tbsp where you'd have used 2, and climb.** The reason is the chemistry: cutting the root ruptures its cells and sets off an enzyme reaction that generates the compound doing all the burning, and **vinegar slows that reaction down** — which is exactly what the vinegar in a jar of prepared horseradish is for. Freshly grated root, caught at the right moment, is that reaction at full tilt; a jar is it held steady, and an old jar is it faded.
+>
+> **But don't treat any conversion as a rule, because this book's own sources don't.** [§4.40](#440-herbed-horseradish-sauce) (Raichlen) offers a 2 oz piece of root *or* 2–3 Tbsp prepared, and [§4.57](#457-fresh-horseradish-butter) (Canal House) offers 2–3 Tbsp grated fresh *or* 2 Tbsp drained prepared — both writing fresh at parity or above by volume. **The variable isn't the form, it's the root and the jar in front of you:** a hard, cold, recently dug root grated fine is ferocious, a tired one is not, and the same is true of a jar. **So go in low either way, taste, and add.** This is a sauce you can always make hotter and can never make milder.
 
 **4. Chill at least an hour before serving.**
 Not optional, and not just about temperature: **horseradish needs time to bloom through a dairy base**, and dill needs time to give up its flavor. Straight out of the bowl the sauce tastes mostly of cream cheese; an hour later it tastes like the sauce it's supposed to be. **Taste it again after chilling and adjust the salt then**, not before.
 
 #### C. Grocery Shopping List
 
+**🏪 Specific store — produce/gourmet** *(only if you're doing the root version)*
+
+- 🏪 Fresh horseradish root — a piece an inch or two long, for 1 to 2 Tbsp finely grated *(✅ 2026-09-08, the version Cody likes the sound of — see step 3, and [§4.57](#457-fresh-horseradish-butter) for handling it)*
+
 **🛒 General grocery**
 
 - 🛒 Cream cheese — 4 oz *(a half block)*
 - 🛒 Sour cream — ½ cup
-- 🛒 Prepared horseradish — 2 to 3 Tbsp *(buy a fresh jar; an old one has lost its heat)*
+- 🛒 Prepared horseradish — 2 to 3 Tbsp *(the everyday version; buy a fresh jar, an old one has lost its heat. Skip it if you bought the root.)*
 - 🛒 Fresh dill — 1 small bunch, for 2 Tbsp chopped
 - 🛒 Salt
 
@@ -13936,8 +13959,9 @@ Not optional, and not just about temperature: **horseradish needs time to bloom 
 
 #### D. Open Questions
 
-- ❓ **His dad's actual proportions are unknown, and on a family recipe that's the number that matters.** Cody named the four ingredients and nothing else. The ratios above are a working starting point only. **Worth asking his dad directly** — how much horseradish, and whether the cream cheese or the sour cream leads.
-- ❓ **Fresh or prepared horseradish?** Cody said only *"horseradish."* Prepared is assumed above because it's what a mixed cold sauce normally uses and what [§4.40](#440-herbed-horseradish-sauce) offers as its alternate; **fresh grated root would be sharper and would need less** *(see [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter) for handling the root)*.
+- ❓ **STILL OPEN, and still the one that matters: his dad's actual proportions.** Cody named the four ingredients and, asked for amounts on 2026-09-08, handed the numbers to the cookbook — ***"if there's something on there you can say about these proportions, just guess."*** **The ratios above are now researched cookbook judgment rather than a bare guess** *(basis: [§4.40](#440-herbed-horseradish-sauce), Raichlen — see the note above the ingredients)*, **but this is a family recipe, and on a family recipe the family's numbers are the real ones.** Still worth asking his dad directly: how much horseradish, and whether the cream cheese or the sour cream leads. **His answer replaces everything here the day it arrives.**
+- ✅ **CLOSED 2026-09-08 — both, and the root is the better one.** The question was whether the "horseradish" Cody named meant prepared or freshly grated. His answer: ***"give the option for both, and if it's grated root, that could be pretty cool, actually."*** **So both are written into the ingredients: prepared as the everyday version, freshly grated root as the better one**, with conversion guidance and the reason it isn't a fixed conversion, under step 3. Handling the root is at [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter); [§4.40](#440-herbed-horseradish-sauce) is the other entry here that offers it either way.
+- 🗣️ **Recorded, not researched: Cody calls this an Outback-style sauce.** *"It's really a copycat of Outback's, that fresh dill, sour cream, cream cheese kind of thing."* **That's his description of the flavor he's after and it's kept as his** — no copycat page was consulted and none will be, per [CLAUDE.md §3d](CLAUDE.md). It isn't an open question; it's a note about the target.
 - **Whether anything else goes in** — no lemon, vinegar, garlic, or black pepper has been added, because he didn't name any. [§4.40](#440-herbed-horseradish-sauce) uses lemon juice and zest if you want a reference for what that would do.
 
 **Serve it with:** steak — [§3 Darcy's Steak](#3-darcys-steak), [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks), [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) — **and with pork tenderloin, per Cody**: [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared), [§7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub), [§7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin), or [§T14 How to Grill Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo).

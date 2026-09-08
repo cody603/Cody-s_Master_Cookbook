@@ -1321,7 +1321,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.18 Spaghetti](#718-spaghetti) | 🟢 | 15 min | 40 min | — | 55 min |
 | [§7.58 Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | 🟡 | 15 min | 40 min | — | 55 min |
 | [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) | 🟢 | 15 min | 40 min | — | 55 min |
-| [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) *(Meathead)* | 🟢 | 35 min | 20 min | — | 1 hr *(includes a ~20 min shrimp brine)* |
 | [§14.10 Pecan Pie II](#1410-pecan-pie-ii) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§7.140 Tandoori Chicken](#7140-tandoori-chicken) *(The Meathead Method)* | 🟢 | 10 min | 45 min | — | ~14–26 hr *(includes a 1 hr dry brine + 12–24 hr marinate)* |
@@ -1337,6 +1336,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(Meathead)* | 🟢 | 10 min | 45 min | — | ~3 hr *(includes a ~2 hr salt soak)* |
 | [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | 🟡 | 45 min | 15 min | **2¾ hr** *(braise, mostly unattended)* | 3 hr 45 min |
 | [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 40 min | — | ~2 hr *(includes about a 1 hr pickle in the fridge)* |
+| [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 25 min | 40 min | — | 1 hr 10 min |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
 | [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) *(The Meathead Method)* | 🟡 | 15 min | 45 min | **2 hr** *(smoking the water, unattended)* | ~3 hr |
 | [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
@@ -36061,83 +36061,91 @@ Serve the soup hot with a sprinkling of chopped chives.
 
 ### 8.13 Lobster Stew
 
-Transcribed from **Canal House Cooks Every Day**, p. 254. *"Ask at your fish market to have them steam and crack the lobsters just before you pick them up. If they have good fish stock, pick that up, too."*
+Transcribed from **Canal House Cooks Every Day**, p. 255 — the *december* chapter, printed directly beneath [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) on the same page. *"Ask at your fish market to have them steam and crack the lobsters just before you pick them up. If they have good fish stock, pick that up, too."*
 
-> ⚠️ **This transcription carries more uncertainty than usual** — the source photo was upside down and mirrored, which is a harder read than the angled photos this cookbook usually flags. The ingredients below are solid; the exact step order, and specifically whether the lobster shells get strained out before the potatoes and cream go in, is a reasonable reconstruction rather than a confirmed transcription. Worth a straight-on re-photo if it matters.
+> ✅ **2026-09-08 closed from Cody's straight-on photograph of p. 255.** The old transcription came from a photo that was upside down and mirrored, and its flag was right to be cautious. **Both open questions are answered, and the step order needed real fixing:**
+>
+> 1. **The shells are not strained — they're picked out.** The source's own words: *"Remove and discard the tarragon and lobster shells."* Large pieces go in whole precisely so they can be lifted back out by hand. No sieve, no straining, nothing gets pushed through.
+> 2. **The shells cook in butter alone, not in liquid.** The old entry added the wine and fish stock along with the shells. The page adds the shells **with any reserved juices** to the buttered vegetables and cooks them 10 minutes with nothing else — a dry-ish infusion into the butter. The wine and stock don't arrive until the shells are already out.
+> 3. **The cream goes in last, with the lobster meat — not with the potatoes.** The old entry had it in with the potatoes for the full 15-minute simmer. It gets 5 minutes at the very end, which is why the stew doesn't break.
+> 4. **The page citation was off by one.** This entry was credited to p. 254; p. 254 is the start of the Pickled Shrimp. This recipe is printed complete on **p. 255**.
 
 **Yield:** serves 4–6
 
-**🟡 Medium** · **Prep ~20 min** · **Cook ~35 min** · **Start to finish ~55 min**
+**🟡 Medium** · **Prep ~25 min** *(picking the lobster meat out of the shells is most of it, plus dicing potatoes, onion, and celery)* · **Cook ~40 min** *(8 min boil, 10 min with the shells, a 15 min simmer, 5 min to finish)* · **Start to finish ~1 hr 10 min** *(includes letting the lobsters cool enough to handle)*
+
+> **What earns the Medium: the last five minutes.** Nothing here is technically difficult, but the lobster meat goes in already cooked and only needs heating through — push it and you get rubber out of the most expensive thing in the pot. Same window protects the cream, which is added at the same moment and shouldn't be boiled hard.
 
 #### A. Ingredients
 
 - Two 1½-lb lobsters
-- 2–3 russet potatoes, peeled and diced
-- Salt and pepper
-- 1 cup white wine
-- 1 cup good fish stock
+- Salt
 - 4 Tbsp butter
 - 1 onion, finely chopped
 - 2 ribs celery, diced
 - 2 sprigs fresh tarragon
+- Pepper
+- 2–3 russet potatoes, peeled and diced
+- 1 cup white wine
+- 1 cup good fish stock
 - 1 cup heavy cream
 - Chopped fresh chives, for garnish
 
 #### B. Cooking Instructions
 
-**1. Kill and parboil the lobsters. About 8 minutes.**
-Plunge the tip of a large sharp knife into the heads of the lobsters, just behind the eyes. *(The source calls this "the hardest part of the whole recipe.")* Drop the lobsters into a large pot of salted boiling water over high heat and cook. Remove and set aside to cool enough to handle.
+**1. Kill and boil the lobsters. About 8 minutes.**
+Plunge the tip of a large sharp knife into the heads of the lobsters just behind the eyes. *(The source's own aside: "This is the hardest part of the whole recipe.")* Drop them into a large pot of salted boiling water over high heat and cook about 8 minutes. Remove them from the pot and set them aside until they are cool enough to handle.
 
-**2. Remove the meat, reserve the shells.**
-Cut the lobster meat into large bite-size pieces, keeping the claw meat whole. Reserve the shells and any juices.
+**2. Remove the meat, and keep the shells and the juices.**
+Remove the meat from the lobsters, **reserving the shells and any juices** — both go back into the pot later, and the juices are where a lot of the flavor is hiding. Cut the lobster into large bite-size pieces, **leaving the claw meat whole**.
 
-**3. Sauté the aromatics.**
-Melt the butter in a heavy large pot over medium-low heat. Add the onion, celery, and tarragon. Season with salt and pepper.
+**3. Sweat the vegetables in butter.**
+Melt the butter in a heavy large pot over medium-low heat. Add the onions, celery, and tarragon, and season with salt and pepper.
 
-**4. Simmer the shells for flavor. About 10 minutes.**
-Add the reserved lobster shells along with the wine and fish stock. Cover and simmer gently, stirring occasionally. Remove and discard the tarragon **and the shells** *(see the flag above — fishing the shells out here is the sensible read, but isn't confirmed word-for-word)*.
+**4. Cook the shells in the butter. 10 minutes.**
+Add the **large pieces of lobster shell along with any juices**, and cook, stirring from time to time, for 10 minutes. There is no liquid in the pot yet — this is the shells giving up their flavor into the butter, which is the whole reason to keep them.
 
-**5. Add the potatoes and cream. About 15 minutes.**
-Add the potatoes and cream, cover, and cook until the potatoes are just soft.
+**5. Pick out the tarragon and shells.**
+Remove and discard the tarragon and the lobster shells. **They are picked out, not strained** — that's why they went in as large pieces. Take a minute over it; a shard of shell in a finished bowl is unpleasant.
 
-**6. Finish with the lobster meat. About 5 minutes.**
-Add the lobster meat and its reserved juices. Adjust the seasoning and heat through gently — don't let it boil hard, or the lobster will toughen.
+**6. Add potatoes, wine, and stock, and simmer. About 15 minutes.**
+Add the potatoes, wine, and fish stock, cover, and **gently** simmer until the vegetables are just soft, about 15 minutes.
 
-**7. Serve.**
+**7. Add the cream and the lobster. About 5 minutes.**
+Add the cream and the lobster meat and cook until the lobster is **just heated through**, about 5 minutes. Not a minute more — the meat is already fully cooked from step 1, and this is the step that turns good lobster into rubber. Adjust the seasonings.
+
+**8. Serve.**
 Ladle into bowls and garnish with chopped chives.
 
 #### C. Grocery Shopping List
 
 **🏪 Specific store — fishmonger**
 
-- 🏪 Live lobsters — two, 1½ lbs each, steamed and cracked if your fish market will do it
+- 🏪 Live lobsters — two, 1½ lb each *(the source suggests having the market steam and crack them just before pickup)*
 - 🏪 Good fish stock — 1 cup, from the fish market if they have it
 
 **🛒 General grocery**
 
-- 🛒 Russet potatoes — 2–3
-- 🛒 Salt, pepper
-- 🛒 White wine — 1 cup
 - 🛒 Butter — 4 Tbsp
 - 🛒 Onion — 1
 - 🛒 Celery — 2 ribs
 - 🛒 Fresh tarragon — 2 sprigs
+- 🛒 Russet potatoes — 2 to 3
+- 🛒 White wine — 1 cup
 - 🛒 Heavy cream — 1 cup
 - 🛒 Fresh chives — for garnish
-
-#### D. Open Questions
-
-- **Whether the lobster shells are strained out before the potatoes go in isn't explicit** in what could be read from the photo — flagged above rather than guessed at silently.
-- **Worth a straight, right-side-up re-photo** given how much harder this particular page was to read than usual.
+- 🛒 Salt and pepper
 
 #### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~2,150 | 136 g | 90 g | 91 g | 10 g |
-| **Per serving** *(serves 5)* | ~430 | 27 g | 18 g | 18 g | 2 g |
+| **Whole dish** | ~2,150 | 134 g | 82 g | 125 g | 11 g |
+| **Per serving** *(serves 5, midpoint of 4–6)* | ~430 | 27 g | 16 g | 25 g | 2.2 g |
 
-**What a serving is:** a generous 1½-cup bowl with plenty of lobster meat.
+**What a serving is:** a generous 1½-cup bowl — a normal soup bowl with a good share of the lobster meat and a few pieces of potato in it.
+
+*The cup of cream and the 4 Tbsp of butter carry essentially all the fat; the potatoes carry the carbs. Two 1½-lb lobsters yield only about ¾ lb of meat between them, which is what these protein numbers are built on — the shells go in for flavor and come straight back out.*
 
 [↑ Table of Contents](#table-of-contents)
 

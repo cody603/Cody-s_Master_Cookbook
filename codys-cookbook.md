@@ -23493,6 +23493,8 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min** *(two skillets going at once — all of it attended)*
 
+> ✅ **Cooked and validated, 2026-09-08. Cody's daughter made this straight off the method as written in this cookbook, and it came out perfectly.** That's the strongest evidence any entry in the book has — not a transcription checked against a card, but a real cook in a real kitchen following these steps and getting the dish. **Treat the instructions below as proven.** It also settles the practical worry behind the open question: whatever the card leaves unsaid about the sauce, following steps 1–7 as written works.
+
 #### A. Ingredients
 
 - 1 lb crawfish tails or shrimp
@@ -23560,7 +23562,9 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 #### D. Open Questions
 
 - ~~"Capt. Mike's" appears on the card as the seasoning brand — worth confirming exactly which product this is.~~ **Settled 2026-08-09 — it isn't a store brand at all.** Cody identified it as a blend: onion and garlic salt, white pepper, cayenne, black pepper, sweet basil, bay leaf, oregano, and thyme, with the **white pepper** as its defining note. Now documented at **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)** — no store trip needed. *(Proportions still aren't recorded — that's an open question on §4.7 now.)*
-- No cook time given for the sauce itself once combined — confirm whether it needs a simmer to thicken further, or if it's ready as soon as the cream is added.
+- 🔁 **Still open, and deliberately re-posed 2026-09-08.** Asked again; Cody doesn't know the answer himself and said *"ask me that question again, I guess"* — so it stays on the list rather than being closed. **Partial evidence in hand:** his daughter cooked the recipe exactly as written above and it came out perfectly, so the method is not broken as it stands. What's still missing is the number.
+  - **The question, precisely: after step 4 — once all the half & half is in and the sauce has come together — does the sauce need to simmer to thicken further before the crawfish goes in, or is it done the moment the cream is incorporated?** And if it does simmer: **for how many minutes, at what heat, and how do you know it's thick enough — does it coat the back of a spoon, or should it hold a line when you drag a finger through it?**
+  - *Ask it that way next time. A yes/no plus a number is all this entry needs to close.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -23595,8 +23599,10 @@ Season the chicken breasts with salt and pepper, then dredge them in flour.
 **2. Sauté in 2 oz. of the margarine.**
 Cook until browned outside and cooked through, then remove the chicken from the pan and set aside.
 
-**3. Deglaze the pan and warm the crabmeat.**
-Add the remaining 1 oz. margarine to the pan. Deglaze with the sherry, scraping up anything stuck to the bottom, then add the garlic in oil and green onion for a moment before stirring in the crabmeat. Heat the crabmeat through and pull the pan off the heat — it just needs to warm, not cook further.
+**3. Deglaze the pan, bloom the aromatics 30 seconds, then warm the crabmeat 1–2 minutes.**
+Add the remaining 1 oz. margarine to the pan. Deglaze with the sherry, scraping up anything stuck to the bottom, then add the garlic in oil and the green onion and give them about **30 seconds** — no more — before stirring in the crabmeat. Heat the crabmeat through for **1–2 minutes** and pull the pan off the heat; it just needs to warm, not cook further, and every extra stir breaks jumbo lump into shreds.
+
+*Why here, and why so brief: garlic in oil is already cooked and suspended in fat, so it only needs to warm — hold it in a hot pan and it turns bitter. Green onion is a finishing allium; past a minute it goes limp and gives up the fresh bite it was added for. And the crab goes in dead last because it's the one thing in the pan that can only get worse with heat.*
 
 **4. Plate and top.**
 Place the chicken on a dinner plate, spoon the crabmeat mixture over the top, then top with the hollandaise sauce.
@@ -23635,7 +23641,7 @@ Sprinkle chopped parsley over the top and serve.
 
 #### D. Open Questions
 
-- The card lists garlic in oil and green onion as ingredients but doesn't say exactly when they go in — Step 3 above places them with the deglaze, which is the standard spot, but worth confirming with Cody.
+- ✅ **2026-09-08 per Cody ("use your judgment — I have no idea") — closed as cookbook judgment.** The card never says when the garlic in oil and green onion go in; **step 3 is now the answer**: into the deglazed pan, about 30 seconds, immediately before the crabmeat, which then warms for 1–2 minutes. **This is the cookbook's call, not the card's.** Reasoned from the butter-sauce sequence in **Chef Paul Prudhomme's *Louisiana Kitchen*** as transcribed at [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) — aromatics into the fat first, seafood in last and only long enough to heat through — and from this book's own [§7.13 Crawfish Elegante](#713-crawfish-elegante), which builds its sauce the same way. If Cody ever recalls the Court of Two Sisters order differently, his version supersedes this.
 
 [↑ Table of Contents](#table-of-contents)
 

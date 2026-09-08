@@ -205,6 +205,7 @@ Click any recipe to jump straight to it.
   - [4.184 Mexican Fish Baste](#4184-mexican-fish-baste) ✅ *(Raichlen, The Barbecue! Bible p. 509, Mexico — sour orange or lime, salt, garlic; no cooking; added 2026-09-07)*
   - [4.185 Teriyaki Brinerade and Sauce](#4185-teriyaki-brinerade-and-sauce) ✅ *(The Meathead Method p. 175 — the sauce for [§7.130 Beef Back Ribs](#7130-beef-back-ribs) and a dip for [§7.139](#7139-extra-crispy-chicken-wings-without-frying); distinct from the earlier book's [§4.175](#4175-teriyaki-sauce); added 2026-09-07 from the reshoot)*
   - [4.186 Thai Sweet Chile Sauce (Nam Jim Kai)](#4186-thai-sweet-chile-sauce-nam-jim-kai) ✅ *(The Meathead Method pp. 200–202 — the sweet-hot Thai dipping sauce; the fourth of the five sauces [§7.139](#7139-extra-crispy-chicken-wings-without-frying) names; completed 2026-09-07 from Cody's photographs of pp. 201–202)*
+  - [4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen p. 268 — the source's own raw-egg blender mayonnaise, the component [§9.10 Crabmeat Avery](#910-crabmeat-avery) calls for; names four flavored versions not yet transcribed; added 2026-09-08)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -954,6 +955,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.73 Jus Lié (Starch-Thickened Brown Sauce)](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) | 🟢 | 2 min | 8 min | — | 10 min |
 | [§4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise) | 🟡 | 10 min | — | — | 10 min |
+| [§4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise) | 🟡 | 10 min | — | — | 40 min *(includes a 30 min chill)* |
 | [§4.163 Rouille (Pepper Mayonnaise)](#4163-rouille-pepper-mayonnaise) | 🟢 | 10 min | — | — | 2–3 hr *(includes "a few hours" of chilling, per the page)* |
 | [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) | 🟢 | 10 min | — | — | 20 min *(includes a 10 min stand)* |
 | [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) | 🟢 | 10 min | — | — | 10 min |
@@ -13451,6 +13453,80 @@ Once it has aged a day, taste it and adjust: red pepper flakes for more heat, mo
 **What a serving is:** 2 tablespoons — a small dipping bowl beside a plate of wings or fried food, or a spoonful drizzled over slaw or an egg. It is a condiment, and the whole 2-cup batch is meant to live in the fridge for months, not be eaten at one sitting.
 
 ✅ 2026-09-07 transcribed and verified against Cody's photograph of pp. 201–202 — MAKES/TAKES/SPECIAL TOOLS, all five ingredient lines, the OPTIONAL line, Steps 1–5, and the About the Peppers / About the Vinegar / About the Cornstarch sidebars all read at native resolution and cropped for confirmation. **The 1 cup water genuinely is absent from the printed ingredient list** and appears only inside Step 2; that is the page's own omission, flagged in the Ingredients list above rather than silently normalized.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 4.187 Homemade Mayonnaise
+
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — book **p. 268**, from the same photographed batch as [§4.22 Mustard Sauce](#422-mustard-sauce) and [§4.23 Remoulade Sauce](#423-remoulade-sauce). This is the source's own base mayonnaise, and it is the one [§9.10 Crabmeat Avery](#910-crabmeat-avery) has been calling for by page number ever since it was written up — that entry stood in store-bought mayonnaise because this page hadn't been photographed. It has now, so the stand-in is optional rather than necessary.
+
+> **The source's own NOTE on the flavored mayonnaises that follow it**, folded in here because it explains what the recipe is *for*: the flavored versions are unconventional and not the way things were done in the past. There are endless uses for them — from a lowly sandwich or tuna salad to the finest seafood. Prudhomme calls them superb on sandwiches; his kitchen uses them on po boy sandwiches made with French bread and various fillings. The unusual combinations he singles out as terrific are **Oyster Mayonnaise on roast beef**, **Garlic Mayonnaise on oyster or shrimp po boys**, **Beef Mayonnaise on ham sandwiches or po boys**, and **Shrimp Mayonnaise on cold roast lamb sandwiches**. They also make great dips, and suit any salad that calls for a mayonnaise dressing.
+
+> **📌 Those four flavored mayonnaises are named here but not transcribed** — they run on pages that have not been photographed. They are tracked in [§12 Recipes To Document](#12-recipes-to-document). A separate garlic mayonnaise from a different book is already in this cookbook at [§4.161 Aioli](#4161-aioli-garlic-mayonnaise); it is *not* Prudhomme's Garlic Mayonnaise and shouldn't be substituted for it without saying so.
+
+> ⚠️ **Raw egg — cookbook safety note, not from the page.** This mayonnaise is never cooked; the whole egg goes in raw and stays raw. Keep it **refrigerated and eat it within a few days** — treat it like fresh dairy, not like a jar of store mayonnaise, which is made with pasteurized egg and acidified to sit on a shelf. **Use pasteurized eggs** (sold in the shell at most groceries) if it's being served to **anyone pregnant, elderly, very young, or immunocompromised**; they behave identically in the blender. The 1 tablespoon of vinegar helps but does not make the egg safe.
+
+**Makes about 2 cups**
+
+**🟡 Medium** · **Prep ~10 min** · **Cook none** · **Start to finish ~40 min** *(includes a 30 min chill)*
+
+> **Why Medium — it's an emulsion, and an emulsion can break.** Nothing here scorches and nothing overcooks, but forcing a cup and a half of oil into one egg is a real technique with a real failure mode: pour the oil too fast and it won't disperse, and instead of a thick pale sauce you get a thin, greasy, curdled split. **"A thin, steady stream" is the whole recipe** — the machine has to keep up with the oil. Same reasoning as [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise), which is Medium for exactly this step; if it does break, the fix is at [§T16 How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one).
+
+**Techniques used:** [§T16 How to Make a Mayonnaise (and Fix a Broken One)](#t16-how-to-make-a-mayonnaise-and-fix-a-broken-one)
+
+**Used in:** [§9.10 Crabmeat Avery](#910-crabmeat-avery) *(6 Tbsp, in all)*
+
+#### A. Ingredients
+
+- 1 large egg, **or** 1 small egg plus 1 egg yolk
+- 1½ cups vegetable oil
+- 1 Tbsp cider vinegar
+- 1 tsp Tabasco sauce, **optional**
+- ½ tsp salt
+- ½ tsp white pepper
+
+#### B. Cooking Instructions
+
+**1. Put the egg in a food processor or blender and blend about 30 seconds.**
+Whole egg, or the small egg plus the extra yolk if that's what you have. Thirty seconds is enough to get it foamy and evenly broken up — that's the base the oil has to grab onto, so don't skip it and start pouring into an unbeaten egg.
+
+**2. With the machine running, slowly add the oil in a thin, steady stream.**
+This is the step that makes or breaks it, literally. Thin and steady — not a glug, not a pause-and-dump. If you pour faster than the blade can disperse it, the oil pools on top and the emulsion never forms. Watch the mixture rather than the clock: it goes from loose and yellow to noticeably **thick and creamy**, and it will pale as it thickens. A cup and a half is a lot of oil to stream in; expect this to take a couple of minutes and don't rush the front half, which is where breaks happen.
+
+**3. When the mixture is thick and creamy, add the vinegar and blend about 30 seconds.**
+The vinegar thins it back down slightly and brightens it. Add it only once the emulsion has actually set up — acid poured into a still-loose mixture is one more way to lose it.
+
+**4. Add the Tabasco, salt and white pepper, and process until well blended, about 1 minute, pushing the sides down once or twice with a rubber spatula.**
+The Tabasco is optional; the source's phrasing is that it's there **"if you want a Louisiana touch."** A full teaspoon is more than it sounds like in a plain mayonnaise, so leave it out for a neutral spread and put it in when the mayonnaise is going on a po boy or into a seafood dish. Scrape the sides down at least once — unmixed oil clings up there and streaks the finished sauce.
+
+**5. Refrigerate at least 30 minutes before serving.**
+It firms up as it chills and the seasoning settles in. Not optional if you want it to spread like mayonnaise rather than pour like dressing.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 1 large *(or 1 small plus 1 extra for the yolk)*; **pasteurized in-shell eggs** if serving anyone in the at-risk groups above
+- 🛒 Vegetable oil — 1½ cups
+- 🛒 Cider vinegar — 1 Tbsp
+- 🛒 Tabasco sauce — 1 tsp *(optional)*
+- 🛒 Salt — ½ tsp
+- 🛒 White pepper — ½ tsp
+
+#### Nutrition *(estimated)*
+
+*The page prints no nutrition numbers, so these are built from the ingredient list. It is essentially all oil — 1½ cups of it — and the arithmetic reflects that.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(about 2 cups)* | ~2,955 | 331 g | 6 g | 1 g | 0 g |
+| **Per serving** *(1 Tbsp, of about 32)* | ~92 | 10 g | <1 g | 0 g | 0 g |
+
+**What a serving is:** **1 tablespoon** — what you'd actually spread on one side of a sandwich, or the ⅓-of-a-batch-per-person it is *not*. The whole 2 cups is a jar that lives in the fridge for a few days, not a portion. *Nothing is lost in cooking here — everything in the bowl gets eaten — so the whole-batch figures are the honest total.*
+
+✅ 2026-09-08 transcribed and verified against Cody's photograph of p. 268 — running head *Chef Paul Prudhomme's Louisiana Kitchen* and footer **268** both confirmed; all six ingredient lines, the *Makes about 2 cups* yield, the full method paragraph, and the flavored-mayonnaise NOTE read at native resolution and cropped for confirmation.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -38902,7 +38978,7 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p.
 - ⅓ cup finely chopped green bell peppers
 - ¼ cup finely chopped green onions
 - ½ tsp minced garlic
-- 6 Tbsp Homemade Mayonnaise, **in all** — *page 268 of the source; not in this cookbook, store-bought works*
+- 6 Tbsp Homemade Mayonnaise, **in all** — **[§4.187](#4187-homemade-mayonnaise)**, the source's own, from its p. 268 *(added 2026-09-08; good store-bought mayonnaise still works)*
 - 4 tsp Creole mustard (preferred) or brown mustard
 - 2 tsp finely chopped fresh parsley
 - 2 tsp Worcestershire sauce
@@ -38947,7 +39023,7 @@ Serve immediately.
 - 🛒 Unsalted butter — 2½ Tbsp
 - 🛒 Onions, celery, green bell peppers, green onions
 - 🛒 Garlic
-- 🛒 Mayonnaise — 6 Tbsp *(store-bought stands in for the source's own Homemade Mayonnaise, page 268)*
+- 🛒 Mayonnaise — 6 Tbsp *(or make the source's own — **[§4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise)**, p. 268; store-bought stands in fine)*
 - 🛒 Creole mustard (preferred) or brown mustard
 - 🛒 Fresh parsley
 - 🛒 Worcestershire sauce, salt, ground red pepper (cayenne), Tabasco sauce, white pepper, black pepper
@@ -38971,7 +39047,7 @@ Serve immediately.
 - **The egg is never used.** It's in the ingredient list but the printed instructions don't call for adding it anywhere. Possibilities: whisked into the mayonnaise before it's used, added to the crab mixture before baking (a binder, common in crab cake-style dishes), or a genuine card/print error. Transcribed as printed rather than guessed into a step.
 - **Cream quantity is short for the method.** "1 Tbsp per ramekin" across 8 ramekins needs ½ cup; the list gives ⅓ cup (about 5 Tbsp). Either the per-ramekin amount is closer to 2 tsp, or the total should be larger — worth confirming against the actual page.
 - ⚠️ **The page citation on this entry doesn't match what's actually on those pages — flagged 2026-09-08, not guessed at.** This entry is credited to *Appetizers*, **pp. 286–287**. Cody's 2026-09-08 photographs include **p. 286, and p. 286 is the Remoulade Sauce** ([§4.23](#423-remoulade-sauce)) — its full ingredient list and method fill the page, with no Crabmeat Avery on it. So the "286" half of this citation is wrong. The likeliest reading is that Crabmeat Avery begins on **p. 287** and runs onto p. 288, since [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) occupies p. 285 and its sauce p. 286 — but **neither p. 287 nor p. 288 has ever been photographed**, so the correct range is not being written in on inference. The citation stands as originally recorded until a photo of p. 287 settles it. *(This does not put the recipe itself in doubt — the ingredients and steps came from the original photograph of the recipe; it's the page numbers attached to them that don't line up.)*
-- **Homemade Mayonnaise (page 268)** isn't in this cookbook. Good store-bought mayonnaise is a reasonable stand-in for now. 📌 **Update 2026-09-08: the page has now been photographed** — Cody's batch of this date includes source **p. 268, Homemade Mayonnaise** (*Makes about 2 cups*; 1 large egg or 1 small egg plus a yolk, 1½ cups vegetable oil, 1 Tbsp cider vinegar, optional 1 tsp Tabasco, ½ tsp each salt and white pepper, blended in a food processor). It was **deliberately not written up in that pass**, which was a corrections-only pass; it is a new entry for the next one. This flag stays open only until then.
+- ✅ **Homemade Mayonnaise (page 268) is now in this cookbook — closed 2026-09-08.** It is **[§4.187](#4187-homemade-mayonnaise)**, transcribed and verified against Cody's photograph of p. 268. This entry's ingredient line and grocery line now point at it. Good store-bought mayonnaise remains a fine substitute; it is no longer a *gap*, just a choice.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41323,8 +41399,9 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | [**Thai Sweet Chile Sauce (Nam Jim Kai)**](#4186-thai-sweet-chile-sauce-nam-jim-kai) | ***The Meathead Method***, **book pp. 200–202.** Identified 2026-09-07 from the reshoot of p. 200, which carried only the headnote. **Closed the same day:** Cody photographed **pp. 201–202**, which supply the MAKES/TAKES/SPECIAL TOOLS line, all five ingredients plus the OPTIONAL red pepper flakes, Steps 1–5, and the About the Peppers / Vinegar / Cornstarch sidebars. Written up in full at **[§4.186](#4186-thai-sweet-chile-sauce-nam-jim-kai)**. One quirk worth keeping on the record: **the page prints 1 cup of water only inside Step 2, never in its ingredient list** — the entry lists it and says so. *(The top of p. 200 is the tail of the Orange Tuscan-Style Board Sauce, which Cody dropped on 2026-09-06 — it stays dropped.)* | ✅ Complete — §4.186 |
 | [**Close Proximity Smoked Fish with Poblano-Basil Cream Sauce**](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) | ***The Meathead Method***, **book pp. 308–310.** The dish the source names as the showcase for [§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce). **Cody wanted it (2026-09-07) and closed it the same day** — he photographed pp. 308, 309, and 310, which together carry the headnote, MAKES/TAKES, SPECIAL TOOLS, the ingredient list, and all four steps. Written up in full at **[§7.148](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce)**. Still open from these pages: the **Black Garlic Butter (book p. 186)** named as an alternative to the cream sauce, which has never been photographed. | ✅ Complete — §7.148 |
 | **Salmon Candy** | ***The Meathead Method***, **book p. 308.** **Identified 2026-09-07** from Cody's photograph of p. 308, alongside [§7.148](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce). **It is not a standalone recipe — it is a variation instruction**, printed in full and transcribed here so nothing is lost: *prep the **Charter Boat Smoked Fish** (book p. 306) using salmon; just before the fish goes into the smoke, sprinkle a layer of [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) (book p. 165) over it — the sugar and the flavors work superbly with salmon. Another option is to sprinkle brown sugar on it, or paint it with maple syrup, before the cook and once or twice during it. The method is a winner for all types of salmon but especially terrific with rich, fatty king, coho, and sockeye.* **⚠️ The base recipe it modifies — Charter Boat Smoked Fish, book p. 306 — has never been photographed**, so there is no method to attach this to and it cannot be written up. **No placeholder entry has been created**, deliberately: a variation with no recipe under it is not a recipe. **One photo of book p. 306 closes this** and would give two entries at once. | Identified — variation captured; needs p. 306 for the base recipe |
-| **Homemade Mayonnaise** | ***Chef Paul Prudhomme's Louisiana Kitchen*, book p. 268.** The source's own mayonnaise, named as a component by **[§9.10 Crabmeat Avery](#910-crabmeat-avery)** (6 Tbsp, *in all*), which has been standing in store-bought since it was added. **Identified and photographed 2026-09-08** — the page is in hand and legible: *Makes about 2 cups*; 1 large egg (or 1 small egg plus 1 egg yolk), 1½ cups vegetable oil, 1 Tbsp cider vinegar, 1 tsp Tabasco sauce (optional — the source calls it "a Louisiana touch"), ½ tsp salt, ½ tsp white pepper; blended in a food processor, oil streamed in, about 1 minute of final processing. **Deliberately not written up in the 2026-09-08 pass, which was corrections-only by design** — nothing about it is missing, and it is a straightforward add whenever the next batch goes in. | Photographed — ready to write up |
+| [**Homemade Mayonnaise**](#4187-homemade-mayonnaise) | ***Chef Paul Prudhomme's Louisiana Kitchen*, book p. 268.** The source's own mayonnaise, named as a component by **[§9.10 Crabmeat Avery](#910-crabmeat-avery)** (6 Tbsp, *in all*), which stood in store-bought from the day it was added. **Photographed and closed 2026-09-08:** written up in full at **[§4.187](#4187-homemade-mayonnaise)** — *Makes about 2 cups*; 1 large egg (or 1 small egg plus 1 egg yolk), 1½ cups vegetable oil, 1 Tbsp cider vinegar, 1 tsp Tabasco (optional — the source's "Louisiana touch"), ½ tsp salt, ½ tsp white pepper, blended in a food processor with the oil streamed in. §9.10's ingredient and grocery lines now point at it. | ✅ Complete — §4.187 |
 | **Crabmeat Avery, source pp. 287–288** | ***Chef Paul Prudhomme's Louisiana Kitchen*.** Not a missing recipe — **[§9.10](#910-crabmeat-avery) is already written up in full** from an earlier photograph. What's open is only its **page citation**: the entry is credited to pp. 286–287, but the 2026-09-08 batch shows **p. 286 is the Remoulade Sauce**, so that range can't be right. p. 287 (and probably 288) has never been photographed. **One photo of p. 287 settles the citation** and would very likely also resolve §9.10's two standing content puzzles — the egg that no step ever uses, and the ⅓ cup of cream that doesn't cover 8 ramekins at 1 Tbsp each. | Recipe complete; page citation unconfirmed |
+| **Oyster, Garlic, Beef and Shrimp Mayonnaise** *(four flavored mayonnaises)* | ***Chef Paul Prudhomme's Louisiana Kitchen*, pages after p. 268 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** The NOTE printed under **[§4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise)** introduces four flavored versions built on it and gives the pairings he likes — **Oyster Mayonnaise on roast beef, Garlic Mayonnaise on oyster or shrimp po boys, Beef Mayonnaise on ham sandwiches or po boys, Shrimp Mayonnaise on cold roast lamb** — but the recipes themselves run on the pages that follow, and **none of those pages is in any photographed batch.** All that is known is the names, the pairings, and that they start from §4.187. **Not a substitution problem to solve by inference:** [§4.161 Aioli](#4161-aioli-garlic-mayonnaise) is a garlic mayonnaise from a different book and is not Prudhomme's. Needs a photo of the pages immediately after p. 268. | 📷 Needs the source pages |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.

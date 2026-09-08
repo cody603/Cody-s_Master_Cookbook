@@ -375,7 +375,7 @@ Click any recipe to jump straight to it.
 - [7.53 Pasta Puttanesca](#753-pasta-puttanesca) ✅
 - [7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) ✅
 - [7.55 Braised Beef-Pot Roast — Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) ✅
-- [7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) ○ *(incomplete — finishing steps not photographed)*
+- [7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) ✅
 - [7.57 Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) ✅
 - [7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken) ✅
 - [7.59 Mediterranean Pork Tenderloin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
@@ -1407,6 +1407,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
+| [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 25 min | 1 hr 15 min | — | 1 hr 40 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§8.27 Green Gumbo](#827-green-gumbo) | 🟡 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
 | [§8.10 Warm Beet Soup](#810-warm-beet-soup) | 🟢 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
@@ -1439,7 +1440,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🟡 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
 | [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | 12 min *(10–15 min bake, printed)* | — | *unknown — recipe incomplete, see Open Questions* |
-| [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 20 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) | 🟢 | ? | ? | — | *unknown — recipe incomplete, see Open Questions* |
 
 ### Reading this table
@@ -1460,7 +1460,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 *Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
 
-*[§14.3 Classic Tuiles](#143-classic-tuiles), [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon), and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so all three are excluded from every count and total in this section until the rest of each recipe arrives.*
+*[§14.3 Classic Tuiles](#143-classic-tuiles), [§15.3 Basic Biscuits](#153-basic-biscuits-cheese-or-bacon-variation), and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so all three are excluded from every count and total in this section until the rest of each recipe arrives.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -27098,9 +27098,9 @@ Remove the vegetables with a slotted spoon and arrange them around the meat. Dec
 
 ### 7.56 Coq au Vin (Chicken in Red Wine with Onions, Mushrooms, and Bacon)
 
-Transcribed from **Mastering the Art of French Cooking**, Chapter Six: Poultry, p. 263–264. *"This popular dish may be called coq au Chambertin, coq au riesling, or coq au whatever wine you use for its cooking. It is made with either white or red wine, but the red is more characteristic. In France it is usually accompanied only by parsley potatoes; buttered green peas could be included if you wish a green vegetable. Serve with it a young, full-bodied red Burgundy, Beaujolais, Côtes du Rhône, or Chianti."*
+Transcribed from **Mastering the Art of French Cooking**, Chapter Six: Poultry, p. 263–265. *"This popular dish may be called coq au Chambertin, coq au riesling, or coq au whatever wine you use for its cooking. It is made with either white or red wine, but the red is more characteristic. In France it is usually accompanied only by parsley potatoes; buttered green peas could be included if you wish a green vegetable. Serve with it a young, full-bodied red Burgundy, Beaujolais, Côtes du Rhône, or Chianti."*
 
-> ⚠️ **This transcription is incomplete.** Everything through browning the chicken, flambéing it with cognac, and the 25–30 minute wine simmer is confirmed from the photographed pages. The recipe's own finishing steps — straining and degreasing the braising liquid, thickening it, and reassembling it with the chicken, onions, and mushrooms to serve — aren't shown; the next page photographed (265) turns out to belong to a different recipe, *Chicken Fricassee*, not this one. Written up as far as the source goes; see Open Questions.
+> ✅ **2026-09-08 closed from Cody's photograph of pp. 264–265: the entire finishing half of the recipe.** The reduction to 2¼ cups, the beurre manié, the arrangement with the onions and mushrooms, the source's own (*) make-ahead note, and the reheat-and-serve step are all now transcribed from the page. **The earlier pass's doubt about p. 265 is resolved and was mistaken:** that page's running head does read *CHICKEN FRICASSEE* — it is the book's section running head for this stretch of the poultry chapter — but the text on it is a direct, untitled continuation of this recipe from p. 264, which breaks off mid-method at "prepare the onions and mushrooms." The page's own content settles it: it discards **the bay leaf** this recipe adds, arranges **the mushrooms and onions** this recipe calls for, and finishes with **sprigs of parsley**, the last ingredient in this recipe's own list. Nothing on it belongs to another dish. The ⚠️ incomplete flag and the provisional difficulty are removed accordingly.
 
 > **This is the third of this cookbook's three wine-braises from the same book, and the source itself groups them.** [§T24](#t24-the-french-sauce-families--roux-ratios)'s own note on *Sauce Bourguignonne* names *"boeuf bourguignon and coq au vin"* as its two examples, citing this exact recipe's page (263) directly. Compare [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) — same bacon-onion-mushroom-in-red-wine family, chicken instead of beef.
 
@@ -27108,13 +27108,15 @@ Transcribed from **Mastering the Art of French Cooking**, Chapter Six: Poultry, 
 
 **Yield:** for 4 to 6 people
 
-**🟡 Medium** *(provisional — see Open Questions)* · **Prep ~20 min** · **Cook — at least 45 min confirmed** *(blanching and browning the bacon, browning the chicken, flambéing, then a 25–30 min simmer)*; **finishing steps not yet known**
+**🟡 Medium** · **Prep ~25 min** *(cutting the bacon into lardons, drying and seasoning the chicken, mashing the garlic, blending the beurre manié; the onions and mushrooms get prepped during the braise, so they don't add to this)* · **Cook ~1 hr 15 min** *(10 min blanching the bacon, browning the bacon and chicken, 10 min covered, the flambé, a 25–30 min simmer, then the reduction and beurre manié finish)* · **Start to finish ~1 hr 40 min** *(the source's own (\*) note lets you stop after the sauce is made and hold it indefinitely — see step 12)*
+
+> **Why 🟡 Medium and not 🔴 — the beurre manié is not a roux you can burn.** Flour and softened butter are blended cold into a paste and beaten straight into hot liquid; nothing browns, nothing sits over heat, and the whole thing simmers one or two minutes. Per [the roux tiers](#difficulty--time-index), a blond thickener like this isn't a Hard-earning step at all, so the rating comes from the rest of the recipe — and two steps there do have real windows. **The cognac flambé** is a one-shot step with an open flame and a face to avert. **The reduction to a specific 2¼ cups** is a hard boil you have to stand over; walk away and it goes past the target, gets salty, and eventually scorches on the bottom. Neither ruins the dish the way a dark roux does — an over-reduced sauce can be let back down with stock — so this lands at Medium, exactly where the same source's [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) sits for much the same reason.
 
 #### A. Ingredients
 
 - A 3- to 4-oz chunk of lean bacon
 - 2 Tbsp butter
-- 2½ to 3 lb cut-up chicken
+- 2½ to 3 lb cut-up frying chicken
 - ½ tsp salt
 - ⅛ tsp pepper
 - ¼ cup cognac
@@ -27124,25 +27126,28 @@ Transcribed from **Mastering the Art of French Cooking**, Chapter Six: Poultry, 
 - 2 cloves mashed garlic
 - ¼ tsp thyme
 - 1 bay leaf
-- 12 to 24 small onions, brown-braised in stock *(source p. 483 — not yet transcribed)*
-- ½ lb mushrooms, sautéed in butter *(source p. 513 — not yet transcribed)*
+- 12 to 24 small onions, brown-braised in stock *(source p. 483 — named but not transcribed)*
+- ½ lb mushrooms, sautéed in butter *(source p. 513 — named but not transcribed)*
+- Salt and pepper, to correct the seasoning at the end
+- 3 Tbsp flour
+- 2 Tbsp softened butter
 - Sprigs of fresh parsley, for garnish
 
-**You'll need:** a heavy, 10-inch fireproof casserole, or an electric skillet.
+**You'll need:** a heavy, 10-inch fireproof casserole, or an electric skillet. For the beurre manié, the source also lists a saucer, a rubber spatula, and a wire whip.
 
-#### B. Cooking Instructions *(as far as the photographed pages go)*
+#### B. Cooking Instructions
 
 **1. Blanch and cut the bacon. 10 minutes.**
 Remove the rind and cut the bacon into lardons — rectangles about ¼ inch across and 1 inch long. Simmer 10 minutes in 2 quarts of water, then rinse in cold water and dry.
 
 **2. Brown the bacon.**
-Sauté the bacon slowly in the hot butter until lightly browned — about 260°F if using an electric skillet. Remove to a side dish.
+Sauté the bacon slowly in the hot butter until it is *very* lightly browned — 260°F if you're using an electric skillet. Remove it to a side dish; the fat stays in the pan and browns the chicken next.
 
 **3. Brown the chicken.**
-Dry the chicken thoroughly and brown it in the hot bacon fat in the casserole. Season with the salt and pepper.
+Dry the chicken thoroughly — wet skin steams instead of browning — and brown it in the hot fat in the casserole, 360°F for an electric skillet.
 
-**4. Cook covered with the bacon. 10 minutes.**
-Return the bacon to the casserole with the chicken. Cover and cook slowly for 10 minutes, turning the chicken once.
+**4. Season, return the bacon, and cook covered. 10 minutes.**
+Season the chicken with the salt and pepper. Return the bacon to the casserole with it, cover, and cook slowly — 300°F — for 10 minutes, turning the chicken once.
 
 **5. Flambé with cognac.**
 Uncover and pour in the cognac. Averting your face, ignite it with a lighted match. Shake the casserole back and forth for several seconds until the flames subside.
@@ -27151,9 +27156,25 @@ Uncover and pour in the cognac. Averting your face, ignite it with a lighted mat
 Pour in the wine and add just enough stock or bouillon to cover the chicken. Stir in the tomato paste, garlic, thyme, and bay leaf. Bring to a simmer, cover, and simmer slowly for 25 to 30 minutes, until the chicken is tender and its juices run clear yellow when pricked with a fork. Remove the chicken to a side dish.
 
 **7. Meanwhile, prepare the onions and mushrooms.**
-While the chicken cooks, prepare the brown-braised onions and sautéed mushrooms. Set aside until needed.
+While the chicken cooks, prepare the brown-braised onions and sautéed mushrooms. Set aside until needed. This is dead time in the braise, so it costs you nothing extra.
 
-*(The recipe's own finishing steps — straining and reducing the sauce, and reassembling it with the chicken and garnish — aren't transcribed yet; see Open Questions.)*
+**8. Skim and reduce the cooking liquid. Down to about 2¼ cups.**
+Simmer the liquid left in the casserole for a minute or two, skimming the fat off the top. Then raise the heat and boil it rapidly, reducing it to **about 2¼ cups**. Stand over this — it's a hard boil against a fixed target, and past that point the sauce turns salty and will eventually catch on the bottom. If you overshoot, let it back down with a little stock rather than pressing on. Correct the seasoning with salt and pepper, take it off the heat, and discard the bay leaf.
+
+**9. Blend the beurre manié.**
+On a saucer, blend the 3 Tbsp flour and 2 Tbsp softened butter together with a rubber spatula into a smooth paste — that paste is the *beurre manié*. It's raw: nothing browns, nothing goes over heat, and there's no way to burn it. This is the blond end of the thickener family, not a roux you can ruin.
+
+**10. Beat it into the sauce and simmer. 1 to 2 minutes.**
+Beat the paste into the hot liquid with a wire whip. Bring back to a simmer, stirring, and simmer a minute or two. **The sauce should be thick enough to coat a spoon lightly** — that's the doneness cue, not a clock.
+
+**11. Arrange the dish and baste.**
+Put the chicken back in the casserole, place the mushrooms and onions around it, and baste everything with the sauce.
+
+**12. (\*) To hold it — the source's own make-ahead.**
+If the dish isn't going to be served right away, film the top of the sauce with a little stock, or dot it with small pieces of butter, and set it aside **uncovered**. The source's words: *it can now wait indefinitely.* The film is what matters — it keeps a skin from forming on the sauce.
+
+**13. Reheat and serve. 4 to 5 minutes.**
+Shortly before serving, bring it to a simmer, basting the chicken with the sauce. Cover and simmer slowly 4 to 5 minutes, until the chicken is hot through. Serve straight from the casserole or arrange on a hot platter, and decorate with sprigs of parsley.
 
 #### C. Grocery Shopping List
 
@@ -27164,7 +27185,8 @@ While the chicken cooks, prepare the brown-braised onions and sautéed mushrooms
 
 **🛒 General grocery**
 
-- 🛒 Butter — 2 Tbsp
+- 🛒 Butter — 4 Tbsp total *(2 Tbsp for browning the bacon, 2 Tbsp softened for the beurre manié)*
+- 🛒 Flour — 3 Tbsp
 - 🛒 Cognac — ¼ cup
 - 🛒 Young, full-bodied red wine — 3 cups (Burgundy, Beaujolais, Côtes du Rhône, or Chianti)
 - 🛒 Brown chicken stock, brown stock, or canned beef bouillon — 1 to 2 cups
@@ -27175,20 +27197,23 @@ While the chicken cooks, prepare the brown-braised onions and sautéed mushrooms
 - 🛒 Mushrooms — ½ lb
 - 🛒 Fresh parsley — for garnish
 
-#### D. Open Questions
+#### D. Still Open
 
-- **The finishing steps are missing entirely.** Everything after "prepare the onions and mushrooms" — straining and degreasing the braising liquid, thickening it, reassembling with the chicken and garnish, and serving — isn't in the photographed pages. The next page photographed (265) is a different recipe (*Chicken Fricassee*), so its similar-looking beurre-manié-and-cream finish was **not** assumed to belong here.
-- **Difficulty is provisional**, rated to match [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and [§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) on the assumption the finish is a reduction, not a roux — worth revisiting once the missing page arrives.
-- **A likely next step, offered only as informed context, not source text:** this cookbook's own [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) finishes its nearly identical braise by straining the liquid, skimming fat, reducing it to a light sauce, and recombining it with the meat and garnish — a reasonable guess at the shape of what's missing here, but not a substitute for the actual page.
+**The recipe itself is complete.** The only things not transcribed are the two garnish techniques it points at by page number, and neither is a gap in *this* recipe's method:
 
-#### E. Nutrition *(estimated, as far as transcribed — excludes the finishing step and the onion/mushroom garnish quantities actually retained)*
+- **Brown-braised onions, source p. 483 — named but not transcribed.** The same page [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and [§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) already cite. Use the stand-in method described in [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) until that page is photographed. Tracked in [§12](#12-recipes-to-document).
+- **Sautéed mushrooms, source p. 513 — named but not transcribed.** Same situation, same stand-in. Tracked in [§12](#12-recipes-to-document).
+
+#### Nutrition *(estimated)*
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Braise only** *(bacon, chicken, cognac, wine, stock)* | ~2,750 | 145 g | 220 g | 20 g | 0.5 g |
-| **Per serving** *(serves 5, midpoint of 4–6)* | ~550 | 29 g | 44 g | 4 g | 0.1 g |
+| **Whole dish** | ~3,200 | 195 g | 168 g | 75 g | 6 g |
+| **Per serving** *(serves 5, midpoint of 4–6)* | ~640 | 39 g | 34 g | 15 g | 1 g |
 
-**What a serving is:** not yet fully determinable — this covers the braised chicken and bacon alone, before the onion and mushroom garnish and finished sauce are added.
+**What a serving is:** a piece or two of chicken — about a fifth of a 2½-to-3-lb bird, skin on — with three or four braised onions, a spoonful of mushrooms, and a ladle of the red wine sauce over it. The parsley potatoes the source serves alongside aren't counted here.
+
+*What's eaten versus what's bought: the fat skimmed off the braising liquid at step 8 is discarded and comes out of these numbers. The wine's alcohol calories mostly boil off across the flambé, the 25–30 minute simmer, and the hard reduction, but its sugars stay and are counted. The bacon is blanched first, which pulls some salt and fat out before it ever hits the pan.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41649,6 +41674,8 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | [**Homemade Mayonnaise**](#4187-homemade-mayonnaise) | ***Chef Paul Prudhomme's Louisiana Kitchen*, book p. 268.** The source's own mayonnaise, named as a component by **[§9.10 Crabmeat Avery](#910-crabmeat-avery)** (6 Tbsp, *in all*), which stood in store-bought from the day it was added. **Photographed and closed 2026-09-08:** written up in full at **[§4.187](#4187-homemade-mayonnaise)** — *Makes about 2 cups*; 1 large egg (or 1 small egg plus 1 egg yolk), 1½ cups vegetable oil, 1 Tbsp cider vinegar, 1 tsp Tabasco (optional — the source's "Louisiana touch"), ½ tsp salt, ½ tsp white pepper, blended in a food processor with the oil streamed in. §9.10's ingredient and grocery lines now point at it. | ✅ Complete — §4.187 |
 | **Crabmeat Avery, source pp. 287–288** | ***Chef Paul Prudhomme's Louisiana Kitchen*.** Not a missing recipe — **[§9.10](#910-crabmeat-avery) is already written up in full** from an earlier photograph. What's open is only its **page citation**: the entry is credited to pp. 286–287, but the 2026-09-08 batch shows **p. 286 is the Remoulade Sauce**, so that range can't be right. p. 287 (and probably 288) has never been photographed. **One photo of p. 287 settles the citation** and would very likely also resolve §9.10's two standing content puzzles — the egg that no step ever uses, and the ⅓ cup of cream that doesn't cover 8 ramekins at 1 Tbsp each. | Recipe complete; page citation unconfirmed |
 | **Oyster, Garlic, Beef and Shrimp Mayonnaise** *(four flavored mayonnaises)* | ***Chef Paul Prudhomme's Louisiana Kitchen*, pages after p. 268 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** The NOTE printed under **[§4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise)** introduces four flavored versions built on it and gives the pairings he likes — **Oyster Mayonnaise on roast beef, Garlic Mayonnaise on oyster or shrimp po boys, Beef Mayonnaise on ham sandwiches or po boys, Shrimp Mayonnaise on cold roast lamb** — but the recipes themselves run on the pages that follow, and **none of those pages is in any photographed batch.** All that is known is the names, the pairings, and that they start from §4.187. **Not a substitution problem to solve by inference:** [§4.161 Aioli](#4161-aioli-garlic-mayonnaise) is a garlic mayonnaise from a different book and is not Prudhomme's. Needs a photo of the pages immediately after p. 268. | 📷 Needs the source pages |
+| **Brown-Braised Onions** *(oignons glacés à brun)* | ***Mastering the Art of French Cooking*, book p. 483 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** Three recipes in this cookbook call for it by page number and none can print the method: [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) (18–24 onions), [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) (24–36), and [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) (12–24). It is the single most-cited untranscribed page in this cookbook's *Mastering* material. Until it arrives, §7.54 carries a stand-in method the other two point to. | 📷 Named — needs book p. 483 |
+| **Sautéed Mushrooms** *(champignons sautés au beurre)* | ***Mastering the Art of French Cooking*, book p. 513 — not photographed.** **Named but not transcribed, recorded 2026-09-08.** The companion garnish to the onions above, cited by [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) (1 lb, quartered) and [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) (½ lb). Same situation, same stand-in in §7.54. | 📷 Named — needs book p. 513 |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.

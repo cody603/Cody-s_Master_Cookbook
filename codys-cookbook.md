@@ -26713,7 +26713,9 @@ Transfer the ribs to a cutting board and let rest a few minutes. Cut the racks i
 
 ### 7.51 Boudin Blanc (Boudin)
 
-Transcribed from **The Prudhomme Family Cookbook** — Darilee and Saul's recipe, p. 242–245. **A different book from [T1](#t1-how-to-make-a-roux) and this cookbook's *Louisiana Kitchen* sauces**, despite sharing the Prudhomme name — this is a community/family cookbook of contributed recipes, credited by name to individual family members rather than to Chef Paul Prudhomme alone. *"Cajun boudin blanc is a white pork sausage with rice mixed into the stuffing. Boudin rouge, red boudin, contains fresh pork blood; otherwise, the recipe is essentially the same as for boudin blanc, which Cajuns always call simply 'boudin.' Up until Saul was forty years old, his family and the Prudhommes cooked the meat for boudin outdoors in big pots over a wood fire."*
+Transcribed from **The Prudhomme Family Cookbook** — Darilee and Saul's recipe, pp. 242–246.
+
+✅ **2026-09-08 verified/corrected against Cody's photographs of pp. 244, 245 and 246** — and **the book is confirmed by its running head**: pp. 244 and 246 read *The Prudhomme Family Cookbook*, p. 245 reads *Jambalayas & Boudins*. **This is not [§4.8](#48-shrimp-and-crab-butter-cream-sauce)'s *Chef Paul Prudhomme's Louisiana Kitchen*** — two different books, and the running head is the only thing that tells them apart. **The step-8 photo that was flagged worn and low-contrast is now legible, and the reconstruction flag comes off.** Six corrections follow — the ⅜-inch grinding disc, the 7 cups of stock, the 2 cups reserved, the 6 cups of rice, and the 4-inch link all confirmed as printed. **A different book from [T1](#t1-how-to-make-a-roux) and this cookbook's *Louisiana Kitchen* sauces**, despite sharing the Prudhomme name — this is a community/family cookbook of contributed recipes, credited by name to individual family members rather than to Chef Paul Prudhomme alone. *"Cajun boudin blanc is a white pork sausage with rice mixed into the stuffing. Boudin rouge, red boudin, contains fresh pork blood; otherwise, the recipe is essentially the same as for boudin blanc, which Cajuns always call simply 'boudin.' Up until Saul was forty years old, his family and the Prudhommes cooked the meat for boudin outdoors in big pots over a wood fire."*
 
 > *"Darilee and Saul say boudin alone is great, but it's also 'très bon' with saltines and cold beer. It makes a wonderful snack or breakfast food, and it's ideal to serve at parties. You can also use the cooked boudin as a side dish or to stuff meat and fowl."*
 
@@ -26721,7 +26723,7 @@ Transcribed from **The Prudhomme Family Cookbook** — Darilee and Saul's recipe
 
 > **Two source references still untranscribed, noted rather than guessed at:** the ingredient list calls for **Basic Pork Stock (page 252)** and **Basic Cooked Rice**, neither photographed yet — a general pork or chicken stock and plain cooked rice work fine in their place. The method's third reference, the **"Lagniappe," page 241**, is now resolved — see [§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe).
 
-**🟡 Medium** · **Prep ~45 min** *(deboning, grinding, mixing, stuffing casings)* · **Cook ~20 min** *(poaching)* · **Slow cook ~2 hr** *(simmering the meat and liver in stock, unattended)* · **Start to finish ~3 hr 5 min**
+**🟡 Medium** *(no roux anywhere in it, so the [roux tiers](#difficulty--time-index) don't apply. The Medium is the poach: hold the water above a simmer and the casings burst, and a burst link can't be re-stuffed. Everything else here is long, fiddly, and forgiving)* · **Prep ~45 min** *(deboning, grinding, mixing, stuffing casings)* · **Cook ~20 min** *(poaching)* · **Slow cook ~2 hr** *(simmering the meat and liver in stock, unattended)* · **Start to finish ~3 hr 5 min** *(+ **1 hr 30 min** of ice-water bath if you're not serving it straight away — see step 8; that's chilling, not cooking, so it isn't in the numbers above)*
 
 #### A. Ingredients
 
@@ -26744,7 +26746,9 @@ Transcribed from **The Prudhomme Family Cookbook** — Darilee and Saul's recipe
 #### B. Cooking Instructions
 
 **1. Simmer the meat and liver in stock. About 2 hours.**
-Place the pork shoulder, liver, and 7 cups of the stock in a 4-quart saucepan. Cover and bring to a boil over high heat, stirring once or twice. Uncover and boil about 15 minutes, stirring occasionally and skimming off any foam. Reduce the heat to a strong simmer, cover with the lid ajar, and cook until the meat falls away from the bones, about 2 hours, stirring occasionally. Add more stock or water toward the end if the meat isn't nearly covered by liquid. Remove from heat.
+Place the pork shoulder, liver, and 7 cups of the stock in a 4-quart saucepan. Cover and bring to a boil over high heat, stirring once or twice. Uncover and boil about 15 minutes, stirring occasionally and skimming off any foam. Reduce the heat to a strong simmer, cover the pan with **the lid askew**, and cook until the meat falls away from the bones, about 2 hours, stirring occasionally. Add more stock or water toward the end of the cooking time if the meat isn't almost completely covered with liquid. Remove from heat.
+
+*Use this two hours to assemble the grinding and stuffing equipment and to prepare the casings — see [§T23](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe), the source's own "Lagniappe" on its p. 241.*
 
 **2. Strain and reserve the stock.**
 Lift the meat and any pieces of fat into a large bowl with a slotted spoon. Strain the cooking stock and reserve 2 cups of it, topping up with more stock or water if you come up short.
@@ -26752,24 +26756,29 @@ Lift the meat and any pieces of fat into a large bowl with a slotted spoon. Stra
 **3. Debone and grind the meat.**
 Pick out any bones, including small ones, not just the obvious large ones. Grind the meat and fat through a meat grinder fitted with a coarse disc (about ⅜-inch holes) into a large bowl.
 
-**4. Mix in the rice and seasonings.**
-Stir in 6 cups of the rice, the onions, green onions, parsley, garlic, red pepper, salt, and black pepper, mixing well. Taste and add more red pepper if you want more heat. Stir in the reserved 2 cups of stock.
+**4. Mix in the rice and seasonings — only 2½ tsp of the red pepper at this stage.**
+Stir in **6 cups** of the rice, the onions, green onions, parsley, garlic, **2½ tsp of the red pepper** (not the whole tablespoon — that's why the ingredient list says *in all*), the salt, and the black pepper, mixing well. **Then taste, and add more red pepper if the red pepper taste isn't clearly present.** *That's the source's own cue, and it's a better one than "to taste": you're not chasing heat, you're checking that the cayenne reads as a distinct flavor in the mix. Season it now — once it's in a casing you can't fix it.* Stir in the reserved 2 cups of stock, mixing well.
 
 **5. Adjust the texture.**
-The mixture should be very moist but not runny. If it's runny, stir in more rice, up to 3 cups more, a cup at a time. If it's too dry, work in a little more stock.
+**If the mixture is very moist but not runny, it's ready to be stuffed.** If it's runny, stir in **1 to 3 cups** more rice, **one cup at a time**. If it's too dry, add more stock, just a little at a time, so you won't overdo it.
 
 **6. Stuff the casings while the mixture is still hot.**
 Fill the casings using a sausage-stuffing attachment, a food processor fitted with a sausage horn, or a sausage funnel. See **[§T23 How to Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe)** for the source's own casing-prep and filling technique — soaking and rinsing the casings, loading the stuffing tube, working air bubbles out, and fixing a burst casing without starting over. Twist into links if you like, turning the sausage two or three turns at each point you want a link to end — a 4-inch link is a good size.
 
-**7. Poach. 15 to 20 minutes.**
-Coil the boudin loosely, in a single layer, into an 8-quart or larger pot and cover with water. Heat until the water reaches 175° to 185°F, then hold it there — just below a simmer — for 15 to 20 minutes, until the casings are taut and the flavors have married. Don't let the water go above 185°F, or the casings can burst.
+**7. Poach — up to 180°F, then hold 175–185°F. 15 to 20 minutes.**
+Carefully place the boudin, **coiled loosely in a single layer**, in an 8-quart or larger **broad-bottomed** saucepan or Dutch oven. Cover the boudin with water and heat **over high heat until the water reaches 180°F — just below a simmer.** Then reduce the heat to hold the water **between 175° and 185°F** and keep cooking until the boudin is heated through and the flavors marry, **15 to 20 minutes**.
 
-**8. Serve, or cool and store.**
-Serve right away, or if it's not going out immediately, give it an ice-water bath to stop the cooking, then refrigerate or freeze. Reheat the same way — 175° to 185°F, hot but not simmering.
+> ⚠️ **Do not let the water reach a simmer, or the casings may burst.** This is the one genuinely losable moment in a three-hour recipe, and it's the reason for the badge. **Use a thermometer** — "just below a simmer" is a five-degree window you cannot judge by eye, and by the time you see bubbles breaking the surface you're already past it.
 
-> ⚠️ **Step 8 is a reconstruction, not a confirmed transcription** — the source photo covering the poaching, cooling, and storage instructions was worn and low-contrast in places, and some of the exact wording (particularly around ice-water-bath timing and freezing) couldn't be read with full confidence. The technique above follows what could be made out and standard boudin practice; a straighter re-photo of source p. 245 would settle it.
+**8. Drain, rest 15 minutes, then serve — or fry.**
+Drain and **let it sit about 15 minutes before slicing**. Then serve immediately, or **fry it as you fry the patties in Section D, leaving the casings on**. **For each serving, allow about one 4-inch piece.** Depending on individual preference, the casings are eaten or removed as the boudin is eaten.
 
-> **Leftover filling, per the source:** the bit that won't go through the sausage funnel is great spread on crackers or French bread. Leftover cooked boudin can spice up a winter soup, or be pan-fried into patties — shape chilled leftover filling (about ½ cup per patty) into a patty roughly 3½ inches across and ¾ inch thick, and pan-fry in a little vegetable oil over high heat, turning once, about 1 minute per side, until browned. **This variation is also a reconstruction** — the source photo of its exact method was hard to fully make out, so the technique above is the sensible reading of what's legible, not a guaranteed word-for-word transcription. The source notes that filling that isn't well chilled will break apart when patted into a patty.
+**9. If it isn't going out right away: ice-water bath, 1 hour 30 minutes.**
+**If you don't plan to serve the boudin right away, immediately pack it very loosely in Ziploc bags and give it an ice-water bath for 1 hour 30 minutes** — or until a thermometer inserted into the thickest part of a link reads **40°F or less** — to cool it down as quickly as possible, **making sure the ice water comes in contact with all surfaces of each bag.** Then refrigerate.
+
+> 🧊 **The source's own NOTE, and it's a food-safety instruction, not a convenience one:** *the boudin is poached first, then cooled down as quickly as possible, to give it a longer shelf-life.* **Reheat in 175° to 185°F water — hot, but not simmering — exactly as directed in step 7.** Two details do real work here: **very loosely packed** bags and **all surfaces in contact with the ice water** are both about surface area, because a densely packed bag cools from the outside in and leaves the center warm for hours. **The source says refrigerate — it does not mention freezing**, and an earlier version of this entry added freezing on its own; that has been struck.
+
+> **Leftover filling, per the source:** the bit that won't go through the sausage funnel is great spread on crackers or French bread, and leftover cooked boudin can spice up a winter soup. **The source's own use for it is the recipe in [Section D](#d-variation--fried-boudin-patties) below**, printed on its p. 245 immediately after the boudin.
 
 #### C. Grocery Shopping List
 

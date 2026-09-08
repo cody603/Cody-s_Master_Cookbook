@@ -124,7 +124,7 @@ Click any recipe to jump straight to it.
   - [4.103 Pork Brine Injection](#4103-pork-brine-injection) ✅
   - [4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) ✅
   - [4.105 Dalmatian Rub](#4105-dalmatian-rub) ✅
-  - [4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub) ✅
+  - ~~4.106 Big Bad Beef Rub~~ 🚫 **Deleted 2026-09-08 at Cody's request** *(he doesn't like it. The number is retired, not reused. The three recipes that called for it still name it as their source's own printed ingredient — see [§7.109](#7109-chateaubriand-with-compound-butter), [§7.110](#7110-short-ribs-texas-style), [§7.112](#7112-texas-beef-brisket) — and point at his Dalmatian rub, [§4.105](#4105-dalmatian-rub), or [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) instead)*
   - [4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) ✅
   - [4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ✅
   - [4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) ✅
@@ -738,7 +738,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.102 Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) | 🟢 | 10 min | — | — | 15 min |
 | [§4.103 Pork Brine Injection](#4103-pork-brine-injection) | 🟢 | 10 min | — | — | 15 min |
 | [§4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) | 🟢 | 10 min | — | — | 15 min |
-| [§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) | 🟢 | 10 min | — | — | 10 min |
 | [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) | 🟢 | 10 min | — | — | 10 min |
@@ -8133,60 +8132,6 @@ That's the whole recipe — stir or shake them together in a jar until evenly mi
 
 ---
 
-### 4.106 Big Bad Beef Rub
-
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A punchy, no-salt rub built for **beef brisket and barbecued beef ribs**, which can handle — and benefit from — a more potent mix than [§4.105 Dalmatian Rub](#4105-dalmatian-rub); it's designed to form a rich, crunchy bark. Beef rub is different from pork rub: pork loves sweetness and beef doesn't, so the small amount of sugar here is only there to help bark form, while black pepper does the heavy lifting.
-
-> ✅ **Re-verified line by line, 2026-09-07, against book pp. 166–167 (second-pass QC).** All seven ingredients and quantities, the mix-in-a-bowl method, and the printed MAKES about ½ cup / TAKES about 10 minutes match; no salt is printed, as the warning below says. Two things restored from the headnote: the rub is written for **brisket and beef ribs** (the earlier description said "steaks and roasts"), and the ingredient line's own "see headnote" pointer — **dried ancho chile is the preferred choice** for its raisin-y character, and **chipotle beats cayenne** on flavor, either giving a kiss of heat.
-
-**Techniques used:** [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)
-
-**No salt in this rub — per the book's own argument, not an oversight.** Meathead's "No Salt in Rubs" reasoning ([§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage)) applies here: salt separately, via a brine or dry brine, and season this rub on top of that.
-
-> **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
-
-**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
-
-#### A. Ingredients
-
-- 3 Tbsp coarsely ground black pepper
-- 1 Tbsp sugar
-- 1 Tbsp onion powder
-- 2 tsp dry mustard
-- 2 tsp garlic powder
-- 2 tsp chili powder or ground ancho chile *(ancho if you can find it — it has a nice raisin-y character, per the headnote)*
-- 1 tsp ground chipotle chile or cayenne *(chipotle has the better flavor, per the headnote)*
-
-#### B. Cooking Instructions
-
-**1. Mix everything in a bowl.**
-Stir all the ingredients together until evenly blended. Store in a tightly sealed jar, per [§T53](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage).
-
-#### C. Grocery Shopping List
-
-**🛒 General grocery**
-
-- 🛒 Black pepper, coarsely ground — 3 Tbsp
-- 🛒 Sugar — 1 Tbsp
-- 🛒 Onion powder — 1 Tbsp
-- 🛒 Dry mustard — 2 tsp
-- 🛒 Garlic powder — 2 tsp
-- 🛒 Chili powder or ground ancho chile — 2 tsp
-- 🛒 Ground chipotle chile or cayenne — 1 tsp
-
-#### Nutrition *(estimated)*
-
-| | Calories | Fat | Protein | Carbs | Fiber |
-|---|---|---|---|---|---|
-| **Whole batch** *(about ½ cup)* | ~145 | 2 g | 5 g | 32 g | 8 g |
-| **Per serving** *(1 tsp, per pound of meat)* | ~7 | 0.1 g | 0.2 g | 1.5 g | 0.4 g |
-
-**What a serving is:** about 1 tsp of rub per pound of meat, pressed on before cooking.
-
-[↑ Table of Contents](#table-of-contents)
-
----
-
 ### 4.107 Mrs. O'Leary's Cow Crust
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Brines, Rubs, and Sauces" chapter. A savory, herb-forward crust built for a big cut of beef rather than a quick steak — enough for a 10–12 lb roast.
@@ -11838,7 +11783,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Rubs a
 
 **Techniques used:** [§T90 The Five S's of a Rub (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) · [§T53 The Science of a Good Rub](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) *(the earlier book's parallel Three S's framework)*
 
-The book's own intro leans on Texas "Dalmatian rub" — salt and pepper, black and white — as the brisket standby before amping it up for competition use with its own Championship Brisket (its p. 212). Per the source, this rub works just fine on all red meats — beef, lamb, even duck breasts — and it can handle high heat. **Compare [§4.105 Dalmatian Rub](#4105-dalmatian-rub)**, the plain version already in this cookbook, and **[§4.106 Big Bad Beef Rub](#4106-big-bad-beef-rub)**, an unrelated red-meat rub from the earlier book with a completely different ingredient set (no rosemary, no coffee) — all three kept side by side rather than merged.
+The book's own intro leans on Texas "Dalmatian rub" — salt and pepper, black and white — as the brisket standby before amping it up for competition use with its own Championship Brisket (its p. 212). Per the source, this rub works just fine on all red meats — beef, lamb, even duck breasts — and it can handle high heat. **Compare [§4.105 Dalmatian Rub](#4105-dalmatian-rub)**, the plain version already in this cookbook — both kept side by side rather than merged. *(A third comparison used to stand here: **Big Bad Beef Rub**, an unrelated red-meat rub from the earlier book with a completely different ingredient set — no rosemary, no coffee. **It was deleted from this cookbook on 2026-09-08 at Cody's request**, so the comparison is recorded rather than linked.)*
 
 **No salt in this rub — per the book's own argument, not an oversight.** This book's own "No Salt in My Rub Recipes" reasoning ([§T90](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method)) applies here: salt separately, via a brine or dry brine, and season this rub on top of that.
 
@@ -32397,8 +32342,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 - 1 beef tenderloin
 - Kosher salt (about ½ teaspoon per pound)
-- [Big Bad Beef Rub](#4106-big-bad-beef-rub) or [Butcher Block Seasoning](#4116-butcher-block-seasoning)
+- **Big Bad Beef Rub** *(the source's own, book p. 166 — **not in this cookbook; deleted 2026-09-08 at Cody's request**, see the note below)* **or** [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) — *the page offers both, and the second one is the one to use*
 - [Beef Butter](#4133-beef-butter)
+
+> 🚫 **The rub this page calls for is no longer in this cookbook — and that's Cody's call, not an omission.** The printed ingredient list above names **Big Bad Beef Rub** (the source's own, book p. 166) and it is kept exactly as printed, because this entry is a transcription and the page says what it says. **But §4.106 was deleted on 2026-09-08 at Cody's explicit request** — in his words, he really doesn't like it: *"it's just not a good rub."* **What he uses instead on beef is a Dalmatian rub — coarse salt and pepper, maybe a hint of garlic** ([§4.105 Dalmatian Rub](#4105-dalmatian-rub) is that rub, and it's what he seasons [§6.10 Sous Vide Brisket](#610-sous-vide-brisket-richies-method) with). **[§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) is the other beef rub already in this cookbook** — and this page offers it as the alternative itself, so it needs no substitution at all: use it. ⚠️ **Mind the salt path either way:** [§4.105](#4105-dalmatian-rub) is **half salt**, so it's a night-before rub and you do **not** dry brine underneath it; the Meathead rubs here are salt-free by design and go **on top of** a separate dry brine. [§6.1 Smoked Brisket](#61-smoked-brisket)'s salted-rub warning is the full version of that rule.
 
 #### B. Cooking Instructions
 
@@ -32431,7 +32378,7 @@ Place the meat in the indirect-heat zone. When it reaches 110°F, move it to dir
 - 🛒 Kosher salt
 - 🛒 Butcher's twine
 
-*Big Bad Beef Rub, Butcher Block Seasoning, and Beef Butter ingredients already documented at [§4.106](#4106-big-bad-beef-rub), [§4.116](#4116-butcher-block-seasoning), and [§4.133](#4133-beef-butter).*
+*Butcher Block Seasoning and Beef Butter ingredients already documented at [§4.116](#4116-butcher-block-seasoning) and [§4.133](#4133-beef-butter). **Big Bad Beef Rub is not in this cookbook** — §4.106 was deleted 2026-09-08 at Cody's request; see the note above.*
 
 #### Nutrition *(estimated)*
 
@@ -32464,7 +32411,9 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 - 1 beef short plate (about 8 pounds)
 - Kosher salt (about ½ teaspoon per pound)
-- [Big Bad Beef Rub](#4106-big-bad-beef-rub)
+- **Big Bad Beef Rub** *(the source's own, book p. 166 — **not in this cookbook; deleted 2026-09-08 at Cody's request.** See the note below for what to use instead)*
+
+> 🚫 **The rub this page calls for is no longer in this cookbook — and that's Cody's call, not an omission.** The printed ingredient list above names **Big Bad Beef Rub** (the source's own, book p. 166) and it is kept exactly as printed, because this entry is a transcription and the page says what it says. **But §4.106 was deleted on 2026-09-08 at Cody's explicit request** — in his words, he really doesn't like it: *"it's just not a good rub."* **What he uses instead on beef is a Dalmatian rub — coarse salt and pepper, maybe a hint of garlic** ([§4.105 Dalmatian Rub](#4105-dalmatian-rub) is that rub, and it's what he seasons [§6.10 Sous Vide Brisket](#610-sous-vide-brisket-richies-method) with). **[§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) is the other beef rub already in this cookbook**, and it is the closest stand-in for what the page asks for — several of this author's other beef recipes offer it as the alternative to the deleted rub. ⚠️ **Mind the salt path either way:** [§4.105](#4105-dalmatian-rub) is **half salt**, so it's a night-before rub and you do **not** dry brine underneath it; the Meathead rubs here are salt-free by design and go **on top of** a separate dry brine. [§6.1 Smoked Brisket](#61-smoked-brisket)'s salted-rub warning is the full version of that rule.
 
 #### B. Cooking Instructions
 
@@ -32491,7 +32440,7 @@ Put the meat over the indirect-heat zone, bone side down, and add wood to the fi
 - 🛒 Kosher salt
 - 🛒 Oak or other hardwood, for smoking
 
-*Big Bad Beef Rub ingredients already documented at [§4.106](#4106-big-bad-beef-rub).*
+***Big Bad Beef Rub is not in this cookbook*** — §4.106 was deleted 2026-09-08 at Cody's request. Use [§4.105 Dalmatian Rub](#4105-dalmatian-rub) or [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) instead; see the note above.
 
 #### Nutrition *(estimated)*
 
@@ -32590,8 +32539,10 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 - 1 whole packer brisket (about 12 pounds, untrimmed), USDA Choice, USDA Prime, or Wagyu
 - Kosher salt (about ½ teaspoon per pound)
-- [Big Bad Beef Rub](#4106-big-bad-beef-rub)
+- **Big Bad Beef Rub** *(the source's own, book p. 166 — **not in this cookbook; deleted 2026-09-08 at Cody's request.** See the note below for what to use instead)*
 - [Texas Mop Sauce](#4121-texas-mop-sauce) *(optional)*
+
+> 🚫 **The rub this page calls for is no longer in this cookbook — and that's Cody's call, not an omission.** The printed ingredient list above names **Big Bad Beef Rub** (the source's own, book p. 166) and it is kept exactly as printed, because this entry is a transcription and the page says what it says. **But §4.106 was deleted on 2026-09-08 at Cody's explicit request** — in his words, he really doesn't like it: *"it's just not a good rub."* **What he uses instead on beef is a Dalmatian rub — coarse salt and pepper, maybe a hint of garlic** ([§4.105 Dalmatian Rub](#4105-dalmatian-rub) is that rub, and it's what he seasons [§6.10 Sous Vide Brisket](#610-sous-vide-brisket-richies-method) with). **[§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) is the other beef rub already in this cookbook**, and it is the closest stand-in for what the page asks for — several of this author's other beef recipes offer it as the alternative to the deleted rub. ⚠️ **Mind the salt path either way:** [§4.105](#4105-dalmatian-rub) is **half salt**, so it's a night-before rub and you do **not** dry brine underneath it; the Meathead rubs here are salt-free by design and go **on top of** a separate dry brine. [§6.1 Smoked Brisket](#61-smoked-brisket)'s salted-rub warning is the full version of that rule.
 
 #### B. Cooking Instructions
 
@@ -32634,7 +32585,7 @@ If the meat is perfectly cooked, it should be moist and juicy. Serve it simply s
 - 🛒 Hardwood, for smoking
 - 🛒 Aluminum foil, for the crutch
 
-*Big Bad Beef Rub and Texas Mop Sauce ingredients already documented at [§4.106](#4106-big-bad-beef-rub) and [§4.121](#4121-texas-mop-sauce).*
+*Texas Mop Sauce ingredients already documented at [§4.121](#4121-texas-mop-sauce). **Big Bad Beef Rub is not in this cookbook** — §4.106 was deleted 2026-09-08 at Cody's request; see the note above.*
 
 #### Nutrition *(estimated)*
 
@@ -43028,7 +42979,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 >
 > **Update, 2026-09-07 — independent second-pass QC of this scan's Ground Meats chapter.** [§7.115](#7115-the-great-american-steakhouse-steakburger) and [§T73](#t73-burger-basics--fat-content-grind-and-handling)–[§T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets) re-read against book pp. 268–271 and 276–277 (file indexes 27–29, the embedded photos at native resolution, cropped a quadrant at a time). **Same pattern as pork and beef, only more so: the recipe's quantities were exact, its steps were not, and all four sidebars were wrong somewhere.** [§T76](#t76-cooking-sausages--precooked-vs-raw-temperature-targets) had both of its central claims reversed (the page: *most* sausages are sold *raw*, no 75-percent figure exists; cook over *direct* heat most of the time, the indirect zone is the safe zone); [§7.115](#7115-the-great-american-steakhouse-steakburger) had dropped the printed Step 5 (turn, salt the second side, another 10 minutes), cooked the bacon crispy where the page likes it bendable, seared to 160°F where the page pulls at 5°F below the target, and stacked the build upside down — now nine steps as printed, retitled to the page's *Steakburger*, start to finish the printed 1 hour; [§T74](#t74-flavoring-the-burger--salting-timing-and-the-weight-loss-test) had all three weight-loss percentages wrong (31 / 30 / 21 as printed) and the reason for surface-salting invented; [§T75](#t75-regional-hot-dogs--a-cross-country-survey) had merged the Cincinnati and Detroit coneys under an unprinted cinnamon-and-clove sauce, lost the Coney Island dog, and invented toppings for Seattle, Hawaii, and New Jersey; [§T73](#t73-burger-basics--fat-content-grind-and-handling) misstated preground chuck's fat and lacked the page's grind-it-yourself and pasteurizing advice. All five rewritten to the page. No salt quantity or difficulty rating changed; nothing illegible. Full detail in the changelog.
 >
-> **Update, 2026-09-07 — independent second-pass measurement QC of the 21-page "Brines, Rubs, and Sauces" scan's brines, injections, and rubs.** [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.116](#4116-butcher-block-seasoning) and [§4.176](#4176-lubing-turkey-breasts-oil-injection) re-read against book pp. 160–173 (file indexes 10–16, the embedded photos at native resolution, split into single pages and cropped a column at a time). **Cody's brine-salt exception stands and every rub's salt matches the page.** The 2026-09-06 audit's "all exact" call on the rubs did not hold: [§4.112 Cajun Seasoning](#4112-cajun-seasoning) was missing its printed 1½ tsp black pepper entirely; three printed yields were wrong ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) 1¼ gallons, [§4.109](#4109-simon--garfunkel-rub) about ¼ cup, [§4.114](#4114-cowboy-java-rub) about 2½ Tbsp); two printed timings were under-reported ([§4.113](#4113-citrus-salt-and-pepper) TAKES 3–4 hr; [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder) 4–8 hr drying on the TAKES line vs. 2–4 in its own step); and the p. 161 **How Long to Brine?** thickness chart, plus the printed notes at [§4.111](#4111-mariettas-fish-rub), [§4.113](#4113-citrus-salt-and-pepper), [§4.176](#4176-lubing-turkey-breasts-oil-injection), [§4.106](#4106-big-bad-beef-rub), and [§4.110](#4110-dollys-lamb-rub), had been condensed away. Two spots are genuinely unreadable in the photographs and are flagged rather than guessed: the one-sentence method at the top of p. 170 ([§4.111](#4111-mariettas-fish-rub)) and the per-pound fraction in [§4.116](#4116-butcher-block-seasoning)'s headnote. Full detail in the changelog.
+> **Update, 2026-09-07 — independent second-pass measurement QC of the 21-page "Brines, Rubs, and Sauces" scan's brines, injections, and rubs.** [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.116](#4116-butcher-block-seasoning) and [§4.176](#4176-lubing-turkey-breasts-oil-injection) re-read against book pp. 160–173 (file indexes 10–16, the embedded photos at native resolution, split into single pages and cropped a column at a time). **Cody's brine-salt exception stands and every rub's salt matches the page.** The 2026-09-06 audit's "all exact" call on the rubs did not hold: [§4.112 Cajun Seasoning](#4112-cajun-seasoning) was missing its printed 1½ tsp black pepper entirely; three printed yields were wrong ([§4.100](#4100-the-simple-blonder-wet-brine-63-salinity) 1¼ gallons, [§4.109](#4109-simon--garfunkel-rub) about ¼ cup, [§4.114](#4114-cowboy-java-rub) about 2½ Tbsp); two printed timings were under-reported ([§4.113](#4113-citrus-salt-and-pepper) TAKES 3–4 hr; [§4.115](#4115-smoked-garlic-powder-or-smoked-onion-powder) 4–8 hr drying on the TAKES line vs. 2–4 in its own step); and the p. 161 **How Long to Brine?** thickness chart, plus the printed notes at [§4.111](#4111-mariettas-fish-rub), [§4.113](#4113-citrus-salt-and-pepper), [§4.176](#4176-lubing-turkey-breasts-oil-injection), §4.106 *(since deleted — see 2026-09-08 in [`CHANGELOG.md`](CHANGELOG.md))*, and [§4.110](#4110-dollys-lamb-rub), had been condensed away. Two spots are genuinely unreadable in the photographs and are flagged rather than guessed: the one-sentence method at the top of p. 170 ([§4.111](#4111-mariettas-fish-rub)) and the per-pound fraction in [§4.116](#4116-butcher-block-seasoning)'s headnote. Full detail in the changelog.
 >
 > **Update, 2026-09-07 — independent second-pass measurement QC of the 21-page "Brines, Rubs, and Sauces" scan's sauces, the other half of that PDF.** [§4.117](#4117-kansas-city-classic-barbecue-sauce)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis) and [§4.175](#4175-teriyaki-sauce) re-read against book pp. 176–181, 184–191, and 194–195 (file indexes 1–3 and 17–21, the embedded photos at native resolution, rotated and cropped a column at a time). **One real error: [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) had four times the printed salt and twice the printed pepper (the page says ⅛ teaspoon of each) and had dropped the page's strain-after-simmer step** — all corrected. Every other quantity in the 17 entries matches its page, salt included. The rest of what the first pass missed was yields and timings: most entries had never carried their printed MAKES / TAKES lines, and six badges changed once they did (Columbia Gold 30 minutes not 20; both Carolina mops 30 not 10; Mumbo under an hour not 30; Board Sauce 30 not 10; Grand Marnier's cook now includes the strain). Smaller fixes — an Indian-not-Italian grocery, a chef's surname (Udvett), a headnote that denied the ketchup its own recipe calls for, a two-batches bacon note, and a handful of unprinted phrases struck — are itemized in the changelog. Nothing was illegible. **With this pass, every recipe entry from the 21-page Brines, Rubs, and Sauces scan has now been independently re-verified twice.**
 >

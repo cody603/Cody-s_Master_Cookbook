@@ -2853,6 +2853,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 244). About a
 
 > **Per the source:** use as a dip for boiled shrimp, crabs, crawfish, or fried eggplant. The recipe can be doubled. Stir in 2 Tbsp chopped fresh parsley and drizzle it over fish, chicken, pork chops, lamb, or fried oysters.
 
+> **This is not the classic French bordelaise.** Same name, entirely different sauce. The French **Sauce Bordelaise** is a red-wine brown sauce finished with beef marrow — see the brown-sauce table in [§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios), which lists it for *"steaks, hamburgers, egg dishes."* That one is named in this cookbook but has never been photographed or transcribed. **The New Orleans version below is butter and garlic and nothing else** — no wine, no marrow, no stock, no roux. For the French butter sauces this one actually sits closest to, see [§4.86 Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) and [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) — though unlike both of those, this sauce is deliberately kept *below* browning.
+
 **Yield:** about ¼ cup
 
 **🟢 Easy** · **Prep ~2 min** · **Cook ~3 min** · **Start to finish ~5 min**
@@ -2887,6 +2889,10 @@ Stir in the parsley if using. As a dip alongside boiled seafood, or drizzled ove
 | **Per serving** *(1 Tbsp, of 4)* | ~105 | 11 g | 0 g | 0.5 g | 0 g |
 
 **What a serving is:** about 1 Tbsp — a small dip cup's worth alongside a few pieces of boiled shrimp or crawfish.
+
+#### D. Verification
+
+- ✅ 2026-09-08 transcribed and verified against Cody's photograph of p. 244. Page confirmed by its printed footer (244) and running head (*Chef Paul Prudhomme's Louisiana Kitchen*). Both quantities — 4 Tbsp unsalted butter, 1 Tbsp minced garlic — and the full method read clean at native resolution. **No changes needed.** The page stacks this recipe above [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy); both ingredient blocks were read strictly within their own recipe, with no lines drifting between them.
 
 [↑ Table of Contents](#table-of-contents)
 

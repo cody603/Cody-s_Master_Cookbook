@@ -40,7 +40,7 @@ Click any recipe to jump straight to it.
   - [4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) ✅
   - [4.20 Meunière Sauce](#420-meunière-sauce) ✅
   - [4.21 Czarina Sauce with Shrimp (or Crawfish)](#421-czarina-sauce-with-shrimp-or-crawfish) ✅
-  - [4.22 Mustard Sauce](#422-mustard-sauce) ✅
+  - [4.22 Mustard Sauce](#422-mustard-sauce) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen — the simmered cream-and-Creole-mustard one; **not** the same recipe as [§4.38](#438-mustard-sauce), which shares its name)*
   - [4.23 Remoulade Sauce](#423-remoulade-sauce) ✅ ❤️
   - [4.24 Pecan Butter Sauce](#424-pecan-butter-sauce) ✅
   - [4.25 Basic Fish Cure](#425-basic-fish-cure) ✅
@@ -56,7 +56,7 @@ Click any recipe to jump straight to it.
   - [4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) ✅
   - [4.36 North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) ✅
   - [4.37 White Barbecue Sauce](#437-white-barbecue-sauce) ✅
-  - [4.38 Mustard Sauce](#438-mustard-sauce) ✅
+  - [4.38 Mustard Sauce](#438-mustard-sauce) ✅ *(Raichlen, How to Grill — the cold toasted-mustard-seed one; **not** the same recipe as [§4.22](#422-mustard-sauce), which shares its name)*
   - [4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) ✅ ❤️
   - [4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) ✅
   - [4.41 Asian Peanut Sauce](#441-asian-peanut-sauce) ✅
@@ -3340,7 +3340,9 @@ About ½ cup of sauce per serving, including the seafood.
 
 ### 4.22 Mustard Sauce
 
-Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers* chapter). A simple, thickened mustard-cream dip — no roux, no stock, all one pot.
+Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — its *Appetizers* chapter, the same chapter as [§4.23 Remoulade Sauce](#423-remoulade-sauce), [§4.188 Sherry Wine Sauce](#4188-sherry-wine-sauce) and [§4.189 Sweet and Tangy Dipping Sauce](#4189-sweet-and-tangy-dipping-sauce). A simple, thickened mustard-cream dip — no roux, no stock, all one pot.
+
+> **⚠️ Two entries in this cookbook are called "Mustard Sauce," and they are not the same recipe — checked 2026-09-08.** This one is **Prudhomme's**, from *Louisiana Kitchen*: cream, sour cream and Creole mustard, **simmered** for 15–20 minutes and cooled. The other is **[§4.38 Mustard Sauce](#438-mustard-sauce)**, from **Steven Raichlen's *How to Grill*** — toasted mustard **seeds**, Dijon, mayonnaise and sour cream, whisked cold and never simmered. Different books, different ingredients, different method; they share nothing but a name. **Neither is a duplicate of the other and neither should be merged away.** *(See also [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) and [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce), which are distinct again.)*
 
 **Yield:** about 1 cup
 
@@ -3387,6 +3389,8 @@ All ingredients into a 1-quart saucepan over medium-low heat.
 | **Per serving** *(2 Tbsp, of 8)* | ~85 | 8 g | 1 g | 2 g | 0 g |
 
 **What a serving is:** about 2 Tbsp — a dip portion alongside boiled shrimp, crab, or fried appetizers.
+
+✅ 2026-09-08 verified against Cody's photograph of the source page — the running head reads ***Appetizers***, and **all ten ingredient lines, the 1-quart saucepan, the medium-low heat, the "simmer and stir until thickened, about 15 to 20 minutes, stirring constantly," the cool-to-room-temperature finish and the *Makes about 1 cup* yield match this entry exactly.** Nothing needed correcting. **The page's printed folio was not in frame**, so no book page number is being written into the citation on inference; the chapter attribution stands as originally recorded. *(This entry was also confirmed **not** to be a duplicate of [§4.38](#438-mustard-sauce) — see the note at the top.)*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -4208,6 +4212,8 @@ Transfer the sauce to clean (or even sterile) jars and store in the refrigerator
 ### 4.38 Mustard Sauce
 
 Transcribed from **Steven Raichlen's *How to Grill***. *"Here's a simple mustard sauce you can use not only with beef (like the Herb-Crusted Grilled Beef Tenderloin) but also with grilled pork, poultry, and even seafood."* One of the five serving sauces named for [§7.32 Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) — the first of that recipe's five to actually get transcribed.
+
+> **⚠️ Not the same recipe as [§4.22 Mustard Sauce](#422-mustard-sauce), despite the identical name — checked 2026-09-08.** That one is **Prudhomme's**, from *Louisiana Kitchen*: heavy cream, sour cream and Creole mustard, **simmered 15–20 minutes** and cooled. This one is **Raichlen's**, from *How to Grill*: toasted mustard **seeds**, Dijon or grainy mustard, mayonnaise and sour cream, whisked together cold. **Two different books, no shared ingredient list, no shared method — both are kept, and neither is a duplicate.**
 
 **Yield:** about 1½ cups; serves 8
 

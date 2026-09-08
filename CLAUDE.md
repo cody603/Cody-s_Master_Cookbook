@@ -179,6 +179,7 @@ If a tweak conflicts with something already documented, flag it clearly in the c
 
 ## 6. Established Kitchen Facts (do not re-litigate)
 
+- **Every temperature in this cookbook is Fahrenheit unless it explicitly says otherwise.** *(Cody, 2026-09-08: "when I say 150 degrees, I'm always talking in Fahrenheit — that should be throughout the cookbook.")* When he dictates a bare number, read it as °F. Where a transcribed source prints Celsius, keep the source's figure and give the °F conversion alongside it.
 - **Cody's Pho** is the first documented recipe.
 - Chuck roast is the meat for the pho — not brisket.
 - Sous vide dry rub is kosher salt, garlic powder, black pepper only. No five spice, no fresh garlic, no liquid in the bag.

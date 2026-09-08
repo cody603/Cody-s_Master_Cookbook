@@ -26384,7 +26384,7 @@ Transcribed from **Canal House Cooks Every Day**, p. 338 — the *winter* chapte
 
 > ⚠️ **Pink curing salt is a food-safety ingredient, and it is not interchangeable with kosher salt.** Pink curing salt — sold as Prague Powder #1, Insta Cure #1, or tinted cure mix — is **6.25% sodium nitrite** in a salt carrier, dyed pink **specifically so nobody mistakes it for table or kosher salt**. In this recipe it is what makes the brisket *corned beef*: it holds the meat pink and cured through a 5-to-7-day refrigerated cure, and it guards against botulism over those days. **It is not a seasoning and it is not a substitute for the ¾ cup of kosher salt — the recipe calls for both, and they do different jobs.** Do not scale it up, do not swap one for the other in either direction, and do not use it anywhere the recipe doesn't ask for it: sodium nitrite is toxic in quantity, which is exactly why it is sold pre-diluted and dyed. If you'd rather not handle it, take the source's own out and **buy a ready-to-go corned beef**, skipping step 1 entirely. Also distinct from **pink Himalayan salt**, which is an ordinary table salt and will cure nothing.
 
-> **References the source's own Parsley Sauce, printed on the facing page — named but not transcribed.** That page isn't photographed, so its ingredients and method aren't here. Serve without it, or stand in this cookbook's own [§4.20 Meunière Sauce](#420-meunière-sauce) family of butter sauces. Tracked in [§12](#12-recipes-to-document).
+> **References the source's own Parsley Sauce, printed on the facing page — named, not transcribed.** 🚫 2026-09-08 — Cody: not pursuing; that page is not in this cookbook and won't be chased. **[§4.20 Meunière Sauce](#420-meunière-sauce) stands in** — it is the butter-sauce family this cookbook does carry, and it goes on the corned beef the same way. The dinner is complete either way; the sauce was always the optional half.
 
 > **Not a duplicate of [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) — they are two genuinely different dishes.** §7.11 is **Cody's own**, from his recipe/grocery spreadsheet: a store-bought 3-lb corned beef simmered with carrots, turnips, parsnips, onions, and garlic, with **no cure step and deliberately no cabbage in the pot**. This one is Canal House's: a 5-lb brisket you cure yourself for a week, with potatoes, carrots, spring onions, and Savoy cabbage cooked in the broth in stages. Cody's version stands as written and was **not** overwritten by the printed one.
 
@@ -26468,7 +26468,7 @@ Ladle some of the broth **over everything**. **Pour the melted salted butter ove
 
 #### D. Still Open
 
-- **Parsley Sauce, the source's own pairing, is named but not transcribed** — it is printed on the page facing p. 338, which hasn't been photographed. Tracked in [§12](#12-recipes-to-document).
+- **Parsley Sauce, the source's own pairing, is named, not transcribed** — printed on the page facing p. 338. 🚫 2026-09-08 — Cody: not pursuing; **[§4.20 Meunière Sauce](#420-meunière-sauce) stands in for it**, and the corned beef and cabbage is a complete dinner without any sauce at all.
 
 #### Nutrition *(estimated)*
 
@@ -26995,7 +26995,7 @@ Transcribed from **Mastering the Art of French Cooking** — Chapter Seven: Meat
 
 > **Serving suggestions, per the source:** boiled potatoes are traditional; buttered noodles or steamed rice work too. Add buttered peas if you want a green vegetable alongside. Pour a fairly full-bodied, young red wine — Beaujolais, Côtes du Rhône, Bordeaux-St. Émilion, or Burgundy.
 
-> **Two garnish techniques not yet transcribed:** the source's own **brown-braised onions (p. 483)** and **sautéed mushrooms (p. 513)** are what finish this dish. In the meantime, a reasonable stand-in: braise 18–24 peeled pearl onions in a little stock and butter until tender and glazed, and sauté 1 lb quartered mushrooms in butter over high heat until browned.
+> **Two garnish techniques the source hands off to its own pages:** **brown-braised onions (p. 483)** and **sautéed mushrooms (p. 513)** are what finish this dish. 🚫 2026-09-08 — Cody: not pursuing; those page numbers stay as pointers into *Mastering the Art of French Cooking* and this cookbook will not carry the two methods. **Use the stand-in below — it is now the permanent method here, and [§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) and [§7.56](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) both point at it:** braise 18–24 peeled pearl onions in a little stock and butter until tender and glazed, and sauté 1 lb quartered mushrooms in butter over high heat until browned.
 
 > **This is a flour-crust technique, not a roux** — the beef gets tossed in flour and browned dry in a hot oven rather than cooked into a butter-and-flour paste first. It thickens the braising liquid the same way a roux would, without that failure point. That's part of why this rates Medium rather than Hard, unlike this cookbook's roux-built sauces from the same source.
 
@@ -27020,8 +27020,8 @@ Transcribed from **Mastering the Art of French Cooking** — Chapter Seven: Meat
 - ½ tsp thyme
 - A crumbled bay leaf
 - The blanched bacon rind
-- 18 to 24 small white onions, brown-braised in stock *(source p. 483 — not yet transcribed)*
-- 1 lb quartered fresh mushrooms, sautéed in butter *(source p. 513 — not yet transcribed)*
+- 18 to 24 small white onions, brown-braised in stock *(source p. 483 — named, not transcribed; 🚫 not pursued — use the stand-in above)*
+- 1 lb quartered fresh mushrooms, sautéed in butter *(source p. 513 — named, not transcribed; 🚫 not pursued — use the stand-in above)*
 
 **You'll need:** a 9- to 10-inch fireproof casserole, 3 inches deep; a slotted spoon.
 
@@ -27104,7 +27104,7 @@ Transcribed from **Mastering the Art of French Cooking**, Chapter Seven: Meat, p
 
 > **Serving suggestions, per the source:** traditionally garnished with braised carrots and onions, and served with buttered noodles, parsley potatoes, or steamed rice. Braised lettuce, celery, or leeks, or buttered green peas, are other vegetable options. Pour a good, characterful red wine — Burgundy, Hermitage, Côte Rôtie, or Châteauneuf-du-Pape.
 
-> **Two garnish techniques not yet transcribed, one of them shared with [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms):** carrots braised in butter (source p. 477) and small white onions brown-braised in stock (source p. 483 — the same page §7.54 also points to). In the meantime: quarter and braise the carrots slowly in butter with a splash of stock until tender and glazed; braise the peeled onions the same way §7.54 suggests.
+> **Two garnish techniques the source hands off to its own pages, one of them shared with [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms):** carrots braised in butter (source p. 477) and small white onions brown-braised in stock (source p. 483 — the same page §7.54 points to). 🚫 2026-09-08 — Cody: not pursuing; both page numbers stay as pointers into the book and this cookbook will not carry the methods. **The stand-in below is the permanent method here:** quarter and braise the carrots slowly in butter with a splash of stock until tender and glazed; braise the peeled onions the same way §7.54 does.
 
 > **Distinct from [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms), despite the shared chapter and wine-braise family:** this is one large roast, marinated whole for 6 to 24 hours before it's ever browned, rather than cubed stewing beef browned and floured in batches. No bacon, no mushrooms, and the sauce is thickened by reduction (with an optional starch assist) rather than a flour crust.
 
@@ -27138,7 +27138,7 @@ Transcribed from **Mastering the Art of French Cooking**, Chapter Seven: Meat, p
 **For the garnish and finishing**
 
 - 2 lb carrots, quartered, braised in butter *(source p. 477 — not yet transcribed)*
-- 24 to 36 small white onions, brown-braised in stock *(source p. 483 — not yet transcribed; shared with [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms))*
+- 24 to 36 small white onions, brown-braised in stock *(source p. 483 — named, not transcribed; 🚫 not pursued — use the [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) stand-in)*
 - 1 Tbsp arrowroot or cornstarch mixed with 2 Tbsp Madeira or port, if the sauce needs thickening
 - Parsley sprigs, for decoration
 
@@ -27224,7 +27224,7 @@ Transcribed from **Mastering the Art of French Cooking**, Chapter Six: Poultry, 
 
 > **This is the third of this cookbook's three wine-braises from the same book, and the source itself groups them.** [§T24](#t24-the-french-sauce-families--roux-ratios)'s own note on *Sauce Bourguignonne* names *"boeuf bourguignon and coq au vin"* as its two examples, citing this exact recipe's page (263) directly. Compare [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) — same bacon-onion-mushroom-in-red-wine family, chicken instead of beef.
 
-> **Two garnish techniques not yet transcribed, both already flagged in [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)/[§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine):** small onions brown-braised in stock (source p. 483) and mushrooms sautéed in butter (source p. 513) — the same two pages those recipes cite. In the meantime, use the same stand-in method noted there.
+> **Two garnish techniques the source hands off to its own pages, both already flagged in [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)/[§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine):** small onions brown-braised in stock (source p. 483) and mushrooms sautéed in butter (source p. 513) — the same two pages those recipes cite. 🚫 2026-09-08 — Cody: not pursuing; the page numbers stay as pointers into the book, and **[§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)'s stand-in — pearl onions braised in stock and butter, mushrooms sautéed in butter over high heat — is the permanent method for all three recipes.**
 
 **Yield:** for 4 to 6 people
 
@@ -27246,8 +27246,8 @@ Transcribed from **Mastering the Art of French Cooking**, Chapter Six: Poultry, 
 - 2 cloves mashed garlic
 - ¼ tsp thyme
 - 1 bay leaf
-- 12 to 24 small onions, brown-braised in stock *(source p. 483 — named but not transcribed)*
-- ½ lb mushrooms, sautéed in butter *(source p. 513 — named but not transcribed)*
+- 12 to 24 small onions, brown-braised in stock *(source p. 483 — named, not transcribed; 🚫 not pursued — use the [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) stand-in)*
+- ½ lb mushrooms, sautéed in butter *(source p. 513 — named, not transcribed; 🚫 not pursued — use the [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) stand-in)*
 - Salt and pepper, to correct the seasoning at the end
 - 3 Tbsp flour
 - 2 Tbsp softened butter
@@ -27321,8 +27321,8 @@ Shortly before serving, bring it to a simmer, basting the chicken with the sauce
 
 **The recipe itself is complete.** The only things not transcribed are the two garnish techniques it points at by page number, and neither is a gap in *this* recipe's method:
 
-- **Brown-braised onions, source p. 483 — named but not transcribed.** The same page [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and [§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) already cite. Use the stand-in method described in [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) until that page is photographed. Tracked in [§12](#12-recipes-to-document).
-- **Sautéed mushrooms, source p. 513 — named but not transcribed.** Same situation, same stand-in. Tracked in [§12](#12-recipes-to-document).
+- **Brown-braised onions, source p. 483 — named, not transcribed.** The same page [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) and [§7.55](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) cite. 🚫 2026-09-08 — Cody: not pursuing; the reference stays a pointer to the book, and [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)'s stand-in method is what this cookbook uses — permanently, not provisionally.
+- **Sautéed mushrooms, source p. 513 — named, not transcribed.** 🚫 2026-09-08 — same ruling, same stand-in: sauté quartered mushrooms in butter over high heat until browned, per [§7.54](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms).
 
 #### Nutrition *(estimated)*
 
@@ -27549,9 +27549,9 @@ Add the cream and boil it down until it has thickened slightly. Correct the seas
 **3. Off heat, finish with butter and herbs.**
 Just before serving, off heat, swirl in the butter and optional herbs. Pour the sauce over the chicken.
 
-#### D. Variation — Poulet Sauté Chasseur (Tomato and Mushroom Sauce) *(named, not transcribed)*
+#### D. Variation — Poulet Sauté Chasseur (Tomato and Mushroom Sauce) *(named, not transcribed — 🚫 closed 2026-09-08)*
 
-Printed on source p. 256 directly under à la Crème, and it is one sentence long: *"Use the same technique as for the veal scallops on page 368,* escalopes de veau chasseur.*"* That page is **not photographed**, so there is nothing here to transcribe and none of it is invented — a chasseur is a tomato-and-mushroom pan sauce, but the source's actual proportions and method live on p. 368. Tracked in [§12](#12-recipes-to-document). Sauté the chicken by the master recipe above; the sauce is the open half.
+Printed on source p. 256 directly under à la Crème, and it is one sentence long: *"Use the same technique as for the veal scallops on page 368,* escalopes de veau chasseur.*"* The whole sauce is handed off to that veal-scallop recipe, and nothing about it is printed with the chicken. 🚫 2026-09-08 — Cody: not pursuing; **the p. 368 reference stays as a pointer into *Mastering the Art of French Cooking*, and this cookbook will not carry the chasseur.** A chasseur is a tomato-and-mushroom pan sauce, but the source's own proportions and method are on that page and are deliberately not invented here. **What to cook instead:** sauté the chicken by the master recipe above and finish it with the [à la Crème variation in Section C](#758-poulet-sauté-sautéed-chicken), which is printed in full — or open the book to p. 368.
 
 #### E. Variation — Poulet Sauté aux Herbes de Provence (Chicken Sautéed with Herbs and Garlic, Egg Yolk and Butter Sauce)
 
@@ -27599,8 +27599,8 @@ Beat the egg yolks in the small saucepan until they are thick and sticky. Beat i
 **7. Warm the sauce very gently. 4 to 5 seconds.**
 Beat the sauce over **very low** heat for 4 to 5 seconds to warm and thicken it. Seconds, not minutes: this is the moment it can break, and there is no rescuing it once the yolks seize.
 
-**8. ⚠️ The finish runs onto an unphotographed page — this is where the source text stops.**
-The page ends mid-sentence at *"Remove from heat and beat in"* — the rest of that sentence is on **p. 258, which Cody has not photographed.** What follows is almost certainly the optional 2 or 3 Tbsp softened butter listed in the ingredient column beside this step, beaten in off heat exactly as the master recipe and à la Crème both finish. **That is an inference from the ingredient list and the pattern of the other two sauces, not printed text**, and the sentence's actual ending — and anything after it, including how the sauce is poured or served — is unknown. Tracked in [§12](#12-recipes-to-document).
+**8. Beat in the butter off the heat. ⚠️ The final quantity is inferred, not printed.**
+Source p. 257 ends mid-sentence at *"Remove from heat and beat in"* and the rest is on p. 258. 🚫 2026-09-08 — Cody: not pursuing that page; **this is the one place in the cookbook where a step's ending is genuinely missing, and the entry says so rather than papering over it.** Cook it this way: **off the heat, beat in the optional 2 to 3 Tbsp of softened butter** listed in this step's own ingredient column, exactly as the master recipe and the à la Crème variation both finish, then spoon the sauce over the chicken and serve at once. **Read that butter quantity as inferred from the ingredient column and from the pattern of the other two sauces in this entry — it is not printed text**, and whatever else p. 258 says about pouring or serving is unknown and will stay unknown. The sauce works as written; the uncertainty is in the amount, not the technique.
 
 #### F. The Source's Two (\*) Make-Ahead Notes *(source p. 256)*
 
@@ -28810,7 +28810,7 @@ Place 1 tablespoon each of salt and cumin in separate tiny bowls and put them on
 
 #### Open Questions
 
-- **Moroccan Shallot Relish (page 445)** and **A Simple Harissa (page 481)** — both integral to how this dish is actually eaten, cited by name but not yet transcribed or in this cookbook.
+- **Moroccan Shallot Relish (page 445)** and **A Simple Harissa (page 481)** — the source's own accompaniments, cited by name. 🚫 2026-09-08 — Cody: not pursuing; the kebabs stand on their own and both condiments are simply not in this cookbook. **Buy harissa** (`GEN Harissa paste`) rather than chase the page, and serve the shallots as a quick raw relish — sliced shallot, lemon, salt, parsley — if you want one.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -29050,8 +29050,8 @@ On the bottom half of each bun, place a lettuce leaf, followed by a slice of oni
 
 #### Open Questions
 
-- **Garlic-Herb Butter (page 450)** — the herb butter this recipe is built around, cited by name but not yet transcribed or in this cookbook. Once it arrives, it's also a candidate for [§T30 How to Use Fat](#t30-how-to-use-fat)'s existing "Used in" list.
-- **Sweet onion prep (page 380)** — referenced for the optional grilled-onion topping, not yet transcribed.
+- **Garlic-Herb Butter (page 450)** — the herb butter this recipe is built around, cited by name. 🚫 2026-09-08 — Cody: not pursuing; the source's page is simply not in this cookbook. **Stand in a compound butter from what is here:** mash softened salted butter with minced garlic and chopped parsley, chives or tarragon, chill it, and slice it into the four half-inch coins the recipe calls for — the same logic as [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) and [§4.133 Beef Butter](#4133-beef-butter). The burger is complete with it.
+- **Sweet onion prep (page 380)** — referenced for the optional grilled-onion topping. 🚫 2026-09-08 — Cody: not pursuing; it is an optional topping on an optional page. Slice a sweet onion thin and use it raw, or grill the slices until they char and soften — that is the whole of it.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -34832,7 +34832,7 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Seafoo
 - 2 Chilean sea bass or other fillets (6 to 8 oz each)
 - 3 Tbsp mayonnaise
 - ½ cup [Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) *(§4.174 in this cookbook; book p. 194)*
-- **Optional:** the source has also done this with **Black Garlic Butter** (book p. 186) instead of the poblano-basil cream sauce. ⚠️ **That butter is *not* in this cookbook** — p. 186 has never been photographed, so it is named here and left at that rather than invented. *(It is not the same thing as the sauce built into [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce), which is its own recipe from the book's p. 318.)*
+- **Optional:** the source has also done this with **Black Garlic Butter** (book p. 186) instead of the poblano-basil cream sauce. **That butter is *not* in this cookbook** — 🚫 2026-09-08 — Cody: not pursuing; the p. 186 reference stays as a pointer into *The Meathead Method* and the butter will not be carried here. **[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) is the finish this entry is written around, and the recipe is complete with it.** *(The black garlic butter is not the same thing as the sauce built into [§7.143 Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce), which is its own recipe from the book's p. 318 and is fully written up.)*
 
 **SERVE WITH:** basmati rice, to soak up the sauce. *(The page names the rice but gives no quantity or method.)*
 
@@ -34886,7 +34886,7 @@ Toss the wood into the **GrillGrate valleys directly below where the fish will s
 
 #### D. Open Questions
 
-- **Black Garlic Butter (book p. 186) is named as an alternative to the cream sauce and is not in this cookbook.** p. 186 has never been photographed in any batch from this source. Named here, not invented. One photo of p. 186 would close it.
+- **Black Garlic Butter (book p. 186) is named as an alternative to the cream sauce and is not in this cookbook.** 🚫 2026-09-08 — Cody: not pursuing; the reference stays a pointer to the book. **[§4.174 Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) is what this dish is finished with here**, and [§7.143](#7143-scallops-with-black-garlic-butter-sauce) is the black-garlic-butter recipe this cookbook does have if that is the flavor you're after.
 - **Warp 7 has no printed definition** anywhere in this project's photographs of this book — see [§T99](#t99-the-warp-heat-scale-the-meathead-method). The gloss above is a cookbook inference, and Cody has 🚫 closed the hunt for the defining page (2026-09-07), so it stays one.
 - **No smoke-wood species is specified** — the page says only "wood, pellets, chips, or sawdust," about 4 oz. Noted rather than invented.
 
@@ -35010,7 +35010,7 @@ The page's own last two lines, and its own last three words.
 - **The page gives no dry-brine salt quantity or timing** for Step 5 — only "dry brine and then smoke." [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) is this cookbook's standing rate; noted rather than invented. Note also that the brine goes on *immediately* before the smoke here, with the seven-hour bath doing the migrating, rather than the usual overnight rest.
 - **No smoke-wood species is specified** for the 90-minute pellet smoke. Noted rather than invented.
 - **No Red Meat Rub quantity is given** for a roast this size. Apply to taste.
-- **The rib cap's own cooking method is a page reference, not a recipe** — "cook it the same way I cook flank, hot and fast (page 231)." **Book p. 231 is not in this cookbook**, so the flank method it points to is named here, not transcribed.
+- **The rib cap's own cooking method is a page reference, not a recipe** — "cook it the same way I cook flank, hot and fast (page 231)." 🚫 2026-09-08 — Cody: not pursuing; **book p. 231 stays a pointer into *The Meathead Method* and this cookbook will not carry the flank method.** Hot and fast over direct heat to medium-rare, rested and sliced thin across the grain, is what the instruction means; [§7.106 Big Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) and [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) are the hot-and-fast beef methods written up here. **The prime rib itself is complete** — the rib cap is a byproduct of the butchery, not part of the roast.
 - **Warp 10 has no printed definition** — see [§T99](#t99-the-warp-heat-scale-the-meathead-method); Cody has 🚫 closed that hunt, so it stays an inference (here: the hottest the grill goes).
 
 [↑ Table of Contents](#table-of-contents)

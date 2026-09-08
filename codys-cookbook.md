@@ -2155,7 +2155,7 @@ The card is complete as written but leaves out several things a first-time maker
 - 7 tsp onion salt *(2 Tbsp + 1 tsp)*
 - 6 tsp garlic salt *(2 Tbsp)*
 - 5 tsp **white pepper** *(1 Tbsp + 2 tsp)* — the defining note; five times any other non-salt ingredient, and meant to be tasted
-- 1 tsp cayenne pepper *(up to 2 tsp for a hotter jar — but go much past that and the mix stops looking whitish, which is the one visual thing Cody told us about it)*
+- 1 tsp cayenne pepper *(**1 tsp is the recipe** — per Cody, 2026-09-08, *"this really is not a spicy seasoning."* If you personally want a hotter jar you can take it to 2 tsp, but that's your option, not a recommendation; past that the mix stops looking whitish, which is the one visual thing Cody told us about it.)*
 - 1 tsp black pepper
 - 1 tsp sweet basil, dried
 - 1 tsp bay leaf, **ground** *(about 4–5 dried leaves through a spice grinder)*
@@ -2189,7 +2189,7 @@ Ground spices fade. This is a nine-ingredient blend built on aromatics that lose
 - 🛒 Onion salt — 7 tsp
 - 🛒 Garlic salt — 6 tsp
 - 🛒 White pepper — 5 tsp *(buy a fresh jar — it's the ingredient the blend is built on, and it's a fifth of the batch)*
-- 🛒 Cayenne pepper — 1 to 2 tsp
+- 🛒 Cayenne pepper — 1 tsp *(the recipe amount; 2 tsp only if you want a hotter jar than Cody's)*
 - 🛒 Black pepper — 1 tsp
 - 🛒 Sweet basil, dried — 1 tsp
 - 🛒 Bay leaves, dried — 4–5 leaves, to grind
@@ -2211,7 +2211,7 @@ Ground spices fade. This is a nine-ingredient blend built on aromatics that lose
 - ⛔ **Correction, 2026-09-08 — a wrong basis was used and then withdrawn.** An earlier pass that same day set these proportions by reasoning from **Emeril's Essence** and a **Prudhomme Seafood Magic copycat**. Cody rejected both: *"this is not an Emeril's copycat or Seafood Magic, this is a whitish looking seasoning."* Those references are gone and should not come back — they're reddish, paprika-led mixes and they were pulling this blend's cayenne and herbs far too high for something that's supposed to look white.
 - ✅ 2026-09-08 per Cody — **there is no written original. It isn't on a card anywhere**, so there's nothing to recover and this stops being a pending item. The list Cody gave, in his order, *is* the source of record; the amounts remain the cookbook's until he tastes a batch and revises them.
 - ✅ 2026-09-07 per Cody ("use your judgment") — **proportions set as cookbook judgment**, white-pepper-forward; basis in the note above. Cody's own ratios, once he writes them down after a tasted batch, replace these.
-- ❓ **Still worth his eye once he makes a batch: is the cayenne right at 1 tsp?** It was pulled down hard to protect the whitish look, and it's the one ingredient where appearance and heat pull against each other. If a jar at this ratio tastes flat to him, cayenne is the first dial to turn — up to about 2 tsp before the color starts to go.
+- ✅ **CLOSED 2026-09-08 — the cayenne is right at 1 tsp, and heat was never the point of this blend.** The question asked whether pulling cayenne down to 1 tsp to protect the whitish look had made the jar too flat. Cody's answer settles it: ***"This really is not a spicy seasoning."*** So the re-cut wasn't a compromise between color and heat — **there was no heat to preserve.** 1 tsp stands as the recipe. The ingredient line's "up to 2 tsp" is now written as an **option for someone who wants a hotter jar, not a suggestion** that the blend needs one. This is a white-pepper-and-salt blend that happens to contain cayenne, not a hot seasoning.
 - ✅ 2026-09-07 per Cody — **ground bay leaf.** "This is all ground powder." It's a true shake-on blend.
 
 [↑ Table of Contents](#table-of-contents)
@@ -23751,7 +23751,7 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 - ½ cup parsley, chopped
 - 1½ Tbsp flour, **plus more as needed to thicken the sauce** *(per Cody, 2026-09-08 — the 1½ Tbsp is where you start, not where you finish; see step 5)*
 - 3 Tbsp sherry
-- 1 pint half & half *(Cody described this step as simmering "the heavy cream" — the card says half & half. See Open Questions.)*
+- 1 pint half & half *(settled 2026-09-08 — **half & half, as the card says.** Cody had described the step as simmering "the heavy cream" and corrected himself: he misspoke, and the card governs.)*
 - Salt and cayenne pepper, to taste
 - [Captain Mike's Seasoning](#47-captain-mikes-seasoning), to taste *(the card writes it "Capt. Mike's" / "capn' mike's" — now documented at §4.7)*
 - 1 box pasta
@@ -23798,7 +23798,7 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 - 🛒 Parsley — ½ C
 - 🛒 Flour — *a pantry staple, but keep it out: step 5 adds more as needed on top of the 1½ Tbsp*
 - 🛒 Sherry
-- 🛒 Half & half — 1 pint *(Cody has also described this as heavy cream — see Open Questions before you buy)*
+- 🛒 Half & half — 1 pint *(settled 2026-09-08 — buy half & half. Cody misspoke when he said heavy cream; the card governs.)*
 - 🛒 Salt & cayenne pepper
 - 🛒 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) — *not a store brand; mix it yourself from §4.7*
 - 🛒 Pasta — 1 box
@@ -23821,7 +23821,8 @@ Cook the pasta and prepare the asparagus (steamed or roasted both work) while th
 - ~~"Capt. Mike's" appears on the card as the seasoning brand — worth confirming exactly which product this is.~~ **Settled 2026-08-09 — it isn't a store brand at all.** Cody identified it as a blend: onion and garlic salt, white pepper, cayenne, black pepper, sweet basil, bay leaf, oregano, and thyme, with the **white pepper** as its defining note. Now documented at **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning)** — no store trip needed. *(Proportions still aren't recorded — that's an open question on §4.7 now.)*
 - ✅ **CLOSED 2026-09-08 — Cody confirmed it, and the answer is now [step 5](#713-crawfish-elegante).** Re-posed the same day and answered the same day: **yes, the sauce does simmer after the cream goes in, you keep stirring the whole time, you simmer it to thicken it if it needs thickening, and you add flour as needed to get it there** — his words were that it isn't "a teeny bit of flour," it's flour as needed. **The one thing he did not give is a number of minutes**, and that turns out to be the right answer rather than a gap: this is a thicken-until-it-looks-right step, so step 5 gives the visual cue instead of a clock. *(The old question asked for "a yes/no plus a number." It got the yes and a better answer than a number.)*
   - **What was already known and still holds:** his daughter cooked this straight off the method as written and it came out perfectly, so nothing above needed correcting to accommodate the answer — step 5 makes explicit what the working method was already doing.
-- ⚠️ **NEW, and worth a straight answer: half & half or heavy cream?** Describing this step Cody said *"you do end up simmering the **heavy cream**"* — but **the card says 1 pint of half & half**, and that is what the ingredient list and grocery list still say. This has been left as the card has it rather than quietly swapped, because the two are not interchangeable here: **heavy cream is roughly 36% fat against half & half's 10–12%**, so it thickens far faster, resists breaking at a simmer, and would need noticeably less of the extra flour step 5 calls for. If he actually reaches for heavy cream, the flour guidance softens; if it really is half & half, step 5's "as needed" is doing more work. **Ask: which one is actually in the pot?**
+- ✅ **CLOSED 2026-09-08 — half & half. The card governs, and Cody corrected himself.** Asked point-blank whether the pot gets half & half or heavy cream, he answered: ***"whatever the recipe says. If it says half and half, do half and half… I may have misspoke when I said simmer heavy cream."*** **The card says 1 pint of half & half, so half & half stands** — in the ingredients, in the grocery list, and in step 4. Nothing above changes; the ⚠️ flag and the "check before you buy" note on the grocery line are gone.
+  - **Why it mattered enough to ask:** heavy cream is roughly 36% fat against half & half's 10–12%, so it thickens far faster and resists breaking at a simmer. Since it really is half & half, **step 5's "flour as needed" is doing real work** — that guidance stays exactly as written.
 
 [↑ Table of Contents](#table-of-contents)
 

@@ -244,7 +244,7 @@ Click any recipe to jump straight to it.
 
 - [1. Cody's Pho](#1-codys-pho) ✅ ❤️
 - [2. Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ✅ ❤️
-- [3. Darcy's Steak](#3-darcys-steak) ○ *(rub is done — method still open)* ❤️
+- [3. Darcy's Steak](#3-darcys-steak) ✅ ❤️
 
 **[5. Vegetables & Sides](#5-vegetables--sides)**
 
@@ -976,6 +976,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.186 Thai Sweet Chile Sauce (Nam Jim Kai)](#4186-thai-sweet-chile-sauce-nam-jim-kai) *(The Meathead Method)* | 🟢 | 20 min | 10 min *(bring to a simmer, then 5 min)* | — | 30 min *(as printed; best after a day in the fridge)* |
 | [§7.123 Kufte Kebabs](#7123-kufte-kebabs) | 🟢 | 25 min | 8 min | — | 35 min |
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
+| [§3 Darcy's Steak](#3-darcys-steak) | 🟡 | 15 min | 20 min | **4–6 hr** *(sous vide, unattended)* | 5–6½ hr *(+ an optional overnight ice-cooler chill — Step 4)* |
 | [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 20 min | 15 min *(gravy)* | **2–5 hr** *(smoker at 325°F, by weight, to 160°F breast)* | ~1 day *(includes the 12–24 hr dry brine; add 1 week to thaw a frozen bird)* |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
@@ -1223,7 +1224,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
-*Recipes still in placeholder form (§3, §5.1–5.9, §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.4, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
+*Recipes still in placeholder form (§5.1–5.9, §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.4, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
 *Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
 
@@ -1618,22 +1619,110 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 
 ## 3. Darcy's Steak
 
-> **Placeholder — not yet written up.**
+Cody's own steak, dictated 2026-09-08 — and the first thing to know is **what the sous vide is actually for here.** This is not a prime-ribeye technique. **He uses sous vide to make a cheap, lower-quality cut tender**, and that is the entire reason the method exists in his kitchen: the long, low bath does the work that a better cut wouldn't need doing. Then it comes out of the bag, gets patted bone dry, gets a shot of avocado oil, and gets seared over the top of a **roaring charcoal chimney**. Seasoning is already documented at [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub). The one piece of the method most people have never seen is **the ice cooler** — Step 4 — which is what lets him sear it *longer* and still land medium rare.
 
 **❤️ Family favorite** — *Cody: "Love it."*
+
+> ❄️🔥 **TWO COOLERS IN THIS COOKBOOK, AND THEY DO OPPOSITE JOBS. Don't mix them up.** Cody asked for this spelled out explicitly, in his own words: *"the pulled pork and smoked pork — that cooler has no ice, and you wanna make sure that that cooler is designed to keep heat in and keep it hot and keep it steaming in there. This, however, has ice in it for the sous vide steak."*
 >
-> **Seasoning is already documented:** see [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub). Salt and pepper the steak first, adjusted for the thickness of the cut, then layer the rub on top.
+> | | **[§3 Darcy's Steak](#3-darcys-steak)** *(this recipe)* | **[§6.9 Cody's Pulled Pork](#69-codys-pulled-pork)** |
+> |---|---|---|
+> | **Ice in the cooler?** | **YES — packed with ice** | **NO. None, ever.** |
+> | **What the cooler is doing** | **Chilling** the bagged steak down hard, so it goes to the fire cold | **Holding heat in** — keeping the butt hot and steaming |
+> | **Why** | A cold interior buys you more seconds of sear before the center climbs | A whole butt stays above 140°F for hours on its own thermal mass ([§T43 Faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours)) |
 >
-> **Still needed:** cut and thickness, cooking method (sous vide? cast iron? grill?), target internal temp and doneness, rest time, any sauce or compound butter, and the grocery split.
+> Same piece of equipment, opposite purpose. **Ice in a pulled pork cooler would wreck it**, and **a steak cooler without ice does nothing at all.**
+
+> **This is the numbered-recipe version of [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)**, which is the same idea written as a general formula — cheap cut, long low bath, hard sear. **Two things are different here and they're both Cody's:** the sear happens **over a charcoal chimney** rather than in cast iron, and the bath runs at **128–129°F for a thicker steak or 125°F for a thin one** rather than §T27's flat 129°F. Neither entry replaces the other; §T27 is the formula and its long tables of rubs and sauces apply here unchanged.
+
+> ⚠️ **Dry rub only in the bag — no fresh garlic, no liquid.** This is [§1 Cody's Pho](#1-codys-pho)'s established anaerobic-bag rule and it applies here exactly as written; raw garlic sealed in a bag at sub-boiling temperature is a botulism setup, and **garlic powder is the safe substitute.** [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method) both carry it forward. Not restated at length here — go read it there.
+
+**🟡 Medium** · **Prep ~15 min** *(seasoning and bagging, plus next day's drying and oiling)* · **Cook ~20 min** *(the chimney coming to full roar, then the sear itself)* · **Slow cook 4–6 hr** *(sous vide, unattended)* · **Start to finish ~5–6½ hr, or spread over two days if you use the ice cooler**
+
+> **Why 🟡 Medium and not 🟢 — it comes down to one step.** [CLAUDE.md §3a](CLAUDE.md)'s test is *can a step go from perfect to ruined?* **The bath can't.** Six hours at 128°F is about the most forgiving thing you can do to a piece of beef — it's a long distance run, same as [§1 Cody's Pho](#1-codys-pho), and the hours are Slow cook precisely because none of them can go wrong. **The sear can.** A grate sitting on top of a fully lit chimney is well over 1,000°F ([§7.107 Skinny Steaks](#7107-skinny-steaks)), the steak is already sitting at its finished internal temperature, and **there is no doneness cushion left to spend** — a few seconds too long and you've pushed a medium rare steak past it with no way back. That's the same call [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) makes for the cast-iron version of the same sear. Length and the overnight chill are in the time fields, where they belong, and they do not touch the rating.
 
 ### A. Ingredients
-*To be documented — aside from the rub in §4.1.*
+
+- **Steak — a cheaper, lower-quality cut.** That's the point of the method. *(Cody didn't name a specific cut; [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s candidate list — chuck steak, top round, sirloin, flank, skirt, flat iron — is what this is for. See Open Questions.)*
+- **Kosher salt and coarse black pepper** — **adjusted for the thickness of the cut**; a thick steak needs noticeably more
+- **[§4.1 Darcy's Steak Rub](#41-darcys-steak-rub)** — layered **on top of** the salt and pepper, not instead of it
+- **Avocado oil**, in a spray bottle or mister
+- **Charcoal** — **insta-light briquettes, or lump**
+- **Ice** — enough to pack a cooler around the bagged steak *(Step 4)*
+- A vacuum sealer or zip-top bag *(water-displacement method if you're not vacuum sealing)*
+
+*Not groceries, but this recipe doesn't happen without them: a **sous vide circulator**, a **charcoal chimney — the widest-diameter one you can find**, a **small grill grate that sits on top of the chimney**, a **cooler**, and **a dedicated towel for patting meat dry** (see Step 5 — Cody's is black and it is bought for exactly this).*
 
 ### B. Cooking Instructions
-*To be documented.*
+
+**1. Season it — salt and pepper first, then the rub on top.**
+Salt and coarse black pepper go directly on the meat, in an amount **scaled to the thickness of the cut** — a thick steak needs meaningfully more than a thin one, because the seasoning has to carry through more meat. **Then** [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) goes over it. The rub has salt and pepper in it, but not nearly enough to season a steak on its own, which is why it's a layer and not a replacement. Full reasoning is in §4.1's own Step 3.
+
+**2. Bag it and seal it. Dry rub only.**
+Vacuum seal, or use a zip-top bag and the water-displacement method to push the air out. **Nothing wet goes in the bag and no fresh garlic goes in the bag** — see the warning above. What's on the steak from Step 1 is all that belongs in there.
+
+**3. Into the bath. About 6 hours for a cheap cut; 4 hours is the general minimum. Thicker steaks 128–129°F, thinner steaks 125°F.**
+This is the tenderizing stage and the reason the whole method exists. **Cody's numbers:** *about six hours for a cheap cut*, with **four hours as a general floor** — under that you haven't given the connective tissue enough time to give up. **Temperature is set by thickness, not by preference: 128–129°F for a thicker steak, 125°F for a thinner one held a long time.** A thick steak has a real temperature gradient to overcome and can take the extra degrees; a thin one is at bath temperature almost immediately, so it gets a lower number and time does the rest. It is completely hands-off once the bag is in the water — set it and walk away.
+
+> 🌡️ **On 125°F — read this before you run a thin steak that low, and it's [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) talking, not Cody.** This cookbook's own danger-zone table runs to **130°F**, so **125°F is inside it** — which is fine for a few hours on a whole, intact steak whose interior was sterile to begin with and whose surface is the only contaminated part, and is exactly why a rare steak exists at all ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) works through this reasoning in full). It is **not** the same as the pasteurizing hold that [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) gets at 129°F, and it is not a temperature to stretch overnight. **Cody said "a long time" and didn't put a number on it** — see Open Questions. Treat 125°F as a doneness setting for a same-day cook on a thin steak, and use 128–129°F if the bath is going to run long. *(Cookbook judgment, flagged as such per [CLAUDE.md §3b](CLAUDE.md); the underlying figures are [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)'s.)*
+
+**4. THE ICE COOLER. Straight from the bath into a cooler packed with ice — chill it hard, and leave it there. Overnight is fine.**
+**This is the trick, and it is the step people don't know.** The bag comes out of the water and goes **directly into a cooler full of ice** — not the fridge, ice — and gets chilled down cold all the way through. **Cody cooks it one day and sears it the next.** What it buys you is time at the fire: **a cold interior lets you sear noticeably longer without cooking the middle past medium rare.** The mechanism is worth understanding because it's the whole point — a sear is a race between the crust forming on the outside and the heat marching inward. Start with a steak that's sitting at 128°F and that march has almost nowhere to go before it's overdone. Start with one chilled to refrigerator temperature or below and you've bought yourself real seconds of surface contact — more crust, deeper color, and a center that's still where the bath left it. **Do not skip the ice and use the fridge**; a fridge pulls a bagged steak down slowly from the outside in, and ice water pulls it down fast and evenly. **⚠️ And note what cooler this is: this one has ICE in it. That is the opposite of [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork)'s cooler, which has none** — see the callout at the top of this entry.
+
+**5. Pat it dry. Completely, obsessively dry. This is the most important step in the recipe.**
+Cody is unambiguous that this is the step that matters most, and **he owns a dedicated black towel bought for nothing but patting sous vide meat dry.** That is not a quirk to smile at — it's the measure of how seriously the step is taken, and it's good practice besides, since a towel that lives in the kitchen drawer has been used for dishes and hands and counters. **Why it matters:** water boils off before a surface can brown. A wet steak laid over the fire spends its first seconds **steaming itself** instead of searing, and by the time the surface is finally dry enough to take color, the interior has already climbed. **Dry surface, instant crust; wet surface, gray steak.** Get every face of it, get the edges, and get into the folds. And do it **while the steak is still cold from the cooler** — don't let it sit out and come up to room temperature first, because the cold is the thing you spent a day buying.
+
+**6. Spray it with avocado oil — both sides, while it's still cold.**
+**Avocado oil, specifically, and the reason is its smoke point** — it holds above 500°F, which is what you need over a chimney putting out heat far past that. Olive oil is the wrong tool here: it smokes at a much lower temperature, so it burns instead of browning and turns acrid the instant it hits the fire, leaving a bitter taste over a steak you spent a day on. A spray bottle or mister gets an even film on with a fraction of the oil a pour uses. **Straight from the towel to the oil to the fire** — the steak should still be cold going on.
+
+**7. Light the chimney and let it roar. Give it 15 to 20 minutes to come to full heat, then set the grate on top.**
+Fill the chimney — **Cody uses the widest-diameter chimney he could find**, because a wide one puts more searing surface under the grate — and light it with **insta-light briquettes or lump charcoal**. Then **let it roar.** You're waiting for the coals to go white and for flame to be coming out the top; this cookbook's own figure for a chimney at peak heat is **about 15 minutes** ([§7.107 Skinny Steaks](#7107-skinny-steaks)), and a full wide chimney runs to the longer end of that. **A small grill grate goes right on top of the chimney**, and the steak goes on the grate.
+
+> 🔥 **What a chimney sear is, and why it works — for anyone who's never seen it done.** A charcoal chimney is a metal cylinder you fill with charcoal to light it: air is pulled in the bottom, races up through the coals, and comes out the top. That column of concentrated updraft is **far hotter than the same coals spread flat under a grill grate** — the source this cookbook takes it from measures the surface over a lit chimney at **well over 1,000°F**, versus a few hundred on a normal grill. Meathead calls it the **"afterburner method"** because at night the chimney looks like the afterburner of a fighter jet. **Why it's the right fire for this recipe:** it dumps enormous heat onto one surface at a time and works so fast that the interior never has time to catch up — which is exactly the problem a sous vide steak presents, since the inside is already done. This cookbook documents it in two other places: [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) (a whole recipe built on it) and [§7.107 Skinny Steaks](#7107-skinny-steaks)'s Chef's Notes; [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) Step 5B uses it for the same job as here. **Small grates made to sit on a chimney are sold for this.** ⚠️ **It burns anything much thicker than an inch** before the center is right — which is a non-issue on a sous vide steak, since the center is already right.
+
+**8. Sear it. Flip often, and go by color — the cold steak buys you longer than usual.**
+The steak is already fully cooked, so **this step is nothing but crust.** Get it on the grate over the roaring chimney and **flip it frequently** — the cookbook's own chimney figures are 30 to 60 seconds a side, flipping ([§7.107](#7107-skinny-steaks), [§7.134](#7134-afterburner-fajitas)) — until it has a deep, even, mahogany-brown crust on both faces. **Because you chilled it in Step 4, you can carry the sear past what an unchilled steak would take** and still open it up medium rare; that's the payoff for the ice, and it's why the crust off this method is better than a straight bath-to-fire sear. **Cody didn't give a number of seconds** *(see Open Questions)* — go by the color of the crust and by the fact that the clock started cold. **Don't walk away, not for a second.** There is no doneness cushion left in this steak and a chimney is the fastest fire in this book.
+
+**9. Off, slice, and eat.**
+There is nothing to rest — it came out of a water bath at its serving temperature hours ago and the sear was seconds long, so the "let it rest" step that a grilled steak needs doesn't apply in the same way ([§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) is the entry on why resting is mostly a myth anyway). **If the cut has a grain — and the cheap cuts this method is built for usually do — slice across it**, which is half of what makes a tough cut eat tender. Everything in [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s sauce tables goes on top of this.
 
 ### C. Grocery Shopping List
-*To be documented.*
+
+**🏪 Specific store — butcher**
+
+- 🏪 Steak — **a cheaper, lower-quality cut**; this method is built for exactly that *(chuck steak, top round, sirloin, flank, skirt, flat iron — see [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method))*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Coarse black pepper
+- 🛒 Avocado oil — **spray bottle or mister** *(not olive oil — see Step 6)*
+- 🛒 Charcoal — **insta-light briquettes or lump**
+- 🛒 Ice — a bag, enough to pack the cooler *(Step 4)*
+- 🛒 Vacuum sealer bags, or zip-top freezer bags
+- Plus everything for [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) — see its own grocery list
+
+#### Nutrition *(estimated — and built on an assumed steak size, because none was given)*
+
+**Cody didn't specify a cut, a thickness, or a weight**, so there is no honest way to compute exact numbers for this one. The figures below are **an estimate built on an assumed portion — two 12 oz raw steaks of a moderately lean, tougher cut** *(the kind this method is for)* — and they are labeled that way on purpose. Scale them linearly for a different size, and expect real swing depending on the cut: a chuck steak and a top round are not the same food. *(Flagged in Open Questions per [CLAUDE.md §3b](CLAUDE.md).)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(two 12 oz raw steaks, as eaten)* | ~1,090 | 56 g | 136 g | 6 g | 1 g |
+| **Per serving** *(serves 2)* | ~545 | 28 g | 68 g | 3 g | 0.5 g |
+
+**What a serving is:** **one whole steak off the chimney — about 10 oz cooked**, which is a full dinner portion of meat with nothing else on the plate. Split a big one between two people and halve everything above.
+
+**How these were figured.** From the ingredient list, not lab figures. **Only what's eaten is counted:** a 12 oz raw steak loses roughly a fifth of its weight to juices left behind in the bag, so about 10 oz reaches the plate. **The rub and the salt and pepper are counted** — they stay on the crust, and they're where essentially all of that small carb number comes from. **The avocado oil is counted at about a teaspoon per steak**, which is what a mister actually lays down; a poured coating would be several times that. Nothing else in the method is edible — the ice, the charcoal, and the bag contribute nothing.
+
+### D. Open Questions
+
+- **Which cut, and how thick?** Cody described the method by what it's *for* — cheap, lower-quality cuts — but didn't name one, and thickness is what picks the temperature (128–129°F vs. 125°F). Worth pinning down the cut he actually buys for this. *([§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s candidate list is the stand-in.)*
+- **How long is "a long time" at 125°F?** For a thin steak he said 125°F *held a long time*, without a number. That matters more at 125°F than it would at 129°F, for the reason in the Step 3 callout — a figure from him would close it.
+- **How long is the sear, in seconds?** The whole point of the ice cooler is that it buys extra time at the fire, so the answer is longer than a normal chimney sear — but Cody didn't say how much longer. Step 8 uses this cookbook's own 30-to-60-seconds-a-side chimney figure as the starting point and says to go by color; his own number would be better.
+- **🚫 The chimney brand is deliberately unrecorded.** Cody uses **the widest-diameter chimney he could find** and was unsure of the maker — what he said sounded like *"tomato gels"* or *"trader gels,"* which doesn't match a brand this cookbook can confirm. **No brand name has been guessed at or substituted here.** Any wide chimney with a grate that fits does this job. If he can read the name off the side of it, it goes in.
+- **Is the ice cooler every time, or only when he cooks a day ahead?** It's written above as the method, since that's how he described it — bath one day, sear the next. Whether he ever goes straight from bath to fire, and what he does differently when he does, isn't recorded.
+- **Portion size for the Nutrition block** — the numbers above run on an assumed two 12 oz steaks because nothing was given. A real cut and weight would replace the assumption.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -15655,7 +15744,7 @@ Refrigerate if not baking immediately.
 <!-- TECHNIQUE-TAGS: sous-vide, steak, tenderizing, sear, cast-iron, formula -->
 **Tags:** `sous-vide` · `steak` · `tenderizing` · `sear` · `cast-iron` · `formula`
 **Source:** Cody's own method, dictated directly — not from a photographed page.
-**Used in:** no numbered recipe cites it yet.
+**Used in:** **[§3 Darcy's Steak](#3-darcys-steak)** — the numbered-recipe version of this same idea, with Cody's own temperatures, the ice-cooler chill, and a charcoal-chimney sear in place of the cast iron.
 
 > **📌 This is Cody's answer to "the perfect steak," full stop — not just a fix for cheap cuts.** Shown Steven Raichlen's *How to Grill the Perfect Steak* technique page (the grill-and-crosshatch method), his response was direct: ***"Actually I prefer sous vide — to me, the perfect steak is sous vide."*** That grilling technique was **not added to this cookbook**, on his call. Worth recording as a standing preference: when a recipe here says to grill or pan-sear a steak, sous-vide-then-sear is the house alternative, and this entry plus [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the methods to reach for.
 
@@ -22851,7 +22940,7 @@ Cody, verbatim: *"That's the trick. A lot of literature says 195 or 200. I cook 
 > 📌 **203°F vs. the 195°F elsewhere in this cookbook — both stay as written, and here's why.** [§6.2](#62-pulled-pork) and [§6.6](#66-north-carolina-pulled-pork-karmel-version) print **195°F**, and those numbers are kept exactly as transcribed because those entries are direct transcriptions of a published source and are rated on their own terms; [§7.137](#7137-tuffy-stones-championship-pork-butt) prints its own competition figures. **§6.9 is not a correction to any of them** — it's Cody's own standing practice, recorded as his. The gap is real but small in effect: 195°F is on the conservative side, and if pork isn't quite falling apart there, **a higher pull temperature is the fix, not more time at the same one.** [§6.2](#62-pulled-pork) already carries a callout saying so, and [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)/[§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) both come down at 203°F. **Cody applies 203°F across his briskets too**, not just pork — worth remembering when [§6.1 Smoked Brisket](#61-smoked-brisket) finally gets his method written into it.
 
 **6. Straight into a cooler, unwrapped. Rest 1 to 3 hours.**
-Off the smoker and **directly into a dedicated cooler** — Cody keeps one just for meat — and he doesn't bother wrapping it: *"don't have to wrap it up."* Shut the lid and walk away. **The rest runs 1 to 3 hours, and Cody's verdict on it is simply that it's great** — ✅ *2026-09-08*. Take that as written: the cooler is **not** a compromise and **not** a holding pen for a late meal, and it isn't the step to shorten when you're in a hurry. It is part of the method, and the pork comes out of it better than it went in. It will still be too hot to handle hours later. This is the **faux Cambro** ([§T43](#t43-faux-cambro--holding-meat-hot-for-hours)): a big, well-insulated, tight-sealing cooler is functionally the insulated holding box caterers use, and the sheer thermal mass of a 7-to-10 lb butt is what makes it work. Two things worth knowing while it sits: **carryover can still push the internal temperature up another 10°F**, and **the bark softens** during the hold — a few minutes back on a hot grill fixes that if you care. Clean the cooler after every use.
+Off the smoker and **directly into a dedicated cooler** — Cody keeps one just for meat — and he doesn't bother wrapping it: *"don't have to wrap it up."* Shut the lid and walk away. **The rest runs 1 to 3 hours, and Cody's verdict on it is simply that it's great** — ✅ *2026-09-08*. Take that as written: the cooler is **not** a compromise and **not** a holding pen for a late meal, and it isn't the step to shorten when you're in a hurry. It is part of the method, and the pork comes out of it better than it went in. It will still be too hot to handle hours later. **☠️ And it is worth being blunt about the one way to ruin this step: THERE IS NO ICE IN THIS COOLER.** ✅ *Cody asked for this spelled out, 2026-09-08.* The cooler here is an **insulated box holding heat in** — you want it hot and steaming in there. **Ice would destroy it.** The reason the warning is worth printing is that this cookbook has a second cooler doing the exact opposite job: **[§3 Darcy's Steak](#3-darcys-steak)'s cooler is packed with ice**, because that one is chilling a bagged sous vide steak down hard before it goes to the fire. **Same equipment, opposite purpose — pork cooler hot and dry, steak cooler cold and full of ice.** This is the **faux Cambro** ([§T43](#t43-faux-cambro--holding-meat-hot-for-hours)): a big, well-insulated, tight-sealing cooler is functionally the insulated holding box caterers use, and the sheer thermal mass of a 7-to-10 lb butt is what makes it work. Two things worth knowing while it sits: **carryover can still push the internal temperature up another 10°F**, and **the bark softens** during the hold — a few minutes back on a hot grill fixes that if you care. Clean the cooler after every use.
 
 > 🌡️ **The cooler rest has a real rule behind it: 140°F. Check it, don't guess it.** This is stated as **cookbook judgment** per [§13](#13-meathead-cookbook) — it's food-safety reasoning added to Cody's method, not something he said. **The hold is safe for as long as the meat stays above 140°F.** That's the top of the danger zone ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) puts it at 41–130°F, with 140°F the conventional hot-holding floor and a comfortable margin above it); below that number the clock genuinely starts, and hours of sitting at 110°F is a different situation entirely. **The good news is that a whole butt makes this easy.** **Preheat the cooler first** — fill it with hot tap water, close it for ten minutes, dump the water, dry it, line it with a towel, and load the meat into an aluminum pan on top. Preheated and packed that way, a whole 8-pounder that went in at 203°F will sit **above 140°F for four-plus hours without difficulty**, purely on mass. **Cody's 1-to-3-hour rest sits comfortably inside that window** — a whole butt isn't going to approach 140°F in three hours — so this is a ceiling worth knowing rather than a constraint on his method. **Leave a probe thermometer in it with the cable out the lid, and let the number tell you, rather than the feel of the lid.** A butt already pulled into shreds cools far faster than a whole one; that's a fridge job, not a cooler job.
 
@@ -41983,12 +42072,12 @@ Let it sit 10 minutes, turn it out of the pan, and let it cool **all the way** �
 
 Named but not yet stubbed into a section of their own. Everything in §5–§11 is already stubbed and just needs details; this table is for anything that hasn't gotten that far.
 
-> **🚫 This table no longer asks for a single page — closed 2026-09-08.** Cody's ruling, in his own words: *"go ahead and close the new referenced recipes, I don't think we need to reshoot. I'm not looking to reshoot anything else so we can clear that out."* **Every row below is settled.** Each one says what stands in its place — an existing entry, a written-out stand-in method, a canned or store-bought substitute, or a plain statement that the dish is not in this cookbook and the recipe is complete without it. **Nothing here is waiting on a photograph.** The only genuinely open items left in the whole cookbook are **questions for Cody** (facts and decisions he has yet to give, flagged in each entry's own Open Questions) and the **undictated placeholder stubs** in §3 and §5–§11, which need a walkthrough rather than a page.
+> **🚫 This table no longer asks for a single page — closed 2026-09-08.** Cody's ruling, in his own words: *"go ahead and close the new referenced recipes, I don't think we need to reshoot. I'm not looking to reshoot anything else so we can clear that out."* **Every row below is settled.** Each one says what stands in its place — an existing entry, a written-out stand-in method, a canned or store-bought substitute, or a plain statement that the dish is not in this cookbook and the recipe is complete without it. **Nothing here is waiting on a photograph.** The only genuinely open items left in the whole cookbook are **questions for Cody** (facts and decisions he has yet to give, flagged in each entry's own Open Questions) and the **undictated placeholder stubs** in §5–§11, which need a walkthrough rather than a page. *(§3 Darcy's Steak came off that list on 2026-09-08 — Cody dictated the method and it is written up in full.)*
 
 | Recipe | Notes so far | Status |
 |---|---|---|
 | [Cody's Pho](#1-codys-pho) | Written up in full from Cody's walkthrough | ✅ Complete — §1 |
-| [Darcy's Steak](#3-darcys-steak) | Rub documented in §4.1; method still open | Placeholder — §3 |
+| [Darcy's Steak](#3-darcys-steak) | ✅ **Closed 2026-09-08 — Cody dictated the method.** Sous vide to tenderize a cheap cut (4–6 hr; 128–129°F thick, 125°F thin), the ice-cooler chill, then a sear over a roaring charcoal chimney. Rub was already at [§4.1](#41-darcys-steak-rub) | ✅ Complete — §3 |
 | [Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) | Transcribed from Cody's photographed cookbook page; margin note "Awesome! 12/19/14" | ✅ Complete — §8.3 |
 | [Crawfish Elegante](#713-crawfish-elegante) | Transcribed from Cody's photographed recipe card | ✅ Complete — §7.13 |
 | [**New Orleans blended crab & shrimp sauce**](#48-shrimp-and-crab-butter-cream-sauce) *(name now known)* | ✅ **SOLVED 2026-09-08 — it is [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce), *Louisiana Kitchen* p. 254.** Cody photographed p. 254 and the page settles it: it is the only crab-and-shrimp-together sauce in that book's *Sauces & Gravies* chapter, it is exactly the rich, thick, all-in-one-pot sauce he described, and the source itself sells it as a sauce for stuffed vegetables, stuffed fish, pasta and omelets. **Two details of his memory don't survive the page, and are recorded rather than smoothed over:** there is **no blender** anywhere in the method — the shrimp and crabmeat go in whole at the end — and there are **no oysters** in the ingredient list. This row's earlier rulings that §4.8 "is not it" and that §4.8 leaves the seafood whole were both based on the blender detail, and the blender is the part that was misremembered. [§4.21 Czarina Sauce](#421-czarina-sauce-with-shrimp-or-crawfish) remains correctly excluded. **Row closed.** *(Historical note, kept: the 2026-09-08 Prudhomme batch covering pp. 242–245, 250–253, 268 and 282–286 did not contain it — the answer came from the later p. 254 photograph.)* | ✅ Closed — §4.8 |

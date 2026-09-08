@@ -127,6 +127,37 @@ Tag by the recipe's own content, not by which section it sits in. Keto recipes t
 
 **The recurring substitutions** across these are worth recognizing when a new one arrives: cauliflower for potatoes, almond flour and oat fiber for wheat flour, erythritol for sugar, whey protein powder for breading. When a new keto recipe uses one of these, cross-reference the others that already do.
 
+## 3d. "Use Your Judgment" — What That Actually Requires
+
+**Added 2026-09-08 at Cody's direction.** When Cody says **"use your judgment," "figure it out," "you decide,"** or anything of that shape, that is not permission to guess. It is an instruction to go research it properly and then write it down with its basis.
+
+**In his words:**
+
+> *"If I say I'd like you to figure it out — from now on, if I say something like that or use your judgment — I'd like you to look at a really credible cooking source. Professional chefs, tried-and-true websites that aren't just a Pinterest or Facebook flare. These are real chefs with real credentials, and I'd like you to look through what they have to say."*
+
+**What counts as a source:**
+
+- **This cookbook first.** If something already here answers it, that beats anything external — it's already sourced, and it keeps the book internally consistent. *(Example: "3 mild hot peppers" was answered from [§T105](codys-cookbook.md#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s own Scoville table, not from a web search.)*
+- **Named cookbook authors already in this book** — Prudhomme, Raichlen, Meathead, Julia Child, Nosrat, Canal House.
+- **Professional test kitchens and chefs with real credentials** — the kind of place that tests a recipe before publishing it.
+- **Government food-safety sources** for anything about temperature or safety — USDA FSIS above all.
+
+**What does not count, and must never be used:**
+
+- **Pinterest, Facebook, and social recipe reposts.** Cody named these specifically.
+- **SEO content farms and recipe aggregators** — the sites that rank well and cook nothing.
+- **User-submitted recipe archives and anonymous copycat pages.** A copycat recipe posted by an unnamed user is not a source; it's a guess with formatting. *(This rule exists because one was used, on 2026-09-08, for [§4.7 Captain Mike's](codys-cookbook.md#47-captain-mikes-seasoning) — Cody rejected the result outright.)*
+
+**How to write it up, every time:**
+
+1. **Label the fill as cookbook judgment** — plainly, where a reader will see it, not buried in a footnote.
+2. **Name the source you reasoned from.** Publication and author or recipe name is enough. **Do not attach a URL you cannot verify from this environment** — a wrong link is worse than no link.
+3. **State what is Cody's and what is the cookbook's.** The ingredients, the order, the technique may be his; if the numbers are yours, say so in that sentence.
+4. **Say plainly that his own figures supersede yours** the day he gives them. They always do.
+5. **Log it in `CHANGELOG.md`** like any other change.
+
+**And judgment has a limit: it fills gaps, it does not invent facts.** If the honest answer is that the source never says and no credible reference covers it, that stays an Open Question. Never dress a guess up as research.
+
 ## 4. Handling Recipe Revisions
 
 Cody will frequently come back after cooking and ask for a tweak — e.g., "Add another teaspoon of hot sauce to Crawfish Elegante."

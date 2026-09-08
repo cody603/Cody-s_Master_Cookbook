@@ -3141,8 +3141,8 @@ In a 1-quart saucepan over high heat, melt the butter until about half melted, s
 **2. Add the garlic and cook until the foam is barely browned. 2–3 minutes.**
 Keep shaking the pan occasionally as the butter finishes melting and the foam on the surface just starts to brown.
 
-**3. Stir in the parsley and boil until light brown and foamy. 1–2 minutes.**
-Bring to a boil, shaking the pan, until the sauce is light brown and very foamy.
+**3. Stir in the parsley and cook until light brown and very foamy. 1–2 minutes.**
+Keep it cooking — the source says *cook*, not boil. What you're watching for is the sauce going light brown and **very** foamy; that heavy foam is the doneness cue, and it arrives within a minute or two of the parsley going in.
 
 **4. Remove from heat and drizzle immediately over the food.**
 
@@ -3166,6 +3166,11 @@ Bring to a boil, shaking the pan, until the sauce is light brown and very foamy.
 #### D. Open Questions
 
 - **Oysters en Brochette (page 82)** — the source's other serving suggestion for this sauce, not in this cookbook.
+
+#### E. Verification
+
+- ✅ 2026-09-08 transcribed and verified against Cody's photograph of pp. 242–243. Both pages confirmed by their printed footers (242, 243) and running heads. All three quantities — ⅜ lb (1½ sticks) butter, 2 tsp minced garlic, 1 Tbsp plus 1 tsp minced fresh parsley — read clean at native resolution. The salted-butter note is the source's own: *it browns more easily.*
+- ✅ 2026-09-08 **step 3 reworded to match the printed method.** It had said to *bring to a boil*; the book says to **cook** until the sauce is light brown and **very** foamy. No time, temperature, or quantity changed — but "boil" is the wrong instinct for a browning-butter sauce, where you're reading color and foam rather than driving the heat, so the wording is now the source's.
 
 [↑ Table of Contents](#table-of-contents)
 

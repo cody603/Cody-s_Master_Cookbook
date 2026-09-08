@@ -988,7 +988,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.18 Lemon Butter Sauce](#418-lemon-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.19 Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.34 Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
-| [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) | 🟡 | 5 min | 5 min | — | 10 min |
 | [§4.92 Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) | 🟢 | 5 min | 5 min | — | 10 min |
 | [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) | 🟢 | 10 min | — | — | 10 min |
 | [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -1055,6 +1054,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) | 🟢 | 15 min | — | — | 15 min |
 | [§4.28 Chinese Five-Spice Rub](#428-chinese-five-spice-rub) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.32 Texas Chili Rub](#432-texas-chili-rub) | 🟡 | 10 min | 5 min | — | 15 min |
+| [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) | 🟢 | 15 min | — | — | 15 min |
 | [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) | 🟢 | 15 min | — | — | 15 min |
@@ -3971,46 +3971,46 @@ Stir in the onion and jalapeño. Taste for seasoning, adding black pepper or hot
 
 ### 4.35 Mustard Barbecue Sauce
 
-Transcribed from **Steven Raichlen's *How to Grill***. *"Mustard goes great with grilled sausage, ham steak, pork chops, and other rich meats. Perhaps that's the rationale behind the mustard barbecue sauces that are popular in Georgia and South Carolina."* Raichlen's own version uses a Dijon-style or grainy mustard rather than strictly authentic yellow ballpark mustard.
+Transcribed from **Steven Raichlen's *How to Grill*, p. 448**. *"Mustard goes great with grilled sausage, ham steak, pork chops, and other rich meats. Perhaps that's the rationale behind the mustard barbecue sauces that are popular in Georgia and South Carolina. Serve this version with any type of barbecued pork. It's not half bad with chicken, either."* To be strictly authentic you'd use yellow ballpark mustard, but Raichlen prefers the punch of a Dijon mustard or a grainy mustard from Meaux.
 
-**Yield:** about 1½ cups
+**Yield:** MAKES ABOUT 1½ CUPS
 
-**🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** · **Start to finish ~10 min**
+**🟡 Medium** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
 
 #### A. Ingredients
 
-- 2 Tbsp mustard seeds
+- 2 Tbsp yellow mustard seeds
 - 1 Tbsp butter
 - 1 slice bacon, thinly slivered
-- ⅓ onion, finely diced
-- ½ cup Dijon-style or grainy mustard
+- ½ onion, finely diced
+- 1 cup Dijon-style or grainy mustard
 - ½ cup cider vinegar
-- ⅓ cup firmly packed brown sugar
+- ½ cup firmly packed brown sugar
 - 2 Tbsp molasses
 - Coarse salt and black pepper
 
 #### B. Cooking Instructions
 
 **1. Toast the mustard seeds. 2 to 3 minutes.**
-Toast the mustard seeds in a dry skillet over medium heat until fragrant and lightly browned, 2 to 3 minutes. Do not let burn. Transfer to a heatproof bowl.
+Toast the mustard seeds in a dry nonreactive saucepan over medium heat until lightly browned, 2 to 3 minutes. Seeds go from browned to scorched fast and the pan is dry, so keep them moving and pull them the moment the color turns. Transfer the mustard seeds to a small heatproof bowl to cool — off the hot pan, or they keep toasting.
 
-**2. Cook the bacon and onion, then build the sauce.**
-Whisk in the butter, bacon, and onion into the same skillet and cook over medium heat until the onion is lightly browned, 3 to 4 minutes. Stir in the mustard, vinegar, sour cream — *(per Step 3 below)* — mustard, and Worcestershire sauce, adding mustard and Worcestershire sauce as necessary.
+**2. Cook the bacon and onion, then build and simmer the sauce. 5 minutes.**
+Add the butter, bacon, and onion to the pan and cook over medium heat until the onion is lightly browned, 3 to 4 minutes. Stir in the mustard, vinegar, brown sugar, molasses, and **half** of the toasted mustard seeds — half, not all; the rest is a garnish and is held back deliberately. Gradually bring to a boil, then reduce the heat and gently simmer the sauce until thick and richly flavored, 5 minutes. Add salt and pepper — plenty of the latter — to taste.
 
-**3. Add the brown sugar and molasses. Simmer 5 minutes.**
-Stir in the mustard, brown sugar, and molasses, bringing to a boil. Reduce the heat and gently simmer the sauce until thick and richly flavored, 3 to 5 minutes. Add salt and pepper (plenty of the latter) to taste.
+**3. Jar it, and save the rest of the seeds for the table.**
+Transfer the sauce to clean (or even sterile) jars and store in the refrigerator. Store the remaining toasted mustard seeds in an airtight container of their own and sprinkle them over the sauce just before serving — they stay crunchy that way, which is the whole point of holding them back. The sauce will keep for at least 5 days.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Mustard seeds — 2 Tbsp
+- 🛒 Yellow mustard seeds — 2 Tbsp
 - 🛒 Butter — 1 Tbsp
 - 🛒 Bacon — 1 slice
-- 🛒 Onion — ⅓
-- 🛒 Dijon-style or grainy mustard — ½ cup
+- 🛒 Onion — ½
+- 🛒 Dijon-style or grainy mustard — 1 cup
 - 🛒 Cider vinegar — ½ cup
-- 🛒 Brown sugar — ⅓ cup
+- 🛒 Brown sugar — ½ cup
 - 🛒 Molasses — 2 Tbsp
 - 🛒 Coarse salt, black pepper
 
@@ -4018,14 +4018,12 @@ Stir in the mustard, brown sugar, and molasses, bringing to a boil. Reduce the h
 
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole batch** | ~650 | 25 g | 9 g | 100 g | 6 g |
-| **Per serving** *(2 Tbsp, of 12)* | ~55 | 2 g | 0.8 g | 8 g | 0.5 g |
+| **Whole batch** *(about 1½ cups)* | ~1,010 | 30 g | 20 g | 165 g | 12 g |
+| **Per serving** *(2 Tbsp, of 12)* | ~85 | 2.5 g | 1.7 g | 14 g | 1 g |
 
-**What a serving is:** about 2 Tbsp, brushed on grilled sausage, ham, or pork chops, or served alongside as a dip.
+**What a serving is:** about 2 Tbsp, served alongside barbecued pork or brushed on grilled sausage, ham steak, or pork chops.
 
-#### D. Open Questions
-
-- **Step 2's wording is garbled in the transcription** — the photographed instructions appear to reference "sour cream" and repeat "mustard" in a way that doesn't parse cleanly, likely because this recipe's instructions sit directly across from a different sauce's ingredient list on the same busy page. Reconstructed to the most sensible reading (cook the bacon and onion, then build the mustard base) rather than transcribed verbatim — worth confirming against a clean re-photo of page 448.
+✅ 2026-09-08 closed from Cody's photograph of *How to Grill* p. 448: the garbled Step 2 is gone. The page prints **three** steps, not the reconstructed two-and-a-half, and the "sour cream" and repeated "mustard" were both transcription noise — neither word is on the page. Step 2 is one continuous move (butter, bacon, onion 3–4 min, then mustard, vinegar, brown sugar, molasses and **half** the toasted seeds, boil, gentle simmer 5 min, salt and plenty of pepper), and **Step 3 is new**: jar it, refrigerate, and **hold the remaining toasted seeds back to sprinkle over just before serving** — the reason the recipe splits the seeds at all, which the old transcription had lost entirely. Four quantities corrected against print at the same time: the mustard is **1 cup** (had ½), the brown sugar **½ cup** (had ⅓), the onion **½** (had ⅓), and the seeds are specifically **yellow** mustard seeds. Keeps at least 5 days. Cook time raised to ~10 min and nutrition re-estimated on the corrected amounts.
 
 [↑ Table of Contents](#table-of-contents)
 

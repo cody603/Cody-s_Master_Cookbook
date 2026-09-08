@@ -20884,23 +20884,31 @@ Squeeze the half lemon over the spinach. **Salt it** — per Cody's own note, th
 
 ### 5.38 Roasted Veggies
 
-Transcribed from Cody's own recipe/grocery-planning spreadsheet — a loose formula rather than a fixed recipe. **The card itself calls the amount "wing it,"** and the method is exactly as short as this: whatever vegetables are on hand, olive oil, Tony's, a cookie sheet, and the oven. **A second card ("Asparagus") repeats the same "Veggies for Roasting / wing it" header with no further detail visible in the photo** — read as asparagus being one vegetable this formula works well on, not a separate recipe; see Open Questions.
+Transcribed from Cody's own recipe/grocery-planning spreadsheet — a loose formula rather than a fixed recipe. **The card itself calls the amount "wing it,"** and the card's method is exactly as short as this: whatever vegetables are on hand, olive oil, Tony's, a cookie sheet, and the oven. **A second card ("Asparagus") repeats the same "Veggies for Roasting / wing it" header with no further detail visible in the photo** — read as asparagus being one vegetable this formula works well on, not a separate recipe; see Open Questions.
 
-**🟢 Easy** · **Prep ~10 min** · **Cook ~20–25 min** · **Start to finish ~35 min**
+> ✅ **2026-09-08 — Cody's actual practice is now on top of the card, and it fills in the two things the card never said.** The card is still the recipe and it's still "wing it," but he doesn't just tip vegetables onto a bare sheet pan: **he sets an elevated rack on the sheet so air gets underneath**, adds **sprigs of rosemary**, and roasts at **400°F, which is the number from *Salt, Fat, Acid, Heat***. And he's honest about how they come out: **firm — because he pulls them before they burn.** The one thing he's still turning over is whether a slightly lower oven would soften them; that's an open question below, not a change to the recipe.
+>
+> **Where each piece comes from, so the provenance is clear:** the vegetables, olive oil, Tony's, and the cookie sheet are **the card**. The **elevated rack**, the **rosemary**, and **pulling them early** are **Cody's**. The **400°F** is ***Salt, Fat, Acid, Heat*** — the same source behind [§T29 How to Salt](#t29-how-to-salt)–[§T32 How to Use Heat](#t32-how-to-use-heat), whose own heat table puts roasting at 350–450°F ([§T32](#t32-how-to-use-heat)), so 400°F sits right in the middle of it.
+
+**🟢 Easy** · **Prep ~10 min** · **Cook ~20–25 min** *(at 400°F, and pull them when they look right rather than when the timer says so)* · **Start to finish ~35 min**
 
 #### A. Ingredients
 
-- Vegetables for roasting — wing it. Asparagus is called out by name on a second card as one that works well this way.
+- Vegetables for roasting — **wing it**. Asparagus is called out by name on a second card as one that works well this way.
 - Olive oil
 - Tony's Cajun seasoning
+- **Fresh rosemary** — a few sprigs *(Cody's addition, not on the card)*
 
 #### B. Cooking Instructions
 
-**1. Toss and spread on a cookie sheet.**
-Put the vegetables, a drizzle of olive oil, and Tony's seasoning onto a cookie sheet.
+**1. Heat the oven to 400°F, and set an elevated rack on the sheet pan.**
+**400°F is *Salt, Fat, Acid, Heat*'s number**, and it's the temperature Cody roasts at. **Then the part that actually changes how these come out: put a rack — a cooling rack, a grid, any elevated grate that fits — down on the cookie sheet, and roast on top of that instead of directly on the pan.** ✅ *Cody's own practice, 2026-09-08.* The reason is worth understanding because it is the whole difference between roasting and steaming: a vegetable sitting flat on a sheet pan gives off water, that water pools underneath it, and the underside sits and **steams** in its own moisture while the top browns. Lift it onto a rack and the hot air gets **all the way around** — the moisture drops away, every surface is dry, and every surface browns. It's the same principle [§T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) makes about giving vegetables room on the pan: **browning needs a dry surface and moving air**, and crowding or contact denies it both. The rack solves the contact half; not piling the pan solves the other half.
 
-**2. Roast.**
-Put in the oven and roast until tender and lightly browned. *No oven temperature or time is given on the card — 400–425°F for 20–25 minutes is a reasonable default for most roasting vegetables (see [§T39](#t39-maillard-vs-caramelization--gbd) on giving vegetables room on the pan so they brown rather than steam); thinner vegetables like asparagus will finish faster, closer to 12–15 minutes.*
+**2. Drizzle with olive oil, lay rosemary sprigs over the top, and season.**
+Vegetables onto the rack, a **drizzle of olive oil** over them — enough to coat, not enough to pool — then **a few sprigs of fresh rosemary** laid over the top *(Cody's, not the card's)*, and **Tony's Cajun seasoning** to season. Spread them out in one layer with space between; a heaped pan steams no matter what rack it's sitting on.
+
+**3. Roast at 400°F, 20 to 25 minutes — and pull them before they burn.**
+Thinner things move faster: asparagus and other slender vegetables can be done closer to **12 to 15 minutes**, while dense root vegetables want the long end or a little past it. **Watch the pan, not the clock**, and take them out when they've got color on them and are still holding their shape. **Cody's vegetables come out firm, and that's cause and effect rather than an accident — he pulls them before they burn.** ✅ *2026-09-08, in his own words.* That's a real tradeoff, honestly stated: leaving them in longer gets you softer and browner right up until it gets you burnt, and he'd rather eat them firm than risk the other end. If you want them softer, the thing to change is the oven, not your nerve — see Open Questions.
 
 #### C. Grocery Shopping List
 
@@ -20909,16 +20917,20 @@ Put in the oven and roast until tender and lightly browned. *No oven temperature
 - 🛒 Vegetables of choice, for roasting
 - 🛒 Olive oil
 - 🛒 Tony's Cajun seasoning
+- 🛒 Fresh rosemary — a package *(for the sprigs; Cody's addition)*
+
+*Not a grocery, but it's what makes this work: **an elevated rack or grid that fits inside your sheet pan** (Step 1).*
 
 #### Nutrition *(not calculable as written)*
 
-This is a "wing it" formula with no fixed vegetables or amounts, so there's no single dish to compute exact numbers for. As a rough sense of scale, a 1-cup serving of most vegetables roasted in a light coating of olive oil runs somewhere around 120–180 calories, 8–12 g fat, 2–4 g protein, 12–18 g carbs, and 3–5 g fiber — but the real numbers swing with which vegetables go on the pan and how much oil gets used.
+This is a "wing it" formula with no fixed vegetables or amounts, so there's no single dish to compute exact numbers for. As a rough sense of scale, a 1-cup serving of most vegetables roasted in a light coating of olive oil runs somewhere around 120–180 calories, 8–12 g fat, 2–4 g protein, 12–18 g carbs, and 3–5 g fiber — but the real numbers swing with which vegetables go on the pan and how much oil gets used. The rosemary contributes nothing worth counting.
 
 **What a serving is:** not fixed — whatever portion comes off the sheet pan.
 
 #### D. Open Questions
 
-- **No specific vegetables, amounts, oven temperature, or time are given** — this is a deliberately loose formula per the card's own "wing it." Times above are a reasonable default, not what the card says.
+- **Would 375°F give a softer vegetable? Cody's own question, and it is not settled.** In his words: *"I wonder if 375 will do, just for a little bit softer of a vegetable."* **The recipe above stays at 400°F** — that's the *Salt, Fat, Acid, Heat* number and it's what he actually cooks. **375°F is a thing to try, not an answer**, and it's worth trying deliberately: a lower oven gives the inside longer to soften before the outside browns, which is exactly the direction he's asking about — but it also means more time on the pan, so it trades one risk for another. Cook a pan each way and the question closes itself.
+- **No specific vegetables or amounts are given** — that's the card's own "wing it," and it stays that way on purpose. **The temperature is no longer a guess**, though: 400°F is sourced to *Salt, Fat, Acid, Heat* and is what Cody uses.
 - **The "Asparagus" card appears cut off in the photo** — it repeats the same header and "wing it" amount with no visible ingredient or direction detail beyond that. Treated here as a note on this same formula rather than invented into a separate entry. 🚫 2026-09-07 — Cody: not pursuing the Asparagus card; it stays a note on this formula.
 
 [↑ Table of Contents](#table-of-contents)

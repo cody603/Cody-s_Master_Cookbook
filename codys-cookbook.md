@@ -21086,6 +21086,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet. Fresh spinach w
 
 **👩 Mamma is Cody's mom** *(✅ 2026-09-08 per Cody).* This is his mother's spinach — that's the whole provenance, and it's why the card is three lines long and ends in an exclamation point. Family recipes get written down the way they get taught: the parts you'd forget, and nothing else.
 
+**And it's the same Mamma as [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew)** *(✅ 2026-09-08 per Cody — one person, his mother, behind both cards)*. That was carried as a presumption until he confirmed it; it's a fact now. Both came out of the same spreadsheet in her words, so anything she says about one card is worth applying to the other.
+
 **❤️ Family favorite** — *Cody: "Favorite."* Cody's own note on the card: **"easy."**
 
 > **It is an easy dish, and the entire skill is in one ratio: lemon and salt.** Everything else here — heat the fat, brown the garlic, wilt the greens — is mechanical, and Cody says so himself. What separates a good plate of this from a flat one is getting the **acid and the salt into balance with each other**, and there is no measurement for it. **You taste it to find it.** See step 4.
@@ -21139,6 +21141,7 @@ Squeeze the half lemon over the spinach and **salt it**. Then taste, and underst
 #### D. Open Questions
 
 - ✅ **2026-09-08 per Cody — "Mamma" is his mom.** Recorded at the top of the entry. Whose recipe this is is now settled.
+- ✅ **CLOSED 2026-09-08 — and it's the same Mamma behind [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew).** §8.33 had been carrying this as "presumed, because he was only ever asked about the spinach." Cody confirmed it directly: **one person, his mom, both cards.** Stated as fact on both entries now.
 - ✅ **2026-09-08 per Cody — the missing salt quantity is not a gap, it's the method.** "SALT IT!" was never going to have a number: the target is the **lemon-and-salt ratio**, found by tasting, and step 4 now says how to find it. Nothing left to measure here.
 
 [↑ Table of Contents](#table-of-contents)
@@ -38012,7 +38015,7 @@ Be sure to have a bottle of fresh filé on hand so each person can add their own
 
 Transcribed from a printed page — ***Talk About Good!***. *"Use only fresh water turtle,"* per the source. Thickened with mashed hard-boiled egg yolks rather than a roux.
 
-> 📝 **Attribution — two names, both recorded, and the relationship between them is not settled.** ✅ **2026-09-08 per Cody: the author is *Martha Paggi***, the name printed at the top of the photographed page. **The recipe as printed is also signed *Dr. J. J. Burdin*** at the end, which is why this entry previously credited Burdin and treated "Martha Paggi" as a running header carried over from the page before. **Both names are on the page and both are recorded here.** How they relate — whether one contributed and the other collected it, whether the signature belongs to a neighboring recipe, or something else entirely — **Cody didn't say, and this entry will not guess.** *(Martha Paggi is a real contributor elsewhere in the same book — she's one of the three names on [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) — so she is not simply a stray header.)*
+> 📝 **Attribution — two names, both recorded, and the relationship between them is not being pursued.** ✅ **2026-09-08 per Cody: the author is *Martha Paggi***, the name printed at the top of the photographed page. **The recipe as printed is also signed *Dr. J. J. Burdin*** at the end, which is why this entry previously credited Burdin and treated "Martha Paggi" as a running header carried over from the page before. **Both names are on the page and both stay recorded here.** How they relate — whether one contributed and the other collected it, whether the signature belongs to a neighboring recipe, or something else — **🚫 closed 2026-09-08 at Cody's direction: *"I don't care about that question. Close it out."*** It's a question about a cookbook's typesetting, not about the soup, and nothing here depends on it. *(Martha Paggi is a real contributor elsewhere in the same book — she's one of the three names on [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) — so she is not simply a stray header.)*
 
 **Yield:** not stated; estimated to serve 8, flagged below.
 
@@ -38092,7 +38095,7 @@ Shortly before serving, add the chopped egg whites, the parsley, and the remaini
 
 - **No serving count given** — 8 is Claude's estimate.
 - ✅ **2026-09-08 per Cody — the author is Martha Paggi.** The earlier reading, that "Martha Paggi" was a running header carried over from the previous page and that Dr. J. J. Burdin was the author, is corrected. **Both names stay on the record** — Paggi as the author per Cody, Burdin as the signature that appears on the printed recipe. See the attribution note at the top of the entry.
-- **Still open — how Paggi and Burdin relate.** The recipe carries both names and Cody named only the author. Nothing here explains the Burdin signature, and no explanation is invented; if he ever says, record it.
+- 🚫 **CLOSED 2026-09-08 — not being pursued.** Asked how Martha Paggi and Dr. J. J. Burdin relate on this page, Cody said: ***"I don't care about that question. Close it out."*** So it closes not with an answer but with a decision. **Both names stay recorded on the entry** — Paggi as the author per Cody, Burdin as the signature printed on the recipe — and **the relationship between them is simply not being chased.** Nothing about the recipe depends on it.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -38365,7 +38368,7 @@ Tomatoes with their juice, plus 1 Tbsp of cider vinegar. Simmer 10 minutes more,
 - ✅ 2026-09-07 per Cody ("throw in and eyeball — use your judgment, but use all these ingredients") — **eyeball-scale amounts set for every ingredient**, labeled as cookbook judgment; basis and sources in the note above. Mamma's amounts, if she ever writes them down, replace these.
 - ✅ 2026-09-07 — **Celery** stays in the ingredient list; the card's directions call for it.
 - ✅ 2026-09-07 — **Apple cider vinegar:** 1 Tbsp in with the tomatoes, up to 1 Tbsp more at the end, off the heat, to taste — cookbook judgment from the venison-stew sources (Culinary Hill uses 1 tsp per 1½ lb; Montana FWP uses it in a 3-lb pot). Still worth confirming with Mamma how she does it.
-- **Is this the same "Mamma" as [§5.37 Mamma's Spinach](#537-mammas-spinach)?** Cody confirmed on 2026-09-08 that the Mamma of the spinach card is **his mom**; both cards come from the same spreadsheet, so it's almost certainly the same person — but he was only asked about §5.37, so it's recorded here as presumed rather than confirmed.
+- ✅ **CLOSED 2026-09-08 — yes. Same Mamma, and she is Cody's mom.** Asked directly whether the Mamma of this stew is the Mamma of [§5.37 Mamma's Spinach](#537-mammas-spinach), Cody said it is — **one person, his mother, behind both cards.** This was carried as "presumed" because he'd only ever been asked about §5.37; it's now **stated as fact on both entries.** Both cards come out of the same spreadsheet in her words, and anything she later says about one is worth applying to the other.
 
 [↑ Table of Contents](#table-of-contents)
 

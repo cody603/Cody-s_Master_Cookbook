@@ -271,13 +271,13 @@ Click any recipe to jump straight to it.
 - [5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) ✅ 🔖
 - [5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) ✅ 🔖
 - [5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) ✅ 🔖
-- [5.19 Brazilian Salad](#519-brazilian-salad) ✅
+- [5.19 Brazilian Salad](#519-brazilian-salad) ✅ ❤️
 - [5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) ✅
 - [5.21 Sautéed Kale](#521-sautéed-kale) ✅
 - [5.22 Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) ✅
 - [5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ✅ ❤️
 - [5.24 Cranberry Sauce](#524-cranberry-sauce) 🦃 ○
-- [5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ✅ ⚠️ *(no printed serving count or bake time — see entry)*
+- [5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ✅ ❤️ ⚠️ *(no printed serving count or bake time — see entry)*
 - [5.26 Pickled Okra](#526-pickled-okra) ✅
 - [5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) ✅ *(source title not photographed)*
 - [5.28 "Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) ✅
@@ -288,13 +288,13 @@ Click any recipe to jump straight to it.
 - [5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) ✅
 - [5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](#534-brazilian-black-beans-with-bacon-tutu-mineira) ✅
 - [5.35 Cole Slaw](#535-cole-slaw) ✅ *(mayo-based, distinct from [§5.13](#513-north-carolina-coleslaw))*
-- [5.36 Lemon Green Beans](#536-lemon-green-beans) ✅ 👍
+- [5.36 Lemon Green Beans](#536-lemon-green-beans) ✅ ❤️
 - [5.37 Mamma's Spinach](#537-mammas-spinach) ✅ ❤️
-- [5.38 Roasted Veggies](#538-roasted-veggies) ✅ *(a loose "wing it" formula, not a fixed recipe)*
+- [5.38 Roasted Veggies](#538-roasted-veggies) ✅ 👍 *(a loose "wing it" formula, not a fixed recipe)*
 - [5.39 Fennel Fondant](#539-fennel-fondant) ✅ *(Champions of Sous Vide; flag retired 2026-09-06 — the ingredient list was complete all along)*
 - [5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) ✅ *(Meathead)*
 - [5.41 Grilled Asparagus](#541-grilled-asparagus) ✅ *(Meathead; distinct from [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter))*
-- [5.42 Grilled Cauliflower](#542-grilled-cauliflower) ✅ *(Meathead; distinct from [§5.6](#56-cauliflower))*
+- [5.42 Grilled Cauliflower](#542-grilled-cauliflower) ✅ 👍 *(Meathead; distinct from [§5.6](#56-cauliflower))*
 - [5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) ✅ *(Meathead; distinct from [§5.14](#514-grilled-corn))*
 - [5.44 Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) ✅ *(Meathead)*
 - [5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) ✅ *(Meathead)*
@@ -308,7 +308,7 @@ Click any recipe to jump straight to it.
 - [5.53 Bright Cabbage Slaw](#553-bright-cabbage-slaw) ✅ *(Salt, Fat, Acid, Heat; includes Alterna-slaw, Mexi-Slaw, Asian Slaw, and Classic Southern Slaw variations; distinct from [§5.13](#513-north-carolina-coleslaw)/[§5.35](#535-cole-slaw))*
 - [5.54 Sauté: Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) ✅ *(Salt, Fat, Acid, Heat)*
 - [5.55 Steamy Sauté: Garlicky Green Beans](#555-steamy-sauté-garlicky-green-beans) ✅ *(Salt, Fat, Acid, Heat; includes classic French and Indian variations; distinct from [§5.1](#51-green-beans)/[§5.36](#536-lemon-green-beans))*
-- [5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) ✅ *(Salt, Fat, Acid, Heat; includes Confit Large Tomatoes and Artichoke Confit variations)*
+- [5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) ✅ 👍 *(second-hand praise, not Cody's own cook — see entry; Salt, Fat, Acid, Heat; includes Confit Large Tomatoes and Artichoke Confit variations)*
 - [5.57 Smoke-Roasted Garlic](#557-smoke-roasted-garlic) ✅ *(The Meathead Method)*
 - [5.58 Smoked Tomato Raisins](#558-smoked-tomato-raisins) ✅ *(The Meathead Method)*
 - [5.59 Squash Bisque](#559-squash-bisque) ✅ *(The Meathead Method)*
@@ -1271,7 +1271,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
-### ❤️ Family favorites — 78
+### ❤️ Family favorites — 82
 
 **Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.13 Crawfish Elegante](#713-crawfish-elegante) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) · [§7.61 Broiled Fish](#761-broiled-fish) · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) · [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) · [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) · [§7.124 Poulet de France](#7124-poulet-de-france)
 
@@ -1279,7 +1279,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Soups & chili — [§8.1](#81-chili-mac)–[§8.7](#87-italian-sausage--kale-soup) is still a clean sweep, and three more from later in the section join it:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili Mac](#81-chili-mac) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) · [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) · [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot)
 
-**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese)
+**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach)
 
 **Snacks:** [§9.6 Beef Jerky](#96-beef-jerky) · [§9.7 Chicken Salad](#97-chicken-salad) · [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) · [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) · [§9.27 Reuben](#927-reuben) · [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) · [§9.29 Deer Jerky](#929-deer-jerky) · [§9.33 Easy Deviled Eggs](#933-easy-deviled-eggs)
 
@@ -1287,9 +1287,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Breakfast & keto:** [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑
 
-### 👍 Tried and liked — 17
+### 👍 Tried and liked — 20
 
-[§5.3 Squash](#53-squash) *(if it's cooked right)* · [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 · [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 · [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) · [§5.14 Grilled Corn](#514-grilled-corn) · [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.7 Chicken Livers](#77-chicken-livers) *(split verdict)* · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) · [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) · [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) · [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) · [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) *(lowered from ❤️ 2026-09-09 — Cody's own correction)* · [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *(split verdict)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑
+[§5.3 Squash](#53-squash) *(if it's cooked right)* · [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 · [§5.12 Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 🦃 · [§5.13 North Carolina Coleslaw](#513-north-carolina-coleslaw) · [§5.14 Grilled Corn](#514-grilled-corn) · [§5.38 Roasted Veggies](#538-roasted-veggies) · [§5.42 Grilled Cauliflower](#542-grilled-cauliflower) · [§5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) *(second-hand praise — see below)* · [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.7 Chicken Livers](#77-chicken-livers) *(split verdict)* · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) · [§7.33 Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) · [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) · [§7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) · [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) · [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) *(lowered from ❤️ 2026-09-09 — Cody's own correction)* · [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) · [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) *(split verdict)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) 🥑
 
 ### 🔖 Want to try — 19
 
@@ -1298,6 +1298,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 [§4.59 Tonnato Sauce](#459-tonnato-sauce) · [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) · [§5.15 Roasted Asparagus](#515-roasted-asparagus) · [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) · [§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) · [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) · [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑 · [§7.23 Fish with Pecan Butter Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) · [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.26 Crawfish Magnifique](#726-crawfish-magnifique-in-a-mirliton-pirogue) · [§7.27 Panéed Veal](#727-panéed-veal-with-czarina-sauce) · [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) · [§7.29 Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) · [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) · [§9.10 Crabmeat Avery](#910-crabmeat-avery) · [§11.1 Almond Flour Banana Bread](#111-almond-flour-banana-bread) · [§11.2 Southern Keto Blueberry Muffins](#112-southern-keto-blueberry-muffins) 🥑 · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑
 
 ### Reading this index
+
+> **📌 One 👍 in this index is not Cody's own verdict, and it is the only one.** [§5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) is marked **on his instruction** but from **second-hand praise** — *"actually got really good ratings from some people. So just go ahead and put a thumbs up on that. Why not?"* He was passing along what other people said, not reporting a dish he has cooked. It counts in the 20 because he asked for the mark; it should be re-asked once he's made a batch. Every other ❤️ and 👍 on this page is his own.
+
+> **📌 Two entries were carrying a mark everywhere except here, and were restored on 2026-09-09.** [§5.37 Mamma's Spinach](#537-mammas-spinach) has read **❤️** in its own entry (*"Favorite."*) and on the [Meal Planning Sheet](#meal-planning-sheet) all along, but had never been listed in the ❤️ block above — it is now. [§5.36 Lemon Green Beans](#536-lemon-green-beans) had the same gap on the 👍 side; that one resolved itself, since Cody **upgraded it to ❤️** on 2026-09-09. **The 78/17 counts this index was rebuilt to were therefore two short of the marks the book actually carried** — worth knowing before trusting any count here as a census.
 
 **Eight of the nineteen want-to-try recipes are Cajun or seafood — and all eight are from *Louisiana Kitchen*.** That's not a coincidence; it's the backlog from transcribing that book faster than anyone could cook out of it. Five more are Canal House entries carrying the same verdict, in Cody's own words: *"We haven't tried these yet, but heard they were delicious."* That's [§4.59 Tonnato Sauce](#459-tonnato-sauce), [§5.15](#515-roasted-asparagus)–[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) (all three asparagus recipes), [§5.18 Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream), and [§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower). **This general note likely applies to the rest of the Canal House entries too** ([§4.52](#452-balsamella)–[§4.58](#458-pimentón-butter), [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio)) — Cody hasn't confirmed that explicitly for each one, so those stay unrated rather than retroactively tagged, but it's worth a direct check next round instead of assuming. The remaining six are the two keto quick breads, the keto muffins, the low-carb fried chicken, and the fried zucchini.
 
@@ -1351,7 +1355,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 |---|---|
 | **🥩 Beef & Venison** | **🥕 Vegetables** |
 | [Darcy's Steak](#3-darcys-steak) ❤️ | [Mamma's Spinach](#537-mammas-spinach) ❤️ |
-| [Sliced Smoked Brisket](#61-smoked-brisket) ❤️ | [Lemon Green Beans](#536-lemon-green-beans) |
+| [Sliced Smoked Brisket](#61-smoked-brisket) ❤️ | [Lemon Green Beans](#536-lemon-green-beans) ❤️ |
 | [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ | [Sautéed Kale](#521-sautéed-kale) |
 | **Brisket:** [Texas-Style Barbecued](#67-texas-style-barbecued-brisket) · [Texas Beef](#7112-texas-beef-brisket) · [Championship, with Burnt Ends](#7135-championship-brisket-and-burnt-ends) | [Smothered Mustard Greens](#529-smothered-mustard-greens) |
 | [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ | [Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) |
@@ -1359,7 +1363,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Skinny Steaks](#7107-skinny-steaks) | [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) |
 | [Two Steaks Feed Four](#736-two-steaks-feed-four) | [Grilled Asparagus](#541-grilled-asparagus) |
 | [Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) | [Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) |
-| [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | [Grilled Cauliflower](#542-grilled-cauliflower) |
+| [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | [Grilled Cauliflower](#542-grilled-cauliflower) 👍 |
 | [Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) 🍽️ | [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) |
 | [Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) | [Grilled Corn](#514-grilled-corn) |
 | [Kōji Filet Mignon](#7132-kōji-filet-mignon) | [The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) |
@@ -1367,9 +1371,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) | [Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) |
 | [Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) | [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) |
 | [Prime Rib Dinner](#7114-prime-rib) | ["Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) |
-| [The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) | [Roasted Veggies](#538-roasted-veggies) |
+| [The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) | [Roasted Veggies](#538-roasted-veggies) 👍 |
 | [Short Ribs, Texas Style](#7110-short-ribs-texas-style) | [Fennel Fondant](#539-fennel-fondant) |
-| [Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) | [Cherry Tomato Confit](#556-cherry-tomato-confit) |
+| [Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) | [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 |
 | [Beef Back Ribs](#7130-beef-back-ribs) | [Smoke-Roasted Garlic](#557-smoke-roasted-garlic) |
 | [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) | [Smoked Tomato Raisins](#558-smoked-tomato-raisins) |
 | [Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | [Sweet Potato Casserole](#511-sweet-potato-casserole) |
@@ -1378,7 +1382,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🍽️ | [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🥑 |
 | [Afterburner Fajitas](#7134-afterburner-fajitas) 🍽️ | [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🥑 |
 | [Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) 🍽️ | **🥔 Potatoes, Rice & Grains** |
-| [Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ❤️ 🍽️ | [Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) |
+| [Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ❤️ 🍽️ | [Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ❤️ |
 | [Corned Beef & Cabbage, Cured from Scratch](#748-corned-beef--cabbage) 🍽️ | [Smoked Potato Salad](#547-smoked-potato-salad) |
 | [Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | [Persian-ish Rice](#549-persian-ish-rice) |
 | [Pot Roast (Boeuf à la Mode)](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | [Curd Rice](#560-curd-rice) |
@@ -1397,7 +1401,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) | **🥗 Salads & Slaws** |
 | [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) | [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ |
 | [Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ |
-| [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) | [Brazilian Salad](#519-brazilian-salad) |
+| [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) | [Brazilian Salad](#519-brazilian-salad) ❤️ |
 | [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) | [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) |
 | [Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) | [Grilled Romaine Salad](#545-grilled-romaine-salad) |
 | [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) | [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) |
@@ -20397,6 +20401,8 @@ Make a bed of watercress or arugula on a large platter. Pile the pickled beets i
 
 ### 5.19 Brazilian Salad
 
+**❤️ Family favorite** — *Cody, 2026-09-09: "Brazilian salad — love."* Rated 2026-09-09.
+
 **Source: Cody's own recipe, dictated directly — not from a photographed cookbook page.** A hearts of palm and tomato salad, dressed simply with olive oil and red wine vinegar.
 
 **Yield:** serves 4, as a side
@@ -20732,6 +20738,8 @@ Shake the vinaigrette again and add it just before serving. Romaine holds up bet
 ---
 
 ### 5.25 Heather's Mashed Potatoes
+
+**❤️ Family favorite** — *Cody, 2026-09-09: "Heather's mashed potatoes — love."* Rated 2026-09-09.
 
 Transcribed from a handwritten recipe card — headed "From the Kitchen of: Joetta, To: Geviene." That's the card's own provenance; Cody calls the finished dish **Heather's Mashed Potatoes**, and that's the name it carries here. A make-ahead mashed potato casserole — potatoes mashed with milk and butter, then enriched with cream cheese and sour cream, topped with melted butter, and baked. Card's own note: **"This freezes well!!!"**
 
@@ -21495,7 +21503,7 @@ Cover and chill at least 30 minutes so the cabbage softens slightly and takes on
 
 Transcribed from Cody's own recipe/grocery-planning spreadsheet. Green beans blanched until tender and tossed with olive oil, salt, and lemon juice, finished with lemon zest.
 
-**👍 Tried and liked** — *Cody: "Yummie."*
+**❤️ Family favorite** — *Cody, 2026-09-09: "Lemon green beans — love."* **Upgraded from 👍 on 2026-09-09**, his own call; the original 👍 came with *"Yummie."* Both verdicts are his, and the later one stands.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
 
@@ -21608,6 +21616,8 @@ Squeeze the half lemon over the spinach and **salt it**. Then taste, and underst
 ---
 
 ### 5.38 Roasted Veggies
+
+**👍 Tried and liked** — *Cody, 2026-09-09: "Roasted veggies are good."* Rated 2026-09-09.
 
 Transcribed from Cody's own recipe/grocery-planning spreadsheet — a loose formula rather than a fixed recipe. **The card itself calls the amount "wing it,"** and the card's method is exactly as short as this: whatever vegetables are on hand, olive oil, Tony's, a cookie sheet, and the oven. **A second card ("Asparagus") repeats the same "Veggies for Roasting / wing it" header with no further detail visible in the photo** — read as asparagus being one vegetable this formula works well on, not a separate recipe; see Open Questions.
 
@@ -21886,6 +21896,8 @@ Arrange the spears on a platter so they are all pointing in the same direction. 
 ### 5.42 Grilled Cauliflower
 
 Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 352). Per the book, cauliflower "doesn't get the respect it deserves" — most people just steam or boil it, but grilling it as thick "steaks" plus loose florets gets real char and nuttiness out of it. **Kept distinct from the still-undocumented [§5.6 Cauliflower](#56-cauliflower)** placeholder.
+
+**👍 Tried and liked** — *Cody, 2026-09-09: "I've had the grilled cauliflower. It's very good."* Rated 2026-09-09 — his own cook, not a report from someone else.
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) · [§T47 Cooking Vegetables and Fruits — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) *(the steaks get the reverse-sear treatment — indirect until tender, then a direct-heat finish for color)*
 
@@ -22899,6 +22911,8 @@ Remove the pan from the heat as soon as the garlic is tossed through — the bea
 ---
 
 ### 5.56 Cherry Tomato Confit
+
+**👍 Tried and liked — but the praise is second-hand, and that distinction matters.** *Cody, 2026-09-09: "Actually got really good ratings from some people. So just go ahead and put a thumbs up on that. Why not?"* **He is reporting other people's verdict, not giving his own** — he did not say he has cooked it or eaten it. The 👍 is on the sheet at his instruction, but it is **not yet a Cody verdict**, and it should be re-asked once he's made a batch himself. Every other mark in this cookbook is his own; this one is the exception, flagged so nobody reads it as the same thing.
 
 Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*** (p. 256–257). Same source as [§T29](#t29-how-to-salt)–[§T32](#t32-how-to-use-heat). **No duplicate** — no existing tomato confit in this cookbook; several already-documented salsas name a "Tuna Confit" as a serving suggestion, but this is the first confit recipe of any kind written up here.
 

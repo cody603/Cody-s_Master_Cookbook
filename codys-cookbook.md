@@ -315,7 +315,7 @@ Click any recipe to jump straight to it.
 - [5.59 Squash Bisque](#559-squash-bisque) ✅ *(The Meathead Method)*
 - [5.60 Curd Rice](#560-curd-rice) ✅ *(Canal House — the source's own pairing for [§7.47 Shrimp Roast](#747-shrimp-roast))*
 - [5.61 Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ✅ ❤️ *(Cody's own, 2026-09-09; the Grana Padano is bought on purpose and goes to the table — quantities are cookbook judgment)*
-- [5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) ✅ *(new 2026-09-09 — a sheet suggestion Cody liked, filled as cookbook judgment, **not** a practice of his; the sweet jarred version is [§4.177](#4177-quick-pickles))*
+- [5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) ✅ *(new 2026-09-09 as "Salted Cucumbers in White Vinegar" — a sheet suggestion Cody liked, filled as cookbook judgment; **renamed and widened to a mixed-vegetable soak the same day on his own dictation** — "a mesh of all sorts, or just one vegetable"; the sweet jarred version is [§4.177](#4177-quick-pickles))*
 - [5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) ✅ *(Cody's own, 2026-09-09 — romaine, [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), a wedge of **Grana Padano or Romano — "not American Parmesan"** — croutons optional; the third salad on his evening rotation with [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) and [§5.23](#523-greek-salad-with-crumbled-goat-cheese); one batch of dressing covers several nights; quantities are cookbook judgment)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
@@ -846,7 +846,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) | 🟢 | 15 min | — | — | 15 min |
 | [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) | 🟢 | 10 min | — | — | 10 min |
 | [§5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) | 🟢 | 10 min | — | — | 10 min *(+ [§4.134](#4134-creamy-caesar-dressing)'s 15 min on the night you make the dressing)* |
-| [§5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) | 🟢 | 10 min | — | — | ~1 hr 10 min *(a 30 min salt draw, then 30 min in the vinegar)* |
+| [§5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) | 🟢 | 10 min | — | — | ~1 hr 10 min *(a 30 min salt draw, then 30 min in the vinegar)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
 | [§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -1423,7 +1423,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 >
 > - **Four placements he named outright, all honored as pins above their tier:** [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) and [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) at the top of **Potatoes, Rice & Grains**; [§5.34 Brazilian Black Beans](#534-brazilian-black-beans-with-bacon-tutu-mineira) at the top of **Beans** *(a placement, not a rating — it is still unrated)*; and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) with [§7.119 Big Bob Gibson's Chicken](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) at the top of **Chicken & Poultry**.
 > - **[§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) is new to this sheet, and here is why he couldn't find it.** *"Did I see sous vide chicken? I would like sous vided chicken on here, and at the top."* **It was never missing — it was filed as a technique**, in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips) rather than in §7, and this sheet excludes §T. He cooks it as dinner, so it is listed as a main and **linked back to §T28 where it lives.** Its content was not copied into §7 and it was not renumbered.
-> - **Two new recipes joined the sides:** [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ at the top of **Salads & Slaws**, and [§5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) at the top of **No-Cook Sides** — the latter **grew out of a bare suggestion line on this very sheet** that he liked the sound of; see the entry, which is candid that the idea started here and not with him.
+> - **Two new recipes joined the sides:** [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ at the top of **Salads & Slaws**, and [§5.62 Salted Cucumbers in White Vinegar](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) at the top of **No-Cook Sides** — the latter **grew out of a bare suggestion line on this very sheet** that he liked the sound of; see the entry, which is candid that the idea started here and not with him.
 > - **And one more joined the sides later that same day, making it 278:** [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) ❤️, at the top of **🥕 Vegetables**. It is not a new *dish* — it is the ❤️ placeholder that has sat in §5 since the beginning, finally written up, so it arrives with its favorite mark already earned and sorts to the top of the group on rule 4.
 > - **And [§5.7 Brussels Sprouts](#57-brussels-sprouts) ❤️ joined 🥕 Vegetables later on 2026-09-09** — the second ❤️ placeholder from the top of §5 written up that day, after §5.2. Sorted into the group on rule 4 at **🟩(22 min)** — 10 of trimming and halving plus a 12-minute attended sauté, no grill overhead because it is a stovetop side — between the 20-minute lines and the 25s. **Three fats, one line:** bacon grease, tallow, or butter are variations inside the entry, not three sheet lines.
 > - **Six 👍 marks were missing from this sheet** that the [Family Ratings Index](#family-ratings-index) already carried — [§5.11](#511-sweet-potato-casserole), [§5.12](#512-southern-cornbread-stuffing), [§5.13](#513-north-carolina-coleslaw), [§5.14](#514-grilled-corn), [§7.33](#733-grilled-stuffed-chicken-breasts), and [§11.3](#113-keto-skillet-cornbread). They are on now. **The sort is only as good as the marks**, so those had to be right before it would mean anything.
@@ -1514,7 +1514,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟡 [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) 🟨(45 min) | 🟢 [Keto Zucchini Bread](#116-keto-zucchini-bread) 🟩(20 min) 🥑 |
 | 🟡 [Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) 🟨(45 min) 🍽️ | 🟡 [Plain French Bread](#151-plain-french-bread-pain-français) 🟨(50 min) |
 | 🟡 [The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) 🟨(45 min†) ♨︎ | **🧊 No-Cook Sides** — *mostly pantry items with no recipe to write; the one with an entry is listed first* |
-| 🟡 [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 🟨(50 min†) ♨︎ | 🟢 [Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) 🟩(10 min) — *written up 2026-09-09* |
+| 🟡 [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 🟨(50 min†) ♨︎ | 🟢 [Salted Cucumbers in White Vinegar](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) — *written up 2026-09-09* |
 | 🟡 [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🟨(50 min) 🥑 | Cottage cheese — *no entry* |
 | 🟢 [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ 🟨(55 min†) ♨︎ | Sliced tomatoes, salted — *no entry* |
 | 🟡 [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) 🟨(55 min) | Avocado, halved and salted — *no entry* |
@@ -14423,7 +14423,7 @@ Cold sauce against hot steak is the point of it. It can be made a day ahead; it 
 
 ### 4.194 Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)
 
-**From Cody's dad, recorded 2026-09-08.** Fresh dill, sour cream, cream cheese, and horseradish beaten together into a thick, cold steak sauce. *Cody: it's phenomenal — **and it's also phenomenal with pork tenderloin.*** That second use is his, unprompted, and is worth taking as seriously as the first.
+**From Cody's dad — Craig — recorded 2026-09-08.** *(Cody calls it "Craig's steak sauce"; his dad's name was recorded 2026-09-09, when he put this on his ⭐ Staple Sauces list.)* Fresh dill, sour cream, cream cheese, and horseradish beaten together into a thick, cold steak sauce. *Cody: it's phenomenal — **and it's also phenomenal with pork tenderloin.*** That second use is his, unprompted, and is worth taking as seriously as the first.
 
 **❤️ Family favorite** — *Cody: "it's phenomenal."* ✅ *Mark added 2026-09-09 in a four-way ratings audit: his verdict was recorded in the headnote above and the [Table of Contents](#table-of-contents) already carried the ❤️, but this entry had no rating line and neither the [Family Ratings Index](#family-ratings-index) nor the [Meal Planning Sheet](#meal-planning-sheet) carried the mark. All four now agree.*
 
@@ -15883,10 +15883,12 @@ Using the same whisk, start whisking like your life depends on it. Then, just li
 <!-- TECHNIQUE-TAGS: shrimp, fish, seafood, egg-soak, deodorizing, fishy-smell, trimethylamine, salmon, catfish, crawfish -->
 **Tags:** `shrimp` · `fish` · `seafood` · `egg-soak` · `deodorizing` · `fishy-smell` · `salmon` · `catfish` · `crawfish`
 **Source:** Cody's own standing practice — not from any cookbook here
-**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) *(built into its Step 1, at Cody's request)* · any fish or shellfish that smells fishy out of the bag
+**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) *(built into its Step 1, at Cody's request)* · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) *(Step 0, the shrimp — added 2026-09-09)* · any fish or shellfish that smells fishy out of the bag — which, per Cody's rule below, is practically everything bought in Missouri
 **Do NOT use for:** [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) — *see the warning below*
 
 **Cody's rule:** *"If it smells fishy when you open it — shrimp, crawfish, shellfish, catfish, salmon, any kind of fish — you crack raw eggs over the top of it, mix it together, let it sit in a colander in the sink, then rinse it all off. It really, really works."*
+
+**And his general rule, 2026-09-09: *"we do an egg soak for practically all of the seafood that's bought in Missouri."*** Landlocked seafood has traveled, and the smell test in Part A comes up positive far more often than not — so the working default at his house is **soak it**, and skip only when a bag has genuinely zero fish smell. That is why the soak is written into [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) as its Step 0 (added the same day), alongside the recipes listed above.
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~15–20 min** *(a 7–15 minute soak, then a rinse — the soak is unattended)*
 
@@ -20246,7 +20248,7 @@ Printed from lifesambrosia.com. A cold, make-ahead pasta salad — crisp bacon, 
 #### A. Ingredients
 
 - ½ jar real bacon bits *(Cody's substitution for sliced bacon)*
-- 12 oz (1 box) dried rotini pasta
+- 12 oz (1 box) dried rotini pasta — ✅ **Cody, 2026-09-09: *"substitute a really high-quality protein pasta — the swirly kind."*** The swirly kind is **rotini or fusilli**, which is what the recipe already calls for; the change is to buy it in a high-protein pasta. *(⚙️ Cookbook judgment on the type, per [CLAUDE.md §3d](CLAUDE.md): **Banza** chickpea rotini or **Barilla Protein+** rotini — both are credible, widely stocked, and made in the swirl shape. He named neither brand; his own pick supersedes this. Chickpea pasta cooks a minute or two faster than wheat and goes soft if it sits, so pull it at the low end of the package time before the cold rinse.)*
 - ¾ cup mayonnaise
 - 1½ Tbsp lemon juice
 - ¾ tsp salt
@@ -20275,7 +20277,7 @@ Slice the avocado only now, after the chill, and fold it in gently right before 
 **🛒 General grocery**
 
 - 🛒 Real bacon bits — ½ jar
-- 🛒 Rotini pasta — 12 oz (1 box)
+- 🛒 Rotini pasta — 12 oz (1 box), **high-protein** (Banza chickpea or Barilla Protein+ rotini) per Cody's 2026-09-09 note
 - 🛒 Mayonnaise — ¾ cup
 - 🛒 Lemon — for 1½ Tbsp juice
 - 🛒 Salt
@@ -20564,7 +20566,7 @@ When ready to cook, lightly brush each ear of corn with a little of the garlic-p
 
 ### 5.15 Roasted Asparagus
 
-Transcribed from **Canal House Cooks Every Day**, the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce) and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio). **Distinct from [§5.2 Sautéed Asparagus](#52-sautéed-asparagus)** — that entry is Cody's own go-to method, written up 2026-09-09 (butter or beef tallow and salt, in a skillet); this and the two asparagus recipes that follow ([§5.16](#516-asparagus-with-lemon-butter-sauce), [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)) are new from this source, untried so far but highly rated. *"A good, aged balsamic vinegar — one that is composed of wine vinegar and reduced must and contains no artificial colorings or additives — makes these asparagus sing."*
+Transcribed from **Canal House Cooks Every Day**, the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce) and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio). **This is the asparagus-only version of [§5.38 Roasted Veggies](#538-roasted-veggies)** — Cody's wing-it formula, which names asparagus among its vegetables; on the [Meal Planning Sheet](#meal-planning-sheet) the two ride on §5.38's line. **Distinct from [§5.2 Sautéed Asparagus](#52-sautéed-asparagus)** — that entry is Cody's own go-to method, written up 2026-09-09 (butter or beef tallow and salt, in a skillet); this and the two asparagus recipes that follow ([§5.16](#516-asparagus-with-lemon-butter-sauce), [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)) are new from this source, untried so far but highly rated. *"A good, aged balsamic vinegar — one that is composed of wine vinegar and reduced must and contains no artificial colorings or additives — makes these asparagus sing."*
 
 > The source's margin note: *"April 15th, 34°, clear & blustery."*
 
@@ -22087,7 +22089,7 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet — a loose form
 
 #### A. Ingredients
 
-- Vegetables for roasting — **wing it**. Asparagus is called out by name on a second card as one that works well this way.
+- Vegetables for roasting — **wing it**. ✅ *Cody's own list, 2026-09-09: **squash, zucchini, Brussels sprouts, carrots, asparagus** — that parenthetical is on the [Meal Planning Sheet](#meal-planning-sheet) line too.* Asparagus is called out by name on a second card as one that works well this way; **[§5.15 Roasted Asparagus](#515-roasted-asparagus) is the asparagus-only version of this idea** (Canal House, with balsamic), and [§5.7 Brussels Sprouts](#57-brussels-sprouts) ❤️ is his skillet method for the sprouts if you'd rather not roast them.
 - Olive oil
 - Tony's Cajun seasoning
 - **Fresh rosemary** — a few sprigs *(Cody's addition, not on the card)*
@@ -23737,7 +23739,8 @@ Serve at room temperature, alongside [§7.47 Shrimp Roast](#747-shrimp-roast) or
 > ⚙️ **The quantities below are cookbook judgment, not Cody's.** He named the components — romaine or butter lettuce, cherry tomatoes, Grana Padano, oil and vinegar — without amounts. The proportions are set at the 3:1 oil-to-vinegar ratio this book already uses in [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) and [§5.19 Brazilian Salad](#519-brazilian-salad). **His own numbers supersede these the day he gives them.**
 
 - 2 romaine hearts, or 2 heads butter lettuce — about 8 cups, torn *(cookbook judgment)*
-- 1½ cups cherry tomatoes, halved *(cookbook judgment)*
+- 1½ cups cherry tomatoes, halved *(the halved cherry tomatoes are Cody's — reaffirmed 2026-09-09 as his addition; the amount is cookbook judgment)*
+- **A light hand of purple onion** — a few paper-thin slices, ¼ of a small one at most *(✅ Cody's addition, 2026-09-09: "if we have the onions, we can be light on the onions" — so it's in when there is one in the house, and never much of it; the amount is cookbook judgment)*
 - **A 4 oz wedge of Grana Padano** — **bought on purpose, and it goes to the table whole** *(Cody's, and non-negotiable)*
 - 3 Tbsp extra-virgin olive oil *(cookbook judgment)*
 - 1 Tbsp red wine vinegar **or** balsamic — *"red wine vinegar is great, balsamic is great"* (Cody's, both named by him) *(quantity is cookbook judgment)*
@@ -23751,8 +23754,8 @@ This is step one because it decides whether the salad is worth making. Get **Gra
 **2. Tear the lettuce and get it genuinely dry.**
 **Romaine or butter lettuce — both are Cody's, and they're different salads.** Romaine gives you crunch and holds up to sitting a few minutes; butter lettuce is softer and more delicate, and wants to be dressed and eaten immediately. Tear rather than chop — a knife bruises the cut edge and it browns. Then dry it properly, in a spinner or on a towel. **Wet leaves refuse to hold dressing;** it slides off and puddles at the bottom of the bowl, and you end up over-oiling to compensate.
 
-**3. Halve the tomatoes.**
-Halved, not whole. A whole cherry tomato is a sealed packet that squirts when you bite it; a halved one gives up a little juice into the dressing, which is exactly what you want. Salt them lightly on their own if they're pale or out of season — 5 minutes of salt wakes up a mediocre tomato more than any dressing will.
+**3. Halve the tomatoes, and slice the onion thin — lightly.**
+Halved, not whole. A whole cherry tomato is a sealed packet that squirts when you bite it; a halved one gives up a little juice into the dressing, which is exactly what you want. Salt them lightly on their own if they're pale or out of season — 5 minutes of salt wakes up a mediocre tomato more than any dressing will. **Then the purple onion, if there is one: a few paper-thin slices scattered through, and no more** — Cody's own instruction is *light*, and raw onion takes over a plain salad fast. A mandoline or the sharpest knife you own; thick onion is the wrong onion here.
 
 **4. Dress it right before it goes to the table.**
 Pour the olive oil over first and toss until every leaf is barely glossy, **then** add the vinegar and toss again. Oil first is the whole trick: it coats the leaves and keeps the acid from hitting them bare and wilting them on contact. Season with salt and pepper and taste **a dressed leaf**, not the dressing — dressing always tastes sharper off a spoon than it does on lettuce. **Dress at the last possible moment.** Butter lettuce especially will collapse inside of ten minutes.
@@ -23766,6 +23769,7 @@ This is Cody's instruction and it's the finish of the dish: **the wedge goes out
 
 - 🛒 Romaine hearts — 2, **or** butter lettuce — 2 heads
 - 🛒 Cherry tomatoes — 1½ cups (a pint container)
+- 🛒 Purple (red) onion — 1 small; only a few slices go in *(Cody: light on the onions, and only if there is one)*
 - 🛒 **Grana Padano — a 4 oz wedge, not pre-grated.** *The one item on this list not to substitute.* Cheese counters and most full-size groceries carry it; it sits next to the Parmigiano-Reggiano and is usually the cheaper of the two
 - 🛒 Extra-virgin olive oil
 - 🛒 Red wine vinegar **or** balsamic — either, per Cody
@@ -23788,17 +23792,19 @@ This is Cody's instruction and it's the finish of the dish: **the wedge goes out
 - ⚙️ **The Grana Padano explainer is cookbook judgment too**, reasoned from the **Consorzio per la Tutela del Formaggio Grana Padano** (the PDO consortium — production zone and the nine-month minimum), the **Consorzio del Formaggio Parmigiano-Reggiano** (that cheese's own feed and ingredient rules), and the **Institute of Culinary Education's** side-by-side of the Italian grating cheeses for the flavor and texture comparison. **No URL is attached, per [CLAUDE.md §3d](CLAUDE.md)** — the sources are named instead. Cody said only that it has to be a really good one and that it has to be bought; the *why* above is the cookbook's.
 - ❓ **Which does he actually make more often, romaine or butter lettuce?** He offered both without picking, and they behave differently enough (crunch vs. collapse) that it changes how far ahead you can dress it. Worth asking.
 - ❓ **Red wine vinegar or balsamic — is one the house default?** He called both great. If one is what's usually in the bottle, the entry should say so.
-- ❓ **Anything else on it?** He named lettuce, tomato, cheese, oil and vinegar and stopped. No onion, cucumber, or crouton is assumed here — but this is the kind of salad that often has one, so it's worth a direct check rather than a guess.
+- ✅ **Anything else on it? — answered 2026-09-09: halved cherry tomatoes (already here) and a light hand of purple onion.** *"If we have the onions, we can be light on the onions."* Both are in the ingredient list and Step 3 now; the onion amount is the cookbook's reading of *light*. No cucumber or crouton — he didn't name either.
 
 [↑ Table of Contents](#table-of-contents)
 
 ---
 
-### 5.62 Salted Cucumbers in White Vinegar
+### 5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)
 
-> ⚠️ **Read this first — this recipe's provenance is unusual, and it is not one of Cody's.** **The line "Cucumbers in vinegar" on the [Meal Planning Sheet](#meal-planning-sheet) was invented by this cookbook**, not recovered from him — it was written as one of several bare no-entry suggestions in the sheet's No-Cook Sides block. **Cody then read it and liked the sound of it**, which is how it became a recipe: *"Oh, that sounds delicious. That would be in white vinegar, I'm assuming — salted cucumbers and white vinegar. Sounds delish."*
+> ✅ **Renamed and widened 2026-09-09 (final), on Cody's own dictation — and with that it became his.** *"Cucumber, onion, maybe sliced carrots, maybe celery — a mesh of all sorts, or just one vegetable. It's a soak, not a cook."* **So this is no longer a cucumber-only salad: it is a salt-and-white-vinegar soak for whatever crisp raw vegetables are on hand — cucumber, onion, carrot, celery, any mix or any one of them.** The vegetable list is his; the ratios and cuts below are still the cookbook's, labeled. It is on his **⭐ Staple Sides** list, and it stays distinct from [§4.177 Quick Pickles](#4177-quick-pickles), which is a boiled sweet brine in a jar — see the note further down. *(The old title, "Salted Cucumbers in White Vinegar," and its anchor are retired; every link in the book was updated the same day.)*
 >
-> **He is reacting to a proposal, not remembering a practice.** "I'm assuming" is the tell, and it's recorded here rather than smoothed over. **So the method below is cookbook judgment under [CLAUDE.md §3d](CLAUDE.md)** — sourced, labeled, and to be replaced wholesale the first time he makes a batch his own way. **What is genuinely his: the white vinegar, the salt, and the interest.** Everything else is the cookbook's.
+> ⚠️ **How it started — the recipe's provenance is unusual.** **The line "Cucumbers in vinegar" on the [Meal Planning Sheet](#meal-planning-sheet) was invented by this cookbook**, not recovered from him — it was written as one of several bare no-entry suggestions in the sheet's No-Cook Sides block. **Cody then read it and liked the sound of it**, which is how it became a recipe: *"Oh, that sounds delicious. That would be in white vinegar, I'm assuming — salted cucumbers and white vinegar. Sounds delish."*
+>
+> **At that point he was reacting to a proposal, not remembering a practice.** "I'm assuming" was the tell, and it's recorded here rather than smoothed over. **His later dictation (above) changed that: the vegetables and the "soak, not a cook" framing are now his.** **The method below is still cookbook judgment under [CLAUDE.md §3d](CLAUDE.md)** — sourced, labeled, and to be replaced wholesale the first time he makes a batch his own way. **What is genuinely his: the white vinegar, the salt, the vegetable list, and the interest.** The cuts, the amounts, and the timings are the cookbook's.
 
 **Cody also asked for the quick-pickle connection out loud:** *"there's gotta be a way to do that, to do a quick pickle. I think there's quick pickles that I would wanna put as a thing."* **There is, and it's already written up — [§4.177 Quick Pickles](#4177-quick-pickles)** (Meathead). See the next note for what that entry does and doesn't cover.
 
@@ -23806,7 +23812,7 @@ This is Cody's instruction and it's the finish of the dish: **the wedge goes out
 >
 > **But it is a different dish.** §4.177 is a **sweet refrigerator pickle in a jar**: equal parts vinegar and water, **half a part sugar**, a brine boiled three minutes and poured hot, then **at least 24 hours in the fridge** before it's ready. That's a condiment you keep — a forkful on a sandwich or a taco.
 >
-> **This is a salad you eat tonight**: no sugar, no jar, no boiled brine, no wait. Salt draws water out of the cucumbers, vinegar goes on straight, and it's on the table in an hour. **Reach for §4.177 when you want to put a jar up; reach for this when you want a side dish with dinner.** If you want the sweet version of exactly this, don't rebuild it here — go make §4.177 with cucumbers.
+> **This is a salad you eat tonight** — *a soak, not a cook*, in Cody's words: no sugar, no jar, no boiled brine, no wait. Salt draws water out of the vegetables, vinegar goes on straight, and it's on the table in an hour. **Reach for §4.177 when you want to put a jar up; reach for this when you want a side dish with dinner.** If you want the sweet version of exactly this, don't rebuild it here — go make §4.177 with cucumbers.
 
 **Related in this book:** [§4.177 Quick Pickles](#4177-quick-pickles) · [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) *(the dressed-up version — lime, fish sauce, herbs, peanuts)* · [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) · [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) · [§5.26 Pickled Okra](#526-pickled-okra)
 
@@ -23816,28 +23822,31 @@ This is Cody's instruction and it's the finish of the dish: **the wedge goes out
 
 #### A. Ingredients
 
-> ⚙️ **Cookbook judgment — quantities, timings, and method all.** Cody named **cucumbers, salt, and white vinegar** and nothing else. Basis, per [CLAUDE.md §3d](CLAUDE.md): **America's Test Kitchen** on salting watery vegetables — *Salt Vegetables for Not-Soggy Slaws and Salads* and its *Cucumber-Dill Salad* — for the colander-and-30-minutes draw and the blot-dry step; **[§T29 How to Salt](#t29-how-to-salt)** (Samin Nosrat, *Salt, Fat, Acid, Heat*), already in this book, for the 15-to-20-minutes-ahead rule on watery vegetables and the instruction to pat them dry because the salt has pulled water to the surface; and **[§4.177 Quick Pickles](#4177-quick-pickles)** (Meathead) for the ⅛-inch slice and for distilled white vinegar as the default pickling vinegar. **Cody's own figures supersede all of this the day he gives them.**
+> ⚙️ **Cookbook judgment — quantities, cuts, timings, and method.** Cody named **the vegetables (cucumber, onion, carrot, celery — any mix, or just one), salt, and white vinegar** and nothing else. Basis, per [CLAUDE.md §3d](CLAUDE.md): **America's Test Kitchen** on salting watery vegetables — *Salt Vegetables for Not-Soggy Slaws and Salads* and its *Cucumber-Dill Salad* — for the colander-and-30-minutes draw and the blot-dry step; **[§T29 How to Salt](#t29-how-to-salt)** (Samin Nosrat, *Salt, Fat, Acid, Heat*), already in this book, for the 15-to-20-minutes-ahead rule on watery vegetables and the instruction to pat them dry because the salt has pulled water to the surface; and **[§4.177 Quick Pickles](#4177-quick-pickles)** (Meathead) for the ⅛-inch slice and for distilled white vinegar as the default pickling vinegar. For the carrots and celery — which are not watery the way cucumber and onion are — the same salt draw is kept for seasoning rather than for draining, and the cut is taken thin enough that straight vinegar can get into them in half an hour: **America's Test Kitchen's** salted-slaw and pickled-vegetable practice is the basis for salting the mix together, and [§4.177](#4177-quick-pickles)'s ⅛-inch rule carries over to the carrot. **Cody's own figures supersede all of this the day he gives them.**
 
-- 2 lb cucumbers *(about 4 medium slicing cucumbers, or 8 Persian)*
+- **2 lb crisp raw vegetables, in any mix — or just one** *(Cody's list, his words: "a mesh of all sorts, or just one vegetable")*:
+  - **Cucumber** — the base most nights; about 4 medium slicing cucumbers or 8 Persian make the whole 2 lb on their own
+  - **Onion** — white, yellow, or purple, sliced paper-thin; ½ a small one per 2 lb of mix, or more if you like it
+  - **Carrot** — *"maybe sliced carrots"*; ⅛-inch coins, or ribbons off a peeler
+  - **Celery** — *"maybe celery"*; thin slices on the bias, ¼ inch or less
 - 1 Tbsp kosher salt, for drawing *(most of it drains away — see step 2)*
 - ½ cup distilled white vinegar *(Cody's — he named white vinegar specifically)*
-- ½ small onion, sliced paper-thin *(optional)*
 - Freshly ground black pepper
 - A pinch of flaky or kosher salt at the table, to finish
 
 #### B. Cooking Instructions
 
-**1. Slice the cucumbers thin. About ⅛ inch.**
-Thin is what makes this work — a thick slice stays watery in the middle and never really takes the vinegar. **⅛ inch** is the same slice [§4.177 Quick Pickles](#4177-quick-pickles) calls for. A mandoline gets you there fastest and most evenly; **if you use one, use the hand guard** — the blade is exposed and it does not care about your fingers. Peel or don't: leaving the skin on gives more crunch and a faint bitterness, and stripey-peeling (alternate strips off, as in [§5.50](#550-vietnamese-cucumber-salad)) splits the difference.
+**1. Slice everything thin. About ⅛ inch for cucumber and carrot, paper-thin onion, ¼ inch or less on the celery.**
+Thin is what makes this work — a thick slice stays watery in the middle (cucumber) or stays raw and woody in the middle (carrot, celery) and never really takes the vinegar. **⅛ inch** is the same slice [§4.177 Quick Pickles](#4177-quick-pickles) calls for. Use any one of the four vegetables or any mix of them — *"a mesh of all sorts, or just one"* — the method does not change. A mandoline gets you there fastest and most evenly; **if you use one, use the hand guard** — the blade is exposed and it does not care about your fingers. Peel or don't: leaving the skin on gives more crunch and a faint bitterness, and stripey-peeling (alternate strips off, as in [§5.50](#550-vietnamese-cucumber-salad)) splits the difference.
 
 **2. Salt them in a colander and let them drain. 30 minutes.**
-Toss the slices with the tablespoon of salt in a colander, set it over a bowl or in the sink, and **leave it 30 minutes.** Salt on the surface pulls water out of the cells by osmosis, and a surprising amount comes out — you'll see it pooled underneath. **This is the step that decides whether you get a crisp salad or a bowl of vinegar soup**, because water still inside the cucumber comes out later anyway and dilutes everything. *If you have longer, weighting the colander with a plate and something heavy on top, for up to an hour, pulls out more still.*
+Toss all the slices together with the tablespoon of salt in a colander, set it over a bowl or in the sink, and **leave it 30 minutes.** Salt on the surface pulls water out of the cells by osmosis, and a surprising amount comes out of the cucumber and onion — you'll see it pooled underneath. Carrot and celery give up much less water; for them the half hour is seasoning time, and it is what lets straight vinegar taste like it belongs on a carrot. **This is the step that decides whether you get a crisp salad or a bowl of vinegar soup**, because water still inside the cucumber comes out later anyway and dilutes everything. *If you have longer, weighting the colander with a plate and something heavy on top, for up to an hour, pulls out more still.*
 
 **3. Shake and blot dry.**
 Shake the colander hard to throw off the loose liquid, then **blot the slices dry between paper towels or a clean towel.** Don't rinse them unless they taste genuinely too salty — rinsing puts back the water you just spent half an hour removing. **Most of the tablespoon of salt goes down the drain with that liquid**, which is why the amount looks alarming and isn't.
 
 **4. Dress with the vinegar. At least 30 minutes.**
-Cucumbers into a bowl, pour the ½ cup of white vinegar over, add the thin-sliced onion if you're using it and a few grinds of black pepper, and toss. **Let it sit at least 30 minutes** before serving, in the fridge if it's a hot day. **Taste it before it goes out.** Straight white vinegar is sharp — that's the dish, and it's what Cody named — but if it's too much for the table, **cut it with a splash of water rather than adding sugar.** Sugar turns this into [§4.177](#4177-quick-pickles), which already exists.
+Vegetables into a bowl, pour the ½ cup of white vinegar over, add a few grinds of black pepper, and toss. **Let it sit at least 30 minutes** before serving, in the fridge if it's a hot day. **Taste it before it goes out.** Straight white vinegar is sharp — that's the dish, and it's what Cody named — but if it's too much for the table, **cut it with a splash of water rather than adding sugar.** Sugar turns this into [§4.177](#4177-quick-pickles), which already exists.
 
 **5. Serve cold, with a pinch of finishing salt.**
 Serve it cold, straight out of the bowl, with a small pinch of flaky or kosher salt over the top right at the table — the draining salt seasoned the inside, and this is the bite you actually taste. **It keeps 3 to 4 days covered in the fridge and softens a little each day**, which some people prefer. Like every other pickle in this book, it lives in the refrigerator, not the pantry — same rule as [§4.177](#4177-quick-pickles), [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut), and [§5.26 Pickled Okra](#526-pickled-okra).
@@ -23846,10 +23855,12 @@ Serve it cold, straight out of the bowl, with a small pinch of flaky or kosher s
 
 **🛒 General grocery**
 
-- 🛒 Cucumbers — 2 lb (about 4 medium, or 8 Persian)
+- 🛒 Cucumbers — up to 2 lb (about 4 medium, or 8 Persian) — *the base; buy less if the mix below is going in*
+- 🛒 Onion — ½ small, or a whole one for an onion-heavy mix
+- 🛒 Carrots — 2 or 3, optional *("maybe sliced carrots")*
+- 🛒 Celery — a few ribs, optional *("maybe celery")*
 - 🛒 Distilled white vinegar — ½ cup
 - 🛒 Kosher salt
-- 🛒 Onion — ½ small, optional
 - 🛒 Black pepper
 - 🛒 Flaky finishing salt — optional, for the table
 
@@ -23860,15 +23871,15 @@ Serve it cold, straight out of the bowl, with a small pinch of flaky or kosher s
 | **Whole dish** | ~140 | 1 g | 5 g | 30 g | 4 g |
 | **Per serving** *(serves 6)* | ~23 | 0 g | 0.8 g | 5 g | 0.7 g |
 
-**What a serving is:** about ½ cup of drained slices — a small side dish next to something rich, not a bowl you eat by itself.
+**What a serving is:** about ½ cup of drained slices — a small side dish next to something rich, not a bowl you eat by itself. *The figures are for an all-cucumber batch; a mix with carrot in it runs a few calories and a gram or two of carbs higher per serving, and celery or onion changes almost nothing.*
 
 *There is almost nothing in this dish. **The figures count the drained cucumbers plus the vinegar clinging to them**, not the water and salt that went down the sink in step 2 or the vinegar left in the bottom of the bowl. **Sodium is the number that moves**, not calories — a tablespoon of kosher salt goes in, most of it drains off, and what's left is still a salted dish. Estimated on assumed quantities, which are the cookbook's and not Cody's.*
 
 #### D. Open Questions
 
-- ⚙️ **The whole method is cookbook judgment under [CLAUDE.md §3d](CLAUDE.md), and the recipe's origin is a cookbook suggestion he liked** — not a practice of his being written down. Sources named in the Ingredients note above. **What's Cody's: cucumbers, salt, white vinegar, and the idea that it sounds good.** Everything else — the ⅛-inch slice, the 30-minute salt draw, the ½ cup of vinegar, the optional onion, the timings — is the cookbook's. **His version replaces all of it the day he makes one.**
+- ⚙️ **The method is cookbook judgment under [CLAUDE.md §3d](CLAUDE.md); the recipe began as a cookbook suggestion he liked and became his on 2026-09-09 when he named the vegetables.** Sources named in the Ingredients note above. **What's Cody's: the vegetable list — cucumber, onion, carrot, celery, any mix or just one — the salt, the white vinegar, and "it's a soak, not a cook."** Everything else — the ⅛-inch slice, the per-vegetable cuts, the 30-minute salt draw, the ½ cup of vinegar, the timings — is the cookbook's. **His version replaces all of it the day he makes one.**
 - ❓ **Does he want it sweet or not?** This is written unsweetened, because he said *salted* cucumbers and named only vinegar. A great many cucumber-and-vinegar salads carry a spoonful of sugar, and [§4.177 Quick Pickles](#4177-quick-pickles) is sweet by design. **Worth one direct question**, because it's the single biggest fork in this dish.
-- ❓ **Onion in or out?** Included as optional on the strength of how commonly it appears in this style of salad, not on anything Cody said.
+- ✅ **Onion in — CLOSED 2026-09-09.** It was optional on the strength of how commonly it appears in this style of salad; Cody then named it outright, second in his list. Carrot and celery came with the same "maybe," and are in as options.
 - ❓ **Dill, or nothing?** Deliberately left out — he didn't mention it, and this entry is already carrying enough that isn't his.
 
 [↑ Table of Contents](#table-of-contents)
@@ -25800,7 +25811,15 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min** *(20–30 min of the cook is an unattended sauce simmer)*
 
-**❤️ Family favorite** — *Cody: "A staple in our family."*
+**❤️ Family favorite** — *Cody: "A staple in our family."* On his **⭐ Staple Mains** list, 2026-09-09.
+
+> 🍝 **What the sauce goes over — three options, Cody's, 2026-09-09.** *"Fried cabbage goes great with the spaghetti sauce; a great substitute for noodles. We cook noodles anyway because the kids eat them — get the really high-quality protein noodles."* So the sauce is served over any of:
+>
+> - **High-protein pasta — the noodles the kids get.** *(⚙️ Cookbook judgment on the type, per [CLAUDE.md §3d](CLAUDE.md): the two credible, widely stocked kinds are **Banza** — chickpea pasta, about 11 g of protein and 5 g of fiber per 2 oz serving — and **Barilla Protein+** — a wheat pasta with lentil, chickpea and pea protein blended in, about 10 g of protein per serving. Either is on the regular grocery shelf; Banza is the one with the fewer net carbs. Cody named neither brand, only "really high-quality protein noodles"; his own pick supersedes this.)*
+> - **[§5.5 Salted Sautéed Zucchini](#55-zucchini)** — his noodle substitute, being written up: *"a really salty sautéed zucchini so I can pour the chili or the spaghetti sauce over it."*
+> - **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)** 🥑 — *"a great substitute for noodles."*
+>
+> The same three options are on [§8.1 Chili Mac](#81-chili-mac).
 
 #### A. Ingredients
 
@@ -25811,7 +25830,7 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 - 2 (15 oz.) cans tomato sauce
 - 1 (15 oz.) can diced tomato
 - 1 (7 oz.) can tomato paste
-- 1 box noodles or ravioli
+- 1 box noodles or ravioli — **high-protein pasta** (Banza chickpea or Barilla Protein+, cookbook's named types), **or serve the sauce over [§5.5 salted sautéed zucchini](#55-zucchini) or [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) instead** — see the note above
 - Italian seasoning, to taste
 - Salt & pepper, to taste
 - 1 tsp garlic
@@ -25845,7 +25864,7 @@ Boil the noodles or ravioli per the package, top with the sauce, and serve with 
 - 🛒 Tomato sauce — 2 × 15 oz. cans
 - 🛒 Diced tomato — 1 × 15 oz. can
 - 🛒 Tomato paste — 1 × 7 oz. can
-- 🛒 Noodles or ravioli — 1 box
+- 🛒 Noodles or ravioli — 1 box; **high-protein pasta** (Banza or Barilla Protein+) per Cody's 2026-09-09 note — or skip it and make [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) or [§5.5 zucchini](#55-zucchini) as the base
 - 🛒 Italian seasoning
 - 🛒 Salt & pepper
 - 🛒 Garlic
@@ -25985,9 +26004,9 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — a baked jamba
 
 > **Serve as is, or topped with [§4.14 Creole Sauce](#414-creole-sauce)** — now written up in this cookbook, page-number confirmed against the source's own reference. Still entirely optional; the jambalaya stands on its own.
 
-**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
+**Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) · [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) *(the shrimp, before anything else — Cody's standing rule for seafood bought in Missouri; Step 0 below)*
 
-**🟢 Easy** · **Prep ~30 min** · **Cook ~55 min** · **Start to finish ~1 hr 25 min** *(20–30 min of the cook is an unattended oven bake)*
+**🟢 Easy** · **Prep ~30 min** *(including the egg soak's 5 minutes of hands-on; its 7–15 minute sit is unattended)* · **Cook ~55 min** · **Start to finish ~1 hr 25 min** *(20–30 min of the cook is an unattended oven bake)*
 
 > ✅ **Rechecked and downgraded from 🟡 Medium, 2026-09-09 — part of the Prudhomme difficulty recheck Cody asked for:** *"do a really extensive recheck with Paul Prudhomme's stuff because some of his stuff is a little bit tricky, but maybe it's not, maybe I'm just biased."* Reading the method start to finish against [CLAUDE.md §3a](CLAUDE.md)'s actual test — *can a step go from perfect to ruined?* — nothing here can. No roux, no emulsion, no fast sear: every sauté step runs several forgiving minutes, and the finish is a foil-covered 350°F bake with a 20–30 minute window, not a precise one. **The old 🟡 tracked the long ingredient list and the unfamiliar cuisine, not real technique risk**, which is exactly the miscalibration §3a warns against.
 
@@ -26024,6 +26043,9 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — a baked jamba
 - 1½ dozen oysters in their liquor, medium-size — about 10 oz.
 
 #### B. Cooking Instructions
+
+**0. Egg-soak the shrimp first — [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish). Before the seasoning mix, before the pan.**
+✅ **Cody, 2026-09-09: *"we do an egg soak for practically all of the seafood that's bought in Missouri."*** This is his general rule and it applies here: the shrimp go into a colander, a whole raw egg is cracked over them and worked through by hand (about one egg per 2 lb — one is plenty for this half pound), they sit **7 to 15 minutes** scaled to how fishy they smelled out of the bag, and then they get a **thorough cold-water rinse** — the rinse is what carries the off-flavor away. Do it at the start so the shrimp are drained and dry by Step 9. *(⚙️ On the oysters: Cody's rule says practically all seafood, but this recipe uses the oysters' own liquor, so the cookbook's reading is to soak them only if they smell off — lift them out of the liquor, soak and rinse per §T17, and return them to the reserved liquor for Step 9. That reading is the cookbook's, not his, and it's in Open Questions.)* Not for seafood that has actually gone off — §T17's smell test is a flavor fix, not a safety fix.
 
 **1. Combine the seasoning mix and set it aside.**
 All seven seasoning-mix ingredients into a small bowl. Per [T5](#t5-seasonings--peppers), premixing means one bowl to grab mid-cook instead of seven jars.
@@ -26076,6 +26098,7 @@ Pack the rice into an 8 oz. cup and unmold it onto the plate: 2 cups per person 
 
 - 🏪 Peeled medium shrimp — about ½ lb.
 - 🏪 Oysters in their liquor, medium-size — about 10 oz. *(per [§T6](#t6-seafood-notes), buy from a market you trust and keep the liquor if you're not using all of it here)*
+- 🛒 Egg — 1, for the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) soak on the shrimp (Step 0)
 
 #### Nutrition *(estimated)*
 
@@ -26092,6 +26115,7 @@ Pack the rice into an 8 oz. cup and unmold it onto the plate: 2 cups per person 
 - **Where the chicken goes in:** the source text wraps across a page break right at "Add the season-[ing mix]...", and the sentence that follows references "until chicken is tender" without an explicit "add the chicken" a moment earlier. Step 6 above reconstructs the likely intent — confirm against the actual page if there's any doubt.
 - **The rice/shrimp/oyster step reads as a near-duplicate in the source** ("stir in the rice... add the rice, shrimp and oysters"). Consolidated into one addition in Step 9 — worth double-checking there isn't a genuine two-stage rice addition being missed.
 - ~~Creole Sauce (page 248 of the source) isn't in this cookbook.~~ **Settled 2026-08-09 — now at [§4.14](#414-creole-sauce)**, with the page number confirmed as an exact match.
+- ⚙️ **Egg soak on the oysters too?** Step 0 soaks the shrimp on Cody's *"practically all of the seafood"* rule (2026-09-09). Whether the oysters get it as well — and how he handles the liquor the recipe needs if they do — is the cookbook's reading (soak only if they smell off, keep the liquor aside), not his instruction. His answer supersedes it.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -27597,6 +27621,10 @@ Pull the steaks off the grill and let them rest 10 to 15 minutes. Cut the steak 
 | **Per serving** *(serves 4)* | ~990 | 72 g | 82 g | 0 g | 0 g |
 
 **What a serving is:** roughly half of one bone-in ribeye, sliced — a serious steakhouse-scale portion, meant to be shared from the two whole steaks. Figures above don't include a compound butter; add [§4.55](#455-fresh-herb-butter)'s per-serving numbers on top if you're using one.
+
+#### D. Open Questions
+
+- ❓ **Does this overlap [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) enough to keep only one?** Cody, 2026-09-09, on the two lines together: *"I'm not sure how that's different… feels a little redundant."* Both are Meathead reverse-seared ribeyes; this one is two bone-in steaks cut 2–3 inches thick and sliced to feed four, §7.106 is two boneless 1½-inch steaks. **Nothing has been removed** — both stay in Beef on the [Meal Planning Sheet](#meal-planning-sheet), neither is a staple — and the call on whether to keep one is his.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -33471,6 +33499,10 @@ Don't let the meat rest and cool off and lose its crust. For steaks too big for 
 
 **What a serving is:** about half of one 1½-inch-thick ribeye, sliced — a hearty steakhouse portion. Serves 2 generously instead of 4 if you want a full steak each.
 
+#### D. Open Questions
+
+- ❓ **Does this overlap [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) enough to keep only one?** Cody, 2026-09-09, on the two lines together: *"I'm not sure how that's different… feels a little redundant."* Both are Meathead reverse-seared ribeyes; this one is two boneless 1½-inch steaks, §7.36 is two bone-in steaks cut 2–3 inches thick and sliced to feed four. **Nothing has been removed** — both stay in Beef on the [Meal Planning Sheet](#meal-planning-sheet), neither is a staple — and the call on whether to keep one is his.
+
 [↑ Table of Contents](#table-of-contents)
 
 ---
@@ -37242,6 +37274,8 @@ Spoon the chilled salsa over the hot fillets at the table, with rice and patacon
 
 > ♨︎ **No outdoor marker on this one, and that is deliberate — Cody was explicit.** *"That doesn't have to be grilled, it could be pan seared."* **The method here is a blazing cast-iron skillet**, exactly as in [§T28](#t28-sous-vide-chicken-codys-method). **A grill works if you'd rather have it** — a screaming-hot grate over direct heat does the same job in the same 30 to 45 seconds — **but it is not the method, and this recipe does not need you to go outside.** See the [Meal Planning Sheet](#meal-planning-sheet)'s ♨︎ note for the rule this sits under.
 
+> ⭐ **On Cody's Staple Mains list, 2026-09-09 — "with a sauce."** He listed this as a staple and asked that the [Meal Planning Sheet](#meal-planning-sheet) line say so: the thighs come out of the skillet and get one of the easy sauces from the sheet's Sauces block. The ones that suit chicken and take ten minutes or less: [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) built in the same skillet (the Red Wine or Lemon-Caper row), [§4.37 White Barbecue Sauce](#437-white-barbecue-sauce) (Alabama-style), [§4.146 Basic Salsa Verde](#4146-basic-salsa-verde) or [§4.154 Salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) (the herb salsas), and [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ❤️. *(The pairing list is the cookbook's pick from the sauces already on the sheet, not his — he said "with a sauce" and no more.)*
+
 **This is the numbered-recipe version of [§T28](#t28-sous-vide-chicken-codys-method), and everything load-bearing in it is his.** The temperature (148°F), the window (1½ to 4 hours), the dry-rub-only bag, the obsessive pat-dry, the avocado oil, and the 30-to-45-second cast-iron sear are all §T28's, which is to say all Cody's. **What this entry adds is the family arithmetic** — which cut of thigh, how many, how many bags, and where in his window to land a batch this size. **Those are cookbook judgment and are labeled as such below.**
 
 **Techniques used:** [§T28 Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) *(this recipe is that formula, applied)* · [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) *(the same season–bag–bath–dry–oil–sear shape, on beef)* · [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(dark meat vs. white)* · [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) *(why the bone earns nothing here)* · [§T95 Cutting Up a Chicken](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) *(if you bone them yourself)* · [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) *(for the skillet afterward)*
@@ -37567,7 +37601,15 @@ Transcribed from Cody's photographed recipe card — a **crock-pot chili** built
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** *(browning, plus boiling the noodles at the end)* · **Slow cook 4 hr** *(crock pot — **the chili only**, never the noodles)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands until the noodles go on)*
 
-**❤️ Family favorite** — *Cody: "Awesome."*
+**❤️ Family favorite** — *Cody: "Awesome."* On his **⭐ Staple Mains** list, 2026-09-09.
+
+> 🍝 **What the chili goes over — Cody, 2026-09-09: the noodles, or a noodle substitute.** His note was made about [§7.18 Spaghetti](#718-spaghetti) and extended here in the same breath — *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles. We cook noodles anyway because the kids eat them — get the really high-quality protein noodles. Might be good for chili mac too."* So the chili ladles over any of:
+>
+> - **High-protein pasta** for the noodles — *(⚙️ cookbook judgment on the type, per [CLAUDE.md §3d](CLAUDE.md): **Banza** chickpea pasta or **Barilla Protein+**; both are credible, widely stocked, and hold up under a heavy sauce. Cody named neither brand; his own pick supersedes this.)*
+> - **[§5.5 Salted Sautéed Zucchini](#55-zucchini)** — his noodle substitute, being written up: *"so I can pour the chili or the spaghetti sauce over it."*
+> - **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)** 🥑 — *"might be good for chili mac too."*
+>
+> Same three options on [§7.18](#718-spaghetti). Whatever the base, the rule in the correction above still holds: **it is cooked separately and the chili goes over it** — nothing but the chili goes in the crock pot.
 
 #### A. Ingredients
 
@@ -37611,7 +37653,7 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 - 🛒 Prepared chili — 2 cans
 - 🛒 Black beans — 1 can
 - 🛒 Chili seasoning — 1 packet
-- 🛒 Noodles — 1 lb *(boiled separately at serving)*
+- 🛒 Noodles — 1 lb *(boiled separately at serving)*; **high-protein pasta** (Banza or Barilla Protein+) per Cody's 2026-09-09 note — or [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) / [§5.5 zucchini](#55-zucchini) as the base instead
 - 🛒 Crystal hot sauce — 1 container
 - 🛒 Shredded cheese — 1 bag
 
@@ -44442,11 +44484,22 @@ Cauliflower into a food processor or high-powered blender, add the butter and cr
 
 **3. Serve, garnished with more butter if you like.**
 
+#### B2. Variation — The 20% Mashed Potato Blend (Cody's wife's way — and it is not keto)
+
+✅ **Cody, 2026-09-09 (final): *"My wife likes to mix just a couple of mashed potatoes in there — maybe twenty percent mashed potatoes. Refine that recipe."*** So this is **her practice, recorded as hers**: real mashed potatoes folded into the caulimash at about one part potato to four parts cauliflower. The potato brings back the starch and the body that cauliflower alone never quite has; at a fifth of the bowl it reads as mashed potatoes with a lighter texture rather than as cauliflower with something in it.
+
+**1. Make the caulimash as above, through Step 2.**
+
+**2. Fold in about 20% mashed potatoes by volume — roughly ½ cup of prepared mashed potatoes to the batch above, which makes about 2½ cups.** Warm potatoes fold in cleanly; cold ones go lumpy. A spoonful of [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ❤️ left over from another night is the obvious source; instant or store-bought works too. Fold by hand rather than in the processor — over-worked potato turns gluey. Taste for salt afterward, since the potatoes carry their own.
+
+> 🥑 **This variation is not keto, and the entry's tag does not extend to it.** The plain recipe prints **4.9 g net carbs per serving**; a cup of mashed potatoes runs on the order of **35 g of carbohydrate**, so ½ cup of it across four servings adds roughly **4 g of carbs per serving — about double the printed figure, to something near 9 g net.** That is a rough cookbook estimate per [CLAUDE.md §3b](CLAUDE.md), built on USDA-scale figures for mashed potatoes rather than on any printed number, and it moves with how much potato actually goes in and what's in it (butter, milk). **The point is the direction, not the decimal: at a 20% blend this is a lighter mashed potato, not a keto side.** The ❤️ and the 🟢 are unchanged — it's the same ten minutes with one more bowl.
+
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
 - 🛒 Frozen cauliflower florets — 1 × 12 oz. bag
+- 🛒 Mashed potatoes — about ½ cup, *only for the 20% blend (B2)*; leftover, instant, or from [§5.25](#525-heathers-mashed-potatoes)
 - 🛒 Salted butter — 3 Tbsp, plus extra for garnish
 - 🛒 Heavy whipping cream — 2 Tbsp
 - 🛒 Salt and ground black pepper
@@ -44462,7 +44515,7 @@ Cauliflower into a food processor or high-powered blender, add the butter and cr
 
 **What a serving is:** about ½ cup — the same scoop you'd take of mashed potatoes.
 
-**Net carbs: 4.9 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 4 servings. Extra butter for garnish is not included.
+**Net carbs: 4.9 g per serving.** Whole-dish figures are calculated from the source's per-serving numbers at 4 servings. Extra butter for garnish is not included. **The 20% mashed-potato blend (B2) is not covered by these numbers or by the 🥑 tag** — see the estimate in that section.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -44629,6 +44682,8 @@ Transcribed from the printed keto cookbook, ***Side Dishes*** chapter — the sa
 
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing in this can go from perfect to ruined — it's one skillet, four ingredients, and fifteen minutes of stirring. **The fastest keto recipe in the cookbook**, and one of the fastest recipes of any kind here.
 
+> 🍝 **Serve it under the spaghetti sauce — Cody, 2026-09-09: *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles."*** So this is a **noodle substitute** as much as a side: a plate of it under [§7.18 Spaghetti](#718-spaghetti)'s sausage-and-tomato sauce is a low-carb spaghetti night, and he thinks it *"might be good for chili mac too"* — [§8.1 Chili Mac](#81-chili-mac). Both entries carry the same note. It is on his **⭐ Staple Sides** list.
+
 #### A. Ingredients
 
 *Exactly as the source prints them.*
@@ -44716,6 +44771,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | ***Cook Without a Book*** — **a book Cody owns and named, nothing transcribed yet** | **Named by Cody on 2026-09-09**, while reviewing the Meal Planning Sheet's new [Sauces](#sauces) block — he offered it as another sauce source he has on the shelf. **Verified the same day: nothing from this book is in this cookbook.** No recipe, note, or citation anywhere in `codys-cookbook.md` or `CHANGELOG.md` traces to it, and no §4 entry is credited to it. It is **not** a photograph request — nothing has been shot, so nothing is missing; this row exists so a named, offered source is tracked as a lead instead of being lost between sessions. **What would open it:** Cody photographing pages he wants from it, the same way every other book here arrived. *(Recorded as a lead only — no author, edition, or page range is stated here, because Cody has not given one and this cookbook does not guess at bibliographic facts. Judgment fills gaps; it does not invent them.)* <br><br> **✅ Corrected later the same day — one recipe here does trace to it, on Cody's own account.** He said of **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** that it came from *Cook Without a Book*. **So the "nothing from this book is in this cookbook" finding above is superseded**: the same-day search was accurate about what the file *said* — §8.4 credited no source at all — but wrong about the fact. **§8.4 now carries the attribution, marked as his statement and unverified against a page.** The row stays open as a lead, because one recalled attribution is not the same as having the book's pages: nothing here has been checked against it, and no author, edition, or page number is known. <br><br> **📌 2026-09-09 (final) — he asked *"did you end up finding that?"* No pages have been given and nothing has been transcribed; the answer is still no. But the pan sauce he described — deglaze the skillet, reduce, mount with butter — is already in this book as [§T8 Pan Sauce Formula](#t8-pan-sauce-formula)**, read in full that day: ¾ cup liquid into the pan the meat came out of, reduce by half, whisk in a tablespoon of butter or oil or two of cream, with a 20-combination table led by a **Red Wine** version (6 Tbsp each broth and red wine, a teaspoon of Dijon, butter) and a white-wine-and-broth rule for the white version. **So §T8 is on the [Meal Planning Sheet](#meal-planning-sheet)'s ⭐ Staple Sauces as "Easy Wine Pan Sauce (white or red) — §T8."** *(Cookbook observation, unconfirmed: §T8 was transcribed from a photographed page headed "Instant Gratification: Pan Sauces and Drizzles," which reads like a chapter title from Pam Anderson's *How to Cook Without a Book* — if so, the two are one and the same, and the entry's source line should say so. Cody can settle that by checking the book's contents page.)* **Still wanted for comparison: the *Cook Without a Book* pan sauce as printed**, so the two can be set side by side and §T8's source line filled in. | 📌 Lead — named 2026-09-09; **[§8.4](#84-lemon-chicken-soup-with-spinach-and-rice) attributed to it by Cody the same day**, unverified; **[§T8](#t8-pan-sauce-formula) stands in for its pan sauce** on the sheet, the printed version still wanted |
 | **Cody's own chili** *(plain chili — the standalone bowl, not chili mac)* | **Wanted by Cody, 2026-09-09, and it is not in this cookbook.** He asked *"I think I gave you my chili recipe, didn't I?"* — **he hasn't.** The whole file was searched that day and there is no plain chili in it. **What exists and why none of it is this dish:** [§8.1 Chili Mac](#81-chili-mac) is a chili that finishes over noodles, and Cody had it renamed for exactly that reason — *"chili can stand alone, but chili mac is its own thing that includes chili"*; [§8.21 Five-Way Chili](#821-five-way-chili) is an undictated placeholder and Cincinnati-style; [§8.36 Chili Dogs](#836-chili-dogs) is a placeholder for a *use* of §8.1's chili. *([§4.32 Texas Chili Rub](#432-texas-chili-rub) and [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) are seasonings, not chili.)* **He also wants plain chili on the [Meal Planning Sheet](#meal-planning-sheet) as its own main, immediately before Chili Mac.** It is not there yet and will not be until there is a method behind it — every line on that sheet points at a recipe. **What would open it: a walkthrough from Cody**, the way [§1](#1-codys-pho), [§3](#3-darcys-steak), [§6.9](#69-codys-pulled-pork) and [§6.10](#610-sous-vide-brisket-richies-method) arrived. Nothing is guessed at in the meantime. **One thing is already settled:** the standing 50/50 rule — deer and pork sausage, or beef and pork sausage — applies to any chili in this cookbook. **Two dishes now hang off it** — [§8.1 Chili Mac](#81-chili-mac) and, since 2026-09-09, [§8.47 Frito Pie](#847-frito-pie) ❤️ — both written against "chili" generically and both linking to his the day it lands. | 🟡 **Wanted — needs Cody's walkthrough**, then goes on the sheet before Chili Mac |
 | **A meal calendar that back-schedules the start time** *(a build, not a recipe — logged here so it isn't lost)* | **Wanted by Cody, 2026-09-09, and confirmed the same evening:** *"if you want it ready by six and it's 30 minutes of prep and an hour in the oven, you need to be prepping by four-thirty… if sous vide takes two days, you sous vide two days beforehand"* — *"We set it up as an event, because it's especially important for sous vide and grilling."* **The shape of it:** one event per dinner, with the start time worked backward from the serving time using three inputs this cookbook already carries — the [Meal Planning Sheet](#meal-planning-sheet)'s hands-on minutes (the 🟩🟨🟥 square, grill overhead included), each entry's **Slow cook** hours, and its lead time (marinate, dry brine, the two-day sous vide) — possibly emailed. **Nothing has been built**; this row is the specification. | ⏳ Future build — not started |
+| **The four pulled-pork methods — condense to one?** *(a housekeeping question, not a missing recipe)* | **Cody, 2026-09-09 (final), looking at the pork column of the [Meal Planning Sheet](#meal-planning-sheet): *"I think we can condense that into one, maybe."*** The four are [§6.2 Pulled Pork](#62-pulled-pork) (Raichlen, North Carolina), [§6.6 North Carolina Pulled Pork, Karmel version](#66-north-carolina-pulled-pork-karmel-version), [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) ❤️ (his own), and [§7.95 Meathead's Perfect Pulled Pork](#795-perfect-pulled-pork) ❤️. **Nothing has been deleted** — [CLAUDE.md §5](CLAUDE.md) says complete recipes come out only on an explicit request, and *"maybe"* is not one. **Only §6.9 is on his ⭐ Staple Mains list**; the other three stay in the Pork group of the sheet and in §6/§7 as they were. If he says the word, the three non-Cody versions could be folded into a single "other pulled pork methods" cluster line on the sheet, or their entries condensed — but that is his call to make, and it is logged here so the remark isn't lost. | 📌 Logged 2026-09-09 — awaiting a yes or no from Cody |
 | *(add here)* | | |
 
 > **🚫 Explicitly dropped by Cody, 2026-09-06 — removed from gap tracking rather than left as open items.** Six things this project had been carrying as "identified but incomplete" are ones Cody has said he does not want, so they are no longer chased and are recorded here only so nobody re-opens them: **Corn Salad** (*The Meathead Method*, book pp. 350–351 — ingredient list captured, no method anywhere in the scan); **Smoke Catcher Clambake** (book p. 321 — headnote only, and its own "smoke catcher" technique page, p. 98, likewise absent); **Pineapple Foster** (book p. 382 — headnote only, cut off mid-sentence); **Orange Tuscan-Style Board Sauce** (book p. 198 — a named component of [§7.133 Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches), which keeps [§4.129 Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) as its stand-in); **the untitled recipe that uses [§7.138 Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) as a component** and finishes it with a basted hot flavored oil (book p. 285 — only the tail of Steps 2–3 legible); and the **"PANKO PERFECT" sidebar** beside [§15.8](#158-old-fashioned-skillet-cornbread-and-hush-puppies) (book p. 374 — title only). Each one's own entry now carries a matching 🚫 note where it was previously flagged as an open gap.

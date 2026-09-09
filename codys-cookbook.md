@@ -1333,7 +1333,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Legend:** ❤️ family favorite · 🥑 keto / low-carb · 🍽️ the whole meal, no side needed · 🔴 rated Hard — it can break on you *(sauces block only)*
 
-**A dish that brings its own sauce or topping is one line here, sauce included.** [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) is one main — the white sauce is part of the dish, not a separate pick. Same with the avocado salsa on [§7.150](#7150-grilled-salmon-with-avocado-salsa). You will not find either sauce anywhere else on this sheet.
+**A dish that brings its own sauce or topping is one line here, sauce included.** [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) is one main — the white sauce is part of the dish, not a separate pick. Same with the avocado salsa on [§7.150](#7150-grilled-salmon-with-avocado-salsa) and the dipping sauce on [§9.32](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce). You will not find any of those three sauces anywhere else on this sheet, including in the [Sauces](#sauces) block.
 
 **This is a planning sheet, not the index.** It carries the family-rated dishes plus the ones that repeat well as weeknight dinners. Where a source gave several versions of one dish — four crawfish bisques, six waterfowl gumbos, three courtbouillons, five briskets — the sheet takes one or two and leaves the rest where they live. **The complete list is the [Table of Contents](#table-of-contents).**
 

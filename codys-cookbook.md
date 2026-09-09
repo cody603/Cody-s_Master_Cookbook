@@ -316,6 +316,7 @@ Click any recipe to jump straight to it.
 - [5.60 Curd Rice](#560-curd-rice) ✅ *(Canal House — the source's own pairing for [§7.47 Shrimp Roast](#747-shrimp-roast))*
 - [5.61 Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ✅ ❤️ *(Cody's own, 2026-09-09; the Grana Padano is bought on purpose and goes to the table — quantities are cookbook judgment)*
 - [5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) ✅ *(new 2026-09-09 — a sheet suggestion Cody liked, filled as cookbook judgment, **not** a practice of his; the sweet jarred version is [§4.177](#4177-quick-pickles))*
+- [5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) ✅ *(Cody's own, 2026-09-09 — romaine, [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), a wedge of **Grana Padano or Romano — "not American Parmesan"** — croutons optional; the third salad on his evening rotation with [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) and [§5.23](#523-greek-salad-with-crumbled-goat-cheese); one batch of dressing covers several nights; quantities are cookbook judgment)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -844,6 +845,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) | 🟢 | 15 min | — | — | 15 min *(optional 30 min–2 hr wrapped rest)* |
 | [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) | 🟢 | 15 min | — | — | 15 min |
 | [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) | 🟢 | 10 min | — | — | 10 min |
+| [§5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) | 🟢 | 10 min | — | — | 10 min *(+ [§4.134](#4134-creamy-caesar-dressing)'s 15 min on the night you make the dressing)* |
 | [§5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) | 🟢 | 10 min | — | — | ~1 hr 10 min *(a 30 min salt draw, then 30 min in the vinegar)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
@@ -1430,7 +1432,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 > - **"Sous Vide" leads the title of every recipe whose method is sous vide** — *"anything that has sous vide, put sous vide in the front of the title please. That may include Cody's Pho — that's fine in front of it."* Eighteen lines carry it now — fifteen newly prefixed, plus [§6.10](#610-sous-vide-brisket-richies-method), [§T28](#t28-sous-vide-chicken-codys-method) and [§7.151](#7151-sous-vide-chicken-thighs-for-the-family-seared), which already did — from [Sous Vide Cody's Pho](#1-codys-pho) to [Sous Vide Fennel Fondant](#539-fennel-fondant) in the sides. The test was the entry's own Slow cook field reading *sous vide*, not a mention in passing — so [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon), a marinade and a grill, does not get it.
 > - **🦌 Game & Wild Birds is gone** — *"I wouldn't put game and wild birds."* [Grilled Quail](#767-grilled-quail-with-pear-and-pine-nut-salad) sits in Chicken & Poultry as *Grilled Quail (or chicken thighs)*, and [Boar Tenderloin](#778-boar-tenderloin-with-cherry-chutney) sits in Pork as *Sous Vide Boar Tenderloin (or pork tenderloin)*. He doubts both times (*"cherry chutney — how long does that take? and the pine nut salad? I'm not convinced"*); they are on the re-read list.
 > - **Four renames, sheet only — the entries keep their own titles:** [§7.36](#736-two-steaks-feed-four) is *Steaks That Feed a Family of Five*; [§7.85](#785-hanger-steak-with-duck-fat-wild-mushrooms) is *Sous Vide Hanger Steak with Duck Fat (or tallow) Wild Mushrooms* (*"open parenthesis, or tallow, close parenthesis. I want it like that"*); [§7.15](#715-pauls-jambalaya) is *Paul's Jambalaya*, apostrophe and all, and it is **🟢 now on his call, 30 min** (*"prep time takes thirty minutes; baking is waiting"*) — the one change here that did reach an entry's badge; and §7.146 is *Pho with Leftover Beef*, above.
-> - **Three salads on rotation** — *"I'd like to alternate different salads in the evenings"* — named on the Salads & Slaws header together with his cheese rule (*"Grana Padano or Romano or something really good — not American Parmesan"*). [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) reads *Simple Romaine, Oil & Vinegar*; a *Simple Romaine, Homemade Caesar* line stands on [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) until its own entry is written; and [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese) names its dressing, [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil).
+> - **Three salads on rotation** — *"I'd like to alternate different salads in the evenings"* — named on the Salads & Slaws header together with his cheese rule (*"Grana Padano or Romano or something really good — not American Parmesan"*). [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) reads *Simple Romaine, Oil & Vinegar*; *Simple Romaine, Homemade Caesar* is [§5.63](#563-simple-romaine-homemade-caesar), written up in Stage C the same day on [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing); and [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese) names its dressing, [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil).
 > - **Two grocery notes reached the entries:** Insta-light briquettes on [§3 Darcy's Steak](#3-darcys-steak) and [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) (*"we've gotta have plenty"*), and fresh shrimp as a bolded requirement on [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche). And [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) gained an optional [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak **with the skin kept on**, because this recipe crisps the skin on purpose.
 > - **The one question that was left — *"championship pork — more like forty-five,"* the [butt](#7137-tuffy-stones-championship-pork-butt) or the [ribs](#7136-championship-pork-ribs)? — he handed back: *"I don't know the answer to that. You figure it out."* Settled under [CLAUDE.md §3d](CLAUDE.md): a butt is a roast and ribs are not, so his 45 sits on the butt as a † figure with that reading labeled on the line, and the ribs got the same hands-on re-read as everything else.**
 
@@ -1487,7 +1489,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟡 [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [North Carolina Coleslaw](#513-north-carolina-coleslaw) 👍 🟩(10 min) |
 | 🟡 [Boudin Blanc](#751-boudin-blanc-boudin) 🟨(75 min) | 🟢 [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) 🟩(10 min) |
 | 🟢 [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Cole Slaw](#535-cole-slaw) 🟩(10 min) |
-| 🟡 [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) 🟥(80 min, incl. 30 grill) ♨︎ | Simple Romaine, Homemade Caesar 🟩(10 min) — *entry coming (Stage C); the dressing is [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), which keeps a week, so one batch covers several nights — 10 on the nights it is already made, add §4.134's 15 the night you make it* |
+| 🟡 [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) 🟩(10 min) — *the dressing is [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing); Cody: one batch keeps a week and covers several nights (its source prints 3 days — §5.63 records both) — 10 on the nights it is already made, add §4.134's 15 the night you make it; Grana Padano or Romano, not American Parmesan* |
 | 🟢 [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"* |
 | 🟢 [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
 | 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ — *the pork sears in cast iron; the fire is for the vegetables and naan* | 🟢 [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) 🟩(15 min) |
@@ -23732,6 +23734,74 @@ Serve it cold, straight out of the bowl, with a small pinch of flaky or kosher s
 - ❓ **Does he want it sweet or not?** This is written unsweetened, because he said *salted* cucumbers and named only vinegar. A great many cucumber-and-vinegar salads carry a spoonful of sugar, and [§4.177 Quick Pickles](#4177-quick-pickles) is sweet by design. **Worth one direct question**, because it's the single biggest fork in this dish.
 - ❓ **Onion in or out?** Included as optional on the strength of how commonly it appears in this style of salad, not on anything Cody said.
 - ❓ **Dill, or nothing?** Deliberately left out — he didn't mention it, and this entry is already carrying enough that isn't his.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.63 Simple Romaine, Homemade Caesar
+
+**Cody's own, dictated 2026-09-09 — the second of the three salads on his evening rotation.** *"I'd like to alternate different salads in the evenings."* **The three:** [§5.61 Simple Romaine (Oil & Vinegar)](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ · **this one** · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ *(dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil))*. Same romaine as the other two, same dress-it-at-the-last-second rule; what changes is the dressing — here it is **[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)**, homemade.
+
+> 🧀 **The cheese rule covers all three salads, and it is Cody's:** ***"Grana Padano or Romano or something really good — not American Parmesan. I'm not a huge fan. Even if we have to order it."*** So the cheese is a **wedge of Grana Padano or Pecorino Romano, bought on purpose**, shaved at the table — **not the green can, and not the pre-grated tub.** Everything about *why* Grana Padano, what it is, and how it differs from Parmigiano-Reggiano is already written up at [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) and is not repeated here. **One note on Romano, since §5.61 doesn't cover it** *(cookbook note, labeled)*: Pecorino Romano is a sheep's-milk cheese, saltier and sharper than Grana Padano — good on a Caesar, which is a salty dressing already, but shave it lighter. **And per [CLAUDE.md §3e](CLAUDE.md): both are orderable online if the store doesn't carry a wedge** — his words, *even if we have to order it*, settle that a mail-order wedge beats a substitute.
+
+> 🥣 **One batch of dressing, several nights — and what the dressing's own entry says about keeping.** Cody's note on the rotation is that **the Caesar dressing keeps about a week, so one batch covers several nights** — that is his practice, and it's why this salad is a 10-minute side on the nights the dressing already exists. **Read alongside what [§4.134](#4134-creamy-caesar-dressing) itself prints:** *"Refrigerate leftover dressing, covered, for up to 3 days"* — and [§4.159 Rustic Mayonnaise](#4159-rustic-mayonnaise), the raw-yolk mayonnaise the dressing is built on, prints the same 3 days. **Both figures are recorded here and neither is smoothed over.** The source's 3 days is the printed, cautious number, and the raw egg yolk in a homemade mayonnaise is the reason for it. §4.134 also allows **¾ cup of good store-bought mayonnaise** as the base, which takes the raw egg out of the dressing — but neither source prints a keeping time for that version, so this cookbook doesn't invent one. **Cody's week is his own figure, and per [CLAUDE.md §3d](CLAUDE.md) his figures supersede; the 3 days is here so he can see what the page says.** Flagged in Open Questions.
+
+**Yield:** serves 4 as a side
+
+**🟢 Easy** · **Prep ~10 min** *(with the dressing already made — add [§4.134](#4134-creamy-caesar-dressing)'s 15 minutes on the night you make it)* · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+> ⚙️ **The quantities below are cookbook judgment, not Cody's.** He named the components — romaine, the homemade Caesar, a really good hard cheese, croutons optional — without amounts. The dressing amount is [§4.134](#4134-creamy-caesar-dressing)'s own serving size (2 Tbsp a person); the lettuce and cheese match [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano). **His own numbers supersede these the day he gives them.**
+
+- **2 romaine hearts** — about 8 cups, torn *(cookbook judgment; romaine is Cody's, and it's the green [§4.134](#4134-creamy-caesar-dressing) lists first)*
+- **½ cup [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing)** — about a third of a 1½-cup batch; **the rest keeps for the next salad nights** *(see the note above on how long)*
+- **A 2 oz wedge of Grana Padano or Pecorino Romano** — **bought as a wedge, and it goes to the table** *(Cody's rule — not American Parmesan)*
+- **Croutons — optional.** ✅ *Cody's: "croutons optional."* [§4.134](#4134-creamy-caesar-dressing)'s own note covers how to make **torn croutons**, and says store-bought are fine too — about 1 cup for four, if using
+- Freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Make the dressing — or don't, tonight.**
+[§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) is the whole recipe for this step: anchovies pounded to a paste, mayonnaise, garlic, lemon, vinegar, Parmesan, Worcestershire, pepper — about **15 minutes**, and it makes 1½ cups. **This salad only needs half a cup.** Make the batch the first night and the next two or three salads on the rotation are a 10-minute job — that's Cody's point about one batch covering several nights, with the keeping question noted above.
+
+**2. Tear the romaine and get it genuinely dry.**
+Tear, don't chop, and dry it in a spinner or on a towel. **Wet leaves refuse to hold a creamy dressing** even more than they refuse oil and vinegar — it slides off and pools. Same rule as [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) and [§5.23](#523-greek-salad-with-crumbled-goat-cheese).
+
+**3. Toss it by hand — greens, dressing, and croutons together — right before it goes to the table.**
+This is [§4.134](#4134-creamy-caesar-dressing)'s own step 4 and it isn't rewritten here: **hands, not tongs**, an abundant coat of dressing, and **the croutons go in with the greens** so they take dressing too rather than sitting on top dry. Taste **a dressed leaf**, not the dressing. **Dress at the last possible moment** — romaine holds up better than most greens, but a creamy dressing weighs it down faster than oil does.
+
+**4. Shave the cheese over the top, and send the wedge out with it.**
+Wide ribbons off a peeler or the long side of a box grater, a few over the bowl before it leaves the kitchen — **then the wedge and the grater go to the table**, [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)'s rule, so people shave their own. Black pepper over everything. **If it's Romano, go lighter** — it's saltier than Grana Padano and the dressing already carries anchovy, Parmesan, and Worcestershire ([§T29 How to Salt](#t29-how-to-salt) uses this exact dressing to teach layered salt, which is a good reason not to pile more on).
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Romaine hearts — 2
+- 🛒 **Grana Padano or Pecorino Romano — a 2 oz wedge, not pre-grated, not American Parmesan.** *Order it if the store doesn't have a wedge — Cody's own instruction.*
+- 🛒 Croutons — optional; store-bought, or a sturdy loaf for [§4.134](#4134-creamy-caesar-dressing)'s torn croutons
+- 🛒 Black pepper
+- 🛒 *Plus the [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) items on the night you make the batch — anchovies, mayonnaise (or [§4.159](#4159-rustic-mayonnaise)'s egg and oil), garlic, lemon, white wine vinegar, Parmesan, Worcestershire*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(without croutons)* | ~790 | 65 g | 35 g | 15 g | 8 g |
+| **Per serving** *(serves 4)* | ~200 | 16 g | 9 g | 4 g | 2 g |
+
+**What a serving is:** a dinner-plate side salad — about 2 cups of dressed romaine with 2 Tbsp of dressing and a few ribbons of cheese.
+
+*Built on the assumed quantities above rather than stated ones. Counts the ½ cup of dressing at [§4.134](#4134-creamy-caesar-dressing)'s own figures (~125 calories per 2 Tbsp) and the whole 2 oz wedge as eaten across four plates. **Croutons add about 30 calories and 4–5 g of carbs per serving** if they're on.*
+
+#### D. Open Questions
+
+- ⚙️ **The quantities are cookbook judgment, per [CLAUDE.md §3d](CLAUDE.md).** **What's Cody's:** romaine, the homemade Caesar ([§4.134](#4134-creamy-caesar-dressing)), Grana Padano or Romano and *not* American Parmesan, croutons optional, and the one-batch-several-nights idea. **What's the cookbook's:** every number, and the Romano note. **His figures supersede these the day he gives them.**
+- ❓ **How long does the dressing really keep at his house — a week, as he said, or the 3 days [§4.134](#4134-creamy-caesar-dressing) and [§4.159](#4159-rustic-mayonnaise) print?** And **does he build it on homemade mayonnaise or store-bought?** That second answer decides which figure applies; the note at the top records both and takes neither away.
+- ❓ **Grana Padano or Romano — which does he actually buy?** He named both. If one is the house wedge, the entry should say so.
+- ❓ **Croutons on his table, or usually not?** He said optional. Written that way.
 
 [↑ Table of Contents](#table-of-contents)
 

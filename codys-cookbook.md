@@ -216,6 +216,7 @@ Click any recipe to jump straight to it.
   - [4.195 Cody's Smoked Salt](#4195-codys-smoked-salt) ✅ ❤️ *(**Cody's own** — coarse sea salt, and pink Himalayan, that he smokes himself about two hours; **load-bearing in [§6.10](#610-sous-vide-brisket-richies-method)**, where it supplies half the smoke flavor. Temperature, wood and layer depth are cookbook judgment or open — see the entry; added 2026-09-08)*
   - [4.194 Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) ✅ ❤️ *(from Cody's dad — thick and cream-cheese-based, **not** the whipped-cream [§4.40](#440-herbed-horseradish-sauce); also great on pork tenderloin, per Cody; ratio is cookbook judgment; added 2026-09-08)*
 - [4.196 Fresh Cranberry Sauce](#4196-fresh-cranberry-sauce) ✅ 🦃 *(Cody's own, 2026-09-09 — "follow the recipe on the label": a 12 oz bag of frozen cranberries, 1 cup sugar, 1 cup water, 10 minutes at a boil, then the fridge; **the numbers are the bag label's**, labeled as such; closes the [§5.24](#524-cranberry-sauce) stub)*
+- [4.197 Lawry's Seasoned Salt (Store-Bought)](#4197-lawrys-seasoned-salt-store-bought) ✅ ❤️ *(a product, not a blend — reference entry like [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought)/[§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning); Cody, 2026-09-09: "we love that, I haven't told you yet"; on his ⭐ Staple Rubs; no badge, no nutrition)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
   - [T2. Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) ✅
@@ -258,7 +259,7 @@ Click any recipe to jump straight to it.
 - [5.2 Sautéed Asparagus](#52-sautéed-asparagus) ✅ ❤️ *(written up 2026-09-09; retitled from the bare "Asparagus" placeholder)*
 - [5.3 Squash](#53-squash) ○ 👍
 - [5.4 Okra](#54-okra) ○ ❤️
-- [5.5 Zucchini](#55-zucchini) ○ ❤️
+- [5.5 Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ✅ ❤️ *(written up 2026-09-09 from Cody's dictation — salt-drawn, then a hot sauté, as the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; an almond-flour-battered variation; the placeholder's ❤️ and quote kept, heading retitled)*
 - [5.6 Cauliflower](#56-cauliflower) ○
 - [5.7 Brussels Sprouts](#57-brussels-sprouts) ✅ ❤️ *(written up 2026-09-09 from Cody's dictation — sautéed in bacon grease, beef tallow, or butter, three variations; the placeholder's ❤️ and quote kept)*
 - [5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) ○ 🔖
@@ -317,6 +318,7 @@ Click any recipe to jump straight to it.
 - [5.61 Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ✅ ❤️ *(Cody's own, 2026-09-09; the Grana Padano is bought on purpose and goes to the table — quantities are cookbook judgment)*
 - [5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) ✅ *(new 2026-09-09 as "Salted Cucumbers in White Vinegar" — a sheet suggestion Cody liked, filled as cookbook judgment; **renamed and widened to a mixed-vegetable soak the same day on his own dictation** — "a mesh of all sorts, or just one vegetable"; the sweet jarred version is [§4.177](#4177-quick-pickles))*
 - [5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) ✅ *(Cody's own, 2026-09-09 — romaine, [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing), a wedge of **Grana Padano or Romano — "not American Parmesan"** — croutons optional; the third salad on his evening rotation with [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) and [§5.23](#523-greek-salad-with-crumbled-goat-cheese); one batch of dressing covers several nights; quantities are cookbook judgment)*
+- [5.64 Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) ✅ *(Cody's own, 2026-09-09 — "nothing complicated, super simple": greens plus one of the book's homemade dressings, listed with their numbers — [§4.84](#484-sauce-vinaigrette-french-dressing), [§4.138](#4138-red-wine-vinaigrette), [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil), [§4.134](#4134-creamy-caesar-dressing), [§4.56](#456-canal-house-lemon-butter) and the Nosrat vinaigrette shelf; a template, not a fixed recipe; on his ⭐ Staple Sides)*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -332,6 +334,8 @@ Click any recipe to jump straight to it.
   - [D. Burnt Ends — Cody's, from the Point](#d-burnt-ends--codys-from-the-point) ✅ *(cubed, avocado-oiled and pan-crisped — the fried-burnt-end idea, out of competition)*
 - [6.9 Cody's Pulled Pork](#69-codys-pulled-pork) ✅ ❤️ *(Cody's own — the second pulled pork [§6.2](#62-pulled-pork) promised; heavy overnight dry brine, Memphis Dust, **cooked overnight at 225°F on an Egg Genius**, fat side up, no wrap or mop, 203°F, long cooler rest; **four or five bone-in 7-10 lb butts at a time**; pecan wood)*
 - [6.11 Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) ✅ ❤️ *(Cody's own, 2026-09-09 — the night before, inject "a whole bunch" of **Tony Chachere's Creole Style Butter** marinade and rub it **liberally with Tony's Original Creole Seasoning** — the rub is the salt, no brine underneath — then overnight in the fridge **upright on a cavity stand**, and smoked upright on the Egg; **325°F is a cookbook fill from the Egg's own recipe**, his number to come; pull at 160°F, his rule)*
+- [6.12 Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) ✅ ❤️ *(Cody's own, 2026-09-09 — "your choice of seasoning — just make sure you do all the salt": a two-day bath, a day on ice, a 4 hr smoke at 225°F; **his 129°F conflicts with his own [§1](#1-codys-pho) rule and the entry prints 131°F as the book's floor, flagged**; [§6.10](#610-sous-vide-brisket-richies-method) on a chuck roast, and the pho beef batched two or three at a time)*
+- [6.13 Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) ✅ ❤️ *(Cody's own, 2026-09-09 — "let's call it beer can chicken even though it's not": [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s method on a chicken — Tony's butter injection, Tony's Original rub, overnight upright on a stand, then the Egg; **350°F, 1¼–1½ hr and the 160°F breast / 170°F thigh pull are cookbook judgment** from the Egg's own recipes, USDA FSIS and Meathead — see [§T78](#t78-myth--beer-can-chicken-is-the-best-way-to-cook-a-bird))*
 
 **[7. Mains & Proteins](#7-mains--proteins)**
 
@@ -487,6 +491,7 @@ Click any recipe to jump straight to it.
 - [7.149 The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) ✅ *(The Meathead Method pp. 218–220 — butcher one primal into four meals, then smoke, sous vide, and sear; distinct from the earlier book's [§7.114](#7114-prime-rib); completed 2026-09-07 from Cody's photographs of pp. 219–220)*
 - [7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) ✅ 👍 *(laylita.com, Layla Pujol — **carries Cody's egg trick as Step 1**: skin the fillet first, because the fishiness in salmon is mostly on the skin side; added 2026-09-08)*
 - [7.151 Sous Vide Chicken Thighs for the Family (Seared)](#7151-sous-vide-chicken-thighs-for-the-family-seared) ✅ *(Cody's own — [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) scaled to feed six: 12 boneless skin-on thighs, 148°F, then a blazing cast-iron sear. **Pan seared, not grilled — his own instruction.** Added 2026-09-09)*
+- [7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) ✅ ❤️ *(Cody's own, 2026-09-09 — large peeled shrimp, the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak left on as the wash, an almond-flour dredge with cornmeal optional (gluten-free, not keto), fried in avocado oil, lemons required; quantities, oil temperature and timing are cookbook judgment)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -847,6 +852,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) | 🟢 | 10 min | — | — | 10 min |
 | [§5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) | 🟢 | 10 min | — | — | 10 min *(+ [§4.134](#4134-creamy-caesar-dressing)'s 15 min on the night you make the dressing)* |
 | [§5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) | 🟢 | 10 min | — | — | ~1 hr 10 min *(a 30 min salt draw, then 30 min in the vinegar)* |
+| [§5.64 Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) *(Cody's — a greens-plus-dressing template)* | 🟢 | 10 min | — | — | 10 min *(+ the chosen dressing's own 5–15 min the night you make it)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
 | [§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -906,6 +912,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.11 Melba Toasts](#911-melba-toasts) | 🟢 | 5 min | 15 min | — | 20 min |
 | [§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🥑 | 🟢 | 5 min | 15 min | — | 20 min |
 | [§5.36 Lemon Green Beans](#536-lemon-green-beans) | 🟢 | 10 min | 10 min | — | 20 min |
+| [§5.5 Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) *(Cody's — salt-drawn, then a hot sauté; almond-flour-battered variation)* | 🟢 | 10 min | 10 min *(~15 min battered)* | — | 40 min *(includes a 20–30 min salt draw — waiting, not work)* |
 | [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) | 🟢 | 20 min | — | — | 20 min |
 | [§7.89 Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) *(Meathead)* | 🟡 | 5 min | 15 min | — | 1 hr 20 min *(+ 1 hr fridge dry-brine)* |
 | [§9.29 Deer Jerky](#929-deer-jerky) | 🟡 | 20 min | — | **~3–6 hr** *(dehydrator, stopped by the bend test — trays swapped every 1½–1¾ hr; then 10 min at 275°F)* | 11–31 hr *(8–24 hr rest)* |
@@ -1002,6 +1009,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§14.19 Vodka Pie Crust](#1419-vodka-pie-crust) | 🟡 | 30 min | — | — | 2 hr 30 min *(+ min. 2 hr chill, preferably overnight)* |
 | [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) *(The Meathead Method)* | 🟢 | 30 min | — | **4–5 hr** *(indirect smoker, unattended)* | 6–7 hr *(includes a 1–2 hr dry brine)* |
 | [§7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) *(The Meathead Method)* | 🟢 | 30 min | — | **~8 hr** *(smoker at 300°F, mostly unattended)* | ~9–21 hr *(includes an up-to-12-hr rest after rub/injection + 45 min rest)* |
+| [§6.13 Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) *(Cody's — upright on a stand; no beer can)* | 🟢 | 30 min | — | **~1¼–1½ hr** *(350°F indirect on the Egg, to 160°F in the breast / 170°F thigh — temperature, time and pull temperature are cookbook judgment; see the entry)* | ~1 day *(includes the overnight dry brine)* |
 | [§5.38 Roasted Veggies](#538-roasted-veggies) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce) *(The Meathead Method)* | 🟡 | 10 min | 20 min | — | 45 min *(includes butter soak-in time)* |
 | [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
@@ -1072,6 +1080,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.146 Pho with Leftover Brisket and Smoked Bone Broth](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) *(The Meathead Method)* | 🟢 | 20 min | 20 min | **~5–7 hr** *(1–2 hr smoking the bones, then a 4–5 hr simmer, both unattended)* | ~6–8 hr |
 | [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | ~3 hr 40 min *(includes a 1–3 hr marinate)* |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🟡 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
+| [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) *(Cody's — egg soak, almond-flour dredge, avocado oil)* | 🟡 | 25 min *(includes the 7–15 min egg soak, unattended)* | 15 min | — | 40 min |
 | [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min *(simmer, strain, reduce)* | — | 45 min |
@@ -1079,6 +1088,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) | 🟢 | 45 min | — | **3–6 wk** *(counter ferment at 70–75°F, then refrigerated)* | 3–6 wk |
 | [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(smoker; ~400°F start, then 275°F; mostly unattended)* | ~10–15 hr *(includes a 1–2 hr hold in a faux Cambro)* |
 | [§6.11 Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) *(Cody's — upright on a stand)* | 🟢 | 45 min | — | **~2½–3½ hr** *(325°F indirect on the Egg, by weight, to 160°F in the breast — the temperature is cookbook judgment from the Egg's own recipe, see the entry)* | ~1 day *(includes the overnight dry brine; add 24 hr per 4 lb to thaw a frozen bird)* |
+| [§6.12 Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) *(Cody's — sous vide, then a 4 hr smoke)* | 🟢 | 30 min | 15 min *(lighting the pit, on and off)* | **2 days + ~4 hr** *(48 hr in the bath — 131°F is the book's floor for a multi-day chuck bath, his figure for this dish was 129°F, see the entry — then a 4 hr smoke at 225°F; both hands-off)* | ~3½ days *(includes a day on ice between the two)* |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟢 | 20 min | 25 min | — | 45 min |
@@ -1263,9 +1273,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
-*Recipes still in placeholder form (§5.1, §5.3–5.6, §5.8–5.9 — §5.2 closed 2026-09-09 as [Sautéed Asparagus](#52-sautéed-asparagus) and §5.7 the same day as [Brussels Sprouts](#57-brussels-sprouts) — §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.3, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
+*Recipes still in placeholder form (§5.1, §5.3–5.4, §5.6, §5.8–5.9 — §5.2 closed 2026-09-09 as [Sautéed Asparagus](#52-sautéed-asparagus), §5.7 the same day as [Brussels Sprouts](#57-brussels-sprouts), and §5.5 the same day as [Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute) — §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.3, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
-*Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
+*Three seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought), [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning), and [§4.197 Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
 
 *[§14.3 Classic Tuiles](#143-classic-tuiles) and [§15.3 Basic Biscuits](#153-basic-biscuits-cheese-or-bacon-variation) are a different case from the placeholders above — not stubs, but genuinely incomplete transcriptions: each source page cuts off mid-recipe, and the remaining pages haven't been photographed yet. Their Cook and Start-to-finish times are unknown rather than absent, so both are excluded from every count and total in this section until the rest of each recipe arrives. **[§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) used to sit in this note and no longer do** — Cody photographed the missing pages on 2026-09-08, both are complete, and both are back in the table above with real numbers.*
 
@@ -1288,19 +1298,19 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
-### ❤️ Family favorites — 87
+### ❤️ Family favorites — 91
 
-**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.13 Crawfish Elegante](#713-crawfish-elegante) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) · [§7.61 Broiled Fish](#761-broiled-fish) · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) · [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) · [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) · [§7.124 Poulet de France](#7124-poulet-de-france)
+**Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.13 Crawfish Elegante](#713-crawfish-elegante) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) · [§7.61 Broiled Fish](#761-broiled-fish) · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) · [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) · [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) · [§7.124 Poulet de France](#7124-poulet-de-france) · [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp)
 
-**Smoked meats — 7 of the 11 entries in [§6](#6-smoked-meats), including all four of Cody's own:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak) · [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) · [§6.10 Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) · [§6.11 Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey)
+**Smoked meats — 9 of the 13 entries in [§6](#6-smoked-meats), including all six of Cody's own:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak) · [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) · [§6.10 Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) · [§6.11 Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) · [§6.12 Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) · [§6.13 Beer Can Chicken](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken)
 
 **Soups & chili — [§8.1](#81-chili-mac)–[§8.7](#87-italian-sausage--kale-soup) is still a clean sweep, and four more from later in the section join it:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili Mac](#81-chili-mac) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) · [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) · [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) · [§8.47 Frito Pie](#847-frito-pie) *(on leftover chili)*
 
-**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach) · [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)
+**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach) · [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)
 
 **Snacks:** [§9.6 Beef Jerky](#96-beef-jerky) · [§9.7 Chicken Salad](#97-chicken-salad) · [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) · [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) · [§9.27 Reuben](#927-reuben) · [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) · [§9.29 Deer Jerky](#929-deer-jerky) · [§9.33 Easy Deviled Eggs](#933-easy-deviled-eggs)
 
-**Sauces & seasonings:** [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) · [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) · [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) · [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) · [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) · [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) · [§4.23 Remoulade Sauce](#423-remoulade-sauce) · [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) · [§4.87 Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) · [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) · [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) · [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) · [§4.105 Dalmatian Rub](#4105-dalmatian-rub) · [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) · [§4.194 Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) · [§4.195 Cody's Smoked Salt](#4195-codys-smoked-salt)
+**Sauces & seasonings:** [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) · [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) · [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) · [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) · [§4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) · [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) · [§4.23 Remoulade Sauce](#423-remoulade-sauce) · [§4.39 Mustard-Dill Sauce](#439-mustard-dill-sauce) · [§4.87 Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) · [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) · [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) · [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) · [§4.105 Dalmatian Rub](#4105-dalmatian-rub) · [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) · [§4.194 Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) · [§4.195 Cody's Smoked Salt](#4195-codys-smoked-salt) · [§4.197 Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought)
 
 **Breakfast & keto:** [§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) 🥑 · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) 🥑
 
@@ -1337,7 +1347,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Still unrated — and the honest count is bigger than this paragraph used to claim.** The old figure of 58 was computed against a much smaller [§4](#4-rubs-seasonings-sauces--condiments) and has been stale for a while. **Recounted 2026-09-09 straight off the [Table of Contents](#table-of-contents): 425 written-up (✅) entries carry no family mark — 176 of them in §4 alone.** That is not 425 oversights; most of it is expected, for the reasons below:
 
-- **The bulk of §4's sauces, rubs, and seasonings** — components rather than dishes, and it's fair that a mop sauce doesn't get a family verdict on its own. **Fifteen of them do carry one**, though, so the section is not exempt on principle — [§4.8](#48-shrimp-and-crab-butter-cream-sauce), [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought), [§4.105](#4105-dalmatian-rub), [§4.108](#4108-meatheads-memphis-dust) and [§4.195](#4195-codys-smoked-salt) were all rated on 2026-09-09.
+- **The bulk of §4's sauces, rubs, and seasonings** — components rather than dishes, and it's fair that a mop sauce doesn't get a family verdict on its own. **Sixteen of them do carry one**, though, so the section is not exempt on principle — [§4.8](#48-shrimp-and-crab-butter-cream-sauce), [§4.87](#487-cavenders-all-purpose-greek-seasoning-store-bought), [§4.105](#4105-dalmatian-rub), [§4.108](#4108-meatheads-memphis-dust) and [§4.195](#4195-codys-smoked-salt) were all rated on 2026-09-09.
 - **Most of the techniques** — same reasoning; nobody rates a roux.
 - **[§9.30 Muffelatta Poboy](#930-muffelatta-poboy) — new to this list 2026-09-09**, and the likeliest quick win on it. Cody's own card ends *"You've just created pure heaven,"* but no rating was ever selected, so it stays unrated rather than assumed. One word from him closes it.
 - **[§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) is the remaining named gap.** It and [§7.13 Crawfish Elegante](#713-crawfish-elegante) were both flagged here as full dishes off Cody's own recipe cards that got skipped between §7.12 and §7.15 in an earlier rating pass. **§7.13 closed on 2026-09-09 — it is a ❤️.** §7.14 still has no verdict; worth asking next round.
@@ -1362,32 +1372,32 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟡 [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) 🟩(20–30 min†) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | 🟢 [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) 🟩(10 min) |
 | 🟢 [Chili Mac](#81-chili-mac) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) 🟩(10 min) — *[§4.134](#4134-creamy-caesar-dressing) on homemade mayonnaise — one batch keeps 3 days, so eat it as soon as you make the mayo; add §4.134's 15 the night you make it; Grana Padano or Romano* |
 | 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ — *Cody: "prep time takes thirty minutes; baking is waiting" — and 🟢 on his call* | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) |
-| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 Quick Salad with Homemade Dressing *(§5.65 — being written)* |
+| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) 🟩(10 min) — *greens plus any dressing from the [⭐ Staple Sauces](#sauces) row; a template* |
 | 🟢 [Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ 🟩(30 min†) | 🟢 [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) 🟩(11 min) |
 | 🟢 [Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ❤️ 🟩(30 min†) 🥑 | 🟢 [Sautéed Asparagus](#52-sautéed-asparagus) ❤️ 🟩(13 min†) |
-| 🟡 [Sous Vide Chicken Thighs (with a sauce: …)](#7151-sous-vide-chicken-thighs-for-the-family-seared) 🟩(30 min†) — *pick one: [§T8 pan sauce](#t8-pan-sauce-formula) · [Alabama white](#437-white-barbecue-sauce) · [salsa verde](#4146-basic-salsa-verde) or [salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) · [tomatillo avocado](#499-tomatillo-avocado-salsa)* | 🟢 [Mamma's Spinach](#537-mammas-spinach) ❤️ 🟩(13 min†) |
-| 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟢 [Sautéed Kale](#521-sautéed-kale) 🟩(13 min) |
-| 🟢 [Darcy's Steak](#3-darcys-steak) ❤️ 🟩(35 min†) — *the stovetop reverse sear; the sous vide version is [§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)* | 🟢 [Lemon Green Beans](#536-lemon-green-beans) ❤️ 🟩(15 min†) |
-| 🟡 [Sous Vide Smoked Steak](#7131-smoked-sous-vide-steak) 🟩(35–40 min†) ♨︎ — *the smoke is the dish; the sear can be a pan* | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"* |
-| 🟢 [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ 🟩(40 min†) — *Cody: "just chopping — simmering the soup should not count"* | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
-| 🟢 [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ ♨︎ — *Cody: "at least forty, more if you make Carolina slaw"* | 🟢 [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ 🟩(15 min) |
-| 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) | 🟢 Salted Sautéed Zucchini (noodle substitute) *(§5.5 — being written)* ❤️ |
-| 🟡 [Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ❤️ 🟨(45 min) | 🟢 [Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)](#538-roasted-veggies) 👍 🟩(15 min) — *asparagus-only: [§5.15 Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min)* |
-| 🟡 [Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ❤️ 🟨(45 min†) ♨︎ | 🟢 [Grilled (or Oven) Cauliflower](#542-grilled-cauliflower) 👍 🟩(15–20 min†) |
-| 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) | 🟢 [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 🟩(15 min) |
-| 🟡 Gluten-Free Fried Shrimp *(§7.152 — being written)* ❤️ | 🟢 [Grilled Asparagus](#541-grilled-asparagus) 🟩(15 min†) ♨︎ |
-| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) 🟩(15 min†) — *the overnight soak is lead time, not work* |
+| 🟡 [Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) ❤️ 🟩(30 min) — *the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak stays on as the wash; almond flour, avocado oil, lemons* | 🟢 [Mamma's Spinach](#537-mammas-spinach) ❤️ 🟩(13 min†) |
+| 🟡 [Sous Vide Chicken Thighs (with a sauce: …)](#7151-sous-vide-chicken-thighs-for-the-family-seared) 🟩(30 min†) — *pick one: [§T8 pan sauce](#t8-pan-sauce-formula) · [Alabama white](#437-white-barbecue-sauce) · [salsa verde](#4146-basic-salsa-verde) or [salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) · [tomatillo avocado](#499-tomatillo-avocado-salsa)* | 🟢 [Sautéed Kale](#521-sautéed-kale) 🟩(13 min) |
+| 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟢 [Lemon Green Beans](#536-lemon-green-beans) ❤️ 🟩(15 min†) |
+| 🟢 [Darcy's Steak](#3-darcys-steak) ❤️ 🟩(35 min†) — *the stovetop reverse sear; the sous vide version is [§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)* | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"* |
+| 🟡 [Sous Vide Smoked Steak](#7131-smoked-sous-vide-steak) 🟩(35–40 min†) ♨︎ — *the smoke is the dish; the sear can be a pan* | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
+| 🟢 [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ 🟩(40 min†) — *Cody: "just chopping — simmering the soup should not count"* | 🟢 [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ 🟩(15 min) |
+| 🟢 [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ ♨︎ — *Cody: "at least forty, more if you make Carolina slaw"* | 🟢 [Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)](#538-roasted-veggies) 👍 🟩(15 min) — *asparagus-only: [§5.15 Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min)* |
+| 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) | 🟢 [Grilled (or Oven) Cauliflower](#542-grilled-cauliflower) 👍 🟩(15–20 min†) |
+| 🟡 [Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ❤️ 🟨(45 min) | 🟢 [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 🟩(15 min) |
+| 🟡 [Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ❤️ 🟨(45 min†) ♨︎ | 🟢 [Grilled Asparagus](#541-grilled-asparagus) 🟩(15 min†) ♨︎ |
+| 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) | 🟢 [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) 🟩(15 min†) — *the overnight soak is lead time, not work* |
+| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ❤️ 🟩(20 min) — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation* |
 | 🟢 [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ 🟨(50 min†) ♨︎ — *for the 4 hr smoke, not the browning* | 🟢 [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🟩(20 min) 🥑 |
 | 🟡 [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🟨(50 min†) 🍽️ ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ 🟩(25 min) |
 | 🟢 [Last-Meal Ribs](#797-last-meal-ribs) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ — *Cody's "pork ribs" staple, read as his one ❤️ rib recipe* | 🟢 [Quick Pickles](#4177-quick-pickles) 🟩(25 min) |
 | 🟢 [Smoked Brisket](#61-smoked-brisket) ❤️ 🟨(60–90 min†) ♨︎ — *Cody: "trim the fat, get the pit ready, dry brine the night before — an hour, maybe an hour and a half"; the leftover/sliced idea is in the [🍱 Leftovers](#meal-planning-sheet) group* | 🟢 [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🟩(30 min†) 🥑 |
-| 🟢 Sous Vide Chuck Roast, Smoker-Finished *(§6.12 — being written)* ❤️ | 🟢 [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🟩(35 min) 🥑 |
-| 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟨(60 min) 🍽️ | *No-cook staples:* |
-| 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) | Cottage cheese |
-| 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) | Sliced tomatoes, salted *(summer)* |
-| 🟡 [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ 🟨(70 min†) ♨︎ | Avocado, halved and salted |
-| 🟡 [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 🟨(70 min, incl. 30 grill) ♨︎ | Honeycrisp apples |
-| 🟢 Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken) *(§6.13 — being written)* ❤️ | Blackberries |
+| 🟢 [Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) ❤️ 🟨(60 min†) ♨︎ — *Cody: "really, really easy, probably takes an hour"; the 4 hr smoke is the ♨︎; batch two or three for [§1](#1-codys-pho)* | 🟢 [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🟩(35 min) 🥑 |
+| 🟢 [Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ — *no beer can — an upright stand; [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s method on a chicken; 30 hands-on plus the pit* | *No-cook staples:* |
+| 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟨(60 min) 🍽️ | Cottage cheese |
+| 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) | Sliced tomatoes, salted *(summer)* |
+| 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) | Avocado, halved and salted |
+| 🟡 [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ 🟨(70 min†) ♨︎ | Honeycrisp apples |
+| 🟡 [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 🟨(70 min, incl. 30 grill) ♨︎ | Blackberries |
 | 🟢 [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ 🟨(75 min†) ♨︎ — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's* | Strawberries |
 | 🟢 [Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ — *Tony's butter injection and Tony's Original rub the night before, then upright on a cavity stand through the fridge and the smoke; 45 hands-on plus the pit* | Raspberries |
 | 🟢 [Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ | **🥕 Vegetables** |
@@ -1404,13 +1414,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟡 [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ 🟨(45 min†) ♨︎ | 🟢 [Grilled Asparagus](#541-grilled-asparagus) 🟩(15 min†) ♨︎ |
 | 🟢 [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ 🟨(50 min†) ♨︎ — *for the 4 hr smoke, not the browning* | 🟢 [Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min) |
 | 🟡 [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🟨(50 min†) 🍽️ ♨︎ | 🟢 ["Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) 🟩(15 min) |
-| 🟢 [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🟨(50–55 min†) 🍽️ ♨︎ — *Cody: "definitely, like the steakhouse burgers"* | 🟢 [Grilled Corn](#514-grilled-corn) 👍 🟩(20 min) ♨︎ |
-| 🟢 [Beef Back Ribs](#7130-beef-back-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Sweet Potato Casserole](#511-sweet-potato-casserole) 👍 🟩(20 min) |
-| 🟢 [Short Ribs, Texas Style](#7110-short-ribs-texas-style) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🟩(20 min) 🥑 |
-| 🟡 [Skinny Steaks](#7107-skinny-steaks) 🟨(50 min†) ♨︎ — *Cody's figure, and it supersedes the 10-min badge plus overhead* | 🟢 [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) 🟩(20 min) |
-| 🟡 [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) 🟨(50 min†) ♨︎ | 🟢 [Brussels Sprouts](#57-brussels-sprouts) ❤️ 🟩(22 min) — *bacon grease, tallow, or butter — three variations; ~27 if you crisp fresh bacon first* |
-| 🟢 [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟡 [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) 🟩(25 min) |
-| 🟡 [Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) 🟨(55 min) | 🟢 [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) 🟩(25 min) ♨︎ |
+| 🟢 [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🟨(50–55 min†) 🍽️ ♨︎ — *Cody: "definitely, like the steakhouse burgers"* | 🟢 [Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ❤️ 🟩(20 min) — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation* |
+| 🟢 [Beef Back Ribs](#7130-beef-back-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Grilled Corn](#514-grilled-corn) 👍 🟩(20 min) ♨︎ |
+| 🟢 [Short Ribs, Texas Style](#7110-short-ribs-texas-style) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Sweet Potato Casserole](#511-sweet-potato-casserole) 👍 🟩(20 min) |
+| 🟡 [Skinny Steaks](#7107-skinny-steaks) 🟨(50 min†) ♨︎ — *Cody's figure, and it supersedes the 10-min badge plus overhead* | 🟢 [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🟩(20 min) 🥑 |
+| 🟡 [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) 🟨(50 min†) ♨︎ | 🟢 [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) 🟩(20 min) |
+| 🟢 [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Brussels Sprouts](#57-brussels-sprouts) ❤️ 🟩(22 min) — *bacon grease, tallow, or butter — three variations; ~27 if you crisp fresh bacon first* |
+| 🟡 [Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) 🟨(55 min) | 🟡 [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) 🟩(25 min) |
+| 🟢 [Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) ❤️ 🟨(60 min†) ♨︎ — *Cody: "really, really easy, probably takes an hour"; the 4 hr smoke is the ♨︎; batch two or three for [§1](#1-codys-pho)* | 🟢 [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) 🟩(25 min) ♨︎ |
 | 🟢 [Smoked Brisket](#61-smoked-brisket) ❤️ 🟨(60–90 min†) ♨︎ — *Cody: "trim the fat, get the pit ready, dry brine the night before — an hour, maybe an hour and a half"; the leftover/sliced idea is in the [🍱 Leftovers](#meal-planning-sheet) group* | 🟢 [Sous Vide Fennel Fondant](#539-fennel-fondant) 🟩(25 min) |
 | 🟡 [Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) 🟨(60 min, incl. 30 grill) ♨︎ | 🟢 [Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) 🟩(25 min) |
 | 🟡 [Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) 🟨(60 min†) 🍽️ — *Cody: "throw an hour on that"* | 🟢 [Pickled Okra](#526-pickled-okra) 🟩(25 min) |
@@ -1442,57 +1453,59 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [North Carolina Coleslaw](#513-north-carolina-coleslaw) 👍 🟩(10 min) |
 | 🟡 [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) 🟩(10 min) |
 | 🟡 [Boudin Blanc](#751-boudin-blanc-boudin) 🟨(75 min) | 🟢 [Cole Slaw](#535-cole-slaw) 🟩(10 min) |
-| 🟢 [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) 🟩(10 min) — *[§4.134](#4134-creamy-caesar-dressing) on homemade mayonnaise — one batch keeps 3 days, so eat it as soon as you make the mayo; add §4.134's 15 the night you make it; Grana Padano or Romano* |
-| 🟡 [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"* |
-| 🟢 [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
-| 🟢 [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) 🟩(15 min) |
-| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ — *the pork sears in cast iron; the fire is for the vegetables and naan* | 🟢 [Bright Cabbage Slaw](#553-bright-cabbage-slaw) 🟩(15 min) |
-| 🟢 [Championship Pork Ribs](#7136-championship-pork-ribs) 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) 🟩(20 min) |
-| 🟢 [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) 🟩(20 min) |
-| 🟡 [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ 🟩(25 min) |
-| 🟡 [60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) 🟥(120 min, incl. 30 grill) ♨︎ | 🟢 [Grilled Romaine Salad](#545-grilled-romaine-salad) 🟩(25 min) ♨︎ |
-| **🐑 Veal** | **🍞 Breads & Biscuits** |
-| 🟢 [Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) 🟩(40 min) | 🟢 [Keto Skillet Cornbread](#113-keto-skillet-cornbread) 👍 🟩(10 min) 🥑 |
-| 🟡 ["Brunette" de Veau](#749-brunette-de-veau) 🟨(45 min) | 🟡 [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) 🟩(10 min) ♨︎ |
-| **🍢 Kebabs & Skewers** | 🟢 [Simple Grilled Crostini](#540-simple-grilled-crostini) 🟩(15 min) ♨︎ |
-| **Raichlen's world beef kebabs:** 🟢 [Bengali Shish](#769-bengali-shish-kebabs) 🟨(75 min, incl. 30 grill) · 🟢 [Russian Shashlik](#770-russian-shashlik) 🟨(75 min, incl. 30 grill) · 🟢 [Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) 🟨(70 min, incl. 30 grill) · 🟢 [Quick Persian](#772-quick-persian-beef-kebabs) 🟨(65 min, incl. 30 grill) · 🟢 [Bani Marine Street](#773-bani-marine-street-beef-kebabs) 🟨(70 min, incl. 30 grill) · 🟢 [Madeira & Bay Leaf (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) 🟨(70 min, incl. 30 grill) ♨︎ — *each version incl. 30 grill* | 🟢 [Irish Soda Bread](#106-irish-soda-bread) 🟩(15 min) |
-| 🟢 [Kufte Kebabs](#7123-kufte-kebabs) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Fancy Biscuits](#155-fancy-biscuits) 🟩(20 min) |
-| 🟢 [Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) 🟨(75 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Pastry Biscuits](#156-pastry-biscuits) 🟩(20 min) |
-| **🥪 Sandwiches & Handhelds** *(every one of these is 🍽️)* | 🟢 [Butter Dips](#152-butter-dips) 🟩(20 min) |
-| 🟢 [Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) 🟩(8 min) 🍽️ | 🟢 [Angel Biscuits](#154-angel-biscuits) 🟩(20 min) |
-| 🟢 [The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) 🟩(11 min) 🍽️ | 🟢 [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) 🟩(20 min) |
-| 🟢 [Muffelatta Poboy](#930-muffelatta-poboy) 🟩(15 min) 🍽️ | 🟢 [Keto Zucchini Bread](#116-keto-zucchini-bread) 🟩(20 min) 🥑 |
-| 🟢 [Reuben](#927-reuben) ❤️ 🟩(18 min) 🍽️ | 🟡 [Plain French Bread](#151-plain-french-bread-pain-français) 🟨(50 min) |
-| 🟢 [Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) 🟩(20 min) 🍽️ | **🧊 No-Cook Sides** |
-| 🟢 [Chicken Salad Sandwiches](#97-chicken-salad) ❤️ 🟩(25 min) 🍽️ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) |
-| 🟢 [Pastrami on Rye (Close to Katz's)](#7113-close-to-katzs-pastrami) 🟨(65 min, incl. 30 grill) 🍽️ ♨︎ | Cottage cheese — *no entry* |
-| **🍲 Broths, Stocks & Tonics** — *drink them, or build the soups on them* | Sliced tomatoes, salted — *no entry* |
-| 🟢 [Chicken Stock](#840-chicken-stock) 🟩(15 min†) — *Cody: "you're just simmering it"* | Avocado, halved and salted — *no entry* |
-| 🟢 [Restorative Beef Broth](#814-restorative-beef-broth) 🟩(15 min†) — *Cody: "you're just simmering it"* | Honeycrisp apples — *no entry* |
-| 🟢 [Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) 🟩(15 min) | Blackberries — *no entry* |
-| 🟢 [Smoked Bone Broth](#7104-smoked-bone-broth) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | Strawberries — *no entry; Cody: "with my barbecue"* |
-|   | Raspberries — *no entry; Cody: "not as much"* |
+| 🟢 [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) 🟩(10 min) — *greens plus any dressing from the [⭐ Staple Sauces](#sauces) row; a template* |
+| 🟡 [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) 🟩(10 min) — *[§4.134](#4134-creamy-caesar-dressing) on homemade mayonnaise — one batch keeps 3 days, so eat it as soon as you make the mayo; add §4.134's 15 the night you make it; Grana Padano or Romano* |
+| 🟢 [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"* |
+| 🟢 [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
+| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ — *the pork sears in cast iron; the fire is for the vegetables and naan* | 🟢 [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) 🟩(15 min) |
+| 🟢 [Championship Pork Ribs](#7136-championship-pork-ribs) 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Bright Cabbage Slaw](#553-bright-cabbage-slaw) 🟩(15 min) |
+| 🟢 [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) 🟩(20 min) |
+| 🟡 [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) 🟩(20 min) |
+| 🟡 [60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) 🟥(120 min, incl. 30 grill) ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ 🟩(25 min) |
+| **🐑 Veal** | 🟢 [Grilled Romaine Salad](#545-grilled-romaine-salad) 🟩(25 min) ♨︎ |
+| 🟢 [Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) 🟩(40 min) | **🍞 Breads & Biscuits** |
+| 🟡 ["Brunette" de Veau](#749-brunette-de-veau) 🟨(45 min) | 🟢 [Keto Skillet Cornbread](#113-keto-skillet-cornbread) 👍 🟩(10 min) 🥑 |
+| **🍢 Kebabs & Skewers** | 🟡 [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) 🟩(10 min) ♨︎ |
+| **Raichlen's world beef kebabs:** 🟢 [Bengali Shish](#769-bengali-shish-kebabs) 🟨(75 min, incl. 30 grill) · 🟢 [Russian Shashlik](#770-russian-shashlik) 🟨(75 min, incl. 30 grill) · 🟢 [Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) 🟨(70 min, incl. 30 grill) · 🟢 [Quick Persian](#772-quick-persian-beef-kebabs) 🟨(65 min, incl. 30 grill) · 🟢 [Bani Marine Street](#773-bani-marine-street-beef-kebabs) 🟨(70 min, incl. 30 grill) · 🟢 [Madeira & Bay Leaf (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) 🟨(70 min, incl. 30 grill) ♨︎ — *each version incl. 30 grill* | 🟢 [Simple Grilled Crostini](#540-simple-grilled-crostini) 🟩(15 min) ♨︎ |
+| 🟢 [Kufte Kebabs](#7123-kufte-kebabs) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Irish Soda Bread](#106-irish-soda-bread) 🟩(15 min) |
+| 🟢 [Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) 🟨(75 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Fancy Biscuits](#155-fancy-biscuits) 🟩(20 min) |
+| **🥪 Sandwiches & Handhelds** *(every one of these is 🍽️)* | 🟢 [Pastry Biscuits](#156-pastry-biscuits) 🟩(20 min) |
+| 🟢 [Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) 🟩(8 min) 🍽️ | 🟢 [Butter Dips](#152-butter-dips) 🟩(20 min) |
+| 🟢 [The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) 🟩(11 min) 🍽️ | 🟢 [Angel Biscuits](#154-angel-biscuits) 🟩(20 min) |
+| 🟢 [Muffelatta Poboy](#930-muffelatta-poboy) 🟩(15 min) 🍽️ | 🟢 [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) 🟩(20 min) |
+| 🟢 [Reuben](#927-reuben) ❤️ 🟩(18 min) 🍽️ | 🟢 [Keto Zucchini Bread](#116-keto-zucchini-bread) 🟩(20 min) 🥑 |
+| 🟢 [Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) 🟩(20 min) 🍽️ | 🟡 [Plain French Bread](#151-plain-french-bread-pain-français) 🟨(50 min) |
+| 🟢 [Chicken Salad Sandwiches](#97-chicken-salad) ❤️ 🟩(25 min) 🍽️ | **🧊 No-Cook Sides** |
+| 🟢 [Pastrami on Rye (Close to Katz's)](#7113-close-to-katzs-pastrami) 🟨(65 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) |
+| **🍲 Broths, Stocks & Tonics** — *drink them, or build the soups on them* | Cottage cheese — *no entry* |
+| 🟢 [Chicken Stock](#840-chicken-stock) 🟩(15 min†) — *Cody: "you're just simmering it"* | Sliced tomatoes, salted — *no entry* |
+| 🟢 [Restorative Beef Broth](#814-restorative-beef-broth) 🟩(15 min†) — *Cody: "you're just simmering it"* | Avocado, halved and salted — *no entry* |
+| 🟢 [Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) 🟩(15 min) | Honeycrisp apples — *no entry* |
+| 🟢 [Smoked Bone Broth](#7104-smoked-bone-broth) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | Blackberries — *no entry* |
+|    | Strawberries — *no entry; Cody: "with my barbecue"* |
+|    | Raspberries — *no entry; Cody: "not as much"* |
 | **Mains (cont.)** | **Mains (cont.)** |
 | **🐔 Chicken & Poultry** | **🐟 Seafood & Fish** |
 | 🟡 [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) 🟩(20–30 min†) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | 🟢 [Sautéed Crawfish](#725-sautéed-crawfish) 🟩(25 min) |
 | 🟢 [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) 🟩(20 min) | 🟡 [Broiled Fish, Your Choice of Sauce](#761-broiled-fish) ❤️ 🟩(30 min) — *pick one from [Fish & seafood sauces](#sauces)* |
 | 🟡 [Sous Vide Chicken Thighs for the Family](#7151-sous-vide-chicken-thighs-for-the-family-seared) 🟩(30 min†) — *§7.151, the recipe version of the line above — 12 thighs, feeds six, **pan seared, not grilled*** | 🟡 [Captain Mike's Ceviche](#722-captain-mikes-ceviche) ❤️ 🟩(30 min) |
-| 🟡 [Sous Vide BBQ Fried Chicken](#780-bbq-fried-chicken) 🟩(30 min) | 🟡 [Beer-Battered Fish](#7125-beer-battered-fish) 🟩(30 min) |
-| 🟡 [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) 🟩(30 min) | **Crawfish Pie:** 🟡 [I](#765-crawfish-pie-i) 🟥(80 min) · 🟢 [II](#766-crawfish-pie-ii) 🟩(30 min) |
-| 🟢 [Poulet de France](#7124-poulet-de-france) ❤️ 🟩(35 min) 🍽️ | 🟡 [Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) 🟩(35 min) |
-| 🟡 [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) 🟩(35 min) | 🟡 [Sous Vide Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) 🟩(35 min, incl. 10 sear) 🍽️ |
-| 🟢 [Chicken Marbella](#752-chicken-marbella) 🟩(35 min) | 🟡 [Fish with Pecan Butter and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) 🟩(35 min) |
-| 🟡 [Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) 🟩(40 min) | 🟡 [Sous Vide Octopus Carpaccio](#786-carpaccio-of-sous-vide-octopus) 🟩(35 min) |
-| 🟢 [Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) 🟩(40 min) | 🟡 [Shrimp Roast](#747-shrimp-roast) 🟩(40 min) |
-| 🟡 [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) 🟩(40 min) | 🟢 [Sous Vide Scallops with Quick Pickled Vegetables & Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) 🟩(40 min, incl. 10 sear) |
-| 🟡 [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) 🟨(45 min) | 🟢 [Sausage & Clam Stew](#745-sausage--clam-stew) 🟩(40 min) |
-| 🟡 [Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) 🟨(45 min) 🍽️ | 🟢 [Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) 🟩(40 min) 🍽️ |
-| 🟡 [The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) 🟨(45 min†) ♨︎ | 🟡 [Catfish Étouffée](#762-catfish-étouffée) 🟩(40 min) 🍽️ |
-| 🟡 [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 🟨(50 min†) ♨︎ | 🟡 [Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ❤️ 🟨(45 min†) ♨︎ |
-| 🟡 [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🟨(50 min) 🥑 | 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) |
-| 🟢 [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ 🟨(55 min†) ♨︎ | 🟢 [Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) 🟨(45 min, incl. 30 grill) ♨︎ |
-| 🟡 [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) 🟨(55 min) | 🟢 [Butter-Poached Fillets](#792-butter-poached-fillets) 🟨(45 min, incl. 30 grill) ♨︎ |
-| 🟢 [Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) 🟨(55 min, incl. 30 grill) ♨︎ | 🟢 [Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) 🟨(50 min, incl. 30 grill) ♨︎ |
+| 🟡 [Sous Vide BBQ Fried Chicken](#780-bbq-fried-chicken) 🟩(30 min) | 🟡 [Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) ❤️ 🟩(30 min) — *the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak stays on as the wash; almond flour, avocado oil, lemons* |
+| 🟡 [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) 🟩(30 min) | 🟡 [Beer-Battered Fish](#7125-beer-battered-fish) 🟩(30 min) |
+| 🟢 [Poulet de France](#7124-poulet-de-france) ❤️ 🟩(35 min) 🍽️ | **Crawfish Pie:** 🟡 [I](#765-crawfish-pie-i) 🟥(80 min) · 🟢 [II](#766-crawfish-pie-ii) 🟩(30 min) |
+| 🟡 [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) 🟩(35 min) | 🟡 [Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) 🟩(35 min) |
+| 🟢 [Chicken Marbella](#752-chicken-marbella) 🟩(35 min) | 🟡 [Sous Vide Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) 🟩(35 min, incl. 10 sear) 🍽️ |
+| 🟡 [Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) 🟩(40 min) | 🟡 [Fish with Pecan Butter and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) 🟩(35 min) |
+| 🟢 [Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) 🟩(40 min) | 🟡 [Sous Vide Octopus Carpaccio](#786-carpaccio-of-sous-vide-octopus) 🟩(35 min) |
+| 🟡 [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) 🟩(40 min) | 🟡 [Shrimp Roast](#747-shrimp-roast) 🟩(40 min) |
+| 🟡 [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) 🟨(45 min) | 🟢 [Sous Vide Scallops with Quick Pickled Vegetables & Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) 🟩(40 min, incl. 10 sear) |
+| 🟡 [Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) 🟨(45 min) 🍽️ | 🟢 [Sausage & Clam Stew](#745-sausage--clam-stew) 🟩(40 min) |
+| 🟡 [The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) 🟨(45 min†) ♨︎ | 🟢 [Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) 🟩(40 min) 🍽️ |
+| 🟡 [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 🟨(50 min†) ♨︎ | 🟡 [Catfish Étouffée](#762-catfish-étouffée) 🟩(40 min) 🍽️ |
+| 🟡 [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🟨(50 min) 🥑 | 🟡 [Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ❤️ 🟨(45 min†) ♨︎ |
+| 🟢 [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ 🟨(55 min†) ♨︎ | 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) |
+| 🟡 [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) 🟨(55 min) | 🟢 [Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) 🟨(45 min, incl. 30 grill) ♨︎ |
+| 🟢 [Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) 🟨(55 min, incl. 30 grill) ♨︎ | 🟢 [Butter-Poached Fillets](#792-butter-poached-fillets) 🟨(45 min, incl. 30 grill) ♨︎ |
+| 🟢 [Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ — *no beer can — an upright stand; [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s method on a chicken; 30 hands-on plus the pit* | 🟢 [Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) 🟨(50 min, incl. 30 grill) ♨︎ |
 | 🟢 [Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) 🟨(60 min, incl. 30 grill) ♨︎ | 🟢 [Smoked Halibut Salad](#791-smoked-halibut-salad) 🟨(50 min, incl. 30 grill) ♨︎ |
 | 🟡 [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ 🟨(70 min†) ♨︎ | 🔴 [Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) 🟨(50 min) |
 | 🟢 [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) 🟨(50 min) |
@@ -1539,9 +1552,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 Leftover Chili → [Chili Mac](#81-chili-mac) ❤️ 🟩(15 min) 🍽️ — *with the chili already made, it is just the noodles; the fresh build is on the Soups line. Frito Pie ❤️, the line above, is the second use* | 🔴 [Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ❤️ 🟥(90 min) |
 | 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ — *Cody: "that is always from the leftover pork… chopping the cilantro, onions, and lime — a twenty minute meal"* | 🔴 [Verna's Galimatias](#846-vernas-galimatias) 🟥(90 min) |
 | 🟢 [Leftover Sliced Brisket, reheated sous vide](#61-smoked-brisket) ❤️ 🟩(20 min) — *from [§6.1](#61-smoked-brisket) or [§6.10](#610-sous-vide-brisket-richies-method); Cody: "brisket you have to reheat in the sous vide, so it may take a little longer" — the bath is the wait, the 20 is bagging and slicing (cookbook estimate; see [§T46](#t46-freezing-and-reheating-leftovers))* | **Crawfish Bisque:** 🟡 [Bisque d'Écrevisses](#819-crawfish-bisque-bisque-décrevisses) 🟥(240 min) · 🔴 [I](#841-crawfish-bisque-i) 🟥(180 min) · 🟡 [II](#843-crawfish-bisque-ii) 🟥(125 min) |
-| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ — *retitled from "Pho with Leftover Brisket" on Cody's note: "sometimes when I sous vide a beef I'll do two or three chuck roasts and reuse it when I make pho" — see [§1](#1-codys-pho); ♨︎ off on his leftovers rule* |   |
-| 🟢 [Leftover Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ — *Cody's 40 is with Carolina slaw made fresh; reheating alone is ~10* |   |
-| *Storage and reheating: [§T61 Leftover Pulled Pork](#t61-leftover-pulled-pork--storage-and-reheating) and [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)* |   |
+| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ — *retitled from "Pho with Leftover Brisket" on Cody's note: "sometimes when I sous vide a beef I'll do two or three chuck roasts and reuse it when I make pho" — see [§1](#1-codys-pho); ♨︎ off on his leftovers rule* |    |
+| 🟢 [Leftover Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ — *Cody's 40 is with Carolina slaw made fresh; reheating alone is ~10* |    |
+| *Storage and reheating: [§T61 Leftover Pulled Pork](#t61-leftover-pulled-pork--storage-and-reheating) and [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)* |    |
 
 ### Appetizers & Dips
 
@@ -1565,12 +1578,12 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 | Goes on | Reach for |
 |---|---|
-| **⭐ Staple Rubs** — *when a recipe says "your favorite rub," reach for one of these* | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · Lawry's Seasoned Salt *(§4.197 — being written)* ❤️ · 🟢 [Dalmatian Rub](#4105-dalmatian-rub) ❤️ 🟩(2 min) · 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ 🟩(10 min) · 🟢 [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ 🟩(15 min) |
+| **⭐ Staple Rubs** — *when a recipe says "your favorite rub," reach for one of these* | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) ❤️ · 🟢 [Dalmatian Rub](#4105-dalmatian-rub) ❤️ 🟩(2 min) · 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ 🟩(10 min) · 🟢 [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ 🟩(15 min) |
 | **Beef** | 🟢 [Dalmatian Rub](#4105-dalmatian-rub) ❤️ 🟩(2 min) · 🟢 [Red Meat Rub](#4165-red-meat-rub) 🟩(5 min) · 🟢 [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ 🟩(10 min) · 🟢 [Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) 🟩(10 min) · 🟢 [Butcher Block Seasoning](#4116-butcher-block-seasoning) 🟩(10 min) · 🟢 [Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) 🟩(10 min) · 🟡 [Texas Chili Rub](#432-texas-chili-rub) 🟩(15 min) |
 | **Pork** | 🟢 [Basic Barbecue Rub](#426-basic-barbecue-rub) 🟩(5 min) · 🟢 [Cool Smoke Rub](#4169-cool-smoke-rub) 🟩(10 min) · 🟢 [Pork Brine Injection](#4103-pork-brine-injection) 🟩(10 min) · 🟢 [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ 🟩(15 min) |
 | **Chicken & poultry** | 🟢 [Cajun Rub](#427-cajun-rub) 🟩(5 min) · 🟢 [Java Rub](#429-java-rub) 🟩(5 min) · 🟢 [Mediterranean Herb Rub](#431-mediterranean-herb-rub) 🟩(5 min) · 🟢 [Cool Smoke Injection](#4171-cool-smoke-injection) 🟩(5 min) · 🟢 [Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) 🟩(10 min) · 🟢 [Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) 🟩(10 min) · 🟢 [Cajun Seasoning](#4112-cajun-seasoning) 🟩(15 min) |
 | **Seafood** | 🟢 [Marietta's Fish Rub](#4111-mariettas-fish-rub) 🟩(5 min) · 🟢 [Basic Fish Cure](#425-basic-fish-cure) 🟩(5 min) · 🟢 [Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) 🟩(15 min) ♨︎ |
-| **Anything** | 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Cody's Smoked Salt](#4195-codys-smoked-salt) ❤️ 🟩(5 min) ♨︎ · 🟢 [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) 🟩(5 min) · 🟢 [Dolly's Lamb Rub](#4110-dollys-lamb-rub) 🟩(10 min) *(lamb)* · 🟢 [French Rub](#4166-french-rub) 🟩(15 min) · 🟢 [Chinese Five-Spice Rub](#428-chinese-five-spice-rub) 🟩(15 min) · 🟡 [Sesame Seasoning](#433-sesame-seasoning) 🟩(15 min) · 🟢 [Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) 🟩(15 min) ♨︎ · 🟢 [Basic Brinerade](#4101-basic-brinerade) 🟩(15 min) · 🟢 [The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) 🟩(20 min) · [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ |
+| **Anything** | 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Cody's Smoked Salt](#4195-codys-smoked-salt) ❤️ 🟩(5 min) ♨︎ · 🟢 [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) 🟩(5 min) · 🟢 [Dolly's Lamb Rub](#4110-dollys-lamb-rub) 🟩(10 min) *(lamb)* · 🟢 [French Rub](#4166-french-rub) 🟩(15 min) · 🟢 [Chinese Five-Spice Rub](#428-chinese-five-spice-rub) 🟩(15 min) · 🟡 [Sesame Seasoning](#433-sesame-seasoning) 🟩(15 min) · 🟢 [Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) 🟩(15 min) ♨︎ · 🟢 [Basic Brinerade](#4101-basic-brinerade) 🟩(15 min) · 🟢 [The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) 🟩(20 min) · [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) ❤️ |
 
 ### Sauces
 
@@ -14481,6 +14494,26 @@ Off the heat, cover it, and let it cool completely on the counter; then refriger
 
 ---
 
+### 4.197 Lawry's Seasoned Salt (Store-Bought)
+
+**A product, not a blend — reference entry, same as [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning).** Nothing here gets mixed from scratch, so there is no ingredient list, no badge, and no Nutrition block; like those two it stays out of the [Difficulty & Time Index](#difficulty--time-index) counts and carries no circle or time square on the [Meal Planning Sheet](#meal-planning-sheet).
+
+**❤️ Family favorite** — *Cody, 2026-09-09 (final), adding it to his ⭐ Staple Rubs: "we love that, I haven't told you yet."*
+
+**What it is:** the red-capped seasoned salt in every spice aisle, from the Lawry's brand — **salt first**, then sugar, and a spice blend led by paprika, turmeric, onion and garlic. It reads as a slightly sweet, faintly golden salt rather than as a spice mix, which is exactly why it goes on almost anything. **Season with it as though it were salt, because it is** — the same caution as Cavender's and Vegeta: taste before adding any separate salt, and on a dry-brined cut treat it as the brine, not as a rub on top of one ([§6.1](#61-smoked-brisket)'s salt-it-once rule; [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)).
+
+**Where it already turns up in this book:** [§T65 Steaks — Grades, Cuts, and Matching Temperature to Thickness](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) records Meathead's line that some prime steakhouses season with *a secret mix of herbs and spices — Lawry's Seasoned Salt is the most famous* — and then argues for salt and pepper alone. Cody's standing on the question is the ❤️ above.
+
+**Two practical notes, cookbook's, labeled:** it contains **sugar**, so on a long hot cook it darkens a shade faster than plain salt — not a problem at 225°F, worth knowing over a roaring sear. And it is a **dry powder with no fresh garlic in it**, so it is fine inside a sous vide bag under this cookbook's anaerobic-bag rule ([§1](#1-codys-pho); [CLAUDE.md §6](CLAUDE.md)) — the rule bars *fresh* garlic and liquid, not garlic powder.
+
+**What Cody puts it on isn't recorded** — he named it as a staple rub without a dish. On the sheet it sits in the **Anything** row beside Cavender's and Vegeta until he says where it lives.
+
+**Where to buy:** 🛒 general grocery, spice aisle — everywhere.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 # T. Cooking Techniques & Tips
 
 <!-- SECTION-PURPOSE: conversation-mode technique lookup. Each entry below carries a TECHNIQUE-TAGS comment. When cooking a recipe live, match the recipe's "Techniques used" line (or any step that names a skill) to a tag here and teach from that entry instead of re-reading the whole cookbook. -->
@@ -15007,7 +15040,7 @@ A glossary for the Cajun and Creole recipes in this cookbook. *Retaken photos of
 | **Jambalaya** (djum-buh-*LIE*-ya) | A heavily seasoned, strongly flavored rice dish taking any combination of beef, pork, fowl, smoked sausage, ham or tasso, or seafood — often with tomatoes. The name is a collision of French *jambon* (ham), African *ya* (rice), and the Acadian habit of putting "à la" on everything. See [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) and [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya). |
 | **Lagniappe** | A little something extra, given as a gift or a show of appreciation. |
 | **Mirliton** | A green pear-shaped vegetable off a West Indian vine in the cucumber family. Sold as **chayote** in Latin groceries, sometimes as vegetable pear or christophine. The seed is edible and good in a salad. |
-| **Pirogue** | A flat-bottomed dugout canoe from bayou country, just wide enough to kneel in. Also the name for hollowed-out vegetables — mirliton, zucchini, eggplant — filled with stuffing and sauce. *Worth remembering for [§5.5 Zucchini](#55-zucchini).* |
+| **Pirogue** | A flat-bottomed dugout canoe from bayou country, just wide enough to kneel in. Also the name for hollowed-out vegetables — mirliton, zucchini, eggplant — filled with stuffing and sauce. *Worth remembering for [§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute) — or, more to the point, for [§7.24 Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce).* |
 | **Praline** | A Southern candy patty of brown sugar and nuts (usually pecans) or seeds, sometimes with butter and/or cream. |
 | **Tasso** | A very highly seasoned Cajun smoked ham. Called for in [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) and [§7.16 Red Beans & Rice](#716-red-beans--rice). |
 
@@ -15715,7 +15748,7 @@ Using the same whisk, start whisking like your life depends on it. Then, just li
 <!-- TECHNIQUE-TAGS: shrimp, fish, seafood, egg-soak, deodorizing, fishy-smell, trimethylamine, salmon, catfish, crawfish -->
 **Tags:** `shrimp` · `fish` · `seafood` · `egg-soak` · `deodorizing` · `fishy-smell` · `salmon` · `catfish` · `crawfish`
 **Source:** Cody's own standing practice — not from any cookbook here
-**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) *(built into its Step 1, at Cody's request)* · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) *(Step 0, the shrimp — added 2026-09-09)* · any fish or shellfish that smells fishy out of the bag — which, per Cody's rule below, is practically everything bought in Missouri
+**Used in:** [§7.2 Boiled Shrimp with Tony's](#72-boiled-shrimp-with-tonys) · [§7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) · [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) *(built into its Step 1, at Cody's request)* · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) *(Step 0, the shrimp — added 2026-09-09)* · [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) *(Step 1 — and the one recipe that runs Part B's frying exception: the egg stays on as the wash for the dredge; added 2026-09-09)* · any fish or shellfish that smells fishy out of the bag — which, per Cody's rule below, is practically everything bought in Missouri
 **Do NOT use for:** [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) — *see the warning below*
 
 **Cody's rule:** *"If it smells fishy when you open it — shrimp, crawfish, shellfish, catfish, salmon, any kind of fish — you crack raw eggs over the top of it, mix it together, let it sit in a colander in the sink, then rinse it all off. It really, really works."*
@@ -15760,7 +15793,7 @@ When the seafood is headed into a batter or a dredge that uses egg anyway, the c
 
 - **Before boiling shrimp** — see [§7.2](#72-boiled-shrimp-with-tonys)
 - **Before grilling shrimp** — *"absolutely"*
-- **Before frying** — the case where the egg stays on
+- **Before frying** — the case where the egg stays on. **Written into [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) as its Step 1** — soak, lift out, straight into the almond flour, no rinse
 - **Any fish, not just shellfish** — salmon and catfish both named
 - **Before grilling salmon** — written into [§7.150](#7150-grilled-salmon-with-avocado-salsa) as its Step 1
 
@@ -19829,7 +19862,7 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 
 #### The rules added 2026-09-09 (final) — staples, the sauce notation, the filled right column
 
-- **⭐ Staples lead the sheet.** *"The first two categories I want to be Roberts' staple meals: staple main dishes, and then staple sides."* **⭐ Staple Mains** and **⭐ Staple Sides** are the first group in each column of the main table, **⭐ Staple Rubs** is the first row of the rubs block, and **⭐ Staple Sauces** the first row of the sauces block. **A staple line is a copy of the recipe's line in its regular group — same markers, same link — and the regular line stays where it is.** Staples are a curated view on top of the sheet, not a move; nothing leaves Beef or Pork or Vegetables to be a staple. Each staple group sorts by minutes ascending, ❤️ then 👍 breaking ties, like every other group. **Staple Rubs is the default rub**: when a recipe says *your favorite rub*, reach for one of those. **Explicitly not staples, on his say-so:** Jalapeño Poppers (*"is not a staple, sorry"*), and both big-steak lines ([§7.36](#736-two-steaks-feed-four), [§7.106](#7106-big-thick-steakhouse-steaks) — *"I'm not sure how that's different… feels a little redundant"*; both stay in Beef and both entries carry the question). Of the four pulled-pork methods only [§6.9 Cody's](#69-codys-pulled-pork) is a staple; his *"maybe condense"* remark on the other three is logged in [§12](#12-recipes-to-document). **Lines marked *(§N — being written)* are placeholders for recipes he named as staples that are still being written up**; they carry no link until the entry exists.
+- **⭐ Staples lead the sheet.** *"The first two categories I want to be Roberts' staple meals: staple main dishes, and then staple sides."* **⭐ Staple Mains** and **⭐ Staple Sides** are the first group in each column of the main table, **⭐ Staple Rubs** is the first row of the rubs block, and **⭐ Staple Sauces** the first row of the sauces block. **A staple line is a copy of the recipe's line in its regular group — same markers, same link — and the regular line stays where it is.** Staples are a curated view on top of the sheet, not a move; nothing leaves Beef or Pork or Vegetables to be a staple. Each staple group sorts by minutes ascending, ❤️ then 👍 breaking ties, like every other group. **Staple Rubs is the default rub**: when a recipe says *your favorite rub*, reach for one of those. **Explicitly not staples, on his say-so:** Jalapeño Poppers (*"is not a staple, sorry"*), and both big-steak lines ([§7.36](#736-two-steaks-feed-four), [§7.106](#7106-big-thick-steakhouse-steaks) — *"I'm not sure how that's different… feels a little redundant"*; both stay in Beef and both entries carry the question). Of the four pulled-pork methods only [§6.9 Cody's](#69-codys-pulled-pork) is a staple; his *"maybe condense"* remark on the other three is logged in [§12](#12-recipes-to-document). **Six unlinked *(§N — …)* placeholder lines stood in for the recipes he named as staples before their entries existed** — [§6.12](#612-sous-vide-chuck-roast-smoker-finished), [§6.13](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken), [§7.152](#7152-gluten-free-fried-shrimp), [§5.5](#55-salted-sautéed-zucchini-noodle-substitute), [§5.64](#564-quick-salad-with-homemade-dressing) *(the placeholder read §5.65; §5.64 was the next free number)* and [§4.197](#4197-lawrys-seasoned-salt-store-bought). **All six were written up later on 2026-09-09 (Stage 2) and the lines now carry links and the full marker set**; each also took its line in its regular group.
 - **Child sauces read parent + child.** *"You say twenty minutes, fifteen minutes — so is it ten minutes for the base and then if you add another thing it becomes Mornay, twenty minutes total? Unclear. If it's an additional ten minutes, just push plus ten there."* So in the sauces block every sauce built on a parent shows `🟩(10 + 10 min)`: the first number is the parent's own minutes, the second is what the child adds, and the square's color is on the total. The parents: [§4.63 béchamel/velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce) at 10; the brown children on [§4.71 Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) at 35 (or 10 if you start from [§4.73 Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3), the quick base); [§4.9 Hollandaise](#49-hollandaise-sauce) at 35 under the béarnaise and Choron; [§4.187 Homemade Mayonnaise](#4187-homemade-mayonnaise) at 10 under the aioli and rouille. The child numbers are the ones each entry's badge already carried — every one of those badges says *plus making the base* — so nothing was re-derived, only made visible. Sauces whose entries build their own base from a roux ([§4.68](#468-sauce-au-cari-light-curry-sauce), [§4.69](#469-sauce-soubise-onion-sauce), [§4.70](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise), [§4.52](#452-balsamella)) are not children and keep a single number.
 - **The right column is filled.** *"A large percentage is blank on the right side. If the sides are completely done, start filling it out with other main dishes and label those both as main dishes."* The main table pairs Staple Mains with Staple Sides, then the regular main groups with the regular side groups until the sides run out; a **Mains (cont.) | Mains (cont.)** row follows, and the remaining main groups continue down both columns, each group kept whole in one column and the two columns balanced by line count. The appetizer block keeps its two groups as its two columns. The rubs and sauces blocks are **names and markers only**; every description sentence that used to sit in them is below.
 - **Sheet lines changed 2026-09-09 (final), and what they used to say:**
@@ -19875,7 +19908,7 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 >
 > **Rule 2 — grill overhead.** *"Overriding anything that I just said: a grill is an extra thirty minutes."* Any **main or appetizer** cooked on the grill or smoker — the ♨︎ lines — carries **+30 min** for lighting and readying the pit, shown as `incl. 30 grill` inside its number. **Grilled sides get none** — *"I'm only gonna be doing grilled sides while I'm doing a grilled meat. I don't have to prep the grill for a side"* — and neither do the rubs and sauces that are made on a pit, which ride along the same way. **A pan-seared finish gets +10, not +30** — *"if you're searing, that takes an extra ten minutes"* — applied to the sous vide dishes that finish in a skillet, shown as `incl. 10 sear`. **Leftovers get neither: they are reheated, never grilled.**
 >
-> **Rule 3 — Cody's own figures override everything.** A **†** after the minutes means the number is his, given line by line on 2026-09-09. His number is the whole number — **no overhead is added on top of it**, and it is not re-derived. Where his figure is a range the range is shown, and it sorts and colours on its low end. **Buckets, Cody's own numbers:** 🟩 under 45 min · 🟨 45 min to 1 hr 15 min · 🟥 over 1 hr 15 min. **Store-bought products with no badge to read — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) — carry no time marker**, the same treatment they already get for the difficulty circle: there is nothing to make, so nothing to time, and they sort as zero minutes. **[§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) does carry a normal marker** despite the standing pantry stash noted in [CLAUDE.md §6](CLAUDE.md) — that note is about skipping it on a grocery list, not about how long it takes to mix.
+> **Rule 3 — Cody's own figures override everything.** A **†** after the minutes means the number is his, given line by line on 2026-09-09. His number is the whole number — **no overhead is added on top of it**, and it is not re-derived. Where his figure is a range the range is shown, and it sorts and colours on its low end. **Buckets, Cody's own numbers:** 🟩 under 45 min · 🟨 45 min to 1 hr 15 min · 🟥 over 1 hr 15 min. **Store-bought products with no badge to read — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought), [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning), and since 2026-09-09 (Stage 2) [§4.197 Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) — carry no time marker**, the same treatment they already get for the difficulty circle: there is nothing to make, so nothing to time, and they sort as zero minutes. **[§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) does carry a normal marker** despite the standing pantry stash noted in [CLAUDE.md §6](CLAUDE.md) — that note is about skipping it on a grocery list, not about how long it takes to mix.
 >
 > **Where the numbers stand after the full re-read, 2026-09-09 (late) — the pass the paragraph here used to promise.** The first (late) pass applied Cody's **46** own figures (†) and added grill overhead to the ♨︎ mains and appetizers and sear overhead to the sous vide dishes that finish in a skillet — on top of the old Prep + Cook numbers. **This pass then re-read every remaining square against its entry's method under Rule 1: 271 squares recomputed, of which 194 moved and 77 came out where they already were.** Every ♨︎ and sear line was rebuilt from the hands-on minutes up and the overhead added once, so nothing is double-counted. **Left as they were:** the 48 † figures (his, not re-derived), the three Leftovers-group estimates already written under the new rule, and **111 rub and sauce squares** — Cody: *"I'm not gonna question your rubs — those look legit"* and *"the sauces look alright"* — of which the eighteen whose old number plainly counted an unattended simmer or reduction were re-read and came down (the [§4.180 mushroom cream sauce](#4180-duxelles-and-mushroom-cream-sauce) from 60 to 30, [§4.122 Bacon and Onion Jam](#4122-bacon-and-onion-jam) from 140 to 30, [§4.69 Soubise](#469-sauce-soubise-onion-sauce) from 60 to 20), and the rest stand. **The buckets moved the way Rule 1 predicts:** 249 🟩 · 121 🟨 · 64 🟥 before, **290 🟩 · 109 🟨 · 35 🟥** after — the reds that were really a bake or a simmer are gone, and what is left red is genuinely long at the board or the fire (the crawfish bisques, the prime ribs, the Dreamland ribs you turn for an hour). **The lines Cody flagged as wrong-looking all moved:** Santa Maria Tri-Tip 35 → 60, Chuck Roast Sandwiches 35 → 70, Smoked Trout 35 → 50, Beef Back Ribs 40 → 50, Short Ribs Texas Style 45 → 50, the six Raichlen kebabs 53–60 → 65–75, Kōji Filet Mignon 60 → 80 (its [§4.180](#4180-duxelles-and-mushroom-cream-sauce) sauce is real work), Potato Canoes 150 → 60, Prime Rib 90 → 140 (an hour of butchery and a four-sided sear), Cherry Tomato Confit 55 → 15, Roasted Asparagus 35 → 15, Asparagus with Feta & Mint 30 → 25, Cornbread Stuffing 15 → 25, Pickled Shrimp & Celery 60 → 35, Smoke-Roasted Garlic 5 → 10, the tonic 35 → 15, Championship Chicken 170 → 120, Extra Crispy Wings held at 70, Basil-Grilled Tuna held at 60, Muffelatta Poboy held at 15. **Links, checked before and after:** 632 → 631 on the whole sheet — the one lost is the *"which one?"* cross-links between the two Championship pork lines, retired now that the [butt](#7137-tuffy-stones-championship-pork-butt) carries his 45 (one link each way came off, one came on in the tacos note) — and **432 recipe links before, 432 after, the same 432**; the re-sort moved lines, it removed none. Section pointers (like [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)) and the two store-bought items above still correctly carry no marker.
 >
@@ -19883,7 +19916,7 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 >
 > **Three kinds of line deliberately carry no circle.** **Group headers** (**🥩 Beef & Venison**, **🥕 Vegetables**) and **cluster labels** (**Crawfish Bisque:**, **Brisket:**) are not recipes — but every recipe *inside* a cluster carries its own, because the versions genuinely differ: the three crawfish bisques come out **🔴 · 🟡 · 🟡**. **Section pointers** — [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), [§4](#4-rubs-seasonings-sauces--condiments), the [Fish & seafood sauces](#sauces) pointer on the broiled fish line — point at a place, not a method. And the **No-Cook items with no entry** (cottage cheese, sliced tomatoes, avocado, applesauce) have no badge to read.
 >
-> **Two named entries have no circle on purpose, and that is not an oversight: [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ and [§4.87 Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️.** They are **store-bought products rather than recipes** — there is nothing to make, so they carry no badge anywhere in this cookbook and none was invented for them here. A rating would have had to be made up, and a made-up circle on a planning sheet is worse than a blank one.
+> **Three named entries have no circle on purpose, and that is not an oversight: [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️, [§4.87 Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️, and [§4.197 Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) ❤️ (added 2026-09-09, Stage 2).** They are **store-bought products rather than recipes** — there is nothing to make, so they carry no badge anywhere in this cookbook and none was invented for them here. A rating would have had to be made up, and a made-up circle on a planning sheet is worse than a blank one.
 >
 > **[§3 Darcy's Steak](#3-darcys-steak) is the one line with two methods behind it, and both land on 🟢 — on Cody's call, 2026-09-09.** The sous vide body (Steps 1–9) and its [§3.D stovetop reverse sear](#3-darcys-steak) sat at 🟡 for the sear with no doneness cushion; he settled it: *"I think easy is perfect if they follow the directions."* The entry now argues it his way — the risk exists only if you skip the directions, and the directions (pat dry, oil, a short timed sear, pull early) are the whole protection. **So the sheet's 🟢 is right whichever way you cook it**, and no second circle is needed.
 >
@@ -20117,10 +20150,102 @@ Salt as they go in. **Leave them alone long enough to take color** — a spear t
 
 **❤️ Family favorite** — *Cody: "Delicious."*
 
-### 5.5 Zucchini
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+### 5.5 Salted Sautéed Zucchini (noodle substitute)
 
-**❤️ Family favorite** — *Cody: "Delicious."*
+**❤️ Family favorite** — *Cody: "Delicious."* · *Cody, 2026-09-09 (final): "that zucchini's gotta be salted, and it really will work."*
+
+**Dictated by Cody, 2026-09-09 (final) — this fills the ❤️ Zucchini placeholder that has sat in §5 since the cookbook started, and it is on his ⭐ Staple Sides.** In his words: ***"A really salty sautéed zucchini so I can pour the chili or the spaghetti sauce over it — pan-seared, or battered in almond flour, the healthy way. But that zucchini's gotta be salted, and it really will work."***
+
+> **📌 This filled §5.5 in place rather than becoming a new number.** The placeholder was titled *Zucchini*, carried ❤️ and *"Delicious,"* and nothing else — and the salted sautéed zucchini he described is the zucchini dish in this house. The number and the ❤️ stay; **the heading is retitled** to say what the dish is, so every link to the old *#55-salted-sautéed-zucchini-noodle-substitute* anchor was repointed the same day. *(The breaded, deep-fried zucchini is a different dish and keeps its own placeholder at [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour); Variation B below is the pan version of that idea, cross-linked both ways.)*
+
+> 🍝 **What it is for — a noodle substitute.** This is the third leg of the pairing note on [§7.18 Spaghetti](#718-spaghetti) and [§8.1 Chili Mac](#81-chili-mac): the sauce goes over **high-protein pasta** for the kids, or over **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)**, or over **this**. The salt is the whole trick, and it does two jobs at once: it pulls the water out so the zucchini browns instead of stewing, and it seasons the vegetable hard enough to stand up under a ladle of chili — his *really salty* is the target, not a warning.
+
+**Serves 4 as a side, or 2–3 as the base under a sauce**
+
+**🟢 Easy** · **Prep ~10 min** *(slicing and salting; the 20–30 min salt draw is waiting, not work)* · **Cook ~10 min** *(two hot batches; ~15 for the battered variation)* · **Start to finish ~40 min**
+
+> **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here goes from perfect to ruined. A slice that browned a shade darker than you wanted is still a browned slice — [§T39](#t39-maillard-vs-caramelization--gbd)'s *brown is good, black is bad* is the only line to hold, and the pan is hot for four minutes a side, not forty. The one way to actually lose it is to crowd the pan and steam it grey, and that is a habit, not a technique.
+
+**Techniques used:** [T29 How to Salt](#t29-how-to-salt) *(the 15–20-minutes-ahead rule for watery vegetables — the whole method)* · [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) · [T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) *(browning needs a dry surface and room)* · [T47 Cooking Vegetables — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) · [T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) *(Variation B)*
+
+> ⚙️ **Cookbook judgment, labelled — what is Cody's here and what is not.** **His:** the dish — zucchini, **salted hard**, then **sautéed / pan-seared**; the **almond-flour-battered** way as the second version; and what it is for — a bed for chili or spaghetti sauce. **The cookbook's:** every quantity, the cut, the salt-draw time, the pan, the heat, and every minute count. Those were filled per [CLAUDE.md §3d](CLAUDE.md), **this cookbook first:** **Samin Nosrat** at [§T29](#t29-how-to-salt) — *watery vegetables headed for heat (eggplant, zucchini…) get salted 15–20 minutes ahead and patted dry, because the salt will have pulled water up to the surface* — and her ~1% salt by weight as the starting number; [§5.62 Salted Veggies in White Vinegar](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery), this book's other salt-draw, for the 30-minute draw on a sliced vegetable; **Meathead** at [§T39](#t39-maillard-vs-caramelization--gbd) and [§T47](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) for one-layer, dry-surface browning and *err on the side of undercooking*; and [§5.38 Roasted Veggies](#538-roasted-veggies)' cut rule (½ to ¾ inch, everything the same size, *don't cut smaller than ½ inch or it cooks through before it colors*). From outside the book, one credentialed test kitchen: **America's Test Kitchen / *Cook's Illustrated*'s sautéed zucchini** — salt the slices, let them sit, blot them dry, then a hot skillet in a single layer — which is the same sequence. **His own figures supersede all of these the day he gives them.**
+
+#### A. Ingredients
+
+**Variation A — plain, pan-seared** *(the base; Cody's first-named way)*
+
+- **1½ lb zucchini** — 3 to 4 medium, **small-to-medium ones**, which have fewer seeds and less water than the big ones *(cookbook judgment on the amount)*
+- **1½ teaspoons kosher salt** for the draw — about 1% of the zucchini's weight, [§T29](#t29-how-to-salt)'s number, **and this is the salt that stays on** *(see Step 2)*; ¾ teaspoon more at the end if it wants it. **He wants it *really salty*** — so this is the floor, and he may go past it
+- **2 tablespoons fat** — **avocado oil** *(what he sears with elsewhere in this book — [§3](#3-darcys-steak), [§7.151](#7151-sous-vide-chicken-thighs-for-the-family-seared) — and it holds a hot pan without smoking)*, or **beef tallow or bacon grease** the way [§5.7 Brussels Sprouts](#57-brussels-sprouts) runs
+- **Black pepper**, a few grinds
+- **Optional:** a clove of **garlic**, sliced, for the last minute; or a squeeze of **lemon** off the heat ([§T31](#t31-how-to-use-acid)) — *not under a sauce; the sauce is the acid*
+
+**Variation B — battered in almond flour, pan-fried** *(Cody: "or battered in almond flour, the healthy way")*
+
+- Everything in Variation A, **plus:**
+- **1 large egg**, beaten with 1 tablespoon water
+- **¾ cup almond flour** — blanched, fine *(the same flour as [§5.8](#58-fried-zucchini-in-almond-flour)'s placeholder and the [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) dredge)*
+- **½ teaspoon garlic powder · ½ teaspoon paprika · ¼ teaspoon black pepper** in the flour *(no salt in the dredge — the slices are already salted)*
+- **Fat, ¼ inch deep in the skillet instead of 2 tablespoons** — avocado oil; this is a shallow pan-fry, not a sauté
+
+#### B. Cooking Instructions
+
+**1. Cut the zucchini ½ inch thick. Half-moons, planks, or coins — but all the same size.**
+Trim the ends. **Halve lengthwise and cut into ½-inch half-moons** for a bed under sauce, or **½-inch planks** if you want more browned face. **Half an inch is the number** — [§5.38](#538-roasted-veggies)'s cut rule applies straight across: thinner than that and a slice cooks through before it takes any color; thicker and the outside chars while the middle stays raw. Cut them all alike, because the pan finishes at the speed of the thickest piece and burns at the speed of the thinnest. *(Zucchini "noodles" off a spiralizer work under this method too, but they give up their water in 10 minutes and cook in 2 — treat them as their own thing; the ½-inch cut is what holds up under a ladle of chili.)*
+
+**2. Salt it hard and let it sit. 20 to 30 minutes. Then pat it dry — do not rinse.**
+Slices into a colander over the sink or a bowl, **1½ teaspoons kosher salt** tossed through by hand so every face has some, and **leave it 20 to 30 minutes.** [§T29](#t29-how-to-salt) puts zucchini in the *15–20 minutes ahead* tier and says why: *the salt will have pulled water up to the surface* — you will see it beading, then pooling underneath, and that water is what would have steamed the pan grey. **Then lay the slices on a towel and pat them genuinely dry.** ***Do not rinse them*** — this is where the recipe parts ways with the usual salt-draw, on Cody's own instruction: he wants the zucchini **really salty**, and rinsing would wash off the seasoning the draw just put in. The salt that is left on the surface is the seasoning of the finished dish, and it is also why there is no salt in Variation B's dredge. *(Cookbook note: if a batch comes out too salty for eating on its own, it is still right under chili — the sauce is what he salted it for. Rinse next time only if he says so.)*
+
+**3. Get the pan hot, then the fat. Medium-high.**
+A **12-inch skillet** — cast iron or stainless, the biggest you own — empty over **medium-high** until a drop of water skitters ([§T2](#t2-hot-pan-first-then-oil)), then the **2 tablespoons of fat**, swirled, until it shimmers. **Not olive oil at this heat**, for [§T30](#t30-how-to-use-fat)'s reason — it smokes where avocado oil, tallow and bacon grease don't.
+
+**4. One layer, cut side down, and leave it alone. 3 to 4 minutes. Do not crowd the pan.**
+**Half the zucchini, laid flat, not touching if you can manage it — and the other half in a second batch.** This is the step that decides the dish and [§T39](#t39-maillard-vs-caramelization--gbd) is the reason: *browning needs a dry surface and somewhere for the moisture to go.* Pile it in and you get olive-drab stewed zucchini, which is exactly what the salt draw was meant to prevent. **Don't move it for 3 to 4 minutes** — lift one with tongs and look: **deep golden to mahogany on the face**, a few dark spots on the edges, is the target. Pale means leave it another minute.
+
+**5. Flip, 2 to 3 minutes more, then out — while it still has bite.**
+Turn the pieces and give the second side **2 to 3 minutes.** **Pull them tender-crisp, not soft** — [§T47](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too)'s rule for exactly this: *err on the side of undercooking to avoid limp vegetables.* A slice that still has a little resistance in the middle holds up under hot sauce; one cooked to soft collapses into it and you have made a purée. **Garlic, if you're using it, goes in for the last minute only** — it burns in the time a face takes to brown ([§5.55](#555-steamy-sauté-garlicky-green-beans)'s thirty-second warning). Out onto a plate, pepper over it, taste one, and **add the second pinch of salt only if it wants it.** Second batch the same way, with a fresh spoon of fat if the pan has gone dry.
+
+**6. Sauce over the top, at the table.**
+As a base, it goes on the plate first and the **chili** ([§8.1](#81-chili-mac)'s fresh build, or the leftover chili line on the [Meal Planning Sheet](#meal-planning-sheet)) or the **[§7.18 Spaghetti](#718-spaghetti) sauce** goes over it, exactly the way the noodles would. As a plain side, a squeeze of lemon off the heat is [§T31](#t31-how-to-use-acid)'s finish; skip it under a sauce that is already acidic.
+
+**Variation B — the almond-flour battered version, pan-fried. About 15 minutes at the stove.**
+Steps 1 and 2 exactly as above — **the salt draw matters more here, not less**, because a wet slice throws the coating. Then: **the beaten egg in one shallow dish, the almond flour mixed with the garlic powder, paprika and pepper in another.** Heat **¼ inch of avocado oil** in the skillet over **medium-high** to about **350°F** — a pinch of the flour should sizzle at once ([§T3](#t3-butter-oil-pan-frying--frying)'s shallow-oil test). **Dip each slice in egg, let the excess run off, press it into the flour on both sides, shake off the loose flour, and straight into the oil** — [§T3](#t3-butter-oil-pan-frying--frying)'s fourth key, *don't bread anything until the second before it goes in*; almond flour goes gummy sitting on a wet slice faster than wheat flour does. **In batches, never crowded, 2 to 3 minutes a side, to golden.** ⚠️ **Almond flour browns faster than wheat flour** — it is a nut, with fat and sugar in it — so hold the oil at 350°F and not above, and pull at *golden*, because *golden* becomes *burnt* in the time a wheat crust would just be getting started. Drain on a rack, not paper towels, so the underside stays crisp. **This is the same coat and the same oil as [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp)**, which is why the two are worth making the same night. *(Variation B is the pan version of the idea at [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour), which is still a placeholder; when that one is written up as a deep fry, this stays the skillet version.)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Zucchini — 1½ lbs, **small-to-medium** *(3 to 4)*
+- 🛒 Kosher salt
+- 🛒 Avocado oil *(or beef tallow / bacon grease — you have them)*
+- 🛒 Black pepper
+- 🛒 Garlic — 1 clove, or a lemon *(optional finish, plain version only)*
+- 🛒 **For Variation B:** eggs — 1 · almond flour, blanched fine — ¾ cup · garlic powder, paprika
+
+#### Nutrition *(estimated)*
+
+*Variation A, the plain sauté. Variation B is figured below it.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~320 | 24 g | 8 g | 21 g | 7 g |
+| **Per serving** *(serves 4)* | ~80 | 6 g | 2 g | 5 g | 2 g |
+
+**What a serving is:** about **a cup of browned half-moons** — a vegetable side, or the bed under one ladle of chili or spaghetti sauce (the sauce is counted on its own recipe, not here). As the base for 2 or 3 plates instead of 4, figure ~110–160 calories a plate.
+
+*Estimated from the ingredient list, not from a printed source — **the quantities are the cookbook's, not Cody's** (see the judgment note above). About a quarter of the fat is figured as staying in the pan. The water the salt draws out carries nothing worth counting. **Variation B** adds the egg (roughly half of it sticks) and about two-thirds of the ¾ cup of almond flour, plus a couple of tablespoons of absorbed frying oil: **about +160 calories, +13 g fat, +5 g protein, +3 g carbs and +2 g fiber per serving** — call it ~240 calories a serving, still around 6 g of carbohydrate net of fiber. **No net-carb figure is printed and no 🥑 tag is given**, for the same reason as [§5.7 Brussels Sprouts](#57-brussels-sprouts): this is Cody's own recipe from no book, and [CLAUDE.md §3c](CLAUDE.md)'s signal is a source that prints net carbs — though at roughly 3 g net a serving plain, and 6 g battered, it sits below every tagged recipe in the keto callout except [§10.4](#104-southern-keto-egg-and-sausage-muffins). One word from him adds the tag.*
+
+#### D. Open Questions
+
+- ⚙️ **Rinse or don't rinse?** Written **don't**, on his *really salty* — the draw salt stays on as the seasoning. Every salt-draw source rinses or at least blots hard; if a batch comes out too salty to eat plain, that is the knob, and his call.
+- ⚙️ **The cut.** ½-inch half-moons is the cookbook's read of *sautéed / pan-seared* for a bed under sauce. He may cut planks, coins, or ribbons; the salt draw and the hot pan are the same whichever it is.
+- ⚙️ **Which fat, and does he batter it often?** Avocado oil is the cookbook's pick from his own searing habit. And he named the almond-flour version as an *or* — whether it is the everyday version or the occasional one isn't recorded.
+- ⚙️ **Quantities, salt-draw time, heat and every minute count are the cookbook's**, per [CLAUDE.md §3d](CLAUDE.md). One night's cooking replaces all of them.
+- ❓ **Does he want the 🥑?** See the Nutrition note — it qualifies on the numbers and carries no tag, per this book's standing reading of [CLAUDE.md §3c](CLAUDE.md).
+
+[↑ Table of Contents](#table-of-contents)
+
+---
 
 ### 5.6 Cauliflower
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
@@ -20242,7 +20367,7 @@ The faces soften as they sit and the bacon loses its snap. Straight from the ski
 ---
 
 ### 5.8 Fried Zucchini in Almond Flour
-> *Placeholder — details forthcoming.* Distinct from §5.5 — this is the breaded/fried preparation. Ingredients · Instructions · Grocery list all to be documented.
+> *Placeholder — details forthcoming.* Distinct from §5.5 — this is the breaded/fried preparation. Ingredients · Instructions · Grocery list all to be documented. **Since 2026-09-09, [§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute)'s Variation B is the skillet version of this idea** — salt-drawn slices, egg, an almond-flour dredge, a shallow fry in avocado oil — written up from Cody's own dictation; this number stays for the deep-fried version when it arrives.
 
 **🔖 Want to try** — *Cody: "Haven't tried that just yet, but it sounds rocking."*
 
@@ -23970,6 +24095,83 @@ Wide ribbons off a peeler or the long side of a box grater, a few over the bowl 
 
 ---
 
+### 5.64 Quick Salad with Homemade Dressing
+
+**Cody's own, dictated 2026-09-09 (final), and on his ⭐ Staple Sides.** In his words: ***"Add another salad — nothing complicated, super simple — label it Quick Salad with Homemade Dressing, and put the different dressings and vinaigrettes in there, because these vinaigrettes look pretty easy."***
+
+> **📌 This is a template, not a fixed recipe — and it says so on purpose.** *Nothing complicated* is the instruction. It is a bowl of greens and one of the homemade dressings already in this book; the point of the entry is the list of dressings, each linked with its number, so the salad is a two-minute decision. It sits beside the three salads already on his evening rotation — [§5.61 Simple Romaine, Oil & Vinegar](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️, [§5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar), and [§5.23 Greek Salad](#523-greek-salad-with-crumbled-goat-cheese) ❤️ — as the *any-other-dressing* night. *(Numbered §5.64: the [Meal Planning Sheet](#meal-planning-sheet) placeholder read §5.65, but §5.63 was the last entry in §5, so this took the next free number.)*
+
+**Serves 4 as a side**
+
+**🟢 Easy** · **Prep ~10 min** *(with the dressing already made — add the dressing's own 5 to 15 minutes on the night you make it)* · **Cook none** · **Start to finish ~10 min**
+
+**Techniques used:** [T29 How to Salt](#t29-how-to-salt) *(salad is salted right before serving — and taste the dressing on a leaf, not a spoon)* · [T31 How to Use Acid](#t31-how-to-use-acid) *(a vinaigrette is acid balancing fat)* · [T30 How to Use Fat](#t30-how-to-use-fat) *(why a broken dressing eats badly)*
+
+> ⚙️ **Cookbook judgment, labelled.** **Cody's:** the idea, the name, and the instruction to put the dressings in. **The cookbook's:** the greens, the optional add-ins (borrowed from his own [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)), the 2-tablespoons-a-person rule (every dressing entry below prices itself that way), and the one warm-salad reading under [§4.56](#456-canal-house-lemon-butter). **His own figures supersede these the day he gives them.**
+
+#### A. Ingredients
+
+**The greens — pick one, about 8 cups torn, and dry them completely**
+
+- **2 romaine hearts**, torn *(his green on the other three salads)* — or a 5 oz clamshell of **mixed greens / spring mix**, or **butter lettuce**, or **arugula**
+- **Optional add-ins, a handful each — the ones already on his own [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano):** halved **cherry tomatoes**, sliced **cucumber**, and **a light hand of purple onion**
+- **Flaky salt and black pepper**, at the table
+
+**The dressing — pick one, ½ cup for four (2 tablespoons a person), each linked to its own entry:**
+
+| Dressing | Minutes | What it is |
+|---|---|---|
+| [§4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) | 5 | Julia Child's master — wine vinegar, salt, optional mustard, oil, pepper, herbs. *"Sugar is heresy."* |
+| [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette) | 5 *(+15 macerate)* | Nosrat's — shallot macerated in red wine vinegar, then olive oil. **The Honey-Mustard variation** is on the same entry |
+| [§4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️ | 5 | His own — lime, olive oil, oregano; the [§5.23](#523-greek-salad-with-crumbled-goat-cheese) dressing |
+| [§4.134 Creamy Caesar Dressing](#4134-creamy-caesar-dressing) | 15 | Nosrat's — on homemade mayonnaise, **keeps 3 days** ([§5.63](#563-simple-romaine-homemade-caesar)'s ruling) |
+| [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter) | 10 | **A compound butter, not a vinaigrette** — see the note below |
+| **The rest of the vinaigrette shelf, all Nosrat's, all 5 minutes:** [§4.136 Any-Other-Citrus](#4136-any-other-citrus-vinaigrette) · [§4.137 Tomato](#4137-tomato-vinaigrette) · [§4.139 Balsamic](#4139-balsamic-vinaigrette) · [§4.140 Lemon](#4140-lemon-vinaigrette) · [§4.141 Lime](#4141-lime-vinaigrette) · [§4.142 Rice Wine](#4142-rice-wine-vinaigrette) · [§4.143 Miso-Mustard](#4143-miso-mustard-dressing) | 5 | Same build as §4.138 with the acid swapped |
+
+> 🧈 **On [§4.56 Canal House Lemon Butter](#456-canal-house-lemon-butter) — Cody named it among his staple sauces, and it is on this list because he did; how it dresses a salad is the cookbook's reading, labelled.** It is a cold compound butter — two sticks, lemon zest and juice — and it does not pour over cold lettuce. **Where it works is a warm salad:** a spoonful melted over just-blanched green beans or asparagus, or over the [§5.38 Roasted Veggies](#538-roasted-veggies), tossed with a few handfuls of arugula that wilt in the heat. On a plain bowl of romaine, reach for one of the vinaigrettes instead.
+
+#### B. Cooking Instructions
+
+**1. Make the dressing — or don't, tonight.**
+Every dressing in the table above is its own entry with its own steps; make it there. **Most of them keep** — the vinaigrettes 3 days in the fridge per their own pages, [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) a week, the Caesar 3 days on homemade mayonnaise — so the batch made on night one is what makes this a 10-minute salad on nights two and three. **Two rules from [§4.84](#484-sauce-vinaigrette-french-dressing) apply to every one of them:** make it in the empty bowl or a jar so it is blended *before* the greens go in, and **shake or whisk it again right before it goes on** — a vinaigrette separates as it sits, and a broken one eats badly ([§T30](#t30-how-to-use-fat): *one bite too sour, the next too oily*).
+
+**2. Tear the greens and get them genuinely dry.**
+Tear, don't chop, and dry them in a spinner or on a towel — **the dressing won't cling to a wet leaf**, which is the one thing every salad in this book agrees on ([§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano), [§5.63](#563-simple-romaine-homemade-caesar), [§4.84](#484-sauce-vinaigrette-french-dressing)). Add whichever of the optional add-ins you have.
+
+**3. Dress it at the last second, by hand, and taste a leaf.**
+**Half the dressing first**, tossed through with your hands so every leaf is coated, then more only if it needs it — a salad wants to glisten, not pool. **Taste a dressed leaf, not the dressing** — it reads sharper off a spoon than on lettuce ([§T29](#t29-how-to-salt)). Flaky salt and pepper over the top. **Dress it and serve it in the same minute**; a dressed salad is wilting from the moment the oil touches it.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Greens — 2 romaine hearts, or a 5 oz clamshell of mixed greens / arugula, or a head of butter lettuce
+- 🛒 Cherry tomatoes, a cucumber, a purple onion *(optional add-ins)*
+- 🛒 Flaky salt, black pepper
+- 🛒 *Plus whatever the chosen dressing's own list calls for — the basics for the vinaigrettes are **a good red wine vinegar, extra-virgin olive oil, Dijon, and a shallot**, which covers §4.84, §4.138 and most of the Nosrat shelf*
+
+#### Nutrition *(estimated — one representative build, labelled)*
+
+*Figured for **romaine with cherry tomatoes and cucumber, dressed with ½ cup of [§4.138 Red Wine Vinaigrette](#4138-red-wine-vinaigrette)** — the middle of the table. A different dressing moves the fat column: the Caesar runs a little leaner per 2 Tbsp (~125 calories against the vinaigrettes' ~180), the Greek and the French master land where §4.138 does, and the lemon butter is a different dish.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~830 | 82 g | 6 g | 22 g | 11 g |
+| **Per serving** *(serves 4)* | ~210 | 20 g | 1.5 g | 5.5 g | 3 g |
+
+**What a serving is:** a dinner-plate side salad — **about 2 cups of dressed greens with 2 tablespoons of vinaigrette**. Essentially all of the calories are the dressing's oil; the greens and vegetables are the fiber.
+
+#### D. Open Questions
+
+- ⚙️ **The greens and add-ins are the cookbook's**, borrowed from his own [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano); he said only *super simple*. His own bowl supersedes this.
+- ❓ **Which dressing does he reach for first?** The table is in no particular order beyond his naming [§4.84](#484-sauce-vinaigrette-french-dressing), the red-wine vinaigrette, [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil), [§4.134](#4134-creamy-caesar-dressing) and [§4.56](#456-canal-house-lemon-butter) among his staple sauces. If one is the house default, it should lead.
+- ⚙️ **[§4.56](#456-canal-house-lemon-butter) as a warm-salad butter is the cookbook's reading** of how a compound butter dresses a salad at all. If he uses it some other way, this note changes.
+- ❓ **Cheese?** The other three salads carry his Grana Padano / Romano rule; he didn't mention cheese here, so none is written in. A few ribbons would not be wrong.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 6. Smoked Meats
 
 Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp, wrap or no wrap, rest. Once two or three of these are written up it may be worth pulling the common technique into its own reference the way §4 did for rubs.
@@ -24932,6 +25134,211 @@ Lift the bird **on its stand** straight from the sheet pan onto the grate, over 
 
 ---
 
+### 6.12 Sous Vide Chuck Roast, Smoker-Finished
+
+**❤️ Family favorite** — *Cody, 2026-09-09 (final), naming it a ⭐ Staple Main: "Really, really easy, probably takes an hour."*
+
+**Cody's own, dictated 2026-09-09 (final).** The whole of it, in his words: ***"Really, really easy, probably takes an hour. Your choice of seasoning — just make sure you do all the salt. Sous vide two days at 129°F, take it out, put it on ice for a day in an ice chest, then smoker maybe four hours at 225°F. Very similar to the sous vide brisket."***
+
+> **📌 Read this as [§6.10 Sous Vide Brisket (Richie's Method)](#610-sous-vide-brisket-richies-method) on a chuck roast — his own comparison, and the entry is built on that one's structure.** Same shape: salt hard, bag it, a two-day bath, a chilled day in an ice chest, a four-hour smoke at 225°F. **What changes is the cut and the numbers around it:** a chuck roast is a fraction of a packer brisket, fits a bag whole, and needs no point-and-flat surgery; there is no smoked salt and no butter in the bag unless he says so; and he names no hot browning at the end — see Open Questions. **What stays the same is why it is a staple:** *you never mess it up.* The bath cannot fail, the ice chest cannot fail, and four hours at 225°F on already-cooked meat cannot fail.
+
+> 🍱 **This is also the pho beef, and he batches it.** [§1 Cody's Pho](#1-codys-pho) already runs **three chuck roasts** through a 36-hour bath, and his note there — *"sometimes when I sous vide a beef I'll do two or three chuck roasts and reuse it when I make pho"* — is the same habit from the other direction. **So bag two or three at once:** one goes to the smoker for this dish, the others stay bagged and cold for [§1](#1-codys-pho) or the [Meal Planning Sheet](#meal-planning-sheet)'s *Pho with Leftover Beef* line ([§7.146](#7146-pho-with-leftover-brisket-and-smoked-bone-broth)). [§T46](#t46-freezing-and-reheating-leftovers) covers holding a vacuum-bagged roast. *(The one thing to reconcile if you batch for both: §1 seasons its bags with salt, garlic powder and pepper only, and this entry's rub choice goes on **after** the bath — see the seasoning note below — so a bag seasoned for §1 is exactly the bag this recipe wants.)*
+
+**Techniques used:** [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) *(Cody's general sous vide practice, and the dry-bag rule)* · [§T44 Food Safety — Target Temperatures](#t44-food-safety--the-real-logic-and-the-target-temperature-table) *(pasteurization is temperature **and** time — the reason for the ⚠️ below)* · [§T37 Salt and the Dry Brine](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) · [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) *(blue smoke, and the palmful-of-wood rule)* · [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers) · [§T33 How Meat Actually Cooks](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth)
+
+**Cody's own rubs that fit here:** [§4.105 Dalmatian Rub](#4105-dalmatian-rub) ❤️ · [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ · [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ · [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ — *the ⭐ Staple Rubs on the [Meal Planning Sheet](#meal-planning-sheet), which is where "your choice of seasoning" points by his own default rule.*
+
+**Serves 8 from one roast** *(about 4 lb; two or three roasts if you're batching for [§1](#1-codys-pho))*
+
+**🟢 Easy** · **Prep ~30 min** *(trimming, salting, bagging — the night it goes in; twice that if you bag three)* · **Cook ~15 min** *(lighting the smoker, on, off — the pit's four hours are not yours)* · **Slow cook 2 days + ~4 hr** *(48 hr in the bath, then a 4 hr smoke at 225°F, both hands-off)* · **Start to finish ~3½ days** *(includes a full day on ice between the two)*
+
+> **Why 🟢 Easy — in his words, *"really, really easy."*** [CLAUDE.md §3a](CLAUDE.md)'s test: *can a step go from perfect to ruined?* Walk it. Salting cannot fail. Bagging cannot fail. Two days in a bath cannot fail — it is the most forgiving stretch of cooking in this book, same as [§6.10](#610-sous-vide-brisket-richies-method). A day in an ice chest cannot fail. A four-hour smoke at 225°F on meat that is already cooked cannot overshoot anything; it is building bark, not doneness. **And three and a half days of elapsed time is Slow cook and lead time, which per [§1 Cody's Pho](#1-codys-pho) never inflates a rating.** His *probably takes an hour* is the whole of the work.
+
+> ⚠️🌡️ **129°F for two days — his figure, transcribed as dictated, and it conflicts with his own standing rule. Flagged, not smoothed over.** [§1 Cody's Pho](#1-codys-pho) — the same cut, the same multi-day bath — says in his own established note: ***"Do not run this at 129°F. Below 130°F, bacteria like C. perfringens can still grow — fine for a three-hour cook, not for one measured in days."*** [CLAUDE.md §6](CLAUDE.md) records the house number as **131–133°F for 24–48 hours**, and [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)'s table (Meathead) puts the kill zone as beginning at **130°F**, with the danger zone running **41–130°F** — so 129°F sits one degree on the wrong side of that line for the whole of a 48-hour hold. **[§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s own reconciliation already covers exactly this case from the other side:** 129°F is fine for a steak-sized cut for 6 to 8 hours, *because the hold never approaches the multi-day window the pho warning is guarding against.* This recipe is that multi-day window. **So the step below prints 131°F — his own §1 floor for this exact cut and duration — as the working number, with his 129°F recorded beside it, and this is the cookbook's reading, not a correction of him.** Two degrees changes nothing he will taste: at 131°F a chuck roast is still solidly medium-rare, slices the same, and its collagen breaks down a little *faster* ([§1](#1-codys-pho) says so). It is an Open Question for him to settle, and his answer supersedes this note the day he gives it.
+
+> 🧂 **"Your choice of seasoning — just make sure you do all the salt." How that reconciles with the bag rule, and this is the cookbook's reading, labelled.** [CLAUDE.md §6](CLAUDE.md) and [§1](#1-codys-pho) fix what goes in a sous vide bag in this house: **kosher salt, garlic powder, black pepper — and nothing else.** No fresh garlic (an anaerobic botulism risk), no liquid. A sugar-and-paprika rub like [§4.108 Memphis Dust](#4108-meatheads-memphis-dust) is dry and safe in a bag, but it is built for a pit, not a water bath, and two days sealed against wet meat is not where it does its work. **So the salt is the one thing that goes in the bag — all of it, per him — with the garlic powder and pepper [§1](#1-codys-pho) already uses on this cut, and the *choice of seasoning* goes on the cold roast after the ice chest, right before the smoke, where a rub belongs.** [§4.105 Dalmatian](#4105-dalmatian-rub) is the exception that proves it: salt and coarse pepper *is* the bag seasoning, so choosing Dalmatian means nothing extra goes on later. **What is Cody's here: the salt as non-negotiable, and the free choice of rub. What is the cookbook's: the timing of when the rub goes on.** If he puts Memphis Dust in the bag and it comes out great, that is the recipe.
+
+#### A. Ingredients
+
+- **1 beef chuck roast, about 4 lb** — *or two or three, for [§1](#1-codys-pho)'s batch* *(cookbook judgment on the size; he named none. Boneless, whole, trimmed of any hard fat cap but otherwise left alone — a chuck roast's marbling is the point of it)*
+- **Kosher salt — 1 teaspoon per pound** *(¾ teaspoon per pound if it's Morton's)* — ***"just make sure you do all the salt."*** **This is [§1](#1-codys-pho)'s own number for this exact cut, so it is his, not the cookbook's.** Go by the pound and don't skimp — salt equilibrates through the meat inside a sealed bag rather than cooking off ([§4.88](#488-vegeta-store-bought-croatian-all-purpose-seasoning)'s note), so it all counts
+- **Garlic powder — ½ teaspoon per pound.** **Powder, never fresh** — the bag rule
+- **Black pepper — ½ teaspoon per pound**
+- **Your choice of rub, for the smoke — a few tablespoons, on after the ice chest:** [§4.108 Memphis Dust](#4108-meatheads-memphis-dust) ❤️ *(no salt in it — right, since the salt is already in)*, [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) ❤️, [§4.7 Captain Mike's](#47-captain-mikes-seasoning) ❤️, or simply more coarse pepper for a [§4.105 Dalmatian](#4105-dalmatian-rub) ❤️ finish. **A salted rub goes on lighter** — the roast is already fully salted
+- **Smoking wood — pecan, a palm-sized chunk, no more** *(his standing rule, [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke); pecan is his favorite everywhere in this book — [§6.1](#61-smoked-brisket), [§6.9](#69-codys-pulled-pork), [§6.10](#610-sous-vide-brisket-richies-method))*
+- **Ice — enough to fill an ice chest** around the bags, for the day on ice
+
+*Not groceries, but this recipe doesn't happen without them: a **sous vide circulator** that can hold two days, a **vacuum sealer** and bags big enough for a whole roast *(a zip-top bag with the water-displacement method works for one roast; not for three)*, an **ice chest**, and a **smoker or kamado** with a **leave-in probe**.*
+
+#### B. Cooking Instructions
+
+**1. Salt it — all of it — with the garlic powder and pepper. Then bag it and seal it.**
+Pat the roast dry. **1 teaspoon of kosher salt per pound** *(¾ if Morton's)*, ½ teaspoon each of garlic powder and black pepper per pound, rubbed over every face. That is the entire bag seasoning — ***"just make sure you do all the salt"*** — and it is the same three things [§1](#1-codys-pho) puts on this cut. **Nothing else in the bag: no fresh garlic, no liquid, no oil** *(see the seasoning note above)*. **Vacuum it as hard as the sealer will pull**, for [§6.10](#610-sous-vide-brisket-richies-method)'s reason — the bag loosens over two days as the meat gives up juice, so start tight and check it the next morning. Batching for pho: one roast per bag, all the bags in the same bath.
+
+**2. Into the bath — two days. 131°F, the house number for a multi-day chuck bath; his figure for this dish was 129°F. See the ⚠️ above.**
+**48 hours.** Set the circulator to **131°F** *(cookbook's working number, from his own [§1](#1-codys-pho) rule — he said 129°F for this one, and that is an Open Question)* and leave it. **This is where the roast becomes tender**: two days is long enough to turn chuck's collagen to gelatin at a temperature that never squeezes it dry, and at 131°F it is still medium-rare inside. Nothing needs turning, checking, or adjusting; keep the water topped up and covered and the bags submerged. *(Pasteurization at this temperature is reached in the first hours — [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table): 130°F, about 2 hours to a 7D kill; the remaining day and a half is texture, not safety.)*
+
+**3. Out of the bath and straight into an ice chest full of ice, bag unopened. A day.**
+**Do not open the bag.** The whole thing goes into an ice chest packed with ice — ***"put it on ice for a day in an ice chest"*** — and stays there until you're ready to smoke. Same as [§6.10](#610-sous-vide-brisket-richies-method) Step 7 and [§3 Darcy's Steak](#3-darcys-steak)'s cooler, and for the same two reasons: it gets the roast out of the danger zone fast and parks it cold on your schedule, and **cold, wet meat takes smoke far better than warm meat** — Meathead's beer-can test at [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke), *cool surfaces attract smoke particles and surface moisture gives them something to cling to.* **⚠️ This cooler has ICE in it.** [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork)'s cooler is the opposite tool — no ice, holding heat in. Don't mix them up. *(Pho roasts come out of the ice chest and go to the fridge, still bagged, for [§1](#1-codys-pho) — [§T46](#t46-freezing-and-reheating-leftovers).)*
+
+**4. Smoke day — the pit to 225°F, a palmful of pecan, and wait for blue smoke.**
+**225°F**, indirect. **A palm-sized chunk of pecan and no more** — his standing rule at [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke), and a cold, damp surface takes smoke fast enough that more wood only buys bitterness. **Wait for the smoke to go thin and blue** before the meat goes anywhere near it — the first white smoke is the acrid stuff; [§6.1](#61-smoked-brisket) Step 4 has the full version.
+
+**5. Bag open, roast patted dry, save the juice — then the rub goes on, and the roast goes on.**
+Cut the bag open over a bowl and **save every drop of what's in it** — two days of salty, seasoned beef juice, and the best thing in the recipe ([§6.10](#610-sous-vide-brisket-richies-method) Step 10). **Pat the roast dry all over**; a wet surface smokes grey and takes no bark. **Now the rub of your choice** — a few tablespoons of [Memphis Dust](#4108-meatheads-memphis-dust), or [Darcy's](#41-darcys-steak-rub), or [Captain Mike's](#47-captain-mikes-seasoning), or just coarse pepper for the [Dalmatian](#4105-dalmatian-rub) finish — pressed onto the cold, tacky surface, **lighter than you would on raw meat if the rub carries salt**, because this roast is already fully salted from the bag. Onto the grate, probe in the center if you want to watch it, lid down.
+
+**6. About four hours at 225°F. Bark, not doneness — and then it's done.**
+***"Smoker maybe four hours at 225°F."*** **What you're after here is bark and smoke, not a number** — the roast has been cooked for two days already, and nothing in these four hours is trying to bring its center to a target. Four hours at 225°F builds a real crust and a real smoke flavor on a roast this size; if the outside is dark, dry to the touch and set at three and a half, it's done, and if the rub is still soft at four, give it a little longer. **Don't open the lid to look** — every peek costs the pit ten minutes. *(A probe will show the center climbing from fridge-cold up through 130°F and past it as the hours go by; that is expected and it is not what decides when it comes off.)*
+
+**7. Slice across the grain, warm the bag juice, and spoon it over.**
+Off the pit and onto a board — **no long rest needed**; it has been at temperature for days and [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) says resting does not do what people think it does. A chuck roast's grain wanders — it is several muscles — so **slice each section across its own grain**, thick or thin as you like, or pull it into chunks. **Warm the saved bag juice gently in a pan** — don't reduce it — taste it for salt, and **spoon a little over the slices as you cut.** *(The juice is [§6.10](#610-sous-vide-brisket-richies-method)'s move; whether Cody does it on the chuck isn't recorded, but the bag is full of it either way.)*
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 **Beef chuck roast — about 4 lb, boneless** *(two or three if batching for [§1 Cody's Pho](#1-codys-pho); the size is the cookbook's — see Open Questions)*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt — **1 tsp per pound, all of it**
+- 🛒 Garlic powder — **powder, never fresh** in a sous vide bag
+- 🛒 Black pepper — coarse
+- 🛒 **Your rub for the smoke** — [§4.108 Memphis Dust](#4108-meatheads-memphis-dust) *(you keep a stash — [CLAUDE.md §6](CLAUDE.md))*, [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub), [§4.7 Captain Mike's](#47-captain-mikes-seasoning), or just more pepper
+- 🛒 Smoking wood — **pecan chunks**; a palmful is the whole amount
+- 🛒 Ice — enough to fill an ice chest
+- 🛒 Vacuum sealer bags — large
+
+#### Nutrition *(estimated — on an assumed 4 lb roast, because none was given)*
+
+**Cody named no size**, so this runs on a **4 lb boneless chuck roast, serving 8**; scale linearly for a bigger one, and count each roast separately if you batch. **The rub is figured as 3 Tbsp of [Memphis Dust](#4108-meatheads-memphis-dust)**, the sugariest of the choices, so the carb column is the high case; Dalmatian or Darcy's brings it to zero. *(Estimated per [CLAUDE.md §3b](CLAUDE.md).)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(a 4 lb roast, as eaten, plus the rub)* | ~3,750 | 270 g | 300 g | 12 g | 1 g |
+| **Per serving** *(serves 8)* | ~470 | 34 g | 38 g | 1.5 g | 0.1 g |
+
+**What a serving is:** about **6 oz of sliced or pulled smoked chuck** with a spoon of the warmed bag juice over it — a dinner plate's worth of meat, or a big sandwich.
+
+**How these were figured.** From the ingredient list, not lab figures, and **counting only what's eaten.** Chuck is a fatty, marbled cut; **about a quarter of its raw fat is figured as rendering into the bag over two days and dripping off in the smoke** — and a good share of what went into the bag comes back onto the plate as the juice in Step 7, which is counted. The salt, garlic powder and pepper contribute nothing worth a column; the Memphis Dust is the entire carb figure, and it is small. **No net-carb figure and no 🥑 tag**, for the standing reason: this is Cody's own recipe and nothing printed one — though with a salt-and-pepper rub it is effectively zero-carb.
+
+#### D. Open Questions
+
+- ⚠️ **129°F or 131°F for the two-day bath?** He said 129°F for this dish; his own [§1](#1-codys-pho) rule for the same cut and duration says *do not*, and [CLAUDE.md §6](CLAUDE.md) records 131–133°F. Step 2 prints 131°F as the cookbook's reading with his 129°F beside it. **One word from him settles it** — and if it is 129°F, the entry should say so and carry the §1 conflict on both entries rather than on this one alone.
+- ⚙️ **When does the rub go on — in the bag, or before the smoke?** Written *before the smoke*, with the salt, garlic powder and pepper alone in the bag, as the cookbook's reconciliation of *your choice of seasoning* with the bag rule. If he seasons the bag with the full rub, Step 1 changes and the seasoning note comes down.
+- ❓ **A hot browning at the end, like [§6.10](#610-sous-vide-brisket-richies-method)?** He said *very similar to the sous vide brisket* but named only the smoke. Not added. If he opens the Egg up and gives it a turn-every-minute browning after the four hours, that is a Step 6½.
+- ❓ **Butter in the bag?** Richie's method puts a piece in; Cody didn't mention it here. Not added.
+- ❓ **What size roast, and how many at a time?** The 4 lb is the cookbook's; [§1](#1-codys-pho) runs three roasts at 10–12 lb total, which suggests 3½ to 4 lb each. Whether the smoker gets one roast or all of them isn't recorded.
+- ❓ **Is "a day" on ice a full 24 hours, or overnight?** Written as he said it — a day. [§6.10](#610-sous-vide-brisket-richies-method)'s is overnight; either is enough to chill a roast through.
+- ⚙️ **Every minute count and the serving size are the cookbook's**, per [CLAUDE.md §3d](CLAUDE.md). His *probably takes an hour* is the figure the [Meal Planning Sheet](#meal-planning-sheet) carries, marked †, grill included.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 6.13 Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)
+
+**❤️ Family favorite** — *Cody, 2026-09-09 (final), naming it a ⭐ Staple Main.*
+
+**Cody's own, dictated 2026-09-09 (final), and it is [§6.11 Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) ❤️ on a chicken.** In his words: ***"Let's call it beer can chicken even though it's not — it's that chicken stand where it sits upright. It's done the same way as the turkey except it's chicken. Different grill temperature and definitely time, and the internal temperature — use your judgment."***
+
+> 🍺 **There is no beer can in this recipe. "Beer can chicken" is Cody's nickname for the shape of the thing — a whole bird standing upright on a stand — and he says so himself: *"even though it's not."*** Nothing goes in the cavity but the stand. **This cookbook already has Meathead's verdict on the actual beer-can method, and it agrees with Cody: [§T78 Myth — Beer Can Chicken Is the Best Way to Cook a Bird](#t78-myth--beer-can-chicken-is-the-best-way-to-cook-a-bird)** — the beer never gets hot enough to steam, adds no flavor, cools the center of the bird so it undercooks, and *wiggling that can out of the cavity can cause a nasty burn.* **The better way Meathead names in its place is exactly what Cody does:** [§T77](#t77-tips-on-cooking-poultry)'s *vertical roast* — *a vertical wire roasting frame, which allows air to enter the cavity and cook the meat on the inside… the legs are closer to the heat, so they get close to their optimal temperature while the breasts lag just the right amount behind.* So the nickname stays, because it is his, and the method is the stand.
+
+> 🧂 **Same two products as the turkey, and they are two different things — same company.** ***Tony Chachere's Creole Style Butter Injectable Marinade*** goes *inside* through a needle; ***Tony Chachere's Original Creole Seasoning*** goes *on* as the rub. **Tony's is salted, so the rub is the dry brine and no kosher salt goes on this bird** — [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s ⚠️ warning applies word for word and is not repeated here; read it. [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) runs the same rule: *Tony's is the salt — don't add more.*
+
+> 🌡️ **"Different grill temperature and definitely time, and the internal temperature — use your judgment." So all three are cookbook judgment under [CLAUDE.md §3d](CLAUDE.md), labelled, and his figures supersede them the day he gives them.**
+>
+> - **Grill temperature — 350°F, indirect.** Big Green Egg's own whole-chicken recipes — its *Beer Can Chicken* and its vertical-roaster chicken — set the Egg for **indirect cooking with the convEGGtor at 350°F**, and its whole-bird timing runs about **1¼ to 1½ hours for a 4 lb bird** to 165°F. *(Named from the Egg's own recipe pages; no URL is attached, per §3d.)* **This cookbook's other poultry authority lands within a step of it:** Meathead at [§T77](#t77-tips-on-cooking-poultry) starts whole birds at **325°F** to render the fat and crisp the skin, and moves to **350 to 400°F** if the skin isn't crisp at 145°F; [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) calls 325°F *the recommended poultry temperature.* **So 350°F is the number here, and it is the *"different grill temperature"* he meant** — 25°F hotter than the turkey's 325°F, which a 4 lb bird wants and a 14 lb bird doesn't, because a small bird finishes before its skin has had time to crisp at the lower number.
+> - **Time — about 1¼ to 1½ hours for a 4 to 5 lb bird at 350°F, on the probe, not the clock.** That is the Egg's own range and it is *"definitely"* less than the turkey's three hours. Bigger bird, longer; the thermometer decides.
+> - **Internal temperature — pull at 160°F in the breast and let carryover finish it at 165°F; the thigh should read 170°F or more.** **USDA FSIS's minimum for all poultry is 165°F** ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)'s table: *165°F USDA; most chefs pull at 160°F to let carryover finish the job*). **Meathead's own numbers at [§T77](#t77-tips-on-cooking-poultry): white meat to 160°F and carryover to 165°F; dark meat is best at about 170°F**, and an upright bird gets that split for free — the thighs sit lowest and nearest the heat. **This is also Cody's own turkey rule** ([§6.11](#611-codys-tony-chacheres-smoked-turkey) Step 7, set on [§7.122](#7122-the-ultimate-smoked-turkey)): *160°F in the breast, at the very most.* A chicken carries over less than a turkey — a smaller mass — so **if you would rather not lean on carryover at all, take the breast to 165°F on the probe**; the difference is a few minutes.
+
+**Techniques used:** [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(the vertical roast, the 160/170°F split, and the "chimney" trick)* · [§T78 Myth — Beer Can Chicken](#t78-myth--beer-can-chicken-is-the-best-way-to-cook-a-bird) · [§T37 Salt, Brining, and the Dry Brine](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) *(the overnight Tony's **is** the dry brine)* · [§T35 Smoke Science](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) *(a palmful of wood — and poultry oversmokes easily)* · [§T109 Indirect Heat](#t109-indirect-heat--putting-something-between-the-fire-and-the-food) · [§T67 Ban the V-Shaped Rack](#t67-ban-the-v-shaped-rack) *(air on every side)* · [§T44 Food Safety — Target Temperatures](#t44-food-safety--the-real-logic-and-the-target-temperature-table) · [§T95 Cutting Up a Chicken](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) *(carving)*
+
+**Serves 4 from one bird** *(a 4 to 5 lb chicken; **two birds on two stands** if the Egg has room and the family is six — small birds cook better than big ones, [§T80](#t80-choosing-your-turkey)'s rule applies to chickens too)*
+
+**🟢 Easy** · **Prep ~30 min** *(the night before: unbagging, injecting, rubbing, onto the stand, ~20 min; the day of: probe, wood, on and off, ~10 min)* · **Slow cook ~1¼–1½ hr** *(350°F indirect on the Egg, to temperature — under two hours, but a smoker is Slow cook at any length per [CLAUDE.md §3a](CLAUDE.md))* · **Start to finish ~1 day** *(includes the overnight dry brine)*
+
+> **Why 🟢 Easy — same walk as [§6.11](#611-codys-tony-chacheres-smoked-turkey).** Injecting can't fail. Rubbing can't fail. A night on a stand in the fridge can't fail. Bringing an Egg to 350°F can't fail. **The one thing that can go wrong with a chicken — overshooting the breast — is a pull-at-a-number with a leave-in probe, not a technique**, and the upright stand puts the thighs nearer the fire than the breast, which is the right way round. The bird goes on once and comes off once.
+
+#### A. Ingredients
+
+- **1 whole chicken, 4 to 5 lb** — thawed all the way through *(size is the cookbook's — he named none; see Open Questions. Giblets out)*
+- **Tony Chachere's Creole Style Butter Injectable Marinade** — ***"a whole bunch,"*** same as the turkey; **a chicken takes about a third to half a bottle** *(cookbook estimate — Tony's own direction is *use as much as you'd like*, spaced over many sites)*
+- **Tony Chachere's Original Creole Seasoning** — **liberally**, every surface and inside the cavity. **This is the salt. No kosher salt goes on this bird** *(the green-label **Original**, not the BOLD blend [§7.9](#79-caveman-chicken-wings) uses)*
+- **Smoking wood — a palmful of pecan or hickory, no more** *(his rule, [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke); and [§T77](#t77-tips-on-cooking-poultry): poultry likes smoke, *but not too much*)*
+
+*Not groceries, and per [CLAUDE.md §3e](CLAUDE.md) all orderable online if the store is out:* **an upright chicken stand** *(a vertical poultry roaster — the cone or wire frame that goes up into the cavity; **not a beer can.** The turkey stand from [§6.11](#611-codys-tony-chacheres-smoked-turkey) works if a chicken sits on it without wobbling; most are sized for both)*, **a marinade injector**, a **Big Green Egg or kamado with the convEGGtor**, a **drip pan**, a **sheet pan** for the fridge, and a **leave-in probe thermometer**.
+
+#### B. Cooking Instructions
+
+**1. The night before — unbag, giblets out, pat it dry.**
+Neck and giblets out, any pop-up timer out and in the trash *(they're wrong — [§T81](#t81-cooking-the-perfect-turkey))*, and **pat the bird dry inside and out** — the rub sticks to dry skin. If the legs are tied, cut the tie; on a stand they hang free. *(The drying is the cookbook's gloss, as on [§6.11](#611-codys-tony-chacheres-smoked-turkey); the rest is the same start every whole bird here gets.)*
+
+**2. Inject it — the Creole Butter marinade, all over the bird.**
+**Shake the bottle hard** — it separates. Then **both breasts at several sites, in from the side and from the top; both thighs; both drumsticks.** Small doses at many sites, pulling the needle back a little as you press so the marinade spreads along the track. **Some runs back out; keep going.** ***"A whole bunch"*** is his amount and Tony's own direction; a chicken is a third the size of the turkey and takes about that fraction of the bottle. *(Site-by-site technique is cookbook gloss, same as [§6.11](#611-codys-tony-chacheres-smoked-turkey) Step 2.)*
+
+**3. Tony's Original Creole Seasoning, liberally. Every surface, into the cavity. No salt.**
+**This is the dry brine** ([§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)) — Tony's is salt-forward, the salt goes in overnight, the seasoning goes with it. Breast, back, legs, wings, under the wings, a shake inside. **No kosher salt, nothing else** — [§6.1](#61-smoked-brisket)'s Path B: *the salted rub the night before instead of a plain-salt brine, never on top of one.*
+
+**4. Onto the stand, upright, uncovered, in the fridge. Overnight.**
+Stand on a sheet pan, **bird lowered onto it so the stand goes up into the cavity and it sits upright**, and into the fridge **uncovered, overnight.** The salt travels in and the open fridge air dries the skin so it crisps instead of steams — [§7.9](#79-caveman-chicken-wings)'s reasoning for its own overnight Tony's. *(Overnight is his; [§T37](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time)'s floor for a whole chicken is a few hours, so overnight is comfortably inside it.)*
+
+**5. Next day — the Egg to 350°F, indirect, a palmful of wood, blue smoke.**
+**350°F** ⚙️ *(cookbook fill from the Egg's own whole-chicken recipes; see the note above)*, **convEGGtor in** ([§T109](#t109-indirect-heat--putting-something-between-the-fire-and-the-food)), a **drip pan** under where the bird will stand — a butter-injected bird drips a lot — and **a palmful of pecan or hickory, no more.** **Wait for thin blue smoke** before the bird goes on ([§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke); [§6.1](#61-smoked-brisket) Step 4 has the full rule), and give a ceramic cooker time to settle at the number.
+
+> 🔪 **Optional, Meathead's trick, cookbook suggestion:** [§T77](#t77-tips-on-cooking-poultry) says the inside of a vertically roasted bird still won't brown because the air gets trapped — so *insert a knife down into the neck cavity from above and open a "chimney" connecting to the abdominal cavity, so hot air can travel through.* Thirty seconds with a knife before it goes on. Not his instruction; offered because it is his stand's one known weakness and the fix is free.
+
+**6. Bird on, on its stand. Probe in the breast. Dome down, leave it alone. About 1¼ to 1½ hours.**
+Lift the bird **on its stand** from the sheet pan onto the grate over the drip pan. **Leave-in probe into the thickest part of the breast**, a little past dead center, not touching bone — the recipe runs on that number. Close the dome and **don't open it**: no basting, no peeking. **Figure 1¼ to 1½ hours for a 4 to 5 lb bird at 350°F** ⚙️ *(the Egg's own range — a planning number, not a pull time)*. *(Standing upright, the thighs sit nearest the fire and the breast highest and farthest from it — [§T77](#t77-tips-on-cooking-poultry)'s whole argument for the stand, and the reason the dark meat lands hotter than the white without any help.)*
+
+**7. Pull at 160°F in the breast — his turkey rule — with the thigh at 170°F or better. Or take the breast to 165°F if you'd rather not lean on carryover.**
+⚙️ **Cookbook judgment, from the sources named above:** **USDA FSIS's floor is 165°F everywhere in the bird**; **Meathead's split is 160°F white meat with carryover to 165°F, and about 170°F dark**; **Cody's own turkey rule is 160°F in the breast, at the very most.** So: **breast 160°F on the probe, check a thigh — it should read 170°F or more on an upright bird — then off.** A chicken carries over only a few degrees, so watch it come up on the board; **if you want to see 165°F on the probe before it comes off, do that — it costs a few minutes and nothing else.** Past 165°F the breast dries out fast.
+
+**8. Off the Egg, off the stand, carve right away. Don't tent it.**
+**The stand and the bird are hot and the bird is slippery with butter** — thick gloves, a board with a channel. Slide the bird off the stand *(the cavity opening faces down — a folded towel around the bird, lift straight up)*. **Carve now**, no foil — steam under foil softens the skin you just spent a night and an hour and a half crisping ([§T81](#t81-cooking-the-perfect-turkey); [§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) on why resting is a myth). [§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) has the carving; quarters is the easy way for four. **Whatever is on the board and in the drip pan is Creole butter and chicken — spoon it over.** *(Cookbook suggestion, as on the turkey.)*
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 **Whole chicken — 4 to 5 lb** *(two, if the Egg has room and you want leftovers; giblets out)*
+- 🛒 **Tony Chachere's Creole Style Butter Injectable Marinade** — 1 bottle *(a chicken uses a third to half of it; marinade aisle or with the Cajun seasonings; **orderable online**)*
+- 🛒 **Tony Chachere's Original Creole Seasoning** — the green-label **Original** *(this is the salt — buy nothing else to salt it with)*
+- 🛒 Smoking wood — a palmful; pecan or hickory
+- 🛒 Paper towels, and a disposable foil drip pan
+
+**🧰 Equipment — buy once, orderable online per [CLAUDE.md §3e](CLAUDE.md)**
+
+- 🧰 **Upright chicken stand** — a vertical poultry roaster; **not a beer-can rig**. The [§6.11](#611-codys-tony-chacheres-smoked-turkey) turkey stand does double duty if a chicken sits steady on it
+- 🧰 **Marinade injector** — if the bottle doesn't come with one
+- 🧰 Leave-in probe thermometer
+
+#### Nutrition *(estimated — on an assumed 4½ lb bird and an assumed amount of injection, both labelled)*
+
+**No size and no measured injection were given.** The block runs on a **4½ lb chicken** and on **about ⅓ cup of the Creole Butter marinade actually staying in the meat** *(more goes in; some runs out at the needle and more drips off)*, figured the same way as [§6.11](#611-codys-tony-chacheres-smoked-turkey) — a seasoned, butter-flavored oil emulsion at roughly 30 calories and 3 g of fat an ounce. The seasoning adds no calories. Scale linearly for a different bird. *(Estimated per [CLAUDE.md §3b](CLAUDE.md).)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(a 4½ lb bird, meat and skin as eaten, plus ~⅓ cup of injection retained)* | ~2,950 | 172 g | 325 g | 2 g | 0 g |
+| **Per serving** *(serves 4)* | ~740 | 43 g | 81 g | 0.5 g | 0 g |
+
+**What a serving is:** **a quarter of the bird — a leg quarter, or a breast half with its wing — about 10 oz of meat with the skin on**, with a spoon of the board juices over it. Skin off, figure about 500 calories and 20 g of fat instead.
+
+**The number that moves here is sodium, which these blocks don't track** — a liberal coat of a salt-forward seasoning over a salted injection, on a bird that may have been salted by the processor too. Same reason for the salt warning as on the turkey.
+
+#### D. Open Questions
+
+- ⚙️ **Grill temperature, time, and pull temperature are all cookbook judgment — he said *use your judgment*.** 350°F indirect and 1¼–1½ hours from Big Green Egg's own whole-chicken recipes, agreeing with Meathead at [§T77](#t77-tips-on-cooking-poultry); 160°F breast / 170°F thigh from USDA FSIS's 165°F floor, Meathead's white/dark split, and his own turkey rule. **His figures supersede all three the day he gives them.**
+- ❓ **What size bird, and one or two?** 4 to 5 lb is the cookbook's; he named none. Two small birds beat one big one, and whether his Egg takes two stands side by side isn't recorded.
+- ❓ **How much of the injectable goes into a chicken?** *"A whole bunch"* is his amount; a third to half a bottle is the cookbook's read of it scaled down from the turkey.
+- ❓ **Which wood, and does he use any on a chicken?** Not stated. Pecan is his favorite across this book; a palmful is the only firm part.
+- ❓ **Does the turkey stand work for a chicken, or does he own a smaller one?** Written as either.
+- ❓ **The "chimney" cut** ([§T77](#t77-tips-on-cooking-poultry)) is offered as a suggestion. Not his; take it off if he doesn't want it.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 7. Mains & Proteins
 
 ### 7.1 Pulled Pork Tacos
@@ -25832,7 +26239,7 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 > 🍝 **What the sauce goes over — three options, Cody's, 2026-09-09.** *"Fried cabbage goes great with the spaghetti sauce; a great substitute for noodles. We cook noodles anyway because the kids eat them — get the really high-quality protein noodles."* So the sauce is served over any of:
 >
 > - **High-protein pasta — the noodles the kids get.** *(⚙️ Cookbook judgment on the type, per [CLAUDE.md §3d](CLAUDE.md): the two credible, widely stocked kinds are **Banza** — chickpea pasta, about 11 g of protein and 5 g of fiber per 2 oz serving — and **Barilla Protein+** — a wheat pasta with lentil, chickpea and pea protein blended in, about 10 g of protein per serving. Either is on the regular grocery shelf; Banza is the one with the fewer net carbs. Cody named neither brand, only "really high-quality protein noodles"; his own pick supersedes this.)*
-> - **[§5.5 Salted Sautéed Zucchini](#55-zucchini)** — his noodle substitute, being written up: *"a really salty sautéed zucchini so I can pour the chili or the spaghetti sauce over it."*
+> - **[§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute)** ❤️ — his noodle substitute, written up 2026-09-09: *"a really salty sautéed zucchini so I can pour the chili or the spaghetti sauce over it."*
 > - **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)** 🥑 — *"a great substitute for noodles."*
 >
 > The same three options are on [§8.1 Chili Mac](#81-chili-mac).
@@ -25846,7 +26253,7 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 - 2 (15 oz.) cans tomato sauce
 - 1 (15 oz.) can diced tomato
 - 1 (7 oz.) can tomato paste
-- 1 box noodles or ravioli — **high-protein pasta** (Banza chickpea or Barilla Protein+, cookbook's named types), **or serve the sauce over [§5.5 salted sautéed zucchini](#55-zucchini) or [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) instead** — see the note above
+- 1 box noodles or ravioli — **high-protein pasta** (Banza chickpea or Barilla Protein+, cookbook's named types), **or serve the sauce over [§5.5 salted sautéed zucchini](#55-salted-sautéed-zucchini-noodle-substitute) or [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) instead** — see the note above
 - Italian seasoning, to taste
 - Salt & pepper, to taste
 - 1 tsp garlic
@@ -25880,7 +26287,7 @@ Boil the noodles or ravioli per the package, top with the sauce, and serve with 
 - 🛒 Tomato sauce — 2 × 15 oz. cans
 - 🛒 Diced tomato — 1 × 15 oz. can
 - 🛒 Tomato paste — 1 × 7 oz. can
-- 🛒 Noodles or ravioli — 1 box; **high-protein pasta** (Banza or Barilla Protein+) per Cody's 2026-09-09 note — or skip it and make [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) or [§5.5 zucchini](#55-zucchini) as the base
+- 🛒 Noodles or ravioli — 1 box; **high-protein pasta** (Banza or Barilla Protein+) per Cody's 2026-09-09 note — or skip it and make [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) or [§5.5 zucchini](#55-salted-sautéed-zucchini-noodle-substitute) as the base
 - 🛒 Italian seasoning
 - 🛒 Salt & pepper
 - 🛒 Garlic
@@ -37386,6 +37793,119 @@ Preheat the bath to **148°F** and put all three bags in, standing or leaning so
 
 ---
 
+### 7.152 Gluten-Free Fried Shrimp
+
+**❤️ Family favorite** — *Cody, 2026-09-09 (final), naming it a ⭐ Staple Main.*
+
+**Cody's own, dictated 2026-09-09 (final).** In his words: ***"Large shrimp, peeled (that doesn't have to be peeled — buy peeled), egg soak to take the fishy taste away, gluten-free — almond flour, maybe cornmeal and almond flour, I don't care. Fry in something besides canola or peanut — avocado oil? some healthy alternative. Lemons to squeeze on. Use your judgment."***
+
+> **📌 What's his, what's the cookbook's — labelled per [CLAUDE.md §3d](CLAUDE.md).** **His:** large peeled shrimp; the [§T17 egg soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) first; a gluten-free coat of almond flour, with cornmeal allowed; a frying oil that is not canola or peanut, avocado oil named; lemons. **The cookbook's:** every quantity, the count-per-pound reading of *large*, the dredge seasoning, the oil temperature and depth, the batch timing, and the decision to leave the egg on rather than rinse. **His own figures supersede these the day he gives them.**
+
+> 🥚 **The egg soak is Step 1, and this is the recipe that runs [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)'s frying exception.** §T17 Part B, step 5: *"if you're frying, you can skip the rinse — when the seafood is headed into a batter or a dredge that uses egg anyway, the coat is already doing the next job."* So here the eggs do two jobs at once: they pull the fishy edge off shrimp that has traveled to Missouri (*"we do an egg soak for practically all of the seafood that's bought in Missouri"* — his general rule on §T17), and then they are the egg wash the almond flour sticks to. **Fifteen minutes is still the ceiling** — past it the soak starts pulling out the flavor of the shrimp itself.
+
+> 🌾 **Gluten-free is the requirement; keto is not — and the difference is the cornmeal.** Almond flour alone is a keto coat, the same idea as the whey-protein breading on [§7.21 Fried Chicken (Low-Carb)](#721-fried-chicken-low-carb-whey-breaded) 🥑. **Cornmeal is gluten-free but it is not low-carb** — it is corn, a grain, and it brings about 12 g of carbohydrate per serving with it in the amount below. He said *"maybe cornmeal and almond flour, I don't care,"* so it is here as an option, labelled for what it does: it makes the crust crunchier and more like a Southern fry, and it takes the dish out of keto range. Choose by which of those matters that night.
+
+> 🫒 **Avocado oil for the fry — his suggestion, and the cookbook says yes, with the reasoning labelled.** [§T3](#t3-butter-oil-pan-frying--frying) (Prudhomme) names **peanut oil** as the best deep-frying oil, and Cody has ruled it out along with canola. **Avocado oil is a legitimate frying oil on the one number that matters: its smoke point** — refined avocado oil holds above 500°F, which is why this cookbook already reaches for it wherever a pan gets screaming hot ([§3 Darcy's Steak](#3-darcys-steak) Step 6, [§7.151](#7151-sous-vide-chicken-thighs-for-the-family-seared) Step 5, [§6.10](#610-sous-vide-brisket-richies-method)'s burnt ends), and 350°F frying oil is well inside that. [§T30](#t30-how-to-use-fat) (Nosrat) makes the general rule: *neutral oils that handle high heat are your frying oils.* It is expensive by the quart, so this recipe is written as a **shallow deep-fry — 1 inch of oil in a heavy pot**, not [§7.21](#721-fried-chicken-low-carb-whey-breaded)'s three inches; a shrimp is small and floats, and an inch covers it. **Every one of [§T3](#t3-butter-oil-pan-frying--frying)'s four keys still applies:** fresh oil, enough to submerge, 350°F and hold it, bread at the last second.
+
+**Techniques used:** [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) *(Step 1 — and the frying exception)* · [§T3 Butter, Oil, Pan Frying & Frying](#t3-butter-oil-pan-frying--frying) *(the four keys to frying)* · [§T6 Seafood Notes](#t6-seafood-notes) *(buying shrimp)* · [§T30 How to Use Fat](#t30-how-to-use-fat) *(crisp, and why the pan can't be crowded)* · [§T31 How to Use Acid](#t31-how-to-use-acid) *(the lemon is not a garnish)*
+
+**Serves 4**
+
+**🟡 Medium** · **Prep ~25 min** *(the egg soak is 7–15 unattended minutes inside that; peeling if the shrimp came shell-on; the dredge)* · **Cook ~15 min** *(heating the oil, then three or four batches of 2–3 minutes)* · **Start to finish ~40 min**
+
+> **Why 🟡 Medium — the same call as [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded), and for a tighter reason.** Per [CLAUDE.md §3a](CLAUDE.md), difficulty is technique risk: *can a step go from perfect to ruined?* The soak can't fail and the dredge can't fail. **The fry can, two ways at once, and both windows are short.** A shrimp goes from just-cooked to rubbery in about a minute — there is no doneness cushion, and you can't probe a shrimp. And **almond flour browns faster than wheat flour** — it is ground nuts, fat and sugar — so the crust goes from golden to burnt in the time a flour crust would just be starting to color. Holding 350°F on a thermometer, small batches, and pulling at *golden* is a can't-walk-away step. That is 🟡; nothing else in the recipe adds to it.
+
+**Special equipment:** a **clip-on deep-fry or candy thermometer** (this recipe is run on it), a **heavy pot or deep cast-iron skillet**, a **spider or slotted spoon**, and a **wire rack** over a sheet pan.
+
+#### A. Ingredients
+
+**Shrimp**
+
+- **1½ lb large shrimp, peeled and deveined, tails on or off** — ***"buy peeled."*** ⚙️ *Cookbook reading of "large": the **26–30 or 31–35 count per pound** — the count is the only size label that means anything, and at most counters 31–35 is sold as "large" and 26–30 as "extra-large" (America's Test Kitchen's shrimp-buying rule, and the industry's own grading). Either gives 8 to 12 shrimp a person. Raw, never precooked ([§T6](#t6-seafood-notes)); fresh-frozen is fine and usually better than the "fresh" case in Missouri ([§7.22](#722-captain-mikes-ceviche)'s note)*
+
+**Egg soak — and then the egg wash, same eggs** *([§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish))*
+
+- **2 large eggs**, cracked over the shrimp *(§T17's rate is about 1 egg per 2 lb; two here so there is enough coat left for the flour to grip)*
+
+**Dredge — gluten-free**
+
+- **1 cup blanched almond flour, fine** *(his)*
+- **Optional: ½ cup fine yellow cornmeal** *(his "maybe" — **gluten-free, not keto**; see the note above. Buy one labelled gluten-free if it matters; cornmeal is milled on shared lines more often than you'd think)*
+- **1 teaspoon kosher salt · 1 teaspoon paprika · ½ teaspoon garlic powder · ½ teaspoon black pepper · a pinch of cayenne** *(cookbook's — the same spice pattern as [§7.21](#721-fried-chicken-low-carb-whey-breaded)'s breading. **Or 2 teaspoons of Tony's** in place of all of it, the way [§7.2](#72-boiled-shrimp-with-tonys) seasons shrimp — Tony's carries the salt, so drop the kosher salt if you go that way)*
+
+**Frying**
+
+- **Avocado oil — enough for 1 inch in the pot**, about **3 cups in a 10-inch pot** *(his oil; the amount is the cookbook's)*
+
+**To serve**
+
+- **2 lemons, cut in wedges** — ***"lemons to squeeze on."*** Required, not garnish
+- Flaky salt, optional
+
+#### B. Cooking Instructions
+
+**1. The egg soak. Crack the eggs over the shrimp in a colander, toss, and let it sit — 7 to 15 minutes, scaled to how fishy it smelled. Do NOT rinse.**
+[§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish), exactly: shrimp in a colander in the sink, **two whole eggs cracked over the top, mixed through by hand until every shrimp is coated**, then left alone. **Smell the bag first** — *fishy* means the full 15; a mild funk means 7 or 8, which is where Cody has gone on shrimp and had it work; **zero smell means the soak does nothing, but do the egg anyway, because you need the coat** *(that is the cookbook's note — the soak is a flavor fix, and here the egg has a second job regardless)*. **Then this recipe parts ways with §T17's Step 4: don't rinse.** Lift the shrimp out, let the excess egg run back into the bowl, and go straight to the flour — that is §T17's own frying exception. **Fifteen minutes is the ceiling.**
+
+**2. While it soaks — the oil to 350°F, the dredge in a bag, the rack ready.**
+**An inch of avocado oil** in a heavy pot or deep cast-iron skillet, **clip-on thermometer in**, over medium-high to **350°F** — [§T3](#t3-butter-oil-pan-frying--frying)'s number, and the one [§7.21](#721-fried-chicken-low-carb-whey-breaded) runs at too. Fresh oil, never used before ([§T3](#t3-butter-oil-pan-frying--frying)'s first key). **Almond flour, cornmeal if using, and the seasonings into a gallon zip-top bag**, shaken. A **wire rack over a sheet pan** beside the stove — not paper towels, which steam the underside soft.
+
+**3. Dredge — a handful at a time, shake, and shake the loose flour OFF. Bread only what is about to go in.**
+**Six to eight shrimp into the bag, seal, shake gently to coat, then lift each one out and shake the loose flour off** — [§T3](#t3-butter-oil-pan-frying--frying): *anything loose in the oil weakens the seal.* **Do not bread the whole batch ahead.** Almond flour on a wet shrimp goes gummy faster than wheat flour, and [§T3](#t3-butter-oil-pan-frying--frying)'s fourth key is the rule here: *bread it, fry it, immediately.* Dredge a handful, fry that handful, dredge the next while it fries.
+
+**4. Fry in small batches, 2 to 3 minutes a batch, to golden — not brown. Hold the oil at 350°F.**
+**Eight to ten shrimp at a time in a 10-inch pot — no more.** They cook fast and they crowd fast: too many and the oil temperature crashes, the crust soaks instead of sealing, and the shrimp steam grey inside a soggy coat ([§T3](#t3-butter-oil-pan-frying--frying); [§T30](#t30-how-to-use-fat)). **In, and they will sink and then float; turn them once with the spider at about a minute. Out at 2 to 3 minutes, when the coat is a deep golden and the shrimp have curled into a loose C.** ⚠️ **Two short windows, and they close together:** **a shrimp curled into a tight O is overcooked** — rubbery, and there is no way back — **and almond flour goes from golden to burnt in about thirty seconds** once it starts to color. *Golden* is the word; if a batch comes out mahogany, the oil was too hot or the batch stayed in too long. **Ride the burner between batches** — the oil drops when the shrimp go in and climbs when they come out; let it come back to 350°F before the next handful.
+
+**5. Onto the rack, salt lightly, and squeeze the lemon over while they're hot.**
+Straight from the oil to the rack — a shrimp left on paper towels for a minute is a soft shrimp. A pinch of flaky salt if they want it *(they may not — the dredge is salted, or Tony's is)*. **Then the lemon, and it is not optional:** ***"lemons to squeeze on."*** [§T31](#t31-how-to-use-acid) is the reason it matters — a fried, salted thing is rich and flat until acid cuts it, and lemon over hot shrimp is the whole finish. Wedges on the table too.
+
+**6. Serve at once.**
+Fried shrimp have about ten good minutes. On the [Meal Planning Sheet](#meal-planning-sheet) this is a staple main; it wants a salad next to it — [§5.64 Quick Salad](#564-quick-salad-with-homemade-dressing), or [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) — and if the oil is already hot, **[§5.5](#55-salted-sautéed-zucchini-noodle-substitute)'s Variation B is the same coat in the same oil**, so the zucchini can go in right after the shrimp.
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — fish counter**
+
+- 🏪 **Large shrimp — 1½ lb, raw, peeled and deveined** *(26–35 count per pound; fresh-frozen is fine — see [§T6](#t6-seafood-notes) and the ⚙️ note above)*
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 2 large
+- 🛒 Almond flour, blanched, fine — 1 cup
+- 🛒 Fine yellow cornmeal — ½ cup *(optional; **gluten-free label** if it matters; not keto)*
+- 🛒 Paprika, garlic powder, black pepper, cayenne, kosher salt *(or Tony's Original Creole Seasoning — you have it)*
+- 🛒 **Avocado oil — about 3 cups** *(a 1-quart bottle; fresh, per [§T3](#t3-butter-oil-pan-frying--frying) — and buy it in the quantity you'll use, because this oil isn't saved for next time)*
+- 🛒 Lemons — 2
+- 🛒 Flaky salt *(optional)*
+
+**Not a grocery item, but required:** a clip-on deep-fry thermometer, a spider or slotted spoon, and a wire rack.
+
+#### Nutrition *(estimated)*
+
+*The almond-flour-only coat. The cornmeal option is figured below the table.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~1,400 | 94 g | 116 g | 20 g | 9 g |
+| **Per serving** *(serves 4)* | ~350 | 24 g | 29 g | 5 g | 2 g |
+
+**What a serving is:** **8 to 12 fried shrimp — about 6 oz raw weight — with a lemon wedge or two**, the meat of a dinner plate with a salad beside it. Shrimp is lean; the fat here is the almond flour and the oil it carries.
+
+*Estimated from the ingredient list, not from a printed source — **the quantities are the cookbook's, not Cody's** (see the judgment note at the top), and **counting only what's eaten**: roughly one egg's worth of the two stays on the shrimp, about two-thirds of the cup of almond flour goes in with it (the rest stays in the bag and on the rack), and about **3 tablespoons of the frying oil** are absorbed across the batch — the other 2¾ cups stay in the pot. **The cornmeal option adds about 110 calories and 12 g of carbs per serving** if you use the full half cup, which is what takes the dish out of keto range. **No net-carb figure is printed and no 🥑 tag is given**, for the same standing reason as [§7.151](#7151-sous-vide-chicken-thighs-for-the-family-seared) and [§5.7](#57-brussels-sprouts): [CLAUDE.md §3c](CLAUDE.md)'s signal is a source that prints net carbs, and this is Cody's own recipe from no book — though **the almond-flour-only version lands at about 3 g net a serving**, inside the range of every tagged recipe in the keto callout, and the cornmeal version does not. One word from him adds the tag to the almond-flour version.*
+
+#### D. Open Questions
+
+- ⚙️ **Shrimp size.** *Large* is written as 26–35 count per pound, the cookbook's reading; the count on the bag he buys settles it.
+- ⚙️ **Almond flour only, or almond flour and cornmeal?** He said *"I don't care."* Both are here; the cornmeal is labelled for what it costs in carbs. If one is the house version, it should lead.
+- ⚙️ **The dredge seasoning, the oil depth, the oil temperature, the batch size and the timing are all the cookbook's**, per [CLAUDE.md §3d](CLAUDE.md), reasoned from [§T3](#t3-butter-oil-pan-frying--frying) and [§7.21](#721-fried-chicken-low-carb-whey-breaded). One night's frying replaces them.
+- ⚙️ **Leave the egg on, or rinse and re-wash?** Written *leave it on*, which is [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)'s own frying exception. If he rinses after the soak and beats fresh eggs for the wash, that is two more eggs and one more step.
+- ❓ **Does he want the 🥑 on the almond-flour version?** It qualifies on the numbers; no tag, per this book's standing reading of [CLAUDE.md §3c](CLAUDE.md).
+- ❓ **A dipping sauce?** He named lemon and nothing else. The book has [§4.23 Remoulade](#423-remoulade-sauce) ❤️ and [§4.124 Tartar Sauce](#4124-tartar-sauce) if he wants one; neither is written in.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
 ## 8. Soups & Chili
 
 ### 8.0 The Hearty Main Course Soup Formula
@@ -37622,7 +38142,7 @@ Transcribed from Cody's photographed recipe card — a **crock-pot chili** built
 > 🍝 **What the chili goes over — Cody, 2026-09-09: the noodles, or a noodle substitute.** His note was made about [§7.18 Spaghetti](#718-spaghetti) and extended here in the same breath — *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles. We cook noodles anyway because the kids eat them — get the really high-quality protein noodles. Might be good for chili mac too."* So the chili ladles over any of:
 >
 > - **High-protein pasta** for the noodles — *(⚙️ cookbook judgment on the type, per [CLAUDE.md §3d](CLAUDE.md): **Banza** chickpea pasta or **Barilla Protein+**; both are credible, widely stocked, and hold up under a heavy sauce. Cody named neither brand; his own pick supersedes this.)*
-> - **[§5.5 Salted Sautéed Zucchini](#55-zucchini)** — his noodle substitute, being written up: *"so I can pour the chili or the spaghetti sauce over it."*
+> - **[§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute)** ❤️ — his noodle substitute, written up 2026-09-09: *"so I can pour the chili or the spaghetti sauce over it."*
 > - **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)** 🥑 — *"might be good for chili mac too."*
 >
 > Same three options on [§7.18](#718-spaghetti). Whatever the base, the rule in the correction above still holds: **it is cooked separately and the chili goes over it** — nothing but the chili goes in the crock pot.
@@ -37669,7 +38189,7 @@ Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sa
 - 🛒 Prepared chili — 2 cans
 - 🛒 Black beans — 1 can
 - 🛒 Chili seasoning — 1 packet
-- 🛒 Noodles — 1 lb *(boiled separately at serving)*; **high-protein pasta** (Banza or Barilla Protein+) per Cody's 2026-09-09 note — or [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) / [§5.5 zucchini](#55-zucchini) as the base instead
+- 🛒 Noodles — 1 lb *(boiled separately at serving)*; **high-protein pasta** (Banza or Barilla Protein+) per Cody's 2026-09-09 note — or [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) / [§5.5 zucchini](#55-salted-sautéed-zucchini-noodle-substitute) as the base instead
 - 🛒 Crystal hot sauce — 1 container
 - 🛒 Shredded cheese — 1 bag
 

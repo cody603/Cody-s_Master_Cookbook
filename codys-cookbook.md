@@ -2616,6 +2616,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (p. 254). A rich 
 
 **🟡 Medium** *(the roux here is a **blond** one — 1 minute, pulled the instant it colors — which per the [roux tiers](#difficulty--time-index) earns no 🔴 at all; the Medium is for the rest: a butter-and-cream sauce that can break if the cream goes in fast, and shrimp that go rubbery a minute past done)* · **Prep ~15 min** · **Cook ~10 min** · **Start to finish ~25 min**
 
+**❤️ Family favorite** — *Cody, 2026-09-09: "We love that. I think that was rather difficult — like, you gotta put shrimp and crab in there. I mean, for a sauce."* **Read that as a caveat, not a complaint** — this is a favorite that costs real money and real shopping, because the shrimp and the lump crabmeat both have to be bought and both go into a *sauce*. Make it when the seafood is good and the occasion is worth it, not on a Tuesday.
+
 **Techniques used:** [T6 Seafood Notes](#t6-seafood-notes) · related to [T1 How to Make a Roux](#t1-how-to-make-a-roux) — *but see the warning below; this is the opposite of a Cajun roux*
 
 > ⚠️ **This is a blond roux — do not let it brown.** [§T1](#t1-how-to-make-a-roux) is about taking a roux to dark red-brown or black. Here you want the exact opposite: butter and flour cooked just one minute, kept pale. The recipe's own instruction is blunt — **"If mixture starts to brown, remove from heat."** Browning it would give this sauce a toasted flavor and a dull color it isn't supposed to have.
@@ -7474,7 +7476,7 @@ For shirred eggs or poached calf's brains, make it separately so you can pour th
 
 **A product, not a blend — this is a reference entry.** Cavender's is a commercial Greek seasoning sold in a yellow-and-black shaker in most spice aisles. Nothing here gets mixed from scratch, so there's no ingredient list, no badge, and no Nutrition block — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T24](#t24-the-french-sauce-families--roux-ratios), it's pure reference and stays out of the [Difficulty & Time Index](#difficulty--time-index) counts.
 
-**👍 Tried and liked** — *Cody: "It's really good."*
+**❤️ Family favorite** — *Cody: "It's really good."* **Raised from 👍 to ❤️ on 2026-09-09**, when Cody named it in his batch of family favorites. The earlier quote is kept; only the mark changed.
 
 **What Cody uses it for: shish kebabs, above all.** It's already the finishing seasoning in **[§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs)** — sprinkled liberally right before the skewers hit the grill. He also reaches for it on the chicken version of **[§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared)**, though **[§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning)** is his first choice there.
 
@@ -8480,6 +8482,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟢 Easy** · **Prep ~2 min** · **Cook none** · **Start to finish ~2 min**
 
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 #### A. Ingredients
 
 - ½ cup kosher salt
@@ -8580,6 +8584,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 > **⚠️ This rub contains no salt. Salt the meat the night before — a dry brine is preferable in most cases, though a wet brine or other method works too — or the finished dish will taste bland.**
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 #### A. Ingredients
 
@@ -14315,6 +14321,8 @@ Not optional, and not just about temperature: **horseradish needs time to bloom 
 **Yield:** as much as your pan holds — **the figures below assume a 2-cup batch**, which is a sensible amount to make at once given it keeps indefinitely *(no quantity was given; see Open Questions)*
 
 **🟢 Easy** · **Prep ~5 min** *(spreading the salt in a pan)* · **Slow cook ~2 hr** *(in the smoker, unattended)* · **Start to finish ~2 hr 10 min** *(plus cooling)*
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **Easy, and not a close call.** Nothing here can go from perfect to ruined — salt cannot overcook, burn, or break. The worst outcome is salt that tastes less smoky than you wanted, and the fix is to put it back on for another hour. *(Over-smoking is the one direction worth watching, per [§T35](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) — see Step 1.)*
 
@@ -23745,6 +23753,8 @@ Cody's own pulled pork, dictated 2026-09-07, with the timing filled in by him on
 
 **🟢 Easy** · **Prep ~20 min** *(the salting, then next day's mustard slather and rub)* · **Slow cook ~12–14+ hr** *(225°F overnight, unattended and unwrapped — on around 10 p.m., off past 10 a.m.; done at 203°F, not at a clock time)* · **Start to finish ~1½ days** *(+ the overnight uncovered dry brine before it, and a 1–3 hr cooler rest after it)*
 
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 > ✅ **The cook time is Cody's own now, and it's an overnight — 2026-09-08.** This was the biggest planning gap in the book, and it's closed. **He puts the meat on around 10 p.m. and it comes off past 10 a.m., sometimes longer — call it 12 to 14+ hours at 225°F.** The **plus** is doing real work in that sentence: **this recipe is finished by temperature, not by the clock.** It comes off when it hits **203°F internal**, whenever that happens to be. If that's 9:30 a.m., it's done; if it's 1 p.m., it's done then, and the cooler rest is what absorbs the difference — which is exactly why the cooler is in the method and not an afterthought. **Start it at night on purpose.** An overnight is the right shape for a butt for two reasons: the hours you'd otherwise spend staring at a smoker are hours you're asleep, and it puts the finish in late morning with the whole afternoon of cooler rest ahead of the meal instead of behind it. **Two things that still apply.** **(1) Weight is the wrong variable and this book says so:** [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) and [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time) both name **thickness**, not weight, as what drives the cook. His 12–14+ hours is the number for the **7-to-10 lb bone-in butts he buys**; a noticeably thicker one will run past it. The old **1½–2 hr per pound** rule of thumb is kept below only as a *scheduling* aid for a differently sized butt, and it's still cookbook judgment per [§13](#13-meathead-cookbook), not his. **(2) The stall is where the hours go.** Somewhere around **150–165°F** the meat's temperature flatlines while evaporative cooling matches the heat going in ([§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth), [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)); unwrapped, as Cody cooks it, the stall runs long — it's the price of the bark he's after, since a wrap is what shortens it. **This is the single best argument for the overnight**, because a stall that stretches three hours costs you nothing if you're in bed. **Cross-checks inside this cookbook:** [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) prints **8 to 12 hours for a 5 lb butt** at the same 225°F — 1.6–2.4 hr per pound, consistent with his overnight on a bigger butt.
 
 > 🌬️ **The Egg Genius is what makes the overnight possible — and here's what it is.** ✅ **2026-09-08, Cody's own equipment.** An **Egg Genius** is a **fan-driven temperature controller for the Big Green Egg**: a probe reads the pit temperature, a small blower clamps onto the Egg's bottom vent, and the unit **speeds the fan up or slows it down to hold whatever temperature you dial in** — 225°F, all night, without anyone touching it. A second probe watches the meat, and it reports both to a phone. Traeger, FireBoard, BBQ Guru and Flame Boss all make the same kind of thing; the category name is a **pit controller** or **automatic draft controller**, and any of them does this job. **Why it matters here:** on a kamado, temperature is controlled by airflow, and airflow drifts — the fire beds down, ash builds up, the weather changes, and a hand-set vent that was perfect at midnight is running hot or cold by 4 a.m. A controller closes that loop for you. **Without one, you are the controller.** That doesn't make the recipe impossible — plenty of people cook butts overnight on vents alone, and a heavy ceramic cooker is about the most forgiving thing to try it on — but **expect to babysit it**: set the vents, let the Egg settle for a good hour before the meat goes on, and get up once or twice in the night to check the dome and nudge the bottom vent. **At minimum, run a remote probe thermometer with an alarm** so the cooker can wake you instead of the other way around. And this is a genuinely forgiving cook: 225°F drifting to 250°F for an hour costs you nothing but time, which is a large part of why the recipe is still 🟢 Easy either way.
@@ -23879,6 +23889,8 @@ Cody has tried all three and says all three work really well, so pick by conveni
 **Cody's own ingredient here:** [§4.195 Cody's Smoked Salt](#4195-codys-smoked-salt) — coarse sea salt he smokes himself, and it is load-bearing in this recipe rather than optional.
 
 **🟢 Easy** · **Prep ~30 min** *(separating the point and flat, seasoning, buttering and bagging)* · **Cook ~20 min** *(the hot browning at the end — getting the Egg roaring, then turning it about a minute at a time)* · **Slow cook 2 days + ~4 hr** *(48 hr in the water bath at 150°F, then a 4 hr smoke at 225°F — both hands-off)* · **Start to finish ~3 days** *(includes an overnight chill in an ice chest between the bath and the smoke)*
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **Why 🟢 Easy — and why this one is Easy where [§3 Darcy's Steak](#3-darcys-steak) is 🟡.** [CLAUDE.md §3a](CLAUDE.md)'s test: *can a step go from perfect to ruined?* **Cody answers it himself — *"you never mess it up"* — and walking the steps confirms it.** Two days in a 150°F bath cannot fail; that's the most forgiving stretch of cooking in this book. An overnight in an ice chest cannot fail. A four-hour smoke at 225°F on already-cooked meat cannot fail. **That leaves the hot browning, and it is genuinely lower-risk than a steak sear**, which is the distinction worth drawing: [§3 Darcy's Steak](#3-darcys-steak) rates 🟡 because **there is doneness left to lose there** — a few seconds too long over a chimney pushes a medium-rare steak past medium rare with no way back. **A brisket that has been at 150°F for two days has no doneness left to lose.** It cannot be overcooked into the wrong doneness; the only thing you can hurt is the crust, by walking away and letting it char — and Cody's own instruction, *turn it about every minute*, is exactly the guard against that. That's a **don't-walk-away caution, not a technique risk.** **And the elapsed time — three days — is Slow cook and lead time, which per [§1 Cody's Pho](#1-codys-pho) never inflates a rating.** Three days of waiting, about fifty minutes of work.
 
@@ -24491,6 +24503,8 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 **Techniques used:** [T6 Seafood Notes](#t6-seafood-notes)
 
 **🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min** *(two skillets going at once — all of it attended)*
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > ✅ **Cooked and validated, 2026-09-08. Cody's daughter made this straight off the method as written in this cookbook, and it came out perfectly.** That's the strongest evidence any entry in the book has — not a transcription checked against a card, but a real cook in a real kitchen following these steps and getting the dish. **Treat the instructions below as proven.** She cooked it before step 5 was written down — so the sauce step Cody has since spelled out is a description of what the working method was already doing, not a change to it.
 
@@ -28973,6 +28987,8 @@ Transcribed from a printed page — ***Talk About Good!*** (p. 171), credited to
 
 **🟡 Medium** *(the source's own warning: "fish burns quickly" under a broiler — a real, fast failure mode, not a forgiving one)* · **Prep ~10 min** *(scoring and seasoning — estimated)* · **Cook ~20 min** *(about 15 min per pound, turned once — estimated for a 1½ lb fish; scales with fish size)* · **Start to finish ~30 min**
 
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 #### A. Ingredients
 
 - Fish (salt water fish, large bass, or Sac-a-lait)
@@ -30155,6 +30171,8 @@ Transcribed from **Steven Raichlen's *How to Grill*** (p. 98–101), following i
 **Yield:** serves 4
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~10–14 min** · **Start to finish ~30 min**
+
+**👍 Tried and liked** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 #### A. Ingredients
 
@@ -31689,6 +31707,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟢 Easy** · **Prep ~25 min** *(trimming and salting)* · **Slow cook 8–12 hr** *(indirect grill or smoker, unattended)* · **Start to finish ~8¾–12¾ hr** *(+ an optional 12–24 hr dry brine; pulling takes 20 min by hand, 10 min with Bear Paws)*
 
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 #### A. Ingredients
 
 - 1 pork butt (about 5 lb)
@@ -31841,6 +31861,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **Makes 2 servings · Takes 15 minutes for trimming, about 2 hours for dry brining, about 5 minutes for rubbing; cooking time is 5 to 6 hours for spareribs or center-cut ribs, 3 to 4 hours for back ribs — if you use rib holders so the slabs are crammed close to each other, add another hour** *(as printed)*
 
 **🟢 Easy** · **Prep ~20 min** · **Slow cook 5–6 hr** *(indirect smoker, unattended; 3–4 hr for back ribs)* · **Start to finish ~7–8 hr** *(includes about a 2 hr dry brine)*
+
+**❤️ Family favorite** — *Cody, 2026-09-09, reaching for this recipe by a different name: "championship pork ribs… that's just doing it with the Memphis Dust."* **That is how he refers to these**, and the rub half of it checks out — this recipe does call for **¼ cup of [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust)**, about 2 Tbsp per side, in Step 2. **The name does not**: this cookbook already has a separate [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) from *The Meathead Method*, a different recipe. Recorded as his shorthand rather than resolved either way — worth confirming with him which slab he actually means.
 
 #### A. Ingredients
 
@@ -32333,6 +32355,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr** *(smoke-roasting the bones and vegetables at 325°F)* · **Slow cook 4–5 hr** *(bare simmer, unattended)* · **Start to finish ~5–6 hr**
 
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 #### A. Ingredients
 
 - 5 lb pork bones (see Note)
@@ -32503,6 +32527,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **Makes 2 to 4 servings · Takes 2 hours to dry brine and about 45 minutes to cook** *(as printed)*
 
 **🟡 Medium** · **Prep ~10 min** · **Cook ~45 min** *(about 30 min indirect, unattended, then a closely watched high-heat sear)* · **Start to finish ~1 hr 45 min – 2 hr 45 min** *(includes a 1–2 hr dry brine)*
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **Rated Medium, not Hard or Easy — the searing stage is genuinely hands-on.** The indirect stage is as forgiving as any low-and-slow cook; nothing there can go wrong quickly. But once the steaks move to direct heat, the surface is already near 212°F and everything happens fast — the book's own instruction is to stand by the grill and flip constantly. That's real attention, not just patience, which is why this sits above [§1 Cody's Pho](#1-codys-pho)'s Easy bar but nowhere near roux territory: a steak that overshoots just comes off the heat, unlike a broken sauce or a scorched roux.
 
@@ -33152,6 +33178,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~30 min** *(10 + 10 min on the indirect side, then a few minutes of attended direct sear, plus time for the hot side to come up)* · **Start to finish ~1 hr** *(the printed TAKES)*
 
+**❤️ Family favorite** — *Cody, 2026-09-09, and the sauce is the part he singles out: "He makes the best burger, and he's got this glop sauce that's killer. It's so necessary to have the glop sauce."* **The glop sauce is [§4.128 Burger Glop](#4128-burger-glop)** — Meathead's own burger sauce, mayonnaise, [Kansas City Classic barbecue sauce](#4117-kansas-city-classic-barbecue-sauce) or ketchup, yellow mustard, Tabasco Chipotle, kosher salt and garlic powder, whisked smooth. **Per Cody it is not optional to this dish.** The page already treats it that way — *2 tablespoons Burger Glop* is a printed ingredient line, and Step 8 puts it on the bottom bun first, under the bacon, where it anchors the patty. Make the glop before you light the grill; it keeps 1 to 2 months in the fridge.
+
 > **Rated Medium for the same reason as this cookbook's other reverse-seared beef** — [§7.106](#7106-big-thick-steakhouse-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), and [§7.114](#7114-prime-rib) above. The indirect stage is forgiving, but the finishing sear needs continuous attention — the patties go from perfectly browned to burnt fast over direct heat, same risk profile as a steak, just on a faster clock.
 
 #### A. Ingredients
@@ -33317,6 +33345,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟢 Easy** · **Prep ~35 min** *(includes a ~20 min shrimp brine)* · **Cook ~20 min** · **Start to finish ~1 hr**
 
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 > ✅ **Verified against book pp. 344–345 on 2026-09-06.** All six steps, their order, the **325°F** indirect target, the ~4-minute half-cooked bacon, the ¼-inch cream cheese strip, the 1-or-2 toothpicks, and the printed **MAKES *20 appetizer servings*** / **TAKES *about 1 hour*** all match the page exactly. Two fixes: the source's own **"Kosher salt"** ingredient line had been dropped from the Ingredients list (it survived only in the grocery list), and the brine time in Step 1 read "15 to 20 minutes" where book p. 343 prints **"about 20 minutes—but no longer."** **No salt quantity was changed** — the ¼ cup per pound is exactly as printed. **Toothpicks** are kept on the list but marked: the book calls for them in Step 4 and does not list them as an ingredient. The **"Nesbitt, Missouri"** flag in the headnote was re-checked against the page at full resolution and is **confirmed correct as printed** — see the note there.
 
 > ✅ **2026-09-07 second-pass QC against the photo of pp. 344–345: verified.** All seven ingredient lines, all six steps in printed order, 325°F, the ~4-minute bacon, the ¼-inch cream cheese strip, 1 or 2 toothpicks, MAKES 20 appetizer servings and TAKES about 1 hour all match the page. The earlier "verified" claim for this entry came from a scan that did not include these pages; this is the first check against the actual photo. The "Nesbitt, Missouri" credit was re-read at 2× and is exactly as printed. No change to the food; Step 1 wording tightened to the page's order (jalapeños are cut after the shrimp go in the brine — the page does not say "while they soak," so that is now marked as gloss).
@@ -33449,6 +33479,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **Makes 3 or 4 servings · Takes 10 minutes to prep, about 45 minutes to cook** *(as printed)*
 
 **🟢 Easy** · **Prep ~10 min** *(+ a ~2 hr salt soak)* · **Cook ~45 min** · **Start to finish ~3 hr**
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **Why Easy.** A low-and-slow smoke to about 145°F, then a direct-heat finish to 160°F, with each piece temped on its own — there's no single moment here that can go from perfect to ruined.
 
@@ -35200,6 +35232,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicke
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~30 min** · **Start to finish ~25 hr 10 min** *(includes a 24 hr air-dry, mostly unattended in the fridge, plus a 10 min hair-dry just before cooking)*
 
+**👍 Tried and liked** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 #### A. Ingredients
 
 - 1¼ lb whole chicken wings *(the page's MAKES line rounds this to "1 pound wings" — the ¼ lb of tips gets frozen for stock)*
@@ -36205,6 +36239,8 @@ Transcribed from **laylita.com**, recipe by **Layla Pujol** — *"Recipe for gri
 **Yield:** the source's own — **4 to 6 people**, at a serving size of **5 to 8 oz of salmon**
 
 **🟡 Medium** · **Prep ~30 min** *(including skinning the fish and Cody's egg soak)* · **Cook ~15 min** · **Start to finish ~1 hr 15 min** *(including the source's 30-minute seasoned rest in the fridge)*
+
+**👍 Tried and liked** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **The source's own printed times are Prep 30 min · Cook 15 min · Total 45 min.** The longer total above is the difference Cody's egg step makes — skinning the fillet, the egg rub, the soak, and the rinse all land ahead of the source's first instruction. Nothing in the source's own method was slowed down.
 
@@ -39033,7 +39069,7 @@ Ladle into bowls and top each with crumbled bacon, a pinch of the reserved ½ cu
 
 Transcribed from Cody's own recipe/grocery-planning spreadsheet, kept in Mamma's own words. A stew built for either deer or beef stew meat, thickened the slow way — by letting the potatoes cook down rather than adding a separate thickener.
 
-**👍 Tried and liked** — *Cody: "Yummie."*
+**❤️ Family favorite** — *Cody: "Yummie."* **Raised from 👍 to ❤️ on 2026-09-09**, when Cody named it in his batch of family favorites. The card's own "Yummie" is kept; only the mark changed.
 
 > ✅ 2026-09-07 per Cody ("this is when you throw in and you eyeball — use your judgment, but use all these ingredients") — **eyeball-scale amounts are cookbook judgment; the ingredients, the order, and the quotes are Mamma's.** This is a throw-it-in stew and the amounts below are meant to be read that way: a starting picture of a family pot, not a formula. **Every ingredient on the card is used**, including the cider vinegar the card listed but never told you where to put. Basis: Culinary Hill's stove-top venison stew (1–1½ lb venison, 4 cups potatoes, 3 carrots, 2 celery, 1 onion, a 15-oz can of tomatoes, 1 tsp cider vinegar; https://www.culinaryhill.com/stove-top-venison-stew/), Montana Fish, Wildlife & Parks' venison stew (3 lb stew meat, tomatoes, bouillon, cider vinegar; https://fwp.mt.gov/binaries/content/assets/fwp/montana-outdoors/recipes/venisonstew_ma13.pdf), and Hank Shaw's venison stew (https://honest-food.net/food-plot-venison-stew-recipe/). The common thread across all three: **venison stew meat needs 1–1½ hours to go tender, and the acid goes in small and late.**
 
@@ -39135,7 +39171,7 @@ Tomatoes with their juice, plus 1 Tbsp of cider vinegar. Simmer 10 minutes more,
 
 Transcribed from Cody's own recipe/grocery-planning spreadsheet. A slow-cooker shrimp and corn chowder, thickened right in the pot with a flour-dusted toss of potatoes and corn.
 
-**❤️ Family favorite** — *Cody: "Favorite."*
+**👍 Tried and liked** — *Cody: "Favorite."* **Lowered from ❤️ to 👍 on 2026-09-09 — and this was Cody's own correction, not an editing error.** Reviewing the ratings he said of this one: *"just put a thumbs up instead of a love there."* The earlier ❤️ was recorded faithfully from his first pass; he revised it himself, and the newer verdict stands. His original "Favorite." is kept above so the record shows both.
 
 **🟢 Easy** · **Prep ~10 min** · **Slow cook 3 to 7 hr** *(2–3 hr on high or 4–6 hr on low, plus 30–60 min more once the shrimp goes in)* · **Start to finish ~3 hr 10 min – 7 hr 10 min**
 
@@ -41740,6 +41776,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet — no cookbook 
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~8 min** *(4 min per side)* · **Start to finish ~20 min**
 
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
+
 #### A. Ingredients
 
 - 2 slices rye bread
@@ -41802,6 +41840,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as 
 **Yield:** 6 dozen (72) oysters — about ¾ of a 100-count sack — serves 8 to 10 as a hearty appetizer
 
 **🟡 Medium** · **Prep ~60 min** *(shucking 72 oysters)* · **Cook ~30 min** *(3–4 batches on the grill)* · **Start to finish ~1 hr 30 min**
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > ⚠️ **Why Medium, not Easy:** two real failure points. Butter dripping through the grate onto open flame flares up — that's expected here, and it's why the lid stays open, you use long tongs, and nothing flammable sits near the grill — and oysters this small go from perfectly bubbling to dried-out and rubbery in the time it takes to grill the next batch. Stay at the grill. Keep the raw oysters on ice until they're shucked, and throw out any that are open and won't close when tapped.
 
@@ -41884,6 +41924,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, same format as 
 > ⚠️ ✅ 2026-09-07 per Cody ("we can rest; I don't think the dehydrator has a temperature — use your judgment") — **same cookbook judgment as [§9.6](#96-beef-jerky), and the same safety rule.** The mix rests 8–24 hours refrigerated before it's squeezed out, the bend test is the stop, and **every batch gets 10 minutes in a 275°F oven after drying** — because jerky is only safe once the meat has reached 160°F, a dehydrator with no thermostat can't be trusted to get it there, and ground meat has any bacteria mixed all the way through. The full reasoning and the USDA / UC ANR / University of Minnesota / NDSU sources are in §9.6's ⚠️; Michigan State Extension says the same for venison specifically (https://www.canr.msu.edu/news/venison_jerky_tips).
 
 **🟡 Medium** · **Prep ~20 min** · **Cook none** · **Slow cook ~3–6 hr** *(dehydrator, stopped by the bend test — swap the trays every 1½–1¾ hr along the way; then 10 min at 275°F in the oven)* · **Start to finish ~11–31 hr** *(8–24 hr refrigerated rest)*
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 #### A. Ingredients
 
@@ -42233,6 +42275,8 @@ The source's own two platings. Six plates of eight, or twelve plates of four —
 **Yield:** 12 halves, from 6 eggs
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(assumes the eggs are already boiled — see [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and add ~20 min if starting from raw)*
+
+**❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **Why 🟢 Easy — and why this is the easiest thing in §9.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test there is nothing here that can fail. Boiling the eggs is the only cooking, and that's [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide)'s job. **Set against [§9.16 Deviled Eggs](#916-deviled-eggs), this skips the entire fussy half** — no scooping yolks, no sieving, no mixing a filling, no piping it back in, and nothing to go wrong or look untidy.
 

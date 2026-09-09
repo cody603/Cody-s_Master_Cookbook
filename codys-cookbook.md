@@ -1352,13 +1352,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **You can plan Monday through Friday straight off this page in conversation** — read down the left column, call out five mains, and we'll fill in sides and build the grocery list from each recipe's own shopping list.
 
-**Legend:** ❤️ family favorite · 👍 tried and liked · 🥑 keto / low-carb · 🍽️ the whole meal, no side needed · 🔥 **grill, smoker, or outdoor cooking** · 🔴 rated Hard — it can break on you *(sauces block only)*
+**Legend:** ❤️ family favorite · 👍 tried and liked · 🥑 keto / low-carb · 🍽️ the whole meal, no side needed · ♨︎ **grill, smoker, or outdoor cooking** · 🔴 rated Hard — it can break on you *(sauces block only)*
 
-> 🔥 **What the flame means, added 2026-09-09 at Cody's request** — *"can you put a little grill icon in anything that typically involves the grill? Anything that involves the grill or the smoker, or any kind of outdoor cooking."* **So it covers all of it: the grill, the smoker, the Big Green Egg, a charcoal chimney, a kamado, a rotisserie, and frying outdoors on a grill's side burner.**
+> ♨︎ **What the ♨︎ means, added 2026-09-09 at Cody's request** — *"can you put a little grill icon in anything that typically involves the grill? Anything that involves the grill or the smoker, or any kind of outdoor cooking."* **So it covers all of it: the grill, the smoker, the Big Green Egg, a charcoal chimney, a kamado, a rotisserie, and frying outdoors on a grill's side burner.**
 >
-> **The icon reflects the recipe as written, not what is possible.** That distinction is the whole rule, because half the meat in this book *could* be cooked outside. **A steak the recipe cooks in cast iron gets no flame even though you could obviously grill it.** [§3 Darcy's Steak](#3-darcys-steak) carries one because its sous vide version sears over a roaring charcoal chimney; its new [stovetop reverse sear](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) is a pan on the stove and earns nothing. **Where a recipe's own method puts it outside and offers an indoor fallback, it keeps the flame** — [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) dehydrates its citrus on a grill topper and says an oven "works too." **Where the method is indoors and merely permits a grill, it gets nothing** — [§15.8 Skillet Cornbread](#158-old-fashioned-skillet-cornbread-and-hush-puppies) preheats an oven to 400°F "or the grill's indirect side," and it stays unmarked.
+> **The icon reflects the recipe as written, not what is possible.** That distinction is the whole rule, because half the meat in this book *could* be cooked outside. **A steak the recipe cooks in cast iron gets no ♨︎ even though you could obviously grill it.** [§3 Darcy's Steak](#3-darcys-steak) carries one because its sous vide version sears over a roaring charcoal chimney; its new [stovetop reverse sear](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) is a pan on the stove and earns nothing. **Where a recipe's own method puts it outside and offers an indoor fallback, it keeps the ♨︎** — [§4.113 Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) dehydrates its citrus on a grill topper and says an oven "works too." **Where the method is indoors and merely permits a grill, it gets nothing** — [§15.8 Skillet Cornbread](#158-old-fashioned-skillet-cornbread-and-hush-puppies) preheats an oven to 400°F "or the grill's indirect side," and it stays unmarked.
 >
-> **And a mention of smoke is not an outdoor cook.** Smoked paprika, smoked salt, smoked sausage, liquid smoke, and a store-bought smoked salmon all show up in dishes cooked entirely indoors — [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) is a stovetop pot with smoked sausage in it, and [§5.34 Brazilian Black Beans](#534-brazilian-black-beans-with-bacon-tutu-mineira) says so itself: *no grill involved at all, despite the book it comes from.* **Every marked line here was read before it was marked**, not matched on a word. **This is a planning-sheet affordance only** — the flame is not added to entry headings, the [Table of Contents](#table-of-contents), or either ratings index.
+> **And a mention of smoke is not an outdoor cook.** Smoked paprika, smoked salt, smoked sausage, liquid smoke, and a store-bought smoked salmon all show up in dishes cooked entirely indoors — [§8.3 Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) is a stovetop pot with smoked sausage in it, and [§5.34 Brazilian Black Beans](#534-brazilian-black-beans-with-bacon-tutu-mineira) says so itself: *no grill involved at all, despite the book it comes from.* **Every marked line here was read before it was marked**, not matched on a word. **This is a planning-sheet affordance only** — the ♨︎ is not added to entry headings, the [Table of Contents](#table-of-contents), or either ratings index.
 
 **A dish that brings its own sauce or topping is one line here, sauce included.** [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) is one main — the white sauce is part of the dish, not a separate pick. Same with the avocado salsa on [§7.150](#7150-grilled-salmon-with-avocado-salsa) and the dipping sauce on [§9.32](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce). You will not find any of those three sauces anywhere else on this sheet, including in the [Sauces](#sauces) block.
 
@@ -1383,120 +1383,120 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | Mains — pick one | Sides — pick one or two |
 |---|---|
 | **🥩 Beef & Venison** | **🥕 Vegetables** |
-| [Darcy's Steak](#3-darcys-steak) ❤️ 🔥 | [Mamma's Spinach](#537-mammas-spinach) ❤️ |
-| [Sliced Smoked Brisket](#61-smoked-brisket) ❤️ 🔥 | [Lemon Green Beans](#536-lemon-green-beans) ❤️ |
-| [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ 🔥 | [Grilled Cauliflower](#542-grilled-cauliflower) 👍 🔥 |
-| [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ 🔥 | [Roasted Veggies](#538-roasted-veggies) 👍 |
-| [Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ❤️ 🔥 | [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 |
-| [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🍽️ 🔥 | [Grilled Corn](#514-grilled-corn) 👍 🔥 |
+| [Darcy's Steak](#3-darcys-steak) ❤️ ♨︎ | [Mamma's Spinach](#537-mammas-spinach) ❤️ |
+| [Sliced Smoked Brisket](#61-smoked-brisket) ❤️ ♨︎ | [Lemon Green Beans](#536-lemon-green-beans) ❤️ |
+| [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ ♨︎ | [Grilled Cauliflower](#542-grilled-cauliflower) 👍 ♨︎ |
+| [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ ♨︎ | [Roasted Veggies](#538-roasted-veggies) 👍 |
+| [Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ❤️ ♨︎ | [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 |
+| [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🍽️ ♨︎ | [Grilled Corn](#514-grilled-corn) 👍 ♨︎ |
 | [Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ❤️ 🍽️ | [Sweet Potato Casserole](#511-sweet-potato-casserole) 👍 |
 | [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ | [Sautéed Kale](#521-sautéed-kale) |
-| [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🍽️ 🔥 | [Smothered Mustard Greens](#529-smothered-mustard-greens) |
-| **Brisket:** [Texas-Style Barbecued](#67-texas-style-barbecued-brisket) · [Texas Beef](#7112-texas-beef-brisket) · [Championship, with Burnt Ends](#7135-championship-brisket-and-burnt-ends) 🔥 | [Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) |
-| [Skinny Steaks](#7107-skinny-steaks) 🔥 | [Roasted Asparagus](#515-roasted-asparagus) |
-| [Two Steaks Feed Four](#736-two-steaks-feed-four) 🔥 | [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) |
-| [Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) 🔥 | [Grilled Asparagus](#541-grilled-asparagus) 🔥 |
-| [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) 🔥 | [Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) |
+| [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🍽️ ♨︎ | [Smothered Mustard Greens](#529-smothered-mustard-greens) |
+| **Brisket:** [Texas-Style Barbecued](#67-texas-style-barbecued-brisket) · [Texas Beef](#7112-texas-beef-brisket) · [Championship, with Burnt Ends](#7135-championship-brisket-and-burnt-ends) ♨︎ | [Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) |
+| [Skinny Steaks](#7107-skinny-steaks) ♨︎ | [Roasted Asparagus](#515-roasted-asparagus) |
+| [Two Steaks Feed Four](#736-two-steaks-feed-four) ♨︎ | [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) |
+| [Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) ♨︎ | [Grilled Asparagus](#541-grilled-asparagus) ♨︎ |
+| [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) ♨︎ | [Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) |
 | [Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) 🍽️ | [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) |
-| [Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) | [The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) 🔥 |
-| [Kōji Filet Mignon](#7132-kōji-filet-mignon) 🔥 | [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) 🔥 |
-| [Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) 🔥 | [Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) |
-| [Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) 🔥 | [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) |
-| [Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) 🔥 | ["Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) |
-| [Prime Rib Dinner](#7114-prime-rib) 🔥 | [Fennel Fondant](#539-fennel-fondant) |
-| [The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) 🔥 | [Smoke-Roasted Garlic](#557-smoke-roasted-garlic) 🔥 |
-| [Short Ribs, Texas Style](#7110-short-ribs-texas-style) 🔥 | [Smoked Tomato Raisins](#558-smoked-tomato-raisins) 🔥 |
-| [Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) 🔥 | [Pickled Okra](#526-pickled-okra) |
-| [Beef Back Ribs](#7130-beef-back-ribs) 🔥 | [Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) |
-| [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) 🔥 | [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🥑 |
+| [Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) | [The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) ♨︎ |
+| [Kōji Filet Mignon](#7132-kōji-filet-mignon) ♨︎ | [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) ♨︎ |
+| [Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) ♨︎ | [Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) |
+| [Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) ♨︎ | [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) |
+| [Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) ♨︎ | ["Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) |
+| [Prime Rib Dinner](#7114-prime-rib) ♨︎ | [Fennel Fondant](#539-fennel-fondant) |
+| [The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) ♨︎ | [Smoke-Roasted Garlic](#557-smoke-roasted-garlic) ♨︎ |
+| [Short Ribs, Texas Style](#7110-short-ribs-texas-style) ♨︎ | [Smoked Tomato Raisins](#558-smoked-tomato-raisins) ♨︎ |
+| [Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) ♨︎ | [Pickled Okra](#526-pickled-okra) |
+| [Beef Back Ribs](#7130-beef-back-ribs) ♨︎ | [Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) |
+| [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) ♨︎ | [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🥑 |
 | [Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🥑 |
-| [Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) 🔥 | **🥔 Potatoes, Rice & Grains** |
-| [Afterburner Fajitas](#7134-afterburner-fajitas) 🍽️ 🔥 | [Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) ❤️ 🥑 |
-| [Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) 🍽️ 🔥 | [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🥑 |
+| [Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) ♨︎ | **🥔 Potatoes, Rice & Grains** |
+| [Afterburner Fajitas](#7134-afterburner-fajitas) 🍽️ ♨︎ | [Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) ❤️ 🥑 |
+| [Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) 🍽️ ♨︎ | [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🥑 |
 | [Corned Beef & Cabbage, Cured from Scratch](#748-corned-beef--cabbage) 🍽️ | [Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ❤️ |
 | [Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | [Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 👍 |
-| [Pot Roast (Boeuf à la Mode)](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | [Smoked Potato Salad](#547-smoked-potato-salad) 🔥 |
+| [Pot Roast (Boeuf à la Mode)](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | [Smoked Potato Salad](#547-smoked-potato-salad) ♨︎ |
 | [Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | [Persian-ish Rice](#549-persian-ish-rice) |
 | **🐖 Pork** | [Curd Rice](#560-curd-rice) |
-| [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🍽️ 🔥 | [Cheese Grits](#1010-cheese-grits) |
-| [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🍽️ 🔥 | [Garlic Cheese Grits](#1011-garlic-cheese-grits) |
-| [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🍽️ 🔥 | [Grilled Grits](#1012-grilled-grits) 🔥 |
-| [Cody's Pulled Pork Street Tacos](#71-pulled-pork-tacos) ❤️ 🍽️ 🔥 | [Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) |
+| [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🍽️ ♨︎ | [Cheese Grits](#1010-cheese-grits) |
+| [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🍽️ ♨︎ | [Garlic Cheese Grits](#1011-garlic-cheese-grits) |
+| [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🍽️ ♨︎ | [Grilled Grits](#1012-grilled-grits) ♨︎ |
+| [Cody's Pulled Pork Street Tacos](#71-pulled-pork-tacos) ❤️ 🍽️ ♨︎ | [Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) |
 | [Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ❤️ | [Oyster Dressing](#532-oyster-dressing-for-10-to-12-lb-turkey) |
-| [Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🔥 | **🫘 Beans** |
-| [Last-Meal Ribs](#797-last-meal-ribs) ❤️ 🔥 | [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) |
-| [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🍽️ 🔥 | [Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) 🔥 |
-| [Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) 🍽️ 🔥 | [Boston Barbecue Beans](#548-boston-barbecue-beans) 🔥 |
-| [Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) 🔥 | **🥗 Salads & Slaws** |
-| [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) 🔥 | [Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ |
-| [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) 🔥 | [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ |
+| [Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ ♨︎ | **🫘 Beans** |
+| [Last-Meal Ribs](#797-last-meal-ribs) ❤️ ♨︎ | [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) |
+| [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🍽️ ♨︎ | [Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) ♨︎ |
+| [Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) 🍽️ ♨︎ | [Boston Barbecue Beans](#548-boston-barbecue-beans) ♨︎ |
+| [Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) ♨︎ | **🥗 Salads & Slaws** |
+| [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) ♨︎ | [Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ |
+| [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) ♨︎ | [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ |
 | [Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ |
-| [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) 🔥 | [Brazilian Salad](#519-brazilian-salad) ❤️ |
-| [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) 🔥 | [North Carolina Coleslaw](#513-north-carolina-coleslaw) 👍 |
-| [Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) 🔥 | [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) |
-| [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) 🔥 | [Grilled Romaine Salad](#545-grilled-romaine-salad) 🔥 |
-| [Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) 🔥 | [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) |
-| [Championship Pork Ribs](#7136-championship-pork-ribs) 🔥 | [Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) |
-| [60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) 🔥 | [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) |
-| [Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) 🔥 | [Cole Slaw](#535-cole-slaw) |
+| [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) ♨︎ | [Brazilian Salad](#519-brazilian-salad) ❤️ |
+| [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) ♨︎ | [North Carolina Coleslaw](#513-north-carolina-coleslaw) 👍 |
+| [Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) ♨︎ | [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) |
+| [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) ♨︎ | [Grilled Romaine Salad](#545-grilled-romaine-salad) ♨︎ |
+| [Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) ♨︎ | [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) |
+| [Championship Pork Ribs](#7136-championship-pork-ribs) ♨︎ | [Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) |
+| [60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) ♨︎ | [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) |
+| [Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) ♨︎ | [Cole Slaw](#535-cole-slaw) |
 | [Boudin Blanc](#751-boudin-blanc-boudin) | [Bright Cabbage Slaw](#553-bright-cabbage-slaw) |
 | **🐔 Chicken & Poultry** | **🍞 Breads & Biscuits** |
 | [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | [Keto Skillet Cornbread](#113-keto-skillet-cornbread) 👍 🥑 |
-| [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ 🔥 | [Plain French Bread](#151-plain-french-bread-pain-français) |
-| [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ 🔥 | [Butter Dips](#152-butter-dips) |
-| [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ 🔥 | [Angel Biscuits](#154-angel-biscuits) |
+| [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ ♨︎ | [Plain French Bread](#151-plain-french-bread-pain-français) |
+| [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ ♨︎ | [Butter Dips](#152-butter-dips) |
+| [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ ♨︎ | [Angel Biscuits](#154-angel-biscuits) |
 | [Poulet de France](#7124-poulet-de-france) ❤️ 🍽️ | [Fancy Biscuits](#155-fancy-biscuits) |
-| [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 🔥 | [Pastry Biscuits](#156-pastry-biscuits) |
-| [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 🔥 | [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) |
-| [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) 🔥 |
-| [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | [Simple Grilled Crostini](#540-simple-grilled-crostini) 🔥 |
+| [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 ♨︎ | [Pastry Biscuits](#156-pastry-biscuits) |
+| [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 ♨︎ | [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) |
+| [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) ♨︎ |
+| [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | [Simple Grilled Crostini](#540-simple-grilled-crostini) ♨︎ |
 | [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) | [Irish Soda Bread](#106-irish-soda-bread) |
 | [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🥑 | [Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 |
 | [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | **🧊 No-Cook Sides** — *mostly pantry items with no recipe to write; the one with an entry is listed first* |
-| [Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) 🔥 | [Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) — *written up 2026-09-09* |
+| [Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) ♨︎ | [Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) — *written up 2026-09-09* |
 | [BBQ Fried Chicken](#780-bbq-fried-chicken) | Cottage cheese — *no entry* |
 | [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) | Sliced tomatoes, salted — *no entry* |
-| [Tandoori Chicken](#7140-tandoori-chicken) 🔥 | Avocado, halved and salted — *no entry* |
+| [Tandoori Chicken](#7140-tandoori-chicken) ♨︎ | Avocado, halved and salted — *no entry* |
 | [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) | Applesauce — *no entry* |
-| [Championship Chicken](#7141-championship-chicken) 🔥 |  |
+| [Championship Chicken](#7141-championship-chicken) ♨︎ |  |
 | [Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) |  |
-| [Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) 🔥 |  |
-| [Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) 🔥 |  |
+| [Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) ♨︎ |  |
+| [Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) ♨︎ |  |
 | [Chicken Sauce Piquant](#728-chicken-sauce-piquant) |  |
 | [Panéed Chicken and Fettucini](#729-panéed-chicken-and-fettucini) 🍽️ |  |
 | [Fennel & Ginger-Rubbed Chicken with Cauliflower](#739-fennel--ginger-rubbed-chicken-with-cauliflower) |  |
 | [Chicken Marbella](#752-chicken-marbella) |  |
 | [Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) |  |
-| [Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) 🔥 |  |
-| [The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) 🔥 |  |
-| [Buttered-Up Turkey Breast with Drunken Cranberries](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) 🔥 |  |
+| [Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) ♨︎ |  |
+| [The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) ♨︎ |  |
+| [Buttered-Up Turkey Breast with Drunken Cranberries](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) ♨︎ |  |
 | **🐑 Veal** |  |
 | [Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) |  |
 | ["Brunette" de Veau](#749-brunette-de-veau) |  |
 | **🦌 Game & Wild Birds** |  |
-| [Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) 🔥 |  |
+| [Grilled Quail with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) ♨︎ |  |
 | [Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) |  |
 | **🍢 Kebabs & Skewers** |  |
-| **Raichlen's world beef kebabs:** [Bengali Shish](#769-bengali-shish-kebabs) · [Russian Shashlik](#770-russian-shashlik) · [Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) · [Quick Persian](#772-quick-persian-beef-kebabs) · [Bani Marine Street](#773-bani-marine-street-beef-kebabs) · [Madeira & Bay Leaf (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) 🔥 |  |
-| [Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) 🍽️ 🔥 |  |
-| [Kufte Kebabs](#7123-kufte-kebabs) 🔥 |  |
+| **Raichlen's world beef kebabs:** [Bengali Shish](#769-bengali-shish-kebabs) · [Russian Shashlik](#770-russian-shashlik) · [Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) · [Quick Persian](#772-quick-persian-beef-kebabs) · [Bani Marine Street](#773-bani-marine-street-beef-kebabs) · [Madeira & Bay Leaf (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) ♨︎ |  |
+| [Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) 🍽️ ♨︎ |  |
+| [Kufte Kebabs](#7123-kufte-kebabs) ♨︎ |  |
 | **🐟 Seafood & Fish** |  |
 | [Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ |  |
-| [Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ❤️ 🔥 |  |
-| [Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ❤️ 🍽️ 🔥 |  |
+| [Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ❤️ ♨︎ |  |
+| [Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ❤️ 🍽️ ♨︎ |  |
 | [Broiled Fish, Your Choice of Sauce](#761-broiled-fish) ❤️ — *pick one from [Fish & seafood sauces](#fish--seafood-sauces)* |  |
 | [Captain Mike's Ceviche](#722-captain-mikes-ceviche) ❤️ |  |
 | [Crawfish Elegante](#713-crawfish-elegante) ❤️ |  |
-| [Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ❤️ 🔥 |  |
-| [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 🔥 |  |
-| [Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) 🔥 |  |
-| [Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) 🔥 |  |
+| [Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ❤️ ♨︎ |  |
+| [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 ♨︎ |  |
+| [Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) ♨︎ |  |
+| [Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) ♨︎ |  |
 | [Beer-Battered Fish](#7125-beer-battered-fish) |  |
-| [Butter-Poached Fillets](#792-butter-poached-fillets) 🔥 |  |
-| [Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) 🔥 |  |
+| [Butter-Poached Fillets](#792-butter-poached-fillets) ♨︎ |  |
+| [Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) ♨︎ |  |
 | [Rockfish Burger with Key Lime Aioli](#784-rockfish-burger-with-key-lime-aioli) 🍽️ |  |
-| [Smoked Halibut Salad](#791-smoked-halibut-salad) 🔥 |  |
-| [Baja Fish Tacos](#793-baja-fish-tacos) 🍽️ 🔥 |  |
+| [Smoked Halibut Salad](#791-smoked-halibut-salad) ♨︎ |  |
+| [Baja Fish Tacos](#793-baja-fish-tacos) 🍽️ ♨︎ |  |
 | [Fish with Pecan Butter and Meunière Sauce](#723-fish-with-pecan-butter-sauce-and-meunière-sauce) |  |
 | [Catfish Étouffée](#762-catfish-étouffée) 🍽️ |  |
 | [Sautéed Crawfish](#725-sautéed-crawfish) |  |
@@ -1505,13 +1505,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) |  |
 | [Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) 🍽️ |  |
 | [Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) |  |
-| [Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) 🔥 |  |
+| [Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) ♨︎ |  |
 | [Shrimp Roast](#747-shrimp-roast) |  |
 | [Coconut Beer Shrimp](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) |  |
 | [Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) |  |
 | [Scallops with Quick Pickled Vegetables & Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) |  |
 | [Carpaccio of Sous Vide Octopus](#786-carpaccio-of-sous-vide-octopus) |  |
-| [Greg's Grilled Lobster](#794-gregs-grilled-lobster) 🔥 |  |
+| [Greg's Grilled Lobster](#794-gregs-grilled-lobster) ♨︎ |  |
 | [Sausage & Clam Stew](#745-sausage--clam-stew) |  |
 | **🍜 Pasta, Rice & Noodle Bowls** *(every one of these is 🍽️)* |  |
 | [Cody's Pho](#1-codys-pho) ❤️ 🍽️ |  |
@@ -1520,13 +1520,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Red Beans & Rice](#716-red-beans--rice) ❤️ 🍽️ |  |
 | [Slow Cooker Ham & White Beans over Rice](#717-white-beans-slow-cooker-ham--white-beans) ❤️ 🍽️ |  |
 | [Spaghetti](#718-spaghetti) ❤️ 🍽️ |  |
-| [Pho with Leftover Brisket](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🍽️ 🔥 |  |
-| [Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) 🍽️ 🔥 |  |
+| [Pho with Leftover Brisket](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🍽️ ♨︎ |  |
+| [Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) 🍽️ ♨︎ |  |
 | [Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) 🍽️ |  |
 | [Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) 🍽️ |  |
 | [Pasta Puttanesca](#753-pasta-puttanesca) 🍽️ |  |
 | [Pasta alle Vongole](#7129-pasta-alle-vongole) 🍽️ |  |
-| [Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) 🍽️ 🔥 |  |
+| [Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) 🍽️ ♨︎ |  |
 | [Short Rib Ragù over Pasta](#779-short-rib-ragù) 🍽️ |  |
 | [Ragù alla Bolognese over Pasta (Sous Vide)](#782-ragù-alla-bolognese-sous-vide) 🍽️ |  |
 | [Shrimp Risotto](#740-shrimp-risotto) 🍽️ |  |
@@ -1538,7 +1538,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Reuben](#927-reuben) ❤️ 🍽️ |  |
 | [Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) 🍽️ |  |
 | [Muffelatta Poboy](#930-muffelatta-poboy) 🍽️ |  |
-| [Pastrami on Rye (Close to Katz's)](#7113-close-to-katzs-pastrami) 🍽️ 🔥 |  |
+| [Pastrami on Rye (Close to Katz's)](#7113-close-to-katzs-pastrami) 🍽️ ♨︎ |  |
 | [Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) 🍽️ |  |
 | [The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) 🍽️ |  |
 | **🥣 Soups, Gumbos & Chili** — *a soup is the main; give it bread or a salad* |  |
@@ -1569,13 +1569,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) |  |
 | [Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) |  |
 | [Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) |  |
-| [Squash Bisque](#559-squash-bisque) 🔥 |  |
+| [Squash Bisque](#559-squash-bisque) ♨︎ |  |
 | [Warm Beet Soup](#810-warm-beet-soup) |  |
 | [Gazpacho](#818-gazpacho) |  |
 | [Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) |  |
 | [The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) — *build your own* |  |
 | **🍲 Broths, Stocks & Tonics** — *drink them, or build the soups above on them* |  |
-| [Smoked Bone Broth](#7104-smoked-bone-broth) ❤️ 🔥 |  |
+| [Smoked Bone Broth](#7104-smoked-bone-broth) ❤️ ♨︎ |  |
 | [Chicken Stock](#840-chicken-stock) |  |
 | [Restorative Beef Broth](#814-restorative-beef-broth) |  |
 | [Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) |  |
@@ -1595,11 +1595,11 @@ Their own block, because they aren't a main and they aren't a side — they're w
 | Dips & Spreads | Finger Food & Small Plates |
 |---|---|
 | [Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) 👍 | [Jalapeño Poppers](#98-jalapeño-poppers) ❤️ |
-| [Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) 🔥 | [Shrimp Remoulade](#99-shrimp-remoulade) ❤️ |
-| [Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) 🔥 | [Beef Jerky](#96-beef-jerky) ❤️ |
+| [Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) ♨︎ | [Shrimp Remoulade](#99-shrimp-remoulade) ❤️ |
+| [Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) ♨︎ | [Beef Jerky](#96-beef-jerky) ❤️ |
 | [Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) | [Deer Jerky](#929-deer-jerky) ❤️ |
 | [Smoked Salmon Butter](#914-smoked-salmon-butter) | [Easy Deviled Eggs](#933-easy-deviled-eggs) ❤️ |
-| [Anchovy & Lemon Butter](#915-anchovy--lemon-butter) | [Char-Grilled Oysters](#928-char-grilled-oysters) ❤️ 🔥 |
+| [Anchovy & Lemon Butter](#915-anchovy--lemon-butter) | [Char-Grilled Oysters](#928-char-grilled-oysters) ❤️ ♨︎ |
 | [Potted Crab](#912-potted-crab) | [Deviled Eggs](#916-deviled-eggs) |
 | [Crab Marie](#924-crab-marie) | [Pickled Shrimp & Celery](#920-pickled-shrimp--celery) |
 | [Melba Toasts](#911-melba-toasts) — *the cracker for all of these* | [Crabmeat Imperial](#925-crabmeat-imperial) |
@@ -1617,8 +1617,8 @@ Their own block, because they aren't a main and they aren't a side — they're w
 | **Beef** | [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ · [Dalmatian Rub](#4105-dalmatian-rub) ❤️ · [Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) · [Red Meat Rub](#4165-red-meat-rub) · [Butcher Block Seasoning](#4116-butcher-block-seasoning) · [Texas Chili Rub](#432-texas-chili-rub) · [Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) |
 | **Pork** | [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ · [Basic Barbecue Rub](#426-basic-barbecue-rub) · [Cool Smoke Rub](#4169-cool-smoke-rub) · [Pork Brine Injection](#4103-pork-brine-injection) |
 | **Chicken & poultry** | [Cajun Rub](#427-cajun-rub) · [Cajun Seasoning](#4112-cajun-seasoning) · [Java Rub](#429-java-rub) · [Mediterranean Herb Rub](#431-mediterranean-herb-rub) · [Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) · [Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) · [Cool Smoke Injection](#4171-cool-smoke-injection) |
-| **Seafood** | [Marietta's Fish Rub](#4111-mariettas-fish-rub) · [Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) 🔥 · [Basic Fish Cure](#425-basic-fish-cure) |
-| **Anything** | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ · [Cody's Smoked Salt](#4195-codys-smoked-salt) ❤️ 🔥 · [French Rub](#4166-french-rub) · [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) · [Chinese Five-Spice Rub](#428-chinese-five-spice-rub) · [Sesame Seasoning](#433-sesame-seasoning) · [Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) 🔥 · [Dolly's Lamb Rub](#4110-dollys-lamb-rub) *(lamb)* · [The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) · [Basic Brinerade](#4101-basic-brinerade) |
+| **Seafood** | [Marietta's Fish Rub](#4111-mariettas-fish-rub) · [Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) ♨︎ · [Basic Fish Cure](#425-basic-fish-cure) |
+| **Anything** | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ · [Cody's Smoked Salt](#4195-codys-smoked-salt) ❤️ ♨︎ · [French Rub](#4166-french-rub) · [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) · [Chinese Five-Spice Rub](#428-chinese-five-spice-rub) · [Sesame Seasoning](#433-sesame-seasoning) · [Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) ♨︎ · [Dolly's Lamb Rub](#4110-dollys-lamb-rub) *(lamb)* · [The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) · [Basic Brinerade](#4101-basic-brinerade) |
 
 ### Sauces
 
@@ -1663,7 +1663,7 @@ Their own block, because they aren't a main and they aren't a side — they're w
 |---|---|
 | **Egg emulsions** | [Hollandaise Sauce](#49-hollandaise-sauce) ❤️ 🔴 · [New Orleans Béarnaise](#410-new-orleans-béarnaise-sauce) · [Choron](#411-choron-sauce) *(béarnaise plus tomato)* |
 | **Butter emulsions & browned butters** | [Beurre Blanc / Beurre Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce) 🔴 · [Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) · [Meunière Sauce](#420-meunière-sauce) · [Lemon Butter Sauce](#418-lemon-butter-sauce) · [Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) · [New Orleans Bordelaise](#415-new-orleans-bordelaise-sauce) *(butter and garlic — not the French one)* |
-| **Compound butters** | [Fresh Herb Butter](#455-fresh-herb-butter) · [Canal House Lemon Butter](#456-canal-house-lemon-butter) · [Smoked Butter](#4167-smoked-butter) 🔥 |
+| **Compound butters** | [Fresh Herb Butter](#455-fresh-herb-butter) · [Canal House Lemon Butter](#456-canal-house-lemon-butter) · [Smoked Butter](#4167-smoked-butter) ♨︎ |
 
 *Three more compound butters are in §4 — [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter), [§4.58 Pimentón Butter](#458-pimentón-butter) and [§4.133 Beef Butter](#4133-beef-butter).*
 
@@ -1673,7 +1673,7 @@ Their own block, because they aren't a main and they aren't a side — they're w
 
 | | Reach for |
 |---|---|
-| **Rich & Cajun** | [Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ❤️ · [Fish Brown Sauce](#412-fish-brown-sauce) 🔴 · [Czarina Sauce with Shrimp or Crawfish](#421-czarina-sauce-with-shrimp-or-crawfish) · [Creole Sauce](#414-creole-sauce) · [Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) 🔥 |
+| **Rich & Cajun** | [Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ❤️ · [Fish Brown Sauce](#412-fish-brown-sauce) 🔴 · [Czarina Sauce with Shrimp or Crawfish](#421-czarina-sauce-with-shrimp-or-crawfish) · [Creole Sauce](#414-creole-sauce) · [Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) ♨︎ |
 | **Butter finishes** | [Pecan Butter Sauce](#424-pecan-butter-sauce) · [Ketjap Butter](#4183-ketjap-butter) |
 | **Cold & mustard** | [Remoulade Sauce](#423-remoulade-sauce) ❤️ · [Tartar Sauce](#4124-tartar-sauce) · [Mustard-Dill Sauce](#439-mustard-dill-sauce) ❤️ · [Mustard Sauce](#422-mustard-sauce) |
 | **Bastes** | [Mexican Fish Baste](#4184-mexican-fish-baste) |

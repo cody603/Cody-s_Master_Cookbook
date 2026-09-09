@@ -313,6 +313,8 @@ Click any recipe to jump straight to it.
 - [5.58 Smoked Tomato Raisins](#558-smoked-tomato-raisins) ✅ *(The Meathead Method)*
 - [5.59 Squash Bisque](#559-squash-bisque) ✅ *(The Meathead Method)*
 - [5.60 Curd Rice](#560-curd-rice) ✅ *(Canal House — the source's own pairing for [§7.47 Shrimp Roast](#747-shrimp-roast))*
+- [5.61 Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ✅ ❤️ *(Cody's own, 2026-09-09; the Grana Padano is bought on purpose and goes to the table — quantities are cookbook judgment)*
+- [5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) ✅ *(new 2026-09-09 — a sheet suggestion Cody liked, filled as cookbook judgment, **not** a practice of his; the sweet jarred version is [§4.177](#4177-quick-pickles))*
 
 **[6. Smoked Meats](#6-smoked-meats)**
 
@@ -836,6 +838,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.31 Quesadillas](#931-quesadillas) | 🟢 | 10 min | 5 min *(each; ~25 min for a family batch)* | — | 15–35 min |
 | [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) | 🟢 | 15 min | — | — | 15 min *(optional 30 min–2 hr wrapped rest)* |
 | [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) | 🟢 | 15 min | — | — | 15 min |
+| [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) | 🟢 | 10 min | — | — | 10 min |
+| [§5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) | 🟢 | 10 min | — | — | ~1 hr 10 min *(a 30 min salt draw, then 30 min in the vinegar)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
 | [§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -1271,7 +1275,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
-### ❤️ Family favorites — 82
+### ❤️ Family favorites — 83
 
 **Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.13 Crawfish Elegante](#713-crawfish-elegante) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) · [§7.61 Broiled Fish](#761-broiled-fish) · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) · [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) · [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) · [§7.124 Poulet de France](#7124-poulet-de-france)
 
@@ -1279,7 +1283,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Soups & chili — [§8.1](#81-chili-mac)–[§8.7](#87-italian-sausage--kale-soup) is still a clean sweep, and three more from later in the section join it:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili Mac](#81-chili-mac) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) · [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) · [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot)
 
-**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach)
+**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach) · [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)
 
 **Snacks:** [§9.6 Beef Jerky](#96-beef-jerky) · [§9.7 Chicken Salad](#97-chicken-salad) · [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) · [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) · [§9.27 Reuben](#927-reuben) · [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) · [§9.29 Deer Jerky](#929-deer-jerky) · [§9.33 Easy Deviled Eggs](#933-easy-deviled-eggs)
 
@@ -23224,6 +23228,180 @@ Serve at room temperature, alongside [§7.47 Shrimp Roast](#747-shrimp-roast) or
 **What a serving is:** a half-cup scoop — a side portion next to a curry, not a plate of rice. Four cups feeds the 4-to-6 that [§7.47 Shrimp Roast](#747-shrimp-roast) serves, with a little over.
 
 *Nearly all of this is the rice. The yogurt and milk add creaminess and about a gram of fat per serving; there is no oil or butter in it at all, which is part of why it works as a foil for a coconut-oil curry.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.61 Simple Romaine (or Butter Lettuce) Salad with Grana Padano
+
+**❤️ Family favorite** — *Cody, 2026-09-09: "Just a wonderful salad."* Dictated new on 2026-09-09; nothing like it existed in this cookbook before.
+
+**Source: Cody's own salad, dictated directly — not from a photographed page.** Lettuce, cherry tomatoes, oil and vinegar, and a very good hard cheese shaved over it. That's the entire dish, and the cheese is the reason it's a recipe at all.
+
+> **🧀 The Grana Padano is the point, and Cody was emphatic twice over.** In his words: ***"You gotta have just a really good Grana Padano cheese for the salad… that Grana Padano has to be on the table, and it has to be purchased."***
+>
+> **Two separate instructions live in that sentence, and both are his.** **Buy it deliberately** — it is a shopping-list item in its own right, not "whatever hard cheese is in the drawer," and it is the one thing here you cannot substitute your way around. And **put it on the table** — the wedge and a grater go out with the salad so people shave their own over the top, rather than it being grated into the bowl in the kitchen where nobody sees it. **A salad this plain has one luxury in it; hiding that luxury in the mixing is the only way to get this dish wrong.**
+
+> **What Grana Padano actually is, since nothing else in this cookbook mentions it.** *(Cookbook explanation, not Cody's — see the sourcing note under Open Questions.)* It's an Italian **PDO** hard cow's-milk cheese from the Po Valley in northern Italy — a big production zone spanning some thirty-odd provinces from Piedmont across to Veneto — aged a **minimum of nine months** and sold in grainy, straw-colored wheels. *Grana* means "grain," and that's the texture: crystalline, snappy, built for shaving and grating.
+>
+> **How it differs from Parmigiano-Reggiano, which is the cheese most people reach for instead:**
+>
+> | | **Grana Padano** | **Parmigiano-Reggiano** |
+> |---|---|---|
+> | **Where** | The Po Valley — a wide zone across northern Italy | A small zone: Parma, Reggio Emilia, Modena, and parts of Bologna and Mantua |
+> | **Minimum age** | 9 months | 12 months, and most wheels go 24 and up |
+> | **The cows' feed** | Silage is allowed | Hay and fresh forage only — no silage |
+> | **What's in it** | Milk, salt, rennet, and **lysozyme** *(an egg-white protein, used to control fermentation)* | Milk, salt, rennet — nothing else |
+> | **How it eats** | **Milder, sweeter, less salty, a little more yielding** | Sharper, nuttier, more crystalline and crumbly |
+> | **Price** | Reliably the cheaper of the two | The premium one |
+>
+> **The practical upshot for this salad:** Grana Padano is the *gentler* of the two, and on a bowl of plain lettuce and tomato that is an advantage, not a compromise — Parmigiano-Reggiano's sharpness can bully a salad this simple. **The egg-white lysozyme is the one thing worth flagging for a guest**, since it puts Grana Padano outside a strict vegetarian diet and matters to a serious egg allergy; Parmigiano-Reggiano has none. **And this is not a place to buy the pre-grated tub.** The whole instruction is a wedge on the table.
+
+**Related salads in this book:** [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ is the other Cody-dictated salad and the closest sibling — same romaine, same "dress it at the last second" rule. Its dressing, [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️, works here too if you'd rather shake a real dressing than pour oil and vinegar over the bowl. [§5.20 Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) is the same idea with the other cheese and a different green.
+
+**Yield:** serves 4 as a side
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
+
+#### A. Ingredients
+
+> ⚙️ **The quantities below are cookbook judgment, not Cody's.** He named the components — romaine or butter lettuce, cherry tomatoes, Grana Padano, oil and vinegar — without amounts. The proportions are set at the 3:1 oil-to-vinegar ratio this book already uses in [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) and [§5.19 Brazilian Salad](#519-brazilian-salad). **His own numbers supersede these the day he gives them.**
+
+- 2 romaine hearts, or 2 heads butter lettuce — about 8 cups, torn *(cookbook judgment)*
+- 1½ cups cherry tomatoes, halved *(cookbook judgment)*
+- **A 4 oz wedge of Grana Padano** — **bought on purpose, and it goes to the table whole** *(Cody's, and non-negotiable)*
+- 3 Tbsp extra-virgin olive oil *(cookbook judgment)*
+- 1 Tbsp red wine vinegar **or** balsamic — *"red wine vinegar is great, balsamic is great"* (Cody's, both named by him) *(quantity is cookbook judgment)*
+- Kosher salt and freshly ground black pepper
+
+#### B. Cooking Instructions
+
+**1. Buy the cheese first, and buy a wedge.**
+This is step one because it decides whether the salad is worth making. Get **Grana Padano** specifically — look for the PDO mark rubbed into the rind — and get it **in a piece**, not grated. Pre-grated hard cheese is drier, usually cut with anti-caking starch, and it goes on the salad as dust instead of as ribbons. A 4 oz wedge is plenty for four people twice over, and it keeps for weeks wrapped tight in the fridge.
+
+**2. Tear the lettuce and get it genuinely dry.**
+**Romaine or butter lettuce — both are Cody's, and they're different salads.** Romaine gives you crunch and holds up to sitting a few minutes; butter lettuce is softer and more delicate, and wants to be dressed and eaten immediately. Tear rather than chop — a knife bruises the cut edge and it browns. Then dry it properly, in a spinner or on a towel. **Wet leaves refuse to hold dressing;** it slides off and puddles at the bottom of the bowl, and you end up over-oiling to compensate.
+
+**3. Halve the tomatoes.**
+Halved, not whole. A whole cherry tomato is a sealed packet that squirts when you bite it; a halved one gives up a little juice into the dressing, which is exactly what you want. Salt them lightly on their own if they're pale or out of season — 5 minutes of salt wakes up a mediocre tomato more than any dressing will.
+
+**4. Dress it right before it goes to the table.**
+Pour the olive oil over first and toss until every leaf is barely glossy, **then** add the vinegar and toss again. Oil first is the whole trick: it coats the leaves and keeps the acid from hitting them bare and wilting them on contact. Season with salt and pepper and taste **a dressed leaf**, not the dressing — dressing always tastes sharper off a spoon than it does on lettuce. **Dress at the last possible moment.** Butter lettuce especially will collapse inside of ten minutes.
+
+**5. Send the cheese to the table with it — do not grate it in.**
+This is Cody's instruction and it's the finish of the dish: **the wedge goes out on a board with a grater or a peeler**, and people shave their own over the top. Wide ribbons off a peeler or the long side of a box grater beat a fine dust — you want to see and bite the cheese, not just taste it in the background. Shave a little over the bowl before it leaves the kitchen if you like, but the wedge still goes out.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Romaine hearts — 2, **or** butter lettuce — 2 heads
+- 🛒 Cherry tomatoes — 1½ cups (a pint container)
+- 🛒 **Grana Padano — a 4 oz wedge, not pre-grated.** *The one item on this list not to substitute.* Cheese counters and most full-size groceries carry it; it sits next to the Parmigiano-Reggiano and is usually the cheaper of the two
+- 🛒 Extra-virgin olive oil
+- 🛒 Red wine vinegar **or** balsamic — either, per Cody
+- 🛒 Kosher salt, black pepper
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~680 | 57 g | 22 g | 20 g | 10 g |
+| **Per serving** *(serves 4)* | ~170 | 14 g | 5.5 g | 5 g | 2.5 g |
+
+**What a serving is:** a dinner-plate side salad — roughly 2 cups of dressed leaves with a few wide ribbons of cheese over the top.
+
+*Built on the assumed quantities above rather than stated ones. **Counts about half the wedge as eaten** — 2 oz of the 4 oz you buy — which is what four people actually shave off at the table; the rest goes back in the fridge. The cheese is most of the protein and about a quarter of the fat; the olive oil is the rest.*
+
+#### D. Open Questions
+
+- ⚙️ **The quantities are cookbook judgment, per [CLAUDE.md §3d](CLAUDE.md).** Cody gave the components and the two rules that matter (buy the Grana Padano; put it on the table) but no amounts. **What's Cody's:** romaine *or* butter lettuce, cherry tomatoes, Grana Padano, oil and vinegar with red wine vinegar and balsamic both named, and the ❤️. **What's the cookbook's:** every number, the 3:1 oil-to-vinegar ratio, and the oil-before-vinegar order. **His figures supersede these the day he gives them.**
+- ⚙️ **The Grana Padano explainer is cookbook judgment too**, reasoned from the **Consorzio per la Tutela del Formaggio Grana Padano** (the PDO consortium — production zone and the nine-month minimum), the **Consorzio del Formaggio Parmigiano-Reggiano** (that cheese's own feed and ingredient rules), and the **Institute of Culinary Education's** side-by-side of the Italian grating cheeses for the flavor and texture comparison. **No URL is attached, per [CLAUDE.md §3d](CLAUDE.md)** — the sources are named instead. Cody said only that it has to be a really good one and that it has to be bought; the *why* above is the cookbook's.
+- ❓ **Which does he actually make more often, romaine or butter lettuce?** He offered both without picking, and they behave differently enough (crunch vs. collapse) that it changes how far ahead you can dress it. Worth asking.
+- ❓ **Red wine vinegar or balsamic — is one the house default?** He called both great. If one is what's usually in the bottle, the entry should say so.
+- ❓ **Anything else on it?** He named lettuce, tomato, cheese, oil and vinegar and stopped. No onion, cucumber, or crouton is assumed here — but this is the kind of salad that often has one, so it's worth a direct check rather than a guess.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 5.62 Salted Cucumbers in White Vinegar
+
+> ⚠️ **Read this first — this recipe's provenance is unusual, and it is not one of Cody's.** **The line "Cucumbers in vinegar" on the [Meal Planning Sheet](#meal-planning-sheet) was invented by this cookbook**, not recovered from him — it was written as one of several bare no-entry suggestions in the sheet's No-Cook Sides block. **Cody then read it and liked the sound of it**, which is how it became a recipe: *"Oh, that sounds delicious. That would be in white vinegar, I'm assuming — salted cucumbers and white vinegar. Sounds delish."*
+>
+> **He is reacting to a proposal, not remembering a practice.** "I'm assuming" is the tell, and it's recorded here rather than smoothed over. **So the method below is cookbook judgment under [CLAUDE.md §3d](CLAUDE.md)** — sourced, labeled, and to be replaced wholesale the first time he makes a batch his own way. **What is genuinely his: the white vinegar, the salt, and the interest.** Everything else is the cookbook's.
+
+**Cody also asked for the quick-pickle connection out loud:** *"there's gotta be a way to do that, to do a quick pickle. I think there's quick pickles that I would wanna put as a thing."* **There is, and it's already written up — [§4.177 Quick Pickles](#4177-quick-pickles)** (Meathead). See the next note for what that entry does and doesn't cover.
+
+> **📌 What [§4.177 Quick Pickles](#4177-quick-pickles) already covers, and why this is still a separate recipe.** It **does** name cucumbers — twice: *"try cucumber slices"* among the vegetables, and cucumber on its grocery line. So cucumbers are not a gap in that entry, and nothing here duplicates its method.
+>
+> **But it is a different dish.** §4.177 is a **sweet refrigerator pickle in a jar**: equal parts vinegar and water, **half a part sugar**, a brine boiled three minutes and poured hot, then **at least 24 hours in the fridge** before it's ready. That's a condiment you keep — a forkful on a sandwich or a taco.
+>
+> **This is a salad you eat tonight**: no sugar, no jar, no boiled brine, no wait. Salt draws water out of the cucumbers, vinegar goes on straight, and it's on the table in an hour. **Reach for §4.177 when you want to put a jar up; reach for this when you want a side dish with dinner.** If you want the sweet version of exactly this, don't rebuild it here — go make §4.177 with cucumbers.
+
+**Related in this book:** [§4.177 Quick Pickles](#4177-quick-pickles) · [§5.50 Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) *(the dressed-up version — lime, fish sauce, herbs, peanuts)* · [§5.52 Summer: Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) · [§4.5 Pickled Pink Onions](#45-pickled-pink-onions) · [§5.26 Pickled Okra](#526-pickled-okra)
+
+**Yield:** serves 6 as a side
+
+**🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~1 hr 10 min** *(a 30 min salt draw, then at least 30 min in the vinegar — both are waiting, not work)*
+
+#### A. Ingredients
+
+> ⚙️ **Cookbook judgment — quantities, timings, and method all.** Cody named **cucumbers, salt, and white vinegar** and nothing else. Basis, per [CLAUDE.md §3d](CLAUDE.md): **America's Test Kitchen** on salting watery vegetables — *Salt Vegetables for Not-Soggy Slaws and Salads* and its *Cucumber-Dill Salad* — for the colander-and-30-minutes draw and the blot-dry step; **[§T29 How to Salt](#t29-how-to-salt)** (Samin Nosrat, *Salt, Fat, Acid, Heat*), already in this book, for the 15-to-20-minutes-ahead rule on watery vegetables and the instruction to pat them dry because the salt has pulled water to the surface; and **[§4.177 Quick Pickles](#4177-quick-pickles)** (Meathead) for the ⅛-inch slice and for distilled white vinegar as the default pickling vinegar. **Cody's own figures supersede all of this the day he gives them.**
+
+- 2 lb cucumbers *(about 4 medium slicing cucumbers, or 8 Persian)*
+- 1 Tbsp kosher salt, for drawing *(most of it drains away — see step 2)*
+- ½ cup distilled white vinegar *(Cody's — he named white vinegar specifically)*
+- ½ small onion, sliced paper-thin *(optional)*
+- Freshly ground black pepper
+- A pinch of flaky or kosher salt at the table, to finish
+
+#### B. Cooking Instructions
+
+**1. Slice the cucumbers thin. About ⅛ inch.**
+Thin is what makes this work — a thick slice stays watery in the middle and never really takes the vinegar. **⅛ inch** is the same slice [§4.177 Quick Pickles](#4177-quick-pickles) calls for. A mandoline gets you there fastest and most evenly; **if you use one, use the hand guard** — the blade is exposed and it does not care about your fingers. Peel or don't: leaving the skin on gives more crunch and a faint bitterness, and stripey-peeling (alternate strips off, as in [§5.50](#550-vietnamese-cucumber-salad)) splits the difference.
+
+**2. Salt them in a colander and let them drain. 30 minutes.**
+Toss the slices with the tablespoon of salt in a colander, set it over a bowl or in the sink, and **leave it 30 minutes.** Salt on the surface pulls water out of the cells by osmosis, and a surprising amount comes out — you'll see it pooled underneath. **This is the step that decides whether you get a crisp salad or a bowl of vinegar soup**, because water still inside the cucumber comes out later anyway and dilutes everything. *If you have longer, weighting the colander with a plate and something heavy on top, for up to an hour, pulls out more still.*
+
+**3. Shake and blot dry.**
+Shake the colander hard to throw off the loose liquid, then **blot the slices dry between paper towels or a clean towel.** Don't rinse them unless they taste genuinely too salty — rinsing puts back the water you just spent half an hour removing. **Most of the tablespoon of salt goes down the drain with that liquid**, which is why the amount looks alarming and isn't.
+
+**4. Dress with the vinegar. At least 30 minutes.**
+Cucumbers into a bowl, pour the ½ cup of white vinegar over, add the thin-sliced onion if you're using it and a few grinds of black pepper, and toss. **Let it sit at least 30 minutes** before serving, in the fridge if it's a hot day. **Taste it before it goes out.** Straight white vinegar is sharp — that's the dish, and it's what Cody named — but if it's too much for the table, **cut it with a splash of water rather than adding sugar.** Sugar turns this into [§4.177](#4177-quick-pickles), which already exists.
+
+**5. Serve cold, with a pinch of finishing salt.**
+Serve it cold, straight out of the bowl, with a small pinch of flaky or kosher salt over the top right at the table — the draining salt seasoned the inside, and this is the bite you actually taste. **It keeps 3 to 4 days covered in the fridge and softens a little each day**, which some people prefer. Like every other pickle in this book, it lives in the refrigerator, not the pantry — same rule as [§4.177](#4177-quick-pickles), [§4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut), and [§5.26 Pickled Okra](#526-pickled-okra).
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Cucumbers — 2 lb (about 4 medium, or 8 Persian)
+- 🛒 Distilled white vinegar — ½ cup
+- 🛒 Kosher salt
+- 🛒 Onion — ½ small, optional
+- 🛒 Black pepper
+- 🛒 Flaky finishing salt — optional, for the table
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~140 | 1 g | 5 g | 30 g | 4 g |
+| **Per serving** *(serves 6)* | ~23 | 0 g | 0.8 g | 5 g | 0.7 g |
+
+**What a serving is:** about ½ cup of drained slices — a small side dish next to something rich, not a bowl you eat by itself.
+
+*There is almost nothing in this dish. **The figures count the drained cucumbers plus the vinegar clinging to them**, not the water and salt that went down the sink in step 2 or the vinegar left in the bottom of the bowl. **Sodium is the number that moves**, not calories — a tablespoon of kosher salt goes in, most of it drains off, and what's left is still a salted dish. Estimated on assumed quantities, which are the cookbook's and not Cody's.*
+
+#### D. Open Questions
+
+- ⚙️ **The whole method is cookbook judgment under [CLAUDE.md §3d](CLAUDE.md), and the recipe's origin is a cookbook suggestion he liked** — not a practice of his being written down. Sources named in the Ingredients note above. **What's Cody's: cucumbers, salt, white vinegar, and the idea that it sounds good.** Everything else — the ⅛-inch slice, the 30-minute salt draw, the ½ cup of vinegar, the optional onion, the timings — is the cookbook's. **His version replaces all of it the day he makes one.**
+- ❓ **Does he want it sweet or not?** This is written unsweetened, because he said *salted* cucumbers and named only vinegar. A great many cucumber-and-vinegar salads carry a spoonful of sugar, and [§4.177 Quick Pickles](#4177-quick-pickles) is sweet by design. **Worth one direct question**, because it's the single biggest fork in this dish.
+- ❓ **Onion in or out?** Included as optional on the strength of how commonly it appears in this style of salad, not on anything Cody said.
+- ❓ **Dill, or nothing?** Deliberately left out — he didn't mention it, and this entry is already carrying enough that isn't his.
 
 [↑ Table of Contents](#table-of-contents)
 

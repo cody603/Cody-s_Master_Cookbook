@@ -1368,67 +1368,67 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 |---|---|
 | **⭐ Staple Mains** | **⭐ Staple Sides** |
 | 🟢 [Easy Deviled Eggs](#933-easy-deviled-eggs) ❤️ 🟩(15 min†) | 🟢 [Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) ❤️ 🟩(10 min) 🥑 |
-| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ — *Cody: "that is always from the leftover pork… chopping the cilantro, onions, and lime — a twenty minute meal"* | 🟢 [Simple Romaine, Oil & Vinegar](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ 🟩(10 min†) — *premade oil and vinegar, nothing to cook — one of the three salads on rotation* |
-| 🟡 [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) 🟩(20–30 min†) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | 🟢 [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) 🟩(10 min) |
-| 🟢 [Chili Mac](#81-chili-mac) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) 🟩(10 min) — *[§4.134](#4134-creamy-caesar-dressing) on homemade mayonnaise — one batch keeps 3 days, so eat it as soon as you make the mayo; add §4.134's 15 the night you make it; Grana Padano or Romano* |
-| 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ — *Cody: "prep time takes thirty minutes; baking is waiting" — and 🟢 on his call* | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) |
-| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) 🟩(10 min) — *greens plus any dressing from the [⭐ Staple Sauces](#sauces) row; a template* |
+| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ | 🟢 [Simple Romaine, Oil & Vinegar](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ 🟩(10 min†) |
+| 🟡 [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) 🟩(20–30 min†) | 🟢 [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) 🟩(10 min) |
+| 🟢 [Chili Mac](#81-chili-mac) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](#563-simple-romaine-homemade-caesar) 🟩(10 min) |
+| 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) |
+| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) 🟩(10 min) |
 | 🟢 [Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ 🟩(30 min†) | 🟢 [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) 🟩(11 min) |
 | 🟢 [Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ❤️ 🟩(30 min†) 🥑 | 🟢 [Sautéed Asparagus](#52-sautéed-asparagus) ❤️ 🟩(13 min†) |
-| 🟡 [Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) ❤️ 🟩(30 min) — *the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak stays on as the wash; almond flour, avocado oil, lemons* | 🟢 [Mamma's Spinach](#537-mammas-spinach) ❤️ 🟩(13 min†) |
-| 🟡 [Sous Vide Chicken Thighs (with a sauce: …)](#7151-sous-vide-chicken-thighs-for-the-family-seared) 🟩(30 min†) — *pick one: [§T8 pan sauce](#t8-pan-sauce-formula) · [Alabama white](#437-white-barbecue-sauce) · [salsa verde](#4146-basic-salsa-verde) or [salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) · [tomatillo avocado](#499-tomatillo-avocado-salsa)* | 🟢 [Sautéed Kale](#521-sautéed-kale) 🟩(13 min) |
+| 🟡 [Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) ❤️ 🟩(30 min) | 🟢 [Mamma's Spinach](#537-mammas-spinach) ❤️ 🟩(13 min†) |
+| 🟡 [Sous Vide Chicken Thighs](#7151-sous-vide-chicken-thighs-for-the-family-seared) (with a sauce: [§T8 pan sauce](#t8-pan-sauce-formula) · [Alabama white](#437-white-barbecue-sauce) · [salsa verde](#4146-basic-salsa-verde) · [tomatillo avocado](#499-tomatillo-avocado-salsa)) 🟩(30 min†) | 🟢 [Sautéed Kale](#521-sautéed-kale) 🟩(13 min) |
 | 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟢 [Lemon Green Beans](#536-lemon-green-beans) ❤️ 🟩(15 min†) |
-| 🟢 [Darcy's Steak](#3-darcys-steak) ❤️ 🟩(35 min†) — *the stovetop reverse sear; the sous vide version is [§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)* | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"* |
-| 🟡 [Sous Vide Smoked Steak](#7131-smoked-sous-vide-steak) 🟩(35–40 min†) ♨︎ — *the smoke is the dish; the sear can be a pan* | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
-| 🟢 [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ 🟩(40 min†) — *Cody: "just chopping — simmering the soup should not count"* | 🟢 [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ 🟩(15 min) |
-| 🟢 [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ ♨︎ — *Cody: "at least forty, more if you make Carolina slaw"* | 🟢 [Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)](#538-roasted-veggies) 👍 🟩(15 min) — *asparagus-only: [§5.15 Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min)* |
+| 🟢 [Darcy's Steak](#3-darcys-steak) ❤️ 🟩(35 min†) | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) |
+| 🟡 [Sous Vide Smoked Steak](#7131-smoked-sous-vide-steak) 🟩(35–40 min†) ♨︎ | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
+| 🟢 [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ 🟩(40 min†) | 🟢 [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ 🟩(15 min) |
+| 🟢 [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ ♨︎ | 🟢 [Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)](#538-roasted-veggies) 👍 🟩(15 min) |
 | 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) | 🟢 [Grilled (or Oven) Cauliflower](#542-grilled-cauliflower) 👍 🟩(15–20 min†) |
 | 🟡 [Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ❤️ 🟨(45 min) | 🟢 [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 🟩(15 min) |
 | 🟡 [Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) ❤️ 🟨(45 min†) ♨︎ | 🟢 [Grilled Asparagus](#541-grilled-asparagus) 🟩(15 min†) ♨︎ |
-| 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) | 🟢 [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) 🟩(15 min†) — *the overnight soak is lead time, not work* |
-| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ❤️ 🟩(20 min) — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation* |
-| 🟢 [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ 🟨(50 min†) ♨︎ — *for the 4 hr smoke, not the browning* | 🟢 [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🟩(20 min) 🥑 |
+| 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) | 🟢 [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) 🟩(15 min†) |
+| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ❤️ 🟩(20 min) |
+| 🟢 [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ 🟨(50 min†) ♨︎ | 🟢 [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🟩(20 min) 🥑 |
 | 🟡 [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🟨(50 min†) 🍽️ ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ 🟩(25 min) |
-| 🟢 [Last-Meal Ribs](#797-last-meal-ribs) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ — *Cody's "pork ribs" staple, read as his one ❤️ rib recipe* | 🟢 [Quick Pickles](#4177-quick-pickles) 🟩(25 min) |
-| 🟢 [Smoked Brisket](#61-smoked-brisket) ❤️ 🟨(60–90 min†) ♨︎ — *Cody: "trim the fat, get the pit ready, dry brine the night before — an hour, maybe an hour and a half"; the leftover/sliced idea is in the [🍱 Leftovers](#meal-planning-sheet) group* | 🟢 [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🟩(30 min†) 🥑 |
-| 🟢 [Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) ❤️ 🟨(60 min†) ♨︎ — *Cody: "really, really easy, probably takes an hour"; the 4 hr smoke is the ♨︎; batch two or three for [§1](#1-codys-pho)* | 🟢 [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🟩(35 min) 🥑 |
-| 🟢 [Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ — *no beer can — an upright stand; [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s method on a chicken; 30 hands-on plus the pit* | *No-cook staples:* |
+| 🟢 [Last-Meal Ribs](#797-last-meal-ribs) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Quick Pickles](#4177-quick-pickles) 🟩(25 min) |
+| 🟢 [Smoked Brisket](#61-smoked-brisket) ❤️ 🟨(60–90 min†) ♨︎ | 🟢 [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🟩(30 min†) 🥑 |
+| 🟢 [Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) ❤️ 🟨(60 min†) ♨︎ | 🟢 [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🟩(35 min) 🥑 |
+| 🟢 [Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | *No-cook staples:* |
 | 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟨(60 min) 🍽️ | Cottage cheese |
 | 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) | Sliced tomatoes, salted *(summer)* |
 | 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) | Avocado, halved and salted |
 | 🟡 [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ 🟨(70 min†) ♨︎ | Honeycrisp apples |
 | 🟡 [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 🟨(70 min, incl. 30 grill) ♨︎ | Blackberries |
-| 🟢 [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ 🟨(75 min†) ♨︎ — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's* | Strawberries |
-| 🟢 [Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ — *Tony's butter injection and Tony's Original rub the night before, then upright on a cavity stand through the fridge and the smoke; 45 hands-on plus the pit* | Raspberries |
+| 🟢 [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ 🟨(75 min†) ♨︎ | Strawberries |
+| 🟢 [Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ | Raspberries |
 | 🟢 [Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ | **🥕 Vegetables** |
-| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ — *the pork sears in cast iron; the fire is for the vegetables and naan* | 🟢 [Smoke-Roasted Garlic](#557-smoke-roasted-garlic) 🟩(10 min) ♨︎ |
+| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Smoke-Roasted Garlic](#557-smoke-roasted-garlic) 🟩(10 min) ♨︎ |
 | 🟢 [Sous Vide Cody's Pho](#1-codys-pho) ❤️ 🟥(140 min) 🍽️ | 🟢 [Smoked Tomato Raisins](#558-smoked-tomato-raisins) 🟩(10 min) ♨︎ |
 | **🥩 Beef & Venison** | 🟢 [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) 🟩(11 min) |
 | 🟢 [Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ❤️ 🟩(15 min) 🍽️ | 🟢 [Sautéed Asparagus](#52-sautéed-asparagus) ❤️ 🟩(13 min†) |
 | 🟢 [Sous Vide Hanger Steak with Duck Fat (or tallow) Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) 🟩(25 min, incl. 10 sear) | 🟢 [Mamma's Spinach](#537-mammas-spinach) ❤️ 🟩(13 min†) |
-| 🟢 [Darcy's Steak](#3-darcys-steak) ❤️ 🟩(35 min†) — *the stovetop reverse sear; the sous vide version is [§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)* | 🟢 [Sautéed Kale](#521-sautéed-kale) 🟩(13 min) |
+| 🟢 [Darcy's Steak](#3-darcys-steak) ❤️ 🟩(35 min†) | 🟢 [Sautéed Kale](#521-sautéed-kale) 🟩(13 min) |
 | 🟢 [Sous Vide Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) 🟩(35 min, incl. 10 sear) | 🟢 [Lemon Green Beans](#536-lemon-green-beans) ❤️ 🟩(15 min†) |
-| 🟡 [Sous Vide Smoked Steak](#7131-smoked-sous-vide-steak) 🟩(35–40 min†) ♨︎ — *the smoke is the dish; the sear can be a pan* | 🟢 [Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)](#538-roasted-veggies) 👍 🟩(15 min) |
-| 🟢 [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ 🟩(40 min†) — *Cody: "just chopping — simmering the soup should not count"* | 🟢 [Grilled (or Oven) Cauliflower](#542-grilled-cauliflower) 👍 🟩(15–20 min†) |
+| 🟡 [Sous Vide Smoked Steak](#7131-smoked-sous-vide-steak) 🟩(35–40 min†) ♨︎ | 🟢 [Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)](#538-roasted-veggies) 👍 🟩(15 min) |
+| 🟢 [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ 🟩(40 min†) | 🟢 [Grilled (or Oven) Cauliflower](#542-grilled-cauliflower) 👍 🟩(15–20 min†) |
 | 🟡 [Corned Beef & Cabbage, Cured from Scratch](#748-corned-beef--cabbage) 🟩(40 min) 🍽️ | 🟢 [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 🟩(15 min) |
 | 🟡 [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ 🟨(45 min†) ♨︎ | 🟢 [Grilled Asparagus](#541-grilled-asparagus) 🟩(15 min†) ♨︎ |
-| 🟢 [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ 🟨(50 min†) ♨︎ — *for the 4 hr smoke, not the browning* | 🟢 [Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min) |
+| 🟢 [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ 🟨(50 min†) ♨︎ | 🟢 [Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min) |
 | 🟡 [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🟨(50 min†) 🍽️ ♨︎ | 🟢 ["Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) 🟩(15 min) |
-| 🟢 [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🟨(50–55 min†) 🍽️ ♨︎ — *Cody: "definitely, like the steakhouse burgers"* | 🟢 [Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ❤️ 🟩(20 min) — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation* |
+| 🟢 [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🟨(50–55 min†) 🍽️ ♨︎ | 🟢 [Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ❤️ 🟩(20 min) |
 | 🟢 [Beef Back Ribs](#7130-beef-back-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Grilled Corn](#514-grilled-corn) 👍 🟩(20 min) ♨︎ |
 | 🟢 [Short Ribs, Texas Style](#7110-short-ribs-texas-style) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Sweet Potato Casserole](#511-sweet-potato-casserole) 👍 🟩(20 min) |
-| 🟡 [Skinny Steaks](#7107-skinny-steaks) 🟨(50 min†) ♨︎ — *Cody's figure, and it supersedes the 10-min badge plus overhead* | 🟢 [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🟩(20 min) 🥑 |
+| 🟡 [Skinny Steaks](#7107-skinny-steaks) 🟨(50 min†) ♨︎ | 🟢 [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🟩(20 min) 🥑 |
 | 🟡 [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) 🟨(50 min†) ♨︎ | 🟢 [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) 🟩(20 min) |
-| 🟢 [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Brussels Sprouts](#57-brussels-sprouts) ❤️ 🟩(22 min) — *bacon grease, tallow, or butter — three variations; ~27 if you crisp fresh bacon first* |
+| 🟢 [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Brussels Sprouts](#57-brussels-sprouts) ❤️ 🟩(22 min) |
 | 🟡 [Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) 🟨(55 min) | 🟡 [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) 🟩(25 min) |
-| 🟢 [Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) ❤️ 🟨(60 min†) ♨︎ — *Cody: "really, really easy, probably takes an hour"; the 4 hr smoke is the ♨︎; batch two or three for [§1](#1-codys-pho)* | 🟢 [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) 🟩(25 min) ♨︎ |
-| 🟢 [Smoked Brisket](#61-smoked-brisket) ❤️ 🟨(60–90 min†) ♨︎ — *Cody: "trim the fat, get the pit ready, dry brine the night before — an hour, maybe an hour and a half"; the leftover/sliced idea is in the [🍱 Leftovers](#meal-planning-sheet) group* | 🟢 [Sous Vide Fennel Fondant](#539-fennel-fondant) 🟩(25 min) |
+| 🟢 [Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) ❤️ 🟨(60 min†) ♨︎ | 🟢 [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) 🟩(25 min) ♨︎ |
+| 🟢 [Smoked Brisket](#61-smoked-brisket) ❤️ 🟨(60–90 min†) ♨︎ | 🟢 [Sous Vide Fennel Fondant](#539-fennel-fondant) 🟩(25 min) |
 | 🟡 [Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) 🟨(60 min, incl. 30 grill) ♨︎ | 🟢 [Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) 🟩(25 min) |
-| 🟡 [Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) 🟨(60 min†) 🍽️ — *Cody: "throw an hour on that"* | 🟢 [Pickled Okra](#526-pickled-okra) 🟩(25 min) |
+| 🟡 [Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) 🟨(60 min†) 🍽️ | 🟢 [Pickled Okra](#526-pickled-okra) 🟩(25 min) |
 | 🟡 [Steaks That Feed a Family of Five](#736-two-steaks-feed-four) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) 🟩(25 min) |
 | 🟡 [Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ❤️ 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) 🟩(30 min) ♨︎ |
 | 🟢 [Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) 🟨(70 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🟩(35 min) 🥑 |
-| **Brisket:** 🟢 [Texas-Style Barbecued](#67-texas-style-barbecued-brisket) 🟨(70 min, incl. 30 grill) · 🟢 [Texas Beef](#7112-texas-beef-brisket) 🟥(100 min, incl. 30 grill) · 🟡 [Championship, with Burnt Ends](#7135-championship-brisket-and-burnt-ends) 🟥(100 min, incl. 30 grill) ♨︎ — *each version incl. 30 grill* | 🟢 [Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) 🟩(35 min) |
+| **Brisket:** 🟢 [Texas-Style Barbecued](#67-texas-style-barbecued-brisket) 🟨(70 min, incl. 30 grill) · 🟢 [Texas Beef](#7112-texas-beef-brisket) 🟥(100 min, incl. 30 grill) · 🟡 [Championship, with Burnt Ends](#7135-championship-brisket-and-burnt-ends) 🟥(100 min, incl. 30 grill) ♨︎ | 🟢 [Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) 🟩(35 min) |
 | 🟡 [Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) 🟨(70 min) | 🟡 [Smothered Mustard Greens](#529-smothered-mustard-greens) 🟩(35 min) |
 | 🟡 [Afterburner Fajitas](#7134-afterburner-fajitas) 🟨(70 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) 🟥(85 min) |
 | 🟢 [Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) 🟨(75 min, incl. 30 grill) ♨︎ | **🥔 Potatoes, Rice & Grains** |
@@ -1437,27 +1437,27 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟡 [Kōji Filet Mignon](#7132-kōji-filet-mignon) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Garlic Cheese Grits](#1011-garlic-cheese-grits) 🟩(15 min) |
 | 🟡 [Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Cheese Grits](#1010-cheese-grits) 🟩(15 min) |
 | 🟡 [Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) 🟩(20 min) |
-| 🟢 [Sous Vide Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) 🟥(125 min, incl. 30 grill) ♨︎ — *for the 90 min pellet smoke; the sear can be a pan* | 🟢 [Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 👍 🟩(25 min) |
+| 🟢 [Sous Vide Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) 🟥(125 min, incl. 30 grill) ♨︎ | 🟢 [Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 👍 🟩(25 min) |
 | 🟡 [Prime Rib Dinner](#7114-prime-rib) 🟥(140 min, incl. 30 grill) ♨︎ | 🟡 [Grilled Grits](#1012-grilled-grits) 🟩(25 min) ♨︎ |
 | **🐖 Pork** | 🟢 [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🟩(30 min†) 🥑 |
 | 🟢 [Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) 🟩(35 min) | 🟢 [Smoked Potato Salad](#547-smoked-potato-salad) 🟩(30 min) ♨︎ |
-| 🟢 [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ ♨︎ — *Cody: "at least forty, more if you make Carolina slaw"* | 🟡 [Persian-ish Rice](#549-persian-ish-rice) 🟩(40 min) |
-| 🟢 [Sous Vide Boar Tenderloin (or pork tenderloin) with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) 🟩(40 min, incl. 10 sear) — *moved here from the old Game group on Cody's call; pork tenderloin stands in for the boar* | 🟢 [Oyster Dressing](#532-oyster-dressing-for-10-to-12-lb-turkey) 🟩(40 min) |
+| 🟢 [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ ♨︎ | 🟡 [Persian-ish Rice](#549-persian-ish-rice) 🟩(40 min) |
+| 🟢 [Sous Vide Boar Tenderloin (or pork tenderloin) with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) 🟩(40 min, incl. 10 sear) | 🟢 [Oyster Dressing](#532-oyster-dressing-for-10-to-12-lb-turkey) 🟩(40 min) |
 | 🟡 [Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ❤️ 🟨(45 min) | 🟢 [Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ❤️ 🟨(60 min†) |
-| 🟢 [Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) 🟨(45 min†) ♨︎ — *Cody's "championship pork — more like forty-five," applied here by the cookbook's reading that a butt is a roast and ribs are not (he said "you figure it out"); his figure is the whole number, grill included* | **🫘 Beans** |
-| 🟢 [Last-Meal Ribs](#797-last-meal-ribs) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) 🟩(15 min†) — *the overnight soak is lead time, not work* |
+| 🟢 [Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) 🟨(45 min†) ♨︎ | **🫘 Beans** |
+| 🟢 [Last-Meal Ribs](#797-last-meal-ribs) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) 🟩(15 min†) |
 | 🟡 [Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) 🟩(20 min) ♨︎ |
 | 🟢 [Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) 🟨(50 min, incl. 30 grill) ♨︎ | 🟡 [Boston Barbecue Beans](#548-boston-barbecue-beans) 🟩(40 min) ♨︎ |
-| 🟢 [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) 🟨(55 min, incl. 30 grill) ♨︎ | **🥗 Salads & Slaws** — *three on rotation: oil & vinegar · Caesar · Greek. Grana Padano or Romano, not American Parmesan* |
-| 🟢 [Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) 🟨(60 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Simple Romaine, Oil & Vinegar](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ 🟩(10 min†) — *premade oil and vinegar, nothing to cook — one of the three salads on rotation* |
+| 🟢 [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) 🟨(55 min, incl. 30 grill) ♨︎ | **🥗 Salads & Slaws** |
+| 🟢 [Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) 🟨(60 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Simple Romaine, Oil & Vinegar](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ 🟩(10 min†) |
 | 🟢 [Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [North Carolina Coleslaw](#513-north-carolina-coleslaw) 👍 🟩(10 min) |
 | 🟡 [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) 🟩(10 min) |
 | 🟡 [Boudin Blanc](#751-boudin-blanc-boudin) 🟨(75 min) | 🟢 [Cole Slaw](#535-cole-slaw) 🟩(10 min) |
-| 🟢 [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) 🟩(10 min) — *greens plus any dressing from the [⭐ Staple Sauces](#sauces) row; a template* |
-| 🟡 [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) 🟩(10 min) — *[§4.134](#4134-creamy-caesar-dressing) on homemade mayonnaise — one batch keeps 3 days, so eat it as soon as you make the mayo; add §4.134's 15 the night you make it; Grana Padano or Romano* |
-| 🟢 [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"* |
+| 🟢 [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) 🟩(10 min) |
+| 🟡 [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](#563-simple-romaine-homemade-caesar) 🟩(10 min) |
+| 🟢 [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ 🟩(15 min†) |
 | 🟢 [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Brazilian Salad](#519-brazilian-salad) ❤️ 🟩(15 min) |
-| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ — *the pork sears in cast iron; the fire is for the vegetables and naan* | 🟢 [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) 🟩(15 min) |
+| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) 🟩(15 min) |
 | 🟢 [Championship Pork Ribs](#7136-championship-pork-ribs) 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Bright Cabbage Slaw](#553-bright-cabbage-slaw) 🟩(15 min) |
 | 🟢 [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) 🟩(20 min) |
 | 🟡 [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) 🟩(20 min) |
@@ -1466,7 +1466,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Breast of Veal Braised with Green Olives & Tomatoes](#742-breast-of-veal-braised-with-green-olives--tomatoes) 🟩(40 min) | **🍞 Breads & Biscuits** |
 | 🟡 ["Brunette" de Veau](#749-brunette-de-veau) 🟨(45 min) | 🟢 [Keto Skillet Cornbread](#113-keto-skillet-cornbread) 👍 🟩(10 min) 🥑 |
 | **🍢 Kebabs & Skewers** | 🟡 [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) 🟩(10 min) ♨︎ |
-| **Raichlen's world beef kebabs:** 🟢 [Bengali Shish](#769-bengali-shish-kebabs) 🟨(75 min, incl. 30 grill) · 🟢 [Russian Shashlik](#770-russian-shashlik) 🟨(75 min, incl. 30 grill) · 🟢 [Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) 🟨(70 min, incl. 30 grill) · 🟢 [Quick Persian](#772-quick-persian-beef-kebabs) 🟨(65 min, incl. 30 grill) · 🟢 [Bani Marine Street](#773-bani-marine-street-beef-kebabs) 🟨(70 min, incl. 30 grill) · 🟢 [Madeira & Bay Leaf (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) 🟨(70 min, incl. 30 grill) ♨︎ — *each version incl. 30 grill* | 🟢 [Simple Grilled Crostini](#540-simple-grilled-crostini) 🟩(15 min) ♨︎ |
+| **Raichlen's world beef kebabs:** 🟢 [Bengali Shish](#769-bengali-shish-kebabs) 🟨(75 min, incl. 30 grill) · 🟢 [Russian Shashlik](#770-russian-shashlik) 🟨(75 min, incl. 30 grill) · 🟢 [Fiery Stick Meat (Suyas)](#771-fiery-stick-meat-suyas) 🟨(70 min, incl. 30 grill) · 🟢 [Quick Persian](#772-quick-persian-beef-kebabs) 🟨(65 min, incl. 30 grill) · 🟢 [Bani Marine Street](#773-bani-marine-street-beef-kebabs) 🟨(70 min, incl. 30 grill) · 🟢 [Madeira & Bay Leaf (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Simple Grilled Crostini](#540-simple-grilled-crostini) 🟩(15 min) ♨︎ |
 | 🟢 [Kufte Kebabs](#7123-kufte-kebabs) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Irish Soda Bread](#106-irish-soda-bread) 🟩(15 min) |
 | 🟢 [Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) 🟨(75 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Fancy Biscuits](#155-fancy-biscuits) 🟩(20 min) |
 | **🥪 Sandwiches & Handhelds** *(every one of these is 🍽️)* | 🟢 [Pastry Biscuits](#156-pastry-biscuits) 🟩(20 min) |
@@ -1477,19 +1477,19 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Tailgate Muffuletta Sandwich](#922-tailgate-muffuletta-sandwich) 🟩(20 min) 🍽️ | 🟡 [Plain French Bread](#151-plain-french-bread-pain-français) 🟨(50 min) |
 | 🟢 [Chicken Salad Sandwiches](#97-chicken-salad) ❤️ 🟩(25 min) 🍽️ | **🧊 No-Cook Sides** |
 | 🟢 [Pastrami on Rye (Close to Katz's)](#7113-close-to-katzs-pastrami) 🟨(65 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) |
-| **🍲 Broths, Stocks & Tonics** — *drink them, or build the soups on them* | Cottage cheese — *no entry* |
-| 🟢 [Chicken Stock](#840-chicken-stock) 🟩(15 min†) — *Cody: "you're just simmering it"* | Sliced tomatoes, salted — *no entry* |
-| 🟢 [Restorative Beef Broth](#814-restorative-beef-broth) 🟩(15 min†) — *Cody: "you're just simmering it"* | Avocado, halved and salted — *no entry* |
-| 🟢 [Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) 🟩(15 min) | Honeycrisp apples — *no entry* |
-| 🟢 [Smoked Bone Broth](#7104-smoked-bone-broth) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | Blackberries — *no entry* |
-|    | Strawberries — *no entry; Cody: "with my barbecue"* |
-|    | Raspberries — *no entry; Cody: "not as much"* |
+| **🍲 Broths, Stocks & Tonics** | Cottage cheese |
+| 🟢 [Chicken Stock](#840-chicken-stock) 🟩(15 min†) | Sliced tomatoes, salted |
+| 🟢 [Restorative Beef Broth](#814-restorative-beef-broth) 🟩(15 min†) | Avocado, halved and salted |
+| 🟢 [Everyday Vegetable Tonic](#815-everyday-vegetable-tonic) 🟩(15 min) | Honeycrisp apples |
+| 🟢 [Smoked Bone Broth](#7104-smoked-bone-broth) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | Blackberries |
+| | Strawberries |
+| | Raspberries |
 | **Mains (cont.)** | **Mains (cont.)** |
 | **🐔 Chicken & Poultry** | **🐟 Seafood & Fish** |
-| 🟡 [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) 🟩(20–30 min†) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | 🟢 [Sautéed Crawfish](#725-sautéed-crawfish) 🟩(25 min) |
-| 🟢 [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) 🟩(20 min) | 🟡 [Broiled Fish, Your Choice of Sauce](#761-broiled-fish) ❤️ 🟩(30 min) — *pick one from [Fish & seafood sauces](#sauces)* |
-| 🟡 [Sous Vide Chicken Thighs for the Family](#7151-sous-vide-chicken-thighs-for-the-family-seared) 🟩(30 min†) — *§7.151, the recipe version of the line above — 12 thighs, feeds six, **pan seared, not grilled*** | 🟡 [Captain Mike's Ceviche](#722-captain-mikes-ceviche) ❤️ 🟩(30 min) |
-| 🟡 [Sous Vide BBQ Fried Chicken](#780-bbq-fried-chicken) 🟩(30 min) | 🟡 [Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) ❤️ 🟩(30 min) — *the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak stays on as the wash; almond flour, avocado oil, lemons* |
+| 🟡 [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) 🟩(20–30 min†) | 🟢 [Sautéed Crawfish](#725-sautéed-crawfish) 🟩(25 min) |
+| 🟢 [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) 🟩(20 min) | 🟡 [Broiled Fish, Your Choice of Sauce](#761-broiled-fish) ❤️ 🟩(30 min) |
+| 🟡 [Sous Vide Chicken Thighs for the Family](#7151-sous-vide-chicken-thighs-for-the-family-seared) 🟩(30 min†) | 🟡 [Captain Mike's Ceviche](#722-captain-mikes-ceviche) ❤️ 🟩(30 min) |
+| 🟡 [Sous Vide BBQ Fried Chicken](#780-bbq-fried-chicken) 🟩(30 min) | 🟡 [Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) ❤️ 🟩(30 min) |
 | 🟡 [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) 🟩(30 min) | 🟡 [Beer-Battered Fish](#7125-beer-battered-fish) 🟩(30 min) |
 | 🟢 [Poulet de France](#7124-poulet-de-france) ❤️ 🟩(35 min) 🍽️ | **Crawfish Pie:** 🟡 [I](#765-crawfish-pie-i) 🟥(80 min) · 🟢 [II](#766-crawfish-pie-ii) 🟩(30 min) |
 | 🟡 [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) 🟩(35 min) | 🟡 [Scallops with Black Garlic Butter Sauce](#7143-scallops-with-black-garlic-butter-sauce) 🟩(35 min) |
@@ -1505,21 +1505,21 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ 🟨(55 min†) ♨︎ | 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) |
 | 🟡 [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) 🟨(55 min) | 🟢 [Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) 🟨(45 min, incl. 30 grill) ♨︎ |
 | 🟢 [Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) 🟨(55 min, incl. 30 grill) ♨︎ | 🟢 [Butter-Poached Fillets](#792-butter-poached-fillets) 🟨(45 min, incl. 30 grill) ♨︎ |
-| 🟢 [Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ — *no beer can — an upright stand; [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s method on a chicken; 30 hands-on plus the pit* | 🟢 [Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) 🟨(50 min, incl. 30 grill) ♨︎ |
+| 🟢 [Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | 🟢 [Smoked Trout, Florida Mullet Style](#788-smoked-trout-florida-mullet-style) 🟨(50 min, incl. 30 grill) ♨︎ |
 | 🟢 [Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) 🟨(60 min, incl. 30 grill) ♨︎ | 🟢 [Smoked Halibut Salad](#791-smoked-halibut-salad) 🟨(50 min, incl. 30 grill) ♨︎ |
 | 🟡 [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ 🟨(70 min†) ♨︎ | 🔴 [Crawfish Magnifique in a Mirliton Pirogue](#726-crawfish-magnifique-in-a-mirliton-pirogue) 🟨(50 min) |
 | 🟢 [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) 🟨(50 min) |
 | 🟢 [Tandoori Chicken](#7140-tandoori-chicken) 🟨(70 min, incl. 30 grill) ♨︎ | 🟡 [Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ❤️ 🟨(60 min, incl. 30 grill) 🍽️ ♨︎ |
 | 🟡 [Chicken Sauce Piquant](#728-chicken-sauce-piquant) 🟨(70 min) | 🟡 [Chef Bonner's Fish Fillets with Brioni Broth](#789-chef-bonners-fish-fillets-with-brioni-broth) 🟨(60 min, incl. 30 grill) ♨︎ |
 | 🟡 [Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) 🟨(70 min) | 🟢 [Baja Fish Tacos](#793-baja-fish-tacos) 🟨(60 min, incl. 30 grill) 🍽️ ♨︎ |
-| 🟢 [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ 🟨(75 min†) ♨︎ — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's* | 🟡 [Greg's Grilled Lobster](#794-gregs-grilled-lobster) 🟨(65 min, incl. 30 grill) ♨︎ |
-| 🟢 [Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ — *Tony's butter injection and Tony's Original rub the night before, then upright on a cavity stand through the fridge and the smoke; 45 hands-on plus the pit* | 🟡 [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 🟨(70 min, incl. 30 grill) ♨︎ |
+| 🟢 [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ 🟨(75 min†) ♨︎ | 🟡 [Greg's Grilled Lobster](#794-gregs-grilled-lobster) 🟨(65 min, incl. 30 grill) ♨︎ |
+| 🟢 [Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ | 🟡 [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 🟨(70 min, incl. 30 grill) ♨︎ |
 | 🟡 [Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) 🟨(75 min, incl. 30 grill) ♨︎ | 🟡 [Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) 🟨(70 min, incl. 30 grill) ♨︎ |
 | 🟡 [Buttered-Up Turkey Breast with Drunken Cranberries](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) 🟨(75 min, incl. 30 grill) ♨︎ | 🟢 [Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ❤️ 🟨(75 min, incl. 30 grill) ♨︎ |
-| 🟡 [Grilled Quail (or chicken thighs) with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) 🟥(80 min, incl. 30 grill) ♨︎ — *moved here from the old Game group on Cody's call; chicken thighs stand in for the quail* | 🟡 [Coconut Beer Shrimp](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) 🟥(80 min) |
+| 🟡 [Grilled Quail (or chicken thighs) with Pear and Pine Nut Salad](#767-grilled-quail-with-pear-and-pine-nut-salad) 🟥(80 min, incl. 30 grill) ♨︎ | 🟡 [Coconut Beer Shrimp](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) 🟥(80 min) |
 | 🟢 [Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) 🟥(80 min, incl. 30 grill) ♨︎ | 🟡 [Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) 🟥(90 min) |
 | 🟡 [Championship Chicken](#7141-championship-chicken) 🟥(120 min, incl. 30 grill) ♨︎ | 🔴 [Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ 🟥(95 min) |
-| **🍜 Pasta, Rice & Noodle Bowls** *(every one of these is 🍽️)* | **🥣 Soups, Gumbos & Chili** — *a soup is the main; give it bread or a salad* |
+| **🍜 Pasta, Rice & Noodle Bowls** *(every one of these is 🍽️)* | **🥣 Soups, Gumbos & Chili** |
 | 🟢 [Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) 🟩(10 min) 🍽️ | 🟢 [Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) 👍 🟩(10 min) |
 | 🟢 [Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) 🟩(20 min) 🍽️ | 🟢 [Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) 🟩(15 min) |
 | 🟢 [Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) 🟩(20 min) 🍽️ | 🟡 [Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup) 🟩(20 min) |
@@ -1527,8 +1527,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Quesadillas](#931-quesadillas) 🟩(25 min) 🍽️ | 🟢 [Turkey & Potato Soup](#812-turkey--potato-soup) 🟩(20 min) |
 | 🟢 [Pasta Puttanesca](#753-pasta-puttanesca) 🟩(25 min) 🍽️ | 🟢 [Chili Mac](#81-chili-mac) ❤️ 🟩(25 min) 🍽️ |
 | 🟡 [Asparagus on Pasta with a Poached Egg](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) 🟩(25 min) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ 🟩(30 min†) |
-| 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ — *Cody: "prep time takes thirty minutes; baking is waiting" — and 🟢 on his call* | 🟢 [Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) 🟩(30 min) |
-| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) 🟩(30 min) — *build your own* |
+| 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) 🟩(30 min) |
+| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) 🟩(30 min) |
 | 🟡 [Pasta alle Vongole](#7129-pasta-alle-vongole) 🟩(40 min) 🍽️ | 🟢 [Warm Beet Soup](#810-warm-beet-soup) 🟩(35 min) |
 | 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) |
 | 🟡 [Shrimp Risotto](#740-shrimp-risotto) 🟨(55 min) 🍽️ | 🟡 [Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) 🟩(40 min) |
@@ -1546,15 +1546,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟡 [Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ❤️ 🟨(60 min†) |
 | 🟢 [Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) 🟩(35 min†) | 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) |
 | 🟡 [Quiche aux Oignons](#1013-quiche-aux-oignons-onion-quiche) 🟩(35 min) 🍽️ | 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) |
-| **🍱 Leftovers** — *no grill, all 🟢* | 🟡 [Chicken Gumbo Filé](#828-chicken-gumbo-filé) 🟨(60 min) |
-| 🟢 [Leftover Kebabs](#719-honey-chicken-marinade--kabobs) ❤️ 🟩(10 min) — *Cody: "we usually make a whole bunch… you could have leftover kebabs for sure"; a reheat, cookbook estimate* | 🟡 [Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) 🟨(65 min) |
-| 🟢 Leftover Chili → [Frito Pie](#847-frito-pie) ❤️ 🟩(10 min) 🍽️ — *Cody: "Fritos, chili, shredded cheese, raw onions, Louisiana hot sauce — watch out, buddy"; dice an onion and reheat the chili, cookbook estimate. The chili itself is still to be dictated — see [§12](#12-recipes-to-document)* | 🟢 [Squash Bisque](#559-squash-bisque) 🟥(85 min, incl. 30 grill) ♨︎ |
-| 🟢 Leftover Chili → [Chili Mac](#81-chili-mac) ❤️ 🟩(15 min) 🍽️ — *with the chili already made, it is just the noodles; the fresh build is on the Soups line. Frito Pie ❤️, the line above, is the second use* | 🔴 [Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ❤️ 🟥(90 min) |
-| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ — *Cody: "that is always from the leftover pork… chopping the cilantro, onions, and lime — a twenty minute meal"* | 🔴 [Verna's Galimatias](#846-vernas-galimatias) 🟥(90 min) |
-| 🟢 [Leftover Sliced Brisket, reheated sous vide](#61-smoked-brisket) ❤️ 🟩(20 min) — *from [§6.1](#61-smoked-brisket) or [§6.10](#610-sous-vide-brisket-richies-method); Cody: "brisket you have to reheat in the sous vide, so it may take a little longer" — the bath is the wait, the 20 is bagging and slicing (cookbook estimate; see [§T46](#t46-freezing-and-reheating-leftovers))* | **Crawfish Bisque:** 🟡 [Bisque d'Écrevisses](#819-crawfish-bisque-bisque-décrevisses) 🟥(240 min) · 🔴 [I](#841-crawfish-bisque-i) 🟥(180 min) · 🟡 [II](#843-crawfish-bisque-ii) 🟥(125 min) |
-| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ — *retitled from "Pho with Leftover Brisket" on Cody's note: "sometimes when I sous vide a beef I'll do two or three chuck roasts and reuse it when I make pho" — see [§1](#1-codys-pho); ♨︎ off on his leftovers rule* |    |
-| 🟢 [Leftover Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ — *Cody's 40 is with Carolina slaw made fresh; reheating alone is ~10* |    |
-| *Storage and reheating: [§T61 Leftover Pulled Pork](#t61-leftover-pulled-pork--storage-and-reheating) and [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)* |    |
+| **🍱 Leftovers** | 🟡 [Chicken Gumbo Filé](#828-chicken-gumbo-filé) 🟨(60 min) |
+| 🟢 [Leftover Kebabs](#719-honey-chicken-marinade--kabobs) ❤️ 🟩(10 min) | 🟡 [Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) 🟨(65 min) |
+| 🟢 Leftover Chili → [Frito Pie](#847-frito-pie) ❤️ 🟩(10 min) 🍽️ | 🟢 [Squash Bisque](#559-squash-bisque) 🟥(85 min, incl. 30 grill) ♨︎ |
+| 🟢 Leftover Chili → [Chili Mac](#81-chili-mac) ❤️ 🟩(15 min) 🍽️ | 🔴 [Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ❤️ 🟥(90 min) |
+| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ | 🔴 [Verna's Galimatias](#846-vernas-galimatias) 🟥(90 min) |
+| 🟢 [Leftover Sliced Brisket, reheated sous vide](#61-smoked-brisket) ❤️ 🟩(20 min) | **Crawfish Bisque:** 🟡 [Bisque d'Écrevisses](#819-crawfish-bisque-bisque-décrevisses) 🟥(240 min) · 🔴 [I](#841-crawfish-bisque-i) 🟥(180 min) · 🟡 [II](#843-crawfish-bisque-ii) 🟥(125 min) |
+| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ | |
+| 🟢 [Leftover Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ | |
 
 ### Appetizers & Dips
 
@@ -1563,42 +1562,42 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) 🟩(10 min) | 🟢 [Easy Deviled Eggs](#933-easy-deviled-eggs) ❤️ 🟩(15 min†) |
 | 🟢 [Smoked Salmon Butter](#914-smoked-salmon-butter) 🟩(10 min) | 🟢 [Crabmeat Imperial](#925-crabmeat-imperial) 🟩(20 min) |
 | 🟢 [Anchovy & Lemon Butter](#915-anchovy--lemon-butter) 🟩(10 min) | 🟢 [Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) 🟩(25 min) |
-| 🟢 [Melba Toasts](#911-melba-toasts) 🟩(10 min) — *the cracker for all of these* | 🟢 [Jalapeño Poppers](#98-jalapeño-poppers) ❤️ 🟩(30 min) |
+| 🟢 [Melba Toasts](#911-melba-toasts) 🟩(10 min) | 🟢 [Jalapeño Poppers](#98-jalapeño-poppers) ❤️ 🟩(30 min) |
 | 🟢 [Potted Crab](#912-potted-crab) 🟩(20 min) | 🟢 [Crabmeat Avery](#910-crabmeat-avery) 🟩(30 min) |
 | 🟢 [Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) 👍 🟩(30 min†) | 🟢 [Shrimp Remoulade](#99-shrimp-remoulade) ❤️ 🟩(35 min) |
 | 🟡 [Crab Marie](#924-crab-marie) 🟩(40 min) | 🟢 [Mushroom Florentine](#926-mushroom-florentine) 🟩(35 min) |
-| 🟢 [Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) 🟩(43 min, incl. 30 grill) ♨︎ — *borderline: the naan; a 375°F oven does it too* | 🟢 [Pickled Shrimp & Celery](#920-pickled-shrimp--celery) 🟩(35 min) |
-| 🟢 [Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) 🟨(60 min, incl. 30 grill) ♨︎ — *Cody: "if you're cooking it on the grill add the extra half hour"* | 🟡 [Beef Jerky](#96-beef-jerky) ❤️ 🟨(60 min†) |
-|   | 🟡 [Deer Jerky](#929-deer-jerky) ❤️ 🟨(60 min†) |
-|   | 🟢 [Deviled Eggs](#916-deviled-eggs) 🟨(60 min†) |
-|   | 🟢 [Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) 🟨(65 min) |
-|   | 🟡 [Char-Grilled Oysters](#928-char-grilled-oysters) ❤️ 🟥(120 min†) ♨︎ — *Cody: "way more time — two hours"* |
+| 🟢 [Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) 🟩(43 min, incl. 30 grill) ♨︎ | 🟢 [Pickled Shrimp & Celery](#920-pickled-shrimp--celery) 🟩(35 min) |
+| 🟢 [Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) 🟨(60 min, incl. 30 grill) ♨︎ | 🟡 [Beef Jerky](#96-beef-jerky) ❤️ 🟨(60 min†) |
+| | 🟡 [Deer Jerky](#929-deer-jerky) ❤️ 🟨(60 min†) |
+| | 🟢 [Deviled Eggs](#916-deviled-eggs) 🟨(60 min†) |
+| | 🟢 [Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) 🟨(65 min) |
+| | 🟡 [Char-Grilled Oysters](#928-char-grilled-oysters) ❤️ 🟥(120 min†) ♨︎ |
 
 ### Rubs & Seasonings, by Protein
 
 | Goes on | Reach for |
 |---|---|
-| **⭐ Staple Rubs** — *when a recipe says "your favorite rub," reach for one of these* | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) ❤️ · 🟢 [Dalmatian Rub](#4105-dalmatian-rub) ❤️ 🟩(2 min) · 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ 🟩(10 min) · 🟢 [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ 🟩(15 min) |
+| **⭐ Staple Rubs** | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) ❤️ · 🟢 [Dalmatian Rub](#4105-dalmatian-rub) ❤️ 🟩(2 min) · 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ 🟩(10 min) · 🟢 [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ 🟩(15 min) |
 | **Beef** | 🟢 [Dalmatian Rub](#4105-dalmatian-rub) ❤️ 🟩(2 min) · 🟢 [Red Meat Rub](#4165-red-meat-rub) 🟩(5 min) · 🟢 [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ 🟩(10 min) · 🟢 [Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) 🟩(10 min) · 🟢 [Butcher Block Seasoning](#4116-butcher-block-seasoning) 🟩(10 min) · 🟢 [Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) 🟩(10 min) · 🟡 [Texas Chili Rub](#432-texas-chili-rub) 🟩(15 min) |
 | **Pork** | 🟢 [Basic Barbecue Rub](#426-basic-barbecue-rub) 🟩(5 min) · 🟢 [Cool Smoke Rub](#4169-cool-smoke-rub) 🟩(10 min) · 🟢 [Pork Brine Injection](#4103-pork-brine-injection) 🟩(10 min) · 🟢 [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ❤️ 🟩(15 min) |
 | **Chicken & poultry** | 🟢 [Cajun Rub](#427-cajun-rub) 🟩(5 min) · 🟢 [Java Rub](#429-java-rub) 🟩(5 min) · 🟢 [Mediterranean Herb Rub](#431-mediterranean-herb-rub) 🟩(5 min) · 🟢 [Cool Smoke Injection](#4171-cool-smoke-injection) 🟩(5 min) · 🟢 [Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) 🟩(10 min) · 🟢 [Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) 🟩(10 min) · 🟢 [Cajun Seasoning](#4112-cajun-seasoning) 🟩(15 min) |
 | **Seafood** | 🟢 [Marietta's Fish Rub](#4111-mariettas-fish-rub) 🟩(5 min) · 🟢 [Basic Fish Cure](#425-basic-fish-cure) 🟩(5 min) · 🟢 [Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) 🟩(15 min) ♨︎ |
-| **Anything** | 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Cody's Smoked Salt](#4195-codys-smoked-salt) ❤️ 🟩(5 min) ♨︎ · 🟢 [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) 🟩(5 min) · 🟢 [Dolly's Lamb Rub](#4110-dollys-lamb-rub) 🟩(10 min) *(lamb)* · 🟢 [French Rub](#4166-french-rub) 🟩(15 min) · 🟢 [Chinese Five-Spice Rub](#428-chinese-five-spice-rub) 🟩(15 min) · 🟡 [Sesame Seasoning](#433-sesame-seasoning) 🟩(15 min) · 🟢 [Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) 🟩(15 min) ♨︎ · 🟢 [Basic Brinerade](#4101-basic-brinerade) 🟩(15 min) · 🟢 [The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) 🟩(20 min) · [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) ❤️ |
+| **Anything** | 🟢 [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ 🟩(5 min) · 🟢 [Cody's Smoked Salt](#4195-codys-smoked-salt) ❤️ 🟩(5 min) ♨︎ · 🟢 [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) 🟩(5 min) · 🟢 [Dolly's Lamb Rub](#4110-dollys-lamb-rub) 🟩(10 min) · 🟢 [French Rub](#4166-french-rub) 🟩(15 min) · 🟢 [Chinese Five-Spice Rub](#428-chinese-five-spice-rub) 🟩(15 min) · 🟡 [Sesame Seasoning](#433-sesame-seasoning) 🟩(15 min) · 🟢 [Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) 🟩(15 min) ♨︎ · 🟢 [Basic Brinerade](#4101-basic-brinerade) 🟩(15 min) · 🟢 [The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) 🟩(20 min) · [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) ❤️ · [Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought) ❤️ |
 
 ### Sauces
 
 | Sauces | Reach for |
 |---|---|
-| **⭐ Staple Sauces** | 🟢 [Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️ 🟩(5 min) · 🟢 [Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) 🟩(5 min) · 🟢 [Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing) 🟩(5 min) *(the French master)* · 🟢 [Red Wine Vinaigrette](#4138-red-wine-vinaigrette) 🟩(5 min) · 🟢 [Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) ❤️ 🟩(10 min) · 🟢 [Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ❤️ 🟩(10 min) · 🟢 [Easy Wine Pan Sauce (white or red) — §T8](#t8-pan-sauce-formula) 🟩(10 min) · 🟡 [Homemade Mayonnaise](#4187-homemade-mayonnaise) 🟩(10 min) *(the parent)* · 🟡 [Rustic Mayonnaise](#4159-rustic-mayonnaise) 🟩(10 min) · 🟢 [Canal House Lemon Butter](#456-canal-house-lemon-butter) 🟩(10 min) · 🟢 [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ 🟩(15 min) · 🟢 [Creamy Caesar Dressing](#4134-creamy-caesar-dressing) 🟩(15 min) · 🟢 [Quick Pickles](#4177-quick-pickles) 🟩(25 min) |
-| **French — white: béchamel & velouté** *(parent first)* | 🟡 [Sauce Béchamel / Sauce Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce) 🟩(10 min) *(the master — every sauce after it is this plus one thing)* · 🟡 [Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) 🟩(10 + 15 min) *(egg yolk and cream)* · 🟢 [Sauce Mornay](#465-sauce-mornay-cheese-sauce) 🟩(10 + 10 min) *(cheese)* · 🟢 [Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) 🟩(10 + 10 min) *(tomato)* · 🟢 [Sauce Chivry / Sauce à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce) 🟩(10 + 15 min) *(white wine, tarragon)* · 🟡 [Sauce au Cari](#468-sauce-au-cari-light-curry-sauce) 🟩(20 min) *(curry)* · 🟡 [Sauce Soubise](#469-sauce-soubise-onion-sauce) 🟩(20 min) *(onion)* · 🟡 [Sauce Bâtarde / Sauce au Beurre](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) 🟩(15 min) *(mock hollandaise)* · 🟡 [Balsamella](#452-balsamella) 🟩(20 min) *(the Italian béchamel)* |
-| **French — brown: the three bases** | 🟡 [Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) 🟩(35 min) *(1 — flour-based, the classic)* · 🟡 [Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) 🟩(40 min) *(2 — flour-based, with giblets)* · 🟢 [Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) 🟩(10 min) *(3 — starch-thickened, the quick one)* |
-| **Wine & brown — madeira & port** | 🟢 [Sauce Madère / Sauce au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) 🟨(35 + 15 min) · 🟢 [Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) 🟨(35 + 20 min) *(Madeira and truffles)* |
-| **Wine & brown — sharp & mustard** | 🟢 [Sauce Diable](#474-sauce-diable-peppery-brown-sauce) 🟨(35 + 20 min) *(peppery)* · 🟢 [Sauce Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers) 🟨(35 + 25 min) *(pickles and capers)* · 🟢 [Sauce Robert](#476-sauce-robert-brown-mustard-sauce) 🟨(35 + 25 min) *(mustard)* |
+| **⭐ Staple Sauces** | 🟢 [Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️ 🟩(5 min) · 🟢 [Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) 🟩(5 min) · 🟢 [Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing) 🟩(5 min) · 🟢 [Red Wine Vinaigrette](#4138-red-wine-vinaigrette) 🟩(5 min) · 🟢 [Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) ❤️ 🟩(10 min) · 🟢 [Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ❤️ 🟩(10 min) · 🟢 [Easy Wine Pan Sauce (white or red) — §T8](#t8-pan-sauce-formula) 🟩(10 min) · 🟡 [Homemade Mayonnaise](#4187-homemade-mayonnaise) 🟩(10 min) · 🟡 [Rustic Mayonnaise](#4159-rustic-mayonnaise) 🟩(10 min) · 🟢 [Canal House Lemon Butter](#456-canal-house-lemon-butter) 🟩(10 min) · 🟢 [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ 🟩(15 min) · 🟢 [Creamy Caesar Dressing](#4134-creamy-caesar-dressing) 🟩(15 min) · 🟢 [Quick Pickles](#4177-quick-pickles) 🟩(25 min) |
+| **French — white: béchamel & velouté** | 🟡 [Sauce Béchamel / Sauce Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce) 🟩(10 min) · 🟡 [Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) 🟩(10 + 15 min) · 🟢 [Sauce Mornay](#465-sauce-mornay-cheese-sauce) 🟩(10 + 10 min) · 🟢 [Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) 🟩(10 + 10 min) · 🟢 [Sauce Chivry / Sauce à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce) 🟩(10 + 15 min) · 🟡 [Sauce au Cari](#468-sauce-au-cari-light-curry-sauce) 🟩(20 min) · 🟡 [Sauce Soubise](#469-sauce-soubise-onion-sauce) 🟩(20 min) · 🟡 [Sauce Bâtarde / Sauce au Beurre](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) 🟩(15 min) · 🟡 [Balsamella](#452-balsamella) 🟩(20 min) |
+| **French — brown: the three bases** | 🟡 [Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) 🟩(35 min) · 🟡 [Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) 🟩(40 min) · 🟢 [Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) 🟩(10 min) |
+| **Wine & brown — madeira & port** | 🟢 [Sauce Madère / Sauce au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) 🟨(35 + 15 min) · 🟢 [Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) 🟨(35 + 20 min) |
+| **Wine & brown — sharp & mustard** | 🟢 [Sauce Diable](#474-sauce-diable-peppery-brown-sauce) 🟨(35 + 20 min) · 🟢 [Sauce Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers) 🟨(35 + 25 min) · 🟢 [Sauce Robert](#476-sauce-robert-brown-mustard-sauce) 🟨(35 + 25 min) |
 | **Wine & brown — herb & curry** | 🟢 [Sauce Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce) 🟨(35 + 15 min) · 🟢 [Sauce Brune au Cari](#478-sauce-brune-au-cari-brown-curry-sauce) 🟨(35 + 25 min) |
-| **Wine & brown — mushroom** | 🟢 [Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) 🟨(35 + 25 min) · 🟢 [Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) 🟩(30 min) *(the beef one)* |
-| **Wine & brown — other wine & gravy** | 🟡 [Sherry Wine Sauce](#4188-sherry-wine-sauce) 🟩(10 min) · 🟡 [Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) 🟩(35 min) · 🟡 [Giblet Gravy](#417-giblet-gravy) 🟩(40 min) *(turkey)* |
-| **Butter & emulsion — egg emulsions** *(parent first)* | 🔴 [Hollandaise Sauce](#49-hollandaise-sauce) ❤️ 🟩(35 min) *(the parent)* · 🟡 [New Orleans Béarnaise](#410-new-orleans-béarnaise-sauce) 🟨(35 + 10 min) · 🟡 [Choron](#411-choron-sauce) 🟨(35 + 20 min) *(béarnaise plus tomato)* |
-| **Butter & emulsion — butter emulsions & browned butters** | 🟢 [New Orleans Bordelaise](#415-new-orleans-bordelaise-sauce) 🟩(5 min) *(butter and garlic — not the French one)* · 🟡 [Lemon Butter Sauce](#418-lemon-butter-sauce) 🟩(10 min) · 🟡 [Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) 🟩(10 min) · 🟡 [Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) 🟩(15 min) · 🔴 [Beurre Blanc / Beurre Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce) 🟩(20 min) · 🟡 [Meunière Sauce](#420-meunière-sauce) 🟩(25 min) |
+| **Wine & brown — mushroom** | 🟢 [Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) 🟨(35 + 25 min) · 🟢 [Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) 🟩(30 min) |
+| **Wine & brown — other wine & gravy** | 🟡 [Sherry Wine Sauce](#4188-sherry-wine-sauce) 🟩(10 min) · 🟡 [Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) 🟩(35 min) · 🟡 [Giblet Gravy](#417-giblet-gravy) 🟩(40 min) |
+| **Butter & emulsion — egg emulsions** | 🔴 [Hollandaise Sauce](#49-hollandaise-sauce) ❤️ 🟩(35 min) · 🟡 [New Orleans Béarnaise](#410-new-orleans-béarnaise-sauce) 🟨(35 + 10 min) · 🟡 [Choron](#411-choron-sauce) 🟨(35 + 20 min) |
+| **Butter & emulsion — butter emulsions & browned butters** | 🟢 [New Orleans Bordelaise](#415-new-orleans-bordelaise-sauce) 🟩(5 min) · 🟡 [Lemon Butter Sauce](#418-lemon-butter-sauce) 🟩(10 min) · 🟡 [Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) 🟩(10 min) · 🟡 [Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) 🟩(15 min) · 🔴 [Beurre Blanc / Beurre Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce) 🟩(20 min) · 🟡 [Meunière Sauce](#420-meunière-sauce) 🟩(25 min) |
 | **Butter & emulsion — compound butters** | 🟢 [Fresh Herb Butter](#455-fresh-herb-butter) 🟩(10 min) · 🟢 [Canal House Lemon Butter](#456-canal-house-lemon-butter) 🟩(10 min) · 🟢 [Smoked Butter](#4167-smoked-butter) 🟩(10 min) ♨︎ |
 | **Fish & seafood — rich & Cajun** | 🟡 [Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ❤️ 🟩(25 min) · 🟢 [Czarina Sauce with Shrimp or Crawfish](#421-czarina-sauce-with-shrimp-or-crawfish) 🟩(25 min) · 🔴 [Fish Brown Sauce](#412-fish-brown-sauce) 🟩(35 min) · 🟢 [Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) 🟩(25 min) ♨︎ · 🟢 [Creole Sauce](#414-creole-sauce) 🟩(25 min) |
 | **Fish & seafood — butter finishes** | 🟢 [Ketjap Butter](#4183-ketjap-butter) 🟩(5 min) · 🟢 [Pecan Butter Sauce](#424-pecan-butter-sauce) 🟩(10 min) |
@@ -1607,21 +1606,21 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | **Barbecue — vinegar (the Carolinas)** | 🟢 [North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) 🟩(5 min) · 🟢 [Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce) 🟩(10 min) |
 | **Barbecue — mustard (South Carolina)** | 🟢 [Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) 🟩(10 min) · 🟢 [Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce) 🟩(20 min) · 🟢 [Carolina Gold for Grownups](#4179-carolina-gold-for-grownups) 🟩(25 min) |
 | **Barbecue — tomato (Kansas City)** | 🟡 [Kansas City Red](#4178-kansas-city-red) 🟩(15 min) · 🟡 [Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) 🟩(30 min) · 🟢 [Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) 🟩(25 min) |
-| **Barbecue — mayonnaise (Alabama)** | 🟢 [White Barbecue Sauce](#437-white-barbecue-sauce) 🟩(10 min) *(Raichlen's Big Bob Gibson)* |
+| **Barbecue — mayonnaise (Alabama)** | 🟢 [White Barbecue Sauce](#437-white-barbecue-sauce) 🟩(10 min) |
 | **Barbecue — mops & bastes** | 🟢 [Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) 🟩(10 min) · 🟢 [Texas Mop Sauce](#4121-texas-mop-sauce) 🟩(20 min) |
 | **Barbecue — odd one out** | 🟢 [D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) 🟩(10 min) |
 | **Fresh & cold — salsas** | 🟢 [Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ❤️ 🟩(10 min) · 🟢 [Pico de Gallo](#445-pico-de-gallo) 🟩(15 min) · 🟢 [Salsa Verde](#447-salsa-verde) 🟩(30 min) |
-| **Fresh & cold — herb salsas** | 🟢 [Basic Salsa Verde](#4146-basic-salsa-verde) 🟩(10 min) *(the parent)* · 🟢 [Salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) 🟩(10 min) · 🟢 [North African Charmoula](#4152-north-african-charmoula) 🟩(13 min) |
-| **Fresh & cold — chimichurri & pesto** | 🟢 [Three-Herb Chimichurri](#444-three-herb-chimichurri) 🟩(15 min) · 🟢 [Pesto](#4164-pesto-basil-pesto) 🟩(15 min) *(basil — the one to start from)* · 🟡 [Red Chimichurri](#494-red-chimichurri) 🟩(40 min) |
-| **Fresh & cold — vinaigrettes** | 🟢 [Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️ 🟩(5 min) · 🟢 [Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing) 🟩(5 min) *(the French master)* · 🟢 [Red Wine Vinaigrette](#4138-red-wine-vinaigrette) 🟩(5 min) |
+| **Fresh & cold — herb salsas** | 🟢 [Basic Salsa Verde](#4146-basic-salsa-verde) 🟩(10 min) · 🟢 [Salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) 🟩(10 min) · 🟢 [North African Charmoula](#4152-north-african-charmoula) 🟩(13 min) |
+| **Fresh & cold — chimichurri & pesto** | 🟢 [Three-Herb Chimichurri](#444-three-herb-chimichurri) 🟩(15 min) · 🟢 [Pesto](#4164-pesto-basil-pesto) 🟩(15 min) · 🟡 [Red Chimichurri](#494-red-chimichurri) 🟩(40 min) |
+| **Fresh & cold — vinaigrettes** | 🟢 [Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️ 🟩(5 min) · 🟢 [Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing) 🟩(5 min) · 🟢 [Red Wine Vinaigrette](#4138-red-wine-vinaigrette) 🟩(5 min) |
 | **Fresh & cold — creamy dressings** | 🟢 [Creamy Caesar Dressing](#4134-creamy-caesar-dressing) 🟩(15 min) · 🟢 [Green Goddess Dressing](#4144-green-goddess-dressing) 🟩(15 min) |
-| **Fresh & cold — mayonnaise-based** | 🟡 [Homemade Mayonnaise](#4187-homemade-mayonnaise) 🟩(10 min) *(the parent)* · 🟢 [Aioli](#4161-aioli-garlic-mayonnaise) 🟩(10 + 5 min) *(garlic)* · 🟢 [Rouille](#4163-rouille-pepper-mayonnaise) 🟩(10 + 10 min) *(pepper — for fish soup)* · 🟢 [Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) 🟩(20 min) |
+| **Fresh & cold — mayonnaise-based** | 🟡 [Homemade Mayonnaise](#4187-homemade-mayonnaise) 🟩(10 min) · 🟢 [Aioli](#4161-aioli-garlic-mayonnaise) 🟩(10 + 5 min) · 🟢 [Rouille](#4163-rouille-pepper-mayonnaise) 🟩(10 + 10 min) · 🟢 [Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) 🟩(20 min) |
 | **Fresh & cold — steak sauces & cold condiments** | 🟢 [Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) 🟩(5 min) · 🟢 [Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) ❤️ 🟩(10 min) · 🟢 [Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) 🟩(10 min) · 🟡 [Tonnato Sauce](#459-tonnato-sauce) 🟩(20 min) |
 | **Fresh & cold — dipping sauces** | 🟢 [Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) 🟩(10 min) · 🟢 [Asian Peanut Sauce](#441-asian-peanut-sauce) 🟩(20 min) · 🟢 [Thai Peanut Sauce](#4190-thai-peanut-sauce) 🟩(20 min) · 🟢 [Thai Sweet Chile Sauce](#4186-thai-sweet-chile-sauce-nam-jim-kai) 🟩(30 min) |
 | **Fresh & cold — pickles, relishes & jams** | 🟢 [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ 🟩(15 min) · 🟢 [Quick Pickles](#4177-quick-pickles) 🟩(25 min) · 🟢 [No-Heat Sour Kraut](#46-no-heat-sour-kraut) ❤️ 🟨(45 min) · 🟢 [Bacon and Onion Jam](#4122-bacon-and-onion-jam) 🟩(30 min) |
-| **Fresh & cold — holiday** | 🟢 [Fresh Cranberry Sauce](#4196-fresh-cranberry-sauce) 🟩(15 min) *(🦃 — Cody's, off the bag label: a 12 oz bag, a cup of sugar, a cup of water, ten minutes at a boil, then the fridge; goes beside either turkey)* |
-| **Pasta & tomato — red** | 🟢 [Simple Tomato Sauce](#453-simple-tomato-sauce) 🟩(10 min) · 🟢 [Sauce Tomate](#482-sauce-tomate-tomato-sauce) 🟩(35 min) *(the French one)* · 🟢 [New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) 🟩(25 min) · 🟢 [Salsa Marinara](#44-salsa-marinara-marinara-sauce) 🟩(20 min) · 🟢 [Ragù Bolognese](#454-ragù-bolognese) 🟨(55 min) · 🟢 [Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) 🟨(45 min) *(fresh, never cooked down)* |
-| **Pasta & tomato — white** | 🟢 [Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) 🟩(15 min) · 🟢 [Pesto](#4131-pesto) 🟩(15 min) *(the Prudhomme one, tossed straight onto pasta)* |
+| **Fresh & cold — holiday** | 🟢 [Fresh Cranberry Sauce](#4196-fresh-cranberry-sauce) 🟩(15 min) |
+| **Pasta & tomato — red** | 🟢 [Simple Tomato Sauce](#453-simple-tomato-sauce) 🟩(10 min) · 🟢 [Sauce Tomate](#482-sauce-tomate-tomato-sauce) 🟩(35 min) · 🟢 [New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) 🟩(25 min) · 🟢 [Salsa Marinara](#44-salsa-marinara-marinara-sauce) 🟩(20 min) · 🟢 [Ragù Bolognese](#454-ragù-bolognese) 🟨(55 min) · 🟢 [Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) 🟨(45 min) |
+| **Pasta & tomato — white** | 🟢 [Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) 🟩(15 min) · 🟢 [Pesto](#4131-pesto) 🟩(15 min) |
 | **More compound butters (§4)** | 🟢 [Fresh Horseradish Butter](#457-fresh-horseradish-butter) · 🟢 [Pimentón Butter](#458-pimentón-butter) · 🟢 [Beef Butter](#4133-beef-butter) |
 | **More fish & seafood (§4)** | 🟢 [Mustard Sauce](#438-mustard-sauce) |
 | **More barbecue (§4)** | 🟢 [Vinegar Sauce (Eastern North Carolina, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style) · 🟢 [North Carolina Vinegar Sauce (Sauces Chapter — No Tomato)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) · 🟢 [Lexington Dip #2](#4173-lexington-dip-2) · 🟡 [Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) · 🟢 [Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) · 🟢 [East Carolina Mop Sauce](#4119-east-carolina-mop-sauce) · 🟢 [Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) |
@@ -19876,6 +19875,131 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
   - **🧊 No-Cook Sides group header** — was: **🧊 No-Cook Sides** — *mostly pantry items with no recipe to write; the one with an entry is listed first*
   - **Salted Cucumbers in White Vinegar → Salted Veggies in White Vinegar (renamed)** — was: 🟢 [Salted Cucumbers in White Vinegar](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) — *written up 2026-09-09*
   - **Applesauce (dropped — Cody: "I don't know about that")** — was: Applesauce — *no entry*
+
+#### Per-line notes moved off the sheet — 2026-09-09 (final), tables-only pass
+
+*Cody: "get rid of all of the description text… it's a reference document." After the tables-only rebuild the sheet still carried a trailing italic note on 82 lines (the reasoning behind a † figure, a Cody quote, a cross-reference) and short italic parentheticals in the rub and sauce rows. All of them came off the sheet in this pass and are kept here, verbatim, keyed by the line they sat on. Two were folded into the line itself instead: [§5.63](#563-simple-romaine-homemade-caesar) now reads *Simple Romaine, Homemade Caesar (3 days)*, and the Staple Mains line for [§7.151](#7151-sous-vide-chicken-thighs-for-the-family-seared) names its four sauce picks in the parenthetical Cody asked for.*
+
+- **Cody's Pulled Pork Street Tacos (from leftover pork)** — *Cody: "that is always from the leftover pork… chopping the cilantro, onions, and lime — a twenty minute meal"*
+- **Simple Romaine, Oil & Vinegar** — *premade oil and vinegar, nothing to cook — one of the three salads on rotation*
+- **Sous Vide Chicken** — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7*
+- **Simple Romaine, Homemade Caesar** — *[§4.134](#4134-creamy-caesar-dressing) on homemade mayonnaise — one batch keeps 3 days, so eat it as soon as you make the mayo; add §4.134's 15 the night you make it; Grana Padano or Romano*
+- **Paul's Jambalaya** — *Cody: "prep time takes thirty minutes; baking is waiting" — and 🟢 on his call*
+- **Quick Salad with Homemade Dressing** — *greens plus any dressing from the [⭐ Staple Sauces](#sauces) row; a template*
+- **Gluten-Free Fried Shrimp** — *the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak stays on as the wash; almond flour, avocado oil, lemons*
+- **Sous Vide Chicken Thighs (with a sauce: …)** — *pick one: [§T8 pan sauce](#t8-pan-sauce-formula) · [Alabama white](#437-white-barbecue-sauce) · [salsa verde](#4146-basic-salsa-verde) or [salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) · [tomatillo avocado](#499-tomatillo-avocado-salsa)*
+- **Darcy's Steak** — *the stovetop reverse sear; the sous vide version is [§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)*
+- **Greek Salad with Crumbled Goat Cheese** — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"*
+- **Sous Vide Smoked Steak** — *the smoke is the dish; the sear can be a pan*
+- **Mamma's Deer or Beef Stew** — *Cody: "just chopping — simmering the soup should not count"*
+- **Cody's Pulled Pork Sandwiches** — *Cody: "at least forty, more if you make Carolina slaw"*
+- **Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)** — *asparagus-only: [§5.15 Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min)*
+- **Brazilian Black Beans with Bacon** — *the overnight soak is lead time, not work*
+- **Salted Sautéed Zucchini (noodle substitute)** — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation*
+- **Sous Vide Brisket, Richie's Method** — *for the 4 hr smoke, not the browning*
+- **Last-Meal Ribs** — *Cody's "pork ribs" staple, read as his one ❤️ rib recipe*
+- **Smoked Brisket** — *Cody: "trim the fat, get the pit ready, dry brine the night before — an hour, maybe an hour and a half"; the leftover/sliced idea is in the [🍱 Leftovers](#meal-planning-sheet) group*
+- **Sous Vide Chuck Roast, Smoker-Finished** — *Cody: "really, really easy, probably takes an hour"; the 4 hr smoke is the ♨︎; batch two or three for [§1](#1-codys-pho)*
+- **Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)** — *no beer can — an upright stand; [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s method on a chicken; 30 hands-on plus the pit*
+- **Caveman Chicken Wings** — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's*
+- **Cody's Tony Chachere's Smoked Turkey** — *Tony's butter injection and Tony's Original rub the night before, then upright on a cavity stand through the fridge and the smoke; 45 hands-on plus the pit*
+- **Sous Vide Mediterranean Pork Tenderloin Platter** — *the pork sears in cast iron; the fire is for the vegetables and naan*
+- **Darcy's Steak** — *the stovetop reverse sear; the sous vide version is [§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)*
+- **Sous Vide Smoked Steak** — *the smoke is the dish; the sear can be a pan*
+- **Mamma's Deer or Beef Stew** — *Cody: "just chopping — simmering the soup should not count"*
+- **Sous Vide Brisket, Richie's Method** — *for the 4 hr smoke, not the browning*
+- **Hamburgers with Herb Butter** — *Cody: "definitely, like the steakhouse burgers"*
+- **Salted Sautéed Zucchini (noodle substitute)** — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation*
+- **Skinny Steaks** — *Cody's figure, and it supersedes the 10-min badge plus overhead*
+- **Brussels Sprouts** — *bacon grease, tallow, or butter — three variations; ~27 if you crisp fresh bacon first*
+- **Sous Vide Chuck Roast, Smoker-Finished** — *Cody: "really, really easy, probably takes an hour"; the 4 hr smoke is the ♨︎; batch two or three for [§1](#1-codys-pho)*
+- **Smoked Brisket** — *Cody: "trim the fat, get the pit ready, dry brine the night before — an hour, maybe an hour and a half"; the leftover/sliced idea is in the [🍱 Leftovers](#meal-planning-sheet) group*
+- **Skirt Steak with Buttered Spinach & French Fries** — *Cody: "throw an hour on that"*
+- **Texas-Style Barbecued** — *each version incl. 30 grill*
+- **Sous Vide Ultimate Prime Rib Roast** — *for the 90 min pellet smoke; the sear can be a pan*
+- **Cody's Pulled Pork Sandwiches** — *Cody: "at least forty, more if you make Carolina slaw"*
+- **Sous Vide Boar Tenderloin (or pork tenderloin) with Cherry Chutney** — *moved here from the old Game group on Cody's call; pork tenderloin stands in for the boar*
+- **Tuffy Stone's Championship Pork Butt** — *Cody's "championship pork — more like forty-five," applied here by the cookbook's reading that a butt is a roast and ribs are not (he said "you figure it out"); his figure is the whole number, grill included*
+- **Brazilian Black Beans with Bacon** — *the overnight soak is lead time, not work*
+- **🥗 Salads & Slaws — three on rotation: oil & vinegar · Caesar** — *three on rotation: oil & vinegar · Caesar · Greek. Grana Padano or Romano, not American Parmesan*
+- **Simple Romaine, Oil & Vinegar** — *premade oil and vinegar, nothing to cook — one of the three salads on rotation*
+- **Quick Salad with Homemade Dressing** — *greens plus any dressing from the [⭐ Staple Sauces](#sauces) row; a template*
+- **Simple Romaine, Homemade Caesar** — *[§4.134](#4134-creamy-caesar-dressing) on homemade mayonnaise — one batch keeps 3 days, so eat it as soon as you make the mayo; add §4.134's 15 the night you make it; Grana Padano or Romano*
+- **Greek Salad with Crumbled Goat Cheese** — *dressed with [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil); Cody: "you can have that more than one time"*
+- **Sous Vide Mediterranean Pork Tenderloin Platter** — *the pork sears in cast iron; the fire is for the vegetables and naan*
+- **Bengali Shish** — *each version incl. 30 grill*
+- **🍲 Broths, Stocks & Tonics — drink them, or build the soups o** — *drink them, or build the soups on them*
+- **Cottage cheese — no entry** — *no entry*
+- **Chicken Stock** — *Cody: "you're just simmering it"*
+- **Sliced tomatoes, salted — no entry** — *no entry*
+- **Restorative Beef Broth** — *Cody: "you're just simmering it"*
+- **Avocado, halved and salted — no entry** — *no entry*
+- **Honeycrisp apples — no entry** — *no entry*
+- **Blackberries — no entry** — *no entry*
+- **Strawberries — no entry; Cody: "with my barbecue"** — *no entry; Cody: "with my barbecue"*
+- **Raspberries — no entry; Cody: "not as much"** — *no entry; Cody: "not as much"*
+- **Sous Vide Chicken** — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7*
+- **Broiled Fish, Your Choice of Sauce** — *pick one from [Fish & seafood sauces](#sauces)*
+- **Sous Vide Chicken Thighs for the Family** — *§7.151, the recipe version of the line above — 12 thighs, feeds six, **pan seared, not grilled***
+- **Gluten-Free Fried Shrimp** — *the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak stays on as the wash; almond flour, avocado oil, lemons*
+- **Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)** — *no beer can — an upright stand; [§6.11](#611-codys-tony-chacheres-smoked-turkey)'s method on a chicken; 30 hands-on plus the pit*
+- **Caveman Chicken Wings** — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's*
+- **Cody's Tony Chachere's Smoked Turkey** — *Tony's butter injection and Tony's Original rub the night before, then upright on a cavity stand through the fridge and the smoke; 45 hands-on plus the pit*
+- **Grilled Quail (or chicken thighs) with Pear and Pine Nut Salad** — *moved here from the old Game group on Cody's call; chicken thighs stand in for the quail*
+- **🥣 Soups, Gumbos & Chili — a soup is the main; give it bread ** — *a soup is the main; give it bread or a salad*
+- **Paul's Jambalaya** — *Cody: "prep time takes thirty minutes; baking is waiting" — and 🟢 on his call*
+- **The Hearty Main Course Soup Formula** — *build your own*
+- **🍱 Leftovers — no grill, all 🟢** — *no grill, all 🟢*
+- **Leftover Kebabs** — *Cody: "we usually make a whole bunch… you could have leftover kebabs for sure"; a reheat, cookbook estimate*
+- **Frito Pie** — *Cody: "Fritos, chili, shredded cheese, raw onions, Louisiana hot sauce — watch out, buddy"; dice an onion and reheat the chili, cookbook estimate. The chili itself is still to be dictated — see [§12](#12-recipes-to-document)*
+- **Chili Mac** — *with the chili already made, it is just the noodles; the fresh build is on the Soups line. Frito Pie ❤️, the line above, is the second use*
+- **Cody's Pulled Pork Street Tacos (from leftover pork)** — *Cody: "that is always from the leftover pork… chopping the cilantro, onions, and lime — a twenty minute meal"*
+- **Leftover Sliced Brisket, reheated sous vide** — *from [§6.1](#61-smoked-brisket) or [§6.10](#610-sous-vide-brisket-richies-method); Cody: "brisket you have to reheat in the sous vide, so it may take a little longer" — the bath is the wait, the 20 is bagging and slicing (cookbook estimate; see [§T46](#t46-freezing-and-reheating-leftovers))*
+- **Pho with Leftover Beef** — *retitled from "Pho with Leftover Brisket" on Cody's note: "sometimes when I sous vide a beef I'll do two or three chuck roasts and reuse it when I make pho" — see [§1](#1-codys-pho); ♨︎ off on his leftovers rule*
+- **Leftover Pulled Pork Sandwiches** — *Cody's 40 is with Carolina slaw made fresh; reheating alone is ~10*
+- **§T61 Leftover Pulled Pork** — *Storage and reheating: [§T61 Leftover Pulled Pork](#t61-leftover-pulled-pork--storage-and-reheating) and [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)*
+- **Melba Toasts** — *the cracker for all of these*
+- **Dressed-Up Hummus with Garlic Naan** — *borderline: the naan; a 375°F oven does it too*
+- **Fire-Roasted Eggplant Baba Ghanoush** — *Cody: "if you're cooking it on the grill add the extra half hour"*
+- **Char-Grilled Oysters** — *Cody: "way more time — two hours"*
+- **⭐ Staple Rubs — when a recipe says "your favorite rub," reac** — *when a recipe says "your favorite rub," reach for one of these*
+- **Captain Mike's Seasoning** — *(lamb)*
+- **Cody's Greek Vinaigrette** — *(the French master)*
+- **Cody's Greek Vinaigrette** — *(the parent)*
+- **French — white: béchamel & velouté (parent first)** — *(parent first)*
+- **Sauce Béchamel / Sauce Velouté** — *(the master — every sauce after it is this plus one thing)*
+- **Sauce Béchamel / Sauce Velouté** — *(egg yolk and cream)*
+- **Sauce Béchamel / Sauce Velouté** — *(cheese)*
+- **Sauce Béchamel / Sauce Velouté** — *(tomato)*
+- **Sauce Béchamel / Sauce Velouté** — *(white wine, tarragon)*
+- **Sauce Béchamel / Sauce Velouté** — *(curry)*
+- **Sauce Béchamel / Sauce Velouté** — *(onion)*
+- **Sauce Béchamel / Sauce Velouté** — *(mock hollandaise)*
+- **Sauce Béchamel / Sauce Velouté** — *(the Italian béchamel)*
+- **Sauce Brune** — *(1 — flour-based, the classic)*
+- **Sauce Brune** — *(2 — flour-based, with giblets)*
+- **Sauce Brune** — *(3 — starch-thickened, the quick one)*
+- **Sauce Madère / Sauce au Porto** — *(Madeira and truffles)*
+- **Sauce Diable** — *(peppery)*
+- **Sauce Diable** — *(pickles and capers)*
+- **Sauce Diable** — *(mustard)*
+- **Sauce Duxelles** — *(the beef one)*
+- **Sherry Wine Sauce** — *(turkey)*
+- **Butter & emulsion — egg emulsions (parent first)** — *(parent first)*
+- **Hollandaise Sauce** — *(the parent)*
+- **Hollandaise Sauce** — *(béarnaise plus tomato)*
+- **New Orleans Bordelaise** — *(butter and garlic — not the French one)*
+- **White Barbecue Sauce** — *(Raichlen's Big Bob Gibson)*
+- **Basic Salsa Verde** — *(the parent)*
+- **Three-Herb Chimichurri** — *(basil — the one to start from)*
+- **Cody's Greek Vinaigrette** — *(the French master)*
+- **Homemade Mayonnaise** — *(the parent)*
+- **Homemade Mayonnaise** — *(garlic)*
+- **Homemade Mayonnaise** — *(pepper — for fish soup)*
+- **Fresh Cranberry Sauce** — *(🦃 — Cody's, off the bag label: a 12 oz bag, a cup of sugar, a cup of water, ten minutes at a boil, then the fridge; goes beside either turkey)*
+- **Simple Tomato Sauce** — *(the French one)*
+- **Simple Tomato Sauce** — *(fresh, never cooked down)*
+- **Salsa Alfredo** — *(the Prudhomme one, tossed straight onto pasta)*
 
 #### The sheet as it read before 2026-09-09 (final) — moved here verbatim
 

@@ -483,6 +483,7 @@ Click any recipe to jump straight to it.
 - [7.148 Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) ✅ *(The Meathead Method pp. 308–310 — the showcase dish for [§4.174](#4174-poblano-basil-cream-sauce); added 2026-09-07 from Cody's photographs)*
 - [7.149 The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) ✅ *(The Meathead Method pp. 218–220 — butcher one primal into four meals, then smoke, sous vide, and sear; distinct from the earlier book's [§7.114](#7114-prime-rib); completed 2026-09-07 from Cody's photographs of pp. 219–220)*
 - [7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) ✅ 👍 *(laylita.com, Layla Pujol — **carries Cody's egg trick as Step 1**: skin the fillet first, because the fishiness in salmon is mostly on the skin side; added 2026-09-08)*
+- [7.151 Sous Vide Chicken Thighs for the Family (Seared)](#7151-sous-vide-chicken-thighs-for-the-family-seared) ✅ *(Cody's own — [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) scaled to feed six: 12 boneless skin-on thighs, 148°F, then a blazing cast-iron sear. **Pan seared, not grilled — his own instruction.** Added 2026-09-09)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -968,6 +969,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.70 Russian Shashlik](#770-russian-shashlik) | 🟢 | 20 min | 10 min | — | 8 hr 30 min *(+ 4–8 hr marinate)* |
 | [§7.72 Quick Persian Beef Kebabs](#772-quick-persian-beef-kebabs) | 🟢 | 20 min | 10 min | — | 30 min |
 | [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon) *(The Meathead Method)* | 🟡 | 15 min | 15 min | — | ~7 hr+ *(includes a 6-hour-or-more kōji marinate)* |
+| [§7.151 Sous Vide Chicken Thighs for the Family](#7151-sous-vide-chicken-thighs-for-the-family-seared) *(Cody's — [§T28](#t28-sous-vide-chicken-codys-method) scaled up)* | 🟡 | 15 min *(trimming, seasoning, bagging 12)* | 15 min *(heating the cast iron, then three sear batches)* | **2½–3 hr** *(sous vide, unattended)* | 3 hr 15 min – 3 hr 45 min |
 | [§6.2 Pulled Pork](#62-pulled-pork) | 🟢 | 15 min | 15 min | **4–6 hr** *(grill; 6–8 hr smoker)* | 4½–6½ hr *(+ optional 24 hr rub cure)* |
 | [§9.5 Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) | 🟢 | 10 min | 20 min | — | 30 min |
 | [§T14 Grilled Pork Tenderloin (Mojo)](#t14-how-to-grill-pork-tenderloin-cuban-mojo) | 🟡 | 15 min | 15 min | — | 30 min *(+ 3–12 hr marinate)* |
@@ -1452,22 +1454,23 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [Boudin Blanc](#751-boudin-blanc-boudin) | [Bright Cabbage Slaw](#553-bright-cabbage-slaw) |
 | **🐔 Chicken & Poultry** | **🍞 Breads & Biscuits** |
 | [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | [Keto Skillet Cornbread](#113-keto-skillet-cornbread) 👍 🥑 |
-| [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ ♨︎ | [Plain French Bread](#151-plain-french-bread-pain-français) |
-| [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ ♨︎ — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's* | [Butter Dips](#152-butter-dips) |
-| [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ ♨︎ | [Angel Biscuits](#154-angel-biscuits) |
-| [Poulet de France](#7124-poulet-de-france) ❤️ 🍽️ | [Fancy Biscuits](#155-fancy-biscuits) |
-| [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 ♨︎ | [Pastry Biscuits](#156-pastry-biscuits) |
-| [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 ♨︎ | [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) |
-| [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) ♨︎ |
-| [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | [Simple Grilled Crostini](#540-simple-grilled-crostini) ♨︎ |
-| [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) | [Irish Soda Bread](#106-irish-soda-bread) |
-| [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🥑 | [Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 |
-| [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | **🧊 No-Cook Sides** — *mostly pantry items with no recipe to write; the one with an entry is listed first* |
-| [Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) ♨︎ | [Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) — *written up 2026-09-09* |
-| [BBQ Fried Chicken](#780-bbq-fried-chicken) | Cottage cheese — *no entry* |
-| [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) | Sliced tomatoes, salted — *no entry* |
-| [Tandoori Chicken](#7140-tandoori-chicken) ♨︎ | Avocado, halved and salted — *no entry* |
-| [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) | Applesauce — *no entry* |
+| [Sous Vide Chicken Thighs for the Family](#7151-sous-vide-chicken-thighs-for-the-family-seared) — *§7.151, the recipe version of the line above — 12 thighs, feeds six, **pan seared, not grilled*** | [Plain French Bread](#151-plain-french-bread-pain-français) |
+| [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ ♨︎ | [Butter Dips](#152-butter-dips) |
+| [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ ♨︎ — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's* | [Angel Biscuits](#154-angel-biscuits) |
+| [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ ♨︎ | [Fancy Biscuits](#155-fancy-biscuits) |
+| [Poulet de France](#7124-poulet-de-france) ❤️ 🍽️ | [Pastry Biscuits](#156-pastry-biscuits) |
+| [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 ♨︎ | [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) |
+| [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 ♨︎ | [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) ♨︎ |
+| [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | [Simple Grilled Crostini](#540-simple-grilled-crostini) ♨︎ |
+| [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | [Irish Soda Bread](#106-irish-soda-bread) |
+| [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) | [Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 |
+| [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🥑 | **🧊 No-Cook Sides** — *mostly pantry items with no recipe to write; the one with an entry is listed first* |
+| [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | [Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) — *written up 2026-09-09* |
+| [Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) ♨︎ | Cottage cheese — *no entry* |
+| [BBQ Fried Chicken](#780-bbq-fried-chicken) | Sliced tomatoes, salted — *no entry* |
+| [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) | Avocado, halved and salted — *no entry* |
+| [Tandoori Chicken](#7140-tandoori-chicken) ♨︎ | Applesauce — *no entry* |
+| [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) |  |
 | [Championship Chicken](#7141-championship-chicken) ♨︎ |  |
 | [Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) |  |
 | [Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) ♨︎ |  |
@@ -16700,7 +16703,9 @@ Not tracked here — this is a cut- and weight-agnostic technique (Cody didn't s
 <!-- TECHNIQUE-TAGS: sous-vide, chicken, poultry, sear, cast-iron, formula -->
 **Tags:** `sous-vide` · `chicken` · `poultry` · `sear` · `cast-iron` · `formula`
 **Source:** Cody's own method, dictated directly — not from a photographed page.
-**Used in:** no numbered recipe cites it yet.
+**Used in:** **[§7.151 Sous Vide Chicken Thighs for the Family (Seared)](#7151-sous-vide-chicken-thighs-for-the-family-seared)** — this formula scaled to feed six, on boneless skin-on thighs *(added 2026-09-09; before that, no numbered recipe cited it)*. Related: [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) runs the same season–bag–bath–dry–oil–sear shape on pork and cites this entry's numbers for comparison.
+
+> 🍗 **The family-sized version of this technique is now a recipe: [§7.151 Sous Vide Chicken Thighs for the Family (Seared)](#7151-sous-vide-chicken-thighs-for-the-family-seared).** Added 2026-09-09 at Cody's request — *"I told you I wanted you to add a sous vide chicken, and enough for the family… I'd say chicken thighs. Seared chicken thighs."* **Everything below stays the reference formula**; §7.151 is that formula with the quantities filled in — 12 boneless skin-on thighs, three bags, 148°F for 2½ to 3 hours, and the same cast-iron sear. **He was explicit that it is pan seared, not grilled.** Go there if you want the dinner; stay here if you want the method.
 
 **The chicken counterpart to [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method).** Identical shape — season, bag, sous vide, dry, oil, hard sear — and the sear at the end is exactly the same. What changes is the dial: **chicken runs hotter and for far less time — 148°F for 1½ to 4 hours.**
 
@@ -36677,6 +36682,108 @@ Spoon the chilled salsa over the hot fillets at the table, with rice and patacon
 - ✅ **"3 mild hot peppers" — filled from this cookbook's own heat scale.** See [§4.192](#4192-avocado-salsa); the pick is **Anaheim or poblano**, per [§T105](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s Scoville table.
 - ✅ **The two sides — filled well enough to cook.** Latin-style rice and patacones both have short judgment-based methods in the Ingredients section above, clearly marked as not from the page.
 - ✅ **Soak time for a salmon fillet — filled at 7 to 10 minutes.** Cody gave the method and the egg count but never a time for fish. This sits at the **short end** of [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)'s 7-to-15-minute window, because a skinned fillet has already shed most of its fishiness with the skin — there's less left to pull and less reason to run long. **His shrimp practice is where that window came from, and 15 minutes remains the hard ceiling.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 7.151 Sous Vide Chicken Thighs for the Family (Seared)
+
+**Cody's own, asked for 2026-09-09 — and it is [§T28 Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) scaled up to feed everybody.** His words: *"I told you I wanted you to add a sous vide chicken, and enough for the family. And that can be probably sous vide chicken thighs, or a whole chicken that you quarter — maybe, I don't know. I'd say chicken thighs. Seared chicken thighs. And that doesn't have to be grilled, it could be pan seared."*
+
+> **📌 He considered a quartered whole chicken and chose thighs. That is his call, recorded as his.** He put both on the table in the same breath and picked — *"I'd say chicken thighs."* **The choice is also the right one for this method, and it is worth knowing why**, because it is the difference between the technique working and the technique fighting you. **Dark meat is forgiving at 148°F and it stays forgiving for hours** — a thigh has roughly 10 percent fat against a breast's 6 percent ([§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry)), and that fat plus the collagen around it is what lets a thigh sit in a bath for three hours and come out juicier rather than drier. **A breast has no such margin**, and a quartered bird puts breast and thigh in the same bag at the same temperature for the same time, which is exactly the problem [§T77](#t77-tips-on-cooking-poultry) names about whole birds: *"the breasts are much thicker than the other parts, and not very forgiving."* [§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) already records the same verdict from the other direction — a whole hen doesn't sous vide well, it's an awkward shape for a bag and cooks unevenly. **Thighs sidestep all of it: one cut, one thickness, one time.**
+
+> ♨︎ **No outdoor marker on this one, and that is deliberate — Cody was explicit.** *"That doesn't have to be grilled, it could be pan seared."* **The method here is a blazing cast-iron skillet**, exactly as in [§T28](#t28-sous-vide-chicken-codys-method). **A grill works if you'd rather have it** — a screaming-hot grate over direct heat does the same job in the same 30 to 45 seconds — **but it is not the method, and this recipe does not need you to go outside.** See the [Meal Planning Sheet](#meal-planning-sheet)'s ♨︎ note for the rule this sits under.
+
+**This is the numbered-recipe version of [§T28](#t28-sous-vide-chicken-codys-method), and everything load-bearing in it is his.** The temperature (148°F), the window (1½ to 4 hours), the dry-rub-only bag, the obsessive pat-dry, the avocado oil, and the 30-to-45-second cast-iron sear are all §T28's, which is to say all Cody's. **What this entry adds is the family arithmetic** — which cut of thigh, how many, how many bags, and where in his window to land a batch this size. **Those are cookbook judgment and are labeled as such below.**
+
+**Techniques used:** [§T28 Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) *(this recipe is that formula, applied)* · [§T27 Sous Vide "Not-So-Premium" Steak Cuts](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) *(the same season–bag–bath–dry–oil–sear shape, on beef)* · [§T77 Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) *(dark meat vs. white)* · [§T45 Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) *(why the bone earns nothing here)* · [§T95 Cutting Up a Chicken](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) *(if you bone them yourself)* · [§T8 Pan Sauce Formula](#t8-pan-sauce-formula) *(for the skillet afterward)*
+
+> 📖 **Cookbook judgment, labeled — boneless skin-on, and here is the reasoning and the tradeoff.** Per [CLAUDE.md §3d](CLAUDE.md), Cody said "chicken thighs" and did not say bone-in or boneless, so this was reasoned out rather than guessed, **from this cookbook first.** **The call is boneless, skin on**, for three reasons:
+>
+> - **The sear is the entire point of the method, and it is a flat-contact sear.** [§T28](#t28-sous-vide-chicken-codys-method) puts an already-cooked piece of chicken into a blazing skillet for 30 to 45 seconds a side — there is no time to work around a shape. **A bone-in thigh is domed and irregular and only touches the pan on its high spots.** [§T45](#t45-bones--do-they-actually-add-flavor) states this cookbook's own standard for what a good sear looks like: *"the actual goal is golden-to-dark brown across as much surface as possible — not stripes."* A boneless thigh lies flat and takes crust edge to edge.
+> - **The bone contributes nothing in the bag.** [§T45](#t45-bones--do-they-actually-add-flavor)'s verdict is that bones add real flavor only in **wet** cooking — braising, or hours fully submerged — and *"in dry cooking, bones contribute no significant flavor."* A sous vide bag is sealed **dry** by this cookbook's own standing rule ([CLAUDE.md §6](CLAUDE.md): dry rub only, no liquid), so there is no liquid in there for marrow to travel through. **Keeping the bone is not a flavor argument here.**
+> - **Twelve pieces of one thickness finish together.** [§T28](#t28-sous-vide-chicken-codys-method) says its own range is driven by *"thickness, and how tender you want it."* Boneless thighs are close to uniform, which removes the first variable entirely and lets one bath time serve the whole batch.
+>
+> **The honest tradeoff, since bone-in is not a bad answer:** bone-in thighs are **cheaper per pound**, they carry more mass around the bone so they are **more forgiving if you linger a few seconds too long on the sear**, and they hold heat longer once they are on the plate. **If you buy bone-in anyway:** bone them yourself ([§T95](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) has the cut) and this recipe runs unchanged, or leave the bone in and **push to the long end of the bath — 3½ to 4 hours** — and accept that the sear will touch less of the surface. **The skin stays on either way**, per [§T28](#t28-sous-vide-chicken-codys-method)'s own instruction: *"if the skin is on, give the skin side the bulk of the attention — that's where the crust that's worth having lives."*
+>
+> **All of that is the cookbook's, not Cody's — and his own answer supersedes it the day he gives one.** It always does.
+
+> 📖 **Cookbook judgment, labeled — 2½ to 3 hours, which is a point inside his window, not a new number.** [§T28](#t28-sous-vide-chicken-codys-method)'s range is **1½ to 4 hours at 148°F** and that range is Cody's. **This recipe lands at 2½ to 3 hours**, toward the long end, for two reasons: **dark meat is collagen-rich, and time at temperature is what converts collagen to gelatin** — §T28 says so itself, that *"extra time in the bath keeps working on texture,"* so the dial is there to be turned; and a batch of twelve wants a bath time with slack in it rather than one that has to be hit exactly. **Basis beyond this cookbook:** the same standard sous vide references [§7.59](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) already reasons from for bath numbers — **Serious Eats / J. Kenji López-Alt** and **Anova's own poultry charts**, both of which put chicken thighs in a multi-hour hold at this temperature range for exactly this texture reason. *(No URL is attached; per [CLAUDE.md §3d](CLAUDE.md) this cookbook does not print links it cannot verify from here.)* **Anywhere in his 1½-to-4 window is right; this is just where a family batch is easiest to land.**
+
+**Serves 6 — 12 boneless skin-on thighs, about 4 to 4½ lb, in three bags of four.** *(The count, the weight, and the bag split are the cookbook's; see Step 2 for why three bags and not one.)*
+
+**🟡 Medium** · **Prep ~15 min** *(trimming, seasoning, and bagging twelve thighs)* · **Cook ~15 min** *(getting the cast iron genuinely screaming, then searing three batches)* · **Slow cook 2½–3 hr** *(sous vide, unattended)* · **Start to finish ~3 hr 15 min – 3 hr 45 min**
+
+> **Why 🟡 Medium, and it comes down to one step — the same call as [§T28](#t28-sous-vide-chicken-codys-method) and [§3 Darcy's Steak](#3-darcys-steak).** Per [CLAUDE.md §3a](CLAUDE.md), difficulty is technique risk, not effort: *can a step go from perfect to ruined?* **Walk it.** Trimming and seasoning twelve thighs cannot fail. Bagging them cannot fail. **The bath cannot fail** — 148°F is a wall the meat cannot climb past no matter how long you forget about it, which is why those hours are **Slow cook** and cost the rating nothing ([CLAUDE.md §3a](CLAUDE.md): sous vide is Slow cook at any length). **The sear is the one step with a window.** The chicken comes to the pan already fully cooked, so there is no doneness cushion left at all — every second in the skillet is spent on crust, and a thigh that sits too long goes from crisp-skinned and juicy to dry. Thirty to forty-five seconds a side, three times over, watched. **That is a real can't-walk-away moment, so it is Medium — and nothing else in the recipe adds to that.** **Twelve thighs is not harder than two; it is only longer**, and length belongs in the time fields ([§1 Cody's Pho](#1-codys-pho) is the reference case).
+
+#### A. Ingredients
+
+- **Boneless, skin-on chicken thighs — 12, about 4 to 4½ lb total** *(roughly 5 to 6 oz each; two per person for six. See the judgment note above on boneless vs. bone-in — skin stays on either way)*
+- **Dry rub or seasoning of your choice — dry only.** **No fresh garlic and no liquid in the bag** ([CLAUDE.md §6](CLAUDE.md) and [§1 Cody's Pho](#1-codys-pho): fresh garlic sealed in an anaerobic bag is a botulism risk; **garlic powder is the safe substitute**). **[§T28 Part C](#t28-sous-vide-chicken-codys-method) lists every rub already in this cookbook that names chicken, with each source's own dosing** — [§4.27 Cajun Rub](#427-cajun-rub), [§4.31 Mediterranean Herb Rub](#431-mediterranean-herb-rub), [§4.26 Basic Barbecue Rub](#426-basic-barbecue-rub), [§4.30 Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub), and [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️. **Take the amount from that table, not from here.** *(Its rubs run about 2 to 3 tsp per pound, which is roughly 3 to 4 Tbsp across a 4 lb batch — but see Open Questions, because §T28's table pairs that rate with a figure that doesn't multiply out.)*
+- **Avocado oil, in a spray bottle or mister** — for the sear, not the bag
+- **Kosher salt** — only if your rub is a salt-free one; most of the rubs above already carry their salt
+
+*Not groceries, but this recipe doesn't happen without them: a **sous vide circulator** and a vessel big enough for three bags, a **vacuum sealer** or zip-top freezer bags (with the water-displacement method), **a big heavy cast-iron skillet** — the bigger the better, because it is what decides how many batches you sear — **tongs**, and **paper towels**, a lot of them, for Step 4.*
+
+#### B. Cooking Instructions
+
+**1. Trim the thighs and season them. About 10 minutes for twelve.**
+Lay the thighs out skin side down and **trim the loose flaps of fat** hanging off the edges — not the skin, and not the fat under it, just the ragged overhang that will never render and will only flare in the pan. Then **rub every surface**, including under the skin where you can lift it. Be even about it; this is the only seasoning the chicken gets, and there is nothing in the bag to spread it around later. **Dry rub only — no fresh garlic, no liquid, no oil in the bag.**
+
+**2. Bag them flat — four to a bag, three bags. Seal.**
+**This is the step people get wrong when they scale a sous vide recipe up.** Twelve thighs in one bag is a stack, and a stack cooks from the outside in like a roast instead of piece by piece, which is the whole thing sous vide exists to avoid. **Four to a bag, laid out in a single layer with the pieces not overlapping**, and three bags side by side in the bath. Vacuum seal, or use zip-top freezer bags and the water-displacement method — lower the open bag into the water until the pressure pushes the air out, then seal it above the waterline.
+
+**3. Sous vide at 148°F for 2½ to 3 hours.**
+Preheat the bath to **148°F** and put all three bags in, standing or leaning so water can move between them — bags pressed flat against each other develop cold spots. **Then walk away for 2½ to 3 hours; there is nothing to do and nothing that can go wrong.** The chicken is safely pasteurized long before the short end ([§T44 Food Safety](#t44-food-safety--the-real-logic-and-the-target-temperature-table)), so the remaining time is buying texture, not doneness — see the judgment note above. **Anywhere in [§T28](#t28-sous-vide-chicken-codys-method)'s 1½-to-4-hour window is right; 4 hours will not hurt them** if dinner slips.
+
+**4. Out of the bags and pat completely, obsessively dry. Do not skip this and do not rush it.**
+**This is the step that decides whether the sear browns or just steams**, and chicken comes out of a bag wetter than steak does — [§T28](#t28-sous-vide-chicken-codys-method) says so plainly. **Water has to boil off before a surface can brown**, so a wet thigh spends its whole 45 seconds in the pan turning grey instead of gold. Use paper towels, work one piece at a time, and get the **skin side bone dry** in particular. *(The juice left in the bags is worth keeping — see the note under Step 6.)*
+
+**5. Spray both sides with avocado oil.**
+**Avocado oil specifically, and the reason is its smoke point** — it holds above 500°F, which is what a skillet taken to searing heat will ask of it. Olive oil is the wrong tool here: it smokes far lower, so it burns rather than browns and turns acrid the instant it hits the pan.
+
+**6. Sear in a blazing hot cast-iron skillet, in three batches. 30 to 45 seconds a side, skin side first.**
+**Genuinely screaming hot, not medium-high** — get the pan going well before the bags come out, and give it a full 5 minutes on high. **Four thighs at a time, skin side down first, and do not crowd them**: a crowded pan drops in temperature and steams instead of searing, which undoes Step 4. **Thirty to forty-five seconds, then flip for the same on the other side, and out.** The chicken is already fully cooked, so **this is purely crust-building and there is no doneness cushion left** — this is the step that earns the 🟡. **Give the skin side the bulk of the attention**; that is where the crust worth having lives. Let the pan come back to temperature for a minute between batches, and re-spray it lightly if it looks dry.
+
+> 🍳 **Don't waste the pan, and don't pour out the bags.** You are left with a screaming skillet full of fond and three bags of concentrated chicken juice, which is exactly what **[§T8 Pan Sauce Formula](#t8-pan-sauce-formula)** is built for — deglaze with ¾ cup of wine or stock **plus the bag juices**, reduce by half, swirl in cold butter off the heat. **[§T28 Part D](#t28-sous-vide-chicken-codys-method) is a full menu of sauces from this cookbook that go on chicken**, sorted by family, if you want something more than a pan sauce. *(A suggestion, not something Cody specified.)*
+
+**7. Rest 3 to 5 minutes, then serve.**
+**Barely a rest, and for a different reason than usual.** The thighs came out of a 148°F bath at their serving temperature and the sear was under a minute, so there is no big thermal gradient to even out the way there is in a roast ([§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) is the entry on why). Three to five minutes is just long enough to sear the last batch and get everything to the table together. **Two thighs per plate.**
+
+#### C. Grocery Shopping List
+
+**🏪 Specific store — butcher**
+
+- 🏪 Chicken thighs — **12, boneless and skin-on, about 4 to 4½ lb** *(a butcher will bone them and leave the skin on if the case only has bone-in; ask. Bone-in works too — see the judgment note above)*
+
+**🛒 General grocery**
+
+- 🛒 Avocado oil — spray bottle or mister
+- 🛒 Dry rub or seasoning of choice — **no fresh garlic**; see [§T28 Part C](#t28-sous-vide-chicken-codys-method) for what's already in this cookbook and buy against that entry's list
+- 🛒 Kosher salt — only if your rub is salt-free
+- 🛒 Zip-top freezer bags — gallon size, 3, if you're not vacuum sealing
+- 🛒 Paper towels — Step 4 uses more than you'd think
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~3,500 | 245 g | 325 g | ~2 g | 0 g |
+| **Per serving** *(serves 6, two thighs each)* | ~585 | 41 g | 54 g | <1 g | 0 g |
+
+**What a serving is:** **two seared thighs — about 8 oz of cooked chicken.** That is a normal dinner portion of meat with a side or two next to it, not a plate on its own.
+
+**How these were figured.** Estimated from the ingredient list, not lab figures, and **counting only what's eaten** per [CLAUDE.md §3b](CLAUDE.md). Built on **4 lb 2 oz of raw boneless skin-on thigh**, which is where the protein comes from almost entirely intact. **The fat is where the discount is:** thighs shed water and render fat over three hours in the bag and again in the skillet, and **about a fifth of the raw fat ends up in the bag juice or left in the pan rather than on the plate** — that is subtracted here. *(If you make the pan sauce under Step 6, some of it comes back; the sauce isn't counted.)* **The rub and the sear oil are counted** — roughly a tablespoon of avocado oil across the batch — and the rub contributes the couple of grams of carbohydrate. **A bone-in batch would read the same per ounce of meat eaten**; the bones just change what you paid for.
+
+#### D. Open Questions
+
+- **How many does "the family" actually mean?** This is written for **six, two thighs each**, which is the cookbook's assumption and not a number Cody gave. **It scales cleanly** — the bath time does not change with quantity, only the number of bags and sear batches do, so add four thighs and a bag per two extra people. His own count supersedes this the day he gives it.
+- **Bone-in or boneless — answered by the cookbook, not by him.** See the labeled judgment note above. **Boneless skin-on** is the call, with the reasoning and the tradeoff both stated. **Worth asking him directly**, since this is the one structural choice in the recipe he didn't make.
+- **Which rub is the house default for this?** [§T28 Part C](#t28-sous-vide-chicken-codys-method) already answers *"which rubs work"* — five of them name chicken in their own source text. It does not answer which one Cody reaches for on a weeknight. **[§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) is the only ❤️ in that table** and is his own blend, which makes it the likely answer, but that is an inference and is not written into the recipe as one.
+- **⚠️ A numbers mismatch inside [§T28 Part C](#t28-sous-vide-chicken-codys-method), flagged rather than changed.** Its dosing column prints **"2–3 tsp per lb"** and **"1½ to 2 Tbsp for a 4 lb chicken"** on the same rows, and those two figures don't multiply out — 2 to 3 tsp per pound across 4 lb is closer to **2⅔ to 4 Tbsp**. **Nothing has been altered in §T28**, because both figures come off transcribed source pages and this is a recipe-scaling entry, not the place to overwrite a transcription. **This entry uses the per-pound rate** and points readers at §T28 for the per-rub numbers. Worth a page check next time those sources are open.
+- **Does he want the 🥑?** This lands at **under a gram of carbohydrate per serving**, so it is keto in fact. **It is not tagged**, because [CLAUDE.md §3c](CLAUDE.md)'s signal is a source that prints **net carbs**, and there is no source here — this is Cody's own method, and he didn't frame it as a keto dish. **One word from him adds the tag** in all four places.
+- **A grill instead of the pan — settled, but only one way.** He ruled the grill *out as the method* (*"it could be pan seared"*), and this entry follows that. **Whether he'd ever run a batch over direct heat instead isn't recorded**, and nothing is assumed about it.
 
 [↑ Table of Contents](#table-of-contents)
 

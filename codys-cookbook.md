@@ -1043,7 +1043,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.80 BBQ Fried Chicken](#780-bbq-fried-chicken) | 🟡 | 20 min | 20 min | **3 hr** *(sous vide, unattended)* | ~5¾–6¾ hr *(includes an ice bath + 2–3 hr fridge rest before frying — not active work)* |
 | [§7.45 Sausage & Clam Stew](#745-sausage--clam-stew) | 🟢 | 15 min | 25 min | — | 40 min |
 | [§7.129 Pasta alle Vongole](#7129-pasta-alle-vongole) | 🟡 | 15 min | 25 min | — | 40 min |
-| [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟡 | 30 min | 10 min | — | 40 min |
+| [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) | 🟢 | 30 min | 10 min | — | 40 min |
 | [§5.60 Curd Rice](#560-curd-rice) | 🟢 | 10 min | 30 min | — | ~1 hr *(includes cooling to room temperature)* |
 | [§7.47 Shrimp Roast](#747-shrimp-roast) | 🟡 | 20 min | 20 min | — | 40 min |
 | [§8.22 Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) | 🟡 | 20 min | 20 min | — | 40 min |
@@ -1072,14 +1072,14 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.135 Championship Brisket and Burnt Ends](#7135-championship-brisket-and-burnt-ends) *(The Meathead Method)* | 🟡 | 45 min | — | **8–12 hr** *(smoker; ~400°F start, then 275°F; mostly unattended)* | ~10–15 hr *(includes a 1–2 hr hold in a faux Cambro)* |
 | [§4.16 New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§4.117 Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) | 🟢 | 15 min | 30 min | — | 45 min |
-| [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟡 | 20 min | 25 min | — | 45 min |
+| [§9.10 Crabmeat Avery](#910-crabmeat-avery) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§7.44 Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§7.46 Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) | 🟡 | 10 min | 35 min | — | 45 min |
 | [§8.12 Turkey & Potato Soup](#812-turkey--potato-soup) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§8.0 Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§10.0 Loaded Frittata Formula](#100-the-loaded-frittata-formula) | 🟡 | 20 min | 25 min | — | 45 min |
 | [§T12 Fast Chicken Broth](#t12-fast-homemade-chicken-broth) | 🟢 | 15 min | 30 min | — | 45 min |
-| [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟡 | 15 min | 30 min | — | 45 min |
+| [§7.13 Crawfish Elegante](#713-crawfish-elegante) | 🟢 | 15 min | 30 min | — | 45 min |
 | [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) | 🟡 | 30 min *(incl. skinning and the egg soak)* | 15 min | — | ~1 hr 15 min *(incl. a 30 min seasoned rest)* |
 | [§9.26 Mushroom Florentine](#926-mushroom-florentine) | 🟢 | 20 min | 25 min | — | 45 min |
 | [§7.66 Crawfish Pie II](#766-crawfish-pie-ii) | 🟢 | 15 min | 30 min | — | 45 min |
@@ -1188,7 +1188,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.32 Coconut Beer Shrimp](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) | 🟡 | 55 min | 25 min | — | 1 hr 20 min |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) | 🟢 | 30 min | 55 min | — | 1 hr 25 min |
-| [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
+| [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟢 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
 | [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) *(The Meathead Method)* | 🟡 | 15 min | 1 hr 10 min | — | 3 hr 25 min – 5 hr 25 min *(includes a 2–4 hr dry brine)* |
 | [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ | 🟢 | 15 min | 1 hr – 1 hr 15 min *(400°F on a rack, one flip halfway; start checking at 45 min and pull each wing as it crisps)* | — | 1 hr 30 min *(+ an overnight 8–24 hr uncovered fridge dry-brine, and ~1 hr to bring an Egg up to temp)* |
@@ -1519,7 +1519,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟡 [Basil-Grilled Tuna with Arugula Salad](#730-basil-grilled-tuna-with-arugula-salad) ❤️ 🟩(30 min) 🍽️ ♨︎ |  |
 | 🟡 [Broiled Fish, Your Choice of Sauce](#761-broiled-fish) ❤️ 🟩(30 min) — *pick one from [Fish & seafood sauces](#fish--seafood-sauces)* |  |
 | 🟡 [Captain Mike's Ceviche](#722-captain-mikes-ceviche) ❤️ 🟩(30 min) |  |
-| 🟡 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) |  |
+| 🟢 [Crawfish Elegante](#713-crawfish-elegante) ❤️ 🟨(45 min) |  |
 | 🟢 [Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ❤️ 🟨(55 min) ♨︎ |  |
 | 🟡 [Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) 👍 🟨(45 min) ♨︎ |  |
 | 🟡 [Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) 🟩(25 min) ♨︎ |  |
@@ -1549,7 +1549,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | **🍜 Pasta, Rice & Noodle Bowls** *(every one of these is 🍽️)* |  |
 | 🟢 [Cody's Pho](#1-codys-pho) ❤️ 🟥(140 min) 🍽️ |  |
 | 🟡 [Pauls Jambalaya](#715-pauls-jambalaya) ❤️ 🟨(75 min) 🍽️ |  |
-| 🟡 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟥(85 min) 🍽️ |  |
+| 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟥(85 min) 🍽️ |  |
 | 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟩(35 min) 🍽️ |  |
 | 🟢 [Slow Cooker Ham & White Beans over Rice](#717-white-beans-slow-cooker-ham--white-beans) ❤️ 🟩(25 min) 🍽️ |  |
 | 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟨(55 min) 🍽️ |  |
@@ -1628,7 +1628,7 @@ Their own block, because they aren't a main and they aren't a side — they're w
 | Dips & Spreads | Finger Food & Small Plates |
 |---|---|
 | 🟢 [Frank's RedHot Buffalo Chicken Dip](#95-franks-redhot-buffalo-chicken-dip) 👍 🟩(30 min) | 🟢 [Jalapeño Poppers](#98-jalapeño-poppers) ❤️ 🟨(50 min) |
-| 🟢 [Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) 🟨(45 min) ♨︎ | 🟡 [Shrimp Remoulade](#99-shrimp-remoulade) ❤️ 🟩(40 min) |
+| 🟢 [Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) 🟨(45 min) ♨︎ | 🟢 [Shrimp Remoulade](#99-shrimp-remoulade) ❤️ 🟩(40 min) |
 | 🟢 [Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) 🟩(13 min) ♨︎ — *borderline: the naan; a 375°F oven does it too* | 🟡 [Beef Jerky](#96-beef-jerky) ❤️ 🟩(20 min) |
 | 🟢 [Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) 🟩(10 min) | 🟡 [Deer Jerky](#929-deer-jerky) ❤️ 🟩(20 min) |
 | 🟢 [Smoked Salmon Butter](#914-smoked-salmon-butter) 🟩(10 min) | 🟢 [Easy Deviled Eggs](#933-easy-deviled-eggs) ❤️ 🟩(5 min) |
@@ -1636,7 +1636,7 @@ Their own block, because they aren't a main and they aren't a side — they're w
 | 🟢 [Potted Crab](#912-potted-crab) 🟩(20 min) | 🟢 [Deviled Eggs](#916-deviled-eggs) 🟩(15 min) |
 | 🟡 [Crab Marie](#924-crab-marie) 🟨(75 min) | 🟢 [Pickled Shrimp & Celery](#920-pickled-shrimp--celery) 🟨(60 min) |
 | 🟢 [Melba Toasts](#911-melba-toasts) 🟩(20 min) — *the cracker for all of these* | 🟢 [Crabmeat Imperial](#925-crabmeat-imperial) 🟩(35 min) |
-|  | 🟡 [Crabmeat Avery](#910-crabmeat-avery) 🟨(45 min) |
+|  | 🟢 [Crabmeat Avery](#910-crabmeat-avery) 🟨(45 min) |
 |  | 🟢 [Mushroom Florentine](#926-mushroom-florentine) 🟨(45 min) |
 |  | 🟢 [Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) 🟩(23 min) |
 |  | 🟢 [Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) 🟥(90 min) |
@@ -2270,6 +2270,7 @@ There is nothing to rest — the steak was at its serving temperature before the
 - **🚫 The chimney brand is deliberately unrecorded.** Cody uses **the widest-diameter chimney he could find** and was unsure of the maker — what he said sounded like *"tomato gels"* or *"trader gels,"* which doesn't match a brand this cookbook can confirm. **No brand name has been guessed at or substituted here.** Any wide chimney with a grate that fits does this job. If he can read the name off the side of it, it goes in.
 - **Is the ice cooler every time, or only when he cooks a day ahead?** It's written above as the method, since that's how he described it — bath one day, sear the next. Whether he ever goes straight from bath to fire, and what he does differently when he does, isn't recorded.
 - **Portion size for the Nutrition block** — the numbers above run on an assumed two 12 oz steaks because nothing was given. A real cut and weight would replace the assumption.
+- **🚩 Possible 🟢 Easy, raised but not confirmed — 2026-09-09.** Cody, unprompted and mid-thought: *"Alright. Alright. So, yeah, Darcy Steak. Yeah. That may be medium. I think that's — I think that's more easy."* That's hedged and trails off, unlike a flat instruction, and it doesn't say which of the two methods below he means — so **both stay rated 🟡 Medium for now**, on the reasoning already spelled out on each badge (a hard sear on meat already at its finished internal temperature, with no doneness cushion left to spend). **This is a flag, not a change.** If he confirms plainly next time — and says whether he means the sous vide method, [§3.D](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method), or both — that reverses carefully-reasoned content and both badges update.
 
 **On [§3.D, the stovetop reverse sear](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) — new 2026-09-09:**
 
@@ -24949,7 +24950,9 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 
 **Techniques used:** [T6 Seafood Notes](#t6-seafood-notes)
 
-**🟡 Medium** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min** *(two skillets going at once — all of it attended)*
+**🟢 Easy** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min** *(two skillets going at once — all of it attended)*
+
+> ✅ **Rated 🟢 Easy directly by Cody, 2026-09-09** — unprompted and flat: *"Crawfish Elegante is easy, by the way. Not medium."* This supersedes the 🟡 Medium this entry carried before, along with the Step 5 rationale that used to argue for keeping it there — see the note on that step for why the reasoning now runs the other way.
 
 **❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
@@ -24990,7 +24993,7 @@ There's no clock on this one and Cody didn't give one — **go by how the sauce 
 
 *How to add that extra flour without lumps is cookbook gloss, not from the card:* never shake raw flour straight into a hot sauce — it seizes on contact and you'll be picking out pellets. Mash it into an equal amount of softened butter first to make a smooth paste — a **beurre manié** — and beat that in a little at a time, letting each addition simmer a minute before deciding whether it needs more. That's the same raw-flour-and-butter thickener documented at [§4.70 Sauce Bâtarde](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) and used to finish [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon), and it suits this recipe especially well because step 7 finishes with butter to taste anyway.
 
-**Why the constant stirring is not optional:** flour and dairy sink and catch on the bottom of the pan, and a scorched cream sauce doesn't have a salvageable half — the burnt taste goes through the whole pot. **This step is also why the recipe stays 🟡 and doesn't climb to 🔴:** a butter-and-flour thickener that never browns is the blond end of the family and earns nothing on its own *(see [the roux tiers](#difficulty--time-index))*. The scorch risk here is real but it's a slow one you can see and smell coming, not the under-a-minute window a dark roux gives you.
+**Why the constant stirring is not optional:** flour and dairy sink and catch on the bottom of the pan, and a scorched cream sauce doesn't have a salvageable half — the burnt taste goes through the whole pot. **This step is also why the recipe rates 🟢 Easy and not harder:** a butter-and-flour thickener that never browns is the blond end of the roux family and earns nothing on its own *(see [the roux tiers](#difficulty--time-index))*. The scorch risk here is real but it's a slow one you can see and smell coming, not the under-a-minute window a dark roux gives you — which is exactly the gap between a step that's merely worth watching and one that can go from perfect to ruined. *(This entry sat at 🟡 Medium until Cody rated it 🟢 Easy directly on 2026-09-09 — see the badge line above. The reasoning here now argues for that rating rather than against it.)*
 
 **6. Add the sherry, the sautéed crawfish, salt, Capt. Mike's, and cayenne.**
 
@@ -25558,7 +25561,9 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — a baked jamba
 
 **Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
 
-**🟡 Medium** · **Prep ~30 min** · **Cook ~55 min** · **Start to finish ~1 hr 25 min** *(20–30 min of the cook is an unattended oven bake)*
+**🟢 Easy** · **Prep ~30 min** · **Cook ~55 min** · **Start to finish ~1 hr 25 min** *(20–30 min of the cook is an unattended oven bake)*
+
+> ✅ **Rechecked and downgraded from 🟡 Medium, 2026-09-09 — part of the Prudhomme difficulty recheck Cody asked for:** *"do a really extensive recheck with Paul Prudhomme's stuff because some of his stuff is a little bit tricky, but maybe it's not, maybe I'm just biased."* Reading the method start to finish against [CLAUDE.md §3a](CLAUDE.md)'s actual test — *can a step go from perfect to ruined?* — nothing here can. No roux, no emulsion, no fast sear: every sauté step runs several forgiving minutes, and the finish is a foil-covered 350°F bake with a 20–30 minute window, not a precise one. **The old 🟡 tracked the long ingredient list and the unfamiliar cuisine, not real technique risk**, which is exactly the miscalibration §3a warns against.
 
 **❤️ Family favorite** — *Cody: "Awesome."*
 
@@ -27112,9 +27117,11 @@ Mash the anchovies with pinches of salt and pepper in the bottom of a salad bowl
 
 Transcribed from **Canal House Cooks Every Day**, p. 134 — the same page as [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled), and **the second of the two steak recipes [§4.55 Fresh Herb Butter](#455-fresh-herb-butter) was built to pair with.**
 
-**Yield:** serves 4
+**Yield:** serves 4 *(2 bone-in ribeyes, each carved off the bone and split — see the note below on scaling this up)*
 
 **🟡 Medium** · **Prep ~10 min** · **Cook ~25 min** *(includes a 10–15 min rest)* · **Start to finish ~35 min**
+
+> **What the title means, and scaling it for a bigger table — 2026-09-09.** Cody read the title and asked what it meant: *"I don't know what that means... that's not exactly applicable to us, we probably eat six, we're a family of five but big appetites... we may want to change the ingredients or add another steak."* **The name is literal, by the source's own account:** two bone-in ribeyes, 2–3 inches thick, each one carved off the bone and sliced to share — one steak splits two ways, so two steaks serve four (see "What a serving is" under Nutrition below). **Cookbook judgment, labeled per [CLAUDE.md §3d](CLAUDE.md):** the source gives no scaling instructions of its own, but its own math is a straight line — each steak is good for 2 servings — so **a third ribeye of the same size scales this to 6 servings** the same way the recipe already works, with the same per-steak sear and rest times (the extra steak just needs its own room on the grill). **The ingredients above are the source's own and are left as printed;** this is a note alongside them, not a change to the transcription. **His own preferred cut count, if he has one, supersedes this the day he gives it.**
 
 #### A. Ingredients
 
@@ -31395,17 +31402,19 @@ Transcribed from photographed pages — ***Champions of Sous Vide*** (page numbe
 
 **🟢 Easy** · **Prep ~5 min** *(seasoning the steak)* · **Cook ~10 min** *(searing the steak, then sautéing the mushrooms)* · **Slow cook 4 hr** *(sous vide, unattended)* · **Start to finish ~4 hr 15 min**
 
+> **Duck fat substitute — added 2026-09-09, cookbook judgment per [CLAUDE.md §3d](CLAUDE.md).** Cody: *"we don't have duck fat, can we substitute that with tallow or something else... some of these recipes call for rare ingredients... it's just gonna deter the decision-making process... we can still order it from Amazon or online."* **Beef tallow — already rendered and documented in this cookbook at [§7.149 The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) — is a workable substitute for all 5 Tbsp of duck fat below**, both in the bag and for searing; it won't taste identical (tallow is beefier, duck fat rounder and more poultry-forward) but it does the same job at the same temperatures. **Duck fat itself is also easy to order online** if the dish as printed is what's wanted. This is a note alongside the source's own ingredient lines, not a change to them — the quantities below are exactly as printed.
+
 #### A. Ingredients
 
 **For the Steak**
 
 - 1 hanger steak, 14–16 oz (397–454 g)
-- 3 Tbsp duck fat
+- 3 Tbsp duck fat *(or beef tallow — see the substitute note above)*
 
 **To Finish**
 
 - 1 lb wild mushrooms of your choice (450 g)
-- 2 Tbsp duck fat
+- 2 Tbsp duck fat *(or beef tallow — see the substitute note above)*
 - ¼ cup chopped fresh basil, to finish
 - Kosher salt
 
@@ -31430,7 +31439,7 @@ Remove the steak, add the mushrooms to the same pan, and sauté 4 to 5 minutes, 
 
 **🏪 Specific store — gourmet/specialty grocery**
 
-- 🏪 Duck fat — 5 Tbsp total *(3 Tbsp for the bag, 2 Tbsp for searing)*
+- 🏪 Duck fat — 5 Tbsp total *(3 Tbsp for the bag, 2 Tbsp for searing — beef tallow, [§7.149](#7149-the-ultimate-prime-rib-roast), substitutes if duck fat isn't on hand; duck fat itself orders easily online)*
 
 **🛒 General grocery**
 
@@ -33048,6 +33057,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **🟡 Medium** · **Prep ~5 min** · **Cook ~5 min** *(screaming-hot direct heat, flipped every minute — the whole point is that it moves fast)* · **Start to finish ~10 min** *(plus a 1–2 hr dry brine)*
 
 > **Rated Medium for the same reason as thin cuts everywhere in this cookbook: the margin for error is measured in seconds, not minutes.** At this heat a steak can go from perfect to overcooked in the time it takes to check your phone — but nothing here can be permanently ruined the way a broken sauce or a scorched roux can; an overcooked thin steak is just a well-done thin steak.
+
+> 🚩 **Flagged, not changed — 2026-09-09.** Cody asked about removing the ♨︎ from this entry, believing it was sous vide: *"I think I said that was sous vided."* **It isn't, and the ♨︎ stays.** Reading this entry in full: it's a direct screaming-hot-fire sear straight off the same Meathead grill book as [§7.106](#7106-big-thick-steakhouse-steaks), right above it — *"Get your grill screaming hot… stand by the grill and flip every minute."* No water bath anywhere in the method, and no cast-iron-only path exists here. **The two sous vide steaks he may be thinking of are [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) and [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon)** — both genuinely sous vide, both from the same Meathead Method chapter. If he confirms he meant one of those, this note can come off; until then this entry and its ♨︎ stand as written.
 
 #### A. Ingredients
 
@@ -41117,7 +41128,9 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p.
 
 **Yield:** 6 appetizer servings
 
-**🟡 Medium** · **Prep ~30 min** · **Cook ~10 min** · **Start to finish ~40 min** *(plus chilling the shrimp, and ideally 2–3 days for the sauce)*
+**🟢 Easy** · **Prep ~30 min** · **Cook ~10 min** · **Start to finish ~40 min** *(plus chilling the shrimp, and ideally 2–3 days for the sauce)*
+
+> ✅ **Rechecked and downgraded from 🟡 Medium, 2026-09-09 — part of the Prudhomme difficulty recheck Cody asked for** (his own words are on [§7.20](#720-chicken-and-seafood-jambalaya), the first entry this pass touched). Against [CLAUDE.md §3a](CLAUDE.md)'s test, this dish has nothing that can go from perfect to ruined: the shrimp get a hard 3-minute boil with real but forgiving margin, and [§4.23 Remoulade Sauce](#423-remoulade-sauce) arrives already made — its own raw-egg-yolk emulsion risk belongs to that entry, not to this one, since nothing here rebuilds or re-emulsifies it. Toss, plate, done.
 
 **❤️ Family favorite** — *Cody: "A New Orleans classic."*
 
@@ -41204,7 +41217,9 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** (*Appetizers*, p.
 
 **Yield:** 8 appetizer servings
 
-**🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+**🟢 Easy** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min**
+
+> ✅ **Rechecked and downgraded from 🟡 Medium, 2026-09-09 — part of the Prudhomme difficulty recheck Cody asked for** (his own words are on [§7.20](#720-chicken-and-seafood-jambalaya), the first entry this pass touched). Against [CLAUDE.md §3a](CLAUDE.md)'s test, nothing here can go from perfect to ruined: the sauté is a forgiving 5 minutes, the mayonnaise arrives already made rather than being built fresh (so its own emulsion risk stays with [§4.187](#4187-homemade-mayonnaise), not here), folding in the crab is a texture preference rather than a failure point, and the bake runs to a visual cue — brown and bubbly — with no precise window to miss.
 
 **🔖 Want to try** — *Cody: "Haven't tried yet."*
 

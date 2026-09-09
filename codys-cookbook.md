@@ -1327,11 +1327,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 2. **Add one or two sides from the right column.** The two columns run independently — a side is not matched to the main sitting next to it. Pick freely.
 3. **Anything marked 🍽️ is the whole meal. Skip the right column entirely.** The starch and the vegetable are already in it.
 4. **Appetizers and dips have their own block** at the bottom, below the main sheet.
-5. **Rubs and sauces are the last strip**, mapped to the protein they go on — nothing else about seasoning belongs on a planning sheet.
+5. **Seasoning gets two blocks at the bottom, not one.** [Rubs & Seasonings](#rubs--seasonings-by-protein) is mapped to the protein it goes on. [Sauces](#sauces) is its own block, grouped by what a sauce *is* — the French families, wine and brown sauces, butter and emulsions, fish and seafood, barbecue and vinegar, fresh and cold, pasta and tomato. **§4 holds about four sauces for every rub, so they no longer share a strip.**
 
 **You can plan Monday through Friday straight off this page in conversation** — read down the left column, call out five mains, and we'll fill in sides and build the grocery list from each recipe's own shopping list.
 
-**Legend:** ❤️ family favorite · 🥑 keto / low-carb · 🍽️ the whole meal, no side needed
+**Legend:** ❤️ family favorite · 🥑 keto / low-carb · 🍽️ the whole meal, no side needed · 🔴 rated Hard — it can break on you *(sauces block only)*
 
 **A dish that brings its own sauce or topping is one line here, sauce included.** [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) is one main — the white sauce is part of the dish, not a separate pick. Same with the avocado salsa on [§7.150](#7150-grilled-salmon-with-avocado-salsa). You will not find either sauce anywhere else on this sheet.
 
@@ -1467,17 +1467,117 @@ Their own block, because they aren't a main and they aren't a side — they're w
 | | [Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) |
 | | [Fresh Stuffed Crabs](#923-fresh-stuffed-crabs) |
 
-### Rubs & Sauces, by Protein
+### Rubs & Seasonings, by Protein
 
-**One strip, and that's all seasoning gets on a planning sheet.** These are the **general-purpose** rubs and sauces — the ones you'd freely reach for on any piece of meat. **A rub or sauce that belongs to one specific recipe is not here**; it stays with its dish. The Alabama white sauce is part of [§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce), the avocado salsa is part of [§7.150](#7150-grilled-salmon-with-avocado-salsa), the Cowboy Java rub is part of [§7.100](#7100-pork-tenderloin-with-cowboy-java-rub) — none of them is a separate pick. All 190-plus live in [§4](#4-rubs-seasonings-sauces--condiments).
+**The dry side of the pantry** — rubs, dry seasonings, brines and injections, mapped to the protein they go on. **Sauces have their own block, right below this one.** These are the **general-purpose** ones you'd freely reach for on any piece of meat. **A rub that belongs to one specific recipe is not here**; it stays with its dish — the Cowboy Java rub is part of [§7.100](#7100-pork-tenderloin-with-cowboy-java-rub), not a separate pick. All 31 live in [§4](#4-rubs-seasonings-sauces--condiments).
 
 | Goes on | Reach for |
 |---|---|
-| **Beef** | [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ · [Dalmatian Rub](#4105-dalmatian-rub) · [Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) · [Red Meat Rub](#4165-red-meat-rub) · [Butcher Block Seasoning](#4116-butcher-block-seasoning) · [Texas Chili Rub](#432-texas-chili-rub) · [Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) ❤️ · [Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) · [Three-Herb Chimichurri](#444-three-herb-chimichurri) |
-| **Pork** | [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) · [Basic Barbecue Rub](#426-basic-barbecue-rub) · [North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) · [Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) · [Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) · [Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce) |
-| **Chicken & poultry** | [Cajun Rub](#427-cajun-rub) · [Cajun Seasoning](#4112-cajun-seasoning) · [Java Rub](#429-java-rub) · [Mediterranean Herb Rub](#431-mediterranean-herb-rub) · [Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) |
-| **Seafood** | [Marietta's Fish Rub](#4111-mariettas-fish-rub) · [Tartar Sauce](#4124-tartar-sauce) · [Mustard-Dill Sauce](#439-mustard-dill-sauce) ❤️ · [Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) · [Mexican Fish Baste](#4184-mexican-fish-baste) · [Ketjap Butter](#4183-ketjap-butter) |
-| **Anything** | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) · [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ · [Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️ · [Cody's Smoked Salt](#4195-codys-smoked-salt) · [French Rub](#4166-french-rub) · [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) · [Pico de Gallo](#445-pico-de-gallo) · [Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ❤️ |
+| **Beef** | [Darcy's Steak Rub](#41-darcys-steak-rub) ❤️ · [Dalmatian Rub](#4105-dalmatian-rub) · [Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) · [Red Meat Rub](#4165-red-meat-rub) · [Butcher Block Seasoning](#4116-butcher-block-seasoning) · [Texas Chili Rub](#432-texas-chili-rub) · [Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) |
+| **Pork** | [Meathead's Memphis Dust](#4108-meatheads-memphis-dust) · [Basic Barbecue Rub](#426-basic-barbecue-rub) · [Cool Smoke Rub](#4169-cool-smoke-rub) · [Pork Brine Injection](#4103-pork-brine-injection) |
+| **Chicken & poultry** | [Cajun Rub](#427-cajun-rub) · [Cajun Seasoning](#4112-cajun-seasoning) · [Java Rub](#429-java-rub) · [Mediterranean Herb Rub](#431-mediterranean-herb-rub) · [Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) · [Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) · [Cool Smoke Injection](#4171-cool-smoke-injection) |
+| **Seafood** | [Marietta's Fish Rub](#4111-mariettas-fish-rub) · [Citrus Salt and Pepper](#4113-citrus-salt-and-pepper) · [Basic Fish Cure](#425-basic-fish-cure) |
+| **Anything** | [Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ❤️ · [Cavender's Greek Seasoning](#487-cavenders-all-purpose-greek-seasoning-store-bought) · [Captain Mike's Seasoning](#47-captain-mikes-seasoning) ❤️ · [Cody's Smoked Salt](#4195-codys-smoked-salt) · [French Rub](#4166-french-rub) · [Mucho Macho Pepper Rub](#430-mucho-macho-pepper-rub) · [Chinese Five-Spice Rub](#428-chinese-five-spice-rub) · [Sesame Seasoning](#433-sesame-seasoning) · [Smoked Garlic or Onion Powder](#4115-smoked-garlic-powder-or-smoked-onion-powder) · [Dolly's Lamb Rub](#4110-dollys-lamb-rub) *(lamb)* · [The Simple Blonder Wet Brine](#4100-the-simple-blonder-wet-brine-63-salinity) · [Basic Brinerade](#4101-basic-brinerade) |
+
+### Sauces
+
+**This is the deepest shelf in the cookbook, and it had been getting one line while the rubs got five.** [§4](#4-rubs-seasonings-sauces--condiments) holds roughly **126 sauces against 31 rubs** — the entire *Mastering the Art of French Cooking* sauce chapter, the Prudhomme seafood sauces, the regional barbecue sauces, and a long bench of fresh and cold ones. **They are grouped below by what a sauce *is* and what it goes on**, not by which book it came out of.
+
+**🔴 means the entry itself is rated Hard — that sauce can break on you.** Worth knowing before you pick it on a Tuesday, so the mark travels with the name. ❤️ is a family favorite, same as everywhere else on this sheet.
+
+**The same rule as the rubs applies here.** A sauce that a single dish builds in stays with that dish and is not a separate pick — the Alabama white sauce is part of [§7.119](#7119-big-bob-gibsons-chicken-in-bama-white-sauce), the avocado salsa part of [§7.150](#7150-grilled-salmon-with-avocado-salsa), the sweet-and-tangy dip part of [§9.32](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce). You will not find those three anywhere on this sheet.
+
+**And this is still a planning sheet, so it is curated — 98 of the roughly 126 are named here.** Where a source printed several near-identical versions of one sauce — seven vinaigrettes, four herb salsas, four pestos, three Carolina vinegar sauces, two Lexington dips — **the parent is named and the rest are pointed at in the note under its group. [§4](#4-rubs-seasonings-sauces--condiments) holds the complete list.**
+
+#### The French mother sauces & their children
+
+**These are a system, not a list.** One master white sauce and one master brown sauce, each turned into a dozen others by adding a single thing — cheese, tomato, onion, mustard, wine, mushrooms. Learn the two parents and the children come nearly free. **[§T24 The French Sauce Families & Roux Ratios](#t24-the-french-sauce-families--roux-ratios) is the map**, including the flour-per-cup ratios for thin, medium and thick.
+
+| Family | The parent first, then its children |
+|---|---|
+| **White — béchamel & velouté** | [Sauce Béchamel / Sauce Velouté](#463-sauce-béchamel--sauce-velouté-master-white-sauce) *(the master — every sauce after it is this plus one thing)* · [Sauce Parisienne](#464-sauce-parisienne-egg-yolk-and-cream-enrichment) *(egg yolk and cream)* · [Sauce Mornay](#465-sauce-mornay-cheese-sauce) *(cheese)* · [Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) *(tomato)* · [Sauce Chivry / Sauce à l'Estragon](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce) *(white wine, tarragon)* · [Sauce au Cari](#468-sauce-au-cari-light-curry-sauce) *(curry)* · [Sauce Soubise](#469-sauce-soubise-onion-sauce) *(onion)* · [Sauce Bâtarde / Sauce au Beurre](#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise) *(mock hollandaise)* · [Balsamella](#452-balsamella) *(the Italian béchamel)* |
+| **Brown — the three bases** | [Sauce Brune](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1) *(1 — flour-based, the classic)* · [Sauce Ragoût](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) *(2 — flour-based, with giblets)* · [Jus Lié](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3) *(3 — starch-thickened, the quick one)* |
+
+**Every sauce in the next group starts from one of those three browns**, plus wine, mustard, mushrooms or pickles. That is the whole trick, and it is why they are listed parent-first.
+
+#### Wine & brown sauces
+
+**Built either on a brown base ([§4.71](#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)–[§4.73](#473-jus-lié-starch-thickened-brown-sauce--brown-sauce-3)) or on the wine in the pan.** For a sauce made off whatever you just seared, the formula is [§T8 Pan Sauce Formula](#t8-pan-sauce-formula).
+
+| | Reach for |
+|---|---|
+| **Madeira & port** | [Sauce Madère / Sauce au Porto](#480-sauce-madère--sauce-au-porto-brown-madeira-or-port-wine-sauce) · [Sauce Périgueux](#481-sauce-périgueux-brown-madeira-sauce-with-truffles) *(Madeira and truffles)* |
+| **Sharp & mustard** | [Sauce Diable](#474-sauce-diable-peppery-brown-sauce) *(peppery)* · [Sauce Piquante](#475-sauce-piquante-brown-sauce-with-pickles-and-capers) *(pickles and capers)* · [Sauce Robert](#476-sauce-robert-brown-mustard-sauce) *(mustard)* |
+| **Herb & curry** | [Sauce Brune aux Fines Herbes / à l'Estragon](#477-sauce-brune-aux-fines-herbes--sauce-brune-à-lestragon-brown-herb-or-tarragon-sauce) · [Sauce Brune au Cari](#478-sauce-brune-au-cari-brown-curry-sauce) |
+| **Mushroom** | [Sauce Duxelles](#479-sauce-duxelles-brown-mushroom-sauce) · [Duxelles and Mushroom Cream Sauce](#4180-duxelles-and-mushroom-cream-sauce) *(the beef one)* |
+| **Other wine & gravy** | [Sherry Wine Sauce](#4188-sherry-wine-sauce) · [Andouille Smoked Sausage Sauce](#413-andouille-smoked-sausage-sauce) · [Giblet Gravy](#417-giblet-gravy) *(turkey)* |
+
+#### Butter & emulsion sauces
+
+**🔴 Two of these break on you.** Hollandaise and beurre blanc are emulsions — too much heat, or butter added too fast, and they split. Everything else in this group is forgiving.
+
+| | Reach for |
+|---|---|
+| **Egg emulsions** | [Hollandaise Sauce](#49-hollandaise-sauce) ❤️ 🔴 · [New Orleans Béarnaise](#410-new-orleans-béarnaise-sauce) · [Choron](#411-choron-sauce) *(béarnaise plus tomato)* |
+| **Butter emulsions & browned butters** | [Beurre Blanc / Beurre Nantais](#485-beurre-blanc--beurre-nantais-white-butter-sauce) 🔴 · [Beurre Noir / Beurre Noisette](#486-beurre-noir--beurre-noisette-brown-butter-sauce) · [Meunière Sauce](#420-meunière-sauce) · [Lemon Butter Sauce](#418-lemon-butter-sauce) · [Browned Garlic Butter Sauce](#419-browned-garlic-butter-sauce) · [New Orleans Bordelaise](#415-new-orleans-bordelaise-sauce) *(butter and garlic — not the French one)* |
+| **Compound butters** | [Fresh Herb Butter](#455-fresh-herb-butter) · [Canal House Lemon Butter](#456-canal-house-lemon-butter) · [Smoked Butter](#4167-smoked-butter) |
+
+*Three more compound butters are in §4 — [§4.57 Fresh Horseradish Butter](#457-fresh-horseradish-butter), [§4.58 Pimentón Butter](#458-pimentón-butter) and [§4.133 Beef Butter](#4133-beef-butter).*
+
+#### Fish & seafood sauces
+
+**Cody named these too.** The Prudhomme *Sauces & Gravies* chapter is most of this group, and each one goes on far more than the single dish it was printed beside.
+
+| | Reach for |
+|---|---|
+| **Rich & Cajun** | [Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) · [Fish Brown Sauce](#412-fish-brown-sauce) 🔴 · [Czarina Sauce with Shrimp or Crawfish](#421-czarina-sauce-with-shrimp-or-crawfish) · [Creole Sauce](#414-creole-sauce) · [Poblano-Basil Cream Sauce](#4174-poblano-basil-cream-sauce) |
+| **Butter finishes** | [Pecan Butter Sauce](#424-pecan-butter-sauce) · [Ketjap Butter](#4183-ketjap-butter) |
+| **Cold & mustard** | [Remoulade Sauce](#423-remoulade-sauce) ❤️ · [Tartar Sauce](#4124-tartar-sauce) · [Mustard-Dill Sauce](#439-mustard-dill-sauce) ❤️ · [Mustard Sauce](#422-mustard-sauce) |
+| **Bastes** | [Mexican Fish Baste](#4184-mexican-fish-baste) |
+
+*[§4.38](#438-mustard-sauce) is a second, unrelated Mustard Sauce carrying the same name.*
+
+#### Barbecue & vinegar sauces
+
+**Sorted the way barbecue actually sorts itself — by what the sauce is made of, which is also by region.** Vinegar in eastern Carolina, mustard in South Carolina, tomato in Kansas City, mayonnaise in Alabama.
+
+| | Reach for |
+|---|---|
+| **Vinegar — the Carolinas** | [North Carolina Vinegar Sauce](#436-north-carolina-vinegar-sauce) · [Lexington Dip](#4120-lexington-dip-west-carolina-barbecue-sauce) |
+| **Mustard — South Carolina** | [Carolina Mustard Barbecue Sauce](#492-carolina-mustard-barbecue-sauce) · [Columbia Gold](#4118-columbia-gold-south-carolina-mustard-sauce) · [Carolina Gold for Grownups](#4179-carolina-gold-for-grownups) |
+| **Tomato — Kansas City** | [Kansas City Classic Barbecue Sauce](#4117-kansas-city-classic-barbecue-sauce) · [Kansas City Red](#4178-kansas-city-red) · [Cool Smoke Barbecue Sauce](#4170-cool-smoke-barbecue-sauce) |
+| **Mayonnaise — Alabama** | [White Barbecue Sauce](#437-white-barbecue-sauce) *(Raichlen's Big Bob Gibson)* |
+| **Mops & bastes** | [Basic Barbecue Mop Sauce](#434-basic-barbecue-mop-sauce) · [Texas Mop Sauce](#4121-texas-mop-sauce) |
+| **Odd one out** | [D.C. Mumbo Sauce](#4123-dc-mumbo-sauce) |
+
+*The near-twins, all in §4: [§4.91](#491-vinegar-sauce-eastern-north-carolina-diluted-style) and [§4.93](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) are the other two Carolina vinegar sauces, [§4.173](#4173-lexington-dip-2) the second Lexington dip, [§4.35](#435-mustard-barbecue-sauce) another South Carolina mustard sauce, [§4.96](#496-vinegar-based-mop-sauce) and [§4.119](#4119-east-carolina-mop-sauce) two more mops, and [§4.125 Chocolate Chile](#4125-chocolate-chile-barbecue-sauce) the outlier.*
+
+#### Fresh & cold sauces
+
+**The weeknight group — nothing here needs a stove.** It is the biggest family in §4 and the most heavily curated here: where a source printed one parent plus a set of regional riffs, the parent is named and the riffs are pointed at underneath.
+
+| | Reach for |
+|---|---|
+| **Salsas** | [Pico de Gallo](#445-pico-de-gallo) · [Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) ❤️ · [Salsa Verde](#447-salsa-verde) |
+| **Herb salsas** | [Basic Salsa Verde](#4146-basic-salsa-verde) *(the parent)* · [North African Charmoula](#4152-north-african-charmoula) · [Salmoriglio](#4154-salmoriglio-sicilian-oregano-sauce) |
+| **Chimichurri & pesto** | [Three-Herb Chimichurri](#444-three-herb-chimichurri) · [Red Chimichurri](#494-red-chimichurri) · [Pesto](#4164-pesto-basil-pesto) *(basil — the one to start from)* |
+| **Vinaigrettes** | [Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) ❤️ · [Sauce Vinaigrette](#484-sauce-vinaigrette-french-dressing) *(the French master)* · [Red Wine Vinaigrette](#4138-red-wine-vinaigrette) |
+| **Creamy dressings** | [Creamy Caesar Dressing](#4134-creamy-caesar-dressing) · [Green Goddess Dressing](#4144-green-goddess-dressing) |
+| **Mayonnaise-based** | [Homemade Mayonnaise](#4187-homemade-mayonnaise) *(the parent)* · [Aioli](#4161-aioli-garlic-mayonnaise) *(garlic)* · [Rouille](#4163-rouille-pepper-mayonnaise) *(pepper — for fish soup)* · [Béarnaise Mayonnaise](#461-béarnaise-mayonnaise) |
+| **Steak sauces & cold condiments** | [Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) · [Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) · [Tonnato Sauce](#459-tonnato-sauce) · [Sage and Thyme Board Sauce](#4129-sage-and-thyme-board-sauce) |
+| **Dipping sauces** | [Asian Peanut Sauce](#441-asian-peanut-sauce) · [Thai Peanut Sauce](#4190-thai-peanut-sauce) · [Vietnamese Dipping Sauce](#443-vietnamese-dipping-sauce) · [Thai Sweet Chile Sauce](#4186-thai-sweet-chile-sauce-nam-jim-kai) |
+| **Pickles, relishes & jams** | [Pickled Pink Onions](#45-pickled-pink-onions) ❤️ · [No-Heat Sour Kraut](#46-no-heat-sour-kraut) ❤️ · [Quick Pickles](#4177-quick-pickles) · [Bacon and Onion Jam](#4122-bacon-and-onion-jam) |
+
+*The rest of this family, all in §4.* **Salsas:** [§4.46](#446-tomato-pepper-salsa), [§4.49](#449-mango-salsa), [§4.151](#4151-meyer-lemon-salsa). **Herb salsas** — the four regional riffs on §4.146: [§4.147](#4147-classic-french-herb-salsa), [§4.148](#4148-mexican-ish-herb-salsa), [§4.149](#4149-southeast-asian-ish-herb-salsa), [§4.150](#4150-japanese-ish-herb-salsa), plus [§4.153](#4153-indian-coconut-cilantro-chutney). **Chimichurri & pesto:** [§4.3](#43-pesto-basil-parmesan-and-pine-nut-sauce), [§4.95](#495-dry-chimichurri), [§4.130](#4130-chimichurri-sauce), [§4.62](#462-walnut-dill-pesto). **Vinaigrettes & dressings:** [§4.136](#4136-any-other-citrus-vinaigrette), [§4.137](#4137-tomato-vinaigrette), [§4.139](#4139-balsamic-vinaigrette), [§4.140](#4140-lemon-vinaigrette), [§4.141](#4141-lime-vinaigrette), [§4.142](#4142-rice-wine-vinaigrette), [§4.143](#4143-miso-mustard-dressing). **Mayonnaise:** [§4.159](#4159-rustic-mayonnaise), [§4.160](#4160-classic-sandwich-mayo), [§4.162](#4162-herb-mayonnaise). **Cold condiments:** [§4.40](#440-herbed-horseradish-sauce), [§4.132](#4132-roasted-red-pepper-and-garlic-coulis), and the Persian yogurts [§4.155](#4155-herbed-yogurt)–[§4.158](#4158-mast-o-laboo-persian-beet-yogurt). **Dipping:** [§4.42](#442-asian-pear-dipping-sauce), [§4.175](#4175-teriyaki-sauce), [§4.181](#4181-japanese-happy-mouth-yakitori-sauce), [§4.182](#4182-basic-pepper-paste), [§4.185](#4185-teriyaki-brinerade-and-sauce), [§4.191](#4191-dutch-west-indian-peanut-sauce-pindasaus). **Pickles & relishes:** [§4.50](#450-cucumber-relish), [§4.51](#451-shallot-marmalade), [§4.90](#490-pickled-vegetables-encurtido).
+
+#### Pasta & tomato sauces
+
+| | Reach for |
+|---|---|
+| **Red** | [Salsa Marinara](#44-salsa-marinara-marinara-sauce) · [New Orleans Italian Red Gravy](#416-new-orleans-italian-red-gravy) · [Ragù Bolognese](#454-ragù-bolognese) · [Simple Tomato Sauce](#453-simple-tomato-sauce) · [Sauce Tomate](#482-sauce-tomate-tomato-sauce) *(the French one)* · [Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) *(fresh, never cooked down)* |
+| **White** | [Salsa Alfredo](#42-salsa-alfredo-alfredo-sauce) · [Pesto](#4131-pesto) *(the Prudhomme one, tossed straight onto pasta)* |
+
+*The béchamel side of a pasta sauce is up in the French block — [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) and [§4.52 Balsamella](#452-balsamella).*
 
 **Dessert is not on this sheet.** It lives in [§14 Desserts](#14-desserts) — 36 entries, from [Mixed Berry Cobbler](#141-mixed-berry-cobbler) to the four pecan pies. Say the word and a dessert column gets added here.
 

@@ -1393,7 +1393,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | Mains — pick one | Sides — pick one or two |
 |---|---|
 | **🥩 Beef & Venison** | **🥕 Vegetables** |
-| [Darcy's Steak](#3-darcys-steak) ❤️ — *no ♨︎ as of 2026-09-09: the chimney sear is a sear, and [§3.D](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) is the same steak in a pan* | [Mamma's Spinach](#537-mammas-spinach) ❤️ |
+| [Darcy's Steak](#3-darcys-steak) ❤️ — *marker removed 2026-09-09: the chimney is only a sear, and [§3.D](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) is the same steak in a pan* | [Mamma's Spinach](#537-mammas-spinach) ❤️ |
 | [Sliced Smoked Brisket](#61-smoked-brisket) ❤️ ♨︎ | [Lemon Green Beans](#536-lemon-green-beans) ❤️ |
 | [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ ♨︎ — *for the 4 hr smoke, not the browning* | [Grilled Cauliflower](#542-grilled-cauliflower) 👍 ♨︎ |
 | [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ ♨︎ | [Roasted Veggies](#538-roasted-veggies) 👍 |

@@ -254,7 +254,7 @@ Click any recipe to jump straight to it.
 **[5. Vegetables & Sides](#5-vegetables--sides)**
 
 - [5.1 Green Beans](#51-green-beans) ○ ❤️
-- [5.2 Asparagus](#52-asparagus) ○ ❤️
+- [5.2 Sautéed Asparagus](#52-sautéed-asparagus) ✅ ❤️ *(written up 2026-09-09; retitled from the bare "Asparagus" placeholder)*
 - [5.3 Squash](#53-squash) ○ 👍
 - [5.4 Okra](#54-okra) ○ ❤️
 - [5.5 Zucchini](#55-zucchini) ○ ❤️
@@ -293,7 +293,7 @@ Click any recipe to jump straight to it.
 - [5.38 Roasted Veggies](#538-roasted-veggies) ✅ 👍 *(a loose "wing it" formula, not a fixed recipe)*
 - [5.39 Fennel Fondant](#539-fennel-fondant) ✅ *(Champions of Sous Vide; flag retired 2026-09-06 — the ingredient list was complete all along)*
 - [5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) ✅ *(Meathead)*
-- [5.41 Grilled Asparagus](#541-grilled-asparagus) ✅ *(Meathead; distinct from [§5.2](#52-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter))*
+- [5.41 Grilled Asparagus](#541-grilled-asparagus) ✅ *(Meathead; distinct from [§5.2](#52-sautéed-asparagus)/[§5.15](#515-roasted-asparagus)/[§5.16](#516-asparagus-with-lemon-butter-sauce)/[§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter))*
 - [5.42 Grilled Cauliflower](#542-grilled-cauliflower) ✅ 👍 *(Meathead; distinct from [§5.6](#56-cauliflower))*
 - [5.43 The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) ✅ *(Meathead; distinct from [§5.14](#514-grilled-corn))*
 - [5.44 Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) ✅ *(Meathead)*
@@ -811,6 +811,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.152 North African Charmoula](#4152-north-african-charmoula) | 🟢 | 10 min | 3 min *(toasting cumin seeds)* | — | 15 min |
 | [§5.21 Sautéed Kale](#521-sautéed-kale) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§5.37 Mamma's Spinach](#537-mammas-spinach) | 🟢 | 5 min | 8 min | — | 15 min |
+| [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§4.101 Basic Brinerade](#4101-basic-brinerade) | 🟢 | 15 min | — | — | 15 min active *(+ brining time per §T37)* |
 | [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) | 🟢 | 15 min | — | — | 15 min |
 | [§4.112 Cajun Seasoning](#4112-cajun-seasoning) | 🟢 | 15 min | — | — | 15 min |
@@ -1253,7 +1254,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Long is not the same as hard, and [§1 Cody's Pho](#1-codys-pho) is the proof.** It has the longest prep and one of the longest start-to-finish numbers in this table — two days, two hours of prep — and it's rated 🟢 **Easy**, because not one of its steps can genuinely fail on you. Per Cody: *it's a long distance run.* The commitment is stamina and planning, not technique. **[§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) makes the opposite point on a similar timeline** — also a one-to-two-day, all-hands project, but rated 🔴 **Hard**, because it ends in a roux that genuinely can burn. Same scale, opposite reason. Sort by the difficulty column and the time columns separately; they're answering different questions.
 
-*Recipes still in placeholder form (§5.1–5.9, §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.3, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
+*Recipes still in placeholder form (§5.1, §5.3–5.9 — §5.2 closed 2026-09-09 as [Sautéed Asparagus](#52-sautéed-asparagus) — §5.24, §6.1, §6.3–6.5, §7.2, §7.4–7.10, §7.12, §7.60, §7.77, §8.2 *(a category stub)*, §8.21, §8.36, §9.1–9.4, §10.1–10.3, §10.9, §11.1–11.2, §14.7, §14.8 — list re-checked 2026-09-07) aren't rated — there's no method to time yet. **The rest of §6 Smoked Meats will likely be Slow cook too**, per [§6.2 Pulled Pork](#62-pulled-pork)'s example, when written up.*
 
 *Two seasonings are **store-bought products rather than recipes** — [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought) and [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning). There's nothing to make and nothing to time, so like [§T4](#t4-stocks--ingredient-conventions)/[§T5](#t5-seasonings--peppers)/[§T24](#t24-the-french-sauce-families--roux-ratios) they carry no badge and stay out of every count here.*
 
@@ -1286,7 +1287,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **Soups & chili — [§8.1](#81-chili-mac)–[§8.7](#87-italian-sausage--kale-soup) is still a clean sweep, and three more from later in the section join it:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili Mac](#81-chili-mac) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) · [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) · [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot)
 
-**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Asparagus](#52-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach) · [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)
+**Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Zucchini](#55-zucchini) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach) · [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)
 
 **Snacks:** [§9.6 Beef Jerky](#96-beef-jerky) · [§9.7 Chicken Salad](#97-chicken-salad) · [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) · [§9.9 Shrimp Remoulade](#99-shrimp-remoulade) · [§9.27 Reuben](#927-reuben) · [§9.28 Char-Grilled Oysters](#928-char-grilled-oysters) · [§9.29 Deer Jerky](#929-deer-jerky) · [§9.33 Easy Deviled Eggs](#933-easy-deviled-eggs)
 
@@ -1390,87 +1391,88 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 > - **Four placements he named outright, all honored as pins above their tier:** [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) and [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) at the top of **Potatoes, Rice & Grains**; [§5.34 Brazilian Black Beans](#534-brazilian-black-beans-with-bacon-tutu-mineira) at the top of **Beans** *(a placement, not a rating — it is still unrated)*; and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) with [§7.119 Big Bob Gibson's Chicken](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) at the top of **Chicken & Poultry**.
 > - **[§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) is new to this sheet, and here is why he couldn't find it.** *"Did I see sous vide chicken? I would like sous vided chicken on here, and at the top."* **It was never missing — it was filed as a technique**, in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips) rather than in §7, and this sheet excludes §T. He cooks it as dinner, so it is listed as a main and **linked back to §T28 where it lives.** Its content was not copied into §7 and it was not renumbered.
 > - **Two new recipes joined the sides:** [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ at the top of **Salads & Slaws**, and [§5.62 Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) at the top of **No-Cook Sides** — the latter **grew out of a bare suggestion line on this very sheet** that he liked the sound of; see the entry, which is candid that the idea started here and not with him.
+> - **And one more joined the sides later that same day, making it 278:** [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) ❤️, at the top of **🥕 Vegetables**. It is not a new *dish* — it is the ❤️ placeholder that has sat in §5 since the beginning, finally written up, so it arrives with its favorite mark already earned and sorts to the top of the group on rule 4.
 > - **Six 👍 marks were missing from this sheet** that the [Family Ratings Index](#family-ratings-index) already carried — [§5.11](#511-sweet-potato-casserole), [§5.12](#512-southern-cornbread-stuffing), [§5.13](#513-north-carolina-coleslaw), [§5.14](#514-grilled-corn), [§7.33](#733-grilled-stuffed-chicken-breasts), and [§11.3](#113-keto-skillet-cornbread). They are on now. **The sort is only as good as the marks**, so those had to be right before it would mean anything.
 
 | Mains — pick one | Sides — pick one or two |
 |---|---|
 | **🥩 Beef & Venison** | **🥕 Vegetables** |
-| [Darcy's Steak](#3-darcys-steak) ❤️ — *marker removed 2026-09-09: the chimney is only a sear, and [§3.D](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) is the same steak in a pan* | [Mamma's Spinach](#537-mammas-spinach) ❤️ |
-| [Sliced Smoked Brisket](#61-smoked-brisket) ❤️ ♨︎ | [Lemon Green Beans](#536-lemon-green-beans) ❤️ |
-| [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ ♨︎ — *for the 4 hr smoke, not the browning* | [Grilled Cauliflower](#542-grilled-cauliflower) 👍 ♨︎ |
-| [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ ♨︎ | [Roasted Veggies](#538-roasted-veggies) 👍 |
-| [Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ❤️ ♨︎ | [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 |
-| [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🍽️ ♨︎ | [Grilled Corn](#514-grilled-corn) 👍 ♨︎ |
-| [Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ❤️ 🍽️ | [Sweet Potato Casserole](#511-sweet-potato-casserole) 👍 |
-| [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ | [Sautéed Kale](#521-sautéed-kale) |
-| [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🍽️ ♨︎ | [Smothered Mustard Greens](#529-smothered-mustard-greens) |
-| **Brisket:** [Texas-Style Barbecued](#67-texas-style-barbecued-brisket) · [Texas Beef](#7112-texas-beef-brisket) · [Championship, with Burnt Ends](#7135-championship-brisket-and-burnt-ends) ♨︎ | [Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) |
-| [Skinny Steaks](#7107-skinny-steaks) ♨︎ | [Roasted Asparagus](#515-roasted-asparagus) |
-| [Two Steaks Feed Four](#736-two-steaks-feed-four) ♨︎ | [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) |
-| [Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) ♨︎ | [Grilled Asparagus](#541-grilled-asparagus) ♨︎ |
-| [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) ♨︎ | [Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) |
-| [Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) 🍽️ | [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) |
-| [Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) | [The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) ♨︎ |
-| [Kōji Filet Mignon](#7132-kōji-filet-mignon) ♨︎ | [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) ♨︎ |
-| [Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) ♨︎ — *the smoke is the dish; the sear can be a pan* | [Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) |
-| [Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) ♨︎ | [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) |
-| [Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) ♨︎ | ["Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) |
-| [Prime Rib Dinner](#7114-prime-rib) ♨︎ | [Fennel Fondant](#539-fennel-fondant) |
-| [The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) ♨︎ — *for the 90 min pellet smoke; the sear can be a pan* | [Smoke-Roasted Garlic](#557-smoke-roasted-garlic) ♨︎ |
-| [Short Ribs, Texas Style](#7110-short-ribs-texas-style) ♨︎ | [Smoked Tomato Raisins](#558-smoked-tomato-raisins) ♨︎ |
-| [Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) ♨︎ | [Pickled Okra](#526-pickled-okra) |
-| [Beef Back Ribs](#7130-beef-back-ribs) ♨︎ | [Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) |
-| [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) ♨︎ | [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🥑 |
-| [Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🥑 |
-| [Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) ♨︎ | **🥔 Potatoes, Rice & Grains** |
-| [Afterburner Fajitas](#7134-afterburner-fajitas) 🍽️ ♨︎ | [Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) ❤️ 🥑 |
-| [Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) 🍽️ ♨︎ | [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🥑 |
-| [Corned Beef & Cabbage, Cured from Scratch](#748-corned-beef--cabbage) 🍽️ | [Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ❤️ |
-| [Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | [Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 👍 |
-| [Pot Roast (Boeuf à la Mode)](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | [Smoked Potato Salad](#547-smoked-potato-salad) ♨︎ |
-| [Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | [Persian-ish Rice](#549-persian-ish-rice) |
-| **🐖 Pork** | [Curd Rice](#560-curd-rice) |
-| [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🍽️ ♨︎ | [Cheese Grits](#1010-cheese-grits) |
-| [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🍽️ ♨︎ | [Garlic Cheese Grits](#1011-garlic-cheese-grits) |
-| [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🍽️ ♨︎ | [Grilled Grits](#1012-grilled-grits) ♨︎ |
-| [Cody's Pulled Pork Street Tacos](#71-pulled-pork-tacos) ❤️ 🍽️ ♨︎ | [Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) |
-| [Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ❤️ | [Oyster Dressing](#532-oyster-dressing-for-10-to-12-lb-turkey) |
-| [Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ ♨︎ — *the pork sears in cast iron; the fire is for the vegetables and naan* | **🫘 Beans** |
-| [Last-Meal Ribs](#797-last-meal-ribs) ❤️ ♨︎ | [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) |
-| [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🍽️ ♨︎ | [Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) ♨︎ |
-| [Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) 🍽️ ♨︎ | [Boston Barbecue Beans](#548-boston-barbecue-beans) ♨︎ |
-| [Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) ♨︎ | **🥗 Salads & Slaws** |
-| [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) ♨︎ | [Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ |
-| [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) ♨︎ | [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ |
-| [Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ |
-| [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) ♨︎ | [Brazilian Salad](#519-brazilian-salad) ❤️ |
-| [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) ♨︎ | [North Carolina Coleslaw](#513-north-carolina-coleslaw) 👍 |
-| [Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) ♨︎ | [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) |
-| [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) ♨︎ | [Grilled Romaine Salad](#545-grilled-romaine-salad) ♨︎ |
-| [Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) ♨︎ | [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) |
-| [Championship Pork Ribs](#7136-championship-pork-ribs) ♨︎ | [Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) |
-| [60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) ♨︎ | [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) |
-| [Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) ♨︎ | [Cole Slaw](#535-cole-slaw) |
-| [Boudin Blanc](#751-boudin-blanc-boudin) | [Bright Cabbage Slaw](#553-bright-cabbage-slaw) |
-| **🐔 Chicken & Poultry** | **🍞 Breads & Biscuits** |
-| [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | [Keto Skillet Cornbread](#113-keto-skillet-cornbread) 👍 🥑 |
-| [Sous Vide Chicken Thighs for the Family](#7151-sous-vide-chicken-thighs-for-the-family-seared) — *§7.151, the recipe version of the line above — 12 thighs, feeds six, **pan seared, not grilled*** | [Plain French Bread](#151-plain-french-bread-pain-français) |
-| [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ ♨︎ | [Butter Dips](#152-butter-dips) |
-| [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ ♨︎ — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's* | [Angel Biscuits](#154-angel-biscuits) |
-| [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ ♨︎ | [Fancy Biscuits](#155-fancy-biscuits) |
-| [Poulet de France](#7124-poulet-de-france) ❤️ 🍽️ | [Pastry Biscuits](#156-pastry-biscuits) |
-| [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 ♨︎ | [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) |
-| [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 ♨︎ | [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) ♨︎ |
-| [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | [Simple Grilled Crostini](#540-simple-grilled-crostini) ♨︎ |
-| [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | [Irish Soda Bread](#106-irish-soda-bread) |
-| [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) | [Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 |
-| [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🥑 | **🧊 No-Cook Sides** — *mostly pantry items with no recipe to write; the one with an entry is listed first* |
-| [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | [Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) — *written up 2026-09-09* |
-| [Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) ♨︎ | Cottage cheese — *no entry* |
-| [BBQ Fried Chicken](#780-bbq-fried-chicken) | Sliced tomatoes, salted — *no entry* |
-| [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) | Avocado, halved and salted — *no entry* |
-| [Tandoori Chicken](#7140-tandoori-chicken) ♨︎ | Applesauce — *no entry* |
-| [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) |  |
+| [Darcy's Steak](#3-darcys-steak) ❤️ — *marker removed 2026-09-09: the chimney is only a sear, and [§3.D](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) is the same steak in a pan* | [Sautéed Asparagus](#52-sautéed-asparagus) ❤️ |
+| [Sliced Smoked Brisket](#61-smoked-brisket) ❤️ ♨︎ | [Mamma's Spinach](#537-mammas-spinach) ❤️ |
+| [Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) ❤️ ♨︎ — *for the 4 hr smoke, not the browning* | [Lemon Green Beans](#536-lemon-green-beans) ❤️ |
+| [Herb-Crusted Grilled Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) ❤️ ♨︎ | [Grilled Cauliflower](#542-grilled-cauliflower) 👍 ♨︎ |
+| [Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ❤️ ♨︎ | [Roasted Veggies](#538-roasted-veggies) 👍 |
+| [Steakhouse Steakburgers](#7115-the-great-american-steakhouse-steakburger) ❤️ 🍽️ ♨︎ | [Cherry Tomato Confit](#556-cherry-tomato-confit) 👍 |
+| [Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ❤️ 🍽️ | [Grilled Corn](#514-grilled-corn) 👍 ♨︎ |
+| [Mamma's Deer or Beef Stew](#833-mammas-deerbeef-stew) ❤️ | [Sweet Potato Casserole](#511-sweet-potato-casserole) 👍 |
+| [Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) 👍 🍽️ ♨︎ | [Sautéed Kale](#521-sautéed-kale) |
+| **Brisket:** [Texas-Style Barbecued](#67-texas-style-barbecued-brisket) · [Texas Beef](#7112-texas-beef-brisket) · [Championship, with Burnt Ends](#7135-championship-brisket-and-burnt-ends) ♨︎ | [Smothered Mustard Greens](#529-smothered-mustard-greens) |
+| [Skinny Steaks](#7107-skinny-steaks) ♨︎ | [Grandma's Mustard Greens & Turnips](#530-grandmas-mustard-greens--turnips) |
+| [Two Steaks Feed Four](#736-two-steaks-feed-four) ♨︎ | [Roasted Asparagus](#515-roasted-asparagus) |
+| [Whole Beef Tenderloin, Peppered & Grilled](#735-whole-beef-tenderloin-peppered--grilled) ♨︎ | [Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) |
+| [Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) ♨︎ | [Grilled Asparagus](#541-grilled-asparagus) ♨︎ |
+| [Skirt Steak with Buttered Spinach & French Fries](#746-skirt-steak-with-buttered-spinach--french-fries) 🍽️ | [Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) |
+| [Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) | [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) |
+| [Kōji Filet Mignon](#7132-kōji-filet-mignon) ♨︎ | [The Ultimate Grilled Corn on the Cob](#543-the-ultimate-grilled-corn-on-the-cob) ♨︎ |
+| [Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) ♨︎ — *the smoke is the dish; the sear can be a pan* | [Chipotle-Lime Corn on the Cob](#544-chipotle-lime-corn-on-the-cob) ♨︎ |
+| [Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) ♨︎ | [Ratatouille (Eggplant Casserole)](#522-ratatouille-eggplant-casserole) |
+| [Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) ♨︎ | [Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) |
+| [Prime Rib Dinner](#7114-prime-rib) ♨︎ | ["Fake" Stuffed Eggplant](#528-fake-stuffed-eggplant) |
+| [The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) ♨︎ — *for the 90 min pellet smoke; the sear can be a pan* | [Fennel Fondant](#539-fennel-fondant) |
+| [Short Ribs, Texas Style](#7110-short-ribs-texas-style) ♨︎ | [Smoke-Roasted Garlic](#557-smoke-roasted-garlic) ♨︎ |
+| [Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) ♨︎ | [Smoked Tomato Raisins](#558-smoked-tomato-raisins) ♨︎ |
+| [Beef Back Ribs](#7130-beef-back-ribs) ♨︎ | [Pickled Okra](#526-pickled-okra) |
+| [Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) ♨︎ | [Pickled Beets with Horseradish Cream](#518-pickled-beets-with-horseradish-cream) |
+| [Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) | [Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) 🥑 |
+| [Peruvian Beef Kebabs (Anticuchos)](#768-peruvian-beef-kebabs-anticuchos) ♨︎ | [Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) 🥑 |
+| [Afterburner Fajitas](#7134-afterburner-fajitas) 🍽️ ♨︎ | **🥔 Potatoes, Rice & Grains** |
+| [Clint's Chuck Roast Sandwiches](#7133-clints-chuck-roast-sandwiches) 🍽️ ♨︎ | [Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) ❤️ 🥑 |
+| [Corned Beef & Cabbage, Cured from Scratch](#748-corned-beef--cabbage) 🍽️ | [Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) ❤️ 🥑 |
+| [Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | [Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) ❤️ |
+| [Pot Roast (Boeuf à la Mode)](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | [Southern Cornbread Stuffing](#512-southern-cornbread-stuffing) 👍 |
+| [Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | [Smoked Potato Salad](#547-smoked-potato-salad) ♨︎ |
+| **🐖 Pork** | [Persian-ish Rice](#549-persian-ish-rice) |
+| [Pulled Pork Sandwiches](#62-pulled-pork) ❤️ 🍽️ ♨︎ | [Curd Rice](#560-curd-rice) |
+| [Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🍽️ ♨︎ | [Cheese Grits](#1010-cheese-grits) |
+| [Meathead's Perfect Pulled Pork Sandwiches](#795-perfect-pulled-pork) ❤️ 🍽️ ♨︎ | [Garlic Cheese Grits](#1011-garlic-cheese-grits) |
+| [Cody's Pulled Pork Street Tacos](#71-pulled-pork-tacos) ❤️ 🍽️ ♨︎ | [Grilled Grits](#1012-grilled-grits) ♨︎ |
+| [Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ❤️ | [Scalloped Oyster Dressing](#531-scalloped-oyster-dressing) |
+| [Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ❤️ ♨︎ — *the pork sears in cast iron; the fire is for the vegetables and naan* | [Oyster Dressing](#532-oyster-dressing-for-10-to-12-lb-turkey) |
+| [Last-Meal Ribs](#797-last-meal-ribs) ❤️ ♨︎ | **🫘 Beans** |
+| [North Carolina Pulled Pork Sandwiches (Karmel)](#66-north-carolina-pulled-pork-karmel-version) 🍽️ ♨︎ | [Brazilian Black Beans with Bacon](#534-brazilian-black-beans-with-bacon-tutu-mineira) |
+| [Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) 🍽️ ♨︎ | [Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) ♨︎ |
+| [Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) ♨︎ | [Boston Barbecue Beans](#548-boston-barbecue-beans) ♨︎ |
+| [Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) ♨︎ | **🥗 Salads & Slaws** |
+| [Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) ♨︎ | [Simple Romaine (or Butter Lettuce) Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ |
+| [Roast Pork with Salmoriglio](#738-roast-pork-with-salmoriglio) | [Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) ❤️ |
+| [Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) ♨︎ | [Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) ❤️ |
+| [Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) ♨︎ | [Brazilian Salad](#519-brazilian-salad) ❤️ |
+| [Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) ♨︎ | [North Carolina Coleslaw](#513-north-carolina-coleslaw) 👍 |
+| [Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) ♨︎ | [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) |
+| [Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) ♨︎ | [Grilled Romaine Salad](#545-grilled-romaine-salad) ♨︎ |
+| [Championship Pork Ribs](#7136-championship-pork-ribs) ♨︎ | [Vietnamese Cucumber Salad](#550-vietnamese-cucumber-salad) |
+| [60-Minute Ribs, Dreamland Style](#7145-60-minute-ribs-dreamland-style) ♨︎ | [Tomato, Basil, and Cucumber](#552-summer-tomato-basil-and-cucumber) |
+| [Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) ♨︎ | [Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) |
+| [Boudin Blanc](#751-boudin-blanc-boudin) | [Cole Slaw](#535-cole-slaw) |
+| **🐔 Chicken & Poultry** | [Bright Cabbage Slaw](#553-bright-cabbage-slaw) |
+| [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) — *§T28; it lives in [T. Cooking Techniques & Tips](#t-cooking-techniques--tips), not §7* | **🍞 Breads & Biscuits** |
+| [Sous Vide Chicken Thighs for the Family](#7151-sous-vide-chicken-thighs-for-the-family-seared) — *§7.151, the recipe version of the line above — 12 thighs, feeds six, **pan seared, not grilled*** | [Keto Skillet Cornbread](#113-keto-skillet-cornbread) 👍 🥑 |
+| [Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ❤️ ♨︎ | [Plain French Bread](#151-plain-french-bread-pain-français) |
+| [Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ ♨︎ — *borderline: oven or Egg, both 400°F; the hickory chunk is the Egg's* | [Butter Dips](#152-butter-dips) |
+| [Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) ❤️ ♨︎ | [Angel Biscuits](#154-angel-biscuits) |
+| [Poulet de France](#7124-poulet-de-france) ❤️ 🍽️ | [Fancy Biscuits](#155-fancy-biscuits) |
+| [Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) 👍 ♨︎ | [Pastry Biscuits](#156-pastry-biscuits) |
+| [Grilled Stuffed Chicken Breasts](#733-grilled-stuffed-chicken-breasts) 👍 ♨︎ | [Skillet Cornbread and Hush Puppies](#158-old-fashioned-skillet-cornbread-and-hush-puppies) |
+| [Poulet Sauté](#758-poulet-sauté-sautéed-chicken) | [Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) ♨︎ |
+| [Poulet au Porto](#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms) | [Simple Grilled Crostini](#540-simple-grilled-crostini) ♨︎ |
+| [Chicken with Vinegar (Poulet au Vinaigre)](#7126-chicken-with-vinegar) | [Irish Soda Bread](#106-irish-soda-bread) |
+| [Whey-Breaded Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) 🥑 | [Keto Zucchini Bread](#116-keto-zucchini-bread) 🥑 |
+| [The Fry Queen's Fried Chicken](#737-the-fry-queens-fried-chicken) | **🧊 No-Cook Sides** — *mostly pantry items with no recipe to write; the one with an entry is listed first* |
+| [Real Fried Chicken on a Gas Grill](#7138-real-fried-chicken-on-a-gas-grill-its-safe) ♨︎ | [Salted Cucumbers in White Vinegar](#562-salted-cucumbers-in-white-vinegar) — *written up 2026-09-09* |
+| [BBQ Fried Chicken](#780-bbq-fried-chicken) | Cottage cheese — *no entry* |
+| [Buttermilk-Marinated Roast Chicken](#7127-buttermilk-marinated-roast-chicken) | Sliced tomatoes, salted — *no entry* |
+| [Tandoori Chicken](#7140-tandoori-chicken) ♨︎ | Avocado, halved and salted — *no entry* |
+| [Glazed Five-Spice Chicken](#7128-glazed-five-spice-chicken) | Applesauce — *no entry* |
 | [Championship Chicken](#7141-championship-chicken) ♨︎ |  |
 | [Chicken Oscar](#714-chicken-oscar-court-of-2-sisters) |  |
 | [Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) ♨︎ |  |
@@ -19878,10 +19880,91 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 
 **❤️ Family favorite** — *Cody: "Vicky has some lemon zest green beans that are amazing."*
 
-### 5.2 Asparagus
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+---
+
+### 5.2 Sautéed Asparagus
 
 **❤️ Family favorite** — *Cody: "A go-to."*
+
+**Dictated by Cody, 2026-09-09 — this closes the oldest asparagus placeholder in the book.** In his words: ***"Whenever you do, like… yeah, grilled asparagus — do another one called sautéed asparagus. And you just put a little olive oil in there for sautéed asparagus, right? And — butter. Butter. Okay. So butter and… or beef tallow, and salt. And use your judgment with regards to the instructions for sautéed asparagus, but we like it just a little bit firm. So, not mushy asparagus, and a little crispy. I wouldn't say crispy, but I like a little carcinogen on there if I can say so."***
+
+> **📌 This filled §5.2 rather than becoming a new §5.63, and that is the cookbook's call — say the word and it moves.** §5.2 has been an empty placeholder titled simply **Asparagus** since this cookbook was started, carrying **❤️**, Cody's one-line note *"A go-to,"* and nothing else. He asked for *"another one called sautéed asparagus"* alongside [§5.41 Grilled Asparagus](#541-grilled-asparagus) — which is a request for another *preparation*, not necessarily for another *number* — and the plainest, fastest asparagus in the house is exactly the dish a bare "A go-to" describes. **So the reading here is that §5.2 always was this recipe and had simply never been written down.** The ❤️ and his quote are kept, the title gains one word, and nothing else in §5 moved. **If §5.2 was meant to be a different asparagus** — steamed, boiled, something with lemon — **this entry gets its own number and §5.2 goes back to being a stub.** Nothing in it depends on the number. See Open Questions.
+
+> **📌 Butter or beef tallow — and the olive oil was a false start, corrected in the same breath.** He said olive oil, then stopped himself: *"And — butter. Butter. Okay. So butter and… or beef tallow."* **The correction is what is recorded, not the first answer**, so olive oil is deliberately not listed below as an option. That is also the one thing that separates this dish from every other asparagus in the book: [§5.15](#515-roasted-asparagus), [§5.16](#516-asparagus-with-lemon-butter-sauce), [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter), [§5.41](#541-grilled-asparagus) and [§5.51](#551-spring-asparagus-and-feta-with-mint) are all built on olive oil. **This one is built on butter or beef fat, and salt is the entire seasoning list.**
+>
+> ⚠️ **One thing worth checking with him, flagged rather than reconciled.** On the same day he described his **grilled** asparagus as *salt, pepper, a drizzle of olive oil, and — optionally — a squeeze of lemon*; that is recorded on [§5.41](#541-grilled-asparagus). **Olive oil on the grill and butter in the skillet is an ordinary way to cook, and nothing here treats it as a contradiction** — the note exists only so nobody later "fixes" one entry to match the other. Neither entry was changed to agree with the other.
+
+**The asparagus family is six entries deep now, and this is what distinguishes this one.** §5.2 — this one, sautéed in butter or tallow · [§5.15 Roasted Asparagus](#515-roasted-asparagus) *(oven, parmigiano, aged balsamic)* · [§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce) *(steamed or boiled, under a light hollandaise)* · [§5.17 Asparagus on Pasta with a Poached Egg](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) *(a whole meal, not a side)* · [§5.41 Grilled Asparagus](#541-grilled-asparagus) *(fire, herb rub, balsamic)* · [§5.51 Spring: Asparagus and Feta with Mint](#551-spring-asparagus-and-feta-with-mint) *(a salad)*. **This is the fastest and the plainest of the six, and the only one built on butter or beef tallow instead of olive oil** — which is precisely what makes it the weeknight go-to rather than a company dish.
+
+**Serves 6 as a side**
+
+**🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** · **Start to finish ~15 min**
+
+**Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) · [T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd)
+
+> ⚙️ **Cookbook judgment, labelled — what is Cody's here and what is not.** **His:** the dish itself, the fat (butter, or beef tallow), salt as the whole seasoning, and the target — ***firm, not mushy, with a little char.*** **The cookbook's:** every quantity, the pan, the heat level, and all the minute counts. Those were filled per [CLAUDE.md §3d](CLAUDE.md) from sources already in this book rather than from anywhere outside it — **Samin Nosrat's *Salt, Fat, Acid, Heat*** ([§5.54](#554-sauté-snap-peas-with-chilies-and-mint) for the hot-pan, high-heat, don't-walk-away sauté; [§5.55](#555-steamy-sauté-garlicky-green-beans) for what to do with spears too thick to go straight into a dry pan), **Meathead Goldwyn** ([§5.41](#541-grilled-asparagus)) for the woody-end trim and the bite-near-the-base doneness check, and this book's own [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) and [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd). **His own figures supersede these the day he gives them.**
+
+#### A. Ingredients
+
+- **2 lb fresh asparagus** (about 2 large bunches), woody ends trimmed
+- **2 tablespoons butter** — **or 2 tablespoons beef tallow**
+- **Kosher salt** — about ½ teaspoon, plus more to taste
+
+#### B. Cooking Instructions
+
+**1. Trim the woody ends. 1 to 3 inches off the bottom.**
+Line the spears up on a board with their tips together and cut straight across the bunch — that is [§5.41](#541-grilled-asparagus)'s figure and it is the fast way to do two pounds. Snapping each spear one at a time finds the break on its own, but it costs you more of the good part of the stalk and leaves a ragged end that sits unevenly in a pan. **If the butt ends are thick and pale, peel the bottom two inches** rather than cutting further up.
+
+**2. Sort the spears by thickness before anything gets hot — this is what picks your method.**
+**Pencil-thin spears go straight into a hot dry pan.** **Thumb-thick spears do not** — the outside chars long before the middle is cooked, which is the same failure [§5.38 Roasted Veggies](#538-roasted-veggies) diagnoses on a sheet pan: *the variable is the distance from the surface to the center, not the number on the dial.* Thick spears get Step 3 first. If the bunch is mixed, either cook it in two batches or split the thick ones lengthwise so everything in the pan is about the same size.
+
+**3. Thick spears only — steam them first. 3 to 4 minutes. Skip this entirely for thin spears.**
+This is Nosrat's **steamy sauté**, already written up at [§5.55](#555-steamy-sauté-garlicky-green-beans) for green beans and it works the same way here. Bring **½ cup of water** to a simmer in the pan, add the asparagus, salt it, cover, and cook 3 to 4 minutes — lifting the lid to stir every minute or so — until a spear is nearly tender. **Then tip the water out**, holding the spears back with the lid. The pan has to be dry before any browning can happen; wet asparagus steams no matter how hot the burner is.
+
+**4. Get the pan hot, then add the fat. Your largest skillet.**
+Empty pan first, per [§T2](#t2-hot-pan-first-then-oil). **How hot depends on which fat you're using, and this is the one place the two are not interchangeable.** **Beef tallow takes high heat and doesn't mind it** — get the pan good and hot and let the tallow shimmer. **Butter cannot** — at high heat its milk solids are black before the asparagus has browned. For butter, keep the burner at **medium-high** and use the butter itself as the thermometer the way [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts) does: **when the foaming dies down and it smells nutty, it's ready — that's the moment, and it does not wait for you.**
+
+**5. Lay the spears in a single layer and leave them room. This is the step that decides whether you get char or steam.**
+One layer, spears not piled on each other, and **do not crowd the pan** — asparagus is mostly water, and a crowded pan traps what comes out of it. [§T39](#t39-maillard-vs-caramelization--gbd) is the reason: **browning needs a dry surface and somewhere for the moisture to go**, and a heaped pan denies it both, which is how you end up with olive-drab, floppy asparagus that never browned. **Two pounds is more than one skillet holds properly. Cook it in two batches** — it costs four extra minutes and it is the difference between the dish he described and the one he didn't.
+
+**6. Sauté 5 to 8 minutes for thin spears, 3 to 4 for thick ones already steamed. Toss about every 2 minutes, not constantly.**
+Salt as they go in. **Leave them alone long enough to take color** — a spear that gets nudged every ten seconds never sits still against the metal long enough to brown. You're after **browned, blistered patches along the sides**, not an even coat: that is the *"little carcinogen"* he asked for, which is his joke word for char. **A few dark spots are the point; solid black is not** — [§5.41](#541-grilled-asparagus) puts the same line on the grill, *a few char marks are OK, but don't blacken them.*
+
+**7. Check one, salt to taste, and get them out of the pan.**
+**Bite one near the base, not at the tip** — the base is the last part to cook, and it is the honest test. **Firm with a little snap left in it is the target; bendy and dull-colored has gone too far.** Asparagus keeps cooking in a hot pan, so pull it a touch before it looks done and serve it right away. **A limp spear cannot be walked back.**
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Asparagus — 2 lbs, about 2 large bunches *(look for tight, closed tips — [§5.41](#541-grilled-asparagus)'s buying note)*
+- 🛒 Butter — 2 Tbsp *(or beef tallow, below)*
+- 🛒 Kosher salt
+
+*Beef tallow may not be a shopping item at all. **[§7.149 The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) renders about a cup of it out of the roast's own trimmed fat** — 8 hours in a 200°F oven — and sends the leftover half-cup to a jar in the fridge. If there is tallow in this house, that is where it came from. Otherwise it is sold in jars alongside the shortening and lard.*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~330 | 22 g | 16 g | 28 g | 15 g |
+| **Per serving** *(serves 6)* | ~55 | 3.5 g | 2.5 g | 5 g | 2.5 g |
+
+**What a serving is:** five or six spears — a normal vegetable side portion next to a piece of meat.
+
+*Estimated from the ingredient list, not from a printed source — **the quantities these are built on are the cookbook's, not Cody's** (see the judgment note above), so treat them as planning figures. The trimmed woody ends are subtracted rather than counted, and a little of the butter is figured as staying in the pan. **Beef tallow instead of butter is a wash** — same fat, within a few calories.*
+
+#### Open Questions
+
+- **Is §5.2 the right home for this?** It was filled on the cookbook's reading that his bare "A go-to" asparagus placeholder *is* the sautéed one. **If §5.2 meant a different preparation, say so and this gets its own number.**
+- **Butter or tallow — is one of them the default?** He offered both without ranking them. Butter is written first here only because he said it first.
+- **Olive oil on the grill, butter in the pan** — flagged above, not reconciled. Confirm that's deliberate.
+- **Quantities, pan, heat and timing are all the cookbook's**, per [CLAUDE.md §3d](CLAUDE.md). One night's cooking replaces every one of them.
+- **Does anything else ever go in?** Garlic, lemon, pepper, a shower of parmigiano — none were mentioned, and none were added. Salt is what he said.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
 
 ### 5.3 Squash
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
@@ -20247,7 +20330,7 @@ When ready to cook, lightly brush each ear of corn with a little of the garlic-p
 
 ### 5.15 Roasted Asparagus
 
-Transcribed from **Canal House Cooks Every Day**, the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce) and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio). **Distinct from [§5.2 Asparagus](#52-asparagus)** — that entry is Cody's own go-to method, still undocumented; this and the two asparagus recipes that follow ([§5.16](#516-asparagus-with-lemon-butter-sauce), [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)) are new from this source, untried so far but highly rated. *"A good, aged balsamic vinegar — one that is composed of wine vinegar and reduced must and contains no artificial colorings or additives — makes these asparagus sing."*
+Transcribed from **Canal House Cooks Every Day**, the same book as [§4.52](#452-balsamella)–[§4.59](#459-tonnato-sauce) and [§7.34](#734-rolled-flank-steak-with-pesto)–[§7.38](#738-roast-pork-with-salmoriglio). **Distinct from [§5.2 Sautéed Asparagus](#52-sautéed-asparagus)** — that entry is Cody's own go-to method, written up 2026-09-09 (butter or beef tallow and salt, in a skillet); this and the two asparagus recipes that follow ([§5.16](#516-asparagus-with-lemon-butter-sauce), [§5.17](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter)) are new from this source, untried so far but highly rated. *"A good, aged balsamic vinegar — one that is composed of wine vinegar and reduced must and contains no artificial colorings or additives — makes these asparagus sing."*
 
 > The source's margin note: *"April 15th, 34°, clear & blustery."*
 
@@ -21963,7 +22046,7 @@ Transfer to a platter. Crostini are best warm, but still mighty good at room tem
 
 ### 5.41 Grilled Asparagus
 
-Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 350–351). Per the book, "Asparagus is fresh, crunchy, and unique in spring. Look for spears with tight, closed tips" — grilled here with a rub, shaved Parmigiano-Reggiano, and a finish of real balsamic (see [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying)). **Kept distinct from this cookbook's existing asparagus entries** — the still-undocumented [§5.2 Asparagus](#52-asparagus), and the fully written [§5.15 Roasted Asparagus](#515-roasted-asparagus)/[§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce)/[§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) (all from *Canal House Cooks Every Day*) — this is a grilled, rub-and-balsamic treatment from a different source, not a duplicate.
+Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Sides" chapter (book p. 350–351). Per the book, "Asparagus is fresh, crunchy, and unique in spring. Look for spears with tight, closed tips" — grilled here with a rub, shaved Parmigiano-Reggiano, and a finish of real balsamic (see [§T83 About Balsamic](#t83-about-balsamic--grades-and-buying)). **Kept distinct from this cookbook's existing asparagus entries** — [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) — Cody's own skillet method, written up 2026-09-09 on butter or beef tallow — and the fully written [§5.15 Roasted Asparagus](#515-roasted-asparagus)/[§5.16 Asparagus with Lemon-Butter Sauce](#516-asparagus-with-lemon-butter-sauce)/[§5.17 Asparagus on Pasta with a Poached Egg & Lemon Butter](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) (all from *Canal House Cooks Every Day*) — this is a grilled, rub-and-balsamic treatment from a different source, not a duplicate.
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) *(a grill topper or perpendicular grates so thin spears don't fall through)*
 
@@ -21972,6 +22055,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 > **Almost all of that was already here, and it's worth being precise about which part is new.** The **olive oil** is printed (1 Tbsp), the **kosher salt** is printed (¼ tsp), and the **pepper** is in the recipe too — it arrives inside [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub), which is a tablespoon of freshly ground black pepper among its herbs, not as a separate shake. **The lemon is the one genuinely new thing**, and it's added below as an optional finish, at his own weighting: optional, and not necessary.
 >
 > **The other half of his description is a simpler dish than the one on this page, and that's fine.** Meathead's version adds the herb rub, 4 oz of shaved Parmigiano-Reggiano, and a balsamic drizzle on top of the oil and salt. **Cody's everyday asparagus is the bare version — oil, salt, pepper, maybe lemon — and it stands on its own without any of those three.** Treat the rub, cheese, and balsamic as the source's dress-up, not as requirements. **He gave this entry no family rating**, so it stays unrated.
+>
+> 🍳 **Later the same day he described the stovetop version of the same habit, and it is its own entry now: [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) ❤️.** Same plainness, different pan and a different fat — **butter, or beef tallow, and salt**, with olive oil explicitly corrected away. **Neither entry was edited to agree with the other**; olive oil over fire and butter in a skillet are simply two things he does.
 
 **Makes 2 servings · Takes 10 minutes to prepare, 10 minutes to cook** *(as printed)*
 

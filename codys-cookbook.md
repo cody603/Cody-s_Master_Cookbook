@@ -566,6 +566,7 @@ Click any recipe to jump straight to it.
 - [9.30 Muffelatta Poboy](#930-muffelatta-poboy) ✅ *(Cody's own spin, distinct from [§9.22](#922-tailgate-muffuletta-sandwich))*
 - [9.31 Quesadillas](#931-quesadillas) ✅ *(no directions on the source card — stovetop method and amounts are cookbook judgment, per Cody; kid-friendly)*
 - [9.32 Coconut Beer Shrimp with Sweet and Tangy Dipping Sauce](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen pp. 283–284 — beer-battered, coconut-crusted, deep fried; its sauce is [§4.189](#4189-sweet-and-tangy-dipping-sauce); added 2026-09-08)*
+- [9.33 Easy Deviled Eggs](#933-easy-deviled-eggs) ✅ *(Canal House p. 71 — the authors' "Buttered" Eggs; boiled eggs spread with mayonnaise, no filling, no piping; promoted out of §9.16 on 2026-09-09 and renamed at Cody's request)*
 
 **[10. Breakfast](#10-breakfast)**
 
@@ -690,6 +691,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.105 Dalmatian Rub](#4105-dalmatian-rub) | 🟢 | 2 min | — | — | 2 min |
 | [§4.114 Cowboy Java Rub](#4114-cowboy-java-rub) | 🟢 | 2 min | — | — | 2 min |
 | [§4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) | 🟢 | 5 min | — | — | 5 min |
+| [§9.33 Easy Deviled Eggs](#933-easy-deviled-eggs) | 🟢 | 5 min | — | — | 5 min *(+ ~20 min if boiling the eggs)* |
 | [§4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) | 🟢 | 5 min | — | — | 5 min |
 | [§4.89 Cody's Greek Vinaigrette](#489-codys-greek-vinaigrette-lime--olive-oil) | 🟢 | 5 min | — | — | 5 min |
 | [§4.91 Vinegar Sauce (Eastern NC, Diluted Style)](#491-vinegar-sauce-eastern-north-carolina-diluted-style) | 🟢 | 5 min | — | — | 5 min |
@@ -1456,7 +1458,7 @@ Their own block, because they aren't a main and they aren't a side — they're w
 | [Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) | [Shrimp Remoulade](#99-shrimp-remoulade) ❤️ |
 | [Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | [Beef Jerky](#96-beef-jerky) ❤️ |
 | [Blue Cheese with Black Pepper](#913-blue-cheese-with-black-pepper) | [Deer Jerky](#929-deer-jerky) |
-| [Smoked Salmon Butter](#914-smoked-salmon-butter) | [Deviled Eggs](#916-deviled-eggs) |
+| [Smoked Salmon Butter](#914-smoked-salmon-butter) | [Deviled Eggs](#916-deviled-eggs) · [Easy Deviled Eggs](#933-easy-deviled-eggs) |
 | [Anchovy & Lemon Butter](#915-anchovy--lemon-butter) | [Pickled Shrimp & Celery](#920-pickled-shrimp--celery) |
 | [Potted Crab](#912-potted-crab) | [Char-Grilled Oysters](#928-char-grilled-oysters) |
 | [Crab Marie](#924-crab-marie) | [Crabmeat Imperial](#925-crabmeat-imperial) |
@@ -40775,7 +40777,9 @@ Season with salt and pepper, and pulse everything together (in a food processor,
 **4. Fill and garnish.**
 Use 2 tsp of filling to fill each egg white. Garnish as you like — even something as simple as a dash of pimentón, a parsley leaf, or a scattering of finely chopped fresh chives is enough.
 
-> **"Buttered" Eggs — the source's own quick alternative, folded in here rather than given its own entry, since it has no separate ingredient list.** *"Sometimes when we are too busy to make deviled eggs, we do something just as good. We simply 'butter' the cut sides of hard-boiled eggs with mayonnaise, arrange the eggs on a plate, and drizzle them with some good olive oil and a generous sprinkle of salt and pepper. We often garnish them with something: parsley, tarragon, or dill; or minced chives. Sometimes it's chopped Preserved Lemon rind (page 294), or bacon, thinly sliced ham, or chutney. These eggs are delicious and one of our favorite things to eat."* In short: skip the sieving and piping — just spread mayonnaise straight onto the cut sides of halved hard-boiled eggs, then oil, salt, pepper, and a garnish.
+> ➡️ **"Buttered" Eggs now has its own entry: [§9.33 Easy Deviled Eggs](#933-easy-deviled-eggs).** *(Promoted 2026-09-09 at Cody's request — it was invisible filed as a note here.)* The source's own words are kept below for context, but the full method, ingredient list, grocery line and nutrition live there.
+>
+> **The source's quick alternative, as printed:** *"Sometimes when we are too busy to make deviled eggs, we do something just as good. We simply 'butter' the cut sides of hard-boiled eggs with mayonnaise, arrange the eggs on a plate, and drizzle them with some good olive oil and a generous sprinkle of salt and pepper. We often garnish them with something: parsley, tarragon, or dill; or minced chives. Sometimes it's chopped Preserved Lemon rind (page 294), or bacon, thinly sliced ham, or chutney. These eggs are delicious and one of our favorite things to eat."* In short: skip the sieving and piping — just spread mayonnaise straight onto the cut sides of halved hard-boiled eggs, then oil, salt, pepper, and a garnish.
 
 #### C. Grocery Shopping List
 
@@ -42011,6 +42015,83 @@ The source's own two platings. Six plates of eight, or twelve plates of four —
 **What a serving is:** the source states both. A **main-dish serving is 8 shrimp** around a small bowl of sauce on a dinner plate — a real plate of food, though most people would want rice or a salad beside it. An **appetizer serving is 4 shrimp** with about 3 tablespoons of sauce, a few bites standing up. **Add the sauce on top of these numbers:** a ⅓ cup main-dish pour is roughly **175 more calories and 46 g more carbs**, nearly all of it marmalade; the 3 Tbsp appetizer portion is about **100 calories and 26 g carbs**.
 
 ✅ 2026-09-08 transcribed and verified against Cody's photographs of pp. 283 and 284 — the p. 283 running head *Appetizers*, its title block, the *Makes 6 main-dish or 12 appetizer servings* yield, all eight seasoning-mix lines and the five ingredient lines below them, then the p. 284 running head *Chef Paul Prudhomme's Louisiana Kitchen*, footer **284**, its three remaining ingredient lines and the complete method, all read at native resolution and cropped for confirmation. **The three-way split of the seasoning mix and the "in all" split of the flour were checked line by line against the printed method**, and the four-line block at the top of p. 283 was confirmed to belong to [§4.188 Sherry Wine Sauce](#4188-sherry-wine-sauce) above it, not to this recipe.
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 9.33 Easy Deviled Eggs
+
+**Cody's name for them, 2026-09-09.** The source calls them ***"Buttered" Eggs*** — transcribed from **Canal House Cooks Every Day**, p. 71, where they sit as the authors' own shortcut alongside [§9.16 Deviled Eggs](#916-deviled-eggs). **They are not deviled eggs at all:** nothing is scooped out, sieved, mixed, or piped back in. You halve boiled eggs and spread mayonnaise on the cut sides. *Cody remembered this one from the book by its method rather than its name, which is why it now has a name he'll actually look for.*
+
+> **The source's own words:** *"Sometimes when we are too busy to make deviled eggs, we do something just as good. We simply 'butter' the cut sides of hard-boiled eggs with mayonnaise, arrange the eggs on a plate, and drizzle them with some good olive oil and a generous sprinkle of salt and pepper. We often garnish them with something: parsley, tarragon, or dill; or minced chives. Sometimes it's chopped Preserved Lemon rind (page 294), or bacon, thinly sliced ham, or chutney. These eggs are delicious and one of our favorite things to eat."*
+
+> 📌 **Promoted to its own entry 2026-09-09, at Cody's request.** This used to live only as a callout inside [§9.16 Deviled Eggs](#916-deviled-eggs), on the grounds that the source gives it no separate ingredient list. **That filing made it invisible** — it wasn't in the Table of Contents, wasn't on the [Meal Planning Sheet](#meal-planning-sheet), and couldn't be found by anyone who didn't already know it was there. It now stands on its own with a proper ingredient list, and §9.16 keeps a pointer to it. **The ingredient amounts below are the only cookbook judgment here** — the source names every component but quantifies none of them; the method, the garnish list, and the wording are all Canal House's.
+
+**Yield:** 12 halves, from 6 eggs
+
+**🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(assumes the eggs are already boiled — see [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and add ~20 min if starting from raw)*
+
+> **Why 🟢 Easy — and why this is the easiest thing in §9.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test there is nothing here that can fail. Boiling the eggs is the only cooking, and that's [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide)'s job. **Set against [§9.16 Deviled Eggs](#916-deviled-eggs), this skips the entire fussy half** — no scooping yolks, no sieving, no mixing a filling, no piping it back in, and nothing to go wrong or look untidy.
+
+#### A. Ingredients
+
+*The source names all of these and quantifies none — the amounts are cookbook judgment, scaled to 6 eggs.*
+
+- **6 hard-boiled eggs**, peeled and halved lengthwise — [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) puts the sweet spot at **10 minutes**
+- **About ¼ cup mayonnaise** — roughly 1 tsp per half
+- **Good olive oil**, for drizzling — this is the ingredient to spend money on; it's tasted directly
+- **Salt and pepper** — *a generous sprinkle*, per the source
+
+**Garnish — the source's own list, pick one or mix:**
+
+- Parsley, tarragon, or dill
+- Minced chives
+- Chopped [Preserved Lemon](#t21-preserved-lemons-meyer-or-regular) rind *(source p. 294; documented here at §T21)*
+- Bacon
+- Thinly sliced ham
+- Chutney
+
+#### B. Cooking Instructions
+
+**1. Boil and peel the eggs, then halve them lengthwise.**
+Ten minutes gives Canal House's own "hard-boiled, perfect" — see [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) for the full timing table, the cold-water shock, and why very fresh eggs refuse to peel cleanly. **Leave the yolks in.** That's the whole difference between this and a deviled egg.
+
+**2. "Butter" the cut sides with mayonnaise.**
+Spread mayonnaise straight over the cut face of each half — yolk and white together — the way you'd butter bread. That's the source's own metaphor and it's the right one: **a spread, not a dollop.** About a teaspoon per half covers it.
+
+**3. Arrange on a plate, then drizzle with good olive oil and season generously.**
+Lay them out cut side up and **drizzle olive oil over the whole plate.** *This is the step people skip, and it's the one that makes the dish* — it turns mayonnaise-on-an-egg into something that reads as deliberate. Then **salt and pepper generously**, per the source's own wording.
+
+**4. Garnish with whatever's around.**
+Herbs, preserved lemon, bacon, ham, or chutney — the source's list is above and it's deliberately open-ended. One garnish across the plate is plenty; this is a five-minute dish and it shouldn't turn into a project.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Eggs — 6, for hard-boiling
+- 🛒 Mayonnaise — ¼ cup
+- 🛒 Olive oil — a good one, for drizzling
+- 🛒 Salt and pepper
+- 🛒 Garnish of choice — parsley, tarragon, dill, chives, bacon, ham, or chutney
+
+#### Nutrition *(estimated)*
+
+*Built from the ingredient list; the source prints none. Assumes 1 tsp of mayonnaise per half and about 1 Tbsp of olive oil across the plate. Garnish is not counted — it varies by what's on hand.*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole batch** *(12 halves)* | ~830 | 74 g | 38 g | 3 g | 0 g |
+| **Per serving** *(2 halves, of 6)* | ~140 | 12 g | 6 g | 0.5 g | 0 g |
+
+**What a serving is:** **2 halves — one whole egg's worth**, the same portion as [§9.16](#916-deviled-eggs), which is what you'd take off a plate at a cocktail hour.
+
+*Lighter than [§9.16 Deviled Eggs](#916-deviled-eggs) at ~205 calories for the same portion, because that one's filling carries ½ cup of mayonnaise plus sour cream against this one's ¼ cup.*
+
+#### D. Open Questions
+
+- **The source gives no quantities at all** — not for the mayonnaise, the olive oil, or the seasoning. It's written as a description of what the authors do rather than as a recipe, which is why it had no ingredient list to begin with. Everything above is scaled to 6 eggs as cookbook judgment; **the method and the garnish list are the source's exactly.**
 
 [↑ Table of Contents](#table-of-contents)
 

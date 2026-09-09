@@ -21835,6 +21835,12 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **Techniques used:** [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup) *(a grill topper or perpendicular grates so thin spears don't fall through)*
 
+> ✅ **2026-09-09 — Cody's own seasoning, recorded alongside Meathead's.** Asked how he does asparagus, he described it before he realized the recipe was already in the book: **salt and pepper, a drizzle of olive oil, and — optionally — a squeeze of lemon.** In his words on the lemon: ***"if you're feeling crazy. Not necessary."***
+>
+> **Almost all of that was already here, and it's worth being precise about which part is new.** The **olive oil** is printed (1 Tbsp), the **kosher salt** is printed (¼ tsp), and the **pepper** is in the recipe too — it arrives inside [§4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub), which is a tablespoon of freshly ground black pepper among its herbs, not as a separate shake. **The lemon is the one genuinely new thing**, and it's added below as an optional finish, at his own weighting: optional, and not necessary.
+>
+> **The other half of his description is a simpler dish than the one on this page, and that's fine.** Meathead's version adds the herb rub, 4 oz of shaved Parmigiano-Reggiano, and a balsamic drizzle on top of the oil and salt. **Cody's everyday asparagus is the bare version — oil, salt, pepper, maybe lemon — and it stands on its own without any of those three.** Treat the rub, cheese, and balsamic as the source's dress-up, not as requirements. **He gave this entry no family rating**, so it stays unrated.
+
 **Makes 2 servings · Takes 10 minutes to prepare, 10 minutes to cook** *(as printed)*
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
@@ -21850,6 +21856,7 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 - ¼ teaspoon kosher salt
 - 4 ounces Parmigiano-Reggiano cheese
 - 1 tablespoon balsamico condimento or balsamic reduction *(see [§T83](#t83-about-balsamic--grades-and-buying))*
+- **½ lemon, for squeezing over at the end** — *optional; Cody's addition, 2026-09-09: "if you're feeling crazy. Not necessary."*
 
 #### B. Cooking Instructions
 
@@ -21866,7 +21873,7 @@ Set up your grill for two-zone cooking ([§T34](#t34-two-zone-fire-setup)) and g
 Place the asparagus spears over **direct** heat. If you have a grill topper, this is a good time to use it; otherwise arrange the spears at a right angle to the grill grates so they don't fall through. Cook the asparagus, lid on, until they get some brown spots on one side, about 5 minutes; roll them and cook for only 2 to 3 minutes on the second side. **A few char marks are OK, but don't blacken them.** Stand by your grill: bite into one near the base to make sure the doneness is the way you like it (the source likes it with a bit of crunch). **Skinnier spears will finish first — yank them off as soon as they bend when lifted by tongs.**
 
 **5. Serve.**
-Arrange the spears on a platter so they are all pointing in the same direction. Let them cool for about 5 minutes. Drizzle with the balsamic and top with the shaved cheese.
+Arrange the spears on a platter so they are all pointing in the same direction. Let them cool for about 5 minutes. Drizzle with the balsamic and top with the shaved cheese. **A squeeze of lemon over the top is optional** — Cody's, not the book's, and he's clear it isn't needed. Squeeze it after the cheese goes on, not before: acid on hot spears right off the grill flashes off, and the point of it is the fresh smell at the table.
 
 #### C. Grocery Shopping List
 
@@ -21877,6 +21884,8 @@ Arrange the spears on a platter so they are all pointing in the same direction. 
 - 🛒 Kosher salt
 - 🛒 Parmigiano-Reggiano cheese — 4 oz
 - 🛒 Balsamico condimento, or a salad-grade balsamic to reduce yourself — 1 Tbsp *(see [§T83](#t83-about-balsamic--grades-and-buying) on what to buy and how to reduce it)*
+- 🛒 Lemon — ½, optional *(Cody's optional finish)*
+- 🛒 Black pepper — *only if you're doing Cody's plain version without the rub; the printed recipe gets its pepper from [§4.109](#4109-simon--garfunkel-rub)*
 
 *Simon & Garfunkel Rub ingredients already documented at [§4.109](#4109-simon--garfunkel-rub).*
 

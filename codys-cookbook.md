@@ -249,7 +249,7 @@ Click any recipe to jump straight to it.
 
 - [1. Cody's Pho](#1-codys-pho) ✅ ❤️
 - [2. Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) ✅ ❤️
-- [3. Darcy's Steak](#3-darcys-steak) ✅ ❤️
+- [3. Darcy's Steak](#3-darcys-steak) ✅ ❤️ — *two methods: the sous vide one, and [the stovetop reverse sear](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) added 2026-09-09*
 
 **[5. Vegetables & Sides](#5-vegetables--sides)**
 
@@ -998,7 +998,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.186 Thai Sweet Chile Sauce (Nam Jim Kai)](#4186-thai-sweet-chile-sauce-nam-jim-kai) *(The Meathead Method)* | 🟢 | 20 min | 10 min *(bring to a simmer, then 5 min)* | — | 30 min *(as printed; best after a day in the fridge)* |
 | [§7.123 Kufte Kebabs](#7123-kufte-kebabs) | 🟢 | 25 min | 8 min | — | 35 min |
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
-| [§3 Darcy's Steak](#3-darcys-steak) | 🟡 | 15 min | 20 min | **4–6 hr** *(sous vide, unattended)* | 5–6½ hr *(+ an optional overnight ice-cooler chill — Step 4)* |
+| [§3 Darcy's Steak — sous vide method](#3-darcys-steak) | 🟡 | 15 min | 20 min | **4–6 hr** *(sous vide, unattended)* | 5–6½ hr *(+ an optional overnight ice-cooler chill — Step 4)* |
 | [§7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) *(Meathead)* | 🟡 | 20 min | 15 min *(gravy)* | **2–5 hr** *(smoker at 325°F, by weight, to 160°F breast)* | ~1 day *(includes the 12–24 hr dry brine; add 1 week to thaw a frozen bird)* |
 | [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) | 🟡 | 20 min | 15 min | — | 35 min *(+ 1–2 hr dough chill)* |
 | [§4.9 Hollandaise Sauce](#49-hollandaise-sauce) | 🔴 | 10 min | 25 min | — | 35 min |
@@ -1127,6 +1127,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
 | [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) *(Meathead)* | 🟡 | 10 min | 45 min | — | 1 hr 45 min – 2 hr 45 min *(includes a 1–2 hr dry brine)* |
 | [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(Meathead)* | 🟢 | 10 min | 45 min | — | ~3 hr *(includes a ~2 hr salt soak)* |
+| [§3.D Darcy's Steak — stovetop reverse sear](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) | 🟡 | 10 min | 45 min | — | ~55 min |
 | [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | 🟡 | 45 min | 15 min | **2¾ hr** *(braise, mostly unattended)* | 3 hr 45 min |
 | [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 40 min | — | ~2 hr *(includes about a 1 hr pickle in the fridge)* |
 | [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 25 min | 40 min | — | 1 hr 10 min |
@@ -2039,7 +2040,12 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 
 ## 3. Darcy's Steak
 
-Cody's own steak, dictated 2026-09-08 — and the first thing to know is **what the sous vide is actually for here.** This is not a prime-ribeye technique. **He uses sous vide to make a cheap, lower-quality cut tender**, and that is the entire reason the method exists in his kitchen: the long, low bath does the work that a better cut wouldn't need doing. Then it comes out of the bag, gets patted bone dry, gets a shot of avocado oil, and gets seared over the top of a **roaring charcoal chimney**. Seasoning is already documented at [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub). The one piece of the method most people have never seen is **the ice cooler** — Step 4 — which is what lets him sear it *longer* and still land medium rare.
+**There are two Darcy methods in this entry, and they make the same steak two different ways.** Both use the same [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub), both are built on the same obsessive **pat dry**, both bring the meat to **129°F** and then sear it hard at the end. **The only thing that really differs is how it gets to 129°F.**
+
+- **The sous vide method** *(dictated 2026-09-08 — Steps 1–9 below).* **The first thing to know is what the sous vide is actually for here.** This is not a prime-ribeye technique. **Cody uses sous vide to make a cheap, lower-quality cut tender**, and that is the entire reason the method exists in his kitchen: the long, low bath does the work that a better cut wouldn't need doing. Then it comes out of the bag, gets patted bone dry, gets a shot of avocado oil, and gets seared over the top of a **roaring charcoal chimney**. The one piece of the method most people have never seen is **the ice cooler** — Step 4 — which is what lets him sear it *longer* and still land medium rare.
+- **The stovetop reverse sear** *(dictated 2026-09-09 — written up in full at [§3.D, the variation at the end of this entry](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method)).* Same rub, same pat dry, same 129°F, but the heat is a pan on the stove instead of a water bath and the sear happens in that same pan. **Cody's own summary of it: *"It's pretty much reverse seared — reverse pan seared steak. That's what it is. She does a good job. I'd like to add that. That's a simple thing, and it's good."*** What makes it a *method* rather than just cooking a steak is the **batching** — ***"she cooks all the steaks to 129,"*** every one of them, set aside, and only then does anything get seared, so a table full of steaks lands together.
+
+**Which one to cook.** **The reverse sear is the weeknight version of this steak** — no circulator, no bath, no bags, no cooler packed with ice, and no cooking it one day to eat it the next. Decide at six and eat at seven. **The sous vide version buys you two things the pan cannot**: hours at 128°F are what turn a cheap, tough cut tender, and the ice-cooler chill is what buys the longer, darker crust. *(⚙️ **Cookbook's note, not Cody's:** it follows from that difference that the two aren't interchangeable on every cut — the pan method has no tenderizing stage in it at all, so it wants a cut that already eats tender, where the bath was built for one that doesn't. **Which cut Darcy uses for the pan version is an Open Question**, and his answer supersedes this reasoning the day he gives it.)*
 
 **❤️ Family favorite** — *Cody: "Love it."*
 
@@ -2057,9 +2063,11 @@ Cody's own steak, dictated 2026-09-08 — and the first thing to know is **what 
 
 > ⚠️ **Dry rub only in the bag — no fresh garlic, no liquid.** This is [§1 Cody's Pho](#1-codys-pho)'s established anaerobic-bag rule and it applies here exactly as written; raw garlic sealed in a bag at sub-boiling temperature is a botulism setup, and **garlic powder is the safe substitute.** [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28](#t28-sous-vide-chicken-codys-method) both carry it forward. Not restated at length here — go read it there.
 
-**🟡 Medium** · **Prep ~15 min** *(seasoning and bagging, plus next day's drying and oiling)* · **Cook ~20 min** *(the chimney coming to full roar, then the sear itself)* · **Slow cook 4–6 hr** *(sous vide, unattended)* · **Start to finish ~5–6½ hr, or spread over two days if you use the ice cooler**
+**Sous vide method — Steps 1–9:** **🟡 Medium** · **Prep ~15 min** *(seasoning and bagging, plus next day's drying and oiling)* · **Cook ~20 min** *(the chimney coming to full roar, then the sear itself)* · **Slow cook 4–6 hr** *(sous vide, unattended)* · **Start to finish ~5–6½ hr, or spread over two days if you use the ice cooler**
 
-> **Why 🟡 Medium and not 🟢 — it comes down to one step.** [CLAUDE.md §3a](CLAUDE.md)'s test is *can a step go from perfect to ruined?* **The bath can't.** Six hours at 128°F is about the most forgiving thing you can do to a piece of beef — it's a long distance run, same as [§1 Cody's Pho](#1-codys-pho), and the hours are Slow cook precisely because none of them can go wrong. **The sear can.** A grate sitting on top of a fully lit chimney is well over 1,000°F ([§7.107 Skinny Steaks](#7107-skinny-steaks)), the steak is already sitting at its finished internal temperature, and **there is no doneness cushion left to spend** — a few seconds too long and you've pushed a medium rare steak past it with no way back. That's the same call [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) makes for the cast-iron version of the same sear. Length and the overnight chill are in the time fields, where they belong, and they do not touch the rating.
+**Stovetop reverse sear — [§3.D](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method):** **🟡 Medium** · **Prep ~10 min** *(patting dry and seasoning)* · **Cook ~45 min** *(the slow pan bring-up to 129°F, whole batch, then the sear)* · **Start to finish ~55 min** — *no slow cook, no lead time, nothing to start a day ahead*
+
+> **Why 🟡 Medium and not 🟢 — it comes down to one step.** [CLAUDE.md §3a](CLAUDE.md)'s test is *can a step go from perfect to ruined?* **The bath can't.** Six hours at 128°F is about the most forgiving thing you can do to a piece of beef — it's a long distance run, same as [§1 Cody's Pho](#1-codys-pho), and the hours are Slow cook precisely because none of them can go wrong. **The sear can.** A grate sitting on top of a fully lit chimney is well over 1,000°F ([§7.107 Skinny Steaks](#7107-skinny-steaks)), the steak is already sitting at its finished internal temperature, and **there is no doneness cushion left to spend** — a few seconds too long and you've pushed a medium rare steak past it with no way back. That's the same call [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) makes for the cast-iron version of the same sear. Length and the overnight chill are in the time fields, where they belong, and they do not touch the rating. **[§3.D, the stovetop reverse sear](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method), lands on 🟡 too — but only partly for the same reason.** Its sear is far gentler than a chimney's, and it gives back the risk it saves at the other end: a pan can overshoot 129°F where a 129°F water bath physically cannot. Its own note works that through.
 
 ### A. Ingredients
 
@@ -2135,7 +2143,77 @@ There is nothing to rest — it came out of a water bath at its serving temperat
 
 **How these were figured.** From the ingredient list, not lab figures. **Only what's eaten is counted:** a 12 oz raw steak loses roughly a fifth of its weight to juices left behind in the bag, so about 10 oz reaches the plate. **The rub and the salt and pepper are counted** — they stay on the crust, and they're where essentially all of that small carb number comes from. **The avocado oil is counted at about a teaspoon per steak**, which is what a mister actually lays down; a poured coating would be several times that. Nothing else in the method is edible — the ice, the charcoal, and the bag contribute nothing.
 
-### D. Open Questions
+### D. Variation — Darcy's Stovetop Reverse Sear (the Weeknight Method)
+
+**Darcy's other steak, dictated by Cody 2026-09-09 — the same steak with none of the equipment.** No circulator, no bags, no cooler of ice, no charcoal. A pan brings it slowly to **129°F**, it comes off and waits, and then it gets seared in that same pan. **Cody's own words: *"It's pretty much reverse seared — reverse pan seared steak. That's what it is. She does a good job. I'd like to add that. That's a simple thing, and it's good."***
+
+**It is filed here rather than as its own numbered recipe on purpose** — it is the same cook's steak, the same [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub), the same pat-dry rule, and the same 129°F target the bath holds for a thick cut. Only the heat source changes. *(For the general two-stage principle, see [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking) — with the one difference noted in Step 2 below.)*
+
+**🟡 Medium** · **Prep ~10 min** *(patting dry and seasoning)* · **Cook ~45 min** *(the slow bring-up to 129°F for the whole batch, then the sear)* · **Start to finish ~55 min** — *no slow cook, no lead time, nothing to start a day ahead*
+
+> **Why this one is 🟡 Medium too — and why it is not the same 🟡.** [CLAUDE.md §3a](CLAUDE.md)'s test is *can a step go from perfect to ruined?* **Two steps here can, and the risk sits in a different place than it does above.**
+>
+> - **The slow bring-up can be overshot, and the bath cannot.** A 129°F water bath is a wall: the steak cannot climb past it no matter how long you forget about it, which is exactly why the sous vide version's four to six hours are Slow cook and cost it nothing in the rating. **A pan has no wall.** Walk away from a low burner and 129°F quietly becomes 140°F, and there is no road back from a medium steak to a medium rare one. That is a real technique risk this method has and the sous vide one does not.
+> - **The sear still has no doneness cushion** — same as above, because the steak reaches the pan already at its finished temperature. But **this sear is markedly more forgiving than a chimney's.** A cast iron pan on a home burner runs a few hundred degrees; a fully lit chimney is well over 1,000°F ([§7.107 Skinny Steaks](#7107-skinny-steaks)). The window is seconds wide rather than instantaneous.
+>
+> **The two roughly trade places, and it lands in the same tier.** It is not 🔴 — nothing in it goes from perfect to ruined inside a minute the way a dark roux does. And it is not 🟢, because a temperature you can walk straight past is precisely what 🟢 is meant to exclude. **What does *not* enter the rating is that it's the faster method by hours**: speed is no more a difficulty input than length is ([§1 Cody's Pho](#1-codys-pho) is the reference case in the other direction).
+
+> ⚠️ **The order of pat-dry, rub and oil is the cookbook's reading, not a verbatim instruction — flagged here rather than quietly settled.** What Cody actually said was that the rub goes on and *"then she puts avocado oil on there… like, pats it dry first. You gotta pat it dry."* **He corrected himself mid-sentence**, so the sequence he landed on is genuinely ambiguous. **The order written below is: pat dry → season → cook to 129°F → pat dry again → oil → sear.** It was chosen because it is exactly what the sous vide method above already does — its Steps 1, 5 and 6 in that order — and because every instruction then lands where it actually does something: a dry surface takes a rub better, and oil applied before a long slow cook is mostly spent by the time you sear. *(Cookbook judgment per [CLAUDE.md §3d](CLAUDE.md), reasoned from this cookbook itself — §3's own steps and [§T41 Reverse Sear](#t41-reverse-sear--two-stage-cooking), which likewise pats dry immediately before the sear stage and not before the slow one. **The ingredients, the technique and the batching are Darcy's and Cody's; this ordering is the cookbook's, and his own account supersedes it the day he gives it.**)* It is in Open Questions below.
+
+#### Ingredients
+
+- **Steak** — **and this method has no tenderizing stage**, so it wants a cut that already eats tender rather than the cheap, tough cut the bath was built to rescue. *(⚙️ Cookbook's inference, not Cody's — he didn't name a cut for this one. See Open Questions.)*
+- **Kosher salt and coarse black pepper** — **scaled to the thickness of the cut**, same as Step 1 above
+- **[§4.1 Darcy's Steak Rub](#41-darcys-steak-rub)** — layered **on top of** the salt and pepper, not instead of it
+- **Avocado oil** — both sides, just before the sear
+
+*Not groceries: a **heavy pan** — cast iron is the obvious choice for the sear at the end — an **instant-read thermometer**, which is the only real instruction in Step 2, and **the dedicated towel for patting meat dry** (Cody's is black, and it is bought for exactly this).*
+
+#### Cooking Instructions
+
+**1. Pat it dry, then season — salt and pepper first, the rub on top.**
+Dry surface first, for the same reason it matters at the other end: seasoning sits on a dry steak and slides off a wet one. Then salt and coarse black pepper **in an amount scaled to the thickness of the cut**, and **then** [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) over it. The rub carries salt and pepper but nowhere near enough to season a steak on its own, which is why it is a layer and not a replacement — §4.1's own Step 3 has the full reasoning.
+
+**2. Into the pan on low heat. Bring it up slowly to 129°F internal — by thermometer, not by clock. Stir nothing, rush nothing.**
+**This is the stage the water bath does in the other method**, and it is the whole reason the word *reverse* is in the name: gentle heat first, browning last. Keep the burner low, turn the steak every few minutes so the climb stays even, and **read the temperature at the center with an instant-read thermometer** — thickness, not weight, sets how long this takes ([§T42](#t42-what-controls-cooking-time)), so a clock number here would be a guess. On a 1- to 1½-inch steak over low heat, budget roughly **20–35 minutes** and ignore that figure the moment the thermometer disagrees with it. **⚠️ 129°F is a finished number here, not a pull-early number** — it is the same internal temperature the bath holds for a thicker cut (Step 3 above), so the steak is *done* when it gets there and everything after this is crust. **That is the one place this parts company with [§T41](#t41-reverse-sear--two-stage-cooking)**, whose grill version pulls about 15°F short and lets the sear finish the cooking. **This is also the step that can be overshot with no way back, so it is the one not to walk away from.**
+
+**3. Off the heat and set it aside — and take the whole batch to 129°F before you sear anything.**
+**This is the point of the method, and it is Cody's own emphasis: *"she cooks all the steaks to 129."*** Every steak goes to temperature and waits; only when the last one is off does the searing start. **What it buys is that a table full of steaks lands together** — nobody's is cold while somebody's is still in the pan, and nobody's is overcooked because it had to hold. The few degrees they shed sitting on the plate are a small version of the head start Step 4's ice cooler gives the sous vide steak: a slightly cooler interior is more sear you can spend. **Don't cover them tightly** — trapped steam re-wets the surface you are about to dry.
+
+**4. Pat it dry again — completely, obsessively dry. Cody stressed this exactly as he did for the sous vide version.**
+***"You gotta pat it dry."*** **This is the through-line between the two methods, and it is the same instruction that earned the dedicated black towel** (Step 5 above). It is not a fussy detail and it is not method-specific — **water boils off before a surface can brown.** A wet steak laid in a hot pan spends its first seconds **steaming itself** rather than searing, and by the time the surface is finally dry enough to take color the interior has already climbed past where you put it. **Dry surface, instant crust; wet surface, gray steak.** Get every face, get the edges, get into the folds. In this method there is a second reason to be thorough: the steak has just spent half an hour in a pan sweating, so there is more surface moisture to take off than you would expect.
+
+**5. Avocado oil, both sides.**
+**Avocado oil specifically, and the reason is the smoke point** — it holds above 500°F, which is what a pan taken to searing heat will ask of it. Olive oil is the wrong tool for the same reason it is wrong over the chimney: it smokes far lower, so it burns rather than browns and turns acrid on contact. Cody described oiling **the steak**, both sides, rather than the pan — a mister or a spray bottle lays down an even film with a fraction of what a pour uses. **Straight from the towel to the oil to the pan.**
+
+**6. Sear it. Get the pan as hot as it will go first, then flip often and go by color.**
+Heat the pan empty until it is genuinely hot before anything touches it — a steak laid into a merely warm pan will sit there greying instead of browning, which wastes the temperature control you just spent half an hour earning. Then **this step is nothing but crust**, because the interior is already where you want it. **Flip frequently** and work to a deep, even brown on both faces; this cookbook's own working figure for a pan sear on an already-cooked steak is about **45–90 seconds a side**, flipping. **Cody didn't give a number of seconds** *(see Open Questions)* — go by the color. **Don't walk away.** There is no doneness left in reserve.
+
+**7. Off, slice across the grain, and eat.**
+There is nothing to rest — the steak was at its serving temperature before the sear started and the sear was seconds long, so the "let it rest" step doesn't apply the way it would to a grilled steak ([§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) is this cookbook's entry on why resting is mostly a myth anyway). **If the cut has a grain, slice across it.** Everything in [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s sauce tables goes on top of this one too.
+
+#### Grocery Shopping List
+
+**Identical to §3.C above, minus the equipment groceries** — this method buys no charcoal, no ice, and no bags.
+
+**🏪 Specific store — butcher**
+
+- 🏪 Steak — **a cut that already eats tender**, since nothing here tenderizes it *(see Open Questions)*
+
+**🛒 General grocery**
+
+- 🛒 Kosher salt
+- 🛒 Coarse black pepper
+- 🛒 Avocado oil — **spray bottle or mister** *(not olive oil — see Step 5)*
+- Plus everything for [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) — see its own grocery list
+
+#### Nutrition *(estimated — the block above applies unchanged)*
+
+**The numbers are §3's Nutrition block above, exactly**, and they are not restated as a second table because nothing that reaches the plate is different: the same steak, the same salt and pepper, the same rub, and about a teaspoon of avocado oil per steak. **The ice, the charcoal and the bag were never edible**, so dropping them changes nothing. The one honest wrinkle is that a pan-cooked steak loses its juices to the pan rather than to a bag — the same roughly one-fifth weight loss, landing in a different place. **Same caveat as above, too: the figures run on an assumed two 12 oz raw steaks**, because no cut or weight was ever given.
+
+**What a serving is:** **one whole steak out of the pan — about 10 oz cooked**, a full dinner portion of meat with nothing else on the plate.
+
+### E. Open Questions
 
 - **Which cut, and how thick?** Cody described the method by what it's *for* — cheap, lower-quality cuts — but didn't name one, and thickness is what picks the temperature (128–129°F vs. 125°F). Worth pinning down the cut he actually buys for this. *([§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method)'s candidate list is the stand-in.)*
 - **How long is "a long time" at 125°F?** For a thin steak he said 125°F *held a long time*, without a number. That matters more at 125°F than it would at 129°F, for the reason in the Step 3 callout — a figure from him would close it.
@@ -2143,6 +2221,14 @@ There is nothing to rest — it came out of a water bath at its serving temperat
 - **🚫 The chimney brand is deliberately unrecorded.** Cody uses **the widest-diameter chimney he could find** and was unsure of the maker — what he said sounded like *"tomato gels"* or *"trader gels,"* which doesn't match a brand this cookbook can confirm. **No brand name has been guessed at or substituted here.** Any wide chimney with a grate that fits does this job. If he can read the name off the side of it, it goes in.
 - **Is the ice cooler every time, or only when he cooks a day ahead?** It's written above as the method, since that's how he described it — bath one day, sear the next. Whether he ever goes straight from bath to fire, and what he does differently when he does, isn't recorded.
 - **Portion size for the Nutrition block** — the numbers above run on an assumed two 12 oz steaks because nothing was given. A real cut and weight would replace the assumption.
+
+**On [§3.D, the stovetop reverse sear](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method) — new 2026-09-09:**
+
+- **⚠️ What is the actual order of rub, pat-dry and oil?** **This is the one to ask first.** Cody said the rub goes on and *"then she puts avocado oil on there… like, pats it dry first. You gotta pat it dry"* — **a mid-sentence correction**, which leaves the sequence genuinely open. §3.D is written **pat dry → season → cook to 129°F → pat dry again → oil → sear**, and that ordering is labeled in the entry as **the cookbook's reading**, reasoned from §3's own sous vide steps rather than from anything he said outright. **His account replaces it the day he gives it.** Specifically worth confirming: whether the rub goes on a dry steak at the start *(as written)* or after the slow cook, and whether the oil ever goes on before the pan rather than only before the sear.
+- **Which cut does Darcy use for the pan version?** No cut was named. It matters here in a way it doesn't above, because **this method has no tenderizing stage** — the bath exists to rescue a cheap, tough cut, and a pan does not do that. §3.D says to use something that already eats tender, which is the cookbook's inference and not his instruction.
+- **What heat, and is there fat in the pan for the slow stage?** He said to cook it slowly in a pan; he didn't say what burner setting, what pan, or whether anything is in it. §3.D says low heat and puts the avocado oil on just before the sear, matching where he actually named the oil. A dry pan versus a lightly oiled one is a real difference over half an hour.
+- **How long is *this* sear, in seconds?** Same open question as Step 8 above and a different answer, since a pan is hundreds of degrees cooler than a chimney. §3.D uses **45–90 seconds a side** as the working figure and says to go by color; his own number would be better.
+- **Does the batch ever get held or reheated?** He was clear that all the steaks go to 129°F before any of them is seared, but not what happens if the batch is large — whether the first ones sit on a plate, go into a warm oven, or just get seared quickly enough that it never comes up.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16465,7 +16551,7 @@ Refrigerate if not baking immediately.
 <!-- TECHNIQUE-TAGS: sous-vide, steak, tenderizing, sear, cast-iron, formula -->
 **Tags:** `sous-vide` · `steak` · `tenderizing` · `sear` · `cast-iron` · `formula`
 **Source:** Cody's own method, dictated directly — not from a photographed page.
-**Used in:** **[§3 Darcy's Steak](#3-darcys-steak)** — the numbered-recipe version of this same idea, with Cody's own temperatures, the ice-cooler chill, and a charcoal-chimney sear in place of the cast iron.
+**Used in:** **[§3 Darcy's Steak](#3-darcys-steak)** — the numbered-recipe version of this same idea, with Cody's own temperatures, the ice-cooler chill, and a charcoal-chimney sear in place of the cast iron. *(§3 also carries **[a second Darcy method](#d-variation--darcys-stovetop-reverse-sear-the-weeknight-method)** that reaches the same 129°F in a pan instead of a bath — no circulator, no bags, and the sear in that same pan.)*
 
 > **📌 This is Cody's answer to "the perfect steak," full stop — not just a fix for cheap cuts.** Shown Steven Raichlen's *How to Grill the Perfect Steak* technique page (the grill-and-crosshatch method), his response was direct: ***"Actually I prefer sous vide — to me, the perfect steak is sous vide."*** That grilling technique was **not added to this cookbook**, on his call. Worth recording as a standing preference: when a recipe here says to grill or pan-sear a steak, sous-vide-then-sear is the house alternative, and this entry plus [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the methods to reach for.
 

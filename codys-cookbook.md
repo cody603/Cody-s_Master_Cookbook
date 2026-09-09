@@ -27,7 +27,7 @@ Click any recipe to jump straight to it.
   - [4.5 Pickled Pink Onions](#45-pickled-pink-onions) ✅ ❤️
   - [4.6 No-Heat Sour Kraut](#46-no-heat-sour-kraut) ✅ ❤️
   - [4.7 Captain Mike's Seasoning](#47-captain-mikes-seasoning) ✅ ❤️
-  - [4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ✅
+  - [4.8 Shrimp and Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) ✅ ❤️
   - [4.9 Hollandaise Sauce](#49-hollandaise-sauce) ✅ ❤️
   - [4.10 New Orleans Béarnaise Sauce](#410-new-orleans-béarnaise-sauce) ✅
   - [4.11 Choron Sauce](#411-choron-sauce) ✅
@@ -106,7 +106,7 @@ Click any recipe to jump straight to it.
   - [4.84 Sauce Vinaigrette (French Dressing)](#484-sauce-vinaigrette-french-dressing) ✅
   - [4.85 Beurre Blanc / Beurre Nantais (White Butter Sauce)](#485-beurre-blanc--beurre-nantais-white-butter-sauce) ✅
   - [4.86 Beurre Noir / Beurre Noisette (Brown Butter Sauce)](#486-beurre-noir--beurre-noisette-brown-butter-sauce) ✅
-  - [4.87 Cavender's All Purpose Greek Seasoning (Store-Bought)](#487-cavenders-all-purpose-greek-seasoning-store-bought) ✅ 👍 — *reference*
+  - [4.87 Cavender's All Purpose Greek Seasoning (Store-Bought)](#487-cavenders-all-purpose-greek-seasoning-store-bought) ✅ ❤️ — *reference*
   - [4.88 Vegeta (Store-Bought Croatian All-Purpose Seasoning)](#488-vegeta-store-bought-croatian-all-purpose-seasoning) ✅ ❤️ — *reference*
   - [4.89 Cody's Greek Vinaigrette (Lime & Olive Oil)](#489-codys-greek-vinaigrette-lime--olive-oil) ✅ ❤️
   - [4.90 Pickled Vegetables (Encurtido)](#490-pickled-vegetables-encurtido) ✅
@@ -124,10 +124,10 @@ Click any recipe to jump straight to it.
   - [4.102 Chicken or Turkey Brine Injection](#4102-chicken-or-turkey-brine-injection) ✅
   - [4.103 Pork Brine Injection](#4103-pork-brine-injection) ✅
   - [4.104 Beef or Venison Brine Injection](#4104-beef-or-venison-brine-injection) ✅
-  - [4.105 Dalmatian Rub](#4105-dalmatian-rub) ✅
+  - [4.105 Dalmatian Rub](#4105-dalmatian-rub) ✅ ❤️
   - ~~4.106 Big Bad Beef Rub~~ 🚫 **Deleted 2026-09-08 at Cody's request** *(he doesn't like it. The number is retired, not reused. The three recipes that called for it still name it as their source's own printed ingredient — see [§7.109](#7109-chateaubriand-with-compound-butter), [§7.110](#7110-short-ribs-texas-style), [§7.112](#7112-texas-beef-brisket) — and point at his Dalmatian rub, [§4.105](#4105-dalmatian-rub), or [§4.116 Butcher Block Seasoning](#4116-butcher-block-seasoning) instead)*
   - [4.107 Mrs. O'Leary's Cow Crust](#4107-mrs-olearys-cow-crust) ✅
-  - [4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ✅
+  - [4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) ✅ ❤️
   - [4.109 Simon & Garfunkel Rub](#4109-simon--garfunkel-rub) ✅
   - [4.110 Dolly's Lamb Rub](#4110-dollys-lamb-rub) ✅
   - [4.111 Marietta's Fish Rub](#4111-mariettas-fish-rub) ✅
@@ -213,7 +213,7 @@ Click any recipe to jump straight to it.
   - [4.191 Dutch West Indian Peanut Sauce (Pindasaus)](#4191-dutch-west-indian-peanut-sauce-pindasaus) ✅ *(Raichlen, The Barbecue! Bible p. 476, facing column — tamarind and ketjap manis, **no coconut milk**; the third and most distinct of this cookbook's three peanut sauces; added 2026-09-08)*
   - [4.192 Avocado Salsa](#4192-avocado-salsa) ✅ *(laylita.com, Layla Pujol — the salsa half of [§7.150](#7150-grilled-salmon-with-avocado-salsa), pulled out on its own because Cody puts it on grilled fish generally; added 2026-09-08)*
   - [4.193 Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) ✅ *(Cody's — two ingredients, for flank steak; **a steak sauce, not a dipping sauce**, per his own correction; ratio is cookbook judgment; added 2026-09-08)*
-  - [4.195 Cody's Smoked Salt](#4195-codys-smoked-salt) ✅ *(**Cody's own** — coarse sea salt, and pink Himalayan, that he smokes himself about two hours; **load-bearing in [§6.10](#610-sous-vide-brisket-richies-method)**, where it supplies half the smoke flavor. Temperature, wood and layer depth are cookbook judgment or open — see the entry; added 2026-09-08)*
+  - [4.195 Cody's Smoked Salt](#4195-codys-smoked-salt) ✅ ❤️ *(**Cody's own** — coarse sea salt, and pink Himalayan, that he smokes himself about two hours; **load-bearing in [§6.10](#610-sous-vide-brisket-richies-method)**, where it supplies half the smoke flavor. Temperature, wood and layer depth are cookbook judgment or open — see the entry; added 2026-09-08)*
   - [4.194 Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) ✅ ❤️ *(from Cody's dad — thick and cream-cheese-based, **not** the whipped-cream [§4.40](#440-herbed-horseradish-sauce); also great on pork tenderloin, per Cody; ratio is cookbook judgment; added 2026-09-08)*
 - [T. Cooking Techniques & Tips](#t-cooking-techniques--tips)
   - [T1. How to Make a Roux](#t1-how-to-make-a-roux) ✅
@@ -324,9 +324,9 @@ Click any recipe to jump straight to it.
 - [6.6 North Carolina Pulled Pork (Karmel Version)](#66-north-carolina-pulled-pork-karmel-version) ✅ *(distinct from [§6.2](#62-pulled-pork) — see the comparison table)*
 - [6.7 Texas-Style Barbecued Brisket](#67-texas-style-barbecued-brisket) ✅ *(rub & dry brine endorsed by Cody; **his own smoking method has now arrived** — [§6.1 Smoked Brisket](#61-smoked-brisket))*
 - [6.8 Memphis-Style Beef Ribs](#68-memphis-style-beef-ribs) ✅ *(dry rub, indirect smoke; cross-links §4.36, §4.26, §7.50)*
-- [6.10 Sous Vide Brisket (Richie's Method)](#610-sous-vide-brisket-richies-method) ✅ *(Cody's own, from **Richie, founder of Q39** — heavy homemade [smoked salt](#4195-codys-smoked-salt) and pepper, butter in the bag, **150°F for two days**, an overnight ice chest, a 4 hr smoke, then a hot browning; **includes his burnt ends**)*
+- [6.10 Sous Vide Brisket (Richie's Method)](#610-sous-vide-brisket-richies-method) ✅ ❤️ *(Cody's own, from **Richie, founder of Q39** — heavy homemade [smoked salt](#4195-codys-smoked-salt) and pepper, butter in the bag, **150°F for two days**, an overnight ice chest, a 4 hr smoke, then a hot browning; **includes his burnt ends**)*
   - [D. Burnt Ends — Cody's, from the Point](#d-burnt-ends--codys-from-the-point) ✅ *(cubed, avocado-oiled and pan-crisped — the fried-burnt-end idea, out of competition)*
-- [6.9 Cody's Pulled Pork](#69-codys-pulled-pork) ✅ *(Cody's own — the second pulled pork [§6.2](#62-pulled-pork) promised; heavy overnight dry brine, Memphis Dust, **cooked overnight at 225°F on an Egg Genius**, fat side up, no wrap or mop, 203°F, long cooler rest; **four or five bone-in 7-10 lb butts at a time**; pecan wood)*
+- [6.9 Cody's Pulled Pork](#69-codys-pulled-pork) ✅ ❤️ *(Cody's own — the second pulled pork [§6.2](#62-pulled-pork) promised; heavy overnight dry brine, Memphis Dust, **cooked overnight at 225°F on an Egg Genius**, fat side up, no wrap or mop, 203°F, long cooler rest; **four or five bone-in 7-10 lb butts at a time**; pecan wood)*
 
 **[7. Mains & Proteins](#7-mains--proteins)**
 
@@ -342,7 +342,7 @@ Click any recipe to jump straight to it.
 - [7.10 Cilantro Lime Shrimp](#710-cilantro-lime-shrimp) ○ 👍
 - [7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) ✅ ❤️ *(no cabbage in the pot — see the entry's own warning)*
 - [7.12 Pesto Chickpea Pasta](#712-pesto-chickpea-pasta) ○ 👍
-- [7.13 Crawfish Elegante](#713-crawfish-elegante) ✅
+- [7.13 Crawfish Elegante](#713-crawfish-elegante) ✅ ❤️
 - [7.14 Chicken Oscar (Court of 2 Sisters)](#714-chicken-oscar-court-of-2-sisters) ✅
 - [7.15 Pauls Jambalaya](#715-pauls-jambalaya) ✅ ❤️
 - [7.16 Red Beans & Rice](#716-red-beans--rice) ✅ ❤️
@@ -391,7 +391,7 @@ Click any recipe to jump straight to it.
 - [7.58 Poulet Sauté (Sautéed Chicken)](#758-poulet-sauté-sautéed-chicken) ✅
 - [7.59 Mediterranean Pork Tenderloin Platter (Vegeta-Rubbed, Sous Vide & Seared)](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) ✅ ❤️
 - [7.60 Nana's Chicken and Dressing](#760-nanas-chicken-and-dressing) 🦃 ○
-- [7.61 Broiled Fish](#761-broiled-fish) ✅
+- [7.61 Broiled Fish](#761-broiled-fish) ✅ ❤️
 - [7.62 Catfish Étouffée](#762-catfish-étouffée) ✅
 - [7.63 Crab and Eggplant Dressing](#763-crab-and-eggplant-dressing) ✅
 - [7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) ✅
@@ -406,7 +406,7 @@ Click any recipe to jump straight to it.
 - [7.73 Bani Marine Street Beef Kebabs](#773-bani-marine-street-beef-kebabs) ✅
 - [7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](#774-madeira-beef-and-bay-leaf-kebabs-espetadas) ✅
 - [7.75 Lettuce Bundles with Grilled Beef](#775-lettuce-bundles-with-grilled-beef) ✅ *(uses [§4.97](#497-aromatic-lemongrass-marinade))*
-- [7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) ✅ *(⚠️ 160°F food-safety note)*
+- [7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) ✅ 👍 *(⚠️ 160°F food-safety note)*
 - [7.77 Carne Asada (Flank Steak)](#777-carne-asada-flank-steak) ○ *(cut only — method deliberately withheld, see entry)*
 - [7.78 Boar Tenderloin with Cherry Chutney](#778-boar-tenderloin-with-cherry-chutney) ✅ *(Champions of Sous Vide)*
 - [7.79 Short Rib Ragù](#779-short-rib-ragù) ✅ *(Champions of Sous Vide; flag retired and six quantities plus one method step corrected 2026-09-06 — see entry)*
@@ -425,18 +425,18 @@ Click any recipe to jump straight to it.
 - [7.92 Butter-Poached Fillets](#792-butter-poached-fillets) ✅ *(Meathead)*
 - [7.93 Baja Fish Tacos](#793-baja-fish-tacos) ✅ *(Meathead)*
 - [7.94 Greg's Grilled Lobster](#794-gregs-grilled-lobster) ✅ *(Meathead)*
-- [7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) ✅ *(Meathead)*
+- [7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) ✅ ❤️ *(Meathead)*
 - [7.96 Really Loaded Potato Canoes](#796-really-loaded-potato-canoes) ✅ *(Meathead; builds on [§7.95](#795-perfect-pulled-pork))*
-- [7.97 Last-Meal Ribs](#797-last-meal-ribs) ✅ *(Meathead)*
+- [7.97 Last-Meal Ribs](#797-last-meal-ribs) ✅ ❤️ *(Meathead)*
 - [7.98 Happy Mouth Yakitori Ribs](#798-happy-mouth-yakitori-ribs) ✅ *(Meathead; its sauce is [§4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce))*
 - [7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) ✅ *(Meathead)*
 - [7.100 Pork Tenderloin with Cowboy Java Rub](#7100-pork-tenderloin-with-cowboy-java-rub) ✅ *(Meathead; uses [§4.114](#4114-cowboy-java-rub))*
 - [7.101 Sweet and Sour Pork Tenderloin](#7101-sweet-and-sour-pork-tenderloin) ✅ *(Meathead)*
 - [7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) ✅ *(Meathead)*
 - [7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) ✅ *(Meathead)*
-- [7.104 Smoked Bone Broth](#7104-smoked-bone-broth) ✅ *(Meathead)*
+- [7.104 Smoked Bone Broth](#7104-smoked-bone-broth) ✅ ❤️ *(Meathead)*
 - [7.105 Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) ✅ *(Meathead; uses [§7.104](#7104-smoked-bone-broth))*
-- [7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ✅ *(Meathead)*
+- [7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) ✅ ❤️ *(Meathead)*
 - [7.107 Skinny Steaks](#7107-skinny-steaks) ✅ *(Meathead; includes the Afterburner Method)*
 - [7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) ✅ *(Meathead; "Poor Man's Prime Rib")*
 - [7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) ✅ *(Meathead; uses [§4.133 Beef Butter](#4133-beef-butter))*
@@ -445,11 +445,11 @@ Click any recipe to jump straight to it.
 - [7.112 Texas Beef Brisket](#7112-texas-beef-brisket) ✅ *(Meathead; distinct from [§6.7](#67-texas-style-barbecued-brisket) — see entry)*
 - [7.113 Close to Katz's Pastrami](#7113-close-to-katzs-pastrami) ✅ *(Meathead)*
 - [7.114 Prime Rib](#7114-prime-rib) ✅ *(Meathead)*
-- [7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) ✅ *(Meathead; uses [§4.128 Burger Glop](#4128-burger-glop))*
+- [7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) ✅ ❤️ *(Meathead; uses [§4.128 Burger Glop](#4128-burger-glop))*
 - [7.116 Joe's Fireproof Grilled Shrimp](#7116-joes-fireproof-grilled-shrimp) ✅ *(Meathead; Joe Parajecki; ⚠️ **TAKES time, "wild Gulf" spec and contributor credit corrected 2026-09-06** — see entry)*
-- [7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ✅ *(Meathead; Melissa Cookston; ⚠️ **a missing kosher-salt ingredient line restored and the brine time corrected 2026-09-06** — see entry)*
+- [7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) ✅ ❤️ *(Meathead; Melissa Cookston; ⚠️ **a missing kosher-salt ingredient line restored and the brine time corrected 2026-09-06** — see entry)*
 - [7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) ✅ *(Meathead)*
-- [7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ✅ *(Meathead; Big Bob Gibson Bar-B-Q)*
+- [7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) ✅ ❤️ *(Meathead; Big Bob Gibson Bar-B-Q)*
 - [7.120 Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) ✅ *(Meathead)*
 - [7.121 Marinated Cornish Game Hens](#7121-marinated-cornish-game-hens) ✅ *(Meathead)*
 - [7.122 The Ultimate Smoked Turkey](#7122-the-ultimate-smoked-turkey) ✅ *(Meathead)*
@@ -469,7 +469,7 @@ Click any recipe to jump straight to it.
 - [7.136 Championship Pork Ribs](#7136-championship-pork-ribs) ✅ *(The Meathead Method; distinct from §7.97 Last-Meal Ribs)*
 - [7.137 Tuffy Stone's Championship Pork Butt](#7137-tuffy-stones-championship-pork-butt) ✅ *(The Meathead Method; the recipe behind §4.168–171's Cool Smoke components)*
 - [7.138 Real Fried Chicken on a Gas Grill (It's Safe!)](#7138-real-fried-chicken-on-a-gas-grill-its-safe) ✅ *(The Meathead Method; deep-fried in a Dutch oven on the grill's side burner — distinct from §7.37 The Fry Queen's Fried Chicken)*
-- [7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) ✅ *(The Meathead Method; baking-powder dry brine, air-dried, roasted then direct-seared)*
+- [7.139 Extra Crispy Chicken Wings Without Frying](#7139-extra-crispy-chicken-wings-without-frying) ✅ 👍 *(The Meathead Method; baking-powder dry brine, air-dried, roasted then direct-seared)*
 - [7.140 Tandoori Chicken](#7140-tandoori-chicken) ✅ *(The Meathead Method; yogurt-marinated whole bird, rotisserie or grill)*
 - [7.141 Championship Chicken](#7141-championship-chicken) ✅ *(The Meathead Method; competition bone-in skin-on thighs)*
 - [7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) ✅ *(The Meathead Method)*
@@ -480,7 +480,7 @@ Click any recipe to jump straight to it.
 - [7.147 Dorie's Pork à la Normande](#7147-dories-pork-à-la-normande) ✅ *(The Meathead Method; Dorie Greenspan; completed 2026-09-06 from newly photographed pages)*
 - [7.148 Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce) ✅ *(The Meathead Method pp. 308–310 — the showcase dish for [§4.174](#4174-poblano-basil-cream-sauce); added 2026-09-07 from Cody's photographs)*
 - [7.149 The Ultimate Prime Rib Roast](#7149-the-ultimate-prime-rib-roast) ✅ *(The Meathead Method pp. 218–220 — butcher one primal into four meals, then smoke, sous vide, and sear; distinct from the earlier book's [§7.114](#7114-prime-rib); completed 2026-09-07 from Cody's photographs of pp. 219–220)*
-- [7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) ✅ *(laylita.com, Layla Pujol — **carries Cody's egg trick as Step 1**: skin the fillet first, because the fishiness in salmon is mostly on the skin side; added 2026-09-08)*
+- [7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) ✅ 👍 *(laylita.com, Layla Pujol — **carries Cody's egg trick as Step 1**: skin the fillet first, because the fishiness in salmon is mostly on the skin side; added 2026-09-08)*
 
 **[8. Soups & Chili](#8-soups--chili)**
 
@@ -517,8 +517,8 @@ Click any recipe to jump straight to it.
 - [8.30 Turtle Soup I](#830-turtle-soup-i) ✅
 - [8.31 Turtle Soup II (Monteleone)](#831-turtle-soup-ii-monteleone) ✅
 - [8.32 Potato Soup](#832-potato-soup) ✅ *(no directions on the source card — method and missing amounts are cookbook judgment, per Cody)*
-- [8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) ✅ 👍
-- [8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) ✅ ❤️
+- [8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) ✅ ❤️
+- [8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) ✅ 👍
 - [8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot) ✅ ❤️
 - [8.36 Chili Dogs](#836-chili-dogs) ○ *(uses [§8.1 Chili Mac](#81-chili-mac))*
 - [8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) ✅ *(Salt, Fat, Acid, Heat; includes Spring Garlic Soup and Pho Gà variations)*
@@ -560,13 +560,13 @@ Click any recipe to jump straight to it.
 - [9.24 Crab Marie](#924-crab-marie) ✅
 - [9.25 Crabmeat Imperial](#925-crabmeat-imperial) ✅
 - [9.26 Mushroom Florentine](#926-mushroom-florentine) ✅
-- [9.27 Reuben](#927-reuben) ✅
-- [9.28 Char-Grilled Oysters](#928-char-grilled-oysters) ✅ *(no directions on the source card — Drago's-style method and proportions are cookbook judgment, per Cody; sized for 6 dozen)*
-- [9.29 Deer Jerky](#929-deer-jerky) ✅ *(same seasoning system as [§9.6](#96-beef-jerky), on venison)*
+- [9.27 Reuben](#927-reuben) ✅ ❤️
+- [9.28 Char-Grilled Oysters](#928-char-grilled-oysters) ✅ ❤️ *(no directions on the source card — Drago's-style method and proportions are cookbook judgment, per Cody; sized for 6 dozen)*
+- [9.29 Deer Jerky](#929-deer-jerky) ✅ ❤️ *(same seasoning system as [§9.6](#96-beef-jerky), on venison)*
 - [9.30 Muffelatta Poboy](#930-muffelatta-poboy) ✅ *(Cody's own spin, distinct from [§9.22](#922-tailgate-muffuletta-sandwich))*
 - [9.31 Quesadillas](#931-quesadillas) ✅ *(no directions on the source card — stovetop method and amounts are cookbook judgment, per Cody; kid-friendly)*
 - [9.32 Coconut Beer Shrimp with Sweet and Tangy Dipping Sauce](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) ✅ *(Chef Paul Prudhomme's Louisiana Kitchen pp. 283–284 — beer-battered, coconut-crusted, deep fried; its sauce is [§4.189](#4189-sweet-and-tangy-dipping-sauce); added 2026-09-08)*
-- [9.33 Easy Deviled Eggs](#933-easy-deviled-eggs) ✅ *(Canal House p. 71 — the authors' "Buttered" Eggs; boiled eggs spread with mayonnaise, no filling, no piping; promoted out of §9.16 on 2026-09-09 and renamed at Cody's request)*
+- [9.33 Easy Deviled Eggs](#933-easy-deviled-eggs) ✅ ❤️ *(Canal House p. 71 — the authors' "Buttered" Eggs; boiled eggs spread with mayonnaise, no filling, no piping; promoted out of §9.16 on 2026-09-09 and renamed at Cody's request)*
 
 **[10. Breakfast](#10-breakfast)**
 

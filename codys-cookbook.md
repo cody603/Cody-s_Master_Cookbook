@@ -1201,7 +1201,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole) | 🟢 | 35 min | 1 hr | — | 2 hr 5 min *(includes a 30 min salt-and-drain rest)* |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) | 🟡 | 25 min | 1 hr 10 min | — | 1 hr 20 min |
 | [§8.28 Chicken Gumbo Filé](#828-chicken-gumbo-filé) | 🟡 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
-| [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
+| [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟢 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
@@ -1791,6 +1791,8 @@ Cody's own method, taken down from his walkthrough. A salty, five-spice-forward 
 
 **Two days of lead time.** The chuck goes in the water bath a day or two before you ever start the broth.
 
+> 🍱 **Batch the chuck — Cody, 2026-09-09:** *"Sometimes when I sous vide a beef I'll do two or three chuck roasts and reuse it when I make pho."* The three roasts in the ingredient list are already a batch; the point is that the sous vide beef keeps and comes back as a second pho night, which is why the [Meal Planning Sheet](#meal-planning-sheet) carries a *Pho with Leftover Beef* line in its Leftovers group, pointed at [§7.146](#7146-pho-with-leftover-brisket-and-smoked-bone-broth). [§T46](#t46-freezing-and-reheating-leftovers) covers holding and reheating vacuum-bagged meat.
+
 **Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil)
 
 **🟢 Easy** · **Prep ~2 hr** · **Cook ~20 min** · **Slow cook ~5 hr + 36 hr** *(broth simmer, plus sous vide — 36 hr is the house standard; 24–48 hr is the allowable window)* · **Start to finish 2 days** *(the chuck goes in the water bath a day and a half ahead — plan backward from dinner)*
@@ -2146,7 +2148,7 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 - **Kosher salt and coarse black pepper** — **adjusted for the thickness of the cut**; a thick steak needs noticeably more
 - **[§4.1 Darcy's Steak Rub](#41-darcys-steak-rub)** — layered **on top of** the salt and pepper, not instead of it
 - **Avocado oil**, in a spray bottle or mister
-- **Charcoal** — **insta-light briquettes, or lump**
+- **Charcoal** — **Insta-light briquettes, or lump.** *Cody, 2026-09-09: "we've gotta have plenty."* The briquettes are the fuel for the chimney sear in Step 7 — keep a standing supply.
 - **Ice** — enough to pack a cooler around the bagged steak *(Step 4)*
 - A vacuum sealer or zip-top bag *(water-displacement method if you're not vacuum sealing)*
 
@@ -2196,7 +2198,7 @@ There is nothing to rest — it came out of a water bath at its serving temperat
 - 🛒 Kosher salt
 - 🛒 Coarse black pepper
 - 🛒 Avocado oil — **spray bottle or mister** *(not olive oil — see Step 6)*
-- 🛒 Charcoal — **insta-light briquettes or lump**
+- 🛒 **Insta-light briquettes — plenty.** *Cody, 2026-09-09: "we've gotta have plenty."* This is the fuel for the chimney sear (Step 7); lump charcoal works too, but the briquettes are what he keeps stocked
 - 🛒 Ice — a bag, enough to pack the cooler *(Step 4)*
 - 🛒 Vacuum sealer bags, or zip-top freezer bags
 - Plus everything for [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) — see its own grocery list
@@ -15858,6 +15860,8 @@ When the seafood is headed into a batter or a dredge that uses egg anyway, the c
 
 **Take the skin off first, then soak.** Removing the skin removes most of the problem outright; the egg then only has to pull what's left in the flesh. Doing it the other way round — soaking a skin-on fillet and then skinning it — means you spent the soak working against a surface you were about to throw away.
 
+> **The one exception, added 2026-09-09: [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) keeps the skin on and soaks anyway.** That recipe grills skin-side down until the skin is dark and crisp — the skin is the point — so Cody's call there is *"just do an egg soak but don't take off the skin."* The skin-first rule above is for recipes where the skin is coming off regardless; where the skin is being cooked to eat, soak with it on and let the flesh side do the work.
+
 **Working numbers for a fillet, per Cody:** *"maybe two eggs, rub it all over a salmon fillet."* Rub it over the whole surface by hand the same way as for shrimp, then **wipe it off or rinse it off** — his words. **The rinse is the surer version** and it's what section B specifies, cold water only; the wipe is the quick version when you're heading straight into a seasoning rub anyway.
 
 **Then season or marinate as the recipe calls for.** Per Cody: *"you can do lemon juice and after, whatever — whatever the recipe calls for would be fine. But I want that egg trick first."* The soak is a preparation step that happens before the recipe starts, not a substitute for any part of it.
@@ -16665,6 +16669,8 @@ Avocado oil's high smoke point (above 500°F) is what makes it work here — an 
 
 **6. Sear in a blazing hot cast iron skillet. 30 to 45 seconds per side.**
 The pan needs to be genuinely screaming hot before the steak goes in — this isn't a "medium-high" sear. Since the meat is already fully cooked from the sous vide, this step is purely about building a crust; there's no doneness cushion left to lean on, so don't walk away or guess. Thirty to forty-five seconds a side is enough to brown deeply without pushing the interior past the temperature it already sous vide'd to.
+
+> 🔥 **The chimney-sear alternative, and what it burns.** [§3 Darcy's Steak](#3-darcys-steak) Steps 7–8 do this same sear over the top of a roaring charcoal chimney instead of a pan — hotter, faster, and Cody's preferred fire for a chilled sous vide steak. **That method runs on Insta-light briquettes** (lump works too), and per Cody on 2026-09-09, *"we've gotta have plenty"* — keep a standing supply, because a chimney sear with no fuel in the garage is a pan sear. §3's grocery list carries the line.
 
 #### C. Rubs for This — What's Already in the Cookbook
 
@@ -25148,9 +25154,11 @@ Transcribed from Cody's photographed recipe card — a baked jambalaya built on 
 
 **Techniques used:** [T5 Seasonings & Peppers](#t5-seasonings--peppers) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients)
 
-**🟡 Medium** · **Prep ~15 min** · **Cook ~1 hr 20 min** · **Start to finish ~1 hr 35 min** *(1 hr of the cook is an unattended oven bake)*
+**🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr 20 min** · **Start to finish ~1 hr 35 min** *(1 hr of the cook is an unattended oven bake)*
 
 **❤️ Family favorite** — *Cody: "Awesome."*
+
+> ✅ **Rerated 🟡 → 🟢 on 2026-09-09, on Cody's call.** His words: *"prep time takes thirty minutes; baking is waiting."* Nothing in this recipe can go from perfect to ruined — the stovetop part is a browning and a stir, and the hour in the oven is unattended with a wide window. The [Meal Planning Sheet](#meal-planning-sheet) carries his 30-minute hands-on figure and spells the name *Paul's Jambalaya*; the entry keeps its title as transcribed from the card.
 
 #### A. Ingredients
 
@@ -25821,6 +25829,7 @@ Transcribed from Captain Mike's printed recipe card, complete with his "Captain'
 **Seafood**
 
 - 1–1½ lbs fish fillets — **not over ½ inch thick**, a non-oily firm-fleshed variety, absolutely fresh or fresh-frozen *(see Part D for which fish)*
+- **Or shrimp — and if it is shrimp, FRESH SHRIMP IS ABSOLUTELY NECESSARY.** *Cody, 2026-09-09: "Fresh shrimp is absolutely necessary — put that on there."* Louisiana Gulf shrimp, butterflied and rinsed per Part D; if genuinely fresh shrimp can't be had, make it with fish or don't make it — see the freshness callout above.
 
 **Cure and seasoning**
 
@@ -25868,7 +25877,7 @@ Cover and refrigerate. **The container matters** — the card specifies plastic 
 **🏪 Specific store — fish market**
 
 - 🏪 Fish fillets — 1–1½ lbs, non-oily and firm-fleshed, **absolutely fresh or fresh-frozen** *(see Part D)*
-- 🏪 Louisiana Gulf shrimp — *if going the shrimp route; the card prefers these over imported pond-raised*
+- 🏪 **Louisiana Gulf shrimp — FRESH. Not a preference, a requirement.** *Cody, 2026-09-09: "Fresh shrimp is absolutely necessary — put that on there."* If going the shrimp route and the shrimp isn't genuinely fresh, buy fish instead; the card prefers Gulf shrimp over imported pond-raised
 
 **🛒 General grocery**
 
@@ -26760,6 +26769,8 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 > **Tip, per the source:** *"Because there are so few ingredients in this recipe, you need to use good ones: real mayonnaise, like Hellmann's, and a sharp, grainy mustard, like a Meaux-style one from France. To punch up the flavor and texture, I like to add toasted whole mustard seeds and fresh dill."*
 
 #### B. Cooking Instructions
+
+> 🥚 **Optional prep, per Cody 2026-09-09 — the egg soak, with the skin ON.** *"Maybe with that salmon you just do an egg soak but don't take off the skin, because he actually sears the skin to get it crispy."* Before Step 1, rub the fillets with beaten egg and rinse, exactly as [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) describes — **but do not skin them.** [§T17 §C2](#c2-salmon-fillets--skin-the-fish-first)'s skin-first rule, and the skin-off order that [§7.150 Grilled Salmon with Avocado Salsa](#7150-grilled-salmon-with-avocado-salsa) follows, **do not apply here**: this recipe grills skin-side down on purpose so the skin goes dark and crisp (Step 3), and taking it off would remove the point of the dish. The soak just has to work a little harder through the flesh side; go by the nose, and rinse and blot dry before the oil goes on. The soak adds a few minutes and is inside the [Meal Planning Sheet](#meal-planning-sheet)'s 45-minute figure, which is Cody's own.
 
 **1. Check for bones, then oil and season the salmon.**
 Run your fingers over the meat side of the salmon pieces, feeling for bones. Pull out any you find with needle-nose pliers or tweezers. Rinse the salmon under cold running water and blot dry with paper towels. Brush the skin side of the fish with the oil and season both sides with salt and pepper.
@@ -36266,6 +36277,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 > ✅ **2026-09-07 re-verified once more against the clean reshoot of p. 218** (steps 1–10 read at native resolution): every step, figure, and the three garnish sentences match. No change. *(The page's bottom third is the title box and opening headnote of The Ultimate Prime Rib Roast, tracked in [§12](#12-recipes-to-document) — its recipe starts on p. 219, which is still unphotographed.)*
 
 > **This cookbook's second pho, and the two are genuinely different dishes.** [§1 Cody's Pho](#1-codys-pho) is the house recipe — chuck roast, a long simmered beef broth, and Cody's own charred-aromatic method, and the reference case for this cookbook's whole difficulty philosophy. **This one starts with leftovers**: a brisket you already smoked, and bones you smoke before they ever hit the pot. Both kept, cross-referenced. See also [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup)'s *Pho Gà* variation, a chicken version from a third source, and [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth), the earlier Meathead book's own smoked broth — a close cousin of the broth half of this recipe, kept separate since the two use different bones, aromatics, and yields.
+
+> 🍱 **Cody's own way in, 2026-09-09 — and why the [Meal Planning Sheet](#meal-planning-sheet) lists this as *Pho with Leftover Beef* in its Leftovers group.** *"Sometimes when I sous vide a beef I'll do two or three chuck roasts and reuse it when I make pho."* So in this house the leftover meat is as likely to be sous vide chuck from a deliberately oversized [§1 Cody's Pho](#1-codys-pho) batch as it is smoked brisket, and the page's brisket is one option rather than the rule. The smoked-bone broth below is the recipe as printed; when the beef is leftover chuck, the broth can just as well be §1's. On his standing rule that leftovers never need the grill, the sheet's line carries no ♨︎.
 
 **Makes 6 servings · Takes about 20 minutes to prep, about 5 hours to make the broth** *(as printed)*
 

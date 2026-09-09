@@ -158,6 +158,14 @@ Tag by the recipe's own content, not by which section it sits in. Keto recipes t
 
 **And judgment has a limit: it fills gaps, it does not invent facts.** If the honest answer is that the source never says and no credible reference covers it, that stays an Open Question. Never dress a guess up as research.
 
+## 3e. Rare or Hard-to-Find Ingredients
+
+**Added 2026-09-09, from Cody's own reasoning on [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](codys-cookbook.md#785-hanger-steak-with-duck-fat-wild-mushrooms):** *"we don't have duck fat, can we substitute that with tallow or something else... some of these recipes call for rare ingredients... it's just gonna deter the decision-making process... we can still order it from Amazon or online."*
+
+**When a recipe calls for a genuinely hard-to-find ingredient, note a workable substitute and/or mention that it's orderable online**, right alongside the ingredient — so the ingredient doesn't quietly talk someone out of picking that dish off the [Meal Planning Sheet](codys-cookbook.md#meal-planning-sheet). A substitute suggested this way is cookbook judgment per §3d — label it as such, name what it's reasoned from, and never alter the source's own printed ingredient line to do it; the substitute goes alongside the transcription, not in place of it.
+
+**Scope: this does not mean auditing every rare ingredient in the book at once.** It was applied narrowly to §7.85 on 2026-09-09, one entry at a time as they come up — a full-book pass looking for every hard-to-find ingredient is a separate, larger task, only worth doing if Cody asks for it.
+
 ## 4. Handling Recipe Revisions
 
 Cody will frequently come back after cooking and ask for a tweak — e.g., "Add another teaspoon of hot sauce to Crawfish Elegante."
@@ -185,6 +193,7 @@ If a tweak conflicts with something already documented, flag it clearly in the c
 - Sous vide dry rub is kosher salt, garlic powder, black pepper only. No five spice, no fresh garlic, no liquid in the bag.
 - Sous vide temp: 131–133°F for 24–48 hours.
 - Fresh garlic in a sous vide bag is an anaerobic botulism risk; garlic powder is the safe substitute.
+- **Cody keeps a standing stash of [§4.108 Meathead's Memphis Dust](codys-cookbook.md#4108-meatheads-memphis-dust) on hand at all times.** *(Cody, 2026-09-09: "Memphis Dust, I have a huge amount of it at all times.")* This is guidance for conversational grocery-list building only — it can be skipped there without checking. It does **not** mean stripping Memphis Dust from any recipe's own printed Grocery Shopping List in the master file; those stay complete per §3.
 
 ## 7. Out of Scope for Code Sessions
 

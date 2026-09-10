@@ -1,0 +1,28 @@
+<!-- GENERATED from codys-cookbook.md#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method — do not edit here; edit the master file and rerun tools/build_planner.py -->
+[↑ Meal Planning Sheet](../meal-planning-sheet.md) · [Index](../index.md)
+
+### T93. Aging Beef and Label Claims — Wet-Aging, Dry-Aging, and What "Organic" Actually Means (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, beef, wet-aging, dry-aging, blade-tenderized, organic, natural, kosher, halal -->
+**Tags:** `meathead` · `meathead-method` · `beef` · `wet-aging` · `dry-aging` · `blade-tenderized` · `organic` · `natural` · `kosher` · `halal`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, Bison, Lamb" chapter (book p. 210–212). A different book from [§T65](t65-steaks--grades-cuts-and-matching-temperature-to-thickness.md)'s source; see [§13](13-meathead-cookbook.md).
+**Used in:** any future dry-aged or wet-aged beef purchase; complements [§T66 Prime Rib & Rib Roast](t66-prime-rib--rib-roast--ordering-bones-and-carving.md), which already mentions ordering a 28-day wet-aged roast — this entry explains what that actually means, plus dry-aging and label terms T66 doesn't cover.
+
+**After slaughter, chemical changes called rigor mortis make the meat tough.** The carcass must be chilled rapidly but not frozen, and it takes a couple of days for enzymes to relax the muscles enough for the meat to be sold. After that it can be aged further for tenderness, under carefully controlled temperature and humidity — enzymes and oxygen work on the meat, but too much age spoils it.
+
+- **Wet-aging** is what most beef gets: shipped from the slaughterhouse in large wholesale cuts packed in plastic vacuum bags in boxes. Kept this way about 30 days, enzymes tenderize the meat, but the flavor doesn't change as much as it does with dry-aging.
+- **Dry-aging** — the page says if you haven't tried it, you need to, and to start saving now. Large hunks of meat, usually the best cuts such as the rib primal, are held in a room at **34–38°F and 70–80% humidity with brisk airflow, typically 30–75 days**. It's sometimes called "controlled rotting": the exterior of the muscle darkens and mold sometimes grows on the outside while the interior stays rosy. Natural enzymes break down connective tissue and tenderize the meat while moisture evaporates, shrinking it as much as 20%; the outside crust is trimmed off before slicing into steaks, so another 15% is lost — which is why it's expensive. The chemistry of the fat changes drastically, and the page's descriptors are **earthy, nutty, gamey, leathery, or even mushroomy** — some people are addicted, some plain don't like it. *(An earlier version said "buttery, or even a little blue-cheesy" — not on the page; corrected 2026-09-07.)* You can occasionally buy it from specialty butchers, or do the author's favorite: take friends to a restaurant that specializes in dry-aged beef and compare several ages.
+- **Dry-aging at home** (p. 211–212): works for large cuts such as rib primals; individual steaks don't dry-age well. The simplest way is a commercial dry-aging box (SteakAger or Steak Locker — various sizes, some talk to your phone), or adapt a spare fridge. The author also recommends the UMAi Dry system: wash the meat, seal it in the semipermeable vacuum bag (lets oxygen and moisture through), refrigerate, and come back in 28 or more days — high-quality and fairly inexpensive.
+
+> ⚠️ **Blade-tenderized beef — beware.** Some meat suppliers tenderize beef with a device called a blade tenderizer or jaccard: a series of thin, sharp blades or needles that stab the meat and cut through tough fibers and connective tissue. Pathogens are common on the surface of meat but die almost instantly when cooked; blade-tenderizing pushes them down into the center, which often isn't heated enough to kill them. That makes the process risky. **USDA requires raw meat tenderized this way to be labeled "Mechanically Tenderized," "Needle Tenderized," or "Blade Tenderized."** The page's instruction: **use them only for stews.** *(Earlier version said "check before buying anything you plan to cook less than well-done" — the page is stricter; corrected 2026-09-07.)*
+
+**Label terms, briefly** (p. 210):
+- **Organic beef** — USDA rules require production under strict rules, verified with an elaborate paper trail on every animal (breed, feed, medical history). The cattle must eat only organic grasses and grains, have unrestricted outdoor access, get no antibiotics or hormones, and be treated humanely. The page notes all of this is hard to verify, and organic beef costs more. *(Earlier "third-party inspection" wording wasn't the page's; it says paper trail.)*
+- **Natural beef** — no antibiotics or hormones, but the cattle can be grown, fed, and handled the same way as any other.
+- **Kosher** and **halal beef** — grown and slaughtered according to Jewish law (kosher) or Muslim law (halal). The requirements are similar: both require the animal be slaughtered by slitting the neck veins and drained of practically all blood, a method some experts consider painful and inhumane.
+
+✅ 2026-09-07 second-pass QC against p. 210–212: wet-aging 30 days verified. Fixed: dry-aging flavor descriptors were partly invented; blade-tenderized advice softened from the page's "stews only"; organic wording. Added the printed dry-aging conditions (34–38°F, 70–80% humidity, 30–75 days), the 20% + 15% losses, home dry-aging options (p. 212), and the kosher/halal slaughter detail.
+
+[↑ Table of Contents](../index.md)
+
+---

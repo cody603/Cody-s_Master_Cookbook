@@ -1,0 +1,38 @@
+<!-- GENERATED from codys-cookbook.md#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat — do not edit here; edit the master file and rerun tools/build_planner.py -->
+[↑ Meal Planning Sheet](../meal-planning-sheet.md) · [Index](../index.md)
+
+### T48. Basting and Spritzing — and What's Really Oozing Out of the Meat
+
+<!-- TECHNIQUE-TAGS: meathead, basting, spritzing, bark, stall, myoglobin, albumin -->
+**Tags:** `meathead` · `basting` · `spritzing` · `bark` · `stall` · `myoglobin` · `albumin`
+**Source:** **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecue and Grilling*** — the "Software" chapter, dictated by Cody. Reads alongside [§T33's stall section](t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth.md) and [§T36's myowater note](t36-what-meat-actually-is--composition-connective-tissue-and-buying-it-right.md).
+**Used in:** any long smoke where bark matters — [§6.7 Texas-Style Barbecued Brisket](67-texas-style-barbecued-brisket.md), [§6.8 Memphis-Style Beef Ribs](68-memphis-style-beef-ribs.md) — and every mop sauce in [§4](4-rubs-seasonings-sauces--condiments.md), including the new Meathead ones ([§4.119](4119-east-carolina-mop-sauce.md), [§4.121](4121-texas-mop-sauce.md)).
+
+> ⚠️ **Method corrected 2026-09-06 during the page-order audit of this book's 21-page scan — this entry had the source's central point backwards.** The earlier version stated that basting and spritzing "neither meaningfully slow the actual cook nor 'wash off' a rub." **The source says the opposite of both**, in its own bolded subheads on book pp. 60–61: **"WE ARE LENGTHENING COOKING TIME"** and **"WE ARE REMOVING FLAVOR."** The corrected version follows. This matters in practice: it's the difference between mopping freely and mopping deliberately.
+
+> ✅ **2026-09-07 second-pass QC against pp. 61–62 (basting) and the p. 58 sidebar (the ooze):** the 250°F / 203°F / 10-to-20-percent figures, the eight pros-and-cons subheads, the baste-after-flipping rule, and the 15-minute stop are all confirmed. **Corrected:** the salmon-and-burger sidebar had been rewritten from memory — the egg-white analogy, "a sign of nothing worse than a bit overcooked," and "mild heat keeps it from showing up" are not printed; the page's actual remedies (brine the salmon; wipe the ooze off with a paper towel or brush; paint the surface with an acidic wash) and its burger explanation (credited to Dr. Antonio Mata; the fluid is pink first, then gels and turns tan; perfectly safe) are restored. Oil on skin "can *sometimes* help" browning, per the page. The page's "smoke sticks better to wet surfaces, so basting makes food taste smokier" line is added. The thin-mop-versus-thick-sauce paragraph is now credited to the p. 178 mop-sauce headnote where it's actually printed, and an invented "pulled in as surface moisture evaporates" mechanism is struck.
+
+**What that white stuff on salmon and the pink-then-tan liquid on a burger actually are, per the p. 58 sidebar:** in salmon it's a group of proteins called **albumin**, pushed to the surface by heat-driven shrinkage of the flesh. **Brining the salmon helps minimize the white ooze**; it can also be wiped off with a paper towel or a brush; and painting the surface with a simple acidic wash — wine, mirin, or a glaze — is another good technique. On hamburgers, per food scientist Dr. Antonio Mata, the tan goop is **protein dissolved in water, mostly myoglobin** — not blood, exactly as [§T36](t36-what-meat-actually-is--composition-connective-tissue-and-buying-it-right.md) already busts. Grinding shears the plump muscle fibers open; as the burger cooks, protein and collagen shrink and squeeze the fluid out. It looks pink at first, then gels and turns tan. **It's perfectly safe to eat.**
+
+**Basting and spritzing are the ritual of standing at the grill with a brush, painting the food with a secret liquid** — the page's own framing — and it lists real pros and cons. *(Cookbook gloss on the two words: basting brushes a liquid on — mop sauce, melted fat, pan drippings; spritzing mists a thin liquid from a spray bottle, a lighter touch.)*
+
+**The source's own pros-and-cons list, as printed:**
+
+- **We are lengthening cooking time.** In low-and-slow cooking — cooker under 250°F, meat taken to an internal temperature of 203°F or so — **the extra moisture causes evaporative cooling on the meat's surface, which can increase the cooking time by 10 to 20 percent.** For grilled steaks, burgers, and chicken, spritzing, mopping, and basting have less effect on cooking time. *(Cookbook note: on an all-day smoke, plan for that.)*
+- **We are softening the crust.** The danger of basting is that it can hamper browning and crust formation. Chicken, turkey, and duck skin tastes best dark and crispy, and painting it with **water-based** bastes — even pan drippings or butter, which has water in it — wets the skin and makes it rubbery. **Painting skin with oil, however, can sometimes help browning and crisping, especially if the cooker is really hot.**
+- **We are removing flavor.** **Basting can wash off smoke, spices, and marinades. Do it too often and you can remove a significant amount of flavor.**
+- **We are adding flavor.** A **thicker** baste, like a Texas mop ([§4.121](4121-texas-mop-sauce.md)), can adhere to the surface and add more flavor than a thin mop of apple juice, beer, or wine.
+- **We are retarding browning.** Water on the surface has to steam off before the surface can brown.
+- **We are aiding browning.** Mops high in sugar, such as those made with apple juice, can caramelize and help brown the surface, adding new levels of complexity to the bark.
+- **We are attracting smoke.** Smoke is attracted to, and sticks better to, wet surfaces — so when we baste, we make the food taste smokier.
+- **We are helping the smoke ring.** Keeping the surface damp lets the nitric oxide and carbon monoxide in the smoke combine with the meat's myoglobin to create the smoke ring (see [§T35](t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke.md)).
+
+**When to baste, per the source: right *after* flipping, not right before.** The best time is after the crust forms, immediately after you turn the meat — the top surface is still hot and bubbly, the mop mixes with the meat's juices, the water evaporates and cools the surface, and the flavor is left behind. **If you baste and then flip immediately, you merely pour off the flavorings** — and you might actually retard the formation of the crust.
+
+> ⚠️ **Food safety — stop basting 15 minutes before serving.** All uncooked meat contains potentially hazardous microbes and spores. A brush can carry contaminated juices from the meat into the unused baste and back again, especially if that liquid was also used as a marinade. **Stopping 15 minutes out exposes any contaminated baste on the meat to enough heat to make it safe.** See also [§T50](t50-saucing-strategies--when-how-much-and-food-safety.md) on pouring off only what you need and discarding the rest.
+
+**Thin mop vs. thick sauce — from the p. 178 mop-sauce headnote, not this spread:** a thin, vinegary Carolina-style mop is *thin and penetrating, unlike thick Kansas City sauce*, so it can be used throughout the cook as a mop ([§4.119](4119-east-carolina-mop-sauce.md), [§4.120](4120-lexington-dip-west-carolina-barbecue-sauce.md)); a thick, sugary sauce like [§4.117](4117-kansas-city-classic-barbecue-sauce.md) is saved for the final minutes so its sugar doesn't scorch — see [§T50](t50-saucing-strategies--when-how-much-and-food-safety.md) for the printed timing.
+
+[↑ Table of Contents](../index.md)
+
+---

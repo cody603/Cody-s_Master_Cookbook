@@ -244,6 +244,89 @@ Click any recipe to jump straight to it.
   - [T26. Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) ✅
   - [T27. Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method)](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) ✅
   - [T28. Sous Vide Chicken (Cody's Method)](#t28-sous-vide-chicken-codys-method) ✅
+  - [T29. How to Salt](#t29-how-to-salt) ✅
+  - [T30. How to Use Fat](#t30-how-to-use-fat) ✅
+  - [T31. How to Use Acid](#t31-how-to-use-acid) ✅
+  - [T32. How to Use Heat](#t32-how-to-use-heat) ✅
+  - [T33. How Meat Actually Cooks — Conduction, Carryover, and Why Resting Is a Myth](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth) ✅
+  - [T34. Two-Zone Fire Setup](#t34-two-zone-fire-setup) ✅
+  - [T35. Smoke Science — Combustion, the Smoke Ring, and Getting Blue Smoke](#t35-smoke-science--combustion-the-smoke-ring-and-getting-blue-smoke) ✅
+  - [T36. What Meat Actually Is — Composition, Connective Tissue, and Buying It Right](#t36-what-meat-actually-is--composition-connective-tissue-and-buying-it-right) ✅
+  - [T37. Salt, Brining, and the Dry Brine — Cody's Standing Practice: Heavy, Every Time](#t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time) ✅
+  - [T38. Rubs, Injecting, and Marinades — How Deep Each One Actually Goes](#t38-rubs-injecting-and-marinades--how-deep-each-one-actually-goes) ✅
+  - [T39. Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd) ✅
+  - [T40. The Fat Cap — Trim or Not](#t40-the-fat-cap--trim-or-not) ✅
+  - [T41. Reverse Sear — Two-Stage Cooking](#t41-reverse-sear--two-stage-cooking) ✅
+  - [T42. What Controls Cooking Time](#t42-what-controls-cooking-time) ✅
+  - [T43. Faux Cambro — Holding Meat Hot for Hours](#t43-faux-cambro--holding-meat-hot-for-hours) ✅
+  - [T44. Food Safety — The Real Logic (and the Target Temperature Table)](#t44-food-safety--the-real-logic-and-the-target-temperature-table) ✅
+  - [T45. Bones — Do They Actually Add Flavor?](#t45-bones--do-they-actually-add-flavor) ✅
+  - [T46. Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers) ✅
+  - [T47. Cooking Vegetables and Fruits — and Reverse-Searing Them Too](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too) ✅
+  - [T48. Basting and Spritzing — and What's Really Oozing Out of the Meat](#t48-basting-and-spritzing--and-whats-really-oozing-out-of-the-meat) ✅
+  - [T49. "Lookin' Ain't Cookin'" — and Other Lid Myths](#t49-lookin-aint-cookin--and-other-lid-myths) ✅
+  - [T50. Saucing Strategies — When, How Much, and Food Safety](#t50-saucing-strategies--when-how-much-and-food-safety) ✅
+  - [T51. Cooking More Than One Large Piece of Meat at Once](#t51-cooking-more-than-one-large-piece-of-meat-at-once) ✅
+  - [T52. Water Pans and Drip Pans](#t52-water-pans-and-drip-pans) ✅
+  - [T53. The Science of a Good Rub — Three S's, No Salt in Rubs, and Storage](#t53-the-science-of-a-good-rub--three-ss-no-salt-in-rubs-and-storage) ✅
+  - [T54. Buying and Cooking Fish](#t54-buying-and-cooking-fish) ✅
+  - [T55. How to Fillet a Whole Fish](#t55-how-to-fillet-a-whole-fish) ✅
+  - [T56. Shrimp: Sizing, Deveining, and Brining](#t56-shrimp-sizing-deveining-and-brining) ✅
+  - [T57. Lobster: Choosing, Preparing, and Storing](#t57-lobster-choosing-preparing-and-storing) ✅
+  - [T58. The Different Cuts of Ribs](#t58-the-different-cuts-of-ribs) ✅
+  - [T59. Rib Anatomy and How to Skin & Trim Ribs](#t59-rib-anatomy-and-how-to-skin--trim-ribs) ✅
+  - [T60. Butt Basics — Brines, Injections, and Cooking Time for Pork Shoulder](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) ✅
+  - [T61. Leftover Pulled Pork — Storage and Reheating](#t61-leftover-pulled-pork--storage-and-reheating) ✅
+  - [T62. Types of Pork Chops](#t62-types-of-pork-chops) ✅
+  - [T63. Don't Stuff the Chop](#t63-dont-stuff-the-chop) ✅
+  - [T64. Hot-and-Fast Ribs (Dreamland Style) — the Philosophy](#t64-hot-and-fast-ribs-dreamland-style--the-philosophy) ✅
+  - [T65. Steaks — Grades, Cuts, and Matching Temperature to Thickness](#t65-steaks--grades-cuts-and-matching-temperature-to-thickness) ✅
+  - [T66. Prime Rib & Rib Roast — Ordering, Bones, and Carving](#t66-prime-rib--rib-roast--ordering-bones-and-carving) ✅
+  - [T67. Ban the V-Shaped Rack](#t67-ban-the-v-shaped-rack) ✅
+  - [T68. Beef Ribs — The Long and the Short of Them](#t68-beef-ribs--the-long-and-the-short-of-them) ✅
+  - [T69. Brisket Basics — Anatomy of a Whole Packer Brisket](#t69-brisket-basics--anatomy-of-a-whole-packer-brisket) ✅
+  - [T70. Slicing Brisket — The Easy Way vs. the Sorkin Way](#t70-slicing-brisket--the-easy-way-vs-the-sorkin-way) ✅
+  - [T71. Burnt Ends](#t71-burnt-ends) ✅
+  - [T72. Steaming Pastrami](#t72-steaming-pastrami) ✅
+  - [T73. Burger Basics — Fat Content, Grind, and Handling](#t73-burger-basics--fat-content-grind-and-handling) ✅
+  - [T74. Flavoring the Burger — Salting Timing and the Weight-Loss Test](#t74-flavoring-the-burger--salting-timing-and-the-weight-loss-test) ✅
+  - [T75. Regional Hot Dogs — A Cross-Country Survey](#t75-regional-hot-dogs--a-cross-country-survey) ✅
+  - [T76. Cooking Sausages — Precooked vs. Raw, Temperature Targets](#t76-cooking-sausages--precooked-vs-raw-temperature-targets) ✅
+  - [T77. Tips on Cooking Poultry](#t77-tips-on-cooking-poultry) ✅
+  - [T78. Myth — Beer Can Chicken Is the Best Way to Cook a Bird](#t78-myth--beer-can-chicken-is-the-best-way-to-cook-a-bird) ✅
+  - [T79. Anatomy of a Chicken Wing](#t79-anatomy-of-a-chicken-wing) ✅
+  - [T80. Choosing Your Turkey](#t80-choosing-your-turkey) ✅
+  - [T81. Cooking the Perfect Turkey](#t81-cooking-the-perfect-turkey) ✅
+  - [T82. How to Carve a Turkey](#t82-how-to-carve-a-turkey) ✅
+  - [T83. About Balsamic — Grades and Buying](#t83-about-balsamic--grades-and-buying) ✅
+  - [T84. Salsa Math — The Herb Salsa Formula](#t84-salsa-math--the-herb-salsa-formula) ✅
+  - [T85. Cooking Onions — Blond, Browned, Caramelized](#t85-cooking-onions--blond-browned-caramelized) ✅
+  - [T86. Three Ways to Cook Grains (and Quinoa)](#t86-three-ways-to-cook-grains-and-quinoa) ✅
+  - [T87. Stock — Saving Scraps for the Pot](#t87-stock--saving-scraps-for-the-pot) ✅
+  - [T88. Braise — The Six-Step Method](#t88-braise--the-six-step-method) ✅
+  - [T89. Butter-and-Flour Doughs — Weighing, Retaining Creaminess, and Breaking an Emulsion](#t89-butter-and-flour-doughs--weighing-retaining-creaminess-and-breaking-an-emulsion) ✅
+  - [T90. The Five S's of a Rub, Sugar Wariness, and No Salt (The Meathead Method)](#t90-the-five-ss-of-a-rub-sugar-wariness-and-no-salt-the-meathead-method) ✅
+  - [T91. How to Use Rubs — Application Order, Storage, and Plastic Wrap (The Meathead Method)](#t91-how-to-use-rubs--application-order-storage-and-plastic-wrap-the-meathead-method) ✅
+  - [T92. Beef Grading Beyond Prime and Choice — Angus, Wagyu, and Grass-Fed Terms (The Meathead Method)](#t92-beef-grading-beyond-prime-and-choice--angus-wagyu-and-grass-fed-terms-the-meathead-method) ✅
+  - [T93. Aging Beef and Label Claims — Wet-Aging, Dry-Aging, and What "Organic" Actually Means (The Meathead Method)](#t93-aging-beef-and-label-claims--wet-aging-dry-aging-and-what-organic-actually-means-the-meathead-method) ✅
+  - [T94. Buying Pork and the Whole-Hog Cut Map (The Meathead Method)](#t94-buying-pork-and-the-whole-hog-cut-map-the-meathead-method) ✅
+  - [T95. Cutting Up a Chicken — Halves, Quarters, Eight (or Ten) Pieces, and Carving a Whole Bird (The Meathead Method)](#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method) ✅
+  - [T96. Coating the Chicken — Dredges, Batters, and Why Baking Powder Works (The Meathead Method)](#t96-coating-the-chicken--dredges-batters-and-why-baking-powder-works-the-meathead-method) ✅
+  - [T97. Myth — Truss Poultry Legs (The Meathead Method)](#t97-myth--truss-poultry-legs-the-meathead-method) ✅
+  - [T98. For French Fries — The Double-Fry, Pickle-Brine Method (The Meathead Method)](#t98-for-french-fries--the-double-fry-pickle-brine-method-the-meathead-method) ✅
+  - [T99. The "Warp" Heat Scale (The Meathead Method)](#t99-the-warp-heat-scale-the-meathead-method) ✅
+  - [T100. Mushroom Varieties, Buying, Storing, and Drying (The Meathead Method)](#t100-mushroom-varieties-buying-storing-and-drying-the-meathead-method) ✅
+  - [T101. Buying Scallops — Bay, Sea, Diver, Day-Boat, Wet, and Dry (The Meathead Method)](#t101-buying-scallops--bay-sea-diver-day-boat-wet-and-dry-the-meathead-method) ✅
+  - [T102. Basic Ingredient Notes — Eggs, Flour, Fruits & Vegetables, Mayonnaise, Milk, Room Temperature, and a Cooking Diary (The Meathead Method)](#t102-basic-ingredient-notes--eggs-flour-fruits--vegetables-mayonnaise-milk-room-temperature-and-a-cooking-diary-the-meathead-method) ✅
+  - [T103. Pepper Grinds Make a Difference (The Meathead Method)](#t103-pepper-grinds-make-a-difference-the-meathead-method) ✅
+  - [T104. Herbs and Spices — Buying, Storing, Blooming, and Peppercorn Colors (The Meathead Method)](#t104-herbs-and-spices--buying-storing-blooming-and-peppercorn-colors-the-meathead-method) ✅
+  - [T105. Chiles, Chipotles in Adobo, and Paprika (The Meathead Method)](#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method) ✅
+  - [T106. Salts, Stocks & Broths, Sugars, Vinegars, Wine/Beer/Spirits, and Zest — Pantry Reference (The Meathead Method)](#t106-salts-stocks--broths-sugars-vinegars-winebeerspirits-and-zest--pantry-reference-the-meathead-method) ✅
+  - [T107. Grilling and Smoking Cheese (a Meathead Method Technique)](#t107-grilling-and-smoking-cheese-a-meathead-method-technique) ✅
+  - [T108. Make Your Own Pepper Flakes, Powders, and Smoked Paprika (The Meathead Method)](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method) ✅
+  - [T109. Indirect Heat — Putting Something Between the Fire and the Food](#t109-indirect-heat--putting-something-between-the-fire-and-the-food) ✅
+  - [T110. Meal Planning Sheet — Rules and Conventions](#t110-meal-planning-sheet--rules-and-conventions) ✅
+  - [T111. Planning a Week — the Conversation-Mode Workflow](#t111-planning-a-week--the-conversation-mode-workflow) ✅
 - [12. Recipes To Document](#12-recipes-to-document)
 - [13. Meathead Cookbook](#13-meathead-cookbook) ○ *(new source, nothing photographed yet)*
 
@@ -14645,6 +14728,7 @@ Every technique that spans more than one dish lives here, once, and recipes poin
 | [T108](#t108-make-your-own-pepper-flakes-powders-and-smoked-paprika-the-meathead-method) | Make Your Own Pepper Flakes, Powders, and Smoked Paprika (The Meathead Method) | `meathead` `meathead-method` `chiles` `pepper-flakes` `chile-powder` `paprika` `smoked-paprika` `chipotle` `ancho` `dehydrating` `cayenne` |
 | [T109](#t109-indirect-heat--putting-something-between-the-fire-and-the-food) | Indirect Heat — Putting Something Between the Fire and the Food | `cody` `indirect-heat` `direct-heat` `two-zone` `conveggtor` `plate-setter` `big-green-egg` `kamado` `convection` `radiant-heat` `drip-pan` `water-pan` `flare-ups` `grilling` `smoking` |
 | [T110](#t110-meal-planning-sheet--rules-and-conventions) | Meal Planning Sheet — Rules and Conventions | `cody` `meal-planning-sheet` `planning` `staples` `difficulty-circle` `maintenance-time` `hands-on-time` `outdoor-marker` `sort-order` `sauces-block` `rubs-block` |
+| [T111](#t111-planning-a-week--the-conversation-mode-workflow) | Planning a Week — the Conversation-Mode Workflow | `cody` `meal-planning-sheet` `planning` `weekly-plan` `grocery-list` `calendar` `countdown` `leftovers` `conversation-mode` |
 
 ---
 
@@ -20171,6 +20255,109 @@ Their own block, because they aren't a main and they aren't a side — they're w
 [↑ Table of Contents](#table-of-contents)
 
 ---
+
+
+---
+
+### T111. Planning a Week — the Conversation-Mode Workflow
+
+<!-- TECHNIQUE-TAGS: cody, meal-planning-sheet, planning, weekly-plan, grocery-list, calendar, countdown, leftovers, conversation-mode -->
+**Tags:** `cody` · `meal-planning-sheet` · `planning` · `weekly-plan` · `grocery-list` · `calendar` · `countdown` · `leftovers` · `conversation-mode`
+**Source:** Cody's own description of how he wants to use the cookbook, dictated 2026-09-09. Not a cooking technique; the procedure a chat session follows when he plans a week off the [Meal Planning Sheet](#meal-planning-sheet).
+**Used by:** the *master-cookbook* skill in regular Claude chat (voice or text). Code sessions keep the book; chat sessions run the week — see [CLAUDE.md §7](CLAUDE.md).
+
+**What he asked for, in his words:** *"I'll trigger the cookbook skill, and then I'll speak into it and say, Monday, we're having dinner at seven. I would like to have pulled pork. Tuesday, we're having street tacos — I'd have the leftover pulled pork with the street tacos. Wednesday, we're having X Y Z. And then, in the calendar, I'd like you to put events: when I need to start prepping, when I need to start sous vide-ing, and when I need to dry brine the day before. All of those things need to be taken into consideration, and I want it happening exactly like that."* The four deliverables he named, in the order he named them: **the grocery list to his phone, the calendar events, one document with every cooking instruction for the week, and then live questions while he cooks.**
+
+#### 0. Where the chat reads from — and why it is not the master file
+
+The master file is over 4 MB. A chat session fetching it from GitHub gets the front matter and nothing else — the [Meal Planning Sheet](#meal-planning-sheet) starts 180 KB in and the first recipe 230 KB in. **So the chat never fetches `codys-cookbook.md` directly.** It reads the generated `planner/` folder in the same repo, which is the master split one entry per file and rebuilt after every change (it is a derived view, never edited by hand — the master stays the single source of truth per [CLAUDE.md §1–§2](CLAUDE.md)):
+
+- `planner/meal-planning-sheet.md` — the fridge sheet. **Fetch this first, every time.**
+- `planner/staples.md` — every ⭐ Staple with its badge and its **⏰ Countdown to dinner** line.
+- `planner/index.md` — every entry on one line, for looking a dish up by name.
+- `planner/recipes/<anchor>.md` — the full entry. The anchor is the one the sheet links to.
+
+Raw URL pattern: `https://raw.githubusercontent.com/cody603/Cody-s_Master_Cookbook/main/planner/<path>`. Always the live copy; never memory, never an old paste.
+
+#### 1. Take the week down
+
+He gives it by voice, loosely: a day, a dinner time, a dish — sometimes a side, sometimes "leftovers." Write it back as a table before doing anything else, so a misheard dish is caught first:
+
+| Day | Dinner at | Main | Sides | Notes |
+|---|---|---|---|---|
+| Mon | 7:00 pm | [§6.9 Cody's Pulled Pork Sandwiches](#69-codys-pulled-pork) | Southern Fauxtato Salad | make enough pork for Tue |
+| Tue | 7:00 pm | [§7.1 Cody's Pulled Pork Street Tacos](#71-pulled-pork-tacos) *(from leftover pork)* | — | leftover from Mon |
+
+Rules for resolving what he said:
+- **Match every dish to a sheet line, and take the link from the sheet.** "Street tacos" is [§7.1](#71-pulled-pork-tacos); "pulled pork" on its own is [§6.9 Cody's](#69-codys-pulled-pork) unless he names another; "sous vide chicken" is [§T28](#t28-sous-vide-chicken-codys-method); "Darcy's steak" is the reverse sear in [§3](#3-darcys-steak). When a name could be two lines (four pulled porks, three crawfish bisques), ask — one question, with the candidates named.
+- **No dinner time given → ask once, then assume 7:00 pm** and say so in the table.
+- **A dish with 🍽️ is the whole meal**; do not add a side unless he names one.
+- **"Leftovers" resolves through the 🍱 Leftovers group** on the sheet, and the source dish must be on an earlier day. If it is not, say so and offer to add it.
+- **Do not add dishes he did not name.** Suggestions are fine when asked; the plan is his.
+
+#### 2. Deliverable one — the grocery list, to his phone
+
+Pull each chosen recipe file and take its **C. Grocery Shopping List** exactly as printed — those lists are kept authoritative per [CLAUDE.md §3](CLAUDE.md). Then merge:
+
+- **Group by store prefix** — **HK** first, then **GEN**, with any store named in parentheses kept on the line (`GEN Fig jam (Trader Joe's)`).
+- **Combine like items across the week** and sum quantities where the units match; where they do not, list both (`2 lb + 1 bunch`).
+- **Leftover days add nothing for the dish they reuse.** Tuesday's tacos from Monday's pork put cilantro, onion, lime, and tortillas on the list — not a second pork butt. Monday's line gets a note: *make enough for Tuesday.*
+- **[§4.108 Memphis Dust](#4108-meatheads-memphis-dust) is skipped** — he keeps a standing stash, per [CLAUDE.md §6](CLAUDE.md). The rest of the ⭐ Staple Rubs ([§4.105 Dalmatian](#4105-dalmatian-rub), [§4.1 Darcy's](#41-darcys-steak-rub), [§4.7 Captain Mike's](#47-captain-mikes-seasoning), [§4.87 Cavender's](#487-cavenders-all-purpose-greek-seasoning-store-bought), [§4.88 Vegeta](#488-vegeta-store-bought-croatian-all-purpose-seasoning), [§4.197 Lawry's](#4197-lawrys-seasoned-salt-store-bought)) go on as *check the pantry* lines, not as buys.
+- **Insta-light briquettes and wood** go on whenever a ♨︎ dish is in the week — his own rule on [§3](#3-darcys-steak) and [§T27](#t27-sous-vide-not-so-premium-steak-cuts-codys-method): *"we've gotta have plenty."*
+- **Fresh seafood bought in Missouri gets the [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) egg soak** — add the eggs.
+
+Then push it to his phone as a Reminders list (that integration lives in chat, not in a Code session — [CLAUDE.md §7](CLAUDE.md)), one item per line, store prefix kept so he can shop it in order.
+
+#### 3. Deliverable two — the calendar events
+
+Every ⭐ Staple recipe carries a **⏰ Countdown to dinner** line under its badge, derived from its own steps: stages in reverse order, each with a **T−** offset back from the moment food hits the table. **The calendar is that line, subtracted from the dinner time he gave.** For a 7:00 pm Monday dinner and a countdown reading `T−1 day dry brine · T−5 hr light the smoker, bird on · T−30 min rest and carve`:
+
+| Event | When | Title |
+|---|---|---|
+| dry brine | Sun 7:00 pm | **Mon dinner — dry brine the turkey (§6.11)** |
+| smoker | Mon 2:00 pm | **Mon dinner — light the smoker, bird on at 225°F (§6.11)** |
+| rest | Mon 6:30 pm | **Mon dinner — pull, rest, carve (§6.11)** |
+| dinner | Mon 7:00 pm | **Dinner: Tony Chachere's Smoked Turkey + sides** |
+
+Rules:
+- **One event per stage, plus the dinner itself.** Title = day, the stage in the recipe's own words, the § number. Put the recipe's raw-file link and the stage's step text in the event body so the event is usable from the phone without the document.
+- **A range offset (T−4 to 6 hr) is placed at the early end** — being early costs nothing, being late costs dinner.
+- **Multi-day stages land on the earlier day at the same clock time as dinner** (T−2 days for a 7:00 pm Wednesday dinner is 7:00 pm Monday). If that collides with another day's cooking, say so and move it earlier, never later.
+- **Sides with a countdown of "T−N min start" fold into the main's last prep event** — one event, *"start the sides,"* not five.
+- **A recipe with no countdown line** (anything that is not a ⭐ Staple) gets its events from the badge — Prep + Cook back from dinner, Slow cook before that, any marinating or brining lead time the entry states before that — and the event title says *(from the badge, not a countdown line)* so he knows it is the coarser read.
+- **Leftover days get one event: the dinner, with the "warm and build" minutes as the start.** Nothing outdoors — *"all leftovers does not need the grill."*
+- **Ask before writing to the calendar the first time in a session; after that, write and report.** Show the whole event table before creating anything.
+
+#### 4. Deliverable three — the week's cooking document
+
+One document, Monday through Saturday (or whatever days he named), in day order. For each day:
+
+1. **The day header:** day, dinner time, the main and sides, the countdown line(s) for that day.
+2. **Each recipe's A. Ingredients and B. Cooking Instructions, verbatim from its `planner/recipes/` file** — bold steps, detail paragraphs, timers, warnings, all of it. No paraphrase, no shortening: the whole point of the document is that it says what the cookbook says.
+3. **The leftover day cross-references its source** (*"the pork is Monday's §6.9 — see above"*) instead of repeating the source recipe.
+4. **Sauces the line names in parentheses** (the [§7.151](#7151-sous-vide-chicken-thighs-for-the-family-seared) sauce picks, the [§7.61](#761-broiled-fish) fish sauces) are included in full for whichever one he chose.
+
+Deliver it as a downloadable document (Word if he asks for Word; otherwise markdown or PDF) **and offer to send it through Gmail** in the same turn. The grocery list from §2 goes at the top of the same document as a backup to the phone list.
+
+#### 5. Deliverable four — cooking with the document open
+
+He will read the document and talk at the same time. The rules for that conversation:
+
+- **Answer from the recipe file, not from memory.** Fetch `planner/recipes/<anchor>.md` for the dish he is on and quote the step. If he asks something the entry does not say, say that, and give the cookbook's nearest reference ([§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table) for temperatures, [§T1](#t1-how-to-make-a-roux) for roux, [§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) for the soak) rather than a guess.
+- **Temperatures are Fahrenheit** unless the entry prints otherwise — [CLAUDE.md §6](CLAUDE.md).
+- **Doneness and safety answers cite the entry's own figure** and, where the entry is silent, USDA FSIS — never a rounder number from memory.
+- **If he changes something while cooking** (*"I added another teaspoon of hot sauce"*), write it down as a revision to make in the master file, with the date, and remind him at the end. Chat does not edit the book; the next Code session does, per [CLAUDE.md §4](CLAUDE.md).
+
+#### 6. What can go wrong, and the check for each
+
+| Failure | Check |
+|---|---|
+| The chat read an old copy of the book | Every fetch is the raw GitHub URL of a `planner/` file; the file's first line says which anchor it was generated from |
+| A dish matched the wrong line | The plan table in §1 is read back before anything is built |
+| A calendar event lands after dinner | Every offset is subtracted, never added; ranges go early; the event table is shown before it is written |
+| The grocery list double-buys a leftover's source | Leftover rows add only their own build ingredients |
+| The instructions were paraphrased | Section B is pasted from the file, not retyped |
+| `planner/` is stale | It is rebuilt (`python3 tools/build_planner.py`) in the same commit as every master-file change; if a recipe he names is missing there, the next Code session rebuilds it |
 
 # Placeholder Sections (§5–§11)
 

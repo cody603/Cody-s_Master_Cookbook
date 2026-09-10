@@ -1,0 +1,29 @@
+<!-- GENERATED from codys-cookbook.md#t95-cutting-up-a-chicken--halves-quarters-eight-or-ten-pieces-and-carving-a-whole-bird-the-meathead-method — do not edit here; edit the master file and rerun tools/build_planner.py -->
+[↑ Meal Planning Sheet](../meal-planning-sheet.md) · [Index](../index.md)
+
+### T95. Cutting Up a Chicken — Halves, Quarters, Eight (or Ten) Pieces, and Carving a Whole Bird (The Meathead Method)
+
+<!-- TECHNIQUE-TAGS: meathead, meathead-method, chicken, poultry, butchery, halving, quartering, carving, ten-pieces -->
+**Tags:** `meathead` · `meathead-method` · `chicken` · `poultry` · `butchery` · `halving` · `quartering` · `carving` · `ten-pieces`
+**Source:** **Meathead Goldwyn**, ***The Meathead Method*** — the "Chicken and Turkey" chapter (book p. 262–264), picking up right after the chapter's spatchcocking discussion with a fuller breakdown-and-carving guide. A different book from [§T77](t77-tips-on-cooking-poultry.md)/[§T82](t82-how-to-carve-a-turkey.md)'s source; see [§13](13-meathead-cookbook.md).
+**Used in:** [§7.138 Real Fried Chicken on a Gas Grill](7138-real-fried-chicken-on-a-gas-grill-its-safe.md) (the 10-piece cut), [§7.140 Tandoori Chicken](7140-tandoori-chicken.md) (the no-rotisserie option), and any recipe calling for a chicken cut into parts.
+
+This is the fuller, step-by-step version of what [§T77 Tips on Cooking Poultry](t77-tips-on-cooking-poultry.md) already covers at a summary level ("breaking down the bird," "halving the bird") — cross-referenced rather than repeated where the two overlap.
+
+**Halving.** After spatchcocking (removing the backbone and flattening the bird — already covered at [§T77](t77-tips-on-cooking-poultry.md)), flip the bird back over and cut between the two breast lobes along one side of the keel bone. That gives two halves — a generous single serving each for a hungry person.
+
+**Quartering.** The page's reason: on a spatchcocked or halved bird the thighs are only loosely connected, and when you move or flip it during cooking the legs tear off anyway — so remove them before they fall off. That's four parts. Quartering is also the best way to make sure dark-meat and white-meat eaters each get what they want, and the author's pick for the best chance of cooking every piece perfectly: with four parts you can check each with an instant-read thermometer and move it closer to or farther from the heat as needed. You'll be surprised how differently two identical legs cook.
+
+**Eight or ten pieces — the method the author recommends most often.** Done right, every piece comes out tender, juicy, browned all over, and cooked to its own perfection — impossible on a whole or even spatchcocked bird — and there's no wrestling a hot whole bird at carving time.
+
+- **First, after quartering, remove the wings.** Their charm is skin that crisps, but they're so thin they burn easily while still attached to the breast. The shoulder joint is buried in the breast, so grab the wing by the drumette near where it joins the body and wiggle it aggressively until the ball and socket pops; then a knife goes into the joint easily and cuts through the meat and skin. Cook wings alongside the other pieces, but pull them from the heat sooner — or add them after the thighs and breasts have cooked about **15 minutes**. Or freeze them and make a meal of wings once you've saved up a batch.
+- **Then separate the drumsticks from the thighs.** Turn each leg skin side down and you'll see a seam of fat running right where the joint is. Follow that seam with your knife, just a bit toward the drumstick side, and you should hit the knee joint. If you're having trouble, grab both parts and bend until the joint pops, then finish with the knife. **That's 8 pieces.**
+- **Ten pieces, for deep-frying.** When deep-frying, all the pieces need to be about the same size so they finish at the same time — so cut each breast in half, chopping right through the rib cage, so each half is about the size of a thigh. **That's 10 pieces.** See [§7.138 Real Fried Chicken on a Gas Grill](7138-real-fried-chicken-on-a-gas-grill-its-safe.md) for this cut in use.
+
+**Carving a whole cooked bird** (if you must cook it whole or spatchcocked). Set the bird on a cutting board wings and thighs down, breasts up. Bend the thighs until you see the hip joint and cut the two bones apart to remove the legs. Locate the keel bone down the center of the breast, place a filleting knife on one side of it, and draw it across the skin and downward a few times until you strike the ribs; turn the blade slightly outward and slide it along the ribs until the whole breast lobe falls off. Repeat on the other side. Cut each lobe into ½-inch slices across the grain so every slice has some skin. Roll the carcass on its side, bend the wing back until you see the shoulder joint, and cut through it; repeat on the other side. Flip the bird upside down and feel along the backbone near where the hip joints were — two little hunks of succulent meat, one either side of the backbone, called the "oysters" because they're about the size of an oyster's meat (the same treat [§T82 How to Carve a Turkey](t82-how-to-carve-a-turkey.md) calls out on a turkey). Make sure nobody's watching, then eat them — you earned it. Break the remaining carcass into pieces and set it aside for stock.
+
+✅ 2026-09-07 second-pass QC against p. 262–264: halving, the fat-seam/knee-joint drumstick split, ½-inch breast slices, and the oysters all verified. Fixed: the wing-removal step (drumette wiggle, shoulder joint buried in the breast, pull wings early or add after ~15 min) was missing entirely; the ten-piece cut had been described as two cuts per breast — the page makes one cut through the rib cage per breast; quartering's printed reason (legs tear off a spatchcocked bird) restored; wing removal at carving is "roll on its side," not flip; "pop them out with a spoon" was invented.
+
+[↑ Table of Contents](../index.md)
+
+---

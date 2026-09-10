@@ -1653,6 +1653,8 @@ Cody's own method, taken down from his walkthrough. A salty, five-spice-forward 
 
 **🟢 Easy** · **Prep ~2 hr** · **Cook ~20 min** · **Slow cook ~5 hr + 36 hr** *(broth simmer, plus sous vide — 36 hr is the house standard; 24–48 hr is the allowable window)* · **Start to finish 2 days** *(the chuck goes in the water bath a day and a half ahead — plan backward from dinner)*
 
+**⏰ Countdown to dinner:** T−1½ days (37 hr) cut and season the chuck — salt, garlic powder, pepper only — bag, into the bath at 131–133°F for 36 hr (24–48 hr window) · T−6 hr broth day: hot pan, thin film of oil, caramelize the onions with garlic and ginger 20 min, five spice on while they cook, both broths, more five spice, all the oxtail, fish sauce, oyster sauce, rice vinegar, a small handful of basil and mint, umami · T−5½ hr simmer 4 hr; build the fresh station while it goes · T−1½ hr to 30 min pull the oxtail at 4–5 hr — broth can keep going, beef cannot · T−1 hr beef out of the bath, ice bath, then the fridge · T−30 min slice paper-thin against the grain; noodles on · T−0 noodles, onion strands, raw beef in the bowl, boiling broth over, everything else at the table.
+
 **❤️ Family favorite** — *Cody: "Love it."*
 
 > **Easy, but long — it's a distance run, not a technical climb.** Nothing here can catastrophically fail on you: no roux, no emulsion, no step that goes from perfect to ruined in ten seconds. What it asks for is *stamina and planning* — two days of lead time and about two hours of knife work. Don't let the 🟢 fool you into starting it at 5pm, and don't let the length scare you off; every individual step is straightforward.
@@ -24331,6 +24333,8 @@ Smoker work shares a lot of DNA across cuts — rub, wood, target internal temp,
 
 **🟢 Easy** · **Prep ~15 min** *(the salting the night before, then the pepper the next day)* · **Slow cook ~12–14 hr** *(225°F indirect, unattended — plus about an hour for the pit to settle **before** the meat goes on)* · **Start to finish ~1½ days** *(includes the overnight dry brine, and a rest after — see Step 6)*
 
+**⏰ Countdown to dinner:** T−1½ days (the night before) salt it heavy, plain kosher, into the fridge overnight — nothing salted goes on after this · T−15 to 17 hr (the morning of) coarse black pepper over everything; fire the pit to 225°F indirect and let it settle a full hour · T−14 to 16 hr a palmful of pecan, wait for thin blue smoke, brisket on with the leave-in probe — 12–14 hr (cookbook figure from [§7.112](#7112-texas-beef-brisket), labelled in the entry); at about 165°F wrap tight in foil, or don't · at 203°F off and into the cooler, no ice · T−10 min slice across the grain as you serve · *(offsets count a 2 hr cooler rest — §7.112's at-least-2-hr hold, chosen here because Cody's own brisket rest is not stated; see Open Questions)*.
+
 > **Why this is 🟢 Easy, and it's the same call as [§7.112](#7112-texas-beef-brisket).** [CLAUDE.md §3a](CLAUDE.md)'s test is the only one that counts: *can a step go from perfect to ruined?* **Walk it.** Salting a brisket and putting it in the fridge can't fail. Grinding pepper on it can't fail. Bringing a pit to 225°F and letting it settle an hour can't fail — that hour exists precisely so nothing has to be rushed. The twelve hours that follow are the smoker's work, and the stall, which is the longest and most maddening stretch, tests patience and nothing else. Wrapping or not wrapping is a **choice with a tradeoff**, not a step you can botch. **Nothing here has a one-minute window.** *(Contrast with the actual 🔴 cases in this book — a dark roux, where a minute of inattention means starting over.)* **Long is not hard**: twelve hours of hands-off smoke is exactly what the Slow cook field is for, and per [§1 Cody's Pho](#1-codys-pho) — *it's a long distance run* — length never inflates a rating here. **The two ways to actually ruin this brisket are both decisions made before the fire is lit:** salting it twice (the warning above) and buying a trimmed, fatless brisket ([§6.7](#67-texas-style-barbecued-brisket) is blunt about that one). Shopping mistakes, not technique failures.
 
 > ⏱️ **The honest limitation, in his own words — and it's why there's a second brisket recipe.** Cody's stated objection to this method is not the flavor and not the difficulty. It's that **with a straight smoke, he has no control over when it gets done.** A brisket comes off at a temperature, not at a time ([§T42 What Controls Cooking Time](#t42-what-controls-cooking-time) — thickness, not weight, drives it), the stall can add hours nobody predicted, and if dinner is at seven the brisket does not care. A [faux Cambro](#t43-faux-cambro--holding-meat-hot-for-hours) absorbs *some* of that, but only in one direction: it can hold a brisket that finished early, and it can do nothing at all about one that finishes late. **[§6.10 Sous Vide Brisket (Richie's Method)](#610-sous-vide-brisket-richies-method) is his answer to exactly this problem** — two days in a bath at a fixed temperature, then a chill, then a scheduled four-hour smoke, so the finish lands when he wants it to. **This entry buys the better bark; that one buys the schedule.** Both are his and neither replaces the other.
@@ -24999,6 +25003,8 @@ Cody has tried all three and says all three work really well, so pick by conveni
 
 **🟢 Easy** · **Prep ~30 min** *(separating the point and flat, seasoning, buttering and bagging)* · **Cook ~20 min** *(the hot browning at the end — getting the Egg roaring, then turning it about a minute at a time)* · **Slow cook 2 days + ~4 hr** *(48 hr in the water bath at 150°F, then a 4 hr smoke at 225°F — both hands-off)* · **Start to finish ~3 days** *(includes an overnight chill in an ice chest between the bath and the smoke)*
 
+**⏰ Countdown to dinner:** T−3 days separate the point from the flat, cut to fit the bags across the grain, [§4.195 smoked salt](#4195-codys-smoked-salt) heavier than feels right, a whole bunch of pepper, butter in the bag, vacuum as hard as it pulls, into the 150°F bath — 48 hr straight · T−1 day out of the bath, bags unopened into an ice chest full of ice, overnight · T−4 hr 50 min light the smoker, 225°F, a palmful of pecan, wait for thin blue smoke · T−4 hr 20 min cold brisket on — about 4 hr for bark · T−20 min Egg opened up roaring hot: a hot browning, not a sear, turning about every minute until the outside is chewy; bag juice warming in a pan · T−0 slice across the grain, spoon the juice over as you cut.
+
 **❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **Why 🟢 Easy — and why this one was Easy even while [§3 Darcy's Steak](#3-darcys-steak) sat at 🟡** *(it is 🟢 too since 2026-09-09, on Cody's call — the difference below still describes the physics)*. [CLAUDE.md §3a](CLAUDE.md)'s test: *can a step go from perfect to ruined?* **Cody answers it himself — *"you never mess it up"* — and walking the steps confirms it.** Two days in a 150°F bath cannot fail; that's the most forgiving stretch of cooking in this book. An overnight in an ice chest cannot fail. A four-hour smoke at 225°F on already-cooked meat cannot fail. **That leaves the hot browning, and it is genuinely lower-risk than a steak sear**, which is the distinction worth drawing: [§3 Darcy's Steak](#3-darcys-steak) rated 🟡 because **there is doneness left to lose there** — a few seconds too long over a chimney pushes a medium-rare steak past medium rare with no way back. **A brisket that has been at 150°F for two days has no doneness left to lose.** It cannot be overcooked into the wrong doneness; the only thing you can hurt is the crust, by walking away and letting it char — and Cody's own instruction, *turn it about every minute*, is exactly the guard against that. That's a **don't-walk-away caution, not a technique risk.** **And the elapsed time — three days — is Slow cook and lead time, which per [§1 Cody's Pho](#1-codys-pho) never inflates a rating.** Three days of waiting, about fifty minutes of work.
@@ -25184,6 +25190,8 @@ Pile them on a cutting board and serve with **your favorite barbecue sauce on th
 
 **🟢 Easy** · **Prep ~45 min** *(the night before: unbagging, injecting, rubbing, and onto the stand, ~30 min; the day of: probe, wood, on and off the Egg, ~15 min)* · **Slow cook ~2½–3½ hr** *(325°F indirect on the Egg, by weight — roughly 12 minutes a pound, on the probe not the clock)* · **Start to finish ~1 day** *(includes the overnight dry brine; add 24 hr per 4 lb to thaw a frozen bird, per [§T80](#t80-choosing-your-turkey))*
 
+**⏰ Countdown to dinner:** T−1 day (the night before; thaw a frozen bird first, 24 hr per 4 lb) unbag, giblets out, pat dry; inject a whole bunch of the Creole Butter all over; Tony's Original liberally, no salt; onto the stand upright, uncovered in the fridge overnight · T−3¼ to 4¼ hr light the Egg, 325°F indirect, convEGGtor in, drip pan, a palmful of pecan or hickory, wait for blue smoke and let it settle · T−2¾ to 3¾ hr bird on its stand, probe in the breast, dome down and left alone — about 12 min a pound (~2 hr 50 min for 14 lb) · T−15 min off at 160°F in the breast, at the very most; off the stand, carve right away, no tent · T−0 board juices spooned over.
+
 > **Why 🟢 Easy — and why [§7.122](#7122-the-ultimate-smoked-turkey) is 🟡 and this isn't.** [CLAUDE.md §3a](CLAUDE.md)'s test: *can a step go from perfect to ruined?* Walk it. Injecting can't fail. Rubbing can't fail. A night on a stand in the fridge can't fail. Bringing an Egg to 325°F and waiting for blue smoke can't fail. **The one thing that can go wrong with a turkey — overshooting the breast — is a pull-at-a-number, not a technique**, and with a leave-in probe and his 160°F rule it's the same kind of step as [§6.1](#61-smoked-brisket)'s 165°F wrap point, which is 🟢. [§7.122](#7122-the-ultimate-smoked-turkey) earned its 🟡 for two things this recipe doesn't have: a pan-drippings gravy that can scorch, and a mid-cook handoff of a screaming-hot 15-pound bird off the grate and back on. **Here the bird goes on once, stays on its stand, and comes off once.** The hours in between are the Egg's, and per [§1 Cody's Pho](#1-codys-pho) hours never inflate a rating. *(The prep figure is the cookbook's — he gave no time for this bird; his figure for the Meathead one was 45.)*
 
 #### A. Ingredients
@@ -25283,6 +25291,8 @@ Lift the bird **on its stand** straight from the sheet pan onto the grate, over 
 **Serves 8 from one roast** *(about 4 lb; two or three roasts if you're batching for [§1](#1-codys-pho))*
 
 **🟢 Easy** · **Prep ~30 min** *(trimming, salting, bagging — the night it goes in; twice that if you bag three)* · **Cook ~15 min** *(lighting the smoker, on, off — the pit's four hours are not yours)* · **Slow cook 2 days + ~4 hr** *(48 hr in the bath, then a 4 hr smoke at 225°F, both hands-off)* · **Start to finish ~3½ days** *(includes a full day on ice between the two)*
+
+**⏰ Countdown to dinner:** T−3½ days salt — all of it, 1 tsp per lb — garlic powder and pepper; bag, vacuum hard, into the bath for 48 hr (131°F as printed in Step 2, his 129°F beside it — see the ⚠️ note) · T−1½ days out of the bath, bag unopened, into an ice chest full of ice for a day · T−4 hr 45 min light the smoker, 225°F indirect, a palmful of pecan, wait for thin blue smoke · T−4 hr 15 min bag open over a bowl (save the juice), pat dry, your rub on, roast on — about 4 hr for bark, don't open the lid · T−15 min off, slice each section across its own grain, warm the bag juice and spoon it over — no long rest · T−0 serve.
 
 > **Why 🟢 Easy — in his words, *"really, really easy."*** [CLAUDE.md §3a](CLAUDE.md)'s test: *can a step go from perfect to ruined?* Walk it. Salting cannot fail. Bagging cannot fail. Two days in a bath cannot fail — it is the most forgiving stretch of cooking in this book, same as [§6.10](#610-sous-vide-brisket-richies-method). A day in an ice chest cannot fail. A four-hour smoke at 225°F on meat that is already cooked cannot overshoot anything; it is building bark, not doneness. **And three and a half days of elapsed time is Slow cook and lead time, which per [§1 Cody's Pho](#1-codys-pho) never inflates a rating.** His *probably takes an hour* is the whole of the work.
 
@@ -25389,6 +25399,8 @@ Off the pit and onto a board — **no long rest needed**; it has been at tempera
 **Serves 4 from one bird** *(a 4 to 5 lb chicken; **two birds on two stands** if the Egg has room and the family is six — small birds cook better than big ones, [§T80](#t80-choosing-your-turkey)'s rule applies to chickens too)*
 
 **🟢 Easy** · **Prep ~30 min** *(the night before: unbagging, injecting, rubbing, onto the stand, ~20 min; the day of: probe, wood, on and off, ~10 min)* · **Slow cook ~1¼–1½ hr** *(350°F indirect on the Egg, to temperature — under two hours, but a smoker is Slow cook at any length per [CLAUDE.md §3a](CLAUDE.md))* · **Start to finish ~1 day** *(includes the overnight dry brine)*
+
+**⏰ Countdown to dinner:** T−1 day (the night before) unbag, giblets out, pat dry; inject the Creole Butter all over; Tony's Original liberally, no salt; onto the stand upright, uncovered in the fridge overnight · T−2 hr to 2 hr 15 min light the Egg, 350°F indirect, convEGGtor in, drip pan, a palmful of pecan or hickory, wait for blue smoke and let it settle · T−1½ to 1¾ hr bird on its stand, probe in the breast, dome down and left alone — 1¼ to 1½ hr for a 4–5 lb bird · T−10 min off at 160°F breast / 170°F thigh (or 165°F breast), off the stand, carve right away, no tent · T−0 board juices spooned over.
 
 > **Why 🟢 Easy — same walk as [§6.11](#611-codys-tony-chacheres-smoked-turkey).** Injecting can't fail. Rubbing can't fail. A night on a stand in the fridge can't fail. Bringing an Egg to 350°F can't fail. **The one thing that can go wrong with a chicken — overshooting the breast — is a pull-at-a-number with a leave-in probe, not a technique**, and the upright stand puts the thighs nearer the fire than the breast, which is the right way round. The bird goes on once and comes off once.
 
@@ -25772,6 +25784,8 @@ Cody's own wings, dictated 2026-09-07, cooked and confirmed 2026-09-08. **These 
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr to 1 hr 15 min** *(400°F on a rack, one flip halfway; start checking at 45 min and pull each wing as its skin crisps)* · **Start to finish ~1 hr 30 min** *(+ an overnight 8–24 hr uncovered fridge dry-brine the night before, and ~1 hr to bring an Egg or smoker up to temperature)*
 
+**⏰ Countdown to dinner:** T−1 day (the night before) Tony's BOLD and baking powder on the whole uncut wings, onto a rack uncovered in the fridge 8–24 hr · T−2 hr 15 min light the Egg (one hickory chunk, convEGGtor in) or the oven to 400°F — give the Egg a full hour to settle · T−1 hr 15 min spray with avocado oil, on the rack skin side DOWN · T−40 min flip skin side UP · T−30 min start checking (45 min in); plan on 1 hr to 1 hr 15 total, back of the Egg first · pull each wing as its skin crisps, 175–185°F · T−0 shake in sauce while hot, serve at once.
+
 > **Why Easy.** Nothing in this recipe can go from perfect to ruined. It's season, wait, cook, flip, pull — wings are thin, they finish in a wide window, and the only real mistake available is pulling them early. The overnight sits in the fridge and the hour on the Egg is the Egg's work, not yours; per [CLAUDE.md §3a](CLAUDE.md), lead time and hands-off time never inflate the rating.
 
 #### A. Ingredients
@@ -25943,6 +25957,8 @@ Transcribed from Cody's photographed recipe card. A rich, sherry-and-cream crawf
 **Techniques used:** [T6 Seafood Notes](#t6-seafood-notes)
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~30 min** · **Start to finish ~45 min** *(two skillets going at once — all of it attended)*
+
+**⏰ Countdown to dinner:** T−45 min chop the green onions and parsley; crawfish into half the butter with Capt. Mike's, about 10 min; second skillet — onions and parsley in the rest of the butter, flour blended in · T−30 min half & half in slowly; simmer and stir constantly to thicken, flour as needed — by the spoon, not the clock; pasta water on, asparagus going · T−10 min sherry, crawfish, salt, Capt. Mike's, cayenne in; Crystal and butter to taste — taste the food · T−0 toss with the pasta, asparagus alongside.
 
 > ✅ **Rated 🟢 Easy directly by Cody, 2026-09-09** — unprompted and flat: *"Crawfish Elegante is easy, by the way. Not medium."* This supersedes the 🟡 Medium this entry carried before, along with the Step 5 rationale that used to argue for keeping it there — see the note on that step for why the reasoning now runs the other way.
 
@@ -26214,6 +26230,8 @@ Transcribed from Cody's photographed recipe card, with a nod to Louis Armstrong'
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~15 min** · **Slow cook ~3 hr** *(simmer)* · **Start to finish ~3 hr 35 min** *(plus an overnight bean soak — start the day before)*
 
+**⏰ Countdown to dinner:** T−1 day beans into a soak overnight (a few hours at the least) · T−3 hr 35 min drain the beans, chop the trinity; butter, half the trinity, 1 Tbsp Creole seasoning, tasso and andouille 7–10 min; beans 5 min · T−3 hr stock, garlic, bay leaves, the rest of the trinity and seasoning; boil, then simmer 2 to 2½ hr — stir more often in the second hour · T−30 min tomato sauce, parsley, half the green onions; start the rice; 30 min more · T−0 bay leaves out, ½ cup rice per plate, beans over, green onions, hot sauce on the table.
+
 **❤️ Family favorite** — *Cody: "Awesome."*
 
 #### A. Ingredients
@@ -26456,6 +26474,8 @@ Transcribed from Cody's spreadsheet — a simple honey-soy marinade for grilled 
 
 **🟡 Medium** · **Prep ~40 min** *(all the cutting and skewering)* · **Cook ~12 min** · **Start to finish ~5–7 hr** *(4–6 hr marinate)*
 
+**⏰ Countdown to dinner:** T−5 to 7 hr whisk the marinade, cube the chicken, into the bag in the fridge — 4 to 6 hr, not overnight · T−1 hr cut the pineapple, onions, tomatoes, zucchini, peppers and squash; slice the kielbasa; thread Skewer A (chicken and pineapple) and Skewer B (kielbasa alternating with vegetables); Cavender's liberally on both (soak wooden skewers 30 min first) · T−45 min light the grill, direct medium-high, 400–450°F, grates oiled · T−15 min Skewer A on, 10–12 min, turning every 3; Skewer B on 2 min later, 8–10 min · T−0 chicken at 160–165°F, both off together.
+
 **❤️ Family favorite** — *Cody: "Freaking awesome."*
 
 #### A. Ingredients
@@ -26568,6 +26588,8 @@ Transcribed from **Chef Paul Prudhomme's *Louisiana Kitchen*** — a baked jamba
 **Techniques used:** [T5 Seasoning-Mix System](#t5-seasonings--peppers) · [T6 Seafood Notes](#t6-seafood-notes) · [T7 Louisiana Language & Ingredients](#t7-louisiana-language--ingredients) · [§T17 The Raw Egg Soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) *(the shrimp, before anything else — Cody's standing rule for seafood bought in Missouri; Step 0 below)*
 
 **🟢 Easy** · **Prep ~30 min** *(including the egg soak's 5 minutes of hands-on; its 7–15 minute sit is unattended)* · **Cook ~55 min** · **Start to finish ~1 hr 25 min** *(20–30 min of the cook is an unattended oven bake)*
+
+**⏰ Countdown to dinner:** T−1 hr 25 min egg-soak the shrimp ([§T17](#t17-the-raw-egg-soak-deodorizing-fish--shellfish)) 7–15 min, then rinse; mix the seasoning, chop everything, oven to 350°F · T−55 min render the tasso and andouille 5–8 min, trinity 5 min, seasoning and garlic 3 min, chicken and tomatoes 5–8 min, stock and tomato sauce 7 min, green onions 2 min · T−30 min rice, shrimp and oysters in, off the heat; into the 8×8, foil sealed, bake 20–30 min · T−0 bay leaves out, mold and serve immediately.
 
 > ✅ **Rechecked and downgraded from 🟡 Medium, 2026-09-09 — part of the Prudhomme difficulty recheck Cody asked for:** *"do a really extensive recheck with Paul Prudhomme's stuff because some of his stuff is a little bit tricky, but maybe it's not, maybe I'm just biased."* Reading the method start to finish against [CLAUDE.md §3a](CLAUDE.md)'s actual test — *can a step go from perfect to ruined?* — nothing here can. No roux, no emulsion, no fast sear: every sauté step runs several forgiving minutes, and the finish is a foil-covered 350°F bake with a 20–30 minute window, not a precise one. **The old 🟡 tracked the long ingredient list and the unfamiliar cuisine, not real technique risk**, which is exactly the miscalibration §3a warns against.
 
@@ -30325,6 +30347,8 @@ Cody's own dish, dictated directly — not from a photographed page. **A big sha
 
 **🟡 Medium** · **Prep ~40 min** *(trimming and bagging the tenderloins, cutting all the vegetables, softening the cheese)* · **Cook ~40 min** *(grilling the vegetables, searing, warming the naan)* · **Slow cook 1½ hr** *(sous vide, unattended; 1–4 hr window)* · **Start to finish ~3 hr**
 
+**⏰ Countdown to dinner:** T−3 hr trim the silverskin, Vegeta all over, optional garlic slivers, bag with the olive oil and butter (two to a bag), into the 140°F bath — 1½ hr (1–4 hr window; not past 3 on tenderloin) · T−1 hr 20 min cut the vegetables, goat cheese out to soften; light the grill · T−50 min grill the vegetables over medium-high, tomatoes last; [§9.21 hummus and naan](#921-dressed-up-hummus-with-garlic-naan) ready · T−20 min out of the bag, pat completely dry, avocado oil, sear whole in blazing cast iron 30–45 sec a side, 2–3 min total · T−15 min rest 2 min, slice into 1-in. medallions, halve into cubes · T−10 min goat cheese spread across the platter, hot cubes piled straight on, vegetables around, hummus and warm naan · T−0 one big platter to the table.
+
 #### A. Ingredients
 
 **The pork**
@@ -33340,6 +33364,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟢 Easy** · **Prep ~20 min** · **Slow cook 5–6 hr** *(indirect smoker, unattended; 3–4 hr for back ribs)* · **Start to finish ~7–8 hr** *(includes about a 2 hr dry brine)*
 
+**⏰ Countdown to dinner:** T−7 to 8 hr remove the membrane, rinse, salt at ½ tsp per lb — dry brine 1 to 2 hr · T−6 hr light the smoker or two-zone grill to 225°F; rub with [Memphis Dust](#4108-meatheads-memphis-dust), about 2 Tbsp a side · T−5 to 6 hr (3–4 hr for back ribs; add an hour in rib holders) slab on meat side up over 4 oz of wood, a little more wood when the smoke dwindles at 20–30 min; no flip · T−15 min bend test — surface cracks, they're ready; sauce if you like and sizzle it a few minutes over the hot grill or broiler, watched · T−0 serve, take a bow.
+
 **❤️ Family favorite** — *Cody, 2026-09-09, reaching for this recipe by a different name: "championship pork ribs… that's just doing it with the Memphis Dust."* **That is how he refers to these**, and the rub half of it checks out — this recipe does call for **¼ cup of [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust)**, about 2 Tbsp per side, in Step 2. **The name does not**: this cookbook already has a separate [§7.136 Championship Pork Ribs](#7136-championship-pork-ribs) from *The Meathead Method*, a different recipe. Recorded as his shorthand rather than resolved either way — worth confirming with him which slab he actually means.
 
 #### A. Ingredients
@@ -34662,6 +34688,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~30 min** *(10 + 10 min on the indirect side, then a few minutes of attended direct sear, plus time for the hot side to come up)* · **Start to finish ~1 hr** *(the printed TAKES)*
 
+**⏰ Countdown to dinner:** T−1 hr mix the seasoning, form two 8-oz patties ¾ in. thick ([§4.128 Burger Glop](#4128-burger-glop) made ahead — it keeps 1 to 2 months); light the grill for two-zone, indirect side about 225°F, no smoke yet · T−30 min toast the buttered buns on the hot side — don't walk away; wood on the hot spot, bacon and burgers on the indirect side, one side salted, lid down 10 min · T−20 min thermometer in, flip, salt the second side, 10 min more · T−8 min at 20°F below target, hot side to high; sear lid up, flipping every minute, off at 5°F below target · T−0 in a bowl: glop, bacon, burger, lettuce, onion, tomato.
+
 **❤️ Family favorite** — *Cody, 2026-09-09, and the sauce is the part he singles out: "He makes the best burger, and he's got this glop sauce that's killer. It's so necessary to have the glop sauce."* **The glop sauce is [§4.128 Burger Glop](#4128-burger-glop)** — Meathead's own burger sauce, mayonnaise, [Kansas City Classic barbecue sauce](#4117-kansas-city-classic-barbecue-sauce) or ketchup, yellow mustard, Tabasco Chipotle, kosher salt and garlic powder, whisked smooth. **Per Cody it is not optional to this dish.** The page already treats it that way — *2 tablespoons Burger Glop* is a printed ingredient line, and Step 8 puts it on the bottom bun first, under the bacon, where it anchors the patty. Make the glop before you light the grill; it keeps 1 to 2 months in the fridge.
 
 > **Rated Medium for the same reason as this cookbook's other reverse-seared beef** — [§7.106](#7106-big-thick-steakhouse-steaks), [§7.108](#7108-santa-maria-tri-tip), [§7.109](#7109-chateaubriand-with-compound-butter), and [§7.114](#7114-prime-rib) above. The indirect stage is forgiving, but the finishing sear needs continuous attention — the patties go from perfectly browned to burnt fast over direct heat, same risk profile as a steak, just on a faster clock.
@@ -34828,6 +34856,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **Techniques used:** [§T56 Shrimp: Sizing, Deveining, and Brining](#t56-shrimp-sizing-deveining-and-brining) *(both the peel-and-devein method and the pre-grill brine are used here, exactly as printed — this recipe's own text points straight back at that page)* · [§T34 Two-Zone Fire Setup](#t34-two-zone-fire-setup)
 
 **🟢 Easy** · **Prep ~35 min** *(includes a ~20 min shrimp brine)* · **Cook ~20 min** · **Start to finish ~1 hr**
+
+**⏰ Countdown to dinner:** T−1 hr peel and devein, tails on, into the brine — about 20 min, no longer; cut the jalapeños; light the grill for two-zone, ~325°F indirect · T−40 min drain and pat the shrimp dry; bacon on the indirect side, lid down, about 4 min to half-done, onto paper towels · T−30 min cream cheese strip, jalapeño strip, wrap, 1 or 2 toothpicks — twenty times · T−15 min onto the indirect side, lid down, until pink through and the bacon is done your way · T−0 brush with Thai sweet chili sauce, chives, serve right away.
 
 **❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
@@ -37728,6 +37758,8 @@ Transcribed from **laylita.com**, recipe by **Layla Pujol** — *"Recipe for gri
 
 **🟡 Medium** · **Prep ~30 min** *(including skinning the fish and Cody's egg soak)* · **Cook ~15 min** · **Start to finish ~1 hr 15 min** *(including the source's 30-minute seasoned rest in the fridge)*
 
+**⏰ Countdown to dinner:** T−1 hr 15 min skin the fillets, egg rub 7–10 min, cold rinse, pat dry (skip if there's no fish smell) · T−1 hr mix the seasoning, oil and rub the fish, into the fridge at least 30 min; make and chill the [§4.192 salsa](#4192-avocado-salsa) · T−45 min light the grill, hot, grate clean and oiled · T−15 min fillets over direct medium-high, 4–5 min untouched, turn once, 3–5 min; pull at 125–130°F · T−0 cold salsa over hot fish.
+
 **👍 Tried and liked** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **The source's own printed times are Prep 30 min · Cook 15 min · Total 45 min.** The longer total above is the difference Cody's egg step makes — skinning the fillet, the egg rub, the soak, and the rinse all land ahead of the source's first instruction. Nothing in the source's own method was slowed down.
@@ -38614,6 +38646,8 @@ Makes **10 main-dish or 20 appetizer servings**.
 **Read [§T1](#t1-how-to-make-a-roux) before you start.** The roux here is smoking-hot oil taken to dark red-brown or black, same danger profile as §8.3's — the source page's own warning is "being careful not to let it scorch or splash on your skin." Long sleeves, long-handled metal whisk, everything measured and within reach.
 
 **🔴 Hard** · **Prep ~30 min** · **Cook ~45 min** · **Start to finish ~1 hr 15 min** *(dark roux again — technique, not the clock, is what makes this hard)*
+
+**⏰ Countdown to dinner:** T−1 hr 15 min chop the vegetables, mix the seasoning, rice going; stock to a boil in the big pot · T−45 min the dark roux — oil to smoking (~5 min), flour whisked 2–4 min to dark red-brown, long sleeves, don't walk away; stop it with half the vegetables, then the rest, seasoning, garlic, off the heat · T−35 min roux mixture into the boiling stock by spoonfuls; boil 15 min · T−20 min andouille in, back to a boil, simmer 10 min · T−5 min shrimp, oysters with their liquor, crabmeat in — off the heat, stir, skim · T−0 ¼ cup rice in each bowl, 1 cup gumbo over.
 
 **❤️ Family favorite** — *Cody: "Awesome."*
 
@@ -40986,6 +41020,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet — a big-batch 
 **Yield:** about 24 to 28 cups total, before splitting between what's eaten now and what's frozen — the full 12-quart batch
 
 **🟢 Easy** · **Prep ~40 min** *(mostly pureeing in batches)* · **Cook ~35 min** *(30 min simmer, plus reheating the portion you're eating)* · **Start to finish ~1 hr 15 min**
+
+**⏰ Countdown to dinner:** T−1 hr 15 min tomatoes and stock into the 12-qt pot, simmer 30 min · T−45 min puree with the basil in small batches, lid vented; the freezer portion into its own pot, plain, before any dairy · T−10 min cream and butter into the portion you're eating, low heat until the butter melts in · T−0 basil garnish, bread.
 
 > ⚠️ **Puree hot liquid in small batches, with the lid vented.** A full blender jar of hot soup can force the lid off from steam pressure — work in small batches and hold the lid down with a towel, per standard blender safety.
 

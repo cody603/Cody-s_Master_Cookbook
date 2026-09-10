@@ -2434,6 +2434,8 @@ Transcribed from a photographed cookbook page. A quick-pickle, ready in minutes 
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~5 min** · **Start to finish ~15 min** *(ready to eat immediately — no waiting period)*
 
+**⏰ Countdown to dinner:** T−15 min (or any day ahead — it keeps a month in the fridge) slice the onions, 6 cups of water to the boil · T−5 min boiling water over, 15 seconds, drain; vinegar and salt in, stir until dissolved · T−0 ready to eat.
+
 **❤️ Family favorite** — *Cody: "We love it."*
 
 #### A. Ingredients
@@ -13002,6 +13004,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegeta
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~5 min** *(boiling the brine)* · **Start to finish ~25 min active** *(then about 1 hr to cool, and at least 24 hr in the fridge to age — thin items like onions can be eaten after an hour)*
 
+**⏰ Countdown to dinner:** T−1 day (thin onions are usable after 1 hr) wash the jars, slice ⅛ in., pack with 1 in. of headspace; boil the brine at least 3 min, pour to ½ in. headspace, lid loose, bang, tighten · T−1 day less 1 hr cool about an hour, then into the fridge — at least 24 hr · T−0 serve.
+
 > **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — you slice, you pack, you boil a brine for three minutes, you pour. The waiting is the method, not the difficulty.
 
 #### A. Ingredients
@@ -20206,6 +20210,8 @@ Everything from here down is a **stub**. Each one is a dish Cody named with deta
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** · **Start to finish ~15 min**
 
+**⏰ Countdown to dinner:** T−15 min trim 1–3 in., sort by thickness (thumb-thick spears: ½ cup water, steam 3–4 min first, pour it off) · T−10 min pan hot, then butter at medium-high (foam dies, smells nutty) or tallow at high; spears in one layer, in two batches · T−8 min sauté 5–8 min thin / 3–4 min thick, toss every 2 min, salt as they go in · T−1 min bite one near the base — firm, a little char · T−0 out and serve.
+
 **Techniques used:** [T2 Hot Pan First, Then Oil](#t2-hot-pan-first-then-oil) · [T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [T39 Maillard vs. Caramelization — GBD](#t39-maillard-vs-caramelization--gbd)
 
 > ⚙️ **Cookbook judgment, labelled — what is Cody's here and what is not.** **His:** the dish itself, the fat (butter, or beef tallow), salt as the whole seasoning, and the target — ***firm, not mushy, with a little char.*** **The cookbook's:** every quantity, the pan, the heat level, and all the minute counts. Those were filled per [CLAUDE.md §3d](CLAUDE.md) from sources already in this book rather than from anywhere outside it — **Samin Nosrat's *Salt, Fat, Acid, Heat*** ([§5.54](#554-sauté-snap-peas-with-chilies-and-mint) for the hot-pan, high-heat, don't-walk-away sauté; [§5.55](#555-steamy-sauté-garlicky-green-beans) for what to do with spears too thick to go straight into a dry pan), **Meathead Goldwyn** ([§5.41](#541-grilled-asparagus)) for the woody-end trim and the bite-near-the-base doneness check, and this book's own [§T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) and [§T39 Maillard vs. Caramelization](#t39-maillard-vs-caramelization--gbd). **His own figures supersede these the day he gives them.**
@@ -20295,6 +20301,8 @@ Salt as they go in. **Leave them alone long enough to take color** — a spear t
 **Serves 4 as a side, or 2–3 as the base under a sauce**
 
 **🟢 Easy** · **Prep ~10 min** *(slicing and salting; the 20–30 min salt draw is waiting, not work)* · **Cook ~10 min** *(two hot batches; ~15 for the battered variation)* · **Start to finish ~40 min**
+
+**⏰ Countdown to dinner:** T−40 min cut ½ in., all alike; 1½ tsp salt tossed through in a colander — 20 to 30 min draw · T−12 min pat dry, no rinse; 12-in. skillet hot, then the fat, medium-high · T−10 min first batch in one layer, 3–4 min untouched, flip, 2–3 min more; second batch the same (Variation B: egg, seasoned almond flour, ¼ in. of oil at 350°F, 2–3 min a side — about 15 min) · T−0 chili or spaghetti sauce over at the table, or a squeeze of lemon as a plain side.
 
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here goes from perfect to ruined. A slice that browned a shade darker than you wanted is still a browned slice — [§T39](#t39-maillard-vs-caramelization--gbd)'s *brown is good, black is bad* is the only line to hold, and the pan is hot for four minutes a side, not forty. The one way to actually lose it is to crowd the pan and steam it grey, and that is a habit, not a technique.
 
@@ -20515,6 +20523,8 @@ Printed from lifesambrosia.com. A cold, make-ahead pasta salad — crisp bacon, 
 > **📌 Scaled up and one substitution made, per Cody's own recipe spreadsheet.** He bumped the pasta from 8 oz to 12 oz and scaled every other ingredient by the same 1.5×, and swapped bacon bits in for the 6 slices of bacon. His own notes on the card: *"Substitute bacon bits for bacon."* and *"Substituted 12 oz of pasta for 8oz & changed amounts of ingredients accordingly."* Both changes carried through below — this is the current version of the recipe, not a second one.
 
 **🟢 Easy** · **Prep ~20 min** · **Cook ~15 min** · **Start to finish ~1 hr** *(plus 30 min fridge chill before serving)*
+
+**⏰ Countdown to dinner:** T−1 hr pasta on (high-protein rotini — pull it at the short end of the package time); whisk the dressing · T−45 min strain, cold-rinse until cool; toss with the cherry tomatoes and bacon bits in the dressing — no avocado yet · T−40 min into the fridge, 30 min minimum · T−5 min slice the avocado, fold in gently · T−0 serve cold.
 
 **❤️ Family favorite** — *Cody: "Awesome."*
 
@@ -21133,6 +21143,8 @@ Make a bed of watercress or arugula on a large platter. Pile the pickled beets i
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~25 min** *(includes a 5–10 min rest for the flavors to mingle)*
 
+**⏰ Countdown to dinner:** T−25 min drain and slice the hearts of palm; tomatoes in rounds or halves; onion thin, soaked a few minutes · T−10 min arrange or toss; olive oil and red wine vinegar about 3:1, salt and pepper; rest 5–10 min · T−0 serve at room temperature.
+
 #### A. Ingredients
 
 - 1 (14–15 oz) can whole hearts of palm, drained
@@ -21197,6 +21209,8 @@ Transcribed from **Canal House Cooks Every Day**, p. 228 — the same page as [�
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
+**⏰ Countdown to dinner:** T−10 min mash the garlic and salt in the bowl, stir in the preserved lemon rind and juice, whisk in the oil · T−1 min toss the escarole · T−0 parmigiano shavings and cracked pepper, serve.
+
 #### A. Ingredients
 
 - ½ clove garlic
@@ -21257,6 +21271,8 @@ Toss the escarole with the vinaigrette. Serve garnished with plenty of parmigian
 **Yield:** serves 4, as a side
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** · **Start to finish ~15 min**
+
+**⏰ Countdown to dinner:** T−15 min strip tough stems, rinse the kale · T−10 min oil and garlic warmed together over medium; kale in with the water still on the leaves, 5–10 min to wilted and tender · T−0 salt and pepper, serve.
 
 #### A. Ingredients
 
@@ -21406,6 +21422,8 @@ Cody's own salad, dictated directly — not from a photographed page. Built to g
 **Yield:** serves 4 as a side
 
 **🟢 Easy** · **Prep ~15 min** · **Cook none** · **Start to finish ~15 min**
+
+**⏰ Countdown to dinner:** T−15 min chop and dry the romaine, slice the onion thin (soak 10 min in cold water if it's harsh), shake up [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) · T−3 min romaine, green olives and onion in the bowl, goat cheese crumbled over — not tossed · T−1 min dress at the last second · T−0 serve.
 
 #### A. Ingredients
 
@@ -22097,6 +22115,8 @@ Transcribed from the same **Steven Raichlen** book as [§5.33](#533-quick-and-sm
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~15 min** · **Start to finish ~30 min**
 
+**⏰ Countdown to dinner:** T−30 min chop the onion, garlic and parsley; hard-cook and chop the eggs ([§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide)) if not done ahead · T−15 min render the bacon ~5 min, pour off all but 2 Tbsp; onion, garlic, 2 Tbsp parsley, bay leaf ~4 min · T−8 min beans, ½ cup stock and hot sauce, simmer 5 min; bay leaf out; mash half in the skillet · T−3 min manioc flour in, simmer uncovered ~3 min · T−0 season, chopped eggs and parsley over, serve at once.
+
 **Techniques used:** [§T30 How to Use Fat](#t30-how-to-use-fat) *(rendering bacon)* · [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) *(for the hard-cooked eggs on top)*
 
 #### A. Ingredients
@@ -22232,6 +22252,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet. Green beans bla
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
 
+**⏰ Countdown to dinner:** T−20 min zest and juice the lemon, trim the beans, salted water to a boil · T−10 min beans in, about 10 min to tender · T−1 min drain, back in the pan off the heat, toss with oil, 1¼ tsp salt and the lemon juice · T−0 zest over, serve.
+
 #### A. Ingredients
 
 - 1 lemon
@@ -22285,6 +22307,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet. Fresh spinach w
 > **It is an easy dish, and the entire skill is in one ratio: lemon and salt.** Everything else here — heat the fat, brown the garlic, wilt the greens — is mechanical, and Cody says so himself. What separates a good plate of this from a flat one is getting the **acid and the salt into balance with each other**, and there is no measurement for it. **You taste it to find it.** See step 4.
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~8 min** · **Start to finish ~15 min**
+
+**⏰ Countdown to dinner:** T−15 min chop the garlic · T−8 min oil and butter over medium, brown the garlic · T−4 min the whole bag of spinach in, just until wilted · T−1 min half the lemon and salt; taste, adjust until they balance · T−0 serve.
 
 #### A. Ingredients
 
@@ -22359,6 +22383,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet — a loose form
 > **So: 400°F stays, and the recipe gains a thickness spec — see step 2.** The 375°F question is retired as **asked and declined**, by Cody, not by the cookbook.
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~20–25 min** *(at 400°F, and pull them when they look right rather than when the timer says so)* · **Start to finish ~35 min**
+
+**⏰ Countdown to dinner:** T−35 min oven to 400°F, elevated rack on the sheet pan; cut everything ½ to ¾ in., all the same size · T−25 min olive oil, rosemary sprigs, Tony's; onto the rack in one layer — 20 to 25 min (asparagus and thin things 12–15) · T−13 min check and turn the pan · T−0 pull them before they burn — firm, with color.
 
 #### A. Ingredients
 
@@ -22572,6 +22598,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 
 **🟢 Easy** · **Prep ~10 min** · **Cook ~10 min** · **Start to finish ~20 min**
 
+**⏰ Countdown to dinner:** T−50 min light the grill if it isn't already lit for the main — two-zone, ~325°F indirect; reduce the balsamic if it's salad-grade ([§T83](#t83-about-balsamic--grades-and-buying)) · T−20 min trim 1–3 in., roll in the oil, rub and salt; shave the cheese into ribbons · T−13 min spears over direct heat, lid on, ~5 min to brown spots, roll, 2–3 min more; skinny ones off first · T−5 min onto the platter, cool 5 min · T−0 balsamic, shaved cheese, optional lemon last.
+
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
 > ✅ **Independently re-verified 2026-09-07** against book pp. 351–352 (scan indexes 50 and 48, enlarged). Every quantity, all five steps, the 325°F indirect target, the 5-minute / 2-to-3-minute cook, and the 5-minute cool match. Grocery list fixed: the balsamic is a printed ingredient, not optional, and the kosher salt was missing from the list.
 
@@ -22640,6 +22668,8 @@ Transcribed from **Meathead Goldwyn**, ***Meathead: The Science of Great Barbecu
 **Makes 2 to 4 servings · Takes 40 minutes** *(as printed)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
+
+**⏰ Countdown to dinner:** T−40 min cut 2–4 steaks ¼–½ in. thick, break the rest into florets, salt, pepper and oil both · T−35 min light the grill for two-zone, ~325°F indirect, topper over the indirect side (or the oven to 400°F with a rack — B2, 20–25 min) · T−25 min florets on the topper in one layer, lid down, ~20 min; steaks over direct heat, ~4 min a side, flipping until a fork slides in · T−5 min topper and florets scooted to the direct side, ~5 min of color · T−0 serve, oil or melted butter if you like.
 
 > ✅ **Re-verified against the source page on 2026-09-06** during the page-order audit of this scan; printed quantities and steps corrected below.
 > ✅ **Independently re-verified 2026-09-07** against book pp. 352–353 (scan index 48, enlarged). All four ingredient lines, all six steps, the ⅛-inch stem trim, the ¼-to-½-inch steaks, the 325°F indirect target, the 20-minute / 5-minute floret cook, and the 4-minute steak sear match. No change.
@@ -23557,6 +23587,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **🟢 Easy** · **Prep ~5 min** · **Cook ~6 min** · **Start to finish ~15 min**
 
+**⏰ Countdown to dinner:** T−15 min trim the peas, julienne the mint, zest the lemon · T−7 min pan hot, then oil; peas and salt in, 5–6 min over high, sweet but still crisp · T−1 min off the heat, mint, zest, chili flakes · T−0 serve immediately.
+
 **Techniques used:** [T11 How to Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts)
 
 #### A. Ingredients
@@ -23678,6 +23710,8 @@ Transcribed from photographed pages — **Samin Nosrat's *Salt, Fat, Acid, Heat*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** *(unattended oven time)* · **Start to finish ~55 min**
 
+**⏰ Countdown to dinner:** T−55 min (or up to 5 days ahead, refrigerated in the oil) oven to 300°F; tomatoes in one layer over the basil and garlic, 2 cups of oil over, salt liberally, stir · T−40 min into the oven, 35 to 40 min, never a boil — done when tender through and the first skins split · T−0 cool a bit, basil out, warm or room temperature.
+
 #### A. Ingredients
 
 - 4 cups cherry tomatoes, stemmed (about 1½ dry pints)
@@ -23739,6 +23773,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegeta
 
 **🟢 Easy** · **Prep ~5 min** · **Slow cook ~45 min** *(smoker or indirect grill, unattended)* · **Start to finish ~1 hr**
 
+**⏰ Countdown to dinner:** T−1 hr light the smoker to 225°F (or two-zone, 225°F indirect), smoke rolling · T−50 min cut the top ½ in. off the head, squeeze it open, oil over · T−45 min head on the indirect side · T−15 min probe a center clove; another 15 if it resists · T−0 done when it slides in like butter (make extra — keeps a week in the fridge).
+
 > **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined — it's a whole head of garlic left alone on the cool side of a grill or smoker until a thermometer says it's soft. The long hands-off stretch belongs in Slow cook, not Cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that smoker work is Slow cook at any length.
 
 #### A. Ingredients
@@ -23784,6 +23820,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Vegeta
 > Per the source's own headnote: "when a guy named Meathead says one of his favorite things to smoke is a vegetable, it is time to pay attention." Nothing is simpler to make on a smoker than smoked tomato raisins — in essence, just like sun-dried tomatoes, but with a smoky flavor. Dehydration makes them as sweet as raisins. They're good in salads, on a pizza or focaccia, in pasta, baked into breads, on baked potatoes, in stews, in pot pies, in roulades like porchetta, on a BLT, stuffed into chicken breasts or pork chops, in omelets or scrambled eggs, in anything with a cream sauce, or anywhere you'd use raisins or sun-dried tomatoes. The source uses them in its own Best Chicken Burger Ever (book p. 292) and Not Grannie's Meatloaf (book p. 296), neither yet in this cookbook. This process also works on full-size meaty tomatoes, especially Romas or San Marzanos — a good use for a cherry tomato plant's overwhelming late-summer output.
 
 **🟢 Easy** · **Prep ~5 min** · **Slow cook ~6 hr** *(smoker, unattended)* · **Start to finish ~6 hr**
+
+**⏰ Countdown to dinner:** T−6½ hr (or any day ahead — they keep weeks in the fridge) light the smoker, 170–200°F and no hotter, smoke rolling for the first hour or two · T−6 hr stems off, stab each 3–4 times, spread on a grill topper with room between, on · T−3 hr roll them around · T−0 off when shrunk to about 25% and still pliable like raisins — don't let them go hard.
 
 > **Why Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, this is tomatoes left on a cool smoker for hours until they shrink and turn pliable — there's no moment where it can go from perfect to ruined. The long unattended stretch is Slow cook, per [CLAUDE.md §3a](CLAUDE.md)'s rule that any smoker work counts as Slow cook regardless of length.
 
@@ -24007,6 +24045,8 @@ Serve at room temperature, alongside [§7.47 Shrimp Roast](#747-shrimp-roast) or
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~10 min**
 
+**⏰ Countdown to dinner:** T−10 min tear and dry the lettuce, halve the tomatoes, a few paper-thin onion slices · T−1 min oil first, toss, then vinegar, salt and pepper — taste a leaf · T−0 the Grana Padano wedge and a grater go to the table with it.
+
 #### A. Ingredients
 
 > ⚙️ **The quantities below are cookbook judgment, not Cody's.** He named the components — romaine or butter lettuce, cherry tomatoes, Grana Padano, oil and vinegar — without amounts. The proportions are set at the 3:1 oil-to-vinegar ratio this book already uses in [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) and [§5.19 Brazilian Salad](#519-brazilian-salad). **His own numbers supersede these the day he gives them.**
@@ -24093,6 +24133,8 @@ This is Cody's instruction and it's the finish of the dish: **the wedge goes out
 
 **🟢 Easy** · **Prep ~10 min** · **Cook none** · **Start to finish ~1 hr 10 min** *(a 30 min salt draw, then at least 30 min in the vinegar — both are waiting, not work)*
 
+**⏰ Countdown to dinner:** T−1 hr 10 min slice thin (⅛ in.; onion paper-thin), toss with the salt in a colander — 30 min draw · T−35 min shake, blot dry, no rinse · T−30 min white vinegar and pepper over, toss, at least 30 min (fridge on a hot day) · T−0 serve cold with a pinch of finishing salt.
+
 #### A. Ingredients
 
 > ⚙️ **Cookbook judgment — quantities, cuts, timings, and method.** Cody named **the vegetables (cucumber, onion, carrot, celery — any mix, or just one), salt, and white vinegar** and nothing else. Basis, per [CLAUDE.md §3d](CLAUDE.md): **America's Test Kitchen** on salting watery vegetables — *Salt Vegetables for Not-Soggy Slaws and Salads* and its *Cucumber-Dill Salad* — for the colander-and-30-minutes draw and the blot-dry step; **[§T29 How to Salt](#t29-how-to-salt)** (Samin Nosrat, *Salt, Fat, Acid, Heat*), already in this book, for the 15-to-20-minutes-ahead rule on watery vegetables and the instruction to pat them dry because the salt has pulled water to the surface; and **[§4.177 Quick Pickles](#4177-quick-pickles)** (Meathead) for the ⅛-inch slice and for distilled white vinegar as the default pickling vinegar. For the carrots and celery — which are not watery the way cucumber and onion are — the same salt draw is kept for seasoning rather than for draining, and the cut is taken thin enough that straight vinegar can get into them in half an hour: **America's Test Kitchen's** salted-slaw and pickled-vegetable practice is the basis for salting the mix together, and [§4.177](#4177-quick-pickles)'s ⅛-inch rule carries over to the carrot. **Cody's own figures supersede all of this the day he gives them.**
@@ -24171,6 +24213,8 @@ Serve it cold, straight out of the bowl, with a small pinch of flaky or kosher s
 
 **🟢 Easy** · **Prep ~10 min** *(with the dressing already made — add [§4.134](#4134-creamy-caesar-dressing)'s 15 minutes on the night you make it)* · **Cook none** · **Start to finish ~10 min**
 
+**⏰ Countdown to dinner:** T−1 to 3 days (or ~25 min ahead tonight) make the mayonnaise and the [§4.134 Caesar](#4134-creamy-caesar-dressing) — it keeps 3 days, so nights two and three are a 10-minute salad · T−10 min tear and dry the romaine · T−1 min toss by hand with the dressing (croutons in with the greens), shave the cheese over · T−0 the wedge goes to the table with it.
+
 #### A. Ingredients
 
 > ⚙️ **The quantities below are cookbook judgment, not Cody's.** He named the components — romaine, the homemade Caesar, a really good hard cheese, croutons optional — without amounts. The dressing amount is [§4.134](#4134-creamy-caesar-dressing)'s own serving size (2 Tbsp a person); the lettuce and cheese match [§5.61](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano). **His own numbers supersede these the day he gives them.**
@@ -24236,6 +24280,8 @@ Wide ribbons off a peeler or the long side of a box grater, a few over the bowl 
 **Serves 4 as a side**
 
 **🟢 Easy** · **Prep ~10 min** *(with the dressing already made — add the dressing's own 5 to 15 minutes on the night you make it)* · **Cook none** · **Start to finish ~10 min**
+
+**⏰ Countdown to dinner:** T−1 to 3 days (or 5–15 min ahead tonight) make the chosen dressing at its own entry — the vinaigrettes keep 3 days, [§4.89](#489-codys-greek-vinaigrette-lime--olive-oil) a week · T−10 min tear and dry the greens, add-ins in · T−1 min shake the dressing, toss half of it through by hand, taste a leaf, more only if it needs it · T−0 flaky salt and pepper, serve in the same minute.
 
 **Techniques used:** [T29 How to Salt](#t29-how-to-salt) *(salad is salted right before serving — and taste the dressing on a leaf, not a spoon)* · [T31 How to Use Acid](#t31-how-to-use-acid) *(a vinaigrette is acid balancing fat)* · [T30 How to Use Fat](#t30-how-to-use-fat) *(why a broken dressing eats badly)*
 
@@ -45133,6 +45179,8 @@ Transcribed from a printed cookbook page, filed under the category the source it
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~20 min** · **Cook ~10 min** · **Start to finish ~2½ hr** *(plus 2 hr fridge chill — times per the source page)*
 
+**⏰ Countdown to dinner:** T−2½ hr hard-boil the eggs ([§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide)); cook the cauliflower per the package, drain thoroughly, cool · T−2 hr 10 min mix eggs, onion, celery, mayonnaise, relish, mustard and stevia; fold in the cooled cauliflower, season · T−2 hr into the fridge — at least 2 hr · T−0 serve cold (keeps 5 days).
+
 **❤️ Family favorite** — *Cody: "Fantastic with cauliflower. It's amazing — I like it better than regular potato salad."*
 
 #### A. Ingredients
@@ -45194,6 +45242,8 @@ Transcribed from a printed keto cookbook page (p. 210) — the same book as [§1
 **Yield:** 4 servings
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~5 min** · **Cook ~10 min** · **Start to finish ~15 min**
+
+**⏰ Countdown to dinner:** T−15 min cook the cauliflower per the package, drain well · T−5 min into the processor with the butter and cream, pulse smooth, season (the 20% blend: fold in warm mashed potatoes by hand now) · T−0 serve, more butter if you like.
 
 **❤️ Family favorite** — *Cody: "Wonderful."*
 
@@ -45344,6 +45394,8 @@ Transcribed from a printed keto cookbook page — **p. 68, the *Breakfast & Brea
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~10 min** · **Cook ~25 min** · **Start to finish ~35 min** *(prep and cook times are the source's own printed figures)*
 
+**⏰ Countdown to dinner:** T−35 min trim and chop the radishes small and even · T−25 min bacon crisp over medium, ~5 min, out and crumbled — every drop of fat stays · T−20 min radishes into the drippings, 10 min over medium-high · T−10 min heat to medium, bacon back in, ~10 min more, stirring every couple of minutes, to crisp caramelized edges · T−0 salt and pepper now, parsley, serve immediately.
+
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, no step here can go from perfect to ruined. It's a skillet, bacon, and twenty minutes of stirring every couple of minutes. The bacon could be taken too far, but you pull it at crispy and the window is wide.
 
 #### A. Ingredients
@@ -45411,6 +45463,8 @@ Transcribed from the printed keto cookbook, ***Side Dishes*** chapter — the sa
 **Yield:** 4 servings *(the source's own)*
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~5 min** · **Cook ~15 min** · **Start to finish ~20 min** *(prep and cook times are the source's own printed figures)*
+
+**⏰ Countdown to dinner:** T−20 min chop the bacon and cabbage; bacon crisp over medium, out with a slotted spoon — drippings stay · T−15 min cabbage into the fat, about 10 min, stirring frequently · T−5 min bacon back in, salt and pepper, 5 min more · T−0 serve immediately.
 
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing in this can go from perfect to ruined — it's one skillet, four ingredients, and fifteen minutes of stirring. **The fastest keto recipe in the cookbook**, and one of the fastest recipes of any kind here.
 

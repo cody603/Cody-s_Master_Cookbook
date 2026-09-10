@@ -1836,6 +1836,8 @@ Geoff's version of a Thai basil stir-fry, taken down over the phone. Pork belly 
 
 **🟡 Medium** · **Prep ~25 min** · **Cook ~1 hr 10 min** · **Start to finish ~1 hr 20 min** *(45–60 min of the cook is an unattended pork simmer — do all the chopping then)*
 
+**⏰ Countdown to dinner:** T−1 hr 20 min pork belly into the pot, whole, covered with water; boil, then simmer 45–60 min · T−1 hr chop and line up absolutely everything while it simmers — nothing gets chopped once the wok is hot · T−12 min wok ripping hot, oil, meat in 5–7 min, aromatics and chili, vegetables 2 min, sauces in order, palm sugar, umami and white pepper, chili and sesame oil, basil and green tops 30 sec–1 min · T−0 over jasmine rice, rice stays out of the wok.
+
 **❤️ Family favorite** — *Cody: "Love it."*
 
 ### A. Ingredients
@@ -1996,6 +1998,8 @@ Rice in a bowl, stir-fry spooned over the top. Do not stir the rice into the wok
 **Reverse sear — Steps 1–7:** **🟢 Easy** · **Prep ~10 min** *(patting dry and seasoning)* · **Cook ~45 min** *(the slow pan bring-up to 129°F, whole batch, then the sear)* · **Start to finish ~55 min** — *no slow cook, no lead time, nothing to start a day ahead*
 
 **Sous vide variation — [§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method):** **🟢 Easy** · **Prep ~15 min** *(seasoning and bagging, plus next day's drying and oiling)* · **Cook ~20 min** *(the chimney coming to full roar, then the sear itself)* · **Slow cook 4–6 hr** *(sous vide, unattended)* · **Start to finish ~5–6½ hr, or spread over two days if you use the ice cooler**
+
+**⏰ Countdown to dinner:** *Reverse sear (Steps 1–7):* T−55 min pat dry, salt and pepper, [§4.1 rub](#41-darcys-steak-rub) on top · T−45 min into the pan on low; bring every steak to 129°F by thermometer, not clock (roughly 20–35 min on a 1–1½ in. steak), all of them before any is seared · T−10 min pat dry again, avocado oil both sides, pan as hot as it goes, sear 45–90 sec a side flipping, by color · T−0 slice across the grain — no rest. *Sous vide variation ([§3.D](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)):* T−1 day season, bag, into the bath — 128–129°F thick / 125°F thin, about 6 hr for a cheap cut (4 hr minimum) — then straight into the cooler packed with ICE, overnight · T−35 min light the chimney, 15–20 min to full roar, grate on top · T−15 min pat dry while still cold, avocado oil, sear 30–60 sec a side flipping, by color · T−0 slice across the grain.
 
 > **Why 🟢 Easy — Cody's call, 2026-09-09, for both methods: *"I think easy is perfect if they follow the directions."*** [CLAUDE.md §3a](CLAUDE.md)'s test is *can a step go from perfect to ruined?* **Two steps here have a window, and in both the directions are the whole protection.**
 >
@@ -16712,6 +16716,8 @@ Not tracked here — this is a cut- and weight-agnostic technique (Cody didn't s
 
 **🟡 Medium** · **Prep ~5 min** *(seasoning and bagging)* · **Cook ~10 min** *(heating the cast iron, then the sear)* · **Slow cook 1½–4 hr** *(sous vide, unattended)* · **Start to finish ~1 hr 45 min – 4 hr 15 min**
 
+**⏰ Countdown to dinner:** T−1 hr 45 min to 4 hr 15 min season (dry rub only), bag, into the 148°F bath — 1½ to 4 hr by thickness · T−10 min cast iron screaming hot; out of the bag, pat completely dry, spray with avocado oil · T−2 min sear 30–45 sec a side, skin side first · T−0 serve.
+
 #### A. Ingredients
 
 - Chicken — breasts, thighs, or whatever cut you're cooking
@@ -24854,6 +24860,8 @@ Cody's own pulled pork, dictated 2026-09-07, with the timing filled in by him on
 
 **🟢 Easy** · **Prep ~20 min** *(the salting, then next day's mustard slather and rub)* · **Slow cook ~12–14+ hr** *(225°F overnight, unattended and unwrapped — on around 10 p.m., off past 10 a.m.; done at 203°F, not at a clock time)* · **Start to finish ~1½ days** *(+ the overnight uncovered dry brine before it, and a 1–3 hr cooler rest after it)*
 
+**⏰ Countdown to dinner:** T−2 days (the evening before the cook) salt it hard out of the salt bowl, onto a rack uncovered in the fridge overnight · T−1 day (morning) yellow mustard slather, [§4.108 Memphis Dust](#4108-meatheads-memphis-dust) heavy, fresh rosemary ground over · T−1 day (~10 p.m.) light the Egg, convEGGtor in, an hour to settle at 225°F; butts on fat side up over a palmful of pecan, coffee cups of hot water, Egg Genius holding — overnight, no flip, no wrap · T−morning of (past 10 a.m.; 12–14+ hr, done at 203°F, not by the clock) off and straight into the dry cooler — NO ice — rest 1 to 3 hr · T−20 min pull it, white vinegar to taste, salt to taste (Cody's 40 min† hands-on, less the 20 min of salting and rubbing) · T−0 serve; vacuum-seal the rest with butter.
+
 **❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > ✅ **The cook time is Cody's own now, and it's an overnight — 2026-09-08.** This was the biggest planning gap in the book, and it's closed. **He puts the meat on around 10 p.m. and it comes off past 10 a.m., sometimes longer — call it 12 to 14+ hours at 225°F.** The **plus** is doing real work in that sentence: **this recipe is finished by temperature, not by the clock.** It comes off when it hits **203°F internal**, whenever that happens to be. If that's 9:30 a.m., it's done; if it's 1 p.m., it's done then, and the cooler rest is what absorbs the difference — which is exactly why the cooler is in the method and not an afterthought. **Start it at night on purpose.** An overnight is the right shape for a butt for two reasons: the hours you'd otherwise spend staring at a smoker are hours you're asleep, and it puts the finish in late morning with the whole afternoon of cooler rest ahead of the meal instead of behind it. **Two things that still apply.** **(1) Weight is the wrong variable and this book says so:** [§T60](#t60-butt-basics--brines-injections-and-cooking-time-for-pork-shoulder) and [§T42 What Controls Cooking Time](#t42-what-controls-cooking-time) both name **thickness**, not weight, as what drives the cook. His 12–14+ hours is the number for the **7-to-10 lb bone-in butts he buys**; a noticeably thicker one will run past it. The old **1½–2 hr per pound** rule of thumb is kept below only as a *scheduling* aid for a differently sized butt, and it's still cookbook judgment per [§13](#13-meathead-cookbook), not his. **(2) The stall is where the hours go.** Somewhere around **150–165°F** the meat's temperature flatlines while evaporative cooling matches the heat going in ([§T33](#t33-how-meat-actually-cooks--conduction-carryover-and-why-resting-is-a-myth), [§T44](#t44-food-safety--the-real-logic-and-the-target-temperature-table)); unwrapped, as Cody cooks it, the stall runs long — it's the price of the bark he's after, since a wrap is what shortens it. **This is the single best argument for the overnight**, because a stall that stretches three hours costs you nothing if you're in bed. **Cross-checks inside this cookbook:** [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) prints **8 to 12 hours for a 5 lb butt** at the same 225°F — 1.6–2.4 hr per pound, consistent with his overnight on a bigger butt.
@@ -25485,6 +25493,8 @@ Lift the bird **on its stand** from the sheet pan onto the grate over the drip p
 
 **🟢 Easy** · **Prep ~20 min** *(chopping toppings, warming tortillas)* · **Cook ~5 min** *(warming the tortillas and rewarming the pork)* · **Start to finish ~25 min** *(using pork already cooked via [§6.9](#69-codys-pulled-pork) or [§6.2](#62-pulled-pork))*
 
+**⏰ Countdown to dinner:** T−20 min chop cilantro, onion, lime; warm the pork (Cody's figure) — needs [§6.9](#69-codys-pulled-pork) cooked earlier in the week · T−5 min heat the tortillas on a dry skillet, stack them in a towel · T−0 build, sauce each taco at the table.
+
 #### A. Ingredients
 
 *No exact quantities were dictated, so this batch is built on typical street-taco proportions — small tortillas, a light fill, and a generous hand with the fresh toppings — scaled to a real family portion rather than an appetizer-size one. Scale up or down by the same ratios for a bigger or smaller crowd.*
@@ -26110,6 +26120,8 @@ Transcribed from Cody's photographed recipe card — a baked jambalaya built on 
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~1 hr 20 min** · **Start to finish ~1 hr 35 min** *(1 hr of the cook is an unattended oven bake)*
 
+**⏰ Countdown to dinner:** T−1 hr 35 min mix the seasoning; butter in the 2-qt pan on high, tasso 3 min, brown the chicken, seasoning and half the veggies 5 min, tomato sauce, rest of the veggies and tomato, off the heat, stock and rice (Cody's hands-on figure: 30 min) · T−1 hr into the 8×8 uncovered at 350°F, about 1 hr · T−0 rice tender, serve with French bread.
+
 **❤️ Family favorite** — *Cody: "Awesome."*
 
 > ✅ **Rerated 🟡 → 🟢 on 2026-09-09, on Cody's call.** His words: *"prep time takes thirty minutes; baking is waiting."* Nothing in this recipe can go from perfect to ruined — the stovetop part is a browning and a stir, and the hour in the oven is unattended with a wide window. The [Meal Planning Sheet](#meal-planning-sheet) carries his 30-minute hands-on figure and spells the name *Paul's Jambalaya*; the entry keeps its title as transcribed from the card.
@@ -26357,6 +26369,8 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 > **Directions weren't included on the original card** — only the ingredient list. The method below is a standard spaghetti-and-meat-sauce approach inferred from the ingredients; flag any corrections to Cody so this can be tightened up into his actual method.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min** *(20–30 min of the cook is an unattended sauce simmer)*
+
+**⏰ Countdown to dinner:** T−55 min brown the sausage, sauté the onion, pepper and mushrooms · T−40 min tomatoes, paste and seasoning in; simmer at least 20–30 min · T−15 min boil the pasta (or the [§5.5 zucchini](#55-salted-sautéed-zucchini-noodle-substitute) / [§11.8 cabbage](#118-fried-cabbage-and-bacon) base) · T−0 sauce over, bread on the side.
 
 **❤️ Family favorite** — *Cody: "A staple in our family."* On his **⭐ Staple Mains** list, 2026-09-09.
 
@@ -27711,6 +27725,8 @@ Transcribed from **Steven Raichlen's *How to Grill*** (Workman Publishing, 2001)
 **Yield:** 6 servings
 
 **🟡 Medium** · **Prep ~10 min** · **Cook ~15 min** · **Start to finish ~25 min**
+
+**⏰ Countdown to dinner:** T−45 min light the grill for direct, medium; brush and oil the grate (Cody's 45 min† figure covers the fire and the optional egg soak) · T−25 min optional [§T17 egg soak](#t17-the-raw-egg-soak-deodorizing-fish--shellfish) with the skin ON, rinse, blot; check for bones, oil the skin side, season; whisk the glaze · T−15 min skin side down on the hot grate, glaze spooned over, remaining mustard seeds, lid down — 12 to 15 min · T−0 skewer test, straight to the table.
 
 **❤️ Family favorite** — *Cody: "Fantastic."*
 
@@ -35956,6 +35972,8 @@ Transcribed from **Meathead Goldwyn**, ***The Meathead Method*** — the "Beef, 
 
 **🟡 Medium** · **Prep ~10 min** · **Slow cook ~3½ hr** *(sous vide bath, ice chill, and a light smoke — all unattended)* · **Cook ~10 min** *(the final sear — needs full attention)* · **Start to finish ~3 hr 40 min**
 
+**⏰ Countdown to dinner:** T−3 hr 40 min (or up to 4 days ahead) trim, save the fat, salt, bag, into the 131°F bath — 2 hr (1–3 works) · T−1 hr 40 min out of the bath, bag into ice water 30 min, then the fridge · T−1 hr 10 min light the smoker, 225°F indirect, smoke rolling · T−40 min steak on straight from the bag, wet — 30 min · T−10 min sear: pan with the reserved fat (~3 min a side), afterburner (flip every minute), 350°F fry, or broiler · T−0 smoked butter on top, no rest.
+
 > ⚠️ **Why Medium, not Easy.** The sous vide and smoke stages can't go wrong — that's the entire point of using them. But the final sear, whatever method you pick, moves fast on a steak that's already cooked through: a few seconds too long anywhere on the surface is the difference between a great crust and an overcooked, gray edge creeping toward the center. Stand right at the fire for this step.
 
 > Two more points from the source's headnote: meat scientists and most steak lovers agree medium-rare, 130° to 135°F, is best; and don't "temper" the steak at room temperature first — cold surfaces attract more smoke than warm ones, so go straight from the fridge to the cooker.
@@ -37843,6 +37861,8 @@ Spoon the chilled salsa over the hot fillets at the table, with rice and patacon
 
 **🟡 Medium** · **Prep ~15 min** *(trimming, seasoning, and bagging twelve thighs)* · **Cook ~15 min** *(getting the cast iron genuinely screaming, then searing three batches)* · **Slow cook 2½–3 hr** *(sous vide, unattended)* · **Start to finish ~3 hr 15 min – 3 hr 45 min**
 
+**⏰ Countdown to dinner:** T−3 hr 15 min to 3 hr 45 min trim, season (dry rub only), bag four to a bag, three bags into the 148°F bath — 2½ to 3 hr · T−20 min the big cast iron on high for a full 5 min · T−15 min out of the bags, pat obsessively dry, spray with avocado oil, sear 30–45 sec a side in three batches · T−5 min rest 3–5 min, two thighs a plate · T−0 serve.
+
 > **Why 🟡 Medium, and it comes down to one step — the same call as [§T28](#t28-sous-vide-chicken-codys-method)** *(and the one [§3 Darcy's Steak](#3-darcys-steak) carried until Cody rated it 🟢 on 2026-09-09 — his ruling was about the steak, and this stays 🟡 until he says otherwise about the chicken)*. Per [CLAUDE.md §3a](CLAUDE.md), difficulty is technique risk, not effort: *can a step go from perfect to ruined?* **Walk it.** Trimming and seasoning twelve thighs cannot fail. Bagging them cannot fail. **The bath cannot fail** — 148°F is a wall the meat cannot climb past no matter how long you forget about it, which is why those hours are **Slow cook** and cost the rating nothing ([CLAUDE.md §3a](CLAUDE.md): sous vide is Slow cook at any length). **The sear is the one step with a window.** The chicken comes to the pan already fully cooked, so there is no doneness cushion left at all — every second in the skillet is spent on crust, and a thigh that sits too long goes from crisp-skinned and juicy to dry. Thirty to forty-five seconds a side, three times over, watched. **That is a real can't-walk-away moment, so it is Medium — and nothing else in the recipe adds to that.** **Twelve thighs is not harder than two; it is only longer**, and length belongs in the time fields ([§1 Cody's Pho](#1-codys-pho) is the reference case).
 
 #### A. Ingredients
@@ -37936,6 +37956,8 @@ Preheat the bath to **148°F** and put all three bags in, standing or leaning so
 **Serves 4**
 
 **🟡 Medium** · **Prep ~25 min** *(the egg soak is 7–15 unattended minutes inside that; peeling if the shrimp came shell-on; the dredge)* · **Cook ~15 min** *(heating the oil, then three or four batches of 2–3 minutes)* · **Start to finish ~40 min**
+
+**⏰ Countdown to dinner:** T−40 min eggs cracked over the shrimp in a colander — 7 to 15 min soak, no rinse; meanwhile an inch of avocado oil to 350°F, the dredge into a bag, the rack ready · T−20 min dredge a handful, fry 2–3 min a batch to golden, hold the oil at 350°F between batches · T−2 min onto the rack, flaky salt, lemon squeezed over while hot · T−0 serve at once — about ten good minutes.
 
 > **Why 🟡 Medium — the same call as [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded), and for a tighter reason.** Per [CLAUDE.md §3a](CLAUDE.md), difficulty is technique risk: *can a step go from perfect to ruined?* The soak can't fail and the dredge can't fail. **The fry can, two ways at once, and both windows are short.** A shrimp goes from just-cooked to rubbery in about a minute — there is no doneness cushion, and you can't probe a shrimp. And **almond flour browns faster than wheat flour** — it is ground nuts, fat and sugar — so the crust goes from golden to burnt in the time a flour crust would just be starting to color. Holding 350°F on a thermometer, small batches, and pulling at *golden* is a can't-walk-away step. That is 🟡; nothing else in the recipe adds to it.
 
@@ -38261,6 +38283,8 @@ Transcribed from Cody's photographed recipe card — a **crock-pot chili** built
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** *(browning, plus boiling the noodles at the end)* · **Slow cook 4 hr** *(crock pot — **the chili only**, never the noodles)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands until the noodles go on)*
 
+**⏰ Countdown to dinner:** T−4 hr 25 min brown the meat (50/50 deer or beef and pork sausage) with the onion · T−4 hr the chili — and only the chili — into the crock pot on low, 4 hr (2 hr floor, 8 hr ceiling; ~2 hr on high) · T−15 min boil the noodles separately (or the [§5.5 zucchini](#55-salted-sautéed-zucchini-noodle-substitute) / [§11.8 cabbage](#118-fried-cabbage-and-bacon) base) · T−0 noodles down, chili over, cheese and Crystal.
+
 **❤️ Family favorite** — *Cody: "Awesome."* On his **⭐ Staple Mains** list, 2026-09-09.
 
 > 🍝 **What the chili goes over — Cody, 2026-09-09: the noodles, or a noodle substitute.** His note was made about [§7.18 Spaghetti](#718-spaghetti) and extended here in the same breath — *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles. We cook noodles anyway because the kids eat them — get the really high-quality protein noodles. Might be good for chili mac too."* So the chili ladles over any of:
@@ -38491,6 +38515,8 @@ A bright, light chicken soup: shredded chicken and rice in a lemon-and-dill brot
 **Techniques used:** [T9 Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) *(this is that formula with the Lemon Chicken slots filled in — the method below is the same one, written out in full so you don't have to flip back)*
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~25 min** · **Start to finish ~40 min**
+
+**⏰ Countdown to dinner:** T−40 min chop; soften the onion 4–5 min · T−30 min thighs, zucchini, ⅓ cup rice and broth in; simmer partially covered 15–20 min · T−8 min pull and shred the chicken, back in · T−3 min spinach in, 1–2 min to wilt · T−0 off the heat, lemon juice and dill, taste, serve.
 
 **❤️ Family favorite** — *Cody: "A house favorite."*
 
@@ -38775,6 +38801,8 @@ Transcribed from a handwritten recipe card ("From the Kitchen of" left blank). A
 > **Close cousin to [§8.0](#80-the-hearty-main-course-soup-formula):** protein (sausage), starch (potatoes), vegetable (kale), and broth (bouillon) are the same four slots that formula runs on — this card just predates it and keeps its own simpler method rather than the formula's dredge of seasonings.
 
 **🟢 Easy** · **Prep ~15 min** · **Cook ~40 min** · **Start to finish ~55 min**
+
+**⏰ Countdown to dinner:** T−55 min cook the sausage in the pot · T−45 min water and bouillon to a boil; potatoes, onion and [Captain Mike's](#47-captain-mikes-seasoning) in, cook until tender · T−10 min kale and a generous pour of whipping cream, until the kale is tender · T−0 serve with French bread.
 
 **❤️ Family favorite** — *Cody: "One of our favorites."* / *"Yummie."*
 
@@ -40779,6 +40807,8 @@ Transcribed from Cody's own recipe/grocery-planning spreadsheet, kept in Mamma's
 > ✅ 2026-09-07 per Cody ("this is when you throw in and you eyeball — use your judgment, but use all these ingredients") — **eyeball-scale amounts are cookbook judgment; the ingredients, the order, and the quotes are Mamma's.** This is a throw-it-in stew and the amounts below are meant to be read that way: a starting picture of a family pot, not a formula. **Every ingredient on the card is used**, including the cider vinegar the card listed but never told you where to put. Basis: Culinary Hill's stove-top venison stew (1–1½ lb venison, 4 cups potatoes, 3 carrots, 2 celery, 1 onion, a 15-oz can of tomatoes, 1 tsp cider vinegar; https://www.culinaryhill.com/stove-top-venison-stew/), Montana Fish, Wildlife & Parks' venison stew (3 lb stew meat, tomatoes, bouillon, cider vinegar; https://fwp.mt.gov/binaries/content/assets/fwp/montana-outdoors/recipes/venisonstew_ma13.pdf), and Hank Shaw's venison stew (https://honest-food.net/food-plot-venison-stew-recipe/). The common thread across all three: **venison stew meat needs 1–1½ hours to go tender, and the acid goes in small and late.**
 
 **🟢 Easy** · **Prep ~25 min** · **Cook ~2 hr** *(venison ~1 hr 45 min; beef chuck ~2 hr 15 min — most of it an unattended simmer)* · **Start to finish ~2 hr 25 min**
+
+**⏰ Countdown to dinner:** T−2 hr 25 min (venison; start about 30 min earlier for beef chuck) cube, chop, sear the meat in batches 3–4 min each · T−2 hr water, carrots, onion, celery in; simmer · T−1 hr 15 min potatoes in (45 min into the simmer for venison, an hour for beef); bouillon · T−40 min cabbage in when the potatoes are nearly done, 10–15 min · T−25 min tomatoes and the first tablespoon of vinegar, 10 min more; shredded potato if thickening · T−0 off the heat: liquid smoke if you like, taste for the second splash of vinegar and salt, bread.
 
 #### A. Ingredients
 
@@ -44056,6 +44086,8 @@ The source's own two platings. Six plates of eight, or twelve plates of four —
 
 **🟢 Easy** · **Prep ~5 min** · **Cook none** · **Start to finish ~5 min** *(assumes the eggs are already boiled — see [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) and add ~20 min if starting from raw)*
 
+**⏰ Countdown to dinner:** T−25 min boil the eggs if they aren't already boiled ([§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide) — 10 min, plus the cold shock and peeling) · T−5 min halve, "butter" the cut sides with mayonnaise, drizzle the olive oil, salt and pepper, garnish · T−0 serve.
+
 **❤️ Family favorite** — *rated by Cody on 2026-09-09, in a batch of family verdicts given without a per-dish quote.*
 
 > **Why 🟢 Easy — and why this is the easiest thing in §9.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test there is nothing here that can fail. Boiling the eggs is the only cooking, and that's [§T19](#t19-how-to-boil-an-egg-canal-houses-timing-guide)'s job. **Set against [§9.16 Deviled Eggs](#916-deviled-eggs), this skips the entire fussy half** — no scooping yolks, no sieving, no mixing a filling, no piping it back in, and nothing to go wrong or look untidy.
@@ -44144,6 +44176,8 @@ The third of the slot formulas in this cookbook, after [§T8 Pan Sauce](#t8-pan-
 5. **Add the eggs and cheese**, top with the remaining cheese and herbs, and broil.
 
 **🟡 Medium** · **Prep ~20 min** · **Cook ~25 min** · **Start to finish ~45 min** *(staged skillet work start to finish, then a broiler step you watch)*
+
+**⏰ Countdown to dinner:** T−45 min broiler on high, rack up; dice the potatoes, onion and vegetables · T−35 min steam the potatoes (and any firm vegetable) about 5 min, out to a plate · T−28 min brown the protein 4–5 min; sauté the onion (and any tender vegetable) 4–5 min; whisk the eggs with half the cheese · T−15 min potatoes back, eggs in over low, cheese on top, broil 3–5 min · T−5 min rest a few minutes, cut into wedges with a plastic spatula · T−0 serve.
 
 #### A. The Master Recipe
 
@@ -44307,6 +44341,8 @@ Each plugs straight into the Master Recipe — the technique never changes, only
 **Yield:** the source's own — **10 muffins, 1 per serving**
 
 **🥑 Keto** · **🟢 Easy** · **Prep ~5 min** · **Cook ~30 min** *(about 10 min browning the sausage, then a 15–20 min bake)* · **Start to finish ~35 min** *(prep and cook times are the source's own printed figures)*
+
+**⏰ Countdown to dinner:** T−35 min oven to 350°F, grease 10 wells; brown the sausage with the chives, about 10 min · T−22 min whisk the eggs, then cream and seasonings, stir in sausage and cheese; fill each well ¾ full · T−20 min bake 15–20 min, start checking at 15 · T−0 out when the centers are just set and the tops lightly browned.
 
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing here can go from perfect to ruined. Brown sausage, whisk eggs, pour, bake. The one thing that degrades is **overcooked egg going rubbery**, and that's a wide window with a clear cue — see Step 5 and the reheating note.
 

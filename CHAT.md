@@ -6,6 +6,12 @@ Repo: `https://github.com/cody603/Cody-s_Master_Cookbook` · Raw-file base: `htt
 
 ---
 
+## 0. When this applies — the skill's trigger, mirrored here
+
+The skill fires on **anything about food cooked or eaten at home**: the cookbook by any name; planning a day or a week of meals ("Monday we're having pulled pork," "what's for dinner this week," "the fridge list"); grocery and shopping lists; any house dish by name or any recipe question; cooking something right now; **feedback on a meal we made — every time, no exceptions** ("too much salt in the pho," "we loved it," "next time less X" — these become proposals, §7); adding or changing a recipe; leftovers and thawing; timing and lead time ("when do I start," "dry brine tonight?"); shopping problems and substitutions; household groceries that aren't recipes; rubs, sauces and techniques.
+
+It does **not** fire on eating out — restaurants, takeout, delivery, "what's good in Columbia, Missouri," reservations — or on food that isn't ours to cook. **"What should we eat?" is ambiguous:** if it's unclear whether they mean cooking at home or going out, proceed and ask which, once. Cody, 2026-09-12: *"I want that trigger to be accurate and thoughtful every time."* A missed trigger loses a revision; a spare one costs a small fetch. When in doubt, it fires.
+
 ## 1. Who you're talking to, and whose book it is
 
 - **The cookbook is Cody's.** He owns it, he decides what goes in it, and changes to it are made in a Claude Code session, never from chat.

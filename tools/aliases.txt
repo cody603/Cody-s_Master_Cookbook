@@ -1,0 +1,108 @@
+# Spoken aliases — how a dish name comes out of voice transcription, mapped to its anchor.
+# Hand-maintained. tools/build_planner.py reads this and writes planner/quick.md and planner/aliases.md.
+# Format:  anchor | alias; alias; alias      (# comments and blank lines ignored)
+# Anchors are the cookbook heading anchors — the same ones the Meal Planning Sheet links to.
+# Add a line whenever voice mangles a name; the chat matches by sound against this list first.
+
+# --- the ones voice has actually mangled in Cody's own dictations ---
+1-codys-pho | pho; foe; fuh; fa; pho soup; cody's foe; the foe; beef noodle soup
+t28-sous-vide-chicken-codys-method | sous vide chicken; sue veed chicken; suvita chicken; soo vee chicken; sous v chicken
+7151-sous-vide-chicken-thighs-for-the-family-seared | chicken thighs; sous vide thighs; suvita thighs; family chicken thighs
+115-easy-caulimash-keto-mashed-potatoes | caulimash; cali mash; callie mash; cauli mash; cauliflower mash; keto mashed potatoes; easy calimash
+611-codys-tony-chacheres-smoked-turkey | smoked turkey; tony's turkey; tony sattery's turkey; tony sasheries turkey; tony chachery's; chachere's turkey; the turkey
+613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken | beer can chicken; tony's chicken; upright chicken; chicken on the stand; tony sattery's chicken
+2-geoffs-pork-belly-thai-basil | pork belly; thai basil; jeff's pork belly; geoff's pork belly; pork belly thai basil; pork tie basil; thai basil stir fry
+3-darcys-steak | darcy's steak; darcy steak; darcey's steak; darcy's stake; reverse sear steak; the steak
+85-cajun-seafood-gumbo-with-andouille-smoked-sausage | seafood gumbo; cajun gumbo; cajun seafood combo; cajun combo; gumbo
+4197-lawrys-seasoned-salt-store-bought | lawry's; lowry's; lauries; lawry's seasoned salt; seasoned salt
+81-chili-mac--frito-pie | chili mac; frito pie; freedo pie; fritos; chili mac and frito pie; healthy frito pie
+848-codys-chili | chili; the chili; our chili; homemade chili; cody's chili; family chili; crock pot chili
+
+# --- house dishes by the names people actually say ---
+69-codys-pulled-pork | pulled pork; pulled pork sandwiches; cody's pulled pork; pork butt; the pork
+71-pulled-pork-tacos | street tacos; tacos; pulled pork tacos; pork tacos
+61-smoked-brisket | brisket; smoked brisket; the brisket
+610-sous-vide-brisket-richies-method | sous vide brisket; richie's brisket; ritchie's brisket; richie's method; suvita brisket
+612-sous-vide-chuck-roast-smoker-finished | chuck roast; sous vide chuck roast; smoked chuck roast; suvita chuck
+7131-smoked-sous-vide-steak | smoked steak; smoked sous vide steak; sous vide smoked steak
+833-mammas-deerbeef-stew | mama's stew; mamma's stew; mom's stew; deer stew; beef stew; venison stew
+7115-the-great-american-steakhouse-steakburger | steakburgers; steak burgers; burgers; hamburgers; steakhouse burgers
+759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared | pork tenderloin; mediterranean pork; tenderloin platter; sous vide tenderloin; vegeta pork
+797-last-meal-ribs | ribs; last meal ribs; pork ribs; baby backs; the ribs
+719-honey-chicken-marinade--kabobs | honey chicken; kebabs; kabobs; honey chicken kebabs; chicken kebabs; chicken skewers
+79-caveman-chicken-wings | wings; caveman wings; chicken wings; caveman chicken wings
+7119-big-bob-gibsons-chicken-in-bama-white-sauce | bob gibson's; bob gibson's chicken; alabama chicken; white sauce chicken; bama chicken
+731-salmon-with-mustard-glaze | mustard salmon; salmon with mustard; mustard glaze salmon
+7150-grilled-salmon-with-avocado-salsa | salmon; grilled salmon; avocado salmon; salmon with avocado salsa; avocado salsa salmon
+713-crawfish-elegante | crawfish elegante; crawfish elegant; crayfish elegante; crawfish elegantay
+7117-championship-bacon-wrapped-stuffed-shrimp | bacon wrapped shrimp; stuffed shrimp; championship shrimp
+7152-gluten-free-fried-shrimp | fried shrimp; gluten free shrimp; almond flour shrimp
+715-pauls-jambalaya | jambalaya; paul's jambalaya; paul's jumbalaya; jumbalaya
+720-chicken-and-seafood-jambalaya | chicken and seafood jambalaya; seafood jambalaya; chicken jambalaya
+718-spaghetti | spaghetti; spaghetti night; spaghetti sauce
+716-red-beans--rice | red beans and rice; red beans; beans and rice
+84-lemon-chicken-soup-with-spinach-and-rice | lemon chicken soup; chicken soup; lemon soup
+87-italian-sausage--kale-soup | sausage kale soup; sausage and kale soup; italian sausage soup; kale soup
+835-tomato-basil-soup-1-huge-12-qt-pot | tomato soup; tomato basil soup; the big tomato soup
+83-chicken-and-andouille-smoked-sausage-gumbo | chicken gumbo; chicken and sausage gumbo; andouille gumbo; and-doo-ee gumbo
+100-the-loaded-frittata-formula | frittata; fritata; loaded frittata; egg bake
+104-southern-keto-egg-and-sausage-muffins | egg muffins; sausage muffins; keto muffins; breakfast muffins
+933-easy-deviled-eggs | deviled eggs; easy deviled eggs; the easy deviled eggs
+7146-pho-with-leftover-brisket-and-smoked-bone-broth | leftover pho; pho with leftover beef; leftover beef pho; brisket pho
+
+# --- sides ---
+52-sautéed-asparagus | asparagus; sauteed asparagus; sautéed asparagus; pan asparagus
+541-grilled-asparagus | grilled asparagus
+515-roasted-asparagus | roasted asparagus
+538-roasted-veggies | roasted veggies; roasted vegetables; roasted veg; sheet pan veggies
+542-grilled-cauliflower | cauliflower; grilled cauliflower; oven cauliflower; roasted cauliflower
+521-sautéed-kale | kale; sauteed kale; sautéed kale
+537-mammas-spinach | mama's spinach; mamma's spinach; mom's spinach; spinach
+536-lemon-green-beans | green beans; lemon green beans
+554-sauté-snap-peas-with-chilies-and-mint | snap peas; snap peas with chilies; sugar snap peas; peas with mint
+556-cherry-tomato-confit | tomato confit; cherry tomato confit; confit tomatoes; tomatoes confit
+118-fried-cabbage-and-bacon | fried cabbage; cabbage; cabbage and bacon; bacon cabbage
+117-home-fried-bacon-radishes | radishes; fried radishes; bacon radishes
+114-southern-fauxtato-salad-cauliflower-potato-salad | fauxtato salad; faux potato salad; fake potato salad; cauliflower potato salad; southern potato salad
+534-brazilian-black-beans-with-bacon-tutu-mineira | black beans; brazilian black beans; beans with bacon; tutu
+55-salted-sautéed-zucchini-noodle-substitute | zucchini; salted zucchini; zucchini noodles; zoodles; sauteed zucchini
+57-brussels-sprouts | brussels sprouts; brussel sprouts; sprouts
+561-simple-romaine-or-butter-lettuce-salad-with-grana-padano | romaine salad; oil and vinegar salad; simple salad; grana padano salad; parmesan salad; the romaine
+563-simple-romaine-homemade-caesar | caesar salad; caesar; homemade caesar; romaine caesar; seizure salad
+564-quick-salad-with-homemade-dressing | quick salad; salad with homemade dressing; easy salad
+523-greek-salad-with-crumbled-goat-cheese | greek salad; goat cheese salad
+519-brazilian-salad | brazilian salad
+520-escarole-salad-with-lemon--parmigiano | escarole; escarole salad; escarole lemon salad
+510-bacon-tomato-avocado-pasta-salad | pasta salad; bacon tomato avocado pasta salad; blt pasta salad
+562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery | cucumbers in vinegar; salted cucumbers; vinegar cucumbers; salted veggies; vinegar veggies
+4177-quick-pickles | quick pickles; pickles; refrigerator pickles
+45-pickled-pink-onions | pink onions; pickled onions; pickled pink onions; pickled red onions
+557-smoke-roasted-garlic | smoked garlic; roasted garlic; smoke roasted garlic
+558-smoked-tomato-raisins | smoked tomatoes; tomato raisins
+525-heathers-mashed-potatoes | heather's mashed potatoes; mashed potatoes; heather's potatoes
+
+# --- rubs, sauces, techniques ---
+4108-meatheads-memphis-dust | memphis dust; meathead's rub; the dust; meat head dust
+4105-dalmatian-rub | dalmatian rub; dalmation rub; salt and pepper rub; dalmatian
+41-darcys-steak-rub | darcy's rub; darcy's steak rub; steak rub
+47-captain-mikes-seasoning | captain mike's; captain mike's seasoning; captain mikes
+487-cavenders-all-purpose-greek-seasoning-store-bought | cavender's; cavenders; greek seasoning
+488-vegeta-store-bought-croatian-all-purpose-seasoning | vegeta; vageta; vegeta seasoning
+4195-codys-smoked-salt | smoked salt; cody's smoked salt
+4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese | dad's steak sauce; craig's steak sauce; horseradish sauce; horseradish steak sauce; dad's horseradish
+4193-dijon--greek-yogurt-steak-sauce | dijon yogurt sauce; dijon sauce; yogurt steak sauce; mustard yogurt sauce
+4134-creamy-caesar-dressing | caesar dressing; creamy caesar
+4159-rustic-mayonnaise | rustic mayo; homemade mayo; mayo; mayonnaise
+4187-homemade-mayonnaise | homemade mayonnaise; mayo; mayonnaise; prudhomme mayo
+489-codys-greek-vinaigrette-lime--olive-oil | greek dressing; greek vinaigrette; cody's vinaigrette; lime vinaigrette
+456-canal-house-lemon-butter | lemon butter; canal house lemon butter
+484-sauce-vinaigrette-french-dressing | vinaigrette; french vinaigrette; sauce vinaigrette
+499-tomatillo-avocado-salsa | tomatillo salsa; tomatillo avocado salsa; green salsa; avocado salsa
+4146-basic-salsa-verde | salsa verde; green sauce
+437-white-barbecue-sauce | alabama white sauce; white sauce; white bbq sauce; bama sauce
+t8-pan-sauce-formula | pan sauce; wine sauce; wine pan sauce; easy wine sauce; deglaze sauce
+t17-the-raw-egg-soak-deodorizing-fish--shellfish | egg soak; the egg soak; egg wash for fish; fish soak
+t27-sous-vide-not-so-premium-steak-cuts-codys-method | sous vide steak; suvita steak; sous vide cheap steak
+t1-how-to-make-a-roux | roux; how to make a roux; making a roux; the roux
+t44-food-safety--the-real-logic-and-the-target-temperature-table | food safety; safe temperature; what temp is safe; internal temp; target temperature
+t111-planning-a-week--the-conversation-mode-workflow | plan the week; weekly plan; meal plan; planning workflow

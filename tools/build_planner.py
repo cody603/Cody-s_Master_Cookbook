@@ -151,6 +151,125 @@ with open(os.path.join(OUT, 'staples.md'), 'w', encoding='utf-8') as f:
         t = re.sub(r'\s*\*\*.*$', '', title)
         f.write(f'| {num} | {t} | {rewrite(badge, "planner")} | {rewrite(countdown, "planner")} | [{anchor}.md](recipes/{anchor}.md) |\n')
 
+# ---- quick.md + aliases.md — the voice fast path (CHAT.md §1–§2) --------------
+# tools/aliases.txt is hand-maintained: "anchor | alias; alias". Unknown anchors are reported, not silently dropped.
+aliases = {}
+alias_problems = []
+try:
+    for raw in open(os.path.join(ROOT, 'tools', 'aliases.txt'), encoding='utf-8'):
+        raw = raw.strip()
+        if not raw or raw.startswith('#') or '|' not in raw:
+            continue
+        a, _, rest = raw.partition('|')
+        a = a.strip()
+        names = [x.strip() for x in rest.split(';') if x.strip()]
+        if a not in anchor_file:
+            alias_problems.append(a)
+            continue
+        aliases.setdefault(a, [])
+        for n in names:
+            if n.lower() not in [x.lower() for x in aliases[a]]:
+                aliases[a].append(n)
+except FileNotFoundError:
+    alias_problems.append('(tools/aliases.txt missing)')
+
+title_of = {}
+serves_of = {}
+for (i, end, num, title, anchor) in entries:
+    title_of[anchor] = re.sub(r'\s*\*\*.*$', '', title).strip()
+    m = re.search(r'\*\*Per serving\*\* \*\(serves (\d+)', '\n'.join(lines[i:end]))
+    if m:
+        serves_of[anchor] = m.group(1)
+
+CIRCLE = {'🟢': 'easy', '🟡': 'medium', '🔴': 'hard'}
+def describe_cell(cell):
+    """Turn one sheet cell into a plain-words line for quick.md, or None for headers/blank."""
+    c = cell.strip()
+    if not c:
+        return None
+    m = re.search(r'\[([^\]]+)\]\(#([^)]+)\)', c)
+    if not m:
+        if c.startswith('**'):
+            return None
+        return ('nocook', c.replace('*', '').strip())        # a No-Cook item: plain text, no link
+    name, anchor = m.group(1), m.group(2)
+    diff = next((w for e, w in CIRCLE.items() if e in c), '')
+    mins = re.search(r'[🟩🟨🟥]\(([^)]*)\)', c)
+    mins = mins.group(1).replace('†', '').replace(' min', ' min').strip() if mins else ''
+    tags = []
+    if '❤️' in c: tags.append('favorite')
+    if '👍' in c: tags.append('liked')
+    if '🍽️' in c: tags.append('whole meal, no side needed')
+    if '♨' in c: tags.append('grill or smoker')
+    if '🥑' in c: tags.append('keto')
+    parts = [name]
+    if diff: parts.append(diff)
+    if mins: parts.append(mins + ' hands-on')
+    if anchor in serves_of: parts.append('serves ' + serves_of[anchor])
+    parts += tags
+    line = ' — '.join(parts)
+    if aliases.get(anchor):
+        line += ' — sounds like: ' + ', '.join(aliases[anchor][:6])
+    line += f' — file: recipes/{anchor}.md'
+    return ('dish', line)
+
+# walk the sheet's main table: the ⭐ Staple pair leads both columns
+mains, sides, nocook = [], [], []
+in_staples = False
+col_open = [False, False]
+for ln in lines[sheet_s:sheet_e]:
+    if not ln.startswith('|'):
+        continue
+    cells = ln.split('|')[1:-1]
+    if any('⭐ Staple Mains' in x for x in cells):
+        in_staples = True; col_open = [True, True]; continue
+    if not in_staples:
+        continue
+    for k, cell in enumerate(cells[:2]):
+        if not col_open[k]:
+            continue
+        cs = cell.strip()
+        if cs.startswith('**') and '](#' not in cs:
+            col_open[k] = False          # next group header closes this column's staple run
+            continue
+        d = describe_cell(cell)
+        if not d:
+            continue
+        kind, text = d
+        if kind == 'nocook':
+            nocook.append(text)
+        elif k == 0:
+            mains.append(text)
+        else:
+            sides.append(text)
+    if not any(col_open):
+        break
+
+with open(os.path.join(OUT, 'quick.md'), 'w', encoding='utf-8') as f:
+    f.write('# Quick sheet — the fridge list, for fast conversation\n\n')
+    f.write('<!-- GENERATED from codys-cookbook.md (Meal Planning Sheet staples + tools/aliases.txt) — do not edit here -->\n\n')
+    f.write('Read this first and answer from it. One line per dish: name — difficulty — hands-on minutes — serves — notes — how the name sounds when spoken — the recipe file. '
+            'Speak the words, not the symbols. For everything else in the book, fetch meal-planning-sheet.md; for the calendar countdowns, staples.md.\n\n')
+    f.write('## Staple mains\n\n')
+    for x in mains: f.write('- ' + x + '\n')
+    f.write('\n## Staple sides\n\n')
+    for x in sides: f.write('- ' + x + '\n')
+    f.write('\n## No-cook sides (no recipe, just buy them)\n\n')
+    for x in nocook: f.write('- ' + x + '\n')
+    f.write('\n## Household extras\n\nFruit, snacks, sandwich fixings and the like are in `../HOUSEHOLD-STAPLES.md` — ask "anything extra this week?" once.\n')
+    f.write('\n## Not on this page\n\nEvery other cookable dish is on `meal-planning-sheet.md`. The chili is Cody\'s Chili (`recipes/848-codys-chili.md`); chili mac and Frito pie are one dish built on it.\n')
+
+with open(os.path.join(OUT, 'aliases.md'), 'w', encoding='utf-8') as f:
+    f.write('# Sounds like — spoken names for every dish that has them\n\n')
+    f.write('<!-- GENERATED from tools/aliases.txt — add new mangles there, not here -->\n\n')
+    f.write('Voice transcription mangles names. Match what you heard against the left side, by sound; the right side is the dish and its file. If nothing matches, take the closest and confirm in one word.\n\n')
+    for a in sorted(aliases, key=lambda x: title_of.get(x, x).lower()):
+        f.write(f'- {"; ".join(aliases[a])} → **{title_of.get(a, a)}** — recipes/{a}.md\n')
+
+print(f'quick.md: {len(mains)} staple mains, {len(sides)} staple sides, {len(nocook)} no-cook; aliases for {len(aliases)} dishes')
+if alias_problems:
+    print('ALIAS ANCHORS NOT FOUND (fix tools/aliases.txt):', alias_problems)
+
 # meal-planning-sheet.md
 sheet = '\n'.join(lines[sheet_s:sheet_e]).rstrip() + '\n'
 sheet = ('<!-- GENERATED from codys-cookbook.md#meal-planning-sheet — do not edit here -->\n\n' +

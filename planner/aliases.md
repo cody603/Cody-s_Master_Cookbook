@@ -1,0 +1,101 @@
+# Sounds like — spoken names for every dish that has them
+
+<!-- GENERATED from tools/aliases.txt — add new mangles there, not here -->
+
+Voice transcription mangles names. Match what you heard against the left side, by sound; the right side is the dish and its file. If nothing matches, take the closest and confirm in one word.
+
+- pasta salad; bacon tomato avocado pasta salad; blt pasta salad → **Bacon Tomato Avocado Pasta Salad** — recipes/510-bacon-tomato-avocado-pasta-salad.md
+- salsa verde; green sauce → **Basic Salsa Verde** — recipes/4146-basic-salsa-verde.md
+- beer can chicken; tony's chicken; upright chicken; chicken on the stand; tony sattery's chicken → **Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)** — recipes/613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken.md
+- bob gibson's; bob gibson's chicken; alabama chicken; white sauce chicken; bama chicken → **Big Bob Gibson's Chicken in 'Bama White Sauce** — recipes/7119-big-bob-gibsons-chicken-in-bama-white-sauce.md
+- black beans; brazilian black beans; beans with bacon; tutu → **Brazilian Black Beans with Bacon (Tutu Mineira)** — recipes/534-brazilian-black-beans-with-bacon-tutu-mineira.md
+- brazilian salad → **Brazilian Salad** — recipes/519-brazilian-salad.md
+- brussels sprouts; brussel sprouts; sprouts → **Brussels Sprouts** — recipes/57-brussels-sprouts.md
+- seafood gumbo; cajun gumbo; cajun seafood combo; cajun combo; gumbo → **Cajun Seafood Gumbo with Andouille Smoked Sausage** — recipes/85-cajun-seafood-gumbo-with-andouille-smoked-sausage.md
+- lemon butter; canal house lemon butter → **Canal House Lemon Butter** — recipes/456-canal-house-lemon-butter.md
+- captain mike's; captain mike's seasoning; captain mikes → **Captain Mike's Seasoning** — recipes/47-captain-mikes-seasoning.md
+- wings; caveman wings; chicken wings; caveman chicken wings → **Caveman Chicken Wings** — recipes/79-caveman-chicken-wings.md
+- cavender's; cavenders; greek seasoning → **Cavender's All Purpose Greek Seasoning (Store-Bought)** — recipes/487-cavenders-all-purpose-greek-seasoning-store-bought.md
+- bacon wrapped shrimp; stuffed shrimp; championship shrimp → **Championship Bacon-Wrapped Stuffed Shrimp** — recipes/7117-championship-bacon-wrapped-stuffed-shrimp.md
+- tomato confit; cherry tomato confit; confit tomatoes; tomatoes confit → **Cherry Tomato Confit** — recipes/556-cherry-tomato-confit.md
+- chicken gumbo; chicken and sausage gumbo; andouille gumbo; and-doo-ee gumbo → **Chicken and Andouille Smoked Sausage Gumbo** — recipes/83-chicken-and-andouille-smoked-sausage-gumbo.md
+- chicken and seafood jambalaya; seafood jambalaya; chicken jambalaya → **Chicken and Seafood Jambalaya** — recipes/720-chicken-and-seafood-jambalaya.md
+- chili mac; frito pie; freedo pie; fritos; chili mac and frito pie; healthy frito pie → **Chili Mac & Frito Pie** — recipes/81-chili-mac--frito-pie.md
+- chili; the chili; our chili; homemade chili; cody's chili; family chili; crock pot chili → **Cody's Chili** — recipes/848-codys-chili.md
+- greek dressing; greek vinaigrette; cody's vinaigrette; lime vinaigrette → **Cody's Greek Vinaigrette (Lime & Olive Oil)** — recipes/489-codys-greek-vinaigrette-lime--olive-oil.md
+- pho; foe; fuh; fa; pho soup; cody's foe; the foe; beef noodle soup → **Cody's Pho** — recipes/1-codys-pho.md
+- pulled pork; pulled pork sandwiches; cody's pulled pork; pork butt; the pork → **Cody's Pulled Pork** — recipes/69-codys-pulled-pork.md
+- smoked salt; cody's smoked salt → **Cody's Smoked Salt** — recipes/4195-codys-smoked-salt.md
+- smoked turkey; tony's turkey; tony sattery's turkey; tony sasheries turkey; tony chachery's; chachere's turkey; the turkey → **Cody's Tony Chachere's Smoked Turkey** — recipes/611-codys-tony-chacheres-smoked-turkey.md
+- crawfish elegante; crawfish elegant; crayfish elegante; crawfish elegantay → **Crawfish Elegante** — recipes/713-crawfish-elegante.md
+- caesar dressing; creamy caesar → **Creamy Caesar Dressing** — recipes/4134-creamy-caesar-dressing.md
+- dad's steak sauce; craig's steak sauce; horseradish sauce; horseradish steak sauce; dad's horseradish → **Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)** — recipes/4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese.md
+- dalmatian rub; dalmation rub; salt and pepper rub; dalmatian → **Dalmatian Rub** — recipes/4105-dalmatian-rub.md
+- darcy's steak; darcy steak; darcey's steak; darcy's stake; reverse sear steak; the steak → **Darcy's Steak** — recipes/3-darcys-steak.md
+- darcy's rub; darcy's steak rub; steak rub → **Darcy's Steak Rub** — recipes/41-darcys-steak-rub.md
+- dijon yogurt sauce; dijon sauce; yogurt steak sauce; mustard yogurt sauce → **Dijon & Greek Yogurt Steak Sauce** — recipes/4193-dijon--greek-yogurt-steak-sauce.md
+- caulimash; cali mash; callie mash; cauli mash; cauliflower mash; keto mashed potatoes; easy calimash → **Easy Caulimash (Keto "Mashed Potatoes")** — recipes/115-easy-caulimash-keto-mashed-potatoes.md
+- deviled eggs; easy deviled eggs; the easy deviled eggs → **Easy Deviled Eggs** — recipes/933-easy-deviled-eggs.md
+- escarole; escarole salad; escarole lemon salad → **Escarole Salad with Lemon & Parmigiano** — recipes/520-escarole-salad-with-lemon--parmigiano.md
+- food safety; safe temperature; what temp is safe; internal temp; target temperature → **Food Safety — The Real Logic (and the Target Temperature Table)** — recipes/t44-food-safety--the-real-logic-and-the-target-temperature-table.md
+- fried cabbage; cabbage; cabbage and bacon; bacon cabbage → **Fried Cabbage and Bacon** — recipes/118-fried-cabbage-and-bacon.md
+- pork belly; thai basil; jeff's pork belly; geoff's pork belly; pork belly thai basil; pork tie basil; thai basil stir fry → **Geoff's Pork Belly Thai Basil** — recipes/2-geoffs-pork-belly-thai-basil.md
+- fried shrimp; gluten free shrimp; almond flour shrimp → **Gluten-Free Fried Shrimp** — recipes/7152-gluten-free-fried-shrimp.md
+- greek salad; goat cheese salad → **Greek Salad with Crumbled Goat Cheese** — recipes/523-greek-salad-with-crumbled-goat-cheese.md
+- grilled asparagus → **Grilled Asparagus** — recipes/541-grilled-asparagus.md
+- cauliflower; grilled cauliflower; oven cauliflower; roasted cauliflower → **Grilled Cauliflower** — recipes/542-grilled-cauliflower.md
+- salmon; grilled salmon; avocado salmon; salmon with avocado salsa; avocado salsa salmon → **Grilled Salmon with Avocado Salsa** — recipes/7150-grilled-salmon-with-avocado-salsa.md
+- heather's mashed potatoes; mashed potatoes; heather's potatoes → **Heather's Mashed Potatoes** — recipes/525-heathers-mashed-potatoes.md
+- radishes; fried radishes; bacon radishes → **Home-Fried Bacon Radishes** — recipes/117-home-fried-bacon-radishes.md
+- homemade mayonnaise; mayo; mayonnaise; prudhomme mayo → **Homemade Mayonnaise** — recipes/4187-homemade-mayonnaise.md
+- honey chicken; kebabs; kabobs; honey chicken kebabs; chicken kebabs; chicken skewers → **Honey Chicken Marinade & Kabobs** — recipes/719-honey-chicken-marinade--kabobs.md
+- roux; how to make a roux; making a roux; the roux → **How to Make a Roux** — recipes/t1-how-to-make-a-roux.md
+- sausage kale soup; sausage and kale soup; italian sausage soup; kale soup → **Italian Sausage & Kale Soup** — recipes/87-italian-sausage--kale-soup.md
+- ribs; last meal ribs; pork ribs; baby backs; the ribs → **Last-Meal Ribs** — recipes/797-last-meal-ribs.md
+- lawry's; lowry's; lauries; lawry's seasoned salt; seasoned salt → **Lawry's Seasoned Salt (Store-Bought)** — recipes/4197-lawrys-seasoned-salt-store-bought.md
+- lemon chicken soup; chicken soup; lemon soup → **Lemon Chicken Soup with Spinach and Rice** — recipes/84-lemon-chicken-soup-with-spinach-and-rice.md
+- green beans; lemon green beans → **Lemon Green Beans** — recipes/536-lemon-green-beans.md
+- mama's stew; mamma's stew; mom's stew; deer stew; beef stew; venison stew → **Mamma's Deer/Beef Stew** — recipes/833-mammas-deerbeef-stew.md
+- mama's spinach; mamma's spinach; mom's spinach; spinach → **Mamma's Spinach** — recipes/537-mammas-spinach.md
+- memphis dust; meathead's rub; the dust; meat head dust → **Meathead's Memphis Dust** — recipes/4108-meatheads-memphis-dust.md
+- pork tenderloin; mediterranean pork; tenderloin platter; sous vide tenderloin; vegeta pork → **Mediterranean Pork Tenderloin Platter (Vegeta-Rubbed, Sous Vide & Seared)** — recipes/759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared.md
+- pan sauce; wine sauce; wine pan sauce; easy wine sauce; deglaze sauce → **Pan Sauce Formula** — recipes/t8-pan-sauce-formula.md
+- jambalaya; paul's jambalaya; paul's jumbalaya; jumbalaya → **Pauls Jambalaya** — recipes/715-pauls-jambalaya.md
+- leftover pho; pho with leftover beef; leftover beef pho; brisket pho → **Pho with Leftover Brisket and Smoked Bone Broth** — recipes/7146-pho-with-leftover-brisket-and-smoked-bone-broth.md
+- pink onions; pickled onions; pickled pink onions; pickled red onions → **Pickled Pink Onions** — recipes/45-pickled-pink-onions.md
+- plan the week; weekly plan; meal plan; planning workflow → **Planning a Week — the Conversation-Mode Workflow** — recipes/t111-planning-a-week--the-conversation-mode-workflow.md
+- street tacos; tacos; pulled pork tacos; pork tacos → **Pulled Pork Tacos** — recipes/71-pulled-pork-tacos.md
+- quick pickles; pickles; refrigerator pickles → **Quick Pickles** — recipes/4177-quick-pickles.md
+- quick salad; salad with homemade dressing; easy salad → **Quick Salad with Homemade Dressing** — recipes/564-quick-salad-with-homemade-dressing.md
+- red beans and rice; red beans; beans and rice → **Red Beans & Rice** — recipes/716-red-beans--rice.md
+- roasted asparagus → **Roasted Asparagus** — recipes/515-roasted-asparagus.md
+- roasted veggies; roasted vegetables; roasted veg; sheet pan veggies → **Roasted Veggies** — recipes/538-roasted-veggies.md
+- rustic mayo; homemade mayo; mayo; mayonnaise → **Rustic Mayonnaise** — recipes/4159-rustic-mayonnaise.md
+- mustard salmon; salmon with mustard; mustard glaze salmon → **Salmon with Mustard Glaze** — recipes/731-salmon-with-mustard-glaze.md
+- zucchini; salted zucchini; zucchini noodles; zoodles; sauteed zucchini → **Salted Sautéed Zucchini (noodle substitute)** — recipes/55-salted-sautéed-zucchini-noodle-substitute.md
+- cucumbers in vinegar; salted cucumbers; vinegar cucumbers; salted veggies; vinegar veggies → **Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)** — recipes/562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery.md
+- vinaigrette; french vinaigrette; sauce vinaigrette → **Sauce Vinaigrette (French Dressing)** — recipes/484-sauce-vinaigrette-french-dressing.md
+- snap peas; snap peas with chilies; sugar snap peas; peas with mint → **Sauté: Snap Peas with Chilies and Mint** — recipes/554-sauté-snap-peas-with-chilies-and-mint.md
+- asparagus; sauteed asparagus; sautéed asparagus; pan asparagus → **Sautéed Asparagus** — recipes/52-sautéed-asparagus.md
+- kale; sauteed kale; sautéed kale → **Sautéed Kale** — recipes/521-sautéed-kale.md
+- romaine salad; oil and vinegar salad; simple salad; grana padano salad; parmesan salad; the romaine → **Simple Romaine (or Butter Lettuce) Salad with Grana Padano** — recipes/561-simple-romaine-or-butter-lettuce-salad-with-grana-padano.md
+- caesar salad; caesar; homemade caesar; romaine caesar; seizure salad → **Simple Romaine, Homemade Caesar** — recipes/563-simple-romaine-homemade-caesar.md
+- smoked garlic; roasted garlic; smoke roasted garlic → **Smoke-Roasted Garlic** — recipes/557-smoke-roasted-garlic.md
+- brisket; smoked brisket; the brisket → **Smoked Brisket** — recipes/61-smoked-brisket.md
+- smoked steak; smoked sous vide steak; sous vide smoked steak → **Smoked Sous-Vide Steak** — recipes/7131-smoked-sous-vide-steak.md
+- smoked tomatoes; tomato raisins → **Smoked Tomato Raisins** — recipes/558-smoked-tomato-raisins.md
+- sous vide steak; suvita steak; sous vide cheap steak → **Sous Vide "Not-So-Premium" Steak Cuts (Cody's Method)** — recipes/t27-sous-vide-not-so-premium-steak-cuts-codys-method.md
+- sous vide brisket; richie's brisket; ritchie's brisket; richie's method; suvita brisket → **Sous Vide Brisket (Richie's Method)** — recipes/610-sous-vide-brisket-richies-method.md
+- sous vide chicken; sue veed chicken; suvita chicken; soo vee chicken; sous v chicken → **Sous Vide Chicken (Cody's Method)** — recipes/t28-sous-vide-chicken-codys-method.md
+- chicken thighs; sous vide thighs; suvita thighs; family chicken thighs → **Sous Vide Chicken Thighs for the Family (Seared)** — recipes/7151-sous-vide-chicken-thighs-for-the-family-seared.md
+- chuck roast; sous vide chuck roast; smoked chuck roast; suvita chuck → **Sous Vide Chuck Roast, Smoker-Finished** — recipes/612-sous-vide-chuck-roast-smoker-finished.md
+- fauxtato salad; faux potato salad; fake potato salad; cauliflower potato salad; southern potato salad → **Southern Fauxtato Salad (Cauliflower "Potato" Salad)** — recipes/114-southern-fauxtato-salad-cauliflower-potato-salad.md
+- egg muffins; sausage muffins; keto muffins; breakfast muffins → **Southern Keto Egg and Sausage Muffins** — recipes/104-southern-keto-egg-and-sausage-muffins.md
+- spaghetti; spaghetti night; spaghetti sauce → **Spaghetti** — recipes/718-spaghetti.md
+- steakburgers; steak burgers; burgers; hamburgers; steakhouse burgers → **The Great American Steakhouse Steakburger** — recipes/7115-the-great-american-steakhouse-steakburger.md
+- frittata; fritata; loaded frittata; egg bake → **The Loaded Frittata Formula** — recipes/100-the-loaded-frittata-formula.md
+- egg soak; the egg soak; egg wash for fish; fish soak → **The Raw Egg Soak (Deodorizing Fish & Shellfish)** — recipes/t17-the-raw-egg-soak-deodorizing-fish--shellfish.md
+- tomatillo salsa; tomatillo avocado salsa; green salsa; avocado salsa → **Tomatillo Avocado Salsa** — recipes/499-tomatillo-avocado-salsa.md
+- tomato soup; tomato basil soup; the big tomato soup → **Tomato Basil Soup (1 Huge 12 QT Pot!)** — recipes/835-tomato-basil-soup-1-huge-12-qt-pot.md
+- vegeta; vageta; vegeta seasoning → **Vegeta (Store-Bought Croatian All-Purpose Seasoning)** — recipes/488-vegeta-store-bought-croatian-all-purpose-seasoning.md
+- alabama white sauce; white sauce; white bbq sauce; bama sauce → **White Barbecue Sauce** — recipes/437-white-barbecue-sauce.md

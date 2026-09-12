@@ -20377,6 +20377,11 @@ The master file is over 4 MB. A chat session fetching it from GitHub gets the fr
 
 Raw URL pattern: `https://raw.githubusercontent.com/cody603/Cody-s_Master_Cookbook/main/planner/<path>`. Always the live copy; never memory, never an old paste.
 
+> **📌 2026-09-12 — the chat side now starts from `CHAT.md`, and this entry is one of the things it points at.** Cody wants the family's *master-cookbook* skill fixed and minimal — *"I want the skill to only reference the code, and the code continually gets updated"* — so the skill is one paragraph pointing at **`CHAT.md`** at the root of the repo, and `CHAT.md` is the chat session's whole operating manual: where to read, how to talk (short by default — *"it gave me a little bit too many details when I didn't ask for it"*), this workflow in short form, the grocery push, and what chat may write down. **[CLAUDE.md §8](CLAUDE.md)** records the arrangement. Two things learned from his first live test the same day:
+>
+> - **The refresh rule.** He added [§8.48 Cody's Chili](#848-codys-chili) in the middle of a planning conversation and the chat didn't pick it up — it was still working from what it had read at the start. So: **when anyone says something was just added or changed, fetch `CHANGELOG.md` fresh** (newest-first, so the top rows are today's even in a cut-off fetch), **then fetch fresh whichever `planner/` files those rows name, and let the fresh read supersede anything read earlier.** `planner/README.md` carries a build stamp; a changelog row newer than the stamp means the planner hasn't caught up yet. `CHAT.md` §4 has the full procedure.
+> - **Two write targets, and only two.** Chat never edits the master file; it appends to **`PROPOSED-REVISIONS.md`** (anything that would change a recipe — reviewed here with Cody at the start of every Code session) and **`HOUSEHOLD-STAPLES.md`** (groceries that aren't recipes — fruit, snacks, sandwich fixings; no sign-off needed). §2 and §5 below stand; the grocery list now also pulls the week's household extras from that second file.
+
 #### 1. Take the week down
 
 He gives it by voice, loosely: a day, a dinner time, a dish — sometimes a side, sometimes "leftovers." Write it back as a table before doing anything else, so a misheard dish is caught first:
@@ -40355,6 +40360,8 @@ Ladle into heated bowls and garnish with toasted French bread croutons, snipped 
 ---
 
 ### 8.21 Five-Way Chili
+> **🚫 Parked, 2026-09-12, on Cody's word: *"You can ignore Cincinnati chili. You can ignore that, until I get you a Cincinnati chili recipe — and just use our homemade chili recipe in the family cookbook, the one that goes to Chili Mac, the same chili that's gonna be used for chili dogs."*** So until a Cincinnati recipe arrives, **every chili use in this book — [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie), [§8.36 Chili Dogs](#836-chili-dogs), anything else — is [§8.48 Cody's Chili](#848-codys-chili)**, and this placeholder asks for nothing. It stays only so the number and the anchor hold.
+>
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **This speculation is now resolved, and the answer is no:** when [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) was transcribed and turned out to be exactly that layered spaghetti/chili/cheese/beans style, Cody had it renamed from a plain "Chili" rather than folded in here — so this Five-Way Chili placeholder is a genuinely separate, still-undocumented dish.
 >
 > **📌 Standing rule, ✅ 2026-09-07 per Cody — applies here when this gets written up:** any chili in this cookbook uses a **50/50 meat mix — deer and pork sausage, or beef and pork sausage** (see [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie)).

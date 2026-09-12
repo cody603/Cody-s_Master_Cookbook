@@ -157,8 +157,16 @@ sheet = ('<!-- GENERATED from codys-cookbook.md#meal-planning-sheet — do not e
          rewrite(sheet, 'planner').replace('[↑ Table of Contents](index.md)', '[Index](index.md)'))
 open(os.path.join(OUT, 'meal-planning-sheet.md'), 'w', encoding='utf-8').write(sheet)
 
-# README.md
+# README.md — carries the build stamp a chat session compares against CHANGELOG.md (CHAT.md §4)
+import datetime, subprocess
+try:
+    built_from = subprocess.run(['git', '-C', ROOT, 'rev-parse', '--short', 'HEAD'], capture_output=True, text=True).stdout.strip() or 'unknown'
+except Exception:
+    built_from = 'unknown'
+built_at = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 open(os.path.join(OUT, 'README.md'), 'w', encoding='utf-8').write(f'''# planner/ — the cookbook, one recipe per file
+
+**Built {built_at}, on top of commit `{built_from}`.** *(A chat session compares this against the top of `CHANGELOG.md` — if a changelog row is newer than this stamp, the planner hasn't caught up with it yet. See `CHAT.md` §4.)*
 
 **This folder is generated from [`codys-cookbook.md`](../codys-cookbook.md) and is never edited by hand.** The master
 file is the single source of truth (CLAUDE.md §1–§2); this is a derived view of it, rebuilt by
@@ -166,12 +174,16 @@ file is the single source of truth (CLAUDE.md §1–§2); this is a derived view
 from GitHub. The master is over 4 MB, and a web fetch never gets past its front matter — that is the only reason this
 folder exists.
 
+**A chat session should start from [`../CHAT.md`](../CHAT.md)** — the operating manual — which sends it here.
+
 - [`meal-planning-sheet.md`](meal-planning-sheet.md) — the fridge sheet. **Start here** when planning a week.
 - [`staples.md`](staples.md) — the ⭐ Staples with badge and ⏰ countdown to dinner, one line each.
 - [`index.md`](index.md) — every entry on one line: § number, title, difficulty, file.
 - [`recipes/`](recipes/) — one file per recipe and technique entry, named by the entry's anchor.
 - The weekly-planning workflow (what to produce, in what order, and how the calendar events are placed) is
   [§T111](recipes/{t111}.md) in the cookbook.
+- Things a chat session may write to live outside this folder: [`../PROPOSED-REVISIONS.md`](../PROPOSED-REVISIONS.md)
+  (the intake queue) and [`../HOUSEHOLD-STAPLES.md`](../HOUSEHOLD-STAPLES.md) (groceries that aren't recipes).
 
 Raw-file URL pattern for a chat session: `https://raw.githubusercontent.com/cody603/Cody-s_Master_Cookbook/main/planner/<path>`.
 ''')

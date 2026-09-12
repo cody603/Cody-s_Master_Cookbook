@@ -2,6 +2,8 @@
 [↑ Meal Planning Sheet](../meal-planning-sheet.md) · [Index](../index.md)
 
 ### 8.21 Five-Way Chili
+> **🚫 Parked, 2026-09-12, on Cody's word: *"You can ignore Cincinnati chili. You can ignore that, until I get you a Cincinnati chili recipe — and just use our homemade chili recipe in the family cookbook, the one that goes to Chili Mac, the same chili that's gonna be used for chili dogs."*** So until a Cincinnati recipe arrives, **every chili use in this book — [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md), [§8.36 Chili Dogs](836-chili-dogs.md), anything else — is [§8.48 Cody's Chili](848-codys-chili.md)**, and this placeholder asks for nothing. It stays only so the number and the anchor hold.
+>
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **This speculation is now resolved, and the answer is no:** when [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md) was transcribed and turned out to be exactly that layered spaghetti/chili/cheese/beans style, Cody had it renamed from a plain "Chili" rather than folded in here — so this Five-Way Chili placeholder is a genuinely separate, still-undocumented dish.
 >
 > **📌 Standing rule, ✅ 2026-09-07 per Cody — applies here when this gets written up:** any chili in this cookbook uses a **50/50 meat mix — deer and pork sausage, or beef and pork sausage** (see [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md)).

@@ -21,6 +21,11 @@ The master file is over 4 MB. A chat session fetching it from GitHub gets the fr
 
 Raw URL pattern: `https://raw.githubusercontent.com/cody603/Cody-s_Master_Cookbook/main/planner/<path>`. Always the live copy; never memory, never an old paste.
 
+> **📌 2026-09-12 — the chat side now starts from `CHAT.md`, and this entry is one of the things it points at.** Cody wants the family's *master-cookbook* skill fixed and minimal — *"I want the skill to only reference the code, and the code continually gets updated"* — so the skill is one paragraph pointing at **`CHAT.md`** at the root of the repo, and `CHAT.md` is the chat session's whole operating manual: where to read, how to talk (short by default — *"it gave me a little bit too many details when I didn't ask for it"*), this workflow in short form, the grocery push, and what chat may write down. **[CLAUDE.md §8](../../CLAUDE.md)** records the arrangement. Two things learned from his first live test the same day:
+>
+> - **The refresh rule.** He added [§8.48 Cody's Chili](848-codys-chili.md) in the middle of a planning conversation and the chat didn't pick it up — it was still working from what it had read at the start. So: **when anyone says something was just added or changed, fetch `CHANGELOG.md` fresh** (newest-first, so the top rows are today's even in a cut-off fetch), **then fetch fresh whichever `planner/` files those rows name, and let the fresh read supersede anything read earlier.** `planner/README.md` carries a build stamp; a changelog row newer than the stamp means the planner hasn't caught up yet. `CHAT.md` §4 has the full procedure.
+> - **Two write targets, and only two.** Chat never edits the master file; it appends to **`PROPOSED-REVISIONS.md`** (anything that would change a recipe — reviewed here with Cody at the start of every Code session) and **`HOUSEHOLD-STAPLES.md`** (groceries that aren't recipes — fruit, snacks, sandwich fixings; no sign-off needed). §2 and §5 below stand; the grocery list now also pulls the week's household extras from that second file.
+
 #### 1. Take the week down
 
 He gives it by voice, loosely: a day, a dinner time, a dish — sometimes a side, sometimes "leftovers." Write it back as a table before doing anything else, so a misheard dish is caught first:

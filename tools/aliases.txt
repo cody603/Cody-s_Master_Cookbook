@@ -106,3 +106,4 @@ t27-sous-vide-not-so-premium-steak-cuts-codys-method | sous vide steak; suvita s
 t1-how-to-make-a-roux | roux; how to make a roux; making a roux; the roux
 t44-food-safety--the-real-logic-and-the-target-temperature-table | food safety; safe temperature; what temp is safe; internal temp; target temperature
 t111-planning-a-week--the-conversation-mode-workflow | plan the week; weekly plan; meal plan; planning workflow
+t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough | cook tonight; walk me through dinner; tonight's instructions; step by step; what's first; what's next; where were we; instructions for tonight; dinner tonight

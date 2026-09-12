@@ -27,6 +27,7 @@ Voice transcription mangles names. Match what you heard against the left side, b
 - pulled pork; pulled pork sandwiches; cody's pulled pork; pork butt; the pork → **Cody's Pulled Pork** — recipes/69-codys-pulled-pork.md
 - smoked salt; cody's smoked salt → **Cody's Smoked Salt** — recipes/4195-codys-smoked-salt.md
 - smoked turkey; tony's turkey; tony sattery's turkey; tony sasheries turkey; tony chachery's; chachere's turkey; the turkey → **Cody's Tony Chachere's Smoked Turkey** — recipes/611-codys-tony-chacheres-smoked-turkey.md
+- cook tonight; walk me through dinner; tonight's instructions; step by step; what's first; what's next; where were we; instructions for tonight; dinner tonight → **Cooking the Whole Meal — Sequencing Several Dishes, and the Spoken Walkthrough** — recipes/t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md
 - crawfish elegante; crawfish elegant; crayfish elegante; crawfish elegantay → **Crawfish Elegante** — recipes/713-crawfish-elegante.md
 - caesar dressing; creamy caesar → **Creamy Caesar Dressing** — recipes/4134-creamy-caesar-dressing.md
 - dad's steak sauce; craig's steak sauce; horseradish sauce; horseradish steak sauce; dad's horseradish → **Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)** — recipes/4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese.md

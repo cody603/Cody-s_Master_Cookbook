@@ -79,6 +79,8 @@ Rules:
 
 #### 4. Deliverable three — the week's cooking document
 
+> **📌 2026-09-12 (later) — the document is one merged sequence per night, not the recipes stapled together.** Cody: *"there needs to be unique instructions based on the sides every time… you need to put in parenthesis what it's for, just in case we make some last-minute substitution."* **[§T112](t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md) has the rules** — every stage classed as precision, check-in or hands-off; never two precision stages at once; hands-off first; precision in the rest windows; every step tagged *(for the X)*; simultaneous steps as an *"at the same time"* block; a substitution line at the top. The per-recipe verbatim sections below still hold for what the steps *say*; §T112 governs the *order* and the *tags*.
+
 One document, Monday through Saturday (or whatever days he named), in day order. For each day:
 
 1. **The day header:** day, dinner time, the main and sides, the countdown line(s) for that day.
@@ -89,6 +91,8 @@ One document, Monday through Saturday (or whatever days he named), in day order.
 Deliver it as a downloadable document (Word if he asks for Word; otherwise markdown or PDF) **and offer to send it through Gmail** in the same turn. The grocery list from §2 goes at the top of the same document as a backup to the phone list.
 
 #### 5. Deliverable four — cooking with the document open
+
+> **📌 2026-09-12 (later) — spoken cooking is one step, then stop.** Cody: *"if you just give them steps one through thirty-five, that's worthless… they wanna concentrate on that one step."* **[§T112 §4](t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md)** is the procedure: build the merged sequence, keep a private pointer to the current dish and step, say one step with what it's for and its one technique pointer, stop and wait; simultaneous steps as one turn; precision stages slowly with the doneness cue; answer a question then restate the step; *"where were we?"* names the dish and step. The bullets below still apply to *what* is answered; §T112 governs the pace.
 
 He will read the document and talk at the same time. The rules for that conversation:
 

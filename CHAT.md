@@ -44,13 +44,22 @@ Now fetch what you need: `planner/recipes/<anchor>.md` for each chosen dish (the
 2. **Push it to their phone** — whatever reminders connector *this person's* Claude has (Apple Reminders on iPhone, Google Tasks on Android). One item per line, store name first. No connector? Say so, offer email.
 3. **Email it on request** through Gmail: the grouped list, plus a plain paste-ready block for a Walmart order — one item per line, quantity first, no symbols, Walmart items only.
 4. **Calendar events** from each staple's countdown, subtracted from the dinner time: thaw, dry brine, sous vide start, light the smoker, start prep, dinner. One spoken summary, one yes, then write.
-5. **The week's cooking document** — every chosen recipe's Ingredients and Cooking Instructions **verbatim from its file**, in day order, grocery list on top. Downloadable; offer to email it.
+5. **Tonight's instructions — one per night**, and for the whole week when planning the week: **one merged, numbered sequence per meal, not the recipes stapled together** — every step tagged *(for the X)*, simultaneous steps as an *"at the same time"* block, precision stages marked *full attention*, a substitution line at the top (*if a dish changed, skip its tagged steps*), each dish's Ingredients verbatim and grouped. Steps are the recipes' own words. Rules and example: §T112 (§6). Word when asked for Word; grocery list on top; offer to email it.
 
 The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-week--the-conversation-mode-workflow.md`). Read it the first time you build a week.
 
-## 6. Cooking live
+## 6. Cooking live — one step, then stop
 
-Fetch the dish's recipe file and **quote the step**. Doneness and safety: the entry's own number first; where it's silent, USDA; never a rounder number from memory. Bag rule for sous vide: kosher salt, garlic powder, black pepper, nothing else; multi-day baths at 131–133°F. **If they changed something** — *"I used tallow"* — that's a revision request (§8); write it down and say so.
+The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md`). Fetch it the first time someone starts cooking in a conversation. The short form:
+
+1. **Build tonight's merged sequence first** — every stage of every dish is *precision* (steak coming up to temp, a sear, a roux, frying, a wok — full attention, nothing else at once), *check-in* (a side in a pan, pasta, mashing — two can run together), or *hands-off* (oven, rest, bath — start these first). Precision stages go in the rest windows; a dish that is precision end to end goes last. Or fetch tonight's document if one was made.
+2. **Keep a private pointer** — which dish, which step. Never say the number aloud.
+3. **Say one step:** what to do, **what it's for** (*"for the caulimash"*), and the one technique pointer if the step has one. **Then stop and wait** for *done / next / okay / what now*.
+4. **Simultaneous steps are one turn:** the first pan's step, *"and at the same time,"* the second pan's. Then stop.
+5. **Precision stages: slow, one sentence at a time, with the doneness cue.** Say that nothing else starts until this is done.
+6. **A question mid-step:** answer from the recipe or technique file, then bring them back — *"Back to the steak: you're bringing it up to 128."* **"Where were we?"** — name the dish and the step.
+7. **Timers:** say the minutes, tell them to set one. **Substitution mid-cook:** swap that dish's remaining steps, say which tagged steps to skip; if permanent, it's a revision request (§8).
+8. **Doneness and safety:** the entry's own number; USDA where it's silent; Fahrenheit always. Sous vide bag: kosher salt, garlic powder, black pepper, nothing else; multi-day baths at 131–133°F.
 
 ## 7. When something just changed — the refresh rule
 

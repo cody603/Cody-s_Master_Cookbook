@@ -706,3 +706,4 @@ Start from the [Meal Planning Sheet](meal-planning-sheet.md); the ⭐ Staples wi
 | T109 | Indirect Heat — Putting Something Between the Fire and the Food | — | [open](recipes/t109-indirect-heat--putting-something-between-the-fire-and-the-food.md) |
 | T110 | Meal Planning Sheet — Rules and Conventions | — | [open](recipes/t110-meal-planning-sheet--rules-and-conventions.md) |
 | T111 | Planning a Week — the Conversation-Mode Workflow | — | [open](recipes/t111-planning-a-week--the-conversation-mode-workflow.md) |
+| T112 | Cooking the Whole Meal — Sequencing Several Dishes, and the Spoken Walkthrough | — | [open](recipes/t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md) |

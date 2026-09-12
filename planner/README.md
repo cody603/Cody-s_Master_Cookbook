@@ -1,6 +1,6 @@
 # planner/ — the cookbook, one recipe per file
 
-**Built 2026-09-12 21:01 UTC, on top of commit `f8c8966`.** *(A chat session compares this against the top of `CHANGELOG.md` — if a changelog row is newer than this stamp, the planner hasn't caught up with it yet. See `CHAT.md` §4.)*
+**Built 2026-09-12 21:25 UTC, on top of commit `b8bfaec`.** *(A chat session compares this against the top of `CHANGELOG.md` — if a changelog row is newer than this stamp, the planner hasn't caught up with it yet. See `CHAT.md` §4.)*
 
 **This folder is generated from [`codys-cookbook.md`](../codys-cookbook.md) and is never edited by hand.** The master
 file is the single source of truth (CLAUDE.md §1–§2); this is a derived view of it, rebuilt by

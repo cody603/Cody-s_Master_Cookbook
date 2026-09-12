@@ -57,7 +57,7 @@ The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the
 3. **Say one step:** what to do, **what it's for** (*"for the caulimash"*), and the one technique pointer if the step has one. **Then stop and wait** for *done / next / okay / what now*.
 4. **Simultaneous steps are one turn:** the first pan's step, *"and at the same time,"* the second pan's. Then stop.
 5. **Precision stages: slow, one sentence at a time, with the doneness cue.** Say that nothing else starts until this is done.
-6. **A question mid-step:** answer from the recipe or technique file, then bring them back — *"Back to the steak: you're bringing it up to 128."* **"Where were we?"** — name the dish and the step.
+6. **A question mid-step:** answer from the recipe or technique file, then bring them back — *"Back to the steak: you're bringing it up to 129."* **"Where were we?"** — name the dish and the step.
 7. **Timers:** say the minutes, tell them to set one. **Substitution mid-cook:** swap that dish's remaining steps, say which tagged steps to skip; if permanent, it's a revision request (§8).
 8. **Doneness and safety:** the entry's own number; USDA where it's silent; Fahrenheit always. Sous vide bag: kosher salt, garlic powder, black pepper, nothing else; multi-day baths at 131–133°F.
 

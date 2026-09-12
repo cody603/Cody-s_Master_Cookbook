@@ -44,7 +44,7 @@ When someone asks for the night's instructions — *"make me a Word doc for toni
 - **Say one step.** What to do, what it's for, and the one technique pointer if that step has one. **Then stop and wait.** *"Done," "next," "okay," "what now"* means move to the next step.
 - **A simultaneous block is spoken as one turn:** the first pan's step, *"and at the same time,"* the second pan's step. Then stop.
 - **Precision stages are spoken slowly, one sentence at a time, with the doneness cue** — the thermometer number, the color, the smell. Say plainly that nothing else starts until this is done.
-- **A question in the middle of a step:** answer it from the recipe or the technique entry, then bring them back — *"Back to the steak: you're bringing it up to 128."*
+- **A question in the middle of a step:** answer it from the recipe or the technique entry, then bring them back — *"Back to the steak: you're bringing it up to 129."*
 - **"Where were we?"** — name the dish and the step, then continue.
 - **Timers:** say the minutes and tell them to set a timer; the chat can't set one on the phone.
 - **A substitution mid-cook** (*"we're doing asparagus instead"*): swap that dish's remaining steps, say which tagged steps to skip, and carry on. If it's meant to be permanent, it's a revision request too.
@@ -55,7 +55,7 @@ When someone asks for the night's instructions — *"make me a Word doc for toni
 The stages come from [§3](3-darcys-steak.md) (reverse sear: pat dry, season, into the pan on low, bring up by thermometer, rest, sear), [§5.7](57-brussels-sprouts.md) (trim and halve, a 12-minute attended sauté), and [§11.5](115-easy-caulimash-keto-mashed-potatoes.md) (steam, mash, season); the exact steps are theirs and are quoted from them in the document, not restated here. The order is the point:
 
 1. *(for the steak)* Pat dry, season, rub. **Precision starts.**
-2. *(for the steak)* Into the pan on low; bring the whole batch up by thermometer — the entry's target is 129°F, Darcy runs 128 — probing over and over. **Full attention, nothing else now.**
+2. *(for the steak)* Into the pan on low; bring the whole batch up by thermometer to **129°F**, probing over and over. **Full attention, nothing else now.**
 3. *(for the steak)* Off the heat to rest. **Hands-off — and this rest is the window.**
 4. **At the same time —** *(for the Brussels sprouts)* into the hot fat, 12 minutes, turning now and then · *(for the caulimash)* cauliflower steaming, then mashed and seasoned. **Two check-in stages, side by side.**
 5. *(for the steak)* Pan ripping hot, sear, pull. **Precision again.** Sides are done or holding.

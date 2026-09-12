@@ -166,6 +166,61 @@ Tag by the recipe's own content, not by which section it sits in. Keto recipes t
 
 **Scope: this does not mean auditing every rare ingredient in the book at once.** It was applied narrowly to §7.85 on 2026-09-09, one entry at a time as they come up — a full-book pass looking for every hard-to-find ingredient is a separate, larger task, only worth doing if Cody asks for it.
 
+## 3f. Leftovers Are Spoken, Not a Sheet Category
+
+**Added 2026-09-12 at Cody's direction, and it retires a thing this cookbook built for him.** The [Meal Planning Sheet](codys-cookbook.md#meal-planning-sheet) carried a **🍱 Leftovers** group from 2026-09-09 until 2026-09-12. He called it his own mistake and asked for it gone:
+
+> *"I improperly said, made you put in a leftover section, and I think that that's a waste. I think it's silly. What I need you to do instead is, if I have leftovers, I'm just going to verbally tell you that there are leftovers."*
+
+**So: leftovers are something he says out loud while planning a week. They are not a category on the sheet, and the sheet must never grow the group back** — not as a convenience, not as a kindness, not because a leftovers line "would be useful." Every recipe that group held is still on the sheet, in its own regular group. The three lines that lived nowhere else moved there on 2026-09-12: [§8.47 Frito Pie](codys-cookbook.md#847-frito-pie) into 🥣 Soups, Gumbos & Chili, [§7.146 Pho with Leftover Beef](codys-cookbook.md#7146-pho-with-leftover-brisket-and-smoked-bone-broth) into 🍜 Pasta, Rice & Noodle Bowls, and [§7.1 Cody's Pulled Pork Street Tacos](codys-cookbook.md#71-pulled-pork-tacos) into 🐖 Pork.
+
+### The two things he can say, and they do not mean the same thing
+
+**1. "Leftover meat" — subtract the meat, and only the meat.** This also covers *frozen meat*, *previously cooked meat*, and anything of that shape.
+
+> *"If I say specifically leftover meat, we'll still have, for instance, for the street tacos, you'll still have to cut the fresh cilantro, lime, and all of that. However, you won't have to cook the pork. Same with pulled pork sandwiches — we'll have to buy buns, we'll have to likely create pickled pink onions for both, but we won't have to cook the meat, and that's one of the hardest steps sometimes."*
+
+> *"Whenever I say leftover meat… you can subtract all the grocery ingredients for that meat, and you could subtract the cooking instructions for that meat, because we already have it cooked."*
+
+Drop that meat from the grocery list, and drop its cooking stages from the instructions **and from the calendar**. **Everything else in the dish still happens.** Cilantro, lime and onion still get chopped for the street tacos; buns still get bought for the sandwiches; [§4.5 Pickled Pink Onions](codys-cookbook.md#45-pickled-pink-onions) still likely get made for both. Subtracting the meat is not subtracting the meal.
+
+**2. "Leftover [the dish]" — the whole meal is leftovers.** *"Leftover street tacos"* names the dish, not the meat, and it means nothing is shopped and nothing is made.
+
+> *"If I say I've got leftover street tacos, then that's leftover street tacos as a whole, not just leftover meat. I will tell you if we've got leftover meat only."*
+
+This is what happens when the dish was already eaten earlier in the same week — the chopped onion, the cilantro and the lime are left over too.
+
+**He will say which one he means.** Leftover meat is by far the more common of the two. A leftover that isn't meat is a possible anomaly rather than a pattern — **ask when one comes up** rather than assuming which reading applies.
+
+### Frozen or thawed — ask if he didn't say
+
+> *"If it's frozen — if I don't specify if it's frozen or not, you need to ask me, because we're gonna have to create a calendar event that says, hey, you've got to thaw the meat from the freezer."*
+
+Two standing readings:
+
+- **Leftovers from earlier in the same week's plan are in the fridge, already thawed.** No thaw event. His own example: street tacos Monday, pulled pork sandwiches Tuesday, the same pork — *"you can safely assume — and feel free to ask — that the leftover meat will already be thawed, because I'm using the leftover pulled pork from the night before."*
+- **Anything else is presumed frozen until he says otherwise, and a frozen item earns a thaw event**, placed back from the meal like any other countdown stage.
+
+**Forgetting to thaw is the exact failure this rule exists to prevent.** In his words: *"Not thawing the meat is a thing that we do. We forget to thaw the meat sometimes. So having those reminders is helpful, just like it would be to sous vide ahead of time, or to salt brine, dry brine in the fridge the night before, two nights before, or a two-day sous vide cook."* **A thaw event ranks with a dry brine or a two-day sous vide** — a real scheduled stage, not a nicety.
+
+**Calendar event, reminder, or both — his open preference.** *"That should be either a reminder or a calendar event… maybe we should do both, quite frankly. I will revise later."* **Default to a calendar event** and say so when you make one; do both if he asks. Revisit when he revises.
+
+### Thaw times — researched, never guessed
+
+**Per §3d, thawing is a food-safety question, so the figures come from USDA FSIS and nowhere else.** Two published FSIS figures do all the work here:
+
+- **"A large frozen item like a turkey requires at least a day (24 hours) for every 5 pounds of weight,"** and **"even small amounts of frozen food — such as a pound of ground meat or boneless chicken breasts — require a full day to thaw."** *(USDA FSIS, "The Big Thaw — Safe Defrosting Methods.")*
+- **In the refrigerator, "ground beef, stew meat and steaks may defrost within a day," while "bone-in parts and whole roasts may take 2 days or longer."** *(USDA FSIS, "Beef From Farm to Table.")*
+
+**Applied to the two cases that actually come up in this house — the reading is the cookbook's, the numbers are FSIS's:**
+
+- **A vacuum-sealed bag of shredded or pulled pork — allow a full day, 24 hours, in the fridge.** Even a one-pound package gets a full day under FSIS's rule, and these bags run two to four pounds. **Start it the morning before dinner, not the night before** — *"I'm not sure how long a whole bag of shredded pork takes to thaw"* is his own open question, and this is the safe-side answer to it.
+- **A whole chuck roast frozen after the sous vide — allow 2 days.** It is a whole roast, and FSIS puts whole roasts at *2 days or longer*; the 24-hours-per-5-pounds rate agrees for the 3-to-5-pound roasts he batches for [§1 Cody's Pho](codys-cookbook.md#1-codys-pho). Two or three roasts thawing in one fridge are slower still, not faster.
+
+**Thawing early is cheap, so err early.** After refrigerator thawing, FSIS keeps red-meat cuts — beef, pork and lamb roasts, chops and steaks — **3 to 5 days** in the fridge before cooking, and ground meat, stew meat, poultry and seafood **an additional day or two**, so a thaw started a day ahead of schedule costs nothing.
+
+**These are FSIS's raw-item figures read onto already-cooked frozen meat, which is the conservative direction.** They are working planning figures, not lab measurements, and **Cody's own figures supersede them the day he gives them** — he said he would revise.
+
 ## 4. Handling Recipe Revisions
 
 Cody will frequently come back after cooking and ask for a tweak — e.g., "Add another teaspoon of hot sauce to Crawfish Elegante."

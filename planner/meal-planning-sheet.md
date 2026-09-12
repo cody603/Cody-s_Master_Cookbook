@@ -10,7 +10,7 @@
 |---|---|
 | **⭐ Staple Mains** | **⭐ Staple Sides** |
 | 🟢 [Easy Deviled Eggs](recipes/933-easy-deviled-eggs.md) ❤️ 🟩(15 min†) | 🟢 [Easy Caulimash](recipes/115-easy-caulimash-keto-mashed-potatoes.md) ❤️ 🟩(10 min) 🥑 |
-| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](recipes/71-pulled-pork-tacos.md) ❤️ 🟩(20 min†) 🍽️ | 🟢 [Simple Romaine, Oil & Vinegar](recipes/561-simple-romaine-or-butter-lettuce-salad-with-grana-padano.md) ❤️ 🟩(10 min†) |
+| 🟢 [Cody's Pulled Pork Street Tacos](recipes/71-pulled-pork-tacos.md) ❤️ 🟩(20 min†) 🍽️ | 🟢 [Simple Romaine, Oil & Vinegar](recipes/561-simple-romaine-or-butter-lettuce-salad-with-grana-padano.md) ❤️ 🟩(10 min†) |
 | 🟡 [Sous Vide Chicken](recipes/t28-sous-vide-chicken-codys-method.md) 🟩(20–30 min†) | 🟢 [Escarole Salad with Lemon & Parmigiano](recipes/520-escarole-salad-with-lemon--parmigiano.md) 🟩(10 min) |
 | 🟢 [Chili Mac](recipes/81-chili-mac.md) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](recipes/563-simple-romaine-homemade-caesar.md) 🟩(10 min) |
 | 🟢 [Paul's Jambalaya](recipes/715-pauls-jambalaya.md) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](recipes/562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery.md) 🟩(10 min) |
@@ -82,50 +82,50 @@
 | 🟢 [Sous Vide Ultimate Prime Rib Roast](recipes/7149-the-ultimate-prime-rib-roast.md) 🟥(125 min, incl. 30 grill) ♨︎ | 🟢 [Southern Cornbread Stuffing](recipes/512-southern-cornbread-stuffing.md) 👍 🟩(25 min) |
 | 🟡 [Prime Rib Dinner](recipes/7114-prime-rib.md) 🟥(140 min, incl. 30 grill) ♨︎ | 🟡 [Grilled Grits](recipes/1012-grilled-grits.md) 🟩(25 min) ♨︎ |
 | **🐖 Pork** | 🟢 [Southern Fauxtato Salad](recipes/114-southern-fauxtato-salad-cauliflower-potato-salad.md) ❤️ 🟩(30 min†) 🥑 |
-| 🟢 [Roast Pork with Salmoriglio](recipes/738-roast-pork-with-salmoriglio.md) 🟩(35 min) | 🟢 [Smoked Potato Salad](recipes/547-smoked-potato-salad.md) 🟩(30 min) ♨︎ |
-| 🟢 [Cody's Pulled Pork Sandwiches](recipes/69-codys-pulled-pork.md) ❤️ 🟩(40 min†) 🍽️ ♨︎ | 🟡 [Persian-ish Rice](recipes/549-persian-ish-rice.md) 🟩(40 min) |
-| 🟢 [Sous Vide Boar Tenderloin (or pork tenderloin) with Cherry Chutney](recipes/778-boar-tenderloin-with-cherry-chutney.md) 🟩(40 min, incl. 10 sear) | 🟢 [Oyster Dressing](recipes/532-oyster-dressing-for-10-to-12-lb-turkey.md) 🟩(40 min) |
-| 🟡 [Geoff's Pork Belly Thai Basil](recipes/2-geoffs-pork-belly-thai-basil.md) ❤️ 🟨(45 min) | 🟢 [Heather's Mashed Potatoes](recipes/525-heathers-mashed-potatoes.md) ❤️ 🟨(60 min†) |
-| 🟢 [Tuffy Stone's Championship Pork Butt](recipes/7137-tuffy-stones-championship-pork-butt.md) 🟨(45 min†) ♨︎ | **🫘 Beans** |
-| 🟢 [Last-Meal Ribs](recipes/797-last-meal-ribs.md) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Brazilian Black Beans with Bacon](recipes/534-brazilian-black-beans-with-bacon-tutu-mineira.md) 🟩(15 min†) |
-| 🟡 [Kermit's Second-Favorite Pork Chops](recipes/799-kermits-second-favorite-pork-chops.md) 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Quick and Smoky Baked Beans](recipes/533-quick-and-smoky-baked-beans.md) 🟩(20 min) ♨︎ |
-| 🟢 [Happy Mouth Yakitori Ribs](recipes/798-happy-mouth-yakitori-ribs.md) 🟨(50 min, incl. 30 grill) ♨︎ | 🟡 [Boston Barbecue Beans](recipes/548-boston-barbecue-beans.md) 🟩(40 min) ♨︎ |
-| 🟢 [Pesto-Crusted Pork Loin Roast](recipes/7102-pesto-crusted-pork-loin-roast.md) 🟨(55 min, incl. 30 grill) ♨︎ | **🥗 Salads & Slaws** |
-| 🟢 [Really Loaded Potato Canoes](recipes/796-really-loaded-potato-canoes.md) 🟨(60 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Simple Romaine, Oil & Vinegar](recipes/561-simple-romaine-or-butter-lettuce-salad-with-grana-padano.md) ❤️ 🟩(10 min†) |
-| 🟢 [Asian Flavor Baby Back Ribs](recipes/750-asian-flavor-baby-back-ribs.md) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [North Carolina Coleslaw](recipes/513-north-carolina-coleslaw.md) 👍 🟩(10 min) |
-| 🟡 [Pork Tenderloin with Cowboy Java Rub](recipes/7100-pork-tenderloin-with-cowboy-java-rub.md) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [Escarole Salad with Lemon & Parmigiano](recipes/520-escarole-salad-with-lemon--parmigiano.md) 🟩(10 min) |
-| 🟡 [Boudin Blanc](recipes/751-boudin-blanc-boudin.md) 🟨(75 min) | 🟢 [Cole Slaw](recipes/535-cole-slaw.md) 🟩(10 min) |
-| 🟢 [North Carolina Pulled Pork Sandwiches (Karmel)](recipes/66-north-carolina-pulled-pork-karmel-version.md) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Quick Salad with Homemade Dressing](recipes/564-quick-salad-with-homemade-dressing.md) 🟩(10 min) |
-| 🟡 [Stuffed Pork Loin Roast](recipes/7103-stuffed-pork-loin-roast.md) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](recipes/563-simple-romaine-homemade-caesar.md) 🟩(10 min) |
-| 🟢 [Meathead's Perfect Pulled Pork Sandwiches](recipes/795-perfect-pulled-pork.md) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Greek Salad with Crumbled Goat Cheese](recipes/523-greek-salad-with-crumbled-goat-cheese.md) ❤️ 🟩(15 min†) |
-| 🟢 [Pulled Pork Sandwiches](recipes/62-pulled-pork.md) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Brazilian Salad](recipes/519-brazilian-salad.md) ❤️ 🟩(15 min) |
-| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](recipes/759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared.md) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Tomatoes All Dressed Up for Summer](recipes/917-tomatoes-all-dressed-up-for-summer.md) 🟩(15 min) |
-| 🟢 [Championship Pork Ribs](recipes/7136-championship-pork-ribs.md) 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Bright Cabbage Slaw](recipes/553-bright-cabbage-slaw.md) 🟩(15 min) |
-| 🟢 [Sweet and Sour Pork Tenderloin](recipes/7101-sweet-and-sour-pork-tenderloin.md) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Vietnamese Cucumber Salad](recipes/550-vietnamese-cucumber-salad.md) 🟩(20 min) |
-| 🟡 [Dorie's Pork à la Normande](recipes/7147-dories-pork-à-la-normande.md) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Tomato, Basil, and Cucumber](recipes/552-summer-tomato-basil-and-cucumber.md) 🟩(20 min) |
-| 🟡 [60-Minute Ribs, Dreamland Style](recipes/7145-60-minute-ribs-dreamland-style.md) 🟥(120 min, incl. 30 grill) ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](recipes/510-bacon-tomato-avocado-pasta-salad.md) ❤️ 🟩(25 min) |
-| **🐑 Veal** | 🟢 [Grilled Romaine Salad](recipes/545-grilled-romaine-salad.md) 🟩(25 min) ♨︎ |
-| 🟢 [Breast of Veal Braised with Green Olives & Tomatoes](recipes/742-breast-of-veal-braised-with-green-olives--tomatoes.md) 🟩(40 min) | **🍞 Breads & Biscuits** |
-| 🟡 ["Brunette" de Veau](recipes/749-brunette-de-veau.md) 🟨(45 min) | 🟢 [Keto Skillet Cornbread](recipes/113-keto-skillet-cornbread.md) 👍 🟩(10 min) 🥑 |
-| **🍢 Kebabs & Skewers** | 🟡 [Yorkshire Pudding on the Grill](recipes/157-yorkshire-pudding-on-the-grill.md) 🟩(10 min) ♨︎ |
-| **Raichlen's world beef kebabs:** 🟢 [Bengali Shish](recipes/769-bengali-shish-kebabs.md) 🟨(75 min, incl. 30 grill) · 🟢 [Russian Shashlik](recipes/770-russian-shashlik.md) 🟨(75 min, incl. 30 grill) · 🟢 [Fiery Stick Meat (Suyas)](recipes/771-fiery-stick-meat-suyas.md) 🟨(70 min, incl. 30 grill) · 🟢 [Quick Persian](recipes/772-quick-persian-beef-kebabs.md) 🟨(65 min, incl. 30 grill) · 🟢 [Bani Marine Street](recipes/773-bani-marine-street-beef-kebabs.md) 🟨(70 min, incl. 30 grill) · 🟢 [Madeira & Bay Leaf (Espetadas)](recipes/774-madeira-beef-and-bay-leaf-kebabs-espetadas.md) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Simple Grilled Crostini](recipes/540-simple-grilled-crostini.md) 🟩(15 min) ♨︎ |
-| 🟢 [Kufte Kebabs](recipes/7123-kufte-kebabs.md) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Irish Soda Bread](recipes/106-irish-soda-bread.md) 🟩(15 min) |
-| 🟢 [Lettuce Bundles with Grilled Beef](recipes/775-lettuce-bundles-with-grilled-beef.md) 🟨(75 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Fancy Biscuits](recipes/155-fancy-biscuits.md) 🟩(20 min) |
-| **🥪 Sandwiches & Handhelds** *(every one of these is 🍽️)* | 🟢 [Pastry Biscuits](recipes/156-pastry-biscuits.md) 🟩(20 min) |
-| 🟢 [Day-After-Thanksgiving Turkey Sandwich](recipes/919-day-after-thanksgiving-turkey-sandwich.md) 🟩(8 min) 🍽️ | 🟢 [Butter Dips](recipes/152-butter-dips.md) 🟩(20 min) |
-| 🟢 [The Splendid Summer Tomato Sandwich](recipes/918-the-splendid-summer-tomato-sandwich.md) 🟩(11 min) 🍽️ | 🟢 [Angel Biscuits](recipes/154-angel-biscuits.md) 🟩(20 min) |
-| 🟢 [Muffelatta Poboy](recipes/930-muffelatta-poboy.md) 🟩(15 min) 🍽️ | 🟢 [Skillet Cornbread and Hush Puppies](recipes/158-old-fashioned-skillet-cornbread-and-hush-puppies.md) 🟩(20 min) |
-| 🟢 [Reuben](recipes/927-reuben.md) ❤️ 🟩(18 min) 🍽️ | 🟢 [Keto Zucchini Bread](recipes/116-keto-zucchini-bread.md) 🟩(20 min) 🥑 |
-| 🟢 [Tailgate Muffuletta Sandwich](recipes/922-tailgate-muffuletta-sandwich.md) 🟩(20 min) 🍽️ | 🟡 [Plain French Bread](recipes/151-plain-french-bread-pain-français.md) 🟨(50 min) |
-| 🟢 [Chicken Salad Sandwiches](recipes/97-chicken-salad.md) ❤️ 🟩(25 min) 🍽️ | **🧊 No-Cook Sides** |
-| 🟢 [Pastrami on Rye (Close to Katz's)](recipes/7113-close-to-katzs-pastrami.md) 🟨(65 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](recipes/562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery.md) 🟩(10 min) |
-| **🍲 Broths, Stocks & Tonics** | Cottage cheese |
-| 🟢 [Chicken Stock](recipes/840-chicken-stock.md) 🟩(15 min†) | Sliced tomatoes, salted |
-| 🟢 [Restorative Beef Broth](recipes/814-restorative-beef-broth.md) 🟩(15 min†) | Avocado, halved and salted |
-| 🟢 [Everyday Vegetable Tonic](recipes/815-everyday-vegetable-tonic.md) 🟩(15 min) | Honeycrisp apples |
-| 🟢 [Smoked Bone Broth](recipes/7104-smoked-bone-broth.md) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | Blackberries |
-| | Strawberries |
-| | Raspberries |
+| 🟢 [Cody's Pulled Pork Street Tacos](recipes/71-pulled-pork-tacos.md) ❤️ 🟩(20 min†) 🍽️ | 🟢 [Smoked Potato Salad](recipes/547-smoked-potato-salad.md) 🟩(30 min) ♨︎ |
+| 🟢 [Roast Pork with Salmoriglio](recipes/738-roast-pork-with-salmoriglio.md) 🟩(35 min) | 🟡 [Persian-ish Rice](recipes/549-persian-ish-rice.md) 🟩(40 min) |
+| 🟢 [Cody's Pulled Pork Sandwiches](recipes/69-codys-pulled-pork.md) ❤️ 🟩(40 min†) 🍽️ ♨︎ | 🟢 [Oyster Dressing](recipes/532-oyster-dressing-for-10-to-12-lb-turkey.md) 🟩(40 min) |
+| 🟢 [Sous Vide Boar Tenderloin (or pork tenderloin) with Cherry Chutney](recipes/778-boar-tenderloin-with-cherry-chutney.md) 🟩(40 min, incl. 10 sear) | 🟢 [Heather's Mashed Potatoes](recipes/525-heathers-mashed-potatoes.md) ❤️ 🟨(60 min†) |
+| 🟡 [Geoff's Pork Belly Thai Basil](recipes/2-geoffs-pork-belly-thai-basil.md) ❤️ 🟨(45 min) | **🫘 Beans** |
+| 🟢 [Tuffy Stone's Championship Pork Butt](recipes/7137-tuffy-stones-championship-pork-butt.md) 🟨(45 min†) ♨︎ | 🟢 [Brazilian Black Beans with Bacon](recipes/534-brazilian-black-beans-with-bacon-tutu-mineira.md) 🟩(15 min†) |
+| 🟢 [Last-Meal Ribs](recipes/797-last-meal-ribs.md) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Quick and Smoky Baked Beans](recipes/533-quick-and-smoky-baked-beans.md) 🟩(20 min) ♨︎ |
+| 🟡 [Kermit's Second-Favorite Pork Chops](recipes/799-kermits-second-favorite-pork-chops.md) 🟨(50 min, incl. 30 grill) ♨︎ | 🟡 [Boston Barbecue Beans](recipes/548-boston-barbecue-beans.md) 🟩(40 min) ♨︎ |
+| 🟢 [Happy Mouth Yakitori Ribs](recipes/798-happy-mouth-yakitori-ribs.md) 🟨(50 min, incl. 30 grill) ♨︎ | **🥗 Salads & Slaws** |
+| 🟢 [Pesto-Crusted Pork Loin Roast](recipes/7102-pesto-crusted-pork-loin-roast.md) 🟨(55 min, incl. 30 grill) ♨︎ | 🟢 [Simple Romaine, Oil & Vinegar](recipes/561-simple-romaine-or-butter-lettuce-salad-with-grana-padano.md) ❤️ 🟩(10 min†) |
+| 🟢 [Really Loaded Potato Canoes](recipes/796-really-loaded-potato-canoes.md) 🟨(60 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [North Carolina Coleslaw](recipes/513-north-carolina-coleslaw.md) 👍 🟩(10 min) |
+| 🟢 [Asian Flavor Baby Back Ribs](recipes/750-asian-flavor-baby-back-ribs.md) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [Escarole Salad with Lemon & Parmigiano](recipes/520-escarole-salad-with-lemon--parmigiano.md) 🟩(10 min) |
+| 🟡 [Pork Tenderloin with Cowboy Java Rub](recipes/7100-pork-tenderloin-with-cowboy-java-rub.md) 🟨(65 min, incl. 30 grill) ♨︎ | 🟢 [Cole Slaw](recipes/535-cole-slaw.md) 🟩(10 min) |
+| 🟡 [Boudin Blanc](recipes/751-boudin-blanc-boudin.md) 🟨(75 min) | 🟢 [Quick Salad with Homemade Dressing](recipes/564-quick-salad-with-homemade-dressing.md) 🟩(10 min) |
+| 🟢 [North Carolina Pulled Pork Sandwiches (Karmel)](recipes/66-north-carolina-pulled-pork-karmel-version.md) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](recipes/563-simple-romaine-homemade-caesar.md) 🟩(10 min) |
+| 🟡 [Stuffed Pork Loin Roast](recipes/7103-stuffed-pork-loin-roast.md) 🟥(80 min, incl. 30 grill) ♨︎ | 🟢 [Greek Salad with Crumbled Goat Cheese](recipes/523-greek-salad-with-crumbled-goat-cheese.md) ❤️ 🟩(15 min†) |
+| 🟢 [Meathead's Perfect Pulled Pork Sandwiches](recipes/795-perfect-pulled-pork.md) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Brazilian Salad](recipes/519-brazilian-salad.md) ❤️ 🟩(15 min) |
+| 🟢 [Pulled Pork Sandwiches](recipes/62-pulled-pork.md) ❤️ 🟥(85 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Tomatoes All Dressed Up for Summer](recipes/917-tomatoes-all-dressed-up-for-summer.md) 🟩(15 min) |
+| 🟡 [Sous Vide Mediterranean Pork Tenderloin Platter](recipes/759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared.md) ❤️ 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Bright Cabbage Slaw](recipes/553-bright-cabbage-slaw.md) 🟩(15 min) |
+| 🟢 [Championship Pork Ribs](recipes/7136-championship-pork-ribs.md) 🟥(85 min, incl. 30 grill) ♨︎ | 🟢 [Vietnamese Cucumber Salad](recipes/550-vietnamese-cucumber-salad.md) 🟩(20 min) |
+| 🟢 [Sweet and Sour Pork Tenderloin](recipes/7101-sweet-and-sour-pork-tenderloin.md) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Tomato, Basil, and Cucumber](recipes/552-summer-tomato-basil-and-cucumber.md) 🟩(20 min) |
+| 🟡 [Dorie's Pork à la Normande](recipes/7147-dories-pork-à-la-normande.md) 🟥(90 min, incl. 30 grill) ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](recipes/510-bacon-tomato-avocado-pasta-salad.md) ❤️ 🟩(25 min) |
+| 🟡 [60-Minute Ribs, Dreamland Style](recipes/7145-60-minute-ribs-dreamland-style.md) 🟥(120 min, incl. 30 grill) ♨︎ | 🟢 [Grilled Romaine Salad](recipes/545-grilled-romaine-salad.md) 🟩(25 min) ♨︎ |
+| **🐑 Veal** | **🍞 Breads & Biscuits** |
+| 🟢 [Breast of Veal Braised with Green Olives & Tomatoes](recipes/742-breast-of-veal-braised-with-green-olives--tomatoes.md) 🟩(40 min) | 🟢 [Keto Skillet Cornbread](recipes/113-keto-skillet-cornbread.md) 👍 🟩(10 min) 🥑 |
+| 🟡 ["Brunette" de Veau](recipes/749-brunette-de-veau.md) 🟨(45 min) | 🟡 [Yorkshire Pudding on the Grill](recipes/157-yorkshire-pudding-on-the-grill.md) 🟩(10 min) ♨︎ |
+| **🍢 Kebabs & Skewers** | 🟢 [Simple Grilled Crostini](recipes/540-simple-grilled-crostini.md) 🟩(15 min) ♨︎ |
+| **Raichlen's world beef kebabs:** 🟢 [Bengali Shish](recipes/769-bengali-shish-kebabs.md) 🟨(75 min, incl. 30 grill) · 🟢 [Russian Shashlik](recipes/770-russian-shashlik.md) 🟨(75 min, incl. 30 grill) · 🟢 [Fiery Stick Meat (Suyas)](recipes/771-fiery-stick-meat-suyas.md) 🟨(70 min, incl. 30 grill) · 🟢 [Quick Persian](recipes/772-quick-persian-beef-kebabs.md) 🟨(65 min, incl. 30 grill) · 🟢 [Bani Marine Street](recipes/773-bani-marine-street-beef-kebabs.md) 🟨(70 min, incl. 30 grill) · 🟢 [Madeira & Bay Leaf (Espetadas)](recipes/774-madeira-beef-and-bay-leaf-kebabs-espetadas.md) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Irish Soda Bread](recipes/106-irish-soda-bread.md) 🟩(15 min) |
+| 🟢 [Kufte Kebabs](recipes/7123-kufte-kebabs.md) 🟨(70 min, incl. 30 grill) ♨︎ | 🟢 [Fancy Biscuits](recipes/155-fancy-biscuits.md) 🟩(20 min) |
+| 🟢 [Lettuce Bundles with Grilled Beef](recipes/775-lettuce-bundles-with-grilled-beef.md) 🟨(75 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Pastry Biscuits](recipes/156-pastry-biscuits.md) 🟩(20 min) |
+| **🥪 Sandwiches & Handhelds** *(every one of these is 🍽️)* | 🟢 [Butter Dips](recipes/152-butter-dips.md) 🟩(20 min) |
+| 🟢 [Day-After-Thanksgiving Turkey Sandwich](recipes/919-day-after-thanksgiving-turkey-sandwich.md) 🟩(8 min) 🍽️ | 🟢 [Angel Biscuits](recipes/154-angel-biscuits.md) 🟩(20 min) |
+| 🟢 [The Splendid Summer Tomato Sandwich](recipes/918-the-splendid-summer-tomato-sandwich.md) 🟩(11 min) 🍽️ | 🟢 [Skillet Cornbread and Hush Puppies](recipes/158-old-fashioned-skillet-cornbread-and-hush-puppies.md) 🟩(20 min) |
+| 🟢 [Muffelatta Poboy](recipes/930-muffelatta-poboy.md) 🟩(15 min) 🍽️ | 🟢 [Keto Zucchini Bread](recipes/116-keto-zucchini-bread.md) 🟩(20 min) 🥑 |
+| 🟢 [Reuben](recipes/927-reuben.md) ❤️ 🟩(18 min) 🍽️ | 🟡 [Plain French Bread](recipes/151-plain-french-bread-pain-français.md) 🟨(50 min) |
+| 🟢 [Tailgate Muffuletta Sandwich](recipes/922-tailgate-muffuletta-sandwich.md) 🟩(20 min) 🍽️ | **🧊 No-Cook Sides** |
+| 🟢 [Chicken Salad Sandwiches](recipes/97-chicken-salad.md) ❤️ 🟩(25 min) 🍽️ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](recipes/562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery.md) 🟩(10 min) |
+| 🟢 [Pastrami on Rye (Close to Katz's)](recipes/7113-close-to-katzs-pastrami.md) 🟨(65 min, incl. 30 grill) 🍽️ ♨︎ | Cottage cheese |
+| **🍲 Broths, Stocks & Tonics** | Sliced tomatoes, salted |
+| 🟢 [Chicken Stock](recipes/840-chicken-stock.md) 🟩(15 min†) | Avocado, halved and salted |
+| 🟢 [Restorative Beef Broth](recipes/814-restorative-beef-broth.md) 🟩(15 min†) | Honeycrisp apples |
+| 🟢 [Everyday Vegetable Tonic](recipes/815-everyday-vegetable-tonic.md) 🟩(15 min) | Blackberries |
+| 🟢 [Smoked Bone Broth](recipes/7104-smoked-bone-broth.md) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | Strawberries |
+|  | Raspberries |
 | **Mains (cont.)** | **Mains (cont.)** |
 | **🐔 Chicken & Poultry** | **🐟 Seafood & Fish** |
 | 🟡 [Sous Vide Chicken](recipes/t28-sous-vide-chicken-codys-method.md) 🟩(20–30 min†) | 🟢 [Sautéed Crawfish](recipes/725-sautéed-crawfish.md) 🟩(25 min) |
@@ -162,15 +162,16 @@
 | 🟢 [Blasphemy Buffalo Chicken Wings](recipes/7120-blasphemy-buffalo-chicken-wings.md) 🟥(80 min, incl. 30 grill) ♨︎ | 🟡 [Seafood Stuffed Zucchini](recipes/724-seafood-stuffed-zucchini-with-seafood-cream-sauce.md) 🟥(90 min) |
 | 🟡 [Championship Chicken](recipes/7141-championship-chicken.md) 🟥(120 min, incl. 30 grill) ♨︎ | 🔴 [Seafood Stuffed Flounder](recipes/73-seafood-stuffed-flounder.md) ❤️ 🟥(95 min) |
 | **🍜 Pasta, Rice & Noodle Bowls** *(every one of these is 🍽️)* | **🥣 Soups, Gumbos & Chili** |
-| 🟢 [Spinach Tagliatelle & Peas in Golden Chicken Broth](recipes/741-spinach-tagliatelle--peas-in-golden-chicken-broth.md) 🟩(10 min) 🍽️ | 🟢 [Shrimp and Corn Chowder](recipes/834-shrimp-and-corn-chowder.md) 👍 🟩(10 min) |
-| 🟢 [Hot Spaghetti Tossed with Raw Tomato Sauce](recipes/743-hot-spaghetti-tossed-with-raw-tomato-sauce.md) 🟩(20 min) 🍽️ | 🟢 [Cold Avocado & Cucumber Soup](recipes/88-cold-avocado--cucumber-soup.md) 🟩(15 min) |
-| 🟢 [Rigatoni with Passato & Parmigiano-Reggiano](recipes/744-rigatoni-with-passato--parmigiano-reggiano.md) 🟩(20 min) 🍽️ | 🟡 [Stracciatella (Roman Egg Drop Soup)](recipes/838-brothy-stracciatella-roman-egg-drop-soup.md) 🟩(20 min) |
-| 🟢 [Slow Cooker Ham & White Beans over Rice](recipes/717-white-beans-slow-cooker-ham--white-beans.md) ❤️ 🟩(25 min) 🍽️ | 🟢 [Roasted Pumpkin Soup](recipes/811-roasted-pumpkin-soup.md) 🟩(20 min) |
-| 🟢 [Quesadillas](recipes/931-quesadillas.md) 🟩(25 min) 🍽️ | 🟢 [Turkey & Potato Soup](recipes/812-turkey--potato-soup.md) 🟩(20 min) |
-| 🟢 [Pasta Puttanesca](recipes/753-pasta-puttanesca.md) 🟩(25 min) 🍽️ | 🟢 [Chili Mac](recipes/81-chili-mac.md) ❤️ 🟩(25 min) 🍽️ |
-| 🟡 [Asparagus on Pasta with a Poached Egg](recipes/517-asparagus-on-pasta-with-a-poached-egg--lemon-butter.md) 🟩(25 min) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](recipes/84-lemon-chicken-soup-with-spinach-and-rice.md) ❤️ 🟩(30 min†) |
-| 🟢 [Paul's Jambalaya](recipes/715-pauls-jambalaya.md) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](recipes/816-cleansing-ginger-chicken-soup.md) 🟩(30 min) |
-| 🟢 [Spaghetti](recipes/718-spaghetti.md) ❤️ 🟩(30 min) 🍽️ | 🟢 [Cody's Chili](recipes/848-codys-chili.md) 🟩(30 min) |
+| 🟢 [Spinach Tagliatelle & Peas in Golden Chicken Broth](recipes/741-spinach-tagliatelle--peas-in-golden-chicken-broth.md) 🟩(10 min) 🍽️ | 🟢 [Frito Pie](recipes/847-frito-pie.md) ❤️ 🟩(10 min) 🍽️ |
+| 🟢 [Hot Spaghetti Tossed with Raw Tomato Sauce](recipes/743-hot-spaghetti-tossed-with-raw-tomato-sauce.md) 🟩(20 min) 🍽️ | 🟢 [Shrimp and Corn Chowder](recipes/834-shrimp-and-corn-chowder.md) 👍 🟩(10 min) |
+| 🟢 [Rigatoni with Passato & Parmigiano-Reggiano](recipes/744-rigatoni-with-passato--parmigiano-reggiano.md) 🟩(20 min) 🍽️ | 🟢 [Cold Avocado & Cucumber Soup](recipes/88-cold-avocado--cucumber-soup.md) 🟩(15 min) |
+| 🟢 [Slow Cooker Ham & White Beans over Rice](recipes/717-white-beans-slow-cooker-ham--white-beans.md) ❤️ 🟩(25 min) 🍽️ | 🟡 [Stracciatella (Roman Egg Drop Soup)](recipes/838-brothy-stracciatella-roman-egg-drop-soup.md) 🟩(20 min) |
+| 🟢 [Quesadillas](recipes/931-quesadillas.md) 🟩(25 min) 🍽️ | 🟢 [Roasted Pumpkin Soup](recipes/811-roasted-pumpkin-soup.md) 🟩(20 min) |
+| 🟢 [Pasta Puttanesca](recipes/753-pasta-puttanesca.md) 🟩(25 min) 🍽️ | 🟢 [Turkey & Potato Soup](recipes/812-turkey--potato-soup.md) 🟩(20 min) |
+| 🟡 [Asparagus on Pasta with a Poached Egg](recipes/517-asparagus-on-pasta-with-a-poached-egg--lemon-butter.md) 🟩(25 min) 🍽️ | 🟢 [Chili Mac](recipes/81-chili-mac.md) ❤️ 🟩(25 min) 🍽️ |
+| 🟢 [Paul's Jambalaya](recipes/715-pauls-jambalaya.md) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](recipes/84-lemon-chicken-soup-with-spinach-and-rice.md) ❤️ 🟩(30 min†) |
+| 🟢 [Spaghetti](recipes/718-spaghetti.md) ❤️ 🟩(30 min) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](recipes/816-cleansing-ginger-chicken-soup.md) 🟩(30 min) |
+| 🟢 [Pho with Leftover Beef](recipes/7146-pho-with-leftover-brisket-and-smoked-bone-broth.md) 🟩(30 min) 🍽️ | 🟢 [Cody's Chili](recipes/848-codys-chili.md) 🟩(30 min) |
 | 🟡 [Pasta alle Vongole](recipes/7129-pasta-alle-vongole.md) 🟩(40 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](recipes/80-the-hearty-main-course-soup-formula.md) 🟩(30 min) |
 | 🟡 [Red Beans & Rice](recipes/716-red-beans--rice.md) ❤️ 🟨(45 min) 🍽️ | 🟢 [Warm Beet Soup](recipes/810-warm-beet-soup.md) 🟩(35 min) |
 | 🟡 [Shrimp Risotto](recipes/740-shrimp-risotto.md) 🟨(55 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](recipes/87-italian-sausage--kale-soup.md) ❤️ 🟩(40 min†) |
@@ -188,15 +189,13 @@
 | 🟡 [The Loaded Frittata Formula](recipes/100-the-loaded-frittata-formula.md) 🟩(30 min†) 🍽️ | 🟢 [Chicken and Garlic Soup](recipes/837-chicken-and-garlic-soup.md) 🟨(55 min) |
 | 🟢 [Soft Scrambled Eggs & Chanterelles](recipes/105-soft-scrambled-eggs--chanterelles.md) 🟩(35 min†) | 🟡 [Sweet Potato and Andouille Soup](recipes/86-sweet-potato-and-andouille-soup.md) ❤️ 🟨(60 min†) |
 | 🟡 [Quiche aux Oignons](recipes/1013-quiche-aux-oignons-onion-quiche.md) 🟩(35 min) 🍽️ | 🟢 [Tomato Basil Soup](recipes/835-tomato-basil-soup-1-huge-12-qt-pot.md) ❤️ 🟨(60 min†) |
-| **🍱 Leftovers** | 🔴 [Cajun Seafood Gumbo](recipes/85-cajun-seafood-gumbo-with-andouille-smoked-sausage.md) ❤️ 🟨(60 min) |
-| 🟢 [Leftover Kebabs](recipes/719-honey-chicken-marinade--kabobs.md) ❤️ 🟩(10 min) | 🟡 [Chicken Gumbo Filé](recipes/828-chicken-gumbo-filé.md) 🟨(60 min) |
-| 🟢 Leftover Chili → [Frito Pie](recipes/847-frito-pie.md) ❤️ 🟩(10 min) 🍽️ | 🟡 [Mrs. McGinn's Seafood Gumbo](recipes/829-mrs-mcginns-seafood-gumbo.md) 🟨(65 min) |
-| 🟢 Leftover Chili → [Chili Mac](recipes/81-chili-mac.md) ❤️ 🟩(15 min) 🍽️ | 🟢 [Squash Bisque](recipes/559-squash-bisque.md) 🟥(85 min, incl. 30 grill) ♨︎ |
-| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](recipes/71-pulled-pork-tacos.md) ❤️ 🟩(20 min†) 🍽️ | 🔴 [Chicken and Andouille Gumbo](recipes/83-chicken-and-andouille-smoked-sausage-gumbo.md) ❤️ 🟥(90 min) |
-| 🟢 [Leftover Sliced Brisket, reheated sous vide](recipes/61-smoked-brisket.md) ❤️ 🟩(20 min) | 🔴 [Verna's Galimatias](recipes/846-vernas-galimatias.md) 🟥(90 min) |
-| 🟢 [Pho with Leftover Beef](recipes/7146-pho-with-leftover-brisket-and-smoked-bone-broth.md) 🟩(30 min) 🍽️ | **Crawfish Bisque:** 🟡 [Bisque d'Écrevisses](recipes/819-crawfish-bisque-bisque-décrevisses.md) 🟥(240 min) · 🔴 [I](recipes/841-crawfish-bisque-i.md) 🟥(180 min) · 🟡 [II](recipes/843-crawfish-bisque-ii.md) 🟥(125 min) |
-| 🟢 [Leftover Pulled Pork Sandwiches](recipes/69-codys-pulled-pork.md) ❤️ 🟩(40 min†) 🍽️ |  |
-|  |  |
+|  | 🔴 [Cajun Seafood Gumbo](recipes/85-cajun-seafood-gumbo-with-andouille-smoked-sausage.md) ❤️ 🟨(60 min) |
+|  | 🟡 [Chicken Gumbo Filé](recipes/828-chicken-gumbo-filé.md) 🟨(60 min) |
+|  | 🟡 [Mrs. McGinn's Seafood Gumbo](recipes/829-mrs-mcginns-seafood-gumbo.md) 🟨(65 min) |
+|  | 🟢 [Squash Bisque](recipes/559-squash-bisque.md) 🟥(85 min, incl. 30 grill) ♨︎ |
+|  | 🔴 [Chicken and Andouille Gumbo](recipes/83-chicken-and-andouille-smoked-sausage-gumbo.md) ❤️ 🟥(90 min) |
+|  | 🔴 [Verna's Galimatias](recipes/846-vernas-galimatias.md) 🟥(90 min) |
+|  | **Crawfish Bisque:** 🟡 [Bisque d'Écrevisses](recipes/819-crawfish-bisque-bisque-décrevisses.md) 🟥(240 min) · 🔴 [I](recipes/841-crawfish-bisque-i.md) 🟥(180 min) · 🟡 [II](recipes/843-crawfish-bisque-ii.md) 🟥(125 min) |
 
 ### Appetizers & Dips
 

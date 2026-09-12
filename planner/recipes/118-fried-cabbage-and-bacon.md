@@ -15,7 +15,7 @@ Transcribed from the printed keto cookbook, ***Side Dishes*** chapter — the sa
 
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](../../CLAUDE.md)'s technique-risk test, nothing in this can go from perfect to ruined — it's one skillet, four ingredients, and fifteen minutes of stirring. **The fastest keto recipe in the cookbook**, and one of the fastest recipes of any kind here.
 
-> 🍝 **Serve it under the spaghetti sauce — Cody, 2026-09-09: *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles."*** So this is a **noodle substitute** as much as a side: a plate of it under [§7.18 Spaghetti](718-spaghetti.md)'s sausage-and-tomato sauce is a low-carb spaghetti night, and he thinks it *"might be good for chili mac too"* — [§8.1 Chili Mac](81-chili-mac.md). Both entries carry the same note. It is on his **⭐ Staple Sides** list.
+> 🍝 **Serve it under the spaghetti sauce — Cody, 2026-09-09: *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles."*** So this is a **noodle substitute** as much as a side: a plate of it under [§7.18 Spaghetti](718-spaghetti.md)'s sausage-and-tomato sauce is a low-carb spaghetti night, and he thinks it *"might be good for chili mac too"* — [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md). Both entries carry the same note. It is on his **⭐ Staple Sides** list.
 
 #### A. Ingredients
 

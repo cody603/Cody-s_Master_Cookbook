@@ -440,7 +440,7 @@ Start from the [Meal Planning Sheet](meal-planning-sheet.md); the ⭐ Staples wi
 | 7.152 | Gluten-Free Fried Shrimp | 🟡 | [open](recipes/7152-gluten-free-fried-shrimp.md) |
 | 8 | Soups & Chili | — | [open](recipes/8-soups--chili.md) |
 | 8.0 | The Hearty Main Course Soup Formula | 🟢 | [open](recipes/80-the-hearty-main-course-soup-formula.md) |
-| 8.1 | Chili Mac | 🟢 | [open](recipes/81-chili-mac.md) |
+| 8.1 | Chili Mac & Frito Pie | 🟢 | [open](recipes/81-chili-mac--frito-pie.md) |
 | 8.2 | Soups | — | [open](recipes/82-soups.md) |
 | 8.3 | Chicken and Andouille Smoked Sausage Gumbo | 🔴 | [open](recipes/83-chicken-and-andouille-smoked-sausage-gumbo.md) |
 | 8.4 | Lemon Chicken Soup with Spinach and Rice | 🟢 | [open](recipes/84-lemon-chicken-soup-with-spinach-and-rice.md) |
@@ -486,7 +486,7 @@ Start from the [Meal Planning Sheet](meal-planning-sheet.md); the ⭐ Staples wi
 | 8.44 | Courtbouillon | 🟡 | [open](recipes/844-courtbouillon.md) |
 | 8.45 | Seafood Courtbouillon | 🟢 | [open](recipes/845-seafood-courtbouillon.md) |
 | 8.46 | Verna's Galimatias | 🔴 | [open](recipes/846-vernas-galimatias.md) |
-| 8.47 | Frito Pie | 🟢 | [open](recipes/847-frito-pie.md) |
+| 8.47 | Frito Pie | — | [open](recipes/847-frito-pie.md) |
 | 8.48 | Cody's Chili | 🟢 | [open](recipes/848-codys-chili.md) |
 | 9 | Snacks & Light Meals | — | [open](recipes/9-snacks--light-meals.md) |
 | 9.1 | Almond Flour Chips and Salsa | — | [open](recipes/91-almond-flour-chips-and-salsa.md) |

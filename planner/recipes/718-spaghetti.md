@@ -19,7 +19,7 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 > - **[§5.5 Salted Sautéed Zucchini](55-salted-sautéed-zucchini-noodle-substitute.md)** ❤️ — his noodle substitute, written up 2026-09-09: *"a really salty sautéed zucchini so I can pour the chili or the spaghetti sauce over it."*
 > - **[§11.8 Fried Cabbage and Bacon](118-fried-cabbage-and-bacon.md)** 🥑 — *"a great substitute for noodles."*
 >
-> The same three options are on [§8.1 Chili Mac](81-chili-mac.md).
+> The same three options are on [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md).
 
 #### A. Ingredients
 

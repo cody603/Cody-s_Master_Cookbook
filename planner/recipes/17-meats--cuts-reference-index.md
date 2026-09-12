@@ -23,7 +23,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Ribeye, boneless or bone-in** — [§7.36 Two Steaks Feed Four](736-two-steaks-feed-four.md) *(grilled)* · [§7.106 Big, Thick Steakhouse Steaks](7106-big-thick-steakhouse-steaks.md) *(reverse-seared, 1½–2" thick)* · [§7.107 Skinny Steaks](7107-skinny-steaks.md) *(very high direct heat, kept moving, 1" or less)*
 - **Tri-tip (bottom sirloin)** — [§7.108 Santa Maria Tri-Tip](7108-santa-maria-tri-tip.md) *(indirect then direct-seared, "Poor Man's Prime Rib")*
 - **Sirloin** — [§7.68](768-peruvian-beef-kebabs-anticuchos.md)/[§7.70](770-russian-shashlik.md)/[§7.71](771-fiery-stick-meat-suyas.md)/[§7.73](773-bani-marine-street-beef-kebabs.md)/[§7.75](775-lettuce-bundles-with-grilled-beef.md) kebabs *(all grilled)*
-- **Ground beef** — [§7.76 Hamburgers with Herb Butter](776-hamburgers-with-herb-butter.md) *(grilled)* · [§9.6 Beef Jerky](96-beef-jerky.md) *(dehydrated)* · [§8.1 Chili Mac](81-chili-mac.md) *(browned, then slow-cooked)* · [§7.115 The Great American Steakhouse Steakburger](7115-the-great-american-steakhouse-steakburger.md) *(two-zone smoked, then direct-seared — distinct from §7.76, see entry)*
+- **Ground beef** — [§7.76 Hamburgers with Herb Butter](776-hamburgers-with-herb-butter.md) *(grilled)* · [§9.6 Beef Jerky](96-beef-jerky.md) *(dehydrated)* · [§8.48 Cody's Chili](848-codys-chili.md) *(browned, then slow-cooked — the chili under [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md))* · [§7.115 The Great American Steakhouse Steakburger](7115-the-great-american-steakhouse-steakburger.md) *(two-zone smoked, then direct-seared — distinct from §7.76, see entry)*
 - **Short ribs** — [§8.14 Restorative Beef Broth](814-restorative-beef-broth.md) *(simmered)* · [§7.79 Short Rib Ragù](779-short-rib-ragù.md) *(bone-in, sous vide 24–30 hr then shredded into a stovetop sauce)* · [§7.83 Short Rib Korean-Style Lettuce Wraps](783-short-rib-korean-style-lettuce-wraps.md) *(sous vide 48–72 hr to a medium-rare, steak-like texture, then seared)* · [§7.110 Short Ribs, Texas Style](7110-short-ribs-texas-style.md) *(smoked to 203°F)* · [§7.111 Short Ribs, Brazilian Steakhouse Style](7111-short-ribs-brazilian-steakhouse-style.md) *(rotisserie or direct-grilled)*
 - **Hanger steak** — [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](785-hanger-steak-with-duck-fat-wild-mushrooms.md) *(sous vide in duck fat, then seared)*
 - **Stew meat (beef or venison)** — [§8.33 Mamma's Deer/Beef Stew](833-mammas-deerbeef-stew.md) *(braised/simmered)*
@@ -65,7 +65,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 ### Venison / Game
 
 - **Stew meat** — [§8.33 Mamma's Deer/Beef Stew](833-mammas-deerbeef-stew.md) *(braised/simmered)*
-- **Ground venison** — [§9.29 Deer Jerky](929-deer-jerky.md) *(dehydrated)* · [§8.1 Chili Mac](81-chili-mac.md) *(beef-or-venison option, browned then slow-cooked)*
+- **Ground venison** — [§9.29 Deer Jerky](929-deer-jerky.md) *(dehydrated)* · [§8.48 Cody's Chili](848-codys-chili.md) *(beef-or-venison option on its [half-batch card](848-codys-chili.md#e-half-batch-variation--codys-recipe-card-the-same-chili-halved), browned then slow-cooked — the chili under [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md))*
 
 ### Veal
 

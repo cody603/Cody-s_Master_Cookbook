@@ -12,7 +12,7 @@
 | 🟢 [Easy Deviled Eggs](recipes/933-easy-deviled-eggs.md) ❤️ 🟩(15 min†) | 🟢 [Easy Caulimash](recipes/115-easy-caulimash-keto-mashed-potatoes.md) ❤️ 🟩(10 min) 🥑 |
 | 🟢 [Cody's Pulled Pork Street Tacos](recipes/71-pulled-pork-tacos.md) ❤️ 🟩(20 min†) 🍽️ | 🟢 [Simple Romaine, Oil & Vinegar](recipes/561-simple-romaine-or-butter-lettuce-salad-with-grana-padano.md) ❤️ 🟩(10 min†) |
 | 🟡 [Sous Vide Chicken](recipes/t28-sous-vide-chicken-codys-method.md) 🟩(20–30 min†) | 🟢 [Escarole Salad with Lemon & Parmigiano](recipes/520-escarole-salad-with-lemon--parmigiano.md) 🟩(10 min) |
-| 🟢 [Chili Mac](recipes/81-chili-mac.md) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](recipes/563-simple-romaine-homemade-caesar.md) 🟩(10 min) |
+| 🟢 [Chili Mac & Frito Pie](recipes/81-chili-mac--frito-pie.md) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](recipes/563-simple-romaine-homemade-caesar.md) 🟩(10 min) |
 | 🟢 [Paul's Jambalaya](recipes/715-pauls-jambalaya.md) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](recipes/562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery.md) 🟩(10 min) |
 | 🟢 [Spaghetti](recipes/718-spaghetti.md) ❤️ 🟩(30 min) 🍽️ | 🟢 [Quick Salad with Homemade Dressing](recipes/564-quick-salad-with-homemade-dressing.md) 🟩(10 min) |
 | 🟢 [Lemon Chicken Soup with Spinach and Rice](recipes/84-lemon-chicken-soup-with-spinach-and-rice.md) ❤️ 🟩(30 min†) | 🟢 [Snap Peas with Chilies and Mint](recipes/554-sauté-snap-peas-with-chilies-and-mint.md) 🟩(11 min) |
@@ -162,34 +162,33 @@
 | 🟢 [Blasphemy Buffalo Chicken Wings](recipes/7120-blasphemy-buffalo-chicken-wings.md) 🟥(80 min, incl. 30 grill) ♨︎ | 🟡 [Seafood Stuffed Zucchini](recipes/724-seafood-stuffed-zucchini-with-seafood-cream-sauce.md) 🟥(90 min) |
 | 🟡 [Championship Chicken](recipes/7141-championship-chicken.md) 🟥(120 min, incl. 30 grill) ♨︎ | 🔴 [Seafood Stuffed Flounder](recipes/73-seafood-stuffed-flounder.md) ❤️ 🟥(95 min) |
 | **🍜 Pasta, Rice & Noodle Bowls** *(every one of these is 🍽️)* | **🥣 Soups, Gumbos & Chili** |
-| 🟢 [Spinach Tagliatelle & Peas in Golden Chicken Broth](recipes/741-spinach-tagliatelle--peas-in-golden-chicken-broth.md) 🟩(10 min) 🍽️ | 🟢 [Frito Pie](recipes/847-frito-pie.md) ❤️ 🟩(10 min) 🍽️ |
-| 🟢 [Hot Spaghetti Tossed with Raw Tomato Sauce](recipes/743-hot-spaghetti-tossed-with-raw-tomato-sauce.md) 🟩(20 min) 🍽️ | 🟢 [Shrimp and Corn Chowder](recipes/834-shrimp-and-corn-chowder.md) 👍 🟩(10 min) |
-| 🟢 [Rigatoni with Passato & Parmigiano-Reggiano](recipes/744-rigatoni-with-passato--parmigiano-reggiano.md) 🟩(20 min) 🍽️ | 🟢 [Cold Avocado & Cucumber Soup](recipes/88-cold-avocado--cucumber-soup.md) 🟩(15 min) |
-| 🟢 [Slow Cooker Ham & White Beans over Rice](recipes/717-white-beans-slow-cooker-ham--white-beans.md) ❤️ 🟩(25 min) 🍽️ | 🟡 [Stracciatella (Roman Egg Drop Soup)](recipes/838-brothy-stracciatella-roman-egg-drop-soup.md) 🟩(20 min) |
-| 🟢 [Quesadillas](recipes/931-quesadillas.md) 🟩(25 min) 🍽️ | 🟢 [Roasted Pumpkin Soup](recipes/811-roasted-pumpkin-soup.md) 🟩(20 min) |
-| 🟢 [Pasta Puttanesca](recipes/753-pasta-puttanesca.md) 🟩(25 min) 🍽️ | 🟢 [Turkey & Potato Soup](recipes/812-turkey--potato-soup.md) 🟩(20 min) |
-| 🟡 [Asparagus on Pasta with a Poached Egg](recipes/517-asparagus-on-pasta-with-a-poached-egg--lemon-butter.md) 🟩(25 min) 🍽️ | 🟢 [Chili Mac](recipes/81-chili-mac.md) ❤️ 🟩(25 min) 🍽️ |
-| 🟢 [Paul's Jambalaya](recipes/715-pauls-jambalaya.md) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](recipes/84-lemon-chicken-soup-with-spinach-and-rice.md) ❤️ 🟩(30 min†) |
-| 🟢 [Spaghetti](recipes/718-spaghetti.md) ❤️ 🟩(30 min) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](recipes/816-cleansing-ginger-chicken-soup.md) 🟩(30 min) |
-| 🟢 [Pho with Leftover Beef](recipes/7146-pho-with-leftover-brisket-and-smoked-bone-broth.md) 🟩(30 min) 🍽️ | 🟢 [Cody's Chili](recipes/848-codys-chili.md) 🟩(30 min) |
-| 🟡 [Pasta alle Vongole](recipes/7129-pasta-alle-vongole.md) 🟩(40 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](recipes/80-the-hearty-main-course-soup-formula.md) 🟩(30 min) |
-| 🟡 [Red Beans & Rice](recipes/716-red-beans--rice.md) ❤️ 🟨(45 min) 🍽️ | 🟢 [Warm Beet Soup](recipes/810-warm-beet-soup.md) 🟩(35 min) |
-| 🟡 [Shrimp Risotto](recipes/740-shrimp-risotto.md) 🟨(55 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](recipes/87-italian-sausage--kale-soup.md) ❤️ 🟩(40 min†) |
-| 🟢 [Chicken and Seafood Jambalaya](recipes/720-chicken-and-seafood-jambalaya.md) ❤️ 🟨(60 min) 🍽️ | 🟡 [Louisiana Crab and Corn Bisque](recipes/822-louisiana-crab-and-corn-bisque.md) 🟩(40 min) |
-| 🟡 [Sous Vide Short Rib Ragù over Pasta](recipes/779-short-rib-ragù.md) 🟨(70 min) 🍽️ | 🟢 [Gazpacho](recipes/818-gazpacho.md) 🟩(40 min) |
-| 🟢 [Momofuku-Inspired Ramen Bowl](recipes/7105-momofuku-inspired-ramen-bowl.md) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Minted Sweet Pea and Spinach Soup](recipes/817-minted-sweet-pea-and-spinach-soup.md) 🟩(40 min) |
-| 🟡 [Mussels with Smoked Fettuccine](recipes/7144-mussels-with-smoked-fettuccine.md) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Six-Onion Soup](recipes/820-six-onion-soup.md) 🟩(40 min) |
-| 🟡 [Sous Vide Ragù alla Bolognese over Pasta](recipes/782-ragù-alla-bolognese-sous-vide.md) 🟥(110 min) 🍽️ | **Courtbouillon:** 🟡 [Creole](recipes/842-creole-courtbouillon.md) 🟨(55 min) · 🟡 [Classic](recipes/844-courtbouillon.md) 🟨(60 min) · 🟢 [Seafood](recipes/845-seafood-courtbouillon.md) 🟨(45 min) |
-| 🟢 [Sous Vide Cody's Pho](recipes/1-codys-pho.md) ❤️ 🟥(140 min) 🍽️ | 🟢 [Duck Soup with Cabbage, Ham & Rice Noodles](recipes/89-duck-soup-with-cabbage-ham--chinese-rice-noodles.md) 🟨(45 min) |
-| **🍳 Breakfast for Dinner** | 🟡 [Green Gumbo](recipes/827-green-gumbo.md) 🟨(45 min) |
-| 🟡 [Quiche Lorraine](recipes/107-quiche-lorraine-cream-and-bacon-quiche.md) 🟩(15 min) 🍽️ | 🟢 [Silky Sweet Corn Soup](recipes/839-smooth-silky-sweet-corn-soup.md) 🟨(45 min) |
-| 🟢 [Smoked Salmon Quiche](recipes/790-smoked-salmon-quiche.md) 🟩(20 min) 🍽️ | **Waterfowl gumbos:** 🔴 [Duck & Sausage](recipes/823-duck--sausage-gumbo.md) 🟨(70 min) · 🔴 [Duck & Guinea](recipes/824-duck-and-guinea-gumbo.md) 🟨(60 min) · 🔴 [Wild Goose with Oysters](recipes/825-wild-goose-gumbo-with-oysters.md) 🟨(60 min) · 🟡 [Felecia's Goose](recipes/826-felecias-goose-gumbo.md) 🟨(50 min) |
-| 🟡 [Quiche aux Fruits de Mer](recipes/108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche.md) 🟩(25 min) 🍽️ | 🟡 [Lobster Stew](recipes/813-lobster-stew.md) 🟨(50 min) |
-| 🟢 [Southern Keto Egg and Sausage Muffins](recipes/104-southern-keto-egg-and-sausage-muffins.md) ❤️ 🟩(30 min†) 🥑 | **Turtle Soup:** 🟢 [I](recipes/830-turtle-soup-i.md) 🟨(55 min) · 🟡 [II (Monteleone)](recipes/831-turtle-soup-ii-monteleone.md) 🟨(50 min) |
-| 🟡 [The Loaded Frittata Formula](recipes/100-the-loaded-frittata-formula.md) 🟩(30 min†) 🍽️ | 🟢 [Chicken and Garlic Soup](recipes/837-chicken-and-garlic-soup.md) 🟨(55 min) |
-| 🟢 [Soft Scrambled Eggs & Chanterelles](recipes/105-soft-scrambled-eggs--chanterelles.md) 🟩(35 min†) | 🟡 [Sweet Potato and Andouille Soup](recipes/86-sweet-potato-and-andouille-soup.md) ❤️ 🟨(60 min†) |
-| 🟡 [Quiche aux Oignons](recipes/1013-quiche-aux-oignons-onion-quiche.md) 🟩(35 min) 🍽️ | 🟢 [Tomato Basil Soup](recipes/835-tomato-basil-soup-1-huge-12-qt-pot.md) ❤️ 🟨(60 min†) |
-|  | 🔴 [Cajun Seafood Gumbo](recipes/85-cajun-seafood-gumbo-with-andouille-smoked-sausage.md) ❤️ 🟨(60 min) |
+| 🟢 [Spinach Tagliatelle & Peas in Golden Chicken Broth](recipes/741-spinach-tagliatelle--peas-in-golden-chicken-broth.md) 🟩(10 min) 🍽️ | 🟢 [Shrimp and Corn Chowder](recipes/834-shrimp-and-corn-chowder.md) 👍 🟩(10 min) |
+| 🟢 [Hot Spaghetti Tossed with Raw Tomato Sauce](recipes/743-hot-spaghetti-tossed-with-raw-tomato-sauce.md) 🟩(20 min) 🍽️ | 🟢 [Cold Avocado & Cucumber Soup](recipes/88-cold-avocado--cucumber-soup.md) 🟩(15 min) |
+| 🟢 [Rigatoni with Passato & Parmigiano-Reggiano](recipes/744-rigatoni-with-passato--parmigiano-reggiano.md) 🟩(20 min) 🍽️ | 🟡 [Stracciatella (Roman Egg Drop Soup)](recipes/838-brothy-stracciatella-roman-egg-drop-soup.md) 🟩(20 min) |
+| 🟢 [Slow Cooker Ham & White Beans over Rice](recipes/717-white-beans-slow-cooker-ham--white-beans.md) ❤️ 🟩(25 min) 🍽️ | 🟢 [Roasted Pumpkin Soup](recipes/811-roasted-pumpkin-soup.md) 🟩(20 min) |
+| 🟢 [Quesadillas](recipes/931-quesadillas.md) 🟩(25 min) 🍽️ | 🟢 [Turkey & Potato Soup](recipes/812-turkey--potato-soup.md) 🟩(20 min) |
+| 🟢 [Pasta Puttanesca](recipes/753-pasta-puttanesca.md) 🟩(25 min) 🍽️ | 🟢 [Chili Mac & Frito Pie](recipes/81-chili-mac--frito-pie.md) ❤️ 🟩(25 min) 🍽️ |
+| 🟡 [Asparagus on Pasta with a Poached Egg](recipes/517-asparagus-on-pasta-with-a-poached-egg--lemon-butter.md) 🟩(25 min) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](recipes/84-lemon-chicken-soup-with-spinach-and-rice.md) ❤️ 🟩(30 min†) |
+| 🟢 [Paul's Jambalaya](recipes/715-pauls-jambalaya.md) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](recipes/816-cleansing-ginger-chicken-soup.md) 🟩(30 min) |
+| 🟢 [Spaghetti](recipes/718-spaghetti.md) ❤️ 🟩(30 min) 🍽️ | 🟢 [Cody's Chili](recipes/848-codys-chili.md) 🟩(30 min) |
+| 🟢 [Pho with Leftover Beef](recipes/7146-pho-with-leftover-brisket-and-smoked-bone-broth.md) 🟩(30 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](recipes/80-the-hearty-main-course-soup-formula.md) 🟩(30 min) |
+| 🟡 [Pasta alle Vongole](recipes/7129-pasta-alle-vongole.md) 🟩(40 min) 🍽️ | 🟢 [Warm Beet Soup](recipes/810-warm-beet-soup.md) 🟩(35 min) |
+| 🟡 [Red Beans & Rice](recipes/716-red-beans--rice.md) ❤️ 🟨(45 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](recipes/87-italian-sausage--kale-soup.md) ❤️ 🟩(40 min†) |
+| 🟡 [Shrimp Risotto](recipes/740-shrimp-risotto.md) 🟨(55 min) 🍽️ | 🟡 [Louisiana Crab and Corn Bisque](recipes/822-louisiana-crab-and-corn-bisque.md) 🟩(40 min) |
+| 🟢 [Chicken and Seafood Jambalaya](recipes/720-chicken-and-seafood-jambalaya.md) ❤️ 🟨(60 min) 🍽️ | 🟢 [Gazpacho](recipes/818-gazpacho.md) 🟩(40 min) |
+| 🟡 [Sous Vide Short Rib Ragù over Pasta](recipes/779-short-rib-ragù.md) 🟨(70 min) 🍽️ | 🟢 [Minted Sweet Pea and Spinach Soup](recipes/817-minted-sweet-pea-and-spinach-soup.md) 🟩(40 min) |
+| 🟢 [Momofuku-Inspired Ramen Bowl](recipes/7105-momofuku-inspired-ramen-bowl.md) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Six-Onion Soup](recipes/820-six-onion-soup.md) 🟩(40 min) |
+| 🟡 [Mussels with Smoked Fettuccine](recipes/7144-mussels-with-smoked-fettuccine.md) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | **Courtbouillon:** 🟡 [Creole](recipes/842-creole-courtbouillon.md) 🟨(55 min) · 🟡 [Classic](recipes/844-courtbouillon.md) 🟨(60 min) · 🟢 [Seafood](recipes/845-seafood-courtbouillon.md) 🟨(45 min) |
+| 🟡 [Sous Vide Ragù alla Bolognese over Pasta](recipes/782-ragù-alla-bolognese-sous-vide.md) 🟥(110 min) 🍽️ | 🟢 [Duck Soup with Cabbage, Ham & Rice Noodles](recipes/89-duck-soup-with-cabbage-ham--chinese-rice-noodles.md) 🟨(45 min) |
+| 🟢 [Sous Vide Cody's Pho](recipes/1-codys-pho.md) ❤️ 🟥(140 min) 🍽️ | 🟡 [Green Gumbo](recipes/827-green-gumbo.md) 🟨(45 min) |
+| **🍳 Breakfast for Dinner** | 🟢 [Silky Sweet Corn Soup](recipes/839-smooth-silky-sweet-corn-soup.md) 🟨(45 min) |
+| 🟡 [Quiche Lorraine](recipes/107-quiche-lorraine-cream-and-bacon-quiche.md) 🟩(15 min) 🍽️ | **Waterfowl gumbos:** 🔴 [Duck & Sausage](recipes/823-duck--sausage-gumbo.md) 🟨(70 min) · 🔴 [Duck & Guinea](recipes/824-duck-and-guinea-gumbo.md) 🟨(60 min) · 🔴 [Wild Goose with Oysters](recipes/825-wild-goose-gumbo-with-oysters.md) 🟨(60 min) · 🟡 [Felecia's Goose](recipes/826-felecias-goose-gumbo.md) 🟨(50 min) |
+| 🟢 [Smoked Salmon Quiche](recipes/790-smoked-salmon-quiche.md) 🟩(20 min) 🍽️ | 🟡 [Lobster Stew](recipes/813-lobster-stew.md) 🟨(50 min) |
+| 🟡 [Quiche aux Fruits de Mer](recipes/108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche.md) 🟩(25 min) 🍽️ | **Turtle Soup:** 🟢 [I](recipes/830-turtle-soup-i.md) 🟨(55 min) · 🟡 [II (Monteleone)](recipes/831-turtle-soup-ii-monteleone.md) 🟨(50 min) |
+| 🟢 [Southern Keto Egg and Sausage Muffins](recipes/104-southern-keto-egg-and-sausage-muffins.md) ❤️ 🟩(30 min†) 🥑 | 🟢 [Chicken and Garlic Soup](recipes/837-chicken-and-garlic-soup.md) 🟨(55 min) |
+| 🟡 [The Loaded Frittata Formula](recipes/100-the-loaded-frittata-formula.md) 🟩(30 min†) 🍽️ | 🟡 [Sweet Potato and Andouille Soup](recipes/86-sweet-potato-and-andouille-soup.md) ❤️ 🟨(60 min†) |
+| 🟢 [Soft Scrambled Eggs & Chanterelles](recipes/105-soft-scrambled-eggs--chanterelles.md) 🟩(35 min†) | 🟢 [Tomato Basil Soup](recipes/835-tomato-basil-soup-1-huge-12-qt-pot.md) ❤️ 🟨(60 min†) |
+| 🟡 [Quiche aux Oignons](recipes/1013-quiche-aux-oignons-onion-quiche.md) 🟩(35 min) 🍽️ | 🔴 [Cajun Seafood Gumbo](recipes/85-cajun-seafood-gumbo-with-andouille-smoked-sausage.md) ❤️ 🟨(60 min) |
 |  | 🟡 [Chicken Gumbo Filé](recipes/828-chicken-gumbo-filé.md) 🟨(60 min) |
 |  | 🟡 [Mrs. McGinn's Seafood Gumbo](recipes/829-mrs-mcginns-seafood-gumbo.md) 🟨(65 min) |
 |  | 🟢 [Squash Bisque](recipes/559-squash-bisque.md) 🟥(85 min, incl. 30 grill) ♨︎ |

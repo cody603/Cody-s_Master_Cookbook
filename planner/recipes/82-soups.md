@@ -5,7 +5,7 @@
 
 **❤️ Family favorite** — *Cody: "We love the soups."*
 
-**This is the only clean sweep in the cookbook.** Every written-up entry in §8 came back ❤️ — [§8.1 Chili Mac](81-chili-mac.md), [§8.3](83-chicken-and-andouille-smoked-sausage-gumbo.md), [§8.4](84-lemon-chicken-soup-with-spinach-and-rice.md), [§8.5](85-cajun-seafood-gumbo-with-andouille-smoked-sausage.md), [§8.6](86-sweet-potato-and-andouille-soup.md), and [§8.7](87-italian-sausage--kale-soup.md) — making this the only section in the cookbook that's a clean sweep.
+**This is the only clean sweep in the cookbook.** Every written-up entry in §8 came back ❤️ — [§8.1 Chili Mac & Frito Pie](81-chili-mac--frito-pie.md), [§8.3](83-chicken-and-andouille-smoked-sausage-gumbo.md), [§8.4](84-lemon-chicken-soup-with-spinach-and-rice.md), [§8.5](85-cajun-seafood-gumbo-with-andouille-smoked-sausage.md), [§8.6](86-sweet-potato-and-andouille-soup.md), and [§8.7](87-italian-sausage--kale-soup.md) — making this the only section in the cookbook that's a clean sweep.
 
 > *Placeholder — category stub.* Cody listed "soups" generally. Each specific soup gets promoted to its own numbered entry here as it's named. *(Note: [§1 Cody's Pho](1-codys-pho.md) is complete and has its own top-level section — it stays there.)*
 >

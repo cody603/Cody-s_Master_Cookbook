@@ -342,7 +342,7 @@ Click any recipe to jump straight to it.
 - [5.2 Sautéed Asparagus](#52-sautéed-asparagus) ✅ ❤️ *(written up 2026-09-09; retitled from the bare "Asparagus" placeholder)*
 - [5.3 Squash](#53-squash) ○ 👍
 - [5.4 Okra](#54-okra) ○ ❤️
-- [5.5 Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ✅ ❤️ *(written up 2026-09-09 from Cody's dictation — salt-drawn, then a hot sauté, as the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; an almond-flour-battered variation; the placeholder's ❤️ and quote kept, heading retitled)*
+- [5.5 Salted Sautéed Zucchini (noodle substitute)](#55-salted-sautéed-zucchini-noodle-substitute) ✅ ❤️ *(written up 2026-09-09 from Cody's dictation — salt-drawn, then a hot sauté, as the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac--frito-pie) sauce; an almond-flour-battered variation; the placeholder's ❤️ and quote kept, heading retitled)*
 - [5.6 Cauliflower](#56-cauliflower) ○
 - [5.7 Brussels Sprouts](#57-brussels-sprouts) ✅ ❤️ *(written up 2026-09-09 from Cody's dictation — sautéed in bacon grease, beef tallow, or butter, three variations; the placeholder's ❤️ and quote kept)*
 - [5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour) ○ 🔖
@@ -579,7 +579,7 @@ Click any recipe to jump straight to it.
 **[8. Soups & Chili](#8-soups--chili)**
 
 - [**8.0 The Hearty Main Course Soup Formula**](#80-the-hearty-main-course-soup-formula) ✅ — *the foundation the soups below vary on*
-- [8.1 Chili Mac](#81-chili-mac) ✅ ❤️
+- [8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) ✅ ❤️ *(one dish, two bases — noodles make it chili mac, Fritos or the Siete avocado-oil chips make it Frito pie; the chili is [§8.48](#848-codys-chili); **[§8.47](#847-frito-pie) merged in here 2026-09-12**)*
 - [8.2 Soups](#82-soups) ○ ❤️
 - [8.3 Chicken and Andouille Smoked Sausage Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ✅ ❤️
 - [8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ✅ *(house favorite)* ❤️
@@ -614,7 +614,7 @@ Click any recipe to jump straight to it.
 - [8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) ✅ ❤️
 - [8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) ✅ 👍
 - [8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](#835-tomato-basil-soup-1-huge-12-qt-pot) ✅ ❤️
-- [8.36 Chili Dogs](#836-chili-dogs) ○ *(uses [§8.1 Chili Mac](#81-chili-mac))*
+- [8.36 Chili Dogs](#836-chili-dogs) ○ *(uses [§8.48 Cody's Chili](#848-codys-chili))*
 - [8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) ✅ *(Salt, Fat, Acid, Heat; includes Spring Garlic Soup and Pho Gà variations)*
 - [8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup) ✅ *(Salt, Fat, Acid, Heat)*
 - [8.39 Smooth: Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) ✅ *(Salt, Fat, Acid, Heat; includes the general vegetable-soup formula and no-cook Chilled Cucumber and Yogurt Soup)*
@@ -625,8 +625,8 @@ Click any recipe to jump straight to it.
 - [8.44 Courtbouillon](#844-courtbouillon) ✅ *(Talk About Good!; Mrs. F. H. Davis, Sr. — full brown roux, 4 lb cut fish, no wine; added 2026-09-07)*
 - [8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) ✅ *(Talk About Good!; Victor P. (Pat) Duhon, Jr. — no roux, a 3–4 hr simmer, fish plus shrimp and crab; added 2026-09-07)*
 - [8.46 Verna's Galimatias](#846-vernas-galimatias) ✅ *(Talk About Good!; Mrs. Warren Butcher — "a combination of bouillabaisse, gumbo and courtbouillon"; fish, shrimp, and two dozen crabs in a dark-roux tomato-and-wine stew; serves 8; added 2026-09-07)*
-- [8.47 Frito Pie](#847-frito-pie) ✅ ❤️ *(Cody's own, 2026-09-09 — Fritos, leftover chili, shredded cheese, raw onions, Louisiana hot sauce, **in that order**; built on [§8.48](#848-codys-chili); quantities are cookbook judgment)*
-- [8.48 Cody's Chili](#848-codys-chili) ✅ *(a family email, 2026-09-12 — crock-pot chili, 2 lb hamburger and 2 lb sausage, poured over angel hair; the chili he owed; flagged as possibly the same dish as [§8.1 Chili Mac](#81-chili-mac) told twice)*
+- [8.47 Frito Pie](#847-frito-pie) → **merged into [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) ❤️ on 2026-09-12** at Cody's instruction — *"it's the same thing, same ingredients, except instead of noodles you use Fritos."* The heading stays as a pointer so every link still lands.
+- [8.48 Cody's Chili](#848-codys-chili) ✅ *(a family email, 2026-09-12 — crock-pot chili, 2 lb hamburger and 2 lb sausage, poured over angel hair; the chili he owed. **✅ Confirmed the same day to be the same chili as [§8.1](#81-chili-mac--frito-pie)'s recipe card at double scale** — the card is the half batch, kept here at [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved))*
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -945,7 +945,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.35 Mustard Barbecue Sauce](#435-mustard-barbecue-sauce) | 🟡 | 5 min | 10 min | — | 15 min |
 | [§4.33 Sesame Seasoning](#433-sesame-seasoning) | 🟡 | 10 min | 5 min | — | 15 min |
 | [§7.51 D. Fried Boudin Patties](#d-variation--fried-boudin-patties) *(a variation of [§7.51](#751-boudin-blanc-boudin), from its leftovers)* | 🟢 | 10 min | 5 min | — | 15 min *(needs well-chilled leftover boudin stuffing)* |
-| [§8.47 Frito Pie](#847-frito-pie) *(Cody's — on leftover chili)* | 🟢 | 10 min | 5 min | — | 15 min *(with the chili already made)* |
 | [§4.40 Herbed Horseradish Sauce](#440-herbed-horseradish-sauce) | 🟢 | 15 min | — | — | 15 min |
 | [§4.44 Three-Herb Chimichurri](#444-three-herb-chimichurri) | 🟢 | 15 min | — | — | 15 min |
 | [§4.45 Pico de Gallo](#445-pico-de-gallo) | 🟢 | 15 min | — | — | 15 min |
@@ -1030,7 +1029,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) | 🟢 | 15 min | 10 min | **30 min** *(smoke-roast, indirect grill)* | 55 min *(+ 1 hr wood chip soak, in parallel)* |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
-| [§8.1 Chili Mac](#81-chili-mac) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot — the chili only, not the noodles)* | 4 hr 25 min |
+| [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) *(the assembly, with the chili already made — [§8.47 Frito Pie](#847-frito-pie) merged in here 2026-09-12)* | 🟢 | 10 min | 5–15 min | — *(the chili's 4 hr crock pot is [§8.48](#848-codys-chili)'s)* | 15 min on chips · 25 min on noodles |
 | [§8.48 Cody's Chili](#848-codys-chili) | 🟢 | 15 min | 15 min | **4 hr** *(crock pot — the chili only, not the pasta)* | 4 hr 30 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill; ~2–3 hr for Cody's preferred St. Louis/spare ribs)* | 2 hr *(+ 6–12 hr marinate)* |
@@ -1346,11 +1345,11 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 ### Reading this table
 
-**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.1 Chili Mac](#81-chili-mac) is 25 minutes and 4 hours of nothing — though note the 4 hours is the **chili** in the crock pot; the noodles are boiled fresh at the end. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
+**The slow-cook five are the least demanding things in this book**, despite having the longest start-to-finish numbers. [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) is 25 minutes of work and then 8 hours of nothing. [§8.48 Cody's Chili](#848-codys-chili) is 30 minutes and 4 hours of nothing — though note the 4 hours is the **chili** in the crock pot; the pasta is boiled fresh at the end, and the bowl it goes into is [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie), a 15-to-25-minute assembly with no slow cook of its own. [§9.6 Beef Jerky](#96-beef-jerky) is 20 minutes and then the dehydrator does the rest. [§6.2 Pulled Pork](#62-pulled-pork) is 30 minutes of rubbing and mopping, then 4 to 6 hours the grill handles on its own. [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) and [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) are the least work of all — 15 minutes each, total, between seasoning and the final sear, with the water bath doing everything in between. Load them early and get your evening back.
 
 **The reverse trap — no slow cook, no breaks.** [§7.13 Crawfish Elegante](#713-crawfish-elegante), [§7.14 Chicken Oscar](#714-chicken-oscar-court-of-2-sisters), and [§10.0 Frittata](#100-the-loaded-frittata-formula) have modest totals but *nothing* hands-off — every minute is you at the stove. A 45-minute Crawfish Elegante costs more of your evening than a 4-hour chili.
 
-**30 minutes of work or less — 114 recipes** *(pre-2026-09-05 Meathead batch — see that changelog entry's flag; this count and the "now-86" figure below both predate [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), 32 of which are themselves 30 minutes or less, and haven't been recounted yet)*, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac](#81-chili-mac) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
+**30 minutes of work or less — 114 recipes** *(pre-2026-09-05 Meathead batch — see that changelog entry's flag; this count and the "now-86" figure below both predate [§4.100](#4100-the-simple-blonder-wet-brine-63-salinity)–[§4.132](#4132-roasted-red-pepper-and-garlic-coulis), 32 of which are themselves 30 minutes or less, and haven't been recounted yet)*, including nearly all of §4's now-86 rubs and sauces — plus six of the new *Champions of Sous Vide* additions, whose sous vide time doesn't count here: [§7.85 Hanger Steak](#785-hanger-steak-with-duck-fat-wild-mushrooms), [§7.83 Short Rib Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps), [§14.20 Cream Caramel](#1420-cream-caramel), [§5.39 Fennel Fondant](#539-fennel-fondant), [§7.84 Rockfish Burger](#784-rockfish-burger-with-key-lime-aioli), and [§7.81 Scallops with Pomegranate Reduction](#781-scallops-with-quick-pickled-vegetables-and-pomegranate-reduction) — a handful of the longer-simmered ones (Hollandaise, Creole Sauce, Giblet Gravy, Shallot Marmalade, and a few others) run past 30 minutes and aren't in this count. Highlights beyond §4: [§T8 Pan Sauce](#t8-pan-sauce-formula) · [§T1 Roux](#t1-how-to-make-a-roux) · [§T11 Sauté](#t11-how-to-sauté-master-technique-for-sautéed-cuts) · [§T14 Grilled Pork Tenderloin](#t14-how-to-grill-pork-tenderloin-cuban-mojo) · [§T22 Rib Marinade](#t22-rib-marinade--dry-brine-or-wet-marinade-codys-method) · [§T23 Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) · [§T25 French Omelette](#t25-the-french-omelette-two-methods) · [§T27 Sous Vide Steak](#t27-sous-vide-not-so-premium-steak-cuts-codys-method) · [§T28 Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) · [§5.13 NC Coleslaw](#513-north-carolina-coleslaw) · [§9.6 Jerky](#96-beef-jerky) · [§7.25 Sautéed Crawfish](#725-sautéed-crawfish) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§6.2 Pulled Pork](#62-pulled-pork) · [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) · [§9.5 Buffalo Dip](#95-franks-redhot-buffalo-chicken-dip) · [§11.4 Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) · [§5.10 Pasta Salad](#510-bacon-tomato-avocado-pasta-salad)
 
 **🥑 Keto / low-carb — 8 recipes.** All eight come from the same keto cookbook and carry the publisher's own net-carb figures, listed lowest first: **[§10.4 Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) *(0.6 g net — the lowest in this cookbook)*** · [§11.7 Home-Fried Bacon Radishes](#117-home-fried-bacon-radishes) *(2 g net)* · [§7.21 Fried Chicken](#721-fried-chicken-low-carb-whey-breaded) *(2.1 g net)* · [§11.3 Keto Skillet Cornbread](#113-keto-skillet-cornbread) *(2.1 g net)* · [§11.6 Keto Zucchini Bread](#116-keto-zucchini-bread) *(2.7 g net)* · [§11.4 Southern Fauxtato Salad](#114-southern-fauxtato-salad-cauliflower-potato-salad) *(3 g net)* · [§11.5 Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) *(4.9 g net)* · [§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon) *(5 g net — but the most fiber of the eight, at 3.9 g)*. The swaps repeat across most of them: **standing something in for potatoes, almond flour and oat fiber for wheat, erythritol for sugar, whey protein for breading.** **The potato swap is three recipes and two vegetables** — cauliflower for the cold salad and the mash, **radishes for the fried one**, because radishes hold their edges in a hot pan and cauliflower doesn't. **Two of the eight substitute nothing at all, and they bracket the range.** [§10.4](#104-southern-keto-egg-and-sausage-muffins) wins on carbs precisely because it doesn't need to — eggs, sausage, cream and cheese are low-carb already, so there's no flour stand-in to pay for. [§11.8](#118-fried-cabbage-and-bacon) sits at the other end for the same reason in reverse: it's a real vegetable cooked as itself, and cabbage simply brings carbohydrate. **Worth reading the fiber column alongside the net-carb one** — §11.8 has the most fiber of any recipe here, which is what pulls its net figure down to 5 g in the first place. **There is also a house formula worth knowing across [§11.7](#117-home-fried-bacon-radishes) and [§11.8](#118-fried-cabbage-and-bacon):** crisp chopped bacon, lift it out with a slotted spoon leaving all the fat, cook the vegetable in those drippings, return the bacon at the end. Neither recipe lists another cooking fat, and the pattern transfers to most sturdy vegetables. **It has a third instance now, from Cody's own kitchen rather than that book and outside §11: the bacon-grease variation of [§5.7 Brussels Sprouts](#57-brussels-sprouts) ❤️** — the same sequence step for step, but with no 🥑 tag, because nothing printed a net-carb figure for it.
 
@@ -1383,13 +1382,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
-### ❤️ Family favorites — 91
+### ❤️ Family favorites — 90
 
 **Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.13 Crawfish Elegante](#713-crawfish-elegante) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) · [§7.61 Broiled Fish](#761-broiled-fish) · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) · [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) · [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) · [§7.124 Poulet de France](#7124-poulet-de-france) · [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp)
 
 **Smoked meats — 9 of the 13 entries in [§6](#6-smoked-meats), including all six of Cody's own:** [§6.1 Smoked Brisket](#61-smoked-brisket) · [§6.2 Pulled Pork](#62-pulled-pork) · [§6.3 Smoked Whole Hen](#63-smoked-whole-hen) · [§6.4 Smoked Steak](#64-smoked-steak) · [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) · [§6.10 Sous Vide Brisket, Richie's Method](#610-sous-vide-brisket-richies-method) · [§6.11 Cody's Tony Chachere's Smoked Turkey](#611-codys-tony-chacheres-smoked-turkey) · [§6.12 Sous Vide Chuck Roast, Smoker-Finished](#612-sous-vide-chuck-roast-smoker-finished) · [§6.13 Beer Can Chicken](#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken)
 
-**Soups & chili — [§8.1](#81-chili-mac)–[§8.7](#87-italian-sausage--kale-soup) is still a clean sweep, and four more from later in the section join it:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili Mac](#81-chili-mac) · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) · [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) · [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) · [§8.47 Frito Pie](#847-frito-pie) *(on leftover chili)*
+**Soups & chili — [§8.1](#81-chili-mac--frito-pie)–[§8.7](#87-italian-sausage--kale-soup) is still a clean sweep, and two more from later in the section join it:** [§8.2 Soups](#82-soups) *(the category itself)* · [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) *(**both** of his leftover-chili dinners — [§8.47 Frito Pie](#847-frito-pie), ❤️ in its own right, merged in here 2026-09-12 and the two ❤️ rows became one)* · [§8.3 Chicken & Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) · [§8.4 Lemon Chicken Soup](#84-lemon-chicken-soup-with-spinach-and-rice) · [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) · [§8.6 Sweet Potato & Andouille Soup](#86-sweet-potato-and-andouille-soup) · [§8.7 Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) · [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) · [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot)
 
 **Vegetables & sides:** [§5.1 Green Beans](#51-green-beans) · [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) · [§5.4 Okra](#54-okra) · [§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute) · [§5.7 Brussels Sprouts](#57-brussels-sprouts) · [§5.10 Bacon Tomato Avocado Pasta Salad](#510-bacon-tomato-avocado-pasta-salad) · [§5.19 Brazilian Salad](#519-brazilian-salad) · [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) · [§5.25 Heather's Mashed Potatoes](#525-heathers-mashed-potatoes) · [§5.36 Lemon Green Beans](#536-lemon-green-beans) · [§5.37 Mamma's Spinach](#537-mammas-spinach) · [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)
 
@@ -1455,7 +1454,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Easy Deviled Eggs](#933-easy-deviled-eggs) ❤️ 🟩(15 min†) | 🟢 [Easy Caulimash](#115-easy-caulimash-keto-mashed-potatoes) ❤️ 🟩(10 min) 🥑 |
 | 🟢 [Cody's Pulled Pork Street Tacos](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ | 🟢 [Simple Romaine, Oil & Vinegar](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) ❤️ 🟩(10 min†) |
 | 🟡 [Sous Vide Chicken](#t28-sous-vide-chicken-codys-method) 🟩(20–30 min†) | 🟢 [Escarole Salad with Lemon & Parmigiano](#520-escarole-salad-with-lemon--parmigiano) 🟩(10 min) |
-| 🟢 [Chili Mac](#81-chili-mac) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](#563-simple-romaine-homemade-caesar) 🟩(10 min) |
+| 🟢 [Chili Mac & Frito Pie](#81-chili-mac--frito-pie) ❤️ 🟩(25 min) 🍽️ | 🟢 [Simple Romaine, Homemade Caesar (3 days)](#563-simple-romaine-homemade-caesar) 🟩(10 min) |
 | 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) 🟩(10 min) |
 | 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) 🟩(10 min) |
 | 🟢 [Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ 🟩(30 min†) | 🟢 [Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) 🟩(11 min) |
@@ -1605,34 +1604,33 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Blasphemy Buffalo Chicken Wings](#7120-blasphemy-buffalo-chicken-wings) 🟥(80 min, incl. 30 grill) ♨︎ | 🟡 [Seafood Stuffed Zucchini](#724-seafood-stuffed-zucchini-with-seafood-cream-sauce) 🟥(90 min) |
 | 🟡 [Championship Chicken](#7141-championship-chicken) 🟥(120 min, incl. 30 grill) ♨︎ | 🔴 [Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ 🟥(95 min) |
 | **🍜 Pasta, Rice & Noodle Bowls** *(every one of these is 🍽️)* | **🥣 Soups, Gumbos & Chili** |
-| 🟢 [Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) 🟩(10 min) 🍽️ | 🟢 [Frito Pie](#847-frito-pie) ❤️ 🟩(10 min) 🍽️ |
-| 🟢 [Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) 🟩(20 min) 🍽️ | 🟢 [Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) 👍 🟩(10 min) |
-| 🟢 [Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) 🟩(20 min) 🍽️ | 🟢 [Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) 🟩(15 min) |
-| 🟢 [Slow Cooker Ham & White Beans over Rice](#717-white-beans-slow-cooker-ham--white-beans) ❤️ 🟩(25 min) 🍽️ | 🟡 [Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup) 🟩(20 min) |
-| 🟢 [Quesadillas](#931-quesadillas) 🟩(25 min) 🍽️ | 🟢 [Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) 🟩(20 min) |
-| 🟢 [Pasta Puttanesca](#753-pasta-puttanesca) 🟩(25 min) 🍽️ | 🟢 [Turkey & Potato Soup](#812-turkey--potato-soup) 🟩(20 min) |
-| 🟡 [Asparagus on Pasta with a Poached Egg](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) 🟩(25 min) 🍽️ | 🟢 [Chili Mac](#81-chili-mac) ❤️ 🟩(25 min) 🍽️ |
-| 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ 🟩(30 min†) |
-| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) 🟩(30 min) |
-| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ | 🟢 [Cody's Chili](#848-codys-chili) 🟩(30 min) |
-| 🟡 [Pasta alle Vongole](#7129-pasta-alle-vongole) 🟩(40 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) 🟩(30 min) |
-| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Warm Beet Soup](#810-warm-beet-soup) 🟩(35 min) |
-| 🟡 [Shrimp Risotto](#740-shrimp-risotto) 🟨(55 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) |
-| 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟨(60 min) 🍽️ | 🟡 [Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) 🟩(40 min) |
-| 🟡 [Sous Vide Short Rib Ragù over Pasta](#779-short-rib-ragù) 🟨(70 min) 🍽️ | 🟢 [Gazpacho](#818-gazpacho) 🟩(40 min) |
-| 🟢 [Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) 🟩(40 min) |
-| 🟡 [Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Six-Onion Soup](#820-six-onion-soup) 🟩(40 min) |
-| 🟡 [Sous Vide Ragù alla Bolognese over Pasta](#782-ragù-alla-bolognese-sous-vide) 🟥(110 min) 🍽️ | **Courtbouillon:** 🟡 [Creole](#842-creole-courtbouillon) 🟨(55 min) · 🟡 [Classic](#844-courtbouillon) 🟨(60 min) · 🟢 [Seafood](#845-seafood-courtbouillon) 🟨(45 min) |
-| 🟢 [Sous Vide Cody's Pho](#1-codys-pho) ❤️ 🟥(140 min) 🍽️ | 🟢 [Duck Soup with Cabbage, Ham & Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) 🟨(45 min) |
-| **🍳 Breakfast for Dinner** | 🟡 [Green Gumbo](#827-green-gumbo) 🟨(45 min) |
-| 🟡 [Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) 🟩(15 min) 🍽️ | 🟢 [Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) 🟨(45 min) |
-| 🟢 [Smoked Salmon Quiche](#790-smoked-salmon-quiche) 🟩(20 min) 🍽️ | **Waterfowl gumbos:** 🔴 [Duck & Sausage](#823-duck--sausage-gumbo) 🟨(70 min) · 🔴 [Duck & Guinea](#824-duck-and-guinea-gumbo) 🟨(60 min) · 🔴 [Wild Goose with Oysters](#825-wild-goose-gumbo-with-oysters) 🟨(60 min) · 🟡 [Felecia's Goose](#826-felecias-goose-gumbo) 🟨(50 min) |
-| 🟡 [Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) 🟩(25 min) 🍽️ | 🟡 [Lobster Stew](#813-lobster-stew) 🟨(50 min) |
-| 🟢 [Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ❤️ 🟩(30 min†) 🥑 | **Turtle Soup:** 🟢 [I](#830-turtle-soup-i) 🟨(55 min) · 🟡 [II (Monteleone)](#831-turtle-soup-ii-monteleone) 🟨(50 min) |
-| 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟢 [Chicken and Garlic Soup](#837-chicken-and-garlic-soup) 🟨(55 min) |
-| 🟢 [Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) 🟩(35 min†) | 🟡 [Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ❤️ 🟨(60 min†) |
-| 🟡 [Quiche aux Oignons](#1013-quiche-aux-oignons-onion-quiche) 🟩(35 min) 🍽️ | 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) |
-|  | 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) |
+| 🟢 [Spinach Tagliatelle & Peas in Golden Chicken Broth](#741-spinach-tagliatelle--peas-in-golden-chicken-broth) 🟩(10 min) 🍽️ | 🟢 [Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) 👍 🟩(10 min) |
+| 🟢 [Hot Spaghetti Tossed with Raw Tomato Sauce](#743-hot-spaghetti-tossed-with-raw-tomato-sauce) 🟩(20 min) 🍽️ | 🟢 [Cold Avocado & Cucumber Soup](#88-cold-avocado--cucumber-soup) 🟩(15 min) |
+| 🟢 [Rigatoni with Passato & Parmigiano-Reggiano](#744-rigatoni-with-passato--parmigiano-reggiano) 🟩(20 min) 🍽️ | 🟡 [Stracciatella (Roman Egg Drop Soup)](#838-brothy-stracciatella-roman-egg-drop-soup) 🟩(20 min) |
+| 🟢 [Slow Cooker Ham & White Beans over Rice](#717-white-beans-slow-cooker-ham--white-beans) ❤️ 🟩(25 min) 🍽️ | 🟢 [Roasted Pumpkin Soup](#811-roasted-pumpkin-soup) 🟩(20 min) |
+| 🟢 [Quesadillas](#931-quesadillas) 🟩(25 min) 🍽️ | 🟢 [Turkey & Potato Soup](#812-turkey--potato-soup) 🟩(20 min) |
+| 🟢 [Pasta Puttanesca](#753-pasta-puttanesca) 🟩(25 min) 🍽️ | 🟢 [Chili Mac & Frito Pie](#81-chili-mac--frito-pie) ❤️ 🟩(25 min) 🍽️ |
+| 🟡 [Asparagus on Pasta with a Poached Egg](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) 🟩(25 min) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ 🟩(30 min†) |
+| 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) 🟩(30 min) |
+| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [Cody's Chili](#848-codys-chili) 🟩(30 min) |
+| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) 🟩(30 min) |
+| 🟡 [Pasta alle Vongole](#7129-pasta-alle-vongole) 🟩(40 min) 🍽️ | 🟢 [Warm Beet Soup](#810-warm-beet-soup) 🟩(35 min) |
+| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) |
+| 🟡 [Shrimp Risotto](#740-shrimp-risotto) 🟨(55 min) 🍽️ | 🟡 [Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) 🟩(40 min) |
+| 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟨(60 min) 🍽️ | 🟢 [Gazpacho](#818-gazpacho) 🟩(40 min) |
+| 🟡 [Sous Vide Short Rib Ragù over Pasta](#779-short-rib-ragù) 🟨(70 min) 🍽️ | 🟢 [Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) 🟩(40 min) |
+| 🟢 [Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Six-Onion Soup](#820-six-onion-soup) 🟩(40 min) |
+| 🟡 [Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | **Courtbouillon:** 🟡 [Creole](#842-creole-courtbouillon) 🟨(55 min) · 🟡 [Classic](#844-courtbouillon) 🟨(60 min) · 🟢 [Seafood](#845-seafood-courtbouillon) 🟨(45 min) |
+| 🟡 [Sous Vide Ragù alla Bolognese over Pasta](#782-ragù-alla-bolognese-sous-vide) 🟥(110 min) 🍽️ | 🟢 [Duck Soup with Cabbage, Ham & Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) 🟨(45 min) |
+| 🟢 [Sous Vide Cody's Pho](#1-codys-pho) ❤️ 🟥(140 min) 🍽️ | 🟡 [Green Gumbo](#827-green-gumbo) 🟨(45 min) |
+| **🍳 Breakfast for Dinner** | 🟢 [Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) 🟨(45 min) |
+| 🟡 [Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) 🟩(15 min) 🍽️ | **Waterfowl gumbos:** 🔴 [Duck & Sausage](#823-duck--sausage-gumbo) 🟨(70 min) · 🔴 [Duck & Guinea](#824-duck-and-guinea-gumbo) 🟨(60 min) · 🔴 [Wild Goose with Oysters](#825-wild-goose-gumbo-with-oysters) 🟨(60 min) · 🟡 [Felecia's Goose](#826-felecias-goose-gumbo) 🟨(50 min) |
+| 🟢 [Smoked Salmon Quiche](#790-smoked-salmon-quiche) 🟩(20 min) 🍽️ | 🟡 [Lobster Stew](#813-lobster-stew) 🟨(50 min) |
+| 🟡 [Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) 🟩(25 min) 🍽️ | **Turtle Soup:** 🟢 [I](#830-turtle-soup-i) 🟨(55 min) · 🟡 [II (Monteleone)](#831-turtle-soup-ii-monteleone) 🟨(50 min) |
+| 🟢 [Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ❤️ 🟩(30 min†) 🥑 | 🟢 [Chicken and Garlic Soup](#837-chicken-and-garlic-soup) 🟨(55 min) |
+| 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟡 [Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ❤️ 🟨(60 min†) |
+| 🟢 [Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) 🟩(35 min†) | 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) |
+| 🟡 [Quiche aux Oignons](#1013-quiche-aux-oignons-onion-quiche) 🟩(35 min) 🍽️ | 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) |
 |  | 🟡 [Chicken Gumbo Filé](#828-chicken-gumbo-filé) 🟨(60 min) |
 |  | 🟡 [Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) 🟨(65 min) |
 |  | 🟢 [Squash Bisque](#559-squash-bisque) 🟥(85 min, incl. 30 grill) ♨︎ |
@@ -20031,7 +20029,7 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 
 #### 🍱 The Leftovers group — added 2026-09-09, retired 2026-09-12
 
-**It existed, and it is gone on Cody's own instruction.** From 2026-09-09 until 2026-09-12 the mains column closed with a **🍱 Leftovers** group: seven lines — leftover kebabs, leftover chili into [§8.47 Frito Pie](#847-frito-pie) and [§8.1 Chili Mac](#81-chili-mac), the street tacos from leftover pork, sliced brisket reheated sous vide, [§7.146 Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth), and leftover pulled pork sandwiches — every one 🟢 and none carrying ♨︎, on his rule that *"all leftovers does not need the grill."* It was built at his request (*"we should have leftovers as a thing… you could use leftovers as a real meal for two nights in a row doing it differently"*), and three days later he withdrew the request:
+**It existed, and it is gone on Cody's own instruction.** From 2026-09-09 until 2026-09-12 the mains column closed with a **🍱 Leftovers** group: seven lines — leftover kebabs, leftover chili into [§8.47 Frito Pie](#847-frito-pie) and [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie), the street tacos from leftover pork, sliced brisket reheated sous vide, [§7.146 Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth), and leftover pulled pork sandwiches — every one 🟢 and none carrying ♨︎, on his rule that *"all leftovers does not need the grill."* It was built at his request (*"we should have leftovers as a thing… you could use leftovers as a real meal for two nights in a row doing it differently"*), and three days later he withdrew the request:
 
 > ***Cody, 2026-09-12:*** *"I improperly said, made you put in a leftover section, and I think that that's a waste. I think it's silly. What I need you to do instead is, if I have leftovers, I'm just going to verbally tell you that there are leftovers."*
 
@@ -20042,6 +20040,14 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 **The street-taco line also dropped its *(from leftover pork)* parenthetical, in both places it appears** — the ⭐ Staple Mains copy and the new 🐖 Pork line. That fact is carried by the standing rule and by [§7.1](#71-pulled-pork-tacos)'s own entry now, not by a sheet line, and dropping it makes the staple copy an exact duplicate of its regular-group line the way every other staple is. *(The old parenthetical and the reasoning behind it are recorded below, in the 2026-09-09 per-line notes.)*
 
 **The historical passages below still describe the group as a live feature of the sheet.** They are kept verbatim as the record of what the sheet said on 2026-09-09 — that is how this entry handles every superseded sheet rule — and this note is the correction that applies to all of them.
+
+#### Sheet lines changed 2026-09-12 — Chili Mac and Frito Pie become one line
+
+**Two lines became one.** Cody merged the recipes that day — *"I think you should combine with chili mac slash Frito pie… it's the same thing, same ingredients, except instead of noodles you use Fritos"* — so **[§8.47 Frito Pie](#847-frito-pie)'s line came off the sheet and [§8.1](#81-chili-mac--frito-pie)'s was retitled *Chili Mac & Frito Pie*** in both places it appears: **⭐ Staple Mains** and **🥣 Soups, Gumbos & Chili**. **The minutes stayed at 🟩(25 min)** — the noodle version's number, since boiling noodles is the longer of the two bases and the sheet's square is what the meal costs you at its most. *(On chips it's 15 minutes; the entry's badge carries both.)* Neither line moved: 25 min with ❤️ lands in the same slot the Chili Mac line already held, and the Frito Pie line it absorbed was the 10-minute line at the head of the 🥣 group, so **[Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) now opens that group** on its own 10 minutes.
+
+**This was hours after the same dish's line had been moved into 🥣 Soups out of the retired 🍱 Leftovers group** *(the note at the top of this entry, and [CLAUDE.md §3f](CLAUDE.md))* — the move kept the line alive, and the merge folded it into the one above it. **No recipe lost its last line on the sheet:** Frito Pie's dish is on the merged line, under its own name. **Recipe links on the sheet: 579 before, 578 after** — one fewer because one dish now has one line instead of two.
+
+**The per-line notes for both dishes, written in the 2026-09-09 tables-only pass, are left verbatim below** *(the "Frito Pie" and "Chili Mac" bullets, which still read as two separate lines and still say the chili is owed)*. They are the record of what the sheet said that day; the merged entry supersedes them.
 
 #### Sheet line changed 2026-09-12 — §2 takes the "Sous Vide" prefix
 
@@ -20084,7 +20090,7 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 - **Cody's Pulled Pork Sandwiches** — *Cody: "at least forty, more if you make Carolina slaw"*
 - **Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)** — *asparagus-only: [§5.15 Roasted Asparagus](#515-roasted-asparagus) 🟩(15 min)*
 - **Brazilian Black Beans with Bacon** — *the overnight soak is lead time, not work*
-- **Salted Sautéed Zucchini (noodle substitute)** — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation*
+- **Salted Sautéed Zucchini (noodle substitute)** — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac--frito-pie) sauce; almond-flour-battered variation*
 - **Sous Vide Brisket, Richie's Method** — *for the 4 hr smoke, not the browning*
 - **Last-Meal Ribs** — *Cody's "pork ribs" staple, read as his one ❤️ rib recipe*
 - **Smoked Brisket** — *Cody: "trim the fat, get the pit ready, dry brine the night before — an hour, maybe an hour and a half"; the leftover/sliced idea is in the [🍱 Leftovers](#meal-planning-sheet) group*
@@ -20098,7 +20104,7 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 - **Mamma's Deer or Beef Stew** — *Cody: "just chopping — simmering the soup should not count"*
 - **Sous Vide Brisket, Richie's Method** — *for the 4 hr smoke, not the browning*
 - **Hamburgers with Herb Butter** — *Cody: "definitely, like the steakhouse burgers"*
-- **Salted Sautéed Zucchini (noodle substitute)** — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac) sauce; almond-flour-battered variation*
+- **Salted Sautéed Zucchini (noodle substitute)** — *salt-drawn, hot pan; the bed under [§7.18](#718-spaghetti) or [§8.1](#81-chili-mac--frito-pie) sauce; almond-flour-battered variation*
 - **Skinny Steaks** — *Cody's figure, and it supersedes the 10-min badge plus overhead*
 - **Brussels Sprouts** — *bacon grease, tallow, or butter — three variations; ~27 if you crisp fresh bacon first*
 - **Sous Vide Chuck Roast, Smoker-Finished** — *Cody: "really, really easy, probably takes an hour"; the 4 hr smoke is the ♨︎; batch two or three for [§1](#1-codys-pho)*
@@ -20275,7 +20281,7 @@ The practical shape of it: **most barbecue is indirect the whole way with a shor
 
 > **📌 Later still on 2026-09-09, he reviewed every square line by line and rebuilt the page around the result** — the three rules above, the time-first sort in rule 4, and seven structural changes. **Nothing was removed to do it.**
 >
-> - **A new 🍱 Leftovers group closes the mains column.** ***Superseded 2026-09-12 — the group was retired at Cody's own instruction; see the 🍱 note at the top of this entry and [CLAUDE.md §3f](CLAUDE.md). The paragraph below is kept as the record of what the sheet said on 2026-09-09.*** *"We should have leftovers as a thing… you could use leftovers as a real meal for two nights in a row doing it differently."* Sliced brisket reheated in the sous vide, pulled pork sandwiches and street tacos, kebabs, leftover chili into [§8.1 Chili Mac](#81-chili-mac) (and [§8.47 Frito Pie](#847-frito-pie) ❤️, written up in Stage C the same day), and [§7.146](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) — which reads **Pho with Leftover Beef** here now, on his note that he sous vides two or three chuck roasts at a time and reuses them for pho. **No line in that group carries ♨︎** — *"all leftovers does not need the grill."* **The old "Sliced Smoked Brisket" line confused him** (*"I don't understand that… there's smoked brisket"*), so [§6.1](#61-smoked-brisket) now reads plain **Smoked Brisket** — the cook, 60–90 min on his figure — and the sliced-leftover idea lives in Leftovers.
+> - **A new 🍱 Leftovers group closes the mains column.** ***Superseded 2026-09-12 — the group was retired at Cody's own instruction; see the 🍱 note at the top of this entry and [CLAUDE.md §3f](CLAUDE.md). The paragraph below is kept as the record of what the sheet said on 2026-09-09.*** *"We should have leftovers as a thing… you could use leftovers as a real meal for two nights in a row doing it differently."* Sliced brisket reheated in the sous vide, pulled pork sandwiches and street tacos, kebabs, leftover chili into [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) (and [§8.47 Frito Pie](#847-frito-pie) ❤️, written up in Stage C the same day), and [§7.146](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) — which reads **Pho with Leftover Beef** here now, on his note that he sous vides two or three chuck roasts at a time and reuses them for pho. **No line in that group carries ♨︎** — *"all leftovers does not need the grill."* **The old "Sliced Smoked Brisket" line confused him** (*"I don't understand that… there's smoked brisket"*), so [§6.1](#61-smoked-brisket) now reads plain **Smoked Brisket** — the cook, 60–90 min on his figure — and the sliced-leftover idea lives in Leftovers.
 > - **"Sous Vide" leads the title of every recipe whose method is sous vide** — *"anything that has sous vide, put sous vide in the front of the title please. That may include Cody's Pho — that's fine in front of it."* Eighteen lines carry it now — fifteen newly prefixed, plus [§6.10](#610-sous-vide-brisket-richies-method), [§T28](#t28-sous-vide-chicken-codys-method) and [§7.151](#7151-sous-vide-chicken-thighs-for-the-family-seared), which already did — from [Sous Vide Cody's Pho](#1-codys-pho) to [Sous Vide Fennel Fondant](#539-fennel-fondant) in the sides. The test was the entry's own Slow cook field reading *sous vide*, not a mention in passing — so [§7.132 Kōji Filet Mignon](#7132-kōji-filet-mignon), a marinade and a grill, does not get it.
 > - **🦌 Game & Wild Birds is gone** — *"I wouldn't put game and wild birds."* [Grilled Quail](#767-grilled-quail-with-pear-and-pine-nut-salad) sits in Chicken & Poultry as *Grilled Quail (or chicken thighs)*, and [Boar Tenderloin](#778-boar-tenderloin-with-cherry-chutney) sits in Pork as *Sous Vide Boar Tenderloin (or pork tenderloin)*. He doubts both times (*"cherry chutney — how long does that take? and the pine nut salad? I'm not convinced"*); they are on the re-read list.
 > - **Four renames, sheet only — the entries keep their own titles:** [§7.36](#736-two-steaks-feed-four) is *Steaks That Feed a Family of Five*; [§7.85](#785-hanger-steak-with-duck-fat-wild-mushrooms) is *Sous Vide Hanger Steak with Duck Fat (or tallow) Wild Mushrooms* (*"open parenthesis, or tallow, close parenthesis. I want it like that"*); [§7.15](#715-pauls-jambalaya) is *Paul's Jambalaya*, apostrophe and all, and it is **🟢 now on his call, 30 min** (*"prep time takes thirty minutes; baking is waiting"*) — the one change here that did reach an entry's badge; and §7.146 is *Pho with Leftover Beef*, above.
@@ -20580,7 +20586,7 @@ Salt as they go in. **Leave them alone long enough to take color** — a spear t
 
 > **📌 This filled §5.5 in place rather than becoming a new number.** The placeholder was titled *Zucchini*, carried ❤️ and *"Delicious,"* and nothing else — and the salted sautéed zucchini he described is the zucchini dish in this house. The number and the ❤️ stay; **the heading is retitled** to say what the dish is, so every link to the old *#55-salted-sautéed-zucchini-noodle-substitute* anchor was repointed the same day. *(The breaded, deep-fried zucchini is a different dish and keeps its own placeholder at [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour); Variation B below is the pan version of that idea, cross-linked both ways.)*
 
-> 🍝 **What it is for — a noodle substitute.** This is the third leg of the pairing note on [§7.18 Spaghetti](#718-spaghetti) and [§8.1 Chili Mac](#81-chili-mac): the sauce goes over **high-protein pasta** for the kids, or over **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)**, or over **this**. The salt is the whole trick, and it does two jobs at once: it pulls the water out so the zucchini browns instead of stewing, and it seasons the vegetable hard enough to stand up under a ladle of chili — his *really salty* is the target, not a warning.
+> 🍝 **What it is for — a noodle substitute.** This is the third leg of the pairing note on [§7.18 Spaghetti](#718-spaghetti) and [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie): the sauce goes over **high-protein pasta** for the kids, or over **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)**, or over **this**. The salt is the whole trick, and it does two jobs at once: it pulls the water out so the zucchini browns instead of stewing, and it seasons the vegetable hard enough to stand up under a ladle of chili — his *really salty* is the target, not a warning.
 
 **Serves 4 as a side, or 2–3 as the base under a sauce**
 
@@ -20630,7 +20636,7 @@ A **12-inch skillet** — cast iron or stainless, the biggest you own — empty 
 Turn the pieces and give the second side **2 to 3 minutes.** **Pull them tender-crisp, not soft** — [§T47](#t47-cooking-vegetables-and-fruits--and-reverse-searing-them-too)'s rule for exactly this: *err on the side of undercooking to avoid limp vegetables.* A slice that still has a little resistance in the middle holds up under hot sauce; one cooked to soft collapses into it and you have made a purée. **Garlic, if you're using it, goes in for the last minute only** — it burns in the time a face takes to brown ([§5.55](#555-steamy-sauté-garlicky-green-beans)'s thirty-second warning). Out onto a plate, pepper over it, taste one, and **add the second pinch of salt only if it wants it.** Second batch the same way, with a fresh spoon of fat if the pan has gone dry.
 
 **6. Sauce over the top, at the table.**
-As a base, it goes on the plate first and the **chili** ([§8.1](#81-chili-mac)'s fresh build, or the leftover chili line on the [Meal Planning Sheet](#meal-planning-sheet)) or the **[§7.18 Spaghetti](#718-spaghetti) sauce** goes over it, exactly the way the noodles would. As a plain side, a squeeze of lemon off the heat is [§T31](#t31-how-to-use-acid)'s finish; skip it under a sauce that is already acidic.
+As a base, it goes on the plate first and the **chili** ([§8.1](#81-chili-mac--frito-pie)'s fresh build, or the leftover chili line on the [Meal Planning Sheet](#meal-planning-sheet)) or the **[§7.18 Spaghetti](#718-spaghetti) sauce** goes over it, exactly the way the noodles would. As a plain side, a squeeze of lemon off the heat is [§T31](#t31-how-to-use-acid)'s finish; skip it under a sauce that is already acidic.
 
 **Variation B — the almond-flour battered version, pan-fried. About 15 minutes at the stove.**
 Steps 1 and 2 exactly as above — **the salt draw matters more here, not less**, because a wet slice throws the coating. Then: **the beaten egg in one shallow dish, the almond flour mixed with the garlic powder, paprika and pepper in another.** Heat **¼ inch of avocado oil** in the skillet over **medium-high** to about **350°F** — a pinch of the flour should sizzle at once ([§T3](#t3-butter-oil-pan-frying--frying)'s shallow-oil test). **Dip each slice in egg, let the excess run off, press it into the flour on both sides, shake off the loose flour, and straight into the oil** — [§T3](#t3-butter-oil-pan-frying--frying)'s fourth key, *don't bread anything until the second before it goes in*; almond flour goes gummy sitting on a wet slice faster than wheat flour does. **In batches, never crowded, 2 to 3 minutes a side, to golden.** ⚠️ **Almond flour browns faster than wheat flour** — it is a nut, with fat and sugar in it — so hold the oil at 350°F and not above, and pull at *golden*, because *golden* becomes *burnt* in the time a wheat crust would just be getting started. Drain on a rack, not paper towels, so the underside stays crisp. **This is the same coat and the same oil as [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp)**, which is why the two are worth making the same night. *(Variation B is the pan version of the idea at [§5.8 Fried Zucchini in Almond Flour](#58-fried-zucchini-in-almond-flour), which is still a placeholder; when that one is written up as a deep fry, this stays the skillet version.)*
@@ -26730,7 +26736,7 @@ Transcribed from Cody's photographed recipe card. Rated **"Good + Easy"** on the
 > - **[§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute)** ❤️ — his noodle substitute, written up 2026-09-09: *"a really salty sautéed zucchini so I can pour the chili or the spaghetti sauce over it."*
 > - **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)** 🥑 — *"a great substitute for noodles."*
 >
-> The same three options are on [§8.1 Chili Mac](#81-chili-mac).
+> The same three options are on [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie).
 
 #### A. Ingredients
 
@@ -38639,96 +38645,161 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 
 ---
 
-### 8.1 Chili Mac
+### 8.1 Chili Mac & Frito Pie
 
-Transcribed from Cody's photographed recipe card — a **crock-pot chili** built on a **50/50 mix of deer (or beef) and pork sausage**, ladled over noodles to make chili mac. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody's own distinction: "chili can stand alone, but chili mac is its own thing that includes chili."** Plain chili is its own dish; this recipe finishes over noodles, which makes it chili mac specifically, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
+**One dish, two bases — Cody, 2026-09-12: *"It's the same thing, same ingredients, except instead of noodles you use Fritos."*** Chili over a base, four toppings on top of it, built in the bowl. **Noodles make it chili mac. Fritos make it Frito pie.** The chili, the cheese, the raw onion and the Louisiana hot sauce are identical either way, which is why this is one entry as of 2026-09-12 and not two — **[§8.47 Frito Pie](#847-frito-pie) ❤️ folded in here that day at his instruction**, and is kept there as a pointer so every link that already aimed at it still lands.
 
-> **❓ Cody's own plain chili was the missing sibling to this recipe, flagged 2026-09-09 — and something answering it arrived 2026-09-12.** He'd asked: *"I think I gave you my chili recipe, didn't I?"* He hadn't; the cookbook was searched end to end on 2026-09-09 and there was no plain chili in it. **[§8.48 Cody's Chili](#848-codys-chili)** is now written up from a family email — but read its own flag before treating this as settled: it's a crock-pot chili, a 50/50 meat split, and it finishes over pasta too, so it and this entry may be the same house dish told from two sources rather than genuinely different recipes. They're kept as separate entries for now, on his word to merge or not. **[§8.21 Five-Way Chili](#821-five-way-chili)** is a different case — an undictated placeholder, Cincinnati-style besides; **[§8.36 Chili Dogs](#836-chili-dogs)** is a placeholder for a use of a chili, not a chili of its own. *(The two §4 entries with "chili" in the name — [§4.32 Texas Chili Rub](#432-texas-chili-rub) and [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) — are seasonings.)* **He also wants plain chili on the [Meal Planning Sheet](#meal-planning-sheet) as its own main** — [§8.48](#848-codys-chili) is on it now, sorted into the Soups, Gumbos & Chili group by its own minutes rather than pinned beside this entry, per the time-sort rule the sheet settled later the same day he asked for the pin. **One thing about any of this was already settled:** the standing 50/50 rule — deer and pork sausage, or beef and pork sausage — applies to any chili in this cookbook. **And the second thing he makes from leftover chili — [§8.47 Frito Pie](#847-frito-pie) ❤️ (2026-09-09)** — is now built against [§8.48](#848-codys-chili) instead of a placeholder.
+**The chili is [§8.48 Cody's Chili](#848-codys-chili)** — *"that same chili recipe goes into the chili mac."* It is not restated here. Make it there — the full batch, or the **half batch, which is this entry's own photographed recipe card**, now documented at [§8.48 §E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved) — and come back to this page to assemble. **Nothing on this page is cooked except reheating the chili and boiling the noodles.**
 
-> ⚠️ **Correction, 2026-09-08 per Cody — read this before you cook. *The chili goes in the crock pot, not the chili mac as a whole.*** The slow cooker holds **the chili only**: browned meat, onion, tomatoes, canned chili, beans, seasoning. **The noodles are never in it.** They're boiled separately at the end and the chili goes over them, and the dish only becomes chili mac at the moment those two meet in the bowl. This is worth being blunt about because "crock-pot chili mac" is a real and common recipe in which dry pasta *is* dumped into the slow cooker — **that is not this dish.** Do it that way here and you'll get four hours of pasta sitting in liquid: bloated, split, and pasty, with the chili thinned out by the starch it gave up. Everything below is written accordingly.
-
-**🟢 Easy** · **Prep ~15 min** · **Cook ~10 min** *(browning, plus boiling the noodles at the end)* · **Slow cook 4 hr** *(crock pot — **the chili only**, never the noodles)* · **Start to finish ~4 hr 25 min** *(brown the meat, then it's out of your hands until the noodles go on)*
-
-**⏰ Countdown to dinner:** T−4 hr 25 min brown the meat (50/50 deer or beef and pork sausage) with the onion · T−4 hr the chili — and only the chili — into the crock pot on low, 4 hr (2 hr floor, 8 hr ceiling; ~2 hr on high) · T−15 min boil the noodles separately (or the [§5.5 zucchini](#55-salted-sautéed-zucchini-noodle-substitute) / [§11.8 cabbage](#118-fried-cabbage-and-bacon) base) · T−0 noodles down, chili over, cheese and Crystal.
-
-**❤️ Family favorite** — *Cody: "Awesome."* On his **⭐ Staple Mains** list, 2026-09-09.
-
-> 🍝 **What the chili goes over — Cody, 2026-09-09: the noodles, or a noodle substitute.** His note was made about [§7.18 Spaghetti](#718-spaghetti) and extended here in the same breath — *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles. We cook noodles anyway because the kids eat them — get the really high-quality protein noodles. Might be good for chili mac too."* So the chili ladles over any of:
+> **✅ 2026-09-12 — the open question is closed: [§8.48](#848-codys-chili) and this entry are one chili from two sources.** Cody settled it in a sentence — *"I already gave you the recipe for chili… that same chili recipe goes into the chili mac recipe placeholder that you have"* — and **the two transcriptions corroborate him on their own numbers**, which is why this is recorded as a finding rather than as an assertion. §8.48 arrived as a family email that ends *"You may want to cut this recipe in half. It feeds a lot of people."* **This entry's card is that half.**
 >
-> - **High-protein pasta** for the noodles — *(⚙️ cookbook judgment on the type, per [CLAUDE.md §3d](CLAUDE.md): **Banza** chickpea pasta or **Barilla Protein+**; both are credible, widely stocked, and hold up under a heavy sauce. Cody named neither brand; his own pick supersedes this.)*
-> - **[§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute)** ❤️ — his noodle substitute, written up 2026-09-09: *"so I can pour the chili or the spaghetti sauce over it."*
+> | | This entry's photographed card | [§8.48](#848-codys-chili)'s family email | Reads as |
+> |---|---|---|---|
+> | meat | 1 lb deer or beef **+** 1 lb pork sausage | 2 lb hamburger **+** 2 lb sausage | **exactly half** |
+> | dry chili seasoning | 1 packet | 2 packets | **exactly half** |
+> | black beans | 1 can | 1 can | **the same in both — and that is the fingerprint** |
+> | prepared canned chili | 2 cans | *"2 or 3 store bought cans — depending on size of can"* | **doesn't halve — see below** |
+> | diced tomatoes | 2 cans | *(the sender gives no count)* | **can't corroborate — see below** |
+>
+> **What actually carries the finding: the two printed quantities that scale both halve exactly, and the one that doesn't scale is identical in both.** Black beans staying at a single can while the meat doubles is not something two independent cooks land on by chance; it's the same recipe, written down twice, with the beans never scaled either time. §8.48's own step 6 had already noticed the half batch comes out at *"roughly [§8.1](#81-chili-mac--frito-pie)'s own quantities"* before Cody said a word.
+>
+> **Two rows are weaker, and this cookbook says so rather than counting them:** the **prepared chili** doesn't halve — 2 cans on the card against the email's *2 or 3* — though the email hedges that number on can size, so it is soft rather than contradictory; and the **diced tomatoes** row proves nothing at all, because the sender gives no count and §8.48's *4 cans* is this cookbook's own scaling **from this card's 2**. Citing it back as corroboration would be circular. **Three rows of five carry it, one is soft, one is circular — and Cody's own word settles it.**
+
+> ⚠️ **The crock pot holds the chili, never the base.** *(Cody's correction, 2026-09-08, kept here because it was made about this entry.)* Dry pasta dumped into a slow cooker for four hours comes out bloated, split and pasty, with the chili thinned by the starch it gave up — and "crock-pot chili mac" recipes that do exactly that are common enough to be worth the warning. **Not this dish.** The noodles are boiled separately at the end; the chips come out of a bag. The rule now lives with the chili, at [§8.48 step 2](#848-codys-chili).
+
+**🟢 Easy** · **Prep ~10 min** *(dicing the onion; grating cheese if it's a block)* · **Cook ~5 min chips / ~15 min noodles** *(reheating the chili; plus boiling the noodles)* · **Start to finish ~15 min on chips · ~25 min on noodles** *(with the chili already made — [§8.48](#848-codys-chili) adds 30 min of work and a 4 hr crock pot)*
+
+> **The chip version is the faster of the two, and that is the only real difference between them.** No pot of water, no ten minutes of boiling — the chili gets hot, the onion gets diced, and you eat. The noodles cost about ten minutes more. **Nothing in either version can go from perfect to ruined**, which is what makes it 🟢 Easy: the one way to get it wrong is to build it early and let the base go soft, so build it in the bowl, at the table.
+
+**⏰ Countdown to dinner** *(with the chili already made; for making it, start at [§8.48](#848-codys-chili) about 4½ hours out)*
+**On noodles (chili mac):** T−25 min water on to boil · T−20 min chili into a pot over medium with a splash of water, stirred until steaming · T−15 min dice the onion small, shred the cheese · T−12 min noodles into the water · T−2 min drain · T−0 build each bowl — noodles, chili, cheese, onion, hot sauce.
+**On chips (Frito pie):** T−15 min chili into the pot · T−10 min dice the onion, shred the cheese · T−0 open the bag and build.
+
+**❤️ Family favorite** — *Cody on the chili mac: "Awesome."* *Cody on the Frito pie, 2026-09-09: "Fritos, and then you put chili on it, and then shredded cheese, and then raw onions, and then some Louisiana hot sauce on the top of there — and watch out, buddy, it is delicious. One of my favorite things."* On his **⭐ Staple Mains** list, 2026-09-09. *(The card's own handwritten rating — **"Yummie"** — travels with the card, at [§8.48 §E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved).)*
+
+> 🥣 **The base — pick one, and the rest of the dish never changes.**
+>
+> - **Noodles** — that's chili mac. *(⚙️ cookbook judgment on the type, per [CLAUDE.md §3d](CLAUDE.md): **Banza** chickpea pasta or **Barilla Protein+**, from Cody's 2026-09-09 note — *"we cook noodles anyway because the kids eat them — get the really high-quality protein noodles."* He named neither brand; both are credible and widely stocked, and his own pick supersedes this.)* [§8.48](#848-codys-chili)'s own source calls for **angel hair** specifically.
+> - **Fritos Original corn chips** — that's Frito pie.
+> - **The healthy chips** — **Siete *maíz* corn tortilla chips, 100% avocado oil**, the default; see the callout below. This is what *"the healthy Frito pie"* means.
+> - **[§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute)** ❤️ — his noodle substitute, 2026-09-09: *"so I can pour the chili or the spaghetti sauce over it."*
 > - **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)** 🥑 — *"might be good for chili mac too."*
 >
-> Same three options on [§7.18](#718-spaghetti). Whatever the base, the rule in the correction above still holds: **it is cooked separately and the chili goes over it** — nothing but the chili goes in the crock pot.
+> The same three noodle options are on [§7.18 Spaghetti](#718-spaghetti). Whatever the base, it is cooked — or opened — **separately, and the chili goes over it.**
+
+> 🥑 **The healthy chip rule — Cody's standing preference, 2026-09-12. Read this before shopping.**
+>
+> - **Default: Siete *maíz* (corn) tortilla chips, 100% avocado oil.** When he says *"the healthy Frito pie"*, or asks for the avocado-oil chips without naming a brand, **this is what he means — no need to ask.** *"You can default to the corn tortilla chip, the Siete, instead of the almond flour."*
+> - **Xochitl avocado oil tortilla chips** — the named alternative, equally acceptable.
+> - **Siete *almond flour* chips — the keto option, and explicitly not the default.** *"Those almond flours are rather expensive. And if I specifically specify, then I'll tell you."* Only when he asks for them by name. *(The almond flour chip has its own entry at [§9.1 Almond Flour Chips and Salsa](#91-almond-flour-chips-and-salsa) 👍.)*
+> - **🏪 Where they come from is a hard constraint, and it is not negotiable:** *"I want to have those in store, in Walmart. I don't wanna have to order those Walmart Plus, just so you know — those should be from the regular grocery store."* **These are an in-person grocery buy. Never put them on an online order, and do not apply [CLAUDE.md §3e](CLAUDE.md)'s "you can order it online" treatment to them** — he has ruled that out for this item specifically. This note exists so a future session doesn't helpfully suggest ordering them.
+> - **He will say when he wants something other than the default** — *"you don't have to be all crazy specific."* Default to the Siete maíz and move on.
+>
+> *(The standing version of this rule is in [CLAUDE.md §6](CLAUDE.md), with the Memphis Dust stash, because it governs grocery-list building generally and not just this recipe.)*
+
+**Yield:** serves 4, on about 3 cups of chili. *([§8.48](#848-codys-chili)'s full batch is four times that and its half batch twice — scale the base and the toppings to match, or keep the chili in the fridge and build bowls as you want them.)*
 
 #### A. Ingredients
 
-- 1 lb ground venison (deer) or ground beef
-- 1 lb pork sausage
+**The base — pick one:**
 
-*The meat is a 50/50 mix — deer and pork sausage, or beef and pork sausage — ✅ 2026-09-07 per Cody, who says this applies to Chili Mac and any dish in this cookbook that includes chili. The pound-and-a-pound above is that split; scale both halves together.*
-- 1 onion, chopped
-- 2 cans diced tomatoes
-- 2 cans prepared chili
-- 1 can black beans
-- 1 packet chili seasoning
-- 1 lb noodles, **boiled separately at serving — these never go in the crock pot**
-- Crystal hot sauce (Cody's card spells it "Krystal's") — 1 container
-- 1 bag shredded cheese
+- **Noodles** — **1 lb**, boiled separately *(chili mac; high-protein pasta per the note above, or angel hair per [§8.48](#848-codys-chili))*
+- **Fritos Original corn chips** — about **6 oz** for four *(Frito pie; 1½ oz a person — roughly a single-serve bag each)*
+- **Siete *maíz* corn tortilla chips (100% avocado oil)** — about **6 oz** for four *(the healthy version; Xochitl avocado oil chips interchangeable, Siete almond flour chips only if he asks)*
+- **[§5.5 Salted Sautéed Zucchini](#55-salted-sautéed-zucchini-noodle-substitute)** or **[§11.8 Fried Cabbage and Bacon](#118-fried-cabbage-and-bacon)** — as the bed instead
+
+**Over it:**
+
+- **Chili, hot** — about **3 cups** for four *(¾ cup a person)* — **[§8.48 Cody's Chili](#848-codys-chili)**, without its pasta
+- **Shredded cheddar** — about **1⅓ cups** *(⅓ cup a person)*. ✅ **Cheddar is the default and any shredded cheese is fine** — *Cody, 2026-09-12: "shredded cheddar cheese — or if we have other cheese, just shredded cheddar cheese, any kind of, yeah, shredded cheddar cheese."*
+- **Raw onion** — **½ medium, diced small**, about ½ cup *(2 Tbsp a person; white or yellow)*
+- **Louisiana hot sauce** — to taste, on top *(Crystal is the house bottle; see Open Questions for which Louisiana sauce he means)*
+
+**Optional — and the reason is the point. These are use-it-up add-ins, not shopping items:**
+
+- **Bell pepper, diced** — *"if we've got some extra bell peppers, you know, you can throw that in there too. That's always a nice touch. That's optional. And that's just if you've got bell peppers going bad."*
+- **Jalapeños, diced** — *"same goes for diced jalapeños — if you've got some diced jalapeños going bad that are in the fridge, you can use those up. Optional."*
+
+**Check the crisper before you shop; do not buy either one for this dish.** They are here to rescue produce on its last legs, and they are on the grocery list below only as a reminder to look, never as a buy.
+
+*Quantities on this page are ⚙️ **cookbook judgment** per [CLAUDE.md §3d](CLAUDE.md), carried over from the old [§8.47](#847-frito-pie) where they were first reasoned out: Cody named the components and the order, not the amounts, and these are scaled from a ¾-cup ladle of chili to a bowl. **What's Cody's: the components, the order, and the bases. What's the cookbook's: every number.** His supersede these the day he gives them.*
 
 #### B. Cooking Instructions
 
-**1. Brown the meat and onion.**
-Cook the venison (or beef) and the pork sausage — **equal parts, 50/50** — together with the chopped onion until browned. The sausage carries fat and seasoning that lean deer meat doesn't have, which is why the split matters.
+**1. Get the chili genuinely hot — it does the cooking.**
+Chili out of the fridge into a pot over medium heat, **a splash of water if it's set up thick**, stirred until it's steaming through — about **5 minutes** for three cups. **Hot matters more here than anywhere else in the recipe**, because the chili is what softens the base and melts the cheese; lukewarm chili gives you a bowl of cold chips with a lid on it, or cold noodles in sauce. A covered bowl in the microwave works too, stirred halfway. *([§T46](#t46-freezing-and-reheating-leftovers) has the general reheating guidance; chili is the easiest thing in it.)*
 
-**2. Move the chili — and only the chili — to the crock pot. 4 hours on low.**
-Add the browned meat and onion to the crock pot along with the diced tomatoes, prepared chili, black beans, and chili seasoning packet. Stir, cover, and let it go on low for **4 hours**. **The noodles stay out of the pot** — see the correction at the top of the entry.
+**2. Put the base on — or open the bag.**
+**Noodles:** salted water, boiled, **drained right before serving** — figure **10–12 minutes**, or **3–4 minutes** for angel hair, which goes on last because it cooks so fast. **Chips:** nothing to do. That's the whole difference between chili mac and Frito pie, and it's why the chip version is ten minutes quicker. **Zucchini or cabbage:** cook it per [§5.5](#55-salted-sautéed-zucchini-noodle-substitute) or [§11.8](#118-fried-cabbage-and-bacon) and have it hot on the plate.
 
-*Every solid thing in there is already cooked, so these hours aren't cooking anything; they're melding. The canned chili, the seasoning packet, the tomatoes, and the rendered sausage fat need time to stop tasting like four separate products and start tasting like one pot. **2 hours on low is the floor** if you're up against dinner, and **8 hours won't hurt it** — nothing in the pot can overcook. On high, figure 2 hours.* *(⚙️ **Cookbook judgment, 2026-09-08** — Cody's card gives no crock-pot time and he asked for judgment. Reasoned from standard published slow-cooker chili practice — **Southern Living's** and **Betty Crocker's** slow-cooker chili recipes both run 6–8 hours on low or 3–4 on high **from raw or just-browned meat**, and this pot starts further along than that, with browned meat and canned prepared chili already in it. So the long end isn't needed: 4 hours on low is the house number, which is also what this entry's badge has always carried.)*
+**3. Dice the onion small, shred the cheese, and raid the crisper if there's anything to rescue.**
+**Small dice — pea-sized.** Raw onion in big pieces takes over a bite; small, it's a **sharp, cold crunch against the hot chili**, which is the entire reason it goes on raw and the entire reason it goes on last-but-one. Shred the cheese if it's a block. If there's a bell pepper or a jalapeño going soft, dice it now — *(⚙️ the cookbook's reading of his own words, not a researched fill: **raw, in with the onion**, if it's still crisp enough to earn its place; **stirred into the chili while it reheats** in step 1 if it's past that. Either way it's about using it up.)*
 
-**3. Boil the noodles and ladle the chili over them.**
-Cook the noodles separately, in salted water, and drain them right before serving. Then build each bowl: noodles down, chili over the top. **Don't combine the whole batch in one pot** unless you're sure it's all getting eaten — noodles sitting in chili keep drinking it up, and leftovers stored combined come back swollen and dry. Keep the chili and the noodles in separate containers and marry them per bowl.
+**4. Build each bowl in Cody's order: base, chili, cheese, onion, hot sauce.**
+**Per bowl, not in one pan.** Chips in a pan of chili go to mush before it reaches the table, and noodles left sitting in chili keep drinking it up — **leftovers stored combined come back swollen and dry**, so keep the chili and the base in separate containers and marry them per bowl. **Base first**, a good handful of chips or a nest of noodles in the bottom of the bowl. **Chili over it** — a ladle, about ¾ cup, over the whole surface, so the chips underneath start to soften while the ones at the edge stay crisp; **that contrast is the dish.** **Shredded cheese straight onto the hot chili** so it melts in. **Raw onion over the cheese.** **Louisiana hot sauce over the top**, a few shakes. **Eat it now.** *"Watch out, buddy."*
 
-**4. Top with cheese and hot sauce.**
-Finish each bowl with shredded cheese and a splash of Crystal (Krystal's) hot sauce.
+> 💡 **The version in the bag** *(cookbook aside, not Cody's)*: the same five things built inside a slit single-serve bag of chips is the concession-stand original of Frito pie, and it's the same recipe — handy for a crowd, kids, or a tailgate, because there are no bowls to wash.
 
 #### C. Grocery Shopping List
 
 **🛒 General grocery**
 
-- 🛒 Ground venison (deer) or ground beef — 1 lb *(half the meat)*
-- 🛒 Pork sausage — 1 lb *(the other half — 50/50 with the deer or beef)*
-- 🛒 Onion
-- 🛒 Diced tomatoes — 2 cans
-- 🛒 Prepared chili — 2 cans
-- 🛒 Black beans — 1 can
-- 🛒 Chili seasoning — 1 packet
-- 🛒 Noodles — 1 lb *(boiled separately at serving)*; **high-protein pasta** (Banza or Barilla Protein+) per Cody's 2026-09-09 note — or [§11.8 fried cabbage](#118-fried-cabbage-and-bacon) / [§5.5 zucchini](#55-salted-sautéed-zucchini-noodle-substitute) as the base instead
-- 🛒 Crystal hot sauce — 1 container
-- 🛒 Shredded cheese — 1 bag
+- 🛒 Noodles — 1 lb *(boiled separately; **high-protein pasta** — Banza or Barilla Protein+ — per Cody's 2026-09-09 note, or angel hair per [§8.48](#848-codys-chili))*
+- 🛒 **Fritos Original corn chips** — one large bag, or four single-serve bags *(the classic version)*
+- 🛒 Shredded cheddar — 1 bag *(any shredded cheese does — ✅ per Cody, 2026-09-12)*
+- 🛒 Onion — 1
+- 🛒 **Louisiana hot sauce** — 1 bottle *(Crystal is the house bottle; see Open Questions)*
+- 🛒 *The chili itself — **[§8.48 Cody's Chili](#848-codys-chili)**'s own list, without the pasta. Or it's leftovers in the fridge, and you buy nothing.*
+
+**🏪 A specific store — and this one is a rule, not a preference**
+
+- 🏪 **Siete *maíz* corn tortilla chips, 100% avocado oil** (Walmart — **in store, in person; never an online order**, per Cody 2026-09-12). The default healthy base.
+- 🏪 Xochitl avocado oil tortilla chips (Walmart, same rule) — the named alternative
+- 🏪 Siete **almond flour** chips (Walmart, same rule) — **only if he asks for them by name**; they're the expensive keto option, not the default
+
+**🥕 Check the crisper — buy neither**
+
+- *Bell pepper — only if one is going bad. Not a buy.*
+- *Jalapeños — only if they're going bad in the fridge. Not a buy.*
 
 #### Nutrition *(estimated)*
 
+**Two bases, two sets of numbers** — averaging them would describe neither. The chili is counted at the per-cup estimate this cookbook uses for [§8.48](#848-codys-chili): about 400 calories, 20 g fat, 30 g protein, 25 g carbs and 6 g fiber a cup. The rest is the base and the cheese.
+
+**Chili mac (noodles)** — 1 cup of chili over 1 cup of cooked pasta, with cheese:
+
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
-| **Whole dish** | ~5,800 | 230 g | 320 g | 470 g | 60 g |
-| **Per serving** *(serves 8)* | ~725 | 29 g | 40 g | 59 g | 7.5 g |
+| **Whole dish** *(four bowls)* | ~3,100 | 133 g | 188 g | 284 g | 36 g |
+| **Per serving** *(serves 4)* | ~780 | 33 g | 47 g | 71 g | 9 g |
 
-**What a serving is:** about 1 cup of chili over 1 cup of cooked noodles, topped with cheese.
+**Frito pie (chips)** — ¾ cup of chili over 1½ oz of Fritos, with cheese:
 
-*Includes the noodles and the shredded cheese. The canned prepared chili varies a lot by brand — check the label if it matters.*
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** *(four bowls)* | ~2,800 | 168 g | 136 g | 184 g | 26 g |
+| **Per serving** *(serves 4)* | ~700 | 42 g | 34 g | 46 g | 6.5 g |
+
+**What a serving is:** one bowl, and a full dinner rather than a snack — **a nest of noodles or a good handful of chips**, a ladle of chili over it, ⅓ cup of cheese, a spoonful of raw onion, hot sauce.
+
+*On the **healthy base**, the default **Siete maíz** chips come in slightly lighter than Fritos at the same 1½ oz — roughly **30 fewer calories and 4 g less fat a serving**, with a few more carbs — so read the Frito pie table as the ceiling. Regular pasta is counted above; a high-protein pasta (Banza, Barilla Protein+) trades roughly 10 g of carbs for 7 g of protein and 4 g of fiber a serving. Built on the assumed quantities above, which are the cookbook's and not Cody's, and on whichever chili actually goes under it.*
 
 #### D. Open Questions
 
-- ✅ **2026-09-08 per Cody — the crock pot holds the chili, not the chili mac.** The dish is not assembled in the slow cooker; the noodles are boiled separately and the chili goes over them. Written into the entry header, step 2, step 3, the ingredients, and the badge.
-- ✅ **2026-09-08 — crock-pot time set as cookbook judgment: 4 hours on low** *(floor 2 hr, ceiling 8 hr, or about 2 hr on high)*. Cody's card gives no time and he asked for judgment. Reasoned from **Southern Living's** and **Betty Crocker's** slow-cooker chili recipes — both 6–8 hr on low / 3–4 hr on high from raw or just-browned meat — shortened because this pot goes in with the meat already browned and canned prepared chili already cooked, so the slow cook is a meld, not a cook. Cody's own number replaces this the day he gives one.
-- ✅ 2026-09-07 per Cody: the meat is a **50/50 mix — deer and pork sausage, or beef and pork sausage.** Either pairing is the house version; the 1 lb + 1 lb above is that split, so the Nutrition estimate is unchanged. **This rule applies to any dish that includes chili** — noted on [§8.21 Five-Way Chili](#821-five-way-chili) and [§8.36 Chili Dogs](#836-chili-dogs).
+- ✅ **2026-09-12 — Chili Mac and Frito Pie are one entry**, at Cody's instruction: *"I think you should combine with chili mac slash Frito pie. I think it should be both of those things."* [§8.47](#847-frito-pie) is a pointer now.
+- ✅ **2026-09-12 — the chili is [§8.48 Cody's Chili](#848-codys-chili)**, and §8.48 is this entry's card at double scale. See the correspondence table at the top; the question is closed on both entries and in [§12](#12-recipes-to-document).
+- ✅ **2026-09-12 — what cheese? Cheddar, and any shredded cheese is fine.** *"Shredded cheddar cheese — or if we have other cheese… any kind of."* This closes the question [§8.47](#847-frito-pie) had been carrying.
+- ✅ **2026-09-12 — the healthy base is the Siete maíz corn tortilla chip**, not the almond flour one, and it is bought in store. Written into the callout above and into [CLAUDE.md §6](CLAUDE.md).
+- ✅ **2026-09-08 per Cody — the crock pot holds the chili, not the finished dish.** The base is never in the slow cooker. The rule travels with the chili at [§8.48](#848-codys-chili).
+- ✅ 2026-09-07 per Cody: the chili's meat is a **50/50 mix — deer and pork sausage, or beef and pork sausage** — and **that rule applies to any dish in this cookbook that includes chili**, noted on [§8.21 Five-Way Chili](#821-five-way-chili) and [§8.36 Chili Dogs](#836-chili-dogs).
+- ❓ **Which Louisiana hot sauce?** *The Original Louisiana Brand*, Crystal (what the card calls "Krystal's"), or another — he said *"Louisiana hot sauce"* and no more. One word from him settles it.
+- ⚙️ **Every quantity on this page is cookbook judgment**, reasoned from a ¾-cup ladle of chili to a bowl and labeled above. **His figures supersede the day he gives them.**
 
 ### 8.2 Soups
 
 **❤️ Family favorite** — *Cody: "We love the soups."*
 
-**This is the only clean sweep in the cookbook.** Every written-up entry in §8 came back ❤️ — [§8.1 Chili Mac](#81-chili-mac), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.6](#86-sweet-potato-and-andouille-soup), and [§8.7](#87-italian-sausage--kale-soup) — making this the only section in the cookbook that's a clean sweep.
+**This is the only clean sweep in the cookbook.** Every written-up entry in §8 came back ❤️ — [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie), [§8.3](#83-chicken-and-andouille-smoked-sausage-gumbo), [§8.4](#84-lemon-chicken-soup-with-spinach-and-rice), [§8.5](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage), [§8.6](#86-sweet-potato-and-andouille-soup), and [§8.7](#87-italian-sausage--kale-soup) — making this the only section in the cookbook that's a clean sweep.
 
 > *Placeholder — category stub.* Cody listed "soups" generally. Each specific soup gets promoted to its own numbered entry here as it's named. *(Note: [§1 Cody's Pho](#1-codys-pho) is complete and has its own top-level section — it stays there.)*
 >
@@ -40284,9 +40355,11 @@ Ladle into heated bowls and garnish with toasted French bread croutons, snipped 
 ---
 
 ### 8.21 Five-Way Chili
-> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **This speculation is now resolved, and the answer is no:** when [§8.1 Chili Mac](#81-chili-mac) was transcribed and turned out to be exactly that layered spaghetti/chili/cheese/beans style, Cody had it renamed from a plain "Chili" rather than folded in here — so this Five-Way Chili placeholder is a genuinely separate, still-undocumented dish.
+> *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented. **This speculation is now resolved, and the answer is no:** when [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) was transcribed and turned out to be exactly that layered spaghetti/chili/cheese/beans style, Cody had it renamed from a plain "Chili" rather than folded in here — so this Five-Way Chili placeholder is a genuinely separate, still-undocumented dish.
 >
-> **📌 Standing rule, ✅ 2026-09-07 per Cody — applies here when this gets written up:** any chili in this cookbook uses a **50/50 meat mix — deer and pork sausage, or beef and pork sausage** (see [§8.1 Chili Mac](#81-chili-mac)).
+> **📌 Standing rule, ✅ 2026-09-07 per Cody — applies here when this gets written up:** any chili in this cookbook uses a **50/50 meat mix — deer and pork sausage, or beef and pork sausage** (see [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie)).
+>
+> **➡️ Looking for Cody's actual chili? It's [§8.48 Cody's Chili](#848-codys-chili), not here.** *(A second session came to this placeholder hunting for it on 2026-09-12 and left empty-handed; one line would have saved the trip, so here it is.)* §8.48 is the crock-pot chili the house makes — 2 lb beef and 2 lb pork sausage, canned tomatoes, prepared chili and black beans, four hours on low — with its **half-batch recipe card** at [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved). **This Five-Way Chili placeholder is still a genuinely separate, undocumented Cincinnati-style dish.**
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -41417,9 +41490,11 @@ Garnish with extra basil leaves and serve with your favorite bread.
 
 ### 8.36 Chili Dogs
 
-> *Placeholder — details forthcoming.* Per Cody, [§8.1 Chili Mac](#81-chili-mac) *"goes great for chili mac and chili dogs"* — this entry is for the chili-dog use specifically: hot dogs, buns, and §8.1's chili spooned over the top, plus whatever toppings (onion, cheese, mustard) round it out. Ingredients · Instructions · Grocery list all still to come.
+> *Placeholder — details forthcoming.* Per Cody, [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) *"goes great for chili mac and chili dogs"* — this entry is for the chili-dog use specifically: hot dogs, buns, and the chili spooned over the top, plus whatever toppings (onion, cheese, mustard) round it out. Ingredients · Instructions · Grocery list all still to come.
 >
-> **📌 Standing rule, ✅ 2026-09-07 per Cody:** the chili on these dogs — §8.1's, or any chili in this cookbook — is built on a **50/50 meat mix: deer and pork sausage, or beef and pork sausage.**
+> **📌 Repointed 2026-09-12 — the chili is [§8.48 Cody's Chili](#848-codys-chili).** This placeholder used to point at [§8.1](#81-chili-mac--frito-pie) for it, because that entry carried the only chili recipe in the book. It doesn't any more: **Cody merged Chili Mac and Frito Pie into one assembly on 2026-09-12** and confirmed the chili under both is [§8.48](#848-codys-chili) — full batch, or the **half batch on his own recipe card** at [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved), which is the size a family eats. **So: make [§8.48](#848-codys-chili), spoon it over the dogs.** Chili dogs are the third use of that pot, beside chili mac and Frito pie.
+>
+> **📌 Standing rule, ✅ 2026-09-07 per Cody:** the chili on these dogs — [§8.48](#848-codys-chili)'s, or any chili in this cookbook — is built on a **50/50 meat mix: deer and pork sausage, or beef and pork sausage.**
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -42359,72 +42434,13 @@ Spoon the shellfish stew into bowls and add the reserved fish alongside.
 
 ### 8.47 Frito Pie
 
-**❤️ Family favorite** — *Cody, 2026-09-09: "Fritos, and then you put chili on it, and then shredded cheese, and then raw onions, and then some Louisiana hot sauce on the top of there — and watch out, buddy, it is delicious. One of my favorite things."*
-
-**Cody's own, dictated 2026-09-09 — the second thing he does with leftover chili, beside [§8.1 Chili Mac](#81-chili-mac) ❤️.** That sentence above **is the recipe**: five things, in that order, in a bowl. **The order is his and it is the method** — chips on the bottom so the hot chili softens them, cheese straight onto the hot chili so it melts, raw onion on top so it stays sharp and crunchy, hot sauce last. Nothing is cooked except reheating the chili.
-
-> ❓ **Built on leftover chili — and as of 2026-09-12, there's a recipe to point at.** [§8.48 Cody's Chili](#848-codys-chili) arrived by family email that day, closing the gap this note and [§12 Recipes To Document](#12-recipes-to-document) had both been carrying since 2026-09-09. **The ingredient line below now points at [§8.48](#848-codys-chili)** rather than the generic fallback. *([§8.48](#848-codys-chili) itself flags that it may be the same dish as [§8.1 Chili Mac](#81-chili-mac) told from a second source — if he merges them, this entry's chili source becomes whichever one survives.)* Two things about any chili here are already settled: **the 50/50 rule** — deer and pork sausage, or beef and pork sausage — applies to every chili in this cookbook, and **Frito Pie is a bowl, not a chili**, so it stands beside Chili Mac and §8.48 in §8 rather than replacing either.
-
-> ⚙️ **The quantities are cookbook judgment under [CLAUDE.md §3d](CLAUDE.md), and the source is this cookbook first.** Cody named the five components and their order, with no amounts. **The proportions below are reasoned from [§8.1](#81-chili-mac)'s own bowl** — about a cup of chili to a bowl, shredded cheese and hot sauce as the toppings — scaled to what a handful of corn chips will carry, with the chips at about a single-serve bag a person. **Frito-Lay's own printed "Fritos Pie" was checked and deliberately not used** — it's a baked casserole with a ground-chip crust, a different dish from the bowl Cody described. **What's Cody's: the five things and the order.** **What's the cookbook's: every number.** His supersede these the day he gives them.
-
-> **📌 2026-09-12 — the sheet line moved out of the retired 🍱 Leftovers group.** Cody killed that group the same day as his own mistake — *"I improperly said, made you put in a leftover section… it's a waste, I think it's silly"* — and leftovers became a spoken rule instead: **[CLAUDE.md §3f](CLAUDE.md)**. **This was one of only three lines whose sole appearance on the sheet was in that group, so it was moved rather than deleted.** It now sits **first in 🥣 Soups, Gumbos & Chili** — 🟢 ❤️ 🟩(10 min) 🍽️, tied with the shrimp and corn chowder on minutes and ahead of it on ❤️ — and the line no longer reads *Leftover Chili → Frito Pie*, because the sheet no longer says what is leftover. **The dish is unchanged: it is still built on leftover chili**, and this entry and [§8.48](#848-codys-chili) are where that is recorded.
-
-**Related in this book:** [§8.48 Cody's Chili](#848-codys-chili) *(the chili this bowl is built on)* · [§8.1 Chili Mac](#81-chili-mac) ❤️ *(the other leftover-chili dinner — possibly the same chili as §8.48, told twice; see that entry's flag)* · [§8.36 Chili Dogs](#836-chili-dogs) *(placeholder — the third use)* · [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)
-
-**Yield:** serves 4, on about 3 cups of leftover chili
-
-**🟢 Easy** · **Prep ~10 min** *(dicing an onion; grating cheese if it's a block)* · **Cook ~5 min** *(reheating the chili)* · **Start to finish ~15 min** *(with the chili already made — it's leftovers by definition)*
-
-> **Easy, and there is no argument.** Nothing is cooked; nothing can go from perfect to ruined. The only way to get it wrong is to build it early and let the chips go soft — so build it in the bowl, at the table, and eat it.
-
-#### A. Ingredients
-
-- **Fritos Original corn chips** — about **6 oz** for four *(1½ oz a person — roughly a single-serve bag each; cookbook judgment)*
-- **Leftover chili, hot** — about **3 cups** *(¾ cup a person; cookbook judgment)* — **[§8.48 Cody's Chili](#848-codys-chili), without the pasta**
-- **Shredded cheese** — about **1⅓ cups** *(⅓ cup a person; **cheddar** is the assumption — he said "shredded cheese," and [§8.1](#81-chili-mac) buys a bag without naming one)*
-- **Raw onion** — **½ medium, diced small**, about ½ cup *(2 Tbsp a person; white or yellow)*
-- **Louisiana hot sauce** — to taste, on top. ✅ *His words: "Louisiana hot sauce."* **Read as the Louisiana-style cayenne-and-vinegar bottles** — [§8.1](#81-chili-mac) finishes its bowls with **Crystal**, a Louisiana sauce, and *The Original Louisiana Brand* is the one that carries the words on its label; **which bottle he means is an Open Question**
-
-#### B. Cooking Instructions
-
-**1. Get the chili hot. Genuinely hot — it does the cooking.**
-Leftover chili out of the fridge and into a pot over medium heat, **a splash of water if it's set up thick**, stirred until it's steaming through — about 5 minutes for three cups. **Hot matters here**, because the chili is what softens the chips and melts the cheese; lukewarm chili gives you a bowl of cold chips with a lid on it. Microwave works too, in a covered bowl, stirred halfway. *([§T46](#t46-freezing-and-reheating-leftovers) has the general reheating guidance; chili is the easiest thing in it.)*
-
-**2. Dice the onion small, and have the cheese ready.**
-**Small dice — pea-sized.** Raw onion in big pieces takes over a bite; small, it's a sharp, cold crunch against the hot chili, which is the entire reason it's there. Shred the cheese if it's a block. That's the prep.
-
-**3. Build each bowl in Cody's order: Fritos, chili, cheese, onions, hot sauce.**
-**Per bowl, not in one pan** — chips in a pan of chili go to mush by the time it gets to the table. **Fritos first**, a good handful in the bottom of the bowl. **Chili over the chips** — a ladle, about ¾ cup, over the whole surface so the chips underneath start to soften and the ones at the edge stay crisp; that contrast is the dish. **Shredded cheese straight onto the hot chili** so it melts in. **Raw onion over the cheese.** **Louisiana hot sauce over the top** — a few shakes, to taste. **Eat it now.** *"Watch out, buddy."*
-
-> 💡 **The version in the bag** *(cookbook aside, not Cody's)*: the same five things built inside a slit single-serve bag of Fritos is the concession-stand original, and it's the same recipe — handy for a crowd, kids, or a tailgate, because there are no bowls to wash.
-
-#### C. Grocery Shopping List
-
-**🛒 General grocery**
-
-- 🛒 **Fritos Original corn chips** — one large bag, or four single-serve bags
-- 🛒 Shredded cheese — 1 bag *(cheddar assumed)*
-- 🛒 Onion — 1
-- 🛒 **Louisiana hot sauce** — 1 bottle *(Crystal is what [§8.1](#81-chili-mac) keeps; see Open Questions for which one he means)*
-- 🛒 *Leftover chili — from the fridge. If you're making it fresh, [§8.1](#81-chili-mac)'s list, without the noodles.*
-
-#### Nutrition *(estimated)*
-
-| | Calories | Fat | Protein | Carbs | Fiber |
-|---|---|---|---|---|---|
-| **Whole dish** *(four bowls)* | ~2,800 | 168 g | 136 g | 184 g | 26 g |
-| **Per serving** *(serves 4)* | ~700 | 42 g | 34 g | 46 g | 6.5 g |
-
-**What a serving is:** one bowl — about 1½ oz of Fritos under ¾ cup of chili, ⅓ cup of cheese, and a spoonful of onion. A full dinner, not a snack.
-
-*The chili is counted at roughly [§8.1](#81-chili-mac)'s own per-cup estimate for its chili without the noodles — about 400 calories, 20 g fat, 30 g protein, 25 g carbs and 6 g fiber a cup — used here for [§8.48 Cody's Chili](#848-codys-chili) too since the two recipes are close enough in composition (per §8.48's own flag) that a per-cup figure carries over; it will change with whichever chili actually goes under it. The chips and cheese are the rest. Built on the assumed quantities above, which are the cookbook's and not Cody's.*
-
-#### D. Open Questions
-
-- ❓ ~~The chili — still owed.~~ **Answered 2026-09-12: [§8.48 Cody's Chili](#848-codys-chili).** The ingredient line above now points at it; [§12](#12-recipes-to-document)'s row is closed.
-- ❓ **Which Louisiana hot sauce?** *The Original Louisiana Brand*, Crystal (what [§8.1](#81-chili-mac)'s card calls "Krystal's"), or another — he said "Louisiana hot sauce" and no more. One word from him settles it.
-- ❓ **What cheese?** Cheddar is assumed. He said "shredded cheese."
-- ⚙️ **The quantities are cookbook judgment**, reasoned from [§8.1](#81-chili-mac)'s bowl and labeled above. **His figures supersede the day he gives them.**
+> **📌 Merged into [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) ❤️ on 2026-09-12, at Cody's own instruction** — *"the chili mac, I think you should combine with chili mac slash Frito pie. I think it should be both of those things… It's the same thing, same ingredients, except instead of noodles you use Fritos."* **The recipe is unchanged and nothing was lost**; it simply lives on one page now, because the two dishes differ only in what goes in the bottom of the bowl. **[§8.1](#81-chili-mac--frito-pie) is the entry** — his five things in his order, the chip bases including the healthy ones, the chili, the toppings, the nutrition, and the countdown.
+>
+> **This heading stays put on purpose.** A lot of this book points at it — the Table of Contents, [§8.1](#81-chili-mac--frito-pie), [§8.36](#836-chili-dogs), [§12](#12-recipes-to-document), [§T110](#t110-meal-planning-sheet--rules-and-conventions), the [Family Ratings Index](#family-ratings-index), the [Meal Planning Sheet](#meal-planning-sheet) and the changelog — so the anchor is kept alive rather than deleted, per [CLAUDE.md §5](CLAUDE.md). No badge and no Nutrition block here; both are on [§8.1](#81-chili-mac--frito-pie), where the dish is.
+>
+> **What came across in the fold, so it isn't hunted for here:** the build-in-the-bag concession-stand version · *"get the chili genuinely hot — it does the cooking"* · the small-dice raw onion and why it goes on raw and late · the build order and the reason for it · the Louisiana hot sauce question · the quantities, which were always cookbook judgment. **And one question it had been carrying is now answered: cheese.** ✅ *Cody, 2026-09-12: "shredded cheddar cheese — or if we have other cheese… any kind of."*
+>
+> **Two dated notes this entry carried, kept as the record:** it was **❤️** on his own word, 2026-09-09 — *"watch out, buddy, it is delicious. One of my favorite things"* — and on **2026-09-12** its [Meal Planning Sheet](#meal-planning-sheet) line moved out of the retired 🍱 Leftovers group into 🥣 Soups, Gumbos & Chili *(see [CLAUDE.md §3f](CLAUDE.md))*, hours before this merge folded that line into [§8.1](#81-chili-mac--frito-pie)'s. **The sheet now carries one line for both bases**, at the noodle version's minutes.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -42432,15 +42448,15 @@ Leftover chili out of the fridge and into a pot over medium heat, **a splash of 
 
 ### 8.48 Cody's Chili
 
-**The chili he owed — arrived 2026-09-12, by email, not by dictation.** He'd said *"I'll get you the chili recipe"* and *"I think I gave you my chili recipe, didn't I?"* — he hadn't, and [§8.1 Chili Mac](#81-chili-mac)'s note and [§12 Recipes To Document](#12-recipes-to-document) had both been carrying it as owed since 2026-09-09. **The source is a forwarded family email, screenshotted and shared whole.** The sender signs only with an initial in the screenshot and the relation to Cody isn't stated in it — transcribed as sent, in the sender's own words: *"Our recipe is about 2 lbs. hamburger and 2 lbs. sausage. Chop up onion and fry with meat. Put in crock pot: canned tomatoes, chili seasoning — you may need 2 packets for this amount of meat (we use Lawrys brand and one other I can't think of name, but you can experiment. Just Lawyrs is good too.), we put (2 or 3 store bought cans — depending on size of can) canned chili, 1 can of black beans. Let it simmer for several hours. Pour over cooked angel hair pasta and top with shredded cheese, hot sauce, and a little ketchup (if you like it). You may want to cut this recipe in half. It feeds a lot of people. But you can also freeze any leftovers and they taste just as good the second time around."**
+**The chili he owed — arrived 2026-09-12, by email, not by dictation.** He'd said *"I'll get you the chili recipe"* and *"I think I gave you my chili recipe, didn't I?"* — he hadn't, and [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie)'s note and [§12 Recipes To Document](#12-recipes-to-document) had both been carrying it as owed since 2026-09-09. **The source is a forwarded family email, screenshotted and shared whole.** The sender signs only with an initial in the screenshot and the relation to Cody isn't stated in it — transcribed as sent, in the sender's own words: *"Our recipe is about 2 lbs. hamburger and 2 lbs. sausage. Chop up onion and fry with meat. Put in crock pot: canned tomatoes, chili seasoning — you may need 2 packets for this amount of meat (we use Lawrys brand and one other I can't think of name, but you can experiment. Just Lawyrs is good too.), we put (2 or 3 store bought cans — depending on size of can) canned chili, 1 can of black beans. Let it simmer for several hours. Pour over cooked angel hair pasta and top with shredded cheese, hot sauce, and a little ketchup (if you like it). You may want to cut this recipe in half. It feeds a lot of people. But you can also freeze any leftovers and they taste just as good the second time around."**
 
-> ❓ **Plain chili, or another chili mac? Flagged, not decided.** [§8.1](#81-chili-mac) was renamed off "Chili" specifically because Cody drew a line: *"chili can stand alone, but chili mac is its own thing that includes chili."* By that same test, this recipe's own printed finish — poured over angel hair pasta — reads exactly like chili mac's. **It is filed here as its own dish anyway**, for two reasons: the sender calls it *"our recipe"* for chili, not chili mac, and Cody's own ask was for *"the chili recipe"* by name, sent in reply to that exact request. But the overlap is real and worth his eyes — this recipe and [§8.1](#81-chili-mac) are close enough in shape (crock-pot chili, canned tomatoes and prepared chili and black beans, a 50/50 meat split, finished over pasta with cheese and hot sauce) that they may be two tellings of the same house dish rather than two dishes. **If he says so, the fix is to merge them**, keeping whichever quantities and brand he confirms; nothing here should be read as decided. In the meantime **this is what fills [§12](#12-recipes-to-document)'s "Cody's own chili" row** and the missing-sibling note on [§8.1](#81-chili-mac).
+> ✅ **Answered 2026-09-12 — this and [§8.1](#81-chili-mac--frito-pie) are the same chili, and [§8.1](#81-chili-mac--frito-pie)'s own recipe card is this recipe already halved.** The flag this entry carried on the day it was added — *plain chili, or another chili mac?* — is closed, on Cody's word and on the numbers together. **His word:** *"I already gave you the recipe for chili… that same chili recipe goes into the chili mac recipe placeholder that you have."* **The numbers:** the card's meat (1 lb + 1 lb against 2 lb + 2 lb) and its seasoning (1 packet against 2) are **exactly half** of the email's, and **the black beans are one can in both** — the line that doesn't scale, identical in each telling, which is the strongest single sign that this is one recipe written down twice. *(Two rows are weaker and are not counted as evidence: the prepared chili doesn't halve — 2 cans against the email's "2 or 3, depending on size of can" — and the diced-tomato count can't corroborate anything, because the email gives none and the 4 cans below were scaled from the card in the first place.)* **So this is the full batch and the card is the half batch**, kept together here at **[§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved)** below; **[§8.1](#81-chili-mac--frito-pie) is now the assembly** — Chili Mac **and** Frito Pie in one entry — and it points here for the chili rather than restating it. The full correspondence table is on [§8.1](#81-chili-mac--frito-pie).
 >
-> **What's different from §8.1, printed as sent:** double the meat (2 lb + 2 lb here, 1 lb + 1 lb there — matches on the 50/50 split either way, since it's beef and pork sausage in both), **two packets of dry chili seasoning** (§8.1 uses one), **Lawry's named as one of the two brands** *(a chili seasoning packet — a different Lawry's product from [§4.197 Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought), which is already on the [Meal Planning Sheet](#meal-planning-sheet)'s ⭐ Staple Rubs; not the same buy)*, **angel hair specifically** rather than noodles generically, and **ketchup as an optional fourth topping** alongside cheese and hot sauce, which §8.1 doesn't carry.
+> **What the two tellings differ on, printed as sent:** double the meat (2 lb + 2 lb here, 1 lb + 1 lb on [§8.1](#81-chili-mac--frito-pie)'s card — the same 50/50 split either way, since it's beef and pork sausage in both), **two packets of dry chili seasoning** (the card uses one), **Lawry's named as one of the two brands** *(a chili seasoning packet — a different Lawry's product from [§4.197 Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought), which is already on the [Meal Planning Sheet](#meal-planning-sheet)'s ⭐ Staple Rubs; not the same buy)*, **angel hair specifically** rather than noodles generically, and **ketchup as an optional fourth topping** alongside cheese and hot sauce, which the card doesn't carry.
 
 **🟢 Easy** · **Prep ~15 min** *(dicing onion, browning a bigger batch of meat than §8.1's)* · **Cook ~15 min** *(the browning itself runs long on 4 lb of meat; boiling the pasta at the end)* · **Slow cook ~4 hr** *(crock pot — the chili only, same reasoning as §8.1 below)* · **Start to finish ~4 hr 30 min**
 
-> **Why 🟢 Easy.** Same case as [§8.1](#81-chili-mac): everything going into the crock pot is already cooked — browned meat, canned chili, canned tomatoes, canned beans, a seasoning packet — so the hours in the pot are a meld, not a cook, and nothing in it can go from perfect to ruined. The only genuine step is browning the meat, which is forgiving on its own.
+> **Why 🟢 Easy.** Same case as [§8.1](#81-chili-mac--frito-pie): everything going into the crock pot is already cooked — browned meat, canned chili, canned tomatoes, canned beans, a seasoning packet — so the hours in the pot are a meld, not a cook, and nothing in it can go from perfect to ruined. The only genuine step is browning the meat, which is forgiving on its own.
 
 #### A. Ingredients
 
@@ -42448,35 +42464,35 @@ Leftover chili out of the fridge and into a pot over medium heat, **a splash of 
 - 2 lb pork sausage
 
 *The meat is a 50/50 mix, as printed by the sender — and it lines up with the standing house rule, ✅ 2026-09-07 per Cody, that any chili in this cookbook runs 50/50 deer-or-beef and pork sausage.*
-- 1 onion, chopped *(the sender gives no count; **1 large onion**, scaled up from [§8.1](#81-chili-mac)'s single onion for double the meat — cookbook judgment per [CLAUDE.md §3d](CLAUDE.md))*
-- Canned diced tomatoes *(the sender gives no count; **4 cans (14.5 oz)**, scaled from §8.1's 2 cans for half the meat — cookbook judgment)*
+- 1 onion, chopped *(the sender gives no count; **1 large onion**, scaled up from the card's single onion for double the meat — see [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved) — cookbook judgment per [CLAUDE.md §3d](CLAUDE.md))*
+- Canned diced tomatoes *(the sender gives no count; **4 cans (14.5 oz)**, scaled from the card's 2 cans for half the meat — see [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved) — cookbook judgment)*
 - Chili seasoning — 2 packets *(the sender's own number; **Lawry's** is one named brand, the second is unnamed — see Open Questions)*
 - Prepared canned chili — 2 to 3 cans, size-dependent *(as printed by the sender)*
-- 1 can black beans *(as printed — the sender's own recipe keeps this at one can even though the meat is doubled from [§8.1](#81-chili-mac)'s; transcribed exactly as sent, not corrected)*
-- Angel hair pasta, boiled separately at serving *(no amount given; **1 lb**, cookbook judgment matching [§8.1](#81-chili-mac))*
-- Shredded cheese, for topping *(no amount given; **1 bag**, cookbook judgment matching §8.1)*
-- Hot sauce, for topping *(the sender just says "hot sauce"; **Crystal**, the house bottle at [§8.1](#81-chili-mac), assumed — see Open Questions)*
+- 1 can black beans *(as printed — the sender's own recipe keeps this at one can even though the meat is doubled from the card's; **the card does the same**, which is the strongest single sign the two are one recipe — see [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved). Transcribed exactly as sent, not corrected.)*
+- Angel hair pasta, boiled separately at serving *(no amount given; **1 lb**, cookbook judgment matching the card at [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved))*
+- Shredded cheese, for topping *(no amount given; **1 bag**, cookbook judgment matching the card at [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved))*
+- Hot sauce, for topping *(the sender just says "hot sauce"; **Crystal**, the house bottle the card names, assumed — see [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved) and Open Questions)*
 - Ketchup, a little, if you like it — optional, the sender's own fourth topping
 
 #### B. Cooking Instructions
 
 **1. Chop the onion, and fry it with the meat.**
-Brown the ground beef and pork sausage together with the chopped onion — the sender's own order, meat and onion in the pan together rather than the onion first. **The 50/50 split (2 lb and 2 lb)** carries the same reasoning as [§8.1](#81-chili-mac): the sausage brings fat and seasoning the beef doesn't have on its own.
+Brown the ground beef and pork sausage together with the chopped onion — the sender's own order, meat and onion in the pan together rather than the onion first. **The 50/50 split (2 lb and 2 lb)** carries the same reasoning as [§8.1](#81-chili-mac--frito-pie): the sausage brings fat and seasoning the beef doesn't have on its own.
 
 **2. Everything else goes in the crock pot — not the pasta.**
-Move the browned meat and onion to the crock pot with the canned tomatoes, the chili seasoning (2 packets), the canned prepared chili (2 to 3 cans), and the black beans. Stir. **The pasta never goes in the pot** — same rule as [§8.1](#81-chili-mac), for the same reason: dry pasta sitting for hours in a slow cooker goes bloated and pasty, and it isn't part of this recipe as sent.
+Move the browned meat and onion to the crock pot with the canned tomatoes, the chili seasoning (2 packets), the canned prepared chili (2 to 3 cans), and the black beans. Stir. **The pasta never goes in the pot** — same rule as [§8.1](#81-chili-mac--frito-pie), for the same reason: dry pasta sitting for hours in a slow cooker goes bloated and pasty, and it isn't part of this recipe as sent.
 
 **3. Let it simmer for several hours.**
-On low, several hours, per the sender. *(⚙️ **Cookbook judgment** — the sender gives no figure, the same gap [§8.1](#81-chili-mac) had. That entry's own number — **4 hours on low**, reasoned from Southern Living's and Betty Crocker's published slow-cooker chili times, shortened because the meat is already browned and the chili already cooked — is used here rather than re-derived, since it's the same pot doing the same job on the same ingredients. 2 hours is the floor if you're pressed, 8 hours won't hurt it; about 2 hours on high.)*
+On low, several hours, per the sender. *(⚙️ **Cookbook judgment** — the sender gives no figure, the same gap [§8.1](#81-chili-mac--frito-pie) had. That entry's own number — **4 hours on low**, reasoned from Southern Living's and Betty Crocker's published slow-cooker chili times, shortened because the meat is already browned and the chili already cooked — is used here rather than re-derived, since it's the same pot doing the same job on the same ingredients. 2 hours is the floor if you're pressed, 8 hours won't hurt it; about 2 hours on high.)*
 
 **4. Boil the angel hair separately, and build each bowl.**
-Cook the angel hair in salted water and drain it right before serving. **Angel hair is thin and cooks fast** — a few minutes, not the ten-plus of a heavier noodle — so put it on last. Ladle the chili over the pasta per bowl rather than combining the whole pot, the same reasoning as [§8.1](#81-chili-mac): pasta left sitting in chili keeps drinking it up, and leftovers stored together come back swollen.
+Cook the angel hair in salted water and drain it right before serving. **Angel hair is thin and cooks fast** — a few minutes, not the ten-plus of a heavier noodle — so put it on last. Ladle the chili over the pasta per bowl rather than combining the whole pot, the same reasoning as [§8.1](#81-chili-mac--frito-pie): pasta left sitting in chili keeps drinking it up, and leftovers stored together come back swollen.
 
 **5. Top with shredded cheese, hot sauce, and a little ketchup if you like it.**
-The sender's own topping order. **Ketchup is optional** — her own parenthetical, *"if you like it"* — and it is the one topping here that [§8.1](#81-chili-mac) doesn't carry.
+The sender's own topping order. **Ketchup is optional** — her own parenthetical, *"if you like it"* — and it is the one topping here that [§8.1](#81-chili-mac--frito-pie) doesn't carry.
 
 **6. Cut it in half if it's too much, and freeze what's left.**
-The sender's own note: this recipe **feeds a lot of people**, and a half batch is a reasonable single-family portion — roughly [§8.1](#81-chili-mac)'s own quantities, which is worth noticing rather than acting on, since the two are being kept as separate entries for now (see the flag above). Leftovers **freeze well** and taste the same reheated, per the sender.
+The sender's own note: this recipe **feeds a lot of people**, and a half batch is a reasonable single-family portion. **That half batch is a documented recipe in its own right — it is Cody's own photographed recipe card**, rated *"Yummie"* on the card, and it is written out at **[§E below](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved)**: 1 lb venison or beef, 1 lb pork sausage, 1 onion, 2 cans tomatoes, 2 cans prepared chili, 1 can black beans, 1 packet seasoning. *(That the card and this email are one recipe was noticed here on 2026-09-12 before Cody confirmed it the same day — see the ✅ note at the top.)* Leftovers **freeze well** and taste the same reheated, per the sender.
 
 #### C. Grocery Shopping List
 
@@ -42501,17 +42517,53 @@ The sender's own note: this recipe **feeds a lot of people**, and a half batch i
 | **Whole dish** | ~9,800 | 400 g | 540 g | 720 g | 92 g |
 | **Per serving** *(serves 16, on the full batch — or 8 on the sender's own suggested half batch)* | ~610 | 25 g | 34 g | 45 g | 5.5 g |
 
-**What a serving is:** about 1 cup of chili over 1 cup of angel hair, with cheese, roughly what [§8.1 Chili Mac](#81-chili-mac) calls a serving there too.
+**What a serving is:** about 1 cup of chili over 1 cup of angel hair, with cheese, roughly what [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) calls a serving there too.
 
-*Built by doubling [§8.1](#81-chili-mac)'s own per-cup chili estimate for the meat, tomatoes, and prepared chili, plus the pasta and cheese at the same per-serving rate as that entry — the same assumed quantities flagged in Ingredients, and the sender's own recipe gives no serving count to check it against. Ketchup isn't counted; it's a to-taste topping.*
+*Built by doubling [§8.1](#81-chili-mac--frito-pie)'s own per-cup chili estimate for the meat, tomatoes, and prepared chili, plus the pasta and cheese at the same per-serving rate as that entry — the same assumed quantities flagged in Ingredients, and the sender's own recipe gives no serving count to check it against. Ketchup isn't counted; it's a to-taste topping.*
 
 #### D. Open Questions
 
-- ❓ **Is this the same dish as [§8.1 Chili Mac](#81-chili-mac), told twice?** Flagged in full above. Merge on his word; kept separate until then.
+- ✅ **Answered 2026-09-12 — yes: this and [§8.1](#81-chili-mac--frito-pie) are one chili, told twice.** Cody's own instruction settled it and the quantities corroborate it; the card is this recipe halved, kept at **[§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved)**. [§8.1](#81-chili-mac--frito-pie) is the assembly — Chili Mac & Frito Pie — and points here for the chili.
 - ❓ **The second chili seasoning brand.** The sender: *"Lawrys brand and one other I can't think of name."* Not guessable — stays open until named.
 - ❓ **Which cans, and what size?** *"2 or 3 store bought cans — depending on size of can"* for the prepared chili, and no count at all for the diced tomatoes. The counts above are cookbook judgment; his or the sender's own numbers replace them.
 - ❓ **Who sent it, and how does she cook it — crock pot low the whole time, or does she ever run it on the stovetop?** The screenshot doesn't say, and the recipe just says "simmer." Read here as the crock pot, since that's where everything is put in Step 2.
-- ⚙️ **Onion, pasta, cheese, and hot-sauce-brand quantities are cookbook judgment**, reasoned from [§8.1](#81-chili-mac)'s own bowl, per [CLAUDE.md §3d](CLAUDE.md). Cody's or the sender's own figures supersede these the day they're given.
+- ⚙️ **Onion, pasta, cheese, and hot-sauce-brand quantities are cookbook judgment**, reasoned from the half-batch card at [§E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved), per [CLAUDE.md §3d](CLAUDE.md). Cody's or the sender's own figures supersede these the day they're given.
+
+#### E. Half-Batch Variation — Cody's Recipe Card (the same chili, halved)
+
+**This is the same recipe, written down a second time and already cut in half — and it is the version this house actually cooks.** It came from **Cody's own photographed recipe card**, transcribed on 2026-09-07 as the original [§8.1](#81-chili-mac--frito-pie), and it carries the card's own handwritten rating: **"Yummie."** When Cody merged Chili Mac and Frito Pie on 2026-09-12 and said the chili was this one — *"that same chili recipe goes into the chili mac"* — the card's quantities came here rather than being lost, per [CLAUDE.md §5](CLAUDE.md). **[§8.1](#81-chili-mac--frito-pie) is now the assembly; this is its chili.**
+
+**It answers the sender's own closing line:** *"You may want to cut this recipe in half. It feeds a lot of people."* Halved, it feeds about eight.
+
+| | The card *(half batch)* | The email *(full batch, above)* |
+|---|---|---|
+| ground venison (deer) **or** ground beef | **1 lb** | 2 lb hamburger |
+| pork sausage | **1 lb** | 2 lb |
+| onion, chopped | **1** | 1 large |
+| diced tomatoes | **2 cans** | *(no count given; 4 cans is this cookbook's scaling from the card)* |
+| prepared canned chili | **2 cans** | 2 to 3 cans, by size |
+| **black beans** | **1 can** | **1 can — the same, not halved** |
+| dry chili seasoning | **1 packet** | 2 packets |
+| noodles, boiled separately | **1 lb** | 1 lb angel hair |
+| hot sauce | **Crystal** *(the card spells it "Krystal's")* | *"hot sauce"* |
+| shredded cheese | **1 bag** | 1 bag |
+
+**Two things are worth reading off that table.** The meat and the seasoning halve **exactly**, which is what makes the card and the email one recipe rather than two. And **the black beans don't halve at all** — one can in both — which is the single strongest sign of a shared lineage: an independent cook doubling the meat would have doubled the beans. **The prepared chili is the one line that doesn't line up** (2 cans on the card against *2 or 3* in the email), though the email hedges that count on can size; and the **diced tomatoes can't corroborate anything**, because the email gives no number and the 4 cans above were scaled *from this card*. The full argument is on [§8.1](#81-chili-mac--frito-pie).
+
+**Method is identical to Steps 1–5 above, at half scale** — brown the 1 lb of venison-or-beef with the 1 lb of pork sausage and the chopped onion, everything but the noodles into the crock pot, **4 hours on low** *(2 hr floor, 8 hr ceiling; about 2 hr on high)*, noodles boiled separately at the end, chili ladled over them per bowl. **The card carries no ketchup** — that topping is the email's alone.
+
+**The card's own 50/50 rule is the house rule.** ✅ 2026-09-07 per Cody: deer and pork sausage, **or** beef and pork sausage, and it applies to every chili in this cookbook. The email's beef-and-sausage is the same split with the deer option left off.
+
+#### Nutrition, half batch *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~5,800 | 230 g | 320 g | 470 g | 60 g |
+| **Per serving** *(serves 8)* | ~725 | 29 g | 40 g | 59 g | 7.5 g |
+
+**What a serving is:** about 1 cup of chili over 1 cup of cooked noodles, topped with cheese — the same bowl the full batch above describes.
+
+*These are the figures this cookbook carried for the original §8.1 from 2026-09-07, kept unchanged; they include the noodles and the cheese. The canned prepared chili varies a lot by brand — check the label if it matters. For the chili alone, without a base under it, reckon about **400 calories, 20 g fat, 30 g protein, 25 g carbs and 6 g fiber a cup**, which is the number [§8.1](#81-chili-mac--frito-pie) builds both of its bowls on.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -42521,6 +42573,8 @@ The sender's own note: this recipe **feeds a lot of people**, and a half batch i
 
 ### 9.1 Almond Flour Chips and Salsa
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
+>
+> **📌 2026-09-12 — the almond flour chip is a Siete product, and it has a standing rule attached to it now.** Cody named it while setting the chip preference for [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie): *"if I'm feeling keto, we could do the almond flour chips… those almond flours are rather expensive. And if I specifically specify, then I'll tell you."* **So it's the keto option, never the default** — the default healthy chip is the **Siete *maíz* corn tortilla chip in 100% avocado oil**, with **Xochitl** as the named alternative. See [§8.1](#81-chili-mac--frito-pie)'s callout and [CLAUDE.md §6](CLAUDE.md). **Same buying rule applies here: in store, in person, never an online order.**
 
 **👍 Tried and liked** — *Cody: "We like it."*
 
@@ -45845,7 +45899,7 @@ Transcribed from the printed keto cookbook, ***Side Dishes*** chapter — the sa
 
 > **Why 🟢 Easy.** Per [CLAUDE.md §3a](CLAUDE.md)'s technique-risk test, nothing in this can go from perfect to ruined — it's one skillet, four ingredients, and fifteen minutes of stirring. **The fastest keto recipe in the cookbook**, and one of the fastest recipes of any kind here.
 
-> 🍝 **Serve it under the spaghetti sauce — Cody, 2026-09-09: *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles."*** So this is a **noodle substitute** as much as a side: a plate of it under [§7.18 Spaghetti](#718-spaghetti)'s sausage-and-tomato sauce is a low-carb spaghetti night, and he thinks it *"might be good for chili mac too"* — [§8.1 Chili Mac](#81-chili-mac). Both entries carry the same note. It is on his **⭐ Staple Sides** list.
+> 🍝 **Serve it under the spaghetti sauce — Cody, 2026-09-09: *"fried cabbage goes great with the spaghetti sauce; a great substitute for noodles."*** So this is a **noodle substitute** as much as a side: a plate of it under [§7.18 Spaghetti](#718-spaghetti)'s sausage-and-tomato sauce is a low-carb spaghetti night, and he thinks it *"might be good for chili mac too"* — [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie). Both entries carry the same note. It is on his **⭐ Staple Sides** list.
 
 #### A. Ingredients
 
@@ -45932,7 +45986,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | **Dutch West Indian Chicken Kebabs** | ***The Barbecue! Bible*, book p. 73 — never photographed.** Recorded 2026-09-08. The dish [§4.191 Pindasaus](#4191-dutch-west-indian-peanut-sauce-pindasaus) was written for — its headnote says the sauce *"is designed to be served with Dutch West Indian Chicken Kebabs (page 73)."* **🚫 2026-09-08 — Cody: not pursuing; the sauce stands on its own and the kebabs are simply not in this cookbook.** The same headnote calls the sauce *"great with any type of saté, as well as grilled chicken or seafood,"* and this cookbook already has eight kebabs at [§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef) to serve it beside. | 🚫 Closed 2026-09-08 — sauce stands alone |
 | **Coconut Milk** *(the source's homemade version)* | ***The Barbecue! Bible*, book p. 522 — never photographed.** Recorded 2026-09-08. Cited by [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) as the alternate to canned. **🚫 2026-09-08 — Cody: not pursuing — the lowest-stakes item on this table.** The recipe itself says *"canned or homemade,"* so **use canned unsweetened coconut milk**, which is what every other entry here assumes; [§4.41](#441-asian-peanut-sauce)'s own source note gives a further fallback (equal parts heavy cream and chicken broth). | 🚫 Closed 2026-09-08 — canned is the answer |
 | ***Cook Without a Book*** — **a book Cody owns and named, nothing transcribed yet** | **Named by Cody on 2026-09-09**, while reviewing the Meal Planning Sheet's new [Sauces](#sauces) block — he offered it as another sauce source he has on the shelf. **Verified the same day: nothing from this book is in this cookbook.** No recipe, note, or citation anywhere in `codys-cookbook.md` or `CHANGELOG.md` traces to it, and no §4 entry is credited to it. It is **not** a photograph request — nothing has been shot, so nothing is missing; this row exists so a named, offered source is tracked as a lead instead of being lost between sessions. **What would open it:** Cody photographing pages he wants from it, the same way every other book here arrived. *(Recorded as a lead only — no author, edition, or page range is stated here, because Cody has not given one and this cookbook does not guess at bibliographic facts. Judgment fills gaps; it does not invent them.)* <br><br> **✅ Corrected later the same day — one recipe here does trace to it, on Cody's own account.** He said of **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** that it came from *Cook Without a Book*. **So the "nothing from this book is in this cookbook" finding above is superseded**: the same-day search was accurate about what the file *said* — §8.4 credited no source at all — but wrong about the fact. **§8.4 now carries the attribution, marked as his statement and unverified against a page.** The row stays open as a lead, because one recalled attribution is not the same as having the book's pages: nothing here has been checked against it, and no author, edition, or page number is known. <br><br> **📌 2026-09-09 (final) — he asked *"did you end up finding that?"* No pages have been given and nothing has been transcribed; the answer is still no. But the pan sauce he described — deglaze the skillet, reduce, mount with butter — is already in this book as [§T8 Pan Sauce Formula](#t8-pan-sauce-formula)**, read in full that day: ¾ cup liquid into the pan the meat came out of, reduce by half, whisk in a tablespoon of butter or oil or two of cream, with a 20-combination table led by a **Red Wine** version (6 Tbsp each broth and red wine, a teaspoon of Dijon, butter) and a white-wine-and-broth rule for the white version. **So §T8 is on the [Meal Planning Sheet](#meal-planning-sheet)'s ⭐ Staple Sauces as "Easy Wine Pan Sauce (white or red) — §T8."** *(Cookbook observation, unconfirmed: §T8 was transcribed from a photographed page headed "Instant Gratification: Pan Sauces and Drizzles," which reads like a chapter title from Pam Anderson's *How to Cook Without a Book* — if so, the two are one and the same, and the entry's source line should say so. Cody can settle that by checking the book's contents page.)* **Still wanted for comparison: the *Cook Without a Book* pan sauce as printed**, so the two can be set side by side and §T8's source line filled in. | 📌 Lead — named 2026-09-09; **[§8.4](#84-lemon-chicken-soup-with-spinach-and-rice) attributed to it by Cody the same day**, unverified; **[§T8](#t8-pan-sauce-formula) stands in for its pan sauce** on the sheet, the printed version still wanted |
-| **Cody's own chili** *(plain chili — the standalone bowl, not chili mac)* | **✅ Closed 2026-09-12 — [§8.48 Cody's Chili](#848-codys-chili).** Wanted since 2026-09-09, when Cody asked *"I think I gave you my chili recipe, didn't I?"* and the answer was no. **What arrived wasn't a walkthrough from Cody but a forwarded family email**, transcribed in full at §8.48. **It is not cleanly the "standalone bowl" this row asked for** — the recipe as sent finishes over angel hair pasta, the same test ([§8.1 Chili Mac](#81-chili-mac)'s own — *"chili can stand alone, but chili mac is its own thing that includes chili"*) that got §8.1 renamed off plain chili in the first place. §8.48 is written up as its own entry regardless, with a flag on it that it may be §8.1 told a second time; that is Cody's to settle, not this cookbook's. **[§8.1 Chili Mac](#81-chili-mac) and [§8.47 Frito Pie](#847-frito-pie) ❤️** — the two dishes that were hanging off this row — now both point at [§8.48](#848-codys-chili) instead of a generic placeholder. **On the [Meal Planning Sheet](#meal-planning-sheet):** §8.48 is there, in the Soups, Gumbos & Chili group, sorted by its own hands-on minutes rather than pinned before Chili Mac — the pin request predates the sheet's later time-sort rule, which the entry's own note explains. | ✅ **Complete — §8.48**, flagged for a possible merge with §8.1 |
+| **Cody's own chili** *(plain chili — the standalone bowl, not chili mac)* | **✅ Closed 2026-09-12 — [§8.48 Cody's Chili](#848-codys-chili).** Wanted since 2026-09-09, when Cody asked *"I think I gave you my chili recipe, didn't I?"* and the answer was no. **What arrived wasn't a walkthrough from Cody but a forwarded family email**, transcribed in full at §8.48. **It is not cleanly the "standalone bowl" this row asked for** — the recipe as sent finishes over angel hair pasta, the same test ([§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie)'s own — *"chili can stand alone, but chili mac is its own thing that includes chili"*) that got §8.1 renamed off plain chili in the first place. §8.48 is written up as its own entry regardless, with a flag on it that it may be §8.1 told a second time; that is Cody's to settle, not this cookbook's. **[§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) and [§8.47 Frito Pie](#847-frito-pie) ❤️** — the two dishes that were hanging off this row — now both point at [§8.48](#848-codys-chili) instead of a generic placeholder. **On the [Meal Planning Sheet](#meal-planning-sheet):** §8.48 is there, in the Soups, Gumbos & Chili group, sorted by its own hands-on minutes rather than pinned before Chili Mac — the pin request predates the sheet's later time-sort rule, which the entry's own note explains. <br><br> **✅ Settled later the same day, and the flag comes off.** Cody merged the two dishes — *"that same chili recipe goes into the chili mac… I think you should combine with chili mac slash Frito pie"* — so **[§8.47](#847-frito-pie) folded into [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie)**, which is now an assembly that points here for its chili. **And the two transcriptions corroborate the merge on their own numbers:** §8.1's photographed card is this email's recipe **cut exactly in half** — 1 lb + 1 lb of meat against 2 lb + 2 lb, 1 seasoning packet against 2 — with **the black beans at one can in both**, the line that doesn't scale, which is the fingerprint of one recipe written down twice. *(The email itself says* "You may want to cut this recipe in half. It feeds a lot of people."*)* The card's quantities are kept at **[§8.48 §E](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved)** as the documented half batch, with its *"Yummie"* rating. **So the row closes on evidence as well as on his word** — and it turns out the "standalone bowl" this row asked for and the chili mac were never two recipes. | ✅ **Complete — §8.48**; **the §8.1 merge question closed 2026-09-12** |
 | **A meal calendar that back-schedules the start time** *(a build, not a recipe — logged here so it isn't lost)* | **Wanted by Cody, 2026-09-09, and confirmed the same evening:** *"if you want it ready by six and it's 30 minutes of prep and an hour in the oven, you need to be prepping by four-thirty… if sous vide takes two days, you sous vide two days beforehand"* — *"We set it up as an event, because it's especially important for sous vide and grilling."* **The shape of it:** one event per dinner, with the start time worked backward from the serving time using three inputs this cookbook already carries — the [Meal Planning Sheet](#meal-planning-sheet)'s hands-on minutes (the 🟩🟨🟥 square, grill overhead included), each entry's **Slow cook** hours, and its lead time (marinate, dry brine, the two-day sous vide) — possibly emailed. **Nothing has been built**; this row is the specification. | ⏳ Future build — not started |
 | **The four pulled-pork methods — condense to one?** *(a housekeeping question, not a missing recipe)* | **Cody, 2026-09-09 (final), looking at the pork column of the [Meal Planning Sheet](#meal-planning-sheet): *"I think we can condense that into one, maybe."*** The four are [§6.2 Pulled Pork](#62-pulled-pork) (Raichlen, North Carolina), [§6.6 North Carolina Pulled Pork, Karmel version](#66-north-carolina-pulled-pork-karmel-version), [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) ❤️ (his own), and [§7.95 Meathead's Perfect Pulled Pork](#795-perfect-pulled-pork) ❤️. **Nothing has been deleted** — [CLAUDE.md §5](CLAUDE.md) says complete recipes come out only on an explicit request, and *"maybe"* is not one. **Only §6.9 is on his ⭐ Staple Mains list**; the other three stay in the Pork group of the sheet and in §6/§7 as they were. If he says the word, the three non-Cody versions could be folded into a single "other pulled pork methods" cluster line on the sheet, or their entries condensed — but that is his call to make, and it is logged here so the remark isn't lost. | 📌 Logged 2026-09-09 — awaiting a yes or no from Cody |
 | *(add here)* | | |
@@ -49510,7 +49564,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 - **Ribeye, boneless or bone-in** — [§7.36 Two Steaks Feed Four](#736-two-steaks-feed-four) *(grilled)* · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) *(reverse-seared, 1½–2" thick)* · [§7.107 Skinny Steaks](#7107-skinny-steaks) *(very high direct heat, kept moving, 1" or less)*
 - **Tri-tip (bottom sirloin)** — [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(indirect then direct-seared, "Poor Man's Prime Rib")*
 - **Sirloin** — [§7.68](#768-peruvian-beef-kebabs-anticuchos)/[§7.70](#770-russian-shashlik)/[§7.71](#771-fiery-stick-meat-suyas)/[§7.73](#773-bani-marine-street-beef-kebabs)/[§7.75](#775-lettuce-bundles-with-grilled-beef) kebabs *(all grilled)*
-- **Ground beef** — [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) *(grilled)* · [§9.6 Beef Jerky](#96-beef-jerky) *(dehydrated)* · [§8.1 Chili Mac](#81-chili-mac) *(browned, then slow-cooked)* · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) *(two-zone smoked, then direct-seared — distinct from §7.76, see entry)*
+- **Ground beef** — [§7.76 Hamburgers with Herb Butter](#776-hamburgers-with-herb-butter) *(grilled)* · [§9.6 Beef Jerky](#96-beef-jerky) *(dehydrated)* · [§8.48 Cody's Chili](#848-codys-chili) *(browned, then slow-cooked — the chili under [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie))* · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) *(two-zone smoked, then direct-seared — distinct from §7.76, see entry)*
 - **Short ribs** — [§8.14 Restorative Beef Broth](#814-restorative-beef-broth) *(simmered)* · [§7.79 Short Rib Ragù](#779-short-rib-ragù) *(bone-in, sous vide 24–30 hr then shredded into a stovetop sauce)* · [§7.83 Short Rib Korean-Style Lettuce Wraps](#783-short-rib-korean-style-lettuce-wraps) *(sous vide 48–72 hr to a medium-rare, steak-like texture, then seared)* · [§7.110 Short Ribs, Texas Style](#7110-short-ribs-texas-style) *(smoked to 203°F)* · [§7.111 Short Ribs, Brazilian Steakhouse Style](#7111-short-ribs-brazilian-steakhouse-style) *(rotisserie or direct-grilled)*
 - **Hanger steak** — [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](#785-hanger-steak-with-duck-fat-wild-mushrooms) *(sous vide in duck fat, then seared)*
 - **Stew meat (beef or venison)** — [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) *(braised/simmered)*
@@ -49552,7 +49606,7 @@ A new top-level section — numbered 17, appended at the end, same reasoning as 
 ### Venison / Game
 
 - **Stew meat** — [§8.33 Mamma's Deer/Beef Stew](#833-mammas-deerbeef-stew) *(braised/simmered)*
-- **Ground venison** — [§9.29 Deer Jerky](#929-deer-jerky) *(dehydrated)* · [§8.1 Chili Mac](#81-chili-mac) *(beef-or-venison option, browned then slow-cooked)*
+- **Ground venison** — [§9.29 Deer Jerky](#929-deer-jerky) *(dehydrated)* · [§8.48 Cody's Chili](#848-codys-chili) *(beef-or-venison option on its [half-batch card](#e-half-batch-variation--codys-recipe-card-the-same-chili-halved), browned then slow-cooked — the chili under [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie))*
 
 ### Veal
 

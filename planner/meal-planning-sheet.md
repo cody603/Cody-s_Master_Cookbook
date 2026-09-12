@@ -25,13 +25,13 @@
 | 🟢 [Mamma's Deer or Beef Stew](recipes/833-mammas-deerbeef-stew.md) ❤️ 🟩(40 min†) | 🟢 [Pickled Pink Onions](recipes/45-pickled-pink-onions.md) ❤️ 🟩(15 min) |
 | 🟢 [Cody's Pulled Pork Sandwiches](recipes/69-codys-pulled-pork.md) ❤️ 🟩(40 min†) 🍽️ ♨︎ | 🟢 [Roasted Veggies (squash, zucchini, Brussels sprouts, carrots, asparagus)](recipes/538-roasted-veggies.md) 👍 🟩(15 min) |
 | 🟢 [Italian Sausage & Kale Soup](recipes/87-italian-sausage--kale-soup.md) ❤️ 🟩(40 min†) | 🟢 [Grilled (or Oven) Cauliflower](recipes/542-grilled-cauliflower.md) 👍 🟩(15–20 min†) |
-| 🟡 [Geoff's Pork Belly Thai Basil](recipes/2-geoffs-pork-belly-thai-basil.md) ❤️ 🟨(45 min) | 🟢 [Cherry Tomato Confit](recipes/556-cherry-tomato-confit.md) 👍 🟩(15 min) |
-| 🟡 [Salmon with Mustard Glaze](recipes/731-salmon-with-mustard-glaze.md) ❤️ 🟨(45 min†) ♨︎ | 🟢 [Grilled Asparagus](recipes/541-grilled-asparagus.md) 🟩(15 min†) ♨︎ |
-| 🟢 [Crawfish Elegante](recipes/713-crawfish-elegante.md) ❤️ 🟨(45 min) | 🟢 [Brazilian Black Beans with Bacon](recipes/534-brazilian-black-beans-with-bacon-tutu-mineira.md) 🟩(15 min†) |
-| 🟡 [Red Beans & Rice](recipes/716-red-beans--rice.md) ❤️ 🟨(45 min) 🍽️ | 🟢 [Salted Sautéed Zucchini (noodle substitute)](recipes/55-salted-sautéed-zucchini-noodle-substitute.md) ❤️ 🟩(20 min) |
-| 🟢 [Sous Vide Brisket, Richie's Method](recipes/610-sous-vide-brisket-richies-method.md) ❤️ 🟨(50 min†) ♨︎ | 🟢 [Fried Cabbage and Bacon](recipes/118-fried-cabbage-and-bacon.md) 🟩(20 min) 🥑 |
-| 🟡 [Steakhouse Steakburgers](recipes/7115-the-great-american-steakhouse-steakburger.md) ❤️ 🟨(50 min†) 🍽️ ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](recipes/510-bacon-tomato-avocado-pasta-salad.md) ❤️ 🟩(25 min) |
-| 🟢 [Last-Meal Ribs](recipes/797-last-meal-ribs.md) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Quick Pickles](recipes/4177-quick-pickles.md) 🟩(25 min) |
+| 🟡 [Salmon with Mustard Glaze](recipes/731-salmon-with-mustard-glaze.md) ❤️ 🟨(45 min†) ♨︎ | 🟢 [Cherry Tomato Confit](recipes/556-cherry-tomato-confit.md) 👍 🟩(15 min) |
+| 🟢 [Crawfish Elegante](recipes/713-crawfish-elegante.md) ❤️ 🟨(45 min) | 🟢 [Grilled Asparagus](recipes/541-grilled-asparagus.md) 🟩(15 min†) ♨︎ |
+| 🟡 [Red Beans & Rice](recipes/716-red-beans--rice.md) ❤️ 🟨(45 min) 🍽️ | 🟢 [Brazilian Black Beans with Bacon](recipes/534-brazilian-black-beans-with-bacon-tutu-mineira.md) 🟩(15 min†) |
+| 🟢 [Sous Vide Brisket, Richie's Method](recipes/610-sous-vide-brisket-richies-method.md) ❤️ 🟨(50 min†) ♨︎ | 🟢 [Salted Sautéed Zucchini (noodle substitute)](recipes/55-salted-sautéed-zucchini-noodle-substitute.md) ❤️ 🟩(20 min) |
+| 🟡 [Steakhouse Steakburgers](recipes/7115-the-great-american-steakhouse-steakburger.md) ❤️ 🟨(50 min†) 🍽️ ♨︎ | 🟢 [Fried Cabbage and Bacon](recipes/118-fried-cabbage-and-bacon.md) 🟩(20 min) 🥑 |
+| 🟢 [Last-Meal Ribs](recipes/797-last-meal-ribs.md) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Bacon Tomato Avocado Pasta Salad](recipes/510-bacon-tomato-avocado-pasta-salad.md) ❤️ 🟩(25 min) |
+| 🟡 [Sous Vide Geoff's Pork Belly Thai Basil](recipes/2-geoffs-pork-belly-thai-basil.md) ❤️ 🟨(50 min) | 🟢 [Quick Pickles](recipes/4177-quick-pickles.md) 🟩(25 min) |
 | 🟢 [Smoked Brisket](recipes/61-smoked-brisket.md) ❤️ 🟨(60–90 min†) ♨︎ | 🟢 [Southern Fauxtato Salad](recipes/114-southern-fauxtato-salad-cauliflower-potato-salad.md) ❤️ 🟩(30 min†) 🥑 |
 | 🟢 [Sous Vide Chuck Roast, Smoker-Finished](recipes/612-sous-vide-chuck-roast-smoker-finished.md) ❤️ 🟨(60 min†) ♨︎ | 🟢 [Home-Fried Bacon Radishes](recipes/117-home-fried-bacon-radishes.md) 🟩(35 min) 🥑 |
 | 🟢 [Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](recipes/613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken.md) ❤️ 🟨(60 min, incl. 30 grill) ♨︎ | *No-cook staples:* |
@@ -86,9 +86,9 @@
 | 🟢 [Roast Pork with Salmoriglio](recipes/738-roast-pork-with-salmoriglio.md) 🟩(35 min) | 🟡 [Persian-ish Rice](recipes/549-persian-ish-rice.md) 🟩(40 min) |
 | 🟢 [Cody's Pulled Pork Sandwiches](recipes/69-codys-pulled-pork.md) ❤️ 🟩(40 min†) 🍽️ ♨︎ | 🟢 [Oyster Dressing](recipes/532-oyster-dressing-for-10-to-12-lb-turkey.md) 🟩(40 min) |
 | 🟢 [Sous Vide Boar Tenderloin (or pork tenderloin) with Cherry Chutney](recipes/778-boar-tenderloin-with-cherry-chutney.md) 🟩(40 min, incl. 10 sear) | 🟢 [Heather's Mashed Potatoes](recipes/525-heathers-mashed-potatoes.md) ❤️ 🟨(60 min†) |
-| 🟡 [Geoff's Pork Belly Thai Basil](recipes/2-geoffs-pork-belly-thai-basil.md) ❤️ 🟨(45 min) | **🫘 Beans** |
-| 🟢 [Tuffy Stone's Championship Pork Butt](recipes/7137-tuffy-stones-championship-pork-butt.md) 🟨(45 min†) ♨︎ | 🟢 [Brazilian Black Beans with Bacon](recipes/534-brazilian-black-beans-with-bacon-tutu-mineira.md) 🟩(15 min†) |
-| 🟢 [Last-Meal Ribs](recipes/797-last-meal-ribs.md) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Quick and Smoky Baked Beans](recipes/533-quick-and-smoky-baked-beans.md) 🟩(20 min) ♨︎ |
+| 🟢 [Tuffy Stone's Championship Pork Butt](recipes/7137-tuffy-stones-championship-pork-butt.md) 🟨(45 min†) ♨︎ | **🫘 Beans** |
+| 🟢 [Last-Meal Ribs](recipes/797-last-meal-ribs.md) ❤️ 🟨(50 min, incl. 30 grill) ♨︎ | 🟢 [Brazilian Black Beans with Bacon](recipes/534-brazilian-black-beans-with-bacon-tutu-mineira.md) 🟩(15 min†) |
+| 🟡 [Sous Vide Geoff's Pork Belly Thai Basil](recipes/2-geoffs-pork-belly-thai-basil.md) ❤️ 🟨(50 min) | 🟢 [Quick and Smoky Baked Beans](recipes/533-quick-and-smoky-baked-beans.md) 🟩(20 min) ♨︎ |
 | 🟡 [Kermit's Second-Favorite Pork Chops](recipes/799-kermits-second-favorite-pork-chops.md) 🟨(50 min, incl. 30 grill) ♨︎ | 🟡 [Boston Barbecue Beans](recipes/548-boston-barbecue-beans.md) 🟩(40 min) ♨︎ |
 | 🟢 [Happy Mouth Yakitori Ribs](recipes/798-happy-mouth-yakitori-ribs.md) 🟨(50 min, incl. 30 grill) ♨︎ | **🥗 Salads & Slaws** |
 | 🟢 [Pesto-Crusted Pork Loin Roast](recipes/7102-pesto-crusted-pork-loin-roast.md) 🟨(55 min, incl. 30 grill) ♨︎ | 🟢 [Simple Romaine, Oil & Vinegar](recipes/561-simple-romaine-or-butter-lettuce-salad-with-grana-padano.md) ❤️ 🟩(10 min†) |

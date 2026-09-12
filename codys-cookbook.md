@@ -625,7 +625,8 @@ Click any recipe to jump straight to it.
 - [8.44 Courtbouillon](#844-courtbouillon) ✅ *(Talk About Good!; Mrs. F. H. Davis, Sr. — full brown roux, 4 lb cut fish, no wine; added 2026-09-07)*
 - [8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) ✅ *(Talk About Good!; Victor P. (Pat) Duhon, Jr. — no roux, a 3–4 hr simmer, fish plus shrimp and crab; added 2026-09-07)*
 - [8.46 Verna's Galimatias](#846-vernas-galimatias) ✅ *(Talk About Good!; Mrs. Warren Butcher — "a combination of bouillabaisse, gumbo and courtbouillon"; fish, shrimp, and two dozen crabs in a dark-roux tomato-and-wine stew; serves 8; added 2026-09-07)*
-- [8.47 Frito Pie](#847-frito-pie) ✅ ❤️ *(Cody's own, 2026-09-09 — Fritos, leftover chili, shredded cheese, raw onions, Louisiana hot sauce, **in that order**; built on the plain chili he still owes — see [§12](#12-recipes-to-document) — and links to it the day it lands; quantities are cookbook judgment)*
+- [8.47 Frito Pie](#847-frito-pie) ✅ ❤️ *(Cody's own, 2026-09-09 — Fritos, leftover chili, shredded cheese, raw onions, Louisiana hot sauce, **in that order**; built on [§8.48](#848-codys-chili); quantities are cookbook judgment)*
+- [8.48 Cody's Chili](#848-codys-chili) ✅ *(a family email, 2026-09-12 — crock-pot chili, 2 lb hamburger and 2 lb sausage, poured over angel hair; the chili he owed; flagged as possibly the same dish as [§8.1 Chili Mac](#81-chili-mac) told twice)*
 
 **[9. Snacks & Light Meals](#9-snacks--light-meals)**
 
@@ -1030,6 +1031,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) | 🟢 | 15 min | 10 min | **30 min** *(smoke-roast, indirect grill)* | 55 min *(+ 1 hr wood chip soak, in parallel)* |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
 | [§8.1 Chili Mac](#81-chili-mac) | 🟢 | 15 min | 10 min | **4 hr** *(crock pot — the chili only, not the noodles)* | 4 hr 25 min |
+| [§8.48 Cody's Chili](#848-codys-chili) | 🟢 | 15 min | 15 min | **4 hr** *(crock pot — the chili only, not the pasta)* | 4 hr 30 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill; ~2–3 hr for Cody's preferred St. Louis/spare ribs)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
@@ -1611,32 +1613,33 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | 🟢 [Pasta Puttanesca](#753-pasta-puttanesca) 🟩(25 min) 🍽️ | 🟢 [Chili Mac](#81-chili-mac) ❤️ 🟩(25 min) 🍽️ |
 | 🟡 [Asparagus on Pasta with a Poached Egg](#517-asparagus-on-pasta-with-a-poached-egg--lemon-butter) 🟩(25 min) 🍽️ | 🟢 [Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice) ❤️ 🟩(30 min†) |
 | 🟢 [Paul's Jambalaya](#715-pauls-jambalaya) ❤️ 🟩(30 min†) 🍽️ | 🟢 [Cleansing Ginger-Chicken Soup](#816-cleansing-ginger-chicken-soup) 🟩(30 min) |
-| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) 🟩(30 min) |
-| 🟡 [Pasta alle Vongole](#7129-pasta-alle-vongole) 🟩(40 min) 🍽️ | 🟢 [Warm Beet Soup](#810-warm-beet-soup) 🟩(35 min) |
-| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) |
-| 🟡 [Shrimp Risotto](#740-shrimp-risotto) 🟨(55 min) 🍽️ | 🟡 [Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) 🟩(40 min) |
-| 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟨(60 min) 🍽️ | 🟢 [Gazpacho](#818-gazpacho) 🟩(40 min) |
-| 🟡 [Sous Vide Short Rib Ragù over Pasta](#779-short-rib-ragù) 🟨(70 min) 🍽️ | 🟢 [Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) 🟩(40 min) |
-| 🟢 [Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Six-Onion Soup](#820-six-onion-soup) 🟩(40 min) |
-| 🟡 [Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | **Courtbouillon:** 🟡 [Creole](#842-creole-courtbouillon) 🟨(55 min) · 🟡 [Classic](#844-courtbouillon) 🟨(60 min) · 🟢 [Seafood](#845-seafood-courtbouillon) 🟨(45 min) |
-| 🟡 [Sous Vide Ragù alla Bolognese over Pasta](#782-ragù-alla-bolognese-sous-vide) 🟥(110 min) 🍽️ | 🟢 [Duck Soup with Cabbage, Ham & Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) 🟨(45 min) |
-| 🟢 [Sous Vide Cody's Pho](#1-codys-pho) ❤️ 🟥(140 min) 🍽️ | 🟡 [Green Gumbo](#827-green-gumbo) 🟨(45 min) |
-| **🍳 Breakfast for Dinner** | 🟢 [Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) 🟨(45 min) |
-| 🟡 [Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) 🟩(15 min) 🍽️ | **Waterfowl gumbos:** 🔴 [Duck & Sausage](#823-duck--sausage-gumbo) 🟨(70 min) · 🔴 [Duck & Guinea](#824-duck-and-guinea-gumbo) 🟨(60 min) · 🔴 [Wild Goose with Oysters](#825-wild-goose-gumbo-with-oysters) 🟨(60 min) · 🟡 [Felecia's Goose](#826-felecias-goose-gumbo) 🟨(50 min) |
-| 🟢 [Smoked Salmon Quiche](#790-smoked-salmon-quiche) 🟩(20 min) 🍽️ | 🟡 [Lobster Stew](#813-lobster-stew) 🟨(50 min) |
-| 🟡 [Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) 🟩(25 min) 🍽️ | **Turtle Soup:** 🟢 [I](#830-turtle-soup-i) 🟨(55 min) · 🟡 [II (Monteleone)](#831-turtle-soup-ii-monteleone) 🟨(50 min) |
-| 🟢 [Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ❤️ 🟩(30 min†) 🥑 | 🟢 [Chicken and Garlic Soup](#837-chicken-and-garlic-soup) 🟨(55 min) |
-| 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟡 [Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ❤️ 🟨(60 min†) |
-| 🟢 [Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) 🟩(35 min†) | 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) |
-| 🟡 [Quiche aux Oignons](#1013-quiche-aux-oignons-onion-quiche) 🟩(35 min) 🍽️ | 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) |
-| **🍱 Leftovers** | 🟡 [Chicken Gumbo Filé](#828-chicken-gumbo-filé) 🟨(60 min) |
-| 🟢 [Leftover Kebabs](#719-honey-chicken-marinade--kabobs) ❤️ 🟩(10 min) | 🟡 [Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) 🟨(65 min) |
-| 🟢 Leftover Chili → [Frito Pie](#847-frito-pie) ❤️ 🟩(10 min) 🍽️ | 🟢 [Squash Bisque](#559-squash-bisque) 🟥(85 min, incl. 30 grill) ♨︎ |
-| 🟢 Leftover Chili → [Chili Mac](#81-chili-mac) ❤️ 🟩(15 min) 🍽️ | 🔴 [Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ❤️ 🟥(90 min) |
-| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ | 🔴 [Verna's Galimatias](#846-vernas-galimatias) 🟥(90 min) |
-| 🟢 [Leftover Sliced Brisket, reheated sous vide](#61-smoked-brisket) ❤️ 🟩(20 min) | **Crawfish Bisque:** 🟡 [Bisque d'Écrevisses](#819-crawfish-bisque-bisque-décrevisses) 🟥(240 min) · 🔴 [I](#841-crawfish-bisque-i) 🟥(180 min) · 🟡 [II](#843-crawfish-bisque-ii) 🟥(125 min) |
-| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ | |
-| 🟢 [Leftover Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ | |
+| 🟢 [Spaghetti](#718-spaghetti) ❤️ 🟩(30 min) 🍽️ | 🟢 [Cody's Chili](#848-codys-chili) 🟩(30 min) |
+| 🟡 [Pasta alle Vongole](#7129-pasta-alle-vongole) 🟩(40 min) 🍽️ | 🟢 [The Hearty Main Course Soup Formula](#80-the-hearty-main-course-soup-formula) 🟩(30 min) |
+| 🟡 [Red Beans & Rice](#716-red-beans--rice) ❤️ 🟨(45 min) 🍽️ | 🟢 [Warm Beet Soup](#810-warm-beet-soup) 🟩(35 min) |
+| 🟡 [Shrimp Risotto](#740-shrimp-risotto) 🟨(55 min) 🍽️ | 🟢 [Italian Sausage & Kale Soup](#87-italian-sausage--kale-soup) ❤️ 🟩(40 min†) |
+| 🟢 [Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) ❤️ 🟨(60 min) 🍽️ | 🟡 [Louisiana Crab and Corn Bisque](#822-louisiana-crab-and-corn-bisque) 🟩(40 min) |
+| 🟡 [Sous Vide Short Rib Ragù over Pasta](#779-short-rib-ragù) 🟨(70 min) 🍽️ | 🟢 [Gazpacho](#818-gazpacho) 🟩(40 min) |
+| 🟢 [Momofuku-Inspired Ramen Bowl](#7105-momofuku-inspired-ramen-bowl) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) 🟩(40 min) |
+| 🟡 [Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) 🟥(80 min, incl. 30 grill) 🍽️ ♨︎ | 🟢 [Six-Onion Soup](#820-six-onion-soup) 🟩(40 min) |
+| 🟡 [Sous Vide Ragù alla Bolognese over Pasta](#782-ragù-alla-bolognese-sous-vide) 🟥(110 min) 🍽️ | **Courtbouillon:** 🟡 [Creole](#842-creole-courtbouillon) 🟨(55 min) · 🟡 [Classic](#844-courtbouillon) 🟨(60 min) · 🟢 [Seafood](#845-seafood-courtbouillon) 🟨(45 min) |
+| 🟢 [Sous Vide Cody's Pho](#1-codys-pho) ❤️ 🟥(140 min) 🍽️ | 🟢 [Duck Soup with Cabbage, Ham & Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) 🟨(45 min) |
+| **🍳 Breakfast for Dinner** | 🟡 [Green Gumbo](#827-green-gumbo) 🟨(45 min) |
+| 🟡 [Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) 🟩(15 min) 🍽️ | 🟢 [Silky Sweet Corn Soup](#839-smooth-silky-sweet-corn-soup) 🟨(45 min) |
+| 🟢 [Smoked Salmon Quiche](#790-smoked-salmon-quiche) 🟩(20 min) 🍽️ | **Waterfowl gumbos:** 🔴 [Duck & Sausage](#823-duck--sausage-gumbo) 🟨(70 min) · 🔴 [Duck & Guinea](#824-duck-and-guinea-gumbo) 🟨(60 min) · 🔴 [Wild Goose with Oysters](#825-wild-goose-gumbo-with-oysters) 🟨(60 min) · 🟡 [Felecia's Goose](#826-felecias-goose-gumbo) 🟨(50 min) |
+| 🟡 [Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche) 🟩(25 min) 🍽️ | 🟡 [Lobster Stew](#813-lobster-stew) 🟨(50 min) |
+| 🟢 [Southern Keto Egg and Sausage Muffins](#104-southern-keto-egg-and-sausage-muffins) ❤️ 🟩(30 min†) 🥑 | **Turtle Soup:** 🟢 [I](#830-turtle-soup-i) 🟨(55 min) · 🟡 [II (Monteleone)](#831-turtle-soup-ii-monteleone) 🟨(50 min) |
+| 🟡 [The Loaded Frittata Formula](#100-the-loaded-frittata-formula) 🟩(30 min†) 🍽️ | 🟢 [Chicken and Garlic Soup](#837-chicken-and-garlic-soup) 🟨(55 min) |
+| 🟢 [Soft Scrambled Eggs & Chanterelles](#105-soft-scrambled-eggs--chanterelles) 🟩(35 min†) | 🟡 [Sweet Potato and Andouille Soup](#86-sweet-potato-and-andouille-soup) ❤️ 🟨(60 min†) |
+| 🟡 [Quiche aux Oignons](#1013-quiche-aux-oignons-onion-quiche) 🟩(35 min) 🍽️ | 🟢 [Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) ❤️ 🟨(60 min†) |
+| **🍱 Leftovers** | 🔴 [Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) ❤️ 🟨(60 min) |
+| 🟢 [Leftover Kebabs](#719-honey-chicken-marinade--kabobs) ❤️ 🟩(10 min) | 🟡 [Chicken Gumbo Filé](#828-chicken-gumbo-filé) 🟨(60 min) |
+| 🟢 Leftover Chili → [Frito Pie](#847-frito-pie) ❤️ 🟩(10 min) 🍽️ | 🟡 [Mrs. McGinn's Seafood Gumbo](#829-mrs-mcginns-seafood-gumbo) 🟨(65 min) |
+| 🟢 Leftover Chili → [Chili Mac](#81-chili-mac) ❤️ 🟩(15 min) 🍽️ | 🟢 [Squash Bisque](#559-squash-bisque) 🟥(85 min, incl. 30 grill) ♨︎ |
+| 🟢 [Cody's Pulled Pork Street Tacos (from leftover pork)](#71-pulled-pork-tacos) ❤️ 🟩(20 min†) 🍽️ | 🔴 [Chicken and Andouille Gumbo](#83-chicken-and-andouille-smoked-sausage-gumbo) ❤️ 🟥(90 min) |
+| 🟢 [Leftover Sliced Brisket, reheated sous vide](#61-smoked-brisket) ❤️ 🟩(20 min) | 🔴 [Verna's Galimatias](#846-vernas-galimatias) 🟥(90 min) |
+| 🟢 [Pho with Leftover Beef](#7146-pho-with-leftover-brisket-and-smoked-bone-broth) 🟩(30 min) 🍽️ | **Crawfish Bisque:** 🟡 [Bisque d'Écrevisses](#819-crawfish-bisque-bisque-décrevisses) 🟥(240 min) · 🔴 [I](#841-crawfish-bisque-i) 🟥(180 min) · 🟡 [II](#843-crawfish-bisque-ii) 🟥(125 min) |
+| 🟢 [Leftover Pulled Pork Sandwiches](#69-codys-pulled-pork) ❤️ 🟩(40 min†) 🍽️ |  |
+|  |  |
 
 ### Appetizers & Dips
 
@@ -38543,7 +38546,7 @@ Each of these plugs straight into the Master Recipe above — the technique neve
 
 Transcribed from Cody's photographed recipe card — a **crock-pot chili** built on a **50/50 mix of deer (or beef) and pork sausage**, ladled over noodles to make chili mac. Rated **"Yummie"** on the card itself. **Renamed from a plain "Chili," per Cody's own distinction: "chili can stand alone, but chili mac is its own thing that includes chili."** Plain chili is its own dish; this recipe finishes over noodles, which makes it chili mac specifically, not a bowl of chili on its own. Also great for **[§8.36 Chili Dogs](#836-chili-dogs)**, added alongside as a placeholder for the other classic use.
 
-> **❓ Cody's own plain chili is the missing sibling to this recipe — flagged 2026-09-09.** He asked: *"I think I gave you my chili recipe, didn't I?"* **He hasn't.** The cookbook was searched end to end on 2026-09-09 and there is no plain chili in it. **What is here, and why none of it is that dish:** **this entry** is a chili, but it finishes over noodles and he had it renamed for exactly that reason — *"chili can stand alone, but chili mac is its own thing that includes chili"*; **[§8.21 Five-Way Chili](#821-five-way-chili)** is an undictated placeholder and Cincinnati-style besides; **[§8.36 Chili Dogs](#836-chili-dogs)** is a placeholder for a use of §8.1's chili, not a chili of its own. *(The two §4 entries with "chili" in the name — [§4.32 Texas Chili Rub](#432-texas-chili-rub) and [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) — are seasonings.)* **He also wants plain chili on the [Meal Planning Sheet](#meal-planning-sheet) as its own main, sitting right before Chili Mac.** It cannot go there without a recipe behind it — every line on that sheet points at a method — so it is logged as a wanted recipe in **[§12 Recipes To Document](#12-recipes-to-document)** and goes on the sheet the day he walks through it. **One thing about it is already settled:** the standing 50/50 rule — deer and pork sausage, or beef and pork sausage — applies to any chili in this cookbook. **And the second thing he makes from leftover chili is now written up — [§8.47 Frito Pie](#847-frito-pie) ❤️ (2026-09-09)** — built, like this entry's leftover line on the sheet, against "chili" generically until his chili arrives.
+> **❓ Cody's own plain chili was the missing sibling to this recipe, flagged 2026-09-09 — and something answering it arrived 2026-09-12.** He'd asked: *"I think I gave you my chili recipe, didn't I?"* He hadn't; the cookbook was searched end to end on 2026-09-09 and there was no plain chili in it. **[§8.48 Cody's Chili](#848-codys-chili)** is now written up from a family email — but read its own flag before treating this as settled: it's a crock-pot chili, a 50/50 meat split, and it finishes over pasta too, so it and this entry may be the same house dish told from two sources rather than genuinely different recipes. They're kept as separate entries for now, on his word to merge or not. **[§8.21 Five-Way Chili](#821-five-way-chili)** is a different case — an undictated placeholder, Cincinnati-style besides; **[§8.36 Chili Dogs](#836-chili-dogs)** is a placeholder for a use of a chili, not a chili of its own. *(The two §4 entries with "chili" in the name — [§4.32 Texas Chili Rub](#432-texas-chili-rub) and [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) — are seasonings.)* **He also wants plain chili on the [Meal Planning Sheet](#meal-planning-sheet) as its own main** — [§8.48](#848-codys-chili) is on it now, sorted into the Soups, Gumbos & Chili group by its own minutes rather than pinned beside this entry, per the time-sort rule the sheet settled later the same day he asked for the pin. **One thing about any of this was already settled:** the standing 50/50 rule — deer and pork sausage, or beef and pork sausage — applies to any chili in this cookbook. **And the second thing he makes from leftover chili — [§8.47 Frito Pie](#847-frito-pie) ❤️ (2026-09-09)** — is now built against [§8.48](#848-codys-chili) instead of a placeholder.
 
 > ⚠️ **Correction, 2026-09-08 per Cody — read this before you cook. *The chili goes in the crock pot, not the chili mac as a whole.*** The slow cooker holds **the chili only**: browned meat, onion, tomatoes, canned chili, beans, seasoning. **The noodles are never in it.** They're boiled separately at the end and the chili goes over them, and the dish only becomes chili mac at the moment those two meet in the bowl. This is worth being blunt about because "crock-pot chili mac" is a real and common recipe in which dry pasta *is* dumped into the slow cooker — **that is not this dish.** Do it that way here and you'll get four hours of pasta sitting in liquid: bloated, split, and pasty, with the chili thinned out by the starch it gave up. Everything below is written accordingly.
 
@@ -42263,11 +42266,11 @@ Spoon the shellfish stew into bowls and add the reserved fish alongside.
 
 **Cody's own, dictated 2026-09-09 — the second thing he does with leftover chili, beside [§8.1 Chili Mac](#81-chili-mac) ❤️.** That sentence above **is the recipe**: five things, in that order, in a bowl. **The order is his and it is the method** — chips on the bottom so the hot chili softens them, cheese straight onto the hot chili so it melts, raw onion on top so it stays sharp and crunchy, hot sauce last. Nothing is cooked except reheating the chili.
 
-> ❓ **Built on leftover chili — and the chili recipe itself is not in this cookbook yet.** [§8.1 Chili Mac](#81-chili-mac)'s missing-sibling note and the row in [§12 Recipes To Document](#12-recipes-to-document) both record it: Cody believes he has given his plain chili, he hasn't, and **he will dictate it.** **So this entry is written against "chili" generically**, the same way Chili Mac's leftover line on the [Meal Planning Sheet](#meal-planning-sheet) is, and **it links up to his chili the day it lands** — the ingredient line below will point at it by section number then. **In the meantime, the one chili method in this book is the crock-pot chili under [§8.1](#81-chili-mac)'s noodles** — make that, hold the noodles, and it's Frito Pie chili. Two things about any chili here are already settled: **the 50/50 rule** — deer and pork sausage, or beef and pork sausage — applies to every chili in this cookbook, and **Frito Pie is a bowl, not a chili**, so it stands beside Chili Mac in §8 rather than replacing the chili entry he still owes.
+> ❓ **Built on leftover chili — and as of 2026-09-12, there's a recipe to point at.** [§8.48 Cody's Chili](#848-codys-chili) arrived by family email that day, closing the gap this note and [§12 Recipes To Document](#12-recipes-to-document) had both been carrying since 2026-09-09. **The ingredient line below now points at [§8.48](#848-codys-chili)** rather than the generic fallback. *([§8.48](#848-codys-chili) itself flags that it may be the same dish as [§8.1 Chili Mac](#81-chili-mac) told from a second source — if he merges them, this entry's chili source becomes whichever one survives.)* Two things about any chili here are already settled: **the 50/50 rule** — deer and pork sausage, or beef and pork sausage — applies to every chili in this cookbook, and **Frito Pie is a bowl, not a chili**, so it stands beside Chili Mac and §8.48 in §8 rather than replacing either.
 
 > ⚙️ **The quantities are cookbook judgment under [CLAUDE.md §3d](CLAUDE.md), and the source is this cookbook first.** Cody named the five components and their order, with no amounts. **The proportions below are reasoned from [§8.1](#81-chili-mac)'s own bowl** — about a cup of chili to a bowl, shredded cheese and hot sauce as the toppings — scaled to what a handful of corn chips will carry, with the chips at about a single-serve bag a person. **Frito-Lay's own printed "Fritos Pie" was checked and deliberately not used** — it's a baked casserole with a ground-chip crust, a different dish from the bowl Cody described. **What's Cody's: the five things and the order.** **What's the cookbook's: every number.** His supersede these the day he gives them.
 
-**Related in this book:** [§8.1 Chili Mac](#81-chili-mac) ❤️ *(the other leftover-chili dinner, and for now the chili itself)* · [§8.36 Chili Dogs](#836-chili-dogs) *(placeholder — the third use)* · [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)
+**Related in this book:** [§8.48 Cody's Chili](#848-codys-chili) *(the chili this bowl is built on)* · [§8.1 Chili Mac](#81-chili-mac) ❤️ *(the other leftover-chili dinner — possibly the same chili as §8.48, told twice; see that entry's flag)* · [§8.36 Chili Dogs](#836-chili-dogs) *(placeholder — the third use)* · [§T46 Freezing and Reheating Leftovers](#t46-freezing-and-reheating-leftovers)
 
 **Yield:** serves 4, on about 3 cups of leftover chili
 
@@ -42278,7 +42281,7 @@ Spoon the shellfish stew into bowls and add the reserved fish alongside.
 #### A. Ingredients
 
 - **Fritos Original corn chips** — about **6 oz** for four *(1½ oz a person — roughly a single-serve bag each; cookbook judgment)*
-- **Leftover chili, hot** — about **3 cups** *(¾ cup a person; cookbook judgment)* — **Cody's own chili once it's written; until then, [§8.1](#81-chili-mac)'s chili without the noodles**
+- **Leftover chili, hot** — about **3 cups** *(¾ cup a person; cookbook judgment)* — **[§8.48 Cody's Chili](#848-codys-chili), without the pasta**
 - **Shredded cheese** — about **1⅓ cups** *(⅓ cup a person; **cheddar** is the assumption — he said "shredded cheese," and [§8.1](#81-chili-mac) buys a bag without naming one)*
 - **Raw onion** — **½ medium, diced small**, about ½ cup *(2 Tbsp a person; white or yellow)*
 - **Louisiana hot sauce** — to taste, on top. ✅ *His words: "Louisiana hot sauce."* **Read as the Louisiana-style cayenne-and-vinegar bottles** — [§8.1](#81-chili-mac) finishes its bowls with **Crystal**, a Louisiana sauce, and *The Original Louisiana Brand* is the one that carries the words on its label; **which bottle he means is an Open Question**
@@ -42315,14 +42318,101 @@ Leftover chili out of the fridge and into a pot over medium heat, **a splash of 
 
 **What a serving is:** one bowl — about 1½ oz of Fritos under ¾ cup of chili, ⅓ cup of cheese, and a spoonful of onion. A full dinner, not a snack.
 
-*The chili is counted at [§8.1](#81-chili-mac)'s own estimate for its chili without the noodles — roughly 400 calories, 20 g fat, 30 g protein, 25 g carbs and 6 g fiber a cup — and will change with the chili under it; the chips and cheese are the rest. Built on the assumed quantities above, which are the cookbook's and not Cody's.*
+*The chili is counted at roughly [§8.1](#81-chili-mac)'s own per-cup estimate for its chili without the noodles — about 400 calories, 20 g fat, 30 g protein, 25 g carbs and 6 g fiber a cup — used here for [§8.48 Cody's Chili](#848-codys-chili) too since the two recipes are close enough in composition (per §8.48's own flag) that a per-cup figure carries over; it will change with whichever chili actually goes under it. The chips and cheese are the rest. Built on the assumed quantities above, which are the cookbook's and not Cody's.*
 
 #### D. Open Questions
 
-- ❓ **The chili.** Still owed — [§12](#12-recipes-to-document) tracks it. The day it's dictated, the ingredient line above points at it and the [§8.1](#81-chili-mac) fallback comes off.
+- ❓ ~~The chili — still owed.~~ **Answered 2026-09-12: [§8.48 Cody's Chili](#848-codys-chili).** The ingredient line above now points at it; [§12](#12-recipes-to-document)'s row is closed.
 - ❓ **Which Louisiana hot sauce?** *The Original Louisiana Brand*, Crystal (what [§8.1](#81-chili-mac)'s card calls "Krystal's"), or another — he said "Louisiana hot sauce" and no more. One word from him settles it.
 - ❓ **What cheese?** Cheddar is assumed. He said "shredded cheese."
 - ⚙️ **The quantities are cookbook judgment**, reasoned from [§8.1](#81-chili-mac)'s bowl and labeled above. **His figures supersede the day he gives them.**
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 8.48 Cody's Chili
+
+**The chili he owed — arrived 2026-09-12, by email, not by dictation.** He'd said *"I'll get you the chili recipe"* and *"I think I gave you my chili recipe, didn't I?"* — he hadn't, and [§8.1 Chili Mac](#81-chili-mac)'s note and [§12 Recipes To Document](#12-recipes-to-document) had both been carrying it as owed since 2026-09-09. **The source is a forwarded family email, screenshotted and shared whole.** The sender signs only with an initial in the screenshot and the relation to Cody isn't stated in it — transcribed as sent, in the sender's own words: *"Our recipe is about 2 lbs. hamburger and 2 lbs. sausage. Chop up onion and fry with meat. Put in crock pot: canned tomatoes, chili seasoning — you may need 2 packets for this amount of meat (we use Lawrys brand and one other I can't think of name, but you can experiment. Just Lawyrs is good too.), we put (2 or 3 store bought cans — depending on size of can) canned chili, 1 can of black beans. Let it simmer for several hours. Pour over cooked angel hair pasta and top with shredded cheese, hot sauce, and a little ketchup (if you like it). You may want to cut this recipe in half. It feeds a lot of people. But you can also freeze any leftovers and they taste just as good the second time around."**
+
+> ❓ **Plain chili, or another chili mac? Flagged, not decided.** [§8.1](#81-chili-mac) was renamed off "Chili" specifically because Cody drew a line: *"chili can stand alone, but chili mac is its own thing that includes chili."* By that same test, this recipe's own printed finish — poured over angel hair pasta — reads exactly like chili mac's. **It is filed here as its own dish anyway**, for two reasons: the sender calls it *"our recipe"* for chili, not chili mac, and Cody's own ask was for *"the chili recipe"* by name, sent in reply to that exact request. But the overlap is real and worth his eyes — this recipe and [§8.1](#81-chili-mac) are close enough in shape (crock-pot chili, canned tomatoes and prepared chili and black beans, a 50/50 meat split, finished over pasta with cheese and hot sauce) that they may be two tellings of the same house dish rather than two dishes. **If he says so, the fix is to merge them**, keeping whichever quantities and brand he confirms; nothing here should be read as decided. In the meantime **this is what fills [§12](#12-recipes-to-document)'s "Cody's own chili" row** and the missing-sibling note on [§8.1](#81-chili-mac).
+>
+> **What's different from §8.1, printed as sent:** double the meat (2 lb + 2 lb here, 1 lb + 1 lb there — matches on the 50/50 split either way, since it's beef and pork sausage in both), **two packets of dry chili seasoning** (§8.1 uses one), **Lawry's named as one of the two brands** *(a chili seasoning packet — a different Lawry's product from [§4.197 Lawry's Seasoned Salt](#4197-lawrys-seasoned-salt-store-bought), which is already on the [Meal Planning Sheet](#meal-planning-sheet)'s ⭐ Staple Rubs; not the same buy)*, **angel hair specifically** rather than noodles generically, and **ketchup as an optional fourth topping** alongside cheese and hot sauce, which §8.1 doesn't carry.
+
+**🟢 Easy** · **Prep ~15 min** *(dicing onion, browning a bigger batch of meat than §8.1's)* · **Cook ~15 min** *(the browning itself runs long on 4 lb of meat; boiling the pasta at the end)* · **Slow cook ~4 hr** *(crock pot — the chili only, same reasoning as §8.1 below)* · **Start to finish ~4 hr 30 min**
+
+> **Why 🟢 Easy.** Same case as [§8.1](#81-chili-mac): everything going into the crock pot is already cooked — browned meat, canned chili, canned tomatoes, canned beans, a seasoning packet — so the hours in the pot are a meld, not a cook, and nothing in it can go from perfect to ruined. The only genuine step is browning the meat, which is forgiving on its own.
+
+#### A. Ingredients
+
+- 2 lb ground beef (hamburger)
+- 2 lb pork sausage
+
+*The meat is a 50/50 mix, as printed by the sender — and it lines up with the standing house rule, ✅ 2026-09-07 per Cody, that any chili in this cookbook runs 50/50 deer-or-beef and pork sausage.*
+- 1 onion, chopped *(the sender gives no count; **1 large onion**, scaled up from [§8.1](#81-chili-mac)'s single onion for double the meat — cookbook judgment per [CLAUDE.md §3d](CLAUDE.md))*
+- Canned diced tomatoes *(the sender gives no count; **4 cans (14.5 oz)**, scaled from §8.1's 2 cans for half the meat — cookbook judgment)*
+- Chili seasoning — 2 packets *(the sender's own number; **Lawry's** is one named brand, the second is unnamed — see Open Questions)*
+- Prepared canned chili — 2 to 3 cans, size-dependent *(as printed by the sender)*
+- 1 can black beans *(as printed — the sender's own recipe keeps this at one can even though the meat is doubled from [§8.1](#81-chili-mac)'s; transcribed exactly as sent, not corrected)*
+- Angel hair pasta, boiled separately at serving *(no amount given; **1 lb**, cookbook judgment matching [§8.1](#81-chili-mac))*
+- Shredded cheese, for topping *(no amount given; **1 bag**, cookbook judgment matching §8.1)*
+- Hot sauce, for topping *(the sender just says "hot sauce"; **Crystal**, the house bottle at [§8.1](#81-chili-mac), assumed — see Open Questions)*
+- Ketchup, a little, if you like it — optional, the sender's own fourth topping
+
+#### B. Cooking Instructions
+
+**1. Chop the onion, and fry it with the meat.**
+Brown the ground beef and pork sausage together with the chopped onion — the sender's own order, meat and onion in the pan together rather than the onion first. **The 50/50 split (2 lb and 2 lb)** carries the same reasoning as [§8.1](#81-chili-mac): the sausage brings fat and seasoning the beef doesn't have on its own.
+
+**2. Everything else goes in the crock pot — not the pasta.**
+Move the browned meat and onion to the crock pot with the canned tomatoes, the chili seasoning (2 packets), the canned prepared chili (2 to 3 cans), and the black beans. Stir. **The pasta never goes in the pot** — same rule as [§8.1](#81-chili-mac), for the same reason: dry pasta sitting for hours in a slow cooker goes bloated and pasty, and it isn't part of this recipe as sent.
+
+**3. Let it simmer for several hours.**
+On low, several hours, per the sender. *(⚙️ **Cookbook judgment** — the sender gives no figure, the same gap [§8.1](#81-chili-mac) had. That entry's own number — **4 hours on low**, reasoned from Southern Living's and Betty Crocker's published slow-cooker chili times, shortened because the meat is already browned and the chili already cooked — is used here rather than re-derived, since it's the same pot doing the same job on the same ingredients. 2 hours is the floor if you're pressed, 8 hours won't hurt it; about 2 hours on high.)*
+
+**4. Boil the angel hair separately, and build each bowl.**
+Cook the angel hair in salted water and drain it right before serving. **Angel hair is thin and cooks fast** — a few minutes, not the ten-plus of a heavier noodle — so put it on last. Ladle the chili over the pasta per bowl rather than combining the whole pot, the same reasoning as [§8.1](#81-chili-mac): pasta left sitting in chili keeps drinking it up, and leftovers stored together come back swollen.
+
+**5. Top with shredded cheese, hot sauce, and a little ketchup if you like it.**
+The sender's own topping order. **Ketchup is optional** — her own parenthetical, *"if you like it"* — and it is the one topping here that [§8.1](#81-chili-mac) doesn't carry.
+
+**6. Cut it in half if it's too much, and freeze what's left.**
+The sender's own note: this recipe **feeds a lot of people**, and a half batch is a reasonable single-family portion — roughly [§8.1](#81-chili-mac)'s own quantities, which is worth noticing rather than acting on, since the two are being kept as separate entries for now (see the flag above). Leftovers **freeze well** and taste the same reheated, per the sender.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Ground beef (hamburger) — 2 lb
+- 🛒 Pork sausage — 2 lb *(the other half of the 50/50 mix)*
+- 🛒 Onion — 1 large
+- 🛒 Diced tomatoes — 4 cans *(cookbook judgment on the count — see Ingredients)*
+- 🛒 Chili seasoning packets — 2 *(Lawry's is one; the second brand is unnamed — see Open Questions)*
+- 🛒 Prepared chili — 2 to 3 cans, by size
+- 🛒 Black beans — 1 can
+- 🛒 Angel hair pasta — 1 lb *(boiled separately at serving)*
+- 🛒 Shredded cheese — 1 bag
+- 🛒 Hot sauce — 1 bottle *(Crystal assumed; see Open Questions)*
+- 🛒 Ketchup — a bottle, for the table *(optional topping)*
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~9,800 | 400 g | 540 g | 720 g | 92 g |
+| **Per serving** *(serves 16, on the full batch — or 8 on the sender's own suggested half batch)* | ~610 | 25 g | 34 g | 45 g | 5.5 g |
+
+**What a serving is:** about 1 cup of chili over 1 cup of angel hair, with cheese, roughly what [§8.1 Chili Mac](#81-chili-mac) calls a serving there too.
+
+*Built by doubling [§8.1](#81-chili-mac)'s own per-cup chili estimate for the meat, tomatoes, and prepared chili, plus the pasta and cheese at the same per-serving rate as that entry — the same assumed quantities flagged in Ingredients, and the sender's own recipe gives no serving count to check it against. Ketchup isn't counted; it's a to-taste topping.*
+
+#### D. Open Questions
+
+- ❓ **Is this the same dish as [§8.1 Chili Mac](#81-chili-mac), told twice?** Flagged in full above. Merge on his word; kept separate until then.
+- ❓ **The second chili seasoning brand.** The sender: *"Lawrys brand and one other I can't think of name."* Not guessable — stays open until named.
+- ❓ **Which cans, and what size?** *"2 or 3 store bought cans — depending on size of can"* for the prepared chili, and no count at all for the diced tomatoes. The counts above are cookbook judgment; his or the sender's own numbers replace them.
+- ❓ **Who sent it, and how does she cook it — crock pot low the whole time, or does she ever run it on the stovetop?** The screenshot doesn't say, and the recipe just says "simmer." Read here as the crock pot, since that's where everything is put in Step 2.
+- ⚙️ **Onion, pasta, cheese, and hot-sauce-brand quantities are cookbook judgment**, reasoned from [§8.1](#81-chili-mac)'s own bowl, per [CLAUDE.md §3d](CLAUDE.md). Cody's or the sender's own figures supersede these the day they're given.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -45743,7 +45833,7 @@ Named but not yet stubbed into a section of their own. Everything in §5–§11 
 | **Dutch West Indian Chicken Kebabs** | ***The Barbecue! Bible*, book p. 73 — never photographed.** Recorded 2026-09-08. The dish [§4.191 Pindasaus](#4191-dutch-west-indian-peanut-sauce-pindasaus) was written for — its headnote says the sauce *"is designed to be served with Dutch West Indian Chicken Kebabs (page 73)."* **🚫 2026-09-08 — Cody: not pursuing; the sauce stands on its own and the kebabs are simply not in this cookbook.** The same headnote calls the sauce *"great with any type of saté, as well as grilled chicken or seafood,"* and this cookbook already has eight kebabs at [§7.68](#768-peruvian-beef-kebabs-anticuchos)–[§7.75](#775-lettuce-bundles-with-grilled-beef) to serve it beside. | 🚫 Closed 2026-09-08 — sauce stands alone |
 | **Coconut Milk** *(the source's homemade version)* | ***The Barbecue! Bible*, book p. 522 — never photographed.** Recorded 2026-09-08. Cited by [§4.190 Thai Peanut Sauce](#4190-thai-peanut-sauce) as the alternate to canned. **🚫 2026-09-08 — Cody: not pursuing — the lowest-stakes item on this table.** The recipe itself says *"canned or homemade,"* so **use canned unsweetened coconut milk**, which is what every other entry here assumes; [§4.41](#441-asian-peanut-sauce)'s own source note gives a further fallback (equal parts heavy cream and chicken broth). | 🚫 Closed 2026-09-08 — canned is the answer |
 | ***Cook Without a Book*** — **a book Cody owns and named, nothing transcribed yet** | **Named by Cody on 2026-09-09**, while reviewing the Meal Planning Sheet's new [Sauces](#sauces) block — he offered it as another sauce source he has on the shelf. **Verified the same day: nothing from this book is in this cookbook.** No recipe, note, or citation anywhere in `codys-cookbook.md` or `CHANGELOG.md` traces to it, and no §4 entry is credited to it. It is **not** a photograph request — nothing has been shot, so nothing is missing; this row exists so a named, offered source is tracked as a lead instead of being lost between sessions. **What would open it:** Cody photographing pages he wants from it, the same way every other book here arrived. *(Recorded as a lead only — no author, edition, or page range is stated here, because Cody has not given one and this cookbook does not guess at bibliographic facts. Judgment fills gaps; it does not invent them.)* <br><br> **✅ Corrected later the same day — one recipe here does trace to it, on Cody's own account.** He said of **[§8.4 Lemon Chicken Soup with Spinach and Rice](#84-lemon-chicken-soup-with-spinach-and-rice)** that it came from *Cook Without a Book*. **So the "nothing from this book is in this cookbook" finding above is superseded**: the same-day search was accurate about what the file *said* — §8.4 credited no source at all — but wrong about the fact. **§8.4 now carries the attribution, marked as his statement and unverified against a page.** The row stays open as a lead, because one recalled attribution is not the same as having the book's pages: nothing here has been checked against it, and no author, edition, or page number is known. <br><br> **📌 2026-09-09 (final) — he asked *"did you end up finding that?"* No pages have been given and nothing has been transcribed; the answer is still no. But the pan sauce he described — deglaze the skillet, reduce, mount with butter — is already in this book as [§T8 Pan Sauce Formula](#t8-pan-sauce-formula)**, read in full that day: ¾ cup liquid into the pan the meat came out of, reduce by half, whisk in a tablespoon of butter or oil or two of cream, with a 20-combination table led by a **Red Wine** version (6 Tbsp each broth and red wine, a teaspoon of Dijon, butter) and a white-wine-and-broth rule for the white version. **So §T8 is on the [Meal Planning Sheet](#meal-planning-sheet)'s ⭐ Staple Sauces as "Easy Wine Pan Sauce (white or red) — §T8."** *(Cookbook observation, unconfirmed: §T8 was transcribed from a photographed page headed "Instant Gratification: Pan Sauces and Drizzles," which reads like a chapter title from Pam Anderson's *How to Cook Without a Book* — if so, the two are one and the same, and the entry's source line should say so. Cody can settle that by checking the book's contents page.)* **Still wanted for comparison: the *Cook Without a Book* pan sauce as printed**, so the two can be set side by side and §T8's source line filled in. | 📌 Lead — named 2026-09-09; **[§8.4](#84-lemon-chicken-soup-with-spinach-and-rice) attributed to it by Cody the same day**, unverified; **[§T8](#t8-pan-sauce-formula) stands in for its pan sauce** on the sheet, the printed version still wanted |
-| **Cody's own chili** *(plain chili — the standalone bowl, not chili mac)* | **Wanted by Cody, 2026-09-09, and it is not in this cookbook.** He asked *"I think I gave you my chili recipe, didn't I?"* — **he hasn't.** The whole file was searched that day and there is no plain chili in it. **What exists and why none of it is this dish:** [§8.1 Chili Mac](#81-chili-mac) is a chili that finishes over noodles, and Cody had it renamed for exactly that reason — *"chili can stand alone, but chili mac is its own thing that includes chili"*; [§8.21 Five-Way Chili](#821-five-way-chili) is an undictated placeholder and Cincinnati-style; [§8.36 Chili Dogs](#836-chili-dogs) is a placeholder for a *use* of §8.1's chili. *([§4.32 Texas Chili Rub](#432-texas-chili-rub) and [§4.168 Cool Smoke Chili Powder](#4168-cool-smoke-chili-powder) are seasonings, not chili.)* **He also wants plain chili on the [Meal Planning Sheet](#meal-planning-sheet) as its own main, immediately before Chili Mac.** It is not there yet and will not be until there is a method behind it — every line on that sheet points at a recipe. **What would open it: a walkthrough from Cody**, the way [§1](#1-codys-pho), [§3](#3-darcys-steak), [§6.9](#69-codys-pulled-pork) and [§6.10](#610-sous-vide-brisket-richies-method) arrived. Nothing is guessed at in the meantime. **One thing is already settled:** the standing 50/50 rule — deer and pork sausage, or beef and pork sausage — applies to any chili in this cookbook. **Two dishes now hang off it** — [§8.1 Chili Mac](#81-chili-mac) and, since 2026-09-09, [§8.47 Frito Pie](#847-frito-pie) ❤️ — both written against "chili" generically and both linking to his the day it lands. | 🟡 **Wanted — needs Cody's walkthrough**, then goes on the sheet before Chili Mac |
+| **Cody's own chili** *(plain chili — the standalone bowl, not chili mac)* | **✅ Closed 2026-09-12 — [§8.48 Cody's Chili](#848-codys-chili).** Wanted since 2026-09-09, when Cody asked *"I think I gave you my chili recipe, didn't I?"* and the answer was no. **What arrived wasn't a walkthrough from Cody but a forwarded family email**, transcribed in full at §8.48. **It is not cleanly the "standalone bowl" this row asked for** — the recipe as sent finishes over angel hair pasta, the same test ([§8.1 Chili Mac](#81-chili-mac)'s own — *"chili can stand alone, but chili mac is its own thing that includes chili"*) that got §8.1 renamed off plain chili in the first place. §8.48 is written up as its own entry regardless, with a flag on it that it may be §8.1 told a second time; that is Cody's to settle, not this cookbook's. **[§8.1 Chili Mac](#81-chili-mac) and [§8.47 Frito Pie](#847-frito-pie) ❤️** — the two dishes that were hanging off this row — now both point at [§8.48](#848-codys-chili) instead of a generic placeholder. **On the [Meal Planning Sheet](#meal-planning-sheet):** §8.48 is there, in the Soups, Gumbos & Chili group, sorted by its own hands-on minutes rather than pinned before Chili Mac — the pin request predates the sheet's later time-sort rule, which the entry's own note explains. | ✅ **Complete — §8.48**, flagged for a possible merge with §8.1 |
 | **A meal calendar that back-schedules the start time** *(a build, not a recipe — logged here so it isn't lost)* | **Wanted by Cody, 2026-09-09, and confirmed the same evening:** *"if you want it ready by six and it's 30 minutes of prep and an hour in the oven, you need to be prepping by four-thirty… if sous vide takes two days, you sous vide two days beforehand"* — *"We set it up as an event, because it's especially important for sous vide and grilling."* **The shape of it:** one event per dinner, with the start time worked backward from the serving time using three inputs this cookbook already carries — the [Meal Planning Sheet](#meal-planning-sheet)'s hands-on minutes (the 🟩🟨🟥 square, grill overhead included), each entry's **Slow cook** hours, and its lead time (marinate, dry brine, the two-day sous vide) — possibly emailed. **Nothing has been built**; this row is the specification. | ⏳ Future build — not started |
 | **The four pulled-pork methods — condense to one?** *(a housekeeping question, not a missing recipe)* | **Cody, 2026-09-09 (final), looking at the pork column of the [Meal Planning Sheet](#meal-planning-sheet): *"I think we can condense that into one, maybe."*** The four are [§6.2 Pulled Pork](#62-pulled-pork) (Raichlen, North Carolina), [§6.6 North Carolina Pulled Pork, Karmel version](#66-north-carolina-pulled-pork-karmel-version), [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) ❤️ (his own), and [§7.95 Meathead's Perfect Pulled Pork](#795-perfect-pulled-pork) ❤️. **Nothing has been deleted** — [CLAUDE.md §5](CLAUDE.md) says complete recipes come out only on an explicit request, and *"maybe"* is not one. **Only §6.9 is on his ⭐ Staple Mains list**; the other three stay in the Pork group of the sheet and in §6/§7 as they were. If he says the word, the three non-Cody versions could be folded into a single "other pulled pork methods" cluster line on the sheet, or their entries condensed — but that is his call to make, and it is logged here so the remark isn't lost. | 📌 Logged 2026-09-09 — awaiting a yes or no from Cody |
 | *(add here)* | | |

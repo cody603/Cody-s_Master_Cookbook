@@ -7,11 +7,11 @@
 
 **Cody's own, dictated 2026-09-09 — the second thing he does with leftover chili, beside [§8.1 Chili Mac](81-chili-mac.md) ❤️.** That sentence above **is the recipe**: five things, in that order, in a bowl. **The order is his and it is the method** — chips on the bottom so the hot chili softens them, cheese straight onto the hot chili so it melts, raw onion on top so it stays sharp and crunchy, hot sauce last. Nothing is cooked except reheating the chili.
 
-> ❓ **Built on leftover chili — and the chili recipe itself is not in this cookbook yet.** [§8.1 Chili Mac](81-chili-mac.md)'s missing-sibling note and the row in [§12 Recipes To Document](12-recipes-to-document.md) both record it: Cody believes he has given his plain chili, he hasn't, and **he will dictate it.** **So this entry is written against "chili" generically**, the same way Chili Mac's leftover line on the [Meal Planning Sheet](../meal-planning-sheet.md) is, and **it links up to his chili the day it lands** — the ingredient line below will point at it by section number then. **In the meantime, the one chili method in this book is the crock-pot chili under [§8.1](81-chili-mac.md)'s noodles** — make that, hold the noodles, and it's Frito Pie chili. Two things about any chili here are already settled: **the 50/50 rule** — deer and pork sausage, or beef and pork sausage — applies to every chili in this cookbook, and **Frito Pie is a bowl, not a chili**, so it stands beside Chili Mac in §8 rather than replacing the chili entry he still owes.
+> ❓ **Built on leftover chili — and as of 2026-09-12, there's a recipe to point at.** [§8.48 Cody's Chili](848-codys-chili.md) arrived by family email that day, closing the gap this note and [§12 Recipes To Document](12-recipes-to-document.md) had both been carrying since 2026-09-09. **The ingredient line below now points at [§8.48](848-codys-chili.md)** rather than the generic fallback. *([§8.48](848-codys-chili.md) itself flags that it may be the same dish as [§8.1 Chili Mac](81-chili-mac.md) told from a second source — if he merges them, this entry's chili source becomes whichever one survives.)* Two things about any chili here are already settled: **the 50/50 rule** — deer and pork sausage, or beef and pork sausage — applies to every chili in this cookbook, and **Frito Pie is a bowl, not a chili**, so it stands beside Chili Mac and §8.48 in §8 rather than replacing either.
 
 > ⚙️ **The quantities are cookbook judgment under [CLAUDE.md §3d](../../CLAUDE.md), and the source is this cookbook first.** Cody named the five components and their order, with no amounts. **The proportions below are reasoned from [§8.1](81-chili-mac.md)'s own bowl** — about a cup of chili to a bowl, shredded cheese and hot sauce as the toppings — scaled to what a handful of corn chips will carry, with the chips at about a single-serve bag a person. **Frito-Lay's own printed "Fritos Pie" was checked and deliberately not used** — it's a baked casserole with a ground-chip crust, a different dish from the bowl Cody described. **What's Cody's: the five things and the order.** **What's the cookbook's: every number.** His supersede these the day he gives them.
 
-**Related in this book:** [§8.1 Chili Mac](81-chili-mac.md) ❤️ *(the other leftover-chili dinner, and for now the chili itself)* · [§8.36 Chili Dogs](836-chili-dogs.md) *(placeholder — the third use)* · [§T46 Freezing and Reheating Leftovers](t46-freezing-and-reheating-leftovers.md)
+**Related in this book:** [§8.48 Cody's Chili](848-codys-chili.md) *(the chili this bowl is built on)* · [§8.1 Chili Mac](81-chili-mac.md) ❤️ *(the other leftover-chili dinner — possibly the same chili as §8.48, told twice; see that entry's flag)* · [§8.36 Chili Dogs](836-chili-dogs.md) *(placeholder — the third use)* · [§T46 Freezing and Reheating Leftovers](t46-freezing-and-reheating-leftovers.md)
 
 **Yield:** serves 4, on about 3 cups of leftover chili
 
@@ -22,7 +22,7 @@
 #### A. Ingredients
 
 - **Fritos Original corn chips** — about **6 oz** for four *(1½ oz a person — roughly a single-serve bag each; cookbook judgment)*
-- **Leftover chili, hot** — about **3 cups** *(¾ cup a person; cookbook judgment)* — **Cody's own chili once it's written; until then, [§8.1](81-chili-mac.md)'s chili without the noodles**
+- **Leftover chili, hot** — about **3 cups** *(¾ cup a person; cookbook judgment)* — **[§8.48 Cody's Chili](848-codys-chili.md), without the pasta**
 - **Shredded cheese** — about **1⅓ cups** *(⅓ cup a person; **cheddar** is the assumption — he said "shredded cheese," and [§8.1](81-chili-mac.md) buys a bag without naming one)*
 - **Raw onion** — **½ medium, diced small**, about ½ cup *(2 Tbsp a person; white or yellow)*
 - **Louisiana hot sauce** — to taste, on top. ✅ *His words: "Louisiana hot sauce."* **Read as the Louisiana-style cayenne-and-vinegar bottles** — [§8.1](81-chili-mac.md) finishes its bowls with **Crystal**, a Louisiana sauce, and *The Original Louisiana Brand* is the one that carries the words on its label; **which bottle he means is an Open Question**
@@ -59,11 +59,11 @@ Leftover chili out of the fridge and into a pot over medium heat, **a splash of 
 
 **What a serving is:** one bowl — about 1½ oz of Fritos under ¾ cup of chili, ⅓ cup of cheese, and a spoonful of onion. A full dinner, not a snack.
 
-*The chili is counted at [§8.1](81-chili-mac.md)'s own estimate for its chili without the noodles — roughly 400 calories, 20 g fat, 30 g protein, 25 g carbs and 6 g fiber a cup — and will change with the chili under it; the chips and cheese are the rest. Built on the assumed quantities above, which are the cookbook's and not Cody's.*
+*The chili is counted at roughly [§8.1](81-chili-mac.md)'s own per-cup estimate for its chili without the noodles — about 400 calories, 20 g fat, 30 g protein, 25 g carbs and 6 g fiber a cup — used here for [§8.48 Cody's Chili](848-codys-chili.md) too since the two recipes are close enough in composition (per §8.48's own flag) that a per-cup figure carries over; it will change with whichever chili actually goes under it. The chips and cheese are the rest. Built on the assumed quantities above, which are the cookbook's and not Cody's.*
 
 #### D. Open Questions
 
-- ❓ **The chili.** Still owed — [§12](12-recipes-to-document.md) tracks it. The day it's dictated, the ingredient line above points at it and the [§8.1](81-chili-mac.md) fallback comes off.
+- ❓ ~~The chili — still owed.~~ **Answered 2026-09-12: [§8.48 Cody's Chili](848-codys-chili.md).** The ingredient line above now points at it; [§12](12-recipes-to-document.md)'s row is closed.
 - ❓ **Which Louisiana hot sauce?** *The Original Louisiana Brand*, Crystal (what [§8.1](81-chili-mac.md)'s card calls "Krystal's"), or another — he said "Louisiana hot sauce" and no more. One word from him settles it.
 - ❓ **What cheese?** Cheddar is assumed. He said "shredded cheese."
 - ⚙️ **The quantities are cookbook judgment**, reasoned from [§8.1](81-chili-mac.md)'s bowl and labeled above. **His figures supersede the day he gives them.**

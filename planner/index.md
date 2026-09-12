@@ -487,6 +487,7 @@ Start from the [Meal Planning Sheet](meal-planning-sheet.md); the ⭐ Staples wi
 | 8.45 | Seafood Courtbouillon | 🟢 | [open](recipes/845-seafood-courtbouillon.md) |
 | 8.46 | Verna's Galimatias | 🔴 | [open](recipes/846-vernas-galimatias.md) |
 | 8.47 | Frito Pie | 🟢 | [open](recipes/847-frito-pie.md) |
+| 8.48 | Cody's Chili | 🟢 | [open](recipes/848-codys-chili.md) |
 | 9 | Snacks & Light Meals | — | [open](recipes/9-snacks--light-meals.md) |
 | 9.1 | Almond Flour Chips and Salsa | — | [open](recipes/91-almond-flour-chips-and-salsa.md) |
 | 9.2 | Nuts | — | [open](recipes/92-nuts.md) |

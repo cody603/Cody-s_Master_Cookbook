@@ -4,7 +4,7 @@
 
 **So: if it needs cooking, it's a recipe and belongs in `codys-cookbook.md`. If it doesn't, it lives here.** When a week is planned, the chat pulls from this file after the recipes' own lists — *"anything extra this week?"*
 
-**Anyone can add to this file from chat** — it's a shopping list, not the book, so it needs no sign-off. Date and initial your additions. A Code session tidies it now and then but doesn't gatekeep it. *(If the chat can't write to the repo, the addition rides along in the grocery email and gets added at the next Code session.)*
+**Additions come through `PROPOSED-REVISIONS.md`, like everything else.** Cody, 2026-09-12: *"we're buying Nutella a lot and it's not one of our staple grocery list items, can we add that? — I have put that down as a revision request. When Cody approves it, it will be implemented."* So a chat session doesn't edit this file; it files the request, Cody approves, and a Code session adds the line here with the date and who asked.
 
 ---
 

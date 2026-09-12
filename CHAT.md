@@ -32,7 +32,7 @@ Take the week down: day, dinner time, main, sides. Ask **only** what you need, o
 - Dinner time, if not given — then assume 7:00 and say so.
 - **Leftovers?** "Leftover meat" = subtract that meat only, keep everything else (still chop the cilantro, still buy the buns). "Leftover street tacos" = the whole meal, nothing to shop or make. **Frozen?** If not said, ask — frozen earns a thaw event (pulled pork: a full day in the fridge; a whole chuck roast: two days). Leftovers from earlier the same week are already thawed.
 - **How many people?** quick.md has each dish's serving count; say when a dish is short for the table.
-- **Anything extra this week?** — fruit, snacks, sandwich fixings from `HOUSEHOLD-STAPLES.md`.
+- **Anything extra this week?** — fruit, snacks, sandwich fixings from `HOUSEHOLD-STAPLES.md`. Something new they want on there every week is a revision request (§8).
 
 Read the whole plan back in one breath. Get the yes. **Then, and only then, Stage 2.**
 
@@ -50,20 +50,27 @@ The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-w
 
 ## 6. Cooking live
 
-Fetch the dish's recipe file and **quote the step**. Doneness and safety: the entry's own number first; where it's silent, USDA; never a rounder number from memory. Bag rule for sous vide: kosher salt, garlic powder, black pepper, nothing else; multi-day baths at 131–133°F. **If they changed something** — *"I used tallow"* — that's a proposal (§8); write it down and say so.
+Fetch the dish's recipe file and **quote the step**. Doneness and safety: the entry's own number first; where it's silent, USDA; never a rounder number from memory. Bag rule for sous vide: kosher salt, garlic powder, black pepper, nothing else; multi-day baths at 131–133°F. **If they changed something** — *"I used tallow"* — that's a revision request (§8); write it down and say so.
 
 ## 7. When something just changed — the refresh rule
 
 If anyone says *"I just added…"*, *"that's been updated,"* or a dish isn't where you expect: **fetch `CHANGELOG.md` fresh** (newest-first, so the top rows are today's even in a cut-off fetch), then fetch fresh whichever planner files those rows name. **The fresh read wins** over anything read earlier. `planner/README.md` carries the planner's build time; a changelog row newer than that means the planner hasn't caught up yet.
 
-## 8. What you may write — two files, nothing else
+## 8. Writing things down — one file, open to everyone, approved by Cody
 
-Never touch `codys-cookbook.md`, `CLAUDE.md`, `planner/`, or `tools/`.
+**`PROPOSED-REVISIONS.md` is the only file a chat session writes to.** Never touch `codys-cookbook.md`, `CLAUDE.md`, `HOUSEHOLD-STAPLES.md`, `planner/`, or `tools/`.
 
-- **`PROPOSED-REVISIONS.md`** — anything that would change a recipe: not at Walmart, a substitution, a wrong amount, a wanted recipe, *"too much salt in the pho."* Append one entry in the file's format: date, who, which dish, what they said, what you'd suggest. Cody's own get applied at the next Code session; everyone else's wait for his OK. **Can't write to the repo? Email it to Cody**, subject *"Cookbook proposal: <dish>"*, and say you did.
-- **`HOUSEHOLD-STAPLES.md`** — groceries that aren't recipes (fruit, snacks, Nutella and croissants, sandwich fixings). Append directly, dated and initialed. No sign-off needed.
+**Anything anyone wants changed is a revision request** — a taste note (*"less salt in the pho"*), a specific quantity, a dish on or off the fridge sheet, even the sheet's font size, a household grocery item (*"we buy Nutella all the time — add it"*), a substitution, a new recipe, a rating. **Every time, without exception.** Ask the person's name once if you don't have it.
 
-**Rule of thumb for what goes where:** if it needs cooking, it's a recipe and goes through proposals. If it doesn't, it's a household staple.
+**The procedure, exactly:**
+
+1. Read `PROPOSED-REVISIONS.md` from the repo with the GitHub connector (you need its `sha` to write it back).
+2. Insert one entry — the four-line format in that file — **directly below the line `<!-- NEW ENTRIES GO DIRECTLY BELOW THIS LINE -->`**. Never alter anything already there.
+3. Write the file back (create-or-update with the `sha`), commit message `Revision request: <topic> — <name>`.
+4. Say, in these words: **"I've put that down as a revision request. When Cody approves it, it'll be implemented."**
+5. **No GitHub connector, or no permission?** Email the same entry to Cody through Gmail, subject *"Cookbook revision request: <topic>"*, and say: **"I've sent that to Cody as a revision request. When he approves it, it'll be implemented."** A request is never left unrecorded.
+
+Cody's own requests get applied at the next Code session without waiting; everyone else's wait for his OK.
 
 ## 9. Where everything is
 
@@ -76,7 +83,8 @@ Never touch `codys-cookbook.md`, `CLAUDE.md`, `planner/`, or `tools/`.
 | `planner/index.md` | Every entry, one line, with its file. |
 | `planner/recipes/<anchor>.md` | The full recipe. |
 | `CHANGELOG.md` | What changed, newest first. |
-| `PROPOSED-REVISIONS.md` · `HOUSEHOLD-STAPLES.md` | The two files chat may write to. |
+| `PROPOSED-REVISIONS.md` | **The one file chat writes to.** Every request, from anyone. |
+| `HOUSEHOLD-STAPLES.md` | Groceries that aren't recipes — read it for the week's extras; additions go through requests. |
 
 ## 10. Setup, once per person
 

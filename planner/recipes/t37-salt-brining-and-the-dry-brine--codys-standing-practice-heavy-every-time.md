@@ -53,6 +53,16 @@ Salt restructures meat proteins so they **grip water more tightly** under heat. 
 2. **The ceiling is toughening, not saltiness** — that's the thing to actually watch for.
 3. **A thick fat cap blocks salt almost completely** — on a brisket, the salt is only doing real work where the meat itself is exposed.
 
+#### Uncovered, on a rack — the standing rule for every dry brine in this book
+
+📌 **Cody, 2026-09-13:** *"The uncovered salt-brining, dry-brine phase — you leave it in the fridge uncovered on a rack. All you have to say is so that the meat is exposed to air on all sides… I just think — so that it's exposed to the air on all sides, and it's sitting on a rack, or a grill rack, or whatever that thing's called."*
+
+**Dry-brined meat goes uncovered, on a rack, so air reaches every side of it — not just the top.** A rack — a cooling rack, a roasting rack, a grill grate set over a sheet pan, whatever fits — lifts the meat off the pan so air circulates underneath too, not only over the top.
+
+**Why, in one sentence:** salt draws moisture to the surface and carries it back in seasoned (above, under "Why brining works — the actual numbers"); open, moving air reaching every side dries that surface faster than a still, closed one would, which is what lets the meat take a real bark or crisp skin instead of steaming — the same physical argument [§T39 Maillard vs. Caramelization](t39-maillard-vs-caramelization--gbd.md) makes about keeping the surface dry for browning, rather than re-derived here.
+
+This is a fridge-stage rule specifically — a wet brine (submerged) obviously doesn't need a rack — and it doesn't change anything about brine strength, timing, or the salt-type guidance above.
+
 [↑ Table of Contents](../index.md)
 
 ---

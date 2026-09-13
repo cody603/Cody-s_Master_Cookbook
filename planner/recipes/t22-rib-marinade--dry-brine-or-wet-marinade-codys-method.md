@@ -20,8 +20,8 @@ Cody runs one of two preps before ribs go in the smoker, and picks whichever fit
 **1. Salt the ribs on all sides.**
 Kosher or coarse salt, rubbed evenly over both sides of the rack.
 
-**2. Refrigerate, uncovered or loosely covered.**
-A few hours minimum; overnight is better if the schedule allows. This is the easier of the two preps — salt and forget it until it's time to smoke.
+**2. Onto a rack, uncovered, and into the fridge.**
+Set the rack on a wire rack over a sheet pan (or a grill grate over one), uncovered, so it's exposed to air on all sides, not just the top — see [§T37's rack subsection](t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time.md). A few hours minimum; overnight is better if the schedule allows. This is the easier of the two preps — salt and forget it until it's time to smoke.
 
 #### B. Method 2 — Wet Marinade (Apple Cider Vinegar & Lemon)
 

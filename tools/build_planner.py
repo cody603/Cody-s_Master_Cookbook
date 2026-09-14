@@ -276,7 +276,7 @@ sheet = ('<!-- GENERATED from codys-cookbook.md#meal-planning-sheet — do not e
          rewrite(sheet, 'planner').replace('[↑ Table of Contents](index.md)', '[Index](index.md)'))
 open(os.path.join(OUT, 'meal-planning-sheet.md'), 'w', encoding='utf-8').write(sheet)
 
-# README.md — carries the build stamp a chat session compares against CHANGELOG.md (CHAT.md §4)
+# README.md — carries the build stamp a chat session compares against CHANGELOG.md (CHAT.md §8)
 import datetime, subprocess
 try:
     built_from = subprocess.run(['git', '-C', ROOT, 'rev-parse', '--short', 'HEAD'], capture_output=True, text=True).stdout.strip() or 'unknown'
@@ -285,7 +285,7 @@ except Exception:
 built_at = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 open(os.path.join(OUT, 'README.md'), 'w', encoding='utf-8').write(f'''# planner/ — the cookbook, one recipe per file
 
-**Built {built_at}, on top of commit `{built_from}`.** *(A chat session compares this against the top of `CHANGELOG.md` — if a changelog row is newer than this stamp, the planner hasn't caught up with it yet. See `CHAT.md` §4.)*
+**Built {built_at}, on top of commit `{built_from}`.** *(A chat session compares this against the top of `CHANGELOG.md` — if a changelog row is newer than this stamp, the planner hasn't caught up with it yet. See `CHAT.md` §8.)*
 
 **This folder is generated from [`codys-cookbook.md`](../codys-cookbook.md) and is never edited by hand.** The master
 file is the single source of truth (CLAUDE.md §1–§2); this is a derived view of it, rebuilt by

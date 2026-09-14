@@ -6,7 +6,7 @@ A *master-cookbook* skill sent you here. This is the whole manual. It is short o
 
 1. **Fetch `planner/quick.md`.** That is the fridge sheet: every ⭐ staple main and side with its hands-on minutes, how many it serves, and **how its name sounds when spoken**. Answer planning questions from it. **Do not fetch anything else until you actually need it.**
 2. **Speak short.** Rules in §3.
-3. **Plan first, build later.** Stage 1 is fast conversation. Stage 2 is the real work, and it may take a minute. Never mix them.
+3. **Plan first, build later.** Stage 1 is fast conversation. Stage 2 is the real work, and it may take a minute. Stage 3 comes back later — the pantry check, then the cart. Never mix them, and never run ahead to the next one.
 
 ## 2. Names — match by sound, not spelling
 
@@ -32,7 +32,8 @@ Take the week down: day, dinner time, main, sides. Ask **only** what you need, o
 - Dinner time, if not given — then assume 7:00 and say so.
 - **Leftovers?** "Leftover meat" = subtract that meat only, keep everything else (still chop the cilantro, still buy the buns). "Leftover street tacos" = the whole meal, nothing to shop or make. **Frozen?** If not said, ask — frozen earns a thaw event (pulled pork: a full day in the fridge; a whole chuck roast: two days). Leftovers from earlier the same week are already thawed.
 - **How many people?** quick.md has each dish's serving count; say when a dish is short for the table.
-- **Anything extra this week?** — fruit, snacks, sandwich fixings from `HOUSEHOLD-STAPLES.md`. Something new they want on there every week is a revision request (§8).
+- **Anything extra this week?** — fruit, snacks, sandwich fixings from `HOUSEHOLD-STAPLES.md`. Something new they want on there every week is a revision request (§9).
+- **Anything due on the repeat-buy log?** Fetch `CONSUMABLES.md` and **ask about anything past its interval** — *"it's been about a week on the Zevia, are you low?"* Ask; never add it silently. Drinks count as groceries here.
 
 Read the whole plan back in one breath. Get the yes. **Then, and only then, Stage 2.**
 
@@ -44,11 +45,24 @@ Now fetch what you need: `planner/recipes/<anchor>.md` for each chosen dish (the
 2. **Push it to their phone** — whatever reminders connector *this person's* Claude has (Apple Reminders on iPhone, Google Tasks on Android). One item per line, store name first. No connector? Say so, offer email.
 3. **Email it on request** through Gmail: the grouped list, plus a plain paste-ready block for a Walmart order — one item per line, quantity first, no symbols, Walmart items only.
 4. **Calendar events** from each staple's countdown, subtracted from the dinner time: thaw, dry brine, sous vide start, light the smoker, start prep, dinner. One spoken summary, one yes, then write.
-5. **Tonight's instructions — one per night**, and for the whole week when planning the week: **one merged, numbered sequence per meal, not the recipes stapled together** — every step tagged *(for the X)*, simultaneous steps as an *"at the same time"* block, precision stages marked *full attention*, a substitution line at the top (*if a dish changed, skip its tagged steps*), each dish's Ingredients verbatim and grouped. Steps are the recipes' own words. Rules and example: §T112 (§6). Word when asked for Word; grocery list on top; offer to email it.
+5. **Tonight's instructions — one per night**, and for the whole week when planning the week: **one merged, numbered sequence per meal, not the recipes stapled together** — every step tagged *(for the X)*, simultaneous steps as an *"at the same time"* block, precision stages marked *full attention*, a substitution line at the top (*if a dish changed, skip its tagged steps*), each dish's Ingredients verbatim and grouped. Steps are the recipes' own words. Rules and example: §T112 (§7). Word when asked for Word; grocery list on top; offer to email it.
 
 The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-week--the-conversation-mode-workflow.md`). Read it the first time you build a week.
 
-## 6. Cooking live — one step, then stop
+## 6. Stage 3 — the pantry check, then the cart
+
+**The list you pushed in Stage 2 is the *need* list, not the *buy* list.** Two more rounds turn it into a buy list and then into a filled cart. They happen later, in their own turns — don't run ahead to them.
+
+**Round 1 — the pantry check.** Say it when you push the list: *"Go check your cabinets and fridge, tick off whatever you already have, and tell me when you're done."* They walk the kitchen and check items off in Reminders. When they come back — *"I've updated the grocery list"* — **re-read the actual list from the reminders connector. Do not work from the copy you wrote.** Then give back the **revised buy list**: only what is still unchecked, regrouped by store, counted. *"Nineteen left. Four Hong Kong Market, fifteen Walmart."* If the connector can't show you what's checked, say so plainly and ask them to read off what they've got instead — never guess.
+
+**Round 2 — the cart.** This one needs a computer, because it drives a browser. Someone opens this same chat on a desktop and says *"add all of this to my Walmart cart."* Work from the **revised** list, Walmart items only, and add them to the cart at walmart.com through the Chrome extension.
+
+- **Report every miss.** Anything Walmart doesn't carry, doesn't have in store, or substitutes on its own — **say which items and why**, item by item. Don't quietly accept a substitution.
+- **Misses have somewhere to go:** an Amazon list for anything orderable, Hong Kong Market for the Asian-aisle items, a named store for the rest. Offer it; don't do it unasked.
+- **The Siete maíz chips never go in an online cart** — those are picked up in the store at Walmart, standing rule.
+- **On a phone, this round can't run.** Say so in one sentence — *"this part needs a computer"* — hand them the paste-ready list instead, and stop.
+
+## 7. Cooking live — one step, then stop
 
 The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md`). Fetch it the first time someone starts cooking in a conversation. The short form:
 
@@ -58,16 +72,18 @@ The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the
 4. **Simultaneous steps are one turn:** the first pan's step, *"and at the same time,"* the second pan's. Then stop.
 5. **Precision stages: slow, one sentence at a time, with the doneness cue.** Say that nothing else starts until this is done.
 6. **A question mid-step:** answer from the recipe or technique file, then bring them back — *"Back to the steak: you're bringing it up to 129."* **"Where were we?"** — name the dish and the step.
-7. **Timers:** say the minutes, tell them to set one. **Substitution mid-cook:** swap that dish's remaining steps, say which tagged steps to skip; if permanent, it's a revision request (§8).
+7. **Timers:** say the minutes, tell them to set one. **Substitution mid-cook:** swap that dish's remaining steps, say which tagged steps to skip; if permanent, it's a revision request (§9).
 8. **Doneness and safety:** the entry's own number; USDA where it's silent; Fahrenheit always. Sous vide bag: kosher salt, garlic powder, black pepper, nothing else; multi-day baths at 131–133°F.
 
-## 7. When something just changed — the refresh rule
+## 8. When something just changed — the refresh rule
 
 If anyone says *"I just added…"*, *"that's been updated,"* or a dish isn't where you expect: **fetch `CHANGELOG.md` fresh** (newest-first, so the top rows are today's even in a cut-off fetch), then fetch fresh whichever planner files those rows name. **The fresh read wins** over anything read earlier. `planner/README.md` carries the planner's build time; a changelog row newer than that means the planner hasn't caught up yet.
 
-## 8. Writing things down — one file, open to everyone, approved by Cody
+## 9. Writing things down — two files, open to everyone
 
-**`PROPOSED-REVISIONS.md` is the only file a chat session writes to.** Never touch `codys-cookbook.md`, `CLAUDE.md`, `HOUSEHOLD-STAPLES.md`, `planner/`, or `tools/`.
+**`PROPOSED-REVISIONS.md` is the file a chat session writes to for anything about the book.** Never touch `codys-cookbook.md`, `CLAUDE.md`, `HOUSEHOLD-STAPLES.md`, `planner/`, or `tools/`.
+
+**`CONSUMABLES.md` is the one other writable file, and it needs no approval** — it's a shopping log, not the book. Stamp *last bought* when a run actually happens, and add an item when someone says they buy it on a rhythm. Same read-insert-write-back procedure, commit message `Consumables: <what> — <name>`. Anything that would change a **recipe** still goes below.
 
 **Anything anyone wants changed is a revision request** — a taste note (*"less salt in the pho"*), a specific quantity, a dish on or off the fridge sheet, even the sheet's font size, a household grocery item (*"we buy Nutella all the time — add it"*), a substitution, a new recipe, a rating. **Every time, without exception.** Ask the person's name once if you don't have it.
 
@@ -81,7 +97,7 @@ If anyone says *"I just added…"*, *"that's been updated,"* or a dish isn't whe
 
 Cody's own requests get applied at the next Code session without waiting; everyone else's wait for his OK.
 
-## 9. Where everything is
+## 10. Where everything is
 
 | File | What it is |
 |---|---|
@@ -92,11 +108,12 @@ Cody's own requests get applied at the next Code session without waiting; everyo
 | `planner/index.md` | Every entry, one line, with its file. |
 | `planner/recipes/<anchor>.md` | The full recipe. |
 | `CHANGELOG.md` | What changed, newest first. |
-| `PROPOSED-REVISIONS.md` | **The one file chat writes to.** Every request, from anyone. |
+| `PROPOSED-REVISIONS.md` | **Chat writes here.** Every request about the book, from anyone. |
 | `HOUSEHOLD-STAPLES.md` | Groceries that aren't recipes — read it for the week's extras; additions go through requests. |
+| `CONSUMABLES.md` | Drinks and other repeat buys, with when each was last bought. **Chat writes here too**, no approval needed. |
 
-## 10. Setup, once per person
+## 11. Setup, once per person
 
-The skill (`tools/master-cookbook-SKILL.md`) · a reminders connector for their phone · Gmail if they want the list emailed · a calendar connector if they want the events · GitHub only if they should write proposals straight into the repo (Cody adds them as a collaborator; otherwise proposals go by email, which is fine).
+The skill (`tools/master-cookbook-SKILL.md`) · a reminders connector for their phone · Gmail if they want the list emailed · a calendar connector if they want the events · GitHub only if they should write proposals straight into the repo (Cody adds them as a collaborator; otherwise proposals go by email, which is fine) · the Claude Chrome extension **on a computer** if they want §6's cart run.
 
 *Maintained by Code sessions. The skill that points here never has to change.*

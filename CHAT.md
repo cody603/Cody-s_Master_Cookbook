@@ -51,7 +51,7 @@ Now fetch what you need: `planner/recipes/<anchor>.md` for each chosen dish (the
 2. **Push it to their phone** — whatever reminders connector *this person's* Claude has (Apple Reminders on iPhone, Google Tasks on Android). One item per line, store name first. No connector? Say so, offer email.
 3. **Email it on request** through Gmail: the grouped list, plus a plain paste-ready block for a Walmart order — one item per line, quantity first, no symbols, Walmart items only.
 4. **Calendar events** from each staple's countdown, subtracted from the dinner time: thaw, dry brine, sous vide start, light the smoker, start prep, dinner. One spoken summary, one yes, then write.
-5. **Tonight's instructions — one per night**, and for the whole week when planning the week: **one merged, numbered sequence per meal, not the recipes stapled together** — every step tagged *(for the X)*, simultaneous steps as an *"at the same time"* block, precision stages marked *full attention*, a substitution line at the top (*if a dish changed, skip its tagged steps*), each dish's Ingredients verbatim and grouped. Steps are the recipes' own words. Rules and example: §T112 (§7). Word when asked for Word; grocery list on top; offer to email it.
+5. **Tonight's instructions — one per night**, and for the whole week when planning the week: **one merged, numbered sequence per meal, not the recipes stapled together** — every step tagged *(for the X)*, simultaneous steps as an *"at the same time"* block, precision stages marked *full attention*, a substitution line at the top (*if a dish changed, skip its tagged steps*), each dish's Ingredients verbatim and grouped. Steps are the recipes' own words. Rules and example: §T112 (§7). **Write each night's sequence to `tonight/<date-of-dinner>.md` in the repo** (format in `tonight/README.md`; each technique step names its §T file in brackets) — that file is what live cooking reads, so it must exist. Word doc and email are copies on request; grocery list on top of those.
 
 The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-week--the-conversation-mode-workflow.md`). Read it the first time you build a week.
 
@@ -73,7 +73,7 @@ The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-w
 
 **This stage follows the document; it doesn't think up the order.** Cody: *"the live cooking in chat is really just following the logic of the word document. The word document is where all the logic is."* So any model that can read a list and fetch a file can run it — Sonnet is fine. The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md`). Fetch it the first time someone starts cooking in a conversation. The short form:
 
-1. **Fetch tonight's document and walk its steps in order.** It already decided what starts together, what waits, and what gets full attention. **Only if no document was made for tonight**, build the sequence yourself from §T112 — every stage of every dish is *precision* (steak coming up to temp, a sear, a roux, frying, a wok — full attention, nothing else at once), *check-in* (a side in a pan, pasta, mashing — two can run together), or *hands-off* (oven, rest, bath — start these first); precision stages in the rest windows; a dish that is precision end to end goes last.
+1. **Fetch `tonight/<today>.md` and walk its steps in order.** *Let's cook, what's first, walk me through dinner* — that's the trigger; the file is the plan. It already decided what starts together, what waits, and what gets full attention. **If the file isn't there**, say so, then build the sequence yourself from §T112 — every stage of every dish is *precision* (steak coming up to temp, a sear, a roux, frying, a wok — full attention, nothing else at once), *check-in* (a side in a pan, pasta, mashing — two can run together), or *hands-off* (oven, rest, bath — start these first); precision stages in the rest windows; a dish that is precision end to end goes last.
 1a. **Techniques come from the tags, not from memory.** When a step has a technique in it — *sauté the sprouts*, *bring the steak to 129*, *make the roux* — the recipe file's **Techniques used** line names the §T entry; fetch that `planner/recipes/t…` file and answer from it.
 2. **Keep a private pointer** — which dish, which step. Never say the number aloud.
 3. **Say one step:** what to do, **what it's for** (*"for the caulimash"*), and the one technique pointer if the step has one. **Then stop and wait** for *done / next / okay / what now*.
@@ -81,6 +81,7 @@ The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-w
 5. **Precision stages: slow, one sentence at a time, with the doneness cue.** Say that nothing else starts until this is done.
 6. **A question mid-step:** answer from the recipe or technique file, then bring them back — *"Back to the steak: you're bringing it up to 129."* **"Where were we?"** — name the dish and the step.
 7. **Timers:** say the minutes, tell them to set one. **Substitution mid-cook:** swap that dish's remaining steps, say which tagged steps to skip; if permanent, it's a revision request (§9).
+8. **Out of coriander? Only half-and-half?** Expected — answer in the next sentence, on any model. Cookbook first (the pantry reference is `planner/recipes/t106-…`), then one quick lookup from a real chef or test kitchen, source named in a breath. **Write the swap into tonight's file** under *Swaps made tonight*, adjust that dish's remaining steps, and keep going. Never stall a kitchen on a lookup.
 8. **Doneness and safety:** the entry's own number; USDA where it's silent; Fahrenheit always. Sous vide bag: kosher salt, garlic powder, black pepper, nothing else; multi-day baths at 131–133°F.
 
 ## 8. When something just changed — the refresh rule
@@ -91,10 +92,11 @@ If anyone says *"I just added…"*, *"that's been updated,"* or a dish isn't whe
 
 **`PROPOSED-REVISIONS.md` is the file a chat session writes to for anything about the book.** Never touch `codys-cookbook.md`, `CLAUDE.md`, `HOUSEHOLD-STAPLES.md`, `planner/`, `photos/`, or `tools/`.
 
-**Two logs are writable without approval** — they're diaries, not the book. Same read-insert-write-back procedure as below, commit message `Log: <what> — <name>`:
+**Two logs and the night files are writable without approval** — they're diaries, not the book. Same read-insert-write-back procedure as below, commit message `Log: <what> — <name>`:
 
 - **`CONSUMABLES.md`** — add a purchase date (newest first) when a run actually happens; add an item when someone says they buy it on a rhythm; write a *learned* interval once there are two or three dates to average.
 - **`COOKING-LOG.md`** — a row the moment a dish is named for *tonight*, marked *provisional*; flip it to *confirmed* or *skipped* the next time that night comes up. A one-line verdict if one was given. Anything that would change a **recipe** goes below instead.
+- **`tonight/<date>.md`** — written by Stage 2, edited by live cooking for swaps. Working papers for one night; never the source of a recipe.
 
 **Anything anyone wants changed is a revision request** — a taste note (*"less salt in the pho"*), a specific quantity, a dish on or off the fridge sheet, even the sheet's font size, a household grocery item (*"we buy Nutella all the time — add it"*), a substitution, a new recipe, a rating. **Every time, without exception.** Ask the person's name once if you don't have it.
 
@@ -123,6 +125,7 @@ Cody's own requests get applied at the next Code session without waiting; everyo
 | `HOUSEHOLD-STAPLES.md` | Groceries that aren't recipes — read it for the week's extras; additions go through requests. |
 | `CONSUMABLES.md` | Drinks, milk, paper goods, cleaning supplies — repeat buys with their purchase dates. **Chat writes here**, no approval needed. |
 | `COOKING-LOG.md` | What got cooked, which night, how it went. **Chat writes here**, no approval needed. |
+| `tonight/<date>.md` | The night's merged sequence — what live cooking reads. **Stage 2 writes it; live cooking edits it for swaps.** |
 
 ## 11. Setup, once per person
 

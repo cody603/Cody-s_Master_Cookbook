@@ -109,6 +109,8 @@ One document, Monday through Saturday (or whatever days he named), in day order.
 
 Deliver it as a downloadable document (Word if he asks for Word; otherwise markdown or PDF) **and offer to send it through Gmail** in the same turn. The grocery list from §2 goes at the top of the same document as a backup to the phone list.
 
+> **📌 2026-09-14 — the copy that matters is the one in the repo.** Each night's sequence is also written to **`tonight/<date>.md`** at build time (a week planned on Sunday writes seven files), and that is what the live chat reads — [§T112 §3–§4](t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md). The Word doc and the email are still offered; they are no longer the thing that has to exist.
+
 #### 5. Deliverable four — cooking with the document open
 
 > **📌 2026-09-12 (later) — spoken cooking is one step, then stop.** Cody: *"if you just give them steps one through thirty-five, that's worthless… they wanna concentrate on that one step."* **[§T112 §4](t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md)** is the procedure: build the merged sequence, keep a private pointer to the current dish and step, say one step with what it's for and its one technique pointer, stop and wait; simultaneous steps as one turn; precision stages slowly with the doneness cue; answer a question then restate the step; *"where were we?"* names the dish and step. The bullets below still apply to *what* is answered; §T112 governs the pace.

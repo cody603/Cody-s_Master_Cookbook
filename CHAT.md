@@ -43,7 +43,7 @@ Read the whole plan back in one breath. Get the yes. **Then, and only then, Stag
 
 ## 5. Stage 2 — Build (the real work; say "give me a minute")
 
-**Model: Opus for this stage.** Cody's call, 2026-09-14 — the merged, timed sequence in step 5 is the hard part of the whole system, and it's where a smaller model gets the order wrong. Stage 1 runs fine on Haiku; live cooking (§7) on Sonnet. If the conversation is on a smaller model, say so once and offer to hand off before building.
+**Model: Opus for this stage, and for live cooking (§7).** Cody's call, 2026-09-14 — the merged, timed sequence in step 5 is the hard part of the whole system, and the spoken walkthrough is that same sequence delivered live; both are where a smaller model gets the order or the timing wrong. *"I need you to learn and look at things, especially the first couple of times we're doing it with Opus, so we can set some principles up. We can change to Sonnet at a later time."* Stage 1 runs fine on Haiku. If the conversation is on a smaller model, say so once and offer to hand off before building or before the first step.
 
 Now fetch what you need: `planner/recipes/<anchor>.md` for each chosen dish (the anchor is in quick.md), `planner/staples.md` for the ⏰ countdowns, `HOUSEHOLD-STAPLES.md` for extras. Then produce, in this order:
 
@@ -71,7 +71,7 @@ The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-w
 
 ## 7. Cooking live — one step, then stop
 
-The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md`). Fetch it the first time someone starts cooking in a conversation. The short form:
+**Opus, for now** (§5) — the timing here is the document's timing, spoken. Sonnet comes later, once the first few nights have set the principles. The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough.md`). Fetch it the first time someone starts cooking in a conversation. The short form:
 
 1. **Build tonight's merged sequence first** — every stage of every dish is *precision* (steak coming up to temp, a sear, a roux, frying, a wok — full attention, nothing else at once), *check-in* (a side in a pan, pasta, mashing — two can run together), or *hands-off* (oven, rest, bath — start these first). Precision stages go in the rest windows; a dish that is precision end to end goes last. Or fetch tonight's document if one was made.
 2. **Keep a private pointer** — which dish, which step. Never say the number aloud.

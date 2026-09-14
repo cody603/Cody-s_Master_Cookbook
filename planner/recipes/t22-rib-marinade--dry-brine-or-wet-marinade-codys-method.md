@@ -17,8 +17,8 @@ Cody runs one of two preps before ribs go in the smoker, and picks whichever fit
 
 #### A. Method 1 — Dry Brine
 
-**1. Salt the ribs on all sides.**
-Kosher or coarse salt, rubbed evenly over both sides of the rack.
+**1. Salt the ribs on all sides — a liberal coat, but lighter than you'd put on a pork butt.**
+Kosher or coarse salt, rubbed evenly over both sides of the rack. **How heavy is the thing to get right here, and Cody has gotten it wrong in the direction worth warning about:** *"I don't coat it as heavily with ribs because that's a smaller piece of meat, it's a thinner piece of meat and some of it's bone. I still coat it with a nice liberal coat of salt, but I have gotten ribs too salty because I used the same principle of heavy salt with my pork"* **(Cody, 2026-09-14).** A rack is thin, and part of it is bone that takes no salt at all, so the very heavy coat that disappears into a butt or a brisket lands as too salty on ribs. Still liberal — just visibly less than the pork. The full rule is [§T37's *The salt load scales with the thickness of the cut*](t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time.md#the-salt-load-scales-with-the-thickness-of-the-cut--heavy-on-a-butt-lighter-on-ribs).
 
 **2. Onto a rack, uncovered, and into the fridge.**
 Set the rack on a wire rack over a sheet pan (or a grill grate over one), uncovered, so it's exposed to air on all sides, not just the top — see [§T37's rack subsection](t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time.md). A few hours minimum; overnight is better if the schedule allows. This is the easier of the two preps — salt and forget it until it's time to smoke.

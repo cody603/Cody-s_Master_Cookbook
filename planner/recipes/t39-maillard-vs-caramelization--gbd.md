@@ -29,6 +29,21 @@ Maillard starts low but really accelerates past **300°F**. **That's why a brisk
 - **Turn frequently, not once.** Frequent flipping is basically rotisserie cooking in miniature: each side browns a little, then cools before it can burn. Turning only once lets heat build unevenly and scorch the side facing the fire.
 - **Give food room to breathe.** Crowded food traps its own steam and the surface temperature drops — no steam escape, no GBD.
 
+#### Cody's standing rule for a sear: pat completely dry, then avocado oil — the spray — then the fire
+
+📌 **Cody, 2026-09-14:** *"You gotta pat the meat dry if you're searing, and then you hit it with avocado oil. I'm telling you, it makes the best sear. There is no comparison. And buying that avocado oil spray — that avocado spray — is the trick."*
+
+**Two steps, in that order, every time something gets seared in this cookbook:**
+
+1. **Pat it bone dry** — the *keep the surface dry* bullet above is the why, and it is not a fussy detail: water caps out at 212°F, so a wet surface physically cannot reach browning temperature until it has boiled itself off, and the interior climbs the whole time it's doing that.
+2. **Then avocado oil, sprayed on the meat — both sides.** The reasoning is smoke point and it is already written up at [§3 Darcy's Steak](3-darcys-steak.md) Step 5 and [§3.D](3-darcys-steak.md#d-variation--darcys-sous-vide-steak-the-ice-cooler-method) Step 6 rather than restated here: **avocado oil holds above 500°F**, which is what a pan taken to searing heat or a grate over a charcoal chimney will ask of it, and **olive oil smokes far lower — it burns rather than browns and turns acrid on contact.**
+
+**The spray form is Cody's specific recommendation, not just the oil** — *"buying that avocado oil spray… is the trick."* A mister lays down an even film with a fraction of what a pour uses, which is also why §3's Nutrition block counts the oil at about a teaspoon a steak rather than several.
+
+⚠️ **Note which rule this is.** This is the pat-dry-before-searing rule, and it is **not** the fridge-stage dry-brine rule at [§T37](t37-salt-brining-and-the-dry-brine--codys-standing-practice-heavy-every-time.md) — Cody drew that line himself on the same day *("that's apples and oranges, because you're not searing things here")*, and §T37's rack subsection carries it. Searing is seconds at high heat; a dry brine is a night in the fridge ahead of a low, slow cook.
+
+*(Cody's own practice, dictated 2026-09-14 — the oil, the spray and the order are his. The smoke-point figures are this cookbook's existing §3 reasoning, cross-linked rather than re-derived.)*
+
 [↑ Table of Contents](../index.md)
 
 ---

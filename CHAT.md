@@ -27,17 +27,23 @@ Voice transcription mangles the names in this book. *Foe* is pho. *Suvita* and *
 
 ## 4. Stage 1 — Plan (fast, from `quick.md` only)
 
-Take the week down: day, dinner time, main, sides. Ask **only** what you need, one at a time:
+**Usually Sunday or Monday: the whole week in one conversation, ending with the list on the phone.** Take the week down: day, dinner time, main, sides.
+
+**Questions are the bottleneck — keep them to the fewest that change the outcome.** Cody: *"it's designed for the utmost accuracy while maintaining speed."* Assume the small things and **say the assumption in the read-back**, where one yes confirms all of it and one word corrects any of it. Ask only these, one at a time:
 
 - Dinner time, if not given — then assume 7:00 and say so.
 - **Leftovers?** "Leftover meat" = subtract that meat only, keep everything else (still chop the cilantro, still buy the buns). "Leftover street tacos" = the whole meal, nothing to shop or make. **Frozen?** If not said, ask — frozen earns a thaw event (pulled pork: a full day in the fridge; a whole chuck roast: two days). Leftovers from earlier the same week are already thawed.
 - **How many people?** quick.md has each dish's serving count; say when a dish is short for the table.
 - **Anything extra this week?** — fruit, snacks, sandwich fixings from `HOUSEHOLD-STAPLES.md`. Something new they want on there every week is a revision request (§9).
-- **Anything due on the repeat-buy log?** Fetch `CONSUMABLES.md` and **ask about anything past its interval** — *"it's been about a week on the Zevia, are you low?"* Ask; never add it silently. Drinks count as groceries here.
+- **Anything due on the repeat-buy log?** Fetch `CONSUMABLES.md` and ask about **everything** past its interval **in one sentence** — *"trash bags, paper towels and the Zevia are all about due — want any of those?"* One question, one answer. Never add silently, never one item at a time. Drinks, milk, paper goods and cleaning supplies all count as groceries here.
 
 Read the whole plan back in one breath. Get the yes. **Then, and only then, Stage 2.**
 
+**Log what's for tonight.** When someone says a dish is for *tonight*, write it into `COOKING-LOG.md` as *provisional* (§9) — no question asked. The next conversation that mentions that night confirms it or marks it skipped.
+
 ## 5. Stage 2 — Build (the real work; say "give me a minute")
+
+**Model: Opus for this stage.** Cody's call, 2026-09-14 — the merged, timed sequence in step 5 is the hard part of the whole system, and it's where a smaller model gets the order wrong. Stage 1 runs fine on Haiku; live cooking (§7) on Sonnet. If the conversation is on a smaller model, say so once and offer to hand off before building.
 
 Now fetch what you need: `planner/recipes/<anchor>.md` for each chosen dish (the anchor is in quick.md), `planner/staples.md` for the ⏰ countdowns, `HOUSEHOLD-STAPLES.md` for extras. Then produce, in this order:
 
@@ -61,6 +67,7 @@ The full procedure with every rule is §T111 (`planner/recipes/t111-planning-a-w
 - **Misses have somewhere to go:** an Amazon list for anything orderable, Hong Kong Market for the Asian-aisle items, a named store for the rest. Offer it; don't do it unasked.
 - **The Siete maíz chips never go in an online cart** — those are picked up in the store at Walmart, standing rule.
 - **On a phone, this round can't run.** Say so in one sentence — *"this part needs a computer"* — hand them the paste-ready list instead, and stop.
+- **When the cart is filled or the list is handed off, stamp the date in `CONSUMABLES.md`** for everything on that log that was bought (§9). Two or three stamps teach the interval for anything marked *learn it*.
 
 ## 7. Cooking live — one step, then stop
 
@@ -79,11 +86,14 @@ The rules and a worked example are **§T112** (`planner/recipes/t112-cooking-the
 
 If anyone says *"I just added…"*, *"that's been updated,"* or a dish isn't where you expect: **fetch `CHANGELOG.md` fresh** (newest-first, so the top rows are today's even in a cut-off fetch), then fetch fresh whichever planner files those rows name. **The fresh read wins** over anything read earlier. `planner/README.md` carries the planner's build time; a changelog row newer than that means the planner hasn't caught up yet.
 
-## 9. Writing things down — two files, open to everyone
+## 9. Writing things down — three files, open to everyone
 
-**`PROPOSED-REVISIONS.md` is the file a chat session writes to for anything about the book.** Never touch `codys-cookbook.md`, `CLAUDE.md`, `HOUSEHOLD-STAPLES.md`, `planner/`, or `tools/`.
+**`PROPOSED-REVISIONS.md` is the file a chat session writes to for anything about the book.** Never touch `codys-cookbook.md`, `CLAUDE.md`, `HOUSEHOLD-STAPLES.md`, `planner/`, `photos/`, or `tools/`.
 
-**`CONSUMABLES.md` is the one other writable file, and it needs no approval** — it's a shopping log, not the book. Stamp *last bought* when a run actually happens, and add an item when someone says they buy it on a rhythm. Same read-insert-write-back procedure, commit message `Consumables: <what> — <name>`. Anything that would change a **recipe** still goes below.
+**Two logs are writable without approval** — they're diaries, not the book. Same read-insert-write-back procedure as below, commit message `Log: <what> — <name>`:
+
+- **`CONSUMABLES.md`** — add a purchase date (newest first) when a run actually happens; add an item when someone says they buy it on a rhythm; write a *learned* interval once there are two or three dates to average.
+- **`COOKING-LOG.md`** — a row the moment a dish is named for *tonight*, marked *provisional*; flip it to *confirmed* or *skipped* the next time that night comes up. A one-line verdict if one was given. Anything that would change a **recipe** goes below instead.
 
 **Anything anyone wants changed is a revision request** — a taste note (*"less salt in the pho"*), a specific quantity, a dish on or off the fridge sheet, even the sheet's font size, a household grocery item (*"we buy Nutella all the time — add it"*), a substitution, a new recipe, a rating. **Every time, without exception.** Ask the person's name once if you don't have it.
 
@@ -110,7 +120,8 @@ Cody's own requests get applied at the next Code session without waiting; everyo
 | `CHANGELOG.md` | What changed, newest first. |
 | `PROPOSED-REVISIONS.md` | **Chat writes here.** Every request about the book, from anyone. |
 | `HOUSEHOLD-STAPLES.md` | Groceries that aren't recipes — read it for the week's extras; additions go through requests. |
-| `CONSUMABLES.md` | Drinks and other repeat buys, with when each was last bought. **Chat writes here too**, no approval needed. |
+| `CONSUMABLES.md` | Drinks, milk, paper goods, cleaning supplies — repeat buys with their purchase dates. **Chat writes here**, no approval needed. |
+| `COOKING-LOG.md` | What got cooked, which night, how it went. **Chat writes here**, no approval needed. |
 
 ## 11. Setup, once per person
 

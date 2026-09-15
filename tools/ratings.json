@@ -1,0 +1,14 @@
+{
+  "_comment": "Rating overrides not yet written back into codys-cookbook.md. Cody's own calls plus the new Expert rung. Keep in sync with difficulty-ladder.md.",
+  "_scale": ["Easy", "Moderate", "Hard", "Expert"],
+  "overrides": {
+    "7.3":  {"level": "Expert",   "why": "Cody's call — hard step plus hours of components"},
+    "8.19": {"level": "Expert",   "why": "Same shape as 7.3 — 3 hr prep feeding into a roux"},
+    "7.13": {"level": "Easy",     "why": "Cody: 'crawfish elegante is easy'"},
+    "7.15": {"level": "Easy",     "why": "Cody: 'the jambalaya is easy'"},
+    "7.20": {"level": "Easy",     "why": "Cody: same call, the other jambalaya"},
+    "7.16": {"level": "Easy",     "why": "Cody: 'red beans and rice are easy'"},
+    "T27":  {"level": "Easy",     "why": "Cody: 'sous vide meat is easy'"},
+    "T28":  {"level": "Easy",     "why": "Cody: same method, same call"}
+  }
+}

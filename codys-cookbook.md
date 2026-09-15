@@ -825,6 +825,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.183 Ketjap Butter](#4183-ketjap-butter) | 🟢 | 2 min | 3 min | — | 5 min |
 | [§4.184 Mexican Fish Baste](#4184-mexican-fish-baste) | 🟢 | 5 min | — | — | 5 min |
 | [§4.189 Sweet and Tangy Dipping Sauce](#4189-sweet-and-tangy-dipping-sauce) | 🟢 | 5 min | — | — | 5 min |
+| [§4.193 Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) | 🟢 | 5 min | — | — | 5 min |
 | [§T25 French Omelette](#t25-the-french-omelette-two-methods) | 🟡 | 5 min | <1 min | — | 5 min |
 | [§9.19 Day-After-Thanksgiving Turkey Sandwich](#919-day-after-thanksgiving-turkey-sandwich) | 🟢 | 8 min | — | — | 8 min |
 | [§14.31 Torched Figs](#1431-torched-figs) *(The Meathead Method)* | 🟡 | 5 min | 3 min | — | 10 min |
@@ -860,7 +861,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.1 Darcy's Steak Rub](#41-darcys-steak-rub) | 🟢 | 10 min | — | — | 10 min |
 | [§4.194 Dad's Horseradish Steak Sauce](#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese) | 🟢 | 10 min | — | — | ~1 hr 10 min *(1 hr chill)* |
 | [§4.192 Avocado Salsa](#4192-avocado-salsa) | 🟢 | 10 min | — | — | 10 min *(plus chilling until served)* |
-| [§4.193 Dijon & Greek Yogurt Steak Sauce](#4193-dijon--greek-yogurt-steak-sauce) | 🟢 | 5 min | — | — | 5 min |
 | [§5.35 Cole Slaw](#535-cole-slaw) | 🟢 | 10 min | — | — | 40 min–1 hr 10 min *(30–60 min chill)* |
 | [§4.93 North Carolina Vinegar Sauce (Sauces ch.)](#493-north-carolina-vinegar-sauce-sauces-chapter--no-tomato) | 🟢 | 10 min | — | — | 10 min *(same-day only — does not keep)* |
 | [§4.96 Vinegar-Based Mop Sauce](#496-vinegar-based-mop-sauce) | 🟢 | 10 min | — | — | 10 min |
@@ -897,8 +897,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.99 Tomatillo Avocado Salsa](#499-tomatillo-avocado-salsa) | 🟢 | 10 min | — | — | 10 min |
 | [§14.36 Scented Cream](#1436-scented-cream) | 🟡 | 10 min | — | — | 30 min *(includes a 20 min bowl-and-whisk freeze; add 2 hr–overnight for the cold-steeped variations)* |
 | [§8.34 Shrimp and Corn Chowder](#834-shrimp-and-corn-chowder) | 🟢 | 10 min | — | **3–7 hr** *(slow cooker)* | 3 hr 10 min – 7 hr 10 min |
+| [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) | 🟢 | 10 min | — | — | 10 min |
+| [§5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) | 🟢 | 10 min | — | — | 10 min *(+ [§4.134](#4134-creamy-caesar-dressing)'s 15 min on the night you make the dressing)* |
+| [§5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) | 🟢 | 10 min | — | — | ~1 hr 10 min *(a 30 min salt draw, then 30 min in the vinegar)* |
+| [§5.64 Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) *(Cody's — a greens-plus-dressing template)* | 🟢 | 10 min | — | — | 10 min *(+ the chosen dressing's own 5–15 min the night you make it)* |
 | [§9.18 The Splendid Summer Tomato Sandwich](#918-the-splendid-summer-tomato-sandwich) | 🟢 | 8 min | 3 min | — | 11 min |
 | [§5.54 Sauté: Snap Peas with Chilies and Mint](#554-sauté-snap-peas-with-chilies-and-mint) | 🟢 | 5 min | 6 min | — | 15 min |
+| [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | 12 min *(10–15 min bake, printed)* | — | *unknown — recipe incomplete, see Open Questions* |
 | [§9.21 Dressed-Up Hummus with Garlic Naan](#921-dressed-up-hummus-with-garlic-naan) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§4.145 Tahini Dressing](#4145-tahini-dressing) | 🟢 | 10 min | 3 min | — | 15 min |
 | [§4.38 Mustard Sauce](#438-mustard-sauce) | 🟢 | 10 min | 3 min | — | 15 min |
@@ -906,6 +911,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.21 Sautéed Kale](#521-sautéed-kale) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§5.37 Mamma's Spinach](#537-mammas-spinach) | 🟢 | 5 min | 8 min | — | 15 min |
 | [§5.2 Sautéed Asparagus](#52-sautéed-asparagus) | 🟢 | 5 min | 8 min | — | 15 min |
+| [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | 🟢 | 5 min | 6–11 min | — | 15–20 min *(by desired doneness)* |
 | [§4.101 Basic Brinerade](#4101-basic-brinerade) | 🟢 | 15 min | — | — | 15 min active *(+ brining time per §T37)* |
 | [§4.108 Meathead's Memphis Dust](#4108-meatheads-memphis-dust) | 🟢 | 15 min | — | — | 15 min |
 | [§4.112 Cajun Seasoning](#4112-cajun-seasoning) | 🟢 | 15 min | — | — | 15 min |
@@ -934,10 +940,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§9.31 Quesadillas](#931-quesadillas) | 🟢 | 10 min | 5 min *(each; ~25 min for a family batch)* | — | 15–35 min |
 | [§9.30 Muffelatta Poboy](#930-muffelatta-poboy) | 🟢 | 15 min | — | — | 15 min *(optional 30 min–2 hr wrapped rest)* |
 | [§5.23 Greek Salad with Crumbled Goat Cheese](#523-greek-salad-with-crumbled-goat-cheese) | 🟢 | 15 min | — | — | 15 min |
-| [§5.61 Simple Romaine Salad with Grana Padano](#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano) | 🟢 | 10 min | — | — | 10 min |
-| [§5.63 Simple Romaine, Homemade Caesar](#563-simple-romaine-homemade-caesar) | 🟢 | 10 min | — | — | 10 min *(+ [§4.134](#4134-creamy-caesar-dressing)'s 15 min on the night you make the dressing)* |
-| [§5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery) | 🟢 | 10 min | — | — | ~1 hr 10 min *(a 30 min salt draw, then 30 min in the vinegar)* |
-| [§5.64 Quick Salad with Homemade Dressing](#564-quick-salad-with-homemade-dressing) *(Cody's — a greens-plus-dressing template)* | 🟢 | 10 min | — | — | 10 min *(+ the chosen dressing's own 5–15 min the night you make it)* |
 | [§9.17 Tomatoes All Dressed Up for Summer](#917-tomatoes-all-dressed-up-for-summer) | 🟢 | 10 min | 5 min | — | 15 min |
 | [§4.60 Tomato "Rollmops"](#460-tomato-rollmops) | 🟢 | 15 min | — | — | 15 min *(keeps up to a week — a make-ahead condiment)* |
 | [§4.62 Walnut-Dill Pesto](#462-walnut-dill-pesto) | 🟢 | 15 min | — | — | 15 min |
@@ -969,7 +971,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§6.1 Smoked Brisket](#61-smoked-brisket) *(Cody's — straight smoke)* | 🟢 | 15 min | — | **~12–14 hr** *(225°F indirect, unattended; + ~1 hr for the pit to settle first — the hours are cookbook judgment, see the entry)* | ~1½ days *(includes the overnight dry brine, plus a rest after)* |
 | [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) | 🟢 | 15 min | — | **~3 hr** *(simmer, mostly unattended)* | 3 hr 15 min |
 | [§5.40 Simple Grilled Crostini](#540-simple-grilled-crostini) *(Meathead)* | 🟢 | 10 min | 5 min | — | 20 min |
-| [§T19 How to Boil an Egg](#t19-how-to-boil-an-egg-canal-houses-timing-guide) | 🟢 | 5 min | 6–11 min | — | 15–20 min *(by desired doneness)* |
+| [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
 | [§14.24 Salted Caramel Sauce](#1424-salted-caramel-sauce) | 🔴 | 5 min | 12 min | — | 20 min |
 | [§4.153 Indian Coconut-Cilantro Chutney](#4153-indian-coconut-cilantro-chutney) | 🟢 | 15 min | 3 min *(toasting cumin seeds)* | — | 20 min |
 | [§9.27 Reuben](#927-reuben) | 🟢 | 10 min | 8 min | — | 20 min |
@@ -1023,6 +1025,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§6.9 Cody's Pulled Pork](#69-codys-pulled-pork) | 🟢 | 20 min | — | **~12–14+ hr** *(225°F **overnight**, unattended and unwrapped — on ~10 p.m., off past 10 a.m.; done at 203°F, not at a clock time)* | ~1½ days *(+ an overnight uncovered dry brine before, and a 1–3 hr cooler rest after)* |
 | [§6.10 D. Burnt Ends](#d-burnt-ends--codys-from-the-point) *(Cody's — a section of [§6.10](#610-sous-vide-brisket-richies-method), from its smoked point)* | 🟢 | 10 min | 10 min | — | 20 min *(needs the smoked point from [§6.10](#610-sous-vide-brisket-richies-method))* |
 | [§7.131 Smoked Sous-Vide Steak](#7131-smoked-sous-vide-steak) *(The Meathead Method)* | 🟡 | 10 min | 10 min | **~3½ hr** *(sous vide bath, ice chill, and a light smoke, all unattended)* | ~3 hr 40 min |
+| [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) *(the assembly, with the chili already made — [§8.47 Frito Pie](#847-frito-pie) merged in here 2026-09-12)* | 🟢 | 10 min | 5–15 min | — *(the chili's 4 hr crock pot is [§8.48](#848-codys-chili)'s)* | 15 min on chips · 25 min on noodles |
 | [§5.55 Steamy Sauté: Garlicky Green Beans](#555-steamy-sauté-garlicky-green-beans) | 🟢 | 10 min | 11 min | — | 20 min |
 | [§5.7 Brussels Sprouts](#57-brussels-sprouts) *(Cody's — bacon grease, tallow, or butter)* | 🟢 | 10 min | 12 min *(~17 min when fresh bacon is crisped first)* | — | 25 min |
 | [§7.87 Smoked Salmon Mousse Canapés](#787-smoked-salmon-mousse-canapés) *(Meathead)* | 🟢 | 20 min | 3 min | — | ~2 hr *(includes chilling the mousse until firm)* |
@@ -1030,8 +1033,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) | 🟢 | 20 min | 5 min | — | 25 min *(using pork already cooked via §6.2)* |
 | [§5.33 Quick and Smoky Baked Beans](#533-quick-and-smoky-baked-beans) | 🟢 | 15 min | 10 min | **30 min** *(smoke-roast, indirect grill)* | 55 min *(+ 1 hr wood chip soak, in parallel)* |
 | [§4.8 Shrimp & Crab Butter Cream Sauce](#48-shrimp-and-crab-butter-cream-sauce) | 🟡 | 15 min | 10 min | — | 25 min |
-| [§8.1 Chili Mac & Frito Pie](#81-chili-mac--frito-pie) *(the assembly, with the chili already made — [§8.47 Frito Pie](#847-frito-pie) merged in here 2026-09-12)* | 🟢 | 10 min | 5–15 min | — *(the chili's 4 hr crock pot is [§8.48](#848-codys-chili)'s)* | 15 min on chips · 25 min on noodles |
-| [§8.48 Cody's Chili](#848-codys-chili) | 🟢 | 15 min | 15 min | **4 hr** *(crock pot — the chili only, not the pasta)* | 4 hr 30 min |
 | [§7.17 White Beans (Slow Cooker)](#717-white-beans-slow-cooker-ham--white-beans) | 🟢 | 10 min | 15 min | **8 hr** *(crock pot)* | 8½ hr |
 | [§7.50 Asian Flavor Baby Back Ribs](#750-asian-flavor-baby-back-ribs) | 🟢 | 25 min | — | **1¼–1½ hr** *(indirect grill; ~2–3 hr for Cody's preferred St. Louis/spare ribs)* | 2 hr *(+ 6–12 hr marinate)* |
 | [§T23 Prepare and Fill Sausage Casings](#t23-how-to-prepare-and-fill-sausage-casings-lagniappe) | 🟢 | 25 min | — | — | 25 min |
@@ -1100,6 +1101,8 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§5.26 Pickled Okra](#526-pickled-okra) | 🟢 | 20 min | 10 min | **2–3 weeks** *(pickles in the jar)* | 2–3 weeks *(+ 1 hr ice-water soak)* |
 | [§5.45 Grilled Romaine Salad](#545-grilled-romaine-salad) *(Meathead)* | 🟢 | 20 min | 10 min | — | 30 min |
 | [§4.186 Thai Sweet Chile Sauce (Nam Jim Kai)](#4186-thai-sweet-chile-sauce-nam-jim-kai) *(The Meathead Method)* | 🟢 | 20 min | 10 min *(bring to a simmer, then 5 min)* | — | 30 min *(as printed; best after a day in the fridge)* |
+| [§8.48 Cody's Chili](#848-codys-chili) | 🟢 | 15 min | 15 min | **4 hr** *(crock pot — the chili only, not the pasta)* | 4 hr 30 min |
+| [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
 | [§7.123 Kufte Kebabs](#7123-kufte-kebabs) | 🟢 | 25 min | 8 min | — | 35 min |
 | [§10.12 Grilled Grits](#1012-grilled-grits) | 🟡 | 15 min | 18 min | **4 hr – 2 days** *(chilling the slab firm; not optional)* | 4½ hr minimum |
 | [§3.D Darcy's Steak — sous vide variation](#d-variation--darcys-sous-vide-steak-the-ice-cooler-method) | 🟢 | 15 min | 20 min | **4–6 hr** *(sous vide, unattended)* | 5–6½ hr *(+ an optional overnight ice-cooler chill — Step 4)* |
@@ -1166,7 +1169,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.134 Afterburner Fajitas](#7134-afterburner-fajitas) *(The Meathead Method)* | 🟡 | 20 min | 20 min | — | ~3 hr 40 min *(includes a 1–3 hr marinate)* |
 | [§4.72 Sauce Ragoût (Brown Sauce 2)](#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2) | 🟡 | 20 min | 20 min | **2–4 hr** *(simmer, skimming)* | 3–5 hr |
 | [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp) *(Cody's — egg soak, almond-flour dredge, avocado oil)* | 🟡 | 25 min *(includes the 7–15 min egg soak, unattended)* | 15 min | — | 40 min |
-| [§14.29 Roast It on a Bed of Fig Leaves](#1429-roast-it-on-a-bed-of-fig-leaves) | 🟢 | 10 min | 15–30 min *(oven, unattended)* | — | 25–40 min |
+| [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
 | [§4.125 Chocolate Chile Barbecue Sauce](#4125-chocolate-chile-barbecue-sauce) | 🟢 | 10 min | 35 min | — | 45 min |
 | [§4.126 Grand Marnier Glaze](#4126-grand-marnier-glaze) | 🟢 | 5 min | 40 min *(simmer, strain, reduce)* | — | 45 min |
 | [§5.11 Sweet Potato Casserole](#511-sweet-potato-casserole) 🦃 | 🟢 | 20 min | 25 min | — | 45 min |
@@ -1199,7 +1202,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.103 Stuffed Pork Loin Roast](#7103-stuffed-pork-loin-roast) *(Meathead)* | 🟡 | 45 min | — | **~2 hr** *(indirect grill, unattended)* | 2 hr 45 min *(+ 3 hr dry brine)* |
 | [§5.46 Fire-Roasted Eggplant Baba Ghanoush](#546-fire-roasted-eggplant-baba-ghanoush) *(Meathead)* | 🟢 | 20 min | 25 min | — | 45 min |
 | [§8.45 Seafood Courtbouillon](#845-seafood-courtbouillon) | 🟢 | 20 min | 25 min | **3–4 hr** *(the printed simmer, unattended)* | 4 hr 30 min |
-| [§15.7 Yorkshire Pudding on the Grill](#157-yorkshire-pudding-on-the-grill) | 🟡 | 10 min | 25–35 min | — | 1 hr 5 min – 1 hr 15 min *(includes a 30 min batter chill)* |
+| [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 30–40 min | — | 2–3 hr *(includes the printed 1–2 hr dry brine)* |
 | [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) | 🟡 | 20 min | 28 min | — | 48 min |
 | [§14.21 Lori's Chocolate Midnight Cake](#1421-loris-chocolate-midnight-cake) | 🟢 | 20 min | 28 min | — | 50 min *(plus full cooling and up to 2 hr chill before filling — not active work)* |
 | [§9.8 Jalapeño Poppers](#98-jalapeño-poppers) ❤️ | 🟢 | 20 min | 30 min | — | 50 min |
@@ -1213,9 +1216,9 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.34 Rolled Flank Steak with Pesto](#734-rolled-flank-steak-with-pesto) | 🟡 | 30 min | 20 min | — | 1 hr |
 | [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) *(Meathead)* | 🟡 | 20 min | 30 min | — | 1 hr *(printed TAKES)* |
 | [§14.34 Poach It in Wine](#1434-poach-it-in-wine) | 🟢 | 20 min | 30 min *(varies hugely by fruit)* | **up to 2½ hr** *(quince only)* | 1 hr *(up to ~3 hr for quince)* |
-| [§7.118 Simon & Garfunkel Chicken](#7118-simon--garfunkel-chicken) *(Meathead)* | 🟢 | 10 min | 30–40 min | — | 2–3 hr *(includes the printed 1–2 hr dry brine)* |
 | [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) *(Cody's revision — sous vide since 2026-09-12; [§2.D](#d-variation--geoffs-original-simmer) keeps Geoff's original simmer, 25 min prep / 1 hr 10 min cook)* | 🟡 | 35 min | 15 min | **36 hr** *(sous vide at 155°F, unattended)* | ~2 days *(includes an overnight chill between the bath and the wok — 4 hr is the floor)* |
 | [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) | 🟡 | 40 min | 12 min | — | 5–7 hr *(4–6 hr marinate)* |
+| [§4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce) *(Meathead)* | 🟢 | 10 min | 40–45 min | — | 45–55 min *(the source prints TAKES about 45 minutes)* |
 | [§8.9 Duck Soup with Cabbage, Ham & Chinese Rice Noodles](#89-duck-soup-with-cabbage-ham--chinese-rice-noodles) | 🟢 | 20 min | 35 min | **4 hr** *(broth simmer)* | 5 hr *(or spread across 2 days)* |
 | [§4.4 Salsa Marinara](#44-salsa-marinara-marinara-sauce) | 🟢 | 10 min | 45 min | — | 55 min |
 | [§5.56 Cherry Tomato Confit](#556-cherry-tomato-confit) | 🟢 | 15 min | 40 min | — | 55 min |
@@ -1231,14 +1234,13 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.27 Panéed Veal with Czarina Sauce](#727-panéed-veal-with-czarina-sauce) | 🟡 | 20 min | 35 min | — | 55 min |
 | [§14.18 Old Fashioned Sweet Dough Pie Crust](#1418-old-fashioned-sweet-dough-pie-crust) | 🟢 | 20 min | 35 min | — | 55 min |
 | [§4.54 Ragù Bolognese](#454-ragù-bolognese) | 🟢 | 20 min | 35 min | **6–7 hr** *(simmer)* | 7 hr |
-| [§4.181 Japanese Happy Mouth Yakitori Sauce](#4181-japanese-happy-mouth-yakitori-sauce) *(Meathead)* | 🟢 | 10 min | 40–45 min | — | 45–55 min *(the source prints TAKES about 45 minutes)* |
 | [§7.35 Whole Beef Tenderloin](#735-whole-beef-tenderloin-peppered--grilled) | 🟡 | 20 min | 35 min | — | 55 min *(or up to 3 days if serving cold)* |
 | [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) *(Meathead)* | 🟡 | 10 min | 45 min | — | 1 hr 45 min – 2 hr 45 min *(includes a 1–2 hr dry brine)* |
 | [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) *(Meathead)* | 🟢 | 10 min | 45 min | — | ~3 hr *(includes a ~2 hr salt soak)* |
 | [§3 Darcy's Steak — stovetop reverse sear (the body)](#3-darcys-steak) | 🟢 | 10 min | 45 min | — | ~55 min |
+| [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(Meathead)* | 🟡 | 5 min | 45–60 min | — | 2 hr 50 min *(includes a 2 hr wet brine)* |
 | [§7.54 Boeuf Bourguignon](#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms) | 🟡 | 45 min | 15 min | **2¾ hr** *(braise, mostly unattended)* | 3 hr 45 min |
 | [§9.20 Pickled Shrimp & Celery](#920-pickled-shrimp--celery) | 🟢 | 20 min | 40 min | — | ~2 hr *(includes about a 1 hr pickle in the fridge)* |
-| [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 25 min | 40 min | — | 1 hr 10 min |
 | [§7.40 Shrimp Risotto](#740-shrimp-risotto) | 🟡 | 15 min | 45 min | — | 1 hr |
 | [§7.144 Mussels with Smoked Fettuccine](#7144-mussels-with-smoked-fettuccine) *(The Meathead Method)* | 🟡 | 15 min | 45 min | **2 hr** *(smoking the water, unattended)* | ~3 hr |
 | [§5.27 Smothered Eggplant, Onion & Bell Pepper](#527-smothered-eggplant-onion--bell-pepper) | 🟢 | 25 min | 35 min | — | 1 hr |
@@ -1262,10 +1264,10 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§10.11 Garlic Cheese Grits](#1011-garlic-cheese-grits) | 🟢 | 10 min | 55 min | — | 1 hr 5 min |
 | [§7.64 Seafood Stuffed Eggplant](#764-seafood-stuffed-eggplant) | 🟢 | 25 min | 40 min | — | 1 hr 5 min |
 | [§7.49 "Brunette" de Veau](#749-brunette-de-veau) | 🟡 | 15 min | 50 min | **~2½ hr** *(braise, unattended)* | 3 hr 20 min |
-| [§7.99 Kermit's Second-Favorite Pork Chops](#799-kermits-second-favorite-pork-chops) *(Meathead)* | 🟡 | 5 min | 45–60 min | — | 2 hr 50 min *(includes a 2 hr wet brine)* |
 | [§14.25 Marshmallowy Meringues](#1425-marshmallowy-meringues) | 🟡 | 15 min | 50 min *(low-oven dry-bake, mostly unattended)* | — | 1 hr 5 min |
 | [§7.109 Chateaubriand with Compound Butter](#7109-chateaubriand-with-compound-butter) *(Meathead)* | 🟡 | 5 min | 1 hr | — | 5–7 hr *(includes a 4–6 hr dry brine)* |
 | [§8.32 Potato Soup](#832-potato-soup) | 🟢 | 25 min | 40 min *(20 of it an unattended simmer)* | — | 1 hr 5 min |
+| [§8.13 Lobster Stew](#813-lobster-stew) | 🟡 | 25 min | 40 min | — | 1 hr 10 min |
 | [§14.9 Pecan Pie I](#149-pecan-pie-i) | 🟢 | 15 min | 52 min | — | 1 hr 10 min |
 | [§8.17 Minted Sweet Pea and Spinach Soup](#817-minted-sweet-pea-and-spinach-soup) | 🟢 | 15 min | 55 min | — | 1 hr 10 min |
 | [§15.1 Plain French Bread](#151-plain-french-bread-pain-français) | 🟡 | 45 min | 25 min | **6–9 hr** *(three rises — the waiting is the method)* | ~7 hr *(+ 2–3 hr cool)* |
@@ -1274,6 +1276,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.53 Simple Tomato Sauce](#453-simple-tomato-sauce) | 🟢 | 10 min | 1 hr | — | 1 hr 10 min *(or up to 3 hr for a thicker sauce)* |
 | [§7.79 Short Rib Ragù](#779-short-rib-ragù) | 🟡 | 15 min | 55 min | **24–30 hr** *(sous vide, unattended)* | ~25–31 hr |
 | [§7.55 Boeuf à la Mode](#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine) | 🟢 | 20 min | 50 min | **2¾ hr** *(braise, mostly unattended)* | 4 hr *(+ 6–24 hr marinate)* |
+| [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§8.35 Tomato Basil Soup](#835-tomato-basil-soup-1-huge-12-qt-pot) | 🟢 | 40 min | 35 min | — | 1 hr 15 min |
 | [§7.90 Smoked Salmon Quiche](#790-smoked-salmon-quiche) *(Meathead)* | 🟢 | 30 min | 45 min | — | 1 hr 30 min *(includes a 15 min cooling rest)* |
 | [§8.5 Cajun Seafood Gumbo](#85-cajun-seafood-gumbo-with-andouille-smoked-sausage) | 🔴 | 30 min | 45 min | — | 1 hr 15 min |
@@ -1291,12 +1294,12 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§4.83 Coulis de Tomates à la Provençale](#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs) | 🟢 | 25 min | 55 min | — | 1 hr 20 min |
 | [§7.102 Pesto-Crusted Pork Loin Roast](#7102-pesto-crusted-pork-loin-roast) *(Meathead)* | 🟢 | 20 min *(inject, slather, wrap, tie)* | 1 hr *(indirect at 225°F, unattended)* | — | 4¼ hr *(includes a 3 hr rest after injecting)* |
 | [§9.32 Coconut Beer Shrimp](#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce) | 🟡 | 55 min | 25 min | — | 1 hr 20 min |
+| [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ | 🟢 | 15 min | 1 hr – 1 hr 15 min *(400°F on a rack, one flip halfway; start checking at 45 min and pull each wing as it crisps)* | — | 1 hr 30 min *(+ an overnight 8–24 hr uncovered fridge dry-brine, and ~1 hr to bring an Egg up to temp)* |
 | [§7.28 Chicken Sauce Piquant](#728-chicken-sauce-piquant) | 🟡 | 30 min | 55 min | — | 1 hr 25 min |
 | [§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](#532-oyster-dressing-for-10-to-12-lb-turkey) | 🟢 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.20 Chicken & Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) | 🟢 | 30 min | 55 min | — | 1 hr 25 min |
 | [§7.52 Chicken Marbella](#752-chicken-marbella) | 🟢 | 30 min | 55 min | — | 1 hr 25 min *(+ overnight marinate)* |
 | [§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin) *(The Meathead Method)* | 🟡 | 15 min | 1 hr 10 min | — | 3 hr 25 min – 5 hr 25 min *(includes a 2–4 hr dry brine)* |
-| [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) ❤️ | 🟢 | 15 min | 1 hr – 1 hr 15 min *(400°F on a rack, one flip halfway; start checking at 45 min and pull each wing as it crisps)* | — | 1 hr 30 min *(+ an overnight 8–24 hr uncovered fridge dry-brine, and ~1 hr to bring an Egg up to temp)* |
 | [§4.127 Cascabel Mole (inspired by Chef Rick Bayless)](#4127-cascabel-mole-inspired-by-chef-rick-bayless) | 🟡 | 30 min | 1 hr | — | 1 hr 30 min |
 | [§8.37 Chicken and Garlic Soup](#837-chicken-and-garlic-soup) | 🟢 | 20 min | 1 hr 10 min *(mostly a low simmer)* | — | 1 hr 30 min |
 | [§7.62 Catfish Étouffée](#762-catfish-étouffée) | 🟡 | 25 min | 1 hr 5 min | — | 1 hr 30 min |
@@ -1308,7 +1311,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) | 🟢 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
 | [§8.30 Turtle Soup I](#830-turtle-soup-i) | 🟢 | 20 min | 1 hr 15 min | — | 1 hr 35 min |
 | [§9.24 Crab Marie](#924-crab-marie) | 🟡 | 15 min | 1 hr 20 min | — | 1 hr 35 min |
-| [§7.108 Santa Maria Tri-Tip](#7108-santa-maria-tri-tip) *(Meathead)* | 🟡 | 5 min | 45–90 min | — | 1 hr 50 min – 3 hr 30 min *(includes a 1–2 hr dry brine)* |
 | [§7.56 Coq au Vin](#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon) | 🟡 | 25 min | 1 hr 15 min | — | 1 hr 40 min |
 | [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) ❤️ | 🔴 | 1 hr | 45 min | — | 4 hr *(chills twice)* |
 | [§8.27 Green Gumbo](#827-green-gumbo) | 🟡 | 20 min | 1 hr 30 min | — | 1 hr 50 min |
@@ -1341,8 +1343,6 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 | [§8.43 Crawfish Bisque II](#843-crawfish-bisque-ii) | 🟡 | 1 hr 30 min | 2 hr *(estimated — the page prints no times)* | — | 3 hr 30 min |
 | [§7.114 Prime Rib](#7114-prime-rib) *(Meathead)* | 🟡 | 1 hr | 2–3 hr | — | 1–2 days *(includes a 24–48 hr dry brine)* |
 | [§8.19 Crawfish Bisque](#819-crawfish-bisque-bisque-décrevisses) | 🟡 | 3 hr | 1 hr 30 min | **~1 hr** *(stock reduction, unattended)* | 1 to 2 days |
-| [§14.3 Classic Tuiles](#143-classic-tuiles) | 🔴 | 15 min | ? | — | *unknown — recipe incomplete, see Open Questions* |
-| [§15.3 Basic Biscuits (Cheese or Bacon Variation)](#153-basic-biscuits-cheese-or-bacon-variation) | 🟢 | ? | 12 min *(10–15 min bake, printed)* | — | *unknown — recipe incomplete, see Open Questions* |
 
 ### Reading this table
 
@@ -1383,7 +1383,7 @@ Every written-up recipe, **sorted by prep + cook** — the time that actually co
 
 **⚠️ Note: ⭐ means something else in this cookbook.** In the grocery lists of [§T8](#t8-pan-sauce-formula), [§8.0](#80-the-hearty-main-course-soup-formula), [§10.0](#100-the-loaded-frittata-formula), [§T11](#t11-how-to-sauté-master-technique-for-sautéed-cuts), and [§T12](#t12-fast-homemade-chicken-broth), ⭐ marks a **pantry staple worth keeping on hand permanently** — nothing to do with how much anyone likes it. Two entries used to carry ⭐ as a favorites marker; those are now ❤️, so the star has one meaning again.
 
-### ❤️ Family favorites — 90
+### ❤️ Family favorites — 91
 
 **Mains & proteins:** [§1 Cody's Pho](#1-codys-pho) · [§2 Geoff's Pork Belly Thai Basil](#2-geoffs-pork-belly-thai-basil) · [§3 Darcy's Steak](#3-darcys-steak) · [§7.1 Pulled Pork Tacos](#71-pulled-pork-tacos) · [§7.3 Seafood Stuffed Flounder](#73-seafood-stuffed-flounder) · [§7.5 Chicken Thighs](#75-chicken-thighs) · [§7.6 Chicken Hearts](#76-chicken-hearts) · [§7.8 Fried Catfish](#78-fried-catfish) · [§7.9 Caveman Chicken Wings](#79-caveman-chicken-wings) · [§7.11 Corned Beef and Cabbage](#711-corned-beef-and-cabbage) · [§7.13 Crawfish Elegante](#713-crawfish-elegante) · [§7.15 Pauls Jambalaya](#715-pauls-jambalaya) · [§7.16 Red Beans & Rice](#716-red-beans--rice) · [§7.17 White Beans](#717-white-beans-slow-cooker-ham--white-beans) · [§7.18 Spaghetti](#718-spaghetti) · [§7.19 Honey Chicken Kabobs](#719-honey-chicken-marinade--kabobs) · [§7.20 Chicken and Seafood Jambalaya](#720-chicken-and-seafood-jambalaya) · [§7.22 Captain Mike's Ceviche](#722-captain-mikes-ceviche) · [§7.30 Basil-Grilled Tuna](#730-basil-grilled-tuna-with-arugula-salad) · [§7.31 Salmon with Mustard Glaze](#731-salmon-with-mustard-glaze) · [§7.32 Herb-Crusted Beef Tenderloin](#732-herb-crusted-grilled-beef-tenderloin) · [§7.59 Mediterranean Pork Tenderloin Platter](#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared) · [§7.61 Broiled Fish](#761-broiled-fish) · [§7.95 Perfect Pulled Pork](#795-perfect-pulled-pork) · [§7.97 Last-Meal Ribs](#797-last-meal-ribs) · [§7.104 Smoked Bone Broth](#7104-smoked-bone-broth) · [§7.106 Big, Thick Steakhouse Steaks](#7106-big-thick-steakhouse-steaks) · [§7.115 The Great American Steakhouse Steakburger](#7115-the-great-american-steakhouse-steakburger) · [§7.117 Championship Bacon-Wrapped Stuffed Shrimp](#7117-championship-bacon-wrapped-stuffed-shrimp) · [§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](#7119-big-bob-gibsons-chicken-in-bama-white-sauce) · [§7.124 Poulet de France](#7124-poulet-de-france) · [§7.152 Gluten-Free Fried Shrimp](#7152-gluten-free-fried-shrimp)
 
@@ -16484,7 +16484,7 @@ Keeping the gaps visible so the chapter reads as one piece rather than a pile of
 - **Cold flavored butters (*beurres composés*, p. 99)** — the source's short intro on using them on hot dishes and for basting. This cookbook's [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter) already cover the group itself.
 - **Cream sauce (source p. 59)** — offered as an alternative base in [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) and [§4.67 Sauce Chivry](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce). Both work fine on plain [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) in the meantime.
 - **A second Sauce Soubise (source p. 355)** — the book prints an alternate version in its Veal section. [§4.69](#469-sauce-soubise-onion-sauce) is the sauce-chapter one.
-- **Clarified butter (p. 15)**, **meat glaze (p. 110)**, **brown stock (p. 107–110)**, **white stocks (p. 109, 114, 115, 237)**, and **peeling/seeding tomatoes (p. 505)** — supporting techniques the recipes cite. [§T12](#t12-fast-homemade-chicken-broth) and [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) cover the stock ground already.
+- **Clarified butter (p. 15)**, **meat glaze (p. 110)**, **brown stock (p. 107–110)**, **white stocks (p. 109, 114, 115, 237)**, — supporting techniques the recipes cite. *(**Peeling/seeding tomatoes, p. 505–506, is no longer open** — it's transcribed in full at [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole)'s Step 2, with both of the source's illustrations embedded.)* [§T12](#t12-fast-homemade-chicken-broth) and [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) cover the stock ground already.
 - **The five sauces in section I above**, plus Sauce Chasseur — all real recipes, just printed in other chapters.
 
 *No Nutrition block or difficulty badge on this one — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T7](#t7-louisiana-language--ingredients), it's pure reference rather than something you cook, so it stays out of the [Difficulty & Time Index](#difficulty--time-index) counts. The sauces built from it carry their own.*
@@ -16499,7 +16499,7 @@ Keeping the gaps visible so the chapter reads as one piece rather than a pile of
 **Tags:** `omelette` · `eggs` · `formula` · `french` · `pan-technique`
 **Source:** Mastering the Art of French Cooking, Chapter Three: Eggs, p. 126–135 — the same chapter and source as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche).
 
-> **This entry's illustrations are embedded below**, at the steps they teach — not just described in prose. They're straight crops of the photographed pages.
+> **This entry's illustrations are embedded below**, at the steps they teach — not just described in prose. They're the photographed pages themselves, embedded whole.
 
 *"A good French omelette is a smooth, gently swelling, golden oval that is tender and creamy inside. And as it takes less than half a minute to make, it is ideal for a quick meal. There is a trick to omelettes, and certainly the easiest way to learn is to ask an expert to give you a lesson. Nevertheless we hope one of the two techniques we describe will enable you, if you have never made an omelette before, to produce a good one."*
 
@@ -16538,7 +16538,7 @@ Place the butter in the pan and set over very high heat. If you have an electric
 **3. Stir continuously, sliding the pan over the heat.**
 Hold the panhandle with your left hand, thumb on top, and immediately start sliding the pan back and forth rapidly over the heat. At the same time, with the fork in your right hand, its flat side against the bottom of the pan, stir the eggs quickly to spread them continuously all over the bottom of the pan as they thicken. **In 3 or 4 seconds they'll become a light, broken custard.** *(A filling would go in at this point, if you're using one.)*
 
-![Placing butter in the pan over very high heat, and sliding the pan back and forth while stirring with a fork](images/omelette/omelette-p130-131.jpg)
+![Placing butter in the pan over very high heat, sliding the pan while stirring with a fork, then tilting it to 45 degrees to gather the eggs at the far lip](images/omelette/omelette-p130-131.jpg)
 *Source pages 130–131: heating the butter to the point of coloring, then sliding the pan while stirring — Steps 2–4 above.*
 
 **4. Tilt and gather the eggs at the far lip.**
@@ -16551,13 +16551,13 @@ Give 4 or 5 short, sharp blows on the handle of the pan with your right fist to 
 Hold the pan tilted over the heat for 1 or 2 seconds to brown the bottom of the omelette very lightly — not too long, or the eggs will overcook. **The center of the omelette should remain soft and creamy.** Turn the omelette onto the plate as described in Section E below, rub the top with a bit of softened butter, and serve as soon as possible.
 
 ![Giving the pan handle sharp blows with a fist to loosen the omelette and curl its edge over](images/omelette/omelette-p132-133.jpg)
-*Source pages 132–133: the end of Method I (loosening the omelette with sharp blows) sits just above where Method II begins on the facing page — its own eggs-settling moment is Method II's Step 3 below.*
+*Source pages 132–133: the end of Method I (loosening the omelette with sharp blows) sits just above where Method II begins at the foot of the same page — the facing page carries Method II's dried-beans practice note, its ingredient list, and the eggs-settling moment that is its Step 3 below.*
 
 #### D. Method II — L'Omelette Roulée (Rolled Omelette)
 
 *This omelette should be made in a French omelette pan; a high gas flame is usually more successful than an electric heat element.* **The most fun of any method, but it requires more practice** — here the pan is jerked over high heat at an angle so the egg mass is continually hurled against the far lip of the pan until the eggs thicken; finally, as the pan tilts further while being jerked, the eggs roll over on themselves to form an omelette shape.
 
-*"A simple-minded but perfect way to master the movement is to practice outdoors with half a cupful of dried beans. As soon as you're able to make them flip over themselves in a group, you have the right feeling; but the actual omelette-making gesture is sharper and rougher."*
+*"A simple-minded but perfect way to master the movement is to practice outdoors with half a cupful of dried beans. As soon as you are able to make them flip over themselves in a group, you have the right feeling; but the actual omelette-making gesture is sharper and rougher."*
 
 **For 1 omelette, 1 to 2 servings. Time: less than 30 seconds of cooking.**
 
@@ -21801,6 +21801,8 @@ Peel the eggplant and cut into lengthwise slices ⅜ inch thick, about 3 inches 
 
 **2. Peel, seed, and juice the tomatoes.**
 Drop the tomatoes one or two at a time into boiling water and boil for exactly 10 seconds, then lift out and cut out the stem — the skin loosens from the blanching and peels off easily starting at the stem hole.
+
+> **This entry's illustrations are embedded below**, at the steps they teach — the same treatment as [§T25 The French Omelette](#t25-the-french-omelette-two-methods) and [§15.1 Plain French Bread](#151-plain-french-bread-pain-français). These two are genuine crops of the source's own drawings.
 
 ![A hand peeling the loosened skin off a tomato after a 10-second blanch, starting from the stem hole](images/ratatouille/p505-to-peel-tomatoes.jpg)
 *Source page 505, "To Peel Tomatoes" — after a 10-second blanch, the skin is loosened and peels off easily.*
@@ -45393,90 +45395,6 @@ Bake in the **upper third** of the preheated oven for 25 to 30 minutes, until th
 
 ---
 
-### 10.13 Quiche aux Oignons (Onion Quiche)
-
-*Numbered 10.13 — the next free number in §10 — but shelved here beside the other two quiches rather than tacked onto the end of the section, since all three come off the same few pages of the same book and are read together. This cookbook's practice is to append at the next real number rather than renumber and break existing links.*
-
-Transcribed from **Mastering the Art of French Cooking**, pp. 150–151 — the *Quiches* section of Chapter Four: Entrées and Luncheon Dishes, the same run of pages as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche). It is printed directly beneath §10.8 on p. 150 and finishes on p. 151.
-
-> ✅ **2026-09-08 transcribed and verified against Cody's photographs of pp. 150 and 151.** New to this cookbook — checked against every existing entry before adding, and neither this recipe nor its French title appears anywhere else in the book.
-
-> **Two pounds of onions cooked down for an hour is the entire recipe.** Everything else — the eggs, the cream, the cheese, the shell — is the same custard-in-a-crust the other two quiches use. What makes this one is a slow, patient hour over **very low heat** until 7 cups of raw minced onion collapse into something extremely tender and golden yellow. Rush that and you get browned, slightly bitter onions in a pale custard, which is a different and worse dish. The source's chapter intro names *"tomatoes and onions"* among the combinations a quiche can be built from, and this is that idea taken seriously.
-
-> **The same pastry shell as its two neighbors:** an 8-inch partially cooked shell on a baking sheet, the source's page 146 — transcribed here in full at [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking). Note that the source calls it a *tart shell* in this recipe's own method and a *pastry shell* in its ingredient list; it's the same thing.
-
-**Yield:** for 4 to 6 servings
-
-**🟡 Medium** · **Prep ~25 min** *(mincing 2 lbs of onions — about 7 cups — is nearly all of this; plus grating the cheese and beating the custard, and not counting the pastry shell)* · **Cook ~1 hr 35 min** *(about an hour cooking the onions down, 2–3 min with the flour, then a 25–30 min bake)* · **Start to finish ~2 hr** *(plus making and partially baking the pastry shell — see [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking))*
-
-> **Why 🟡 Medium, same as the other two quiches.** The custard is the fail point — overbake it and the eggs tighten and weep, with no fixing it afterward. The hour of onions adds a second, slower window: it's a long stretch where the only thing that can go wrong is walking away and letting the heat creep up. Neither is a one-minute disaster, so it isn't 🔴; neither is risk-free, so it isn't 🟢.
-
-#### A. Ingredients
-
-- 2 lbs minced onions (about 7 cups)
-- 3 Tbsp butter
-- 1 Tbsp oil
-- 1½ Tbsp flour
-- 2 eggs, **or** 3 egg yolks
-- ⅔ cup whipping cream
-- 1 tsp salt
-- ⅛ tsp pepper
-- Pinch of nutmeg
-- 2 ounces (½ cup) grated Swiss cheese
-- An 8-inch partially cooked pastry shell, on a baking sheet — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) *(source p. 146)*
-- 1 Tbsp butter, cut into pea-sized dots
-
-#### B. Cooking Instructions
-
-**1. Cook the onions down. About an hour.**
-Cook the onions in a heavy skillet with the oil and butter over **very low heat**, stirring occasionally, until they are **extremely tender and a golden yellow**. This will take about an hour. Very low is the whole instruction — you are not browning them, you are melting them. Golden yellow, not brown; if they're taking colour at the edges the heat is too high. Stirring occasionally is enough at this temperature, so this hour is mostly free.
-
-**2. Sprinkle on the flour and cook it out. 2 to 3 minutes.**
-Sprinkle the onions with the flour, mix well, and cook slowly for 2 or 3 minutes. Allow to cool slightly. The flour is here to hold the onions' liquid so the custard doesn't go watery — it isn't a roux and won't colour in three minutes over this heat.
-
-**3. Preheat the oven to 375°F.**
-
-**4. Beat the custard.**
-Beat the eggs or egg yolks in a mixing bowl with the cream, salt, pepper, and nutmeg until blended.
-
-**5. Mix in the onions and half the cheese.**
-Gradually mix in the onions and **half** of the grated Swiss cheese. Check the seasoning. Gradually matters — the onions are still warm, and dumping them in at once will start to cook the eggs.
-
-**6. Fill the shell, and top with the rest of the cheese and the butter.**
-Pour into the tart shell. Spread on the rest of the cheese and distribute the 1 Tbsp of butter, cut into pea-sized dots, over it. The reserved cheese and the butter dots are what brown the top.
-
-**7. Bake. 25 to 30 minutes.**
-Bake in the **upper third** of the preheated oven for 25 to 30 minutes, until the quiche has **puffed and browned**. Per [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche)'s note from the same chapter, a knife plunged into the center comes out clean when it's done, it holds its puff about 10 minutes in the turned-off oven with the door ajar, and it sinks as it cools — normal, not a failure.
-
-#### C. Grocery Shopping List
-
-**🛒 General grocery**
-
-- 🛒 Onions — 2 lbs *(about 7 cups minced — buy the full two pounds, they cook down to almost nothing)*
-- 🛒 Butter — 3 Tbsp for the onions, plus 1 Tbsp for the top
-- 🛒 Oil — 1 Tbsp
-- 🛒 Flour — 1½ Tbsp
-- 🛒 Eggs — 2, or 3 for the yolks
-- 🛒 Whipping cream — ⅔ cup
-- 🛒 Swiss cheese — 2 oz (½ cup grated)
-- 🛒 Salt, pepper, nutmeg
-- Everything for an 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) — see its own grocery list
-
-#### Nutrition *(estimated)*
-
-| | Calories | Fat | Protein | Carbs | Fiber |
-|---|---|---|---|---|---|
-| **Whole dish** | ~2,880 | 210 g | 54 g | 195 g | 18 g |
-| **Per serving** *(serves 5, midpoint of 4–6)* | ~575 | 42 g | 11 g | 39 g | 3.6 g |
-
-**What a serving is:** one wedge — about a fifth of an 8-inch quiche — with a salad alongside, the way the source's chapter intro serves all of these.
-
-*This is the carbiest of the three quiches by a wide margin, and it isn't the crust's fault — two pounds of onions cooked down to sweetness bring roughly 85 g of carbohydrate and most of the fiber in the dish. The pastry shell and the cream carry the rest.*
-
-[↑ Table of Contents](#table-of-contents)
-
----
-
 ### 10.9 Chocolate Gravy and Biscuits
 > *Placeholder — details forthcoming.* Ingredients · Instructions · Grocery list all to be documented.
 
@@ -45665,6 +45583,90 @@ Brush and oil the grate well. Brush both sides of the grits with some of the rem
 | **Per serving** *(serves 6, as printed)* | ~355 | 9 g | 7 g | 59 g | 3 g |
 
 **What a serving is:** two or three grilled pieces cut from the slab. *The variations add on top of this — the cheese versions roughly 35 calories per serving, the corn about 25.*
+
+[↑ Table of Contents](#table-of-contents)
+
+---
+
+### 10.13 Quiche aux Oignons (Onion Quiche)
+
+*Numbered 10.13 — the next free number in §10 — but shelved here beside the other two quiches rather than tacked onto the end of the section, since all three come off the same few pages of the same book and are read together. This cookbook's practice is to append at the next real number rather than renumber and break existing links.*
+
+Transcribed from **Mastering the Art of French Cooking**, pp. 150–151 — the *Quiches* section of Chapter Four: Entrées and Luncheon Dishes, the same run of pages as [§10.7 Quiche Lorraine](#107-quiche-lorraine-cream-and-bacon-quiche) and [§10.8 Quiche aux Fruits de Mer](#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche). It is printed directly beneath §10.8 on p. 150 and finishes on p. 151.
+
+> ✅ **2026-09-08 transcribed and verified against Cody's photographs of pp. 150 and 151.** New to this cookbook — checked against every existing entry before adding, and neither this recipe nor its French title appears anywhere else in the book.
+
+> **Two pounds of onions cooked down for an hour is the entire recipe.** Everything else — the eggs, the cream, the cheese, the shell — is the same custard-in-a-crust the other two quiches use. What makes this one is a slow, patient hour over **very low heat** until 7 cups of raw minced onion collapse into something extremely tender and golden yellow. Rush that and you get browned, slightly bitter onions in a pale custard, which is a different and worse dish. The source's chapter intro names *"tomatoes and onions"* among the combinations a quiche can be built from, and this is that idea taken seriously.
+
+> **The same pastry shell as its two neighbors:** an 8-inch partially cooked shell on a baking sheet, the source's page 146 — transcribed here in full at [§T26 Pâte Brisée & Pastry Shells](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking). Note that the source calls it a *tart shell* in this recipe's own method and a *pastry shell* in its ingredient list; it's the same thing.
+
+**Yield:** for 4 to 6 servings
+
+**🟡 Medium** · **Prep ~25 min** *(mincing 2 lbs of onions — about 7 cups — is nearly all of this; plus grating the cheese and beating the custard, and not counting the pastry shell)* · **Cook ~1 hr 35 min** *(about an hour cooking the onions down, 2–3 min with the flour, then a 25–30 min bake)* · **Start to finish ~2 hr** *(plus making and partially baking the pastry shell — see [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking))*
+
+> **Why 🟡 Medium, same as the other two quiches.** The custard is the fail point — overbake it and the eggs tighten and weep, with no fixing it afterward. The hour of onions adds a second, slower window: it's a long stretch where the only thing that can go wrong is walking away and letting the heat creep up. Neither is a one-minute disaster, so it isn't 🔴; neither is risk-free, so it isn't 🟢.
+
+#### A. Ingredients
+
+- 2 lbs minced onions (about 7 cups)
+- 3 Tbsp butter
+- 1 Tbsp oil
+- 1½ Tbsp flour
+- 2 eggs, **or** 3 egg yolks
+- ⅔ cup whipping cream
+- 1 tsp salt
+- ⅛ tsp pepper
+- Pinch of nutmeg
+- 2 ounces (½ cup) grated Swiss cheese
+- An 8-inch partially cooked pastry shell, on a baking sheet — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) *(source p. 146)*
+- 1 Tbsp butter, cut into pea-sized dots
+
+#### B. Cooking Instructions
+
+**1. Cook the onions down. About an hour.**
+Cook the onions in a heavy skillet with the oil and butter over **very low heat**, stirring occasionally, until they are **extremely tender and a golden yellow**. This will take about an hour. Very low is the whole instruction — you are not browning them, you are melting them. Golden yellow, not brown; if they're taking colour at the edges the heat is too high. Stirring occasionally is enough at this temperature, so this hour is mostly free.
+
+**2. Sprinkle on the flour and cook it out. 2 to 3 minutes.**
+Sprinkle the onions with the flour, mix well, and cook slowly for 2 or 3 minutes. Allow to cool slightly. The flour is here to hold the onions' liquid so the custard doesn't go watery — it isn't a roux and won't colour in three minutes over this heat.
+
+**3. Preheat the oven to 375°F.**
+
+**4. Beat the custard.**
+Beat the eggs or egg yolks in a mixing bowl with the cream, salt, pepper, and nutmeg until blended.
+
+**5. Mix in the onions and half the cheese.**
+Gradually mix in the onions and **half** of the grated Swiss cheese. Check the seasoning. Gradually matters — the onions are still warm, and dumping them in at once will start to cook the eggs.
+
+**6. Fill the shell, and top with the rest of the cheese and the butter.**
+Pour into the tart shell. Spread on the rest of the cheese and distribute the 1 Tbsp of butter, cut into pea-sized dots, over it. The reserved cheese and the butter dots are what brown the top.
+
+**7. Bake. 25 to 30 minutes.**
+Bake in the **upper third** of the preheated oven for 25 to 30 minutes, until the quiche has **puffed and browned**. Per [§10.7](#107-quiche-lorraine-cream-and-bacon-quiche)'s note from the same chapter, a knife plunged into the center comes out clean when it's done, it holds its puff about 10 minutes in the turned-off oven with the door ajar, and it sinks as it cools — normal, not a failure.
+
+#### C. Grocery Shopping List
+
+**🛒 General grocery**
+
+- 🛒 Onions — 2 lbs *(about 7 cups minced — buy the full two pounds, they cook down to almost nothing)*
+- 🛒 Butter — 3 Tbsp for the onions, plus 1 Tbsp for the top
+- 🛒 Oil — 1 Tbsp
+- 🛒 Flour — 1½ Tbsp
+- 🛒 Eggs — 2, or 3 for the yolks
+- 🛒 Whipping cream — ⅔ cup
+- 🛒 Swiss cheese — 2 oz (½ cup grated)
+- 🛒 Salt, pepper, nutmeg
+- Everything for an 8-inch partially cooked pastry shell — [§T26](#t26-pâte-brisée--pastry-shells-pie-dough-shaping-and-baking) — see its own grocery list
+
+#### Nutrition *(estimated)*
+
+| | Calories | Fat | Protein | Carbs | Fiber |
+|---|---|---|---|---|---|
+| **Whole dish** | ~2,880 | 210 g | 54 g | 195 g | 18 g |
+| **Per serving** *(serves 5, midpoint of 4–6)* | ~575 | 42 g | 11 g | 39 g | 3.6 g |
+
+**What a serving is:** one wedge — about a fifth of an 8-inch quiche — with a salad alongside, the way the source's chapter intro serves all of these.
+
+*This is the carbiest of the three quiches by a wide margin, and it isn't the crust's fault — two pounds of onions cooked down to sweetness bring roughly 85 g of carbohydrate and most of the fiber in the dish. The pastry shell and the cream carry the rest.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -49016,7 +49018,7 @@ Transcribed from **Mastering the Art of French Cooking, Volume Two** (Julia Chil
 
 > **The rising IS the recipe.** Three rises at around 70°F — 3 to 5 hours, then 1½ to 2, then 1½ to 2½ — and the source is emphatic that shortcutting them is what produces dull-flavored, heavy bread. Per the source's own timing line: *"Count on a minimum of 6½ to 7 hours from the time you start the dough to the time it is ready for the oven, and half an hour for baking."* The hands-on work is well under an hour; everything else is the dough working alone. And you're never trapped: *"All you need to remember is that you are in complete control: you can always push down a partially risen dough; you can slow the action with cold; you can speed it with warmth."*
 
-> **This entry's illustrations are embedded below**, at the steps they teach — the same treatment as [§T25 The French Omelette](#t25-the-french-omelette-two-methods). They're straight crops of the photographed pages, and this recipe is the most heavily illustrated thing in either volume.
+> **This entry's illustrations are embedded below**, at the steps they teach — the same treatment as [§T25 The French Omelette](#t25-the-french-omelette-two-methods). They're the photographed pages themselves, embedded whole, and this recipe is the most heavily illustrated thing in either volume.
 
 **Yield:** for 1 pound of flour, making 3 cups of dough, producing — **3 long loaves** (*baguettes*, 24 × 2 inches, or ***bâtards***, 16 × 3 inches — the size illustrated and timed throughout); or **6 short loaves** (*ficelles*); or **3 round loaves** (*boules*, 7 to 8 inches); or **12 round or oval rolls** (*petits pains*); or **1 large round or oval loaf** (*pain de ménage* or *miche*; *pain boulot*)
 
@@ -49044,7 +49046,7 @@ Stir the yeast into the ⅓ cup warm water and let it liquefy completely while y
 **2. Kneading — pétrissage. 5 to 10 minutes.**
 Start by lifting the near edge of the dough — using a pastry scraper or stiff wide spatula to help — and flipping it over onto itself. Scrape the dough off the surface and slap it down; lift the edge and flip it over again, repeating the movement rapidly. In 2 to 3 minutes the dough should have enough body that you can give it a quick forward push with the heel of your hand as you flip it over. Continue kneading rapidly and vigorously; if the dough remains too sticky, knead in a sprinkling of flour. The whole process takes 5 to 10 minutes, depending on how vigorous and expert you become. Let the dough rest 3 to 4 minutes, then knead again for a minute — the surface should now look smooth. **The dough is fully kneaded when it draws back into shape when pushed, and cleans itself off the kneading surface but still sticks to your fingers if you pinch and hold it** — that's the interlocking gluten web you've been building, and you cannot see it happen, only feel it.
 
-![The bread shapes chart — baguette, bâtard, ficelle, pain boulot and more — plus the fraisage and first kneading movements](images/french-bread/p58-59-fraisage-kneading-shapes.jpg)
+![The bread shapes chart — pain de campagne, joko, pain boulot, ficelle, champignon, pistolet, tire-bouchon, baguette and bâtard — plus the fraisage and first kneading movements](images/french-bread/p58-59-fraisage-kneading-shapes.jpg)
 *Source pages 58–59: every shape this dough can become, the yeast-and-flour mixing, and the flip-and-slap kneading sequence for Steps 1–2.*
 
 **3. First rising — pointage premier temps. 3 to 5 hours at around 70°F.**
@@ -49057,15 +49059,15 @@ The dough is ready to be deflated, which releases the yeast-engendered gases and
 *Source pages 60–61: what "fully risen" looks like through a glass bowl, and the deflating moves of Step 4.*
 
 **5. Cutting and resting the dough before forming loaves.**
-Loosen the dough all around the inside of the bowl and turn it out onto a lightly floured surface. Because of its two long rises it will have much more body now. If it's damp and sweaty, sprinkle lightly with flour. Making clean, sure cuts with a large knife or scraper, divide the dough into 3 equal pieces (for long loaves — or whatever count your chosen shape calls for). After each cut, lift one end of the piece and flip it over onto its opposite end to fold it in two; place it at the far side of the work surface. Cover loosely with plastic and let rest **5 minutes** before forming — this relaxes the gluten enough for shaping, but not so long that the dough starts rising again.
+Loosen the dough all around the inside of the bowl and turn it out onto a lightly floured surface. Because of its two long rises it will have much more body now. If it's damp and sweaty, sprinkle lightly with flour. Making clean, sure cuts with a large knife or scraper, divide the dough into 3 equal pieces (for long loaves — or whatever count your chosen shape calls for). After each cut, lift one end of the piece and flip it over onto its opposite end to fold it in two; place it at the far side of the work surface. Cover loosely with plastic and let rest **5 minutes** before forming — this relaxes the gluten enough for shaping, but not so long that the dough starts rising again. **While it rests, prepare the rising surface:** smooth the canvas or linen toweling over a large tray or baking sheet and rub flour thoroughly into the whole surface of the cloth, so the dough won't stick to it later.
 
-**6. Forming loaves — la mise en forme des pâtons.**
-*(The bâtard — 16 by 3 inches baked — is the shape illustrated.)* Working rapidly, turn a piece upside down on a lightly floured surface and pat it firmly but not too roughly into an 8- to 10-inch oval with your lightly floured palms, deflating any gas bubbles by pinching. Fold in half lengthwise, bringing the far edge down over the near edge, and seal the edges together. Roll the dough a quarter turn forward so the seal is on top. Flatten again into an oval with your palms. Press a trench along the central length with the side of one hand. Fold in half again lengthwise, and this time seal the edges with the heel of your hand, rolling the dough a quarter turn toward you so the seal is on the bottom.
+**6. Forming loaves — la tourne; la mise en forme des pâtons.**
+*(The bâtard — 16 by 3 inches baked — is the shape illustrated. The source notes **baguettes are much too long for home ovens**.)* **Why the shaping matters, per the source:** French bread stands free in the oven rather than baking in a pan, so it has to be formed so the tension of the coagulated gluten cloak on its surface holds the dough in shape. Keep the work surface **very lightly floured throughout** — if the dough sticks and tears, it breaks the gluten cloak you're building. Working rapidly, turn a piece upside down on a lightly floured surface and pat it firmly but not too roughly into an 8- to 10-inch oval with your lightly floured palms, deflating any gas bubbles by pinching. Fold in half lengthwise, bringing the far edge down over the near edge, and seal the edges together — hands extended, thumbs out at right angles and touching. Roll the dough a quarter turn forward so the seal is on top. Flatten again into an oval with your palms. Press a trench along the central length with the side of one hand. Fold in half again lengthwise, and this time seal the edges with the heel of your hand, rolling the dough a quarter turn toward you so the seal is on the bottom.
 
 ![The forming sequence — pat to an oval, fold, seal, trench, and fold again](images/french-bread/p62-63-forming-loaves.jpg)
 *Source pages 62–63: cutting and resting (Step 5) and the fold-seal-trench-fold sequence of Step 6, drawn move by move.*
 
-Now, rolling the dough back and forth under your palms — starting in the middle, right palm on the dough, left palm on top of your right hand — lengthen it into a sausage shape, gradually sliding your hands toward the two ends as it grows. Deflate any gas blisters by pinching. Repeat until the dough is 16 inches long, or whatever length fits your baking sheet, keeping the circumference as even as possible and the line of seal straight — if the seal disappears, don't worry. Place the shaped piece **sealed side up** at one side of a flour-rubbed canvas, leaving a free end of canvas 3 to 4 inches wide, then pinch a ridge of canvas 2½ to 3 inches high to make a trough for the next piece. Cover the waiting dough with plastic as you form the rest. After all the pieces are in place, brace the two sides of the canvas with long rolling pins, baking pans, or books if the dough seems very soft, and cover loosely with a flour-rubbed towel or canvas and a sheet of plastic. Proceed immediately to the final rising.
+Now, rolling the dough back and forth under your palms — starting in the middle, right palm on the dough, left palm on top of your right hand — lengthen it into a sausage shape, gradually sliding your hands toward the two ends as it grows. Deflate any gas blisters by pinching. Repeat until the dough is 16 inches long, or whatever length fits your baking sheet, keeping the circumference as even as possible. **Try to start each roll with the sealed side down, twisting the rope of dough to straighten the line of seal as needed.** If the seal disappears — as it sometimes does with all-purpose flour — don't worry. Place the shaped piece **sealed side up** at one side of a flour-rubbed canvas, leaving a free end of canvas 3 to 4 inches wide, then pinch a ridge of canvas 2½ to 3 inches high to make a trough for the next piece. Cover the waiting dough with plastic as you form the rest. After all the pieces are in place, brace the two sides of the canvas with long rolling pins, baking pans, or books if the dough seems very soft, and cover loosely with a flour-rubbed towel or canvas and a sheet of plastic. Proceed immediately to the final rising.
 
 ![Rolling the dough to length, the canvas trough with all three loaves in place, and the final-rise setup](images/french-bread/p64-65-final-rise-unmolding.jpg)
 *Source pages 64–65: lengthening the sausage shape, pinching the canvas ridges, bracing with rolling pins — the end of Step 6 into Step 7.*
@@ -49104,16 +49106,16 @@ The source's own chart for bending the schedule around your day, since exact tim
 | At 55°F | 7–8 |
 | Refrigerator | 9–10 |
 
-- **To stop action altogether after the first or second rise:** deflate, wrap airtight, and freeze. *Limit: a week to 10 days* for plain French bread dough (and risky past 10 days for doughs with butter and eggs — *"we shall not venture farther upon this uncertain limb"*).
+- **To stop action altogether after the first or second rise:** deflate, wrap airtight, and freeze. *Limit: a week to 10 days — **probably more**, per the source* for plain French bread dough (and risky past 10 days for doughs with butter and eggs — *"we shall not venture farther upon this uncertain limb"*).
 - **To delay the second rising:** set the dough in a colder place, or set a plate on top of it with a 5-lb weight and refrigerate.
 - **To delay or freeze after the dough is formed:** set in a colder place, or form the dough on a lightly oiled sheet, cover airtight, and refrigerate or freeze (same time limit).
 - **To start action after thawing:** thaw overnight in the refrigerator and complete the rise at room temperature — or set at 80°F until thawed, then finish the rise at room temperature.
 
 #### D. Variations — Other Forms for French Bread
 
-- **Long thin loaves** *(ficelles, baked size 12 to 16 by 1½ inches)*: cut the Step 5 dough into 5 or 6 pieces and form as in the recipe, but into thinner sausage shapes about ½ inch in diameter. Slash as in Step 9 once risen.
+- **Long thin loaves** *(ficelles, baked size 12 to 16 by 1½ inches — the source's own Yield list on p. 58 says 2 inches instead; the book contradicts itself, and this is the Variations page's figure)*: cut the Step 5 dough into 5 or 6 pieces and form as in the recipe, but into thinner sausage shapes about ½ inch in diameter. Slash as in Step 9 once risen.
 - **Oval rolls** *(petits pains, tire-bouchons)*: cut into 10 or 12 pieces and form like bâtards — you probably won't need to lengthen them at all after the two foldings and sealings. Once risen, make either 2 parallel slashes or a single slash end to end.
-- **Round loaves** *(pain de ménage, miches, boules)*: for big sandwiches or toast. The object is to force the cloak of coagulated gluten to hold the ball of dough in shape — the first movement makes a cushion; the second seals and rounds the ball, establishing surface tension. After the cut dough has rested its 5 minutes, place it on a lightly floured surface. Lift the left side of the dough with the side of your left hand and bring it down almost to the other side; scoop up that side and push it back almost to the left. Revolve the dough a quarter turn clockwise and repeat, eight to ten times — *"think of the surface of the dough as if it were a fine sheet of rubber you were stretching in every direction."* Then turn the dough smooth side up and rotate it between the palms of your hands, tucking a bit of dough under the ball as you rotate: in a dozen turns you'll have a neat ball with a little pucker underneath — ***la clé***, where the edges all joined. Rise pucker side **up** on the canvas, seal the pucker by pinching, and after unmolding upside down onto the baking sheet, slash: **large loaves get a cross** (one vertical slash, then the horizontal cuts); medium loaves may take a cross, a single central slash, or a semicircular slash around half the circumference.
+- **Round loaves** *(pain de ménage, miches, boules)*: for big sandwiches or toast. The object is to force the cloak of coagulated gluten to hold the ball of dough in shape — the first movement makes a cushion; the second seals and rounds the ball, establishing surface tension. After the cut dough has rested its 5 minutes, place it on a lightly floured surface. Lift the left side of the dough with the side of your left hand and bring it down almost to the other side; scoop up that side and push it back almost to the left. Revolve the dough a quarter turn clockwise and repeat, eight to ten times — *"think of the surface of the dough as if it were a fine sheet of rubber you were stretching in every direction."* Then turn the dough smooth side up and rotate it between the palms of your hands, tucking a bit of dough under the ball as you rotate: in a dozen turns you'll have a neat ball with a little pucker underneath — ***la clé***, where the edges all joined. Rise pucker side **up** on the canvas, seal the pucker by pinching with your fingers, then flour lightly, cover loosely, and let rise to almost triple. After unmolding upside down onto the baking sheet, slash: **large loaves get a cross** (one vertical slash, then the horizontal cuts); medium loaves may take a cross, a single central slash, or a semicircular slash around half the circumference.
 - **Round rolls** *(petits pains, champignons)*: cut into 10 to 12 pieces; same principle as round loaves, but make the preliminary cushion with your fingers rather than your palms, and for the second stage roll each ball under the palm of one hand, using your thumb and little finger to push the edges of the dough underneath to form the pucker. Rise pucker side up, 2 inches apart; bake pucker side down. Rolls are usually too small for a cross — one central slash or the semicircular cut.
 
 ![Shaping round loaves — the rubber-sheet stretching motion, the rotating tuck, and the three slash patterns for boules](images/french-bread/p68-69-variations-round-loaves.jpg)
@@ -49124,12 +49126,13 @@ The source's own chart for bending the schedule around your day, since exact tim
 *"Baking in the ordinary way... produces an acceptable loaf of bread, but does not nearly approach the glory you can achieve when you turn your home oven into a baker's oven."* Two provisions make the difference — **steam**, which alone will vastly improve the crust, the color, the slash patterns, and the volume; and a **hot baking surface**, which gives the naked dough that added push of volume. Merely providing the steam, if you do nothing else, is worth it.
 
 - **The hot baking surface:** metal won't do — it burns the bottom of the dough. Ordinary red floor tiles ¼ inch thick ("quarry tiles," from any building-supply store) lining the surface of an oven rack.
-- **The sliding board:** a piece of 5/16-inch plywood slightly longer but 2 inches narrower than your oven rack — it takes the place of the baker's wooden paddle, *la pelle*.
+- **The unmolding board:** a piece of plywood about **20 inches long and 8 inches wide** — the dough comes off the canvas onto this one.
+- **The sliding board:** a second piece, slightly longer but **2 inches narrower than your oven rack** — it takes the place of the baker's wooden paddle, *la pelle*. *(The source gives both boards the same thickness; the figure is printed too small to read in the photographed pages — see the picture QC log.)*
 - **To prevent sticking** to the unmolding and sliding boards: white cornmeal, or small pasta pulverized in the blender until it's the consistency of table salt — this is called ***fleurage***.
 - **The steam contraption:** something you can heat to sizzling on the stovetop and slide into a pan of water in the oven for a great burst of steam — a brick, a solid 10-lb rock, or a piece of cast iron, plus a 9 × 12-inch roasting pan 2 inches deep holding an inch of water. *(The source's own note: a spray bottle works reasonably well instead, though less dramatically.)*
 - **Nonessential professional gear:** the *banneton* (a canvas-lined wicker or plastic rising form, in place of the canvas couche) and bakers' blades, *lames* — about 4 inches long and ¼ inch wide with very sharp, curved ends.
 
-![The banneton and the bakers' lames](images/french-bread/p70-71-simulated-bakers-oven.jpg)
+![Rolling a round roll under one palm, the 24-inch banneton, and the bakers' lames](images/french-bread/p70-71-simulated-bakers-oven.jpg)
 *Source pages 70–71: round rolls, the hot-surface and steam equipment list, the 24-inch banneton, and the lames.*
 
 **Using it:** at least 30 to 40 minutes before the end of the final rise, line the oven rack with the quarry tiles, slide it onto the upper-third level, and preheat to 450°F. At the same time set the brick over very high heat on the stovetop so it gets sizzling hot — the hotter the better (test lifting it first, with two stiff spoons, spatulas, or fire tongs). When the final rise is complete, sprinkle *fleurage* on the unmolding board and the sliding board, unmold the loaves one at a time from the canvas, and line them up side by side — still upside down — on the sliding board. Slash as in Step 9. Place the pan of cold water on the lowest rack of an electric oven or the floor of a gas oven, add the sizzling brick, and close the door. Now the three loaves slide together off the board onto the hot tiles: **one quick, smooth jerk, like the old magician's trick of pulling the cloth from under a tableful of dishes.** Open the oven, rest the far end of the board on the far end of the tiles, and with one quick pull draw the board toward you — the loaves slide off onto the tiles. It must be a fast, confident action; pause midway and the dough rumples off the board, and once it touches the hot tiles it can't be moved or reshaped (though it comes loose after 5 to 6 minutes of baking). *"You may muff this every once in a while, and produce some queerly deformed shapes, but they will all bake into bread."* Remove the brick and pan of water after 5 to 8 minutes — the oven should be dry for the rest of the baking. Total time about 25 minutes for bâtards, same doneness cues as Step 10.

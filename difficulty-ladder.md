@@ -39,11 +39,11 @@ Expert, because the roux comes at the *end* of three hours of stuffing heads and
 
 | Rung | Recipes |
 |---|---|
-| 🟢 **Easy** | 337 |
-| 🟡 **Moderate** | 124 |
+| 🟢 **Easy** | 378 |
+| 🟡 **Moderate** | 140 |
 | 🔴 **Hard** | 20 |
 | ⚫ **Expert** | 2 |
-| | **483 total** |
+| | **540 total** |
 
 Most of the book is Easy, and that's the honest result rather than a flattering one: this is a collection of
 family cooking, smoked meat, sauces and sides. Only 22 recipes in 483 have a step that can actually beat you.
@@ -72,14 +72,12 @@ family cooking, smoked meat, sauces and sides. Only 22 recipes in 483 have a ste
 
 *One step in each of these can end it. Grouped by which step, because it's the same few problems over and over.*
 
-### A roux — 9
+### A roux — 7
 
 Equal parts fat and flour over heat, stirred without pause. It goes from perfect to burnt in under a minute, and a scorched roux ruins the whole pot — you throw it out and start over. Learn this one thing and eight of the twenty stop being hard.
 
 - 🔴 **[§T1 How to Make a Roux](codys-cookbook.md#t1-how-to-make-a-roux)** — 15 min hands-on
-- 🔴 **[§4.12 Fish Brown Sauce](codys-cookbook.md#412-fish-brown-sauce)** — 30 min hands-on
-- 🔴 **[§4.71 Sauce Brune (Flour-Based Brown Sauce) — Brown Sauce (1)](codys-cookbook.md#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)** — 35 min hands-on + ~2 hr hands-off
-- 🔴 **[§4.72 Sauce Ragoût (Flour-Based Brown Sauce with Giblets) — Brown Sauce (2)](codys-cookbook.md#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2)** — 40 min hands-on + 2–4 hr hands-off
+- 🔴 **[§4.12 Fish Brown Sauce](codys-cookbook.md#412-fish-brown-sauce)** — 35 min hands-on
 - 🔴 **[§7.26 Crawfish Magnifique in a Mirliton Pirogue](codys-cookbook.md#726-crawfish-magnifique-in-a-mirliton-pirogue)** — 1 hr 5 min hands-on 🔖
 - 🔴 **[§8.3 Chicken and Andouille Smoked Sausage Gumbo](codys-cookbook.md#83-chicken-and-andouille-smoked-sausage-gumbo)** — 2 hr 15 min hands-on ❤️
 - 🔴 **[§8.5 Cajun Seafood Gumbo with Andouille Smoked Sausage](codys-cookbook.md#85-cajun-seafood-gumbo-with-andouille-smoked-sausage)** — 1 hr 15 min hands-on ❤️
@@ -109,12 +107,6 @@ Sugar goes from clear to amber to acrid faster than you can react, and molten su
 
 - 🔴 **[§14.20 Cream Caramel](codys-cookbook.md#1420-cream-caramel)** — 20 min hands-on + 40 min hands-off
 - 🔴 **[§14.24 Salted Caramel Sauce](codys-cookbook.md#1424-salted-caramel-sauce)** — 17 min hands-on
-
-### A specialty bind — 1
-
-Transglutaminase has to set the octopus into a roll that holds together on the knife. If it doesn't, ten hours are gone and there's no fixing it.
-
-- 🔴 **[§7.86 Carpaccio of Sous Vide Octopus](codys-cookbook.md#786-carpaccio-of-sous-vide-octopus)** — 40 min hands-on + 5–7 hr hands-off
 
 ### Timing you can't see — 1
 
@@ -156,7 +148,7 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 
 ---
 
-## 🟡 Moderate — 124 recipes
+## 🟡 Moderate — 140 recipes
 
 *Real technique, but forgiving. A slip here costs you a little quality, not the dish.*
 
@@ -169,30 +161,31 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟡 **[§7.36 Two Steaks Feed Four](codys-cookbook.md#736-two-steaks-feed-four)** — 35 min hands-on
 - 🟡 **[§7.48 Corned Beef & Cabbage](codys-cookbook.md#748-corned-beef--cabbage)** — 55 min hands-on + ~3½ hr hands-off
 - 🟡 **[§7.82 Ragù alla Bolognese (Sous Vide)](codys-cookbook.md#782-ragù-alla-bolognese-sous-vide)** — 3 hr 15 min hands-on + 24 hr hands-off
-- 🟡 **[§7.106 Big, Thick Steakhouse Steaks](codys-cookbook.md#7106-big-thick-steakhouse-steaks)** — 55 min hands-on
+- 🟡 **[§7.106 Big, Thick Steakhouse Steaks](codys-cookbook.md#7106-big-thick-steakhouse-steaks)** — 55 min hands-on ❤️
 - 🟡 **[§7.107 Skinny Steaks](codys-cookbook.md#7107-skinny-steaks)** — 10 min hands-on
 - 🟡 **[§7.108 Santa Maria Tri-Tip](codys-cookbook.md#7108-santa-maria-tri-tip)** — 5 min hands-on
-- 🟡 **[§7.115 The Great American Steakhouse Burger](codys-cookbook.md#7115-the-great-american-steakhouse-burger)** — 50 min hands-on
-- 🟡 **[§7.131 Smoked Sous-Vide Steak](codys-cookbook.md#7131-smoked-sous-vide-steak)** — 10 min hands-on + ~3 hr hands-off
+- 🟡 **[§7.115 The Great American Steakhouse Steakburger](codys-cookbook.md#7115-the-great-american-steakhouse-steakburger)** — 50 min hands-on ❤️
+- 🟡 **[§7.131 Smoked Sous-Vide Steak](codys-cookbook.md#7131-smoked-sous-vide-steak)** — 20 min hands-on + ~3½ hr hands-off
 - 🟡 **[§7.132 Kōji Filet Mignon](codys-cookbook.md#7132-kōji-filet-mignon)** — 30 min hands-on
-- 🟡 **[§7.134 Afterburner Fajitas](codys-cookbook.md#7134-afterburner-fajitas)** — 50 min hands-on
+- 🟡 **[§7.134 Afterburner Fajitas](codys-cookbook.md#7134-afterburner-fajitas)** — 40 min hands-on
 
-### Pork (12)
+### Pork (13)
 
 - 🟡 **[§7.46 Skirt Steak with Buttered Spinach & French Fries](codys-cookbook.md#746-skirt-steak-with-buttered-spinach--french-fries)** — 45 min hands-on
 - 🟡 **[§7.54 Boeuf Bourguignon (Beef Stew in Red Wine, with Bacon, Onions, and Mushrooms)](codys-cookbook.md#754-boeuf-bourguignon-beef-stew-in-red-wine-with-bacon-onions-and-mushrooms)** — 1 hr hands-on + 2¾ hr hands-off
-- 🟡 **[§7.59 Mediterranean Pork Loin Platter (Vegeta-Rubbed, Sous Vide & Seared)](codys-cookbook.md#759-mediterranean-pork-loin-platter-vegeta-rubbed-sous-vide--seared)** — 1 hr 20 min hands-on + 2–4 hr hands-off ❤️
+- 🟡 **[§7.59 Mediterranean Pork Tenderloin Platter (Vegeta-Rubbed, Sous Vide & Seared)](codys-cookbook.md#759-mediterranean-pork-tenderloin-platter-vegeta-rubbed-sous-vide--seared)** — 1 hr 20 min hands-on + 1½ hr hands-off ❤️
 - 🟡 **[§7.79 Short Rib Ragù](codys-cookbook.md#779-short-rib-ragù)** — 1 hr 10 min hands-on + 24–30 hr hands-off
 - 🟡 **[§7.99 Kermit's Second-Favorite Pork Chops](codys-cookbook.md#799-kermits-second-favorite-pork-chops)** — 5 min hands-on
 - 🟡 **[§7.100 Pork Tenderloin with Cowboy Java Rub](codys-cookbook.md#7100-pork-tenderloin-with-cowboy-java-rub)** — 35 min hands-on
 - 🟡 **[§7.103 Stuffed Pork Loin Roast](codys-cookbook.md#7103-stuffed-pork-loin-roast)** — 45 min hands-on + ~2 hr hands-off
-- 🟡 **[§7.109 Chateaubriand with Compound Butter](codys-cookbook.md#7109-chateaubriand-with-compound-butter)** — 1 hr 15 min hands-on
+- 🟡 **[§7.109 Chateaubriand with Compound Butter](codys-cookbook.md#7109-chateaubriand-with-compound-butter)** — 1 hr 5 min hands-on
 - 🟡 **[§7.111 Short Ribs, Brazilian Steakhouse Style](codys-cookbook.md#7111-short-ribs-brazilian-steakhouse-style)** — 1 hr hands-on
 - 🟡 **[§7.114 Prime Rib](codys-cookbook.md#7114-prime-rib)** — 1 hr hands-on
 - 🟡 **[§7.135 Championship Brisket and Burnt Ends](codys-cookbook.md#7135-championship-brisket-and-burnt-ends)** — 45 min hands-on + 8–12 hr hands-off
 - 🟡 **[§7.145 60-Minute Ribs, Dreamland Style](codys-cookbook.md#7145-60-minute-ribs-dreamland-style)** — 1 hr 30 min hands-on
+- 🟡 **[§7.147 Dorie's Pork à la Normande](codys-cookbook.md#7147-dories-pork-à-la-normande)** — 1 hr hands-on + ~45 min hands-off
 
-### Chicken & Poultry (18)
+### Chicken & Poultry (19)
 
 - 🟡 **[§7.14 Chicken Oscar (Court of 2 Sisters)](codys-cookbook.md#714-chicken-oscar-court-of-2-sisters)** — 40 min hands-on  ⚠️ needs hollandaise
 - 🟡 **[§7.19 Honey Chicken Marinade & Kabobs](codys-cookbook.md#719-honey-chicken-marinade--kabobs)** — 52 min hands-on ❤️
@@ -201,19 +194,20 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟡 **[§7.29 Panéed Chicken and Fettucini](codys-cookbook.md#729-panéed-chicken-and-fettucini)** — 45 min hands-on 🔖
 - 🟡 **[§7.33 Grilled Stuffed Chicken Breasts](codys-cookbook.md#733-grilled-stuffed-chicken-breasts)** — 35 min hands-on 👍
 - 🟡 **[§7.37 The Fry Queen's Fried Chicken](codys-cookbook.md#737-the-fry-queens-fried-chicken)** — 40 min hands-on
-- 🟡 **[§7.56 Coq au Vin (Chicken in Red Wine with Onions, Mushrooms, and Bacon)](codys-cookbook.md#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon)** — 20 min hands-on
+- 🟡 **[§7.56 Coq au Vin (Chicken in Red Wine with Onions, Mushrooms, and Bacon)](codys-cookbook.md#756-coq-au-vin-chicken-in-red-wine-with-onions-mushrooms-and-bacon)** — 1 hr 40 min hands-on
 - 🟡 **[§7.57 Poulet au Porto (Roast Chicken Steeped with Port Wine, Cream, and Mushrooms)](codys-cookbook.md#757-poulet-au-porto-roast-chicken-steeped-with-port-wine-cream-and-mushrooms)** — 1 hr 50 min hands-on
 - 🟡 **[§7.58 Poulet Sauté (Sautéed Chicken)](codys-cookbook.md#758-poulet-sauté-sautéed-chicken)** — 55 min hands-on
 - 🟡 **[§7.67 Grilled Quail with Pear and Pine Nut Salad](codys-cookbook.md#767-grilled-quail-with-pear-and-pine-nut-salad)** — 50 min hands-on
 - 🟡 **[§7.80 BBQ Fried Chicken](codys-cookbook.md#780-bbq-fried-chicken)** — 40 min hands-on + 3 hr hands-off
-- 🟡 **[§7.122 The Ultimate Smoked Turkey](codys-cookbook.md#7122-the-ultimate-smoked-turkey)** — 30 min hands-on + 2–5 hr hands-off
+- 🟡 **[§7.122 The Ultimate Smoked Turkey](codys-cookbook.md#7122-the-ultimate-smoked-turkey)** — 35 min hands-on + 2–5 hr hands-off
 - 🟡 **[§7.126 Chicken with Vinegar](codys-cookbook.md#7126-chicken-with-vinegar)** — 1 hr 30 min hands-on
 - 🟡 **[§7.128 Glazed Five-Spice Chicken](codys-cookbook.md#7128-glazed-five-spice-chicken)** — 1 hr 10 min hands-on
 - 🟡 **[§7.138 Real Fried Chicken on a Gas Grill (It's Safe!)](codys-cookbook.md#7138-real-fried-chicken-on-a-gas-grill-its-safe)** — 40 min hands-on
 - 🟡 **[§7.141 Championship Chicken](codys-cookbook.md#7141-championship-chicken)** — 2 hr 20 min hands-on
 - 🟡 **[§7.142 Buttered-Up Turkey Breast with Drunken Cranberries and Crunchy Skin](codys-cookbook.md#7142-buttered-up-turkey-breast-with-drunken-cranberries-and-crunchy-skin)** — 1 hr 25 min hands-on
+- 🟡 **[§7.151 Sous Vide Chicken Thighs for the Family (Seared)](codys-cookbook.md#7151-sous-vide-chicken-thighs-for-the-family-seared)** — 30 min hands-on + 2½–3 hr hands-off
 
-### Seafood & Fish (18)
+### Seafood & Fish (22)
 
 - 🟡 **[§7.22 Captain Mike's Ceviche](codys-cookbook.md#722-captain-mikes-ceviche)** — 30 min hands-on + 36–48 hr hands-off ❤️
 - 🟡 **[§7.23 Fish with Pecan Butter Sauce and Meunière Sauce](codys-cookbook.md#723-fish-with-pecan-butter-sauce-and-meunière-sauce)** — 35 min hands-on 🔖
@@ -223,33 +217,39 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟡 **[§7.40 Shrimp Risotto](codys-cookbook.md#740-shrimp-risotto)** — 1 hr hands-on
 - 🟡 **[§7.47 Shrimp Roast](codys-cookbook.md#747-shrimp-roast)** — 40 min hands-on
 - 🟡 **[§7.51 Boudin Blanc (Boudin)](codys-cookbook.md#751-boudin-blanc-boudin)** — 1 hr 5 min hands-on + ~2 hr hands-off
-- 🟡 **[§7.61 Broiled Fish](codys-cookbook.md#761-broiled-fish)** — 30 min hands-on
+- 🟡 **[§7.61 Broiled Fish](codys-cookbook.md#761-broiled-fish)** — 30 min hands-on ❤️
 - 🟡 **[§7.62 Catfish Étouffée](codys-cookbook.md#762-catfish-étouffée)** — 1 hr 30 min hands-on
 - 🟡 **[§7.65 Crawfish Pie I](codys-cookbook.md#765-crawfish-pie-i)** — 2 hr 10 min hands-on + 2½ hr hands-off
 - 🟡 **[§7.84 Rockfish Burger with Key Lime Aioli](codys-cookbook.md#784-rockfish-burger-with-key-lime-aioli)** — 25 min hands-on + 30 min hands-off
+- 🟡 **[§7.86 Carpaccio of Sous Vide Octopus](codys-cookbook.md#786-carpaccio-of-sous-vide-octopus)** — 35 min hands-on + 5–7 hr hands-off
 - 🟡 **[§7.89 Chef Bonner's Fish Fillets with Brioni Broth](codys-cookbook.md#789-chef-bonners-fish-fillets-with-brioni-broth)** — 20 min hands-on
 - 🟡 **[§7.94 Greg's Grilled Lobster](codys-cookbook.md#794-gregs-grilled-lobster)** — 25 min hands-on
 - 🟡 **[§7.125 Beer-Battered Fish](codys-cookbook.md#7125-beer-battered-fish)** — 35 min hands-on
 - 🟡 **[§7.129 Pasta alle Vongole](codys-cookbook.md#7129-pasta-alle-vongole)** — 40 min hands-on
 - 🟡 **[§7.143 Scallops with Black Garlic Butter Sauce](codys-cookbook.md#7143-scallops-with-black-garlic-butter-sauce)** — 20 min hands-on
 - 🟡 **[§7.144 Mussels with Smoked Fettuccine](codys-cookbook.md#7144-mussels-with-smoked-fettuccine)** — 1 hr hands-on + 2 hr hands-off
+- 🟡 **[§7.148 Close Proximity Smoked Fish with Poblano-Basil Cream Sauce](codys-cookbook.md#7148-close-proximity-smoked-fish-with-poblano-basil-cream-sauce)** — 25 min hands-on
+- 🟡 **[§7.150 Grilled Salmon with Avocado Salsa](codys-cookbook.md#7150-grilled-salmon-with-avocado-salsa)** — 45 min hands-on 👍
+- 🟡 **[§7.152 Gluten-Free Fried Shrimp](codys-cookbook.md#7152-gluten-free-fried-shrimp)** — 40 min hands-on ❤️
 
 ### Lamb, Veal & Game (1)
 
 - 🟡 **[§7.49 "Brunette" de Veau](codys-cookbook.md#749-brunette-de-veau)** — 1 hr 5 min hands-on + ~2½ hr hands-off
 
-### Soups, Stews & Gumbo (10)
+### Soups, Stews & Gumbo (12)
 
 - 🟡 **[§8.6 Sweet Potato and Andouille Soup](codys-cookbook.md#86-sweet-potato-and-andouille-soup)** — 2 hr hands-on ❤️
-- 🟡 **[§8.13 Lobster Stew](codys-cookbook.md#813-lobster-stew)** — 55 min hands-on
+- 🟡 **[§8.13 Lobster Stew](codys-cookbook.md#813-lobster-stew)** — 1 hr 5 min hands-on
 - 🟡 **[§8.22 Louisiana Crab and Corn Bisque](codys-cookbook.md#822-louisiana-crab-and-corn-bisque)** — 40 min hands-on
-- 🟡 **[§8.25 Wild Goose Gumbo with Oysters](codys-cookbook.md#825-wild-goose-gumbo-with-oysters)** — 45 min hands-on + 4 hr hands-off
 - 🟡 **[§8.26 Felecia's Goose Gumbo](codys-cookbook.md#826-felecias-goose-gumbo)** — 2 hr 25 min hands-on
 - 🟡 **[§8.27 Green Gumbo](codys-cookbook.md#827-green-gumbo)** — 1 hr 50 min hands-on
 - 🟡 **[§8.28 Chicken Gumbo Filé](codys-cookbook.md#828-chicken-gumbo-filé)** — 1 hr 35 min hands-on
-- 🟡 **[§8.29 Mrs. McGinn's Seafood Gumbo](codys-cookbook.md#829-mrs-mcginns-seafood-gumbo)** — 1 hr 10 min hands-on
+- 🟡 **[§8.29 Mrs. McGinn's Seafood Gumbo](codys-cookbook.md#829-mrs-mcginns-seafood-gumbo)** — 2 hr 10 min hands-on
 - 🟡 **[§8.31 Turtle Soup II (Monteleone)](codys-cookbook.md#831-turtle-soup-ii-monteleone)** — 2 hr 10 min hands-on
 - 🟡 **[§8.38 Brothy: Stracciatella (Roman Egg Drop Soup)](codys-cookbook.md#838-brothy-stracciatella-roman-egg-drop-soup)** — 20 min hands-on
+- 🟡 **[§8.42 Creole Courtbouillon](codys-cookbook.md#842-creole-courtbouillon)** — 1 hr 55 min hands-on
+- 🟡 **[§8.43 Crawfish Bisque II](codys-cookbook.md#843-crawfish-bisque-ii)** — 3 hr 30 min hands-on
+- 🟡 **[§8.44 Courtbouillon](codys-cookbook.md#844-courtbouillon)** — 2 hr 20 min hands-on
 
 ### Vegetables (2)
 
@@ -265,23 +265,24 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 ### Breads & Biscuits (2)
 
 - 🟡 **[§15.1 Plain French Bread (Pain Français)](codys-cookbook.md#151-plain-french-bread-pain-français)** — 1 hr 10 min hands-on + 6–9 hr hands-off
-- 🟡 **[§15.7 Yorkshire Pudding on the Grill](codys-cookbook.md#157-yorkshire-pudding-on-the-grill)** — 40 min hands-on
+- 🟡 **[§15.7 Yorkshire Pudding on the Grill](codys-cookbook.md#157-yorkshire-pudding-on-the-grill)** — 10 min hands-on
 
-### Breakfast (2)
+### Breakfast (4)
 
 - 🟡 **[§10.7 Quiche Lorraine (Cream and Bacon Quiche)](codys-cookbook.md#107-quiche-lorraine-cream-and-bacon-quiche)** — 48 min hands-on
+- 🟡 **[§10.8 Quiche aux Fruits de Mer (Shrimp, Crab, or Lobster Quiche)](codys-cookbook.md#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche)** — 55 min hands-on
 - 🟡 **[§10.12 Grilled Grits](codys-cookbook.md#1012-grilled-grits)** — 33 min hands-on + 4 hr – 2 days hands-off
+- 🟡 **[§10.13 Quiche aux Oignons (Onion Quiche)](codys-cookbook.md#1013-quiche-aux-oignons-onion-quiche)** — 2 hr hands-on
 
-### Snacks & Appetizers (6)
+### Snacks & Appetizers (5)
 
-- 🟡 **[§9.6 Beef Jerky](codys-cookbook.md#96-beef-jerky)** — 20 min hands-on + 1 hr 45 min hands-off ❤️
-- 🟡 **[§9.9 Shrimp Remoulade](codys-cookbook.md#99-shrimp-remoulade)** — 40 min hands-on ❤️
-- 🟡 **[§9.10 Crabmeat Avery](codys-cookbook.md#910-crabmeat-avery)** — 45 min hands-on 🔖
+- 🟡 **[§9.6 Beef Jerky](codys-cookbook.md#96-beef-jerky)** — 20 min hands-on + ~3–6 hr hands-off ❤️
 - 🟡 **[§9.24 Crab Marie](codys-cookbook.md#924-crab-marie)** — 1 hr 35 min hands-on
-- 🟡 **[§9.28 Char-Grilled Oysters](codys-cookbook.md#928-char-grilled-oysters)** — 1 hr 10 min hands-on
-- 🟡 **[§9.29 Deer Jerky](codys-cookbook.md#929-deer-jerky)** — 20 min hands-on + 1 hr 45 min hands-off
+- 🟡 **[§9.28 Char-Grilled Oysters](codys-cookbook.md#928-char-grilled-oysters)** — 1 hr 30 min hands-on ❤️
+- 🟡 **[§9.29 Deer Jerky](codys-cookbook.md#929-deer-jerky)** — 20 min hands-on + ~3–6 hr hands-off ❤️
+- 🟡 **[§9.32 Coconut Beer Shrimp with Sweet and Tangy Dipping Sauce](codys-cookbook.md#932-coconut-beer-shrimp-with-sweet-and-tangy-dipping-sauce)** — 1 hr 20 min hands-on
 
-### Desserts (9)
+### Desserts (11)
 
 - 🟡 **[§14.4 Kabocha Squash Pie](codys-cookbook.md#144-kabocha-squash-pie)** — 40 min hands-on + 2 hr hands-off
 - 🟡 **[§14.17 Flaky French Pastry](codys-cookbook.md#1417-flaky-french-pastry)** — 35 min hands-on
@@ -292,19 +293,22 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟡 **[§14.31 Torched Figs](codys-cookbook.md#1431-torched-figs)** — 8 min hands-on
 - 🟡 **[§14.32 Grilled Pound Cake with Leah's Chocolate Buttercream Sauce](codys-cookbook.md#1432-grilled-pound-cake-with-leahs-chocolate-buttercream-sauce)** — 30 min hands-on
 - 🟡 **[§14.33 Baked Apples](codys-cookbook.md#1433-baked-apples)** — 45 min hands-on
+- 🟡 **[§14.35 All-Butter Pie Dough](codys-cookbook.md#1435-all-butter-pie-dough)** — 20 min hands-on
+- 🟡 **[§14.36 Scented Cream](codys-cookbook.md#1436-scented-cream)** — 10 min hands-on
 
 ### Rubs & Spice Blends (2)
 
 - 🟡 **[§4.32 Texas Chili Rub](codys-cookbook.md#432-texas-chili-rub)** — 15 min hands-on
 - 🟡 **[§4.33 Sesame Seasoning](codys-cookbook.md#433-sesame-seasoning)** — 15 min hands-on
 
-### Barbecue & Grilling Sauces (3)
+### Barbecue & Grilling Sauces (4)
 
-- 🟡 **[§4.35 Mustard Barbecue Sauce](codys-cookbook.md#435-mustard-barbecue-sauce)** — 10 min hands-on
+- 🟡 **[§4.35 Mustard Barbecue Sauce](codys-cookbook.md#435-mustard-barbecue-sauce)** — 15 min hands-on
 - 🟡 **[§4.63 Sauce Béchamel / Sauce Velouté (Master White Sauce)](codys-cookbook.md#463-sauce-béchamel--sauce-velouté-master-white-sauce)** — 10 min hands-on
 - 🟡 **[§4.170 Cool Smoke Barbecue Sauce](codys-cookbook.md#4170-cool-smoke-barbecue-sauce)** — 30 min hands-on
+- 🟡 **[§4.178 Kansas City Red](codys-cookbook.md#4178-kansas-city-red)** — 30 min hands-on
 
-### Classic French & Mother Sauces (8)
+### Classic French & Mother Sauces (10)
 
 - 🟡 **[§4.10 New Orleans Béarnaise Sauce](codys-cookbook.md#410-new-orleans-béarnaise-sauce)** — 10 min hands-on  ⚠️ needs §4.9 Hollandaise
 - 🟡 **[§4.11 Choron Sauce](codys-cookbook.md#411-choron-sauce)** — 20 min hands-on  ⚠️ needs §4.9 Hollandaise
@@ -314,20 +318,23 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟡 **[§4.64 Sauce Parisienne (Egg Yolk and Cream Enrichment)](codys-cookbook.md#464-sauce-parisienne-egg-yolk-and-cream-enrichment)** — 15 min hands-on
 - 🟡 **[§4.69 Sauce Soubise (Onion Sauce)](codys-cookbook.md#469-sauce-soubise-onion-sauce)** — 1 hr hands-on
 - 🟡 **[§4.70 Sauce Bâtarde / Sauce au Beurre (Mock Hollandaise)](codys-cookbook.md#470-sauce-bâtarde--sauce-au-beurre-mock-hollandaise)** — 15 min hands-on
+- 🟡 **[§4.71 Sauce Brune (Flour-Based Brown Sauce) — Brown Sauce (1)](codys-cookbook.md#471-sauce-brune-flour-based-brown-sauce--brown-sauce-1)** — 35 min hands-on + ~2 hr hands-off
+- 🟡 **[§4.72 Sauce Ragoût (Flour-Based Brown Sauce with Giblets) — Brown Sauce (2)](codys-cookbook.md#472-sauce-ragoût-flour-based-brown-sauce-with-giblets--brown-sauce-2)** — 40 min hands-on + 2–4 hr hands-off
 
 ### Salsas, Chutneys & Fresh Sauces (1)
 
 - 🟡 **[§4.94 Red Chimichurri](codys-cookbook.md#494-red-chimichurri)** — 40 min hands-on
 
-### Dressings & Vinaigrettes (3)
+### Dressings & Vinaigrettes (4)
 
 - 🟡 **[§4.23 Remoulade Sauce](codys-cookbook.md#423-remoulade-sauce)** — 15 min hands-on ❤️
 - 🟡 **[§4.59 Tonnato Sauce](codys-cookbook.md#459-tonnato-sauce)** — 20 min hands-on 🔖
 - 🟡 **[§4.159 Rustic Mayonnaise](codys-cookbook.md#4159-rustic-mayonnaise)** — 10 min hands-on
+- 🟡 **[§4.187 Homemade Mayonnaise](codys-cookbook.md#4187-homemade-mayonnaise)** — 10 min hands-on
 
 ### Compound Butters (4)
 
-- 🟡 **[§4.8 Shrimp and Crab Butter Cream Sauce](codys-cookbook.md#48-shrimp-and-crab-butter-cream-sauce)** — 25 min hands-on
+- 🟡 **[§4.8 Shrimp and Crab Butter Cream Sauce](codys-cookbook.md#48-shrimp-and-crab-butter-cream-sauce)** — 25 min hands-on ❤️
 - 🟡 **[§4.18 Lemon Butter Sauce](codys-cookbook.md#418-lemon-butter-sauce)** — 10 min hands-on
 - 🟡 **[§4.19 Browned Garlic Butter Sauce](codys-cookbook.md#419-browned-garlic-butter-sauce)** — 10 min hands-on
 - 🟡 **[§4.86 Beurre Noir / Beurre Noisette (Brown Butter Sauce)](codys-cookbook.md#486-beurre-noir--beurre-noisette-brown-butter-sauce)** — 15 min hands-on
@@ -336,11 +343,12 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 
 - 🟡 **[§4.51 Shallot Marmalade](codys-cookbook.md#451-shallot-marmalade)** — 50 min hands-on
 
-### Other Sauces & Condiments (3)
+### Other Sauces & Condiments (4)
 
 - 🟡 **[§4.13 Andouille Smoked Sausage Sauce](codys-cookbook.md#413-andouille-smoked-sausage-sauce)** — 35 min hands-on
 - 🟡 **[§4.68 Sauce au Cari (Light Curry Sauce)](codys-cookbook.md#468-sauce-au-cari-light-curry-sauce)** — 40 min hands-on
 - 🟡 **[§4.127 Cascabel Mole, Inspired by Chef Rick Bayless](codys-cookbook.md#4127-cascabel-mole-inspired-by-chef-rick-bayless)** — 1 hr 30 min hands-on
+- 🟡 **[§4.188 Sherry Wine Sauce](codys-cookbook.md#4188-sherry-wine-sauce)** — 10 min hands-on
 
 ### Techniques & Reference (2)
 
@@ -349,13 +357,16 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 
 ---
 
-## 🟢 Easy — 337 recipes
+## 🟢 Easy — 378 recipes
 
 *Nothing in these can go from perfect to ruined. Some take all day — that's a different question.*
 
-### Beef & Bison (15)
+### Beef & Bison (20)
 
-- 🟢 **[§6.7 Texas-Style Smoked Brisket](codys-cookbook.md#67-texas-style-smoked-brisket)** — 15 min hands-on + 6–8 hr hands-off
+- 🟢 **[§6.1 Smoked Brisket](codys-cookbook.md#61-smoked-brisket)** — 15 min hands-on + ~12–14 hr hands-off ❤️
+- 🟢 **[§6.7 Texas-Style Barbecued Brisket](codys-cookbook.md#67-texas-style-barbecued-brisket)** — 15 min hands-on + 6–8 hr hands-off
+- 🟢 **[§6.10 Sous Vide Brisket (Richie's Method)](codys-cookbook.md#610-sous-vide-brisket-richies-method)** — 50 min hands-on + 2 days + ~4 hr hands-off ❤️
+- 🟢 **[§6.12 Sous Vide Chuck Roast, Smoker-Finished](codys-cookbook.md#612-sous-vide-chuck-roast-smoker-finished)** — 45 min hands-on + 2 days + ~4 hr hands-off ❤️
 - 🟢 **[§7.11 Corned Beef and Cabbage](codys-cookbook.md#711-corned-beef-and-cabbage)** — 15 min hands-on + ~3 hr hands-off ❤️
 - 🟢 **[§7.55 Braised Beef-Pot Roast — Boeuf à la Mode (Beef Braised in Red Wine)](codys-cookbook.md#755-braised-beef-pot-roast--boeuf-à-la-mode-beef-braised-in-red-wine)** — 1 hr 10 min hands-on + 2¾ hr hands-off
 - 🟢 **[§7.68 Peruvian Beef Kebabs (Anticuchos)](codys-cookbook.md#768-peruvian-beef-kebabs-anticuchos)** — 30 min hands-on
@@ -367,11 +378,13 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§7.74 Madeira Beef and Bay Leaf Kebabs (Espetadas)](codys-cookbook.md#774-madeira-beef-and-bay-leaf-kebabs-espetadas)** — 25 min hands-on
 - 🟢 **[§7.75 Lettuce Bundles with Grilled Beef](codys-cookbook.md#775-lettuce-bundles-with-grilled-beef)** — 25 min hands-on
 - 🟢 **[§7.78 Boar Tenderloin with Cherry Chutney](codys-cookbook.md#778-boar-tenderloin-with-cherry-chutney)** — 35 min hands-on + 2–3 hr hands-off
-- 🟢 **[§7.112 Texas Beef Brisket](codys-cookbook.md#7112-texas-beef-brisket)** — 30 min hands-on + 12–14 hr hands-off
+- 🟢 **[§7.112 Texas Beef Brisket](codys-cookbook.md#7112-texas-beef-brisket)** — 40 min hands-on + 12–14 hr hands-off
 - 🟢 **[§7.113 Close to Katz's Pastrami](codys-cookbook.md#7113-close-to-katzs-pastrami)** — 25 min hands-on + 8–12 hr hands-off
-- 🟢 **[§7.133 Clint's Chuck Roast Sandwiches](codys-cookbook.md#7133-clints-chuck-roast-sandwiches)** — 15 min hands-on + ~6 hr hands-off
+- 🟢 **[§7.133 Clint's Chuck Roast Sandwiches](codys-cookbook.md#7133-clints-chuck-roast-sandwiches)** — 5 min hands-on + ~6 hr hands-off
+- 🟢 **[§7.146 Pho with Leftover Brisket and Smoked Bone Broth](codys-cookbook.md#7146-pho-with-leftover-brisket-and-smoked-bone-broth)** — 40 min hands-on + ~5–7 hr hands-off
+- 🟢 **[ D. Variation — Darcy's Sous Vide Steak (the Ice-Cooler Method)](codys-cookbook.md#d-variation--darcys-sous-vide-steak-the-ice-cooler-method)** — 35 min hands-on + 4–6 hr hands-off
 
-### Pork (18)
+### Pork (19)
 
 - 🟢 **[§6.2 Pulled Pork](codys-cookbook.md#62-pulled-pork)** — 30 min hands-on + 4–6 hr hands-off ❤️
 - 🟢 **[§6.6 North Carolina Pulled Pork (Karmel Version)](codys-cookbook.md#66-north-carolina-pulled-pork-karmel-version)** — 20 min hands-on + 4–6 hr hands-off
@@ -380,20 +393,22 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§7.17 White Beans (Slow Cooker Ham & White Beans)](codys-cookbook.md#717-white-beans-slow-cooker-ham--white-beans)** — 25 min hands-on + 8 hr hands-off ❤️
 - 🟢 **[§7.38 Roast Pork with Salmoriglio](codys-cookbook.md#738-roast-pork-with-salmoriglio)** — 35 min hands-on + ~3 hr hands-off
 - 🟢 **[§7.50 Asian Flavor Baby Back Ribs](codys-cookbook.md#750-asian-flavor-baby-back-ribs)** — 25 min hands-on + 1¼–1½ hr hands-off
-- 🟢 **[§7.76 Hamburgers with Herb Butter](codys-cookbook.md#776-hamburgers-with-herb-butter)** — 15 min hands-on
+- 🟢 **[§7.76 Hamburgers with Herb Butter](codys-cookbook.md#776-hamburgers-with-herb-butter)** — 15 min hands-on 👍
 - 🟢 **[§7.83 Short Rib Korean-Style Lettuce Wraps](codys-cookbook.md#783-short-rib-korean-style-lettuce-wraps)** — 20 min hands-on + 48–72 hr hands-off
-- 🟢 **[§7.92 Butter-Poached Fillets](codys-cookbook.md#792-butter-poached-fillets)** — 10 min hands-on + 15–20 min hands-off
-- 🟢 **[§7.95 Perfect Pulled Pork](codys-cookbook.md#795-perfect-pulled-pork)** — 25 min hands-on + 8–12 hr hands-off
-- 🟢 **[§7.97 Last-Meal Ribs](codys-cookbook.md#797-last-meal-ribs)** — 20 min hands-on + 5–6 hr hands-off
+- 🟢 **[§7.92 Butter-Poached Fillets](codys-cookbook.md#792-butter-poached-fillets)** — 40 min hands-on
+- 🟢 **[§7.95 Perfect Pulled Pork](codys-cookbook.md#795-perfect-pulled-pork)** — 25 min hands-on + 8–12 hr hands-off ❤️
+- 🟢 **[§7.97 Last-Meal Ribs](codys-cookbook.md#797-last-meal-ribs)** — 20 min hands-on + 5–6 hr hands-off ❤️
 - 🟢 **[§7.101 Sweet and Sour Pork Tenderloin](codys-cookbook.md#7101-sweet-and-sour-pork-tenderloin)** — 1 hr hands-on
 - 🟢 **[§7.102 Pesto-Crusted Pork Loin Roast](codys-cookbook.md#7102-pesto-crusted-pork-loin-roast)** — 1 hr 20 min hands-on
 - 🟢 **[§7.110 Short Ribs, Texas Style](codys-cookbook.md#7110-short-ribs-texas-style)** — 15 min hands-on + 8–10 hr hands-off
 - 🟢 **[§7.130 Beef Back Ribs](codys-cookbook.md#7130-beef-back-ribs)** — 10 min hands-on + 5–6 hr hands-off
 - 🟢 **[§7.136 Championship Pork Ribs](codys-cookbook.md#7136-championship-pork-ribs)** — 30 min hands-on + 4–5 hr hands-off
 - 🟢 **[§7.137 Tuffy Stone's Championship Pork Butt](codys-cookbook.md#7137-tuffy-stones-championship-pork-butt)** — 30 min hands-on + ~8 hr hands-off
+- 🟢 **[§7.149 The Ultimate Prime Rib Roast](codys-cookbook.md#7149-the-ultimate-prime-rib-roast)** — 2 hr hands-on + ~8 hr 30 min hands-off
 
-### Chicken & Poultry (15)
+### Chicken & Poultry (16)
 
+- 🟢 **[§7.9 Caveman Chicken Wings](codys-cookbook.md#79-caveman-chicken-wings)** — 1 hr 15 min hands-on ❤️
 - 🟢 **[§7.15 Pauls Jambalaya](codys-cookbook.md#715-pauls-jambalaya)** — 1 hr 35 min hands-on ❤️
 - 🟢 **[§7.39 Fennel & Ginger-Rubbed Chicken with Cauliflower](codys-cookbook.md#739-fennel--ginger-rubbed-chicken-with-cauliflower)** — 50 min hands-on 🔖
 - 🟢 **[§7.41 Spinach Tagliatelle & Peas in Golden Chicken Broth](codys-cookbook.md#741-spinach-tagliatelle--peas-in-golden-chicken-broth)** — 20 min hands-on
@@ -401,17 +416,20 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§7.52 Chicken Marbella](codys-cookbook.md#752-chicken-marbella)** — 1 hr 25 min hands-on
 - 🟢 **[§7.85 Hanger Steak with Duck Fat Wild Mushrooms](codys-cookbook.md#785-hanger-steak-with-duck-fat-wild-mushrooms)** — 15 min hands-on + 4 hr hands-off
 - 🟢 **[§7.98 Happy Mouth Yakitori Ribs](codys-cookbook.md#798-happy-mouth-yakitori-ribs)** — 20 min hands-on + ~1¾ hr hands-off
-- 🟢 **[§7.118 Simon & Garfunkel Chicken](codys-cookbook.md#7118-simon--garfunkel-chicken)** — 45 min hands-on
-- 🟢 **[§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](codys-cookbook.md#7119-big-bob-gibsons-chicken-in-bama-white-sauce)** — 55 min hands-on
+- 🟢 **[§7.118 Simon & Garfunkel Chicken](codys-cookbook.md#7118-simon--garfunkel-chicken)** — 10 min hands-on
+- 🟢 **[§7.119 Big Bob Gibson's Chicken in 'Bama White Sauce](codys-cookbook.md#7119-big-bob-gibsons-chicken-in-bama-white-sauce)** — 55 min hands-on ❤️
 - 🟢 **[§7.120 Blasphemy Buffalo Chicken Wings](codys-cookbook.md#7120-blasphemy-buffalo-chicken-wings)** — 1 hr 15 min hands-on
 - 🟢 **[§7.121 Marinated Cornish Game Hens](codys-cookbook.md#7121-marinated-cornish-game-hens)** — 1 hr hands-on
 - 🟢 **[§7.124 Poulet de France](codys-cookbook.md#7124-poulet-de-france)** — 35 min hands-on + ~3–3½ hr hands-off ❤️
 - 🟢 **[§7.127 Buttermilk-Marinated Roast Chicken](codys-cookbook.md#7127-buttermilk-marinated-roast-chicken)** — 1 hr 15 min hands-on
-- 🟢 **[§7.139 Extra Crispy Chicken Wings Without Frying](codys-cookbook.md#7139-extra-crispy-chicken-wings-without-frying)** — 40 min hands-on
+- 🟢 **[§7.139 Extra Crispy Chicken Wings Without Frying](codys-cookbook.md#7139-extra-crispy-chicken-wings-without-frying)** — 40 min hands-on 👍
 - 🟢 **[§7.140 Tandoori Chicken](codys-cookbook.md#7140-tandoori-chicken)** — 55 min hands-on
 
-### Seafood & Fish (15)
+### Seafood & Fish (18)
 
+- 🟢 **[§6.9 Cody's Pulled Pork](codys-cookbook.md#69-codys-pulled-pork)** — 20 min hands-on + ~12–14+ hr hands-off ❤️
+- 🟢 **[§6.11 Cody's Tony Chachere's Smoked Turkey](codys-cookbook.md#611-codys-tony-chacheres-smoked-turkey)** — 45 min hands-on + ~2½–3½ hr hands-off ❤️
+- 🟢 **[§6.13 Beer Can Chicken (Cody's Tony Chachere's Upright Smoked Chicken)](codys-cookbook.md#613-beer-can-chicken-codys-tony-chacheres-upright-smoked-chicken)** — 30 min hands-on + ~1¼–1½ hr hands-off ❤️
 - 🟢 **[§7.13 Crawfish Elegante](codys-cookbook.md#713-crawfish-elegante)** — 45 min hands-on ❤️
 - 🟢 **[§7.20 Chicken and Seafood Jambalaya](codys-cookbook.md#720-chicken-and-seafood-jambalaya)** — 1 hr 25 min hands-on ❤️
 - 🟢 **[§7.25 Sautéed Crawfish](codys-cookbook.md#725-sautéed-crawfish)** — 25 min hands-on 🔖
@@ -423,10 +441,10 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§7.87 Smoked Salmon Mousse Canapés](codys-cookbook.md#787-smoked-salmon-mousse-canapés)** — 23 min hands-on
 - 🟢 **[§7.88 Smoked Trout, Florida Mullet Style](codys-cookbook.md#788-smoked-trout-florida-mullet-style)** — 5 min hands-on + 30–45 min hands-off
 - 🟢 **[§7.90 Smoked Salmon Quiche](codys-cookbook.md#790-smoked-salmon-quiche)** — 1 hr 15 min hands-on
-- 🟢 **[§7.91 Smoked Halibut Salad](codys-cookbook.md#791-smoked-halibut-salad)** — 10 min hands-on + 30–45 min hands-off
+- 🟢 **[§7.91 Smoked Halibut Salad](codys-cookbook.md#791-smoked-halibut-salad)** — 10 min hands-on + to 140–145°F hands-off
 - 🟢 **[§7.93 Baja Fish Tacos](codys-cookbook.md#793-baja-fish-tacos)** — 30 min hands-on
 - 🟢 **[§7.116 Joe's Fireproof Grilled Shrimp](codys-cookbook.md#7116-joes-fireproof-grilled-shrimp)** — 25 min hands-on
-- 🟢 **[§7.117 Championship Bacon-Wrapped Stuffed Shrimp](codys-cookbook.md#7117-championship-bacon-wrapped-stuffed-shrimp)** — 55 min hands-on
+- 🟢 **[§7.117 Championship Bacon-Wrapped Stuffed Shrimp](codys-cookbook.md#7117-championship-bacon-wrapped-stuffed-shrimp)** — 55 min hands-on ❤️
 
 ### Lamb, Veal & Game (1)
 
@@ -442,10 +460,10 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§7.96 Really Loaded Potato Canoes](codys-cookbook.md#796-really-loaded-potato-canoes)** — 2 hr hands-on
 - 🟢 **[§7.105 Momofuku-Inspired Ramen Bowl](codys-cookbook.md#7105-momofuku-inspired-ramen-bowl)** — 1 hr hands-on + 4–6 hr hands-off
 
-### Soups, Stews & Gumbo (23)
+### Soups, Stews & Gumbo (25)
 
-- 🟢 **[§7.104 Smoked Bone Broth](codys-cookbook.md#7104-smoked-bone-broth)** — 1 hr 15 min hands-on + 4–5 hr hands-off
-- 🟢 **[§8.1 Chili Mac](codys-cookbook.md#81-chili-mac)** — 25 min hands-on + 4 hr hands-off ❤️
+- 🟢 **[§7.104 Smoked Bone Broth](codys-cookbook.md#7104-smoked-bone-broth)** — 1 hr 15 min hands-on + 4–5 hr hands-off ❤️
+- 🟢 **[§8.1 Chili Mac & Frito Pie](codys-cookbook.md#81-chili-mac--frito-pie)** — 10 min hands-on + — hands-off ❤️
 - 🟢 **[§8.4 Lemon Chicken Soup with Spinach and Rice](codys-cookbook.md#84-lemon-chicken-soup-with-spinach-and-rice)** — 40 min hands-on ❤️
 - 🟢 **[§8.7 Italian Sausage & Kale Soup](codys-cookbook.md#87-italian-sausage--kale-soup)** — 55 min hands-on ❤️
 - 🟢 **[§8.8 Cold Avocado & Cucumber Soup](codys-cookbook.md#88-cold-avocado--cucumber-soup)** — 15 min hands-on
@@ -460,21 +478,25 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§8.18 Gazpacho](codys-cookbook.md#818-gazpacho)** — 40 min hands-on
 - 🟢 **[§8.20 Six-Onion Soup](codys-cookbook.md#820-six-onion-soup)** — 1 hr 20 min hands-on
 - 🟢 **[§8.30 Turtle Soup I](codys-cookbook.md#830-turtle-soup-i)** — 1 hr 35 min hands-on
-- 🟢 **[§8.32 Potato Soup](codys-cookbook.md#832-potato-soup)** — 50 min hands-on
-- 🟢 **[§8.33 Mamma's Deer/Beef Stew](codys-cookbook.md#833-mammas-deerbeef-stew)** — 1 hr 50 min hands-on 👍
-- 🟢 **[§8.34 Shrimp and Corn Chowder](codys-cookbook.md#834-shrimp-and-corn-chowder)** — 10 min hands-on + 3–7 hr hands-off ❤️
+- 🟢 **[§8.32 Potato Soup](codys-cookbook.md#832-potato-soup)** — 1 hr 5 min hands-on
+- 🟢 **[§8.33 Mamma's Deer/Beef Stew](codys-cookbook.md#833-mammas-deerbeef-stew)** — 2 hr 25 min hands-on ❤️
+- 🟢 **[§8.34 Shrimp and Corn Chowder](codys-cookbook.md#834-shrimp-and-corn-chowder)** — 10 min hands-on + 3–7 hr hands-off 👍
 - 🟢 **[§8.35 Tomato Basil Soup (1 Huge 12 QT Pot!)](codys-cookbook.md#835-tomato-basil-soup-1-huge-12-qt-pot)** — 1 hr 15 min hands-on ❤️
 - 🟢 **[§8.37 Chicken and Garlic Soup](codys-cookbook.md#837-chicken-and-garlic-soup)** — 1 hr 30 min hands-on
 - 🟢 **[§8.39 Smooth: Silky Sweet Corn Soup](codys-cookbook.md#839-smooth-silky-sweet-corn-soup)** — 1 hr 20 min hands-on
 - 🟢 **[§8.40 Chicken Stock](codys-cookbook.md#840-chicken-stock)** — 15 min hands-on + 6–8 hr hands-off
+- 🟢 **[§8.45 Seafood Courtbouillon](codys-cookbook.md#845-seafood-courtbouillon)** — 45 min hands-on + 3–4 hr hands-off
+- 🟢 **[§8.48 Cody's Chili](codys-cookbook.md#848-codys-chili)** — 30 min hands-on + 4 hr hands-off
 
-### Vegetables (33)
+### Vegetables (38)
 
+- 🟢 **[§5.2 Sautéed Asparagus](codys-cookbook.md#52-sautéed-asparagus)** — 13 min hands-on ❤️
+- 🟢 **[§5.7 Brussels Sprouts](codys-cookbook.md#57-brussels-sprouts)** — 22 min hands-on ❤️
 - 🟢 **[§5.13 North Carolina Coleslaw](codys-cookbook.md#513-north-carolina-coleslaw)** — 10 min hands-on 👍
 - 🟢 **[§5.14 Grilled Corn](codys-cookbook.md#514-grilled-corn)** — 20 min hands-on 👍
 - 🟢 **[§5.15 Roasted Asparagus](codys-cookbook.md#515-roasted-asparagus)** — 35 min hands-on 🔖
 - 🟢 **[§5.18 Pickled Beets with Horseradish Cream](codys-cookbook.md#518-pickled-beets-with-horseradish-cream)** — 1 hr 20 min hands-on 🔖
-- 🟢 **[§5.19 Brazilian Salad](codys-cookbook.md#519-brazilian-salad)** — 15 min hands-on
+- 🟢 **[§5.19 Brazilian Salad](codys-cookbook.md#519-brazilian-salad)** — 15 min hands-on ❤️
 - 🟢 **[§5.20 Escarole Salad with Lemon & Parmigiano](codys-cookbook.md#520-escarole-salad-with-lemon--parmigiano)** — 10 min hands-on
 - 🟢 **[§5.21 Sautéed Kale](codys-cookbook.md#521-sautéed-kale)** — 13 min hands-on
 - 🟢 **[§5.22 Ratatouille (Eggplant Casserole)](codys-cookbook.md#522-ratatouille-eggplant-casserole)** — 1 hr 35 min hands-on
@@ -485,11 +507,11 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§5.30 Grandma's Mustard Greens & Turnips](codys-cookbook.md#530-grandmas-mustard-greens--turnips)** — 50 min hands-on
 - 🟢 **[§5.35 Cole Slaw](codys-cookbook.md#535-cole-slaw)** — 10 min hands-on
 - 🟢 **[§5.37 Mamma's Spinach](codys-cookbook.md#537-mammas-spinach)** — 13 min hands-on ❤️
-- 🟢 **[§5.38 Roasted Veggies](codys-cookbook.md#538-roasted-veggies)** — 30 min hands-on
+- 🟢 **[§5.38 Roasted Veggies](codys-cookbook.md#538-roasted-veggies)** — 30 min hands-on 👍
 - 🟢 **[§5.39 Fennel Fondant](codys-cookbook.md#539-fennel-fondant)** — 25 min hands-on + 45 min hands-off
 - 🟢 **[§5.40 Simple Grilled Crostini](codys-cookbook.md#540-simple-grilled-crostini)** — 15 min hands-on
 - 🟢 **[§5.41 Grilled Asparagus](codys-cookbook.md#541-grilled-asparagus)** — 20 min hands-on
-- 🟢 **[§5.42 Grilled Cauliflower](codys-cookbook.md#542-grilled-cauliflower)** — 40 min hands-on
+- 🟢 **[§5.42 Grilled Cauliflower](codys-cookbook.md#542-grilled-cauliflower)** — 40 min hands-on 👍
 - 🟢 **[§5.43 The Ultimate Grilled Corn on the Cob](codys-cookbook.md#543-the-ultimate-grilled-corn-on-the-cob)** — 45 min hands-on
 - 🟢 **[§5.44 Chipotle-Lime Corn on the Cob](codys-cookbook.md#544-chipotle-lime-corn-on-the-cob)** — 25 min hands-on
 - 🟢 **[§5.45 Grilled Romaine Salad](codys-cookbook.md#545-grilled-romaine-salad)** — 30 min hands-on
@@ -499,23 +521,29 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§5.52 Summer: Tomato, Basil, and Cucumber](codys-cookbook.md#552-summer-tomato-basil-and-cucumber)** — 20 min hands-on
 - 🟢 **[§5.53 Bright Cabbage Slaw](codys-cookbook.md#553-bright-cabbage-slaw)** — 15 min hands-on
 - 🟢 **[§5.54 Sauté: Snap Peas with Chilies and Mint](codys-cookbook.md#554-sauté-snap-peas-with-chilies-and-mint)** — 11 min hands-on
-- 🟢 **[§5.56 Cherry Tomato Confit](codys-cookbook.md#556-cherry-tomato-confit)** — 55 min hands-on
+- 🟢 **[§5.56 Cherry Tomato Confit](codys-cookbook.md#556-cherry-tomato-confit)** — 55 min hands-on 👍
 - 🟢 **[§5.57 Smoke-Roasted Garlic](codys-cookbook.md#557-smoke-roasted-garlic)** — 5 min hands-on + ~45 min hands-off
 - 🟢 **[§5.58 Smoked Tomato Raisins](codys-cookbook.md#558-smoked-tomato-raisins)** — 5 min hands-on + ~6 hr hands-off
 - 🟢 **[§5.59 Squash Bisque](codys-cookbook.md#559-squash-bisque)** — 1 hr 5 min hands-on + 40 min hands-off
+- 🟢 **[§5.61 Simple Romaine (or Butter Lettuce) Salad with Grana Padano](codys-cookbook.md#561-simple-romaine-or-butter-lettuce-salad-with-grana-padano)** — 10 min hands-on ❤️
+- 🟢 **[§5.62 Salted Veggies in White Vinegar (cucumber, onion, carrot, celery…)](codys-cookbook.md#562-salted-veggies-in-white-vinegar-cucumber-onion-carrot-celery)** — 10 min hands-on
+- 🟢 **[§5.63 Simple Romaine, Homemade Caesar](codys-cookbook.md#563-simple-romaine-homemade-caesar)** — 10 min hands-on
 
-### Potatoes, Rice & Grains (10)
+### Potatoes, Rice & Grains (13)
 
+- 🟢 **[§5.5 Salted Sautéed Zucchini (noodle substitute)](codys-cookbook.md#55-salted-sautéed-zucchini-noodle-substitute)** — 20 min hands-on ❤️
 - 🟢 **[§5.10 Bacon Tomato Avocado Pasta Salad](codys-cookbook.md#510-bacon-tomato-avocado-pasta-salad)** — 35 min hands-on ❤️
 - 🟢 **[§5.11 Sweet Potato Casserole](codys-cookbook.md#511-sweet-potato-casserole)** — 45 min hands-on 👍
-- 🟢 **[§5.25 Heather's Mashed Potatoes](codys-cookbook.md#525-heathers-mashed-potatoes)** — 1 hr 55 min hands-on
+- 🟢 **[§5.25 Heather's Mashed Potatoes](codys-cookbook.md#525-heathers-mashed-potatoes)** — 1 hr 55 min hands-on ❤️
 - 🟢 **[§5.31 Scalloped Oyster Dressing](codys-cookbook.md#531-scalloped-oyster-dressing)** — 1 hr 20 min hands-on
 - 🟢 **[§5.32 Oyster Dressing (For 10 to 12 lb. Turkey)](codys-cookbook.md#532-oyster-dressing-for-10-to-12-lb-turkey)** — 1 hr 25 min hands-on
 - 🟢 **[§5.33 Quick and Smoky Baked Beans](codys-cookbook.md#533-quick-and-smoky-baked-beans)** — 25 min hands-on + 30 min hands-off
 - 🟢 **[§5.34 Brazilian Black Beans with Bacon (Tutu Mineira)](codys-cookbook.md#534-brazilian-black-beans-with-bacon-tutu-mineira)** — 30 min hands-on
-- 🟢 **[§5.36 Lemon Green Beans](codys-cookbook.md#536-lemon-green-beans)** — 20 min hands-on 👍
+- 🟢 **[§5.36 Lemon Green Beans](codys-cookbook.md#536-lemon-green-beans)** — 20 min hands-on ❤️
 - 🟢 **[§5.47 Smoked Potato Salad](codys-cookbook.md#547-smoked-potato-salad)** — 20 min hands-on + 45 min hands-off
 - 🟢 **[§5.55 Steamy Sauté: Garlicky Green Beans](codys-cookbook.md#555-steamy-sauté-garlicky-green-beans)** — 21 min hands-on
+- 🟢 **[§5.60 Curd Rice](codys-cookbook.md#560-curd-rice)** — 40 min hands-on
+- 🟢 **[§5.64 Quick Salad with Homemade Dressing](codys-cookbook.md#564-quick-salad-with-homemade-dressing)** — 10 min hands-on
 
 ### Breads & Biscuits (9)
 
@@ -523,30 +551,34 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§11.3 Keto Skillet Cornbread](codys-cookbook.md#113-keto-skillet-cornbread)** — 40 min hands-on 👍
 - 🟢 **[§11.6 Keto Zucchini Bread](codys-cookbook.md#116-keto-zucchini-bread)** — 1 hr 5 min hands-on 🔖
 - 🟢 **[§15.2 Butter Dips](codys-cookbook.md#152-butter-dips)** — 38 min hands-on
-- 🟢 **[§15.3 Basic Biscuits (Cheese or Bacon Variation)](codys-cookbook.md#153-basic-biscuits-cheese-or-bacon-variation)** — — hands-on
+- 🟢 **[§15.3 Basic Biscuits (Cheese or Bacon Variation)](codys-cookbook.md#153-basic-biscuits-cheese-or-bacon-variation)** — 12 min hands-on
 - 🟢 **[§15.4 Angel Biscuits](codys-cookbook.md#154-angel-biscuits)** — 40 min hands-on
 - 🟢 **[§15.5 Fancy Biscuits](codys-cookbook.md#155-fancy-biscuits)** — 25 min hands-on
 - 🟢 **[§15.6 Pastry Biscuits](codys-cookbook.md#156-pastry-biscuits)** — 27 min hands-on
 - 🟢 **[§15.8 Old-Fashioned Skillet Cornbread and Hush Puppies](codys-cookbook.md#158-old-fashioned-skillet-cornbread-and-hush-puppies)** — 45 min hands-on
 
-### Keto & Low-Carb Sides (2)
+### Keto & Low-Carb Sides (4)
 
 - 🟢 **[§11.4 Southern Fauxtato Salad (Cauliflower "Potato" Salad)](codys-cookbook.md#114-southern-fauxtato-salad-cauliflower-potato-salad)** — 30 min hands-on ❤️
 - 🟢 **[§11.5 Easy Caulimash (Keto "Mashed Potatoes")](codys-cookbook.md#115-easy-caulimash-keto-mashed-potatoes)** — 15 min hands-on ❤️
+- 🟢 **[§11.7 Home-Fried Bacon Radishes](codys-cookbook.md#117-home-fried-bacon-radishes)** — 35 min hands-on
+- 🟢 **[§11.8 Fried Cabbage and Bacon](codys-cookbook.md#118-fried-cabbage-and-bacon)** — 20 min hands-on
 
 ### Breakfast (5)
 
+- 🟢 **[§10.4 Southern Keto Egg and Sausage Muffins](codys-cookbook.md#104-southern-keto-egg-and-sausage-muffins)** — 35 min hands-on ❤️
 - 🟢 **[§10.5 Soft Scrambled Eggs & Chanterelles](codys-cookbook.md#105-soft-scrambled-eggs--chanterelles)** — 35 min hands-on
 - 🟢 **[§10.6 Irish Soda Bread](codys-cookbook.md#106-irish-soda-bread)** — 55 min hands-on
-- 🟢 **[§10.8 Quiche aux Fruits de Mer (Shrimp, Crab, or Lobster Quiche)](codys-cookbook.md#108-quiche-aux-fruits-de-mer-shrimp-crab-or-lobster-quiche)** — — hands-on
 - 🟢 **[§10.10 Cheese Grits](codys-cookbook.md#1010-cheese-grits)** — 1 hr 15 min hands-on
 - 🟢 **[§10.11 Garlic Cheese Grits](codys-cookbook.md#1011-garlic-cheese-grits)** — 1 hr 5 min hands-on
 
-### Snacks & Appetizers (21)
+### Snacks & Appetizers (24)
 
 - 🟢 **[§9.5 Frank's RedHot Buffalo Chicken Dip](codys-cookbook.md#95-franks-redhot-buffalo-chicken-dip)** — 30 min hands-on 👍
 - 🟢 **[§9.7 Chicken Salad](codys-cookbook.md#97-chicken-salad)** — 40 min hands-on ❤️
 - 🟢 **[§9.8 Jalapeño Poppers](codys-cookbook.md#98-jalapeño-poppers)** — 50 min hands-on ❤️
+- 🟢 **[§9.9 Shrimp Remoulade](codys-cookbook.md#99-shrimp-remoulade)** — 40 min hands-on ❤️
+- 🟢 **[§9.10 Crabmeat Avery](codys-cookbook.md#910-crabmeat-avery)** — 45 min hands-on 🔖
 - 🟢 **[§9.11 Melba Toasts](codys-cookbook.md#911-melba-toasts)** — 20 min hands-on
 - 🟢 **[§9.12 Potted Crab](codys-cookbook.md#912-potted-crab)** — 20 min hands-on
 - 🟢 **[§9.13 Blue Cheese with Black Pepper](codys-cookbook.md#913-blue-cheese-with-black-pepper)** — 10 min hands-on
@@ -556,15 +588,16 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§9.17 Tomatoes All Dressed Up for Summer](codys-cookbook.md#917-tomatoes-all-dressed-up-for-summer)** — 15 min hands-on
 - 🟢 **[§9.18 The Splendid Summer Tomato Sandwich](codys-cookbook.md#918-the-splendid-summer-tomato-sandwich)** — 11 min hands-on
 - 🟢 **[§9.19 Day-After-Thanksgiving Turkey Sandwich](codys-cookbook.md#919-day-after-thanksgiving-turkey-sandwich)** — 8 min hands-on
-- 🟢 **[§9.20 Pickled Shrimp & Celery](codys-cookbook.md#920-pickled-shrimp--celery)** — 35 min hands-on
+- 🟢 **[§9.20 Pickled Shrimp & Celery](codys-cookbook.md#920-pickled-shrimp--celery)** — 1 hr hands-on
 - 🟢 **[§9.21 Dressed-Up Hummus with Garlic Naan](codys-cookbook.md#921-dressed-up-hummus-with-garlic-naan)** — 13 min hands-on
 - 🟢 **[§9.22 Tailgate Muffuletta Sandwich](codys-cookbook.md#922-tailgate-muffuletta-sandwich)** — 20 min hands-on + ~3–4 hr hands-off
 - 🟢 **[§9.23 Fresh Stuffed Crabs](codys-cookbook.md#923-fresh-stuffed-crabs)** — 2 hr 15 min hands-on
 - 🟢 **[§9.25 Crabmeat Imperial](codys-cookbook.md#925-crabmeat-imperial)** — 35 min hands-on
 - 🟢 **[§9.26 Mushroom Florentine](codys-cookbook.md#926-mushroom-florentine)** — 45 min hands-on
-- 🟢 **[§9.27 Reuben](codys-cookbook.md#927-reuben)** — 18 min hands-on
+- 🟢 **[§9.27 Reuben](codys-cookbook.md#927-reuben)** — 18 min hands-on ❤️
 - 🟢 **[§9.30 Muffelatta Poboy](codys-cookbook.md#930-muffelatta-poboy)** — 15 min hands-on
 - 🟢 **[§9.31 Quesadillas](codys-cookbook.md#931-quesadillas)** — 15 min hands-on
+- 🟢 **[§9.33 Easy Deviled Eggs](codys-cookbook.md#933-easy-deviled-eggs)** — 5 min hands-on ❤️
 
 ### Desserts (15)
 
@@ -580,15 +613,15 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§14.22 Nekisia's Olive Oil and Sea Salt Granola](codys-cookbook.md#1422-nekisias-olive-oil-and-sea-salt-granola)** — 1 hr hands-on
 - 🟢 **[§14.23 Fresh Ginger and Molasses Cake](codys-cookbook.md#1423-fresh-ginger-and-molasses-cake)** — 1 hr hands-on
 - 🟢 **[§14.26 Classic Pumpkin Pie](codys-cookbook.md#1426-classic-pumpkin-pie)** — 1 hr 20 min hands-on
-- 🟢 **[§14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)](codys-cookbook.md#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation)** — 10 min hands-on + ~4 hr hands-off
-- 🟢 **[§14.29 Roast It on a Bed of Fig Leaves](codys-cookbook.md#1429-roast-it-on-a-bed-of-fig-leaves)** — 30 min hands-on
+- 🟢 **[§14.28 Juice It and Make Granita (Orange Granita; Coffee Granita variation)](codys-cookbook.md#1428-juice-it-and-make-granita-orange-granita-coffee-granita-variation)** — 10 min hands-on + ~8 hr hands-off
+- 🟢 **[§14.29 Roast It on a Bed of Fig Leaves](codys-cookbook.md#1429-roast-it-on-a-bed-of-fig-leaves)** — 10 min hands-on
 - 🟢 **[§14.34 Poach It in Wine](codys-cookbook.md#1434-poach-it-in-wine)** — 50 min hands-on + up to 2½ hr hands-off
 
 ### Drinks (1)
 
 - 🟢 **[§16.1 Hot Apple Cider](codys-cookbook.md#161-hot-apple-cider)** — 50 min hands-on
 
-### Rubs & Spice Blends (20)
+### Rubs & Spice Blends (19)
 
 - 🟢 **[§4.1 Darcy's Steak Rub](codys-cookbook.md#41-darcys-steak-rub)** — 10 min hands-on ❤️
 - 🟢 **[§4.7 Captain Mike's Seasoning](codys-cookbook.md#47-captain-mikes-seasoning)** — 5 min hands-on ❤️
@@ -598,9 +631,8 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.29 Java Rub](codys-cookbook.md#429-java-rub)** — 5 min hands-on
 - 🟢 **[§4.30 Mucho Macho Pepper Rub](codys-cookbook.md#430-mucho-macho-pepper-rub)** — 5 min hands-on
 - 🟢 **[§4.31 Mediterranean Herb Rub](codys-cookbook.md#431-mediterranean-herb-rub)** — 5 min hands-on
-- 🟢 **[§4.105 Dalmatian Rub](codys-cookbook.md#4105-dalmatian-rub)** — 2 min hands-on
-- 🟢 **[§4.106 Big Bad Beef Rub](codys-cookbook.md#4106-big-bad-beef-rub)** — 10 min hands-on
-- 🟢 **[§4.108 Meathead's Memphis Dust](codys-cookbook.md#4108-meatheads-memphis-dust)** — 15 min hands-on
+- 🟢 **[§4.105 Dalmatian Rub](codys-cookbook.md#4105-dalmatian-rub)** — 2 min hands-on ❤️
+- 🟢 **[§4.108 Meathead's Memphis Dust](codys-cookbook.md#4108-meatheads-memphis-dust)** — 15 min hands-on ❤️
 - 🟢 **[§4.109 Simon & Garfunkel Rub](codys-cookbook.md#4109-simon--garfunkel-rub)** — 10 min hands-on
 - 🟢 **[§4.110 Dolly's Lamb Rub](codys-cookbook.md#4110-dollys-lamb-rub)** — 10 min hands-on
 - 🟢 **[§4.111 Marietta's Fish Rub](codys-cookbook.md#4111-mariettas-fish-rub)** — 5 min hands-on
@@ -611,7 +643,7 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.166 French Rub](codys-cookbook.md#4166-french-rub)** — 15 min hands-on
 - 🟢 **[§4.169 Cool Smoke Rub](codys-cookbook.md#4169-cool-smoke-rub)** — 10 min hands-on
 
-### Brines, Marinades & Injections (14)
+### Brines, Marinades & Injections (15)
 
 - 🟢 **[§4.25 Basic Fish Cure](codys-cookbook.md#425-basic-fish-cure)** — 5 min hands-on
 - 🟢 **[§4.34 Basic Barbecue Mop Sauce](codys-cookbook.md#434-basic-barbecue-mop-sauce)** — 10 min hands-on
@@ -627,8 +659,9 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.121 Texas Mop Sauce](codys-cookbook.md#4121-texas-mop-sauce)** — 30 min hands-on
 - 🟢 **[§4.171 Cool Smoke Injection](codys-cookbook.md#4171-cool-smoke-injection)** — 5 min hands-on
 - 🟢 **[§4.176 Lubing Turkey Breasts (Oil Injection)](codys-cookbook.md#4176-lubing-turkey-breasts-oil-injection)** — 20 min hands-on
+- 🟢 **[§4.185 Teriyaki Brinerade and Sauce](codys-cookbook.md#4185-teriyaki-brinerade-and-sauce)** — 30 min hands-on
 
-### Barbecue & Grilling Sauces (15)
+### Barbecue & Grilling Sauces (16)
 
 - 🟢 **[§4.22 Mustard Sauce](codys-cookbook.md#422-mustard-sauce)** — 25 min hands-on
 - 🟢 **[§4.36 North Carolina Vinegar Sauce](codys-cookbook.md#436-north-carolina-vinegar-sauce)** — 5 min hands-on
@@ -645,6 +678,7 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.128 Burger Glop](codys-cookbook.md#4128-burger-glop)** — 5 min hands-on
 - 🟢 **[§4.172 Alabama White Sauce](codys-cookbook.md#4172-alabama-white-sauce)** — 10 min hands-on
 - 🟢 **[§4.173 Lexington Dip #2](codys-cookbook.md#4173-lexington-dip-2)** — 10 min hands-on
+- 🟢 **[§4.179 Carolina Gold for Grownups](codys-cookbook.md#4179-carolina-gold-for-grownups)** — 35 min hands-on
 
 ### Classic French & Mother Sauces (19)
 
@@ -668,7 +702,7 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.83 Coulis de Tomates à la Provençale (Fresh Tomato Purée with Garlic and Herbs)](codys-cookbook.md#483-coulis-de-tomates-à-la-provençale-fresh-tomato-purée-with-garlic-and-herbs)** — 1 hr 20 min hands-on
 - 🟢 **[§4.132 Roasted Red Pepper and Garlic Coulis](codys-cookbook.md#4132-roasted-red-pepper-and-garlic-coulis)** — 25 min hands-on
 
-### Salsas, Chutneys & Fresh Sauces (23)
+### Salsas, Chutneys & Fresh Sauces (24)
 
 - 🟢 **[§4.2 Salsa Alfredo (Alfredo Sauce)](codys-cookbook.md#42-salsa-alfredo-alfredo-sauce)** — 15 min hands-on
 - 🟢 **[§4.3 Pesto (Basil, Parmesan, and Pine Nut Sauce)](codys-cookbook.md#43-pesto-basil-parmesan-and-pine-nut-sauce)** — 10 min hands-on
@@ -693,6 +727,7 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.151 Meyer Lemon Salsa](codys-cookbook.md#4151-meyer-lemon-salsa)** — 15 min hands-on
 - 🟢 **[§4.153 Indian Coconut-Cilantro Chutney](codys-cookbook.md#4153-indian-coconut-cilantro-chutney)** — 18 min hands-on
 - 🟢 **[§4.164 Pesto (Basil Pesto)](codys-cookbook.md#4164-pesto-basil-pesto)** — 15 min hands-on
+- 🟢 **[§4.192 Avocado Salsa](codys-cookbook.md#4192-avocado-salsa)** — 10 min hands-on
 
 ### Dressings & Vinaigrettes (19)
 
@@ -716,7 +751,7 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.162 Herb Mayonnaise](codys-cookbook.md#4162-herb-mayonnaise)** — 5 min hands-on
 - 🟢 **[§4.163 Rouille (Pepper Mayonnaise)](codys-cookbook.md#4163-rouille-pepper-mayonnaise)** — 10 min hands-on
 
-### Compound Butters (7)
+### Compound Butters (8)
 
 - 🟢 **[§4.24 Pecan Butter Sauce](codys-cookbook.md#424-pecan-butter-sauce)** — 10 min hands-on
 - 🟢 **[§4.55 Fresh Herb Butter](codys-cookbook.md#455-fresh-herb-butter)** — 10 min hands-on
@@ -725,15 +760,17 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.58 Pimentón Butter](codys-cookbook.md#458-pimentón-butter)** — 5 min hands-on
 - 🟢 **[§4.133 Beef Butter](codys-cookbook.md#4133-beef-butter)** — 10 min hands-on
 - 🟢 **[§4.167 Smoked Butter](codys-cookbook.md#4167-smoked-butter)** — 10 min hands-on + 1 hr hands-off
+- 🟢 **[§4.183 Ketjap Butter](codys-cookbook.md#4183-ketjap-butter)** — 5 min hands-on
 
-### Pickles & Preserves (4)
+### Pickles & Preserves (5)
 
 - 🟢 **[§4.5 Pickled Pink Onions](codys-cookbook.md#45-pickled-pink-onions)** — 15 min hands-on ❤️
-- 🟢 **[§4.6 No-Heat Sour Kraut](codys-cookbook.md#46-no-heat-sour-kraut)** — 45 min hands-on + weeks hands-off ❤️
+- 🟢 **[§4.6 No-Heat Sour Kraut](codys-cookbook.md#46-no-heat-sour-kraut)** — 45 min hands-on + 3–6 wk hands-off ❤️
 - 🟢 **[§4.90 Pickled Vegetables (Encurtido)](codys-cookbook.md#490-pickled-vegetables-encurtido)** — 20 min hands-on + 1 day minimum hands-off
 - 🟢 **[§4.122 Bacon and Onion Jam](codys-cookbook.md#4122-bacon-and-onion-jam)** — 2 hr 30 min hands-on
+- 🟢 **[§4.177 Quick Pickles](codys-cookbook.md#4177-quick-pickles)** — 25 min hands-on
 
-### Other Sauces & Condiments (22)
+### Other Sauces & Condiments (34)
 
 - 🟢 **[§4.39 Mustard-Dill Sauce](codys-cookbook.md#439-mustard-dill-sauce)** — 10 min hands-on ❤️
 - 🟢 **[§4.40 Herbed Horseradish Sauce](codys-cookbook.md#440-herbed-horseradish-sauce)** — 15 min hands-on
@@ -743,7 +780,7 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.53 Simple Tomato Sauce](codys-cookbook.md#453-simple-tomato-sauce)** — 1 hr 10 min hands-on
 - 🟢 **[§4.107 Mrs. O'Leary's Cow Crust](codys-cookbook.md#4107-mrs-olearys-cow-crust)** — 10 min hands-on
 - 🟢 **[§4.113 Citrus Salt and Pepper](codys-cookbook.md#4113-citrus-salt-and-pepper)** — 15 min hands-on + 1–3 hr hands-off
-- 🟢 **[§4.115 Smoked Garlic Powder or Smoked Onion Powder](codys-cookbook.md#4115-smoked-garlic-powder-or-smoked-onion-powder)** — 15 min hands-on + 3–6 hr hands-off
+- 🟢 **[§4.115 Smoked Garlic Powder or Smoked Onion Powder](codys-cookbook.md#4115-smoked-garlic-powder-or-smoked-onion-powder)** — 15 min hands-on + 5–10 hr hands-off
 - 🟢 **[§4.123 D.C. Mumbo Sauce](codys-cookbook.md#4123-dc-mumbo-sauce)** — 30 min hands-on
 - 🟢 **[§4.124 Tartar Sauce](codys-cookbook.md#4124-tartar-sauce)** — 15 min hands-on
 - 🟢 **[§4.126 Grand Marnier Glaze](codys-cookbook.md#4126-grand-marnier-glaze)** — 45 min hands-on
@@ -757,6 +794,18 @@ looks like it belongs here and doesn't — its béarnaise is a **mayonnaise**, w
 - 🟢 **[§4.168 Cool Smoke Chili Powder](codys-cookbook.md#4168-cool-smoke-chili-powder)** — 10 min hands-on
 - 🟢 **[§4.174 Poblano-Basil Cream Sauce](codys-cookbook.md#4174-poblano-basil-cream-sauce)** — 35 min hands-on
 - 🟢 **[§4.175 Teriyaki Sauce](codys-cookbook.md#4175-teriyaki-sauce)** — 30 min hands-on
+- 🟢 **[§4.180 Duxelles and Mushroom Cream Sauce](codys-cookbook.md#4180-duxelles-and-mushroom-cream-sauce)** — 1 hr hands-on
+- 🟢 **[§4.181 Japanese Happy Mouth Yakitori Sauce](codys-cookbook.md#4181-japanese-happy-mouth-yakitori-sauce)** — 10 min hands-on
+- 🟢 **[§4.182 Basic Pepper Paste](codys-cookbook.md#4182-basic-pepper-paste)** — 20 min hands-on
+- 🟢 **[§4.184 Mexican Fish Baste](codys-cookbook.md#4184-mexican-fish-baste)** — 5 min hands-on
+- 🟢 **[§4.186 Thai Sweet Chile Sauce (Nam Jim Kai)](codys-cookbook.md#4186-thai-sweet-chile-sauce-nam-jim-kai)** — 30 min hands-on
+- 🟢 **[§4.189 Sweet and Tangy Dipping Sauce](codys-cookbook.md#4189-sweet-and-tangy-dipping-sauce)** — 5 min hands-on
+- 🟢 **[§4.190 Thai Peanut Sauce](codys-cookbook.md#4190-thai-peanut-sauce)** — 20 min hands-on
+- 🟢 **[§4.191 Dutch West Indian Peanut Sauce (Pindasaus)](codys-cookbook.md#4191-dutch-west-indian-peanut-sauce-pindasaus)** — 20 min hands-on
+- 🟢 **[§4.193 Dijon & Greek Yogurt Steak Sauce](codys-cookbook.md#4193-dijon--greek-yogurt-steak-sauce)** — 5 min hands-on
+- 🟢 **[§4.194 Dad's Horseradish Steak Sauce (Dill, Sour Cream & Cream Cheese)](codys-cookbook.md#4194-dads-horseradish-steak-sauce-dill-sour-cream--cream-cheese)** — 10 min hands-on ❤️
+- 🟢 **[§4.195 Cody's Smoked Salt](codys-cookbook.md#4195-codys-smoked-salt)** — 5 min hands-on + ~2 hr hands-off ❤️
+- 🟢 **[§4.196 Fresh Cranberry Sauce](codys-cookbook.md#4196-fresh-cranberry-sauce)** — 20 min hands-on
 
 ### Techniques & Reference (4)
 

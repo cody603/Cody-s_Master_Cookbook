@@ -12,12 +12,12 @@ The cooking style is hands-on and conversational: Cody talks through methods in 
 
 Every time a recipe is added or changed:
 
-1. **Read the entire `codys-cookbook.md` first.** Never edit from memory or a partial view.
-2. **Edit the file in place.** No copies, versioned filenames, or side files — git history is the backup system.
+1. **Read the parts of `codys-cookbook.md` you are about to touch, in full, before touching them.** Never edit from memory. The file has passed 4 MB and can no longer be read end to end in a single pass, so the working method is: grep for the section heading, read that entry with offset/limit, and read every entry that cross-references it. Never edit an entry you have not just read.
+2. **Edit the file in place.** No copies and no versioned filenames — git history is the backup system. **One exception, added 2026-09-08 at Cody's direction: the changelog lives in its own file, `CHANGELOG.md`.** It grew past the point where it could ride along in the master file. Nothing else may be split out without Cody saying so.
 3. **Commit directly to `main`.** No branches, no pull requests — just commit straight to main with a clear message. (Git keeps every version, so any bad edit can be rolled back.)
 4. **Use scripting for bulk edits** rather than manual string replacement when many sections change at once.
 
-The cookbook keeps a **table of contents** and a **changelog** at the top, plus one section per recipe. Every change gets a changelog line with the date and what changed.
+The cookbook keeps a **table of contents** at the top plus one section per recipe. **The changelog is `CHANGELOG.md`, newest entry first.** Every change gets a changelog line there with the date and what changed — that requirement has not relaxed, only moved.
 
 Default format is markdown. Do **not** produce a Word document or any other format unless Cody explicitly asks.
 
@@ -56,6 +56,14 @@ Split by store, using these prefixes:
 Every written-up recipe carries a one-line badge above its Ingredients, and a matching row in the **Difficulty & Time Index** near the top of the cookbook. Placeholders don't get one — there's no method to time yet.
 
 **Difficulty is technique risk, not effort.** 🟢 Easy · 🟡 Medium · 🔴 Hard. Hard is reserved for things that can genuinely fail on you — roux above all. An 8-hour crock pot is Easy, because none of those hours can go wrong. A 15-minute roux is Hard.
+
+**Roux comes in three tiers, and only the darkest earns a 🔴** *(Cody, 2026-09-07: "use your judgment on the roux, because some is dark and some is light — I think a bisque is a light version, which is less hard")*:
+
+- **Dark roux** — chocolate, mahogany, "dark brown," "dark red-brown to black" → **🔴 Hard.** This is the one that goes from perfect to burnt in under a minute.
+- **Brown / medium roux** — peanut-butter colored, copper, "brown," "medium brown" → **🟡 Medium.** It can still scorch, but the window is wider and the target more forgiving.
+- **Blond / light / white roux** — pale, a couple of minutes, never colored; the base of a béchamel, a velouté, or a butter-thickened cream sauce → **earns nothing on its own.** Rate the recipe on whatever else it does.
+
+**The color target sets the tier, not the quantity.** A two-tablespoon roux taken to dark is 🔴; a cup of blond roux is not. And a roux never *lowers* a rating that another technique has already earned — emulsions, caramel, and meringue folds keep their own difficulty regardless.
 
 **Long is not hard. A big recipe is not automatically a 🔴.** The test is always the same: *can a step go from perfect to ruined?* If nothing can, it's Easy no matter how many hours or components it involves. **[§1 Cody's Pho](codys-cookbook.md#1-codys-pho) is the reference case** — two days, two hours of prep, more moving parts than anything else in the book, and rated 🟢 Easy, because not one of its steps can fail on you. In Cody's words, *it's a long distance run.* Length, component count, and lead time belong in the **time** fields; they must never inflate the difficulty rating.
 
@@ -119,6 +127,100 @@ Tag by the recipe's own content, not by which section it sits in. Keto recipes t
 
 **The recurring substitutions** across these are worth recognizing when a new one arrives: cauliflower for potatoes, almond flour and oat fiber for wheat flour, erythritol for sugar, whey protein powder for breading. When a new keto recipe uses one of these, cross-reference the others that already do.
 
+## 3d. "Use Your Judgment" — What That Actually Requires
+
+**Added 2026-09-08 at Cody's direction.** When Cody says **"use your judgment," "figure it out," "you decide,"** or anything of that shape, that is not permission to guess. It is an instruction to go research it properly and then write it down with its basis.
+
+**In his words:**
+
+> *"If I say I'd like you to figure it out — from now on, if I say something like that or use your judgment — I'd like you to look at a really credible cooking source. Professional chefs, tried-and-true websites that aren't just a Pinterest or Facebook flare. These are real chefs with real credentials, and I'd like you to look through what they have to say."*
+
+**What counts as a source:**
+
+- **This cookbook first.** If something already here answers it, that beats anything external — it's already sourced, and it keeps the book internally consistent. *(Example: "3 mild hot peppers" was answered from [§T105](codys-cookbook.md#t105-chiles-chipotles-in-adobo-and-paprika-the-meathead-method)'s own Scoville table, not from a web search.)*
+- **Named cookbook authors already in this book** — Prudhomme, Raichlen, Meathead, Julia Child, Nosrat, Canal House.
+- **Professional test kitchens and chefs with real credentials** — the kind of place that tests a recipe before publishing it.
+- **Government food-safety sources** for anything about temperature or safety — USDA FSIS above all.
+
+**What does not count, and must never be used:**
+
+- **Pinterest, Facebook, and social recipe reposts.** Cody named these specifically.
+- **SEO content farms and recipe aggregators** — the sites that rank well and cook nothing.
+- **User-submitted recipe archives and anonymous copycat pages.** A copycat recipe posted by an unnamed user is not a source; it's a guess with formatting. *(This rule exists because one was used, on 2026-09-08, for [§4.7 Captain Mike's](codys-cookbook.md#47-captain-mikes-seasoning) — Cody rejected the result outright.)*
+
+**How to write it up, every time:**
+
+1. **Label the fill as cookbook judgment** — plainly, where a reader will see it, not buried in a footnote.
+2. **Name the source you reasoned from.** Publication and author or recipe name is enough. **Do not attach a URL you cannot verify from this environment** — a wrong link is worse than no link.
+3. **State what is Cody's and what is the cookbook's.** The ingredients, the order, the technique may be his; if the numbers are yours, say so in that sentence.
+4. **Say plainly that his own figures supersede yours** the day he gives them. They always do.
+5. **Log it in `CHANGELOG.md`** like any other change.
+
+**And judgment has a limit: it fills gaps, it does not invent facts.** If the honest answer is that the source never says and no credible reference covers it, that stays an Open Question. Never dress a guess up as research.
+
+## 3e. Rare or Hard-to-Find Ingredients
+
+**Added 2026-09-09, from Cody's own reasoning on [§7.85 Hanger Steak with Duck Fat Wild Mushrooms](codys-cookbook.md#785-hanger-steak-with-duck-fat-wild-mushrooms):** *"we don't have duck fat, can we substitute that with tallow or something else... some of these recipes call for rare ingredients... it's just gonna deter the decision-making process... we can still order it from Amazon or online."*
+
+**When a recipe calls for a genuinely hard-to-find ingredient, note a workable substitute and/or mention that it's orderable online**, right alongside the ingredient — so the ingredient doesn't quietly talk someone out of picking that dish off the [Meal Planning Sheet](codys-cookbook.md#meal-planning-sheet). A substitute suggested this way is cookbook judgment per §3d — label it as such, name what it's reasoned from, and never alter the source's own printed ingredient line to do it; the substitute goes alongside the transcription, not in place of it.
+
+**Scope: this does not mean auditing every rare ingredient in the book at once.** It was applied narrowly to §7.85 on 2026-09-09, one entry at a time as they come up — a full-book pass looking for every hard-to-find ingredient is a separate, larger task, only worth doing if Cody asks for it.
+
+## 3f. Leftovers Are Spoken, Not a Sheet Category
+
+**Added 2026-09-12 at Cody's direction, and it retires a thing this cookbook built for him.** The [Meal Planning Sheet](codys-cookbook.md#meal-planning-sheet) carried a **🍱 Leftovers** group from 2026-09-09 until 2026-09-12. He called it his own mistake and asked for it gone:
+
+> *"I improperly said, made you put in a leftover section, and I think that that's a waste. I think it's silly. What I need you to do instead is, if I have leftovers, I'm just going to verbally tell you that there are leftovers."*
+
+**So: leftovers are something he says out loud while planning a week. They are not a category on the sheet, and the sheet must never grow the group back** — not as a convenience, not as a kindness, not because a leftovers line "would be useful." Every recipe that group held is still on the sheet, in its own regular group. The three lines that lived nowhere else moved there on 2026-09-12: [§8.47 Frito Pie](codys-cookbook.md#847-frito-pie) into 🥣 Soups, Gumbos & Chili, [§7.146 Pho with Leftover Beef](codys-cookbook.md#7146-pho-with-leftover-brisket-and-smoked-bone-broth) into 🍜 Pasta, Rice & Noodle Bowls, and [§7.1 Cody's Pulled Pork Street Tacos](codys-cookbook.md#71-pulled-pork-tacos) into 🐖 Pork. *(Later the same day Cody merged Frito Pie into [§8.1 Chili Mac & Frito Pie](codys-cookbook.md#81-chili-mac--frito-pie), so that moved line is now the merged entry's line — still on the sheet, still in 🥣 Soups, under both names.)*
+
+### The two things he can say, and they do not mean the same thing
+
+**1. "Leftover meat" — subtract the meat, and only the meat.** This also covers *frozen meat*, *previously cooked meat*, and anything of that shape.
+
+> *"If I say specifically leftover meat, we'll still have, for instance, for the street tacos, you'll still have to cut the fresh cilantro, lime, and all of that. However, you won't have to cook the pork. Same with pulled pork sandwiches — we'll have to buy buns, we'll have to likely create pickled pink onions for both, but we won't have to cook the meat, and that's one of the hardest steps sometimes."*
+
+> *"Whenever I say leftover meat… you can subtract all the grocery ingredients for that meat, and you could subtract the cooking instructions for that meat, because we already have it cooked."*
+
+Drop that meat from the grocery list, and drop its cooking stages from the instructions **and from the calendar**. **Everything else in the dish still happens.** Cilantro, lime and onion still get chopped for the street tacos; buns still get bought for the sandwiches; [§4.5 Pickled Pink Onions](codys-cookbook.md#45-pickled-pink-onions) still likely get made for both. Subtracting the meat is not subtracting the meal.
+
+**2. "Leftover [the dish]" — the whole meal is leftovers.** *"Leftover street tacos"* names the dish, not the meat, and it means nothing is shopped and nothing is made.
+
+> *"If I say I've got leftover street tacos, then that's leftover street tacos as a whole, not just leftover meat. I will tell you if we've got leftover meat only."*
+
+This is what happens when the dish was already eaten earlier in the same week — the chopped onion, the cilantro and the lime are left over too.
+
+**He will say which one he means.** Leftover meat is by far the more common of the two. A leftover that isn't meat is a possible anomaly rather than a pattern — **ask when one comes up** rather than assuming which reading applies.
+
+### Frozen or thawed — ask if he didn't say
+
+> *"If it's frozen — if I don't specify if it's frozen or not, you need to ask me, because we're gonna have to create a calendar event that says, hey, you've got to thaw the meat from the freezer."*
+
+Two standing readings:
+
+- **Leftovers from earlier in the same week's plan are in the fridge, already thawed.** No thaw event. His own example: street tacos Monday, pulled pork sandwiches Tuesday, the same pork — *"you can safely assume — and feel free to ask — that the leftover meat will already be thawed, because I'm using the leftover pulled pork from the night before."*
+- **Anything else is presumed frozen until he says otherwise, and a frozen item earns a thaw event**, placed back from the meal like any other countdown stage.
+
+**Forgetting to thaw is the exact failure this rule exists to prevent.** In his words: *"Not thawing the meat is a thing that we do. We forget to thaw the meat sometimes. So having those reminders is helpful, just like it would be to sous vide ahead of time, or to salt brine, dry brine in the fridge the night before, two nights before, or a two-day sous vide cook."* **A thaw event ranks with a dry brine or a two-day sous vide** — a real scheduled stage, not a nicety.
+
+**Calendar event, reminder, or both — his open preference.** *"That should be either a reminder or a calendar event… maybe we should do both, quite frankly. I will revise later."* **Default to a calendar event** and say so when you make one; do both if he asks. Revisit when he revises.
+
+### Thaw times — researched, never guessed
+
+**Per §3d, thawing is a food-safety question, so the figures come from USDA FSIS and nowhere else.** Two published FSIS figures do all the work here:
+
+- **"A large frozen item like a turkey requires at least a day (24 hours) for every 5 pounds of weight,"** and **"even small amounts of frozen food — such as a pound of ground meat or boneless chicken breasts — require a full day to thaw."** *(USDA FSIS, "The Big Thaw — Safe Defrosting Methods.")*
+- **In the refrigerator, "ground beef, stew meat and steaks may defrost within a day," while "bone-in parts and whole roasts may take 2 days or longer."** *(USDA FSIS, "Beef From Farm to Table.")*
+
+**Applied to the two cases that actually come up in this house — the reading is the cookbook's, the numbers are FSIS's:**
+
+- **A vacuum-sealed bag of shredded or pulled pork — allow a full day, 24 hours, in the fridge.** Even a one-pound package gets a full day under FSIS's rule, and these bags run two to four pounds. **Start it the morning before dinner, not the night before** — *"I'm not sure how long a whole bag of shredded pork takes to thaw"* is his own open question, and this is the safe-side answer to it.
+- **A whole chuck roast frozen after the sous vide — allow 2 days.** It is a whole roast, and FSIS puts whole roasts at *2 days or longer*; the 24-hours-per-5-pounds rate agrees for the 3-to-5-pound roasts he batches for [§1 Cody's Pho](codys-cookbook.md#1-codys-pho). Two or three roasts thawing in one fridge are slower still, not faster.
+
+**Thawing early is cheap, so err early.** After refrigerator thawing, FSIS keeps red-meat cuts — beef, pork and lamb roasts, chops and steaks — **3 to 5 days** in the fridge before cooking, and ground meat, stew meat, poultry and seafood **an additional day or two**, so a thaw started a day ahead of schedule costs nothing.
+
+**These are FSIS's raw-item figures read onto already-cooked frozen meat, which is the conservative direction.** They are working planning figures, not lab measurements, and **Cody's own figures supersede them the day he gives them** — he said he would revise.
+
 ## 4. Handling Recipe Revisions
 
 Cody will frequently come back after cooking and ask for a tweak — e.g., "Add another teaspoon of hot sauce to Crawfish Elegante."
@@ -140,11 +242,14 @@ If a tweak conflicts with something already documented, flag it clearly in the c
 
 ## 6. Established Kitchen Facts (do not re-litigate)
 
+- **Every temperature in this cookbook is Fahrenheit unless it explicitly says otherwise.** *(Cody, 2026-09-08: "when I say 150 degrees, I'm always talking in Fahrenheit — that should be throughout the cookbook.")* When he dictates a bare number, read it as °F. Where a transcribed source prints Celsius, keep the source's figure and give the °F conversion alongside it.
 - **Cody's Pho** is the first documented recipe.
 - Chuck roast is the meat for the pho — not brisket.
 - Sous vide dry rub is kosher salt, garlic powder, black pepper only. No five spice, no fresh garlic, no liquid in the bag.
 - Sous vide temp: 131–133°F for 24–48 hours.
 - Fresh garlic in a sous vide bag is an anaerobic botulism risk; garlic powder is the safe substitute.
+- **The healthy chip is the Siete *maíz* (corn) tortilla chip in 100% avocado oil — that is the default, and it is bought in a store, never ordered.** *(Cody, 2026-09-12: "the healthy way is these Siete maíz corn tortilla chips that use a hundred percent avocado oil… you can default to the corn tortilla chip, the Siete, instead of the almond flour. Those almond flours are rather expensive. And if I specifically specify, then I'll tell you.")* **Xochitl avocado oil tortilla chips** are the named alternative; **Siete almond flour chips** are the keto option and only when he asks for them by name. **On where they come from he was explicit:** *"I want to have those in store, in Walmart. I don't wanna have to order those Walmart Plus, just so you know — those should be from the regular grocery store."* So they are an in-person grocery buy, they never go on an online order, and **§3e's "you can order it online" treatment does not apply to them.** Written up at [§8.1 Chili Mac & Frito Pie](codys-cookbook.md#81-chili-mac--frito-pie).
+- **Cody keeps a standing stash of [§4.108 Meathead's Memphis Dust](codys-cookbook.md#4108-meatheads-memphis-dust) on hand at all times.** *(Cody, 2026-09-09: "Memphis Dust, I have a huge amount of it at all times.")* This is guidance for conversational grocery-list building only — it can be skipped there without checking. It does **not** mean stripping Memphis Dust from any recipe's own printed Grocery Shopping List in the master file; those stay complete per §3.
 
 ## 7. Out of Scope for Code Sessions
 
@@ -152,3 +257,38 @@ Two jobs from the old setup live in regular Claude chat, not here:
 
 - **Grocery pushes to Reminders** — the Reminders integration isn't available in Code sessions. The grocery list in each recipe stays current here; pushing items to phones happens in a normal chat.
 - **Live cooking tutor mode** — walking someone through a recipe step by step happens in regular chat/voice, not in a Code session.
+
+## 8. The Chat Side Lives in the Repo
+
+**Added 2026-09-12 at Cody's direction.** The family uses the cookbook from regular Claude chat through a *master-cookbook* skill, and Cody wants that skill **fixed and minimal** so nobody has to update theirs when a rule changes:
+
+> *"I want the skill to only reference the code, and the code continually gets updated… otherwise, when I give this skill to all the different family members, they're gonna have to rewrite their skill every time I update it."*
+
+**So the skill is one paragraph that points at one file, and everything else is in this repo.** Five hand-maintained files at the root, none of them cookbook content:
+
+- **`CHAT.md`** — **the chat operating manual.** The skill sends every chat session here first. It says where to read (the generated `planner/` folder — never the 4 MB master), how to talk (short by default; details on request), how to plan a week, how to build and push the grocery list, the refresh rule when something changed mid-conversation, what chat may write down, and the one-time setup each family member needs. **When a rule in this file or in the book changes in a way that affects a chat session, update `CHAT.md` in the same commit.** The reference copy of the skill is `tools/master-cookbook-SKILL.md`. **It carries exactly one thing that cannot live in the repo — the trigger**: a skill's description is what decides whether it fires, so the skill spells out when the conversation is about food cooked at home (planning, groceries, a house dish, cooking live, feedback on a meal, leftovers, timing, substitutions, household groceries) and when it isn't (restaurants, eating out, *"what's good in Columbia, Missouri"*). Cody, 2026-09-12: *"I want that trigger to be accurate and thoughtful every time… once the trigger happens, then the GitHub file gets executed."* Everything after the trigger is `CHAT.md`, which mirrors the trigger list in its §0. The skill changes only if the trigger needs to; the logic never requires it. **Two hard constraints on the skill file, learned by tripping them: the description may not contain angle brackets** — a validator reads `<anything>` as an XML tag and rejects the upload, which is what a placeholder like *"what's good in <a town>"* did on 2026-09-12 — **and it must stay a single-line, double-quoted YAML string** with no interior double quotes. Write placeholders in words, never in brackets, and re-check with a grep for `[<>]` before handing the file to anyone.
+- **`PROPOSED-REVISIONS.md`** — **the revision-request queue, and the file a chat session writes to for anything touching the book.** Cody, 2026-09-12: *"I wanna make it one hundred percent open to writing from people who have my master cookbook skill… it says, I have put that down as a revision request. When Cody approves it, it will be implemented."* **Anything anyone wants changed goes there** — a taste note, a specific quantity, a dish on or off the fridge sheet, the sheet's formatting, a household grocery item, a substitution, a new recipe, a rating — attributed by name. The family as he named it (spellings transcribed from voice, unconfirmed): Cody, Vicky, Calter, Mabel, Craig, Joeta, Darcy; anyone else files under whatever name they give. The file itself carries the exact write procedure (read, insert below the marker line, write back, say the confirmation sentence) and the email fallback for a chat with no repo access. **Every Code session reads this file first, reviews the Open entries with Cody, applies the ones he approves, and moves each to Done or Declined with the date and outcome. His own entries are applied without waiting.**
+- **`HOUSEHOLD-STAPLES.md`** — **groceries that aren't recipes.** Cody's rule for what belongs where: *"quick pickles should go into the family cookbook because… it requires cooking. Cottage cheese and all that stuff… doesn't go in a cookbook, but should be included into the refrigerator list."* So fruit, snacks, Nutella and croissants, sandwich fixings live here, not in the master file, and the weekly grocery list pulls from here after the recipes' own lists. **Chat reads it but does not write it** — an addition is a revision request like anything else (his Nutella example), and a Code session adds the line once he approves. The fridge sheet's own No-Cook rows stay Cody's picks and change only at his word.
+- **`CONSUMABLES.md`** — **the repeat-buy log, added 2026-09-14.** Cody: *"I've loved the Zevia cream sodas and the Zevia root beers… there needs to be a time log or something. Hey, it's been a week, and you've cooked this and this and this — are you low on Zevia? … I think we're missing drinks and the necessity of drinks in our system. Obviously that's kind of separate than the actual cookbook."* Later the same day he widened it past drinks: *"repeat items like milk… toilet paper, paper towels, cleaning supplies, trash bags — all the time we're buying that and putting it on our order… this does not go into the cookbook or any kind of cooking methods. It just goes into the grocery planning system… maybe you can learn the behavior… and I think you can also set a frequency too."* So: anything this house buys on a rhythm, food or not, with **its purchase dates kept newest first**. **Intervals are either *set*** (someone names the rhythm — his "about a week" for the Zevia) **or *learned*** (unknown until two or three dates give an average; a learned figure never overrides a set one). **Chat writes it without approval** — a date stamp when a run happens, a new item when someone says they buy it regularly. It is a shopping log, not cookbook content, which is exactly why it is writable; anything that would change a **recipe** is still a revision request. **Two honest limits are written into the file and must stay there:** nothing is invented — an item with no interval and no date is never "due" — and **nothing here can reach out on its own**: a chat session has no background process, so the question only gets asked when somebody opens a conversation. **And it is asked as one question**, every due item in a single sentence, because he named questions as the bottleneck of the planning phase.
+- **`COOKING-LOG.md`** — **the cooking-date log, added 2026-09-14.** Cody: *"I would like you to log dates on when we cook things… like a cooking date log… If I say, hey, I'm gonna eat this tonight, we're wanting to cook this tonight, you can go ahead and log it… we'll just have to have an ongoing conversation because I may or may not end up cooking that."* One row per night, every dish on it linked by anchor, who cooked, a status — **provisional** the moment a dish is named for tonight, then **confirmed** or **skipped** the next time that night comes up — and a one-line verdict if one was given (*"Phenomenal. Absolutely phenomenal."* for the 2026-09-12 steak night). **Chat writes it without approval.** It is what lets a planning conversation say *"you've cooked this and this and this"*, and it is the only record of which dishes are the real regulars when the printed cookbook (§9) is finally laid out. A verdict that would change a recipe is a revision request, not a log note.
+
+**Built for voice on a small model — added later on 2026-09-12.** Cody: *"that fridge reference sheet should be immediate… short summaries, so that I can put this thing on Haiku and talk to it… then for the more complicated stuff, after it's all planned out, the real work begins."* So the chat side is two-stage and the entry files are small:
+
+- **`planner/quick.md`** is what a chat session fetches **first** — the ⭐ Staple mains and sides only, one plain-words line each (name, difficulty as a word, hands-on minutes, serves, favorite/whole-meal/grill/keto as words, *sounds like*, file). Generated from the sheet's ⭐ rows plus **`tools/aliases.txt`**, the hand-maintained map of how each dish name comes out of voice transcription (*foe* → pho, *suvita* → sous vide, *Tony Sattery's* → Tony Chachere's). **When a new mangle turns up, add it to `tools/aliases.txt` and rebuild** — the generator rejects any anchor it can't find. `planner/aliases.md` is the full list for the whole book.
+- **`CHAT.md` is kept short** (target under 8 KB), imperative, and split into **Stage 1 Plan** (fast, from `quick.md` only, one question at a time, one spoken yes) and **Stage 2 Build** (*"give me a minute"* — recipes, grocery list, calendar, document). **A third stage joined them 2026-09-14** — *Stage 3*, the two rounds that come back later: the **pantry check** (he walks the cabinets, ticks items off in Reminders, and the chat **re-reads the list off the phone** rather than its own copy, then hands back a revised buy list) and the **cart run** (on a computer only, the Chrome extension filling the Walmart cart from the revised list, **every miss and every substitution reported by name**, misses routed to Amazon or Hong Kong Market on offer). His words and the full procedure are [§T111 §2a](codys-cookbook.md#t111-planning-a-week--the-conversation-mode-workflow). **Questions are the bottleneck of Stage 1** — Cody, 2026-09-14: *"if you ask too many questions, it's going to be a bottleneck. It's designed for the utmost accuracy while maintaining speed"* — so `CHAT.md` §4 assumes the small things, states every assumption in the read-back, and folds all due repeat-buys into one question. **Model by stage, his call the same day:** Stage 1 on Haiku is fine; **Stage 2's document is Opus** — *"that Word doc was created a special way… I think the Word doc model should be Opus… especially the first couple of times we're doing it with Opus, so we can set some principles up."* **The live chat walkthrough is not an Opus job, and the reason is the design principle behind it:** *"the live cooking in chat is really just following the logic of the word document. The word document is where all the logic is. It's gonna give you steps to start… I want you to follow the steps of the word document in the chat and then refer to any kind of techniques that apply… the chat should be able to retrieve that based on our tagging system."* So the document decides the order, the pairings and the timing once, with the strong model; the chat **walks that document's steps and fetches §T entries by the recipe's technique tags** when a step calls for one — retrieval, not reasoning, which is what Sonnet is for. Only when no document exists for tonight does the chat build the sequence itself, per §T112. *(A first reading on 2026-09-14 put the walkthrough on Opus too; he corrected it the same hour — the document is where the thinking happens.)* `CHAT.md` §5 and §7 say so. **And the document lives in the repo, not just in Word — `tonight/<date-of-dinner>.md`, added later on 2026-09-14.** Cody: *"it just needs to be easily accessible… with the Word doc I have to actually manually share this thing… there's gotta be a cleaner way to create a word file and then chat about that file — some triggers."* The trigger is the file: Stage 2 writes `tonight/2026-09-14.md` when it builds the night (seven files for a week), and *let's cook* makes the chat fetch `tonight/<today>.md` by URL like everything else — nothing to share, nothing to find. Word doc and email are copies on request. `tonight/README.md` carries the format; each technique step names its §T planner file in brackets. **Last-minute swaps are expected there and handled live on any model** — *"a substitute for coriander… we have half-and-half only… those are simple things you can just look up and change"* — cookbook first ([§T106](codys-cookbook.md#t106-salts-stocks--broths-sugars-vinegars-winebeerspirits-and-zest--pantry-reference-the-meathead-method)), then one quick credible lookup per §3d's short form with the source named aloud, the swap written into that night's file under *Swaps made tonight*, and a revision request only if it should stick. `tonight/` is chat-written, never hand-edited here, never the source of a recipe. Its voice rules: no tables or symbols spoken, section numbers never said aloud, long lists counted then offered, names matched by sound before ever saying "not found." Anything long-form belongs in [§T111](codys-cookbook.md#t111-planning-a-week--the-conversation-mode-workflow), not in `CHAT.md`.
+
+**The spoken walkthrough and tonight's instructions — added later on 2026-09-12.** Cody: *"one step at a time… if you just give them steps one through thirty-five, that's worthless… there needs to be unique instructions based on the sides every time… put in parenthesis what it's for, just in case we make some last-minute substitution."* **[§T112](codys-cookbook.md#t112-cooking-the-whole-meal--sequencing-several-dishes-and-the-spoken-walkthrough)** holds the rules as cookbook content: every stage of every dish is *precision*, *check-in* or *hands-off*; never two precision stages at once; hands-off first; precision in the rest windows; the night's document is one merged sequence with every step tagged *(for the X)* and simultaneous steps as an *"at the same time"* block; spoken, it is one step, then stop, with a private pointer to the current dish and step. `CHAT.md` §7 carries the short form. A Code session that changes how any recipe's steps are structured should keep §T112's worked example (Darcy's steak, Brussels sprouts, caulimash) true.
+
+**What this does not change:** the master file is still the single source of truth, still edited only here, still one file. `planner/` is still generated, never hand-edited, and must be rebuilt (`python3 tools/build_planner.py`) in the same commit as any master-file change — its `README.md` carries a build stamp that chat sessions compare against the top of `CHANGELOG.md`. Nothing in these five files is cookbook content, so §2's rule against splitting the book is not touched.
+
+## 9. The Printed Cookbook Is Coming — Keep the Book Printable
+
+**Added 2026-09-14 at Cody's direction. Not a task yet; a standing direction that shapes every task.** Cody: *"I wanna make it very clear that I want a beautiful cookbook that I could end up printing out. Nothing anytime soon, but I want you to program this in such a way that it does look like a real cookbook… we'll organize it later, but just know that there is going to be a cookbook, and so there will be things that aren't included in the cookbook that are in our system, our meal system, and planning and all that stuff. You wouldn't include Zevia soft drinks or anything like that."*
+
+**What this means now:**
+
+- **The recipe entries are the printed cookbook's manuscript.** Every entry keeps its three sections in order, its badge, its Nutrition block, its Open Questions where honest — nothing that would embarrass a printed page. Technique entries (§T) print too; they are the book's reference chapters.
+- **The operating files never print.** `CHAT.md`, `PROPOSED-REVISIONS.md`, `HOUSEHOLD-STAPLES.md`, `CONSUMABLES.md`, `COOKING-LOG.md`, `tonight/`, `planner/`, `tools/` — the *meal system*, in his phrase — stay out of it entirely. When something new arrives, the first question is *cookbook or system?* Common sense answers it: if it isn't cooking, it isn't in the book.
+- **Photos live in `photos/`, one per dish, named by the recipe's anchor** — `photos/3-darcys-steak.jpg` — so each recipe can pick up its picture without a lookup table. `photos/README.md` carries the convention. He is taking them now; a Code session files them.
+- **`COOKING-LOG.md` is the evidence of what the regulars are.** When the book is laid out, the dishes cooked most are the ones that lead.
+- **Section order, chapter structure, and which entries make the cut are decided later, with him** — *"we'll have to kinda look at it and see which sections go where."* Do not reorganize the master file toward a print layout on your own; the master's current order is the working order.

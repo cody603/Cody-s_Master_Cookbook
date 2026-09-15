@@ -4709,9 +4709,9 @@ Transfer the sauce to clean (or even sterile) jars and store in the refrigerator
 | | Calories | Fat | Protein | Carbs | Fiber |
 |---|---|---|---|---|---|
 | **Whole batch** | ~1,600 | 175 g | 3 g | 20 g | 0.5 g |
-| **Per serving** *(2 Tbsp, of 7)* | ~230 | 25 g | 0.4 g | 3 g | 0.1 g |
+| **Per serving** *(¼ cup, of 7)* | ~230 | 25 g | 0.4 g | 3 g | 0.1 g |
 
-**What a serving is:** about 2 Tbsp, brushed onto barbecued chicken, turkey, or pork.
+**What a serving is:** about ¼ cup — 1¾ cups divided seven ways — brushed onto barbecued chicken, turkey, or pork.
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -16484,7 +16484,7 @@ Keeping the gaps visible so the chapter reads as one piece rather than a pile of
 - **Cold flavored butters (*beurres composés*, p. 99)** — the source's short intro on using them on hot dishes and for basting. This cookbook's [§4.55](#455-fresh-herb-butter)–[§4.58](#458-pimentón-butter) already cover the group itself.
 - **Cream sauce (source p. 59)** — offered as an alternative base in [§4.66 Sauce Aurore](#466-sauce-aurore-béchamel-or-velouté-with-tomato-flavoring) and [§4.67 Sauce Chivry](#467-sauce-chivry--sauce-à-lestragon-herbal-white-wine-sauce-and-tarragon-sauce). Both work fine on plain [§4.63](#463-sauce-béchamel--sauce-velouté-master-white-sauce) in the meantime.
 - **A second Sauce Soubise (source p. 355)** — the book prints an alternate version in its Veal section. [§4.69](#469-sauce-soubise-onion-sauce) is the sauce-chapter one.
-- **Clarified butter (p. 15)**, **meat glaze (p. 110)**, **brown stock (p. 107–110)**, **white stocks (p. 109, 114, 115, 237)**, — supporting techniques the recipes cite. *(**Peeling/seeding tomatoes, p. 505–506, is no longer open** — it's transcribed in full at [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole)'s Step 2, with both of the source's illustrations embedded.)* [§T12](#t12-fast-homemade-chicken-broth) and [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) cover the stock ground already.
+- **Clarified butter (p. 15)**, **meat glaze (p. 110)**, **brown stock (p. 107–110)**, **white stocks (p. 109, 114, 115, 237)** — supporting techniques the recipes cite. *(**Peeling/seeding tomatoes, p. 505–506, is no longer open** — it's transcribed in full at [§5.22 Ratatouille](#522-ratatouille-eggplant-casserole)'s Step 2, with both of the source's illustrations embedded.)* [§T12](#t12-fast-homemade-chicken-broth) and [§T13](#t13-basic-stock-formula-fowl-beef-pork--seafood) cover the stock ground already.
 - **The five sauces in section I above**, plus Sauce Chasseur — all real recipes, just printed in other chapters.
 
 *No Nutrition block or difficulty badge on this one — like [§T4](#t4-stocks--ingredient-conventions), [§T5](#t5-seasonings--peppers), and [§T7](#t7-louisiana-language--ingredients), it's pure reference rather than something you cook, so it stays out of the [Difficulty & Time Index](#difficulty--time-index) counts. The sauces built from it carry their own.*
